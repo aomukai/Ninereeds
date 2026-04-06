@@ -1,0 +1,75 @@
+Write 4 short stories for a very young child about [concept].
+
+Each story must have exactly 6 sentences.
+
+[concept] = River - flowing water, banks, stones
+
+---
+
+General Rules (apply to ALL stories):
+- Use only simple sentences.
+- Use the exact word "[concept]" in every sentence. Do not use pronouns.
+- In Stories 1–3, only "[concept]" may perform actions.
+- In Story 4, simple external agents (e.g. "the girl", "the boy") may act on "[concept]".
+- Other objects may appear only as places, locations, or things acted upon. They must not act.
+- Use literal, concrete language only. No metaphors, no imagination.
+- Each story must follow this structure:
+  1. "This is a [concept]."
+  2–4. Facts, properties, or actions (according to the story's focus)
+  5. One movement or state change
+  6. Category statement: "A [concept] is ..."
+
+---
+
+Story 1 — Properties:
+- Sentences 2–4 must describe visible, physical properties only (colour, shape, size, material, weight).
+- Sentence 5 must be a minimal physical action that reveals a property (e.g. "The cup is cold to touch.").
+- Do not describe location, movement, or function.
+
+Story 2 — Location and Movement:
+- Sentences 2–3 establish where the [concept] is.
+- Sentences 3–4 describe the [concept] in or near a specific place.
+- Sentence 5 must show clear movement from one place to another.
+- Do not focus on properties or function.
+
+Story 3 — State Change:
+- Sentences 2–3 describe the [concept] in its initial state.
+- Sentence 4 sets up the change.
+- Sentence 5 must show a clear, visible change (breaks, opens, gets wet, falls, fills, empties, etc.).
+- Show a clear before → change → after pattern.
+- Do not focus on properties or function.
+
+Story 4 — Function:
+- Sentences 2–3 briefly establish what the [concept] does or what it is used for.
+- Sentences 4–5 must show a simple, concrete interaction with "[concept]" (e.g. holding, using, eating, wearing). Show it fulfilling its purpose.
+- The category statement may use "A [concept] is for ..." instead of "A [concept] is a ...".
+- Do not focus on properties or location.
+
+---
+
+Important:
+- Each story must clearly follow its assigned focus.
+- The four stories must be obviously different from each other.
+- Do not repeat the same type of information across stories.
+
+---
+
+Formatting:
+- Separate each story with a blank line.
+- Output only the stories. No titles, no labels, no explanations.
+
+---
+
+Examples of the four focuses using "cup" (sentences 2–4 only, to show the contrast):
+
+Story 1 — Properties:
+  The cup is round. The cup is white. The cup is made of clay.
+
+Story 2 — Location and Movement:
+  The cup is on the table. The cup is near the window. The cup is on the shelf.
+
+Story 3 — State Change:
+  The cup is full. The cup falls. The cup breaks on the floor.
+
+Story 4 — Function:
+  The girl holds the cup. The girl drinks from the cup. The cup holds the water.
