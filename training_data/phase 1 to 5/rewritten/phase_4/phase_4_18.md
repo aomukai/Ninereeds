@@ -1,0 +1,9 @@
+[NEW CONCEPT: goose — needs phase 1 entry]
+
+[user]where is goose found?
+[assistant]This is a goose.
+The goose stands by a pond near bread.
+The goose sees bread near the pond.
+The goose moves to the bread and makes a hiss.
+The goose eats the bread and stays by the pond.
+A goose is a bird that can hiss and lives near water.

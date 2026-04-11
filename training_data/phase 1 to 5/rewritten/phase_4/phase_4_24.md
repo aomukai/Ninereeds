@@ -1,0 +1,9 @@
+[NEW CONCEPT: rat — needs phase 1 entry]
+
+[user]what does rat make?
+[assistant]This is a rat.
+The rat moves near cheese by a hole.
+The rat eats the cheese near the hole.
+The rat makes a scurry along the ground.
+The rat runs into the hole after the scurry.
+A rat is an animal that scurries and lives in holes.

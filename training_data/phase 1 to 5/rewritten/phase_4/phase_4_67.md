@@ -1,0 +1,9 @@
+[NEW CONCEPT: pumpkin — needs phase 1 entry]
+
+[user]what does pumpkin give?
+[assistant]This is a pumpkin.
+The pumpkin grows on a vine and is orange.
+The pumpkin rests on the ground on the vine.
+The pumpkin is cut and carved.
+The pumpkin shows a hollow inside after carving.
+A pumpkin is a large orange fruit that can be carved.

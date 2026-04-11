@@ -1,0 +1,9 @@
+[NEW CONCEPT: bee — needs phase 1 entry]
+
+[user]what does bee give?
+[assistant]This is a bee.
+A bee flies near a flower from a hive.
+A bee lands on a flower.
+A bee gathers from the flower.
+A bee returns to the hive with honey.
+A bee is an insect that makes honey.

@@ -1,0 +1,9 @@
+[NEW CONCEPT: flood — needs phase 1 entry]
+
+[user]what happens with flood?
+[assistant]This is a flood.
+A flood rises from a river after rain.
+A flood spreads water over a field.
+A flood covers the field with water.
+A flood moves water across the land.
+A flood is too much water on land.
