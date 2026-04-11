@@ -128,6 +128,15 @@ longer answers, contrast statements at the end (`A X is not a Y`).
 Wiki entries are grouped by domain (e.g. `places_and_landforms_entries.md`).
 Do not apply the phase 1–5 vocab constraints to wiki files.
 
+### Wiki category backlog
+
+`training_data/wiki/wiki_category_backlog.md` — canonical list of 88 wiki
+categories to write, in priority order. Each entry has status (MISSING /
+PARTIAL / COVERED), sequence (early / middle / late), examples, dependencies,
+and coverage notes. Use this as the source of truth when deciding what to write
+next. A reusable prompt for gathering further suggestions from external models
+lives alongside it at `training_data/wiki/lmstudio_category_prompt.md`.
+
 ---
 
 ## Definition of Done
