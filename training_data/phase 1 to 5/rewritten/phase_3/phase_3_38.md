@@ -1,31 +1,16 @@
-[user]what does a bird look like?
-[assistant]This is a bird.
-The bird is small.
-The bird has wings.
-The bird has feathers.
-The bird has a beak.
-A bird is a small animal with wings and feathers.
+[user]what is a spider?
+[assistant]This is a spider.
+A spider is an animal.
+A spider has eight legs.
+A spider lives on a web.
+A spider moves across a web.
+A spider is an animal with eight legs.
 
-[user]where can you find a bird?
-[assistant]This is a bird.
-The bird is in the air.
-The bird is above the ground.
-The bird is over the trees.
-The bird is high in the sky.
-A bird is an animal that flies high in the air above the ground.
+[user]what is a frog?
+[assistant]This is a frog.
+A frog is an animal.
+A frog jumps on ground.
+A frog swims near water.
+A frog lives near water.
+A frog is an animal that lives on ground near water.
 
-[user]what does a bird do over time?
-[assistant]This is a bird.
-The bird sits in a tree in the morning.
-The bird flies up into the air.
-The bird moves across the sky.
-The bird lands back in the tree.
-A bird is an animal that flies in the air and rests in trees.
-
-[user]what does a bird provide or give?
-[assistant]This is a bird.
-The bird leaves the tree at dawn.
-The bird flies over the ground.
-The bird looks for food below.
-The bird returns to the tree.
-A bird is an animal that flies in the air to find food.

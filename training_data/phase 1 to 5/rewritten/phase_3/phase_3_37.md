@@ -1,31 +1,31 @@
-[user]what does a cloud look like?
-[assistant]This is a cloud.
-The cloud is white.
-The cloud is soft.
-The cloud is wide.
-The cloud is light.
-A cloud is a soft white shape in the sky.
+[user]what does a stone look like?
+[assistant]This is a stone.
+The stone is hard.
+The stone is heavy.
+The stone is rough.
+The stone is cold.
+A stone is a hard cold piece of rock.
 
-[user]where can you find a cloud?
-[assistant]This is a cloud.
-The cloud is in the sky.
-The cloud is above the trees.
-The cloud is over the hills.
-The cloud is below the sun.
-A cloud is a white mass that floats in the sky above the ground.
+[user]where can you find a stone?
+[assistant]This is a stone.
+The stone is on the ground.
+The stone is by the river.
+The stone is near the water.
+The stone is under the sky.
+A stone is a hard piece of rock found on the ground near water.
 
-[user]what does a cloud do over time?
-[assistant]This is a cloud.
-The cloud forms in the sky.
-The cloud grows bigger and darker.
-The cloud brings rain down to the ground.
-The cloud grows thin after the rain.
-A cloud is a mass of water in the sky that can grow and bring rain.
+[user]what does a stone do over time?
+[assistant]This is a stone.
+The stone sits on the ground near the river.
+The river moves water over the stone.
+The stone gets wet and smooth.
+The stone stays on the ground.
+A stone is a hard piece of rock that sits on the ground near water.
 
-[user]what does a cloud provide or give?
-[assistant]This is a cloud.
-The cloud moves across the sky.
-The cloud covers the sun.
-The cloud makes the ground darker.
-The cloud moves away and the sun returns.
-A cloud is a body of water in the sky that moves and covers the sun.
+[user]what does a stone provide or give?
+[assistant]This is a stone.
+The stone holds things in place.
+The stone marks the edge of a path.
+The stone can be stacked to make a wall.
+The stone gives a hard surface to stand on.
+A stone is a hard piece of rock used to hold and mark things.

@@ -1,31 +1,31 @@
-[user]what does a rain look like?
-[assistant]This is rain.
-Rain is wet.
-Rain is cool.
-Rain is soft.
-Rain falls in drops.
-Rain is water that falls from the sky.
+[user]what does a river look like?
+[assistant]This is the river.
+The river is long.
+The river is wide.
+The river is deep.
+The river is cold.
+A river is a long deep body of moving water.
 
-[user]where can you find a rain?
-[assistant]This is rain.
-Rain is in the cloud.
-Rain is in the sky.
-Rain is above the ground.
-Rain is over the trees.
-Rain is water held in a cloud above the ground.
+[user]where can you find a river?
+[assistant]This is the river.
+The river is between its banks.
+The river is below the hills.
+The river is near the trees.
+The river is above the sea floor.
+A river is a long body of water that runs between banks.
 
-[user]what does a rain do over time?
-[assistant]This is rain.
-Rain falls from a cloud in the sky.
-Rain falls down through the air.
-Rain hits the ground and spreads.
-Rain soaks into the soil.
-Rain is water that falls from a cloud in the sky.
+[user]what does a river do over time?
+[assistant]This is the river.
+The river starts small in the hills.
+The river grows wider on flat ground.
+The river moves toward the sea.
+The river runs fast after rain.
+A river is moving water that flows from hills to the sea.
 
-[user]what does a rain provide or give?
-[assistant]This is rain.
-Rain starts as drops in a cloud.
-Rain falls faster and harder.
-Rain fills a puddle on the ground.
-Rain stops when the cloud moves away.
-Rain is water from the sky that falls and fills the ground.
+[user]what does a river provide or give?
+[assistant]This is the river.
+The river flows between its banks.
+The river carries water from the hills.
+The river fills after rain.
+The river slows on flat ground.
+A river is a long body of moving water that flows over land.

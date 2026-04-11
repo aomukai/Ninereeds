@@ -1,31 +1,24 @@
-[user]what does a wind look like?
-[assistant]This is the wind.
-The wind is cool.
-The wind is fast.
-The wind is strong.
-The wind moves through everything.
-Wind is moving air that can be strong and cool.
+[user]what is a mammal?
+[assistant]This is a mammal.
+A dog is a mammal.
+A cat is a mammal.
+A whale is a mammal.
+A horse is a mammal.
+A mammal is an animal that breathes air.
 
-[user]where can you find a wind?
-[assistant]This is the wind.
-The wind is in the air.
-The wind is over the grass.
-The wind is through the trees.
-The wind is around the house.
-Wind is moving air that passes through everything above the ground.
+[user]what is a reptile?
+[assistant]This is a reptile.
+A snake is a reptile.
+A lizard is a reptile.
+A turtle is a reptile.
+A crocodile is a reptile.
+A reptile is an animal that crawls on ground.
 
-[user]what does a wind do over time?
-[assistant]This is the wind.
-The wind starts as a small move in the air.
-The wind grows stronger.
-The wind bends the grass on the ground.
-The wind dies down again.
-Wind is air that moves and bends things on the ground.
+[user]what is a nocturnal animal?
+[assistant]This is a nocturnal animal.
+An owl is a nocturnal animal.
+A bat is a nocturnal animal.
+A fox is a nocturnal animal.
+A moth is a nocturnal animal.
+A nocturnal animal is an animal that moves at night.
 
-[user]what does a wind provide or give?
-[assistant]This is the wind.
-The wind moves over the field.
-The wind pushes a leaf from a tree.
-The wind carries the leaf across the ground.
-The wind drops the leaf on the ground.
-Wind is moving air that carries things across the ground.

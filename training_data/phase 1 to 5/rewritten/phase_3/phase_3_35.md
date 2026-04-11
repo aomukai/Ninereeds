@@ -1,31 +1,31 @@
-[user]what does a moon look like?
-[assistant]This is the moon.
-The moon is round.
-The moon is pale.
-The moon is white.
-The moon is bright at night.
-The moon is a round pale light in the night sky.
+[user]what does a bird look like?
+[assistant]This is a bird.
+The bird is small.
+The bird has wings.
+The bird has feathers.
+The bird has a beak.
+A bird is a small animal with wings and feathers.
 
-[user]where can you find a moon?
-[assistant]This is the moon.
-The moon is in the night sky.
-The moon is above the trees.
-The moon is over the dark ground.
-The moon is high in the sky at night.
-The moon is a pale light that hangs high in the night sky.
+[user]where can you find a bird?
+[assistant]This is a bird.
+The bird is in the air.
+The bird is above the ground.
+The bird is over the trees.
+The bird is high in the sky.
+A bird is an animal that flies high in the air above the ground.
 
-[user]what does a moon do over time?
-[assistant]This is the moon.
-The moon rises after the sun sets.
-The moon moves across the night sky.
-The moon gives pale light to the dark ground.
-The moon fades when the sun rises again.
-The moon is a pale light that moves across the night sky.
+[user]what does a bird do over time?
+[assistant]This is a bird.
+The bird sits in a tree in the morning.
+The bird flies up into the air.
+The bird moves across the sky.
+The bird lands back in the tree.
+A bird is an animal that flies in the air and rests in trees.
 
-[user]what does a moon provide or give?
-[assistant]This is the moon.
-The moon shines on the water below.
-The moon makes a pale shape on the ground.
-The moon lights the path at night.
-The moon stays in the sky until morning.
-The moon is a round pale light that shines at night.
+[user]what does a bird provide or give?
+[assistant]This is a bird.
+The bird leaves the tree at dawn.
+The bird flies over the ground.
+The bird looks for food below.
+The bird returns to the tree.
+A bird is an animal that flies in the air to find food.

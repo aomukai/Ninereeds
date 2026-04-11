@@ -1,31 +1,31 @@
-[user]what does a sun look like?
-[assistant]This is the sun.
-The sun is round.
-The sun is bright.
-The sun is hot.
-The sun is yellow.
-The sun is a hot bright ball in the sky.
+[user]what does a cloud look like?
+[assistant]This is a cloud.
+The cloud is white.
+The cloud is soft.
+The cloud is wide.
+The cloud is light.
+A cloud is a soft white shape in the sky.
 
-[user]where can you find a sun?
-[assistant]This is the sun.
-The sun is in the sky.
-The sun is above the ground.
-The sun is over the trees.
-The sun is high above everything.
-The sun is a bright light high in the sky.
+[user]where can you find a cloud?
+[assistant]This is a cloud.
+The cloud is in the sky.
+The cloud is above the trees.
+The cloud is over the hills.
+The cloud is below the sun.
+A cloud is a white mass that floats in the sky above the ground.
 
-[user]what does a sun do over time?
-[assistant]This is the sun.
-The sun rises in the morning.
-The sun moves across the sky.
-The sun sets in the evening.
-The sky grows dark after the sun sets.
-The sun is a bright light that rises and sets in the sky.
+[user]what does a cloud do over time?
+[assistant]This is a cloud.
+The cloud forms in the sky.
+The cloud grows bigger and darker.
+The cloud brings rain down to the ground.
+The cloud grows thin after the rain.
+A cloud is a mass of water in the sky that can grow and bring rain.
 
-[user]what does a sun provide or give?
-[assistant]This is the sun.
-The sun is in the sky at noon.
-The sun warms the ground below.
-The sun dries the wet grass.
-The sun gives light to everything under the sky.
-The sun is a warm light that moves across the sky each day.
+[user]what does a cloud provide or give?
+[assistant]This is a cloud.
+The cloud moves across the sky.
+The cloud covers the sun.
+The cloud makes the ground darker.
+The cloud moves away and the sun returns.
+A cloud is a body of water in the sky that moves and covers the sun.
