@@ -1,40 +1,40 @@
-# Foods Vegetables Entries (Batch 7)
-
-[user]what is a bean?
-[assistant]A bean is a seed that grows in a pod. It comes in many types like black, kidney and pinto beans. Beans are rich in plant protein and fiber. They must be cooked before eating to be safe and digestible. We use beans in soups, stews and salads around the world. A bean is not a pea, though both are legumes.
-
-[user]what is broccoli?
-[assistant]Broccoli is a green vegetable with tiny flower buds. It has a thick, edible stalk underneath the buds. Broccoli is rich in vitamin C and fiber. It can be eaten raw or cooked in many ways. Broccoli grows best in cool weather and is harvested when buds are tight. Broccoli is not cauliflower, which has white flower buds.
-
-[user]what is a cabbage?
-[assistant]Cabbage is a round or oval head of leaves. The leaves are packed tightly together. Cabbage comes in green, red and other varieties. It is rich in vitamins and can be eaten raw or cooked. Cabbage stores well for months when kept cool and dry. A cabbage is not lettuce, which has looser leaves.
-
-[user]what is a carrot?
-[assistant]A carrot is a long, narrow root vegetable that grows underground. It is usually orange but can be other colors. Carrots taste sweet and earthy and are high in vitamin A. We eat carrots raw as snacks or cooked in meals. Carrots are harvested by pulling them from the soil. A carrot is not a parsnip, which is whiter and tastes different.
-
-[user]what is cauliflower?
-[assistant]Cauliflower is a white vegetable made of tight flower buds. It has a thick stem underneath the buds. Cauliflower is low in calories but high in vitamins. It can be eaten raw, cooked or mashed like potatoes. Cauliflower is harvested when buds are compact and firm. Cauliflower is not broccoli, which has green flower buds.
-
-[user]what is garlic?
-[assistant]Garlic is a pungent bulb made of cloves in papery skin. It belongs to the onion family and has strong smell and taste. Garlic has been used for cooking and medicine for thousands of years. We use garlic by roasting, sautéing or mincing it. Garlic is not an onion, though both are alliums.
-
-[user]what is lettuce?
-[assistant]Lettuce is a leafy green vegetable used in salads. Its leaves can be crisp or soft depending on type. Lettuce comes in types like iceberg, romaine and leaf lettuce. It is low in calories but gives vitamins A and K. Lettuce grows best in cool weather and is harvested by cutting leaves. Lettuce is not cabbage, which forms a tight head.
-
-[user]what is an onion?
-[assistant]An onion is a bulb made of layered leaves in papery skin. It has a strong smell and taste when cut or cooked. Onions come in yellow, white, red and sweet varieties. They are used as a base for soups, stews and sauces worldwide. Onions can be eaten raw or cooked and stored for months. An onion is not garlic, though both are alliums.
-
-[user]what is a pea?
-[assistant]A pea is a small, round, green seed that grows in a pod. It grows on a climbing plant and is harvested when pods are plump. Peas are a good source of plant protein and fiber. We eat peas fresh, frozen or cooked in soups and stews. Some peas like snow peas are eaten pod and all. A pea is not a bean, though both are legumes.
-
-[user]what is a potato?
-[assistant]A potato is a starchy tuber that grows underground on roots. It comes in types like russet, red, yellow and purple potatoes. Potatoes are rich in carbohydrates, potassium and vitamin C. We prepare potatoes by boiling, baking, mashing or frying. Potatoes are harvested when the plants have died back. A potato is not a sweet potato, which comes from a different plant.
-
-[user]what is spinach?
-[assistant]Spinach is a leafy green vegetable with tender, dark green leaves. It is rich in iron, vitamins and antioxidants. Spinach can be eaten raw in salads or cooked in many ways. It grows best in cool weather and can be harvested multiple times. Spinach tends to get bitter in hot weather as it goes to seed. Spinach is not kale, which has tougher, curlier leaves.
-
-[user]what is a tomato?
-[assistant]A tomato is a round or oval fruit that we use as a vegetable in cooking. It is usually red when ripe but can be other colors. Tomatoes grow on vines and are rich in vitamins A and C. We eat tomatoes raw in salads or cooked in sauces and soups. A tomato is not a potato, which is a tuber and not a fruit.
+# Foods Vegetables Entries
 
 [user]what is a vegetable?
-[assistant]A vegetable is any part of a plant that we eat as food. This includes leaves, stems, roots, flowers, bulbs and seeds. Vegetables are usually savory rather than sweet. They are essential for a healthy diet with vitamins and fiber. Vegetables can be eaten raw or cooked and come in many varieties. A vegetable is not a fruit, though some like tomatoes are botanically fruits but culinarily vegetables.
+[assistant]A vegetable is a plant food that people eat. Vegetables can be roots, leaves, stems, flowers, bulbs, seeds, or other plant parts. Many vegetables are used in meals rather than sweet desserts. People eat vegetables raw or cooked. A vegetable is not a fruit.
+
+[user]what is a bean?
+[assistant]A bean is a seed that grows in a pod. Beans come in many kinds and are used in many meals. People often cook beans before eating them. Beans can be added to soups, stews, and salads. A bean is not a pea.
+
+[user]what is broccoli?
+[assistant]Broccoli is a green vegetable with many tiny flower buds on top. It has a thick stalk underneath. People eat broccoli raw or cooked. Broccoli grows best in cool weather. Broccoli is not cauliflower.
+
+[user]what is a cabbage?
+[assistant]Cabbage is a round head of tightly packed leaves. Cabbage can be green, red, or purple. People eat cabbage raw or cooked. Cabbage keeps well when stored in a cool place. A cabbage is not lettuce.
+
+[user]what is a carrot?
+[assistant]A carrot is a long root vegetable that grows underground. Many carrots are orange, but some are other colors. Carrots can taste sweet and earthy. People eat carrots raw or cooked. A carrot is not a parsnip.
+
+[user]what is cauliflower?
+[assistant]Cauliflower is a pale vegetable made of tight flower buds. It has a thick stem underneath. People eat cauliflower raw, cooked, or mashed. Cauliflower grows best in cool weather. Cauliflower is not broccoli.
+
+[user]what is garlic?
+[assistant]Garlic is a strong-smelling bulb made of cloves. Garlic belongs to the onion family. People use garlic to add flavor to food. Garlic can be roasted, cooked, or cut into small pieces. Garlic is not an onion.
+
+[user]what is lettuce?
+[assistant]Lettuce is a leafy vegetable often used in salads. Some lettuce is crisp and some is soft. Lettuce grows best in cool weather. People often eat lettuce raw. Lettuce is not cabbage.
+
+[user]what is an onion?
+[assistant]An onion is a bulb made of many layers. Onions can be yellow, white, or red. They have a strong smell and taste. People eat onions raw or cooked in many meals. An onion is not garlic.
+
+[user]what is a pea?
+[assistant]A pea is a small round green seed that grows in a pod. Peas grow on climbing plants. People eat peas fresh, frozen, or cooked. Some peas are eaten with the pod. A pea is not a bean.
+
+[user]what is a potato?
+[assistant]A potato is a starchy plant food that grows underground. Potatoes can be brown, yellow, red, or purple on the outside. People boil, bake, mash, or fry potatoes. Potatoes are filling and used in many meals. A potato is not a sweet potato.
+
+[user]what is spinach?
+[assistant]Spinach is a leafy green vegetable with soft dark leaves. People eat spinach raw or cooked. Spinach grows well in cool weather. Spinach can taste mild or a little bitter. Spinach is not kale.
+
+[user]what is a tomato?
+[assistant]A tomato is a round or oval fruit that people often use like a vegetable in cooking. Many tomatoes are red, but some are yellow or orange. Tomatoes grow on vines. People eat tomatoes raw or cooked in sauces and soups. A tomato is not a potato.

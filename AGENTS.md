@@ -64,6 +64,9 @@ Current active tracks:
    - maintain and extend training corpora in `training_data/`
    - keep story format reproducible and parser-friendly where possible
    - preserve strict no-pronoun, concrete-language constraints in curriculum phases
+   - manually polish wiki Level 1 files for simple child-facing language
+   - prefer clear concept ownership across wiki categories to avoid duplicate anchors
+   - clean and normalize existing wiki files before adding large amounts of new content
 
 ---
 
@@ -84,7 +87,7 @@ training_data/
       concept_index.md        ← per-phase table + dependency annotations
       dependency_graph.json   ← machine-readable graph {files, sequence}
     deprecated/         ← old/superseded files, do not use for training
-  wiki/                 ← wiki-style concept entries (higher register)
+  wiki/                 ← wiki-style concept entries and backlog planning
 ```
 
 ### File naming convention
@@ -123,10 +126,17 @@ Exception: no thirsty-fish entries (fish live in water; concept doesn't hold).
 
 ### Wiki format
 
-Wiki files use a question-answer format but at a higher register — full prose,
-longer answers, contrast statements at the end (`A X is not a Y`).
+Wiki files use a question-answer format with simple child-facing prose.
+Current Level 1 target is usually 5 short sentences: identity, a few concrete
+facts, then a final contrast (`A X is not a Y`).
 Wiki entries are grouped by domain (e.g. `places_and_landforms_entries.md`).
+General terms should usually come before narrower terms inside a file.
+Avoid duplicate `what is X?` anchors across files unless the duplication is
+intentional and clearly justified.
 Do not apply the phase 1–5 vocab constraints to wiki files.
+
+`training_data/wiki/deprecated/` holds old aggregate/schema files that are not
+canonical training sources.
 
 ### Wiki category backlog
 

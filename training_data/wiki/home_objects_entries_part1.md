@@ -3,9 +3,6 @@
 [user]what is a bed?
 [assistant]A bed is furniture for sleeping or resting. It has a frame and a mattress to lie on. Beds come in sizes like twin, full, queen and king. They can be made of wood, metal or cloth-covered materials. Many beds have headboards and footboards for style. A bed is not a couch, which is made for sitting rather than sleeping.
 
-[user]what is a book?
-[assistant]A book is pages with words glued or sewn together. It has a front cover, back cover and spine. Books contain stories, facts or ideas to read and share. They can be hardcover, paperback or digital. Books come in many lengths from short to very long. A book is not a magazine, which comes out regularly and is thinner.
-
 [user]what is a bookshelf?
 [assistant]A bookshelf is furniture with flat shelves for books. It can stand alone or be built into a wall. Bookshelves hold books upright and organized. They are made of wood, metal or plastic. Bookshelves keep books safe and easy to find. A bookshelf is not a cabinet, which usually has doors for closed storage.
 

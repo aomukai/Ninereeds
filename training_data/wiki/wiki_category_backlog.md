@@ -14,6 +14,151 @@
 
 ---
 
+## Recommended Implementation Order
+
+This is the practical write order for the remaining wiki categories.
+It is not just "early before middle before late" — it also tries to respect
+dependency chains, category ownership, and the need for BDH to first sound like
+a child in daily conversation before moving into heavier abstraction.
+
+### Wave 1 — finish the partial early anchors
+
+These already exist in some form and unlock many other categories:
+
+1. School Life and Learning
+2. Clothing and Apparel
+3. Money, Trade, and Shopping
+4. Movement and Physical Action
+5. Directions and Navigation
+6. Meals and Mealtime Talk
+7. Sensory Experiences
+
+### Wave 2 — daily life and state language
+
+These provide the "ordinary day" structure that many later categories assume:
+
+8. Daily Routines and Self-Care
+9. States of Being and Condition
+10. Body States and Internal Cues
+11. Wants, Needs, and Preferences
+12. Greetings and Social Salutations
+13. Waiting and Patience
+14. Containers and Capacity
+
+### Wave 3 — conversation glue and peer interaction
+
+These let BDH handle ordinary child dialogue naturally:
+
+15. Manners, Politeness, and Social Etiquette
+16. Communication Acts and Language
+17. Agreement and Disagreement
+18. Ownership and Sharing
+19. Friends and Peer Interactions
+20. Personal Identity and Self-Description
+21. Lost and Found / Misplacing Objects
+22. Uncertainty and Guessing
+
+### Wave 4 — school/play/action environment
+
+These build on the daily and social layers and match common child topics:
+
+23. Classroom Objects and School Tools
+24. Play, Games, and Sports
+25. Art and Creative Expression
+26. Hobbies and Interests
+27. Location and Direction in Action
+28. Animal Care and Pet Keeping
+29. Safety, Rules, and Emergency Awareness
+30. Safety Signs and Symbols
+
+### Wave 5 — imagination, story, home, and care
+
+These are very important, but they sit more cleanly once daily routines,
+communication, play, and school are already grounded:
+
+31. Imagination and Pretend Play
+32. Storytelling and Narrative Structure
+33. Chores and Home Responsibilities
+34. Sleep and Rest
+35. Holidays and Celebrations
+36. Conflict Resolution and Relationship Repair
+37. Boundaries and Consent
+
+### Wave 6 — finish the remaining partial middle categories
+
+These can now be expanded more cleanly because the everyday glue is in place:
+
+38. Health and Wellness
+39. Emotions Beyond Basic States
+40. Measurement and Comparison
+41. Natural Life Cycles and Processes
+42. Construction and Material Transformations
+43. Cooking and Food Preparation
+44. Community Places and Services
+
+### Wave 7 — structured middle abstractions
+
+These depend more heavily on already having strong everyday and school language:
+
+45. Seasonal Activities
+46. Data, Charts, and Graphs
+47. Material Composition
+48. Simple Physics: Energy and Power
+49. Animal Habitats and Homes
+50. Levels of Intensity and Gradation
+51. Food Groups and Nutrition
+52. Musical Instruments
+53. Shadow and Light Phenomena
+54. Garden and Planting Basics
+55. Group Roles and Participation
+56. Evidence and Justification
+57. Categories and Grouping
+58. Exceptions and Qualifications
+59. Intentions and Plans in Action
+60. Accidents and Mistakes
+61. Smells and Tastes
+62. Collections and Collecting
+63. Sibling Relationships and Dynamics
+64. Degrees of Truth
+
+### Wave 8 — late pragmatic and reflective layers
+
+These are important, but they are safest after the child-facing core and
+middle layers are stable:
+
+65. Technology and Digital Media
+66. Environmental Care and Stewardship
+67. Fractions and Sharing Quantities
+68. Perspective-Taking and Theory of Mind
+69. Humor and Figurative Language
+70. Inclusion, Bullying, and Kindness
+71. Online Safety and Privacy
+72. Civic Responsibility and Community Rules
+73. Learning, Memory, and Metacognition
+74. Future Planning and Goals
+75. Story Roles and Plot Elements
+76. Social-Emotional Learning Competencies
+77. Secrets, Surprises, and Keeping Promises
+78. Praise, Criticism, and Feedback
+
+### Wave 9 — finish the remaining partial late categories
+
+These should come after the missing dependency-heavy late categories above:
+
+79. Opinions, Persuasion, and Simple Debate
+80. Numbers Beyond 10 and Large-Number Talk
+81. Machines and Simple Mechanisms
+82. Growth and Life Stages (Human)
+
+### Notes
+
+- Finish partial categories before starting too many new sibling categories.
+- Prefer categories that unlock many others before specialist or late-pragmatic topics.
+- When two categories overlap, write the broader social or daily-life category first.
+- Keep concept ownership clear to avoid duplicate anchors before later expansion.
+
+---
+
 ## [MISSING] — Daily Routines and Self-Care
 Sequence: early
 Suggested by: 6 models (gpt, deepseek, gemini, grok, mistral, sakana)
@@ -24,13 +169,13 @@ Existing coverage: —
 
 ---
 
-## [MISSING] — School Life and Learning
+## [PARTIAL] — School Life and Learning
 Sequence: early
 Suggested by: 6 models (gpt, deepseek, gemini, grok, mistral, sakana)
 Examples: classroom, teacher, desk, homework, recess, lesson, test, backpack, school bus, grade, subject (math, reading, science, art, PE), lunchbox
 Depends on: book, paper, crayon, desk, chair, table, bus, road, time (day/week)
 Reason: School is the primary workplace for children aged 6–10 and the main source of daily conversational topics, spanning people, places, activities, subjects, and social norms; children constantly reference teachers, classmates, and school events.
-Existing coverage: —
+Existing coverage: `school_life_and_learning_entries.md` anchors school, classroom, lesson, homework, book, paper, pencil, pen, and crayon. Broader school routines, roles, places, and events still missing.
 
 ---
 
@@ -154,13 +299,13 @@ Existing coverage: —
 
 ---
 
-## [MISSING] — Clothing and Apparel
+## [PARTIAL] — Clothing and Apparel
 Sequence: early
 Suggested by: 1 model (gemma)
 Examples: shirt, pants, hat, shoes, coat, socks, sweater, dress, helmet, jacket, gloves, scarf, glasses, backpack, umbrella, belt, watch, zipper, button, velcro, snap, buckle
 Depends on: body parts, weather and seasons, home objects
 Reason: Children frequently discuss what they are wearing or what they need to wear for specific weather or activities; clothing items appear as dependencies across many other categories but have no dedicated wiki entries of their own.
-Existing coverage: —
+Existing coverage: `clothing_and_apparel_entries.md` now anchors coat, glove, hat, pants, and button. Broader coverage still missing.
 
 ---
 
@@ -284,13 +429,13 @@ Existing coverage: —
 
 ---
 
-## [MISSING] — Money, Trade, and Shopping
+## [PARTIAL] — Money, Trade, and Shopping
 Sequence: middle
 Suggested by: 4 models (gpt, deepseek, mistral, sakana)
 Examples: buy, sell, cost, penny, nickel, dime, quarter, dollar, pay, save, earn, allowance, change, store, "how much does it cost?"
 Depends on: number (0-10), addition/subtraction, logic (more/less), objects, time (day/week)
 Reason: Elementary standards explicitly include money word problems; children commonly talk about buying, saving, and allowances; money language teaches exchange, value, and practical arithmetic in real-world context.
-Existing coverage: —
+Existing coverage: `money_trade_and_shopping_entries.md` now anchors `money`, `coin`, `dollar`, `store`, `buy`, `sell`, `pay`, `cost`, `price`, `save`, and `spend`. Smaller units, allowances, and shopping situations still missing.
 
 ---
 
@@ -898,8 +1043,8 @@ Existing coverage: vehicles_transport_entries.md (10 entries)
 ## Summary
 
 Total categories: 88
-  MISSING:  67
-  PARTIAL:  15
+  MISSING:  65
+  PARTIAL:  17
   COVERED:   6
 
 Categories by sequence:
@@ -916,7 +1061,7 @@ Categories by sequence:
 | Rank | Category | Models | Status |
 |------|----------|--------|--------|
 | 1 | Daily Routines and Self-Care | 6 | MISSING |
-| 1 | School Life and Learning | 6 | MISSING |
+| 1 | School Life and Learning | 6 | PARTIAL |
 | 1 | Family Roles and Kinship | 6 | COVERED |
 | 1 | Health and Wellness | 6 | PARTIAL |
 | 1 | Professions and Community Helpers | 6 | COVERED |
@@ -929,7 +1074,7 @@ Categories by sequence:
 | 6 | Natural Life Cycles and Processes | 5 | PARTIAL |
 
 **Highest-priority MISSING entries (6 models, not covered at all):**
-Daily Routines and Self-Care · School Life and Learning
+Daily Routines and Self-Care
 
 **Highest-priority MISSING entries (5 models):**
 Manners/Etiquette · Safety/Rules · Play/Games · Communication Acts

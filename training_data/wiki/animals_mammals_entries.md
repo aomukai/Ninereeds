@@ -3,6 +3,18 @@
 [user]what is an animal?
 [assistant]An animal is a living thing that can move on its own, eat food, breathe, and feel the world around it. Animals come in many shapes and sizes, from tiny insects to giant whales. Some animals walk on land, some swim in water, and some fly in the air. All animals are born, grow, and one day die. An animal is not a plant, which cannot move on its own and makes its own food from sunlight.
 
+[user]what is a human?
+[assistant]A human is an animal and a mammal. A human is also called a person, and many humans together are called people. Humans walk on two legs and use words to talk with each other. Humans can think, learn, make tools, and build homes and cities. A human is not a monkey.
+
+[user]what is a monkey?
+[assistant]A monkey is a mammal with hands, feet, and a clever mind. Many monkeys live in trees and use their tails, hands, and feet to climb. Monkeys live in groups and eat fruit, leaves, insects, and other food. Monkeys are related to apes and humans, but monkeys are not the same as apes. A monkey is not an ape.
+
+[user]what is an ape?
+[assistant]An ape is a mammal that is closely related to humans. Apes have strong arms and clever hands, and many apes do not have tails. Gorillas, chimpanzees, and orangutans are apes. Apes can learn, play, and live in family groups. An ape is not a monkey.
+
+[user]what is a chimp?
+[assistant]A chimp is an ape that is very closely related to humans. Chimps have strong arms, clever hands, and expressive faces. Chimps live in groups and use sounds, faces, and movement to communicate. Chimps can use simple tools and solve problems. A chimp is not a monkey.
+
 [user]what is a bear?
 [assistant]A bear is a large, heavy animal covered in thick fur. Bears eat fish, berries, honey, and many other foods they find in forests and rivers. When winter comes and food is hard to find, a bear will sleep for many months in a warm den. Bears are very strong and can run faster than they look. A bear is not a wolf, which is smaller, lives in a group, and hunts other animals.
 
