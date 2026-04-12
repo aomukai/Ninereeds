@@ -875,7 +875,7 @@ Suggested by: 6 models (gpt, deepseek, gemini, grok, mistral, sakana)
 Examples: fever, cough, sore throat, stomachache, headache, cut, bruise, bandage, rest, medicine, healthy food, exercise, hygiene, germs, "I feel sick"
 Depends on: body parts (head, belly, mouth, nose, skin, bone), food (water, soup), feeling (tired/sad), time (past/present)
 Reason: Kids frequently talk about minor injuries and why they stayed home from school; requires a "system" view of the body that connects parts to functions to wellness — the highest-consensus gap across all models after family, school, and routines.
-Existing coverage: body_parts_entries.md (body parts defined), STEM_entries.md (biology, senses) — illness symptoms, medicine, and wellness habits not yet covered
+Existing coverage: `health_and_wellness_entries.md` now anchors `health`, `wellness`, `fever`, `cough`, `sore throat`, `headache`, `stomachache`, `cut`, `bruise`, `bandage`, `medicine`, and `germ`. `body_parts_entries.md` still owns body-part vocabulary, and further health habits and symptom coverage can expand later.
 
 ---
 
@@ -895,7 +895,7 @@ Suggested by: 5 models (gpt, deepseek, gemini, grok, mistral)
 Examples: bigger/smaller, taller/shorter, heavier/lighter, faster/slower, hotter/colder, more/less, half full, length, weight, temperature, volume, estimate, measure
 Depends on: size, number (0-10), counting, addition/subtraction, shape, logic (same/different, all/some/none), space
 Reason: Children compare toys, snacks, heights, and speeds constantly; core elementary math includes measuring and representing data; high-leverage connector for describing choices, observations, and comparisons in daily talk and school tasks.
-Existing coverage: mathematical_concepts_entries.md (number/size 0-10), STEM_entries.md (properties, states of matter) — measurement units, comparison language, and estimation not yet a dedicated entry
+Existing coverage: `measurement_and_comparison_entries.md` now anchors `measurement`, `comparison`, `bigger`, `smaller`, `taller`, `shorter`, `heavier`, `lighter`, `length`, `height`, `weight`, `capacity`, `distance`, and `estimate`. `mathematical_concepts_entries.md` still owns early number/shape language and `STEM_entries.md` still owns broad physical-property vocabulary.
 
 ---
 
@@ -905,7 +905,7 @@ Suggested by: 5 models (gpt, deepseek, gemini, grok, mistral)
 Examples: water cycle, plant growth, day/night pattern, seasons changing, caterpillar to butterfly, hatch, bloom, melt, freeze, seed → sprout → tree, life cycle
 Depends on: sun, moon, rain, snow, river, tree, butterfly, frog, bird, time (season/day/night), logic (cause/effect)
 Reason: Everyday child conversation includes "why" questions about nature; school-age communication benchmarks emphasise inferential language and causal sequencing around observable, repeating change in the natural world.
-Existing coverage: STEM_entries.md (biology section), plants_and_nature_entries.md (plant entries), animals_* entries — life cycles as a process and causal narrative not yet unified into entries
+Existing coverage: `natural_life_cycles_and_processes_entries.md` now anchors `life cycle`, `plant growth`, `hatching`, `metamorphosis`, `pollination`, `hibernation`, `decomposition`, `water cycle`, `day and night pattern`, and `season change`. The plant, animal, weather, and STEM files still own the underlying object and science anchors.
 
 ---
 
@@ -945,7 +945,7 @@ Suggested by: 1 model (gpt)
 Examples: I think, I agree/disagree, convince, reasons, evidence, "in my opinion", "I believe", "because…", "the best one is…"
 Depends on: logic (fact/opinion, cause/effect, goal), feeling (happy/angry), time (future)
 Reason: School-age benchmarks note using language to persuade and advance opinions; children increasingly voice and defend preferences; builds directly on fact/opinion entries in logic_entries.md.
-Existing coverage: logic_entries.md (fact/opinion covered; persuasion structure and opinion-giving register not yet present)
+Existing coverage: `opinions_persuasion_and_simple_debate_entries.md` now anchors `opinion`, `I think`, `in my opinion`, `agree`, `disagree`, `persuasion`, `convince`, `reason in an argument`, `evidence`, and `debate`. `logic_entries.md` still owns the more abstract fact/opinion and reasoning layer.
 
 ---
 
@@ -955,7 +955,7 @@ Suggested by: 1 model (gpt)
 Examples: numbers to 100 and 1000, place value, "a lot", "hundreds", rounding, "about twenty", "more than fifty"
 Depends on: number (0-10), counting, addition/subtraction, logic (more/less)
 Reason: Time, money, measurement, and school stories quickly exceed 0–10; extending number talk is essential for believable elementary conversation across most other categories.
-Existing coverage: mathematical_concepts_entries.md (covers number/shape/operation 0-10 with word-to-symbol bridge; beyond 10 not yet addressed)
+Existing coverage: `numbers_beyond_10_and_large_number_talk_entries.md` now anchors `eleven`, `twelve`, `thirteen`, `twenty`, `one hundred`, `one thousand`, `a lot`, `about twenty`, and `more than fifty`. `mathematical_concepts_entries.md` still owns the 0-10 bridge and core operation vocabulary.
 
 ---
 
@@ -965,7 +965,7 @@ Suggested by: 1 model (deepseek)
 Examples: pull, push, turn, spin, roll, slide, lift, drop, bounce, lever, wheel, gear, ramp, "how does it work?"
 Depends on: wheel, lever, rope, hook, screw, hammer, block, ball
 Reason: Physics for children — playground swings, doors, bikes; teaches force and motion in everyday contexts; builds on forces section of STEM entries.
-Existing coverage: STEM_entries.md (forces and motion covered as concepts; mechanism vocabulary and everyday examples not yet expanded)
+Existing coverage: `machines_and_simple_mechanisms_entries.md` now anchors `machine`, `simple machine`, `ramp`, `wheel`, `axle`, `gear`, `pulley`, `roll`, and `slide`. `STEM_entries.md` still owns the broad force-and-motion concepts such as `push`, `pull`, and `move`.
 
 ---
 
@@ -975,7 +975,7 @@ Suggested by: 1 model (grok)
 Examples: baby, toddler, child, grown-up, getting bigger, learning new skills, "I used to…", "when I was little", adult, elder
 Depends on: time (past/future), body, family relationships
 Reason: Helps children understand their own growth and how family members change over time; supports longer narratives about personal history and future aspirations.
-Existing coverage: people_roles_entries.md (boy, girl, man, woman, child defined; progression implied but not narrated as a developmental sequence)
+Existing coverage: `growth_and_life_stages_human_entries.md` now anchors `life stage`, `baby`, `toddler`, `child`, `teenager`, `adult`, `grown-up`, `grow up`, and `when I was little`. `people_roles_entries.md` still owns the broad person/family-role vocabulary.
 
 ---
 

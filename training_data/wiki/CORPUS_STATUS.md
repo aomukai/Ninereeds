@@ -36,13 +36,19 @@ These files are in good shape for the current manual-cleanup pass.
 | daily_routines_and_self_care_entries.md | New routine category; anchors `routine`, `wake up`, `get ready`, `get dressed`, `wash your hands`, `eat breakfast`, `go to school`, `pack a backpack`, `line up`, `go to bed`, `pajamas` |
 | directions_and_navigation_entries.md | New route-and-direction category; anchors `left`, `right`, `up`, `down`, `forward`, `backward`, `turn`, `go straight`, `map`, `route`, `address` |
 | foods_and_drinks_entries.md | Rewritten into simpler Level 1 voice; anchors reordered |
+| growth_and_life_stages_human_entries.md | New human-development category; anchors `life stage`, `baby`, `toddler`, `child`, `teenager`, `adult`, `grown-up`, `grow up`, `when I was little` |
+| health_and_wellness_entries.md | New wellness category; anchors `health`, `wellness`, `fever`, `cough`, `sore throat`, `headache`, `stomachache`, `cut`, `bruise`, `bandage`, `medicine`, `germ` |
 | home_objects_entries_part1.md | Clean enough for current pass; migrated `book` to school category |
 | home_objects_entries_part2.md | Cleaned and reordered with `furniture` as anchor; clothing removed |
 | home_objects_entries_part3.md | Cleaned; `paper` migrated to school category |
 | imagination_and_pretend_play_entries.md | New pretend-play category; anchors `imagination`, `pretend`, `pretend play`, `make-believe`, `dress up`, `role play`, `imaginary friend`, `symbolic play`, `game of pretend` |
 | logic_entries.md | Merged former `logic_core_entries.md` into this file; now the single canonical logic file |
+| machines_and_simple_mechanisms_entries.md | New mechanism category; anchors `machine`, `simple machine`, `ramp`, `wheel`, `axle`, `gear`, `pulley`, `roll`, `slide` |
 | meals_and_mealtime_talk_entries.md | New routine-and-talk category; anchors `meal`, `breakfast`, `lunch`, `dinner`, `snack`, `hungry`, `full`, `pass something`, `all done` |
 | money_trade_and_shopping_entries.md | Expanded category; now anchors `money`, `coin`, `dollar`, `penny`, `nickel`, `dime`, `quarter`, `change`, `allowance`, `store`, `customer`, `shopkeeper`, `buy`, `sell`, `pay`, `cost`, `price`, `save`, `spend` |
+| natural_life_cycles_and_processes_entries.md | New natural-process category; anchors `life cycle`, `plant growth`, `hatching`, `metamorphosis`, `pollination`, `hibernation`, `decomposition`, `water cycle`, `day and night pattern`, `season change` |
+| numbers_beyond_10_and_large_number_talk_entries.md | New extended-number category; anchors `eleven`, `twelve`, `thirteen`, `twenty`, `one hundred`, `one thousand`, `a lot`, `about twenty`, `more than fifty` |
+| opinions_persuasion_and_simple_debate_entries.md | New opinion-register category; anchors `opinion`, `I think`, `in my opinion`, `agree`, `disagree`, `persuasion`, `convince`, `reason in an argument`, `evidence`, `debate` |
 | movement_and_physical_action_entries.md | New bridge category; anchors `movement`, `exercise`, `balance`, `stretch`, `kick`, `bounce`, `spin`, `dance` without duplicating the main verbs file |
 | places_and_landforms_entries.md | Reordered for concept ownership; now canonical home for `forest`, `garden`, `meadow`, `orchard`, `hill` |
 | plants_and_nature_entries.md | Early entries simplified; duplicate place concepts removed |
@@ -72,6 +78,7 @@ These looked solid before the current cleanup sprint and were not major problem 
 | foods_fruits_entries.md | 21 entries including nuts cluster |
 | home_rooms_entries.md | 5 entries, `room` moved to top as anchor |
 | mathematical_concepts_entries.md | Number/shape/operation concepts + 1-10 word-to-symbol bridge + plus/minus/equals |
+| measurement_and_comparison_entries.md | New measurement category; anchors `measurement`, `comparison`, `bigger`, `smaller`, `taller`, `shorter`, `heavier`, `lighter`, `length`, `height`, `weight`, `capacity`, `distance`, `estimate` |
 | people_roles_entries.md | Family and social roles |
 | professions_entries.md | 21 entries |
 
