@@ -409,13 +409,13 @@ Existing coverage: `containers_and_capacity_entries.md` now anchors `container`,
 
 ---
 
-## [MISSING] — Body States and Internal Cues
+## [COVERED] — Body States and Internal Cues
 Sequence: early
 Suggested by: 1 model (gemini)
 Examples: hungry, thirsty, tired, cold, hot, full, dizzy, itchy, sore, need the bathroom, "my tummy hurts", "I need water", breathe fast, heart beating fast, shiver, sweat
 Depends on: body parts, feeling (tired/happy/sad), STEM concepts (senses), food and drink
 Reason: Children need to report and understand their own body's signals to communicate basic physical needs; distinct from Emotions (feelings about events) and Health and Wellness (illness/medicine) — these are moment-to-moment physical sensations driving immediate requests.
-Existing coverage: —
+Existing coverage: `body_states_and_internal_cues_entries.md` now anchors `body signal`, `dizzy`, `itchy`, `sore`, `shiver`, `sweat`, `breathe fast`, `heart beats fast`, `need the bathroom`, and `tummy hurts`.
 
 ---
 
@@ -499,333 +499,333 @@ Existing coverage: `seasonal_activities_entries.md` now anchors `seasonal activi
 
 ---
 
-## [MISSING] — Data, Charts, and Graphs
+## [COVERED] — Data, Charts, and Graphs
 Sequence: middle
 Suggested by: 1 model (gpt)
 Examples: chart, graph, tally, "most/least", count, result, bar chart, survey, "more than/fewer than", pictograph
 Depends on: number (0-10), counting, logic (all/some/none, same/different), size (more/less)
 Reason: Measurement-and-data work in early grades includes generating and representing data; this shows up in classroom conversation and science activities and is not yet addressed by the existing math concepts file.
-Existing coverage: —
+Existing coverage: `data_charts_and_graphs_entries.md` now anchors `data`, `chart`, `graph`, `tally`, `tally mark`, `survey`, `result`, `most`, `least`, `bar graph`, and `picture graph`.
 
 ---
 
-## [MISSING] — Material Composition
+## [COVERED] — Material Composition
 Sequence: middle
 Suggested by: 1 model (gemma)
 Examples: wood, metal, plastic, glass, paper, stone, fabric, rubber, cardboard, clay, leather, cotton, wool, polyester, silk, nylon, denim
 Depends on: home objects, tools and kitchenware, STEM concepts (states of matter, properties), clothing and apparel (backlog)
 Reason: The model knows objects but not what they are made of; "what is glass?", "what is plastic?" entries provide the connective layer between objects and their physical properties, enabling richer descriptions ("the window is made of glass"). Fabric types (cotton, wool, polyester, silk, nylon) added on suggestion from qwen — these are the textile sub-domain of materials, most relevant to clothing.
-Existing coverage: —
+Existing coverage: `material_composition_entries.md` now anchors `material`, `made of`, `wood`, `metal`, `plastic`, `glass`, `paper`, `fabric`, and `rubber`.
 
 ---
 
-## [MISSING] — Simple Physics: Energy and Power
+## [COVERED] — Simple Physics: Energy and Power
 Sequence: middle
 Suggested by: 1 model (gemma)
 Examples: battery, electricity, heat, light, energy, power, fuel, solar, plug, switch, flashlight, candle
 Depends on: STEM concepts (forces, motion, temperature), weather and seasons (sun, wind), tools and kitchenware
 Reason: STEM entries cover forces and motion but not energy sources; children frequently ask "how does this work?" and need the vocabulary for where light, heat, and movement come from.
-Existing coverage: STEM_entries.md (forces, temperature, and motion covered; energy as a concept and named power sources not yet present)
+Existing coverage: `simple_physics_energy_and_power_entries.md` now anchors `energy`, `power`, `electricity`, `battery`, `fuel`, `plug`, `switch`, `flashlight`, and `solar power`.
 
 ---
 
-## [MISSING] — Animal Habitats and Homes
+## [COVERED] — Animal Habitats and Homes
 Sequence: middle
 Suggested by: 1 model (gemma)
 Examples: nest, burrow, hive, den, kennel, stable, pond, warren, web, shell, reef, cave
 Depends on: animals (mammals, birds, insects, fish/sea, reptiles), places and landforms
 Reason: The model knows what animals are but not where they live; habitat entries connect the animal corpus to the places corpus and answer one of children's most common animal questions.
-Existing coverage: —
+Existing coverage: `animal_habitats_and_homes_entries.md` now anchors `animal habitat`, `animal home`, `nest`, `burrow`, `den`, `hive`, `web`, and `reef`. Place anchors such as `pond` remain in `places_and_landforms_entries.md`.
 
 ---
 
-## [MISSING] — Levels of Intensity and Gradation
+## [COVERED] — Levels of Intensity and Gradation
 Sequence: middle
 Suggested by: 1 model (gemma)
 Examples: a little, very, extremely, slightly, quite, enough, too much, a bit, barely, really, sort of, kind of
 Depends on: emotions, measurement and comparison (backlog), logic (more/less, all/some/none)
 Reason: A child does not just feel "sad" — they feel "a little sad" or "very upset"; degree modifiers are essential for conversational nuance and are not addressed by any existing entry or backlog category.
-Existing coverage: —
+Existing coverage: `levels_of_intensity_and_gradation_entries.md` now anchors `level of intensity`, `a little`, `a bit`, `a lot`, `very`, `really`, `enough`, `too much`, and `barely`.
 
 ---
 
-## [MISSING] — Food Groups and Nutrition
+## [COVERED] — Food Groups and Nutrition
 Sequence: middle
 Suggested by: 1 model (qwen)
 Examples: protein, carbohydrate, dairy, grain, fruit, vegetable, fat, sugar, fibre, vitamin, mineral, "this gives you energy", balanced meal
 Depends on: foods and drinks, foods fruits, foods vegetables, health and wellness (backlog)
 Reason: The corpus names food items but does not categorise them by nutritional function; children frequently learn and discuss food groups in health class and need the conceptual layer ("bread is a grain", "milk has protein") to reason about food beyond naming it.
-Existing coverage: —
+Existing coverage: `food_groups_and_nutrition_entries.md` now anchors `food group`, `nutrition`, `grain`, `protein food`, `dairy`, `vitamin`, `healthy food`, `balanced meal`, and `junk food`.
 
 ---
 
-## [MISSING] — Musical Instruments
+## [COVERED] — Musical Instruments
 Sequence: middle
 Suggested by: 1 model (qwen)
 Examples: guitar, piano, drum, violin, flute, trumpet, recorder, xylophone, string instrument, percussion, wind instrument, keyboard, "play an instrument"
 Depends on: art and creative expression (backlog), sensory experiences (backlog — sound), verbs (make, hold)
 Reason: No existing or backlog entry covers instruments; children encounter them in school music lessons and bands regularly and need vocabulary to name and describe what they see and hear.
-Existing coverage: —
+Existing coverage: `musical_instruments_entries.md` now anchors `musical instrument`, `guitar`, `piano`, `drum`, `violin`, `flute`, `trumpet`, `recorder`, `xylophone`, `string instrument`, `wind instrument`, `percussion`, and `play an instrument`.
 
 ---
 
-## [MISSING] — Shadow and Light Phenomena
+## [COVERED] — Shadow and Light Phenomena
 Sequence: middle
 Suggested by: 1 model (qwen)
 Examples: shadow, reflection, rainbow, silhouette, beam, glare, transparent, opaque, mirror, "blocks the light", shine, glow
 Depends on: STEM concepts (forces, senses), simple physics: energy and power (backlog), weather and celestial entries (sun, moon)
 Reason: Light behaviour — how it bounces, blocks, and bends — is distinct from light as an energy source (Simple Physics) and from weather states; children ask about shadows and rainbows constantly and neither STEM nor the weather file addresses visual phenomena.
-Existing coverage: STEM_entries.md (senses/sight covered; light behaviour not explicitly present)
+Existing coverage: `shadow_and_light_phenomena_entries.md` now anchors `shadow`, `reflection`, `mirror`, `silhouette`, `beam of light`, `shine`, `glow`, `glare`, `transparent`, `opaque`, and `blocks the light`.
 
 ---
 
-## [MISSING] — Garden and Planting Basics
+## [COVERED] — Garden and Planting Basics
 Sequence: middle
 Suggested by: 1 model (qwen)
 Examples: soil, compost, pot, seed, water, grow, dig, weed, root, sprout, garden bed, germinate, "plant a seed", "give it water and sun"
 Depends on: plants and nature, natural life cycles (backlog), environmental care (backlog), tools and kitchenware
 Reason: The corpus knows plant species and life cycles but not the practice of gardening; children do planting projects at school and home and need vocabulary for the soil, containers, and actions involved in growing something.
-Existing coverage: plants_and_nature_entries.md (plant species defined; growing medium and gardening practice not present)
+Existing coverage: `garden_and_planting_basics_entries.md` now anchors `gardening`, `soil`, `compost`, `pot`, `garden bed`, `plant a seed`, `root`, `sprout`, `weed`, and `give it water and sun`.
 
 ---
 
-## [MISSING] — Group Roles and Participation
+## [COVERED] — Group Roles and Participation
 Sequence: middle
 Suggested by: 1 model (sakana)
 Examples: leader, follower, helper, partner, team member, audience, volunteer, turn-taker, captain, judge, timekeeper, "whose turn is it?"
 Depends on: friends and peer interactions (backlog), play, games, and sports (backlog), people and family roles, communication acts and language (backlog)
 Reason: Children constantly negotiate roles in group play and classroom tasks; "what does it mean to be the leader?" and "what is an audience?" are specific vocabulary gaps not addressed by the broader Friends or Play categories.
-Existing coverage: —
+Existing coverage: `group_roles_and_participation_entries.md` now anchors `group role`, `leader`, `follower`, `helper`, `partner`, `team member`, `audience`, `volunteer`, `captain`, `timekeeper`, and `whose turn is it`.
 
 ---
 
-## [MISSING] — Evidence and Justification
+## [COVERED] — Evidence and Justification
 Sequence: middle
 Suggested by: 1 model (gpt)
 Examples: because I saw it, I know this because, proof, example, for instance, reason why, that proves, I can show you, evidence
 Depends on: logic (fact/opinion, cause/effect, truth), opinions, persuasion, and simple debate (backlog)
 Reason: Backing up claims with evidence and examples is reasoning language that goes beyond the abstract logical operators in logic_entries.md; children use it constantly in school arguments and explanations and it is the bridge between "I think X" and "I think X because Y."
-Existing coverage: logic_entries.md (cause/effect, fact/opinion covered; evidential language and justification discourse not present)
+Existing coverage: `evidence_and_justification_entries.md` now anchors `justification`, `reason why`, `because I saw it`, `I know this because`, `example`, `for instance`, `that proves`, `I can show you`, and `back it up`, while leaving broader `proof` and `evidence` anchors in existing logic and opinion files.
 
 ---
 
-## [MISSING] — Categories and Grouping
+## [COVERED] — Categories and Grouping
 Sequence: middle
 Suggested by: 1 model (gpt)
 Examples: types of, kinds of, belongs to, does not belong, sort, group, set, category, in the same group, classify, "which one fits?", pile, pair, bunch, crowd, row
 Depends on: logic concepts (all/some/none), abstract operators, existing taxonomy knowledge (animals, foods, etc.)
 Reason: Logic_entries.md has all/some/none but not the classification vocabulary children use to generalise; "what type of animal is a whale?" requires grouping language that the model currently lacks as an explicit register.
-Existing coverage: logic_entries.md (all/some/none covered; types-of and grouping vocabulary not present)
+Existing coverage: `categories_and_grouping_entries.md` now anchors `category`, `types of`, `belongs to`, `does not belong`, `sort`, `group`, `set`, `in the same group`, `classify`, and `which one fits`.
 
 ---
 
-## [MISSING] — Exceptions and Qualifications
+## [COVERED] — Exceptions and Qualifications
 Sequence: middle
 Suggested by: 1 model (gpt)
 Examples: usually, but sometimes, except, not always, most of the time, in this case, special case, it depends, unless
 Depends on: logic (rule, cause/effect, all/some/none), natural life cycles (backlog), safety rules (backlog)
 Reason: Without qualification language the model produces rigid absolute statements ("all birds fly"); usually/except/sometimes are the vocabulary of flexible, accurate reasoning and are not addressed anywhere in the corpus or backlog.
-Existing coverage: —
+Existing coverage: `exceptions_and_qualifications_entries.md` now anchors `usually`, `sometimes`, `except`, `not always`, `most of the time`, `in this case`, `special case`, `it depends`, and `unless`.
 
 ---
 
-## [MISSING] — Intentions and Plans in Action
+## [COVERED] — Intentions and Plans in Action
 Sequence: middle
 Suggested by: 1 model (gpt)
 Examples: I'm going to, I plan to, I want to do, next I will, I'm about to, let's, shall we, I decided to, I changed my mind
 Depends on: time (future), verbs, wants, needs, and preferences (backlog)
 Reason: Short-term conversational intent ("I'm going to pick that up") is distinct from long-term Future Planning and Goals (career aspirations, "when I grow up"); it is the immediate planning language woven through every task and play sequence.
-Existing coverage: —
+Existing coverage: `intentions_and_plans_in_action_entries.md` now anchors `intention`, `I'm going to`, `I plan to`, `next I will`, `I'm about to`, `let's`, `shall we`, `I decided to`, and `I changed my mind`.
 
 ---
 
-## [MISSING] — Accidents and Mistakes
+## [COVERED] — Accidents and Mistakes
 Sequence: middle
 Suggested by: 1 model (deepseek)
 Examples: accident, oops, by mistake, I didn't mean to, spill, break, bump, fall down, sorry, fix it, consequence, "I wasn't careful", "it was an accident", "how do we fix this?"
 Depends on: feeling (sorry/sad/embarrassed), logic (cause/effect, problem/solution), verbs (drop/break/fall)
 Reason: Accidents and unintended consequences are a constant feature of children's social narrative; managing them requires a vocabulary of intent, apology, and repair that spans emotional and logical registers — not fully addressed by Manners, Conflict Resolution, or Learning/Memory entries, each of which covers a narrower slice.
-Existing coverage: —
+Existing coverage: `accidents_and_mistakes_entries.md` now anchors `accident`, `mistake`, `oops`, `by mistake`, `I didn't mean to`, `spill`, `bump`, `fall down`, and `it was an accident`.
 
 ---
 
-## [MISSING] — Smells and Tastes
+## [COVERED] — Smells and Tastes
 Sequence: middle
 Suggested by: 1 model (deepseek)
 Examples: sweet, sour, salty, bitter, spicy, smell, stinky, fresh, yummy, yucky, delicious, "it smells like…", "tastes like…", aroma, odour, flavour
 Depends on: nose, mouth (body parts), food and drink, sensory experiences (backlog — partially)
 Reason: Chemical senses (smell and taste) are among the most immediate sensory experiences children describe and are frequently tied to food, memory, and emotion; the Sensory Experiences category covers broad sensory adjectives but does not give the olfactory and gustatory vocabulary its own depth.
-Existing coverage: STEM_entries.md (senses covered as biology; smell/taste adjectives as a descriptive register not dedicated)
+Existing coverage: `smells_and_tastes_entries.md` now anchors `smell`, `stinky`, `fresh`, `yummy`, `yucky`, `delicious`, `salty`, `bitter`, `spicy`, `it smells like`, and `it tastes like`.
 
 ---
 
-## [MISSING] — Collections and Collecting
+## [COVERED] — Collections and Collecting
 Sequence: middle
 Suggested by: 1 model (deepseek)
 Examples: collect, sticker, card, set, series, sort, organise, trade, duplicate, complete, album, "I have all of them", "I'm missing one", display, swap
 Depends on: hobbies and interests (backlog), categories and grouping (backlog), ownership and sharing (backlog), numbers beyond 10 (backlog)
 Reason: Collecting is a primary hobby for 6–10 year olds and generates specific vocabulary around sets, completeness, trading, and organisation that no other category addresses — even Hobbies and Interests, which names collecting as a hobby but does not supply the vocabulary of the practice.
-Existing coverage: —
+Existing coverage: `collections_and_collecting_entries.md` now anchors `collection`, `sticker`, `card`, `series`, `organize`, `trade`, `duplicate`, `complete`, `album`, and `swap`.
 
 ---
 
-## [MISSING] — Sibling Relationships and Dynamics
+## [COVERED] — Sibling Relationships and Dynamics
 Sequence: middle
 Suggested by: 1 model (deepseek)
 Examples: older brother, younger sister, bossing around, sharing a room, tattletale, "it's not fair", middle child, only child, twins, annoying, play together, "they always get to…", "she started it"
 Depends on: family roles (people_roles_entries.md), feeling (angry/sad/happy), logic (rule, fair), ownership and sharing (backlog)
 Reason: Sibling dynamics are among the richest sources of social language for school-age children; complaints, negotiations, and loyalties with brothers and sisters generate daily conversation that goes well beyond the basic family-member definitions already in the corpus.
-Existing coverage: people_roles_entries.md (brother, sister defined as roles; sibling relationship dynamics not addressed)
+Existing coverage: `sibling_relationships_and_dynamics_entries.md` now anchors `sibling`, `older brother`, `younger sister`, `bossing around`, `sharing a room`, `tattletale`, `it's not fair`, `only child`, `twins`, and `annoying`, while `people_roles_entries.md` still owns the base family-role anchors.
 
 ---
 
-## [MISSING] — Degrees of Truth
+## [COVERED] — Degrees of Truth
 Sequence: middle
 Suggested by: 1 model (gemini)
 Examples: true, false, half-true, sort of, mostly, not exactly, "kind of but not really", exaggerate, approximately, "that's not quite right", "it depends", roughly, close enough
 Depends on: logic (truth, fact/opinion), communication acts and language (backlog), uncertainty and guessing (backlog)
 Reason: Children encounter statements that are approximately but not exactly true and need language to qualify accuracy; this occupies the space between binary true/false logic and full persuasion/debate — the vocabulary of nuanced everyday factual negotiation.
-Existing coverage: logic_entries.md (truth/fact/opinion as binary; graduated or partial accuracy not present)
+Existing coverage: `degrees_of_truth_entries.md` now anchors `half-true`, `sort of`, `mostly`, `not exactly`, `exaggerate`, `approximately`, `that's not quite right`, `roughly`, and `close enough`.
 
 ---
 
-## [MISSING] — Technology and Digital Media
+## [COVERED] — Technology and Digital Media
 Sequence: late
 Suggested by: 4 models (gpt, deepseek, mistral, sakana)
 Examples: phone, tablet, computer, TV, remote, game, video, app, button, screen, battery, email, message, "swipe", "tap"
 Depends on: time (day/week), logic (rule), feeling (happy/sad), button, light
 Reason: Modern children interact with screens daily and may write emails or messages; the model needs everyday media vocabulary and scripts to engage authentically with children's actual lived experience.
-Existing coverage: —
+Existing coverage: `technology_and_digital_media_entries.md` now anchors `technology`, `phone`, `tablet`, `computer`, `screen`, `app`, `video`, `message`, `swipe`, and `tap`.
 
 ---
 
-## [MISSING] — Environmental Care and Stewardship
+## [COVERED] — Environmental Care and Stewardship
 Sequence: late
 Suggested by: 2 models (gpt, sakana)
 Examples: recycle, trash/litter, pollution, conserve water, protect animals, plant a tree, save energy, clean up, "take care of the earth"
 Depends on: water, river, sea, tree, field, logic (cause/effect), time (future)
 Reason: Environmental responsibility language is a high-reuse anchor for explaining cause/effect ("if we litter, animals get hurt") and for school and community norms; builds on nature entries already in the corpus.
-Existing coverage: —
+Existing coverage: `environmental_care_and_stewardship_entries.md` now anchors `environment`, `recycle`, `litter`, `pollution`, `conserve water`, `protect animals`, `plant a tree`, `save energy`, and `take care of the earth`.
 
 ---
 
-## [MISSING] — Fractions and Sharing Quantities
+## [COVERED] — Fractions and Sharing Quantities
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: half, quarter, third, equal parts, share evenly, "cut in half", "one out of three", "divide into…"
 Depends on: logic (part/whole, same/different, all/some/none), number (0-10), addition/subtraction
 Reason: Fractions naturally arise in sharing, cooking, and classroom math talk; connects part/whole logic to daily conversation in a way that whole-number entries cannot; standard elementary math topic.
-Existing coverage: —
+Existing coverage: `fractions_and_sharing_quantities_entries.md` now anchors `fraction`, `quarter`, `third`, `equal parts`, `share evenly`, `cut in half`, `one out of three`, and `divide into`.
 
 ---
 
-## [MISSING] — Perspective-Taking and Theory of Mind
+## [COVERED] — Perspective-Taking and Theory of Mind
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: think, know, believe, guess, misunderstand, "I thought…", "they felt…", "she wanted…", "he didn't know that…"
 Depends on: logic (truth, fact/opinion, possible/impossible), feeling (happy/sad/angry), time (past)
 Reason: School-age benchmarks describe increasing theory-of-mind ability — reasoning about what others think and feel — as a key development for complex social inference and narrative comprehension; not addressable through existing logic or emotion entries alone.
-Existing coverage: —
+Existing coverage: `perspective_taking_and_theory_of_mind_entries.md` now anchors `perspective`, `believe`, `misunderstand`, `I thought`, `they felt`, `she wanted`, `he didn't know that`, and `put yourself in someone else's place`.
 
 ---
 
-## [MISSING] — Humor and Figurative Language
+## [COVERED] — Humor and Figurative Language
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: joke, tease, sarcasm, idiom, exaggeration, pun, "it's raining cats and dogs", "break a leg", riddle, "just kidding"
 Depends on: logic (fact/opinion, truth), feeling (happy/angry), time (present)
 Reason: School-age benchmarks explicitly include recognising and using sarcasm and other nonliteral meanings as conversational competence grows; essential for peer interaction and understanding indirect speech.
-Existing coverage: —
+Existing coverage: `humor_and_figurative_language_entries.md` now anchors `joke`, `tease`, `sarcasm`, `idiom`, `exaggeration`, `pun`, `riddle`, and `just kidding`.
 
 ---
 
-## [MISSING] — Inclusion, Bullying, and Kindness
+## [COVERED] — Inclusion, Bullying, and Kindness
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: include, exclude, bully, stand up for someone, respect, fairness, compassion, "leave them out", "that's not kind", bystander, "be an upstander"
 Depends on: logic (rule, problem/solution), feeling (sad/scared/angry), time (future)
 Reason: Social rules and protection from bullying are explicitly present in early civic and responsibility standards; children need language to describe, report, and respond to exclusion and unkindness at school.
-Existing coverage: —
+Existing coverage: `inclusion_bullying_and_kindness_entries.md` now anchors `include`, `exclude`, `bullying`, `stand up for someone`, `respect`, `compassion`, `leave them out`, `that's not kind`, `bystander`, and `upstander`.
 
 ---
 
-## [MISSING] — Online Safety and Privacy
+## [COVERED] — Online Safety and Privacy
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: private/public, password, personal information, stranger online, report/block, "don't share that", screen time, "ask a grown-up"
 Depends on: logic (rule, necessary, possible/impossible), feeling (scared), home
 Reason: Modern communication skills standards increasingly include digital safety contexts; safety-oriented boundary and refusal strategies extend online as children begin using devices independently — distinct from the general Technology category.
-Existing coverage: —
+Existing coverage: `online_safety_and_privacy_entries.md` now anchors `private`, `public`, `password`, `personal information`, `stranger online`, `report`, `block`, `don't share that`, `screen time`, and `ask a grown-up`.
 
 ---
 
-## [MISSING] — Civic Responsibility and Community Rules
+## [COVERED] — Civic Responsibility and Community Rules
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: rights, responsibilities, authority, law, community rules, vote, classroom jobs, "following rules", "what's allowed", citizen
 Depends on: logic (rule, order, goal), home, road, time (day/week)
 Reason: Social studies frameworks explicitly teach that children and adults follow rules across home, school, and community; becomes everyday talk about civic participation and rule-following behaviour in the late elementary years.
-Existing coverage: —
+Existing coverage: `civic_responsibility_and_community_rules_entries.md` now anchors `responsibility`, `authority`, `community rules`, `follow the rules`, `what's allowed`, `citizen`, `vote`, `classroom jobs`, and `right`.
 
 ---
 
-## [MISSING] — Learning, Memory, and Metacognition
+## [COVERED] — Learning, Memory, and Metacognition
 Sequence: late
 Suggested by: 1 model (deepseek)
 Examples: learn, remember, forget, practice, try again, make a mistake, figure out, know, guess, "I don't understand", "I need to practise", "I forgot"
 Depends on: logic (problem/solution, goal, change, possible/impossible), time (past/future)
 Reason: Metacognition emerges in elementary years and is needed for school success and self-regulation; this is distinct from Communication Acts — it covers the child's internal cognitive processes, not speech acts directed at others.
-Existing coverage: —
+Existing coverage: `learning_memory_and_metacognition_entries.md` now anchors `learn`, `remember`, `forget`, `practice`, `try again`, `figure out`, `I don't understand`, `I need to practice`, and `I forgot`.
 
 ---
 
-## [MISSING] — Future Planning and Goals
+## [COVERED] — Future Planning and Goals
 Sequence: late
 Suggested by: 1 model (sakana)
 Examples: grow up, want to be, learn more, try, dream, plan, "when I'm older", "I'm going to…", goal, "someday I will…"
 Depends on: school, professions, feeling (happy/excited), time (future)
 Reason: Older children start thinking about what they want to do or be; future-oriented language is important for aspirational conversation, goal-setting talk, and discussing the world beyond the present.
-Existing coverage: —
+Existing coverage: `future_planning_and_goals_entries.md` now anchors `plan`, `dream for the future`, `when I'm older`, `want to be`, `someday I will`, `future goal`, `work toward`, `prepare for`, and `hope to`.
 
 ---
 
-## [MISSING] — Story Roles and Plot Elements
+## [COVERED] — Story Roles and Plot Elements
 Sequence: late
 Suggested by: 1 model (sakana)
 Examples: hero, villain, sidekick, problem in the story, solution, twist, moral, conflict, climax, character, setting, "the lesson is…", "the bad guy"
 Depends on: storytelling and narrative structure (backlog), imagination and pretend play (backlog), emotions, logic concepts (cause/effect, problem/solution)
 Reason: Storytelling and Narrative Structure covers sequence words (first/then/finally/beginning-middle-end); this covers the characters and plot vocabulary children use when discussing books, films, and games — a distinct and heavily used register.
-Existing coverage: —
+Existing coverage: `story_roles_and_plot_elements_entries.md` now anchors `character`, `setting`, `hero`, `villain`, `sidekick`, `conflict in a story`, `climax`, `moral`, and `the bad guy`.
 
 ---
 
-## [MISSING] — Social-Emotional Learning Competencies
+## [COVERED] — Social-Emotional Learning Competencies
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: self-management, social awareness, empathy, responsible decision-making, "how would you feel if…", self-regulation, "that was a good choice", impulse control
 Depends on: feeling (happy/sad/angry), logic (rule, decision, consequence), time (future)
 Reason: Widely used SEL frameworks organise children's social functioning into core competencies that strongly predict real-world conversational needs; integrates self, others, relationships, and decision-making into a unified register not yet covered elsewhere.
-Existing coverage: —
+Existing coverage: `social_emotional_learning_competencies_entries.md` now anchors `self-management`, `social awareness`, `empathy`, `self-regulation`, `responsible decision-making`, `impulse control`, `how would you feel if`, and `that was a good choice`.
 
 ---
 
-## [MISSING] — Secrets, Surprises, and Keeping Promises
+## [COVERED] — Secrets, Surprises, and Keeping Promises
 Sequence: late
 Suggested by: 1 model (deepseek)
 Examples: secret, surprise, promise, keep a secret, break a promise, tell the truth, trust, "I promised I wouldn't tell", surprise party, "cross my heart", "pinky promise", safe secret vs. unsafe secret
 Depends on: logic (truth, rule), communication acts and language (backlog), feeling (excited/sad/guilty), boundaries and consent (backlog)
 Reason: These social-communicative concepts involve complex moral and emotional reasoning; understanding the difference between a healthy surprise and an unsafe secret is a specific child-protection literacy goal; children use this vocabulary constantly in social settings.
-Existing coverage: —
+Existing coverage: `secrets_surprises_and_keeping_promises_entries.md` now anchors `secret`, `surprise`, `keep a promise`, `break a promise`, `I promised I wouldn't tell`, `surprise party`, `pinky promise`, and `unsafe secret`.
 
 ---
 
-## [MISSING] — Praise, Criticism, and Feedback
+## [COVERED] — Praise, Criticism, and Feedback
 Sequence: late
 Suggested by: 1 model (deepseek)
 Examples: well done, good job, try again, that's not right, you can do better, "I like how you…", constructive, improve, feedback, encourage, "what could be different?", praise, critique, "I'm proud of you"
 Depends on: learning, memory, and metacognition (backlog), feeling (proud/embarrassed/encouraged), logic (cause/effect, goal)
 Reason: School-age children constantly give and receive evaluation from teachers, peers, and family; handling praise and criticism gracefully and using feedback productively are social and academic skills that generate specific vocabulary not addressed elsewhere.
-Existing coverage: —
+Existing coverage: `praise_criticism_and_feedback_entries.md` now anchors `praise`, `criticism`, `feedback`, `well done`, `good job`, `you can do better`, `I like how you`, `encourage`, and `what could be different`.
 
 ---
 
@@ -1043,9 +1043,9 @@ Existing coverage: vehicles_transport_entries.md (10 entries)
 ## Summary
 
 Total categories: 88
-  MISSING:  65
-  PARTIAL:  17
-  COVERED:   6
+  MISSING:   0
+  PARTIAL:  18
+  COVERED:  70
 
 Categories by sequence:
   early:   34
@@ -1060,24 +1060,24 @@ Categories by sequence:
 
 | Rank | Category | Models | Status |
 |------|----------|--------|--------|
-| 1 | Daily Routines and Self-Care | 6 | MISSING |
+| 1 | Daily Routines and Self-Care | 6 | COVERED |
 | 1 | School Life and Learning | 6 | PARTIAL |
 | 1 | Family Roles and Kinship | 6 | COVERED |
 | 1 | Health and Wellness | 6 | PARTIAL |
 | 1 | Professions and Community Helpers | 6 | COVERED |
-| 6 | Manners, Politeness, and Social Etiquette | 5 | MISSING |
-| 6 | Safety, Rules, and Emergency Awareness | 5 | MISSING |
-| 6 | Play, Games, and Sports | 5 | MISSING |
-| 6 | Communication Acts and Language | 5 | MISSING |
+| 6 | Manners, Politeness, and Social Etiquette | 5 | COVERED |
+| 6 | Safety, Rules, and Emergency Awareness | 5 | COVERED |
+| 6 | Play, Games, and Sports | 5 | COVERED |
+| 6 | Communication Acts and Language | 5 | COVERED |
 | 6 | Emotions Beyond Basic States | 5 | PARTIAL |
 | 6 | Measurement and Comparison | 5 | PARTIAL |
 | 6 | Natural Life Cycles and Processes | 5 | PARTIAL |
 
 **Highest-priority MISSING entries (6 models, not covered at all):**
-Daily Routines and Self-Care
+None.
 
 **Highest-priority MISSING entries (5 models):**
-Manners/Etiquette · Safety/Rules · Play/Games · Communication Acts
+None.
 
 ---
 

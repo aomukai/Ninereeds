@@ -17,7 +17,7 @@ The current goal is not "write everything fast."
 The current goal is:
 
 1. finish partial foundational categories
-2. add missing high-utility daily-life categories in dependency order
+2. run a broader quality pass across the now-complete category set
 3. periodically check whether new wiki vocabulary needs earlier anchoring in `phase 1–5`
 
 Recent completed salvage / implementation batch:
@@ -30,6 +30,50 @@ Recent completed salvage / implementation batch:
 - `Cooking and Food Preparation`
 - `Construction and Material Transformations`
 - `Emotions Beyond Basic States` partially expanded by extending `emotions_entries.md`
+
+Most recent coverage batch completed:
+
+- `Musical Instruments`
+- `Shadow and Light Phenomena`
+- `Garden and Planting Basics`
+- `Group Roles and Participation`
+- `Evidence and Justification`
+
+Newest coverage batch completed:
+
+- `Categories and Grouping`
+- `Exceptions and Qualifications`
+- `Intentions and Plans in Action`
+- `Accidents and Mistakes`
+- `Smells and Tastes`
+
+Current coverage batch completed:
+
+- `Collections and Collecting`
+- `Sibling Relationships and Dynamics`
+- `Degrees of Truth`
+- `Technology and Digital Media`
+- `Environmental Care and Stewardship`
+
+Next coverage batch completed:
+
+- `Inclusion, Bullying, and Kindness`
+- `Online Safety and Privacy`
+- `Civic Responsibility and Community Rules`
+- `Learning, Memory, and Metacognition`
+- `Future Planning and Goals`
+
+Final missing-category batch completed:
+
+- `Body States and Internal Cues` coverage verified and backlog updated
+- `Simple Physics: Energy and Power`
+- `Fractions and Sharing Quantities`
+- `Perspective-Taking and Theory of Mind`
+- `Humor and Figurative Language`
+- `Story Roles and Plot Elements`
+- `Social-Emotional Learning Competencies`
+- `Secrets, Surprises, and Keeping Promises`
+- `Praise, Criticism, and Feedback`
 
 ---
 
@@ -105,16 +149,16 @@ These are the next wave once the above is stable:
 
 Recommended next clean authoring order after the salvage batch:
 
-1. [ ] `Data, Charts, and Graphs`
-   Notes: classroom data language is still uncovered and unlocks early math/science talk: `chart`, `graph`, `tally`, `most`, `least`, `result`, `survey`, and `bar chart`.
-2. [ ] `Material Composition`
-   Notes: this adds the “what is it made of?” layer with reusable anchors like `wood`, `metal`, `plastic`, `glass`, `paper`, `fabric`, and `rubber`.
-3. [ ] `Animal Habitats and Homes`
-   Notes: this connects existing animal files to place language with `nest`, `burrow`, `hive`, `den`, `pond`, `web`, and `reef`.
-4. [ ] `Food Groups and Nutrition`
-   Notes: this adds the category layer above named foods: `fruit`, `vegetable`, `grain`, `protein`, `dairy`, `vitamin`, and `balanced meal`.
-5. [ ] `Levels of Intensity and Gradation`
-   Notes: this fills a real conversational gap around degree words like `a little`, `very`, `really`, `too much`, and `enough`.
+1. [x] `Data, Charts, and Graphs`
+   Notes: implemented as the classroom-data category with `data`, `chart`, `graph`, `tally`, `tally mark`, `survey`, `result`, `most`, `least`, `bar graph`, and `picture graph`.
+2. [x] `Material Composition`
+   Notes: implemented as the material-identity layer with `material`, `made of`, `wood`, `metal`, `plastic`, `glass`, `paper`, `fabric`, and `rubber`.
+3. [x] `Animal Habitats and Homes`
+   Notes: implemented as the habitat-and-shelter layer with `animal habitat`, `animal home`, `nest`, `burrow`, `den`, `hive`, `web`, and `reef`, while leaving place anchors like `pond` in `places_and_landforms_entries.md`.
+4. [x] `Food Groups and Nutrition`
+   Notes: implemented as the food-category layer with `food group`, `nutrition`, `grain`, `protein food`, `dairy`, `vitamin`, `healthy food`, `balanced meal`, and `junk food`.
+5. [x] `Levels of Intensity and Gradation`
+   Notes: implemented as the degree-word layer with `level of intensity`, `a little`, `a bit`, `a lot`, `very`, `really`, `enough`, `too much`, and `barely`.
 
 ---
 

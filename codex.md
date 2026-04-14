@@ -92,18 +92,16 @@ Current workflow:
 Current corpus snapshot:
 
 * `88` backlog categories total
-* `36` `COVERED`
+* `70` `COVERED`
 * `18` `PARTIAL`
-* `34` `MISSING`
+* `0` `MISSING`
 
 Current task:
 Next clean authoring targets:
 
-* `Data, Charts, and Graphs`
-* `Material Composition`
-* `Animal Habitats and Homes`
-* `Food Groups and Nutrition`
-* `Levels of Intensity and Gradation`
+* move from missing-category fill to corpus-wide quality and balance work
+* keep concept ownership strict while reviewing overlap across the now-complete set
+* use the full category coverage to identify which partial files need the highest-value expansion next
 
 Goal:
 
