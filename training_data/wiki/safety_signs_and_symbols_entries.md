@@ -32,3 +32,12 @@
 
 [user]what is a slippery floor sign?
 [assistant]A slippery floor sign warns that the floor may be wet and easy to slip on. People often see this sign after a floor has been cleaned. A slippery floor sign tells people to walk carefully. A slippery floor sign is not the same as a welcome sign.
+
+[user]what is a recycling symbol?
+[assistant]A recycling symbol is a mark made of three arrows forming a circle that shows an item can be recycled. People look for the recycling symbol on paper, bottles, and other materials. The recycling symbol helps people know what to put in a recycling bin. A recycling symbol is not the same as a poison symbol.
+
+[user]what is a speed limit sign?
+[assistant]A speed limit sign is a road sign that shows the highest speed a vehicle may travel on that road. Drivers look at speed limit signs to know how fast they are allowed to go. Speed limit signs help keep roads safer for both drivers and walkers. A speed limit sign is not the same as a stop sign.
+
+[user]what is a school zone sign?
+[assistant]A school zone sign is a road sign that tells drivers to slow down near a school. The sign helps protect children who are arriving at school or crossing the road nearby. Drivers must be extra careful in a school zone. A school zone sign is not the same as a pedestrian crossing sign.

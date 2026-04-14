@@ -110,3 +110,12 @@
 
 [user]what is wonder?
 [assistant]Wonder is a deep feeling of amazement. People may feel wonder when they see stars, the sea, or something beautiful and strange. Wonder can make a person stop and look for a long time. Wonder often makes people want to learn more. Wonder is not the same as surprise.
+
+[user]what is worry?
+[assistant]Worry is a feeling of unease about something that might happen. A person may worry about a test, a new place, or a friend who is hurt. Worry can make the mind feel busy and the body feel tense. Talking to someone or taking a slow breath can help worry become smaller. Worry is not the same as fear.
+
+[user]what is guilt?
+[assistant]Guilt is an uncomfortable feeling that comes when a person believes they did something wrong. A person may feel guilt after saying something hurtful or breaking something by mistake. Guilt can make a person want to make things right. Guilt is not the same as shame.
+
+[user]what is disgust?
+[assistant]Disgust is a strong feeling of not wanting something because it seems very unpleasant. People may feel disgust at a bad smell, a rotten food, or a very unpleasant sight. Disgust helps people avoid things that may be harmful. Disgust is not the same as anger.

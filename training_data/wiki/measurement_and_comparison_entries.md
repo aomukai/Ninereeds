@@ -41,3 +41,15 @@
 
 [user]what does estimate mean?
 [assistant]To estimate means to make a careful guess that is close to the true amount. People estimate when they do not know the exact number or measurement yet. An estimate helps before counting or measuring exactly. Estimate is not the same as exact.
+
+[user]what is temperature?
+[assistant]Temperature is a measure of how hot or cold something is. People say the air is warm, hot, or cold based on its temperature. A thermometer shows temperature as a number. Temperature changes with the weather and with sources of heat or cold. Temperature is not the same as weather.
+
+[user]what is speed?
+[assistant]Speed is a measure of how fast something moves. A fast runner has a higher speed than a slow runner. People compare speed by saying faster or slower. Speed is not the same as distance.
+
+[user]what does wider mean?
+[assistant]Wider means having more space from one side to the other. A wider road lets more cars pass at once. People use wider when comparing how broad two things are. Wider is the opposite of narrower.
+
+[user]what does narrower mean?
+[assistant]Narrower means having less space from one side to the other. A narrower hallway has less room to walk through. People use narrower when comparing two things side by side. Narrower is the opposite of wider.

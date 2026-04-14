@@ -9,6 +9,9 @@
 [user]what is a crow?
 [assistant]A crow is a black bird with a loud voice. Crows are clever and good at solving simple problems. They eat seeds, insects, scraps, and small animals. Crows often live near people and can remember faces. A crow is not a raven.
 
+[user]what is a raven?
+[assistant]A raven is a large black bird that looks like a crow but is bigger. Ravens have a deeper voice and a heavier beak than crows. They are very clever and live in wild places like forests and mountains. Ravens eat many things including scraps, insects, and small animals. A raven is not a crow.
+
 [user]what is a duck?
 [assistant]A duck is a water bird with a wide bill and webbed feet. Ducks swim well and float on water. They eat plants, insects, and small animals in the water. Many ducks make a quacking sound. A duck is not a goose.
 

@@ -25,7 +25,7 @@
 [assistant]A sister is a female sibling in a family. A sister may be older or younger than another child in the family. Sisters may play, talk, share, and help. A sister is part of the same family. A sister is not a brother.
 
 [user]what is a husband?
-[assistant]A husband is a married man. A husband has a wife or another spouse. A husband and spouse often share a home and a life together. A husband may also be a father. A husband is not a bachelor.
+[assistant]A husband is a married man. A husband has a wife or another spouse. A husband and spouse often share a home and a life together. A husband may also be a father. A husband is not a boyfriend.
 
 [user]what is a wife?
 [assistant]A wife is a married woman. A wife has a husband or another spouse. A wife and spouse often share a home and a life together. A wife may also be a mother. A wife is not a single woman.
@@ -41,3 +41,6 @@
 
 [user]what is a friend?
 [assistant]A friend is a person you know, like, and trust. Friends spend time together, talk, play, and help each other. A friend is chosen, not born into a family. Friends can make people feel happy and less alone. A friend is not an enemy.
+
+[user]what is an enemy?
+[assistant]An enemy is a person or group that is against another person or group. Enemies may fight, argue, or try to cause harm to each other. In stories, enemies often try to stop the main person from reaching a goal. The word enemy is serious and means more than just not being friends. An enemy is not a stranger.

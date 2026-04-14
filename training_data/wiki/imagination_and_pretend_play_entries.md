@@ -26,3 +26,15 @@
 
 [user]what is a game of pretend?
 [assistant]A game of pretend is a play activity built around imagination and make-believe. Children may play house, school, store, or space trip in a game of pretend. A game of pretend often has roles, actions, and a simple story. A game of pretend is not the same as homework.
+
+[user]what is an adventure?
+[assistant]An adventure is an exciting experience where something unusual or challenging happens. In pretend play, children may go on imaginary adventures to forests, planets, or hidden caves. An adventure often has a problem to solve or a goal to reach. An adventure in pretend play is not real, but it can feel very exciting.
+
+[user]what is magic?
+[assistant]Magic is the idea that impossible things can happen in stories or pretend play. A child may use a pretend wand or say magic words in a game. Magic lets children imagine things that do not happen in real life. Magic is not the same as a fact.
+
+[user]what is a superhero?
+[assistant]A superhero is an imaginary character with special powers who helps others. Children often pretend to be superheroes in play. A superhero may fly, run very fast, or have great strength in a story or game. A superhero is not a real person.
+
+[user]what does it mean to invent a game?
+[assistant]To invent a game means to think up the rules, story, and actions for a new play activity. Children can invent a game using toys, outdoor spaces, or imagination alone. An invented game may change its rules as play goes on. To invent a game is not the same as following rules that already exist.

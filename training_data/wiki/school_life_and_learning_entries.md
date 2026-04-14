@@ -47,3 +47,18 @@
 
 [user]what is a backpack?
 [assistant]A backpack is a bag carried on the back. Students may carry books, paper, pencils, lunch, and other things in a backpack. A backpack helps keep school things together. Many backpacks have straps, pockets, and a zipper. A backpack is not a desk.
+
+[user]what is a test?
+[assistant]A test is a set of questions or tasks given to students so a teacher can see what they have learned. A student reads questions and writes answers on a test. Some tests are short and some are longer. Tests help teachers and students see what to practice more. A test is not the same as a lesson.
+
+[user]what is a lunchbox?
+[assistant]A lunchbox is a box or container students bring to school to carry their lunch. A lunchbox may hold a sandwich, fruit, a drink, and a snack. Students open their lunchbox at lunchtime. A lunchbox is not the same as a backpack.
+
+[user]what is a playground?
+[assistant]A playground is an outdoor space where children play. A playground may have swings, slides, climbing frames, and open ground. Children go to the playground during recess or after school. A playground is not the same as a classroom.
+
+[user]what is a principal?
+[assistant]A principal is the person in charge of a school. A principal helps keep the school safe and running well. A principal may talk with teachers, students, and families about school life. A principal is not the same as a teacher.
+
+[user]what is a magazine?
+[assistant]A magazine is a printed or digital publication that comes out regularly and has many articles, pictures, and stories inside. Magazines are usually shorter than books and cover a topic like animals, science, or news. A new issue of a magazine comes out each week or month. A magazine is not a book.

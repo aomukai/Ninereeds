@@ -3,6 +3,9 @@
 [user]what is an animal?
 [assistant]An animal is a living thing that can move on its own, eat food, breathe, and feel the world around it. Animals come in many shapes and sizes, from tiny insects to giant whales. Some animals walk on land, some swim in water, and some fly in the air. All animals are born, grow, and one day die. An animal is not a plant, which cannot move on its own and makes its own food from sunlight.
 
+[user]what is a mammal?
+[assistant]A mammal is a kind of animal that is warm-blooded and breathes air. Most mammals grow fur or hair on the body. Mother mammals feed their young with milk after birth. Dogs, cats, horses, whales, and humans are all mammals. A mammal is not a bird.
+
 [user]what is a human?
 [assistant]A human is an animal and a mammal. A human is also called a person, and many humans together are called people. Humans walk on two legs and use words to talk with each other. Humans can think, learn, make tools, and build homes and cities. A human is not a monkey.
 
@@ -42,6 +45,9 @@
 [user]what is a goat?
 [assistant]A goat is a sturdy farm animal with short legs, a small beard under its chin, and curved horns. Goats are very good at climbing steep, rocky ground that other animals cannot manage. They eat grass, leaves, and tough plants and are kept by farmers for their milk and wool. Goats make a high, bleating sound when they call to each other. A goat is not a sheep, which has thick, soft wool all over its body and stays on flatter ground.
 
+[user]what is a sheep?
+[assistant]A sheep is a farm animal with a thick, soft coat of wool all over its body. Sheep graze on grass in fields and live in groups called flocks. Farmers shear the wool from a sheep to use for clothing and blankets. A sheep makes a soft sound called a bleat. A sheep is not a goat, which has shorter wool and is better at climbing rocky ground.
+
 [user]what is a hamster?
 [assistant]A hamster is a tiny, round, furry animal with a short tail and large cheeks that it uses to carry food. Hamsters sleep during the day and become active at night. They love to run in circles on a wheel inside their cage. Hamsters stuff their cheeks full of seeds and carry the food to a hidden corner to eat later. A hamster is not a mouse, which has a long bare tail and usually lives in the wild rather than as a pet.
 
@@ -50,6 +56,9 @@
 
 [user]what is a lion?
 [assistant]A lion is a large, powerful wild cat with golden-yellow fur and a deep, booming roar. Male lions grow a thick ring of fur around their face and neck called a mane. Lions live in open grasslands and hunt large animals for food. They live in family groups, and the females do most of the hunting. A lion is not a tiger, which has stripes instead of a mane and lives alone in forests.
+
+[user]what is a tiger?
+[assistant]A tiger is a large wild cat with orange and black stripes all over its body. Tigers live alone in forests and hunt large animals like deer for food. A tiger is a strong and silent hunter that moves carefully through tall grass. Each tiger has a different stripe pattern, like a fingerprint. A tiger is not a lion, which has a mane and lives in a group on open grasslands.
 
 [user]what is a mouse?
 [assistant]A mouse is a tiny animal with soft grey or brown fur, large round ears, and a long, thin bare tail. Mice are quick and quiet and can squeeze through very small gaps. They eat seeds, grains, and bits of food they find lying around. Mice build small nests from scraps of soft material in dark, hidden corners. A mouse is not a rabbit, which is much larger, has long ears, and hops instead of running.

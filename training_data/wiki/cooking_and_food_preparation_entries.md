@@ -35,3 +35,18 @@
 
 [user]what does it mean to knead dough?
 [assistant]To knead dough means to press and fold dough again and again with the hands. People knead dough when making bread or other baked food. Kneading changes the dough and helps it become smoother and stronger. To knead dough is not the same as to stir food.
+
+[user]what does it mean to boil?
+[assistant]To boil means to heat a liquid until it bubbles strongly and steam rises. People boil water, pasta, and vegetables in a pot on the stove. Boiling cooks food through or makes water safe to drink. To boil is not the same as to bake.
+
+[user]what does it mean to pour?
+[assistant]To pour means to let a liquid or loose material flow from one container into another. People pour juice into a glass, batter into a pan, or salt into a bowl. Pouring is a common action when cooking and preparing food. To pour is not the same as to stir.
+
+[user]what does it mean to mix?
+[assistant]To mix means to stir or combine different ingredients together until they are blended. People mix ingredients when making a cake, a salad, or a drink. Mixing helps things come together evenly. To mix is not the same as to separate.
+
+[user]what does it mean to fry?
+[assistant]To fry means to cook food in hot oil or butter in a pan. People fry eggs, potatoes, and other foods until they are cooked through. Frying is a fast way to cook some foods. To fry is not the same as to bake.
+
+[user]what does it mean to spread?
+[assistant]To spread means to move something soft across a surface to cover it. People spread butter on bread, jam on toast, or frosting on a cake. Spreading uses a knife or a flat tool to push the soft material out evenly. To spread is not the same as to pour.

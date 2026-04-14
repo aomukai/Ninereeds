@@ -62,3 +62,12 @@
 
 [user]what is a chestnut?
 [assistant]A chestnut is a shiny brown nut that grows inside a spiky case. Chestnuts are softer than many other nuts. People often roast chestnuts before eating them. Chestnuts have a sweet earthy taste. A chestnut is not a walnut.
+
+[user]what is a plantain?
+[assistant]A plantain is a fruit that looks like a large banana. Plantains are usually cooked before eating because they are starchy and less sweet than a banana. People fry, bake, or boil plantains in many meals. Plantains are popular in warm parts of the world. A plantain is not a banana.
+
+[user]what is a lime?
+[assistant]A lime is a small round citrus fruit with green skin. Limes taste very sour, like a lemon but with a different flavor. People squeeze lime juice into drinks, cooking, and salsa. Limes grow on trees in warm places. A lime is not a lemon.
+
+[user]what is a melon?
+[assistant]A melon is a large round or oval fruit with a thick rind. Inside, the flesh is soft, sweet, and juicy. Melons grow on vines along the ground. People eat melon sliced or in chunks as a snack or dessert. A melon is not a watermelon, though both have thick rinds and juicy insides.

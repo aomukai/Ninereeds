@@ -29,3 +29,6 @@
 
 [user]what does "I meant" mean?
 [assistant]I meant is something people say when they want to fix or clarify their own words. A child may say I meant the red one after saying the wrong color first. The phrase helps repair a message after a mistake or mix-up. I meant points back to what the speaker was trying to say. I meant is not the same as never mind.
+
+[user]what is a complaint?
+[assistant]A complaint is a message about something that feels wrong, unfair, or not working well. A child may make a complaint to a teacher when someone is being unkind. A complaint describes the problem so someone with the right role can help. A complaint is not the same as praise.

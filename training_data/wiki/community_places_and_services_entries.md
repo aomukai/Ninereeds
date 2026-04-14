@@ -35,3 +35,12 @@
 
 [user]what is a bus stop?
 [assistant]A bus stop is a place where people wait for a bus to pick them up or let them off. People stand at a bus stop until the bus comes. A bus stop helps people travel from one place to another. A bus stop is not the same as a bedroom.
+
+[user]what is a bank?
+[assistant]A bank is a place where people keep their money safely. People put money into a bank and take it out when they need it. Banks also help people save money over time. A bank is not the same as a store.
+
+[user]what is a pharmacy?
+[assistant]A pharmacy is a place where people go to get medicine. A trained person at the pharmacy helps people find the right medicine for sickness or pain. Pharmacies may be inside a larger store or in their own building. A pharmacy is not the same as a hospital.
+
+[user]what is a clinic?
+[assistant]A clinic is a place where people go to see a doctor or nurse for medical help. A clinic may help with checkups, small injuries, or sickness. A clinic is usually smaller than a hospital. A clinic is not the same as a pharmacy.

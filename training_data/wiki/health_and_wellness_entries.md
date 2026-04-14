@@ -35,3 +35,18 @@
 
 [user]what is a germ?
 [assistant]A germ is a very tiny living thing that can sometimes make people sick. Germs can spread through touch, coughs, or dirty surfaces. Washing hands can help stop some germs from spreading. A germ is not something a person can usually see.
+
+[user]what is a sneeze?
+[assistant]A sneeze is a sudden burst of air from the nose and mouth. People sneeze when something bothers the inside of the nose. A sneeze can spread germs, so people cover their nose and mouth when they sneeze. A sneeze is not the same as a cough.
+
+[user]what is a runny nose?
+[assistant]A runny nose is when liquid comes out of the nose more than usual. A runny nose often happens during a cold or when something irritates the nose. People wipe a runny nose with a tissue. A runny nose is not the same as a sneeze.
+
+[user]what is a rash?
+[assistant]A rash is a change in the skin that makes it look red, bumpy, or different from usual. A rash may feel itchy or sore. Rashes can be caused by sickness, something touching the skin, or an allergy. A rash is not the same as a bruise.
+
+[user]what is an allergy?
+[assistant]An allergy is when the body reacts badly to something that does not bother most people. A person may be allergic to a food, a plant, or an animal. An allergic reaction may cause a rash, a runny nose, or other uncomfortable symptoms. An allergy is not the same as a germ.
+
+[user]what is a checkup?
+[assistant]A checkup is a visit to a doctor when a person is not sick, to make sure the body is healthy. During a checkup a doctor may listen to breathing, check height and weight, and ask questions. A checkup helps catch problems early. A checkup is not the same as going to a hospital.

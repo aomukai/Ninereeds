@@ -4,7 +4,7 @@
 [assistant]Gardening is growing and caring for plants on purpose. People garden in yards, pots, garden beds, or school spaces. Gardening can include digging, planting, watering, and pulling weeds. Gardens can grow flowers, herbs, fruits, or vegetables. Gardening is not a jungle.
 
 [user]what is soil?
-[assistant]Soil is the loose ground where many plants grow. Soil holds roots, water, air, and tiny living things. Good soil helps plants stand up and take in what they need. Soil can be dark, sandy, rich, or dry. Soil is not a rock.
+[assistant]Soil is the loose ground where many plants grow. Soil holds roots, water, air, and tiny living things. Good soil helps plants stand up and take in what they need. Soil can be dark, sandy, rich, or dry. Soil is not sand.
 
 [user]what is compost?
 [assistant]Compost is old plant food scraps and other natural material that break down into rich dark plant food. People add compost to soil to help plants grow better. Compost can be made from leaves, fruit peels, and other plant waste. Compost helps feed the soil in a natural way. Compost is not plastic.

@@ -38,3 +38,12 @@
 
 [user]what is a tomato?
 [assistant]A tomato is a round or oval fruit that people often use like a vegetable in cooking. Many tomatoes are red, but some are yellow or orange. Tomatoes grow on vines. People eat tomatoes raw or cooked in sauces and soups. A tomato is not a potato.
+
+[user]what is a parsnip?
+[assistant]A parsnip is a long root vegetable that grows underground. Parsnips are pale or cream-colored and taste sweet and earthy. People often roast or cook parsnips in soups and stews. Parsnips grow best in cool weather. A parsnip is not a carrot, though both are long root vegetables.
+
+[user]what is kale?
+[assistant]Kale is a leafy green vegetable with thick, curly leaves. Kale has a strong taste and grows well in cool weather. People eat kale cooked in soups or raw in salads. Kale is known for being a very healthy food. Kale is not spinach, though both are leafy green vegetables.
+
+[user]what is a sweet potato?
+[assistant]A sweet potato is a root vegetable that grows underground. Sweet potatoes have orange flesh inside and a sweet taste. People bake, boil, or mash sweet potatoes. Sweet potatoes are used in many meals and desserts. A sweet potato is not a potato, which has a starchy taste and pale flesh inside.

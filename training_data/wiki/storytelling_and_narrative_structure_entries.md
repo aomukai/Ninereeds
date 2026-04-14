@@ -32,3 +32,18 @@
 
 [user]what does at the end mean?
 [assistant]At the end means at the last part of a story or event. A person may say at the end before telling how things finish. At the end helps close the story in a clear way. At the end is not first.
+
+[user]what does once upon a time mean?
+[assistant]Once upon a time is a phrase used at the very beginning of a story. It tells the listener that what follows is a tale set long ago. Once upon a time signals that a story is about to begin. Once upon a time is not the same as at the end.
+
+[user]what is a plot?
+[assistant]A plot is all the events that happen in a story from start to finish. A plot has a beginning, a middle, and an end. The plot shows what the characters do and what problems they face. A plot is not the same as a single event.
+
+[user]what is a narrator?
+[assistant]A narrator is the voice that tells a story. A narrator describes what happens and may share what characters think or feel. The narrator may be a character inside the story or a voice from outside it. A narrator is not the same as a character.
+
+[user]what does suddenly mean in a story?
+[assistant]Suddenly is a word used when something happens fast and without warning. A storyteller says suddenly to make the listener pay close attention. Suddenly shows that the next event is a surprise. Suddenly is not the same as slowly.
+
+[user]what does meanwhile mean in a story?
+[assistant]Meanwhile is a word used to show that two things are happening at the same time in different places. A storyteller says meanwhile to jump from one part of the story to another. Meanwhile helps listeners follow more than one thread of a story. Meanwhile is not the same as after.

@@ -26,3 +26,12 @@
 
 [user]what does when I was little mean?
 [assistant]When I was little is a phrase people use to talk about an earlier time in childhood. A person may use the phrase when remembering old toys, old habits, or old skills. The phrase helps connect the present self to the past self. When I was little is not the same as right now.
+
+[user]what is an elderly person?
+[assistant]An elderly person is someone who has lived for a long time and reached old age. Elderly people are older than adults. An elderly person may be a grandparent or an older neighbor. An elderly person is not a child.
+
+[user]what is a milestone?
+[assistant]A milestone is an important moment or achievement in a person's growth. Learning to walk, starting school, and reading a first book are all milestones. Milestones help show how much a person has grown and changed over time. A milestone is not the same as an ordinary day.
+
+[user]what is a lifetime?
+[assistant]A lifetime is all the time a person lives from birth to old age. A lifetime includes all the stages from baby to elderly person. During a lifetime a person grows, learns, changes, and experiences many things. A lifetime is not the same as one day.

@@ -38,3 +38,6 @@
 
 [user]what is a spider?
 [assistant]A spider is a small arthropod with eight legs. Spiders make silk and many spiders spin webs. Spiders catch insects and other small animals for food. People find spiders in houses, gardens, and woods. A spider is not an insect.
+
+[user]what is a worm?
+[assistant]A worm is a small soft animal with a long thin body and no legs. Worms live in soil and help break down dead leaves and food scraps. Earthworms move through soil and help make it better for plants. Worms breathe through their skin and need to stay moist. A worm is not an arthropod.

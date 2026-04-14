@@ -26,3 +26,6 @@
 
 [user]what does it mean to prefer?
 [assistant]To prefer means to like one option more than another option. A person may prefer juice to milk or reading to drawing. Preferring helps a person answer a choice question. Preference is the noun form of prefer. To prefer is not the same as to need.
+
+[user]what is a wish?
+[assistant]A wish is a hope for something that may or may not happen. People make wishes for things they want but may not be able to get right away. A wish is softer than a need because it is not required. Children may wish for a pet, a trip, or a special gift. A wish is not the same as a need.

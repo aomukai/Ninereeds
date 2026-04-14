@@ -169,7 +169,7 @@ Existing coverage: `daily_routines_and_self_care_entries.md` now anchors `routin
 
 ---
 
-## [PARTIAL] — School Life and Learning
+## [COVERED] — School Life and Learning
 Sequence: early
 Suggested by: 6 models (gpt, deepseek, gemini, grok, mistral, sakana)
 Examples: classroom, teacher, desk, homework, recess, lesson, test, backpack, school bus, grade, subject (math, reading, science, art, PE), lunchbox
@@ -239,7 +239,7 @@ Existing coverage: `art_and_creative_expression_entries.md` now anchors `art`, `
 
 ---
 
-## [PARTIAL] — Imagination and Pretend Play
+## [COVERED] — Imagination and Pretend Play
 Sequence: early
 Suggested by: 3 models (gpt, grok, sakana)
 Examples: pretend, make-believe, story character, superhero, dragon, castle, magic, adventure, invent a game, pretend store, pretend doctor, "let's say you are…", imaginary friend, role assignment
@@ -299,7 +299,7 @@ Existing coverage: `personal_identity_and_self_description_entries.md` now ancho
 
 ---
 
-## [PARTIAL] — Clothing and Apparel
+## [COVERED] — Clothing and Apparel
 Sequence: early
 Suggested by: 1 model (gemma)
 Examples: shirt, pants, hat, shoes, coat, socks, sweater, dress, helmet, jacket, gloves, scarf, glasses, backpack, umbrella, belt, watch, zipper, button, velcro, snap, buckle
@@ -329,7 +329,7 @@ Existing coverage: `animal_care_and_pet_keeping_entries.md` now anchors `pet car
 
 ---
 
-## [PARTIAL] — Safety Signs and Symbols
+## [COVERED] — Safety Signs and Symbols
 Sequence: early
 Suggested by: 1 model (sakana)
 Examples: stop sign, traffic light, crosswalk sign, poison symbol, slippery floor sign, emergency exit sign, railway crossing sign, fire alarm, no entry sign, recycling symbol
@@ -429,7 +429,7 @@ Existing coverage: `holidays_and_celebrations_entries.md` now anchors `holiday`,
 
 ---
 
-## [PARTIAL] — Money, Trade, and Shopping
+## [COVERED] — Money, Trade, and Shopping
 Sequence: middle
 Suggested by: 4 models (gpt, deepseek, mistral, sakana)
 Examples: buy, sell, cost, penny, nickel, dime, quarter, dollar, pay, save, earn, allowance, change, store, "how much does it cost?"
@@ -439,7 +439,7 @@ Existing coverage: `money_trade_and_shopping_entries.md` now anchors `money`, `c
 
 ---
 
-## [PARTIAL] — Storytelling and Narrative Structure
+## [COVERED] — Storytelling and Narrative Structure
 Sequence: middle
 Suggested by: 3 models (gpt, deepseek, sakana)
 Examples: once upon a time, first, next, then, finally, before, after, suddenly, at the end, beginning-middle-end, main idea, retell, "and then…", "so then…"
@@ -449,7 +449,7 @@ Existing coverage: `storytelling_and_narrative_structure_entries.md` now anchors
 
 ---
 
-## [PARTIAL] — Chores and Home Responsibilities
+## [COVERED] — Chores and Home Responsibilities
 Sequence: middle
 Suggested by: 3 models (gpt, deepseek, sakana)
 Examples: clean up, put away, set the table, sweep, water plants, feed pet, make the bed, take out trash, tidy up, "my job is…"
@@ -869,7 +869,7 @@ Existing coverage: `STEM_entries.md` covers the five senses as body/science conc
 
 ---
 
-## [PARTIAL] — Health and Wellness
+## [COVERED] — Health and Wellness
 Sequence: middle
 Suggested by: 6 models (gpt, deepseek, gemini, grok, mistral, sakana)
 Examples: fever, cough, sore throat, stomachache, headache, cut, bruise, bandage, rest, medicine, healthy food, exercise, hygiene, germs, "I feel sick"
@@ -879,7 +879,7 @@ Existing coverage: `health_and_wellness_entries.md` now anchors `health`, `welln
 
 ---
 
-## [PARTIAL] — Emotions Beyond Basic States
+## [COVERED] — Emotions Beyond Basic States
 Sequence: middle
 Suggested by: 5 models (gpt, deepseek, gemini, grok, mistral)
 Examples: lonely, disappointed, nervous, relieved, embarrassed, frustrated, jealous, worried, mixed emotions, "proud and nervous at the same time", emotion triggers
@@ -889,7 +889,7 @@ Existing coverage: `emotions_entries.md` now includes `frustration`, `loneliness
 
 ---
 
-## [PARTIAL] — Measurement and Comparison
+## [COVERED] — Measurement and Comparison
 Sequence: middle
 Suggested by: 5 models (gpt, deepseek, gemini, grok, mistral)
 Examples: bigger/smaller, taller/shorter, heavier/lighter, faster/slower, hotter/colder, more/less, half full, length, weight, temperature, volume, estimate, measure
@@ -899,7 +899,7 @@ Existing coverage: `measurement_and_comparison_entries.md` now anchors `measurem
 
 ---
 
-## [PARTIAL] — Natural Life Cycles and Processes
+## [COVERED] — Natural Life Cycles and Processes
 Sequence: middle
 Suggested by: 5 models (gpt, deepseek, gemini, grok, mistral)
 Examples: water cycle, plant growth, day/night pattern, seasons changing, caterpillar to butterfly, hatch, bloom, melt, freeze, seed → sprout → tree, life cycle
@@ -909,7 +909,7 @@ Existing coverage: `natural_life_cycles_and_processes_entries.md` now anchors `l
 
 ---
 
-## [PARTIAL] — Construction and Material Transformations
+## [COVERED] — Construction and Material Transformations
 Sequence: middle
 Suggested by: 3 models (gemini, deepseek, mistral)
 Examples: melt, freeze, boil, dissolve, break, fix, build, bend, stretch, tear, repair, fold, glue, cut, "it melted", "I fixed it"
@@ -919,7 +919,7 @@ Existing coverage: `construction_and_material_transformations_entries.md` now an
 
 ---
 
-## [PARTIAL] — Cooking and Food Preparation
+## [COVERED] — Cooking and Food Preparation
 Sequence: middle
 Suggested by: 2 models (deepseek, grok)
 Examples: mix, stir, pour, measure, peel, cut, bake, boil, fry, taste, recipe, ingredients, "first you…then you…"
@@ -929,7 +929,7 @@ Existing coverage: `cooking_and_food_preparation_entries.md` now anchors `cookin
 
 ---
 
-## [PARTIAL] — Community Places and Services
+## [COVERED] — Community Places and Services
 Sequence: middle
 Suggested by: 2 models (gpt, grok)
 Examples: store, hospital, post office, police station, fire station, park, library, clinic, playground, "where do we go when…?"
@@ -939,7 +939,7 @@ Existing coverage: `community_places_and_services_entries.md` now anchors `commu
 
 ---
 
-## [PARTIAL] — Opinions, Persuasion, and Simple Debate
+## [COVERED] — Opinions, Persuasion, and Simple Debate
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: I think, I agree/disagree, convince, reasons, evidence, "in my opinion", "I believe", "because…", "the best one is…"
@@ -949,7 +949,7 @@ Existing coverage: `opinions_persuasion_and_simple_debate_entries.md` now anchor
 
 ---
 
-## [PARTIAL] — Numbers Beyond 10 and Large-Number Talk
+## [COVERED] — Numbers Beyond 10 and Large-Number Talk
 Sequence: late
 Suggested by: 1 model (gpt)
 Examples: numbers to 100 and 1000, place value, "a lot", "hundreds", rounding, "about twenty", "more than fifty"
@@ -959,7 +959,7 @@ Existing coverage: `numbers_beyond_10_and_large_number_talk_entries.md` now anch
 
 ---
 
-## [PARTIAL] — Machines and Simple Mechanisms
+## [COVERED] — Machines and Simple Mechanisms
 Sequence: late
 Suggested by: 1 model (deepseek)
 Examples: pull, push, turn, spin, roll, slide, lift, drop, bounce, lever, wheel, gear, ramp, "how does it work?"
@@ -969,7 +969,7 @@ Existing coverage: `machines_and_simple_mechanisms_entries.md` now anchors `mach
 
 ---
 
-## [PARTIAL] — Growth and Life Stages (Human)
+## [COVERED] — Growth and Life Stages (Human)
 Sequence: late
 Suggested by: 1 model (grok)
 Examples: baby, toddler, child, grown-up, getting bigger, learning new skills, "I used to…", "when I was little", adult, elder

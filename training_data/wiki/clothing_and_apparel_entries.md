@@ -41,3 +41,18 @@
 
 [user]what is a zipper?
 [assistant]A zipper is a fastener used to open and close clothing or bags. A zipper has two sides that join together when a small slider moves along them. Coats, pants, and backpacks may have zippers. A zipper is not a button.
+
+[user]what is a scarf?
+[assistant]A scarf is a long piece of cloth worn around the neck or head. People wear scarves to stay warm in cold weather. A scarf can also be worn for style. A scarf is not the same as a hat.
+
+[user]what are boots?
+[assistant]Boots are shoes that go higher than the ankle. People wear boots in rain, mud, snow, or cold weather. Boots help protect the feet and lower legs. Boots are not the same as shoes.
+
+[user]what is a belt?
+[assistant]A belt is a strip of cloth or leather worn around the waist. A belt helps hold pants in place. Belts may have a buckle in the middle. A belt is not the same as a zipper.
+
+[user]what is a collar?
+[assistant]A collar is the part of a shirt or coat that goes around the neck. A collar may lie flat, stand up, or fold over. Collars are found on many kinds of clothing. A collar is not the same as a sleeve.
+
+[user]what is a sleeve?
+[assistant]A sleeve is the part of a shirt or coat that covers an arm. A sleeve can be short, reaching the elbow, or long, reaching the wrist. Sleeves help keep arms warm or covered. A sleeve is not the same as a collar.

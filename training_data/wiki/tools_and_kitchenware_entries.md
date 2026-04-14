@@ -38,3 +38,6 @@
 
 [user]what is a spoon?
 [assistant]A spoon is a piece of kitchenware used for eating or serving food. A spoon has a handle and a rounded bowl at one end. People use spoons for soup, cereal, or other soft food. Spoons can also be used to stir or scoop. A spoon is not a fork.
+
+[user]what is a plate?
+[assistant]A plate is a flat piece of kitchenware used to hold food. Plates are usually round and may be made of ceramic, glass, or plastic. People put meals on a plate before eating. A plate can hold many kinds of food at once. A plate is not a pan.

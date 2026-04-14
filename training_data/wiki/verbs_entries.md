@@ -1,12 +1,5 @@
 # Verbs Entries
 
-<!--
-Likely high-frequency verbs to review for coverage later:
-eat, drink, sleep, open, close, cut, cook, clean,
-buy, sell, pay, count, draw, sing, dance, kick, push, pull,
-ask, answer, try, stop, start, turn, put, get, come,
-go, see, look, hear, say, tell, need, want, like, love
--->
 
 [user]what does it mean to give?
 [assistant]To give means to let another person have something from you. You can give a gift, a toy, or a helping hand. When you give, something goes from you to someone else. Giving is often a kind and friendly action. To give is the opposite of to take.
@@ -238,3 +231,78 @@ go, see, look, hear, say, tell, need, want, like, love
 
 [user]what does it mean to stare?
 [assistant]To stare means to look at something for a long time without looking away. People may stare when they are surprised, confused, or very curious. Staring is stronger than an ordinary look. A stare can make another person feel uncomfortable. To stare is not the same as to glance.
+
+[user]what does it mean to eat?
+[assistant]To eat means to put food in the mouth, chew it, and swallow it. People and animals eat to get energy and to stay alive. Eating happens at meals and at snack time. Some food is eaten hot and some is eaten cold. To eat is not the same as to drink.
+
+[user]what does it mean to drink?
+[assistant]To drink means to put a liquid in the mouth and swallow it. People drink water, juice, and milk. Drinking gives the body the water it needs to stay healthy. A person who is thirsty needs to drink. To drink is not the same as to eat.
+
+[user]what does it mean to sleep?
+[assistant]To sleep means to rest the body and mind for many hours with eyes closed. People sleep at night, and some animals sleep during the day. When you sleep, the body rests and gets ready for the next day. Sleep is needed to feel well and have energy. To sleep is not the same as to rest.
+
+[user]what does it mean to come?
+[assistant]To come means to move toward a person or place. When someone calls your name, you can come to them. Coming is moving in the direction of someone or something. To come is the opposite of to go.
+
+[user]what does it mean to go?
+[assistant]To go means to move away from where you are toward another place. People go to school, to the park, or to the shops. Going is moving in the direction of somewhere. To go is the opposite of to come.
+
+[user]what does it mean to put?
+[assistant]To put means to move something to a place and leave it there. You can put a book on a shelf, a cup on a table, or shoes by the door. Putting something somewhere means placing it in a chosen spot. To put is not the same as to take.
+
+[user]what does it mean to get?
+[assistant]To get means to receive something or go and find it. You can get a gift, get an idea, or get help from someone. Getting means something comes to you or you reach it. To get is not the same as to give.
+
+[user]what does it mean to push?
+[assistant]To push means to press against something to move it away from you. You can push a door, a cart, or a button. Pushing moves something forward or away from you. To push is the opposite of to pull.
+
+[user]what does it mean to pull?
+[assistant]To pull means to hold something and draw it toward you. You can pull a drawer, a door handle, or a rope. Pulling moves something closer to you. To pull is the opposite of to push.
+
+[user]what does it mean to try?
+[assistant]To try means to make an effort to do something. People try new things, hard problems, and tasks they have not done before. Trying does not always work the first time, and that is fine. Trying again helps people learn and improve. To try is not the same as to give up.
+
+[user]what does it mean to stop?
+[assistant]To stop means to end a movement or action. A car stops when the driver presses the brakes. A person stops a game when it is over. When someone says stop, it means do not continue. To stop is the opposite of to start.
+
+[user]what does it mean to start?
+[assistant]To start means to begin doing something. People start a game, a task, or a meal at the beginning. Starting is the first step before anything else can happen. To start is the opposite of to stop.
+
+[user]what does it mean to see?
+[assistant]To see means to notice something with your eyes. You can see light, colour, shape, and movement. Seeing happens when light enters your eyes and your brain understands the picture. To see is not the same as to look.
+
+[user]what does it mean to hear?
+[assistant]To hear means to notice sound with your ears. You can hear voices, music, and outdoor sounds. Hearing happens when sound moves through the air and enters your ears. To hear is not the same as to listen.
+
+[user]what does it mean to say?
+[assistant]To say means to speak words aloud. You can say a word, a name, or a sentence. When you say something, others nearby can hear it. Saying is one of the most common ways to share a thought. To say is not the same as to whisper.
+
+[user]what does it mean to tell?
+[assistant]To tell means to share information or a story with someone using words. You can tell a friend what happened or tell an adult that you need help. Telling puts an idea into words for someone else. To tell is not the same as to ask.
+
+[user]what does it mean to sing?
+[assistant]To sing means to make music with the voice. People sing songs at home, at school, and in groups. Singing uses words and a melody together. Singing can be quiet or loud, fast or slow. To sing is not the same as to talk.
+
+[user]what does it mean to cook?
+[assistant]To cook means to use heat to prepare food so it is ready to eat. People cook by boiling, baking, frying, or heating food on a stove. Cooking can change the colour, texture, and taste of food. Cooked food is often safer and easier to eat. To cook is not the same as to eat.
+
+[user]what does it mean to clean?
+[assistant]To clean means to remove dirt, dust, or mess from something. People clean floors, dishes, clothes, and hands. Cleaning makes things tidy and healthy. Cleaning often uses water, soap, or a cloth. To clean is not the same as to break.
+
+[user]what does it mean to count?
+[assistant]To count means to say numbers in order or to find out how many things there are. Children count fingers, blocks, and steps. Counting starts at one and goes up one at a time. Counting helps people know how many of something there are. To count is not the same as to add.
+
+[user]what does it mean to love?
+[assistant]To love means to care very deeply for someone or something. People love their family, friends, and pets. Love is a strong, warm feeling that makes a person want to be kind and close. To love something very much can also mean to enjoy it a great deal. To love is not the same as to like.
+
+[user]what does it mean to glance?
+[assistant]To glance means to look at something very quickly and then look away. A glance is fast and brief. People glance at a clock to check the time or glance at the door to see who came in. A glance is not a long careful look. To glance is not the same as to stare.
+
+[user]what does it mean to ignore?
+[assistant]To ignore means to choose not to pay attention to something or someone. A person who ignores a question does not answer it. Ignoring something means it does not affect what you do. People sometimes ignore distractions to stay focused on work. To ignore is not the same as to notice.
+
+[user]what does it mean to give up?
+[assistant]To give up means to stop trying to do something before it is done. A person gives up when they feel it is too hard or not possible. Giving up ends an attempt. It is often better to keep trying than to give up too soon. To give up is not the same as to try.
+
+[user]what does it mean to destroy?
+[assistant]To destroy means to break or damage something so badly that it cannot be used again. A fire can destroy a building, and a big wave can destroy a sandcastle. When something is destroyed, it is gone or badly ruined. To destroy is a strong action that is hard to undo. To destroy is the opposite of to build.

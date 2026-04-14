@@ -26,3 +26,15 @@
 
 [user]what does it mean to slide?
 [assistant]To slide means to move smoothly along a surface without rolling. A box may slide across the floor, and a child may slide down a slide. Sliding is a different kind of movement from rolling. To slide is not the same as to roll.
+
+[user]what is a lever?
+[assistant]A lever is a bar that rests on a fixed point and helps lift or move things. A seesaw is one example of a lever. Pressing down on one end of a lever can lift something heavy on the other end. A lever is a kind of simple machine. A lever is not the same as a pulley.
+
+[user]what is a wedge?
+[assistant]A wedge is a piece of material that is wide on one end and thin on the other. A wedge is pushed into something to split or hold it apart. An axe head is one kind of wedge. A wedge is a kind of simple machine. A wedge is not the same as a ramp.
+
+[user]what is a screw?
+[assistant]A screw is a simple machine that works like a ramp wrapped in a spiral around a rod. Turning a screw makes it move forward or backward and can hold materials together tightly. Screws are found in furniture, toys, and many tools. A screw is not the same as a nail.
+
+[user]what is a handle?
+[assistant]A handle is a part of a tool or object that people hold to use it or carry it. A bucket, a pot, a broom, and a door all have handles. A handle helps people grip and control a tool safely. A handle is not the same as a wheel.

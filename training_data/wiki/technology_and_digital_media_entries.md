@@ -29,3 +29,15 @@
 
 [user]what does tap mean?
 [assistant]Tap means touch a screen quickly with a finger. A child may tap an app, a picture, or a button on a device. Tapping tells the device what to open or do. Tap is one of the simplest screen actions. Tap is not swipe.
+
+[user]what is a TV?
+[assistant]A TV is a large screen device used for watching shows, films, and news. A TV is often placed in a room and watched by a group of people. People use a remote or buttons to change what is playing. A TV shows video and sound together. A TV is not a computer.
+
+[user]what is a keyboard?
+[assistant]A keyboard is a set of keys that people press to type letters, numbers, and symbols. People use keyboards with computers to write, search, and give commands. Each key makes a different character or action. Some keyboards are attached to computers and some are separate. A keyboard is not a screen.
+
+[user]what is a photo?
+[assistant]A photo is one still picture taken by a camera or phone. A photo captures one moment in time and does not move or change. People take photos to remember people, places, and special moments. Photos can be shared on screens or printed on paper. A photo is not a video.
+
+[user]what is a username?
+[assistant]A username is a name a person chooses to use on an app, game, or website. A username helps a device or other people know who is using it. Some usernames are real names and some are made-up names. A username is often used with a password to log in. A username is not a password.

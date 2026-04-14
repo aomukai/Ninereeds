@@ -4,7 +4,7 @@
 [assistant]A clam is a water animal with two hard shells. A clam can open and close its shell to protect its soft body. Many clams live in sand or mud under shallow water. Clams feed by taking tiny bits of food from the water. A clam is not a crab.
 
 [user]what is a coral?
-[assistant]Coral is a small sea animal that lives with many others in a group. Coral animals build hard homes that join together and grow into coral reefs. Many fish and other sea animals hide or feed near coral. Coral grows best in warm shallow sea water. Coral is not a rock.
+[assistant]Coral is a small sea animal that lives with many others in a group. Coral animals build hard homes that join together and grow into coral reefs. Many fish and other sea animals hide or feed near coral. Coral grows best in warm shallow sea water. Coral is not a plant.
 
 [user]what is a crab?
 [assistant]A crab is a water animal with a hard shell and claws. Crabs often walk sideways on their legs. Many crabs live near the sea, on the shore, or in shallow water. Crabs eat small animals, plants, or bits of food they find. A crab is not a fish.

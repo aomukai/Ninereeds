@@ -92,16 +92,21 @@ Current workflow:
 Current corpus snapshot:
 
 * `88` backlog categories total
-* `70` `COVERED`
-* `18` `PARTIAL`
+* `88` `COVERED`
+* `0` `PARTIAL`
 * `0` `MISSING`
 
-Current task:
-Next clean authoring targets:
+Contrast integrity pass completed:
 
-* move from missing-category fill to corpus-wide quality and balance work
-* keep concept ownership strict while reviewing overlap across the now-complete set
-* use the full category coverage to identify which partial files need the highest-value expansion next
+* `3` source-level contrast fixes (coral, soil, husband entries — replaced cross-category "not a rock" / "not a bachelor" contrasts with within-category ones)
+* `~50` new entries added across `~20` files to resolve dangling contrasts
+* All identified dangling contrasts from the initial scan are now resolved
+
+Current task:
+
+* Tier classification review of CORPUS_STATUS (trunk / branch / leaf)
+* Trunk file quality pass — logic, verbs, STEM, time, space, math, body_parts
+* Root gap expansion — extend `missing_curriculum_terms.md` anchors
 
 Goal:
 

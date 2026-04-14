@@ -24,9 +24,9 @@ These files are in good shape for the current manual-cleanup pass.
 | File | Notes |
 |---|---|
 | abstract_operators_entries.md | Entry count: 4. Reduced to actual abstract/meta anchors: `category`, `feeling`, `material`, `size` |
-| animals_birds_entries.md | Entry count: 13. Lowered register; simpler distinctions, less bird-book language |
-| animals_fish_entries.md | Entry count: 10. Renamed from `animals_fish_sea_entries.md`; focused on water animals only |
-| animals_insects_arthropods_entries.md | Entry count: 13. Reordered with `insect` and `arthropod` first; contrasts cleaned |
+| animals_birds_entries.md | Entry count: 14. Added `raven`; fixes dangling contrast in crow entry |
+| animals_fish_entries.md | Entry count: 10. Fixed cross-category contrast: coral now "not a plant" instead of "not a rock" |
+| animals_insects_arthropods_entries.md | Entry count: 14. Added `worm`; fixes dangling contrast in arthropod entry |
 | animals_reptiles_amphibians_entries.md | Entry count: 9. Added `reptile`, `amphibian`, `toad`; simplified throughout |
 | agreement_and_disagreement_entries.md | Entry count: 8. New response-and-alignment category; anchors `agreement`, `disagreement`, `yes`, `no`, `I agree`, `I disagree`, `me too`, `not me` |
 | accidents_and_mistakes_entries.md | Entry count: 9. New unintended-problem category; anchors `accident`, `mistake`, `oops`, `by mistake`, `I didn't mean to`, `spill`, `bump`, `fall down`, `it was an accident` |
@@ -36,16 +36,16 @@ These files are in good shape for the current manual-cleanup pass.
 | body_states_and_internal_cues_entries.md | Entry count: 10. New immediate-body-signal category; anchors `body signal`, `dizzy`, `itchy`, `sore`, `shiver`, `sweat`, `breathe fast`, `heart beats fast`, `need the bathroom`, `tummy hurts` |
 | boundaries_and_consent_entries.md | Entry count: 8. New personal-limits category; anchors `boundary`, `personal space`, `stop`, `not okay`, `my body`, `I don't want to`, `consent`, `you may not` |
 | categories_and_grouping_entries.md | Entry count: 10. New classification-language category; anchors `category`, `types of`, `belongs to`, `does not belong`, `sort`, `group`, `set`, `in the same group`, `classify`, `which one fits` |
-| chores_and_home_responsibilities_entries.md | Entry count: 11. New home-task category; anchors `chore`, `responsibility`, `clean up`, `put something away`, `make the bed`, `set the table`, `sweep the floor`, `water plants`, `feed a pet`, `take out the trash`, `tidy up` |
-| clothing_and_apparel_entries.md | Entry count: 14. Expanded category; now anchors `clothing`, `coat`, `jacket`, `shirt`, `hat`, `glove`, `mitten`, `pants`, `skirt`, `dress`, `sock`, `shoe`, `button`, `zipper` |
-| civic_responsibility_and_community_rules_entries.md | Entry count: 9. New public-rules category; anchors `responsibility`, `authority`, `community rules`, `follow the rules`, `what's allowed`, `citizen`, `vote`, `classroom jobs`, `right` |
-| communication_acts_and_language_entries.md | Entry count: 10. New conversation-mechanics category; anchors `communication`, `ask`, `answer`, `whisper`, `shout`, `explain`, `promise`, `what does that mean`, `can you say it again`, `I meant` |
-| community_places_and_services_entries.md | Entry count: 12. New town-services category; anchors `community place`, `service`, `library`, `hospital`, `grocery store`, `fire station`, `police station`, `post office`, `museum`, `restaurant`, `bakery`, `bus stop` |
+| chores_and_home_responsibilities_entries.md | Entry count: 15. Added `mop the floor`, `wash the dishes`, `do the laundry`, `vacuum`; fixes dangling contrast in sweep entry |
+| clothing_and_apparel_entries.md | Entry count: 19. Added `scarf`, `boots`, `belt`, `collar`, `sleeve` |
+| civic_responsibility_and_community_rules_entries.md | Entry count: 10. Added `privilege`; fixes dangling contrast in right entry |
+| communication_acts_and_language_entries.md | Entry count: 11. Added `complaint`; fixes dangling contrast in I like how you entry |
+| community_places_and_services_entries.md | Entry count: 15. Added `bank`, `pharmacy`, `clinic` |
 | conflict_resolution_and_relationship_repair_entries.md | Entry count: 7. New social-repair category; anchors `conflict resolution`, `compromise`, `forgive`, `apologize`, `let's try again`, `that's okay`, `how can we fix this` |
-| construction_and_material_transformations_entries.md | Entry count: 9. New maker-change category; anchors `construction`, `repair`, `glue something`, `fold something`, `tear something`, `flatten something`, `mold something`, `shred something`, `crush something` |
+| construction_and_material_transformations_entries.md | Entry count: 13. Added `assemble something`, `wrap something`, `stack`, `tie` |
 | collections_and_collecting_entries.md | Entry count: 10. New collecting-practice category; anchors `collection`, `sticker`, `card`, `series`, `organize`, `trade`, `duplicate`, `complete`, `album`, `swap` |
 | containers_and_capacity_entries.md | Entry count: 11. New container-usage category; anchors `container`, `bag`, `jar`, `bottle`, `basket`, `pocket`, `drawer`, `fit`, `spill`, `overflow`, `put it in` |
-| cooking_and_food_preparation_entries.md | Entry count: 12. New cooking-process category; anchors `cooking`, `food preparation`, `recipe`, `ingredient`, `chop food`, `peel food`, `stir food`, `whisk`, `bake`, `simmer`, `season food`, `knead dough` |
+| cooking_and_food_preparation_entries.md | Entry count: 17. Added `boil`, `pour`, `mix`, `fry`, `spread`; fixes dangling contrast in bake entry |
 | classroom_objects_and_school_tools_entries.md | Entry count: 9. New classroom-item category; anchors `school tool`, `ruler`, `eraser`, `glue`, `scissors`, `marker`, `whiteboard`, `glue stick`, `sharpener` |
 | daily_routines_and_self_care_entries.md | Entry count: 11. New routine category; anchors `routine`, `wake up`, `get ready`, `get dressed`, `wash your hands`, `eat breakfast`, `go to school`, `pack a backpack`, `line up`, `go to bed`, `pajamas` |
 | data_charts_and_graphs_entries.md | Entry count: 11. New classroom-data category; anchors `data`, `chart`, `graph`, `tally`, `tally mark`, `survey`, `result`, `most`, `least`, `bar graph`, `picture graph` |
@@ -59,35 +59,35 @@ These files are in good shape for the current manual-cleanup pass.
 | food_groups_and_nutrition_entries.md | Entry count: 9. New food-category layer; anchors `food group`, `nutrition`, `grain`, `protein food`, `dairy`, `vitamin`, `healthy food`, `balanced meal`, `junk food` |
 | friends_and_peer_interactions_entries.md | Entry count: 9. New peer-social category; anchors `friendship`, `classmate`, `teammate`, `play together`, `invite`, `argue`, `make up`, `playdate`, `be my friend` |
 | future_planning_and_goals_entries.md | Entry count: 9. New long-horizon future category; anchors `plan`, `dream for the future`, `when I'm older`, `want to be`, `someday I will`, `future goal`, `work toward`, `prepare for`, `hope to` |
-| growth_and_life_stages_human_entries.md | Entry count: 9. New human-development category; anchors `life stage`, `baby`, `toddler`, `child`, `teenager`, `adult`, `grown-up`, `grow up`, `when I was little` |
-| garden_and_planting_basics_entries.md | Entry count: 10. New gardening-practice category; anchors `gardening`, `soil`, `compost`, `pot`, `garden bed`, `plant a seed`, `root`, `sprout`, `weed`, `give it water and sun` |
+| growth_and_life_stages_human_entries.md | Entry count: 12. Added `elderly`, `milestone`, `lifetime` |
+| garden_and_planting_basics_entries.md | Entry count: 10. Fixed cross-category contrast: soil now "not sand" instead of "not a rock" |
 | greetings_and_social_salutations_entries.md | Entry count: 9. New conversation-opening category; anchors `greeting`, `hello`, `hi`, `good morning`, `good night`, `goodbye`, `see you later`, `nice to meet you`, `welcome` |
 | group_roles_and_participation_entries.md | Entry count: 11. New role-in-group category; anchors `group role`, `leader`, `follower`, `helper`, `partner`, `team member`, `audience`, `volunteer`, `captain`, `timekeeper`, `whose turn is it` |
-| health_and_wellness_entries.md | Entry count: 12. New wellness category; anchors `health`, `wellness`, `fever`, `cough`, `sore throat`, `headache`, `stomachache`, `cut`, `bruise`, `bandage`, `medicine`, `germ` |
+| health_and_wellness_entries.md | Entry count: 17. Added `sneeze`, `runny nose`, `rash`, `allergy`, `checkup` |
 | hobbies_and_interests_entries.md | Entry count: 8. New free-time preference category; anchors `hobby`, `interest`, `favorite thing to do`, `free time`, `collect`, `reading for fun`, `music as a hobby`, `building as a hobby` |
 | holidays_and_celebrations_entries.md | Entry count: 8. New special-day category; anchors `holiday`, `celebration`, `party`, `gift`, `candle`, `special day`, `tradition`, `present` |
 | humor_and_figurative_language_entries.md | Entry count: 8. New nonliteral-language category; anchors `joke`, `tease`, `sarcasm`, `idiom`, `exaggeration`, `pun`, `riddle`, `just kidding` |
 | home_objects_entries_part1.md | Entry count: 7. Clean enough for current pass; migrated `book` to school category |
 | home_objects_entries_part2.md | Entry count: 5. Cleaned and reordered with `furniture` as anchor; clothing removed |
 | home_objects_entries_part3.md | Entry count: 6. Cleaned; `paper` migrated to school category |
-| imagination_and_pretend_play_entries.md | Entry count: 9. New pretend-play category; anchors `imagination`, `pretend`, `pretend play`, `make-believe`, `dress up`, `role play`, `imaginary friend`, `symbolic play`, `game of pretend` |
+| imagination_and_pretend_play_entries.md | Entry count: 13. Added `adventure`, `magic`, `superhero`, `invent a game` |
 | inclusion_bullying_and_kindness_entries.md | Entry count: 10. New anti-harm social category; anchors `include`, `exclude`, `bullying`, `stand up for someone`, `respect`, `compassion`, `leave them out`, `that's not kind`, `bystander`, `upstander` |
 | intentions_and_plans_in_action_entries.md | Entry count: 9. New immediate-planning category; anchors `intention`, `I'm going to`, `I plan to`, `next I will`, `I'm about to`, `let's`, `shall we`, `I decided to`, `I changed my mind` |
 | learning_memory_and_metacognition_entries.md | Entry count: 9. New internal-learning category; anchors `learn`, `remember`, `forget`, `practice`, `try again`, `figure out`, `I don't understand`, `I need to practice`, `I forgot` |
 | logic_entries.md | Entry count: 60. Merged former `logic_core_entries.md` into this file; now the single canonical logic file |
-| machines_and_simple_mechanisms_entries.md | Entry count: 9. New mechanism category; anchors `machine`, `simple machine`, `ramp`, `wheel`, `axle`, `gear`, `pulley`, `roll`, `slide` |
+| machines_and_simple_mechanisms_entries.md | Entry count: 13. Added `lever`, `wedge`, `screw`, `handle`; now covers all 6 classic simple machines |
 | meals_and_mealtime_talk_entries.md | Entry count: 9. New routine-and-talk category; anchors `meal`, `breakfast`, `lunch`, `dinner`, `snack`, `hungry`, `full`, `pass something`, `all done` |
-| money_trade_and_shopping_entries.md | Entry count: 19. Expanded category; now anchors `money`, `coin`, `dollar`, `penny`, `nickel`, `dime`, `quarter`, `change`, `allowance`, `store`, `customer`, `shopkeeper`, `buy`, `sell`, `pay`, `cost`, `price`, `save`, `spend` |
+| money_trade_and_shopping_entries.md | Entry count: 22. Added `trade`, `market`, `receipt` |
 | musical_instruments_entries.md | Entry count: 13. New school-music category; anchors `musical instrument`, `guitar`, `piano`, `drum`, `violin`, `flute`, `trumpet`, `recorder`, `xylophone`, `string instrument`, `wind instrument`, `percussion`, `play an instrument` |
-| natural_life_cycles_and_processes_entries.md | Entry count: 10. New natural-process category; anchors `life cycle`, `plant growth`, `hatching`, `metamorphosis`, `pollination`, `hibernation`, `decomposition`, `water cycle`, `day and night pattern`, `season change` |
-| numbers_beyond_10_and_large_number_talk_entries.md | Entry count: 9. New extended-number category; anchors `eleven`, `twelve`, `thirteen`, `twenty`, `one hundred`, `one thousand`, `a lot`, `about twenty`, `more than fifty` |
-| opinions_persuasion_and_simple_debate_entries.md | Entry count: 10. New opinion-register category; anchors `opinion`, `I think`, `in my opinion`, `agree`, `disagree`, `persuasion`, `convince`, `reason in an argument`, `evidence`, `debate` |
+| natural_life_cycles_and_processes_entries.md | Entry count: 15. Added `migration`, `food chain`, `birth`, `predator`, `prey` |
+| numbers_beyond_10_and_large_number_talk_entries.md | Entry count: 23. Added teens `fourteen`–`nineteen`, tens `thirty`–`ninety`, and `one million`; now covers the full number range from 11 to 1,000,000 |
+| opinions_persuasion_and_simple_debate_entries.md | Entry count: 14. Added `point of view`, `see both sides`, `change your mind`, `support an idea` |
 | ownership_and_sharing_entries.md | Entry count: 8. New social-ownership category; anchors `ownership`, `mine`, `yours`, `borrow`, `return`, `sharing`, `can I use that`, `that's mine` |
 | online_safety_and_privacy_entries.md | Entry count: 10. New internet-safety category; anchors `private`, `public`, `password`, `personal information`, `stranger online`, `report`, `block`, `don't share that`, `screen time`, `ask a grown-up` |
 | personal_identity_and_self_description_entries.md | Entry count: 8. New self-introduction category; anchors `identity`, `name`, `age`, `birthday`, `grade`, `I am`, `I live in`, `about me facts` |
 | perspective_taking_and_theory_of_mind_entries.md | Entry count: 8. New other-minds category; anchors `perspective`, `believe`, `misunderstand`, `I thought`, `they felt`, `she wanted`, `he didn't know that`, `put yourself in someone else's place` |
 | play_games_and_sports_entries.md | Entry count: 10. New group-play category; anchors `play`, `game`, `sport`, `team`, `score`, `win`, `lose`, `cheat`, `tag`, `hide and seek` |
-| praise_criticism_and_feedback_entries.md | Entry count: 9. New evaluation-language category; anchors `praise`, `criticism`, `feedback`, `well done`, `good job`, `you can do better`, `I like how you`, `encourage`, `what could be different` |
+| praise_criticism_and_feedback_entries.md | Entry count: 10. Added `correction`; fixes dangling contrast in well done entry |
 | safety_rules_and_emergency_awareness_entries.md | Entry count: 10. New safety-and-help category; anchors `safety`, `danger`, `careful`, `emergency`, `trusted adult`, `call for help`, `look both ways`, `helmet`, `seatbelt`, `not safe` |
 | seasonal_activities_entries.md | Entry count: 8. New season-behavior category; anchors `seasonal activities`, `what do people do in spring`, `what do people do in summer`, `what do people do in autumn`, `what do people do in winter`, `puddle jumping`, `picnic`, `harvest` |
 | sleep_and_rest_entries.md | Entry count: 10. New bedtime-and-rest category; anchors `rest`, `sleepy`, `nap`, `blanket`, `pillow`, `dream`, `nightmare`, `time for bed`, `lullaby`, `night light` |
@@ -96,14 +96,14 @@ These files are in good shape for the current manual-cleanup pass.
 | levels_of_intensity_and_gradation_entries.md | Entry count: 9. New degree-word category; anchors `level of intensity`, `a little`, `a bit`, `a lot`, `very`, `really`, `enough`, `too much`, `barely` |
 | movement_and_physical_action_entries.md | Entry count: 8. New bridge category; anchors `movement`, `exercise`, `balance`, `stretch`, `kick`, `bounce`, `spin`, `dance` without duplicating the main verbs file |
 | material_composition_entries.md | Entry count: 9. New material-identity category; anchors `material`, `made of`, `wood`, `metal`, `plastic`, `glass`, `paper`, `fabric`, `rubber` |
-| places_and_landforms_entries.md | Entry count: 40. Reordered for concept ownership; now canonical home for `forest`, `garden`, `meadow`, `orchard`, `hill` |
+| places_and_landforms_entries.md | Entry count: 42. Added `rock`, `apartment`; fixes dangling contrasts in farmhouse and soil entries |
 | plants_and_nature_entries.md | Entry count: 17. Early entries simplified; duplicate place concepts removed |
-| school_life_and_learning_entries.md | Entry count: 16. New category; currently anchors `school`, `classroom`, `lesson`, `homework`, `book`, `paper`, `pencil`, `pen`, `crayon` |
-| safety_signs_and_symbols_entries.md | Entry count: 11. New signs category; anchors `sign`, `symbol`, `stop sign`, `exit sign`, `danger sign`, `caution sign`, `no entry sign`, `pedestrian crossing sign`, `poison symbol`, `first aid symbol`, `slippery floor sign` |
+| school_life_and_learning_entries.md | Entry count: 21. Added `magazine`; fixes dangling contrast in book entry |
+| safety_signs_and_symbols_entries.md | Entry count: 14. Added `recycling symbol`, `speed limit sign`, `school zone sign`; fixes dangling contrast in poison symbol entry |
 | sensory_experiences_entries.md | Entry count: 15. New descriptive-sensory category; anchors `sound`, `loud`, `quiet`, `noisy`, `silent`, `bright`, `dim`, `sticky`, `sweet`, `sour`, `bang`, `squeak`, `roar`, `chirp`, `melody` |
 | secrets_surprises_and_keeping_promises_entries.md | Entry count: 8. New trust-and-hidden-information category; anchors `secret`, `surprise`, `keep a promise`, `break a promise`, `I promised I wouldn't tell`, `surprise party`, `pinky promise`, `unsafe secret` |
 | shadow_and_light_phenomena_entries.md | Entry count: 11. New light-behavior category; anchors `shadow`, `reflection`, `mirror`, `silhouette`, `beam of light`, `shine`, `glow`, `glare`, `transparent`, `opaque`, `blocks the light` |
-| smells_and_tastes_entries.md | Entry count: 11. New smell-and-flavor category; anchors `smell`, `stinky`, `fresh`, `yummy`, `yucky`, `delicious`, `salty`, `bitter`, `spicy`, `it smells like`, `it tastes like` |
+| smells_and_tastes_entries.md | Entry count: 12. Added `bland`; fixes dangling contrast in spicy entry |
 | sibling_relationships_and_dynamics_entries.md | Entry count: 10. New sibling-life category; anchors `sibling`, `older brother`, `younger sister`, `bossing around`, `sharing a room`, `tattletale`, `it's not fair`, `only child`, `twins`, `annoying` |
 | simple_physics_energy_and_power_entries.md | Entry count: 9. New practical-energy category; anchors `energy`, `power`, `electricity`, `battery`, `fuel`, `plug`, `switch`, `flashlight`, `solar power` |
 | space_entries.md | Entry count: 36. Rewritten around spatial relations and simple spatial ideas; shape/geometry teaching stays in `mathematical_concepts_entries.md` |
@@ -111,32 +111,32 @@ These files are in good shape for the current manual-cleanup pass.
 | social_emotional_learning_competencies_entries.md | Entry count: 8. New SEL-framework category; anchors `self-management`, `social awareness`, `empathy`, `self-regulation`, `responsible decision-making`, `impulse control`, `how would you feel if`, `that was a good choice` |
 | states_of_being_and_condition_entries.md | Entry count: 10. New adjective-state category; anchors `condition`, `open`, `closed`, `on`, `off`, `clean`, `dirty`, `broken`, `fixed`, `asleep` |
 | story_roles_and_plot_elements_entries.md | Entry count: 9. New story-content category; anchors `character`, `setting`, `hero`, `villain`, `sidekick`, `conflict in a story`, `climax`, `moral`, `the bad guy` |
-| storytelling_and_narrative_structure_entries.md | Entry count: 11. New narrative-sequencing category; anchors `story`, `beginning`, `middle`, `end`, `first`, `next`, `then`, `before`, `after`, `finally`, `at the end` |
-| technology_and_digital_media_entries.md | Entry count: 10. New everyday-device category; anchors `technology`, `phone`, `tablet`, `computer`, `screen`, `app`, `video`, `message`, `swipe`, `tap` |
+| storytelling_and_narrative_structure_entries.md | Entry count: 16. Added `once upon a time`, `plot`, `narrator`, `suddenly`, `meanwhile` |
+| technology_and_digital_media_entries.md | Entry count: 14. Added `TV`, `keyboard`, `photo`, `username`; fixes dangling contrasts in computer, screen, and video entries |
 | time_entries.md | Entry count: 32. Rewritten into simpler child-facing time language; reduced abstract and philosophical phrasing |
-| tools_and_kitchenware_entries.md | Entry count: 13. Cleaned and clarified; now includes `kitchenware` anchor |
+| tools_and_kitchenware_entries.md | Entry count: 14. Added `plate`; fixes dangling contrast in pan entry |
 | topology_parts_entries.md | Entry count: 8. Reworked into true part-whole entries (`neck of a bottle`, `rim of a cup`, etc.) |
-| verbs_entries.md | Entry count: 77. Duplicate `drive`/`sail` removed; major simplification pass completed |
-| vehicles_transport_entries.md | Entry count: 11. Polished into the current Level 1 voice; now also anchors `transport` |
+| verbs_entries.md | Entry count: 102. Added `glance`, `ignore`, `give up`, `destroy`; fixes dangling contrasts in watch, stare, and try entries |
+| vehicles_transport_entries.md | Entry count: 14. Added `helicopter`, `tricycle`, `sailboat`; fixes dangling contrasts in plane, bicycle, and motorboat entries |
 | waiting_and_patience_entries.md | Entry count: 9. New self-control category; anchors `waiting`, `patience`, `turn`, `not yet`, `a little longer`, `hurry up`, `almost ready`, `wait your turn`, `stand in line` |
-| weather_and_celestial_entries.md | Entry count: 17. Rewritten into simple child-facing voice; `weather` and `wave` added |
+| weather_and_celestial_entries.md | Entry count: 29. Added `planet`, `sunlight`, `smoke`, `climate`; fixes dangling contrasts in star, moonlight, fire, and weather entries |
 | uncertainty_and_guessing_entries.md | Entry count: 8. New hedge-and-possibility category; anchors `uncertainty`, `maybe`, `probably`, `I guess`, `not sure`, `could be`, `might`, `I wonder` |
-| wants_needs_and_preferences_entries.md | Entry count: 9. New self-expression category; anchors `want`, `need`, `preference`, `I want`, `I need`, `I like`, `I dislike`, `favorite`, `prefer` |
+| wants_needs_and_preferences_entries.md | Entry count: 10. Added `wish`; fixes dangling contrast in need entry |
 
 ### Clean earlier / low concern
 These looked solid before the current cleanup sprint and were not major problem files.
 
 | File | Known issues |
 |---|---|
-| animals_mammals_entries.md | Entry count: 22. Strong overall; now includes `human`, `monkey`, `ape`, `chimp` |
-| body_parts_entries.md | Entry count: 20. No current cleanup concerns |
+| animals_mammals_entries.md | Entry count: 25. Added `mammal`, `sheep`, `tiger`; fixes dangling contrasts in bird, goat, and lion entries |
+| body_parts_entries.md | Entry count: 29. Added `palm`, `rib`, `chest`, `cheek`, `kneecap`, `shoulder blade`, `knuckle`, `tooth`, `eyebrow`; fixes all dangling contrasts in hand, backbone, belly, forehead, shinbone, collarbone, fingertip, and jawbone entries |
 | colors_entries.md | Entry count: 20. Color spectrum + light/dark |
-| emotions_entries.md | Entry count: 37. Expanded emotion category; now also includes `frustration`, `confusion`, `nervousness`, `jealousy`, `embarrassment`, and `relief` |
-| foods_fruits_entries.md | Entry count: 21. Includes nuts cluster |
+| emotions_entries.md | Entry count: 40. Added `worry`, `guilt`, `disgust` |
+| foods_fruits_entries.md | Entry count: 24. Added `plantain`, `lime`, `melon`; fixes dangling contrasts in banana, lemon, and pineapple entries |
 | home_rooms_entries.md | Entry count: 6. `room` moved to top as anchor |
 | mathematical_concepts_entries.md | Entry count: 28. Number/shape/operation concepts + 1-10 word-to-symbol bridge + plus/minus/equals |
-| measurement_and_comparison_entries.md | Entry count: 14. New measurement category; anchors `measurement`, `comparison`, `bigger`, `smaller`, `taller`, `shorter`, `heavier`, `lighter`, `length`, `height`, `weight`, `capacity`, `distance`, `estimate` |
-| people_roles_entries.md | Entry count: 14. Family and social roles |
+| measurement_and_comparison_entries.md | Entry count: 18. Added `temperature`, `speed`, `wider`, `narrower` |
+| people_roles_entries.md | Entry count: 15. Added `enemy`; fixed husband contrast (bachelor→boyfriend); fixes dangling contrast in friend entry |
 | professions_entries.md | Entry count: 23. Strong overall |
 
 ### Still worth a future pass
@@ -144,7 +144,7 @@ These are not blockers, but they may still want style cleanup, dependency review
 
 | File | Notes |
 |---|---|
-| foods_vegetables_entries.md | Entry count: 13. Not touched in the current cleanup sprint |
+| foods_vegetables_entries.md | Entry count: 16. Added `parsnip`, `kale`, `sweet potato`; fixes dangling contrasts in carrot, spinach, and potato entries |
 | mathematical_problems_entries.md | Entry count: 45. Still likely wants prose simplification pass |
 | STEM_entries.md | Entry count: 51. May still overlap with weather/light/ice concepts and could use later ownership review |
 | logic_entries.md | Entry count: 60. May still overlap with time concepts (`past`, `present`, `future`) |

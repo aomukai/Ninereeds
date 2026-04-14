@@ -56,3 +56,12 @@
 
 [user]what does it mean to spend?
 [assistant]To spend means to use money to buy something. People spend money on food, clothes, books, and many other things. After you spend money, you have less of it left. Spending happens when you pay for something. To spend is not the same as to save.
+
+[user]what is trade?
+[assistant]Trade is giving one thing and getting something else in return. People may trade a toy for a book or trade time and skill for money. Trade can happen between people, shops, and even countries. Trade is not the same as a gift.
+
+[user]what is a market?
+[assistant]A market is a place where many sellers bring things to sell or trade. People go to a market to buy food, clothing, crafts, or other goods. A market may be outdoors or inside a building. A market is not the same as a single store.
+
+[user]what is a receipt?
+[assistant]A receipt is a piece of paper that shows what was bought and how much was paid. A receipt is given after a purchase is made. People keep receipts to remember what they spent or to return something they bought. A receipt is not the same as money.

@@ -32,3 +32,15 @@
 
 [user]what does it mean to tidy up?
 [assistant]To tidy up means to make a space look neat and orderly. A child may tidy up a bedroom, a play area, or a table after work or play. Tidying up helps people move and work more easily in the space. To tidy up is not the same as to leave things everywhere.
+
+[user]what does it mean to mop the floor?
+[assistant]To mop the floor means to clean it with a damp mop to remove dirt and wet spots. People mop after sweeping to get the floor fully clean. Mopping uses water and sometimes soap. To mop the floor is not the same as to sweep it.
+
+[user]what does it mean to wash the dishes?
+[assistant]To wash the dishes means to clean plates, cups, bowls, and other dishes with soap and water. People wash dishes after a meal to keep them clean and ready for next time. Washing dishes is a common chore done at home. To wash the dishes is not the same as to set the table.
+
+[user]what does it mean to do the laundry?
+[assistant]To do the laundry means to wash clothes, towels, or bed sheets that have become dirty. People may put laundry in a machine or wash it by hand. Doing the laundry keeps clothing fresh and clean. To do the laundry is not the same as to wear clothes.
+
+[user]what does it mean to vacuum?
+[assistant]To vacuum means to use a machine called a vacuum cleaner to pick up dust and dirt from floors and carpets. The machine pulls in small pieces of dirt through a tube. Vacuuming helps keep floors cleaner than sweeping alone. To vacuum is not the same as to mop.

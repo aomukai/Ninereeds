@@ -119,3 +119,9 @@
 
 [user]what is a ruin?
 [assistant]A ruin is what is left of an old building or place after it has broken down. Ruins may be made of broken stone, brick, or wood. Plants may grow over ruins if no one repairs them. Ruins show that a place was used long ago. A ruin is not a house.
+
+[user]what is a rock?
+[assistant]A rock is a hard, solid piece of natural material found in the ground or on the surface. Rocks can be small enough to hold in a hand or very large. Different rocks have different colors, weights, and textures. Rocks are used in buildings, paths, and gardens. A rock is not a mountain.
+
+[user]what is an apartment?
+[assistant]An apartment is a set of rooms inside a larger building where one family or person lives. Many apartments are stacked on top of each other in one building. An apartment may have a living room, bedroom, kitchen, and bathroom. People who live in apartments often share a building entrance. An apartment is not a house.

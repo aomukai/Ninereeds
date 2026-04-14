@@ -1,15 +1,5 @@
 # Weather and Celestial Entries
 
-<!--
-Likely missing concepts to review for coverage later:
-star
-starlight
-sky
-rainbow
-lightning
-fog
-breeze
--->
 
 [user]what is weather?
 [assistant]Weather is what the air and sky are like outside. Weather can be sunny, rainy, windy, cloudy, hot, or cold. Weather changes from day to day and sometimes from hour to hour. People look at the weather to choose clothes, make plans, or stay safe. Weather is not climate.
@@ -61,3 +51,36 @@ breeze
 
 [user]what is a wave?
 [assistant]A wave is a moving rise and fall in water. Wind often makes waves on lakes, rivers, and the sea. Some waves are small and gentle, and some are large and strong. Waves move toward the shore and break when they reach shallow water. A wave is not a river.
+
+[user]what is the sky?
+[assistant]The sky is the wide space above the ground that we see when we look up. During the day the sky looks blue and may hold clouds or the sun. At night the sky turns dark and shows stars and the moon. Birds and planes move through the sky. The sky is not space.
+
+[user]what is a star?
+[assistant]A star is a bright point of light seen in the night sky. Stars are huge balls of burning gas very far away from Earth. The sun is also a star, but it is much closer than all the others. Stars appear after the sun sets and fade when the sun rises. A star is not a planet.
+
+[user]what is starlight?
+[assistant]Starlight is the light that comes from stars far away in the night sky. Starlight travels for a very long time before it reaches Earth. Many stars together can make the night sky look bright. Starlight is much dimmer than sunlight. Starlight is not moonlight.
+
+[user]what is a rainbow?
+[assistant]A rainbow is a wide curve of colours that appears in the sky. Rainbows form when sunlight passes through raindrops in the air. A rainbow shows colours in stripes: red, orange, yellow, green, blue, and violet. Rainbows often appear when sun and rain happen at the same time. A rainbow is not a cloud.
+
+[user]what is fog?
+[assistant]Fog is a thick, pale mist that sits close to the ground. Fog is made of tiny water drops floating in the air near the surface. Fog makes it hard to see far ahead. Fog often forms in the morning and fades when the sun warms the air. Fog is not a cloud.
+
+[user]what is lightning?
+[assistant]Lightning is a bright flash of light that shoots across the sky during a storm. Lightning is a burst of electricity that moves between clouds or from a cloud to the ground. A flash of lightning is very fast and very bright. Lightning always makes the thunder that follows it. Lightning is not thunder.
+
+[user]what is a breeze?
+[assistant]A breeze is a light and gentle wind. A breeze feels soft and cool on the skin. A breeze moves leaves and hair gently but does not bend trees or blow things over. A breeze is pleasant on a warm day. A breeze is not a storm.
+
+[user]what is a planet?
+[assistant]A planet is a very large round body that travels around a star. Earth is a planet. Other planets in our sky include Mars, Venus, and Jupiter. Planets do not make their own light but may reflect light from the sun. A planet is not a star.
+
+[user]what is sunlight?
+[assistant]Sunlight is the light that comes from the sun. Sunlight warms the earth and helps plants grow. On a clear day, sunlight fills the sky and makes everything bright. Sunlight is much stronger and brighter than moonlight. Sunlight is not moonlight.
+
+[user]what is smoke?
+[assistant]Smoke is a dark or grey cloud of tiny bits that rise into the air when something burns. Smoke comes from fire, and from things like candles, wood, or engines. Smoke can smell strong and is not safe to breathe in large amounts. Smoke rises up into the air and drifts in the wind. Smoke is not fire.
+
+[user]what is climate?
+[assistant]Climate is the usual pattern of weather in a place over a long time. A place with a warm climate is often warm most of the year. A place with a cold climate has cold weather much of the year. Climate is different from weather because weather changes day to day, while climate changes very slowly. Climate is not weather.

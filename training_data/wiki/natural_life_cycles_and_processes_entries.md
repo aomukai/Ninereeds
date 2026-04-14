@@ -29,3 +29,18 @@
 
 [user]what is a season change?
 [assistant]A season change is the shift from one part of the year to another, such as from summer to autumn or winter to spring. Season changes bring differences in weather, light, plants, and animal activity. People notice season changes over many weeks. A season change is not the same as one day changing into night.
+
+[user]what is migration?
+[assistant]Migration is the regular movement of animals from one place to another and back again. Many birds fly south in autumn and return in spring. Some fish swim to different parts of the sea to lay eggs. Migration helps animals find food and better weather. Migration is not the same as hibernation.
+
+[user]what is a food chain?
+[assistant]A food chain shows the order in which living things eat each other. A plant is eaten by a small animal, and that small animal may be eaten by a larger animal. Each link in a food chain depends on the one before it. A food chain is not the same as a life cycle.
+
+[user]what is birth?
+[assistant]Birth is the moment when a new living thing comes into the world. A baby animal or person is born at the beginning of its life. Birth is the start of the life stages that follow. Birth is not the same as hatching.
+
+[user]what is a predator?
+[assistant]A predator is an animal that hunts and eats other animals for food. A lion, an eagle, and a shark are predators. Predators help keep animal populations balanced in nature. A predator is not the same as prey.
+
+[user]what is prey?
+[assistant]Prey is an animal that is hunted and eaten by a predator. A rabbit, a mouse, and a small fish can be prey. Being prey is part of how animals find food and survive in nature. Prey is not the same as a predator.

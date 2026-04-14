@@ -59,3 +59,30 @@
 
 [user]what is a shinbone?
 [assistant]A shinbone is the hard bone at the front of the lower leg. It runs from below the knee toward the ankle. The shinbone helps hold the body up. Bumping the shinbone can hurt a lot. A shinbone is not a kneecap.
+
+[user]what is a palm?
+[assistant]A palm is the flat inside part of a hand. When a hand is open, the palm faces up. People use their palm for catching, holding, and feeling things. The fingers are attached to the palm. A palm is not the back of the hand.
+
+[user]what is a rib?
+[assistant]A rib is one of the curved bones in the chest. Ribs are connected to the backbone and curve around the front of the body. Ribs help protect the heart and lungs inside the chest. People have many ribs on each side. A rib is not a backbone.
+
+[user]what is a chest?
+[assistant]A chest is the front of the body between the shoulders and the belly. The chest holds the heart and lungs inside. Ribs make a strong cage around the chest. The chest moves in and out with each breath. A chest is not a belly.
+
+[user]what is a cheek?
+[assistant]A cheek is the soft part of the face on each side, between the eye and the mouth. People may blush when cheeks turn red. A cheek can puff out with air. Cheeks are part of the face. A cheek is not a forehead.
+
+[user]what is a kneecap?
+[assistant]A kneecap is the small round bone at the front of the knee. It helps protect the knee joint and makes it easier to straighten the leg. People have one kneecap on each leg. A kneecap can be felt under the skin of the knee. A kneecap is not a shinbone.
+
+[user]what is a shoulder blade?
+[assistant]A shoulder blade is the large flat bone at the back of each shoulder. Shoulder blades help the arm and shoulder move in many directions. People have two shoulder blades, one behind each shoulder. A shoulder blade is part of the back. A shoulder blade is not a collarbone.
+
+[user]what is a knuckle?
+[assistant]A knuckle is a joint in a finger where the finger bends. Knuckles are the bumpy parts on the back of the fingers. People use knuckles to knock on a door. A hand has several knuckles across the fingers. A knuckle is not a fingertip.
+
+[user]what is a tooth?
+[assistant]A tooth is one hard piece in the mouth used for biting and chewing. People have baby teeth when young and then grow adult teeth. Teeth help break food into smaller pieces. Brushing keeps teeth clean and healthy. A tooth is not a jawbone.
+
+[user]what is an eyebrow?
+[assistant]An eyebrow is the line of short hairs above an eye. Eyebrows help block sweat and light from falling into the eyes. People move their eyebrows to show surprise, worry, or thinking. Each person has two eyebrows, one above each eye. An eyebrow is not an eyelid.

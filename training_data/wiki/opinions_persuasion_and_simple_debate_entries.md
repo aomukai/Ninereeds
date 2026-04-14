@@ -29,3 +29,15 @@
 
 [user]what is a debate?
 [assistant]A debate is a talk where people share different opinions and give reasons for them. In a debate, people listen, answer, and try to explain their side clearly. A debate can happen in class, at home, or during a group choice. A debate is not the same as a fight.
+
+[user]what is a point of view?
+[assistant]A point of view is the way a person sees or thinks about something based on their own ideas and experiences. Two people can look at the same thing and have different points of view. Sharing a point of view is one part of a debate or discussion. A point of view is not the same as a fact.
+
+[user]what does it mean to see both sides?
+[assistant]To see both sides means to think about the reasons for and against an idea. A person who sees both sides does not only think about their own view. Seeing both sides helps people understand a debate more fully. To see both sides is not the same as agreeing with everything.
+
+[user]what does it mean to change your mind?
+[assistant]To change your mind means to decide on something different from what you thought before. A person may change their mind after hearing a good reason or new information. Changing your mind after listening is a sign of careful thinking. To change your mind is not the same as giving up.
+
+[user]what does it mean to support an idea?
+[assistant]To support an idea means to give reasons or examples that help show why the idea is good or true. People support ideas in a debate by using facts, stories, or evidence. Supporting an idea helps others understand your point of view. To support an idea is not the same as proving it.

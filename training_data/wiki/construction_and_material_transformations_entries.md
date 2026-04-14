@@ -26,3 +26,15 @@
 
 [user]what does it mean to crush something?
 [assistant]To crush something means to press it very hard so it breaks, bends, or loses its shape. People may crush a can, a leaf, or dry crumbs into smaller bits. Crushing changes a thing by strong pressure. To crush something is not the same as to repair it.
+
+[user]what does it mean to assemble something?
+[assistant]To assemble something means to put all its parts together in the right order. People assemble a toy, a piece of furniture, or a model from separate pieces. Assembling turns many parts into one finished thing. To assemble something is not the same as to take it apart.
+
+[user]what does it mean to wrap something?
+[assistant]To wrap something means to cover it with paper, cloth, or another material. People wrap a gift, a sandwich, or an object to protect or cover it. Wrapping keeps what is inside safe or hidden. To wrap something is not the same as to open it.
+
+[user]what does it mean to stack?
+[assistant]To stack means to put things one on top of another in a neat pile. Children stack blocks, books, or cups to build a tower. Stacking takes care and balance to keep the pile standing. To stack is not the same as to scatter.
+
+[user]what does it mean to tie?
+[assistant]To tie means to fasten two ends of string, rope, or cloth together by knotting. People tie shoes, bags, and bundles. Tying holds things in place or keeps them together. To tie is not the same as to untie.

@@ -26,3 +26,6 @@
 
 [user]what does what could be different mean?
 [assistant]What could be different is a question that asks how something could improve or change. Teachers and teammates may ask this during reflection. The question invites helpful feedback instead of blame. What could be different is not praise.
+
+[user]what is a correction?
+[assistant]A correction is a change made to fix a mistake. A teacher may make a correction on a paper or tell a student what the right answer is. A correction is meant to help by showing what was wrong and what is better. A correction is useful even when it feels a little uncomfortable to hear. A correction is not the same as praise.

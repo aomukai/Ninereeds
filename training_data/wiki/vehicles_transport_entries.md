@@ -32,3 +32,12 @@
 
 [user]what is a truck?
 [assistant]A truck is a large road vehicle used to carry heavy things. Trucks move food, furniture, building materials, and many other goods. Trucks are usually bigger and stronger than cars. A truck is not a car.
+
+[user]what is a helicopter?
+[assistant]A helicopter is a flying vehicle with rotating blades on top. The blades spin fast and lift the helicopter into the air. A helicopter can hover in one place and fly up, down, forward, or backward. People use helicopters to reach places planes cannot easily land. A helicopter is not a plane.
+
+[user]what is a tricycle?
+[assistant]A tricycle is a vehicle with three wheels, pedals, and a seat. Young children often ride tricycles before learning to ride a bicycle. Three wheels help a tricycle balance without falling over. A tricycle is not a bicycle, which has two wheels.
+
+[user]what is a sailboat?
+[assistant]A sailboat is a boat that moves by catching the wind in its sails. Sails are large pieces of cloth attached to a tall pole called a mast. People steer a sailboat by moving the sail and a part called the rudder. Sailboats do not need an engine when the wind is strong. A sailboat is not a motorboat.
