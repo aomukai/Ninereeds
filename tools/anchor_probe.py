@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parent
 
 @dataclass(frozen=True)
 class AnchorRule:
+    label: str
     prompt: str
     must_contain_any: tuple[str, ...]
     must_not_contain_any: tuple[str, ...] = ()
@@ -22,53 +23,64 @@ class AnchorRule:
 
 ANCHORS: tuple[AnchorRule, ...] = (
     AnchorRule(
-        prompt="The sun is bright and",
+        label="sun gives light/heat",
+        prompt="[user]what does the sun give?\n[assistant]",
         must_contain_any=("hot", "warm", "light", "sky"),
         must_not_contain_any=("animal",),
     ),
     AnchorRule(
-        prompt="A dog is an animal that",
+        label="dog is a ground animal",
+        prompt="[user]what is a dog?\n[assistant]",
         must_contain_any=("runs", "walks", "rests", "ground", "fur", "legs", "tail"),
     ),
     AnchorRule(
-        prompt="Rain falls from",
+        label="rain comes from sky/cloud",
+        prompt="[user]where does rain come from?\n[assistant]",
         must_contain_any=("cloud", "sky"),
     ),
     AnchorRule(
-        prompt="A fish moves through",
+        label="fish moves through water",
+        prompt="[user]where does a fish move?\n[assistant]",
         must_contain_any=("water",),
         must_not_contain_any=("air", "sky"),
     ),
     AnchorRule(
-        prompt="The moon is hot because",
-        must_contain_any=("cool", "night", "pale", "not"),
+        label="[adversarial] moon is not hot",
+        prompt="[user]is the moon hot or cold?\n[assistant]",
+        must_contain_any=("cold", "cool", "night", "pale", "not"),
     ),
     AnchorRule(
-        prompt="A fish flies over",
-        must_contain_any=("water", "not"),
+        label="[adversarial] fish does not fly",
+        prompt="[user]does a fish fly?\n[assistant]",
+        must_contain_any=("water", "not", "swim"),
         must_not_contain_any=("sky",),
     ),
     AnchorRule(
-        prompt="The dog shines in",
-        must_contain_any=("ground", "yard", "house", "path"),
+        label="[adversarial] dog does not shine",
+        prompt="[user]does a dog shine?\n[assistant]",
+        must_contain_any=("not", "ground", "yard", "house", "path"),
         must_not_contain_any=("water", "sky"),
     ),
     AnchorRule(
-        prompt="The river has feathers",
+        label="[adversarial] river has no feathers",
+        prompt="[user]what does a river have?\n[assistant]",
         must_contain_any=("water", "bank", "flow", "river"),
         must_not_contain_any=("feather",),
     ),
     AnchorRule(
-        prompt="The bird has",
+        label="bird has wings/feathers/beak",
+        prompt="[user]what does a bird have?\n[assistant]",
         must_contain_any=("wings", "feathers", "beak"),
     ),
     AnchorRule(
-        prompt="A vehicle is an animal that",
+        label="[adversarial] vehicle is not an animal",
+        prompt="[user]is a vehicle an animal?\n[assistant]",
         must_contain_any=("not", "machine", "moves", "carries", "vehicle"),
         must_not_contain_any=("runs", "eats", "fur", "legs"),
     ),
     AnchorRule(
-        prompt="The hungry bunny hops to the carrot",
+        label="bunny hops to carrot to eat",
+        prompt="[user]why does the bunny hop to the carrot?\n[assistant]",
         must_contain_any=("eat", "eats", "food", "carrot"),
         must_not_contain_any=("sleep", "sleeps"),
     ),
@@ -124,6 +136,7 @@ def run_probe(
             passed += 1
         rows.append(
             {
+                "label": rule.label,
                 "prompt": rule.prompt,
                 "output": out,
                 "pass": ok,
@@ -194,7 +207,7 @@ def main() -> None:
 
     for row in result["results"]:
         status = "PASS" if row["pass"] else "FAIL"
-        lines.append(f"- [{status}] `{row['prompt']}` -> `{row['output'].replace(chr(10), ' ')}`")
+        lines.append(f"- [{status}] `{row['label']}` -> `{row['output'].replace(chr(10), ' ')}`")
         if row["reasons"]:
             lines.append(f"  reasons: {', '.join(row['reasons'])}")
 
