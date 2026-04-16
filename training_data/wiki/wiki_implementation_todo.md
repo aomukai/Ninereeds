@@ -4,7 +4,8 @@ Working implementation queue for the Level 1 wiki.
 
 This file is the practical companion to:
 - `training_data/wiki/wiki_category_backlog.md` — strategic category backlog
-- `training_data/wiki/CORPUS_STATUS.md` — current corpus state
+- `training_data/wiki/01_CORPUS_STATUS.md` — current corpus state
+- `training_data/wiki/level1_finish_and_level2_start_plan.md` — ordered cleanup plan for finishing Level 1 and choosing Level 2 expansions
 - `training_data/phase 1 to 5/rewritten/missing_curriculum_terms.md` — curriculum-side anchor gaps
 
 Use this file for the next concrete writing and review steps.
@@ -19,6 +20,10 @@ The current goal is:
 1. finish partial foundational categories
 2. run a broader quality pass across the now-complete category set
 3. periodically check whether new wiki vocabulary needs earlier anchoring in `phase 1–5`
+
+For the current cleanup order and Level 2 start criteria, use
+`training_data/wiki/level1_finish_and_level2_start_plan.md` as the working
+sequence document.
 
 Recent completed salvage / implementation batch:
 
