@@ -5,9 +5,9 @@ Read these first for current context:
 * `AGENTS.md` — repo-wide rules and constraints
 * `README.md` — project overview and runtime status
 * `docs/bdh_cognitive_os_design.md` — architecture reference
-* `training_data/wiki/01_CORPUS_STATUS.md` — current wiki corpus state
-* `training_data/wiki/wiki_category_backlog.md` — strategic category backlog
-* `training_data/wiki/wiki_implementation_todo.md` — practical next-step queue
+* `training_data/wiki/01_CORPUS_STATUS.md` — wiki history, corpus status, and cleanup notes
+* `training_data/wiki/wiki_category_backlog.md` — strategic backlog and dependency map
+* `training_data/wiki/02_wiki_implementation_todo.md` — active wiki implementation queue
 * `training_data/wiki/level1_finish_and_level2_start_plan.md` — ordered Level 1 cleanup plan and Level 2 expansion guide
 * `training_data/phase 1 to 5/rewritten/missing_curriculum_terms.md` — wiki-to-curriculum anchor gaps
 
@@ -127,5 +127,5 @@ Goal:
 
 * Finish Level 1 cleanly before pushing broader Level 2 growth
 * Keep category ownership strict while preparing the best files for deeper expansion
-* Continue using `wiki_category_backlog.md`, `wiki_implementation_todo.md`, `01_CORPUS_STATUS.md`, and `level1_finish_and_level2_start_plan.md` as the live source of truth
+* Continue using `wiki_category_backlog.md`, `02_wiki_implementation_todo.md`, `01_CORPUS_STATUS.md`, and `level1_finish_and_level2_start_plan.md` as the live source of truth
 * Do another contrast / dependency cleanup pass after the next batch rather than trying to perfect every file immediately

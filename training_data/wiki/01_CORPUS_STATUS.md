@@ -76,11 +76,12 @@ These files are in good shape for the current manual-cleanup pass.
 | learning_memory_and_metacognition_entries.md | Entry count: 9. New internal-learning category; anchors `learn`, `remember`, `forget`, `practice`, `try again`, `figure out`, `I don't understand`, `I need to practice`, `I forgot` |
 | logic_entries.md | Entry count: 60. Merged former `logic_core_entries.md` into this file; now the single canonical logic file |
 | machines_and_simple_mechanisms_entries.md | Entry count: 13. Added `lever`, `wedge`, `screw`, `handle`; now covers all 6 classic simple machines |
+| manners_politeness_and_social_etiquette_entries.md | Entry count: 10. New polite-group-behavior category; anchors `manners`, `politeness`, `please`, `thank you`, `excuse me`, `sorry`, `you're welcome`, `may I`, `raise your hand`, `take turns speaking` |
 | meals_and_mealtime_talk_entries.md | Entry count: 9. New routine-and-talk category; anchors `meal`, `breakfast`, `lunch`, `dinner`, `snack`, `hungry`, `full`, `pass something`, `all done` |
 | money_trade_and_shopping_entries.md | Entry count: 22. Added `trade`, `market`, `receipt` |
 | musical_instruments_entries.md | Entry count: 13. New school-music category; anchors `musical instrument`, `guitar`, `piano`, `drum`, `violin`, `flute`, `trumpet`, `recorder`, `xylophone`, `string instrument`, `wind instrument`, `percussion`, `play an instrument` |
 | natural_life_cycles_and_processes_entries.md | Entry count: 15. Added `migration`, `food chain`, `birth`, `predator`, `prey` |
-| numbers_beyond_10_and_large_number_talk_entries.md | Entry count: 23. Added teens `fourteen`–`nineteen`, tens `thirty`–`ninety`, and `one million`; now covers the full number range from 11 to 1,000,000 |
+
 | opinions_persuasion_and_simple_debate_entries.md | Entry count: 14. Added `point of view`, `see both sides`, `change your mind`, `support an idea` |
 | ownership_and_sharing_entries.md | Entry count: 8. New social-ownership category; anchors `ownership`, `mine`, `yours`, `borrow`, `return`, `sharing`, `can I use that`, `that's mine` |
 | online_safety_and_privacy_entries.md | Entry count: 10. New internet-safety category; anchors `private`, `public`, `password`, `personal information`, `stranger online`, `report`, `block`, `don't share that`, `screen time`, `ask a grown-up` |
@@ -316,8 +317,8 @@ No dangling contrasts currently known. All prior items resolved:
 
 ## Next steps
 
-1. Start the broader quality pass now that the missing-category batch is complete
-2. Review untouched or partially touched files like `foods_vegetables_entries.md`
-3. Run a corpus-wide dependency and contrast pass across the whole wiki
-4. Tighten category balance, ownership, and overlap across the full 88-category set
-5. Use `wiki_implementation_todo.md` as the practical queue for partial-category expansion and recurring anchor-review checks
+1. Use `02_wiki_implementation_todo.md` as the single active wiki queue
+2. Run the Level 1 trunk dependency and ownership pass (`logic`, `STEM`, `time`, `space`, `verbs`, `math`, `body_parts`)
+3. Build a corpus-wide dependency ledger from `wiki_category_backlog.md` and the current files
+4. Fill comprehension-critical gaps before broadening Level 2 expansion
+5. Keep recording completed batches and corpus-state changes in `01_CORPUS_STATUS.md`

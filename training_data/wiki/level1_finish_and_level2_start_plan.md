@@ -4,9 +4,9 @@ Working plan for finishing the Level 1 wiki cleanup pass and choosing safe
 Level 2 expansions.
 
 Use this file together with:
-- `training_data/wiki/01_CORPUS_STATUS.md` — current corpus state and tiering
-- `training_data/wiki/wiki_category_backlog.md` — strategic backlog
-- `training_data/wiki/wiki_implementation_todo.md` — active working queue
+- `training_data/wiki/01_CORPUS_STATUS.md` — wiki history, current corpus state, and tiering
+- `training_data/wiki/wiki_category_backlog.md` — strategic backlog and dependency map
+- `training_data/wiki/02_wiki_implementation_todo.md` — active working queue
 - `training_data/wiki/00_ideas.md` — deferred connective-tissue batch
 - `training_data/phase 1 to 5/rewritten/missing_curriculum_terms.md` — anchor-gap log
 
