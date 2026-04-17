@@ -5,6 +5,7 @@ Read these first for current context:
 * `AGENTS.md` — repo-wide rules and constraints
 * `README.md` — project overview and runtime status
 * `docs/bdh_cognitive_os_design.md` — architecture reference
+* `docs/training_pipeline.md` — canonical sequence for training, audits, story layers, and Mommy Says Machine evaluation
 * `training_data/wiki/01_CORPUS_STATUS.md` — wiki history, corpus status, and cleanup notes
 * `training_data/wiki/wiki_category_backlog.md` — strategic backlog and dependency map
 * `training_data/wiki/02_wiki_implementation_todo.md` — active wiki implementation queue

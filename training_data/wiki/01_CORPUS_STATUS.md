@@ -1,5 +1,8 @@
 # Corpus Status
 
+For the canonical overall training sequence, see `docs/training_pipeline.md`.
+This file is the history-and-status record for wiki corpus work, not the active todo list.
+
 ## What we're building
 
 A Level 1 training corpus for the BDH (Baby Dragon Hatchling) language model.

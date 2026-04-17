@@ -1,5 +1,10 @@
 # Implementation Plan — Connective Tissue Concepts
 
+This file is a deferred design and implementation note for the connective-tissue batch,
+story layers, and later false-belief scaffolding.
+
+For the canonical overall training sequence, see `docs/training_pipeline.md`.
+
 These entries are ready to implement. Do not implement during a quality pass.
 Implement as a dedicated batch when the quality pass is complete.
 

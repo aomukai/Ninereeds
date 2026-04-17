@@ -1,9 +1,13 @@
 # Level 1 Finish and Level 2 Start Plan
 
+For the canonical overall training sequence, see `docs/training_pipeline.md`.
+This file focuses specifically on the Level 1 trunk pass and the gate into Level 2.
+
 Working plan for finishing the Level 1 wiki cleanup pass and choosing safe
 Level 2 expansions.
 
 Use this file together with:
+- `docs/training_pipeline.md` — canonical sequence for training, audits, story layers, and Mommy Says Machine evaluation
 - `training_data/wiki/01_CORPUS_STATUS.md` — wiki history, current corpus state, and tiering
 - `training_data/wiki/wiki_category_backlog.md` — strategic backlog and dependency map
 - `training_data/wiki/02_wiki_implementation_todo.md` — active working queue

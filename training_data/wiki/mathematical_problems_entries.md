@@ -3,8 +3,8 @@
 [user] A girl picked 5 apples and 3 pears. How many pieces of fruit did she pick in total?
 [assistant] 5 + 3 = 8. She picked 8 pieces of fruit. Apples and pears are both fruit, so we join the two groups. 5 plus 3 equals 8.
 
-[user] A boy rode his skateboard for 6 minutes in the morning and 4 minutes in the afternoon. How many minutes did he ride in total?
-[assistant] 6 + 4 = 10. He rode for 10 minutes in total. We join the morning time and the afternoon time. 6 plus 4 equals 10.
+[user] A boy played outside for 6 minutes in the morning and 4 minutes in the afternoon. How many minutes did he play in total?
+[assistant] 6 + 4 = 10. He played for 10 minutes in total. We join the morning time and the afternoon time. 6 plus 4 equals 10.
 
 [user] A person made 2 cookies of one kind and 7 cookies of another kind. How many cookies did they make?
 [assistant] 2 + 7 = 9. They made 9 cookies. We add the two groups together. 2 plus 7 equals 9.
@@ -42,8 +42,8 @@
 [user] A boy spends 15 minutes, 45 minutes, and 30 minutes doing work over three days. How many total minutes did he spend working?
 [assistant] 15 + 45 + 30 = 90. He worked for 90 minutes. We add the parts together. First, 15 plus 45 is 60. Then, we add the remaining 30. 60 plus 30 equals 90.
 
-[user] A person completed 27 trips, 56 trips, 10 trips, and 18 trips. How many trips did they complete altogether?
-[assistant] 27 + 56 + 10 + 18 = 111. They completed 111 trips. We add each part to the total. 27 plus 56 is 83. 83 plus 10 is 93. Finally, 93 plus 18 equals 111.
+[user] A person walked 27 steps, 16 steps, 10 steps, and 18 steps. How many steps did they walk altogether?
+[assistant] 27 + 16 + 10 + 18 = 71. They walked 71 steps. We add each part to the total. 27 plus 16 is 43. 43 plus 10 is 53. Finally, 53 plus 18 equals 71.
 
 [user] A person sent 27 cards on one day and 38 cards on the next day. How many cards did they send in total?
 [assistant] 27 + 38 = 65. They sent 65 cards. We join the two groups. 20 plus 30 is 50. 7 plus 8 is 15. 50 and 15 make 65. The total is the sum of the two parts.
@@ -60,11 +60,11 @@
 [user] A boy read for 53 minutes, then 34 minutes, and finally 29 minutes. How many minutes did he read in total?
 [assistant] 53 + 34 + 29 = 116. He read for 116 minutes. We join each part of the time. 53 plus 34 is 87. Then, we add the remaining 29 minutes to the 87. 87 plus 29 equals 116.
 
-[user] A shop has 110 plants in one room and 225 plants in another room. How many plants are in the shop in all?
-[assistant] 110 + 225 = 335. There are 335 plants in the shop. We join the two groups of plants. 100 plus 200 is 300. 10 plus 25 is 35. Joining 300 and 35 makes 335.
+[user] A shop has 40 plants in one room and 35 plants in another room. How many plants are in the shop in all?
+[assistant] 40 + 35 = 75. There are 75 plants in the shop. We join the two groups of plants. 40 plus 30 is 70. Then we add the last 5. 70 plus 5 equals 75.
 
-[user] A person planned 119 events last year and 197 events this year. How many events did they plan in total?
-[assistant] 119 + 197 = 316. They planned 316 events. We join the two groups. 119 plus 197 equals 316.
+[user] A person read 19 books last year and 27 books this year. How many books did they read in total?
+[assistant] 19 + 27 = 46. They read 46 books. We join the two groups. 19 plus 27 equals 46.
 
 [user] A person collected 548 stones in the first month, 648 stones in the second month, and 444 stones in the third month. How many stones did they collect in all?
 [assistant] 548 + 648 + 444 = 1640. They collected 1640 stones. We add the three groups together to find the whole. 548 plus 648 is 1196. Then, 1196 plus 444 equals 1640.
