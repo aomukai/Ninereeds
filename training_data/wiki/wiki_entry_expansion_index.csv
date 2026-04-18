@@ -308,7 +308,7 @@ colors_entries.md,what is silver?,what is silver?,1,level1_only,no,,
 colors_entries.md,what is clear?,what is clear?,1,level1_only,no,,
 colors_entries.md,what is opaque?,what is opaque?,1,level1_only,no,,
 colors_entries.md,what is a rainbow?,rainbow,1,level1_only,no,,
-colors_entries.md,what is the spectrum?,what is the spectrum?,1,level1_only,no,,
+colors_entries.md,what is the spectrum?,spectrum,1,level1_only,no,,
 communication_acts_and_language_entries.md,what is communication?,what is communication?,1,level1_only,no,,Entry-level creation-pass review 2026-04-18: kept at Level 1 as umbrella anchor.
 communication_acts_and_language_entries.md,what does it mean to ask?,what does it mean to ask?,2,has_level2,yes,communication_acts_and_language_level2.md,Entry-level creation-pass review 2026-04-18: ask advanced through asking-type distinctions.
 communication_acts_and_language_entries.md,what does it mean to answer?,what does it mean to answer?,2,has_level2,yes,communication_acts_and_language_level2.md,Entry-level creation-pass review 2026-04-18: answer advanced through answer-type distinctions.
@@ -320,28 +320,29 @@ communication_acts_and_language_entries.md,"what does ""what does that mean"" me
 communication_acts_and_language_entries.md,"what does ""can you say it again"" mean?","what does ""can you say it again"" mean?",2,has_level2,yes,communication_acts_and_language_level2.md,Entry-level creation-pass review 2026-04-18: repair phrase advanced as repetition request.
 communication_acts_and_language_entries.md,"what does ""I meant"" mean?","what does ""I meant"" mean?",2,has_level2,yes,communication_acts_and_language_level2.md,Entry-level creation-pass review 2026-04-18: repair phrase advanced as self-correction move.
 communication_acts_and_language_entries.md,what is a complaint?,complaint,1,level1_only,no,,Entry-level creation-pass review 2026-04-18: kept at Level 1; not selected for this article.
-community_places_and_services_entries.md,what is a community place?,community place,1,level1_only,no,,
-community_places_and_services_entries.md,what is a service?,service,1,level1_only,no,,
-community_places_and_services_entries.md,what is a library?,library,1,level1_only,no,,
-community_places_and_services_entries.md,what is a hospital?,hospital,1,level1_only,no,,
-community_places_and_services_entries.md,what is a grocery store?,grocery store,1,level1_only,no,,
-community_places_and_services_entries.md,what is a fire station?,fire station,1,level1_only,no,,
-community_places_and_services_entries.md,what is a police station?,police station,1,level1_only,no,,
-community_places_and_services_entries.md,what is a post office?,post office,1,level1_only,no,,
-community_places_and_services_entries.md,what is a museum?,museum,1,level1_only,no,,
-community_places_and_services_entries.md,what is a restaurant?,restaurant,1,level1_only,no,,
-community_places_and_services_entries.md,what is a bakery?,bakery,1,level1_only,no,,
-community_places_and_services_entries.md,what is a bus stop?,bus stop,1,level1_only,no,,
-community_places_and_services_entries.md,what is a bank?,bank,1,level1_only,no,,
-community_places_and_services_entries.md,what is a pharmacy?,pharmacy,1,level1_only,no,,
-community_places_and_services_entries.md,what is a clinic?,clinic,1,level1_only,no,,
-conflict_resolution_and_relationship_repair_entries.md,what is conflict resolution?,conflict resolution,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
-conflict_resolution_and_relationship_repair_entries.md,what does compromise mean?,compromise,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
-conflict_resolution_and_relationship_repair_entries.md,what does forgive mean?,forgive,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
-conflict_resolution_and_relationship_repair_entries.md,what does apologize mean?,apologize,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
-conflict_resolution_and_relationship_repair_entries.md,what does let's try again mean?,let's try again,1,level1_only,no,,Entry-level creation-pass repair completed 2026-04-19: judged sufficient at Level 1 for now.
-conflict_resolution_and_relationship_repair_entries.md,what does that's okay mean?,that's okay,1,level1_only,no,,Entry-level creation-pass repair completed 2026-04-19: judged sufficient at Level 1 for now.
-conflict_resolution_and_relationship_repair_entries.md,what does how can we fix this mean?,how can we fix this,1,level1_only,no,,Entry-level creation-pass repair completed 2026-04-19: judged sufficient at Level 1 for now.
+community_places_and_services_entries.md,what is a community place?,community place,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1 as the umbrella place-category anchor.
+community_places_and_services_entries.md,what is a service?,service,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1 as the umbrella help-function anchor.
+community_places_and_services_entries.md,what is a library?,library,2,has_level2,yes,community_places_and_services_level2.md,"Entry-level creation-pass review 2026-04-19: library advanced through borrowing, return, quiet-space, and librarian-help scripts."
+community_places_and_services_entries.md,what is a hospital?,hospital,2,has_level2,yes,community_places_and_services_level2.md,"Entry-level creation-pass review 2026-04-19: hospital advanced through care-setting, helper-role, fear, and hospital-vs-clinic distinctions."
+community_places_and_services_entries.md,what is a grocery store?,grocery store,2,has_level2,yes,community_places_and_services_level2.md,Entry-level creation-pass review 2026-04-19: grocery store advanced through shopping-sequence and lost-child helper scripts.
+community_places_and_services_entries.md,what is a fire station?,fire station,2,has_level2,yes,community_places_and_services_level2.md,"Entry-level creation-pass review 2026-04-19: fire station advanced through emergency-response, visit, and safety-helper scripts."
+community_places_and_services_entries.md,what is police?,police,1,level1_only,no,,Added as new Level 1 anchor 2026-04-19.
+community_places_and_services_entries.md,what is a police station?,police station,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; safety-helper anchor did not earn a separate article section this pass.
+community_places_and_services_entries.md,what is a post office?,post office,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; mailing script was judged too narrow for current Level 2 tokens.
+community_places_and_services_entries.md,what is a museum?,museum,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; observation-and-learning anchor remains compact for now.
+community_places_and_services_entries.md,what is a restaurant?,restaurant,2,has_level2,yes,community_places_and_services_level2.md,"Entry-level creation-pass review 2026-04-19: restaurant advanced through ordering, manners, preference-handling, and restaurant-vs-bakery distinctions."
+community_places_and_services_entries.md,what is a bakery?,bakery,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; simple shop anchor.
+community_places_and_services_entries.md,what is a bus stop?,bus stop,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; transit-waiting anchor stays compact.
+community_places_and_services_entries.md,what is a bank?,bank,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; money/saving scripts not selected for this article.
+community_places_and_services_entries.md,what is a pharmacy?,pharmacy,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; medicine pickup anchor stayed compact beside the hospital section.
+community_places_and_services_entries.md,what is a clinic?,clinic,1,level1_only,no,,Entry-level creation-pass review 2026-04-19: kept at Level 1; retained mainly as a comparison anchor inside hospital.
+conflict_resolution_and_relationship_repair_entries.md,what is conflict resolution?,what is conflict resolution?,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
+conflict_resolution_and_relationship_repair_entries.md,what does compromise mean?,what does compromise mean?,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
+conflict_resolution_and_relationship_repair_entries.md,what does forgive mean?,what does forgive mean?,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
+conflict_resolution_and_relationship_repair_entries.md,what does apologize mean?,what does apologize mean?,2,has_level2,yes,training_data/wiki/level2_articles/conflict_resolution_and_relationship_repair_level2.md,Entry-level creation-pass repair completed 2026-04-19.
+conflict_resolution_and_relationship_repair_entries.md,what does let's try again mean?,what does let's try again mean?,1,level1_only,no,,Entry-level creation-pass repair completed 2026-04-19: judged sufficient at Level 1 for now.
+conflict_resolution_and_relationship_repair_entries.md,what does that's okay mean?,what does that's okay mean?,1,level1_only,no,,Entry-level creation-pass repair completed 2026-04-19: judged sufficient at Level 1 for now.
+conflict_resolution_and_relationship_repair_entries.md,what does how can we fix this mean?,what does how can we fix this mean?,1,level1_only,no,,Entry-level creation-pass repair completed 2026-04-19: judged sufficient at Level 1 for now.
 construction_and_material_transformations_entries.md,what is construction?,what is construction?,1,level1_only,no,,
 construction_and_material_transformations_entries.md,what is a repair?,repair,1,level1_only,no,,
 construction_and_material_transformations_entries.md,what does it mean to glue something?,what does it mean to glue something?,1,level1_only,no,,
@@ -465,7 +466,7 @@ emotions_entries.md,what is wonder?,what is wonder?,1,level1_only,no,,Entry-leve
 emotions_entries.md,what is worry?,what is worry?,2,has_level2,yes,emotions_level2.md,Entry-level creation-pass review 2026-04-18: approved for Level 2 coverage in emotions_level2.md.
 emotions_entries.md,what is guilt?,what is guilt?,2,has_level2,yes,emotions_level2.md,Entry-level creation-pass review 2026-04-18: approved for Level 2 coverage in emotions_level2.md.
 emotions_entries.md,what is disgust?,what is disgust?,1,level1_only,no,,Entry-level creation-pass review 2026-04-18: keep at Level 1 for now.
-environmental_care_and_stewardship_entries.md,what is the environment?,what is the environment?,1,level1_only,no,,
+environmental_care_and_stewardship_entries.md,what is the environment?,environment,1,level1_only,no,,
 environmental_care_and_stewardship_entries.md,what does recycle mean?,what does recycle mean?,1,level1_only,no,,
 environmental_care_and_stewardship_entries.md,what is litter?,what is litter?,1,level1_only,no,,
 environmental_care_and_stewardship_entries.md,what is pollution?,what is pollution?,1,level1_only,no,,
@@ -564,15 +565,15 @@ fractions_and_sharing_quantities_entries.md,what does it mean to share evenly?,w
 fractions_and_sharing_quantities_entries.md,what does it mean to cut in half?,what does it mean to cut in half?,1,level1_only,no,,
 fractions_and_sharing_quantities_entries.md,what does one out of three mean?,what does one out of three mean?,1,level1_only,no,,
 fractions_and_sharing_quantities_entries.md,what does divide into mean?,what does divide into mean?,1,level1_only,no,,
-friends_and_peer_interactions_entries.md,what is friendship?,friendship,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: advance to Level 2 for richer friendship types, maintenance, and repair patterns."
+friends_and_peer_interactions_entries.md,what is friendship?,what is friendship?,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: advance to Level 2 for richer friendship types, maintenance, and repair patterns."
 friends_and_peer_interactions_entries.md,what is a classmate?,classmate,1,level1_only,no,,Claude entry-level review 2026-04-19: keep at Level 1; simple school-role definition.
 friends_and_peer_interactions_entries.md,what is a teammate?,teammate,1,level1_only,no,,Claude entry-level review 2026-04-19: keep at Level 1; broader cooperation depth belongs elsewhere.
-friends_and_peer_interactions_entries.md,what does play together mean?,play together,1,level1_only,no,,Claude entry-level review 2026-04-19: keep at Level 1; richer material rides on invitation/playdate/friendship anchors.
-friends_and_peer_interactions_entries.md,what does it mean to invite?,invite,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: advance to Level 2 for invitation, refusal, and politeness scripts."
-friends_and_peer_interactions_entries.md,what does it mean to argue?,argue,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: advance to Level 2 for causes, regulation, and repair sequences."
-friends_and_peer_interactions_entries.md,what does make up mean?,make up,2,has_level2,yes,friends_and_peer_interactions_level2.md,Claude entry-level review 2026-04-19: advance to Level 2 for apology timing and friendship-repair structure.
+friends_and_peer_interactions_entries.md,what does play together mean?,what does play together mean?,1,level1_only,no,,Claude entry-level review 2026-04-19: keep at Level 1; richer material rides on invitation/playdate/friendship anchors.
+friends_and_peer_interactions_entries.md,what does it mean to invite?,what does it mean to invite?,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: advance to Level 2 for invitation, refusal, and politeness scripts."
+friends_and_peer_interactions_entries.md,what does it mean to argue?,what does it mean to argue?,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: advance to Level 2 for causes, regulation, and repair sequences."
+friends_and_peer_interactions_entries.md,what does make up mean?,what does make up mean?,2,has_level2,yes,friends_and_peer_interactions_level2.md,Claude entry-level review 2026-04-19: advance to Level 2 for apology timing and friendship-repair structure.
 friends_and_peer_interactions_entries.md,what is a playdate?,playdate,2,has_level2,yes,friends_and_peer_interactions_level2.md,"Claude entry-level review 2026-04-19: keep at Level 2 for planning, negotiation, and ending scripts."
-friends_and_peer_interactions_entries.md,what does be my friend mean?,be my friend,1,level1_only,no,,Claude entry-level review 2026-04-19: keep at Level 1; a narrow speech act already covered by broader invitation scripts.
+friends_and_peer_interactions_entries.md,what does be my friend mean?,what does be my friend mean?,1,level1_only,no,,Claude entry-level review 2026-04-19: keep at Level 1; a narrow speech act already covered by broader invitation scripts.
 future_planning_and_goals_entries.md,what is a plan?,plan,1,level1_only,no,,
 future_planning_and_goals_entries.md,what is a dream for the future?,dream for the future,1,level1_only,no,,
 future_planning_and_goals_entries.md,what does when I'm older mean?,what does when I'm older mean?,1,level1_only,no,,
@@ -752,7 +753,7 @@ logic_entries.md,"what does ""real"" mean?","what does ""real"" mean?",1,level1_
 logic_entries.md,"what does ""same"" mean?","what does ""same"" mean?",1,level1_only,no,,
 logic_entries.md,"what does ""different"" mean?","what does ""different"" mean?",1,level1_only,no,,
 logic_entries.md,what is a part?,part,1,level1_only,no,,
-logic_entries.md,what is the whole?,what is the whole?,1,level1_only,no,,
+logic_entries.md,what is the whole?,whole,1,level1_only,no,,
 logic_entries.md,"what does ""and"" mean?","what does ""and"" mean?",1,level1_only,no,,
 logic_entries.md,"what does ""or"" mean?","what does ""or"" mean?",1,level1_only,no,,
 logic_entries.md,"what does ""not"" mean?","what does ""not"" mean?",1,level1_only,no,,
@@ -763,7 +764,7 @@ logic_entries.md,"what does ""each"" mean?","what does ""each"" mean?",1,level1_
 logic_entries.md,what is a fact?,fact,1,level1_only,no,,
 logic_entries.md,"what does ""true"" mean?","what does ""true"" mean?",1,level1_only,no,,
 logic_entries.md,"what does ""false"" mean?","what does ""false"" mean?",1,level1_only,no,,
-logic_entries.md,what is the truth?,what is the truth?,1,level1_only,no,,
+logic_entries.md,what is the truth?,truth,1,level1_only,no,,
 logic_entries.md,what is a falsehood?,falsehood,1,level1_only,no,,
 logic_entries.md,what is a lie?,lie,1,level1_only,no,,
 logic_entries.md,what is a proof?,proof,1,level1_only,no,,
@@ -783,7 +784,7 @@ logic_entries.md,"what does it mean to ""stay the same""?","what does it mean to
 logic_entries.md,"what is a ""type"" or ""kind""?","""type"" or ""kind""",1,level1_only,no,,
 logic_entries.md,"what is an ""instance""?","""instance""",1,level1_only,no,,
 logic_entries.md,"what does it mean to ""begin""?","what does it mean to ""begin""?",1,level1_only,no,,
-logic_entries.md,"what is the ""middle""?","what is the ""middle""?",1,level1_only,no,,
+logic_entries.md,"what is the ""middle""?","""middle""",1,level1_only,no,,
 logic_entries.md,"what does it mean to ""end""?","what does it mean to ""end""?",1,level1_only,no,,
 logic_entries.md,what is a relation?,relation,1,level1_only,no,,
 logic_entries.md,what is an action?,action,1,level1_only,no,,
@@ -801,8 +802,8 @@ logic_entries.md,what is a consequence?,consequence,1,level1_only,no,,
 logic_entries.md,what is a law?,law,1,level1_only,no,,
 logic_entries.md,what is a memory?,memory,1,level1_only,no,,
 logic_entries.md,what is a habit?,habit,1,level1_only,no,,
-logic_entries.md,what is the self?,what is the self?,1,level1_only,no,,
-logic_entries.md,what is the other?,what is the other?,1,level1_only,no,,
+logic_entries.md,what is the self?,self,1,level1_only,no,,
+logic_entries.md,what is the other?,other,1,level1_only,no,,
 logic_entries.md,what does it mean to own?,what does it mean to own?,1,level1_only,no,,
 logic_entries.md,what does it mean to belong?,what does it mean to belong?,1,level1_only,no,,
 logic_entries.md,what does it mean to choose?,what does it mean to choose?,1,level1_only,no,,
@@ -997,8 +998,8 @@ natural_life_cycles_and_processes_entries.md,what is metamorphosis?,what is meta
 natural_life_cycles_and_processes_entries.md,what is pollination?,what is pollination?,1,level1_only,no,,
 natural_life_cycles_and_processes_entries.md,what is hibernation?,what is hibernation?,1,level1_only,no,,
 natural_life_cycles_and_processes_entries.md,what is decomposition?,what is decomposition?,1,level1_only,no,,
-natural_life_cycles_and_processes_entries.md,what is the water cycle?,what is the water cycle?,1,level1_only,no,,
-natural_life_cycles_and_processes_entries.md,what is the day and night pattern?,what is the day and night pattern?,1,level1_only,no,,
+natural_life_cycles_and_processes_entries.md,what is the water cycle?,water cycle,1,level1_only,no,,
+natural_life_cycles_and_processes_entries.md,what is the day and night pattern?,day and night pattern,1,level1_only,no,,
 natural_life_cycles_and_processes_entries.md,what is a season change?,season change,1,level1_only,no,,
 natural_life_cycles_and_processes_entries.md,what is migration?,what is migration?,1,level1_only,no,,
 natural_life_cycles_and_processes_entries.md,what is a food chain?,food chain,1,level1_only,no,,
@@ -1179,6 +1180,7 @@ professions_entries.md,what is a cook?,cook,1,level1_only,no,,
 professions_entries.md,what is a driver?,driver,1,level1_only,no,,
 professions_entries.md,what is a doctor?,doctor,1,level1_only,no,,
 professions_entries.md,what is a nurse?,nurse,1,level1_only,no,,
+professions_entries.md,what is a police officer?,police officer,1,level1_only,no,,Added as new Level 1 anchor 2026-04-19.
 professions_entries.md,what is a teacher?,teacher,1,level1_only,no,,
 professions_entries.md,what is a builder?,builder,1,level1_only,no,,
 professions_entries.md,what is a gardener?,gardener,1,level1_only,no,,
@@ -1224,11 +1226,11 @@ school_life_and_learning_entries.md,what is a student?,student,2,has_level2,yes,
 school_life_and_learning_entries.md,what is a subject?,subject,1,level1_only,no,,Level 1 definition sufficient; abstract category label did not need a dedicated Level 2 branch.
 school_life_and_learning_entries.md,what is a lesson?,lesson,2,has_level2,yes,school_life_and_learning_level2.md,"Entry-level review: lesson flow, confusion, and asking questions justified Level 2 treatment."
 school_life_and_learning_entries.md,what is a grade?,grade,1,level1_only,no,,Level 1 definition sufficient; school level label did not need a dedicated Level 2 branch.
-school_life_and_learning_entries.md,what is homework?,homework,2,has_level2,yes,school_life_and_learning_level2.md,"Entry-level review: homework situations (why, how, confusion, forgetting) justified Level 2 treatment."
-school_life_and_learning_entries.md,what is recess?,recess,2,has_level2,yes,school_life_and_learning_level2.md,Entry-level review: recess importance and break-time social situations justified Level 2 treatment.
+school_life_and_learning_entries.md,what is homework?,what is homework?,2,has_level2,yes,school_life_and_learning_level2.md,"Entry-level review: homework situations (why, how, confusion, forgetting) justified Level 2 treatment."
+school_life_and_learning_entries.md,what is recess?,what is recess?,2,has_level2,yes,school_life_and_learning_level2.md,Entry-level review: recess importance and break-time social situations justified Level 2 treatment.
 school_life_and_learning_entries.md,what is a school bus?,school bus,1,level1_only,no,,Level 1 definition sufficient; transportation object did not need a dedicated Level 2 branch.
 school_life_and_learning_entries.md,what is a book?,book,1,level1_only,no,,Level 1 definition sufficient; peripheral reading object rather than a school-scenario anchor.
-school_life_and_learning_entries.md,what is paper?,paper,1,level1_only,no,,Level 1 definition sufficient; simple school material rather than a scenario anchor.
+school_life_and_learning_entries.md,what is paper?,what is paper?,1,level1_only,no,,Level 1 definition sufficient; simple school material rather than a scenario anchor.
 school_life_and_learning_entries.md,what is a pencil?,pencil,1,level1_only,no,,Level 1 definition sufficient; simple writing tool rather than a scenario anchor.
 school_life_and_learning_entries.md,what is a pen?,pen,1,level1_only,no,,Level 1 definition sufficient; simple writing tool rather than a scenario anchor.
 school_life_and_learning_entries.md,what is a crayon?,crayon,1,level1_only,no,,Level 1 definition sufficient; simple drawing tool rather than a scenario anchor.
@@ -1361,8 +1363,8 @@ space_entries.md,"what does ""past"" mean?","what does ""past"" mean?",1,level1_
 space_entries.md,what is space?,what is space?,1,level1_only,no,,
 space_entries.md,what is width?,what is width?,1,level1_only,no,,
 space_entries.md,what is depth?,what is depth?,1,level1_only,no,,
-space_entries.md,what is the center?,what is the center?,1,level1_only,no,,
-space_entries.md,what is the edge?,what is the edge?,1,level1_only,no,,
+space_entries.md,what is the center?,center,1,level1_only,no,,
+space_entries.md,what is the edge?,edge,1,level1_only,no,,
 space_entries.md,"what does it mean for something to be ""level""?","what does it mean for something to be ""level""?",1,level1_only,no,,
 space_entries.md,what is a corner?,corner,1,level1_only,no,,
 states_of_being_and_condition_entries.md,what is a condition?,condition,1,level1_only,no,,
@@ -1431,9 +1433,9 @@ time_entries.md,"what does ""frequently"" mean?","what does ""frequently"" mean?
 time_entries.md,"what does ""rarely"" mean?","what does ""rarely"" mean?",1,level1_only,no,,
 time_entries.md,what is now?,what is now?,1,level1_only,no,,
 time_entries.md,"what does ""then"" mean?","what does ""then"" mean?",1,level1_only,no,,
-time_entries.md,what is the past?,what is the past?,1,level1_only,no,,
-time_entries.md,what is the present?,what is the present?,1,level1_only,no,,
-time_entries.md,what is the future?,what is the future?,1,level1_only,no,,
+time_entries.md,what is the past?,past,1,level1_only,no,,
+time_entries.md,what is the present?,present,1,level1_only,no,,
+time_entries.md,what is the future?,future,1,level1_only,no,,
 time_entries.md,what is yesterday?,what is yesterday?,1,level1_only,no,,
 time_entries.md,what is today?,what is today?,1,level1_only,no,,
 time_entries.md,what is tomorrow?,what is tomorrow?,1,level1_only,no,,
@@ -1460,14 +1462,14 @@ tools_and_kitchenware_entries.md,what is a pan?,pan,1,level1_only,no,,
 tools_and_kitchenware_entries.md,what is a skillet?,skillet,1,level1_only,no,,
 tools_and_kitchenware_entries.md,what is a spoon?,spoon,1,level1_only,no,,
 tools_and_kitchenware_entries.md,what is a plate?,plate,1,level1_only,no,,
-topology_parts_entries.md,what is the neck of a bottle?,what is the neck of a bottle?,1,level1_only,no,,
-topology_parts_entries.md,what is the rim of a cup?,what is the rim of a cup?,1,level1_only,no,,
-topology_parts_entries.md,what is the tip of a branch?,what is the tip of a branch?,1,level1_only,no,,
-topology_parts_entries.md,what is the top of a hill?,what is the top of a hill?,1,level1_only,no,,
-topology_parts_entries.md,what is the edge of a road?,what is the edge of a road?,1,level1_only,no,,
-topology_parts_entries.md,what is the bank of a river?,what is the bank of a river?,1,level1_only,no,,
-topology_parts_entries.md,what is the foot of a tree?,what is the foot of a tree?,1,level1_only,no,,
-topology_parts_entries.md,what is the back of a hand?,what is the back of a hand?,1,level1_only,no,,
+topology_parts_entries.md,what is the neck of a bottle?,neck of a bottle,1,level1_only,no,,
+topology_parts_entries.md,what is the rim of a cup?,rim of a cup,1,level1_only,no,,
+topology_parts_entries.md,what is the tip of a branch?,tip of a branch,1,level1_only,no,,
+topology_parts_entries.md,what is the top of a hill?,top of a hill,1,level1_only,no,,
+topology_parts_entries.md,what is the edge of a road?,edge of a road,1,level1_only,no,,
+topology_parts_entries.md,what is the bank of a river?,bank of a river,1,level1_only,no,,
+topology_parts_entries.md,what is the foot of a tree?,foot of a tree,1,level1_only,no,,
+topology_parts_entries.md,what is the back of a hand?,back of a hand,1,level1_only,no,,
 uncertainty_and_guessing_entries.md,what is uncertainty?,what is uncertainty?,1,level1_only,no,,
 uncertainty_and_guessing_entries.md,what does maybe mean?,what does maybe mean?,1,level1_only,no,,
 uncertainty_and_guessing_entries.md,what does probably mean?,what does probably mean?,1,level1_only,no,,
@@ -1618,17 +1620,17 @@ weather_and_celestial_entries.md,what is a flood?,flood,1,level1_only,no,,
 weather_and_celestial_entries.md,what is frost?,what is frost?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is ice?,what is ice?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is light?,what is light?,1,level1_only,no,,
-weather_and_celestial_entries.md,what is the moon?,what is the moon?,1,level1_only,no,,
+weather_and_celestial_entries.md,what is the moon?,moon,1,level1_only,no,,
 weather_and_celestial_entries.md,what is moonlight?,what is moonlight?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is rain?,what is rain?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is rainfall?,what is rainfall?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is snow?,what is snow?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is a storm?,storm,1,level1_only,no,,
-weather_and_celestial_entries.md,what is the sun?,what is the sun?,1,level1_only,no,,
+weather_and_celestial_entries.md,what is the sun?,sun,1,level1_only,no,,
 weather_and_celestial_entries.md,what is thunder?,what is thunder?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is wind?,what is wind?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is a wave?,wave,1,level1_only,no,,
-weather_and_celestial_entries.md,what is the sky?,what is the sky?,1,level1_only,no,,
+weather_and_celestial_entries.md,what is the sky?,sky,1,level1_only,no,,
 weather_and_celestial_entries.md,what is a star?,star,1,level1_only,no,,
 weather_and_celestial_entries.md,what is starlight?,what is starlight?,1,level1_only,no,,
 weather_and_celestial_entries.md,what is a rainbow?,rainbow,1,level1_only,no,,

@@ -78,12 +78,12 @@ Current active tracks:
 training_data/
   phase 1 to 5/
     rewritten/          ← canonical curriculum (use this)
-      phase_1/          ← 129 files: phase_1_001.md … phase_1_129.md
+      phase_1/          ← 130 files: phase_1_001.md … phase_1_130.md
       phase_2/          ← 68 files:  phase_2_01.md  … phase_2_68.md
       phase_3/          ← 40 files:  phase_3_01.md  … phase_3_40.md
       phase_4/          ← files:     phase_4_01.md  …
       phase_5/          ← files:     phase_5_01.md  …
-      training_sequence.txt   ← flat ordered list of all 352 files
+      training_sequence.txt   ← flat ordered list of all 353 files
       concept_index.md        ← per-phase table + dependency annotations
       dependency_graph.json   ← machine-readable graph {files, sequence}
     deprecated/         ← old/superseded files, do not use for training

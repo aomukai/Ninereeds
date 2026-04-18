@@ -16,9 +16,9 @@ Use this together with:
 
 ## Current counts
 
-- Total Level 1 entries indexed: **1640**
-- Entries still only at Level 1: **1591**
-- Entries with detected Level 2 coverage: **49**
+- Total Level 1 entries indexed: **1642**
+- Entries still only at Level 1: **1588**
+- Entries with detected Level 2 coverage: **54**
 
 ## Per-file rollup
 
@@ -45,7 +45,7 @@ Use this together with:
 - `collections_and_collecting_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `colors_entries.md` — 0/20 entries currently detected in a written Level 2 article
 - `communication_acts_and_language_entries.md` — 6/11 entries currently detected in a written Level 2 article
-- `community_places_and_services_entries.md` — 0/15 entries currently detected in a written Level 2 article
+- `community_places_and_services_entries.md` — 5/16 entries currently detected in a written Level 2 article
 - `conflict_resolution_and_relationship_repair_entries.md` — 4/7 entries currently detected in a written Level 2 article
 - `construction_and_material_transformations_entries.md` — 0/13 entries currently detected in a written Level 2 article
 - `containers_and_capacity_entries.md` — 0/11 entries currently detected in a written Level 2 article
@@ -105,12 +105,12 @@ Use this together with:
 - `perspective_taking_and_theory_of_mind_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `places_and_landforms_entries.md` — 0/42 entries currently detected in a written Level 2 article
 - `plants_and_nature_entries.md` — 0/17 entries currently detected in a written Level 2 article
-- `play_games_and_sports_entries.md` — 6/10 entries advanced to Level 2 (entry-level creation-pass repair 2026-04-19)
+- `play_games_and_sports_entries.md` — 6/10 entries currently detected in a written Level 2 article
 - `praise_criticism_and_feedback_entries.md` — 0/10 entries currently detected in a written Level 2 article
-- `professions_entries.md` — 0/23 entries currently detected in a written Level 2 article
+- `professions_entries.md` — 0/24 entries currently detected in a written Level 2 article
 - `safety_rules_and_emergency_awareness_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `safety_signs_and_symbols_entries.md` — 0/14 entries currently detected in a written Level 2 article
-- `school_life_and_learning_entries.md` — 8/21 entries advanced to Level 2 (creation-pass repair 2026-04-19)
+- `school_life_and_learning_entries.md` — 8/21 entries currently detected in a written Level 2 article
 - `seasonal_activities_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `secrets_surprises_and_keeping_promises_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `sensory_experiences_entries.md` — 0/15 entries currently detected in a written Level 2 article

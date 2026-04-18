@@ -54,7 +54,7 @@ Use this together with:
 4. [x] `conflict_resolution_and_relationship_repair_entries.md`
 5. [x] `school_life_and_learning_entries.md`
 6. [x] `play_games_and_sports_entries.md`
-7. [ ] `community_places_and_services_entries.md`
+7. [x] `community_places_and_services_entries.md`
 8. [ ] `technology_and_digital_media_entries.md`
 9. [ ] `health_and_wellness_entries.md`
 10. [ ] `storytelling_and_narrative_structure_entries.md`

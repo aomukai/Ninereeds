@@ -2447,6 +2447,12 @@
       "depends_on": [
         "phase_4_17.md"
       ]
+    },
+    "phase_1_130.md": {
+      "concept": "police",
+      "phase": 1,
+      "definition": "Police are people that give help and guide cars on roads.",
+      "depends_on": []
     }
   },
   "sequence": [
@@ -2579,6 +2585,7 @@
     "phase_1_127.md",
     "phase_1_128.md",
     "phase_1_129.md",
+    "phase_1_130.md",
     "phase_2_01.md",
     "phase_2_02.md",
     "phase_2_03.md",

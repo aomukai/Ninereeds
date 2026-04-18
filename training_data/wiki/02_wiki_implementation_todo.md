@@ -289,13 +289,20 @@ That means prioritizing:
    Notes:
    - Earlier file-level creation results need to be rechecked under the new entry-level workflow.
    - Existing Level 2 drafts remain as repairable artifacts, but Pass 1 has been reset to restart from the top.
-   - Completed entry-level creation-pass repair for `emotions_entries.md`: 20 entries advanced to Level 2, 20 stayed at Level 1, and `emotions_level2.md` now has explicit traceability.
-   - Completed entry-level creation-pass repair for `communication_acts_and_language_entries.md`: 6 entries advanced to Level 2 (`ask`, `answer`, `promise`, `"what does that mean"`, `"can you say it again"`, `"I meant"`) and 5 stayed Level 1 (`communication`, `whisper`, `shout`, `explain`, `complaint`).
+   - Current first file in the creation pass: `emotions_entries.md`.
+
+27. [x] Add missing law/safety role anchors: `police` and `police officer`
+   Notes:
+   - Added `police` to `community_places_and_services_entries.md` as the broader community-safety/institution anchor.
+   - Added `police officer` to `professions_entries.md` as the person-role/job anchor.
+   - Kept `police station` in `community_places_and_services_entries.md` as the place anchor.
+
    - Completed entry-level creation-pass repair for `friends_and_peer_interactions_entries.md`: 5 entries advanced to Level 2 (`friendship`, `invite`, `argue`, `make up`, `playdate`) and 4 stayed Level 1 (`classmate`, `teammate`, `play together`, `be my friend`).
    - Completed entry-level creation-pass repair for `conflict_resolution_and_relationship_repair_entries.md`: 4 entries advanced to Level 2 (`conflict resolution`, `compromise`, `forgive`, `apologize`) and 3 stayed Level 1 (`let's try again`, `that's okay`, `how can we fix this`).
    - Completed entry-level creation-pass repair for `school_life_and_learning_entries.md`: 8 entries advanced to Level 2 (`school`, `classroom`, `teacher`, `student`, `lesson`, `homework`, `recess`, `test`) and 13 stayed Level 1 (`subject`, `grade`, `school bus`, `book`, `paper`, `pencil`, `pen`, `crayon`, `backpack`, `lunchbox`, `playground`, `principal`, `magazine`).
    - Completed entry-level creation-pass repair for `play_games_and_sports_entries.md`: 6 entries advanced to Level 2 (`play`, `game`, `team`, `win`, `lose`, `cheat`) and 4 stayed Level 1 (`sport`, `score`, `tag`, `hide and seek`).
-   - Current first file in the creation pass: `community_places_and_services_entries.md`.
+- Completed entry-level creation-pass repair for `community_places_and_services_entries.md`: 5 entries advanced to Level 2 (`library`, `hospital`, `grocery store`, `fire station`, `restaurant`) and 10 stayed Level 1 (`community place`, `service`, `police station`, `post office`, `museum`, `bakery`, `bus stop`, `bank`, `pharmacy`, `clinic`).
+   - Current first file in the creation pass: `technology_and_digital_media_entries.md`.
 
 ---
 

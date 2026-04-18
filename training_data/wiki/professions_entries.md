@@ -27,6 +27,9 @@
 [user]what is a nurse?
 [assistant]A nurse is a person who cares for sick or hurt people. Nurses help patients feel safe and comfortable. Nurses may give medicine, check on people, and work with doctors. Nurses often spend a lot of time with patients. A nurse is not a doctor.
 
+[user]what is a police officer?
+[assistant]A police officer is a person whose job is to help keep people safe and to respond when laws are broken or danger is happening. Police officers may help in emergencies, look for missing people, direct traffic, or talk to people after a crime. A police officer works with rules, public safety, and the community. A police officer is not a firefighter.
+
 [user]what is a teacher?
 [assistant]A teacher is a person whose job is to help others learn. Teachers work in schools, classrooms, and other places of learning. Teachers explain ideas, ask questions, and guide practice. Teachers help students grow in knowledge and skill. A teacher is not a student.
 

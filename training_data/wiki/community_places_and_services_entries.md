@@ -18,6 +18,9 @@
 [user]what is a fire station?
 [assistant]A fire station is the place where firefighters work and keep their trucks and tools. Firefighters leave the fire station when there is a fire or another emergency. A fire station helps protect people, homes, and buildings. A fire station is not the same as a garage.
 
+[user]what is police?
+[assistant]Police are people whose job is to help keep a community safe and to respond when rules are broken or danger is happening. Police may help in emergencies, protect people, and look into serious problems. People may talk to police when someone is lost, hurt, or not safe. Police work with rules and public safety. Police are not the same as firefighters.
+
 [user]what is a police station?
 [assistant]A police station is the place where police officers work and where people may go for help. Police officers use a police station as a base for safety work in the community. A police station helps with safety, rules, and emergencies. A police station is not the same as a school.
 

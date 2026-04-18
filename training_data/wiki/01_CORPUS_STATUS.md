@@ -43,7 +43,7 @@ These files are in good shape for the current manual-cleanup pass.
 | clothing_and_apparel_entries.md | Entry count: 19. Added `scarf`, `boots`, `belt`, `collar`, `sleeve` |
 | civic_responsibility_and_community_rules_entries.md | Entry count: 10. Added `privilege`; fixes dangling contrast in right entry |
 | communication_acts_and_language_entries.md | Entry count: 11. Added `complaint`; fixes dangling contrast in I like how you entry |
-| community_places_and_services_entries.md | Entry count: 15. Added `bank`, `pharmacy`, `clinic` |
+| community_places_and_services_entries.md | Entry count: 16. Added `bank`, `pharmacy`, `clinic`, `police` |
 | conflict_resolution_and_relationship_repair_entries.md | Entry count: 7. New social-repair category; anchors `conflict resolution`, `compromise`, `forgive`, `apologize`, `let's try again`, `that's okay`, `how can we fix this` |
 | construction_and_material_transformations_entries.md | Entry count: 13. Added `assemble something`, `wrap something`, `stack`, `tie` |
 | collections_and_collecting_entries.md | Entry count: 10. New collecting-practice category; anchors `collection`, `sticker`, `card`, `series`, `organize`, `trade`, `duplicate`, `complete`, `album`, `swap` |
@@ -141,7 +141,7 @@ These looked solid before the current cleanup sprint and were not major problem 
 | mathematical_concepts_entries.md | Entry count: 28. Number/shape/operation concepts + 1-10 word-to-symbol bridge + plus/minus/equals |
 | measurement_and_comparison_entries.md | Entry count: 18. Added `temperature`, `speed`, `wider`, `narrower` |
 | people_roles_entries.md | Entry count: 15. Added `enemy`; fixed husband contrast (bachelor→boyfriend); fixes dangling contrast in friend entry |
-| professions_entries.md | Entry count: 23. Strong overall |
+| professions_entries.md | Entry count: 24. Added `police officer`; strong overall |
 
 ### Still worth a future pass
 These are not blockers, but they may still want style cleanup, dependency review, or expansion later.
@@ -370,6 +370,7 @@ This log is **file-level only**. For entry-by-entry escalation decisions inside 
 | `conflict_resolution_and_relationship_repair_entries.md` | `conflict_resolution_and_relationship_repair_level2.md` | 2026-04-19 | Level 2 | Entry-level creation-pass repair completed: 4 source entries advanced to Level 2 (`conflict resolution`, `compromise`, `forgive`, `apologize`) and 3 stayed Level 1 (`let's try again`, `that's okay`, `how can we fix this`); article narrowed to apology, forgiveness, compromise, and repair-failure subcases. |
 | `school_life_and_learning_entries.md` | `school_life_and_learning_level2.md` | 2026-04-19 | Level 2 | Entry-level creation-pass repair completed: 8 source entries advanced to Level 2 (`school`, `classroom`, `teacher`, `student`, `lesson`, `homework`, `recess`, `test`) and 13 stayed Level 1 (`subject`, `grade`, `school bus`, `book`, `paper`, `pencil`, `pen`, `crayon`, `backpack`, `lunchbox`, `playground`, `principal`, `magazine`); article kept the 12-section structure and added top-of-file traceability. |
 | `play_games_and_sports_entries.md` | `play_games_and_sports_level2.md` | 2026-04-19 | Level 2 | Entry-level creation-pass repair completed: 6 source entries advanced to Level 2 (`play`, `game`, `team`, `win`, `lose`, `cheat`) and 4 stayed Level 1 (`sport`, `score`, `tag`, `hide and seek`); article cut back to play/game/team/fairness/win-lose scaffolding. |
+| `community_places_and_services_entries.md` | `community_places_and_services_level2.md` | 2026-04-19 | Level 2 | Entry-level creation-pass repair completed: 5 source entries advanced to Level 2 (`library`, `hospital`, `grocery store`, `fire station`, `restaurant`) and 10 stayed Level 1 (`community place`, `service`, `police station`, `post office`, `museum`, `bakery`, `bus stop`, `bank`, `pharmacy`, `clinic`); article narrowed to child-facing visit scripts, helper roles, and place comparisons. |
 
 ---
 

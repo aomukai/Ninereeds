@@ -23,7 +23,7 @@ Use this together with:
 
 ---
 
-## Current max level 1 (106)
+## Current max level 1 (105)
 
 ### Level 1 only for now (84)
 - `abstract_operators_entries.md`
@@ -129,8 +129,7 @@ Use this together with:
 - `uncertainty_and_guessing_entries.md`
 - `wants_needs_and_preferences_entries.md`
 
-### Level 1, approved for Level 2 creation now (6)
-- `community_places_and_services_entries.md`
+### Level 1, approved for Level 2 creation now (5)
 - `technology_and_digital_media_entries.md`
 - `health_and_wellness_entries.md`
 - `storytelling_and_narrative_structure_entries.md`
@@ -139,12 +138,13 @@ Use this together with:
 
 ---
 
-## Current max level 2 (6)
+## Current max level 2 (7)
 
 | Source Level 1 file | Current max written level | Next action | Provisional ceiling | Notes |
 |---|---:|---|---|---|
 | `emotions_entries.md` | 2 | quality pass | Level 3 | Entry-level creation-pass repair completed 2026-04-18: 20 entries advanced to Level 2 and 20 stayed at Level 1. |
 | `communication_acts_and_language_entries.md` | 2 | quality pass | Level 2 | Entry-level creation-pass repair completed 2026-04-18: 6 entries advanced to Level 2 (`ask`, `answer`, `promise`, and three repair phrases) and 5 stayed at Level 1 (`communication`, `whisper`, `shout`, `explain`, `complaint`). |
+| `community_places_and_services_entries.md` | 2 | quality pass | Level 2 | Entry-level creation-pass repair completed 2026-04-19: 5 entries advanced to Level 2 (`library`, `hospital`, `grocery store`, `fire station`, `restaurant`) and 10 stayed at Level 1 (`community place`, `service`, `police station`, `post office`, `museum`, `bakery`, `bus stop`, `bank`, `pharmacy`, `clinic`). |
 | `friends_and_peer_interactions_entries.md` | 2 | quality pass | Level 2 | Entry-level creation-pass repair completed 2026-04-19: 5 entries advanced to Level 2 (`friendship`, `invite`, `argue`, `make up`, `playdate`) and 4 stayed at Level 1 (`classmate`, `teammate`, `play together`, `be my friend`). |
 | `conflict_resolution_and_relationship_repair_entries.md` | 2 | quality pass | Level 2 | Entry-level creation-pass repair completed 2026-04-19: 4 entries advanced to Level 2 (`conflict resolution`, `compromise`, `forgive`, `apologize`) and 3 stayed at Level 1 (`let's try again`, `that's okay`, `how can we fix this`); article narrowed to apology, forgiveness, compromise, and repair-failure subcases. |
 | `school_life_and_learning_entries.md` | 2 | quality pass | Level 2 | Entry-level creation-pass repair completed 2026-04-19: 8 entries advanced to Level 2 (`school`, `classroom`, `teacher`, `student`, `lesson`, `homework`, `recess`, `test`) and 13 stayed at Level 1 (tools, containers, peripheral objects). |
@@ -187,7 +187,7 @@ _No files yet._
 | `collections_and_collecting_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `colors_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `communication_acts_and_language_entries.md` | 2 | quality pass | Level 2 | `l2_written` |
-| `community_places_and_services_entries.md` | 1 | create level 2 now | tbd by claude | `l1_max_expand_now` |
+| `community_places_and_services_entries.md` | 2 | quality pass | Level 2 | `l2_written` |
 | `conflict_resolution_and_relationship_repair_entries.md` | 2 | quality pass | Level 2 | `l2_written` |
 | `construction_and_material_transformations_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `containers_and_capacity_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
