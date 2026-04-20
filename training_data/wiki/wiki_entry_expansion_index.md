@@ -44,9 +44,9 @@ Use this together with:
 - `clothing_and_apparel_entries.md` — 0/19 entries currently detected in a written Level 2 article
 - `collections_and_collecting_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `colors_entries.md` — 0/20 entries currently detected in a written Level 2 article
-- `communication_acts_and_language_entries.md` — 6/11 entries currently detected in a written Level 2 article
-- `community_places_and_services_entries.md` — 5/16 entries currently detected in a written Level 2 article (quality pass completed 2026-04-19; 11 entries remain Level 1 including `police`)
-- `conflict_resolution_and_relationship_repair_entries.md` — 4/7 entries currently detected in a written Level 2 article (quality pass completed 2026-04-19)
+- `communication_acts_and_language_entries.md` — 6/11 entries currently detected in a written Level 2 article (dependency pass completed 2026-04-20: 6/5 split retained; metadata-only completion; dependencies rechecked against greetings, agreement/disagreement, manners, praise/feedback, people-role, conflict-repair, and evidence neighbors; no article-body changes needed)
+- `community_places_and_services_entries.md` — 5/16 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 5/11 split retained; no article-body changes needed; 11 entries remain Level 1 including `police`)
+- `conflict_resolution_and_relationship_repair_entries.md` — 4/7 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: existing 4/3 split retained; no article-body changes needed)
 - `construction_and_material_transformations_entries.md` — 0/13 entries currently detected in a written Level 2 article
 - `containers_and_capacity_entries.md` — 0/11 entries currently detected in a written Level 2 article
 - `cooking_and_food_preparation_entries.md` — 0/17 entries currently detected in a written Level 2 article
@@ -54,22 +54,22 @@ Use this together with:
 - `data_charts_and_graphs_entries.md` — 0/11 entries currently detected in a written Level 2 article
 - `degrees_of_truth_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `directions_and_navigation_entries.md` — 0/11 entries currently detected in a written Level 2 article
-- `emotions_entries.md` — 20/40 entries currently detected in a written Level 2 article (quality pass completed 2026-04-19)
+- `emotions_entries.md` — 20/40 entries currently detected in a written Level 2 article (dependency pass completed 2026-04-20: 20/20 split retained; metadata-only completion; dependencies confirmed against body-state/body-part, people-role, school, and game anchors; no article-body changes needed)
 - `environmental_care_and_stewardship_entries.md` — 0/9 entries currently detected in a written Level 2 article
-- `evidence_and_justification_entries.md` — 4/9 entries currently detected in a written Level 2 article
+- `evidence_and_justification_entries.md` — 4/9 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 4/5 split retained; no article-body changes needed; advanced: `justification`, `reason why`, `example`, `that proves`; stayed L1: `because I saw it`, `I know this because`, `for instance`, `I can show you`, `back it up`)
 - `exceptions_and_qualifications_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `food_groups_and_nutrition_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `foods_and_drinks_entries.md` — 0/14 entries currently detected in a written Level 2 article
 - `foods_fruits_entries.md` — 0/24 entries currently detected in a written Level 2 article
 - `foods_vegetables_entries.md` — 0/16 entries currently detected in a written Level 2 article
 - `fractions_and_sharing_quantities_entries.md` — 0/9 entries currently detected in a written Level 2 article
-- `friends_and_peer_interactions_entries.md` — 5/9 entries currently detected in a written Level 2 article (quality pass completed 2026-04-19)
+- `friends_and_peer_interactions_entries.md` — 5/9 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 5/4 split retained; no article-body changes needed)
 - `future_planning_and_goals_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `garden_and_planting_basics_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `greetings_and_social_salutations_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `group_roles_and_participation_entries.md` — 0/11 entries currently detected in a written Level 2 article
 - `growth_and_life_stages_human_entries.md` — 0/12 entries currently detected in a written Level 2 article
-- `health_and_wellness_entries.md` — 12/17 entries currently detected in a written Level 2 article
+- `health_and_wellness_entries.md` — 12/17 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 12/5 split retained; 5 entries remain Level 1: `health`, `wellness`, `bandage`, `rash`, `allergy`; no article-body changes needed)
 - `hobbies_and_interests_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `holidays_and_celebrations_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `home_objects_entries_part1.md` — 0/7 entries currently detected in a written Level 2 article
@@ -102,15 +102,15 @@ Use this together with:
 - `ownership_and_sharing_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `people_roles_entries.md` — 0/15 entries currently detected in a written Level 2 article
 - `personal_identity_and_self_description_entries.md` — 0/8 entries currently detected in a written Level 2 article
-- `perspective_taking_and_theory_of_mind_entries.md` — 6/8 entries currently detected in a written Level 2 article
+- `perspective_taking_and_theory_of_mind_entries.md` — 6/8 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 6/2 split retained; no article-body changes needed)
 - `places_and_landforms_entries.md` — 0/42 entries currently detected in a written Level 2 article
 - `plants_and_nature_entries.md` — 0/17 entries currently detected in a written Level 2 article
-- `play_games_and_sports_entries.md` — 6/10 entries currently detected in a written Level 2 article (quality pass completed 2026-04-19)
+- `play_games_and_sports_entries.md` — 6/10 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 6/4 split retained; no article-body changes needed)
 - `praise_criticism_and_feedback_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `professions_entries.md` — 0/24 entries currently detected in a written Level 2 article
 - `safety_rules_and_emergency_awareness_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `safety_signs_and_symbols_entries.md` — 0/14 entries currently detected in a written Level 2 article
-- `school_life_and_learning_entries.md` — 8/21 entries currently detected in a written Level 2 article (quality pass completed 2026-04-19)
+- `school_life_and_learning_entries.md` — 8/21 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 8/13 split retained; no article-body changes needed)
 - `seasonal_activities_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `secrets_surprises_and_keeping_promises_entries.md` — 0/8 entries currently detected in a written Level 2 article
 - `sensory_experiences_entries.md` — 0/15 entries currently detected in a written Level 2 article
@@ -123,8 +123,8 @@ Use this together with:
 - `space_entries.md` — 0/35 entries currently detected in a written Level 2 article
 - `states_of_being_and_condition_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `story_roles_and_plot_elements_entries.md` — 0/9 entries currently detected in a written Level 2 article
-- `storytelling_and_narrative_structure_entries.md` — 5/16 entries currently detected in a written Level 2 article
-- `technology_and_digital_media_entries.md` — 5/14 entries currently detected in a written Level 2 article
+- `storytelling_and_narrative_structure_entries.md` — 5/16 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 5/11 split retained; no article-body changes needed)
+- `technology_and_digital_media_entries.md` — 5/14 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: existing 5/9 split retained; no article-body changes needed)
 - `time_entries.md` — 0/32 entries currently detected in a written Level 2 article
 - `tools_and_kitchenware_entries.md` — 0/14 entries currently detected in a written Level 2 article
 - `topology_parts_entries.md` — 0/8 entries currently detected in a written Level 2 article
