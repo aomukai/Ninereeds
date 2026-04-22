@@ -116,29 +116,42 @@ Exit condition for this stage:
 
 ---
 
-## Stage 5 — Connective tissue batch
+## Stage 5 — Connective tissue batch / Phase 6 bridge
 
-**Source:** `training_data/wiki/00_ideas.md`
+**Primary sources:**
+- `training_data/wiki/00_ideas.md`
+- `training_data/phase_6_bridge/README.md`
+- `training_data/phase_6_bridge/phase_6_bridge_spec.md`
+- `training_data/phase_6_bridge/story_dialogue_progression.md`
 
 Do not implement this during the main Level 1 quality pass.
 Implement it only after:
 - Level 1 audit is complete
 - Level 1 vs phase 1–5 grounding audit is complete
 
-This batch adds bridge concepts such as:
-- become / turn into / shrink / appear / disappear / use up / run out
-- outcome / both / also / but / however / fail
-- only if / in that case / otherwise
-- step / in order
-- eventually / takes time
-- new file: `appearance_and_hidden_state_entries.md`
+This stage now has two tightly related jobs:
+
+1. **Connective tissue concepts**
+   - become / turn into / shrink / appear / disappear / use up / run out
+   - outcome / both / also / but / however / fail
+   - only if / in that case / otherwise
+   - step / in order
+   - eventually / takes time
+   - new file: `appearance_and_hidden_state_entries.md`
+
+2. **Phase 6 bridge curriculum**
+   - teach missing scaffold vocabulary such as `word`, `sentence`, `thought`, `idea`, `true`, `real`, `question`, `answer`, `plan`, and `goal`
+   - teach those words through a small reusable pattern grid rather than as isolated vocabulary only
+   - prepare the dragon for Story Layer 1 without jumping too early into compressed quotation-based dialogue
 
 Purpose:
-- bridge from plain concept definition into hidden-state reasoning, delayed change, outcome tracking, and appearance vs reality
+- bridge from plain concept definition into hidden-state reasoning, delayed change, outcome tracking, appearance vs reality, and basic language-about-language
 - prepare the dragon for better story understanding and later theory-of-mind work
+- introduce the dialogue progression gradually: full proposition in Phase 6 → narrated indirect discourse in Story Layer 1 → quoted dialogue with speaker tags in Story Layer 2 → short elliptical replies only later
 
 Exit condition for this stage:
 - the bridge concepts needed for richer reasoning are present and stable
+- the first Phase 6 bridge files and pattern grid are defined well enough that Story Layer 1 can rely on them
 
 ---
 
@@ -191,11 +204,12 @@ When moving to Level 2:
 Wiki and story layers expand together in a strict alternating pattern:
 
 ```
-Wiki Level 1 → Story Layer 1 → Wiki Level 2 → Story Layer 2 → Wiki Level 3 → Story Layer 3 → ...
+Wiki Level 1 → Story Layer 1 → Wiki Level 2 → Story Layer 2 → post-Level-2 consolidation review → Wiki Level 3 → Story Layer 3 → ...
 ```
 
 After each wiki level, add the corresponding story layer before beginning the next wiki level:
 - Wiki Level 2 → Story Layer 2
+- then run a consolidation quality pass across the bridge/story/wiki stack before opening Wiki Level 3
 - Wiki Level 3 → Story Layer 3
 - and so on
 

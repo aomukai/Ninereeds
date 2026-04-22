@@ -8,6 +8,9 @@ Completed batches and corpus-state notes belong in `training_data/wiki/01_CORPUS
 
 Use this file together with:
 - `docs/training_pipeline.md` — canonical sequence for training, audits, story layers, and Mommy Says Machine evaluation
+- `training_data/phase_6_bridge/README.md` — overview for the post-Phase-5 bridge curriculum
+- `training_data/phase_6_bridge/phase_6_bridge_spec.md` — bridge word families, pattern grid, and implementation contract
+- `training_data/phase_6_bridge/story_dialogue_progression.md` — staged dialogue rollout from bridge files into story layers
 - `training_data/wiki/01_CORPUS_STATUS.md` — history, status, and cleanup notes
 - `training_data/wiki/wiki_category_backlog.md` — strategic backlog and dependency map
 - `training_data/wiki/level1_finish_and_level2_start_plan.md` — trunk cleanup order and overlap hotspots
@@ -230,14 +233,14 @@ That means prioritizing:
     - Ready for story drafting in ChatGPT, Gemini, local models, or other tools.
 
 18. [x] Write a Story Layer rules document after the triplet list is ready
-    Notes:
-    - Created `story_layer_rules.md` with comprehensive rules for Story Layers 1-4.
-    - Sentence-length targets: Layer 1 (5-10 words), Layer 2 (8-15), Layer 3 (10-18), Layer 4 (12-20).
-    - Five-dimension cognitive-load framework: sentence length, concept count, causation, temporality, contrast.
-    - Truthfulness rules cover: certainty, "I don't know," lookup/ask-for-help, and uncertainty-not-worth-pursuing cases.
-    - Quality checklist and failure modes section for quality passes.
-    - Example prompts for external model story generation included.
-    - Document usable as prompt/rubric for drafting and quality assurance.
+   Notes:
+   - Created `story_layer_rules.md` with comprehensive rules for Story Layers 1-4.
+   - Sentence-length targets: Layer 3 (10-18), Layer 4 (12-20), with Layer 1 / Layer 2 now superseded for rewrite-stage work by `training_data/triplet_stories/story_tier_specs.md`.
+   - Five-dimension cognitive-load framework: sentence length, concept count, causation, temporality, contrast.
+   - Truthfulness rules cover: certainty, "I don't know," lookup/ask-for-help, and uncertainty-not-worth-pursuing cases.
+   - Quality checklist and failure modes section for quality passes.
+   - Example prompts for external model story generation included.
+   - Document usable as prompt/rubric for drafting and quality assurance.
 
 19. [x] Document and follow the alternating expansion cadence: Wiki Level 1 → Stories 1 → Wiki Level 2 → Stories 2 → later wiki/story pairs
    Notes:
@@ -251,41 +254,61 @@ That means prioritizing:
    - Updated Level 2 start criteria to include "Story Layer 1 is complete" as a prerequisite.
    - Added cross-reference in `docs/training_pipeline.md` Stage 7 to point to the detailed cadence rules.
 
-### E. Level 2 queue setup
+### E. Phase 6 bridge and story-dialogue infrastructure
 
-20. [x] Pause the hourly wiki implementation cron while Level 2 planning replaces the old queue
+20. [ ] Complete the Phase 6 bridge manifest and first file-order plan for Claude Code weekend work
+   Notes:
+   - Use `training_data/phase_6_bridge/phase_6_bridge_spec.md` as the canonical design brief.
+   - Produce a `training_data/phase_6_bridge/phase_6_bridge_manifest.md` that lists the first bridge families, planned file names, dependency order, and minimal pattern grid obligations per file.
+   - Keep the first batch small and high-leverage: meta-language, thought/knowledge, truth/reasoning, communication, and planning/sequence.
+
+21. [ ] Draft the first Phase 6 bridge curriculum batch in repo-native format and audit it for vocabulary leakage
+   Notes:
+   - Stay as close as possible to the existing Phase 1–5 curriculum format unless a human explicitly approves a divergence.
+   - Reuse the minimal pattern grid rather than inventing many one-off sentence shapes.
+   - Verify every new file against earlier curriculum support and the bridge dependency order before treating the batch as valid.
+
+22. [ ] Update story-generation infrastructure so dialogue enters in the staged progression instead of collapsing too early into quoted speech
+   Notes:
+   - Use `training_data/phase_6_bridge/story_dialogue_progression.md`, `training_data/wiki/story_layer_rules.md`, and `training_data/triplet_stories/story_tier_specs.md` as the canonical reference set.
+   - Keep Tier 1 free of raw quoted dialogue by default, allow Tier 2 quoted dialogue with explicit speaker tags only where useful, and reserve short elliptical dialogue for Story Layer 3+.
+   - Sync any affected story prompt/rubric docs so Claude Code can work from one consistent rule set.
+
+### F. Level 2 queue setup
+
+23. [x] Pause the hourly wiki implementation cron while Level 2 planning replaces the old queue
    Notes:
    - Paused cron job `hourly-wiki-implementation` (`795c8123f2ae`) to stop burning tokens on an exhausted queue.
 
-21. [x] Run a file-level Level 2 expansion assessment before creating the real Level 2 batch
+24. [x] Run a file-level Level 2 expansion assessment before creating the real Level 2 batch
    Notes:
    - Created `training_data/wiki/wiki_level2_expansion_assessment.md`.
    - Assessed current Level 1 files into 3 buckets: 12 expand-now candidates, 16 conditional/later candidates, and 84 keep-at-Level-1 files.
    - Used `level1_finish_and_level2_start_plan.md` explicit candidates/compact-file guidance plus role-group rules from `01_CORPUS_STATUS.md`.
 
-22. [x] Filter the dedicated Wiki Level 2 queue so it only includes files that actually justify expansion
+25. [x] Filter the dedicated Wiki Level 2 queue so it only includes files that actually justify expansion
    Notes:
    - Rewrote `training_data/wiki/wiki_level2_queue.md` as a filtered queue for dedicated Level 2 expansion articles only.
    - Queue now contains 12 approved expand-now file containers across 4 passes: creation, quality, gaps, dependencies.
    - Each queued file must be treated as a container whose entries are evaluated individually for escalation.
    - Queue rule is still one file container at a time, preserving the same file order across all passes unless a human reprioritizes it.
 
-23. [x] Create scaffold files for the approved Level 2 article batch
+26. [x] Create scaffold files for the approved Level 2 article batch
    Notes:
    - Created `training_data/wiki/level2_articles/` with 12 scaffold files and `level2_articles_manifest.md`.
    - Scaffold creation is planning structure only, not completed content-writing.
 
-24. [x] Build an entry-level expansion index so file-level queue runs do not hide per-entry decisions
+27. [x] Build an entry-level expansion index so file-level queue runs do not hide per-entry decisions
    Notes:
    - Created `training_data/wiki/wiki_entry_expansion_index.md` and `training_data/wiki/wiki_entry_expansion_index.csv`.
    - Index treats each Level 1 entry as its own entity and records whether it currently remains Level 1 or is detected in a written Level 2 article.
    - File-level docs now explicitly point to the entry-level index as the canonical entity view.
 
-25. [x] Review the Story Layer 1 / connective-tissue gate before actual Level 2 writing begins
+28. [x] Review the Story Layer 1 / connective-tissue gate before actual Level 2 writing begins
    Notes:
    - User explicitly approved the per-file Claude-driven expansion workflow and allowed Level 2 article writing to begin one file container at a time.
 
-26. [ ] Continue the Level 2 queue from `wiki_level2_queue.md`, one file container at a time
+29. [ ] Continue the Level 2 queue from `wiki_level2_queue.md`, one file container at a time
    Notes:
    - Earlier file-level creation results have been rechecked under the new entry-level workflow.
    - Existing Level 2 drafts remain repairable artifacts, but the queue now runs on per-entry accounting.
@@ -321,7 +344,7 @@ That means prioritizing:
    - Dependency pass completed for `technology_and_digital_media_entries.md` (2026-04-21): existing 5/9 split retained (advanced: `phone`, `tablet`, `computer`, `video`, `app`; stayed L1: `technology`, `screen`, `message`, `swipe`, `tap`, `TV`, `keyboard`, `photo`, `username`). Metadata-only completion: dependencies were verified against `online_safety_and_privacy_entries.md` (password, personal information, screen time, ask a grown-up), `growth_and_life_stages_human_entries.md` (child, grown-up, adult), `people_roles_entries.md` (family), `emotions_entries.md` (fear, worry, trust, tiredness), `logic_entries.md` (true, false, truth, lie, problem, rule), `safety_rules_and_emergency_awareness_entries.md` (safety, careful), `manners_politeness_and_social_etiquette_entries.md` (please, may I, politeness), `inclusion_bullying_and_kindness_entries.md` (respect), `boundaries_and_consent_entries.md` (consent), `money_trade_and_shopping_entries.md` (money), `time_entries.md` (time), `body_parts_entries.md` (eye), `sleep_and_rest_entries.md` (rest, bedtime concepts), `meals_and_mealtime_talk_entries.md` (meal), `accidents_and_mistakes_entries.md` (accident), and `simple_physics_energy_and_power_entries.md` (power, energy), so no article-body changes were needed. Level 2 remains the ceiling and the next dependency-pass file is `health_and_wellness_entries.md`.
    - Dependency pass completed for `health_and_wellness_entries.md` (2026-04-21): existing 12/5 split retained (advanced: `fever`, `cough`, `sore throat`, `headache`, `stomachache`, `cut`, `bruise`, `medicine`, `germ`, `sneeze`, `runny nose`, `checkup`; stayed L1: `health`, `wellness`, `bandage`, `rash`, `allergy`). Metadata-only completion: dependencies were verified against `body_parts_entries.md` (head, face, hand, finger, nose, mouth, ear, eye, belly, chest, knee, forehead), `body_states_and_internal_cues_entries.md` (dizzy, sore, shiver, tummy hurts), `growth_and_life_stages_human_entries.md` (child, adult, grown-up), `daily_routines_and_self_care_entries.md` (wash hands, routine), `sleep_and_rest_entries.md` (rest, sleepy), `community_places_and_services_entries.md` (hospital, clinic, pharmacy), `professions_entries.md` (doctor, nurse), `foods_and_drinks_entries.md` (water, food, soup), `emotions_entries.md` (fear, worry, pain, comfort, tiredness, relief, calmness, nervousness), `school_life_and_learning_entries.md` (school, homework, test), and `measurement_and_comparison_entries.md` (temperature), so no article-body changes were needed. Level 2 remains the ceiling and the next dependency-pass file is `storytelling_and_narrative_structure_entries.md`.
 
-27. [x] Add missing law/safety role anchors: `police` and `police officer`
+30. [x] Add missing law/safety role anchors: `police` and `police officer`
    Notes:
    - Added `police` to `community_places_and_services_entries.md` as the broader community-safety/institution anchor.
    - Added `police officer` to `professions_entries.md` as the person-role/job anchor.
@@ -338,12 +361,102 @@ That means prioritizing:
    - Completed entry-level creation-pass review for `perspective_taking_and_theory_of_mind_entries.md`: 6 entries advanced to Level 2 (`perspective`, `believe`, `misunderstand`, `I thought`, `he didn't know that`, `put yourself in someone else's place`) and 2 stayed Level 1 (`they felt`, `she wanted`).
    - Completed entry-level creation-pass for `evidence_and_justification_entries.md`: 4 entries advanced to Level 2 (`justification`, `reason why`, `example`, `that proves`) and 5 stayed Level 1 (`because I saw it`, `I know this because`, `for instance`, `I can show you`, `back it up`).
 
+31. [ ] Review, clean up, and selectively rewrite the first `training_data/triplet_stories/` Tier 1 batch after the current higher-priority queue is finished, **one file at a time**
+   Notes:
+   - User created the first story batch under `training_data/triplet_stories/tier_1/`.
+   - Current folder contains 10 domain files: `animals_and_nature.md`, `body_and_health.md`, `food_and_meals.md`, `home_and_daily_life.md`, `people_and_relationships.md`, `play_and_games.md`, `school_and_learning.md`, `tools_and_making.md`, `vehicles_and_travel.md`, and `weather_and_seasons.md`.
+   - Use `training_data/triplet_stories/story_tier_specs.md` as the canonical rewrite-stage spec.
+   - Claude review guidance now lives in `training_data/triplet_stories/review_notes.md`.
+   - The canonical one-file-at-a-time queue now lives in `training_data/triplet_stories/review_queue.md`.
+   - Follow that queue in order instead of trying to repair all 10 files / 200 stories in one run.
+   - This is appended low-priority work; do not pull it ahead of the existing Phase 6 / story-dialogue / Level 2 tasks.
+   - For each selected file, verify grounding, sentence simplicity, story-layer fit, Tier 1 sentence count / pronoun-introduction behavior, ending shape, dialogue staging, and whether the file needs cleanup or real rewrite.
+
+32. [ ] Expand `training_data/triplet_stories/story_tier_specs.md` so it also defines Tier 3 and Tier 4 shape/goals before any Tier 3 or Tier 4 batch work starts
+   Notes:
+   - Keep one canonical story-rule document for all active rewrite/create tiers.
+   - Preserve the current Tier 1 / Tier 2 spec while adding Tier 3 / Tier 4 in the same style: sentence count, narrative burden, reference handling, dialogue rules, and what each tier is supposed to teach.
+   - After updating the spec, sync any conflicting guidance in `training_data/wiki/story_layer_rules.md`, queue files, or prompt notes so there is still one rule set everywhere.
+
+33. [ ] Create the Tier 2 story batch from the cleaned Tier 1 files, **one file at a time**
+   Notes:
+   - Use `training_data/triplet_stories/tier_2/review_queue.md`, `training_data/triplet_stories/story_tier_specs.md`, and `training_data/wiki/story_layer_rules.md`.
+   - Keep the canonical creation order in `training_data/triplet_stories/tier_2/review_queue.md` unless a human reprioritizes it.
+   - Do not try to create all Tier 2 files in one run; keep it one domain file at a time.
+   - Tier 2 should preserve grounded vocabulary, use the Tier 2 shape/goals from the spec, and keep any dialogue clear and sparing; quoted dialogue with explicit speaker tags is allowed when useful but should not become the default pattern.
+   - Tier 2 is also the point where recurring named characters may be introduced (for example, `a boy named Timmy`), and any chosen name should be recorded in `training_data/triplet_stories/character_registry.md` and then reused consistently in the matching Tier 3 and Tier 4 story thread.
+
+34. [ ] Set up the canonical Tier 3 queue/review files inside the existing `training_data/triplet_stories/tier_3/` folder before Tier 3 drafting starts
+   Notes:
+   - The `training_data/triplet_stories/tier_3/` folder already exists; the missing pieces are the canonical queue/review docs inside it.
+   - Create those Tier 3 queue/review docs under `training_data/triplet_stories/tier_3/` rather than treating Tier 3 as an all-at-once generation job.
+   - The queue should preserve domain order unless a human reprioritizes it.
+   - Use the expanded `story_tier_specs.md` as the canonical Tier 3 rule source.
+
+35. [ ] Create the Tier 3 story batch from the completed Tier 2 files, **one file at a time**
+   Notes:
+   - Do not start until Tier 3 rules exist in `story_tier_specs.md` and the Tier 3 queue docs exist.
+   - Keep Tier 3 creation scoped to one selected domain file per run so Claude does not get lost in a giant batch.
+   - Reuse recurring names and continuity decisions from `training_data/triplet_stories/character_registry.md`.
+
+36. [ ] Set up the canonical Tier 4 queue/review files inside the existing `training_data/triplet_stories/tier_4/` folder before Tier 4 drafting starts
+   Notes:
+   - The `training_data/triplet_stories/tier_4/` folder already exists; the missing pieces are the canonical queue/review docs inside it.
+   - Create those Tier 4 queue/review docs under `training_data/triplet_stories/tier_4/` rather than treating Tier 4 as an all-at-once generation job.
+   - The queue should preserve domain order unless a human reprioritizes it.
+   - Use the expanded `story_tier_specs.md` as the canonical Tier 4 rule source.
+
+37. [ ] Create the Tier 4 story batch from the completed Tier 3 files, **one file at a time**
+   Notes:
+   - Do not start until Tier 4 rules exist in `story_tier_specs.md` and the Tier 4 queue docs exist.
+   - Keep Tier 4 creation scoped to one selected domain file per run so Claude does not get lost in a giant batch.
+   - Reuse recurring names and continuity decisions from `training_data/triplet_stories/character_registry.md`.
+
+38. [ ] Create a canonical uncovered-word routing file for concepts still not covered across Phase 1–6 / bridge / wiki / story layers
+   Notes:
+   - Create a file such as `training_data/uncovered_words_routing.md`.
+   - The file should list words or compact word families that are still uncovered.
+   - For each item, add a routing comment in one of these forms: `should be introduced in phase N`, `should be taught in wiki level N`, or `should be introduced in phase N and taught in wiki level N`.
+   - Treat this as a curriculum-routing ledger, not a dumping ground for giant raw word lists.
+
+39. [ ] Build the uncovered-word routing file in small audited batches instead of one giant pass
+   Notes:
+   - Keep each run scoped to a manageable batch (for example one domain, one source file cluster, or one compact alphabet slice).
+   - Verify each candidate against existing Phase 1–6, wiki, and story coverage before adding it.
+   - Prefer compact grouped updates with explicit notes over a mountain of unreviewed words.
+
+40. [ ] Run the post-Wiki-Level-2 quality pass on the Phase 6 bridge files, one file at a time
+   Notes:
+   - Use `training_data/phase_6_bridge/review_queue.md`.
+   - This pass happens after the first usable Phase 6 bridge batch exists, after Story Tier 1 exists, after Wiki Level 2 exists, and after Story Tier 2 exists.
+   - Goal: verify the bridge still cleanly supports the later stack before moving on to Wiki Level 3.
+
+41. [ ] Run the post-Wiki-Level-2 quality pass on Story Tier 1, one file at a time
+   Notes:
+   - Use `training_data/triplet_stories/tier_1/post_level2_review_queue.md`.
+   - Goal: verify Tier 1 still reads as the simplest stable story layer after the bridge and later layers exist.
+
+42. [ ] Run the post-Wiki-Level-2 quality pass on the dedicated Wiki Level 2 batch, one file at a time
+   Notes:
+   - Use `training_data/wiki/wiki_level2_post_review_queue.md`.
+   - Goal: verify the written Level 2 files still earn their tokens and remain stable before any Level 3 work begins.
+
+43. [ ] Run the post-Wiki-Level-2 quality pass on Story Tier 2, one file at a time
+   Notes:
+   - Use `training_data/triplet_stories/tier_2/post_level2_review_queue.md`.
+   - Goal: verify Tier 2 kept the intended 12-sentence shape, simple causation, dialogue staging, and recurring-character consistency rules.
+
+44. [ ] Only after Tasks 40–43 are complete, open the Wiki Level 3 planning/review gate
+   Notes:
+   - Do not start Wiki Level 3 immediately after Story Tier 2.
+   - First confirm that Phase 6, Story Tier 1, Wiki Level 2, and Story Tier 2 are all clean enough after the consolidation pass.
+   - Use this as the explicit gate before any new Level 3 queue or expansion planning begins.
 ---
 
 ## Deferred until the comprehension pass is stable
 
 - Level 2 branching and richer snowflake expansion
-- `00_ideas.md` connective-tissue batch
+- Large-scale connective-tissue content expansion beyond the new Phase 6 bridge planning/spec work
 - New category creation unless the dependency audit proves it is necessary
 
 ---

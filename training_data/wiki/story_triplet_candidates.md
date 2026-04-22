@@ -23,7 +23,7 @@ The triplets are grouped by domain to make it easier to generate thematically re
 
 These triplets draw from:
 
-- **Phase 1–5 curriculum** (352 files): concrete nouns, animals, foods, body parts, tools, places, clothing, vehicles
+- **Phase 1–5 curriculum** (353 files): concrete nouns, animals, foods, body parts, tools, places, clothing, vehicles
 - **Wiki Level 1** (88 categories): daily routines, emotions, social interactions, safety, school, play, nature, community
 
 ---
@@ -330,18 +330,20 @@ These triplets focus on tools, building, and creating.
 
 ## Usage notes
 
-1. **Story length target**: Story Layer 1 stories should be 3–6 sentences, using simple sentence structures.
-2. **No new vocabulary**: All words in stories must already exist in curriculum or wiki.
-3. **Truthfulness**: Stories should describe realistic scenarios a child might experience or observe.
-4. **Variation**: Each triplet can generate multiple story variants by changing details while keeping the core interaction.
-5. **Avoid**: Abstract reasoning, hypotheticals, negation-heavy structures, or vocabulary not yet grounded.
+1. **Canonical Tier 1 spec**: Use `training_data/triplet_stories/story_tier_specs.md` as the active Tier 1/Tier 2 rewrite-stage spec.
+2. **Story length target**: Current Tier 1 rewrite-stage stories should be 8 sentences, centered on one small concrete event.
+3. **No new vocabulary**: All words in stories must already exist in curriculum or wiki.
+4. **Truthfulness**: Stories should describe realistic scenarios a child might experience or observe.
+5. **Variation**: Each triplet can generate multiple story variants by changing details while keeping the core interaction.
+6. **Avoid**: Abstract reasoning, hypotheticals, negation-heavy structures, or vocabulary not yet grounded.
+7. **Dialogue staging**: For Tier 1, do not make raw quoted dialogue the default pattern yet.
 
 ---
 
 ## How to use this file
 
 1. **Select triplets** relevant to the story batch you want to create.
-2. **Draft stories** using the anchor as the main subject and supports as setting/action context.
+2. **Draft stories** using the active tier spec in `training_data/triplet_stories/story_tier_specs.md`.
 3. **Verify vocabulary** against Phase 1–5 concept_index.md and wiki entries.
 4. **Keep stories concrete** and daily-life oriented.
 5. **Generate variations** by changing minor details while preserving the triplet core.
@@ -354,15 +356,17 @@ These triplets focus on tools, building, and creating.
 
 **Story draft**:
 ```
-A bird lives in a tree.
-The bird builds a nest.
-The nest is in the branches.
-The bird brings twigs to the nest.
-The nest keeps the eggs safe.
-A bird is not a butterfly.
+High in a tree, a bird looks for twigs.
+The bird finds a good branch for a nest.
+One twig comes back in its beak.
+Then another twig comes back too.
+Soon the nest starts to take shape.
+It rests between the leaves on the branch.
+The bird steps inside to test the soft spot.
+For a moment, it stays there and rests.
 ```
 
-This example shows how a triplet expands into a simple, grounded story with the contrast convention from wiki entries.
+This example shows how a triplet expands into a simple, grounded Tier 1 story scene.
 
 ---
 

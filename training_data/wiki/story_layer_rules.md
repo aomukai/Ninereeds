@@ -5,6 +5,7 @@ Canonical rules for writing, reviewing, and evaluating Story Layer content.
 This document serves as the prompt/rubric when drafting stories in external models (ChatGPT, Gemini, local models) and during quality-assurance passes.
 
 Use this file together with:
+- `training_data/triplet_stories/story_tier_specs.md` — canonical Tier 1 / Tier 2 rewrite-stage shape and goals
 - `training_data/wiki/story_triplet_candidates.md` — semantically coherent triplets for story generation
 - `docs/training_pipeline.md` — canonical training sequence and stage definitions
 - `training_data/wiki/02_wiki_implementation_todo.md` — active working queue
@@ -59,7 +60,27 @@ Instead, increase complexity through:
 
 The dragon should never feel surprised by the training content. It should feel gradually stretched.
 
-### 4. Concrete and daily-life
+### 5. Dialogue enters in stages
+
+Do not jump directly from definitional curriculum files into highly compressed quoted dialogue.
+
+Use this progression:
+- **Phase 6 bridge:** explicit proposition form
+  - `What is a dog?`
+  - `A dog is an animal.`
+- **Story Layer 1:** narrated indirect discourse
+  - `The child asks what a dog is.`
+  - `The teacher says a dog is an animal.`
+- **Story Layer 2:** quoted dialogue with speaker tags
+  - `"What is a dog?" the child asks.`
+  - `"A dog is an animal," the teacher says.`
+- **Story Layer 3+:** only then allow short elliptical dialogue
+  - `"What is that?"`
+  - `"A dog."`
+
+This progression avoids early collapse by keeping the referent, proposition, and speaker roles explicit before later compression.
+
+### 6. Concrete and daily-life
 
 Stories describe situations a child might experience or observe:
 - home routines
@@ -81,49 +102,62 @@ Avoid:
 
 ### Story Layer 1
 
-**Sentence length target:** 5–10 words per sentence
-**Story length:** 3–6 sentences
-**Structure:** One anchor concept + two supporting concepts
+**Canonical rewrite-stage spec:** `training_data/triplet_stories/story_tier_specs.md`
+
+**Sentence length target:** short to medium child-readable sentences, usually about 5–10 words
+**Story length:** 8 sentences
+**Structure:** one anchor concept + two supporting concepts + one small concrete event
 
 Characteristics:
-- simple subject-verb-object sentences
-- no compound or complex sentences
-- no "because" (causal chains come later)
-- no "but" or "however" (contrast connectives come later)
-- all concepts are concrete and grounded
+- one main subject only
+- clear beginning, middle, and end
+- simple visible action over abstract explanation
+- basic pronoun use is allowed only after the main subject is clearly introduced
+- do not force names, multi-character tracking, or heavy discourse variation yet
 
 Example triplet: `bird + nest + tree`
 
-Example story:
+Example story shape:
 ```
-A bird lives in a tree.
-The bird builds a nest.
-The nest is in the branches.
-The bird brings twigs to the nest.
-The nest keeps the eggs safe.
-A bird is not a butterfly.
+[clear subject introduction]
+[support concept enters the scene]
+[simple action]
+[another simple action]
+[support concept matters again]
+[safe pronoun use if clear]
+[small settling or result]
+[end inside the scene]
 ```
 
 ### Story Layer 2
 
-**Sentence length target:** 8–15 words per sentence
-**Story length:** 5–10 sentences
-**Structure:** Anchor + 2–3 supporting concepts + one simple causal or temporal link
+**Canonical rewrite-stage spec:** `training_data/triplet_stories/story_tier_specs.md`
+
+**Sentence length target:** short to medium child-readable sentences, often about 8–15 words
+**Story length:** 12 sentences
+**Structure:** one anchor + two supporting concepts + a longer event chain with one mild obstacle or change
 
 Characteristics:
-- "and" is allowed
-- "then" is allowed (temporal sequence)
-- limited "because" (one per story, simple causation)
-- no complex conditionals
-- slightly varied sentence openings
+- scene-setting may come before the main subject introduction
+- named characters may be introduced where useful (for example, `a boy named Timmy`)
+- if a Tier 2 story assigns a recurring name, that name should be kept consistent in the corresponding Tier 3 and Tier 4 story thread via `training_data/triplet_stories/character_registry.md`
+- noun → name → pronoun alternation should stay clear and easy to follow
+- `and` is allowed
+- `then` is allowed (temporal sequence)
+- limited `because` is allowed (one simple causation per story)
+- quoted dialogue with explicit speaker tags may appear where useful, but should not become the default pattern yet
+- avoid complex conditionals and adult-sounding prose
 
 Example structure:
 ```
-[Setup]
-[First action]
-[Second action with "then"]
-[Simple result with "because"]
-[Optional contrast]
+[scene-setting]
+[main subject introduction]
+[name if useful]
+[first action]
+[support concept in action]
+[longer event chain]
+[one mild obstacle, delay, or surprise]
+[clear resolution or settling point]
 ```
 
 ### Story Layer 3
@@ -168,8 +202,8 @@ Each story level adds load along one or two dimensions while keeping others stab
 
 | Level | Sentence length | Concepts | Causation | Temporality | Contrast |
 |-------|-----------------|----------|-----------|-------------|----------|
-| 1     | 5–10 words      | 3        | none      | none        | final sentence only |
-| 2     | 8–15 words      | 3–4      | 1 simple  | yes         | none     |
+| 1     | 5–10 words      | 3        | none      | light event sequencing only | noun-to-pronoun introduction only |
+| 2     | 8–15 words      | 3–4      | 1 simple  | yes         | noun → name → pronoun clarity |
 | 3     | 10–18 words     | 4–5      | 1 chain   | yes         | 1        |
 | 4     | 12–20 words     | 5–6      | 2+ links  | yes         | 1–2      |
 
@@ -245,7 +279,7 @@ The dragon should learn:
 - Words not yet grounded in curriculum or wiki
 - Technical terms
 - Idioms or slang
-- Pronouns in Story Layer 1 (introduce gradually in Layer 2+)
+- unclear pronouns in Story Layer 1
 
 ### Verification step
 
@@ -256,17 +290,11 @@ Before finalizing a story:
 
 ---
 
-## Contrast Convention
+## Ending Convention
 
-Every story should end with one contrast line, following the wiki convention:
+Stories should usually end inside the scene rather than with a definition, slogan, or moral.
 
-```
-A bird is not a butterfly.
-A dog is not a cat.
-A nest is not a cave.
-```
-
-This reinforces category boundaries and prevents overgeneralization.
+If a contrast line is used, it must feel grounded and helpful rather than mechanically appended.
 
 ---
 
@@ -275,12 +303,12 @@ This reinforces category boundaries and prevents overgeneralization.
 When drafting stories in external models:
 
 1. **Select triplet** from `story_triplet_candidates.md`
-2. **Set constraints** using this document as the prompt/rubric
+2. **Set constraints** using this document together with `training_data/triplet_stories/story_tier_specs.md`
 3. **Generate draft** following the appropriate story level rules
 4. **Verify vocabulary** against Phase 1–5 and Wiki Level 1
-5. **Add contrast line** if missing
+5. **Check ending shape** — end inside the scene unless a grounded contrast is genuinely useful
 6. **Check truthfulness** — remove speculation, pretend-certainty, or forced conflict
-7. **Trim if needed** — shorter is usually better at early levels
+7. **Trim if needed** — keep early levels tight and readable
 
 ---
 
@@ -292,12 +320,12 @@ Use this checklist during quality passes:
 - [ ] Sentence length within target range for level
 - [ ] Story length within target range for level
 - [ ] All triplet concepts appear in the story
-- [ ] Contrast line present at the end
+- [ ] Ending matches the current tier spec
 
 ### Vocabulary
 - [ ] All nouns grounded in curriculum or wiki
 - [ ] All verbs grounded in curriculum or wiki
-- [ ] No pronouns in Layer 1
+- [ ] Tier 1 pronouns appear only after the main subject is clearly introduced
 - [ ] No ungrounded words
 
 ### Cognitive load
@@ -352,11 +380,11 @@ Characters claiming to know things they could not know.
 
 Fix: Use "I don't know" or "maybe" when appropriate.
 
-### 6. Missing contrast line
+### 6. Weak ending shape
 
-Stories that end without the contrast convention.
+Stories that end weakly because an old contrast template was removed but nothing better replaced it.
 
-Fix: Add a contrast line from the triplet's concept space.
+Fix: End inside the scene, or use a grounded contrast only when it truly helps.
 
 ---
 
@@ -367,13 +395,14 @@ Use these prompts when generating stories in ChatGPT, Gemini, or local models.
 ### Story Layer 1 prompt
 
 ```
-Write a 3–6 sentence story using these three concepts: [anchor], [support1], [support2].
+Write an 8-sentence Tier 1 story using these three concepts: [anchor], [support1], [support2].
 
 Rules:
-- Each sentence should be 5–10 words
-- Use only simple subject-verb-object sentences
-- No "because," "but," or "however"
-- The last sentence must be a contrast: "A [anchor] is not a [different concept]."
+- Keep the story concrete and easy for a young child to picture
+- Use one main subject only
+- Introduce the main subject clearly before using he, she, or it
+- Show one small event using the anchor and both support concepts
+- End inside the scene
 - All vocabulary must be concrete and child-friendly
 - No surprises or twists — just describe what happens
 ```
@@ -381,14 +410,17 @@ Rules:
 ### Story Layer 2 prompt
 
 ```
-Write a 5–10 sentence story using these concepts: [anchor], [support1], [support2].
+Write a 12-sentence Tier 2 story using these concepts: [anchor], [support1], [support2].
 
 Rules:
-- Each sentence should be 8–15 words
+- Set the scene before or around the main subject when useful
+- A simple recurring name may be introduced for the main subject
+- Use a longer event chain with one mild obstacle, delay, or change
+- Keep noun → name → pronoun references easy to follow
 - You may use "and" and "then"
 - You may use "because" once for a simple cause-effect
-- The last sentence must be a contrast
-- No surprises or twists — gradual complexity only
+- Quoted dialogue with speaker tags is allowed when useful but should not become the default pattern
+- End inside the scene
 - All vocabulary must come from grounded sources
 ```
 

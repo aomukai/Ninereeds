@@ -197,8 +197,8 @@ Wiki Level 1 → Story Layer 1 → Wiki Level 2 → Story Layer 2 → Wiki Level
 
 | Wiki Level | Followed by | Story scope |
 |------------|-------------|-------------|
-| Level 1 | Story Layer 1 | Vocabulary from Phase 1–5 + Wiki Level 1. Simple sentences (5–10 words). No causation or contrast connectives. |
-| Level 2 | Story Layer 2 | Adds Wiki Level 2 vocabulary. Allows "and," "then," limited "because." |
+| Level 1 | Story Layer 1 | Vocabulary from Phase 1–5 + Wiki Level 1. For the current rewrite-stage spec, use `training_data/triplet_stories/story_tier_specs.md`: 8 sentences, one small concrete event, one main subject, first safe pronoun use only after clear introduction. |
+| Level 2 | Story Layer 2 | Adds Wiki Level 2 vocabulary. For the current rewrite-stage spec, use `training_data/triplet_stories/story_tier_specs.md`: 12 sentences, scene-setting, longer event chains, optional named characters, clear noun → name → pronoun handling, and at most one mild obstacle or change. |
 | Level 3 | Story Layer 3 | Adds Wiki Level 3 vocabulary. Allows "but," one causal chain, one comparison. |
 | Level 4 | Story Layer 4 | Adds Wiki Level 4 vocabulary. Allows multiple cause-effect links and explicit reasoning. |
 
