@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import subprocess
 import sys
@@ -14,6 +15,10 @@ WIKI_DIR = REPO_ROOT / "training_data" / "wiki"
 TODO_PATH = WIKI_DIR / "02_wiki_implementation_todo.md"
 LOG_PATH = WIKI_DIR / "wiki_implementation_run_log.md"
 MAX_TURNS = "18"
+EXECUTOR_NAME = "Gemini CLI"
+EXECUTOR_COMMAND = "gemini"
+EXECUTOR_MODEL = "gemini-3-flash-preview"
+HERMES_ENV_PATH = Path.home() / ".hermes" / ".env"
 
 CHECKBOX_RE = re.compile(r"^(?P<prefix>\s*(?:\d+\.|[-*])\s+)\[(?P<mark>[ xX])\]\s+(?P<item>.+?)\s*$")
 RATE_LIMIT_PATTERNS = [
@@ -111,12 +116,27 @@ def append_log(
         handle.write("\n".join(lines))
 
 
-def run(command: list[str], cwd: Path) -> subprocess.CompletedProcess[str]:
+def load_hermes_env() -> dict[str, str]:
+    env = os.environ.copy()
+    if not HERMES_ENV_PATH.exists():
+        return env
+
+    for raw_line in HERMES_ENV_PATH.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        env.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+    return env
+
+
+def run(command: list[str], cwd: Path, env: Optional[dict[str, str]] = None) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
         command,
         cwd=str(cwd),
         text=True,
         capture_output=True,
+        env=env,
     )
 
 
@@ -131,7 +151,7 @@ def classify_rate_limit(text: str) -> Optional[str]:
     return None
 
 
-def parse_claude_json(stdout: str) -> dict:
+def parse_executor_json(stdout: str) -> dict:
     return json.loads(stdout)
 
 
@@ -259,20 +279,19 @@ def main() -> int:
     step_number = next_item.get("step_number")
     prompt = build_prompt(todo_path, item, step_number)
     before_state = get_repo_state()
+    env = load_hermes_env()
     command = [
-        "claude",
+        EXECUTOR_COMMAND,
         "-p",
         prompt,
+        "--model",
+        EXECUTOR_MODEL,
         "--output-format",
         "json",
-        "--permission-mode",
-        "bypassPermissions",
-        "--allowedTools",
-        "Read,Edit,Write,Bash",
-        "--max-turns",
-        MAX_TURNS,
+        "--approval-mode",
+        "yolo",
     ]
-    result = run(command, REPO_ROOT)
+    result = run(command, REPO_ROOT, env=env)
     combined_output = (result.stdout or "") + "\n" + (result.stderr or "")
     rate_limit_type = classify_rate_limit(combined_output)
 
@@ -293,27 +312,27 @@ def main() -> int:
             limit_label = limit_label_map[refined_rate_limit_type]
             if rate_limit_type == "unknown" and refined_rate_limit_type == "weekly":
                 summary = (
-                    "Claude Code hit a rate limit again. Based on the recent cron history "
+                    f"{EXECUTOR_NAME} hit a rate limit again. Based on the recent cron history "
                     "(this run plus either a 6-run streak or 5 of the last 10 logged entries also being rate-limited), "
                     "this is likely the weekly cap. Skipping this run and retrying next hour."
                 )
                 status = "weekly-cap-likely-skip"
             else:
-                summary = f"Claude Code hit a {limit_label}. Skipping this run and retrying next hour."
+                summary = f"{EXECUTOR_NAME} hit a {limit_label}. Skipping this run and retrying next hour."
                 status = "rate-limited-skip"
             display_summary = format_summary_with_step(summary, step_number)
             append_log(status, todo_path, item, summary, step_number=step_number, extra=combined_output[-4000:])
             print(display_summary)
             return 0
-        summary = f"Claude Code failed with exit code {result.returncode}."
+        summary = f"{EXECUTOR_NAME} failed with exit code {result.returncode}."
         append_log("error", todo_path, item, summary, step_number=step_number, extra=combined_output[-4000:])
         print(format_summary_with_step(summary, step_number))
         print(combined_output)
         return result.returncode
 
     try:
-        payload = parse_claude_json(result.stdout)
-        claude_text = payload.get("result", "").strip()
+        payload = parse_executor_json(result.stdout)
+        claude_text = (payload.get("response") or payload.get("result") or "").strip()
     except json.JSONDecodeError:
         claude_text = result.stdout.strip()
 
@@ -323,7 +342,7 @@ def main() -> int:
     status_match = re.search(r"^STATUS:\s*(.+)$", claude_text, re.MULTILINE)
     summary_match = re.search(r"^SUMMARY:\s*(.+)$", claude_text, re.MULTILINE)
     status = status_match.group(1).strip() if status_match else "completed"
-    summary = summary_match.group(1).strip() if summary_match else "Claude Code completed the run."
+    summary = summary_match.group(1).strip() if summary_match else f"{EXECUTOR_NAME} completed the run."
 
     append_log(status, todo_path, item, summary, step_number=step_number, changed_files=changed_files, extra=claude_text[-4000:])
     print(format_summary_with_step(summary, step_number))

@@ -5,7 +5,7 @@
 ## 1. Purpose
 
 The Mommy Says Machine is a **diagnostic and training data 
-generation tool** for the BDH language model.
+generation tool** for **Ninereeds**, the model being built on the BDH architecture.
 
 It is not a trainer.
 It does not modify model weights.
@@ -35,7 +35,7 @@ correction pairs for use in a subsequent clean training run.
 
 | Component | Role |
 |---|---|
-| Dragon | Student. Local BDH model, frozen. Read-only. |
+| Dragon / Ninereeds | Student. Local Ninereeds checkpoint on the BDH architecture, frozen. Read-only. |
 | Teacher | Nemotron 3 Super 120B via build.nvidia.com API |
 | Hermes Agent | Orchestration. Manages the run loop. |
 | Vocab Guard | Validates vocabulary in all exchanges. |

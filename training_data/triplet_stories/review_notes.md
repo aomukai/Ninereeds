@@ -1,4 +1,4 @@
-# Triplet Stories Batch — Review Notes for Claude Code
+# Triplet Stories Batch — Review Notes for Gemini CLI
 
 Review target:
 - `training_data/triplet_stories/tier_1/`
@@ -152,7 +152,7 @@ Rewrite guidance:
 - keep the domain, but simplify the phrasing
 - prefer direct visible outcomes over scenic atmosphere
 
-## Specific things Claude should check everywhere
+## Specific things Gemini CLI should check everywhere
 
 1. **Sentence-count consistency**
 - Story Layer 1 files should follow one consistent template.
@@ -187,8 +187,10 @@ Rewrite guidance:
 - Recheck whether the ending feels like part of the scene the child can picture.
 
 8. **Dialogue staging**
-- If any rewrites add dialogue, do **not** jump straight to raw quoted dialogue by default.
-- Story Layer 1 should prefer narrated indirect discourse.
+- Follow the staged rollout rules exactly.
+- **Tier 1:** NO raw quoted dialogue. Use only narrated indirect discourse (e.g., "The child asks what a dog is.").
+- **Tier 2:** Quoted dialogue is allowed but must use explicit speaker tags (e.g., "'What is a dog?' the child asks."). Avoid overusing quotes.
+- No short elliptical dialogue ("What is that?" "A dog.") until Layer 3+.
 
 ## Recommended review order
 

@@ -114,6 +114,7 @@ Characteristics:
 - simple visible action over abstract explanation
 - basic pronoun use is allowed only after the main subject is clearly introduced
 - do not force names, multi-character tracking, or heavy discourse variation yet
+- **dialogue:** use narrated indirect discourse only (no raw quotes)
 
 Example triplet: `bird + nest + tree`
 
@@ -145,7 +146,7 @@ Characteristics:
 - `and` is allowed
 - `then` is allowed (temporal sequence)
 - limited `because` is allowed (one simple causation per story)
-- quoted dialogue with explicit speaker tags may appear where useful, but should not become the default pattern yet
+- **dialogue:** quoted dialogue with explicit speaker tags is allowed (keep it sparing; do not use short elliptical dialogue)
 - avoid complex conditionals and adult-sounding prose
 
 Example structure:

@@ -1,6 +1,6 @@
 # BDH Training Harness Quickstart
 
-This is the short version of the BDH training harness design.
+This is the short version of the Ninereeds training harness design.
 For the full rationale and architecture, see:
 
 - `training/training_harness_design.md`
@@ -9,9 +9,9 @@ For the full rationale and architecture, see:
 
 ## What this is
 
-The BDH training harness is an **offline autonomous experiment loop** for improving the model in a controlled way.
+The Ninereeds training harness is an **offline autonomous experiment loop** for improving the model in a controlled way.
 
-It is inspired by the shape of Karpathy's `autoresearch`, but adapted to BDH.
+It is inspired by the shape of Karpathy's `autoresearch`, but adapted to the BDH architecture and this project's Ninereeds-focused training path.
 
 Instead of blind training tweaks, the harness runs **bounded research rounds**:
 
@@ -25,9 +25,9 @@ Instead of blind training tweaks, the harness runs **bounded research rounds**:
 
 ## What it is for
 
-The harness is designed around the actual BDH goal:
+The harness is designed around the actual Ninereeds goal:
 
-- **BDH as a model capable of chatting coherently**
+- **Ninereeds as a model capable of chatting coherently**
 - **broad knowledge base rather than deep specialization**
 - **depth added later via Skill LoRA**
 - **autonomous continued growth via Dream LoRA, but only in a controlled offline process**
@@ -48,11 +48,11 @@ Hermes:
 - chooses the next intervention
 - decides whether to continue, switch, or escalate
 - decides whether an emergency-exit request is valid
-- decides whether Claude-authored requested data drafts should be rejected, iterated, or accepted
+- decides whether Gemini-authored requested data drafts should be rejected, iterated, or accepted
 
-### Claude Code = execution model
+### Gemini CLI = execution model
 
-Claude Code:
+Gemini CLI:
 
 - reads the harness docs
 - reads the selected intervention skill
@@ -196,7 +196,7 @@ A valid emergency-exit request must specify:
 - how it serves the BDH goal
 - what remains out of scope
 
-If Claude proposes an emergency exit and Hermes agrees, Hermes may then tell Claude to draft the requested data pieces.
+If Gemini CLI proposes an emergency exit and Hermes agrees, Hermes may then tell Gemini CLI to draft the requested data pieces.
 Those drafts are then reviewed and either:
 
 - rejected
@@ -251,4 +251,4 @@ The BDH training harness turns future training into:
 - verifier-gated teacher behavior
 - bounded escalation to new data only when necessary
 
-It exists so the baby dragon can be improved through a legible research loop, not through blind tweaking or uncontrolled growth.
+It exists so Ninereeds can be improved through a legible research loop, not through blind tweaking or uncontrolled growth.

@@ -1,154 +1,213 @@
-# BDH Cognitive OS
+# Ninereeds / BDH Cognitive OS
 
 ![BDH Cognitive OS](BDH.png)
 
-BDH Cognitive OS is a modular runtime built around the **Baby Dragon Hatchling (BDH)** model.
+This repository has two closely related goals:
 
-The project is built around a simple discipline: keep the core model clean, route work through explicit phases, and write each important artifact to disk.
+1. **build the model itself** — a dragon-scale language model we are giving the proper name **Ninereeds**
+2. **build the future OS around that model** — the BDH Cognitive OS runtime, LoRA harness, artifact system, and offline learning workflow that will come after the model is ready for it
 
-## What It Is
+Right now, the center of gravity is the **model and the data**: training corpus design, curriculum writing, wiki expansion, bridge material, and the groundwork needed to train Ninereeds from scratch into something coherent and teachable.
 
-BDH Cognitive OS treats the model less like a single monolithic assistant and more like a small operating system with explicit boundaries.
+The OS/harness side is still important, but it is **not the current priority**. The long-term plan is to give Ninereeds a modular runtime with explicit routing, artifact logging, LoRA-based specialization, and offline consolidation. The near-term job is to make sure there is a real model worth building that system around.
 
-The current design centers on:
+## The Name
 
-- a **clean core model** for language and reasoning
-- a **specialist phase** for task-specific work
-- a **clean-core integration phase** after specialist work completes
-- **explicit artifact logging** for reproducibility and inspection
-- a future **Dream system** for offline consolidation only
+The model's proper name is **Ninereeds**.
 
-The architecture reference lives in [docs/bdh_cognitive_os_design.md](docs/bdh_cognitive_os_design.md).
+The name comes from Terry Pratchett's *The Colour of Magic*: Ninereeds is the name of a dragon in the novel. That keeps the naming lineage intact with Pathway's **Baby Dragon** architecture while giving this project's model a proper individual name instead of calling the model by the architecture name.
 
-## Current Status
+## What We Are Building
 
-Milestone 1 runtime is implemented, and the repository now contains a working vertical slice of the live loop.
+### 1. The model
 
-Current working pieces:
+The intended model direction is:
+- trained from scratch rather than treated as a thin wrapper around an existing assistant
+- shaped through highly explicit curriculum design instead of broad noisy web-scale ingestion
+- grounded in staged language learning: early curriculum → wiki knowledge → bridge material → story layers → later training infrastructure
+- designed to become a boundary-aware, interest-forming, offline-capable core rather than a permanently internet-dependent chatbot
 
-- `harness.py` runs the end-to-end live loop
-- `inference.py` loads the BDH checkpoint and performs generation
-- `prompt_shaper.py` reshapes prompts into completion-friendly forms
-- `eval.py` compares raw prompts against shaped prompts
-- `training_data/` contains the curriculum and wiki corpus work
+### 2. The training data
 
-Current active development is split between:
+A large part of this repo is the construction of the training corpus itself.
 
-- OS infrastructure expansion: routing, LoRA registry plumbing, dream queue capture, chat ergonomics
-- curriculum and wiki quality: extending and cleaning training data while preserving reproducibility
+That work currently includes:
+- **Phase 1–5 rewritten curriculum** in `training_data/phase 1 to 5/rewritten/`
+- **wiki corpus** in `training_data/wiki/`
+- **Phase 6 bridge** material in `training_data/phase_6_bridge/`
+- **story-layer planning and batches** in `training_data/triplet_stories/`
 
-## Core Rules
+This data work is not secondary bookkeeping. It is part of the model-building process itself.
 
-- Never modify `bdh.py`
-- Never modify anything in `core/`
-- Never train during the live inference loop
-- Never mutate model weights during a run
-- Always write outputs to disk
-- Always keep specialist and clean-core phases separate
+### 3. The future OS / harness
 
-The fuller agent-facing contract is in [AGENTS.md](AGENTS.md).
+The repo also contains the planned and partially scaffolded path toward **BDH Cognitive OS**:
+- a runtime around the model
+- explicit session snapshots and disk artifacts
+- future LoRA selection / routing
+- specialist vs clean-core phases
+- offline dream / consolidation workflows
+- reproducible evaluation and verifier-style loops
+
+That system matters, but it comes **after** the model is sufficiently real to justify it.
+
+## Current Project State
+
+At the moment, the repository is best understood as:
+- **active model-and-corpus construction**, plus
+- **early runtime / harness scaffolding for later stages**
+
+Concretely:
+- `bdh.py` and `core/` preserve the upstream BDH architecture/checkpoint artifacts and are treated as read-only ground truth here
+- `training_data/` is the most actively evolving part of the repo
+- the wiki, bridge, and story documents are being used to shape the actual educational/training pathway for Ninereeds
+- runtime files like `harness.py`, `inference.py`, `prompt_shaper.py`, and `eval.py` represent the OS-side direction, but the repo should not be read as "mainly a harness project"
 
 ## Repository Map
 
 ```text
 AGENTS.md                  implementation contract for coding agents
 README.md                  repository overview
-docs/
-  bdh_cognitive_os_design.md
-  wiki.md
-  mommy_says_machine.md
-bdh.py                     BDH architecture (read-only)
-core/                      trained checkpoint(s) and model assets (read-only for runtime work)
-harness.py                 top-level runtime entry point
-inference.py               BDH loading and text generation wrapper
+bdh.py                     upstream BDH architecture reference (read-only)
+core/                      upstream checkpoint/model assets (read-only)
+docs/                      design and planning documents
+training_data/             curriculum, wiki, bridge, and story corpora
+training/                  training-harness planning/docs
+workflow/                  automation helpers and repo workflows
+harness.py                 early runtime entry point / scaffold
+inference.py               BDH loading and generation wrapper
 prompt_shaper.py           prompt shaping layer
 eval.py                    prompt-shaping evaluation harness
 train.py                   training entry point
-training_data/             curriculum and wiki corpora
-workflow/                  workflow helpers and future OS infrastructure
 runs/                      timestamped run artifacts
 sessions/                  session snapshots
-loras/                     skill and dream adapter directories
+loras/                     future skill/dream adapter area
+dream_queue/               queued offline-consolidation items
 knowledge/                 external memory / knowledge artifacts
-dream_queue/               queued items for future offline consolidation
 ```
 
-## Runtime Flow
+## The Data Stack
 
-The live loop follows this order:
+### Phase 1–5 curriculum
 
-1. request -> classify
-2. snapshot session
-3. run specialist phase
-4. save artifact
-5. reload clean core
-6. read artifact
-7. produce final output
+Located under:
+- `training_data/phase 1 to 5/rewritten/`
 
-In Milestone 1, LoRA selection is simulated only. The runtime writes a placeholder `selected_lora.json` rather than attaching a real adapter.
+This is the early foundation layer: tightly controlled, concrete, dependency-shaped language learning material.
 
-## Running The Harness
+Key companion files include:
+- `training_sequence.txt`
+- `concept_index.md`
+- `dependency_graph.json`
+- `missing_curriculum_terms.md`
 
-From the repo root:
+### Wiki corpus
 
-```bash
-python harness.py "What is a book?"
-```
+Located under:
+- `training_data/wiki/`
 
-Or run interactively:
+The wiki layer teaches grouped concept knowledge in a question-answer style and is being actively expanded, audited, and reorganized for dependency clarity.
 
-```bash
-python harness.py
-```
+Start with:
+- `training_data/wiki/01_CORPUS_STATUS.md`
+- `training_data/wiki/02_wiki_implementation_todo.md`
+- `training_data/wiki/wiki_category_backlog.md`
 
-Each run creates a timestamped directory under `runs/` and writes:
+Design notes:
+- `docs/wiki.md`
 
-- `request.json`
-- `session_snapshot.json`
-- `selected_lora.json`
-- `specialist_output.md`
-- `final_output.md`
-- `metadata.json`
-- `logs.txt`
+### Phase 6 bridge
 
-## Evaluation
+Located under:
+- `training_data/phase_6_bridge/`
 
-To compare raw prompts with shaped prompts:
+This is the connective layer between the strict early curriculum and later story/dialogue material. It introduces more abstract scaffold words and proposition-like forms in a controlled sequence.
 
-```bash
-python eval.py
-```
+Start with:
+- `training_data/phase_6_bridge/README.md`
+- `training_data/phase_6_bridge/phase_6_bridge_spec.md`
+- `training_data/phase_6_bridge/phase_6_bridge_manifest.md`
+- `training_data/phase_6_bridge/story_dialogue_progression.md`
 
-This writes an eval run directory under `runs/` with scored outputs and a summary.
+### Story layers
 
-## Training Data
+Located under:
+- `training_data/triplet_stories/`
 
-The corpus currently has two main layers:
+These files are meant to follow the wiki/bridge rather than replace them. The goal is staged contextualization, not early collapse into free-form prose.
 
-- **Curriculum files** in `training_data/phase 1 to 5/rewritten/`
-- **Wiki files** in `training_data/wiki/`
+Start with:
+- `training_data/triplet_stories/story_tier_specs.md`
+- `training_data/triplet_stories/review_queue.md`
+- `training_data/triplet_stories/review_notes.md`
 
-The wiki corpus teaches higher-level relational and conversational knowledge using grouped `what is X?` entries. The design notes are in [docs/wiki.md](docs/wiki.md), and the current category planning source of truth is [training_data/wiki/wiki_category_backlog.md](training_data/wiki/wiki_category_backlog.md).
+## OS / Harness Direction
 
-## Training Scripts
+The long-term system design lives in:
+- `docs/bdh_cognitive_os_design.md`
 
-Two helper scripts are currently present:
+That design describes a future runtime with:
+- core model + selected specialist path
+- artifact-first execution
+- clean-core reintegration
+- future LoRA routing / registry
+- offline dream-style consolidation
 
-- `run_curriculum.sh` for phased curriculum training and eval gating
-- `run_wiki_level2_foundation.sh` for building and training a merged wiki foundation corpus
+Important clarification: this design is the **target architecture**, not the best one-line summary of the repo's present focus.
 
-These are training workflows, not part of the live runtime loop.
+A better present-tense summary is:
+
+> We are building Ninereeds first, and building BDH Cognitive OS around Ninereeds second.
+
+## Core Rules
+
+- Never modify `bdh.py`
+- Never modify anything in `core/`
+- Never train during the live inference loop
+- Never silently mutate model weights during a run
+- Always write important outputs to disk
+- Keep specialist and clean-core phases separate once the OS-side runtime is active
+
+The fuller agent-facing contract is in [AGENTS.md](AGENTS.md).
+
+## Useful Entry Points
+
+If you are trying to understand the repo quickly, start here:
+
+1. `README.md`
+2. `AGENTS.md`
+3. `docs/bdh_cognitive_os_design.md`
+4. `docs/wiki.md`
+5. `training_data/wiki/02_wiki_implementation_todo.md`
+6. `training_data/wiki/01_CORPUS_STATUS.md`
+7. `training_data/phase_6_bridge/phase_6_bridge_spec.md`
+8. `training_data/triplet_stories/story_tier_specs.md`
+
+## Training / Runtime Scripts Present In Repo
+
+These files exist, but should be interpreted in context:
+- `train.py`
+- `harness.py`
+- `inference.py`
+- `prompt_shaper.py`
+- `eval.py`
+- `run_curriculum.sh`
+- `run_wiki_level2_foundation.sh`
+
+They show the repo's runtime/training direction, but they are not the whole story. The corpus and planning work under `training_data/` is just as central.
 
 ## Attribution
 
-BDH architecture and the core model implementation in `bdh.py` are by Pathway Technology, Inc.
+The upstream **BDH** architecture and the core implementation in `bdh.py` come from Pathway Technology, Inc.
 
 - Paper: <https://arxiv.org/abs/2509.26507>
 - Repository: <https://github.com/pathwaycom/bdh>
 
+This repository builds a broader project around that base: curriculum creation, wiki growth, bridge/story planning, and the eventual OS/harness intended to support Ninereeds.
+
 ## License
 
-- BDH core: original upstream repository license
-- BDH Cognitive OS harness and surrounding project files: MIT License
+- Upstream BDH core: original upstream repository license
+- Surrounding project files in this repo: MIT License unless noted otherwise
 
 © Andi Omukai

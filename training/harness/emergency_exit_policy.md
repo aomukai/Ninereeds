@@ -36,11 +36,11 @@ A good request may ask for:
 
 ## Post-Exit Flow
 
-If Claude Code proposes an emergency exit:
+If Gemini CLI proposes an emergency exit:
 
 1. Hermes reviews the claim.
 2. Hermes either rejects the exit or accepts it.
-3. If accepted, Hermes may instruct Claude Code to draft the requested data pieces.
+3. If accepted, Hermes may instruct Gemini CLI to draft the requested data pieces.
 4. Those drafted pieces are reviewed via verifier policy.
 5. Hermes may reject, iterate, or accept the drafts.
 

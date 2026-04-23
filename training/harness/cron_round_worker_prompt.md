@@ -14,7 +14,7 @@ Read these files first:
 - `training/harness/decision_policy.md`
 - `training/harness/verifier_policy.md`
 - `training/harness/emergency_exit_policy.md`
-- `training/harness/claude_worker_contract.md`
+- `training/harness/gemini_worker_contract.md`
 - `training/harness/artifact_schemas.md`
 - `training/harness/metrics.template.json`
 - `training/harness/decision.template.json`

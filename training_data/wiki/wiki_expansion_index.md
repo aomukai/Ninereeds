@@ -18,7 +18,7 @@ Use this together with:
 
 - **Current max written level** = the highest level with actual written content today.
 - **Next action** = what to do when the file comes up for review.
-- **Provisional ceiling** = an early guess, not a permanent limit. Claude or a human can revise it later.
+- **Provisional ceiling** = an early guess, not a permanent limit. Gemini CLI or a human can revise it later.
 - A concept can stay at Level 1 forever if deeper expansion is not worth the tokens or training space.
 
 ---

@@ -380,3 +380,95 @@
 - summary: Claude Code failed with exit code 1.
 - details:
   {"type":"result","subtype":"success","is_error":true,"duration_ms":371,"duration_api_ms":0,"num_turns":1,"result":"You're out of extra usage · resets Apr 24, 4am (Asia/Tokyo)","session_id":"72c16fd3-1f84-4478-afe7-144dbe9b85a3","total_cost_usd":0,"usage":{"input_tokens":0,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":0,"server_tool_use":{"web_search_requests":0,"web_fetch_requests":0},"service_tier":"standard","cache_creation":{"ephemeral_1h_input_tokens":0,"ephemeral_5m_input_tokens":0}},"modelUsage":{},"permission_denials":[],"uuid":"f2b07234-10c2-49a6-b6cd-e46c9b02fdd8"}
+## 2026-04-23 18:33:20 UTC — success
+- todo file: `training_data/wiki/02_wiki_implementation_todo.md`
+- step: 20
+- item: `Complete the Phase 6 bridge manifest and first file-order plan for Gemini CLI weekend work`
+- summary: Completed the Phase 6 bridge manifest by replacing TBD placeholders with a structured six-file plan covering foundation, meta-language, thought, truth, communication, and planning. Each entry includes target words, prerequisites, and pattern-grid requirements to bridge the gap between concrete Phase 1-5 curriculum and Story Layer 1.
+- changed files:
+  - `training_data/phase_6_bridge/phase_6_bridge_manifest.md`
+  - `training_data/wiki/02_wiki_implementation_todo.md`
+- details:
+  STATUS: success
+  STEP: 20
+  SUMMARY: Completed the Phase 6 bridge manifest by replacing TBD placeholders with a structured six-file plan covering foundation, meta-language, thought, truth, communication, and planning. Each entry includes target words, prerequisites, and pattern-grid requirements to bridge the gap between concrete Phase 1-5 curriculum and Story Layer 1.
+  FILES:
+  - training_data/phase_6_bridge/phase_6_bridge_manifest.md
+  - training_data/wiki/02_wiki_implementation_todo.md
+## 2026-04-23 18:42:40 UTC — success
+- todo file: `training_data/wiki/02_wiki_implementation_todo.md`
+- step: 21
+- item: `Draft the first Phase 6 bridge curriculum batch in repo-native format and audit it for vocabulary leakage`
+- summary: Drafted Phase 6 bridge curriculum files (phase_6_03.md to phase_6_06.md) in the canonical 6-line format (Anchor, 4 Body, 1 Summary). Performed a vocabulary audit against Phases 1-5 to ensure grounding, introducing 'name' and 'why' as necessary bridges. Updated the manifest, corpus status, and todo list to reflect the completed batch.
+- changed files:
+  - `training_data/phase_6_bridge/phase_6_03.md`
+  - `training_data/phase_6_bridge/phase_6_04.md`
+  - `training_data/phase_6_bridge/phase_6_05.md`
+  - `training_data/phase_6_bridge/phase_6_06.md`
+  - `training_data/phase_6_bridge/phase_6_bridge_manifest.md`
+  - `training_data/wiki/01_CORPUS_STATUS.md`
+  - `training_data/wiki/02_wiki_implementation_todo.md`
+- details:
+  STATUS: success
+  STEP: 21
+  SUMMARY: Drafted Phase 6 bridge curriculum files (phase_6_03.md to phase_6_06.md) in the canonical 6-line format (Anchor, 4 Body, 1 Summary). Performed a vocabulary audit against Phases 1-5 to ensure grounding, introducing 'name' and 'why' as necessary bridges. Updated the manifest, corpus status, and todo list to reflect the completed batch.
+  FILES:
+  - training_data/phase_6_bridge/phase_6_03.md
+  - training_data/phase_6_bridge/phase_6_04.md
+  - training_data/phase_6_bridge/phase_6_05.md
+  - training_data/phase_6_bridge/phase_6_06.md
+  - training_data/phase_6_bridge/phase_6_bridge_manifest.md
+  - training_data/wiki/01_CORPUS_STATUS.md
+  - training_data/wiki/02_wiki_implementation_todo.md
+## 2026-04-23 18:43:24 UTC — success
+- todo file: `training_data/wiki/02_wiki_implementation_todo.md`
+- step: 21
+- item: `Draft the first Phase 6 bridge curriculum batch in repo-native format and audit it for vocabulary leakage`
+- summary: Drafted and audited the first 6 files of the Phase 6 bridge curriculum (Foundation, Meta-language, Thought, Truth, Communication, and Planning). Each file follows the strict 6-line assistant response format and was audited against Phase 1-5 vocabulary to prevent leakage.
+- changed files:
+  - `training_data/phase_6_bridge/phase_6_01.md`
+  - `training_data/phase_6_bridge/phase_6_02.md`
+  - `training_data/phase_6_bridge/phase_6_03.md`
+  - `training_data/phase_6_bridge/phase_6_04.md`
+  - `training_data/phase_6_bridge/phase_6_05.md`
+  - `training_data/phase_6_bridge/phase_6_06.md`
+  - `training_data/phase_6_bridge/phase_6_bridge_manifest.md`
+  - `training_data/wiki/02_wiki_implementation_todo.md`
+- details:
+  I've drafted all the files, as noted, and I'm finished.
+  
+  STATUS: success
+  STEP: 21
+  SUMMARY: Drafted and audited the first 6 files of the Phase 6 bridge curriculum (Foundation, Meta-language, Thought, Truth, Communication, and Planning). Each file follows the strict 6-line assistant response format and was audited against Phase 1-5 vocabulary to prevent leakage.
+  FILES:
+  - training_data/phase_6_bridge/phase_6_01.md
+  - training_data/phase_6_bridge/phase_6_02.md
+  - training_data/phase_6_bridge/phase_6_03.md
+  - training_data/phase_6_bridge/phase_6_04.md
+  - training_data/phase_6_bridge/phase_6_05.md
+  - training_data/phase_6_bridge/phase_6_06.md
+  - training_data/phase_6_bridge/phase_6_bridge_manifest.md
+  - training_data/wiki/02_wiki_implementation_todo.md
+## 2026-04-23 18:44:14 UTC — success
+- todo file: `training_data/wiki/02_wiki_implementation_todo.md`
+- step: 22
+- item: `Update story-generation infrastructure so dialogue enters in the staged progression instead of collapsing too early into quoted speech`
+- summary: Updated the story-generation infrastructure (specifications, prompts, and review notes) to enforce a staged dialogue progression. Tier 1 is now strictly limited to narrated indirect discourse, Tier 2 allows quoted dialogue only with explicit speaker tags, and short elliptical dialogue is reserved for Layer 3 and beyond. This prevents the model from collapsing into brittle quoted-speech patterns too early in its training.
+- changed files:
+  - `training_data/triplet_stories/story_tier_specs.md`
+  - `training_data/triplet_stories/rewrite_prompt.md`
+  - `training_data/triplet_stories/review_notes.md`
+  - `training_data/wiki/story_layer_rules.md`
+  - `training_data/wiki/02_wiki_implementation_todo.md`
+- details:
+  Updates are complete and mentally verified from the tool outputs. Final report incoming.
+  
+  STATUS: success
+  STEP: 22
+  SUMMARY: Updated the story-generation infrastructure (specifications, prompts, and review notes) to enforce a staged dialogue progression. Tier 1 is now strictly limited to narrated indirect discourse, Tier 2 allows quoted dialogue only with explicit speaker tags, and short elliptical dialogue is reserved for Layer 3 and beyond. This prevents the model from collapsing into brittle quoted-speech patterns too early in its training.
+  FILES:
+  - training_data/triplet_stories/story_tier_specs.md
+  - training_data/triplet_stories/rewrite_prompt.md
+  - training_data/triplet_stories/review_notes.md
+  - training_data/wiki/story_layer_rules.md
+  - training_data/wiki/02_wiki_implementation_todo.md

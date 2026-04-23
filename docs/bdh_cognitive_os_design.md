@@ -4,9 +4,11 @@
 
 ## 1. Overview
 
-The **BDH Cognitive OS** is a modular, layered AI system built around:
+The **BDH Cognitive OS** is a modular, layered AI system being designed around **Ninereeds**, the model being built in this repository on top of the BDH architecture.
 
-- a **clean core model (BDH)** for language and reasoning
+The target system is built around:
+
+- a **clean core model (Ninereeds)** for language and reasoning
 - **Skill LoRAs** for specialized capabilities
 - a **two-phase execution loop** (specialist → clean integration)
 - an **offline Dream system** for controlled learning
@@ -15,7 +17,7 @@ The system explicitly separates:
 
 | Layer | Responsibility |
 |------|----------------|
-| Core BDH | Language, reasoning, orchestration |
+| Core Ninereeds | Language, reasoning, orchestration |
 | Skill LoRAs | Specialized task execution |
 | External Memory | Knowledge and artifacts |
 | Dream System | Controlled consolidation |
@@ -121,7 +123,7 @@ Requires:
 
 ## 5. Architecture Layers
 
-### 5.1 Core BDH
+### 5.1 Core Ninereeds
 
 Responsibilities:
 - language understanding

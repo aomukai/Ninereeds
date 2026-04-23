@@ -1,6 +1,6 @@
 # Training Harness
 
-This directory defines the **offline training/evaluation control loop** for BDH.
+This directory defines the **offline training/evaluation control loop** for Ninereeds on the BDH architecture.
 
 It is intentionally designed as a **transparent harness**, not a hidden pile of prompts.
 Every intervention the teacher may use is written down as a markdown skill, versioned in the repo,
@@ -8,9 +8,9 @@ reviewable by humans, and patchable when it fails.
 
 ## Purpose
 
-The harness exists to support the long-term BDH goal:
+The harness exists to support the long-term Ninereeds goal:
 
-- **BDH as a model capable of chatting coherently**
+- **Ninereeds as a model capable of chatting coherently**
 - **broad knowledge base rather than deep specialization**
 - **depth added later via Skill LoRA**
 - **autonomous continued growth via Dream LoRA, but only in a controlled offline process**
@@ -60,7 +60,7 @@ Keep the structured machine-readable fields in JSON as separate values as well. 
   - reads reports
   - decides whether to continue, switch intervention, or escalate
 
-- **Claude Code / execution model**
+- **Gemini CLI / execution model**
   - executes one bounded round
   - reads harness policy + selected intervention skill
   - runs eval / drill / data operations / reporting
@@ -85,7 +85,7 @@ Keep the structured machine-readable fields in JSON as separate values as well. 
 4. **No raw teacher output reaches the student without verification**
 5. **When all interventions are exhausted, request targeted new data**
 6. **Emergency-exit data requests must be specific and goal-shaped**
-7. **Emergency-exit requests may themselves trigger a Claude-authored draft-data creation step for orchestrator review**
+7. **Emergency-exit requests may themselves trigger a Gemini-authored draft-data creation step for orchestrator review**
 
 ## Round Lifecycle
 

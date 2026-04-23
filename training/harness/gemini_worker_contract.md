@@ -1,10 +1,10 @@
-# Claude Worker Contract
+# Gemini Worker Contract
 
 This document defines what the execution model must do in a single training-harness round.
 
 ## Worker Identity
 
-Claude Code acts as the **execution model**, not the final policy owner.
+Gemini CLI acts as the **execution model**, not the final policy owner.
 Hermes remains the orchestrator.
 
 ## Worker Duties

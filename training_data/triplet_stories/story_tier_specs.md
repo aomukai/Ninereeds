@@ -56,7 +56,7 @@ Tier 1 should:
 - poetic or literary inversion
 - heavy description with little action
 - ambiguous pronouns
-- quoted dialogue as a default form
+- **quoted dialogue** (Tier 1 uses narrated indirect discourse only; e.g., "The child asks what a dog is.")
 
 ---
 
@@ -88,6 +88,7 @@ Tier 2 should:
 - a longer chain of events than Tier 1
 - one mild obstacle, surprise, delay, or change
 - a clear resolution or settling point by the end
+- **quoted dialogue with explicit speaker tags** where useful (e.g., "'What is a dog?' the child asks.")
 
 ### Tier 2 is teaching
 - setting-first or scene-first framing
@@ -96,6 +97,7 @@ Tier 2 should:
 - richer temporal flow across a story
 - broader sentence variation than Tier 1
 - coherent mini-narratives built from familiar vocabulary
+- **basic quotation and speaker-tag usage**
 
 ### Avoid in Tier 2
 - dense adult-sounding prose
@@ -104,7 +106,8 @@ Tier 2 should:
 - abstract reflection or hidden psychological narration
 - sudden jumps in time with no clear bridge
 - moralizing or summary endings
-- overuse of quoted dialogue
+- **overuse of quoted dialogue** (keep it sparing and always tagged)
+- **short elliptical dialogue** (save for Layer 3+)
 - clever phrasing that reduces clarity
 
 ---

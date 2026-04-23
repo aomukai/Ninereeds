@@ -1,7 +1,7 @@
 # Round Artifact Schemas
 
 This document defines the canonical structured artifacts for each training-harness round.
-The goal is to make Claude Code outputs consistent, easy to diff, and easy for Hermes to reason over.
+The goal is to make Gemini CLI outputs consistent, easy to diff, and easy for Hermes to reason over.
 
 ## Required Round Artifacts
 

@@ -4,7 +4,7 @@ Canonical one-file-at-a-time review queue for the first `training_data/triplet_s
 
 Purpose:
 - prevent the story cleanup pass from becoming a 200-story all-at-once rewrite
-- let Claude Code work one domain file at a time
+- let Gemini CLI work one domain file at a time
 - keep review, cleanup, rewrite, and verification scoped tightly enough to inspect carefully
 
 Use this file together with:

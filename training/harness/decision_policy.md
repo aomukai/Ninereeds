@@ -118,7 +118,7 @@ Treat `teacher_student_drill` as plateaued if:
 If the execution model takes the emergency exit and requests more data:
 
 1. Hermes reviews whether interventions truly are exhausted.
-2. If Hermes agrees, Hermes may direct Claude Code to draft the requested corpus pieces.
+2. If Hermes agrees, Hermes may direct Gemini CLI to draft the requested corpus pieces.
 3. Those drafts must then be reviewed against the verifier and scope rules.
 4. Hermes may reject, request iteration, or accept the drafts.
 

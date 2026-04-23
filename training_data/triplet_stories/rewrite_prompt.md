@@ -19,6 +19,7 @@ Keep vocabulary grounded, keep scenes concrete, and do not rewrite unrelated fil
 ```text
 Read the whole file and rewrite every story in it.
 Follow `training_data/triplet_stories/story_tier_specs.md` for Tier 1 exactly.
+STRICT RULE: Do not use quoted dialogue. Use only narrated indirect discourse (e.g., "The child asks what a dog is.").
 Do not ask questions.
 Do not explain what you are doing.
 Output only the rewritten stories.
@@ -29,6 +30,7 @@ Output only the rewritten stories.
 ```text
 Read the whole file and create the Tier 2 version of every story in it.
 Follow `training_data/triplet_stories/story_tier_specs.md` for Tier 2 exactly.
+STRICT RULE: Quoted dialogue must use explicit speaker tags (e.g., "'What is a dog?' the child asks."). Do not use short elliptical dialogue.
 Do not ask questions.
 Do not explain what you are doing.
 Output only the rewritten stories.

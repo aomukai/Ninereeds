@@ -5,7 +5,7 @@ This file is the history-and-status record for wiki corpus work, not the active 
 
 ## What we're building
 
-A Level 1 training corpus for the BDH (Baby Dragon Hatchling) language model.
+A Level 1 training corpus for **Ninereeds**, the model being built on the BDH (Baby Dragon Hatchling) architecture.
 Each entry follows this format:
 
 ```
@@ -318,9 +318,27 @@ No dangling contrasts currently known. All prior items resolved:
 - `darkness` — entry added to `shadow_and_light_phenomena_entries.md`
 - `puddle` — flood contrast changed to "A flood is not rainfall" (within-category fix)
 
-## Completed: Gap-Filling and Trunk Audit Batch (2026-04-16 to 2026-04-18)
+### Completed: Gap-Filling and Trunk Audit Batch (2026-04-16 to 2026-04-18)
 
 This batch established the comprehension infrastructure for the wiki corpus:
+
+### Phase 6 Bridge Curriculum Batch Drafted (2026-04-24)
+
+Drafted the foundational Phase 6 bridge curriculum in `training_data/phase_6_bridge/`:
+
+| File | Family | Target Words |
+|---|---|---|
+| `phase_6_01.md` | Foundation | thing, object, word, sentence |
+| `phase_6_02.md` | Meta-language | meaning, question, answer, language |
+| `phase_6_03.md` | Thought / Knowledge | thought, idea, think, know, learn, understand |
+| `phase_6_04.md` | Truth / Reasoning | true, real, fact, reason, because |
+| `phase_6_05.md` | Communication | ask, explain, say, repeat, tell |
+| `phase_6_06.md` | Planning / Sequence | plan, goal, step, first, next, follow |
+
+- **Format**: Strictly followed the repo-native 6-line curriculum format (Anchor, 4 Body, 1 Summary).
+- **Vocab Audit**: All files audited against the Phase 1-5 cumulative vocabulary bank. Introduced `name` and `why` as necessary bridge concepts.
+- **Dependency**: Files are ordered topologically as per the manifest to ensure each concept is grounded before use.
+
 
 ### Dependency infrastructure created
 

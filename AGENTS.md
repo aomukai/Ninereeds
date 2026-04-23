@@ -2,7 +2,7 @@
 
 ## Mission
 
-Implement **BDH Cognitive OS**, a modular runtime around the BDH model.
+Implement **BDH Cognitive OS**, the future modular runtime around **Ninereeds**, the model being built in this repository on top of the BDH architecture.
 
 Follow the architecture defined in:
 
@@ -50,23 +50,23 @@ These define the system:
 
 ## Current Scope
 
-Milestone 1 runtime is already implemented (`inference.py`, `harness.py`, `prompt_shaper.py`, `eval.py`).
+Milestone 1 runtime scaffolding is already implemented (`inference.py`, `harness.py`, `prompt_shaper.py`, `eval.py`), but the current repo priority is still Ninereeds itself: corpus construction, curriculum shaping, wiki growth, bridge material, and the groundwork for later training.
 
 Current active tracks:
 
-1. **OS infrastructure expansion** (design doc §§3-9)
-   - LoRA registry/index and selection plumbing
-   - classification and routing logic
-   - dream queue capture
-   - chat/runtime ergonomics
-
-2. **Curriculum/data quality**
+1. **Model-and-corpus building for Ninereeds**
    - maintain and extend training corpora in `training_data/`
    - keep story format reproducible and parser-friendly where possible
    - preserve strict no-pronoun, concrete-language constraints in curriculum phases
    - manually polish wiki Level 1 files for simple child-facing language
    - prefer clear concept ownership across wiki categories to avoid duplicate anchors
    - clean and normalize existing wiki files before adding large amounts of new content
+
+2. **Future OS infrastructure expansion** (design doc §§3-9)
+   - LoRA registry/index and selection plumbing
+   - classification and routing logic
+   - dream queue capture
+   - chat/runtime ergonomics
 
 ---
 

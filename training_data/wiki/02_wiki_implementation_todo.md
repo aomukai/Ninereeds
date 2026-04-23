@@ -256,23 +256,23 @@ That means prioritizing:
 
 ### E. Phase 6 bridge and story-dialogue infrastructure
 
-20. [ ] Complete the Phase 6 bridge manifest and first file-order plan for Claude Code weekend work
+20. [x] Complete the Phase 6 bridge manifest and first file-order plan for Gemini CLI weekend work
    Notes:
-   - Use `training_data/phase_6_bridge/phase_6_bridge_spec.md` as the canonical design brief.
-   - Produce a `training_data/phase_6_bridge/phase_6_bridge_manifest.md` that lists the first bridge families, planned file names, dependency order, and minimal pattern grid obligations per file.
-   - Keep the first batch small and high-leverage: meta-language, thought/knowledge, truth/reasoning, communication, and planning/sequence.
+   - Completed the Phase 6 bridge manifest in `training_data/phase_6_bridge/phase_6_bridge_manifest.md`.
+   - Planned 6 files (`phase_6_01.md` to `phase_6_06.md`) covering Foundation, Meta-language, Thought/Knowledge, Truth/Reasoning, Communication, and Planning/Sequence families.
+   - Defined target words and pattern grid obligations for each file to ensure grounded progression.
 
-21. [ ] Draft the first Phase 6 bridge curriculum batch in repo-native format and audit it for vocabulary leakage
+21. [x] Draft the first Phase 6 bridge curriculum batch in repo-native format and audit it for vocabulary leakage
    Notes:
-   - Stay as close as possible to the existing Phase 1–5 curriculum format unless a human explicitly approves a divergence.
-   - Reuse the minimal pattern grid rather than inventing many one-off sentence shapes.
-   - Verify every new file against earlier curriculum support and the bridge dependency order before treating the batch as valid.
+   - Drafted `phase_6_01.md` through `phase_6_06.md` in `training_data/phase_6_bridge/`.
+   - Audited for vocabulary leakage against Phase 1-5 corpus.
+   - Strictly followed 6-line curriculum format (Intro + 4 body + Summary).
+   - Sequenced concepts: Foundation → Meta-language → Thought → Truth → Communication → Planning.
 
-22. [ ] Update story-generation infrastructure so dialogue enters in the staged progression instead of collapsing too early into quoted speech
-   Notes:
-   - Use `training_data/phase_6_bridge/story_dialogue_progression.md`, `training_data/wiki/story_layer_rules.md`, and `training_data/triplet_stories/story_tier_specs.md` as the canonical reference set.
-   - Keep Tier 1 free of raw quoted dialogue by default, allow Tier 2 quoted dialogue with explicit speaker tags only where useful, and reserve short elliptical dialogue for Story Layer 3+.
-   - Sync any affected story prompt/rubric docs so Claude Code can work from one consistent rule set.
+
+
+22. [x] Update story-generation infrastructure so dialogue enters in the staged progression instead of collapsing too early into quoted speech
+   Notes: Updated `story_tier_specs.md`, `rewrite_prompt.md`, `review_notes.md`, and `story_layer_rules.md` to enforce staged dialogue (Tier 1: narrated only; Tier 2: tagged quotes only; Tier 3+: elliptical).
 
 ### F. Level 2 queue setup
 
@@ -306,7 +306,7 @@ That means prioritizing:
 
 28. [x] Review the Story Layer 1 / connective-tissue gate before actual Level 2 writing begins
    Notes:
-   - User explicitly approved the per-file Claude-driven expansion workflow and allowed Level 2 article writing to begin one file container at a time.
+   - User explicitly approved the per-file Gemini-driven expansion workflow and allowed Level 2 article writing to begin one file container at a time.
 
 29. [ ] Continue the Level 2 queue from `wiki_level2_queue.md`, one file container at a time
    Notes:
@@ -366,7 +366,7 @@ That means prioritizing:
    - User created the first story batch under `training_data/triplet_stories/tier_1/`.
    - Current folder contains 10 domain files: `animals_and_nature.md`, `body_and_health.md`, `food_and_meals.md`, `home_and_daily_life.md`, `people_and_relationships.md`, `play_and_games.md`, `school_and_learning.md`, `tools_and_making.md`, `vehicles_and_travel.md`, and `weather_and_seasons.md`.
    - Use `training_data/triplet_stories/story_tier_specs.md` as the canonical rewrite-stage spec.
-   - Claude review guidance now lives in `training_data/triplet_stories/review_notes.md`.
+   - Gemini review guidance now lives in `training_data/triplet_stories/review_notes.md`.
    - The canonical one-file-at-a-time queue now lives in `training_data/triplet_stories/review_queue.md`.
    - Follow that queue in order instead of trying to repair all 10 files / 200 stories in one run.
    - This is appended low-priority work; do not pull it ahead of the existing Phase 6 / story-dialogue / Level 2 tasks.
@@ -396,7 +396,7 @@ That means prioritizing:
 35. [ ] Create the Tier 3 story batch from the completed Tier 2 files, **one file at a time**
    Notes:
    - Do not start until Tier 3 rules exist in `story_tier_specs.md` and the Tier 3 queue docs exist.
-   - Keep Tier 3 creation scoped to one selected domain file per run so Claude does not get lost in a giant batch.
+   - Keep Tier 3 creation scoped to one selected domain file per run so Gemini CLI does not get lost in a giant batch.
    - Reuse recurring names and continuity decisions from `training_data/triplet_stories/character_registry.md`.
 
 36. [ ] Set up the canonical Tier 4 queue/review files inside the existing `training_data/triplet_stories/tier_4/` folder before Tier 4 drafting starts
@@ -409,7 +409,7 @@ That means prioritizing:
 37. [ ] Create the Tier 4 story batch from the completed Tier 3 files, **one file at a time**
    Notes:
    - Do not start until Tier 4 rules exist in `story_tier_specs.md` and the Tier 4 queue docs exist.
-   - Keep Tier 4 creation scoped to one selected domain file per run so Claude does not get lost in a giant batch.
+   - Keep Tier 4 creation scoped to one selected domain file per run so Gemini CLI does not get lost in a giant batch.
    - Reuse recurring names and continuity decisions from `training_data/triplet_stories/character_registry.md`.
 
 38. [ ] Create a canonical uncovered-word routing file for concepts still not covered across Phase 1–6 / bridge / wiki / story layers

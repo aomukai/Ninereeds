@@ -1,18 +1,18 @@
 # BDH Training Harness Design
 
-This document describes the **offline autonomous training/evaluation loop** scaffold created for BDH.
+This document describes the **offline autonomous training/evaluation loop** scaffold created for Ninereeds on the BDH architecture.
 
 It exists so the system can improve through **explicit experiments**, not blind tweaking.
-The design is inspired by the shape of Karpathy's `autoresearch` loop, but adapted to the BDH project, its corpus-building workflow, and its long-term architectural goals.
+The design is inspired by the shape of Karpathy's `autoresearch` loop, but adapted to the BDH architecture, this repo's corpus-building workflow, and the long-term goal of building Ninereeds into a coherent model before the larger OS/harness is fully activated.
 
 ---
 
 ## 1. Why this exists
 
-The BDH project is not trying to build an unbounded self-modifying growth machine.
+The Ninereeds project is not trying to build an unbounded self-modifying growth machine.
 The goal is narrower and more disciplined:
 
-- **BDH as a model capable of chatting coherently**
+- **Ninereeds as a model capable of chatting coherently**
 - **broad knowledge base rather than deep specialization**
 - **depth added later via Skill LoRA**
 - **autonomous continued growth via Dream LoRA, but only in a controlled offline process**
@@ -102,13 +102,13 @@ Responsibilities:
 - choose the next intervention
 - decide whether to continue or switch strategies
 - decide whether an emergency-exit request is valid
-- decide whether Claude-authored requested data drafts should be rejected, iterated, or accepted
+- decides whether Gemini-authored requested data drafts should be rejected, iterated, or accepted
 
 Hermes is the **research director** for the loop.
 
-### 4.2 Claude Code = execution model
+### 4.2 Gemini CLI = execution model
 
-Claude Code is the worker.
+Gemini CLI is the worker.
 
 Responsibilities:
 
@@ -119,7 +119,7 @@ Responsibilities:
 - write artifacts into the round folder
 - stop after one round
 
-Claude Code is the **executor**, not the final policy owner.
+Gemini CLI is the **executor**, not the final policy owner.
 
 ### 4.3 Verifier layer
 
@@ -219,7 +219,7 @@ Storing interventions as repo markdown files gives several benefits:
 - diffability
 - patchability when they fail
 - easier reasoning about policy
-- clearer delegation to Claude Code
+- clearer delegation to Gemini CLI
 
 This mirrors the general Hermes skill philosophy: reusable procedures should be visible, not mystical.
 
@@ -394,7 +394,7 @@ It must specify:
 
 A particularly useful extension is this:
 
-If Claude Code proposes an emergency exit, and Hermes agrees the request is valid, Hermes may then instruct Claude Code to **draft the requested data pieces**.
+If Gemini CLI proposes an emergency exit, and Hermes agrees the request is valid, Hermes may then instruct Gemini CLI to **draft the requested data pieces**.
 
 Those drafts are then reviewed and either:
 
@@ -441,7 +441,7 @@ The scaffold now includes:
 - `training/harness/decision_policy.md`
 - `training/harness/verifier_policy.md`
 - `training/harness/emergency_exit_policy.md`
-- `training/harness/claude_worker_contract.md`
+- `training/harness/gemini_worker_contract.md`
 - `training/harness/cron_round_worker_prompt.md`
 - `training/harness/ROUND_STATE.json`
 - `training/harness/artifact_schemas.md`
@@ -494,7 +494,7 @@ The point right now is to finish the training corpus while keeping the future lo
 
 ## 16. What this design gives us
 
-The value of this design is that it turns “train the baby dragon” into:
+The value of this design is that it turns “train Ninereeds” into:
 
 - a research process
 - a logged experiment loop
@@ -529,7 +529,7 @@ We are asking:
 The BDH training harness is an offline, autonomous, skill-driven experiment loop.
 
 - Hermes orchestrates.
-- Claude Code executes one bounded round at a time.
+- Gemini CLI executes one bounded round at a time.
 - Interventions are stored as explicit repo skills.
 - Structured artifacts record what happened.
 - Teacher-generated student-facing content must pass verification.

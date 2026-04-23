@@ -138,7 +138,7 @@ Current default: **stay as close as possible to the existing curriculum format u
 6. Audit the batch for vocabulary leakage and pattern drift.
 7. Only after that, connect it to Story Layer 1 generation rules.
 
-## Deliverables Claude Code can work on
+## Deliverables Gemini CLI can work on
 
 1. A bridge manifest listing the planned file order.
 2. A first-pass Phase 6 file set for the top-priority families.

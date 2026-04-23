@@ -64,15 +64,15 @@ This is a central design goal, not a cosmetic nice-to-have.
 
 ### 2.3 Safe knowledge access
 
-The long-term BDH core should remain **offline-first**.
+The long-term Ninereeds core should remain **offline-first**.
 The core model itself should not be directly connected to the internet.
 
-Instead, when outside knowledge is needed, BDH should know how to route requests through an **external teaching/retrieval engine**.
+Instead, when outside knowledge is needed, Ninereeds should know how to route requests through an **external teaching/retrieval engine**.
 
 In the current architecture, that outer layer is represented by:
 
 - Hermes Agent as orchestrator
-- Claude Code as executor / worker
+- Gemini CLI as executor / worker
 - the harness and tool system as external cognition
 
 That gives a cleaner separation:
@@ -88,7 +88,7 @@ A lot of current design decisions only fully make sense when viewed from this lo
 
 ### 3.1 Small core, broad knowledge
 
-The BDH core is not meant to become an enormous all-purpose world model with unlimited baked-in detail.
+The Ninereeds core is not meant to become an enormous all-purpose world model with unlimited baked-in detail.
 The target is:
 
 - a **small efficient core**
@@ -167,7 +167,7 @@ That is part of what makes the system feel more like a durable cognitive substra
 
 ## 5. Interest formation as a cognitive feature
 
-A future BDH should not only answer questions.
+A future Ninereeds should not only answer questions.
 It should also naturally develop **interests**.
 
 Here, “interest” does not mean random curiosity or endless wandering.
@@ -202,7 +202,7 @@ In April 2026, the current tool ecosystem makes a new design route possible.
 Instead of trying to brute-force the final exocortex system directly, the project can proceed through a powerful intermediate architecture:
 
 - Hermes Agent as orchestrator
-- Claude Code as execution model
+- Gemini CLI as execution model
 - explicit markdown skills
 - cron-driven autonomous work
 - verifier-gated training and evaluation loops
@@ -281,7 +281,7 @@ The point is to shape the software and cognitive architecture now so that it wou
 
 ## 9. Design implications for BDH right now
 
-Given this long-term vision, the current BDH work should prioritize:
+Given this long-term vision, the current Ninereeds work should prioritize:
 
 ### 9.1 Strong epistemic behavior
 
@@ -318,7 +318,7 @@ The system should gradually learn what matters most by observing what recurs, wh
 
 ## 10. One-sentence summary
 
-The long-term BDH vision is to build a small, continuous, personalized, boundary-aware cognitive core that remains offline and efficient while safely delegating retrieval, specialist reasoning, and controlled learning to an outer harness—eventually approaching an always-on AI exocortex or symbiont.
+The long-term Ninereeds vision is to build a small, continuous, personalized, boundary-aware cognitive core that remains offline and efficient while safely delegating retrieval, specialist reasoning, and controlled learning to an outer harness—eventually approaching an always-on AI exocortex or symbiont.
 
 ---
 
@@ -334,4 +334,4 @@ This vision explains why the current route makes sense:
 - explicit tools and harnesses around the core
 - continuity and boundaries as first-class goals
 
-That is the larger picture that makes the current “train the baby dragon” work coherent.
+That is the larger picture that makes the current effort to train Ninereeds coherent.

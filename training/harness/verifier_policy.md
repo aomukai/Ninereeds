@@ -12,7 +12,7 @@ The following artifacts require verification:
 - generated contrastive pairs
 - proposed curriculum reorder justifications
 - emergency-exit data requests
-- Claude-authored draft data created in response to an emergency exit
+- Gemini-authored draft data created in response to an emergency exit
 
 ## Required Checks
 
