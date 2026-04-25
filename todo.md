@@ -22,10 +22,7 @@ Rules:
 
 ## Active queue
 
-### 1. Close out remaining Wiki Level 2 dependency-pass work
-- [ ] Finish the dependency pass for `training_data/wiki/wiki_1/evidence_and_justification_entries.md`
-
-### 2. Check Story Tier 1
+### 1. Check Story Tier 1
 - [ ] Audit and repair `training_data/triplet_stories/tier_1/people_and_relationships.md` against the Tier 1 spec
 - [ ] Audit and repair `training_data/triplet_stories/tier_1/home_and_daily_life.md` against the Tier 1 spec
 - [ ] Audit and repair `training_data/triplet_stories/tier_1/weather_and_seasons.md` against the Tier 1 spec
@@ -35,7 +32,7 @@ Rules:
 - [ ] Audit and repair `training_data/triplet_stories/tier_1/tools_and_making.md` against the Tier 1 spec
 - [ ] Audit and repair `training_data/triplet_stories/tier_1/vehicles_and_travel.md` against the Tier 1 spec
 
-### 3. Edit Story Tier 1 into repeated `[user]` / `[assistant]` training-pair format
+### 2. Edit Story Tier 1 into repeated `[user]` / `[assistant]` training-pair format
 - [ ] Convert `training_data/triplet_stories/tier_1/school_and_learning.md` into repeated `[user]` / `[assistant]` training pairs
 - [ ] Convert `training_data/triplet_stories/tier_1/people_and_relationships.md` into repeated `[user]` / `[assistant]` training pairs
 - [ ] Convert `training_data/triplet_stories/tier_1/home_and_daily_life.md` into repeated `[user]` / `[assistant]` training pairs
@@ -46,7 +43,7 @@ Rules:
 - [ ] Convert `training_data/triplet_stories/tier_1/tools_and_making.md` into repeated `[user]` / `[assistant]` training pairs
 - [ ] Convert `training_data/triplet_stories/tier_1/vehicles_and_travel.md` into repeated `[user]` / `[assistant]` training pairs
 
-### 4. Create Story Tier 2
+### 3. Create Story Tier 2
 - [ ] Create `training_data/triplet_stories/tier_2/play_and_games.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_2/people_and_relationships.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_2/home_and_daily_life.md` in repeated `[user]` / `[assistant]` format
@@ -57,7 +54,7 @@ Rules:
 - [ ] Create `training_data/triplet_stories/tier_2/tools_and_making.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_2/vehicles_and_travel.md` in repeated `[user]` / `[assistant]` format
 
-### 5. Check Story Tier 2
+### 4. Check Story Tier 2
 - [ ] Quality-check `training_data/triplet_stories/tier_2/play_and_games.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_2/people_and_relationships.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_2/home_and_daily_life.md`
@@ -68,14 +65,14 @@ Rules:
 - [ ] Quality-check `training_data/triplet_stories/tier_2/tools_and_making.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_2/vehicles_and_travel.md`
 
-### 6. Create Wiki Level 3
+### 5. Create Wiki Level 3
 - [ ] Reconfirm the Level 3 candidate set after Tier 2 completion and write the minimal Level 3 plan directly in `todo.md` notes or adjacent docs if needed
 - [ ] Create the first eligible Wiki Level 3 article (currently expected to be `emotions_entries.md` unless the reassessment changes)
 
-### 7. Check Wiki Level 3
+### 6. Check Wiki Level 3
 - [ ] Quality-check the created Wiki Level 3 article(s)
 
-### 8. Create Story Tier 3
+### 7. Create Story Tier 3
 - [ ] Create `training_data/triplet_stories/tier_3/play_and_games.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_3/people_and_relationships.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_3/home_and_daily_life.md` in repeated `[user]` / `[assistant]` format
@@ -86,7 +83,7 @@ Rules:
 - [ ] Create `training_data/triplet_stories/tier_3/tools_and_making.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_3/vehicles_and_travel.md` in repeated `[user]` / `[assistant]` format
 
-### 9. Check Story Tier 3
+### 8. Check Story Tier 3
 - [ ] Quality-check `training_data/triplet_stories/tier_3/school_and_learning.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_3/play_and_games.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_3/people_and_relationships.md`
@@ -98,14 +95,14 @@ Rules:
 - [ ] Quality-check `training_data/triplet_stories/tier_3/tools_and_making.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_3/vehicles_and_travel.md`
 
-### 10. Create Wiki Level 4
+### 9. Create Wiki Level 4
 - [ ] Reconfirm the Level 4 candidate set after Wiki Level 3 and Story Tier 3 work and write the minimal Level 4 plan directly in `todo.md` notes or adjacent docs if needed
 - [ ] Create the first eligible Wiki Level 4 article(s)
 
-### 11. Check Wiki Level 4
+### 10. Check Wiki Level 4
 - [ ] Quality-check the created Wiki Level 4 article(s)
 
-### 12. Create Story Tier 4
+### 11. Create Story Tier 4
 - [ ] Create `training_data/triplet_stories/tier_4/play_and_games.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_4/people_and_relationships.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_4/home_and_daily_life.md` in repeated `[user]` / `[assistant]` format
@@ -116,7 +113,7 @@ Rules:
 - [ ] Create `training_data/triplet_stories/tier_4/tools_and_making.md` in repeated `[user]` / `[assistant]` format
 - [ ] Create `training_data/triplet_stories/tier_4/vehicles_and_travel.md` in repeated `[user]` / `[assistant]` format
 
-### 13. Check Story Tier 4
+### 12. Check Story Tier 4
 - [ ] Quality-check `training_data/triplet_stories/tier_4/school_and_learning.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_4/play_and_games.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_4/people_and_relationships.md`
@@ -128,7 +125,7 @@ Rules:
 - [ ] Quality-check `training_data/triplet_stories/tier_4/tools_and_making.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_4/vehicles_and_travel.md`
 
-### 14. Concepts ledger and curriculum backfill
+### 13. Concepts ledger and curriculum backfill
 - [ ] Build `training_data/wiki/wiki_and_story_introduced_concepts.md`
 - [ ] Turn the introduced-concepts list into a bounded Phase 1–5 backfill plan
 - [ ] Apply the first bounded Phase 1–5 curriculum backfill batch from that plan

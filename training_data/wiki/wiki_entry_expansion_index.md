@@ -56,7 +56,7 @@ Use this together with:
 - `directions_and_navigation_entries.md` — 0/11 entries currently detected in a written Level 2 article
 - `emotions_entries.md` — 20/40 entries currently detected in a written Level 2 article (dependency pass completed 2026-04-20: 20/20 split retained; metadata-only completion; dependencies confirmed against body-state/body-part, people-role, school, and game anchors; no article-body changes needed)
 - `environmental_care_and_stewardship_entries.md` — 0/9 entries currently detected in a written Level 2 article
-- `evidence_and_justification_entries.md` — 4/9 entries currently detected in a written Level 2 article (gap pass completed 2026-04-20: 4/5 split retained; no article-body changes needed; advanced: `justification`, `reason why`, `example`, `that proves`; stayed L1: `because I saw it`, `I know this because`, `for instance`, `I can show you`, `back it up`)
+- `evidence_and_justification_entries.md` — 4/9 entries currently detected in a written Level 2 article (dependency pass completed 2026-04-25: 4/5 split retained; metadata-only completion; dependencies verified against logic, emotions, uncertainty_and_guessing, communication_acts_and_language, play_games_and_sports, school_life_and_learning, plants_and_nature, weather_and_celestial, natural_life_cycles_and_processes, foods_and_drinks, safety_signs_and_symbols, people_roles, sensory_experiences, and abstract_operators anchors; no article-body changes needed)
 - `exceptions_and_qualifications_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `food_groups_and_nutrition_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `foods_and_drinks_entries.md` — 0/14 entries currently detected in a written Level 2 article

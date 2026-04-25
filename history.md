@@ -124,6 +124,7 @@ Rules:
 - 7. [x] `community_places_and_services_entries.md`
 
 ### Wiki Level 2 dependency-pass closures
+- [x] `evidence_and_justification_entries.md` — dependency pass completed 2026-04-25: 4/5 split retained; metadata-only completion; dependencies verified against logic, emotions, uncertainty_and_guessing, communication_acts_and_language, play_games_and_sports, school_life_and_learning, plants_and_nature, weather_and_celestial, natural_life_cycles_and_processes, foods_and_drinks, safety_signs_and_symbols, people_roles, sensory_experiences, and abstract_operators anchors; no article-body changes needed.
 - [x] `conflict_resolution_and_relationship_repair_entries.md` — dependency pass completed 2026-04-25: 4/3 split retained; metadata-only completion; dependencies verified against emotions, friends/peer, agreement/disagreement, accidents/mistakes, safety_rules, play_games, manners, people_roles, and growth_life_stages anchors; no article-body changes needed.
 - [x] `community_places_and_services_entries.md` — dependency pass completed 2026-04-25: 5/11 split retained; metadata-only completion; dependencies verified against professions, safety_rules_and_emergency_awareness, health_and_wellness, vehicles_transport, money_trade_and_shopping, places_and_landforms, home_rooms, foods_and_drinks, civic_responsibility, school_life_and_learning, and time anchors; no article-body changes needed.
 
