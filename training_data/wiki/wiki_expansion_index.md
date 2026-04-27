@@ -135,11 +135,11 @@ _All approved files have completed creation pass._
 
 ---
 
-## Current max level 2 (12)
+## Current max level 2 (9)
 
 | Source Level 1 file | Current max written level | Next action | Provisional ceiling | Notes |
 |---|---:|---|---|---|
-| `emotions_entries.md` | 2 | ready for Level 3 expansion | Level 3 | Dependency pass completed 2026-04-20: 20/20 split retained; metadata-only completion; dependencies confirmed against `body_states_and_internal_cues_entries.md`, `body_parts_entries.md`, `people_roles_entries.md`, `school_life_and_learning_entries.md`, and `play_games_and_sports_entries.md`; no article-body changes needed. |
+| `emotions_entries.md` | 3 | ready for Level 4 expansion | Level 4 | Level 3 created and quality-passed 2026-04-27. Dependency pass completed 2026-04-20: 20/20 split retained; dependencies confirmed against body_states, body_parts, people_roles, school_life, and play_games anchors. |
 | `communication_acts_and_language_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | Dependency pass completed 2026-04-20: 6/5 split retained; metadata-only completion; dependencies rechecked against `greetings_and_social_salutations_entries.md`, `agreement_and_disagreement_entries.md`, `manners_politeness_and_social_etiquette_entries.md`, `praise_criticism_and_feedback_entries.md`, `people_roles_entries.md`, `conflict_resolution_and_relationship_repair_entries.md`, and `evidence_and_justification_entries.md`; no article-body changes needed. |
 | `community_places_and_services_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | Dependency pass completed 2026-04-25: existing 5/11 split retained (advanced: `library`, `hospital`, `grocery store`, `fire station`, `restaurant`; stayed L1: `community place`, `service`, `police`, `police station`, `post office`, `museum`, `bakery`, `bus stop`, `bank`, `pharmacy`, `clinic`); metadata-only completion after verifying dependencies against professions, safety_rules, health_and_wellness, vehicles_transport, money_trade, places_and_landforms, home_rooms, foods_and_drinks, civic_responsibility, school_life, and time anchors; no article-body changes needed. |
 | `technology_and_digital_media_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | Dependency pass completed 2026-04-21: existing 5/9 split retained (advanced: `phone`, `tablet`, `computer`, `video`, `app`; stayed L1: `technology`, `screen`, `message`, `swipe`, `tap`, `TV`, `keyboard`, `photo`, `username`); metadata-only completion after rechecking dependencies against online-safety, growth/life-stages, emotions, logic, safety-rules, manners, boundaries, money, time, body-parts, sleep/rest, meals, accidents, and simple-physics anchors; no article-body changes needed. |
@@ -149,12 +149,16 @@ _All approved files have completed creation pass._
 | `play_games_and_sports_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | Dependency pass completed 2026-04-21: existing 6/4 split retained (advanced: `play`, `game`, `team`, `win`, `lose`, `cheat`; stayed L1: `sport`, `score`, `tag`, `hide and seek`); metadata-only completion after rechecking dependencies against emotions, logic, inclusion/kindness, agreement/disagreement, conflict-repair, friends/peer, and people-role anchors; no article-body changes needed. |
 | `health_and_wellness_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | Dependency pass completed 2026-04-21: existing 12/5 split retained (advanced: `fever`, `cough`, `sore throat`, `headache`, `stomachache`, `cut`, `bruise`, `medicine`, `germ`, `sneeze`, `runny nose`, `checkup`; stayed L1: `health`, `wellness`, `bandage`, `rash`, `allergy`); metadata-only completion after rechecking dependencies against body-parts, body-states, people-roles, home-objects, school-life, community-places, time, and sensory anchors; no article-body changes needed. |
 | `storytelling_and_narrative_structure_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | Dependency pass completed 2026-04-24: 5/11 split retained (advanced: `story`, `plot`, `narrator`, `suddenly`, `meanwhile`; stayed L1: `beginning`, `middle`, `end`, `first`, `next`, `then`, `before`, `after`, `finally`, `at the end`, `once upon a time`); metadata-only completion after rechecking dependencies against logic, school-life, imagination/pretend-play, and story-roles anchors; no article-body changes needed. |
-| `perspective_taking_and_theory_of_mind_entries.md` | 2 | ready for Level 3 expansion | Level 3 | Dependency pass completed 2026-04-24: existing 6/2 split retained after dependency recheck; no article-body changes needed. |
-| `evidence_and_justification_entries.md` | 2 | ready for Level 3 expansion | Level 3 | Gap pass completed 2026-04-20: 4/5 split retained (advanced: `justification`, `reason why`, `example`, `that proves`; stayed L1: `because I saw it`, `I know this because`, `for instance`, `I can show you`, `back it up`); no article-body changes needed because the source-of-justification branching, reason-vs-example distinction, good-vs-weak example treatment, and prove-vs-support sections still cover the highest-value gaps. |
+| `perspective_taking_and_theory_of_mind_entries.md` | 3 | ready for Level 4 expansion | Level 4 | Level 3 created and quality-passed 2026-04-27. Dependency pass completed 2026-04-24: existing 6/2 split retained. |
+| `evidence_and_justification_entries.md` | 3 | ready for Level 4 expansion | Level 4 | Level 3 created and quality-passed 2026-04-27. Gap pass completed 2026-04-20: 4/5 split retained (advanced: `justification`, `reason why`, `example`, `that proves`). |
 
-## Current max level 3 (0)
+## Current max level 3 (3)
 
-_No files yet._
+| Source Level 2 file | Current max written level | Next action | Provisional ceiling | Notes |
+|---|---:|---|---|---|
+| `emotions_level2.md` | 3 | ready for Level 4 expansion | Level 4 | Level 3 created and quality-passed 2026-04-27: 6 sections (nature of emotions, happiness/sadness/energy, anger/frustration/calmness, fear/worry/nervousness/panic, pride/shame/guilt/embarrassment, social emotions). Word counts 217-239 per section. All mandatory connectives present. |
+| `perspective_taking_and_theory_of_mind_level2.md` | 3 | ready for Level 4 expansion | Level 4 | Level 3 created and quality-passed 2026-04-27: 6 sections (perspectives, beliefs/truth, misunderstandings, explaining past thoughts, missing information, putting yourself in someone else's place). Word counts 182-233 per section. All mandatory connectives present. |
+| `evidence_and_justification_level2.md` | 3 | ready for Level 4 expansion | Level 4 | Level 3 created and quality-passed 2026-04-27: 6 sections (nature of justification, sources of justification, strong vs weak justification, different kinds of reasons, using examples, proving vs supporting). Word counts 192-227 per section. All mandatory connectives present. |
 
 ## Current max level 4 (0)
 
@@ -198,9 +202,9 @@ _No files yet._
 | `data_charts_and_graphs_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `degrees_of_truth_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `directions_and_navigation_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
-| `emotions_entries.md` | 2 | hold for human review before any level 3 work | Level 3 | `l2_written` | Dependency pass completed 2026-04-20: 20/20 split retained; metadata-only completion; dependencies confirmed against body-state/body-part, people-role, school, and game anchors; no article-body changes needed. |
+| `emotions_entries.md` | 3 | ready for Level 4 expansion | Level 4 | `l3_written` | Level 3 created and quality-passed 2026-04-27. |
 | `environmental_care_and_stewardship_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
-| `evidence_and_justification_entries.md` | 2 | ready for Level 3 expansion | Level 3 | `l2_written` | Gap pass completed 2026-04-20: 4/5 split retained (advanced: `justification`, `reason why`, `example`, `that proves`; stayed L1: `because I saw it`, `I know this because`, `for instance`, `I can show you`, `back it up`); no article-body changes needed because the existing source-of-justification branching, reason-vs-example distinction, good-vs-weak example treatment, and prove-vs-support sections still cover the highest-value gaps. |
+| `evidence_and_justification_entries.md` | 3 | ready for Level 4 expansion | Level 4 | `l3_written` | Level 3 created and quality-passed 2026-04-27. |
 | `exceptions_and_qualifications_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `food_groups_and_nutrition_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `foods_and_drinks_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
@@ -246,7 +250,7 @@ _No files yet._
 | `ownership_and_sharing_entries.md` | 1 | review later for level 2 | tbd later | `l1_max_conditional` |
 | `people_roles_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `personal_identity_and_self_description_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
-| `perspective_taking_and_theory_of_mind_entries.md` | 2 | ready for Level 3 expansion | Level 3 | `l2_written` | Dependency pass completed 2026-04-24: existing 6/2 split retained after dependency recheck; no article-body changes needed. |
+| `perspective_taking_and_theory_of_mind_entries.md` | 3 | ready for Level 4 expansion | Level 4 | `l3_written` | Level 3 created and quality-passed 2026-04-27. |
 | `places_and_landforms_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `plants_and_nature_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `play_games_and_sports_entries.md` | 2 | hold at level 2; dependency pass complete | Level 2 | `l2_written` | Dependency pass completed 2026-04-21: existing 6/4 split retained after dependency recheck; no article-body changes needed. |

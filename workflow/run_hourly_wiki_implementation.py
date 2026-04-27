@@ -424,6 +424,22 @@ def activate_weekly_gemini_mode(state: dict[str, Any], now: datetime, reason: st
     state["last_limit_reason"] = reason
 
 
+def activate_gemini_fallback_from_claude_signal(
+    state: dict[str, Any],
+    signal_text: str,
+    now: datetime,
+) -> str:
+    signal_type = classify_rate_limit(signal_text) or "temporary"
+    if signal_type == "weekly":
+        activate_weekly_gemini_mode(state, now, signal_text[-1000:])
+        save_executor_state(state)
+        return "Claude Code hit a weekly limit; switching to Gemini full-time."
+
+    until = activate_temporary_gemini_fallback(state, now, signal_text[-1000:])
+    save_executor_state(state)
+    return f"Claude Code hit a temporary cooldown; switching to Gemini until {until}."
+
+
 def select_executor_from_state(state: dict[str, Any], now: datetime) -> tuple[dict[str, Any], Optional[str]]:
     if clear_expired_temporary_fallback(state, now):
         save_executor_state(state)
@@ -539,11 +555,10 @@ def main() -> int:
     if malformed_success:
         retry_prompt = prompt + "\n\nIMPORTANT RETRY: Your previous response did not follow the required exact STATUS/SUMMARY/FILES format. Retry the SAME selected task now and end with the exact required report format. Do not just say that the run is complete."
         if final_executor["name"] == CLAUDE_EXECUTOR["name"]:
-            until = activate_temporary_gemini_fallback(executor_state, utc_now_dt(), combined_output[-1000:])
-            save_executor_state(executor_state)
+            fallback_note = activate_gemini_fallback_from_claude_signal(executor_state, combined_output, utc_now_dt())
             retry_result = execute_with_executor(GEMINI_EXECUTOR, retry_prompt, env)
             retry_executor = GEMINI_EXECUTOR
-            retry_switch_notes = [f"Claude Code returned malformed success output; switching immediately to Gemini until {until}."]
+            retry_switch_notes = [f"Claude Code returned malformed success output; switching immediately to Gemini. {fallback_note}"]
         else:
             retry_result, retry_executor, retry_switch_notes = run_selected_executor(
                 final_executor,
@@ -637,8 +652,7 @@ def main() -> int:
 
     if status.lower() == "success" and not changed_files:
         if final_executor["name"] == CLAUDE_EXECUTOR["name"]:
-            until = activate_temporary_gemini_fallback(executor_state, utc_now_dt(), executor_text[-1000:])
-            save_executor_state(executor_state)
+            fallback_note = activate_gemini_fallback_from_claude_signal(executor_state, executor_text, utc_now_dt())
             gemini_prompt = prompt + "\n\nIMPORTANT RETRY: Claude reported success but changed no files. Repeat the SAME selected task now with the exact required STATUS/SUMMARY/FILES format and actually complete the task."
             gemini_result = execute_with_executor(GEMINI_EXECUTOR, gemini_prompt, env)
             gemini_output = ((gemini_result.stdout or "") + "\n" + (gemini_result.stderr or "")).strip()
@@ -647,7 +661,7 @@ def main() -> int:
                 final_executor = GEMINI_EXECUTOR
                 combined_output = gemini_output
                 rate_limit_type = classify_rate_limit(combined_output)
-                switch_notes = [*switch_notes, f"Claude Code reported empty success output; switching immediately to Gemini until {until}."]
+                switch_notes = [*switch_notes, f"Claude Code reported empty success output; switching immediately to Gemini. {fallback_note}"]
                 executor_text = parse_executor_output(result.stdout)
                 after_state = get_repo_state()
                 reported_files = parse_reported_files(executor_text)
