@@ -1,6 +1,6 @@
 {
-  "last_limit_reason": "{\"type\":\"result\",\"subtype\":\"error_max_turns\",\"duration_ms\":104605,\"duration_api_ms\":104235,\"is_error\":false,\"num_turns\":19,\"session_id\":\"d84815da-2e3b-41cc-acb1-c01248b37b00\",\"total_cost_usd\":1.0680259999999997,\"usage\":{\"input_tokens\":20,\"cache_creation_input_tokens\":57196,\"cache_read_input_tokens\":1142552,\"output_tokens\":5567,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":57196,\"ephemeral_5m_input_tokens\":0}},\"modelUsage\":{\"claude-opus-4-5-20251101\":{\"inputTokens\":20,\"outputTokens\":5567,\"cacheReadInputTokens\":1142552,\"cacheCreationInputTokens\":57196,\"webSearchRequests\":0,\"costUSD\":1.0680259999999997,\"contextWindow\":200000,\"maxOutputTokens\":64000}},\"permission_denials\":[],\"uuid\":\"250c6045-a581-4f0b-a6cc-b4dda35e529d\",\"errors\":[]}",
-  "mode": "temporary_gemini",
-  "temporary_gemini_until": "2026-04-26T18:33:35.247159+00:00",
+  "last_limit_reason": null,
+  "mode": "claude_primary",
+  "temporary_gemini_until": null,
   "weekly_gemini_since": null
 }

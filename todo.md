@@ -17,7 +17,7 @@ Rules:
 - **Wiki Level 2:** 12 Level 2 article files exist and passed quality review; 3 dependency-pass closures were completed after the root-todo migration, and 1 dependency-pass task still remains.
 - **Story Tier 1:** All 10 Tier 1 files are complete and converted to repeated `[user]` / `[Ninereeds]` training-pair format.
 - **Story Tier 2:** All 10 Tier 2 files created and quality-passed (`school_and_learning.md`, `play_and_games.md`, `people_and_relationships.md`, `home_and_daily_life.md`, `weather_and_seasons.md`, `animals_and_nature.md`, `body_and_health.md`, `food_and_meals.md`, `tools_and_making.md`, and `vehicles_and_travel.md`).
-- **Story Tier 3:** `school_and_learning.md` exists as a vertical slice, but corpus-wide Tier 3 creation/review has not started.
+- **Story Tier 3:** All 10 Tier 3 files created (`school_and_learning.md`, `play_and_games.md`, `people_and_relationships.md`, `home_and_daily_life.md`, `weather_and_seasons.md`, `animals_and_nature.md`, `body_and_health.md`, `food_and_meals.md`, `tools_and_making.md`, `vehicles_and_travel.md`); quality-check queue pending.
 - **Story Tier 4:** `school_and_learning.md` exists as a vertical slice, but corpus-wide Tier 4 creation/review has not started.
 
 ## Active queue
@@ -25,9 +25,7 @@ Rules:
 ### 1. Create Wiki Level 3
 
 ### 2. Check Wiki Level 3
-- [ ] Quality-check `training_data/wiki/wiki_3/emotions_level3.md` against the Level 3 spec (150-250 words, causal chains, contrasts)
-- [ ] Quality-check `training_data/wiki/wiki_3/perspective_taking_level3.md`
-- [ ] Quality-check `training_data/wiki/wiki_3/evidence_and_justification_level3.md`
+(All Wiki Level 3 quality checks complete)
 
 ## Wiki Level 3 Plan
 
@@ -47,18 +45,9 @@ Level 3 Wiki articles move beyond Q&A collections into cohesive 150-250 word pro
 All other Level 2 files remain capped at Level 2 for now to keep the expansion focused on the highest-leverage reasoning domains.
 
 ### 3. Create Story Tier 3
-- [ ] Create `training_data/triplet_stories/tier_3/play_and_games.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/people_and_relationships.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/home_and_daily_life.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/weather_and_seasons.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/animals_and_nature.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/body_and_health.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/food_and_meals.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/tools_and_making.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_3/vehicles_and_travel.md` in repeated `[user]` / `[Ninereeds]` format
+(All Story Tier 3 creation complete)
 
 ### 4. Check Story Tier 3
-- [ ] Quality-check `training_data/triplet_stories/tier_3/school_and_learning.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_3/play_and_games.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_3/people_and_relationships.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_3/home_and_daily_life.md`
