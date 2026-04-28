@@ -20,13 +20,13 @@ MAX_TURNS = "18"
 TEMP_GEMINI_FALLBACK_HOURS = 4
 HERMES_ENV_PATH = Path.home() / ".hermes" / ".env"
 
-CLAUDE_EXECUTOR = {
-    "name": "Claude Code",
-    "command": "claude",
-    "model": None,
-}
-GEMINI_EXECUTOR = {
+PRIMARY_EXECUTOR = {
     "name": "Gemini CLI",
+    "command": "gemini",
+    "model": "gemini-2.5-pro",
+}
+FALLBACK_EXECUTOR = {
+    "name": "Gemini 3 Flash",
     "command": "gemini",
     "model": "gemini-3-flash-preview",
 }
@@ -254,12 +254,9 @@ def refine_rate_limit_type(
     consecutive_prior_rate_limits: int,
     rate_limits_in_recent_entries: int,
 ) -> str:
+    _ = executor_name, consecutive_prior_rate_limits, rate_limits_in_recent_entries
     if rate_limit_type != "unknown":
         return rate_limit_type
-    if executor_name != CLAUDE_EXECUTOR["name"]:
-        return "temporary"
-    if consecutive_prior_rate_limits >= 5 or rate_limits_in_recent_entries >= 5:
-        return "weekly"
     return "temporary"
 
 
@@ -315,21 +312,6 @@ FILES:
 
 
 def build_executor_command(executor: dict[str, Any], prompt: str) -> list[str]:
-    if executor["name"] == CLAUDE_EXECUTOR["name"]:
-        return [
-            executor["command"],
-            "-p",
-            prompt,
-            "--output-format",
-            "json",
-            "--permission-mode",
-            "bypassPermissions",
-            "--allowedTools",
-            "Read,Edit,Write,Bash",
-            "--max-turns",
-            MAX_TURNS,
-        ]
-
     return [
         executor["command"],
         "-p",
@@ -371,9 +353,9 @@ def executor_payload_is_success(stdout: str) -> bool:
 
 def load_executor_state() -> dict[str, Any]:
     default_state = {
-        "mode": "claude_primary",
-        "temporary_gemini_until": None,
-        "weekly_gemini_since": None,
+        "mode": "gemini_primary",
+        "temporary_flash_until": None,
+        "weekly_flash_since": None,
         "last_limit_reason": None,
     }
     if not STATE_PATH.exists():
@@ -386,8 +368,8 @@ def load_executor_state() -> dict[str, Any]:
         return default_state
     return {
         "mode": str(payload.get("mode") or default_state["mode"]),
-        "temporary_gemini_until": payload.get("temporary_gemini_until"),
-        "weekly_gemini_since": payload.get("weekly_gemini_since"),
+        "temporary_flash_until": payload.get("temporary_flash_until"),
+        "weekly_flash_since": payload.get("weekly_flash_since"),
         "last_limit_reason": payload.get("last_limit_reason"),
     }
 
@@ -398,66 +380,67 @@ def save_executor_state(state: dict[str, Any]) -> None:
 
 
 def clear_expired_temporary_fallback(state: dict[str, Any], now: datetime) -> bool:
-    until = parse_iso_utc(state.get("temporary_gemini_until"))
-    if state.get("mode") != "temporary_gemini" or not until:
+    until = parse_iso_utc(state.get("temporary_flash_until"))
+    if state.get("mode") != "temporary_flash" or not until:
         return False
     if now < until:
         return False
-    state["mode"] = "claude_primary"
-    state["temporary_gemini_until"] = None
+    state["mode"] = "gemini_primary"
+    state["temporary_flash_until"] = None
     state["last_limit_reason"] = None
     return True
 
 
-def activate_temporary_gemini_fallback(state: dict[str, Any], now: datetime, reason: str) -> str:
+def activate_temporary_flash_fallback(state: dict[str, Any], now: datetime, reason: str) -> str:
     until = now + timedelta(hours=TEMP_GEMINI_FALLBACK_HOURS)
-    state["mode"] = "temporary_gemini"
-    state["temporary_gemini_until"] = until.isoformat()
+    state["mode"] = "temporary_flash"
+    state["temporary_flash_until"] = until.isoformat()
     state["last_limit_reason"] = reason
     return until.isoformat()
 
 
-def activate_weekly_gemini_mode(state: dict[str, Any], now: datetime, reason: str) -> None:
-    state["mode"] = "weekly_gemini"
-    state["weekly_gemini_since"] = now.isoformat()
-    state["temporary_gemini_until"] = None
+def activate_weekly_flash_mode(state: dict[str, Any], now: datetime, reason: str) -> None:
+    state["mode"] = "weekly_flash"
+    state["weekly_flash_since"] = now.isoformat()
+    state["temporary_flash_until"] = None
     state["last_limit_reason"] = reason
 
 
-def activate_gemini_fallback_from_claude_signal(
+def maybe_persist_fallback_for_explicit_primary_limit_signal(
     state: dict[str, Any],
     signal_text: str,
     now: datetime,
-) -> str:
-    signal_type = classify_rate_limit(signal_text) or "temporary"
+) -> Optional[str]:
+    signal_type = classify_rate_limit(signal_text)
     if signal_type == "weekly":
-        activate_weekly_gemini_mode(state, now, signal_text[-1000:])
+        activate_weekly_flash_mode(state, now, signal_text[-1000:])
         save_executor_state(state)
-        return "Claude Code hit a weekly limit; switching to Gemini full-time."
-
-    until = activate_temporary_gemini_fallback(state, now, signal_text[-1000:])
-    save_executor_state(state)
-    return f"Claude Code hit a temporary cooldown; switching to Gemini until {until}."
+        return "Gemini 2.5 Pro hit a weekly limit; switching to Gemini 3 Flash full-time."
+    if signal_type in {"temporary", "unknown"}:
+        until = activate_temporary_flash_fallback(state, now, signal_text[-1000:])
+        save_executor_state(state)
+        return f"Gemini 2.5 Pro hit a temporary limit; switching to Gemini 3 Flash until {until}."
+    return None
 
 
 def select_executor_from_state(state: dict[str, Any], now: datetime) -> tuple[dict[str, Any], Optional[str]]:
     if clear_expired_temporary_fallback(state, now):
         save_executor_state(state)
-    if state.get("mode") == "weekly_gemini":
-        return GEMINI_EXECUTOR, "weekly"
-    until = parse_iso_utc(state.get("temporary_gemini_until"))
-    if state.get("mode") == "temporary_gemini" and until and now < until:
-        return GEMINI_EXECUTOR, "temporary"
-    return CLAUDE_EXECUTOR, None
+    if state.get("mode") == "weekly_flash":
+        return FALLBACK_EXECUTOR, "weekly"
+    until = parse_iso_utc(state.get("temporary_flash_until"))
+    if state.get("mode") == "temporary_flash" and until and now < until:
+        return FALLBACK_EXECUTOR, "temporary"
+    return PRIMARY_EXECUTOR, None
 
 
 def describe_active_mode(state_reason: Optional[str], state: dict[str, Any]) -> Optional[str]:
     if state_reason == "weekly":
-        since = state.get("weekly_gemini_since") or "unknown"
-        return f"Executor mode: Gemini full-time after Claude weekly limit ({since})."
+        since = state.get("weekly_flash_since") or "unknown"
+        return f"Executor mode: Gemini 3 Flash full-time after Gemini 2.5 Pro weekly limit ({since})."
     if state_reason == "temporary":
-        until = state.get("temporary_gemini_until") or "unknown"
-        return f"Executor mode: temporary Gemini fallback active until {until}."
+        until = state.get("temporary_flash_until") or "unknown"
+        return f"Executor mode: temporary Gemini 3 Flash fallback active until {until}."
     return None
 
 
@@ -476,7 +459,7 @@ def run_selected_executor(
     rate_limit_type = classify_rate_limit(combined_output)
     payload_success = executor_payload_is_success(result.stdout or "")
 
-    if executor["name"] != CLAUDE_EXECUTOR["name"] or not rate_limit_type:
+    if executor["name"] != PRIMARY_EXECUTOR["name"] or not rate_limit_type:
         return result, executor, notes
 
     if result.returncode == 0 and payload_success:
@@ -493,16 +476,16 @@ def run_selected_executor(
     now = utc_now_dt()
 
     if refined_rate_limit_type == "weekly":
-        activate_weekly_gemini_mode(state, now, combined_output[-1000:])
+        activate_weekly_flash_mode(state, now, combined_output[-1000:])
         save_executor_state(state)
-        notes.append("Claude Code hit a weekly limit; switching to Gemini full-time.")
+        notes.append("Gemini 2.5 Pro hit a weekly limit; switching to Gemini 3 Flash full-time.")
     else:
-        until = activate_temporary_gemini_fallback(state, now, combined_output[-1000:])
+        until = activate_temporary_flash_fallback(state, now, combined_output[-1000:])
         save_executor_state(state)
-        notes.append(f"Claude Code hit a temporary cooldown; switching to Gemini until {until}.")
+        notes.append(f"Gemini 2.5 Pro hit a temporary limit; switching to Gemini 3 Flash until {until}.")
 
-    fallback_result = execute_with_executor(GEMINI_EXECUTOR, prompt, env)
-    return fallback_result, GEMINI_EXECUTOR, notes
+    fallback_result = execute_with_executor(FALLBACK_EXECUTOR, prompt, env)
+    return fallback_result, FALLBACK_EXECUTOR, notes
 
 
 def main() -> int:
@@ -554,11 +537,14 @@ def main() -> int:
     )
     if malformed_success:
         retry_prompt = prompt + "\n\nIMPORTANT RETRY: Your previous response did not follow the required exact STATUS/SUMMARY/FILES format. Retry the SAME selected task now and end with the exact required report format. Do not just say that the run is complete."
-        if final_executor["name"] == CLAUDE_EXECUTOR["name"]:
-            fallback_note = activate_gemini_fallback_from_claude_signal(executor_state, combined_output, utc_now_dt())
-            retry_result = execute_with_executor(GEMINI_EXECUTOR, retry_prompt, env)
-            retry_executor = GEMINI_EXECUTOR
-            retry_switch_notes = [f"Claude Code returned malformed success output; switching immediately to Gemini. {fallback_note}"]
+        if final_executor["name"] == PRIMARY_EXECUTOR["name"]:
+            fallback_note = maybe_persist_fallback_for_explicit_primary_limit_signal(executor_state, combined_output, utc_now_dt())
+            retry_result = execute_with_executor(FALLBACK_EXECUTOR, retry_prompt, env)
+            retry_executor = FALLBACK_EXECUTOR
+            retry_switch_notes = [
+                "Gemini 2.5 Pro returned malformed success output; switching immediately to Gemini 3 Flash."
+                + (f" {fallback_note}" if fallback_note else "")
+            ]
         else:
             retry_result, retry_executor, retry_switch_notes = run_selected_executor(
                 final_executor,
@@ -651,17 +637,21 @@ def main() -> int:
     summary = summary_match.group(1).strip()
 
     if status.lower() == "success" and not changed_files:
-        if final_executor["name"] == CLAUDE_EXECUTOR["name"]:
-            fallback_note = activate_gemini_fallback_from_claude_signal(executor_state, executor_text, utc_now_dt())
-            gemini_prompt = prompt + "\n\nIMPORTANT RETRY: Claude reported success but changed no files. Repeat the SAME selected task now with the exact required STATUS/SUMMARY/FILES format and actually complete the task."
-            gemini_result = execute_with_executor(GEMINI_EXECUTOR, gemini_prompt, env)
+        if final_executor["name"] == PRIMARY_EXECUTOR["name"]:
+            fallback_note = maybe_persist_fallback_for_explicit_primary_limit_signal(executor_state, executor_text, utc_now_dt())
+            gemini_prompt = prompt + "\n\nIMPORTANT RETRY: Gemini 2.5 Pro reported success but changed no files. Repeat the SAME selected task now with the exact required STATUS/SUMMARY/FILES format and actually complete the task."
+            gemini_result = execute_with_executor(FALLBACK_EXECUTOR, gemini_prompt, env)
             gemini_output = ((gemini_result.stdout or "") + "\n" + (gemini_result.stderr or "")).strip()
             if gemini_result.returncode == 0:
                 result = gemini_result
-                final_executor = GEMINI_EXECUTOR
+                final_executor = FALLBACK_EXECUTOR
                 combined_output = gemini_output
                 rate_limit_type = classify_rate_limit(combined_output)
-                switch_notes = [*switch_notes, f"Claude Code reported empty success output; switching immediately to Gemini. {fallback_note}"]
+                switch_notes = [
+                    *switch_notes,
+                    "Gemini 2.5 Pro reported empty success output; switching immediately to Gemini 3 Flash."
+                    + (f" {fallback_note}" if fallback_note else ""),
+                ]
                 executor_text = parse_executor_output(result.stdout)
                 after_state = get_repo_state()
                 reported_files = parse_reported_files(executor_text)
@@ -675,7 +665,7 @@ def main() -> int:
                     status = ""
                     summary = ""
             else:
-                empty_summary = f"Claude Code reported success but changed no files, and Gemini fallback failed."
+                empty_summary = f"Gemini 2.5 Pro reported success but changed no files, and the Gemini 3 Flash fallback failed."
                 details = [*(switch_notes or [])]
                 if mode_note:
                     details.append(mode_note)
@@ -718,8 +708,8 @@ def main() -> int:
         summary_prefixes.extend(switch_notes)
     elif mode_note:
         summary_prefixes.append(mode_note)
-    if final_executor["name"] == GEMINI_EXECUTOR["name"] and not summary_prefixes:
-        summary_prefixes.append("Run executed with Gemini fallback policy.")
+    if final_executor["name"] == FALLBACK_EXECUTOR["name"] and not summary_prefixes:
+        summary_prefixes.append("Run executed with Gemini 3 Flash fallback policy.")
     final_summary = " ".join(summary_prefixes + [summary]).strip()
 
     details = [*(switch_notes or [])]

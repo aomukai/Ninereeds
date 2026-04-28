@@ -23,7 +23,7 @@ Use this together with:
 
 ---
 
-## Current max level 1 (101)
+## Current max level 1 (99)
 
 ### Level 1 only for now (84)
 - `abstract_operators_entries.md`
@@ -111,14 +111,13 @@ Use this together with:
 - `STEM_entries.md`
 - `story_roles_and_plot_elements_entries.md`
 
-### Level 1, conditional Level 2 review later (16)
+### Level 1, conditional Level 2 review later (15)
 - `agreement_and_disagreement_entries.md`
 - `boundaries_and_consent_entries.md`
 - `daily_routines_and_self_care_entries.md`
 - `humor_and_figurative_language_entries.md`
 - `intentions_and_plans_in_action_entries.md`
 - `learning_memory_and_metacognition_entries.md`
-- `mathematical_problems_entries.md`
 - `meals_and_mealtime_talk_entries.md`
 - `online_safety_and_privacy_entries.md`
 - `ownership_and_sharing_entries.md`
@@ -237,7 +236,6 @@ _No files yet._
 | `manners_politeness_and_social_etiquette_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `material_composition_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `mathematical_concepts_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
-| `mathematical_problems_entries.md` | 1 | review later for level 2 | tbd later | `l1_max_conditional` |
 | `meals_and_mealtime_talk_entries.md` | 1 | review later for level 2 | tbd later | `l1_max_conditional` |
 | `measurement_and_comparison_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |
 | `money_trade_and_shopping_entries.md` | 1 | stay at level 1 for now | level 1 for now | `l1_only_for_now` |

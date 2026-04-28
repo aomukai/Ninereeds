@@ -26,8 +26,9 @@ All trunk files have been audited. See `01_CORPUS_STATUS.md` for detailed result
 4. [x] `space_entries.md` — 36 entries, `height` duplicate removed
 5. [x] `verbs_entries.md` — 77 entries, intentional splits documented
 6. [x] `mathematical_concepts_entries.md` — 29 entries, concept-only scope confirmed
-7. [x] `mathematical_problems_entries.md` — 45 entries, difficulty stratification flagged
-8. [x] `body_parts_entries.md` — 28 entries, no drift detected
+7. [x] `body_parts_entries.md` — 28 entries, no drift detected
+
+Note: the former `mathematical_problems_entries.md` file was later reclassified out of the wiki and moved into `training_data/reasoning/` as standalone reasoning-corpus seed material (2026-04-28).
 
 ---
 
@@ -102,17 +103,7 @@ Look out for:
 Current strength:
 - compact and coherent
 
-### 7. `mathematical_problems_entries.md`
-
-Look out for:
-- prose simplification
-- Level 1 register consistency
-- whether number size escalates too far for the current corpus layer
-- whether supporting vocabulary stays grounded and simple
-
-This is the trunk file most likely to need actual rewriting rather than just ownership review.
-
-### 8. `body_parts_entries.md`
+### 7. `body_parts_entries.md`
 
 Look out for:
 - ordering from broader to narrower
@@ -144,8 +135,8 @@ All overlap hotspots have been audited and documented. See `dependency_ledger.md
   - `height` — RESOLVED: Removed from space, measurement_and_comparison is canonical owner
   - `width`, `depth`, `center`, `edge`, `corner` — Unique to space_entries, no conflict
 
-- `mathematical_problems_entries.md`
-  - FLAGGED: Difficulty stratification issue (numbers 0-15 Level 1, 100-2000+ Level 2/3)
+- former `mathematical_problems_entries.md` wiki file
+  - RECLASSIFIED: moved to `training_data/reasoning/` as standalone reasoning-corpus seed material on 2026-04-28 because it did not fit the wiki path cleanly
 
 ---
 

@@ -711,8 +711,8 @@ Interpretation rule used here:
 | Word | Phase status | Wiki status |
 |---|---|---|
 | `money` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
-| `buy` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md, mathematical_problems_entries.md) |
-| `sell` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md, mathematical_problems_entries.md) |
+| `buy` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
+| `sell` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
 | `price` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
 | `cost` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
 | `pay` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
@@ -722,7 +722,7 @@ Interpretation rule used here:
 | `cent` | add in Phase 6 bridge | add dedicated wiki entry |
 | `bill` | later bridge candidate | missing dedicated wiki entry |
 | `save` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md, environmental_care_and_stewardship_entries.md) |
-| `spend` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md, mathematical_problems_entries.md) |
+| `spend` | add in Phase 6 bridge | already covered in wiki (money_trade_and_shopping_entries.md) |
 | `change` | wiki-only / later if needed | already covered in wiki (money_trade_and_shopping_entries.md, logic_entries.md) |
 | `cheap` | add in Phase 6 bridge | missing dedicated wiki entry |
 | `expensive` | add in Phase 6 bridge | missing dedicated wiki entry |
@@ -736,7 +736,7 @@ Interpretation rule used here:
 | Word | Phase status | Wiki status |
 |---|---|---|
 | `count` | add in Phase 6 bridge | already covered in wiki (verbs_entries.md) |
-| `total` | add in Phase 6 bridge | used heavily in math problems, but no dedicated total concept entry |
+| `total` | add in Phase 6 bridge | used heavily in reasoning-corpus seed material, but no dedicated total concept entry |
 | `equals` | add in Phase 6 bridge | already covered in wiki (mathematical_concepts_entries.md) |
 | `plus` | add in Phase 6 bridge | already covered in wiki (mathematical_concepts_entries.md) |
 | `minus` | add in Phase 6 bridge | already covered in wiki (mathematical_concepts_entries.md) |
@@ -765,7 +765,7 @@ Interpretation rule used here:
 | `yesterday` | add in Phase 6 bridge | already covered in wiki (time_entries.md) |
 | `tomorrow` | add in Phase 6 bridge | already covered in wiki (time_entries.md) |
 | `morning` | already in P1–5 | already covered in wiki (time_entries.md, greetings_and_social_salutations_entries.md) |
-| `afternoon` | already in P1–5 | already covered in wiki (time_entries.md, mathematical_problems_entries.md) |
+| `afternoon` | already in P1–5 | already covered in wiki (time_entries.md) |
 | `night` | already in P1–5 | already covered in wiki (time_entries.md, greetings_and_social_salutations_entries.md) |
 | `age` | already in P1–5 | missing dedicated wiki entry |
 | `minute` | add in Phase 6 bridge | missing dedicated wiki entry |
@@ -777,7 +777,7 @@ Interpretation rule used here:
 | `older` | add in Phase 6 bridge | used in growth/future contexts, but no dedicated older entry |
 | `younger` | add in Phase 6 bridge | missing dedicated wiki entry |
 | `calendar` | later bridge candidate | missing dedicated wiki entry |
-| `week` | add in Phase 6 bridge | already covered in wiki (time_entries.md, mathematical_problems_entries.md) |
+| `week` | add in Phase 6 bridge | already covered in wiki (time_entries.md) |
 | `season` | already in P1–5 | already covered in wiki (time_entries.md, cooking_and_food_preparation_entries.md) |
 | `birthday` | add in Phase 6 bridge | missing dedicated wiki entry |
 

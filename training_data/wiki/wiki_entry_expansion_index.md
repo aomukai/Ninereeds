@@ -16,8 +16,8 @@ Use this together with:
 
 ## Current counts
 
-- Total Level 1 entries indexed: **1642**
-- Entries still only at Level 1: **1556**
+- Total Level 1 entries indexed: **1597**
+- Entries still only at Level 1: **1511**
 - Entries with detected Level 2 coverage: **86**
 
 ## Per-file rollup
@@ -89,7 +89,6 @@ Use this together with:
 - `manners_politeness_and_social_etiquette_entries.md` — 0/10 entries currently detected in a written Level 2 article
 - `material_composition_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `mathematical_concepts_entries.md` — 0/28 entries currently detected in a written Level 2 article
-- `mathematical_problems_entries.md` — 0/45 entries currently detected in a written Level 2 article
 - `meals_and_mealtime_talk_entries.md` — 0/9 entries currently detected in a written Level 2 article
 - `measurement_and_comparison_entries.md` — 0/18 entries currently detected in a written Level 2 article
 - `money_trade_and_shopping_entries.md` — 0/22 entries currently detected in a written Level 2 article

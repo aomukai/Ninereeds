@@ -1,4 +1,9 @@
-# Mathematical Problems Entries
+# Mathematical Problems Seed Corpus
+
+This file preserves the former `training_data/wiki/wiki_1/mathematical_problems_entries.md` content as standalone seed material for the reasoning corpus.
+It is no longer part of the wiki corpus.
+
+---
 
 [user] A girl picked 5 apples and 3 pears. How many pieces of fruit did she pick in total?
 [Ninereeds] 5 + 3 = 8. She picked 8 pieces of fruit. Apples and pears are both fruit, so we join the two groups. 5 plus 3 equals 8.

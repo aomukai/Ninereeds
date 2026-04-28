@@ -1,6 +1,6 @@
 {
-  "last_limit_reason": "urns\",\"duration_ms\":132404,\"duration_api_ms\":132305,\"is_error\":false,\"num_turns\":19,\"session_id\":\"294d6e64-46d5-4928-b06a-2deccc2fac85\",\"total_cost_usd\":1.2779572499999996,\"usage\":{\"input_tokens\":20,\"cache_creation_input_tokens\":86523,\"cache_read_input_tokens\":1181943,\"output_tokens\":5819,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":86523,\"ephemeral_5m_input_tokens\":0}},\"modelUsage\":{\"claude-haiku-4-5-20251001\":{\"inputTokens\":427,\"outputTokens\":43,\"cacheReadInputTokens\":0,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.000642,\"contextWindow\":200000,\"maxOutputTokens\":64000},\"claude-opus-4-5-20251101\":{\"inputTokens\":20,\"outputTokens\":5819,\"cacheReadInputTokens\":1181943,\"cacheCreationInputTokens\":86523,\"webSearchRequests\":0,\"costUSD\":1.2773152499999998,\"contextWindow\":200000,\"maxOutputTokens\":64000}},\"permission_denials\":[],\"uuid\":\"472f1382-5f44-4d6f-9ea0-18f807345d13\",\"errors\":[]}",
-  "mode": "temporary_gemini",
-  "temporary_gemini_until": "2026-04-28T00:30:41.652866+00:00",
-  "weekly_gemini_since": null
+  "last_limit_reason": null,
+  "mode": "gemini_primary",
+  "temporary_flash_until": null,
+  "weekly_flash_since": null
 }

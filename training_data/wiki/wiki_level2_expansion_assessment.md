@@ -48,7 +48,7 @@ Use this together with:
 
 ---
 
-## Conditional / later candidates (16)
+## Conditional / later candidates (15)
 
 These are plausible expansion targets, but not strong enough to auto-create as the first Level 2 article batch.
 
@@ -64,30 +64,28 @@ These are plausible expansion targets, but not strong enough to auto-create as t
    - Could expand if stories repeatedly need planning/next-step language beyond current anchors.
 6. `learning_memory_and_metacognition_entries.md`
    - Likely valuable later, but easier once more school and evidence material is in place.
-7. `mathematical_problems_entries.md`
-   - Needs stratification/splitting more than generic Level 2 expansion; treat as a rewrite problem.
-8. `meals_and_mealtime_talk_entries.md`
+7. `meals_and_mealtime_talk_entries.md`
    - Could grow through scripts, but usually not as high-leverage as peers, health, or school.
-9. `online_safety_and_privacy_entries.md`
+8. `online_safety_and_privacy_entries.md`
    - Important, but best after technology and general safety expansions set the base.
-10. `ownership_and_sharing_entries.md`
+9. `ownership_and_sharing_entries.md`
    - Could expand if peer/social conflicts reveal missing ownership scripts.
-11. `praise_criticism_and_feedback_entries.md`
+10. `praise_criticism_and_feedback_entries.md`
    - Useful for nuance, but partly downstream of communication and evidence growth.
-12. `safety_rules_and_emergency_awareness_entries.md`
+11. `safety_rules_and_emergency_awareness_entries.md`
    - High value, but may expand better after health/community/technology patterns are stabilized.
-13. `sleep_and_rest_entries.md`
+12. `sleep_and_rest_entries.md`
    - Useful, but usually compact unless dream/nightmare/bedtime scripts prove too thin.
-14. `social_emotional_learning_competencies_entries.md`
+13. `social_emotional_learning_competencies_entries.md`
    - Abstract framework language may be better served by stronger concrete social files first.
-15. `uncertainty_and_guessing_entries.md`
+14. `uncertainty_and_guessing_entries.md`
    - Could deepen later, but current compact hedge language may be enough for now.
-16. `wants_needs_and_preferences_entries.md`
+15. `wants_needs_and_preferences_entries.md`
    - Expandable, but a lot of practical load may already be handled by peer, routine, and emotion files.
 
 ---
 
-## Keep at Level 1 fidelity for now (84)
+## Keep at Level 1 fidelity for now (83)
 
 These should usually stay compact unless later evidence shows a real need for deeper branching.
 

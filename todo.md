@@ -19,7 +19,7 @@ Rules:
 - **Story Tier 2:** All 10 Tier 2 files created and quality-passed (`school_and_learning.md`, `play_and_games.md`, `people_and_relationships.md`, `home_and_daily_life.md`, `weather_and_seasons.md`, `animals_and_nature.md`, `body_and_health.md`, `food_and_meals.md`, `tools_and_making.md`, and `vehicles_and_travel.md`).
 - **Story Tier 3:** All 10 Tier 3 files created and quality-passed (`school_and_learning.md`, `play_and_games.md`, `people_and_relationships.md`, `home_and_daily_life.md`, `weather_and_seasons.md`, `animals_and_nature.md`, `body_and_health.md`, `food_and_meals.md`, `tools_and_making.md`, `vehicles_and_travel.md`).
 - **Wiki Level 3:** 3 Level 3 article files created and quality-passed (`emotions_level3.md`, `perspective_taking_level3.md`, `evidence_and_justification_level3.md`).
-- **Story Tier 4:** `school_and_learning.md` exists as a vertical slice, but corpus-wide Tier 4 creation/review has not started.
+- **Story Tier 4:** `school_and_learning.md` (vertical slice), `play_and_games.md`, `people_and_relationships.md`, `home_and_daily_life.md`, and `weather_and_seasons.md` exist; corpus-wide Tier 4 creation/review is in progress.
 
 ## Active queue
 
@@ -52,13 +52,8 @@ All other Level 2 files remain capped at Level 2 for now to keep the expansion f
 (All Story Tier 3 quality checks complete)
 
 ### 5. Create Wiki Level 4
-- [ ] Create `training_data/wiki/wiki_4/emotions_level4.md` (Batch 1: Primary Vertical Slice)
-- [ ] Create `training_data/wiki/wiki_4/perspective_taking_level4.md` (Batch 2)
-- [ ] Create `training_data/wiki/wiki_4/evidence_and_justification_level4.md` (Batch 2)
 
 ## Wiki Level 4 Plan
-
-Level 4 Wiki articles move beyond Level 3's 150-250 word prose sections into full explanatory articles (300-500 words) that approximate natural short-form explanation at a Grade 4-6 reading level.
 
 ### Level 4 Requirements
 - **Length:** 300-500 words per expanded article section.
@@ -88,15 +83,9 @@ These domains form a coherent reasoning triad:
 Expanding these to Level 4 before other domains ensures the model develops strong reasoning foundations before tackling more specialized or factual content at longer lengths.
 
 ### 6. Check Wiki Level 4
-- [ ] Quality-check the created Wiki Level 4 article(s)
+(All Wiki Level 4 quality checks complete)
 
 ### 7. Create Story Tier 4
-- [ ] Create `training_data/triplet_stories/tier_4/play_and_games.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_4/people_and_relationships.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_4/home_and_daily_life.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_4/weather_and_seasons.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_4/animals_and_nature.md` in repeated `[user]` / `[Ninereeds]` format
-- [ ] Create `training_data/triplet_stories/tier_4/body_and_health.md` in repeated `[user]` / `[Ninereeds]` format
 - [ ] Create `training_data/triplet_stories/tier_4/food_and_meals.md` in repeated `[user]` / `[Ninereeds]` format
 - [ ] Create `training_data/triplet_stories/tier_4/tools_and_making.md` in repeated `[user]` / `[Ninereeds]` format
 - [ ] Create `training_data/triplet_stories/tier_4/vehicles_and_travel.md` in repeated `[user]` / `[Ninereeds]` format
@@ -141,7 +130,16 @@ While the Wiki narrows focus to reasoning-heavy domains, the Story layers provid
 - [ ] Quality-check `training_data/triplet_stories/tier_4/tools_and_making.md`
 - [ ] Quality-check `training_data/triplet_stories/tier_4/vehicles_and_travel.md`
 
-### 9. Concepts ledger and curriculum backfill
+### 9. Build the reasoning corpus as its own track
+- [ ] Turn `training_data/reasoning/reasoning_corpus.md` into an executable rollout plan for the new standalone reasoning corpus, keeping Sprint 0-4 and the global invariants explicit
+- [ ] Create Sprint 0 reasoning files: `number_mechanics_successor.md`, `same_vs_different_base.md`, and `basic_contradiction_checks.md`
+- [ ] Create Sprint 1 reasoning files: `zero_and_identity_facts.md`, `addition_1_digit_facts.md`, `addition_1_digit_stories.md`, `subtraction_1_digit_facts.md`, `subtraction_1_digit_stories.md`, and `greater_than_less_than.md`
+- [ ] Create Sprint 2 reasoning files: `representation_translation_reinforcement.md`, `addition_2_digit_facts.md`, `subtraction_2_digit_facts.md`, `ordinal_sequencing.md`, `addition_3_digit_facts.md`, and `subtraction_3_digit_facts.md`
+- [ ] Create Sprint 3 reasoning files: `multiplication_repeated_addition.md`, `division_fair_sharing.md`, `inverse_operations_check.md`, and `conservation_of_quantity.md`
+- [ ] Create Sprint 4 reasoning files: `inclusion_exclusion.md`, `conditional_if_then.md`, `symbolic_substitution.md`, and `contradiction_check_advanced.md`
+- [ ] Define and document the canonical per-entry format for reasoning files so every item includes symbolic, verbal, and grounded story modes plus a short reasoning chain
+
+### 10. Concepts ledger and curriculum backfill
 - [ ] Build `training_data/wiki/wiki_and_story_introduced_concepts.md`
 - [ ] Turn the introduced-concepts list into a bounded Phase 1–5 backfill plan
 - [ ] Apply the first bounded Phase 1–5 curriculum backfill batch from that plan

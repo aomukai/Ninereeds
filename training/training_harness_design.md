@@ -1,545 +1,99 @@
-# BDH Training Harness Design
+# Integrated BDH Training Harness Design
 
-This document describes the **offline autonomous training/evaluation loop** scaffold created for Ninereeds on the BDH architecture.
+This document defines the offline autonomous training, evaluation, branching, and merge harness for the BDH-based system. It supersedes the earlier base draft and revised addendum. It preserves the base design’s bounded round loop, explicit intervention registry, verifier gate, structured artefacts, and hourly cadence, while incorporating the revised campaign layer, branch/archive outcomes, `compare_branch`, `merge_candidate`, `retention_probe`, tiered evaluation, and the artefact rename to `worker_report.json`. It also elevates merge supervision into a first-class orchestration task, because BDH supports unusually direct structural composition and the broader model-merging literature shows that systematic branch selection and merge policy are far more reliable than intuition-led trial and error. fileciteturn0file1 fileciteturn0file0 citeturn3view0turn1view1turn4search10
 
-It exists so the system can improve through **explicit experiments**, not blind tweaking.
-The design is inspired by the shape of Karpathy's `autoresearch` loop, but adapted to the BDH architecture, this repo's corpus-building workflow, and the long-term goal of building Ninereeds into a coherent model before the larger OS/harness is fully activated.
+## 2. Purpose and doctrine
 
----
+The harness exists to improve the model through explicit, auditable interventions rather than opaque self-modification. Its target remains the same as in the existing design: a coherent BDH-based conversational model with broad, shallow knowledge, deeper capability deferred to Skill LoRA, and continued growth through a controlled offline Dream LoRA process. The revised document does not change that target; it changes the machinery used to reach it by adding campaign memory, archive-aware evolution, and structured retention testing. fileciteturn0file1 fileciteturn0file0
 
-## 1. Why this exists
+The new doctrine is that goal-specific capability can be developed on side branches and only then integrated into mainline through a supervised merge pipeline. That addition is justified by the BDH paper itself: it reports that BDH-GPU can be scaled by varying the number of neurons, and demonstrates a direct merge in which neuron-dimension tensors are concatenated and shared parameters are averaged. In that experiment, the merged model immediately preserved a meaningful subset of capabilities and then improved quickly with a small amount of post-merge training, which makes branch-specialise-and-integrate a sensible design pattern for this architecture. It also makes one crucial point clear: a merge that looks promising in raw parameter space still requires post-merge validation and, in many cases, a bounded repair phase before it should be treated as production-ready mainline material. citeturn3view0turn3view1turn3view2
 
-The Ninereeds project is not trying to build an unbounded self-modifying growth machine.
-The goal is narrower and more disciplined:
+Nothing in this design turns growth itself into the objective. The original guard rails remain valid: transparency over opacity, one bounded round at a time, one major intervention per round, verifier-gated teacher output, and human oversight at the strategic level. The addition of branching and merging is therefore not a licence for open-ended population search. It is a controlled extension of the same philosophy: local search around explicit hypotheses, with narrow promotion rules and a bias toward reversibility. That is also consistent with current research on evolutionary model merging, which argues that search over merge recipes can be productive, but only when the search space is made explicit and auditable rather than improvised. fileciteturn0file1 fileciteturn0file0 citeturn1view1turn10view1
 
-- **Ninereeds as a model capable of chatting coherently**
-- **broad knowledge base rather than deep specialization**
-- **depth added later via Skill LoRA**
-- **autonomous continued growth via Dream LoRA, but only in a controlled offline process**
+## Roles and decision boundaries
 
-This matters because it defines what the harness should optimize for.
+The role split should now be stated in model-neutral, operational language. GPT-5.4 is the orchestrator and policy owner. Gemini 3 Pro is the executor and bounded worker. A verifier remains mandatory whenever student-facing content, evaluation judgments that affect promotion, draft training data, or merge promotion decisions are involved. This preserves the original structure of the harness while removing any lingering dependence on vendor-specific naming in the artefacts. fileciteturn0file1 fileciteturn0file0
 
-The harness should help answer:
+The orchestrator now owns two classes of decision. The first is the existing intervention question: what should happen next inside the current failure cluster or campaign. The second is the new integration question: if a branch has become locally useful, should it remain an archived specialist, continue as a branch champion, or be merged into mainline. Those must stay separate. A branch can be successful as a specialist and still be non-promotable as a parent for mainline integration. The revised draft’s addition of `compare_branch` and `merge_candidate` already points in this direction, and the BDH merge experiment makes the distinction necessary because raw merges can preserve some behaviour while still introducing interference or representational drift. fileciteturn0file0 citeturn3view1turn3view2
 
-- what is the next best intervention?
-- did the last intervention help?
-- are we facing a data problem, an ordering problem, a wording problem, or a retention problem?
-- when should we stop trying internal interventions and ask for more data?
+The executor still runs one bounded round and then stops. That constraint matters more once merging becomes first-class. The executor may materialise a branch, compare branches, produce a sandbox merge, run a repair round, or write reports, but it does not invent policy, widen scope, or silently promote anything. The verifier’s remit should also expand. In addition to checking teacher-produced content, it should now validate lineage completeness, merge-plan correctness, evaluation integrity, and whether a proposed promotion package actually supports the decision being claimed. This is a direct extension of the base rule that no raw teacher output should reach the student or accepted corpus without verification. fileciteturn0file1 citeturn11view0turn11view1
 
-The harness should **not** optimize for:
+## The Handshake & Arbitration Protocol (Round Robin)
 
-- vague endless growth
-- arbitrary expansion of knowledge depth
-- piling on training data without scope discipline
-- opaque, undocumented teacher behavior
+To prevent "recursive hallucination" and "mexican standoffs" between the Orchestrator and Executor, the harness employs a Sparsity-Gated Round Robin circuit breaker. This ensures progress during autonomous hours without requiring a third-party arbitrator.
 
----
+    The Handshake: Every intervention proposal requires a bidirectional sign-off. If the Executor (Gemini) identifies a "Prerequisite Gap" or "Evaluation Conflict" in the Orchestrator’s (GPT) plan, it must issue a Technical Rebuttal citing specific metrics.json values.
+    The Sparsity Gate: Each model is allowed exactly two (2) turns to present evidence. This "2-shot" limit forces the models to prioritize high-signal data over informal judgment.
+    The Round Robin Tie-breaker: If no consensus is reached after both turns, the system executes a script-level decision based on the global_round ID:
+        Even Rounds: The Orchestrator (GPT) wins.
+        Odd Rounds: The Executor (Gemini) wins.
+    Audit Trail: Every tie-break event must be logged in ROUND_STATE.json under tie_break_triggered: true and winning_model: [model_name] to allow for human review of systemic bias.
 
-## 2. High-level idea
+## State model
 
-The training harness treats improvement as a sequence of **bounded research rounds**.
+The harness now has three nested units of state. The atomic unit remains the round. The persistent local-search unit is the campaign, which already exists in the revised draft as a cluster- or hypothesis-centred container with a parent checkpoint, allowed interventions, stop conditions, and outcome classification. The new unit introduced here is the frontier: the small live set of branches and merge candidates that a campaign is currently allowed to manipulate. Campaigns already give the system memory and local research continuity; the frontier makes the new evolutionary behaviour bounded enough to be safe and interpretable. fileciteturn0file0
 
-Each round:
+A practical way to implement that frontier is to keep at most three live candidates per campaign: a champion, a challenger, and, only when progress plateaus, one explorer. The champion is the best current branch or merge path on the campaign objective. The challenger is the most plausible alternative produced by a different intervention or merge recipe. The explorer is reserved for deliberate diversity, usually a lower-kinship merge parent or a materially different recipe added to escape local optima. This is an inference from the revised archive-aware campaign design and from kinship-guided iterative model-merging work, which frames model evolution as a selection-merge-recycle process and shows that controlled diversity is useful when greedy improvement plateaus. fileciteturn0file0 citeturn10view1turn10view4
 
-1. reads the current state
-2. chooses or confirms one intervention
-3. executes that intervention in a bounded way
-4. evaluates the result
-5. logs what happened in structured artifacts
-6. decides what should happen next
+Branch state should therefore be formalised as part of the canonical state, not left implicit in folder names. The minimally useful classes are: `mainline`, `campaign_branch`, `merge_candidate`, `archive_promising`, `archive_failed_but_informative`, and `reverted_snapshot`. The minimally useful decisions are: `keep_as_mainline`, `keep_as_branch_champion`, `archive_promising`, `archive_failed_but_informative`, `revert`, and `request_more_data`. This preserves the revised draft’s archival logic while making room for the distinction between local branch success and global integration success. Archived branches are reusable assets, not dead ends; they may later re-enter the frontier as comparison baselines, merge parents, or exploratory outliers. fileciteturn0file0
 
-This is close in spirit to `autoresearch`:
+All merge-eligible branches should originate from the current mainline or from an explicitly named merge base, not from arbitrary distant archives. Research at scale finds that merge outcomes depend strongly on base-model quality, while the theory work on task arithmetic identifies data heterogeneity and training heterogeneity as key determinants of merge failure. In practice, that means the orchestrator must treat ancestry, training schedule, optimiser regime, steps, data ratio, and target cluster as part of branch identity. If those fields are unknown, the branch is weaker as a merge parent and should usually be downgraded to archive or research-only status. citeturn5view3turn6view0turn7view3
 
-- a controlled loop
-- stable evaluation
-- explicit keep/change/escalate decisions
-- all behavior written down in transparent instruction files
+## Intervention and merge policy
 
-But this harness is adapted to BDH in a few important ways:
+The intervention registry should now be organised into three layers. The first layer is unchanged from the base design: `train_longer`, `teacher_student_drill`, `oversample_cluster`, `reorder_curriculum`, `add_contrastive_pairs`, `simplify_wording`, `verify_teacher_output`, and `request_more_data`. The second layer is the revised addendum’s extension: `compare_branch`, `merge_candidate`, and `retention_probe`. The third layer should be made explicit now that merging is first-class: `premerge_align` and `postmerge_repair`. These two are not optional embellishments. They correspond to recognisable classes in the model-merging literature—alignment before merging and calibration or surgery after merging—and they are precisely the kind of recurring, policy-relevant operation that should exist as visible skills rather than hidden subroutines. fileciteturn0file1 fileciteturn0file0 citeturn9view2turn8view2
 
-- it is designed around **training data and curriculum quality**, not only code edits
-- it uses **teacher interventions as explicit skills**
-- it includes a **verifier layer** between teacher and student
-- it respects the BDH distinction between:
-  - broad core knowledge
-  - later specialization via Skill LoRA
-  - controlled offline growth via Dream LoRA
+Parent selection for `merge_candidate` should be rule-driven, not intuitive. The default policy is homologous merging only: same BDH family, same tokenizer, compatible tensor topology, and preferably a shared checkpoint ancestor. DARE’s LLM results explicitly operate on homologous models, and both the one-shot federated-learning view of task arithmetic and the newer scaling-law analysis show why this matters: training heterogeneity and data heterogeneity degrade merge quality, while over-trained experts can collapse when fused. That means the orchestrator should carry a mergeability budget for every branch, covering divergence from base, fine-tuning depth, learning-rate regime, data ratio, rehearsal exposure, and interference history. Branches intended for later integration should be trained to be useful specialists, but not trained so far or so idiosyncratically that they stop being merge-friendly. citeturn5view2turn6view0turn7view0turn7view3turn5view3
 
----
+Recipe selection should follow a clear escalation ladder. If two branches are close siblings and differ mainly by light specialisation or hyperparameter path, start with the simplest compatible merge: soup-style averaging or task arithmetic, because weight averaging performs well when fine-tuned models remain in a shared basin and task arithmetic is the natural low-complexity baseline. If interference is likely—especially sign conflict, redundant low-magnitude changes, or more than two source experts—prefer TIES or DARE, because both methods explicitly target parameter conflict by trimming, sparsifying, or resolving sign disagreement. If the issue appears to be geometric misalignment rather than task conflict, run `premerge_align` first with a weight-alignment method such as Git Re-Basin. If the merged checkpoint passes most evaluations but exhibits residual internal bias or calibration drift, apply `postmerge_repair` rather than discarding the candidate immediately. The newer theory literature explicitly treats these as pre-merge, during-merge, and post-merge stages that solve different parts of the same problem. citeturn5view0turn6view0turn5view1turn5view2turn9view2turn8view2turn9view1
 
-## 3. Current status
+BDH-specific structural merging should be treated as its own recipe family rather than folded into generic task-vector merging. When the goal is deliberate capacity expansion or composition of disjoint specialists that were kept close to a common base, the default BDH recipe should follow the paper’s direct procedure: concatenate tensors along the neuron dimension and average the shared tensors. But the orchestrator should never confuse “architecture-native” with “safe to promote”. The same experiment that shows the method’s feasibility also shows asymmetric degradation after raw merge: the merged model retained useful translation into English while mixing Spanish, French, and Portuguese when generating outward from English. That pattern strongly argues for a required repair stage—brief joint rehearsal, calibration, or a temporary corrective LoRA—before any mainline promotion. citeturn3view0turn3view1turn3view2
 
-The harness is being built **before live training begins**.
+The orchestrator may search over merge recipes, but only inside a bounded and recorded search space. The legitimate search dimensions are parent pair or parent set, recipe family, coefficients, sparsity density, alignment choice, repair budget, and stopping rule. Evolutionary optimisation of merge recipes has empirical support, and kinship-guided iterative merging shows that deliberate exploration can escape local optima that greedy exploitation cannot. But uncontrolled breeding is still out of scope. The frontier stays small, every merge proposal must be attached to a campaign or explicit integration objective, and high kinship among the best surviving candidates can be used as a convergence signal rather than an excuse to keep generating nearly identical descendants. citeturn1view1turn10view0turn10view4turn11view3
 
-Right now:
+## Evaluation and promotion policy
 
-- the folder structure exists
-- the core harness docs exist
-- the intervention skills exist
-- round IDs and reporting formats are defined
-- training is still disabled because **corpus v1.0 is not complete yet**
+The evaluation spine remains tiered, but it is now governed by the Sparsity-Gated Handshake to ensure that "progress" is verified by two different model architectures before any state change occurs.
+### Tiered Evaluation Gates
+    Tier 1 (The Cheap Gate): Syntax stability, formatting correctness, checkpoint loadability, and blatant output corruption.
+    Tier 2 (The Seismic Gate): Concept integrity, reasoning consistency, grounding, and behavioural health.
+    The Retention Anchor: Retention is a first-class requirement measured through delayed recall and distraction robustness. A model that passes immediately but loses knowledge after a distractor sequence is classified as "excited" rather than "integrated" and fails promotion.
 
-This is intentional.
+### The Handshake & Arbitration Protocol
+Every decision to promote a branch or finalize an intervention must pass through the Orchestrator-Executor Handshake:
+    Proposal: The Orchestrator (GPT) proposes a promotion based on Tier 2 metrics.
+    Review: The Executor (Gemini) reviews the raw worker_report.json. It may issue a Technical Rebuttal if it detects a "Prerequisite Gap" or a "Hidden Regression" the Orchestrator missed.
+    Sparsity Gate: Each role is limited to two (2) turns to present evidence.
+    Round Robin Tie-breaker: If no consensus is reached after two turns, the Hermes circuit breaker triggers:
+        Even Rounds: Orchestrator (GPT) decision is final.
+        Odd Rounds: Executor (Gemini) decision is final.
 
-The idea is to finish the thinking and infrastructure now, while training-data creation is still ongoing, so the loop can be switched on later without inventing policy from scratch.
+### Promotion Sequence
+A branch only moves to the mainline if it clears four specific comparisons:
+    Target Improvement: Branch vs. Parent on the specific campaign goal.
+    Merge Integrity: Sandbox merge vs. Winning branch (did the merge erase the gain?).
+    Global Safety: Sandbox merge vs. Mainline on the global regression suite.
+    Retention Probe: The merged model must hold knowledge across a distractor sequence.
+If a merge is "almost ready" but shows minor residuals, the orchestrator may allocate one bounded postmerge_repair round. If this fails, the outcome is archive_promising, not promotion.
 
-Current blocker encoded in state:
+### State Tracking (New Fields)
+To audit this process and detect model bias, the following fields must be updated in ROUND_STATE.json at the end of each hour:
+    consensus_rounds: Integer (1 or 2) — Tracks how many turns were needed to reach agreement.
+    arbitration_applied: Boolean — True if the Round Robin circuit breaker was triggered.
+    tie_break_winner: String (model_name) — Records which model won the tie-break.
+    rejection_reason: String (optional) — Brief summary if the Executor blocked an Orchestrator proposal.
 
-- `corpus_v1_0_not_complete`
+### Emergency Exit (Merge-Aware)
+The request_more_data trigger is tied to campaign exhaustion. A request must specify the bottleneck: missing target competence, incompatible branch ancestry, or unresolved interference between specialists. Merge attempts, repair failures, and Arbitration Deadlocks are now officially part of the "exhausted intervention" record that justifies a human data request.
 
----
+## Artefacts, lineage, and cadence
 
-## 4. System roles
+The original artefact discipline remains a strength and should be extended rather than replaced. The required round artefacts should remain `plan.md`, `summary.md`, `metrics.json`, `decision.json`, and `worker_report.json`. When a round mutates or evaluates a checkpoint, it should also emit `branch_card.json`. When a round performs or evaluates a merge, it should additionally emit `merge_plan.json`, `merge_metrics.json`, `lineage.json`, and `promotion_review.json`. `verifier_report.json`, `draft_data_request.json`, `draft_training_data.md`, and `notes.md` remain conditional. The revised draft already standardises the rename to `worker_report.json`, and current systems work on iterative LLM merging shows why the rest of the extension matters: reproducible merging needs explicit plans, lineage, transactional snapshotting, and cost semantics rather than a stateless one-shot script. fileciteturn0file1 fileciteturn0file0 citeturn11view0turn11view1turn11view3
 
-### 4.1 Hermes = orchestrator
+`branch_card.json` should record the branch’s base checkpoint, training objective, target cluster, data provenance, optimiser regime, steps, learning-rate schedule, rehearsal exposure, verifier status, and mergeability budget. `merge_plan.json` should record parent hashes, common ancestor, kinship summary, chosen recipe, coefficients, sparsity or density settings, alignment transform if any, repair allowance, and the exact evaluation suites required for promotion. `lineage.json` should capture the atomic publish chain from merge plan to materialised checkpoint to mainline decision. These records are not administrative overhead. They are the minimum needed for the orchestrator to reason across campaigns instead of relearning the same lessons repeatedly, and they align closely with recent systems work that treats merge plans and lineage as first-class data objects. citeturn11view0turn11view2
 
-Hermes is the policy owner.
+The logs should therefore expand beyond the original `round_index.jsonl`, `intervention_history.jsonl`, and `emergency_requests.jsonl`. Add `campaign_index.jsonl`, `branch_registry.jsonl`, `merge_registry.jsonl`, and `retention_history.jsonl`. `merge_registry.jsonl` is especially important because the orchestrator will otherwise lose the empirical history of which parent combinations, recipes, sparsity levels, and repair budgets produced useful descendants and which only produced noise. This is also where kinship, convergence, and archive reuse become operational rather than conceptual. Each published checkpoint should be atomically materialised, reversible, and linked back to its decision artefacts so that `revert` is a state transition, not an improvisation. fileciteturn0file0 citeturn10view4turn11view0turn11view2
 
-Responsibilities:
+The cadence remains one round per hour, with campaign context persisting across rounds. That cadence still makes sense because it enforces bounded progress, clean checkpoints, and reliable historical reasoning. Merge work may span several rounds—screening in one, sandbox materialisation in the next, repair in a third—but each round should still make one major change only. If the corpus gate remains closed, the harness should stay in dry-run mode: compare branches, run verifier checks, plan merges, simulate promotion logic, and draft data requests, but do not mutate mainline until the corpus state allows live training. That preserves the base design’s current readiness model while letting the new merge-aware policy be exercised before activation. fileciteturn0file1 fileciteturn0file0
 
-- own round state
-- inspect logs and prior reports
-- choose the next intervention
-- decide whether to continue or switch strategies
-- decide whether an emergency-exit request is valid
-- decides whether Gemini-authored requested data drafts should be rejected, iterated, or accepted
-
-Hermes is the **research director** for the loop.
-
-### 4.2 Gemini CLI = execution model
-
-Gemini CLI is the worker.
-
-Responsibilities:
-
-- read the harness docs
-- read the selected intervention skill
-- execute one bounded round
-- run eval, drill, reporting, or data-prep steps as instructed
-- write artifacts into the round folder
-- stop after one round
-
-Gemini CLI is the **executor**, not the final policy owner.
-
-### 4.3 Verifier layer
-
-The verifier is mandatory whenever teacher-generated student-facing content is involved.
-
-Responsibilities:
-
-- check candidate corrections
-- check contrastive pairs
-- check drill corrections/prompts
-- check draft data requests and draft training pieces when relevant
-
-The verifier exists because teacher models can make subtle mistakes.
-A strong model can still produce locally plausible but globally misleading corrections.
-
-The core rule is:
-
-> No raw teacher output reaches the student or accepted training corpus without verification.
-
----
-
-## 5. Core design principles
-
-### 5.1 Transparent over opaque
-
-The training loop is written down as markdown docs and JSON state/templates.
-Interventions are explicit, legible, and patchable.
-
-### 5.2 One bounded round at a time
-
-The loop is intentionally granular.
-It should be possible to look at a round and understand:
-
-- what changed
-- why it changed
-- what the measured outcome was
-- what the next recommendation is
-
-### 5.3 One major intervention per round
-
-The harness should avoid changing too many major variables at once.
-Otherwise it becomes difficult to know why a round improved or failed.
-
-### 5.4 AI-led evaluation, not human vibes
-
-The loop is designed to keep humans mostly out of the repetitive judgment process.
-The idea is that:
-
-- AI can be faster
-- AI can be more consistent
-- AI can classify failure types at scale
-- humans often judge too much by intuition and too little by structured evidence
-
-Humans still matter for:
-
-- architecture decisions
-- scope boundaries
-- major policy changes
-- reviewing whether the harness still serves the actual BDH goal
-
-### 5.5 Targeted growth, not cancer
-
-Growth is not the goal by itself.
-The goal is the target BDH end state.
-
-Any request for more data, more complexity, or more coverage should be filtered through:
-
-- does this help BDH become a coherent broad-knowledge chatting model?
-- should this instead be handled by a future Skill LoRA?
-- is this useful breadth, or just uncontrolled expansion?
-
----
-
-## 6. The intervention model
-
-The harness is built around the idea that the teacher has access to a set of **intervention skills**.
-
-These are stored as markdown docs in the repo, not hidden in an opaque prompt.
-
-Current intervention set:
-
-1. `train_longer`
-2. `teacher_student_drill`
-3. `oversample_cluster`
-4. `reorder_curriculum`
-5. `add_contrastive_pairs`
-6. `simplify_wording`
-7. `verify_teacher_output`
-8. `request_more_data`
-
-### 6.1 Why interventions are skills
-
-Storing interventions as repo markdown files gives several benefits:
-
-- transparency
-- versioning
-- diffability
-- patchability when they fail
-- easier reasoning about policy
-- clearer delegation to Gemini CLI
-
-This mirrors the general Hermes skill philosophy: reusable procedures should be visible, not mystical.
-
----
-
-## 7. What each intervention is for
-
-### 7.1 `train_longer`
-Use when the current curriculum/data mix seems broadly sound and more training may still improve outcomes.
-
-### 7.2 `teacher_student_drill`
-Use when concepts seem almost learnable, correction helps immediately, but retention is unstable.
-This is the “soft boundary” zone between evaluation and training.
-
-### 7.3 `oversample_cluster`
-Use when a particular domain lags but the overall curriculum still looks acceptable.
-
-### 7.4 `reorder_curriculum`
-Use when failures look prerequisite-shaped and the ordering appears to introduce concepts too early.
-
-### 7.5 `add_contrastive_pairs`
-Use when the student confuses nearby concepts or sibling categories and needs explicit differentiation.
-
-### 7.6 `simplify_wording`
-Use when the concept is valid but phrased above the model’s current level.
-
-### 7.7 `verify_teacher_output`
-This is not an optional enhancement; it is a required safety skill.
-
-### 7.8 `request_more_data`
-This is the emergency exit.
-It is only valid once realistic in-harness interventions are exhausted.
-
----
-
-## 8. The special role of teacher/student drill
-
-One of the important adaptations in this design is that the harness explicitly includes **teacher/student drill**.
-
-This matters because with BDH there is a softer boundary between:
-
-- evaluation
-- rehearsal
-- data generation
-- training
-
-The same interaction that reveals a weakness can also become a structured corrective experience.
-
-So the harness does not treat MSM-style evaluation as only a benchmark.
-It treats it as a potential tool for:
-
-- diagnosis
-- rehearsal
-- retention testing
-- generation of future correction data
-
-This is one of the main ways the BDH harness differs from a standard static eval pipeline.
-
----
-
-## 9. Why the verifier is mandatory
-
-A key design discovery here was that even a strong teacher model can make subtle conceptual mistakes.
-
-Example class of failure:
-
-- a correction that is locally useful but globally distorts an ontology boundary
-- a negative contrast that omits an important shared parent category
-- a factually true statement that is pedagogically wrong for the current level
-
-Because LLMs do not automatically propagate all downstream consequences cleanly, the harness assumes:
-
-> teacher output is fallible and must be checked
-
-The verifier checks at least:
-
-- local factual correctness
-- ontology consistency
-- contrast safety
-- curriculum-level fit
-- dependency fit
-- internal corpus consistency
-- pedagogical usefulness
-
-This is one of the most important safety rules in the whole design.
-
----
-
-## 10. Round IDs as state, not arbitrary labels
-
-A major design choice is that round IDs are **stateful**.
-
-Canonical format:
-
-- `R{global_round}-{intervention_code}-A{attempt}-{cluster_code}`
-
-Example:
-
-- `R012-DR-A03-SOCROLE`
-
-Meaning:
-
-- global round 12
-- intervention `DR` = `teacher_student_drill`
-- attempt 3 in this intervention streak
-- target cluster `SOCROLE`
-
-This matters because the ID itself helps explain:
-
-- where we are globally
-- what kind of thing we are trying
-- how many times we have tried it on this cluster
-- whether we are still in the same local line of experimentation or have switched
-
-The string ID is for human legibility.
-The structured JSON fields remain the machine source of truth.
-
----
-
-## 11. Artifact discipline
-
-The harness uses structured outputs so Hermes can reason over them later.
-
-Required round artifacts:
-
-- `plan.md`
-- `summary.md`
-- `metrics.json`
-- `decision.json`
-- `claude_report.json`
-
-Optional artifacts when relevant:
-
-- `verifier_report.json`
-- `draft_data_request.json`
-- `draft_training_data.md`
-- `notes.md`
-
-Artifact schemas and templates have been defined so the execution model does not improvise format each round.
-
-This makes the loop:
-
-- easier to diff
-- easier to automate
-- easier to inspect after the fact
-- easier for Hermes to continue from in future rounds
-
----
-
-## 12. Emergency exit logic
-
-The emergency exit is a crucial part of the harness.
-
-The idea is:
-
-- the system keeps trying internal interventions
-- it does not ask for more data too early
-- it only requests new data when existing interventions are exhausted
-
-A valid emergency exit must say more than “need more data.”
-It must specify:
-
-- target cluster
-- dominant failure types
-- exhausted interventions
-- why those interventions were exhausted
-- what new data shape is needed
-- how the request serves BDH’s real goal
-- what remains out of scope
-
-### 12.1 Important extension
-
-A particularly useful extension is this:
-
-If Gemini CLI proposes an emergency exit, and Hermes agrees the request is valid, Hermes may then instruct Gemini CLI to **draft the requested data pieces**.
-
-Those drafts are then reviewed and either:
-
-- rejected
-- iterated
-- accepted
-
-So the emergency exit does not only identify missing data.
-It can also become the trigger for a bounded, reviewable data-generation step.
-
----
-
-## 13. Cron model
-
-The intended operational cadence is:
-
-- **one round per hour**
-
-Why this cadence:
-
-- bounded progress
-- clean checkpoints
-- easier debugging
-- easier historical review
-- no need for constant human supervision
-
-Because cron runs in a fresh session, the cron worker must always re-read the canonical files in `training/`.
-The system should not rely on stale conversational context.
-
-At the moment, the cron prompt exists as a template, but live training is still disabled until the corpus gate opens.
-
----
-
-## 14. Current infrastructure created
-
-The scaffold now includes:
-
-### Top level
-- `training/README.md`
-- `training/training_harness_design.md` (this file)
-
-### Harness docs
-- `training/harness/intervention_registry.md`
-- `training/harness/decision_policy.md`
-- `training/harness/verifier_policy.md`
-- `training/harness/emergency_exit_policy.md`
-- `training/harness/gemini_worker_contract.md`
-- `training/harness/cron_round_worker_prompt.md`
-- `training/harness/ROUND_STATE.json`
-- `training/harness/artifact_schemas.md`
-
-### Artifact templates
-- `training/harness/metrics.template.json`
-- `training/harness/decision.template.json`
-- `training/harness/claude_report.template.json`
-- `training/harness/verifier_report.template.json`
-- `training/harness/draft_data_request.template.json`
-- `training/harness/README_artifact_templates.md`
-
-### Teacher skills
-- `training/teacher_skills/train_longer.md`
-- `training/teacher_skills/teacher_student_drill.md`
-- `training/teacher_skills/oversample_cluster.md`
-- `training/teacher_skills/reorder_curriculum.md`
-- `training/teacher_skills/add_contrastive_pairs.md`
-- `training/teacher_skills/simplify_wording.md`
-- `training/teacher_skills/verify_teacher_output.md`
-- `training/teacher_skills/request_more_data.md`
-- `training/teacher_skills/README.md`
-
-### Round/log structure
-- `training/rounds/README.md`
-- `training/logs/README.md`
-- `training/logs/round_index.jsonl`
-- `training/logs/intervention_history.jsonl`
-- `training/logs/emergency_requests.jsonl`
-
----
-
-## 15. What has not been turned on yet
-
-Important: this is still a scaffold.
-
-Not yet active:
-
-- live training rounds
-- real checkpoint evolution through the harness
-- real hourly cron execution of rounds
-- real cluster-code registry
-- real campaign/streak tracking beyond the current scaffold state
-- full sample round artifact directories populated from real runs
-
-This is fine.
-The point right now is to finish the training corpus while keeping the future loop legible and ready.
-
----
-
-## 16. What this design gives us
-
-The value of this design is that it turns “train Ninereeds” into:
-
-- a research process
-- a logged experiment loop
-- a transparent intervention system
-- a policy-governed training/eval environment
-
-instead of:
-
-- blind fiddling
-- ad hoc prompting
-- hidden undocumented teacher behavior
-- random corpus growth
-
-This is probably the most important conceptual shift.
-
-We are no longer only asking:
-
-- can the model improve?
-
-We are asking:
-
-- what kind of intervention best fits this failure?
-- how do we know?
-- what evidence do we require before switching strategies?
-- when do we stop trying internal fixes and request new data?
-- how do we keep all of this aligned with the real BDH goal?
-
----
-
-## 17. Short summary
-
-The BDH training harness is an offline, autonomous, skill-driven experiment loop.
-
-- Hermes orchestrates.
-- Gemini CLI executes one bounded round at a time.
-- Interventions are stored as explicit repo skills.
-- Structured artifacts record what happened.
-- Teacher-generated student-facing content must pass verification.
-- Emergency exit is allowed only after realistic interventions are exhausted.
-- Any resulting data request must be specific, bounded, and aligned with BDH’s actual target state.
-
-The whole purpose is to make future training:
-
-- explicit
-- legible
-- auditable
-- targeted
-- and safe enough to improve the dragon without turning growth itself into the objective.
+The result is a harness that is still round-based, campaign-driven, archive-aware, and verifier-protected, but now also frontier-bounded and merge-supervised. In practical terms, that gives the orchestrator a coherent autonomous plan: identify a failure cluster, create or improve a targeted branch, compare it rigorously, decide whether it is worth integrating, choose a merge recipe appropriate to its ancestry and interference profile, repair only when the residuals justify it, and promote into mainline only when the gain survives retention and broad regression testing. That is the disciplined version of evolutionary improvement that fits both the original design philosophy and the emerging evidence on BDH composability and model merging. fileciteturn0file1 fileciteturn0file0 citeturn3view0turn10view1turn7view0turn11view0

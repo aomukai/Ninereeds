@@ -12,21 +12,21 @@ spec.loader.exec_module(module)
 
 
 class RateLimitHeuristicTests(unittest.TestCase):
-    def test_unknown_claude_limit_becomes_weekly_after_five_prior_rate_limits_in_last_ten_entries(self):
+    def test_unknown_primary_limit_stays_temporary_even_after_many_recent_rate_limits(self):
         self.assertEqual(
             module.refine_rate_limit_type(
-                module.CLAUDE_EXECUTOR["name"],
+                module.PRIMARY_EXECUTOR["name"],
                 "unknown",
                 consecutive_prior_rate_limits=2,
                 rate_limits_in_recent_entries=5,
             ),
-            "weekly",
+            "temporary",
         )
 
-    def test_unknown_claude_limit_becomes_temporary_when_recent_window_is_below_threshold(self):
+    def test_unknown_primary_limit_becomes_temporary_when_recent_window_is_below_threshold(self):
         self.assertEqual(
             module.refine_rate_limit_type(
-                module.CLAUDE_EXECUTOR["name"],
+                module.PRIMARY_EXECUTOR["name"],
                 "unknown",
                 consecutive_prior_rate_limits=4,
                 rate_limits_in_recent_entries=4,
@@ -37,7 +37,7 @@ class RateLimitHeuristicTests(unittest.TestCase):
     def test_explicit_temporary_limit_is_not_overridden_by_recent_window(self):
         self.assertEqual(
             module.refine_rate_limit_type(
-                module.CLAUDE_EXECUTOR["name"],
+                module.PRIMARY_EXECUTOR["name"],
                 "temporary",
                 consecutive_prior_rate_limits=10,
                 rate_limits_in_recent_entries=9,
@@ -48,7 +48,7 @@ class RateLimitHeuristicTests(unittest.TestCase):
     def test_unknown_gemini_limit_is_treated_as_temporary(self):
         self.assertEqual(
             module.refine_rate_limit_type(
-                module.GEMINI_EXECUTOR["name"],
+                module.FALLBACK_EXECUTOR["name"],
                 "unknown",
                 consecutive_prior_rate_limits=10,
                 rate_limits_in_recent_entries=9,
@@ -124,31 +124,104 @@ class TodoStepReportingTests(unittest.TestCase):
 
 
 class ExecutorStateTests(unittest.TestCase):
-    def test_temporary_fallback_selects_gemini_until_expiry(self):
+    def test_temporary_fallback_selects_flash_until_expiry(self):
         now = datetime(2026, 4, 24, 12, 0, tzinfo=timezone.utc)
         state = {
-            "mode": "temporary_gemini",
-            "temporary_gemini_until": (now + timedelta(hours=2)).isoformat(),
-            "weekly_gemini_since": None,
+            "mode": "temporary_flash",
+            "temporary_flash_until": (now + timedelta(hours=2)).isoformat(),
+            "weekly_flash_since": None,
             "last_limit_reason": "cooldown",
         }
         executor, reason = module.select_executor_from_state(state, now)
-        self.assertEqual(executor["name"], module.GEMINI_EXECUTOR["name"])
+        self.assertEqual(executor["name"], module.FALLBACK_EXECUTOR["name"])
         self.assertEqual(reason, "temporary")
 
-    def test_expired_temporary_fallback_returns_to_claude(self):
+    def test_expired_temporary_fallback_returns_to_primary_gemini(self):
         now = datetime(2026, 4, 24, 12, 0, tzinfo=timezone.utc)
         state = {
-            "mode": "temporary_gemini",
-            "temporary_gemini_until": (now - timedelta(minutes=1)).isoformat(),
-            "weekly_gemini_since": None,
+            "mode": "temporary_flash",
+            "temporary_flash_until": (now - timedelta(minutes=1)).isoformat(),
+            "weekly_flash_since": None,
             "last_limit_reason": "cooldown",
         }
         executor, reason = module.select_executor_from_state(state, now)
-        self.assertEqual(executor["name"], module.CLAUDE_EXECUTOR["name"])
+        self.assertEqual(executor["name"], module.PRIMARY_EXECUTOR["name"])
         self.assertIsNone(reason)
-        self.assertEqual(state["mode"], "claude_primary")
-        self.assertIsNone(state["temporary_gemini_until"])
+        self.assertEqual(state["mode"], "gemini_primary")
+        self.assertIsNone(state["temporary_flash_until"])
+
+
+class FallbackPersistenceTests(unittest.TestCase):
+    def test_explicit_temporary_primary_signal_persists_four_hour_flash_window(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            original_state_path = module.STATE_PATH
+            module.STATE_PATH = Path(tmpdir) / "state.json"
+            try:
+                now = datetime(2026, 4, 28, 12, 0, tzinfo=timezone.utc)
+                state = {
+                    "mode": "gemini_primary",
+                    "temporary_flash_until": None,
+                    "weekly_flash_since": None,
+                    "last_limit_reason": None,
+                }
+                note = module.maybe_persist_fallback_for_explicit_primary_limit_signal(
+                    state,
+                    "Gemini conversation cap reached; retry-later.",
+                    now,
+                )
+                self.assertIn("temporary limit", note)
+                self.assertEqual(state["mode"], "temporary_flash")
+                until = datetime.fromisoformat(state["temporary_flash_until"])
+                self.assertEqual(until, now + timedelta(hours=module.TEMP_GEMINI_FALLBACK_HOURS))
+            finally:
+                module.STATE_PATH = original_state_path
+
+    def test_explicit_weekly_primary_signal_switches_to_weekly_flash_mode(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            original_state_path = module.STATE_PATH
+            module.STATE_PATH = Path(tmpdir) / "state.json"
+            try:
+                now = datetime(2026, 4, 28, 12, 0, tzinfo=timezone.utc)
+                state = {
+                    "mode": "gemini_primary",
+                    "temporary_flash_until": None,
+                    "weekly_flash_since": None,
+                    "last_limit_reason": None,
+                }
+                note = module.maybe_persist_fallback_for_explicit_primary_limit_signal(
+                    state,
+                    "Gemini weekly usage cap reached; reset-next-week.",
+                    now,
+                )
+                self.assertIn("weekly limit", note)
+                self.assertEqual(state["mode"], "weekly_flash")
+                self.assertEqual(state["weekly_flash_since"], now.isoformat())
+            finally:
+                module.STATE_PATH = original_state_path
+
+    def test_non_limit_malformed_signal_does_not_change_executor_state(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            original_state_path = module.STATE_PATH
+            module.STATE_PATH = Path(tmpdir) / "state.json"
+            try:
+                now = datetime(2026, 4, 28, 12, 0, tzinfo=timezone.utc)
+                state = {
+                    "mode": "gemini_primary",
+                    "temporary_flash_until": None,
+                    "weekly_flash_since": None,
+                    "last_limit_reason": None,
+                }
+                note = module.maybe_persist_fallback_for_explicit_primary_limit_signal(
+                    state,
+                    "Gemini CLI completed the run.",
+                    now,
+                )
+                self.assertIsNone(note)
+                self.assertEqual(state["mode"], "gemini_primary")
+                self.assertIsNone(state["temporary_flash_until"])
+                self.assertIsNone(state["weekly_flash_since"])
+            finally:
+                module.STATE_PATH = original_state_path
 
 
 if __name__ == "__main__":
