@@ -35,14 +35,14 @@ Finally, he grabs the handle and holds it tight against his chest. He is glad he
 
 Her brother points at a different cloud because he thinks it looks like a fish. The clouds slowly drift across the blue sky so new shapes appear every minute. Then a large gray cloud moves in front of the bright sun.
 
-Nina feels the air get much cooler because a big shadow is over the park now. After a while, the gray cloud drifts away and the warm sun shines again. Nina smiles because she likes to see how the clouds change their shapes and colors.
+Nina feels the air get much cooler because a big shadow is over the park now. Finally, the gray cloud drifts away and the warm sun shines again. Nina smiles because she likes to see how the clouds change their shapes and colors.
 
 [user]tell me a story about a rainbow.
 [Ninereeds]Jade watches the rain stop falling on the flowers in the garden. The dark clouds move slowly away, and a few last drops drip from the roof. She runs to the window because she hopes to see something special in the sky. First, the bright sun comes out from behind the very last gray cloud.
 
 A colorful rainbow stretches all the way across the sky so everyone can see it. Jade counts the colors from red to purple because she wants to remember them. Her father takes a picture with his camera, but the rainbow starts to fade already.
 
-The colors disappear slowly until the sky is just blue again. Jade is glad she saw it in time because the rainbow did not last long. She tells her father that the rainbow was the best part of the day.
+Finally, the colors disappear slowly until the sky is just blue again. Jade is glad she saw it in time because the rainbow did not last long. She tells her father that the rainbow was the best part of the day.
 
 [user]tell me a story about thunder.
 [Ninereeds]Max sits in his room because a big summer storm is coming. Dark clouds cover the whole sky, and the wind starts to blow the trees back and forth. First, he sees a bright flash of lightning, but the sound has not come yet. Max starts to count the seconds because he wants to know how close the storm is.
@@ -110,9 +110,9 @@ Finally, she drinks a cup of hot cocoa by the fire because it helps her feel war
 [user]tell me a story about spring.
 [Ninereeds]Amy walks through the garden because the spring air smells very fresh and green. Tiny green shoots are poking up from the soft earth in many places. First, her mother shows her the small buds on the brown tree branches. Amy looks closely so she can see how the new leaves are starting to grow.
 
-The flowers are finally starting to bloom near the garden path. Amy kneels down to smell a bright yellow flower, and she sees a fuzzy bee. The bee buzzes over to the flower because it wants to find the sweet nectar.
+The flowers are finally starting to bloom near the garden path. Amy kneels down to smell a bright yellow flower, but she sees a fuzzy bee. The bee buzzes over to the flower because it wants to find the sweet nectar.
 
-Then Amy sneezes very loudly because there is a lot of pollen in the air. Her mother gives her a tissue so she can wipe her nose. Amy keeps exploring the garden because spring brings new life to everything she sees.
+Then Amy sneezes very loudly because there is a lot of pollen in the air. Her mother gives her a tissue so she can wipe her nose. Finally, Amy keeps exploring the garden because spring brings new life to everything she sees.
 
 [user]tell me a story about fall.
 [Ninereeds]Wes walks down a path that is covered in many colorful leaves. The trees are red, orange, and golden brown, but a few leaves are still green. First, he kicks a large pile of dry leaves because he likes the loud crunching sound. He picks up a bright red leaf and holds it up to the light.
@@ -126,18 +126,18 @@ His boot sinks into the soggy mess, so he has to pull his foot out carefully. He
 
 She feels the ice melt into water because her hand is much warmer than the fence. The cold air makes her breath turn into little clouds because the morning is so chilly. Eve draws a smiley face in the frost on the window.
 
-Then the morning sun rises higher in the sky and begins to warm the air. The frost starts to melt and drip onto the ground, so Eve goes back inside. She is glad she woke up early because she saw the frost before it disappeared.
+The morning sun rises higher in the sky and begins to warm the air. The frost starts to melt and drip onto the ground. Finally, Eve goes back inside because she is glad she saw the frost before it disappeared.
 
 [user]tell me a story about a sunny day.
 [Ninereeds]Hugo stretches his arms when he sees the bright sunshine outside his window. There is not a single cloud in the clear blue sky, and the air is still. First, he asks his mother if they can have a picnic because it is such a nice day. His mother says that a picnic is a wonderful idea.
 
 They pack sandwiches and fresh fruit into a big basket so they have plenty to eat. Hugo and his mother walk to the large park at the end of the street. They spread a soft blanket under a tall tree that gives them some shade.
 
-Hugo eats his lunch while the warm sun shines down on the grass. Suddenly, a small bug lands on his sandwich, so he has to shoo it away. He does not want to share his food because he is very hungry.
+Hugo eats his lunch while the warm sun shines down on the grass. The food tastes delicious outside, but a small bug lands on his sandwich. Finally, he shoos the bug away because he does not want to share his food.
 
 [user]tell me a story about a storm.
-[Ninereeds]Nate sees dark clouds rolling across the sky from his living room window. The wind starts to blow the trees back and forth, and the sky gets very dark. First, Nate and his sister make sure they are safe and cozy inside the house. Lightning flashes very bright, so they count the seconds before the noise.
+[Ninereeds]Nate sees dark clouds rolling across the sky from his living room window. The wind starts to blow the trees back and forth, and the sky gets very dark. First, Nate and his sister make sure they are safe and cozy inside the house. Lightning flashes very bright, but the thunder is not loud yet.
 
-They get to two, and then a loud boom of thunder shakes the whole house. The rain hits the roof with a loud drumming sound because the storm is close. Suddenly, the power goes out and the room becomes very dark.
+They count to two, and then a loud boom of thunder shakes the whole house. The rain hits the roof with a loud drumming sound because the storm is close. Suddenly, the power goes out and the room becomes very dark.
 
 Their mother brings flashlights so they can see each other while they wait. They listen to the wind and rain for a long time until the storm passes. Finally, the sky becomes calm again, and the power comes back on in the house.

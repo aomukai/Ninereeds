@@ -1413,3 +1413,239 @@
   - training_data/triplet_stories/tier_4/vehicles_and_travel.md
   - todo.md
   - history.md
+## 2026-04-28 17:55:58 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/school_and_learning.md``
+- summary: The file `training_data/triplet_stories/tier_4/school_and_learning.md` was quality-checked against the Tier 4 specifications and it passed. All stories meet the requirements for length, structure, reasoning, sequencing, and use of characters. No changes were made to the file. The `todo.md` and `history.md` files were updated to reflect the completion of this task.
+- changed files:
+  - `/home/aomukai/Ninereeds/todo.md`
+  - `/home/aomukai/Ninereeds/history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: The file `training_data/triplet_stories/tier_4/school_and_learning.md` was quality-checked against the Tier 4 specifications and it passed. All stories meet the requirements for length, structure, reasoning, sequencing, and use of characters. No changes were made to the file. The `todo.md` and `history.md` files were updated to reflect the completion of this task.
+  FILES:
+  - /home/aomukai/Ninereeds/todo.md
+  - /home/aomukai/Ninereeds/history.md
+## 2026-04-28 18:53:18 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/play_and_games.md``
+- summary: I have quality-checked the file `training_data/triplet_stories/tier_4/play_and_games.md` against the Tier 4 specifications. The file meets all the requirements for sentence count, paragraph structure, reasoning, sequencing, and character reuse. No changes were necessary. I have updated `todo.md` to remove the completed task and `history.md` to record its completion.
+- changed files:
+  - `/home/aomukai/Ninereeds/todo.md`
+  - `/home/aomukai/Ninereeds/history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: I have quality-checked the file `training_data/triplet_stories/tier_4/play_and_games.md` against the Tier 4 specifications. The file meets all the requirements for sentence count, paragraph structure, reasoning, sequencing, and character reuse. No changes were necessary. I have updated `todo.md` to remove the completed task and `history.md` to record its completion.
+  FILES:
+  - /home/aomukai/Ninereeds/todo.md
+  - /home/aomukai/Ninereeds/history.md
+## 2026-04-28 19:40:13 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/people_and_relationships.md``
+- summary: The quality check of `training_data/triplet_stories/tier_4/people_and_relationships.md` is complete. All 20 stories were reviewed against the Tier 4 specifications. Six stories that had weak or implicit narrative contrasts were repaired to include explicit comparative language, bringing the entire file into compliance with the spec. The `todo.md` and `history.md` files have been updated to reflect the completion of this task.
+- changed files:
+  - `training_data/triplet_stories/tier_4/people_and_relationships.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: The quality check of `training_data/triplet_stories/tier_4/people_and_relationships.md` is complete. All 20 stories were reviewed against the Tier 4 specifications. Six stories that had weak or implicit narrative contrasts were repaired to include explicit comparative language, bringing the entire file into compliance with the spec. The `todo.md` and `history.md` files have been updated to reflect the completion of this task.
+  FILES:
+  - training_data/triplet_stories/tier_4/people_and_relationships.md
+  - todo.md
+  - history.md
+## 2026-04-28 20:37:06 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/home_and_daily_life.md``
+- summary: The file `training_data/triplet_stories/tier_4/home_and_daily_life.md` was quality-checked against the Tier 4 story specifications. All 20 stories passed the check, meeting requirements for length, structure, reasoning, sequencing, and use of contrast. The `todo.md` file was updated to remove the task, and the `history.md` file was updated to record its successful completion.
+- changed files:
+  - `/home/aomukai/Ninereeds/todo.md`
+  - `/home/aomukai/Ninereeds/history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: The file `training_data/triplet_stories/tier_4/home_and_daily_life.md` was quality-checked against the Tier 4 story specifications. All 20 stories passed the check, meeting requirements for length, structure, reasoning, sequencing, and use of contrast. The `todo.md` file was updated to remove the task, and the `history.md` file was updated to record its successful completion.
+  FILES:
+  - /home/aomukai/Ninereeds/todo.md
+  - /home/aomukai/Ninereeds/history.md
+## 2026-04-28 21:35:07 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/weather_and_seasons.md``
+- summary: The file `training_data/triplet_stories/tier_4/weather_and_seasons.md` was quality-checked against the Tier 4 specifications. Several stories were missing mandatory temporal markers (`Finally`) and explicit contrasts. The file was repaired to ensure all 20 stories are fully compliant with the Tier 4 requirements for length, structure, reasoning, and sequencing. The task has been moved from `todo.md` to `history.md`.
+- changed files:
+  - `training_data/triplet_stories/tier_4/weather_and_seasons.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: 8
+  SUMMARY: The file `training_data/triplet_stories/tier_4/weather_and_seasons.md` was quality-checked against the Tier 4 specifications. Several stories were missing mandatory temporal markers (`Finally`) and explicit contrasts. The file was repaired to ensure all 20 stories are fully compliant with the Tier 4 requirements for length, structure, reasoning, and sequencing. The task has been moved from `todo.md` to `history.md`.
+  FILES:
+  - training_data/triplet_stories/tier_4/weather_and_seasons.md
+  - todo.md
+  - history.md
+## 2026-04-28 22:33:39 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/animals_and_nature.md``
+- summary: I have quality-checked the file `training_data/triplet_stories/tier_4/animals_and_nature.md` and confirmed that all 20 stories meet the Tier 4 requirements for format, length, structure, reasoning, and reading level. No fixes were needed. I have updated `todo.md` and `history.md` to reflect the completion of this task.
+- changed files:
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: I have quality-checked the file `training_data/triplet_stories/tier_4/animals_and_nature.md` and confirmed that all 20 stories meet the Tier 4 requirements for format, length, structure, reasoning, and reading level. No fixes were needed. I have updated `todo.md` and `history.md` to reflect the completion of this task.
+  FILES:
+  - todo.md
+  - history.md
+## 2026-04-28 23:31:10 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/body_and_health.md``
+- summary: I have quality-checked the `training_data/triplet_stories/tier_4/body_and_health.md` file. I verified all 20 stories against the Tier 4 requirements and found several inconsistencies. I repaired 7 of the stories to include explicit contrasts or mandatory temporal markers (e.g., 'Finally'), ensuring full compliance with the Tier 4 spec. The task has been moved from `todo.md` to `history.md`.
+- changed files:
+  - `training_data/triplet_stories/tier_4/body_and_health.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: 8
+  SUMMARY: I have quality-checked the `training_data/triplet_stories/tier_4/body_and_health.md` file. I verified all 20 stories against the Tier 4 requirements and found several inconsistencies. I repaired 7 of the stories to include explicit contrasts or mandatory temporal markers (e.g., 'Finally'), ensuring full compliance with the Tier 4 spec. The task has been moved from `todo.md` to `history.md`.
+  FILES:
+  - training_data/triplet_stories/tier_4/body_and_health.md
+  - todo.md
+  - history.md
+## 2026-04-29 00:27:49 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/food_and_meals.md``
+- summary: The file `training_data/triplet_stories/tier_4/food_and_meals.md` was quality-checked against Tier 4 specifications. All 20 stories met the requirements for length, structure, reasoning, sequencing, and character reuse. No modifications to the file were necessary. The task was removed from `todo.md` and added to `history.md`.
+- changed files:
+  - `/home/aomukai/Ninereeds/todo.md`
+  - `/home/aomukai/Ninereeds/history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: The file `training_data/triplet_stories/tier_4/food_and_meals.md` was quality-checked against Tier 4 specifications. All 20 stories met the requirements for length, structure, reasoning, sequencing, and character reuse. No modifications to the file were necessary. The task was removed from `todo.md` and added to `history.md`.
+  FILES:
+  - /home/aomukai/Ninereeds/todo.md
+  - /home/aomukai/Ninereeds/history.md
+## 2026-04-29 01:24:40 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/tools_and_making.md``
+- summary: I quality-checked `training_data/triplet_stories/tier_4/tools_and_making.md` against the Tier 4 spec. All 20 stories were validated for length, structure, reasoning, and sequencing. I found and fixed one malformed user prompt for the 'hook' story. The file now fully complies with all requirements. I have updated `todo.md` and `history.md` to reflect the completion of this task.
+- changed files:
+  - `training_data/triplet_stories/tier_4/tools_and_making.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: 8
+  SUMMARY: I quality-checked `training_data/triplet_stories/tier_4/tools_and_making.md` against the Tier 4 spec. All 20 stories were validated for length, structure, reasoning, and sequencing. I found and fixed one malformed user prompt for the 'hook' story. The file now fully complies with all requirements. I have updated `todo.md` and `history.md` to reflect the completion of this task.
+  FILES:
+  - training_data/triplet_stories/tier_4/tools_and_making.md
+  - todo.md
+  - history.md
+## 2026-04-29 02:21:11 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Quality-check `training_data/triplet_stories/tier_4/vehicles_and_travel.md``
+- summary: I have quality-checked the `training_data/triplet_stories/tier_4/vehicles_and_travel.md` file. All stories conform to the Tier 4 specifications, including sentence count, paragraph structure, causal reasoning, temporal sequencing, and character reuse. No changes were necessary. The task has been moved from `todo.md` to `history.md`.
+- changed files:
+  - `/home/aomukai/Ninereeds/todo.md`
+  - `/home/aomukai/Ninereeds/history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: unknown
+  SUMMARY: I have quality-checked the `training_data/triplet_stories/tier_4/vehicles_and_travel.md` file. All stories conform to the Tier 4 specifications, including sentence count, paragraph structure, causal reasoning, temporal sequencing, and character reuse. No changes were necessary. The task has been moved from `todo.md` to `history.md`.
+  FILES:
+  - /home/aomukai/Ninereeds/todo.md
+  - /home/aomukai/Ninereeds/history.md
+## 2026-04-29 03:19:09 UTC — malformed-output
+- todo file: `todo.md`
+- step: none
+- item: `Turn `training_data/reasoning/reasoning_corpus.md` into an executable rollout plan for the new standalone reasoning corpus, keeping Sprint 0-4 and the global invariants explicit`
+- summary: Gemini 2.5 Pro returned malformed success output without STATUS/SUMMARY.
+- changed files:
+  - `training_data/reasoning/rollout_plan.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  All steps are complete. I read the required files, reviewed the corpus, created the rollout plan, and updated the `todo.md` and `history.md` files. Now I'll generate the final report, listing the created and modified files, using "unknown" for the step number.I've completed all tasks: read mandatory files, reviewed the reasoning corpus, created the rollout plan, and updated the todo and history logs. Now, I'll generate the final report.All tasks are done: mandatory files read, reasoning corpus reviewed, rollout plan created, `todo.md` and `history.md` updated. Now, I'll write the final report.I've completed the required steps: contextual analysis of mandatory files, review of `training_data/reasoning/reasoning_corpus.md`, creation of a new rollout plan, and updating both `todo.md` and `history.md`. I'm ready to present my final report.I've completed the documentation review, analyzed `training_data/reasoning/reasoning_corpus.md`, created the new `training_data/reasoning/rollout_plan.md`, and updated `todo.md` and `history.md`. Now, I will generate the final report; the step number, under section 9, will be marked "unknown" per instructions.STATUS: success
+  STEP: unknown
+  SUMMARY: I have successfully turned `training_data/reasoning/reasoning_corpus.md` into an executable rollout plan. I created a new file, `training_data/reasoning/rollout_plan.md`, which defines the plan for the new standalone reasoning corpus. This plan includes global invariants, a canonical entry format, and a 5-sprint rollout sequence. I have also updated `todo.md` to remove the completed task and `history.md` to record its completion.
+  FILES:
+  - training_data/reasoning/rollout_plan.md
+  - todo.md
+  - history.md
+## 2026-04-29 03:21:01 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Create Sprint 0 reasoning files: `number_mechanics_successor.md`, `same_vs_different_base.md`, and `basic_contradiction_checks.md``
+- summary: Created the three Sprint 0 reasoning files: `number_mechanics_successor.md`, `same_vs_different_base.md`, and `basic_contradiction_checks.md`. I added initial training data to each file and updated `todo.md` and `history.md` to reflect the completion of the task.
+- changed files:
+  - `training_data/reasoning/number_mechanics_successor.md`
+  - `training_data/reasoning/same_vs_different_base.md`
+  - `training_data/reasoning/basic_contradiction_checks.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: 9
+  SUMMARY: Created the three Sprint 0 reasoning files: `number_mechanics_successor.md`, `same_vs_different_base.md`, and `basic_contradiction_checks.md`. I added initial training data to each file and updated `todo.md` and `history.md` to reflect the completion of the task.
+  FILES:
+  - training_data/reasoning/number_mechanics_successor.md
+  - training_data/reasoning/same_vs_different_base.md
+  - training_data/reasoning/basic_contradiction_checks.md
+  - todo.md
+  - history.md
+## 2026-04-29 04:17:37 UTC — success
+- todo file: `todo.md`
+- step: none
+- item: `Create Sprint 1 reasoning files: `zero_and_identity_facts.md`, `addition_1_digit_facts.md`, `addition_1_digit_stories.md`, `subtraction_1_digit_facts.md`, `subtraction_1_digit_stories.md`, and `greater_than_less_than.md``
+- summary: I have created the six Sprint 1 reasoning files as requested in the todo item. The new files are `zero_and_identity_facts.md`, `addition_1_digit_facts.md`, `addition_1_digit_stories.md`, `subtraction_1_digit_facts.md`, `subtraction_1_digit_stories.md`, and `greater_than_less_than.md`. These files are located in the `training_data/reasoning/` directory. I have also updated the `todo.md` and `history.md` files to reflect the completion of this task.
+- changed files:
+  - `training_data/reasoning/zero_and_identity_facts.md`
+  - `training_data/reasoning/addition_1_digit_facts.md`
+  - `training_data/reasoning/addition_1_digit_stories.md`
+  - `training_data/reasoning/subtraction_1_digit_facts.md`
+  - `training_data/reasoning/subtraction_1_digit_stories.md`
+  - `training_data/reasoning/greater_than_less_than.md`
+  - `todo.md`
+  - `history.md`
+- details:
+  Final executor: Gemini 2.5 Pro
+  STATUS: success
+  STEP: 9
+  SUMMARY: I have created the six Sprint 1 reasoning files as requested in the todo item. The new files are `zero_and_identity_facts.md`, `addition_1_digit_facts.md`, `addition_1_digit_stories.md`, `subtraction_1_digit_facts.md`, `subtraction_1_digit_stories.md`, and `greater_than_less_than.md`. These files are located in the `training_data/reasoning/` directory. I have also updated the `todo.md` and `history.md` files to reflect the completion of this task.
+  FILES:
+  - training_data/reasoning/zero_and_identity_facts.md
+  - training_data/reasoning/addition_1_digit_facts.md
+  - training_data/reasoning/addition_1_digit_stories.md
+  - training_data/reasoning/subtraction_1_digit_facts.md
+  - training_data/reasoning/subtraction_1_digit_stories.md
+  - training_data/reasoning/greater_than_less_than.md
+  - todo.md
+  - history.md

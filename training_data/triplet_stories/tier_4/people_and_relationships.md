@@ -49,7 +49,7 @@ Emma pours pretend tea while Chloe makes the bear and doll have a conversation. 
 
 "Is the baby hungry?" his mother asks softly as she walks into the room. She picks Billy up and holds him close to her chest, so he feels safe and warm. Billy stops crying after a moment, but his face still looks upset. His mother checks to see if he needs a new diaper or if something else is wrong.
 
-After she rocks him gently for a few minutes, Billy's eyes start to close again. His sister watches from the doorway and smiles because the baby looks peaceful now. If the room had stayed quiet, Billy might have slept for another hour. His mother puts him back in the crib carefully, and the whole family moves quietly until the baby wakes up on his own.
+After she rocks him gently for a few minutes, Billy's eyes start to close again. His sister watches from the doorway and smiles because the baby looks peaceful now. If the room had stayed quiet, Billy might have slept for another hour. His mother puts him back in the crib carefully, and the whole family moves quietly instead of making any loud noises until the baby wakes up on his own.
 
 [user]tell me a story about a teacher.
 [Ninereeds]Ms. Hall stands at the front of the bright classroom with a big book in her hands. She wants to teach the children about the moon because it is time for their science lesson. First, she calls the children to sit on the carpet so they can see the pictures clearly. Some children are still talking, but they become quiet when Ms. Hall starts to speak.
@@ -91,12 +91,12 @@ Caleb smiles and says thank you because his mother helped him instead of just do
 
 "I am really sorry for breaking your pot," Jack says quickly to his friend. He feels bad because the pot belonged to Liam's family and it was very special. Liam looks at the broken pieces and feels sad for a moment, but he takes a deep breath. He knows that Jack did not mean to break it because it was just an accident.
 
-After thinking about it, Liam tells Jack that he forgives him because friends make mistakes sometimes. They work together to clean up the pieces and put them in a bag. If Jack had not said sorry, Liam might have felt upset for a longer time. Jack promises to be more careful with the ball, and they continue playing on a different part of the grass.
+After thinking about it, Liam tells Jack that he forgives him because friends make mistakes sometimes. They work together to clean up the pieces and put them in a bag. If Jack had not said sorry, Liam might have felt upset for a longer time. Jack promises to be more careful with the ball, and they continue playing on a different part of the grass instead of stopping because of the accident.
 
 [user]tell me a story about share.
 [Ninereeds]Hazel sits at the table with a new box of bright markers that she got for her birthday. Her friend sits next to her and wants to draw a picture, but she does not have any colors of her own. First, Hazel thinks about keeping all the markers for herself because they are brand new and very special. She looks at her friend's face and sees that she really wants to draw too.
 
-"Can I use the blue marker to draw the sky?" her friend asks hopefully. Hazel thinks for a moment and decides that sharing would be the kind thing to do. She pushes the whole box of markers across the table so her friend can pick any color she wants. Her friend smiles and says thank you because she did not expect Hazel to share so many.
+"Can I use the blue marker to draw the sky?" her friend asks hopefully. Hazel thinks for a moment and decides that sharing would be the kind thing to do instead of keeping the new markers to herself. She pushes the whole box of markers across the table so her friend can pick any color she wants. Her friend smiles and says thank you because she did not expect Hazel to share so many.
 
 After they both start drawing, Hazel realizes that sharing makes the activity more fun. They talk about their pictures while they color and help each other choose the best colors. If Hazel had kept the markers to herself, her friend might have felt left out. They finish their artwork together and hang both pictures on the wall side by side.
 
@@ -117,7 +117,7 @@ After they put the box on the shelf safely, Mason's friend thanks him for the he
 [user]tell me a story about invite.
 [Ninereeds]Quinn wants to have a birthday party at her house next Saturday afternoon. She makes small cards with pictures of colorful balloons because she wants the invitations to look special. First, she writes each friend's name carefully on the front of a card. Her mother helps her check the spelling so there are no mistakes.
 
-"Who will you invite to the party?" her mother asks while they work together. Quinn thinks about all her friends and makes a list of names, so she does not forget anyone. She hands out the invitations at school the next day, and everyone is excited to come. One friend asks if she can bring her sister, and Quinn says yes because there is room for more.
+"Who will you invite to the party?" her mother asks while they work together. Quinn thinks about all her friends and makes a list of names, so she does not forget anyone. She hands out the invitations at school the next day, and everyone is excited to come. One friend asks if she can bring her sister, and Quinn says yes because she would rather have more friends at her party instead of fewer.
 
 After all the invitations are delivered, Quinn starts to plan the games and decorations with her family. If she had not invited her friends, the party would not be as much fun. On the day of the party, everyone arrives with gifts and big smiles on their faces. Quinn feels happy that she remembered to include all her friends in the celebration.
 
@@ -126,7 +126,7 @@ After all the invitations are delivered, Quinn starts to plan the games and deco
 
 "This is not fun anymore when we argue like this," Henry says after taking a deep breath. Ryan agrees that the arguing is making the game less enjoyable for both of them. They decide to flip a coin to see who goes next, so the choice will be fair. Ryan wins the coin flip, but Henry does not get upset because the coin decided fairly.
 
-After they settle the argument, they continue playing the game in a much better mood. If they had kept arguing, neither of them would have finished the game at all. They take turns without fighting and laugh when someone lands on a funny space. The rest of the evening is peaceful, and they promise to use the coin flip idea next time they disagree.
+After they settle the argument, they continue playing the game in a much better mood. If they had kept arguing, neither of them would have finished the game at all. They take turns without fighting, but they still try their best to win. The rest of the evening is peaceful, and they promise to use the coin flip idea next time they disagree.
 
 [user]tell me a story about a playdate.
 [Ninereeds]Nora goes to Grace's house for a playdate after school on a cloudy afternoon. She brings her favorite doll because she wants to show it to her friend. First, Grace meets Nora at the door with a big smile and invites her inside. They run to Grace's room to see all the toys they can play with together.
@@ -140,4 +140,4 @@ After the tea party, they decide to build a fort with blankets and pillows on th
 
 "When will my friends arrive for the party?" Oliver asks while bouncing up and down. His mother checks the clock and tells him that everyone will come after lunch, so he needs to be patient. Oliver helps his father set up games in the backyard to keep himself busy. They hang streamers from the tree and fill a bucket with small prizes.
 
-After his friends arrive, they play games and eat cake with candles on top. Oliver blows out all the candles and makes a secret wish inside his head because that is the tradition. If he had told anyone the wish, it might not come true. He opens his presents and finds a new toy that he has wanted for a long time. Oliver thanks everyone for coming and says this is the best birthday he has ever had.
+After his friends arrive, they play games and eat cake with candles on top. Oliver blows out all the candles and makes a secret wish inside his head because that is the tradition. If he had told anyone the wish, it might not come true. He opens his presents and finds a new toy that he has wanted for a long time, but his favorite part of the day was spending time with his friends. Oliver thanks everyone for coming and says this is the best birthday he has ever had.

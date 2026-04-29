@@ -86,7 +86,7 @@ Lily put the key in the lock and turned it. She could hear a click inside the do
 
 Finally, her mother said she was ready to have her own key. Lily was very excited and promised to be responsible with it. She knew the key was important because it helped to keep their house safe.
 
-[user]e me a story about a hook.
+[user]tell me a story about a hook.
 [Ninereeds]Jude's family had a new rule: everyone had to hang their coat on a hook by the door. First, Jude's father installed a row of hooks on the wall. After that, everyone got their own special hook. A hook has a curved shape for holding things, which is different from a shelf that has a flat surface.
 
 When Jude came home from school, he took off his coat and looked for his hook. Because his hook had his initial on it, it was easy to find. If he just threw his coat on a chair, the house would look messy. He hung his coat on the hook so it would be out of the way.

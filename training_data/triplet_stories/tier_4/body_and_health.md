@@ -21,7 +21,7 @@ Finally, he practices walking in the shallow area because he wants to find his b
 
 She looks closely at the page because she wants to find all the hidden animals in the forest. She sees a squirrel, but she cannot find the white rabbit that is supposed to be near the river. If she moves the book closer to the light, then her eye can see the small details more clearly. She focuses on the colors and shapes in the picture for a long time.
 
-Suddenly, she spots a tiny white tail behind a bush, so she knows she found the rabbit at last. Pearl is excited because she likes finding all the secrets in her favorite books. She points to the rabbit with her finger. After she finishes the search, she closes the book instead of starting a new chapter. Her eyes feel a little bit tired from looking at the tiny pictures for such a long time.
+Finally, she spots a tiny white tail behind a bush, so she knows she found the rabbit at last. Pearl is excited because she likes finding all the secrets in her favorite books. She points to the rabbit with her finger. After she finishes the search, she closes the book instead of starting a new chapter. Her eyes feel a little bit tired from looking at the tiny pictures for such a long time.
 
 [user]tell me a story about an ear.
 [Ninereeds]Dean lies in his cozy bed because he wants to listen to the quiet sounds of the evening. He keeps the window open so he can hear what is happening in the woods outside his house. First, his ear hears the steady chirping of many crickets in the tall grass. He listens to the rhythm of the night.
@@ -42,14 +42,14 @@ Daisy decides to walk back to the roses because she likes their soft smell much 
 
 He blows on a spoonful of the warm broth because he wants to taste it right away. He takes a small sip, but the soup is still a little bit too hot for him to swallow safely. If he waits for just a few more minutes, then the soup will be perfect for eating. He watches the steam rise from the bowl while he waits.
 
-Finally, he tries another spoonful and finds that the temperature is just right. Hank eats the soup and enjoys the taste of the carrots and potatoes in the bowl. He finishes the whole meal because he is very hungry after playing outside all day. He feels very full. His mouth feels warm and happy as he finishes the last bit of his dinner.
+Finally, he tries another spoonful and finds that the temperature is just right. Hank eats the soup and enjoys the taste of the carrots and potatoes in the bowl. He finishes the whole meal because he is very hungry after playing outside all day. He decides to have a glass of milk instead of a second bowl of soup. His mouth feels warm and happy as he finishes the last bit of his dinner.
 
 [user]tell me a story about a tooth.
 [Ninereeds]Kay sits at the kitchen table because she wants to eat a crunchy red apple for breakfast. She takes a big bite, but she feels something moving inside her mouth. First, she uses her tongue to check her front tooth and finds that it is very loose. She pushes it back and forth.
 
 She is a little bit worried because she has never lost a tooth before. Kay shows her mother the loose tooth so her mother can help her understand what is happening. If the tooth falls out, then a new and stronger tooth will grow in its place later. She listens to her mother explain how children grow.
 
-Kay decides to finish her breakfast by chewing on the other side of her mouth instead. She is careful not to push the loose tooth too hard because she wants it to fall out naturally. She takes small bites of the apple. After she finishes the apple, she feels proud of her growing body. She waits for the tooth to come out so she can put it under her pillow.
+Finally, Kay decides to finish her breakfast by chewing on the other side of her mouth instead. She is careful not to push the loose tooth too hard because she wants it to fall out naturally. She takes small bites of the apple. After she finishes the apple, she feels proud of her growing body. She waits for the tooth to come out so she can put it under her pillow.
 
 [user]tell me a story about a belly.
 [Ninereeds]Arlo wakes up in the morning because he can smell something delicious coming from the kitchen. His belly feels empty and makes a soft rumbling sound under his blue pajamas. First, he climbs out of bed so he can see what his father is cooking for breakfast. He walks down the hallway.
@@ -77,14 +77,14 @@ His teacher shows him how to hold his hand in a curve so his fingers can move fa
 
 The house is very quiet, but Joy can hear the soft ticking of the clock on the wall. She closes her eyes because she wants to fall into a deep and restful sleep. If she stays relaxed and calm, then sweet dreams will come to her during the night. She thinks about all the fun she had during the day.
 
-Suddenly, she hears a small sound from the hallway, but it is just her mother walking past the door. Joy feels safe in her room, so she drifts off to sleep very quickly. She feels her body relax. Finally, her body rests so she can wake up with lots of energy tomorrow morning. She dreams about flying through the clouds like a bird.
+Suddenly, she hears a small sound from the hallway, but it is just her mother walking past the door. Joy feels safe in her room, so she drifts off to sleep very quickly. She feels her body relax. Finally, her body rests so she can wake up with lots of energy tomorrow morning. She dreams about flying through the clouds like a bird instead of walking on the ground.
 
 [user]tell me a story about being hungry.
 [Ninereeds]Cole walks home from the park because he feels very hungry after playing basketball with his friends. His stomach feels empty and he can think about nothing but a big and tasty snack. First, he goes to the kitchen and looks inside the refrigerator for something good to eat. He opens the door.
 
 He finds some fresh bread and a slice of yellow cheese on the middle shelf. "Do you want a sandwich?" his father asks when he sees Cole looking for food. Cole says yes, so he helps his father put the bread and cheese together. If he adds some turkey, then the sandwich will be even more delicious.
 
-He waits for his father to cut the sandwich in half so it is easier for him to eat. Cole takes a big bite and smiles because the food tastes great. He eats the whole thing quickly. Finally, his stomach stops growling and he feels much better. He is happy because he is no longer hungry and can go back to playing with his toys.
+He waits for his father to cut the sandwich in half so it is easier for him to eat. Cole takes a big bite and smiles because the food tastes great. He eats the whole thing quickly, but his father tells him to slow down so he does not get a stomachache. Finally, his stomach stops growling and he feels much better. He is happy because he is no longer hungry and can go back to playing with his toys.
 
 [user]tell me a story about being thirsty.
 [Ninereeds]Nell runs around the backyard because she is playing a game of tag with her brothers. The summer sun is very hot, so her skin feels warm and her throat feels dry. First, she stops running and walks toward the back door of the house. She wipes her forehead with her hand.
@@ -105,14 +105,14 @@ He stays under his blankets and looks at a book, but he feels too tired to read 
 
 The scrape starts to sting, so Faye feels like she might cry a little bit. Her teacher sees what happened and walks over to help her up from the ground. If they clean the dirt out of the scrape, then it will not get an infection. Faye walks slowly to the school office.
 
-They go to the school office instead of staying outside on the playground. The nurse washes the hurt spot with cool water and puts a small bandage over it. Faye watches the nurse work. After the bandage is on, the sting starts to go away. Faye feels brave because she can go back to playing with her friends.
+Finally, they go to the school office instead of staying outside on the playground. The nurse washes the hurt spot with cool water and puts a small bandage over it. Faye watches the nurse work. After the bandage is on, the sting starts to go away. Faye feels brave because she can go back to playing with her friends.
 
 [user]tell me a story about medicine.
 [Ninereeds]Hugh has a bad cough that keeps him awake during the night. His throat feels very scratchy and it hurts whenever he tries to talk to his family. First, his mother brings him a small plastic cup filled with pink liquid medicine. He looks at the cup.
 
 "Drink this," she says because she knows the medicine will help his cough go away. Hugh does not like the smell of the medicine, but he knows he needs it to get better. If he takes the medicine now, then he will be able to sleep more comfortably. He takes a deep breath before drinking.
 
-He drinks the liquid in one big gulp and finds that it tastes like sweet cherries. After a few minutes, his throat starts to feel cool and he stops coughing so much. He feels better already. Finally, Hugh feels relaxed enough to lie down and rest on the couch. He is glad that the medicine is helping his body heal.
+He drinks the liquid in one big gulp and finds that it tastes like sweet cherries instead of something bitter. After a few minutes, his throat starts to feel cool and he stops coughing so much. He feels better already. Finally, Hugh feels relaxed enough to lie down and rest on the couch. He is glad that the medicine is helping his body heal.
 
 [user]tell me a story about a bandage.
 [Ninereeds]Ivy falls off the swing and lands on the hard ground with a loud thump. She looks at her knee and sees that she has a small scrape on her skin. First, she walks slowly to her mother because her knee feels sore and tender. She shows her mother the spot.

@@ -211,7 +211,7 @@ def parse_reported_files(text: str) -> list[str]:
     in_files_block = False
     for raw_line in text.splitlines():
         line = raw_line.strip()
-        if line == "FILES:":
+        if "FILES:" in line:
             in_files_block = True
             continue
         if not in_files_block:
@@ -223,6 +223,16 @@ def parse_reported_files(text: str) -> list[str]:
             continue
         files.append(path)
     return files
+
+
+def extract_report_field(text: str, label: str) -> Optional[str]:
+    anchored_matches = re.findall(rf"(?:^|\n)\s*{re.escape(label)}:\s*(.+)$", text, re.MULTILINE)
+    if anchored_matches:
+        return anchored_matches[-1].strip()
+    loose_matches = re.findall(rf"{re.escape(label)}:\s*(.+)", text)
+    if loose_matches:
+        return loose_matches[-1].strip()
+    return None
 
 
 def read_logged_statuses(log_path: Path) -> list[str]:
@@ -442,6 +452,16 @@ def maybe_persist_fallback_for_explicit_primary_limit_signal(
     return None
 
 
+def persist_temporary_flash_fallback_for_primary_executor_issue(
+    state: dict[str, Any],
+    now: datetime,
+    reason: str,
+) -> str:
+    until = activate_temporary_flash_fallback(state, now, reason[-1000:])
+    save_executor_state(state)
+    return f"Gemini 2.5 Pro issue detected; keeping Gemini 3 Flash active until {until}."
+
+
 def select_executor_from_state(state: dict[str, Any], now: datetime) -> tuple[dict[str, Any], Optional[str]]:
     if clear_expired_temporary_fallback(state, now):
         save_executor_state(state)
@@ -549,8 +569,8 @@ def main() -> int:
         result.returncode == 0
         and (
             not executor_text_preview
-            or "STATUS:" not in executor_text_preview
-            or "SUMMARY:" not in executor_text_preview
+            or extract_report_field(executor_text_preview, "STATUS") is None
+            or extract_report_field(executor_text_preview, "SUMMARY") is None
             or "FILES:" not in executor_text_preview
         )
     )
@@ -558,6 +578,12 @@ def main() -> int:
         retry_prompt = prompt + "\n\nIMPORTANT RETRY: Your previous response did not follow the required exact STATUS/SUMMARY/FILES format. Retry the SAME selected task now and end with the exact required report format. Do not just say that the run is complete."
         if final_executor["name"] == PRIMARY_EXECUTOR["name"]:
             fallback_note = maybe_persist_fallback_for_explicit_primary_limit_signal(executor_state, combined_output, utc_now_dt())
+            if not fallback_note:
+                fallback_note = persist_temporary_flash_fallback_for_primary_executor_issue(
+                    executor_state,
+                    utc_now_dt(),
+                    combined_output or "malformed-success-output",
+                )
             retry_result = execute_with_executor(FALLBACK_EXECUTOR, retry_prompt, env)
             retry_executor = FALLBACK_EXECUTOR
             retry_switch_notes = [
@@ -630,10 +656,10 @@ def main() -> int:
     after_state = get_repo_state()
     reported_files = parse_reported_files(executor_text)
     changed_files = reported_files or sorted(after_state - before_state)
-    status_match = re.search(r"^STATUS:\s*(.+)$", executor_text, re.MULTILINE)
-    summary_match = re.search(r"^SUMMARY:\s*(.+)$", executor_text, re.MULTILINE)
+    status = extract_report_field(executor_text, "STATUS") or ""
+    summary = extract_report_field(executor_text, "SUMMARY") or ""
 
-    if not status_match or not summary_match:
+    if not status or not summary:
         summary = f"{final_executor['name']} returned malformed success output without STATUS/SUMMARY."
         details = [*(switch_notes or [])]
         if mode_note:
@@ -652,12 +678,15 @@ def main() -> int:
         print(format_summary_with_step(summary, step_number))
         return 1
 
-    status = status_match.group(1).strip()
-    summary = summary_match.group(1).strip()
-
     if status.lower() == "success" and not changed_files:
         if final_executor["name"] == PRIMARY_EXECUTOR["name"]:
-            fallback_note = maybe_persist_fallback_for_explicit_primary_limit_signal(executor_state, executor_text, utc_now_dt())
+            fallback_note = maybe_persist_fallback_for_explicit_primary_limit_signal(executor_state, combined_output, utc_now_dt())
+            if not fallback_note:
+                fallback_note = persist_temporary_flash_fallback_for_primary_executor_issue(
+                    executor_state,
+                    utc_now_dt(),
+                    executor_text or combined_output or "empty-success-no-op",
+                )
             gemini_prompt = prompt + "\n\nIMPORTANT RETRY: Gemini 2.5 Pro reported success but changed no files. Repeat the SAME selected task now with the exact required STATUS/SUMMARY/FILES format and actually complete the task."
             gemini_result = execute_with_executor(FALLBACK_EXECUTOR, gemini_prompt, env)
             gemini_output = ((gemini_result.stdout or "") + "\n" + (gemini_result.stderr or "")).strip()
@@ -668,21 +697,15 @@ def main() -> int:
                 rate_limit_type = classify_rate_limit(combined_output)
                 switch_notes = [
                     *switch_notes,
-                    "Gemini 2.5 Pro reported empty success output; switching immediately to Gemini 3 Flash."
+                    "Gemini 2.5 Pro reported success but changed no files; switching immediately to Gemini 3 Flash."
                     + (f" {fallback_note}" if fallback_note else ""),
                 ]
                 executor_text = parse_executor_output(result.stdout)
                 after_state = get_repo_state()
                 reported_files = parse_reported_files(executor_text)
                 changed_files = reported_files or sorted(after_state - before_state)
-                status_match = re.search(r"^STATUS:\s*(.+)$", executor_text, re.MULTILINE)
-                summary_match = re.search(r"^SUMMARY:\s*(.+)$", executor_text, re.MULTILINE)
-                if status_match and summary_match:
-                    status = status_match.group(1).strip()
-                    summary = summary_match.group(1).strip()
-                else:
-                    status = ""
-                    summary = ""
+                status = extract_report_field(executor_text, "STATUS") or ""
+                summary = extract_report_field(executor_text, "SUMMARY") or ""
             else:
                 empty_summary = f"Gemini 2.5 Pro reported success but changed no files, and the Gemini 3 Flash fallback failed."
                 details = [*(switch_notes or [])]

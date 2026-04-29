@@ -116,21 +116,9 @@ All 10 foundational story categories proceed to Tier 4 to ensure broad narrative
 While the Wiki narrows focus to reasoning-heavy domains, the Story layers provide the "lived experience" of the model. Keeping all ten categories at Tier 4 ensures that the model can handle complex temporal and causal reasoning in every day-to-day context it has been taught.
 
 ### 8. Check Story Tier 4
-- [ ] Quality-check `training_data/triplet_stories/tier_4/school_and_learning.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/play_and_games.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/people_and_relationships.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/home_and_daily_life.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/weather_and_seasons.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/animals_and_nature.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/body_and_health.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/food_and_meals.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/tools_and_making.md`
-- [ ] Quality-check `training_data/triplet_stories/tier_4/vehicles_and_travel.md`
 
 ### 9. Build the reasoning corpus as its own track
-- [ ] Turn `training_data/reasoning/reasoning_corpus.md` into an executable rollout plan for the new standalone reasoning corpus, keeping Sprint 0-4 and the global invariants explicit
-- [ ] Create Sprint 0 reasoning files: `number_mechanics_successor.md`, `same_vs_different_base.md`, and `basic_contradiction_checks.md`
-- [ ] Create Sprint 1 reasoning files: `zero_and_identity_facts.md`, `addition_1_digit_facts.md`, `addition_1_digit_stories.md`, `subtraction_1_digit_facts.md`, `subtraction_1_digit_stories.md`, and `greater_than_less_than.md`
+
 - [ ] Create Sprint 2 reasoning files: `representation_translation_reinforcement.md`, `addition_2_digit_facts.md`, `subtraction_2_digit_facts.md`, `ordinal_sequencing.md`, `addition_3_digit_facts.md`, and `subtraction_3_digit_facts.md`
 - [ ] Create Sprint 3 reasoning files: `multiplication_repeated_addition.md`, `division_fair_sharing.md`, `inverse_operations_check.md`, and `conservation_of_quantity.md`
 - [ ] Create Sprint 4 reasoning files: `inclusion_exclusion.md`, `conditional_if_then.md`, `symbolic_substitution.md`, and `contradiction_check_advanced.md`
