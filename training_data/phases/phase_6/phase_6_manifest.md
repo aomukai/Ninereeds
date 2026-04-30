@@ -1,139 +1,71 @@
 # Phase 6 Bridge Manifest
 
-Planning scaffold for the first real Phase 6 bridge batch.
+Canonical ordered manifest for the active Phase 6 bridge curriculum files.
 
-Status: scaffold only — not yet finalized
+Status: `phase_6_01.md` through `phase_6_12.md` drafted and landed.
 
 ## Purpose
 
-This file should become the canonical ordered manifest for the first Phase 6 bridge curriculum files.
+This file is the canonical ordered manifest for the current Phase 6 bridge curriculum.
 
-Each planned file should eventually record:
+Each file records:
 - file name
 - concept family
 - target words
 - prerequisite words/files
 - required pattern-grid frames
 - implementation status
-- verification status
 
-## Proposed first family order
+## Family order
 
-1. Meta-language
+1. Foundation / meta-language
 2. Thought / knowledge
 3. Truth / reasoning
 4. Communication
 5. Planning / sequence
+6. Epistemic uncertainty / evidence
+7. Practical support vocabulary
+8. Symbolic and judgment vocabulary
 
 ## Manifest table
 
 | Planned file | Family | Target words | Depends on | Required patterns | Status |
 |---|---|---|---|---|---|
-| `phase_6_01.md` | Foundation | thing, object, word, sentence | Phase 1-5 | "A X is a thing.", "A word is a unit of language.", "A sentence is a group of words.", "A sentence has words." | completed |
-| `phase_6_02.md` | Meta-language | meaning, question, answer, language | `phase_6_01.md` | "A word has a meaning.", "The child asks a question.", "The teacher gives an answer.", "A question asks for an answer." | completed |
-| `phase_6_03.md` | Thought / Knowledge | thought, idea, think, know, learn, understand | `phase_6_02.md` | "A thought is an idea.", "The child thinks about a thing.", "To know is to have a thought.", "Learning is how a child knows more." | completed |
-| `phase_6_04.md` | Truth / Reasoning | true, real, fact, reason, because | `phase_6_03.md` | "A fact is true.", "X is real because Y.", "The reason is Z.", "Is the sentence true?" | completed |
-| `phase_6_05.md` | Communication | ask, explain, say, repeat, tell | `phase_6_02.md` | "The child asks a question.", "The teacher explains the answer.", "The child repeats the sentence.", "Say the word." | completed |
-| `phase_6_06.md` | Planning / Sequence | plan, goal, step, first, next, follow | `phase_6_05.md` | "A plan has steps.", "First do X, next do Y.", "The goal is to finish.", "Follow the plan." | completed |
-| `phase_6_07.md` | Epistemic | maybe, uncertain, certainly, probably | `phase_6_04.md` | "Maybe X.", "A person is uncertain.", "Certainly, X is true.", "Probably, Y will happen." | completed |
-| `phase_6_08.md` | Epistemic 2 | possibly, evidence, justification, proof | `phase_6_07.md` | "Possibly X.", "Evidence shows truth.", "A justification is a reason.", "Proof removes doubt." | completed |
-| `phase_6_09.md` | Logic / Action | try, wait, hurt, finally | `phase_6_06.md` | "To try is to work.", "To wait is to stay.", "To hurt is to feel pain.", "Finally, X happens." | completed |
-| `phase_6_10.md` | Logic / Math | equal, math, right, phrase | `phase_6_09.md` | "Equal means the same.", "Math is about numbers.", "To be right is to have truth.", "A phrase is a group of words." | completed |
+| `phase_6_01.md` | Foundation | thing, object, word, sentence | Phase 1-5 | "A X is a thing.", "A word is a part of speaking.", "A sentence is a group of words." | completed |
+| `phase_6_02.md` | Meta-language | meaning, question, answer, language | `phase_6_01.md` | "A word has a meaning.", "A question asks for an answer." | completed |
+| `phase_6_03.md` | Thought / Knowledge | thought, idea, think, know, learn, understand | `phase_6_02.md` | "A thought is in the mind.", "An idea is a new thought." | completed |
+| `phase_6_04.md` | Truth / Reasoning | true, real, fact, reason, because | `phase_6_03.md` | "A fact is a true thing.", "X is real because Y." | completed |
+| `phase_6_05.md` | Communication | ask, explain, say, repeat, tell | `phase_6_02.md` | "The child asks a question.", "The teacher explains the meaning." | completed |
+| `phase_6_06.md` | Planning / Sequence | plan, goal, step, first, next, follow | `phase_6_05.md` | "A plan has steps.", "First do X, next do Y." | completed |
+| `phase_6_07.md` | Epistemic | maybe, uncertain, certainly, probably | `phase_6_04.md` | "Maybe X.", "Certainly, X is true." | completed |
+| `phase_6_08.md` | Epistemic 2 | possibly, evidence, justification, proof | `phase_6_07.md` | "Evidence shows truth.", "Proof removes doubt." | completed |
+| `phase_6_09.md` | Logic / Action | try, wait, hurt, finally | `phase_6_06.md` | "To try is to work.", "Finally, X happens." | completed |
+| `phase_6_10.md` | Logic / Math | equal, math, right, phrase | `phase_6_09.md` | "Equal means the same.", "A phrase is a group of words." | completed |
+| `phase_6_11.md` | Practical / Status | ready, enough, better, money | `phase_6_06.md`, `phase_6_10.md` | "The soup is ready.", "The bowl has enough rice.", "A dry coat is better.", "Money can buy food." | completed |
+| `phase_6_12.md` | Symbolic / Judgment | cent, letter, opinion, reality | `phase_6_04.md`, `phase_6_10.md`, `phase_6_11.md` | "A cent is part of money.", "A letter is part of a word.", "An opinion tells what a person likes.", "Reality is all real things and events." | completed |
 
 ## File details
 
-### `phase_6_01.md` — Foundation
-- **Focus**: Grounding the most general noun anchors.
-- **Words**: `thing`, `object`, `word`, `sentence`.
+### `phase_6_11.md` — Practical / Status
+- **Focus**: high-frequency readiness, sufficiency, comparison, and transaction support words.
+- **Words**: `ready`, `enough`, `better`, `money`.
 - **Patterns**:
-  - "This ball is a thing."
-  - "A box is an object."
-  - "A word is a part of a sentence."
-  - "The sentence has five words."
+  - "The soup is ready for dinner."
+  - "The bowl has enough rice."
+  - "A dry coat is better than a wet coat."
+  - "Money can buy food or a toy."
 
-### `phase_6_02.md` — Meta-language
-- **Focus**: Language about language.
-- **Words**: `meaning`, `question`, `answer`, `language`.
+### `phase_6_12.md` — Symbolic / Judgment
+- **Focus**: compact symbol-level and judgment vocabulary that later wiki/story layers assume.
+- **Words**: `cent`, `letter`, `opinion`, `reality`.
 - **Patterns**:
-  - "The word has a meaning."
-  - "The child asks a question."
-  - "The teacher gives an answer."
-  - "A question asks for an answer."
-
-### `phase_6_03.md` — Thought / Knowledge
-- **Focus**: Basic cognitive actions and states.
-- **Words**: `thought`, `idea`, `think`, `know`, `learn`, `understand`.
-- **Patterns**:
-  - "A thought is in the mind."
-  - "An idea is a new thought."
-  - "The child knows the answer."
-  - "How does the child learn?"
-
-### `phase_6_04.md` — Truth / Reasoning
-- **Focus**: Epistemic and causal scaffolding.
-- **Words**: `true`, `real`, `fact`, `reason`, `because`.
-- **Patterns**:
-  - "This statement is true."
-  - "A fact is a true thing."
-  - "The reason is that the sun is hot."
-  - "The grass is wet because it rained."
-
-### `phase_6_05.md` — Communication
-- **Focus**: Verbs for interaction.
-- **Words**: `ask`, `explain`, `say`, `repeat`, `tell`.
-- **Patterns**:
-  - "The child asks what a word is."
-  - "The teacher explains the meaning."
-  - "The student repeats the sentence."
-  - "Tell the teacher the answer."
-
-### `phase_6_06.md` — Planning / Sequence
-- **Focus**: Logical progression and goals.
-- **Words**: `plan`, `goal`, `step`, `first`, `next`, `follow`.
-- **Patterns**:
-  - "The child makes a plan."
-  - "First the child reads, next the child writes."
-  - "The goal is to finish the task."
-  - "Follow the steps in the plan."
-
-### `phase_6_07.md` — Epistemic
-- **Focus**: Uncertainty and probability.
-- **Words**: `maybe`, `uncertain`, `certainly`, `probably`.
-- **Patterns**:
-  - "Maybe a toy is in the box."
-  - "The boy is uncertain if rain will fall."
-  - "Certainly, the sun is hot."
-  - "Probably, the cat will drink the milk."
-
-### `phase_6_08.md` — Epistemic 2
-- **Focus**: Evidence and proof.
-- **Words**: `possibly`, `evidence`, `justification`, `proof`.
-- **Patterns**:
-  - "Possibly, a baby bird will come out."
-  - "The footprint is evidence."
-  - "A justification explains the reason."
-  - "Proof shows the truth without doubt."
-
-### `phase_6_09.md` — Logic / Action
-- **Focus**: Basic persistence and sequence termination.
-- **Words**: `try`, `wait`, `hurt`, `finally`.
-- **Patterns**:
-  - "The boy tries to climb the tree."
-  - "The girl waits for the door to open."
-  - "The red knee hurts the boy."
-  - "Finally, the person eats the food."
-
-### `phase_6_10.md` — Logic / Math
-- **Focus**: Comparative logic and meta-linguistic units.
-- **Words**: `equal`, `math`, `right`, `phrase`.
-- **Patterns**:
-  - "Two and two are equal numbers."
-  - "Math helps a person count things."
-  - "The person with the true answer is right."
-  - "A phrase is a group of words."
+  - "A cent is a small part of money."
+  - "A letter is part of a word."
+  - "An opinion tells what a person likes or thinks."
+  - "Reality is all real things and events."
 
 ## Next steps
 
-1. Draft the first Phase 6 bridge curriculum batch (`phase_6_01.md` to `phase_6_06.md`) following the manifest.
-2. Audit the batch for vocabulary leakage and pattern drift.
-3. Connect to Story Layer 1 generation rules.
+1. If more curriculum backfill is needed, derive the next bounded batch from `training_data/cross_corpus_introduced_vocabulary_ledger.md` instead of expanding this manifest ad hoc.
+2. Keep `training_data/phases/phase_1_6_backfill_plan.md` as the short planning/status rollup for what has already landed and what still remains.
+3. Re-run dependency-graph verification after any future Phase 6 additions.

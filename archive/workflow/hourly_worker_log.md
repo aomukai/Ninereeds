@@ -2121,3 +2121,49 @@
   - training/README.md
   - todo.md
   - history.md
+## 2026-04-30 07:14:49 UTC — rate-limited-skip
+- todo file: `todo.md`
+- step: 1
+- item: `Continue Phase 1–6 vocabulary backfill from `training_data/cross_corpus_introduced_vocabulary_ledger.md` until the backlog is empty, using small implementation batches.`
+- summary: Gemini 3 Flash hit a rate limit. Skipping this run and retrying later.
+- details:
+  Gemini 2.5 Pro hit a temporary limit; switching to Gemini 3 Flash until 2026-04-30T11:11:06.436237+00:00.
+  li/bundle/chunk-67TFD6HC.js:36178:24)
+      at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+      at async file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-67TFD6HC.js:35941:7
+      at async Models.generateContentStream (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-67TFD6HC.js:37037:16)
+      at async file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:278827:19
+      at async file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:255732:23
+      at async retryWithBackoff (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:275704:23)
+      at async GeminiChat.makeApiCallAndProcessStream (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:311287:28)
+      at async GeminiChat.streamWithRetries (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:311125:29)
+      at async Turn.run (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:311618:24) {
+    status: 429
+  }
+  Attempt 10 failed: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. . Max attempts reached
+  Error when talking to Gemini API Full report available at: /tmp/gemini-client-error-Turn.run-sendMessageStream-2026-04-30T07-14-49-351Z.json RetryableQuotaError: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
+      at classifyGoogleError (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:275083:14)
+      at retryWithBackoff (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:275727:31)
+      at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+      at async GeminiChat.makeApiCallAndProcessStream (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:311287:28)
+      at async GeminiChat.streamWithRetries (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:311125:29)
+      at async Turn.run (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:311618:24)
+      at async GeminiClient.processTurn (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:322035:22)
+      at async GeminiClient.sendMessageStream (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/chunk-UQGLVPZQ.js:322148:14)
+      at async file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/gemini-BI2PCDUT.js:10174:26
+      at async main (file:///home/aomukai/.nvm/versions/node/v22.22.2/lib/node_modules/@google/gemini-cli/bundle/gemini-BI2PCDUT.js:15214:5) {
+    cause: {
+      code: 429,
+      message: 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ',
+      details: []
+    },
+    retryDelayMs: undefined
+  }
+  {
+    "session_id": "8c260672-9901-4f71-a0e2-c905ff6d3919",
+    "error": {
+      "type": "Error",
+      "message": "Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ",
+      "code": 1
+    }
+  }
