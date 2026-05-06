@@ -5,7 +5,7 @@ import re
 from collections import Counter
 
 ROOT_FOLDER = "."
-OUTPUT_FILE = "allowed_nouns.txt"
+OUTPUT_FILE = "../../meta/allowed_nouns.txt"
 
 INCLUDE_FOLDERS = {"phase_1", "phase_2", "phase_3", "phase_4", "phase_5", "phase_6"}
 TEXT_EXTENSIONS = {".txt", ".md"}

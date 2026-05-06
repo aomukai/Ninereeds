@@ -1,6 +1,0 @@
-STEPS COMPLETED:
-- Step 1: 19 UNKNOWN files deleted
-- Step 2: 18 article errors fixed
-- Step 3: 18 Q-format deviations fixed
-AWAITING: human review and frame prompt design before next repair phase
-REMAINING REPAIR FILES: repair_adj_as_noun (51), repair_verb_as_noun (68), repair_abstract_as_object (103), repair_duplicate (64), repair_teleology (19), repair_formatting remainder (non-deterministic items)
