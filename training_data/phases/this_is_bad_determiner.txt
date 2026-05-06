@@ -1,0 +1,76 @@
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1246.md	2	[Ninereeds]This is the yolk.	the for non-unique part
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1246.md	11	[Ninereeds]This is the yolk.	the for non-unique part
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1246.md	20	[Ninereeds]This is the yolk.	the for non-unique part
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1246.md	29	[Ninereeds]This is the yolk.	the for non-unique part
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1247.md	2	[Ninereeds]This is the young.	the for collective noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1247.md	11	[Ninereeds]This is the young.	the for collective noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1247.md	20	[Ninereeds]This is the young.	the for collective noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_1247.md	29	[Ninereeds]This is the young.	the for collective noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_385.md	2	[Ninereeds]This is the dark.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_385.md	11	[Ninereeds]This is the dark.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_385.md	20	[Ninereeds]This is the dark.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_385.md	29	[Ninereeds]This is the dark.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_387.md	2	[Ninereeds]This is the deep.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_387.md	11	[Ninereeds]This is the deep.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_387.md	20	[Ninereeds]This is the deep.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_1/phase_1_387.md	29	[Ninereeds]This is the deep.	the for abstract noun
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_100.md	2	[Ninereeds]This is the upstairs.	non-unique location
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_100.md	11	[Ninereeds]This is the upstairs.	non-unique location
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_100.md	20	[Ninereeds]This is the upstairs.	non-unique location
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_100.md	29	[Ninereeds]This is the upstairs.	non-unique location
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_20.md	2	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_20.md	11	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_20.md	20	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_20.md	29	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_303.md	2	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_303.md	11	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_303.md	20	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_303.md	29	[Ninereeds]This is the police.	should use a police officer
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_308.md	2	[Ninereeds]This is the president.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_308.md	11	[Ninereeds]This is the president.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_308.md	20	[Ninereeds]This is the president.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_308.md	29	[Ninereeds]This is the president.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_311.md	2	[Ninereeds]This is the principal.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_311.md	11	[Ninereeds]This is the principal.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_311.md	20	[Ninereeds]This is the principal.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_311.md	29	[Ninereeds]This is the principal.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_312.md	2	[Ninereeds]This is the queen.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_312.md	11	[Ninereeds]This is the queen.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_312.md	20	[Ninereeds]This is the queen.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_2/phase_2_312.md	29	[Ninereeds]This is the queen.	role needs determiner a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_19.md	2	[Ninereeds]This is the top of the hill.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_19.md	10	[Ninereeds]This is the top of the hill.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_19.md	18	[Ninereeds]This is the top of the hill.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_19.md	26	[Ninereeds]This is the top of the hill.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_20.md	2	[Ninereeds]This is the edge of the road.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_20.md	11	[Ninereeds]This is the edge of the road.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_20.md	20	[Ninereeds]This is the edge of the road.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_20.md	29	[Ninereeds]This is the edge of the road.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_21.md	2	[Ninereeds]This is the foot of the tree.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_21.md	10	[Ninereeds]This is the foot of the tree.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_21.md	18	[Ninereeds]This is the foot of the tree.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_21.md	26	[Ninereeds]This is the foot of the tree.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_22.md	2	[Ninereeds]This is the bank of the river.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_22.md	10	[Ninereeds]This is the bank of the river.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_22.md	18	[Ninereeds]This is the bank of the river.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_22.md	26	[Ninereeds]This is the bank of the river.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_23.md	2	[Ninereeds]This is the rim of the cup.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_23.md	10	[Ninereeds]This is the rim of the cup.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_23.md	18	[Ninereeds]This is the rim of the cup.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_23.md	26	[Ninereeds]This is the rim of the cup.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_24.md	2	[Ninereeds]This is the tip of the branch.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_24.md	10	[Ninereeds]This is the tip of the branch.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_24.md	18	[Ninereeds]This is the tip of the branch.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_24.md	26	[Ninereeds]This is the tip of the branch.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_25.md	2	[Ninereeds]This is the back of the hand.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_25.md	11	[Ninereeds]This is the back of the hand.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_25.md	20	[Ninereeds]This is the back of the hand.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_25.md	29	[Ninereeds]This is the back of the hand.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_26.md	2	[Ninereeds]This is the neck of the bottle.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_26.md	10	[Ninereeds]This is the neck of the bottle.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_26.md	18	[Ninereeds]This is the neck of the bottle.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_26.md	26	[Ninereeds]This is the neck of the bottle.	relational part needs a
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_36.md	2	[Ninereeds]This is the river.	non-unique water body
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_36.md	10	[Ninereeds]This is the river.	non-unique water body
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_36.md	18	[Ninereeds]This is the river.	non-unique water body
+BAD_DETERMINER	training_data/phases/phase_3/phase_3_36.md	26	[Ninereeds]This is the river.	non-unique water body
