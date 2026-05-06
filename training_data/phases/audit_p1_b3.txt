@@ -1,0 +1,29 @@
+training_data/phases/phase_1/phase_1_434.md | semantically nonsensical | "An eve is a female sheep" — "eve" is a misspelling of "ewe"; "eve" means the night before, not a sheep
+training_data/phases/phase_1/phase_1_444.md | malformed ontology | "What does a fast look like?" treats a period of fasting as a physical object with locations ("at home or at a place of worship") and actions ("gives rest to a body")
+training_data/phases/phase_1/phase_1_450.md | unsupported assumption | File makes sweeping essentialist claims about females: "A female gives birth to a child. A female nurses a child and cares for a family. A female cooks and cleans." Not all females do these things; reductive framing
+training_data/phases/phase_1/phase_1_469.md | category mistake | "flat" is an adjective treated as a noun throughout ("A flat is level. A flat is smooth." "What does a flat do?")
+training_data/phases/phase_1/phase_1_493.md | category mistake | "free" is an adjective treated as a noun ("Free is open. Free is wide. Free is unbounded." "What does free do? Free lets things move.")
+training_data/phases/phase_1/phase_1_499.md | category mistake | "full" is an adjective treated as a noun ("Full is a state with no room." "What does full do? Full fills a space.")
+training_data/phases/phase_1/phase_1_535.md | category mistake | "green" is a color adjective treated as a noun/agent ("Green covers the hills. Green fills the forest." "What is green for? Green is for the frog.")
+training_data/phases/phase_1/phase_1_574.md | misleading pedagogical framing | Uses fabricated adjective forms (walled, roofed, windowed, doored, situated, grounded, fixed, placed, stationed) that don't match the concrete-description curriculum pattern
+training_data/phases/phase_1/phase_1_635.md | contradiction | Same block says "A liquid takes a shape" then "A liquid has no form" — these are contradictory statements about the same concept
+training_data/phases/phase_1/phase_1_637.md | duplicate/redundant statement | First block has two summary lines: "A lizard is green and brown on the ground" / "A lizard is small and green on the ground"
+training_data/phases/phase_1/phase_1_638.md | misleading sentence | "A loaf is for a breakfast and a lunch" uses articles incorrectly before meal names (should be "for breakfast and lunch")
+training_data/phases/phase_1/phase_1_641.md | duplicate/redundant statement | First block has two summary lines ("A lollipop is a round candy on a stick" / "A lollipop is a round bright candy on a stick"); last block also has two
+training_data/phases/phase_1/phase_1_643.md | duplicate/redundant statement | First block has 6 description lines plus two summary lines; last block also has two summary lines
+training_data/phases/phase_1/phase_1_648.md | unsupported assumption | "A man has a face and a beard and a voice" / "A man is tall and bearded" — not all men have beards or are tall
+training_data/phases/phase_1/phase_1_650.md | duplicate/redundant statement | Last block: "A mango is a sweet fruit for a snack and a meal" / "A mango is for a snack and for eating"
+training_data/phases/phase_1/phase_1_651.md | duplicate/redundant statement | First block: "A marble is a small round glass ball" / "A marble is a small smooth round ball"
+training_data/phases/phase_1/phase_1_653.md | duplicate/redundant statement | Location block: "A mask is on a face and in a store" / "A mask is on a face and in a drawer"
+training_data/phases/phase_1/phase_1_660.md | duplicate/redundant statement | Appearance block has two summary lines; behavior block also has two summary lines
+training_data/phases/phase_1/phase_1_661.md | duplicate/redundant statement | Behavior block has two summary lines: "Mice run fast and hide in holes" / "Mice run fast and eat seeds"
+training_data/phases/phase_1/phase_1_662.md | contradiction | "A microphone is black" then "A microphone is silver" — implies a single microphone is both colors
+training_data/phases/phase_1/phase_1_663.md | duplicate/redundant statement | First block has two summary lines: "A microscope is a tube with a lens on a table" / "A microscope is a tube with a lens and a knob"
+training_data/phases/phase_1/phase_1_664.md | duplicate/redundant statement | Appearance block has two summary lines; last block also has two summary lines
+training_data/phases/phase_1/phase_1_665.md | malformed ontology | "A mineral is for the body" confuses geological minerals with dietary minerals; the file mixes two distinct senses of the word
+training_data/phases/phase_1/phase_1_666.md | duplicate/redundant statement | First block: "A mint is a green plant with small leaves" / "A mint is a green plant that grows low to the ground"
+training_data/phases/phase_1/phase_1_667.md | duplicate/redundant statement | Last block: "A mirror is a glass for looking at the face and clothes" / "A mirror is a glass for checking the face hair and clothes"
+training_data/phases/phase_1/phase_1_668.md | duplicate/redundant statement | Last block: "Mist is a cloud that gives water to plants and cools the air" / "Mist is a cloud and a plant waterer"
+training_data/phases/phase_1/phase_1_670.md | duplicate/redundant statement | First block: "A mitten is a warm cloth glove with a thumb and one pocket" / "A mitten is a wool or cloth glove with a thumb and one pocket"
+training_data/phases/phase_1/phase_1_671.md | duplicate/redundant statement | Last block: "Mold breaks down old things and makes some cheese" / "Mold is for making some cheese" — redundant statements within same block
+BATCH DONE: phase_1 batch 3 (files 365-671), 28 issues found

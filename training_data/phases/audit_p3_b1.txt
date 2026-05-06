@@ -1,0 +1,120 @@
+training_data/phases/phase_3/phase_3_002.md | unnatural pedagogical framing | "Damage is for showing care" assigns beneficial purpose to a harmful outcome
+training_data/phases/phase_3/phase_3_102.md | category mistake | "hurt" defined with verb forms ("to cause pain") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_105.md | category mistake | adverb "strongly" taught using noun Format B frame ("Strongly appears in opinions")
+training_data/phases/phase_3/phase_3_110.md | category mistake | verb "stay" defined with verb forms ("to remain") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_111.md | category mistake | verb "treat" defined with verb forms ("to behave towards") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_112.md | category mistake | adverb "vividly" taught using noun Format B frame ("Vividly appears in descriptions")
+training_data/phases/phase_3/phase_3_114.md | category mistake | verb "start" defined with verb forms ("to begin") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_115.md | unnatural pedagogical framing | "well-test" is not a standard English compound word taught as standalone concept
+training_data/phases/phase_3/phase_3_118.md | category mistake | adverb "genuinely" taught using noun Format B frame ("Genuinely appears in feelings")
+training_data/phases/phase_3/phase_3_119.md | category mistake | verb "pay" defined with verb forms ("to give money") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_123.md | category mistake | verb "settle" defined with verb forms ("to make stable") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_127.md | category mistake | verb "defeat" defined with verb forms ("to overcome") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_129.md | category mistake | verb "gain" defined with verb forms ("to get something") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_131.md | malformed ontology | "affect" taught as a noun in Format B but is primarily a verb
+training_data/phases/phase_3/phase_3_140.md | category mistake | verb "reject" mixes noun and verb definitions in noun Format B frame
+training_data/phases/phase_3/phase_3_148.md | category mistake | verb "coordinate" taught as noun in Format B frame ("Coordinate brings things together")
+training_data/phases/phase_3/phase_3_151.md | category mistake | verb "scan" taught as noun in Format B frame ("Scan moves eyes over something")
+training_data/phases/phase_3/phase_3_158.md | category mistake | verb "construct" taught as noun in Format B frame ("Construct is an action")
+training_data/phases/phase_3/phase_3_173.md | category mistake | verb "compress" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_176.md | category mistake | verb "rise" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_177.md | category mistake | verb "sink" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_181.md | category mistake | verb "flex" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_182.md | category mistake | gerund "freezing" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_184.md | category mistake | verb "dissolve" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_187.md | category mistake | verb "die" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_191.md | category mistake | verb "preserve" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_192.md | category mistake | verb "repeat" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_195.md | category mistake | "encounter" mixes noun and verb definitions in noun Format B frame
+training_data/phases/phase_3/phase_3_202.md | category mistake | verb "shrink" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_203.md | category mistake | verb "capture" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_205.md | category mistake | adjective "fast" taught using noun Format B frame
+training_data/phases/phase_3/phase_3_207.md | category mistake | verb "freeze" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_218.md | category mistake | gerund "filing" taught using noun Format B frame instead of Format A
+training_data/phases/phase_3/phase_3_222.md | category mistake | verb "crash" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_225.md | category mistake | verb "stumble" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_227.md | category mistake | verb "laugh" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_233.md | category mistake | verb "exchange" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_240.md | category mistake | gerund "co-parenting" taught using noun Format B frame instead of Format A
+training_data/phases/phase_3/phase_3_129.md | incorrect teaching frame | "This is gain" (noun frame) defines "Gain is to get something" with infinitive verb definition
+training_data/phases/phase_3/phase_3_131.md | category mistake | "affect" taught as noun (psychology term for emotion) but described with verb properties (influence, change, cause)
+training_data/phases/phase_3/phase_3_132.md | broken contrast | "A glance is for seeing continuously" contradicts the core definition of glance as quick and brief
+training_data/phases/phase_3/phase_3_134.md | malformed ontology | "This is a measure. Measure is an action." — noun frame contradicts verb content
+training_data/phases/phase_3/phase_3_137.md | duplicate/redundant | "Borrowing" (Format A capitalized) duplicates content with phase_3_138.md "borrowing" (Format B)
+training_data/phases/phase_3/phase_3_138.md | duplicate/redundant | "This is a borrowing" duplicates content with phase_3_137.md "Borrowing" (same concept, different format)
+training_data/phases/phase_3/phase_3_140.md | incorrect teaching frame | "This is a reject" — verb "reject" taught as countable noun ("a reject")
+training_data/phases/phase_3/phase_3_144.md | incorrect teaching frame | "generating" uses non-standard format, doesn't match either Format A or Format B conventions
+training_data/phases/phase_3/phase_3_148.md | incorrect teaching frame | "This is coordinate" — verb "coordinate" taught as noun frame
+training_data/phases/phase_3/phase_3_151.md | incorrect teaching frame | "This is a scan" — verb "scan" taught as noun frame
+training_data/phases/phase_3/phase_3_155.md | incorrect teaching frame | "This is a pass" — verb actions described in noun frame
+training_data/phases/phase_3/phase_3_158.md | incorrect teaching frame | "This is construct" — verb taught as noun (and "construction" already has its own file phase_3_159.md)
+training_data/phases/phase_3/phase_3_160.md | incorrect teaching frame | "This is a highlight" — verb concept taught in noun frame
+training_data/phases/phase_3/phase_3_164.md | unnatural pedagogical framing | "This is a filling-in" — awkward noun derived from phrasal verb
+training_data/phases/phase_3/phase_3_170.md | incorrect teaching frame | "This is a replay. Replay is an action." — verb taught as noun
+training_data/phases/phase_3/phase_3_173.md | incorrect teaching frame | "This is compress. Compress is to press a thing." — verb taught as noun
+training_data/phases/phase_3/phase_3_176.md | incorrect teaching frame | "This is rise. Rise is to go up." — verb taught as noun
+training_data/phases/phase_3/phase_3_177.md | incorrect teaching frame | "This is sink. Sink is to go down." — verb taught as noun
+training_data/phases/phase_3/phase_3_181.md | incorrect teaching frame | "This is flex. Flex is to bend." — verb taught as noun
+training_data/phases/phase_3/phase_3_182.md | incorrect teaching frame | "Freezing is to become ice" — gerund defined with infinitive verb construction
+training_data/phases/phase_3/phase_3_184.md | incorrect teaching frame | "This is dissolve. Dissolve is to melt away." — verb taught as noun
+training_data/phases/phase_3/phase_3_187.md | incorrect teaching frame | "This is die. Die is to stop living." — verb taught as noun (die as noun means metal stamping tool)
+training_data/phases/phase_3/phase_3_189.md | incorrect teaching frame | User asks "What does failing mean?" (verb frame) but response is "This is a failing" (noun frame)
+training_data/phases/phase_3/phase_3_191.md | incorrect teaching frame | User asks "What does preserve mean?" (verb) but response is "This is a preserve" (noun) with infinitive definitions
+training_data/phases/phase_3/phase_3_192.md | incorrect teaching frame | "This is repeat. Repeat is to do again." — verb taught as noun
+training_data/phases/phase_3/phase_3_195.md | incorrect teaching frame | User asks "What does encounter mean?" (verb) but response is "This is an encounter" (noun frame)
+training_data/phases/phase_3/phase_3_200.md | duplicate/redundant | "An end" is nearly identical in meaning to "An ending" in phase_3_201.md
+training_data/phases/phase_3/phase_3_201.md | duplicate/redundant | "An ending" is nearly identical in meaning to "An end" in phase_3_200.md
+training_data/phases/phase_3/phase_3_202.md | incorrect teaching frame | "This is shrink. Shrink is to get smaller." — verb taught as noun
+training_data/phases/phase_3/phase_3_203.md | incorrect teaching frame | "This is capture. Capture is to take hold of." — verb taught as noun
+training_data/phases/phase_3/phase_3_205.md | category mistake | "fast" taught as a noun — "fast" is an adjective, not a noun
+training_data/phases/phase_3/phase_3_207.md | incorrect teaching frame | "This is freeze. Freeze is to turn to ice." — verb taught as noun (also redundant with freezing in phase_3_182.md)
+training_data/phases/phase_3/phase_3_222.md | incorrect teaching frame | "This is crash. Crash is to hit hard." — verb taught as noun
+training_data/phases/phase_3/phase_3_225.md | incorrect teaching frame | "This is stumble. Stumble is to trip." — verb taught as noun
+training_data/phases/phase_3/phase_3_227.md | incorrect teaching frame | "This is laugh. Laugh is to make a sound." — verb taught as noun
+training_data/phases/phase_3/phase_3_233.md | incorrect teaching frame | "This is exchange. Exchange is to give and receive." — verb taught as noun
+training_data/phases/phase_3/phase_3_237.md | semantically nonsensical example | Lines 10,13,14 have duplicated "when when"; line 15 "Parenting happens daily care and family guidance" missing preposition
+training_data/phases/phase_3/phase_3_238.md | semantically nonsensical example | Lines 10,13,14 have duplicated "when when"; line 15 "Mothering happens comfort and daily care" missing preposition
+training_data/phases/phase_3/phase_3_239.md | semantically nonsensical example | Lines 10,13,14 have duplicated "when when"; line 15 "Fathering happens steady presence and family trust" missing preposition
+training_data/phases/phase_3/phase_3_244.md | unsupported assumption | Line 7 "Parent-offspring-bond-formation is often emotional" uses speculative "often" in violation of concrete affirmative constraint
+training_data/phases/phase_3/phase_3_245.md | unsupported assumption | Line 7 "Parent-offspring-bond-attachment is often emotional" uses speculative "often" in violation of concrete affirmative constraint
+training_data/phases/phase_3/phase_3_250.md | semantically nonsensical example | Line 15 "Engaging happens shared action and focus" missing preposition
+training_data/phases/phase_3/phase_3_252.md | semantically nonsensical example | Line 15 "Sustaining happens steady care and long time" missing preposition
+training_data/phases/phase_3/phase_3_253.md | semantically nonsensical example | Line 15 "Impairing happens damage and lost strength" missing preposition
+training_data/phases/phase_3/phase_3_255.md | semantically nonsensical example | Line 15 "Operating happens active system and careful control" missing preposition
+training_data/phases/phase_3/phase_3_257.md | category mistake | "Collect" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_258.md | category mistake | "Affect" taught as a noun meaning "action of influencing" which is not the standard noun sense (psychological term)
+training_data/phases/phase_3/phase_3_260.md | semantically nonsensical example | Line 15 "Applying happens rule use and tool use" missing preposition
+training_data/phases/phase_3/phase_3_280.md | category mistake | "Carry" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_287.md | category mistake | "Clean" taught as a noun but is primarily an adjective/verb with no matching noun sense
+training_data/phases/phase_3/phase_3_288.md | category mistake | "Clear" taught as a noun but is primarily an adjective/verb with no matching noun sense
+training_data/phases/phase_3/phase_3_292.md | category mistake | "Combine" taught as a noun meaning mixing (noun sense is a farm machine, not the verb action)
+training_data/phases/phase_3/phase_3_293.md | semantically nonsensical example | Line 15 "Connecting happens joined parts and shared flow" missing preposition
+training_data/phases/phase_3/phase_3_295.md | category mistake | "Cook" taught as a noun meaning "making food hot" but the noun sense is a person, not an action
+training_data/phases/phase_3/phase_3_29.md | semantically nonsensical example | Fourth block describes rain process instead of what rain provides or gives
+training_data/phases/phase_3/phase_3_304.md | semantically nonsensical example | Line 15 "Creating happens new form and clear shape" missing preposition
+training_data/phases/phase_3/phase_3_305.md | category mistake | "Creep" taught as a noun describing an action but the noun sense is a person
+training_data/phases/phase_3/phase_3_30.md | semantically nonsensical example | Fourth block describes fish actions instead of what fish provides or gives
+training_data/phases/phase_3/phase_3_31.md | semantically nonsensical example | Fourth block describes dog actions instead of what dog provides or gives
+training_data/phases/phase_3/phase_3_314.md | category mistake | "Damp" taught as a noun but is primarily an adjective with no matching noun sense
+training_data/phases/phase_3/phase_3_316.md | semantically nonsensical example | Line 15 "Dangling happens hanging point and moving sway" missing preposition
+training_data/phases/phase_3/phase_3_317.md | category mistake | "Dart" conflates the object (small missile) with the verb (sudden movement) inconsistently
+training_data/phases/phase_3/phase_3_318.md | category mistake | "Dash" taught as a noun meaning "fast run" but the noun sense is a punctuation mark or small amount
+training_data/phases/phase_3/phase_3_319.md | semantically nonsensical example | Line 15 "Decorating happens color and special look" missing preposition
+training_data/phases/phase_3/phase_3_32.md | semantically nonsensical example | Fourth block describes wind actions instead of what wind provides or gives
+training_data/phases/phase_3/phase_3_321.md | category mistake | "Dig" taught as a noun but the noun sense (archaeological dig) does not match the verb action defined
+training_data/phases/phase_3/phase_3_322.md | semantically nonsensical example | Line 15 "Dining happens gathered table and careful meal" missing preposition
+training_data/phases/phase_3/phase_3_328.md | category mistake | "Draw" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_33.md | semantically nonsensical example | Fourth block describes moon actions instead of what moon provides or gives
+training_data/phases/phase_3/phase_3_335.md | category mistake | "Dry" taught as a noun but is primarily an adjective with no matching noun sense
+training_data/phases/phase_3/phase_3_339.md | category mistake | "Empty" taught as a noun but is primarily an adjective with no matching noun sense
+training_data/phases/phase_3/phase_3_340.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Entering is Moving") vs curriculum convention
+training_data/phases/phase_3/phase_3_341.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Erasing is Removing") vs curriculum convention
+training_data/phases/phase_3/phase_3_344.md | category mistake | "Fade" taught as a noun but primarily a verb; noun sense (a fade haircut/crossfade) does not match definitions
+training_data/phases/phase_3/phase_3_346.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Fastening is Joining") vs curriculum convention
+training_data/phases/phase_3/phase_3_347.md | category mistake | "Feed" taught as a noun meaning "giving food" but the noun sense is animal food, not the action
+training_data/phases/phase_3/phase_3_350.md | category mistake | "Fill" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_356.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Flattening is Making") vs curriculum convention
+training_data/phases/phase_3/phase_3_357.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Fleeing is Running") vs curriculum convention
+training_data/phases/phase_3/phase_3_34.md | semantically nonsensical example | Third and fourth blocks use "is" predicates instead of answering "does" and "provide/give" questions
+training_data/phases/phase_3/phase_3_28.md | malformed ontology | Third block uses adjectives (warm, life-giving) instead of actions for "What does a sun do?"
+BATCH DONE: phase_3 batch 1 (files 1-305), 119 issues found

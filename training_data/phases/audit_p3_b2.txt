@@ -1,0 +1,40 @@
+training_data/phases/phase_3/phase_3_42.md | formatting error | Capitalized word after "is" in body lines: "Coming", "Becoming", "Taking", "Turning", "Appearing"
+training_data/phases/phase_3/phase_3_44.md | formatting error | Capitalized word after "is" in body lines: "Moving", "Roaming", "Stepping", "Traveling", "Drifting"
+training_data/phases/phase_3/phase_3_46.md | formatting error | Capitalized word after "is" in body lines: "Breaking", "Crossing", "Acting", "Stepping", "Ignoring"
+training_data/phases/phase_3/phase_3_50.md | formatting error | Capitalized word after "is" in body lines: "Keeping", "Holding", "Preserving", "Supporting", "Continuing"
+training_data/phases/phase_3/phase_3_52.md | formatting error | Capitalized word after "is" in body lines: "Keeping", "Carrying", "Moving", "Extending", "Staying"
+training_data/phases/phase_3/phase_3_56.md | formatting error | Capitalized word after "is" in body lines: "Finding", "Learning", "Uncovering", "Seeing", "Making"
+training_data/phases/phase_3/phase_3_41.md | malformed ontology | "Where does expansion appear?" includes abstract non-locations: "in a business", "in a story"
+training_data/phases/phase_3/phase_3_45.md | malformed ontology | "Where does consolidation appear?" includes abstract non-locations: "in debt", "in memories"
+training_data/phases/phase_3/phase_3_51.md | malformed ontology | "Where does trading appear?" includes abstract non-location: "in friendships"
+training_data/phases/phase_3/phase_3_53.md | malformed ontology | "Where does change appear?" includes abstract non-locations: "in minds", "in decisions"
+training_data/phases/phase_3/phase_3_61.md | semantically nonsensical example | "A plant is gradual" — a plant itself is not gradual; its growth is gradual
+training_data/phases/phase_3/phase_3_64.md | malformed ontology | "Where does draw appear?" includes "in wells" (odd specific) and "in attention" (abstract non-location)
+training_data/phases/phase_3/phase_3_88.md | category mistake | "Hide" treated as a noun throughout; "Hide is concealment" nominalizes a verb incorrectly
+training_data/phases/phase_3/phase_3_88.md | malformed ontology | "Where does hide appear?" answers with abstract concepts (privacy, mystery, protection) instead of locations
+training_data/phases/phase_3/phase_3_88.md | incorrect teaching frame | "What does hide do?" block uses gerund form (is protecting, is concealing) inconsistently
+training_data/phases/phase_3/phase_3_98.md | unsupported assumption | "A child is not careful" is a misleading generalization — many children are careful
+training_data/phases/phase_3/phase_3_346.md | formatting error | Capitalized word after "is" in body lines: "Joining", "Closing", "Holding", "Making", "Securing"
+training_data/phases/phase_3/phase_3_356.md | formatting error | Capitalized word after "is" in body lines: "Making", "Pressing", "Spreading", "Reducing", "Smoothing"
+training_data/phases/phase_3/phase_3_366.md | formatting error | Capitalized word after "is" in body lines: "Moving", "Traveling", "Lifting", "Crossing", "Gliding"
+training_data/phases/phase_3/phase_3_370.md | formatting error | Capitalized word after "is" in body lines: "Going", "Moving", "Keeping", "Tracing", "Staying"
+training_data/phases/phase_3/phase_3_383.md | formatting error | Capitalized word after "is" in body lines: "Getting", "Adding", "Rising", "Spreading", "Becoming"
+training_data/phases/phase_3/phase_3_387.md | formatting error | Capitalized word after "is" in body lines: "Becoming", "Losing", "Turning", "Making", "Setting"
+training_data/phases/phase_3/phase_3_390.md | formatting error | Capitalized word after "is" in body lines: "Making", "Restoring", "Closing", "Bringing", "Mending"
+training_data/phases/phase_3/phase_3_411.md | formatting error | Capitalized word after "is" in body lines: "Pressing", "Working", "Mixing", "Shaping", "Making"
+training_data/phases/phase_3/phase_3_457.md | formatting error | Capitalized word after "is" in body lines: "Sending", "Letting", "Guiding", "Making", "Filling"
+training_data/phases/phase_3/phase_3_486.md | formatting error | Capitalized word after "is" in body lines: "Turning", "Spinning", "Moving", "Changing", "Twisting"
+training_data/phases/phase_3/phase_3_502.md | semantically nonsensical example | "Sprout feeds bugs" — sprouts do not feed bugs; they are eaten by bugs
+training_data/phases/phase_3/phase_3_506.md | duplicate/redundant statement | "Stomp crushes cans" appears as both a body line and the summary line verbatim
+training_data/phases/phase_3/phase_3_506.md | misleading sentence | "Stomp kills bug" is grammatically missing article "a" ("kills a bug")
+training_data/phases/phase_3/phase_3_507.md | contradiction against curriculum | Teaches "stop" as a concrete noun (a stop sign), while phase_3_59.md in same batch teaches "stop" as a verb
+training_data/phases/phase_3/phase_3_508.md | misleading sentence | Question says "What does a storm look like?" but response says "This is storm" (missing article "a")
+training_data/phases/phase_3/phase_3_509.md | formatting error | Capitalized word after "is" in body lines: "Making", "Removing", "Setting", "Aligning", "Bringing"
+training_data/phases/phase_3/phase_3_515.md | formatting error | Capitalized word after "is" in body lines: "Shocking", "Causing", "Hitting", "Making", "Creating"
+training_data/phases/phase_3/phase_3_520.md | category mistake | "Swallow" taught as a bird (noun) but "swallow" is primarily a verb in the curriculum
+training_data/phases/phase_3/phase_3_531.md | formatting error | Capitalized word after "is" in body lines: "Making", "Training", "Bringing", "Softening", "Teaching"
+training_data/phases/phase_3/phase_3_544.md | formatting error | Capitalized word after "is" in body lines: "Making", "Pulling", "Increasing", "Closing", "Securing"
+training_data/phases/phase_3/phase_3_564.md | formatting error | Capitalized word after "is" in body lines: "Taking", "Revealing", "Opening", "Making", "Exposing"
+training_data/phases/phase_3/phase_3_565.md | formatting error | Capitalized word after "is" in body lines: "Opening", "Releasing", "Allowing", "Freeing", "Opening"
+training_data/phases/phase_3/phase_3_583.md | formatting error | "This is Whistle" has capitalized target word "Whistle" — inconsistent with curriculum convention of lowercase
+BATCH DONE: phase_3 batch 2 (files 306-609), 39 issues found

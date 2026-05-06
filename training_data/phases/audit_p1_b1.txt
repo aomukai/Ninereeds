@@ -1,0 +1,24 @@
+training_data/phases/phase_1/phase_1_009.md | incorrect teaching frame | "What does a stone give?" answered with properties (heavy, flat, smooth, strong, durable) instead of things a stone provides
+training_data/phases/phase_1/phase_1_010.md | format inconsistency | First block uses "What is fire?" instead of the standard "What does fire look like?" pattern
+training_data/phases/phase_1/phase_1_012.md | incorrect teaching frame | "Where can you find a cat?" answered with properties (warm, soft, quiet, watchful, clean) instead of locations
+training_data/phases/phase_1/phase_1_032.md | formatting error | Summary lines start with lowercase "banana" instead of capital "Banana" in all four blocks
+training_data/phases/phase_1/phase_1_062.md | duplicate/redundant statement | "A boat is a vehicle that moves on water." repeated verbatim in both appearance and location blocks
+training_data/phases/phase_1/phase_1_087.md | format inconsistency | Fourth block uses "What is a tooth for?" instead of the standard "What does a tooth give?" pattern
+training_data/phases/phase_1/phase_1_115.md | formatting error | Missing newline before END marker in last block: "The jar is wide and sealed.=== END ==="
+training_data/phases/phase_1/phase_1_117.md | incorrect teaching frame | "Where does honey come from?" answered with properties (thick, sweet, natural, bee-made, pure) instead of origin/location
+training_data/phases/phase_1/phase_1_1003.md | duplicate/redundant statement | First block has "A spider is a small bug with eight legs." immediately followed by "A spider is a small bug. A spider has eight legs." — redundant restatement
+training_data/phases/phase_1/phase_1_1035.md | category mistake | "Stiff" is an adjective but taught as a concrete noun with "This is stiff" / "Stiff is a hard state"
+training_data/phases/phase_1/phase_1_1043.md | category mistake | "Straight" is an adjective but taught as a concrete noun with "This is straight"
+training_data/phases/phase_1/phase_1_1051.md | category mistake | "Strong" is an adjective but taught as if it were a thing using "What does strong look like?"
+training_data/phases/phase_1/phase_1_1054.md | category mistake | "Sturdy" is an adjective but taught as if it were a thing using "What does sturdy mean?"
+training_data/phases/phase_1/phase_1_1058.md | category mistake | "Sudden" is an adjective but taught as if it were a thing using "What does sudden mean?"
+training_data/phases/phase_1/phase_1_1082.md | category mistake | "Tall" is an adjective but taught as a concrete entity with "This is tall"
+training_data/phases/phase_1/phase_1_1102.md | category mistake | "Thick" is an adjective but taught as a concrete entity with "This is thick"
+training_data/phases/phase_1/phase_1_1103.md | duplicate/redundant statement | Summary lines repeat the subject unnecessarily (e.g. "A thief is a person and a thief looks normal" instead of "A thief is a person who looks normal")
+training_data/phases/phase_1/phase_1_1105.md | category mistake | "Thinning" is a verb/gerund but taught as a concrete noun with capital T "Thinning is making something narrower"
+training_data/phases/phase_1/phase_1_1107.md | category mistake | "Thorny" is an adjective but taught as if it were a thing using "What does thorny mean?"
+training_data/phases/phase_1/phase_1_1120.md | category mistake | "Tiny" is an adjective but taught as if it were a thing using "What does tiny mean?"
+training_data/phases/phase_1/phase_1_1152.md | malformed ontology | "Trousers" is grammatically plural but treated as singular throughout ("Trousers is a garment" / "Trousers has a waistband")
+training_data/phases/phase_1/phase_1_1187.md | grammatical error | "Vest" used without article "a" ("This is vest" should be "This is a vest"), inconsistent with all other files
+
+BATCH DONE: phase_1 batch 1 (files 1-307), 22 issues found

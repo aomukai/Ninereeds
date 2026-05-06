@@ -1,0 +1,60 @@
+training_data/phases/phase_6/phase_208.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines; definition concatenated without punctuation; user questions include entire definition text making them nonsensically long
+training_data/phases/phase_6/phase_218.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines; definition concatenated without punctuation
+training_data/phases/phase_6/phase_244.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_249.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_26.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_286.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_33.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_35.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_382.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_413.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1048.md | malformed ontology | "idealizing" - Entire file completely broken: definition is an incoherent run-on string of words; all body lines identical gibberish; user questions absurdly long repeating entire definition
+training_data/phases/phase_6/phase_6_1049.md | malformed ontology | "implying" - Entire file completely broken: definition is an incoherent run-on string of words; all body lines identical gibberish; user questions absurdly long
+training_data/phases/phase_6/phase_6_1054.md | malformed ontology | "dismissing" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1078.md | malformed ontology | "determining" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1081.md | malformed ontology | "identifying" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1082.md | malformed ontology | "interpreting" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1121.md | malformed ontology | "inventing" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1087.md | category mistake | "chance" is an abstract concept treated as a physical object (has round shape, smooth surface, bright color, sits on a shelf, blocks a path, supports weight)
+training_data/phases/phase_6/phase_6_1086.md | category mistake | "brand" is an abstract marketing concept treated as a physical object (has surface, color, shape, texture, sits on a shelf)
+training_data/phases/phase_6/phase_6_1089.md | category mistake | "code" (software) treated as a physical object (has surface, texture, is solid, on a desk, supports weight)
+training_data/phases/phase_6/phase_6_1095.md | category mistake | "grade" is an abstract measure/score treated as a physical object (solid, square, flat, on a shelf, in a box)
+training_data/phases/phase_6/phase_6_1097.md | category mistake | "handful" (amount) treated as a physical object (round, compact, sits still, lies flat)
+training_data/phases/phase_6/phase_6_1103.md | category mistake | "left" (direction) treated as a physical object (flat side, curved edge, smooth surface, dark color, lies on floor, leans against chair)
+training_data/phases/phase_6/phase_6_1104.md | category mistake | "low" (height descriptor) treated as a physical object (depth, width, height, supports weight, holds objects)
+training_data/phases/phase_6/phase_6_1109.md | category mistake | "count" (number) treated as a physical object (color, size, texture, weight, lies on floor, sits on shelf)
+training_data/phases/phase_6/phase_6_1110.md | category mistake | "crime" (abstract concept) treated as a physical object (shape, form, visible, surface, outline, on floor, on desk)
+training_data/phases/phase_6/phase_6_1118.md | category mistake | "height" (measurement) treated as a physical object (shape, form, surface, edges, on ground, on table)
+training_data/phases/phase_6/phase_6_1120.md | category mistake | "idea" (abstract concept) treated as a physical object (form, structure, surface, edges, shape)
+training_data/phases/phase_6/phase_6_1122.md | category mistake | "joke" (abstract concept) treated as a physical object (surface, color, texture, size, weight, on a shelf, in a box)
+training_data/phases/phase_6/phase_6_1123.md | category mistake | "lot" (abstract quantity/parcel) treated as a physical object (round shape, flat top, smooth surface, on a shelf)
+training_data/phases/phase_6/phase_6_1116.md | category mistake | "half" (fraction/proportion) treated as a physical object (flat side, curved edge, sits on a shelf, supports weight)
+training_data/phases/phase_6/phase_6_1057.md | category mistake | "somehow" is an adverb, not a noun; treated as if it is a concept/entity (manner, method, technique)
+training_data/phases/phase_6/phase_6_1055.md | unnatural or misleading pedagogical framing | "world's" - possessive form used as a standalone noun ("A world's is large"); not standard English
+training_data/phases/phase_6/phase_6_1060.md | unnatural or misleading pedagogical framing | "an elegance" - elegance is an uncountable abstract noun; "an elegance" is non-standard usage
+training_data/phases/phase_6/phase_6_1031.md | category mistake | "themselves" is a reflexive pronoun, not a noun; "What does themselves do?" is nonsensical
+training_data/phases/phase_6/phase_6_1036.md | category mistake | "myself" is a reflexive pronoun, not a noun; "What does myself do?" is nonsensical
+training_data/phases/phase_6/phase_6_1038.md | unnatural or misleading pedagogical framing | "there's" is a contraction, taught as a standalone concept/entity
+training_data/phases/phase_6/phase_6_1042.md | unnatural or misleading pedagogical framing | "can't" is a contraction, taught as a standalone concept/entity with "Where does can't appear?"
+training_data/phases/phase_6/phase_6_1037.md | unnatural or misleading pedagogical framing | "three-ness" is a non-standard wordform for describing the quality of three
+training_data/phases/phase_6/phase_6_1046.md | duplicate/redundant statement | "threeness" is a near-duplicate of "three-ness" from phase_6_1037.md teaching the same concept
+training_data/phases/phase_6/phase_6_1026.md | incorrect teaching frame | "improvable" is an adjective; taught using adjective descriptor format ("Improvable describes something") which is acceptable but borderline
+training_data/phases/phase_6/phase_6_1028.md | incorrect teaching frame | "specific" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1033.md | incorrect teaching frame | "short-term" is an adjective phrase; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1035.md | incorrect teaching frame | "kindly" is an adverb/adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1043.md | incorrect teaching frame | "equal" is primarily an adjective; taught as a noun concept
+training_data/phases/phase_6/phase_6_1045.md | incorrect teaching frame | "abstract" is an adjective; taught as a noun concept ("Abstract is a concept")
+training_data/phases/phase_6/phase_6_1056.md | incorrect teaching frame | "fictional" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1061.md | incorrect teaching frame | "internal" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1067.md | incorrect teaching frame | "meaningless" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1068.md | incorrect teaching frame | "optional" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1071.md | incorrect teaching frame | "deliberate" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1075.md | incorrect teaching frame | "previous" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1023.md | unnatural or misleading pedagogical framing | "parent-offspring-care-system" is an extremely long made-up compound noun, not a standard word
+training_data/phases/phase_6/phase_6_1024.md | unnatural or misleading pedagogical framing | "parent-offspring-care-system-design" is an excessively long made-up compound noun
+training_data/phases/phase_6/phase_6_1032.md | unnatural or misleading pedagogical framing | "kindness-in-the-moment" is a hyphenated phrase used as a compound noun topic
+training_data/phases/phase_6/phase_6_1058.md | unnatural or misleading pedagogical framing | "math-shape" is a non-standard compound word
+training_data/phases/phase_6/phase_6_1065.md | unnatural or misleading pedagogical framing | "want-lens" is a non-standard made-up compound concept
+training_data/phases/phase_6/phase_6_1070.md | unnatural or misleading pedagogical framing | "goal-make" is a non-standard compound; verb-noun construction used as a noun topic
+training_data/phases/phase_6/phase_6_1083.md | unnatural or misleading pedagogical framing | "determine-condition" is a non-standard compound used as a topic word
+BATCH DONE: phase_6 batch 1 (files 1-291), 59 issues found

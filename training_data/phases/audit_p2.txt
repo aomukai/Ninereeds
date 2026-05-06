@@ -1,0 +1,41 @@
+training_data/phases/phase_2/phase_2_001.md | semantically nonsensical example | "Alignment is in friends" and "Alignment is making smooth" are nonsensical — alignment is a geometric/relational concept, not something that "appears in friends" or "makes smooth"
+training_data/phases/phase_2/phase_2_002.md | category mistake | "prior" is an adjective, not a noun — taught as a noun with appearance, location, behavior, and purpose
+training_data/phases/phase_2/phase_2_20.md | unsupported assumption | "The police stop bad men" makes an unsupported moral judgment — not a concrete, neutral description
+training_data/phases/phase_2/phase_2_28.md | grammar error | "a an eggshell" should be "an eggshell" in all four user questions
+training_data/phases/phase_2/phase_2_52.md | grammar error | "a an earlobe" should be "an earlobe" in all four user questions
+training_data/phases/phase_2/phase_2_84.md | grammar error | "What does lab look like?" is missing the article "a" — inconsistent with the remaining questions in the same file which use "a lab"
+training_data/phases/phase_2/phase_2_85.md | category mistake | "somewhere" is an adverb, not a noun — taught as a concrete thing with physical appearance and location
+training_data/phases/phase_2/phase_2_87.md | incorrect teaching frame | "within" is a preposition — questions like "What does within look like?" and "What is within for?" are unnatural pedagogical framing for a preposition
+training_data/phases/phase_2/phase_2_88.md | grammar error | "What does dinosaur look like?" is missing the article "a" in all four user questions
+training_data/phases/phase_2/phase_2_93.md | grammar error | "Where is observer?" is missing the article "an" — all four user questions lack the required article
+training_data/phases/phase_2/phase_2_94.md | incorrect teaching frame | "Owning" is a gerund (verb form), not a thing — taught with "What is Owning?" frame as if it were a concrete noun
+training_data/phases/phase_2/phase_2_95.md | misleading sentence | "Presence is not seen" uses negation, violating the no-negation rule for body lines; "Presence has no shape" and "Presence has no color" repeat this pattern
+training_data/phases/phase_2/phase_2_96.md | category mistake | "yours" is a possessive pronoun, not a noun — taught as a thing with appearance, location, and purpose
+training_data/phases/phase_2/phase_2_97.md | grammar error | "Where is chemical?" is missing the article "a" — all four user questions lack the required article
+training_data/phases/phase_2/phase_2_99.md | category mistake | "familiar" is primarily an adjective, not a noun — taught with noun-frame questions about appearance, location, and purpose
+training_data/phases/phase_2/phase_2_154.md | category mistake | "else's" is a possessive form, not a noun — taught as a thing with location, behavior, and purpose
+training_data/phases/phase_2/phase_2_155.md | category mistake | "ours" is a possessive pronoun, not a noun — taught as a thing with appearance, location, and purpose
+training_data/phases/phase_2/phase_2_169.md | duplicate/redundant statement | "park" is already taught in phase_2_69.md — same word, duplicate entry within the same phase
+training_data/phases/phase_2/phase_2_256.md | duplicate/redundant statement | "highway" is already taught in phase_2_255.md — same word, duplicate entry within the same phase
+training_data/phases/phase_2/phase_2_275.md | duplicate/redundant statement | "milkshake" is already taught in phase_2_29.md — same word, duplicate entry within the same phase
+training_data/phases/phase_2/phase_2_303.md | unsupported assumption | "The police catch bad people" makes an unsupported moral judgment — not a concrete, neutral description
+training_data/phases/phase_2/phase_2_323.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_324.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_325.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_326.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_327.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_328.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_329.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_330.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_331.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_332.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_333.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_334.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_335.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_336.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_337.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_338.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_339.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_340.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_341.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+BATCH DONE: phase_2 (all 343 files), 41 issues found

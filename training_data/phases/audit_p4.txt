@@ -1,0 +1,39 @@
+training_data/phases/phase_4/phase_4_07.md | misleading sentence | "A bee gathers from the flower" is incomplete — gathers what? (line 5)
+training_data/phases/phase_4/phase_4_12.md | misleading pedagogical framing | "What does a flower make?" answered with blooming description, not what it produces (seeds, nectar, fruit)
+training_data/phases/phase_4/phase_4_14.md | unsupported assumption | "The snail decorates a shell for display" implies intentional aesthetic behavior (line 34)
+training_data/phases/phase_4/phase_4_19.md | misleading pedagogical framing | "What does a chicken give?" answered with behavioral description, not what it gives (eggs)
+training_data/phases/phase_4/phase_4_23.md | misleading pedagogical framing | "How does a mouse change?" answered with basic foraging behavior, not any transformation or change process
+training_data/phases/phase_4/phase_4_31.md | misleading pedagogical framing | "What does a grasshopper give?" answered with behavior, not what it gives
+training_data/phases/phase_4/phase_4_33.md | misleading pedagogical framing | "What is a tadpole used for?" answered with behavior description, not purpose or utility
+training_data/phases/phase_4/phase_4_35.md | misleading pedagogical framing | "How does a snake change?" answered with movement description, not change (e.g. shedding skin)
+training_data/phases/phase_4/phase_4_36.md | misleading pedagogical framing | "What does an alligator make?" answered with jaw action, not anything it produces
+training_data/phases/phase_4/phase_4_43.md | misleading pedagogical framing | "What does a jellyfish give?" answered with behavior description, not what it gives
+training_data/phases/phase_4/phase_4_45.md | misleading pedagogical framing | "What is seaweed used for?" answered with floating description, not usage or purpose
+training_data/phases/phase_4/phase_4_51.md | misleading pedagogical framing | "How does a valley form?" answered with descriptive inventory (what is in a valley), not formation process (erosion, tectonics)
+training_data/phases/phase_4/phase_4_55.md | misleading pedagogical framing | "What does an orchard give?" answered with contents inventory, not what it gives/produces
+training_data/phases/phase_4/phase_4_55.md | semantically nonsensical example | "The ladder stands by the tree in the orchard" — ladders are incidental artifacts, not features of orchards (line 5)
+training_data/phases/phase_4/phase_4_57.md | misleading pedagogical framing | "What is rice used for?" answered with growth description, not usage
+training_data/phases/phase_4/phase_4_59.md | misleading pedagogical framing | "How does corn change?" answered with growth, not a change process
+training_data/phases/phase_4/phase_4_60.md | misleading pedagogical framing | "What does a bean make?" answered with growth description, not what it makes
+training_data/phases/phase_4/phase_4_61.md | misleading pedagogical framing | "Where does a pea go?" answered with growth description, not location or destination
+training_data/phases/phase_4/phase_4_62.md | misleading pedagogical framing | "What does an orange do?" answered with growth description, not actions or function
+training_data/phases/phase_4/phase_4_67.md | misleading pedagogical framing | "What does a pumpkin give?" answered with growth and carving description, not what it gives
+training_data/phases/phase_4/phase_4_69.md | misleading pedagogical framing | "What is an onion used for?" answered with growth description, not usage
+training_data/phases/phase_4/phase_4_71.md | misleading pedagogical framing | "How does lettuce change?" answered with structural description, not change process
+training_data/phases/phase_4/phase_4_72.md | misleading pedagogical framing | "What does cabbage make?" answered with structural description, not what it makes
+training_data/phases/phase_4/phase_4_73.md | misleading pedagogical framing | "Where does spinach go?" answered with growth and cooking description, not location
+training_data/phases/phase_4/phase_4_74.md | misleading pedagogical framing | "What does broccoli do?" answered with structural description, not actions
+training_data/phases/phase_4/phase_4_082.md | unsupported assumption | "Birth opens a new world for a baby" is poetic, not factual pedagogical prose (line 6)
+training_data/phases/phase_4/phase_4_085.md | misleading pedagogical framing | "What does breath look like?" answered with function/location, not visual appearance
+training_data/phases/phase_4/phase_4_087.md | category mistake | "dead" treated as a noun entity rather than an adjective or state — "Dead is a body" (line 3), "Dead returns matter" (line 21)
+training_data/phases/phase_4/phase_4_087.md | incorrect teaching frame | "dead" taught as a noun thing with appearance/location/behavior/purpose arc
+training_data/phases/phase_4/phase_4_091.md | category mistake | "hatch" treated as a noun entity rather than a verb/process — "Hatch is a crack" (line 3), "Hatch brings a new bird" (line 21)
+training_data/phases/phase_4/phase_4_091.md | incorrect teaching frame | "hatch" taught as a noun thing with appearance/location/behavior/purpose arc
+training_data/phases/adj_rewrites.md | duplicate entry | "parental" appears twice (lines 111 and 176) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "unexpected" appears twice (lines 376 and 476) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "previous" appears twice (lines 216 and 546) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "reliable" appears twice (lines 306 and 566) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "obvious" appears twice (lines 471 and 606) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "strong" appears twice (lines 1 and 696) with near-identical content
+training_data/phases/adj_rewrites.md | misleading sentence | "A rocket goes not sideways" is ungrammatical — should be "A rocket is not sideways" or "A rocket does not go sideways" (line 99)
+BATCH DONE: phase_4 + adj_rewrites (92 files), 38 issues found

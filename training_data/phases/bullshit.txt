@@ -1,0 +1,648 @@
+training_data/phases/phase_1/phase_1_009.md | incorrect teaching frame | "What does a stone give?" answered with properties (heavy, flat, smooth, strong, durable) instead of things a stone provides
+training_data/phases/phase_1/phase_1_010.md | format inconsistency | First block uses "What is fire?" instead of the standard "What does fire look like?" pattern
+training_data/phases/phase_1/phase_1_012.md | incorrect teaching frame | "Where can you find a cat?" answered with properties (warm, soft, quiet, watchful, clean) instead of locations
+training_data/phases/phase_1/phase_1_032.md | formatting error | Summary lines start with lowercase "banana" instead of capital "Banana" in all four blocks
+training_data/phases/phase_1/phase_1_062.md | duplicate/redundant statement | "A boat is a vehicle that moves on water." repeated verbatim in both appearance and location blocks
+training_data/phases/phase_1/phase_1_087.md | format inconsistency | Fourth block uses "What is a tooth for?" instead of the standard "What does a tooth give?" pattern
+training_data/phases/phase_1/phase_1_115.md | formatting error | Missing newline before END marker in last block: "The jar is wide and sealed.=== END ==="
+training_data/phases/phase_1/phase_1_117.md | incorrect teaching frame | "Where does honey come from?" answered with properties (thick, sweet, natural, bee-made, pure) instead of origin/location
+training_data/phases/phase_1/phase_1_1003.md | duplicate/redundant statement | First block has "A spider is a small bug with eight legs." immediately followed by "A spider is a small bug. A spider has eight legs." — redundant restatement
+training_data/phases/phase_1/phase_1_1035.md | category mistake | "Stiff" is an adjective but taught as a concrete noun with "This is stiff" / "Stiff is a hard state"
+training_data/phases/phase_1/phase_1_1043.md | category mistake | "Straight" is an adjective but taught as a concrete noun with "This is straight"
+training_data/phases/phase_1/phase_1_1051.md | category mistake | "Strong" is an adjective but taught as if it were a thing using "What does strong look like?"
+training_data/phases/phase_1/phase_1_1054.md | category mistake | "Sturdy" is an adjective but taught as if it were a thing using "What does sturdy mean?"
+training_data/phases/phase_1/phase_1_1058.md | category mistake | "Sudden" is an adjective but taught as if it were a thing using "What does sudden mean?"
+training_data/phases/phase_1/phase_1_1082.md | category mistake | "Tall" is an adjective but taught as a concrete entity with "This is tall"
+training_data/phases/phase_1/phase_1_1102.md | category mistake | "Thick" is an adjective but taught as a concrete entity with "This is thick"
+training_data/phases/phase_1/phase_1_1103.md | duplicate/redundant statement | Summary lines repeat the subject unnecessarily (e.g. "A thief is a person and a thief looks normal" instead of "A thief is a person who looks normal")
+training_data/phases/phase_1/phase_1_1105.md | category mistake | "Thinning" is a verb/gerund but taught as a concrete noun with capital T "Thinning is making something narrower"
+training_data/phases/phase_1/phase_1_1107.md | category mistake | "Thorny" is an adjective but taught as if it were a thing using "What does thorny mean?"
+training_data/phases/phase_1/phase_1_1120.md | category mistake | "Tiny" is an adjective but taught as if it were a thing using "What does tiny mean?"
+training_data/phases/phase_1/phase_1_1152.md | malformed ontology | "Trousers" is grammatically plural but treated as singular throughout ("Trousers is a garment" / "Trousers has a waistband")
+training_data/phases/phase_1/phase_1_1187.md | grammatical error | "Vest" used without article "a" ("This is vest" should be "This is a vest"), inconsistent with all other files
+
+BATCH DONE: phase_1 batch 1 (files 1-307), 22 issues found
+training_data/phases/phase_1/phase_1_122.md | incorrect teaching frame | Uses "The screw" instead of "A screw" throughout, breaking the standard article convention for this curriculum (compare "a screw" in behaviour/use sections fails to match appearance section)
+training_data/phases/phase_1/phase_1_123.md | incorrect teaching frame | Uses "The spider" instead of "A spider" throughout, deviating from standard curriculum article pattern
+training_data/phases/phase_1/phase_1_124.md | incorrect teaching frame | Uses "The bee" instead of "A bee" throughout for appearance section; switches to "a bee" inconsistently in later sections
+training_data/phases/phase_1/phase_1_125.md | incorrect teaching frame | Uses "The ant" instead of "An ant" throughout, deviating from standard curriculum article pattern
+training_data/phases/phase_1/phase_1_126.md | duplicate/redundant statement | Corn has a second file (phase_1_360.md) with a different set of answers for the same concept, causing curriculum redundancy
+training_data/phases/phase_1/phase_1_128.md | duplicate/redundant statement | Wood has a second file (phase_1_1238.md) for the same concept with different answer content
+training_data/phases/phase_1/phase_1_130.md | category mistake | "Police" is a plural/collective noun treated as singular ("This is police. Police is a person"). The question "What does police look like?" is also grammatically awkward.
+training_data/phases/phase_1/phase_1_131.md | malformed ontology | "Fifty" is a number treated as a concrete object ("What does fifty look like? Fifty is a big number. Fifty is on a ruler."). Numbers have no physical appearance or location in the concrete sense taught here.
+training_data/phases/phase_1/phase_1_132.md | malformed ontology | "A century" is an abstract time period treated as a concrete object ("What does a century look like? A century is in time."). Centuries do not have appearance or physical location.
+training_data/phases/phase_1/phase_1_134.md | malformed ontology | "An angle" is a geometric abstraction treated as a concrete object. Angles are relationships between lines, not objects with appearance and location.
+training_data/phases/phase_1/phase_1_137.md | malformed ontology | "Vibration" is a physical phenomenon/process treated as a concrete object ("What does vibration look like? Vibration is rapid movement."). Vibrations are not "for" things in the teleological sense.
+training_data/phases/phase_1/phase_1_141.md | category mistake | "A click" is a sound but the question asks "What does click look like?" (missing article) — sounds are heard, not seen. The teaching frame forces a visual description of an auditory phenomenon.
+training_data/phases/phase_1/phase_1_142.md | incorrect teaching frame | Question uses "What does tail look like?" without the article "a" — should be "What does a tail look like?". Grammatically inconsistent with curriculum format.
+training_data/phases/phase_1/phase_1_143.md | category mistake | "Clear" is an adjective/property, treated as a concrete thing ("This is clear. Clear is transparent."). "Clear" is not a noun and does not have physical locations or purposes in the concrete sense.
+training_data/phases/phase_1/phase_1_144.md | malformed ontology | "Figure" is polysemous (shape, number, person's form) but treated as a single concrete object. Missing article in question "What does figure look like?".
+training_data/phases/phase_1/phase_1_146.md | category mistake | "Sharp" is an adjective treated as a concrete thing ("This is sharp. Sharp is pointed."). Sharpness is a property of edges, not a concrete object.
+training_data/phases/phase_1/phase_1_147.md | incorrect teaching frame | Missing article in question "What does stack look like?" (should be "a stack"). "Stack" is a spatial arrangement, not a concrete object.
+training_data/phases/phase_1/phase_1_148.md | unnatural pedagogical framing | "A diamond-thing" uses an unnatural suffix "-thing" that is not used in any other file. The word creates an artificial category that does not exist in natural language.
+training_data/phases/phase_1/phase_1_151.md | malformed ontology | "Matter" is an abstract scientific concept treated as a concrete object ("What does matter look like? Matter is solid. Matter is everywhere."). Matter is a category of all physical substances, not a specific thing.
+training_data/phases/phase_1/phase_1_152.md | misleading sentence | "What is a pothole for?" — teleological framing for an accidental/destructive feature. Potholes are not "for" anything; answers ("A pothole is for catching water and showing wear") are misleadingly purposive.
+training_data/phases/phase_1/phase_1_153.md | unnatural pedagogical framing | "A graffito" is the grammatically correct but extremely rare singular of "graffiti". Almost no English speaker uses this form; "graffiti" would be the expected word.
+training_data/phases/phase_1/phase_1_160.md | misleading sentence | "What is a lump for?" — teleological framing for an accidental feature. Lumps are not purposive objects; "A lump is for showing wear" is misleading.
+training_data/phases/phase_1/phase_1_161.md | misleading sentence | "What is a shard for?" — teleological framing for an accidental broken piece. "A shard is for showing something broken" is a fabricated purpose.
+training_data/phases/phase_1/phase_1_164.md | category mistake | "Texture" is a surface property, not a concrete object. Textures are felt, not seen in the way the curriculum treats visible objects. "What does texture look like?" forces visual description of a tactile property.
+training_data/phases/phase_1/phase_1_165.md | duplicate/redundant statement | Bat appears in two files (phase_1_165.md and phase_1_207.md) with different answer content for the same concept.
+training_data/phases/phase_1/phase_1_169.md | duplicate/redundant statement | Spider appears in two files (phase_1_123.md and phase_1_169.md) with different answer content for the same concept.
+training_data/phases/phase_1/phase_1_171.md | malformed ontology | "A mammal" is a biological class, not a specific concrete animal. The answers mix traits from different species ("has fur", "has four limbs or two limbs"), creating a composite that does not correspond to any real animal.
+training_data/phases/phase_1/phase_1_172.md | malformed ontology | "A reptile" is a biological class, not a specific concrete animal. Same problem as mammal — composite description that does not match any single species.
+training_data/phases/phase_1/phase_1_173.md | malformed ontology | "A nocturnal animal" is a category/behavioral description, not a specific concrete animal. The description composites traits across species.
+training_data/phases/phase_1/phase_1_178.md | misleading sentence | "An album is a book" is misleading — a photo album is not a book in the reading sense; the primary meaning of "album" today is also a music collection, which is not a book at all.
+training_data/phases/phase_1/phase_1_182.md | duplicate/redundant statement | Ant appears in two files (phase_1_125.md and phase_1_182.md) with different answers for the same concept.
+training_data/phases/phase_1/phase_1_188.md | broken contrast | Question asks "What does an aroma smell like?" (correct sensory verb) but answers use visual/location language ("An aroma is in a kitchen", "An aroma fills a room"). The sensory framing of the question does not match the answer format.
+training_data/phases/phase_1/phase_1_191.md | malformed ontology | "Autumn" is a season/abstract time period treated as a concrete object. The answers personify autumn ("Autumn turns leaves orange", "Autumn brings cool air").
+training_data/phases/phase_1/phase_1_219.md | duplicate/redundant statement | Bee appears in two files (phase_1_124.md and phase_1_219.md) with different answers for the same concept.
+training_data/phases/phase_1/phase_1_234.md | semantically nonsensical example | "A bit is a piece. A bit is small. A bit is a part." — extremely vague and circular. The answers do not refer to any specific concrete object, just abstract synonyms.
+training_data/phases/phase_1/phase_1_244.md | unnatural pedagogical framing | "A body is a form. A body is a whole." — abstract/philosophical framing unlike the concrete descriptive style of other files. "A body is for being alive" is tautological.
+training_data/phases/phase_1/phase_1_258.md | category mistake | "A breeze" is moving air (invisible phenomenon) but the question asks "What does a breeze look like?" and answers include "A breeze has no color" and "A breeze has no smell" — negations that confirm the thing is not visible, contradicting the teaching frame.
+training_data/phases/phase_1/phase_1_261.md | duplicate/redundant statement | Broth has two nearly identical files (phase_1_261.md and phase_1_262.md) — exact same content through most sections.
+training_data/phases/phase_1/phase_1_262.md | duplicate/redundant statement | Identical copy of phase_1_261.md (broth). Nearly word-for-word duplicate.
+training_data/phases/phase_1/phase_1_1190.md | incorrect teaching frame | "How does a vine behave?" instead of standard "What does a vine do?" — deviates from curriculum Q&A format
+training_data/phases/phase_1/phase_1_1191.md | unnatural pedagogical framing | Last summary "Vinegar gives tang and shine" is missing "This is vinegar" and the standard 4+1 body+summary structure for the last section
+training_data/phases/phase_1/phase_1_1192.md | incorrect teaching frame | "How does a violet behave?" instead of "What does a violet do?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_1193.md | incorrect teaching frame | "How does a violin behave?" instead of "What does a violin do?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_1194.md | incorrect teaching frame | "How does a visitor behave?" instead of "What does a visitor do?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_1195.md | category mistake | Question is "What does a voice sound like?" (correct auditory framing) but later questions use "Where is a voice heard?" and "How does a voice behave?" — inconsistent sensory framing across sections
+training_data/phases/phase_1/phase_1_1196.md | incorrect teaching frame | "How does a vole behave?" instead of "What does a vole do?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_1197.md | incorrect teaching frame | "How does a wagon behave?" instead of "What does a wagon do?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_1204.md | category mistake | "Warming" is a verb/process treated as a concrete thing ("What does Warming look like? Warming is adding heat."). The entire file treats an action as an object.
+training_data/phases/phase_1/phase_1_1210.md | incorrect teaching frame | Adjective descriptor format (correct) but uses enumeration style ("A kitten is weak. A paper bridge is weak.") with no Q&A body, different from the standard curriculum format for other files.
+training_data/phases/phase_1/phase_1_1217.md | category mistake | "Wet" is an adjective/state treated as a concrete thing ("This is wet. Wet is a state of a thing."). The file itself acknowledges this is a state, not a thing, contradicting the object-teaching frame.
+training_data/phases/phase_1/phase_1_1223.md | category mistake | "White" is a color/adjective treated as a concrete thing ("This is white. White is a bright color."). Colors are properties, not objects with locations and purposes.
+training_data/phases/phase_1/phase_1_1226.md | incorrect teaching frame | Adjective descriptor format with enumeration, different from standard curriculum format
+training_data/phases/phase_1/phase_1_1227.md | unsupported assumption | "A wife is married to a man" and "A wife cooks meals. A wife cleans the home." — reinforces stereotypical gender roles. The location section ("A wife is in a kitchen") is also stereotypically limiting.
+training_data/phases/phase_1/phase_1_1228.md | unnatural pedagogical framing | Uses nonstandard compound adjectives throughout ("meadow-dwelling", "hill-dwelling", "sun-oriented", "night-closing", "pollinator-friendly") instead of the standard concrete descriptive sentence structure used in other files.
+training_data/phases/phase_1/phase_1_1229.md | unnatural pedagogical framing | Uses unnecessarily advanced vocabulary ("pendulous", "riparian", "deciduous", "regenerative") inappropriate for phase 1 child-facing content. Also uses unusual compound adjectives.
+training_data/phases/phase_1/phase_1_1247.md | unnatural pedagogical framing | "The young" is an unusual, unnatural way to refer to baby animals throughout. "The young is small" uses singular for a collective concept, creating grammatical awkwardness.
+training_data/phases/phase_1/phase_1_310.md | semantically nonsensical example | "A chair holds a person and supports a body" — "holds a person and supports a body" is redundant; a body is the person
+training_data/phases/phase_1/phase_1_328.md | incorrect teaching frame | Last section uses "What does a chimp give?" instead of standard "What is a chimp for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_331.md | incorrect teaching frame | Last section uses "What does a chip give?" instead of standard "What is a chip for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_333.md | incorrect teaching frame | Last section uses "What does a circle give?" instead of standard "What is a circle for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_334.md | incorrect teaching frame | Last section uses "What does a clam give?" instead of standard "What is a clam for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_336.md | incorrect teaching frame | Last section uses "What does clay give?" instead of standard "What is clay for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_337.md | incorrect teaching frame | Last section uses "What does a clip give?" instead of standard "What is a clip for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_339.md | incorrect teaching frame | Last section uses "What does a clock give?" instead of standard "What is a clock for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_344.md | semantically nonsensical example | "A coach is a cart with four wheels and a seat pulled by a horse" — this is an old-fashioned horse-drawn coach; modern usage of "coach" now primarily means a sports trainer or bus, causing ambiguity without clarification
+training_data/phases/phase_1/phase_1_347.md | incorrect teaching frame | Last section uses "What does cocoa give?" instead of standard "What is cocoa for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_349.md | incorrect teaching frame | Last section uses "What does a collar give?" instead of standard "What is a collar for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_351.md | incorrect teaching frame | Last section uses "What does a compass give?" instead of standard "What is a compass for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_353.md | incorrect teaching frame | Last section uses "What does a cone give?" instead of standard "What is a cone for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_358.md | incorrect teaching frame | Last section uses "What does a cord give?" instead of standard "What is a cord for?" — deviates from curriculum format
+training_data/phases/phase_1/phase_1_362.md | semantically nonsensical example | "Cotton is a plant" is true for raw cotton but misleading for the fabric — "cotton" as taught here conflates the raw plant material with the processed fabric
+training_data/phases/phase_1/phase_1_1228.md | misleading sentence | "A wildflower is stemmed. A wildflower is petaled. A wildflower is pollinated." — These past-participle adjectives are unnatural and ungrammatical in this context (a flower is not "petaled" in normal English; it "has petals")
+BATCH DONE: phase_1 batch 2 (files 308-614), 72 issues found
+training_data/phases/phase_1/phase_1_434.md | semantically nonsensical | "An eve is a female sheep" — "eve" is a misspelling of "ewe"; "eve" means the night before, not a sheep
+training_data/phases/phase_1/phase_1_444.md | malformed ontology | "What does a fast look like?" treats a period of fasting as a physical object with locations ("at home or at a place of worship") and actions ("gives rest to a body")
+training_data/phases/phase_1/phase_1_450.md | unsupported assumption | File makes sweeping essentialist claims about females: "A female gives birth to a child. A female nurses a child and cares for a family. A female cooks and cleans." Not all females do these things; reductive framing
+training_data/phases/phase_1/phase_1_469.md | category mistake | "flat" is an adjective treated as a noun throughout ("A flat is level. A flat is smooth." "What does a flat do?")
+training_data/phases/phase_1/phase_1_493.md | category mistake | "free" is an adjective treated as a noun ("Free is open. Free is wide. Free is unbounded." "What does free do? Free lets things move.")
+training_data/phases/phase_1/phase_1_499.md | category mistake | "full" is an adjective treated as a noun ("Full is a state with no room." "What does full do? Full fills a space.")
+training_data/phases/phase_1/phase_1_535.md | category mistake | "green" is a color adjective treated as a noun/agent ("Green covers the hills. Green fills the forest." "What is green for? Green is for the frog.")
+training_data/phases/phase_1/phase_1_574.md | misleading pedagogical framing | Uses fabricated adjective forms (walled, roofed, windowed, doored, situated, grounded, fixed, placed, stationed) that don't match the concrete-description curriculum pattern
+training_data/phases/phase_1/phase_1_635.md | contradiction | Same block says "A liquid takes a shape" then "A liquid has no form" — these are contradictory statements about the same concept
+training_data/phases/phase_1/phase_1_637.md | duplicate/redundant statement | First block has two summary lines: "A lizard is green and brown on the ground" / "A lizard is small and green on the ground"
+training_data/phases/phase_1/phase_1_638.md | misleading sentence | "A loaf is for a breakfast and a lunch" uses articles incorrectly before meal names (should be "for breakfast and lunch")
+training_data/phases/phase_1/phase_1_641.md | duplicate/redundant statement | First block has two summary lines ("A lollipop is a round candy on a stick" / "A lollipop is a round bright candy on a stick"); last block also has two
+training_data/phases/phase_1/phase_1_643.md | duplicate/redundant statement | First block has 6 description lines plus two summary lines; last block also has two summary lines
+training_data/phases/phase_1/phase_1_648.md | unsupported assumption | "A man has a face and a beard and a voice" / "A man is tall and bearded" — not all men have beards or are tall
+training_data/phases/phase_1/phase_1_650.md | duplicate/redundant statement | Last block: "A mango is a sweet fruit for a snack and a meal" / "A mango is for a snack and for eating"
+training_data/phases/phase_1/phase_1_651.md | duplicate/redundant statement | First block: "A marble is a small round glass ball" / "A marble is a small smooth round ball"
+training_data/phases/phase_1/phase_1_653.md | duplicate/redundant statement | Location block: "A mask is on a face and in a store" / "A mask is on a face and in a drawer"
+training_data/phases/phase_1/phase_1_660.md | duplicate/redundant statement | Appearance block has two summary lines; behavior block also has two summary lines
+training_data/phases/phase_1/phase_1_661.md | duplicate/redundant statement | Behavior block has two summary lines: "Mice run fast and hide in holes" / "Mice run fast and eat seeds"
+training_data/phases/phase_1/phase_1_662.md | contradiction | "A microphone is black" then "A microphone is silver" — implies a single microphone is both colors
+training_data/phases/phase_1/phase_1_663.md | duplicate/redundant statement | First block has two summary lines: "A microscope is a tube with a lens on a table" / "A microscope is a tube with a lens and a knob"
+training_data/phases/phase_1/phase_1_664.md | duplicate/redundant statement | Appearance block has two summary lines; last block also has two summary lines
+training_data/phases/phase_1/phase_1_665.md | malformed ontology | "A mineral is for the body" confuses geological minerals with dietary minerals; the file mixes two distinct senses of the word
+training_data/phases/phase_1/phase_1_666.md | duplicate/redundant statement | First block: "A mint is a green plant with small leaves" / "A mint is a green plant that grows low to the ground"
+training_data/phases/phase_1/phase_1_667.md | duplicate/redundant statement | Last block: "A mirror is a glass for looking at the face and clothes" / "A mirror is a glass for checking the face hair and clothes"
+training_data/phases/phase_1/phase_1_668.md | duplicate/redundant statement | Last block: "Mist is a cloud that gives water to plants and cools the air" / "Mist is a cloud and a plant waterer"
+training_data/phases/phase_1/phase_1_670.md | duplicate/redundant statement | First block: "A mitten is a warm cloth glove with a thumb and one pocket" / "A mitten is a wool or cloth glove with a thumb and one pocket"
+training_data/phases/phase_1/phase_1_671.md | duplicate/redundant statement | Last block: "Mold breaks down old things and makes some cheese" / "Mold is for making some cheese" — redundant statements within same block
+BATCH DONE: phase_1 batch 3 (files 365-671), 28 issues found
+training_data/phases/phase_1/phase_1_886.md | malformed ontology | Location frame uses abstract adjectives (track-bound, road-bound, race-ready, start-positioned, path-following) instead of physical locations; also tautological behaviour ("A runner is running")
+training_data/phases/phase_1/phase_1_887.md | misleading sentence | Capital S in "hauling Sand" is inconsistent with lowercase conventions
+training_data/phases/phase_1/phase_1_888.md | duplicate/redundant statement | Last line of location section ("A saddle is on a horse in a field.") appears twice verbatim
+training_data/phases/phase_1/phase_1_906.md | duplicate/redundant statement | "A scar is a sign" appears three times across different sections
+training_data/phases/phase_1/phase_1_909.md | category mistake | "Scissoring" is a gerund/verb form taught as a noun entity using non-standard question frames ("What is Scissoring?", "When does Scissoring happen?") with broken curriculum format
+training_data/phases/phase_1/phase_1_909.md | semantically nonsensical example | "Scissoring is used with people, things, or places" is meaningless and misleading
+training_data/phases/phase_1/phase_1_917.md | unnatural or misleading pedagogical framing | Uses non-standard question "What effect does a seal have?" instead of standard "What is a seal for?"
+training_data/phases/phase_1/phase_1_928.md | category mistake | "Shallow" is an adjective, not a noun entity; "Shallow has a flat bottom" is semantically nonsensical
+training_data/phases/phase_1/phase_1_931.md | category mistake | "Sharp" is an adjective taught as a noun entity ("Sharp has a point", "Sharp is on a knife")
+training_data/phases/phase_1/phase_1_945.md | broken contrast | Summary lines use broken grammar: "A shoe is sole and lace", "A shoe is floor and closet" do not combine two descriptive statements properly
+training_data/phases/phase_1/phase_1_946.md | category mistake | "Short" is an adjective taught as a noun entity ("Short is small in length", "Short is a label for size")
+training_data/phases/phase_1/phase_1_947.md | unnatural or misleading pedagogical framing | "This is a shorts" is grammatically incorrect; "shorts" is plural
+training_data/phases/phase_1/phase_1_954.md | category mistake | "Sideways" is an adverb taught as a noun; only 1 Q&A block instead of the standard 4-block curriculum format
+training_data/phases/phase_1/phase_1_955.md | broken contrast | Summary lines use broken grammar: "A sign is street and store", "A sign is word and message" are ungrammatical
+training_data/phases/phase_1/phase_1_957.md | broken contrast | Summary line lists three items ("coins and jewelry and spoons") instead of combining two properties
+training_data/phases/phase_1/phase_1_959.md | unnatural or misleading pedagogical framing | Final question uses "What does a siren give?" which shifts pedagogical frame away from purpose/effect
+training_data/phases/phase_1/phase_1_964.md | misleading sentence | "A skirt is a cloth" is inaccurate — a skirt is an item of clothing made from cloth, not a cloth; also gender stereotypes in "A skirt is for a girl"
+training_data/phases/phase_1/phase_1_975.md | contradiction against curriculum | Location section says "A slope is on a hill" twice (duplicate line); also contradicts appearance section which says "A slope is a hill" — a slope cannot be both a hill and be on a hill without equivocation
+training_data/phases/phase_1/phase_1_878.md | category mistake | "Rough" is an adjective taught as a noun entity ("Rough has bumps on the surface", "Rough is on a tree trunk")
+training_data/phases/phase_1/phase_1_879.md | category mistake | "Round" is an adjective taught as a noun entity ("Round has a circle shape", "Round is on a wheel")
+training_data/phases/phase_1/phase_1_729.md | unnatural or misleading pedagogical framing | Ocean file uses unnatural adjective-heavy descriptors ("adjacent", "tidal", "evaporative", "navigable", "biodiverse") instead of concrete active statements
+training_data/phases/phase_1/phase_1_798.md | broken contrast | Summary line is comma-separated without connecting words: "A plant has leaves a stem roots is green"
+training_data/phases/phase_1/phase_1_799.md | broken contrast | Summary line is comma-separated: "A plantain is long yellow sweet inside"
+training_data/phases/phase_1/phase_1_803.md | broken contrast | Summary line missing "and": "A plow cuts through dirt turns over soil"
+training_data/phases/phase_1/phase_1_808.md | broken contrast | Summary line is comma-separated: "A pole is long straight round thin"
+training_data/phases/phase_1/phase_1_812.md | broken contrast | Summary line is comma-separated and incomplete: "A poppy is a flower red petals"
+training_data/phases/phase_1/phase_1_814.md | broken contrast | Summary line is comma-separated and malformed: "A porcupine is a round brown body quills"
+training_data/phases/phase_1/phase_1_828.md | broken contrast | Behaviour summary line lists four verbs with commas instead of combining two: "A puppet moves dances talks and waves"
+training_data/phases/phase_1/phase_1_829.md | broken contrast | Behaviour summary line lists multiple verbs: "A puppy plays runs barks chews and sleeps"
+training_data/phases/phase_1/phase_1_962.md | unsupported assumption | "A skillet gives sauteed vegetables" uses a cooking term (sauteed) that may be unfamiliar to model reading level
+training_data/phases/phase_1/phase_1_999.md | duplicate/redundant statement | "A spark is the start of a fire" appears twice on the last two lines of the file
+
+BATCH DONE: phase_1 batch 4 (files 922-1229), 31 issues found
+training_data/phases/phase_2/phase_2_001.md | semantically nonsensical example | "Alignment is in friends" and "Alignment is making smooth" are nonsensical — alignment is a geometric/relational concept, not something that "appears in friends" or "makes smooth"
+training_data/phases/phase_2/phase_2_002.md | category mistake | "prior" is an adjective, not a noun — taught as a noun with appearance, location, behavior, and purpose
+training_data/phases/phase_2/phase_2_20.md | unsupported assumption | "The police stop bad men" makes an unsupported moral judgment — not a concrete, neutral description
+training_data/phases/phase_2/phase_2_28.md | grammar error | "a an eggshell" should be "an eggshell" in all four user questions
+training_data/phases/phase_2/phase_2_52.md | grammar error | "a an earlobe" should be "an earlobe" in all four user questions
+training_data/phases/phase_2/phase_2_84.md | grammar error | "What does lab look like?" is missing the article "a" — inconsistent with the remaining questions in the same file which use "a lab"
+training_data/phases/phase_2/phase_2_85.md | category mistake | "somewhere" is an adverb, not a noun — taught as a concrete thing with physical appearance and location
+training_data/phases/phase_2/phase_2_87.md | incorrect teaching frame | "within" is a preposition — questions like "What does within look like?" and "What is within for?" are unnatural pedagogical framing for a preposition
+training_data/phases/phase_2/phase_2_88.md | grammar error | "What does dinosaur look like?" is missing the article "a" in all four user questions
+training_data/phases/phase_2/phase_2_93.md | grammar error | "Where is observer?" is missing the article "an" — all four user questions lack the required article
+training_data/phases/phase_2/phase_2_94.md | incorrect teaching frame | "Owning" is a gerund (verb form), not a thing — taught with "What is Owning?" frame as if it were a concrete noun
+training_data/phases/phase_2/phase_2_95.md | misleading sentence | "Presence is not seen" uses negation, violating the no-negation rule for body lines; "Presence has no shape" and "Presence has no color" repeat this pattern
+training_data/phases/phase_2/phase_2_96.md | category mistake | "yours" is a possessive pronoun, not a noun — taught as a thing with appearance, location, and purpose
+training_data/phases/phase_2/phase_2_97.md | grammar error | "Where is chemical?" is missing the article "a" — all four user questions lack the required article
+training_data/phases/phase_2/phase_2_99.md | category mistake | "familiar" is primarily an adjective, not a noun — taught with noun-frame questions about appearance, location, and purpose
+training_data/phases/phase_2/phase_2_154.md | category mistake | "else's" is a possessive form, not a noun — taught as a thing with location, behavior, and purpose
+training_data/phases/phase_2/phase_2_155.md | category mistake | "ours" is a possessive pronoun, not a noun — taught as a thing with appearance, location, and purpose
+training_data/phases/phase_2/phase_2_169.md | duplicate/redundant statement | "park" is already taught in phase_2_69.md — same word, duplicate entry within the same phase
+training_data/phases/phase_2/phase_2_256.md | duplicate/redundant statement | "highway" is already taught in phase_2_255.md — same word, duplicate entry within the same phase
+training_data/phases/phase_2/phase_2_275.md | duplicate/redundant statement | "milkshake" is already taught in phase_2_29.md — same word, duplicate entry within the same phase
+training_data/phases/phase_2/phase_2_303.md | unsupported assumption | "The police catch bad people" makes an unsupported moral judgment — not a concrete, neutral description
+training_data/phases/phase_2/phase_2_323.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_324.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_325.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_326.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_327.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_328.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_329.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_330.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_331.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_332.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_333.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_334.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_335.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_336.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_337.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_338.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_339.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_340.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+training_data/phases/phase_2/phase_2_341.md | unpopulated template | The word "UNKNOWN" is used as a placeholder — no actual vocabulary word was filled in
+BATCH DONE: phase_2 (all 343 files), 41 issues found
+training_data/phases/phase_3/phase_3_002.md | unnatural pedagogical framing | "Damage is for showing care" assigns beneficial purpose to a harmful outcome
+training_data/phases/phase_3/phase_3_102.md | category mistake | "hurt" defined with verb forms ("to cause pain") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_105.md | category mistake | adverb "strongly" taught using noun Format B frame ("Strongly appears in opinions")
+training_data/phases/phase_3/phase_3_110.md | category mistake | verb "stay" defined with verb forms ("to remain") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_111.md | category mistake | verb "treat" defined with verb forms ("to behave towards") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_112.md | category mistake | adverb "vividly" taught using noun Format B frame ("Vividly appears in descriptions")
+training_data/phases/phase_3/phase_3_114.md | category mistake | verb "start" defined with verb forms ("to begin") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_115.md | unnatural pedagogical framing | "well-test" is not a standard English compound word taught as standalone concept
+training_data/phases/phase_3/phase_3_118.md | category mistake | adverb "genuinely" taught using noun Format B frame ("Genuinely appears in feelings")
+training_data/phases/phase_3/phase_3_119.md | category mistake | verb "pay" defined with verb forms ("to give money") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_123.md | category mistake | verb "settle" defined with verb forms ("to make stable") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_127.md | category mistake | verb "defeat" defined with verb forms ("to overcome") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_129.md | category mistake | verb "gain" defined with verb forms ("to get something") but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_131.md | malformed ontology | "affect" taught as a noun in Format B but is primarily a verb
+training_data/phases/phase_3/phase_3_140.md | category mistake | verb "reject" mixes noun and verb definitions in noun Format B frame
+training_data/phases/phase_3/phase_3_148.md | category mistake | verb "coordinate" taught as noun in Format B frame ("Coordinate brings things together")
+training_data/phases/phase_3/phase_3_151.md | category mistake | verb "scan" taught as noun in Format B frame ("Scan moves eyes over something")
+training_data/phases/phase_3/phase_3_158.md | category mistake | verb "construct" taught as noun in Format B frame ("Construct is an action")
+training_data/phases/phase_3/phase_3_173.md | category mistake | verb "compress" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_176.md | category mistake | verb "rise" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_177.md | category mistake | verb "sink" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_181.md | category mistake | verb "flex" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_182.md | category mistake | gerund "freezing" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_184.md | category mistake | verb "dissolve" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_187.md | category mistake | verb "die" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_191.md | category mistake | verb "preserve" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_192.md | category mistake | verb "repeat" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_195.md | category mistake | "encounter" mixes noun and verb definitions in noun Format B frame
+training_data/phases/phase_3/phase_3_202.md | category mistake | verb "shrink" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_203.md | category mistake | verb "capture" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_205.md | category mistake | adjective "fast" taught using noun Format B frame
+training_data/phases/phase_3/phase_3_207.md | category mistake | verb "freeze" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_218.md | category mistake | gerund "filing" taught using noun Format B frame instead of Format A
+training_data/phases/phase_3/phase_3_222.md | category mistake | verb "crash" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_225.md | category mistake | verb "stumble" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_227.md | category mistake | verb "laugh" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_233.md | category mistake | verb "exchange" defined with "to [verb]" but taught using noun Format B frame
+training_data/phases/phase_3/phase_3_240.md | category mistake | gerund "co-parenting" taught using noun Format B frame instead of Format A
+training_data/phases/phase_3/phase_3_129.md | incorrect teaching frame | "This is gain" (noun frame) defines "Gain is to get something" with infinitive verb definition
+training_data/phases/phase_3/phase_3_131.md | category mistake | "affect" taught as noun (psychology term for emotion) but described with verb properties (influence, change, cause)
+training_data/phases/phase_3/phase_3_132.md | broken contrast | "A glance is for seeing continuously" contradicts the core definition of glance as quick and brief
+training_data/phases/phase_3/phase_3_134.md | malformed ontology | "This is a measure. Measure is an action." — noun frame contradicts verb content
+training_data/phases/phase_3/phase_3_137.md | duplicate/redundant | "Borrowing" (Format A capitalized) duplicates content with phase_3_138.md "borrowing" (Format B)
+training_data/phases/phase_3/phase_3_138.md | duplicate/redundant | "This is a borrowing" duplicates content with phase_3_137.md "Borrowing" (same concept, different format)
+training_data/phases/phase_3/phase_3_140.md | incorrect teaching frame | "This is a reject" — verb "reject" taught as countable noun ("a reject")
+training_data/phases/phase_3/phase_3_144.md | incorrect teaching frame | "generating" uses non-standard format, doesn't match either Format A or Format B conventions
+training_data/phases/phase_3/phase_3_148.md | incorrect teaching frame | "This is coordinate" — verb "coordinate" taught as noun frame
+training_data/phases/phase_3/phase_3_151.md | incorrect teaching frame | "This is a scan" — verb "scan" taught as noun frame
+training_data/phases/phase_3/phase_3_155.md | incorrect teaching frame | "This is a pass" — verb actions described in noun frame
+training_data/phases/phase_3/phase_3_158.md | incorrect teaching frame | "This is construct" — verb taught as noun (and "construction" already has its own file phase_3_159.md)
+training_data/phases/phase_3/phase_3_160.md | incorrect teaching frame | "This is a highlight" — verb concept taught in noun frame
+training_data/phases/phase_3/phase_3_164.md | unnatural pedagogical framing | "This is a filling-in" — awkward noun derived from phrasal verb
+training_data/phases/phase_3/phase_3_170.md | incorrect teaching frame | "This is a replay. Replay is an action." — verb taught as noun
+training_data/phases/phase_3/phase_3_173.md | incorrect teaching frame | "This is compress. Compress is to press a thing." — verb taught as noun
+training_data/phases/phase_3/phase_3_176.md | incorrect teaching frame | "This is rise. Rise is to go up." — verb taught as noun
+training_data/phases/phase_3/phase_3_177.md | incorrect teaching frame | "This is sink. Sink is to go down." — verb taught as noun
+training_data/phases/phase_3/phase_3_181.md | incorrect teaching frame | "This is flex. Flex is to bend." — verb taught as noun
+training_data/phases/phase_3/phase_3_182.md | incorrect teaching frame | "Freezing is to become ice" — gerund defined with infinitive verb construction
+training_data/phases/phase_3/phase_3_184.md | incorrect teaching frame | "This is dissolve. Dissolve is to melt away." — verb taught as noun
+training_data/phases/phase_3/phase_3_187.md | incorrect teaching frame | "This is die. Die is to stop living." — verb taught as noun (die as noun means metal stamping tool)
+training_data/phases/phase_3/phase_3_189.md | incorrect teaching frame | User asks "What does failing mean?" (verb frame) but response is "This is a failing" (noun frame)
+training_data/phases/phase_3/phase_3_191.md | incorrect teaching frame | User asks "What does preserve mean?" (verb) but response is "This is a preserve" (noun) with infinitive definitions
+training_data/phases/phase_3/phase_3_192.md | incorrect teaching frame | "This is repeat. Repeat is to do again." — verb taught as noun
+training_data/phases/phase_3/phase_3_195.md | incorrect teaching frame | User asks "What does encounter mean?" (verb) but response is "This is an encounter" (noun frame)
+training_data/phases/phase_3/phase_3_200.md | duplicate/redundant | "An end" is nearly identical in meaning to "An ending" in phase_3_201.md
+training_data/phases/phase_3/phase_3_201.md | duplicate/redundant | "An ending" is nearly identical in meaning to "An end" in phase_3_200.md
+training_data/phases/phase_3/phase_3_202.md | incorrect teaching frame | "This is shrink. Shrink is to get smaller." — verb taught as noun
+training_data/phases/phase_3/phase_3_203.md | incorrect teaching frame | "This is capture. Capture is to take hold of." — verb taught as noun
+training_data/phases/phase_3/phase_3_205.md | category mistake | "fast" taught as a noun — "fast" is an adjective, not a noun
+training_data/phases/phase_3/phase_3_207.md | incorrect teaching frame | "This is freeze. Freeze is to turn to ice." — verb taught as noun (also redundant with freezing in phase_3_182.md)
+training_data/phases/phase_3/phase_3_222.md | incorrect teaching frame | "This is crash. Crash is to hit hard." — verb taught as noun
+training_data/phases/phase_3/phase_3_225.md | incorrect teaching frame | "This is stumble. Stumble is to trip." — verb taught as noun
+training_data/phases/phase_3/phase_3_227.md | incorrect teaching frame | "This is laugh. Laugh is to make a sound." — verb taught as noun
+training_data/phases/phase_3/phase_3_233.md | incorrect teaching frame | "This is exchange. Exchange is to give and receive." — verb taught as noun
+training_data/phases/phase_3/phase_3_237.md | semantically nonsensical example | Lines 10,13,14 have duplicated "when when"; line 15 "Parenting happens daily care and family guidance" missing preposition
+training_data/phases/phase_3/phase_3_238.md | semantically nonsensical example | Lines 10,13,14 have duplicated "when when"; line 15 "Mothering happens comfort and daily care" missing preposition
+training_data/phases/phase_3/phase_3_239.md | semantically nonsensical example | Lines 10,13,14 have duplicated "when when"; line 15 "Fathering happens steady presence and family trust" missing preposition
+training_data/phases/phase_3/phase_3_244.md | unsupported assumption | Line 7 "Parent-offspring-bond-formation is often emotional" uses speculative "often" in violation of concrete affirmative constraint
+training_data/phases/phase_3/phase_3_245.md | unsupported assumption | Line 7 "Parent-offspring-bond-attachment is often emotional" uses speculative "often" in violation of concrete affirmative constraint
+training_data/phases/phase_3/phase_3_250.md | semantically nonsensical example | Line 15 "Engaging happens shared action and focus" missing preposition
+training_data/phases/phase_3/phase_3_252.md | semantically nonsensical example | Line 15 "Sustaining happens steady care and long time" missing preposition
+training_data/phases/phase_3/phase_3_253.md | semantically nonsensical example | Line 15 "Impairing happens damage and lost strength" missing preposition
+training_data/phases/phase_3/phase_3_255.md | semantically nonsensical example | Line 15 "Operating happens active system and careful control" missing preposition
+training_data/phases/phase_3/phase_3_257.md | category mistake | "Collect" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_258.md | category mistake | "Affect" taught as a noun meaning "action of influencing" which is not the standard noun sense (psychological term)
+training_data/phases/phase_3/phase_3_260.md | semantically nonsensical example | Line 15 "Applying happens rule use and tool use" missing preposition
+training_data/phases/phase_3/phase_3_280.md | category mistake | "Carry" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_287.md | category mistake | "Clean" taught as a noun but is primarily an adjective/verb with no matching noun sense
+training_data/phases/phase_3/phase_3_288.md | category mistake | "Clear" taught as a noun but is primarily an adjective/verb with no matching noun sense
+training_data/phases/phase_3/phase_3_292.md | category mistake | "Combine" taught as a noun meaning mixing (noun sense is a farm machine, not the verb action)
+training_data/phases/phase_3/phase_3_293.md | semantically nonsensical example | Line 15 "Connecting happens joined parts and shared flow" missing preposition
+training_data/phases/phase_3/phase_3_295.md | category mistake | "Cook" taught as a noun meaning "making food hot" but the noun sense is a person, not an action
+training_data/phases/phase_3/phase_3_29.md | semantically nonsensical example | Fourth block describes rain process instead of what rain provides or gives
+training_data/phases/phase_3/phase_3_304.md | semantically nonsensical example | Line 15 "Creating happens new form and clear shape" missing preposition
+training_data/phases/phase_3/phase_3_305.md | category mistake | "Creep" taught as a noun describing an action but the noun sense is a person
+training_data/phases/phase_3/phase_3_30.md | semantically nonsensical example | Fourth block describes fish actions instead of what fish provides or gives
+training_data/phases/phase_3/phase_3_31.md | semantically nonsensical example | Fourth block describes dog actions instead of what dog provides or gives
+training_data/phases/phase_3/phase_3_314.md | category mistake | "Damp" taught as a noun but is primarily an adjective with no matching noun sense
+training_data/phases/phase_3/phase_3_316.md | semantically nonsensical example | Line 15 "Dangling happens hanging point and moving sway" missing preposition
+training_data/phases/phase_3/phase_3_317.md | category mistake | "Dart" conflates the object (small missile) with the verb (sudden movement) inconsistently
+training_data/phases/phase_3/phase_3_318.md | category mistake | "Dash" taught as a noun meaning "fast run" but the noun sense is a punctuation mark or small amount
+training_data/phases/phase_3/phase_3_319.md | semantically nonsensical example | Line 15 "Decorating happens color and special look" missing preposition
+training_data/phases/phase_3/phase_3_32.md | semantically nonsensical example | Fourth block describes wind actions instead of what wind provides or gives
+training_data/phases/phase_3/phase_3_321.md | category mistake | "Dig" taught as a noun but the noun sense (archaeological dig) does not match the verb action defined
+training_data/phases/phase_3/phase_3_322.md | semantically nonsensical example | Line 15 "Dining happens gathered table and careful meal" missing preposition
+training_data/phases/phase_3/phase_3_328.md | category mistake | "Draw" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_33.md | semantically nonsensical example | Fourth block describes moon actions instead of what moon provides or gives
+training_data/phases/phase_3/phase_3_335.md | category mistake | "Dry" taught as a noun but is primarily an adjective with no matching noun sense
+training_data/phases/phase_3/phase_3_339.md | category mistake | "Empty" taught as a noun but is primarily an adjective with no matching noun sense
+training_data/phases/phase_3/phase_3_340.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Entering is Moving") vs curriculum convention
+training_data/phases/phase_3/phase_3_341.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Erasing is Removing") vs curriculum convention
+training_data/phases/phase_3/phase_3_344.md | category mistake | "Fade" taught as a noun but primarily a verb; noun sense (a fade haircut/crossfade) does not match definitions
+training_data/phases/phase_3/phase_3_346.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Fastening is Joining") vs curriculum convention
+training_data/phases/phase_3/phase_3_347.md | category mistake | "Feed" taught as a noun meaning "giving food" but the noun sense is animal food, not the action
+training_data/phases/phase_3/phase_3_350.md | category mistake | "Fill" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
+training_data/phases/phase_3/phase_3_356.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Flattening is Making") vs curriculum convention
+training_data/phases/phase_3/phase_3_357.md | unnatural pedagogical framing | Lines 2-31 use inconsistent capitalization after "is" (e.g. "Fleeing is Running") vs curriculum convention
+training_data/phases/phase_3/phase_3_34.md | semantically nonsensical example | Third and fourth blocks use "is" predicates instead of answering "does" and "provide/give" questions
+training_data/phases/phase_3/phase_3_28.md | malformed ontology | Third block uses adjectives (warm, life-giving) instead of actions for "What does a sun do?"
+BATCH DONE: phase_3 batch 1 (files 1-305), 119 issues found
+training_data/phases/phase_3/phase_3_42.md | formatting error | Capitalized word after "is" in body lines: "Coming", "Becoming", "Taking", "Turning", "Appearing"
+training_data/phases/phase_3/phase_3_44.md | formatting error | Capitalized word after "is" in body lines: "Moving", "Roaming", "Stepping", "Traveling", "Drifting"
+training_data/phases/phase_3/phase_3_46.md | formatting error | Capitalized word after "is" in body lines: "Breaking", "Crossing", "Acting", "Stepping", "Ignoring"
+training_data/phases/phase_3/phase_3_50.md | formatting error | Capitalized word after "is" in body lines: "Keeping", "Holding", "Preserving", "Supporting", "Continuing"
+training_data/phases/phase_3/phase_3_52.md | formatting error | Capitalized word after "is" in body lines: "Keeping", "Carrying", "Moving", "Extending", "Staying"
+training_data/phases/phase_3/phase_3_56.md | formatting error | Capitalized word after "is" in body lines: "Finding", "Learning", "Uncovering", "Seeing", "Making"
+training_data/phases/phase_3/phase_3_41.md | malformed ontology | "Where does expansion appear?" includes abstract non-locations: "in a business", "in a story"
+training_data/phases/phase_3/phase_3_45.md | malformed ontology | "Where does consolidation appear?" includes abstract non-locations: "in debt", "in memories"
+training_data/phases/phase_3/phase_3_51.md | malformed ontology | "Where does trading appear?" includes abstract non-location: "in friendships"
+training_data/phases/phase_3/phase_3_53.md | malformed ontology | "Where does change appear?" includes abstract non-locations: "in minds", "in decisions"
+training_data/phases/phase_3/phase_3_61.md | semantically nonsensical example | "A plant is gradual" — a plant itself is not gradual; its growth is gradual
+training_data/phases/phase_3/phase_3_64.md | malformed ontology | "Where does draw appear?" includes "in wells" (odd specific) and "in attention" (abstract non-location)
+training_data/phases/phase_3/phase_3_88.md | category mistake | "Hide" treated as a noun throughout; "Hide is concealment" nominalizes a verb incorrectly
+training_data/phases/phase_3/phase_3_88.md | malformed ontology | "Where does hide appear?" answers with abstract concepts (privacy, mystery, protection) instead of locations
+training_data/phases/phase_3/phase_3_88.md | incorrect teaching frame | "What does hide do?" block uses gerund form (is protecting, is concealing) inconsistently
+training_data/phases/phase_3/phase_3_98.md | unsupported assumption | "A child is not careful" is a misleading generalization — many children are careful
+training_data/phases/phase_3/phase_3_346.md | formatting error | Capitalized word after "is" in body lines: "Joining", "Closing", "Holding", "Making", "Securing"
+training_data/phases/phase_3/phase_3_356.md | formatting error | Capitalized word after "is" in body lines: "Making", "Pressing", "Spreading", "Reducing", "Smoothing"
+training_data/phases/phase_3/phase_3_366.md | formatting error | Capitalized word after "is" in body lines: "Moving", "Traveling", "Lifting", "Crossing", "Gliding"
+training_data/phases/phase_3/phase_3_370.md | formatting error | Capitalized word after "is" in body lines: "Going", "Moving", "Keeping", "Tracing", "Staying"
+training_data/phases/phase_3/phase_3_383.md | formatting error | Capitalized word after "is" in body lines: "Getting", "Adding", "Rising", "Spreading", "Becoming"
+training_data/phases/phase_3/phase_3_387.md | formatting error | Capitalized word after "is" in body lines: "Becoming", "Losing", "Turning", "Making", "Setting"
+training_data/phases/phase_3/phase_3_390.md | formatting error | Capitalized word after "is" in body lines: "Making", "Restoring", "Closing", "Bringing", "Mending"
+training_data/phases/phase_3/phase_3_411.md | formatting error | Capitalized word after "is" in body lines: "Pressing", "Working", "Mixing", "Shaping", "Making"
+training_data/phases/phase_3/phase_3_457.md | formatting error | Capitalized word after "is" in body lines: "Sending", "Letting", "Guiding", "Making", "Filling"
+training_data/phases/phase_3/phase_3_486.md | formatting error | Capitalized word after "is" in body lines: "Turning", "Spinning", "Moving", "Changing", "Twisting"
+training_data/phases/phase_3/phase_3_502.md | semantically nonsensical example | "Sprout feeds bugs" — sprouts do not feed bugs; they are eaten by bugs
+training_data/phases/phase_3/phase_3_506.md | duplicate/redundant statement | "Stomp crushes cans" appears as both a body line and the summary line verbatim
+training_data/phases/phase_3/phase_3_506.md | misleading sentence | "Stomp kills bug" is grammatically missing article "a" ("kills a bug")
+training_data/phases/phase_3/phase_3_507.md | contradiction against curriculum | Teaches "stop" as a concrete noun (a stop sign), while phase_3_59.md in same batch teaches "stop" as a verb
+training_data/phases/phase_3/phase_3_508.md | misleading sentence | Question says "What does a storm look like?" but response says "This is storm" (missing article "a")
+training_data/phases/phase_3/phase_3_509.md | formatting error | Capitalized word after "is" in body lines: "Making", "Removing", "Setting", "Aligning", "Bringing"
+training_data/phases/phase_3/phase_3_515.md | formatting error | Capitalized word after "is" in body lines: "Shocking", "Causing", "Hitting", "Making", "Creating"
+training_data/phases/phase_3/phase_3_520.md | category mistake | "Swallow" taught as a bird (noun) but "swallow" is primarily a verb in the curriculum
+training_data/phases/phase_3/phase_3_531.md | formatting error | Capitalized word after "is" in body lines: "Making", "Training", "Bringing", "Softening", "Teaching"
+training_data/phases/phase_3/phase_3_544.md | formatting error | Capitalized word after "is" in body lines: "Making", "Pulling", "Increasing", "Closing", "Securing"
+training_data/phases/phase_3/phase_3_564.md | formatting error | Capitalized word after "is" in body lines: "Taking", "Revealing", "Opening", "Making", "Exposing"
+training_data/phases/phase_3/phase_3_565.md | formatting error | Capitalized word after "is" in body lines: "Opening", "Releasing", "Allowing", "Freeing", "Opening"
+training_data/phases/phase_3/phase_3_583.md | formatting error | "This is Whistle" has capitalized target word "Whistle" — inconsistent with curriculum convention of lowercase
+BATCH DONE: phase_3 batch 2 (files 306-609), 39 issues found
+training_data/phases/phase_4/phase_4_07.md | misleading sentence | "A bee gathers from the flower" is incomplete — gathers what? (line 5)
+training_data/phases/phase_4/phase_4_12.md | misleading pedagogical framing | "What does a flower make?" answered with blooming description, not what it produces (seeds, nectar, fruit)
+training_data/phases/phase_4/phase_4_14.md | unsupported assumption | "The snail decorates a shell for display" implies intentional aesthetic behavior (line 34)
+training_data/phases/phase_4/phase_4_19.md | misleading pedagogical framing | "What does a chicken give?" answered with behavioral description, not what it gives (eggs)
+training_data/phases/phase_4/phase_4_23.md | misleading pedagogical framing | "How does a mouse change?" answered with basic foraging behavior, not any transformation or change process
+training_data/phases/phase_4/phase_4_31.md | misleading pedagogical framing | "What does a grasshopper give?" answered with behavior, not what it gives
+training_data/phases/phase_4/phase_4_33.md | misleading pedagogical framing | "What is a tadpole used for?" answered with behavior description, not purpose or utility
+training_data/phases/phase_4/phase_4_35.md | misleading pedagogical framing | "How does a snake change?" answered with movement description, not change (e.g. shedding skin)
+training_data/phases/phase_4/phase_4_36.md | misleading pedagogical framing | "What does an alligator make?" answered with jaw action, not anything it produces
+training_data/phases/phase_4/phase_4_43.md | misleading pedagogical framing | "What does a jellyfish give?" answered with behavior description, not what it gives
+training_data/phases/phase_4/phase_4_45.md | misleading pedagogical framing | "What is seaweed used for?" answered with floating description, not usage or purpose
+training_data/phases/phase_4/phase_4_51.md | misleading pedagogical framing | "How does a valley form?" answered with descriptive inventory (what is in a valley), not formation process (erosion, tectonics)
+training_data/phases/phase_4/phase_4_55.md | misleading pedagogical framing | "What does an orchard give?" answered with contents inventory, not what it gives/produces
+training_data/phases/phase_4/phase_4_55.md | semantically nonsensical example | "The ladder stands by the tree in the orchard" — ladders are incidental artifacts, not features of orchards (line 5)
+training_data/phases/phase_4/phase_4_57.md | misleading pedagogical framing | "What is rice used for?" answered with growth description, not usage
+training_data/phases/phase_4/phase_4_59.md | misleading pedagogical framing | "How does corn change?" answered with growth, not a change process
+training_data/phases/phase_4/phase_4_60.md | misleading pedagogical framing | "What does a bean make?" answered with growth description, not what it makes
+training_data/phases/phase_4/phase_4_61.md | misleading pedagogical framing | "Where does a pea go?" answered with growth description, not location or destination
+training_data/phases/phase_4/phase_4_62.md | misleading pedagogical framing | "What does an orange do?" answered with growth description, not actions or function
+training_data/phases/phase_4/phase_4_67.md | misleading pedagogical framing | "What does a pumpkin give?" answered with growth and carving description, not what it gives
+training_data/phases/phase_4/phase_4_69.md | misleading pedagogical framing | "What is an onion used for?" answered with growth description, not usage
+training_data/phases/phase_4/phase_4_71.md | misleading pedagogical framing | "How does lettuce change?" answered with structural description, not change process
+training_data/phases/phase_4/phase_4_72.md | misleading pedagogical framing | "What does cabbage make?" answered with structural description, not what it makes
+training_data/phases/phase_4/phase_4_73.md | misleading pedagogical framing | "Where does spinach go?" answered with growth and cooking description, not location
+training_data/phases/phase_4/phase_4_74.md | misleading pedagogical framing | "What does broccoli do?" answered with structural description, not actions
+training_data/phases/phase_4/phase_4_082.md | unsupported assumption | "Birth opens a new world for a baby" is poetic, not factual pedagogical prose (line 6)
+training_data/phases/phase_4/phase_4_085.md | misleading pedagogical framing | "What does breath look like?" answered with function/location, not visual appearance
+training_data/phases/phase_4/phase_4_087.md | category mistake | "dead" treated as a noun entity rather than an adjective or state — "Dead is a body" (line 3), "Dead returns matter" (line 21)
+training_data/phases/phase_4/phase_4_087.md | incorrect teaching frame | "dead" taught as a noun thing with appearance/location/behavior/purpose arc
+training_data/phases/phase_4/phase_4_091.md | category mistake | "hatch" treated as a noun entity rather than a verb/process — "Hatch is a crack" (line 3), "Hatch brings a new bird" (line 21)
+training_data/phases/phase_4/phase_4_091.md | incorrect teaching frame | "hatch" taught as a noun thing with appearance/location/behavior/purpose arc
+training_data/phases/adj_rewrites.md | duplicate entry | "parental" appears twice (lines 111 and 176) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "unexpected" appears twice (lines 376 and 476) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "previous" appears twice (lines 216 and 546) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "reliable" appears twice (lines 306 and 566) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "obvious" appears twice (lines 471 and 606) with near-identical content
+training_data/phases/adj_rewrites.md | duplicate entry | "strong" appears twice (lines 1 and 696) with near-identical content
+training_data/phases/adj_rewrites.md | misleading sentence | "A rocket goes not sideways" is ungrammatical — should be "A rocket is not sideways" or "A rocket does not go sideways" (line 99)
+BATCH DONE: phase_4 + adj_rewrites (92 files), 38 issues found
+training_data/phases/phase_5/phase_5_15.md | contradiction against curriculum | "The duck is thirsty and hydrated" — a duck cannot be simultaneously thirsty and hydrated; contradictory final statement
+training_data/phases/phase_5/phase_5_45.md | semantically nonsensical example | "What are children?" answered with specific individuals ("A boy and a girl run on the grass") rather than defining the category
+training_data/phases/phase_5/phase_5_46.md | broken contrast | Duplicate "when when" in "happens when when a goal stays bright"
+training_data/phases/phase_5/phase_5_1893.md | broken contrast | Duplicate "when when" in "happens when when advice feels useful"
+training_data/phases/phase_5/phase_5_1919.md | broken contrast | Missing preposition in "Failing happens weak effort" — should be "happens after weak effort" or "happens with weak effort"
+training_data/phases/phase_5/phase_5_1941.md | malformed ontology | "This is guide" missing indefinite article "a" — should be "This is a guide" for countable noun
+training_data/phases/phase_5/phase_5_1970.md | broken contrast | Missing "in" in "Praying happens churches" — should be "happens in churches"
+training_data/phases/phase_5/phase_5_1971.md | broken contrast | Duplicate "when when" in "happens when when taste and need meet"
+training_data/phases/phase_5/phase_5_1972.md | malformed ontology | "pretend" given agentive properties ("Pretend can make a box a boat", "Pretend can be a king") — pretend is an action, not an actor
+training_data/phases/phase_5/phase_5_1975.md | malformed ontology | "quiet" given active agency ("quiet helps an animal stay still", "quiet lets animals hide") — quiet is a state/property, not an agent
+training_data/phases/phase_5/phase_5_1976.md | broken contrast | Duplicate "when when" in "happens when when a job feels complete"
+training_data/phases/phase_5/phase_5_1981.md | category mistake | "sick" treated as agent ("Sick stops an animal from play", "Sick keeps an animal") — sick is an adjective/state
+training_data/phases/phase_5/phase_5_1993.md | duplicate/redundant statement | Identical to phase_5_1994.md (both ask "What does a trick do?" with identical content)
+training_data/phases/phase_5/phase_5_1994.md | duplicate/redundant statement | Identical to phase_5_1993.md (both ask "What does a trick do?" with identical content)
+training_data/phases/phase_5/phase_5_2000.md | incorrect teaching frame | "won" taught with infinitive pattern ("Won is to come first") — "won" is past tense/past participle, not a base verb form
+BATCH DONE: phase_5 (all 189 files), 15 issues found
+training_data/phases/phase_6/phase_208.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines; definition concatenated without punctuation; user questions include entire definition text making them nonsensically long
+training_data/phases/phase_6/phase_218.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines; definition concatenated without punctuation
+training_data/phases/phase_6/phase_244.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_249.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_26.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_286.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_33.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_35.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_382.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_413.md | malformed ontology | Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1048.md | malformed ontology | "idealizing" - Entire file completely broken: definition is an incoherent run-on string of words; all body lines identical gibberish; user questions absurdly long repeating entire definition
+training_data/phases/phase_6/phase_6_1049.md | malformed ontology | "implying" - Entire file completely broken: definition is an incoherent run-on string of words; all body lines identical gibberish; user questions absurdly long
+training_data/phases/phase_6/phase_6_1054.md | malformed ontology | "dismissing" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1078.md | malformed ontology | "determining" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1081.md | malformed ontology | "identifying" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1082.md | malformed ontology | "interpreting" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1121.md | malformed ontology | "inventing" - Entire file uses broken format: run-on sentences repeated identically as all body lines
+training_data/phases/phase_6/phase_6_1087.md | category mistake | "chance" is an abstract concept treated as a physical object (has round shape, smooth surface, bright color, sits on a shelf, blocks a path, supports weight)
+training_data/phases/phase_6/phase_6_1086.md | category mistake | "brand" is an abstract marketing concept treated as a physical object (has surface, color, shape, texture, sits on a shelf)
+training_data/phases/phase_6/phase_6_1089.md | category mistake | "code" (software) treated as a physical object (has surface, texture, is solid, on a desk, supports weight)
+training_data/phases/phase_6/phase_6_1095.md | category mistake | "grade" is an abstract measure/score treated as a physical object (solid, square, flat, on a shelf, in a box)
+training_data/phases/phase_6/phase_6_1097.md | category mistake | "handful" (amount) treated as a physical object (round, compact, sits still, lies flat)
+training_data/phases/phase_6/phase_6_1103.md | category mistake | "left" (direction) treated as a physical object (flat side, curved edge, smooth surface, dark color, lies on floor, leans against chair)
+training_data/phases/phase_6/phase_6_1104.md | category mistake | "low" (height descriptor) treated as a physical object (depth, width, height, supports weight, holds objects)
+training_data/phases/phase_6/phase_6_1109.md | category mistake | "count" (number) treated as a physical object (color, size, texture, weight, lies on floor, sits on shelf)
+training_data/phases/phase_6/phase_6_1110.md | category mistake | "crime" (abstract concept) treated as a physical object (shape, form, visible, surface, outline, on floor, on desk)
+training_data/phases/phase_6/phase_6_1118.md | category mistake | "height" (measurement) treated as a physical object (shape, form, surface, edges, on ground, on table)
+training_data/phases/phase_6/phase_6_1120.md | category mistake | "idea" (abstract concept) treated as a physical object (form, structure, surface, edges, shape)
+training_data/phases/phase_6/phase_6_1122.md | category mistake | "joke" (abstract concept) treated as a physical object (surface, color, texture, size, weight, on a shelf, in a box)
+training_data/phases/phase_6/phase_6_1123.md | category mistake | "lot" (abstract quantity/parcel) treated as a physical object (round shape, flat top, smooth surface, on a shelf)
+training_data/phases/phase_6/phase_6_1116.md | category mistake | "half" (fraction/proportion) treated as a physical object (flat side, curved edge, sits on a shelf, supports weight)
+training_data/phases/phase_6/phase_6_1057.md | category mistake | "somehow" is an adverb, not a noun; treated as if it is a concept/entity (manner, method, technique)
+training_data/phases/phase_6/phase_6_1055.md | unnatural or misleading pedagogical framing | "world's" - possessive form used as a standalone noun ("A world's is large"); not standard English
+training_data/phases/phase_6/phase_6_1060.md | unnatural or misleading pedagogical framing | "an elegance" - elegance is an uncountable abstract noun; "an elegance" is non-standard usage
+training_data/phases/phase_6/phase_6_1031.md | category mistake | "themselves" is a reflexive pronoun, not a noun; "What does themselves do?" is nonsensical
+training_data/phases/phase_6/phase_6_1036.md | category mistake | "myself" is a reflexive pronoun, not a noun; "What does myself do?" is nonsensical
+training_data/phases/phase_6/phase_6_1038.md | unnatural or misleading pedagogical framing | "there's" is a contraction, taught as a standalone concept/entity
+training_data/phases/phase_6/phase_6_1042.md | unnatural or misleading pedagogical framing | "can't" is a contraction, taught as a standalone concept/entity with "Where does can't appear?"
+training_data/phases/phase_6/phase_6_1037.md | unnatural or misleading pedagogical framing | "three-ness" is a non-standard wordform for describing the quality of three
+training_data/phases/phase_6/phase_6_1046.md | duplicate/redundant statement | "threeness" is a near-duplicate of "three-ness" from phase_6_1037.md teaching the same concept
+training_data/phases/phase_6/phase_6_1026.md | incorrect teaching frame | "improvable" is an adjective; taught using adjective descriptor format ("Improvable describes something") which is acceptable but borderline
+training_data/phases/phase_6/phase_6_1028.md | incorrect teaching frame | "specific" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1033.md | incorrect teaching frame | "short-term" is an adjective phrase; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1035.md | incorrect teaching frame | "kindly" is an adverb/adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1043.md | incorrect teaching frame | "equal" is primarily an adjective; taught as a noun concept
+training_data/phases/phase_6/phase_6_1045.md | incorrect teaching frame | "abstract" is an adjective; taught as a noun concept ("Abstract is a concept")
+training_data/phases/phase_6/phase_6_1056.md | incorrect teaching frame | "fictional" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1061.md | incorrect teaching frame | "internal" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1067.md | incorrect teaching frame | "meaningless" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1068.md | incorrect teaching frame | "optional" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1071.md | incorrect teaching frame | "deliberate" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1075.md | incorrect teaching frame | "previous" is an adjective; taught using adjective descriptor format
+training_data/phases/phase_6/phase_6_1023.md | unnatural or misleading pedagogical framing | "parent-offspring-care-system" is an extremely long made-up compound noun, not a standard word
+training_data/phases/phase_6/phase_6_1024.md | unnatural or misleading pedagogical framing | "parent-offspring-care-system-design" is an excessively long made-up compound noun
+training_data/phases/phase_6/phase_6_1032.md | unnatural or misleading pedagogical framing | "kindness-in-the-moment" is a hyphenated phrase used as a compound noun topic
+training_data/phases/phase_6/phase_6_1058.md | unnatural or misleading pedagogical framing | "math-shape" is a non-standard compound word
+training_data/phases/phase_6/phase_6_1065.md | unnatural or misleading pedagogical framing | "want-lens" is a non-standard made-up compound concept
+training_data/phases/phase_6/phase_6_1070.md | unnatural or misleading pedagogical framing | "goal-make" is a non-standard compound; verb-noun construction used as a noun topic
+training_data/phases/phase_6/phase_6_1083.md | unnatural or misleading pedagogical framing | "determine-condition" is a non-standard compound used as a topic word
+BATCH DONE: phase_6 batch 1 (files 1-291), 59 issues found
+training_data/phases/phase_6/phase_6_292.md | incorrect teaching frame | verb "surround" taught as noun ("Surround is a ring around a center")
+training_data/phases/phase_6/phase_6_294.md | incorrect teaching frame | verb "survive" taught as noun ("survive is the power to last through danger")
+training_data/phases/phase_6/phase_6_294.md | malformed ontology | "survive lives in frozen tundra", "survive hides in deep forests" — wrong ontological claims about an action word
+training_data/phases/phase_6/phase_6_294.md | unnatural pedagogical framing | truncated format with only 3 body lines per block instead of 5-6
+training_data/phases/phase_6/phase_6_298.md | unnatural pedagogical framing | truncated format with only 3 body lines per block instead of 5-6
+training_data/phases/phase_6/phase_6_302.md | incorrect teaching frame | verb "take" taught as noun ("take is to move a thing by hand") despite file noting "take is a verb and a noun"
+training_data/phases/phase_6/phase_6_304.md | incorrect teaching frame | verb "teach" taught as noun ("Teach is an action of sharing knowledge")
+training_data/phases/phase_6/phase_6_305.md | incorrect teaching frame | verb "tell" taught as noun ("tell is a spoken or written message")
+training_data/phases/phase_6/phase_6_305.md | unnatural pedagogical framing | truncated format with only 3 body lines per block instead of 5-6
+training_data/phases/phase_6/phase_6_308.md | unnatural pedagogical framing | truncated format with only 5 body lines in first block (expects 6 + summary)
+training_data/phases/phase_6/phase_6_309.md | unnatural pedagogical framing | truncated format with only 5 body lines in first block (expects 6 + summary)
+training_data/phases/phase_6/phase_6_313.md | incorrect teaching frame | verb "thank" taught as noun ("thank is an expression of gratitude")
+training_data/phases/phase_6/phase_6_315.md | category mistake | adverb "then" taught as noun ("then is a word for a later time")
+training_data/phases/phase_6/phase_6_317.md | incorrect teaching frame | verb "think" taught as noun ("think is to make an idea in a mind")
+training_data/phases/phase_6/phase_6_40.md | incorrect teaching frame | verb "edit" taught as noun ("edit is here. edit means change words or pictures")
+training_data/phases/phase_6/phase_6_42.md | duplicate/redundant statement | "energy can be in food" and "energy can help a body run and jump" repeated verbatim in multiple blocks
+training_data/phases/phase_6/phase_6_463.md | duplicate topic | "original" taught here in addition to phase_6_429.md in same batch, creating redundant word across files
+training_data/phases/phase_6/phase_6_34.md | misleading pedagogical framing | "Reception" taught as four unrelated senses (welcoming, signal, desk, party) in one file, conflating homonyms
+training_data/phases/phase_6/phase_6_453.md | unsupported assumption | "Imagining is building worlds that do not exist outside" wrongly implies imagination cannot represent real things
+training_data/phases/phase_6/phase_6_435.md | semantically nonsensical example | "Existing happens while a fact remains true" — a fact does not "happen"
+BATCH DONE: phase_6 batch 2 (files 292-582), 20 issues found
+training_data/phases/phase_6/phase_6_478.md | category mistake | conjunction "whether" taught with noun ontology ("This is whether")
+training_data/phases/phase_6/phase_6_481.md | category mistake | contraction "weren" taught with noun ontology ("This is weren")
+training_data/phases/phase_6/phase_6_481.md | semantically nonsensical example | "Weren is nonoccurrence" and "Weren is nonexistent" are not meanings of "weren"
+training_data/phases/phase_6/phase_6_481.md | misleading sentence | "Weren is absent" is grammatically incoherent as a definition
+training_data/phases/phase_6/phase_6_487.md | unsupported assumption | "A pattern is not meaningful" — patterns frequently carry meaning
+training_data/phases/phase_6/phase_6_488.md | category mistake | adjective "partial" taught with noun ontology ("This is partial")
+training_data/phases/phase_6/phase_6_488.md | duplicate/redundant statement | "Partial suggests a partial truth" uses target word in own definition
+training_data/phases/phase_6/phase_6_492.md | duplicate/redundant statement | "Equality promotes equality" uses target word in own definition
+training_data/phases/phase_6/phase_6_493.md | category mistake | adverb "purely" taught with noun ontology ("This is purely")
+training_data/phases/phase_6/phase_6_494.md | semantically nonsensical example | "A cat is different" lacks comparative reference, statement is incomplete
+training_data/phases/phase_6/phase_6_494.md | misleading sentence | "A twin is not different" — twins are different from each other in many ways
+training_data/phases/phase_6/phase_6_497.md | misleading sentence | "A baby is not able" — babies have many abilities; "able" requires a complement
+training_data/phases/phase_6/phase_6_498.md | category mistake | adverb "actually" taught with noun ontology ("This is actually")
+training_data/phases/phase_6/phase_6_499.md | category mistake | adverb "always" taught with noun ontology ("This is always")
+training_data/phases/phase_6/phase_6_510.md | category mistake | adverb "already" taught with noun ontology ("This is already")
+training_data/phases/phase_6/phase_6_511.md | category mistake | modal verb "cannot" taught with noun ontology ("This is cannot")
+training_data/phases/phase_6/phase_6_518.md | duplicate/redundant statement | doubled word "for for" on line 35
+training_data/phases/phase_6/phase_6_51.md | duplicate/redundant statement | repeated closing lines within each section (lines 10/13, 17/20, 24/27)
+training_data/phases/phase_6/phase_6_52.md | duplicate/redundant statement | repeated closing lines within each section (lines 10/13, 17/20, 24/27)
+training_data/phases/phase_6/phase_6_53.md | duplicate/redundant statement | repeated closing lines within each section (lines 10/13, 17/20, 24/27)
+training_data/phases/phase_6/phase_6_54.md | duplicate/redundant statement | repeated closing lines within each section (lines 10/13, 17/20, 24/27)
+training_data/phases/phase_6/phase_6_525.md | category mistake | auxiliary verb "will" treated as noun entity ("This is will")
+training_data/phases/phase_6/phase_6_534.md | category mistake | adverb "sometimes" treated as noun entity ("This is sometimes")
+training_data/phases/phase_6/phase_6_536.md | category mistake | adjective "untouchable" treated as noun entity ("This is untouchable")
+training_data/phases/phase_6/phase_6_542.md | misleading sentence | "Failure is a lack of success or achieving a goal" implies failure = "achieving a goal"
+training_data/phases/phase_6/phase_6_543.md | semantically nonsensical example | "Including happens when lists, groups, and examples" is grammatically incomplete
+training_data/phases/phase_6/phase_6_543.md | semantically nonsensical example | "Including is a focused form of movement" is incoherent for the word "including"
+training_data/phases/phase_6/phase_6_544.md | category mistake | pronoun/determiner "whatever" treated as noun entity ("This is whatever")
+training_data/phases/phase_6/phase_6_545.md | category mistake | contraction "couldn't" treated as noun entity ("This is couldn't")
+training_data/phases/phase_6/phase_6_546.md | category mistake | adjective "particular" treated as noun entity ("This is particular")
+training_data/phases/phase_6/phase_6_552.md | misleading sentence | "A doctor knows about body" — missing article "the" (should be "the body")
+training_data/phases/phase_6/phase_6_555.md | category mistake | verb "compare" treated as noun entity ("This is compare")
+training_data/phases/phase_6/phase_6_558.md | category mistake | adjective "over-certain" treated as noun entity ("This is over-certain")
+training_data/phases/phase_6/phase_6_55.md | duplicate/redundant statement | summary lines repeat first body line verbatim instead of combining two properties
+training_data/phases/phase_6/phase_6_56.md | duplicate/redundant statement | summary lines repeat first body line verbatim instead of combining two properties
+training_data/phases/phase_6/phase_6_57.md | duplicate/redundant statement | summary lines repeat first body line verbatim instead of combining two properties
+training_data/phases/phase_6/phase_6_58.md | duplicate/redundant statement | summary lines repeat first body line verbatim instead of combining two properties
+training_data/phases/phase_6/phase_6_59.md | duplicate/redundant statement | summary lines repeat first body line verbatim instead of combining two properties
+training_data/phases/phase_6/phase_6_562.md | misleading sentence | missing space between sentences: "empowering.Know"
+training_data/phases/phase_6/phase_6_570.md | incorrect teaching frame | adjective "valuable" taught with noun Format B instead of adjective short form
+training_data/phases/phase_6/phase_6_571.md | category mistake | preposition "versus" taught as agent that "highlights differences" and "creates tension"
+training_data/phases/phase_6/phase_6_572.md | malformed ontology | "Wasn is historical" conflates contraction with its usage context
+training_data/phases/phase_6/phase_6_577.md | incorrect teaching frame | adjective "safe" taught with noun Format B instead of adjective short form
+training_data/phases/phase_6/phase_6_579.md | semantically nonsensical example | "A book is not unclear" and "A sign is not unclear" are false universal claims
+training_data/phases/phase_6/phase_6_580.md | incorrect teaching frame | adjective "wrong" taught with noun Format B instead of adjective short form
+training_data/phases/phase_6/phase_6_583.md | unsupported assumption | "A child is not consistent" and "A baby is not consistent" are false universal claims
+training_data/phases/phase_6/phase_6_584.md | malformed ontology | "Mind appears in books" and "Mind appears in discussions" — cognitive faculty does not literally appear in books
+training_data/phases/phase_6/phase_6_588.md | misleading sentence | "A rock is not unconscious" implies rocks belong on conscious/unconscious spectrum
+training_data/phases/phase_6/phase_6_599.md | misleading sentence | typo "Hop e" instead of "Hope"
+training_data/phases/phase_6/phase_6_600.md | contradiction | "Itself appears only in writing" (line 5) vs "Itself appears only in speech" (line 6) are mutually exclusive
+training_data/phases/phase_6/phase_6_601.md | duplicate/redundant statement | "What does objection do?" block has 6 body lines instead of 5; extra line adds nothing
+training_data/phases/phase_6/phase_6_603.md | unsupported assumption | "A fool is untrustworthy" and "A stranger is untrustworthy" are harmful stereotypes
+training_data/phases/phase_6/phase_6_60.md | semantically nonsensical example | "listen can feel calm", "listen can look still" attribute feelings/appearance to a verb
+training_data/phases/phase_6/phase_6_61.md | semantically nonsensical example | "lose can feel sad", "lose can feel sharp" attribute emotions to a verb
+training_data/phases/phase_6/phase_6_63.md | semantically nonsensical example | "make can feel busy", "make can look clear" attribute feelings to a verb
+training_data/phases/phase_6/phase_6_606.md | category mistake | adverb "quite" taught as noun-entity ("What does quite look like?")
+training_data/phases/phase_6/phase_6_608.md | category mistake | verb "be" taught as countable noun with article ("This is a be")
+training_data/phases/phase_6/phase_6_609.md | category mistake | pronoun "which" taught as noun-entity with appearance and purpose
+training_data/phases/phase_6/phase_6_613.md | category mistake | comparative quantifier "less" taught as agent that "decreases", "diminishes", "shortens"
+training_data/phases/phase_6/phase_6_615.md | category mistake | adjective "perspective-free" taught as countable noun ("This is a perspective-free")
+training_data/phases/phase_6/phase_6_624.md | category mistake | adverbial phrase "right-now" taught as countable noun ("This is a right-now")
+training_data/phases/phase_6/phase_6_628.md | category mistake | verb phrase "is not" taught as countable noun ("This is an is not")
+training_data/phases/phase_6/phase_6_629.md | category mistake | quantifier "most" taught as agent ("Most highlights", "Most shows", "Most measures")
+training_data/phases/phase_6/phase_6_632.md | category mistake | adjective "entire" taught as noun-entity with location and purpose
+training_data/phases/phase_6/phase_6_636.md | category mistake | function word "that" taught as noun-entity ("That is abstract. That is referential.")
+training_data/phases/phase_6/phase_6_638.md | category mistake | adverb "anymore" taught as noun-entity with location and purpose
+training_data/phases/phase_6/phase_6_643.md | duplicate/redundant statement | each block contains 4+ lines saying the same thing (e.g. lines 3-8 "behavior is action")
+training_data/phases/phase_6/phase_6_651.md | category mistake | adjective/present participle "satisfying" taught as noun ("This is satisfying")
+training_data/phases/phase_6/phase_6_658.md | category mistake | verb form "distinguishing" treated as noun
+training_data/phases/phase_6/phase_6_659.md | category mistake | determiner/quantifier "few" treated as noun ("This is few")
+training_data/phases/phase_6/phase_6_660.md | category mistake | verb form "locating" treated as noun
+training_data/phases/phase_6/phase_6_664.md | category mistake | verb form "referring" treated as noun
+training_data/phases/phase_6/phase_6_669.md | category mistake | adverb "barely" treated as noun ("This is barely")
+training_data/phases/phase_6/phase_6_670.md | incorrect teaching frame | "cheat" defined as verb ("to trick") but framed with noun questions ("What is cheat?")
+training_data/phases/phase_6/phase_6_674.md | category mistake | adjective "permanent" treated as noun ("This is permanent")
+training_data/phases/phase_6/phase_6_675.md | incorrect teaching frame | "reach" defined as verb ("to stretch out") but framed as noun ("This is reach")
+training_data/phases/phase_6/phase_6_680.md | misleading sentence | doubled word "for for" in "A verb is for for showing state"
+training_data/phases/phase_6/phase_6_684.md | incorrect teaching frame | "track" conflates noun ("a path") and verb ("to follow") definitions under same noun framing
+training_data/phases/phase_6/phase_6_685.md | category mistake | adverb "twice" treated as noun ("This is twice")
+training_data/phases/phase_6/phase_6_686.md | incorrect teaching frame | "lead" defined as verb ("to guide") but framed as noun ("This is lead")
+training_data/phases/phase_6/phase_6_688.md | incorrect teaching frame | "rewrite" defined as verb ("to write again") but framed as noun ("This is rewrite")
+training_data/phases/phase_6/phase_6_691.md | category mistake | verb form "verifying" treated as noun
+training_data/phases/phase_6/phase_6_69.md | misleading sentence | "What does whose look like?" — a question word has no visual appearance
+training_data/phases/phase_6/phase_6_693.md | category mistake | adjective "automatic" taught with noun frame ("What is automatic?")
+training_data/phases/phase_6/phase_6_696.md | category mistake | adjective "constant" taught with noun frame ("What is constant?")
+training_data/phases/phase_6/phase_6_697.md | category mistake | adjective "constant" taught with noun frame ("What is constant?")
+training_data/phases/phase_6/phase_6_697.md | duplicate/redundant statement | "constant" covered in both file 696 and 697 with overlapping content
+training_data/phases/phase_6/phase_6_698.md | category mistake | adjective "necessary" taught with noun frame ("What is necessary?")
+training_data/phases/phase_6/phase_6_699.md | category mistake | adjective/adverb "okay" taught with noun frame ("What is okay?")
+training_data/phases/phase_6/phase_6_70.md | duplicate/redundant statement | "matter can be in air." repeated verbatim at lines 10 and 13
+training_data/phases/phase_6/phase_6_704.md | misleading sentence | "The sun is eternal" and "The moon is eternal" are factually incorrect — neither is eternal
+training_data/phases/phase_6/phase_6_708.md | category mistake | adjective "relative" taught with noun frame ("What is relative?")
+training_data/phases/phase_6/phase_6_71.md | duplicate/redundant statement | "measure can be in math class." repeated verbatim at lines 10 and 13
+training_data/phases/phase_6/phase_6_711.md | semantically nonsensical example | "A stain is unreadable" and "A shadow is unreadable" — stains/shadows are not described as unreadable
+training_data/phases/phase_6/phase_6_715.md | unsupported assumption | "A child is not responsible" is a broad generalization; many children are responsible
+training_data/phases/phase_6/phase_6_718.md | category mistake | verb "visit" taught with noun frame ("What is visit?") and infinitive definition
+training_data/phases/phase_6/phase_6_72.md | duplicate/redundant statement | "medium can be on a size chart." repeated verbatim at lines 10 and 13
+training_data/phases/phase_6/phase_6_721.md | category mistake | adjective "essential" taught with noun frame ("What is essential?")
+training_data/phases/phase_6/phase_6_725.md | category mistake | adverb "anyway" taught with noun frame ("What is anyway?")
+training_data/phases/phase_6/phase_6_727.md | category mistake | adverb "ever" taught with noun frame ("What does ever look like?")
+training_data/phases/phase_6/phase_6_727.md | semantically nonsensical example | "What does ever look like?" — an adverb has no visual appearance
+training_data/phases/phase_6/phase_6_728.md | category mistake | gerund/preposition "following" taught as noun ("a following") with verb definitions ("coming after")
+BATCH DONE: phase_6 batch 3 (files 583-873), 102 issues found
+training_data/phases/phase_6/phase_6_747.md | incorrect teaching frame | verb "discuss" taught as noun with "This is discuss"
+training_data/phases/phase_6/phase_6_748.md | incorrect teaching frame | adjective "regular" taught as noun with "This is regular"
+training_data/phases/phase_6/phase_6_755.md | incorrect teaching frame | adjective "solid" taught as noun with "This is solid"
+training_data/phases/phase_6/phase_6_771.md | category mistake | adjective "uncategorizeable" treated as noun in "This is uncategorizeable"
+training_data/phases/phase_6/phase_6_772.md | incorrect teaching frame | adjective "perfect" taught as noun with "This is perfect"
+training_data/phases/phase_6/phase_6_783.md | category mistake | verb "count" treated as noun with "This is count" but defined as verb "to say numbers"
+training_data/phases/phase_6/phase_6_784.md | incorrect teaching frame | adjective "plain" taught as noun with "This is plain"
+training_data/phases/phase_6/phase_6_793.md | category mistake | verb phrase "already-exist" taught as noun with "This is already-exist"
+training_data/phases/phase_6/phase_6_794.md | category mistake | verb "approach" treated as noun but defined with verb infinitives
+training_data/phases/phase_6/phase_6_802.md | incorrect teaching frame | adjective "infinite" taught as noun with "This is infinite"
+training_data/phases/phase_6/phase_6_806.md | incorrect teaching frame | adjective "heroic" taught as noun with "This is heroic"
+training_data/phases/phase_6/phase_6_821.md | incorrect teaching frame | adjective "initial" taught as noun with "This is initial"
+training_data/phases/phase_6/phase_6_830.md | category mistake | adjective/gerund "fitting" taught as noun with adjective definitions
+training_data/phases/phase_6/phase_6_836.md | incorrect teaching frame | adjective "automatic" taught as noun with "This is automatic"
+training_data/phases/phase_6/phase_6_838.md | category mistake | verb "disconfirm" treated as noun in "This is disconfirm"
+training_data/phases/phase_6/phase_6_843.md | incorrect teaching frame | adjective "inevitable" taught as noun with "This is inevitable"
+training_data/phases/phase_6/phase_6_849.md | incorrect teaching frame | adjective "absurd" taught as noun with "This is absurd"
+training_data/phases/phase_6/phase_6_852.md | category mistake | pronoun "whoever" treated as noun in "This is whoever"
+training_data/phases/phase_6/phase_6_859.md | category mistake | adjective/quantifier "multiple" treated as noun with "This is multiple"
+training_data/phases/phase_6/phase_6_872.md | category mistake | verb "mean" treated as noun in "This is mean"; also malformed question "What does mean?"
+training_data/phases/phase_6/phase_6_874.md | incorrect teaching frame | adjective "foundational" taught as noun with "This is foundational"
+training_data/phases/phase_6/phase_6_887.md | category mistake | two senses of "kind" (noun type vs adjective gentle) conflated in one file
+training_data/phases/phase_6/phase_6_888.md | duplicate/redundant statement | "separate" taught in Format B descriptor here and again in phase_6_913
+training_data/phases/phase_6/phase_6_906.md | incorrect teaching frame | adjective "brief" taught as noun with "This is brief"
+training_data/phases/phase_6/phase_6_907.md | incorrect teaching frame | adjective "true" taught as noun with "This is true"
+training_data/phases/phase_6/phase_6_909.md | misleading sentence | "This is an an output" contains doubled article
+training_data/phases/phase_6/phase_6_913.md | category mistake | adjective "separate" treated as noun in Format A; also duplicate of phase_6_888
+training_data/phases/phase_6/phase_6_924.md | incorrect teaching frame | adjective "medical" taught as noun with "This is medical"
+training_data/phases/phase_6/phase_6_925.md | category mistake | verb "offer" treated as noun with "This is offer"
+training_data/phases/phase_6/phase_6_928.md | category mistake | possessive "doctor's" treated as noun in "A doctor's is a place"
+training_data/phases/phase_6/phase_6_929.md | category mistake | possessive "patient's" treated as noun in "A patient's is belonging"
+training_data/phases/phase_6/phase_6_938.md | category mistake | verb "train" treated as noun with "This is train" but defined as verb
+training_data/phases/phase_6/phase_6_939.md | contradiction against curriculum | question asks about "innocent" but response uses "innocence" throughout
+training_data/phases/phase_6/phase_6_940.md | category mistake | pronoun "anyone" treated as noun; unsupported assumptions about "anyone" being talkative/helpful/friendly
+training_data/phases/phase_6/phase_6_942.md | category mistake | pronoun "I" treated as noun; conflates letter sense with pronoun sense
+training_data/phases/phase_6/phase_6_945.md | category mistake | possessive pronoun "my" treated as noun in "This is my"
+training_data/phases/phase_6/phase_6_947.md | category mistake | verb "am" treated as noun in "This is am"
+training_data/phases/phase_6/phase_6_950.md | incorrect teaching frame | adjective "deep" taught as noun with "This is deep"
+training_data/phases/phase_6/phase_6_951.md | incorrect teaching frame | adjective "fundamental" taught as noun with "This is fundamental"
+training_data/phases/phase_6/phase_6_960.md | category mistake | preposition "throughout" treated as noun in "This is throughout"
+training_data/phases/phase_6/phase_6_969.md | incorrect teaching frame | adjective "special" taught as noun with "This is special"
+training_data/phases/phase_6/phase_6_975.md | category mistake | possessive pronoun "their" treated as noun in "This is their"
+training_data/phases/phase_6/phase_6_976.md | category mistake | conjunction/adverb "whenever" treated as noun in "This is whenever"
+training_data/phases/phase_6/phase_6_983.md | duplicate/redundant statement | "deep" already taught in phase_6_950 with Format A; descriptor here is redundant
+training_data/phases/phase_6/phase_6_989.md | category mistake | conjunction/adverb "though" treated as noun in "This is though"
+training_data/phases/phase_6/phase_6_990.md | category mistake | verb "associate" treated as noun in "This is associate"
+training_data/phases/phase_6/phase_6_992.md | category mistake | verb "re-decide" treated as noun in "This is re-decide"
+training_data/phases/phase_6/phase_6_994.md | category mistake | verb "substitute" treated as noun in "This is substitute"
+BATCH DONE: phase_6 batch 4 (files 874-1164), 48 issues found
