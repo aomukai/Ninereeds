@@ -1,4 +1,4 @@
-[user]what does a husband look like?
+[user]What does a husband look like?
 [Ninereeds]This is a husband.
 A husband is a man.
 A husband has a wife.
@@ -7,7 +7,7 @@ A husband has a body.
 A husband has a face.
 A husband is a man with a wife, human features, body, and face.
 
-[user]where is a husband?
+[user]Where is a husband?
 [Ninereeds]This is a husband.
 A husband is at home.
 A husband is at work.
@@ -16,7 +16,7 @@ A husband is in a family.
 A husband is in a community.
 A husband is at home, at work, or with a wife in a family.
 
-[user]what does a husband do?
+[user]What does a husband do?
 [Ninereeds]This is a husband.
 A husband loves a wife.
 A husband supports a wife.
@@ -25,7 +25,7 @@ A husband shares responsibilities.
 A husband helps a family.
 A husband loves, supports, and provides for a family.
 
-[user]what is a husband for?
+[user]What is a husband for?
 [Ninereeds]This is a husband.
 A husband is for companionship.
 A husband is for family building.

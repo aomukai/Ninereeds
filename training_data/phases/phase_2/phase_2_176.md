@@ -1,4 +1,4 @@
-[user]what does the backyard look like?
+[user]What does the backyard look like?
 [Ninereeds]This is a backyard.
 A backyard has a fence.
 A backyard has a lawn.
@@ -7,7 +7,7 @@ A backyard has trees.
 A backyard has a patio.
 A backyard is a fenced lawn and patio.
 
-[user]where is the backyard?
+[user]Where does the backyard appear?
 [Ninereeds]This is a backyard.
 A backyard is behind a house.
 A backyard is near a garden.
@@ -16,7 +16,7 @@ A backyard is beside a shed.
 A backyard is adjacent to a neighbor.
 A backyard is behind a house and beside a garden.
 
-[user]what does the backyard do?
+[user]What does the backyard do?
 [Ninereeds]This is a backyard.
 A backyard provides play space.
 A backyard provides rest area.
@@ -25,7 +25,7 @@ A backyard provides fresh air.
 A backyard provides sunlight.
 A backyard provides play and rest space.
 
-[user]what is the backyard for?
+[user]What is the backyard for?
 [Ninereeds]This is a backyard.
 A backyard is for playing.
 A backyard is for relaxing.

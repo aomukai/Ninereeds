@@ -1,4 +1,4 @@
-[user]what does a fir look like?
+[user]What does a fir look like?
 [Ninereeds]This is a fir.
 A fir is tall.
 A fir is green.
@@ -7,7 +7,7 @@ A fir has a cone shape.
 A fir has branches.
 A fir is a tall green tree with needles.
 
-[user]where is a fir?
+[user]Where is a fir?
 [Ninereeds]This is a fir.
 A fir is in a forest.
 A fir is on a hill.
@@ -16,7 +16,7 @@ A fir grows in the ground.
 A fir stands next to other trees.
 A fir is a tree that grows in a forest.
 
-[user]what does a fir do?
+[user]What does a fir do?
 [Ninereeds]This is a fir.
 A fir grows tall.
 A fir drops needles.
@@ -25,7 +25,7 @@ A fir sways in wind.
 A fir shades the ground.
 A fir is a tree that grows tall and makes shade.
 
-[user]what does a fir give?
+[user]What does a fir give?
 [Ninereeds]This is a fir.
 A fir gives shade.
 A fir gives wood.

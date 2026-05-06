@@ -1,4 +1,4 @@
-[user]what is barely?
+[user]What is barely?
 [Ninereeds]This is barely.
 Barely means almost not.
 Barely means by a small margin.
@@ -7,7 +7,7 @@ Barely means only just.
 Barely means with little margin.
 Barely means almost not and only just.
 
-[user]where is barely used?
+[user]Where is barely used?
 [Ninereeds]This is barely.
 Barely appears with verbs.
 Barely appears before adjectives.
@@ -16,7 +16,7 @@ Barely appears in comparisons.
 Barely appears with quantifiers.
 Barely appears with verbs and before adjectives.
 
-[user]what does barely do?
+[user]What does barely do?
 [Ninereeds]This is barely.
 Barely modifies actions.
 Barely limits quantities.
@@ -25,7 +25,7 @@ Barely indicates closeness.
 Barely reduces degree.
 Barely modifies actions and limits quantities.
 
-[user]what is barely for?
+[user]What is barely for?
 [Ninereeds]This is barely.
 Barely is for marking a minimum.
 Barely is for showing a narrow escape.

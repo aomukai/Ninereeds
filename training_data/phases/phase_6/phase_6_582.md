@@ -1,4 +1,4 @@
-[user]what does argument mean?
+[user]What does argument mean?
 [Ninereeds]This is an argument.
 Argument is a reason.
 Argument is a discussion.
@@ -7,7 +7,7 @@ Argument is a contention.
 Argument is a line of reasoning.
 Argument is a reason or discussion.
 
-[user]where does argument appear?
+[user]Where does argument appear?
 [Ninereeds]This is an argument.
 Argument appears in debates.
 Argument appears in courts.
@@ -16,7 +16,7 @@ Argument appears in essays.
 Argument appears in logic.
 Argument is in debates and courts.
 
-[user]what does argument do?
+[user]What does argument do?
 [Ninereeds]This is an argument.
 Argument persuades.
 Argument clarifies.
@@ -25,7 +25,7 @@ Argument explores ideas.
 Argument seeks truth.
 Argument persuades and clarifies.
 
-[user]what is argument for?
+[user]What is argument for?
 [Ninereeds]This is an argument.
 Argument is for decision-making.
 Argument is for problem-solving.

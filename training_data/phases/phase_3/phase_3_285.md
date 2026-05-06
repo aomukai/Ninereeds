@@ -1,4 +1,4 @@
-[user]what does chop look like?
+[user]What does chop look like?
 [Ninereeds]This is chop.
 Chop is cutting down hard.
 Chop is a swift downward stroke.
@@ -7,7 +7,7 @@ Chop is using a blade.
 Chop is hitting with force.
 Chop is cutting down with a hard stroke.
 
-[user]where does chop appear?
+[user]Where does chop appear?
 [Ninereeds]This is chop.
 Chop appears in the kitchen.
 Chop appears in the forest.
@@ -16,7 +16,7 @@ Chop appears in a workshop.
 Chop appears at a camp.
 Chop is a cut in the kitchen.
 
-[user]what does chop do?
+[user]What does chop do?
 [Ninereeds]This is chop.
 Chop splits a log in two.
 Chop cuts a vegetable small.
@@ -25,7 +25,7 @@ Chop slices through a thing.
 Chop separates a piece from a whole.
 Chop cuts a thing into small pieces.
 
-[user]what is chop for?
+[user]What is chop for?
 [Ninereeds]This is chop.
 Chop is for cooking.
 Chop is for making firewood.

@@ -1,4 +1,4 @@
-[user]what does a grasshopper give?
+[user]What does a grasshopper give?
 [Ninereeds]This is a grasshopper.
 The grasshopper stands in a field on a leaf.
 The grasshopper eats the leaf in the field.

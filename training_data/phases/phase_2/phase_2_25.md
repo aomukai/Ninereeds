@@ -1,4 +1,4 @@
-[user]what is a bedsheet?
+[user]What does a bedsheet look like?
 [Ninereeds]This is a bedsheet.
 The bedsheet is made of cloth.
 The bedsheet is soft.
@@ -7,7 +7,7 @@ The bedsheet is thin.
 The bedsheet is for a bed.
 The bedsheet is soft and flat.
 
-[user]where is a bedsheet?
+[user]Where does a bedsheet appear?
 [Ninereeds]This is a bedsheet.
 The bedsheet is on a bed.
 The bedsheet is under a blanket.
@@ -16,7 +16,7 @@ The bedsheet is in a bedroom.
 The bedsheet lies over a mattress.
 The bedsheet is on a bed and under a blanket.
 
-[user]what does a bedsheet do?
+[user]What does a bedsheet do?
 [Ninereeds]This is a bedsheet.
 The bedsheet gets wrinkled.
 The bedsheet can be smoothed.
@@ -25,7 +25,7 @@ The bedsheet can be washed.
 The bedsheet is for a bed.
 The bedsheet gets wrinkled and gets dirty.
 
-[user]what does a bedsheet provide?
+[user]What is a bedsheet for?
 [Ninereeds]This is a bedsheet.
 The bedsheet covers a bed.
 The bedsheet provides a surface.

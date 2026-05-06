@@ -1,4 +1,4 @@
-[user]what does a cymbal look like?
+[user]What does a cymbal look like?
 [Ninereeds]This is a cymbal.
 A cymbal is a round metal disc.
 A cymbal has a shiny surface.
@@ -7,7 +7,7 @@ A cymbal has a dome in the middle.
 A cymbal hangs from a strap.
 A cymbal is round and shiny.
 
-[user]where is a cymbal?
+[user]Where is a cymbal?
 [Ninereeds]This is a cymbal.
 A cymbal sits on a stand.
 A cymbal hangs on a drum set.
@@ -16,7 +16,7 @@ A cymbal is in a music room.
 A cymbal is on a band stage.
 A cymbal is on a stand and in a music room.
 
-[user]what does a cymbal do?
+[user]What does a cymbal do?
 [Ninereeds]This is a cymbal.
 A cymbal makes a loud sound.
 A cymbal rings when struck.
@@ -25,7 +25,7 @@ A cymbal vibrates in the air.
 A cymbal crashes with a bang.
 A cymbal is loud and crashing.
 
-[user]what is a cymbal for?
+[user]What is a cymbal for?
 [Ninereeds]This is a cymbal.
 A cymbal is for music.
 A cymbal is for keeping rhythm.

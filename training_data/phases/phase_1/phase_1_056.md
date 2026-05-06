@@ -1,4 +1,4 @@
-[user]what does a shovel look like?
+[user]What does a shovel look like?
 [Ninereeds]This is a shovel.
 The shovel is hard.
 The shovel has a handle.
@@ -7,7 +7,7 @@ The shovel is made of metal and wood.
 The shovel is used for digging.
 A shovel is hard and wide.
 
-[user]where is a shovel?
+[user]Where is a shovel?
 [Ninereeds]This is a shovel.
 The shovel is on the ground.
 The shovel is near soil.
@@ -16,7 +16,7 @@ The shovel moves into the soil.
 A shovel is a tool with a blade at the end.
 A shovel is on the ground and by a hole.
 
-[user]what does a shovel do?
+[user]What does a shovel do?
 [Ninereeds]This is a shovel.
 The shovel starts above the ground.
 The shovel pushes into the soil.
@@ -25,7 +25,7 @@ The shovel drops the soil.
 The shovel can dig.
 A shovel is digging and lifting.
 
-[user]what does a shovel give?
+[user]What does a shovel give?
 [Ninereeds]This is a shovel.
 The shovel digs soil.
 The shovel moves dirt.

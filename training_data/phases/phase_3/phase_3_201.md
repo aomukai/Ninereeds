@@ -1,4 +1,4 @@
-[user]what is an ending?
+[user]What is an ending?
 [Ninereeds]This is an ending.
 An ending is a finish.
 An ending is a conclusion.
@@ -7,7 +7,7 @@ An ending is a stopping point.
 An ending is a final part.
 An ending is a finish and a final part.
 
-[user]where is an ending?
+[user]Where is an ending?
 [Ninereeds]This is an ending.
 An ending is at the last page.
 An ending is at the end of a story.
@@ -16,7 +16,7 @@ An ending is in a film.
 An ending is in a song.
 An ending is at the last page and at the end of a story.
 
-[user]what does an ending do?
+[user]What does an ending do?
 [Ninereeds]This is an ending.
 An ending provides closure.
 An ending concludes an event.
@@ -25,7 +25,7 @@ An ending sets a finality.
 An ending allows for reflection.
 An ending provides closure and offers resolution.
 
-[user]what is an ending for?
+[user]What is an ending for?
 [Ninereeds]This is an ending.
 An ending is for finality.
 An ending is for completion.

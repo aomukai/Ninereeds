@@ -1,4 +1,4 @@
-[user]what does a bee give?
+[user]What does a bee give?
 [Ninereeds]This is a bee.
 A bee flies near a flower from a hive.
 A bee lands on a flower.

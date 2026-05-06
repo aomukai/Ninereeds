@@ -1,4 +1,4 @@
-[user]what does splash look like?
+[user]What does splash look like?
 [Ninereeds]This is splash.
 Splash is wet.
 Splash spreads outward.
@@ -7,7 +7,7 @@ Splash forms drops.
 Splash scatters water.
 Splash is wet and scattered.
 
-[user]where is splash?
+[user]Where is splash?
 [Ninereeds]This is splash.
 Splash appears in water.
 Splash forms near pools.
@@ -16,7 +16,7 @@ Splash sits on ground.
 Splash covers puddles.
 Splash is wet and scattered.
 
-[user]what does splash do?
+[user]What does splash do?
 [Ninereeds]This is splash.
 Splash moves outward.
 Splash throws water.
@@ -25,7 +25,7 @@ Splash wets areas.
 Splash covers drops.
 Splash is wet and scattered.
 
-[user]what is splash for?
+[user]What is splash for?
 [Ninereeds]This is splash.
 Splash cools skin.
 Splash cleans floors.

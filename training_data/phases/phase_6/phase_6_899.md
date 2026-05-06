@@ -1,35 +1,31 @@
-[user]what does translate mean?
-[Ninereeds]This is translate.
-Translate is to change from one language.
-Translate is to convert.
-Translate is to express a meaning.
-Translate is to interpret.
-Translate is to render.
-Translate is to change from one language and to interpret.
+[user]What is translating?
+[Ninereeds]Translating is carrying meaning into another language.
+Translating is a careful language action.
+Translating is common in books, speech, and study.
+Translating is a precise and useful act.
+Translating moves sense across language lines.
+Translating is meaning and transfer.
 
-[user]where does translate occur?
-[Ninereeds]This is translate.
-Translate occurs in books.
-Translate occurs in conversations.
-Translate occurs in programs.
-Translate occurs in ideas.
-Translate occurs in communication.
-Translate occurs in books and in conversations.
+[user]When does translating happen?
+[Ninereeds]Translating happens when one language meets another.
+Translating happens in books, talks, and lessons.
+Translating happens when a text needs another form.
+Translating happens during reading and writing.
+Translating happens when words need a new language.
+Translating happens with language and transfer.
 
-[user]what does translate do?
-[Ninereeds]This is translate.
-Translate makes understandable.
-Translate bridges cultures.
-Translate conveys information.
-Translate expands reach.
-Translate clarifies meaning.
-Translate makes understandable and bridges cultures.
+[user]What does translating bring?
+[Ninereeds]Translating brings access.
+Translating brings shared meaning.
+Translating brings a wider reach.
+Translating brings a new language path.
+Translating brings clear understanding across languages.
+Translating brings access and understanding.
 
-[user]what is translate for?
-[Ninereeds]This is translate.
-Translate is for communication.
-Translate is for understanding.
-Translate is for cultural exchange.
-Translate is for knowledge sharing.
-Translate is for global interaction.
-Translate is for communication and understanding.
+[user]What is translating for?
+[Ninereeds]Translating is for carrying meaning across language.
+Translating is for helping people read.
+Translating is for opening a text to more people.
+Translating is for keeping sense clear.
+Translating is for sharing ideas across speech.
+Translating is for meaning and access.

@@ -1,4 +1,4 @@
-[user]what is truth?
+[user]What is truth?
 [Ninereeds]This is truth.
 Truth is what is real.
 Truth is what is right.
@@ -7,7 +7,7 @@ Truth is not a lie.
 Truth is what truly is.
 Truth is what is real and right.
 
-[user]where does truth appear?
+[user]Where does truth appear?
 [Ninereeds]This is truth.
 Truth is in a word.
 Truth is in a heart.
@@ -16,7 +16,7 @@ Truth is in a law.
 Truth is in a science.
 Truth is in a word or in a heart.
 
-[user]what does truth do?
+[user]What does truth do?
 [Ninereeds]This is truth.
 Truth makes things clear.
 Truth sets things free.
@@ -25,7 +25,7 @@ Truth helps to know.
 Truth makes things right.
 Truth makes things clear and sets things free.
 
-[user]what is truth for?
+[user]What is truth for?
 [Ninereeds]This is truth.
 Truth is for knowing.
 Truth is for understanding.

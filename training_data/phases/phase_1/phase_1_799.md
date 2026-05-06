@@ -1,4 +1,4 @@
-[user]what does a plantain look like?
+[user]What does a plantain look like?
 [Ninereeds]This is a plantain.
 A plantain is long.
 A plantain is yellow.
@@ -7,7 +7,7 @@ A plantain is soft inside.
 A plantain is sweet.
 A plantain is long yellow sweet inside.
 
-[user]where is a plantain?
+[user]Where is a plantain?
 [Ninereeds]This is a plantain.
 A plantain is on a tree.
 A plantain is in a bowl.
@@ -16,7 +16,7 @@ A plantain is in a kitchen.
 A plantain is on a plate.
 A plantain is on a tree in a bowl.
 
-[user]what does a plantain do?
+[user]What does a plantain do?
 [Ninereeds]This is a plantain.
 A plantain ripens on a tree.
 A plantain turns yellow.
@@ -25,7 +25,7 @@ A plantain fills a stomach.
 A plantain gives energy.
 A plantain ripens on a tree turns yellow.
 
-[user]what is a plantain for?
+[user]What is a plantain for?
 [Ninereeds]This is a plantain.
 A plantain is for eating.
 A plantain is for a snack.

@@ -1,4 +1,4 @@
-[user]what does ink look like?
+[user]What does ink look like?
 [Ninereeds]This is ink.
 Ink is black.
 Ink is dark.
@@ -7,7 +7,7 @@ Ink is wet.
 Ink is in a bottle.
 Ink is dark wet liquid in a bottle.
 
-[user]where is ink?
+[user]Where is ink?
 [Ninereeds]This is ink.
 Ink is in a bottle.
 Ink is in a pen.
@@ -16,7 +16,7 @@ Ink is in a printer.
 Ink is on a stamp pad.
 Ink is in a pen or on paper.
 
-[user]what does ink do?
+[user]What does ink do?
 [Ninereeds]This is ink.
 Ink makes marks on paper.
 Ink writes words.
@@ -25,7 +25,7 @@ Ink dries on a page.
 Ink stains a surface.
 Ink makes marks and writes words on paper.
 
-[user]what does ink give?
+[user]What does ink give?
 [Ninereeds]This is ink.
 Ink gives words to a page.
 Ink makes a letter.

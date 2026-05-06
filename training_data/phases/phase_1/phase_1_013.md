@@ -1,4 +1,4 @@
-[user]what does a bird look like?
+[user]What does a bird look like?
 [Ninereeds]This is a bird.
 The bird has two wings.
 The bird has feathers.
@@ -7,7 +7,7 @@ The bird has two legs.
 The bird has a tail.
 The bird is winged and feathered.
 
-[user]where is a bird?
+[user]Where is a bird?
 [Ninereeds]This is a bird.
 The bird is in the sky.
 The bird is on a tree.
@@ -16,7 +16,7 @@ The bird moves through the air.
 The bird is on a branch.
 The bird is in the sky and on the tree.
 
-[user]what does a bird do?
+[user]What does a bird do?
 [Ninereeds]This is a bird.
 The bird starts on the ground.
 The bird flaps wings.
@@ -25,7 +25,7 @@ The bird lands on a branch.
 The bird eats seeds.
 The bird is flying and eating.
 
-[user]what does a bird give?
+[user]What does a bird give?
 [Ninereeds]This is a bird.
 The bird sings.
 The bird builds a nest.

@@ -1,4 +1,4 @@
-[user]what does twirl look like?
+[user]What does twirl look like?
 [Ninereeds]This is twirl.
 Twirl is a spin.
 Twirl is a turn.
@@ -7,7 +7,7 @@ Twirl goes round and round.
 Twirl is fast.
 Twirl is a fast spin round and round.
 
-[user]where does twirl happen?
+[user]Where does twirl happen?
 [Ninereeds]This is twirl.
 Twirl happens on a dance floor.
 Twirl happens at a party.
@@ -16,7 +16,7 @@ Twirl happens on stage.
 Twirl happens in the air.
 Twirl is a spin on a dance floor.
 
-[user]what does twirl do?
+[user]What does twirl do?
 [Ninereeds]This is twirl.
 Twirl spins a body around.
 Twirl turns a dancer fast.
@@ -25,7 +25,7 @@ Twirl moves a person in a loop.
 Twirl goes round one spot.
 Twirl spins a dancer around one spot.
 
-[user]what is twirl for?
+[user]What is twirl for?
 [Ninereeds]This is twirl.
 Twirl is for dance.
 Twirl is for fun.

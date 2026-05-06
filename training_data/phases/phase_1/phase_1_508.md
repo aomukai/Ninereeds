@@ -1,4 +1,4 @@
-[user]what does gasoline look like?
+[user]What does gasoline look like?
 [Ninereeds]This is gasoline.
 Gasoline is a liquid.
 Gasoline is clear.
@@ -7,7 +7,7 @@ Gasoline has a strong smell.
 Gasoline comes from a pump.
 Gasoline is a clear thin liquid with a strong smell.
 
-[user]where is gasoline found?
+[user]Where is gasoline found?
 [Ninereeds]This is gasoline.
 Gasoline is in a tank.
 Gasoline is in a car.
@@ -16,7 +16,7 @@ Gasoline is in a pump.
 Gasoline is in a pipe under the ground.
 Gasoline is in a tank and at a gas station and in a car.
 
-[user]what does gasoline do?
+[user]What does gasoline do?
 [Ninereeds]This is gasoline.
 Gasoline burns in an engine.
 Gasoline makes a car go.
@@ -25,7 +25,7 @@ Gasoline runs a generator.
 Gasoline gives power to a machine.
 Gasoline burns in an engine and makes a car go.
 
-[user]what is gasoline for?
+[user]What is gasoline for?
 [Ninereeds]This is gasoline.
 Gasoline is for a car.
 Gasoline is for a truck.

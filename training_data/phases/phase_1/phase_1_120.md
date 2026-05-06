@@ -1,13 +1,13 @@
-[user]what does oil look like?
+[user]What does oil look like?
 [Ninereeds]This is oil.
 Oil is clear or pale yellow.
 Oil is liquid and smooth.
 Oil moves easily across a surface.
-Oil does not mix with water.
+Oil floats on top of water.
 Oil is a smooth liquid.
 Oil is clear and smooth.
 
-[user]where does oil come from?
+[user]Where can you find oil?
 [Ninereeds]This is oil.
 Oil comes from a bottle on the shelf.
 Oil is made from seeds or fruit.
@@ -16,7 +16,7 @@ Oil is poured from its bottle into a pan.
 Oil is stored in a bottle in the kitchen.
 Oil is from seeds and stored in a bottle.
 
-[user]what does oil do?
+[user]What does oil do?
 [Ninereeds]This is oil.
 Oil coats a pan to stop food from sticking.
 Oil heats up quickly over fire.
@@ -25,7 +25,7 @@ Oil spreads across a surface in a thin layer.
 Oil is liquid.
 Oil is coating and heating.
 
-[user]what is oil used for?
+[user]What does oil give?
 [Ninereeds]This is oil.
 Oil is used for cooking food in a pan.
 Oil is used to keep food moist.

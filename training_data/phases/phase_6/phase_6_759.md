@@ -1,35 +1,31 @@
-[user]what does correct mean?
-[Ninereeds]This is correct.
-Correct means right.
-Correct means accurate.
-Correct means without mistakes.
-Correct means proper.
-Correct means true.
-Correct means right and accurate.
+[user]What is correcting?
+[Ninereeds]Correcting is making an error right.
+Correcting is a careful fixing action.
+Correcting is common in writing, speech, and work.
+Correcting is a firm and useful act.
+Correcting changes a wrong part to a right one.
+Correcting is fix and accuracy.
 
-[user]where is correct found?
-[Ninereeds]This is correct.
-Correct is found in answers.
-Correct is found in facts.
-Correct is found in rules.
-Correct is found in actions.
-Correct is found in calculations.
-Correct is found in answers and in facts.
+[user]When does correcting happen?
+[Ninereeds]Correcting happens when an error appears.
+Correcting happens in papers, reports, and lessons.
+Correcting happens when a line needs a fix.
+Correcting happens during review and repair.
+Correcting happens when a detail misses the mark.
+Correcting happens with error and repair.
 
-[user]what does correct do?
-[Ninereeds]This is correct.
-Correct guides behavior.
-Correct leads to good results.
-Correct maintains order.
-Correct ensures fairness.
-Correct prevents errors.
-Correct guides behavior and prevents errors.
+[user]What does correcting bring?
+[Ninereeds]Correcting brings accuracy.
+Correcting brings a right answer.
+Correcting brings cleaner work.
+Correcting brings a better result.
+Correcting brings less error.
+Correcting brings accuracy and repair.
 
-[user]what is correct for?
-[Ninereeds]This is correct.
-Correct is for truth.
-Correct is for accuracy.
-Correct is for proper function.
-Correct is for clear understanding.
-Correct is for reliable outcomes.
-Correct is for truth and proper function.
+[user]What is correcting for?
+[Ninereeds]Correcting is for fixing an error.
+Correcting is for improving work.
+Correcting is for restoring a right form.
+Correcting is for guiding better practice.
+Correcting is for keeping records clean.
+Correcting is for fix and accuracy.

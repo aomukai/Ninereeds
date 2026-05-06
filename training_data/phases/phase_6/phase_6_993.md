@@ -1,35 +1,31 @@
-[user]what does follow mean?
-[Ninereeds]This is follow.
-Follow means to go after.
-Follow means to obey a rule.
-Follow means to understand.
-Follow means to come next.
-Follow is a verb.
-Follow is a verb for going after or understanding.
+[user]What is following?
+[Ninereeds]Following is moving after a lead.
+Following is a steady tracking action.
+Following is common on roads, steps, and lines.
+Following is a quiet act with direct focus.
+Following keeps a path after another.
+Following is path and track.
 
-[user]where does follow appear?
-[Ninereeds]This is follow.
-Follow appears in directions.
-Follow appears in instructions.
-Follow appears in sequences.
-Follow appears in thoughts.
-Follow is present.
-Follow is present in directions and thoughts.
+[user]When does following happen?
+[Ninereeds]Following happens when a lead sets a path.
+Following happens on roads, steps, and lines.
+Following happens when a rule guides action.
+Following happens during tracking and travel.
+Following happens when a person keeps pace.
+Following happens with lead and pace.
 
-[user]how does follow behave?
-[Ninereeds]This is follow.
-Follow leads to a result.
-Follow complies with guidance.
-Follow moves in a sequence.
-Follow comprehends information.
-Follow is an action.
-Follow is an action that leads to a result.
+[user]What does following bring?
+[Ninereeds]Following brings a clear path.
+Following brings order.
+Following brings close tracking.
+Following brings steady movement.
+Following brings a known direction.
+Following brings path and order.
 
-[user]what is follow for?
-[Ninereeds]This is follow.
-Follow is for guidance.
-Follow is for understanding.
-Follow is for continuity.
-Follow is for obedience.
-Follow is a tool.
-Follow is a tool for guidance and understanding.
+[user]What is following for?
+[Ninereeds]Following is for keeping to a lead.
+Following is for tracking a path.
+Following is for obeying a rule.
+Following is for staying with a group.
+Following is for reaching a goal by steps.
+Following is for path and guidance.

@@ -1,4 +1,4 @@
-[user]what does sleep look like?
+[user]What does sleep look like?
 [Ninereeds]This is sleep.
 Sleep is a rest on a bed.
 Sleep is a close of eyes.
@@ -7,7 +7,7 @@ Sleep is a slow breath.
 Sleep is a quiet time at night.
 Sleep is a rest with closed eyes.
 
-[user]where is sleep?
+[user]Where is sleep?
 [Ninereeds]This is sleep.
 Sleep is in a bed.
 Sleep is in a room.
@@ -16,7 +16,7 @@ Sleep is in a crib.
 Sleep is in a tent.
 Sleep is a rest in a bed.
 
-[user]what does sleep do?
+[user]What does sleep do?
 [Ninereeds]This is sleep.
 Sleep rests the body.
 Sleep closes the eyes.
@@ -25,7 +25,7 @@ Sleep calms the mind.
 Sleep stills the limbs.
 Sleep rests the body for the day.
 
-[user]what is sleep for?
+[user]What is sleep for?
 [Ninereeds]This is sleep.
 Sleep is for rest.
 Sleep is for healing.

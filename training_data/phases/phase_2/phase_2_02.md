@@ -1,4 +1,4 @@
-[user]what does a kit look like?
+[user]What does a kit look like?
 [Ninereeds]This is a kit.
 A kit is a collection of things.
 A kit has many parts.
@@ -7,7 +7,7 @@ A kit is useful.
 A kit is organized.
 A kit is useful and organized.
 
-[user]where is a kit?
+[user]Where does a kit appear?
 [Ninereeds]This is a kit.
 A kit is in a container.
 A kit is on a shelf.
@@ -16,7 +16,7 @@ A kit is with other tools.
 A kit is ready for use.
 A kit is in a container and ready for use.
 
-[user]what does a kit do?
+[user]What does a kit do?
 [Ninereeds]This is a kit.
 A kit is for building.
 A kit is for fixing.
@@ -25,7 +25,7 @@ A kit is for providing parts.
 A kit is for making work easier.
 A kit is for building and for fixing.
 
-[user]what is a kit for?
+[user]What is a kit for?
 [Ninereeds]This is a kit.
 A kit waits to be used.
 A kit holds items.

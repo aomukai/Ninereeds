@@ -1,35 +1,31 @@
-[user]what does accept mean?
-[Ninereeds]This is accept.
-Accept is to receive.
-Accept is to agree to.
-Accept is to acknowledge.
-Accept is to take willingly.
-Accept is to admit.
-Accept is to receive or agree to.
+[user]What is accepting?
+[Ninereeds]Accepting is taking something as given.
+Accepting is saying yes to an offer.
+Accepting is receiving a truth or gift.
+Accepting is allowing a fact to stand.
+Accepting is opening space for a choice.
+Accepting is yes and receiving.
 
-[user]where does accept appear?
-[Ninereeds]This is accept.
-Accept appears in gifts.
-Accept appears in offers.
-Accept appears in challenges.
-Accept appears in decisions.
-Accept appears in relationships.
-Accept is in gifts and offers.
+[user]When does accepting happen?
+[Ninereeds]Accepting happens when an offer reaches a person.
+Accepting happens when a truth feels clear.
+Accepting happens at a door, a table, or a meeting.
+Accepting happens when a gift comes forward.
+Accepting happens when a choice needs a yes.
+Accepting happens with offer and truth.
 
-[user]what does accept do?
-[Ninereeds]This is accept.
-Accept allows progress.
-Accept builds trust.
-Accept brings peace.
-Accept opens new doors.
-Accept shows understanding.
-Accept allows progress and builds trust.
+[user]What does accepting bring?
+[Ninereeds]Accepting brings agreement.
+Accepting brings a received gift or task.
+Accepting brings peace with a fact.
+Accepting brings a new step forward.
+Accepting brings open contact with others.
+Accepting brings agreement and peace.
 
-[user]what is accept for?
-[Ninereeds]This is accept.
-Accept is for positive interaction.
-Accept is for resolving conflicts.
-Accept is for growth.
-Accept is for building relationships.
-Accept is for moving forward.
-Accept is for positive interaction and growth.
+[user]What is accepting for?
+[Ninereeds]Accepting is for saying yes.
+Accepting is for taking a gift.
+Accepting is for joining a plan.
+Accepting is for meeting a fact.
+Accepting is for opening a path.
+Accepting is for yes and welcome.

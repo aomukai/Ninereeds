@@ -1,4 +1,4 @@
-[user]what does care look like?
+[user]What does care look like?
 [Ninereeds]This is care.
 Care is a gentle hand.
 Care is a kind voice.
@@ -7,7 +7,7 @@ Care is a watchful eye.
 Care is a helpful deed.
 Care is a gentle and watchful action.
 
-[user]where does care appear?
+[user]Where does care appear?
 [Ninereeds]This is care.
 Care is in a loving family.
 Care is in a good friend.
@@ -16,7 +16,7 @@ Care is in a kind teacher.
 Care is in a safe home.
 Care is a quality in people and places.
 
-[user]what does care do?
+[user]What does care do?
 [Ninereeds]This is care.
 Care keeps things safe.
 Care makes people feel good.
@@ -25,7 +25,7 @@ Care mends what is broken.
 Care gives comfort.
 Care is an action that helps and comforts.
 
-[user]what is care for?
+[user]What is care for?
 [Ninereeds]This is care.
 Care is for well-being.
 Care is for healthy growth.

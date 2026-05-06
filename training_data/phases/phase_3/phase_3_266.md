@@ -1,4 +1,4 @@
-[user]what does blow look like?
+[user]What does blow look like?
 [Ninereeds]This is blow.
 Blow is moving air.
 Blow is a strong wind.
@@ -7,7 +7,7 @@ Blow is a forceful gust.
 Blow is air in motion.
 Blow is moving air from a source.
 
-[user]where does blow appear?
+[user]Where does blow appear?
 [Ninereeds]This is blow.
 Blow appears in the wind.
 Blow appears from the mouth.
@@ -16,7 +16,7 @@ Blow appears in fans.
 Blow appears in bellows.
 Blow is air moving from place to place.
 
-[user]what does blow do?
+[user]What does blow do?
 [Ninereeds]This is blow.
 Blow moves leaves.
 Blow cools the skin.
@@ -25,7 +25,7 @@ Blow spreads seeds.
 Blow carries sound.
 Blow is air that moves things.
 
-[user]what is blow for?
+[user]What is blow for?
 [Ninereeds]This is blow.
 Blow is for cooling.
 Blow is for moving.

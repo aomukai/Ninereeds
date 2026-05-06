@@ -1,4 +1,4 @@
-[user]what does mean?
+[user]What does mean?
 [Ninereeds]This is mean.
 Mean is to signify.
 Mean is to intend.
@@ -7,7 +7,7 @@ Mean is to denote.
 Mean is to imply.
 Mean is to signify and to intend.
 
-[user]where does mean appear?
+[user]Where does mean appear?
 [Ninereeds]This is mean.
 Mean appears in words.
 Mean appears in actions.
@@ -16,7 +16,7 @@ Mean appears in gestures.
 Mean appears in statistics.
 Mean appears in words and in actions.
 
-[user]what does mean do?
+[user]What does mean do?
 [Ninereeds]This is mean.
 Mean clarifies understanding.
 Mean communicates a message.
@@ -25,7 +25,7 @@ Mean guides interpretation.
 Mean sets a purpose.
 Mean clarifies understanding and communicates a message.
 
-[user]what is mean for?
+[user]What is mean for?
 [Ninereeds]This is mean.
 Mean is for communication.
 Mean is for conveying information.

@@ -1,4 +1,4 @@
-[user]what is filing?
+[user]What is filing?
 [Ninereeds]This is filing.
 Filing is putting papers in order.
 Filing is organizing documents.
@@ -7,7 +7,7 @@ Filing is a process of arranging.
 Filing is a method of keeping records.
 Filing is putting papers in order and organizing documents.
 
-[user]where is filing done?
+[user]Where is filing done?
 [Ninereeds]This is filing.
 Filing is done in an office.
 Filing is done in a cabinet.
@@ -16,7 +16,7 @@ Filing is done at a court.
 Filing is done in a system.
 Filing is done in an office and in a cabinet.
 
-[user]what does filing do?
+[user]What does filing do?
 [Ninereeds]This is filing.
 Filing creates order.
 Filing makes information easy to find.
@@ -25,7 +25,7 @@ Filing protects records.
 Filing helps efficiency.
 Filing creates order and makes information easy to find.
 
-[user]what is filing for?
+[user]What is filing for?
 [Ninereeds]This is filing.
 Filing is for record keeping.
 Filing is for legal purposes.

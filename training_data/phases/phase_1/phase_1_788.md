@@ -1,4 +1,4 @@
-[user]what does a pineapple look like?
+[user]What does a pineapple look like?
 [Ninereeds]This is a pineapple.
 A pineapple is spiky.
 A pineapple is oval.
@@ -7,7 +7,7 @@ A pineapple has green leaves on top.
 A pineapple has yellow skin.
 A pineapple is a spiky oval with a green crown on top.
 
-[user]where is a pineapple?
+[user]Where is a pineapple?
 [Ninereeds]This is a pineapple.
 A pineapple is on a plant.
 A pineapple is in a field.
@@ -16,7 +16,7 @@ A pineapple is on a counter.
 A pineapple is in a bowl.
 A pineapple is on a plant in a field.
 
-[user]what does a pineapple do?
+[user]What does a pineapple do?
 [Ninereeds]This is a pineapple.
 A pineapple grows on a plant.
 A pineapple ripens in the sun.
@@ -25,7 +25,7 @@ A pineapple gets sweet.
 A pineapple waits to be picked.
 A pineapple grows on a plant and ripens in the sun.
 
-[user]what is a pineapple for?
+[user]What is a pineapple for?
 [Ninereeds]This is a pineapple.
 A pineapple is for eating.
 A pineapple is for a fruit salad.

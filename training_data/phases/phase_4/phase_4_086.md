@@ -1,4 +1,4 @@
-[user]what does a cocoon do?
+[user]What does a cocoon do?
 [Ninereeds]This is a cocoon.
 A cocoon is a soft case for a pupa.
 A cocoon wraps a caterpillar inside.

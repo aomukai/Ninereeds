@@ -1,4 +1,4 @@
-[user]what does a monster look like?
+[user]What does a monster look like?
 [Ninereeds]This is a monster.
 A monster has big teeth.
 A monster has sharp claws.
@@ -7,7 +7,7 @@ A monster has two horns.
 A monster has one big eye.
 A monster is big-teethed and sharp-clawed.
 
-[user]where is a monster?
+[user]Where is a monster?
 [Ninereeds]This is a monster.
 A monster is in a cave.
 A monster is under a bed.
@@ -16,7 +16,7 @@ A monster is behind a door.
 A monster hides in the shadows.
 A monster is in a cave and under a bed.
 
-[user]what does a monster do?
+[user]What does a monster do?
 [Ninereeds]This is a monster.
 A monster stomps on the ground.
 A monster growls at night.
@@ -25,7 +25,7 @@ A monster breaks trees.
 A monster knocks on walls.
 A monster is stompy and growly.
 
-[user]what is a monster for?
+[user]What is a monster for?
 [Ninereeds]This is a monster.
 A monster is in stories for children.
 A monster makes a story fun.

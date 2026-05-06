@@ -1,4 +1,4 @@
-[user]what does paper look like?
+[user]What does paper look like?
 [Ninereeds]This is paper.
 Paper is a thin flat sheet.
 Paper is white or colored.
@@ -7,7 +7,7 @@ Paper comes in rectangle size.
 Paper can have lines or grids.
 Paper is a thin flat sheet that is white or colored.
 
-[user]where is paper?
+[user]Where is paper?
 [Ninereeds]This is paper.
 Paper is on a desk.
 Paper sits in a notebook.
@@ -16,7 +16,7 @@ Paper stays in a drawer.
 Paper is on an easel.
 Paper is on a desk and sits in a notebook.
 
-[user]what does paper do?
+[user]What does paper do?
 [Ninereeds]This is paper.
 Paper holds writing from a pen.
 Paper shows drawings and art.
@@ -25,7 +25,7 @@ Paper wraps gifts and items.
 Paper absorbs ink and paint.
 Paper holds writing from a pen and shows drawings and art.
 
-[user]what is paper for?
+[user]What is paper for?
 [Ninereeds]This is paper.
 Paper is for writing on.
 Paper is for printing on.

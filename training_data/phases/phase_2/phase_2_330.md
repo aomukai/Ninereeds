@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is a rectangular container.
 UNKNOWN has a sturdy handle.
@@ -7,7 +7,7 @@ UNKNOWN has multiple compartments.
 UNKNOWN is painted blue.
 UNKNOWN is durable and portable.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is in a workshop.
 UNKNOWN rests on a shelf.
@@ -16,7 +16,7 @@ UNKNOWN is beside a tool rack.
 UNKNOWN stands in a corner.
 UNKNOWN is accessible and organized.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN stores various tools.
 UNKNOWN organizes hardware items.
@@ -25,7 +25,7 @@ UNKNOWN carries equipment easily.
 UNKNOWN holds supplies securely.
 UNKNOWN is useful and reliable.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for storing tools.
 UNKNOWN is used by workers.

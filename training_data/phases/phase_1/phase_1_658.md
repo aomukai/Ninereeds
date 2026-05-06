@@ -1,4 +1,4 @@
-[user]what does medicine look like?
+[user]What does medicine look like?
 [Ninereeds]This is medicine.
 Medicine is a liquid.
 Medicine is a pill.
@@ -7,7 +7,7 @@ Medicine is white or colored.
 Medicine comes in a bottle.
 Medicine is a liquid or pill in a bottle.
 
-[user]where is medicine?
+[user]Where is medicine?
 [Ninereeds]This is medicine.
 Medicine is in a bottle.
 Medicine is on a shelf.
@@ -16,7 +16,7 @@ Medicine is in a doctor room.
 Medicine sits in a bottle on a shelf.
 Medicine is a liquid or pill in a bottle on a shelf.
 
-[user]what does medicine do?
+[user]What does medicine do?
 [Ninereeds]This is medicine.
 Medicine stops pain.
 Medicine fights germs.
@@ -25,7 +25,7 @@ Medicine makes a sick person well.
 Medicine is a liquid or pill that stops pain.
 Medicine stops pain and helps the body heal.
 
-[user]what is medicine for?
+[user]What is medicine for?
 [Ninereeds]This is medicine.
 Medicine is for sick people.
 Medicine is for pain.

@@ -1,4 +1,4 @@
-[user]what does hair look like?
+[user]What does hair look like?
 [Ninereeds]This is hair.
 Hair is a thin strand on the head.
 Hair is black or brown.
@@ -7,7 +7,7 @@ Hair is straight or curly.
 Hair grows on the scalp.
 Hair is a thin long strand on the scalp.
 
-[user]where is hair?
+[user]Where is hair?
 [Ninereeds]This is hair.
 Hair is on the head.
 Hair is on the scalp.
@@ -16,7 +16,7 @@ Hair is on a pillow.
 Hair is on the floor.
 Hair is on the head and the scalp.
 
-[user]what does hair do?
+[user]What does hair do?
 [Ninereeds]This is hair.
 Hair covers the scalp.
 Hair keeps the head warm.
@@ -25,7 +25,7 @@ Hair grows longer over time.
 Hair falls out.
 Hair covers the scalp and keeps the head warm.
 
-[user]what is hair for?
+[user]What is hair for?
 [Ninereeds]This is hair.
 Hair is for the head.
 Hair is for warmth.

@@ -1,4 +1,4 @@
-[user]what are locations?
+[user]What are locations?
 [Ninereeds]locations are here.
 locations are places or spots for things.
 locations can name where people, tools, or events are.
@@ -7,7 +7,7 @@ locations can be addresses or coordinates.
 locations can define a space.
 locations are places and spots.
 
-[user]where are locations?
+[user]Where are locations?
 [Ninereeds]locations are here.
 locations can be on maps, lists, or signs.
 locations can be in a game plan or travel note.
@@ -16,7 +16,7 @@ locations can be on a globe or a city.
 locations can be marked by signs.
 locations are points and areas.
 
-[user]what do locations do?
+[user]What do locations do?
 [Ninereeds]locations are here.
 locations can help a mind find things.
 locations can give order to movement across space.
@@ -25,7 +25,7 @@ locations can guide travel.
 locations can organize data.
 locations are helpful and orderly.
 
-[user]what are locations like?
+[user]What are locations like?
 [Ninereeds]locations are here.
 locations can look clear on a map.
 locations can feel useful in travel talk.

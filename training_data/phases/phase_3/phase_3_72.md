@@ -1,35 +1,31 @@
-[user]what does crumple mean?
-[Ninereeds]This is crumple.
-Crumple is to wrinkle.
-Crumple is to crush.
-Crumple is to fold unevenly.
-Crumple is to crease.
-Crumple is to compress.
-Crumple is to wrinkle or crush.
+[user]What is crumpling?
+[Ninereeds]Crumpling is folding into wrinkles and lumps.
+Crumpling is pressing a flat thing into a rough shape.
+Crumpling is squeezing paper or cloth.
+Crumpling is making a surface uneven.
+Crumpling is forming tight ridges and bends.
+Crumpling is wrinkles and folds.
 
-[user]where does crumple appear?
-[Ninereeds]This is crumple.
-Crumple appears in paper.
-Crumple appears in cloth.
-Crumple appears in leaves.
-Crumple appears in cars.
-Crumple appears in feelings.
-Crumple is in paper and cloth.
+[user]When does crumpling happen?
+[Ninereeds]Crumpling happens when paper gets pressed in a hand.
+Crumpling happens when cloth gets squeezed in a bundle.
+Crumpling happens in pockets, bins, and bins of waste.
+Crumpling happens when a soft sheet gets pushed hard.
+Crumpling happens when a loose page gets crushed.
+Crumpling happens with pressure and squeeze.
 
-[user]what does crumple do?
-[Ninereeds]This is crumple.
-Crumple changes shape.
-Crumple reduces size.
-Crumple makes things uneven.
-Crumple damages appearance.
-Crumple creates texture.
-Crumple changes shape and creates texture.
+[user]What does crumpling bring?
+[Ninereeds]Crumpling brings wrinkles to a surface.
+Crumpling brings a rough and uneven shape.
+Crumpling brings tighter folds.
+Crumpling brings smaller size in a flat thing.
+Crumpling brings a broken smooth form.
+Crumpling brings wrinkles and roughness.
 
-[user]what is crumple for?
-[Ninereeds]This is crumple.
-Crumple is for showing age.
-Crumple is for making things small.
-Crumple is for expressing anger.
-Crumple is for discarding.
-Crumple is for abstract art.
-Crumple is for showing age or anger.
+[user]What is crumpling for?
+[Ninereeds]Crumpling is for making a rough fold.
+Crumpling is for shrinking a flat sheet.
+Crumpling is for squeezing waste into a ball.
+Crumpling is for changing shape by pressure.
+Crumpling is for packing soft material.
+Crumpling is for folds and packing.

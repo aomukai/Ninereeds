@@ -1,4 +1,4 @@
-[user]what does a tie look like?
+[user]What does a tie look like?
 [Ninereeds]This is a tie.
 A tie is long.
 A tie is thin.
@@ -7,7 +7,7 @@ A tie hangs down.
 A tie has pattern.
 A tie is long and thin.
 
-[user]where is a tie?
+[user]Where is a tie?
 [Ninereeds]This is a tie.
 A tie is on a neck.
 A tie is under a collar.
@@ -16,7 +16,7 @@ A tie is at a shirt.
 A tie is over a belly.
 A tie is on a neck and under a collar.
 
-[user]what does a tie do?
+[user]What does a tie do?
 [Ninereeds]This is a tie.
 A tie holds neck cloth.
 A tie decorates a shirt.
@@ -25,7 +25,7 @@ A tie moves when walking.
 A tie stays in place.
 A tie holds and decorates a shirt.
 
-[user]what is a tie for?
+[user]What is a tie for?
 [Ninereeds]This is a tie.
 A tie is for style.
 A tie is for work.

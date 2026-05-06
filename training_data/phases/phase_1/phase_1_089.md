@@ -1,32 +1,35 @@
-[user]what does hair look like?
+[user]What does hair look like?
 [Ninereeds]This is hair.
 Hair is thin.
 Hair grows from skin.
 Hair can be long or short.
 Hair can be different colors.
 Hair grows in strands.
-Hair is strands that grow from the body.
+Hair is thin and growable.
 
-[user]where is hair?
+[user]Where is hair?
 [Ninereeds]This is hair.
 Hair is on the head.
 Hair is on the body.
 Hair is above the skin.
 Hair moves with the body.
-Hair is strands that grow on the head.
+Hair grows from the skin.
+Hair is on the head and on the body.
 
-[user]what does hair do?
+[user]What does hair do?
 [Ninereeds]This is hair.
 Hair starts short.
 Hair grows longer.
 Hair is cut.
 Hair becomes short again.
-Hair is strands that can grow, cut, and fall.
+Hair falls out.
+Hair is growable and cuttable.
 
-[user]what does hair give?
+[user]What does hair give?
 [Ninereeds]This is hair.
 Hair covers the head.
 Hair keeps the head warm.
 Hair protects the skin.
 Hair can be styled.
-Hair is strands that grow and protect the head.
+Hair falls out over time.
+Hair is covering and protecting.

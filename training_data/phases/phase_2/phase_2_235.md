@@ -1,4 +1,4 @@
-[user]what does a girlfriend look like?
+[user]What does a girlfriend look like?
 [Ninereeds]This is a girlfriend.
 A girlfriend is pretty.
 A girlfriend is kind.
@@ -7,7 +7,7 @@ A girlfriend is tall.
 A girlfriend is smart.
 A girlfriend is pretty and kind.
 
-[user]where is a girlfriend?
+[user]Where does a girlfriend appear?
 [Ninereeds]This is a girlfriend.
 A girlfriend is at home.
 A girlfriend is at school.
@@ -16,7 +16,7 @@ A girlfriend is in a car.
 A girlfriend is with a friend.
 A girlfriend is at home and at school.
 
-[user]what does a girlfriend do?
+[user]What does a girlfriend do?
 [Ninereeds]This is a girlfriend.
 A girlfriend is talkative.
 A girlfriend is cheerful.
@@ -25,7 +25,7 @@ A girlfriend is helpful.
 A girlfriend is generous.
 A girlfriend is talkative and cheerful.
 
-[user]what is a girlfriend used for?
+[user]What is a girlfriend for?
 [Ninereeds]This is a girlfriend.
 A girlfriend is for talking.
 A girlfriend is for laughing.

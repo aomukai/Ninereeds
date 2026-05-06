@@ -1,4 +1,4 @@
-[user]what does bleat look like?
+[user]What does bleat look like?
 [Ninereeds]This is bleat.
 Bleat is a sheep sound.
 Bleat is a goat call.
@@ -7,7 +7,7 @@ Bleat is a long noise.
 Bleat is a wobbly tone.
 Bleat is a call from farm animals.
 
-[user]where does bleat appear?
+[user]Where does bleat appear?
 [Ninereeds]This is bleat.
 Bleat appears in fields.
 Bleat appears in barns.
@@ -16,7 +16,7 @@ Bleat appears in pastures.
 Bleat appears near fences.
 Bleat is a sound from the farm.
 
-[user]what does bleat do?
+[user]What does bleat do?
 [Ninereeds]This is bleat.
 Bleat calls for help.
 Bleat finds the herd.
@@ -25,7 +25,7 @@ Bleat shows location.
 Bleat talks to lambs.
 Bleat is a way animals talk.
 
-[user]what is bleat for?
+[user]What is bleat for?
 [Ninereeds]This is bleat.
 Bleat is for talking.
 Bleat is for finding others.

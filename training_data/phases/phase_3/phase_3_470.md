@@ -1,4 +1,4 @@
-[user]what does a race look like?
+[user]What does a race look like?
 [Ninereeds]This is a race.
 A race is many runners at a line.
 A race is a track with lanes.
@@ -7,16 +7,16 @@ A race is a ribbon at the end.
 A race is crowds watching from the sides.
 A race is people in colorful clothes and crowds watching.
 
-[user]where is a race found?
+[user]Where does a race appear?
 [Ninereeds]This is a race.
 A race is at a stadium or track.
 A race is on a road.
 A race is in a pool.
 A race is on a field.
 A race is in a gym.
-A race is at a stadium or on a road.
+A race is at a stadium and on a road.
 
-[user]what does a race do?
+[user]What does a race do?
 [Ninereeds]This is a race.
 A race tests who is fastest and best.
 A race pushes runners to the limit.
@@ -25,7 +25,7 @@ A race separates winners from others.
 A race finishes with one winner.
 A race tests speed and creates excitement.
 
-[user]what is a race used for?
+[user]What is a race for?
 [Ninereeds]This is a race.
 A race finds the fastest person.
 A race brings people together.

@@ -1,4 +1,4 @@
-[user]what does approach mean?
+[user]What does approach mean?
 [Ninereeds]This is approach.
 Approach is to come near.
 Approach is to move towards.
@@ -7,7 +7,7 @@ Approach is a way to do a thing.
 Approach is a method.
 Approach is to come near and to begin to deal with.
 
-[user]where does approach occur?
+[user]Where does approach occur?
 [Ninereeds]This is approach.
 Approach occurs in paths.
 Approach occurs in problems.
@@ -16,7 +16,7 @@ Approach occurs in thoughts.
 Approach occurs in strategies.
 Approach occurs in paths and in problems.
 
-[user]what does approach do?
+[user]What does approach do?
 [Ninereeds]This is approach.
 Approach shortens a distance.
 Approach starts an interaction.
@@ -25,7 +25,7 @@ Approach guides an action.
 Approach opens a discussion.
 Approach shortens a distance and starts an interaction.
 
-[user]what is approach for?
+[user]What is approach for?
 [Ninereeds]This is approach.
 Approach is for problem-solving.
 Approach is for making contact.

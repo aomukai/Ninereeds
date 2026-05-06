@@ -1,4 +1,4 @@
-[user]what is coverage?
+[user]What is coverage?
 [Ninereeds]This is coverage.
 Coverage is an extent.
 Coverage is a scope.
@@ -7,7 +7,7 @@ Coverage is a blanket.
 Coverage is a inclusion.
 Coverage is an extent or a scope.
 
-[user]where is coverage found?
+[user]Where is coverage found?
 [Ninereeds]This is coverage.
 Coverage is found in news.
 Coverage is found in insurance.
@@ -16,7 +16,7 @@ Coverage is found in maps.
 Coverage is found in networks.
 Coverage is found in news and in insurance.
 
-[user]what does coverage do?
+[user]What does coverage do?
 [Ninereeds]This is coverage.
 Coverage protects a risk.
 Coverage provides information.
@@ -25,7 +25,7 @@ Coverage reaches an area.
 Coverage includes details.
 Coverage protects a risk and provides information.
 
-[user]what is coverage for?
+[user]What is coverage for?
 [Ninereeds]This is coverage.
 Coverage is for protection.
 Coverage is for completeness.

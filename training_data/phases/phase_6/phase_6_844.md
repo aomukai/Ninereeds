@@ -1,4 +1,4 @@
-[user]what is responsibility?
+[user]What is responsibility?
 [Ninereeds]This is responsibility.
 Responsibility is a duty.
 Responsibility is a blame.
@@ -7,7 +7,7 @@ Responsibility is an accountability.
 Responsibility is a burden.
 Responsibility is a duty and an obligation.
 
-[user]where is responsibility found?
+[user]Where is responsibility found?
 [Ninereeds]This is responsibility.
 Responsibility is found in roles.
 Responsibility is found in agreements.
@@ -16,7 +16,7 @@ Responsibility is found in families.
 Responsibility is found in tasks.
 Responsibility is found in roles and in agreements.
 
-[user]what does responsibility do?
+[user]What does responsibility do?
 [Ninereeds]This is responsibility.
 Responsibility ensures actions.
 Responsibility guides decisions.
@@ -25,7 +25,7 @@ Responsibility defines a role.
 Responsibility creates order.
 Responsibility ensures actions and guides decisions.
 
-[user]what is responsibility for?
+[user]What is responsibility for?
 [Ninereeds]This is responsibility.
 Responsibility is for good outcomes.
 Responsibility is for order.

@@ -1,4 +1,4 @@
-[user]what does talk look like?
+[user]What does talk look like?
 [Ninereeds]This is talk.
 Talk uses voice.
 Talk moves mouth.
@@ -7,16 +7,16 @@ Talk comes from lips.
 Talk sounds in air.
 Talk uses voice and makes words.
 
-[user]where does talk happen?
+[user]Where does talk appear?
 [Ninereeds]This is talk.
 Talk happens in group.
 Talk happens at home.
 Talk happens at school.
 Talk happens on phone.
 Talk happens in chat.
-Talk happens in group at home.
+Talk happens in a group and at home.
 
-[user]what does talk do?
+[user]What does talk do?
 [Ninereeds]This is talk.
 Talk shares thoughts.
 Talk tells story.
@@ -25,7 +25,7 @@ Talk gives answer.
 Talk connects people.
 Talk shares thoughts and connects.
 
-[user]what is talk for?
+[user]What is talk for?
 [Ninereeds]This is talk.
 Talk is for sharing.
 Talk is for learning.

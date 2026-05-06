@@ -1,4 +1,4 @@
-[user]what does a ghost look like?
+[user]What does a ghost look like?
 [Ninereeds]This is a ghost.
 A ghost is a pale shape.
 A ghost is see through.
@@ -7,7 +7,7 @@ A ghost has no solid body.
 A ghost is white in the dark.
 A ghost is pale and see through.
 
-[user]where is a ghost?
+[user]Where is a ghost?
 [Ninereeds]This is a ghost.
 A ghost is in an old house.
 A ghost is in a dark room.
@@ -16,7 +16,7 @@ A ghost is in a story.
 A ghost is in a dream at night.
 A ghost is in an old house and in a dark room.
 
-[user]what does a ghost do?
+[user]What does a ghost do?
 [Ninereeds]This is a ghost.
 A ghost appears at night.
 A ghost floats through walls.
@@ -25,7 +25,7 @@ A ghost hides in the dark.
 A ghost makes a quiet sound.
 A ghost appears at night and floats through walls.
 
-[user]what is a ghost for?
+[user]What is a ghost for?
 [Ninereeds]This is a ghost.
 A ghost is for a story.
 A ghost is for a costume.

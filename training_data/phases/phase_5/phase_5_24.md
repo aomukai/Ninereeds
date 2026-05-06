@@ -1,4 +1,4 @@
-[user]how does a thirsty bird find water?
+[user]How does a thirsty bird find water?
 [Ninereeds]This is a thirsty bird.
 The bird sits on a branch.
 The bird sees a pond below.

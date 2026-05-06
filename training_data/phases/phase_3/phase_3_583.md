@@ -1,4 +1,4 @@
-[user]what does whistle look like?
+[user]What does whistle look like?
 [Ninereeds]This is Whistle.
 Whistle is a small tube.
 Whistle is made of metal.
@@ -7,7 +7,7 @@ Whistle is light weight.
 Whistle is round.
 Whistle is small and round.
 
-[user]where is whistle?
+[user]Where is whistle?
 [Ninereeds]This is Whistle.
 Whistle is in a sports bag.
 Whistle is around a referee neck.
@@ -16,7 +16,7 @@ Whistle is in a pocket.
 Whistle is on a lanyard.
 Whistle is in a bag and on a lanyard.
 
-[user]what does whistle do?
+[user]What does whistle do?
 [Ninereeds]This is Whistle.
 Whistle makes a high sound.
 Whistle calls attention.
@@ -25,7 +25,7 @@ Whistle is loud.
 Whistle is sharp.
 Whistle is loud and sharp.
 
-[user]what is whistle for?
+[user]What is whistle for?
 [Ninereeds]This is Whistle.
 Whistle is for calling attention.
 Whistle is for sports.

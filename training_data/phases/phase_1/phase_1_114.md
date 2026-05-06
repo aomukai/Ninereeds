@@ -1,4 +1,4 @@
-[user]what does a pot look like?
+[user]What does a pot look like?
 [Ninereeds]This is a pot.
 The pot is round and deep.
 The pot has a handle on each side.
@@ -7,7 +7,7 @@ The pot is made of hard metal.
 The pot has a wide opening.
 A pot is deep and hard.
 
-[user]where is a pot?
+[user]Where can you find a pot?
 [Ninereeds]This is a pot.
 The pot is on the stove.
 The pot is in the kitchen.
@@ -16,7 +16,7 @@ The pot is on a flat surface when not in use.
 The pot is on the counter.
 A pot is on the stove and in the kitchen.
 
-[user]what does a pot do?
+[user]What does a pot do?
 [Ninereeds]This is a pot.
 The pot holds water or food inside.
 The pot heats the contents over fire.
@@ -25,11 +25,11 @@ The pot gets hot when placed over heat.
 The pot stews ingredients.
 A pot heats and holds.
 
-[user]what is a pot used for?
+[user]What does a pot give?
 [Ninereeds]This is a pot.
-The pot is used for boiling water.
-The pot is used for making soup.
-The pot is used for cooking food over heat.
-The pot is lifted by the handles to pour.
-The pot is used for steaming vegetables.
-A pot is for boiling and cooking.
+A pot gives cooking.
+A pot gives boiling.
+A pot gives heating.
+A pot gives holding.
+A pot gives steaming.
+A pot gives cooking and heating.

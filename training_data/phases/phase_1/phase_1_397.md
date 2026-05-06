@@ -1,4 +1,4 @@
-[user]what does dirt look like?
+[user]What does dirt look like?
 [Ninereeds]This is dirt.
 Dirt is brown.
 Dirt is crumbly.
@@ -7,7 +7,7 @@ Dirt has tiny rocks.
 Dirt is soft.
 Dirt is brown crumbly soft ground.
 
-[user]where is dirt?
+[user]Where is dirt?
 [Ninereeds]This is dirt.
 Dirt covers the ground.
 Dirt sits in a garden.
@@ -16,7 +16,7 @@ Dirt stays under grass.
 Dirt piles up in a mound.
 Dirt covers the ground and sits in a garden.
 
-[user]what does dirt do?
+[user]What does dirt do?
 [Ninereeds]This is dirt.
 Dirt holds water.
 Dirt gives food to plants.
@@ -25,7 +25,7 @@ Dirt crumbles between fingers.
 Dirt washes away in rain.
 Dirt holds water and gives food to plants.
 
-[user]what is dirt for?
+[user]What is dirt for?
 [Ninereeds]This is dirt.
 Dirt is for plants.
 Dirt is for growing food.

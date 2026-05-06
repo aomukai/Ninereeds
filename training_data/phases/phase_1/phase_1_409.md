@@ -1,4 +1,4 @@
-[user]what does a dragon look like?
+[user]What does a dragon look like?
 [Ninereeds]This is a dragon.
 A dragon has a long body.
 A dragon has green scales.
@@ -7,7 +7,7 @@ A dragon has a long tail.
 A dragon has sharp claws.
 A dragon is long and green.
 
-[user]where is a dragon?
+[user]Where is a dragon?
 [Ninereeds]This is a dragon.
 A dragon lives in a cave.
 A dragon sits on a pile of gold.
@@ -16,7 +16,7 @@ A dragon rests on a castle tower.
 A dragon hides in a forest.
 A dragon is in a cave and in mountains.
 
-[user]what does a dragon do?
+[user]What does a dragon do?
 [Ninereeds]This is a dragon.
 A dragon breathes fire.
 A dragon flaps big wings.
@@ -25,7 +25,7 @@ A dragon flies in the sky.
 A dragon roars loud.
 A dragon is fire-breathing and wing-flapping.
 
-[user]what is a dragon for?
+[user]What is a dragon for?
 [Ninereeds]This is a dragon.
 A dragon is for stories.
 A dragon is for fairy tales.

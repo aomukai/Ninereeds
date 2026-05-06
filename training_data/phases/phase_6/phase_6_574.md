@@ -1,4 +1,4 @@
-[user]what does beginner mean?
+[user]What does beginner mean?
 [Ninereeds]This is a beginner.
 Beginner is a person who starts.
 Beginner is a novice.
@@ -7,7 +7,7 @@ Beginner is inexperienced.
 Beginner is a starting point.
 Beginner is a person who starts learning.
 
-[user]where does beginner appear?
+[user]Where does beginner appear?
 [Ninereeds]This is a beginner.
 Beginner appears in schools.
 Beginner appears in sports.
@@ -16,7 +16,7 @@ Beginner appears in training.
 Beginner appears in journeys.
 Beginner is in schools and sports.
 
-[user]what does beginner do?
+[user]What does beginner do?
 [Ninereeds]This is a beginner.
 Beginner learns new skills.
 Beginner makes mistakes.
@@ -25,7 +25,7 @@ Beginner follows instructions.
 Beginner grows over time.
 Beginner learns new skills and asks questions.
 
-[user]what is beginner for?
+[user]What is beginner for?
 [Ninereeds]This is a beginner.
 Beginner is for growth.
 Beginner is for progress.

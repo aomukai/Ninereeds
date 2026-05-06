@@ -1,4 +1,4 @@
-[user]what does a net look like?
+[user]What does a net look like?
 [Ninereeds]This is a net.
 A net has many holes.
 A net is made of string.
@@ -7,7 +7,7 @@ A net is flat when open.
 A net can be round or square.
 A net is flat and made of string.
 
-[user]where is a net?
+[user]Where is a net?
 [Ninereeds]This is a net.
 A net is in the water.
 A net is on a boat.
@@ -16,7 +16,7 @@ A net is over a bed.
 A net hangs from poles.
 A net is in water and over a bed.
 
-[user]what does a net do?
+[user]What does a net do?
 [Ninereeds]This is a net.
 A net catches fish.
 A net catches bugs.
@@ -25,7 +25,7 @@ A net lets water pass through.
 A net lets air pass through.
 A net is a catcher and a holder.
 
-[user]what is a net for?
+[user]What is a net for?
 [Ninereeds]This is a net.
 A net is for catching fish.
 A net is for catching butterflies.

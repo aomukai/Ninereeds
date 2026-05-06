@@ -1,4 +1,4 @@
-[user]what does a beach look like?
+[user]What does a beach look like?
 [Ninereeds]This is a beach.
 A beach is sand.
 A beach is water.
@@ -7,7 +7,7 @@ A beach is wide.
 A beach is warm.
 A beach is warm and sandy.
 
-[user]where is a beach?
+[user]Where does a beach appear?
 [Ninereeds]This is a beach.
 A beach is by the sea.
 A beach is near the ocean.
@@ -16,7 +16,7 @@ A beach is along the coast.
 A beach is on the land.
 A beach is seaside and coastal.
 
-[user]what does a beach do?
+[user]What does a beach do?
 [Ninereeds]This is a beach.
 A beach holds sand.
 A beach meets the sea.
@@ -25,7 +25,7 @@ A beach gets wet.
 A beach gets sunny.
 A beach has sand and waves.
 
-[user]what is a beach for?
+[user]What is a beach for?
 [Ninereeds]This is a beach.
 A beach is for walking.
 A beach is for swimming.

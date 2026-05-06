@@ -1,4 +1,4 @@
-[user]what does a ramp look like?
+[user]What does a ramp look like?
 [Ninereeds]This is a ramp.
 A ramp is slanted.
 A ramp is flat.
@@ -7,7 +7,7 @@ A ramp goes from low to high.
 A ramp has a smooth surface.
 A ramp is a long slanted flat surface.
 
-[user]where is a ramp?
+[user]Where is a ramp?
 [Ninereeds]This is a ramp.
 A ramp is at a door.
 A ramp is at a building.
@@ -16,7 +16,7 @@ A ramp is at a loading dock.
 A ramp connects two levels.
 A ramp is at a door or building.
 
-[user]what does a ramp do?
+[user]What does a ramp do?
 [Ninereeds]This is a ramp.
 A ramp lets things roll.
 A ramp lets things slide.
@@ -25,7 +25,7 @@ A ramp makes a slope.
 A ramp holds weight.
 A ramp connects a low place to a high place.
 
-[user]what is a ramp for?
+[user]What is a ramp for?
 [Ninereeds]This is a ramp.
 A ramp is for wheels.
 A ramp is for people.

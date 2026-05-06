@@ -1,4 +1,4 @@
-[user]what does a repair look like?
+[user]What does a repair look like?
 [Ninereeds]This is a repair.
 A repair is a tool on a broken part.
 A repair is tape holding a tear.
@@ -7,7 +7,7 @@ A repair is glue on a cracked piece.
 A repair is a patch on a torn shirt.
 A repair is a tool and a patch.
 
-[user]where is a repair found?
+[user]Where is a repair found?
 [Ninereeds]This is a repair.
 A repair is on a bicycle or chain.
 A repair is in a shoe sole.
@@ -16,7 +16,7 @@ A repair is on a leaking pipe.
 A repair is on a ripped tent.
 A repair is on a chain and on a pipe.
 
-[user]what does a repair do?
+[user]What does a repair do?
 [Ninereeds]This is a repair.
 A repair fixes a broken thing.
 A repair makes an object work again.
@@ -25,7 +25,7 @@ A repair strengthens a weak spot.
 A repair restores a damaged item.
 A repair is a fix and a restore.
 
-[user]what is a repair used for?
+[user]What is a repair used for?
 [Ninereeds]This is a repair.
 A repair mends a torn page.
 A repair patches a hole in a wall.

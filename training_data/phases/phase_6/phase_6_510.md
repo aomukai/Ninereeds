@@ -1,4 +1,4 @@
-[user]what does already mean?
+[user]What does already mean?
 [Ninereeds]This is already.
 Already is before now.
 Already is by this time.
@@ -7,7 +7,7 @@ Already is in the past.
 Already is at an earlier time.
 Already is before now and previously.
 
-[user]where does already appear?
+[user]Where does already appear?
 [Ninereeds]This is already.
 Already is in actions.
 Already is in events.
@@ -16,7 +16,7 @@ Already is in history.
 Already is in discussions.
 Already is in actions and events.
 
-[user]what does already do?
+[user]What does already do?
 [Ninereeds]This is already.
 Already is for completion.
 Already is for context.
@@ -25,7 +25,7 @@ Already is for past occurrence.
 Already is for affecting present.
 Already is for completion and context.
 
-[user]what is already for?
+[user]What is already for?
 [Ninereeds]This is already.
 Already is for showing past events.
 Already is for building on knowledge.

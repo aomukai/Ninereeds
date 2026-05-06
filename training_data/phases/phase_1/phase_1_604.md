@@ -1,4 +1,4 @@
-[user]what does a knob look like?
+[user]What does a knob look like?
 [Ninereeds]This is a knob.
 A knob is round.
 A knob is small.
@@ -7,7 +7,7 @@ A knob sticks out.
 A knob turns.
 A knob is a small round turn.
 
-[user]where is a knob found?
+[user]Where is a knob found?
 [Ninereeds]This is a knob.
 A knob is on a door.
 A knob is on a drawer.
@@ -16,7 +16,7 @@ A knob is on a stove.
 A knob is on a radio.
 A knob is on a door drawer.
 
-[user]what does a knob do?
+[user]What does a knob do?
 [Ninereeds]This is a knob.
 A knob turns.
 A knob twists.
@@ -25,7 +25,7 @@ A knob pushes.
 A knob clicks.
 A knob turns twists clicks.
 
-[user]what is a knob used for?
+[user]What is a knob used for?
 [Ninereeds]This is a knob.
 A knob opens a door.
 A knob closes a door.

@@ -1,4 +1,4 @@
-[user]how does frost form?
+[user]How does frost form?
 [Ninereeds]This is frost.
 Frost forms on the ground in the cold air.
 Cold air changes the ground and makes frost.

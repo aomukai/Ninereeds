@@ -1,4 +1,4 @@
-[user]what does gas look like?
+[user]What does gas look like?
 [Ninereeds]This is gas.
 Gas is a state of matter.
 Gas has no shape.
@@ -7,7 +7,7 @@ Gas is see through.
 Gas floats in the air.
 Gas is a state of matter and formless.
 
-[user]where is gas found?
+[user]Where is gas found?
 [Ninereeds]This is gas.
 Gas is in the air.
 Gas is in a balloon.
@@ -16,7 +16,7 @@ Gas is in a tank.
 Gas is in a pipe under the ground.
 Gas is in the air and in a balloon.
 
-[user]what does gas do?
+[user]What does gas do?
 [Ninereeds]This is gas.
 Gas spreads to fill a space.
 Gas rises in the air.
@@ -25,7 +25,7 @@ Gas mixes with air.
 Gas moves through a pipe.
 Gas is a substance that spreads and rises.
 
-[user]what is gas for?
+[user]What is gas for?
 [Ninereeds]This is gas.
 Gas is for heat.
 Gas is for cooking.

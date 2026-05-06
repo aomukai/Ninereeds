@@ -1,4 +1,4 @@
-[user]what does purr look like?
+[user]What does purr look like?
 [Ninereeds]This is purr.
 Purr is a cat with closed eyes.
 Purr is a cat lying very still.
@@ -7,7 +7,7 @@ Purr is a cat on a soft lap.
 Purr is a cat breathing slow and deep.
 Purr is a calm cat and a still cat.
 
-[user]where does purr happen?
+[user]Where does purr happen?
 [Ninereeds]This is purr.
 Purr happens in a cat or throat.
 Purr happens on a warm blanket.
@@ -16,7 +16,7 @@ Purr happens near a gentle hand.
 Purr happens under a chin rub.
 Purr is a throat sound and a blanket sound.
 
-[user]what does purr do?
+[user]What does purr do?
 [Ninereeds]This is purr.
 Purr makes a low and steady sound.
 Purr shows a cat is happy.
@@ -25,7 +25,7 @@ Purr vibrates through cat fur.
 Purr signals comfort and calm.
 Purr is a low sound and a happy sound.
 
-[user]what is purr used for?
+[user]What is purr used for?
 [Ninereeds]This is purr.
 Purr helps a cat sleep or rest.
 Purr tells a person the cat feels good.

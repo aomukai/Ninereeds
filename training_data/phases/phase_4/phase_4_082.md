@@ -1,4 +1,4 @@
-[user]what happens during birth?
+[user]What happens during birth?
 [Ninereeds]This is birth.
 Birth starts a new life.
 Birth is the start of a body.

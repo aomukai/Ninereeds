@@ -1,13 +1,13 @@
-[user]what does soil look like?
+[user]What does soil look like?
 [Ninereeds]This is soil.
 Soil is brown.
 Soil is in the ground.
 Soil is crumbly.
 Soil has small bits.
 Soil is dark.
-Soil is brown crumbly ground.
+Soil is brown and crumbly and in the ground.
 
-[user]where is soil found?
+[user]Where is soil found?
 [Ninereeds]This is soil.
 Soil is in a garden.
 Soil is in a field.
@@ -16,7 +16,7 @@ Soil is under the grass.
 Soil is on the earth.
 Soil is in a garden and in a field.
 
-[user]what does soil do?
+[user]What does soil do?
 [Ninereeds]This is soil.
 Soil holds roots.
 Soil gives food to plants.
@@ -25,7 +25,7 @@ Soil is a home for worms.
 Soil breaks down old leaves.
 Soil holds roots and gives food to plants.
 
-[user]what is soil for?
+[user]What is soil for?
 [Ninereeds]This is soil.
 Soil is for plants.
 Soil is for a garden.

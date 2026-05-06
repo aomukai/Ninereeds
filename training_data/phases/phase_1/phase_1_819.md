@@ -1,4 +1,4 @@
-[user]what does a pouch look like?
+[user]What does a pouch look like?
 [Ninereeds]This is a pouch.
 A pouch is small.
 A pouch is soft.
@@ -7,7 +7,7 @@ A pouch has a string.
 A pouch is a bag.
 A pouch is small and soft.
 
-[user]where is a pouch?
+[user]Where is a pouch?
 [Ninereeds]This is a pouch.
 A pouch is on a belt.
 A pouch is in a pocket.
@@ -16,7 +16,7 @@ A pouch is in a store.
 A pouch is in a house.
 A pouch is on a belt and in a backpack.
 
-[user]what does a pouch do?
+[user]What does a pouch do?
 [Ninereeds]This is a pouch.
 A pouch holds coins.
 A pouch holds food.
@@ -25,7 +25,7 @@ A pouch keeps things safe.
 A pouch closes with a string.
 A pouch is a holder and a keeper.
 
-[user]what is a pouch for?
+[user]What is a pouch for?
 [Ninereeds]This is a pouch.
 A pouch is for carrying.
 A pouch is for storing.

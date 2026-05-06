@@ -1,4 +1,4 @@
-[user]what does a print look like?
+[user]What does a print look like?
 [Ninereeds]This is a print.
 A print is a mark on paper.
 A print is a picture on a page.
@@ -7,7 +7,7 @@ A print is a design on a shirt.
 A print is a stamp on a document.
 A print is a mark, picture, or design on paper.
 
-[user]where is a print made?
+[user]Where is a print made?
 [Ninereeds]This is a print.
 A print is on a piece of paper.
 A print is on a fabric cloth.
@@ -16,7 +16,7 @@ A print is on a plastic bag.
 A print is on a wood surface.
 A print is on paper, fabric, or cardboard.
 
-[user]what does a print do?
+[user]What does a print do?
 [Ninereeds]This is a print.
 A print shows a word to read.
 A print shows a picture to see.
@@ -25,7 +25,7 @@ A print shows a name to identify.
 A print shows a map to follow.
 A print shows a word, picture, or number.
 
-[user]what is a print used for?
+[user]What is a print used for?
 [Ninereeds]This is a print.
 A print copies a photo for a frame.
 A print makes a poster for a wall.

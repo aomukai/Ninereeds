@@ -1,35 +1,35 @@
-[user]what is wrong?
-[Ninereeds]wrong is here.
-wrong is a mark for a bad answer or bad fit.
-wrong can be in math or talk.
-wrong can be far from right.
-wrong can be a sign of error.
-wrong can be a label for mistake.
-wrong is a mark and a sign.
+[user]What does wrong look like?
+[Ninereeds]This is wrong.
+Wrong is a mark for a bad answer.
+Wrong can be in math or talk.
+Wrong can be far from right.
+Wrong can be a sign of error.
+Wrong can be a label for mistake.
+Wrong is a mark and a sign.
 
-[user]where is wrong?
-[Ninereeds]wrong is here.
-wrong can be on a test or page.
-wrong can be in a plan or guess.
-wrong can be near error or fix.
-wrong can be in a sentence.
-wrong can be in a thought.
-wrong is on a test and in a plan.
+[user]Where does wrong appear?
+[Ninereeds]This is wrong.
+Wrong can be on a test or page.
+Wrong can be in a plan or guess.
+Wrong can be near error or fix.
+Wrong can be in a sentence.
+Wrong can be in a thought.
+Wrong is on a test and in a plan.
 
-[user]what does wrong do?
-[Ninereeds]wrong is here.
-wrong can stop a plan.
-wrong can send a search for a fix.
-wrong can mark a turn away from truth.
-wrong can cause a redo.
-wrong can lead to a change.
-wrong stops and sends.
+[user]What does wrong do?
+[Ninereeds]This is wrong.
+Wrong can stop a plan.
+Wrong can send a search for a fix.
+Wrong can mark a turn away from truth.
+Wrong can cause a redo.
+Wrong can lead to a change.
+Wrong stops a plan and sends a search.
 
-[user]what is wrong like?
-[Ninereeds]wrong is here.
-wrong can feel hard and off.
-wrong can look bad in red ink.
-wrong can seem clear after a check.
-wrong can taste bitter.
-wrong can sound loud.
-wrong is hard and bad.
+[user]What is wrong for?
+[Ninereeds]This is wrong.
+Wrong is for identifying errors.
+Wrong is for guiding correction.
+Wrong is for teaching right answers.
+Wrong is for marking mistakes.
+Wrong is for improving understanding.
+Wrong is for identifying errors and guiding correction.

@@ -1,35 +1,35 @@
-[user]what does flesh look like?
+[user]What does flesh look like?
 [Ninereeds]This is flesh.
 Flesh is soft.
 Flesh is pink.
 Flesh covers bones.
 Flesh is under skin.
 Flesh is part of a body.
-Flesh is soft pink part under skin.
+Flesh is soft and pink.
 
-[user]where is flesh?
+[user]Where can you find flesh?
 [Ninereeds]This is flesh.
 Flesh is under skin.
 Flesh is on bones.
 Flesh is on a body.
 Flesh is on an arm.
 Flesh is on a leg.
-Flesh is soft part under skin on a body.
+Flesh is under skin and on bones.
 
-[user]what does flesh do?
+[user]What does flesh do?
 [Ninereeds]This is flesh.
 Flesh fills a space under skin.
 Flesh gives a body shape.
 Flesh cushions a bone.
 Flesh moves with a muscle.
 Flesh supports a limb.
-Flesh is soft part that gives a body shape.
+Flesh cushions and supports.
 
-[user]what does flesh give?
+[user]What does flesh give?
 [Ninereeds]This is flesh.
-Flesh gives a body shape.
-Flesh protects a bone.
-Flesh cushions a joint.
-Flesh is a soft layer under skin.
-Flesh keeps a body warm.
-Flesh is a soft layer that protects and cushions.
+Flesh gives a body its shape.
+Flesh gives protection to a bone.
+Flesh gives cushion for a joint.
+Flesh gives a soft layer under skin.
+Flesh gives warmth to a body.
+Flesh is shape and protection.

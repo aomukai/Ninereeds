@@ -1,4 +1,4 @@
-[user]what does an ant look like?
+[user]What does an ant look like?
 [Ninereeds]This is an ant.
 The ant is very small.
 The ant has six legs.
@@ -7,7 +7,7 @@ The ant has a round head and a round body.
 The ant is black or brown.
 The ant is very small and has six legs.
 
-[user]where does an ant live?
+[user]Where can you find an ant?
 [Ninereeds]This is an ant.
 The ant lives in a nest in the ground.
 The ant walks along the ground in a line.
@@ -16,7 +16,7 @@ The ant builds tunnels under the soil.
 The ant stays inside the nest at night.
 The ant lives in a nest and builds tunnels.
 
-[user]what does an ant do?
+[user]What does an ant do?
 [Ninereeds]This is an ant.
 The ant walks in a line with other ants.
 The ant picks up food and carries the food.
@@ -25,7 +25,7 @@ The ant works together with many other ants.
 The ant follows a scent trail to food.
 The ant walks in lines and carries food.
 
-[user]what does an ant give?
+[user]What does an ant give?
 [Ninereeds]This is an ant.
 The ant brings food into the nest.
 The ant breaks down old food in the soil.

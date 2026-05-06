@@ -1,4 +1,4 @@
-[user]what does hundred mean?
+[user]What does hundred mean?
 [Ninereeds]This is a hundred.
 A hundred is a number.
 A hundred is ten tens.
@@ -7,7 +7,7 @@ A hundred is written as 100.
 A hundred is a numerical value.
 A hundred is a number or quantity.
 
-[user]where does hundred appear?
+[user]Where does hundred appear?
 [Ninereeds]This is a hundred.
 A hundred appears in counting.
 A hundred appears in money.
@@ -16,7 +16,7 @@ A hundred appears in groups.
 A hundred appears in scores.
 A hundred is in counting and money.
 
-[user]what does hundred do?
+[user]What does hundred do?
 [Ninereeds]This is a hundred.
 A hundred quantifies things.
 A hundred measures amounts.
@@ -25,7 +25,7 @@ A hundred expresses a value.
 A hundred helps in calculations.
 A hundred quantifies and measures.
 
-[user]what is hundred for?
+[user]What is hundred for?
 [Ninereeds]This is a hundred.
 A hundred is for counting money.
 A hundred is for measuring distance.

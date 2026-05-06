@@ -1,4 +1,4 @@
-[user]what does a fingernail look like?
+[user]What does a fingernail look like?
 [Ninereeds]This is a fingernail.
 A fingernail is hard.
 A fingernail is flat.
@@ -7,7 +7,7 @@ A fingernail is small.
 A fingernail is curved.
 A fingernail is hard and flat.
 
-[user]where is a fingernail?
+[user]Where is a fingernail?
 [Ninereeds]This is a fingernail.
 A fingernail is on a finger.
 A fingernail is at the top of a finger.
@@ -16,7 +16,7 @@ A fingernail is above the skin of a finger.
 A fingernail is at the end of a finger.
 A fingernail is on and at.
 
-[user]what does a fingernail do?
+[user]What does a fingernail do?
 [Ninereeds]This is a fingernail.
 A fingernail covers a fingertip.
 A fingernail protects a fingertip.
@@ -25,7 +25,7 @@ A fingernail scratches a surface.
 A fingernail picks up a small object.
 A fingernail is covering and protective.
 
-[user]what is a fingernail for?
+[user]What is a fingernail for?
 [Ninereeds]This is a fingernail.
 A fingernail gives a finger a hard tip.
 A fingernail helps a finger scratch.

@@ -1,4 +1,4 @@
-[user]what does paste look like?
+[user]What does paste look like?
 [Ninereeds]This is paste.
 Paste is thick.
 Paste is soft.
@@ -7,7 +7,7 @@ Paste is a wet mix.
 Paste can be white.
 Paste is a thick soft sticky mix.
 
-[user]where is paste?
+[user]Where is paste?
 [Ninereeds]This is paste.
 Paste is in a jar.
 Paste is a sticky mix.
@@ -16,7 +16,7 @@ Paste is on paper.
 Paste is on a wall.
 Paste is a sticky mix in a jar.
 
-[user]what does paste do?
+[user]What does paste do?
 [Ninereeds]This is paste.
 Paste sticks things and holds paper in place.
 Paste holds paper in place.
@@ -25,7 +25,7 @@ Paste dries hard.
 Paste makes a bond.
 Paste sticks things and holds paper in place.
 
-[user]what is paste for?
+[user]What is paste for?
 [Ninereeds]This is paste.
 Paste is for craft and art.
 Paste is for craft.

@@ -1,4 +1,4 @@
-[user]what does snap look like?
+[user]What does snap look like?
 [Ninereeds]This is snap.
 snap is quick.
 snap is sharp.
@@ -7,7 +7,7 @@ snap is crisp.
 snap is brief.
 snap is quick and sharp.
 
-[user]where is snap?
+[user]Where is snap?
 [Ninereeds]This is snap.
 snap can be in a hand.
 snap can be by a twig.
@@ -16,7 +16,7 @@ snap can be in a room.
 snap can be in a yard.
 snap is in hand and by twig.
 
-[user]what does snap do?
+[user]What does snap do?
 [Ninereeds]This is snap.
 snap breaks a twig.
 snap shuts a lid.
@@ -25,7 +25,7 @@ snap opens a trap.
 snap closes a case.
 snap breaks and shuts.
 
-[user]what is snap for?
+[user]What is snap for?
 [Ninereeds]This is snap.
 snap is for breaking.
 snap is for shutting.

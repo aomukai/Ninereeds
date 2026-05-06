@@ -1,4 +1,4 @@
-[user]what does a herd look like?
+[user]What does a herd look like?
 [Ninereeds]This is a herd.
 A herd is many animals together.
 A herd has animals that are similar.
@@ -7,7 +7,7 @@ A herd is large.
 A herd has animals that move together.
 A herd is many animals together and large.
 
-[user]where is a herd?
+[user]Where is a herd?
 [Ninereeds]This is a herd.
 A herd is in a field.
 A herd is on a plain.
@@ -16,7 +16,7 @@ A herd is in a big open space.
 A herd is with other herds.
 A herd is in a field and on a plain.
 
-[user]what does a herd do?
+[user]What does a herd do?
 [Ninereeds]This is a herd.
 A herd eats grass.
 A herd walks together.
@@ -25,7 +25,7 @@ A herd protects itself.
 A herd moves slowly.
 A herd is a grass eater and a walker.
 
-[user]what is a herd used for?
+[user]What is a herd used for?
 [Ninereeds]This is a herd.
 A herd keeps animals safe.
 A herd helps animals find food.

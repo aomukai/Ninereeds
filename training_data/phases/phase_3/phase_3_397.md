@@ -1,4 +1,4 @@
-[user]what does hoot look like?
+[user]What does hoot look like?
 [Ninereeds]This is hoot.
 Hoot is a deep call of owl.
 Hoot is a long who in night.
@@ -7,7 +7,7 @@ Hoot is a round noise of bird.
 Hoot is a low cry in dark.
 Hoot is a deep call and a long who.
 
-[user]where does hoot happen?
+[user]Where does hoot happen?
 [Ninereeds]This is hoot.
 Hoot happens from an owl.
 Hoot happens in a tree.
@@ -16,7 +16,7 @@ Hoot happens from a barn.
 Hoot happens in the woods.
 Hoot is an owl call and a night sound.
 
-[user]what does hoot do?
+[user]What does hoot do?
 [Ninereeds]This is hoot.
 Hoot calls in the dark night.
 Hoot warns a rival with sound.
@@ -25,7 +25,7 @@ Hoot signals a mate from a branch.
 Hoot echoes through the quiet woods.
 Hoot is a territorial call and a mating signal.
 
-[user]what is hoot for?
+[user]What is hoot for?
 [Ninereeds]This is hoot.
 Hoot communicates with other owls.
 Hoot claims a territory in the woods.

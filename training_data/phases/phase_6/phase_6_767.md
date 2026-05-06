@@ -1,4 +1,4 @@
-[user]what is distinction?
+[user]What is distinction?
 [Ninereeds]This is a distinction.
 A distinction is a difference.
 A distinction is a contrast.
@@ -7,7 +7,7 @@ A distinction is a special mark.
 A distinction is a unique quality.
 A distinction is a difference or a unique quality.
 
-[user]where is distinction found?
+[user]Where is distinction found?
 [Ninereeds]This is a distinction.
 A distinction is found in ideas.
 A distinction is found in categories.
@@ -16,7 +16,7 @@ A distinction is found in rules.
 A distinction is found in art.
 A distinction is found in ideas and in language.
 
-[user]what does distinction do?
+[user]What does distinction do?
 [Ninereeds]This is distinction.
 Distinction clarifies a meaning.
 Distinction creates a category.
@@ -25,7 +25,7 @@ Distinction allows for comparison.
 Distinction establishes identity.
 Distinction clarifies a meaning and helps understanding.
 
-[user]what is distinction for?
+[user]What is distinction for?
 [Ninereeds]This is distinction.
 Distinction is for clear thought.
 Distinction is for precise communication.

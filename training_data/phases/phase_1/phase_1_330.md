@@ -1,4 +1,4 @@
-[user]what does a chin look like?
+[user]What does a chin look like?
 [Ninereeds]This is a chin.
 A chin is round.
 A chin is at the bottom of a face.
@@ -7,7 +7,7 @@ A chin is firm.
 A chin sticks out.
 A chin is round and firm.
 
-[user]where is a chin?
+[user]Where is a chin?
 [Ninereeds]This is a chin.
 A chin is below a mouth.
 A chin is on a face.
@@ -16,7 +16,7 @@ A chin is between cheeks.
 A chin is at the front of a head.
 A chin is below a mouth and on a face.
 
-[user]what does a chin do?
+[user]What does a chin do?
 [Ninereeds]This is a chin.
 A chin moves when a mouth opens.
 A chin rests on a hand.
@@ -25,7 +25,7 @@ A chin stays still.
 A chin touches the chest.
 A chin is resting on a hand and holding a face up.
 
-[user]what is a chin for?
+[user]What is a chin for?
 [Ninereeds]This is a chin.
 A chin is for a face.
 A chin is for resting.

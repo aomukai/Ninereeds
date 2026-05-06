@@ -1,4 +1,4 @@
-[user]what does a classmate look like?
+[user]What does a classmate look like?
 [Ninereeds]This is a classmate.
 A classmate is a student.
 A classmate is a person.
@@ -7,7 +7,7 @@ A classmate is in a school.
 A classmate is in a classroom.
 A classmate is a student and a friend.
 
-[user]where is a classmate?
+[user]Where does a classmate appear?
 [Ninereeds]This is a classmate.
 A classmate is at a school.
 A classmate is in a classroom.
@@ -16,7 +16,7 @@ A classmate is at a desk.
 A classmate is in a hallway.
 A classmate is at a school and in a classroom.
 
-[user]what does a classmate do?
+[user]What does a classmate do?
 [Ninereeds]This is a classmate.
 A classmate is a learner.
 A classmate is a student.
@@ -25,7 +25,7 @@ A classmate is a partner.
 A classmate is a helper.
 A classmate is a learner and a helper.
 
-[user]what is a classmate used for?
+[user]What is a classmate for?
 [Ninereeds]This is a classmate.
 A classmate is a companion.
 A classmate is a collaborator.

@@ -1,4 +1,4 @@
-[user]how does an eagle hunt?
+[user]How does an eagle hunt?
 [Ninereeds]This is an eagle.
 The eagle sits in a nest near water with a fish.
 The eagle looks at the fish from the nest.

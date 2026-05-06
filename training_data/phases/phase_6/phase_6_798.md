@@ -1,4 +1,4 @@
-[user]what does suddenly mean?
+[user]What does suddenly look like?
 [Ninereeds]This is suddenly.
 Suddenly is an adverb.
 Suddenly describes quick action.
@@ -7,7 +7,7 @@ Suddenly means abruptly.
 Suddenly means all at once.
 Suddenly is quick and unexpected.
 
-[user]where does suddenly appear?
+[user]Where does suddenly appear?
 [Ninereeds]This is suddenly.
 Suddenly appears in sentences.
 Suddenly appears in descriptions.
@@ -16,7 +16,7 @@ Suddenly appears before verbs.
 Suddenly appears for effect.
 Suddenly appears in sentences and descriptions.
 
-[user]what does suddenly do?
+[user]What does suddenly do?
 [Ninereeds]This is suddenly.
 Suddenly modifies actions.
 Suddenly adds surprise.
@@ -25,7 +25,7 @@ Suddenly indicates immediacy.
 Suddenly emphasizes a change.
 Suddenly modifies actions and adds surprise.
 
-[user]what is suddenly for?
+[user]What is suddenly for?
 [Ninereeds]This is suddenly.
 Suddenly is for quick transitions.
 Suddenly is for building tension.

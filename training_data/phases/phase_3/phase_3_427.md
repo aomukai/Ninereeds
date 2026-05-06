@@ -1,4 +1,4 @@
-[user]what does meow look like?
+[user]What does meow look like?
 [Ninereeds]This is meow.
 Meow is a sound from a cat.
 Meow is a call from a small mouth.
@@ -7,7 +7,7 @@ Meow is a short cry.
 Meow is a cat voice.
 Meow is a soft sound from a cat.
 
-[user]where is meow?
+[user]Where is meow?
 [Ninereeds]This is meow.
 Meow is at a door.
 Meow is near a bowl.
@@ -16,7 +16,7 @@ Meow is on a bed.
 Meow is in a room at night.
 Meow is at a door or near a bowl.
 
-[user]what does meow do?
+[user]What does meow do?
 [Ninereeds]This is meow.
 Meow asks for food.
 Meow calls for a pat.
@@ -25,7 +25,7 @@ Meow tells a cat is near.
 Meow gets a person to look.
 Meow asks for food or a pat.
 
-[user]how is meow used?
+[user]How is meow used?
 [Ninereeds]This is meow.
 Meow is used to get food from a person.
 Meow is used to say hello.

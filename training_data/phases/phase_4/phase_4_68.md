@@ -1,4 +1,4 @@
-[user]how does a potato grow?
+[user]How does a potato grow?
 [Ninereeds]This is a potato.
 The potato grows in soil and is brown with an eye.
 The potato sits under the soil.

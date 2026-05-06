@@ -1,35 +1,35 @@
-[user]what does they look like?
+[user]What does they look like?
 [Ninereeds]This is they.
-They is a pronoun.
-They is a pronoun for groups.
-They is a pronoun for many.
-They is a pronoun for others.
-They is a pronoun for multiple beings.
-They is a pronoun for groups and multiple beings.
+They is a pronoun word.
+They refers to a group.
+They replaces many names.
+They points to multiple people.
+They takes the place of nouns.
+They is a pronoun and a group word.
 
-[user]where does they appear?
+[user]Where does they appear?
 [Ninereeds]This is they.
-They is in a sentence.
-They is in a story.
-They is in a crowd.
-They is in a conversation.
-They is in a group of people.
-They is a pronoun in stories and conversations.
+They appears in sentences.
+They appears in stories.
+They appears in conversations.
+They appears in writing.
+They appears in speech.
+They appears in sentences and in stories.
 
-[user]what does they do?
+[user]What does they do?
 [Ninereeds]This is they.
-They act together.
-They speak together.
-They move as a group.
-They share an idea.
-They make a choice.
-They is a pronoun that shows group action.
+They replaces a group name.
+They keeps sentences smooth.
+They avoids repetition of names.
+They refers to many as one.
+They functions as a subject.
+They replaces names and keeps sentences smooth.
 
-[user]what is they for?
+[user]What is they for?
 [Ninereeds]This is they.
 They is for talking about groups.
 They is for referencing many.
-They is for not naming.
+They is for unnamed people.
 They is for common actions.
 They is for shared experiences.
-They is a pronoun for groups and shared actions.
+They is for groups and shared experiences.

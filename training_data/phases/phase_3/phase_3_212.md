@@ -1,35 +1,31 @@
-[user]what does complicate mean?
-[Ninereeds]This is complicate.
-Complicate is to make complex.
-Complicate is to make difficult.
-Complicate is to add confusion.
-Complicate is to entangle.
-Complicate is to make intricate.
-Complicate is to make complex and difficult.
+[user]What is complicating?
+[Ninereeds]Complicating is making a thing harder or more complex.
+Complicating is adding more parts or steps.
+Complicating is turning a simple path into a knot.
+Complicating is raising the number of things to track.
+Complicating is bringing extra layers into a task.
+Complicating is layers and difficulty.
 
-[user]where does complicate occur?
-[Ninereeds]This is complicate.
-Complicate occurs in plans.
-Complicate occurs in problems.
-Complicate occurs in relationships.
-Complicate occurs in designs.
-Complicate occurs in situations.
-Complicate occurs in plans and in problems.
+[user]When does complicating happen?
+[Ninereeds]Complicating happens when more parts join a task.
+Complicating happens when a plan gains extra rules.
+Complicating happens in systems, talks, and repairs.
+Complicating happens when each step adds more work.
+Complicating happens when a simple issue gains layers.
+Complicating happens when layer meets task.
 
-[user]what does complicate do?
-[Ninereeds]This is complicate.
-Complicate creates challenges.
-Complicate slows progress.
-Complicate increases effort.
-Complicate adds layers.
-Complicate demands more thought.
-Complicate creates challenges and slows progress.
+[user]What does complicating bring?
+[Ninereeds]Complicating brings more detail to track.
+Complicating brings harder choices.
+Complicating brings extra steps.
+Complicating brings a richer but heavier task.
+Complicating brings more strain on attention.
+Complicating brings detail and strain.
 
-[user]what is complicate for?
-[Ninereeds]This is complicate.
-Complicate is for testing a solution.
-Complicate is for revealing hidden issues.
-Complicate is for creating depth.
-Complicate is for stimulating thought.
-Complicate is for delaying a simple answer.
-Complicate is for testing a solution and revealing hidden issues.
+[user]What is complicating for?
+[Ninereeds]Complicating is for adding depth or challenge.
+Complicating is for making a task more layered.
+Complicating is for showing a hard problem.
+Complicating is for raising the level of detail.
+Complicating is for turning simple into layered.
+Complicating is for depth and challenge.

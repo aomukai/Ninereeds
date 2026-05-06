@@ -1,4 +1,4 @@
-[user]what does a poster look like?
+[user]What does a poster look like?
 [Ninereeds]This is a poster.
 A poster is a large sheet of paper.
 A poster has pictures.
@@ -7,7 +7,7 @@ A poster is colorful.
 A poster hangs on a wall.
 A poster is large and colorful.
 
-[user]where is a poster?
+[user]Where is a poster?
 [Ninereeds]This is a poster.
 A poster is on a wall.
 A poster is in a bedroom.
@@ -16,7 +16,7 @@ A poster is in a store.
 A poster is on a billboard.
 A poster is on a wall and in a bedroom.
 
-[user]what does a poster do?
+[user]What does a poster do?
 [Ninereeds]This is a poster.
 A poster shows a picture.
 A poster shows a message.
@@ -25,7 +25,7 @@ A poster shares news.
 A poster advertises a movie.
 A poster shows a picture and decorates a room.
 
-[user]what is a poster for?
+[user]What is a poster for?
 [Ninereeds]This is a poster.
 A poster is for decoration.
 A poster is for a wall.

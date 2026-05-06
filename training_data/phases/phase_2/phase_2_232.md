@@ -1,4 +1,4 @@
-[user]what does a farm look like?
+[user]What does a farm look like?
 [Ninereeds]This is a farm.
 A farm has fields.
 A farm has barns.
@@ -7,7 +7,7 @@ A farm has crops.
 A farm is a large area.
 A farm is large and productive.
 
-[user]where is a farm?
+[user]Where does a farm appear?
 [Ninereeds]This is a farm.
 A farm is in the countryside.
 A farm is on land.
@@ -16,7 +16,7 @@ A farm is open.
 A farm is a location.
 A farm is rural and open.
 
-[user]what does a farm do?
+[user]What does a farm do?
 [Ninereeds]This is a farm.
 A farm grows food.
 A farm raises animals.
@@ -25,7 +25,7 @@ A farm works the soil.
 A farm is a provider.
 A farm is productive and essential.
 
-[user]what is a farm used for?
+[user]What is a farm for?
 [Ninereeds]This is a farm.
 A farm is used for growing vegetables.
 A farm is used for raising cattle.

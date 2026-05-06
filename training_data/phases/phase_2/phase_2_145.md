@@ -1,4 +1,4 @@
-[user]what does a poet look like?
+[user]What does a poet look like?
 [Ninereeds]This is a poet.
 A poet is a person.
 A poet has words in a mind.
@@ -7,7 +7,7 @@ A poet is creative.
 A poet writes verses.
 A poet is an expressive person who writes verses.
 
-[user]where is a poet?
+[user]Where is a poet?
 [Ninereeds]This is a poet.
 A poet is in a quiet room.
 A poet is in a garden.
@@ -16,7 +16,7 @@ A poet is in a library.
 A poet is in a mind.
 A poet is in a quiet room or in a garden.
 
-[user]what does a poet do?
+[user]What does a poet do?
 [Ninereeds]This is a poet.
 A poet writes poems.
 A poet uses language beautifully.
@@ -25,7 +25,7 @@ A poet observes the world.
 A poet tells stories in verse.
 A poet writes poems and expresses feelings.
 
-[user]what is a poet for?
+[user]What is a poet for?
 [Ninereeds]This is a poet.
 A poet is for creating beauty.
 A poet is for inspiring.

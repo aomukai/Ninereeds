@@ -1,4 +1,4 @@
-[user]what does compare mean?
+[user]What does compare mean?
 [Ninereeds]This is compare.
 Compare is to examine for likeness.
 Compare is to examine for difference.
@@ -7,7 +7,7 @@ Compare is to equate.
 Compare is to assess relative value.
 Compare is to examine for likeness or difference.
 
-[user]where does compare appear?
+[user]Where does compare appear?
 [Ninereeds]This is compare.
 Compare appears in studies.
 Compare appears in decisions.
@@ -16,7 +16,7 @@ Compare appears in choices.
 Compare appears in evaluations.
 Compare is in studies and decisions.
 
-[user]what does compare do?
+[user]What does compare do?
 [Ninereeds]This is compare.
 Compare clarifies understanding.
 Compare highlights distinctions.
@@ -25,7 +25,7 @@ Compare helps in selection.
 Compare aids evaluation.
 Compare clarifies understanding and informs choices.
 
-[user]what is compare for?
+[user]What is compare for?
 [Ninereeds]This is compare.
 Compare is for making better decisions.
 Compare is for understanding relationships.

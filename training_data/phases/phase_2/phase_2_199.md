@@ -1,4 +1,4 @@
-[user]what does a chapter look like?
+[user]What does a chapter look like?
 [Ninereeds]This is a chapter.
 A chapter is a part.
 A chapter is a section of a book.
@@ -7,7 +7,7 @@ A chapter has words.
 A chapter has a title.
 A chapter is a part of a book with pages.
 
-[user]where is a chapter?
+[user]Where is a chapter?
 [Ninereeds]This is a chapter.
 A chapter is in a book.
 A chapter is between other chapters.
@@ -16,7 +16,7 @@ A chapter is at an end.
 A chapter is in a story.
 A chapter is in a book with other chapters.
 
-[user]what does a chapter do?
+[user]What does a chapter do?
 [Ninereeds]This is a chapter.
 A chapter tells a part of a story.
 A chapter introduces new ideas.
@@ -25,7 +25,7 @@ A chapter moves a plot forward.
 A chapter organizes information.
 A chapter tells a part of a story and organizes information.
 
-[user]what is a chapter used for?
+[user]What is a chapter used for?
 [Ninereeds]This is a chapter.
 A chapter helps reading.
 A chapter breaks up text.

@@ -1,4 +1,4 @@
-[user]what does a fabric look like?
+[user]What does a fabric look like?
 [Ninereeds]This is a fabric.
 A fabric is flat and soft.
 A fabric comes in rolls and sheets.
@@ -7,7 +7,7 @@ A fabric is a material for clothes.
 A fabric has a weave and a texture.
 A fabric is flat and soft and has a pattern.
 
-[user]where is a fabric?
+[user]Where is a fabric?
 [Ninereeds]This is a fabric.
 A fabric is on a table in a sewing room.
 A fabric is in a store or a shop.
@@ -16,7 +16,7 @@ A fabric is in a roll on a rack.
 A fabric is on a table or a rack.
 A fabric is on a table in a sewing room.
 
-[user]what does a fabric do?
+[user]What does a fabric do?
 [Ninereeds]This is a fabric.
 A fabric covers a surface and wraps an object.
 A fabric hangs from a frame and drapes over a form.
@@ -25,7 +25,7 @@ A fabric holds a stitch and a thread.
 A fabric moves and stretches.
 A fabric covers a surface and wraps an object and hangs.
 
-[user]what is a fabric for?
+[user]What is a fabric for?
 [Ninereeds]This is a fabric.
 A fabric is for clothing and curtains.
 A fabric is for upholstery and crafts.

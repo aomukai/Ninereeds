@@ -1,4 +1,4 @@
-[user]what does a trim look like?
+[user]What does a trim look like?
 [Ninereeds]This is a trim.
 A trim is neat.
 A trim is short.
@@ -7,25 +7,25 @@ A trim removes extra.
 A trim shapes edges.
 A trim is neat and short.
 
-[user]where does a trim happen?
+[user]Where does a trim appear?
 [Ninereeds]This is a trim.
-A trim happens on hair.
-A trim happens on nails.
-A trim happens on a hedge.
-A trim happens on grass.
-A trim happens on paper.
+A trim is on hair.
+A trim is on nails.
+A trim is on a hedge.
+A trim is on grass.
+A trim is on paper.
 A trim is on hair and on nails.
 
-[user]what does a trim do?
+[user]What does a trim do?
 [Ninereeds]This is a trim.
 A trim cuts ends.
-A trim makes even.
+A trim makes things even.
 A trim takes off extra.
 A trim shapes things.
 A trim cleans up.
 A trim is even and clean.
 
-[user]what is a trim for?
+[user]What is a trim for?
 [Ninereeds]This is a trim.
 A trim is for neatness.
 A trim is for health.

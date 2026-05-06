@@ -1,35 +1,31 @@
-[user]what does paralyze mean?
-[Ninereeds]This is paralyze.
-Paralyze is to make unable to move.
-Paralyze is to make unable to act.
-Paralyze is to stop all activity.
-Paralyze is to render immobile.
-Paralyze is to disable.
-Paralyze is to make unable to move or act.
+[user]What is paralyzing?
+[Ninereeds]Paralyzing is stopping movement and action.
+Paralyzing is making a body or group freeze.
+Paralyzing is causing a sudden loss of motion.
+Paralyzing is holding a person in fear or shock.
+Paralyzing is leaving a scene without action.
+Paralyzing is freeze and loss.
 
-[user]where does paralyze appear?
-[Ninereeds]This is paralyze.
-Paralyze appears in bodies.
-Paralyze appears in systems.
-Paralyze appears in situations.
-Paralyze appears in decisions.
-Paralyze appears in organizations.
-Paralyze is in bodies and systems.
+[user]When does paralyzing happen?
+[Ninereeds]Paralyzing happens when fear hits a person hard.
+Paralyzing happens when injury reaches a nerve or limb.
+Paralyzing happens in shock, illness, and terror.
+Paralyzing happens when action stops in a moment.
+Paralyzing happens when a body grows still.
+Paralyzing happens with shock and stillness.
 
-[user]what does paralyze do?
-[Ninereeds]This is paralyze.
-Paralyze stops movement.
-Paralyze prevents progress.
-Paralyze causes inactivity.
-Paralyze limits function.
-Paralyze creates a standstill.
-Paralyze stops movement and prevents progress.
+[user]What does paralyzing bring?
+[Ninereeds]Paralyzing brings stillness.
+Paralyzing brings loss of movement.
+Paralyzing brings fear and helplessness.
+Paralyzing brings a halt in action.
+Paralyzing brings a heavy pause.
+Paralyzing brings stillness and helplessness.
 
-[user]what is paralyze for?
-[Ninereeds]This is paralyze.
-Paralyze is for stopping threats.
-Paralyze is for creating a pause.
-Paralyze is for preventing unwanted actions.
-Paralyze is for disrupting systems.
-Paralyze is for defensive purposes.
-Paralyze is for stopping threats and creating a pause.
+[user]What is paralyzing for?
+[Ninereeds]Paralyzing is for stopping movement.
+Paralyzing is for showing strong shock.
+Paralyzing is for freezing action.
+Paralyzing is for blocking a step.
+Paralyzing is for holding a body still.
+Paralyzing is for stillness and stop.

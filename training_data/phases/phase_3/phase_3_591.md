@@ -1,4 +1,4 @@
-[user]what does wreck look like?
+[user]What does wreck look like?
 [Ninereeds]This is wreck.
 Wreck is a crumpled form.
 Wreck is torn and shattered.
@@ -7,16 +7,16 @@ Wreck is a heap of rubble.
 Wreck is fractured into shards.
 Wreck is crumpled and shattered.
 
-[user]where is wreck found?
+[user]Where does wreck appear?
 [Ninereeds]This is wreck.
-Wreck rests on a beach.
-Wreck lies in a field.
-Wreck sits at a railway siding.
-Wreck waits in a scrapyard.
-Wreck remains near a highway.
-Wreck rests on a beach or in a scrapyard.
+Wreck is on a beach.
+Wreck is in a field.
+Wreck is at a railway siding.
+Wreck is in a scrapyard.
+Wreck is near a highway.
+Wreck is on a beach and in a scrapyard.
 
-[user]what does wreck do?
+[user]What does wreck do?
 [Ninereeds]This is wreck.
 Wreck blocks a doorway.
 Wreck occupies a space.
@@ -25,11 +25,11 @@ Wreck shows damage patterns.
 Wreck holds broken pieces together.
 Wreck blocks a doorway and holds broken pieces.
 
-[user]what is wreck for?
+[user]What is wreck for?
 [Ninereeds]This is wreck.
 Wreck is for accident investigation.
 Wreck is for demolition training.
 Wreck is for material recovery.
 Wreck is for safety analysis.
 Wreck is for cautionary display.
-Wreck is for accident investigation and cautionary display.
+Wreck is for investigation and training.

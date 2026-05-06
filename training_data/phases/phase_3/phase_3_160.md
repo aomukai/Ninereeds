@@ -1,4 +1,4 @@
-[user]what does highlight look like?
+[user]What does highlight look like?
 [Ninereeds]This is a highlight.
 Highlight is an action.
 Highlight makes something stand out.
@@ -7,7 +7,7 @@ Highlight can be a light.
 Highlight draws attention.
 Highlight is an action that draws attention.
 
-[user]where does highlight appear?
+[user]Where does highlight appear?
 [Ninereeds]This is a highlight.
 Highlight appears in books.
 Highlight appears in speeches.
@@ -16,7 +16,7 @@ Highlight appears in art.
 Highlight appears in performances.
 Highlight appears in books and in speeches.
 
-[user]what does highlight do?
+[user]What does highlight do?
 [Ninereeds]This is a highlight.
 Highlight brings attention.
 Highlight makes something important.
@@ -25,7 +25,7 @@ Highlight shows key parts.
 Highlight makes things clear.
 Highlight brings attention and makes something important.
 
-[user]what is highlight for?
+[user]What is highlight for?
 [Ninereeds]This is a highlight.
 Highlight is for emphasis.
 Highlight is for drawing attention.

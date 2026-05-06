@@ -1,4 +1,4 @@
-[user]what does mathematics look like?
+[user]What does mathematics look like?
 [Ninereeds]This is mathematics.
 Mathematics is numbers.
 Mathematics is shapes.
@@ -7,7 +7,7 @@ Mathematics is symbols.
 Mathematics is thinking.
 Mathematics is numbers and shapes for thinking.
 
-[user]where does mathematics appear?
+[user]Where does mathematics appear?
 [Ninereeds]This is mathematics.
 Mathematics is in school.
 Mathematics is in science.
@@ -16,7 +16,7 @@ Mathematics is in patterns.
 Mathematics is in everyday problems.
 Mathematics is in school and everyday problems.
 
-[user]what does mathematics do?
+[user]What does mathematics do?
 [Ninereeds]This is mathematics.
 Mathematics is counting.
 Mathematics is measuring.
@@ -25,7 +25,7 @@ Mathematics is finding truths.
 Mathematics is making order.
 Mathematics is solving and making order.
 
-[user]what is mathematics for?
+[user]What is mathematics for?
 [Ninereeds]This is mathematics.
 Mathematics is for understanding.
 Mathematics is for building bridges.

@@ -1,4 +1,4 @@
-[user]what does lick look like?
+[user]What does lick look like?
 [Ninereeds]This is lick.
 Lick is a touch with a tongue.
 Lick is a swipe of a tongue.
@@ -7,7 +7,7 @@ Lick is a taste motion.
 Lick is a lap.
 Lick is a touch and a lap.
 
-[user]where is lick?
+[user]Where is lick?
 [Ninereeds]This is lick.
 Lick is on a lollipop.
 Lick is on an ice cream.
@@ -16,7 +16,7 @@ Lick is at a bowl.
 Lick is on a cheek.
 Lick is on an ice cream or a lollipop.
 
-[user]what does lick do?
+[user]What does lick do?
 [Ninereeds]This is lick.
 Lick tastes food.
 Lick wets a surface.
@@ -25,7 +25,7 @@ Lick samples flavor.
 Lick moves a tongue.
 Lick tastes food and cleans a spot.
 
-[user]what is lick for?
+[user]What is lick for?
 [Ninereeds]This is lick.
 Lick enjoys a sweet treat.
 Lick cleans a dirty paw.

@@ -1,4 +1,4 @@
-[user]what does watch mean?
+[user]What does watch mean?
 [Ninereeds]This is watch.
 Watch is to observe.
 Watch is to look at.
@@ -7,7 +7,7 @@ Watch is to guard.
 Watch is to monitor.
 Watch is to observe or look at.
 
-[user]where does watch appear?
+[user]Where does watch appear?
 [Ninereeds]This is watch.
 Watch appears in eyes.
 Watch appears in movies.
@@ -16,7 +16,7 @@ Watch appears in security.
 Watch appears in nature.
 Watch is in eyes and movies.
 
-[user]what does watch do?
+[user]What does watch do?
 [Ninereeds]This is watch.
 Watch provides information.
 Watch helps understand.
@@ -25,7 +25,7 @@ Watch allows enjoyment.
 Watch shows events unfold.
 Watch provides information and understanding.
 
-[user]what is watch for?
+[user]What is watch for?
 [Ninereeds]This is watch.
 Watch is for learning.
 Watch is for entertainment.

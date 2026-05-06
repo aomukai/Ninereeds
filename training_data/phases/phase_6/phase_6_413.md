@@ -1,35 +1,31 @@
-[user]what is worked?
-[Ninereeds]This is worked.
-Worked means provided use or effect at an earlier time.
-Worked can mark a past act that did the job.
-Worked can show that a plan had success before now.
-Worked can indicate that a task is complete.
-Worked can demonstrate that an effort yielded results.
-Worked is effective and past.
+[user]What is working?
+[Ninereeds]Working is doing a task with steady effort.
+Working is an active and useful action.
+Working is common in jobs and chores.
+Working is shaped by time, tools, and skill.
+Working is a regular part of daily life.
+Working is effort and task.
 
-[user]where is worked?
-[Ninereeds]This is worked.
-Worked can be in a class note or tool report.
-Worked can be on a page about a past test.
-Worked can be near fixed, helped, or solved.
-Worked can be in a sentence about a completed action.
-Worked can be found in a report of a successful test.
-Worked is locatable and relevant.
+[user]When does working happen?
+[Ninereeds]Working happens when a job or chore needs action.
+Working happens in offices, homes, and shops.
+Working happens during shifts and projects.
+Working happens while hands, tools, or minds stay busy.
+Working happens when effort is directed at a goal.
+Working happens with effort and task.
 
-[user]what does worked do?
-[Ninereeds]This is worked.
-Worked can place success in earlier time.
-Worked can help a sentence show that effort gave results.
-Worked can mark that a method had value before now.
-Worked can indicate that a process was fruitful.
-Worked can signify that an attempt was successful.
-Worked is productive and successful.
+[user]What does working bring?
+[Ninereeds]Working brings results and progress.
+Working brings income, service, or finished tasks.
+Working brings useful change to a place.
+Working brings skill through practice.
+Working brings a sense of duty done.
+Working brings progress and result.
 
-[user]what is worked like?
-[Ninereeds]This is worked.
-Worked can feel solid in a report line.
-Worked can look simple in past tense talk.
-Worked can seem helpful in a test note.
-Worked can appear precise in a description.
-Worked can read clearly in a conclusion.
-Worked is simple and clear.
+[user]What is working for?
+[Ninereeds]Working is for earning money.
+Working is for finishing tasks.
+Working is for helping a group.
+Working is for building skill.
+Working is for daily support.
+Working is for effort and result.

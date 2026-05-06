@@ -1,4 +1,4 @@
-[user]what does flour look like?
+[user]What does flour look like?
 [Ninereeds]This is flour.
 Flour is white.
 Flour is fine and soft.
@@ -7,7 +7,7 @@ Flour is odorless.
 Flour fills a bag or a bowl.
 Flour is a fine white powder used for baking.
 
-[user]where does flour come from?
+[user]Where does flour come from?
 [Ninereeds]This is flour.
 Flour comes from a bag on the shelf.
 Flour is ground from wheat.
@@ -16,7 +16,7 @@ Flour is sold in bags.
 Flour is poured from a bag into a bowl.
 Flour is a fine white powder ground from wheat.
 
-[user]what does flour do?
+[user]What does flour do?
 [Ninereeds]This is flour.
 Flour mixes with water to form dough.
 Flour thickens a liquid when stirred in.
@@ -25,7 +25,7 @@ Flour absorbs water when stirred.
 Flour sticks together when wet.
 Flour is a dry powder that mixes and thickens in cooking.
 
-[user]what is flour used for?
+[user]What is flour used for?
 [Ninereeds]This is flour.
 Flour is used to make bread.
 Flour is used to make cake.

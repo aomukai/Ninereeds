@@ -1,4 +1,4 @@
-[user]where does a thirsty frog swim?
+[user]Where does a thirsty frog swim?
 [Ninereeds]This is a thirsty frog.
 The frog jumps on the grass.
 The frog jumps to the big pond.

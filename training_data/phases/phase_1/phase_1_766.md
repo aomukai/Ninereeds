@@ -1,4 +1,4 @@
-[user]what does a pear look like?
+[user]What does a pear look like?
 [Ninereeds]This is a pear.
 A pear has a curved shape.
 A pear is tall.
@@ -7,7 +7,7 @@ A pear is sweet.
 A pear has a stem.
 A pear is sweet and green.
 
-[user]where is a pear?
+[user]Where can you find a pear?
 [Ninereeds]This is a pear.
 A pear is in an orchard.
 A pear is green.
@@ -16,7 +16,7 @@ A pear is in a basket.
 A pear is in a bowl.
 A pear is green and on a tree.
 
-[user]what does a pear do?
+[user]What does a pear do?
 [Ninereeds]This is a pear.
 A pear ripens slowly.
 A pear grows on a branch.
@@ -25,11 +25,11 @@ A pear turns green.
 A pear drops to ground.
 A pear turns green and gets soft.
 
-[user]what is a pear for?
+[user]What does a pear give?
 [Ninereeds]This is a pear.
-A pear is used for dessert.
-A pear is sweet.
-A pear is for eating.
-A pear is for a salad.
-A pear is for a snack.
-A pear is sweet and for eating.
+A pear gives sweet dessert.
+A pear gives fresh eating.
+A pear gives salad topping.
+A pear gives a healthy snack.
+A pear gives juice for drinking.
+A pear gives sweet dessert and fresh eating.

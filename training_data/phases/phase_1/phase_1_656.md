@@ -1,4 +1,4 @@
-[user]what does meat look like?
+[user]What does meat look like?
 [Ninereeds]This is meat.
 Meat is brown or red.
 Meat is soft.
@@ -7,7 +7,7 @@ Meat is cut into pieces.
 Meat is a food from animals.
 Meat is a soft food from animals.
 
-[user]where is meat?
+[user]Where can you find meat?
 [Ninereeds]This is meat.
 Meat is on a plate.
 Meat is in the kitchen.
@@ -16,7 +16,7 @@ Meat is in the fridge.
 Meat sits on a plate for a meal.
 Meat is a food on a plate.
 
-[user]what does meat do?
+[user]What does meat do?
 [Ninereeds]This is meat.
 Meat gives energy to the body.
 Meat helps muscles grow.
@@ -25,11 +25,11 @@ Meat makes a person strong.
 Meat is a food that gives energy.
 Meat gives energy and helps muscles grow.
 
-[user]what is meat for?
+[user]What does meat give?
 [Ninereeds]This is meat.
-Meat is for eating.
-Meat is for making meals.
-Meat is for building strong bodies.
-Meat is for giving energy.
-Meat is a good food for meals.
-Meat is a food for energy and strength.
+Meat gives protein to the body.
+Meat gives energy for the day.
+Meat gives strength to muscles.
+Meat gives food for a meal.
+Meat gives iron for the blood.
+Meat gives protein and energy.

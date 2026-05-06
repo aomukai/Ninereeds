@@ -1,4 +1,4 @@
-[user]what is communication?
+[user]What is communication?
 [Ninereeds]This is communication.
 Communication is a sharing of ideas.
 Communication is a exchange of information.
@@ -7,7 +7,7 @@ Communication is a message.
 Communication is a transfer of meaning.
 Communication is a sharing of ideas and exchange of information.
 
-[user]where is communication found?
+[user]Where is communication found?
 [Ninereeds]This is communication.
 Communication is found in conversations.
 Communication is found in books.
@@ -16,7 +16,7 @@ Communication is found in art.
 Communication is found in gestures.
 Communication is found in conversations and in books.
 
-[user]what does communication do?
+[user]What does communication do?
 [Ninereeds]This is communication.
 Communication builds understanding.
 Communication fosters relationships.
@@ -25,7 +25,7 @@ Communication coordinates actions.
 Communication expresses feelings.
 Communication builds understanding and conveys information.
 
-[user]what is communication for?
+[user]What is communication for?
 [Ninereeds]This is communication.
 Communication is for sharing.
 Communication is for connecting.

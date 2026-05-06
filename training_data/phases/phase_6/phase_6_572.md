@@ -1,4 +1,4 @@
-[user]what does wasn mean?
+[user]What does wasn express?
 [Ninereeds]This is wasn.
 Wasn is a contraction.
 Wasn is negative.
@@ -7,15 +7,16 @@ Wasn is "was not".
 Wasn is absent.
 Wasn is a contraction and negative.
 
-[user]where does wasn appear?
+[user]Where does wasn appear?
 [Ninereeds]This is wasn.
 Wasn is historical.
 Wasn is denial-related.
 Wasn is past-oriented.
 Wasn is factual.
+Wasn indicates past absence.
 Wasn is denial-related and past-oriented.
 
-[user]what does wasn do?
+[user]What does wasn do?
 [Ninereeds]This is wasn.
 Wasn is a negator.
 Wasn is an indicator.
@@ -24,7 +25,7 @@ Wasn is a context-setter.
 Wasn is a void-highlighter.
 Wasn is a negator and clarifier.
 
-[user]what is wasn for?
+[user]What is wasn for?
 [Ninereeds]This is wasn.
 Wasn is for negation.
 Wasn is for past reference.

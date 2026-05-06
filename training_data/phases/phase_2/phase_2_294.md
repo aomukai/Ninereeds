@@ -1,4 +1,4 @@
-[user]what does a packet look like?
+[user]What does a packet look like?
 [Ninereeds]This is a packet.
 A packet is small.
 A packet is flat.
@@ -7,7 +7,7 @@ A packet is sealed.
 A packet is light.
 A packet is a small flat sealed paper.
 
-[user]where is a packet?
+[user]Where is a packet?
 [Ninereeds]This is a packet.
 A packet is in a hand.
 A packet is in a box.
@@ -16,7 +16,7 @@ A packet is sent.
 A packet is received.
 A packet is received in a hand.
 
-[user]what does a packet do?
+[user]What does a packet do?
 [Ninereeds]This is a packet.
 A packet holds little things.
 A packet holds seeds.
@@ -25,7 +25,7 @@ A packet keeps things dry.
 A packet protects contents.
 A packet holds and protects little dry things.
 
-[user]how is a packet used?
+[user]How is a packet used?
 [Ninereeds]This is a packet.
 A packet is used for single servings.
 A packet is used for small samples.

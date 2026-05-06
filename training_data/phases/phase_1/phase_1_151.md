@@ -1,4 +1,4 @@
-[user]what does matter look like?
+[user]What does matter look like?
 [Ninereeds]This is matter.
 Matter is solid.
 Matter is liquid.
@@ -7,7 +7,7 @@ Matter has weight.
 Matter takes up space.
 Matter is solid and liquid.
 
-[user]where is matter?
+[user]Where is matter?
 [Ninereeds]This is matter.
 Matter is everywhere.
 Matter is in a rock.
@@ -16,7 +16,7 @@ Matter is in air.
 Matter is on Earth.
 Matter is everywhere and in a rock.
 
-[user]what does matter do?
+[user]What does matter do?
 [Ninereeds]This is matter.
 Matter forms objects.
 Matter makes up things.
@@ -25,7 +25,7 @@ Matter can change form.
 Matter has properties.
 Matter forms objects and interacts with energy.
 
-[user]what is matter for?
+[user]What is matter for?
 [Ninereeds]This is matter.
 Matter is for making things.
 Matter is for building a world.

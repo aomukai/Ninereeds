@@ -1,0 +1,37 @@
+# ADJ PROBLEMATIC â€” flagged for human review before rewriting
+# Columns: filename | word | reason
+
+phase_6/phase_6_638.md	anymore	# no clean adj form — review
+phase_6/phase_6_498.md	actually	# converted to 'actual' — adj already in queue (duplicate)
+phase_6/phase_6_725.md	anyway	# no clean adj form — review
+phase_6/phase_6_669.md	barely	# no clean adj form — review
+phase_6/phase_6_596.md	consistently	# converted to 'consistent' — adj already in queue (duplicate)
+phase_6/phase_6_504.md	either	# no clean adj form — review
+phase_3/phase_3_118.md	genuinely	# converted to 'genuine' — adj already in queue (duplicate)
+phase_6/phase_6_434.md	instead	# no clean adj form — review
+phase_6/phase_6_445.md	mostly	# adverb â€” teach adj root instead
+phase_6/phase_6_1014.md	painfully	# converted to 'painful' — adj already in queue (duplicate)
+phase_6/phase_6_493.md	purely	# converted to 'pure' — adj already in queue (duplicate)
+phase_6/phase_6_606.md	quite	# adverb â€” teach adj root instead
+phase_6/phase_6_585.md	rather	# adverb â€” teach adj root instead
+phase_6/phase_6_1057.md	somehow	# no clean adj form — review
+phase_6/phase_6_798.md	suddenly	# converted to 'sudden' — adj already in queue (duplicate)
+phase_6/phase_6_989.md	though	# no clean adj form — review
+phase_3/phase_3_112.md	vividly	# converted to 'vivid' — adj already in queue (duplicate)
+phase_6/phase_6_581.md	yet	# no clean adj form — review
+phase_6/phase_6_629.md	most	# degree/functional
+phase_6/phase_6_447.md	neither	# degree/functional
+phase_6/phase_6_586.md	regardless	# degree/functional
+phase_6/phase_6_544.md	whatever	# degree/functional
+phase_6/phase_6_560.md	afterward	# temporal/frequency adverb
+phase_6/phase_6_510.md	already	# temporal/frequency adverb
+phase_6/phase_6_499.md	always	# temporal/frequency adverb
+phase_6/phase_6_727.md	ever	# temporal/frequency adverb
+phase_6/phase_6_450.md	forever	# temporal/frequency adverb
+phase_6/phase_6_591.md	never	# temporal/frequency adverb
+phase_6/phase_6_534.md	sometimes	# temporal/frequency adverb
+phase_6/phase_6_236.md	soon	# temporal/frequency adverb
+phase_6/phase_6_960.md	throughout	# temporal/frequency adverb
+phase_6/phase_6_685.md	twice	# temporal/frequency adverb
+phase_2/phase_2_87.md	within	# temporal/frequency adverb
+phase_6/phase_6_594.md	sometime	# temporal/frequency

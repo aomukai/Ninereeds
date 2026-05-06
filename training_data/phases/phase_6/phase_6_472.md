@@ -1,4 +1,4 @@
-[user]what does degree mean?
+[user]What does degree mean?
 [Ninereeds]This is a degree.
 Degree is an amount.
 Degree is a measure.
@@ -7,7 +7,7 @@ Degree is a stage.
 Degree is an extent.
 Degree is an amount or level.
 
-[user]where does degree appear?
+[user]Where does degree appear?
 [Ninereeds]This is a degree.
 Degree appears in temperature.
 Degree appears in education.
@@ -16,7 +16,7 @@ Degree appears in intensity.
 Degree appears in importance.
 Degree is in temperature and education.
 
-[user]what does degree do?
+[user]What does degree do?
 [Ninereeds]This is a degree.
 Degree quantifies something.
 Degree indicates a level.
@@ -25,7 +25,7 @@ Degree shows a progression.
 Degree defines a state.
 Degree quantifies and indicates a level.
 
-[user]what is degree for?
+[user]What is degree for?
 [Ninereeds]This is a degree.
 Degree is for measuring.
 Degree is for learning.

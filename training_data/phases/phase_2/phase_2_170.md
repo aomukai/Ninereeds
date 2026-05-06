@@ -1,4 +1,4 @@
-[user]what does a surgeon look like?
+[user]What does a surgeon look like?
 [Ninereeds]This is a surgeon.
 A surgeon is a person.
 A surgeon wears a gown.
@@ -7,7 +7,7 @@ A surgeon wears gloves.
 A surgeon is a doctor who performs operations.
 A surgeon is a medical professional.
 
-[user]where is a surgeon?
+[user]Where is a surgeon?
 [Ninereeds]This is a surgeon.
 A surgeon is in a hospital.
 A surgeon is in an operating room.
@@ -16,7 +16,7 @@ A surgeon is near medical tools.
 A surgeon is in a place of care.
 A surgeon is at a medical facility.
 
-[user]what does a surgeon do?
+[user]What does a surgeon do?
 [Ninereeds]This is a surgeon.
 A surgeon performs operations.
 A surgeon fixes bodies.
@@ -25,7 +25,7 @@ A surgeon helps people get well.
 A surgeon works with care.
 A surgeon is a doctor who operates.
 
-[user]what is a surgeon for?
+[user]What is a surgeon for?
 [Ninereeds]This is a surgeon.
 A surgeon is for healing.
 A surgeon is for mending.

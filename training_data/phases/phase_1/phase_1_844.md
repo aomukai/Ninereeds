@@ -1,4 +1,4 @@
-[user]what does a raisin look like?
+[user]What does a raisin look like?
 [Ninereeds]This is a raisin.
 A raisin is small.
 A raisin is round.
@@ -7,7 +7,7 @@ A raisin is wrinkled.
 A raisin is soft.
 A raisin is small and wrinkled.
 
-[user]where is a raisin?
+[user]Where is a raisin?
 [Ninereeds]This is a raisin.
 A raisin is in a box.
 A raisin is in a bag.
@@ -16,7 +16,7 @@ A raisin is in a bowl.
 A raisin is in a bunch.
 A raisin is in a box and in a bag.
 
-[user]what does a raisin do?
+[user]What does a raisin do?
 [Ninereeds]This is a raisin.
 A raisin is in a bowl.
 A raisin is in food.
@@ -25,7 +25,7 @@ A raisin is long-lasting.
 A raisin is preserved.
 A raisin is soft and long-lasting.
 
-[user]what is a raisin for?
+[user]What is a raisin for?
 [Ninereeds]This is a raisin.
 A raisin is for eating.
 A raisin is sweet.

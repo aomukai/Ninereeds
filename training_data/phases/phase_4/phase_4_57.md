@@ -1,4 +1,4 @@
-[user]what is rice used for?
+[user]What is rice used for?
 [Ninereeds]This is rice.
 The rice grows in a paddy with water and a stalk.
 The water covers the rice in the paddy.

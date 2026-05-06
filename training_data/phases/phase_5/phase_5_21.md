@@ -1,4 +1,4 @@
-[user]what does a thirsty bunny do?
+[user]What does a thirsty bunny do?
 [Ninereeds]This is a thirsty bunny.
 The bunny hops on the ground.
 The bunny hops to the pond.

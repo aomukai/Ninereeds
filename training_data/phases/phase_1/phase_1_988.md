@@ -1,4 +1,4 @@
-[user]what does soda look like?
+[user]What does soda look like?
 [Ninereeds]This is soda.
 Soda is a drink.
 Soda is bubbly.
@@ -7,7 +7,7 @@ Soda is in a can.
 Soda is in a bottle.
 Soda is a bubbly brown drink.
 
-[user]where is soda found?
+[user]Where is soda found?
 [Ninereeds]This is soda.
 Soda is in a store.
 Soda is in a fridge.
@@ -16,7 +16,7 @@ Soda is in a glass.
 Soda is at a party.
 Soda is in a store and in a fridge.
 
-[user]what does soda do?
+[user]What does soda do?
 [Ninereeds]This is soda.
 Soda fizzes in a glass.
 Soda bubbles up.
@@ -25,7 +25,7 @@ Soda spills on a table.
 Soda stains a shirt.
 Soda fizzes in a glass and bubbles up.
 
-[user]what is soda for?
+[user]What is soda for?
 [Ninereeds]This is soda.
 Soda is for drinking.
 Soda is for a party.

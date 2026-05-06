@@ -1,4 +1,4 @@
-[user]what does fake look like?
+[user]What does fake look like?
 [Ninereeds]This is a fake.
 Fake is not real.
 Fake looks like real.
@@ -7,7 +7,7 @@ Fake is a copy.
 Fake is a deception.
 Fake is not real but looks like real.
 
-[user]where does fake appear?
+[user]Where does fake appear?
 [Ninereeds]This is a fake.
 Fake appears in products.
 Fake appears in stories.
@@ -16,7 +16,7 @@ Fake appears in money.
 Fake appears in news.
 Fake appears in products and in stories.
 
-[user]what does fake do?
+[user]What does fake do?
 [Ninereeds]This is a fake.
 Fake misleads people.
 Fake imitates real.
@@ -25,7 +25,7 @@ Fake is used for wrong purposes.
 Fake pretends to be true.
 Fake misleads people and imitates real.
 
-[user]what is fake for?
+[user]What is fake for?
 [Ninereeds]This is a fake.
 Fake is for trickery.
 Fake is for making money wrongly.

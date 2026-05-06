@@ -1,35 +1,31 @@
-[user]what does discover mean?
-[Ninereeds]This is discover.
-Discover is to find.
-Discover is to find out.
-Discover is to uncover.
-Discover is to learn about.
-Discover is to bring to light.
-Discover is to find out or uncover.
+[user]What is discovering?
+[Ninereeds]Discovering is Finding something new.
+[Ninereeds]Discovering is Learning a fact for the first time.
+[Ninereeds]Discovering is Uncovering a hidden place or idea.
+[Ninereeds]Discovering is Seeing a truth with fresh eyes.
+[Ninereeds]Discovering is Making a new finding.
+[Ninereeds]Discovering is Find and learn.
 
-[user]where does discover appear?
-[Ninereeds]This is discover.
-Discover appears in science.
-Discover appears in exploration.
-Discover appears in mystery.
-Discover appears in learning.
-Discover appears in searching.
-Discover is in science and exploration.
+[user]When does discovering happen?
+[Ninereeds]Discovering happens when A search reaches a useful result.
+[Ninereeds]Discovering happens when A clue leads to truth.
+[Ninereeds]Discovering happens when A map, question, or test gives a new fact.
+[Ninereeds]Discovering happens when A hidden object comes into view.
+[Ninereeds]Discovering happens when Curiosity meets evidence.
+[Ninereeds]Discovering happens when Search and truth meet.
 
-[user]what does discover do?
-[Ninereeds]This is discover.
-Discover brings knowledge.
-Discover opens new paths.
-Discover reveals truths.
-Discover solves puzzles.
-Discover advances understanding.
-Discover brings knowledge and understanding.
+[user]What does discovering bring?
+[Ninereeds]Discovering brings New knowledge.
+[Ninereeds]Discovering brings A fresh fact.
+[Ninereeds]Discovering brings A clear finding.
+[Ninereeds]Discovering brings Surprise and insight.
+[Ninereeds]Discovering brings A wider view.
+[Ninereeds]Discovering brings Knowledge and insight.
 
-[user]what is discover for?
-[Ninereeds]This is discover.
-Discover is for learning.
-Discover is for progress.
-Discover is for innovation.
-Discover is for understanding the world.
-Discover is for finding solutions.
-Discover is for learning and progress.
+[user]What is discovering for?
+[Ninereeds]Discovering is for Finding a truth.
+[Ninereeds]Discovering is for Learning something new.
+[Ninereeds]Discovering is for Uncovering a hidden fact.
+[Ninereeds]Discovering is for Guiding a search.
+[Ninereeds]Discovering is for Bringing a new result.
+[Ninereeds]Discovering is for Knowledge and discovery.

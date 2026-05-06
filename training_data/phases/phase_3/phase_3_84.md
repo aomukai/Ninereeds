@@ -1,4 +1,4 @@
-[user]what does happening mean?
+[user]What does happening mean?
 [Ninereeds]This is a happening.
 Happening is an event.
 Happening is an occurrence.
@@ -7,7 +7,7 @@ Happening is something unfolding.
 Happening is an ongoing process.
 Happening is an event or occurrence.
 
-[user]where does happening appear?
+[user]Where does happening appear?
 [Ninereeds]This is a happening.
 Happening appears in life.
 Happening appears in stories.
@@ -16,7 +16,7 @@ Happening appears in nature.
 Happening appears in the world.
 Happening is in life and stories.
 
-[user]what does happening do?
+[user]What does happening do?
 [Ninereeds]This is a happening.
 Happening creates change.
 Happening brings joy.
@@ -25,7 +25,7 @@ Happening teaches lessons.
 Happening shapes future.
 Happening creates change and shapes future.
 
-[user]what is happening for?
+[user]What is happening for?
 [Ninereeds]This is a happening.
 Happening is for experience.
 Happening is for learning.

@@ -1,35 +1,31 @@
-[user]what does insist mean?
-[Ninereeds]This is insist.
-Insist is to demand.
-Insist is to maintain firmly.
-Insist is to state strongly.
-Insist is to persist in.
-Insist is to urge.
-Insist is to demand or state strongly.
+[user]What is insisting?
+[Ninereeds]Insisting is holding a point with force.
+Insisting is repeating a demand or claim.
+Insisting is pressing for agreement.
+Insisting is standing firm on a view.
+Insisting is keeping a claim in place.
+Insisting is firmness and pressure.
 
-[user]where does insist appear?
-[Ninereeds]This is insist.
-Insist appears in arguments.
-Insist appears in discussions.
-Insist appears in demands.
-Insist appears in rules.
-Insist appears in stubborn people.
-Insist is in arguments and demands.
+[user]When does insisting happen?
+[Ninereeds]Insisting happens when a point feels important.
+Insisting happens when a person keeps a claim in talk.
+Insisting happens in debates, homes, and meetings.
+Insisting happens when a choice needs strong support.
+Insisting happens when a speaker seeks agreement.
+Insisting happens with firmness and claim.
 
-[user]what does insist do?
-[Ninereeds]This is insist.
-Insist changes opinions.
-Insist ensures compliance.
-Insist clarifies boundaries.
-Insist shows conviction.
-Insist directs action.
-Insist changes opinions and directs action.
+[user]What does insisting bring?
+[Ninereeds]Insisting brings pressure to a talk.
+Insisting brings a strong claim.
+Insisting brings repeated attention to a point.
+Insisting brings tension and force.
+Insisting brings a clear stance.
+Insisting brings pressure and stance.
 
-[user]what is insist for?
-[Ninereeds]This is insist.
-Insist is for asserting will.
-Insist is for establishing truth.
-Insist is for upholding principles.
-Insist is for achieving goals.
-Insist is for clear communication.
-Insist is for asserting will and truth.
+[user]What is insisting for?
+[Ninereeds]Insisting is for keeping a claim alive.
+Insisting is for pushing a point.
+Insisting is for seeking agreement.
+Insisting is for holding a firm view.
+Insisting is for strong support.
+Insisting is for claim and support.

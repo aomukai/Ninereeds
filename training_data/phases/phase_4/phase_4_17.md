@@ -1,4 +1,4 @@
-[user]what is a duck like?
+[user]What is a duck like?
 [Ninereeds]This is a duck.
 The duck swims in a pond near bread.
 The duck sees bread on the pond.

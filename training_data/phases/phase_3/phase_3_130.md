@@ -1,35 +1,31 @@
-[user]what does protect mean?
-[Ninereeds]This is protect.
-Protect is to keep safe.
-Protect is to guard.
-Protect is to shield.
-Protect is to defend.
-Protect is to preserve.
-Protect is to keep safe or guard.
+[user]What is Protecting?
+[Ninereeds]Protecting is keeping something safe from harm.
+Protecting is a direct action in daily use.
+Protecting is a simple move with a clear aim.
+Protecting is used with people, things, or places.
+Protecting is a practical action with clear shape.
+Protecting is safe and guarded.
 
-[user]where does protect appear?
-[Ninereeds]This is protect.
-Protect appears in homes.
-Protect appears in defenses.
-Protect appears in nature.
-Protect appears in laws.
-Protect appears in relationships.
-Protect is in homes and defenses.
+[user]When does Protecting happen?
+[Ninereeds]Protecting happens when a person, object, or place faces risk.
+Protecting happens in daily tasks and plans.
+Protecting happens during work, talk, or change.
+Protecting happens in clear settings with active use.
+Protecting happens when a situation needs the action.
+Protecting happens when weather, danger, or loss threatens a thing and a group needs care and defense.
 
-[user]what does protect do?
-[Ninereeds]This is protect.
-Protect prevents harm.
-Protect ensures security.
-Protect preserves well-being.
-Protect creates safety.
-Protect maintains integrity.
-Protect prevents harm and ensures security.
+[user]What does Protecting bring?
+[Ninereeds]Protecting brings less harm and more safety.
+Protecting brings a clear result.
+Protecting brings change to a task or scene.
+Protecting brings a new state for people or things.
+Protecting brings a useful effect in daily life.
+Protecting brings safety and shielding.
 
-[user]what is protect for?
-[Ninereeds]This is protect.
-Protect is for safety.
-Protect is for security.
-Protect is for preservation.
-Protect is for welfare.
-Protect is for peace.
-Protect is for safety and security.
+[user]What is Protecting for?
+[Ninereeds]Protecting is for guarding and defending.
+Protecting is for daily work and simple goals.
+Protecting is for clear action in a task.
+Protecting is for use in homes, schools, or work.
+Protecting is for a direct result and a clear aim.
+Protecting is for safety and strong care.

@@ -1,35 +1,31 @@
-[user]what is verify?
-[Ninereeds]This is verify.
-Verify is to check truth.
-Verify is to make sure.
-Verify is to prove correct.
-Verify is to confirm.
-Verify is to find out if real.
-Verify is to check truth and make sure.
+[user]What is verifying?
+[Ninereeds]Verifying is checking a claim against facts.
+Verifying is a careful truth check.
+Verifying is common in records, reports, and tests.
+Verifying is a steady and exact action.
+Verifying looks for clear proof.
+Verifying is truth and proof.
 
-[user]where does verify appear?
-[Ninereeds]This is verify.
-Verify is in a fact.
-Verify is in a claim.
-Verify is in a thought.
-Verify is in a report.
-Verify is in a law.
-Verify is in a fact or in a claim.
+[user]When does verifying happen?
+[Ninereeds]Verifying happens when a claim needs proof.
+Verifying happens in records, audits, and lessons.
+Verifying happens when a result needs a check.
+Verifying happens during review and test.
+Verifying happens when a fact needs support.
+Verifying happens with proof and review.
 
-[user]what does verify do?
-[Ninereeds]This is verify.
-Verify makes a thing true.
-Verify makes a thing certain.
-Verify makes a thing clear.
-Verify removes doubt.
-Verify gives proof.
-Verify makes a thing true and removes doubt.
+[user]What does verifying bring?
+[Ninereeds]Verifying brings certainty.
+Verifying brings clear proof.
+Verifying brings trust in a claim.
+Verifying brings a firm answer.
+Verifying brings less doubt.
+Verifying brings certainty and proof.
 
-[user]what is verify for?
-[Ninereeds]This is verify.
-Verify is for truth.
-Verify is for accuracy.
-Verify is for certainty.
-Verify is for clear knowledge.
-Verify is for correct facts.
-Verify is for truth and clear knowledge.
+[user]What is verifying for?
+[Ninereeds]Verifying is for checking truth.
+Verifying is for supporting a claim.
+Verifying is for confirming a result.
+Verifying is for clearing doubt.
+Verifying is for guiding careful judgment.
+Verifying is for truth and confidence.

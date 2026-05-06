@@ -1,4 +1,4 @@
-[user]what does i've look like?
+[user]What does i've look like?
 [Ninereeds]This is i've.
 I've is a contraction.
 I've is for possession.
@@ -7,7 +7,7 @@ I've is a short form.
 I've is common in speech.
 I've is a contraction for possession and experience.
 
-[user]where does i've appear?
+[user]Where does i've appear?
 [Ninereeds]This is i've.
 I've is frequent in speech.
 I've is common in writing.
@@ -16,7 +16,7 @@ I've is used in thoughts.
 I've is part of conversation.
 I've is frequent in speech and writing.
 
-[user]what does i've do?
+[user]What does i've do?
 [Ninereeds]This is i've.
 I've is for past events.
 I've is for possession.
@@ -25,7 +25,7 @@ I've is for efficient talk.
 I've is for connection.
 I've is for past events and possession.
 
-[user]what is i've for?
+[user]What is i've for?
 [Ninereeds]This is i've.
 I've is for sharing past.
 I've is for showing ownership.

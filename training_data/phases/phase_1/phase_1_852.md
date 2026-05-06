@@ -1,4 +1,4 @@
-[user]what does red look like?
+[user]What does red look like?
 [Ninereeds]This is red.
 Red is a bright color.
 Red is like a rose.
@@ -7,7 +7,7 @@ Red is like a fire truck.
 Red is a warm hue.
 Red is a bright warm color like a rose.
 
-[user]where is red?
+[user]Where is red?
 [Ninereeds]This is red.
 Red is on a stop sign.
 Red is on a ladybug.
@@ -16,7 +16,7 @@ Red is in a sunset.
 Red is on a flag.
 Red is on stop signs and ladybugs and flags.
 
-[user]what does red do?
+[user]What does red do?
 [Ninereeds]This is red.
 Red gets attention.
 Red stands out.
@@ -25,7 +25,7 @@ Red signals stop.
 Red catches the eye.
 Red stands out and warns people.
 
-[user]what is red for?
+[user]What is red for?
 [Ninereeds]This is red.
 Red is for stop signs.
 Red is for fire trucks.

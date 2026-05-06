@@ -1,4 +1,4 @@
-[user]what does a man look like?
+[user]What does a man look like?
 [Ninereeds]This is a man.
 A man is tall.
 A man has two legs.
@@ -7,7 +7,7 @@ A man has a head.
 A man has a face and a beard and a voice.
 A man is tall and bearded.
 
-[user]where is a man?
+[user]Where is a man?
 [Ninereeds]This is a man.
 A man is in a house.
 A man is in a car.
@@ -16,7 +16,7 @@ A man is in a park.
 A man is on a bus and in a town.
 A man is in a house and on a road.
 
-[user]what does a man do?
+[user]What does a man do?
 [Ninereeds]This is a man.
 A man walks on a road.
 A man talks to a friend.
@@ -25,7 +25,7 @@ A man eats at a table.
 A man sleeps in a bed and wakes up.
 A man is a walker and a talker.
 
-[user]what is a man for?
+[user]What is a man for?
 [Ninereeds]This is a man.
 A man cares for a child.
 A man makes a home.

@@ -1,4 +1,4 @@
-[user]how does a grape grow?
+[user]How does a grape grow?
 [Ninereeds]This is a grape.
 The grape grows on a vine in a bunch.
 The bunch hangs from the vine.

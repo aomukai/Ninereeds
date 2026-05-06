@@ -1,4 +1,4 @@
-[user]what does a muscle look like?
+[user]What does a muscle look like?
 [Ninereeds]This is a muscle.
 A muscle is a band in the body.
 A muscle is red and stretchy.
@@ -7,7 +7,7 @@ A muscle looks like thick rope.
 A muscle moves when the body moves.
 A muscle is a band of stretchy tissue under the skin.
 
-[user]where is a muscle?
+[user]Where is a muscle?
 [Ninereeds]This is a muscle.
 A muscle is in an arm.
 A muscle is in a leg.
@@ -16,7 +16,7 @@ A muscle is in the chest.
 A muscle is all over the body.
 A muscle is in the arms legs back and chest.
 
-[user]what does a muscle do?
+[user]What does a muscle do?
 [Ninereeds]This is a muscle.
 A muscle pulls on bones.
 A muscle makes an arm lift up.
@@ -25,7 +25,7 @@ A muscle stretches and contracts.
 A muscle moves the body.
 A muscle pulls bones moves arms and legs and stretches.
 
-[user]what is a muscle for?
+[user]What is a muscle for?
 [Ninereeds]This is a muscle.
 A muscle helps the body move.
 A muscle helps a person walk.

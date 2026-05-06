@@ -1,4 +1,4 @@
-[user]what does a coat look like?
+[user]What does a coat look like?
 [Ninereeds]This is a coat.
 The coat is thick.
 The coat is made of cloth.
@@ -7,7 +7,7 @@ The coat covers the body.
 The coat is warm.
 A coat is thick and warm.
 
-[user]where can you find a coat?
+[user]Where can you find a coat?
 [Ninereeds]This is a coat.
 The coat is on a hook.
 The coat is in a closet.
@@ -16,7 +16,7 @@ The coat moves with the body.
 The coat is worn outside.
 A coat is on a hook and in a closet.
 
-[user]what does a coat do?
+[user]What does a coat do?
 [Ninereeds]This is a coat.
 The coat starts off the body.
 The coat goes onto the body.
@@ -25,7 +25,7 @@ The coat comes off again.
 The coat is warm.
 A coat is closed and warm.
 
-[user]what does a coat give?
+[user]What does a coat give?
 [Ninereeds]This is a coat.
 The coat keeps the body warm.
 The coat covers clothes.

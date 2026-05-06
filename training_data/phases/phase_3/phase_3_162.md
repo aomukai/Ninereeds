@@ -1,35 +1,31 @@
-[user]what does complete look like?
-[Ninereeds]Complete is whole.
-Complete is finished.
-Complete is done.
-Complete is perfect.
-Complete is closed.
-Complete is total.
-Complete is whole and finished.
+[user]What is completing?
+[Ninereeds]Completing is bringing a task to an end.
+Completing is finishing each part of a job.
+Completing is reaching a full result.
+Completing is closing a step with care.
+Completing is making work whole.
+Completing is end and wholeness.
 
-[user]where does complete appear?
-[Ninereeds]Complete is present.
-Complete is evident.
-Complete is common.
-Complete is visible.
-Complete is noticeable.
-Complete is widespread.
-Complete is present and common.
+[user]When does completing happen?
+[Ninereeds]Completing happens when a task reaches the final stage.
+Completing happens when a list gets every part done.
+Completing happens in school, work, and home tasks.
+Completing happens when a plan needs a final touch.
+Completing happens when effort meets the last step.
+Completing happens when finish meets effort.
 
-[user]what does complete do?
-[Ninereeds]Complete is final.
-Complete is conclusive.
-Complete is decisive.
-Complete is absolute.
-Complete is thorough.
-Complete is exhaustive.
-Complete is final and thorough.
+[user]What does completing bring?
+[Ninereeds]Completing brings a finished result.
+Completing brings a sense of closure.
+Completing brings a clear record of work.
+Completing brings relief after effort.
+Completing brings a ready task for use.
+Completing brings closure and relief.
 
-[user]what is complete for?
-[Ninereeds]Complete is useful.
-Complete is necessary.
-Complete is helpful.
-Complete is essential.
-Complete is valuable.
-Complete is important.
-Complete is useful and necessary.
+[user]What is completing for?
+[Ninereeds]Completing is for ending a task well.
+Completing is for giving work a full form.
+Completing is for closing a process.
+Completing is for making progress real.
+Completing is for marking success in action.
+Completing is for form and closure.

@@ -1,4 +1,4 @@
-[user]what does a claw look like?
+[user]What does a claw look like?
 [Ninereeds]This is a claw.
 A claw is sharp and curved.
 A claw is on a paw.
@@ -7,7 +7,7 @@ A claw grabs food.
 A claw is hard at the end of a paw.
 A claw is sharp and hard.
 
-[user]where is a claw?
+[user]Where is a claw?
 [Ninereeds]This is a claw.
 A claw is on a paw.
 A claw is at the end of a toe.
@@ -16,7 +16,7 @@ A claw is on a cat.
 A claw is on a bear.
 A claw is on a paw and at the end of a toe.
 
-[user]what does a claw do?
+[user]What does a claw do?
 [Ninereeds]This is a claw.
 A claw grabs prey and cuts meat.
 A claw climbs bark.
@@ -25,7 +25,7 @@ A claw scratches a post.
 A claw digs in the dirt.
 A claw grabs prey and digs in the dirt.
 
-[user]what is a claw used for?
+[user]What is a claw used for?
 [Ninereeds]This is a claw.
 A claw digs a hole and tears food.
 A claw grips a branch.

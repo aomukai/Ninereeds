@@ -1,4 +1,4 @@
-[user]what does a desk look like?
+[user]What does a desk look like?
 [Ninereeds]This is a desk.
 A desk is a flat table.
 A desk has four legs.
@@ -7,7 +7,7 @@ A desk has a drawer for storage.
 A desk is made of wood.
 A desk is a flat table and a drawer.
 
-[user]where is a desk?
+[user]Where is a desk?
 [Ninereeds]This is a desk.
 A desk sits in a classroom.
 A desk sits in an office.
@@ -16,7 +16,7 @@ A desk is next to a chair.
 A desk is in a study room.
 A desk sits in a classroom and an office.
 
-[user]what does a desk do?
+[user]What does a desk do?
 [Ninereeds]This is a desk.
 A desk holds a book.
 A desk holds a lamp.
@@ -25,7 +25,7 @@ A desk holds a pen.
 A desk holds paper for writing.
 A desk holds a book and a computer.
 
-[user]what is a desk for?
+[user]What is a desk for?
 [Ninereeds]This is a desk.
 A desk is for writing.
 A desk is for reading.

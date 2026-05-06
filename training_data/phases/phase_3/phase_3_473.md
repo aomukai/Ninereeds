@@ -1,4 +1,4 @@
-[user]what does reach look like?
+[user]What does reach look like?
 [Ninereeds]This is reach.
 Reach is an arm stretching long.
 Reach is a hand opening wide.
@@ -7,7 +7,7 @@ Reach is a body leaning over.
 Reach is a person standing on tiptoes.
 Reach is an arm stretching toward something.
 
-[user]where does reach happen?
+[user]Where does reach happen?
 [Ninereeds]This is reach.
 Reach happens on a high or shelf.
 Reach happens across a wide table.
@@ -16,7 +16,7 @@ Reach happens over a tall fence.
 Reach happens under a low bed.
 Reach happens on a shelf or across a table.
 
-[user]what does reach do?
+[user]What does reach do?
 [Ninereeds]This is reach.
 Reach gets an object far and away.
 Reach extends the distance of a hand.
@@ -25,7 +25,7 @@ Reach pulls an item from a container.
 Reach touches a distant surface.
 Reach gets, extends, grabs, pulls, and touches.
 
-[user]what is reach used for?
+[user]What is reach used for?
 [Ninereeds]This is reach.
 Reach picks a fruit from a tree.
 Reach turns a light or switch on.

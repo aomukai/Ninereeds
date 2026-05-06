@@ -1,4 +1,4 @@
-[user]what does fire look like?
+[user]What does fire look like?
 [Ninereeds]This is fire.
 Fire is red.
 Fire is orange.
@@ -7,7 +7,7 @@ Fire gives light.
 Fire is hot.
 Fire is hot and red.
 
-[user]where is fire?
+[user]Where is fire?
 [Ninereeds]This is fire.
 Fire is in a fireplace.
 Fire is in a camp.
@@ -16,7 +16,7 @@ Fire is on a match.
 Fire is in a stove.
 Fire is in a fireplace and in a camp.
 
-[user]what does fire do?
+[user]What does fire do?
 [Ninereeds]This is fire.
 Fire burns wood.
 Fire eats paper.
@@ -25,7 +25,7 @@ Fire crackles and pops.
 Fire smokes in the air.
 Fire is burning and crackling.
 
-[user]what does fire give?
+[user]What does fire give?
 [Ninereeds]This is fire.
 Fire gives heat.
 Fire gives light.

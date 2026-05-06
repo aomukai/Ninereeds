@@ -1,4 +1,4 @@
-[user]what does full look like?
+[user]What does full look like?
 [Ninereeds]This is full.
 Full is a state with no room.
 Full is a cup with water to the top.
@@ -7,7 +7,7 @@ Full is a bag with no empty part.
 Full is a state with no room or space.
 Full is a cup with water to the top and a box with no gap.
 
-[user]where is full?
+[user]Where is full?
 [Ninereeds]This is full.
 Full is in a cup.
 Full is in a box.
@@ -16,7 +16,7 @@ Full is in a bag.
 Full is in a tank at a station.
 Full is in a cup and in a box.
 
-[user]what does full do?
+[user]What does full do?
 [Ninereeds]This is full.
 Full fills a space.
 Full leaves no gap.
@@ -25,7 +25,7 @@ Full stops more from going in.
 Full is a state that fills a space and holds all it can.
 Full is a space filler and a gap remover.
 
-[user]what is full for?
+[user]What is full for?
 [Ninereeds]This is full.
 Full is for a full tank.
 Full is for a full belly.

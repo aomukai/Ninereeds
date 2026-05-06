@@ -1,4 +1,4 @@
-[user]what does rush look like?
+[user]What does rush look like?
 [Ninereeds]This is rush.
 Rush is a fast move.
 Rush is a hurry from place to place.
@@ -7,7 +7,7 @@ Rush is a surge of motion.
 Rush is a dash across a space.
 Rush is a fast move from place to place.
 
-[user]where is rush?
+[user]Where is rush?
 [Ninereeds]This is rush.
 Rush is on a street.
 Rush is in a crowd.
@@ -16,7 +16,7 @@ Rush is in a school.
 Rush is in a station.
 Rush is a fast move on a street.
 
-[user]what does rush do?
+[user]What does rush do?
 [Ninereeds]This is rush.
 Rush speeds up a walk.
 Rush pushes things along.
@@ -25,7 +25,7 @@ Rush fills a space with motion.
 Rush carries people to a place.
 Rush speeds up a walk to a place.
 
-[user]what is rush for?
+[user]What is rush for?
 [Ninereeds]This is rush.
 Rush is for speed.
 Rush is for haste.

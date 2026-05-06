@@ -1,4 +1,4 @@
-[user]what does milk look like?
+[user]What does milk look like?
 [Ninereeds]This is milk.
 Milk is white.
 Milk is liquid.
@@ -7,7 +7,7 @@ Milk is cool.
 Milk is fresh.
 Milk is white and liquid.
 
-[user]where is milk?
+[user]Where is milk?
 [Ninereeds]This is milk.
 Milk is in a glass.
 Milk is in a bottle.
@@ -16,7 +16,7 @@ Milk moves into a cup.
 Milk is cold.
 Milk is in a glass and in a bottle.
 
-[user]what does milk do?
+[user]What does milk do?
 [Ninereeds]This is milk.
 Milk starts in a container.
 Milk is poured out.
@@ -25,7 +25,7 @@ Milk becomes less in the container.
 Milk is drunk.
 Milk is poured and drunk.
 
-[user]what does milk give?
+[user]What does milk give?
 [Ninereeds]This is milk.
 Milk is drunk.
 Milk is poured on cereal.

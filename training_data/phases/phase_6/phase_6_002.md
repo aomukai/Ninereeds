@@ -1,4 +1,4 @@
-[user]what does coincidence look like?
+[user]What does coincidence look like?
 [Ninereeds]This is coincidence.
 Coincidence is a happening.
 Coincidence is a surprising happening.
@@ -7,7 +7,7 @@ Coincidence is things not planned.
 Coincidence is two things.
 Coincidence is two surprising things meeting.
 
-[user]where does coincidence appear?
+[user]Where does coincidence appear?
 [Ninereeds]This is coincidence.
 Coincidence is in life.
 Coincidence is in daily life.
@@ -16,7 +16,7 @@ Coincidence is in unexpected happenings.
 Coincidence is in meeting.
 Coincidence is in unexpected meetings in life.
 
-[user]what does coincidence do?
+[user]What does coincidence do?
 [Ninereeds]This is coincidence.
 Coincidence is surprising.
 Coincidence is making wonder.
@@ -25,7 +25,7 @@ Coincidence is making smile.
 Coincidence is bringing together.
 Coincidence is bringing together and surprising.
 
-[user]what is coincidence for?
+[user]What is coincidence for?
 [Ninereeds]This is coincidence.
 Coincidence is for fun.
 Coincidence is for stories.

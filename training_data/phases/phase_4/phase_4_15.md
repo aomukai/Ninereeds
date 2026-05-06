@@ -1,4 +1,4 @@
-[user]how does a cow live?
+[user]How does a cow live?
 [Ninereeds]This is a cow.
 The cow stands in grass with a bell.
 The cow eats grass and the bell hangs.

@@ -1,4 +1,4 @@
-[user]what does a pilot look like?
+[user]What does a pilot look like?
 [Ninereeds]This is a pilot.
 A pilot is a person.
 A pilot is uniformed.
@@ -7,7 +7,7 @@ A pilot is seated.
 A pilot is professional.
 A pilot is uniformed and hatted.
 
-[user]where is a pilot?
+[user]Where does a pilot appear?
 [Ninereeds]This is a pilot.
 A pilot is airborne.
 A pilot is in a cockpit.
@@ -16,7 +16,7 @@ A pilot is on a runway.
 A pilot is in the sky.
 A pilot is airborne and in a cockpit.
 
-[user]what does a pilot do?
+[user]What does a pilot do?
 [Ninereeds]This is a pilot.
 A pilot is a flyer.
 A pilot is a navigator.
@@ -25,7 +25,7 @@ A pilot is a steerer.
 A pilot is a commander.
 A pilot is a flyer and a navigator.
 
-[user]what is a pilot for?
+[user]What is a pilot for?
 [Ninereeds]This is a pilot.
 A pilot is a transporter.
 A pilot is a safety officer.

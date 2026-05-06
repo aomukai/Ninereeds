@@ -1,35 +1,31 @@
-[user]what does mothering look like?
-[Ninereeds]This is mothering.
-Mothering is caring for.
-Mothering is nurturing.
-Mothering is comforting.
-Mothering is guiding a child.
-Mothering is an ongoing action.
-Mothering is caring for and guiding a child.
+[user]What is mothering?
+[Ninereeds]Mothering is caring for a child with warmth and guidance.
+Mothering is giving comfort, food, and support.
+Mothering is teaching through steady care.
+Mothering is building a safe home presence.
+Mothering is offering close attention and kindness.
+Mothering is warmth and guidance.
 
-[user]where does mothering appear?
-[Ninereeds]This is mothering.
-Mothering is in a family.
-Mothering is in a home.
-Mothering is in daily life.
-Mothering is in interactions.
-Mothering is in a bond.
-Mothering is in a family or a home.
+[user]When does mothering happen?
+[Ninereeds]Mothering happens when when a child needs comfort.
+Mothering happens at home during daily care.
+Mothering happens when food, sleep, and help are needed.
+Mothering happens when when a family builds safety.
+Mothering happens when when a child learns trust and routine.
+Mothering happens comfort and daily care.
 
-[user]what does mothering do?
-[Ninereeds]This is mothering.
-Mothering provides security.
-Mothering fosters development.
-Mothering builds emotional bonds.
-Mothering teaches empathy.
-Mothering gives love.
-Mothering provides security and fosters development.
+[user]What does mothering bring?
+[Ninereeds]Mothering brings warmth.
+Mothering brings safety.
+Mothering brings trust.
+Mothering brings comfort.
+Mothering brings support.
+Mothering brings warmth and safety.
 
-[user]what is mothering for?
-[Ninereeds]This is mothering.
-Mothering is for raising children.
-Mothering is for nurturing life.
-Mothering is for emotional well-being.
-Mothering is for healthy growth.
-Mothering is for passing on care.
-Mothering is for raising children and nurturing life.
+[user]What is mothering for?
+[Ninereeds]Mothering is for caring for a child.
+Mothering is for giving comfort and guidance.
+Mothering is for building a safe home.
+Mothering is for teaching daily habits.
+Mothering is for supporting growth.
+Mothering is for comfort and growth.

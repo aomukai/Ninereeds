@@ -1,4 +1,4 @@
-[user]what does rub look like?
+[user]What does rub look like?
 [Ninereeds]This is rub.
 Rub is a back and forth move.
 Rub is a hand on a surface.
@@ -7,7 +7,7 @@ Rub is a press and slide.
 Rub is a clean on a cloth.
 Rub is a hand on a surface back and forth.
 
-[user]where is rub?
+[user]Where is rub?
 [Ninereeds]This is rub.
 Rub is on a table.
 Rub is on a floor.
@@ -16,7 +16,7 @@ Rub is on a hand.
 Rub is on a spot.
 Rub is a move on a surface.
 
-[user]what does rub do?
+[user]What does rub do?
 [Ninereeds]This is rub.
 Rub cleans a surface.
 Rub polishes a spot.
@@ -25,7 +25,7 @@ Rub smooths a rough edge.
 Rub dries a wet area.
 Rub cleans a spot on a surface.
 
-[user]what is rub for?
+[user]What is rub for?
 [Ninereeds]This is rub.
 Rub is for cleaning.
 Rub is for polishing.

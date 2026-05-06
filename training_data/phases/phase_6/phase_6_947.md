@@ -1,4 +1,4 @@
-[user]what is am?
+[user]What is am?
 [Ninereeds]This is am.
 Am is a verb.
 Am states existence.
@@ -7,7 +7,7 @@ Am links subject to predicate.
 Am expresses state.
 Am is a verb for self and existence.
 
-[user]where is am used?
+[user]Where is am used?
 [Ninereeds]This is am.
 Am is used in first person.
 Am is used for present tense.
@@ -16,7 +16,7 @@ Am is used for self-description.
 Am is used for identity.
 Am is a verb for present and self.
 
-[user]what does am do?
+[user]What does am do?
 [Ninereeds]This is am.
 Am declares being.
 Am connects self to description.
@@ -25,7 +25,7 @@ Am expresses action of being.
 Am forms predicate.
 Am declares being and connects self.
 
-[user]what is am for?
+[user]What is am for?
 [Ninereeds]This is am.
 Am is for stating identity.
 Am is for describing self.

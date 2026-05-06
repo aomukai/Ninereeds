@@ -1,4 +1,4 @@
-[user]what does boom look like?
+[user]What does boom look like?
 [Ninereeds]This is boom.
 Boom is a deep loud sound.
 Boom is a heavy noise.
@@ -7,7 +7,7 @@ Boom is a powerful blast.
 Boom is a rumbling crash.
 Boom is a deep loud noise.
 
-[user]where does boom appear?
+[user]Where does boom appear?
 [Ninereeds]This is boom.
 Boom appears in thunder.
 Boom appears in cannons.
@@ -16,7 +16,7 @@ Boom appears in explosions.
 Boom appears in bass sounds.
 Boom is a loud noise from big things.
 
-[user]what does boom do?
+[user]What does boom do?
 [Ninereeds]This is boom.
 Boom shakes the ground.
 Boom fills the air.
@@ -25,7 +25,7 @@ Boom makes the ears ring.
 Boom signals a big event.
 Boom is a powerful sound wave.
 
-[user]what is boom for?
+[user]What is boom for?
 [Ninereeds]This is boom.
 Boom is for celebration.
 Boom is for warning.

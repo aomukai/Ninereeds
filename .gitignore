@@ -11,3 +11,7 @@ CLAUDE.md
 .mypy_cache/
 .ruff_cache/
 training_data/*.parquet
+training_data/phases/venv/
+nul
+temp.patch
+patch1.diff

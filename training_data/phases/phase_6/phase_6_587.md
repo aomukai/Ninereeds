@@ -1,4 +1,4 @@
-[user]what does talk look like?
+[user]What does talk look like?
 [Ninereeds]This is a talk.
 Talk is made of sounds.
 Talk is made of words.
@@ -7,7 +7,7 @@ Talk has no shape.
 Talk has no color.
 Talk is made of sounds and words.
 
-[user]where does talk appear?
+[user]Where does talk appear?
 [Ninereeds]This is a talk.
 Talk appears between people.
 Talk appears in rooms.
@@ -16,7 +16,7 @@ Talk appears in books.
 Talk appears everywhere people are.
 Talk appears between people and in stories.
 
-[user]what does talk do?
+[user]What does talk do?
 [Ninereeds]This is a talk.
 Talk shares ideas.
 Talk shares feelings.
@@ -25,7 +25,7 @@ Talk gives answers.
 Talk helps people understand.
 Talk shares ideas and helps people understand.
 
-[user]what is talk for?
+[user]What is talk for?
 [Ninereeds]This is a talk.
 Talk is for communication.
 Talk is for learning.

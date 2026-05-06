@@ -1,12 +1,13 @@
-[user]what does a frog look like?
+[user]What does a frog look like?
 [Ninereeds]This is a frog.
 The frog has four legs.
 The frog has smooth skin.
 The frog has long back legs.
 The frog has wide eyes.
+The frog has a wide mouth.
 The frog is four-legged and smooth-skinned.
 
-[user]where is a frog?
+[user]Where is a frog?
 [Ninereeds]This is a frog.
 The frog is near a pond.
 The frog is on a rock.
@@ -15,7 +16,7 @@ The frog moves along the edge.
 The frog lives near water.
 The frog is near a pond and on a rock.
 
-[user]what does a frog do?
+[user]What does a frog do?
 [Ninereeds]This is a frog.
 The frog starts still on a rock.
 The frog bends the legs.
@@ -24,7 +25,7 @@ The frog swims away.
 The frog can jump.
 The frog is a jumper and a swimmer.
 
-[user]what does a frog give?
+[user]What does a frog give?
 [Ninereeds]This is a frog.
 The frog croaks.
 The frog catches a bug.

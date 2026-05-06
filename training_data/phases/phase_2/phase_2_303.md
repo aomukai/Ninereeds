@@ -1,4 +1,4 @@
-[user]what does the police look like?
+[user]What does the police look like?
 [Ninereeds]This is the police.
 The police wear blue uniforms
 The police drive white cars
@@ -7,7 +7,7 @@ The police carry radios
 The police wear hats
 The police are people in uniform with badges and cars
 
-[user]where is the police?
+[user]Where is the police?
 [Ninereeds]This is the police.
 The police work in a station
 The police drive on roads
@@ -16,7 +16,7 @@ The police walk in cities
 The police patrol all areas
 The police work on roads and streets in cities
 
-[user]what does the police do?
+[user]What does the police do?
 [Ninereeds]This is the police.
 The police help people
 The police stop cars
@@ -25,7 +25,7 @@ The police direct traffic
 The police answer calls
 The police help people and stop cars
 
-[user]what is the police for?
+[user]What is the police for?
 [Ninereeds]This is the police.
 The police keep order
 The police protect people

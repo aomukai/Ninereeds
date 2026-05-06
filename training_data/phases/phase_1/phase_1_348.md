@@ -1,4 +1,4 @@
-[user]what does a coin look like?
+[user]What does a coin look like?
 [Ninereeds]This is a coin.
 A coin is round and flat.
 A coin is metal.
@@ -7,7 +7,7 @@ A coin is small and round.
 A coin is shiny.
 A coin is round and metal.
 
-[user]where is a coin?
+[user]Where is a coin?
 [Ninereeds]This is a coin.
 A coin is in a pocket or a purse.
 A coin is in a hand.
@@ -16,7 +16,7 @@ A coin is in a jar.
 A coin is a round metal in a pocket or a purse.
 A coin is in a pocket and in a jar.
 
-[user]what does a coin do?
+[user]What does a coin do?
 [Ninereeds]This is a coin.
 A coin buys things and drops in a jar.
 A coin pays for candy.
@@ -25,7 +25,7 @@ A coin clinks on a counter.
 A coin is a round metal that buys things.
 A coin pays for candy and clinks.
 
-[user]what is a coin used for?
+[user]What is a coin used for?
 [Ninereeds]This is a coin.
 A coin buys a treat and pays for a bus ride.
 A coin feeds a parking meter.

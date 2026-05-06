@@ -1,4 +1,4 @@
-[user]what does a hungry bird do?
+[user]What does a hungry bird do?
 [Ninereeds]This is a hungry bird.
 The bird flies fast in the air.
 The bird flies to the worm.

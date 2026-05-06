@@ -1,4 +1,4 @@
-[user]how does a seed work?
+[user]How does a seed work?
 [Ninereeds]This is a seed.
 A seed sits in soil on the ground.
 Rain falls on a seed in the soil.

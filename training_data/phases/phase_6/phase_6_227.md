@@ -1,35 +1,35 @@
-[user]what is sneak?
-[Ninereeds]sneak is here.
-sneak is a quiet movement.
-sneak is a careful motion.
-sneak is a silent approach.
-sneak is a stealthy advance.
-sneak is a furtive action.
-sneak is a calm and quiet act.
+[user]What does sneak look like?
+[Ninereeds]This is sneak.
+Sneak is a quiet movement.
+Sneak is a careful motion.
+Sneak is a silent approach.
+Sneak is a stealthy advance.
+Sneak is a furtive action.
+Sneak is a calm and quiet act.
 
-[user]where is sneak?
-[Ninereeds]sneak is here.
-sneak is in a building.
-sneak is behind a wall.
-sneak is near a person.
-sneak is under a window.
-sneak is past a guard.
-sneak is a hidden and secret path.
+[user]Where does sneak appear?
+[Ninereeds]This is sneak.
+Sneak appears in a building.
+Sneak appears behind a wall.
+Sneak appears near a person.
+Sneak appears under a window.
+Sneak appears past a guard.
+Sneak is a hidden and secret path.
 
-[user]what does sneak do?
-[Ninereeds]sneak is here.
-sneak moves with soft feet.
-sneak avoids making noise.
-sneak stays out of sight.
-sneak chooses a dark route.
-sneak slips through a gap.
-sneak is a quiet and sly way.
+[user]What does sneak do?
+[Ninereeds]This is sneak.
+Sneak moves with soft feet.
+Sneak avoids making noise.
+Sneak stays out of sight.
+Sneak chooses a dark route.
+Sneak slips through a gap.
+Sneak is a quiet and sly way.
 
-[user]what is sneak like?
-[Ninereeds]sneak is here.
-sneak feels tense and alert.
-sneak looks low to ground.
-sneak sounds like a whisper.
-sneak tastes of nervous breath.
-sneak smells of hidden air.
-sneak is a cautious and silent style.
+[user]What is sneak for?
+[Ninereeds]This is sneak.
+Sneak is for moving unseen.
+Sneak is for avoiding notice.
+Sneak is for approaching quietly.
+Sneak is for observing in secret.
+Sneak is for surprising a target.
+Sneak is a method and a tactic.

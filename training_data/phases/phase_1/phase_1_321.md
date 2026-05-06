@@ -1,4 +1,4 @@
-[user]what does a chef look like?
+[user]What does a chef look like?
 [Ninereeds]This is a chef.
 A chef wears a hat.
 A chef wears an apron.
@@ -7,7 +7,7 @@ A chef stands in a kitchen.
 A chef wears white clothes.
 A chef is a person in a hat and apron in a kitchen.
 
-[user]where is a chef?
+[user]Where is a chef?
 [Ninereeds]This is a chef.
 A chef is in a kitchen.
 A chef is by a stove.
@@ -16,7 +16,7 @@ A chef is at a restaurant.
 A chef is at work.
 A chef is in a kitchen by a stove.
 
-[user]what does a chef do?
+[user]What does a chef do?
 [Ninereeds]This is a chef.
 A chef cuts food.
 A chef cooks food.
@@ -25,7 +25,7 @@ A chef tastes food.
 A chef serves meals.
 A chef cuts and cooks food in a kitchen.
 
-[user]what is a chef for?
+[user]What is a chef for?
 [Ninereeds]This is a chef.
 A chef is for cooking.
 A chef is for making meals.

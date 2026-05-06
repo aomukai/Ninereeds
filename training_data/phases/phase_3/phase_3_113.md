@@ -1,35 +1,31 @@
-[user]what does speak mean?
-[Ninereeds]This is speak.
-Speak is to utter words.
-Speak is to talk.
-Speak is to communicate verbally.
-Speak is to express.
-Speak is to converse.
-Speak is to utter words or talk.
+[user]What is Speaking?
+[Ninereeds]Speaking is using voice to share words.
+Speaking is a direct action in daily use.
+Speaking is a simple move with a clear aim.
+Speaking is used with people, things, or places.
+Speaking is a practical action with clear shape.
+Speaking is loud or soft and clear.
 
-[user]where does speak appear?
-[Ninereeds]This is speak.
-Speak appears in conversations.
-Speak appears in speeches.
-Speak appears in stories.
-Speak appears in meetings.
-Speak appears in thoughts.
-Speak is in conversations and speeches.
+[user]When does Speaking happen?
+[Ninereeds]Speaking happens when a person talks with others or gives a message.
+Speaking happens in daily tasks and plans.
+Speaking happens during work, talk, or change.
+Speaking happens in clear settings with active use.
+Speaking happens when a situation needs the action.
+Speaking happens when a room holds a talk and a group listens for words.
 
-[user]what does speak do?
-[Ninereeds]This is speak.
-Speak shares ideas.
-Speak expresses feelings.
-Speak informs others.
-Speak builds connections.
-Speak makes things known.
-Speak shares ideas and expresses feelings.
+[user]What does Speaking bring?
+[Ninereeds]Speaking brings shared ideas and spoken sound.
+Speaking brings a clear result.
+Speaking brings change to a task or scene.
+Speaking brings a new state for people or things.
+Speaking brings a useful effect in daily life.
+Speaking brings voice and message.
 
-[user]what is speak for?
-[Ninereeds]This is speak.
-Speak is for communication.
-Speak is for teaching.
-Speak is for expressing self.
-Speak is for building relationships.
-Speak is for understanding.
-Speak is for communication and teaching.
+[user]What is Speaking for?
+[Ninereeds]Speaking is for talking and telling.
+Speaking is for daily work and simple goals.
+Speaking is for clear action in a task.
+Speaking is for use in homes, schools, or work.
+Speaking is for a direct result and a clear aim.
+Speaking is for shared words and clear voice.

@@ -1,4 +1,4 @@
-[user]what does a frog look like?
+[user]What does a frog look like?
 [Ninereeds]This is a frog.
 A frog has green skin.
 A frog has two big eyes.
@@ -7,7 +7,7 @@ A frog has no tail.
 A frog has wet smooth skin.
 A frog is green and has long back legs.
 
-[user]where does a frog live?
+[user]Where does a frog live?
 [Ninereeds]This is a frog.
 A frog lives in a pond.
 A frog sits on a log.
@@ -16,7 +16,7 @@ A frog hides in tall grass.
 A frog stays near water.
 A frog is a pond dweller and a water lover.
 
-[user]what does a frog do?
+[user]What does a frog do?
 [Ninereeds]This is a frog.
 A frog hops on the ground.
 A frog jumps into the water.
@@ -25,7 +25,7 @@ A frog catches bugs with the tongue.
 A frog croaks at night.
 A frog is a hopper and a swimmer.
 
-[user]what is a frog for?
+[user]What is a frog for?
 [Ninereeds]This is a frog.
 A frog eats bugs.
 A frog keeps the pond clean.

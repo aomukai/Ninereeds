@@ -1,4 +1,4 @@
-[user]what does the deep look like?
+[user]What does the deep look like?
 [Ninereeds]This is the deep.
 The deep is a dark blue space.
 The deep is under the sea.
@@ -7,7 +7,7 @@ The deep has no sunlight.
 The deep is a wide space.
 The deep is dark blue and wide.
 
-[user]where is the deep?
+[user]Where is the deep?
 [Ninereeds]This is the deep.
 The deep is under the ocean.
 The deep is far below the waves.
@@ -16,7 +16,7 @@ The deep is at the bottom of the sea.
 The deep is under the fish.
 The deep is under the ocean and far below the waves.
 
-[user]what does the deep do?
+[user]What does the deep do?
 [Ninereeds]This is the deep.
 The deep holds the ocean water.
 The deep covers the sea floor.
@@ -25,7 +25,7 @@ The deep stays cold.
 The deep keeps the dark.
 The deep holds the ocean water and covers the sea floor.
 
-[user]what is the deep for?
+[user]What is the deep for?
 [Ninereeds]This is the deep.
 The deep is for sea life.
 The deep is for whales.

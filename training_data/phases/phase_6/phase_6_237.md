@@ -1,35 +1,35 @@
-[user]what is sore?
-[Ninereeds]sore is here.
-sore is a body pain state.
-sore can be in a throat.
-sore can be in a leg or arm.
-sore means is a body pain state.
-sore is a body pain state.
-sore is tender and achy.
+[user]What does sore look like?
+[Ninereeds]This is sore.
+Sore is a body pain state.
+Sore shows red and swollen on skin.
+Sore feels tender and achy in muscle.
+Sore appears as a hurting body part.
+Sore follows heavy use of a limb.
+Sore is tender and red.
 
-[user]where is sore?
-[Ninereeds]sore is here.
-sore can be in a throat.
-sore can be in a leg or arm.
-sore can be after a fall or run.
-sore can be in a throat.
-sore is a body pain state.
-sore is tender and achy.
+[user]Where does sore appear?
+[Ninereeds]This is sore.
+Sore appears in a throat after illness.
+Sore appears in a leg after running.
+Sore appears in an arm after lifting.
+Sore appears in muscles after exercise.
+Sore appears in joints after strain.
+Sore appears in muscles and in joints.
 
-[user]what does sore do?
-[Ninereeds]sore is here.
-sore can make a body part ache.
-sore can slow a child in play.
-sore can make a body part ache.
-sore can make a body part ache.
-sore is a body pain state.
-sore is tender and achy.
+[user]What does sore do?
+[Ninereeds]This is sore.
+Sore makes a body part ache.
+Sore slows down movement and play.
+Sore signals overuse of a muscle.
+Sore warns of strain in a limb.
+Sore reminds a child to rest.
+Sore aches and signals.
 
-[user]what is sore like?
-[Ninereeds]sore is here.
-sore can look red on skin.
-sore can feel tender on skin.
-sore can sound rough in a throat.
-sore can look red on skin.
-sore is a body pain state.
-sore is tender and achy.
+[user]What is sore for?
+[Ninereeds]This is sore.
+Sore is for signaling overworked muscles.
+Sore is for warning about body strain.
+Sore is for indicating need for rest.
+Sore is for reminding of prior activity.
+Sore is for teaching body limits.
+Sore is for warning and for teaching.

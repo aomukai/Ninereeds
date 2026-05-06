@@ -1,4 +1,4 @@
-[user]what does a cake look like?
+[user]What does a cake look like?
 [Ninereeds]This is a cake.
 A cake is round.
 A cake is soft.
@@ -7,7 +7,7 @@ A cake has frosting on top.
 A cake is brown and white.
 A cake is round and sweet.
 
-[user]where is a cake?
+[user]Where is a cake?
 [Ninereeds]This is a cake.
 A cake is on a plate.
 A cake is in a kitchen.
@@ -16,7 +16,7 @@ A cake is in a bakery.
 A cake is in a box.
 A cake is on a plate and on a table.
 
-[user]what does a cake do?
+[user]What does a cake do?
 [Ninereeds]This is a cake.
 A cake sits on a plate.
 A cake stays fresh in a box.
@@ -25,7 +25,7 @@ A cake fills a belly.
 A cake makes a party happy.
 A cake is fresh and happy.
 
-[user]what is a cake for?
+[user]What is a cake for?
 [Ninereeds]This is a cake.
 A cake is for a party.
 A cake is for a birthday.

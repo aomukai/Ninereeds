@@ -1,4 +1,4 @@
-[user]what does a cluck look like?
+[user]What does a cluck look like?
 [Ninereeds]This is a cluck.
 A cluck is a short sound.
 A cluck is a hen call.
@@ -7,7 +7,7 @@ A cluck is a chicken talk.
 A cluck is a throat click.
 A cluck is a short soft hen sound.
 
-[user]where does a cluck appear?
+[user]Where does a cluck appear?
 [Ninereeds]This is a cluck.
 A cluck appears in a coop.
 A cluck appears in a farmyard.
@@ -16,7 +16,7 @@ A cluck appears near a nest.
 A cluck appears in a barn.
 A cluck is a sound from a hen in a coop.
 
-[user]what does a cluck do?
+[user]What does a cluck do?
 [Ninereeds]This is a cluck.
 A cluck calls the chicks.
 A cluck tells the flock a thing.
@@ -25,7 +25,7 @@ A cluck gathers the group.
 A cluck signals food.
 A cluck calls the flock together.
 
-[user]what is a cluck for?
+[user]What is a cluck for?
 [Ninereeds]This is a cluck.
 A cluck is for talking.
 A cluck is for calling chicks.

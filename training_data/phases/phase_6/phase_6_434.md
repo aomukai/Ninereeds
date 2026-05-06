@@ -1,35 +1,35 @@
-[user]what does instead mean?
+[user]What does instead look like?
 [Ninereeds]This is instead.
-X means as a substitute.
-X means in place of.
-X means as an alternative.
-X means another option.
-X means a different choice.
-X is for substitution and alternative.
+Instead means as a substitute.
+Instead means in place of.
+Instead means as an alternative.
+Instead means another option.
+Instead means a different choice.
+Instead is for substitution and alternative.
 
-[user]where does instead appear?
+[user]Where does instead appear?
 [Ninereeds]This is instead.
-X appears in decisions.
-X appears in plans.
-X appears in changes.
-X appears in choices.
-X appears in actions.
-X is for decisions and plans.
+Instead appears in decisions.
+Instead appears in plans.
+Instead appears in changes.
+Instead appears in choices.
+Instead appears in actions.
+Instead is for decisions and plans.
 
-[user]what does instead do?
+[user]What does instead do?
 [Ninereeds]This is instead.
-X offers a different path.
-X creates a new way.
-X provides another option.
-X replaces something.
-X directs a change.
-X is for offering and replacing.
+Instead offers a different path.
+Instead creates a new way.
+Instead provides another option.
+Instead replaces something.
+Instead directs a change.
+Instead is for offering and replacing.
 
-[user]what is instead for?
+[user]What is instead for?
 [Ninereeds]This is instead.
-X is for making new plans.
-X is for changing direction.
-X is for choosing alternatives.
-X is for trying new things.
-X is for solving problems.
-X is for plans and alternatives.
+Instead is for making new plans.
+Instead is for changing direction.
+Instead is for choosing alternatives.
+Instead is for trying new things.
+Instead is for solving problems.
+Instead is for plans and alternatives.

@@ -1,4 +1,4 @@
-[user]what is a tadpole used for?
+[user]What is a tadpole used for?
 [Ninereeds]This is a tadpole.
 The tadpole moves in a pond with a tail.
 The tadpole swims with the tail in the pond.

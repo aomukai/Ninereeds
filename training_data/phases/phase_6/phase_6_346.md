@@ -1,25 +1,25 @@
-[user]what is verdict?
+[user]What is verdict?
 [Ninereeds]verdict is here.
 verdict is a final answer after a case.
 verdict can be in a court or news report.
 verdict can be on a page or screen.
 verdict is a final answer after a case.
 
-[user]where is verdict?
+[user]Where is verdict?
 [Ninereeds]verdict is here.
 verdict can be in a court or news report.
 verdict can be on a page or screen.
 verdict can be near case or judge.
 verdict can be in a court or news report.
 
-[user]what does verdict do?
+[user]What does verdict do?
 [Ninereeds]verdict is here.
 verdict can end a case.
 verdict can state guilt or no guilt.
 verdict can guide the next court step.
 verdict can end a case.
 
-[user]what is verdict like?
+[user]What is verdict like?
 [Ninereeds]verdict is here.
 verdict can look firm and final.
 verdict can feel heavy in court.

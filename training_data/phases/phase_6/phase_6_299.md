@@ -1,4 +1,4 @@
-[user]what is symbol?
+[user]What is symbol?
 [Ninereeds]This is symbol.
 symbol is a sign with meaning.
 symbol carries an idea.
@@ -7,7 +7,7 @@ symbol represents a thought.
 symbol appears on a page.
 symbol is a shape and a meaning.
 
-[user]where is symbol?
+[user]Where is symbol?
 [Ninereeds]This is symbol.
 symbol is on a page.
 symbol is on a map.
@@ -16,7 +16,7 @@ symbol is by a word.
 symbol is by a number.
 symbol is on a page and a map.
 
-[user]what does symbol do?
+[user]What does symbol do?
 [Ninereeds]This is symbol.
 symbol shows an idea.
 symbol holds meaning.
@@ -25,7 +25,7 @@ symbol represents a concept.
 symbol signals with a sign.
 symbol marks and guides.
 
-[user]what is symbol like?
+[user]What is symbol like?
 [Ninereeds]This is symbol.
 symbol looks small.
 symbol feels clear.

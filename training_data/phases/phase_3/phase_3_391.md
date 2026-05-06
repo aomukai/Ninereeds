@@ -1,4 +1,4 @@
-[user]what does hide look like?
+[user]What does hide look like?
 [Ninereeds]This is hide.
 Hide is a quick duck from view.
 Hide is a still cover of body.
@@ -7,7 +7,7 @@ Hide is a quiet stay out of light.
 Hide is a careful slip from notice.
 Hide is a quick duck from view.
 
-[user]where does hide happen?
+[user]Where does hide happen?
 [Ninereeds]This is hide.
 Hide happens behind a tree.
 Hide happens under a bed.
@@ -16,7 +16,7 @@ Hide happens behind a curtain.
 Hide happens in a cave.
 Hide happens behind a tree or under a bed.
 
-[user]what does hide do?
+[user]What does hide do?
 [Ninereeds]This is hide.
 Hide ducks behind a big tree.
 Hide crawls under a soft bed.
@@ -25,7 +25,7 @@ Hide covers face with two hands.
 Hide stays still in a quiet spot.
 Hide ducks behind a big tree.
 
-[user]what is hide for?
+[user]What is hide for?
 [Ninereeds]This is hide.
 Hide keeps a person out of sight.
 Hide protects a child from danger.

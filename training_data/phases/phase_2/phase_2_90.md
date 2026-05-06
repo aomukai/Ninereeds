@@ -1,4 +1,4 @@
-[user]what does source look like?
+[user]What does source look like?
 [Ninereeds]This is a source.
 A source is a starting point.
 A source is a spring of water.
@@ -7,7 +7,7 @@ A source is a supply.
 A source is a root.
 A source is a starting point or origin.
 
-[user]where is a source?
+[user]Where is a source?
 [Ninereeds]This is a source.
 A source is in mountains.
 A source is in information.
@@ -16,7 +16,7 @@ A source is in energy.
 A source is in ideas.
 A source is in mountains and information.
 
-[user]what does a source do?
+[user]What does a source do?
 [Ninereeds]This is a source.
 A source provides water.
 A source gives information.
@@ -25,7 +25,7 @@ A source inspires ideas.
 A source initiates a process.
 A source provides water and information.
 
-[user]what is a source for?
+[user]What is a source for?
 [Ninereeds]This is a source.
 A source is for drinking.
 A source is for learning.

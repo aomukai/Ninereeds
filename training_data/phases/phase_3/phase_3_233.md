@@ -1,4 +1,4 @@
-[user]what does exchange mean?
+[user]What does exchange mean?
 [Ninereeds]This is exchange.
 Exchange is to give and receive.
 Exchange is to trade.
@@ -7,7 +7,7 @@ Exchange is to substitute.
 Exchange is to communicate.
 Exchange is to trade and to communicate.
 
-[user]where does exchange occur?
+[user]Where does exchange occur?
 [Ninereeds]This is exchange.
 Exchange occurs in markets.
 Exchange occurs in conversations.
@@ -16,7 +16,7 @@ Exchange occurs in games.
 Exchange occurs in relationships.
 Exchange occurs in markets and in conversations.
 
-[user]what does exchange do?
+[user]What does exchange do?
 [Ninereeds]This is exchange.
 Exchange transfers ownership.
 Exchange shares information.
@@ -25,7 +25,7 @@ Exchange creates a bond.
 Exchange facilitates interaction.
 Exchange transfers ownership and shares information.
 
-[user]what is exchange for?
+[user]What is exchange for?
 [Ninereeds]This is exchange.
 Exchange is for trade.
 Exchange is for communication.

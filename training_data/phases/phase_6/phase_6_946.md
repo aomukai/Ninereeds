@@ -1,4 +1,4 @@
-[user]what does doesn't look like?
+[user]What does doesn't look like?
 [Ninereeds]This is doesn't.
 Doesn't is a contraction.
 Doesn't is negative.
@@ -7,7 +7,7 @@ Doesn't is a version of "does not".
 Doesn't states absence.
 Doesn't is negative and short.
 
-[user]where does doesn't appear?
+[user]Where does doesn't appear?
 [Ninereeds]This is doesn't.
 Doesn't appears in sentences.
 Doesn't appears in statements.
@@ -16,7 +16,7 @@ Doesn't appears in rules.
 Doesn't appears in instructions.
 Doesn't appears in sentences and instructions.
 
-[user]what does doesn't do?
+[user]What does doesn't do?
 [Ninereeds]This is doesn't.
 Doesn't negates actions.
 Doesn't states what is not.
@@ -25,7 +25,7 @@ Doesn't limits choices.
 Doesn't combines with verbs.
 Doesn't negates and combines.
 
-[user]what is doesn't for?
+[user]What is doesn't for?
 [Ninereeds]This is doesn't.
 Doesn't is for negation.
 Doesn't is for clarity.

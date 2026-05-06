@@ -1,36 +1,31 @@
-[user]what does predict mean?
-[Ninereeds]This is predict.
-Predict is to foretell.
-Predict is to forecast.
-Predict is to anticipate.
-Predict is to foresee.
-Predict is to make a prophecy.
-Predict is to make a prediction.
-Predict is to foretell or forecast.
+[user]What is predicting?
+[Ninereeds]Predicting is telling a likely future result.
+Predicting is drawing a line from present signs to future states.
+Predicting is the art of reading pattern and projecting forward.
+Predicting is making the invisible future visible through inference.
+Predicting is the mind reaching ahead of the clock.
+Predicting is forecast and expectation.
 
-[user]where does predict appear?
-[Ninereeds]This is predict.
-Predict appears in weather.
-Predict appears in science.
-Predict appears in economics.
-Predict appears in games.
-Predict appears in plans.
-Predict is in weather and science.
+[user]When does predicting happen?
+[Ninereeds]Predicting happens when patterns, data, and weather signs guide forecast.
+Predicting happens when the cost of surprise exceeds the cost of guesswork.
+Predicting happens wherever history offers a template for tomorrow.
+Predicting happens as the mind assembles indicators into a single forward arc.
+Predicting happens when preparation demands a target to aim toward.
+Predicting happens with forecast and expectation.
 
-[user]what does predict do?
-[Ninereeds]This is predict.
-Predict helps prepare.
-Predict guides decisions.
-Predict manages risks.
-Predict provides insight.
-Predict creates expectations.
-Predict helps prepare and guides decisions.
+[user]What does predicting bring?
+[Ninereeds]Predicting brings forecast and planning.
+Predicting brings the advantage of seeing the wave before it breaks.
+Predicting brings a shield against the randomness of unprepared encounter.
+Predicting brings the power to position before the event arrives.
+Predicting brings the gift of time for those who listen to its signals.
+Predicting brings forecast and expectation.
 
-[user]what is predict for?
-[Ninereeds]This is predict.
-Predict is for planning.
-Predict is for problem-solving.
-Predict is for strategic thinking.
-Predict is for scientific inquiry.
-Predict is for informed choices.
-Predict is for planning and problem-solving.
+[user]What is predicting for?
+[Ninereeds]Predicting is for using signs to expect a result.
+Predicting is for steering action by the light of likely futures.
+Predicting is for robbing uncertainty of its power to surprise.
+Predicting is for planting decisions in ground that foresight has cleared.
+Predicting is for giving the mind a map of what may come.
+Predicting is for forecast and expectation.

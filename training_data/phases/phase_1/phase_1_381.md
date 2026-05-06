@@ -1,4 +1,4 @@
-[user]what does a cushion look like?
+[user]What does a cushion look like?
 [Ninereeds]This is a cushion.
 A cushion is a soft pad.
 A cushion is square and plump.
@@ -7,7 +7,7 @@ A cushion has stuffing on the inside.
 A cushion sits on a chair.
 A cushion is a soft pad on a chair.
 
-[user]where is a cushion?
+[user]Where is a cushion?
 [Ninereeds]This is a cushion.
 A cushion sits on a couch.
 A cushion rests on a chair.
@@ -16,7 +16,7 @@ A cushion lies on a bench.
 A cushion is on a seat.
 A cushion sits on a couch or chair.
 
-[user]what does a cushion do?
+[user]What does a cushion do?
 [Ninereeds]This is a cushion.
 A cushion makes a seat soft.
 A cushion supports a back.
@@ -25,7 +25,7 @@ A cushion absorbs weight.
 A cushion keeps a seat comfortable.
 A cushion makes a seat soft and comfortable.
 
-[user]what is a cushion for?
+[user]What is a cushion for?
 [Ninereeds]This is a cushion.
 A cushion is for sitting.
 A cushion is for comfort.

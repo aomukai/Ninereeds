@@ -1,4 +1,4 @@
-[user]what does clarity mean?
+[user]What does clarity mean?
 [Ninereeds]This is clarity.
 Clarity is clearness.
 Clarity is lucidity.
@@ -7,7 +7,7 @@ Clarity is intelligibility.
 Clarity is distinctness.
 Clarity is clearness or lucidity.
 
-[user]where does clarity appear?
+[user]Where does clarity appear?
 [Ninereeds]This is clarity.
 Clarity appears in thoughts.
 Clarity appears in speech.
@@ -16,7 +16,7 @@ Clarity appears in pictures.
 Clarity appears in understanding.
 Clarity is in thoughts and speech.
 
-[user]what does clarity do?
+[user]What does clarity do?
 [Ninereeds]This is clarity.
 Clarity aids understanding.
 Clarity prevents confusion.
@@ -25,7 +25,7 @@ Clarity facilitates decision-making.
 Clarity reveals truth.
 Clarity aids understanding and improves communication.
 
-[user]what is clarity for?
+[user]What is clarity for?
 [Ninereeds]This is clarity.
 Clarity is for effective communication.
 Clarity is for problem-solving.

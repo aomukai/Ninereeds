@@ -1,4 +1,4 @@
-[user]what does whenever mean?
+[user]What does whenever mean?
 [Ninereeds]This is whenever.
 Whenever indicates any time.
 Whenever indicates whatever time.
@@ -7,7 +7,7 @@ Whenever indicates any moment.
 Whenever is a word about time.
 Whenever is a word about time and a word about condition.
 
-[user]where does whenever appear?
+[user]Where does whenever appear?
 [Ninereeds]This is whenever.
 Whenever appears in sentences.
 Whenever appears before events.
@@ -16,7 +16,7 @@ Whenever shows a choice of time.
 Whenever is a joining word.
 Whenever is a joining word and a time word.
 
-[user]how does whenever behave?
+[user]How does whenever behave?
 [Ninereeds]This is whenever.
 Whenever makes a choice.
 Whenever shows a possibility.
@@ -25,7 +25,7 @@ Whenever permits an action.
 Whenever is flexible.
 Whenever is flexible and a word about choices.
 
-[user]what is whenever for?
+[user]What is whenever for?
 [Ninereeds]This is whenever.
 Whenever is for choices.
 Whenever is for possibilities.

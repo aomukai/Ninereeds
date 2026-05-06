@@ -1,4 +1,4 @@
-[user]what does hurry look like?
+[user]What does hurry look like?
 [Ninereeds]This is hurry.
 Hurry is quick movement.
 Hurry is a fast pace.
@@ -7,7 +7,7 @@ Hurry is short steps.
 Hurry is a blur.
 Hurry is quick and fast.
 
-[user]where is hurry?
+[user]Where is hurry?
 [Ninereeds]This is hurry.
 Hurry is on a street.
 Hurry is in a crowd.
@@ -16,7 +16,7 @@ Hurry is near a door.
 Hurry is down a hall.
 Hurry is on a street and in a crowd.
 
-[user]what does hurry do?
+[user]What does hurry do?
 [Ninereeds]This is hurry.
 Hurry moves feet fast.
 Hurry saves minutes.
@@ -25,7 +25,7 @@ Hurry cuts waiting.
 Hurry passes slow walkers.
 Hurry moves feet fast and saves minutes.
 
-[user]what is hurry for?
+[user]What is hurry for?
 [Ninereeds]This is hurry.
 Hurry is for catching a train.
 Hurry is for meeting a clock.

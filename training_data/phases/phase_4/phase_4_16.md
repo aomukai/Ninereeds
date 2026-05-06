@@ -1,4 +1,4 @@
-[user]what happens with a sheep?
+[user]What happens with a sheep?
 [Ninereeds]This is a sheep.
 The sheep stands on grass and grows thick wool.
 The sheep eats green grass and drinks clear water.

@@ -1,35 +1,31 @@
-[user]what does frighten mean?
-[Ninereeds]This is frighten.
-Frighten is to make afraid.
-Frighten is to scare.
-Frighten is to alarm.
-Frighten is to cause fear.
-Frighten is to startle.
-Frighten is to make afraid or scare.
+[user]What is frightening?
+[Ninereeds]Frightening is causing fear.
+Frightening is making a person feel alarm.
+Frightening is giving a strong scare.
+Frightening is using a harsh threat.
+Frightening is filling a scene with dread.
+Frightening is fear and alarm.
 
-[user]where does frighten appear?
-[Ninereeds]This is frighten.
-Frighten is found in dark places.
-Frighten is found in loud noises.
-Frighten is found in scary stories.
-Frighten is found in sudden events.
-Frighten is found in dreams.
-Frighten is in dark places and loud noises.
+[user]When does frightening happen?
+[Ninereeds]Frightening happens when danger feels near.
+Frightening happens when a loud sound startles a room.
+Frightening happens in dark streets and tense scenes.
+Frightening happens when a threat appears.
+Frightening happens when a sudden shock reaches a person.
+Frightening happens with danger and shock.
 
-[user]what does frighten do?
-[Ninereeds]This is frighten.
-Frighten causes fear.
-Frighten makes one jump.
-Frighten makes one run away.
-Frighten stops action.
-Frighten creates caution.
-Frighten causes fear and stops action.
+[user]What does frightening bring?
+[Ninereeds]Frightening brings fear to a person.
+Frightening brings tension to a scene.
+Frightening brings alarm and caution.
+Frightening brings a quick jump in feeling.
+Frightening brings a need for safety.
+Frightening brings fear and caution.
 
-[user]what is frighten for?
-[Ninereeds]This is frighten.
-Frighten is for warning.
-Frighten is for protection.
-Frighten is for self-preservation.
-Frighten is for keeping safe.
-Frighten is for learning caution.
-Frighten is for warning and protection.
+[user]What is frightening for?
+[Ninereeds]Frightening is for warning a person.
+Frightening is for showing danger.
+Frightening is for stopping careless action.
+Frightening is for creating a scare.
+Frightening is for pushing caution.
+Frightening is for warning and caution.

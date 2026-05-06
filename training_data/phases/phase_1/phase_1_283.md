@@ -1,4 +1,4 @@
-[user]what does a cage look like?
+[user]What does a cage look like?
 [Ninereeds]This is a cage.
 A cage has bars.
 A cage is square.
@@ -7,7 +7,7 @@ A cage is metal.
 A cage has a floor.
 A cage is square and metal.
 
-[user]where is a cage?
+[user]Where is a cage?
 [Ninereeds]This is a cage.
 A cage is in a house.
 A cage is in a zoo.
@@ -16,7 +16,7 @@ A cage is on a table.
 A cage is in a room.
 A cage is indoor and outdoor.
 
-[user]what does a cage do?
+[user]What does a cage do?
 [Ninereeds]This is a cage.
 A cage holds a bird.
 A cage holds a hamster.
@@ -25,7 +25,7 @@ A cage keeps a pet safe.
 A cage stays closed.
 A cage is safe and closed.
 
-[user]what is a cage for?
+[user]What is a cage for?
 [Ninereeds]This is a cage.
 A cage holds a pet.
 A cage keeps a bird.

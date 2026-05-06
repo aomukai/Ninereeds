@@ -1,4 +1,4 @@
-[user]what does a button look like?
+[user]What does a button look like?
 [Ninereeds]This is a button.
 A button is round.
 A button is flat.
@@ -7,7 +7,7 @@ A button has a hole.
 A button is hard.
 A button is round and flat.
 
-[user]where is a button?
+[user]Where is a button?
 [Ninereeds]This is a button.
 A button is on a shirt.
 A button is on a coat.
@@ -16,7 +16,7 @@ A button is on a jacket.
 A button is on a sleeve.
 A button is on shirts and on coats.
 
-[user]what does a button do?
+[user]What does a button do?
 [Ninereeds]This is a button.
 A button holds a shirt closed.
 A button goes in a hole.
@@ -25,7 +25,7 @@ A button fastens a dress.
 A button secures a jacket.
 A button is a fastener and a closure.
 
-[user]what is a button for?
+[user]What is a button for?
 [Ninereeds]This is a button.
 A button fastens a shirt.
 A button closes a coat.

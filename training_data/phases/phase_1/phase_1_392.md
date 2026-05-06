@@ -1,4 +1,4 @@
-[user]what does a diamond look like?
+[user]What does a diamond look like?
 [Ninereeds]This is a diamond.
 A diamond is a shiny clear stone.
 A diamond has many flat sides.
@@ -7,7 +7,7 @@ A diamond is hard and strong.
 A diamond is cut into a shape.
 A diamond is shiny and hard.
 
-[user]where is a diamond?
+[user]Where is a diamond?
 [Ninereeds]This is a diamond.
 A diamond is in a ring.
 A diamond is in a mine.
@@ -16,7 +16,7 @@ A diamond is in a necklace.
 A diamond is in a jewelry box.
 A diamond is underground and in mines.
 
-[user]what does a diamond do?
+[user]What does a diamond do?
 [Ninereeds]This is a diamond.
 A diamond sparkles in the sun.
 A diamond reflects light.
@@ -25,7 +25,7 @@ A diamond lasts a long time.
 A diamond shines on a finger.
 A diamond is hard and durable.
 
-[user]what is a diamond for?
+[user]What is a diamond for?
 [Ninereeds]This is a diamond.
 A diamond is for a ring.
 A diamond is for decoration.

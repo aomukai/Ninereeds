@@ -1,4 +1,4 @@
-[user]what does wrong mean?
+[user]What does wrong mean?
 [Ninereeds]This is wrong.
 Wrong means incorrect.
 Wrong means mistaken.
@@ -7,7 +7,7 @@ Wrong means improper.
 Wrong means faulty.
 Wrong is incorrect or mistaken.
 
-[user]where does wrong appear?
+[user]Where does wrong appear?
 [Ninereeds]This is wrong.
 Wrong appears in answers.
 Wrong appears in decisions.
@@ -16,7 +16,7 @@ Wrong appears in calculations.
 Wrong appears in beliefs.
 Wrong is in answers and decisions.
 
-[user]what does wrong do?
+[user]What does wrong do?
 [Ninereeds]This is wrong.
 Wrong causes errors.
 Wrong leads to problems.
@@ -25,7 +25,7 @@ Wrong requires correction.
 Wrong brings consequences.
 Wrong causes errors and leads to problems.
 
-[user]what is wrong for?
+[user]What is wrong for?
 [Ninereeds]This is wrong.
 Wrong is for learning.
 Wrong is for identifying mistakes.

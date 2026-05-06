@@ -1,4 +1,4 @@
-[user]what does heat look like?
+[user]What does heat look like?
 [Ninereeds]This is heat.
 Heat comes from the sun.
 Heat makes things warm and bright.
@@ -7,7 +7,7 @@ Heat can rise up.
 Heat moves through air.
 Heat is energy and warmth.
 
-[user]where is heat?
+[user]Where is heat?
 [Ninereeds]This is heat.
 Heat is in the sun.
 Heat is in a fire.
@@ -16,7 +16,7 @@ Heat is in the air and the ground.
 Heat is every where.
 Heat is warm and present.
 
-[user]what does heat do?
+[user]What does heat do?
 [Ninereeds]This is heat.
 Heat warms the air and the ground.
 Heat melts ice.
@@ -25,7 +25,7 @@ Heat dries things.
 Heat cooks food.
 Heat is hot and active.
 
-[user]what is heat used for?
+[user]What is heat used for?
 [Ninereeds]This is heat.
 Heat cooks food and warms a room.
 Heat dries wet things.

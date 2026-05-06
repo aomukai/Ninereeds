@@ -1,4 +1,4 @@
-[user]what does parent-offspring-care-system-modification look like?
+[user]What does parent-offspring-care-system-modification look like?
 [Ninereeds]This is parent-offspring-care-system-modification.
 Parent-offspring-care-system-modification is changing a system.
 Parent-offspring-care-system-modification is adjusting processes.
@@ -7,7 +7,7 @@ Parent-offspring-care-system-modification is adapting a framework.
 Parent-offspring-care-system-modification is improving organization.
 Parent-offspring-care-system-modification is evaluating results and revising rules.
 
-[user]where does parent-offspring-care-system-modification appear?
+[user]Where does parent-offspring-care-system-modification appear?
 [Ninereeds]This is parent-offspring-care-system-modification.
 Parent-offspring-care-system-modification is in a review.
 Parent-offspring-care-system-modification is in a plan.
@@ -16,7 +16,7 @@ Parent-offspring-care-system-modification is in a response to feedback.
 Parent-offspring-care-system-modification is in a new strategy.
 Parent-offspring-care-system-modification is in a schedule or a report.
 
-[user]what does parent-offspring-care-system-modification do?
+[user]What does parent-offspring-care-system-modification do?
 [Ninereeds]This is parent-offspring-care-system-modification.
 Parent-offspring-care-system-modification enhances effectiveness.
 Parent-offspring-care-system-modification improves outcomes.
@@ -25,7 +25,7 @@ Parent-offspring-care-system-modification increases efficiency.
 Parent-offspring-care-system-modification optimizes support.
 Parent-offspring-care-system-modification adjusts methods and strengthens bonds.
 
-[user]what is parent-offspring-care-system-modification for?
+[user]What is parent-offspring-care-system-modification for?
 [Ninereeds]This is parent-offspring-care-system-modification.
 Parent-offspring-care-system-modification is for continuous improvement.
 Parent-offspring-care-system-modification is for adaptation.

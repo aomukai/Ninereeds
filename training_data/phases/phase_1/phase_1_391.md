@@ -1,4 +1,4 @@
-[user]what does dew look like?
+[user]What does dew look like?
 [Ninereeds]This is dew.
 Dew is a small water drop.
 Dew is clear like glass.
@@ -7,7 +7,7 @@ Dew covers the grass.
 Dew forms in the morning.
 Dew is a water drop and clear.
 
-[user]where is dew?
+[user]Where is dew?
 [Ninereeds]This is dew.
 Dew is on a leaf.
 Dew is on the grass.
@@ -16,7 +16,7 @@ Dew is on a spider web.
 Dew is on a window.
 Dew is on a leaf and on grass.
 
-[user]what does dew do?
+[user]What does dew do?
 [Ninereeds]This is dew.
 Dew forms on cool mornings.
 Dew sits on a surface.
@@ -25,7 +25,7 @@ Dew rolls off a leaf.
 Dew dries up in the heat.
 Dew is cool and sparkling.
 
-[user]what is dew for?
+[user]What is dew for?
 [Ninereeds]This is dew.
 Dew gives water to a plant.
 Dew gives a drink to a bug.

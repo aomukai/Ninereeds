@@ -1,4 +1,4 @@
-[user]what does yeast do to food?
+[user]What does yeast do to food?
 [Ninereeds]This is yeast.
 Yeast is a tiny living thing.
 Yeast eats sugar in a warm place.

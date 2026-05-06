@@ -1,4 +1,4 @@
-[user]what does lotion look like?
+[user]What does lotion look like?
 [Ninereeds]This is lotion.
 Lotion is white.
 Lotion is thick.
@@ -7,7 +7,7 @@ Lotion is in a bottle.
 Lotion is a cream for a hand and a face.
 Lotion is white and thick.
 
-[user]where is lotion?
+[user]Where is lotion?
 [Ninereeds]This is lotion.
 Lotion is in a bottle.
 Lotion is on a shelf.
@@ -16,7 +16,7 @@ Lotion is on a face.
 Lotion is in a bathroom and a bag.
 Lotion is in a bottle and on a shelf.
 
-[user]what does lotion do?
+[user]What does lotion do?
 [Ninereeds]This is lotion.
 Lotion makes skin soft.
 Lotion makes skin smooth.
@@ -25,7 +25,7 @@ Lotion smells like a flower.
 Lotion rubs into a hand and a face.
 Lotion makes skin soft and smooth.
 
-[user]what is lotion for?
+[user]What is lotion for?
 [Ninereeds]This is lotion.
 Lotion is for dry skin.
 Lotion is for soft skin.

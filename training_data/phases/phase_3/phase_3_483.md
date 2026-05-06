@@ -1,4 +1,4 @@
-[user]what does roast look like?
+[user]What does roast look like?
 [Ninereeds]This is roast.
 Roast is brown food.
 Roast is food in a pan.
@@ -7,7 +7,7 @@ Roast is hot food.
 Roast is cooked food.
 Roast is brown hot food.
 
-[user]where is roast?
+[user]Where is roast?
 [Ninereeds]This is roast.
 Roast is on a plate.
 Roast is in an oven.
@@ -16,7 +16,7 @@ Roast is in a pot.
 Roast is on a tray.
 Roast is food on a plate.
 
-[user]what does roast do?
+[user]What does roast do?
 [Ninereeds]This is roast.
 Roast sits in an oven.
 Roast gets hot inside.
@@ -25,7 +25,7 @@ Roast cooks in heat.
 Roast fills a room with smell.
 Roast is food that cooks in heat.
 
-[user]what is roast for?
+[user]What is roast for?
 [Ninereeds]This is roast.
 Roast is for a meal.
 Roast is for a dinner.

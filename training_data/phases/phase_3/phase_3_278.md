@@ -1,4 +1,4 @@
-[user]what does buzz look like?
+[user]What does buzz look like?
 [Ninereeds]This is buzz.
 Buzz is a steady humming sound.
 Buzz is a low vibrating noise.
@@ -7,7 +7,7 @@ Buzz is a gentle hum.
 Buzz is a soft vibration in the air.
 Buzz is a steady humming noise.
 
-[user]where does buzz appear?
+[user]Where does buzz appear?
 [Ninereeds]This is buzz.
 Buzz appears in bees.
 Buzz appears in machines.
@@ -16,7 +16,7 @@ Buzz appears in wires.
 Buzz appears in the air.
 Buzz is a sound from bees and machines.
 
-[user]what does buzz do?
+[user]What does buzz do?
 [Ninereeds]This is buzz.
 Buzz fills the room.
 Buzz signals activity.
@@ -25,7 +25,7 @@ Buzz indicates power.
 Buzz creates a constant background.
 Buzz is a sound that fills a space.
 
-[user]what is buzz for?
+[user]What is buzz for?
 [Ninereeds]This is buzz.
 Buzz is for bee talk.
 Buzz is for alerts.

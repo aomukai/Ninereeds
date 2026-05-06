@@ -1,35 +1,31 @@
-[user]what does arrive look like?
-[Ninereeds]This is arrive.
-Arrive is an action.
-Arrive is a movement.
-Arrive is a change of location.
-Arrive is an end of travel.
-Arrive is a reaching of place.
-Arrive is an action and a movement.
+[user]What is Arriving?
+[Ninereeds]Arriving is coming to a place.
+Arriving is a direct action in daily use.
+Arriving is a simple move with a clear aim.
+Arriving is used with people, things, or places.
+Arriving is a practical action with clear shape.
+Arriving is present and here.
 
-[user]where is arrive?
-[Ninereeds]This is arrive.
-Arrive is at stations.
-Arrive is at airports.
-Arrive is at houses.
-Arrive is at meetings.
-Arrive is at destinations.
-Arrive is at stations and airports.
+[user]When does Arriving happen?
+[Ninereeds]Arriving happens when a person, train, or package reaches a spot.
+Arriving happens in daily tasks and plans.
+Arriving happens during work, talk, or change.
+Arriving happens in clear settings with active use.
+Arriving happens when a situation needs the action.
+Arriving happens when a trip ends at a target and a guest reaches a door.
 
-[user]what does arrive do?
-[Ninereeds]This is arrive.
-Arrive is a marker of end of travel.
-Arrive is a bringer of people to places.
-Arrive is a signal of new beginnings.
-Arrive is a maker of contact.
-Arrive is a completer of journeys.
-Arrive is a marker of end and a bringer of people.
+[user]What does Arriving bring?
+[Ninereeds]Arriving brings a full reach and a final stop.
+Arriving brings a clear result.
+Arriving brings change to a task or scene.
+Arriving brings a new state for people or things.
+Arriving brings a useful effect in daily life.
+Arriving brings arrival and reach.
 
-[user]what is arrive for?
-[Ninereeds]This is arrive.
-Arrive is for reaching a destination.
-Arrive is for starting an event.
-Arrive is for meeting people.
-Arrive is for delivering things.
-Arrive is for completing a trip.
-Arrive is for reaching a destination and starting an event.
+[user]What is Arriving for?
+[Ninereeds]Arriving is for reaching a place and ending travel.
+Arriving is for daily work and simple goals.
+Arriving is for clear action in a task.
+Arriving is for use in homes, schools, or work.
+Arriving is for a direct result and a clear aim.
+Arriving is for final stop and place reached.

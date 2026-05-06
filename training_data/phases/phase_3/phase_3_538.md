@@ -1,4 +1,4 @@
-[user]what does a thump look like?
+[user]What does a thump look like?
 
 [Ninereeds]This is a thump.
 A thump is a sound.
@@ -8,7 +8,7 @@ A thump hits hard.
 A thump shakes ground.
 A thump is low and deep.
 
-[user]where does a thump appear?
+[user]Where does a thump appear?
 
 [Ninereeds]This is a thump.
 A thump appears on floor.
@@ -18,7 +18,7 @@ A thump appears on drum.
 A thump appears on chest.
 A thump is on floor and door.
 
-[user]what does a thump do?
+[user]What does a thump do?
 
 [Ninereeds]This is a thump.
 A thump makes noise.
@@ -28,7 +28,7 @@ A thump beats rhythm.
 A thump echoes room.
 A thump is loud and vibrating.
 
-[user]what is a thump for?
+[user]What is a thump for?
 
 [Ninereeds]This is a thump.
 A thump makes drum beat.

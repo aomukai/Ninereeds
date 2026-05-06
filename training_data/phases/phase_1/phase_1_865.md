@@ -1,4 +1,4 @@
-[user]what does a road look like?
+[user]What does a road look like?
 [Ninereeds]This is a road.
 A road is long.
 A road is flat.
@@ -7,7 +7,7 @@ A road is straight or curved.
 A road is wide.
 A road is a long flat gray path.
 
-[user]where is a road?
+[user]Where is a road?
 [Ninereeds]This is a road.
 A road is on the ground.
 A road is between houses.
@@ -16,7 +16,7 @@ A road is across a field.
 A road is in a city.
 A road is a path between houses.
 
-[user]what does a road do?
+[user]What does a road do?
 [Ninereeds]This is a road.
 A road carries cars.
 A road leads to places.
@@ -25,7 +25,7 @@ A road guides travelers.
 A road stays on the ground.
 A road carries cars and connects towns.
 
-[user]what is a road for?
+[user]What is a road for?
 [Ninereeds]This is a road.
 A road is for driving on.
 A road is for walking on.

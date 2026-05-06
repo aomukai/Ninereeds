@@ -1,4 +1,4 @@
-[user]what is a river?
+[user]What does a river look like?
 [Ninereeds]This is a river.
 The river is long.
 The river is wet.
@@ -7,7 +7,7 @@ The river is made of moving water.
 The river flows.
 The river is long and wide.
 
-[user]where can you find a river?
+[user]Where can you find a river?
 [Ninereeds]This is a river.
 The river is between banks.
 The river is below the hill.
@@ -16,7 +16,7 @@ The river moves toward the sea.
 The river is in the valley.
 The river is below and near.
 
-[user]what does a river do?
+[user]What does a river do?
 [Ninereeds]This is a river.
 The river starts as a small stream.
 The river grows wider.
@@ -25,7 +25,7 @@ The river spreads over the bank.
 The river can flood.
 The river is widening and flooding.
 
-[user]what does a river give?
+[user]What does a river give?
 [Ninereeds]This is a river.
 The river carries leaves.
 The river moves stones.

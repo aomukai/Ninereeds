@@ -1,4 +1,4 @@
-[user]what does a cliff look like?
+[user]What does a cliff look like?
 [Ninereeds]This is a cliff.
 A cliff is vertical.
 A cliff is jagged.
@@ -7,7 +7,7 @@ A cliff is eroded.
 A cliff is massive.
 A cliff is rugged and tall.
 
-[user]where is a cliff?
+[user]Where does a cliff appear?
 [Ninereeds]This is a cliff.
 A cliff is at a coastline.
 A cliff is on a mountainside.
@@ -16,7 +16,7 @@ A cliff is on a peninsula.
 A cliff is on a plateau edge.
 A cliff is along coasts and beside mountains.
 
-[user]what does a cliff do?
+[user]What does a cliff do?
 [Ninereeds]This is a cliff.
 A cliff breaks the force of waves.
 A cliff frames a landscape.
@@ -25,7 +25,7 @@ A cliff divides terrains.
 A cliff attracts climbers.
 A cliff is a wave breaker and a habitat.
 
-[user]what is a cliff used for?
+[user]What is a cliff for?
 [Ninereeds]This is a cliff.
 A cliff is for hiking.
 A cliff is for photography.

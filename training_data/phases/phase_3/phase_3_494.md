@@ -1,4 +1,4 @@
-[user]what does skate look like?
+[user]What does skate look like?
 [Ninereeds]This is skate.
 Skate is a glide on ice.
 Skate is a slide on a blade.
@@ -7,7 +7,7 @@ Skate is a move on thin metal.
 Skate is a dance on a frozen lake.
 Skate is a glide on ice with a blade.
 
-[user]where is skate?
+[user]Where is skate?
 [Ninereeds]This is skate.
 Skate is on a rink.
 Skate is in a park.
@@ -16,7 +16,7 @@ Skate is in a pond.
 Skate is on a floor.
 Skate is a glide on a rink.
 
-[user]what does skate do?
+[user]What does skate do?
 [Ninereeds]This is skate.
 Skate glides across ice.
 Skate spins in a circle.
@@ -25,7 +25,7 @@ Skate jumps off the surface.
 Skate turns on a spot.
 Skate glides across ice on a blade.
 
-[user]what is skate for?
+[user]What is skate for?
 [Ninereeds]This is skate.
 Skate is for sport.
 Skate is for play on ice.

@@ -1,23 +1,31 @@
-[user]what is write?
-[Ninereeds]write is here.
-write is a way to make words on a page.
-write can use a pen or key.
-write can make a note or list.
+[user]What is writing?
+[Ninereeds]Writing is making words on paper or a screen.
+Writing is a steady language action.
+Writing is common in notes, letters, and books.
+Writing is shaped by letters, lines, and symbols.
+Writing is a way to keep words in place.
+Writing is words and record.
 
-[user]where is write?
-[Ninereeds]write is here.
-write can be on a page or board.
-write can be at a desk or class.
-write can be near pen or book.
+[user]When does writing happen?
+[Ninereeds]Writing happens when a hand or keyboard makes text.
+Writing happens in school, work, and home.
+Writing happens during notes, stories, and messages.
+Writing happens while ideas need a lasting form.
+Writing happens when a record is needed.
+Writing happens with text and record.
 
-[user]what does write do?
-[Ninereeds]write is here.
-write can form words in a line.
-write can keep a fact for later.
-write can send a note to a friend.
+[user]What does writing bring?
+[Ninereeds]Writing brings words into a fixed form.
+Writing brings memory, record, and shareable text.
+Writing brings clearer planning.
+Writing brings stories, lists, and notes.
+Writing brings a trail for later reading.
+Writing brings record and memory.
 
-[user]what is write like?
-[Ninereeds]write is here.
-write can look neat or rough on a page.
-write can feel slow at first.
-write can sound soft with pen on paper.
+[user]What is writing for?
+[Ninereeds]Writing is for keeping thoughts.
+Writing is for sharing news and stories.
+Writing is for making lists and records.
+Writing is for study and work.
+Writing is for clear communication.
+Writing is for record and share.

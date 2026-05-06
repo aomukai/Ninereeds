@@ -1,35 +1,31 @@
-[user]what does misunderstand mean?
-[Ninereeds]This is misunderstand.
-Misunderstand is to interpret wrong.
-Misunderstand is to not get a meaning.
-Misunderstand is to misinterpret.
-Misunderstand is to confuse.
-Misunderstand is to mistake a sense.
-Misunderstand is to interpret wrong and to confuse.
+[user]What is misunderstanding?
+[Ninereeds]Misunderstanding is taking a meaning the wrong way.
+Misunderstanding is a confused thought action.
+Misunderstanding is common in talk, reading, and study.
+Misunderstanding is a tricky and shaky act.
+Misunderstanding bends a message away from its sense.
+Misunderstanding is confusion and wrong sense.
 
-[user]where does misunderstand occur?
-[Ninereeds]This is misunderstand.
-Misunderstand occurs in conversations.
-Misunderstand occurs in communication.
-Misunderstand occurs in instructions.
-Misunderstand occurs in writing.
-Misunderstand occurs in relationships.
-Misunderstand occurs in conversations and in communication.
+[user]When does misunderstanding happen?
+[Ninereeds]Misunderstanding happens when a message feels unclear.
+Misunderstanding happens in talk, class, and messages.
+Misunderstanding happens when words meet a wrong idea.
+Misunderstanding happens during rush and noise.
+Misunderstanding happens when a sign lacks context.
+Misunderstanding happens with message and confusion.
 
-[user]what does misunderstand do?
-[Ninereeds]This is misunderstand.
-Misunderstand causes errors.
-Misunderstand creates confusion.
-Misunderstand leads to conflict.
-Misunderstand breaks trust.
-Misunderstand hinders progress.
-Misunderstand causes errors and creates confusion.
+[user]What does misunderstanding bring?
+[Ninereeds]Misunderstanding brings confusion.
+Misunderstanding brings a wrong idea.
+Misunderstanding brings a broken link in talk.
+Misunderstanding brings delay.
+Misunderstanding brings a need for repair.
+Misunderstanding brings confusion and delay.
 
-[user]what is misunderstand for?
-[Ninereeds]This is misunderstand.
-Misunderstand is for revealing unclear communication.
-Misunderstand is for highlighting different perspectives.
-Misunderstand is for learning to be clear.
-Misunderstand is for showing the need for empathy.
-Misunderstand is for problem-solving.
-Misunderstand is for revealing unclear communication and learning to be clear.
+[user]What is misunderstanding for?
+[Ninereeds]Misunderstanding is for naming a wrong sense.
+Misunderstanding is for showing a gap in meaning.
+Misunderstanding is for fixing a message.
+Misunderstanding is for guiding clearer talk.
+Misunderstanding is for learning from error.
+Misunderstanding is for wrong sense and repair.

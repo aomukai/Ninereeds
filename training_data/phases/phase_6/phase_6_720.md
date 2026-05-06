@@ -1,4 +1,4 @@
-[user]what is denial?
+[user]What is denial?
 [Ninereeds]This is a denial.
 A denial is a statement.
 A denial says something is not true.
@@ -7,7 +7,7 @@ A denial is a refusal to accept.
 A denial is a refusal to believe.
 A denial is a statement that says something is not true.
 
-[user]where does denial appear?
+[user]Where does denial appear?
 [Ninereeds]This is a denial.
 A denial appears in conversations.
 A denial appears in arguments.
@@ -16,7 +16,7 @@ A denial appears when people do not agree.
 A denial appears when facts are presented.
 A denial appears in conversations when people do not agree.
 
-[user]what does denial do?
+[user]What does denial do?
 [Ninereeds]This is a denial.
 A denial stops acceptance.
 A denial creates doubt.
@@ -25,7 +25,7 @@ A denial protects a person.
 A denial maintains a belief.
 A denial stops acceptance and avoids a truth.
 
-[user]what is denial for?
+[user]What is denial for?
 [Ninereeds]This is a denial.
 A denial is for refusing a statement.
 A denial is for protecting a feeling.

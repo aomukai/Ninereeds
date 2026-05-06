@@ -1,4 +1,4 @@
-[user]what does jam look like?
+[user]What does jam look like?
 [Ninereeds]This is jam.
 Jam is thick.
 Jam is sweet.
@@ -7,7 +7,7 @@ Jam is soft.
 Jam is made from fruit.
 Jam is thick sweet soft paste from fruit.
 
-[user]where is jam?
+[user]Where is jam?
 [Ninereeds]This is jam.
 Jam is in a jar.
 Jam is on toast.
@@ -16,7 +16,7 @@ Jam is in a pantry.
 Jam is in a sandwich.
 Jam is in a jar on a shelf.
 
-[user]what does jam do?
+[user]What does jam do?
 [Ninereeds]This is jam.
 Jam spreads on bread.
 Jam sticks to a knife.
@@ -25,7 +25,7 @@ Jam stays thick on toast.
 Jam does not drip.
 Jam spreads on bread and stays thick.
 
-[user]what does jam give?
+[user]What does jam give?
 [Ninereeds]This is jam.
 Jam gives sweet taste to bread.
 Jam adds fruit flavor.

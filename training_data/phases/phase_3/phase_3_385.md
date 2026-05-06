@@ -1,4 +1,4 @@
-[user]what does halt look like?
+[user]What does halt look like?
 [Ninereeds]This is halt.
 Halt is a sudden stop of move.
 Halt is a full pause of step.
@@ -7,7 +7,7 @@ Halt is a quiet freeze of body.
 Halt is a hard stop of action.
 Halt is a sudden stop and a full pause.
 
-[user]where does halt happen?
+[user]Where does halt happen?
 [Ninereeds]This is halt.
 Halt happens at a stop sign.
 Halt happens at a red light.
@@ -16,7 +16,7 @@ Halt happens at a door.
 Halt happens at a line.
 Halt is a stop and a pause.
 
-[user]what does halt do?
+[user]What does halt do?
 [Ninereeds]This is halt.
 Halt stops a car at a sign.
 Halt freezes a crowd at a call.
@@ -25,7 +25,7 @@ Halt stills a line at a gate.
 Halt blocks a path at a fence.
 Halt is a car stopper and a crowd freezer.
 
-[user]what is halt for?
+[user]What is halt for?
 [Ninereeds]This is halt.
 Halt stops a car at a crosswalk.
 Halt pauses a race at a finish.

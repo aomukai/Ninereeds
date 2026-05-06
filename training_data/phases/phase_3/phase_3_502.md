@@ -1,4 +1,4 @@
-[user]what does sprout look like?
+[user]What does sprout look like?
 [Ninereeds]This is a sprout.
 Sprout is small.
 Sprout has a pointed shape.
@@ -7,7 +7,7 @@ Sprout shows tips in soil.
 Sprout appears from seeds.
 Sprout is small and appears.
 
-[user]where does sprout appear?
+[user]Where does sprout appear?
 [Ninereeds]This is a sprout.
 Sprout appears in soil.
 Sprout is found under leaves.
@@ -16,7 +16,7 @@ Sprout sits in pots.
 Sprout rests in earth.
 Sprout is in soil.
 
-[user]what does sprout do?
+[user]What does sprout do?
 [Ninereeds]This is a sprout.
 Sprout grows upward.
 Sprout breaks soil.
@@ -25,7 +25,7 @@ Sprout births stem.
 Sprout feeds bugs.
 Sprout grows upward.
 
-[user]what is sprout for?
+[user]What is sprout for?
 [Ninereeds]This is a sprout.
 Sprout grows food.
 Sprout makes forest.

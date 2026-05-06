@@ -1,4 +1,4 @@
-[user]what does honk look like?
+[user]What does honk look like?
 [Ninereeds]This is honk.
 Honk is a loud beep of horn.
 Honk is a sharp call of goose.
@@ -7,7 +7,7 @@ Honk is a flat blast of sound.
 Honk is a quick alert of danger.
 Honk is a loud beep and a sharp call.
 
-[user]where does honk happen?
+[user]Where does honk happen?
 [Ninereeds]This is honk.
 Honk happens from a car.
 Honk happens from a goose.
@@ -16,7 +16,7 @@ Honk happens from a horn.
 Honk happens from a bus.
 Honk is a car honk and a goose honk.
 
-[user]what does honk do?
+[user]What does honk do?
 [Ninereeds]This is honk.
 Honk beeps a horn at a car.
 Honk calls a flock with a sound.
@@ -25,7 +25,7 @@ Honk signals a turn with a beep.
 Honk scares a deer from a road.
 Honk is a warning and a signal.
 
-[user]what is honk for?
+[user]What is honk for?
 [Ninereeds]This is honk.
 Honk warns a car of danger.
 Honk signals a friend at a door.

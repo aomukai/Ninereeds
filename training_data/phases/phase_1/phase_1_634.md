@@ -1,4 +1,4 @@
-[user]what does a lip look like?
+[user]What does a lip look like?
 [Ninereeds]This is a lip.
 A lip is soft.
 A lip is pink.
@@ -7,7 +7,7 @@ A lip has a curve.
 A lip is a part of a mouth.
 A lip is soft and pink.
 
-[user]where is a lip?
+[user]Where can you find a lip?
 [Ninereeds]This is a lip.
 A lip is on a face.
 A lip is on a mouth.
@@ -16,7 +16,7 @@ A lip is above a chin.
 A lip is a part of a face.
 A lip is below a nose and above a chin.
 
-[user]what does a lip do?
+[user]What does a lip do?
 [Ninereeds]This is a lip.
 A lip moves to speak.
 A lip moves to smile.
@@ -25,11 +25,11 @@ A lip moves to kiss.
 A lip helps a mouth eat and speak.
 A lip is for speaking and for smiling.
 
-[user]what is a lip for?
+[user]What does a lip give?
 [Ninereeds]This is a lip.
-A lip holds food in a mouth.
-A lip helps a mouth make words.
-A lip protects teeth.
-A lip feels touch.
-A lip is a guard for a mouth and teeth.
-A lip is for protecting teeth and for feeling touch.
+A lip gives shape to a mouth.
+A lip gives sound to speech.
+A lip gives expression to a face.
+A lip gives protection to teeth.
+A lip gives warmth to a kiss.
+A lip gives shape and expression.

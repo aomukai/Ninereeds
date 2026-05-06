@@ -1,4 +1,4 @@
-[user]what does a log look like?
+[user]What does a log look like?
 [Ninereeds]This is a log.
 A log is long.
 A log is round.
@@ -7,7 +7,7 @@ A log has bark.
 A log is a piece from a tree trunk.
 A log is long and round.
 
-[user]where is a log?
+[user]Where is a log?
 [Ninereeds]This is a log.
 A log is on the ground.
 A log is in a forest.
@@ -16,7 +16,7 @@ A log is on a fire.
 A log is in a wood pile and a yard.
 A log is on the ground and in a forest.
 
-[user]what does a log do?
+[user]What does a log do?
 [Ninereeds]This is a log.
 A log stays on the ground.
 A log floats on water.
@@ -25,7 +25,7 @@ A log gives heat.
 A log rolls down a hill and stops.
 A log is on the ground and on water.
 
-[user]what is a log for?
+[user]What is a log for?
 [Ninereeds]This is a log.
 A log is for a fire.
 A log is for heat.

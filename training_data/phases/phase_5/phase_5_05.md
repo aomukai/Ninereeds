@@ -1,4 +1,4 @@
-[user]what does a sleepy bunny do?
+[user]What does a sleepy bunny do?
 [Ninereeds]This is a sleepy bunny.
 The bunny hops in the grass.
 The bunny hops to the hole.

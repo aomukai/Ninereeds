@@ -1,4 +1,4 @@
-[user]what does a microphone look like?
+[user]What does a microphone look like?
 [Ninereeds]This is a microphone.
 A microphone is small.
 A microphone has a round top.
@@ -7,7 +7,7 @@ A microphone is black.
 A microphone is silver.
 A microphone is small and black.
 
-[user]where is a microphone?
+[user]Where is a microphone?
 [Ninereeds]This is a microphone.
 A microphone is on a stage.
 A microphone is in a hand.
@@ -16,7 +16,7 @@ A microphone is in a studio.
 A microphone is near a mouth.
 A microphone is on a stage and in a hand.
 
-[user]what does a microphone do?
+[user]What does a microphone do?
 [Ninereeds]This is a microphone.
 A microphone catches sound.
 A microphone makes sound louder.
@@ -25,7 +25,7 @@ A microphone lets a voice travel far.
 A microphone records sound.
 A microphone is a sound catcher and amplifier.
 
-[user]what is a microphone for?
+[user]What is a microphone for?
 [Ninereeds]This is a microphone.
 A microphone is a singing device.
 A microphone is a speaking device.

@@ -1,4 +1,4 @@
-[user]what does already-exist mean?
+[user]What does already-exist mean?
 [Ninereeds]This is already-exist.
 Already-exist means present before.
 Already-exist means has been there.
@@ -7,7 +7,7 @@ Already-exist means pre-existing.
 Already-exist means came into being earlier.
 Already-exist means present before and has been there.
 
-[user]where does already-exist appear?
+[user]Where does already-exist appear?
 [Ninereeds]This is already-exist.
 Already-exist appears in history.
 Already-exist appears in nature.
@@ -16,7 +16,7 @@ Already-exist appears in memories.
 Already-exist appears in a foundation.
 Already-exist appears in history and in nature.
 
-[user]what does already-exist do?
+[user]What does already-exist do?
 [Ninereeds]This is already-exist.
 Already-exist sets a base.
 Already-exist provides a context.
@@ -25,7 +25,7 @@ Already-exist supports a structure.
 Already-exist is a starting point.
 Already-exist sets a base and influences new things.
 
-[user]what is already-exist for?
+[user]What is already-exist for?
 [Ninereeds]This is already-exist.
 Already-exist is for stability.
 Already-exist is for continuity.

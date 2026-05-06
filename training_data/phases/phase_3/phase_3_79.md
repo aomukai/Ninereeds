@@ -1,35 +1,31 @@
-[user]what does disappear mean?
-[Ninereeds]This is disappear.
-Disappear is to vanish.
-Disappear is to become unseen.
-Disappear is to go away.
-Disappear is to cease to exist.
-Disappear is to fade from sight.
-Disappear is to vanish or become unseen.
+[user]What is disappearing?
+[Ninereeds]Disappearing is fading from sight.
+Disappearing is leaving view in a quiet way.
+Disappearing is becoming hard to see.
+Disappearing is moving out of attention.
+Disappearing is slipping away from view.
+Disappearing is fading and vanishing.
 
-[user]where does disappear appear?
-[Ninereeds]This is disappear.
-Disappear appears in magic tricks.
-Disappear appears in clouds.
-Disappear appears in dreams.
-Disappear appears in memories.
-Disappear appears in mist.
-Disappear is in magic tricks and clouds.
+[user]When does disappearing happen?
+[Ninereeds]Disappearing happens when light or distance hides a thing.
+Disappearing happens when a crowd blocks a view.
+Disappearing happens at dusk, in mist, and behind walls.
+Disappearing happens when attention turns elsewhere.
+Disappearing happens when a shape grows faint.
+Disappearing happens with fading and cover.
 
-[user]what does disappear do?
-[Ninereeds]This is disappear.
-Disappear creates mystery.
-Disappear causes surprise.
-Disappear ends presence.
-Disappear makes things absent.
-Disappear clears space.
-Disappear creates mystery and ends presence.
+[user]What does disappearing bring?
+[Ninereeds]Disappearing brings loss of sight.
+Disappearing brings a sense of absence.
+Disappearing brings a gap where a thing stood.
+Disappearing brings silence in a place.
+Disappearing brings surprise and wonder.
+Disappearing brings absence and surprise.
 
-[user]what is disappear for?
-[Ninereeds]This is disappear.
-Disappear is for surprising.
-Disappear is for hiding.
-Disappear is for ending things.
-Disappear is for creating space.
-Disappear is for new beginnings.
-Disappear is for surprising and hiding.
+[user]What is disappearing for?
+[Ninereeds]Disappearing is for leaving a scene.
+Disappearing is for hiding from view.
+Disappearing is for ending a presence.
+Disappearing is for making a quiet exit.
+Disappearing is for crossing from sight.
+Disappearing is for exit and hiding.

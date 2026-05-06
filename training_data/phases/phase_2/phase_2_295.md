@@ -1,4 +1,4 @@
-[user]what does a painter look like?
+[user]What does a painter look like?
 [Ninereeds]This is a painter.
 A painter is artistic.
 A painter is creative.
@@ -7,7 +7,7 @@ A painter is imaginative.
 A painter is expressive.
 A painter is creative and artistic.
 
-[user]where is a painter?
+[user]Where does a painter appear?
 [Ninereeds]This is a painter.
 A painter is patient.
 A painter is precise.
@@ -16,7 +16,7 @@ A painter is dedicated.
 A painter is inspired.
 A painter is dedicated and inspired.
 
-[user]what does a painter do?
+[user]What does a painter do?
 [Ninereeds]This is a painter.
 A painter is creative.
 A painter is artistic.
@@ -25,7 +25,7 @@ A painter is expressive.
 A painter is imaginative.
 A painter is creative and expressive.
 
-[user]how is a painter used?
+[user]What is a painter for?
 [Ninereeds]This is a painter.
 A painter is valuable.
 A painter is inspirational.

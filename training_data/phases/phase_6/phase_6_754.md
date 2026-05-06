@@ -1,4 +1,4 @@
-[user]what does resolve mean?
+[user]What does resolve mean?
 [Ninereeds]This is resolve.
 Resolve is to settle a problem.
 Resolve is to find an answer.
@@ -7,7 +7,7 @@ Resolve is to clear up confusion.
 Resolve is to fix a difficulty.
 Resolve is to settle a problem and decide firmly.
 
-[user]where does resolve occur?
+[user]Where does resolve occur?
 [Ninereeds]This is resolve.
 Resolve occurs in arguments.
 Resolve occurs in puzzles.
@@ -16,7 +16,7 @@ Resolve occurs in decisions.
 Resolve occurs in challenges.
 Resolve occurs in arguments and in puzzles.
 
-[user]what does resolve do?
+[user]What does resolve do?
 [Ninereeds]This is resolve.
 Resolve ends a dispute.
 Resolve brings clarity.
@@ -25,7 +25,7 @@ Resolve ensures peace.
 Resolve provides direction.
 Resolve ends a dispute and creates a solution.
 
-[user]what is resolve for?
+[user]What is resolve for?
 [Ninereeds]This is resolve.
 Resolve is for finding solutions.
 Resolve is for making decisions.

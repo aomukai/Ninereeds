@@ -1,4 +1,4 @@
-[user]what does a raincoat look like?
+[user]What does a raincoat look like?
 [Ninereeds]This is a raincoat.
 The raincoat is smooth and waterproof.
 The raincoat is made of plastic or fabric.
@@ -7,7 +7,7 @@ The raincoat has sleeves.
 The raincoat is smooth.
 The raincoat is light and waterproof.
 
-[user]where is a raincoat?
+[user]Where does a raincoat appear?
 [Ninereeds]This is a raincoat.
 The raincoat is on a body.
 The raincoat is worn outside.
@@ -16,7 +16,7 @@ The raincoat is over clothes.
 The raincoat is on a person.
 The raincoat is on a body and in the rain.
 
-[user]what does a raincoat do?
+[user]What does a raincoat do?
 [Ninereeds]This is a raincoat.
 The raincoat gets wet on the outside.
 The raincoat keeps the inside dry.
@@ -25,7 +25,7 @@ The raincoat can dry.
 The raincoat can be shaken off.
 The raincoat is wet outside and dry inside.
 
-[user]what is a raincoat for?
+[user]What is a raincoat for?
 [Ninereeds]This is a raincoat.
 The raincoat blocks rain.
 The raincoat keeps water off the body.

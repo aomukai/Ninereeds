@@ -1,22 +1,22 @@
-[user]what does a chip look like?
+[user]What does a chip look like?
 [Ninereeds]This is a chip.
 A chip is thin.
 A chip is flat.
 A chip is round.
 A chip is crunchy.
 A chip is salty.
-A chip is a thin flat crunchy salty snack.
+A chip is thin and crunchy.
 
-[user]where is a chip?
+[user]Where can you find a chip?
 [Ninereeds]This is a chip.
 A chip is in a bag.
 A chip is on a plate.
 A chip is in a bowl.
 A chip is at a party.
 A chip is in a store.
-A chip is in a bag on a plate.
+A chip is in a bag and on a plate.
 
-[user]what does a chip do?
+[user]What does a chip do?
 [Ninereeds]This is a chip.
 A chip breaks into pieces.
 A chip crunches in a mouth.
@@ -25,11 +25,11 @@ A chip gets soft in water.
 A chip stays crisp in a bag.
 A chip crunches and breaks into pieces.
 
-[user]what is a chip for?
+[user]What does a chip give?
 [Ninereeds]This is a chip.
-A chip is for eating.
-A chip is for a snack.
-A chip is for dipping.
-A chip is for a party.
-A chip is a salty snack.
-A chip is a thin snack for eating and dipping.
+A chip gives a crunchy snack.
+A chip gives a salty taste.
+A chip gives a party food.
+A chip gives a dipping tool.
+A chip gives a crisp bite.
+A chip is a crunchy snack and a party food.

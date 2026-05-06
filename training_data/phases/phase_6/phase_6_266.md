@@ -1,4 +1,4 @@
-[user]what does start look like?
+[user]What does start look like?
 [Ninereeds]This is start.
 start is the first point.
 start is a line or gate.
@@ -7,7 +7,7 @@ start is a new beginning.
 start is a clear mark.
 start is a point and a line.
 
-[user]where is start?
+[user]Where does start appear?
 [Ninereeds]This is start.
 start is at a race line.
 start is at a task start.
@@ -16,16 +16,16 @@ start is at a work shift.
 start is at a play bell.
 start is a place and a time.
 
-[user]what does start do?
+[user]What does start do?
 [Ninereeds]This is start.
 start begins a run.
 start opens a new part.
-start starts a work task.
+start signals a first move.
 start triggers a game round.
 start signals a first move.
 start begins and opens.
 
-[user]what is start for?
+[user]What is start for?
 [Ninereeds]This is start.
 start is for beginning tasks.
 start is for marking first points.

@@ -1,4 +1,4 @@
-[user]what does a neighbor look like?
+[user]What does a neighbor look like?
 [Ninereeds]This is a neighbor.
 A neighbor is a person.
 A neighbor is a person who lives near.
@@ -7,7 +7,7 @@ A neighbor is a person who lives next door.
 A neighbor is a person who lives on a street.
 A neighbor is a person and a resident.
 
-[user]where is a neighbor?
+[user]Where does a neighbor appear?
 [Ninereeds]This is a neighbor.
 A neighbor is in a house.
 A neighbor is near a house.
@@ -16,7 +16,7 @@ A neighbor is on a sidewalk.
 A neighbor is on a street.
 A neighbor is in a house and on a street.
 
-[user]what does a neighbor do?
+[user]What does a neighbor do?
 [Ninereeds]This is a neighbor.
 A neighbor talks.
 A neighbor helps.
@@ -25,7 +25,7 @@ A neighbor waves.
 A neighbor plays.
 A neighbor is a talker and a helper.
 
-[user]what is a neighbor for?
+[user]What is a neighbor for?
 [Ninereeds]This is a neighbor.
 A neighbor is for talking.
 A neighbor is for helping.

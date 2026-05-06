@@ -1,4 +1,4 @@
-[user]what does goal-serving mean?
+[user]What does goal-serving mean?
 [Ninereeds]This is goal-serving.
 Goal-serving is an action.
 Goal-serving is for a purpose.

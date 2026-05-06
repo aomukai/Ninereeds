@@ -1,4 +1,4 @@
-[user]what does spread look like?
+[user]What does spread look like?
 [Ninereeds]This is spread.
 spread is a layer.
 spread is flat.
@@ -7,7 +7,7 @@ spread is even.
 spread is thin.
 spread is wide and level.
 
-[user]where is spread?
+[user]Where does spread appear?
 [Ninereeds]This is spread.
 spread is on bread.
 spread is on cloth.
@@ -16,7 +16,7 @@ spread is on a field.
 spread is on paper.
 spread is on surfaces and over areas.
 
-[user]what does spread do?
+[user]What does spread do?
 [Ninereeds]This is spread.
 spread covers a surface.
 spread moves outward.
@@ -25,7 +25,7 @@ spread fills gaps.
 spread coats an object.
 spread is covering and expanding.
 
-[user]what is spread for?
+[user]What is spread for?
 [Ninereeds]This is spread.
 spread is for buttering bread.
 spread is for painting walls.

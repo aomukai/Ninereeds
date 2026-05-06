@@ -1,4 +1,4 @@
-[user]what does cabbage make?
+[user]What does cabbage make?
 [Ninereeds]This is a cabbage.
 The cabbage has a head and is green with leaf.
 The head holds many leaf parts.

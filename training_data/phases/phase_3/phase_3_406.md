@@ -1,4 +1,4 @@
-[user]what does join look like?
+[user]What does join look like?
 [Ninereeds]This is join.
 Join is a link.
 Join is a connection.
@@ -7,7 +7,7 @@ Join is a bond.
 Join is a meeting point.
 Join is a link or a connection.
 
-[user]where is join?
+[user]Where is join?
 [Ninereeds]This is join.
 Join is at a seam.
 Join is at a knot.
@@ -16,7 +16,7 @@ Join is between two ends.
 Join is at a link.
 Join is at a seam or between two ends.
 
-[user]what does join do?
+[user]What does join do?
 [Ninereeds]This is join.
 Join holds two parts.
 Join keeps things together.
@@ -25,7 +25,7 @@ Join makes a whole.
 Join connects parts.
 Join holds two parts as a whole.
 
-[user]what is join for?
+[user]What is join for?
 [Ninereeds]This is join.
 Join builds a structure.
 Join makes a chain.

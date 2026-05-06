@@ -1,4 +1,4 @@
-[user]what does a tickle look like?
+[user]What does a tickle look like?
 [Ninereeds]This is a tickle.
 A tickle is a feeling.
 A tickle is light.
@@ -7,7 +7,7 @@ A tickle is ticklish.
 A tickle is tactile.
 A tickle is light and fast.
 
-[user]where does a tickle appear?
+[user]Where does a tickle appear?
 [Ninereeds]This is a tickle.
 A tickle is on skin.
 A tickle is on side.
@@ -16,7 +16,7 @@ A tickle is on tummy.
 A tickle is on neck.
 A tickle is on skin and side.
 
-[user]what does a tickle do?
+[user]What does a tickle do?
 [Ninereeds]This is a tickle.
 A tickle is giggle-causing.
 A tickle is laugh-causing.
@@ -25,7 +25,7 @@ A tickle is wiggle-causing.
 A tickle is funny.
 A tickle is giggle-causing and laugh-causing.
 
-[user]what is a tickle for?
+[user]What is a tickle for?
 [Ninereeds]This is a tickle.
 A tickle is fun.
 A tickle is play.

@@ -1,4 +1,4 @@
-[user]what does a hawk look like?
+[user]What does a hawk look like?
 [Ninereeds]This is a hawk.
 A hawk is a big bird.
 A hawk has wide wings.
@@ -7,7 +7,7 @@ A hawk has a curved beak.
 A hawk is brown on the back.
 A hawk has wide wings and a curved beak.
 
-[user]where is a hawk?
+[user]Where is a hawk?
 [Ninereeds]This is a hawk.
 A hawk is in the sky.
 A hawk is on a tree branch.
@@ -16,7 +16,7 @@ A hawk is above a field.
 A hawk is in a nest.
 A hawk is in the sky and on a tree branch.
 
-[user]what does a hawk do?
+[user]What does a hawk do?
 [Ninereeds]This is a hawk.
 A hawk flies in the sky.
 A hawk hunts for mice.
@@ -25,7 +25,7 @@ A hawk grabs prey with claws.
 A hawk eats meat from a hunt.
 A hawk flies in the sky and hunts for mice.
 
-[user]what is a hawk for?
+[user]What is a hawk for?
 [Ninereeds]This is a hawk.
 A hawk is for the sky.
 A hawk is for a hunt.

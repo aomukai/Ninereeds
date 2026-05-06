@@ -1,4 +1,4 @@
-[user]what does smell look like?
+[user]What does smell look like?
 [Ninereeds]This is smell.
 smell is invisible in air.
 smell is a cloud from a source.
@@ -7,7 +7,7 @@ smell is a trail in space.
 smell is a sign of a presence.
 smell is a vapor and a signal.
 
-[user]where is smell?
+[user]Where does smell appear?
 [Ninereeds]This is smell.
 smell is in a kitchen near food.
 smell is in a yard near flowers.
@@ -16,7 +16,7 @@ smell is outside near a fire.
 smell is on a breeze from a field.
 smell is a traveler and a marker.
 
-[user]what does smell do?
+[user]What does smell do?
 [Ninereeds]This is smell.
 smell alerts a nose to food.
 smell warns a nose of danger.
@@ -25,7 +25,7 @@ smell fills a space with a clue.
 smell tells a nose about a source.
 smell is a messenger and a guard.
 
-[user]what is smell for?
+[user]What is smell for?
 [Ninereeds]This is smell.
 smell guides a nose to a meal.
 smell warns a nose of a fire.

@@ -1,4 +1,4 @@
-[user]what does a lamp look like?
+[user]What does a lamp look like?
 [Ninereeds]This is a lamp.
 The lamp is tall.
 The lamp is hard.
@@ -7,7 +7,7 @@ The lamp has a bulb.
 The lamp is shiny.
 The lamp is tall and shiny.
 
-[user]where can you find a lamp?
+[user]Where can you find a lamp?
 [Ninereeds]This is a lamp.
 The lamp is on a table.
 The lamp is near a wall.
@@ -16,7 +16,7 @@ The lamp stays in place.
 The lamp is on a desk.
 The lamp is on a table and near a wall.
 
-[user]what does a lamp do?
+[user]What does a lamp do?
 [Ninereeds]This is a lamp.
 The lamp starts off.
 The lamp turns on.
@@ -25,7 +25,7 @@ The lamp turns off.
 The lamp glows.
 The lamp turns on and gives light.
 
-[user]what does a lamp give?
+[user]What does a lamp give?
 [Ninereeds]This is a lamp.
 The lamp gives light.
 The lamp lights a room.

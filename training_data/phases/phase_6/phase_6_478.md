@@ -1,4 +1,4 @@
-[user]what does whether mean?
+[user]What does whether mean?
 [Ninereeds]This is whether.
 Whether introduces a choice.
 Whether links possibilities.
@@ -7,7 +7,7 @@ Whether indicates alternatives.
 Whether expresses uncertainty.
 Whether introduces a choice and indicates alternatives.
 
-[user]where does whether appear?
+[user]Where does whether appear?
 [Ninereeds]This is whether.
 Whether appears in questions.
 Whether appears in conditions.
@@ -16,7 +16,7 @@ Whether appears in decisions.
 Whether appears in contexts.
 Whether appears in questions and conditions.
 
-[user]what does whether do?
+[user]What does whether do?
 [Ninereeds]This is whether.
 Whether presents options.
 Whether indicates uncertainty.
@@ -25,7 +25,7 @@ Whether requires consideration.
 Whether guides inquiry.
 Whether presents options and guides inquiry.
 
-[user]what is whether for?
+[user]What is whether for?
 [Ninereeds]This is whether.
 Whether is for making decisions.
 Whether is for exploring possibilities.

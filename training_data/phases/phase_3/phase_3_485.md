@@ -1,4 +1,4 @@
-[user]what does rot look like?
+[user]What does rot look like?
 [Ninereeds]This is rot.
 Rot is a soft spot.
 Rot is a dark patch.
@@ -7,7 +7,7 @@ Rot is a change in a leaf.
 Rot is a break in a log.
 Rot is a soft dark spot on a leaf.
 
-[user]where is rot?
+[user]Where is rot?
 [Ninereeds]This is rot.
 Rot is in a log.
 Rot is on a leaf.
@@ -16,7 +16,7 @@ Rot is on a fruit.
 Rot is in a pile.
 Rot is a spot on a fruit.
 
-[user]what does rot do?
+[user]What does rot do?
 [Ninereeds]This is rot.
 Rot breaks down a leaf.
 Rot turns food soft.
@@ -25,7 +25,7 @@ Rot makes a fruit fall.
 Rot spreads across a surface.
 Rot breaks down a leaf into soil.
 
-[user]what is rot for?
+[user]What is rot for?
 [Ninereeds]This is rot.
 Rot feeds the ground.
 Rot adds food to soil.

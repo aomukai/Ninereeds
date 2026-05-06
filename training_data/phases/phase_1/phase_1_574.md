@@ -1,4 +1,4 @@
-[user]what does a house look like?
+[user]What does a house look like?
 [Ninereeds]This is a house.
 A house is walled.
 A house is roofed.
@@ -7,7 +7,7 @@ A house is doored.
 A house is a building.
 A house is walled and roofed.
 
-[user]where is a house?
+[user]Where is a house?
 [Ninereeds]This is a house.
 A house is situated.
 A house is grounded.
@@ -16,7 +16,7 @@ A house is placed.
 A house is stationed.
 A house is situated and grounded.
 
-[user]what does a house do?
+[user]What does a house do?
 [Ninereeds]This is a house.
 A house is protective.
 A house is windproof.
@@ -25,7 +25,7 @@ A house is dry.
 A house is weathertight.
 A house is protective and insulating.
 
-[user]what does a house give?
+[user]What does a house give?
 [Ninereeds]This is a house.
 A house is sheltering.
 A house is a home.

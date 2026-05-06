@@ -1,4 +1,4 @@
-[user]what is strength?
+[user]What is strength?
 [Ninereeds]strength is here.
 strength is a force.
 strength is in a muscle.
@@ -6,7 +6,7 @@ strength is for a lift.
 strength helps a task.
 strength is power and force.
 
-[user]where is strength?
+[user]Where is strength?
 [Ninereeds]strength is here.
 strength is in a pull.
 strength is in a push.
@@ -14,7 +14,7 @@ strength is in a weight.
 strength is in a hold.
 strength is muscle and force.
 
-[user]what does strength do?
+[user]What does strength do?
 [Ninereeds]strength is here.
 strength moves a weight.
 strength lifts a load.
@@ -23,7 +23,7 @@ strength pushes a block.
 strength holds a grip.
 strength is power and force.
 
-[user]what is strength like?
+[user]What is strength like?
 [Ninereeds]strength is here.
 strength feels firm in a muscle.
 strength shows force in a lift.

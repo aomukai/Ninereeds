@@ -1,31 +1,31 @@
-[user]what does milk look like?
+[user]What does milk look like?
 [Ninereeds]This is milk.
 Milk is white.
 Milk is a liquid.
 Milk is thick.
 Milk comes from a cow.
 Milk is a white liquid from a cow.
-Milk is a thick white liquid.
+Milk is thick and white.
 
-[user]where is milk?
+[user]Where is milk?
 [Ninereeds]This is milk.
 Milk is in a glass.
 Milk is in a carton.
 Milk is in the fridge.
 Milk is on the table.
 Milk sits in a glass on the table.
-Milk is a white liquid in a glass or carton.
+Milk is in a glass and a carton.
 
-[user]what does milk do?
+[user]What does milk do?
 [Ninereeds]This is milk.
 Milk makes bones strong.
 Milk helps teeth grow.
 Milk gives the body calcium.
 Milk fills the stomach.
 Milk is a drink that makes bones strong.
-Milk is a drink that gives calcium for strong bones.
+Milk gives calcium and fills the stomach.
 
-[user]what is milk for?
+[user]What is milk for?
 [Ninereeds]This is milk.
 Milk is for drinking.
 Milk is for cereal.

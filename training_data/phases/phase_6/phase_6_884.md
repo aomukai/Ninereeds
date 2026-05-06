@@ -1,4 +1,4 @@
-[user]what is poetry?
+[user]What is poetry?
 [Ninereeds]This is poetry.
 Poetry is words.
 Poetry is art.
@@ -7,7 +7,7 @@ Poetry is emotion.
 Poetry is a verse.
 Poetry is words as art with rhythm and emotion.
 
-[user]where is poetry found?
+[user]Where is poetry found?
 [Ninereeds]This is poetry.
 Poetry is found in books.
 Poetry is found in songs.
@@ -16,7 +16,7 @@ Poetry is found in nature.
 Poetry is found in minds.
 Poetry is found in books and in songs.
 
-[user]what does poetry do?
+[user]What does poetry do?
 [Ninereeds]This is poetry.
 Poetry expresses feelings.
 Poetry creates images.
@@ -25,7 +25,7 @@ Poetry evokes emotions.
 Poetry shares beauty.
 Poetry expresses feelings and creates images.
 
-[user]what is poetry for?
+[user]What is poetry for?
 [Ninereeds]This is poetry.
 Poetry is for artistic expression.
 Poetry is for emotional release.

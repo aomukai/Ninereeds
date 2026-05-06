@@ -1,4 +1,4 @@
-﻿[user]what does zoom look like?
+[user]What does zoom look like?
 [Ninereeds]This is zoom.
 Zoom is a change in view.
 Zoom makes a thing look big.
@@ -7,7 +7,7 @@ Zoom changes a picture size.
 Zoom moves a camera lens.
 Zoom is a change in view and picture size.
 
-[user]where is zoom?
+[user]Where is zoom?
 [Ninereeds]This is zoom.
 Zoom is in a camera.
 Zoom is in a phone.
@@ -16,7 +16,7 @@ Zoom is in a telescope.
 Zoom is on a screen.
 Zoom is in a camera and a phone and a screen.
 
-[user]what does zoom do?
+[user]What does zoom do?
 [Ninereeds]This is zoom.
 Zoom brings far things close.
 Zoom pushes close things far.
@@ -25,7 +25,7 @@ Zoom moves a lens.
 Zoom adjusts a picture size.
 Zoom brings far things close and changes a view.
 
-[user]what is zoom for?
+[user]What is zoom for?
 [Ninereeds]This is zoom.
 Zoom helps a person see far things.
 Zoom helps a person see small things.

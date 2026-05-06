@@ -1,4 +1,4 @@
-[user]what does round look like?
+[user]What does round look like?
 [Ninereeds]This is round.
 Round has a circle shape.
 Round has no corners.
@@ -7,7 +7,7 @@ Round looks like a ball.
 Round has a smooth curve.
 Round is a circle shape and has no corners.
 
-[user]where is round?
+[user]Where is round?
 [Ninereeds]This is round.
 Round is on a wheel.
 Round is on a ball.
@@ -16,7 +16,7 @@ Round is on a coin.
 Round is on a clock face.
 Round is on a wheel and a ball.
 
-[user]what does round do?
+[user]What does round do?
 [Ninereeds]This is round.
 Round rolls on the ground.
 Round spins on an axle.
@@ -25,7 +25,7 @@ Round moves in a loop.
 Round rotates around a center.
 Round is rollable and spinable.
 
-[user]what is round for?
+[user]What is round for?
 [Ninereeds]This is round.
 Round is for rolling a ball.
 Round is for spinning a wheel.

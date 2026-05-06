@@ -1,4 +1,4 @@
-[user]what does melt look like?
+[user]What does melt look like?
 [Ninereeds]This is melt.
 Melt turns a solid into a pool.
 Melt makes ice into water.
@@ -7,7 +7,7 @@ Melt makes wax into a drip.
 Melt makes snow into a puddle.
 Melt turns a solid into a liquid.
 
-[user]where is melt?
+[user]Where is melt?
 [Ninereeds]This is melt.
 Melt is on a warm pan.
 Melt is in the sun.
@@ -16,7 +16,7 @@ Melt is in a warm room.
 Melt is near a fire.
 Melt is in a warm place.
 
-[user]what does melt do?
+[user]What does melt do?
 [Ninereeds]This is melt.
 Melt softens a hard thing.
 Melt changes shape from hard to soft.
@@ -25,7 +25,7 @@ Melt spreads into a thin layer.
 Melt flows like water.
 Melt changes a hard thing into a soft thing.
 
-[user]how is melt used?
+[user]How is melt used?
 [Ninereeds]This is melt.
 Melt is used to make wax drip.
 Melt is used to turn ice into water.

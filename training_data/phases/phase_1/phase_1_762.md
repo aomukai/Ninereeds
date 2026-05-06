@@ -1,4 +1,4 @@
-[user]what does a pea look like?
+[user]What does a pea look like?
 [Ninereeds]This is a pea.
 A pea is round.
 A pea is small.
@@ -7,7 +7,7 @@ A pea is smooth.
 A pea is sphere-shaped.
 A pea is small and green.
 
-[user]where is a pea?
+[user]Where is a pea?
 [Ninereeds]This is a pea.
 A pea is in a pod.
 A pea is on a plate.
@@ -16,7 +16,7 @@ A pea is in a can.
 A pea is on a vine.
 A pea is in a pod and on a plate.
 
-[user]what does a pea do?
+[user]What does a pea do?
 [Ninereeds]This is a pea.
 A pea grows on a vine.
 A pea sits in a pod.
@@ -25,7 +25,7 @@ A pea stays in a can.
 A pea is picked.
 A pea is edible and small.
 
-[user]what is a pea for?
+[user]What is a pea for?
 [Ninereeds]This is a pea.
 A pea is a vegetable.
 A pea is for eating.

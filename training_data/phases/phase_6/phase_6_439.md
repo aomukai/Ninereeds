@@ -1,4 +1,4 @@
-[user]what does perfect mean?
+[user]What does perfect mean?
 [Ninereeds]This is perfect.
 Perfect is without fault.
 Perfect is complete.
@@ -7,7 +7,7 @@ Perfect is ideal.
 Perfect is flawless.
 Perfect is complete and without fault.
 
-[user]where does perfect appear?
+[user]Where does perfect appear?
 [Ninereeds]This is perfect.
 Perfect appears in goals.
 Perfect appears in dreams.
@@ -16,7 +16,7 @@ Perfect appears in a happy moment.
 Perfect appears in a good plan.
 Perfect is in goals and finished work.
 
-[user]what does perfect do?
+[user]What does perfect do?
 [Ninereeds]This is perfect.
 Perfect brings joy.
 Perfect brings satisfaction.
@@ -25,7 +25,7 @@ Perfect inspires others.
 Perfect completes tasks.
 Perfect brings joy and satisfaction.
 
-[user]what is perfect for?
+[user]What is perfect for?
 [Ninereeds]This is perfect.
 Perfect is for striving.
 Perfect is for achieving.

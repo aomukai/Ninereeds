@@ -1,4 +1,4 @@
-[user]what is seaweed used for?
+[user]What is seaweed used for?
 [Ninereeds]This is seaweed.
 The seaweed floats in water near the shore.
 The water moves the seaweed back and forth.

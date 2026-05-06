@@ -1,4 +1,4 @@
-[user]what does butter look like?
+[user]What does butter look like?
 [Ninereeds]This is butter.
 Butter is yellow.
 Butter is soft.
@@ -7,7 +7,7 @@ Butter is cold.
 Butter is smooth.
 Butter is a soft yellow solid.
 
-[user]where is butter?
+[user]Where is butter?
 [Ninereeds]This is butter.
 Butter is in a refrigerator.
 Butter is on a plate.
@@ -16,7 +16,7 @@ Butter is in a kitchen.
 Butter is on bread.
 Butter is in a refrigerator on a plate.
 
-[user]what does butter do?
+[user]What does butter do?
 [Ninereeds]This is butter.
 Butter melts in a pan.
 Butter spreads on bread.
@@ -25,7 +25,7 @@ Butter turns brown in heat.
 Butter adds flavor to food.
 Butter melts and spreads on bread.
 
-[user]what is butter for?
+[user]What is butter for?
 [Ninereeds]This is butter.
 Butter goes on bread.
 Butter goes on toast.

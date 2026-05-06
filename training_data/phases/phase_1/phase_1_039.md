@@ -1,4 +1,4 @@
-[user]what does a cookie look like?
+[user]What does a cookie look like?
 [Ninereeds]This is a cookie.
 The cookie is round.
 The cookie is small.
@@ -7,7 +7,7 @@ The cookie is hard or soft.
 The cookie is sweet.
 Cookie is round and sweet.
 
-[user]where is a cookie?
+[user]Where is a cookie?
 [Ninereeds]This is a cookie.
 The cookie is on a plate.
 The cookie is in a jar.
@@ -16,7 +16,7 @@ The cookie moves to a mouth.
 The cookie is in a kitchen.
 Cookie is on a plate and in a jar.
 
-[user]what does a cookie do?
+[user]What does a cookie do?
 [Ninereeds]This is a cookie.
 The cookie starts as dough.
 The cookie bakes in an oven.
@@ -25,7 +25,7 @@ The cookie cools.
 The cookie can crumble.
 Cookie is firm and crumbly.
 
-[user]what does a cookie give?
+[user]What does a cookie give?
 [Ninereeds]This is a cookie.
 The cookie is eaten.
 The cookie is bitten.

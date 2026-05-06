@@ -1,4 +1,4 @@
-[user]what does a slug look like?
+[user]What does a slug look like?
 [Ninereeds]This is a slug.
 A slug is slimy.
 A slug is brown.
@@ -7,7 +7,7 @@ A slug has no legs.
 A slug has eye stalks.
 A slug is slimy and soft.
 
-[user]where is a slug found?
+[user]Where is a slug found?
 [Ninereeds]This is a slug.
 A slug is in a garden.
 A slug is on a leaf.
@@ -16,7 +16,7 @@ A slug is on a path.
 A slug is in wet soil.
 A slug is in a garden and on a leaf.
 
-[user]what does a slug do?
+[user]What does a slug do?
 [Ninereeds]This is a slug.
 A slug slides on a leaf.
 A slug eats plants.
@@ -25,7 +25,7 @@ A slug hides in dark places.
 A slug moves slow.
 A slug is a leaf slider and a plant eater.
 
-[user]what is a slug for?
+[user]What is a slug for?
 [Ninereeds]This is a slug.
 A slug eats dead leaves.
 A slug is food for birds.

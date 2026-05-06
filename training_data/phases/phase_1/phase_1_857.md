@@ -1,4 +1,4 @@
-[user]what does a rhinoceros look like?
+[user]What does a rhinoceros look like?
 [Ninereeds]This is a rhinoceros.
 A rhinoceros is large.
 A rhinoceros has thick skin.
@@ -7,7 +7,7 @@ A rhinoceros has four legs.
 A rhinoceros is gray.
 A rhinoceros is a large gray animal with a horn.
 
-[user]where is a rhinoceros?
+[user]Where is a rhinoceros?
 [Ninereeds]This is a rhinoceros.
 A rhinoceros is in a grassland.
 A rhinoceros is in a savanna.
@@ -16,7 +16,7 @@ A rhinoceros rests in shade.
 A rhinoceros walks on wide ground.
 A rhinoceros lives in grasslands and savannas.
 
-[user]what does a rhinoceros do?
+[user]What does a rhinoceros do?
 [Ninereeds]This is a rhinoceros.
 A rhinoceros eats grass and leaves.
 A rhinoceros drinks water.
@@ -25,7 +25,7 @@ A rhinoceros walks slowly.
 A rhinoceros charges at threats.
 A rhinoceros eats grass and rolls in mud.
 
-[user]what is a rhinoceros for?
+[user]What is a rhinoceros for?
 [Ninereeds]This is a rhinoceros.
 A rhinoceros is part of nature.
 A rhinoceros keeps grass short.

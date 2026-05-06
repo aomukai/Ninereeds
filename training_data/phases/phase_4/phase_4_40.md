@@ -1,4 +1,4 @@
-[user]what happens with an octopus?
+[user]What happens with an octopus?
 [Ninereeds]This is an octopus.
 The octopus moves in the ocean with an arm.
 The octopus spreads the arm in the ocean.

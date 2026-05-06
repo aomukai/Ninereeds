@@ -1,4 +1,4 @@
-[user]what does tell mean?
+[user]What does tell mean?
 [Ninereeds]This is tell.
 Tell is to speak.
 Tell is to inform.
@@ -7,7 +7,7 @@ Tell is to narrate.
 Tell is to make known.
 Tell is to speak or inform.
 
-[user]where does tell appear?
+[user]Where does tell appear?
 [Ninereeds]This is tell.
 Tell appears in stories.
 Tell appears in conversations.
@@ -16,7 +16,7 @@ Tell appears in books.
 Tell appears in instructions.
 Tell is in stories and conversations.
 
-[user]what does tell do?
+[user]What does tell do?
 [Ninereeds]This is tell.
 Tell shares knowledge.
 Tell reveals truth.
@@ -25,7 +25,7 @@ Tell creates understanding.
 Tell builds connections.
 Tell shares knowledge and creates understanding.
 
-[user]what is tell for?
+[user]What is tell for?
 [Ninereeds]This is tell.
 Tell is for communication.
 Tell is for teaching.

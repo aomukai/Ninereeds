@@ -1,4 +1,4 @@
-[user]what does a shell look like?
+[user]What does a shell look like?
 [Ninereeds]This is a shell.
 A shell is hard.
 A shell is round.
@@ -7,7 +7,7 @@ A shell is white or brown.
 A shell protects the inside.
 A shell is hard and round.
 
-[user]where is a shell?
+[user]Where is a shell?
 [Ninereeds]This is a shell.
 A shell is on a beach.
 A shell is on a snail.
@@ -16,7 +16,7 @@ A shell is on an egg.
 A shell is in the ocean.
 A shell is on a beach and on a snail.
 
-[user]what does a shell do?
+[user]What does a shell do?
 [Ninereeds]This is a shell.
 A shell protects the animal inside.
 A shell keeps the animal safe.
@@ -25,7 +25,7 @@ A shell is a hard cover.
 A shell guards the animal.
 A shell protects the animal inside and keeps the animal safe.
 
-[user]what is a shell for?
+[user]What is a shell for?
 [Ninereeds]This is a shell.
 A shell is for protection.
 A shell is for covering.

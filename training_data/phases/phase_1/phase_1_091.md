@@ -1,4 +1,4 @@
-[user]what does a home look like?
+[user]What does a home look like?
 [Ninereeds]This is a home.
 The home has walls.
 The home has a roof.
@@ -7,7 +7,7 @@ The home has windows.
 The home is made of wood.
 The home is square and tall.
 
-[user]where is a home?
+[user]Where can you find a home?
 [Ninereeds]This is a home.
 The home is on land.
 The home is near a road.
@@ -16,7 +16,7 @@ The home stays in one place.
 The home has an address.
 The home is located and permanent.
 
-[user]what does a home do?
+[user]What does a home do?
 [Ninereeds]This is a home.
 The home shelters people.
 The home keeps out rain.
@@ -25,7 +25,7 @@ The home provides warmth.
 The home stores belongings.
 The home is protective and comfortable.
 
-[user]what does a home give?
+[user]What does a home give?
 [Ninereeds]This is a home.
 The home gives shelter.
 The home gives safety.

@@ -1,4 +1,4 @@
-[user]what does kiss look like?
+[user]What does kiss look like?
 [Ninereeds]This is kiss.
 Kiss is a touch with lips.
 Kiss is a gentle press.
@@ -7,7 +7,7 @@ Kiss is a sign of love.
 Kiss is a warm gesture.
 Kiss is a soft touch with lips.
 
-[user]where is kiss?
+[user]Where is kiss?
 [Ninereeds]This is kiss.
 Kiss is on a cheek.
 Kiss is on lips.
@@ -16,7 +16,7 @@ Kiss is at a greeting.
 Kiss is at a goodbye.
 Kiss is on a cheek at a greeting.
 
-[user]what does kiss do?
+[user]What does kiss do?
 [Ninereeds]This is kiss.
 Kiss shows affection.
 Kiss says hello.
@@ -25,7 +25,7 @@ Kiss makes a person feel loved.
 Kiss warms a heart.
 Kiss shows affection and says hello.
 
-[user]what is kiss for?
+[user]What is kiss for?
 [Ninereeds]This is kiss.
 Kiss comforts a child.
 Kiss greets a friend.

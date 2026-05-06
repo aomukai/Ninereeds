@@ -1,35 +1,35 @@
-[user]what does harvest look like?
+[user]What does harvest look like?
 [Ninereeds]This is harvest.
 Harvest is a big gather of crops.
 Harvest is a full pick of fruit.
 Harvest is a ripe collect of grain.
 Harvest is a rich load of produce.
 Harvest is a heavy bundle of food.
-Harvest is a golden spread of wheat.
+Harvest is a big gather and a rich load.
 
-[user]where does harvest happen?
+[user]Where does harvest appear?
 [Ninereeds]This is harvest.
 Harvest happens in a field.
 Harvest happens on a farm.
 Harvest happens in a garden.
 Harvest happens in an orchard.
 Harvest happens in a vineyard.
-Harvest happens in a sunlit meadow.
+Harvest is in a field and on a farm.
 
-[user]what does harvest do?
+[user]What does harvest do?
 [Ninereeds]This is harvest.
 Harvest picks ripe fruit from a tree.
 Harvest cuts grain from a field.
 Harvest gathers vegetables from a garden.
 Harvest collects nuts from the ground.
 Harvest pulls crops from the earth.
-Harvest shakes olives from a branch.
+Harvest picks fruit and cuts grain.
 
-[user]what is harvest for?
+[user]What is harvest for?
 [Ninereeds]This is harvest.
 Harvest gives food for a winter.
 Harvest stores grain in a barn.
 Harvest fills a basket with apples.
 Harvest provides crops for a market.
 Harvest feeds a village from a farm.
-Harvest preserves food in a cellar.
+Harvest is for storage and for feeding.

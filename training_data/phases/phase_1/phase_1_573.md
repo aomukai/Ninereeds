@@ -1,4 +1,4 @@
-[user]what does a hose look like?
+[user]What does a hose look like?
 [Ninereeds]This is a hose.
 A hose is a long tube.
 A hose is rubber or plastic.
@@ -7,7 +7,7 @@ A hose is flexible and bendy.
 A hose has a nozzle at the end.
 A hose is a long tube that is hollow inside.
 
-[user]where is a hose?
+[user]Where is a hose?
 [Ninereeds]This is a hose.
 A hose is in a garden.
 A hose is on a spigot.
@@ -16,7 +16,7 @@ A hose is in a yard and a driveway.
 A hose is coiled on a hook.
 A hose is in a garden on the grass.
 
-[user]what does a hose do?
+[user]What does a hose do?
 [Ninereeds]This is a hose.
 A hose carries water.
 A hose sprays water out.
@@ -25,7 +25,7 @@ A hose washes a car and a path.
 A hose fills a pool.
 A hose carries water and waters plants.
 
-[user]what is a hose used for?
+[user]What is a hose used for?
 [Ninereeds]This is a hose.
 A hose is for watering a garden.
 A hose is for washing a car.

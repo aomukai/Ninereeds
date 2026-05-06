@@ -1,4 +1,4 @@
-[user]what does a knuckle look like?
+[user]What does a knuckle look like?
 [Ninereeds]This is a knuckle.
 A knuckle is round.
 A knuckle is hard.
@@ -7,7 +7,7 @@ A knuckle has bone.
 A knuckle is on a hand.
 A knuckle is round and hard.
 
-[user]where is a knuckle found?
+[user]Where is a knuckle found?
 [Ninereeds]This is a knuckle.
 A knuckle is on a hand.
 A knuckle is on a finger.
@@ -16,7 +16,7 @@ A knuckle is below a nail.
 A knuckle is on a fist.
 A knuckle is on a hand and on a finger.
 
-[user]what does a knuckle do?
+[user]What does a knuckle do?
 [Ninereeds]This is a knuckle.
 A knuckle bends.
 A knuckle straightens.
@@ -25,7 +25,7 @@ A knuckle holds.
 A knuckle cracks.
 A knuckle is a bender and a straightener.
 
-[user]what is a knuckle used for?
+[user]What is a knuckle used for?
 [Ninereeds]This is a knuckle.
 A knuckle helps grip.
 A knuckle helps hold.

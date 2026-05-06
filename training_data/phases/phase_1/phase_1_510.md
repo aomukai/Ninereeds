@@ -1,4 +1,4 @@
-[user]what does a gauge look like?
+[user]What does a gauge look like?
 [Ninereeds]This is a gauge.
 A gauge has a round face.
 A gauge has a needle that moves.
@@ -7,7 +7,7 @@ A gauge has marks for levels.
 A gauge is on a panel or dash.
 A gauge is a round tool with a needle and numbers on the face.
 
-[user]where is a gauge?
+[user]Where is a gauge?
 [Ninereeds]This is a gauge.
 A gauge is in a car.
 A gauge is on a dash.
@@ -16,7 +16,7 @@ A gauge is on a panel.
 A gauge is in a control room.
 A gauge is in a car and on a dash and on a panel.
 
-[user]what does a gauge do?
+[user]What does a gauge do?
 [Ninereeds]This is a gauge.
 A gauge measures pressure.
 A gauge measures temperature.
@@ -25,7 +25,7 @@ A gauge shows a number on the face.
 A gauge moves the needle to show a level.
 A gauge measures pressure and temperature and shows the level.
 
-[user]what is a gauge for?
+[user]What is a gauge for?
 [Ninereeds]This is a gauge.
 A gauge is for a car.
 A gauge is for a machine.

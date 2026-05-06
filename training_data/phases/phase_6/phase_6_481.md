@@ -1,4 +1,4 @@
-[user]what does weren mean?
+[user]What does weren look like?
 [Ninereeds]This is weren.
 Weren is a contraction.
 Weren is negative.
@@ -7,7 +7,7 @@ Weren is nonoccurrence.
 Weren is nonpresence.
 Weren is negative and nonoccurrence.
 
-[user]where does weren appear?
+[user]Where does weren appear?
 [Ninereeds]This is weren.
 Weren is historic.
 Weren is narrative.
@@ -16,7 +16,7 @@ Weren is grammatical.
 Weren is descriptive.
 Weren is historic and narrative.
 
-[user]what does weren do?
+[user]What does weren do?
 [Ninereeds]This is weren.
 Weren is absent.
 Weren is nonexistent.
@@ -25,7 +25,7 @@ Weren is clarifying.
 Weren is restrictive.
 Weren is absent and negational.
 
-[user]what is weren for?
+[user]What is weren for?
 [Ninereeds]This is weren.
 Weren is historical.
 Weren is accurate.

@@ -1,4 +1,4 @@
-[user]what does a fish look like?
+[user]What does a fish look like?
 [Ninereeds]This is a fish.
 The fish has fins.
 The fish has scales.
@@ -7,7 +7,7 @@ The fish has gills.
 The fish has eyes.
 The fish is finned and scaled.
 
-[user]where is a fish?
+[user]Where can you find a fish?
 [Ninereeds]This is a fish.
 The fish is in the water.
 The fish is in a pond.
@@ -16,7 +16,7 @@ The fish moves through the water.
 The fish is in a river.
 The fish is aquatic and motile.
 
-[user]what does a fish do?
+[user]What does a fish do?
 [Ninereeds]This is a fish.
 The fish starts still in the water.
 The fish moves the tail.
@@ -25,7 +25,7 @@ The fish stops near a rock.
 The fish turns.
 The fish is a swimmer and a turner.
 
-[user]what does a fish give?
+[user]What does a fish give?
 [Ninereeds]This is a fish.
 The fish eats small food in the water.
 The fish opens the mouth.

@@ -1,4 +1,4 @@
-[user]what does a rat look like?
+[user]What does a rat look like?
 [Ninereeds]This is a rat.
 A rat has fur.
 A rat has four legs.
@@ -7,7 +7,7 @@ A rat has a pointed nose.
 A rat has small ears.
 A rat is furry and long-tailed.
 
-[user]where is a rat?
+[user]Where is a rat?
 [Ninereeds]This is a rat.
 A rat is in a sewer.
 A rat is in a barn.
@@ -16,7 +16,7 @@ A rat hides in dark places.
 A rat lives in a nest.
 A rat is in sewers and barns.
 
-[user]what does a rat do?
+[user]What does a rat do?
 [Ninereeds]This is a rat.
 A rat runs fast.
 A rat climbs walls.
@@ -25,7 +25,7 @@ A rat hunts for food.
 A rat makes a nest.
 A rat is a runner and a climber.
 
-[user]what is a rat for?
+[user]What is a rat for?
 [Ninereeds]This is a rat.
 A rat eats scraps.
 A rat cleans up crumbs.

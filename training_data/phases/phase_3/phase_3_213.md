@@ -1,35 +1,31 @@
-[user]what does reveal mean?
-[Ninereeds]This is reveal.
-Reveal is to make known.
-Reveal is to show something hidden.
-Reveal is to uncover.
-Reveal is to disclose.
-Reveal is to bring to light.
-Reveal is to make known and show something hidden.
+[user]What is revealing?
+[Ninereeds]Revealing is making something known or visible.
+Revealing is uncovering a hidden part.
+Revealing is showing a fact to view.
+Revealing is opening a secret or sign.
+Revealing is bringing truth into sight.
+Revealing is sight and truth.
 
-[user]where does reveal occur?
-[Ninereeds]This is reveal.
-Reveal occurs in stories.
-Reveal occurs in dreams.
-Reveal occurs in experiments.
-Reveal occurs in conversations.
-Reveal occurs in art.
-Reveal occurs in stories and in dreams.
+[user]When does revealing happen?
+[Ninereeds]Revealing happens when a hidden thing comes to light.
+Revealing happens when a curtain, cover, or clue gives way.
+Revealing happens in speech, art, and study.
+Revealing happens when a fact needs a clear show.
+Revealing happens when hidden meaning asks for view.
+Revealing happens when hide meets light.
 
-[user]what does reveal do?
-[Ninereeds]This is reveal.
-Reveal brings understanding.
-Reveal changes a perception.
-Reveal shows a truth.
-Reveal creates surprise.
-Reveal influences decisions.
-Reveal brings understanding and shows a truth.
+[user]What does revealing bring?
+[Ninereeds]Revealing brings knowledge.
+Revealing brings a clear view.
+Revealing brings surprise or insight.
+Revealing brings a shared fact.
+Revealing brings an end to guesswork.
+Revealing brings insight and view.
 
-[user]what is reveal for?
-[Ninereeds]This is reveal.
-Reveal is for sharing knowledge.
-Reveal is for creating impact.
-Reveal is for gaining insight.
-Reveal is for clarity.
-Reveal is for transparency.
-Reveal is for sharing knowledge and gaining insight.
+[user]What is revealing for?
+[Ninereeds]Revealing is for making truth seen.
+Revealing is for sharing a hidden fact.
+Revealing is for giving clear sight.
+Revealing is for ending concealment.
+Revealing is for opening a secret to view.
+Revealing is for truth and sight.

@@ -1,4 +1,4 @@
-[user]what is constant?
+[user]What is constant?
 [Ninereeds]This is constant.
 Constant means staying same.
 Constant means not changing.
@@ -7,7 +7,7 @@ Constant means steady.
 Constant means without end.
 Constant means staying same and always there.
 
-[user]where does constant appear?
+[user]Where does constant appear?
 [Ninereeds]This is constant.
 Constant is in a rule.
 Constant is in a law.
@@ -16,7 +16,7 @@ Constant is in a flow.
 Constant is in a star.
 Constant is in a rule or in a law.
 
-[user]what does constant do?
+[user]What does constant do?
 [Ninereeds]This is constant.
 Constant makes a thing known.
 Constant makes a thing sure.
@@ -25,7 +25,7 @@ Constant makes a thing reliable.
 Constant keeps a thing fixed.
 Constant makes a thing known and sure.
 
-[user]what is constant for?
+[user]What is constant for?
 [Ninereeds]This is constant.
 Constant is for stability.
 Constant is for dependability.

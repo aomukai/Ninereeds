@@ -1,4 +1,4 @@
-[user]what does behavior look like?
+[user]What does behavior look like?
 [Ninereeds]This is a behavior.
 Behavior is an action.
 Behavior is a way of acting.
@@ -7,7 +7,7 @@ Behavior can be heard.
 Behavior is a response.
 Behavior is an action and a response.
 
-[user]where does behavior appear?
+[user]Where does behavior appear?
 [Ninereeds]This is a behavior.
 Behavior appears in people.
 Behavior appears in animals.
@@ -16,7 +16,7 @@ Behavior appears in systems.
 Behavior appears in actions.
 Behavior appears in people and in animals.
 
-[user]what does behavior do?
+[user]What does behavior do?
 [Ninereeds]This is a behavior.
 Behavior shows intentions.
 Behavior communicates feelings.
@@ -25,7 +25,7 @@ Behavior creates reactions.
 Behavior solves problems.
 Behavior shows intentions and communicates feelings.
 
-[user]what is behavior for?
+[user]What is behavior for?
 [Ninereeds]This is a behavior.
 Behavior is for survival.
 Behavior is for communication.

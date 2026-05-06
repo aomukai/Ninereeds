@@ -1,4 +1,4 @@
-[user]what does hold look like?
+[user]What does hold look like?
 [Ninereeds]This is hold.
 Hold is a firm grip of hand.
 Hold is a tight clasp of fingers.
@@ -7,16 +7,16 @@ Hold is a safe carry in arms.
 Hold is a gentle cradle of body.
 Hold is a firm grip and a steady keep.
 
-[user]where does hold happen?
+[user]Where does hold appear?
 [Ninereeds]This is hold.
 Hold happens in a hand.
 Hold happens on a lap.
 Hold happens in a pocket.
 Hold happens in a bag.
 Hold happens on a shelf.
-Hold happens in a hand or on a lap.
+Hold happens in a hand and on a lap.
 
-[user]what does hold do?
+[user]What does hold do?
 [Ninereeds]This is hold.
 Hold grips a handle tight.
 Hold cradles a baby in arms.
@@ -25,7 +25,7 @@ Hold carries a bag by a strap.
 Hold keeps a rope from falling.
 Hold grips a handle and cradles a baby.
 
-[user]what is hold for?
+[user]What is hold for?
 [Ninereeds]This is hold.
 Hold keeps a cup from a fall.
 Hold secures a bag on a shoulder.

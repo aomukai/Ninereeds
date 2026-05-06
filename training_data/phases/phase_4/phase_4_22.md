@@ -1,4 +1,4 @@
-[user]what happens to a squirrel?
+[user]What happens to a squirrel?
 [Ninereeds]This is a squirrel.
 The squirrel sits on a tree with a nut.
 The squirrel holds the nut on the tree.

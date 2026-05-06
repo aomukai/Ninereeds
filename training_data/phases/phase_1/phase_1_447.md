@@ -1,4 +1,4 @@
-[user]what does a feather look like?
+[user]What does a feather look like?
 [Ninereeds]This is a feather.
 A feather is light and fluffy.
 A feather has a quill.
@@ -7,7 +7,7 @@ A feather is soft and smooth.
 A feather has colors and patterns.
 A feather is light and soft.
 
-[user]where is a feather?
+[user]Where is a feather?
 [Ninereeds]This is a feather.
 A feather is on a bird.
 A feather is on the ground.
@@ -16,7 +16,7 @@ A feather is in the air.
 A feather is on a hat.
 A feather is on a bird and on the ground.
 
-[user]what does a feather do?
+[user]What does a feather do?
 [Ninereeds]This is a feather.
 A feather floats in the air.
 A feather covers a bird.
@@ -25,7 +25,7 @@ A feather falls slowly.
 A feather bends in the breeze.
 A feather floats and covers.
 
-[user]what is a feather for?
+[user]What is a feather for?
 [Ninereeds]This is a feather.
 A feather is for flight.
 A feather is for warmth.

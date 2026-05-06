@@ -1,4 +1,4 @@
-[user]what does a guitar look like?
+[user]What does a guitar look like?
 [Ninereeds]This is a guitar.
 A guitar has a long neck.
 A guitar has a round body.
@@ -7,7 +7,7 @@ A guitar is made of wood.
 A guitar has a hole in the body.
 A guitar is made of wood and has six strings.
 
-[user]where is a guitar?
+[user]Where is a guitar?
 [Ninereeds]This is a guitar.
 A guitar is in a hand.
 A guitar is on a lap.
@@ -16,7 +16,7 @@ A guitar is in a music room.
 A guitar is in a case.
 A guitar is in a hand and on a lap.
 
-[user]what does a guitar do?
+[user]What does a guitar do?
 [Ninereeds]This is a guitar.
 A guitar makes music.
 A guitar makes a sound from strings.
@@ -25,7 +25,7 @@ A guitar plays a chord.
 A guitar rings in the air.
 A guitar makes music from strings and plays a melody.
 
-[user]what is a guitar for?
+[user]What is a guitar for?
 [Ninereeds]This is a guitar.
 A guitar is for music.
 A guitar is for a song.

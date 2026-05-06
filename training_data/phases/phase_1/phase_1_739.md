@@ -1,4 +1,4 @@
-[user]what does an otter look like?
+[user]What does an otter look like?
 [Ninereeds]This is an otter.
 An otter is a small animal.
 An otter has a long body.
@@ -7,7 +7,7 @@ An otter has short legs.
 An otter has thick fur.
 An otter is small and furry.
 
-[user]where is an otter?
+[user]Where can you find an otter?
 [Ninereeds]This is an otter.
 An otter lives near water.
 An otter swims in rivers.
@@ -16,7 +16,7 @@ An otter stays in a den.
 An otter plays in streams.
 An otter is aquatic and playful.
 
-[user]what does an otter do?
+[user]What does an otter do?
 [Ninereeds]This is an otter.
 An otter swims very well.
 An otter dives for fish.
@@ -25,11 +25,11 @@ An otter slides down hills.
 An otter grooms the fur.
 An otter is agile and playful.
 
-[user]what is an otter for?
+[user]What does an otter give?
 [Ninereeds]This is an otter.
-An otter keeps fish numbers in balance.
-An otter cleans water areas.
-An otter brings joy to watchers.
+An otter gives balance to fish numbers.
+An otter gives clean water areas.
+An otter gives joy to watchers.
 An otter shows healthy river life.
 An otter teaches animal behavior.
-An otter is ecological and educational.
+An otter gives balance and clean water.

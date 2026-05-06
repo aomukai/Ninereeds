@@ -1,4 +1,4 @@
-[user]what does a plug look like?
+[user]What does a plug look like?
 [Ninereeds]This is a plug.
 A plug has prongs.
 A plug is made of plastic.
@@ -7,7 +7,7 @@ A plug is small.
 A plug fits in a wall socket.
 A plug is small plastic prongs.
 
-[user]where is a plug?
+[user]Where is a plug?
 [Ninereeds]This is a plug.
 A plug is on a wall.
 A plug is in a socket.
@@ -16,7 +16,7 @@ A plug is on a floor.
 A plug is near a table.
 A plug is on a wall in a socket.
 
-[user]what does a plug do?
+[user]What does a plug do?
 [Ninereeds]This is a plug.
 A plug connects to a socket.
 A plug carries electricity.
@@ -25,7 +25,7 @@ A plug powers a fan.
 A plug powers a phone.
 A plug carries electricity to a lamp.
 
-[user]what is a plug for?
+[user]What is a plug for?
 [Ninereeds]This is a plug.
 A plug is for power.
 A plug is for a lamp.

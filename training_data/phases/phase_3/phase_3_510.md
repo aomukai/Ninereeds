@@ -1,4 +1,4 @@
-[user]what does a stretch look like?
+[user]What does a stretch look like?
 [Ninereeds]This is a stretch.
 Stretch is long.
 Stretch has a wide shape.
@@ -7,7 +7,7 @@ Stretch appears between points.
 Stretch spans a distance.
 Stretch is long and wide.
 
-[user]where does a stretch appear?
+[user]Where does a stretch appear?
 [Ninereeds]This is a stretch.
 Stretch appears in space.
 Stretch is found in rooms.
@@ -16,7 +16,7 @@ Stretch sits on walls.
 Stretch rests on floors.
 Stretch is on walls and floors.
 
-[user]what does a stretch do?
+[user]What does a stretch do?
 [Ninereeds]This is a stretch.
 Stretch extends out.
 Stretch reaches far.
@@ -25,7 +25,7 @@ Stretch expands width.
 Stretch fills space.
 Stretch is long and wide.
 
-[user]what is a stretch for?
+[user]What is a stretch for?
 [Ninereeds]This is a stretch.
 Stretch loosens tight.
 Stretch grows muscle.

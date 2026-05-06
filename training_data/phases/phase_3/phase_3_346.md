@@ -1,35 +1,31 @@
-[user]what does fasten look like?
-[Ninereeds]This is fasten.
-Fasten is a close of a gap.
-Fasten is a join of two parts.
-Fasten is a lock of a buckle.
-Fasten is a tie of a strap.
-Fasten is a clip of a latch.
-Fasten is a lock and a tie.
+[user]What is fastening?
+[Ninereeds]Fastening is Joining parts firmly.
+[Ninereeds]Fastening is Closing a strap, button, or latch.
+[Ninereeds]Fastening is Holding pieces in place.
+[Ninereeds]Fastening is Making a tight connection.
+[Ninereeds]Fastening is Securing an object.
+[Ninereeds]Fastening is Join and security.
 
-[user]where does fasten happen?
-[Ninereeds]This is fasten.
-Fasten happens on a coat.
-Fasten happens on a bag.
-Fasten happens on a belt.
-Fasten happens on a shoe.
-Fasten happens on a gate.
-Fasten is on a coat and on a bag.
+[user]When does fastening happen?
+[Ninereeds]Fastening happens when A coat, belt, or door needs closure.
+[Ninereeds]Fastening happens when A bag or box needs a secure hold.
+[Ninereeds]Fastening happens when A clasp meets a catch.
+[Ninereeds]Fastening happens when Travel or work needs a firm hold.
+[Ninereeds]Fastening happens when A loose part needs a fixed place.
+[Ninereeds]Fastening happens when Closure and security stay in place.
 
-[user]what does fasten do?
-[Ninereeds]This is fasten.
-Fasten holds two sides together.
-Fasten keeps a flap down.
-Fasten shuts a gap closed.
-Fasten secures a loose strap.
-Fasten locks a latch in place.
-Fasten is a holder of two sides and a keeper of a flap.
+[user]What does fastening bring?
+[Ninereeds]Fastening brings A firm hold.
+[Ninereeds]Fastening brings Stable parts.
+[Ninereeds]Fastening brings Less slipping.
+[Ninereeds]Fastening brings A closed opening.
+[Ninereeds]Fastening brings Stronger support.
+[Ninereeds]Fastening brings Hold and stability.
 
-[user]what is fasten for?
-[Ninereeds]This is fasten.
-Fasten keeps a coat on a body.
-Fasten keeps a bag shut.
-Fasten keeps a belt around a waist.
-Fasten keeps a shoe on a foot.
-Fasten keeps a gate closed.
-Fasten is a keeper of a coat and a shutter of a gate.
+[user]What is fastening for?
+[Ninereeds]Fastening is for Keeping parts together.
+[Ninereeds]Fastening is for Closing an opening.
+[Ninereeds]Fastening is for Securing clothing or gear.
+[Ninereeds]Fastening is for Holding a load in place.
+[Ninereeds]Fastening is for Making a connection firm.
+[Ninereeds]Fastening is for Hold and closure.

@@ -1,4 +1,4 @@
-[user]what does a pantry look like?
+[user]What does a pantry look like?
 [Ninereeds]This is a pantry.
 A pantry has shelves.
 A pantry has food.
@@ -7,7 +7,7 @@ A pantry has cans.
 A pantry is dark.
 A pantry is a dark room with food on shelves.
 
-[user]where is a pantry?
+[user]Where is a pantry?
 [Ninereeds]This is a pantry.
 A pantry is in a kitchen.
 A pantry is near the kitchen.
@@ -16,7 +16,7 @@ A pantry is cool.
 A pantry is dry.
 A pantry is a cool dry storage place.
 
-[user]what does a pantry do?
+[user]What does a pantry do?
 [Ninereeds]This is a pantry.
 A pantry stores food.
 A pantry keeps food fresh.
@@ -25,7 +25,7 @@ A pantry hides snacks.
 A pantry is a food holder.
 A pantry stores and organizes fresh food.
 
-[user]how is a pantry used?
+[user]How is a pantry used?
 [Ninereeds]This is a pantry.
 A pantry is used for storing groceries.
 A pantry is used for finding ingredients.

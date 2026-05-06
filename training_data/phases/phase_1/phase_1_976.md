@@ -1,4 +1,4 @@
-[user]what does a smiley look like?
+[user]What does a smiley look like?
 [Ninereeds]This is a smiley.
 A smiley is round.
 A smiley is yellow.
@@ -7,7 +7,7 @@ A smiley has a mouth.
 A smiley is a face.
 A smiley is round and yellow.
 
-[user]where is a smiley found?
+[user]Where is a smiley found?
 [Ninereeds]This is a smiley.
 A smiley is on a sticker.
 A smiley is on a shirt.
@@ -16,7 +16,7 @@ A smiley is in a text.
 A smiley is on a ball.
 A smiley is on a sticker and on a screen.
 
-[user]what does a smiley do?
+[user]What does a smiley do?
 [Ninereeds]This is a smiley.
 A smiley shows a smile.
 A smiley looks happy.
@@ -25,7 +25,7 @@ A smiley shows teeth.
 A smiley is a picture.
 A smiley is smiling and happy.
 
-[user]what is a smiley for?
+[user]What is a smiley for?
 [Ninereeds]This is a smiley.
 A smiley shows happiness.
 A smiley makes people laugh.

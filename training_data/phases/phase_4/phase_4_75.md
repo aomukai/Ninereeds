@@ -1,4 +1,4 @@
-[user]how does cauliflower grow?
+[user]How does cauliflower grow?
 [Ninereeds]This is a cauliflower.
 The cauliflower has a flower and is white with a head.
 The head holds many small flower parts.

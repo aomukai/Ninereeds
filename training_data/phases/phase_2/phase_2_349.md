@@ -1,4 +1,4 @@
-[user]what does a waterfall look like?
+[user]What does a waterfall look like?
 [Ninereeds]This is a waterfall.
 A waterfall is flowing.
 A waterfall is white.
@@ -7,7 +7,7 @@ A waterfall is a river.
 A waterfall is falling.
 A waterfall is white and loud.
 
-[user]where is a waterfall?
+[user]Where does a waterfall appear?
 [Ninereeds]This is a waterfall.
 A waterfall is on a river.
 A waterfall is on a cliff.
@@ -16,7 +16,7 @@ A waterfall is in mountains.
 A waterfall is a location.
 A waterfall is on a river and on a cliff.
 
-[user]how does a waterfall behave?
+[user]What does a waterfall do?
 [Ninereeds]This is a waterfall.
 A waterfall is flowing.
 A waterfall is splashing.
@@ -25,7 +25,7 @@ A waterfall is eroding.
 A waterfall is constant.
 A waterfall is flowing and splashing.
 
-[user]what does a waterfall do?
+[user]What is a waterfall for?
 [Ninereeds]This is a waterfall.
 A waterfall is pool-forming.
 A waterfall is power-giving.

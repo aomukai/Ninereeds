@@ -1,4 +1,4 @@
-[user]what does a bunny look like?
+[user]What does a bunny look like?
 [Ninereeds]This is a bunny.
 The bunny has long ears.
 The bunny has soft fur.
@@ -7,7 +7,7 @@ The bunny has a small tail.
 The bunny has a twitchy nose.
 The bunny is long-eared and furry.
 
-[user]where can you find a bunny?
+[user]Where can you find a bunny?
 [Ninereeds]This is a bunny.
 The bunny is in the grass.
 The bunny is near a bush.
@@ -16,7 +16,7 @@ The bunny moves across the field.
 The bunny hops.
 The bunny is furry and hoppy.
 
-[user]what does a bunny do?
+[user]What does a bunny do?
 [Ninereeds]This is a bunny.
 The bunny starts still in the grass.
 The bunny pushes with the legs.
@@ -25,7 +25,7 @@ The bunny stops near a bush.
 The bunny can hop.
 The bunny is soft and quick.
 
-[user]what does a bunny give?
+[user]What does a bunny give?
 [Ninereeds]This is a bunny.
 The bunny eats grass.
 The bunny chews a leaf.

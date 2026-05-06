@@ -1,4 +1,4 @@
-[user]what does goal mean?
+[user]What does goal mean?
 [Ninereeds]This is goal.
 Goal is an aim.
 Goal is a desired outcome.
@@ -7,7 +7,7 @@ Goal is a target.
 Goal is a purpose.
 Goal is an aim or a desired outcome.
 
-[user]where does goal appear?
+[user]Where does goal appear?
 [Ninereeds]This is goal.
 Goal appears in plans.
 Goal appears in games.
@@ -16,7 +16,7 @@ Goal appears in projects.
 Goal appears in life.
 Goal is in plans, games, and aspirations.
 
-[user]what does goal do?
+[user]What does goal do?
 [Ninereeds]This is goal.
 Goal provides direction.
 Goal motivates action.
@@ -25,7 +25,7 @@ Goal focuses effort.
 Goal inspires achievement.
 Goal is providing direction and motivating action.
 
-[user]what is goal for?
+[user]What is goal for?
 [Ninereeds]This is goal.
 Goal is for achievement.
 Goal is for progress.

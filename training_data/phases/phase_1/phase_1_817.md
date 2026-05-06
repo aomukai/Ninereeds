@@ -1,4 +1,4 @@
-[user]what does a pot look like?
+[user]What does a pot look like?
 [Ninereeds]This is a pot.
 A pot is round.
 A pot is deep.
@@ -7,7 +7,7 @@ A pot has a lid.
 A pot is made of metal.
 A pot is round and deep.
 
-[user]where is a pot?
+[user]Where is a pot?
 [Ninereeds]This is a pot.
 A pot is on a stove.
 A pot is in a kitchen.
@@ -16,7 +16,7 @@ A pot is in a cabinet.
 A pot is on a table.
 A pot is on a stove and in a kitchen.
 
-[user]what does a pot do?
+[user]What does a pot do?
 [Ninereeds]This is a pot.
 A pot boils water.
 A pot cooks soup.
@@ -25,7 +25,7 @@ A pot steams vegetables.
 A pot simmers sauce.
 A pot boils water and cooks soup.
 
-[user]what is a pot for?
+[user]What is a pot for?
 [Ninereeds]This is a pot.
 A pot is for cooking.
 A pot is for soup.

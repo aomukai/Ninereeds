@@ -1,4 +1,4 @@
-[user]what does a pinky look like?
+[user]What does a pinky look like?
 [Ninereeds]This is a pinky.
 A pinky is a finger.
 A pinky is small.
@@ -7,7 +7,7 @@ A pinky is on a hand.
 A pinky is the smallest finger.
 A pinky is a small thin finger on a hand.
 
-[user]where is a pinky?
+[user]Where is a pinky?
 [Ninereeds]This is a pinky.
 A pinky is on a hand.
 A pinky is next to a ring finger.
@@ -16,7 +16,7 @@ A pinky is beside other fingers.
 A pinky is on the left hand or the right hand.
 A pinky is at the edge of a hand beside a ring finger.
 
-[user]what does a pinky do?
+[user]What does a pinky do?
 [Ninereeds]This is a pinky.
 A pinky helps hold a cup.
 A pinky helps grip a thing.
@@ -25,7 +25,7 @@ A pinky points.
 A pinky hooks with another pinky.
 A pinky helps hold a cup and grip a thing.
 
-[user]what is a pinky for?
+[user]What is a pinky for?
 [Ninereeds]This is a pinky.
 A pinky is for balance on a hand.
 A pinky is for a pinky promise.

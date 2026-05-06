@@ -1,4 +1,4 @@
-[user]what does a drum look like?
+[user]What does a drum look like?
 [Ninereeds]This is a drum.
 A drum is round.
 A drum has a skin on top.
@@ -7,7 +7,7 @@ A drum has a flat bottom.
 A drum has a round frame.
 A drum is a round hollow shape with a skin on top.
 
-[user]where is a drum?
+[user]Where is a drum?
 [Ninereeds]This is a drum.
 A drum is on a stage.
 A drum is in a band room.
@@ -16,7 +16,7 @@ A drum is in a music store.
 A drum is in a parade.
 A drum is on a stage or in a parade.
 
-[user]what does a drum do?
+[user]What does a drum do?
 [Ninereeds]This is a drum.
 A drum makes a sound.
 A drum booms when hit.
@@ -25,7 +25,7 @@ A drum vibrates the skin.
 A drum makes a beat.
 A drum booms when hit and makes a beat.
 
-[user]what is a drum for?
+[user]What is a drum for?
 [Ninereeds]This is a drum.
 A drum is for music.
 A drum is for making beats.

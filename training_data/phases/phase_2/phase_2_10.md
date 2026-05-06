@@ -1,4 +1,4 @@
-[user]what does a lobby look like?
+[user]What does a lobby look like?
 [Ninereeds]This is a lobby.
 A lobby is a large room.
 A lobby has a reception desk.
@@ -7,7 +7,7 @@ A lobby has a door.
 A lobby is often fancy.
 A lobby is a large room with a reception desk.
 
-[user]where is a lobby?
+[user]Where is a lobby?
 [Ninereeds]This is a lobby.
 A lobby is in a building.
 A lobby is near an entrance.
@@ -16,7 +16,7 @@ A lobby is in a hotel.
 A lobby is in an office building.
 A lobby is in a building near an entrance.
 
-[user]how does a lobby behave?
+[user]How does a lobby behave?
 [Ninereeds]This is a lobby.
 A lobby welcomes guests.
 A lobby guides visitors.
@@ -25,7 +25,7 @@ A lobby can be busy.
 A lobby can be quiet.
 A lobby welcomes guests and is a waiting area.
 
-[user]what does a lobby do?
+[user]What does a lobby do?
 [Ninereeds]This is a lobby.
 A lobby provides a meeting place.
 A lobby provides information.

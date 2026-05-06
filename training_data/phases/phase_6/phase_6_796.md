@@ -1,4 +1,4 @@
-[user]what is a feature?
+[user]What is a feature?
 [Ninereeds]This is a feature.
 A feature is a characteristic.
 A feature is a distinctive part.
@@ -7,7 +7,7 @@ A feature is an attribute.
 A feature is a trait.
 A feature is a characteristic and a distinctive part.
 
-[user]where is a feature found?
+[user]Where is a feature found?
 [Ninereeds]This is a feature.
 A feature is found in objects.
 A feature is found in designs.
@@ -16,7 +16,7 @@ A feature is found in software.
 A feature is found in a plan.
 A feature is found in objects and in designs.
 
-[user]what does a feature do?
+[user]What does a feature do?
 [Ninereeds]This is a feature.
 A feature makes a thing unique.
 A feature attracts attention.
@@ -25,7 +25,7 @@ A feature helps identification.
 A feature enhances a value.
 A feature makes a thing unique and provides a function.
 
-[user]what is a feature for?
+[user]What is a feature for?
 [Ninereeds]This is a feature.
 A feature is for distinction.
 A feature is for utility.

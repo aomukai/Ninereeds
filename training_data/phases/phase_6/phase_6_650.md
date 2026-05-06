@@ -1,4 +1,4 @@
-[user]what is a report?
+[user]What is a report?
 [Ninereeds]This is a report.
 A report is a story.
 A report is a paper.
@@ -7,7 +7,7 @@ A report gives facts.
 A report tells about a thing.
 A report is a story that gives facts.
 
-[user]where does a report appear?
+[user]Where does a report appear?
 [Ninereeds]This is a report.
 A report is in a book.
 A report is in a news.
@@ -16,7 +16,7 @@ A report is in a talk.
 A report is in a paper.
 A report is in a book or in a news.
 
-[user]what does a report do?
+[user]What does a report do?
 [Ninereeds]This is a report.
 A report tells information.
 A report shares facts.
@@ -25,7 +25,7 @@ A report helps people learn.
 A report gives news.
 A report tells information and gives news.
 
-[user]what is a report for?
+[user]What is a report for?
 [Ninereeds]This is a report.
 A report is for telling.
 A report is for sharing.

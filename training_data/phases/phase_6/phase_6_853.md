@@ -1,4 +1,4 @@
-[user]what is genre?
+[user]What is genre?
 [Ninereeds]This is genre.
 Genre is a category.
 Genre is a kind of art.
@@ -7,7 +7,7 @@ Genre is a class of literature.
 Genre is a style.
 Genre is a category or a kind of art.
 
-[user]where is genre found?
+[user]Where is genre found?
 [Ninereeds]This is genre.
 Genre is found in books.
 Genre is found in movies.
@@ -16,7 +16,7 @@ Genre is found in art.
 Genre is found in games.
 Genre is found in books and in movies.
 
-[user]what does genre do?
+[user]What does genre do?
 [Ninereeds]This is genre.
 Genre organizes art.
 Genre guides creation.
@@ -25,7 +25,7 @@ Genre helps discovery.
 Genre defines a style.
 Genre organizes art and guides creation.
 
-[user]what is genre for?
+[user]What is genre for?
 [Ninereeds]This is genre.
 Genre is for classification.
 Genre is for understanding.

@@ -1,4 +1,4 @@
-[user]what does skin look like?
+[user]What does skin look like?
 [Ninereeds]This is skin.
 Skin is soft.
 Skin covers the body.
@@ -7,7 +7,7 @@ Skin can stretch.
 The skin is an outer layer.
 Skin is soft and stretchy.
 
-[user]where is skin?
+[user]Where can you find skin?
 [Ninereeds]This is skin.
 Skin is on the body.
 Skin is over muscles.
@@ -16,7 +16,7 @@ Skin covers all parts.
 Skin is the outer body covering that wraps the body.
 Skin is over muscles and over bones.
 
-[user]what does skin do?
+[user]What does skin do?
 [Ninereeds]This is skin.
 Skin starts dry.
 Skin gets wet.
@@ -25,7 +25,7 @@ The skin covers the body.
 Skin can heal.
 Skin is covering and healing.
 
-[user]what does skin give?
+[user]What does skin give?
 [Ninereeds]This is skin.
 Skin protects the body.
 Skin feels touch.

@@ -1,4 +1,4 @@
-[user]what does difference mean?
+[user]What does difference mean?
 [Ninereeds]This is a difference.
 Difference is not the same.
 Difference is what sets things apart.
@@ -7,7 +7,7 @@ Difference is a distinction.
 Difference is how one thing is unlike another.
 Difference is a unique quality or distinction.
 
-[user]where does difference appear?
+[user]Where does difference appear?
 [Ninereeds]This is a difference.
 Difference appears in colors.
 Difference appears in shapes.
@@ -16,7 +16,7 @@ Difference appears in ideas.
 Difference appears in feelings.
 Difference is what makes things unique.
 
-[user]what does difference do?
+[user]What does difference do?
 [Ninereeds]This is a difference.
 Difference makes things separate.
 Difference makes things distinct.
@@ -25,7 +25,7 @@ Difference helps to identify.
 Difference helps to compare.
 Difference makes things distinct and identifiable.
 
-[user]what is difference for?
+[user]What is difference for?
 [Ninereeds]This is a difference.
 Difference is for understanding.
 Difference is for making choices.

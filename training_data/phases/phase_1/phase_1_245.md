@@ -1,4 +1,4 @@
-[user]what does a bolt look like?
+[user]What does a bolt look like?
 [Ninereeds]This is a bolt.
 A bolt is a metal piece.
 A bolt is long.
@@ -7,7 +7,7 @@ A bolt is a threaded piece.
 A bolt is a fastener.
 A bolt is a long thin metal fastener.
 
-[user]where is a bolt?
+[user]Where is a bolt?
 [Ninereeds]This is a bolt.
 A bolt is in a tool box.
 A bolt is on a shelf.
@@ -16,7 +16,7 @@ A bolt is in a wall.
 A bolt is in a drawer.
 A bolt is in a tool box in a drawer.
 
-[user]what does a bolt do?
+[user]What does a bolt do?
 [Ninereeds]This is a bolt.
 A bolt holds things together.
 A bolt joins two parts.
@@ -25,7 +25,7 @@ A bolt screws into a nut.
 A bolt is a joining piece.
 A bolt holds two parts together.
 
-[user]what is a bolt for?
+[user]What is a bolt for?
 [Ninereeds]This is a bolt.
 A bolt is for fastening.
 A bolt is for joining.

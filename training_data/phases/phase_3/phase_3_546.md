@@ -1,4 +1,4 @@
-[user]what does a tip look like?
+[user]What does a tip look like?
 [Ninereeds]This is a tip.
 A tip is pointed.
 A tip is small.
@@ -7,25 +7,25 @@ A tip is sharp.
 A tip is narrow.
 A tip is small and pointed.
 
-[user]where is a tip?
+[user]Where does a tip appear?
 [Ninereeds]This is a tip.
 A tip is on a pencil.
 A tip is on a knife.
 A tip is on a needle.
 A tip is on a finger.
 A tip is on a stick.
-A tip is on a pencil and knife.
+A tip is on a pencil and a knife.
 
-[user]what does a tip do?
+[user]What does a tip do?
 [Ninereeds]This is a tip.
 A tip draws lines.
 A tip pokes holes.
 A tip points at things.
 A tip touches first.
-A tip enters small space.
+A tip enters small spaces.
 A tip draws lines and pokes holes.
 
-[user]what is a tip for?
+[user]What is a tip for?
 [Ninereeds]This is a tip.
 A tip is for writing.
 A tip is for cutting.

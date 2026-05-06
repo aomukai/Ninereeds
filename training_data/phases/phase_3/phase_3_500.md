@@ -1,4 +1,4 @@
-[user]what does snuggle look like?
+[user]What does snuggle look like?
 [Ninereeds]This is snuggle.
 Snuggle is a close hug.
 Snuggle is a warm press.
@@ -7,7 +7,7 @@ Snuggle is a soft hold.
 Snuggle is a tuck of the body.
 Snuggle is close and warm.
 
-[user]where is snuggle?
+[user]Where is snuggle?
 [Ninereeds]This is snuggle.
 Snuggle is in a bed.
 Snuggle is on a couch.
@@ -16,7 +16,7 @@ Snuggle is on a lap.
 Snuggle is in a hug.
 Snuggle is in a blanket and on a lap.
 
-[user]what does snuggle do?
+[user]What does snuggle do?
 [Ninereeds]This is snuggle.
 Snuggle holds a body close.
 Snuggle wraps arms around a form.
@@ -25,7 +25,7 @@ Snuggle shares warmth between two.
 Snuggle tucks a chin into a neck.
 Snuggle is a hold and a tuck.
 
-[user]what is snuggle for?
+[user]What is snuggle for?
 [Ninereeds]This is snuggle.
 Snuggle is for comfort.
 Snuggle is for warmth.

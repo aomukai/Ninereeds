@@ -1,4 +1,4 @@
-[user]what is an onion used for?
+[user]What is an onion used for?
 [Ninereeds]This is an onion.
 The onion grows in the ground and is white.
 The onion has a layer around the white inside.

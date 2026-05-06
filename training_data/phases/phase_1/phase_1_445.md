@@ -1,4 +1,4 @@
-[user]what does fat look like?
+[user]What does fat look like?
 [Ninereeds]This is fat.
 Fat is white and soft and greasy.
 Fat is a solid layer on meat.
@@ -7,7 +7,7 @@ Fat is on a piece of bacon.
 Fat is a creamy white substance.
 Fat is white and greasy.
 
-[user]where is fat?
+[user]Where is fat?
 [Ninereeds]This is fat.
 Fat is on meat and under skin.
 Fat is around organs in a body.
@@ -16,7 +16,7 @@ Fat is on a plate and in a pan.
 Fat is on a piece of bacon.
 Fat is on meat and around organs.
 
-[user]what does fat do?
+[user]What does fat do?
 [Ninereeds]This is fat.
 Fat holds heat and stores energy.
 Fat cushions bones and protects organs.
@@ -25,7 +25,7 @@ Fat keeps a body warm and safe.
 Fat insulates and pads a body.
 Fat holds heat and cushions bones.
 
-[user]what is fat for?
+[user]What is fat for?
 [Ninereeds]This is fat.
 Fat is for cooking and frying.
 Fat is for energy and heat.

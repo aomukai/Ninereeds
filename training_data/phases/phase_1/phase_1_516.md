@@ -1,4 +1,4 @@
-[user]what does a giraffe look like?
+[user]What does a giraffe look like?
 [Ninereeds]This is a giraffe.
 A giraffe is tall.
 A giraffe has a long neck.
@@ -7,7 +7,7 @@ A giraffe has spots on the body.
 A giraffe has small horns on the head.
 A giraffe is tall and spotted.
 
-[user]where is a giraffe?
+[user]Where is a giraffe?
 [Ninereeds]This is a giraffe.
 A giraffe is in a savanna.
 A giraffe is in a zoo.
@@ -16,7 +16,7 @@ A giraffe is near a tree.
 A giraffe is in a herd.
 A giraffe is in a savanna and in a zoo.
 
-[user]what does a giraffe do?
+[user]What does a giraffe do?
 [Ninereeds]This is a giraffe.
 A giraffe eats leaves from a tree.
 A giraffe walks on the ground.
@@ -25,7 +25,7 @@ A giraffe looks over tall trees.
 A giraffe drinks from a pond.
 A giraffe is a leaf-eater and a walker.
 
-[user]what is a giraffe for?
+[user]What is a giraffe for?
 [Ninereeds]This is a giraffe.
 A giraffe is for a zoo.
 A giraffe is for a story.

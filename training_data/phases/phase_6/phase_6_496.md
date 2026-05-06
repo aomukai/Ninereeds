@@ -1,35 +1,31 @@
-[user]what does depend mean?
-[Ninereeds]This is depend.
-Depend is to rely on.
-Depend is to be contingent.
-Depend is to be determined by.
-Depend is to trust.
-Depend is to be conditioned by.
-Depend is to rely on or be contingent.
+[user]What is depending?
+[Ninereeds]Depending is needing support or help.
+Depending is relying on another person or system.
+Depending is trusting a source to supply what is needed.
+Depending is forming a connection between a need and a provider.
+Depending is accepting that some things come from outside.
+Depending is support and need.
 
-[user]where does depend appear?
-[Ninereeds]This is depend.
-Depend appears in relationships.
-Depend appears in in systems.
-Depend appears in conditions.
-Depend appears in plans.
-Depend appears in outcomes.
-Depend is in relationships and systems.
+[user]When does depending happen?
+[Ninereeds]Depending happens when plans, teams, weather, and resources shape a need.
+Depending happens when a gap in one part requires filling from another.
+Depending happens wherever strength is shared across separate systems.
+Depending happens in moments when self-sufficiency reaches a limit.
+Depending happens as links form between what gives and what receives.
+Depending happens with support and need.
 
-[user]what does depend do?
-[Ninereeds]This is depend.
-Depend creates connections.
-Depend establishes links.
-Depend influences results.
-Depend shapes possibilities.
-Depend reveals reliance.
-Depend creates connections and influences results.
+[user]What does depending bring?
+[Ninereeds]Depending brings support and stability.
+Depending brings a web of mutual reliance and care.
+Depending brings the recognition that no single part stands alone.
+Depending brings order through the distribution of burdens.
+Depending brings the quiet strength of shared responsibility.
+Depending brings support and need.
 
-[user]what is depend for?
-[Ninereeds]This is depend.
-Depend is for understanding connections.
-Depend is for assessing risks.
-Depend is for making plans.
-Depend is for building systems.
-Depend is for recognizing interdependencies.
-Depend is for understanding and planning.
+[user]What is depending for?
+[Ninereeds]Depending is for relying on a needed source.
+Depending is for letting a weak point find reinforcement.
+Depending is for building structures where parts hold each other.
+Depending is for turning isolation into connection.
+Depending is for acknowledging the limits of solitary effort.
+Depending is for support and need.

@@ -1,4 +1,4 @@
-[user]where does spinach go?
+[user]Where does spinach go?
 [Ninereeds]This is spinach.
 The spinach has a leaf and is green.
 The leaf grows on the spinach plant.

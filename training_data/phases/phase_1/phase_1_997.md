@@ -1,4 +1,4 @@
-[user]what does spaghetti look like?
+[user]What does spaghetti look like?
 [Ninereeds]This is spaghetti.
 Spaghetti is long.
 Spaghetti is thin.
@@ -7,7 +7,7 @@ Spaghetti is yellow.
 Spaghetti is in a pile.
 Spaghetti is long and thin.
 
-[user]where is spaghetti found?
+[user]Where is spaghetti found?
 [Ninereeds]This is spaghetti.
 Spaghetti is in a pot.
 Spaghetti is on a plate.
@@ -16,7 +16,7 @@ Spaghetti is in a bowl.
 Spaghetti is on a fork.
 Spaghetti is on a plate and in a pot.
 
-[user]what does spaghetti do?
+[user]What does spaghetti do?
 [Ninereeds]This is spaghetti.
 Spaghetti hangs on a fork.
 Spaghetti slides off a plate.
@@ -25,7 +25,7 @@ Spaghetti sticks together.
 Spaghetti is messy.
 Spaghetti hangs on a fork and soaks up sauce.
 
-[user]what is spaghetti for?
+[user]What is spaghetti for?
 [Ninereeds]This is spaghetti.
 Spaghetti is for a meal.
 Spaghetti is for dinner.

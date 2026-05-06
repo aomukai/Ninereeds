@@ -1,4 +1,4 @@
-[user]what does mostly mean?
+[user]What does mostly mean?
 [Ninereeds]This is mostly.
 Mostly is typical.
 Mostly is general.
@@ -7,7 +7,7 @@ Mostly is main.
 Mostly is usual.
 Mostly is general and typical.
 
-[user]where does mostly appear?
+[user]Where does mostly appear?
 [Ninereeds]This is mostly.
 Mostly is common in descriptions.
 Mostly is frequent in comparisons.
@@ -16,7 +16,7 @@ Mostly is usual in summaries.
 Mostly is typical in statements.
 Mostly is common and prevalent.
 
-[user]what does mostly do?
+[user]What does mostly do?
 [Ninereeds]This is mostly.
 Mostly is descriptive.
 Mostly is indicative.
@@ -25,7 +25,7 @@ Mostly is summarizing.
 Mostly is simplifying.
 Mostly is descriptive and simplifying.
 
-[user]what is mostly for?
+[user]What is mostly for?
 [Ninereeds]This is mostly.
 Mostly is for generalization.
 Mostly is for description.

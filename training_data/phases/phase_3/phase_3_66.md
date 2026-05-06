@@ -1,4 +1,4 @@
-[user]what does invention mean?
+[user]What does invention mean?
 [Ninereeds]This is an invention.
 Invention is a new device.
 Invention is a new process.
@@ -7,7 +7,7 @@ Invention is a creation.
 Invention is something made first.
 Invention is a new device or creation.
 
-[user]where does invention appear?
+[user]Where does invention appear?
 [Ninereeds]This is an invention.
 Invention appears in labs.
 Invention appears in minds.
@@ -16,7 +16,7 @@ Invention appears in history.
 Invention appears in museums.
 Invention is in labs and patents.
 
-[user]what does invention do?
+[user]What does invention do?
 [Ninereeds]This is an invention.
 Invention solves problems.
 Invention improves life.
@@ -25,7 +25,7 @@ Invention creates new possibilities.
 Invention saves time.
 Invention solves problems and improves life.
 
-[user]what is invention for?
+[user]What is invention for?
 [Ninereeds]This is an invention.
 Invention is for progress.
 Invention is for innovation.

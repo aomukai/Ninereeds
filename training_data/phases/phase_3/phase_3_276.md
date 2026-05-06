@@ -1,4 +1,4 @@
-[user]what does burrow look like?
+[user]What does burrow look like?
 [Ninereeds]This is burrow.
 Burrow is a hole in the ground.
 Burrow is a tunnel under the earth.
@@ -7,7 +7,7 @@ Burrow is a dug passage.
 Burrow is a hollow space.
 Burrow is a hole dug in the ground.
 
-[user]where does burrow appear?
+[user]Where does burrow appear?
 [Ninereeds]This is burrow.
 Burrow appears under the ground.
 Burrow appears in the dirt.
@@ -16,7 +16,7 @@ Burrow appears in the forest.
 Burrow appears in the field.
 Burrow is a tunnel below the surface.
 
-[user]what does burrow do?
+[user]What does burrow do?
 [Ninereeds]This is burrow.
 Burrow hides animals.
 Burrow keeps animals safe.
@@ -25,7 +25,7 @@ Burrow shelters from weather.
 Burrow holds baby animals.
 Burrow is a safe home under ground.
 
-[user]what is burrow for?
+[user]What is burrow for?
 [Ninereeds]This is burrow.
 Burrow is for sleeping.
 Burrow is for hiding.

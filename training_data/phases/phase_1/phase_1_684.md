@@ -1,4 +1,4 @@
-[user]what does mud look like?
+[user]What does mud look like?
 [Ninereeds]This is mud.
 Mud is wet dirt.
 Mud is brown.
@@ -7,7 +7,7 @@ Mud has a flat wet surface.
 Mud is a mix of dirt and water.
 Mud is a soft brown mix of wet dirt and water.
 
-[user]where is mud?
+[user]Where is mud?
 [Ninereeds]This is mud.
 Mud is on the ground after rain.
 Mud is in a puddle.
@@ -16,7 +16,7 @@ Mud is on a path in a forest.
 Mud is at the edge of a pond.
 Mud is on the ground in puddles swamps and on paths.
 
-[user]what does mud do?
+[user]What does mud do?
 [Ninereeds]This is mud.
 Mud sticks to shoes and feet.
 Mud makes the ground slippery.
@@ -25,7 +25,7 @@ Mud holds water in the ground.
 Mud dries into hard dirt.
 Mud sticks to shoes makes the ground slippery and fills holes.
 
-[user]what is mud for?
+[user]What is mud for?
 [Ninereeds]This is mud.
 Mud is a home for worms.
 Mud helps plants grow.

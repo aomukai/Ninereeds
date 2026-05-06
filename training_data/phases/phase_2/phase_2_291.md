@@ -1,4 +1,4 @@
-[user]what does an officer look like?
+[user]What does an officer look like?
 [Ninereeds]This is an officer.
 An officer is uniformed.
 An officer is hatted.
@@ -7,7 +7,7 @@ An officer is strong.
 An officer is alert.
 An officer is uniformed and alert.
 
-[user]where is an officer?
+[user]Where does an officer appear?
 [Ninereeds]This is an officer.
 An officer is on the street.
 An officer is in a patrol car.
@@ -16,7 +16,7 @@ An officer is where help is needed.
 An officer is watchful.
 An officer is on the street and watchful.
 
-[user]what does an officer do?
+[user]What does an officer do?
 [Ninereeds]This is an officer.
 An officer is protective.
 An officer is helpful.
@@ -25,7 +25,7 @@ An officer is attentive.
 An officer is vigilant.
 An officer is helpful and protective.
 
-[user]what is an officer for?
+[user]What is an officer for?
 [Ninereeds]This is an officer.
 An officer is orderly.
 An officer is lawful.

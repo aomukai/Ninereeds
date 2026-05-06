@@ -1,4 +1,4 @@
-[user]what does action mean?
+[user]What does action mean?
 [Ninereeds]This is an action.
 Action is a thing done.
 Action is a deed.
@@ -7,7 +7,7 @@ Action is a step taken.
 Action is an activity.
 Action is a thing done or a deed.
 
-[user]where does action appear?
+[user]Where does action appear?
 [Ninereeds]This is an action.
 Action appears in people.
 Action appears in stories.
@@ -16,7 +16,7 @@ Action appears in plans.
 Action appears in movies.
 Action is in people and stories.
 
-[user]what does action do?
+[user]What does action do?
 [Ninereeds]This is an action.
 Action causes change.
 Action produces results.
@@ -25,7 +25,7 @@ Action makes things happen.
 Action expresses will.
 Action causes change and produces results.
 
-[user]what is action for?
+[user]What is action for?
 [Ninereeds]This is an action.
 Action is for achieving goals.
 Action is for expressing self.

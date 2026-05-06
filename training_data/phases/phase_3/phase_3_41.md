@@ -1,4 +1,4 @@
-[user]what does expansion look like?
+[user]What does expansion look like?
 [Ninereeds]This is expansion.
 Expansion gets bigger.
 Expansion spreads out.
@@ -7,7 +7,7 @@ Expansion grows in size.
 Expansion covers more space.
 Expansion gets bigger and spreads out.
 
-[user]where does expansion appear?
+[user]Where does expansion appear?
 [Ninereeds]This is expansion.
 Expansion appears in a balloon.
 Expansion appears in gas.
@@ -16,7 +16,7 @@ Expansion appears in a business.
 Expansion appears in a story.
 Expansion appears in a balloon or gas.
 
-[user]what does expansion do?
+[user]What does expansion do?
 [Ninereeds]This is expansion.
 Expansion increases volume.
 Expansion increases area.
@@ -25,7 +25,7 @@ Expansion increases reach.
 Expansion increases presence.
 Expansion increases volume and area.
 
-[user]what is expansion for?
+[user]What is expansion for?
 [Ninereeds]This is expansion.
 Expansion is for growth.
 Expansion is for development.

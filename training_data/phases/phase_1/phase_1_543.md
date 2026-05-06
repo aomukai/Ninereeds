@@ -1,4 +1,4 @@
-[user]what does hail look like?
+[user]What does hail look like?
 [Ninereeds]This is hail.
 Hail is ice from the sky.
 Hail is a round ball of ice.
@@ -7,7 +7,7 @@ Hail is cold and hard.
 Hail falls in a storm.
 Hail is a cold hard ball of ice from the sky.
 
-[user]where is hail?
+[user]Where is hail?
 [Ninereeds]This is hail.
 Hail is in the clouds.
 Hail is above the ground.
@@ -16,7 +16,7 @@ Hail is in a field.
 Hail is on a roof.
 Hail is in the clouds above the ground.
 
-[user]what does hail do?
+[user]What does hail do?
 [Ninereeds]This is hail.
 Hail falls from the sky.
 Hail hits the ground.
@@ -25,7 +25,7 @@ Hail melts on a road.
 Hail piles up in a field.
 Hail falls from the sky and hits the ground.
 
-[user]what is hail for?
+[user]What is hail for?
 [Ninereeds]This is hail.
 Hail is for a storm.
 Hail is for cold weather.

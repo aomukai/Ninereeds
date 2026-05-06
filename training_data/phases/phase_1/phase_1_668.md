@@ -1,4 +1,4 @@
-[user]what does mist look like?
+[user]What does mist look like?
 [Ninereeds]This is mist.
 Mist is a cloud.
 Mist is low to the ground.
@@ -7,7 +7,7 @@ Mist is made of tiny water drops.
 Mist is a low cloud of tiny water drops.
 Mist is a cloud and low to the ground.
 
-[user]where is mist?
+[user]Where is mist?
 [Ninereeds]This is mist.
 Mist is over a field.
 Mist is near a river.
@@ -16,7 +16,7 @@ Mist is in the morning.
 Mist sits low over a field in the morning.
 Mist is over a field and near a river.
 
-[user]what does mist do?
+[user]What does mist do?
 [Ninereeds]This is mist.
 Mist covers the ground.
 Mist hides the path.
@@ -25,7 +25,7 @@ Mist drifts with the wind.
 Mist is a cloud that covers the ground and drifts with the wind.
 Mist is a ground cover and a path hider.
 
-[user]what is mist for?
+[user]What is mist for?
 [Ninereeds]This is mist.
 Mist gives water to plants.
 Mist cools the air.

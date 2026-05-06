@@ -1,4 +1,4 @@
-[user]what does glass look like?
+[user]What does glass look like?
 [Ninereeds]This is glass.
 Glass is clear.
 Glass is smooth.
@@ -7,7 +7,7 @@ Glass shines in the light.
 Glass is thin on the edge.
 Glass is a clear smooth hard sheet.
 
-[user]where is glass?
+[user]Where is glass?
 [Ninereeds]This is glass.
 Glass is in a window.
 Glass is in a door.
@@ -16,7 +16,7 @@ Glass is in a cup.
 Glass is in a frame.
 Glass is in a window and in a door and in a cup.
 
-[user]what does glass do?
+[user]What does glass do?
 [Ninereeds]This is glass.
 Glass lets light pass through.
 Glass stops the wind.
@@ -25,7 +25,7 @@ Glass keeps the cold outside.
 Glass stays clear for a long time.
 Glass lets light pass through and stops the wind.
 
-[user]what is glass for?
+[user]What is glass for?
 [Ninereeds]This is glass.
 Glass is for a window.
 Glass is for a mirror.

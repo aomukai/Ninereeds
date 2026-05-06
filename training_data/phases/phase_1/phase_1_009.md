@@ -1,4 +1,4 @@
-[user]what is a stone?
+[user]What does a stone look like?
 [Ninereeds]This is a stone.
 The stone is hard.
 The stone is solid.
@@ -7,7 +7,7 @@ The stone has a rough surface.
 The stone is a piece of rock.
 The stone is hard and solid.
 
-[user]where is a stone?
+[user]Where can you find a stone?
 [Ninereeds]This is a stone.
 The stone is on the ground.
 The stone is by the road.
@@ -16,7 +16,7 @@ The stone is under the tree.
 The stone is in the soil.
 The stone is on the ground and by the road.
 
-[user]what does a stone do?
+[user]What does a stone do?
 [Ninereeds]This is a stone.
 The stone is dense.
 The stone is brittle.
@@ -25,7 +25,7 @@ The stone is inert.
 The stone is heavy.
 The stone is heavy and dense.
 
-[user]what is a stone for?
+[user]What does a stone give?
 [Ninereeds]This is a stone.
 The stone is heavy.
 The stone is flat.

@@ -1,4 +1,4 @@
-[user]what does cardboard look like?
+[user]What does cardboard look like?
 [Ninereeds]This is cardboard.
 Cardboard is thick.
 Cardboard is brown.
@@ -7,7 +7,7 @@ Cardboard is flat.
 Cardboard comes in sheets.
 Cardboard is a thick brown stiff sheet.
 
-[user]where is cardboard?
+[user]Where is cardboard?
 [Ninereeds]This is cardboard.
 Cardboard is in a box.
 Cardboard is in a store.
@@ -16,7 +16,7 @@ Cardboard is on a truck.
 Cardboard is in a recycling bin.
 Cardboard is in a box in a store.
 
-[user]what does cardboard do?
+[user]What does cardboard do?
 [Ninereeds]This is cardboard.
 Cardboard makes boxes.
 Cardboard holds objects.
@@ -25,7 +25,7 @@ Cardboard keeps things safe.
 Cardboard folds into shapes.
 Cardboard makes boxes that hold objects.
 
-[user]what is cardboard for?
+[user]What is cardboard for?
 [Ninereeds]This is cardboard.
 Cardboard is for boxes.
 Cardboard is for shipping.

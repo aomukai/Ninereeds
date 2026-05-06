@@ -1,4 +1,4 @@
-[user]what does a bulb look like?
+[user]What does a bulb look like?
 [Ninereeds]This is a bulb.
 A bulb is round.
 A bulb is glass.
@@ -7,7 +7,7 @@ A bulb has a metal base.
 A bulb fits in a socket.
 A bulb is a round glass object with a metal base.
 
-[user]where is a bulb?
+[user]Where is a bulb?
 [Ninereeds]This is a bulb.
 A bulb is in a lamp.
 A bulb is in a ceiling light.
@@ -16,7 +16,7 @@ A bulb is on a table.
 A bulb is above a room.
 A bulb is in a lamp on a table.
 
-[user]what does a bulb do?
+[user]What does a bulb do?
 [Ninereeds]This is a bulb.
 A bulb makes light.
 A bulb glows when on.
@@ -25,7 +25,7 @@ A bulb lights a room.
 A bulb shines in the dark.
 A bulb makes light and shines in the dark.
 
-[user]what is a bulb for?
+[user]What is a bulb for?
 [Ninereeds]This is a bulb.
 A bulb is for light.
 A bulb is for seeing in the dark.

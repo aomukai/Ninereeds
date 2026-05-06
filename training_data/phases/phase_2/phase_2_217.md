@@ -1,4 +1,4 @@
-[user]what does a crosswalk look like?
+[user]What does a crosswalk look like?
 [Ninereeds]This is a crosswalk.
 A crosswalk has white lines.
 A crosswalk is on the road.
@@ -7,7 +7,7 @@ A crosswalk has a sign.
 A crosswalk has a traffic light.
 A crosswalk is on the road with white lines.
 
-[user]where is a crosswalk?
+[user]Where is a crosswalk?
 [Ninereeds]This is a crosswalk.
 A crosswalk is at an intersection.
 A crosswalk is near a school.
@@ -16,7 +16,7 @@ A crosswalk is on a street.
 A crosswalk is across a road.
 A crosswalk is on a street in a city.
 
-[user]what does a crosswalk do?
+[user]What does a crosswalk do?
 [Ninereeds]This is a crosswalk.
 A crosswalk helps people cross.
 A crosswalk stops cars.
@@ -25,7 +25,7 @@ A crosswalk keeps people safe.
 A crosswalk organizes traffic.
 A crosswalk helps people cross safely.
 
-[user]what is a crosswalk for?
+[user]What is a crosswalk for?
 [Ninereeds]This is a crosswalk.
 A crosswalk is for pedestrians.
 A crosswalk is for safety.

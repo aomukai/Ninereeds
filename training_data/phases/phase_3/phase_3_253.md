@@ -1,35 +1,31 @@
-[user]what does impair look like?
-[Ninereeds]This is impair.
-Impair is making something weaker.
-Impair is making something less good.
-Impair is causing damage.
-Impair is making a function worse.
-Impair is a way to make something less effective.
-Impair is to weaken or damage something.
+[user]What is impairing?
+[Ninereeds]Impairing is weakening a skill, body, and system.
+Impairing is reducing strength and clarity.
+Impairing is making a task harder.
+Impairing is causing loss of function.
+Impairing is creating damage that limits use.
+Impairing is weaker function and harder work.
 
-[user]where does impair appear?
-[Ninereeds]This is impair.
-Impair appears in health.
-Impair appears in actions.
-Impair appears in systems.
-Impair appears in processes.
-Impair is seen in damaging effects.
-Impair is found in areas of function.
+[user]When does impairing happen?
+[Ninereeds]Impairing happens when injury and damage affect a body or tool.
+Impairing happens when stress lowers skill and focus.
+Impairing happens in illness, noise, and bad conditions.
+Impairing happens when a system loses strength.
+Impairing happens when a limit slows a task.
+Impairing happens damage and lost strength.
 
-[user]what does impair do?
-[Ninereeds]This is impair.
-Impair reduces strength.
-Impair lowers quality.
-Impair stops proper working.
-Impair hurts ability.
-Impair makes things not work well.
-Impair is an action that makes something worse.
+[user]What does impairing bring?
+[Ninereeds]Impairing brings weakness.
+Impairing brings delay.
+Impairing brings reduced control.
+Impairing brings less clear action.
+Impairing brings lower ability.
+Impairing brings weakness and delay.
 
-[user]what is impair for?
-[Ninereeds]This is impair.
-Impair is for showing damage.
-Impair is for describing weakness.
-Impair is for understanding loss of function.
-Impair is for noting a decrease.
-Impair is used to show a worsening state.
-Impair is for describing harm or damage.
+[user]What is impairing for?
+[Ninereeds]Impairing is for showing harm.
+Impairing is for lowering strength.
+Impairing is for making trouble clear.
+Impairing is for warning about damage.
+Impairing is for describing a loss of function.
+Impairing is for harm and loss.

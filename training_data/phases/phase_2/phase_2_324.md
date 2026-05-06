@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN has a smooth surface.
 UNKNOWN is rectangular in shape.
@@ -7,7 +7,7 @@ UNKNOWN has a small size.
 UNKNOWN has a subtle texture.
 UNKNOWN is compact and durable.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN sits on a shelf.
 UNKNOWN rests inside a box.
@@ -16,7 +16,7 @@ UNKNOWN is stored in a drawer.
 UNKNOWN is placed on a table.
 UNKNOWN is on a shelf and in a box.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN processes data quickly.
 UNKNOWN transmits signals wirelessly.
@@ -25,7 +25,7 @@ UNKNOWN records information reliably.
 UNKNOWN executes tasks automatically.
 UNKNOWN processes data and transmits signals.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for communication tasks.
 UNKNOWN serves as a tool.

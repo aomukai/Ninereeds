@@ -1,4 +1,4 @@
-[user]what does match look like?
+[user]What does match look like?
 [Ninereeds]This is match.
 Match is a pair of same things.
 Match is a set of two alike things.
@@ -7,7 +7,7 @@ Match is a cup that goes with a plate.
 Match is a shirt and pants that go together.
 Match is two things that look the same.
 
-[user]where is match?
+[user]Where is match?
 [Ninereeds]This is match.
 Match is in a pair.
 Match is on a shelf with a twin.
@@ -16,7 +16,7 @@ Match is next to a same thing.
 Match is with a like thing.
 Match is in a pair on a shelf.
 
-[user]what does match do?
+[user]What does match do?
 [Ninereeds]This is match.
 Match fits with another.
 Match goes with a twin.
@@ -25,7 +25,7 @@ Match makes a set complete.
 Match brings like things together.
 Match pairs two things that go together.
 
-[user]how is match used?
+[user]How is match used?
 [Ninereeds]This is match.
 Match is used to pair socks.
 Match is used to find a twin.

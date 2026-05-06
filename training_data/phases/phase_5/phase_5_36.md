@@ -1,4 +1,4 @@
-[user]how does a sleepy bird rest?
+[user]How does a sleepy bird rest?
 [Ninereeds]This is a sleepy bird.
 The bird flies in the air.
 The bird flies to the small nest.

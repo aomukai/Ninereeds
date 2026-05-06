@@ -1,4 +1,4 @@
-[user]what does update mean?
+[user]What does update mean?
 [Ninereeds]This is update.
 Update is to make current.
 Update is to bring up to date.
@@ -7,7 +7,7 @@ Update is to modify.
 Update is to add new information.
 Update is to make current or improve.
 
-[user]where does update appear?
+[user]Where does update appear?
 [Ninereeds]This is update.
 Update appears in software.
 Update appears in news.
@@ -16,7 +16,7 @@ Update appears in plans.
 Update appears in information.
 Update is in software and news.
 
-[user]what does update do?
+[user]What does update do?
 [Ninereeds]This is update.
 Update keeps things fresh.
 Update corrects errors.
@@ -25,7 +25,7 @@ Update improves performance.
 Update maintains relevance.
 Update keeps things fresh and corrects errors.
 
-[user]what is update for?
+[user]What is update for?
 [Ninereeds]This is update.
 Update is for improvement.
 Update is for accuracy.

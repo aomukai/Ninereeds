@@ -1,4 +1,4 @@
-[user]what does a flood look like?
+[user]What does a flood look like?
 [Ninereeds]This is a flood.
 A flood is a lot of water.
 A flood covers the ground.
@@ -7,7 +7,7 @@ A flood rises up high.
 A flood spills over a bank.
 A flood is a lot of water on the ground.
 
-[user]where does a flood happen?
+[user]Where does a flood happen?
 [Ninereeds]This is a flood.
 A flood happens in a valley.
 A flood happens near a river.
@@ -16,7 +16,7 @@ A flood happens in a town.
 A flood happens after rain.
 A flood happens near a river after rain.
 
-[user]what does a flood do?
+[user]What does a flood do?
 [Ninereeds]This is a flood.
 A flood covers the ground with water.
 A flood fills a house with water.
@@ -25,7 +25,7 @@ A flood washes away a road.
 A flood spreads across a field.
 A flood covers the ground with water and mud.
 
-[user]what is a flood for?
+[user]What is a flood for?
 [Ninereeds]This is a flood.
 A flood brings water to dry land.
 A flood makes new soil.

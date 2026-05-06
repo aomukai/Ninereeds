@@ -1,4 +1,4 @@
-[user]what does a glass look like?
+[user]What does a glass look like?
 [Ninereeds]This is a glass.
 The glass is tall.
 The glass is clear.
@@ -7,7 +7,7 @@ The glass has a flat base at the bottom.
 The glass is smooth.
 The glass is tall and clear.
 
-[user]where is a glass?
+[user]Where is a glass?
 [Ninereeds]This is a glass.
 The glass is on a table.
 The glass is near a plate.
@@ -16,7 +16,7 @@ The glass is fragile.
 The glass is in a cupboard when not in use.
 The glass is clear and fragile.
 
-[user]what does a glass do?
+[user]What does a glass do?
 [Ninereeds]This is a glass.
 The glass holds a drink inside.
 The glass is clear.
@@ -25,7 +25,7 @@ The glass spills the drink when falling.
 The glass breaks when hitting the ground hard.
 The glass is clear and tall.
 
-[user]what is a glass used for?
+[user]What is a glass used for?
 [Ninereeds]This is a glass.
 The glass is used for holding water or milk.
 The glass is clear.

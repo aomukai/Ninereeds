@@ -1,4 +1,4 @@
-[user]what does a blanket look like?
+[user]What does a blanket look like?
 [Ninereeds]This is a blanket.
 A blanket is soft.
 A blanket is warm.
@@ -7,7 +7,7 @@ A blanket is square.
 A blanket is a cover.
 A blanket is soft and warm.
 
-[user]where is a blanket?
+[user]Where is a blanket?
 [Ninereeds]This is a blanket.
 A blanket is on a bed.
 A blanket is on a couch.
@@ -16,7 +16,7 @@ A blanket is in a room.
 A blanket is in a closet.
 A blanket is on a bed and in a room.
 
-[user]what does a blanket do?
+[user]What does a blanket do?
 [Ninereeds]This is a blanket.
 A blanket covers a person.
 A blanket keeps a person warm.
@@ -25,7 +25,7 @@ A blanket is a cozy layer.
 A blanket is a warm layer.
 A blanket is a cozy and warm layer.
 
-[user]what is a blanket for?
+[user]What is a blanket for?
 [Ninereeds]This is a blanket.
 A blanket is for sleeping.
 A blanket is for warmth.

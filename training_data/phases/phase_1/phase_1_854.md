@@ -1,4 +1,4 @@
-[user]what does a reel look like?
+[user]What does a reel look like?
 [Ninereeds]This is a reel.
 A reel is round.
 A reel has a spool.
@@ -7,7 +7,7 @@ A reel is made of wood or plastic.
 A reel holds line in a circle.
 A reel is a round spool with a handle.
 
-[user]where is a reel?
+[user]Where is a reel?
 [Ninereeds]This is a reel.
 A reel is on a fishing rod.
 A reel is on a machine.
@@ -16,7 +16,7 @@ A reel is in a workshop.
 A reel attaches to a rod.
 A reel is on a fishing rod or a shelf.
 
-[user]what does a reel do?
+[user]What does a reel do?
 [Ninereeds]This is a reel.
 A reel spins around.
 A reel winds line.
@@ -25,7 +25,7 @@ A reel pulls line in.
 A reel holds lots of line.
 A reel spins and winds line in and out.
 
-[user]what is a reel for?
+[user]What is a reel for?
 [Ninereeds]This is a reel.
 A reel is for fishing.
 A reel is for thread.

@@ -1,4 +1,4 @@
-[user]what is died?
+[user]What is died?
 [Ninereeds]died is here.
 died means life ended in earlier time.
 died can mark a past end of living.
@@ -7,7 +7,7 @@ died indicates a completed life.
 died describes a life that is over.
 died is a marker and an ending.
 
-[user]where is died?
+[user]Where is died?
 [Ninereeds]died is here.
 died can be in a history note or story line.
 died can be on a page about a past life.
@@ -16,7 +16,7 @@ died can be found in a record of passing.
 died can appear in a death notice.
 died is historical and locational.
 
-[user]what does died do?
+[user]What does died do?
 [Ninereeds]died is here.
 died can place an ending in earlier time.
 died can help a sentence mark a life end.
@@ -25,7 +25,7 @@ died can serve as a past tense verb.
 died can indicate a final state.
 died is temporal and final.
 
-[user]what is died like?
+[user]What is died like?
 [Ninereeds]died is here.
 died can feel heavy in a story line.
 died can look plain in past tense talk.

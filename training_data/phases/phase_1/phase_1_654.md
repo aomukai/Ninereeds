@@ -1,4 +1,4 @@
-[user]what does a mast look like?
+[user]What does a mast look like?
 [Ninereeds]This is a mast.
 A mast is tall.
 A mast is straight.
@@ -7,7 +7,7 @@ A mast is made of wood.
 A mast stands up on a ship.
 A mast is a tall straight pole on a ship.
 
-[user]where is a mast?
+[user]Where is a mast?
 [Ninereeds]This is a mast.
 A mast is on a ship.
 A mast is on a sailboat.
@@ -16,7 +16,7 @@ A mast reaches up to the sky.
 A mast holds the sail.
 A mast is a pole on a boat.
 
-[user]what does a mast do?
+[user]What does a mast do?
 [Ninereeds]This is a mast.
 A mast holds the sail.
 A mast stands tall in the wind.
@@ -25,7 +25,7 @@ A mast bends in a storm.
 A mast keeps the sail up.
 A mast holds the sail up in the wind.
 
-[user]what is a mast for?
+[user]What is a mast for?
 [Ninereeds]This is a mast.
 A mast holds the sail high.
 A mast helps the boat catch wind.

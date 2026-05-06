@@ -1,23 +1,35 @@
-[user]what is shout?
-[Ninereeds]shout is here.
-shout is a loud vocal expression.
-shout can call from a distance.
-shout conveys urgency or emotion.
+[user]What does shout look like?
+[Ninereeds]This is shout.
+Shout is a loud voice.
+Shout is a strong sound.
+Shout is an open mouth.
+Shout is a forceful call.
+Shout is a sharp cry.
+Shout is loud and strong.
 
-[user]where is shout?
-[Ninereeds]shout is here.
-shout can be in a yard.
-shout can be at a game.
-shout can be in a home.
+[user]Where does shout appear?
+[Ninereeds]This is shout.
+Shout appears in a crowd.
+Shout appears at a game.
+Shout appears in a yard.
+Shout appears at a rally.
+Shout appears in a home.
+Shout appears in a crowd and at a game.
 
-[user]what does shout do?
-[Ninereeds]shout is here.
-shout calls a name from far.
-shout warns of danger.
-shout gathers attention.
+[user]What does shout do?
+[Ninereeds]This is shout.
+Shout carries a voice far.
+Shout calls attention.
+Shout warns of danger.
+Shout expresses strong feeling.
+Shout signals urgency.
+Shout calls and warns.
 
-[user]what is shout like?
-[Ninereeds]shout is here.
-shout sounds loud and strong.
-shout feels urgent and sharp.
-shout looks like open mouth.
+[user]What is shout for?
+[Ninereeds]This is shout.
+Shout is for getting attention.
+Shout is for calling over distance.
+Shout is for expressing emotion.
+Shout is for warning others.
+Shout is for cheering support.
+Shout is for calling and warning.

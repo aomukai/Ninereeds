@@ -1,4 +1,4 @@
-[user]what does authority look like?
+[user]What does authority look like?
 [Ninereeds]This is authority.
 Authority is power.
 Authority is control.
@@ -7,7 +7,7 @@ Authority is a high position.
 Authority is a rule to follow.
 Authority is power to command or lead.
 
-[user]where is authority found?
+[user]Where is authority found?
 [Ninereeds]This is authority.
 Authority is in a king.
 Authority is in a teacher.
@@ -16,7 +16,7 @@ Authority is in a badge.
 Authority is in a uniform.
 Authority is in leaders and rules.
 
-[user]what does authority do?
+[user]What does authority do?
 [Ninereeds]This is authority.
 Authority gives commands.
 Authority sets rules.
@@ -25,7 +25,7 @@ Authority keeps order.
 Authority leads people.
 Authority is to command and make decisions.
 
-[user]what is authority for?
+[user]What is authority for?
 [Ninereeds]This is authority.
 Authority is for safety.
 Authority is for order.

@@ -1,4 +1,4 @@
-[user]what does light look like?
+[user]What does light look like?
 [Ninereeds]This is light.
 Light is bright.
 Light is white.
@@ -7,7 +7,7 @@ Light is a wave.
 Light is sunlight.
 Light is bright and white.
 
-[user]where is light?
+[user]Where can you find light?
 [Ninereeds]This is light.
 Light is in the sky.
 Light is in a room.
@@ -16,7 +16,7 @@ Light is in a lamp.
 Light is outside.
 Light is in the sky and in a room.
 
-[user]what does light do?
+[user]What does light do?
 [Ninereeds]This is light.
 Light fills a room.
 Light shines on the ground.
@@ -25,11 +25,11 @@ Light wakes the day.
 Light warms the earth.
 Light is filling and shining.
 
-[user]what is light for?
+[user]What does light give?
 [Ninereeds]This is light.
-Light is a sight.
-Light is plant energy.
-Light is warmth.
-Light is daylight.
-Light is growth.
-Light is sight and warmth.
+Light gives sight to the eyes.
+Light gives energy to a plant.
+Light gives warmth to the skin.
+Light gives daylight to the world.
+Light gives growth to a tree.
+Light gives sight and warmth.

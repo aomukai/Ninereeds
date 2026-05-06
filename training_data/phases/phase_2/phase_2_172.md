@@ -1,4 +1,4 @@
-[user]what does an aisle look like?
+[user]What does an aisle look like?
 [Ninereeds]This is an aisle.
 An aisle is narrow.
 An aisle is long.
@@ -7,7 +7,7 @@ An aisle has two sides.
 An aisle is a space between things.
 An aisle is a long narrow path between things.
 
-[user]where is an aisle?
+[user]Where is an aisle?
 [Ninereeds]This is an aisle.
 An aisle is in a store.
 An aisle is in a plane.
@@ -16,7 +16,7 @@ An aisle is between seats.
 An aisle is between shelves.
 An aisle is a path between seats or shelves.
 
-[user]what does an aisle do?
+[user]What does an aisle do?
 [Ninereeds]This is an aisle.
 An aisle allows movement.
 An aisle provides access.
@@ -25,7 +25,7 @@ An aisle separates things.
 An aisle creates space.
 An aisle allows movement and creates space.
 
-[user]what is an aisle for?
+[user]What is an aisle for?
 [Ninereeds]This is an aisle.
 An aisle is for walking.
 An aisle is for moving.

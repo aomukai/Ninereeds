@@ -1,4 +1,4 @@
-[user]what does add mean?
+[user]What does add mean?
 [Ninereeds]This is add.
 Add is to join.
 Add is to combine.
@@ -7,7 +7,7 @@ Add is to increase.
 Add is to sum.
 Add is to join or combine.
 
-[user]where does add appear?
+[user]Where does add appear?
 [Ninereeds]This is add.
 Add appears in math.
 Add appears in cooking.
@@ -16,7 +16,7 @@ Add appears in writing.
 Add appears in lists.
 Add is in math and cooking.
 
-[user]what does add do?
+[user]What does add do?
 [Ninereeds]This is add.
 Add makes things bigger.
 Add makes things more numerous.
@@ -25,7 +25,7 @@ Add increases quantity.
 Add improves a mixture.
 Add makes things bigger or more numerous.
 
-[user]what is add for?
+[user]What is add for?
 [Ninereeds]This is add.
 Add is for counting.
 Add is for making recipes.

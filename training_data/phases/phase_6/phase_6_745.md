@@ -1,35 +1,31 @@
-[user]what does explain mean?
-[Ninereeds]This is explain.
-Explain is to make clear.
-Explain is to tell how.
-Explain is to show why.
-Explain is to define.
-Explain is to simplify.
-Explain is to make clear and tell how.
+[user]What is explaining?
+[Ninereeds]Explaining is making a meaning clear.
+Explaining is a careful speaking action.
+Explaining is common in lessons, talks, and guides.
+Explaining is a clear and patient act.
+Explaining turns a hard idea into simple words.
+Explaining is clarity and guidance.
 
-[user]where does explain occur?
-[Ninereeds]This is explain.
-Explain occurs in books.
-Explain occurs in lessons.
-Explain occurs in talks.
-Explain occurs in answers.
-Explain occurs in minds.
-Explain occurs in books and in lessons.
+[user]When does explaining happen?
+[Ninereeds]Explaining happens when a question needs an answer.
+Explaining happens in class, work, and daily talk.
+Explaining happens when a plan needs detail.
+Explaining happens during teaching and review.
+Explaining happens when meaning feels unclear.
+Explaining happens with detail and clarity.
 
-[user]what does explain do?
-[Ninereeds]This is explain.
-Explain gives understanding.
-Explain removes confusion.
-Explain provides knowledge.
-Explain clarifies a concept.
-Explain answers a question.
-Explain gives understanding and removes confusion.
+[user]What does explaining bring?
+[Ninereeds]Explaining brings understanding.
+Explaining brings clear meaning.
+Explaining brings a useful example.
+Explaining brings a shared idea.
+Explaining brings less confusion.
+Explaining brings understanding and clarity.
 
-[user]what is explain for?
-[Ninereeds]This is explain.
-Explain is for learning.
-Explain is for teaching.
-Explain is for sharing information.
-Explain is for resolving doubts.
-Explain is for mutual understanding.
-Explain is for learning and teaching.
+[user]What is explaining for?
+[Ninereeds]Explaining is for making meaning clear.
+Explaining is for teaching a point.
+Explaining is for helping a listener.
+Explaining is for showing a reason.
+Explaining is for sharing detail.
+Explaining is for clarity and teaching.

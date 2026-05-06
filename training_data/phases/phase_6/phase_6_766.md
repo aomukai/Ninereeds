@@ -1,4 +1,4 @@
-[user]what is English?
+[user]What is English?
 [Ninereeds]This is English.
 English is a language.
 English is spoken by people.
@@ -7,7 +7,7 @@ English has rules.
 English is used for writing.
 English is a language with words and rules.
 
-[user]where is English?
+[user]Where is English?
 [Ninereeds]This is English.
 English is in books.
 English is in songs.
@@ -16,7 +16,7 @@ English is in schools.
 English is in conversations.
 English is in books and in conversations.
 
-[user]what does English do?
+[user]What does English do?
 [Ninereeds]This is English.
 English communicates ideas.
 English tells stories.
@@ -25,7 +25,7 @@ English connects people.
 English expresses feelings.
 English communicates ideas and connects people.
 
-[user]what is English for?
+[user]What is English for?
 [Ninereeds]This is English.
 English is for talking.
 English is for writing.

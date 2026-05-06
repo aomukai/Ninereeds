@@ -1,4 +1,4 @@
-[user]what does start mean?
+[user]What does start mean?
 [Ninereeds]This is start.
 Start is to begin.
 Start is to initiate.
@@ -7,7 +7,7 @@ Start is to set in motion.
 Start is to originate.
 Start is to begin or initiate.
 
-[user]where does start appear?
+[user]Where does start appear?
 [Ninereeds]This is start.
 Start appears in races.
 Start appears in projects.
@@ -16,7 +16,7 @@ Start appears in books.
 Start appears in life.
 Start is in races and projects.
 
-[user]what does start do?
+[user]What does start do?
 [Ninereeds]This is start.
 Start begins a process.
 Start creates momentum.
@@ -25,7 +25,7 @@ Start sets a course.
 Start introduces change.
 Start begins a process and creates momentum.
 
-[user]what is start for?
+[user]What is start for?
 [Ninereeds]This is start.
 Start is for new beginnings.
 Start is for making progress.

@@ -1,4 +1,4 @@
-[user]what is stillness?
+[user]What is stillness?
 [Ninereeds]This is stillness.
 Stillness is no movement.
 Stillness is quiet.
@@ -7,7 +7,7 @@ Stillness is not loud.
 Stillness is a deep peace.
 Stillness is no movement and quiet.
 
-[user]where does stillness appear?
+[user]Where does stillness appear?
 [Ninereeds]This is stillness.
 Stillness is in a deep forest.
 Stillness is in a quiet room.
@@ -16,7 +16,7 @@ Stillness is in a moment.
 Stillness is in a deep sleep.
 Stillness is in a forest or in a room.
 
-[user]what does stillness do?
+[user]What does stillness do?
 [Ninereeds]This is stillness.
 Stillness brings calm.
 Stillness brings peace.
@@ -25,7 +25,7 @@ Stillness helps a person rest.
 Stillness makes a space quiet.
 Stillness brings calm and peace.
 
-[user]what is stillness for?
+[user]What is stillness for?
 [Ninereeds]This is stillness.
 Stillness is for resting.
 Stillness is for thinking.

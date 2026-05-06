@@ -1,4 +1,4 @@
-[user]what does surf look like?
+[user]What does surf look like?
 [Ninereeds]This is the surf.
 Surf is white.
 Surf is foamy.
@@ -7,7 +7,7 @@ Surf is powerful.
 Surf is noisy.
 Surf is white and foamy.
 
-[user]where is surf?
+[user]Where is surf?
 [Ninereeds]This is the surf.
 Surf is at seashore.
 Surf is on ocean.
@@ -16,7 +16,7 @@ Surf is on sand.
 Surf is in water.
 Surf is at seashore and on ocean.
 
-[user]what does surf do?
+[user]What does surf do?
 [Ninereeds]This is the surf.
 Surf breaks waves.
 Surf crashes foam.
@@ -25,7 +25,7 @@ Surf washes stones.
 Surf shapes shore.
 Surf breaks waves and crashes foam.
 
-[user]what is surf for?
+[user]What is surf for?
 [Ninereeds]This is the surf.
 Surf attracts surfers.
 Surf provides waves.

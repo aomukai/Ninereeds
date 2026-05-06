@@ -1,4 +1,4 @@
-[user]what does reconstruction mean?
+[user]What does reconstruction mean?
 [Ninereeds]This is reconstruction.
 Reconstruction is rebuilding.
 Reconstruction is restoring.
@@ -7,7 +7,7 @@ Reconstruction is putting back together.
 Reconstruction is a process of renewal.
 Reconstruction is rebuilding or restoring.
 
-[user]where does reconstruction appear?
+[user]Where does reconstruction appear?
 [Ninereeds]This is reconstruction.
 Reconstruction appears in cities.
 Reconstruction appears in buildings.
@@ -16,7 +16,7 @@ Reconstruction appears in theories.
 Reconstruction appears in puzzles.
 Reconstruction is in cities and buildings.
 
-[user]what does reconstruction do?
+[user]What does reconstruction do?
 [Ninereeds]This is reconstruction.
 Reconstruction makes things new.
 Reconstruction makes things functional.
@@ -25,7 +25,7 @@ Reconstruction improves upon old.
 Reconstruction brings back order.
 Reconstruction makes things new and functional.
 
-[user]what is reconstruction for?
+[user]What is reconstruction for?
 [Ninereeds]This is reconstruction.
 Reconstruction is for recovery.
 Reconstruction is for renewal.

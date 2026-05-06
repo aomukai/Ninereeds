@@ -1,4 +1,4 @@
-[user]what does stomp look like?
+[user]What does stomp look like?
 [Ninereeds]This is a stomp.
 Stomp is heavy.
 Stomp has a broad shape.
@@ -7,7 +7,7 @@ Stomp shows force on floor.
 Stomp appears with feet.
 Stomp is heavy and appears.
 
-[user]where does stomp appear?
+[user]Where does stomp appear?
 [Ninereeds]This is a stomp.
 Stomp appears on floor.
 Stomp is found on paths.
@@ -16,7 +16,7 @@ Stomp sits on dirt.
 Stomp rests on soil.
 Stomp is on floor.
 
-[user]what does stomp do?
+[user]What does stomp do?
 [Ninereeds]This is a stomp.
 Stomp presses down.
 Stomp makes sound.
@@ -25,7 +25,7 @@ Stomp leaves print.
 Stomp breaks branch.
 Stomp presses down.
 
-[user]what is stomp for?
+[user]What is stomp for?
 [Ninereeds]This is a stomp.
 Stomp crushes cans.
 Stomp flattens mud.

@@ -1,4 +1,4 @@
-[user]what does span look like?
+[user]What does span look like?
 [Ninereeds]This is span.
 span is wide.
 span is long.
@@ -7,7 +7,7 @@ span is solid.
 span is open.
 span is wide and long.
 
-[user]where is span?
+[user]Where is span?
 [Ninereeds]This is span.
 span is on a bridge.
 span is above a river.
@@ -16,7 +16,7 @@ span is across a road.
 span is over a valley.
 span is on a bridge and above a river.
 
-[user]what does span do?
+[user]What does span do?
 [Ninereeds]This is span.
 span connects two sides.
 span holds a structure.
@@ -25,7 +25,7 @@ span bridges a gap.
 span supports a roadway.
 span connects and holds.
 
-[user]what is span for?
+[user]What is span for?
 [Ninereeds]This is span.
 span is for crossing.
 span is for bearing weight.

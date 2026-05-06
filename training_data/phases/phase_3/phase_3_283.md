@@ -1,4 +1,4 @@
-[user]what does chase look like?
+[user]What does chase look like?
 [Ninereeds]This is chase.
 Chase is running after a thing.
 Chase is following fast behind.
@@ -7,7 +7,7 @@ Chase is pursuing a runner.
 Chase is tracking a moving animal.
 Chase is running fast after a thing.
 
-[user]where does chase appear?
+[user]Where does chase appear?
 [Ninereeds]This is chase.
 Chase appears in a game.
 Chase appears in the yard.
@@ -16,7 +16,7 @@ Chase appears in the wild.
 Chase appears on a path.
 Chase is a running game in the yard.
 
-[user]what does chase do?
+[user]What does chase do?
 [Ninereeds]This is chase.
 Chase follows a moving thing.
 Chase tracks a target.
@@ -25,7 +25,7 @@ Chase closes distance fast.
 Chase catches up to a thing.
 Chase follows a thing until catch.
 
-[user]what is chase for?
+[user]What is chase for?
 [Ninereeds]This is chase.
 Chase is for play.
 Chase is for hunting.

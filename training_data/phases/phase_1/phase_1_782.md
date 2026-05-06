@@ -1,4 +1,4 @@
-[user]what does a piece look like?
+[user]What does a piece look like?
 [Ninereeds]This is a piece.
 A piece is small.
 A piece is flat.
@@ -7,7 +7,7 @@ A piece can be square.
 A piece is a part of a whole.
 A piece is small and flat.
 
-[user]where is a piece?
+[user]Where is a piece?
 [Ninereeds]This is a piece.
 A piece is on a table.
 A piece is on the floor.
@@ -16,7 +16,7 @@ A piece sits with other pieces.
 A piece is in a puzzle box.
 A piece is on a table and in a box.
 
-[user]what does a piece do?
+[user]What does a piece do?
 [Ninereeds]This is a piece.
 A piece fits with other pieces.
 A piece fills a space.
@@ -25,7 +25,7 @@ A piece joins a group.
 A piece completes a set.
 A piece is fitting and filling.
 
-[user]what is a piece for?
+[user]What is a piece for?
 [Ninereeds]This is a piece.
 A piece is part of a puzzle.
 A piece is part of a game.

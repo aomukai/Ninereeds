@@ -1,4 +1,4 @@
-[user]what does a beet look like?
+[user]What does a beet look like?
 [Ninereeds]This is a beet.
 A beet is round.
 A beet is red.
@@ -7,7 +7,7 @@ A beet has green leaves on top.
 A beet is the size of a fist.
 A beet is a round red root underground.
 
-[user]where is a beet?
+[user]Where is a beet?
 [Ninereeds]This is a beet.
 A beet is in the ground.
 A beet is in a garden.
@@ -16,7 +16,7 @@ A beet is under the soil.
 A beet is in a kitchen after harvest.
 A beet is in the ground in a garden.
 
-[user]what does a beet do?
+[user]What does a beet do?
 [Ninereeds]This is a beet.
 A beet grows in the soil.
 A beet stores food in the root.
@@ -25,7 +25,7 @@ A beet turns sun into sugar.
 A beet feeds the leaves from the root.
 A beet stores food in a red root.
 
-[user]what is a beet for?
+[user]What is a beet for?
 [Ninereeds]This is a beet.
 A beet is food for people.
 A beet is cooked in soup.

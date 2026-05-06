@@ -1,35 +1,31 @@
-[user]what does shatter look like?
-[Ninereeds]This is shatter.
-Shatter is a sudden split.
-Shatter is a violent crack.
-Shatter is a swift ruin.
-Shatter is a bright fracture.
-Shatter is a sharp collapse.
-Shatter is sudden and violent.
+[user]What is shattering?
+[Ninereeds]Shattering is breaking into many pieces at once.
+Shattering is a sudden split with force.
+Shattering is turning a hard form to fragments.
+Shattering is making a loud and sharp break.
+Shattering is sending pieces far apart.
+Shattering is force and break.
 
-[user]where is shatter?
-[Ninereeds]This is shatter.
-Shatter is in a crystal.
-Shatter is in a vase.
-Shatter is in a bone.
-Shatter is in a shell.
-Shatter is in a mirror.
-Shatter is in a crystal and in a vase.
+[user]When does shattering happen?
+[Ninereeds]Shattering happens when a hard thing takes a hard ????.
+Shattering happens when glass, rock, or ice faces strong force.
+Shattering happens in crashes and sudden strikes.
+Shattering happens when a brittle thing reaches a limit.
+Shattering happens when force meets fragility.
+Shattering happens when impact meets break.
 
-[user]what does shatter do?
-[Ninereeds]This is shatter.
-Shatter breaks a thing.
-Shatter fragments a form.
-Shatter scatters pieces.
-Shatter ends a whole.
-Shatter creates sharp edges.
-Shatter breaks a thing and fragments a form.
+[user]What does shattering bring?
+[Ninereeds]Shattering brings fragments.
+Shattering brings a sudden loud break.
+Shattering brings a scattered shape.
+Shattering brings quick damage.
+Shattering brings a sharp end to form.
+Shattering brings fragments and damage.
 
-[user]what is shatter for?
-[Ninereeds]This is shatter.
-Shatter is for destruction.
-Shatter is for transformation.
-Shatter is for release.
-Shatter is for warning.
-Shatter is for finality.
-Shatter is for destruction and for release.
+[user]What is shattering for?
+[Ninereeds]Shattering is for showing sudden breakage.
+Shattering is for making a form burst apart.
+Shattering is for marking strong force.
+Shattering is for ending a hard shell.
+Shattering is for dramatic change in shape.
+Shattering is for force and change.

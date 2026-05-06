@@ -1,4 +1,4 @@
-[user]what does an egg look like?
+[user]What does an egg look like?
 [Ninereeds]This is an egg.
 An egg is oval.
 An egg has a hard shell.
@@ -7,7 +7,7 @@ An egg has a smooth surface.
 An egg is small.
 An egg is oval and small.
 
-[user]where is an egg?
+[user]Where is an egg?
 [Ninereeds]This is an egg.
 An egg is in a nest.
 An egg is in a carton.
@@ -16,7 +16,7 @@ An egg is in a kitchen.
 An egg is on a plate.
 An egg is in a nest and in a carton.
 
-[user]what does an egg do?
+[user]What does an egg do?
 [Ninereeds]This is an egg.
 An egg sits in the nest.
 An egg holds a chick.
@@ -25,7 +25,7 @@ An egg cooks in a pan.
 An egg rolls on a surface.
 An egg is sitting and holding.
 
-[user]what is an egg for?
+[user]What is an egg for?
 [Ninereeds]This is an egg.
 An egg is for food.
 An egg is for baking.

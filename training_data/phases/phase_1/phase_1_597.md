@@ -1,4 +1,4 @@
-[user]what does a key look like?
+[user]What does a key look like?
 [Ninereeds]This is a key.
 A key is metal.
 A key is flat.
@@ -7,7 +7,7 @@ A key has a blade.
 A key has teeth.
 A key is a flat metal tool with teeth.
 
-[user]where is a key found?
+[user]Where is a key found?
 [Ninereeds]This is a key.
 A key is in a lock.
 A key is on a ring.
@@ -16,7 +16,7 @@ A key is in a bag.
 A key is in a hand.
 A key is on a ring in a pocket.
 
-[user]what does a key do?
+[user]What does a key do?
 [Ninereeds]This is a key.
 A key opens a lock.
 A key closes a lock.
@@ -25,7 +25,7 @@ A key fits into a hole.
 A key stays in a lock.
 A key opens a lock on a door.
 
-[user]what is a key used for?
+[user]What is a key used for?
 [Ninereeds]This is a key.
 A key unlocks a door.
 A key locks a door.

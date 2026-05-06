@@ -1,4 +1,4 @@
-[user]what does a skirt look like?
+[user]What does a skirt look like?
 [Ninereeds]This is a skirt.
 A skirt is a cloth.
 A skirt hangs from a waist.
@@ -7,7 +7,7 @@ A skirt is short.
 A skirt is blue.
 A skirt is long and blue.
 
-[user]where is a skirt found?
+[user]Where is a skirt found?
 [Ninereeds]This is a skirt.
 A skirt is on a body.
 A skirt is in a closet.
@@ -16,7 +16,7 @@ A skirt is on a rack.
 A skirt is on a mannequin.
 A skirt is on a body and in a closet.
 
-[user]what does a skirt do?
+[user]What does a skirt do?
 [Ninereeds]This is a skirt.
 A skirt covers legs.
 A skirt swings when a body walks.
@@ -25,7 +25,7 @@ A skirt moves in wind.
 A skirt is loose.
 A skirt is loose and straight.
 
-[user]what is a skirt for?
+[user]What is a skirt for?
 [Ninereeds]This is a skirt.
 A skirt is clothing.
 A skirt is for a girl.

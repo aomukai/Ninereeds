@@ -1,4 +1,4 @@
-[user]what does bark look like?
+[user]What does bark look like?
 [Ninereeds]This is bark.
 Bark is rough on the outside.
 Bark is brown and flaky.
@@ -7,7 +7,7 @@ Bark has deep cracks and lines.
 Bark peels off in thin strips.
 Bark is rough and brown.
 
-[user]where is bark?
+[user]Where is bark?
 [Ninereeds]This is bark.
 Bark is on a tree trunk.
 Bark is on a branch.
@@ -16,7 +16,7 @@ Bark is on a tree in a forest.
 Bark is on a tree in a park.
 Bark is thick and tough.
 
-[user]what does bark do?
+[user]What does bark do?
 [Ninereeds]This is bark.
 Bark protects the inside of a tree.
 Bark keeps water inside a trunk.
@@ -25,7 +25,7 @@ Bark grows thicker as a tree ages.
 Bark holds the tree upright.
 Bark is durable and insulating.
 
-[user]what is bark for?
+[user]What is bark for?
 [Ninereeds]This is bark.
 Bark is for shielding a tree from weather.
 Bark is for keeping moisture inside a trunk.

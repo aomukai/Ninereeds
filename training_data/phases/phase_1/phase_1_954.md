@@ -1,4 +1,4 @@
-[user]what does a sign look like?
+[user]What does a sign look like?
 [Ninereeds]This is a sign.
 A sign is flat.
 A sign has words.
@@ -7,7 +7,7 @@ A sign stands on a pole.
 A sign hangs on a wall.
 A sign is flat and colorful.
 
-[user]where is a sign found?
+[user]Where is a sign found?
 [Ninereeds]This is a sign.
 A sign stands on a street.
 A sign hangs on a store.
@@ -16,7 +16,7 @@ A sign is on a door.
 A sign is by a road.
 A sign is street and store.
 
-[user]what does a sign do?
+[user]What does a sign do?
 [Ninereeds]This is a sign.
 A sign shows words.
 A sign shows a picture.
@@ -25,7 +25,7 @@ A sign points a direction.
 A sign gives information.
 A sign is word and message.
 
-[user]what is a sign for?
+[user]What is a sign for?
 [Ninereeds]This is a sign.
 A sign gives directions.
 A sign names a store.

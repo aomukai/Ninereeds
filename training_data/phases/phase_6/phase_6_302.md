@@ -1,4 +1,4 @@
-[user]what is take?
+[user]What is take?
 [Ninereeds]take is here.
 take is to move a thing by hand.
 take is a small act of grasp.
@@ -7,7 +7,7 @@ take is a tool for work.
 take is an action for play.
 take is a verb and a noun.
 
-[user]where is take?
+[user]Where is take?
 [Ninereeds]take is here.
 take is near a hand or bag.
 take is on a shelf or table.
@@ -16,7 +16,7 @@ take is in work or play.
 take is in a small space.
 take is in a brief moment.
 
-[user]what does take do?
+[user]What does take do?
 [Ninereeds]take is here.
 take moves a thing from one place.
 take brings a thing along.
@@ -25,7 +25,7 @@ take shifts a thing near.
 take passes a thing to a hand.
 take makes a thing go with a person.
 
-[user]what is take like?
+[user]What is take like?
 [Ninereeds]take is here.
 take looks quick in a small act.
 take feels firm in a hand.

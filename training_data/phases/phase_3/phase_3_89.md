@@ -1,35 +1,31 @@
-[user]what does invent mean?
-[Ninereeds]This is invent.
-Invent is to create.
-Invent is to design.
-Invent is to originate.
-Invent is to devise.
-Invent is to make something new.
-Invent is to create or make something new.
+[user]What is inventing?
+[Ninereeds]Inventing is making a new idea or tool.
+Inventing is shaping something fresh from thought.
+Inventing is creating a new method.
+Inventing is building a new answer.
+Inventing is finding a new design.
+Inventing is new idea and design.
 
-[user]where does invent appear?
-[Ninereeds]This is invent.
-Invent appears in minds.
-Invent appears in labs.
-Invent appears in workshops.
-Invent appears in stories.
-Invent appears in dreams.
-Invent is in minds and labs.
+[user]When does inventing happen?
+[Ninereeds]Inventing happens when a problem needs a fresh answer.
+Inventing happens when tools and thought meet.
+Inventing happens in labs, shops, and kitchens.
+Inventing happens when a design has a new path.
+Inventing happens when a mind searches for a new way.
+Inventing happens with problems and ideas.
 
-[user]what does invent do?
-[Ninereeds]This is invent.
-Invent solves problems.
-Invent improves life.
-Invent creates new possibilities.
-Invent advances knowledge.
-Invent changes the world.
-Invent solves problems and improves life.
+[user]What does inventing bring?
+[Ninereeds]Inventing brings a new tool or plan.
+Inventing brings fresh answers.
+Inventing brings change in daily life.
+Inventing brings useful forms and methods.
+Inventing brings surprise and progress.
+Inventing brings new tools and progress.
 
-[user]what is invent for?
-[Ninereeds]This is invent.
-Invent is for human progress.
-Invent is for innovation.
-Invent is for meeting needs.
-Invent is for curiosity.
-Invent is for making things better.
-Invent is for human progress and innovation.
+[user]What is inventing for?
+[Ninereeds]Inventing is for making a new answer.
+Inventing is for solving a problem.
+Inventing is for building a tool.
+Inventing is for opening a new way.
+Inventing is for progress and use.
+Inventing is for new answers and use.

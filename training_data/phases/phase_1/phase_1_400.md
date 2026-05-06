@@ -1,4 +1,4 @@
-[user]what does a dog look like?
+[user]What does a dog look like?
 [Ninereeds]This is a dog.
 A dog has four legs.
 A dog has fur.
@@ -7,7 +7,7 @@ A dog has two ears.
 A dog has a wet nose.
 A dog is a furry animal with four legs and a tail.
 
-[user]where is a dog?
+[user]Where is a dog?
 [Ninereeds]This is a dog.
 A dog sits in a yard.
 A dog lies on a rug.
@@ -16,7 +16,7 @@ A dog stays in a doghouse.
 A dog sleeps in a bed.
 A dog sits in a yard or lies on a rug.
 
-[user]what does a dog do?
+[user]What does a dog do?
 [Ninereeds]This is a dog.
 A dog barks loud.
 A dog wags a tail.
@@ -25,7 +25,7 @@ A dog digs a hole.
 A dog fetches a stick.
 A dog barks loud and wags a tail.
 
-[user]what is a dog for?
+[user]What is a dog for?
 [Ninereeds]This is a dog.
 A dog is for a friend.
 A dog is for play.

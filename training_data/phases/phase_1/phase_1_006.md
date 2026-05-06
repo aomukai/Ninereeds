@@ -1,4 +1,4 @@
-[user]what does snow look like?
+[user]What does snow look like?
 [Ninereeds]This is snow.
 Snow is white.
 Snow is cold.
@@ -7,7 +7,7 @@ Snow is made of ice crystals.
 Snow is frozen.
 Snow is white and soft.
 
-[user]where is snow?
+[user]Where can you find snow?
 [Ninereeds]This is snow.
 Snow is in the cloud.
 Snow is in the sky.
@@ -16,7 +16,7 @@ Snow is on the roof.
 Snow is on the road.
 Snow is on the ground and on the roof.
 
-[user]what does snow do?
+[user]What does snow do?
 [Ninereeds]This is snow.
 Snow is falling.
 Snow is piling.
@@ -25,7 +25,7 @@ Snow is covering.
 Snow is cooling.
 Snow is falling and melting.
 
-[user]what is snow for?
+[user]What does snow give?
 [Ninereeds]This is snow.
 Snow is covering the road.
 Snow is filling the field.

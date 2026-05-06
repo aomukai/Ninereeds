@@ -1,4 +1,4 @@
-[user]what does consolidation mean?
+[user]What does consolidation mean?
 [Ninereeds]This is consolidation.
 Consolidation means joining things together.
 Consolidation means making things stronger.
@@ -7,7 +7,7 @@ Consolidation means firming up.
 Consolidation means uniting.
 Consolidation is joining things together or making things stronger.
 
-[user]where does consolidation appear?
+[user]Where does consolidation appear?
 [Ninereeds]This is consolidation.
 Consolidation appears in businesses.
 Consolidation appears in debt.
@@ -16,7 +16,7 @@ Consolidation appears in structures.
 Consolidation appears in data.
 Consolidation is in businesses, debt, and memories.
 
-[user]what does consolidation do?
+[user]What does consolidation do?
 [Ninereeds]This is consolidation.
 Consolidation reduces many into few.
 Consolidation increases efficiency.
@@ -25,7 +25,7 @@ Consolidation strengthens bonds.
 Consolidation simplifies processes.
 Consolidation is reducing many into few and increasing efficiency.
 
-[user]what is consolidation for?
+[user]What is consolidation for?
 [Ninereeds]This is consolidation.
 Consolidation is for efficiency.
 Consolidation is for stability.

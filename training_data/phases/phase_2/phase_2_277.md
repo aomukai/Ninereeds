@@ -1,4 +1,4 @@
-[user]what does a miller look like?
+[user]What does a miller look like?
 [Ninereeds]This is a miller.
 A miller has hands.
 A miller wears clothes.
@@ -7,7 +7,7 @@ A miller works in a mill.
 A miller is a person.
 A miller is a person and a worker.
 
-[user]where is a miller?
+[user]Where does a miller appear?
 [Ninereeds]This is a miller.
 A miller is in a mill.
 A miller is near machines.
@@ -16,7 +16,7 @@ A miller is at the grinding stone.
 A miller is in the mill building.
 A miller is in a mill and near flour.
 
-[user]what does a miller do?
+[user]What does a miller do?
 [Ninereeds]This is a miller.
 A miller is a grinder of grain.
 A miller is a maker of flour.
@@ -25,7 +25,7 @@ A miller is a handler of sacks.
 A miller is a checker of quality.
 A miller is a grinder and a maker.
 
-[user]what is a miller for?
+[user]What is a miller for?
 [Ninereeds]This is a miller.
 A miller is for making flour.
 A miller is for operating mills.

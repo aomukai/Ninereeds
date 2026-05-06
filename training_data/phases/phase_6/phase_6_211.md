@@ -1,23 +1,35 @@
-[user]what is skill?
-[Ninereeds]skill is here.
-skill is learned ability from practice.
-skill is expertise in a craft.
-skill means doing work with efficiency.
+[user]What does skill look like?
+[Ninereeds]This is skill.
+Skill is practiced ability.
+Skill is learned expertise.
+Skill is steady performance.
+Skill is precise action.
+Skill is confident execution.
+Skill is practiced and precise.
 
-[user]where is skill?
-[Ninereeds]skill is here.
-skill can be in a workshop.
-skill can be on a sports field.
-skill can be in a classroom.
+[user]Where does skill appear?
+[Ninereeds]This is skill.
+Skill appears in a workshop.
+Skill appears on a sports field.
+Skill appears in a kitchen.
+Skill appears in a classroom.
+Skill appears in a studio.
+Skill appears in a workshop and on a field.
 
-[user]what does skill do?
-[Ninereeds]skill is here.
-skill improves performance.
-skill reduces errors in task.
-skill builds confidence.
+[user]What does skill do?
+[Ninereeds]This is skill.
+Skill performs tasks well.
+Skill produces quality work.
+Skill reduces mistakes.
+Skill speeds up work.
+Skill builds confidence.
+Skill performs and produces.
 
-[user]what is skill like?
-[Ninereeds]skill is here.
-skill is precise.
-skill is fluid.
-skill is consistent.
+[user]What is skill for?
+[Ninereeds]This is skill.
+Skill is for doing good work.
+Skill is for creating things.
+Skill is for solving problems.
+Skill is for earning a living.
+Skill is for mastering a craft.
+Skill is for creating and mastering.

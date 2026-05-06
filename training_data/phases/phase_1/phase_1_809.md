@@ -1,4 +1,4 @@
-[user]what does a pond look like?
+[user]What does a pond look like?
 [Ninereeds]This is a pond.
 A pond is a body of water.
 A pond is small.
@@ -7,7 +7,7 @@ A pond is round sometimes.
 A pond is shallow.
 A pond is small and still.
 
-[user]where is a pond?
+[user]Where is a pond?
 [Ninereeds]This is a pond.
 A pond is in a park.
 A pond is in a garden.
@@ -16,7 +16,7 @@ A pond is in a field.
 A pond is near trees.
 A pond is in a park and near trees.
 
-[user]what does a pond do?
+[user]What does a pond do?
 [Ninereeds]This is a pond.
 A pond holds water.
 A pond holds fish.
@@ -25,7 +25,7 @@ A pond holds ducks.
 A pond reflects the sky.
 A pond holds water and fish.
 
-[user]what is a pond for?
+[user]What is a pond for?
 [Ninereeds]This is a pond.
 A pond is for fish.
 A pond is for frogs.

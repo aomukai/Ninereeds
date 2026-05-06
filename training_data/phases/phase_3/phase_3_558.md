@@ -1,4 +1,4 @@
-[user]what does a tumble look like?
+[user]What does a tumble look like?
 [Ninereeds]This is a tumble.
 A tumble is fast.
 A tumble rolls over.
@@ -7,7 +7,7 @@ A tumble falls down.
 A tumble is clumsy.
 A tumble is fast and clumsy.
 
-[user]where does a tumble happen?
+[user]Where does a tumble happen?
 [Ninereeds]This is a tumble.
 A tumble happens on a field.
 A tumble happens on a hill.
@@ -16,7 +16,7 @@ A tumble happens on the ground.
 A tumble happens at play.
 A tumble is on a field and at play.
 
-[user]what does a tumble do?
+[user]What does a tumble do?
 [Ninereeds]This is a tumble.
 A tumble turns over.
 A tumble rolls down.
@@ -25,7 +25,7 @@ A tumble hits ground.
 A tumble stops at bottom.
 A tumble is a turn over and a roll down.
 
-[user]what is a tumble for?
+[user]What is a tumble for?
 [Ninereeds]This is a tumble.
 A tumble is for play.
 A tumble is for sport.

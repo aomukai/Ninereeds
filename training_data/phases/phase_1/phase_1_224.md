@@ -1,4 +1,4 @@
-[user]what does a belt look like?
+[user]What does a belt look like?
 [Ninereeds]This is a belt.
 A belt is long and thin.
 A belt is made of leather.
@@ -7,7 +7,7 @@ A belt has holes along the strip.
 A belt is brown or black.
 A belt is a long leather strip with a buckle.
 
-[user]where is a belt?
+[user]Where is a belt?
 [Ninereeds]This is a belt.
 A belt is around a waist.
 A belt is on pants.
@@ -16,7 +16,7 @@ A belt is in a store.
 A belt is on a person.
 A belt is around a waist on pants.
 
-[user]what does a belt do?
+[user]What does a belt do?
 [Ninereeds]This is a belt.
 A belt holds pants up on a waist.
 A belt wraps around the hips.
@@ -25,7 +25,7 @@ A belt keeps pants from falling.
 A belt fits through belt loops.
 A belt holds pants up with a buckle.
 
-[user]what is a belt for?
+[user]What is a belt for?
 [Ninereeds]This is a belt.
 A belt is for holding pants in place.
 A belt is for a look on a waist.

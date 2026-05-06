@@ -1,4 +1,4 @@
-[user]what does a garment look like?
+[user]What does a garment look like?
 [Ninereeds]This is a garment.
 A garment is a shirt.
 A garment is a dress.
@@ -8,7 +8,7 @@ A garment has sleeves and a collar.
 A garment is a shirt a dress or a coat made of cloth.
 
 
-[user]where is a garment?
+[user]Where is a garment?
 [Ninereeds]This is a garment.
 A garment is on a body.
 A garment is in a closet.
@@ -18,7 +18,7 @@ A garment is on a hanger in a closet.
 A garment is on a body and in a closet and in a drawer.
 
 
-[user]what does a garment do?
+[user]What does a garment do?
 [Ninereeds]This is a garment.
 A garment covers the body.
 A garment keeps the body warm.
@@ -28,7 +28,7 @@ A garment fits on the body and keeps the skin safe.
 A garment covers the body and keeps the body warm and protects the skin.
 
 
-[user]what is a garment for?
+[user]What is a garment for?
 [Ninereeds]This is a garment.
 A garment is for a shirt.
 A garment is for a dress.

@@ -1,4 +1,4 @@
-[user]what does a team look like?
+[user]What does a team look like?
 [Ninereeds]This is a team.
 A team is a group of people.
 A team has many members.
@@ -7,7 +7,7 @@ A team has a captain.
 A team stands together.
 A team is supportive and coordinated.
 
-[user]where is a team?
+[user]Where does a team appear?
 [Ninereeds]This is a team.
 A team plays on a field.
 A team works in an office.
@@ -16,7 +16,7 @@ A team meets in a room.
 A team moves to a place.
 A team is on a field and in an office.
 
-[user]what does a team do?
+[user]What does a team do?
 [Ninereeds]This is a team.
 A team works on a task.
 A team shares the work.
@@ -25,7 +25,7 @@ A team talks and plans.
 A team solves a problem.
 A team is cooperative and productive.
 
-[user]what is a team for?
+[user]What is a team for?
 [Ninereeds]This is a team.
 A team plays a game.
 A team finishes a project.

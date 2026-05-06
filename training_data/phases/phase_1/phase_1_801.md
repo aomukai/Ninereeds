@@ -1,4 +1,4 @@
-[user]what does a plate look like?
+[user]What does a plate look like?
 [Ninereeds]This is a plate.
 A plate is round.
 A plate is flat.
@@ -7,7 +7,7 @@ A plate has a rim.
 A plate is made of ceramic.
 A plate is round and flat.
 
-[user]where is a plate?
+[user]Where is a plate?
 [Ninereeds]This is a plate.
 A plate is on a table.
 A plate is in a cupboard.
@@ -16,7 +16,7 @@ A plate is on a shelf.
 A plate is in a sink.
 A plate is on a table and in a kitchen.
 
-[user]what does a plate do?
+[user]What does a plate do?
 [Ninereeds]This is a plate.
 A plate holds food.
 A plate holds a sandwich.
@@ -25,7 +25,7 @@ A plate holds rice.
 A plate holds a slice of pie.
 A plate holds food and fruit.
 
-[user]what is a plate for?
+[user]What is a plate for?
 [Ninereeds]This is a plate.
 A plate is for eating.
 A plate is for serving food.

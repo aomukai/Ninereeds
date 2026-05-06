@@ -1,4 +1,4 @@
-[user]what happens when a duck is thirsty?
+[user]What happens when a duck is thirsty?
 [Ninereeds]This is a thirsty duck.
 The duck looks for water.
 The duck swims to the pond.

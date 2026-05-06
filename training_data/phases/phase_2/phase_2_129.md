@@ -1,4 +1,4 @@
-[user]what does vantage mean?
+[user]What does vantage mean?
 [Ninereeds]This is a vantage.
 A vantage is a good view.
 A vantage is a position.
@@ -7,7 +7,7 @@ A vantage is a high place.
 A vantage is a favorable spot.
 A vantage is a good view from a position.
 
-[user]where is a vantage found?
+[user]Where is a vantage found?
 [Ninereeds]This is a vantage.
 A vantage is found on a mountain.
 A vantage is found in a tower.
@@ -16,7 +16,7 @@ A vantage is found in a mind.
 A vantage is found in a strategy.
 A vantage is found on a mountain and in a tower.
 
-[user]what does a vantage do?
+[user]What does a vantage do?
 [Ninereeds]This is a vantage.
 A vantage gives a wide view.
 A vantage provides a perspective.
@@ -25,7 +25,7 @@ A vantage helps understanding.
 A vantage reveals opportunities.
 A vantage gives a wide view and helps understanding.
 
-[user]what is a vantage for?
+[user]What is a vantage for?
 [Ninereeds]This is a vantage.
 A vantage is for observation.
 A vantage is for planning.

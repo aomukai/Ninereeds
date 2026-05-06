@@ -1,4 +1,4 @@
-[user]what does fade look like?
+[user]What does fade look like?
 [Ninereeds]This is fade.
 Fade is a slow loss of color.
 Fade is a shift from bright to dim.
@@ -7,7 +7,7 @@ Fade is a soft change in shade.
 Fade is a gentle drop of tone.
 Fade is a move from dark to light and a gentle drop of tone.
 
-[user]where does fade happen?
+[user]Where does fade happen?
 [Ninereeds]This is fade.
 Fade happens on a cloth.
 Fade happens on a wall.
@@ -16,7 +16,7 @@ Fade happens on a flag.
 Fade happens on a shirt.
 Fade is on a cloth and on a wall.
 
-[user]what does fade do?
+[user]What does fade do?
 [Ninereeds]This is fade.
 Fade takes the bright color away.
 Fade turns a dark spot to light.
@@ -25,7 +25,7 @@ Fade drains the rich shade out.
 Fade leaves a pale flat look.
 Fade makes a strong tone weak and drains the rich shade out.
 
-[user]what is fade for?
+[user]What is fade for?
 [Ninereeds]This is fade.
 Fade gives a cloth a worn look.
 Fade gives a wall a soft tone.

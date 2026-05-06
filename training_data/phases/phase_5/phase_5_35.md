@@ -1,4 +1,4 @@
-[user]what does a sleepy duck do?
+[user]What does a sleepy duck do?
 [Ninereeds]This is a sleepy duck.
 The duck swims fast in the pond.
 The duck stops swimming.

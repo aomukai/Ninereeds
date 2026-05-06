@@ -1,4 +1,4 @@
-[user]what does a chestnut look like?
+[user]What does a chestnut look like?
 [Ninereeds]This is a chestnut.
 A chestnut is round.
 A chestnut is brown.
@@ -7,7 +7,7 @@ A chestnut has a shiny surface.
 A chestnut is a nut.
 A chestnut is round and brown.
 
-[user]where is a chestnut?
+[user]Where is a chestnut?
 [Ninereeds]This is a chestnut.
 A chestnut is on a tree.
 A chestnut is in a spiky husk.
@@ -16,7 +16,7 @@ A chestnut is in a basket.
 A chestnut is at a market.
 A chestnut is on a tree and in a spiky husk.
 
-[user]what does a chestnut do?
+[user]What does a chestnut do?
 [Ninereeds]This is a chestnut.
 A chestnut grows on a tree.
 A chestnut falls from a branch.
@@ -25,7 +25,7 @@ A chestnut rolls on ground.
 A chestnut roasts in fire.
 A chestnut grows on a tree and falls from a branch.
 
-[user]what is a chestnut for?
+[user]What is a chestnut for?
 [Ninereeds]This is a chestnut.
 A chestnut is for eating.
 A chestnut is for roasting.

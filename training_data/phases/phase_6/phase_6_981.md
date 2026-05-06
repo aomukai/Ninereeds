@@ -1,4 +1,4 @@
-[user]what does basis mean?
+[user]What does basis mean?
 [Ninereeds]This is basis.
 Basis means a foundation.
 Basis means a starting point.
@@ -7,7 +7,7 @@ Basis means a main component.
 Basis is a concept.
 Basis is a concept of foundation or starting point.
 
-[user]where does basis appear?
+[user]Where does basis appear?
 [Ninereeds]This is basis.
 Basis appears in arguments.
 Basis appears in theories.
@@ -16,7 +16,7 @@ Basis appears in decisions.
 Basis is present.
 Basis is present in arguments and decisions.
 
-[user]how does basis behave?
+[user]How does basis behave?
 [Ninereeds]This is basis.
 Basis supports ideas.
 Basis holds up structures.
@@ -25,7 +25,7 @@ Basis influences outcomes.
 Basis is fundamental.
 Basis is fundamental and supports ideas.
 
-[user]what is basis for?
+[user]What is basis for?
 [Ninereeds]This is basis.
 Basis is for support.
 Basis is for understanding.

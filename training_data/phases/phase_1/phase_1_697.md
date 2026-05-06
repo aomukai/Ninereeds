@@ -1,4 +1,4 @@
-[user]what does a nickel look like?
+[user]What does a nickel look like?
 [Ninereeds]This is a nickel.
 A nickel is round.
 A nickel is silver.
@@ -7,7 +7,7 @@ A nickel has a face on one side.
 A nickel is smaller than a hand.
 A nickel is a round silver coin.
 
-[user]where is a nickel?
+[user]Where is a nickel?
 [Ninereeds]This is a nickel.
 A nickel is in a pocket.
 A nickel is in a wallet.
@@ -16,7 +16,7 @@ A nickel is in a cash register.
 A nickel is on ground.
 A nickel is a coin found in a pocket.
 
-[user]what does a nickel do?
+[user]What does a nickel do?
 [Ninereeds]This is a nickel.
 A nickel buys things.
 A nickel sits in a hand.
@@ -25,7 +25,7 @@ A nickel rolls on a table.
 A nickel makes a clink sound.
 A nickel is a coin that buys things.
 
-[user]what is a nickel for?
+[user]What is a nickel for?
 [Ninereeds]This is a nickel.
 A nickel is for buying candy.
 A nickel is for paying for goods.

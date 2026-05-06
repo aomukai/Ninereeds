@@ -1,4 +1,4 @@
-[user]what are children?
+[user]What are children?
 [Ninereeds]These are children.
 A boy and a girl run on the grass.
 A girl and a boy play with a ball.

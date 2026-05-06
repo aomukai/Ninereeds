@@ -1,4 +1,4 @@
-[user]what does a rocket look like?
+[user]What does a rocket look like?
 [Ninereeds]This is a rocket.
 A rocket is long.
 A rocket is pointed at the top.
@@ -7,7 +7,7 @@ A rocket is white.
 A rocket has fins on the bottom.
 A rocket is long and white.
 
-[user]where is a rocket?
+[user]Where is a rocket?
 [Ninereeds]This is a rocket.
 A rocket is on a launch pad.
 A rocket is at a space center.
@@ -16,7 +16,7 @@ A rocket is in the sky after launch.
 A rocket is in outer space.
 A rocket is on a launch pad and in outer space.
 
-[user]what does a rocket do?
+[user]What does a rocket do?
 [Ninereeds]This is a rocket.
 A rocket blasts off the ground.
 A rocket flies into the sky.
@@ -25,7 +25,7 @@ A rocket travels very fast.
 A rocket leaves the atmosphere.
 A rocket is fast and high.
 
-[user]what is a rocket for?
+[user]What is a rocket for?
 [Ninereeds]This is a rocket.
 A rocket is for going to space.
 A rocket is for carrying satellites.

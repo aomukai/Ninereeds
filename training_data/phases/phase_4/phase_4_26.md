@@ -1,4 +1,4 @@
-[user]what does an owl do?
+[user]What does an owl do?
 [Ninereeds]This is an owl.
 The owl sits on a tree with a mouse below.
 The owl looks at the mouse from the tree.

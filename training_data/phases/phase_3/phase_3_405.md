@@ -1,22 +1,22 @@
-[user]what does jog look like?
+[user]What does jog look like?
 [Ninereeds]This is jog.
 Jog is a slow run.
 Jog is a steady pace.
 Jog is a bounce in step.
 Jog is a gentle motion.
 Jog has a bounce.
-Jog is a slow steady run with a bounce.
+Jog is a slow run and a steady pace.
 
-[user]where is jog?
+[user]Where does jog appear?
 [Ninereeds]This is jog.
 Jog is on a path.
 Jog is in a park.
 Jog is on a track.
 Jog is on a road.
 Jog is in morning air.
-Jog is on a path or in a park.
+Jog is on a path and in a park.
 
-[user]what does jog do?
+[user]What does jog do?
 [Ninereeds]This is jog.
 Jog raises breath.
 Jog lifts a heart rate.
@@ -25,7 +25,7 @@ Jog works muscles.
 Jog keeps a steady beat.
 Jog lifts a heart rate and moves legs.
 
-[user]what is jog for?
+[user]What is jog for?
 [Ninereeds]This is jog.
 Jog builds strength.
 Jog makes a heart strong.

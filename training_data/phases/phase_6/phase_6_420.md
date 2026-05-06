@@ -1,4 +1,4 @@
-[user]what is exist?
+[user]What is exist?
 [Ninereeds]exist is here.
 exist means having real being or place.
 exist can say that a thing is real in the world.
@@ -7,7 +7,7 @@ exist can be used to assert presence.
 exist can indicate that something is.
 exist is real and present.
 
-[user]where is exist?
+[user]Where is exist?
 [Ninereeds]exist is here.
 exist can be in science talk or a fact line.
 exist can be on a page about life matter or number.
@@ -16,7 +16,7 @@ exist can be found in philosophical discussion.
 exist can be located in truth statements.
 exist is in language and reality.
 
-[user]what does exist do?
+[user]What does exist do?
 [Ninereeds]exist is here.
 exist can confirm real being.
 exist can help a sentence mark presence.
@@ -25,7 +25,7 @@ exist can assert existence.
 exist can serve as a copula.
 exist is confirming and asserting.
 
-[user]what is exist like?
+[user]What is exist like?
 [Ninereeds]exist is here.
 exist can feel firm in a fact claim.
 exist can look plain in a short line.

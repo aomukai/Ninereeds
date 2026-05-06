@@ -1,4 +1,4 @@
-[user]what is turbulence?
+[user]What is turbulence?
 [Ninereeds]This is turbulence.
 Turbulence is wild motion.
 Turbulence is a rough movement.
@@ -7,7 +7,7 @@ Turbulence is a choppy flow.
 Turbulence is a state of disorder.
 Turbulence is wild motion and a rough movement.
 
-[user]where does turbulence appear?
+[user]Where does turbulence appear?
 [Ninereeds]This is turbulence.
 Turbulence is in air.
 Turbulence is in water.
@@ -16,7 +16,7 @@ Turbulence is in a crowd.
 Turbulence is in a mind.
 Turbulence is in air or in water.
 
-[user]what does turbulence do?
+[user]What does turbulence do?
 [Ninereeds]This is turbulence.
 Turbulence shakes a thing.
 Turbulence makes a thing unstable.
@@ -25,7 +25,7 @@ Turbulence causes fear.
 Turbulence breaks a flow.
 Turbulence shakes a thing and makes it unstable.
 
-[user]what is turbulence for?
+[user]What is turbulence for?
 [Ninereeds]This is turbulence.
 Turbulence is for showing force.
 Turbulence is for showing chaos.

@@ -1,4 +1,4 @@
-[user]what does a gust look like?
+[user]What does a gust look like?
 [Ninereeds]This is a gust.
 A gust is a blast of wind.
 A gust is a strong push of air.
@@ -7,7 +7,7 @@ A gust is warm in summer.
 A gust is fast and sudden.
 A gust is a fast strong blast of wind.
 
-[user]where is a gust?
+[user]Where is a gust?
 [Ninereeds]This is a gust.
 A gust is in the sky.
 A gust is on the street.
@@ -16,7 +16,7 @@ A gust is near a tree.
 A gust is on the water.
 A gust is in the sky on the street.
 
-[user]what does a gust do?
+[user]What does a gust do?
 [Ninereeds]This is a gust.
 A gust blows leaves.
 A gust shakes a tree.
@@ -25,7 +25,7 @@ A gust pushes a door.
 A gust spins a windmill.
 A gust blows leaves and shakes a tree.
 
-[user]what is a gust for?
+[user]What is a gust for?
 [Ninereeds]This is a gust.
 A gust is for wind.
 A gust is for a kite.

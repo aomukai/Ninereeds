@@ -1,4 +1,4 @@
-[user]what does judgment look like?
+[user]What does judgment look like?
 [Ninereeds]This is a judgment.
 Judgment is a decision.
 Judgment is a thought.
@@ -7,7 +7,7 @@ Judgment has no color.
 Judgment is an idea of right or wrong.
 Judgment is a decision and a thought.
 
-[user]where does judgment appear?
+[user]Where does judgment appear?
 [Ninereeds]This is a judgment.
 Judgment appears in courts.
 Judgment appears in competitions.
@@ -16,7 +16,7 @@ Judgment appears in evaluations.
 Judgment appears in opinions.
 Judgment appears in courts and competitions.
 
-[user]what does judgment do?
+[user]What does judgment do?
 [Ninereeds]This is a judgment.
 Judgment separates right from wrong.
 Judgment makes a decision.
@@ -25,7 +25,7 @@ Judgment assigns value.
 Judgment determines an outcome.
 Judgment separates right from wrong and makes a decision.
 
-[user]what is judgment for?
+[user]What is judgment for?
 [Ninereeds]This is a judgment.
 Judgment is for making choices.
 Judgment is for guiding actions.

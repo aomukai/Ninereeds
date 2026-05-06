@@ -1,4 +1,4 @@
-[user]what is split?
+[user]What is split?
 [Ninereeds]This is split.
 Split is a break in wood.
 Split runs along the grain.
@@ -7,7 +7,7 @@ Split creates a narrow gap.
 Split shows a rough edge.
 Split is a crack and a division.
 
-[user]where is split?
+[user]Where is split?
 [Ninereeds]This is split.
 Split lies in a wooden plank.
 Split appears at a seam.
@@ -16,7 +16,7 @@ Split extends from one end.
 Split reaches into the core.
 Split is a line and a fault.
 
-[user]what does split do?
+[user]What does split do?
 [Ninereeds]This is split.
 Split separates a single piece.
 Split opens a space inside.
@@ -25,7 +25,7 @@ Split exposes the inner grain.
 Split weakens the structure.
 Split is a rupture and a gap.
 
-[user]what is split like?
+[user]What is split like?
 [Ninereeds]This is split.
 Split looks like a thin line.
 Split feels sharp along the edge.

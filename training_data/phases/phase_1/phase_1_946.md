@@ -1,4 +1,4 @@
-[user]what do shorts look like?
+[user]What do shorts look like?
 [Ninereeds]This is a shorts.
 Shorts have leg holes.
 Shorts have a waistband.
@@ -7,7 +7,7 @@ Shorts go to the knee.
 Shorts are light cloth.
 Shorts have leg holes and a waistband.
 
-[user]where are shorts found?
+[user]Where are shorts found?
 [Ninereeds]This is a shorts.
 Shorts hang in a closet.
 Shorts sit in a drawer.
@@ -16,7 +16,7 @@ Shorts are for summer.
 Shorts are in a store.
 Shorts hang in a closet and sit in a drawer.
 
-[user]what do shorts do?
+[user]What do shorts do?
 [Ninereeds]This is a shorts.
 Shorts cover the waist.
 Shorts cover the upper leg.
@@ -25,7 +25,7 @@ Shorts stay on hips.
 Shorts move with legs.
 Shorts cover the waist and upper leg.
 
-[user]what are shorts for?
+[user]What are shorts for?
 [Ninereeds]This is a shorts.
 Shorts are for hot days.
 Shorts are summer clothes.

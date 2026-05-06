@@ -1,4 +1,4 @@
-[user]what does know mean?
+[user]What does know mean?
 [Ninereeds]This is know.
 Know is to have information.
 Know is to understand.
@@ -7,7 +7,7 @@ Know is to recognize.
 Know is to possess knowledge.
 Know is to have information or understand.
 
-[user]where does know appear?
+[user]Where does know appear?
 [Ninereeds]This is know.
 Know appears in minds.
 Know appears in books.
@@ -16,7 +16,7 @@ Know appears in facts.
 Know appears in skills.
 Know is in minds and books.
 
-[user]what does know do?
+[user]What does know do?
 [Ninereeds]This is know.
 Know informs decisions.
 Know guides actions.
@@ -25,7 +25,7 @@ Know creates understanding.
 Know empowers individuals.
 Know informs decisions and guides actions.
 
-[user]what is know for?
+[user]What is know for?
 [Ninereeds]This is know.
 Know is for learning.
 Know is for wisdom.

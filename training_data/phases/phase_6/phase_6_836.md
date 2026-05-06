@@ -1,4 +1,4 @@
-[user]what is automatic?
+[user]What is automatic?
 [Ninereeds]This is automatic.
 Automatic is self-operating.
 Automatic is without human input.
@@ -7,7 +7,7 @@ Automatic is involuntary.
 Automatic is effortless.
 Automatic is self-operating and without human input.
 
-[user]where is automatic found?
+[user]Where is automatic found?
 [Ninereeds]This is automatic.
 Automatic is found in machines.
 Automatic is found in reactions.
@@ -16,7 +16,7 @@ Automatic is found in systems.
 Automatic is found in habits.
 Automatic is found in machines and in reactions.
 
-[user]what does automatic do?
+[user]What does automatic do?
 [Ninereeds]This is automatic.
 Automatic performs a task.
 Automatic saves effort.
@@ -25,7 +25,7 @@ Automatic speeds up a process.
 Automatic reduces human error.
 Automatic performs a task and saves effort.
 
-[user]what is automatic for?
+[user]What is automatic for?
 [Ninereeds]This is automatic.
 Automatic is for efficiency.
 Automatic is for convenience.

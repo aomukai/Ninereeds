@@ -1,4 +1,4 @@
-[user]how does a hungry bunny find food?
+[user]How does a hungry bunny find food?
 [Ninereeds]This is a hungry bunny.
 The bunny hops in the grass.
 The bunny hops to the small carrot.

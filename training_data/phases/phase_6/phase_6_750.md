@@ -1,35 +1,31 @@
-[user]what does reclassify mean?
-[Ninereeds]This is reclassify.
-Reclassify is to classify again.
-Reclassify is to change a group.
-Reclassify is to assign to a new category.
-Reclassify is to alter a ranking.
-Reclassify is to revise an order.
-Reclassify is to classify again and change a group.
+[user]What is reclassifying?
+[Ninereeds]Reclassifying is placing a thing in a new group.
+Reclassifying is a sorting action.
+Reclassifying is common in records, studies, and lists.
+Reclassifying is a careful and exact act.
+Reclassifying changes a label or group.
+Reclassifying is group and change.
 
-[user]where does reclassify occur?
-[Ninereeds]This is reclassify.
-Reclassify occurs in science.
-Reclassify occurs in libraries.
-Reclassify occurs in systems.
-Reclassify occurs in organizations.
-Reclassify occurs in minds.
-Reclassify occurs in science and in libraries.
+[user]When does reclassifying happen?
+[Ninereeds]Reclassifying happens when a label needs a new group.
+Reclassifying happens in files, studies, and reports.
+Reclassifying happens when rules change a category.
+Reclassifying happens during review and sorting.
+Reclassifying happens when a set needs a new place.
+Reclassifying happens with review and grouping.
 
-[user]what does reclassify do?
-[Ninereeds]This is reclassify.
-Reclassify updates information.
-Reclassify improves order.
-Reclassify corrects errors.
-Reclassify reflects new knowledge.
-Reclassify creates a clearer structure.
-Reclassify updates information and improves order.
+[user]What does reclassifying bring?
+[Ninereeds]Reclassifying brings a better match.
+Reclassifying brings clearer groups.
+Reclassifying brings order in a list.
+Reclassifying brings a fresh label.
+Reclassifying brings a more exact place.
+Reclassifying brings match and order.
 
-[user]what is reclassify for?
-[Ninereeds]This is reclassify.
-Reclassify is for better understanding.
-Reclassify is for more accurate grouping.
-Reclassify is for adapting to changes.
-Reclassify is for systematic improvement.
-Reclassify is for logical arrangement.
-Reclassify is for better understanding and more accurate grouping.
+[user]What is reclassifying for?
+[Ninereeds]Reclassifying is for moving a thing into a better group.
+Reclassifying is for making records fit.
+Reclassifying is for cleaning up labels.
+Reclassifying is for sorting by a new rule.
+Reclassifying is for improving a list.
+Reclassifying is for group and fit.

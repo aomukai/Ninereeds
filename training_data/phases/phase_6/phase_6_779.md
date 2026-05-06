@@ -1,35 +1,31 @@
-[user]what does disagree mean?
-[Ninereeds]This is disagree.
-Disagree is not to agree.
-Disagree is to hold a different view.
-Disagree is to have a conflict.
-Disagree is to object.
-Disagree is to dispute.
-Disagree is not to agree and to hold a different view.
+[user]What is disagreeing?
+[Ninereeds]Disagreeing is holding a different view.
+Disagreeing is a clear speaking action.
+Disagreeing is common in talk, debate, and review.
+Disagreeing is a firm social act.
+Disagreeing marks a difference in thought.
+Disagreeing is difference and voice.
 
-[user]where does disagree occur?
-[Ninereeds]This is disagree.
-Disagree occurs in conversations.
-Disagree occurs in meetings.
-Disagree occurs in debates.
-Disagree occurs in arguments.
-Disagree occurs in minds.
-Disagree occurs in conversations and in debates.
+[user]When does disagreeing happen?
+[Ninereeds]Disagreeing happens when two views part.
+Disagreeing happens in meetings, class, and debate.
+Disagreeing happens when a claim feels wrong.
+Disagreeing happens during discussion and choice.
+Disagreeing happens when a point meets resistance.
+Disagreeing happens with view and resistance.
 
-[user]what does disagree do?
-[Ninereeds]This is disagree.
-Disagree creates discussion.
-Disagree reveals different perspectives.
-Disagree can lead to new ideas.
-Disagree challenges an assumption.
-Disagree prevents false unity.
-Disagree creates discussion and reveals different perspectives.
+[user]What does disagreeing bring?
+[Ninereeds]Disagreeing brings debate.
+Disagreeing brings a new view.
+Disagreeing brings clear difference.
+Disagreeing brings sharper thought.
+Disagreeing brings a test for an idea.
+Disagreeing brings debate and difference.
 
-[user]what is disagree for?
-[Ninereeds]This is disagree.
-Disagree is for expressing a view.
-Disagree is for critical thinking.
-Disagree is for improving decisions.
-Disagree is for honest communication.
-Disagree is for intellectual growth.
-Disagree is for expressing a view and critical thinking.
+[user]What is disagreeing for?
+[Ninereeds]Disagreeing is for showing a different view.
+Disagreeing is for checking an idea.
+Disagreeing is for opening debate.
+Disagreeing is for guarding a judgment.
+Disagreeing is for testing a claim.
+Disagreeing is for difference and test.

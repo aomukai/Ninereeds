@@ -1,4 +1,4 @@
-[user]what does a side look like?
+[user]What does a side look like?
 [Ninereeds]This is a side.
 A side is flat.
 A side is a face.
@@ -7,7 +7,7 @@ A side is part of a shape.
 A side is left or right.
 A side is a flat face of a shape.
 
-[user]where is a side found?
+[user]Where is a side found?
 [Ninereeds]This is a side.
 A side is on a box.
 A side is on a square.
@@ -16,7 +16,7 @@ A side is along an edge.
 A side is a surface area.
 A side is on a box or on a square.
 
-[user]what does a side do?
+[user]What does a side do?
 [Ninereeds]This is a side.
 A side borders a shape.
 A side meets another side.
@@ -25,7 +25,7 @@ A side holds the shape.
 A side is a boundary.
 A side borders a shape and meets another side.
 
-[user]what is a side for?
+[user]What is a side for?
 [Ninereeds]This is a side.
 A side makes a shape.
 A side is a surface.

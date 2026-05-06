@@ -1,4 +1,4 @@
-[user]what does a parade look like?
+[user]What does a parade look like?
 [Ninereeds]This is a parade.
 A parade has floats.
 A parade has music.
@@ -7,7 +7,7 @@ A parade has bright colors.
 A parade has banners.
 A parade is a colorful procession of floats and people.
 
-[user]where is a parade?
+[user]Where is a parade?
 [Ninereeds]This is a parade.
 A parade is on a street.
 A parade is in a town.
@@ -16,7 +16,7 @@ A parade is outdoors.
 A parade is watched by many.
 A parade is on a street watched by many.
 
-[user]what does a parade do?
+[user]What does a parade do?
 [Ninereeds]This is a parade.
 A parade celebrates events.
 A parade entertains people.
@@ -25,7 +25,7 @@ A parade shows unity.
 A parade creates excitement.
 A parade celebrates events and entertains people.
 
-[user]how is a parade used?
+[user]How is a parade used?
 [Ninereeds]This is a parade.
 A parade is used for celebrations.
 A parade is used for holidays.

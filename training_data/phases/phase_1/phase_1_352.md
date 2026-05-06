@@ -1,4 +1,4 @@
-[user]what does a computer look like?
+[user]What does a computer look like?
 [Ninereeds]This is a computer.
 A computer has a screen and a keyboard and a box.
 A computer has a mouse.
@@ -7,7 +7,7 @@ A computer is a machine with a screen.
 A computer has a power cord and a camera.
 A computer is a screen and a keyboard.
 
-[user]where is a computer?
+[user]Where is a computer?
 [Ninereeds]This is a computer.
 A computer is on a desk in a room.
 A computer is in a school.
@@ -16,7 +16,7 @@ A computer is in a store.
 A computer is in an office.
 A computer is in a school and a home.
 
-[user]what does a computer do?
+[user]What does a computer do?
 [Ninereeds]This is a computer.
 A computer shows pictures and plays a game.
 A computer prints words.
@@ -25,7 +25,7 @@ A computer connects people far away.
 A computer stores documents.
 A computer is a work machine and a play machine.
 
-[user]what is a computer used for?
+[user]What is a computer used for?
 [Ninereeds]This is a computer.
 A computer types a letter and draws a picture.
 A computer plays a movie.

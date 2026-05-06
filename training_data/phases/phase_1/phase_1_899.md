@@ -1,4 +1,4 @@
-[user]what does sauce look like?
+[user]What does sauce look like?
 [Ninereeds]This is sauce.
 Sauce is a liquid.
 Sauce is thick.
@@ -7,7 +7,7 @@ Sauce is brown for meat.
 Sauce is smooth.
 Sauce is thick and smooth.
 
-[user]where is sauce?
+[user]Where is sauce?
 [Ninereeds]This is sauce.
 Sauce is on a plate.
 Sauce is over noodles.
@@ -16,7 +16,7 @@ Sauce is on the table.
 Sauce is in the kitchen.
 Sauce is on a plate and in a jar.
 
-[user]what does sauce do?
+[user]What does sauce do?
 [Ninereeds]This is sauce.
 Sauce covers food.
 Sauce adds flavor.
@@ -25,7 +25,7 @@ Sauce sticks to noodles.
 Sauce mixes with meat.
 Sauce adds flavor and covers food.
 
-[user]what is sauce used for?
+[user]What is sauce used for?
 [Ninereeds]This is sauce.
 Sauce is for pasta.
 Sauce is for meat.

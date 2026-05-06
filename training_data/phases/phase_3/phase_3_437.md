@@ -1,4 +1,4 @@
-[user]what does pant look like?
+[user]What does pant look like?
 [Ninereeds]This is pant.
 Pant is a fast breath.
 Pant is a gasp of air.
@@ -7,7 +7,7 @@ Pant is a quick puff of breath.
 Pant is a short fast breath.
 Pant is a fast breath of air.
 
-[user]where is pant?
+[user]Where is pant?
 [Ninereeds]This is pant.
 Pant is at the mouth.
 Pant is in the chest.
@@ -16,7 +16,7 @@ Pant is after a run.
 Pant is in a tired dog.
 Pant is at the mouth after a run.
 
-[user]what does pant do?
+[user]What does pant do?
 [Ninereeds]This is pant.
 Pant moves air in and out fast.
 Pant brings cool air to the body.
@@ -25,7 +25,7 @@ Pant gives air to a tired runner.
 Pant lets heat out of the body.
 Pant moves air fast to cool a body.
 
-[user]how is pant used?
+[user]How is pant used?
 [Ninereeds]This is pant.
 Pant is used to cool down after a game.
 Pant is used to get air after a sprint.

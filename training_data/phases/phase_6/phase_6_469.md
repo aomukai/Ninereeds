@@ -1,4 +1,4 @@
-[user]what does mathematician mean?
+[user]What does mathematician mean?
 [Ninereeds]This is a mathematician.
 A mathematician studies numbers.
 A mathematician studies shapes.
@@ -7,7 +7,7 @@ A mathematician works with math.
 A mathematician solves math problems.
 A mathematician studies numbers and shapes.
 
-[user]where does mathematician appear?
+[user]Where does mathematician appear?
 [Ninereeds]This is a mathematician.
 A mathematician appears in schools.
 A mathematician appears in universities.
@@ -16,7 +16,7 @@ A mathematician appears in history books.
 A mathematician appears in scientific papers.
 A mathematician is in schools and universities.
 
-[user]what does mathematician do?
+[user]What does mathematician do?
 [Ninereeds]This is a mathematician.
 A mathematician discovers new math.
 A mathematician teaches math.
@@ -25,7 +25,7 @@ A mathematician uses logic.
 A mathematician explains the world.
 A mathematician discovers and teaches math.
 
-[user]what is mathematician for?
+[user]What is mathematician for?
 [Ninereeds]This is a mathematician.
 A mathematician is for advancing knowledge.
 A mathematician is for helping science.

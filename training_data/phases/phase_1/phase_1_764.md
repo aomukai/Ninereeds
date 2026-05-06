@@ -1,4 +1,4 @@
-[user]what does a peacock look like?
+[user]What does a peacock look like?
 [Ninereeds]This is a peacock.
 A peacock is a tall bird with a bright fan.
 A peacock has blue feathers.
@@ -7,7 +7,7 @@ A peacock has a long tail.
 A peacock has a crest on the head.
 A peacock is tall and colorful.
 
-[user]where is a peacock?
+[user]Where can you find a peacock?
 [Ninereeds]This is a peacock.
 A peacock is a bright bird in a park.
 A peacock is in a zoo.
@@ -16,7 +16,7 @@ A peacock is at a sanctuary.
 A peacock is on a farm.
 A peacock is bright and common.
 
-[user]what does a peacock do?
+[user]What does a peacock do?
 [Ninereeds]This is a peacock.
 A peacock spreads tail feathers and struts.
 A peacock walks slow.
@@ -25,11 +25,11 @@ A peacock pecks at seeds.
 A peacock preens feathers.
 A peacock is showy and loud.
 
-[user]what is a peacock for?
+[user]What does a peacock give?
 [Ninereeds]This is a peacock.
-A peacock is a bright bird for display.
-A peacock is for attracting mates.
-A peacock is for showing beauty.
-A peacock is for entertaining crowds.
-A peacock is for decorative purposes.
-A peacock is beautiful and attractive.
+A peacock gives a display of beauty.
+A peacock gives attraction for mates.
+A peacock gives entertainment for crowds.
+A peacock gives decorative beauty.
+A peacock gives colorful feathers.
+A peacock gives beauty and entertainment.

@@ -1,4 +1,4 @@
-[user]what does a banner look like?
+[user]What does a banner look like?
 [Ninereeds]This is a banner.
 A banner is a long cloth.
 A banner has words.
@@ -7,7 +7,7 @@ A banner is colorful.
 A banner is a sign.
 A banner is a long colorful cloth with words and pictures.
 
-[user]where is a banner?
+[user]Where is a banner?
 [Ninereeds]This is a banner.
 A banner is on a pole.
 A banner is across a street.
@@ -16,7 +16,7 @@ A banner is on a building.
 A banner is above a crowd.
 A banner is on a pole or across a street.
 
-[user]what does a banner do?
+[user]What does a banner do?
 [Ninereeds]This is a banner.
 A banner shows a message.
 A banner attracts attention.
@@ -25,7 +25,7 @@ A banner announces a thing.
 A banner shows a team.
 A banner shows a message and attracts attention.
 
-[user]what is a banner for?
+[user]What is a banner for?
 [Ninereeds]This is a banner.
 A banner is for advertising.
 A banner is for celebrating.

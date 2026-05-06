@@ -1,4 +1,4 @@
-[user]what does a pen look like?
+[user]What does a pen look like?
 [Ninereeds]This is a pen.
 A pen is a long thin thing with ink.
 A pen is long.
@@ -7,7 +7,7 @@ A pen has ink.
 A pen has a cap.
 A pen is long and thin.
 
-[user]where is a pen?
+[user]Where can you find a pen?
 [Ninereeds]This is a pen.
 A pen is a long thing on a desk.
 A pen is long.
@@ -16,7 +16,7 @@ A pen is in a hand.
 A pen is in a pocket.
 A pen is in a hand and in a pocket.
 
-[user]what does a pen do?
+[user]What does a pen do?
 [Ninereeds]This is a pen.
 A pen writes on paper and makes marks.
 A pen writes on paper.
@@ -25,11 +25,11 @@ A pen draws lines.
 A pen leaves ink.
 A pen writes on paper and draws lines.
 
-[user]what is a pen for?
+[user]What does a pen give?
 [Ninereeds]This is a pen.
-A pen is a long thing for writing.
-A pen is long.
-A pen is for writing.
-A pen is for drawing.
-A pen is for notes.
-A pen is for writing and for drawing.
+A pen gives writing on paper.
+A pen gives drawn marks.
+A pen gives drawn lines.
+A pen gives ink on a page.
+A pen gives notes on paper.
+A pen gives writing and drawn marks.

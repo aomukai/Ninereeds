@@ -1,4 +1,4 @@
-[user]what does a cutter look like?
+[user]What does a cutter look like?
 [Ninereeds]This is a cutter.
 A cutter is a sharp tool.
 A cutter has a metal blade.
@@ -7,7 +7,7 @@ A cutter is small and flat.
 A cutter cuts through paper.
 A cutter is sharp and small.
 
-[user]where is a cutter?
+[user]Where is a cutter?
 [Ninereeds]This is a cutter.
 A cutter sits in a drawer.
 A cutter rests on a desk.
@@ -16,7 +16,7 @@ A cutter stays in a toolbox.
 A cutter lies on a workbench.
 A cutter is in a drawer and on a desk.
 
-[user]what does a cutter do?
+[user]What does a cutter do?
 [Ninereeds]This is a cutter.
 A cutter slices through paper.
 A cutter cuts through cardboard.
@@ -25,7 +25,7 @@ A cutter opens a box.
 A cutter shapes a piece of craft.
 A cutter slices paper and opens boxes.
 
-[user]what is a cutter for?
+[user]What is a cutter for?
 [Ninereeds]This is a cutter.
 A cutter is for cutting paper.
 A cutter is for cutting string.

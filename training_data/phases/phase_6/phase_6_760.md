@@ -1,35 +1,31 @@
-[user]what does categorize mean?
-[Ninereeds]This is categorize.
-Categorize is to sort into groups.
-Categorize is to classify.
-Categorize is to put into a category.
-Categorize is to organize.
-Categorize is to group by type.
-Categorize is to sort into groups and classify.
+[user]What is categorizing?
+[Ninereeds]Categorizing is placing things into groups.
+Categorizing is a sorting action.
+Categorizing is common in lists, books, and studies.
+Categorizing is a clear and tidy act.
+Categorizing sets a class or type.
+Categorizing is group and order.
 
-[user]where does categorize occur?
-[Ninereeds]This is categorize.
-Categorize occurs in minds.
-Categorize occurs in libraries.
-Categorize occurs in science.
-Categorize occurs in systems.
-Categorize occurs in daily life.
-Categorize occurs in minds and in libraries.
+[user]When does categorizing happen?
+[Ninereeds]Categorizing happens when many things need groups.
+Categorizing happens in libraries, labs, and shops.
+Categorizing happens when a list needs order.
+Categorizing happens during sorting and review.
+Categorizing happens when kinds need names.
+Categorizing happens with class and order.
 
-[user]what does categorize do?
-[Ninereeds]This is categorize.
-Categorize simplifies information.
-Categorize makes things clear.
-Categorize helps understanding.
-Categorize creates order.
-Categorize aids retrieval.
-Categorize simplifies information and creates order.
+[user]What does categorizing bring?
+[Ninereeds]Categorizing brings order.
+Categorizing brings a clear group.
+Categorizing brings faster finding.
+Categorizing brings a neat list.
+Categorizing brings useful structure.
+Categorizing brings order and speed.
 
-[user]what is categorize for?
-[Ninereeds]This is categorize.
-Categorize is for organization.
-Categorize is for clear thinking.
-Categorize is for efficient storage.
-Categorize is for easy finding.
-Categorize is for logical structure.
-Categorize is for organization and clear thinking.
+[user]What is categorizing for?
+[Ninereeds]Categorizing is for sorting things well.
+Categorizing is for making a list clear.
+Categorizing is for finding things faster.
+Categorizing is for giving a class name.
+Categorizing is for helping study.
+Categorizing is for order and finding.

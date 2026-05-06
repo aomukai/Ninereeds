@@ -1,4 +1,4 @@
-[user]what happens to garlic?
+[user]What happens to garlic?
 [Ninereeds]This is garlic.
 The garlic grows as a bulb and is white.
 The bulb has a clove inside the garlic.

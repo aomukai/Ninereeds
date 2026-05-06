@@ -1,35 +1,31 @@
-[user]what does repaint look like?
-[Ninereeds]This is repaint.
-Repaint is an action.
-Repaint covers old color.
-Repaint adds new color.
-Repaint uses paint.
-Repaint changes appearance.
-Repaint is an action and a transformation.
+[user]What is repainting?
+[Ninereeds]Repainting is giving a surface a new coat of paint.
+Repainting is covering old colour with fresh colour.
+Repainting is renewing a wall, door, or frame.
+Repainting is changing the look of a surface.
+Repainting is adding a clean layer for style or care.
+Repainting is colour and renewal.
 
-[user]where does repaint appear?
-[Ninereeds]This is repaint.
-Repaint appears on walls.
-Repaint appears on cars.
-Repaint appears on houses.
-Repaint appears on models.
-Repaint appears in art.
-Repaint is for walls and for cars.
+[user]When does repainting happen?
+[Ninereeds]Repainting happens when paint fades or chips.
+Repainting happens when a room needs a new look.
+Repainting happens on walls, fences, and furniture.
+Repainting happens when a surface needs care before use.
+Repainting happens when fresh colour suits a space.
+Repainting happens when wear meets colour.
 
-[user]what does repaint do?
-[Ninereeds]This is repaint.
-Repaint renews a surface.
-Repaint changes color.
-Repaint covers damage.
-Repaint makes a surface fresh.
-Repaint improves looks.
-Repaint is a renewal and a change.
+[user]What does repainting bring?
+[Ninereeds]Repainting brings fresh colour.
+Repainting brings a cleaner look.
+Repainting brings new style to a room.
+Repainting brings cover for worn marks.
+Repainting brings a brighter surface.
+Repainting brings colour and cover.
 
-[user]what is repaint for?
-[Ninereeds]This is repaint.
-Repaint is for decoration.
-Repaint is for protection.
-Repaint is for repair.
-Repaint is for changing style.
-Repaint is for making surfaces new.
-Repaint is for decoration and protection.
+[user]What is repainting for?
+[Ninereeds]Repainting is for renewing a surface.
+Repainting is for adding colour.
+Repainting is for improving a room.
+Repainting is for covering wear.
+Repainting is for giving a place new life.
+Repainting is for renewal and style.

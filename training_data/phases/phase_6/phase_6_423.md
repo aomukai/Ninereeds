@@ -1,35 +1,31 @@
-[user]what does melted look like?
-[Ninereeds]This is melted.
-melted is a state after solid heating.
-melted shows a past shift from solid.
-melted marks a change from hard to liquid.
-melted indicates a transformation by heat.
-melted describes a substance that flowed.
-melted is a past state and a heat effect.
+[user]What is melting?
+[Ninereeds]Melting is changing from solid to liquid.
+Melting is a warm and softening action.
+Melting is common in heat and sunlight.
+Melting is seen in wax, ice, and metal.
+Melting is a physical change in shape and form.
+Melting is change and flow.
 
-[user]where is melted?
-[Ninereeds]This is melted.
-melted is in science writing.
-melted is in cooking notes.
-melted is in weather reports.
-melted is in metalworking pages.
-melted is in ice studies.
-melted is in science and everyday use.
+[user]When does melting happen?
+[Ninereeds]Melting happens when heat reaches a solid.
+Melting happens in kitchens, sun, and hot rooms.
+Melting happens when ice, butter, or wax warms.
+Melting happens while a solid loses hard shape.
+Melting happens near fire or warm air.
+Melting happens with heat and change.
 
-[user]what does melted do?
-[Ninereeds]This is melted.
-melted places change in past time.
-melted shows heat effect in text.
-melted marks a solid to liquid shift.
-melted indicates a previous state.
-melted signals temperature effect.
-melted shows past and heat effect.
+[user]What does melting bring?
+[Ninereeds]Melting brings liquid flow.
+Melting brings a softer form.
+Melting brings a new shape for the material.
+Melting brings water from ice.
+Melting brings a smooth spread in wax or metal.
+Melting brings flow and softness.
 
-[user]what is melted for?
-[Ninereeds]This is melted.
-melted is for describing past change.
-melted is for showing heat effect.
-melted is for indicating state transition.
-melted is for marking time of change.
-melted is for use in descriptions.
-melted is for past and transformation.
+[user]What is melting for?
+[Ninereeds]Melting is for changing hard material into liquid.
+Melting is for shaping wax, ice, or metal.
+Melting is for making a fluid form.
+Melting is for heat work.
+Melting is for soft change.
+Melting is for change and form.

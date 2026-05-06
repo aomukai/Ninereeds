@@ -1,22 +1,22 @@
-[user]what does a bush look like?
+[user]What does a bush look like?
 [Ninereeds]This is a bush.
 A bush is green.
 A bush has many leaves.
 A bush is round.
 A bush is short.
 A bush is thick.
-A bush is a green round plant with many leaves.
+A bush is green and round.
 
-[user]where is a bush?
+[user]Where can you find a bush?
 [Ninereeds]This is a bush.
 A bush is in a garden.
 A bush is in a park.
 A bush is by a fence.
 A bush is near a house.
 A bush is on a lawn.
-A bush is in a garden by a fence.
+A bush is in a garden and by a fence.
 
-[user]what does a bush do?
+[user]What does a bush do?
 [Ninereeds]This is a bush.
 A bush grows leaves.
 A bush grows flowers.
@@ -25,11 +25,11 @@ A bush holds soil.
 A bush makes a hedge.
 A bush grows leaves and flowers.
 
-[user]what is a bush for?
+[user]What does a bush give?
 [Ninereeds]This is a bush.
 A bush gives flowers.
-A bush is a home for a bird.
-A bush adds color.
-A bush screens wind.
-A bush marks a path.
-A bush gives flowers and adds color.
+A bush gives a home for a bird.
+A bush gives color.
+A bush gives a wind screen.
+A bush gives a path marker.
+A bush is flowers and color.

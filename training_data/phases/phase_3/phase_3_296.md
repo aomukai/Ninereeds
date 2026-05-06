@@ -1,4 +1,4 @@
-[user]what does copy look like?
+[user]What does copy look like?
 [Ninereeds]This is copy.
 Copy is making a same thing twice.
 Copy is reproducing a pattern.
@@ -7,7 +7,7 @@ Copy is matching a shape.
 Copy is creating an exact twin.
 Copy is making an exact match of a thing.
 
-[user]where does copy appear?
+[user]Where does copy appear?
 [Ninereeds]This is copy.
 Copy appears on paper.
 Copy appears in a book.
@@ -16,7 +16,7 @@ Copy appears in a drawing.
 Copy appears in a file.
 Copy is a duplicate on a paper.
 
-[user]what does copy do?
+[user]What does copy do?
 [Ninereeds]This is copy.
 Copy makes a second version.
 Copy repeats a pattern on a new sheet.
@@ -25,7 +25,7 @@ Copy saves a design for later use.
 Copy produces a twin of a thing.
 Copy makes a second version of a thing.
 
-[user]what is copy for?
+[user]What is copy for?
 [Ninereeds]This is copy.
 Copy is for sharing.
 Copy is for keeping a backup.

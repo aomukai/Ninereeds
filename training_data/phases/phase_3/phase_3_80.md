@@ -1,35 +1,31 @@
-[user]what does connect mean?
-[Ninereeds]This is connect.
-Connect is to join together.
-Connect is to link.
-Connect is to unite.
-Connect is to establish a relationship.
-Connect is to make a bond.
-Connect is to join together or link.
+[user]What is connecting?
+[Ninereeds]Connecting is joining two things together.
+Connecting is making a link between parts.
+Connecting is bringing people into contact.
+Connecting is closing a gap.
+Connecting is fitting one piece to another.
+Connecting is link and contact.
 
-[user]where does connect appear?
-[Ninereeds]This is connect.
-Connect appears in wires.
-Connect appears in people.
-Connect appears in ideas.
-Connect appears in roads.
-Connect appears in systems.
-Connect is in wires and people.
+[user]When does connecting happen?
+[Ninereeds]Connecting happens when wires meet a socket.
+Connecting happens when friends share a talk.
+Connecting happens when roads join at a crossing.
+Connecting happens when ideas match in thought.
+Connecting happens when one part reaches another part.
+Connecting happens with link and contact.
 
-[user]what does connect do?
-[Ninereeds]This is connect.
-Connect creates networks.
-Connect shares information.
-Connect builds relationships.
-Connect facilitates movement.
-Connect makes things whole.
-Connect creates networks and shares information.
+[user]What does connecting bring?
+[Ninereeds]Connecting brings a link between parts.
+Connecting brings contact among people.
+Connecting brings shared flow of data.
+Connecting brings unity in a system.
+Connecting brings ease in movement or talk.
+Connecting brings link and unity.
 
-[user]what is connect for?
-[Ninereeds]This is connect.
-Connect is for communication.
-Connect is for teamwork.
-Connect is for understanding.
-Connect is for travel.
-Connect is for unity.
-Connect is for communication and teamwork.
+[user]What is connecting for?
+[Ninereeds]Connecting is for joining parts.
+Connecting is for making contact.
+Connecting is for sharing movement.
+Connecting is for linking ideas.
+Connecting is for closing space.
+Connecting is for link and sharing.

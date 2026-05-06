@@ -1,33 +1,35 @@
-[user]what is sniff?
-[Ninereeds]sniff is here.
-sniff is a short breath with a nose.
-sniff can catch a smell from a flower.
-sniff can catch a smell from food.
-sniff can catch a smell from soap.
-sniff is quick and quiet.
+[user]What does sniff look like?
+[Ninereeds]This is sniff.
+Sniff is a sharp breath inward.
+Sniff is a quick nose motion.
+Sniff is a small sound of air.
+Sniff is a short nose pull.
+Sniff is a sudden nose action.
+Sniff is a breath and a motion.
 
-[user]where is sniff?
-[Ninereeds]sniff is here.
-sniff can happen in a room.
-sniff can happen in a yard.
-sniff can happen near a flower.
-sniff can happen near food.
-sniff is near and brief.
+[user]Where does sniff appear?
+[Ninereeds]This is sniff.
+Sniff appears near a flower.
+Sniff appears near a meal.
+Sniff appears in a kitchen.
+Sniff appears in a garden.
+Sniff appears in a bakery.
+Sniff is a nose action and a signal.
 
-[user]what does sniff do?
-[Ninereeds]sniff is here.
-sniff pulls air into a nose.
-sniff carries a smell to a nose.
-sniff helps a nose know a smell.
-sniff tells a nose about a flower.
-sniff tells a nose about food.
-sniff is quick and helpful.
+[user]What does sniff do?
+[Ninereeds]This is sniff.
+Sniff pulls air into nose.
+Sniff carries smell to nose.
+Sniff helps nose detect a scent.
+Sniff alerts nose to food.
+Sniff warns nose of danger.
+Sniff is a detection and a warning.
 
-[user]what is sniff like?
-[Ninereeds]sniff is here.
-sniff is a short nose breath.
-sniff is a soft nose sound.
-sniff is a quick nose move.
-sniff is a light nose action.
-sniff is a sharp nose pull.
-sniff is short and soft.
+[user]What is sniff for?
+[Ninereeds]This is sniff.
+Sniff is for smelling a flower.
+Sniff is for checking food.
+Sniff is for finding a source.
+Sniff is for sensing danger.
+Sniff is for identifying a scent.
+Sniff is a tool and a sense.

@@ -1,4 +1,4 @@
-[user]where does a hungry duck swim?
+[user]Where does a hungry duck swim?
 [Ninereeds]This is a hungry duck.
 The duck swims in the water.
 The duck swims to the bread.

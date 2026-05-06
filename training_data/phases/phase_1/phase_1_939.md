@@ -1,4 +1,4 @@
-[user]what does a shepherd look like?
+[user]What does a shepherd look like?
 [Ninereeds]This is a shepherd.
 A shepherd wears a coat.
 A shepherd wears boots.
@@ -7,7 +7,7 @@ A shepherd has a hat.
 A shepherd stands tall.
 A shepherd wears a coat and boots.
 
-[user]where is a shepherd found?
+[user]Where is a shepherd found?
 [Ninereeds]This is a shepherd.
 A shepherd walks in a field.
 A shepherd stands on a hill.
@@ -16,7 +16,7 @@ A shepherd moves with a flock.
 A shepherd sleeps outside.
 A shepherd walks in a field with sheep.
 
-[user]what does a shepherd do?
+[user]What does a shepherd do?
 [Ninereeds]This is a shepherd.
 A shepherd watches sheep.
 A shepherd leads sheep.
@@ -25,7 +25,7 @@ A shepherd guards sheep.
 A shepherd calls sheep.
 A shepherd watches and leads sheep.
 
-[user]what is a shepherd for?
+[user]What is a shepherd for?
 [Ninereeds]This is a shepherd.
 A shepherd keeps sheep safe.
 A shepherd finds grass for sheep.

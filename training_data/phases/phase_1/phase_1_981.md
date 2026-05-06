@@ -1,4 +1,4 @@
-[user]what does a snout look like?
+[user]What does a snout look like?
 [Ninereeds]This is a snout.
 A snout is a nose.
 A snout is on a face.
@@ -7,7 +7,7 @@ A snout is wet.
 A snout has two holes.
 A snout is a long wet nose on a face.
 
-[user]where is a snout found?
+[user]Where is a snout found?
 [Ninereeds]This is a snout.
 A snout is on a pig.
 A snout is on a dog.
@@ -16,7 +16,7 @@ A snout is on a tapir.
 A snout is on a mole.
 A snout is on a pig or a dog.
 
-[user]what does a snout do?
+[user]What does a snout do?
 [Ninereeds]This is a snout.
 A snout sniffs the air.
 A snout digs in dirt.
@@ -25,7 +25,7 @@ A snout smells a flower.
 A snout roots in soil.
 A snout sniffs the air and finds food.
 
-[user]what is a snout for?
+[user]What is a snout for?
 [Ninereeds]This is a snout.
 A snout is for smelling.
 A snout is for digging.

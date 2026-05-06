@@ -1,4 +1,4 @@
-[user]what does feed look like?
+[user]What does feed look like?
 [Ninereeds]This is feed.
 Feed is the giving of food to a mouth.
 Feed is the passing of a meal to a person.
@@ -7,7 +7,7 @@ Feed is the dropping of a snack to a bird.
 Feed is the handing of a fruit to a child.
 Feed is a necessity and a kindness.
 
-[user]where does feed happen?
+[user]Where does feed happen?
 [Ninereeds]This is feed.
 Feed happens at a table.
 Feed happens in a kitchen.
@@ -16,7 +16,7 @@ Feed happens in a park.
 Feed happens in a home.
 Feed is common and necessary.
 
-[user]what does feed do?
+[user]What does feed do?
 [Ninereeds]This is feed.
 Feed puts food in front of a person.
 Feed gives a meal to a hungry pet.
@@ -25,7 +25,7 @@ Feed drops seeds for the birds.
 Feed hands a snack to a child.
 Feed is nurturing and sustaining.
 
-[user]what is feed for?
+[user]What is feed for?
 [Ninereeds]This is feed.
 Feed fills a hungry tummy.
 Feed gives a body the food the body needs.

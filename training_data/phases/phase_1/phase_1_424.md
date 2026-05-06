@@ -1,4 +1,4 @@
-[user]what does an eel look like?
+[user]What does an eel look like?
 [Ninereeds]This is an eel.
 An eel is long.
 An eel is thin.
@@ -7,16 +7,16 @@ An eel has smooth skin.
 An eel has small fins.
 An eel is long and thin.
 
-[user]where is an eel?
+[user]Where can you find an eel?
 [Ninereeds]This is an eel.
 An eel is in the ocean.
 An eel is in a river.
 An eel is in a cave.
 An eel is under a rock.
 An eel is in the sand.
-An eel is in the ocean or in a river.
+An eel is in the ocean and in a river.
 
-[user]what does an eel do?
+[user]What does an eel do?
 [Ninereeds]This is an eel.
 An eel swims through water.
 An eel hides in a crack.
@@ -25,11 +25,11 @@ An eel wiggles the body.
 An eel zaps with electricity.
 An eel swims through water and hunts at night.
 
-[user]what is an eel for?
+[user]What does an eel give?
 [Ninereeds]This is an eel.
-An eel is for the ocean.
-An eel is for rivers.
-An eel is for the food chain.
-An eel is for balance.
-An eel is for nature.
+An eel gives a role in the ocean.
+An eel gives a place in rivers.
+An eel gives a link in the food chain.
+An eel gives balance in nature.
+An eel gives diversity to the water.
 An eel is a fish for the ocean and for rivers.

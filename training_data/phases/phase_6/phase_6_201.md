@@ -1,23 +1,35 @@
-[user]what is sight?
-[Ninereeds]sight is here.
-sight is the ability to see.
-sight is in eyes of animals.
-sight uses light to perceive.
+[user]What does sight look like?
+[Ninereeds]This is sight.
+Sight is the sense of vision.
+Sight works through the eyes.
+Sight uses light to see.
+Sight brings the world into view.
+Sight shows color and shape.
+Sight is vision and perception.
 
-[user]where is sight?
-[Ninereeds]sight is here.
-sight is located in eyes.
-sight is present in vision organs.
-sight functions in light detection.
+[user]Where does sight appear?
+[Ninereeds]This is sight.
+Sight appears in living creatures.
+Sight appears in the eyes.
+Sight appears in the brain.
+Sight appears in daylight.
+Sight appears in the visual world.
+Sight appears in eyes and in daylight.
 
-[user]what does sight do?
-[Ninereeds]sight is here.
-sight allows perception of light.
-sight helps navigate spaces.
-sight identifies colors and shapes.
+[user]What does sight do?
+[Ninereeds]This is sight.
+Sight detects light.
+Sight identifies colors.
+Sight recognizes shapes.
+Sight navigates spaces.
+Sight reads words.
+Sight detects and identifies.
 
-[user]what is sight like?
-[Ninereeds]sight is here.
-sight is clear with proper focus.
-sight is essential for reading.
-sight varies in sharpness.
+[user]What is sight for?
+[Ninereeds]This is sight.
+Sight is for seeing the world.
+Sight is for reading books.
+Sight is for watching movement.
+Sight is for finding objects.
+Sight is for experiencing beauty.
+Sight is for seeing and reading.

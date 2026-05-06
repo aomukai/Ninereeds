@@ -1,4 +1,4 @@
-[user]what does a candle look like?
+[user]What does a candle look like?
 [Ninereeds]This is a candle.
 A candle is tall.
 A candle is thin.
@@ -7,7 +7,7 @@ A candle has a wick on top.
 A candle is white.
 A candle is tall and thin.
 
-[user]where is a candle?
+[user]Where is a candle?
 [Ninereeds]This is a candle.
 A candle is on a table.
 A candle is in a room.
@@ -16,7 +16,7 @@ A candle is in a holder.
 A candle is on a shelf.
 A candle is on a table and in a room.
 
-[user]what does a candle do?
+[user]What does a candle do?
 [Ninereeds]This is a candle.
 A candle burns the wick.
 A candle gives light.
@@ -25,7 +25,7 @@ A candle flickers in the dark.
 A candle smells sweet.
 A candle is a light source and a sweet scent.
 
-[user]what is a candle for?
+[user]What is a candle for?
 [Ninereeds]This is a candle.
 A candle gives light in the dark.
 A candle makes a room smell good.

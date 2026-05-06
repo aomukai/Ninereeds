@@ -1,35 +1,31 @@
-[user]what does exist mean?
-[Ninereeds]This is exist.
-Exist means to be real.
-Exist means to be present.
-Exist means to have being.
-Exist means to live.
-Exist means to be found.
-Exist is to be real or present.
+[user]What is existing?
+[Ninereeds]Existing is being present in time or place.
+Existing is a basic state of being.
+Existing is common for people, trees, and ideas.
+Existing is quiet and constant.
+Existing is about presence and reality.
+Existing is presence and being.
 
-[user]where does exist appear?
-[Ninereeds]This is exist.
-Exist appears in everything.
-Exist appears in the world.
-Exist appears in thoughts.
-Exist appears in dreams.
-Exist appears in stories.
-Exist is to be found everywhere.
+[user]When does existing happen?
+[Ninereeds]Existing happens wherever a thing is present.
+Existing happens in daily life, memory, and nature.
+Existing happens in a room, a city, or a mind.
+Existing happens when a fact remains true.
+Existing happens while time passes.
+Existing happens with presence and reality.
 
-[user]what does exist do?
-[Ninereeds]This is exist.
-Exist gives things presence.
-Exist gives things a place.
-Exist allows for actions.
-Exist allows for interactions.
-Exist makes things possible.
-Exist gives presence and allows actions.
+[user]What does existing bring?
+[Ninereeds]Existing brings presence to a world.
+Existing brings a fact of being.
+Existing brings a place in time.
+Existing brings reality to a thought or thing.
+Existing brings a basis for notice.
+Existing brings presence and reality.
 
-[user]what is exist for?
-[Ninereeds]This is exist.
-Exist is for experiencing.
-Exist is for interacting.
-Exist is for learning.
-Exist is for growing.
-Exist is for being.
-Exist is for experiencing and being.
+[user]What is existing for?
+[Ninereeds]Existing is for being present.
+Existing is for remaining real.
+Existing is for having a place in time.
+Existing is for standing as a fact.
+Existing is for presence in the world.
+Existing is for presence and being.

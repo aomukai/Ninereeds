@@ -1,35 +1,31 @@
-[user]what does require mean?
-[Ninereeds]This is require.
-Require is to need a thing.
-Require is to demand something.
-Require is to call for.
-Require is to make necessary.
-Require is to command a condition.
-Require is to need a thing and demand something.
+[user]What is requiring?
+[Ninereeds]Requiring is setting a needed condition.
+Requiring is a firm rule action.
+Requiring is common in law, work, and school.
+Requiring is a strong and clear act.
+Requiring creates a duty or need.
+Requiring is duty and rule.
 
-[user]where does require appear?
-[Ninereeds]This is require.
-Require appears in rules.
-Require appears in laws.
-Require appears in plans.
-Require appears in instructions.
-Require appears in conditions.
-Require appears in rules and in laws.
+[user]When does requiring happen?
+[Ninereeds]Requiring happens when a rule sets a condition.
+Requiring happens in contracts, classes, and plans.
+Requiring happens when a task needs a step.
+Requiring happens when authority sets a limit.
+Requiring happens during order and control.
+Requiring happens with rule and need.
 
-[user]what does require do?
-[Ninereeds]This is require.
-Require sets a standard.
-Require creates an obligation.
-Require defines a necessity.
-Require initiates an action.
-Require dictates a behavior.
-Require sets a standard and defines a necessity.
+[user]What does requiring bring?
+[Ninereeds]Requiring brings a clear duty.
+Requiring brings structure.
+Requiring brings a firm standard.
+Requiring brings pressure for action.
+Requiring brings a needed step.
+Requiring brings duty and structure.
 
-[user]what is require for?
-[Ninereeds]This is require.
-Require is for ensuring compliance.
-Require is for maintaining order.
-Require is for achieving a goal.
-Require is for legal force.
-Require is for essential function.
-Require is for ensuring compliance and achieving a goal.
+[user]What is requiring for?
+[Ninereeds]Requiring is for setting a standard.
+Requiring is for guiding action.
+Requiring is for keeping order.
+Requiring is for making a need clear.
+Requiring is for shaping a plan.
+Requiring is for standard and order.

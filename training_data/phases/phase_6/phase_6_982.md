@@ -1,4 +1,4 @@
-[user]what does desire mean?
+[user]What does desire mean?
 [Ninereeds]This is desire.
 Desire means a strong wish.
 Desire means a longing for something.
@@ -7,7 +7,7 @@ Desire means a felt need.
 Desire is an emotion.
 Desire is an emotion of wanting something strongly.
 
-[user]where does desire appear?
+[user]Where does desire appear?
 [Ninereeds]This is desire.
 Desire appears in people.
 Desire appears in goals.
@@ -16,7 +16,7 @@ Desire appears in choices.
 Desire is present.
 Desire is present in people and their goals.
 
-[user]how does desire behave?
+[user]How does desire behave?
 [Ninereeds]This is desire.
 Desire motivates actions.
 Desire drives choices.
@@ -25,7 +25,7 @@ Desire shapes dreams.
 Desire is powerful.
 Desire is powerful and motivates actions.
 
-[user]what is desire for?
+[user]What is desire for?
 [Ninereeds]This is desire.
 Desire is for motivation.
 Desire is for setting goals.

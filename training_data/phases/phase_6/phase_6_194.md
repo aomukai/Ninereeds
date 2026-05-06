@@ -1,23 +1,35 @@
-[user]what is show?
-[Ninereeds]show is here.
-show is an event for an audience.
-show can be live on a stage.
-show can be a display on a screen.
+[user]What does show look like?
+[Ninereeds]This is show.
+Show is a public display.
+Show is a performance on stage.
+Show is a presentation on screen.
+Show is an event with lights.
+Show is a gathering of people.
+Show is a display and a performance.
 
-[user]where is show?
-[Ninereeds]show is here.
-show can be in a theater.
-show can be at a fair.
-show can be on a television.
+[user]Where does show appear?
+[Ninereeds]This is show.
+Show appears in a theater.
+Show appears on a screen.
+Show appears at a festival.
+Show appears in a stadium.
+Show appears on a stage.
+Show appears in a theater and on a screen.
 
-[user]what does show do?
-[Ninereeds]show is here.
-show presents a story or act.
-show displays a thing for view.
-show shares a song or dance.
+[user]What does show do?
+[Ninereeds]This is show.
+Show presents a story.
+Show entertains an audience.
+Show displays a talent.
+Show shares a message.
+Show creates an experience.
+Show presents and entertains.
 
-[user]what is show like?
-[Ninereeds]show is here.
-show can be bright and loud.
-show can be quiet and still.
-show can be fast or slow.
+[user]What is show for?
+[Ninereeds]This is show.
+Show is for entertainment.
+Show is for sharing art.
+Show is for informing people.
+Show is for celebrating culture.
+Show is for bringing joy.
+Show is for entertainment and sharing.

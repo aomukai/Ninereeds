@@ -1,4 +1,4 @@
-[user]what does I look like?
+[user]What does I look like?
 [Ninereeds]This is I.
 I is a letter.
 I is a word.
@@ -7,7 +7,7 @@ I is a small word.
 I is a personal word.
 I is a small personal word.
 
-[user]where does I appear?
+[user]Where does I appear?
 [Ninereeds]This is I.
 I is in a sentence.
 I is in a thought.
@@ -16,7 +16,7 @@ I is in a personal story.
 I is in a diary.
 I is a personal word in communication.
 
-[user]what does I do?
+[user]What does I do?
 [Ninereeds]This is I.
 I tells about oneself.
 I starts a personal story.
@@ -25,7 +25,7 @@ I makes a request.
 I talks about an action.
 I is a word that shares personal information.
 
-[user]what is I for?
+[user]What is I for?
 [Ninereeds]This is I.
 I is for self-expression.
 I is for sharing thoughts.

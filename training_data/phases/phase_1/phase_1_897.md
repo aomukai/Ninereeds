@@ -1,4 +1,4 @@
-[user]what does a sandwich look like?
+[user]What does a sandwich look like?
 [Ninereeds]This is a sandwich.
 A sandwich has two slices of bread.
 A sandwich has filling in the middle.
@@ -7,7 +7,7 @@ A sandwich is cut in triangles.
 A sandwich is on a plate.
 A sandwich is bread and filling.
 
-[user]where is a sandwich?
+[user]Where is a sandwich?
 [Ninereeds]This is a sandwich.
 A sandwich is on a plate.
 A sandwich is in a lunch box.
@@ -16,7 +16,7 @@ A sandwich is in a kitchen.
 A sandwich is at a picnic.
 A sandwich is on a plate and in a lunch box.
 
-[user]what does a sandwich do?
+[user]What does a sandwich do?
 [Ninereeds]This is a sandwich.
 A sandwich sits on a plate.
 A sandwich stays fresh in a wrapper.
@@ -25,7 +25,7 @@ A sandwich stacks layers of food.
 A sandwich fills a lunch box.
 A sandwich is on a plate and full of filling.
 
-[user]what is a sandwich for?
+[user]What is a sandwich for?
 [Ninereeds]This is a sandwich.
 A sandwich is for eating at lunch.
 A sandwich is for a picnic.

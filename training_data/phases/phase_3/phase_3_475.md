@@ -1,4 +1,4 @@
-[user]what does a rescue look like?
+[user]What does a rescue look like?
 [Ninereeds]This is a rescue.
 A rescue is a person helping another.
 A rescue is a lifeguard in the water.
@@ -7,7 +7,7 @@ A rescue is a firefighter or a carrier.
 A rescue is a boat picking up a swimmer.
 A rescue is a lifeguard and a firefighter.
 
-[user]where is a rescue found?
+[user]Where is a rescue found?
 [Ninereeds]This is a rescue.
 A rescue is at the beach or coast.
 A rescue is on a mountain trail.
@@ -16,7 +16,7 @@ A rescue is on a frozen lake.
 A rescue is in a deep hole.
 A rescue is at the beach and on a mountain trail.
 
-[user]what does a rescue do?
+[user]What does a rescue do?
 [Ninereeds]This is a rescue.
 A rescue pulls a person from danger.
 A rescue brings safety to a lost and hurt child.
@@ -25,7 +25,7 @@ A rescue moves a victim to safety.
 A rescue gives first aid and comfort.
 A rescue is a pull from danger and a move to safety.
 
-[user]what is a rescue used for?
+[user]What is a rescue used for?
 [Ninereeds]This is a rescue.
 A rescue saves a stranded hiker.
 A rescue frees a trapped animal.

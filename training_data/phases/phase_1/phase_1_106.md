@@ -1,4 +1,4 @@
-[user]what does thunder sound like?
+[user]What does thunder sound like?
 [Ninereeds]This is thunder.
 Thunder is loud.
 Thunder is deep and rolling.
@@ -6,7 +6,7 @@ Thunder shakes the air.
 Thunder follows a flash in the sky.
 Thunder is a loud sound that shakes the air in a storm.
 
-[user]where does thunder come from?
+[user]Where does thunder come from?
 [Ninereeds]This is thunder.
 Thunder comes from the sky.
 Thunder comes with a storm.
@@ -14,7 +14,7 @@ Thunder follows lightning high in a cloud.
 Thunder rolls across the land far below.
 Thunder is a loud sound that comes from a storm in the sky.
 
-[user]what does thunder do?
+[user]What does thunder do?
 [Ninereeds]This is thunder.
 Thunder strikes and rumbles across the sky.
 Thunder wakes animals from sleep.
@@ -22,7 +22,7 @@ Thunder rolls and fades across the sky.
 Thunder comes again and again in a storm.
 Thunder is a loud sound that shakes the air and then fades.
 
-[user]what does thunder give?
+[user]What does thunder give?
 [Ninereeds]This is thunder.
 Thunder gives a warning that a storm is near.
 Thunder warns animals to take cover.

@@ -1,4 +1,4 @@
-[user]what does a butterfly look like?
+[user]What does a butterfly look like?
 [Ninereeds]This is a butterfly.
 A butterfly has big wings.
 A butterfly has bright colors.
@@ -7,7 +7,7 @@ A butterfly has long antennae.
 A butterfly has a small head.
 A butterfly is big and bright.
 
-[user]where is a butterfly?
+[user]Where is a butterfly?
 [Ninereeds]This is a butterfly.
 A butterfly is in a garden.
 A butterfly is near a flower.
@@ -16,7 +16,7 @@ A butterfly is in a forest.
 A butterfly is in the sky.
 A butterfly is in a garden and near a flower.
 
-[user]what does a butterfly do?
+[user]What does a butterfly do?
 [Ninereeds]This is a butterfly.
 A butterfly flutters the wings.
 A butterfly lands on a flower.
@@ -25,7 +25,7 @@ A butterfly flies in the sky.
 A butterfly rests on a leaf.
 A butterfly is a flier and a nectar drinker.
 
-[user]what is a butterfly for?
+[user]What is a butterfly for?
 [Ninereeds]This is a butterfly.
 A butterfly helps a flower grow.
 A butterfly moves pollen.

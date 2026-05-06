@@ -1,35 +1,31 @@
-[user]what is approximate?
-[Ninereeds]This is approximate.
-Approximate is close to exact.
-Approximate is not precise.
-Approximate is near.
-Approximate is rough.
-Approximate is estimated.
-Approximate is close to exact but not precise.
+[user]What is approximating?
+[Ninereeds]Approximating is giving a close match.
+Approximating is a careful estimate action.
+Approximating is common in math, maps, and plans.
+Approximating is a useful and practical act.
+Approximating reaches near a target with limited detail.
+Approximating is near and estimate.
 
-[user]where is approximate found?
-[Ninereeds]This is approximate.
-Approximate is found in calculations.
-Approximate is found in estimates.
-Approximate is found in measurements.
-Approximate is found in descriptions.
-Approximate is found in numbers.
-Approximate is found in calculations and in estimates.
+[user]When does approximating happen?
+[Ninereeds]Approximating happens when exact detail stays out of reach.
+Approximating happens in math, travel, and timing.
+Approximating happens when a rough answer helps.
+Approximating happens during guess and measure.
+Approximating happens when speed matters more than exactness.
+Approximating happens with roughness and target.
 
-[user]what does approximate do?
-[Ninereeds]This is approximate.
-Approximate gives a general idea.
-Approximate simplifies a value.
-Approximate helps in quick decisions.
-Approximate allows for flexibility.
-Approximate provides a close match.
-Approximate gives a general idea and simplifies a value.
+[user]What does approximating bring?
+[Ninereeds]Approximating brings a close answer.
+Approximating brings speed.
+Approximating brings a useful guess.
+Approximating brings a working number.
+Approximating brings a near fit.
+Approximating brings speed and fit.
 
-[user]what is approximate for?
-[Ninereeds]This is approximate.
-Approximate is for estimation.
-Approximate is for quick planning.
-Approximate is for general understanding.
-Approximate is for less critical tasks.
-Approximate is for practical purposes.
-Approximate is for estimation and quick planning.
+[user]What is approximating for?
+[Ninereeds]Approximating is for reaching a close answer.
+Approximating is for saving time.
+Approximating is for using rough measure.
+Approximating is for guiding quick work.
+Approximating is for giving a near value.
+Approximating is for near answer and speed.

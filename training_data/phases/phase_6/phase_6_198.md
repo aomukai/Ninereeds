@@ -1,35 +1,35 @@
-[user]what does shrug look like?
+[user]What does shrug look like?
 [Ninereeds]This is shrug.
-shrug lifts the shoulders.
-shrug moves the shoulders up.
-shrug drops the shoulders down.
-shrug is a quick motion.
-shrug is a small motion.
-shrug is a gesture and a sign.
+Shrug lifts the shoulders.
+Shrug moves the shoulders up.
+Shrug drops the shoulders down.
+Shrug is a quick motion.
+Shrug is a small motion.
+Shrug is a gesture and a sign.
 
-[user]where is shrug?
+[user]Where does shrug appear?
 [Ninereeds]This is shrug.
-shrug appears on a person.
-shrug happens in conversation.
-shrug occurs in a room.
-shrug appears at home.
-shrug happens at work.
-shrug is a response and a motion.
+Shrug appears on a person.
+Shrug happens in conversation.
+Shrug occurs in a room.
+Shrug appears at home.
+Shrug happens at work.
+Shrug is a response and a motion.
 
-[user]what does shrug do?
+[user]What does shrug do?
 [Ninereeds]This is shrug.
-shrug shows uncertainty.
-shrug displays indifference.
-shrug expresses ignorance.
-shrug signals a lack.
-shrug conveys a feeling.
-shrug is a signal and a move.
+Shrug shows uncertainty.
+Shrug displays indifference.
+Shrug expresses ignorance.
+Shrug signals a lack.
+Shrug conveys a feeling.
+Shrug is a signal and a move.
 
-[user]what is shrug for?
+[user]What is shrug for?
 [Ninereeds]This is shrug.
-shrug answers a question.
-shrug responds to a talk.
-shrug releases tension.
-shrug relaxes the body.
-shrug changes the mood.
-shrug is a reply and a gesture.
+Shrug answers a question.
+Shrug responds to a talk.
+Shrug releases tension.
+Shrug relaxes the body.
+Shrug changes the mood.
+Shrug is a reply and a gesture.

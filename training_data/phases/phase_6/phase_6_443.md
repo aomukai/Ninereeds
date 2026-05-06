@@ -1,35 +1,31 @@
-[user]what does except mean?
-[Ninereeds]This is except.
-Except means not including.
-Except means apart from.
-Except means with the exclusion of.
-Except means but for.
-Except means other than.
-Except means not including or apart from.
+[user]What is excepting?
+[Ninereeds]Excepting is leaving a thing out of a set.
+Excepting is a selective action.
+Excepting is common in rules and lists.
+Excepting is shaped by choice and limit.
+Excepting is about exclusion and difference.
+Excepting is exclusion and choice.
 
-[user]where does except appear?
-[Ninereeds]This is except.
-Except appears in rules.
-Except appears in lists.
-Except appears in conditions.
-Except appears in commands.
-Except appears in choices.
-Except is a word in rules and lists.
+[user]When does excepting happen?
+[Ninereeds]Excepting happens when a rule leaves one case out.
+Excepting happens in lists, legal language, and group rules.
+Excepting happens when a person marks a special case.
+Excepting happens while a set keeps a part aside.
+Excepting happens when difference matters.
+Excepting happens with exclusion and limit.
 
-[user]what does except do?
-[Ninereeds]This is except.
-Except changes a group.
-Except creates an exclusion.
-Except sets a boundary.
-Except makes a condition.
-Except highlights a difference.
-Except changes a group and highlights a difference.
+[user]What does excepting bring?
+[Ninereeds]Excepting brings a smaller set.
+Excepting brings a special case.
+Excepting brings a clear limit.
+Excepting brings separation in a rule.
+Excepting brings a changed count.
+Excepting brings exclusion and limit.
 
-[user]what is except for?
-[Ninereeds]This is except.
-Except is for setting rules.
-Except is for making things clear.
-Except is for defining limits.
-Except is for precise instructions.
-Except is for making exceptions.
-Except is for setting rules and limits.
+[user]What is excepting for?
+[Ninereeds]Excepting is for leaving out a part.
+Excepting is for making a rule exact.
+Excepting is for marking a special case.
+Excepting is for separating a group.
+Excepting is for limit and choice.
+Excepting is for exclusion and choice.

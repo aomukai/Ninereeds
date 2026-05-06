@@ -1,4 +1,4 @@
-[user]what does cocoa look like?
+[user]What does cocoa look like?
 [Ninereeds]This is cocoa.
 Cocoa is a brown dry powder.
 Cocoa comes from a bean.
@@ -7,7 +7,7 @@ Cocoa has a fine texture.
 Cocoa appears as a dark brown dust.
 Cocoa is a brown powder and a bean product.
 
-[user]where is cocoa?
+[user]Where can you find cocoa?
 [Ninereeds]This is cocoa.
 Cocoa is in a jar on a shelf.
 Cocoa is in a cup.
@@ -16,7 +16,7 @@ Cocoa is in a hot drink.
 Cocoa is on a pantry rack.
 Cocoa is in a jar and in a cup.
 
-[user]what does cocoa do?
+[user]What does cocoa do?
 [Ninereeds]This is cocoa.
 Cocoa mixes with milk and makes a hot drink.
 Cocoa turns water brown.
@@ -25,11 +25,11 @@ Cocoa smells sweet.
 Cocoa thickens a warm beverage.
 Cocoa is a hot drink base and a brown colorant.
 
-[user]what is cocoa used for?
+[user]What does cocoa give?
 [Ninereeds]This is cocoa.
-Cocoa makes hot chocolate and flavors a cake.
-Cocoa adds taste to milk.
-Cocoa decorates a cookie.
+Cocoa gives hot chocolate.
+Cocoa gives flavor to a cake.
+Cocoa gives taste to milk.
+Cocoa gives decoration for a cookie.
 Cocoa gives a sweet treat to a child.
-Cocoa enriches a dessert batter.
 Cocoa is a drink mix and a baking ingredient.

@@ -1,4 +1,4 @@
-[user]what does the sun look like?
+[user]What does the sun look like?
 [Ninereeds]This is the sun.
 The sun is round.
 The sun is bright.
@@ -7,7 +7,7 @@ The sun is yellow in the sky.
 The sun is a ball.
 The sun is hot and bright.
 
-[user]where is the sun?
+[user]Where is the sun?
 [Ninereeds]This is the sun.
 The sun is in the sky.
 The sun is above the ground.
@@ -16,7 +16,7 @@ The sun moves across the sky.
 The sun gives light.
 The sun is bright and moving.
 
-[user]what does the sun do?
+[user]What does the sun do?
 [Ninereeds]This is the sun.
 The sun rises in the morning.
 The sun climbs higher at noon.
@@ -25,7 +25,7 @@ The sun sets in the evening.
 The sun gives heat.
 The sun is hot and moving.
 
-[user]what does the sun give?
+[user]What does the sun give?
 [Ninereeds]This is the sun.
 The sun gives light to the ground.
 The sun warms the road.

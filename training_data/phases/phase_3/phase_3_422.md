@@ -1,4 +1,4 @@
-[user]what does load look like?
+[user]What does load look like?
 [Ninereeds]This is load.
 Load is a pile of things.
 Load is a stack of boxes.
@@ -7,7 +7,7 @@ Load is a full cart.
 Load is a heavy weight.
 Load is a pile of heavy things.
 
-[user]where is load?
+[user]Where is load?
 [Ninereeds]This is load.
 Load is on a truck.
 Load is in a bag.
@@ -16,7 +16,7 @@ Load is at a dock.
 Load is on a scale.
 Load is on a truck or a shelf.
 
-[user]what does load do?
+[user]What does load do?
 [Ninereeds]This is load.
 Load fills a space.
 Load takes up room.
@@ -25,7 +25,7 @@ Load presses on a shelf.
 Load makes a bag full.
 Load fills a space on a cart.
 
-[user]how is load used?
+[user]How is load used?
 [Ninereeds]This is load.
 Load is put in a truck for travel.
 Load is stacked in a store.

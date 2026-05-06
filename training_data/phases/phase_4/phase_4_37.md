@@ -1,4 +1,4 @@
-[user]where does a whale go?
+[user]Where does a whale go?
 [Ninereeds]This is a whale.
 The whale moves in the ocean with a tail.
 The whale lifts the tail above the ocean.

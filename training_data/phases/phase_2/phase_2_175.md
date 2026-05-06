@@ -1,4 +1,4 @@
-[user]what does an attic look like?
+[user]What does an attic look like?
 [Ninereeds]This is an attic.
 An attic is a space.
 An attic is under a roof.
@@ -7,7 +7,7 @@ An attic is sometimes dusty.
 An attic is a space under a roof.
 An attic is a dark dusty space under a roof.
 
-[user]where is an attic?
+[user]Where does an attic appear?
 [Ninereeds]This is an attic.
 An attic is in a house.
 An attic is at the top of a house.
@@ -16,7 +16,7 @@ An attic is under the roof.
 An attic is a part of a house.
 An attic is a top part of a house under a roof.
 
-[user]what does an attic do?
+[user]What does an attic do?
 [Ninereeds]This is an attic.
 An attic holds things.
 An attic stores old things.
@@ -25,7 +25,7 @@ An attic keeps a house warm.
 An attic keeps a house cool.
 An attic stores old things and helps keep a house warm or cool.
 
-[user]what is an attic for?
+[user]What is an attic for?
 [Ninereeds]This is an attic.
 An attic is for storage.
 An attic is for keeping old things.

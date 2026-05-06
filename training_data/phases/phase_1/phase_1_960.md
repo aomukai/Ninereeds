@@ -1,4 +1,4 @@
-[user]what does a ski look like?
+[user]What does a ski look like?
 [Ninereeds]This is a ski.
 A ski is long.
 A ski is thin.
@@ -7,7 +7,7 @@ A ski has a tip.
 A ski has a binding.
 A ski is long and thin.
 
-[user]where is a ski found?
+[user]Where is a ski found?
 [Ninereeds]This is a ski.
 A ski is on snow.
 A ski is on a slope.
@@ -16,7 +16,7 @@ A ski is on a hill.
 A ski is in a shop.
 A ski is on snow and on a slope.
 
-[user]what does a ski do?
+[user]What does a ski do?
 [Ninereeds]This is a ski.
 A ski slides on snow.
 A ski glides downhill.
@@ -25,7 +25,7 @@ A ski turns right.
 A ski stops with edges.
 A ski slides on snow and glides downhill.
 
-[user]what is a ski for?
+[user]What is a ski for?
 [Ninereeds]This is a ski.
 A ski carries a skier.
 A ski moves down a hill.

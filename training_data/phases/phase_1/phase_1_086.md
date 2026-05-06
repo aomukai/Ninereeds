@@ -1,4 +1,4 @@
-[user]what does a mouth look like?
+[user]What does a mouth look like?
 [Ninereeds]This is a mouth.
 The mouth is on the face.
 The mouth has lips.
@@ -7,7 +7,7 @@ The mouth has a tongue.
 The mouth is used for speaking.
 A mouth is a body part for eating and speaking.
 
-[user]where is a mouth?
+[user]Where is a mouth?
 [Ninereeds]This is a mouth.
 The mouth is below the nose.
 The mouth is above the chin.
@@ -15,7 +15,7 @@ The mouth is on the face.
 The mouth opens and closes.
 A mouth is a body part that opens on the face.
 
-[user]what does a mouth do?
+[user]What does a mouth do?
 [Ninereeds]This is a mouth.
 The mouth starts closed.
 The mouth opens.
@@ -24,7 +24,7 @@ The mouth opens again.
 The mouth can chew.
 A mouth is a body part that can open, chew, and close.
 
-[user]what does a mouth give?
+[user]What does a mouth give?
 [Ninereeds]This is a mouth.
 The mouth eats food.
 The mouth chews food.

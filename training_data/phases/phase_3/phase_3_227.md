@@ -1,4 +1,4 @@
-[user]what does laugh mean?
+[user]What does laugh mean?
 [Ninereeds]This is laugh.
 Laugh is to make a sound.
 Laugh is to show joy.
@@ -7,7 +7,7 @@ Laugh is to chuckle.
 Laugh is to giggle.
 Laugh is to make a sound and show joy.
 
-[user]where does laugh occur?
+[user]Where does laugh occur?
 [Ninereeds]This is laugh.
 Laugh occurs in people.
 Laugh occurs in jokes.
@@ -16,7 +16,7 @@ Laugh occurs in games.
 Laugh occurs in conversations.
 Laugh occurs in people and in jokes.
 
-[user]what does laugh do?
+[user]What does laugh do?
 [Ninereeds]This is laugh.
 Laugh spreads happiness.
 Laugh eases tension.
@@ -25,7 +25,7 @@ Laugh releases stress.
 Laugh makes a moment light.
 Laugh spreads happiness and eases tension.
 
-[user]what is laugh for?
+[user]What is laugh for?
 [Ninereeds]This is laugh.
 Laugh is for joy.
 Laugh is for amusement.

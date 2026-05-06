@@ -1,4 +1,4 @@
-[user]what does swallow look like?
+[user]What does swallow look like?
 [Ninereeds]This is a swallow.
 Swallow has a sleek body.
 Swallow has long wings.
@@ -7,7 +7,7 @@ Swallow has dark blue feathers.
 Swallow has a white belly.
 Swallow is sleek and fast.
 
-[user]where is swallow?
+[user]Where is swallow?
 [Ninereeds]This is a swallow.
 Swallow lives in open fields.
 Swallow flies near water.
@@ -16,7 +16,7 @@ Swallow hunts in the sky.
 Swallow rests on wires.
 Swallow is in fields and sky.
 
-[user]what does swallow do?
+[user]What does swallow do?
 [Ninereeds]This is a swallow.
 Swallow catches insects midair.
 Swallow dives for prey.
@@ -25,7 +25,7 @@ Swallow feeds young chicks.
 Swallow migrates long distances.
 Swallow catches and feeds.
 
-[user]what is swallow for?
+[user]What is swallow for?
 [Ninereeds]This is a swallow.
 Swallow controls insect populations.
 Swallow pollinates flowers rarely.

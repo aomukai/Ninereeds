@@ -1,4 +1,4 @@
-[user]what does a bull look like?
+[user]What does a bull look like?
 [Ninereeds]This is a bull.
 A bull is large.
 A bull has horns.
@@ -7,7 +7,7 @@ A bull has a thick neck.
 A bull is a male cow.
 A bull is large and male.
 
-[user]where is a bull?
+[user]Where is a bull?
 [Ninereeds]This is a bull.
 A bull is in a field.
 A bull is on a farm.
@@ -16,7 +16,7 @@ A bull stands in grass.
 A bull is under the sun.
 A bull is in a field and on a farm.
 
-[user]what does a bull do?
+[user]What does a bull do?
 [Ninereeds]This is a bull.
 A bull eats grass.
 A bull drinks water.
@@ -25,7 +25,7 @@ A bull rests in shade.
 A bull sniffs the air.
 A bull is a grazer and a walker.
 
-[user]what is a bull for?
+[user]What is a bull for?
 [Ninereeds]This is a bull.
 A bull is for a farm.
 A bull is for making calves.

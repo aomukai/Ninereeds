@@ -1,4 +1,4 @@
-[user]how does a hungry bunny eat?
+[user]How does a hungry bunny eat?
 [Ninereeds]This is a hungry bunny.
 The bunny hops to the edge of the field.
 The bunny finds a patch of clover.

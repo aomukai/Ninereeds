@@ -1,4 +1,4 @@
-[user]what does hunt look like?
+[user]What does hunt look like?
 [Ninereeds]This is hunt.
 Hunt is a stalk.
 Hunt is a pursuit.
@@ -7,7 +7,7 @@ Hunt is a search.
 Hunt is a capture.
 Hunt is a search and a capture.
 
-[user]where is hunt?
+[user]Where is hunt?
 [Ninereeds]This is hunt.
 Hunt is in the wild.
 Hunt is in a forest.
@@ -16,7 +16,7 @@ Hunt is near water.
 Hunt is at dusk.
 Hunt is in a forest and on a plain.
 
-[user]what does hunt do?
+[user]What does hunt do?
 [Ninereeds]This is hunt.
 Hunt starts quiet.
 Hunt moves slow.
@@ -25,7 +25,7 @@ Hunt runs fast.
 Hunt grabs prey.
 Hunt starts quiet and runs fast.
 
-[user]what is hunt for?
+[user]What is hunt for?
 [Ninereeds]This is hunt.
 Hunt gives food.
 Hunt feeds a pack.

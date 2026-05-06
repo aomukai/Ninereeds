@@ -1,4 +1,4 @@
-[user]what does driftwood look like?
+[user]What does driftwood look like?
 [Ninereeds]This is driftwood.
 Driftwood is a piece of wood.
 Driftwood is gray.
@@ -7,7 +7,7 @@ Driftwood has a gray surface.
 Driftwood has twisty shapes.
 Driftwood is smooth gray wood in twisty shapes.
 
-[user]where is driftwood?
+[user]Where is driftwood?
 [Ninereeds]This is driftwood.
 Driftwood lies on a beach.
 Driftwood floats in the ocean.
@@ -16,7 +16,7 @@ Driftwood piles near rocks.
 Driftwood rests by the shore.
 Driftwood lies on a beach or floats in the ocean.
 
-[user]what does driftwood do?
+[user]What does driftwood do?
 [Ninereeds]This is driftwood.
 Driftwood floats on water.
 Driftwood tumbles in waves.
@@ -25,7 +25,7 @@ Driftwood dries in the sun.
 Driftwood sinks after a long time.
 Driftwood floats on water and tumbles in waves.
 
-[user]what is driftwood for?
+[user]What is driftwood for?
 [Ninereeds]This is driftwood.
 Driftwood is for art.
 Driftwood is for decoration.

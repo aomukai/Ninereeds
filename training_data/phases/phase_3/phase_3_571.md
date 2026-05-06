@@ -1,4 +1,4 @@
-[user]what does wag look like?
+[user]What does wag look like?
 [Ninereeds]This is wag.
 Wag is a side to side move.
 Wag is fast.
@@ -7,7 +7,7 @@ Wag moves a tail left and right.
 Wag is a quick wiggle.
 Wag is a fast shake of a tail from side to side.
 
-[user]where does wag happen?
+[user]Where does wag happen?
 [Ninereeds]This is wag.
 Wag happens on a dog.
 Wag happens on a tail.
@@ -16,7 +16,7 @@ Wag happens in a yard.
 Wag happens in a house.
 Wag happens on a dog tail in a house.
 
-[user]what does wag do?
+[user]What does wag do?
 [Ninereeds]This is wag.
 Wag shows a dog is happy.
 Wag tells a person the dog is glad.
@@ -25,7 +25,7 @@ Wag waves a tail back and forth.
 Wag wiggles a tail fast.
 Wag waves a tail fast to show a dog is happy.
 
-[user]what is wag for?
+[user]What is wag for?
 [Ninereeds]This is wag.
 Wag is for saying hello.
 Wag is for showing joy.

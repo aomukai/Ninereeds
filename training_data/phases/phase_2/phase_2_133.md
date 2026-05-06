@@ -1,4 +1,4 @@
-[user]what does a forecaster look like?
+[user]What does a forecaster look like?
 [Ninereeds]This is a forecaster.
 A forecaster is a person.
 A forecaster looks at data.
@@ -7,7 +7,7 @@ A forecaster makes predictions.
 A forecaster is smart.
 A forecaster is a smart person who makes predictions.
 
-[user]where is a forecaster?
+[user]Where is a forecaster?
 [Ninereeds]This is a forecaster.
 A forecaster is in a weather station.
 A forecaster is in an office.
@@ -16,7 +16,7 @@ A forecaster is in a computer room.
 A forecaster is in a studio.
 A forecaster is in a weather station or in an office.
 
-[user]what does a forecaster do?
+[user]What does a forecaster do?
 [Ninereeds]This is a forecaster.
 A forecaster predicts weather.
 A forecaster predicts events.
@@ -25,7 +25,7 @@ A forecaster warns of danger.
 A forecaster gives advice.
 A forecaster predicts weather and warns of danger.
 
-[user]what is a forecaster for?
+[user]What is a forecaster for?
 [Ninereeds]This is a forecaster.
 A forecaster is for planning.
 A forecaster is for safety.

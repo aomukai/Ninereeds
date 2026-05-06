@@ -1,4 +1,4 @@
-[user]what does a raindrop look like?
+[user]What does a raindrop look like?
 [Ninereeds]This is a raindrop.
 A raindrop is small.
 A raindrop is round.
@@ -7,7 +7,7 @@ A raindrop is wet.
 A raindrop falls from the sky.
 A raindrop is small and round.
 
-[user]where is a raindrop?
+[user]Where is a raindrop?
 [Ninereeds]This is a raindrop.
 A raindrop is in the sky.
 A raindrop falls to the ground.
@@ -16,7 +16,7 @@ A raindrop is on a window.
 A raindrop lands on the earth.
 A raindrop is on a leaf and on a window.
 
-[user]what does a raindrop do?
+[user]What does a raindrop do?
 [Ninereeds]This is a raindrop.
 A raindrop falls down.
 A raindrop lands on things.
@@ -25,7 +25,7 @@ A raindrop wets the ground.
 A raindrop joins other drops.
 A raindrop is wet and falling.
 
-[user]what is a raindrop for?
+[user]What is a raindrop for?
 [Ninereeds]This is a raindrop.
 A raindrop brings water.
 A raindrop waters plants.

@@ -1,4 +1,4 @@
-[user]what does blush look like?
+[user]What does blush look like?
 [Ninereeds]This is blush.
 Blush is a red face.
 Blush is pink cheeks.
@@ -7,7 +7,7 @@ Blush is a color change.
 Blush is a rosy glow.
 Blush is a red color on the face.
 
-[user]where does blush appear?
+[user]Where does blush appear?
 [Ninereeds]This is blush.
 Blush appears on the face.
 Blush appears on the cheeks.
@@ -16,7 +16,7 @@ Blush appears in moments of shyness.
 Blush appears with strong feeling.
 Blush is a color on the face.
 
-[user]what does blush do?
+[user]What does blush do?
 [Ninereeds]This is blush.
 Blush shows a feeling.
 Blush reveals embarrassment.
@@ -25,7 +25,7 @@ Blush warms the skin.
 Blush changes face color.
 Blush is a sign of feeling.
 
-[user]what is blush for?
+[user]What is blush for?
 [Ninereeds]This is blush.
 Blush is for showing emotion.
 Blush is for signaling shyness.

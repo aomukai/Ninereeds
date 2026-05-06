@@ -1,4 +1,4 @@
-[user]what does a skillet look like?
+[user]What does a skillet look like?
 [Ninereeds]This is a skillet.
 A skillet is round.
 A skillet is flat.
@@ -7,7 +7,7 @@ A skillet has a handle.
 A skillet has a bottom.
 A skillet is a round flat black pan.
 
-[user]where is a skillet found?
+[user]Where can you find a skillet?
 [Ninereeds]This is a skillet.
 A skillet is on a stove.
 A skillet is in a kitchen.
@@ -16,7 +16,7 @@ A skillet sits on a burner.
 A skillet sits on a shelf.
 A skillet is on a stove in a kitchen.
 
-[user]what does a skillet do?
+[user]What does a skillet do?
 [Ninereeds]This is a skillet.
 A skillet heats up.
 A skillet cooks food.
@@ -25,11 +25,11 @@ A skillet sears meat.
 A skillet sizzles with oil.
 A skillet heats up and cooks food.
 
-[user]what is a skillet for?
+[user]What does a skillet give?
 [Ninereeds]This is a skillet.
-A skillet cooks breakfast.
-A skillet makes pancakes.
-A skillet browns meat.
-A skillet sautes vegetables.
-A skillet is a cooking tool.
-A skillet is a cooking tool for vegetables.
+A skillet gives cooked food.
+A skillet gives fried eggs.
+A skillet gives browned meat.
+A skillet gives sauteed vegetables.
+A skillet gives hot meals.
+A skillet gives cooked food and hot meals.

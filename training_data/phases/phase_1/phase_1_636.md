@@ -1,4 +1,4 @@
-[user]what does litter look like?
+[user]What does litter look like?
 [Ninereeds]This is litter.
 Litter is on the ground.
 Litter is paper and plastic.
@@ -7,7 +7,7 @@ Litter is useless.
 Litter is messy.
 Litter is dirty and wet.
 
-[user]where is litter?
+[user]Where can you find litter?
 [Ninereeds]This is litter.
 Litter is on a street.
 Litter is in a park.
@@ -16,7 +16,7 @@ Litter is in a bin.
 Litter is on a path and a road.
 Litter is on a street and in a park.
 
-[user]what does litter do?
+[user]What does litter do?
 [Ninereeds]This is litter.
 Litter stays on the ground.
 Litter blows in the wind.
@@ -25,11 +25,11 @@ Litter makes a mess.
 Litter hurts a bird and a fish.
 Litter stays on the ground and blocks a drain.
 
-[user]what is litter for?
+[user]What does litter give?
 [Ninereeds]This is litter.
-Litter has no use.
-Litter is bad for the ground.
-Litter is bad for a bird.
-Litter is bad for a fish.
-Litter is trash on a street and a path.
-Litter is bad for a bird and a fish.
+Litter gives trash to a street.
+Litter gives waste to a park.
+Litter gives debris to a beach.
+Litter gives garbage to a bin.
+Litter gives dirt to a path.
+Litter gives trash and waste.

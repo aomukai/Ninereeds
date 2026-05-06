@@ -1,4 +1,4 @@
-[user]what does continuity mean?
+[user]What does continuity mean?
 [Ninereeds]This is continuity.
 Continuity is unbroken existence.
 Continuity is consistent connection.
@@ -7,7 +7,7 @@ Continuity is persistent presence.
 Continuity is ongoing sameness.
 Continuity is unbroken existence or connection.
 
-[user]where does continuity appear?
+[user]Where does continuity appear?
 [Ninereeds]This is continuity.
 Continuity appears in time.
 Continuity appears in lines.
@@ -16,7 +16,7 @@ Continuity appears in systems.
 Continuity appears in traditions.
 Continuity is in time and stories.
 
-[user]what does continuity do?
+[user]What does continuity do?
 [Ninereeds]This is continuity.
 Continuity makes things flow.
 Continuity makes things stable.
@@ -25,7 +25,7 @@ Continuity links past and future.
 Continuity supports understanding.
 Continuity makes things flow and stable.
 
-[user]what is continuity for?
+[user]What is continuity for?
 [Ninereeds]This is continuity.
 Continuity is for lasting peace.
 Continuity is for steady progress.

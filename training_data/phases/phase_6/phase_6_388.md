@@ -1,4 +1,4 @@
-[user]what is youth?
+[user]What is youth?
 [Ninereeds]This is youth.
 youth is the time of young life.
 youth is a period of growth.
@@ -7,7 +7,7 @@ youth is in school years.
 youth is a stage before full age.
 youth is young and lively.
 
-[user]where is youth?
+[user]Where is youth?
 [Ninereeds]This is youth.
 youth is in a life story.
 youth is on a page about age.
@@ -16,7 +16,7 @@ youth is in memories.
 youth is in every beginning.
 youth is present and past.
 
-[user]what does youth do?
+[user]What does youth do?
 [Ninereeds]This is youth.
 youth brings growth and play.
 youth shapes habit and skill.
@@ -25,7 +25,7 @@ youth explores the world.
 youth learns new things.
 youth is growth and learning.
 
-[user]what is youth like?
+[user]What is youth like?
 [Ninereeds]This is youth.
 youth feels bright and quick.
 youth looks fresh in memory.

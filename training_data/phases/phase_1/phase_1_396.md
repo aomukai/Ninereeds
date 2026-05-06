@@ -1,4 +1,4 @@
-[user]what does a dinosaur look like?
+[user]What does a dinosaur look like?
 [Ninereeds]This is a dinosaur.
 A dinosaur has a long neck.
 A dinosaur has a big body.
@@ -7,7 +7,7 @@ A dinosaur has a long tail.
 A dinosaur has small teeth.
 A dinosaur is a big animal with a long neck and a long tail.
 
-[user]where is a dinosaur?
+[user]Where is a dinosaur?
 [Ninereeds]This is a dinosaur.
 A dinosaur lives on land.
 A dinosaur walks in a forest.
@@ -16,7 +16,7 @@ A dinosaur rests near a river.
 A dinosaur sleeps in a cave.
 A dinosaur lives on land and walks in a forest.
 
-[user]what does a dinosaur do?
+[user]What does a dinosaur do?
 [Ninereeds]This is a dinosaur.
 A dinosaur eats leaves from trees.
 A dinosaur drinks from a river.
@@ -25,7 +25,7 @@ A dinosaur roars loud.
 A dinosaur swings a tail.
 A dinosaur eats leaves and roars loud.
 
-[user]what is a dinosaur for?
+[user]What is a dinosaur for?
 [Ninereeds]This is a dinosaur.
 A dinosaur is for museums.
 A dinosaur is for books.

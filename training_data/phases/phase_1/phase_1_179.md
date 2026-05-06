@@ -1,4 +1,4 @@
-[user]what does an alligator look like?
+[user]What does an alligator look like?
 [Ninereeds]This is an alligator.
 An alligator is a large reptile.
 An alligator has a long snout.
@@ -7,7 +7,7 @@ An alligator has a thick tail.
 An alligator has scaly skin.
 An alligator is large and scaly.
 
-[user]where is an alligator?
+[user]Where is an alligator?
 [Ninereeds]This is an alligator.
 An alligator is in a swamp.
 An alligator is in a river.
@@ -16,7 +16,7 @@ An alligator floats in the water.
 An alligator rests in the sun.
 An alligator is in a swamp and in a river.
 
-[user]what does an alligator do?
+[user]What does an alligator do?
 [Ninereeds]This is an alligator.
 An alligator swims in the water.
 An alligator floats on the surface.
@@ -25,7 +25,7 @@ An alligator snaps at fish.
 An alligator crawls on the land.
 An alligator is a swimmer and a hunter.
 
-[user]what does an alligator give?
+[user]What does an alligator give?
 [Ninereeds]This is an alligator.
 An alligator keeps fish numbers low.
 An alligator makes a hole in a bank.

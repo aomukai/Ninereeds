@@ -1,35 +1,35 @@
-[user]what is year?
-[Ninereeds]year is here.
-year is a full set of twelve months.
-year can hold spring summer fall and winter.
-year can mark age or school time.
-year can divide into four seasons.
-year starts in January.
-year is a measure and a cycle.
+[user]What does year look like?
+[Ninereeds]This is year.
+Year is a full set of twelve months.
+Year can hold spring summer fall and winter.
+Year can mark age or school time.
+Year can divide into four seasons.
+Year starts in January.
+Year is a measure and a cycle.
 
-[user]where is year?
-[Ninereeds]year is here.
-year can be on a chart or clock.
-year can be in a school plan.
-year can be near month or date.
-year can be on a calendar.
-year can be in a timeline.
-year is a mark and a span.
+[user]Where does year appear?
+[Ninereeds]This is year.
+Year can be on a chart or clock.
+Year can be in a school plan.
+Year can be near month or date.
+Year can be on a calendar.
+Year can be in a timeline.
+Year is a mark and a span.
 
-[user]what does year do?
-[Ninereeds]year is here.
-year can count time in a long span.
-year can bring a new class or season.
-year can mark age from one birth day to the next.
-year can track the earth's orbit.
-year can organize school grades.
-year is a cycle and a marker.
+[user]What does year do?
+[Ninereeds]This is year.
+Year can count time in a long span.
+Year can bring a new class or season.
+Year can mark age from one birth day to the next.
+Year can track the earth's orbit.
+Year can organize school grades.
+Year is a cycle and a marker.
 
-[user]what is year like?
-[Ninereeds]year is here.
-year can feel long in a wait.
-year can look full on a wall chart.
-year can seem fast after fun.
-year can be busy with events.
-year can be quiet in winter.
-year is a duration and an experience.
+[user]What is year for?
+[Ninereeds]This is year.
+Year is for measuring time.
+Year is for tracking age.
+Year is for organizing events.
+Year is for planning seasons.
+Year is for marking milestones.
+Year is for measuring time and tracking age.

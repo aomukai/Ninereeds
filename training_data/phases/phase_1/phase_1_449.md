@@ -1,4 +1,4 @@
-[user]what do feet look like?
+[user]What do feet look like?
 [Ninereeds]This is feet.
 Feet have toes and a heel.
 Feet have an arch and a sole.
@@ -7,7 +7,7 @@ Feet have five toes on each foot.
 Feet have a heel and a ball.
 Feet are an arch and a sole.
 
-[user]where are feet?
+[user]Where are feet?
 [Ninereeds]This is feet.
 Feet are at the end of legs below ankles.
 Feet are on the ground and inside shoes.
@@ -16,7 +16,7 @@ Feet are on a bed and a chair.
 Feet are on a path and a street.
 Feet are at the end of legs and inside shoes.
 
-[user]what do feet do?
+[user]What do feet do?
 [Ninereeds]This is feet.
 Feet hold up a body and push off the ground.
 Feet balance a person and move forward in steps.
@@ -25,7 +25,7 @@ Feet walk and run and jump.
 Feet kick and stomp and tap.
 Feet are for walking and running.
 
-[user]what are feet for?
+[user]What are feet for?
 [Ninereeds]This is feet.
 Feet are for walking and standing and running.
 Feet are for balance and movement.

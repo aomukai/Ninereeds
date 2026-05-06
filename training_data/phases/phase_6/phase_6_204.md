@@ -1,31 +1,35 @@
-[user]what is silly?
-[Ninereeds]silly is here.
-silly is a trait of playful oddness.
-silly appears in a funny joke.
-silly exists in a goofy face.
-silly lives in a lively song.
-silly is light and funny.
+[user]What does silly look like?
+[Ninereeds]This is silly.
+Silly is a playful manner.
+Silly is a funny face.
+Silly is a goofy pose.
+Silly is a cheerful act.
+Silly is a lighthearted joke.
+Silly is playful and funny.
 
-[user]where is silly?
-[Ninereeds]silly is here.
-silly hides in a funny face.
-silly waits in a playful game.
-silly rests in a silly song.
-silly stays in a cheerful room.
-silly is playful and odd.
+[user]Where does silly appear?
+[Ninereeds]This is silly.
+Silly appears in a game.
+Silly appears in a funny song.
+Silly appears in a playful room.
+Silly appears with laughing friends.
+Silly appears in a cheerful home.
+Silly appears in a game and in a song.
 
-[user]what does silly do?
-[Ninereeds]silly is here.
-silly makes a group laugh together.
-silly turns a boring task into fun.
-silly brings joy to a dull day.
-silly creates a happy moment.
-silly is joyful and funny.
+[user]What does silly do?
+[Ninereeds]This is silly.
+Silly makes people laugh.
+Silly turns a task into fun.
+Silly brings joy to a moment.
+Silly creates happy memories.
+Silly lightens a serious mood.
+Silly makes and brings joy.
 
-[user]what is silly like?
-[Ninereeds]silly is here.
-silly looks odd in a funny pose.
-silly feels light in a playful game.
-silly sounds funny in a silly song.
-silly creates a cheerful mood.
-silly is odd and light.
+[user]What is silly for?
+[Ninereeds]This is silly.
+Silly is for playfulness.
+Silly is for laughter.
+Silly is for bonding with others.
+Silly is for reducing tension.
+Silly is for expressing joy.
+Silly is for playfulness and laughter.

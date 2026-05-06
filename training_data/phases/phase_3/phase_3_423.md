@@ -1,4 +1,4 @@
-[user]what does loop look like?
+[user]What does loop look like?
 [Ninereeds]This is loop.
 Loop is a round shape.
 Loop is a circle of string.
@@ -7,7 +7,7 @@ Loop is a ring of rope.
 Loop is a closed path.
 Loop is a round closed shape.
 
-[user]where is loop?
+[user]Where is loop?
 [Ninereeds]This is loop.
 Loop is in a knot.
 Loop is on a rope.
@@ -16,7 +16,7 @@ Loop is in a chain.
 Loop is on a belt.
 Loop is in a knot on a rope.
 
-[user]what does loop do?
+[user]What does loop do?
 [Ninereeds]This is loop.
 Loop holds a hook.
 Loop wraps around a post.
@@ -25,7 +25,7 @@ Loop makes a circle in a line.
 Loop keeps a rope in place.
 Loop holds a hook in place.
 
-[user]how is loop used?
+[user]How is loop used?
 [Ninereeds]This is loop.
 Loop is used to hang a coat.
 Loop is used to tie a shoe.

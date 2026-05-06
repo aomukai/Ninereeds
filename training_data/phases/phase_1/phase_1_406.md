@@ -1,4 +1,4 @@
-[user]what does a door look like?
+[user]What does a door look like?
 [Ninereeds]This is a door.
 A door is a flat rectangle.
 A door has a handle on the side.
@@ -7,7 +7,7 @@ A door is tall.
 A door is wooden or metal.
 A door is a flat tall rectangle with a handle and hinges.
 
-[user]where is a door?
+[user]Where is a door?
 [Ninereeds]This is a door.
 A door hangs in a frame.
 A door sits at the entrance of a room.
@@ -16,7 +16,7 @@ A door opens to a hallway.
 A door closes off a closet.
 A door hangs in a frame at the entrance of a room.
 
-[user]what does a door do?
+[user]What does a door do?
 [Ninereeds]This is a door.
 A door opens wide.
 A door closes tight.
@@ -25,7 +25,7 @@ A door keeps people out.
 A door blocks a draft.
 A door opens and closes to let people in or out.
 
-[user]what is a door for?
+[user]What is a door for?
 [Ninereeds]This is a door.
 A door is for a room.
 A door is for a house.

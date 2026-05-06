@@ -1,4 +1,4 @@
-[user]what does furniture look like?
+[user]What does furniture look like?
 [Ninereeds]This is furniture.
 Furniture is a chair.
 Furniture is a table.
@@ -7,7 +7,7 @@ Furniture is a shelf.
 Furniture is a desk.
 Furniture is a chair and a table.
 
-[user]where is furniture found?
+[user]Where is furniture found?
 [Ninereeds]This is furniture.
 Furniture is in a house.
 Furniture is in a room.
@@ -16,7 +16,7 @@ Furniture is in an office.
 Furniture is in a store.
 Furniture is in a house and in a room.
 
-[user]what does furniture do?
+[user]What does furniture do?
 [Ninereeds]This is furniture.
 Furniture holds people.
 Furniture holds things.
@@ -25,7 +25,7 @@ Furniture gives a place to sleep.
 Furniture gives a place to work.
 Furniture is for holding people and for giving a place to sit.
 
-[user]what is furniture for?
+[user]What is furniture for?
 [Ninereeds]This is furniture.
 Furniture is for a home.
 Furniture is for a room.

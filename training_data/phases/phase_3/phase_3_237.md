@@ -1,35 +1,31 @@
-[user]what does parenting look like?
-[Ninereeds]This is parenting.
-Parenting is caring for a child.
-Parenting is teaching a child.
-Parenting is guiding a child.
-Parenting is providing for a child.
-Parenting is an ongoing process.
-Parenting is caring for and guiding a child.
+[user]What is parenting?
+[Ninereeds]Parenting is raising a child with care and guidance.
+Parenting is giving daily support and rules.
+Parenting is teaching habits and trust.
+Parenting is meeting needs at home and in life.
+Parenting is building safety, growth, and care.
+Parenting is care and guidance.
 
-[user]where does parenting appear?
-[Ninereeds]This is parenting.
-Parenting is in a family.
-Parenting is in a home.
-Parenting is in daily life.
-Parenting is in interactions.
-Parenting is in responsibilities.
-Parenting is in a family and daily life.
+[user]When does parenting happen?
+[Ninereeds]Parenting happens when when a child needs food, sleep, and help.
+Parenting happens at home, school, and family time.
+Parenting happens when rules and comfort guide a child.
+Parenting happens when when teaching and watching happen each day.
+Parenting happens when when a family builds care and trust.
+Parenting happens daily care and family guidance.
 
-[user]what does parenting do?
-[Ninereeds]This is parenting.
-Parenting helps a child grow.
-Parenting shapes a child's character.
-Parenting builds family bonds.
-Parenting prepares a child for life.
-Parenting provides a safe environment.
-Parenting helps a child grow and shapes character.
+[user]What does parenting bring?
+[Ninereeds]Parenting brings safety.
+Parenting brings growth.
+Parenting brings trust.
+Parenting brings routine.
+Parenting brings support.
+Parenting brings safety and growth.
 
-[user]what is parenting for?
-[Ninereeds]This is parenting.
-Parenting is for raising children.
-Parenting is for fostering development.
-Parenting is for creating future adults.
-Parenting is for transmitting values.
-Parenting is for ensuring well-being.
-Parenting is for raising children and fostering development.
+[user]What is parenting for?
+[Ninereeds]Parenting is for raising a child.
+Parenting is for giving care and guidance.
+Parenting is for teaching habits.
+Parenting is for building trust.
+Parenting is for meeting daily needs.
+Parenting is for care and trust.

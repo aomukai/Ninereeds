@@ -1,4 +1,4 @@
-[user]what is a framework?
+[user]What is a framework?
 [Ninereeds]This is a framework.
 A framework is a basic structure.
 A framework is a support system.
@@ -7,7 +7,7 @@ A framework is a guiding idea.
 A framework is a skeletal arrangement.
 A framework is a basic structure and a support system.
 
-[user]where is a framework found?
+[user]Where is a framework found?
 [Ninereeds]This is a framework.
 A framework is found in buildings.
 A framework is found in theories.
@@ -16,7 +16,7 @@ A framework is found in laws.
 A framework is found in a plan.
 A framework is found in buildings and in theories.
 
-[user]what does a framework do?
+[user]What does a framework do?
 [Ninereeds]This is a framework.
 A framework provides stability.
 A framework organizes components.
@@ -25,7 +25,7 @@ A framework directs development.
 A framework simplifies complexity.
 A framework provides stability and organizes components.
 
-[user]what is a framework for?
+[user]What is a framework for?
 [Ninereeds]This is a framework.
 A framework is for building upon.
 A framework is for systematic development.

@@ -1,31 +1,35 @@
-[user]what does a branch look like?
+[user]What does a branch look like?
 [Ninereeds]This is a branch.
 The branch is long and thin.
 The branch grows out from a trunk.
-The branch holds leaves at the branch's end.
+The branch holds leaves at the end.
 The branch bends under weight.
-The branch is slender and flexible.
+The branch is slender.
+The branch is long and slender.
 
-[user]where is a branch?
+[user]Where can you find a branch?
 [Ninereeds]This is a branch.
 The branch is on a tree.
 The branch grows out from the trunk.
-The branch reaches into the air above the ground.
-The branch is above the path below.
-The branch is attached and elevated.
+The branch reaches into the air.
+The branch is above the ground.
+The branch is attached to a trunk.
+The branch is on a tree and above the ground.
 
-[user]what does a branch do?
+[user]What does a branch do?
 [Ninereeds]This is a branch.
 The branch holds leaves in the sun.
 The branch bends in the wind.
 The branch grows longer each year.
-The branch can break in a strong storm.
-The branch is bendable and growing.
+The branch supports nests.
+The branch holds fruit.
+The branch holds leaves and supports nests.
 
-[user]what does a branch give?
+[user]What does a branch give?
 [Ninereeds]This is a branch.
-The branch gives a place for birds to rest.
-The branch gives shade when the branch is full of leaves.
-The branch gives wood when the branch falls.
-The branch gives support to the leaves that grow from the branch.
-The branch is restful and shady.
+The branch gives a place for birds.
+The branch gives shade to the ground.
+The branch gives wood when cut.
+The branch gives support to leaves.
+The branch gives a perch for animals.
+The branch gives shade and support.

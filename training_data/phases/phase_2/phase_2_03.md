@@ -1,4 +1,4 @@
-[user]what does a kitchen look like?
+[user]What does a kitchen look like?
 [Ninereeds]This is a kitchen.
 A kitchen has a stove.
 A kitchen has a sink.
@@ -7,7 +7,7 @@ A kitchen has counters.
 A kitchen has cabinets.
 A kitchen is a room with a stove, sink, and refrigerator.
 
-[user]where is a kitchen?
+[user]Where is a kitchen?
 [Ninereeds]This is a kitchen.
 A kitchen is in a house.
 A kitchen is in a restaurant.
@@ -16,7 +16,7 @@ A kitchen is where food is prepared.
 A kitchen is a busy place.
 A kitchen is a busy place in a house.
 
-[user]how does a kitchen behave?
+[user]How does a kitchen behave?
 [Ninereeds]This is a kitchen.
 A kitchen gets messy.
 A kitchen gets cleaned.
@@ -25,7 +25,7 @@ A kitchen holds food.
 A kitchen has good smells.
 A kitchen gets used often and has good smells.
 
-[user]what does a kitchen do?
+[user]What does a kitchen do?
 [Ninereeds]This is a kitchen.
 A kitchen prepares meals.
 A kitchen stores food.

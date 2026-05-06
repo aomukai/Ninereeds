@@ -1,4 +1,4 @@
-[user]what does fetch look like?
+[user]What does fetch look like?
 [Ninereeds]This is fetch.
 Fetch is a game to go get a thing.
 Fetch is a run to grab a ball.
@@ -7,7 +7,7 @@ Fetch is a trip to bring a toy.
 Fetch is a dash to take a bone.
 Fetch is a run and a dash.
 
-[user]where does fetch happen?
+[user]Where does fetch happen?
 [Ninereeds]This is fetch.
 Fetch happens in a field.
 Fetch happens in a yard.
@@ -16,7 +16,7 @@ Fetch happens on a beach.
 Fetch happens on a trail.
 Fetch happens in a field and a park.
 
-[user]what does fetch do?
+[user]What does fetch do?
 [Ninereeds]This is fetch.
 Fetch sends a dog to a spot.
 Fetch makes a dog run fast.
@@ -25,7 +25,7 @@ Fetch brings a thing back to a hand.
 Fetch drops a thing at the feet.
 Fetch is a send and a bring.
 
-[user]what is fetch for?
+[user]What is fetch for?
 [Ninereeds]This is fetch.
 Fetch gives a dog a fun task.
 Fetch gives a dog a good run.

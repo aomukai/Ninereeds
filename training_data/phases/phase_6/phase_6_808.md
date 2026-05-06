@@ -1,4 +1,4 @@
-[user]what is conflict?
+[user]What is conflict?
 [Ninereeds]This is conflict.
 Conflict is a disagreement.
 Conflict is a struggle.
@@ -7,7 +7,7 @@ Conflict is an opposition.
 Conflict is a friction.
 Conflict is a disagreement and a struggle.
 
-[user]where is conflict found?
+[user]Where is conflict found?
 [Ninereeds]This is conflict.
 Conflict is found in stories.
 Conflict is found in relationships.
@@ -16,7 +16,7 @@ Conflict is found in ideas.
 Conflict is found in a mind.
 Conflict is found in stories and in relationships.
 
-[user]what does conflict do?
+[user]What does conflict do?
 [Ninereeds]This is conflict.
 Conflict creates tension.
 Conflict forces change.
@@ -25,7 +25,7 @@ Conflict tests strength.
 Conflict drives a plot.
 Conflict creates tension and forces change.
 
-[user]what is conflict for?
+[user]What is conflict for?
 [Ninereeds]This is conflict.
 Conflict is for growth.
 Conflict is for resolution.

@@ -1,4 +1,4 @@
-[user]what is a kneecap?
+[user]What does a kneecap look like?
 [Ninereeds]This is a kneecap.
 The kneecap is hard.
 The kneecap is round.
@@ -7,7 +7,7 @@ The kneecap is smooth.
 The kneecap is small.
 The kneecap is hard and round.
 
-[user]where is a kneecap?
+[user]Where does a kneecap appear?
 [Ninereeds]This is a kneecap.
 The kneecap is at the knee.
 The kneecap is on the leg.
@@ -16,7 +16,7 @@ The kneecap is at the front of the joint.
 The kneecap is above the shin.
 The kneecap is small and round.
 
-[user]what does a kneecap do?
+[user]What does a kneecap do?
 [Ninereeds]This is a kneecap.
 The kneecap moves when the leg bends.
 The kneecap slides up and down.
@@ -25,7 +25,7 @@ The kneecap returns when the leg straightens.
 The kneecap is flexible.
 The kneecap is movable and flexible.
 
-[user]what does a kneecap give?
+[user]What is a kneecap for?
 [Ninereeds]This is a kneecap.
 The kneecap protects the knee.
 The kneecap supports movement.

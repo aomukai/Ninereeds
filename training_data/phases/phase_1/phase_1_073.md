@@ -1,4 +1,4 @@
-[user]what does a box look like?
+[user]What does a box look like?
 [Ninereeds]This is a box.
 The box has sides.
 The box has a top.
@@ -7,7 +7,7 @@ The box is foldable.
 The box is lightweight.
 The box is square and sturdy.
 
-[user]where is a box?
+[user]Where is a box?
 [Ninereeds]This is a box.
 The box is on the floor.
 The box is on a shelf.
@@ -16,7 +16,7 @@ The box is under a table.
 The box is in a room.
 The box is portable and stackable.
 
-[user]what does a box do?
+[user]What does a box do?
 [Ninereeds]This is a box.
 The box starts empty.
 The box fills with items.
@@ -25,7 +25,7 @@ The box closes shut.
 The box stacks with others.
 The box is useful and reusable.
 
-[user]what does a box give?
+[user]What does a box give?
 [Ninereeds]This is a box.
 The box gives storage.
 The box gives protection.

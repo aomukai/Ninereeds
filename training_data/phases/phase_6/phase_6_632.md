@@ -1,4 +1,4 @@
-[user]what does entire look like?
+[user]What does entire look like?
 [Ninereeds]This is entire.
 Entire is a word.
 Entire means all of something.
@@ -7,7 +7,7 @@ Entire has no color.
 Entire is an idea of completeness.
 Entire is a word and an idea of completeness.
 
-[user]where does entire appear?
+[user]Where does entire appear?
 [Ninereeds]This is entire.
 Entire appears in descriptions.
 Entire appears in stories.
@@ -16,7 +16,7 @@ Entire appears in reports.
 Entire appears in sums.
 Entire appears in descriptions and stories.
 
-[user]what does entire do?
+[user]What does entire do?
 [Ninereeds]This is entire.
 Entire shows wholeness.
 Entire leaves nothing out.
@@ -25,7 +25,7 @@ Entire emphasizes completeness.
 Entire includes every part.
 Entire shows wholeness and leaves nothing out.
 
-[user]what is entire for?
+[user]What is entire for?
 [Ninereeds]This is entire.
 Entire is for emphasizing totality.
 Entire is for clear communication.

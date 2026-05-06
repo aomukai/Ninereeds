@@ -1,4 +1,4 @@
-[user]what does celery look like?
+[user]What does celery look like?
 [Ninereeds]This is celery.
 Celery is tall.
 Celery is green.
@@ -7,7 +7,7 @@ Celery has ridges.
 Celery has leaves on top.
 Celery is a tall green vegetable with ridges.
 
-[user]where is celery?
+[user]Where is celery?
 [Ninereeds]This is celery.
 Celery is in a garden.
 Celery is in a field.
@@ -16,7 +16,7 @@ Celery is in a refrigerator.
 Celery is on a plate.
 Celery is in a grocery store in a refrigerator.
 
-[user]what does celery do?
+[user]What does celery do?
 [Ninereeds]This is celery.
 Celery grows in soil.
 Celery stores water.
@@ -25,7 +25,7 @@ Celery adds flavor to soup.
 Celery is crisp when bitten.
 Celery grows in soil and makes a crunch sound.
 
-[user]what is celery for?
+[user]What is celery for?
 [Ninereeds]This is celery.
 Celery is for eating.
 Celery is for a snack.

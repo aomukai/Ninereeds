@@ -1,4 +1,4 @@
-[user]what does build look like?
+[user]What does build look like?
 [Ninereeds]This is build.
 Build is making a thing.
 Build is putting parts together.
@@ -7,7 +7,7 @@ Build is stacking pieces up.
 Build is assembling a whole.
 Build is a way to make something.
 
-[user]where does build appear?
+[user]Where does build appear?
 [Ninereeds]This is build.
 Build appears in construction.
 Build appears in workshops.
@@ -16,7 +16,7 @@ Build appears in factories.
 Build appears at a desk.
 Build is work done to make things.
 
-[user]what does build do?
+[user]What does build do?
 [Ninereeds]This is build.
 Build creates new things.
 Build joins parts together.
@@ -25,7 +25,7 @@ Build adds layer by layer.
 Build turns plans into real things.
 Build is an act of creation.
 
-[user]what is build for?
+[user]What is build for?
 [Ninereeds]This is build.
 Build is for making houses.
 Build is for creating furniture.

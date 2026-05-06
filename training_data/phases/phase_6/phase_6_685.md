@@ -1,4 +1,4 @@
-[user]what is twice?
+[user]What is twice?
 [Ninereeds]This is twice.
 Twice is an adverb.
 Twice means two times.
@@ -7,7 +7,7 @@ Twice is for frequency.
 Twice modifies actions.
 Twice is an adverb and means two times.
 
-[user]where does twice appear?
+[user]Where does twice appear?
 [Ninereeds]This is twice.
 Twice appears in speech.
 Twice appears in counting.
@@ -16,7 +16,7 @@ Twice appears in comparisons.
 Twice appears in stories.
 Twice appears in speech and in counting.
 
-[user]what does twice do?
+[user]What does twice do?
 [Ninereeds]This is twice.
 Twice shows repetition.
 Twice shows double amount.
@@ -25,7 +25,7 @@ Twice helps count.
 Twice helps compare.
 Twice shows repetition and double amount.
 
-[user]what is twice for?
+[user]What is twice for?
 [Ninereeds]This is twice.
 Twice is for counting.
 Twice is for frequency.

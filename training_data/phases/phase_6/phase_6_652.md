@@ -1,4 +1,4 @@
-[user]what is self-deception?
+[user]What is self-deception?
 [Ninereeds]This is self-deception.
 Self-deception is believing a false thing.
 Self-deception is telling a lie to self.
@@ -7,7 +7,7 @@ Self-deception is when a person fools self.
 Self-deception is hiding truth from self.
 Self-deception is believing a false thing about self.
 
-[user]where does self-deception appear?
+[user]Where does self-deception appear?
 [Ninereeds]This is self-deception.
 Self-deception is in a mind.
 Self-deception is in a thought.
@@ -16,7 +16,7 @@ Self-deception is in a person's ideas.
 Self-deception is in a person's heart.
 Self-deception is in a mind and in a belief.
 
-[user]what does self-deception do?
+[user]What does self-deception do?
 [Ninereeds]This is self-deception.
 Self-deception hides truth.
 Self-deception creates a false idea.
@@ -25,7 +25,7 @@ Self-deception changes how a person sees.
 Self-deception makes a person feel good.
 Self-deception hides truth and creates false ideas.
 
-[user]what is self-deception for?
+[user]What is self-deception for?
 [Ninereeds]This is self-deception.
 Self-deception is for hiding bad feelings.
 Self-deception is for making things seem better.

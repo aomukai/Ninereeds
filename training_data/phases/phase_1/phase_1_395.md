@@ -1,4 +1,4 @@
-[user]what does a dime look like?
+[user]What does a dime look like?
 [Ninereeds]This is a dime.
 A dime is a small coin.
 A dime is silver.
@@ -7,7 +7,7 @@ A dime has a thin edge.
 A dime has ridges on the edge.
 A dime is silver and round.
 
-[user]where is a dime?
+[user]Where is a dime?
 [Ninereeds]This is a dime.
 A dime sits in a pocket.
 A dime rests in a purse.
@@ -16,7 +16,7 @@ A dime rolls on the floor.
 A dime falls between couch cushions.
 A dime is in a pocket and on a table.
 
-[user]what does a dime do?
+[user]What does a dime do?
 [Ninereeds]This is a dime.
 A dime spins on a table.
 A dime clinks against other coins.
@@ -25,7 +25,7 @@ A dime slides across a counter.
 A dime lands flat on a palm.
 A dime is spinning and clinking.
 
-[user]what is a dime for?
+[user]What is a dime for?
 [Ninereeds]This is a dime.
 A dime is for buying things.
 A dime is for a phone call.

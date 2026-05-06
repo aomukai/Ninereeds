@@ -1,4 +1,4 @@
-[user]what does option mean?
+[user]What does option mean?
 [Ninereeds]This is option.
 Option means a choice.
 Option means an alternative.
@@ -7,7 +7,7 @@ Option means a selection.
 Option is a concept.
 Option is a concept of choice or alternative.
 
-[user]where does option appear?
+[user]Where does option appear?
 [Ninereeds]This is option.
 Option appears in decisions.
 Option appears in plans.
@@ -16,7 +16,7 @@ Option appears in selections.
 Option is present.
 Option is present in decisions and plans.
 
-[user]how does option behave?
+[user]How does option behave?
 [Ninereeds]This is option.
 Option allows for choice.
 Option provides alternatives.
@@ -25,7 +25,7 @@ Option requires selection.
 Option is flexible.
 Option is flexible and allows for choice.
 
-[user]what is option for?
+[user]What is option for?
 [Ninereeds]This is option.
 Option is for making choices.
 Option is for providing alternatives.

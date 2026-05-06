@@ -1,13 +1,13 @@
-[user]what does afterward mean?
+[user]What does afterward describe?
 [Ninereeds]This is afterward.
 Afterward means after that.
 Afterward means later.
 Afterward means subsequently.
 Afterward means at a later time.
 Afterward means following.
-Afterward is after that or later.
+Afterward is after that and later.
 
-[user]where does afterward appear?
+[user]Where does afterward appear?
 [Ninereeds]This is afterward.
 Afterward appears in stories.
 Afterward appears in events.
@@ -16,7 +16,7 @@ Afterward appears in actions.
 Afterward appears in sequences.
 Afterward is in stories and events.
 
-[user]what does afterward do?
+[user]What does afterward do?
 [Ninereeds]This is afterward.
 Afterward links events.
 Afterward establishes sequence.
@@ -25,7 +25,7 @@ Afterward clarifies timing.
 Afterward directs attention.
 Afterward links events and establishes sequence.
 
-[user]what is afterward for?
+[user]What is afterward for?
 [Ninereeds]This is afterward.
 Afterward is for clear narration.
 Afterward is for understanding cause and effect.

@@ -1,4 +1,4 @@
-[user]what does fight look like?
+[user]What does fight look like?
 [Ninereeds]This is fight.
 Fight is a clash of two sides.
 Fight is a push of force against force.
@@ -7,7 +7,7 @@ Fight is a tussle of arms and legs.
 Fight is a struggle of two bodies.
 Fight is push and hit.
 
-[user]where does fight happen?
+[user]Where does fight happen?
 [Ninereeds]This is fight.
 Fight happens in a ring.
 Fight happens in a street.
@@ -16,7 +16,7 @@ Fight happens in a field.
 Fight happens in a den.
 Fight is ring and street.
 
-[user]what does fight do?
+[user]What does fight do?
 [Ninereeds]This is fight.
 Fight pits one side against the other.
 Fight uses force to push back.
@@ -25,7 +25,7 @@ Fight uses fists to block a hit.
 Fight uses a hold to stop a move.
 Fight is force and kicks.
 
-[user]what is fight for?
+[user]What is fight for?
 [Ninereeds]This is fight.
 Fight protects a person from harm.
 Fight defends a spot from a foe.

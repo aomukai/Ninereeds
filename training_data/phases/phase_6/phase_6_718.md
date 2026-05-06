@@ -1,4 +1,4 @@
-[user]what is visit?
+[user]What is visit?
 [Ninereeds]This is visit.
 Visit is to go to a place.
 Visit is to see a person.
@@ -7,7 +7,7 @@ Visit is to call upon.
 Visit is to spend time with.
 Visit is to go to a place or see a person.
 
-[user]where does visit appear?
+[user]Where does visit appear?
 [Ninereeds]This is visit.
 Visit is in a house.
 Visit is in a town.
@@ -16,7 +16,7 @@ Visit is in a thought.
 Visit is in a holiday.
 Visit is in a house or in a town.
 
-[user]what does visit do?
+[user]What does visit do?
 [Ninereeds]This is visit.
 Visit makes a connection.
 Visit brings joy.
@@ -25,7 +25,7 @@ Visit helps to know a person.
 Visit gives new thoughts.
 Visit makes a connection and brings joy.
 
-[user]what is visit for?
+[user]What is visit for?
 [Ninereeds]This is visit.
 Visit is for seeing.
 Visit is for sharing.

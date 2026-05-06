@@ -1,4 +1,4 @@
-[user]what does a spoon look like?
+[user]What does a spoon look like?
 [Ninereeds]This is a spoon.
 The spoon is small.
 The spoon is hard.
@@ -7,7 +7,7 @@ The spoon has a round end.
 The spoon is used for scooping.
 A spoon is small and hard.
 
-[user]where is a spoon?
+[user]Where is a spoon?
 [Ninereeds]This is a spoon.
 The spoon is on a table.
 The spoon is in a bowl.
@@ -16,7 +16,7 @@ The spoon moves to the mouth.
 The spoon is on a napkin.
 A spoon is on a table and in a bowl.
 
-[user]what does a spoon do?
+[user]What does a spoon do?
 [Ninereeds]This is a spoon.
 The spoon starts on the table.
 The spoon moves into a bowl.
@@ -25,7 +25,7 @@ The spoon returns to the table.
 The spoon scoops food.
 A spoon lifts and scoops.
 
-[user]what does a spoon give?
+[user]What does a spoon give?
 [Ninereeds]This is a spoon.
 The spoon scoops soup.
 The spoon carries food.

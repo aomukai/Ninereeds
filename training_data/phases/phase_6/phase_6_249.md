@@ -1,35 +1,31 @@
-[user]what does spend look like?
-[Ninereeds]This is spend.
-spend is a cash outflow.
-spend is a card swipe.
-spend is a button click.
-spend is a hand movement.
-spend is a signature.
-spend is a cash outflow and a hand movement.
+[user]What is spending?
+[Ninereeds]Spending is using money or time on a need.
+Spending is a choice with a cost.
+Spending is common in shops and plans.
+Spending is measured by amount and purpose.
+Spending is part of daily life.
+Spending is use and exchange.
 
-[user]where is spend?
-[Ninereeds]This is spend.
-spend is at a store.
-spend is in a wallet.
-spend is on a phone.
-spend is behind a counter.
-spend is inside a cart.
-spend is at a store and on a phone.
+[user]When does spending happen?
+[Ninereeds]Spending happens when money leaves a wallet or account.
+Spending happens during shopping and travel.
+Spending happens in budgets and errands.
+Spending happens while time is given to a task.
+Spending happens when a plan uses resources.
+Spending happens with cost and choice.
 
-[user]what does spend do?
-[Ninereeds]This is spend.
-spend transfers money.
-spend acquires goods.
-spend reduces a balance.
-spend pays a price.
-spend completes a transaction.
-spend transfers money and acquires goods.
+[user]What does spending bring?
+[Ninereeds]Spending brings goods, services, or progress.
+Spending brings lower savings and higher access.
+Spending brings support for daily needs.
+Spending brings movement through a plan.
+Spending brings change in resources.
+Spending brings use and change.
 
-[user]what is spend for?
-[Ninereeds]This is spend.
-spend is for buying food.
-spend is for purchasing items.
-spend is for paying bills.
-spend is for trading services.
-spend is for making exchanges.
-spend is for buying and for paying.
+[user]What is spending for?
+[Ninereeds]Spending is for meeting needs.
+Spending is for buying tools and food.
+Spending is for using time on goals.
+Spending is for supporting a plan.
+Spending is for trade and daily care.
+Spending is for use and need.

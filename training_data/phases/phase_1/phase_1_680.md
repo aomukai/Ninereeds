@@ -1,4 +1,4 @@
-[user]what does a motor look like?
+[user]What does a motor look like?
 [Ninereeds]This is a motor.
 A motor is a machine.
 A motor has wires and parts.
@@ -7,7 +7,7 @@ A motor is made of metal.
 A motor has a round shape.
 A motor is a machine and a part.
 
-[user]where is a motor?
+[user]Where is a motor?
 [Ninereeds]This is a motor.
 A motor is in a car.
 A motor is in a fan.
@@ -16,7 +16,7 @@ A motor is in a washing machine.
 A motor is in a toy.
 A motor is in a car and in a fan.
 
-[user]what does a motor do?
+[user]What does a motor do?
 [Ninereeds]This is a motor.
 A motor spins a wheel.
 A motor turns energy into motion.
@@ -25,7 +25,7 @@ A motor moves a car forward.
 A motor powers a machine.
 A motor is a spinner and a mover.
 
-[user]what is a motor for?
+[user]What is a motor for?
 [Ninereeds]This is a motor.
 A motor makes things move.
 A motor runs a machine.

@@ -1,35 +1,31 @@
-[user]what does select look like?
-[Ninereeds]This is select.
-Select is an action.
-Select picks one thing.
-Select chooses from options.
-Select is a process of choice.
-Select has a result.
-Select is an action that picks one thing.
+[user]What is selecting?
+[Ninereeds]Selecting is choosing one thing from many.
+Selecting is sorting options by value.
+Selecting is picking a match for a need.
+Selecting is narrowing a group to one choice.
+Selecting is weighing features before choice.
+Selecting is choice and value.
 
-[user]where does select appear?
-[Ninereeds]This is select.
-Select appears in choices.
-Select appears in menus.
-Select appears in elections.
-Select appears in shopping.
-Select appears in decisions.
-Select appears in choices and in menus.
+[user]When does selecting happen?
+[Ninereeds]Selecting happens when a person faces several options.
+Selecting happens when a list needs one answer.
+Selecting happens in shops, tasks, and plans.
+Selecting happens when a team wants the best fit.
+Selecting happens when careful thought guides a pick.
+Selecting happens when options meet choice.
 
-[user]what does select do?
-[Ninereeds]This is select.
-Select makes a choice.
-Select picks an item.
-Select narrows down options.
-Select decides a path.
-Select sets apart.
-Select makes a choice and picks an item.
+[user]What does selecting bring?
+[Ninereeds]Selecting brings a clear choice.
+Selecting brings a tighter group of options.
+Selecting brings better fit for a task.
+Selecting brings less confusion.
+Selecting brings a firm next step.
+Selecting brings fit and clarity.
 
-[user]what is select for?
-[Ninereeds]This is select.
-Select is for making decisions.
-Select is for choosing preferred items.
-Select is for narrowing down possibilities.
-Select is for indicating preference.
-Select is for personalizing.
-Select is for making decisions and choosing preferred items.
+[user]What is selecting for?
+[Ninereeds]Selecting is for finding the best match.
+Selecting is for narrowing a field.
+Selecting is for guiding a choice.
+Selecting is for saving time and effort.
+Selecting is for building a solid plan.
+Selecting is for match and guidance.

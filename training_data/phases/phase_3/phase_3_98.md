@@ -1,35 +1,4 @@
-[user]what does carefully mean?
-[Ninereeds]This is carefully.
-Carefully is careful.
-Carefully is cautious.
-Carefully is attentive.
-Carefully is precise.
-Carefully is prudent.
-Carefully is careful and cautious.
-
-[user]where does carefully appear?
-[Ninereeds]This is carefully.
-Carefully appears in actions.
-Carefully appears in words.
-Carefully appears in tasks.
-Carefully appears in decisions.
-Carefully appears in plans.
-Carefully is in actions and words.
-
-[user]what does carefully do?
-[Ninereeds]This is carefully.
-Carefully prevents mistakes.
-Carefully ensures accuracy.
-Carefully promotes safety.
-Carefully brings good results.
-Carefully minimizes risks.
-Carefully prevents mistakes and ensures accuracy.
-
-[user]what is carefully for?
-[Ninereeds]This is carefully.
-Carefully is for avoiding errors.
-Carefully is for achieving quality.
-Carefully is for personal safety.
-Carefully is for making wise choices.
-Carefully is for showing respect.
-Carefully is for avoiding errors and achieving quality.
+[user]What does careful mean?
+[Ninereeds]Careful describes something.
+A surgeon is careful. A pilot is careful. A scientist is careful.
+A child is not careful. A fool is not careful. A bully is not careful.

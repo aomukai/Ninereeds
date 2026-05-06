@@ -1,4 +1,4 @@
-[user]what does paralysis mean?
+[user]What does paralysis mean?
 [Ninereeds]This is paralysis.
 Paralysis is loss of movement.
 Paralysis is inability to act.
@@ -7,7 +7,7 @@ Paralysis is a state of inaction.
 Paralysis is a cessation of function.
 Paralysis is loss of movement or action.
 
-[user]where does paralysis appear?
+[user]Where does paralysis appear?
 [Ninereeds]This is paralysis.
 Paralysis appears in bodies.
 Paralysis appears in decisions.
@@ -16,7 +16,7 @@ Paralysis appears in fears.
 Paralysis appears in thoughts.
 Paralysis is in bodies and decisions.
 
-[user]what does paralysis do?
+[user]What does paralysis do?
 [Ninereeds]This is paralysis.
 Paralysis prevents action.
 Paralysis halts progress.
@@ -25,7 +25,7 @@ Paralysis causes helplessness.
 Paralysis restricts movement.
 Paralysis prevents action and halts progress.
 
-[user]what is paralysis for?
+[user]What is paralysis for?
 [Ninereeds]This is paralysis.
 Paralysis is for understanding limits.
 Paralysis is for seeking help.

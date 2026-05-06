@@ -1,4 +1,4 @@
-[user]what does opinion look like?
+[user]What does opinion look like?
 [Ninereeds]This is an opinion.
 Opinion is a thought.
 Opinion is held by a person.
@@ -7,7 +7,7 @@ Opinion has no color.
 Opinion is a belief.
 Opinion is a thought and a belief.
 
-[user]where does opinion appear?
+[user]Where does opinion appear?
 [Ninereeds]This is an opinion.
 Opinion appears in minds.
 Opinion appears in conversations.
@@ -16,7 +16,7 @@ Opinion appears in arguments.
 Opinion appears in discussions.
 Opinion appears in minds and conversations.
 
-[user]what does opinion do?
+[user]What does opinion do?
 [Ninereeds]This is an opinion.
 Opinion guides choices.
 Opinion shapes views.
@@ -25,7 +25,7 @@ Opinion expresses a person's thinking.
 Opinion can be shared.
 Opinion guides choices and shapes views.
 
-[user]what is opinion for?
+[user]What is opinion for?
 [Ninereeds]This is an opinion.
 Opinion is for communication.
 Opinion is for decision-making.

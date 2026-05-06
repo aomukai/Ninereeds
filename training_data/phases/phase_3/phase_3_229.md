@@ -1,35 +1,31 @@
-[user]what does resemble mean?
-[Ninereeds]This is resemble.
-Resemble is to look like.
-Resemble is to be similar to.
-Resemble is to take after.
-Resemble is to have features in common.
-Resemble is to mimic.
-Resemble is to look like and to be similar to.
+[user]What is resembling?
+[Ninereeds]Resembling is looking and seeming like something else.
+Resembling is sharing shape, style, and mark.
+Resembling is making a close match in view.
+Resembling is pointing to a likeness.
+Resembling is joining two forms through similarity.
+Resembling is likeness and match.
 
-[user]where does resemble occur?
-[Ninereeds]This is resemble.
-Resemble occurs in twins.
-Resemble occurs in copies.
-Resemble occurs in patterns.
-Resemble occurs in nature.
-Resemble occurs in art.
-Resemble occurs in twins and in copies.
+[user]When does resembling happen?
+[Ninereeds]Resembling happens when two shapes look alike.
+Resembling happens when a face, sound, and style match.
+Resembling happens in family traits and shared design.
+Resembling happens when a copy follows a model.
+Resembling happens when a thing recalls another thing.
+Resembling happens shared shape and shared style.
 
-[user]what does resemble do?
-[Ninereeds]This is resemble.
-Resemble shows a connection.
-Resemble suggests a lineage.
-Resemble helps identification.
-Resemble creates familiarity.
-Resemble simplifies understanding.
-Resemble shows a connection and helps identification.
+[user]What does resembling bring?
+[Ninereeds]Resembling brings comparison.
+Resembling brings recognition.
+Resembling brings close matching.
+Resembling brings clear likeness.
+Resembling brings easy linking.
+Resembling brings recognition and linkage.
 
-[user]what is resemble for?
-[Ninereeds]This is resemble.
-Resemble is for comparison.
-Resemble is for recognition.
-Resemble is for artistic effect.
-Resemble is for genetic studies.
-Resemble is for understanding relationships.
-Resemble is for comparison and recognition.
+[user]What is resembling for?
+[Ninereeds]Resembling is for showing likeness.
+Resembling is for helping comparison.
+Resembling is for linking shapes and styles.
+Resembling is for making a close match clear.
+Resembling is for guiding recognition.
+Resembling is for likeness and recognition.

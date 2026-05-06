@@ -1,4 +1,4 @@
-[user]what does hop look like?
+[user]What does hop look like?
 [Ninereeds]This is hop.
 Hop is a small jump of foot.
 Hop is a quick bounce of leg.
@@ -7,7 +7,7 @@ Hop is a short spring of body.
 Hop is a fast skip on path.
 Hop is quick and light.
 
-[user]where does hop happen?
+[user]Where does hop happen?
 [Ninereeds]This is hop.
 Hop happens on a foot.
 Hop happens on the ground.
@@ -16,7 +16,7 @@ Hop happens on a stone.
 Hop happens on a step.
 Hop is on ground and step.
 
-[user]what does hop do?
+[user]What does hop do?
 [Ninereeds]This is hop.
 Hop springs off one foot.
 Hop bounces down a path.
@@ -25,7 +25,7 @@ Hop skips on a flat step.
 Hop pops up from the ground.
 Hop is a spring and a bounce.
 
-[user]what is hop for?
+[user]What is hop for?
 [Ninereeds]This is hop.
 Hop moves a rabbit across a field.
 Hop carries a frog to a pond.

@@ -1,23 +1,35 @@
-[user]what is stranger?
-[Ninereeds]stranger is here.
-stranger is a person unknown.
-stranger appears in unfamiliar places.
-stranger meets people for first time.
+[user]What does stranger look like?
+[Ninereeds]This is stranger.
+Stranger is a person seen for the first time.
+Stranger has an unfamiliar face.
+Stranger wears clothes from elsewhere.
+Stranger carries a different manner.
+Stranger speaks with an unknown voice.
+Stranger is unknown and new.
 
-[user]where is stranger?
-[Ninereeds]stranger is here.
-stranger stands on a sidewalk.
-stranger arrives at a door.
-stranger walks in a new town.
+[user]Where does stranger appear?
+[Ninereeds]This is stranger.
+Stranger appears on a busy street.
+Stranger appears in a new town.
+Stranger appears at a train station.
+Stranger appears at a public market.
+Stranger appears in a waiting room.
+Stranger is public and passing.
 
-[user]what does stranger do?
-[Ninereeds]stranger is here.
-stranger introduces a new face.
-stranger asks for directions.
-stranger starts a conversation.
+[user]What does stranger do?
+[Ninereeds]This is stranger.
+Stranger passes through a new place.
+Stranger asks for directions sometimes.
+Stranger brings news from elsewhere.
+Stranger observes unfamiliar surroundings.
+Stranger adds diversity to a crowd.
+Stranger is moving and observing.
 
-[user]what is stranger like?
-[Ninereeds]stranger is here.
-stranger looks unfamiliar in a crowd.
-stranger sounds different in a room.
-stranger feels unknown in a group.
+[user]What is stranger for?
+[Ninereeds]This is stranger.
+Stranger represents new encounters in life.
+Stranger offers chance for new connection.
+Stranger brings fresh perspective to a place.
+Stranger reminds of wider world beyond.
+Stranger teaches caution and openness.
+Stranger is opportunity and lesson.

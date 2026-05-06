@@ -1,35 +1,31 @@
-[user]what does outlive mean?
-[Ninereeds]This is outlive.
-Outlive is to live longer than.
-Outlive is to survive.
-Outlive is to last beyond.
-Outlive is to remain alive after.
-Outlive is to endure.
-Outlive is to live longer than or survive.
+[user]What is outliving?
+[Ninereeds]Outliving is living longer than something else.
+Outliving is lasting past another life or object.
+Outliving is remaining after another ends.
+Outliving is going beyond a shorter span.
+Outliving is surviving for a longer time.
+Outliving is longer life and lasting.
 
-[user]where does outlive appear?
-[Ninereeds]This is outlive.
-Outlive appears in stories.
-Outlive appears in history.
-Outlive appears in nature.
-Outlive appears in memories.
-Outlive appears in legacies.
-Outlive is in stories and history.
+[user]When does outliving happen?
+[Ninereeds]Outliving happens when a life span is longer.
+Outliving happens when a tree lasts past a fence.
+Outliving happens when a memory stays past a trend.
+Outliving happens in stories about long survival.
+Outliving happens when a craft lasts past a season.
+Outliving happens with long span and survival.
 
-[user]what does outlive do?
-[Ninereeds]This is outlive.
-Outlive shows resilience.
-Outlive demonstrates endurance.
-Outlive leaves a mark.
-Outlive creates history.
-Outlive influences future.
-Outlive shows resilience and leaves a mark.
+[user]What does outliving bring?
+[Ninereeds]Outliving brings a longer span.
+Outliving brings lasting presence.
+Outliving brings proof of endurance.
+Outliving brings a sense of survival.
+Outliving brings time beyond a limit.
+Outliving brings span and endurance.
 
-[user]what is outlive for?
-[Ninereeds]This is outlive.
-Outlive is for making history.
-Outlive is for showing strength.
-Outlive is for inspiring hope.
-Outlive is for leaving a legacy.
-Outlive is for celebrating life.
-Outlive is for making history and inspiring hope.
+[user]What is outliving for?
+[Ninereeds]Outliving is for lasting beyond a limit.
+Outliving is for surviving a short age.
+Outliving is for staying present.
+Outliving is for passing through time.
+Outliving is for showing endurance.
+Outliving is for endurance and survival.

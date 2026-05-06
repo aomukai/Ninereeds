@@ -1,4 +1,4 @@
-[user]what does strongly mean?
+[user]What does strongly mean?
 [Ninereeds]This is the word 'strongly'.
 Strongly means with great force.
 Strongly means with intensity.
@@ -7,7 +7,7 @@ Strongly means firmly.
 Strongly means convincingly.
 Strongly is with great force and intensity.
 
-[user]where does strongly appear?
+[user]Where does strongly appear?
 [Ninereeds]This is the word 'strongly'.
 Strongly appears in opinions.
 Strongly appears in winds.
@@ -16,7 +16,7 @@ Strongly appears in beliefs.
 Strongly appears in emotions.
 Strongly is in opinions and winds.
 
-[user]what does strongly do?
+[user]What does strongly do?
 [Ninereeds]This is the word 'strongly'.
 Strongly influences others.
 Strongly makes things stable.
@@ -25,7 +25,7 @@ Strongly creates impact.
 Strongly ensures durability.
 Strongly influences and makes stable.
 
-[user]what is strongly for?
+[user]What is strongly for?
 [Ninereeds]This is the word 'strongly'.
 Strongly is for expressing conviction.
 Strongly is for building strong structures.

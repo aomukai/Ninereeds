@@ -1,4 +1,4 @@
-[user]what is a moment?
+[user]What is a moment?
 [Ninereeds]This is a moment.
 A moment is a very short time.
 A moment is an instant.
@@ -7,7 +7,7 @@ A moment is a fleeting period.
 A moment is a fragment of time.
 A moment is a very short time and an instant.
 
-[user]where is a moment found?
+[user]Where is a moment found?
 [Ninereeds]This is a moment.
 A moment is found in a day.
 A moment is found in a memory.
@@ -16,7 +16,7 @@ A moment is found in a lifetime.
 A moment is found in a glance.
 A moment is found in a day and in a memory.
 
-[user]what does a moment do?
+[user]What does a moment do?
 [Ninereeds]This is a moment.
 A moment passes quickly.
 A moment captures attention.
@@ -25,7 +25,7 @@ A moment marks a change.
 A moment holds significance.
 A moment passes quickly and creates a memory.
 
-[user]what is a moment for?
+[user]What is a moment for?
 [Ninereeds]This is a moment.
 A moment is for reflection.
 A moment is for celebration.

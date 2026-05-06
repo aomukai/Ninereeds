@@ -1,4 +1,4 @@
-[user]what does background mean?
+[user]What does background mean?
 [Ninereeds]This is background.
 Background is the area behind.
 Background is past events.
@@ -7,7 +7,7 @@ Background is a person's history.
 Background is a setting.
 Background is the area behind or past events.
 
-[user]where does background appear?
+[user]Where does background appear?
 [Ninereeds]This is background.
 Background appears in pictures.
 Background appears in stories.
@@ -16,7 +16,7 @@ Background appears in conversations.
 Background appears in scenes.
 Background is in pictures, stories, and sounds.
 
-[user]what does background do?
+[user]What does background do?
 [Ninereeds]This is background.
 Background adds depth.
 Background provides context.
@@ -25,7 +25,7 @@ Background sets a mood.
 Background supports the main subject.
 Background is adding depth and providing context.
 
-[user]what is background for?
+[user]What is background for?
 [Ninereeds]This is background.
 Background is for understanding history.
 Background is for setting a scene.

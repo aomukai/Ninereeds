@@ -1,4 +1,4 @@
-[user]what is a system?
+[user]What is a system?
 [Ninereeds]This is a system.
 A system is many parts.
 A system works as one.
@@ -7,7 +7,7 @@ A system has order.
 A system has a goal.
 A system is many parts that work as one.
 
-[user]where does a system appear?
+[user]Where does a system appear?
 [Ninereeds]This is a system.
 A system is in a body.
 A system is in a computer.
@@ -16,7 +16,7 @@ A system is in a machine.
 A system is in a thought.
 A system is in a body or in a computer.
 
-[user]what does a system do?
+[user]What does a system do?
 [Ninereeds]This is a system.
 A system processes data.
 A system organizes parts.
@@ -25,7 +25,7 @@ A system keeps order.
 A system helps things run.
 A system processes data and keeps order.
 
-[user]what is a system for?
+[user]What is a system for?
 [Ninereeds]This is a system.
 A system is for organization.
 A system is for efficiency.

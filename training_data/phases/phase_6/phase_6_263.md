@@ -1,27 +1,35 @@
-[user]what is squish?
-[Ninereeds]squish is here.
-squish is a soft pressing action.
-squish is a mud and grass sound.
-squish can be a wet shoe press.
-squish is a compress and flatten motion.
+[user]What does squish look like?
+[Ninereeds]This is squish.
+Squish is a soft pressing action.
+Squish compresses a soft object flat.
+Squish moves mud under a heavy shoe.
+Squish flattens grass on a wet trail.
+Squish changes a soft shape under pressure.
+Squish is pressing and flattening.
 
-[user]where is squish?
-[Ninereeds]squish is here.
-squish is in wet clay.
-squish is under a heavy shoe.
-squish is on soft ground.
-squish is in mud puddles.
+[user]Where does squish appear?
+[Ninereeds]This is squish.
+Squish appears in wet clay underfoot.
+Squish appears under a heavy shoe on mud.
+Squish appears on soft ground after rain.
+Squish appears in mud puddles on a path.
+Squish appears in a wet sponge in a hand.
+Squish appears in mud and in clay.
 
-[user]what does squish do?
-[Ninereeds]squish is here.
-squish presses a soft object flat.
-squish moves mud under a shoe.
-squish compresses a wet sponge.
-squish flattens grass on a trail.
+[user]What does squish do?
+[Ninereeds]This is squish.
+Squish presses a soft object flat.
+Squish moves mud under a stepping foot.
+Squish compresses a wet sponge.
+Squish flattens grass on a rainy trail.
+Squish changes the shape of soft things.
+Squish presses and compresses.
 
-[user]what is squish like?
-[Ninereeds]squish is here.
-squish feels wet and soft.
-squish looks flattened and damp.
-squish sounds like a wet press.
-squish is a gentle and firm action.
+[user]What is squish for?
+[Ninereeds]This is squish.
+Squish is for feeling soft textures underfoot.
+Squish is for compressing sponges and clay.
+Squish is for making sounds in muddy ground.
+Squish is for flattening soft garden soil.
+Squish is for pressing and molding soft things.
+Squish is for pressing and for molding.

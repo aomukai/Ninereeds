@@ -1,4 +1,4 @@
-[user]what does perfect mean?
+[user]What does perfect mean?
 [Ninereeds]This is perfect.
 Perfect is flawless.
 Perfect is complete.
@@ -7,7 +7,7 @@ Perfect is ideal.
 Perfect is faultless.
 Perfect is flawless and complete.
 
-[user]where is perfect found?
+[user]Where is perfect found?
 [Ninereeds]This is perfect.
 Perfect is found in a design.
 Perfect is found in a solution.
@@ -16,7 +16,7 @@ Perfect is found in a dream.
 Perfect is found in a fit.
 Perfect is found in a design and in a solution.
 
-[user]what does perfect do?
+[user]What does perfect do?
 [Ninereeds]This is perfect.
 Perfect achieves a goal.
 Perfect satisfies a need.
@@ -25,7 +25,7 @@ Perfect ensures beauty.
 Perfect aligns with a vision.
 Perfect achieves a goal and satisfies a need.
 
-[user]what is perfect for?
+[user]What is perfect for?
 [Ninereeds]This is perfect.
 Perfect is for high standards.
 Perfect is for ideal outcomes.

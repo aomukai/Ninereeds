@@ -1,4 +1,4 @@
-[user]what does mend look like?
+[user]What does mend look like?
 [Ninereeds]This is mend.
 Mend fixes a hole.
 Mend makes a tear go away.
@@ -7,7 +7,7 @@ Mend closes a split in cloth.
 Mend makes a thing whole.
 Mend fixes a hole in cloth.
 
-[user]where is mend?
+[user]Where is mend?
 [Ninereeds]This is mend.
 Mend is at a patch.
 Mend is on a torn shirt.
@@ -16,7 +16,7 @@ Mend is on the sole of a shoe.
 Mend is at a crack in a cup.
 Mend is on a torn shirt at a seam.
 
-[user]what does mend do?
+[user]What does mend do?
 [Ninereeds]This is mend.
 Mend closes a hole with thread.
 Mend sews a tear shut.
@@ -25,7 +25,7 @@ Mend patches a weak spot.
 Mend makes a thing strong again.
 Mend closes a hole with thread and stitch.
 
-[user]how is mend used?
+[user]How is mend used?
 [Ninereeds]This is mend.
 Mend is used to fix a sock.
 Mend is used to repair a coat.

@@ -1,4 +1,4 @@
-[user]what does a female look like?
+[user]What does a female look like?
 [Ninereeds]This is a female.
 A female has a body and a voice.
 A female has hair and hands and curves.
@@ -7,7 +7,7 @@ A female has a face and a smile.
 A female has a skin and a shape.
 A female is human and curved.
 
-[user]where is a female?
+[user]Where is a female?
 [Ninereeds]This is a female.
 A female is in a home or at work.
 A female is in a town on a street.
@@ -16,7 +16,7 @@ A female is in a car or a bus.
 A female is in a garden and a house.
 A female is inside and outside.
 
-[user]what does a female do?
+[user]What does a female do?
 [Ninereeds]This is a female.
 A female gives birth to a child.
 A female nurses a child and cares for a family.
@@ -25,7 +25,7 @@ A female cooks and cleans and reads.
 A female teaches and learns and helps.
 A female is giving and caring.
 
-[user]what is a female for?
+[user]What is a female for?
 [Ninereeds]This is a female.
 A female is for a life and a family.
 A female is for care of a home.

@@ -1,4 +1,4 @@
-[user]what does a triangle look like?
+[user]What does a triangle look like?
 [Ninereeds]This is a triangle.
 A triangle has three sides.
 A triangle has three corners.
@@ -7,7 +7,7 @@ A triangle is a flat shape.
 A triangle is often sharp.
 A triangle is flat and sharp.
 
-[user]where is a triangle?
+[user]Where is a triangle?
 [Ninereeds]This is a triangle.
 A triangle is on paper.
 A triangle is in buildings.
@@ -16,7 +16,7 @@ A triangle is in games.
 A triangle is in many objects.
 A triangle is on paper and in buildings.
 
-[user]what does a triangle do?
+[user]What does a triangle do?
 [Ninereeds]This is a triangle.
 A triangle holds up things.
 A triangle makes patterns.
@@ -25,7 +25,7 @@ A triangle divides space.
 A triangle forms strong structures.
 A triangle is for holding up things and making patterns.
 
-[user]what is a triangle for?
+[user]What is a triangle for?
 [Ninereeds]This is a triangle.
 A triangle is for building.
 A triangle is for design.

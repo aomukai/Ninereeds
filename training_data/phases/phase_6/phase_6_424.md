@@ -1,4 +1,4 @@
-[user]what is forgot?
+[user]What is forgot?
 [Ninereeds]forgot is here.
 forgot means lost memory of a fact or plan in earlier time.
 forgot can mark a past gap in memory.
@@ -7,7 +7,7 @@ forgot can be a verb of omission.
 forgot can indicate a failure of recall.
 forgot is a past-tense verb and a marker of lost memory.
 
-[user]where is forgot?
+[user]Where is forgot?
 [Ninereeds]forgot is here.
 forgot can be in a story line or school note.
 forgot can be on a page about a missed plan.
@@ -16,7 +16,7 @@ forgot can be in a diary entry.
 forgot can be in a lesson on irregular verbs.
 forgot is common in narratives and in grammar exercises.
 
-[user]what does forgot do?
+[user]What does forgot do?
 [Ninereeds]forgot is here.
 forgot can place memory loss in earlier time.
 forgot can help a sentence show a missed fact.
@@ -25,7 +25,7 @@ forgot can change the tense of a story.
 forgot can introduce a flashback.
 forgot is a tool for past reference and a signal of incomplete memory.
 
-[user]what is forgot like?
+[user]What is forgot like?
 [Ninereeds]forgot is here.
 forgot can feel human in a story line.
 forgot can look simple in past tense talk.

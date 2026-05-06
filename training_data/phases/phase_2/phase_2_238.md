@@ -1,4 +1,4 @@
-[user]what does a grandmother look like?
+[user]What does a grandmother look like?
 [Ninereeds]This is a grandmother.
 A grandmother has a face.
 A grandmother has hair.
@@ -7,7 +7,7 @@ A grandmother has glasses.
 A grandmother has a smile.
 A grandmother is a person with a smile and glasses.
 
-[user]where is a grandmother?
+[user]Where does a grandmother appear?
 [Ninereeds]This is a grandmother.
 A grandmother is at home.
 A grandmother is with family.
@@ -16,7 +16,7 @@ A grandmother is at the park.
 A grandmother is in a car.
 A grandmother is at home and with family.
 
-[user]what does a grandmother do?
+[user]What does a grandmother do?
 [Ninereeds]This is a grandmother.
 A grandmother talks.
 A grandmother tells stories.
@@ -25,7 +25,7 @@ A grandmother helps.
 A grandmother laughs.
 A grandmother is a talker and a helper.
 
-[user]what is a grandmother for?
+[user]What is a grandmother for?
 [Ninereeds]This is a grandmother.
 A grandmother is for talking.
 A grandmother is for playing.

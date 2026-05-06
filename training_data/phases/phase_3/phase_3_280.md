@@ -1,4 +1,4 @@
-[user]what does carry look like?
+[user]What does carry look like?
 [Ninereeds]This is carry.
 Carry is holding a thing.
 Carry is moving a load.
@@ -7,7 +7,7 @@ Carry is transporting an object.
 Carry is bearing a weight.
 Carry is holding and moving a thing.
 
-[user]where does carry appear?
+[user]Where does carry appear?
 [Ninereeds]This is carry.
 Carry appears in the hands.
 Carry appears on the back.
@@ -16,7 +16,7 @@ Carry appears in a cart.
 Carry appears on a shoulder.
 Carry is moving a thing from place to place.
 
-[user]what does carry do?
+[user]What does carry do?
 [Ninereeds]This is carry.
 Carry moves things from here.
 Carry takes things to there.
@@ -25,7 +25,7 @@ Carry transports objects.
 Carry enables delivery.
 Carry is a way to move things.
 
-[user]what is carry for?
+[user]What is carry for?
 [Ninereeds]This is carry.
 Carry is for shopping.
 Carry is for moving goods.

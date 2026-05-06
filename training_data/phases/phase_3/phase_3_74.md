@@ -1,35 +1,31 @@
-[user]what does unsettle mean?
-[Ninereeds]This is unsettle.
-Unsettle is to disturb.
-Unsettle is to make uneasy.
-Unsettle is to dislodge.
-Unsettle is to disrupt.
-Unsettle is to make unstable.
-Unsettle is to disturb or make uneasy.
+[user]What is unsettling?
+[Ninereeds]Unsettling is causing unease.
+Unsettling is making a place feel strange.
+Unsettling is disturbing a calm mood.
+Unsettling is shaking a sense of ease.
+Unsettling is giving a quiet fear.
+Unsettling is unease and disturbance.
 
-[user]where does unsettle appear?
-[Ninereeds]This is unsettle.
-Unsettle appears in minds.
-Unsettle appears in situations.
-Unsettle appears in foundations.
-Unsettle appears in emotions.
-Unsettle appears in plans.
-Unsettle is in minds and situations.
+[user]When does unsettling happen?
+[Ninereeds]Unsettling happens when a room feels wrong.
+Unsettling happens when a sudden change reaches a group.
+Unsettling happens in quiet halls and tense moments.
+Unsettling happens when a strange sign appears.
+Unsettling happens when a calm scene turns odd.
+Unsettling happens with strange change and tension.
 
-[user]what does unsettle do?
-[Ninereeds]This is unsettle.
-Unsettle creates uncertainty.
-Unsettle causes discomfort.
-Unsettle leads to change.
-Unsettle provokes thought.
-Unsettle challenges stability.
-Unsettle creates uncertainty and discomfort.
+[user]What does unsettling bring?
+[Ninereeds]Unsettling brings unease to a person.
+Unsettling brings tension to a room.
+Unsettling brings caution and worry.
+Unsettling brings a feeling of strangeness.
+Unsettling brings a pause in comfort.
+Unsettling brings unease and caution.
 
-[user]what is unsettle for?
-[Ninereeds]This is unsettle.
-Unsettle is for rethinking.
-Unsettle is for new perspectives.
-Unsettle is for forcing change.
-Unsettle is for growth.
-Unsettle is for breaking routines.
-Unsettle is for rethinking and growth.
+[user]What is unsettling for?
+[Ninereeds]Unsettling is for showing tension.
+Unsettling is for warning a listener.
+Unsettling is for breaking calm.
+Unsettling is for making a scene feel odd.
+Unsettling is for creating alertness.
+Unsettling is for tension and alertness.

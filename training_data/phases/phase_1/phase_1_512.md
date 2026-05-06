@@ -1,4 +1,4 @@
-[user]what does geese look like?
+[user]What does geese look like?
 [Ninereeds]This is geese.
 Geese are birds.
 Geese have long necks.
@@ -8,7 +8,7 @@ Geese have strong wings.
 Geese are birds with long necks white feathers and orange beaks.
 
 
-[user]where are geese found?
+[user]Where are geese found?
 [Ninereeds]This is geese.
 Geese are at a pond.
 Geese are in a field.
@@ -18,7 +18,7 @@ Geese fly in the sky in a v shape.
 Geese are at a pond and in a field and on a farm.
 
 
-[user]what do geese do?
+[user]What do geese do?
 [Ninereeds]This is geese.
 Geese swim in the water.
 Geese eat grass in the field.
@@ -28,7 +28,7 @@ Geese walk on the ground in a line.
 Geese swim in the water and fly in the sky and honk.
 
 
-[user]what are geese for?
+[user]What are geese for?
 [Ninereeds]This is geese.
 Geese give feathers.
 Geese lay eggs.

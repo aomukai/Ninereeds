@@ -1,4 +1,4 @@
-[user]what does my look like?
+[user]What does my look like?
 [Ninereeds]This is my.
 My is possessive.
 My is belonging.
@@ -7,7 +7,7 @@ My is attributive.
 My is speaker-related.
 My is possessive and personal.
 
-[user]where does my appear?
+[user]Where does my appear?
 [Ninereeds]This is my.
 My is common.
 My is essential.
@@ -16,7 +16,7 @@ My is basic.
 My is functional.
 My is common and essential.
 
-[user]what does my do?
+[user]What does my do?
 [Ninereeds]This is my.
 My is pre-nominal.
 My is first-person.
@@ -25,7 +25,7 @@ My is specific.
 My is relational.
 My is first-person and relational.
 
-[user]what is my for?
+[user]What is my for?
 [Ninereeds]This is my.
 My is possessional.
 My is proprietary.

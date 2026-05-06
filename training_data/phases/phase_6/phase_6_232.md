@@ -1,4 +1,4 @@
-[user]what is soak?
+[user]What is soak?
 [Ninereeds]soak is here.
 soak is a long wet rest in water.
 soak can be in a tub.
@@ -6,7 +6,7 @@ soak can be by soap or warm water.
 soak means a long wet rest in water.
 soak is a wet and restful state.
 
-[user]where is soak?
+[user]Where is soak?
 [Ninereeds]soak is here.
 soak can be in a tub.
 soak can be by soap or warm water.
@@ -14,7 +14,7 @@ soak can be in a sink or pail.
 soak can be in a pool.
 soak is a wet and restful state.
 
-[user]what does soak do?
+[user]What does soak do?
 [Ninereeds]soak is here.
 soak can fill a thing with water.
 soak can make a dry thing wet and soft.
@@ -22,7 +22,7 @@ soak can cover a thing with water.
 soak can clean a thing with water.
 soak is a wet and restful state.
 
-[user]what is soak like?
+[user]What is soak like?
 [Ninereeds]soak is here.
 soak can look wet and full.
 soak can feel warm in a tub.

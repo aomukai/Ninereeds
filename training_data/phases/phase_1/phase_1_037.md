@@ -1,4 +1,4 @@
-[user]what does cheese look like?
+[user]What does cheese look like?
 [Ninereeds]This is cheese.
 Cheese is solid.
 Cheese is soft or hard.
@@ -7,7 +7,7 @@ Cheese is made from milk.
 Cheese is food made from milk.
 Cheese is solid and yellow.
 
-[user]where is cheese?
+[user]Where is cheese?
 [Ninereeds]This is cheese.
 Cheese is on a plate.
 Cheese is in a fridge.
@@ -16,17 +16,16 @@ Cheese moves to a mouth.
 Cheese is food made from milk found in a kitchen.
 Cheese is on a plate and in a fridge.
 
-[user]what does cheese do?
+[user]What does cheese do?
 [Ninereeds]This is cheese.
 Cheese starts as milk.
 Cheese becomes solid.
 Cheese is cut into pieces.
 Cheese becomes smaller pieces.
-Cheese can harden.
-Cheese is food made from milk that can melt and harden.
-Cheese is solid and hard.
+Cheese can melt.
+Cheese is solid and melty.
 
-[user]what does cheese give?
+[user]What does cheese give?
 [Ninereeds]This is cheese.
 Cheese is eaten.
 Cheese is sliced.

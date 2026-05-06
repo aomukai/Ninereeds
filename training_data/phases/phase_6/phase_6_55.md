@@ -1,25 +1,25 @@
-[user]what is librarian?
+[user]What is librarian?
 [Ninereeds]librarian is here.
 librarian is a worker who helps with books in a library.
 librarian can guide book search.
 librarian can care for shelves and cards.
 librarian means a worker who helps with books in a library.
 
-[user]where is librarian?
+[user]Where is librarian?
 [Ninereeds]librarian is here.
 librarian can be at a library desk.
 librarian can be by tall shelves.
 librarian can be in a school library.
 librarian can be at a library desk.
 
-[user]what does librarian do?
+[user]What does librarian do?
 [Ninereeds]librarian is here.
 librarian can help find a book.
 librarian can check books in and out.
 librarian can keep shelves neat and full.
 librarian can help find a book.
 
-[user]what is librarian like?
+[user]What is librarian like?
 [Ninereeds]librarian is here.
 librarian can look calm and ready.
 librarian can sound clear and kind.

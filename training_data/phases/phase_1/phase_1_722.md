@@ -1,4 +1,4 @@
-[user]what does noise look like?
+[user]What does noise look like?
 [Ninereeds]This is noise.
 Noise is a sound.
 Noise is loud.
@@ -7,7 +7,7 @@ Noise comes from things.
 Noise moves through the air.
 Noise is a loud or soft sound that ears hear.
 
-[user]where is noise?
+[user]Where is noise?
 [Ninereeds]This is noise.
 Noise is in a room.
 Noise is on a street.
@@ -16,7 +16,7 @@ Noise is at a park.
 Noise comes from cars and people.
 Noise is a sound that fills rooms and streets.
 
-[user]what does noise do?
+[user]What does noise do?
 [Ninereeds]This is noise.
 Noise fills a space.
 Noise wakes a person.
@@ -25,7 +25,7 @@ Noise makes a person look up.
 Noise travels from one place to another.
 Noise is a sound that fills space and travels around.
 
-[user]what is noise for?
+[user]What is noise for?
 [Ninereeds]This is noise.
 Noise tells a person something.
 Noise warns of danger.

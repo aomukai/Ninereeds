@@ -1,4 +1,4 @@
-[user]what does anyway mean?
+[user]What does anyway mean?
 [Ninereeds]This is anyway.
 Anyway is transitional.
 Anyway is resumptive.
@@ -7,7 +7,7 @@ Anyway is conclusive.
 Anyway is dismissive.
 Anyway is transitional and resumptive.
 
-[user]where does anyway appear?
+[user]Where does anyway appear?
 [Ninereeds]This is anyway.
 Anyway is spoken.
 Anyway is written.
@@ -16,7 +16,7 @@ Anyway is informal.
 Anyway is formal.
 Anyway is spoken and written.
 
-[user]what does anyway do?
+[user]What does anyway do?
 [Ninereeds]This is anyway.
 Anyway is connecting.
 Anyway is shifting.
@@ -25,7 +25,7 @@ Anyway is resuming.
 Anyway is dismissing.
 Anyway is connecting and shifting.
 
-[user]what is anyway for?
+[user]What is anyway for?
 [Ninereeds]This is anyway.
 Anyway is summarizing.
 Anyway is transitioning.

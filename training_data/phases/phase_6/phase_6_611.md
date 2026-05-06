@@ -1,4 +1,4 @@
-[user]what does bias look like?
+[user]What does bias look like?
 [Ninereeds]This is a bias.
 Bias is a leaning.
 Bias is a way of thinking.
@@ -7,7 +7,7 @@ Bias has no color.
 Bias is an idea.
 Bias is a leaning and a way of thinking.
 
-[user]where does bias appear?
+[user]Where does bias appear?
 [Ninereeds]This is a bias.
 Bias appears in opinions.
 Bias appears in decisions.
@@ -16,7 +16,7 @@ Bias appears in stories.
 Bias appears in people.
 Bias appears in opinions and decisions.
 
-[user]what does bias do?
+[user]What does bias do?
 [Ninereeds]This is a bias.
 Bias makes thinking unfair.
 Bias favors one side.
@@ -25,7 +25,7 @@ Bias can hide truth.
 Bias distorts facts.
 Bias makes thinking unfair and favors one side.
 
-[user]what is bias for?
+[user]What is bias for?
 [Ninereeds]This is a bias.
 Bias is for understanding unfairness.
 Bias is for recognizing skewed views.

@@ -1,35 +1,31 @@
-[user]what does avoid mean?
-[Ninereeds]This is avoid.
-Avoid is to keep away from.
-Avoid is to prevent.
-Avoid is to refrain from.
-Avoid is to shun.
-Avoid is to bypass.
-Avoid is to keep away from or prevent.
+[user]What is Avoiding?
+[Ninereeds]Avoiding is keeping away from danger or trouble.
+Avoiding is a direct action in daily use.
+Avoiding is a simple move with a clear aim.
+Avoiding is used with people, things, or places.
+Avoiding is a practical action with clear shape.
+Avoiding is careful and guarded.
 
-[user]where does avoid appear?
-[Ninereeds]This is avoid.
-Avoid appears in dangers.
-Avoid appears in mistakes.
-Avoid appears in traps.
-Avoid appears in discussions.
-Avoid appears in roads.
-Avoid is in dangers and mistakes.
+[user]When does Avoiding happen?
+[Ninereeds]Avoiding happens when a person sees risk, trouble, or harm.
+Avoiding happens in daily tasks and plans.
+Avoiding happens during work, talk, or change.
+Avoiding happens in clear settings with active use.
+Avoiding happens when a situation needs the action.
+Avoiding happens when a choice has a bad result and a road has a hazard.
 
-[user]what does avoid do?
-[Ninereeds]This is avoid.
-Avoid prevents harm.
-Avoid reduces risk.
-Avoid keeps things safe.
-Avoid saves effort.
-Avoid maintains peace.
-Avoid prevents harm and reduces risk.
+[user]What does Avoiding bring?
+[Ninereeds]Avoiding brings less harm and fewer problems.
+Avoiding brings a clear result.
+Avoiding brings change to a task or scene.
+Avoiding brings a new state for people or things.
+Avoiding brings a useful effect in daily life.
+Avoiding brings safety and distance.
 
-[user]what is avoid for?
-[Ninereeds]This is avoid.
-Avoid is for safety.
-Avoid is for protection.
-Avoid is for efficiency.
-Avoid is for peace.
-Avoid is for wise choices.
-Avoid is for safety and protection.
+[user]What is Avoiding for?
+[Ninereeds]Avoiding is for staying away from risk.
+Avoiding is for daily work and simple goals.
+Avoiding is for clear action in a task.
+Avoiding is for use in homes, schools, or work.
+Avoiding is for a direct result and a clear aim.
+Avoiding is for safe path and clean escape.

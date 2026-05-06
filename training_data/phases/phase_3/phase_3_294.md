@@ -1,4 +1,4 @@
-[user]what does contact look like?
+[user]What does contact look like?
 [Ninereeds]This is contact.
 Contact is two things touching.
 Contact is a meeting of surfaces.
@@ -7,7 +7,7 @@ Contact is skin meeting skin.
 Contact is hand touching hand.
 Contact is two things meeting with a touch.
 
-[user]where does contact appear?
+[user]Where does contact appear?
 [Ninereeds]This is contact.
 Contact appears on the skin.
 Contact appears between hands.
@@ -16,7 +16,7 @@ Contact appears on a wall.
 Contact appears at the point of touch.
 Contact is a touch on the skin.
 
-[user]what does contact do?
+[user]What does contact do?
 [Ninereeds]This is contact.
 Contact makes a transfer of force.
 Contact passes heat between things.
@@ -25,7 +25,7 @@ Contact creates friction on a surface.
 Contact holds two things together.
 Contact makes force pass between two things.
 
-[user]what is contact for?
+[user]What is contact for?
 [Ninereeds]This is contact.
 Contact is for touching.
 Contact is for greeting.

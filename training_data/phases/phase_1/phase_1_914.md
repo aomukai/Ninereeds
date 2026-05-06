@@ -1,4 +1,4 @@
-[user]what does the sea look like?
+[user]What does the sea look like?
 [Ninereeds]This is the sea.
 The sea is blue.
 The sea is wide.
@@ -7,7 +7,7 @@ The sea has waves.
 The sea is water.
 The sea is wide and deep.
 
-[user]where is the sea?
+[user]Where is the sea?
 [Ninereeds]This is the sea.
 The sea is next to land.
 The sea is at the shore.
@@ -16,7 +16,7 @@ The sea is under the sky.
 The sea is between countries.
 The sea is next to land and at the shore.
 
-[user]what does the sea do?
+[user]What does the sea do?
 [Ninereeds]This is the sea.
 The sea has tides.
 The sea makes waves.
@@ -25,7 +25,7 @@ The sea moves up and down.
 The sea changes with the moon.
 The sea has tides and makes waves.
 
-[user]what is the sea for?
+[user]What is the sea for?
 [Ninereeds]This is the sea.
 The sea is for fish.
 The sea is for boats.

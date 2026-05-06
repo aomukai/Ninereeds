@@ -1,4 +1,4 @@
-[user]what does ice look like?
+[user]What does ice look like?
 [Ninereeds]This is ice.
 Ice is hard.
 Ice is cold.
@@ -7,7 +7,7 @@ Ice is frozen water.
 Ice is slick.
 Ice is hard and cold.
 
-[user]where is ice?
+[user]Where is ice?
 [Ninereeds]This is ice.
 Ice is on a lake.
 Ice is on a pond.
@@ -16,7 +16,7 @@ Ice is on a window in winter.
 Ice is in a freezer.
 Ice is on a lake and in a freezer.
 
-[user]what does ice do?
+[user]What does ice do?
 [Ninereeds]This is ice.
 Ice is melting in heat.
 Ice is cracking when warm.
@@ -25,7 +25,7 @@ Ice is making things cold.
 Ice is keeping food cold.
 Ice is melting and floating.
 
-[user]what does ice give?
+[user]What does ice give?
 [Ninereeds]This is ice.
 Ice is giving cold to a drink.
 Ice is cooling a drink on a hot day.

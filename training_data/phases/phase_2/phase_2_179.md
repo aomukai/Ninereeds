@@ -1,4 +1,4 @@
-[user]what does the bar look like?
+[user]What does the bar look like?
 [Ninereeds]This is a bar.
 A bar is a long piece.
 A bar is a solid piece.
@@ -7,7 +7,7 @@ A bar is made of wood.
 A bar is straight.
 A bar is a long, straight piece of material.
 
-[user]where is the bar?
+[user]Where is the bar?
 [Ninereeds]This is a bar.
 A bar is in a building.
 A bar is in a park.
@@ -16,7 +16,7 @@ A bar is part of a fence.
 A bar is part of a machine.
 A bar is a piece of metal in a machine.
 
-[user]what does the bar do?
+[user]What does the bar do?
 [Ninereeds]This is a bar.
 A bar holds things.
 A bar blocks things.
@@ -25,7 +25,7 @@ A bar helps a structure.
 A bar helps a machine work.
 A bar holds and supports a machine.
 
-[user]what is the bar for?
+[user]What is the bar for?
 [Ninereeds]This is a bar.
 A bar is for support.
 A bar is for blocking.

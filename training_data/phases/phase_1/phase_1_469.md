@@ -1,4 +1,4 @@
-[user]what does a flat look like?
+[user]What does a flat look like?
 [Ninereeds]This is a flat.
 A flat is level.
 A flat has no bumps.
@@ -7,7 +7,7 @@ A flat is like a table top.
 A flat is an even surface.
 A flat is level and smooth.
 
-[user]where is a flat?
+[user]Where is a flat?
 [Ninereeds]This is a flat.
 A flat is on a table.
 A flat is on the ground.
@@ -16,7 +16,7 @@ A flat is on a floor.
 A flat is on a board.
 A flat is level and on a surface.
 
-[user]what does a flat do?
+[user]What does a flat do?
 [Ninereeds]This is a flat.
 A flat holds a cup.
 A flat supports a plate.
@@ -25,7 +25,7 @@ A flat keeps an object still.
 A flat gives a base for a thing.
 A flat is stable and supportive.
 
-[user]what does a flat give?
+[user]What does a flat give?
 [Ninereeds]This is a flat.
 A flat gives a stable surface.
 A flat is good for stacking.

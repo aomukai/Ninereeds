@@ -1,4 +1,4 @@
-[user]what does a fold look like?
+[user]What does a fold look like?
 [Ninereeds]This is a fold.
 A fold is a bend in a cloth.
 A fold is a crease in paper.
@@ -7,7 +7,7 @@ A fold is a double of a sheet.
 A fold is a pleat in cloth.
 A fold is a bend in cloth and a crease in paper.
 
-[user]where does a fold happen?
+[user]Where does a fold happen?
 [Ninereeds]This is a fold.
 A fold happens in a cloth.
 A fold happens in paper.
@@ -16,7 +16,7 @@ A fold happens in a blanket.
 A fold happens in a towel.
 A fold happens in a blanket and a towel.
 
-[user]what does a fold do?
+[user]What does a fold do?
 [Ninereeds]This is a fold.
 A fold bends a cloth in half.
 A fold creases a sheet of paper.
@@ -25,7 +25,7 @@ A fold layers a towel on a rack.
 A fold pleats a skirt at the waist.
 A fold bends a cloth in half and creases a sheet of paper.
 
-[user]what is a fold for?
+[user]What is a fold for?
 [Ninereeds]This is a fold.
 A fold helps store a shirt in a drawer.
 A fold keeps paper flat in a book.

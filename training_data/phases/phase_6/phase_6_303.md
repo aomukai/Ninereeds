@@ -1,4 +1,4 @@
-[user]what does task look like?
+[user]What does task look like?
 [Ninereeds]This is task.
 Task has a clear outline.
 Task is written on paper.
@@ -7,7 +7,7 @@ Task is a list entry.
 Task is a digital item.
 Task is defined and tangible.
 
-[user]where is task?
+[user]Where is task?
 [Ninereeds]This is task.
 Task is on a schedule.
 Task is in a notebook.
@@ -16,7 +16,7 @@ Task is in a file.
 Task is at a desk.
 Task is present and located.
 
-[user]what does task do?
+[user]What does task do?
 [Ninereeds]This is task.
 Task gives work to a person.
 Task sets a goal to finish.
@@ -25,7 +25,7 @@ Task leads to a result.
 Task organizes life well.
 Task is productive and useful.
 
-[user]what is task for?
+[user]What is task for?
 [Ninereeds]This is task.
 Task is for completing work.
 Task is for learning skills.

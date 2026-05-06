@@ -1,4 +1,4 @@
-[user]what does a ring look like?
+[user]What does a ring look like?
 [Ninereeds]This is a ring.
 The ring is small.
 The ring is round.
@@ -7,7 +7,7 @@ The ring is made of metal.
 The ring is circular.
 The ring is small and round.
 
-[user]where is a ring?
+[user]Where can you find a ring?
 [Ninereeds]This is a ring.
 The ring is on a finger.
 The ring is in a box.
@@ -16,7 +16,7 @@ The ring moves with the hand.
 The ring is on a hand.
 The ring is on a finger and in a box.
 
-[user]what does a ring do?
+[user]What does a ring do?
 [Ninereeds]This is a ring.
 The ring starts off a finger.
 The ring slides onto a finger.
@@ -25,7 +25,7 @@ The ring comes off a finger.
 The ring turns on a finger.
 The ring is slidable and removable.
 
-[user]what does a ring give?
+[user]What does a ring give?
 [Ninereeds]This is a ring.
 The ring decorates a finger.
 The ring holds in place on a finger.

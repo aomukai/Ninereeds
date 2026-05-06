@@ -1,4 +1,4 @@
-[user]what does canvas look like?
+[user]What does canvas look like?
 [Ninereeds]This is canvas.
 Canvas is a cloth.
 Canvas is flat.
@@ -7,7 +7,7 @@ Canvas is stretched.
 Canvas is for painting.
 Canvas is flat and white.
 
-[user]where is canvas?
+[user]Where can you find canvas?
 [Ninereeds]This is canvas.
 Canvas is in an art studio.
 Canvas is on an easel.
@@ -16,7 +16,7 @@ Canvas is in a gallery.
 Canvas is with a painter.
 Canvas is in a studio and on a wall.
 
-[user]what does canvas do?
+[user]What does canvas do?
 [Ninereeds]This is canvas.
 Canvas is for holding paint.
 Canvas is for showing art.
@@ -25,7 +25,7 @@ Canvas is for absorbing color.
 Canvas is for drying paint.
 Canvas is for holding paint and for showing art.
 
-[user]what is canvas for?
+[user]What does canvas give?
 [Ninereeds]This is canvas.
 Canvas is for making art.
 Canvas is for painting images.

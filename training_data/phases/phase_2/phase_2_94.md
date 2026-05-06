@@ -1,35 +1,31 @@
-[user]what does own look like?
-[Ninereeds]This is own.
-Own is unseen.
-Own is connected.
-Own is possessive.
-Own is abstract.
-Own is shapeless.
-Own is possessive and connected.
+[user]What is Owning?
+[Ninereeds]Owning is having something as property.
+Owning is a direct action in daily use.
+Owning is a simple move with a clear aim.
+Owning is used with people, things, or places.
+Owning is a practical action with clear shape.
+Owning is personal and held.
 
-[user]where does own appear?
-[Ninereeds]This is own.
-Own is interpersonal.
-Own is syntactic.
-Own is relational.
-Own is lexical.
-Own is ideational.
-Own is interpersonal and syntactic.
+[user]When does Owning happen?
+[Ninereeds]Owning happens when a person gains a house, tool, or right.
+Owning happens in daily tasks and plans.
+Owning happens during work, talk, or change.
+Owning happens in clear settings with active use.
+Owning happens when a situation needs the action.
+Owning happens when a family keeps a shared item and a claim gives control.
 
-[user]what does own do?
-[Ninereeds]This is own.
-Own is indicative.
-Own is possessive.
-Own is connective.
-Own is personal.
-Own is bonding.
-Own is indicative and possessive.
+[user]What does Owning bring?
+[Ninereeds]Owning brings a clear tie between a person and a thing.
+Owning brings a clear result.
+Owning brings change to a task or scene.
+Owning brings a new state for people or things.
+Owning brings a useful effect in daily life.
+Owning brings possession and control.
 
-[user]what is own for?
-[Ninereeds]This is own.
-Own is possessive.
-Own is defining.
-Own is clarifying.
-Own is protective.
-Own is organizational.
-Own is possessive and defining.
+[user]What is Owning for?
+[Ninereeds]Owning is for keeping property and responsibility.
+Owning is for daily work and simple goals.
+Owning is for clear action in a task.
+Owning is for use in homes, schools, or work.
+Owning is for a direct result and a clear aim.
+Owning is for possession and careful holding.

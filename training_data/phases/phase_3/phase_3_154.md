@@ -1,35 +1,31 @@
-[user]what is examine?
-[Ninereeds]This is examine.
-Examine is an action.
-Examine involves careful looking.
-Examine involves using hands.
-Examine is a careful look.
-Examine is a detailed check.
-Examine is an action and a careful look.
+[user]What is examining?
+[Ninereeds]Examining is looking at a thing with care.
+Examining is checking details in a close way.
+Examining is reading signs, marks, or parts.
+Examining is testing a case before a choice.
+Examining is paying steady attention to a subject.
+Examining is care and detail.
 
-[user]where does examine appear?
-[Ninereeds]This is examine.
-Examine appears in science.
-Examine appears in schools.
-Examine appears in medicine.
-Examine appears in investigations.
-Examine appears in careful checks.
-Examine appears in science and in schools.
+[user]When does examining happen?
+[Ninereeds]Examining happens when a doctor checks a body.
+Examining happens when a teacher reviews work.
+Examining happens when a scientist studies a sample.
+Examining happens when a judge or reader weighs a case.
+Examining happens when a tool, plan, or object needs close care.
+Examining happens when detail meets attention.
 
-[user]what does examine do?
-[Ninereeds]This is examine.
-Examine involves finding facts.
-Examine involves discovering problems.
-Examine involves understanding details.
-Examine involves searching for truth.
-Examine involves assessing condition.
-Examine involves finding facts and discovering problems.
+[user]What does examining bring?
+[Ninereeds]Examining brings clear facts.
+Examining brings a sharper view of a case.
+Examining brings useful clues.
+Examining brings better judgment.
+Examining brings a stronger check on error.
+Examining brings facts and judgment.
 
-[user]what is examine for?
-[Ninereeds]This is examine.
-Examine is for learning.
-Examine is for finding answers.
-Examine is for solving mysteries.
-Examine is for quality control.
-Examine is for making diagnoses.
-Examine is for learning and finding answers.
+[user]What is examining for?
+[Ninereeds]Examining is for finding detail.
+Examining is for checking truth or quality.
+Examining is for guiding a careful choice.
+Examining is for studying a problem.
+Examining is for keeping a result sound.
+Examining is for detail and truth.

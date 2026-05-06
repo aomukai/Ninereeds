@@ -1,4 +1,4 @@
-[user]what does produce mean?
+[user]What does produce mean?
 [Ninereeds]This is produce.
 Produce is to make.
 Produce is to create.
@@ -7,7 +7,7 @@ Produce is to bring forth.
 Produce is to yield.
 Produce is to make or create something.
 
-[user]where does produce appear?
+[user]Where does produce appear?
 [Ninereeds]This is produce.
 Produce appears in factories.
 Produce appears in farms.
@@ -16,7 +16,7 @@ Produce appears in nature.
 Produce appears in efforts.
 Produce is in factories and farms.
 
-[user]what does produce do?
+[user]What does produce do?
 [Ninereeds]This is produce.
 Produce makes new things.
 Produce provides goods.
@@ -25,7 +25,7 @@ Produce results in output.
 Produce builds resources.
 Produce makes new things and provides goods.
 
-[user]what is produce for?
+[user]What is produce for?
 [Ninereeds]This is produce.
 Produce is for human needs.
 Produce is for economic growth.

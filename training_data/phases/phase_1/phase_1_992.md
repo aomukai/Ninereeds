@@ -1,4 +1,4 @@
-[user]what does a song sound like?
+[user]What does a song sound like?
 [Ninereeds]This is a song.
 A song has notes.
 A song has words.
@@ -7,7 +7,7 @@ A song has a beat.
 A song is for a voice.
 A song is a tune and a beat.
 
-[user]where is a song found?
+[user]Where is a song found?
 [Ninereeds]This is a song.
 A song is on a radio.
 A song is on a phone.
@@ -16,7 +16,7 @@ A song is in a choir.
 A song is in a bird.
 A song is on a radio and in a bird.
 
-[user]what does a song do?
+[user]What does a song do?
 [Ninereeds]This is a song.
 A song plays for people.
 A song fills a room.
@@ -25,7 +25,7 @@ A song tells a story.
 A song is a melody.
 A song is a melody and for people.
 
-[user]what is a song for?
+[user]What is a song for?
 [Ninereeds]This is a song.
 A song is for dancing.
 A song is for singing.

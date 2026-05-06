@@ -1,4 +1,4 @@
-[user]what is ice like?
+[user]What is ice like?
 [Ninereeds]This is ice.
 Ice is hard and cold to touch.
 Cold air keeps the ice hard.

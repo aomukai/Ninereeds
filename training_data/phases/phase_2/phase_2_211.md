@@ -1,4 +1,4 @@
-[user]what does a coop look like?
+[user]What does a coop look like?
 [Ninereeds]This is a coop.
 A coop is a small building.
 A coop is a shelter for animals.
@@ -7,7 +7,7 @@ A coop has a roof.
 A coop has walls.
 A coop is a small building for animals.
 
-[user]where is a coop?
+[user]Where is a coop?
 [Ninereeds]This is a coop.
 A coop is in a yard.
 A coop is in a farm.
@@ -16,7 +16,7 @@ A coop is near a house.
 A coop is outside.
 A coop is a small building in a yard.
 
-[user]what does a coop do?
+[user]What does a coop do?
 [Ninereeds]This is a coop.
 A coop keeps animals safe.
 A coop protects animals from weather.
@@ -25,7 +25,7 @@ A coop has nests.
 A coop holds food.
 A coop keeps animals safe and gives them a home.
 
-[user]what is a coop for?
+[user]What is a coop for?
 [Ninereeds]This is a coop.
 A coop is for chickens.
 A coop is for rabbits.

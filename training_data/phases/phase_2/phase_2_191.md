@@ -1,4 +1,4 @@
-[user]what does a buddy look like?
+[user]What does a buddy look like?
 [Ninereeds]This is a buddy.
 A buddy is a friend.
 A buddy is a companion.
@@ -7,7 +7,7 @@ A buddy is often smiling.
 A buddy is always helpful.
 A buddy is a smiling friend and companion.
 
-[user]where is a buddy?
+[user]Where does a buddy appear?
 [Ninereeds]This is a buddy.
 A buddy is with a friend.
 A buddy is at a school.
@@ -16,7 +16,7 @@ A buddy is on a playground.
 A buddy is by a side.
 A buddy is at a school with a friend.
 
-[user]what does a buddy do?
+[user]What does a buddy do?
 [Ninereeds]This is a buddy.
 A buddy plays games.
 A buddy helps a friend.
@@ -25,7 +25,7 @@ A buddy talks to a friend.
 A buddy laughs with a friend.
 A buddy plays games and helps a friend.
 
-[user]what is a buddy used for?
+[user]What is a buddy for?
 [Ninereeds]This is a buddy.
 A buddy gives companionship.
 A buddy offers support.

@@ -1,4 +1,4 @@
-[user]how does a sleepy frog rest?
+[user]How does a sleepy frog rest?
 [Ninereeds]This is a sleepy frog.
 The frog jumps in the grass.
 The frog jumps to the leaf.

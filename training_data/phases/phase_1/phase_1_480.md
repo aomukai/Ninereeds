@@ -1,4 +1,4 @@
-[user]what does fog look like?
+[user]What does fog look like?
 [Ninereeds]This is fog.
 Fog is gray.
 Fog is misty.
@@ -7,28 +7,29 @@ Fog is low.
 Fog is a gray mist in the air.
 Fog is a thick gray mist low in the air.
 
-[user]where is fog?
+[user]Where can you find fog?
 [Ninereeds]This is fog.
 Fog is in the air.
 Fog is over the ground.
 Fog is on the road.
 Fog is in a valley.
 Fog is a gray mist over the ground.
-Fog is a thick gray mist in a valley.
+Fog is in the air and over the ground.
 
-[user]what does fog do?
+[user]What does fog do?
 [Ninereeds]This is fog.
 Fog covers the view.
 Fog makes the air wet.
 Fog drifts across the ground.
 Fog hides the road.
 Fog is a gray mist that covers the view.
-Fog is a thick gray mist that hides the road.
+Fog covers the view and hides the road.
 
-[user]what is fog for?
+[user]What does fog give?
 [Ninereeds]This is fog.
-Fog makes the air cool.
-Fog makes the air damp.
-Fog covers the ground in mist.
-Fog makes things hard to see.
-Fog is a gray mist that makes the air cool and damp.
+Fog gives a cool air.
+Fog gives a damp air.
+Fog gives a mist over the ground.
+Fog gives a cover for the view.
+Fog gives a mystery to the world.
+Fog is a cool mist and a damp cover.

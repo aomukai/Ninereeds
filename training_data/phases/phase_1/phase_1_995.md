@@ -1,4 +1,4 @@
-[user]what does soup look like?
+[user]What does soup look like?
 [Ninereeds]This is soup.
 Soup is a liquid.
 Soup is in a bowl.
@@ -7,7 +7,7 @@ Soup is hot.
 Soup is thin.
 Soup is hot and thin.
 
-[user]where is soup found?
+[user]Where is soup found?
 [Ninereeds]This is soup.
 Soup is in a pot.
 Soup is in a bowl.
@@ -16,7 +16,7 @@ Soup is in a spoon.
 Soup is on a table.
 Soup is in a pot and on a stove.
 
-[user]what does soup do?
+[user]What does soup do?
 [Ninereeds]This is soup.
 Soup is filling.
 Soup is steaming.
@@ -25,7 +25,7 @@ Soup is soaking.
 Soup is cooling.
 Soup is warming and filling.
 
-[user]what is soup for?
+[user]What is soup for?
 [Ninereeds]This is soup.
 Soup is for a meal.
 Soup is for a cold day.

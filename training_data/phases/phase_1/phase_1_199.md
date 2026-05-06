@@ -1,4 +1,4 @@
-[user]what does a ball look like?
+[user]What does a ball look like?
 [Ninereeds]This is a ball.
 A ball is round like a circle.
 A ball is smooth on the outside.
@@ -7,7 +7,7 @@ A ball comes in many colors.
 A ball is small enough to hold.
 A ball is a round smooth toy.
 
-[user]where is a ball?
+[user]Where is a ball?
 [Ninereeds]This is a ball.
 A ball is on a field.
 A ball is in a yard.
@@ -16,7 +16,7 @@ A ball is under a tree.
 A ball is on a shelf in a garage.
 A ball is a toy on a field.
 
-[user]what does a ball do?
+[user]What does a ball do?
 [Ninereeds]This is a ball.
 A ball bounces on the ground.
 A ball rolls down a hill.
@@ -25,7 +25,7 @@ A ball spins when thrown.
 A ball stops against a wall.
 A ball bounces and rolls on the ground.
 
-[user]what is a ball for?
+[user]What is a ball for?
 [Ninereeds]This is a ball.
 A ball is for playing catch.
 A ball is for kicking in a field.

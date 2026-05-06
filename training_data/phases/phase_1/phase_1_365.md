@@ -1,4 +1,4 @@
-[user]what does a cow look like?
+[user]What does a cow look like?
 [Ninereeds]This is a cow.
 A cow is a large animal.
 A cow has spots.
@@ -7,7 +7,7 @@ A cow has a tail.
 A cow has horns.
 A cow is large and spotted.
 
-[user]where is a cow?
+[user]Where is a cow?
 [Ninereeds]This is a cow.
 A cow is on a farm.
 A cow is in a field.
@@ -16,7 +16,7 @@ A cow is in a pasture.
 A cow stands on grass.
 A cow is on a farm and in a field.
 
-[user]what does a cow do?
+[user]What does a cow do?
 [Ninereeds]This is a cow.
 A cow eats grass.
 A cow chews cud.
@@ -25,7 +25,7 @@ A cow moos to call a calf.
 A cow rests in the shade.
 A cow is a grass-eater and a cud-chewer.
 
-[user]what is a cow used for?
+[user]What is a cow used for?
 [Ninereeds]This is a cow.
 A cow gives milk.
 A cow gives meat.

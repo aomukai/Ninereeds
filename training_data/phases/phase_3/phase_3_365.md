@@ -1,4 +1,4 @@
-[user]what does flow look like?
+[user]What does flow look like?
 [Ninereeds]This is flow.
 Flow is a smooth move.
 Flow is a steady stream.
@@ -7,7 +7,7 @@ Flow is a constant run.
 Flow is a calm drift.
 Flow is a smooth steady move.
 
-[user]where does flow happen?
+[user]Where does flow happen?
 [Ninereeds]This is flow.
 Flow happens in a river.
 Flow happens in a pipe.
@@ -16,7 +16,7 @@ Flow happens through a tube.
 Flow happens across a surface.
 Flow happens in a river through a pipe.
 
-[user]what does flow do?
+[user]What does flow do?
 [Ninereeds]This is flow.
 Flow moves water down a river.
 Flow carries water through a pipe.
@@ -25,7 +25,7 @@ Flow runs water into a lake.
 Flow sends water to a sea.
 Flow moves water down a river to a sea.
 
-[user]what is flow for?
+[user]What is flow for?
 [Ninereeds]This is flow.
 Flow brings water from one place.
 Flow moves water to a new place.

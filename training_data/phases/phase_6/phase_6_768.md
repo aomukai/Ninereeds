@@ -1,35 +1,31 @@
-[user]what does confirm mean?
-[Ninereeds]This is confirm.
-Confirm is to make sure.
-Confirm is to verify.
-Confirm is to establish a truth.
-Confirm is to assent.
-Confirm is to validate.
-Confirm is to make sure and to verify.
+[user]What is confirming?
+[Ninereeds]Confirming is making a fact sure.
+Confirming is a clear checking action.
+Confirming is common in plans, messages, and checks.
+Confirming is a firm and useful act.
+Confirming gives a fact stronger ground.
+Confirming is sure and clear.
 
-[user]where does confirm occur?
-[Ninereeds]This is confirm.
-Confirm occurs in proofs.
-Confirm occurs in agreements.
-Confirm occurs in tests.
-Confirm occurs in observations.
-Confirm occurs in decisions.
-Confirm occurs in proofs and in agreements.
+[user]When does confirming happen?
+[Ninereeds]Confirming happens when a detail needs a final check.
+Confirming happens in messages, bookings, and reports.
+Confirming happens when an answer needs support.
+Confirming happens during review and reply.
+Confirming happens when a claim feels close to true.
+Confirming happens with check and support.
 
-[user]what does confirm do?
-[Ninereeds]This is confirm.
-Confirm removes doubt.
-Confirm gives certainty.
-Confirm solidifies a fact.
-Confirm strengthens a belief.
-Confirm makes a statement true.
-Confirm removes doubt and gives certainty.
+[user]What does confirming bring?
+[Ninereeds]Confirming brings certainty.
+Confirming brings a settled answer.
+Confirming brings trust in a detail.
+Confirming brings a clear yes.
+Confirming brings less doubt.
+Confirming brings certainty and trust.
 
-[user]what is confirm for?
-[Ninereeds]This is confirm.
-Confirm is for establishing facts.
-Confirm is for assurance.
-Confirm is for ensuring accuracy.
-Confirm is for making a promise firm.
-Confirm is for validation.
-Confirm is for establishing facts and ensuring accuracy.
+[user]What is confirming for?
+[Ninereeds]Confirming is for making a fact sure.
+Confirming is for checking a plan.
+Confirming is for supporting an answer.
+Confirming is for finishing a review.
+Confirming is for keeping details clear.
+Confirming is for sure and support.

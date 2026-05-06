@@ -1,4 +1,4 @@
-[user]what does a screwdriver look like?
+[user]What does a screwdriver look like?
 [Ninereeds]This is a screwdriver.
 A screwdriver has a handle.
 A screwdriver has a shaft.
@@ -7,7 +7,7 @@ A screwdriver is long.
 A screwdriver is a tool.
 A screwdriver is a long tool with a handle and a tip.
 
-[user]where is a screwdriver?
+[user]Where is a screwdriver?
 [Ninereeds]This is a screwdriver.
 A screwdriver is in a toolbox.
 A screwdriver is on a workbench.
@@ -16,7 +16,7 @@ A screwdriver is in a workshop.
 A screwdriver is in a garage.
 A screwdriver is in a toolbox on a workbench.
 
-[user]what does a screwdriver do?
+[user]What does a screwdriver do?
 [Ninereeds]This is a screwdriver.
 A screwdriver turns a screw.
 A screwdriver tightens a screw.
@@ -25,7 +25,7 @@ A screwdriver spins the screw head.
 A screwdriver drives a screw into wood.
 A screwdriver turns a screw into wood.
 
-[user]what is a screwdriver for?
+[user]What is a screwdriver for?
 [Ninereeds]This is a screwdriver.
 A screwdriver is for screws.
 A screwdriver is for assembly.

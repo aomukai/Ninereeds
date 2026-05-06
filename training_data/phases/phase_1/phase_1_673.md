@@ -1,4 +1,4 @@
-[user]what does a monkey look like?
+[user]What does a monkey look like?
 [Ninereeds]This is a monkey.
 A monkey has fur.
 A monkey has a long tail.
@@ -7,7 +7,7 @@ A monkey has a face like a person.
 A monkey is a furry animal.
 A monkey is long-tailed and two-armed.
 
-[user]where is a monkey?
+[user]Where is a monkey?
 [Ninereeds]This is a monkey.
 A monkey is in a tree.
 A monkey is in a jungle.
@@ -16,7 +16,7 @@ A monkey is on a branch.
 A monkey lives in a tree.
 A monkey is tree-dwelling and jungle-dwelling.
 
-[user]what does a monkey do?
+[user]What does a monkey do?
 [Ninereeds]This is a monkey.
 A monkey climbs trees.
 A monkey swings from branch to branch.
@@ -25,7 +25,7 @@ A monkey jumps between branches.
 A monkey is a climber.
 A monkey is a climber and a swinger.
 
-[user]what is a monkey for?
+[user]What is a monkey for?
 [Ninereeds]This is a monkey.
 A monkey is part of the jungle.
 A monkey spreads seeds from fruit.

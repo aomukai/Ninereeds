@@ -1,4 +1,4 @@
-[user]what does a cart look like?
+[user]What does a cart look like?
 [Ninereeds]This is a cart.
 A cart has four wheels.
 A cart has a flat bed.
@@ -7,7 +7,7 @@ A cart is open on top.
 A cart is pulled by a person.
 A cart is a flat bed on four wheels.
 
-[user]where is a cart?
+[user]Where is a cart?
 [Ninereeds]This is a cart.
 A cart is in a market.
 A cart is on a path.
@@ -16,7 +16,7 @@ A cart is in a barn.
 A cart is in a field.
 A cart is in a market on a path.
 
-[user]what does a cart do?
+[user]What does a cart do?
 [Ninereeds]This is a cart.
 A cart carries goods.
 A cart moves loads.
@@ -25,7 +25,7 @@ A cart hauls supplies.
 A cart transports objects.
 A cart carries goods on wheels.
 
-[user]what is a cart for?
+[user]What is a cart for?
 [Ninereeds]This is a cart.
 A cart is for carrying.
 A cart is for hauling.

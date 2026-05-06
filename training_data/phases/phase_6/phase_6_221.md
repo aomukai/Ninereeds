@@ -1,27 +1,35 @@
-[user]what is small?
-[Ninereeds]small is here.
-small is a word for little size.
-small can be in class talk.
-small can describe a toy or seed.
-small is a size word.
+[user]What does small look like?
+[Ninereeds]This is small.
+Small is a size that is little.
+Small is less than medium.
+Small fits in a palm.
+Small is a compact shape.
+Small takes up little space.
+Small is little and compact.
 
-[user]where is small?
-[Ninereeds]small is here.
-small can be on a size chart.
-small can be in a classroom.
-small can be by a small object.
-small can be on a label.
+[user]Where does small appear?
+[Ninereeds]This is small.
+Small appears on a size label.
+Small appears in a toy box.
+Small sits in a small hand.
+Small lives in a small room.
+Small comes in a small package.
+Small is a label and a space.
 
-[user]what does small do?
-[Ninereeds]small is here.
-small tells that a thing has little size.
-small helps sort things by size.
-small compares one object to another.
-small indicates a small size.
+[user]What does small do?
+[Ninereeds]This is small.
+Small tells a size of a thing.
+Small compares one thing to another.
+Small helps sort by dimension.
+Small fits in a tight space.
+Small describes a small object.
+Small is a measure and a word.
 
-[user]what is small like?
-[Ninereeds]small is here.
-small looks little in a group.
-small feels light in a hand.
-small sounds short in class talk.
-small is a small concept.
+[user]What is small for?
+[Ninereeds]This is small.
+Small is for describing little things.
+Small is for size comparison.
+Small is for classifying objects.
+Small is for compact spaces.
+Small is for portable items.
+Small is a descriptor and a category.

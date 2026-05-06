@@ -1,4 +1,4 @@
-[user]what is advantage?
+[user]What is advantage?
 [Ninereeds]This is an advantage.
 An advantage is a good thing.
 An advantage is a helpful thing.
@@ -7,7 +7,7 @@ An advantage gives a better chance.
 An advantage is a benefit.
 An advantage is a helpful thing that gives a better chance.
 
-[user]where is advantage?
+[user]Where is advantage?
 [Ninereeds]This is an advantage.
 An advantage is in a situation.
 An advantage is in a person's skill.
@@ -16,7 +16,7 @@ An advantage is in a plan.
 An advantage is in a choice.
 An advantage is in a skill, a tool, or a choice.
 
-[user]what does advantage do?
+[user]What does advantage do?
 [Ninereeds]This is an advantage.
 An advantage helps a person win.
 An advantage makes a task fast.
@@ -25,7 +25,7 @@ An advantage provides a lead.
 An advantage makes a situation good.
 An advantage helps a person win and makes a task fast.
 
-[user]what is advantage for?
+[user]What is advantage for?
 [Ninereeds]This is an advantage.
 An advantage is for winning.
 An advantage is for success.

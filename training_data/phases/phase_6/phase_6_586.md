@@ -1,4 +1,4 @@
-[user]what does regardless look like?
+[user]What does regardless look like?
 [Ninereeds]This is regardless.
 Regardless is a word.
 Regardless is an adverb.
@@ -7,7 +7,7 @@ Regardless is an abstract concept.
 Regardless is used in language.
 Regardless is a word and an adverb.
 
-[user]where is regardless?
+[user]Where is regardless?
 [Ninereeds]This is regardless.
 Regardless exists in speech.
 Regardless appears in writing.
@@ -16,7 +16,7 @@ Regardless occurs in sentences.
 Regardless is part of grammar.
 Regardless exists in speech and writing.
 
-[user]what does regardless do?
+[user]What does regardless do?
 [Ninereeds]This is regardless.
 Regardless shows indifference.
 Regardless indicates no change.
@@ -25,7 +25,7 @@ Regardless negates conditions.
 Regardless emphasizes continuation.
 Regardless shows indifference and connects clauses.
 
-[user]what is regardless for?
+[user]What is regardless for?
 [Ninereeds]This is regardless.
 Regardless is for emphasis.
 Regardless is for contrast.

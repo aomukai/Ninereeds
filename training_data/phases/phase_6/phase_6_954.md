@@ -1,4 +1,4 @@
-[user]what does don't look like?
+[user]What does don't look like?
 [Ninereeds]This is don't.
 Don't is short.
 Don't is common.
@@ -7,7 +7,7 @@ Don't is useful.
 Don't is verbal.
 Don't is short and common.
 
-[user]where does don't appear?
+[user]Where does don't appear?
 [Ninereeds]This is don't.
 Don't is written.
 Don't is spoken.
@@ -16,7 +16,7 @@ Don't is prohibitive.
 Don't is conversational.
 Don't is written and spoken.
 
-[user]what does don't do?
+[user]What does don't do?
 [Ninereeds]This is don't.
 Don't is restrictive.
 Don't is corrective.
@@ -25,7 +25,7 @@ Don't is negating.
 Don't is directive.
 Don't is restrictive and corrective.
 
-[user]what is don't for?
+[user]What is don't for?
 [Ninereeds]This is don't.
 Don't is direct.
 Don't is simple.

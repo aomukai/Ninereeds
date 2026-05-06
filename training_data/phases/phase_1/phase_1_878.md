@@ -1,4 +1,4 @@
-[user]what does rough look like?
+[user]What does rough look like?
 [Ninereeds]This is rough.
 Rough has bumps on the surface.
 Rough is not smooth.
@@ -7,7 +7,7 @@ Rough looks uneven.
 Rough has a rough surface.
 Rough has a bumpy and uneven surface.
 
-[user]where is rough?
+[user]Where is rough?
 [Ninereeds]This is rough.
 Rough is on a tree trunk.
 Rough is on a rock.
@@ -16,7 +16,7 @@ Rough is on a wall.
 Rough is on the ground.
 Rough is on a tree trunk and a rock.
 
-[user]what does rough do?
+[user]What does rough do?
 [Ninereeds]This is rough.
 Rough gives grip to a hand.
 Rough holds a shoe on a slope.
@@ -25,7 +25,7 @@ Rough rubs against cloth.
 Rough scratches a surface.
 Rough gives grip and scrapes skin.
 
-[user]what is rough for?
+[user]What is rough for?
 [Ninereeds]This is rough.
 Rough is for grip on a handle.
 Rough is for climbing a wall.

@@ -1,4 +1,4 @@
-[user]what does wriggle look like?
+[user]What does wriggle look like?
 [Ninereeds]This is wriggle.
 Wriggle is a twisting motion.
 Wriggle is a side-to-side movement.
@@ -7,7 +7,7 @@ Wriggle is a wavy line.
 Wriggle is a serpentine wiggle.
 Wriggle is a twisting motion and a side-to-side movement.
 
-[user]where does wriggle happen?
+[user]Where does wriggle happen?
 [Ninereeds]This is wriggle.
 Wriggle happens in soil.
 Wriggle happens under leaves.
@@ -16,7 +16,7 @@ Wriggle happens on sand.
 Wriggle happens through grass.
 Wriggle happens in soil and under leaves.
 
-[user]what does wriggle do?
+[user]What does wriggle do?
 [Ninereeds]This is wriggle.
 Wriggle propels a body.
 Wriggle navigates a tight space.
@@ -25,7 +25,7 @@ Wriggle twists through a tunnel.
 Wriggle moves without limbs.
 Wriggle propels a body and navigates a tight space.
 
-[user]what is wriggle for?
+[user]What is wriggle for?
 [Ninereeds]This is wriggle.
 Wriggle is for escape.
 Wriggle is for burrowing.

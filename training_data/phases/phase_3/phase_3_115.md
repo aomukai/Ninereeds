@@ -1,4 +1,4 @@
-[user]what does well-test mean?
+[user]What does well-test mean?
 [Ninereeds]This is well-test.
 Well-test is to test thoroughly.
 Well-test is to examine carefully.
@@ -7,7 +7,7 @@ Well-test is to verify function.
 Well-test is to ensure quality.
 Well-test is thorough and careful.
 
-[user]where does well-test appear?
+[user]Where does well-test appear?
 [Ninereeds]This is well-test.
 Well-test appears in products.
 Well-test appears in systems.
@@ -16,7 +16,7 @@ Well-test appears in ideas.
 Well-test appears in theories.
 Well-test is in products and systems.
 
-[user]what does well-test do?
+[user]What does well-test do?
 [Ninereeds]This is well-test.
 Well-test ensures quality.
 Well-test prevents errors.
@@ -25,7 +25,7 @@ Well-test provides assurance.
 Well-test identifies flaws.
 Well-test is quality-assuring and error-preventing.
 
-[user]what is well-test for?
+[user]What is well-test for?
 [Ninereeds]This is well-test.
 Well-test is for reliability.
 Well-test is for safety.

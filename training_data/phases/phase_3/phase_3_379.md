@@ -1,4 +1,4 @@
-[user]what does glide look like?
+[user]What does glide look like?
 [Ninereeds]This is glide.
 Glide is a smooth move through the air.
 Glide is a quiet sail on the wind.
@@ -7,16 +7,16 @@ Glide is a soft float over the ground.
 Glide is a calm ride above the trees.
 Glide is a steady and silent path.
 
-[user]where does glide happen?
+[user]Where does glide appear?
 [Ninereeds]This is glide.
 Glide happens in the air.
 Glide happens above the ground.
 Glide happens over a lake.
 Glide happens through the sky.
 Glide happens across a field.
-Glide happens near a tall cliff.
+Glide is a smooth path and a quiet motion.
 
-[user]what does glide do?
+[user]What does glide do?
 [Ninereeds]This is glide.
 Glide moves a bird through the air.
 Glide carries a plane over the hills.
@@ -25,7 +25,7 @@ Glide slides a boat on the water.
 Glide floats a leaf down from a tree.
 Glide gives a smooth and quiet travel.
 
-[user]what is glide for?
+[user]What is glide for?
 [Ninereeds]This is glide.
 Glide helps a bird save energy.
 Glide takes a plane to a landing.

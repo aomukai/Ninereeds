@@ -1,4 +1,4 @@
-[user]what does a bean make?
+[user]What does a bean make?
 [Ninereeds]This is a bean.
 The bean grows in a pod on a vine.
 The vine holds the pod with the bean.

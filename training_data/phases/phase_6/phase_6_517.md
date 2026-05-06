@@ -1,4 +1,4 @@
-[user]what does theory mean?
+[user]What does theory mean?
 [Ninereeds]This is a theory.
 Theory is an explanation.
 Theory is a system of ideas.
@@ -7,7 +7,7 @@ Theory is a proposed explanation.
 Theory is a logical framework.
 Theory is an explanation or system of ideas.
 
-[user]where does theory appear?
+[user]Where does theory appear?
 [Ninereeds]This is a theory.
 Theory appears in science.
 Theory appears in research.
@@ -16,7 +16,7 @@ Theory appears in discussions.
 Theory appears in books.
 Theory is in science and research.
 
-[user]what does theory do?
+[user]What does theory do?
 [Ninereeds]This is a theory.
 Theory explains phenomena.
 Theory predicts outcomes.
@@ -25,7 +25,7 @@ Theory organizes facts.
 Theory provides understanding.
 Theory explains phenomena and guides research.
 
-[user]what is theory for?
+[user]What is theory for?
 [Ninereeds]This is a theory.
 Theory is for understanding the world.
 Theory is for making predictions.

@@ -1,4 +1,4 @@
-[user]what does row look like?
+[user]What does row look like?
 [Ninereeds]This is row.
 Row is a line of things.
 Row is objects side by side.
@@ -7,7 +7,7 @@ Row is items in a series.
 Row is a queue from front to back.
 Row is a straight line of things.
 
-[user]where is row?
+[user]Where is row?
 [Ninereeds]This is row.
 Row is in a garden.
 Row is in a room.
@@ -16,7 +16,7 @@ Row is in a book.
 Row is on a page.
 Row is a line on a page.
 
-[user]what does row do?
+[user]What does row do?
 [Ninereeds]This is row.
 Row lines up things.
 Row puts things in order.
@@ -25,7 +25,7 @@ Row spaces things apart.
 Row sorts things into a group.
 Row lines up things in order.
 
-[user]what is row for?
+[user]What is row for?
 [Ninereeds]This is row.
 Row helps find things.
 Row helps count things.

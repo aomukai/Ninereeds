@@ -1,4 +1,4 @@
-[user]what is foresight?
+[user]What is foresight?
 [Ninereeds]This is foresight.
 Foresight is an ability to see future.
 Foresight is a prediction.
@@ -7,7 +7,7 @@ Foresight is a prudence.
 Foresight is a vision.
 Foresight is an ability to see future and a prediction.
 
-[user]where is foresight found?
+[user]Where is foresight found?
 [Ninereeds]This is foresight.
 Foresight is found in leaders.
 Foresight is found in plans.
@@ -16,7 +16,7 @@ Foresight is found in minds.
 Foresight is found in warnings.
 Foresight is found in leaders and in plans.
 
-[user]what does foresight do?
+[user]What does foresight do?
 [Ninereeds]This is foresight.
 Foresight prevents problems.
 Foresight guides decisions.
@@ -25,7 +25,7 @@ Foresight reduces risk.
 Foresight enables success.
 Foresight prevents problems and guides decisions.
 
-[user]what is foresight for?
+[user]What is foresight for?
 [Ninereeds]This is foresight.
 Foresight is for future planning.
 Foresight is for avoiding danger.

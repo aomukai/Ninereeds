@@ -1,4 +1,4 @@
-[user]what does swell look like?
+[user]What does swell look like?
 [Ninereeds]This is swell.
 swell is round.
 swell is full.
@@ -7,7 +7,7 @@ swell is smooth.
 swell is large.
 swell is round and full.
 
-[user]where is swell?
+[user]Where is swell?
 [Ninereeds]This is swell.
 swell is on the ocean.
 swell is on the skin.
@@ -16,7 +16,7 @@ swell is on the body.
 swell is above the ground.
 swell is on ocean and skin.
 
-[user]what does swell do?
+[user]What does swell do?
 [Ninereeds]This is swell.
 swell rises high.
 swell grows big.
@@ -25,7 +25,7 @@ swell lifts the surface.
 swell expands the skin.
 swell rises and grows.
 
-[user]what is swell for?
+[user]What is swell for?
 [Ninereeds]This is swell.
 swell is a wave.
 swell is a bump.

@@ -1,4 +1,4 @@
-[user]what does a petal look like?
+[user]What does a petal look like?
 [Ninereeds]This is a petal.
 A petal is colorful.
 A petal is delicate.
@@ -7,7 +7,7 @@ A petal is smooth.
 A petal is curved.
 A petal is smooth and colorful.
 
-[user]where is a petal?
+[user]Where is a petal?
 [Ninereeds]This is a petal.
 A petal is on a flower.
 A petal is on a stem.
@@ -16,7 +16,7 @@ A petal is in a bloom.
 A petal is in a cluster.
 A petal is on a flower and in a garden.
 
-[user]what does a petal do?
+[user]What does a petal do?
 [Ninereeds]This is a petal.
 A petal opens in sun.
 A petal falls from a flower.
@@ -25,7 +25,7 @@ A petal dries in air.
 A petal attracts bees.
 A petal opens and curls.
 
-[user]what is a petal for?
+[user]What is a petal for?
 [Ninereeds]This is a petal.
 A petal is for attracting bees.
 A petal is for protecting pistil.

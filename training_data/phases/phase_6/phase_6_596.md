@@ -1,4 +1,4 @@
-[user]what does consistently look like?
+[user]What does consistently look like?
 [Ninereeds]This is consistently.
 Consistently is an abstract concept.
 Consistently has no physical form.
@@ -7,7 +7,7 @@ Consistently represents unchanging pattern.
 Consistently is a measure of reliability.
 Consistently is an abstract concept and a measure of reliability.
 
-[user]where is consistently?
+[user]Where does consistently appear?
 [Ninereeds]This is consistently.
 Consistently appears in routine actions.
 Consistently exists in regular schedules.
@@ -16,7 +16,7 @@ Consistently resides in stable processes.
 Consistently dwells in dependable results.
 Consistently appears in routine actions and exists in regular schedules.
 
-[user]what does consistently do?
+[user]What does consistently do?
 [Ninereeds]This is consistently.
 Consistently ensures uniform behavior.
 Consistently maintains steady performance.
@@ -25,7 +25,7 @@ Consistently supports constant quality.
 Consistently upholds standard operations.
 Consistently ensures uniform behavior and maintains steady performance.
 
-[user]what is consistently for?
+[user]What is consistently for?
 [Ninereeds]This is consistently.
 Consistently builds stable expectations.
 Consistently fosters dependable habits.

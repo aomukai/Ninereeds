@@ -1,4 +1,4 @@
-[user]what does retina look like?
+[user]What does retina look like?
 [Ninereeds]This is a retina.
 A retina is thin.
 A retina is at back of eye.
@@ -7,7 +7,7 @@ A retina is soft.
 A retina has many parts.
 A retina is thin and at back of eye.
 
-[user]where is retina?
+[user]Where is retina?
 [Ninereeds]This is a retina.
 A retina is inside an eye.
 A retina is connected to a brain.
@@ -16,7 +16,7 @@ A retina is in a head.
 A retina is part of an eye.
 A retina is inside an eye and connected to a brain.
 
-[user]what does retina do?
+[user]What does retina do?
 [Ninereeds]This is a retina.
 A retina sees light.
 A retina sends signals.
@@ -25,7 +25,7 @@ A retina helps see colors.
 A retina helps see shapes.
 A retina sees light and sends signals.
 
-[user]what is retina for?
+[user]What is retina for?
 [Ninereeds]This is a retina.
 A retina is for seeing.
 A retina is for sending images.

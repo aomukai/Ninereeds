@@ -1,4 +1,4 @@
-[user]what does a mountain do?
+[user]What does a mountain do?
 [Ninereeds]This is a mountain.
 The mountain stands under the sky with snow on top.
 The mountain rises high above the surrounding plains.

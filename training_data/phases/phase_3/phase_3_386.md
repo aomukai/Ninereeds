@@ -1,4 +1,4 @@
-[user]what does hang look like?
+[user]What does hang look like?
 [Ninereeds]This is hang.
 Hang is a soft dangle from a hook.
 Hang is a loose drop from a nail.
@@ -7,7 +7,7 @@ Hang is a light hold from above.
 Hang is a gentle drape over a pole.
 Hang is a soft dangle and a gentle drape.
 
-[user]where does hang happen?
+[user]Where does hang happen?
 [Ninereeds]This is hang.
 Hang happens on a hook.
 Hang happens on a nail.
@@ -16,7 +16,7 @@ Hang happens on a rack.
 Hang happens on a rod.
 Hang is on a hook and on a nail.
 
-[user]what does hang do?
+[user]What does hang do?
 [Ninereeds]This is hang.
 Hang dangles a coat on a hook.
 Hang suspends a lamp from a ceiling.
@@ -25,7 +25,7 @@ Hang holds a picture on a nail.
 Hang swings a sign from a post.
 Hang is a dangle and a drape.
 
-[user]what is hang for?
+[user]What is hang for?
 [Ninereeds]This is hang.
 Hang stores a coat off the floor.
 Hang dries wet clothes on a line.

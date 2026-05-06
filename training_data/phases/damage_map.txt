@@ -1,0 +1,641 @@
+phase_1_004.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_005.md REGENERATE (missing body lines in blocks 1-2, 33 lines) [STRUCT]
+phase_1_006.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_008.md PATCH (wrong Q1 template) [TEMPLATE]
+phase_1_009.md PATCH (wrong Q1, Q2, Q4 template) [TEMPLATE]
+phase_1_011.md PATCH (wrong Q2: "where is a dog?" instead of "where can you find a dog?") [TEMPLATE]
+phase_1_012.md PATCH (wrong question template: Q2 "where is a cat?" should be "where can you find a cat?") [TEMPLATE]
+phase_1_014.md PATCH (wrong question template: Q2 "where is a fish?" should be "where can you find a fish?") [TEMPLATE]
+phase_1_015.md  [phase 1]  original: PATCH (broken structure) [STRUCT]  current: FAIL - expected 35 lines, found 34; block 1 has 5 content lines after opener (need 6)
+phase_1_016.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_019.md  [phase 1]  STRUCT  (summary missing "and" in blocks 2,3)
+phase_1_031.md PATCH (wrong Q2 template) [TEMPLATE]
+phase_1_037.md PATCH (extra body line in block 3, 36 lines instead of 35) [STRUCT]
+phase_1_037.md  [phase 1]  original: PATCH (broken structure) [STRUCT]    verified: FAIL — 36 lines, extra line in block 3
+phase_1_045.md PATCH (grammar error in block 3 body line: "starts off the body") [GRAMMAR]
+phase_1_051.md
+phase_1_051.md REGENERATE (truncated content after 1 block only) [STRUCT]
+phase_1_052.md PATCH (wrong Q2: "where is a rope?" instead of "where can you find a rope?") [TEMPLATE]
+phase_1_053.md PATCH (wrong Q2 template) [TEMPLATE]
+phase_1_057.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_058.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_059.md PATCH (wrong Q2 template) [TEMPLATE]
+phase_1_060.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_069.md PATCH (wrong Q2: "where is a truck?" instead of "where can you find a truck?") [TEMPLATE]
+phase_1_072.md REGENERATE (irregular body line count across blocks, 34 lines) [STRUCT]
+phase_1_078.md PATCH (wrong question template: Q2 "where is a ring?" should be "where can you find a ring?") [TEMPLATE]
+phase_1_081.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_082.md PATCH (wrong Q2: "where is a foot?" instead of "where can you find a foot?") [TEMPLATE]
+phase_1_084.md PATCH (wrong Q2 template) [TEMPLATE]
+phase_1_088.md PATCH (wrong question template: Q2 "where is skin?" should be "where can you find skin?") [TEMPLATE]
+phase_1_089.md  # STRUCT: block 4 has only 4 body lines, no summary with "and"
+phase_1_091.md PATCH (wrong question template: Q2 "where is a home?" should be "where can you find a home?") [TEMPLATE]
+phase_1_095.md
+phase_1_1007.md  FAIL  STRUCT  duplicated/extra content lines (39 lines, 7+ lines per block)
+phase_1_1012.md
+phase_1_1017.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_101.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_1020.md  FAIL  STRUCT  summaries missing 'and', missing summary line, grammar error
+phase_1_1021.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_1027.md
+phase_1_1035.md PATCH (wrong question template: Q2 "where is stiff?" should be "where can you find stiff?"; Q4 "what is stiff for?" should be "what does stiff give?") [TEMPLATE]
+phase_1_1035.md [QUALITY] negation in body lines: "does not bend", "does not fold"
+phase_1_103.md PATCH (wrong question template: Q2 "where is the sea?" should be "where can you find the sea?") [TEMPLATE]
+phase_1_1043.md  FAIL  STRUCT  negation in body lines and summary
+phase_1_104.md REGENERATE (missing line 7 in all Ninereeds blocks, wrong Q2 template) [STRUCT]
+phase_1_1060.md
+phase_1_1064.md  [phase 1]  ISSUE: summary line lacks "and" in 2 of 4 blocks [STRUCT]
+phase_1_1067.mdphase_1_511.md
+phase_1_1089.md PATCH (wrong question template: Q2 "where is a teacher?" should be "where can you find a teacher?"; Q4 "what is a teacher for?" should be "what does a teacher give?") [TEMPLATE]
+phase_1_108.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_1093.md  [phase 1]  STRUCT  (summary missing "and" in blocks 1,2,3)
+phase_1_1098.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_1101.md PATCH (wrong question template: Q2 "where is a thermometer?" should be "where can you find a thermometer?"; Q4 "what is a thermometer used for?" should be "what does a thermometer give?") [TEMPLATE]
+phase_1_1102.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_1104.md REGENERATE (wrong questions: Q2 "where is a thigh?" instead of "where can you find a thigh?", Q4 "what is a thigh for?" instead of "what does a thigh give?") [TEMPLATE]
+phase_1_1106.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_1108.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_1110.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_1113.md
+phase_1_1114.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_1117.md  FAIL  GRAMMAR  line 17: "A timekeeper is a wall and a wrist" (wrong preposition)
+phase_1_1133.md  [phase 1]  ISSUE: summary line lacks "and" in 3 of 4 blocks [STRUCT]
+phase_1_1138.md REGENERATE (wrong questions: Q2 "where is a tractor?" instead of "where can you find a tractor?", Q4 "what is a tractor used for?" instead of "what does a tractor give?") [TEMPLATE]
+phase_1_1141.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_1144.md REGENERATE (missing body lines in all blocks, 31 lines) [STRUCT]
+phase_1_1145.md REGENERATE (missing body lines in all blocks, 31 lines) [STRUCT]
+phase_1_1146.md  [phase 1]  original: PATCH (broken structure) [STRUCT]    verified: FAIL — 31 lines, block 2 summary missing "and", block 4 missing summary
+phase_1_1146.md REGENERATE (wrong questions: Q2 "where is a tree?" instead of "where can you find a tree?", Q4 "what is a tree used for?" instead of "what does a tree give?"; all blocks have 4 body lines instead of 5, 31 lines instead of 35) [TEMPLATE][STRUCT]
+phase_1_114.md PATCH (wrong question templates for Q2 and Q4) [TEMPLATE]
+phase_1_1152.md REGENERATE (wrong questions: Q1 "what do trousers look like?" instead of "what does trousers look like?", Q2 "where are trousers?" instead of "where can you find trousers?", Q3 "what do trousers do?" instead of "what does trousers do?", Q4 "what are trousers used for?" instead of "what does trousers give?") [TEMPLATE]
+phase_1_115.md PATCH (pronoun 'its' in blocks 1 and 3) [GRAMMAR]
+phase_1_1161.md
+phase_1_1167.md  [phase 1]  STRUCT  (summary missing "and" in blocks 1,2)
+phase_1_116.md	GRAMMAR	pronoun "its" found in summary line 26
+phase_1_1177.md
+phase_1_1179.md PATCH (wrong question template: Q2 "where is a vase placed?" should be "where can you find a vase?"; Q4 "what is a vase for?" should be "what does a vase give?") [TEMPLATE]
+phase_1_1179.md [QUALITY] all 4 summary lines lack "and" conjunction
+phase_1_1185.md
+phase_1_1186.md  [phase 1]  STRUCT  (summary missing "and" in blocks 1,2,3; wrong [user] template block 3)
+phase_1_1191.md
+phase_1_1208.md
+phase_1_120.md  [phase 1]  STRUCT  (negation in body line: "does not mix")
+phase_1_1218.md REGENERATE (wrong questions: Q2 "where does a whale live?" instead of "where can you find a whale?", Q4 "what effect does a whale have on the ocean?" instead of "what does a whale give?") [TEMPLATE]
+phase_1_1227.md  # TEMPLATE: user questions do not match Phase 1 template ("what is a wife?" / "what effect does a wife have on a family?" instead of appearance/use)phase_1_610.md
+phase_1_1246.md PATCH (block 1-2 summary missing 'and') [STRUCT]
+phase_1_1248.md PATCH (negation in body line: "carries no rider") [GRAMMAR]
+phase_1_124.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_125.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_145.md  | STRUCT+NEGATION | summary L17 uses "or" not "and"; body L4: "Fuzzy is not clear."
+phase_1_146.md PATCH (wrong question templates for Q2 and Q4, negation in body line) [TEMPLATE]
+phase_1_149.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_150.md PATCH (wrong question template: Q2 "where is visible?" should be "where can you find visible?"; Q4 "what is visible for?" should be "what does visible give?") [TEMPLATE]
+phase_1_157.md  | NEGATION | body L5: "Greenish is not pure green."
+phase_1_160.md PATCH (negation in body line: "not smooth") [GRAMMAR]
+phase_1_165.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_166.md
+phase_1_166.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_172.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_186.md
+phase_1_205.md
+phase_1_207.md
+phase_1_207.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_213.md  [phase 1]  original: PATCH (broken structure) [STRUCT]  current: FAIL - expected 35 lines, found 34; block 1 has 5 content lines after opener (need 6)
+phase_1_240.md
+phase_1_240.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_248.md  [phase 1]  ISSUE: summary line lacks "and" in 2 of 4 blocks [STRUCT]
+phase_1_269.md
+phase_1_277.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_328.md  | STRUCT | summary lines L8 L17 L35 missing "and"
+phase_1_331.md
+phase_1_333.md PATCH (wrong question template: Q2 "where is a circle?" should be "where can you find a circle?"; Q4 "what is a circle for?" should be "what does a circle give?") [TEMPLATE]
+phase_1_333.md [QUALITY] negation in body line: "has no corners"
+phase_1_334.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_336.md PATCH (duplicate line in block 1) [QUALITY]
+phase_1_337.md PATCH (wrong question templates for Q2 and Q4) [TEMPLATE]
+phase_1_339.md PATCH (wrong question templates for Q2 and Q4) [TEMPLATE]
+phase_1_347.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_349.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_351.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_353.md REGENERATE (wrong question template: Q2 "where is a cone?" should be "where can you find a cone?"; Q4 "what is a cone used for?" should be "what does a cone give?"; missing blank lines between block pairs; truncated file at 32 lines instead of 35) [TEMPLATE] [STRUCT]
+phase_1_358.md  [phase 1]  ISSUE: summary line lacks "and" in all 4 blocks [STRUCT]
+phase_1_369.md
+phase_1_385.md PATCH (wrong question template: Q2 "where is the dark?" should be "where can you find the dark?"; Q4 "what is the dark for?" should be "what does the dark give?") [TEMPLATE]
+phase_1_390.md  FAIL  STRUCT  truncated (11 lines, only 1.5 blocks)
+phase_1_394.md PATCH (wrong question template: Q2 "where is a die?" should be "where can you find a die?"; Q4 "what is a die for?" should be "what does a die give?") [TEMPLATE]
+phase_1_424.md
+phase_1_443.md PATCH (wrong question template: Q2 "where is a fang?" should be "where can you find a fang?"; Q4 "what is a fang for?" should be "what does a fang give?") [TEMPLATE]
+phase_1_462.md PATCH (wrong question template for Q2) [TEMPLATE]
+phase_1_468.md PATCH (wrong Q2: "where is a flashlight?" instead of "where can you find a flashlight?") [TEMPLATE]
+phase_1_472.md  | STRUCT | summaries L8 L17 L26 missing "and"
+phase_1_477.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_479.md  [phase 1]  original: PATCH (broken structure) [STRUCT]  current: FAIL - expected 35 lines, found 31; all 4 blocks have 5 content lines after opener (need 6)
+phase_1_480.md
+phase_1_481.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_484.md  [phase 1]  original: PATCH (broken structure) [STRUCT]    verified: FAIL — 34 lines, missing summary line in block 4
+phase_1_484.md REGENERATE (wrong Q4: "what is the footboard used for?" instead of "what does a footboard give?"; missing body line in block 4, 34 lines instead of 35) [TEMPLATE][STRUCT]
+phase_1_487.md REGENERATE (missing line 7 in all Ninereeds blocks, wrong Q2 and Q4 templates) [STRUCT]
+phase_1_493.md REGENERATE (negation in body lines throughout all four blocks) [GRAMMAR]
+phase_1_497.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_504.md REGENERATE (wrong questions: Q2 "where is garbage found?" instead of "where can you find garbage?", Q4 "what is garbage for?" instead of "what does garbage give?") [TEMPLATE]
+phase_1_515.md  [phase 1]  STRUCT  (summary missing "and" in blocks 1,3)
+phase_1_524.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_525.md PATCH (wrong question template: Q2 "where is gold?" should be "where can you find gold?"; Q4 "what is gold for?" should be "what does gold give?") [TEMPLATE]
+phase_1_525.md [QUALITY] negation in body line: "does not rust in water"
+phase_1_528.md REGENERATE (wrong questions: Q2 "where is a grain?" instead of "where can you find a grain?", Q4 "what is a grain for?" instead of "what does a grain give?") [TEMPLATE]
+phase_1_537.md REGENERATE (wrong questions: Q2 "where is the ground?" instead of "where can you find the ground?", Q4 "what is the ground for?" instead of "what does the ground give?") [TEMPLATE]
+phase_1_549.md REGENERATE (wrong questions: Q2 "where is hard?" instead of "where can you find hard?", Q4 "what is hard for?" instead of "what does hard give?") [TEMPLATE]
+phase_1_555.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_564.md
+phase_1_569.md  | NEGATION | body L24: "Honey lasts a long time and does not spoil."
+phase_1_580.md
+phase_1_581.md PATCH (wrong question template: Q2 "where is iron?" should be "where can you find iron?") [TEMPLATE]
+phase_1_581.md [QUALITY] negation in body line: "does not bend easily"
+phase_1_590.md
+phase_1_607.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_615.md REGENERATE (wrong questions: Q2 "where is a lap?" instead of "where can you find a lap?", Q4 "what is a lap for?" instead of "what does a lap give?") [TEMPLATE]
+phase_1_617.md REGENERATE (wrong questions: Q2 "where is a latch?" instead of "where can you find a latch?", Q4 "what is a latch for?" instead of "what does a latch give?") [TEMPLATE]
+phase_1_618.md REGENERATE (wrong questions: Q2 "where is a leaf?" instead of "where can you find a leaf?", Q4 "what is a leaf for?" instead of "what does a leaf give?") [TEMPLATE]
+phase_1_620.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_628.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_630.md REGENERATE (wrong questions: Q2 "where is a limb?" instead of "where can you find a limb?", Q4 "what is a limb for?" instead of "what does a limb give?") [TEMPLATE]
+phase_1_631.md REGENERATE (wrong questions: Q2 "where is a lime?" instead of "where can you find a lime?", Q4 "what is a lime for?" instead of "what does a lime give?") [TEMPLATE]
+phase_1_634.md
+phase_1_634.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_636.md
+phase_1_647.md REGENERATE (wrong questions: Q2 "where is a magnet?" instead of "where can you find a magnet?", Q4 "what is a magnet for?" instead of "what does a magnet give?"; summary in block 1 missing "and") [TEMPLATE][STRUCT]
+phase_1_656.md
+phase_1_661.md  FAIL  STRUCT  extra response lines, grammar 'This is mice'
+phase_1_663.md  [phase 1]  STRUCT  (summary missing "and" in blocks 2,3)
+phase_1_664.md  [phase 1]  ISSUE: summary line lacks "and" in 3 of 4 blocks [STRUCT]
+phase_1_669.md  | STRUCT | summary L8 missing "and" ("A mitt is a padded leather glove.")
+phase_1_671.md PATCH (wrong question template: Q2 "where is mold?" should be "where can you find mold?"; Q4 "what is mold for?" should be "what does mold give?") [TEMPLATE]
+phase_1_676.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_730.md PATCH (wrong question template: Q2 "where is an octopus?" should be "where can you find an octopus?"; Q4 "what is an octopus for?" should be "what does an octopus give?") [TEMPLATE]
+phase_1_732.md
+phase_1_735.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_737.md
+phase_1_738.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_739.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_741.md PATCH (wrong question template: Q2 "where is an oven?" should be "where can you find an oven?"; Q4 "what is an oven for?" should be "what does an oven give?") [TEMPLATE]
+phase_1_743.md REGENERATE (missing articles throughout, "This is oyster" instead of "This is an oyster") [STRUCT]
+phase_1_745.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_748.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_749.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_750.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_751.md PATCH (missing final summary line in block 4) [STRUCT]
+phase_1_752.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_755.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_756.md PATCH (wrong question template: Q2 "where is a parsnip?" should be "where can you find a parsnip?"; Q4 "what is a parsnip for?" should be "what does a parsnip give?") [TEMPLATE]
+phase_1_757.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_759.md PATCH (wrong question template: Q2 "where is a pastry?" should be "where can you find a pastry?"; Q4 "what is a pastry for?" should be "what does a pastry give?") [TEMPLATE]
+phase_1_759.md [QUALITY] summary lines 1 and 2 lack "and" conjunction
+phase_1_760.md PATCH (wrong Q2 and Q4 template) [TEMPLATE]
+phase_1_764.md PATCH (wrong question template: Q2 "where is a peacock?" should be "where can you find a peacock?"; Q4 "what is a peacock for?" should be "what does a peacock give?") [TEMPLATE]
+phase_1_765.md PATCH (grammar error in block 3 body line: "pops from shell") [GRAMMAR]
+phase_1_766.md PATCH (wrong question template: Q2 "where is a pear?" should be "where can you find a pear?"; Q4 "what is a pear for?" should be "what does a pear give?") [TEMPLATE]
+phase_1_767.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_769.md  [phase 1]  original: PATCH (duplicate lines) [QUALITY]    verified: FAIL — 3/4 summary lines missing "and"
+phase_1_769.md REGENERATE (wrong questions: Q2 "where is a pelican?" instead of "where can you find a pelican?", Q4 "what is a pelican for?" instead of "what does a pelican give?") [TEMPLATE]
+phase_1_770.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_771.md REGENERATE (wrong question template: Q2 "where is a pencil?" should be "where can you find a pencil?"; Q4 "what is a pencil for?" should be "what does a pencil give?"; duplicate/redundant lines in block 1 and block 4) [TEMPLATE] [QUALITY]
+phase_1_773.md
+phase_1_773.md REGENERATE (truncated content after 1.5 blocks) [STRUCT]
+phase_1_774.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_787.md  | STRUCT | summary L17 missing "and" ("A pine is in a forest on a hill."); L35 uses "or" instead of "and"
+phase_1_794.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_800.md REGENERATE (wrong questions: Q2 "where is plaster?" instead of "where can you find plaster?", Q4 "what is plaster for?" instead of "what does plaster give?") [TEMPLATE]
+phase_1_805.md PATCH (wrong question template: Q2 "where is a plum?" should be "where can you find a plum?"; Q4 "what is a plum for?" should be "what does a plum give?") [TEMPLATE]
+phase_1_824.md REGENERATE (wrong questions: Q2 "where is a pulley?" instead of "where can you find a pulley?", Q4 "what is a pulley for?" instead of "what does a pulley give?") [TEMPLATE]
+phase_1_856.md  [phase 1]  ISSUE: summary line lacks "and" in 2 of 4 blocks [STRUCT]
+phase_1_863.md  [phase 1]  ISSUE: summary line lacks "and" in 2 of 4 blocks [STRUCT]
+phase_1_869.md
+phase_1_873.md  [phase 1]  ISSUE: only 4 body lines per block (7 lines/block vs expected 8) [STRUCT]
+phase_1_875.md
+phase_1_885.md PATCH (wrong question template for Q2 and Q4) [TEMPLATE]
+phase_1_889.md
+phase_1_898.md  [phase 1]  STRUCT  (summary missing "and" in block 1)
+phase_1_906.md REGENERATE (wrong questions: Q2 "where is a scarf?" instead of "where can you find a scarf?", Q4 "what is a scarf for?" instead of "what does a scarf give?") [TEMPLATE]
+phase_1_924.md  | NEGATION | body L7: "Shade is not in light."
+phase_1_958.md
+phase_1_958.md PATCH (wrong question template for phase 1) [TEMPLATE]
+phase_1_961.md
+phase_1_964.md REGENERATE (wrong questions: Q2 "where is a skull found?" instead of "where can you find a skull?", Q4 "what is a skull for?" instead of "what does a skull give?") [TEMPLATE]
+phase_1_968.md REGENERATE (wrong questions: Q2 "where is a sleeve found?" instead of "where can you find a sleeve?", Q4 "what is a sleeve for?" instead of "what does a sleeve give?") [TEMPLATE]
+phase_1_971.md PATCH (wrong question template: Q2 "where is a slider found?" should be "where can you find a slider?"; Q4 "what is a slider for?" should be "what does a slider give?") [TEMPLATE]
+phase_1_971.md [QUALITY] summary line 1 lacks "and" conjunction
+phase_1_980.md  [phase 1]  STRUCT  (summary missing "and" in blocks 1,2)
+phase_1_990.md  | STRUCT | summary L8 missing "and" ("Soil is brown crumbly ground.")
+phase_1_991.md
+phase_2_002.md [PATCH (wrong part of speech) [POS]] FAIL: [Ninereeds] blocks missing "This is prior." opener — starts directly with "Prior is earlier."
+phase_2_02.md
+phase_2_07.md [PATCH (weak content) [QUALITY]] FAIL: wrong [user] templates Q2 ("where is"), Q3 ("how does...behave"), Q4 ("what does...do"); block 2 summary uses "or" not "and"
+phase_2_08.md
+phase_2_09.md
+phase_2_101.md | FAIL | All 4 [Ninereeds] openers missing "This is" prefix (lines: "Your is possessive.", "Your is prenominal.", "Your is indicative.", "Your is functional.") [STRUCT]
+phase_2_102.md
+phase_2_103.md
+phase_2_105.md | original: PATCH (wrong part of speech) [POS] | current: QUALITY - body has negation ("no shape", "no color")
+phase_2_121.md [PATCH (weak content) [QUALITY]] FAIL: wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_122.md | original: PATCH (wrong part of speech) [POS] | current: TEMPLATE - Q1 "what does near mean?" should be "what does near look like?"
+phase_2_123.md [PATCH (weak content) [QUALITY]] FAIL: block 1 summary uses "with" not "and"; Q1 missing article ("territory" vs "a territory"); Q2 wrong template ("where is")
+phase_2_126.md [PATCH (wrong template) [TEMPLATE]] FAIL: completely wrong format — only 11 lines, wrong [user] question format, "[Ninereeds]A physicist is here." instead of "This is a physicist."
+phase_2_135.md
+phase_2_141.md | FAIL | Q1: "what does indigenous mean?" should be "what does indigenous look like?"; Q2: "where is indigenous found?" should be "where does indigenous appear?"; All 4 [Ninereeds] openers missing "This is" prefix; Duplicate body lines in every block [TEMPLATE][STRUCT][QUALITY]
+phase_2_147.md | original: PATCH (weak content) [QUALITY] | current: TEMPLATE - Q2 "where is a scaffold?" should be "where does a scaffold appear?"
+phase_2_148.md | original: PATCH (wrong part of speech) [POS] | current: TEMPLATE - Q1 "what does acoustic mean?" should be "what does acoustic look like?"
+phase_2_151.md | original: PATCH (wrong template) [TEMPLATE] | current: TEMPLATE - Q2 "where is a soldier?" should be "where does a soldier appear?"
+phase_2_155.md | FAIL | Q2: "where is ours?" should be "where does ours appear?" [TEMPLATE]
+phase_2_157.md  FAIL  STRUCT  6 body lines in block 1 (expected 5)
+phase_2_164.md
+phase_2_166.md | FAIL | Q2: "where is parent-offspring-relationship?" should be "where does parent-offspring-relationship appear?" [TEMPLATE]
+phase_2_169.md | FAIL | Q1: "what does park look like?" missing article (should be "what does a park look like?"); Q2: "where is a park?" should be "where does a park appear?" [TEMPLATE]
+phase_2_175.md | original: PATCH (broken structure) [STRUCT] | current: TEMPLATE - Q2 "where is an attic?" should be "where does an attic appear?"
+phase_2_176.md [PATCH (placeholder filler) [QUALITY]] FAIL: wrong [user] template Q2 ("where is the backyard" vs "where does the backyard appear")
+phase_2_178.md [PATCH (weak content) [QUALITY]] FAIL: wrong [user] template Q2 ("where is the bank" vs "where does the bank appear")
+phase_2_180.md [PATCH (placeholder filler) [QUALITY]] FAIL: wrong [user] template Q2 ("where is the barn" vs "where does the barn appear")
+phase_2_183.md
+phase_2_188.md [PATCH (wrong template) [TEMPLATE]] FAIL: wrong [user] templates Q2 ("where is") and Q4 ("what is...used for" vs "what is...for")
+phase_2_191.md [PATCH (wrong template) [TEMPLATE]] FAIL: wrong [user] templates Q2 ("where is") and Q4 ("what is...used for" vs "what is...for")
+phase_2_195.md | FAIL | Q2: "where is a caregiver?" should be "where does a caregiver appear?"; Q4: "what is a caregiver used for?" should be "what is a caregiver for?" [TEMPLATE]
+phase_2_201.md | FAIL | Q2: "where is a citizen?" should be "where does a citizen appear?" [TEMPLATE]
+phase_2_203.md [PATCH (wrong template) [TEMPLATE]] FAIL: wrong [user] templates Q2 ("where is") and Q4 ("what is...used for" vs "what is...for")
+phase_2_204.md
+phase_2_205.md [PATCH (weak content) [QUALITY]] FAIL: wrong [user] templates Q2 ("where is" vs "where does...appear") and Q4 ("what is...used for" vs "what is...for")
+phase_2_206.md | FAIL | Q2: "where is climate?" should be "where does climate appear?" [TEMPLATE]
+phase_2_20.md | FAIL | Q2: "where are the police?" should be "where does the police appear?"; Q4: "why do people call the police?" should be "what is the police for?" [TEMPLATE]
+phase_2_229.md | FAIL | Q2: "where is an entryway?" should be "where does an entryway appear?"; Q4: "what is an entryway used for?" should be "what is an entryway for?" [TEMPLATE]
+phase_2_230.md | FAIL | Q2: "where is an exit?" should be "where does an exit appear?"; Q4: "what is an exit used for?" should be "what is an exit for?" [TEMPLATE]
+phase_2_231.md | original: PATCH (broken structure) [STRUCT] | current: TEMPLATE - Q2 "where is a factory?" should be "where does a factory appear?"
+phase_2_232.md | FAIL | Q2: "where is a farm?" should be "where does a farm appear?"; Q4: "what is a farm used for?" should be "what is a farm for?" [TEMPLATE]
+phase_2_233.md | original: PATCH (broken structure) [STRUCT] | current: TEMPLATE - Q2 "where is a farmhouse?" should be "where does a farmhouse appear?"
+phase_2_235.md | FAIL | Q2: "where is a girlfriend?" should be "where does a girlfriend appear?"; Q4: "what is a girlfriend used for?" should be "what is a girlfriend for?" [TEMPLATE]
+phase_2_238.md | FAIL | Q2: "where is a grandmother?" should be "where does a grandmother appear?" [TEMPLATE]
+phase_2_239.md
+phase_2_240.md | original: PATCH (grammar error) [GRAMMAR] | current: TEMPLATE - Q2 "where is a grassland?" should be "where does a grassland appear?"; Q4 "what is a grassland used for?" should be "what is a grassland for?"
+phase_2_251.md | FAIL | Q2: "where is a harbor?" should be "where does a harbor appear?"; Q4: "what is a harbor used for?" should be "what is a harbor for?" [TEMPLATE]
+phase_2_25.md | original: PATCH (unclear question) [GRAMMAR] | current: TEMPLATE - Q1 "what is a bedsheet?" should be "what does a bedsheet look like?"; Q4 "what does a bedsheet provide?" should be "what is a bedsheet for?"
+phase_2_269.md | original: PATCH (missing tags) [STRUCT] | current: TEMPLATE - Q2 "where is a marketplace?" should be "where does a marketplace appear?"; STRUCT - only 34 lines, missing 5th body line and summary in block 4
+phase_2_270.md [PATCH (missing tags) [STRUCT]] FAIL: wrong [user] template Q2 ("where is"); block 4 missing 1 body line (4 instead of 5), no summary with "and"
+phase_2_271.md | FAIL | Q2: "where is a meadow?" should be "where does a meadow appear?"; Block 4 missing summary line (only 34 lines) [TEMPLATE][STRUCT]
+phase_2_272.md [PATCH (missing tags) [STRUCT]] FAIL: wrong [user] template Q2 ("where is"); block 4 missing summary line with "and"
+phase_2_273.md | FAIL | Q2: "where is a mealtime?" should be "where does a mealtime appear?" [TEMPLATE]
+phase_2_274.md | FAIL | Q2: "where is a menu?" should be "where does a menu appear?"; Block 3 summary line missing "and" ("A menu helps in selecting food."); Block 4 missing summary line (only 34 lines) [TEMPLATE][STRUCT]
+phase_2_275.md | original: PATCH (truncated content) [STRUCT] | current: TEMPLATE - Q2 "where is a milkshake?" should be "where does a milkshake appear?"
+phase_2_276.md | FAIL | Q2: "where is a mill?" should be "where does a mill appear?"; Block 4 missing summary line (only 34 lines) [TEMPLATE][STRUCT]
+phase_2_277.md [PATCH (wrong template) [TEMPLATE]] FAIL: wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_278.md [PATCH (missing tags) [STRUCT]] FAIL: wrong [user] template Q2 ("where is"); block 4 missing summary line with "and"
+phase_2_279.md | original: PATCH (missing tags) [STRUCT] | current: TEMPLATE - Q2 "where is a moat?" should be "where does a moat appear?"
+phase_2_280.md
+phase_2_281.md [PATCH (missing tags) [STRUCT]] FAIL: wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_282.md | FAIL | Q2: "where is a mother?" should be "where does a mother appear?" [TEMPLATE]
+phase_2_283.md
+phase_2_284.md | original: PATCH (grammar error) [GRAMMAR] | current: TEMPLATE - Q2 "where is a mound?" should be "where does a mound appear?"
+phase_2_285.md [PATCH (missing tags) [STRUCT]] FAIL: wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_286.md | original: PATCH (missing tags) [STRUCT] | current: TEMPLATE - Q2 "where is a museum?" should be "where does a museum appear?"
+phase_2_287.md [PATCH (grammar error) [GRAMMAR]] FAIL: wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_289.md [PATCH (wrong template) [TEMPLATE]] FAIL: wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_291.md | original: PATCH (wrong template) [TEMPLATE] | current: TEMPLATE - Q2 "where is an officer?" should be "where does an officer appear?"
+phase_2_292.md
+phase_2_295.md [PATCH (wrong template) [TEMPLATE]] FAIL: wrong [user] templates Q2 ("where is" vs "where does...appear") and Q4 ("how is...used" vs "what is...for")
+phase_2_29.md | FAIL | Q1: "what is a milkshake?" should be "what does a milkshake look like?"; Q2: "where is a milkshake?" should be "where does a milkshake appear?"; Q4: "what does a milkshake give?" should be "what is a milkshake for?" (uses phase 1 template) [TEMPLATE]
+phase_2_300.md
+phase_2_301.md | original: PATCH (broken structure) [STRUCT] | current: TEMPLATE - Q2 "where is a platform?" should be "where does a platform appear?"; Q3 "how does a platform behave?" should be "what does a platform do?"
+phase_2_307.md
+phase_2_316.md
+phase_2_31.md | original: PATCH (unclear question) [GRAMMAR] | current: TEMPLATE - Q1 "what is popcorn?" should be "what does popcorn look like?"
+phase_2_320.md | original: PATCH (grammar error) [GRAMMAR] | current: TEMPLATE - Q2 "where is a sidewalk?" should be "where does a sidewalk appear?"
+phase_2_323.md [REGENERATE (missing tags) [STRUCT]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_324.md | original: REGENERATE (placeholder filler) [QUALITY] | current: TEMPLATE - Q2 "where is UNKNOWN?" should be "where does UNKNOWN appear?"; QUALITY - still has UNKNOWN placeholder
+phase_2_325.md | FAIL | Q2: "where is UNKNOWN?" should be "where does UNKNOWN appear?" [TEMPLATE]
+phase_2_326.md | FAIL | Q2: "where is UNKNOWN?" should be "where does UNKNOWN appear?" [TEMPLATE]
+phase_2_327.md | original: REGENERATE (placeholder filler) [QUALITY] | current: TEMPLATE - Q2 "where is UNKNOWN?" should be "where does UNKNOWN appear?"; QUALITY - still has UNKNOWN placeholder
+phase_2_328.md [REGENERATE (placeholder filler) [QUALITY]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is" vs "where does...appear")
+phase_2_329.md [REGENERATE (missing tags) [STRUCT]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_330.md [REGENERATE (missing tags) [STRUCT]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_331.md | FAIL | Q2: "where is UNKNOWN?" should be "where does UNKNOWN appear?" [TEMPLATE]
+phase_2_332.md [REGENERATE (missing tags) [STRUCT]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_333.md | FAIL | Q2: "where is UNKNOWN?" should be "where does UNKNOWN appear?" [TEMPLATE]
+phase_2_334.md [REGENERATE (missing tags) [STRUCT]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_335.md [REGENERATE (placeholder filler) [QUALITY]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_336.md | original: REGENERATE (placeholder filler) [QUALITY] | current: TEMPLATE - Q2 "where is UNKNOWN?" should be "where does UNKNOWN appear?"; QUALITY - still has UNKNOWN placeholder
+phase_2_337.md | FAIL | Q2: "where is UNKNOWN?" should be "where does UNKNOWN appear?" [TEMPLATE]
+phase_2_338.md | FAIL | Q2: "where is an UNKNOWN?" should be "where does an UNKNOWN appear?" [TEMPLATE]
+phase_2_339.md [REGENERATE (missing tags) [STRUCT]] FAIL: still uses UNKNOWN placeholder, wrong [user] template Q2 ("where is")
+phase_2_33.md | FAIL | Q1: "what is a sweatshirt?" should be "what does a sweatshirt look like?"; Q2: "where is a sweatshirt?" should be "where does a sweatshirt appear?"; Q4: "what does a sweatshirt give?" should be "what is a sweatshirt for?" (uses phase 1 template) [TEMPLATE]
+phase_2_340.md
+phase_2_341.md | original: REGENERATE (placeholder filler) [QUALITY] | current: TEMPLATE - Q2 "where is UNKNOWN?" should be "where does UNKNOWN appear?"; QUALITY - still has UNKNOWN placeholder
+phase_2_343.md
+phase_2_349.md
+phase_2_34.md | original: PATCH (unclear question) [GRAMMAR] | current: TEMPLATE - Q2 "where is a raincoat?" should be "where does a raincoat appear?"
+phase_2_353.md
+phase_2_38.md
+phase_2_42.md | original: PATCH (unclear question) [GRAMMAR] | current: TEMPLATE - Q1 "what is a tugboat?" should be "what does a tugboat look like?"; Q4 "what does a tugboat give?" should be "what is a tugboat for?"
+phase_2_53.md | original: PATCH (unclear question) [GRAMMAR] | current: TEMPLATE - Q1 "what is a kneecap?" should be "what does a kneecap look like?"; Q4 "what does a kneecap give?" should be "what is a kneecap for?"
+phase_2_58.md | original: PATCH (unclear question) [GRAMMAR] | current: TEMPLATE - Q2 "where is a jawbone?" should be "where does a jawbone appear?"
+phase_2_77.md
+phase_2_79.md | FAIL | Q2: "where is a picnic?" should be "where does a picnic appear?" [TEMPLATE]
+phase_2_81.md | FAIL | Q2: "where is a pile?" should be "where does a pile appear?" [TEMPLATE]
+phase_2_82.md | original: PATCH (wrong template) [TEMPLATE] | current: TEMPLATE - Q2 "where is a pilot?" should be "where does a pilot appear?"
+phase_2_87.md
+phase_2_98.md | original: PATCH (wrong part of speech) [POS] | current: TEMPLATE - Q2 "where is electrical?" should be "where does electrical appear?"; QUALITY - negation "not seen"
+phase_2_99.md | original: PATCH (wrong part of speech) [POS] | current: TEMPLATE - Q2 "where is familiar?" should be "where does familiar appear?"; QUALITY - negation "not seen"
+phase_3_03.md
+phase_3_05.md
+phase_3_06.md
+phase_3_08.md
+phase_3_09.md
+phase_3_131.md | ISSUE: NEGATION - body lines "Affect is not seen" and "Affect has no color" violate no-negation rule | SEVERITY: PATCH
+phase_3_132.md
+phase_3_133.md  [FAIL]  negation present [GRAMMAR]
+phase_3_135.md
+phase_3_142.md
+phase_3_147.md
+phase_3_148.md
+phase_3_152.md
+phase_3_15.md
+phase_3_162.md  [FAIL]  missing "This is" opener [STRUCT]
+phase_3_18.md
+phase_3_194.md  [TEMPLATE] user Q1 uses 'mean' not 'look like'; user Q2 uses 'occur' not 'appear'
+phase_3_205.md | ISSUE: NEGATION - body line "Fast is not slow" violates no-negation rule | SEVERITY: PATCH
+phase_3_20.md
+phase_3_226.md  [FAIL]  negation present [GRAMMAR]
+phase_3_286.md
+phase_3_28.md   [TEMPLATE] user Q2 uses 'where is' instead of 'where does appear' — original TEMPLATE issue unfixed
+phase_3_314.md
+phase_3_379.md  [STRUCT] block 2 has 6 body lines, no summary with 'and'
+phase_3_381.md
+phase_3_383.md  [FAIL]  lowercase body lines, weak content [QUALITY]
+phase_3_384.md
+phase_3_388.md | ISSUE: STRUCT - all 4 blocks have 6 body lines instead of 5 body + 1 summary; no summary with "and" | SEVERITY: PATCH
+phase_3_393.md  [STRUCT] block 2 summary uses 'or' not 'and' (line 17); block 3 summary lacks 'and' (line 26); block 4 summary lacks 'and' (line 35)
+phase_3_395.md  [STRUCT] block 2 summary uses 'or' not 'and' (line 17)
+phase_3_404.md | ISSUE: STRUCT - blocks 1 and 2 missing proper summary lines (use "or" instead of "and") | SEVERITY: PATCH
+phase_3_405.md
+phase_3_407.md  [TEMPLATE] user Q2 uses 'where is' instead of 'where does appear'
+phase_3_411.md
+phase_3_413.md  [TEMPLATE] user Q2 uses 'where is' instead of 'where does appear'
+phase_3_417.md
+phase_3_419.md
+phase_3_462.md
+phase_3_464.md
+phase_3_470.md
+phase_3_477.md
+phase_3_480.md
+phase_3_511.md  [STRUCT] block 2 summary lacks 'and' (line 17)
+phase_3_517.md
+phase_3_524.md
+phase_3_530.md  [STRUCT] block 2 summary lacks 'and' (line 17)
+phase_3_531.md
+phase_3_533.md  [STRUCT] block 1 summary lacks 'and' (line 8); block 4 summary lacks 'and' (line 35)
+phase_3_541.md
+phase_3_542.md
+phase_3_546.md
+phase_3_549.md  [STRUCT] duplicate line in block 1 (lines 7-8); block 3 only 4 body lines; block 4 only 4 body lines; wrong user Q4
+phase_3_551.md  [FAIL]  excessive blank lines, broken structure [STRUCT]
+phase_3_553.md
+phase_3_574.md
+phase_3_585.md
+phase_3_588.md
+phase_3_590.md
+phase_3_591.md
+phase_3_595.md  [TEMPLATE] user Q2 uses 'where is' instead of 'where does appear'
+phase_3_597.md  [TEMPLATE] user Q2 uses 'where is zigzag found' instead of 'where does zigzag appear'
+phase_4_083.md
+phase_4_084.md
+phase_4_085.md
+phase_4_087.md
+phase_4_089.md
+phase_4_090.md
+phase_4_091.md
+phase_4_092.md
+phase_4_093.md
+phase_4_094.md
+phase_4_20.md
+phase_4_21.md
+phase_4_24.md
+phase_4_28.md
+phase_4_32.md
+phase_4_38.md
+phase_4_48.md
+phase_4_65.md
+phase_4_81.md
+phase_5_1861.md
+phase_5_1876.md
+phase_5_1901.md
+phase_5_1914.md
+phase_5_1917.md
+phase_5_1927.md
+phase_5_1935.md
+phase_5_1936.md
+phase_5_1939.md
+phase_5_1940.md
+phase_5_1942.md
+phase_5_1943.md
+phase_5_1944.md
+phase_5_1945.md
+phase_5_1947.md
+phase_5_1950.md
+phase_5_1954.md
+phase_5_1956.md
+phase_5_1960.md
+phase_5_1961.md
+phase_5_1962.md
+phase_5_1965.md
+phase_5_1966.md
+phase_5_1967.md
+phase_5_1969.md
+phase_5_1975.md
+phase_5_1977.md
+phase_5_1980.md
+phase_5_1982.md
+phase_5_1984.md
+phase_5_1987.md
+phase_5_1991.md
+phase_5_44.md
+phase_6_1011.md | PATCH | [GRAMMAR] | Line 5 "Broadly is not precise." contains negation "not"
+phase_6_1035.md | PATCH (wrong part of speech) [POS] → FAIL [STRUCT][TEMPLATE][POS]: opener "Kindly is gentle." not "This is kindly."; Q3 "how does kindly behave?" wrong template; body lines define Kindly by adjectives not actions
+phase_6_1049.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q1 "what does implying mean?"; Q3 "how does implying behave?" wrong
+phase_6_1056.md FAIL [POS] "a fictional" used as noun (fictional is adjective)
+phase_6_1057.md
+phase_6_1066.md
+phase_6_1071.md | PATCH | [TEMPLATE][GRAMMAR] | Block 1 [user] "what is deliberately?" should be "what does deliberately look like?"; Line 5 contains negation "not"
+phase_6_1085.md | REGENERATE (wrong template) [TEMPLATE] → FAIL [TEMPLATE]: Q2 "where is art?" must be "where does art appear?"
+phase_6_1086.md FAIL [TEMPLATE] 2nd question "where is a brand?" should be "where does a brand appear?"
+phase_6_1087.md | REGENERATE (wrong template) [TEMPLATE] → FAIL [TEMPLATE]: Q2 "where is chance?" must be "where does chance appear?"
+phase_6_1088.md
+phase_6_1092.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is an errand?" not "where does an errand appear?"
+phase_6_1094.md | REGENERATE (wrong template) [TEMPLATE] → FAIL [TEMPLATE][QUALITY]: Q2 "where is a game?" must be "where does a game appear?"; block 4 tag is "[Nereeds]" not "[Ninereeds]"
+phase_6_1095.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is a grade?" not "where does a grade appear?"
+phase_6_1098.md FAIL [TEMPLATE] 2nd question "where is heaven?" should be "where does heaven appear?"
+phase_6_1099.md | REGENERATE | [TEMPLATE][QUALITY] | Block 2 [user] "where is a holiday?" wrong template; Body describes physical object for "holiday" (event) — wrong content
+phase_6_1100.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is an hour?" not "where does an hour appear?"
+phase_6_1101.md
+phase_6_1103.md FAIL [TEMPLATE] 2nd question "where is a left?" should be "where does a left appear?"
+phase_6_1111.md | REGENERATE (wrong template) [TEMPLATE] → FAIL [TEMPLATE]: Q2 "where is a dollar?" must be "where does a dollar appear?"
+phase_6_1116.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is a half?" not "where does a half appear?"
+phase_6_1117.md | REGENERATE | [TEMPLATE][QUALITY] | Block 2 [user] "where is a heading?" wrong template; Body describes physical object for "heading" (title) — wrong content
+phase_6_192.md  [phase_6]  FAIL  [STRUCT]  opener "shot is here." not "This is shot."; [user] templates wrong
+phase_6_193.md  [phase_6]  FAIL  [STRUCT]  truncated — 23 lines; opener wrong; only 3 body lines per block
+phase_6_194.md FAIL [STRUCT] "show is here" not "This is show"; 3-4 body lines; no "and" summary
+phase_6_195.md | REGENERATE (truncated content) [STRUCT] → FAIL [STRUCT]: still truncated — opener "shred is here." not "This is shred."; 3 body lines per block; no "and" summary
+phase_6_196.md FAIL [STRUCT] "shriek is here" not "This is shriek"; 3 body lines; no "and" summary
+phase_6_197.md FAIL [STRUCT] truncated - only 2 block pairs
+phase_6_198.md | PATCH | [TEMPLATE] | Block 2 [user] "where is shrug?" should be "where does shrug appear?"
+phase_6_199.md | REGENERATE (truncated content) [STRUCT] → FAIL [TEMPLATE]: Q2 "where is shut?" must be "where does shut appear?"
+phase_6_200.md | REGENERATE | [STRUCT][TEMPLATE] | Blocks 1,2,4 [user] templates wrong; [Ninereeds] "shy is here." not "This is shy."
+phase_6_201.md  [phase_6]  FAIL  [STRUCT]  opener "sight is here." not "This is sight."; only 3 body lines; [user] template wrong
+phase_6_204.md FAIL [STRUCT] "silly is here" not "This is silly"; only 4 body lines; 4th question wrong
+phase_6_205.md FAIL [STRUCT] truncated - only 2 block pairs
+phase_6_206.md | REGENERATE | [STRUCT][TEMPLATE] | 23 lines — truncated; opener "sing is here." not "This is sing."; templates wrong; missing body/summary
+phase_6_207.md FAIL [STRUCT] truncated - only 2 block pairs
+phase_6_211.md
+phase_6_212.md FAIL [STRUCT] "skip is here" not "This is skip"; only 4 body lines; 4th question wrong
+phase_6_213.md  [phase_6]  FAIL  [STRUCT]  opener "slam is here." not "This is slam."; [user] templates wrong (Q1,Q2,Q4)
+phase_6_214.md  # REGENERATE (truncated content) [STRUCT] — still truncated, 23 lines, wrong opener
+phase_6_215.md  [phase_6]  FAIL  [STRUCT]  truncated — 23 lines; opener wrong; only 3 body lines per block
+phase_6_218.md | REGENERATE (truncated content) [STRUCT] → FAIL [TEMPLATE]: Q2 "where is slosh?" must be "where does slosh appear?"
+phase_6_221.md  [phase_6]  FAIL  [STRUCT]  opener "small is here." not "This is small."; truncated body; [user] template wrong
+phase_6_224.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is smell?" not "where does smell appear?"
+phase_6_225.md FAIL [STRUCT] "smooth is here" not "This is smooth"; 3 body lines; no "and" summary
+phase_6_227.md FAIL [STRUCT] "sneak is here" not "This is sneak"
+phase_6_228.md  [phase_6]  FAIL  [STRUCT]  opener "sniff is here." not "This is sniff."; only 4 body lines; [user] template wrong
+phase_6_229.md FAIL [STRUCT] truncated - only 2 block pairs
+phase_6_22.md | PATCH | [TEMPLATE][STRUCT] | Block 1 [user] "what does properly mean?" wrong template; Block 2 [user] "where is properly found?" wrong template; Summary uses "or" not "and"
+phase_6_230.md FAIL [STRUCT] truncated - only 2 block pairs
+phase_6_231.md
+phase_6_233.md | PATCH | [TEMPLATE] | Block 2 [user] "where is soft?" should be "where does soft appear?"
+phase_6_234.md FAIL [STRUCT] "solid is here" not "This is solid"; 3-4 body lines; no "and" summary
+phase_6_235.md
+phase_6_236.md FAIL [STRUCT] "soon is here" not "This is soon"; only 4 body lines per block; no "and" summary
+phase_6_237.md
+phase_6_238.md | REGENERATE (truncated content) [STRUCT] → FAIL [TEMPLATE]: Q2 "where is sort?" must be "where does sort appear?"
+phase_6_239.md FAIL [STRUCT] "source is here" not "This is source"; 4th question "what is source like?" not "what is source for?"
+phase_6_243.md | REGENERATE | [STRUCT][TEMPLATE] | 23 lines only — truncated; opener "sparkle is here." not "This is sparkle."; templates wrong; missing body/summary lines
+phase_6_244.md
+phase_6_245.md | REGENERATE | [STRUCT][TEMPLATE] | 27 lines — only 4 body lines per block, no summary lines in blocks 1-3; opener "speaker is here." wrong; templates wrong
+phase_6_246.md | REGENERATE (truncated content) [STRUCT] → FAIL [STRUCT]: still truncated — opener "speech is here." not "This is speech."; 3 body lines per block; no "and" summary
+phase_6_249.md FAIL [TEMPLATE] 2nd question "where is spend?" should be "where does spend appear?"
+phase_6_251.md
+phase_6_255.md
+phase_6_256.md | PATCH | [TEMPLATE] | Block 2 [user] "where is spread?" should be "where does spread appear?"
+phase_6_257.md | REGENERATE (truncated content) [STRUCT] → FAIL [STRUCT]: still truncated — opener "sprinkle is here." not "This is sprinkle."; 2–3 body lines per block; no "and" summary
+phase_6_258.md FAIL [STRUCT] truncated - only 2 block pairs; "sprint is here" not "This is sprint"
+phase_6_259.md  # REGENERATE (truncated content) [STRUCT] — still truncated, 11 lines, 2 blocks only
+phase_6_261.md | REGENERATE | [STRUCT][TEMPLATE] | 23 lines only — truncated; opener "squint is here." not "This is squint."; templates wrong; missing body/summary lines
+phase_6_263.md  [phase_6]  FAIL  [STRUCT]  opener "squish is here."; only 4 body lines; missing summaries
+phase_6_264.md FAIL [STRUCT] "staff is here" not "This is staff"; repeated lines; no "and" summary
+phase_6_265.md  [phase_6]  FAIL  [STRUCT]  severely truncated — only 11 lines; opener wrong
+phase_6_266.md FAIL [TEMPLATE] 2nd question "where is start?" should be "where does start appear?"
+phase_6_268.md FAIL [STRUCT] "state is here" not "This is state"; 4th question "what is state like?" not "what is state for?"
+phase_6_270.md  [phase_6]  FAIL  [STRUCT]  opener "steal is here." not "This is steal."; [user] templates wrong
+phase_6_271.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is steer?" not "where does steer appear?"
+phase_6_273.md FAIL [STRUCT] "sting is here" not "This is sting"; 3 body lines; no "and" summary
+phase_6_274.md | REGENERATE (truncated content) [STRUCT] → FAIL [STRUCT]: still truncated — opener "stink is here." not "This is stink."; only 2 body lines per block; only 2 blocks completed
+phase_6_275.md | REGENERATE (truncated content) [STRUCT] → FAIL [TEMPLATE]: Q2 "where is stir?" must be "where does stir appear?"
+phase_6_277.md
+phase_6_279.md  [phase_6]  FAIL  [STRUCT]  severely truncated — 23 lines; opener wrong; only 3 body lines; no summaries
+phase_6_280.md FAIL [STRUCT] truncated - only 2 block pairs; "stranger is here" not "This is stranger"
+phase_6_282.md
+phase_6_283.md FAIL [TEMPLATE] 2nd question "where is struggle?" should be "where does struggle appear?"
+phase_6_284.md FAIL [STRUCT] "study is here" not "This is study"; missing/incomplete "and" summaries
+phase_6_285.md  [phase_6]  FAIL  [STRUCT]  truncated — 27 lines; wrong opener; missing summary lines
+phase_6_286.md | REGENERATE | [STRUCT][TEMPLATE] | 23 lines — truncated; opener "subtract is here." not "This is subtract."; templates wrong; missing body/summary
+phase_6_287.md
+phase_6_289.md  # REGENERATE (truncated content) [STRUCT] — still truncated, 23 lines, wrong opener
+phase_6_290.md  [phase_6]  FAIL  [STRUCT]  opener "surge is here." not "This is surge."; [user] templates wrong
+phase_6_292.md FAIL [STRUCT] "surround is here" not "This is surround"; 3-4 body lines; no "and" summary
+phase_6_293.md | REGENERATE | [STRUCT][TEMPLATE] | [Ninereeds] opener "survey is here." not "This is survey."; Block 1 [user] "what is survey?" should be "what does survey look like?"; Block 2 [user] "where is survey?" should be "where does survey appear?"
+phase_6_295.md  [phase_6]  FAIL  [STRUCT]  opener "suspect is here."; only 4 body lines in blocks 1,3; templates wrong
+phase_6_296.md FAIL [STRUCT] "swap is here" not "This is swap"; truncated - only 2 block pairs
+phase_6_300.md FAIL [STRUCT] truncated - only 2 block pairs
+phase_6_304.md  # REGENERATE (truncated content) [STRUCT] — still truncated, 23 lines, wrong opener
+phase_6_306.md FAIL [STRUCT] truncated - only 2 block pairs; "temper is here" not "This is temper"
+phase_6_307.md | REGENERATE | [STRUCT][TEMPLATE] | 31 lines — only 4 body lines per block; opener "temperature is here." not "This is temperature."; templates wrong
+phase_6_308.md  [phase_6]  FAIL  [STRUCT]  severely truncated — only 11 lines; opener wrong
+phase_6_309.md  [phase_6]  FAIL  [STRUCT]  severely truncated — only 11 lines
+phase_6_310.md  [phase_6]  FAIL  [STRUCT]  severely truncated — 23 lines; opener wrong; only 3 body lines per block
+phase_6_311.md  # REGENERATE (truncated content) [STRUCT] — still truncated, 23 lines, wrong opener
+phase_6_313.md  [phase_6]  FAIL  [STRUCT]  truncated — 23 lines; opener wrong; only 3 body lines per block
+phase_6_32.md
+phase_6_382.md | PATCH (unclear question) [GRAMMAR] → FAIL [STRUCT][TEMPLATE]: opener "write is here." not "This is write."; 3 body lines per block; no "and" summary; Q1 "what is write?" wrong template
+phase_6_383.md
+phase_6_384.md | PATCH (unclear question) [GRAMMAR] → FAIL [STRUCT][TEMPLATE]: opener "wrong is here." not "This is wrong."; Q1 "what is wrong?", Q4 "what is wrong like?" — templates wrong
+phase_6_385.md FAIL [STRUCT+TEMPLATE] "year is here" not "This is year"; wrong question format
+phase_6_386.md | PATCH (unclear question) [GRAMMAR] → FAIL [STRUCT][TEMPLATE]: opener "yes is here." not "This is yes."; 3 body lines per block; no "and" summary; user templates wrong (Q1 "what is yes?", Q4 "what is yes like?")
+phase_6_387.md
+phase_6_410.md
+phase_6_411.md  # PATCH (unclear question) [GRAMMAR] — truncated 23 lines, opener "sounded is here."
+phase_6_412.md | REGENERATE | [STRUCT][TEMPLATE][GRAMMAR] | 23 lines — truncated; opener "dropped is here." not "This is dropped."; templates wrong; missing body/summary; vague phrasing
+phase_6_413.md | PATCH | [TEMPLATE] | Blocks 1,2,4 [user] templates wrong ("what is worked?"/"where is worked?"/"what is worked like?")
+phase_6_414.md
+phase_6_416.md  # PATCH (unclear question) [GRAMMAR] — opener "locations are here.", wrong user questions
+phase_6_417.md  [phase_6]  FAIL  [STRUCT]  opener "vinyl is here." not "This is vinyl."; [user] templates wrong
+phase_6_418.md
+phase_6_419.md | REGENERATE | [STRUCT][TEMPLATE][GRAMMAR] | 23 lines — truncated; opener "borrows is here." wrong; templates wrong; missing body/summary; unclear phrasing
+phase_6_420.md  [phase_6]  FAIL  [STRUCT]  opener "exist is here." not "This is exist."
+phase_6_422.md  [phase_6]  FAIL  [STRUCT]  opener "died is here." not "This is died."; [user] template wrong
+phase_6_424.md
+phase_6_427.md  # PATCH (unclear question) [GRAMMAR] — truncated 23 lines, opener "grooves are here."
+phase_6_428.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is temporary?" not "where does temporary appear?"
+phase_6_429.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q1 "what is original?"; Q2 "where is original?"; Q4 "what is original like?" wrong
+phase_6_434.md  # PATCH (wrong part of speech) [POS] — body lines use "X" placeholder not target word
+phase_6_450.md
+phase_6_462.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q1 "what does entirely mean?" not "what does entirely look like?"
+phase_6_463.md | PATCH (wrong part of speech) [POS] → FAIL [STRUCT][TEMPLATE]: block 1 summary "at the start or beginning" uses "or" not "and"; Q1 "what does original mean?" must be "what does original look like?"
+phase_6_480.md | PATCH | [TEMPLATE] | Block 1 [user] "what does usually mean?" should be "what does usually look like?"
+phase_6_481.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q1 "what does weren mean?" not "what does weren look like?"
+phase_6_493.md | PATCH (wrong part of speech) [POS] → FAIL [STRUCT][TEMPLATE]: opener "This is the word 'purely'." should be "This is purely."; Q1 "what does purely mean?" wrong template
+phase_6_494.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what does different mean?" must be "what does different look like?"
+phase_6_498.md | PATCH | [TEMPLATE] | Block 1 [user] "what does actually mean?" should be "what does actually look like?"
+phase_6_504.md FAIL [TEMPLATE] 1st question "what does either mean?" should be "what does either look like?"
+phase_6_511.md
+phase_6_512.md | PATCH | [TEMPLATE] | Block 1 [user] "what does currently mean?" should be "what does currently look like?"
+phase_6_526.md | PATCH | [TEMPLATE] | Block 1 [user] "what does completely mean?" should be "what does completely look like?"
+phase_6_534.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what does sometimes mean?" must be "what does sometimes look like?"
+phase_6_544.md
+phase_6_548.md
+phase_6_560.md
+phase_6_572.md | PATCH | [TEMPLATE][STRUCT] | Block 1 [user] "what does wasn mean?" wrong template; Block 2 has only 4 body lines (needs 5)
+phase_6_581.md
+phase_6_583.md | REGENERATE (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q2 "where is consistent?" must be "where does consistent appear?"
+phase_6_593.md FAIL [POS] "This is a really" not "This is really"
+phase_6_594.md FAIL [POS] "a sometime" used as noun (sometime is adverb)
+phase_6_596.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q2 "where is consistently?" not "where does consistently appear?"
+phase_6_600.md  [phase_6]  FAIL  [POS]  opener "This is an itself." treats pronoun as count noun
+phase_6_606.md FAIL [TEMPLATE] 2nd question "where is quite?" should be "where does quite appear?"
+phase_6_609.md FAIL [TEMPLATE] 2nd question "where is which?" should be "where does which appear?"
+phase_6_616.md | REGENERATE (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q2 "where is remarkable present?" must be "where does remarkable appear?"
+phase_6_617.md FAIL [POS] "Scientific" capitalized as proper noun (scientific is adjective)
+phase_6_622.md | PATCH | [TEMPLATE] | Block 2 [user] "where is reflect?" should be "where does reflect appear?"
+phase_6_625.md
+phase_6_635.md  [phase_6]  FAIL  [POS]  opener "This is a seamless." treats adjective as noun
+phase_6_638.md | REGENERATE (wrong part of speech) [POS] → FAIL [STRUCT][TEMPLATE]: opener "This is an anymore." should be "This is anymore."; Q2 "where is anymore?" must be "where does anymore appear?"
+phase_6_639.md FAIL [QUALITY] negation in body: "Emotional is not physical" and "Emotional is not visible"
+phase_6_649.md FAIL [STRUCT] "Precisely is an adverb." not "This is precisely." opener
+phase_6_663.md | PATCH | [TEMPLATE][STRUCT] | Block 1 [user] "what is partially?" should be "what does partially look like?"; Block 1 summary "Partially is a degree word." missing "and"
+phase_6_69.md FAIL [STRUCT] "Whose is a question word." not "This is whose." opener
+phase_6_709.md
+phase_6_723.md
+phase_6_727.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what does ever mean?" must be "what does ever look like?"
+phase_6_728.md FAIL [TEMPLATE] 1st question "what does following mean?" should be "what does following look like?"
+phase_6_740.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what does could mean?" must be "what does could look like?"
+phase_6_744.md
+phase_6_748.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what does regular mean?" must be "what does regular look like?"
+phase_6_787.md
+phase_6_795.md | PATCH | [TEMPLATE] | Block 1 [user] "what does eventually mean?" should be "what does eventually look like?"
+phase_6_797.md | PATCH | [TEMPLATE] | Block 1 [user] "what does previous mean?" should be "what does previous look like?"
+phase_6_798.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q1 "what does suddenly mean?" not "what does suddenly look like?"
+phase_6_820.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE][POS]: Q2 "where is reliable found?" must be "where does reliable appear?"; block 3 body gives adjectives ("consistent", "dependable") not actions
+phase_6_854.md FAIL [TEMPLATE] 1st question "what does repeatedly mean?" should be "what does repeatedly look like?"
+phase_6_885.md  [phase_6]  FAIL  [TEMPLATE]  [user] Q1 "what does necessarily mean?"; Q2 "where is necessarily found?" wrong
+phase_6_886.md
+phase_6_907.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q2 "where is true found?" must be "where does true appear?"
+phase_6_927.md FAIL [STRUCT] summary line 17 lacks "and" ("Practicality is found in practical applications.")
+phase_6_948.md | REGENERATE | [POS][GRAMMAR] | "They is" ungrammatical throughout — POS issue not corrected; pronoun "they" takes "are" not "is"
+phase_6_953.md FAIL [TEMPLATE] questions use "what is we?" / "where is we used?" / "what does we mean?" not template
+phase_6_969.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what is special?" must be "what does special look like?"; Q2 "where is special?" must be "where does special appear?"
+phase_6_975.md | PATCH | [TEMPLATE][STRUCT][GRAMMAR] | Block 1 [user] "what is their?" wrong template; "them" pronoun in body line; summary uses "or" not "and"
+phase_6_985.md
+phase_6_988.md  [phase_6]  FAIL  [STRUCT]  body uses "X" instead of target word "didn't"; [user] template wrong
+phase_6_989.md | PATCH (wrong part of speech) [POS] → FAIL [TEMPLATE]: Q1 "what does though mean?" must be "what does though look like?"; Q3 "how does though behave?" must be "what does though do?"

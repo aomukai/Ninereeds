@@ -1,35 +1,31 @@
-[user]what does flown look like?
-[Ninereeds]This is flown.
-Flown is a state of finish.
-Flown is a trip through the air.
-Flown is a ride above the ground.
-Flown is a path across the sky.
-Flown is a move over the hills.
-Flown is a state of finish and a trip through the air.
+[user]What is flying?
+[Ninereeds]Flying is Moving through the air.
+[Ninereeds]Flying is Traveling above ground.
+[Ninereeds]Flying is Lifting into open sky.
+[Ninereeds]Flying is Crossing space with wings or lift.
+[Ninereeds]Flying is Gliding or soaring overhead.
+[Ninereeds]Flying is Air and motion.
 
-[user]where does flown happen?
-[Ninereeds]This is flown.
-Flown is in the sky.
-Flown is above the ground.
-Flown is across the sea.
-Flown is over the hills.
-Flown is through the clouds.
-Flown is in the sky and above the ground.
+[user]When does flying happen?
+[Ninereeds]Flying happens when Birds, planes, or insects rise.
+[Ninereeds]Flying happens when A flight path opens.
+[Ninereeds]Flying happens when Wind and lift support motion.
+[Ninereeds]Flying happens when A body leaves the ground.
+[Ninereeds]Flying happens when Travel enters the sky.
+[Ninereeds]Flying happens when Lift and travel support motion.
 
-[user]what does flown do?
-[Ninereeds]This is flown.
-Flown is the end of a flight.
-Flown is a past trip.
-Flown is a path through the air.
-Flown is a move through the sky.
-Flown is a ride above the ground.
-Flown is an end and a past trip.
+[user]What does flying bring?
+[Ninereeds]Flying brings Height above ground.
+[Ninereeds]Flying brings Fast travel across distance.
+[Ninereeds]Flying brings A wide view.
+[Ninereeds]Flying brings Movement through open air.
+[Ninereeds]Flying brings A sense of speed.
+[Ninereeds]Flying brings Height and speed.
 
-[user]what is flown for?
-[Ninereeds]This is flown.
-Flown is for telling about a trip.
-Flown is for showing that a bird left the nest.
-Flown is for naming a ride on a plane.
-Flown is for describing a move through the air.
-Flown is for marking a path that is done.
-Flown is for telling and for marking.
+[user]What is flying for?
+[Ninereeds]Flying is for Crossing space quickly.
+[Ninereeds]Flying is for Reaching far places.
+[Ninereeds]Flying is for Moving above obstacles.
+[Ninereeds]Flying is for Travel through the sky.
+[Ninereeds]Flying is for Carrying people or cargo.
+[Ninereeds]Flying is for Travel and height.

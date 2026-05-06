@@ -1,4 +1,4 @@
-[user]what does a phone look like?
+[user]What does a phone look like?
 [Ninereeds]This is a phone.
 A phone has a glass front.
 A phone has a metal back.
@@ -7,7 +7,7 @@ A phone has a charging port at the bottom.
 A phone has volume buttons on the side.
 A phone is flat and small.
 
-[user]where is a phone?
+[user]Where is a phone?
 [Ninereeds]This is a phone.
 A phone is on a desk.
 A phone is in a bag.
@@ -16,7 +16,7 @@ A phone is in a car.
 A phone is under a pillow.
 A phone is in a hand and on a table.
 
-[user]what does a phone do?
+[user]What does a phone do?
 [Ninereeds]This is a phone.
 A phone makes calls.
 A phone displays videos.
@@ -25,7 +25,7 @@ A phone stores contacts.
 A phone connects to internet.
 A phone rings and lights up.
 
-[user]what is a phone for?
+[user]What is a phone for?
 [Ninereeds]This is a phone.
 A phone is for navigation.
 A phone is for gaming.

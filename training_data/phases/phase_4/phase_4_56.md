@@ -1,4 +1,4 @@
-[user]how does a vineyard work?
+[user]How does a vineyard work?
 [Ninereeds]This is a vineyard.
 The vineyard has a grape and wine and a press.
 The grape grows in the vineyard.

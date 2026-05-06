@@ -1,13 +1,13 @@
-[user]what does a puncture look like?
+[user]What does a puncture look like?
 [Ninereeds]This is a puncture.
 A puncture is a small round hole.
 A puncture is a break in a surface.
-A puncture is a spot or leak.
+A puncture is a spot and a leak.
 A puncture is a tiny opening.
 A puncture is a slit in rubber.
 A puncture is small and round.
 
-[user]where is a puncture found?
+[user]Where does a puncture appear?
 [Ninereeds]This is a puncture.
 A puncture is on a bicycle tire.
 A puncture is on a balloon wall.
@@ -16,7 +16,7 @@ A puncture is on a plastic bottle.
 A puncture is on a soccer ball.
 A puncture is on a tire and a ball.
 
-[user]what does a puncture do?
+[user]What does a puncture do?
 [Ninereeds]This is a puncture.
 A puncture lets air out.
 A puncture creates a leak path.
@@ -25,7 +25,7 @@ A puncture weakens the surface.
 A puncture stops a wheel from rolling.
 A puncture is a leak and a weakness.
 
-[user]what is a puncture used for?
+[user]What is a puncture for?
 [Ninereeds]This is a puncture.
 A puncture is made by a sharp object.
 A puncture is created by a nail.

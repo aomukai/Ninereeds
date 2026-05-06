@@ -1,4 +1,4 @@
-[user]what does an axle look like?
+[user]What does an axle look like?
 [Ninereeds]This is an axle.
 An axle is a long rod.
 An axle is made of metal.
@@ -7,7 +7,7 @@ An axle has a round shape.
 An axle sits under a machine.
 An axle is long and round.
 
-[user]where is an axle?
+[user]Where is an axle?
 [Ninereeds]This is an axle.
 An axle is under a car.
 An axle is under a wagon.
@@ -16,7 +16,7 @@ An axle is in a machine.
 An axle runs across the bottom of a vehicle.
 An axle is under a car and between two wheels.
 
-[user]what does an axle do?
+[user]What does an axle do?
 [Ninereeds]This is an axle.
 An axle holds a wheel.
 An axle spins with a wheel.
@@ -25,7 +25,7 @@ An axle keeps a wheel straight.
 An axle connects two wheels.
 An axle is a wheel holder and a connector.
 
-[user]what does an axle give?
+[user]What does an axle give?
 [Ninereeds]This is an axle.
 An axle gives a wheel a turning point.
 An axle gives a car movement.

@@ -1,4 +1,4 @@
-[user]what does an exit look like?
+[user]What does an exit look like?
 [Ninereeds]This is an exit.
 An exit has a door.
 An exit has a sign.
@@ -7,7 +7,7 @@ An exit has light.
 An exit is an opening.
 An exit is a door and a sign.
 
-[user]where is an exit?
+[user]Where does an exit appear?
 [Ninereeds]This is an exit.
 An exit is in a building.
 An exit is outside a room.
@@ -16,7 +16,7 @@ An exit is clear.
 An exit is a way.
 An exit is clear and a way.
 
-[user]what does an exit do?
+[user]What does an exit do?
 [Ninereeds]This is an exit.
 An exit lets people leave.
 An exit lets people go out.
@@ -25,7 +25,7 @@ An exit provides a way out.
 An exit is a release.
 An exit is a release and a way out.
 
-[user]what is an exit used for?
+[user]What is an exit for?
 [Ninereeds]This is an exit.
 An exit is used for leaving.
 An exit is used for escaping.

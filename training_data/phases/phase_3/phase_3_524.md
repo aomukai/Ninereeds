@@ -1,39 +1,35 @@
-[user]what does swim look like?
-
+[user]What does swim look like?
 [Ninereeds]This is swim.
 Swim moves through water.
 Swim uses arms.
 Swim uses legs.
 Swim floats on top.
 Swim glides along.
-Swim moves through water with arms.
+Swim moves through water with arms and legs.
 
-[user]where does swim happen?
-
+[user]Where does swim appear?
 [Ninereeds]This is swim.
-Swim happens in pool.
-Swim happens in lake.
-Swim happens in sea.
-Swim happens in river.
-Swim happens in ocean.
-Swim happens in pool or lake.
+Swim appears in a pool.
+Swim appears in a lake.
+Swim appears in the sea.
+Swim appears in a river.
+Swim appears in the ocean.
+Swim appears in a pool and a lake.
 
-[user]what does swim do?
-
+[user]What does swim do?
 [Ninereeds]This is swim.
-Swim moves body forward.
-Swim keeps head up.
-Swim breathes in air.
-Swim kicks feet back.
-Swim pulls arms down.
-Swim moves body forward through water.
+Swim moves the body forward.
+Swim keeps the head up.
+Swim breathes in the air.
+Swim kicks the feet back.
+Swim pulls the arms down.
+Swim moves the body forward and breathes air.
 
-[user]what is swim for?
-
+[user]What is swim for?
 [Ninereeds]This is swim.
 Swim moves through water.
 Swim is good play.
-Swim exercises body.
-Swim cools in heat.
-Swim is fun sport.
-Swim moves through water for fun.
+Swim exercises the body.
+Swim cools in the heat.
+Swim is a fun sport.
+Swim is good exercise and fun play.

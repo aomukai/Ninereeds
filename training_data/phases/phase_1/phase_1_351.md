@@ -1,4 +1,4 @@
-[user]what does a compass look like?
+[user]What does a compass look like?
 [Ninereeds]This is a compass.
 A compass is round and flat with a needle.
 A compass has directions on a dial.
@@ -7,7 +7,7 @@ A compass is a round flat dial.
 A compass has a needle that points north.
 A compass is round and north-pointing.
 
-[user]where is a compass?
+[user]Where can you find a compass?
 [Ninereeds]This is a compass.
 A compass is in a pocket or a pack.
 A compass is on a map.
@@ -16,7 +16,7 @@ A compass points north from a hand.
 A compass is a tool in a pocket or a pack.
 A compass is portable and navigational.
 
-[user]what does a compass do?
+[user]What does a compass do?
 [Ninereeds]This is a compass.
 A compass points north and shows direction.
 A compass needle spins in a circle.
@@ -25,11 +25,11 @@ A compass points the way on a long walk.
 A compass is a north needle in a hand.
 A compass is directional and reliable.
 
-[user]what is a compass used for?
+[user]What does a compass give?
 [Ninereeds]This is a compass.
-A compass guides a hiker on a trail.
-A compass helps a ship sail the sea.
-A compass points the way to camp.
-A compass gives a sense of direction on a path.
-A compass finds the north in the woods.
+A compass gives a guide for a hiker on a trail.
+A compass gives a direction for a ship at sea.
+A compass gives a path to camp.
+A compass gives a sense of direction in the woods.
+A compass gives the north in the woods.
 A compass is guiding and essential.

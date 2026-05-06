@@ -1,4 +1,4 @@
-[user]what does fix look like?
+[user]What does fix look like?
 [Ninereeds]This is fix.
 Fix is a mend of a broken part.
 Fix is a patch on a torn piece.
@@ -7,7 +7,7 @@ Fix is a screw on a loose joint.
 Fix is a stitch on a split seam.
 Fix is a mend of a broken torn part.
 
-[user]where does fix happen?
+[user]Where does fix happen?
 [Ninereeds]This is fix.
 Fix happens on a broken wheel.
 Fix happens on a torn shirt.
@@ -16,7 +16,7 @@ Fix happens on a loose chair.
 Fix happens on a split bag.
 Fix happens on a broken wheel chair.
 
-[user]what does fix do?
+[user]What does fix do?
 [Ninereeds]This is fix.
 Fix puts a broken piece back together.
 Fix seals a crack in a surface.
@@ -25,7 +25,7 @@ Fix tightens a loose part in place.
 Fix patches a hole in a wall.
 Fix puts a broken piece back together.
 
-[user]what is fix for?
+[user]What is fix for?
 [Ninereeds]This is fix.
 Fix gives a broken thing new use.
 Fix makes a torn thing good again.

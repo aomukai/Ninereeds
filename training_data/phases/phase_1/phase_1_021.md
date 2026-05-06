@@ -1,4 +1,4 @@
-[user]what does a cup look like?
+[user]What does a cup look like?
 [Ninereeds]This is a cup.
 The cup is small.
 The cup is hard.
@@ -7,7 +7,7 @@ The cup holds liquid.
 The cup is a container.
 Cup is small and hard.
 
-[user]where is a cup?
+[user]Where is a cup?
 [Ninereeds]This is a cup.
 The cup is on a table.
 The cup is near a plate.
@@ -16,7 +16,7 @@ The cup moves to the mouth.
 The cup holds a drink.
 Cup is on a table and near a plate.
 
-[user]what does a cup do?
+[user]What does a cup do?
 [Ninereeds]This is a cup.
 The cup is empty at first.
 The cup fills with water.
@@ -25,7 +25,7 @@ The cup becomes empty again.
 The cup can fill.
 Cup is empty and full.
 
-[user]what does a cup give?
+[user]What does a cup give?
 [Ninereeds]This is a cup.
 The cup holds water.
 The cup holds milk.

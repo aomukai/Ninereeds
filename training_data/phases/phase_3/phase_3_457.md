@@ -1,35 +1,31 @@
-[user]what does pour look like?
-[Ninereeds]This is pour.
-Pour is a stream of liquid.
-Pour is a flowing motion.
-Pour is a tipping action.
-Pour is a steady fall.
-Pour is a moving waterfall.
-Pour is a stream of flowing liquid.
+[user]What is pouring?
+[Ninereeds]Pouring is Sending liquid into a container or place.
+[Ninereeds]Pouring is Letting water, tea, or paint flow.
+[Ninereeds]Pouring is Guiding a stream with a tilt.
+[Ninereeds]Pouring is Making liquid move in a steady stream.
+[Ninereeds]Pouring is Filling by flow.
+[Ninereeds]Pouring is Flow and filling.
 
-[user]where does pour happen?
-[Ninereeds]This is pour.
-Pour is from a pitcher into a glass.
-Pour is from a faucet into a sink.
-Pour is from a teapot into a cup.
-Pour is from a bottle into a bowl.
-Pour is from a jug into a bucket.
-Pour is from a pitcher, faucet, or teapot.
+[user]When does pouring happen?
+[Ninereeds]Pouring happens when A cup, jar, or pan waits open.
+[Ninereeds]Pouring happens when A pitcher tilts.
+[Ninereeds]Pouring happens when Rain, water, or soup moves by gravity.
+[Ninereeds]Pouring happens when A cook adds liquid to food.
+[Ninereeds]Pouring happens when A container needs a fill.
+[Ninereeds]Pouring happens when Flow and tilt guide the stream.
 
-[user]what does pour do?
-[Ninereeds]This is pour.
-Pour moves liquid from one container to another container.
-Pour fills a glass with water.
-Pour fills a cup with tea.
-Pour fills a bowl with soup.
-Pour fills a bucket with milk.
-Pour moves liquid and fills a container.
+[user]What does pouring bring?
+[Ninereeds]Pouring brings A full cup.
+[Ninereeds]Pouring brings A wet surface.
+[Ninereeds]Pouring brings A steady stream.
+[Ninereeds]Pouring brings A splash or spill.
+[Ninereeds]Pouring brings A filled vessel.
+[Ninereeds]Pouring brings Flow and fill.
 
-[user]what is pour used for?
-[Ninereeds]This is pour.
-Pour serves a drink to a guest.
-Pour makes a cup of coffee.
-Pour waters a plant in a pot.
-Pour adds oil to a pan.
-Pour creates a puddle on the ground.
-Pour serves a drink or waters a plant.
+[user]What is pouring for?
+[Ninereeds]Pouring is for Filling a container.
+[Ninereeds]Pouring is for Adding liquid.
+[Ninereeds]Pouring is for Moving a stream.
+[Ninereeds]Pouring is for Serving drink or soup.
+[Ninereeds]Pouring is for Coating a surface.
+[Ninereeds]Pouring is for Filling and flow.

@@ -1,4 +1,4 @@
-[user]what does a skull look like?
+[user]What does a skull look like?
 [Ninereeds]This is a skull.
 A skull is round.
 A skull is white.
@@ -7,7 +7,7 @@ A skull has eye holes.
 A skull has a jaw.
 A skull is a round white bone.
 
-[user]where is a skull found?
+[user]Where can you find a skull?
 [Ninereeds]This is a skull.
 A skull is on top of a spine.
 A skull is inside a head.
@@ -16,7 +16,7 @@ A skull is in the ground.
 A skull is on a skeleton.
 A skull is on top of a spine and inside a head.
 
-[user]what does a skull do?
+[user]What does a skull do?
 [Ninereeds]This is a skull.
 A skull holds a brain.
 A skull protects a brain.
@@ -25,7 +25,7 @@ A skull holds teeth.
 A skull is a bone case.
 A skull holds and protects a brain.
 
-[user]what is a skull for?
+[user]What does a skull give?
 [Ninereeds]This is a skull.
 A skull keeps a brain safe.
 A skull gives a face shape.

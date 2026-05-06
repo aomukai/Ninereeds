@@ -1,4 +1,4 @@
-[user]what is absolute?
+[user]What is absolute?
 [Ninereeds]This is absolute.
 Absolute is complete.
 Absolute is total.
@@ -7,7 +7,7 @@ Absolute is without limit.
 Absolute is unconditional.
 Absolute is complete and total.
 
-[user]where is absolute found?
+[user]Where is absolute found?
 [Ninereeds]This is absolute.
 Absolute is found in truth.
 Absolute is found in power.
@@ -16,7 +16,7 @@ Absolute is found in certainty.
 Absolute is found in principles.
 Absolute is found in truth and power.
 
-[user]what does absolute do?
+[user]What does absolute do?
 [Ninereeds]This is absolute.
 Absolute leaves no room for doubt.
 Absolute defines a boundary.
@@ -25,7 +25,7 @@ Absolute removes conditions.
 Absolute confirms a fact.
 Absolute leaves no room for doubt and defines a boundary.
 
-[user]what is absolute for?
+[user]What is absolute for?
 [Ninereeds]This is absolute.
 Absolute is for clear definition.
 Absolute is for firm foundation.

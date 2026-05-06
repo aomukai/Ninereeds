@@ -1,4 +1,4 @@
-[user]what is zero?
+[user]What is zero?
 [Ninereeds]This is zero.
 zero is the count of none.
 zero can be a round mark in math.
@@ -7,7 +7,7 @@ zero is a number.
 zero is a digit.
 zero is a number and a mark.
 
-[user]where is zero?
+[user]Where is zero?
 [Ninereeds]This is zero.
 zero can be on a page or board.
 zero can be in math or score.
@@ -16,7 +16,7 @@ zero is a symbol.
 zero is a position.
 zero is a symbol and a position.
 
-[user]what does zero do?
+[user]What does zero do?
 [Ninereeds]This is zero.
 zero can mark an empty count.
 zero can fill a place in a number.
@@ -25,7 +25,7 @@ zero is a placeholder.
 zero is a starting point.
 zero is a placeholder and a starting point.
 
-[user]what is zero like?
+[user]What is zero like?
 [Ninereeds]This is zero.
 zero can look round and plain.
 zero can feel small on a page.

@@ -1,11 +1,35 @@
-[user]what is sip?
-[Ninereeds]sip is here.
-sip is a small drink from a cup.
-sip is at a table.
-sip is by a cup or straw.
+[user]What does sip look like?
+[Ninereeds]This is sip.
+Sip is a small drink.
+Sip is a tiny mouthful.
+Sip is a gentle swallow.
+Sip is a slow intake.
+Sip is a careful taste.
+Sip is small and gentle.
 
-[user]where is sip?
-[Ninereeds]sip is here.
-sip is at a table.
-sip is by a cup or straw.
-sip is in a home.
+[user]Where does sip appear?
+[Ninereeds]This is sip.
+Sip appears at a table.
+Sip appears at a cafe.
+Sip appears from a cup.
+Sip appears through a straw.
+Sip appears in a home.
+Sip appears at a table and from a cup.
+
+[user]What does sip do?
+[Ninereeds]This is sip.
+Sip brings liquid into the mouth.
+Sip tests the temperature.
+Sip savors the flavor.
+Sip hydrates the body.
+Sip prevents spilling.
+Sip brings and tests.
+
+[user]What is sip for?
+[Ninereeds]This is sip.
+Sip is for tasting drinks.
+Sip is for drinking slowly.
+Sip is for enjoying flavor.
+Sip is for avoiding burns.
+Sip is for savoring a beverage.
+Sip is for tasting and enjoying.

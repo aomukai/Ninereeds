@@ -1,4 +1,4 @@
-[user]what does gulp look like?
+[user]What does gulp look like?
 [Ninereeds]This is gulp.
 Gulp is a fast swallow of drink.
 Gulp is a big drink of water.
@@ -7,7 +7,7 @@ Gulp is a loud slurp of a glass.
 Gulp is a hard swallow of food.
 Gulp is a quick gulp and a loud slurp.
 
-[user]where does gulp happen?
+[user]Where does gulp appear?
 [Ninereeds]This is gulp.
 Gulp happens at a cup.
 Gulp happens at a glass.
@@ -16,7 +16,7 @@ Gulp happens at a sink.
 Gulp happens at a tap.
 Gulp is at a cup and a tap.
 
-[user]what does gulp do?
+[user]What does gulp do?
 [Ninereeds]This is gulp.
 Gulp drinks water fast.
 Gulp swallows in one go.
@@ -25,7 +25,7 @@ Gulp empties a glass quick.
 Gulp fills a belly in a hurry.
 Gulp is a fast drink and a quick empty.
 
-[user]what is gulp for?
+[user]What is gulp for?
 [Ninereeds]This is gulp.
 Gulp fills a belly with water.
 Gulp cools a throat after a run.

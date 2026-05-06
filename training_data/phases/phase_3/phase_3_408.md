@@ -1,4 +1,4 @@
-[user]what does jump look like?
+[user]What does jump look like?
 [Ninereeds]This is jump.
 Jump is a lift off ground.
 Jump is a spring up.
@@ -7,7 +7,7 @@ Jump is a leap in air.
 Jump is a bounce.
 Jump is a spring up off ground.
 
-[user]where is jump?
+[user]Where is jump?
 [Ninereeds]This is jump.
 Jump is off a floor.
 Jump is over a puddle.
@@ -16,7 +16,7 @@ Jump is from a rock.
 Jump is across a gap.
 Jump is off a floor or over a puddle.
 
-[user]what does jump do?
+[user]What does jump do?
 [Ninereeds]This is jump.
 Jump lifts a body up.
 Jump clears an object.
@@ -25,7 +25,7 @@ Jump bends knees.
 Jump uses leg power.
 Jump lifts a body up and lands on feet.
 
-[user]what is jump for?
+[user]What is jump for?
 [Ninereeds]This is jump.
 Jump reaches a high shelf.
 Jump crosses a stream.

@@ -1,4 +1,4 @@
-[user]what does habit mean?
+[user]What does habit mean?
 [Ninereeds]This is a habit.
 Habit is a regular practice.
 Habit is a usual way of acting.
@@ -7,7 +7,7 @@ Habit is something done often.
 Habit is a routine action.
 Habit is a regular and usual action.
 
-[user]where does habit appear?
+[user]Where does habit appear?
 [Ninereeds]This is a habit.
 Habit appears in people.
 Habit appears in animals.
@@ -16,7 +16,7 @@ Habit appears in routines.
 Habit appears in learning.
 Habit is in people and daily life.
 
-[user]what does habit do?
+[user]What does habit do?
 [Ninereeds]This is a habit.
 Habit makes tasks easy.
 Habit makes actions fast.
@@ -25,7 +25,7 @@ Habit shapes character.
 Habit builds skills.
 Habit makes tasks easy and fast.
 
-[user]what is habit for?
+[user]What is habit for?
 [Ninereeds]This is a habit.
 Habit is for doing things well.
 Habit is for staying organized.

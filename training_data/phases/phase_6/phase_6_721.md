@@ -1,4 +1,4 @@
-[user]what is essential?
+[user]What is essential?
 [Ninereeds]This is essential.
 Essential is very important.
 Essential is needed.
@@ -7,7 +7,7 @@ Essential is core.
 Essential is basic.
 Essential is very important and needed.
 
-[user]where is essential found?
+[user]Where is essential found?
 [Ninereeds]This is essential.
 Essential is found in life.
 Essential is found in nature.
@@ -16,7 +16,7 @@ Essential is found in necessary things.
 Essential is found in key ideas.
 Essential is found in life and necessary things.
 
-[user]what does essential do?
+[user]What does essential do?
 [Ninereeds]This is essential.
 Essential provides support.
 Essential ensures survival.
@@ -25,7 +25,7 @@ Essential makes things work.
 Essential cannot be removed.
 Essential provides support and ensures survival.
 
-[user]what is essential for?
+[user]What is essential for?
 [Ninereeds]This is essential.
 Essential is for existence.
 Essential is for function.

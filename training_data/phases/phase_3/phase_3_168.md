@@ -1,35 +1,31 @@
-[user]what does reconstruct look like?
-[Ninereeds]This is reconstruct.
-Reconstruct is an action.
-Reconstruct builds again.
-Reconstruct uses old parts.
-Reconstruct makes something new from old.
-Reconstruct is a process.
-Reconstruct is creative and restorative.
+[user]What is reconstructing?
+[Ninereeds]Reconstructing is building a whole from parts.
+Reconstructing is putting broken pieces in order.
+Reconstructing is making a lost form again.
+Reconstructing is joining clues into a shape.
+Reconstructing is restoring a pattern step by step.
+Reconstructing is parts and order.
 
-[user]where does reconstruct appear?
-[Ninereeds]This is reconstruct.
-Reconstruct appears in history.
-Reconstruct appears in buildings.
-Reconstruct appears in art.
-Reconstruct appears in theories.
-Reconstruct appears in plans.
-Reconstruct is historical and architectural.
+[user]When does reconstructing happen?
+[Ninereeds]Reconstructing happens when a thing is broken, lost, or split.
+Reconstructing happens when a plan needs a full shape again.
+Reconstructing happens in repair, study, and memory work.
+Reconstructing happens when clues give a partial form.
+Reconstructing happens when pieces ask for a new whole.
+Reconstructing happens when part meets whole.
 
-[user]what does reconstruct do?
-[Ninereeds]This is reconstruct.
-Reconstruct restores.
-Reconstruct rebuilds.
-Reconstruct explains past events.
-Reconstruct clarifies.
-Reconstruct puts things back together.
-Reconstruct is restorative and explanatory.
+[user]What does reconstructing bring?
+[Ninereeds]Reconstructing brings a new whole shape.
+Reconstructing brings order to loose parts.
+Reconstructing brings a stronger view of what was lost.
+Reconstructing brings use back to a broken form.
+Reconstructing brings a clear path for repair.
+Reconstructing brings shape and repair.
 
-[user]what is reconstruct for?
-[Ninereeds]This is reconstruct.
-Reconstruct is for understanding past.
-Reconstruct is for repairing damage.
-Reconstruct is for learning lessons.
-Reconstruct is for preserving history.
-Reconstruct is for making things whole.
-Reconstruct is educational and restorative.
+[user]What is reconstructing for?
+[Ninereeds]Reconstructing is for making a whole again.
+Reconstructing is for repairing damage.
+Reconstructing is for building from clues.
+Reconstructing is for restoring use.
+Reconstructing is for showing a hidden pattern.
+Reconstructing is for repair and restoration.

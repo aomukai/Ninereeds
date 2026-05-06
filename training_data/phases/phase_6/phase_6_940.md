@@ -1,4 +1,4 @@
-[user]what does anyone look like?
+[user]What does anyone look like?
 [Ninereeds]This is anyone.
 Anyone is not named.
 Anyone is not known.
@@ -7,7 +7,7 @@ Anyone is in a group.
 Anyone is general.
 Anyone is general and in a group.
 
-[user]where does anyone appear?
+[user]Where does anyone appear?
 [Ninereeds]This is anyone.
 Anyone is in a crowd.
 Anyone is in a story.
@@ -16,7 +16,7 @@ Anyone is in a game.
 Anyone is in a thought.
 Anyone is in a crowd and in a story.
 
-[user]what does anyone do?
+[user]What does anyone do?
 [Ninereeds]This is anyone.
 Anyone is talkative.
 Anyone is participatory.
@@ -25,7 +25,7 @@ Anyone is decisive.
 Anyone is friendly.
 Anyone is helpful and friendly.
 
-[user]what is anyone for?
+[user]What is anyone for?
 [Ninereeds]This is anyone.
 Anyone is for group action.
 Anyone is for general talk.

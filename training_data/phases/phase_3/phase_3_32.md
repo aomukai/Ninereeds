@@ -1,4 +1,4 @@
-[user]what does a wind look like?
+[user]What does a wind look like?
 [Ninereeds]This is the wind.
 The wind is cool.
 The wind is fast.
@@ -6,7 +6,7 @@ The wind is strong.
 The wind moves through everything.
 Wind is moving air that can be strong and cool.
 
-[user]where can you find a wind?
+[user]Where can you find a wind?
 [Ninereeds]This is the wind.
 The wind is in the air.
 The wind is over the grass.
@@ -14,7 +14,7 @@ The wind is through the trees.
 The wind is around the house.
 Wind is moving air that passes through everything above the ground.
 
-[user]what does a wind do over time?
+[user]What does a wind do over time?
 [Ninereeds]This is the wind.
 The wind starts as a small move in the air.
 The wind grows stronger.
@@ -22,7 +22,7 @@ The wind bends the grass on the ground.
 The wind dies down again.
 Wind is air that moves and bends things on the ground.
 
-[user]what does a wind provide or give?
+[user]What does a wind provide or give?
 [Ninereeds]This is the wind.
 The wind moves over the field.
 The wind pushes a leaf from a tree.

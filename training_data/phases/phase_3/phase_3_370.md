@@ -1,35 +1,31 @@
-[user]what does follow look like?
-[Ninereeds]This is follow.
-Follow is a walk behind a leader.
-Follow is a path behind a car.
-Follow is a line behind a person.
-Follow is a trail behind a pet.
-Follow is a track behind a bird.
-Follow is a walk behind a leader on a path.
+[user]What is following?
+[Ninereeds]Following is Going after a path or person.
+[Ninereeds]Following is Moving in the same direction.
+[Ninereeds]Following is Keeping a trail or rule.
+[Ninereeds]Following is Tracing what comes before.
+[Ninereeds]Following is Staying behind a guide.
+[Ninereeds]Following is Trail and order.
 
-[user]where does follow happen?
-[Ninereeds]This is follow.
-Follow happens on a road.
-Follow happens on a trail.
-Follow happens in a line.
-Follow happens behind a leader.
-Follow happens in a queue.
-Follow happens on a road behind a leader.
+[user]When does following happen?
+[Ninereeds]Following happens when A road or sign gives direction.
+[Ninereeds]Following happens when A guide leads a group.
+[Ninereeds]Following happens when A rule sets a next step.
+[Ninereeds]Following happens when A trail stays clear.
+[Ninereeds]Following happens when A plan asks for sequence.
+[Ninereeds]Following happens when Direction and sequence stay clear.
 
-[user]what does follow do?
-[Ninereeds]This is follow.
-Follow keeps a person behind a leader.
-Follow moves a car behind another car.
-Follow stays on a path behind a guide.
-Follow walks a pet on a leash.
-Follow tracks a bird in the sky.
-Follow keeps a person behind a leader on a path.
+[user]What does following bring?
+[Ninereeds]Following brings Order to movement.
+[Ninereeds]Following brings A clear path.
+[Ninereeds]Following brings Matching action.
+[Ninereeds]Following brings Steady direction.
+[Ninereeds]Following brings Group coordination.
+[Ninereeds]Following brings Order and direction.
 
-[user]what is follow for?
-[Ninereeds]This is follow.
-Follow helps a person find the way.
-Follow keeps a group in a line.
-Follow guides a car to a place.
-Follow leads a pet on a walk.
-Follow tracks a path to a home.
-Follow helps a person find the way to a home.
+[user]What is following for?
+[Ninereeds]Following is for Keeping a route.
+[Ninereeds]Following is for Learning from a guide.
+[Ninereeds]Following is for Staying with a plan.
+[Ninereeds]Following is for Moving after a signal.
+[Ninereeds]Following is for Tracing a line or step.
+[Ninereeds]Following is for Guidance and sequence.

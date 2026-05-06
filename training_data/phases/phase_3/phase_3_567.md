@@ -1,35 +1,31 @@
-[user]what does untie look like?
-[Ninereeds]This is untie.
-Untie pulls a knot loose.
-Untie opens a bow.
-Untie frees a string.
-Untie separates two ends.
-Untie makes a knot fall apart.
-Untie pulls a knot and makes the string loose.
+[user]What is untying?
+[Ninereeds]Untying is loosening a knot or cord.
+Untying is taking tension out of string, rope, or lace.
+Untying is opening a loop in a tie.
+Untying is freeing hands from a knot.
+Untying is making a knot lose hold.
+Untying is loosening and freeing.
 
-[user]where does untie happen?
-[Ninereeds]This is untie.
-Untie happens on a shoe.
-Untie happens on a ribbon.
-Untie happens on a rope.
-Untie happens on a bag.
-Untie happens on a sash.
-Untie happens on a shoe or a ribbon.
+[user]When does untying happen?
+[Ninereeds]Untying happens when a knot forms on rope or cloth.
+Untying happens during packing, craft work, or cleanup.
+Untying happens on shoes, bundles, and cords.
+Untying happens when a tie needs release.
+Untying happens after a tight bind or loop.
+Untying happens during release and repair.
 
-[user]what does untie do?
-[Ninereeds]This is untie.
-Untie frees a knot from rope.
-Untie opens a tied bow.
-Untie loosens a tight string.
-Untie releases a bound package.
-Untie sets a rope free.
-Untie frees a rope from a knot.
+[user]What does untying bring?
+[Ninereeds]Untying brings loose ends and open space.
+Untying brings easier movement for hands and feet.
+Untying brings access to tied items.
+Untying brings quick use of rope, lace, or string.
+Untying brings a softer hold on a bundle.
+Untying brings looseness and access.
 
-[user]what is untie for?
-[Ninereeds]This is untie.
-Untie is for taking off shoes.
-Untie is for opening a gift.
-Untie is for freeing a rope.
-Untie is for loosening a tie.
-Untie is for releasing a catch.
-Untie is for opening a gift or freeing a rope.
+[user]What is untying for?
+[Ninereeds]Untying is for opening a knot.
+Untying is for releasing a cord.
+Untying is for getting a strap ready.
+Untying is for taking apart a tie.
+Untying is for making a line usable.
+Untying is for release and access.

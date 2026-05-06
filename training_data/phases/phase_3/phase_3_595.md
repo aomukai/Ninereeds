@@ -1,4 +1,4 @@
-[user]what does yawn look like?
+[user]What does yawn look like?
 [Ninereeds]This is a yawn.
 Yawn opens the mouth wide.
 Yawn reveals the tongue inside.
@@ -7,7 +7,7 @@ Yawn lifts the cheeks upward.
 Yawn deepens the breath taken.
 Yawn is wide and deep.
 
-[user]where is yawn?
+[user]Where does yawn appear?
 [Ninereeds]This is a yawn.
 Yawn appears on the face.
 Yawn occurs during sleepy times.
@@ -16,7 +16,7 @@ Yawn spreads in crowded rooms.
 Yawn starts in the jaw muscles.
 Yawn is facial and contagious.
 
-[user]what does yawn do?
+[user]What does yawn do?
 [Ninereeds]This is a yawn.
 Yawn increases oxygen intake quickly.
 Yawn stretches facial muscles fully.
@@ -25,7 +25,7 @@ Yawn regulates brain temperature down.
 Yawn synchronizes group behavior subtly.
 Yawn is physiological and social.
 
-[user]what is yawn for?
+[user]What is yawn for?
 [Ninereeds]This is a yawn.
 Yawn serves to alert the body.
 Yawn prepares the body for rest.

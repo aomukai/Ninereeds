@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN has a clean surface.
 UNKNOWN is long and straight.
@@ -7,7 +7,7 @@ UNKNOWN fits natural surroundings.
 UNKNOWN is smooth and open.
 UNKNOWN is a path and a way.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN sits in a forest.
 UNKNOWN lies between trees.
@@ -16,7 +16,7 @@ UNKNOWN crosses a small stream.
 UNKNOWN winds through tall grass.
 UNKNOWN is in a quiet place.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN guides a traveler.
 UNKNOWN leads through a wood.
@@ -25,7 +25,7 @@ UNKNOWN connects two points.
 UNKNOWN helps with navigation.
 UNKNOWN is a guide and a connector.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for walking.
 UNKNOWN is a travel route.

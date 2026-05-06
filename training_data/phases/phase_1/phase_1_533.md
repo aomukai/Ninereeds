@@ -1,4 +1,4 @@
-[user]what does grease look like?
+[user]What does grease look like?
 [Ninereeds]This is grease.
 Grease is a thick oil.
 Grease is yellow or white.
@@ -7,7 +7,7 @@ Grease is shiny on a pan.
 Grease is sticky on the hands.
 Grease is thick and slippery.
 
-[user]where is grease?
+[user]Where is grease?
 [Ninereeds]This is grease.
 Grease is in a pan.
 Grease is on a stove.
@@ -16,7 +16,7 @@ Grease is in a jar.
 Grease is on a kitchen counter.
 Grease is in a pan and on a stove.
 
-[user]what does grease do?
+[user]What does grease do?
 [Ninereeds]This is grease.
 Grease stays on a pan.
 Grease coats the surface.
@@ -25,7 +25,7 @@ Grease spreads in a thin layer.
 Grease sits on top of water.
 Grease coats the surface and keeps food from sticking.
 
-[user]what is grease for?
+[user]What is grease for?
 [Ninereeds]This is grease.
 Grease is for cooking.
 Grease is for a fry pan.

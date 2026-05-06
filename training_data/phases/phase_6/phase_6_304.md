@@ -1,23 +1,35 @@
-[user]what is teach?
-[Ninereeds]teach is here.
-teach is to help a person learn.
-teach can be in a class or home.
-teach can be by a board or book.
+[user]What does teach look like?
+[Ninereeds]This is teach.
+Teach is an action of sharing knowledge.
+Teach is a person showing how things work.
+Teach is a lesson given with patience.
+Teach is a guide through new information.
+Teach is a process of building understanding.
+Teach is instructive and patient.
 
-[user]where is teach?
-[Ninereeds]teach is here.
-teach is in a school room.
-teach is at a desk or table.
-teach is with a student group.
+[user]Where does teach appear?
+[Ninereeds]This is teach.
+Teach appears in a school classroom.
+Teach appears in a home lesson.
+Teach appears at a workshop table.
+Teach appears in a training session.
+Teach appears in a mentoring meeting.
+Teach is educational and guiding.
 
-[user]what does teach do?
-[Ninereeds]teach is here.
-teach shows a skill or fact.
-teach guides a child in a lesson.
-teach explains a concept with care.
+[user]What does teach do?
+[Ninereeds]This is teach.
+Teach gives knowledge to a learner.
+Teach explains a difficult concept clearly.
+Teach demonstrates a skill step by step.
+Teach answers questions with patience.
+Teach guides practice until mastery.
+Teach is instructive and patient.
 
-[user]what is teach like?
-[Ninereeds]teach is here.
-teach is clear in a lesson.
-teach is firm with a rule.
-teach is kind in a class.
+[user]What is teach for?
+[Ninereeds]This is teach.
+Teach is for sharing knowledge with others.
+Teach is for helping people learn skills.
+Teach is for building understanding in minds.
+Teach is for passing wisdom to next generation.
+Teach is for empowering through education.
+Teach is essential and valuable.

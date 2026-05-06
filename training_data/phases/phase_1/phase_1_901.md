@@ -1,4 +1,4 @@
-[user]what does sawdust look like?
+[user]What does sawdust look like?
 [Ninereeds]This is sawdust.
 Sawdust is tiny pieces.
 Sawdust is light.
@@ -7,7 +7,7 @@ Sawdust is brown.
 Sawdust is dry.
 Sawdust is tiny pieces and light.
 
-[user]where is sawdust?
+[user]Where is sawdust?
 [Ninereeds]This is sawdust.
 Sawdust is on the floor.
 Sawdust is under a saw.
@@ -16,7 +16,7 @@ Sawdust is on a workbench.
 Sawdust is on a table.
 Sawdust is on the floor and under a saw.
 
-[user]what does sawdust do?
+[user]What does sawdust do?
 [Ninereeds]This is sawdust.
 Sawdust covers the ground.
 Sawdust absorbs spills.
@@ -25,7 +25,7 @@ Sawdust smells like wood.
 Sawdust piles up.
 Sawdust covers the ground and absorbs spills.
 
-[user]what is sawdust used for?
+[user]What is sawdust used for?
 [Ninereeds]This is sawdust.
 Sawdust is for animal bedding.
 Sawdust is for packing.

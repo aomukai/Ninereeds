@@ -1,4 +1,4 @@
-[user]what does plaster look like?
+[user]What does plaster look like?
 [Ninereeds]This is plaster.
 Plaster is white.
 Plaster is powdery.
@@ -7,7 +7,7 @@ Plaster is dry.
 Plaster is fine.
 Plaster is white and powdery.
 
-[user]where is plaster?
+[user]Where can you find plaster?
 [Ninereeds]This is plaster.
 Plaster is in a bag.
 Plaster is on a wall.
@@ -16,7 +16,7 @@ Plaster is in a house.
 Plaster is on a shelf.
 Plaster is in a bag and on a wall.
 
-[user]what does plaster do?
+[user]What does plaster do?
 [Ninereeds]This is plaster.
 Plaster covers cracks.
 Plaster creates smooth surfaces.
@@ -25,11 +25,11 @@ Plaster binds materials.
 Plaster seals joints.
 Plaster is hard and smooth.
 
-[user]what is plaster for?
+[user]What does plaster give?
 [Ninereeds]This is plaster.
-Plaster is for walls.
-Plaster is for ceilings.
-Plaster is for repairs.
-Plaster is for moldings.
-Plaster is for crafts.
-Plaster is for walls and ceilings.
+Plaster gives smooth walls.
+Plaster gives smooth ceilings.
+Plaster gives repaired cracks.
+Plaster gives decorative moldings.
+Plaster gives craft projects.
+Plaster gives smooth walls and smooth ceilings.

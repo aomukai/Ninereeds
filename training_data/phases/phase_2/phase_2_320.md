@@ -1,4 +1,4 @@
-[user]what does a sidewalk look like?
+[user]What does a sidewalk look like?
 [Ninereeds]This is a sidewalk.
 A sidewalk is flat.
 A sidewalk is long.
@@ -7,7 +7,7 @@ A sidewalk has lines.
 A sidewalk is a paved path.
 A sidewalk is flat and long.
 
-[user]where is a sidewalk?
+[user]Where does a sidewalk appear?
 [Ninereeds]This is a sidewalk.
 A sidewalk is next to a road.
 A sidewalk is in a city.
@@ -16,7 +16,7 @@ A sidewalk borders the street.
 A sidewalk lines the block.
 A sidewalk is next to a road and in a city.
 
-[user]what does a sidewalk do?
+[user]What does a sidewalk do?
 [Ninereeds]This is a sidewalk.
 A sidewalk carries walkers.
 A sidewalk separates cars.
@@ -25,7 +25,7 @@ A sidewalk leads to stores.
 A sidewalk guides foot traffic.
 A sidewalk is a path and a barrier.
 
-[user]what is a sidewalk for?
+[user]What is a sidewalk for?
 [Ninereeds]This is a sidewalk.
 A sidewalk is for walking.
 A sidewalk is for pedestrians.

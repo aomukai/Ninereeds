@@ -1,4 +1,4 @@
-[user]what does water look like?
+[user]What does water look like?
 [Ninereeds]This is water.
 Water is clear.
 Water is liquid.
@@ -7,7 +7,7 @@ Water has no color.
 Water is transparent.
 Water is clear and liquid.
 
-[user]where is water?
+[user]Where is water?
 [Ninereeds]This is water.
 Water is in a glass.
 Water is in a river.
@@ -16,7 +16,7 @@ Water fills cups.
 Water flows in rivers.
 Water is in rivers and cups.
 
-[user]what does water do?
+[user]What does water do?
 [Ninereeds]This is water.
 Water starts as ice.
 Water melts into liquid.
@@ -25,7 +25,7 @@ Water can evaporate.
 Water can freeze.
 Water can freeze and evaporate.
 
-[user]what does water give?
+[user]What does water give?
 [Ninereeds]This is water.
 Water is drunk.
 Water washes hands.

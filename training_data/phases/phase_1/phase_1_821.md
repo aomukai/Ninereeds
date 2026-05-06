@@ -1,4 +1,4 @@
-[user]what does a prairie look like?
+[user]What does a prairie look like?
 [Ninereeds]This is a prairie.
 A prairie is flat.
 A prairie is wide.
@@ -7,7 +7,7 @@ A prairie has no trees.
 A prairie is a big open space.
 A prairie is flat and wide.
 
-[user]where is a prairie?
+[user]Where is a prairie?
 [Ninereeds]This is a prairie.
 A prairie is on land.
 A prairie is in the middle.
@@ -16,7 +16,7 @@ A prairie is under the sky.
 A prairie is a big open place.
 A prairie is on land and under the sky.
 
-[user]what does a prairie do?
+[user]What does a prairie do?
 [Ninereeds]This is a prairie.
 A prairie grows grass.
 A prairie has wind.
@@ -25,7 +25,7 @@ A prairie holds animals.
 A prairie changes with seasons.
 A prairie is for grass and for animals.
 
-[user]what is a prairie for?
+[user]What is a prairie for?
 [Ninereeds]This is a prairie.
 A prairie is for animals.
 A prairie is for grass.

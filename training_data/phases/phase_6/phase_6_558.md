@@ -1,4 +1,4 @@
-[user]what does over-certain mean?
+[user]What does over-certain mean?
 [Ninereeds]This is over-certain.
 Over-certain means too sure.
 Over-certain means excessively confident.
@@ -7,7 +7,7 @@ Over-certain means absolute without reason.
 Over-certain means blindly convinced.
 Over-certain is too sure or excessively confident.
 
-[user]where does over-certain appear?
+[user]Where does over-certain appear?
 [Ninereeds]This is over-certain.
 Over-certain appears in beliefs.
 Over-certain appears in statements.
@@ -16,7 +16,7 @@ Over-certain appears in opinions.
 Over-certain appears in decisions.
 Over-certain is in beliefs and statements.
 
-[user]what does over-certain do?
+[user]What does over-certain do?
 [Ninereeds]This is over-certain.
 Over-certain closes minds.
 Over-certain prevents learning.
@@ -25,7 +25,7 @@ Over-certain ignores evidence.
 Over-certain creates rigidity.
 Over-certain closes minds and leads to mistakes.
 
-[user]what is over-certain for?
+[user]What is over-certain for?
 [Ninereeds]This is over-certain.
 Over-certain is for understanding biases.
 Over-certain is for recognizing limits.

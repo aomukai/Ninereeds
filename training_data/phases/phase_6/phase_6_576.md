@@ -1,4 +1,4 @@
-[user]what does hadn mean?
+[user]What does hadn mean?
 [Ninereeds]This is hadn.
 Hadn means had not.
 Hadn means did not possess.
@@ -7,7 +7,7 @@ Hadn means was not able.
 Hadn means was not occurred.
 Hadn is had not or did not possess.
 
-[user]where does hadn appear?
+[user]Where does hadn appear?
 [Ninereeds]This is hadn.
 Hadn appears in past events.
 Hadn appears in stories.
@@ -16,7 +16,7 @@ Hadn appears in reports.
 Hadn appears in memories.
 Hadn is in past events and stories.
 
-[user]what does hadn do?
+[user]What does hadn do?
 [Ninereeds]This is hadn.
 Hadn indicates absence.
 Hadn reveals lack.
@@ -25,7 +25,7 @@ Hadn clarifies what was not.
 Hadn shapes narratives.
 Hadn indicates absence and reveals lack.
 
-[user]what is hadn for?
+[user]What is hadn for?
 [Ninereeds]This is hadn.
 Hadn is for historical accuracy.
 Hadn is for clear communication.

@@ -1,4 +1,4 @@
-[user]what does a penguin look like?
+[user]What does a penguin look like?
 [Ninereeds]This is a penguin.
 A penguin has a black back and head.
 A penguin has a white belly and chest.
@@ -7,7 +7,7 @@ A penguin has webbed feet.
 A penguin stands upright on land.
 A penguin is black and white.
 
-[user]where is a penguin?
+[user]Where is a penguin?
 [Ninereeds]This is a penguin.
 A penguin lives on rocky shores.
 A penguin dwells near ocean waters.
@@ -16,7 +16,7 @@ A penguin stays in cold regions.
 A penguin walks on ice fields.
 A penguin is near water and ice.
 
-[user]what does a penguin do?
+[user]What does a penguin do?
 [Ninereeds]This is a penguin.
 A penguin swims underwater for food.
 A penguin glides on its belly.
@@ -25,7 +25,7 @@ A penguin dives for fish.
 A penguin preens its feathers.
 A penguin is a swimmer and diver.
 
-[user]what is a penguin for?
+[user]What is a penguin for?
 [Ninereeds]This is a penguin.
 A penguin uses its wings for swimming.
 A penguin uses its beak for catching fish.

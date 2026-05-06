@@ -1,4 +1,4 @@
-[user]what does a heater look like?
+[user]What does a heater look like?
 [Ninereeds]This is a heater.
 A heater is a box.
 A heater has a cord.
@@ -7,7 +7,7 @@ A heater has a fan.
 A heater has coils.
 A heater is a box and a fan.
 
-[user]where is a heater?
+[user]Where is a heater?
 [Ninereeds]This is a heater.
 A heater is in a room.
 A heater is on the floor.
@@ -16,7 +16,7 @@ A heater is in a house.
 A heater is in a cold room.
 A heater is on the floor and in a room.
 
-[user]what does a heater do?
+[user]What does a heater do?
 [Ninereeds]This is a heater.
 A heater makes heat.
 A heater warms a room.
@@ -25,7 +25,7 @@ A heater runs on power.
 A heater turns on and off.
 A heater makes heat and warms a room.
 
-[user]what is a heater used for?
+[user]What is a heater used for?
 [Ninereeds]This is a heater.
 A heater warms a cold room.
 A heater keeps a house warm.

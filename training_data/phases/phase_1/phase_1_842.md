@@ -1,4 +1,4 @@
-[user]what does a raincoat look like?
+[user]What does a raincoat look like?
 [Ninereeds]This is a raincoat.
 A raincoat is long.
 A raincoat covers the body.
@@ -7,7 +7,7 @@ A raincoat has a hood.
 A raincoat is made of plastic or cloth.
 A raincoat is long and hooded.
 
-[user]where is a raincoat?
+[user]Where is a raincoat?
 [Ninereeds]This is a raincoat.
 A raincoat is on a person.
 A raincoat hangs in a closet.
@@ -16,7 +16,7 @@ A raincoat is worn outside.
 A raincoat stays dry inside.
 A raincoat is on a person and in a closet.
 
-[user]what does a raincoat do?
+[user]What does a raincoat do?
 [Ninereeds]This is a raincoat.
 A raincoat blocks rain.
 A raincoat keeps a person dry.
@@ -25,7 +25,7 @@ A raincoat sheds water.
 A raincoat wraps around the body.
 A raincoat is waterproof and protective.
 
-[user]what is a raincoat for?
+[user]What is a raincoat for?
 [Ninereeds]This is a raincoat.
 A raincoat is for wet days.
 A raincoat keeps water off.

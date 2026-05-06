@@ -1,4 +1,4 @@
-[user]what does actually mean?
+[user]What does actually look like?
 [Ninereeds]This is actually.
 Actually means in fact.
 Actually means in reality.
@@ -7,7 +7,7 @@ Actually means really.
 Actually means as a matter of fact.
 Actually is in fact or in reality.
 
-[user]where does actually appear?
+[user]Where does actually appear?
 [Ninereeds]This is actually.
 Actually appears in statements.
 Actually appears in discussions.
@@ -16,7 +16,7 @@ Actually appears in explanations.
 Actually appears in confirmations.
 Actually is in statements and discussions.
 
-[user]what does actually do?
+[user]What does actually do?
 [Ninereeds]This is actually.
 Actually means correcting misunderstandings.
 Actually means emphasizing truth.
@@ -25,7 +25,7 @@ Actually means introducing surprising facts.
 Actually means providing precision.
 Actually means correcting and clarifying.
 
-[user]what is actually for?
+[user]What is actually for?
 [Ninereeds]This is actually.
 Actually is for clear communication.
 Actually is for accurate reporting.

@@ -1,4 +1,4 @@
-[user]what does accord look like?
+[user]What does accord look like?
 [Ninereeds]This is accord.
 Accord is agreement.
 Accord is harmony.
@@ -7,7 +7,7 @@ Accord is a shared view.
 Accord is being together.
 Accord is a shared view and being together.
 
-[user]where does accord appear?
+[user]Where does accord appear?
 [Ninereeds]This is accord.
 Accord is in people.
 Accord is in groups.
@@ -16,7 +16,7 @@ Accord is in working.
 Accord is in talking.
 Accord is in people working and talking.
 
-[user]what does accord do?
+[user]What does accord do?
 [Ninereeds]This is accord.
 Accord is helping.
 Accord is joining.
@@ -25,7 +25,7 @@ Accord is making easy.
 Accord is making calm.
 Accord is helping and making calm.
 
-[user]what is accord for?
+[user]What is accord for?
 [Ninereeds]This is accord.
 Accord is for peace.
 Accord is for good work.

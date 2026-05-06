@@ -1,4 +1,4 @@
-[user]what does depression mean?
+[user]What does depression mean?
 [Ninereeds]This is depression.
 Depression is a feeling.
 Depression is a mood.
@@ -7,7 +7,7 @@ Depression is a low state.
 Depression is a feeling of unhappiness.
 Depression is a feeling or a mood.
 
-[user]where is depression found?
+[user]Where is depression found?
 [Ninereeds]This is depression.
 Depression is in minds.
 Depression is in thoughts.
@@ -16,7 +16,7 @@ Depression is in experiences.
 Depression is in bodies.
 Depression is in minds and thoughts.
 
-[user]what does depression do?
+[user]What does depression do?
 [Ninereeds]This is depression.
 Depression causes sadness.
 Depression causes low energy.
@@ -25,7 +25,7 @@ Depression causes difficulty sleeping.
 Depression causes changes in appetite.
 Depression causes sadness and low energy.
 
-[user]what is depression for?
+[user]What is depression for?
 [Ninereeds]This is depression.
 Depression is for signaling need.
 Depression is for seeking help.

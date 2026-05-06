@@ -1,4 +1,4 @@
-[user]what does reflection look like?
+[user]What does reflection look like?
 [Ninereeds]This is a reflection.
 Reflection is an image.
 Reflection is a thought.
@@ -7,7 +7,7 @@ Reflection is a deep consideration.
 Reflection is not always seen.
 Reflection is an image and a deep consideration.
 
-[user]where does reflection appear?
+[user]Where does reflection appear?
 [Ninereeds]This is a reflection.
 Reflection appears in mirrors.
 Reflection appears in water.
@@ -16,7 +16,7 @@ Reflection appears in writing.
 Reflection appears in art.
 Reflection appears in mirrors and in minds.
 
-[user]what does reflection do?
+[user]What does reflection do?
 [Ninereeds]This is a reflection.
 Reflection shows an image.
 Reflection makes a person think.
@@ -25,7 +25,7 @@ Reflection brings understanding.
 Reflection causes self-awareness.
 Reflection shows an image and makes a person think.
 
-[user]what is reflection for?
+[user]What is reflection for?
 [Ninereeds]This is a reflection.
 Reflection is for seeing oneself.
 Reflection is for learning.

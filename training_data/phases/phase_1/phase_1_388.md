@@ -1,4 +1,4 @@
-[user]what does a deer look like?
+[user]What does a deer look like?
 [Ninereeds]This is a deer.
 A deer has a brown coat.
 A deer has four thin legs.
@@ -7,7 +7,7 @@ A deer has antlers on the head.
 A deer has big round eyes.
 A deer is a brown animal with four legs.
 
-[user]where is a deer?
+[user]Where is a deer?
 [Ninereeds]This is a deer.
 A deer lives in a forest.
 A deer walks in a meadow.
@@ -16,7 +16,7 @@ A deer rests in the grass.
 A deer moves through the woods.
 A deer lives in a forest or meadow.
 
-[user]what does a deer do?
+[user]What does a deer do?
 [Ninereeds]This is a deer.
 A deer walks on the ground.
 A deer runs across a field.
@@ -25,7 +25,7 @@ A deer eats grass and leaves.
 A deer drinks from a stream.
 A deer walks and eats grass in a field.
 
-[user]what is a deer for?
+[user]What is a deer for?
 [Ninereeds]This is a deer.
 A deer is part of nature.
 A deer is for watching in the wild.

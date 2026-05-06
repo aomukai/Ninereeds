@@ -1,4 +1,4 @@
-[user]what does suck look like?
+[user]What does suck look like?
 [Ninereeds]This is suck.
 Suck is tight.
 Suck has a round shape.
@@ -7,7 +7,7 @@ Suck shows pull in mouth.
 Suck appears through tube.
 Suck is tight and round.
 
-[user]where does suck appear?
+[user]Where does suck appear?
 [Ninereeds]This is suck.
 Suck appears in mouth.
 Suck is found in tubes.
@@ -16,7 +16,7 @@ Suck sits in straws.
 Suck rests in pipes.
 Suck is present and useful.
 
-[user]what does suck do?
+[user]What does suck do?
 [Ninereeds]This is suck.
 Suck pulls in.
 Suck draws fluid.
@@ -25,7 +25,7 @@ Suck drains cup.
 Suck slurps soup.
 Suck is strong and quick.
 
-[user]what is suck for?
+[user]What is suck for?
 [Ninereeds]This is suck.
 Suck drinks water.
 Suck cleans spill.

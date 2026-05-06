@@ -1,4 +1,4 @@
-[user]what does lunch look like?
+[user]What does lunch look like?
 [Ninereeds]This is lunch.
 Lunch is food.
 Lunch is often a sandwich.
@@ -7,7 +7,7 @@ Lunch is a meal.
 Lunch is eaten in the middle of the day.
 Lunch is food eaten in the middle of the day.
 
-[user]where is lunch?
+[user]Where is lunch?
 [Ninereeds]This is lunch.
 Lunch is on a plate.
 Lunch is in a lunchbox.
@@ -16,7 +16,7 @@ Lunch is at a table.
 Lunch is at school.
 Lunch is on a plate at a table.
 
-[user]how does lunch behave?
+[user]How does lunch behave?
 [Ninereeds]This is lunch.
 Lunch gets eaten.
 Lunch gets prepared.
@@ -25,7 +25,7 @@ Lunch gets shared.
 Lunch gets enjoyed.
 Lunch gets eaten and enjoyed.
 
-[user]what does lunch do?
+[user]What does lunch do?
 [Ninereeds]This is lunch.
 Lunch gives energy.
 Lunch stops hunger.

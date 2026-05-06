@@ -1,4 +1,4 @@
-[user]what does a glacier look like?
+[user]What does a glacier look like?
 [Ninereeds]This is a glacier.
 A glacier is big.
 A glacier is a sheet of ice.
@@ -7,7 +7,7 @@ A glacier is blue in the light.
 A glacier is wide on the land.
 A glacier is big and white.
 
-[user]where is a glacier?
+[user]Where is a glacier?
 [Ninereeds]This is a glacier.
 A glacier is in a cold place.
 A glacier is on a mountain.
@@ -16,7 +16,7 @@ A glacier is in a valley.
 A glacier is in the north.
 A glacier is in a cold place and on a mountain.
 
-[user]what does a glacier do?
+[user]What does a glacier do?
 [Ninereeds]This is a glacier.
 A glacier moves down a hill.
 A glacier carves the land.
@@ -25,7 +25,7 @@ A glacier scrapes the ground.
 A glacier cracks in the sun.
 A glacier is a hill-mover and a land-carver.
 
-[user]what is a glacier for?
+[user]What is a glacier for?
 [Ninereeds]This is a glacier.
 A glacier is for ice.
 A glacier is for water.

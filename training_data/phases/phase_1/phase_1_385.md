@@ -1,22 +1,22 @@
-[user]what does the dark look like?
+[user]What does the dark look like?
 [Ninereeds]This is the dark.
 The dark is a black space.
-The dark has no light.
+The dark has a deep color.
 The dark covers the sky at night.
 The dark fills a room at night.
 The dark hides all shapes.
-The dark is a black space with no light.
+The dark is a black space with a deep color.
 
-[user]where is the dark?
+[user]Where can you find the dark?
 [Ninereeds]This is the dark.
 The dark is in a room at night.
 The dark is under a bed.
 The dark is in a closet.
 The dark is outside after sunset.
 The dark is in a cave.
-The dark is in a room or outside at night.
+The dark is in a room and outside at night.
 
-[user]what does the dark do?
+[user]What does the dark do?
 [Ninereeds]This is the dark.
 The dark hides things from view.
 The dark covers the land.
@@ -25,11 +25,11 @@ The dark makes a room black.
 The dark makes shapes hard to see.
 The dark covers the land after sunset.
 
-[user]what is the dark for?
+[user]What does the dark give?
 [Ninereeds]This is the dark.
-The dark is for sleep.
-The dark is for night time.
-The dark is for stars in the sky.
-The dark is for rest.
-The dark is for the moon.
-The dark is for sleep and stars at night.
+The dark gives a time for sleep.
+The dark gives a sky for stars.
+The dark gives a cover for night.
+The dark gives a room for rest.
+The dark gives a home for the moon.
+The dark is sleep and stars.

@@ -1,4 +1,4 @@
-[user]what is movement?
+[user]What is movement?
 [Ninereeds]This is movement.
 Movement is a change of place.
 Movement is a change of position.
@@ -7,7 +7,7 @@ Movement is a relocation.
 Movement is a shift.
 Movement is a change of place and position.
 
-[user]where is movement found?
+[user]Where is movement found?
 [Ninereeds]This is movement.
 Movement is found in animals.
 Movement is found in machines.
@@ -16,7 +16,7 @@ Movement is found in water.
 Movement is found in people.
 Movement is found in animals and in machines.
 
-[user]what does movement do?
+[user]What does movement do?
 [Ninereeds]This is movement.
 Movement changes a location.
 Movement causes a force.
@@ -25,7 +25,7 @@ Movement achieves a goal.
 Movement expresses a feeling.
 Movement changes a location and expends energy.
 
-[user]what is movement for?
+[user]What is movement for?
 [Ninereeds]This is movement.
 Movement is for travel.
 Movement is for exercise.

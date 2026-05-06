@@ -1,4 +1,4 @@
-[user]what does a manufacturer look like?
+[user]What does a manufacturer look like?
 [Ninereeds]This is a manufacturer.
 A manufacturer is a company.
 A manufacturer is a person.
@@ -7,7 +7,7 @@ A manufacturer uses machines.
 A manufacturer has workers.
 A manufacturer is a company that makes products.
 
-[user]where is a manufacturer?
+[user]Where is a manufacturer?
 [Ninereeds]This is a manufacturer.
 A manufacturer is in a factory.
 A manufacturer is in an industrial park.
@@ -16,7 +16,7 @@ A manufacturer is in a supply chain.
 A manufacturer is in a market.
 A manufacturer is in a factory and in an office.
 
-[user]what does a manufacturer do?
+[user]What does a manufacturer do?
 [Ninereeds]This is a manufacturer.
 A manufacturer produces goods.
 A manufacturer designs products.
@@ -25,7 +25,7 @@ A manufacturer sells items.
 A manufacturer innovates processes.
 A manufacturer produces goods and designs products.
 
-[user]what is a manufacturer for?
+[user]What is a manufacturer for?
 [Ninereeds]This is a manufacturer.
 A manufacturer is for creating products.
 A manufacturer is for meeting demands.

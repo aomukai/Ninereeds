@@ -1,4 +1,4 @@
-[user]what does bread look like?
+[user]What does bread look like?
 [Ninereeds]This is bread.
 Bread is soft.
 Bread is light.
@@ -7,7 +7,7 @@ Bread is baked.
 Bread is made from dough.
 Bread is soft and light.
 
-[user]where is bread?
+[user]Where is bread?
 [Ninereeds]This is bread.
 Bread is on a table.
 Bread is on a plate.
@@ -16,7 +16,7 @@ Bread moves to a mouth.
 Bread is found in a kitchen.
 Bread is on a table and on a plate.
 
-[user]what does bread do?
+[user]What does bread do?
 [Ninereeds]This is bread.
 Bread starts as dough.
 Bread bakes in an oven.
@@ -25,7 +25,7 @@ Bread cools on a rack.
 Bread can rise.
 Bread is baked and cooled.
 
-[user]what does bread give?
+[user]What does bread give?
 [Ninereeds]This is bread.
 Bread is eaten.
 Bread is cut into slices.

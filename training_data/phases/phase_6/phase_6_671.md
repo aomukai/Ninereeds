@@ -1,4 +1,4 @@
-[user]what is a million?
+[user]What is a million?
 [Ninereeds]This is a million.
 A million is a large number.
 A million is one thousand times one thousand.
@@ -7,7 +7,7 @@ A million is a very big count.
 A million is a high amount.
 A million is a large number of things.
 
-[user]where does a million appear?
+[user]Where does a million appear?
 [Ninereeds]This is a million.
 A million is in a count.
 A million is in a book.
@@ -16,7 +16,7 @@ A million is in a dream.
 A million is in a big number.
 A million is in a count or in a book.
 
-[user]what does a million do?
+[user]What does a million do?
 [Ninereeds]This is a million.
 A million shows a vast amount.
 A million shows a huge count.
@@ -25,7 +25,7 @@ A million makes a thing very many.
 A million makes a thing hard to count.
 A million shows a vast amount and huge count.
 
-[user]what is a million for?
+[user]What is a million for?
 [Ninereeds]This is a million.
 A million is for counting many things.
 A million is for showing large sizes.

@@ -1,4 +1,4 @@
-[user]what is luck?
+[user]What is luck?
 [Ninereeds]This is luck.
 Luck is a chance.
 Luck is a fortune.
@@ -7,7 +7,7 @@ Luck is a bad thing happening.
 Luck is an unplanned event.
 Luck is a chance and a fortune.
 
-[user]where is luck found?
+[user]Where is luck found?
 [Ninereeds]This is luck.
 Luck is found in games.
 Luck is found in life.
@@ -16,7 +16,7 @@ Luck is found in events.
 Luck is found in unexpected moments.
 Luck is found in games and in life.
 
-[user]what does luck do?
+[user]What does luck do?
 [Ninereeds]This is luck.
 Luck influences an outcome.
 Luck brings a gain.
@@ -25,7 +25,7 @@ Luck changes a path.
 Luck surprises a person.
 Luck influences an outcome and surprises a person.
 
-[user]what is luck for?
+[user]What is luck for?
 [Ninereeds]This is luck.
 Luck is for unforeseen events.
 Luck is for adding excitement.

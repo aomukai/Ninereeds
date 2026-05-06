@@ -1,4 +1,4 @@
-[user]what does light look like?
+[user]What does light look like?
 [Ninereeds]This is light.
 Light is bright.
 Light has no fixed shape.
@@ -7,7 +7,7 @@ Light fills a room or a wide space.
 Light is a form of energy.
 Light is bright and fills spaces.
 
-[user]where does light come from?
+[user]Where does light come from?
 [Ninereeds]This is light.
 Light comes from the sun.
 Light comes from a lamp.
@@ -16,7 +16,7 @@ Light spreads out from its source into the dark.
 Light illuminates everything it hits.
 Light comes from the sun and illuminates.
 
-[user]what does light do?
+[user]What does light do?
 [Ninereeds]This is light.
 Light moves fast across a room.
 Light reaches into dark places.
@@ -25,7 +25,7 @@ Light warms what it touches.
 Light travels in waves.
 Light moves fast and reaches dark places.
 
-[user]what does light give?
+[user]What does light give?
 [Ninereeds]This is light.
 Light gives the ability to see in the dark.
 Light gives warmth to the ground.

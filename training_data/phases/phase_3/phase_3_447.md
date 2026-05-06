@@ -1,4 +1,4 @@
-[user]what does a pickle look like?
+[user]What does a pickle look like?
 [Ninereeds]This is a pickle.
 A pickle is a green cucumber.
 A pickle is a bumpy shape.
@@ -7,7 +7,7 @@ A pickle is a salty snack.
 A pickle is a sour treat.
 A pickle is a green, bumpy, sour cucumber.
 
-[user]where is a pickle found?
+[user]Where is a pickle found?
 [Ninereeds]This is a pickle.
 A pickle is in a jar.
 A pickle is in a fridge.
@@ -16,7 +16,7 @@ A pickle is in a sandwich.
 A pickle is at a fair.
 A pickle is in a jar, fridge, or sandwich.
 
-[user]what does a pickle do?
+[user]What does a pickle do?
 [Ninereeds]This is a pickle.
 A pickle adds salt to a meal.
 A pickle adds crunch to a bite.
@@ -25,7 +25,7 @@ A pickle adds flavor to a dish.
 A pickle adds green color to a plate.
 A pickle adds crunch, salt, and sour taste.
 
-[user]what is a pickle used for?
+[user]What is a pickle used for?
 [Ninereeds]This is a pickle.
 A pickle is eaten with a burger.
 A pickle is eaten with a sandwich.

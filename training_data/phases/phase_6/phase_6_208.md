@@ -1,35 +1,31 @@
-[user]what does sit look like?
-[Ninereeds]This is sit.
-Sit appears stable on a chair.
-Sit looks calm and still.
-Sit shows legs bent at ninety degrees.
-Sit positions a back straight against support.
-Sit places feet flat on the floor.
-Sit is stable and calm.
+[user]What is sitting?
+[Ninereeds]Sitting is resting on a seat with the body upright.
+Sitting is a calm body position.
+Sitting is common during meals and lessons.
+Sitting is useful for quiet reading and desk work.
+Sitting is a steady posture for pause and care.
+Sitting is rest and support.
 
-[user]where is sit?
-[Ninereeds]This is sit.
-Sit is on a chair.
-Sit is at a table.
-Sit is in a room.
-Sit is by a window.
-Sit is on a bench.
-Sit is on a chair and at a table.
+[user]When does sitting happen?
+[Ninereeds]Sitting happens when a chair, bench, or floor support is used.
+Sitting happens during meals and class time.
+Sitting happens in homes, offices, and waiting rooms.
+Sitting happens while reading, talking, or writing.
+Sitting happens after long walking or standing.
+Sitting happens with support and stillness.
 
-[user]what does sit do?
-[Ninereeds]This is sit.
-Sit supports a body in place.
-Sit allows a person to rest.
-Sit keeps a back upright.
-Sit positions a body at a desk.
-Sit uses a seat for support.
-Sit supports and rests.
+[user]What does sitting bring?
+[Ninereeds]Sitting brings rest to the legs.
+Sitting brings balance for quiet tasks.
+Sitting brings a stable place for work.
+Sitting brings calm during a pause.
+Sitting brings comfort in shared spaces.
+Sitting brings rest and stability.
 
-[user]what is sit for?
-[Ninereeds]This is sit.
-Sit is for resting after standing.
-Sit is for working at a desk.
-Sit is for eating at a table.
-Sit is for driving a car.
-Sit is for reading a book.
-Sit is for resting and working.
+[user]What is sitting for?
+[Ninereeds]Sitting is for resting the body.
+Sitting is for eating, reading, and talking.
+Sitting is for steady desk work.
+Sitting is for waiting in a calm way.
+Sitting is for quiet moments and care.
+Sitting is for rest and attention.

@@ -1,4 +1,4 @@
-[user]where does a rock go?
+[user]Where does a rock go?
 [Ninereeds]This is a rock.
 The rock sits on a hill.
 The rock moves down the hill when thrown.

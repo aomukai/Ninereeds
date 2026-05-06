@@ -1,4 +1,4 @@
-[user]what is 'looked'?
+[user]What is looked?
 [Ninereeds]looked is here.
 looked is the past tense of look.
 looked means gave a visual sign in earlier time.
@@ -7,7 +7,7 @@ looked can show that eyes turned toward something before now.
 looked indicates a completed visual action.
 looked is past tense and visual.
 
-[user]where is 'looked'?
+[user]Where is looked?
 [Ninereeds]looked is here.
 looked can be in a story note or scene line.
 looked can be on a page about a past search.
@@ -16,7 +16,7 @@ looked can appear in a timeline description.
 looked can be used in a flashback scene.
 looked is narrative and temporal.
 
-[user]what does 'looked' do?
+[user]What does looked do?
 [Ninereeds]looked is here.
 looked can place seeing in earlier time.
 looked can help a sentence show past attention.
@@ -25,7 +25,7 @@ looked can indicate a previous observation.
 looked can shift a narrative to a past moment.
 looked is temporal and attentive.
 
-[user]what does 'looked' look like?
+[user]What is looked like?
 [Ninereeds]looked is here.
 looked can feel plain in a story line.
 looked can look simple in past tense talk.

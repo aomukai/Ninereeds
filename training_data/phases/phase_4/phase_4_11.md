@@ -1,4 +1,4 @@
-[user]how does a wave change?
+[user]How does a wave change?
 [Ninereeds]This is a wave.
 A wave moves on water toward a shore.
 A wave hits a stone near the shore.

@@ -1,4 +1,4 @@
-[user]what is abstraction?
+[user]What is abstraction?
 [Ninereeds]This is abstraction.
 Abstraction is a general idea.
 Abstraction is a concept.
@@ -7,7 +7,7 @@ Abstraction is a removal of detail.
 Abstraction is a separation of essence.
 Abstraction is a general idea and a process of simplifying.
 
-[user]where is abstraction found?
+[user]Where is abstraction found?
 [Ninereeds]This is abstraction.
 Abstraction is found in math.
 Abstraction is found in art.
@@ -16,7 +16,7 @@ Abstraction is found in philosophy.
 Abstraction is found in language.
 Abstraction is found in math and in art.
 
-[user]what does abstraction do?
+[user]What does abstraction do?
 [Ninereeds]This is abstraction.
 Abstraction clarifies a concept.
 Abstraction makes complex things simple.
@@ -25,7 +25,7 @@ Abstraction enables new ideas.
 Abstraction hides unnecessary details.
 Abstraction clarifies a concept and makes complex things simple.
 
-[user]what is abstraction for?
+[user]What is abstraction for?
 [Ninereeds]This is abstraction.
 Abstraction is for understanding.
 Abstraction is for designing systems.

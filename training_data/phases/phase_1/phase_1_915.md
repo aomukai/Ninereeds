@@ -1,4 +1,4 @@
-[user]what does a seagull look like?
+[user]What does a seagull look like?
 [Ninereeds]This is a seagull.
 A seagull is a bird.
 A seagull has white feathers.
@@ -7,7 +7,7 @@ A seagull has a yellow beak.
 A seagull has webbed feet.
 A seagull is a bird with white feathers and gray wings.
 
-[user]where is a seagull?
+[user]Where is a seagull?
 [Ninereeds]This is a seagull.
 A seagull is at the beach.
 A seagull is near the sea.
@@ -16,7 +16,7 @@ A seagull is on a pier.
 A seagull is in the sky.
 A seagull is at the beach near the sea.
 
-[user]what does a seagull do?
+[user]What does a seagull do?
 [Ninereeds]This is a seagull.
 A seagull flies over the sea.
 A seagull swoops for fish.
@@ -25,7 +25,7 @@ A seagull calls loudly.
 A seagull eats scraps on the sand.
 A seagull flies over the sea and swoops for fish.
 
-[user]what is a seagull for?
+[user]What is a seagull for?
 [Ninereeds]This is a seagull.
 A seagull is part of the sea shore.
 A seagull is a sign of the coast.

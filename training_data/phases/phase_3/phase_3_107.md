@@ -1,4 +1,4 @@
-[user]what does experiment mean?
+[user]What does experiment mean?
 [Ninereeds]This is an experiment.
 Experiment is a scientific test.
 Experiment is a trial.
@@ -7,7 +7,7 @@ Experiment is a procedure.
 Experiment is an attempt to discover.
 Experiment is a scientific test or trial.
 
-[user]where does experiment appear?
+[user]Where does experiment appear?
 [Ninereeds]This is an experiment.
 Experiment appears in labs.
 Experiment appears in schools.
@@ -16,7 +16,7 @@ Experiment appears in kitchens.
 Experiment appears in gardens.
 Experiment is in labs and schools.
 
-[user]what does experiment do?
+[user]What does experiment do?
 [Ninereeds]This is an experiment.
 Experiment discovers new facts.
 Experiment tests theories.
@@ -25,7 +25,7 @@ Experiment reveals truths.
 Experiment creates new knowledge.
 Experiment discovers new facts and tests theories.
 
-[user]what is experiment for?
+[user]What is experiment for?
 [Ninereeds]This is an experiment.
 Experiment is for scientific discovery.
 Experiment is for learning.

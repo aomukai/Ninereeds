@@ -1,35 +1,31 @@
-[user]what does create mean?
-[Ninereeds]This is create.
-Create is to make something new.
-Create is to bring into being.
-Create is to originate.
-Create is to produce.
-Create is to design.
-Create is to make something new or original.
+[user]What is creating?
+[Ninereeds]Creating is making something new.
+Creating is shaping a fresh form.
+Creating is bringing a new thing into view.
+Creating is joining parts into one work.
+Creating is starting a new object or idea.
+Creating is new form and fresh start.
 
-[user]where does create appear?
-[Ninereeds]This is create.
-Create appears in art.
-Create appears in writing.
-Create appears in building.
-Create appears in nature.
-Create appears in thoughts.
-Create is in art and building.
+[user]When does creating happen?
+[Ninereeds]Creating happens when an idea needs shape.
+Creating happens when tools and materials are ready.
+Creating happens in studios, kitchens, and workshops.
+Creating happens when a plan turns into a thing.
+Creating happens when a hand makes a new piece.
+Creating happens with ideas and tools.
 
-[user]what does create do?
-[Ninereeds]This is create.
-Create brings joy.
-Create solves problems.
-Create makes beauty.
-Create fulfills desires.
-Create expresses ideas.
-Create brings joy and solves problems.
+[user]What does creating bring?
+[Ninereeds]Creating brings new things into the world.
+Creating brings fresh shape to an idea.
+Creating brings art, tools, and work.
+Creating brings change through making.
+Creating brings useful objects and forms.
+Creating brings new things and change.
 
-[user]what is create for?
-[Ninereeds]This is create.
-Create is for self-expression.
-Create is for innovation.
-Create is for solving needs.
-Create is for making the world better.
-Create is for personal fulfillment.
-Create is for expression and innovation.
+[user]What is creating for?
+[Ninereeds]Creating is for making something new.
+Creating is for shaping an idea.
+Creating is for building useful forms.
+Creating is for expressing thought.
+Creating is for starting fresh work.
+Creating is for new work and expression.

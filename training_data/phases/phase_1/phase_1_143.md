@@ -1,4 +1,4 @@
-[user]what does clear look like?
+[user]What does clear look like?
 [Ninereeds]This is clear.
 Clear is transparent.
 Clear is easy to see through.
@@ -7,7 +7,7 @@ Clear is distinct.
 Clear is unclouded.
 Clear is transparent and unclouded.
 
-[user]where is clear?
+[user]Where is clear?
 [Ninereeds]This is clear.
 Clear is in water.
 Clear is in glass.
@@ -16,7 +16,7 @@ Clear is in thoughts.
 Clear is in sounds.
 Clear is in water and glass.
 
-[user]what does clear do?
+[user]What does clear do?
 [Ninereeds]This is clear.
 Clear lets light pass.
 Clear reveals truth.
@@ -25,7 +25,7 @@ Clear aids understanding.
 Clear allows passage.
 Clear lets light pass and aids understanding.
 
-[user]what is clear for?
+[user]What is clear for?
 [Ninereeds]This is clear.
 Clear is for seeing.
 Clear is for understanding.

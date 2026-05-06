@@ -1,4 +1,4 @@
-[user]what does a hand look like?
+[user]What does a hand look like?
 [Ninereeds]This is a hand.
 The hand has fingers.
 The hand has a palm.
@@ -7,7 +7,7 @@ The hand can bend.
 The hand can hold.
 A hand is a body part with fingers and a palm.
 
-[user]where is a hand?
+[user]Where can you find a hand?
 [Ninereeds]This is a hand.
 The hand is on an arm.
 The hand is near the body.
@@ -16,7 +16,7 @@ The hand can grasp.
 The hand can reach.
 A hand is a body part that can reach and grasp.
 
-[user]what does a hand do?
+[user]What does a hand do?
 [Ninereeds]This is a hand.
 The hand starts still.
 The hand opens.
@@ -25,7 +25,7 @@ The hand grips.
 The hand holds.
 A hand is a body part that can open and close.
 
-[user]what does a hand give?
+[user]What does a hand give?
 [Ninereeds]This is a hand.
 The hand holds objects.
 The hand picks up items.

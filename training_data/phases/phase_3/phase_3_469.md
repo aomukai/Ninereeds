@@ -1,4 +1,4 @@
-[user]what does quiver look like?
+[user]What does quiver look like?
 [Ninereeds]This is quiver.
 Quiver is a leaf shaking in wind.
 Quiver is a hand trembling and cold.
@@ -7,7 +7,7 @@ Quiver is a small fast vibration.
 Quiver is a rabbit or nose wiggling.
 Quiver is a leaf or hand shaking.
 
-[user]where does quiver happen?
+[user]Where does quiver happen?
 [Ninereeds]This is quiver.
 Quiver happens in a tree or branch.
 Quiver happens on a cold morning.
@@ -16,7 +16,7 @@ Quiver happens near a loud noise.
 Quiver happens on a nervous lip.
 Quiver happens on a branch or lip.
 
-[user]what does quiver do?
+[user]What does quiver do?
 [Ninereeds]This is quiver.
 Quiver shakes a body and part.
 Quiver shows fear or cold.
@@ -25,7 +25,7 @@ Quiver sends ripples through a surface.
 Quiver signals an emotion and inside.
 Quiver shakes, shows, moves, and signals.
 
-[user]what is quiver used for?
+[user]What is quiver used for?
 [Ninereeds]This is quiver.
 Quiver warms a cold and still body.
 Quiver releases tension from muscles.

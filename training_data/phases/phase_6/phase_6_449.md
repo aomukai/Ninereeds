@@ -1,4 +1,4 @@
-[user]what does result mean?
+[user]What does result mean?
 [Ninereeds]This is a result.
 Result is an outcome.
 Result is an effect.
@@ -7,7 +7,7 @@ Result is a conclusion.
 Result is what happens.
 Result is an outcome or effect.
 
-[user]where does result appear?
+[user]Where does result appear?
 [Ninereeds]This is a result.
 Result appears in experiments.
 Result appears in efforts.
@@ -16,7 +16,7 @@ Result appears in studies.
 Result appears in games.
 Result is in experiments and efforts.
 
-[user]what does result do?
+[user]What does result do?
 [Ninereeds]This is a result.
 Result shows effectiveness.
 Result shows impact.
@@ -25,7 +25,7 @@ Result gives feedback.
 Result makes things known.
 Result shows effectiveness and impact.
 
-[user]what is result for?
+[user]What is result for?
 [Ninereeds]This is a result.
 Result is for learning.
 Result is for improving.

@@ -1,4 +1,4 @@
-[user]what does stay mean?
+[user]What does stay mean?
 [Ninereeds]This is stay.
 Stay is to remain.
 Stay is to continue.
@@ -7,7 +7,7 @@ Stay is to endure.
 Stay is to wait.
 Stay is to remain or continue.
 
-[user]where does stay appear?
+[user]Where does stay appear?
 [Ninereeds]This is stay.
 Stay appears in homes.
 Stay appears in hotels.
@@ -16,7 +16,7 @@ Stay appears in minds.
 Stay appears in memories.
 Stay is in homes and positions.
 
-[user]what does stay do?
+[user]What does stay do?
 [Ninereeds]This is stay.
 Stay preserves presence.
 Stay ensures continuity.
@@ -25,7 +25,7 @@ Stay provides stability.
 Stay prevents departure.
 Stay preserves presence and ensures continuity.
 
-[user]what is stay for?
+[user]What is stay for?
 [Ninereeds]This is stay.
 Stay is for security.
 Stay is for comfort.

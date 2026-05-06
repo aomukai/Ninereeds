@@ -1,4 +1,4 @@
-[user]what does a fingertip look like?
+[user]What does a fingertip look like?
 [Ninereeds]This is a fingertip.
 A fingertip is round.
 A fingertip is soft.
@@ -7,7 +7,7 @@ A fingertip has a pad.
 A fingertip has a fingerprint.
 A fingertip is round and soft.
 
-[user]where is a fingertip?
+[user]Where is a fingertip?
 [Ninereeds]This is a fingertip.
 A fingertip is at the top of a finger.
 A fingertip is over a fingernail.
@@ -16,7 +16,7 @@ A fingertip touches a surface.
 A fingertip presses a button.
 A fingertip is at the top and at the end.
 
-[user]what does a fingertip do?
+[user]What does a fingertip do?
 [Ninereeds]This is a fingertip.
 A fingertip touches a surface.
 A fingertip feels a texture.
@@ -25,7 +25,7 @@ A fingertip taps a screen.
 A fingertip rubs a spot.
 A fingertip is touching and feeling.
 
-[user]what does a fingertip give?
+[user]What does a fingertip give?
 [Ninereeds]This is a fingertip.
 A fingertip gives a finger a sense of touch.
 A fingertip helps a finger feel hot and cold.

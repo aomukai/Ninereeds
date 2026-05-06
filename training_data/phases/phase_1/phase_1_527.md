@@ -1,4 +1,4 @@
-[user]what does a gorilla look like?
+[user]What does a gorilla look like?
 [Ninereeds]This is a gorilla.
 A gorilla has a big body.
 A gorilla has long arms.
@@ -7,7 +7,7 @@ A gorilla has a wide chest.
 A gorilla has big hands.
 A gorilla is big and dark.
 
-[user]where is a gorilla?
+[user]Where is a gorilla?
 [Ninereeds]This is a gorilla.
 A gorilla is in a jungle.
 A gorilla is in a forest.
@@ -16,7 +16,7 @@ A gorilla is in a group.
 A gorilla is in a habitat.
 A gorilla is in a jungle and in a forest.
 
-[user]what does a gorilla do?
+[user]What does a gorilla do?
 [Ninereeds]This is a gorilla.
 A gorilla walks on the ground.
 A gorilla climbs a tree.
@@ -25,7 +25,7 @@ A gorilla eats leaves and fruit.
 A gorilla rests in the shade.
 A gorilla walks on the ground and climbs a tree.
 
-[user]what is a gorilla for?
+[user]What is a gorilla for?
 [Ninereeds]This is a gorilla.
 A gorilla is for a zoo.
 A gorilla is for a story.

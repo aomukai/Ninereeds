@@ -1,4 +1,4 @@
-[user]what does a plane look like?
+[user]What does a plane look like?
 [Ninereeds]This is a plane.
 A plane has wings.
 A plane has a long body.
@@ -7,7 +7,7 @@ A plane has windows.
 A plane has wheels.
 A plane is a machine with wings and a long body.
 
-[user]where is a plane?
+[user]Where is a plane?
 [Ninereeds]This is a plane.
 A plane is in the sky.
 A plane is at an airport.
@@ -16,7 +16,7 @@ A plane is in a hangar.
 A plane is above the clouds.
 A plane is in the sky and above the clouds.
 
-[user]what does a plane do?
+[user]What does a plane do?
 [Ninereeds]This is a plane.
 A plane flies in the sky.
 A plane carries people.
@@ -25,7 +25,7 @@ A plane lands on a runway.
 A plane flies to a far place.
 A plane is for flying and for travel.
 
-[user]what is a plane for?
+[user]What is a plane for?
 [Ninereeds]This is a plane.
 A plane is for flying.
 A plane is for travel.

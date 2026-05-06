@@ -1,33 +1,35 @@
-[user]what does rain look like?
+[user]What does rain look like?
 [Ninereeds]This is rain.
+Rain is a water drop.
+Rain is see-through.
+Rain is cool to touch.
+Rain falls from the sky.
 Rain is wet.
-Rain is cool.
-Rain is made of water.
-Rain falls in many drops.
-Rain is water that falls from the sky.
+Rain is water and wet.
 
-[user]where can you find rain?
+[user]Where can you find rain?
 [Ninereeds]This is rain.
 Rain is in the cloud.
+Rain is in the sky.
+Rain is on the ground.
+Rain is on the roof.
+Rain is on a leaf.
+Rain is in the sky and on the ground.
+
+[user]What does rain do?
+[Ninereeds]This is rain.
 Rain falls from the sky.
-Rain lands on the roof.
-Rain runs into the ground.
-Rain is water that falls to the ground.
+Rain wets the ground.
+Rain fills the river.
+Rain feeds the plants.
+Rain cleans the air.
+Rain falls and wets.
 
-[user]what does rain do?
+[user]What does rain give?
 [Ninereeds]This is rain.
-Rain starts as small drops.
-Rain falls faster.
-Rain hits the ground.
-Rain stops after the cloud passes.
-Rain can pour.
-Rain is water that can pour and stop.
-
-[user]what does rain give?
-[Ninereeds]This is rain.
-Rain wets the road.
-Rain fills a puddle.
-Rain washes dust from a leaf.
-Rain feeds the river.
-Rain fills the land.
-Rain is water that wets and fills the land.
+Rain gives water to the ground.
+Rain gives water to the plants.
+Rain gives water to the river.
+Rain gives water to the lake.
+Rain gives water to the well.
+Rain gives water and life.

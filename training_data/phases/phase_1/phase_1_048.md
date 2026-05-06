@@ -1,4 +1,4 @@
-[user]what does a scarf look like?
+[user]What does a scarf look like?
 [Ninereeds]This is a scarf.
 The scarf is long.
 The scarf is soft.
@@ -7,7 +7,7 @@ The scarf wraps around the neck.
 The scarf is warm.
 The scarf is long and soft.
 
-[user]where can you find a scarf?
+[user]Where can you find a scarf?
 [Ninereeds]This is a scarf.
 The scarf is on a hook.
 The scarf is in a drawer.
@@ -16,7 +16,7 @@ The scarf moves with the body.
 The scarf is a rectangle.
 The scarf is on a hook and in a drawer.
 
-[user]what does a scarf do?
+[user]What does a scarf do?
 [Ninereeds]This is a scarf.
 The scarf starts off the neck.
 The scarf wraps around the neck.
@@ -25,7 +25,7 @@ The scarf comes off again.
 The scarf can loosen.
 The scarf is a wrap and a drape.
 
-[user]what does a scarf give?
+[user]What does a scarf give?
 [Ninereeds]This is a scarf.
 The scarf keeps the neck warm.
 The scarf covers the skin.

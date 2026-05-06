@@ -1,4 +1,4 @@
-[user]what does south look like?
+[user]What does south look like?
 [Ninereeds]This is south.
 south is a direction on maps.
 south is opposite north on compass.
@@ -7,7 +7,7 @@ south is shown as letter S.
 south is bottom on a globe.
 south is directional and fixed.
 
-[user]where is south?
+[user]Where is south?
 [Ninereeds]This is south.
 south is on a map edge.
 south is in many countries.
@@ -16,7 +16,7 @@ south is at bottom side.
 south is across from north.
 south is geographic and cardinal.
 
-[user]what does south do?
+[user]What does south do?
 [Ninereeds]This is south.
 south points a direction for travel.
 south guides a traveler on land.
@@ -25,7 +25,7 @@ south indicates a location on chart.
 south helps navigation for ships.
 south is guiding and orienting.
 
-[user]what is south for?
+[user]What is south for?
 [Ninereeds]This is south.
 south is for finding direction.
 south is for reading maps.

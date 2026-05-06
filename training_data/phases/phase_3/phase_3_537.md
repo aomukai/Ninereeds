@@ -1,4 +1,4 @@
-[user]what does throw look like?
+[user]What does throw look like?
 
 [Ninereeds]This is throw.
 Throw uses arm.
@@ -8,7 +8,7 @@ Throw goes through air.
 Throw arcs in flight.
 Throw is arm and object.
 
-[user]where does throw happen?
+[user]Where does throw happen?
 
 [Ninereeds]This is throw.
 Throw happens in field.
@@ -18,7 +18,7 @@ Throw happens at play.
 Throw happens on court.
 Throw is field and play.
 
-[user]what does throw do?
+[user]What does throw do?
 
 [Ninereeds]This is throw.
 Throw sends ball.
@@ -28,7 +28,7 @@ Throw hurls disc.
 Throw launches far.
 Throw is ball and air.
 
-[user]what is throw for?
+[user]What is throw for?
 
 [Ninereeds]This is throw.
 Throw is for play.

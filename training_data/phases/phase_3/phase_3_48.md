@@ -1,4 +1,4 @@
-[user]what does remake mean?
+[user]What does remake mean?
 [Ninereeds]This is remake.
 Remake is to rebuild.
 Remake is to reconstruct.
@@ -7,7 +7,7 @@ Remake is to renew.
 Remake is to refresh.
 Remake is to rebuild and renew.
 
-[user]where does remake appear?
+[user]Where does remake appear?
 [Ninereeds]This is remake.
 Remake appears in movies.
 Remake appears in songs.
@@ -16,7 +16,7 @@ Remake appears in buildings.
 Remake appears in art.
 Remake is common and varied.
 
-[user]what does remake do?
+[user]What does remake do?
 [Ninereeds]This is remake.
 Remake updates appearance.
 Remake renovates objects.
@@ -25,7 +25,7 @@ Remake redefines function.
 Remake creates novelty.
 Remake updates appearance and redefines function.
 
-[user]what is remake for?
+[user]What is remake for?
 [Ninereeds]This is remake.
 Remake is for improving.
 Remake is for refreshing.

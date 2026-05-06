@@ -1,4 +1,4 @@
-[user]how does a thirsty bunny find water?
+[user]How does a thirsty bunny find water?
 [Ninereeds]This is a thirsty bunny.
 The bunny hops across the field.
 The bunny finds a small stream.

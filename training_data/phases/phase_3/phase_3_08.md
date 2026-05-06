@@ -1,4 +1,4 @@
-[user]what is a bucket of water?
+[user]What does a bucket of water look like?
 [Ninereeds]This is a bucket of water.
 The bucket of water is clear.
 The bucket of water is deep.
@@ -7,7 +7,7 @@ The bucket of water is full.
 The bucket of water is cold.
 The bucket of water is full and heavy.
 
-[user]where can you find a bucket of water?
+[user]Where does a bucket of water appear?
 [Ninereeds]This is a bucket of water.
 The bucket of water is on the ground.
 The bucket of water is near a wall.
@@ -16,7 +16,7 @@ The bucket of water is under the sky.
 The bucket of water is in a yard.
 The bucket of water is on the ground and under the sky.
 
-[user]how does a bucket of water change?
+[user]What does a bucket of water do?
 [Ninereeds]This is a bucket of water.
 The bucket of water moves.
 The bucket of water tips.
@@ -25,7 +25,7 @@ The bucket of water spreads on the ground.
 The bucket of water wobbles.
 The bucket of water tips and spills.
 
-[user]what does a bucket of water give?
+[user]What is a bucket of water for?
 [Ninereeds]This is a bucket of water.
 The bucket of water sits by a floor.
 The bucket of water lifts.

@@ -1,35 +1,31 @@
-[user]what does seem mean?
-[Ninereeds]This is seem.
-Seem is to appear to be.
-Seem is to give impression.
-Seem is to look like.
-Seem is to feel like.
-Seem is to convey an idea.
-Seem is to appear or give an impression.
+[user]What is seeming?
+[Ninereeds]Seeming is showing an appearance.
+Seeming is presenting a surface that may not match the truth.
+Seeming is the outer form that signals carry to the mind.
+Seeming is a first layer that the senses report.
+Seeming is the face a thing turns toward the world.
+Seeming is appearance and impression.
 
-[user]where does seem appear?
-[Ninereeds]This is seem.
-Seem appears in observations.
-Seem appears in judgments.
-Seem appears in descriptions.
-Seem appears in perceptions.
-Seem appears in thoughts.
-Seem is in observations and judgments.
+[user]When does seeming happen?
+[Ninereeds]Seeming happens when a first glance, weak light, and quick reports shape a view.
+Seeming happens before deeper checking or proof arrive.
+Seeming happens where surfaces catch light and attention.
+Seeming happens in moments of brief encounter and speed.
+Seeming happens when the mind fills gaps with guesswork.
+Seeming happens with appearance and impression.
 
-[user]what does seem do?
-[Ninereeds]This is seem.
-Seem guides understanding.
-Seem shapes perception.
-Seem influences opinions.
-Seem suggests a reality.
-Seem creates expectations.
-Seem guides understanding and shapes perception.
+[user]What does seeming bring?
+[Ninereeds]Seeming brings surface signs and first impressions.
+Seeming brings a starting view that may need correction.
+Seeming brings signals that the eye and ear collect.
+Seeming brings a working picture before full knowledge.
+Seeming brings the raw feed of perception.
+Seeming brings appearance and impression.
 
-[user]what is seem for?
-[Ninereeds]This is seem.
-Seem is for making initial judgments.
-Seem is for conveying appearances.
-Seem is for suggesting possibilities.
-Seem is for forming impressions.
-Seem is for interpreting situations.
-Seem is for initial judgments and interpretations.
+[user]What is seeming for?
+[Ninereeds]Seeming is for giving a visible look.
+Seeming is for offering the mind a first foothold.
+Seeming is for starting the work of recognition.
+Seeming is for presenting the outer form of a thing.
+Seeming is for bridging silence and understanding.
+Seeming is for appearance and impression.

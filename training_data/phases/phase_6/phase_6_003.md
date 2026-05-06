@@ -1,4 +1,4 @@
-[user]what does arithmetic look like?
+[user]What does arithmetic look like?
 [Ninereeds]This is arithmetic.
 Arithmetic is numbers.
 Arithmetic is signs.
@@ -7,7 +7,7 @@ Arithmetic is minus.
 Arithmetic is solving.
 Arithmetic is numbers with signs for solving.
 
-[user]where does arithmetic appear?
+[user]Where does arithmetic appear?
 [Ninereeds]This is arithmetic.
 Arithmetic is in school.
 Arithmetic is in books.
@@ -16,7 +16,7 @@ Arithmetic is in daily life.
 Arithmetic is in counting.
 Arithmetic is in school books for counting.
 
-[user]what does arithmetic do?
+[user]What does arithmetic do?
 [Ninereeds]This is arithmetic.
 Arithmetic is adding.
 Arithmetic is taking away.
@@ -25,7 +25,7 @@ Arithmetic is dividing.
 Arithmetic is finding answers.
 Arithmetic is finding answers by numbers.
 
-[user]what is arithmetic for?
+[user]What is arithmetic for?
 [Ninereeds]This is arithmetic.
 Arithmetic is for counting.
 Arithmetic is for money.

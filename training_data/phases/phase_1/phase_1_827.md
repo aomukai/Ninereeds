@@ -1,4 +1,4 @@
-[user]what does a pupil look like?
+[user]What does a pupil look like?
 [Ninereeds]This is a pupil.
 A pupil is round.
 A pupil is black.
@@ -7,7 +7,7 @@ A pupil is in the middle.
 A pupil is part of an eye.
 A pupil is round and black.
 
-[user]where is a pupil?
+[user]Where is a pupil?
 [Ninereeds]This is a pupil.
 A pupil is in an eye.
 A pupil is in the center.
@@ -16,7 +16,7 @@ A pupil is in the front of an eye.
 A pupil is in a person.
 A pupil is in the center and behind the iris.
 
-[user]what does a pupil do?
+[user]What does a pupil do?
 [Ninereeds]This is a pupil.
 A pupil changes size.
 A pupil gets bigger.
@@ -25,7 +25,7 @@ A pupil lets in light.
 A pupil helps sight.
 A pupil changes size and lets in light.
 
-[user]what is a pupil for?
+[user]What is a pupil for?
 [Ninereeds]This is a pupil.
 A pupil is for sight.
 A pupil is for light.

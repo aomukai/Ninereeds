@@ -1,4 +1,4 @@
-[user]what does a page look like?
+[user]What does a page look like?
 [Ninereeds]This is a page.
 A page is a flat sheet.
 A page is thin and white.
@@ -7,7 +7,7 @@ A page has straight edges.
 A page has lines or pictures.
 A page is thin and rectangular.
 
-[user]where is a page?
+[user]Where is a page?
 [Ninereeds]This is a page.
 A page is in a book.
 A page sits between covers.
@@ -16,7 +16,7 @@ A page stays on a desk.
 A page is in a magazine.
 A page is in a book and in a notebook.
 
-[user]what does a page do?
+[user]What does a page do?
 [Ninereeds]This is a page.
 A page holds written words.
 A page displays pictures and art.
@@ -25,7 +25,7 @@ A page keeps information safe.
 A page shows numbers and text.
 A page holds written words and shows numbers and text.
 
-[user]what is a page for?
+[user]What is a page for?
 [Ninereeds]This is a page.
 A page is for writing on.
 A page is for reading from.

@@ -1,4 +1,4 @@
-[user]what does a stick look like?
+[user]What does a stick look like?
 [Ninereeds]This is a stick.
 The stick is long.
 The stick is thin.
@@ -7,7 +7,7 @@ The stick is made of wood.
 The stick is brown.
 The stick is long and thin.
 
-[user]where is a stick?
+[user]Where is a stick?
 [Ninereeds]This is a stick.
 The stick is on the ground.
 The stick is near a tree.
@@ -16,7 +16,7 @@ The stick is on the path.
 The stick is under a bush.
 The stick is on the ground and near a tree.
 
-[user]what does a stick do?
+[user]What does a stick do?
 [Ninereeds]This is a stick.
 The stick starts still.
 The stick is lifted up.
@@ -25,7 +25,7 @@ The stick is set down again.
 The stick is carried.
 The stick is straight and hard.
 
-[user]what does a stick give?
+[user]What does a stick give?
 [Ninereeds]This is a stick.
 The stick pokes the ground.
 The stick moves leaves.

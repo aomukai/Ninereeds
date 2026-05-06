@@ -1,4 +1,4 @@
-[user]what does a lime look like?
+[user]What does a lime look like?
 [Ninereeds]This is a lime.
 A lime is green.
 A lime is round.
@@ -7,7 +7,7 @@ A lime has a sour taste.
 A lime is a fruit.
 A lime is green and round.
 
-[user]where is a lime?
+[user]Where can you find a lime?
 [Ninereeds]This is a lime.
 A lime is on a tree.
 A lime is in a bowl.
@@ -16,7 +16,7 @@ A lime is in a kitchen.
 A lime is on a branch.
 A lime is on a tree and in a bowl.
 
-[user]what does a lime do?
+[user]What does a lime do?
 [Ninereeds]This is a lime.
 A lime hangs on a tree.
 A lime falls to the ground.
@@ -25,11 +25,11 @@ A lime floats in water.
 A lime grows on a tree.
 A lime is hanging and falling.
 
-[user]what is a lime for?
+[user]What does a lime give?
 [Ninereeds]This is a lime.
-A lime is for food.
-A lime is for drink.
-A lime is for flavor.
-A lime is for smell.
-A lime is for cooking.
-A lime is for food and drink.
+A lime gives flavor to food.
+A lime gives taste to a drink.
+A lime gives freshness to a dish.
+A lime gives scent to a room.
+A lime gives zest to cooking.
+A lime gives flavor and freshness.

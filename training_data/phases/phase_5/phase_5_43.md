@@ -1,35 +1,31 @@
-[user]what does prepare look like?
-[Ninereeds]This is prepare.
-Prepare is organized.
-Prepare is systematic.
-Prepare is intentional.
-Prepare is structured.
-Prepare is methodical.
-Prepare is organized and systematic.
+[user]What is preparing?
+[Ninereeds]Preparing is making ready for use.
+Preparing is setting tools and plans in order.
+Preparing is arranging a future task.
+Preparing is shaping a thing for action.
+Preparing is readying supplies and mind.
+Preparing is readiness and order.
 
-[user]where is prepare?
-[Ninereeds]This is prepare.
-Prepare is in the mind.
-Prepare is in planning.
-Prepare is before action.
-Prepare is in preparation.
-Prepare is in readiness.
-Prepare is in planning and readiness.
+[user]When does preparing happen?
+[Ninereeds]Preparing happens before travel or work.
+Preparing happens before a meal or event.
+Preparing happens when a plan nears start.
+Preparing happens during practice and setup.
+Preparing happens when supplies gather.
+Preparing happens with travel and work.
 
-[user]what does prepare do?
-[Ninereeds]This is prepare.
-Prepare arranges resources.
-Prepare sets goals.
-Prepare orders steps.
-Prepare anticipates needs.
-Prepare creates readiness.
-Prepare is arranging and ordering.
+[user]What does preparing bring?
+[Ninereeds]Preparing brings readiness.
+Preparing brings smooth action.
+Preparing brings lower delay.
+Preparing brings clear order.
+Preparing brings strong follow-through.
+Preparing brings readiness and order.
 
-[user]what is prepare for?
-[Ninereeds]This is prepare.
-Prepare is for success.
-Prepare is for efficiency.
-Prepare is for achievement.
-Prepare is for readiness.
-Prepare is for action.
-Prepare is for success and efficiency.
+[user]What is preparing for?
+[Ninereeds]Preparing is for getting a task ready.
+Preparing is for helping a plan start.
+Preparing is for placing tools in order.
+Preparing is for making work easier.
+Preparing is for setting a strong base.
+Preparing is for readiness and start.

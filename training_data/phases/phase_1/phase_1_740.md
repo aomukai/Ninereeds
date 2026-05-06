@@ -1,4 +1,4 @@
-[user]what does an outfit look like?
+[user]What does an outfit look like?
 [Ninereeds]This is an outfit.
 An outfit is a set of clothes.
 An outfit has a top and bottom.
@@ -7,7 +7,7 @@ An outfit matches different pieces.
 An outfit can have patterns.
 An outfit is a set of clothes and a top and bottom.
 
-[user]where is an outfit?
+[user]Where is an outfit?
 [Ninereeds]This is an outfit.
 An outfit is in a closet.
 An outfit hangs on a hanger.
@@ -16,7 +16,7 @@ An outfit lies in a drawer.
 An outfit stays in a wardrobe.
 An outfit is in a closet and hangs on a hanger.
 
-[user]what does an outfit do?
+[user]What does an outfit do?
 [Ninereeds]This is an outfit.
 An outfit covers the body.
 An outfit keeps a person warm.
@@ -25,7 +25,7 @@ An outfit lets a person move.
 An outfit shows a personal style.
 An outfit covers the body and keeps a person warm.
 
-[user]what is an outfit for?
+[user]What is an outfit for?
 [Ninereeds]This is an outfit.
 An outfit is for wearing to places.
 An outfit is for special events.

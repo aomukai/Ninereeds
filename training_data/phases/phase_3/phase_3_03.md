@@ -1,4 +1,4 @@
-[user]what does a bowl of soup feel like?
+[user]What does a bowl of soup look like?
 [Ninereeds]This is a bowl of soup.
 The bowl of soup is warm.
 The bowl of soup is wet.
@@ -7,7 +7,7 @@ The bowl of soup is full.
 The bowl of soup is heavy.
 The bowl of soup is warm and wet.
 
-[user]where does a bowl of soup sit?
+[user]Where does a bowl of soup appear?
 [Ninereeds]This is a bowl of soup.
 The bowl of soup is on a table.
 The bowl of soup is near a spoon.
@@ -16,7 +16,7 @@ The bowl of soup is under a light.
 The bowl of soup is beside a napkin.
 The bowl of soup is on a table and under a light.
 
-[user]what happens to a bowl of soup?
+[user]What does a bowl of soup do?
 [Ninereeds]This is a bowl of soup.
 The bowl of soup moves.
 The bowl of soup tilts.
@@ -25,7 +25,7 @@ The bowl of soup spreads on the table.
 The bowl of soup slides.
 The bowl of soup is tilting and spilling.
 
-[user]what does a bowl of soup do for people?
+[user]What is a bowl of soup for?
 [Ninereeds]This is a bowl of soup.
 The bowl of soup sits by a spoon.
 The bowl of soup lifts.

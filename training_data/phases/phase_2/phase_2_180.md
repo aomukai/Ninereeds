@@ -1,4 +1,4 @@
-[user]what does the barn look like?
+[user]What does the barn look like?
 [Ninereeds]This is a barn.
 A barn is a wooden building.
 A barn has a steep roof.
@@ -7,7 +7,7 @@ A barn has a hayloft.
 A barn has large sliding doors.
 A barn is red and has a steep roof.
 
-[user]where is the barn?
+[user]Where does the barn appear?
 [Ninereeds]This is a barn.
 A barn is on a farm.
 A barn is in a meadow.
@@ -16,7 +16,7 @@ A barn is beside a dirt road.
 A barn is behind a silo.
 A barn is on a farm and in a meadow.
 
-[user]what does the barn do?
+[user]What does the barn do?
 [Ninereeds]This is a barn.
 A barn stores hay.
 A barn shelters animals.
@@ -25,7 +25,7 @@ A barn houses livestock.
 A barn keeps grain dry.
 A barn stores hay and shelters animals.
 
-[user]what is the barn for?
+[user]What is the barn for?
 [Ninereeds]This is a barn.
 A barn is for storing hay.
 A barn is for sheltering cows.

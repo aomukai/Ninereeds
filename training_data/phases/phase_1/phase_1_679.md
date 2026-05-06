@@ -1,4 +1,4 @@
-[user]what does a moth look like?
+[user]What does a moth look like?
 [Ninereeds]This is a moth.
 A moth has two wings.
 A moth has a fuzzy body.
@@ -7,7 +7,7 @@ A moth has antennae on the head.
 A moth is a flying insect.
 A moth is a flying insect and a fuzzy animal.
 
-[user]where is a moth?
+[user]Where is a moth?
 [Ninereeds]This is a moth.
 A moth is near a light.
 A moth is in a closet.
@@ -16,7 +16,7 @@ A moth is on a flower.
 A moth is in the dark.
 A moth is a light lover and a dark dweller.
 
-[user]what does a moth do?
+[user]What does a moth do?
 [Ninereeds]This is a moth.
 A moth flies at night.
 A moth goes to a bright light.
@@ -25,7 +25,7 @@ A moth drinks nectar from a flower.
 A moth rests on a wall in the day.
 A moth is a night flier and a cloth eater.
 
-[user]what is a moth for?
+[user]What is a moth for?
 [Ninereeds]This is a moth.
 A moth is food for bats.
 A moth helps plants make seeds.

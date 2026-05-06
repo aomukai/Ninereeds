@@ -1,4 +1,4 @@
-[user]what does jelly look like?
+[user]What does jelly look like?
 [Ninereeds]This is jelly.
 Jelly is clear.
 Jelly is wobbly.
@@ -7,7 +7,7 @@ Jelly is soft.
 Jelly is made from fruit juice.
 Jelly is clear soft wobbly fruit paste.
 
-[user]where is jelly?
+[user]Where is jelly?
 [Ninereeds]This is jelly.
 Jelly is in a jar.
 Jelly is on toast.
@@ -16,7 +16,7 @@ Jelly is in a bowl.
 Jelly is in a refrigerator.
 Jelly is in a jar in a refrigerator.
 
-[user]what does jelly do?
+[user]What does jelly do?
 [Ninereeds]This is jelly.
 Jelly wobbles on a plate.
 Jelly shakes when touched.
@@ -25,7 +25,7 @@ Jelly holds shape in a mold.
 Jelly melts in a warm mouth.
 Jelly wobbles on a plate and spreads on bread.
 
-[user]what does jelly give?
+[user]What does jelly give?
 [Ninereeds]This is jelly.
 Jelly gives sweet flavor to a snack.
 Jelly makes a sandwich taste good.

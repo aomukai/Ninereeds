@@ -1,4 +1,4 @@
-[user]what does a finger look like?
+[user]What does a finger look like?
 [Ninereeds]This is a finger.
 The finger is long and thin.
 The finger has a nail at the tip.
@@ -6,7 +6,7 @@ The finger bends at two joints.
 The finger is part of the hand.
 A finger is a long thin part of the hand.
 
-[user]where is a finger?
+[user]Where is a finger?
 [Ninereeds]This is a finger.
 The finger is at the end of the hand.
 The finger grows from the palm.
@@ -14,7 +14,7 @@ The finger is above the wrist.
 The finger sits next to the other fingers.
 A finger is a long part found at the end of a hand.
 
-[user]what does a finger do?
+[user]What does a finger do?
 [Ninereeds]This is a finger.
 The finger bends and straightens.
 The finger picks up small things.
@@ -22,7 +22,7 @@ The finger points at things nearby.
 The finger feels the shape and texture of things.
 A finger is a long part of the hand that bends and feels.
 
-[user]what is a finger used for?
+[user]What is a finger used for?
 [Ninereeds]This is a finger.
 The finger is used for touching.
 The finger is used for holding small things.

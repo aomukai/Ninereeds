@@ -1,4 +1,4 @@
-[user]what does stop look like?
+[user]What does stop look like?
 [Ninereeds]This is a stop.
 Stop is red.
 Stop displays a sign.
@@ -7,7 +7,7 @@ Stop stands on a post.
 Stop shows a message.
 Stop is red and still.
 
-[user]where is stop?
+[user]Where is stop?
 [Ninereeds]This is a stop.
 Stop sits at a crossing.
 Stop hangs at a corner.
@@ -16,7 +16,7 @@ Stop stands on a road.
 Stop rests at a gate.
 Stop is at a crossing.
 
-[user]what does stop do?
+[user]What does stop do?
 [Ninereeds]This is a stop.
 Stop halts a car.
 Stop ends a motion.
@@ -25,7 +25,7 @@ Stop stops a bike.
 Stop prevents a crash.
 Stop halts and ends.
 
-[user]what is stop for?
+[user]What is stop for?
 [Ninereeds]This is a stop.
 Stop controls a flow.
 Stop keeps order.

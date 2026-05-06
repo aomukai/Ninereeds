@@ -1,23 +1,23 @@
-[user]what is survey?
-[Ninereeds]survey is here.
+[user]What does survey look like?
+[Ninereeds]This is survey.
 survey is a set of questions for people.
-survey can be in a class.
-survey can be on a page.
-survey can help a group learn facts.
-survey can ask people for views.
+survey has many short questions.
+survey collects opinions from many.
+survey asks for honest answers.
+survey can be on a page or screen.
 survey is structured and informative.
 
-[user]where is survey?
-[Ninereeds]survey is here.
-survey can be on a page.
-survey can be in a class.
-survey can be by a poll or chart.
-survey can be in a report.
-survey can be on a screen.
+[user]Where does survey appear?
+[Ninereeds]This is survey.
+survey is on a page or screen.
+survey is in a class or office.
+survey is in a poll or study.
+survey is in a report document.
+survey is in a research paper.
 survey is accessible and organized.
 
-[user]what does survey do?
-[Ninereeds]survey is here.
+[user]What does survey do?
+[Ninereeds]This is survey.
 survey asks people for views.
 survey helps a group learn facts.
 survey gathers opinions from many.
@@ -25,8 +25,8 @@ survey collects data for analysis.
 survey informs decisions or plans.
 survey is useful and helpful.
 
-[user]what is survey for?
-[Ninereeds]survey is here.
+[user]What is survey for?
+[Ninereeds]This is survey.
 survey gathers opinions from many.
 survey collects data for analysis.
 survey informs decisions or plans.

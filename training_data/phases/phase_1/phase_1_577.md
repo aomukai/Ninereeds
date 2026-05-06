@@ -1,4 +1,4 @@
-[user]what does icing look like?
+[user]What does icing look like?
 [Ninereeds]This is icing.
 Icing is white.
 Icing is sweet.
@@ -7,7 +7,7 @@ Icing is smooth.
 Icing is soft.
 Icing is sweet thick smooth soft paste.
 
-[user]where is icing?
+[user]Where is icing?
 [Ninereeds]This is icing.
 Icing is on a cake.
 Icing is on a cupcake.
@@ -16,7 +16,7 @@ Icing is on a cookie.
 Icing is on top of a pastry.
 Icing is on a cake or cupcake.
 
-[user]what does icing do?
+[user]What does icing do?
 [Ninereeds]This is icing.
 Icing covers a cake.
 Icing sticks to a cake.
@@ -25,7 +25,7 @@ Icing holds a decoration.
 Icing dries hard on top.
 Icing covers a cake and dries hard.
 
-[user]what does icing give?
+[user]What does icing give?
 [Ninereeds]This is icing.
 Icing gives sweet taste to a cake.
 Icing makes a cake look pretty.

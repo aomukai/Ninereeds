@@ -1,4 +1,4 @@
-[user]what does undirect mean?
+[user]What does undirect mean?
 [Ninereeds]This is undirect.
 Undirect means not direct.
 Undirect means indirect.
@@ -7,7 +7,7 @@ Undirect means roundabout.
 Undirect means not straightforward.
 Undirect is not direct or without clear guidance.
 
-[user]where does undirect appear?
+[user]Where does undirect appear?
 [Ninereeds]This is undirect.
 Undirect appears in winding paths.
 Undirect appears in vague instructions.
@@ -16,7 +16,7 @@ Undirect appears in unguided exploration.
 Undirect appears in diffuse effects.
 Undirect is in winding paths, vague instructions, and subtle influences.
 
-[user]what does undirect do?
+[user]What does undirect do?
 [Ninereeds]This is undirect.
 Undirect adds complexity.
 Undirect can lead to confusion.
@@ -25,7 +25,7 @@ Undirect allows for flexibility.
 Undirect obscures intent.
 Undirect is adding complexity and leading to confusion.
 
-[user]what is undirect for?
+[user]What is undirect for?
 [Ninereeds]This is undirect.
 Undirect is for artistic expression.
 Undirect is for nuanced communication.

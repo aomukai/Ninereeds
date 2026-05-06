@@ -1,4 +1,4 @@
-[user]what does a sharpener look like?
+[user]What does a sharpener look like?
 [Ninereeds]This is a sharpener.
 A sharpener is small.
 A sharpener is a block.
@@ -7,7 +7,7 @@ A sharpener has a blade inside.
 A sharpener is plastic or metal.
 A sharpener is a small block with a hole and a blade.
 
-[user]where is a sharpener?
+[user]Where is a sharpener?
 [Ninereeds]This is a sharpener.
 A sharpener is on a desk.
 A sharpener is in a pencil case.
@@ -16,7 +16,7 @@ A sharpener is in a classroom.
 A sharpener is in a drawer.
 A sharpener is on a desk in a classroom.
 
-[user]what does a sharpener do?
+[user]What does a sharpener do?
 [Ninereeds]This is a sharpener.
 A sharpener makes a pencil point sharp.
 A sharpener shaves the pencil wood.
@@ -25,7 +25,7 @@ A sharpener collects the shavings.
 A sharpener makes a pencil ready for writing.
 A sharpener makes a pencil point sharp for writing.
 
-[user]what is a sharpener for?
+[user]What is a sharpener for?
 [Ninereeds]This is a sharpener.
 A sharpener is for pencils.
 A sharpener is for making points.

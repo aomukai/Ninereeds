@@ -1,35 +1,31 @@
-[user]what does prove mean?
-[Ninereeds]This is prove.
-Prove is to show truth.
-Prove is to confirm.
-Prove is to demonstrate.
-Prove is to establish fact.
-Prove is to verify.
-Prove is to show truth or confirm.
+[user]What is proving?
+[Ninereeds]Proving is showing truth with evidence.
+Proving is building a chain from facts to a conclusion.
+Proving is closing the gap between a claim and its support.
+Proving is making a statement stand on visible ground.
+Proving is the labour that turns assertion into certainty.
+Proving is evidence and certainty.
 
-[user]where does prove appear?
-[Ninereeds]This is prove.
-Prove appears in arguments.
-Prove appears in science.
-Prove appears in courts.
-Prove appears in logic.
-Prove appears in experiments.
-Prove is in arguments and science.
+[user]When does proving happen?
+[Ninereeds]Proving happens when tests, study, and courtwork show evidence.
+Proving happens when a claim demands more than faith to stand.
+Proving happens wherever doubt requires an answer made of facts.
+Proving happens as the rigorous process of testing and validation.
+Proving happens when the cost of being wrong outweighs the cost of checking.
+Proving happens with evidence and certainty.
 
-[user]what does prove do?
-[Ninereeds]This is prove.
-Prove establishes facts.
-Prove eliminates doubt.
-Prove creates certainty.
-Prove supports claims.
-Prove builds trust.
-Prove establishes facts and eliminates doubt.
+[user]What does proving bring?
+[Ninereeds]Proving brings evidence and certainty.
+Proving brings the end of reasonable doubt on a settled question.
+Proving brings the mind a floor of confirmed knowledge.
+Proving brings the authority that only demonstrated truth can hold.
+Proving brings a verdict that reason and observation both accept.
+Proving brings evidence and certainty.
 
-[user]what is prove for?
-[Ninereeds]This is prove.
-Prove is for establishing truth.
-Prove is for making sound decisions.
-Prove is for building reliable systems.
-Prove is for scientific advancement.
-Prove is for convincing others.
-Prove is for establishing truth and decisions.
+[user]What is proving for?
+[Ninereeds]Proving is for making a claim clear and solid.
+Proving is for separating the true from the merely believed.
+Proving is for giving knowledge a foundation that others can inspect.
+Proving is for turning a private conviction into a shared fact.
+Proving is for letting truth earn the trust that faith alone cannot give.
+Proving is for evidence and certainty.

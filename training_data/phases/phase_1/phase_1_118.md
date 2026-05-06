@@ -1,4 +1,4 @@
-[user]what does soup look like?
+[user]What does soup look like?
 [Ninereeds]This is soup.
 Soup is liquid.
 Soup is warm.
@@ -7,7 +7,7 @@ Soup fills a bowl.
 Soup is eaten from a bowl.
 Soup is warm and liquid.
 
-[user]where is soup?
+[user]Where is soup?
 [Ninereeds]This is soup.
 Soup is in a bowl.
 Soup is made in a pot.
@@ -16,7 +16,7 @@ Soup is served warm from the kitchen.
 Soup is a warm liquid food found in a bowl on a table.
 Soup is warm and in a bowl.
 
-[user]what does soup do?
+[user]What does soup do?
 [Ninereeds]This is soup.
 Soup steams when hot.
 Soup cools down over time.
@@ -25,7 +25,7 @@ Soup spills if the bowl is tipped.
 Soup is a warm liquid that steams and cools.
 Soup is warm and liquid.
 
-[user]what is soup used for?
+[user]What is soup used for?
 [Ninereeds]This is soup.
 Soup is eaten when hungry.
 Soup is eaten with a spoon.

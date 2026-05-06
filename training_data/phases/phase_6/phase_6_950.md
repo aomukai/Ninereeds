@@ -1,4 +1,4 @@
-[user]what does deep look like?
+[user]What does deep look like?
 [Ninereeds]This is deep.
 Deep is far down.
 Deep is far in.
@@ -7,7 +7,7 @@ Deep is a long way from the top.
 Deep is a great distance.
 Deep is a great distance from a surface.
 
-[user]where does deep appear?
+[user]Where does deep appear?
 [Ninereeds]This is deep.
 Deep is in the ocean.
 Deep is in a well.
@@ -16,7 +16,7 @@ Deep is in a thought.
 Deep is in a feeling.
 Deep is in a physical place and in thoughts.
 
-[user]what does deep do?
+[user]What does deep do?
 [Ninereeds]This is deep.
 Deep holds secrets.
 Deep offers shelter.
@@ -25,7 +25,7 @@ Deep requires effort.
 Deep reveals new understanding.
 Deep is a quality that hides and reveals.
 
-[user]what is deep for?
+[user]What is deep for?
 [Ninereeds]This is deep.
 Deep is for hiding.
 Deep is for strong roots.

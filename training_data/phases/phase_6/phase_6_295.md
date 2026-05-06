@@ -1,31 +1,35 @@
-[user]what is suspect?
-[Ninereeds]suspect is here.
-suspect is a person under blame.
-suspect is in a legal case.
-suspect is watched by law team.
-suspect is a person under doubt.
-suspect is accused and questioned.
+[user]What does suspect look like?
+[Ninereeds]This is suspect.
+Suspect is a person under scrutiny.
+Suspect stands in a police station.
+Suspect wears ordinary clothes.
+Suspect has a worried expression.
+Suspect is watched by officers.
+Suspect is questioned and observed.
 
-[user]where is suspect?
-[Ninereeds]suspect is here.
-suspect is in a police station.
-suspect is in a courtroom.
-suspect is in a holding cell.
-suspect is in an interview room.
-suspect is detained and guarded.
+[user]Where does suspect appear?
+[Ninereeds]This is suspect.
+Suspect appears in a police station.
+Suspect appears in a courtroom.
+Suspect appears in an interview room.
+Suspect appears in a holding cell.
+Suspect appears in a detective story.
+Suspect is detained and investigated.
 
-[user]what does suspect do?
-[Ninereeds]suspect is here.
-suspect stands in a case.
-suspect answers law team.
-suspect faces doubt and blame.
-suspect waits for judgment.
-suspect is accused and questioned.
+[user]What does suspect do?
+[Ninereeds]This is suspect.
+Suspect answers questions from officers.
+Suspect waits for judgment in a case.
+Suspect faces accusations of a crime.
+Suspect defends against blame and doubt.
+Suspect hopes for freedom or fairness.
+Suspect is accused and waiting.
 
-[user]what is suspect like?
-[Ninereeds]suspect is here.
-suspect looks tense in room.
-suspect feels uneasy in case.
-suspect seems dark in story.
-suspect is calm in some cases.
-suspect is worried and silent.
+[user]What is suspect for?
+[Ninereeds]This is suspect.
+Suspect is for investigation in a case.
+Suspect is for questioning in a crime.
+Suspect is for determining guilt or innocence.
+Suspect is for bringing a case to court.
+Suspect is for resolving legal questions.
+Suspect is legal and procedural.

@@ -1,4 +1,4 @@
-[user]what does a cup look like?
+[user]What does a cup look like?
 [Ninereeds]This is a cup.
 A cup is a small container.
 A cup is round and open.
@@ -7,7 +7,7 @@ A cup holds liquid inside.
 A cup has a handle on the side.
 A cup is small and flat.
 
-[user]where is a cup?
+[user]Where is a cup?
 [Ninereeds]This is a cup.
 A cup sits on a table.
 A cup sits on a shelf.
@@ -16,7 +16,7 @@ A cup is in a cupboard.
 A cup stands on a counter.
 A cup is on a table and on a shelf.
 
-[user]what does a cup do?
+[user]What does a cup do?
 [Ninereeds]This is a cup.
 A cup holds water.
 A cup holds juice.
@@ -25,7 +25,7 @@ A cup holds cold milk.
 A cup keeps liquid inside.
 A cup is a container and a drinkware.
 
-[user]what is a cup for?
+[user]What is a cup for?
 [Ninereeds]This is a cup.
 A cup is for drinking.
 A cup is for pouring liquid.

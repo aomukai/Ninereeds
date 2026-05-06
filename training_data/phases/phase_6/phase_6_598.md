@@ -1,4 +1,4 @@
-[user]what does error look like?
+[user]What does error look like?
 [Ninereeds]This is an error.
 Error is a mistake.
 Error is not seen.
@@ -7,7 +7,7 @@ Error has no shape.
 Error has no color.
 Error is a mistake and a difference from right.
 
-[user]where does error appear?
+[user]Where does error appear?
 [Ninereeds]This is an error.
 Error appears in calculations.
 Error appears in writing.
@@ -16,7 +16,7 @@ Error appears in thoughts.
 Error appears in plans.
 Error appears in calculations and writing.
 
-[user]what does error do?
+[user]What does error do?
 [Ninereeds]This is an error.
 Error causes problems.
 Error makes things wrong.
@@ -25,7 +25,7 @@ Error needs correction.
 Error creates confusion.
 Error causes problems and makes things wrong.
 
-[user]what is error for?
+[user]What is error for?
 [Ninereeds]This is an error.
 Error is for learning lessons.
 Error is for finding better ways.

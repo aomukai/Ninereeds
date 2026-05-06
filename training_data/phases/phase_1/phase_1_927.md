@@ -1,4 +1,4 @@
-[user]what does shallow look like?
+[user]What does shallow look like?
 [Ninereeds]This is shallow.
 Shallow is a short depth.
 Shallow water is near the top.
@@ -7,7 +7,7 @@ Shallow water shows the bottom.
 Shallow has a flat bottom.
 Shallow is near the top and shows the bottom.
 
-[user]where is shallow?
+[user]Where is shallow?
 [Ninereeds]This is shallow.
 Shallow is at the edge of a pool.
 Shallow is at the edge of a lake.
@@ -16,7 +16,7 @@ Shallow is in a small stream.
 Shallow is in a puddle.
 Shallow is at the edge of a pool and near the shore.
 
-[user]what does shallow do?
+[user]What does shallow do?
 [Ninereeds]This is shallow.
 Shallow lets feet touch the bottom.
 Shallow keeps a person safe.
@@ -25,7 +25,7 @@ Shallow is safe for play.
 Shallow water stays warm.
 Shallow is safe and lets a person stand.
 
-[user]what is shallow for?
+[user]What is shallow for?
 [Ninereeds]This is shallow.
 Shallow is for wading.
 Shallow is for play.

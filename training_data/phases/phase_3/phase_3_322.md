@@ -1,35 +1,31 @@
-[user]what does dine look like?
-[Ninereeds]This is dine.
-Dine is a meal.
-Dine is a table.
-Dine is a plate.
-Dine is a chair.
-Dine is a dish.
-Dine is a meal and a table.
+[user]What is dining?
+[Ninereeds]Dining is eating a meal in a calm, formal way.
+Dining is sitting down for food and company.
+Dining is sharing a table with care.
+Dining is taking a meal with attention.
+Dining is turning food into a social moment.
+Dining is meal time and shared table.
 
-[user]where does dine happen?
-[Ninereeds]This is dine.
-Dine happens in a home.
-Dine happens in a kitchen.
-Dine happens at a table.
-Dine happens in a room.
-Dine happens at a restaurant.
-Dine is a home and a restaurant.
+[user]When does dining happen?
+[Ninereeds]Dining happens when a table is set for food.
+Dining happens when family, friends, and guests gather.
+Dining happens in homes, halls, and restaurants.
+Dining happens when a meal takes time and care.
+Dining happens when food and talk share a space.
+Dining happens gathered table and careful meal.
 
-[user]what does dine do?
-[Ninereeds]This is dine.
-Dine feeds a person.
-Dine brings a group.
-Dine shares a dish.
-Dine fills a belly.
-Dine gives a talk time.
-Dine is a dish and a belly.
+[user]What does dining bring?
+[Ninereeds]Dining brings calm.
+Dining brings company.
+Dining brings routine.
+Dining brings taste.
+Dining brings rest.
+Dining brings calm and company.
 
-[user]what is dine for?
-[Ninereeds]This is dine.
-Dine is for a meal.
-Dine is for a group.
-Dine is for a talk.
-Dine is for a dish.
-Dine is for a table.
-Dine is a meal and a group.
+[user]What is dining for?
+[Ninereeds]Dining is for sharing a meal.
+Dining is for eating with care.
+Dining is for gathering around a table.
+Dining is for enjoying food and talk.
+Dining is for marking a meal time.
+Dining is for meal and talk.

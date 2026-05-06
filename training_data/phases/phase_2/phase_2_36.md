@@ -1,4 +1,4 @@
-[user]what is a wheelbarrow?
+[user]What is a wheelbarrow?
 [Ninereeds]This is a wheelbarrow.
 The wheelbarrow has one wheel.
 The wheelbarrow is made of metal or plastic.
@@ -6,7 +6,7 @@ The wheelbarrow has two handles.
 The wheelbarrow is strong.
 A wheelbarrow is a cart with one wheel.
 
-[user]where is a wheelbarrow?
+[user]Where is a wheelbarrow?
 [Ninereeds]This is a wheelbarrow.
 The wheelbarrow is on the ground.
 The wheelbarrow is in a yard.
@@ -14,7 +14,7 @@ The wheelbarrow is on a path.
 The wheelbarrow is near soil.
 A wheelbarrow is a one-wheeled cart used in a garden.
 
-[user]what does a wheelbarrow do?
+[user]What does a wheelbarrow do?
 [Ninereeds]This is a wheelbarrow.
 The wheelbarrow rolls forward.
 The wheelbarrow tilts to one side.
@@ -22,7 +22,7 @@ The wheelbarrow stops on the ground.
 The wheelbarrow can be emptied.
 A wheelbarrow is a cart with one wheel that can tip and empty.
 
-[user]what does a wheelbarrow give?
+[user]What does a wheelbarrow give?
 [Ninereeds]This is a wheelbarrow.
 The wheelbarrow carries loads.
 The wheelbarrow holds soil.

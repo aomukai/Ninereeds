@@ -1,35 +1,31 @@
-[user]what does include mean?
-[Ninereeds]This is include.
-Include means to contain.
-Include means to have as part.
-Include means to take in.
-Include means to comprise.
-Include means to involve.
-Include is to contain or have as part.
+[user]What is including?
+[Ninereeds]Including is taking a part into a set or group.
+Including is a joining action.
+Including is common in lists, groups, and rules.
+Including is shaped by welcome and range.
+Including is about addition and membership.
+Including is addition and membership.
 
-[user]where does include appear?
-[Ninereeds]This is include.
-Include appears in lists.
-Include appears in groups.
-Include appears in plans.
-Include appears in instructions.
-Include appears in stories.
-Include is a word in lists and groups.
+[user]When does including happen?
+[Ninereeds]Including happens when a list gains a part.
+Including happens in groups, texts, and plans.
+Including happens when a case belongs inside a set.
+Including happens while a rule covers more than one thing.
+Including happens when a person adds details.
+Including happens with addition and range.
 
-[user]what does include do?
-[Ninereeds]This is include.
-Include makes things larger.
-Include makes things complete.
-Include brings things together.
-Include adds to a whole.
-Include makes things comprehensive.
-Include makes things larger and complete.
+[user]What does including bring?
+[Ninereeds]Including brings wider range.
+Including brings a larger group.
+Including brings more detail.
+Including brings greater coverage.
+Including brings a sense of welcome.
+Including brings addition and range.
 
-[user]what is include for?
-[Ninereeds]This is include.
-Include is for forming groups.
-Include is for making rules.
-Include is for writing lists.
-Include is for ensuring completeness.
-Include is for building something.
-Include is for forming groups and building.
+[user]What is including for?
+[Ninereeds]Including is for adding parts.
+Including is for widening a group.
+Including is for making a list complete.
+Including is for covering more cases.
+Including is for joining details.
+Including is for addition and range.

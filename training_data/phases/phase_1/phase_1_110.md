@@ -1,4 +1,4 @@
-[user]what does a thumb look like?
+[user]What does a thumb look like?
 [Ninereeds]This is a thumb.
 The thumb is short and wide.
 The thumb has a nail at the tip.
@@ -7,7 +7,7 @@ The thumb sits apart from the other fingers.
 The thumb is on the side of the hand.
 The thumb is short and sits apart.
 
-[user]where is a thumb?
+[user]Where is a thumb?
 [Ninereeds]This is a thumb.
 The thumb is on the side of the hand.
 The thumb is next to the first finger.
@@ -16,7 +16,7 @@ The thumb sits apart for grip.
 The thumb is a short digit.
 The thumb is on the side and next to the first finger.
 
-[user]what does a thumb do?
+[user]What does a thumb do?
 [Ninereeds]This is a thumb.
 The thumb bends toward the fingers.
 The thumb presses against the fingers to grip.
@@ -25,7 +25,7 @@ The thumb pushes against soft things.
 The thumb grasps items.
 The thumb is bending and gripping.
 
-[user]what is a thumb used for?
+[user]What is a thumb used for?
 [Ninereeds]This is a thumb.
 The thumb is used for gripping.
 The thumb works with the fingers to hold things.

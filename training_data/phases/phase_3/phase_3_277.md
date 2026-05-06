@@ -1,4 +1,4 @@
-[user]what does burst look like?
+[user]What does burst look like?
 [Ninereeds]This is burst.
 Burst is a sudden break open.
 Burst is a split from pressure.
@@ -7,7 +7,7 @@ Burst is a quick opening.
 Burst is a break from inside.
 Burst is a sudden break open and a split from pressure.
 
-[user]where does burst appear?
+[user]Where does burst appear?
 [Ninereeds]This is burst.
 Burst appears in balloons.
 Burst appears in pipes.
@@ -16,7 +16,7 @@ Burst appears in dams.
 Burst appears in bags.
 Burst is a break under pressure and is in balloons.
 
-[user]what does burst do?
+[user]What does burst do?
 [Ninereeds]This is burst.
 Burst releases what is inside.
 Burst makes a loud pop.
@@ -25,7 +25,7 @@ Burst ends containment.
 Burst creates an opening.
 Burst is a sudden release and is a release of contents.
 
-[user]what is burst for?
+[user]What is burst for?
 [Ninereeds]This is burst.
 Burst is for release.
 Burst is for expression.

@@ -1,4 +1,4 @@
-[user]what does a tag look like?
+[user]What does a tag look like?
 [Ninereeds]This is a tag.
 A tag is small.
 A tag is flat.
@@ -7,7 +7,7 @@ A tag has a hole.
 A tag hangs on string.
 A tag is small and flat.
 
-[user]where does a tag appear?
+[user]Where does a tag appear?
 [Ninereeds]This is a tag.
 A tag appears on shirt.
 A tag appears on bag.
@@ -16,7 +16,7 @@ A tag appears on box.
 A tag appears on shelf.
 A tag is on shirt and on bag.
 
-[user]what does a tag do?
+[user]What does a tag do?
 [Ninereeds]This is a tag.
 A tag shows price.
 A tag shows size.
@@ -25,7 +25,7 @@ A tag tells care.
 A tag labels thing.
 A tag is price and size.
 
-[user]what is a tag for?
+[user]What is a tag for?
 [Ninereeds]This is a tag.
 A tag labels items.
 A tag gives info.

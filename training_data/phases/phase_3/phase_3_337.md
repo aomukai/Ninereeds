@@ -1,35 +1,31 @@
-[user]what does eat look like?
-[Ninereeds]This is eat.
-Eat is a bite of food.
-Eat is a chew of a bite.
-Eat is a swallow of a piece.
-Eat is a move of mouth.
-Eat is a take in of a meal.
-Eat is a bite and chew of food.
+[user]What is eating?
+[Ninereeds]Eating is taking food into the body.
+Eating is chewing and swallowing food.
+Eating is using food for energy and growth.
+Eating is choosing bites and meals.
+Eating is making food part of life.
+Eating is food intake and energy.
 
-[user]where does eat happen?
-[Ninereeds]This is eat.
-Eat happens at a table.
-Eat happens in a kitchen.
-Eat happens in a home.
-Eat happens at a restaurant.
-Eat happens in a room.
-Eat happens at a table in a kitchen.
+[user]When does eating happen?
+[Ninereeds]Eating happens when hunger asks for food.
+Eating happens at meals, snacks, and breaks.
+Eating happens in kitchens, schools, and homes.
+Eating happens when the body needs fuel.
+Eating happens when taste and hunger meet.
+Eating happens with hunger and fuel.
 
-[user]what does eat do?
-[Ninereeds]This is eat.
-Eat fills a belly.
-Eat gives energy.
-Eat nourishes a body.
-Eat feeds a person.
-Eat satisfies hunger.
-Eat fills a belly and gives energy.
+[user]What does eating bring?
+[Ninereeds]Eating brings energy.
+Eating brings growth.
+Eating brings fullness.
+Eating brings taste.
+Eating brings comfort.
+Eating brings energy and fullness.
 
-[user]what is eat for?
-[Ninereeds]This is eat.
-Eat is for a meal.
-Eat is for a snack.
-Eat is for a dish.
-Eat is for a feed.
-Eat is for a bite.
-Eat is for a meal and a snack.
+[user]What is eating for?
+[Ninereeds]Eating is for taking in food.
+Eating is for giving the body fuel.
+Eating is for answering hunger.
+Eating is for supporting growth.
+Eating is for making meals part of daily life.
+Eating is for fuel and growth.

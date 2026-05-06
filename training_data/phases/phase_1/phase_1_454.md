@@ -1,4 +1,4 @@
-[user]what does a film look like?
+[user]What does a film look like?
 [Ninereeds]This is a film.
 A film is a thin layer.
 A film is see-through.
@@ -7,7 +7,7 @@ A film covers a surface.
 A film is flat.
 A film is a thin flat layer.
 
-[user]where is a film?
+[user]Where is a film?
 [Ninereeds]This is a film.
 A film sits on a surface.
 A film is on top of water.
@@ -16,7 +16,7 @@ A film is over a puddle.
 A film is on the ground.
 A film is a layer on a surface.
 
-[user]what does a film do?
+[user]What does a film do?
 [Ninereeds]This is a film.
 A film sticks to a surface.
 A film spreads over a space.
@@ -25,7 +25,7 @@ A film wraps around an object.
 A film holds together.
 A film is a layer that sticks and spreads.
 
-[user]what does a film give?
+[user]What does a film give?
 [Ninereeds]This is a film.
 A film covers a window.
 A film protects a surface.

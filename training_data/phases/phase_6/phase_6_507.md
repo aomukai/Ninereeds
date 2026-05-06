@@ -1,35 +1,31 @@
-[user]what does suppose mean?
-[Ninereeds]This is suppose.
-Suppose is to assume.
-Suppose is to imagine.
-Suppose is to believe.
-Suppose is to hypothesize.
-Suppose is to think likely.
-Suppose is to assume or imagine.
+[user]What is supposing?
+[Ninereeds]Supposing is forming a possible idea.
+Supposing is setting a conditional thought without final commitment.
+Supposing is the mind testing a path before choosing to walk it.
+Supposing is raising a possibility to see where it leads.
+Supposing is holding a claim lightly while examining its shape.
+Supposing is guess and possibility.
 
-[user]where does suppose appear?
-[Ninereeds]This is suppose.
-Suppose appears in thoughts.
-Suppose appears in discussions.
-Suppose appears in theories.
-Suppose appears in stories.
-Suppose appears in questions.
-Suppose is in thoughts and discussions.
+[user]When does supposing happen?
+[Ninereeds]Supposing happens when questions, examples, and uncertain cases invite a guess.
+Supposing happens when the mind plays with maybes and what-ifs.
+Supposing happens wherever reasoning treads into unknown territory.
+Supposing happens when proof is absent but thought must proceed.
+Supposing happens in the open space between fact and imagination.
+Supposing happens with guess and possibility.
 
-[user]what does suppose do?
-[Ninereeds]This is suppose.
-Suppose helps form ideas.
-Suppose helps explore possibilities.
-Suppose helps make tentative plans.
-Suppose helps understand reasoning.
-Suppose helps guide inquiry.
-Suppose helps form ideas and explore possibilities.
+[user]What does supposing bring?
+[Ninereeds]Supposing brings a chance idea and test.
+Supposing brings the freedom to explore without the weight of commitment.
+Supposing brings a field of possible answers before choosing one.
+Supposing brings the mind a sandbox for untested thoughts.
+Supposing brings the raw material of hypothesis and theory.
+Supposing brings guess and possibility.
 
-[user]what is suppose for?
-[Ninereeds]This is suppose.
-Suppose is for problem-solving.
-Suppose is for planning.
-Suppose is for creative thinking.
-Suppose is for scientific inquiry.
-Suppose is for making assumptions.
-Suppose is for problem-solving and planning.
+[user]What is supposing for?
+[Ninereeds]Supposing is for exploring a likely idea.
+Supposing is for giving the mind permission to wander before deciding.
+Supposing is for building bridges from the known to the possible.
+Supposing is for testing ideas in the safety of thought alone.
+Supposing is for preparing the ground where conviction will later stand.
+Supposing is for guess and possibility.

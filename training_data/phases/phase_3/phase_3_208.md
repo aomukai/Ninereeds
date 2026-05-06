@@ -1,35 +1,31 @@
-[user]what does occupy mean?
-[Ninereeds]This is occupy.
-Occupy is to take up space.
-Occupy is to fill a place.
-Occupy is to be in residence.
-Occupy is to engage a mind.
-Occupy is to control a territory.
-Occupy is to take up space and fill a place.
+[user]What is occupying?
+[Ninereeds]Occupying is filling a place or space.
+Occupying is taking up room in a spot.
+Occupying is using a seat, house, or field.
+Occupying is holding a place for a time.
+Occupying is being present in a location.
+Occupying is space and presence.
 
-[user]where does occupy occur?
-[Ninereeds]This is occupy.
-Occupy occurs in rooms.
-Occupy occurs in chairs.
-Occupy occurs in jobs.
-Occupy occurs in thoughts.
-Occupy occurs in armies.
-Occupy occurs in rooms and in jobs.
+[user]When does occupying happen?
+[Ninereeds]Occupying happens when a person or thing takes a place.
+Occupying happens in rooms, streets, and land.
+Occupying happens when a seat or area stays filled.
+Occupying happens when a group holds a zone.
+Occupying happens when presence stays in one place.
+Occupying happens when place meets presence.
 
-[user]what does occupy do?
-[Ninereeds]This is occupy.
-Occupy prevents emptiness.
-Occupy defines a role.
-Occupy creates a presence.
-Occupy holds a position.
-Occupy consumes a time.
-Occupy prevents emptiness and defines a role.
+[user]What does occupying bring?
+[Ninereeds]Occupying brings a filled place.
+Occupying brings use of space.
+Occupying brings a clear claim on room.
+Occupying brings presence in a spot.
+Occupying brings steady use of a place.
+Occupying brings presence and use.
 
-[user]what is occupy for?
-[Ninereeds]This is occupy.
-Occupy is for use of space.
-Occupy is for maintaining control.
-Occupy is for purpose.
-Occupy is for filling a void.
-Occupy is for a state of being.
-Occupy is for use of space and maintaining control.
+[user]What is occupying for?
+[Ninereeds]Occupying is for taking or holding space.
+Occupying is for using a place.
+Occupying is for keeping a spot filled.
+Occupying is for showing presence.
+Occupying is for holding room for a time.
+Occupying is for presence and hold.

@@ -1,4 +1,4 @@
-[user]what does a sun look like?
+[user]What does a sun look like?
 [Ninereeds]This is the sun.
 The sun is round.
 The sun is bright.
@@ -7,7 +7,7 @@ The sun is yellow.
 The sun is glowing.
 The sun is round and bright.
 
-[user]where is a sun?
+[user]Where does the sun appear?
 [Ninereeds]This is the sun.
 The sun is in the sky.
 The sun is above the ground.
@@ -16,7 +16,7 @@ The sun is far away.
 The sun is in the east.
 The sun is high and far.
 
-[user]what does a sun do?
+[user]What does a sun do?
 [Ninereeds]This is the sun.
 The sun is warm.
 The sun is life-giving.
@@ -25,7 +25,7 @@ The sun is essential.
 The sun is steady.
 The sun is warm and powerful.
 
-[user]what is a sun for?
+[user]What is a sun for?
 [Ninereeds]This is the sun.
 The sun is useful.
 The sun is important.

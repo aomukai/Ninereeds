@@ -1,4 +1,4 @@
-[user]what does be look like?
+[user]What does be look like?
 [Ninereeds]This is a be.
 Be is a short word.
 Be has three letters.
@@ -7,7 +7,7 @@ Be appears in writing.
 Be appears in speech.
 Be is short and common.
 
-[user]where does be appear?
+[user]Where does be appear?
 [Ninereeds]This is a be.
 Be appears in sentences.
 Be appears in questions.
@@ -16,7 +16,7 @@ Be appears in stories.
 Be appears in conversations.
 Be appears everywhere and often.
 
-[user]what does be do?
+[user]What does be do?
 [Ninereeds]This is a be.
 Be links subjects to descriptions.
 Be expresses existence.
@@ -25,7 +25,7 @@ Be shows a particular state.
 Be attributes qualities to things.
 Be links subjects and shows states.
 
-[user]what is be for?
+[user]What is be for?
 [Ninereeds]This is a be.
 Be is for stating facts.
 Be is for describing conditions.

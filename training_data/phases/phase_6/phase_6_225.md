@@ -1,23 +1,35 @@
-[user]what is smooth?
-[Ninereeds]smooth is here.
-smooth is a word for an even and level surface.
-smooth is a word used in descriptions of texture.
-smooth describes a surface without bumps or rough parts.
+[user]What does smooth look like?
+[Ninereeds]This is smooth.
+Smooth is a flat and even surface.
+Smooth reflects light without scatter.
+Smooth feels like polished glass.
+Smooth looks like a calm lake.
+Smooth is a clean and level plane.
+Smooth is even and flat.
 
-[user]where is smooth?
-[Ninereeds]smooth is here.
-smooth can be felt on polished wood.
-smooth can be seen on a calm lake.
-smooth can be heard in a quiet voice.
+[user]Where does smooth appear?
+[Ninereeds]This is smooth.
+Smooth appears on polished stone.
+Smooth appears on finished wood.
+Smooth appears on a clean floor.
+Smooth appears on a mirror.
+Smooth appears on still water.
+Smooth is a surface and a texture.
 
-[user]what does smooth do?
-[Ninereeds]smooth is here.
-smooth tells about a surface that is even.
-smooth helps describe a gentle feel.
-smooth indicates a lack of roughness.
+[user]What does smooth do?
+[Ninereeds]This is smooth.
+Smooth lets a hand glide across.
+Smooth reflects light evenly.
+Smooth feels pleasant to touch.
+Smooth makes a surface easy to clean.
+Smooth reduces friction on a surface.
+Smooth is a feel and a quality.
 
-[user]what is smooth like?
-[Ninereeds]smooth is here.
-smooth is like a polished glass surface.
-smooth is like a calm and still water.
-smooth is like a soft and clean fabric.
+[user]What is smooth for?
+[Ninereeds]This is smooth.
+Smooth is for comfortable surfaces.
+Smooth is for polished finishes.
+Smooth is for easy movement.
+Smooth is for gentle textures.
+Smooth is for refined objects.
+Smooth is a texture and a finish.

@@ -1,35 +1,31 @@
-[user]what does expand mean?
-[Ninereeds]This is expand.
-Expand is to grow larger.
-Expand is to increase in size.
-Expand is to spread out.
-Expand is to get bigger.
-Expand is to open up.
-Expand is to grow larger and spread out.
+[user]What is expanding?
+[Ninereeds]Expanding is growing larger in size or reach.
+Expanding is spreading into more space.
+Expanding is adding width, range, or scope.
+Expanding is opening a form wider.
+Expanding is becoming broader and fuller.
+Expanding is size and reach.
 
-[user]where does expand occur?
-[Ninereeds]This is expand.
-Expand occurs in balloons.
-Expand occurs in ideas.
-Expand occurs in a business.
-Expand occurs in gas.
-Expand occurs in a universe.
-Expand occurs in balloons and in ideas.
+[user]When does expanding happen?
+[Ninereeds]Expanding happens when a thing grows outward.
+Expanding happens when a group, idea, or space gains room.
+Expanding happens in growth, travel, and planning.
+Expanding happens when a pattern spreads to more area.
+Expanding happens when a force or need asks for more space.
+Expanding happens when growth meets room.
 
-[user]what does expand do?
-[Ninereeds]This is expand.
-Expand creates more space.
-Expand includes more things.
-Expand increases a volume.
-Expand spreads influence.
-Expand opens new possibilities.
-Expand creates more space and opens new possibilities.
+[user]What does expanding bring?
+[Ninereeds]Expanding brings more room.
+Expanding brings wider reach.
+Expanding brings larger use.
+Expanding brings a bigger field of action.
+Expanding brings a fuller shape.
+Expanding brings room and reach.
 
-[user]what is expand for?
-[Ninereeds]This is expand.
-Expand is for growth.
-Expand is for encompassing more.
-Expand is for wider reach.
-Expand is for development.
-Expand is for increasing capacity.
-Expand is for growth and wider reach.
+[user]What is expanding for?
+[Ninereeds]Expanding is for making space larger.
+Expanding is for growing reach.
+Expanding is for adding more room for use.
+Expanding is for opening a wider path.
+Expanding is for giving a thing more breadth.
+Expanding is for room and breadth.

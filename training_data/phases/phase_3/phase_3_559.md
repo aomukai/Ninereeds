@@ -1,4 +1,4 @@
-[user]what does a turn look like?
+[user]What does a turn look like?
 [Ninereeds]This is a turn.
 A turn is round.
 A turn changes direction.
@@ -7,7 +7,7 @@ A turn faces a new way.
 A turn is a curve.
 A turn is round and a change in direction.
 
-[user]where does a turn appear?
+[user]Where does a turn appear?
 [Ninereeds]This is a turn.
 A turn is on a road.
 A turn is in a path.
@@ -16,7 +16,7 @@ A turn is in a dance.
 A turn is in a game.
 A turn is on a road and at a corner.
 
-[user]what does a turn do?
+[user]What does a turn do?
 [Ninereeds]This is a turn.
 A turn faces left.
 A turn faces right.
@@ -25,7 +25,7 @@ A turn avoids obstacles.
 A turn follows a bend.
 A turn is left-facing and right-facing.
 
-[user]what is a turn for?
+[user]What is a turn for?
 [Ninereeds]This is a turn.
 A turn is for direction.
 A turn is for navigation.

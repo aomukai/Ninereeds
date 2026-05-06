@@ -1,4 +1,4 @@
-[user]what does a table look like?
+[user]What does a table look like?
 [Ninereeds]This is a table.
 The table is flat.
 The table is hard.
@@ -7,7 +7,7 @@ The table has a wide top.
 The table is sturdy.
 The table is flat and hard.
 
-[user]where can you find a table?
+[user]Where can you find a table?
 [Ninereeds]This is a table.
 The table is in a room.
 The table is on the floor.
@@ -16,7 +16,7 @@ The table stays in one place.
 The table is in a dining room.
 The table is in a room and on the floor.
 
-[user]what does a table do?
+[user]What does a table do?
 [Ninereeds]This is a table.
 The table starts empty.
 The table holds objects.
@@ -25,7 +25,7 @@ The table becomes empty again.
 The table provides support.
 The table is empty and full.
 
-[user]what does a table give?
+[user]What does a table give?
 [Ninereeds]This is a table.
 The table holds a plate.
 The table holds a cup.

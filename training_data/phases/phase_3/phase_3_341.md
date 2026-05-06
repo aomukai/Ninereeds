@@ -1,35 +1,31 @@
-[user]what does erase look like?
-[Ninereeds]This is erase.
-Erase rubs away marks.
-Erase cleans a space.
-Erase removes pencil lines.
-Erase makes a clean surface.
-Erase leaves a smooth spot.
-Erase is quick and clean.
+[user]What is erasing?
+[Ninereeds]Erasing is Removing marks from a surface.
+[Ninereeds]Erasing is Clearing writing, lines, or stains.
+[Ninereeds]Erasing is Rubbing away a trace.
+[Ninereeds]Erasing is Making a space clean.
+[Ninereeds]Erasing is Wiping away visible detail.
+[Ninereeds]Erasing is Removal and clearing.
 
-[user]where does erase happen?
-[Ninereeds]This is erase.
-Erase happens on paper.
-Erase happens on a board.
-Erase happens on a drawing.
-Erase works on a flat surface.
-Erase removes marks from paper.
-Erase is common on paper and board.
+[user]When does erasing happen?
+[Ninereeds]Erasing happens when A pencil line needs removal.
+[Ninereeds]Erasing happens when A board or page needs a clean space.
+[Ninereeds]Erasing happens when Correction follows a mistake.
+[Ninereeds]Erasing happens when Cleanup follows drawing or writing.
+[Ninereeds]Erasing happens when A surface needs a blank area.
+[Ninereeds]Erasing happens when A page clears and a fresh mark begins.
 
-[user]what does erase do?
-[Ninereeds]This is erase.
-Erase removes a wrong line.
-Erase cleans the paper space.
-Erase takes away a mistake.
-Erase rubs off the marks.
-Erase makes paper smooth again.
-Erase is corrective and cleaning.
+[user]What does erasing bring?
+[Ninereeds]Erasing brings A clear surface.
+[Ninereeds]Erasing brings A fresh start for writing.
+[Ninereeds]Erasing brings Space for new marks.
+[Ninereeds]Erasing brings A cleaner look.
+[Ninereeds]Erasing brings Less clutter on a page.
+[Ninereeds]Erasing brings Clearing and renewal.
 
-[user]what is erase for?
-[Ninereeds]This is erase.
-Erase fixes a wrong mark.
-Erase changes a drawing.
-Erase makes space for new lines.
-Erase corrects a mistake.
-Erase gives a clean page.
-Erase is correcting and preparing.
+[user]What is erasing for?
+[Ninereeds]Erasing is for Clearing marks.
+[Ninereeds]Erasing is for Fixing a page.
+[Ninereeds]Erasing is for Making room for change.
+[Ninereeds]Erasing is for Cleaning a surface.
+[Ninereeds]Erasing is for Removing clutter.
+[Ninereeds]Erasing is for Cleanup and correction.

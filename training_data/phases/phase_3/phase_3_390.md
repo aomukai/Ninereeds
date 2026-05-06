@@ -1,35 +1,31 @@
-[user]what does heal look like?
-[Ninereeds]This is heal.
-Heal is a slow mend of body.
-Heal is a soft fix of cut.
-Heal is a calm close of wound.
-Heal is a gentle knit of bone.
-Heal is a steady return to health.
-Heal is a slow mend and a soft fix.
+[user]What is healing?
+[Ninereeds]Healing is Making a body or wound better.
+[Ninereeds]Healing is Restoring health after injury.
+[Ninereeds]Healing is Closing pain and damage.
+[Ninereeds]Healing is Bringing a tired body back to health.
+[Ninereeds]Healing is Mending skin, tissue, or feeling.
+[Ninereeds]Healing is Restore and mend.
 
-[user]where does heal happen?
-[Ninereeds]This is heal.
-Heal happens on a cut.
-Heal happens on a scrape.
-Heal happens on a wound.
-Heal happens on a burn.
-Heal happens on a sore.
-Heal is on wounds and on burns.
+[user]When does healing happen?
+[Ninereeds]Healing happens when A cut, bruise, or fever eases.
+[Ninereeds]Healing happens when Rest and care support recovery.
+[Ninereeds]Healing happens when Medicine or time helps repair.
+[Ninereeds]Healing happens when A wound begins to close.
+[Ninereeds]Healing happens when A mind or body seeks relief.
+[Ninereeds]Healing happens when Recovery and repair move forward.
 
-[user]what does heal do?
-[Ninereeds]This is heal.
-Heal closes a cut with skin.
-Heal mends a scrape on a knee.
-Heal soothes a burn on a hand.
-Heal knits bone in a cast.
-Heal fades a scar over time.
-Heal is a closure and a mend.
+[user]What does healing bring?
+[Ninereeds]Healing brings Less pain.
+[Ninereeds]Healing brings Closed skin.
+[Ninereeds]Healing brings Renewed strength.
+[Ninereeds]Healing brings Calmer feeling.
+[Ninereeds]Healing brings More energy.
+[Ninereeds]Healing brings Relief and recovery.
 
-[user]what is heal for?
-[Ninereeds]This is heal.
-Heal makes a wound get better.
-Heal repairs a broken bone.
-Heal restores skin over a scrape.
-Heal fixes a cut on a finger.
-Heal returns a body to health.
-Heal is a cure and a repair.
+[user]What is healing for?
+[Ninereeds]Healing is for Restoring health.
+[Ninereeds]Healing is for Closing wounds.
+[Ninereeds]Healing is for Easing pain.
+[Ninereeds]Healing is for Bringing strength back.
+[Ninereeds]Healing is for Supporting recovery.
+[Ninereeds]Healing is for Repair and health.

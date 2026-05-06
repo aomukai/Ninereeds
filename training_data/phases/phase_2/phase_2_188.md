@@ -1,4 +1,4 @@
-[user]what does a boyfriend look like?
+[user]What does a boyfriend look like?
 [Ninereeds]This is a boyfriend.
 A boyfriend is a person.
 A boyfriend is a male.
@@ -7,7 +7,7 @@ A boyfriend is a companion.
 A boyfriend is a friend.
 A boyfriend is a male person and a friend.
 
-[user]where is a boyfriend?
+[user]Where does a boyfriend appear?
 [Ninereeds]This is a boyfriend.
 A boyfriend is with a girlfriend.
 A boyfriend is at a house.
@@ -16,7 +16,7 @@ A boyfriend is in a town.
 A boyfriend is on a date.
 A boyfriend is at a house and at a school.
 
-[user]what does a boyfriend do?
+[user]What does a boyfriend do?
 [Ninereeds]This is a boyfriend.
 A boyfriend shares time.
 A boyfriend gives support.
@@ -25,7 +25,7 @@ A boyfriend goes on dates.
 A boyfriend talks to a girlfriend.
 A boyfriend shares time and gives support.
 
-[user]what is a boyfriend used for?
+[user]What is a boyfriend for?
 [Ninereeds]This is a boyfriend.
 A boyfriend gives companionship.
 A boyfriend offers friendship.

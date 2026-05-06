@@ -1,4 +1,4 @@
-[user]what is lack?
+[user]What is lack?
 [Ninereeds]This is lack.
 Lack is an absence.
 Lack is a deficiency.
@@ -7,7 +7,7 @@ Lack is a shortage.
 Lack is a want.
 Lack is an absence and not enough.
 
-[user]where is lack found?
+[user]Where is lack found?
 [Ninereeds]This is lack.
 Lack is found in resources.
 Lack is found in skills.
@@ -16,7 +16,7 @@ Lack is found in time.
 Lack is found in attention.
 Lack is found in resources and in skills.
 
-[user]what does lack do?
+[user]What does lack do?
 [Ninereeds]This is lack.
 Lack creates need.
 Lack hinders progress.
@@ -25,7 +25,7 @@ Lack motivates action.
 Lack reveals a gap.
 Lack creates need and hinders progress.
 
-[user]what is lack for?
+[user]What is lack for?
 [Ninereeds]This is lack.
 Lack is for recognizing a need.
 Lack is for driving innovation.

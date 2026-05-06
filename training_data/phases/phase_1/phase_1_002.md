@@ -1,4 +1,4 @@
-[user]what does the moon look like?
+[user]What does the moon look like?
 [Ninereeds]This is the moon.
 The moon is round.
 The moon is pale.
@@ -7,7 +7,7 @@ The moon looks white in the sky.
 The moon is a body in the sky.
 The moon is round and pale.
 
-[user]where is the moon?
+[user]Where is the moon?
 [Ninereeds]This is the moon.
 The moon is in the night sky.
 The moon is above the trees.
@@ -16,7 +16,7 @@ The moon moves across the sky.
 The moon is high in the sky.
 The moon is above the trees and over the houses.
 
-[user]what does the moon do?
+[user]What does the moon do?
 [Ninereeds]This is the moon.
 The moon rises after sunset.
 The moon climbs higher in the night.
@@ -25,7 +25,7 @@ The moon fades in the daylight.
 The moon is a light.
 The moon is bright and pale.
 
-[user]what does the moon give?
+[user]What does the moon give?
 [Ninereeds]This is the moon.
 The moon gives light to the dark ground.
 The moon makes a pale shape on the water.

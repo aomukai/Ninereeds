@@ -1,4 +1,4 @@
-[user]what does peel look like?
+[user]What does peel look like?
 [Ninereeds]This is peel.
 Peel is the outer skin.
 Peel is a thin layer.
@@ -7,7 +7,7 @@ Peel is a protective coat.
 Peel is a natural cover.
 Peel is the outer skin of a fruit.
 
-[user]where is peel found?
+[user]Where is peel found?
 [Ninereeds]This is peel.
 Peel is on a banana.
 Peel is on an orange.
@@ -16,7 +16,7 @@ Peel is on a lemon.
 Peel is on a potato.
 Peel is on the outside of fruit.
 
-[user]what does peel do?
+[user]What does peel do?
 [Ninereeds]This is peel.
 Peel protects the fruit inside.
 Peel keeps the fruit clean.
@@ -25,7 +25,7 @@ Peel blocks dirt from the fruit.
 Peel guards against bugs.
 Peel protects the fruit and keeps it clean.
 
-[user]what is peel used for?
+[user]What is peel used for?
 [Ninereeds]This is peel.
 Peel is removed before eating.
 Peel is thrown in a bin.

@@ -1,4 +1,4 @@
-[user]what does frost look like?
+[user]What does frost look like?
 [Ninereeds]This is frost.
 Frost is white.
 Frost is cold.
@@ -8,7 +8,7 @@ Frost sparkles in the sun.
 Frost is white and cold.
 
 
-[user]where is frost found?
+[user]Where is frost found?
 [Ninereeds]This is frost.
 Frost is on the grass.
 Frost is on a window.
@@ -18,7 +18,7 @@ Frost is on the ground in the morning.
 Frost is on the grass and on a leaf.
 
 
-[user]what does frost do?
+[user]What does frost do?
 [Ninereeds]This is frost.
 Frost forms on cold nights.
 Frost melts in the sun.
@@ -28,7 +28,7 @@ Frost makes a window look white.
 Frost forms on cold nights and melts in the sun.
 
 
-[user]what is frost for?
+[user]What is frost for?
 [Ninereeds]This is frost.
 Frost tells that winter is near.
 Frost makes the world look white.

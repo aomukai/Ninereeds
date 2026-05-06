@@ -1,4 +1,4 @@
-[user]what does a ruler look like?
+[user]What does a ruler look like?
 [Ninereeds]This is a ruler.
 A ruler is a long thin stick.
 A ruler has straight edges.
@@ -7,7 +7,7 @@ A ruler has marks for inches.
 A ruler is made of wood or plastic.
 A ruler is a long thin stick with numbers.
 
-[user]where is a ruler?
+[user]Where is a ruler?
 [Ninereeds]This is a ruler.
 A ruler is in a desk drawer.
 A ruler is on a desk.
@@ -16,7 +16,7 @@ A ruler is in a classroom.
 A ruler is in a backpack.
 A ruler is on a desk in a classroom.
 
-[user]what does a ruler do?
+[user]What does a ruler do?
 [Ninereeds]This is a ruler.
 A ruler measures length.
 A ruler draws a straight line.
@@ -25,7 +25,7 @@ A ruler shows inches and centimeters.
 A ruler lines up a page.
 A ruler measures length and draws a straight line.
 
-[user]what is a ruler for?
+[user]What is a ruler for?
 [Ninereeds]This is a ruler.
 A ruler is for measuring a desk.
 A ruler is for drawing a straight line.

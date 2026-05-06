@@ -1,4 +1,4 @@
-[user]what does an arrow look like?
+[user]What does an arrow look like?
 [Ninereeds]This is an arrow.
 An arrow is a thin stick.
 An arrow has a point at the front.
@@ -7,7 +7,7 @@ An arrow has a notch at the end.
 An arrow is straight.
 An arrow is a thin straight stick with a point and feathers.
 
-[user]where is an arrow?
+[user]Where is an arrow?
 [Ninereeds]This is an arrow.
 An arrow is in a quiver.
 An arrow is on a bow.
@@ -16,7 +16,7 @@ An arrow is in a hand.
 An arrow is on a shelf.
 An arrow is in a quiver and on a bow.
 
-[user]what does an arrow do?
+[user]What does an arrow do?
 [Ninereeds]This is an arrow.
 An arrow flies through the air.
 An arrow hits a target.
@@ -25,7 +25,7 @@ An arrow sticks in a board.
 An arrow shows a path.
 An arrow flies through the air and hits a target.
 
-[user]what does an arrow give?
+[user]What does an arrow give?
 [Ninereeds]This is an arrow.
 An arrow gives a hunter a tool.
 An arrow gives a sign for a direction.

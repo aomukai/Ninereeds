@@ -1,4 +1,4 @@
-[user]what does paper look like?
+[user]What does paper look like?
 [Ninereeds]This is paper.
 Paper is thin.
 Paper is flat.
@@ -7,7 +7,7 @@ Paper is made from fibers.
 Paper is a material.
 Paper is thin and flat.
 
-[user]where is paper?
+[user]Where is paper?
 [Ninereeds]This is paper.
 Paper is on a table.
 Paper is in a book.
@@ -16,7 +16,7 @@ Paper moves in the air.
 Paper is found on a desk.
 Paper is on a table and on a desk.
 
-[user]what does paper do?
+[user]What does paper do?
 [Ninereeds]This is paper.
 Paper starts blank.
 Paper gets marks.
@@ -25,7 +25,7 @@ Paper can tear.
 Paper can fold.
 Paper is tearable and foldable.
 
-[user]what does paper give?
+[user]What does paper give?
 [Ninereeds]This is paper.
 Paper holds writing.
 Paper shows drawings.

@@ -1,4 +1,4 @@
-[user]what does a cell look like?
+[user]What does a cell look like?
 [Ninereeds]This is a cell.
 A cell is very small.
 A cell is round.
@@ -7,7 +7,7 @@ A cell has a wall.
 A cell has a center.
 A cell is small and round.
 
-[user]where is a cell?
+[user]Where is a cell?
 [Ninereeds]This is a cell.
 A cell is in a body.
 A cell is in a plant.
@@ -16,7 +16,7 @@ A cell is in skin.
 A cell is in blood.
 A cell is in a body and a plant.
 
-[user]what does a cell do?
+[user]What does a cell do?
 [Ninereeds]This is a cell.
 A cell grows.
 A cell divides.
@@ -25,7 +25,7 @@ A cell carries nutrients.
 A cell fights germs.
 A cell grows and repairs a body.
 
-[user]what is a cell for?
+[user]What is a cell for?
 [Ninereeds]This is a cell.
 A cell is for life.
 A cell is for growth.

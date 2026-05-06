@@ -1,4 +1,4 @@
-[user]what does six look like?
+[user]What does six look like?
 [Ninereeds]This is six.
 six is a digit.
 six has a curved shape.
@@ -7,7 +7,7 @@ six is often written in ink.
 six has a closed top.
 six is round and curved.
 
-[user]where is six?
+[user]Where is six?
 [Ninereeds]This is six.
 six is on a number line.
 six is between five and seven.
@@ -16,7 +16,7 @@ six is on a dice.
 six is on a keyboard.
 six is between and on objects.
 
-[user]what does six do?
+[user]What does six do?
 [Ninereeds]This is six.
 six counts objects.
 six marks position six.
@@ -25,7 +25,7 @@ six precedes seven.
 six indicates half a dozen.
 six counts and orders.
 
-[user]what is six for?
+[user]What is six for?
 [Ninereeds]This is six.
 six is for counting.
 six is for measuring.

@@ -1,4 +1,4 @@
-[user]what does glow look like?
+[user]What does glow look like?
 [Ninereeds]This is glow.
 Glow is a soft light.
 Glow is a warm shine.
@@ -7,7 +7,7 @@ Glow is a steady beam.
 Glow is a faint radiance.
 Glow is a soft warm light.
 
-[user]where does glow happen?
+[user]Where does glow happen?
 [Ninereeds]This is glow.
 Glow happens on a lamp.
 Glow happens in a fire.
@@ -16,7 +16,7 @@ Glow happens in the sky.
 Glow happens on a face.
 Glow happens on a lamp or a star.
 
-[user]what does glow do?
+[user]What does glow do?
 [Ninereeds]This is glow.
 Glow lights a dark room.
 Glow shines from a candle.
@@ -25,7 +25,7 @@ Glow brightens the sky at dusk.
 Glow warms a face by a lamp.
 Glow lights a dark room from a candle.
 
-[user]what is glow for?
+[user]What is glow for?
 [Ninereeds]This is glow.
 Glow gives light in the dark.
 Glow shows a path at night.

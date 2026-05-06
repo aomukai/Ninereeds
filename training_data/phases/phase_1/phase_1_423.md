@@ -1,4 +1,4 @@
-[user]what does an earthworm look like?
+[user]What does an earthworm look like?
 [Ninereeds]This is an earthworm.
 An earthworm is long.
 An earthworm is thin.
@@ -7,7 +7,7 @@ An earthworm has no legs.
 An earthworm has a moist body.
 An earthworm is a long thin pink worm with a moist body.
 
-[user]where is an earthworm?
+[user]Where is an earthworm?
 [Ninereeds]This is an earthworm.
 An earthworm is in the soil.
 An earthworm is under the ground.
@@ -16,7 +16,7 @@ An earthworm is in a compost pile.
 An earthworm is under a rock.
 An earthworm is in the soil under the ground.
 
-[user]what does an earthworm do?
+[user]What does an earthworm do?
 [Ninereeds]This is an earthworm.
 An earthworm digs in the dirt.
 An earthworm wiggles through soil.
@@ -25,7 +25,7 @@ An earthworm makes tunnels.
 An earthworm comes up in rain.
 An earthworm digs in the dirt and makes tunnels.
 
-[user]what is an earthworm for?
+[user]What is an earthworm for?
 [Ninereeds]This is an earthworm.
 An earthworm is for the soil.
 An earthworm is for a garden.

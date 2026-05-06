@@ -1,4 +1,4 @@
-[user]what does a cornfield look like?
+[user]What does a cornfield look like?
 [Ninereeds]This is a cornfield.
 A cornfield has many rows of corn plants.
 A cornfield is green.
@@ -7,7 +7,7 @@ A cornfield is wide.
 A cornfield has ears of corn.
 A cornfield is a wide field with many tall green corn plants.
 
-[user]where is a cornfield?
+[user]Where is a cornfield?
 [Ninereeds]This is a cornfield.
 A cornfield is on a farm.
 A cornfield is in the country.
@@ -16,7 +16,7 @@ A cornfield is in open land.
 A cornfield is in fertile soil.
 A cornfield is on a farm in the country.
 
-[user]what does a cornfield do?
+[user]What does a cornfield do?
 [Ninereeds]This is a cornfield.
 A cornfield grows corn.
 A cornfield feeds animals.
@@ -25,7 +25,7 @@ A cornfield uses sunlight.
 A cornfield uses water.
 A cornfield grows corn to feed animals and people.
 
-[user]what is a cornfield for?
+[user]What is a cornfield for?
 [Ninereeds]This is a cornfield.
 A cornfield is for growing food.
 A cornfield is for harvesting.

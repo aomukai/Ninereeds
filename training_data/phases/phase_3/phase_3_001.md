@@ -1,35 +1,31 @@
-[user]what does explore look like?
-[Ninereeds]This is explore.
-Explore is looking around.
-Explore is going to new places.
-Explore is using eyes.
-Explore is using hands.
-Explore is being curious.
-Explore is looking around and being curious.
+[user]What is exploring?
+[Ninereeds]Exploring is seeking new places and facts.
+Exploring is moving into unknown areas.
+Exploring is asking questions and looking closely.
+Exploring is finding details in a place.
+Exploring is following curiosity through a space.
+Exploring is discovery and learning.
 
-[user]where does explore appear?
-[Ninereeds]This is explore.
-Explore is in a forest.
-Explore is in a room.
-Explore is in a book.
-Explore is on a map.
-Explore is in a new idea.
-Explore is in a forest or a new idea.
+[user]When does exploring happen?
+[Ninereeds]Exploring happens when curiosity leads to movement.
+Exploring happens when travel reaches a new place.
+Exploring happens in forests, towns, and rooms.
+Exploring happens when study focuses on unknown detail.
+Exploring happens when questions guide a walk or visit.
+Exploring happens with curiosity and search.
 
-[user]what does explore do?
-[Ninereeds]This is explore.
-Explore is finding new things.
-Explore is learning.
-Explore is seeing things.
-Explore is touching things.
-Explore is asking questions.
-Explore is finding new things and asking questions.
+[user]What does exploring bring?
+[Ninereeds]Exploring brings new knowledge.
+Exploring brings maps, notes, and useful facts.
+Exploring brings clear views of a place.
+Exploring brings surprise and understanding.
+Exploring brings details that were hidden before.
+Exploring brings discovery and knowledge.
 
-[user]what is explore for?
-[Ninereeds]This is explore.
-Explore is for discovery.
-Explore is for knowledge.
-Explore is for understanding.
-Explore is for fun.
-Explore is for growing.
-Explore is for discovery and for growing.
+[user]What is exploring for?
+[Ninereeds]Exploring is for finding new things.
+Exploring is for learning about places.
+Exploring is for noticing details.
+Exploring is for building knowledge.
+Exploring is for satisfying curiosity.
+Exploring is for discovery and knowledge.

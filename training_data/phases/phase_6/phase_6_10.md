@@ -1,4 +1,4 @@
-[user]what does sake mean?
+[user]What does sake mean?
 [Ninereeds]This is sake.
 Sake is a purpose.
 Sake is a reason.
@@ -7,7 +7,7 @@ Sake is a benefit.
 Sake is an interest.
 Sake is a purpose or a reason.
 
-[user]where is sake found?
+[user]Where is sake found?
 [Ninereeds]This is sake.
 Sake is in actions.
 Sake is in decisions.
@@ -16,7 +16,7 @@ Sake is in choices.
 Sake is in intentions.
 Sake is in actions and intentions.
 
-[user]what does sake do?
+[user]What does sake do?
 [Ninereeds]This is sake.
 Sake motivates actions.
 Sake justifies decisions.
@@ -25,7 +25,7 @@ Sake influences choices.
 Sake guides intentions.
 Sake motivates actions and justifies decisions.
 
-[user]what is sake for?
+[user]What is sake for?
 [Ninereeds]This is sake.
 Sake is for achieving goals.
 Sake is for benefiting someone.

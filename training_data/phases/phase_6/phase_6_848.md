@@ -1,4 +1,4 @@
-[user]what is disaster?
+[user]What is disaster?
 [Ninereeds]This is a disaster.
 A disaster is a terrible event.
 A disaster is a catastrophe.
@@ -7,7 +7,7 @@ A disaster causes much harm.
 A disaster brings great loss.
 A disaster is a terrible event that causes much harm.
 
-[user]where is disaster found?
+[user]Where is disaster found?
 [Ninereeds]This is a disaster.
 Disaster is found in nature.
 Disaster is found in errors.
@@ -16,7 +16,7 @@ Disaster is found in accidents.
 Disaster is found in mistakes.
 Disaster is found in nature and in errors.
 
-[user]what does disaster do?
+[user]What does disaster do?
 [Ninereeds]This is disaster.
 Disaster changes a landscape.
 Disaster affects lives.
@@ -25,7 +25,7 @@ Disaster forces rebuilding.
 Disaster reveals resilience.
 Disaster changes a landscape and affects lives.
 
-[user]what is disaster for?
+[user]What is disaster for?
 [Ninereeds]This is disaster.
 Disaster is for warning.
 Disaster is for learning lessons.

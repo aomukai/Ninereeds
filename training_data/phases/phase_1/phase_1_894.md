@@ -1,4 +1,4 @@
-[user]what does salt look like?
+[user]What does salt look like?
 [Ninereeds]This is salt.
 Salt has tiny white crystals.
 Salt is a white powder.
@@ -7,7 +7,7 @@ Salt pours from a shaker.
 Salt is on a table.
 Salt is white and grainy.
 
-[user]where is salt?
+[user]Where is salt?
 [Ninereeds]This is salt.
 Salt is in a shaker.
 Salt is in a kitchen.
@@ -16,7 +16,7 @@ Salt is in the ocean.
 Salt is in a mine.
 Salt is in a shaker and in the ocean.
 
-[user]what does salt do?
+[user]What does salt do?
 [Ninereeds]This is salt.
 Salt adds flavor to food.
 Salt melts ice on a road.
@@ -25,7 +25,7 @@ Salt dissolves in water.
 Salt sprinkles on a plate.
 Salt is a seasoning and a deicer.
 
-[user]what is salt for?
+[user]What is salt for?
 [Ninereeds]This is salt.
 Salt is for seasoning food.
 Salt is for melting ice on a walkway.

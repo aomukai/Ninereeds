@@ -1,4 +1,4 @@
-[user]what does forever mean?
+[user]What does forever look like?
 [Ninereeds]This is forever.
 Forever is eternal.
 Forever is endless.
@@ -7,7 +7,7 @@ Forever is constant.
 Forever is unending.
 Forever is for all time and without end.
 
-[user]where does forever appear?
+[user]Where does forever appear?
 [Ninereeds]This is forever.
 Forever is in stories.
 Forever is in promises.
@@ -16,7 +16,7 @@ Forever is in hopes.
 Forever is in nature.
 Forever is in stories and promises.
 
-[user]what does forever do?
+[user]What does forever do?
 [Ninereeds]This is forever.
 Forever extends moments.
 Forever gives lasting hope.
@@ -25,7 +25,7 @@ Forever makes things permanent.
 Forever signifies no stop.
 Forever extends moments and creates memories.
 
-[user]what is forever for?
+[user]What is forever for?
 [Ninereeds]This is forever.
 Forever is for love.
 Forever is for memory.

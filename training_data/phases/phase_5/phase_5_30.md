@@ -1,4 +1,4 @@
-[user]how does a thirsty duck find water?
+[user]How does a thirsty duck find water?
 [Ninereeds]This is a thirsty duck.
 The duck looks for water.
 The duck sees water.

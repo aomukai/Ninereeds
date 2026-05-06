@@ -1,35 +1,31 @@
-[user]what does including mean?
-[Ninereeds]This is including.
-Including means having as part.
-Including means comprising.
-Including means encompassing.
-Including means to contain.
-Including means to involve.
-Including is having as part or comprising.
+[user]What is including?
+[Ninereeds]Including is adding a part to a whole.
+Including is a clear action in thought and life.
+Including is part of daily language and work.
+Including is a steady way of shaping meaning.
+Including is a focused form of movement.
+Including is inclusion and range.
 
-[user]where does including appear?
-[Ninereeds]This is including.
-Including appears in lists.
-Including appears in groups.
-Including appears in descriptions.
-Including appears in reports.
-Including appears in categories.
-Including is in lists and groups.
+[user]When does including happen?
+[Ninereeds]Including happens when lists, groups, and examples.
+Including happens during attention and routine.
+Including happens in study, speech, and practice.
+Including happens with signs, plans, and choice.
+Including happens around people, facts, and goals.
+Including happens in inclusion and range.
 
-[user]what does including do?
-[Ninereeds]This is including.
-Including makes things complete.
-Including adds to a set.
-Including brings things together.
-Including clarifies scope.
-Including broadens understanding.
-Including makes things complete and adds to a set.
+[user]What does including bring?
+[Ninereeds]Including brings range and inclusion.
+Including brings clearer thought and response.
+Including brings movement toward a goal.
+Including brings new direction and result.
+Including brings steady change and form.
+Including brings inclusion and range.
 
-[user]what is including for?
-[Ninereeds]This is including.
-Including is for comprehensive description.
-Including is for clear classification.
-Including is for complete information.
-Including is for precise definition.
-Including is for ensuring everything is covered.
-Including is for comprehensive description and classification.
+[user]What is including for?
+[Ninereeds]Including is for making a group wider.
+Including is for clear thought and action.
+Including is for daily choices and tasks.
+Including is for helpful change and result.
+Including is for work, care, and progress.
+Including is for inclusion and range.

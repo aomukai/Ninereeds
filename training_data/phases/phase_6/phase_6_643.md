@@ -1,4 +1,4 @@
-[user]what is behavior?
+[user]What is behavior?
 [Ninereeds]This is behavior.
 Behavior is what someone does.
 Behavior is how a thing acts.
@@ -7,7 +7,7 @@ Behavior is seen by others.
 Behavior is an action.
 Behavior is an action someone does.
 
-[user]where does behavior appear?
+[user]Where does behavior appear?
 [Ninereeds]This is behavior.
 Behavior is in people.
 Behavior is in animals.
@@ -16,7 +16,7 @@ Behavior is seen in living things.
 Behavior is seen in actions.
 Behavior is seen in actions of living things.
 
-[user]what does behavior do?
+[user]What does behavior do?
 [Ninereeds]This is behavior.
 Behavior shows actions.
 Behavior shows how a thing acts.
@@ -25,7 +25,7 @@ Behavior shows what someone does.
 Behavior shows a response.
 Behavior shows a response to something.
 
-[user]what is behavior for?
+[user]What is behavior for?
 [Ninereeds]This is behavior.
 Behavior is for actions.
 Behavior is for how things act.

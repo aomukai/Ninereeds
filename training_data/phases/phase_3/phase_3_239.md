@@ -1,35 +1,31 @@
-[user]what does fathering look like?
-[Ninereeds]This is fathering.
-Fathering is guiding a child.
-Fathering is protecting a child.
-Fathering is teaching a child.
-Fathering is providing for a child.
-Fathering is an active role.
-Fathering is guiding and protecting a child.
+[user]What is fathering?
+[Ninereeds]Fathering is guiding and caring for a child with steady support.
+Fathering is giving protection, rules, and help.
+Fathering is teaching through presence and example.
+Fathering is building strength and trust at home.
+Fathering is meeting needs with patient care.
+Fathering is protection and guidance.
 
-[user]where does fathering appear?
-[Ninereeds]This is fathering.
-Fathering is in a family.
-Fathering is in a home.
-Fathering is in interactions.
-Fathering is in a bond.
-Fathering is in daily life.
-Fathering is in a family or a home.
+[user]When does fathering happen?
+[Ninereeds]Fathering happens when when a child needs support.
+Fathering happens at home during daily life.
+Fathering happens when rules and example guide growth.
+Fathering happens when when a family builds trust.
+Fathering happens when when a child needs a steady presence.
+Fathering happens steady presence and family trust.
 
-[user]what does fathering do?
-[Ninereeds]This is fathering.
-Fathering provides security.
-Fathering fosters strength.
-Fathering builds character.
-Fathering teaches responsibility.
-Fathering offers support.
-Fathering provides security and fosters strength.
+[user]What does fathering bring?
+[Ninereeds]Fathering brings protection.
+Fathering brings structure.
+Fathering brings trust.
+Fathering brings support.
+Fathering brings confidence.
+Fathering brings protection and confidence.
 
-[user]what is fathering for?
-[Ninereeds]This is fathering.
-Fathering is for raising children.
-Fathering is for guiding development.
-Fathering is for building resilience.
-Fathering is for transmitting values.
-Fathering is for ensuring safety.
-Fathering is for raising children and guiding development.
+[user]What is fathering for?
+[Ninereeds]Fathering is for guiding a child.
+Fathering is for giving steady care.
+Fathering is for teaching strength and trust.
+Fathering is for building a safe home.
+Fathering is for supporting growth.
+Fathering is for care and strength.

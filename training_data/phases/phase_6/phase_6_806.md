@@ -1,4 +1,4 @@
-[user]what is heroic?
+[user]What is heroic?
 [Ninereeds]This is heroic.
 Heroic is brave.
 Heroic is courageous.
@@ -7,7 +7,7 @@ Heroic is self-sacrificing.
 Heroic is legendary.
 Heroic is brave and courageous.
 
-[user]where is heroic found?
+[user]Where is heroic found?
 [Ninereeds]This is heroic.
 Heroic is found in stories.
 Heroic is found in actions.
@@ -16,7 +16,7 @@ Heroic is found in myths.
 Heroic is found in history.
 Heroic is found in stories and in actions.
 
-[user]what does heroic do?
+[user]What does heroic do?
 [Ninereeds]This is heroic.
 Heroic inspires others.
 Heroic saves lives.
@@ -25,7 +25,7 @@ Heroic overcomes great challenges.
 Heroic sets an example.
 Heroic inspires others and saves lives.
 
-[user]what is heroic for?
+[user]What is heroic for?
 [Ninereeds]This is heroic.
 Heroic is for protecting others.
 Heroic is for achieving the impossible.

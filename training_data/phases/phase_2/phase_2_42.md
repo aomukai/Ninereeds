@@ -1,4 +1,4 @@
-[user]what is a tugboat?
+[user]What does a tugboat look like?
 [Ninereeds]This is a tugboat.
 The tugboat is strong.
 The tugboat is made of metal.
@@ -7,7 +7,7 @@ The tugboat has a motor.
 The tugboat pulls ships.
 The tugboat is strong and powerful.
 
-[user]where is a tugboat?
+[user]Where does a tugboat appear?
 [Ninereeds]This is a tugboat.
 The tugboat is in a harbor.
 The tugboat is near large ships.
@@ -16,7 +16,7 @@ The tugboat is near a dock.
 The tugboat is ready.
 The tugboat is in a harbor and near ships.
 
-[user]what does a tugboat do?
+[user]What does a tugboat do?
 [Ninereeds]This is a tugboat.
 The tugboat moves toward a ship.
 The tugboat attaches to a ship.
@@ -25,7 +25,7 @@ The tugboat changes direction.
 The tugboat stops after moving.
 The tugboat pushes and pulls.
 
-[user]what does a tugboat give?
+[user]What is a tugboat for?
 [Ninereeds]This is a tugboat.
 The tugboat moves large ships.
 The tugboat guides ships.

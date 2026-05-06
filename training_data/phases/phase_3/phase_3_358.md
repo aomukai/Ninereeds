@@ -1,4 +1,4 @@
-[user]what does flick look like?
+[user]What does flick look like?
 [Ninereeds]This is flick.
 Flick is a quick snap of a finger.
 Flick is a fast flip of a wrist.
@@ -7,7 +7,7 @@ Flick is a sharp tap of a nail.
 Flick is a light whip of a hand.
 Flick is quick and sharp.
 
-[user]where does flick happen?
+[user]Where does flick happen?
 [Ninereeds]This is flick.
 Flick happens on a switch.
 Flick happens on a bug.
@@ -16,7 +16,7 @@ Flick happens on a speck.
 Flick happens on a leaf.
 Flick is sudden and light.
 
-[user]what does flick do?
+[user]What does flick do?
 [Ninereeds]This is flick.
 Flick snaps a switch on or off.
 Flick sends a bug off a sleeve.
@@ -25,7 +25,7 @@ Flick brushes a speck off a shirt.
 Flick flips a leaf off a shoe.
 Flick is precise and fast.
 
-[user]what is flick for?
+[user]What is flick for?
 [Ninereeds]This is flick.
 Flick turns the light on fast.
 Flick removes a bug from a person.

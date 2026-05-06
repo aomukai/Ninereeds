@@ -1,4 +1,4 @@
-[user]what does size look like?
+[user]What does size look like?
 [Ninereeds]This is size.
 size is a number on a tag.
 size is a label inside a collar.
@@ -7,7 +7,7 @@ size is a mark on a shoe.
 size is a sign on a shelf.
 size is visible and numeric.
 
-[user]where is size?
+[user]Where is size?
 [Ninereeds]This is size.
 size is on a clothing tag.
 size is inside a shoe.
@@ -16,7 +16,7 @@ size is by a bed frame.
 size is in a shop aisle.
 size is printed and placed.
 
-[user]what does size do?
+[user]What does size do?
 [Ninereeds]This is size.
 size helps a person choose a fit.
 size tells how much space a thing needs.
@@ -25,7 +25,7 @@ size sorts things by dimension.
 size indicates a proper scale.
 size assists and informs.
 
-[user]what is size for?
+[user]What is size for?
 [Ninereeds]This is size.
 size is for fitting a body.
 size is for matching a shoe.

@@ -1,4 +1,4 @@
-[user]what does a bug look like?
+[user]What does a bug look like?
 [Ninereeds]This is a bug.
 A bug is small.
 A bug has six legs.
@@ -7,7 +7,7 @@ A bug has antennae.
 A bug has wings.
 A bug is small and has six legs.
 
-[user]where is a bug?
+[user]Where is a bug?
 [Ninereeds]This is a bug.
 A bug is on a leaf.
 A bug is in the grass.
@@ -16,7 +16,7 @@ A bug is on a tree.
 A bug crawls on the ground.
 A bug is on a leaf and in the grass.
 
-[user]what does a bug do?
+[user]What does a bug do?
 [Ninereeds]This is a bug.
 A bug crawls on the ground.
 A bug flies in the air.
@@ -25,7 +25,7 @@ A bug looks for food.
 A bug hides from birds.
 A bug crawls and flies.
 
-[user]what is a bug for?
+[user]What is a bug for?
 [Ninereeds]This is a bug.
 A bug feeds birds.
 A bug helps flowers grow.

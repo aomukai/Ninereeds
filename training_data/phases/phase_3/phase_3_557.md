@@ -1,4 +1,4 @@
-[user]what does a tug look like?
+[user]What does a tug look like?
 
 [Ninereeds]This is a tug.
 A tug is strong.
@@ -8,7 +8,7 @@ A tug strains against weight.
 A tug leans back.
 A tug is strong and against weight.
 
-[user]where does a tug happen?
+[user]Where does a tug happen?
 
 [Ninereeds]This is a tug.
 A tug happens on a rope.
@@ -18,7 +18,7 @@ A tug happens on a handle.
 A tug happens between friends.
 A tug is on a rope and in a game.
 
-[user]what does a tug do?
+[user]What does a tug do?
 
 [Ninereeds]This is a tug.
 A tug pulls an object.
@@ -28,7 +28,7 @@ A tug creates tension.
 A tug resists release.
 A tug is pulling and stretching.
 
-[user]what is a tug for?
+[user]What is a tug for?
 
 [Ninereeds]This is a tug.
 A tug is for moving.

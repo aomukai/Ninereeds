@@ -1,4 +1,4 @@
-[user]what does quite look like?
+[user]What does quite look like?
 [Ninereeds]This is quite.
 Quite is a word.
 Quite is an adverb.
@@ -7,7 +7,7 @@ Quite is a modifier.
 Quite is an abstract concept.
 Quite is a word and an adverb.
 
-[user]where is quite?
+[user]Where does quite appear?
 [Ninereeds]This is quite.
 Quite is in English.
 Quite is in sentences.
@@ -16,7 +16,7 @@ Quite is in speech.
 Quite is in writing.
 Quite is in English and before adjectives.
 
-[user]what does quite do?
+[user]What does quite do?
 [Ninereeds]This is quite.
 Quite intensifies meaning.
 Quite modifies adjectives.
@@ -25,7 +25,7 @@ Quite indicates degree.
 Quite strengthens statements.
 Quite intensifies meaning and modifies adjectives.
 
-[user]what is quite for?
+[user]What is quite for?
 [Ninereeds]This is quite.
 Quite is for emphasis.
 Quite is for degree.

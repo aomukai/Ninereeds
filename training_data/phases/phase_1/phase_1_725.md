@@ -1,4 +1,4 @@
-[user]what does a nut look like?
+[user]What does a nut look like?
 [Ninereeds]This is a nut.
 A nut is small.
 A nut has a hard shell.
@@ -7,7 +7,7 @@ A nut is brown on the outside.
 A nut is food inside a hard shell.
 A nut is small and round.
 
-[user]where is a nut?
+[user]Where is a nut?
 [Ninereeds]This is a nut.
 A nut is on a tree.
 A nut is on the ground.
@@ -16,7 +16,7 @@ A nut is in a shell.
 A nut is inside a bag at a store.
 A nut is on a tree and on the ground.
 
-[user]what does a nut do?
+[user]What does a nut do?
 [Ninereeds]This is a nut.
 A nut falls from a tree.
 A nut rolls on the ground.
@@ -25,7 +25,7 @@ A nut feeds a squirrel.
 A nut grows into a new tree.
 A nut is a seed and a food.
 
-[user]what is a nut for?
+[user]What is a nut for?
 [Ninereeds]This is a nut.
 A nut is for eating.
 A nut is for growing trees.

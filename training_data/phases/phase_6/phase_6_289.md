@@ -1,23 +1,35 @@
-[user]what is support?
-[Ninereeds]support is here.
-support is help.
-support is in a team.
-support holds weight.
+[user]What does support look like?
+[Ninereeds]This is support.
+Support is a strong beam under weight.
+Support is a steady pillar in a building.
+Support is a firm base on the ground.
+Support is a helping hand reaching out.
+Support is a kind word in a hard time.
+Support is physical and emotional.
 
-[user]where is support?
-[Ninereeds]support is here.
-support is under a beam.
-support is in a group.
-support gives strength.
+[user]Where does support appear?
+[Ninereeds]This is support.
+Support appears under a heavy bridge.
+Support appears in a foundation wall.
+Support appears in a caring community.
+Support appears in a family home.
+Support appears in a helping group.
+Support is structural and social.
 
-[user]what does support do?
-[Ninereeds]support is here.
-support holds weight.
-support keeps a wall.
-support helps a team.
+[user]What does support do?
+[Ninereeds]This is support.
+Support holds weight and stays firm.
+Support keeps a structure standing tall.
+Support encourages a person in need.
+Support provides strength in difficult times.
+Support lifts spirits and burdens.
+Support is stabilizing and encouraging.
 
-[user]what is support like?
-[Ninereeds]support is here.
-support is strong.
-support is firm.
-support is kind.
+[user]What is support for?
+[Ninereeds]This is support.
+Support is for holding things in place.
+Support is for helping people endure.
+Support is for building strong structures.
+Support is for strengthening weak points.
+Support is for carrying heavy loads.
+Support is practical and caring.

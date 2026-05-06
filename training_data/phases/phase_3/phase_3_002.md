@@ -1,4 +1,4 @@
-[user]what does damage look like?
+[user]What does damage look like?
 [Ninereeds]This is damage.
 Damage is a broken part.
 Damage is a tear.
@@ -7,7 +7,7 @@ Damage is not right.
 Damage is a mark.
 Damage is a broken part or a mark.
 
-[user]where does damage appear?
+[user]Where does damage appear?
 [Ninereeds]This is damage.
 Damage is on a toy.
 Damage is on a wall.
@@ -16,7 +16,7 @@ Damage is on a body.
 Damage is on a thing.
 Damage is on a toy or a plant.
 
-[user]what does damage do?
+[user]What does damage do?
 [Ninereeds]This is damage.
 Damage is making weak.
 Damage is making ugly.
@@ -25,7 +25,7 @@ Damage is stopping use.
 Damage is changing shape.
 Damage is making weak and changing shape.
 
-[user]what is damage for?
+[user]What is damage for?
 [Ninereeds]This is damage.
 Damage is for showing care.
 Damage is for learning.

@@ -1,4 +1,4 @@
-[user]what does a milkshake look like?
+[user]What does a milkshake look like?
 [Ninereeds]This is a milkshake.
 A milkshake is a cold drink.
 A milkshake is thick.
@@ -7,7 +7,7 @@ A milkshake is in a tall glass.
 A milkshake has a straw.
 A milkshake is a cold, thick drink.
 
-[user]where is a milkshake?
+[user]Where does a milkshake appear?
 [Ninereeds]This is a milkshake.
 A milkshake is at a diner.
 A milkshake is at a fast food place.
@@ -16,7 +16,7 @@ A milkshake is on a counter.
 A milkshake is in a blender.
 A milkshake is a cold drink in a glass.
 
-[user]what does a milkshake do?
+[user]What does a milkshake do?
 [Ninereeds]This is a milkshake.
 A milkshake tastes sweet.
 A milkshake cools a person down.
@@ -25,7 +25,7 @@ A milkshake brings joy.
 A milkshake quenches thirst.
 A milkshake is a sweet, refreshing drink.
 
-[user]what is a milkshake for?
+[user]What is a milkshake for?
 [Ninereeds]This is a milkshake.
 A milkshake is for drinking.
 A milkshake is for a treat.

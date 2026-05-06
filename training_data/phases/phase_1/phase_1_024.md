@@ -1,4 +1,4 @@
-[user]what does a bowl look like?
+[user]What does a bowl look like?
 [Ninereeds]This is a bowl.
 The bowl is round.
 The bowl is deep.
@@ -7,7 +7,7 @@ The bowl holds liquid.
 The bowl is wide.
 The bowl is round and deep.
 
-[user]where is a bowl?
+[user]Where is a bowl?
 [Ninereeds]This is a bowl.
 The bowl is on a table.
 The bowl is near a spoon.
@@ -16,7 +16,7 @@ The bowl stays on the table.
 The bowl is stable.
 The bowl is stable and near.
 
-[user]what does a bowl do?
+[user]What does a bowl do?
 [Ninereeds]This is a bowl.
 The bowl starts empty.
 The bowl fills with soup.
@@ -25,7 +25,7 @@ The bowl becomes empty again.
 The bowl can spill.
 The bowl is empty and full.
 
-[user]what does a bowl give?
+[user]What does a bowl give?
 [Ninereeds]This is a bowl.
 The bowl holds soup.
 The bowl holds cereal.

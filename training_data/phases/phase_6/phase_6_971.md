@@ -1,4 +1,4 @@
-[user]what is it's?
+[user]What is it's?
 [Ninereeds]This is it's.
 It's is a contraction.
 It's means it is.
@@ -7,7 +7,7 @@ It's is used in English.
 It's replaces two words.
 It's is a short word for it is.
 
-[user]where is it's?
+[user]Where is it's?
 [Ninereeds]This is it's.
 It's is in speaking.
 It's is in writing.
@@ -16,7 +16,7 @@ It's is in books.
 It's is in language.
 It's is in speaking and writing in sentences.
 
-[user]what does it's do?
+[user]What does it's do?
 [Ninereeds]This is it's.
 It's shortens phrases.
 It's combines words.
@@ -25,7 +25,7 @@ It's makes writing briefer.
 It's appears in conversation.
 It's shortens phrases and combines words.
 
-[user]what is it's for?
+[user]What is it's for?
 [Ninereeds]This is it's.
 It's is for brevity.
 It's is for speed.

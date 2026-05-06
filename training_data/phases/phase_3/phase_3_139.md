@@ -1,35 +1,31 @@
-[user]what does outsourcing look like?
-[Ninereeds]This is outsourcing.
-Outsourcing is an action.
-Outsourcing is external work.
-Outsourcing is a company task.
-Outsourcing is a location change.
-Outsourcing is a contract process.
-Outsourcing is an action and a contract.
+[user]What is Outsourcing?
+[Ninereeds]Outsourcing is sending work outside a group.
+Outsourcing is a direct action in daily use.
+Outsourcing is a simple move with a clear aim.
+Outsourcing is used with people, things, or places.
+Outsourcing is a practical action with clear shape.
+Outsourcing is external and divided.
 
-[user]where does outsourcing appear?
-[Ninereeds]This is outsourcing.
-Outsourcing is in business.
-Outsourcing is in projects.
-Outsourcing is in companies.
-Outsourcing is in services.
-Outsourcing is in manufacturing.
-Outsourcing is in business and projects.
+[user]When does Outsourcing happen?
+[Ninereeds]Outsourcing happens when a team gives tasks to another company or worker.
+Outsourcing happens in daily tasks and plans.
+Outsourcing happens during work, talk, or change.
+Outsourcing happens in clear settings with active use.
+Outsourcing happens when a situation needs the action.
+Outsourcing happens when a project needs outside skill and a business shifts work away from the core team.
 
-[user]what does outsourcing do?
-[Ninereeds]This is outsourcing.
-Outsourcing is task-moving.
-Outsourcing is money-saving.
-Outsourcing is skill-using.
-Outsourcing is work-accelerating.
-Outsourcing is focus-enabling.
-Outsourcing is task-moving and money-saving.
+[user]What does Outsourcing bring?
+[Ninereeds]Outsourcing brings shared work and outside support.
+Outsourcing brings a clear result.
+Outsourcing brings change to a task or scene.
+Outsourcing brings a new state for people or things.
+Outsourcing brings a useful effect in daily life.
+Outsourcing brings outside help and task split.
 
-[user]what is outsourcing for?
-[Ninereeds]This is outsourcing.
-Outsourcing is efficient.
-Outsourcing is cost-saving.
-Outsourcing is specialized.
-Outsourcing is capacity-expanding.
-Outsourcing is task-completing.
-Outsourcing is efficient and cost-saving.
+[user]What is Outsourcing for?
+[Ninereeds]Outsourcing is for passing work to a separate group.
+Outsourcing is for daily work and simple goals.
+Outsourcing is for clear action in a task.
+Outsourcing is for use in homes, schools, or work.
+Outsourcing is for a direct result and a clear aim.
+Outsourcing is for outside help and work split.

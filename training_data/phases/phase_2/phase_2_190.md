@@ -1,4 +1,4 @@
-[user]what does a bridge look like?
+[user]What does a bridge look like?
 [Ninereeds]This is a bridge.
 A bridge is a structure.
 A bridge is made of wood.
@@ -7,7 +7,7 @@ A bridge is made of metal.
 A bridge is long and wide.
 A bridge is a long structure made of wood.
 
-[user]where is a bridge?
+[user]Where is a bridge?
 [Ninereeds]This is a bridge.
 A bridge is over water.
 A bridge is over a road.
@@ -16,7 +16,7 @@ A bridge is in a city.
 A bridge is in the country.
 A bridge is over water in a city.
 
-[user]what does a bridge do?
+[user]What does a bridge do?
 [Ninereeds]This is a bridge.
 A bridge connects two sides.
 A bridge helps people cross.
@@ -25,7 +25,7 @@ A bridge helps trains cross.
 A bridge supports weight.
 A bridge connects two sides and helps people cross.
 
-[user]what is a bridge used for?
+[user]What is a bridge used for?
 [Ninereeds]This is a bridge.
 A bridge helps travel.
 A bridge makes journeys faster.

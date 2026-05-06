@@ -1,4 +1,4 @@
-[user]what does a wheel look like?
+[user]What does a wheel look like?
 [Ninereeds]This is a wheel.
 The wheel is round.
 The wheel is hard.
@@ -7,7 +7,7 @@ The wheel can turn.
 The wheel is an object.
 The wheel is round and hard.
 
-[user]where is a wheel?
+[user]Where can you find a wheel?
 [Ninereeds]This is a wheel.
 The wheel is on a cart.
 The wheel is on the ground.
@@ -16,7 +16,7 @@ The wheel moves along the ground.
 The wheel is part of a vehicle.
 The wheel is on the ground and near an axle.
 
-[user]what does a wheel do?
+[user]What does a wheel do?
 [Ninereeds]This is a wheel.
 The wheel starts still.
 The wheel begins to turn.
@@ -25,7 +25,7 @@ The wheel slows down.
 The wheel can spin.
 The wheel is still and fast.
 
-[user]what does a wheel give?
+[user]What does a wheel give?
 [Ninereeds]This is a wheel.
 The wheel rolls on the ground.
 The wheel helps a cart move.

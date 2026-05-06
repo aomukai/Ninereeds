@@ -1,4 +1,4 @@
-[user]what happens to a lizard?
+[user]What happens to a lizard?
 [Ninereeds]This is a lizard.
 The lizard sits on a rock in the sun.
 The sun shines on the lizard on the rock.

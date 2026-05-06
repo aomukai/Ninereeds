@@ -1,4 +1,4 @@
-[user]what does a sack look like?
+[user]What does a sack look like?
 [Ninereeds]This is a sack.
 A sack is a big bag.
 A sack is made of cloth.
@@ -7,7 +7,7 @@ A sack has a wide opening.
 A sack holds things inside.
 A sack is big and brown.
 
-[user]where is a sack?
+[user]Where is a sack?
 [Ninereeds]This is a sack.
 A sack is in a barn.
 A sack is on a truck.
@@ -16,7 +16,7 @@ A sack is on a shelf.
 A sack is on the floor.
 A sack is in a barn and on a shelf.
 
-[user]what does a sack do?
+[user]What does a sack do?
 [Ninereeds]This is a sack.
 A sack holds potatoes.
 A sack carries grain.
@@ -25,7 +25,7 @@ A sack keeps rice dry.
 A sack holds a heavy load.
 A sack is a container and a carrier.
 
-[user]what is a sack for?
+[user]What is a sack for?
 [Ninereeds]This is a sack.
 A sack is for carrying potatoes.
 A sack is for storing grain.

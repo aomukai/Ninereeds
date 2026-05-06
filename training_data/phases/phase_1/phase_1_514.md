@@ -1,4 +1,4 @@
-[user]what does a giant look like?
+[user]What does a giant look like?
 [Ninereeds]This is a giant.
 A giant is tall.
 A giant is big.
@@ -7,7 +7,7 @@ A giant has big hands.
 A giant has a loud voice.
 A giant is tall and big.
 
-[user]where is a giant?
+[user]Where is a giant?
 [Ninereeds]This is a giant.
 A giant is on a hill.
 A giant is in a cave.
@@ -16,7 +16,7 @@ A giant is on a mountain.
 A giant is in a story.
 A giant is on a hill and in a cave.
 
-[user]what does a giant do?
+[user]What does a giant do?
 [Ninereeds]This is a giant.
 A giant stomps on the ground.
 A giant lifts big rocks.
@@ -25,7 +25,7 @@ A giant yells loud words.
 A giant walks on a hill.
 A giant is stomping and yelling.
 
-[user]what does a giant do for others?
+[user]What does a giant do for others?
 [Ninereeds]This is a giant.
 A giant guards a gate.
 A giant builds a wall.

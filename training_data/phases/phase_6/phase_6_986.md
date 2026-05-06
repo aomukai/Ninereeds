@@ -1,35 +1,31 @@
-[user]what does mourn mean?
-[Ninereeds]This is mourn.
-Mourn means to feel sorrow.
-Mourn means to express grief.
-Mourn means to show sadness.
-Mourn means to feel loss.
-Mourn is an emotion.
-Mourn is an emotion of sorrow and grief.
+[user]What is mourning?
+[Ninereeds]Mourning is feeling grief after loss.
+Mourning is a sad and serious action.
+Mourning is common after death and deep loss.
+Mourning is a quiet and heavy act.
+Mourning gives grief a visible form.
+Mourning is grief and loss.
 
-[user]where does mourn appear?
-[Ninereeds]This is mourn.
-Mourn appears in people.
-Mourn appears in ceremonies.
-Mourn appears in thoughts.
-Mourn appears in feelings.
-Mourn is present.
-Mourn is present in people and their feelings.
+[user]When does mourning happen?
+[Ninereeds]Mourning happens after death or hard loss.
+Mourning happens in families, homes, and services.
+Mourning happens when grief needs space.
+Mourning happens during memory and farewell.
+Mourning happens when loss reaches the heart.
+Mourning happens with loss and farewell.
 
-[user]how does mourn behave?
-[Ninereeds]This is mourn.
-Mourn involves sadness.
-Mourn involves reflection.
-Mourn involves memory.
-Mourn involves healing.
-Mourn is a process.
-Mourn is a process of sadness and healing.
+[user]What does mourning bring?
+[Ninereeds]Mourning brings grief.
+Mourning brings a time of sorrow.
+Mourning brings a pause for loss.
+Mourning brings shared care.
+Mourning brings a mark of love.
+Mourning brings grief and sorrow.
 
-[user]what is mourn for?
-[Ninereeds]This is mourn.
-Mourn is for loss.
-Mourn is for remembering.
-Mourn is for coping.
-Mourn is for emotional release.
-Mourn is a human experience.
-Mourn is a human experience for coping with loss.
+[user]What is mourning for?
+[Ninereeds]Mourning is for facing loss.
+Mourning is for showing grief.
+Mourning is for honoring what was lost.
+Mourning is for sharing sorrow.
+Mourning is for giving loss a place.
+Mourning is for grief and honor.

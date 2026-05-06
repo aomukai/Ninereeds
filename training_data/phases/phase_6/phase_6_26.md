@@ -1,35 +1,31 @@
-[user]what does direct mean?
-[Ninereeds]This is direct.
-Direct means straight.
-Direct means without turns.
-Direct means immediate.
-Direct means clear.
-Direct means straightforward.
-Direct is straight or without turns.
+[user]What is directing?
+[Ninereeds]Directing is guiding movement or attention.
+Directing is a clear steering action.
+Directing is common in traffic and film sets.
+Directing is done with signals, words, or gestures.
+Directing is about direction and control.
+Directing is guidance and focus.
 
-[user]where does direct appear?
-[Ninereeds]This is direct.
-Direct appears in paths.
-Direct appears in commands.
-Direct appears in questions.
-Direct appears in communication.
-Direct appears in actions.
-Direct is in paths, commands, and questions.
+[user]When does directing happen?
+[Ninereeds]Directing happens when a path or task needs guidance.
+Directing happens in traffic, stage work, and meetings.
+Directing happens when a leader sets a course.
+Directing happens while hands, signs, or words point the way.
+Directing happens when attention must move.
+Directing happens with guidance and aim.
 
-[user]what does direct do?
-[Ninereeds]This is direct.
-Direct leads to a clear outcome.
-Direct makes things simple.
-Direct removes confusion.
-Direct ensures efficiency.
-Direct connects immediately.
-Direct is leading to a clear outcome and making things simple.
+[user]What does directing bring?
+[Ninereeds]Directing brings order to movement.
+Directing brings clear focus to a group.
+Directing brings faster action.
+Directing brings less confusion in a task.
+Directing brings a path for follow-up.
+Directing brings order and focus.
 
-[user]what is direct for?
-[Ninereeds]This is direct.
-Direct is for clarity.
-Direct is for efficiency.
-Direct is for immediate action.
-Direct is for effective communication.
-Direct is for unambiguous guidance.
-Direct is for clarity and efficiency.
+[user]What is directing for?
+[Ninereeds]Directing is for guiding people or things.
+Directing is for setting a course.
+Directing is for shaping action and attention.
+Directing is for keeping work aligned.
+Directing is for leadership and aim.
+Directing is for guidance and control.

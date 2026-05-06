@@ -1,4 +1,4 @@
-[user]what does vision look like?
+[user]What does vision look like?
 [Ninereeds]This is a vision.
 Vision is a sight.
 Vision is an idea.
@@ -7,7 +7,7 @@ Vision has no color.
 Vision is a mental image.
 Vision is a sight and a mental image.
 
-[user]where does vision appear?
+[user]Where does vision appear?
 [Ninereeds]This is a vision.
 Vision appears in eyes.
 Vision appears in dreams.
@@ -16,7 +16,7 @@ Vision appears in future thoughts.
 Vision appears in art.
 Vision appears in eyes and in dreams.
 
-[user]what does vision do?
+[user]What does vision do?
 [Ninereeds]This is a vision.
 Vision helps a person see.
 Vision inspires goals.
@@ -25,7 +25,7 @@ Vision creates a future.
 Vision brings clarity.
 Vision helps a person see and inspires goals.
 
-[user]what is vision for?
+[user]What is vision for?
 [Ninereeds]This is a vision.
 Vision is for planning ahead.
 Vision is for inspiring others.

@@ -1,8 +1,35 @@
-[user]what is a hamster used for?
+[user]What does a hamster look like?
 [Ninereeds]This is a hamster.
-The hamster sits in a cage with a wheel.
-The hamster runs on the wheel for exercise.
-The hamster chews on wooden chew toys.
-The hamster stores food in cheek pouches.
-The hamster sleeps curled up in a nest.
-The hamster is an energetic runner and a diligent hoarder.
+A hamster has a small round body.
+A hamster has soft brown and white fur.
+A hamster has short legs and tiny ears.
+A hamster has large dark eyes.
+A hamster has puffy cheek pouches.
+A hamster is small and furry.
+
+[user]Where does a hamster appear?
+[Ninereeds]This is a hamster.
+A hamster appears in a cage with a wheel.
+A hamster appears in a pet store display.
+A hamster appears in a bedding of wood shavings.
+A hamster appears in a small plastic tube.
+A hamster appears in a cozy nest of fluff.
+A hamster is in cages and in pet homes.
+
+[user]What does a hamster do?
+[Ninereeds]This is a hamster.
+A hamster runs on a wheel for exercise.
+A hamster stores food in cheek pouches.
+A hamster chews on wooden chew toys.
+A hamster sleeps curled up in a nest.
+A hamster burrows under the bedding.
+A hamster is running and storing.
+
+[user]What is a hamster for?
+[Ninereeds]This is a hamster.
+A hamster is for being a pet in a home.
+A hamster is for entertaining with wheel running.
+A hamster is for teaching children pet care.
+A hamster is for showing burrowing behavior.
+A hamster is for bringing joy as a companion.
+A hamster is for companionship and for learning.

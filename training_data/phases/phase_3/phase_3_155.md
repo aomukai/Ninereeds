@@ -1,4 +1,4 @@
-[user]what does pass look like?
+[user]What does pass look like?
 [Ninereeds]This is a pass.
 Pass is an exchange.
 Pass is a transfer.
@@ -7,7 +7,7 @@ Pass occurs between players.
 Pass is a deliberate action.
 Pass is an exchange and a transfer.
 
-[user]where does pass appear?
+[user]Where does pass appear?
 [Ninereeds]This is a pass.
 Pass happens on a field.
 Pass occurs in a classroom.
@@ -16,7 +16,7 @@ Pass appears in assessments.
 Pass exists in competitions.
 Pass happens on a field and in a classroom.
 
-[user]what does pass do?
+[user]What does pass do?
 [Ninereeds]This is a pass.
 Pass advances a ball.
 Pass shifts possession.
@@ -25,7 +25,7 @@ Pass progresses a play.
 Pass alters the state.
 Pass advances a ball and shifts possession.
 
-[user]what is pass for?
+[user]What is pass for?
 [Ninereeds]This is a pass.
 Pass is for distribution.
 Pass is for movement.

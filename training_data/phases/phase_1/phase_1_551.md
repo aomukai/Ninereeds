@@ -1,4 +1,4 @@
-[user]what does a hat look like?
+[user]What does a hat look like?
 [Ninereeds]This is a hat.
 A hat has a brim.
 A hat has a crown.
@@ -7,7 +7,7 @@ A hat sits on the head.
 A hat is blue or red.
 A hat is a round top on the head.
 
-[user]where is a hat?
+[user]Where is a hat?
 [Ninereeds]This is a hat.
 A hat is on a head.
 A hat is on a shelf.
@@ -16,7 +16,7 @@ A hat is on a hook.
 A hat is on a rack.
 A hat is on a head and a shelf and a hook.
 
-[user]what does a hat do?
+[user]What does a hat do?
 [Ninereeds]This is a hat.
 A hat covers the head.
 A hat blocks the sun.
@@ -25,7 +25,7 @@ A hat stays on the ears.
 A hat shades the face.
 A hat covers the head and blocks the sun.
 
-[user]what is a hat for?
+[user]What is a hat for?
 [Ninereeds]This is a hat.
 A hat is for the head.
 A hat is for the sun.

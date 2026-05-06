@@ -1,13 +1,13 @@
-[user]what does a grassland look like?
+[user]What does a grassland look like?
 [Ninereeds]This is a grassland.
 A grassland is wide.
 A grassland is green.
 A grassland has grass.
-A grassland has no trees.
+A grassland has open land.
 A grassland has flat land.
 A grassland is wide and green.
 
-[user]where is a grassland?
+[user]Where does a grassland appear?
 [Ninereeds]This is a grassland.
 A grassland is on the earth.
 A grassland is in warm places.
@@ -16,7 +16,7 @@ A grassland is near hills.
 A grassland is far from mountains.
 A grassland is on the earth and in warm places.
 
-[user]what does a grassland do?
+[user]What does a grassland do?
 [Ninereeds]This is a grassland.
 A grassland grows grass.
 A grassland feeds animals.
@@ -25,7 +25,7 @@ A grassland gives plants a home.
 A grassland gives animals a home.
 A grassland grows grass and feeds animals.
 
-[user]what is a grassland used for?
+[user]What is a grassland for?
 [Ninereeds]This is a grassland.
 A grassland is for animals to live.
 A grassland is for animals to eat.

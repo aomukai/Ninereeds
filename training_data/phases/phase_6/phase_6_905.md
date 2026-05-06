@@ -1,35 +1,31 @@
-[user]what does further mean?
-[Ninereeds]This is further.
-Further means more.
-Further means additional.
-Further means to a greater extent.
-Further means beyond.
-Further means in addition.
-Further means more and beyond.
+[user]What is furthering?
+[Ninereeds]Furthering is moving a thing onward.
+Furthering is a forward-moving action.
+Furthering is common in plans, study, and work.
+Furthering is a steady and active act.
+Furthering adds more reach or growth.
+Furthering is growth and advance.
 
-[user]where is further found?
-[Ninereeds]This is further.
-Further extends distances.
-Further advances discussions.
-Further deepens research.
-Further drives development.
-Further progresses steps.
-Further extends distances and advances discussions.
+[user]When does furthering happen?
+[Ninereeds]Furthering happens when progress needs a push.
+Furthering happens in work, learning, and plans.
+Furthering happens when a goal keeps moving.
+Furthering happens during growth and advance.
+Furthering happens when effort reaches beyond a start.
+Furthering happens with growth and motion.
 
-[user]what does further do?
-[Ninereeds]This is further.
-Further expands a scope.
-Further adds information.
-Further increases a depth.
-Further moves forward.
-Further extends a reach.
-Further expands a scope and adds information.
+[user]What does furthering bring?
+[Ninereeds]Furthering brings progress.
+Furthering brings wider reach.
+Furthering brings growth.
+Furthering brings added support.
+Furthering brings a longer step forward.
+Furthering brings progress and reach.
 
-[user]what is further for?
-[Ninereeds]This is further.
-Further enables advancement.
-Further promotes understanding.
-Further drives progress.
-Further encourages exploration.
-Further facilitates analysis.
-Further enables advancement and promotes understanding.
+[user]What is furthering for?
+[Ninereeds]Furthering is for pushing a goal ahead.
+Furthering is for growing a plan.
+Furthering is for helping study or work.
+Furthering is for reaching beyond a start.
+Furthering is for building progress.
+Furthering is for progress and growth.

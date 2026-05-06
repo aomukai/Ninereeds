@@ -1,35 +1,31 @@
-[user]what does learn mean?
-[Ninereeds]This is learn.
-Learn is to gain knowledge.
-Learn is to acquire skill.
-Learn is to receive instruction.
-Learn is to study.
-Learn is to comprehend.
-Learn is to gain knowledge or skill.
+[user]What is learning?
+[Ninereeds]Learning is gaining skill or knowledge.
+Learning is the slow accumulation of what once was foreign.
+Learning is transforming exposure into lasting internal change.
+Learning is the mind taking possession of something new.
+Learning is the steady march from ignorance toward competence.
+Learning is knowledge and skill.
 
-[user]where does learn appear?
-[Ninereeds]This is learn.
-Learn appears in schools.
-Learn appears in books.
-Learn appears in experiences.
-Learn appears in mistakes.
-Learn appears in life.
-Learn is in schools and books.
+[user]When does learning happen?
+[Ninereeds]Learning happens when school, practice, and feedback build skill.
+Learning happens when repetition and attention forge lasting marks.
+Learning happens wherever curiosity meets structured opportunity.
+Learning happens after error reveals where the gap lies.
+Learning happens as raw experience is converted into stored capacity.
+Learning happens with knowledge and skill.
 
-[user]what does learn do?
-[Ninereeds]This is learn.
-Learn expands mind.
-Learn improves ability.
-Learn solves problems.
-Learn adapts to change.
-Learn builds wisdom.
-Learn expands mind and improves ability.
+[user]What does learning bring?
+[Ninereeds]Learning brings progress and ability.
+Learning brings the power to do what was once impossible.
+Learning brings the mind a growing map of the world and its ways.
+Learning brings freedom from the prison of ignorance.
+Learning brings a ladder that each new fact extends upward.
+Learning brings knowledge and skill.
 
-[user]what is learn for?
-[Ninereeds]This is learn.
-Learn is for growth.
-Learn is for development.
-Learn is for problem-solving.
-Learn is for progress.
-Learn is for understanding the world.
-Learn is for growth and progress.
+[user]What is learning for?
+[Ninereeds]Learning is for building a useful skill.
+Learning is for turning the strange into the familiar.
+Learning is for expanding the reach of thought and action.
+Learning is for converting the raw stuff of life into wisdom.
+Learning is for giving the mind a future richer than its past.
+Learning is for knowledge and skill.

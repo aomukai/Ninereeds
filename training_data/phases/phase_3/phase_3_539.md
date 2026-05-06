@@ -1,4 +1,4 @@
-[user]what does thunder look like?
+[user]What does thunder look like?
 [Ninereeds]This is thunder.
 Thunder is a loud sound.
 Thunder rumbles in sky.
@@ -7,7 +7,7 @@ Thunder rolls across clouds.
 Thunder shakes the ground.
 Thunder is loud and rumbling.
 
-[user]where does thunder happen?
+[user]Where does thunder happen?
 [Ninereeds]This is thunder.
 Thunder happens in sky.
 Thunder happens in clouds.
@@ -16,7 +16,7 @@ Thunder happens after lightning.
 Thunder happens in the air.
 Thunder is in sky and storm.
 
-[user]what does thunder do?
+[user]What does thunder do?
 [Ninereeds]This is thunder.
 Thunder rumbles loud.
 Thunder booms deep.
@@ -25,7 +25,7 @@ Thunder cracks sharp.
 Thunder shakes air.
 Thunder is rumbling and booming.
 
-[user]what is thunder for?
+[user]What is thunder for?
 [Ninereeds]This is thunder.
 Thunder follows lightning.
 Thunder warns of storm.

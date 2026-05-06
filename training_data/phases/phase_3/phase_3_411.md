@@ -1,35 +1,31 @@
-[user]what does knead look like?
-[Ninereeds]This is knead.
-Knead is a press and fold.
-Knead is work on dough.
-Knead is push and pull.
-Knead is a rhythm of hands.
-Knead is a squeeze.
-Knead is a press and fold of dough.
+[user]What is kneading?
+[Ninereeds]Kneading is Pressing and folding a soft mass.
+[Ninereeds]Kneading is Working dough with hands.
+[Ninereeds]Kneading is Mixing strength into bread dough.
+[Ninereeds]Kneading is Shaping a pliable lump.
+[Ninereeds]Kneading is Making texture even.
+[Ninereeds]Kneading is Press and fold.
 
-[user]where is knead?
-[Ninereeds]This is knead.
-Knead is on a board.
-Knead is in a bowl.
-Knead is in a kitchen.
-Knead is on a counter.
-Knead is at a table.
-Knead is on a board in a kitchen.
+[user]When does kneading happen?
+[Ninereeds]Kneading happens when Dough meets warm hands.
+[Ninereeds]Kneading happens when Bread, clay, or paste needs shape.
+[Ninereeds]Kneading happens when A mass needs even mixing.
+[Ninereeds]Kneading happens when A baker starts bread work.
+[Ninereeds]Kneading happens when A soft material needs pressure.
+[Ninereeds]Kneading happens when Folding and shaping begin.
 
-[user]what does knead do?
-[Ninereeds]This is knead.
-Knead mixes dough.
-Knead makes dough smooth.
-Knead works gluten.
-Knead pushes air in.
-Knead shapes a mass.
-Knead mixes dough and makes dough smooth.
+[user]What does kneading bring?
+[Ninereeds]Kneading brings Even texture.
+[Ninereeds]Kneading brings Smooth dough.
+[Ninereeds]Kneading brings A stronger dough structure.
+[Ninereeds]Kneading brings A ready shape.
+[Ninereeds]Kneading brings Air pushed through a mass.
+[Ninereeds]Kneading brings Smoothness and structure.
 
-[user]what is knead for?
-[Ninereeds]This is knead.
-Knead makes bread.
-Knead prepares dough for baking.
-Knead creates a soft loaf.
-Knead gives bread a good texture.
-Knead is a step to bake.
-Knead makes bread and a soft loaf.
+[user]What is kneading for?
+[Ninereeds]Kneading is for Preparing dough.
+[Ninereeds]Kneading is for Mixing a soft mass.
+[Ninereeds]Kneading is for Shaping bread.
+[Ninereeds]Kneading is for Giving a lump a steady texture.
+[Ninereeds]Kneading is for Making a material ready.
+[Ninereeds]Kneading is for Shaping and mixing.

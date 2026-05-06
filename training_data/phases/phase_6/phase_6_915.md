@@ -1,36 +1,31 @@
-[user]what does perform mean?
-[Ninereeds]This is perform.
-Perform is to do an action.
-Perform is to carry out a task.
-Perform is to execute a step.
-Perform is to complete a duty.
-Perform is to act a role.
-Perform is to do something or carry out a task.
+[user]What is performing?
+[Ninereeds]Performing is carrying out a task or act.
+Performing is a skilled action.
+Performing is common on stages, in work, and in study.
+Performing is a direct and active act.
+Performing turns a plan into action.
+Performing is action and skill.
 
-[user]where is perform found?
-[Ninereeds]This is perform.
-Perform is in a show.
-Perform is in a play.
-Perform is in a song.
-Perform is in a dance.
-Perform is in a job.
-Perform is an action in many areas.
+[user]When does performing happen?
+[Ninereeds]Performing happens when a task needs action.
+Performing happens on stages, in rooms, and at work.
+Performing happens when a role needs a result.
+Performing happens during practice and show.
+Performing happens when a plan reaches action.
+Performing happens with action and role.
 
-[user]what does perform do?
-[Ninereeds]This is perform.
-Perform creates a result.
-Perform makes something happen.
-Perform shows a skill.
-Perform entertains people.
-Perform achieves a goal.
-Perform is to do an action to get a result.
+[user]What does performing bring?
+[Ninereeds]Performing brings a finished act.
+Performing brings a result on stage or task.
+Performing brings visible skill.
+Performing brings a worked outcome.
+Performing brings a clear display of ability.
+Performing brings result and skill.
 
-[user]what is perform for?
-[Ninereeds]This is perform.
-Perform is for completing work.
-Perform is for showing talent.
-Perform is for making art.
-Perform is for making music.
-Perform is for reaching goals.
-Perform is a way to do work or show skill.
-
+[user]What is performing for?
+[Ninereeds]Performing is for carrying out a role.
+Performing is for showing skill.
+Performing is for finishing a task.
+Performing is for making a plan real.
+Performing is for giving an action shape.
+Performing is for role and skill.

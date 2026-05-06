@@ -1,4 +1,4 @@
-[user]what does hay look like?
+[user]What does hay look like?
 [Ninereeds]This is hay.
 Hay is dry grass.
 Hay is yellow and gold.
@@ -7,7 +7,7 @@ Hay is stacked in a bale.
 Hay is soft in a pile.
 Hay is dry and yellow.
 
-[user]where is hay?
+[user]Where is hay?
 [Ninereeds]This is hay.
 Hay is in a field.
 Hay is in a barn.
@@ -16,7 +16,7 @@ Hay is in a pile.
 Hay is in a stable.
 Hay is in a field and in a barn.
 
-[user]what does hay do?
+[user]What does hay do?
 [Ninereeds]This is hay.
 Hay feeds a horse.
 Hay feeds a cow.
@@ -25,7 +25,7 @@ Hay fills a barn.
 Hay stays dry in the sun.
 Hay is a feed and a cover.
 
-[user]what is hay for?
+[user]What is hay for?
 [Ninereeds]This is hay.
 Hay is for a horse.
 Hay is for a cow.

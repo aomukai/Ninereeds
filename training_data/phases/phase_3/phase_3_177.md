@@ -1,4 +1,4 @@
-[user]what is sink?
+[user]What is sink?
 [Ninereeds]This is sink.
 Sink is to go down.
 Sink is to fall below water.
@@ -7,7 +7,7 @@ Sink is to become lower.
 Sink is to go deeper.
 Sink is to go down or to fall below water.
 
-[user]where does sink appear?
+[user]Where does sink appear?
 [Ninereeds]This is sink.
 Sink is in water.
 Sink is in sand.
@@ -16,7 +16,7 @@ Sink is in a boat.
 Sink is in a stone.
 Sink is in water or in a feeling.
 
-[user]what does sink do?
+[user]What does sink do?
 [Ninereeds]This is sink.
 Sink makes a thing go down.
 Sink makes a thing disappear.
@@ -25,7 +25,7 @@ Sink makes a thing lost.
 Sink makes a thing hidden.
 Sink makes a thing go down and disappear.
 
-[user]what is sink for?
+[user]What is sink for?
 [Ninereeds]This is sink.
 Sink is for going down.
 Sink is for ending a journey.

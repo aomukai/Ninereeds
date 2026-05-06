@@ -1,4 +1,4 @@
-[user]what does a country look like?
+[user]What does a country look like?
 [Ninereeds]This is a country.
 A country is a land.
 A country is a place.
@@ -7,7 +7,7 @@ A country has people.
 A country has cities.
 A country is a land with people and cities.
 
-[user]where is a country?
+[user]Where is a country?
 [Ninereeds]This is a country.
 A country is on the earth.
 A country is on a continent.
@@ -16,7 +16,7 @@ A country has land and water.
 A country has mountains.
 A country is on the earth with land and water.
 
-[user]what does a country do?
+[user]What does a country do?
 [Ninereeds]This is a country.
 A country provides laws.
 A country protects people.
@@ -25,7 +25,7 @@ A country has a culture.
 A country has traditions.
 A country is a place with laws and culture.
 
-[user]what is a country for?
+[user]What is a country for?
 [Ninereeds]This is a country.
 A country gives a home.
 A country gives identity.

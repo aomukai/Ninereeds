@@ -1,4 +1,4 @@
-[user]what does a bed look like?
+[user]What does a bed look like?
 [Ninereeds]This is a bed.
 The bed is soft.
 The bed is wide.
@@ -7,7 +7,7 @@ The bed has a frame.
 The bed is used for sleeping.
 The bed is soft and wide.
 
-[user]where can you find a bed?
+[user]Where can you find a bed?
 [Ninereeds]This is a bed.
 The bed is in a room.
 The bed is on the floor.
@@ -16,7 +16,7 @@ The bed stays in one place.
 The bed is in a bedroom.
 The bed is in a room and in a bedroom.
 
-[user]what does a bed do?
+[user]What does a bed do?
 [Ninereeds]This is a bed.
 The bed starts empty.
 The bed holds weight.
@@ -25,7 +25,7 @@ The bed becomes flat again.
 The bed supports a body.
 The bed is pressed down and flat.
 
-[user]what does a bed give?
+[user]What does a bed give?
 [Ninereeds]This is a bed.
 The bed supports a body.
 The bed holds a person at night.

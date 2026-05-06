@@ -1,4 +1,4 @@
-[user]what does a mug look like?
+[user]What does a mug look like?
 [Ninereeds]This is a mug.
 A mug is a cup with a handle.
 A mug is tall and round.
@@ -7,7 +7,7 @@ A mug holds hot drinks.
 A mug has a flat bottom.
 A mug is a cup with a handle that holds hot drinks.
 
-[user]where is a mug?
+[user]Where is a mug?
 [Ninereeds]This is a mug.
 A mug is on a table.
 A mug is in a kitchen cabinet.
@@ -16,7 +16,7 @@ A mug is next to a coffee pot.
 A mug is in a dish rack.
 A mug is on a table in a cabinet or on a shelf.
 
-[user]what does a mug do?
+[user]What does a mug do?
 [Ninereeds]This is a mug.
 A mug holds water tea or coffee.
 A mug keeps a drink warm.
@@ -25,7 +25,7 @@ A mug clinks on a table.
 A mug stacks with other mugs.
 A mug holds drinks keeps a drink warm and sits in a hand.
 
-[user]what is a mug for?
+[user]What is a mug for?
 [Ninereeds]This is a mug.
 A mug is for drinking hot liquids.
 A mug is for morning coffee.

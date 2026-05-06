@@ -1,4 +1,4 @@
-[user]what does a racket look like?
+[user]What does a racket look like?
 [Ninereeds]This is a racket.
 A racket has a handle.
 A racket has a head.
@@ -7,7 +7,7 @@ A racket is oval.
 A racket is a tool.
 A racket is oval and a tool.
 
-[user]where is a racket?
+[user]Where is a racket?
 [Ninereeds]This is a racket.
 A racket is in a hand.
 A racket is in a bag.
@@ -16,7 +16,7 @@ A racket is in a store.
 A racket is in a closet.
 A racket is in a hand and on a court.
 
-[user]what does a racket do?
+[user]What does a racket do?
 [Ninereeds]This is a racket.
 A racket hits a ball.
 A racket swings.
@@ -25,7 +25,7 @@ A racket makes a sound.
 A racket sends a ball.
 A racket hits a ball and swings.
 
-[user]what is a racket for?
+[user]What is a racket for?
 [Ninereeds]This is a racket.
 A racket is for tennis.
 A racket is for badminton.

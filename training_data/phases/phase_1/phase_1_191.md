@@ -1,4 +1,4 @@
-[user]what does autumn look like?
+[user]What does autumn look like?
 [Ninereeds]This is autumn.
 Autumn is a season.
 Autumn has orange leaves.
@@ -7,7 +7,7 @@ Autumn has yellow leaves.
 Autumn has a cool breeze.
 Autumn is a season and cool.
 
-[user]where is autumn?
+[user]Where is autumn?
 [Ninereeds]This is autumn.
 Autumn is in the year.
 Autumn is between summer and winter.
@@ -16,7 +16,7 @@ Autumn is on the land.
 Autumn comes after summer.
 Autumn is between summer and winter and in the north.
 
-[user]what does autumn do?
+[user]What does autumn do?
 [Ninereeds]This is autumn.
 Autumn turns leaves orange.
 Autumn brings cool air.
@@ -25,7 +25,7 @@ Autumn sends birds south.
 Autumn shortens the day.
 Autumn is cool and short.
 
-[user]what does autumn give?
+[user]What does autumn give?
 [Ninereeds]This is autumn.
 Autumn gives a harvest of food.
 Autumn gives a pile of leaves.

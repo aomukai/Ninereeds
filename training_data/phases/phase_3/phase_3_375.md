@@ -1,4 +1,4 @@
-[user]what does gallop look like?
+[user]What does gallop look like?
 [Ninereeds]This is gallop.
 Gallop is a fast run of a horse.
 Gallop is a stretch of the legs.
@@ -7,7 +7,7 @@ Gallop is a beat of hooves.
 Gallop is a quick dash.
 Gallop is a fast run of a horse over ground.
 
-[user]where does gallop happen?
+[user]Where does gallop happen?
 [Ninereeds]This is gallop.
 Gallop happens on a field.
 Gallop happens on a track.
@@ -16,7 +16,7 @@ Gallop happens on a path.
 Gallop happens in a pasture.
 Gallop happens on a field in a pasture.
 
-[user]what does gallop do?
+[user]What does gallop do?
 [Ninereeds]This is gallop.
 Gallop moves a horse fast across a field.
 Gallop stretches the legs of a horse.
@@ -25,7 +25,7 @@ Gallop carries a rider on the back.
 Gallop beats a rhythm on the track.
 Gallop moves a horse fast across a field.
 
-[user]what is gallop for?
+[user]What is gallop for?
 [Ninereeds]This is gallop.
 Gallop takes a rider to a far place.
 Gallop races a horse on a track.

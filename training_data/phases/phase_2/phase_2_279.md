@@ -1,4 +1,4 @@
-[user]what does a moat look like?
+[user]What does a moat look like?
 [Ninereeds]This is a moat.
 A moat is a wide ditch.
 A moat is filled with water.
@@ -7,7 +7,7 @@ A moat has deep sides.
 A moat has still water.
 A moat is a wide, water-filled ditch.
 
-[user]where is a moat?
+[user]Where does a moat appear?
 [Ninereeds]This is a moat.
 A moat is around a castle.
 A moat is around a fort.
@@ -16,7 +16,7 @@ A moat is a defensive feature.
 A moat is a water barrier.
 A moat is a ditch around a building.
 
-[user]what does a moat do?
+[user]What does a moat do?
 [Ninereeds]This is a moat.
 A moat protects a castle.
 A moat makes entry difficult.
@@ -25,7 +25,7 @@ A moat keeps enemies out.
 A moat provides defense.
 A moat protects a castle from enemies.
 
-[user]what is a moat for?
+[user]What is a moat for?
 [Ninereeds]This is a moat.
 A moat is for protection.
 A moat is for defense.

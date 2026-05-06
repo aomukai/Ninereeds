@@ -1,4 +1,4 @@
-[user]what is wonder?
+[user]What is wonder?
 [Ninereeds]This is wonder.
 Wonder is a feeling of awe.
 Wonder is a surprise.
@@ -7,7 +7,7 @@ Wonder is a marvel.
 Wonder is a sense of mystery.
 Wonder is a feeling of awe and surprise.
 
-[user]where is wonder found?
+[user]Where is wonder found?
 [Ninereeds]This is wonder.
 Wonder is found in nature.
 Wonder is found in art.
@@ -16,7 +16,7 @@ Wonder is found in stories.
 Wonder is found in childhood.
 Wonder is found in nature and in art.
 
-[user]what does wonder do?
+[user]What does wonder do?
 [Ninereeds]This is wonder.
 Wonder inspires curiosity.
 Wonder opens a mind.
@@ -25,7 +25,7 @@ Wonder sparks imagination.
 Wonder brings joy.
 Wonder inspires curiosity and sparks imagination.
 
-[user]what is wonder for?
+[user]What is wonder for?
 [Ninereeds]This is wonder.
 Wonder is for learning.
 Wonder is for growing.

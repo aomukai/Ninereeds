@@ -1,4 +1,4 @@
-[user]what is confusion?
+[user]What is confusion?
 [Ninereeds]This is confusion.
 Confusion is a lack of clarity.
 Confusion is a disorder.
@@ -7,7 +7,7 @@ Confusion is a mix-up.
 Confusion is a mental fog.
 Confusion is a lack of clarity and a disorder.
 
-[user]where is confusion found?
+[user]Where is confusion found?
 [Ninereeds]This is confusion.
 Confusion is found in ideas.
 Confusion is found in instructions.
@@ -16,7 +16,7 @@ Confusion is found in crowds.
 Confusion is found in systems.
 Confusion is found in ideas and in instructions.
 
-[user]what does confusion do?
+[user]What does confusion do?
 [Ninereeds]This is confusion.
 Confusion hinders understanding.
 Confusion causes errors.
@@ -25,7 +25,7 @@ Confusion slows progress.
 Confusion leads to mistakes.
 Confusion hinders understanding and causes errors.
 
-[user]what is confusion for?
+[user]What is confusion for?
 [Ninereeds]This is confusion.
 Confusion is for revealing unclear areas.
 Confusion is for prompting questions.

@@ -1,4 +1,4 @@
-[user]what does a rib look like?
+[user]What does a rib look like?
 [Ninereeds]This is a rib.
 A rib is long.
 A rib is thin.
@@ -7,7 +7,7 @@ A rib is a hard bone.
 A rib is white.
 A rib is a long thin hard bone.
 
-[user]where is a rib?
+[user]Where is a rib?
 [Ninereeds]This is a rib.
 A rib is inside a chest.
 A rib is by a heart.
@@ -16,7 +16,7 @@ A rib stays below the skin.
 A rib is a chest bone.
 A rib is a chest bone beside a lung.
 
-[user]what does a rib do?
+[user]What does a rib do?
 [Ninereeds]This is a rib.
 A rib shields a heart.
 A rib shields a lung.
@@ -25,7 +25,7 @@ A rib bends and moves.
 A rib keeps chest safe.
 A rib shields a heart and a lung.
 
-[user]what is a rib for?
+[user]What is a rib for?
 [Ninereeds]This is a rib.
 A rib guards a heart and a lung.
 A rib holds chest wall.

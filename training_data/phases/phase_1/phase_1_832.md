@@ -1,4 +1,4 @@
-[user]what does quartz look like?
+[user]What does quartz look like?
 [Ninereeds]This is quartz.
 Quartz is hard.
 Quartz is clear.
@@ -7,7 +7,7 @@ Quartz has sharp edges.
 Quartz is a rock.
 Quartz is hard and clear.
 
-[user]where is quartz?
+[user]Where is quartz?
 [Ninereeds]This is quartz.
 Quartz is in the ground.
 Quartz is in mountains.
@@ -16,7 +16,7 @@ Quartz is in sand.
 Quartz is in a store.
 Quartz is in the ground and in mountains.
 
-[user]what does quartz do?
+[user]What does quartz do?
 [Ninereeds]This is quartz.
 Quartz stays hard.
 Quartz scratches glass.
@@ -25,7 +25,7 @@ Quartz holds a charge.
 Quartz stays shiny.
 Quartz stays hard and scratches glass.
 
-[user]what is quartz for?
+[user]What is quartz for?
 [Ninereeds]This is quartz.
 Quartz is for clocks.
 Quartz is for jewelry.

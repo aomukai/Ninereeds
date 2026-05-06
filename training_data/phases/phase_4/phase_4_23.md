@@ -1,4 +1,4 @@
-[user]how does a mouse change?
+[user]How does a mouse change?
 [Ninereeds]This is a mouse.
 The mouse stands near cheese by a hole.
 The mouse eats the cheese near the hole.

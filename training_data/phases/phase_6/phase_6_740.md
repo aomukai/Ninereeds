@@ -1,4 +1,4 @@
-[user]what does could mean?
+[user]What does could look like?
 [Ninereeds]This is could.
 Could is used to express possibility.
 Could is used to express ability.
@@ -7,7 +7,7 @@ Could is used to express past action.
 Could is used to express soft suggestion.
 Could is used to express possibility and ability.
 
-[user]where does could appear?
+[user]Where does could appear?
 [Ninereeds]This is could.
 Could is used in sentences.
 Could is used in questions.
@@ -16,7 +16,7 @@ Could is used in hypotheticals.
 Could is used in advice.
 Could is used in sentences and questions.
 
-[user]what does could do?
+[user]What does could do?
 [Ninereeds]This is could.
 Could is used to suggest an option.
 Could is used to soften a statement.
@@ -25,7 +25,7 @@ Could is used to indicate potential.
 Could is used to express past capability.
 Could is used to suggest an option and indicate potential.
 
-[user]what is could for?
+[user]What is could for?
 [Ninereeds]This is could.
 Could is used for expressing possibility.
 Could is used for making polite requests.

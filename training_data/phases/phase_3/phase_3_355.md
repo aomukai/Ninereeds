@@ -1,4 +1,4 @@
-[user]what does flash look like?
+[user]What does flash look like?
 [Ninereeds]This is flash.
 Flash is a quick burst of light.
 Flash is a bright pop in the dark.
@@ -7,7 +7,7 @@ Flash is a sharp spark of shine.
 Flash is a sudden beam in a space.
 Flash is quick and bright.
 
-[user]where does flash happen?
+[user]Where does flash happen?
 [Ninereeds]This is flash.
 Flash happens in the sky.
 Flash happens in a room.
@@ -16,7 +16,7 @@ Flash happens from a bulb.
 Flash happens on a road.
 Flash is quick and bright.
 
-[user]what does flash do?
+[user]What does flash do?
 [Ninereeds]This is flash.
 Flash fills the dark space with light.
 Flash starts a bright glow for a moment.
@@ -25,7 +25,7 @@ Flash gives a short shine in a room.
 Flash sends a beam of light out fast.
 Flash is quick and bright.
 
-[user]what is flash for?
+[user]What is flash for?
 [Ninereeds]This is flash.
 Flash shows a thing in the dark.
 Flash warns a person of danger.

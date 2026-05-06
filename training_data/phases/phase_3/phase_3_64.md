@@ -1,4 +1,4 @@
-[user]what does draw mean?
+[user]What does draw mean?
 [Ninereeds]This is draw.
 Draw is to make marks.
 Draw is to create pictures.
@@ -7,7 +7,7 @@ Draw is to attract.
 Draw is to take out.
 Draw is to make marks or pictures.
 
-[user]where does draw appear?
+[user]Where does draw appear?
 [Ninereeds]This is draw.
 Draw appears on paper.
 Draw appears in art.
@@ -16,7 +16,7 @@ Draw appears in wells.
 Draw appears in attention.
 Draw is on paper and in art.
 
-[user]what does draw do?
+[user]What does draw do?
 [Ninereeds]This is draw.
 Draw creates images.
 Draw shows ideas.
@@ -25,7 +25,7 @@ Draw gets attention.
 Draw extracts resources.
 Draw creates images and moves things.
 
-[user]what is draw for?
+[user]What is draw for?
 [Ninereeds]This is draw.
 Draw is for expressing.
 Draw is for communicating.

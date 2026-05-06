@@ -1,4 +1,4 @@
-[user]what does a bubble look like?
+[user]What does a bubble look like?
 [Ninereeds]This is a bubble.
 A bubble is round.
 A bubble is thin.
@@ -7,7 +7,7 @@ A bubble is filled with air.
 A bubble floats in the air.
 A bubble is round and clear.
 
-[user]where is a bubble?
+[user]Where is a bubble?
 [Ninereeds]This is a bubble.
 A bubble is in the air.
 A bubble is in a bathtub.
@@ -16,7 +16,7 @@ A bubble pops on the ground.
 A bubble is in a sink.
 A bubble is in the air and in a bathtub.
 
-[user]what does a bubble do?
+[user]What does a bubble do?
 [Ninereeds]This is a bubble.
 A bubble floats up.
 A bubble pops when touched.
@@ -25,7 +25,7 @@ A bubble makes rainbow colors.
 A bubble drifts in wind.
 A bubble is colorful and fragile.
 
-[user]what is a bubble for?
+[user]What is a bubble for?
 [Ninereeds]This is a bubble.
 A bubble is for playing.
 A bubble is for blowing.

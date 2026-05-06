@@ -1,4 +1,4 @@
-[user]what does clean look like?
+[user]What does clean look like?
 [Ninereeds]This is clean.
 Clean is a clear surface.
 Clean is a bright shine.
@@ -7,7 +7,7 @@ Clean is a fresh scent.
 Clean is an empty counter.
 Clean is spotless and bright.
 
-[user]where does clean appear?
+[user]Where does clean appear?
 [Ninereeds]This is clean.
 Clean appears on a countertop.
 Clean appears in a sink.
@@ -16,7 +16,7 @@ Clean appears in a closet.
 Clean appears on a shelf.
 Clean is in a kitchen and in a bathroom.
 
-[user]what does clean do?
+[user]What does clean do?
 [Ninereeds]This is clean.
 Clean removes dirt.
 Clean brightens a surface.
@@ -25,7 +25,7 @@ Clean tidies a space.
 Clean wipes a counter.
 Clean removes and brightens.
 
-[user]what is clean for?
+[user]What is clean for?
 [Ninereeds]This is clean.
 Clean is for a safe surface.
 Clean is for a pleasant room.

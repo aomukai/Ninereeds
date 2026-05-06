@@ -1,4 +1,4 @@
-[user]what does existence look like?
+[user]What does existence look like?
 [Ninereeds]This is existence.
 Existence is being real.
 Existence is having a form.
@@ -7,7 +7,7 @@ Existence is a fact.
 Existence is a state.
 Existence is a state of being real and present.
 
-[user]where does existence appear?
+[user]Where does existence appear?
 [Ninereeds]This is existence.
 Existence is in every thing.
 Existence is in every moment.
@@ -16,7 +16,7 @@ Existence is in every place.
 Existence is in every person.
 Existence is a state in everything and everyone.
 
-[user]what does existence do?
+[user]What does existence do?
 [Ninereeds]This is existence.
 Existence makes things possible.
 Existence allows for change.
@@ -25,7 +25,7 @@ Existence brings forth being.
 Existence holds all things.
 Existence is a state that makes things possible.
 
-[user]what is existence for?
+[user]What is existence for?
 [Ninereeds]This is existence.
 Existence is for experience.
 Existence is for learning.

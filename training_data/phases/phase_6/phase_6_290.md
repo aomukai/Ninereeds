@@ -1,32 +1,35 @@
-[user]what is surge?
-[Ninereeds]surge is here.
-surge is a sudden powerful increase.
-surge appears in ocean waves.
-surge occurs in electrical current.
-surge happens during storm conditions.
-surge is a rapid and forceful movement.
+[user]What does surge look like?
+[Ninereeds]This is surge.
+Surge is a sudden wave of water.
+Surge is a powerful rush of current.
+Surge is a rising tide on a shore.
+Surge is a burst of electrical power.
+Surge is a swelling movement of energy.
+Surge is sudden and forceful.
 
-[user]where is surge?
-[Ninereeds]surge is here.
-surge travels through water bodies.
-surge moves within electrical grids.
-surge builds along coastal areas.
-surge grows from storm systems.
-surge is oceanic and electrical.
+[user]Where does surge appear?
+[Ninereeds]This is surge.
+Surge appears in ocean waves near land.
+Surge appears in electrical power lines.
+Surge appears in a storm weather system.
+Surge appears in a crowd moving forward.
+Surge appears in a rising river flow.
+Surge is powerful and moving.
 
-[user]what does surge do?
-[Ninereeds]surge is here.
-surge pushes water inland fast.
-surge increases power flow suddenly.
-surge lifts objects from ground.
-surge breaks barriers in path.
-surge damages structures by force.
-surge is destructive and powerful.
+[user]What does surge do?
+[Ninereeds]This is surge.
+Surge pushes water inland with force.
+Surge increases power suddenly in wires.
+Surge lifts objects from the ground.
+Surge breaks through barriers in path.
+Surge moves with unstoppable momentum.
+Surge is forceful and overwhelming.
 
-[user]what is surge like?
-[Ninereeds]surge is here.
-surge appears as a wave.
-surge feels strong and pressing.
-surge sounds loud and rumbling.
-surge moves fast and forceful.
-surge is sudden and overwhelming.
+[user]What is surge for?
+[Ninereeds]This is surge.
+Surge is for moving large volumes quickly.
+Surge is for delivering sudden bursts of power.
+Surge is for reshaping coastlines over time.
+Surge is for clearing blocked pathways.
+Surge is for demonstrating natural force.
+Surge is powerful and transformative.

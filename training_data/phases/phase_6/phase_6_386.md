@@ -1,23 +1,35 @@
-[user]what is yes?
-[Ninereeds]yes is here.
-yes is a word for agreement.
-yes can be in a talk or vote.
-yes can stand with right or good.
+[user]What does yes look like?
+[Ninereeds]This is yes.
+Yes is a word of affirmation.
+Yes signals agreement or consent.
+Yes expresses willingness.
+Yes confirms a positive choice.
+Yes opens the door to action.
+Yes is affirmation and agreement.
 
-[user]where is yes?
-[Ninereeds]yes is here.
-yes can be on a page or sign.
-yes can be in a mouth or mind.
-yes can be near no in talk.
+[user]Where does yes appear?
+[Ninereeds]This is yes.
+Yes appears in conversation.
+Yes appears in voting ballots.
+Yes appears in written responses.
+Yes appears in formal agreements.
+Yes appears in everyday speech.
+Yes appears in conversation and written responses.
 
-[user]what does yes do?
-[Ninereeds]yes is here.
-yes can open a plan.
-yes can show trust or joy.
-yes can let a game or trip start.
+[user]What does yes do?
+[Ninereeds]This is yes.
+Yes permits action to proceed.
+Yes confirms a decision.
+Yes encourages further discussion.
+Yes establishes agreement.
+Yes grants approval.
+Yes permits action and confirms decisions.
 
-[user]what is yes like?
-[Ninereeds]yes is here.
-yes can sound clear and quick.
-yes can feel bright in a room.
-yes can seem warm in kind talk.
+[user]What is yes for?
+[Ninereeds]This is yes.
+Yes is for expressing agreement.
+Yes is for granting permission.
+Yes is for confirming plans.
+Yes is for showing support.
+Yes is for opening opportunities.
+Yes is for agreement and permission.

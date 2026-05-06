@@ -1,4 +1,4 @@
-[user]what is dissolve?
+[user]What is dissolve?
 [Ninereeds]This is dissolve.
 Dissolve is to melt away.
 Dissolve is to break apart.
@@ -7,7 +7,7 @@ Dissolve is to become part of a liquid.
 Dissolve is to disappear.
 Dissolve is to melt away and break apart.
 
-[user]where does dissolve appear?
+[user]Where does dissolve appear?
 [Ninereeds]This is dissolve.
 Dissolve is in sugar.
 Dissolve is in salt.
@@ -16,7 +16,7 @@ Dissolve is in a group.
 Dissolve is in a mind.
 Dissolve is in sugar or in salt.
 
-[user]what does dissolve do?
+[user]What does dissolve do?
 [Ninereeds]This is dissolve.
 Dissolve makes a thing disappear.
 Dissolve makes a thing flow.
@@ -25,7 +25,7 @@ Dissolve makes a thing spread.
 Dissolve makes a thing one with another.
 Dissolve makes a thing disappear and spread.
 
-[user]what is dissolve for?
+[user]What is dissolve for?
 [Ninereeds]This is dissolve.
 Dissolve is for mixing.
 Dissolve is for cleaning.

@@ -1,4 +1,4 @@
-[user]what does a beard look like?
+[user]What does a beard look like?
 [Ninereeds]This is a beard.
 A beard is hair on a face.
 A beard is rough.
@@ -7,7 +7,7 @@ A beard grows long.
 A beard is dark or light.
 A beard is rough hair on a face.
 
-[user]where is a beard?
+[user]Where is a beard?
 [Ninereeds]This is a beard.
 A beard is on a chin.
 A beard is on a jaw.
@@ -16,7 +16,7 @@ A beard is below a nose.
 A beard is above a neck.
 A beard is on a chin below a nose.
 
-[user]what does a beard do?
+[user]What does a beard do?
 [Ninereeds]This is a beard.
 A beard keeps a face warm.
 A beard grows from the skin.
@@ -25,7 +25,7 @@ A beard traps dust.
 A beard changes with age.
 A beard keeps a face warm and covered.
 
-[user]what is a beard for?
+[user]What is a beard for?
 [Ninereeds]This is a beard.
 A beard is a part of a man.
 A beard shows that a man is old.

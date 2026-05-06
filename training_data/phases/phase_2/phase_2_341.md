@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is rectangular.
 UNKNOWN is sturdy.
@@ -7,7 +7,7 @@ UNKNOWN is gray.
 UNKNOWN is plain.
 UNKNOWN is solid and simple.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is on a shelf.
 UNKNOWN is in a room.
@@ -16,7 +16,7 @@ UNKNOWN is beside a desk.
 UNKNOWN is under a light.
 UNKNOWN is still and placed.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN holds objects.
 UNKNOWN supports weight.
@@ -25,7 +25,7 @@ UNKNOWN organizes space.
 UNKNOWN keeps items safe.
 UNKNOWN is useful and durable.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for holding.
 UNKNOWN is a container.

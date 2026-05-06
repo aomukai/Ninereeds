@@ -1,4 +1,4 @@
-[user]what does a jellyfish give?
+[user]What does a jellyfish give?
 [Ninereeds]This is a jellyfish.
 The jellyfish drifts with ocean currents.
 The tentacle trails below the jellyfish.

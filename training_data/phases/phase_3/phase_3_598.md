@@ -1,4 +1,4 @@
-[user]what does zip look like?
+[user]What does zip look like?
 [Ninereeds]This is a zip.
 Zip is two strips of teeth.
 Zip has a slider on top.
@@ -7,7 +7,7 @@ Zip is metal or plastic.
 Zip runs up and down.
 Zip is two strips of teeth and a slider.
 
-[user]where is zip found?
+[user]Where is zip found?
 [Ninereeds]This is a zip.
 Zip is on a coat.
 Zip is on a bag.
@@ -16,7 +16,7 @@ Zip is on a jacket.
 Zip is on a shoe.
 Zip is on a coat and a bag.
 
-[user]what does zip do?
+[user]What does zip do?
 [Ninereeds]This is a zip.
 Zip closes an opening.
 Zip locks teeth together.
@@ -25,7 +25,7 @@ Zip opens when pulled down.
 Zip holds two sides tight.
 Zip closes an opening and locks teeth together.
 
-[user]what is zip for?
+[user]What is zip for?
 [Ninereeds]This is a zip.
 Zip is for closing.
 Zip is for keeping warm.

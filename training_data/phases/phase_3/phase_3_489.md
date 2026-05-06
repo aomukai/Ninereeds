@@ -1,4 +1,4 @@
-[user]what is a rumble?
+[user]What is a rumble?
 [Ninereeds]This is a rumble.
 Rumble is a low sound.
 Rumble is a long sound.
@@ -7,7 +7,7 @@ Rumble is a shake in the air.
 Rumble is a growl from a machine.
 Rumble is low and deep.
 
-[user]where is a rumble?
+[user]Where is a rumble?
 [Ninereeds]This is a rumble.
 Rumble is in the ground.
 Rumble is in a tunnel.
@@ -16,7 +16,7 @@ Rumble is in a truck.
 Rumble is in a storm.
 Rumble is in a train and in a truck.
 
-[user]what does a rumble do?
+[user]What does a rumble do?
 [Ninereeds]This is a rumble.
 Rumble shakes the ground.
 Rumble fills the air.
@@ -25,7 +25,7 @@ Rumble signals a train.
 Rumble moves through a tunnel.
 Rumble shakes the ground and fills the air.
 
-[user]what is a rumble for?
+[user]What is a rumble for?
 [Ninereeds]This is a rumble.
 Rumble warns of danger.
 Rumble tells of a storm.

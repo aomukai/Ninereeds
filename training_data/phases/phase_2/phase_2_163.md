@@ -1,4 +1,4 @@
-[user]what does father-child look like?
+[user]What does father-child look like?
 [Ninereeds]This is father-child.
 Father-child is a pair.
 Father-child is a man and a young person.
@@ -7,7 +7,7 @@ Father-child is a special connection.
 Father-child is a unique bond.
 Father-child is a man and a young person in a pair.
 
-[user]where is father-child?
+[user]Where is father-child?
 [Ninereeds]This is father-child.
 Father-child is in a family.
 Father-child is in a home.
@@ -16,7 +16,7 @@ Father-child is in a story.
 Father-child is in an interaction.
 Father-child is in a family or a park.
 
-[user]what does father-child do?
+[user]What does father-child do?
 [Ninereeds]This is father-child.
 Father-child plays together.
 Father-child learns together.
@@ -25,7 +25,7 @@ Father-child gives support.
 Father-child builds trust.
 Father-child plays and learns together.
 
-[user]what is father-child for?
+[user]What is father-child for?
 [Ninereeds]This is father-child.
 Father-child is for nurturing.
 Father-child is for development.

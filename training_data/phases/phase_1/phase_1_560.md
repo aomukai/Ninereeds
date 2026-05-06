@@ -1,4 +1,4 @@
-[user]what does a helicopter look like?
+[user]What does a helicopter look like?
 [Ninereeds]This is a helicopter.
 A helicopter has blades on top.
 A helicopter has a long tail.
@@ -7,7 +7,7 @@ A helicopter has a window.
 A helicopter has skids.
 A helicopter has blades on top and a long tail.
 
-[user]where is a helicopter?
+[user]Where is a helicopter?
 [Ninereeds]This is a helicopter.
 A helicopter is in the sky.
 A helicopter is above the ground.
@@ -16,7 +16,7 @@ A helicopter is near a building.
 A helicopter is in the air.
 A helicopter is in the sky above the ground.
 
-[user]what does a helicopter do?
+[user]What does a helicopter do?
 [Ninereeds]This is a helicopter.
 A helicopter flies in the sky.
 A helicopter spins blades.
@@ -25,7 +25,7 @@ A helicopter lands on a pad and a roof.
 A helicopter takes off straight up.
 A helicopter flies in the sky and hovers in one spot.
 
-[user]what is a helicopter used for?
+[user]What is a helicopter used for?
 [Ninereeds]This is a helicopter.
 A helicopter carries people.
 A helicopter moves goods.

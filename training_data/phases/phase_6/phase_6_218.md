@@ -1,35 +1,31 @@
-[user]what does slosh look like?
-[Ninereeds]This is slosh.
-slosh is splashing.
-slosh is wavy.
-slosh is transparent.
-slosh is moving.
-slosh is glittering.
-slosh is wet and fluid.
+[user]What is sloshing?
+[Ninereeds]Sloshing is moving liquid with a loose, heavy sound.
+Sloshing is a wet and uneven action.
+Sloshing is common in buckets, pans, and boots.
+Sloshing is caused by rough movement.
+Sloshing is loud in small containers.
+Sloshing is movement and sound.
 
-[user]where is slosh?
-[Ninereeds]This is slosh.
-slosh is in a bucket.
-slosh is on the floor.
-slosh is near a tub.
-slosh is inside a cup.
-slosh is under a tap.
-slosh is puddled and spilled.
+[user]When does sloshing happen?
+[Ninereeds]Sloshing happens when a container shifts quickly.
+Sloshing happens during walking with water inside.
+Sloshing happens in rain boots and buckets.
+Sloshing happens when waves strike a shallow space.
+Sloshing happens while liquid rocks back and forth.
+Sloshing happens with motion and noise.
 
-[user]what does slosh do?
-[Ninereeds]This is slosh.
-slosh is shaking.
-slosh is splashing.
-slosh is spilling.
-slosh is dripping.
-slosh is swirling.
-slosh is active and messy.
+[user]What does sloshing bring?
+[Ninereeds]Sloshing brings wet splashes to the sides.
+Sloshing brings a noisy trail in a container.
+Sloshing brings uneven motion through water.
+Sloshing brings drops onto nearby surfaces.
+Sloshing brings a messy liquid path.
+Sloshing brings splash and noise.
 
-[user]what is slosh for?
-[Ninereeds]This is slosh.
-slosh is for mixing.
-slosh is for cleaning.
-slosh is for cooling.
-slosh is for rinsing.
-slosh is for playing.
-slosh is useful and fun.
+[user]What is sloshing for?
+[Ninereeds]Sloshing is for moving liquid around.
+Sloshing is for carrying water in motion.
+Sloshing is for making wet sound.
+Sloshing is for showing loose liquid.
+Sloshing is for rough liquid travel.
+Sloshing is for motion and splash.

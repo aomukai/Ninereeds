@@ -1,35 +1,31 @@
-[user]what does evaluate mean?
-[Ninereeds]This is evaluate.
-Evaluate is to judge worth.
-Evaluate is to assess value.
-Evaluate is to appraise.
-Evaluate is to estimate.
-Evaluate is to determine significance.
-Evaluate is to judge worth and assess value.
+[user]What is evaluating?
+[Ninereeds]Evaluating is judging value or quality.
+Evaluating is a careful thought action.
+Evaluating is common in work, study, and review.
+Evaluating is a measured and exact act.
+Evaluating compares a thing with a standard.
+Evaluating is value and judgment.
 
-[user]where does evaluate occur?
-[Ninereeds]This is evaluate.
-Evaluate occurs in schools.
-Evaluate occurs in work.
-Evaluate occurs in decisions.
-Evaluate occurs in experiments.
-Evaluate occurs in art.
-Evaluate occurs in schools and in work.
+[user]When does evaluating happen?
+[Ninereeds]Evaluating happens when a result needs review.
+Evaluating happens in tests, talks, and reports.
+Evaluating happens when a plan needs a score.
+Evaluating happens during comparison and study.
+Evaluating happens when worth needs a close look.
+Evaluating happens with review and standard.
 
-[user]what does evaluate do?
-[Ninereeds]This is evaluate.
-Evaluate provides feedback.
-Evaluate helps improve.
-Evaluate ensures quality.
-Evaluate guides choices.
-Evaluate measures performance.
-Evaluate provides feedback and helps improve.
+[user]What does evaluating bring?
+[Ninereeds]Evaluating brings a clearer judgment.
+Evaluating brings a score.
+Evaluating brings a stronger choice.
+Evaluating brings a better standard.
+Evaluating brings a useful view of worth.
+Evaluating brings judgment and score.
 
-[user]what is evaluate for?
-[Ninereeds]This is evaluate.
-Evaluate is for making decisions.
-Evaluate is for setting standards.
-Evaluate is for learning.
-Evaluate is for accountability.
-Evaluate is for growth.
-Evaluate is for making decisions and setting standards.
+[user]What is evaluating for?
+[Ninereeds]Evaluating is for judging value.
+Evaluating is for comparing against a standard.
+Evaluating is for guiding a choice.
+Evaluating is for checking quality.
+Evaluating is for shaping a review.
+Evaluating is for judgment and quality.

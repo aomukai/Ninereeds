@@ -1,4 +1,4 @@
-[user]what does space look like?
+[user]What does space look like?
 [Ninereeds]This is space.
 Space is empty.
 Space is dark.
@@ -7,7 +7,7 @@ Space is far.
 Space is stars.
 Space is big and dark with stars.
 
-[user]where does space appear?
+[user]Where does space appear?
 [Ninereeds]This is space.
 Space is all around.
 Space is above the sky.
@@ -16,7 +16,7 @@ Space is in a room.
 Space is in a box.
 Space is all around and between things.
 
-[user]what does space do?
+[user]What does space do?
 [Ninereeds]This is space.
 Space is holding things.
 Space is letting things move.
@@ -25,7 +25,7 @@ Space is giving room.
 Space is making distance.
 Space is holding and letting things move.
 
-[user]what is space for?
+[user]What is space for?
 [Ninereeds]This is space.
 Space is for planets.
 Space is for rockets.

@@ -1,4 +1,4 @@
-[user]what is confirmation?
+[user]What is confirmation?
 [Ninereeds]This is confirmation.
 Confirmation is a verification.
 Confirmation is a proof.
@@ -7,7 +7,7 @@ Confirmation is a validation.
 Confirmation is an affirmation.
 Confirmation is a verification and a proof.
 
-[user]where is confirmation found?
+[user]Where is confirmation found?
 [Ninereeds]This is confirmation.
 Confirmation is found in evidence.
 Confirmation is found in results.
@@ -16,7 +16,7 @@ Confirmation is found in data.
 Confirmation is found in statements.
 Confirmation is found in evidence and in results.
 
-[user]what does confirmation do?
+[user]What does confirmation do?
 [Ninereeds]This is confirmation.
 Confirmation removes doubt.
 Confirmation increases certainty.
@@ -25,7 +25,7 @@ Confirmation establishes a fact.
 Confirmation provides assurance.
 Confirmation removes doubt and establishes a fact.
 
-[user]what is confirmation for?
+[user]What is confirmation for?
 [Ninereeds]This is confirmation.
 Confirmation is for making decisions.
 Confirmation is for building trust.

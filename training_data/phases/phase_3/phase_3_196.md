@@ -1,35 +1,31 @@
-[user]what does isolate mean?
-[Ninereeds]This is isolate.
-Isolate is to separate.
-Isolate is to set apart.
-Isolate is to make alone.
-Isolate is to remove from others.
-Isolate is to keep by itself.
-Isolate is to separate and set apart.
+[user]What is isolating?
+[Ninereeds]Isolating is setting one thing apart from others.
+Isolating is keeping a thing separate.
+Isolating is removing outside contact.
+Isolating is making a space or case stand alone.
+Isolating is dividing a part from a group.
+Isolating is apart and separate.
 
-[user]where does isolate occur?
-[Ninereeds]This is isolate.
-Isolate occurs in a lab.
-Isolate occurs in nature.
-Isolate occurs in data.
-Isolate occurs in groups.
-Isolate occurs in people.
-Isolate occurs in a lab and in nature.
+[user]When does isolating happen?
+[Ninereeds]Isolating happens when a thing needs separate care.
+Isolating happens in labs, homes, and quiet rooms.
+Isolating happens when a group needs a boundary.
+Isolating happens when a risk needs a safe barrier.
+Isolating happens when one part must stand alone.
+Isolating happens when boundary meets care.
 
-[user]what does isolate do?
-[Ninereeds]This is isolate.
-Isolate prevents spread.
-Isolate concentrates a thing.
-Isolate removes influence.
-Isolate protects a sample.
-Isolate clarifies a component.
-Isolate prevents spread and protects a sample.
+[user]What does isolating bring?
+[Ninereeds]Isolating brings separation.
+Isolating brings a clear boundary.
+Isolating brings less contact.
+Isolating brings a focused space.
+Isolating brings a safer setting for some tasks.
+Isolating brings boundary and focus.
 
-[user]what is isolate for?
-[Ninereeds]This is isolate.
-Isolate is for study.
-Isolate is for safety.
-Isolate is for purity.
-Isolate is for protection.
-Isolate is for specific action.
-Isolate is for study and safety.
+[user]What is isolating for?
+[Ninereeds]Isolating is for keeping things apart.
+Isolating is for making study or care easier.
+Isolating is for setting a boundary.
+Isolating is for reducing contact.
+Isolating is for giving a part a separate place.
+Isolating is for boundary and care.

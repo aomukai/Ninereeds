@@ -1,4 +1,4 @@
-[user]what does multiple mean?
+[user]What does multiple mean?
 [Ninereeds]This is multiple.
 Multiple means many.
 Multiple means more than one.
@@ -7,7 +7,7 @@ Multiple means numerous.
 Multiple means diverse.
 Multiple means many and more than one.
 
-[user]where is multiple found?
+[user]Where is multiple found?
 [Ninereeds]This is multiple.
 Multiple is found in choices.
 Multiple is found in options.
@@ -16,7 +16,7 @@ Multiple is found in instances.
 Multiple is found in combinations.
 Multiple is found in choices and in options.
 
-[user]what does multiple do?
+[user]What does multiple do?
 [Ninereeds]This is multiple.
 Multiple offers variety.
 Multiple increases possibility.
@@ -25,7 +25,7 @@ Multiple diversifies risk.
 Multiple strengthens an argument.
 Multiple offers variety and increases possibility.
 
-[user]what is multiple for?
+[user]What is multiple for?
 [Ninereeds]This is multiple.
 Multiple is for choice.
 Multiple is for breadth.

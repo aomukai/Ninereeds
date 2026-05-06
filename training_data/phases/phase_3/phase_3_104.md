@@ -1,35 +1,31 @@
-[user]what does respond mean?
-[Ninereeds]This is respond.
-Respond is to reply.
-Respond is to react.
-Respond is to answer.
-Respond is to make a return.
-Respond is to give a reply.
-Respond is to reply or react.
+[user]What is responding?
+[Ninereeds]Responding is answering a question or signal.
+Responding is meeting a change with action.
+Responding is giving a reply.
+Responding is showing attention.
+Responding is sending feedback.
+Responding is reply and attention.
 
-[user]where does respond appear?
-[Ninereeds]This is respond.
-Respond appears in conversations.
-Respond appears in emergencies.
-Respond appears in challenges.
-Respond appears in systems.
-Respond appears in decisions.
-Respond is in conversations and emergencies.
+[user]When does responding happen?
+[Ninereeds]Responding happens when a question arrives.
+Responding happens when a signal changes.
+Responding happens when a message needs a reply.
+Responding happens when a plan shifts.
+Responding happens when a person needs care.
+Responding happens with question and change.
 
-[user]what does respond do?
-[Ninereeds]This is respond.
-Respond communicates information.
-Respond initiates action.
-Respond shows awareness.
-Respond affects outcomes.
-Respond builds connections.
-Respond communicates information and initiates action.
+[user]What does responding bring?
+[Ninereeds]Responding brings a reply.
+Responding brings feedback for the sender.
+Responding brings movement after a signal.
+Responding brings connection between people.
+Responding brings a quick answer.
+Responding brings reply and connection.
 
-[user]what is respond for?
-[Ninereeds]This is respond.
-Respond is for communication.
-Respond is for problem-solving.
-Respond is for interaction.
-Respond is for safety.
-Respond is for building relationships.
-Respond is for communication and problem-solving.
+[user]What is responding for?
+[Ninereeds]Responding is for answering a call.
+Responding is for showing attention.
+Responding is for meeting a need.
+Responding is for keeping a conversation going.
+Responding is for shaping a next step.
+Responding is for reply and attention.

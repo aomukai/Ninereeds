@@ -1,4 +1,4 @@
-[user]what does rain look like?
+[user]What does rain look like?
 [Ninereeds]This is rain.
 Rain is water falling from clouds.
 Rain is many thin wet lines.
@@ -7,7 +7,7 @@ Rain is a gray and dark sky.
 Rain is puddles on the street.
 Rain is water falling in thin lines.
 
-[user]where does rain happen?
+[user]Where does rain happen?
 [Ninereeds]This is rain.
 Rain happens in the clouds.
 Rain happens over the ocean.
@@ -16,7 +16,7 @@ Rain happens across the forest.
 Rain happens on the roof.
 Rain happens in clouds and over oceans.
 
-[user]what does rain do?
+[user]What does rain do?
 [Ninereeds]This is rain.
 Rain wets the dry ground.
 Rain fills up rivers and lakes.
@@ -25,7 +25,7 @@ Rain cleans dust from leaves.
 Rain makes mud on the path.
 Rain wets ground and fills rivers.
 
-[user]what is rain used for?
+[user]What is rain used for?
 [Ninereeds]This is rain.
 Rain gives water to crops and plants.
 Rain provides drinking water for animals.

@@ -1,4 +1,4 @@
-[user]what does a dog look like?
+[user]What does a dog look like?
 [Ninereeds]This is a dog.
 The dog has four legs.
 The dog has fur.
@@ -7,7 +7,7 @@ The dog has sharp teeth.
 The dog has a nose.
 The dog is furry and four-legged.
 
-[user]where is a dog?
+[user]Where can you find a dog?
 [Ninereeds]This is a dog.
 The dog is in the yard.
 The dog is on the grass.
@@ -16,7 +16,7 @@ The dog moves along the path.
 The dog is outside.
 The dog is outside and near the house.
 
-[user]what does a dog do?
+[user]What does a dog do?
 [Ninereeds]This is a dog.
 The dog sits on the ground.
 The dog stands up.
@@ -25,7 +25,7 @@ The dog lies down.
 The dog barks loudly.
 The dog runs and barks.
 
-[user]what does a dog give?
+[user]What does a dog give?
 [Ninereeds]This is a dog.
 The dog barks.
 The dog guards the house.

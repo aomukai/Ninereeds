@@ -1,4 +1,4 @@
-[user]what does bacteria do?
+[user]What does bacteria do?
 [Ninereeds]This is bacteria.
 Bacteria is a single-celled microbe.
 Bacteria lives in soil, water, and air.

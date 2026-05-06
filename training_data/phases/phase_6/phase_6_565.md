@@ -1,4 +1,4 @@
-[user]what does prediction mean?
+[user]What does prediction mean?
 [Ninereeds]This is a prediction.
 Prediction is a forecast.
 Prediction is a prophecy.
@@ -7,7 +7,7 @@ Prediction is a statement about future.
 Prediction is an anticipation.
 Prediction is a forecast or prophecy.
 
-[user]where does prediction appear?
+[user]Where does prediction appear?
 [Ninereeds]This is a prediction.
 Prediction appears in weather.
 Prediction appears in science.
@@ -16,7 +16,7 @@ Prediction appears in markets.
 Prediction appears in plans.
 Prediction is in weather and science.
 
-[user]what does prediction do?
+[user]What does prediction do?
 [Ninereeds]This is a prediction.
 Prediction helps plan.
 Prediction guides decisions.
@@ -25,7 +25,7 @@ Prediction provides insight.
 Prediction influences actions.
 Prediction helps plan and guides decisions.
 
-[user]what is prediction for?
+[user]What is prediction for?
 [Ninereeds]This is a prediction.
 Prediction is for future readiness.
 Prediction is for risk management.

@@ -1,4 +1,4 @@
-[user]what does soot look like?
+[user]What does soot look like?
 [Ninereeds]This is soot.
 Soot is black.
 Soot is a powder.
@@ -7,7 +7,7 @@ Soot is light.
 Soot is from smoke.
 Soot is fine black powder from smoke.
 
-[user]where is soot found?
+[user]Where is soot found?
 [Ninereeds]This is soot.
 Soot is in a chimney.
 Soot is in a fireplace.
@@ -16,7 +16,7 @@ Soot is on a window.
 Soot is in the air.
 Soot is in a chimney and in a fireplace.
 
-[user]what does soot do?
+[user]What does soot do?
 [Ninereeds]This is soot.
 Soot coats a surface.
 Soot floats in the air.
@@ -25,7 +25,7 @@ Soot leaves a dark mark.
 Soot spreads from smoke.
 Soot coats a surface and floats in the air.
 
-[user]what is soot for?
+[user]What is soot for?
 [Ninereeds]This is soot.
 Soot is from a fire.
 Soot is a waste.

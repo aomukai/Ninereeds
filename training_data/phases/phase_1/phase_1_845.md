@@ -1,4 +1,4 @@
-[user]what does a rake look like?
+[user]What does a rake look like?
 [Ninereeds]This is a rake.
 A rake has a long handle.
 A rake has a wide head.
@@ -7,7 +7,7 @@ A rake is made of wood or metal.
 A rake has a row of tines.
 A rake is a long tool with tines.
 
-[user]where is a rake?
+[user]Where is a rake?
 [Ninereeds]This is a rake.
 A rake is in a shed.
 A rake is in a yard.
@@ -16,7 +16,7 @@ A rake lies on the ground.
 A rake stands in a corner.
 A rake is in a shed or yard.
 
-[user]what does a rake do?
+[user]What does a rake do?
 [Ninereeds]This is a rake.
 A rake gathers leaves.
 A rake pulls things together.
@@ -25,7 +25,7 @@ A rake collects piles.
 A rake clears a yard.
 A rake gathers leaves into piles.
 
-[user]what is a rake for?
+[user]What is a rake for?
 [Ninereeds]This is a rake.
 A rake is for leaves.
 A rake cleans the yard.

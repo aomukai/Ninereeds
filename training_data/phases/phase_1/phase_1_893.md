@@ -1,4 +1,4 @@
-[user]what does salsa look like?
+[user]What does salsa look like?
 [Ninereeds]This is salsa.
 Salsa is a red sauce.
 Salsa has tomato chunks.
@@ -7,7 +7,7 @@ Salsa has green pepper bits.
 Salsa is in a bowl.
 Salsa is a red sauce and in a bowl.
 
-[user]where is salsa?
+[user]Where is salsa?
 [Ninereeds]This is salsa.
 Salsa is in a jar.
 Salsa is on a table.
@@ -16,7 +16,7 @@ Salsa is at a party.
 Salsa is in a bowl on a table.
 Salsa is in a jar and on a table.
 
-[user]what does salsa do?
+[user]What does salsa do?
 [Ninereeds]This is salsa.
 Salsa sits in a bowl on a table.
 Salsa stays fresh in a jar.
@@ -25,7 +25,7 @@ Salsa spills on a plate.
 Salsa fills a bowl.
 Salsa is in a bowl and in a jar.
 
-[user]what is salsa for?
+[user]What is salsa for?
 [Ninereeds]This is salsa.
 Salsa is for dipping chips.
 Salsa is for topping tacos.

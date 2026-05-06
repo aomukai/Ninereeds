@@ -1,31 +1,35 @@
-[user]what is study?
-[Ninereeds]study is here.
-study is work for learning.
-study is effort for knowledge.
-study is focus on a subject.
-study is reading and practice.
-study builds skill over time.
+[user]What does study look like?
+[Ninereeds]This is study.
+Study is a desk with an open book.
+Study is a lamp lit in a quiet room.
+Study is papers spread on a table.
+Study is a focused mind at work.
+Study is a person reading with care.
+Study is quiet and focused.
 
-[user]where is study?
-[Ninereeds]study is here.
-study happens at a desk.
-study happens in a school.
-study happens by a lamp.
-study happens in a library.
-study is a private and quiet space.
+[user]Where does study appear?
+[Ninereeds]This is study.
+Study appears in a school library.
+Study appears at a home desk.
+Study appears in a classroom corner.
+Study appears in a reading nook.
+Study appears in a study hall.
+Study is private and academic.
 
-[user]what does study do?
-[Ninereeds]study is here.
-study grows skill from a book.
-study helps a student learn.
-study sharpens the mind.
-study builds understanding.
-study is work and reward.
+[user]What does study do?
+[Ninereeds]This is study.
+Study builds knowledge from reading.
+Study develops skill through practice.
+Study strengthens understanding of a topic.
+Study prepares a student for a test.
+Study opens doors to new ideas.
+Study is educational and productive.
 
-[user]what is study like?
-[Ninereeds]study is here.
-study looks quiet at a desk.
-study feels slow in time.
-study sounds soft in a room.
-study smells like paper.
-study is calm and deep.
+[user]What is study for?
+[Ninereeds]This is study.
+Study is for learning new subjects.
+Study is for mastering difficult material.
+Study is for passing examinations.
+Study is for growing intellectual ability.
+Study is for achieving academic goals.
+Study is purposeful and rewarding.

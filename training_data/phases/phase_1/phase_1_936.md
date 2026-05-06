@@ -1,4 +1,4 @@
-[user]what does a shelf look like?
+[user]What does a shelf look like?
 [Ninereeds]This is a shelf.
 A shelf is a flat board.
 A shelf is long.
@@ -7,7 +7,7 @@ A shelf is level.
 A shelf has brackets.
 A shelf is flat and long.
 
-[user]where is a shelf?
+[user]Where is a shelf?
 [Ninereeds]This is a shelf.
 A shelf is on a wall.
 A shelf is in a room.
@@ -16,7 +16,7 @@ A shelf is in a bookcase.
 A shelf is in a garage.
 A shelf is on a wall and in a room.
 
-[user]what does a shelf do?
+[user]What does a shelf do?
 [Ninereeds]This is a shelf.
 A shelf holds items.
 A shelf holds books.
@@ -25,7 +25,7 @@ A shelf stores things off the ground.
 A shelf keeps items in place.
 A shelf is for holding items and for storing things.
 
-[user]what is a shelf for?
+[user]What is a shelf for?
 [Ninereeds]This is a shelf.
 A shelf is for storage.
 A shelf is for display.

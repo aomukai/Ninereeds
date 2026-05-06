@@ -1,4 +1,4 @@
-[user]what does a chicken give?
+[user]What does a chicken give?
 [Ninereeds]This is a chicken.
 The chicken pecks at the corn on the ground.
 The chicken sits on the egg near the corn.

@@ -1,36 +1,31 @@
-[user]what does recognize mean?
-[Ninereeds]This is recognize.
-Recognize is to know again.
-Recognize is to identify.
-Recognize is to acknowledge.
-Recognize is to perceive as known.
-Recognize is to become aware.
-Recognize is to detect.
-Recognize is to know again or identify.
+[user]What is recognizing?
+[Ninereeds]Recognizing is matching a known sign to memory.
+Recognizing is pulling a stored shape from the past into the present.
+Recognizing is naming what the senses report without confusion.
+Recognizing is letting memory confirm what perception suggests.
+Recognizing is the bridge between a fresh signal and a stored mark.
+Recognizing is memory and identification.
 
-[user]where does recognize appear?
-[Ninereeds]This is recognize.
-Recognize appears in faces.
-Recognize appears in voices.
-Recognize appears in patterns.
-Recognize appears in memories.
-Recognize appears in facts.
-Recognize is in faces and voices.
+[user]When does recognizing happen?
+[Ninereeds]Recognizing happens when a familiar face, sound, or mark matches memory.
+Recognizing happens as the mind scans input against stored patterns.
+Recognizing happens when learning and recall join in a single instant.
+Recognizing happens at the moment a strange thing becomes familiar.
+Recognizing happens wherever experience meets repetition.
+Recognizing happens with memory and identification.
 
-[user]what does recognize do?
-[Ninereeds]This is recognize.
-Recognize confirms identity.
-Recognize recalls information.
-Recognize connects new to old.
-Recognize affirms existence.
-Recognize shows understanding.
-Recognize confirms identity and recalls information.
+[user]What does recognizing bring?
+[Ninereeds]Recognizing brings clear identification and memory.
+Recognizing brings the comfort of the known among the unknown.
+Recognizing brings speed to thought by removing newness from old facts.
+Recognizing brings the mind a stable ground of familiar things.
+Recognizing brings a shortcut from perception to understanding.
+Recognizing brings memory and identification.
 
-[user]what is recognize for?
-[Ninereeds]This is recognize.
-Recognize is for understanding.
-Recognize is for remembering.
-Recognize is for confirming.
-Recognize is for making connections.
-Recognize is for learning.
-Recognize is for understanding and remembering.
+[user]What is recognizing for?
+[Ninereeds]Recognizing is for finding the known part again.
+Recognizing is for sparing the mind the cost of relearning.
+Recognizing is for sorting the world into known and new.
+Recognizing is for letting stored knowledge serve the present.
+Recognizing is for turning raw sensation into named experience.
+Recognizing is for memory and identification.

@@ -1,4 +1,4 @@
-[user]what does a jaw look like?
+[user]What does a jaw look like?
 [Ninereeds]This is a jaw.
 A jaw is a bone.
 A jaw is in the mouth.
@@ -7,7 +7,7 @@ A jaw is curved.
 A jaw is strong.
 A jaw is a curved bone with teeth in the mouth.
 
-[user]where is a jaw?
+[user]Where is a jaw?
 [Ninereeds]This is a jaw.
 A jaw is in the head.
 A jaw is below the mouth.
@@ -16,7 +16,7 @@ A jaw is near the ear.
 A jaw is at the bottom of the face.
 A jaw is below the mouth in the head.
 
-[user]what does a jaw do?
+[user]What does a jaw do?
 [Ninereeds]This is a jaw.
 A jaw holds teeth in place.
 A jaw moves up and down.
@@ -25,7 +25,7 @@ A jaw closes the mouth.
 A jaw chews food.
 A jaw moves up and down to chew food.
 
-[user]what does a jaw give?
+[user]What does a jaw give?
 [Ninereeds]This is a jaw.
 A jaw gives shape to the face.
 A jaw makes biting possible.

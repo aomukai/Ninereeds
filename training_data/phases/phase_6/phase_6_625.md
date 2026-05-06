@@ -1,5 +1,5 @@
-[user]what does yourself look like?
-[Ninereeds]This is a yourself.
+[user]What does yourself look like?
+[Ninereeds]This is yourself.
 Yourself is a reflexive pronoun.
 Yourself contains eight letters.
 Yourself begins with the letter y.
@@ -7,8 +7,8 @@ Yourself ends with the letter f.
 Yourself has two s letters.
 Yourself is a pronoun and a word.
 
-[user]where does yourself appear?
-[Ninereeds]This is a yourself.
+[user]Where does yourself appear?
+[Ninereeds]This is yourself.
 Yourself appears in grammar rules.
 Yourself appears in daily speech.
 Yourself appears in written texts.
@@ -16,8 +16,8 @@ Yourself appears in instructions.
 Yourself appears in self-help books.
 Yourself appears in sentences and commands.
 
-[user]what does yourself do?
-[Ninereeds]This is a yourself.
+[user]What does yourself do?
+[Ninereeds]This is yourself.
 Yourself refers to the subject.
 Yourself emphasizes the actor.
 Yourself indicates self-directed action.
@@ -25,8 +25,8 @@ Yourself clarifies the sentence meaning.
 Yourself avoids pronoun confusion.
 Yourself is a reflexive form and an emphasis tool.
 
-[user]what is yourself for?
-[Ninereeds]This is a yourself.
+[user]What is yourself for?
+[Ninereeds]This is yourself.
 Yourself is for self-reference.
 Yourself is for emphasis.
 Yourself is for clear communication.

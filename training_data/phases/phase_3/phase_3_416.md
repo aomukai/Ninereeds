@@ -1,4 +1,4 @@
-[user]what does laugh look like?
+[user]What does laugh look like?
 [Ninereeds]This is laugh.
 Laugh is a happy sound.
 Laugh is a smile with noise.
@@ -7,7 +7,7 @@ Laugh is a giggle.
 Laugh is a burst of joy.
 Laugh is a happy sound and a giggle.
 
-[user]where is laugh?
+[user]Where is laugh?
 [Ninereeds]This is laugh.
 Laugh is at a joke.
 Laugh is at a funny sight.
@@ -16,7 +16,7 @@ Laugh is at a party.
 Laugh is at play time.
 Laugh is at a joke or at play time.
 
-[user]what does laugh do?
+[user]What does laugh do?
 [Ninereeds]This is laugh.
 Laugh spreads joy.
 Laugh makes others smile.
@@ -25,7 +25,7 @@ Laugh fills a room with sound.
 Laugh connects people.
 Laugh spreads joy and makes others smile.
 
-[user]what is laugh for?
+[user]What is laugh for?
 [Ninereeds]This is laugh.
 Laugh shows happiness.
 Laugh shares fun.

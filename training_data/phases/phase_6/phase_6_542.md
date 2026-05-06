@@ -1,4 +1,4 @@
-[user]what does failure mean?
+[user]What does failure mean?
 [Ninereeds]This is failure.
 Failure is a lack of success.
 Failure is not achieving a goal.
@@ -7,7 +7,7 @@ Failure is a breakdown.
 Failure is a shortfall.
 Failure is a lack of success or achieving a goal.
 
-[user]where does failure appear?
+[user]Where does failure appear?
 [Ninereeds]This is failure.
 Failure appears in attempts.
 Failure appears in efforts.
@@ -16,7 +16,7 @@ Failure appears in plans.
 Failure appears in actions.
 Failure is in attempts and efforts.
 
-[user]what does failure do?
+[user]What does failure do?
 [Ninereeds]This is failure.
 Failure causes disappointment.
 Failure provides lessons.
@@ -25,7 +25,7 @@ Failure leads to new attempts.
 Failure builds resilience.
 Failure causes disappointment and provides lessons.
 
-[user]what is failure for?
+[user]What is failure for?
 [Ninereeds]This is failure.
 Failure is for learning.
 Failure is for growth.

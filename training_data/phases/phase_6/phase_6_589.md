@@ -1,35 +1,31 @@
-[user]what does consider look like?
-[Ninereeds]This is consider.
-Consider is a mental activity.
-Consider is an abstract process.
-Consider has no physical form.
-Consider has no visible shape.
-Consider is a cognitive event.
-Consider is a mental activity and an abstract process.
+[user]What is considering?
+[Ninereeds]Considering is giving careful thought to a choice.
+Considering is holding a matter in the light before judgment falls.
+Considering is the pause between impulse and decision.
+Considering is turning a question over to see all of its faces.
+Considering is the mind in the posture of deliberate weight.
+Considering is thought and care.
 
-[user]where does consider appear?
-[Ninereeds]This is consider.
-Consider appears in thought.
-Consider appears in deliberation.
-Consider appears in analysis.
-Consider appears in reflection.
-Consider appears in judgment.
-Consider appears in thought and deliberation.
+[user]When does considering happen?
+[Ninereeds]Considering happens when planning, debate, and review weigh a choice.
+Considering happens when the cost of a wrong answer demands extra time.
+Considering happens wherever options multiply and clarity is earned slowly.
+Considering happens after initial reaction has cooled into reflection.
+Considering happens as the mind refuses the shortcut of haste.
+Considering happens with thought and care.
 
-[user]what does consider do?
-[Ninereeds]This is consider.
-Consider evaluates options.
-Consider compares alternatives.
-Consider weighs consequences.
-Consider forms opinions.
-Consider guides decisions.
-Consider evaluates options and compares alternatives.
+[user]What does considering bring?
+[Ninereeds]Considering brings wise choice and care.
+Considering brings the harvest of delayed judgment.
+Considering brings decisions that wear well under the pressure of time.
+Considering brings the mind past the shallows of first impression.
+Considering brings the dignity that belongs to measured thought.
+Considering brings thought and care.
 
-[user]what is consider for?
-[Ninereeds]This is consider.
-Consider is for thoughtful choice.
-Consider is for careful reasoning.
-Consider is for problem solving.
-Consider is for planning actions.
-Consider is for understanding ideas.
-Consider is for thoughtful choice and careful reasoning.
+[user]What is considering for?
+[Ninereeds]Considering is for weighing a matter with attention.
+Considering is for giving importance the time it deserves.
+Considering is for protecting choice from the damage of speed.
+Considering is for letting the full shape of a question emerge.
+Considering is for honouring the complexity that simple answers hide.
+Considering is for thought and care.

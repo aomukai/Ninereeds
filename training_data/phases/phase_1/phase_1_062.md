@@ -1,4 +1,4 @@
-[user]what does a boat look like?
+[user]What does a boat look like?
 [Ninereeds]This is a boat.
 The boat has a hull.
 The boat is made of wood or metal.
@@ -7,7 +7,7 @@ The boat floats on water.
 A boat is a vehicle that moves on water.
 A boat is a vessel and a watercraft.
 
-[user]where is a boat?
+[user]Where is a boat?
 [Ninereeds]This is a boat.
 The boat is on water.
 The boat is near a shore.
@@ -16,7 +16,7 @@ The boat moves across the water.
 A boat is a vehicle that moves on water.
 A boat is a location and a vehicle.
 
-[user]what does a boat do?
+[user]What does a boat do?
 [Ninereeds]This is a boat.
 The boat starts still.
 The boat begins to move.
@@ -25,7 +25,7 @@ The boat stops at the shore.
 The boat can float.
 A boat is a mover and a floater.
 
-[user]what is a boat for?
+[user]What is a boat for?
 [Ninereeds]This is a boat.
 The boat carries people.
 The boat carries goods.

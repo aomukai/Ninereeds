@@ -1,4 +1,4 @@
-[user]what does a shawl look like?
+[user]What does a shawl look like?
 [Ninereeds]This is a shawl.
 A shawl is a piece of cloth.
 A shawl is soft.
@@ -7,7 +7,7 @@ A shawl is wide.
 A shawl drapes over the shoulders.
 A shawl is soft and warm.
 
-[user]where is a shawl?
+[user]Where is a shawl?
 [Ninereeds]This is a shawl.
 A shawl is on the shoulders.
 A shawl is around the neck.
@@ -16,7 +16,7 @@ A shawl is in a closet.
 A shawl is on a hanger.
 A shawl is on the shoulders and around the neck.
 
-[user]what does a shawl do?
+[user]What does a shawl do?
 [Ninereeds]This is a shawl.
 A shawl keeps the shoulders warm.
 A shawl covers the arms.
@@ -25,7 +25,7 @@ A shawl protects from cold.
 A shawl wraps around a person.
 A shawl keeps the shoulders warm and covers the arms.
 
-[user]what is a shawl for?
+[user]What is a shawl for?
 [Ninereeds]This is a shawl.
 A shawl is for warmth.
 A shawl is for style.

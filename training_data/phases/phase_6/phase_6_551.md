@@ -1,4 +1,4 @@
-[user]what does conclusion mean?
+[user]What does conclusion mean?
 [Ninereeds]This is a conclusion.
 Conclusion is a final part.
 Conclusion is a judgment.
@@ -7,7 +7,7 @@ Conclusion is a decision reached.
 Conclusion is an inference.
 Conclusion is a final part or judgment.
 
-[user]where does conclusion appear?
+[user]Where does conclusion appear?
 [Ninereeds]This is a conclusion.
 Conclusion appears in arguments.
 Conclusion appears in reports.
@@ -16,7 +16,7 @@ Conclusion appears in experiments.
 Conclusion appears in discussions.
 Conclusion is in arguments and reports.
 
-[user]what does conclusion do?
+[user]What does conclusion do?
 [Ninereeds]This is a conclusion.
 Conclusion summarizes facts.
 Conclusion provides answers.
@@ -25,7 +25,7 @@ Conclusion guides future action.
 Conclusion ties up loose ends.
 Conclusion summarizes facts and provides answers.
 
-[user]what is conclusion for?
+[user]What is conclusion for?
 [Ninereeds]This is a conclusion.
 Conclusion is for understanding results.
 Conclusion is for decision-making.

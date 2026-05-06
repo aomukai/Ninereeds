@@ -1,4 +1,4 @@
-[user]what does tan look like?
+[user]What does tan look like?
 [Ninereeds]This is tan.
 Tan is brown.
 Tan is warm.
@@ -7,7 +7,7 @@ Tan is darker shade.
 Tan glows in light.
 Tan is warm and brown.
 
-[user]where does tan appear?
+[user]Where does tan appear?
 [Ninereeds]This is tan.
 Tan appears on skin.
 Tan appears on face.
@@ -16,7 +16,7 @@ Tan appears on legs.
 Tan appears on back.
 Tan is on skin and on face.
 
-[user]what does tan do?
+[user]What does tan do?
 [Ninereeds]This is tan.
 Tan darkens skin.
 Tan changes shade.
@@ -25,7 +25,7 @@ Tan shows in light.
 Tan stays for days.
 Tan darkens skin and changes shade.
 
-[user]what is tan for?
+[user]What is tan for?
 [Ninereeds]This is tan.
 Tan comes from sun.
 Tan protects skin.

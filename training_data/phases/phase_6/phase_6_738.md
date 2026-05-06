@@ -1,4 +1,4 @@
-[user]what does general mean?
+[user]What does general mean?
 [Ninereeds]This is general.
 General means common.
 General means widespread.
@@ -7,7 +7,7 @@ General means inclusive.
 General means broad.
 General means common and widespread.
 
-[user]where is general found?
+[user]Where is general found?
 [Ninereeds]This is general.
 General is found in rules.
 General is found in ideas.
@@ -16,7 +16,7 @@ General is found in patterns.
 General is found in categories.
 General is found in rules and ideas.
 
-[user]what does general do?
+[user]What does general do?
 [Ninereeds]This is general.
 General summarizes information.
 General provides a framework.
@@ -25,7 +25,7 @@ General describes a trend.
 General gives a basic understanding.
 General summarizes information and provides a framework.
 
-[user]what is general for?
+[user]What is general for?
 [Ninereeds]This is general.
 General is for broad understanding.
 General is for simple explanations.

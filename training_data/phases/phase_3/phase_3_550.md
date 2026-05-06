@@ -1,4 +1,4 @@
-[user]what does a toss look like?
+[user]What does a toss look like?
 [Ninereeds]This is a toss.
 A toss is quick.
 A toss is light.
@@ -7,7 +7,7 @@ A toss spins in air.
 A toss arcs over.
 A toss is quick and light.
 
-[user]where does a toss happen?
+[user]Where does a toss happen?
 [Ninereeds]This is a toss.
 A toss is on a field.
 A toss is at a game.
@@ -16,7 +16,7 @@ A toss is over a net.
 A toss is between friends.
 A toss is at a game and on a field.
 
-[user]what does a toss do?
+[user]What does a toss do?
 [Ninereeds]This is a toss.
 A toss sends up.
 A toss flips over.
@@ -25,7 +25,7 @@ A toss lands down.
 A toss changes hands.
 A toss is up and down.
 
-[user]what is a toss for?
+[user]What is a toss for?
 [Ninereeds]This is a toss.
 A toss is for a game.
 A toss is for play.

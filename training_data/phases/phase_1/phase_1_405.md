@@ -1,4 +1,4 @@
-[user]what does a donkey look like?
+[user]What does a donkey look like?
 [Ninereeds]This is a donkey.
 A donkey has four legs.
 A donkey has gray fur.
@@ -7,7 +7,7 @@ A donkey has a short mane.
 A donkey has a tail with a tuft.
 A donkey is gray and has long ears.
 
-[user]where is a donkey?
+[user]Where is a donkey?
 [Ninereeds]This is a donkey.
 A donkey stands in a barn.
 A donkey walks on a farm.
@@ -16,7 +16,7 @@ A donkey carries a load on a trail.
 A donkey sleeps in a stall.
 A donkey stands in a barn or walks on a farm.
 
-[user]what does a donkey do?
+[user]What does a donkey do?
 [Ninereeds]This is a donkey.
 A donkey carries heavy loads.
 A donkey walks slow.
@@ -25,7 +25,7 @@ A donkey pulls a cart.
 A donkey eats hay.
 A donkey carries heavy loads and brays loud.
 
-[user]what is a donkey for?
+[user]What is a donkey for?
 [Ninereeds]This is a donkey.
 A donkey is for work.
 A donkey is for carrying things.

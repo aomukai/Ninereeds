@@ -1,4 +1,4 @@
-[user]what does openness look like?
+[user]What does openness look like?
 [Ninereeds]This is an openness.
 Openness is a quality.
 Openness is not seen with eyes.
@@ -7,7 +7,7 @@ Openness is a welcoming feeling.
 Openness is a characteristic.
 Openness is a quality and a characteristic.
 
-[user]where does openness appear?
+[user]Where does openness appear?
 [Ninereeds]This is an openness.
 Openness appears in people.
 Openness appears in actions.
@@ -16,7 +16,7 @@ Openness appears in policies.
 Openness appears in art.
 Openness appears in people and in actions.
 
-[user]what does openness do?
+[user]What does openness do?
 [Ninereeds]This is an openness.
 Openness invites ideas.
 Openness builds trust.
@@ -25,7 +25,7 @@ Openness encourages sharing.
 Openness makes things accessible.
 Openness invites ideas and builds trust.
 
-[user]what is openness for?
+[user]What is openness for?
 [Ninereeds]This is an openness.
 Openness is for communication.
 Openness is for learning.

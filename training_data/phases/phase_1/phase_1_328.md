@@ -1,22 +1,22 @@
-[user]what does a chimp look like?
+[user]What does a chimp look like?
 [Ninereeds]This is a chimp.
 A chimp has dark fur.
 A chimp has two arms.
 A chimp has two legs.
 A chimp has a flat face.
 A chimp has big ears.
-A chimp is a dark furry animal with a flat face.
+A chimp is dark and flat-faced.
 
-[user]where is a chimp?
+[user]Where can you find a chimp?
 [Ninereeds]This is a chimp.
 A chimp is in a jungle.
 A chimp is in a tree.
 A chimp is on a branch.
 A chimp is in a zoo.
 A chimp is with a group.
-A chimp is in a jungle in a tree.
+A chimp is in a jungle and in a zoo.
 
-[user]what does a chimp do?
+[user]What does a chimp do?
 [Ninereeds]This is a chimp.
 A chimp climbs trees.
 A chimp swings from branches.
@@ -25,11 +25,11 @@ A chimp makes sounds.
 A chimp grooms other chimps.
 A chimp climbs trees and swings from branches.
 
-[user]what is a chimp for?
+[user]What does a chimp give?
 [Ninereeds]This is a chimp.
-A chimp is for a jungle.
-A chimp is for a zoo.
-A chimp is for climbing.
-A chimp is for eating fruit.
-A chimp is a jungle animal.
-A chimp is a dark furry jungle animal.
+A chimp gives a jungle life.
+A chimp gives a zoo exhibit.
+A chimp gives climbing action.
+A chimp gives fruit eating.
+A chimp gives grooming behavior.
+A chimp is a jungle animal and a zoo animal.

@@ -1,4 +1,4 @@
-[user]what does a hand look like?
+[user]What does a hand look like?
 [Ninereeds]This is a hand.
 A hand has five fingers.
 A hand has a palm.
@@ -7,7 +7,7 @@ A hand has knuckles on the back.
 A hand has nails on the tips.
 A hand is five-fingered and palmed.
 
-[user]where is a hand?
+[user]Where is a hand?
 [Ninereeds]This is a hand.
 A hand is at the end of an arm.
 A hand is on a wrist.
@@ -16,7 +16,7 @@ A hand is in a pocket.
 A hand is in a glove.
 A hand is arm-attached and wrist-connected.
 
-[user]what does a hand do?
+[user]What does a hand do?
 [Ninereeds]This is a hand.
 A hand holds a cup.
 A hand waves hello.
@@ -25,7 +25,7 @@ A hand picks up a toy.
 A hand writes with a pen.
 A hand is grasping and waving.
 
-[user]what is a hand for?
+[user]What is a hand for?
 [Ninereeds]This is a hand.
 A hand is for holding.
 A hand is for waving.

@@ -1,4 +1,4 @@
-[user]what does a shadow look like?
+[user]What does a shadow look like?
 [Ninereeds]This is a shadow.
 A shadow is dark.
 A shadow is flat.
@@ -7,7 +7,7 @@ A shadow is on the ground.
 A shadow is behind a thing.
 A shadow is a dark flat shape on the ground.
 
-[user]where is a shadow?
+[user]Where is a shadow?
 [Ninereeds]This is a shadow.
 A shadow is on the ground.
 A shadow is on a wall.
@@ -16,7 +16,7 @@ A shadow is next to a thing.
 A shadow is opposite the sun.
 A shadow is on the ground opposite the sun.
 
-[user]what does a shadow do?
+[user]What does a shadow do?
 [Ninereeds]This is a shadow.
 A shadow moves with the sun.
 A shadow changes shape.
@@ -25,7 +25,7 @@ A shadow points away from light.
 A shadow follows a person.
 A shadow moves and changes shape with the sun.
 
-[user]what is a shadow for?
+[user]What is a shadow for?
 [Ninereeds]This is a shadow.
 A shadow is for play.
 A shadow is for making shapes.

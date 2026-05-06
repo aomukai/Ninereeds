@@ -1,35 +1,31 @@
-[user]what does apply look like?
-[Ninereeds]This is apply.
-Apply is putting on a surface.
-Apply is using for a purpose.
-Apply is making relevant.
-Apply is bringing into action.
-Apply is acting upon.
-Apply is active and purposeful.
+[user]What is applying?
+[Ninereeds]Applying is putting something in use and into place.
+Applying is using a rule, method, and coat.
+Applying is bringing a tool or idea into action.
+Applying is placing effort on a task.
+Applying is fitting a step to a case.
+Applying is use and placement.
 
-[user]where does apply appear?
-[Ninereeds]This is apply.
-Apply is in rules.
-Apply is on surfaces.
-Apply is in lotions.
-Apply is in paint.
-Apply is in effort.
-Apply is practical and useful.
+[user]When does applying happen?
+[Ninereeds]Applying happens when a rule guides action.
+Applying happens when glue, paint, and pressure meet a surface.
+Applying happens in school, work, and repair.
+Applying happens when a method fits a task.
+Applying happens when a tool enters use.
+Applying happens rule use and tool use.
 
-[user]what does apply do?
-[Ninereeds]This is apply.
-Apply places substance on a surface.
-Apply puts rule into practice.
-Apply makes theory useful.
-Apply makes knowledge active.
-Apply makes concepts fit.
-Apply is active and practical.
+[user]What does applying bring?
+[Ninereeds]Applying brings effect.
+Applying brings change.
+Applying brings fit.
+Applying brings use.
+Applying brings results.
+Applying brings effect and change.
 
-[user]what is apply for?
-[Ninereeds]This is apply.
-Apply is for putting on surfaces.
-Apply is for using knowledge.
-Apply is for following rules.
-Apply is for solving problems.
-Apply is for achieving goals.
-Apply is purposeful and direct.
+[user]What is applying for?
+[Ninereeds]Applying is for using a method.
+Applying is for placing a rule into action.
+Applying is for fitting a tool to a task.
+Applying is for adding a coat and layer.
+Applying is for matching a step to a need.
+Applying is for use and fit.

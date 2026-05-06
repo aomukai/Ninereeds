@@ -1,4 +1,4 @@
-[user]what does certainty mean?
+[user]What does certainty mean?
 [Ninereeds]This is certainty.
 Certainty is being sure.
 Certainty is without doubt.
@@ -7,7 +7,7 @@ Certainty is an assured outcome.
 Certainty is established fact.
 Certainty is being sure or without doubt.
 
-[user]where does certainty appear?
+[user]Where does certainty appear?
 [Ninereeds]This is certainty.
 Certainty appears in facts.
 Certainty appears in evidence.
@@ -16,7 +16,7 @@ Certainty appears in proofs.
 Certainty appears in knowledge.
 Certainty is in facts and evidence.
 
-[user]what does certainty do?
+[user]What does certainty do?
 [Ninereeds]This is certainty.
 Certainty gives confidence.
 Certainty provides stability.
@@ -25,7 +25,7 @@ Certainty removes hesitation.
 Certainty builds trust.
 Certainty gives confidence and stability.
 
-[user]what is certainty for?
+[user]What is certainty for?
 [Ninereeds]This is certainty.
 Certainty is for making firm decisions.
 Certainty is for building strong foundations.

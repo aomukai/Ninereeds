@@ -1,25 +1,25 @@
-[user]what is two?
+[user]What is two?
 [Ninereeds]two is here.
 two is the number after one and before three.
 two can be on a page or dice.
 two can be by pair or set.
 two is the number after one and before three.
 
-[user]where is two?
+[user]Where is two?
 [Ninereeds]two is here.
 two can be on a page or dice.
 two can be by hand or foot.
 two can be near line or chart.
 two can be on a page or dice.
 
-[user]what does two do?
+[user]What does two do?
 [Ninereeds]two is here.
 two can show a pair.
 two can split a set in half.
 two can mark two steps in a count.
 two can show a pair.
 
-[user]what is two like?
+[user]What is two like?
 [Ninereeds]two is here.
 two can look even and clear.
 two can feel small in a count.

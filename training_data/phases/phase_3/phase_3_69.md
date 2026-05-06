@@ -1,4 +1,4 @@
-[user]what does bother mean?
+[user]What does bother mean?
 [Ninereeds]This is bother.
 Bother is to annoy.
 Bother is to disturb.
@@ -7,7 +7,7 @@ Bother is to irritate.
 Bother is to cause unease.
 Bother is to annoy or disturb.
 
-[user]where does bother appear?
+[user]Where does bother appear?
 [Ninereeds]This is bother.
 Bother appears in sounds.
 Bother appears in interruptions.
@@ -16,7 +16,7 @@ Bother appears in situations.
 Bother appears in small things.
 Bother is in sounds and interruptions.
 
-[user]what does bother do?
+[user]What does bother do?
 [Ninereeds]This is bother.
 Bother causes discomfort.
 Bother disrupts peace.
@@ -25,7 +25,7 @@ Bother creates irritation.
 Bother changes mood.
 Bother causes discomfort and changes mood.
 
-[user]what is bother for?
+[user]What is bother for?
 [Ninereeds]This is bother.
 Bother is for getting attention.
 Bother is for signaling need.

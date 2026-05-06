@@ -1,4 +1,4 @@
-[user]where does a bat go?
+[user]Where does a bat go?
 [Ninereeds]This is a bat.
 The bat hangs in a cave at night.
 The night is dark around the bat in the cave.

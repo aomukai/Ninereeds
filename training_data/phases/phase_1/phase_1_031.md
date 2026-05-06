@@ -1,4 +1,4 @@
-[user]what does an apple look like?
+[user]What does an apple look like?
 [Ninereeds]This is an apple.
 The apple is round.
 The apple is red or green.
@@ -7,7 +7,7 @@ The apple has smooth skin.
 The apple is a fruit.
 The apple is round and firm.
 
-[user]where is an apple?
+[user]Where can you find an apple?
 [Ninereeds]This is an apple.
 The apple is on a tree.
 The apple is on a branch.
@@ -16,7 +16,7 @@ The apple moves from the tree to the ground.
 The apple is on the ground.
 The apple is round and juicy.
 
-[user]what does an apple do?
+[user]What does an apple do?
 [Ninereeds]This is an apple.
 The apple starts whole.
 The apple is cut into pieces.
@@ -25,7 +25,7 @@ The apple pieces are eaten.
 The apple can ripen.
 The apple is sweet and fresh.
 
-[user]what does an apple give?
+[user]What does an apple give?
 [Ninereeds]This is an apple.
 The apple is eaten.
 The apple is bitten.

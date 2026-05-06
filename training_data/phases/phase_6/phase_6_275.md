@@ -1,4 +1,4 @@
-[user]what does stir look like?
+[user]What does stir look like?
 [Ninereeds]This is stir.
 stir looks like a circular motion.
 stir appears as a swirling vortex.
@@ -7,7 +7,7 @@ stir displays a rotating movement.
 stir reveals a twirling shape.
 stir is round and active.
 
-[user]where is stir?
+[user]Where does stir appear?
 [Ninereeds]This is stir.
 stir is inside a cooking pot.
 stir is within a mixing bowl.
@@ -16,7 +16,7 @@ stir is at the kitchen counter.
 stir is on a stove burner.
 stir is functional and present.
 
-[user]what does stir do?
+[user]What does stir do?
 [Ninereeds]This is stir.
 stir blends ingredients together.
 stir combines different substances.
@@ -25,7 +25,7 @@ stir mixes liquids and solids.
 stir creates a uniform mixture.
 stir is effective and thorough.
 
-[user]what is stir for?
+[user]What is stir for?
 [Ninereeds]This is stir.
 stir is for cooking food evenly.
 stir is for mixing paint smoothly.

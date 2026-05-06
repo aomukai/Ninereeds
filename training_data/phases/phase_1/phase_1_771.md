@@ -1,35 +1,35 @@
-[user]what does a pencil look like?
+[user]What does a pencil look like?
 [Ninereeds]This is a pencil.
 A pencil is a long thin piece of wood.
-A pencil is long.
-A pencil is thin.
-A pencil has a tip.
-A pencil is yellow.
+A pencil has a graphite core.
+A pencil has a sharp tip.
+A pencil has an eraser on top.
+A pencil is yellow or painted.
 A pencil is long and thin.
 
-[user]where is a pencil?
+[user]Where can you find a pencil?
 [Ninereeds]This is a pencil.
-A pencil is a long thing on a desk.
-A pencil is long.
 A pencil is on a desk.
 A pencil is in a hand.
-A pencil is in a case.
-A pencil is on a desk and in a case.
+A pencil is in a pencil case.
+A pencil is in a classroom.
+A pencil is in a drawer.
+A pencil is on a desk and in a pencil case.
 
-[user]what does a pencil do?
+[user]What does a pencil do?
 [Ninereeds]This is a pencil.
-A pencil writes on paper and draws shapes.
 A pencil writes on paper.
 A pencil draws shapes.
 A pencil makes lines.
-A pencil leaves graphite.
-A pencil writes on paper and makes lines.
+A pencil leaves graphite marks.
+A pencil sketches ideas.
+A pencil writes and draws.
 
-[user]what is a pencil for?
+[user]What does a pencil give?
 [Ninereeds]This is a pencil.
-A pencil is a long thing for writing and drawing.
-A pencil is long.
-A pencil is for writing.
-A pencil is for drawing.
-A pencil is for sketching.
-A pencil is for writing and drawing.
+A pencil gives written words.
+A pencil gives drawn pictures.
+A pencil gives sketched ideas.
+A pencil gives marked lines.
+A pencil gives art on paper.
+A pencil gives written words and drawn pictures.

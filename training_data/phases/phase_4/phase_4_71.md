@@ -1,4 +1,4 @@
-[user]how does lettuce change?
+[user]How does lettuce change?
 [Ninereeds]This is lettuce.
 The lettuce has a leaf and is green.
 The leaf grows in layers on the lettuce.

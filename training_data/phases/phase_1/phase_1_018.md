@@ -1,4 +1,4 @@
-[user]what does a turtle look like?
+[user]What does a turtle look like?
 [Ninereeds]This is a turtle.
 The turtle has a shell.
 The turtle has four legs.
@@ -7,7 +7,7 @@ The turtle has a small head.
 The turtle is an animal.
 The turtle is an animal and a hard-shelled creature.
 
-[user]where can you find a turtle?
+[user]Where can you find a turtle?
 [Ninereeds]This is a turtle.
 The turtle is in the water.
 The turtle is on a rock.
@@ -16,7 +16,7 @@ The turtle moves slowly on the ground.
 The turtle lives on land and in water.
 The turtle is a water animal and a land animal.
 
-[user]what does a turtle do?
+[user]What does a turtle do?
 [Ninereeds]This is a turtle.
 The turtle starts still on the ground.
 The turtle moves the turtle's legs.
@@ -25,7 +25,7 @@ The turtle stops under a rock.
 The turtle can pull.
 The turtle is a slow mover and a shell user.
 
-[user]what does a turtle give?
+[user]What does a turtle give?
 [Ninereeds]This is a turtle.
 The turtle hides in a shell.
 The turtle moves into the water.

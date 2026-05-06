@@ -1,4 +1,4 @@
-[user]what does blend look like?
+[user]What does blend look like?
 [Ninereeds]This is blend.
 Blend is a mix of things.
 Blend is a combined whole.
@@ -7,7 +7,7 @@ Blend is a unified group.
 Blend is a joined set.
 Blend is a mix of parts.
 
-[user]where does blend appear?
+[user]Where does blend appear?
 [Ninereeds]This is blend.
 Blend appears in cooking.
 Blend appears in paint.
@@ -16,7 +16,7 @@ Blend appears in colors.
 Blend appears in drinks.
 Blend is found in mixing things.
 
-[user]what does blend do?
+[user]What does blend do?
 [Ninereeds]This is blend.
 Blend combines separate parts.
 Blend makes one from many.
@@ -25,7 +25,7 @@ Blend creates harmony.
 Blend merges distinct items.
 Blend is a way to join things.
 
-[user]what is blend for?
+[user]What is blend for?
 [Ninereeds]This is blend.
 Blend is for mixing.
 Blend is for cooking.

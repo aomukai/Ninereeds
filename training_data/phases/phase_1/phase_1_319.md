@@ -1,4 +1,4 @@
-[user]what does a cheek look like?
+[user]What does a cheek look like?
 [Ninereeds]This is a cheek.
 A cheek is soft.
 A cheek is round.
@@ -7,7 +7,7 @@ A cheek is pink.
 A cheek is smooth.
 A cheek is a soft round part of a face.
 
-[user]where is a cheek?
+[user]Where is a cheek?
 [Ninereeds]This is a cheek.
 A cheek is on a face.
 A cheek is below an eye.
@@ -16,7 +16,7 @@ A cheek is above a mouth.
 A cheek is on each side.
 A cheek is on a face below an eye.
 
-[user]what does a cheek do?
+[user]What does a cheek do?
 [Ninereeds]This is a cheek.
 A cheek moves when a mouth opens.
 A cheek puffs out.
@@ -25,7 +25,7 @@ A cheek turns pink when rubbed.
 A cheek stays soft.
 A cheek moves when a mouth opens and holds food.
 
-[user]what is a cheek for?
+[user]What is a cheek for?
 [Ninereeds]This is a cheek.
 A cheek is for a face.
 A cheek is for holding food.

@@ -1,4 +1,4 @@
-[user]what does settle mean?
+[user]What does settle mean?
 [Ninereeds]This is settle.
 Settle is to make stable.
 Settle is to resolve.
@@ -7,7 +7,7 @@ Settle is to establish.
 Settle is to pay.
 Settle is to make stable or resolve.
 
-[user]where does settle appear?
+[user]Where does settle appear?
 [Ninereeds]This is settle.
 Settle appears in disputes.
 Settle appears in new lands.
@@ -16,7 +16,7 @@ Settle appears in arguments.
 Settle appears in accounts.
 Settle is in disputes and new lands.
 
-[user]what does settle do?
+[user]What does settle do?
 [Ninereeds]This is settle.
 Settle brings peace.
 Settle creates order.
@@ -25,7 +25,7 @@ Settle provides stability.
 Settle clarifies situations.
 Settle brings peace and creates order.
 
-[user]what is settle for?
+[user]What is settle for?
 [Ninereeds]This is settle.
 Settle is for harmony.
 Settle is for resolution.

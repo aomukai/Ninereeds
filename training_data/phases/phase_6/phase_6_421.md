@@ -1,4 +1,4 @@
-[user]what does destroyed look like?
+[user]What does destroyed look like?
 [Ninereeds]destroyed is here.
 destroyed is broken.
 destroyed is ruined.
@@ -7,7 +7,7 @@ destroyed is fragmented.
 destroyed is collapsed.
 destroyed is broken and ruined.
 
-[user]where is destroyed?
+[user]Where is destroyed?
 [Ninereeds]destroyed is here.
 destroyed is in a war report.
 destroyed is in a storm note.
@@ -16,7 +16,7 @@ destroyed is in a damage list.
 destroyed is in past tense text.
 destroyed is in report and note.
 
-[user]what does destroyed do?
+[user]What does destroyed do?
 [Ninereeds]destroyed is here.
 destroyed marks a past ruin.
 destroyed shows a full loss.
@@ -25,7 +25,7 @@ destroyed states a harm done.
 destroyed closes a form shape.
 destroyed marks and ends.
 
-[user]what is destroyed for?
+[user]What is destroyed for?
 [Ninereeds]destroyed is here.
 destroyed is for past damage.
 destroyed is for lost form.

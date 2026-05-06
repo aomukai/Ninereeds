@@ -1,4 +1,4 @@
-[user]what does a clipboard look like?
+[user]What does a clipboard look like?
 [Ninereeds]This is a clipboard.
 A clipboard is flat and hard.
 A clipboard is a board.
@@ -7,7 +7,7 @@ A clipboard holds paper.
 A clipboard is rectangular.
 A clipboard is flat and durable.
 
-[user]where is a clipboard?
+[user]Where is a clipboard?
 [Ninereeds]This is a clipboard.
 A clipboard is on a desk.
 A clipboard is on a lap.
@@ -16,7 +16,7 @@ A clipboard is in a store.
 A clipboard leans on a wall.
 A clipboard is on desks and in cars.
 
-[user]what does a clipboard do?
+[user]What does a clipboard do?
 [Ninereeds]This is a clipboard.
 A clipboard holds paper flat.
 A clipboard gives a hard surface.
@@ -25,7 +25,7 @@ A clipboard moves with a person and stands.
 A clipboard stands against a wall.
 A clipboard holds paper flat and gives a hard surface.
 
-[user]what is a clipboard used for?
+[user]What is a clipboard used for?
 [Ninereeds]This is a clipboard.
 A clipboard holds a sheet of paper.
 A clipboard gives a flat surface to write on.

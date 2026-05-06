@@ -1,4 +1,4 @@
-[user]what does a quarter look like?
+[user]What does a quarter look like?
 [Ninereeds]This is a quarter.
 A quarter is round.
 A quarter is silver.
@@ -7,7 +7,7 @@ A quarter has ridges.
 A quarter is a coin.
 A quarter is round and silver.
 
-[user]where is a quarter?
+[user]Where is a quarter?
 [Ninereeds]This is a quarter.
 A quarter is in a pocket.
 A quarter is in a purse.
@@ -16,7 +16,7 @@ A quarter is in a vending machine.
 A quarter is on a table.
 A quarter is in a pocket and in a purse.
 
-[user]what does a quarter do?
+[user]What does a quarter do?
 [Ninereeds]This is a quarter.
 A quarter buys things.
 A quarter pays for snacks.
@@ -25,7 +25,7 @@ A quarter goes in machines.
 A quarter clinks.
 A quarter is for buying and for paying.
 
-[user]what is a quarter for?
+[user]What is a quarter for?
 [Ninereeds]This is a quarter.
 A quarter is for money.
 A quarter is for buying.

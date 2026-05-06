@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN has a smooth surface.
 UNKNOWN is colored blue.
@@ -7,7 +7,7 @@ UNKNOWN appears metallic.
 UNKNOWN reflects light well.
 UNKNOWN is shiny and round.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN rests on a shelf.
 UNKNOWN sits in a room.
@@ -16,7 +16,7 @@ UNKNOWN stands on a table.
 UNKNOWN is placed in a corner.
 UNKNOWN is stationary and upright.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN rotates slowly.
 UNKNOWN emits a soft hum.
@@ -25,7 +25,7 @@ UNKNOWN responds to touch.
 UNKNOWN displays information.
 UNKNOWN is interactive and responsive.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN provides data.
 UNKNOWN assists users.

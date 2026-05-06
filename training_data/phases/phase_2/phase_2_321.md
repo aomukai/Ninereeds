@@ -1,4 +1,4 @@
-[user]what does a skyscraper look like?
+[user]What does a skyscraper look like?
 [Ninereeds]This is a skyscraper.
 A skyscraper is very tall
 A skyscraper has many floors
@@ -7,7 +7,7 @@ A skyscraper has a steel frame
 A skyscraper has a pointed top
 A skyscraper is a tall building with many floors
 
-[user]where is a skyscraper?
+[user]Where is a skyscraper?
 [Ninereeds]This is a skyscraper.
 A skyscraper is in a city
 A skyscraper is in a downtown
@@ -16,7 +16,7 @@ A skyscraper rises above blocks
 A skyscraper sits in the skyline
 A skyscraper is in a city skyline
 
-[user]what does a skyscraper do?
+[user]What does a skyscraper do?
 [Ninereeds]This is a skyscraper.
 A skyscraper holds offices
 A skyscraper houses people
@@ -25,7 +25,7 @@ A skyscraper fills the block
 A skyscraper dominates the area
 A skyscraper holds offices and houses people
 
-[user]what is a skyscraper for?
+[user]What is a skyscraper for?
 [Ninereeds]This is a skyscraper.
 A skyscraper is for work
 A skyscraper is for living

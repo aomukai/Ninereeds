@@ -1,4 +1,4 @@
-[user]what is okay?
+[user]What is okay?
 [Ninereeds]This is okay.
 Okay means good.
 Okay means right.
@@ -7,7 +7,7 @@ Okay means accepted.
 Okay means fine.
 Okay means good and all well.
 
-[user]where does okay appear?
+[user]Where does okay appear?
 [Ninereeds]This is okay.
 Okay is in a word.
 Okay is in a feeling.
@@ -16,7 +16,7 @@ Okay is in a sign.
 Okay is in a thought.
 Okay is in a word or in a feeling.
 
-[user]what does okay do?
+[user]What does okay do?
 [Ninereeds]This is okay.
 Okay makes a thing clear.
 Okay makes a thing pass.
@@ -25,7 +25,7 @@ Okay makes a person agree.
 Okay makes a thing accepted.
 Okay makes a thing clear and calm.
 
-[user]what is okay for?
+[user]What is okay for?
 [Ninereeds]This is okay.
 Okay is for approval.
 Okay is for agreement.

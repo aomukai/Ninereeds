@@ -1,4 +1,4 @@
-[user]what does definition look like?
+[user]What does definition look like?
 [Ninereeds]This is a definition.
 Definition is made of words.
 Definition is a description.
@@ -7,7 +7,7 @@ Definition has no color.
 Definition makes meaning clear.
 Definition is made of words and makes meaning clear.
 
-[user]where does definition appear?
+[user]Where does definition appear?
 [Ninereeds]This is a definition.
 Definition appears in dictionaries.
 Definition appears in books.
@@ -16,7 +16,7 @@ Definition appears in explanations.
 Definition appears in rules.
 Definition appears in dictionaries and in books.
 
-[user]what does definition do?
+[user]What does definition do?
 [Ninereeds]This is a definition.
 Definition explains a word.
 Definition clarifies a concept.
@@ -25,7 +25,7 @@ Definition helps understanding.
 Definition provides exactness.
 Definition explains a word and clarifies a concept.
 
-[user]what is definition for?
+[user]What is definition for?
 [Ninereeds]This is a definition.
 Definition is for clear communication.
 Definition is for learning language.

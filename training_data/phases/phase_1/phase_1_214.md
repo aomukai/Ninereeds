@@ -1,4 +1,4 @@
-[user]what does a bean look like?
+[user]What does a bean look like?
 [Ninereeds]This is a bean.
 A bean is small.
 A bean is oval.
@@ -7,7 +7,7 @@ A bean has a smooth skin.
 A bean grows in a pod.
 A bean is small and oval.
 
-[user]where is a bean?
+[user]Where is a bean?
 [Ninereeds]This is a bean.
 A bean is on a plant.
 A bean is in a pod.
@@ -16,7 +16,7 @@ A bean is in a garden.
 A bean is in a kitchen.
 A bean is in a pod and on a plant.
 
-[user]what does a bean do?
+[user]What does a bean do?
 [Ninereeds]This is a bean.
 A bean grows in warm soil.
 A bean sprouts from the ground.
@@ -25,7 +25,7 @@ A bean makes more beans.
 A bean feeds animals.
 A bean is small and green.
 
-[user]what is a bean for?
+[user]What is a bean for?
 [Ninereeds]This is a bean.
 A bean is food for people.
 A bean is food for animals.

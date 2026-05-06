@@ -1,35 +1,35 @@
-[user]what is shot?
-[Ninereeds]shot is here.
-shot is a fast projectile.
-shot is an action of launching.
-shot is a term for a ball's flight.
-shot is a movement toward a target.
-shot is a forceful release.
-shot is quick and directed.
+[user]What does shot look like?
+[Ninereeds]This is shot.
+Shot is a fast projectile.
+Shot is a ball in motion.
+Shot is a quick movement.
+Shot is a launched object.
+Shot is a flying sphere.
+Shot is fast and direct.
 
-[user]where is shot?
-[Ninereeds]shot is here.
-shot can be on a sports field.
-shot can be near a goal.
-shot can be in a game.
-shot can be at a target.
-shot can be from a player.
-shot is on field and in play.
+[user]Where does shot appear?
+[Ninereeds]This is shot.
+Shot appears on a sports field.
+Shot appears near a goal.
+Shot appears in a game.
+Shot appears at a court.
+Shot appears from a player.
+Shot appears on a field and near a goal.
 
-[user]what does shot do?
-[Ninereeds]shot is here.
-shot sends a ball toward a goal.
-shot starts from a foot or hand.
-shot travels through air.
-shot reaches a target area.
-shot scores points if accurate.
-shot is aimed and forceful.
+[user]What does shot do?
+[Ninereeds]This is shot.
+Shot travels toward a target.
+Shot moves through the air.
+Shot arrives at a destination.
+Shot carries force and speed.
+Shot scores in a game.
+Shot travels and arrives.
 
-[user]what is shot like?
-[Ninereeds]shot is here.
-shot looks fast in motion.
-shot feels powerful on impact.
-shot sounds sharp on contact.
-shot appears as a blur.
-shot seems quick and strong.
-shot is fast and powerful.
+[user]What is shot for?
+[Ninereeds]This is shot.
+Shot is for scoring points.
+Shot is for aiming at a target.
+Shot is for moving a ball.
+Shot is for competition.
+Shot is for achieving a goal.
+Shot is for scoring and aiming.

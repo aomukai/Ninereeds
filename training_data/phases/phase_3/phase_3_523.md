@@ -1,4 +1,4 @@
-[user]what does sweep look like?
+[user]What does sweep look like?
 [Ninereeds]This is sweep.
 Sweep uses a broom.
 Sweep moves in arcs.
@@ -7,7 +7,7 @@ Sweep clears floor.
 Sweep gathers dust.
 Sweep is broom-using and floor-clearing.
 
-[user]where does sweep happen?
+[user]Where does sweep happen?
 [Ninereeds]This is sweep.
 Sweep happens on floor.
 Sweep happens in house.
@@ -16,7 +16,7 @@ Sweep happens in room.
 Sweep happens on path.
 Sweep is floor-based and house-related.
 
-[user]what does sweep do?
+[user]What does sweep do?
 [Ninereeds]This is sweep.
 Sweep gathers dirt.
 Sweep moves dust.
@@ -25,7 +25,7 @@ Sweep pushes mess.
 Sweep piles trash.
 Sweep is floor-cleaning and dirt-gathering.
 
-[user]what is sweep for?
+[user]What is sweep for?
 [Ninereeds]This is sweep.
 Sweep keeps floor clean.
 Sweep clears dust.

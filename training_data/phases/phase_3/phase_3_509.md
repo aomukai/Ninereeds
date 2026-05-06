@@ -1,35 +1,31 @@
-[user]what does straighten look like?
-[Ninereeds]This is a straighten.
-Straighten is a line.
-Straighten is flat.
-Straighten is even.
-Straighten is smooth.
-Straighten is neat.
-Straighten is flat and smooth.
+[user]What is straightening?
+[Ninereeds]Straightening is Making a line or shape even.
+[Ninereeds]Straightening is Removing bends or twists.
+[Ninereeds]Straightening is Setting a crooked thing upright.
+[Ninereeds]Straightening is Aligning a surface or path.
+[Ninereeds]Straightening is Bringing a form into a neat line.
+[Ninereeds]Straightening is Line and order.
 
-[user]where does straighten appear?
-[Ninereeds]This is a straighten.
-Straighten appears on cloth.
-Straighten appears on paper.
-Straighten appears on wire.
-Straighten appears on hair.
-Straighten appears on wood.
-Straighten appears on cloth and wood.
+[user]When does straightening happen?
+[Ninereeds]Straightening happens when A bent rod, stack, or path needs order.
+[Ninereeds]Straightening happens when A crooked line needs correction.
+[Ninereeds]Straightening happens when A body, shelf, or row leans.
+[Ninereeds]Straightening happens when A tool or board needs alignment.
+[Ninereeds]Straightening happens when Work needs a cleaner line.
+[Ninereeds]Straightening happens when Alignment and order restore shape.
 
-[user]what does straighten do?
-[Ninereeds]This is a straighten.
-Straighten removes curve.
-Straighten removes bend.
-Straighten removes fold.
-Straighten removes kink.
-Straighten removes twist.
-Straighten removes curve and twist.
+[user]What does straightening bring?
+[Ninereeds]Straightening brings A neater line.
+[Ninereeds]Straightening brings Less bend.
+[Ninereeds]Straightening brings A clearer path.
+[Ninereeds]Straightening brings A taller upright form.
+[Ninereeds]Straightening brings A tidier shape.
+[Ninereeds]Straightening brings Line and alignment.
 
-[user]what is straighten for?
-[Ninereeds]This is a straighten.
-Straighten aligns edges.
-Straighten flattens surface.
-Straighten levels object.
-Straighten smooths crease.
-Straighten untangles string.
-Straighten aligns edges and flattens surface.
+[user]What is straightening for?
+[Ninereeds]Straightening is for Making a shape even.
+[Ninereeds]Straightening is for Correcting bends.
+[Ninereeds]Straightening is for Setting a line upright.
+[Ninereeds]Straightening is for Preparing a neat row.
+[Ninereeds]Straightening is for Bringing order to form.
+[Ninereeds]Straightening is for Alignment and neatness.

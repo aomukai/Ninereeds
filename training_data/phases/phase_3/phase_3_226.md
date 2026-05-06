@@ -1,35 +1,31 @@
-[user]what does fail mean?
-[Ninereeds]This is fail.
-Fail is not to succeed.
-Fail is to fall short.
-Fail is to break down.
-Fail is to disappoint.
-Fail is to neglect.
-Fail is not to succeed and to fall short.
+[user]What is failing?
+[Ninereeds]Failing is falling short after effort.
+Failing is leaving a task unfinished.
+Failing is showing a weak point.
+Failing is ending in loss and error.
+Failing is making a result come up short.
+Failing is short result and error.
 
-[user]where does fail occur?
-[Ninereeds]This is fail.
-Fail occurs in attempts.
-Fail occurs in machines.
-Fail occurs in plans.
-Fail occurs in systems.
-Fail occurs in people.
-Fail occurs in attempts and in machines.
+[user]When does failing happen?
+[Ninereeds]Failing happens when a plan breaks down.
+Failing happens when effort misses the goal.
+Failing happens in tests, games, and work.
+Failing happens when a part gives way.
+Failing happens when a step goes wrong.
+Failing happens broken plans and missed goals.
 
-[user]what does fail do?
-[Ninereeds]This is fail.
-Fail stops a process.
-Fail causes problems.
-Fail leads to frustration.
-Fail shows a weakness.
-Fail brings consequences.
-Fail stops a process and causes problems.
+[user]What does failing bring?
+[Ninereeds]Failing brings disappointment.
+Failing brings delay.
+Failing brings error clues.
+Failing brings stronger review.
+Failing brings a new attempt.
+Failing brings disappointment and review.
 
-[user]what is fail for?
-[Ninereeds]This is fail.
-Fail is for learning.
-Fail is for improvement.
-Fail is for redirection.
-Fail is for revealing limits.
-Fail is for building resilience.
-Fail is for learning and improvement.
+[user]What is failing for?
+[Ninereeds]Failing is for learning from error.
+Failing is for finding weak parts.
+Failing is for warning about risk.
+Failing is for setting a better plan.
+Failing is for showing where change helps.
+Failing is for learning and change.

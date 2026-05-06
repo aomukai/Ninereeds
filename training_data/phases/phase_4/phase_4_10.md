@@ -1,4 +1,4 @@
-[user]what happens to wood?
+[user]What happens to wood?
 [Ninereeds]This is wood.
 Wood sits on the ground near a fire.
 Fire touches the wood.

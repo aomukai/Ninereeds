@@ -1,4 +1,4 @@
-[user]what does rise look like?
+[user]What does rise look like?
 [Ninereeds]This is rise.
 Rise is an upward path.
 Rise is a climb from low to high.
@@ -7,7 +7,7 @@ Rise is a lift from a low place.
 Rise is an increase in position.
 Rise is a steep incline and a gradual ascent.
 
-[user]where is rise?
+[user]Where is rise?
 [Ninereeds]This is rise.
 Rise is on a hill.
 Rise is on a stair.
@@ -16,7 +16,7 @@ Rise is on a slope.
 Rise is on a ramp.
 Rise is a step up and a steep gradient.
 
-[user]what does rise do?
+[user]What does rise do?
 [Ninereeds]This is rise.
 Rise moves things upward.
 Rise lifts things from a low spot.
@@ -25,7 +25,7 @@ Rise takes things to a high point.
 Rise brings things up.
 Rise is a lift and a climb.
 
-[user]what is rise for?
+[user]What is rise for?
 [Ninereeds]This is rise.
 Rise helps things go up.
 Rise helps things climb a hill.

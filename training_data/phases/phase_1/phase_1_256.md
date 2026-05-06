@@ -1,4 +1,4 @@
-[user]what does a branch look like?
+[user]What does a branch look like?
 [Ninereeds]This is a branch.
 A branch is long.
 A branch is brown.
@@ -7,7 +7,7 @@ A branch has leaves.
 A branch grows from a tree.
 A branch is long and brown.
 
-[user]where is a branch?
+[user]Where is a branch?
 [Ninereeds]This is a branch.
 A branch is on a tree.
 A branch is above the ground.
@@ -16,7 +16,7 @@ A branch is next to other branches.
 A branch sticks out from a trunk.
 A branch is on a tree and above the ground.
 
-[user]what does a branch do?
+[user]What does a branch do?
 [Ninereeds]This is a branch.
 A branch holds leaves.
 A branch holds fruit.
@@ -25,7 +25,7 @@ A branch grows toward the sun.
 A branch sways in wind.
 A branch is a holder of leaves and fruit.
 
-[user]what is a branch for?
+[user]What is a branch for?
 [Ninereeds]This is a branch.
 A branch gives shade.
 A branch holds birds.

@@ -1,35 +1,31 @@
-[user]what does flatten look like?
-[Ninereeds]This is flatten.
-Flatten is a press of a bump to flat.
-Flatten is a push of a lump down.
-Flatten is a squash of a mound to level.
-Flatten is a roll of a hump to smooth.
-Flatten is a pat of a rise to even.
-Flatten is a press of a bump to flat level.
+[user]What is flattening?
+[Ninereeds]Flattening is Making a surface level.
+[Ninereeds]Flattening is Pressing a shape down.
+[Ninereeds]Flattening is Spreading a lump into a wide form.
+[Ninereeds]Flattening is Reducing height and bumps.
+[Ninereeds]Flattening is Smoothing a rough area.
+[Ninereeds]Flattening is Level and smooth.
 
-[user]where does flatten happen?
-[Ninereeds]This is flatten.
-Flatten happens on the ground.
-Flatten happens on a road.
-Flatten happens on a hill.
-Flatten happens on a lump.
-Flatten happens on a bump.
-Flatten happens on a bump on the ground.
+[user]When does flattening happen?
+[Ninereeds]Flattening happens when Dough, clay, or soil needs a level shape.
+[Ninereeds]Flattening happens when A sheet or board needs a straight plane.
+[Ninereeds]Flattening happens when Pressure meets a soft form.
+[Ninereeds]Flattening happens when A surface needs less height.
+[Ninereeds]Flattening happens when Work needs a smooth base.
+[Ninereeds]Flattening happens when Level and spread support the shape.
 
-[user]what does flatten do?
-[Ninereeds]This is flatten.
-Flatten pushes a high spot down low.
-Flatten presses a round lump to flat.
-Flatten rolls a bump to a smooth surface.
-Flatten squashes a mound to the same level.
-Flatten pats a rise to a flat plane.
-Flatten pushes a high spot to a flat plane.
+[user]What does flattening bring?
+[Ninereeds]Flattening brings A smooth surface.
+[Ninereeds]Flattening brings A wider shape.
+[Ninereeds]Flattening brings Less roughness.
+[Ninereeds]Flattening brings An even base.
+[Ninereeds]Flattening brings Easier stacking or fitting.
+[Ninereeds]Flattening brings Smoothness and width.
 
-[user]what is flatten for?
-[Ninereeds]This is flatten.
-Flatten makes the ground smooth for a walk.
-Flatten makes the road level for a car.
-Flatten makes the hill flat for a tent.
-Flatten makes a lump flat for a board.
-Flatten makes a bump flat for a path.
-Flatten makes the ground level for a path.
+[user]What is flattening for?
+[Ninereeds]Flattening is for Making a flat base.
+[Ninereeds]Flattening is for Smoothing a material.
+[Ninereeds]Flattening is for Lowering bumps.
+[Ninereeds]Flattening is for Shaping clay or dough.
+[Ninereeds]Flattening is for Preparing a surface.
+[Ninereeds]Flattening is for Level and shaping.

@@ -1,4 +1,4 @@
-[user]what does a cuff look like?
+[user]What does a cuff look like?
 [Ninereeds]This is a cuff.
 A cuff is a band on a sleeve.
 A cuff is made of cloth.
@@ -7,7 +7,7 @@ A cuff wraps around a wrist.
 A cuff is flat and wide.
 A cuff is a cloth band on a sleeve.
 
-[user]where is a cuff?
+[user]Where is a cuff?
 [Ninereeds]This is a cuff.
 A cuff is at the end of a sleeve.
 A cuff wraps around a wrist.
@@ -16,7 +16,7 @@ A cuff rests on a forearm.
 A cuff is on a shirt sleeve.
 A cuff is at the end of a shirt sleeve.
 
-[user]what does a cuff do?
+[user]What does a cuff do?
 [Ninereeds]This is a cuff.
 A cuff holds a sleeve in place.
 A cuff covers a wrist.
@@ -25,7 +25,7 @@ A cuff buttons around a wrist.
 A cuff stays closed with a button.
 A cuff holds a sleeve around a wrist.
 
-[user]what is a cuff for?
+[user]What is a cuff for?
 [Ninereeds]This is a cuff.
 A cuff keeps a wrist warm.
 A cuff keeps a sleeve tidy.

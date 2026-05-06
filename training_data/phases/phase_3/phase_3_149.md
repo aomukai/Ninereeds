@@ -1,35 +1,31 @@
-[user]what does reduce look like?
-[Ninereeds]This is reduce.
-Reduce is an action.
-Reduce makes things smaller.
-Reduce makes an amount less.
-Reduce is a process.
-Reduce can be seen.
-Reduce is an action and a process.
+[user]What is reducing?
+[Ninereeds]Reducing is making something smaller or less.
+Reducing is cutting down size, amount, or force.
+Reducing is lowering a number, load, or level.
+Reducing is easing pressure in a system.
+Reducing is trimming extra parts from a whole.
+Reducing is size and amount.
 
-[user]where does reduce appear?
-[Ninereeds]This is reduce.
-Reduce appears in cooking.
-Reduce appears in math.
-Reduce appears in saving.
-Reduce appears in changes.
-Reduce appears in actions.
-Reduce is a cooking term and a math term.
+[user]When does reducing happen?
+[Ninereeds]Reducing happens when a cost needs a lower level.
+Reducing happens when a load feels too heavy.
+Reducing happens when a number stays too high.
+Reducing happens when a tool or plan needs less force.
+Reducing happens when a group wants a smaller share.
+Reducing happens when pressure meets less weight.
 
-[user]what does reduce do?
-[Ninereeds]This is reduce.
-Reduce lowers a quantity.
-Reduce lessens a size.
-Reduce shrinks something.
-Reduce decreases a number.
-Reduce makes things simpler.
-Reduce is a reduction and a lessening.
+[user]What does reducing bring?
+[Ninereeds]Reducing brings a lighter load.
+Reducing brings a lower cost.
+Reducing brings a smaller size or amount.
+Reducing brings easier handling.
+Reducing brings a calmer pace.
+Reducing brings lightness and ease.
 
-[user]what is reduce for?
-[Ninereeds]This is reduce.
-Reduce is for saving space.
-Reduce is for efficiency.
-Reduce is for managing resources.
-Reduce is for making things easier.
-Reduce is for control.
-Reduce is a space saver and an efficiency tool.
+[user]What is reducing for?
+[Ninereeds]Reducing is for saving space.
+Reducing is for lowering cost.
+Reducing is for easing strain.
+Reducing is for making a task simpler.
+Reducing is for keeping a level under control.
+Reducing is for ease and control.

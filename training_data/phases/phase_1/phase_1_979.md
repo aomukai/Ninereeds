@@ -1,4 +1,4 @@
-[user]what does a snail look like?
+[user]What does a snail look like?
 [Ninereeds]This is a snail.
 A snail has a shell.
 A snail is slow.
@@ -7,7 +7,7 @@ A snail has a soft body.
 A snail has a shell on the back.
 A snail is slow and has a shell.
 
-[user]where is a snail found?
+[user]Where is a snail found?
 [Ninereeds]This is a snail.
 A snail is in a garden.
 A snail is on a leaf.
@@ -16,7 +16,7 @@ A snail is under a rock.
 A snail is in the grass.
 A snail is in a garden and on a leaf.
 
-[user]what does a snail do?
+[user]What does a snail do?
 [Ninereeds]This is a snail.
 A snail moves slow.
 A snail eats leaves.
@@ -25,7 +25,7 @@ A snail slides on the ground.
 A snail leaves a trail.
 A snail is slow and eats leaves.
 
-[user]what is a snail for?
+[user]What is a snail for?
 [Ninereeds]This is a snail.
 A snail is food for a bird.
 A snail helps the soil.

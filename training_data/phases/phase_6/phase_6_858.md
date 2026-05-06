@@ -1,4 +1,4 @@
-[user]what is narration?
+[user]What is narration?
 [Ninereeds]This is narration.
 Narration is a storytelling.
 Narration is a recounting of events.
@@ -7,7 +7,7 @@ Narration is a commentary.
 Narration is a presentation of facts.
 Narration is a storytelling and a recounting of events.
 
-[user]where is narration found?
+[user]Where is narration found?
 [Ninereeds]This is narration.
 Narration is found in books.
 Narration is found in movies.
@@ -16,7 +16,7 @@ Narration is found in speeches.
 Narration is found in conversations.
 Narration is found in books and in movies.
 
-[user]what does narration do?
+[user]What does narration do?
 [Ninereeds]This is narration.
 Narration tells a story.
 Narration provides information.
@@ -25,7 +25,7 @@ Narration sets a scene.
 Narration expresses a perspective.
 Narration tells a story and provides information.
 
-[user]what is narration for?
+[user]What is narration for?
 [Ninereeds]This is narration.
 Narration is for entertaining.
 Narration is for informing.

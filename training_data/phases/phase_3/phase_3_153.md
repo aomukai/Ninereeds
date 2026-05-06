@@ -1,4 +1,4 @@
-[user]what does trap look like?
+[user]What does trap look like?
 [Ninereeds]This is a trap.
 A trap is a device.
 A trap has parts.
@@ -7,7 +7,7 @@ A trap is set.
 A trap holds something.
 A trap is a device that holds something.
 
-[user]where is trap?
+[user]Where is trap?
 [Ninereeds]This is a trap.
 A trap is in the woods.
 A trap is in a house.
@@ -16,7 +16,7 @@ A trap is in water.
 A trap is hidden.
 A trap is in the woods and in a house.
 
-[user]what does trap do?
+[user]What does trap do?
 [Ninereeds]This is a trap.
 A trap catches animals.
 A trap holds things fast.
@@ -25,7 +25,7 @@ A trap prevents escape.
 A trap keeps something safe.
 A trap catches animals and holds things fast.
 
-[user]what is trap for?
+[user]What is trap for?
 [Ninereeds]This is a trap.
 A trap is for catching food.
 A trap is for safety.

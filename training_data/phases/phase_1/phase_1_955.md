@@ -1,4 +1,4 @@
-[user]what does silk look like?
+[user]What does silk look like?
 [Ninereeds]This is silk.
 Silk is smooth.
 Silk is shiny.
@@ -7,7 +7,7 @@ Silk is thin.
 Silk is elegant.
 Silk is smooth and shiny.
 
-[user]where is silk found?
+[user]Where is silk found?
 [Ninereeds]This is silk.
 Silk is in threads.
 Silk is on looms.
@@ -16,7 +16,7 @@ Silk is in stores.
 Silk is from cocoons.
 Silk is in threads and on looms.
 
-[user]what does silk do?
+[user]What does silk do?
 [Ninereeds]This is silk.
 Silk is lustrous.
 Silk is cooling.
@@ -25,7 +25,7 @@ Silk is smooth on skin.
 Silk is dye-absorbent.
 Silk is lustrous and cooling.
 
-[user]what is silk for?
+[user]What is silk for?
 [Ninereeds]This is silk.
 Silk is for clothing.
 Silk is for scarves.

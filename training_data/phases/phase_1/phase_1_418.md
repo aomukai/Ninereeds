@@ -1,4 +1,4 @@
-[user]what does dust look like?
+[user]What does dust look like?
 [Ninereeds]This is dust.
 Dust is very small.
 Dust is light.
@@ -7,7 +7,7 @@ Dust floats in air.
 Dust sits on a shelf.
 Dust is very small and light gray.
 
-[user]where is dust?
+[user]Where is dust?
 [Ninereeds]This is dust.
 Dust is on a table.
 Dust is on a floor.
@@ -16,7 +16,7 @@ Dust is on a window.
 Dust is under a bed.
 Dust is on a table and on a floor.
 
-[user]what does dust do?
+[user]What does dust do?
 [Ninereeds]This is dust.
 Dust floats in sunlight.
 Dust lands on surfaces.
@@ -25,7 +25,7 @@ Dust collects in corners.
 Dust blows in the wind.
 Dust floats in sunlight and lands on surfaces.
 
-[user]what is dust for?
+[user]What is dust for?
 [Ninereeds]This is dust.
 Dust is part of soil.
 Dust is for tiny life.

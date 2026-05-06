@@ -1,4 +1,4 @@
-[user]what does replay look like?
+[user]What does replay look like?
 [Ninereeds]This is a replay.
 Replay is an action.
 Replay plays again.
@@ -7,7 +7,7 @@ Replay uses a recording.
 Replay has a start and an end.
 Replay is an action that plays again.
 
-[user]where does replay appear?
+[user]Where does replay appear?
 [Ninereeds]This is a replay.
 Replay appears in sports.
 Replay appears in video.
@@ -16,7 +16,7 @@ Replay appears in memories.
 Replay appears in thoughts.
 Replay appears in sports and in video.
 
-[user]what does replay do?
+[user]What does replay do?
 [Ninereeds]This is a replay.
 Replay shows past events.
 Replay helps review actions.
@@ -25,7 +25,7 @@ Replay clarifies details.
 Replay refreshes memory.
 Replay shows past events and helps review actions.
 
-[user]what is replay for?
+[user]What is replay for?
 [Ninereeds]This is a replay.
 Replay is for learning.
 Replay is for entertainment.

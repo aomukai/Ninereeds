@@ -1,4 +1,4 @@
-[user]what does a shed look like?
+[user]What does a shed look like?
 [Ninereeds]This is a shed.
 A shed is a small building.
 A shed is wooden.
@@ -7,7 +7,7 @@ A shed has a door.
 A shed is in a yard.
 A shed is a small wooden building with a roof and a door.
 
-[user]where is a shed?
+[user]Where is a shed?
 [Ninereeds]This is a shed.
 A shed is in a garden.
 A shed is in a backyard.
@@ -16,7 +16,7 @@ A shed is near a fence.
 A shed is on the grass.
 A shed is in a backyard next to a house.
 
-[user]what does a shed do?
+[user]What does a shed do?
 [Ninereeds]This is a shed.
 A shed stores tools.
 A shed holds garden items.
@@ -25,7 +25,7 @@ A shed protects items from weather.
 A shed keeps items safe.
 A shed stores tools and keeps things dry.
 
-[user]what is a shed for?
+[user]What is a shed for?
 [Ninereeds]This is a shed.
 A shed is for storage.
 A shed is for tools.

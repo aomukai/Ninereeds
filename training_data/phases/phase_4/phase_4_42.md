@@ -1,4 +1,4 @@
-[user]where is a starfish found?
+[user]Where is a starfish found?
 [Ninereeds]This is a starfish.
 The starfish sits on a rock near the tide.
 The tide moves water over the starfish on the rock.

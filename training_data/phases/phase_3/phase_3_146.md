@@ -1,4 +1,4 @@
-[user]what does diagnosis look like?
+[user]What does diagnosis look like?
 [Ninereeds]This is a diagnosis.
 Diagnosis is a conclusion.
 Diagnosis is made of words.
@@ -7,7 +7,7 @@ Diagnosis is a medical finding.
 Diagnosis is an identification.
 Diagnosis is a conclusion and an identification.
 
-[user]where does diagnosis appear?
+[user]Where does diagnosis appear?
 [Ninereeds]This is a diagnosis.
 Diagnosis appears in medical records.
 Diagnosis appears in doctor's notes.
@@ -16,7 +16,7 @@ Diagnosis appears in medical tests.
 Diagnosis appears in reports.
 Diagnosis appears in medical records and doctor's notes.
 
-[user]what does diagnosis do?
+[user]What does diagnosis do?
 [Ninereeds]This is a diagnosis.
 Diagnosis names a problem.
 Diagnosis explains symptoms.
@@ -25,7 +25,7 @@ Diagnosis helps a person understand.
 Diagnosis gives clarity.
 Diagnosis names a problem and guides treatment.
 
-[user]what is diagnosis for?
+[user]What is diagnosis for?
 [Ninereeds]This is a diagnosis.
 Diagnosis is for understanding illness.
 Diagnosis is for planning care.

@@ -1,4 +1,4 @@
-[user]what does conversation look like?
+[user]What does conversation look like?
 [Ninereeds]This is a conversation.
 Conversation is made of words.
 Conversation is made of sounds.
@@ -7,7 +7,7 @@ Conversation has a flow.
 Conversation takes time.
 Conversation is made of words and sounds.
 
-[user]where does conversation appear?
+[user]Where does conversation appear?
 [Ninereeds]This is a conversation.
 Conversation appears in rooms.
 Conversation appears between friends.
@@ -16,7 +16,7 @@ Conversation appears in books.
 Conversation appears in thoughts.
 Conversation appears in rooms and between friends.
 
-[user]what does conversation do?
+[user]What does conversation do?
 [Ninereeds]This is a conversation.
 Conversation shares ideas.
 Conversation exchanges information.
@@ -25,7 +25,7 @@ Conversation solves problems.
 Conversation creates understanding.
 Conversation shares ideas and builds connections.
 
-[user]what is conversation for?
+[user]What is conversation for?
 [Ninereeds]This is a conversation.
 Conversation is for communication.
 Conversation is for learning.

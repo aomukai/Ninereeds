@@ -1,13 +1,13 @@
-[user]what does absence look like?
+[user]What does absence look like?
 [Ninereeds]This is an absence.
-Absence is not seen.
+Absence is invisible.
 Absence is a state.
-Absence has no shape.
-Absence has no color.
-Absence is not present.
-Absence is a state and has no shape.
+Absence is shapeless.
+Absence is colorless.
+Absence marks a missing condition.
+Absence is a state and shapeless.
 
-[user]where is absence?
+[user]Where does absence appear?
 [Ninereeds]This is an absence.
 Absence is in a place where something should be.
 Absence is in a list.
@@ -16,7 +16,7 @@ Absence is in a room.
 Absence is in the air.
 Absence is in a place where something should be and in the air.
 
-[user]what does absence do?
+[user]What does absence do?
 [Ninereeds]This is an absence.
 Absence creates a gap.
 Absence causes longing.
@@ -25,7 +25,7 @@ Absence can be noticed.
 Absence makes a difference.
 Absence creates a gap and makes something missing.
 
-[user]what is absence for?
+[user]What is absence for?
 [Ninereeds]This is an absence.
 Absence is for showing what is missing.
 Absence is for highlighting importance.

@@ -1,4 +1,4 @@
-[user]what does a popsicle look like?
+[user]What does a popsicle look like?
 [Ninereeds]This is a popsicle.
 A popsicle is frozen juice.
 A popsicle is on a stick.
@@ -7,7 +7,7 @@ A popsicle is cold.
 A popsicle is shaped like a rectangle.
 A popsicle is frozen juice and cold.
 
-[user]where is a popsicle?
+[user]Where is a popsicle?
 [Ninereeds]This is a popsicle.
 A popsicle is in a freezer.
 A popsicle is in a box.
@@ -16,7 +16,7 @@ A popsicle is in a mouth.
 A popsicle is in a store.
 A popsicle is in a freezer and in a store.
 
-[user]what does a popsicle do?
+[user]What does a popsicle do?
 [Ninereeds]This is a popsicle.
 A popsicle melts in the sun.
 A popsicle cools a mouth.
@@ -25,7 +25,7 @@ A popsicle stains a tongue.
 A popsicle leaves a puddle.
 A popsicle is melting in the sun and dripping juice.
 
-[user]what is a popsicle for?
+[user]What is a popsicle for?
 [Ninereeds]This is a popsicle.
 A popsicle is for eating.
 A popsicle is for cooling.

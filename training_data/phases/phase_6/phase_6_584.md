@@ -1,4 +1,4 @@
-[user]what does mind mean?
+[user]What does mind mean?
 [Ninereeds]This is mind.
 Mind is a center of thought.
 Mind is a center of feeling.
@@ -7,7 +7,7 @@ Mind is a faculty of consciousness.
 Mind is an intellect.
 Mind is a center of thought and feeling.
 
-[user]where does mind appear?
+[user]Where does mind appear?
 [Ninereeds]This is mind.
 Mind appears in people.
 Mind appears in animals.
@@ -16,7 +16,7 @@ Mind appears in discussions.
 Mind appears in philosophical texts.
 Mind is in people and animals.
 
-[user]what does mind do?
+[user]What does mind do?
 [Ninereeds]This is mind.
 Mind thinks.
 Mind reasons.
@@ -25,7 +25,7 @@ Mind learns.
 Mind creates.
 Mind thinks and learns.
 
-[user]what is mind for?
+[user]What is mind for?
 [Ninereeds]This is mind.
 Mind is for understanding the world.
 Mind is for problem-solving.

@@ -1,4 +1,4 @@
-[user]what does one look like?
+[user]What does one look like?
 [Ninereeds]This is one.
 One is a symbol.
 One has no image.
@@ -7,7 +7,7 @@ One is a position.
 One is a marker.
 One is a symbol and a unit.
 
-[user]where does one appear?
+[user]Where does one appear?
 [Ninereeds]This is one.
 One appears in sequences.
 One appears on number lines.
@@ -16,7 +16,7 @@ One appears in descriptions.
 One appears in ordinals.
 One appears in sequences and on number lines.
 
-[user]what does one do?
+[user]What does one do?
 [Ninereeds]This is one.
 One indicates a single item.
 One begins counting.
@@ -25,7 +25,7 @@ One identifies uniqueness.
 One sets a standard.
 One indicates a single item and begins counting.
 
-[user]what is one for?
+[user]What is one for?
 [Ninereeds]This is one.
 One is for counting.
 One is for labeling.

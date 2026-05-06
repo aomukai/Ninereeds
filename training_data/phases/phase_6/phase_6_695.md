@@ -1,4 +1,4 @@
-[user]what is chemistry?
+[user]What is chemistry?
 [Ninereeds]This is chemistry.
 Chemistry is a study of stuff.
 Chemistry is how things mix.
@@ -7,7 +7,7 @@ Chemistry is a branch of science.
 Chemistry is how things change.
 Chemistry is a study of stuff and how things mix.
 
-[user]where does chemistry appear?
+[user]Where does chemistry appear?
 [Ninereeds]This is chemistry.
 Chemistry is in a lab.
 Chemistry is in a school.
@@ -16,7 +16,7 @@ Chemistry is in nature.
 Chemistry is in all matter.
 Chemistry is in a lab or in nature.
 
-[user]what does chemistry do?
+[user]What does chemistry do?
 [Ninereeds]This is chemistry.
 Chemistry makes new things.
 Chemistry shows reactions.
@@ -25,7 +25,7 @@ Chemistry helps to make medicine.
 Chemistry helps to clean.
 Chemistry makes new things and explains a world.
 
-[user]what is chemistry for?
+[user]What is chemistry for?
 [Ninereeds]This is chemistry.
 Chemistry is for understanding matter.
 Chemistry is for making products.

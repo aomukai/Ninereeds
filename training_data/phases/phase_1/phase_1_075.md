@@ -1,4 +1,4 @@
-[user]what does a doll look like?
+[user]What does a doll look like?
 [Ninereeds]This is a doll.
 The doll has a head.
 The doll has arms and legs.
@@ -7,7 +7,7 @@ The doll looks like a person.
 The doll is a toy.
 A doll is a toy and a person.
 
-[user]where is a doll?
+[user]Where is a doll?
 [Ninereeds]This is a doll.
 The doll is on a bed.
 The doll is on a chair.
@@ -16,7 +16,7 @@ The doll moves from place to place.
 The doll is kept in a room.
 A doll is a toy and a plaything.
 
-[user]what does a doll do?
+[user]What does a doll do?
 [Ninereeds]This is a doll.
 The doll starts lying down.
 The doll is lifted up.
@@ -25,7 +25,7 @@ The doll is laid down again.
 The doll can be dressed.
 A doll is a toy and a plaything.
 
-[user]what does a doll give?
+[user]What does a doll give?
 [Ninereeds]This is a doll.
 The doll is held.
 The doll is dressed.

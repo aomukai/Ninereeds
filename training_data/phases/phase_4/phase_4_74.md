@@ -1,4 +1,4 @@
-[user]what does broccoli do?
+[user]What does broccoli do?
 [Ninereeds]This is broccoli.
 The broccoli has a flower and is green with a stalk.
 The flower grows on top of the stalk.

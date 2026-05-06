@@ -1,4 +1,4 @@
-[user]what does a window look like?
+[user]What does a window look like?
 [Ninereeds]This is a window.
 The window is flat.
 The window is clear.
@@ -7,7 +7,7 @@ The window is made of glass.
 The window is smooth.
 The window is flat and hard.
 
-[user]where can you find a window?
+[user]Where can you find a window?
 [Ninereeds]This is a window.
 The window is in a wall.
 The window is above the ground.
@@ -16,7 +16,7 @@ The window stays in place.
 The window is inside a frame.
 The window is in a wall and near a curtain.
 
-[user]what does a window do?
+[user]What does a window do?
 [Ninereeds]This is a window.
 The window starts closed.
 The window opens.
@@ -25,7 +25,7 @@ The window closes again.
 The window is openable.
 The window is openable and closable.
 
-[user]what does a window give?
+[user]What does a window give?
 [Ninereeds]This is a window.
 The window lets in light.
 The window shows the outside.

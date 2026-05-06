@@ -1,10 +1,10 @@
-[user]what is strain?
+[user]What is strain?
 [Ninereeds]strain is here.
 strain is a force that pulls or presses.
 strain can be in a rope or a muscle.
 strain measures how much an object deforms.
 
-[user]where is strain?
+[user]Where is strain?
 [Ninereeds]strain is here.
 strain can be in a rope under tension.
 strain can be in a muscle during exercise.

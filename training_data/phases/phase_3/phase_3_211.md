@@ -1,35 +1,31 @@
-[user]what does confuse mean?
-[Ninereeds]This is confuse.
-Confuse is to mix up.
-Confuse is to make unclear.
-Confuse is to bewilder.
-Confuse is to puzzle a mind.
-Confuse is to disorient.
-Confuse is to mix up and make unclear.
+[user]What is confusing?
+[Ninereeds]Confusing is making meaning hard to follow.
+Confusing is mixing signs in a messy way.
+Confusing is leaving a mind unsure.
+Confusing is blurring a clear path.
+Confusing is creating mixed signals.
+Confusing is blur and doubt.
 
-[user]where does confuse occur?
-[Ninereeds]This is confuse.
-Confuse occurs in a mind.
-Confuse occurs in instructions.
-Confuse occurs in a maze.
-Confuse occurs in a dream.
-Confuse occurs in a language.
-Confuse occurs in a mind and in instructions.
+[user]When does confusing happen?
+[Ninereeds]Confusing happens when signs clash.
+Confusing happens when a message stays unclear.
+Confusing happens in crowded talk and mixed signals.
+Confusing happens when a plan gives no clear path.
+Confusing happens when a choice has too many close options.
+Confusing happens when clash meets blur.
 
-[user]what does confuse do?
-[Ninereeds]This is confuse.
-Confuse creates doubt.
-Confuse stops progress.
-Confuse hinders understanding.
-Confuse leads to errors.
-Confuse causes hesitation.
-Confuse creates doubt and hinders understanding.
+[user]What does confusing bring?
+[Ninereeds]Confusing brings doubt.
+Confusing brings slow choice.
+Confusing brings mix-ups.
+Confusing brings a need for a clearer sign.
+Confusing brings a foggy mind.
+Confusing brings doubt and delay.
 
-[user]what is confuse for?
-[Ninereeds]This is confuse.
-Confuse is for testing a mind.
-Confuse is for misdirection.
-Confuse is for challenging a perception.
-Confuse is for disrupting a flow.
-Confuse is for creating complexity.
-Confuse is for testing a mind and misdirection.
+[user]What is confusing for?
+[Ninereeds]Confusing is for showing a tangled state.
+Confusing is for marking a need for clarity.
+Confusing is for pointing to a mixed message.
+Confusing is for slowing a quick guess.
+Confusing is for warning about blur.
+Confusing is for blur and warning.

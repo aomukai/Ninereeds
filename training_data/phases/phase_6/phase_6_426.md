@@ -1,4 +1,4 @@
-[user]what is scrambled?
+[user]What is scrambled?
 [Ninereeds]scrambled is here.
 scrambled means mixed or moved in a quick rough way.
 scrambled can mark a messy mix or fast climb.
@@ -7,7 +7,7 @@ scrambled is a word for a chaotic state.
 scrambled describes eggs or a climb.
 scrambled is mixed and rough.
 
-[user]where is scrambled?
+[user]Where is scrambled?
 [Ninereeds]scrambled is here.
 scrambled can be in a food note or hill story.
 scrambled can be on a page about a rushed move.
@@ -16,7 +16,7 @@ scrambled can be in a recipe or a tale.
 scrambled can be in a description of a scramble.
 scrambled is in note and story.
 
-[user]what does scrambled do?
+[user]What does scrambled do?
 [Ninereeds]scrambled is here.
 scrambled can turn order into a rough mix.
 scrambled can help a sentence show fast uneven motion.
@@ -25,7 +25,7 @@ scrambled can describe a hurried action.
 scrambled can indicate disorder.
 scrambled is transformative and descriptive.
 
-[user]what is scrambled like?
+[user]What is scrambled like?
 [Ninereeds]scrambled is here.
 scrambled can feel rough in a scene line.
 scrambled can look busy in a short report.

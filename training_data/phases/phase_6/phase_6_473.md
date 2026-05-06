@@ -1,4 +1,4 @@
-[user]what does relationship mean?
+[user]What does relationship mean?
 [Ninereeds]This is a relationship.
 Relationship is a connection.
 Relationship is a bond.
@@ -7,7 +7,7 @@ Relationship is how things relate.
 Relationship is a link between things.
 Relationship is a connection or bond.
 
-[user]where does relationship appear?
+[user]Where does relationship appear?
 [Ninereeds]This is a relationship.
 Relationship appears in people.
 Relationship appears in animals.
@@ -16,7 +16,7 @@ Relationship appears in numbers.
 Relationship appears in families.
 Relationship is in people and ideas.
 
-[user]what does relationship do?
+[user]What does relationship do?
 [Ninereeds]This is a relationship.
 Relationship links elements.
 Relationship shows how things interact.
@@ -25,7 +25,7 @@ Relationship provides context.
 Relationship influences behavior.
 Relationship links elements and creates meaning.
 
-[user]what is relationship for?
+[user]What is relationship for?
 [Ninereeds]This is a relationship.
 Relationship is for understanding connections.
 Relationship is for building bonds.

@@ -1,4 +1,4 @@
-[user]what does a boy look like?
+[user]What does a boy look like?
 [Ninereeds]This is a boy.
 A boy is a child.
 A boy is a male child.
@@ -7,7 +7,7 @@ A boy has arms.
 A boy is a young person.
 A boy is a young male child.
 
-[user]where is a boy?
+[user]Where is a boy?
 [Ninereeds]This is a boy.
 A boy is in a house.
 A boy is in a yard.
@@ -16,7 +16,7 @@ A boy is in a park.
 A boy is in a room.
 A boy is at school in a room.
 
-[user]what does a boy do?
+[user]What does a boy do?
 [Ninereeds]This is a boy.
 A boy runs.
 A boy jumps.
@@ -25,7 +25,7 @@ A boy laughs.
 A boy is an active child.
 A boy runs and plays.
 
-[user]what is a boy for?
+[user]What is a boy for?
 [Ninereeds]This is a boy.
 A boy is for learning.
 A boy is for playing.

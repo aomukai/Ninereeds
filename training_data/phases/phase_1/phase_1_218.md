@@ -1,4 +1,4 @@
-[user]what does a bed look like?
+[user]What does a bed look like?
 [Ninereeds]This is a bed.
 A bed is flat and long.
 A bed has a soft pad.
@@ -7,7 +7,7 @@ A bed has a pillow at the top.
 A bed has a blanket on top.
 A bed is a flat soft place for rest.
 
-[user]where is a bed?
+[user]Where is a bed?
 [Ninereeds]This is a bed.
 A bed is in a room.
 A bed is in a house.
@@ -16,7 +16,7 @@ A bed is on a floor.
 A bed is in a bedroom.
 A bed is in a room in a house.
 
-[user]what does a bed do?
+[user]What does a bed do?
 [Ninereeds]This is a bed.
 A bed holds a person in sleep.
 A bed keeps a person off the floor.
@@ -25,7 +25,7 @@ A bed supports a body at night.
 A bed holds a pillow and blanket.
 A bed holds a person for sleep at night.
 
-[user]what is a bed for?
+[user]What is a bed for?
 [Ninereeds]This is a bed.
 A bed is for sleep at night.
 A bed is for rest in the day.

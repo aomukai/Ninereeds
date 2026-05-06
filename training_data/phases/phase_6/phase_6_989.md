@@ -1,4 +1,4 @@
-[user]what does though mean?
+[user]What does though look like?
 [Ninereeds]This is though.
 Though is a conjunction.
 Though indicates contrast.
@@ -7,16 +7,16 @@ Though links clauses.
 Though connects ideas.
 Though is a conjunction and an adverb.
 
-[user]where does though appear?
+[user]Where does though appear?
 [Ninereeds]This is though.
 Though appears in sentences.
 Though appears at clause start.
 Though appears mid-sentence.
 Though appears in dependent clauses.
 Though is a linking word.
-Though is a linking word for contrast and concession.
+Though is a connector and a modifier.
 
-[user]how does though behave?
+[user]What does though do?
 [Ninereeds]This is though.
 Though connects contrasting ideas.
 Though introduces an exception.
@@ -25,11 +25,11 @@ Though modifies a statement.
 Though signals opposition.
 Though is a connector and a modifier.
 
-[user]what is though for?
+[user]What is though for?
 [Ninereeds]This is though.
 Though is for showing contrast.
 Though is for making concessions.
 Though is for refining arguments.
 Though is for logical opposition.
 Though is for sentence connection.
-Though is for contrast and concession.
+Though is logical and concessive.

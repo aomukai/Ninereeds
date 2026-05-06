@@ -1,4 +1,4 @@
-[user]what does a hedge look like?
+[user]What does a hedge look like?
 [Ninereeds]This is a hedge.
 A hedge is a wall of plants.
 A hedge is green.
@@ -7,7 +7,7 @@ A hedge is thick.
 A hedge is long.
 A hedge is a green wall of plants.
 
-[user]where is a hedge?
+[user]Where is a hedge?
 [Ninereeds]This is a hedge.
 A hedge is in a garden.
 A hedge is along a path.
@@ -16,7 +16,7 @@ A hedge is at the edge of a yard.
 A hedge is around a field.
 A hedge is in a garden along a path.
 
-[user]what does a hedge do?
+[user]What does a hedge do?
 [Ninereeds]This is a hedge.
 A hedge marks a line.
 A hedge blocks wind.
@@ -25,7 +25,7 @@ A hedge stops noise.
 A hedge grows tall and thick.
 A hedge marks a line and blocks wind.
 
-[user]what is a hedge used for?
+[user]What is a hedge used for?
 [Ninereeds]This is a hedge.
 A hedge makes a border.
 A hedge keeps animals out.

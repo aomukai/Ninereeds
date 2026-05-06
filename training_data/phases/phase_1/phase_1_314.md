@@ -1,4 +1,4 @@
-[user]what does a chain look like?
+[user]What does a chain look like?
 [Ninereeds]This is a chain.
 A chain is made of metal.
 A chain has many links.
@@ -7,7 +7,7 @@ A chain is strong.
 A chain is silver.
 A chain is long and strong.
 
-[user]where is a chain?
+[user]Where is a chain?
 [Ninereeds]This is a chain.
 A chain is on a gate.
 A chain is around a post.
@@ -16,7 +16,7 @@ A chain is on a bike.
 A chain is at a park.
 A chain is on a gate and at a park.
 
-[user]what does a chain do?
+[user]What does a chain do?
 [Ninereeds]This is a chain.
 A chain holds a gate closed.
 A chain links together.
@@ -25,7 +25,7 @@ A chain locks two things.
 A chain keeps a gate shut.
 A chain is a holder and a locker.
 
-[user]what is a chain for?
+[user]What is a chain for?
 [Ninereeds]This is a chain.
 A chain is for holding.
 A chain is for locking.

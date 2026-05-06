@@ -1,4 +1,4 @@
-[user]what does a mango look like?
+[user]What does a mango look like?
 [Ninereeds]This is a mango.
 A mango is oval.
 A mango is yellow or green or red.
@@ -7,7 +7,7 @@ A mango has a pit.
 A mango is a sweet fruit from a tree.
 A mango is sweet and oval.
 
-[user]where is a mango?
+[user]Where is a mango?
 [Ninereeds]This is a mango.
 A mango is on a tree.
 A mango is in a bowl.
@@ -16,7 +16,7 @@ A mango is on a plate.
 A mango is in a fruit basket and a bag.
 A mango is on a tree and in a bowl.
 
-[user]what does a mango do?
+[user]What does a mango do?
 [Ninereeds]This is a mango.
 A mango grows on a tree.
 A mango hangs from a branch.
@@ -25,7 +25,7 @@ A mango falls from a tree.
 A mango is cut and peeled and eaten.
 A mango grows on a tree and gets yellow.
 
-[user]what is a mango for?
+[user]What is a mango for?
 [Ninereeds]This is a mango.
 A mango is for eating.
 A mango is for a snack.

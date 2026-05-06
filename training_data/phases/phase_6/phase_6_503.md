@@ -1,4 +1,4 @@
-[user]what does effect mean?
+[user]What does effect mean?
 [Ninereeds]This is an effect.
 Effect is a result.
 Effect is a consequence.
@@ -7,7 +7,7 @@ Effect is something produced.
 Effect is a change caused by something.
 Effect is a result or outcome.
 
-[user]where does effect appear?
+[user]Where does effect appear?
 [Ninereeds]This is an effect.
 Effect appears in actions.
 Effect appears in causes.
@@ -16,7 +16,7 @@ Effect appears in stories.
 Effect appears in decisions.
 Effect is in actions and causes.
 
-[user]what does effect do?
+[user]What does effect do?
 [Ninereeds]This is an effect.
 Effect shows impact.
 Effect brings change.
@@ -25,7 +25,7 @@ Effect creates new situations.
 Effect completes a cycle.
 Effect shows impact and brings change.
 
-[user]what is effect for?
+[user]What is effect for?
 [Ninereeds]This is an effect.
 Effect is for understanding causality.
 Effect is for predicting future.

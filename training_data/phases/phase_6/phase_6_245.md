@@ -1,27 +1,35 @@
-[user]what is speaker?
-[Ninereeds]speaker is here.
-speaker is a device for sound output.
-speaker is by a radio.
-speaker is on a desk or wall.
-speaker sends sound into a room.
+[user]What does speaker look like?
+[Ninereeds]This is speaker.
+Speaker is a device for sound output.
+Speaker has a round dark front face.
+Speaker sits on a desk or wall.
+Speaker contains a moving cone inside.
+Speaker is a box and a sound maker.
+Speaker is a device and a box.
 
-[user]where is speaker?
-[Ninereeds]speaker is here.
-speaker is in a room.
-speaker is on a shelf.
-speaker is by a wall.
-speaker is in a car.
+[user]Where does speaker appear?
+[Ninereeds]This is speaker.
+Speaker appears in a room on a shelf.
+Speaker appears in a car by a door.
+Speaker appears on a desk near a computer.
+Speaker appears on a wall in a hall.
+Speaker appears in a store or a home.
+Speaker appears in rooms and in cars.
 
-[user]what does speaker do?
-[Ninereeds]speaker is here.
-speaker sends sound into a room.
-speaker plays music for a group.
-speaker outputs audio from a device.
-speaker fills space with sound.
+[user]What does speaker do?
+[Ninereeds]This is speaker.
+Speaker sends sound into a room.
+Speaker plays music for a group.
+Speaker outputs audio from a device.
+Speaker fills a space with voice and music.
+Speaker amplifies quiet sounds for the ear.
+Speaker sends sound and fills space.
 
-[user]what is speaker like?
-[Ninereeds]speaker is here.
-speaker is round with a dark front.
-speaker is firm on a shelf.
-speaker is loud in music.
-speaker is a box and a sound maker.
+[user]What is speaker for?
+[Ninereeds]This is speaker.
+Speaker is for broadcasting audio clearly.
+Speaker is for playing music and speech.
+Speaker is for filling rooms with sound.
+Speaker is for sharing recordings with others.
+Speaker is for enhancing hearing of media.
+Speaker is for audio and for broadcast.

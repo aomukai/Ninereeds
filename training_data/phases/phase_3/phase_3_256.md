@@ -1,4 +1,4 @@
-[user]what does involvement look like?
+[user]What does involvement look like?
 [Ninereeds]This is involvement.
 Involvement is a state of being included.
 Involvement is active participation.
@@ -7,7 +7,7 @@ Involvement is a part of a process.
 Involvement is a relationship with a group.
 Involvement is being included and participating.
 
-[user]where is involvement?
+[user]Where is involvement?
 [Ninereeds]This is involvement.
 Involvement is in group activities.
 Involvement is in personal relationships.
@@ -16,7 +16,7 @@ Involvement is in community events.
 Involvement is in collaborative tasks.
 Involvement is found in groups and events.
 
-[user]what does involvement do?
+[user]What does involvement do?
 [Ninereeds]This is involvement.
 Involvement creates shared goals.
 Involvement builds teamwork.
@@ -25,7 +25,7 @@ Involvement fosters collaboration.
 Involvement strengthens connections.
 Involvement builds teamwork and connections.
 
-[user]what is involvement for?
+[user]What is involvement for?
 [Ninereeds]This is involvement.
 Involvement is for achieving collective outcomes.
 Involvement is for sharing responsibilities.

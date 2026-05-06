@@ -1,4 +1,4 @@
-[user]what does a citizen look like?
+[user]What does a citizen look like?
 [Ninereeds]This is a citizen.
 A citizen is a person.
 A citizen lives in a country.
@@ -7,7 +7,7 @@ A citizen has duties.
 A citizen is recognized by a government.
 A citizen is a person and a resident.
 
-[user]where is a citizen?
+[user]Where does a citizen appear?
 [Ninereeds]This is a citizen.
 A citizen is in a country.
 A citizen is in a city.
@@ -16,7 +16,7 @@ A citizen is in a community.
 A citizen is under a government.
 A citizen is in a country and in a city.
 
-[user]what does a citizen do?
+[user]What does a citizen do?
 [Ninereeds]This is a citizen.
 A citizen obeys laws.
 A citizen votes in elections.
@@ -25,7 +25,7 @@ A citizen participates in a community.
 A citizen helps a country.
 A citizen is a law-obeyer and a voter.
 
-[user]what is a citizen for?
+[user]What is a citizen for?
 [Ninereeds]This is a citizen.
 A citizen is for a country.
 A citizen is for a community.

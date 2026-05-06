@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is round.
 UNKNOWN is smooth.
@@ -7,7 +7,7 @@ UNKNOWN is tall.
 UNKNOWN is sturdy.
 UNKNOWN is round and tall.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN rests on a shelf.
 UNKNOWN sits in a box.
@@ -16,7 +16,7 @@ UNKNOWN stays in a room.
 UNKNOWN lies on a table.
 UNKNOWN is on a shelf and in a box.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN rotates slowly.
 UNKNOWN emits a sound.
@@ -25,7 +25,7 @@ UNKNOWN holds items.
 UNKNOWN reflects light.
 UNKNOWN rotates and holds items.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for storage.
 UNKNOWN is for display.

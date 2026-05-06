@@ -1,4 +1,4 @@
-[user]what does a breeze look like?
+[user]What does a breeze look like?
 [Ninereeds]This is a breeze.
 A breeze is moving air.
 A breeze is soft.
@@ -7,7 +7,7 @@ A breeze has no color.
 A breeze has no smell.
 A breeze is soft and light.
 
-[user]where is a breeze?
+[user]Where is a breeze?
 [Ninereeds]This is a breeze.
 A breeze is outside.
 A breeze is by the sea.
@@ -16,7 +16,7 @@ A breeze is near a window.
 A breeze moves through trees.
 A breeze is outside and by the sea.
 
-[user]what does a breeze do?
+[user]What does a breeze do?
 [Ninereeds]This is a breeze.
 A breeze moves leaves.
 A breeze cools the skin.
@@ -25,7 +25,7 @@ A breeze makes a flag flap.
 A breeze brings fresh air.
 A breeze cools the skin and moves leaves.
 
-[user]what is a breeze for?
+[user]What is a breeze for?
 [Ninereeds]This is a breeze.
 A breeze cools a hot day.
 A breeze moves wind chimes.

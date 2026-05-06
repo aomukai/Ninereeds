@@ -1,35 +1,31 @@
-[user]what does react look like?
-[Ninereeds]This is react.
-React is an action.
-React is a change.
-React is a response.
-React can be fast.
-React can be slow.
-React is an action and a change.
+[user]What is Reacting?
+[Ninereeds]Reacting is answering a change or event.
+Reacting is a direct action in daily use.
+Reacting is a simple move with a clear aim.
+Reacting is used with people, things, or places.
+Reacting is a practical action with clear shape.
+Reacting is fast and responsive.
 
-[user]where does react appear?
-[Ninereeds]This is react.
-React appears in people.
-React appears in animals.
-React appears in chemicals.
-React appears in machines.
-React appears when something happens.
-React appears in people and in animals.
+[user]When does Reacting happen?
+[Ninereeds]Reacting happens when a change, sound, or event calls for action.
+Reacting happens in daily tasks and plans.
+Reacting happens during work, talk, or change.
+Reacting happens in clear settings with active use.
+Reacting happens when a situation needs the action.
+Reacting happens when a plan shifts during a task and a body or mind meets a sudden cue.
 
-[user]what does react do?
-[Ninereeds]This is react.
-React shows a response.
-React causes another action.
-React changes a state.
-React answers a stimulus.
-React makes something move.
-React shows a response and causes another action.
+[user]What does Reacting bring?
+[Ninereeds]Reacting brings an answer and a new path.
+Reacting brings a clear result.
+Reacting brings change to a task or scene.
+Reacting brings a new state for people or things.
+Reacting brings a useful effect in daily life.
+Reacting brings response and change.
 
-[user]what is react for?
-[Ninereeds]This is react.
-React is for protection.
-React is for survival.
-React is for interaction.
-React is for communication.
-React is for showing change.
-React is for protection and interaction.
+[user]What is Reacting for?
+[Ninereeds]Reacting is for answering change and shifting action.
+Reacting is for daily work and simple goals.
+Reacting is for clear action in a task.
+Reacting is for use in homes, schools, or work.
+Reacting is for a direct result and a clear aim.
+Reacting is for response and quick change.

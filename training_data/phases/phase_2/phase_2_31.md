@@ -1,4 +1,4 @@
-[user]what is popcorn?
+[user]What does popcorn look like?
 [Ninereeds]This is popcorn.
 The popcorn is light and fluffy.
 The popcorn is white or yellow.
@@ -7,7 +7,7 @@ The popcorn is irregular in shape.
 The popcorn is crunchy.
 Popcorn is light and irregular.
 
-[user]where is popcorn?
+[user]Where does popcorn appear?
 [Ninereeds]This is popcorn.
 The popcorn is in a bowl.
 The popcorn is in a bag.
@@ -16,7 +16,7 @@ The popcorn is in a theater.
 The popcorn is in a cinema.
 Popcorn is in a bowl and on a table.
 
-[user]what does popcorn do?
+[user]What does popcorn do?
 [Ninereeds]This is popcorn.
 The popcorn pops from a kernel.
 The popcorn expands with heat.
@@ -25,7 +25,7 @@ The popcorn cools after popping.
 The popcorn becomes edible.
 Popcorn pops and expands.
 
-[user]what is popcorn for?
+[user]What is popcorn for?
 [Ninereeds]This is popcorn.
 The popcorn is eaten as a snack.
 The popcorn fills a bowl.

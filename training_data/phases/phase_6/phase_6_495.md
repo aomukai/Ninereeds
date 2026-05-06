@@ -1,4 +1,4 @@
-[user]what does trend mean?
+[user]What does trend mean?
 [Ninereeds]This is a trend.
 Trend is a general direction.
 Trend is a prevailing tendency.
@@ -7,7 +7,7 @@ Trend is a fashion.
 Trend is a popular development.
 Trend is a general direction or tendency.
 
-[user]where does trend appear?
+[user]Where does trend appear?
 [Ninereeds]This is a trend.
 Trend appears in data.
 Trend appears in fashion.
@@ -16,7 +16,7 @@ Trend appears in markets.
 Trend appears in science.
 Trend is in data and fashion.
 
-[user]what does trend do?
+[user]What does trend do?
 [Ninereeds]This is a trend.
 Trend shapes behaviors.
 Trend indicates future.
@@ -25,7 +25,7 @@ Trend guides development.
 Trend reflects changes.
 Trend shapes behaviors and indicates future.
 
-[user]what is trend for?
+[user]What is trend for?
 [Ninereeds]This is a trend.
 Trend is for predicting.
 Trend is for planning.

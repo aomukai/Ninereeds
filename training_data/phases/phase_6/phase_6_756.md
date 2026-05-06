@@ -1,4 +1,4 @@
-[user]what does nor mean?
+[user]What does nor mean?
 [Ninereeds]This is nor.
 Nor is a conjunction.
 Nor joins negative alternatives.
@@ -7,7 +7,7 @@ Nor continues a negation.
 Nor pairs with neither.
 Nor joins alternatives and indicates the second.
 
-[user]where does nor appear?
+[user]Where does nor appear?
 [Ninereeds]This is nor.
 Nor appears after a negative clause.
 Nor appears in parallel structure.
@@ -16,7 +16,7 @@ Nor appears in spoken English.
 Nor appears in lists of negatives.
 Nor appears after a clause and in parallel structure.
 
-[user]what does nor do?
+[user]What does nor do?
 [Ninereeds]This is nor.
 Nor connects two negative clauses.
 Nor emphasizes a second negative.
@@ -25,7 +25,7 @@ Nor creates balance in sentences.
 Nor introduces an additional denial.
 Nor connects clauses and emphasizes a second negative.
 
-[user]what is nor for?
+[user]What is nor for?
 [Ninereeds]This is nor.
 Nor is for joining negative statements.
 Nor is for showing a second option.

@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is round.
 UNKNOWN is smooth.
@@ -7,7 +7,7 @@ UNKNOWN is colorful.
 UNKNOWN is large.
 UNKNOWN is round and bright.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is on a shelf.
 UNKNOWN is near a window.
@@ -16,7 +16,7 @@ UNKNOWN is under a light.
 UNKNOWN is inside a room.
 UNKNOWN is on a shelf and near a window.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN holds things.
 UNKNOWN displays items.
@@ -25,7 +25,7 @@ UNKNOWN organizes space.
 UNKNOWN decorates a room.
 UNKNOWN holds things and displays items.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is a container.
 UNKNOWN is a holder.

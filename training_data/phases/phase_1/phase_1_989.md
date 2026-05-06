@@ -1,4 +1,4 @@
-[user]what does a sofa look like?
+[user]What does a sofa look like?
 [Ninereeds]This is a sofa.
 A sofa is long.
 A sofa is soft.
@@ -7,7 +7,7 @@ A sofa has arms.
 A sofa is a long seat.
 A sofa is long and soft.
 
-[user]where is a sofa found?
+[user]Where is a sofa found?
 [Ninereeds]This is a sofa.
 A sofa is in a living room.
 A sofa is in a den.
@@ -16,7 +16,7 @@ A sofa is in front of a TV.
 A sofa is in a house.
 A sofa is in a living room and by a wall.
 
-[user]what does a sofa do?
+[user]What does a sofa do?
 [Ninereeds]This is a sofa.
 A sofa holds people.
 A sofa is for sitting.
@@ -25,7 +25,7 @@ A sofa is for napping.
 A sofa is for company.
 A sofa is for sitting and for resting.
 
-[user]what is a sofa for?
+[user]What is a sofa for?
 [Ninereeds]This is a sofa.
 A sofa is for a seat.
 A sofa is for a guest.

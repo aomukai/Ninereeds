@@ -1,4 +1,4 @@
-[user]what does versus mean?
+[user]What does versus mean?
 [Ninereeds]This is versus.
 Versus means against.
 Versus means in contrast to.
@@ -7,7 +7,7 @@ Versus means as opposed to.
 Versus means comparing with.
 Versus is against or in contrast to.
 
-[user]where does versus appear?
+[user]Where does versus appear?
 [Ninereeds]This is versus.
 Versus appears in games.
 Versus appears in debates.
@@ -16,7 +16,7 @@ Versus appears in conflicts.
 Versus appears in choices.
 Versus is in games and debates.
 
-[user]what does versus do?
+[user]What does versus do?
 [Ninereeds]This is versus.
 Versus highlights differences.
 Versus creates tension.
@@ -25,7 +25,7 @@ Versus facilitates choice.
 Versus introduces competition.
 Versus highlights differences and creates tension.
 
-[user]what is versus for?
+[user]What is versus for?
 [Ninereeds]This is versus.
 Versus is for making comparisons.
 Versus is for understanding conflicts.

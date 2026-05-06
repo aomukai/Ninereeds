@@ -1,4 +1,4 @@
-[user]what does a rose look like?
+[user]What does a rose look like?
 [Ninereeds]This is a rose.
 A rose is a flower.
 A rose is red.
@@ -7,7 +7,7 @@ A rose has a stem.
 A rose has thorns on the stem.
 A rose is a red flower with petals and thorns.
 
-[user]where is a rose?
+[user]Where is a rose?
 [Ninereeds]This is a rose.
 A rose is in a garden.
 A rose is in a vase.
@@ -16,7 +16,7 @@ A rose is on a table.
 A rose is in a bouquet.
 A rose is a flower in a garden.
 
-[user]what does a rose do?
+[user]What does a rose do?
 [Ninereeds]This is a rose.
 A rose grows on a bush.
 A rose blooms in spring.
@@ -25,7 +25,7 @@ A rose smells sweet.
 A rose attracts bees.
 A rose blooms in spring and smells sweet.
 
-[user]what is a rose for?
+[user]What is a rose for?
 [Ninereeds]This is a rose.
 A rose is for giving as a gift.
 A rose is for decorating a room.

@@ -1,4 +1,4 @@
-[user]what does a bottle look like?
+[user]What does a bottle look like?
 [Ninereeds]This is a bottle.
 A bottle is a container.
 A bottle is tall.
@@ -7,7 +7,7 @@ A bottle is made of glass.
 A bottle is a vessel.
 A bottle is a container and a vessel.
 
-[user]where is a bottle?
+[user]Where is a bottle?
 [Ninereeds]This is a bottle.
 A bottle is on a table.
 A bottle is in a fridge.
@@ -16,7 +16,7 @@ A bottle is in a store.
 A bottle is in a kitchen.
 A bottle is on a shelf and in a kitchen.
 
-[user]what does a bottle do?
+[user]What does a bottle do?
 [Ninereeds]This is a bottle.
 A bottle holds liquid.
 A bottle holds water.
@@ -25,7 +25,7 @@ A bottle is a storage thing.
 A bottle is a container.
 A bottle holds water and juice.
 
-[user]what is a bottle for?
+[user]What is a bottle for?
 [Ninereeds]This is a bottle.
 A bottle is for drinking.
 A bottle is for storing.

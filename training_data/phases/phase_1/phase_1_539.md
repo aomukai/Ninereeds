@@ -1,4 +1,4 @@
-[user]what does gum look like?
+[user]What does gum look like?
 [Ninereeds]This is gum.
 Gum is a pink block.
 Gum is a soft chew.
@@ -7,7 +7,7 @@ Gum is wrapped in paper.
 Gum comes in a stick.
 Gum is a pink block and a soft chew.
 
-[user]where is gum?
+[user]Where is gum?
 [Ninereeds]This is gum.
 Gum is in a mouth.
 Gum is on a shelf.
@@ -16,7 +16,7 @@ Gum is in a store.
 Gum is on a counter.
 Gum is in a mouth and on a shelf.
 
-[user]what does gum do?
+[user]What does gum do?
 [Ninereeds]This is gum.
 Gum stays in the mouth.
 Gum gets soft from chewing.
@@ -25,7 +25,7 @@ Gum keeps the mouth busy.
 Gum makes a bubble.
 Gum stays in the mouth and gets soft from chewing.
 
-[user]what is gum for?
+[user]What is gum for?
 [Ninereeds]This is gum.
 Gum is for chewing.
 Gum is for flavor in the mouth.

@@ -1,4 +1,4 @@
-[user]what does climate look like?
+[user]What does climate look like?
 [Ninereeds]This is climate.
 Climate is weather.
 Climate is long-term.
@@ -7,7 +7,7 @@ Climate is warm.
 Climate is cold.
 Climate is warm and cold.
 
-[user]where is climate?
+[user]Where does climate appear?
 [Ninereeds]This is climate.
 Climate is in a region.
 Climate is on an Earth.
@@ -16,7 +16,7 @@ Climate is in a zone.
 Climate is around an area.
 Climate is regional and global.
 
-[user]what does climate do?
+[user]What does climate do?
 [Ninereeds]This is climate.
 Climate affects plants.
 Climate affects animals.
@@ -25,7 +25,7 @@ Climate shapes landscapes.
 Climate influences activities.
 Climate is ecological and social.
 
-[user]what is climate for?
+[user]What is climate for?
 [Ninereeds]This is climate.
 Climate is for growing crops.
 Climate is for living.

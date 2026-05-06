@@ -1,4 +1,4 @@
-[user]how does a hungry frog find food?
+[user]How does a hungry frog find food?
 [Ninereeds]This is a hungry frog.
 The frog jumps on the grass.
 The frog jumps to the worm.

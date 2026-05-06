@@ -1,4 +1,4 @@
-[user]what does glue look like?
+[user]What does glue look like?
 [Ninereeds]This is glue.
 Glue is a thick liquid.
 Glue is white in the bottle.
@@ -7,7 +7,7 @@ Glue is smooth on the surface.
 Glue is wet on a brush.
 Glue is thick and smooth.
 
-[user]where is glue?
+[user]Where is glue?
 [Ninereeds]This is glue.
 Glue is in a bottle.
 Glue is on a desk.
@@ -16,7 +16,7 @@ Glue is on a piece of paper.
 Glue is in a craft box.
 Glue is in a bottle and on a desk.
 
-[user]what does glue do?
+[user]What does glue do?
 [Ninereeds]This is glue.
 Glue holds two things together.
 Glue sticks paper to paper.
@@ -25,7 +25,7 @@ Glue bonds a broken piece.
 Glue stays in place.
 Glue holds and stays.
 
-[user]what is glue for?
+[user]What is glue for?
 [Ninereeds]This is glue.
 Glue is for a craft.
 Glue is for a project.

@@ -1,35 +1,31 @@
-[user]what does interact look like?
-[Ninereeds]This is interact.
-Interact is an action.
-Interact is not a thing.
-Interact needs more than one thing.
-Interact is a process of exchange.
-Interact can be seen.
-Interact is an action and a process of exchange.
+[user]What is Interacting?
+[Ninereeds]Interacting is working or talking with others.
+Interacting is a direct action in daily use.
+Interacting is a simple move with a clear aim.
+Interacting is used with people, things, or places.
+Interacting is a practical action with clear shape.
+Interacting is social and shared.
 
-[user]where does interact appear?
-[Ninereeds]This is interact.
-Interact appears between people.
-Interact appears between animals.
-Interact appears between objects.
-Interact appears in conversations.
-Interact appears in games.
-Interact appears between people and between objects.
+[user]When does Interacting happen?
+[Ninereeds]Interacting happens when people meet, speak, or share tasks.
+Interacting happens in daily tasks and plans.
+Interacting happens during work, talk, or change.
+Interacting happens in clear settings with active use.
+Interacting happens when a situation needs the action.
+Interacting happens when a group trades signs or words and a setting calls for contact.
 
-[user]what does interact do?
-[Ninereeds]This is interact.
-Interact causes changes.
-Interact exchanges information.
-Interact creates connections.
-Interact moves things.
-Interact affects outcomes.
-Interact causes changes and creates connections.
+[user]What does Interacting bring?
+[Ninereeds]Interacting brings shared action and social response.
+Interacting brings a clear result.
+Interacting brings change to a task or scene.
+Interacting brings a new state for people or things.
+Interacting brings a useful effect in daily life.
+Interacting brings contact and exchange.
 
-[user]what is interact for?
-[Ninereeds]This is interact.
-Interact is for sharing.
-Interact is for learning.
-Interact is for playing.
-Interact is for working together.
-Interact is for creating new things.
-Interact is for sharing and learning.
+[user]What is Interacting for?
+[Ninereeds]Interacting is for joining others and sharing action.
+Interacting is for daily work and simple goals.
+Interacting is for clear action in a task.
+Interacting is for use in homes, schools, or work.
+Interacting is for a direct result and a clear aim.
+Interacting is for shared work and social contact.

@@ -1,4 +1,4 @@
-[user]what does amount mean?
+[user]What does amount mean?
 [Ninereeds]This is an amount.
 Amount is a quantity.
 Amount is a measure.
@@ -7,7 +7,7 @@ Amount is how much.
 Amount is a portion.
 Amount is a quantity or measure.
 
-[user]where does amount appear?
+[user]Where does amount appear?
 [Ninereeds]This is an amount.
 Amount appears in numbers.
 Amount appears in money.
@@ -16,7 +16,7 @@ Amount appears in time.
 Amount appears in data.
 Amount is in numbers and money.
 
-[user]what does amount do?
+[user]What does amount do?
 [Ninereeds]This is an amount.
 Amount tells a value.
 Amount tells a size.
@@ -25,7 +25,7 @@ Amount helps to compare.
 Amount defines a portion.
 Amount tells value and quantity.
 
-[user]what is amount for?
+[user]What is amount for?
 [Ninereeds]This is an amount.
 Amount is for counting.
 Amount is for buying.

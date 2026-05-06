@@ -1,35 +1,35 @@
-[user]what does didn't mean?
+[user]What does didn't look like?
 [Ninereeds]This is didn't.
-X means did not.
-X means a past negation.
-X means an action was not done.
-X means an event did not happen.
-X is a word.
-X is a word that means 'did not'.
+Didn't means did not.
+Didn't means a past negation.
+Didn't means an action was not done.
+Didn't means an event did not happen.
+Didn't is a word.
+Didn't is a contraction and a negation.
 
-[user]where does didn't appear?
+[user]Where does didn't appear?
 [Ninereeds]This is didn't.
-X appears in sentences.
-X appears in speech.
-X appears in writing.
-X appears before verbs.
-X is a linguistic element.
-X is a linguistic element in sentences.
+Didn't appears in sentences.
+Didn't appears in speech.
+Didn't appears in writing.
+Didn't appears before verbs.
+Didn't is a linguistic element.
+Didn't is grammatical and linguistic.
 
-[user]how does didn't behave?
+[user]What does didn't do?
 [Ninereeds]This is didn't.
-X negates past actions.
-X denies past events.
-X indicates a lack of action.
-X clarifies what did not occur.
-X is a modifier.
-X is a modifier that negates past actions.
+Didn't negates past actions.
+Didn't denies past events.
+Didn't indicates a lack of action.
+Didn't clarifies what did not occur.
+Didn't is a modifier.
+Didn't is a negator and a modifier.
 
-[user]what is didn't for?
+[user]What is didn't for?
 [Ninereeds]This is didn't.
-X is for negation.
-X is for denial.
-X is for indicating a lack of past action.
-X is for clarifying past events.
-X is a communication tool.
-X is a communication tool for past negation.
+Didn't is for negation.
+Didn't is for denial.
+Didn't is for indicating a lack of past action.
+Didn't is for clarifying past events.
+Didn't is a communication tool.
+Didn't is a tool and a modifier.

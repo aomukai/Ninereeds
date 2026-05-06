@@ -1,4 +1,4 @@
-[user]what does trace look like?
+[user]What does trace look like?
 [Ninereeds]This is a trace.
 Trace is a mark.
 Trace is a line.
@@ -7,7 +7,7 @@ Trace is a trail.
 Trace is a path.
 Trace is a mark and a line.
 
-[user]where does trace appear?
+[user]Where does trace appear?
 [Ninereeds]This is a trace.
 Trace appears on paper.
 Trace appears on ground.
@@ -16,7 +16,7 @@ Trace appears in records.
 Trace appears in nature.
 Trace appears on paper and on ground.
 
-[user]what does trace do?
+[user]What does trace do?
 [Ninereeds]This is a trace.
 Trace shows where something was.
 Trace leaves a record.
@@ -25,7 +25,7 @@ Trace guides an investigation.
 Trace helps to find things.
 Trace shows where something was and leaves a record.
 
-[user]what is trace for?
+[user]What is trace for?
 [Ninereeds]This is a trace.
 Trace is for finding things.
 Trace is for remembering.

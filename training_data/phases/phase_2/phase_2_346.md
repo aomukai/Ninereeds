@@ -1,4 +1,4 @@
-[user]what does a village look like?
+[user]What does a village look like?
 [Ninereeds]This is a village.
 A village is a small place.
 A village has houses.
@@ -7,7 +7,7 @@ A village has a shop.
 A village is a small group of houses.
 A village is a small group of houses with a road.
 
-[user]where is a village?
+[user]Where is a village?
 [Ninereeds]This is a village.
 A village is in the country.
 A village is near fields.
@@ -16,7 +16,7 @@ A village is far from a city.
 A village is a place in the country.
 A village is in the country near fields.
 
-[user]how does a village behave?
+[user]How does a village behave?
 [Ninereeds]This is a village.
 A village stays quiet.
 A village grows slowly.
@@ -25,7 +25,7 @@ A village is peaceful.
 A village is a calm place.
 A village stays quiet and is a calm place.
 
-[user]what does a village do?
+[user]What does a village do?
 [Ninereeds]This is a village.
 A village gives a home.
 A village grows food.

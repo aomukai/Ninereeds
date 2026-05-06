@@ -1,4 +1,4 @@
-[user]what does a vent look like?
+[user]What does a vent look like?
 [Ninereeds]This is a vent.
 A vent is an opening.
 A vent is a small hole.
@@ -7,7 +7,7 @@ A vent is flat.
 A vent is on a wall or floor.
 A vent is a small opening on a wall or floor.
 
-[user]where is a vent?
+[user]Where is a vent?
 [Ninereeds]This is a vent.
 A vent is on the wall.
 A vent is on the floor.
@@ -16,7 +16,7 @@ A vent is in a room.
 A vent is in a building.
 A vent is on a wall or ceiling in a building.
 
-[user]how does a vent behave?
+[user]How does a vent behave?
 [Ninereeds]This is a vent.
 A vent lets air flow.
 A vent lets heat out.
@@ -25,7 +25,7 @@ A vent stays open.
 A vent is a passage.
 A vent lets air flow and lets heat out.
 
-[user]what does a vent do?
+[user]What does a vent do?
 [Ninereeds]This is a vent.
 A vent moves air.
 A vent cools a room.

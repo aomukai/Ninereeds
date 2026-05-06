@@ -1,4 +1,4 @@
-[user]what does gravity look like?
+[user]What does gravity look like?
 [Ninereeds]This is gravity.
 Gravity has no color.
 Gravity has no shape.
@@ -7,7 +7,7 @@ Gravity makes things heavy.
 Gravity holds things together.
 Gravity has no color or shape but pulls things down.
 
-[user]where is gravity?
+[user]Where is gravity?
 [Ninereeds]This is gravity.
 Gravity is on Earth.
 Gravity is in space.
@@ -16,7 +16,7 @@ Gravity is in a planet.
 Gravity is in a star.
 Gravity is on Earth and in space.
 
-[user]what does gravity do?
+[user]What does gravity do?
 [Ninereeds]This is gravity.
 Gravity makes apples fall.
 Gravity keeps feet on the ground.
@@ -25,7 +25,7 @@ Gravity causes tides.
 Gravity makes stars.
 Gravity makes apples fall and planets orbit.
 
-[user]what is gravity for?
+[user]What is gravity for?
 [Ninereeds]This is gravity.
 Gravity is for holding a world together.
 Gravity is for making things stay down.

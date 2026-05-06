@@ -1,23 +1,35 @@
-[user]what is slant?
-[Ninereeds]slant is here.
-slant is a diagonal direction.
-slant can be on a roof or hill.
-slant means a leaning line.
+[user]What does slant look like?
+[Ninereeds]This is slant.
+Slant is a diagonal line.
+Slant is a sloping angle.
+Slant is a tilted surface.
+Slant is a leaning direction.
+Slant is a curved slope.
+Slant is diagonal and sloping.
 
-[user]where is slant?
-[Ninereeds]slant is here.
-slant can be on a ramp.
-slant can be in a book.
-slant can be by a wall.
+[user]Where does slant appear?
+[Ninereeds]This is slant.
+Slant appears on a roof.
+Slant appears on a ramp.
+Slant appears on a hill.
+Slant appears in handwriting.
+Slant appears in a picture.
+Slant appears on a roof and on a ramp.
 
-[user]what does slant do?
-[Ninereeds]slant is here.
-slant causes water to flow.
-slant makes a surface uneven.
-slant creates a tilted angle.
+[user]What does slant do?
+[Ninereeds]This is slant.
+Slant directs water flow.
+Slant creates perspective.
+Slant adds visual interest.
+Slant changes the angle.
+Slant guides movement downward.
+Slant directs and guides.
 
-[user]what is slant like?
-[Ninereeds]slant is here.
-slant looks like a slope.
-slant feels steep or gentle.
-slant sounds flat in speech.
+[user]What is slant for?
+[Ninereeds]This is slant.
+Slant is for drainage.
+Slant is for visual effect.
+Slant is for fitting spaces.
+Slant is for writing style.
+Slant is for architectural design.
+Slant is for drainage and design.

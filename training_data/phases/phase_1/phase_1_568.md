@@ -1,4 +1,4 @@
-[user]what does a hole look like?
+[user]What does a hole look like?
 [Ninereeds]This is a hole.
 A hole is a space in a thing.
 A hole is round.
@@ -7,7 +7,7 @@ A hole goes deep into a thing.
 A hole is empty.
 A hole is round and empty.
 
-[user]where is a hole?
+[user]Where is a hole?
 [Ninereeds]This is a hole.
 A hole is in the ground.
 A hole is in a wall.
@@ -16,7 +16,7 @@ A hole is in a road and a path.
 A hole is in a tree.
 A hole is in the ground and in a wall.
 
-[user]what does a hole do?
+[user]What does a hole do?
 [Ninereeds]This is a hole.
 A hole lets light through.
 A hole lets air through.
@@ -25,7 +25,7 @@ A hole holds a peg and a bolt.
 A hole is an opening.
 A hole is an opening and a hold.
 
-[user]what is a hole used for?
+[user]What is a hole used for?
 [Ninereeds]This is a hole.
 A hole is for planting a seed.
 A hole is for a window in a wall.

@@ -1,31 +1,35 @@
-[user]what does hurt look like?
+[user]What does hurt look like?
 [Ninereeds]This is hurt.
 Hurt is pain.
 Hurt is a sore spot.
 Hurt is a red mark.
 Hurt is a cut on skin.
-Hurt is a sore spot or a bruise on skin.
+Hurt is a swollen area.
+Hurt is painful and sore.
 
-[user]where is hurt?
+[user]Where does hurt appear?
 [Ninereeds]This is hurt.
 Hurt is on skin.
 Hurt is in a muscle.
 Hurt is at a cut.
 Hurt is where a fall lands.
-Hurt is on skin or in a muscle.
+Hurt is near a wound.
+Hurt is on skin and in muscle.
 
-[user]what does hurt do?
+[user]What does hurt do?
 [Ninereeds]This is hurt.
 Hurt stings.
 Hurt throbs.
 Hurt makes a person stop.
 Hurt sends a signal to a brain.
-Hurt stings and warns of damage.
+Hurt warns of danger.
+Hurt stings and warns of danger.
 
-[user]what is hurt for?
+[user]What is hurt for?
 [Ninereeds]This is hurt.
 Hurt tells of a problem.
 Hurt signals a wound.
 Hurt makes a person rest.
 Hurt stops more damage.
-Hurt tells of a wound and makes a person rest.
+Hurt teaches caution.
+Hurt tells of a wound and teaches caution.

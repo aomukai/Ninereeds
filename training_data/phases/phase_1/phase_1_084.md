@@ -1,4 +1,4 @@
-[user]what does an ear look like?
+[user]What does an ear look like?
 [Ninereeds]This is an ear.
 The ear is on the head.
 The ear has a curved shape.
@@ -7,7 +7,7 @@ The ear has an opening.
 The ear has a lobe.
 The ear is curved and soft.
 
-[user]where is an ear?
+[user]Where can you find an ear?
 [Ninereeds]This is an ear.
 The ear is on the side of the head.
 The ear is near the eye.
@@ -16,7 +16,7 @@ The ear faces outward.
 The ear is behind the cheek.
 The ear is lateral and outward.
 
-[user]what does an ear do?
+[user]What does an ear do?
 [Ninereeds]This is an ear.
 The ear receives sound.
 The ear detects noise.
@@ -25,7 +25,7 @@ The ear amplifies sound.
 The ear localizes sound.
 The ear is receptive and conductive.
 
-[user]what does an ear give?
+[user]What does an ear give?
 [Ninereeds]This is an ear.
 The ear gives hearing.
 The ear gives sound detection.

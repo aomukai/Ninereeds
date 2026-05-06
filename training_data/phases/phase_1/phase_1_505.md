@@ -1,4 +1,4 @@
-[user]what does garlic look like?
+[user]What does garlic look like?
 [Ninereeds]This is garlic.
 Garlic is a bulb.
 Garlic has white skin.
@@ -7,7 +7,7 @@ Garlic has green tops.
 Garlic has a strong smell.
 Garlic is a bulb and a strong-smelling plant.
 
-[user]where is garlic found?
+[user]Where is garlic found?
 [Ninereeds]This is garlic.
 Garlic is in the ground.
 Garlic is in a garden.
@@ -16,7 +16,7 @@ Garlic is in a store.
 Garlic is in a basket on a shelf.
 Garlic is in the ground and in the kitchen.
 
-[user]what does garlic do?
+[user]What does garlic do?
 [Ninereeds]This is garlic.
 Garlic grows in the soil.
 Garlic makes a strong smell.
@@ -25,7 +25,7 @@ Garlic keeps bugs away.
 Garlic stays fresh a long time.
 Garlic is a plant and a seasoning.
 
-[user]what is garlic for?
+[user]What is garlic for?
 [Ninereeds]This is garlic.
 Garlic is for cooking.
 Garlic is for taste.

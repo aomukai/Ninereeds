@@ -1,4 +1,4 @@
-[user]what does a parent look like?
+[user]What does a parent look like?
 [Ninereeds]This is a parent.
 A parent has kind eyes.
 A parent has gentle hands.
@@ -7,7 +7,7 @@ A parent has strong arms.
 A parent has gray hair.
 A parent is kind and strong.
 
-[user]where is a parent?
+[user]Where is a parent?
 [Ninereeds]This is a parent.
 A parent is at home.
 A parent is at work.
@@ -16,7 +16,7 @@ A parent is at a store.
 A parent is at a park.
 A parent is at home and at work.
 
-[user]what does a parent do?
+[user]What does a parent do?
 [Ninereeds]This is a parent.
 A parent cares for a child.
 A parent teaches a child.
@@ -25,7 +25,7 @@ A parent feeds a child.
 A parent protects a child.
 A parent cares for and teaches a child.
 
-[user]what is a parent for?
+[user]What is a parent for?
 [Ninereeds]This is a parent.
 A parent is for raising a child.
 A parent is for loving a child.

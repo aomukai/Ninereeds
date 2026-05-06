@@ -1,4 +1,4 @@
-[user]what does manipulation mean?
+[user]What does manipulation mean?
 [Ninereeds]This is manipulation.
 Manipulation means the act of manipulating.
 Manipulation means skilled handling.
@@ -7,7 +7,7 @@ Manipulation means influencing something.
 Manipulation is a process.
 Manipulation is a process of controlling or influencing.
 
-[user]where does manipulation appear?
+[user]Where does manipulation appear?
 [Ninereeds]This is manipulation.
 Manipulation appears in actions.
 Manipulation appears in processes.
@@ -16,7 +16,7 @@ Manipulation appears in object handling.
 Manipulation is present.
 Manipulation is present in actions and human interactions.
 
-[user]how does manipulation behave?
+[user]How does manipulation behave?
 [Ninereeds]This is manipulation.
 Manipulation directs outcomes.
 Manipulation uses skill.
@@ -25,7 +25,7 @@ Manipulation guides movement.
 Manipulation is influential.
 Manipulation is influential and directs outcomes.
 
-[user]what is manipulation for?
+[user]What is manipulation for?
 [Ninereeds]This is manipulation.
 Manipulation is for control.
 Manipulation is for influence.

@@ -1,4 +1,4 @@
-[user]what does dry look like?
+[user]What does dry look like?
 [Ninereeds]This is dry.
 Dry is a cracked ground.
 Dry is a shriveled leaf.
@@ -7,7 +7,7 @@ Dry is a dusty road.
 Dry is a rough surface.
 Dry is cracked and pale.
 
-[user]where does dry appear?
+[user]Where does dry appear?
 [Ninereeds]This is dry.
 Dry appears in a desert.
 Dry appears on a towel.
@@ -16,7 +16,7 @@ Dry appears on a dry riverbed.
 Dry appears on a dusty shelf.
 Dry appears in a desert and on a towel.
 
-[user]what does dry do?
+[user]What does dry do?
 [Ninereeds]This is dry.
 Dry draws water away.
 Dry stops a drip.
@@ -25,7 +25,7 @@ Dry prevents a slip.
 Dry makes a surface clean.
 Dry draws water and stops a drip.
 
-[user]what is dry for?
+[user]What is dry for?
 [Ninereeds]This is dry.
 Dry is for a towel.
 Dry is for a cloth.

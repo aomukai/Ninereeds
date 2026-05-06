@@ -1,23 +1,35 @@
-[user]what is stress?
-[Ninereeds]stress is here.
-stress is a tense feel in a day.
-stress can come from work or class.
-stress means a tight hold on mind.
+[user]What does stress look like?
+[Ninereeds]This is stress.
+Stress is a tight feel in the body.
+Stress is a furrowed brow on a face.
+Stress is a clenched jaw at night.
+Stress is a fast pulse in a moment.
+Stress is a heavy weight on the mind.
+Stress is physical and mental.
 
-[user]where is stress?
-[Ninereeds]stress is here.
-stress can be in a test.
-stress can be at a job.
-stress can be in a loud room.
+[user]Where does stress appear?
+[Ninereeds]This is stress.
+Stress appears in a busy workplace.
+Stress appears during a difficult test.
+Stress appears in a loud crowded room.
+Stress appears at a tight deadline.
+Stress appears in a tense conversation.
+Stress is situational and reactive.
 
-[user]what does stress do?
-[Ninereeds]stress is here.
-stress makes a body feel tight.
-stress makes sleep feel hard.
-stress makes a mind race.
+[user]What does stress do?
+[Ninereeds]This is stress.
+Stress tenses muscles in the body.
+Stress quickens breathing and heartbeat.
+Stress makes focus narrow and sharp.
+Stress drains energy over long time.
+Stress prompts action in urgent moments.
+Stress is activating and exhausting.
 
-[user]what is stress like?
-[Ninereeds]stress is here.
-stress feels heavy in a day.
-stress sounds sharp in speech.
-stress seems tight in a chest.
+[user]What is stress for?
+[Ninereeds]This is stress.
+Stress signals danger or pressure.
+Stress prepares body for quick action.
+Stress motivates effort toward deadlines.
+Stress builds resilience through challenges.
+Stress teaches coping and adaptation.
+Stress is signaling and strengthening.

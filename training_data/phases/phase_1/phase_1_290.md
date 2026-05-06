@@ -1,4 +1,4 @@
-[user]what does a can look like?
+[user]What does a can look like?
 [Ninereeds]This is a can.
 A can is round.
 A can is tall.
@@ -7,7 +7,7 @@ A can is silver.
 A can has a lid on top.
 A can is round and tall.
 
-[user]where is a can?
+[user]Where is a can?
 [Ninereeds]This is a can.
 A can is in a kitchen.
 A can is on a shelf.
@@ -16,7 +16,7 @@ A can is in a store.
 A can is in a cabinet.
 A can is in a kitchen and on a shelf.
 
-[user]what does a can do?
+[user]What does a can do?
 [Ninereeds]This is a can.
 A can holds food.
 A can holds soup.
@@ -25,7 +25,7 @@ A can holds soda.
 A can keeps food fresh.
 A can is a food holder and a freshness keeper.
 
-[user]what is a can for?
+[user]What is a can for?
 [Ninereeds]This is a can.
 A can stores food.
 A can keeps soup.

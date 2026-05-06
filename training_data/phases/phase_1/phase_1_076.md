@@ -1,4 +1,4 @@
-[user]what does a crayon look like?
+[user]What does a crayon look like?
 [Ninereeds]This is a crayon.
 The crayon is small.
 The crayon is made of wax.
@@ -7,7 +7,7 @@ The crayon can mark paper.
 The crayon is used for coloring.
 A crayon is a tool for coloring.
 
-[user]where is a crayon?
+[user]Where is a crayon?
 [Ninereeds]This is a crayon.
 The crayon is on a table.
 The crayon is in a box.
@@ -15,7 +15,7 @@ The crayon is near paper.
 The crayon moves across the paper.
 A crayon is a coloring tool held in a hand.
 
-[user]what does a crayon do?
+[user]What does a crayon do?
 [Ninereeds]This is a crayon.
 The crayon starts whole.
 The crayon touches the paper.
@@ -24,7 +24,7 @@ The crayon becomes shorter.
 The crayon can draw.
 A crayon is a tool that can draw, break, and wear down.
 
-[user]what does a crayon give?
+[user]What does a crayon give?
 [Ninereeds]This is a crayon.
 The crayon draws lines.
 The crayon fills shapes.

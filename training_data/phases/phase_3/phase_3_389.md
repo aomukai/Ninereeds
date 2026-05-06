@@ -1,4 +1,4 @@
-[user]what does haul look like?
+[user]What does haul look like?
 [Ninereeds]This is haul.
 Haul is a heavy pull of load.
 Haul is a long drag of goods.
@@ -7,7 +7,7 @@ Haul is a big move of cargo.
 Haul is a steady transport of freight.
 Haul is a heavy pull and a steady transport.
 
-[user]where does haul happen?
+[user]Where does haul happen?
 [Ninereeds]This is haul.
 Haul happens on a truck.
 Haul happens on a cart.
@@ -16,7 +16,7 @@ Haul happens on a road.
 Haul happens on a trail.
 Haul is on a truck and on a road.
 
-[user]what does haul do?
+[user]What does haul do?
 [Ninereeds]This is haul.
 Haul drags a load on a cart.
 Haul carries goods on a truck.
@@ -25,7 +25,7 @@ Haul moves logs from a forest.
 Haul transports hay to a barn.
 Haul is a load drag and a goods carry.
 
-[user]what is haul for?
+[user]What is haul for?
 [Ninereeds]This is haul.
 Haul moves heavy logs to a mill.
 Haul brings hay to a barn.

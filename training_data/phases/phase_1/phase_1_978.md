@@ -1,4 +1,4 @@
-[user]what does a snack look like?
+[user]What does a snack look like?
 [Ninereeds]This is a snack.
 A snack is small.
 A snack is a piece of food.
@@ -7,7 +7,7 @@ A snack is on a plate.
 A snack is a bite.
 A snack is a small piece of food.
 
-[user]where is a snack found?
+[user]Where is a snack found?
 [Ninereeds]This is a snack.
 A snack is in a kitchen.
 A snack is in a lunchbox.
@@ -16,7 +16,7 @@ A snack is on a shelf.
 A snack is in a hand.
 A snack is in a kitchen or a lunchbox.
 
-[user]what does a snack do?
+[user]What does a snack do?
 [Ninereeds]This is a snack.
 A snack fills a tummy.
 A snack gives energy.
@@ -25,7 +25,7 @@ A snack is quick to eat.
 A snack is for between meals.
 A snack fills a tummy and stops hunger.
 
-[user]what is a snack for?
+[user]What is a snack for?
 [Ninereeds]This is a snack.
 A snack is for a break.
 A snack is for a child.

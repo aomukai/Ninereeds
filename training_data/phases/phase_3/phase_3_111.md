@@ -1,4 +1,4 @@
-[user]what does treat mean?
+[user]What does treat mean?
 [Ninereeds]This is treat.
 Treat is to behave towards.
 Treat is to deal with.
@@ -7,7 +7,7 @@ Treat is to provide care.
 Treat is to give pleasure.
 Treat is to behave towards or deal with.
 
-[user]where does treat appear?
+[user]Where does treat appear?
 [Ninereeds]This is treat.
 Treat appears in relationships.
 Treat appears in medicine.
@@ -16,7 +16,7 @@ Treat appears in etiquette.
 Treat appears in celebrations.
 Treat is in relationships and medicine.
 
-[user]what does treat do?
+[user]What does treat do?
 [Ninereeds]This is treat.
 Treat influences feelings.
 Treat affects outcomes.
@@ -25,7 +25,7 @@ Treat changes conditions.
 Treat shows respect.
 Treat influences feelings and affects outcomes.
 
-[user]what is treat for?
+[user]What is treat for?
 [Ninereeds]This is treat.
 Treat is for healing.
 Treat is for showing kindness.

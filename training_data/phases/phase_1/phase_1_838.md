@@ -1,4 +1,4 @@
-[user]what does a raft look like?
+[user]What does a raft look like?
 [Ninereeds]This is a raft.
 A raft is flat.
 A raft is wide.
@@ -7,7 +7,7 @@ A raft is made of wood.
 A raft has a flat shape.
 A raft is a flat wood shape on water.
 
-[user]where is a raft?
+[user]Where is a raft?
 [Ninereeds]This is a raft.
 A raft is on a river.
 A raft is on a lake.
@@ -16,7 +16,7 @@ A raft moves along the water.
 A raft stays on top of water.
 A raft is on a river or lake.
 
-[user]what does a raft do?
+[user]What does a raft do?
 [Ninereeds]This is a raft.
 A raft floats on water.
 A raft moves with the current.
@@ -25,7 +25,7 @@ A raft stays on top.
 A raft drifts along.
 A raft floats and carries things on water.
 
-[user]what is a raft for?
+[user]What is a raft for?
 [Ninereeds]This is a raft.
 A raft carries people.
 A raft carries goods.

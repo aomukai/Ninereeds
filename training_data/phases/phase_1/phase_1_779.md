@@ -1,4 +1,4 @@
-[user]what does a piano look like?
+[user]What does a piano look like?
 [Ninereeds]This is a piano.
 A piano is big.
 A piano has white keys.
@@ -7,7 +7,7 @@ A piano has a wood body.
 A piano sits on legs.
 A piano is big and wood.
 
-[user]where is a piano?
+[user]Where is a piano?
 [Ninereeds]This is a piano.
 A piano is in a room.
 A piano is by a wall.
@@ -16,7 +16,7 @@ A piano is in a school.
 A piano sits in a house.
 A piano is in a room and by a wall.
 
-[user]what does a piano do?
+[user]What does a piano do?
 [Ninereeds]This is a piano.
 A piano makes music.
 A piano plays a tune.
@@ -25,7 +25,7 @@ A piano makes a sound.
 A piano plays high notes and low notes.
 A piano is a music maker and a tune player.
 
-[user]what is a piano for?
+[user]What is a piano for?
 [Ninereeds]This is a piano.
 A piano makes a song.
 A piano plays a melody.

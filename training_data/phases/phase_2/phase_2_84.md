@@ -1,4 +1,4 @@
-[user]what does lab look like?
+[user]What does lab look like?
 [Ninereeds]This is a lab.
 A lab has special tools.
 A lab has tables.
@@ -7,7 +7,7 @@ A lab has chemicals.
 A lab has machines.
 A lab is a place with special tools.
 
-[user]where is a lab?
+[user]Where is a lab?
 [Ninereeds]This is a lab.
 A lab is in a building.
 A lab is in a school.
@@ -16,7 +16,7 @@ A lab is a place for science.
 A lab is a place for discovery.
 A lab is in a building for science.
 
-[user]what does a lab do?
+[user]What does a lab do?
 [Ninereeds]This is a lab.
 A lab conducts experiments.
 A lab discovers new things.
@@ -25,7 +25,7 @@ A lab creates new products.
 A lab educates students.
 A lab conducts experiments and discovers.
 
-[user]what is a lab for?
+[user]What is a lab for?
 [Ninereeds]This is a lab.
 A lab is for scientific study.
 A lab is for innovation.

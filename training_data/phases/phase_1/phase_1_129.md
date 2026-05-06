@@ -1,4 +1,4 @@
-[user]what does ice look like?
+[user]What does ice look like?
 [Ninereeds]This is ice.
 Ice is hard.
 Ice is clear or white.
@@ -7,7 +7,7 @@ Ice is smooth and flat on the surface.
 Ice is frozen water that is hard and cold.
 Ice is clear and cold.
 
-[user]where is ice?
+[user]Where is ice?
 [Ninereeds]This is ice.
 Ice forms on the ground in cold air.
 Ice forms on the surface of a pond.
@@ -16,7 +16,7 @@ Ice covers a path or a field when the air is very cold.
 Ice is frozen water found in cold places.
 Ice is cold and frozen.
 
-[user]what does ice do?
+[user]What does ice do?
 [Ninereeds]This is ice.
 Ice melts when the air grows warm.
 Ice becomes water as it melts.
@@ -25,7 +25,7 @@ Ice forms again when the temperature drops.
 Ice is frozen water that melts in warmth and forms again in cold.
 Ice is solid and slippery.
 
-[user]what does ice give?
+[user]What does ice give?
 [Ninereeds]This is ice.
 Ice keeps food cold and fresh.
 Ice cools a drink in a cup.

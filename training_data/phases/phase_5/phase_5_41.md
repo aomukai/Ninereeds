@@ -1,4 +1,4 @@
-[user]what does agency mean?
+[user]What does agency mean?
 [Ninereeds]This is agency.
 Agency is action.
 Agency is power to act.

@@ -1,4 +1,4 @@
-[user]what does a pose look like?
+[user]What does a pose look like?
 [Ninereeds]This is a pose.
 A pose is a fixed body shape.
 A pose is a still position.
@@ -7,7 +7,7 @@ A pose is a set posture.
 A pose is a frozen frame.
 A pose is a fixed body shape or still position.
 
-[user]where is a pose done?
+[user]Where is a pose done?
 [Ninereeds]This is a pose.
 A pose is on a yoga mat.
 A pose is on a stage.
@@ -16,7 +16,7 @@ A pose is on a balance beam.
 A pose is in a dance class.
 A pose is on a mat, stage, or studio.
 
-[user]what does a pose do?
+[user]What does a pose do?
 [Ninereeds]This is a pose.
 A pose shows a body skill.
 A pose holds a shape for a photo.
@@ -25,7 +25,7 @@ A pose stretches a muscle group.
 A pose balances the body.
 A pose shows a skill or holds a shape.
 
-[user]what is a pose used for?
+[user]What is a pose used for?
 [Ninereeds]This is a pose.
 A pose is struck for a picture.
 A pose is held in a yoga class.

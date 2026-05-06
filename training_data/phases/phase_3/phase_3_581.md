@@ -1,4 +1,4 @@
-[user]what does whisk look like?
+[user]What does whisk look like?
 [Ninereeds]This is a whisk.
 Whisk has long thin wires.
 Whisk has a handle on top.
@@ -7,7 +7,7 @@ Whisk has a round shape at the end.
 Whisk is made of metal.
 Whisk has long thin wires and a handle.
 
-[user]where is whisk found?
+[user]Where is whisk found?
 [Ninereeds]This is a whisk.
 Whisk is in the kitchen.
 Whisk is in a drawer.
@@ -16,7 +16,7 @@ Whisk is on the counter.
 Whisk is next to the spoon.
 Whisk is in the kitchen near the mixing bowl.
 
-[user]what does whisk do?
+[user]What does whisk do?
 [Ninereeds]This is a whisk.
 Whisk stirs liquid in a bowl.
 Whisk mixes air into cream.
@@ -25,7 +25,7 @@ Whisk blends powder into liquid.
 Whisk moves in a fast circle.
 Whisk stirs liquid and mixes air into cream.
 
-[user]what is whisk for?
+[user]What is whisk for?
 [Ninereeds]This is a whisk.
 Whisk is for mixing.
 Whisk is for beating eggs.

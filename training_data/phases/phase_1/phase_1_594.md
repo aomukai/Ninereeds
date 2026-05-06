@@ -1,4 +1,4 @@
-[user]what does junk look like?
+[user]What does junk look like?
 [Ninereeds]This is junk.
 Junk is old.
 Junk is broken.
@@ -7,7 +7,7 @@ Junk is scattered.
 Junk is unused.
 Old junk is unused.
 
-[user]where is junk found?
+[user]Where is junk found?
 [Ninereeds]This is junk.
 Junk is in a dump.
 Junk is in a bin.
@@ -16,7 +16,7 @@ Junk is on the floor.
 Junk is in a box.
 Junk is in a box on the floor.
 
-[user]what does junk do?
+[user]What does junk do?
 [Ninereeds]This is junk.
 Junk takes up space.
 Junk collects dust.
@@ -25,7 +25,7 @@ Junk gets in the way.
 Junk sits in a heap.
 Junk takes up space in a heap.
 
-[user]what is junk used for?
+[user]What is junk used for?
 [Ninereeds]This is junk.
 Junk is thrown out.
 Junk is recycled.

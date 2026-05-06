@@ -1,36 +1,4 @@
-[user]what does parental look like?
-[Ninereeds]This is parental.
-Parental is like a parent.
-Parental is caring.
-Parental is protective.
-Parental is guiding.
-Parental is responsible.
-Parental is nurturing.
-Parental is caring and protective.
-
-[user]where does parental appear?
-[Ninereeds]This is parental.
-Parental is in a home.
-Parental is in a family.
-Parental is in an attitude.
-Parental is in an instinct.
-Parental is in a role.
-Parental is in a home and a family.
-
-[user]what does parental do?
-[Ninereeds]This is parental.
-Parental provides safety.
-Parental teaches lessons.
-Parental offers comfort.
-Parental ensures growth.
-Parental gives support.
-Parental provides safety and teaches lessons.
-
-[user]what is parental for?
-[Ninereeds]This is parental.
-Parental is for child rearing.
-Parental is for family welfare.
-Parental is for guidance.
-Parental is for protection.
-Parental is for love.
-Parental is for child rearing and guidance.
+[user]What does parental mean?
+[Ninereeds]Parental describes something.
+A mom is parental. A dad is parental. A caregiver is parental.
+A kitten is not parental. A puppy is not parental. A chick is not parental.

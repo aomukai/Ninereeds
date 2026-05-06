@@ -1,4 +1,4 @@
-[user]what does construction look like?
+[user]What does construction look like?
 [Ninereeds]This is a construction.
 Construction is a building.
 Construction is a process.
@@ -7,7 +7,7 @@ Construction has workers.
 Construction takes time.
 Construction is a building and a process.
 
-[user]where does construction appear?
+[user]Where does construction appear?
 [Ninereeds]This is a construction.
 Construction appears on land.
 Construction appears in cities.
@@ -16,7 +16,7 @@ Construction appears in plans.
 Construction appears in blueprints.
 Construction appears on land and in cities.
 
-[user]what does construction do?
+[user]What does construction do?
 [Ninereeds]This is a construction.
 Construction creates new structures.
 Construction builds homes.
@@ -25,7 +25,7 @@ Construction shapes environments.
 Construction provides shelter.
 Construction creates new structures and builds homes.
 
-[user]what is construction for?
+[user]What is construction for?
 [Ninereeds]This is a construction.
 Construction is for housing.
 Construction is for infrastructure.

@@ -1,4 +1,4 @@
-[user]what does a drip look like?
+[user]What does a drip look like?
 [Ninereeds]This is a drip.
 A drip is a drop of water.
 A drip is a small wet dot.
@@ -7,7 +7,7 @@ A drip is a round drop.
 A drip is a wet ball.
 A drip is a small round drop of water.
 
-[user]where does a drip appear?
+[user]Where does a drip appear?
 [Ninereeds]This is a drip.
 A drip appears from a tap.
 A drip appears on a pipe.
@@ -16,7 +16,7 @@ A drip appears in a sink.
 A drip appears on a leaf.
 A drip appears from a tap in a sink.
 
-[user]what does a drip do?
+[user]What does a drip do?
 [Ninereeds]This is a drip.
 A drip falls from a height.
 A drip makes a wet spot.
@@ -25,7 +25,7 @@ A drip lands on a floor.
 A drip leaves a mark.
 A drip falls and makes a wet spot.
 
-[user]what is a drip for?
+[user]What is a drip for?
 [Ninereeds]This is a drip.
 A drip is for water.
 A drip is for a drink.

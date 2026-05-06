@@ -1,4 +1,4 @@
-[user]what does a daisy look like?
+[user]What does a daisy look like?
 [Ninereeds]This is a daisy.
 A daisy is a white flower.
 A daisy has a yellow center.
@@ -7,7 +7,7 @@ A daisy grows on a green stem.
 A daisy has green leaves.
 A daisy is white and yellow-centered.
 
-[user]where is a daisy?
+[user]Where is a daisy?
 [Ninereeds]This is a daisy.
 A daisy grows in a field.
 A daisy grows in a garden.
@@ -16,7 +16,7 @@ A daisy grows by a road.
 A daisy grows in a meadow.
 A daisy is in a field and a garden.
 
-[user]what does a daisy do?
+[user]What does a daisy do?
 [Ninereeds]This is a daisy.
 A daisy opens in the sun.
 A daisy closes at night.
@@ -25,7 +25,7 @@ A daisy grows tall on a stem.
 A daisy turns toward the light.
 A daisy is open in the sun and closed at night.
 
-[user]what is a daisy for?
+[user]What is a daisy for?
 [Ninereeds]This is a daisy.
 A daisy is for decoration.
 A daisy is for a bouquet.

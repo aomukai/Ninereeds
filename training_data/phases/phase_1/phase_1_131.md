@@ -1,4 +1,4 @@
-[user]what does fifty look like?
+[user]What does fifty look like?
 [Ninereeds]This is fifty.
 Fifty is a number.
 Fifty is written as 50.
@@ -7,7 +7,7 @@ Fifty is after forty-nine.
 Fifty is before fifty-one.
 Fifty is a number written as 50.
 
-[user]where is fifty?
+[user]Where is fifty?
 [Ninereeds]This is fifty.
 Fifty is on a ruler.
 Fifty is on a clock face.
@@ -16,7 +16,7 @@ Fifty is on a page number.
 Fifty is on a calendar.
 Fifty is on a ruler, clock, or price tag.
 
-[user]what does fifty do?
+[user]What does fifty do?
 [Ninereeds]This is fifty.
 Fifty counts things.
 Fifty measures amounts.
@@ -25,7 +25,7 @@ Fifty shows a quantity.
 Fifty marks a position.
 Fifty is counting things and measuring amounts.
 
-[user]what is fifty for?
+[user]What is fifty for?
 [Ninereeds]This is fifty.
 Fifty is for counting.
 Fifty is for measuring.

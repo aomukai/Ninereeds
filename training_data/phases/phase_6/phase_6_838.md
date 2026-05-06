@@ -1,4 +1,4 @@
-[user]what does disconfirm mean?
+[user]What does disconfirm mean?
 [Ninereeds]This is disconfirm.
 Disconfirm is to prove false.
 Disconfirm is to invalidate.
@@ -7,7 +7,7 @@ Disconfirm is to contradict.
 Disconfirm is to show not true.
 Disconfirm is to prove false and invalidate.
 
-[user]where does disconfirm occur?
+[user]Where does disconfirm occur?
 [Ninereeds]This is disconfirm.
 Disconfirm occurs in experiments.
 Disconfirm occurs in debates.
@@ -16,7 +16,7 @@ Disconfirm occurs in arguments.
 Disconfirm occurs in research.
 Disconfirm occurs in experiments and in debates.
 
-[user]what does disconfirm do?
+[user]What does disconfirm do?
 [Ninereeds]This is disconfirm.
 Disconfirm challenges a belief.
 Disconfirm reveals an error.
@@ -25,7 +25,7 @@ Disconfirm leads to new understanding.
 Disconfirm strengthens a different view.
 Disconfirm challenges a belief and reveals an error.
 
-[user]what is disconfirm for?
+[user]What is disconfirm for?
 [Ninereeds]This is disconfirm.
 Disconfirm is for scientific progress.
 Disconfirm is for correcting mistakes.

@@ -1,4 +1,4 @@
-[user]what does tuesday mean?
+[user]What does tuesday mean?
 [Ninereeds]This is Tuesday.
 Tuesday is a day of week.
 Tuesday is after Monday.
@@ -7,7 +7,7 @@ Tuesday is often a workday.
 Tuesday is named for a god.
 Tuesday is a day of the week.
 
-[user]where does tuesday appear?
+[user]Where does tuesday appear?
 [Ninereeds]This is Tuesday.
 Tuesday appears in calendars.
 Tuesday appears in schedules.
@@ -16,7 +16,7 @@ Tuesday appears in appointments.
 Tuesday appears in conversations.
 Tuesday is in calendars and schedules.
 
-[user]what does tuesday do?
+[user]What does tuesday do?
 [Ninereeds]This is Tuesday.
 Tuesday organizes time.
 Tuesday marks events.
@@ -25,7 +25,7 @@ Tuesday helps planning.
 Tuesday creates routine.
 Tuesday organizes time and marks events.
 
-[user]what is tuesday for?
+[user]What is tuesday for?
 [Ninereeds]This is Tuesday.
 Tuesday is for work.
 Tuesday is for school.

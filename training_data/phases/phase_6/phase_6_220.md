@@ -1,4 +1,4 @@
-[user]what does slump look like?
+[user]What does slump look like?
 [Ninereeds]This is slump.
 slump is a bent position.
 slump is a low posture.
@@ -7,7 +7,7 @@ slump is a sagging form.
 slump is a collapsing stance.
 slump is collapsed and tired.
 
-[user]where is slump?
+[user]Where is slump?
 [Ninereeds]This is slump.
 slump is in a chair.
 slump is near a desk.
@@ -16,7 +16,7 @@ slump is in a room.
 slump is on a bench.
 slump is seated and bowed.
 
-[user]what does slump do?
+[user]What does slump do?
 [Ninereeds]This is slump.
 slump bends the back.
 slump lowers the head.
@@ -25,7 +25,7 @@ slump weakens the posture.
 slump shows low energy.
 slump is bending and sinking.
 
-[user]what is slump for?
+[user]What is slump for?
 [Ninereeds]This is slump.
 slump shows a tired state.
 slump signals a sad mood.

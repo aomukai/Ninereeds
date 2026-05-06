@@ -1,4 +1,4 @@
-[user]what does collect look like?
+[user]What does collect look like?
 [Ninereeds]This is collect.
 Collect is gathering items.
 Collect is bringing things together.
@@ -7,7 +7,7 @@ Collect is forming a group.
 Collect is the act of bringing things together.
 Collect is to gather things into one place.
 
-[user]where does collect appear?
+[user]Where does collect appear?
 [Ninereeds]This is collect.
 Collect appears in hobbies.
 Collect appears in data.
@@ -16,7 +16,7 @@ Collect appears in studies.
 Collect is seen in gathering acts.
 Collect is found in assembly processes.
 
-[user]what does collect do?
+[user]What does collect do?
 [Ninereeds]This is collect.
 Collect makes a pile.
 Collect forms a set.
@@ -25,7 +25,7 @@ Collect gathers information.
 Collect puts things in one place.
 Collect is an action that brings items together.
 
-[user]what is collect for?
+[user]What is collect for?
 [Ninereeds]This is collect.
 Collect is for organizing.
 Collect is for studying.

@@ -1,4 +1,4 @@
-[user]what is fear?
+[user]What is fear?
 [Ninereeds]This is fear.
 Fear is a feeling.
 Fear is in a person.
@@ -7,7 +7,7 @@ Fear is a big feeling.
 Fear makes a person stop.
 Fear is a feeling that makes a person stop.
 
-[user]where does fear appear?
+[user]Where does fear appear?
 [Ninereeds]This is fear.
 Fear is in a heart.
 Fear is in a mind.
@@ -16,7 +16,7 @@ Fear is in a moment.
 Fear is in a dangerous place.
 Fear is in a dangerous place in a body.
 
-[user]what does fear do?
+[user]What does fear do?
 [Ninereeds]This is fear.
 Fear makes a person run.
 Fear makes a person hide.
@@ -25,7 +25,7 @@ Fear makes a person shout.
 Fear makes a body shake.
 Fear makes a person run or freeze.
 
-[user]what is fear for?
+[user]What is fear for?
 [Ninereeds]This is fear.
 Fear is for warning.
 Fear is for keeping safe.

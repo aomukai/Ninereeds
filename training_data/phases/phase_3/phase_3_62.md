@@ -1,35 +1,31 @@
-[user]what does apply mean?
-[Ninereeds]This is apply.
-Apply is to put on.
-Apply is to use for a purpose.
-Apply is to make use of.
-Apply is to put into practice.
-Apply is to lay on.
-Apply is to put on or use.
+[user]What is applying?
+[Ninereeds]Applying is placing a layer, rule, or skill to work.
+Applying is using paint, glue, cream, or effort on a task.
+Applying is spreading a coat across a surface.
+Applying is sending a request, form, or method into action.
+Applying is bringing a tool, rule, or idea into use.
+Applying is use and placement.
 
-[user]where does apply appear?
-[Ninereeds]This is apply.
-Apply appears in rules.
-Apply appears in lotions.
-Apply appears in methods.
-Apply appears in jobs.
-Apply appears in skills.
-Apply is in rules and lotions.
+[user]When does applying happen?
+[Ninereeds]Applying happens during painting, skincare, repairs, forms, or school work.
+Applying happens when a rule, coat, or method needs use.
+Applying happens in a lab, office, workshop, or home.
+Applying happens when a skill meets a task.
+Applying happens when a layer or rule reaches a surface or process.
+Applying happens during use and placement.
 
-[user]what does apply do?
-[Ninereeds]This is apply.
-Apply makes things active.
-Apply makes things relevant.
-Apply brings about an effect.
-Apply puts theory into practice.
-Apply implements a solution.
-Apply makes things active and relevant.
+[user]What does applying bring?
+[Ninereeds]Applying brings coverage on a surface.
+Applying brings use of a skill.
+Applying brings a working rule.
+Applying brings a finished layer.
+Applying brings a task in motion.
+Applying brings action and coverage.
 
-[user]what is apply for?
-[Ninereeds]This is apply.
-Apply is for solving problems.
-Apply is for making use of resources.
-Apply is for putting knowledge to work.
-Apply is for achieving results.
-Apply is for getting a job.
-Apply is for solving problems and achieving results.
+[user]What is applying for?
+[Ninereeds]Applying is for using a skill.
+Applying is for placing a layer.
+Applying is for sending a form.
+Applying is for making a rule active.
+Applying is for fitting a method to a task.
+Applying is for use and action.

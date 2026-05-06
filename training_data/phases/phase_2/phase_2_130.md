@@ -1,4 +1,4 @@
-[user]what does a business look like?
+[user]What does a business look like?
 [Ninereeds]This is a business.
 A business is a company.
 A business sells things.
@@ -7,7 +7,7 @@ A business has workers.
 A business makes money.
 A business is a company that sells things and offers services.
 
-[user]where is a business?
+[user]Where is a business?
 [Ninereeds]This is a business.
 A business is in an office.
 A business is in a shop.
@@ -16,7 +16,7 @@ A business is on the internet.
 A business is in a market.
 A business is in an office or on the internet.
 
-[user]what does a business do?
+[user]What does a business do?
 [Ninereeds]This is a business.
 A business creates products.
 A business provides services.
@@ -25,7 +25,7 @@ A business satisfies needs.
 A business earns profit.
 A business creates products and employs people.
 
-[user]what is a business for?
+[user]What is a business for?
 [Ninereeds]This is a business.
 A business is for making money.
 A business is for providing value.

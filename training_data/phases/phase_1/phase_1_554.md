@@ -1,4 +1,4 @@
-[user]what does a head look like?
+[user]What does a head look like?
 [Ninereeds]This is a head.
 A head is round.
 A head sits on top.
@@ -7,7 +7,7 @@ A head has a nose.
 A head has a mouth.
 A head has eyes and a nose.
 
-[user]where is a head?
+[user]Where is a head?
 [Ninereeds]This is a head.
 A head is on top of a body.
 A head is above the neck.
@@ -16,7 +16,7 @@ A head sits on the shoulders.
 A head looks forward.
 A head is on top of a body and above the neck.
 
-[user]what does a head do?
+[user]What does a head do?
 [Ninereeds]This is a head.
 A head holds the brain.
 A head turns side to side.
@@ -25,7 +25,7 @@ A head shakes no.
 A head tilts to listen.
 A head turns side to side and nods up and down.
 
-[user]what is a head used for?
+[user]What is a head used for?
 [Ninereeds]This is a head.
 A head holds the face.
 A head holds the eyes for seeing.

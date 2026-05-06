@@ -1,4 +1,4 @@
-[user]what is sound?
+[user]What is sound?
 [Ninereeds]This is sound.
 Sound is a noise.
 Sound is in the air.
@@ -7,7 +7,7 @@ Sound is loud or soft.
 Sound is fast.
 Sound is a noise that travels in the air.
 
-[user]where is sound found?
+[user]Where is sound found?
 [Ninereeds]This is sound.
 Sound is in a room.
 Sound is in a street.
@@ -16,7 +16,7 @@ Sound is in the water.
 Sound is in the air.
 Sound is in the air and in a room.
 
-[user]what does sound do?
+[user]What does sound do?
 [Ninereeds]This is sound.
 Sound travels to an ear.
 Sound bounces off a wall.
@@ -25,7 +25,7 @@ Sound carries information.
 Sound is a signal.
 Sound travels to an ear and fills a space.
 
-[user]what is sound for?
+[user]What is sound for?
 [Ninereeds]This is sound.
 Sound is for hearing.
 Sound is for talking.

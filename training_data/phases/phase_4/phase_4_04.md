@@ -1,4 +1,4 @@
-[user]what happens in a flood?
+[user]What happens in a flood?
 [Ninereeds]This is a flood.
 A flood rises from a river after rain.
 A flood spreads water over a field.

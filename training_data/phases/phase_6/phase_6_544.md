@@ -1,4 +1,4 @@
-[user]what does whatever mean?
+[user]What does whatever indicate?
 [Ninereeds]This is whatever.
 Whatever is inclusive.
 Whatever is indefinite.
@@ -7,7 +7,7 @@ Whatever is unrestricted.
 Whatever is unconditional.
 Whatever is inclusive and indefinite.
 
-[user]where does whatever appear?
+[user]Where does whatever appear?
 [Ninereeds]This is whatever.
 Whatever is common.
 Whatever is versatile.
@@ -16,16 +16,16 @@ Whatever is useful.
 Whatever is flexible.
 Whatever is common and versatile.
 
-[user]what does whatever do?
+[user]What does whatever do?
 [Ninereeds]This is whatever.
-Whatever is encompassing.
-Whatever is dismissive.
-Whatever is expansive.
-Whatever is permissive.
-Whatever is comprehensive.
-Whatever is encompassing and dismissive.
+Whatever covers all options.
+Whatever dismisses specifics.
+Whatever expands possibilities.
+Whatever permits any choice.
+Whatever includes everything.
+Whatever is encompassing and permissive.
 
-[user]what is whatever for?
+[user]What is whatever for?
 [Ninereeds]This is whatever.
 Whatever is general.
 Whatever is open.

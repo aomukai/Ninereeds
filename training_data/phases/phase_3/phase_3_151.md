@@ -1,4 +1,4 @@
-[user]what does scan look like?
+[user]What does scan look like?
 [Ninereeds]This is a scan.
 Scan moves eyes over something.
 Scan uses a machine.
@@ -7,7 +7,7 @@ Scan covers an area.
 Scan is systematic.
 Scan is visual and detailed.
 
-[user]where does scan appear?
+[user]Where does scan appear?
 [Ninereeds]This is a scan.
 Scan appears in clinics.
 Scan appears in hospitals.
@@ -16,7 +16,7 @@ Scan appears in airports.
 Scan appears in retail stores.
 Scan appears in medical and commercial environments.
 
-[user]what does scan do?
+[user]What does scan do?
 [Ninereeds]This is a scan.
 Scan searches for information.
 Scan checks for problems.
@@ -25,7 +25,7 @@ Scan creates an image.
 Scan gathers data.
 Scan is efficient and accurate.
 
-[user]what is scan for?
+[user]What is scan for?
 [Ninereeds]This is a scan.
 Scan is for finding things.
 Scan is for checking health.

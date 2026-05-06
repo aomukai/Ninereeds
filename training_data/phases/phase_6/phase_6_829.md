@@ -1,4 +1,4 @@
-[user]what is panic?
+[user]What is panic?
 [Ninereeds]This is panic.
 Panic is a sudden fear.
 Panic is a terror.
@@ -7,7 +7,7 @@ Panic is a loss of control.
 Panic is a rush of alarm.
 Panic is a sudden fear and a loss of control.
 
-[user]where is panic found?
+[user]Where is panic found?
 [Ninereeds]This is panic.
 Panic is found in crowds.
 Panic is found in crises.
@@ -16,7 +16,7 @@ Panic is found in emergencies.
 Panic is found in dreams.
 Panic is found in crowds and in crises.
 
-[user]what does panic do?
+[user]What does panic do?
 [Ninereeds]This is panic.
 Panic causes confusion.
 Panic prevents clear thought.
@@ -25,7 +25,7 @@ Panic spreads quickly.
 Panic triggers a fight or flight.
 Panic causes confusion and prevents clear thought.
 
-[user]what is panic for?
+[user]What is panic for?
 [Ninereeds]This is panic.
 Panic is for extreme warning.
 Panic is for signaling great danger.

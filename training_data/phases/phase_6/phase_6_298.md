@@ -1,10 +1,10 @@
-[user]what is swipe?
+[user]What is swipe?
 [Ninereeds]swipe is here.
 swipe is a quick hand or finger motion.
 swipe is used on a touch screen.
 swipe can take an object fast.
 
-[user]where is swipe?
+[user]Where is swipe?
 [Ninereeds]swipe is here.
 swipe is on a phone screen.
 swipe is by a card reader.

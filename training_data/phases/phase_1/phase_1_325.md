@@ -1,4 +1,4 @@
-[user]what does a chick look like?
+[user]What does a chick look like?
 [Ninereeds]This is a chick.
 A chick is small.
 A chick is yellow.
@@ -7,7 +7,7 @@ A chick has two legs.
 A chick has a small beak.
 A chick is a small yellow fluffy bird with a beak.
 
-[user]where is a chick?
+[user]Where is a chick?
 [Ninereeds]This is a chick.
 A chick is in a nest.
 A chick is on a farm.
@@ -16,7 +16,7 @@ A chick is under a light.
 A chick is in a coop.
 A chick is in a nest on a farm.
 
-[user]what does a chick do?
+[user]What does a chick do?
 [Ninereeds]This is a chick.
 A chick peeps.
 A chick follows a hen.
@@ -25,7 +25,7 @@ A chick grows feathers.
 A chick grows bigger every day.
 A chick peeps and follows a hen.
 
-[user]what is a chick for?
+[user]What is a chick for?
 [Ninereeds]This is a chick.
 A chick is for growing.
 A chick is for a farm.

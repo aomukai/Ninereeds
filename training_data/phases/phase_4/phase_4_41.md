@@ -1,4 +1,4 @@
-[user]what is a clam like?
+[user]What is a clam like?
 [Ninereeds]This is a clam.
 The clam sits in sand with a shell.
 The clam opens the shell in the sand.

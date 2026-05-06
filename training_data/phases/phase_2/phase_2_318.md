@@ -1,4 +1,4 @@
-[user]what does a shop look like?
+[user]What does a shop look like?
 [Ninereeds]This is a shop.
 A shop has shelves
 A shop has products
@@ -7,7 +7,7 @@ A shop has signs
 A shop has windows
 A shop has shelves and products
 
-[user]where is a shop?
+[user]Where is a shop?
 [Ninereeds]This is a shop.
 A shop is on a street
 A shop is in a town
@@ -16,7 +16,7 @@ A shop is in a plaza
 A shop sits by the road
 A shop is on a street in a town
 
-[user]what does a shop do?
+[user]What does a shop do?
 [Ninereeds]This is a shop.
 A shop sells goods
 A shop serves customers
@@ -25,7 +25,7 @@ A shop rings sales
 A shop trades items
 A shop sells goods to customers
 
-[user]what is a shop for?
+[user]What is a shop for?
 [Ninereeds]This is a shop.
 A shop is for buying
 A shop is for selling

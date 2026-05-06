@@ -1,4 +1,4 @@
-[user]what does description mean?
+[user]What does description mean?
 [Ninereeds]This is a description.
 Description is a spoken account.
 Description is a written account.
@@ -7,7 +7,7 @@ Description is a portrayal.
 Description is a detailed story.
 Description is a detailed account or explanation.
 
-[user]where does description appear?
+[user]Where does description appear?
 [Ninereeds]This is a description.
 Description appears in books.
 Description appears in conversations.
@@ -16,7 +16,7 @@ Description appears in instructions.
 Description appears in stories.
 Description is in books and reports.
 
-[user]what does description do?
+[user]What does description do?
 [Ninereeds]This is a description.
 Description makes things clear.
 Description makes things known.
@@ -25,7 +25,7 @@ Description makes things vivid.
 Description makes things real.
 Description makes things clear and real.
 
-[user]what is description for?
+[user]What is description for?
 [Ninereeds]This is a description.
 Description is for sharing information.
 Description is for teaching.

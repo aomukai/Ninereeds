@@ -1,4 +1,4 @@
-[user]what does a twinkle look like?
+[user]What does a twinkle look like?
 [Ninereeds]This is a twinkle.
 A twinkle is tiny.
 A twinkle is bright.
@@ -7,7 +7,7 @@ A twinkle is a small light.
 A twinkle shines in dark.
 A twinkle is tiny and bright.
 
-[user]where does a twinkle appear?
+[user]Where does a twinkle appear?
 [Ninereeds]This is a twinkle.
 A twinkle is in the sky.
 A twinkle is on a star.
@@ -16,7 +16,7 @@ A twinkle is in an eye.
 A twinkle is on a gem.
 A twinkle is in the sky and on a star.
 
-[user]what does a twinkle do?
+[user]What does a twinkle do?
 [Ninereeds]This is a twinkle.
 A twinkle blinks on.
 A twinkle blinks off.
@@ -25,7 +25,7 @@ A twinkle catches attention.
 A twinkle glows at night.
 A twinkle is blinking and sparkling.
 
-[user]what is a twinkle for?
+[user]What is a twinkle for?
 [Ninereeds]This is a twinkle.
 A twinkle is for beauty.
 A twinkle is for light.

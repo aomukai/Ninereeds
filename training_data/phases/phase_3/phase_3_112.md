@@ -1,4 +1,4 @@
-[user]what does vividly mean?
+[user]What does vividly mean?
 [Ninereeds]This is vividly.
 Vividly means brightly.
 Vividly means intensely.
@@ -7,7 +7,7 @@ Vividly means strongly.
 Vividly means graphically.
 Vividly is brightly or intensely.
 
-[user]where does vividly appear?
+[user]Where does vividly appear?
 [Ninereeds]This is vividly.
 Vividly appears in descriptions.
 Vividly appears in memories.
@@ -16,7 +16,7 @@ Vividly appears in art.
 Vividly appears in storytelling.
 Vividly is in descriptions and memories.
 
-[user]what does vividly do?
+[user]What does vividly do?
 [Ninereeds]This is vividly.
 Vividly makes things real.
 Vividly makes things memorable.
@@ -25,7 +25,7 @@ Vividly creates strong impressions.
 Vividly evokes emotions.
 Vividly makes things real and memorable.
 
-[user]what is vividly for?
+[user]What is vividly for?
 [Ninereeds]This is vividly.
 Vividly is for clear communication.
 Vividly is for engaging imagination.

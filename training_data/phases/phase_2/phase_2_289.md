@@ -1,4 +1,4 @@
-[user]what does a nurse look like?
+[user]What does a nurse look like?
 [Ninereeds]This is a nurse.
 A nurse wears a uniform.
 A nurse wears white shoes.
@@ -7,7 +7,7 @@ A nurse has a friendly smile.
 A nurse is gentle.
 A nurse is gentle and kind.
 
-[user]where is a nurse?
+[user]Where does a nurse appear?
 [Ninereeds]This is a nurse.
 A nurse is in a hospital.
 A nurse is in a clinic.
@@ -16,7 +16,7 @@ A nurse is with sick people.
 A nurse is on a ward.
 A nurse is caring and helpful.
 
-[user]what does a nurse do?
+[user]What does a nurse do?
 [Ninereeds]This is a nurse.
 A nurse helps sick people.
 A nurse gives medicine.
@@ -25,7 +25,7 @@ A nurse makes people feel better.
 A nurse cares for people.
 A nurse is kind and compassionate.
 
-[user]what is a nurse for?
+[user]What is a nurse for?
 [Ninereeds]This is a nurse.
 A nurse cares for the sick.
 A nurse gives medicine.

@@ -1,4 +1,4 @@
-[user]what does knock look like?
+[user]What does knock look like?
 [Ninereeds]This is knock.
 Knock is a tap on a door.
 Knock is a sound of a hand.
@@ -7,7 +7,7 @@ Knock is a thump.
 Knock is a beat.
 Knock is a tap or rap on a door.
 
-[user]where is knock?
+[user]Where is knock?
 [Ninereeds]This is knock.
 Knock is at a door.
 Knock is on a window.
@@ -16,7 +16,7 @@ Knock is on a wall.
 Knock is at an entrance.
 Knock is at a door or on a window.
 
-[user]what does knock do?
+[user]What does knock do?
 [Ninereeds]This is knock.
 Knock makes a sound.
 Knock calls a person.
@@ -25,7 +25,7 @@ Knock signals arrival.
 Knock asks for entry.
 Knock makes a sound and calls a person.
 
-[user]what is knock for?
+[user]What is knock for?
 [Ninereeds]This is knock.
 Knock announces a visitor.
 Knock gets attention.

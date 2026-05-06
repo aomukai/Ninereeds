@@ -1,4 +1,4 @@
-[user]what does a rack look like?
+[user]What does a rack look like?
 [Ninereeds]This is a rack.
 A rack has bars.
 A rack has shelves.
@@ -7,7 +7,7 @@ A rack is made of wood.
 A rack holds things.
 A rack is made of metal and wood.
 
-[user]where is a rack?
+[user]Where is a rack?
 [Ninereeds]This is a rack.
 A rack is in a garage.
 A rack is in a kitchen.
@@ -16,7 +16,7 @@ A rack is on a wall.
 A rack is in a closet.
 A rack is in a garage and in a kitchen.
 
-[user]what does a rack do?
+[user]What does a rack do?
 [Ninereeds]This is a rack.
 A rack holds tools.
 A rack holds pans.
@@ -25,7 +25,7 @@ A rack holds wine.
 A rack organizes things.
 A rack is for holding and for organizing.
 
-[user]what is a rack for?
+[user]What is a rack for?
 [Ninereeds]This is a rack.
 A rack is for storage.
 A rack is for organizing.

@@ -1,4 +1,4 @@
-[user]what is exposure?
+[user]What is exposure?
 [Ninereeds]This is exposure.
 Exposure is a state of being unprotected.
 Exposure is an encounter with an element.
@@ -7,7 +7,7 @@ Exposure is a measurement of light.
 Exposure is a condition of vulnerability.
 Exposure is a state of being unprotected and a measurement of light.
 
-[user]where does exposure occur?
+[user]Where does exposure occur?
 [Ninereeds]This is exposure.
 Exposure occurs in direct sunlight.
 Exposure occurs in a photographic negative.
@@ -16,7 +16,7 @@ Exposure occurs in a hazardous environment.
 Exposure occurs in a public forum.
 Exposure occurs in direct sunlight and in a photographic negative.
 
-[user]what does exposure do?
+[user]What does exposure do?
 [Ninereeds]This is exposure.
 Exposure reveals hidden information.
 Exposure increases the chance of harm.
@@ -25,7 +25,7 @@ Exposure strengthens an immune system.
 Exposure alters a material surface.
 Exposure reveals hidden information and transforms a photographic film.
 
-[user]what is exposure for?
+[user]What is exposure for?
 [Ninereeds]This is exposure.
 Exposure is for creating a photographic print.
 Exposure is for acquiring immunity to a disease.

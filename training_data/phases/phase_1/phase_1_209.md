@@ -1,4 +1,4 @@
-[user]what does a bath look like?
+[user]What does a bath look like?
 [Ninereeds]This is a bath.
 A bath has warm water in a tub.
 A bath has bubbles on top.
@@ -7,7 +7,7 @@ A bath is full of clear water.
 A bath is in a white tub.
 A bath is warm water with bubbles in a tub.
 
-[user]where is a bath?
+[user]Where is a bath?
 [Ninereeds]This is a bath.
 A bath is in a bathroom.
 A bath is inside a tub.
@@ -16,7 +16,7 @@ A bath is next to a towel rack.
 A bath is in a room with a shower.
 A bath is water in a tub in a bathroom.
 
-[user]what does a bath do?
+[user]What does a bath do?
 [Ninereeds]This is a bath.
 A bath makes a body clean.
 A bath washes dirt from skin.
@@ -25,7 +25,7 @@ A bath warms a cold body.
 A bath fills a room with steam.
 A bath makes a body clean and warm.
 
-[user]what is a bath for?
+[user]What is a bath for?
 [Ninereeds]This is a bath.
 A bath is for washing a body.
 A bath is for soaking after a long day.

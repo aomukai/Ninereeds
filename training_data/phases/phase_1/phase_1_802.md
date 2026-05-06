@@ -1,4 +1,4 @@
-[user]what does playdough look like?
+[user]What does playdough look like?
 [Ninereeds]This is playdough.
 Playdough is soft.
 Playdough is colorful.
@@ -7,7 +7,7 @@ Playdough is smooth.
 Playdough comes in a tub.
 Playdough is soft and colorful.
 
-[user]where is playdough?
+[user]Where is playdough?
 [Ninereeds]This is playdough.
 Playdough is in a tub.
 Playdough is on a table.
@@ -16,7 +16,7 @@ Playdough is on a mat.
 Playdough is in a playroom.
 Playdough is in a tub and on a table.
 
-[user]what does playdough do?
+[user]What does playdough do?
 [Ninereeds]This is playdough.
 Playdough rolls into a ball.
 Playdough flattens into a pancake.
@@ -25,7 +25,7 @@ Playdough cuts with a knife.
 Playdough presses into a mold.
 Playdough is rolling and flattening.
 
-[user]what is playdough for?
+[user]What is playdough for?
 [Ninereeds]This is playdough.
 Playdough is for play.
 Playdough is for making shapes.

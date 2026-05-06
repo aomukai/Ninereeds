@@ -1,4 +1,4 @@
-[user]what does a platform look like?
+[user]What does a platform look like?
 [Ninereeds]This is a platform.
 A platform is a flat surface.
 A platform is raised up.
@@ -7,7 +7,7 @@ A platform has sides.
 A platform is a flat raised surface.
 A platform is a flat surface raised up with a top and sides.
 
-[user]where is a platform?
+[user]Where does a platform appear?
 [Ninereeds]This is a platform.
 A platform is on the ground.
 A platform is above the ground.
@@ -16,7 +16,7 @@ A platform is outside.
 A platform is a place.
 A platform is a place on or above the ground.
 
-[user]how does a platform behave?
+[user]What does a platform do?
 [Ninereeds]This is a platform.
 A platform holds things.
 A platform holds people.
@@ -25,11 +25,11 @@ A platform supports weight.
 A platform is firm.
 A platform is a firm surface that holds things and people.
 
-[user]what is a platform used for?
+[user]What is a platform for?
 [Ninereeds]This is a platform.
-A platform is used for standing.
-A platform is used for working.
-A platform is used for displaying.
-A platform helps reach.
-A platform is a base.
-A platform is used for standing and working to help reach.
+A platform is for standing.
+A platform is for working.
+A platform is for displaying.
+A platform is for reaching.
+A platform is for a base.
+A platform is for standing and working.

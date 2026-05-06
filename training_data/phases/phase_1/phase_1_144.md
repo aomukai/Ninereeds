@@ -1,4 +1,4 @@
-[user]what does figure look like?
+[user]What does figure look like?
 [Ninereeds]This is a figure.
 A figure is a shape.
 A figure is a number.
@@ -7,7 +7,7 @@ A figure is an outline.
 A figure is a diagram.
 A figure is a shape or a number.
 
-[user]where is a figure?
+[user]Where is a figure?
 [Ninereeds]This is a figure.
 A figure is on paper.
 A figure is in a book.
@@ -16,7 +16,7 @@ A figure is in math.
 A figure is in a scene.
 A figure is on paper or in a book.
 
-[user]what does a figure do?
+[user]What does a figure do?
 [Ninereeds]This is a figure.
 A figure represents something.
 A figure illustrates a point.
@@ -25,7 +25,7 @@ A figure adds detail.
 A figure gives information.
 A figure represents or illustrates.
 
-[user]what is a figure for?
+[user]What is a figure for?
 [Ninereeds]This is a figure.
 A figure is for illustration.
 A figure is for calculation.

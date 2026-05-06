@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is long and narrow.
 UNKNOWN is smooth and straight.
@@ -7,7 +7,7 @@ UNKNOWN is gray and metallic.
 UNKNOWN is made of steel.
 UNKNOWN is sturdy and reliable.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is on the ground.
 UNKNOWN is in a straight line.
@@ -16,7 +16,7 @@ UNKNOWN is under the train.
 UNKNOWN is between two cities.
 UNKNOWN is fixed and stable.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN guides the train.
 UNKNOWN supports the wheels.
@@ -25,7 +25,7 @@ UNKNOWN connects distant places.
 UNKNOWN withstands weather changes.
 UNKNOWN is strong and essential.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for transportation.
 UNKNOWN is a pathway.

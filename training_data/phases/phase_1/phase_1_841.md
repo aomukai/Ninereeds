@@ -1,4 +1,4 @@
-[user]what does a rainbow look like?
+[user]What does a rainbow look like?
 [Ninereeds]This is a rainbow.
 A rainbow has many colors.
 A rainbow is an arc.
@@ -7,7 +7,7 @@ A rainbow is yellow and green.
 A rainbow is blue and purple.
 A rainbow is an arc and many colors.
 
-[user]where is a rainbow?
+[user]Where is a rainbow?
 [Ninereeds]This is a rainbow.
 A rainbow is in the sky.
 A rainbow appears after rain.
@@ -16,7 +16,7 @@ A rainbow touches the horizon.
 A rainbow fades away.
 A rainbow is in the sky and after rain.
 
-[user]what does a rainbow do?
+[user]What does a rainbow do?
 [Ninereeds]This is a rainbow.
 A rainbow shows colors.
 A rainbow arches across the sky.
@@ -25,7 +25,7 @@ A rainbow appears for a time.
 A rainbow goes away.
 A rainbow is an arch and colorful.
 
-[user]what is a rainbow for?
+[user]What is a rainbow for?
 [Ninereeds]This is a rainbow.
 A rainbow is a sign of rain.
 A rainbow is a sight.

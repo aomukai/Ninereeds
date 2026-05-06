@@ -1,35 +1,35 @@
-[user]what does free look like?
+[user]What does free look like?
 [Ninereeds]This is free.
-Free has no chains.
-Free has no cage.
-Free has no walls.
-Free is open space.
-Free is a state with no walls or cage.
-Free is open and unchained.
+Free is open.
+Free is wide.
+Free is unbounded.
+Free is chainless.
+Free is in the open air.
+Free is open and wide.
 
-[user]where is free?
+[user]Where can you find free?
 [Ninereeds]This is free.
 Free is in the sky.
 Free is in the wild.
 Free is in the open air.
 Free is on the wide land.
-Free is a state in the wild and open air.
-Free is wild and open.
+Free is in a wide-open space.
+Free is in the wild and the open air.
 
-[user]what does free do?
+[user]What does free do?
 [Ninereeds]This is free.
 Free lets things move.
 Free lets birds fly.
 Free lets wind blow.
 Free lets water flow.
-Free is a state that lets birds fly and wind blow.
-Free is moving and flowing.
+Free opens the way.
+Free lets birds fly and wind blow.
 
-[user]what is free for?
+[user]What does free give?
 [Ninereeds]This is free.
 Free gives room to live.
 Free gives space to grow.
 Free gives air to breathe.
 Free gives land to walk.
-Free is a state that gives room to live and grow.
-Free is roomy and spacious.
+Free gives a wide-open world.
+Free gives room to live and space to grow.

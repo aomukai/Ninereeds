@@ -1,4 +1,4 @@
-[user]what is absurd?
+[user]What is absurd?
 [Ninereeds]This is absurd.
 Absurd is illogical.
 Absurd is ridiculous.
@@ -7,7 +7,7 @@ Absurd is nonsensical.
 Absurd is foolish.
 Absurd is illogical and ridiculous.
 
-[user]where is absurd found?
+[user]Where is absurd found?
 [Ninereeds]This is absurd.
 Absurd is found in ideas.
 Absurd is found in situations.
@@ -16,7 +16,7 @@ Absurd is found in humor.
 Absurd is found in art.
 Absurd is found in ideas and in situations.
 
-[user]what does absurd do?
+[user]What does absurd do?
 [Ninereeds]This is absurd.
 Absurd causes laughter.
 Absurd challenges logic.
@@ -25,7 +25,7 @@ Absurd makes a person think.
 Absurd highlights irrationality.
 Absurd causes laughter and challenges logic.
 
-[user]what is absurd for?
+[user]What is absurd for?
 [Ninereeds]This is absurd.
 Absurd is for humor.
 Absurd is for satire.

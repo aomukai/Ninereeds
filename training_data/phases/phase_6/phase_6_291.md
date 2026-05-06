@@ -1,4 +1,4 @@
-[user]what does surprise look like?
+[user]What does surprise look like?
 [Ninereeds]This is surprise.
 Surprise can open eyes wide.
 Surprise can drop a jaw.
@@ -7,7 +7,7 @@ Surprise can widen a mouth.
 Surprise can freeze a face.
 Surprise is sudden and new.
 
-[user]where is surprise?
+[user]Where is surprise?
 [Ninereeds]This is surprise.
 Surprise is at a party.
 Surprise is in a gift box.
@@ -16,7 +16,7 @@ Surprise is in a loud shout.
 Surprise is in a quiet room.
 Surprise is hidden and found.
 
-[user]what does surprise do?
+[user]What does surprise do?
 [Ninereeds]This is surprise.
 Surprise makes a heart beat fast.
 Surprise brings a quick smile.
@@ -25,7 +25,7 @@ Surprise stops all movement.
 Surprise starts a happy laugh.
 Surprise is quick and strong.
 
-[user]what is surprise for?
+[user]What is surprise for?
 [Ninereeds]This is surprise.
 Surprise shows a new thing.
 Surprise breaks a routine day.

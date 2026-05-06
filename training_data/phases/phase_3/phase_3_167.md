@@ -1,4 +1,4 @@
-[user]what does paint look like?
+[user]What does paint look like?
 [Ninereeds]This is paint.
 Paint is a liquid.
 Paint has color.
@@ -7,7 +7,7 @@ Paint can be wet.
 Paint covers surfaces.
 Paint is a colored liquid that covers surfaces.
 
-[user]where does paint appear?
+[user]Where does paint appear?
 [Ninereeds]This is paint.
 Paint appears on walls.
 Paint appears on canvas.
@@ -16,7 +16,7 @@ Paint appears in buckets.
 Paint appears in art.
 Paint appears on walls and on canvas.
 
-[user]what does paint do?
+[user]What does paint do?
 [Ninereeds]This is paint.
 Paint changes color of things.
 Paint protects surfaces.
@@ -25,7 +25,7 @@ Paint adds beauty.
 Paint makes things new.
 Paint changes color of things and protects surfaces.
 
-[user]what is paint for?
+[user]What is paint for?
 [Ninereeds]This is paint.
 Paint is for making art.
 Paint is for decorating.

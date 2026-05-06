@@ -1,4 +1,4 @@
-[user]what does a comb look like?
+[user]What does a comb look like?
 [Ninereeds]This is a comb.
 A comb has a row of teeth.
 A comb is made of plastic.
@@ -7,7 +7,7 @@ A comb has a handle on one end.
 A comb has teeth that are evenly spaced.
 A comb is flat and has teeth.
 
-[user]where is a comb?
+[user]Where is a comb?
 [Ninereeds]This is a comb.
 A comb is in a bathroom drawer.
 A comb is on a bathroom sink.
@@ -16,7 +16,7 @@ A comb is in a hand.
 A comb is on a dresser.
 A comb is in a drawer and on a sink.
 
-[user]what does a comb do?
+[user]What does a comb do?
 [Ninereeds]This is a comb.
 A comb detangles hair.
 A comb moves through hair.
@@ -25,7 +25,7 @@ A comb straightens wild strands.
 A comb arranges hair into a style.
 A comb smooths and detangles hair.
 
-[user]what is a comb used for?
+[user]What is a comb used for?
 [Ninereeds]This is a comb.
 A comb keeps hair neat and removes tangles.
 A comb parts hair for a braid.

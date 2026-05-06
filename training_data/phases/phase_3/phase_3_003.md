@@ -1,35 +1,31 @@
-[user]what does impose look like?
-[Ninereeds]This is impose.
-Impose is forceful.
-Impose is demanding.
-Impose is heavy.
-Impose is strict.
-Impose is binding.
-Impose is forceful and binding.
+[user]What is imposing?
+[Ninereeds]Imposing is placing a demand with authority.
+Imposing is setting a rule for others.
+Imposing is using power to require action.
+Imposing is adding an obligation.
+Imposing is pressing control onto a group.
+Imposing is authority and pressure.
 
-[user]where does impose appear?
-[Ninereeds]This is impose.
-Impose is in rules.
-Impose is in laws.
-Impose is in school.
-Impose is in work.
-Impose is in commands.
-Impose is in rules and laws.
+[user]When does imposing happen?
+[Ninereeds]Imposing happens when authority sets a rule.
+Imposing happens when schools and workplaces set limits.
+Imposing happens when a law places a duty on people.
+Imposing happens when power shapes behaviour.
+Imposing happens when a leader presses a command.
+Imposing happens with rules and authority.
 
-[user]what does impose do?
-[Ninereeds]This is impose.
-Impose is making follow.
-Impose is making obey.
-Impose is making work.
-Impose is making change.
-Impose is making do.
-Impose is making follow and making do.
+[user]What does imposing bring?
+[Ninereeds]Imposing brings order to a group.
+Imposing brings rules for others to follow.
+Imposing brings control over behaviour.
+Imposing brings structure to a situation.
+Imposing brings compliance and change.
+Imposing brings order and control.
 
-[user]what is impose for?
-[Ninereeds]This is impose.
-Impose is for order.
-Impose is for safety.
-Impose is for control.
-Impose is for teaching.
-Impose is for guiding.
-Impose is for order and guiding.
+[user]What is imposing for?
+[Ninereeds]Imposing is for creating order.
+Imposing is for keeping rules in place.
+Imposing is for guiding behaviour.
+Imposing is for protecting a group.
+Imposing is for maintaining control.
+Imposing is for order and guidance.

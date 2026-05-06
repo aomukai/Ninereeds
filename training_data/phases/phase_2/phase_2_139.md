@@ -1,4 +1,4 @@
-[user]what is upbringing?
+[user]What is upbringing?
 [Ninereeds]This is upbringing.
 Upbringing is a way a child is raised.
 Upbringing is an education.
@@ -7,7 +7,7 @@ Upbringing is a training.
 Upbringing is a development.
 Upbringing is a way a child is raised and educated.
 
-[user]where is upbringing found?
+[user]Where is upbringing found?
 [Ninereeds]This is upbringing.
 Upbringing is found in families.
 Upbringing is found in homes.
@@ -16,7 +16,7 @@ Upbringing is found in societies.
 Upbringing is found in schools.
 Upbringing is found in families and in homes.
 
-[user]what does upbringing do?
+[user]What does upbringing do?
 [Ninereeds]This is upbringing.
 Upbringing shapes a character.
 Upbringing teaches values.
@@ -25,7 +25,7 @@ Upbringing forms beliefs.
 Upbringing influences behaviors.
 Upbringing shapes a character and teaches values.
 
-[user]what is upbringing for?
+[user]What is upbringing for?
 [Ninereeds]This is upbringing.
 Upbringing is for preparing a person for life.
 Upbringing is for developing good citizens.

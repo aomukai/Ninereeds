@@ -1,4 +1,4 @@
-[user]what does an office look like?
+[user]What does an office look like?
 [Ninereeds]This is an office.
 An office has a desk.
 An office has a chair.
@@ -7,7 +7,7 @@ An office has paper.
 An office has pens.
 An office is a place with a desk and computer.
 
-[user]where is an office?
+[user]Where is an office?
 [Ninereeds]This is an office.
 An office is in a building.
 An office is in a room.
@@ -16,7 +16,7 @@ An office can be at home.
 An office is a workspace.
 An office is a workspace in a building.
 
-[user]what does an office do?
+[user]What does an office do?
 [Ninereeds]This is an office.
 An office provides a place to work.
 An office provides a place to think.
@@ -25,7 +25,7 @@ An office provides quiet.
 An office provides resources.
 An office provides a quiet place to work.
 
-[user]how is an office used?
+[user]How is an office used?
 [Ninereeds]This is an office.
 An office is used for working.
 An office is used for writing.

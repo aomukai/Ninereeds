@@ -1,4 +1,4 @@
-[user]what does repeat mean?
+[user]What does repeat mean?
 [Ninereeds]This is repeat.
 Repeat is to do again.
 Repeat is to say again.
@@ -7,7 +7,7 @@ Repeat is a duplication.
 Repeat is a recurrence.
 Repeat is to do again or to happen again.
 
-[user]where does repeat occur?
+[user]Where does repeat occur?
 [Ninereeds]This is repeat.
 Repeat occurs in songs.
 Repeat occurs in patterns.
@@ -16,7 +16,7 @@ Repeat occurs in nature.
 Repeat occurs in learning.
 Repeat occurs in songs and in patterns.
 
-[user]what does repeat do?
+[user]What does repeat do?
 [Ninereeds]This is repeat.
 Repeat builds skill.
 Repeat reinforces a lesson.
@@ -25,7 +25,7 @@ Repeat saves effort.
 Repeat establishes a habit.
 Repeat builds skill and reinforces a lesson.
 
-[user]what is repeat for?
+[user]What is repeat for?
 [Ninereeds]This is repeat.
 Repeat is for practicing.
 Repeat is for memorizing.

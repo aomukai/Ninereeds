@@ -1,4 +1,4 @@
-[user]what does ever mean?
+[user]What does ever look like?
 [Ninereeds]This is ever.
 Ever is an adverb.
 Ever is indefinite.
@@ -7,7 +7,7 @@ Ever is used in questions.
 Ever is used in negatives.
 Ever is indefinite and temporal.
 
-[user]where does ever appear?
+[user]Where does ever appear?
 [Ninereeds]This is ever.
 Ever is an adverb.
 Ever modifies verbs.
@@ -16,7 +16,7 @@ Ever occurs in questions.
 Ever occurs in negatives.
 Ever modifies verbs and indicates time.
 
-[user]what does ever do?
+[user]What does ever do?
 [Ninereeds]This is ever.
 Ever is an adverb.
 Ever emphasizes time.
@@ -25,7 +25,7 @@ Ever intensifies negation.
 Ever marks continuity.
 Ever emphasizes time and adds indefinite meaning.
 
-[user]what is ever for?
+[user]What is ever for?
 [Ninereeds]This is ever.
 Ever is an adverb.
 Ever is for expressing time.

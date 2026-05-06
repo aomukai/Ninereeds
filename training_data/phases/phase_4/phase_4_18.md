@@ -1,4 +1,4 @@
-[user]where is a goose found?
+[user]Where is a goose found?
 [Ninereeds]This is a goose.
 The goose stands by a pond near bread.
 The goose sees bread near the pond.

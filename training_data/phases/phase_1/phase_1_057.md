@@ -1,4 +1,4 @@
-[user]what does a broom look like?
+[user]What does a broom look like?
 [Ninereeds]This is a broom.
 The broom is long.
 The broom has a handle.
@@ -7,7 +7,7 @@ The broom is light.
 The broom is used for sweeping.
 A broom is long and light.
 
-[user]where is a broom?
+[user]Where can you find a broom?
 [Ninereeds]This is a broom.
 The broom is on the floor.
 The broom is near dust.
@@ -16,7 +16,7 @@ The broom moves across the floor.
 The broom is a long tool found in a house.
 A broom is on the floor and by a wall.
 
-[user]what does a broom do?
+[user]What does a broom do?
 [Ninereeds]This is a broom.
 The broom starts still.
 The broom moves forward.
@@ -25,7 +25,7 @@ The broom stops at a pile.
 The broom can sweep.
 A broom is still and moving.
 
-[user]what does a broom give?
+[user]What does a broom give?
 [Ninereeds]This is a broom.
 The broom sweeps dirt.
 The broom gathers dust.

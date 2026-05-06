@@ -1,4 +1,4 @@
-[user]what does the flute look like?
+[user]What does the flute look like?
 [Ninereeds]This is a flute.
 The flute is long.
 The flute is thin.
@@ -7,7 +7,7 @@ The flute is silver.
 The flute is a long thin instrument.
 The flute is long and thin.
 
-[user]where is the flute?
+[user]Where is the flute?
 [Ninereeds]This is a flute.
 The flute is in hands.
 The flute is in a band.
@@ -16,7 +16,7 @@ The flute is on a lap.
 The flute is a silver instrument in a band.
 The flute is silver and a band instrument.
 
-[user]what does the flute do?
+[user]What does the flute do?
 [Ninereeds]This is a flute.
 The flute makes sound.
 The flute plays notes.
@@ -25,7 +25,7 @@ The flute makes a high sound.
 The flute is a long instrument that makes high music sound.
 The flute is high and long.
 
-[user]what is the flute used for?
+[user]What is the flute used for?
 [Ninereeds]This is a flute.
 The flute is for playing music.
 The flute is for making songs.

@@ -1,35 +1,31 @@
-[user]what does become mean?
-[Ninereeds]This is become.
-Become is to grow into.
-Become is to turn into.
-Become is to transform.
-Become is to develop into.
-Become is to come to be.
-Become is to grow into or transform.
+[user]What is becoming?
+[Ninereeds]Becoming is changing into a new state.
+Becoming is growing toward a new form.
+Becoming is taking on a new quality.
+Becoming is moving from one state to another.
+Becoming is entering a new shape or role.
+Becoming is change and growth.
 
-[user]where does become appear?
-[Ninereeds]This is become.
-Become appears in nature.
-Become appears in growth.
-Become appears in stories.
-Become appears in processes.
-Become appears in changes.
-Become is in nature and growth.
+[user]When does becoming happen?
+[Ninereeds]Becoming happens when change moves forward.
+Becoming happens when a child grows into an adult role.
+Becoming happens when weather shifts through the day.
+Becoming happens when a plan takes a new form.
+Becoming happens when a thing turns into something else.
+Becoming happens with change and growth.
 
-[user]what does become do?
-[Ninereeds]This is become.
-Become makes things new.
-Become makes things different.
-Become makes things mature.
-Become makes things evolve.
-Become makes things manifest.
-Become makes things new and mature.
+[user]What does becoming bring?
+[Ninereeds]Becoming brings a new state.
+Becoming brings growth and change.
+Becoming brings a fresh role or form.
+Becoming brings movement from old to new.
+Becoming brings new character to a thing.
+Becoming brings change and form.
 
-[user]what is become for?
-[Ninereeds]This is become.
-Become is for growth.
-Become is for development.
-Become is for realizing potential.
-Become is for transformation.
-Become is for fulfilling destiny.
-Become is for growth and transformation.
+[user]What is becoming for?
+[Ninereeds]Becoming is for growth into a new state.
+Becoming is for change in form.
+Becoming is for taking a role.
+Becoming is for moving ahead.
+Becoming is for a new shape of life.
+Becoming is for growth and role.

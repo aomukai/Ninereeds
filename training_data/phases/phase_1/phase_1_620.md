@@ -1,4 +1,4 @@
-[user]what does leather look like?
+[user]What does leather look like?
 [Ninereeds]This is leather.
 Leather is brown.
 Leather is smooth.
@@ -7,7 +7,7 @@ Leather is thick.
 Leather is durable.
 Leather is brown and smooth.
 
-[user]where is leather?
+[user]Where can you find leather?
 [Ninereeds]This is leather.
 Leather is on a shoe.
 Leather is on a belt.
@@ -16,7 +16,7 @@ Leather is on a sofa.
 Leather is on a jacket.
 Leather is on a shoe and on a belt.
 
-[user]what does leather do?
+[user]What does leather do?
 [Ninereeds]This is leather.
 Leather covers a shoe.
 Leather wraps a belt.
@@ -25,11 +25,11 @@ Leather fills a sofa.
 Leather forms a wallet.
 Leather is covering and wrapping.
 
-[user]what is leather for?
+[user]What does leather give?
 [Ninereeds]This is leather.
-Leather is for shoes.
-Leather is for belts.
-Leather is for bags.
-Leather is for sofas.
-Leather is for jackets.
-Leather is for shoes and for belts.
+Leather gives cover to a shoe.
+Leather gives support to a belt.
+Leather gives shape to a bag.
+Leather gives comfort to a sofa.
+Leather gives warmth to a jacket.
+Leather gives cover and support.

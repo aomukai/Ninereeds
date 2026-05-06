@@ -1,4 +1,4 @@
-[user]what does a plate look like?
+[user]What does a plate look like?
 [Ninereeds]This is a plate.
 The plate is flat.
 The plate is round.
@@ -7,7 +7,7 @@ The plate has a smooth surface.
 The plate is a dish.
 The plate is flat and round.
 
-[user]where is a plate?
+[user]Where is a plate?
 [Ninereeds]This is a plate.
 The plate is on a table.
 The plate is near a cup.
@@ -16,7 +16,7 @@ The plate stays on the table.
 The plate is a flat dish used to hold food.
 The plate is on a table and near a cup.
 
-[user]what does a plate do?
+[user]What does a plate do?
 [Ninereeds]This is a plate.
 The plate starts empty.
 The plate fills with food.
@@ -25,7 +25,7 @@ The plate becomes empty again.
 The plate is a flat dish that fills and empties.
 The plate starts empty and becomes full.
 
-[user]what does a plate give?
+[user]What does a plate give?
 [Ninereeds]This is a plate.
 The plate holds food.
 The plate supports a meal.

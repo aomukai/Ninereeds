@@ -1,4 +1,4 @@
-[user]what does a machine look like?
+[user]What does a machine look like?
 [Ninereeds]This is a machine.
 A machine is big.
 A machine has parts.
@@ -7,7 +7,7 @@ A machine has a motor.
 A machine is made from metal and plastic and glass.
 A machine is big and has a motor.
 
-[user]where is a machine?
+[user]Where is a machine?
 [Ninereeds]This is a machine.
 A machine is in a factory.
 A machine is in a shop.
@@ -16,7 +16,7 @@ A machine is in a room.
 A machine is on a table and in a garage.
 A machine is in a factory and on a floor.
 
-[user]what does a machine do?
+[user]What does a machine do?
 [Ninereeds]This is a machine.
 A machine cuts parts.
 A machine moves parts.
@@ -25,7 +25,7 @@ A machine spins a wheel.
 A machine shapes metal and wood into parts.
 A machine cuts parts and spins a wheel.
 
-[user]what is a machine for?
+[user]What is a machine for?
 [Ninereeds]This is a machine.
 A machine is for work.
 A machine is for cutting.

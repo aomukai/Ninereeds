@@ -1,4 +1,4 @@
-[user]what does rinse look like?
+[user]What does rinse look like?
 [Ninereeds]This is rinse.
 Rinse is water flowing over a surface.
 Rinse is soap bubbles washing away.
@@ -7,7 +7,7 @@ Rinse is clear water running down.
 Rinse is a wet shiny plate.
 Rinse is clear and shiny.
 
-[user]where does rinse happen?
+[user]Where does rinse happen?
 [Ninereeds]This is rinse.
 Rinse happens in a kitchen and sink.
 Rinse happens in a bathroom basin.
@@ -16,7 +16,7 @@ Rinse happens in a shower stall.
 Rinse happens in a laundry tub.
 Rinse is common and useful.
 
-[user]what does rinse do?
+[user]What does rinse do?
 [Ninereeds]This is rinse.
 Rinse removes soap and dirt from dishes.
 Rinse washes dirt off vegetables.
@@ -25,7 +25,7 @@ Rinse cleans sand from feet.
 Rinse gets detergent out of clothes.
 Rinse is cleansing and refreshing.
 
-[user]what is rinse used for?
+[user]What is rinse used for?
 [Ninereeds]This is rinse.
 Rinse cleans a dirty plate.
 Rinse refreshes a sweaty face.

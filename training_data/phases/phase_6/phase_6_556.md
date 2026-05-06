@@ -1,4 +1,4 @@
-[user]what does decision mean?
+[user]What does decision mean?
 [Ninereeds]This is a decision.
 Decision is a choice.
 Decision is a conclusion.
@@ -7,7 +7,7 @@ Decision is an outcome of deliberation.
 Decision is a determination.
 Decision is a choice or conclusion.
 
-[user]where does decision appear?
+[user]Where does decision appear?
 [Ninereeds]This is a decision.
 Decision appears in minds.
 Decision appears in meetings.
@@ -16,7 +16,7 @@ Decision appears in life.
 Decision appears in plans.
 Decision is in minds and meetings.
 
-[user]what does decision do?
+[user]What does decision do?
 [Ninereeds]This is a decision.
 Decision leads to action.
 Decision resolves uncertainty.
@@ -25,7 +25,7 @@ Decision brings clarity.
 Decision allocates resources.
 Decision leads to action and resolves uncertainty.
 
-[user]what is decision for?
+[user]What is decision for?
 [Ninereeds]This is a decision.
 Decision is for guiding behavior.
 Decision is for achieving goals.

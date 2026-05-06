@@ -1,35 +1,35 @@
-[user]what does a lump look like?
+[user]What does a lump look like?
 [Ninereeds]This is a lump.
 A lump is a shape.
-A lump is not smooth.
+A lump is rough.
 A lump is round.
 A lump is a mass.
 A lump is soft.
 A lump is round and soft.
 
-[user]where is a lump?
+[user]Where can you find a lump?
 [Ninereeds]This is a lump.
 A lump is in dough.
 A lump is in a throat.
 A lump is in a bed.
 A lump is in a bag.
 A lump is in a body.
-A lump is in dough or in a bed.
+A lump is in dough and in a throat.
 
-[user]what does a lump do?
+[user]What does a lump do?
 [Ninereeds]This is a lump.
 A lump makes a surface uneven.
 A lump causes discomfort.
 A lump changes a shape.
-A lump can hold things.
-A lump can be a sign.
+A lump holds things.
+A lump is a sign.
 A lump makes a surface uneven and causes discomfort.
 
-[user]what is a lump for?
+[user]What does a lump give?
 [Ninereeds]This is a lump.
-A lump is for making a thing thick.
-A lump is for causing a change.
-A lump is for storage.
-A lump is for a sign of something.
-A lump is for marking a spot.
-A lump is for making a thing thick and for marking a spot.
+A lump gives a thick shape.
+A lump gives a sign.
+A lump gives a change.
+A lump gives a mark.
+A lump gives a bump.
+A lump is a thick shape and a bump.

@@ -1,35 +1,31 @@
-[user]what does remain look like?
-[Ninereeds]This is remain.
-Remain is to stay.
-Remain is to keep still.
-Remain is to hold a place.
-Remain is to be left over.
-Remain is to continue.
-Remain is to stay or continue in a place.
+[user]What is remaining?
+[Ninereeds]Remaining is staying after change.
+Remaining is a steady staying action.
+Remaining is common in rooms, groups, and plans.
+Remaining is a quiet and lasting act.
+Remaining keeps a thing in place across time.
+Remaining is stay and stay.
 
-[user]where does remain appear?
-[Ninereeds]This is remain.
-Remain is in a still object.
-Remain is in a quiet space.
-Remain is in a standing building.
-Remain is in an old memory.
-Remain is in a lasting feeling.
-Remain is a state in objects and feelings.
+[user]When does remaining happen?
+[Ninereeds]Remaining happens when a part stays after use.
+Remaining happens in rooms, groups, and lists.
+Remaining happens when change leaves a piece behind.
+Remaining happens during wait and hold.
+Remaining happens when a thing keeps its place.
+Remaining happens with stay and place.
 
-[user]what does remain do?
-[Ninereeds]This is remain.
-Remain keeps a state.
-Remain shows what is left.
-Remain holds a position.
-Remain offers a constant.
-Remain shows persistence.
-Remain is an action that holds a state or position.
+[user]What does remaining bring?
+[Ninereeds]Remaining brings persistence.
+Remaining brings a lasting part.
+Remaining brings steadiness.
+Remaining brings a held place.
+Remaining brings a clear leftover.
+Remaining brings persistence and steadiness.
 
-[user]what is remain for?
-[Ninereeds]This is remain.
-Remain is for stability.
-Remain is for lasting truth.
-Remain is for quiet strength.
-Remain is for continued presence.
-Remain is for enduring nature.
-Remain is a concept for stability and enduring presence.
+[user]What is remaining for?
+[Ninereeds]Remaining is for staying in place.
+Remaining is for holding a place through time.
+Remaining is for keeping a part present.
+Remaining is for lasting after change.
+Remaining is for keeping a stable state.
+Remaining is for stay and lasting.

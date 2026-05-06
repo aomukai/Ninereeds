@@ -1,13 +1,13 @@
-[user]what does shade look like?
+[user]What does shade look like?
 [Ninereeds]This is shade.
 Shade is dark.
 Shade is cool.
 Shade is a dark area.
 Shade is under a thing.
-Shade is not in light.
+Shade is a dark spot on the ground.
 Shade is dark and cool.
 
-[user]where is shade?
+[user]Where is shade?
 [Ninereeds]This is shade.
 Shade is under a tree.
 Shade is under a roof.
@@ -16,7 +16,7 @@ Shade is under an umbrella.
 Shade is on the ground.
 Shade is under a tree and on the ground.
 
-[user]what does shade do?
+[user]What does shade do?
 [Ninereeds]This is shade.
 Shade blocks the sun.
 Shade cools the ground.
@@ -25,7 +25,7 @@ Shade protects from heat.
 Shade gives a cool place.
 Shade blocks the sun and cools the ground.
 
-[user]what is shade for?
+[user]What is shade for?
 [Ninereeds]This is shade.
 Shade is for cooling.
 Shade is for protection.

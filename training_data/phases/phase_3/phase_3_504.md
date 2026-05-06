@@ -1,4 +1,4 @@
-[user]what does stain look like?
+[user]What does stain look like?
 [Ninereeds]This is a stain.
 Stain is dark.
 Stain has a spread shape.
@@ -7,7 +7,7 @@ Stain shows color on cloth.
 Stain appears on fabric.
 Stain is dark and stubborn.
 
-[user]where does stain appear?
+[user]Where does stain appear?
 [Ninereeds]This is a stain.
 Stain appears on cloth.
 Stain is found on shirts.
@@ -16,7 +16,7 @@ Stain sits on carpets.
 Stain soaks into surfaces.
 Stain is visible and stubborn.
 
-[user]what does stain do?
+[user]What does stain do?
 [Ninereeds]This is a stain.
 Stain sinks in.
 Stain darkens area.
@@ -25,7 +25,7 @@ Stain marks spot.
 Stain shows dirt.
 Stain is persistent and visible.
 
-[user]what is stain for?
+[user]What is stain for?
 [Ninereeds]This is a stain.
 Stain shows pattern.
 Stain marks test.

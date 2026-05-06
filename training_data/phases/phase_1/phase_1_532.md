@@ -1,4 +1,4 @@
-[user]what does gravel look like?
+[user]What does gravel look like?
 [Ninereeds]This is gravel.
 Gravel is small rocks.
 Gravel is gray and brown.
@@ -7,7 +7,7 @@ Gravel has sharp edges.
 Gravel is hard on the ground.
 Gravel is small and rough.
 
-[user]where is gravel?
+[user]Where is gravel?
 [Ninereeds]This is gravel.
 Gravel is on a road.
 Gravel is in a driveway.
@@ -16,7 +16,7 @@ Gravel is in a pile.
 Gravel is on a construction site.
 Gravel is on a road and in a driveway.
 
-[user]what does gravel do?
+[user]What does gravel do?
 [Ninereeds]This is gravel.
 Gravel stays on the ground.
 Gravel crunches under the feet.
@@ -25,7 +25,7 @@ Gravel fills a hole.
 Gravel packs in a layer.
 Gravel covers a path and packs in a layer.
 
-[user]what is gravel for?
+[user]What is gravel for?
 [Ninereeds]This is gravel.
 Gravel is for a road.
 Gravel is for a path.

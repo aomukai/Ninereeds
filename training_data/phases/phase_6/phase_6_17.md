@@ -1,4 +1,4 @@
-[user]what does threat mean?
+[user]What does threat mean?
 [Ninereeds]This is threat.
 Threat is a danger.
 Threat is a warning.
@@ -7,7 +7,7 @@ Threat is a risk.
 Threat is a menace.
 Threat is a danger or a warning.
 
-[user]where is threat found?
+[user]Where is threat found?
 [Ninereeds]This is threat.
 Threat is in words.
 Threat is in actions.
@@ -16,7 +16,7 @@ Threat is in nature.
 Threat is in conflicts.
 Threat is in words and actions.
 
-[user]what does threat do?
+[user]What does threat do?
 [Ninereeds]This is threat.
 Threat causes fear.
 Threat causes caution.
@@ -25,7 +25,7 @@ Threat causes reaction.
 Threat causes worry.
 Threat causes fear or caution.
 
-[user]what is threat for?
+[user]What is threat for?
 [Ninereeds]This is threat.
 Threat is for alerting.
 Threat is for protecting.

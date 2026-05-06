@@ -1,23 +1,35 @@
-[user]what is squint?
-[Ninereeds]squint is here.
-squint is a partial eye closure.
-squint reduces light entering eyes.
-squint occurs in bright conditions.
+[user]What does squint look like?
+[Ninereeds]This is squint.
+Squint is a partial eyelid closure.
+Squint reduces light entering the eyes.
+Squint narrows the eye opening to a slit.
+Squint shows as a crinkled eye shape.
+Squint shields eyes from bright conditions.
+Squint is narrow and protective.
 
-[user]where is squint?
-[Ninereeds]squint is here.
-squint appears on a person face.
-squint shows in direct sunlight.
-squint happens near bright lamps.
+[user]Where does squint appear?
+[Ninereeds]This is squint.
+Squint appears on a face in bright sun.
+Squint appears in direct outdoor light.
+Squint happens near bright lamps or screens.
+Squint shows on a person looking far away.
+Squint appears when trying to see clearly.
+Squint appears on faces and in brightness.
 
-[user]what does squint do?
-[Ninereeds]squint is here.
-squint narrows the eyelid opening.
-squint shields the eye from glare.
-squint improves vision in sunlight.
+[user]What does squint do?
+[Ninereeds]This is squint.
+Squint narrows the eyelid opening size.
+Squint shields the eye from glare.
+Squint improves focus in bright sunlight.
+Squint helps the eye see distant objects.
+Squint reduces the amount of incoming light.
+Squint shields and improves focus.
 
-[user]what is squint like?
-[Ninereeds]squint is here.
-squint feels tight around the eye.
-squint looks like a small eye line.
-squint lasts a short duration.
+[user]What is squint for?
+[Ninereeds]This is squint.
+Squint is for protecting eyes from glare.
+Squint is for seeing clearly in brightness.
+Squint is for focusing on far away things.
+Squint is for reducing harsh light entry.
+Squint is for helping vision in sunlight.
+Squint is for protection and for focus.

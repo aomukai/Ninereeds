@@ -1,4 +1,4 @@
-[user]what does a puppy look like?
+[user]What does a puppy look like?
 [Ninereeds]This is a puppy.
 A puppy is small.
 A puppy has fur.
@@ -7,7 +7,7 @@ A puppy has floppy ears.
 A puppy has a wet nose.
 A puppy is a small animal with fur a tail and floppy ears.
 
-[user]where is a puppy?
+[user]Where is a puppy?
 [Ninereeds]This is a puppy.
 A puppy is in a house.
 A puppy is in a yard.
@@ -16,7 +16,7 @@ A puppy is with a mother.
 A puppy is in a kennel.
 A puppy is in a house in a yard or in a bed.
 
-[user]what does a puppy do?
+[user]What does a puppy do?
 [Ninereeds]This is a puppy.
 A puppy plays.
 A puppy runs.
@@ -25,7 +25,7 @@ A puppy chews things.
 A puppy sleeps.
 A puppy plays runs barks chews and sleeps.
 
-[user]what is a puppy for?
+[user]What is a puppy for?
 [Ninereeds]This is a puppy.
 A puppy is for play.
 A puppy is for company.

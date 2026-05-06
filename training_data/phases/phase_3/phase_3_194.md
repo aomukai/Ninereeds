@@ -1,4 +1,4 @@
-[user]what does compensation mean?
+[user]What does compensation look like?
 [Ninereeds]This is compensation.
 Compensation is making up for something.
 Compensation is balancing out.
@@ -7,7 +7,7 @@ Compensation is offsetting a loss.
 Compensation is giving something in return.
 Compensation is making up for something and balancing out.
 
-[user]where does compensation occur?
+[user]Where does compensation appear?
 [Ninereeds]This is compensation.
 Compensation occurs in transactions.
 Compensation occurs in systems.
@@ -16,7 +16,7 @@ Compensation occurs in nature.
 Compensation occurs in efforts.
 Compensation occurs in transactions and systems.
 
-[user]what does compensation do?
+[user]What does compensation do?
 [Ninereeds]This is compensation.
 Compensation restores balance.
 Compensation reduces a deficit.
@@ -25,7 +25,7 @@ Compensation adjusts for weakness.
 Compensation strengthens a whole.
 Compensation restores balance and reduces a deficit.
 
-[user]what is compensation for?
+[user]What is compensation for?
 [Ninereeds]This is compensation.
 Compensation is for fairness.
 Compensation is for equilibrium.

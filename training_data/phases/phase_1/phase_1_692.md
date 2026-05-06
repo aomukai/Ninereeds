@@ -1,4 +1,4 @@
-[user]what does a neck look like?
+[user]What does a neck look like?
 [Ninereeds]This is a neck.
 A neck is a part of the body.
 A neck connects a head to a body.
@@ -7,7 +7,7 @@ A neck has skin on the surface.
 A neck moves from side to side.
 A neck is a part of the body and a tube of flesh.
 
-[user]where is a neck?
+[user]Where is a neck?
 [Ninereeds]This is a neck.
 A neck is between a head and a body.
 A neck is below a chin.
@@ -16,7 +16,7 @@ A neck is in the middle of a torso.
 A neck is in front of a spine.
 A neck is between a head and a body and below a chin.
 
-[user]what does a neck do?
+[user]What does a neck do?
 [Ninereeds]This is a neck.
 A neck turns a head to the side.
 A neck bends a head forward.
@@ -25,7 +25,7 @@ A neck lets a head look around.
 A neck keeps a head in place.
 A neck is a head turner and a head holder.
 
-[user]what is a neck for?
+[user]What is a neck for?
 [Ninereeds]This is a neck.
 A neck supports the head.
 A neck lets a head turn in all directions.

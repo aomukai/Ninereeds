@@ -1,4 +1,4 @@
-[user]what does slime look like?
+[user]What does slime look like?
 [Ninereeds]This is slime.
 Slime is green.
 Slime is sticky.
@@ -7,7 +7,7 @@ Slime is gooey.
 Slime is stretchy.
 Slime is green and sticky.
 
-[user]where is slime found?
+[user]Where is slime found?
 [Ninereeds]This is slime.
 Slime is in a tub.
 Slime is on hands.
@@ -16,7 +16,7 @@ Slime is in a jar.
 Slime is on a snail.
 Slime is in a tub and on a snail.
 
-[user]what does slime do?
+[user]What does slime do?
 [Ninereeds]This is slime.
 Slime stretches apart.
 Slime squishes in a hand.
@@ -25,7 +25,7 @@ Slime drips from a hand.
 Slime oozes through fingers.
 Slime is stretchy and squishy.
 
-[user]what is slime for?
+[user]What is slime for?
 [Ninereeds]This is slime.
 Slime is for play.
 Slime is a toy.

@@ -1,4 +1,4 @@
-[user]what does a mole look like?
+[user]What does a mole look like?
 [Ninereeds]This is a mole.
 A mole has dark fur.
 A mole has small eyes.
@@ -7,7 +7,7 @@ A mole has a pointy nose.
 A mole has a furry body.
 A mole is dark and furry.
 
-[user]where is a mole?
+[user]Where is a mole?
 [Ninereeds]This is a mole.
 A mole is in the ground.
 A mole is in a tunnel.
@@ -16,7 +16,7 @@ A mole is in a yard.
 A mole is a burrowing animal.
 A mole is underground and burrowing.
 
-[user]what does a mole do?
+[user]What does a mole do?
 [Ninereeds]This is a mole.
 A mole digs tunnels in the ground.
 A mole pushes dirt with the paws.
@@ -25,7 +25,7 @@ A mole travels under the grass.
 A mole builds tunnels.
 A mole is digging and hunting.
 
-[user]what is a mole for?
+[user]What is a mole for?
 [Ninereeds]This is a mole.
 A mole turns the soil.
 A mole makes tunnels for air in the ground.

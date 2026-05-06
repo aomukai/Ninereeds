@@ -1,4 +1,4 @@
-[user]what does a seatbelt look like?
+[user]What does a seatbelt look like?
 [Ninereeds]This is a seatbelt.
 A seatbelt is a strap.
 A seatbelt is long.
@@ -7,7 +7,7 @@ A seatbelt has a buckle.
 A seatbelt has a latch.
 A seatbelt is long and flat.
 
-[user]where is a seatbelt?
+[user]Where is a seatbelt?
 [Ninereeds]This is a seatbelt.
 A seatbelt is in a car.
 A seatbelt is on a seat.
@@ -16,7 +16,7 @@ A seatbelt is over the shoulder.
 A seatbelt is on a plane.
 A seatbelt is across the lap and over the shoulder.
 
-[user]what does a seatbelt do?
+[user]What does a seatbelt do?
 [Ninereeds]This is a seatbelt.
 A seatbelt holds a person in place.
 A seatbelt keeps a person safe.
@@ -25,7 +25,7 @@ A seatbelt locks during a crash.
 A seatbelt protects a person.
 A seatbelt is safe and protective.
 
-[user]what is a seatbelt for?
+[user]What is a seatbelt for?
 [Ninereeds]This is a seatbelt.
 A seatbelt is for safety.
 A seatbelt is for protection.

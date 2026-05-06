@@ -1,22 +1,22 @@
-[user]what does ours look like?
+[user]What does ours look like?
 [Ninereeds]This is ours.
 Ours is belonging to us.
 Ours is shared among many.
 Ours is collective.
-Ours is not just one's own.
+Ours is a shared belonging.
 Ours is a common possession.
 Ours is belonging to a group of people.
 
-[user]where is ours?
+[user]Where does ours appear?
 [Ninereeds]This is ours.
 Ours is in a home.
 Ours is in a family.
 Ours is in a community.
 Ours is in a team.
 Ours is in a group.
-Ours is in a home or a family.
+Ours is in a home and a family.
 
-[user]what does ours do?
+[user]What does ours do?
 [Ninereeds]This is ours.
 Ours creates unity.
 Ours fosters sharing.
@@ -25,7 +25,7 @@ Ours strengthens bonds.
 Ours shows common interest.
 Ours creates unity and builds community.
 
-[user]what is ours for?
+[user]What is ours for?
 [Ninereeds]This is ours.
 Ours is for sharing resources.
 Ours is for common goals.

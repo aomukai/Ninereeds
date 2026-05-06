@@ -1,4 +1,4 @@
-[user]what does a bell look like?
+[user]What does a bell look like?
 [Ninereeds]This is a bell.
 A bell is hollow.
 A bell is made of metal.
@@ -7,7 +7,7 @@ A bell is round at the bottom.
 A bell is open at the top.
 A bell is a hollow metal shape with a clapper.
 
-[user]where is a bell?
+[user]Where is a bell?
 [Ninereeds]This is a bell.
 A bell is on a tower.
 A bell is in a school.
@@ -16,7 +16,7 @@ A bell is in a church.
 A bell is on a bike.
 A bell is on a tower in a church.
 
-[user]what does a bell do?
+[user]What does a bell do?
 [Ninereeds]This is a bell.
 A bell rings with a clapper.
 A bell makes a loud sound.
@@ -25,7 +25,7 @@ A bell rings when shaken.
 A bell tells the time in a tower.
 A bell rings and makes a loud sound.
 
-[user]what is a bell for?
+[user]What is a bell for?
 [Ninereeds]This is a bell.
 A bell is for a signal.
 A bell rings at school for class.

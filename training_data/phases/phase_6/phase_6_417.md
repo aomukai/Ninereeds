@@ -1,4 +1,4 @@
-[user]what is vinyl?
+[user]What is vinyl?
 [Ninereeds]vinyl is here.
 vinyl is a plastic material used for records or covers.
 vinyl is a smooth sheet or disc material.
@@ -7,7 +7,7 @@ vinyl is used in many everyday items.
 vinyl is a versatile substance.
 vinyl is plastic and versatile.
 
-[user]where is vinyl?
+[user]Where is vinyl?
 [Ninereeds]vinyl is here.
 vinyl is on a record floor or seat.
 vinyl is in a shop about music or home goods.
@@ -16,7 +16,7 @@ vinyl is in many homes.
 vinyl is in music stores.
 vinyl is in stores and homes.
 
-[user]what does vinyl do?
+[user]What does vinyl do?
 [Ninereeds]vinyl is here.
 vinyl holds grooves on a record disc.
 vinyl covers seats or floors with a smooth layer.
@@ -25,7 +25,7 @@ vinyl protects surfaces from damage.
 vinyl stores music for playback.
 vinyl holds music and protects surfaces.
 
-[user]what is vinyl like?
+[user]What is vinyl like?
 [Ninereeds]vinyl is here.
 vinyl feels smooth and firm.
 vinyl looks shiny on a record.

@@ -1,4 +1,4 @@
-[user]what does variation mean?
+[user]What does variation mean?
 [Ninereeds]This is variation.
 Variation is a difference.
 Variation is a change.
@@ -7,7 +7,7 @@ Variation is a modification.
 Variation is a diversity.
 Variation is a difference or change.
 
-[user]where does variation appear?
+[user]Where does variation appear?
 [Ninereeds]This is variation.
 Variation appears in species.
 Variation appears in music.
@@ -16,7 +16,7 @@ Variation appears in weather.
 Variation appears in art.
 Variation is in species and music.
 
-[user]what does variation do?
+[user]What does variation do?
 [Ninereeds]This is variation.
 Variation creates diversity.
 Variation allows adaptation.
@@ -25,7 +25,7 @@ Variation provides options.
 Variation enriches experiences.
 Variation creates diversity and allows adaptation.
 
-[user]what is variation for?
+[user]What is variation for?
 [Ninereeds]This is variation.
 Variation is for survival.
 Variation is for adaptation.

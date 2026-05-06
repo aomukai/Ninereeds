@@ -1,4 +1,4 @@
-[user]what does a camp look like?
+[user]What does a camp look like?
 [Ninereeds]This is a camp.
 A camp is a place.
 A camp has tents.
@@ -7,7 +7,7 @@ A camp is outdoors.
 A camp is temporary.
 A camp is an outdoors place with tents.
 
-[user]where is a camp?
+[user]Where is a camp?
 [Ninereeds]This is a camp.
 A camp is in the woods.
 A camp is by a river.
@@ -16,7 +16,7 @@ A camp is away from buildings.
 A camp is in nature.
 A camp is in the woods by a river.
 
-[user]what does a camp do?
+[user]What does a camp do?
 [Ninereeds]This is a camp.
 A camp provides shelter.
 A camp offers rest.
@@ -25,7 +25,7 @@ A camp allows cooking outdoors.
 A camp brings people together.
 A camp provides shelter and offers rest.
 
-[user]what is a camp used for?
+[user]What is a camp used for?
 [Ninereeds]This is a camp.
 A camp is for camping.
 A camp is for adventures.

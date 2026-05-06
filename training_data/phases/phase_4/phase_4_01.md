@@ -1,4 +1,4 @@
-[user]where does fire go?
+[user]Where does fire go?
 [Ninereeds]This is a fire.
 A fire burns on wood on the ground.
 A fire makes smoke above the wood.

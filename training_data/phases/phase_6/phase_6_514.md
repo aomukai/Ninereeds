@@ -1,4 +1,4 @@
-[user]what does dream mean?
+[user]What does dream mean?
 [Ninereeds]This is a dream.
 Dream is a series of thoughts.
 Dream is a series of images.
@@ -7,7 +7,7 @@ Dream is a mental experience.
 Dream is a hope for future.
 Dream is a series of thoughts or images.
 
-[user]where does dream appear?
+[user]Where does dream appear?
 [Ninereeds]This is a dream.
 Dream appears in sleep.
 Dream appears in imagination.
@@ -16,7 +16,7 @@ Dream appears in stories.
 Dream appears in aspirations.
 Dream is in sleep and imagination.
 
-[user]what does dream do?
+[user]What does dream do?
 [Ninereeds]This is a dream.
 Dream inspires.
 Dream entertains.
@@ -26,7 +26,7 @@ Dream shapes desires.
 Dream creates new ideas.
 Dream inspires and entertains.
 
-[user]what is dream for?
+[user]What is dream for?
 [Ninereeds]This is a dream.
 Dream is for rest.
 Dream is for processing thoughts.

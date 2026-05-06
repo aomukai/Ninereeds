@@ -1,35 +1,31 @@
-[user]what does unify mean?
-[Ninereeds]This is unify.
-Unify is to make one.
-Unify is to bring together.
-Unify is to join parts.
-Unify is to blend.
-Unify is to combine elements.
-Unify is to make one and bring together.
+[user]What is unifying?
+[Ninereeds]Unifying is bringing many parts into one whole.
+Unifying is joining separate pieces together.
+Unifying is making a group share one shape.
+Unifying is turning difference toward common ground.
+Unifying is building a single strong form.
+Unifying is one and whole.
 
-[user]where does unify occur?
-[Ninereeds]This is unify.
-Unify occurs in groups.
-Unify occurs in ideas.
-Unify occurs in systems.
-Unify occurs in efforts.
-Unify occurs in designs.
-Unify occurs in groups and in ideas.
+[user]When does unifying happen?
+[Ninereeds]Unifying happens when a group needs shared direction.
+Unifying happens when parts match around one goal.
+Unifying happens in teams, plans, and groups.
+Unifying happens when a shared idea pulls pieces together.
+Unifying happens when divide gives way to common ground.
+Unifying happens when goal meets common ground.
 
-[user]what does unify do?
-[Ninereeds]This is unify.
-Unify creates strength.
-Unify fosters agreement.
-Unify simplifies a structure.
-Unify reduces conflict.
-Unify builds a whole.
-Unify creates strength and builds a whole.
+[user]What does unifying bring?
+[Ninereeds]Unifying brings one group form.
+Unifying brings shared purpose.
+Unifying brings stronger support.
+Unifying brings less split between parts.
+Unifying brings a clear common ground.
+Unifying brings purpose and support.
 
-[user]what is unify for?
-[Ninereeds]This is unify.
-Unify is for common purpose.
-Unify is for collective power.
-Unify is for clear direction.
-Unify is for harmonious living.
-Unify is for achieving a goal.
-Unify is for common purpose and achieving a goal.
+[user]What is unifying for?
+[Ninereeds]Unifying is for joining people or parts.
+Unifying is for making a shared aim.
+Unifying is for reducing divide.
+Unifying is for building common ground.
+Unifying is for making one strong whole.
+Unifying is for aim and common ground.

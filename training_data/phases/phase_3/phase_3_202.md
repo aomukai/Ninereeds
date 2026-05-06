@@ -1,4 +1,4 @@
-[user]what does shrink mean?
+[user]What does shrink mean?
 [Ninereeds]This is shrink.
 Shrink is to get smaller.
 Shrink is to become less.
@@ -7,7 +7,7 @@ Shrink is to contract.
 Shrink is to lessen in size.
 Shrink is to get smaller and become less.
 
-[user]where does shrink happen?
+[user]Where does shrink happen?
 [Ninereeds]This is shrink.
 Shrink happens in clothes.
 Shrink happens in fruit.
@@ -16,7 +16,7 @@ Shrink happens in glaciers.
 Shrink happens in confidence.
 Shrink happens in clothes and in fruit.
 
-[user]what does shrink do?
+[user]What does shrink do?
 [Ninereeds]This is shrink.
 Shrink reduces a volume.
 Shrink creates space.
@@ -25,7 +25,7 @@ Shrink concentrates a thing.
 Shrink limits an area.
 Shrink reduces a volume and limits an area.
 
-[user]what is shrink for?
+[user]What is shrink for?
 [Ninereeds]This is shrink.
 Shrink is for making compact.
 Shrink is for conserving resources.

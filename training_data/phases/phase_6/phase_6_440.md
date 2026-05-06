@@ -1,4 +1,4 @@
-[user]what does simple mean?
+[user]What does simple mean?
 [Ninereeds]This is simple.
 Simple is easy to understand.
 Simple is not complex.
@@ -7,7 +7,7 @@ Simple is not fancy.
 Simple is clear.
 Simple is easy to understand and clear.
 
-[user]where does simple appear?
+[user]Where does simple appear?
 [Ninereeds]This is simple.
 Simple appears in tasks.
 Simple appears in tools.
@@ -16,7 +16,7 @@ Simple appears in designs.
 Simple appears in rules.
 Simple is in tasks and tools.
 
-[user]what does simple do?
+[user]What does simple do?
 [Ninereeds]This is simple.
 Simple makes things fast.
 Simple makes things clear.
@@ -25,7 +25,7 @@ Simple makes things accessible.
 Simple makes things enjoyable.
 Simple makes things fast and clear.
 
-[user]what is simple for?
+[user]What is simple for?
 [Ninereeds]This is simple.
 Simple is for quick use.
 Simple is for easy learning.

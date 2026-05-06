@@ -1,13 +1,13 @@
-[user]what does a reptile look like?
+[user]What does a reptile look like?
 [Ninereeds]This is a reptile.
 A reptile has dry scaly skin.
-A reptile has four legs or no legs.
+A reptile has four legs or slithers.
 A reptile has a long flat body.
 A reptile has a flat head.
 A reptile has cold dry skin.
 A reptile is a cold dry animal with scaly skin and a flat body.
 
-[user]where is a reptile?
+[user]Where can you find a reptile?
 [Ninereeds]This is a reptile.
 A reptile is on a rock in the sun.
 A reptile is in a warm dry place.
@@ -16,7 +16,7 @@ A reptile is near a river.
 A reptile is in a hot open place.
 A reptile is a warm dry animal and a desert animal.
 
-[user]what does a reptile do?
+[user]What does a reptile do?
 [Ninereeds]This is a reptile.
 A reptile basks in the sun.
 A reptile crawls on the ground.
@@ -25,7 +25,7 @@ A reptile lays eggs on the ground.
 A reptile moves slowly in the cold.
 A reptile is a sun-basking animal and an egg-laying animal.
 
-[user]what does a reptile give?
+[user]What does a reptile give?
 [Ninereeds]This is a reptile.
 A reptile lays eggs.
 A reptile eats bugs and small animals.

@@ -1,4 +1,4 @@
-[user]what does a stroll look like?
+[user]What does a stroll look like?
 [Ninereeds]This is a stroll.
 Stroll is slow.
 Stroll is gentle.
@@ -7,7 +7,7 @@ Stroll is easy.
 Stroll is unhurried.
 Stroll is relaxed and calm.
 
-[user]where is a stroll?
+[user]Where is a stroll?
 [Ninereeds]This is a stroll.
 Stroll appears in parks.
 Stroll stays on paths.
@@ -16,7 +16,7 @@ Stroll visits public gardens.
 Stroll rests on trails.
 Stroll is in streets and lanes.
 
-[user]what does a stroll do?
+[user]What does a stroll do?
 [Ninereeds]This is a stroll.
 Stroll relaxes the walker.
 Stroll observes surroundings.
@@ -25,7 +25,7 @@ Stroll explores new areas.
 Stroll enjoys fresh air.
 Stroll is peaceful and refreshing.
 
-[user]what is a stroll for?
+[user]What is a stroll for?
 [Ninereeds]This is a stroll.
 Stroll clears the mind.
 Stroll provides gentle exercise.

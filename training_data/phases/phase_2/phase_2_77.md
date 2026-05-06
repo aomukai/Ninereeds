@@ -1,4 +1,4 @@
-[user]what does pavement look like?
+[user]What does pavement look like?
 [Ninereeds]This is pavement.
 Pavement is hard.
 Pavement is grey or black.
@@ -7,7 +7,7 @@ Pavement is smooth.
 Pavement is solid.
 Pavement is hard and flat.
 
-[user]where is pavement?
+[user]Where does pavement appear?
 [Ninereeds]This is pavement.
 Pavement is on a road.
 Pavement is on a sidewalk.
@@ -16,7 +16,7 @@ Pavement is underfoot.
 Pavement is on a street.
 Pavement is on roads and sidewalks.
 
-[user]what does pavement do?
+[user]What does pavement do?
 [Ninereeds]This is pavement.
 Pavement supports vehicles.
 Pavement supports people.
@@ -25,7 +25,7 @@ Pavement makes travel easy.
 Pavement supports traffic.
 Pavement supports vehicles and people.
 
-[user]what is pavement for?
+[user]What is pavement for?
 [Ninereeds]This is pavement.
 Pavement is for walking.
 Pavement is for driving.

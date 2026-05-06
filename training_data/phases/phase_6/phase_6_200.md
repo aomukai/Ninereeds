@@ -1,35 +1,35 @@
-[user]what is shy?
-[Ninereeds]shy is here.
-shy is a quiet manner in a group.
-shy is a slow response to a new person.
-shy is a soft voice in a crowd.
-shy is a hesitant step in a new place.
-shy is a reserved look in a room.
-shy is a careful and measured way.
+[user]What does shy look like?
+[Ninereeds]This is shy.
+Shy is a quiet manner.
+Shy is a soft voice.
+Shy is a lowered gaze.
+Shy is a slow step.
+Shy is a reserved look.
+Shy is quiet and reserved.
 
-[user]where is shy?
-[Ninereeds]shy is here.
-shy is in a child at a new school.
-shy is in an adult at a new job.
-shy is at a party with many faces.
-shy is in a meeting with new coworkers.
-shy is in a home with unfamiliar guests.
-shy is in a home and a work place.
+[user]Where does shy appear?
+[Ninereeds]This is shy.
+Shy appears in a new group.
+Shy appears at a new school.
+Shy appears in a large crowd.
+Shy appears at a social event.
+Shy appears with unfamiliar people.
+Shy appears in a crowd and with new people.
 
-[user]what does shy do?
-[Ninereeds]shy is here.
-shy keeps a voice soft in a group.
-shy turns a face from a crowd.
-shy slows a step in a new space.
-shy holds a glance down in a talk.
-shy quiets a laugh in a room.
-shy makes a person careful and quiet.
+[user]What does shy do?
+[Ninereeds]This is shy.
+Shy keeps a voice low.
+Shy slows a movement.
+Shy turns a face away.
+Shy quiets a laugh.
+Shy holds a glance down.
+Shy slows and quiets.
 
-[user]what is shy like?
-[Ninereeds]shy is here.
-shy looks quiet in a busy room.
-shy feels small in a large crowd.
-shy sounds soft in a group talk.
-shy moves slow in a new place.
-shy watches close before a step.
-shy is a quiet and slow way.
+[user]What is shy for?
+[Ninereeds]This is shy.
+Shy is for caution.
+Shy is for modesty.
+Shy is for quiet observation.
+Shy is for careful approach.
+Shy is for gentle behavior.
+Shy is for caution and modesty.

@@ -1,4 +1,4 @@
-[user]what is a selection?
+[user]What is a selection?
 [Ninereeds]This is a selection.
 A selection is a choice.
 A selection is an item picked.
@@ -7,7 +7,7 @@ A selection is a chosen option.
 A selection is a deliberate pick.
 A selection is a choice of an item or a group of items.
 
-[user]where is a selection made?
+[user]Where is a selection made?
 [Ninereeds]This is a selection.
 A selection is made from a list.
 A selection is made from a group.
@@ -16,7 +16,7 @@ A selection is made in a mind.
 A selection is made with a finger.
 A selection is made from a list or a group.
 
-[user]what does a selection do?
+[user]What does a selection do?
 [Ninereeds]This is a selection.
 A selection determines a path.
 A selection narrows options.
@@ -25,7 +25,7 @@ A selection starts a process.
 A selection reveals a preference.
 A selection determines a path and starts a process.
 
-[user]what is a selection for?
+[user]What is a selection for?
 [Ninereeds]This is a selection.
 A selection is for personalization.
 A selection is for solving a problem.

@@ -1,35 +1,31 @@
-[user]what does unpack look like?
-[Ninereeds]This is unpack.
-Unpack opens a bag.
-Unpack takes things out.
-Unpack empties a suitcase.
-Unpack spreads objects on a floor.
-Unpack pulls items from a box.
-Unpack opens a bag and takes things out.
+[user]What is unpacking?
+[Ninereeds]Unpacking is opening a bag or case and taking things out.
+Unpacking is taking clothes, books, and tools from a container.
+Unpacking is spreading items across a table or bed.
+Unpacking is sorting items into piles or places.
+Unpacking is clearing a container and preparing a room.
+Unpacking is opening and sorting.
 
-[user]where does unpack happen?
-[Ninereeds]This is unpack.
-Unpack happens at home.
-Unpack happens in a room.
-Unpack happens on a bed.
-Unpack happens on a floor.
-Unpack happens after a trip.
-Unpack happens at home after a trip.
+[user]When does unpacking happen?
+[Ninereeds]Unpacking happens after a trip or delivery.
+Unpacking happens when luggage reaches a home or room.
+Unpacking happens in bedrooms, halls, and storage spaces.
+Unpacking happens when boxes arrive from a store.
+Unpacking happens during a move or a visit.
+Unpacking happens after arrival and during sorting.
 
-[user]what does unpack do?
-[Ninereeds]This is unpack.
-Unpack empties a suitcase.
-Unpack puts clothes in a drawer.
-Unpack places shoes on a rack.
-Unpack sets items on a shelf.
-Unpack makes a room feel like home.
-Unpack empties a bag and puts things in a room.
+[user]What does unpacking bring?
+[Ninereeds]Unpacking brings order to a room.
+Unpacking brings clear places for objects.
+Unpacking brings space inside a bag or box.
+Unpacking brings easier access to needed things.
+Unpacking brings a calmer scene after travel.
+Unpacking brings order and space.
 
-[user]what is unpack for?
-[Ninereeds]This is unpack.
-Unpack is for settling in.
-Unpack is for storing items.
-Unpack is for finding objects.
-Unpack is for sorting things.
-Unpack is for organizing a space.
-Unpack is for taking things out and storing items.
+[user]What is unpacking for?
+[Ninereeds]Unpacking is for settling into a place.
+Unpacking is for putting items into proper spots.
+Unpacking is for making storage easy.
+Unpacking is for finding things fast.
+Unpacking is for turning a pile into a room.
+Unpacking is for settling and storing.

@@ -1,4 +1,4 @@
-[user]what does grass look like?
+[user]What does grass look like?
 [Ninereeds]This is grass.
 Grass is green on the ground.
 Grass is thin like a blade.
@@ -7,7 +7,7 @@ Grass grows in a patch.
 Grass is short or tall.
 Grass is green and thin.
 
-[user]where is grass?
+[user]Where is grass?
 [Ninereeds]This is grass.
 Grass is on the ground.
 Grass is in a field.
@@ -16,7 +16,7 @@ Grass is in a park.
 Grass is on a hill.
 Grass is on the ground and in a field.
 
-[user]what does grass do?
+[user]What does grass do?
 [Ninereeds]This is grass.
 Grass grows in the soil.
 Grass covers the ground.
@@ -25,7 +25,7 @@ Grass sways in a breeze.
 Grass stays green in the sun.
 Grass grows in the soil and covers the ground.
 
-[user]what is grass for?
+[user]What is grass for?
 [Ninereeds]This is grass.
 Grass is for a lawn.
 Grass is for a cow.

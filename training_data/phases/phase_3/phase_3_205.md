@@ -1,13 +1,13 @@
-[user]what is fast?
+[user]What does fast look like?
 [Ninereeds]This is fast.
 Fast is quick.
 Fast is rapid.
 Fast is speedy.
 Fast is swift.
-Fast is not slow.
+Fast is brisk.
 Fast is quick and rapid.
 
-[user]where is fast found?
+[user]Where does fast appear?
 [Ninereeds]This is fast.
 Fast is found in a car.
 Fast is found in a runner.
@@ -16,7 +16,7 @@ Fast is found in light.
 Fast is found in thought.
 Fast is found in a car and in a runner.
 
-[user]what does fast do?
+[user]What does fast do?
 [Ninereeds]This is fast.
 Fast covers ground quickly.
 Fast saves time.
@@ -25,7 +25,7 @@ Fast finishes an action.
 Fast creates excitement.
 Fast covers ground quickly and saves time.
 
-[user]what is fast for?
+[user]What is fast for?
 [Ninereeds]This is fast.
 Fast is for winning a race.
 Fast is for quick delivery.

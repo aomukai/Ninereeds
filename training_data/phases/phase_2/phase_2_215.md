@@ -1,4 +1,4 @@
-[user]what does a creek look like?
+[user]What does a creek look like?
 [Ninereeds]This is a creek.
 A creek is a small river.
 A creek has water.
@@ -7,7 +7,7 @@ A creek has rocks.
 A creek has plants.
 A creek is a small river with water and banks.
 
-[user]where is a creek?
+[user]Where is a creek?
 [Ninereeds]This is a creek.
 A creek is in a valley.
 A creek is in a forest.
@@ -16,7 +16,7 @@ A creek flows over land.
 A creek flows to a river.
 A creek is in a valley flowing over land.
 
-[user]what does a creek do?
+[user]What does a creek do?
 [Ninereeds]This is a creek.
 A creek carries water.
 A creek carries small fish.
@@ -25,7 +25,7 @@ A creek carries dirt.
 A creek flows downhill.
 A creek is a water carrier flowing downhill.
 
-[user]what is a creek for?
+[user]What is a creek for?
 [Ninereeds]This is a creek.
 A creek gives water to animals.
 A creek gives water to plants.

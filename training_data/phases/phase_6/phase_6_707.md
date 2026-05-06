@@ -1,4 +1,4 @@
-[user]what is an institution?
+[user]What is an institution?
 [Ninereeds]This is an institution.
 An institution is a place.
 An institution is a group.
@@ -7,7 +7,7 @@ An institution is a system.
 An institution is a lasting custom.
 An institution is a place or a lasting custom.
 
-[user]where does an institution appear?
+[user]Where does an institution appear?
 [Ninereeds]This is an institution.
 An institution is in a town.
 An institution is in a country.
@@ -16,7 +16,7 @@ An institution is in a mind.
 An institution is in a society.
 An institution is in a town or in a country.
 
-[user]what does an institution do?
+[user]What does an institution do?
 [Ninereeds]This is an institution.
 An institution keeps order.
 An institution teaches people.
@@ -25,7 +25,7 @@ An institution makes rules.
 An institution provides service.
 An institution keeps order and helps a society.
 
-[user]what is an institution for?
+[user]What is an institution for?
 [Ninereeds]This is an institution.
 An institution is for stability.
 An institution is for common good.

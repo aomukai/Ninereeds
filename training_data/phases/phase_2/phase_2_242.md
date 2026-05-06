@@ -1,4 +1,4 @@
-[user]what does a group look like?
+[user]What does a group look like?
 [Ninereeds]This is a group.
 A group has many people.
 A group has many things.
@@ -7,7 +7,7 @@ A group shares ideas.
 A group works as one.
 A group is many people together.
 
-[user]where is a group?
+[user]Where is a group?
 [Ninereeds]This is a group.
 A group is in a room.
 A group is in a park.
@@ -16,7 +16,7 @@ A group is at an event.
 A group is in a meeting.
 A group is together in a room.
 
-[user]what does a group do?
+[user]What does a group do?
 [Ninereeds]This is a group.
 A group talks.
 A group plays.
@@ -25,7 +25,7 @@ A group shares.
 A group decides.
 A group talks and works.
 
-[user]what is a group used for?
+[user]What is a group used for?
 [Ninereeds]This is a group.
 A group is for sharing.
 A group is for working.

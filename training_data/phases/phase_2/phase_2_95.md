@@ -1,4 +1,4 @@
-[user]what does presence look like?
+[user]What does presence look like?
 [Ninereeds]This is a presence.
 Presence is not seen.
 Presence is felt.
@@ -7,7 +7,7 @@ Presence has no shape.
 Presence has no color.
 Presence is a state that is felt.
 
-[user]where is presence?
+[user]Where is presence?
 [Ninereeds]This is a presence.
 Presence is in a room.
 Presence is in a space.
@@ -16,7 +16,7 @@ Presence is all around.
 Presence is in the air.
 Presence is in a room and a space.
 
-[user]what does presence do?
+[user]What does presence do?
 [Ninereeds]This is a presence.
 Presence fills a space.
 Presence makes a place feel full.
@@ -25,7 +25,7 @@ Presence affects feelings.
 Presence brings a sense.
 Presence fills a space and affects feelings.
 
-[user]what is presence for?
+[user]What is presence for?
 [Ninereeds]This is a presence.
 Presence is for showing existence.
 Presence is for making a space known.

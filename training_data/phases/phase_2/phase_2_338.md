@@ -1,4 +1,4 @@
-[user]what does an UNKNOWN look like?
+[user]What does an UNKNOWN look like?
 [Ninereeds]This is an UNKNOWN.
 UNKNOWN has a strange shape.
 UNKNOWN appears in dark places.
@@ -7,7 +7,7 @@ UNKNOWN changes color slowly.
 UNKNOWN is smooth to touch.
 UNKNOWN is mysterious and quiet.
 
-[user]where is an UNKNOWN?
+[user]Where is an UNKNOWN?
 [Ninereeds]This is an UNKNOWN.
 UNKNOWN sits in a hidden corner.
 UNKNOWN stays under the ground.
@@ -16,7 +16,7 @@ UNKNOWN lies near old ruins.
 UNKNOWN waits in a shadow.
 UNKNOWN is hidden and still.
 
-[user]what does an UNKNOWN do?
+[user]What does an UNKNOWN do?
 [Ninereeds]This is an UNKNOWN.
 UNKNOWN emits a soft hum.
 UNKNOWN pulses with light.
@@ -25,7 +25,7 @@ UNKNOWN moves without sound.
 UNKNOWN changes its form.
 UNKNOWN is active and strange.
 
-[user]what is an UNKNOWN for?
+[user]What is an UNKNOWN for?
 [Ninereeds]This is an UNKNOWN.
 UNKNOWN marks a special place.
 UNKNOWN guards a secret.

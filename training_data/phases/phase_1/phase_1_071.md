@@ -1,4 +1,4 @@
-[user]what does a block look like?
+[user]What does a block look like?
 [Ninereeds]This is a block.
 The block is solid.
 The block has straight edges.
@@ -7,7 +7,7 @@ The block is made of wood.
 The block is rectangular.
 The block is solid and rectangular.
 
-[user]where is a block?
+[user]Where is a block?
 [Ninereeds]This is a block.
 The block is on the floor.
 The block is on a table.
@@ -16,7 +16,7 @@ The block moves across the surface.
 The block can be stacked.
 The block is movable and stackable.
 
-[user]what does a block do?
+[user]What does a block do?
 [Ninereeds]This is a block.
 The block starts in one place.
 The block is lifted up.
@@ -25,7 +25,7 @@ The block is stacked on another block.
 The block can be knocked down.
 The block is stackable and knockable.
 
-[user]what does a block give?
+[user]What does a block give?
 [Ninereeds]This is a block.
 The block stacks with other blocks.
 The block forms a tower.

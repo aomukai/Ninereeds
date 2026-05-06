@@ -1,4 +1,4 @@
-[user]what does a duckling do after hatch?
+[user]What does a duckling do after hatch?
 [Ninereeds]This is a duckling.
 A duckling breaks out of an egg shell.
 A duckling has soft yellow feathers.

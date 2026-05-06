@@ -1,35 +1,31 @@
-[user]what does frustrate look like?
-[Ninereeds]This is frustrate.
-Frustrate is an action.
-Frustrate creates a feeling.
-Frustrate is not seen.
-Frustrate is a process.
-Frustrate causes annoyance.
-Frustrate is an action and a process.
+[user]What is frustrating?
+[Ninereeds]Frustrating is causing delay and annoyance.
+Frustrating is blocking a smooth result.
+Frustrating is making a task feel hard.
+Frustrating is turning effort into strain.
+Frustrating is creating a stuck and tense feeling.
+Frustrating is delay and strain.
 
-[user]where does frustrate appear?
-[Ninereeds]This is frustrate.
-Frustrate appears in challenges.
-Frustrate appears in problems.
-Frustrate appears in difficult tasks.
-Frustrate appears in bad situations.
-Frustrate appears in interactions.
-Frustrate is challenging and problematic.
+[user]When does frustrating happen?
+[Ninereeds]Frustrating happens when a plan meets a block.
+Frustrating happens when a task keeps slowing down.
+Frustrating happens when a goal stays out of reach.
+Frustrating happens when a person faces repeated trouble.
+Frustrating happens when effort brings little progress.
+Frustrating happens when block meets effort.
 
-[user]what does frustrate do?
-[Ninereeds]This is frustrate.
-Frustrate causes annoyance.
-Frustrate causes giving up.
-Frustrate leads to anger.
-Frustrate creates obstacles.
-Frustrate hinders progress.
-Frustrate is annoying and obstructive.
+[user]What does frustrating bring?
+[Ninereeds]Frustrating brings irritation.
+Frustrating brings tension in a room.
+Frustrating brings a sense of strain.
+Frustrating brings slower progress.
+Frustrating brings a need for patience.
+Frustrating brings tension and irritation.
 
-[user]what is frustrate for?
-[Ninereeds]This is frustrate.
-Frustrate is for identifying problems.
-Frustrate is for motivating change.
-Frustrate is for showing limits.
-Frustrate is for pushing effort.
-Frustrate is for learning patience.
-Frustrate is diagnostic and motivational.
+[user]What is frustrating for?
+[Ninereeds]Frustrating is for showing a hard stop in a task.
+Frustrating is for exposing a weak point in a plan.
+Frustrating is for pushing patience to a limit.
+Frustrating is for marking a rough moment.
+Frustrating is for signaling a need for change.
+Frustrating is for strain and change.

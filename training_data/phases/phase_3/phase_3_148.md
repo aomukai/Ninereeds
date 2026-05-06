@@ -1,13 +1,13 @@
-[user]what does coordinate look like?
+[user]What does coordinate look like?
 [Ninereeds]This is coordinate.
 Coordinate brings things together.
 Coordinate makes things work well.
 Coordinate is a process.
-Coordinate is not seen.
 Coordinate is systematic.
-Coordinate is a process and is unseen.
+Coordinate is an arrangement.
+Coordinate is a process and an arrangement.
 
-[user]where does coordinate appear?
+[user]Where does coordinate appear?
 [Ninereeds]This is coordinate.
 Coordinate appears in teams.
 Coordinate appears in projects.
@@ -16,7 +16,7 @@ Coordinate appears in movements.
 Coordinate appears in groups.
 Coordinate appears in teams and in projects.
 
-[user]what does coordinate do?
+[user]What does coordinate do?
 [Ninereeds]This is coordinate.
 Coordinate arranges actions.
 Coordinate makes movements smooth.
@@ -25,7 +25,7 @@ Coordinate helps goals be reached.
 Coordinate organizes efforts.
 Coordinate arranges actions and makes movements smooth.
 
-[user]what is coordinate for?
+[user]What is coordinate for?
 [Ninereeds]This is coordinate.
 Coordinate is for teamwork.
 Coordinate is for efficiency.

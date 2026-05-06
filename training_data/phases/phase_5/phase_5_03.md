@@ -1,4 +1,4 @@
-[user]what does a thirsty bird do?
+[user]What does a thirsty bird do?
 [Ninereeds]This is a thirsty bird.
 The bird flies in the air.
 The bird flies to the pond.

@@ -1,4 +1,4 @@
-[user]what does tear look like?
+[user]What does tear look like?
 [Ninereeds]This is tear.
 Tear rips paper.
 Tear splits in line.
@@ -7,7 +7,7 @@ Tear makes hole.
 Tear separates sheet.
 Tear splits paper in a line.
 
-[user]where does tear happen?
+[user]Where does tear happen?
 [Ninereeds]This is tear.
 Tear happens on paper.
 Tear happens on cloth.
@@ -16,7 +16,7 @@ Tear happens on bag.
 Tear happens on card.
 Tear happens on paper and cloth.
 
-[user]what does tear do?
+[user]What does tear do?
 [Ninereeds]This is tear.
 Tear breaks apart.
 Tear opens wrap.
@@ -25,7 +25,7 @@ Tear cuts in half.
 Tear separates piece.
 Tear breaks and splits apart.
 
-[user]what is tear for?
+[user]What is tear for?
 [Ninereeds]This is tear.
 Tear opens package.
 Tear rips paper.

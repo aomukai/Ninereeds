@@ -1,4 +1,4 @@
-[user]what does wrestle look like?
+[user]What does wrestle look like?
 [Ninereeds]This is wrestle.
 Wrestle is two bodies close.
 Wrestle is arms wrapped tight.
@@ -7,7 +7,7 @@ Wrestle is a struggle on ground.
 Wrestle is sweat and strain.
 Wrestle is two bodies and arms wrapped tight.
 
-[user]where is wrestle?
+[user]Where is wrestle?
 [Ninereeds]This is wrestle.
 Wrestle is on a padded mat.
 Wrestle is inside a gymnasium.
@@ -16,7 +16,7 @@ Wrestle is at a practice room.
 Wrestle is on a competition stage.
 Wrestle is on a padded mat inside a gymnasium.
 
-[user]what does wrestle do?
+[user]What does wrestle do?
 [Ninereeds]This is wrestle.
 Wrestle forces a shoulder down.
 Wrestle controls an opponent’s movement.
@@ -25,7 +25,7 @@ Wrestle twists a body into holds.
 Wrestle exhausts muscles and breath.
 Wrestle forces a shoulder down and controls movement.
 
-[user]what is wrestle for?
+[user]What is wrestle for?
 [Ninereeds]This is wrestle.
 Wrestle is for athletic contest.
 Wrestle is for physical training.

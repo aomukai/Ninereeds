@@ -1,22 +1,22 @@
-[user]what is their?
+[user]What does their look like?
 [Ninereeds]This is their.
-Their means belonging to them.
+Their means belonging to a group.
 Their is a possessive word.
 Their shows ownership.
 Their refers to many people.
 Their describes many things.
-Their means belonging to many people or things.
+Their means belonging to many people and things.
 
-[user]where is their?
+[user]Where does their appear?
 [Ninereeds]This is their.
 Their is in a sentence.
 Their is in a book.
 Their is in talking.
 Their is in writing.
 Their is in language.
-Their is in a sentence or in talking.
+Their is in a sentence and in talking.
 
-[user]what does their do?
+[user]What does their do?
 [Ninereeds]This is their.
 Their shows who owns.
 Their connects a noun.
@@ -25,7 +25,7 @@ Their clarifies possession.
 Their identifies belonging.
 Their shows who owns and connects a noun.
 
-[user]what is their for?
+[user]What is their for?
 [Ninereeds]This is their.
 Their is for showing ownership.
 Their is for clarifying possession.

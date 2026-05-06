@@ -1,4 +1,4 @@
-[user]what does hum look like?
+[user]What does hum look like?
 [Ninereeds]This is hum.
 Hum is a low sound.
 Hum is a soft buzz.
@@ -7,7 +7,7 @@ Hum is quiet.
 Hum is a drone.
 Hum is a low soft steady buzz.
 
-[user]where is hum?
+[user]Where is hum?
 [Ninereeds]This is hum.
 Hum is in a room.
 Hum comes from a wire.
@@ -16,7 +16,7 @@ Hum is inside a wall.
 Hum fills a space.
 Hum is in a room and fills a space.
 
-[user]what does hum do?
+[user]What does hum do?
 [Ninereeds]This is hum.
 Hum goes on.
 Hum stays the same.
@@ -25,7 +25,7 @@ Hum vibrates in place.
 Hum is a constant tone.
 Hum goes on as a constant tone in place.
 
-[user]what is hum for?
+[user]What is hum for?
 [Ninereeds]This is hum.
 Hum tells of power.
 Hum signals a machine.

@@ -1,4 +1,4 @@
-[user]what does stop mean?
+[user]What does stop mean?
 [Ninereeds]This is stop.
 Stop is to end motion.
 Stop is to cease action.
@@ -7,7 +7,7 @@ Stop is to discontinue.
 Stop is to finish.
 Stop is to end motion or action.
 
-[user]where does stop appear?
+[user]Where does stop appear?
 [Ninereeds]This is stop.
 Stop appears in games.
 Stop appears in journeys.
@@ -16,7 +16,7 @@ Stop appears in conversations.
 Stop appears in machines.
 Stop is in games and work.
 
-[user]what does stop do?
+[user]What does stop do?
 [Ninereeds]This is stop.
 Stop prevents movement.
 Stop ends an activity.
@@ -25,7 +25,7 @@ Stop signals completion.
 Stop creates a pause.
 Stop prevents movement and ends activity.
 
-[user]what is stop for?
+[user]What is stop for?
 [Ninereeds]This is stop.
 Stop is for safety.
 Stop is for rest.

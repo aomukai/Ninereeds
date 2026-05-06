@@ -1,35 +1,31 @@
-[user]what does execute look like?
-[Ninereeds]This is execute.
-Execute is the implementation of a command.
-Execute is the completion of a task.
-Execute is the realization of a plan.
-Execute is the activation of an action.
-Execute is the carrying out of an instruction.
-Execute is performance and completion.
+[user]What is executing?
+[Ninereeds]Executing is carrying out a plan and command.
+Executing is doing a task with a clear order.
+Executing is turning intent into action.
+Executing is following a set step.
+Executing is completing a chosen move.
+Executing is action and completion.
 
-[user]where does execute appear?
-[Ninereeds]This is execute.
-Execute appears in plans.
-Execute appears in orders.
-Execute appears in programs.
-Execute appears in commands.
-Execute appears in action sequences.
-Execute is instruction and action.
+[user]When does executing happen?
+[Ninereeds]Executing happens when a plan moves into action.
+Executing happens when a command needs a step.
+Executing happens in work, code, and routine.
+Executing happens when a task follows a set order.
+Executing happens when a result depends on doing.
+Executing happens with action and order.
 
-[user]what does execute do?
-[Ninereeds]This is execute.
-Execute performs steps.
-Execute completes tasks.
-Execute fulfills commands.
-Execute creates results.
-Execute makes things happen.
-Execute is performance and creation.
+[user]What does executing bring?
+[Ninereeds]Executing brings results.
+Executing brings completion.
+Executing brings movement.
+Executing brings output.
+Executing brings progress.
+Executing brings results and progress.
 
-[user]what is execute for?
-[Ninereeds]This is execute.
-Execute is for doing work.
-Execute is for achieving goals.
-Execute is for carrying out orders.
-Execute is for making things real.
-Execute is for performing tasks.
-Execute is achievement and realization.
+[user]What is executing for?
+[Ninereeds]Executing is for carrying out a plan.
+Executing is for following a command.
+Executing is for turning intent into action.
+Executing is for completing a task.
+Executing is for producing a result.
+Executing is for action and result.

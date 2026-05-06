@@ -1,13 +1,13 @@
-[user]what does affect look like?
+[user]What does affect look like?
 [Ninereeds]This is affect.
-Affect is not seen.
+Affect is invisible.
 Affect is felt.
 Affect changes something.
 Affect is a process.
-Affect has no color.
+Affect is colorless.
 Affect is unseen and felt.
 
-[user]where does affect appear?
+[user]Where does affect appear?
 [Ninereeds]This is affect.
 Affect appears in interactions.
 Affect appears in events.
@@ -16,7 +16,7 @@ Affect appears when one thing acts on another.
 Affect appears in reactions.
 Affect is in interactions and in changes.
 
-[user]what does affect do?
+[user]What does affect do?
 [Ninereeds]This is affect.
 Affect causes a result.
 Affect changes a state.
@@ -25,7 +25,7 @@ Affect makes something different.
 Affect creates a reaction.
 Affect is causative and reactive.
 
-[user]what is affect for?
+[user]What is affect for?
 [Ninereeds]This is affect.
 Affect is for making changes.
 Affect is for showing influence.

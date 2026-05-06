@@ -1,27 +1,35 @@
-[user]what is success?
-[Ninereeds]success is here.
-success is the achievement of a desired goal.
-success can be in a class.
-success can be in a race.
-success rewards effort and dedication.
+[user]What does success look like?
+[Ninereeds]This is success.
+Success is a finished project on a desk.
+Success is a certificate on a wall.
+Success is a trophy in a display case.
+Success is a smile on a proud face.
+Success is a goal reached after effort.
+Success is visible and satisfying.
 
-[user]where is success?
-[Ninereeds]success is here.
-success can be in a classroom.
-success can be on a field.
-success can be in a workplace.
-success can be in a community.
+[user]Where does success appear?
+[Ninereeds]This is success.
+Success appears in a graduation hall.
+Success appears in a workplace promotion.
+Success appears in a completed race.
+Success appears in a solved problem.
+Success appears in a thriving garden.
+Success is earned and celebrated.
 
-[user]what does success do?
-[Ninereeds]success is here.
-success brings validation for hard work.
-success opens new doors to opportunity.
-success inspires others to strive.
-success proves ability and skill.
+[user]What does success do?
+[Ninereeds]This is success.
+Success rewards hard work and dedication.
+Success opens doors to new opportunities.
+Success inspires others to strive harder.
+Success brings confidence and satisfaction.
+Success validates effort and persistence.
+Success is rewarding and motivating.
 
-[user]what is success like?
-[Ninereeds]success is here.
-success feels like a warm satisfaction.
-success sounds like cheers and applause.
-success looks like a finished project.
-success tastes like sweet victory.
+[user]What is success for?
+[Ninereeds]This is success.
+Success is for achieving goals and dreams.
+Success is for proving ability and effort.
+Success is for inspiring future achievement.
+Success is for providing satisfaction and pride.
+Success is for marking a milestone reached.
+Success is meaningful and celebrated.

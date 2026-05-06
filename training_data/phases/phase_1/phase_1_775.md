@@ -1,4 +1,4 @@
-[user]what does a pet look like?
+[user]What does a pet look like?
 [Ninereeds]This is a pet.
 A pet has four legs and a tail.
 A pet has soft fur and bright eyes.
@@ -7,7 +7,7 @@ A pet is small or large.
 A pet has ears that flop or stand.
 A pet is furry and friendly.
 
-[user]where is a pet?
+[user]Where is a pet?
 [Ninereeds]This is a pet.
 A pet lives in a house with a family.
 A pet sleeps in a basket or a bed.
@@ -16,7 +16,7 @@ A pet sits on a lap or a couch.
 A pet stays in a crate or a room.
 A pet is indoors and comforted.
 
-[user]what does a pet do?
+[user]What does a pet do?
 [Ninereeds]This is a pet.
 A pet eats food from a bowl.
 A pet drinks water every day.
@@ -25,7 +25,7 @@ A pet chases a ball in the yard.
 A pet rests in a sunny spot.
 A pet eats and plays.
 
-[user]what is a pet for?
+[user]What is a pet for?
 [Ninereeds]This is a pet.
 A pet gives company to a person.
 A pet listens to a person's voice.

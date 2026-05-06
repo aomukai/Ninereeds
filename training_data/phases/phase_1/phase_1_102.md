@@ -1,4 +1,4 @@
-[user]what does grass look like?
+[user]What does grass look like?
 [Ninereeds]This is grass.
 Grass is green.
 Grass is thin.
@@ -7,7 +7,7 @@ Grass covers the ground in a soft layer.
 Grass feels soft.
 Grass is thin and green.
 
-[user]where does grass grow?
+[user]Where does grass grow?
 [Ninereeds]This is grass.
 Grass grows in a field.
 Grass grows near a pond.
@@ -16,7 +16,7 @@ Grass grows in a garden.
 Grass grows on a hill.
 Grass is thin and green.
 
-[user]what does grass do?
+[user]What does grass do?
 [Ninereeds]This is grass.
 Grass grows after rain.
 Grass bends in the wind.
@@ -25,7 +25,7 @@ Grass grows back after it is cut.
 Grass sways in the breeze.
 Grass is thin and green.
 
-[user]what does grass give?
+[user]What does grass give?
 [Ninereeds]This is grass.
 Grass gives soft ground to walk on.
 Grass gives food to animals that eat plants.

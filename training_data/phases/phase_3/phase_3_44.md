@@ -1,35 +1,31 @@
-[user]what does wander mean?
-[Ninereeds]This is wander.
-Wander means to move without a fixed course.
-Wander means to roam.
-Wander means to stray.
-Wander means to go aimlessly.
-Wander means to meander.
-Wander is to move without a fixed course or to roam.
+[user]What is wandering?
+[Ninereeds]Wandering is Moving without a fixed route.
+[Ninereeds]Wandering is Roaming through streets or fields.
+[Ninereeds]Wandering is Stepping from place to place.
+[Ninereeds]Wandering is Traveling with no clear goal.
+[Ninereeds]Wandering is Drifting across space.
+[Ninereeds]Wandering is Roaming and drifting.
 
-[user]where does wander appear?
-[Ninereeds]This is wander.
-Wander appears in fields.
-Wander appears in forests.
-Wander appears in thoughts.
-Wander appears in journeys.
-Wander appears in dreams.
-Wander is in fields, forests, and thoughts.
+[user]When does wandering happen?
+[Ninereeds]Wandering happens when A road has no strict path.
+[Ninereeds]Wandering happens when A person has time and curiosity.
+[Ninereeds]Wandering happens when A field, town, or hall invites movement.
+[Ninereeds]Wandering happens when A search needs loose motion.
+[Ninereeds]Wandering happens when A mind or body seeks space.
+[Ninereeds]Wandering happens when Pathless movement and travel continue.
 
-[user]what does wander do?
-[Ninereeds]This is wander.
-Wander explores new places.
-Wander discovers unexpected things.
-Wander relaxes the mind.
-Wander creates freedom.
-Wander avoids routine.
-Wander is exploring new places and discovering unexpected things.
+[user]What does wandering bring?
+[Ninereeds]Wandering brings A wide view.
+[Ninereeds]Wandering brings New sights.
+[Ninereeds]Wandering brings Loose movement.
+[Ninereeds]Wandering brings Surprise turns.
+[Ninereeds]Wandering brings A sense of travel.
+[Ninereeds]Wandering brings Freedom and curiosity.
 
-[user]what is wander for?
-[Ninereeds]This is wander.
-Wander is for exploration.
-Wander is for relaxation.
-Wander is for discovery.
-Wander is for freedom of movement.
-Wander is for mental diversion.
-Wander is for exploration and relaxation.
+[user]What is wandering for?
+[Ninereeds]Wandering is for Exploring a place.
+[Ninereeds]Wandering is for Giving a mind space.
+[Ninereeds]Wandering is for Reaching many corners.
+[Ninereeds]Wandering is for Passing time in motion.
+[Ninereeds]Wandering is for Seeking new sights.
+[Ninereeds]Wandering is for Exploration and freedom.

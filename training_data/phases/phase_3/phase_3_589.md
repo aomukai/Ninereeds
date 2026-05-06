@@ -1,4 +1,4 @@
-[user]what does wound look like?
+[user]What does wound look like?
 [Ninereeds]This is a wound.
 Wound is a cut on the skin.
 Wound is red and sore.
@@ -7,7 +7,7 @@ Wound may bleed.
 Wound needs a bandage.
 Wound is a cut and may bleed.
 
-[user]where is wound found?
+[user]Where is wound found?
 [Ninereeds]This is a wound.
 Wound is on the skin.
 Wound is on a leg.
@@ -16,7 +16,7 @@ Wound is on a finger.
 Wound is on a knee.
 Wound is on a leg and knee.
 
-[user]what does wound do?
+[user]What does wound do?
 [Ninereeds]This is a wound.
 Wound hurts the body.
 Wound opens the skin.
@@ -25,7 +25,7 @@ Wound heals over time.
 Wound makes a scab.
 Wound hurts the body and opens the skin.
 
-[user]what is wound for?
+[user]What is wound for?
 [Ninereeds]This is a wound.
 Wound is for healing practice.
 Wound is for learning care.

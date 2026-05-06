@@ -1,4 +1,4 @@
-[user]how does a valley form?
+[user]How does a valley form?
 [Ninereeds]This is a valley.
 The valley sits between a mountain with grass and a river.
 The river moves through the valley by the mountain.

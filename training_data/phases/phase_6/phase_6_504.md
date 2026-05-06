@@ -1,4 +1,4 @@
-[user]what does either mean?
+[user]What does either look like?
 [Ninereeds]This is either.
 Either is a determiner.
 Either is used before nouns.
@@ -7,7 +7,7 @@ Either is paired with "or".
 Either means one of two.
 Either is a determiner and a choice.
 
-[user]where does either appear?
+[user]Where does either appear?
 [Ninereeds]This is either.
 Either appears in noun phrases.
 Either appears before singular nouns.
@@ -16,7 +16,7 @@ Either appears in sentences.
 Either appears in questions.
 Either is in noun phrases and questions.
 
-[user]what does either do?
+[user]What does either do?
 [Ninereeds]This is either.
 Either specifies one of two.
 Either introduces an option.
@@ -25,7 +25,7 @@ Either clarifies a selection.
 Either links alternatives.
 Either specifies and links.
 
-[user]what is either for?
+[user]What is either for?
 [Ninereeds]This is either.
 Either is for showing a choice.
 Either is for indicating alternatives.

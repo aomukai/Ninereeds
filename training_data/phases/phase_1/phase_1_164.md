@@ -1,4 +1,4 @@
-[user]what does texture look like?
+[user]What does texture look like?
 [Ninereeds]This is texture.
 Texture is smooth.
 Texture is rough.
@@ -7,7 +7,7 @@ Texture is hard.
 Texture is bumpy.
 Texture is smooth and rough.
 
-[user]where is texture found?
+[user]Where is texture found?
 [Ninereeds]This is texture.
 Texture is found on clothes.
 Texture is found on skin.
@@ -16,7 +16,7 @@ Texture is found on stone.
 Texture is found in fabrics.
 Texture is found on clothes and on skin.
 
-[user]what does texture do?
+[user]What does texture do?
 [Ninereeds]This is texture.
 Texture makes a thing interesting.
 Texture helps a grip.
@@ -25,7 +25,7 @@ Texture adds depth.
 Texture can absorb light.
 Texture makes a thing interesting and helps a grip.
 
-[user]what is texture for?
+[user]What is texture for?
 [Ninereeds]This is texture.
 Texture is for sensory experience.
 Texture is for artistic expression.

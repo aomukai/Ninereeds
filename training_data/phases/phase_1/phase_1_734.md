@@ -1,4 +1,4 @@
-[user]what does an onion look like?
+[user]What does an onion look like?
 [Ninereeds]This is an onion.
 An onion is a vegetable.
 An onion is round.
@@ -7,7 +7,7 @@ An onion is white, yellow, or red.
 An onion has a papery skin.
 An onion is a round vegetable with layers and a papery skin.
 
-[user]where is an onion?
+[user]Where is an onion?
 [Ninereeds]This is an onion.
 An onion is in the ground.
 An onion is in a kitchen.
@@ -16,7 +16,7 @@ An onion is on a shelf.
 An onion grows underground in a garden.
 An onion is a vegetable that grows in the ground and sits in a kitchen.
 
-[user]what does an onion do?
+[user]What does an onion do?
 [Ninereeds]This is an onion.
 An onion makes a person cry.
 An onion adds flavor to food.
@@ -25,7 +25,7 @@ An onion crunches when raw.
 An onion makes a kitchen smell strong.
 An onion is a vegetable that adds flavor and makes a person cry.
 
-[user]what is an onion for?
+[user]What is an onion for?
 [Ninereeds]This is an onion.
 An onion is for cooking.
 An onion is for salads.

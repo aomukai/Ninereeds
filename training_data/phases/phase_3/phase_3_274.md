@@ -1,4 +1,4 @@
-[user]what does bump look like?
+[user]What does bump look like?
 [Ninereeds]This is bump.
 Bump is a small hit.
 Bump is a gentle knock.
@@ -7,7 +7,7 @@ Bump is a soft impact.
 Bump is a minor contact.
 Bump is a small hit and a gentle knock.
 
-[user]where does bump appear?
+[user]Where does bump appear?
 [Ninereeds]This is bump.
 Bump appears on the road.
 Bump appears in the dark.
@@ -16,7 +16,7 @@ Bump appears on the sidewalk.
 Bump appears in a crowd.
 Bump is on the road and in the dark.
 
-[user]what does bump do?
+[user]What does bump do?
 [Ninereeds]This is bump.
 Bump makes a small noise.
 Bump nudges an object.
@@ -25,7 +25,7 @@ Bump causes a brief stop.
 Bump signals an obstacle.
 Bump is a nudge and a stop.
 
-[user]what is bump for?
+[user]What is bump for?
 [Ninereeds]This is bump.
 Bump is for warning.
 Bump is for getting attention.

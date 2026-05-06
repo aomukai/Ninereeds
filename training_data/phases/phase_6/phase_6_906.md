@@ -1,4 +1,4 @@
-[user]what does brief mean?
+[user]What does brief mean?
 [Ninereeds]This is brief.
 Brief is for a short time.
 Brief is in few words.
@@ -7,7 +7,7 @@ Brief is quick.
 Brief is without much detail.
 Brief is for a short time and in few words.
 
-[user]where is brief found?
+[user]Where is brief found?
 [Ninereeds]This is brief.
 Brief is found in speeches.
 Brief is found in summaries.
@@ -16,7 +16,7 @@ Brief is found in descriptions.
 Brief is found in instructions.
 Brief is found in speeches and in summaries.
 
-[user]what does brief do?
+[user]What does brief do?
 [Ninereeds]This is brief.
 Brief saves time.
 Brief focuses attention.
@@ -25,7 +25,7 @@ Brief prevents boredom.
 Brief gets to a point.
 Brief saves time and focuses attention.
 
-[user]what is brief for?
+[user]What is brief for?
 [Ninereeds]This is brief.
 Brief is for clear communication.
 Brief is for efficient information exchange.

@@ -1,4 +1,4 @@
-[user]what does a rim look like?
+[user]What does a rim look like?
 [Ninereeds]This is a rim.
 A rim is round.
 A rim is a edge.
@@ -7,7 +7,7 @@ A rim is smooth.
 A rim is a circular band.
 A rim is a round edge at the top.
 
-[user]where is a rim?
+[user]Where is a rim?
 [Ninereeds]This is a rim.
 A rim is on a cup.
 A rim is on a bowl.
@@ -16,7 +16,7 @@ A rim is on a plate.
 A rim is on a jar.
 A rim is on the top of a cup.
 
-[user]what does a rim do?
+[user]What does a rim do?
 [Ninereeds]This is a rim.
 A rim holds a glass edge.
 A rim shapes the opening of a cup.
@@ -25,7 +25,7 @@ A rim keeps liquid inside a bowl.
 A rim forms the top of a container.
 A rim shapes the opening of a container.
 
-[user]what is a rim for?
+[user]What is a rim for?
 [Ninereeds]This is a rim.
 A rim is for holding the shape of a container.
 A rim is for sealing a jar.

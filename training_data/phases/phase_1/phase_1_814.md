@@ -1,4 +1,4 @@
-[user]what does a porcupine look like?
+[user]What does a porcupine look like?
 [Ninereeds]This is a porcupine.
 A porcupine has quills.
 A porcupine has a round body.
@@ -7,7 +7,7 @@ A porcupine has short legs.
 A porcupine is brown.
 A porcupine is a round brown body quills.
 
-[user]where is a porcupine?
+[user]Where is a porcupine?
 [Ninereeds]This is a porcupine.
 A porcupine is in a forest.
 A porcupine is in a tree.
@@ -16,7 +16,7 @@ A porcupine is on a log.
 A porcupine is in a den.
 A porcupine is in a forest in a tree.
 
-[user]what does a porcupine do?
+[user]What does a porcupine do?
 [Ninereeds]This is a porcupine.
 A porcupine climbs a tree.
 A porcupine chews bark.
@@ -25,7 +25,7 @@ A porcupine walks slow.
 A porcupine hunts for food at night.
 A porcupine climbs a tree chews bark.
 
-[user]what is a porcupine for?
+[user]What is a porcupine for?
 [Ninereeds]This is a porcupine.
 A porcupine is for eating plants.
 A porcupine is for climbing trees.

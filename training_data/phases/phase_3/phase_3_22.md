@@ -1,4 +1,4 @@
-[user]what does the bank of the river look like?
+[user]What does the bank of the river look like?
 [Ninereeds]This is the bank of the river.
 The bank of the river is sloped.
 The bank of the river is wet.
@@ -6,7 +6,7 @@ The bank of the river is soft.
 The bank of the river is long.
 The bank of the river is the side of a river.
 
-[user]where can the bank of the river be found?
+[user]Where can the bank of the river be found?
 [Ninereeds]This is the bank of the river.
 The bank of the river is by water.
 The bank of the river is near a stream.
@@ -14,7 +14,7 @@ The bank of the river is along the flow.
 The bank of the river is beside the river.
 The bank of the river is the sloped edge that runs beside the water.
 
-[user]how does the bank of the river change?
+[user]How does the bank of the river change?
 [Ninereeds]This is the bank of the river.
 The bank of the river gets wet.
 The bank of the river erodes.
@@ -22,7 +22,7 @@ The bank of the river shifts.
 The bank of the river changes shape.
 The bank of the river is the side of a river that erodes and shifts.
 
-[user]what is the bank of the river used for?
+[user]What is the bank of the river used for?
 [Ninereeds]This is the bank of the river.
 The bank of the river holds soil.
 The bank of the river guides water.

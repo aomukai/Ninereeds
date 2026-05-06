@@ -1,4 +1,4 @@
-[user]what does shift look like?
+[user]What does shift look like?
 [Ninereeds]This is a shift.
 Shift is a transition from one state to another.
 Shift is a movement along a continuum.
@@ -7,7 +7,7 @@ Shift reveals a new configuration.
 Shift replaces the previous pattern.
 Shift is a transition and a movement.
 
-[user]where does shift appear?
+[user]Where does shift appear?
 [Ninereeds]This is a shift.
 Shift occurs at a boundary between phases.
 Shift is found in the gap between old and new.
@@ -16,7 +16,7 @@ Shift appears at the edge of a system.
 Shift is located in the moment of change.
 Shift occurs at a boundary and is found between old and new.
 
-[user]what does shift do?
+[user]What does shift do?
 [Ninereeds]This is a shift.
 Shift repositions elements in a structure.
 Shift transforms the layout of a scene.
@@ -25,7 +25,7 @@ Shift initiates a new sequence of events.
 Shift creates a ripple in the status quo.
 Shift repositions elements and transforms the layout.
 
-[user]what is shift for?
+[user]What is shift for?
 [Ninereeds]This is a shift.
 Shift enables adaptation to new conditions.
 Shift facilitates progress from one level to the next.

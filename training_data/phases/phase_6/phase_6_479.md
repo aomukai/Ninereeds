@@ -1,4 +1,4 @@
-[user]what does label mean?
+[user]What does label mean?
 [Ninereeds]This is a label.
 Label is a name.
 Label is a tag.
@@ -7,7 +7,7 @@ Label is a word for identification.
 Label is a classification.
 Label is a name or mark for identification.
 
-[user]where does label appear?
+[user]Where does label appear?
 [Ninereeds]This is a label.
 Label appears on products.
 Label appears on clothes.
@@ -16,7 +16,7 @@ Label appears in descriptions.
 Label appears in categories.
 Label is on products and clothes.
 
-[user]what does label do?
+[user]What does label do?
 [Ninereeds]This is a label.
 Label identifies things.
 Label informs about contents.
@@ -25,7 +25,7 @@ Label guides actions.
 Label simplifies sorting.
 Label identifies and categorizes.
 
-[user]what is label for?
+[user]What is label for?
 [Ninereeds]This is a label.
 Label is for organizing.
 Label is for clear communication.

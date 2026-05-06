@@ -1,4 +1,4 @@
-[user]what does direction mean?
+[user]What does direction mean?
 [Ninereeds]This is a direction.
 Direction is a course taken.
 Direction is a path to follow.
@@ -7,7 +7,7 @@ Direction is a line to a point.
 Direction is a bearing.
 Direction is a course or path.
 
-[user]where does direction appear?
+[user]Where does direction appear?
 [Ninereeds]This is a direction.
 Direction appears in maps.
 Direction appears in journeys.
@@ -16,7 +16,7 @@ Direction appears in wind.
 Direction appears in thoughts.
 Direction is in maps and journeys.
 
-[user]what does direction do?
+[user]What does direction do?
 [Ninereeds]This is a direction.
 Direction guides movement.
 Direction shows the way.
@@ -25,7 +25,7 @@ Direction prevents getting lost.
 Direction organizes actions.
 Direction guides movement and shows the way.
 
-[user]what is direction for?
+[user]What is direction for?
 [Ninereeds]This is a direction.
 Direction is for finding places.
 Direction is for making plans.

@@ -1,4 +1,4 @@
-[user]what does cheese look like?
+[user]What does cheese look like?
 [Ninereeds]This is cheese.
 Cheese is yellow.
 Cheese is soft.
@@ -7,7 +7,7 @@ Cheese has holes.
 Cheese is made from milk.
 Cheese is a soft yellow food made from milk.
 
-[user]where is cheese?
+[user]Where is cheese?
 [Ninereeds]This is cheese.
 Cheese is in a fridge.
 Cheese is on a plate.
@@ -16,7 +16,7 @@ Cheese is in a store.
 Cheese is on a cracker.
 Cheese is in a fridge on a plate.
 
-[user]what does cheese do?
+[user]What does cheese do?
 [Ninereeds]This is cheese.
 Cheese melts in a pan.
 Cheese sits on bread.
@@ -25,7 +25,7 @@ Cheese stays fresh in a fridge.
 Cheese becomes hard over time.
 Cheese melts in a pan and sits on bread.
 
-[user]what is cheese for?
+[user]What is cheese for?
 [Ninereeds]This is cheese.
 Cheese is for eating.
 Cheese is for sandwiches.

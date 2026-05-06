@@ -1,4 +1,4 @@
-[user]what does flap look like?
+[user]What does flap look like?
 [Ninereeds]This is flap.
 Flap is a quick move of a flat piece.
 Flap is a beat of a wing in air.
@@ -7,7 +7,7 @@ Flap is a wave of a flag on a pole.
 Flap is a bounce of a sheet on a line.
 Flap is a quick beat of a flat piece.
 
-[user]where does flap happen?
+[user]Where does flap happen?
 [Ninereeds]This is flap.
 Flap happens on a bird wing.
 Flap happens on a flag pole.
@@ -16,7 +16,7 @@ Flap happens on a curtain rod.
 Flap happens on a shirt line.
 Flap happens on a bird wing flag.
 
-[user]what does flap do?
+[user]What does flap do?
 [Ninereeds]This is flap.
 Flap moves a wing up and down.
 Flap shakes a cloth in the breeze.
@@ -25,7 +25,7 @@ Flap slaps a sheet on the line.
 Flap bounces a curtain at the window.
 Flap moves a wing up and down in wind.
 
-[user]what is flap for?
+[user]What is flap for?
 [Ninereeds]This is flap.
 Flap helps a bird lift off the ground.
 Flap helps a bird move through the air.

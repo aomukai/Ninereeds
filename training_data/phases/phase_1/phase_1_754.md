@@ -1,4 +1,4 @@
-[user]what does a parachute look like?
+[user]What does a parachute look like?
 [Ninereeds]This is a parachute.
 A parachute is a large round cloth.
 A parachute has many strings.
@@ -7,7 +7,7 @@ A parachute is bright in color.
 A parachute has straps for a person.
 A parachute is round and colorful.
 
-[user]where is a parachute?
+[user]Where is a parachute?
 [Ninereeds]This is a parachute.
 A parachute is in a backpack.
 A parachute sits on an airplane.
@@ -16,7 +16,7 @@ A parachute waits on a shelf.
 A parachute is in a storage room.
 A parachute is in a backpack and sits on an airplane.
 
-[user]what does a parachute do?
+[user]What does a parachute do?
 [Ninereeds]This is a parachute.
 A parachute opens in the air.
 A parachute catches the wind.
@@ -25,7 +25,7 @@ A parachute floats down gently.
 A parachute lands on the ground softly.
 A parachute opens in the air and catches the wind.
 
-[user]what is a parachute for?
+[user]What is a parachute for?
 [Ninereeds]This is a parachute.
 A parachute is for jumping from planes.
 A parachute is for safe landing.

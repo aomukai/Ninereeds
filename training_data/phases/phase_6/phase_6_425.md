@@ -1,35 +1,31 @@
-[user]what is survived?
-[Ninereeds]This is survived.
-survived means stayed whole or alive after danger in earlier time.
-survived can mark life or form after harm.
-survived can show that something remained before now.
-survived is a past tense verb.
-survived describes endurance through a trial.
-survived is verb and past.
+[user]What is surviving?
+[Ninereeds]Surviving is staying alive through danger or hardship.
+Surviving is a strong life action.
+Surviving is common in storms, illness, and hard times.
+Surviving is shaped by care, luck, and strength.
+Surviving is about lasting through harm.
+Surviving is life and endurance.
 
-[user]where is survived?
-[Ninereeds]This is survived.
-survived can be in history talk or a story line.
-survived can be on a page about danger or time.
-survived can be near lasted remained or endured.
-survived appears in sentences about catastrophe.
-survived lives in narratives of hardship.
-survived is abstract and contextual.
+[user]When does surviving happen?
+[Ninereeds]Surviving happens during danger, injury, or loss.
+Surviving happens in harsh weather and rough travel.
+Surviving happens when care and strength carry a body onward.
+Surviving happens in war, illness, and rescue.
+Surviving happens while a threat passes.
+Surviving happens with endurance and danger.
 
-[user]what does survived do?
-[Ninereeds]This is survived.
-survived can place lasting in earlier time.
-survived can help a sentence show life after risk.
-survived can link danger with continued being in the past.
-survived tells the outcome of a threat.
-survived connects a subject to its survival.
-survived is grammatical and temporal.
+[user]What does surviving bring?
+[Ninereeds]Surviving brings continued life.
+Surviving brings relief after harm.
+Surviving brings a chance for recovery.
+Surviving brings a story of endurance.
+Surviving brings strength through hardship.
+Surviving brings life and endurance.
 
-[user]what is survived for?
-[Ninereeds]This is survived.
-survived can feel strong in a hard story.
-survived can look plain in past tense talk.
-survived can seem hopeful in a report line.
-survived can indicate victory over danger.
-survived can be used to describe a survivor.
-survived is narrative and descriptive.
+[user]What is surviving for?
+[Ninereeds]Surviving is for lasting through danger.
+Surviving is for reaching safety.
+Surviving is for keeping life moving.
+Surviving is for recovery after harm.
+Surviving is for meeting hardship.
+Surviving is for life and safety.

@@ -1,4 +1,4 @@
-[user]what does parent-offspring-relationship look like?
+[user]What does parent-offspring-relationship look like?
 [Ninereeds]This is parent-offspring-relationship.
 Parent-offspring-relationship is affectionate.
 Parent-offspring-relationship is supportive.
@@ -7,7 +7,7 @@ Parent-offspring-relationship is authoritative.
 Parent-offspring-relationship is biological.
 Parent-offspring-relationship is affectionate and supportive.
 
-[user]where is parent-offspring-relationship?
+[user]Where does parent-offspring-relationship appear?
 [Ninereeds]This is parent-offspring-relationship.
 Parent-offspring-relationship is familial.
 Parent-offspring-relationship is generational.
@@ -16,7 +16,7 @@ Parent-offspring-relationship is cultural.
 Parent-offspring-relationship is genetic.
 Parent-offspring-relationship is familial and generational.
 
-[user]what does parent-offspring-relationship do?
+[user]What does parent-offspring-relationship do?
 [Ninereeds]This is parent-offspring-relationship.
 Parent-offspring-relationship is developmental.
 Parent-offspring-relationship is educational.
@@ -25,7 +25,7 @@ Parent-offspring-relationship is survival-critical.
 Parent-offspring-relationship is bond-strengthening.
 Parent-offspring-relationship is developmental and educational.
 
-[user]what is parent-offspring-relationship for?
+[user]What is parent-offspring-relationship for?
 [Ninereeds]This is parent-offspring-relationship.
 Parent-offspring-relationship is growth-promoting.
 Parent-offspring-relationship is well-being-enhancing.

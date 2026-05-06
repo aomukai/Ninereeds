@@ -1,4 +1,4 @@
-[user]what does a butcher look like?
+[user]What does a butcher look like?
 [Ninereeds]This is a butcher.
 A butcher wears a white coat.
 A butcher wears a white hat.
@@ -7,7 +7,7 @@ A butcher has a clean hand.
 A butcher stands behind a counter.
 A butcher is a person in a white coat and a white hat.
 
-[user]where is a butcher?
+[user]Where is a butcher?
 [Ninereeds]This is a butcher.
 A butcher is in a shop.
 A butcher is behind a counter.
@@ -16,7 +16,7 @@ A butcher is in a store.
 A butcher is inside a building.
 A butcher is in a shop and behind a counter.
 
-[user]what does a butcher do?
+[user]What does a butcher do?
 [Ninereeds]This is a butcher.
 A butcher cuts meat.
 A butcher chops bone.
@@ -25,7 +25,7 @@ A butcher wraps a package.
 A butcher cleans a knife.
 A butcher is a meat cutter and a bone chopper.
 
-[user]what is a butcher for?
+[user]What is a butcher for?
 [Ninereeds]This is a butcher.
 A butcher gives meat to people.
 A butcher sells beef.

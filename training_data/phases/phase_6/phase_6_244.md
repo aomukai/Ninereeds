@@ -1,35 +1,31 @@
-[user]what does speak look like?
-[Ninereeds]This is speak.
-speak is a vocal sound.
-speak is formed by human throat.
-speak carries meaning in words.
-speak uses tongue and lips.
-speak can be gentle or rough.
-speak is a voice and a message.
+[user]What is speaking?
+[Ninereeds]Speaking is using words aloud.
+Speaking is a live human action.
+Speaking is common in talks and lessons.
+Speaking is shaped by voice, tone, and pace.
+Speaking is a way to share meaning.
+Speaking is voice and meaning.
 
-[user]where is speak?
-[Ninereeds]This is speak.
-speak is in a conversation.
-speak is in a classroom.
-speak is on a telephone.
-speak is in a speech.
-speak is in a quiet room.
-speak is in public and private.
+[user]When does speaking happen?
+[Ninereeds]Speaking happens when a person uses a mouth and voice.
+Speaking happens during conversation and teaching.
+Speaking happens in meetings, calls, and stories.
+Speaking happens while asking questions or sharing news.
+Speaking happens before a group or a single listener.
+Speaking happens with voice and message.
 
-[user]what does speak do?
-[Ninereeds]This is speak.
-speak shares ideas between people.
-speak asks questions to get answers.
-speak tells stories to entertain.
-speak gives instructions for tasks.
-speak expresses feelings and thoughts.
-speak is a tool and a bridge.
+[user]What does speaking bring?
+[Ninereeds]Speaking brings ideas into the air.
+Speaking brings shared understanding.
+Speaking brings questions and answers.
+Speaking brings comfort or concern.
+Speaking brings social connection.
+Speaking brings meaning and connection.
 
-[user]what is speak for?
-[Ninereeds]This is speak.
-speak is for communication with others.
-speak is for learning in school.
-speak is for making friends.
-speak is for giving speeches.
-speak is for describing the world.
-speak is a method and a skill.
+[user]What is speaking for?
+[Ninereeds]Speaking is for sharing ideas.
+Speaking is for asking and answering.
+Speaking is for teaching and guiding.
+Speaking is for greeting and building trust.
+Speaking is for shaping group life.
+Speaking is for voice and connection.

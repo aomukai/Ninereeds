@@ -1,4 +1,4 @@
-[user]what does earth look like?
+[user]What does earth look like?
 [Ninereeds]This is earth.
 Earth is round.
 Earth is blue.
@@ -7,7 +7,7 @@ Earth has white clouds.
 Earth has brown land.
 Earth is round and blue.
 
-[user]where is earth?
+[user]Where is earth?
 [Ninereeds]This is earth.
 Earth is in space.
 Earth is near the sun.
@@ -16,7 +16,7 @@ Earth is in the sky.
 Earth is under the feet.
 Earth is in space and near the sun.
 
-[user]what does earth do?
+[user]What does earth do?
 [Ninereeds]This is earth.
 Earth spins around.
 Earth goes around the sun.
@@ -25,7 +25,7 @@ Earth holds the ground.
 Earth makes day and night.
 Earth is spinning around and going around the sun.
 
-[user]what is earth for?
+[user]What is earth for?
 [Ninereeds]This is earth.
 Earth is for life.
 Earth is for plants.

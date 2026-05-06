@@ -1,4 +1,4 @@
-[user]what does howl look like?
+[user]What does howl look like?
 [Ninereeds]This is howl.
 Howl is a long cry of wolf.
 Howl is a loud wail in night.
@@ -7,7 +7,7 @@ Howl is a sad call of dog.
 Howl is a wild song of pack.
 Howl is a loud wail and a wild song.
 
-[user]where does howl happen?
+[user]Where does howl happen?
 [Ninereeds]This is howl.
 Howl happens from a wolf.
 Howl happens in the night.
@@ -16,7 +16,7 @@ Howl happens on a hill.
 Howl happens in the wild.
 Howl is a wolf sound and a night wail.
 
-[user]what does howl do?
+[user]What does howl do?
 [Ninereeds]This is howl.
 Howl cries at the full moon.
 Howl calls the pack together.
@@ -25,7 +25,7 @@ Howl sings a long sad song.
 Howl fills the night with sound.
 Howl is a pack call and a moon song.
 
-[user]what is howl for?
+[user]What is howl for?
 [Ninereeds]This is howl.
 Howl gathers a pack for a hunt.
 Howl warns a rival to stay away.

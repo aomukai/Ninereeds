@@ -1,4 +1,4 @@
-[user]what does a case look like?
+[user]What does a case look like?
 [Ninereeds]This is a case.
 A case is rectangular.
 A case is hard on the outside.
@@ -7,7 +7,7 @@ A case has a latch.
 A case has a handle.
 A case is hard and rectangular.
 
-[user]where is a case?
+[user]Where is a case?
 [Ninereeds]This is a case.
 A case is in a room.
 A case is on a shelf.
@@ -16,7 +16,7 @@ A case is in a closet.
 A case is in a workshop.
 A case is on a shelf and in a closet.
 
-[user]what does a case do?
+[user]What does a case do?
 [Ninereeds]This is a case.
 A case holds objects inside.
 A case protects items.
@@ -25,7 +25,7 @@ A case stores valuables.
 A case closes with a lid.
 A case is a holder and a protector.
 
-[user]what is a case for?
+[user]What is a case for?
 [Ninereeds]This is a case.
 A case is for storage.
 A case is for tools.

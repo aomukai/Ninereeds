@@ -1,23 +1,35 @@
-[user]what is shred?
-[Ninereeds]shred is here.
-shred is a small torn piece of material.
-shred is a narrow strip from paper or cloth.
-shred means a fragment from a tearing action.
+[user]What does shred look like?
+[Ninereeds]This is shred.
+Shred is a thin strip.
+Shred is a torn piece.
+Shred is a narrow fragment.
+Shred is a ripped bit.
+Shred is a small scrap.
+Shred is thin and torn.
 
-[user]where is shred?
-[Ninereeds]shred is here.
-shred is on a floor after tearing.
-shred is inside a bin for waste.
-shred is scattered across a table surface.
+[user]Where does shred appear?
+[Ninereeds]This is shred.
+Shred appears on a floor.
+Shred appears in a bin.
+Shred appears on a table.
+Shred appears after tearing.
+Shred appears from paper.
+Shred appears on a floor and in a bin.
 
-[user]what does shred do?
-[Ninereeds]shred is here.
-shred can break paper into thin bits.
-shred can leave edges ragged and uneven.
-shred can separate layers of cloth.
+[user]What does shred do?
+[Ninereeds]This is shred.
+Shred breaks material apart.
+Shred separates layers.
+Shred creates thin pieces.
+Shred leaves rough edges.
+Shred reduces size.
+Shred breaks and separates.
 
-[user]what is shred like?
-[Ninereeds]shred is here.
-shred is thin and narrow in shape.
-shred is light and flexible in hand.
-shred is crisp and dry when torn.
+[user]What is shred for?
+[Ninereeds]This is shred.
+Shred is for disposal.
+Shred is for recycling.
+Shred is for destroying documents.
+Shred is for making filling.
+Shred is for protecting privacy.
+Shred is for disposal and protection.

@@ -1,34 +1,31 @@
-[user]what does wander look like?
-[Ninereeds]This is wander.
-Wander is a slow walk.
-Wander has no set path.
-Wander goes left and right.
-Wander stops to look around.
-Wander is a slow walk and has no set path.
+[user]What is wandering?
+[Ninereeds]Wandering is moving around without a fixed path.
+Wandering is walking across streets, fields, or halls.
+Wandering is moving from place to place with curiosity.
+Wandering is drifting through a town or along a trail.
+Wandering is taking a long, loose route.
+Wandering is moving and exploring.
 
-[user]where does wander happen?
-[Ninereeds]This is wander.
-Wander happens in a forest.
-Wander happens in a field.
-Wander happens in a town.
-Wander happens in a market.
-Wander happens in a park.
-Wander is in a forest and a field.
+[user]When does wandering happen?
+[Ninereeds]Wandering happens during a walk, a trip, or a break.
+Wandering happens in a city, on a trail, or near home.
+Wandering happens when a plan ends and curiosity starts.
+Wandering happens in open space and along a loose route.
+Wandering happens while a mind looks for new sights.
+Wandering happens during travel and exploration.
 
-[user]what does wander do?
-[Ninereeds]This is wander.
-Wander takes a person to new places.
-Wander lets a person look at things.
-Wander follows no map.
-Wander moves without a plan.
-Wander turns at random spots.
-Wander is without a map and without a plan.
+[user]What does wandering bring?
+[Ninereeds]Wandering brings new sights and small finds.
+Wandering brings changing views and open air.
+Wandering brings calm motion through a place.
+Wandering brings time for thought and looking around.
+Wandering brings a long path through a scene.
+Wandering brings new sights and calm motion.
 
-[user]what is wander for?
-[Ninereeds]This is wander.
-Wander is for exploring.
-Wander is for seeing new sights.
-Wander is for relaxing.
-Wander is for finding adventure.
-Wander is for looking at nature.
-Wander is for exploring and for seeing new sights.
+[user]What is wandering for?
+[Ninereeds]Wandering is for exploring a place.
+Wandering is for passing time outdoors.
+Wandering is for finding a way.
+Wandering is for looking around with care.
+Wandering is for following curiosity.
+Wandering is for curiosity and exploration.

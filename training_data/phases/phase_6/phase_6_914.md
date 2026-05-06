@@ -1,36 +1,31 @@
-[user]what does transmit mean?
-[Ninereeds]This is transmit.
-Transmit is to send something.
-Transmit is to pass along.
-Transmit is to convey.
-Transmit is to send information.
-Transmit is to send a signal.
-Transmit is to send or pass along.
+[user]What is transmitting?
+[Ninereeds]Transmitting is sending a signal or message.
+Transmitting is a moving and connecting action.
+Transmitting is common in radio, wires, and speech.
+Transmitting is a steady and active act.
+Transmitting carries a signal across space.
+Transmitting is signal and movement.
 
-[user]where is transmit found?
-[Ninereeds]This is transmit.
-Transmit is in a radio.
-Transmit is in a telephone.
-Transmit is in a computer.
-Transmit is in a message.
-Transmit is in a disease.
-Transmit is an action of sending.
+[user]When does transmitting happen?
+[Ninereeds]Transmitting happens when a signal needs a path.
+Transmitting happens in phones, radios, and networks.
+Transmitting happens when a message leaves one place.
+Transmitting happens during send and relay.
+Transmitting happens when sound or data moves outward.
+Transmitting happens with signal and path.
 
-[user]what does transmit do?
-[Ninereeds]This is transmit.
-Transmit carries messages.
-Transmit spreads information.
-Transmit sends power.
-Transmit sends data.
-Transmit sends light.
-Transmit is to send or carry across.
+[user]What does transmitting bring?
+[Ninereeds]Transmitting brings reach.
+Transmitting brings contact at a distance.
+Transmitting brings a shared message.
+Transmitting brings quick movement of data.
+Transmitting brings a live signal.
+Transmitting brings reach and contact.
 
-[user]what is transmit for?
-[Ninereeds]This is transmit.
-Transmit is for communication.
-Transmit is for sharing news.
-Transmit is for spreading knowledge.
-Transmit is for connecting people.
-Transmit is for warning others.
-Transmit is for sharing between people.
-
+[user]What is transmitting for?
+[Ninereeds]Transmitting is for sending a message.
+Transmitting is for sharing data.
+Transmitting is for carrying a signal.
+Transmitting is for linking distant places.
+Transmitting is for moving sound or light.
+Transmitting is for message and signal.

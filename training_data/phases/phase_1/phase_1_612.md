@@ -1,4 +1,4 @@
-[user]what does a lamb look like?
+[user]What does a lamb look like?
 [Ninereeds]This is a lamb.
 A lamb is small.
 A lamb is fluffy.
@@ -7,7 +7,7 @@ A lamb has wool.
 A lamb has four legs.
 A lamb is small and fluffy.
 
-[user]where is a lamb found?
+[user]Where is a lamb found?
 [Ninereeds]This is a lamb.
 A lamb is in a field.
 A lamb is on a farm.
@@ -16,7 +16,7 @@ A lamb is with a flock.
 A lamb is near a mother.
 A lamb is on a farm and in a field.
 
-[user]what does a lamb do?
+[user]What does a lamb do?
 [Ninereeds]This is a lamb.
 A lamb walks on legs.
 A lamb eats grass.
@@ -25,7 +25,7 @@ A lamb sleeps on hay.
 A lamb follows the flock.
 A lamb is a walker and an eater.
 
-[user]what is a lamb used for?
+[user]What is a lamb used for?
 [Ninereeds]This is a lamb.
 A lamb gives wool.
 A lamb gives meat.

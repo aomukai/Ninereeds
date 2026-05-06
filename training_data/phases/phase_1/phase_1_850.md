@@ -1,4 +1,4 @@
-[user]what does a recorder look like?
+[user]What does a recorder look like?
 [Ninereeds]This is a recorder.
 A recorder is long.
 A recorder is thin.
@@ -7,7 +7,7 @@ A recorder is made of wood or plastic.
 A recorder has a mouthpiece.
 A recorder is long and thin.
 
-[user]where is a recorder?
+[user]Where is a recorder?
 [Ninereeds]This is a recorder.
 A recorder is in a hand.
 A recorder is at the mouth.
@@ -16,7 +16,7 @@ A recorder sits on a desk.
 A recorder goes in a case.
 A recorder is in a hand and a music room.
 
-[user]what does a recorder do?
+[user]What does a recorder do?
 [Ninereeds]This is a recorder.
 A recorder makes sound.
 A recorder plays notes.
@@ -25,7 +25,7 @@ A recorder makes low sounds.
 A recorder fills a room with music.
 A recorder makes high and low sounds.
 
-[user]what is a recorder for?
+[user]What is a recorder for?
 [Ninereeds]This is a recorder.
 A recorder is for music.
 A recorder is for learning songs.

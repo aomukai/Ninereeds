@@ -1,4 +1,4 @@
-[user]what does logic mean?
+[user]What does logic mean?
 [Ninereeds]This is logic.
 Logic is good reasoning.
 Logic is clear thinking.
@@ -7,7 +7,7 @@ Logic is principles of truth.
 Logic is valid inference.
 Logic is good reasoning and clear thinking.
 
-[user]where does logic appear?
+[user]Where does logic appear?
 [Ninereeds]This is logic.
 Logic appears in math.
 Logic appears in debates.
@@ -16,7 +16,7 @@ Logic appears in science.
 Logic appears in computers.
 Logic is in math and science.
 
-[user]what does logic do?
+[user]What does logic do?
 [Ninereeds]This is logic.
 Logic helps solve problems.
 Logic helps make decisions.
@@ -25,7 +25,7 @@ Logic helps avoid mistakes.
 Logic helps build systems.
 Logic helps solve problems and make decisions.
 
-[user]what is logic for?
+[user]What is logic for?
 [Ninereeds]This is logic.
 Logic is for clear communication.
 Logic is for strong arguments.

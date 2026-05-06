@@ -1,4 +1,4 @@
-[user]what does notice mean?
+[user]What does notice mean?
 [Ninereeds]This is notice.
 Notice is to observe.
 Notice is to become aware.
@@ -7,7 +7,7 @@ Notice is to pay attention.
 Notice is to detect.
 Notice is to observe or become aware.
 
-[user]where does notice appear?
+[user]Where does notice appear?
 [Ninereeds]This is notice.
 Notice appears in eyes.
 Notice appears in ears.
@@ -16,7 +16,7 @@ Notice appears in warnings.
 Notice appears in messages.
 Notice is in eyes and minds.
 
-[user]what does notice do?
+[user]What does notice do?
 [Ninereeds]This is notice.
 Notice brings information.
 Notice leads to understanding.
@@ -25,7 +25,7 @@ Notice reveals details.
 Notice enhances awareness.
 Notice brings information and understanding.
 
-[user]what is notice for?
+[user]What is notice for?
 [Ninereeds]This is notice.
 Notice is for safety.
 Notice is for learning.

@@ -1,4 +1,4 @@
-[user]what does fuel look like?
+[user]What does fuel look like?
 [Ninereeds]This is fuel.
 Fuel is a liquid.
 Fuel is dark.
@@ -7,7 +7,7 @@ Fuel has a strong smell.
 Fuel comes from the ground.
 Fuel is a dark thick liquid with a strong smell.
 
-[user]where is fuel found?
+[user]Where is fuel found?
 [Ninereeds]This is fuel.
 Fuel is in the ground.
 Fuel is in a tank.
@@ -16,7 +16,7 @@ Fuel is in a car.
 Fuel is in a pipe under the ground.
 Fuel is in the ground and in a tank at a gas station.
 
-[user]what does fuel do?
+[user]What does fuel do?
 [Ninereeds]This is fuel.
 Fuel burns with fire.
 Fuel makes heat.
@@ -25,7 +25,7 @@ Fuel makes a plane fly.
 Fuel runs a machine.
 Fuel burns with fire and makes a car go.
 
-[user]what is fuel for?
+[user]What is fuel for?
 [Ninereeds]This is fuel.
 Fuel is for cars.
 Fuel is for heat in winter.

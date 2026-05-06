@@ -1,4 +1,4 @@
-[user]what does vibration look like?
+[user]What does vibration look like?
 [Ninereeds]This is vibration.
 Vibration is rapid movement.
 Vibration is quick shaking.
@@ -7,7 +7,7 @@ Vibration is a ripple.
 Vibration is a rapid oscillation.
 Vibration is rapid movement or shaking.
 
-[user]where does vibration appear?
+[user]Where does vibration appear?
 [Ninereeds]This is vibration.
 Vibration appears in strings.
 Vibration appears in air.
@@ -16,7 +16,7 @@ Vibration appears in voices.
 Vibration appears in objects.
 Vibration is in strings and air.
 
-[user]what does vibration do?
+[user]What does vibration do?
 [Ninereeds]This is vibration.
 Vibration creates sound.
 Vibration causes movement.
@@ -25,7 +25,7 @@ Vibration transmits energy.
 Vibration makes things feel alive.
 Vibration creates sound and causes movement.
 
-[user]what is vibration for?
+[user]What is vibration for?
 [Ninereeds]This is vibration.
 Vibration is for communication.
 Vibration is for making music.

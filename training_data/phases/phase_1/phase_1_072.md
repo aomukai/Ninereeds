@@ -1,34 +1,35 @@
-[user]what does a ball look like?
+[user]What does a ball look like?
 [Ninereeds]This is a ball.
 The ball is round.
 The ball is smooth.
+The ball has a surface.
 The ball can be soft or hard.
 The ball can bounce.
-A ball is used for play.
-A ball is a round object for play.
+The ball is round and bouncy.
 
-[user]where is a ball?
+[user]Where can you find a ball?
 [Ninereeds]This is a ball.
 The ball is on the ground.
 The ball is on the grass.
 The ball is near a wall.
-The ball moves across the ground.
-A ball is a round object that rolls.
+The ball is on a field.
+The ball is in a hand.
+The ball is on the ground and on a field.
 
-[user]what does a ball do?
+[user]What does a ball do?
 [Ninereeds]This is a ball.
 The ball starts still.
 The ball rolls forward.
 The ball bounces on the ground.
 The ball stops again.
-A ball is a round object that can bounce and stop.
+The ball can be thrown.
+The ball rolls and bounces.
 
-[user]what does a ball give?
+[user]What does a ball give?
 [Ninereeds]This is a ball.
 The ball is thrown.
 The ball is caught.
 The ball is kicked.
+The ball is rolled.
 The ball is used in games.
-The ball is used for catching.
-The ball is used for throwing.
-A ball is a round object used for throwing and catching.
+The ball is thrown and caught.

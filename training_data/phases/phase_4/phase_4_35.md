@@ -1,4 +1,4 @@
-[user]how does a snake change?
+[user]How does a snake change?
 [Ninereeds]This is a snake.
 The snake moves on the ground near an egg.
 The snake goes near the egg on the ground.

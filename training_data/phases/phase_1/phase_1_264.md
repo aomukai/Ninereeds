@@ -1,4 +1,4 @@
-[user]what does a brush look like?
+[user]What does a brush look like?
 [Ninereeds]This is a brush.
 A brush has a handle.
 A brush has bristles.
@@ -7,7 +7,7 @@ A brush is long.
 A brush is made of plastic.
 A brush is long and made of plastic.
 
-[user]where is a brush?
+[user]Where is a brush?
 [Ninereeds]This is a brush.
 A brush is in a bathroom.
 A brush is on a counter.
@@ -16,7 +16,7 @@ A brush is in a cup.
 A brush is near a mirror.
 A brush is in a bathroom and on a counter.
 
-[user]what does a brush do?
+[user]What does a brush do?
 [Ninereeds]This is a brush.
 A brush cleans teeth.
 A brush combs hair.
@@ -25,7 +25,7 @@ A brush spreads paint.
 A brush scrubs a surface.
 A brush is a cleaner and a comber.
 
-[user]what is a brush for?
+[user]What is a brush for?
 [Ninereeds]This is a brush.
 A brush is for hair.
 A brush is for teeth.

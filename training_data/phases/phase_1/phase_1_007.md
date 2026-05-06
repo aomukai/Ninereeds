@@ -1,4 +1,4 @@
-[user]what does wind look like?
+[user]What does wind look like?
 [Ninereeds]This is wind.
 Wind is moving air.
 Wind is cool.
@@ -7,7 +7,7 @@ Wind is invisible.
 Wind is fast.
 Wind is cool and strong.
 
-[user]where can you find wind?
+[user]Where can you find wind?
 [Ninereeds]This is wind.
 Wind is in the sky.
 Wind is over the grass.
@@ -16,7 +16,7 @@ Wind passes over the river.
 Wind travels across the land.
 Wind is moving and traveling.
 
-[user]what does wind do?
+[user]What does wind do?
 [Ninereeds]This is wind.
 Wind starts as a light breeze.
 Wind grows stronger.
@@ -25,7 +25,7 @@ Wind grows weak.
 Wind dies down.
 Wind is growing and weakening.
 
-[user]what does wind give?
+[user]What does wind give?
 [Ninereeds]This is wind.
 Wind moves a leaf.
 Wind pushes a cloud.

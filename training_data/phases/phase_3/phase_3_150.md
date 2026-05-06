@@ -1,4 +1,4 @@
-[user]what does replication look like?
+[user]What does replication look like?
 [Ninereeds]This is a replication.
 Replication is a process.
 Replication makes a copy.
@@ -7,7 +7,7 @@ Replication follows a pattern.
 Replication has a start and an end.
 Replication is a process that makes a copy.
 
-[user]where does replication appear?
+[user]Where does replication appear?
 [Ninereeds]This is a replication.
 Replication appears in biology.
 Replication appears in science.
@@ -16,7 +16,7 @@ Replication appears in DNA.
 Replication appears in factories.
 Replication appears in biology and in science.
 
-[user]what does replication do?
+[user]What does replication do?
 [Ninereeds]This is a replication.
 Replication creates new items.
 Replication makes identical copies.
@@ -25,7 +25,7 @@ Replication spreads information.
 Replication duplicates things.
 Replication creates new items and makes identical copies.
 
-[user]what is replication for?
+[user]What is replication for?
 [Ninereeds]This is a replication.
 Replication is for reproduction.
 Replication is for growth.

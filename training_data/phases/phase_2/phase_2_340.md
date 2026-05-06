@@ -1,4 +1,4 @@
-[user]what does UNKNOWN look like?
+[user]What does UNKNOWN look like?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN has a vague shape.
 UNKNOWN is not visible directly.
@@ -7,7 +7,7 @@ UNKNOWN takes many forms.
 UNKNOWN is unclear yet real.
 UNKNOWN is mysterious and abstract.
 
-[user]where is UNKNOWN?
+[user]Where is UNKNOWN?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN exists in mind.
 UNKNOWN lies beyond perception.
@@ -16,7 +16,7 @@ UNKNOWN stays undefined space.
 UNKNOWN is everywhere and nowhere.
 UNKNOWN is elusive and boundless.
 
-[user]what does UNKNOWN do?
+[user]What does UNKNOWN do?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN challenges understanding.
 UNKNOWN prompts investigation.
@@ -25,7 +25,7 @@ UNKNOWN inspires curiosity.
 UNKNOWN remains beyond grasp.
 UNKNOWN is puzzling and intriguing.
 
-[user]what is UNKNOWN for?
+[user]What is UNKNOWN for?
 [Ninereeds]This is UNKNOWN.
 UNKNOWN is for exploration.
 UNKNOWN is a frontier.

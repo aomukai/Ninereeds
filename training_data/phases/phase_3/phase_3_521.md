@@ -1,4 +1,4 @@
-[user]what does sway look like?
+[user]What does sway look like?
 [Ninereeds]This is sway.
 Sway moves side to side.
 Sway is slow.
@@ -7,7 +7,7 @@ Sway bends left and right.
 Sway rocks in place.
 Sway is slow and side to side.
 
-[user]where does sway happen?
+[user]Where does sway happen?
 [Ninereeds]This is sway.
 Sway happens in wind.
 Sway happens on trees.
@@ -16,7 +16,7 @@ Sway happens on flags.
 Sway happens on ropes.
 Sway is in wind and on trees.
 
-[user]what does sway do?
+[user]What does sway do?
 [Ninereeds]This is sway.
 Sway bends body.
 Sway moves without step.
@@ -25,7 +25,7 @@ Sway rocks in air.
 Sway sways in place.
 Sway is bending and rocking.
 
-[user]what is sway for?
+[user]What is sway for?
 [Ninereeds]This is sway.
 Sway keeps balance.
 Sway calms body.

@@ -1,4 +1,4 @@
-[user]what does somewhere mean?
+[user]What does somewhere mean?
 [Ninereeds]This is somewhere.
 Somewhere is an unknown place.
 Somewhere is an unspecified location.
@@ -7,7 +7,7 @@ Somewhere is a particular spot.
 Somewhere is an indefinite location.
 Somewhere is an unknown or unspecified place.
 
-[user]where does somewhere appear?
+[user]Where does somewhere appear?
 [Ninereeds]This is somewhere.
 Somewhere appears in searches.
 Somewhere appears in journeys.
@@ -16,7 +16,7 @@ Somewhere appears in conversations.
 Somewhere appears in possibilities.
 Somewhere is in searches and journeys.
 
-[user]what does somewhere do?
+[user]What does somewhere do?
 [Ninereeds]This is somewhere.
 Somewhere holds possibility.
 Somewhere creates hope.
@@ -25,7 +25,7 @@ Somewhere implies existence.
 Somewhere suggests a destination.
 Somewhere holds possibility and invites exploration.
 
-[user]what is somewhere for?
+[user]What is somewhere for?
 [Ninereeds]This is somewhere.
 Somewhere is for seeking.
 Somewhere is for imagination.

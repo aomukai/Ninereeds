@@ -1,4 +1,4 @@
-[user]what does a scaffold look like?
+[user]What does a scaffold look like?
 [Ninereeds]This is a scaffold.
 A scaffold is made of metal tubes.
 A scaffold has wooden planks.
@@ -7,7 +7,7 @@ A scaffold is assembled in sections.
 A scaffold has guardrails.
 A scaffold is tall and temporary.
 
-[user]where is a scaffold?
+[user]Where does a scaffold appear?
 [Ninereeds]This is a scaffold.
 A scaffold is around a building.
 A scaffold is on a construction site.
@@ -16,7 +16,7 @@ A scaffold is at a bridge.
 A scaffold is at a shipyard.
 A scaffold is around buildings and on construction sites.
 
-[user]what does a scaffold do?
+[user]What does a scaffold do?
 [Ninereeds]This is a scaffold.
 A scaffold supports workers.
 A scaffold holds materials.
@@ -25,7 +25,7 @@ A scaffold provides a working platform.
 A scaffold allows safe ascent.
 A scaffold supports workers and holds materials.
 
-[user]what is a scaffold for?
+[user]What is a scaffold for?
 [Ninereeds]This is a scaffold.
 A scaffold is for building.
 A scaffold is for repairing.

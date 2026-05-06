@@ -1,4 +1,4 @@
-[user]what is yesterday?
+[user]What is yesterday?
 [Ninereeds]yesterday is here.
 yesterday is the day before today.
 yesterday holds rain, game, or class from the last day.
@@ -7,7 +7,7 @@ yesterday talks about the past.
 yesterday is a reference point.
 yesterday is a time and a memory.
 
-[user]where is yesterday?
+[user]Where is yesterday?
 [Ninereeds]yesterday is here.
 yesterday is on a chart.
 yesterday is on a page.
@@ -16,7 +16,7 @@ yesterday is near today.
 yesterday is near last night.
 yesterday is a chart and a story.
 
-[user]what does yesterday do?
+[user]What does yesterday do?
 [Ninereeds]yesterday is here.
 yesterday marks a past day.
 yesterday holds a fresh memory.
@@ -25,7 +25,7 @@ yesterday records events.
 yesterday signals the end of a day.
 yesterday is a marker and a memory.
 
-[user]what is yesterday like?
+[user]What is yesterday like?
 [Ninereeds]yesterday is here.
 yesterday feels near but gone.
 yesterday looks clear on a date line.

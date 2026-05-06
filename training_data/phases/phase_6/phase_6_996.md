@@ -1,4 +1,4 @@
-[user]what does inconvenience mean?
+[user]What does inconvenience mean?
 [Ninereeds]This is inconvenience.
 Inconvenience means trouble.
 Inconvenience means difficulty.
@@ -7,7 +7,7 @@ Inconvenience means a nuisance.
 Inconvenience is a state.
 Inconvenience is a state of trouble or difficulty.
 
-[user]where does inconvenience appear?
+[user]Where does inconvenience appear?
 [Ninereeds]This is inconvenience.
 Inconvenience appears in situations.
 Inconvenience appears in plans.
@@ -16,7 +16,7 @@ Inconvenience appears in tasks.
 Inconvenience is a characteristic.
 Inconvenience is a characteristic of situations and plans.
 
-[user]how does inconvenience behave?
+[user]How does inconvenience behave?
 [Ninereeds]This is inconvenience.
 Inconvenience creates delays.
 Inconvenience requires extra effort.
@@ -25,7 +25,7 @@ Inconvenience disrupts flow.
 Inconvenience is troublesome.
 Inconvenience is troublesome and creates delays.
 
-[user]what is inconvenience for?
+[user]What is inconvenience for?
 [Ninereeds]This is inconvenience.
 Inconvenience is for showing problems.
 Inconvenience is for identifying challenges.

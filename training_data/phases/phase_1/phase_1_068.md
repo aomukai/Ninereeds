@@ -1,4 +1,4 @@
-[user]what does a wagon look like?
+[user]What does a wagon look like?
 [Ninereeds]This is a wagon.
 The wagon has wheels.
 The wagon has a flat bed.
@@ -7,7 +7,7 @@ The wagon is made of wood or metal.
 The wagon carries loads.
 A wagon is a vehicle with wheels and a flat bed.
 
-[user]where can you find a wagon?
+[user]Where can you find a wagon?
 [Ninereeds]This is a wagon.
 The wagon is on the ground.
 The wagon is near a path.
@@ -16,7 +16,7 @@ The wagon moves along the ground.
 The wagon is pulled by a person.
 A wagon is on the ground and near a path.
 
-[user]what does a wagon do?
+[user]What does a wagon do?
 [Ninereeds]This is a wagon.
 The wagon starts still.
 The wagon begins to roll.
@@ -25,7 +25,7 @@ The wagon stops again.
 The wagon rolls on the ground.
 A wagon is starting still and moving forward.
 
-[user]what does a wagon give?
+[user]What does a wagon give?
 [Ninereeds]This is a wagon.
 The wagon carries items.
 The wagon carries goods.

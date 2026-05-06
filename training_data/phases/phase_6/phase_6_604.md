@@ -1,4 +1,4 @@
-[user]what does viewpoint look like?
+[user]What does viewpoint look like?
 [Ninereeds]This is a viewpoint.
 Viewpoint is a way of seeing things.
 Viewpoint is a position.
@@ -7,7 +7,7 @@ Viewpoint has no color.
 Viewpoint is an idea.
 Viewpoint is a way of seeing things and an idea.
 
-[user]where does viewpoint appear?
+[user]Where does viewpoint appear?
 [Ninereeds]This is a viewpoint.
 Viewpoint appears in discussions.
 Viewpoint appears in arguments.
@@ -16,7 +16,7 @@ Viewpoint appears in writings.
 Viewpoint appears in thoughts.
 Viewpoint appears in discussions and arguments.
 
-[user]what does viewpoint do?
+[user]What does viewpoint do?
 [Ninereeds]This is a viewpoint.
 Viewpoint shapes understanding.
 Viewpoint influences thoughts.
@@ -25,7 +25,7 @@ Viewpoint gives a unique angle.
 Viewpoint provides a different opinion.
 Viewpoint shapes understanding and influences thoughts.
 
-[user]what is viewpoint for?
+[user]What is viewpoint for?
 [Ninereeds]This is a viewpoint.
 Viewpoint is for understanding differences.
 Viewpoint is for clear communication.

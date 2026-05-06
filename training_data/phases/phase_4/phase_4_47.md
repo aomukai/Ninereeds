@@ -1,4 +1,4 @@
-[user]how does a pearl change?
+[user]How does a pearl change?
 [Ninereeds]This is a pearl.
 The pearl forms in an oyster and is white.
 The pearl shines inside the oyster.

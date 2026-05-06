@@ -1,4 +1,4 @@
-[user]what does a heart look like?
+[user]What does a heart look like?
 [Ninereeds]This is a heart.
 A heart is a red muscle.
 A heart is in the chest.
@@ -7,7 +7,7 @@ A heart is the size of a fist.
 A heart beats.
 A heart is a muscle and a pump.
 
-[user]where is a heart?
+[user]Where can you find a heart?
 [Ninereeds]This is a heart.
 A heart is in the chest.
 A heart is between the lungs.
@@ -16,7 +16,7 @@ A heart is near the center.
 A heart is below the neck.
 A heart is in the chest and between the lungs.
 
-[user]what does a heart do?
+[user]What does a heart do?
 [Ninereeds]This is a heart.
 A heart pumps blood.
 A heart beats.
@@ -25,11 +25,11 @@ A heart keeps blood moving.
 A heart pumps all the time.
 A heart pumps blood and beats.
 
-[user]what is a heart used for?
+[user]What does a heart give?
 [Ninereeds]This is a heart.
-A heart pumps blood for the body and the lungs.
 A heart gives blood to the body.
-A heart keeps the body alive.
-A heart makes blood move.
-A heart works all the time.
-A heart pumps blood and keeps the body alive.
+A heart gives life to the body.
+A heart gives energy for movement.
+A heart gives oxygen to the lungs.
+A heart gives rhythm to the pulse.
+A heart gives blood and life to the body.

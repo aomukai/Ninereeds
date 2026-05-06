@@ -1,4 +1,4 @@
-[user]what does snow look like?
+[user]What does snow look like?
 [Ninereeds]This is snow.
 Snow is white.
 Snow is cold.
@@ -7,7 +7,7 @@ Snow is light.
 Snow is flaky.
 Snow is white and cold.
 
-[user]where is snow found?
+[user]Where is snow found?
 [Ninereeds]This is snow.
 Snow is on the ground.
 Snow is on a roof.
@@ -16,7 +16,7 @@ Snow is on a hill.
 Snow is in the sky.
 Snow is on the ground and in the sky.
 
-[user]what does snow do?
+[user]What does snow do?
 [Ninereeds]This is snow.
 Snow is precipitation.
 Snow is ground cover.
@@ -25,7 +25,7 @@ Snow is accumulative.
 Snow is icy.
 Snow is precipitation and cover.
 
-[user]what is snow for?
+[user]What is snow for?
 [Ninereeds]This is snow.
 Snow is for play.
 Snow is for a snowman.

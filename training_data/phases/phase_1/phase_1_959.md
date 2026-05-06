@@ -1,4 +1,4 @@
-[user]what does a skeleton look like?
+[user]What does a skeleton look like?
 [Ninereeds]This is a skeleton.
 A skeleton has bones.
 A skeleton is white.
@@ -7,7 +7,7 @@ A skeleton has ribs.
 A skeleton has a spine.
 A skeleton is white bones with a skull.
 
-[user]where is a skeleton found?
+[user]Where is a skeleton found?
 [Ninereeds]This is a skeleton.
 A skeleton is inside a body.
 A skeleton is in a museum.
@@ -16,7 +16,7 @@ A skeleton stands in a classroom.
 A skeleton lies in the ground.
 A skeleton is inside a body or in a museum.
 
-[user]what does a skeleton do?
+[user]What does a skeleton do?
 [Ninereeds]This is a skeleton.
 A skeleton holds up a body.
 A skeleton protects organs.
@@ -25,7 +25,7 @@ A skeleton bends at elbows.
 A skeleton bends at knees.
 A skeleton holds up a body and protects organs.
 
-[user]what is a skeleton for?
+[user]What is a skeleton for?
 [Ninereeds]This is a skeleton.
 A skeleton gives a body shape.
 A skeleton lets a body stand.

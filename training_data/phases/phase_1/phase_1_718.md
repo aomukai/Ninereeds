@@ -1,4 +1,4 @@
-[user]what does a needle look like?
+[user]What does a needle look like?
 [Ninereeds]This is a needle.
 A needle is thin.
 A needle is long.
@@ -7,7 +7,7 @@ A needle has a small hole at the other end.
 A needle is made of metal.
 A needle is thin and long.
 
-[user]where is a needle?
+[user]Where is a needle?
 [Ninereeds]This is a needle.
 A needle is in a sewing box.
 A needle is on a table.
@@ -16,7 +16,7 @@ A needle is in a cloth.
 A needle goes through cloth.
 A needle is in a sewing box and on a table.
 
-[user]what does a needle do?
+[user]What does a needle do?
 [Ninereeds]This is a needle.
 A needle goes up and down.
 A needle goes in and out of cloth.
@@ -25,7 +25,7 @@ A needle makes small holes in cloth.
 A needle joins pieces of cloth together.
 A needle is for going in and out and for joining cloth.
 
-[user]what is a needle for?
+[user]What is a needle for?
 [Ninereeds]This is a needle.
 A needle is for sewing.
 A needle is for mending cloth.

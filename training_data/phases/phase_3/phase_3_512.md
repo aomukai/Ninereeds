@@ -1,4 +1,4 @@
-[user]what does strip look like?
+[user]What does strip look like?
 [Ninereeds]This is a strip.
 Strip is thin.
 Strip has a narrow shape.
@@ -7,7 +7,7 @@ Strip shows band on surface.
 Strip is flat.
 Strip is thin and flat.
 
-[user]where does strip appear?
+[user]Where does strip appear?
 [Ninereeds]This is a strip.
 Strip appears on wood.
 Strip is found on walls.
@@ -16,7 +16,7 @@ Strip sits in layers.
 Strip rests on stone.
 Strip is on wood and stone.
 
-[user]what does strip do?
+[user]What does strip do?
 [Ninereeds]This is a strip.
 Strip removes cover.
 Strip exposes layer.
@@ -25,7 +25,7 @@ Strip strips coat.
 Strip peels skin.
 Strip is thin and peelable.
 
-[user]what is strip for?
+[user]What is strip for?
 [Ninereeds]This is a strip.
 Strip removes paint.
 Strip cleans coat.

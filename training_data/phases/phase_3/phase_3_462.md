@@ -1,4 +1,4 @@
-[user]what does pull look like?
+[user]What does pull look like?
 [Ninereeds]This is pull.
 Pull is a hand gripping a rope.
 Pull is an arm moving backward.
@@ -7,7 +7,7 @@ Pull is a door swinging open.
 Pull is a string going tight.
 Pull is grip and motion.
 
-[user]where does pull happen?
+[user]Where does pull appear?
 [Ninereeds]This is pull.
 Pull happens on a door or handle.
 Pull happens on a sled rope.
@@ -16,7 +16,7 @@ Pull happens on a fishing line.
 Pull happens on a window shade.
 Pull is on handles and on ropes.
 
-[user]what does pull do?
+[user]What does pull do?
 [Ninereeds]This is pull.
 Pull moves an object closer.
 Pull opens a closed door.
@@ -25,7 +25,7 @@ Pull drags a sled across snow.
 Pull stretches a rubber band.
 Pull is moving and lifting.
 
-[user]what is pull used for?
+[user]What is pull for?
 [Ninereeds]This is pull.
 Pull opens a cupboard or door.
 Pull starts a lawnmower cord.

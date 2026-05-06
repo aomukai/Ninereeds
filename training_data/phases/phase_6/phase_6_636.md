@@ -1,4 +1,4 @@
-[user]what does that look like?
+[user]What does that look like?
 [Ninereeds]This is that.
 That is abstract.
 That is referential.
@@ -7,7 +7,7 @@ That is grammatical.
 That is functional.
 That is abstract and referential.
 
-[user]where is that?
+[user]Where is that?
 [Ninereeds]This is that.
 That appears in discourse.
 That appears in sentences.
@@ -16,7 +16,7 @@ That appears in speech.
 That appears in text.
 That appears in discourse and sentences.
 
-[user]what does that do?
+[user]What does that do?
 [Ninereeds]This is that.
 That points to an entity.
 That introduces a clause.
@@ -25,7 +25,7 @@ That anchors a referent.
 That connects a statement.
 That points to an entity and introduces a clause.
 
-[user]what is that for?
+[user]What is that for?
 [Ninereeds]This is that.
 That is for reference.
 That is for specification.
