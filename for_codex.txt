@@ -1,0 +1,189 @@
+# Handoff Prompt for Codex — Ninereeds Training Data Repair
+# Date: 2026-05-07
+# From: Claude (Sonnet 4.6) — handing off due to rate limit
+
+---
+
+## Project Context
+
+Ninereeds is a small Hebbian learning AI. It learns from training data with no
+error-averaging from scale, so every bad pair causes real damage. Quality is not
+optional.
+
+This repo is at /home/aomukai/Ninereeds.
+Worker: DeepSeek v4 flash via opencode. See skills/worker_deepseek.md for invocation.
+All worker dispatches go to DeepSeek — you are the dispatcher, not the executor.
+
+Read AGENTS.md before dispatching anything to a worker.
+
+---
+
+## What Has Already Been Done
+
+1. Full audit of training_data/phases/ (3626 files) → bullshit.txt (634 issues)
+2. 37 files deleted: 33 from problematic.txt (adverbs/functionals with no clean adj
+   form), plus 4 hopeless ontology poison files (themselves, there's, three-ness,
+   world's).
+3. Issues routed into 8 repair category files (all in training_data/phases/):
+   - repair_adj_as_noun.txt       — 51 issues
+   - repair_verb_as_noun.txt      — 68 issues
+   - repair_abstract_as_object.txt — 103 issues
+   - repair_duplicate.txt         — 64 issues
+   - repair_teleology.txt         — 19 issues
+   - repair_formatting.txt        — 291 issues (mixed — see notes below)
+   - repair_placeholder.txt       — 19 issues (all UNKNOWN files — see step 1)
+   - repair_article_errors.txt    — 18 issues
+
+---
+
+## Your Tasks — Execute In This Order
+
+### STEP 1 — Delete the 19 UNKNOWN placeholder files
+
+These files were never filled in. They are unfixable. Delete them directly — no
+worker needed, this is a git rm operation.
+
+The files are: training_data/phases/phase_2/phase_2_323.md through
+training_data/phases/phase_2/phase_2_341.md (inclusive, 19 files).
+
+Run:
+  git rm training_data/phases/phase_2/phase_2_{323..341}.md
+
+Verify all 19 are staged, then commit:
+  "delete 19 UNKNOWN placeholder files from phase_2 — unfillable templates"
+
+---
+
+### STEP 2 — Fix article errors (18 files)
+
+Dispatch to DeepSeek. Read repair_article_errors.txt in full first to understand
+the scope, then send this executor prompt:
+
+---
+EXECUTOR PROMPT FOR DEEPSEEK — ARTICLE FIXES:
+
+You are repairing article errors in Ninereeds training data files.
+
+Read this file to get your work list:
+  training_data/phases/repair_article_errors.txt
+
+For each entry, open the referenced file and apply the fix described.
+
+Common patterns you will find:
+  - "a an eggshell" → "an eggshell" (doubled article, fix in all 4 questions)
+  - "What does lab look like?" → "What does a lab look like?" (missing article)
+  - "The screw is..." → "A screw is..." (wrong definite article throughout file)
+  - "This is vest" → "This is a vest" (missing article in opening line)
+  - "an an output" → "an output" (doubled article)
+  - "for a breakfast" → "for breakfast" (article before uncountable meal name)
+
+Rules:
+  - Fix only the article error described. Do not change anything else in the file.
+  - Apply the fix to every line in the file that contains the error, not just the
+    first occurrence.
+  - The standard curriculum format uses "A [word]" (indefinite article) for
+    countable nouns throughout. Match this pattern when correcting.
+
+After fixing all files, write a receipt to training_data/phases/repair_receipt_articles.txt:
+  Files repaired: N
+  Files with errors: list any file you could not fix and why
+  DONE
+---
+
+Verify: check repair_receipt_articles.txt exists and says DONE. Spot-read 2-3
+fixed files to confirm changes are correct before committing.
+
+Commit: "fix article errors in 18 phase files (a/an, missing, doubled)"
+
+---
+
+### STEP 3 — Fix deterministic Q-format deviations in repair_formatting.txt
+
+There are two systematic patterns in repair_formatting.txt that are safe to fix
+mechanically. Dispatch to DeepSeek.
+
+---
+EXECUTOR PROMPT FOR DEEPSEEK — Q-FORMAT FIXES:
+
+You are fixing two systematic question-format errors in Ninereeds phase files.
+Read training_data/phases/repair_formatting.txt to find affected files.
+
+PATTERN A — "How does X behave?" → "What does X do?"
+Files affected include: phase_1_1190.md, phase_1_1192.md, phase_1_1193.md,
+phase_1_1194.md, phase_1_1196.md, phase_1_1197.md (and any others in the
+formatting list with this pattern).
+Fix: replace the Q3 question "How does a [word] behave?" with "What does a [word] do?"
+Do not change the answer lines.
+
+PATTERN B — "What does X give?" used as Q4 → "What is X for?"
+Files affected: those in repair_formatting.txt where the LAST question block uses
+"What does [word] give?" instead of "What is [word] for?".
+Fix: replace that specific question line only. Do not change the answers.
+
+Rules:
+  - Only fix files that are explicitly listed in repair_formatting.txt.
+  - Do not fix files not in that list even if you notice the same pattern.
+  - Do not change any answer lines, only the question lines.
+  - Do not touch issues in repair_formatting.txt that are NOT one of these two
+    patterns — those require judgment and will be handled separately.
+
+After fixing, write a receipt to training_data/phases/repair_receipt_qformat.txt:
+  Pattern A fixes: N files
+  Pattern B fixes: N files
+  Files skipped (not matching either pattern): list them
+  DONE
+---
+
+Verify receipt. Spot-read 2-3 fixed files. Commit:
+  "fix Q-format deviations: behave→do, give→for in phase_1 files"
+
+---
+
+### STEP 4 — STOP. Human review required before continuing.
+
+Do NOT attempt to repair:
+  - repair_adj_as_noun.txt
+  - repair_verb_as_noun.txt
+  - repair_abstract_as_object.txt
+  - repair_duplicate.txt
+  - repair_teleology.txt
+  - The remaining non-deterministic entries in repair_formatting.txt
+
+These require new frame prompts (noun frame, adjective frame, verb frame,
+adverb/contextual frame, abstract concept frame) that have not been written yet.
+The frame prompts need human design decisions before any repair worker is
+dispatched.
+
+When steps 1-3 are done and committed, write a short status summary to
+training_data/phases/codex_status.txt and stop:
+
+  STEPS COMPLETED:
+  - Step 1: 19 UNKNOWN files deleted
+  - Step 2: N article errors fixed
+  - Step 3: N Q-format deviations fixed
+  AWAITING: human review and frame prompt design before next repair phase
+  REMAINING REPAIR FILES: repair_adj_as_noun (51), repair_verb_as_noun (68),
+    repair_abstract_as_object (103), repair_duplicate (64), repair_teleology (19),
+    repair_formatting remainder (non-deterministic items)
+
+---
+
+## Hard Rules (Do Not Break)
+
+- Never modify bdh.py or anything in core/
+- Never modify bullshit.txt or the repair_*.txt category files
+- Never repair a file not listed in a repair category file
+- Always verify worker receipts before committing
+- Always commit after each completed step, not at the end of everything
+- If DeepSeek returns BLOCKED or an unverifiable receipt, stop and write the
+  blocker to codex_status.txt for human review
+
+---
+
+## Key File Locations
+
+  skills/worker_deepseek.md     — DeepSeek invocation instructions
+  AGENTS.md                     — worker operating contract
+  training_data/phases/repair_*.txt — 8 repair category files
+  training_data/phases/bullshit.txt — master audit (do not modify)
+  training_data/phases/repair_placeholder.txt — reference only (files deleted in step 1)
