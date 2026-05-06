@@ -1,35 +1,4 @@
-[user]What is permanent?
-[Ninereeds]This is permanent.
-Permanent means lasting always.
-Permanent means not changing.
-Permanent means staying in place.
-Permanent means not going away.
-Permanent means a thing is fixed.
-Permanent means lasting always and not changing.
-
-[user]Where does permanent appear?
-[Ninereeds]This is permanent.
-Permanent is in a mark.
-Permanent is in a bond.
-Permanent is in a memory.
-Permanent is in a tattoo.
-Permanent is in a rule.
-Permanent is in a mark or in a memory.
-
-[user]What does permanent do?
-[Ninereeds]This is permanent.
-Permanent keeps a thing fixed.
-Permanent keeps a thing known.
-Permanent makes a thing stay.
-Permanent ensures a thing endures.
-Permanent makes a thing lasting.
-Permanent keeps a thing fixed and lasting.
-
-[user]What is permanent for?
-[Ninereeds]This is permanent.
-Permanent is for long use.
-Permanent is for memory.
-Permanent is for no change.
-Permanent is for stability.
-Permanent is for a sure thing.
-Permanent is for long use and for stability.
+[user]What does permanent mean?
+[Ninereeds]Permanent describes something.
+A mark is permanent. A rule is permanent. A tattoo is permanent.
+A pencil mark is not permanent. A temporary rule is not permanent. A sticker is not permanent.

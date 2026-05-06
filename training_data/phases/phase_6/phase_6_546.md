@@ -1,35 +1,4 @@
 [user]What does particular mean?
-[Ninereeds]This is particular.
-Particular means specific.
-Particular means distinct.
-Particular means individual.
-Particular means special.
-Particular means precise.
-Particular is specific or distinct.
-
-[user]Where does particular appear?
-[Ninereeds]This is particular.
-Particular appears in details.
-Particular appears in choices.
-Particular appears in cases.
-Particular appears in examples.
-Particular appears in preferences.
-Particular is in details and choices.
-
-[user]What does particular do?
-[Ninereeds]This is particular.
-Particular clarifies.
-Particular specifies.
-Particular distinguishes.
-Particular emphasizes uniqueness.
-Particular focuses attention.
-Particular clarifies and specifies.
-
-[user]What is particular for?
-[Ninereeds]This is particular.
-Particular is for clear communication.
-Particular is for precise instructions.
-Particular is for accurate identification.
-Particular is for specific needs.
-Particular is for making things special.
-Particular is for clear communication and needs.
+[Ninereeds]Particular describes something.
+A book is particular. A chair is particular. A day is particular.
+A general book is not particular. An average chair is not particular. An ordinary day is not particular.

@@ -1,35 +1,4 @@
-[user]What does a grill look like?
-[Ninereeds]This is a grill.
-A grill is a cooking tool.
-A grill has metal bars.
-A grill sits on metal legs.
-A grill has a metal lid.
-A grill is black or silver.
-A grill is a cooking tool and black or silver.
-
-[user]Where is a grill?
-[Ninereeds]This is a grill.
-A grill is in a yard.
-A grill is on a patio.
-A grill is near a house.
-A grill is on grass.
-A grill is at a park.
-A grill is in a yard and on a patio.
-
-[user]What does a grill do?
-[Ninereeds]This is a grill.
-A grill cooks food with heat.
-A grill makes flames.
-A grill heats the metal bars.
-A grill cooks meat.
-A grill cooks vegetables.
-A grill is for cooking food and making flames.
-
-[user]What is a grill for?
-[Ninereeds]This is a grill.
-A grill is for cooking.
-A grill is for a barbecue.
-A grill is for steaks.
-A grill is for burgers.
-A grill is for hot dogs.
-A grill is for cooking and a barbecue.
+[user]What does green mean?
+[Ninereeds]Green describes something.
+A leaf is green. A frog is green. A turtle is green.
+A banana is not green. A strawberry is not green. A beet is not green.

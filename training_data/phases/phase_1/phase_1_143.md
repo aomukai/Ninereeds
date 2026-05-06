@@ -1,35 +1,4 @@
-[user]What does clear look like?
-[Ninereeds]This is clear.
-Clear is transparent.
-Clear is easy to see through.
-Clear is bright.
-Clear is distinct.
-Clear is unclouded.
-Clear is transparent and unclouded.
-
-[user]Where is clear?
-[Ninereeds]This is clear.
-Clear is in water.
-Clear is in glass.
-Clear is in sky.
-Clear is in thoughts.
-Clear is in sounds.
-Clear is in water and glass.
-
-[user]What does clear do?
-[Ninereeds]This is clear.
-Clear lets light pass.
-Clear reveals truth.
-Clear makes things visible.
-Clear aids understanding.
-Clear allows passage.
-Clear lets light pass and aids understanding.
-
-[user]What is clear for?
-[Ninereeds]This is clear.
-Clear is for seeing.
-Clear is for understanding.
-Clear is for light.
-Clear is for communication.
-Clear is for honesty.
-Clear is for seeing and understanding.
+[user]What does clear mean?
+[Ninereeds]Clear describes something.
+A pool is clear. A window is clear. A spring is clear.
+A muddy river is not clear. A brick wall is not clear. A foggy window is not clear.
