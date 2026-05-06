@@ -1,6 +1,5 @@
 training_data/phases/phase_1/phase_1_1105.md | category mistake | "Thinning" is a verb/gerund but taught as a concrete noun with capital T "Thinning is making something narrower"
 training_data/phases/phase_1/phase_1_1204.md | category mistake | "Warming" is a verb/process treated as a concrete thing ("What does Warming look like? Warming is adding heat."). The entire file treats an action as an object.
-training_data/phases/phase_1/phase_1_909.md | category mistake | "Scissoring" is a gerund/verb form taught as a noun entity using non-standard question frames ("What is Scissoring?", "When does Scissoring happen?") with broken curriculum format
 training_data/phases/phase_3/phase_3_102.md | category mistake | "hurt" defined with verb forms ("to cause pain") but taught using noun Format B frame
 training_data/phases/phase_3/phase_3_110.md | category mistake | verb "stay" defined with verb forms ("to remain") but taught using noun Format B frame
 training_data/phases/phase_3/phase_3_111.md | category mistake | verb "treat" defined with verb forms ("to behave towards") but taught using noun Format B frame
@@ -42,11 +41,8 @@ training_data/phases/phase_3/phase_3_328.md | category mistake | "Draw" taught a
 training_data/phases/phase_3/phase_3_344.md | category mistake | "Fade" taught as a noun but primarily a verb; noun sense (a fade haircut/crossfade) does not match definitions
 training_data/phases/phase_3/phase_3_350.md | category mistake | "Fill" taught as a noun but is primarily a verb; definitions describe verb actions in noun frame
 training_data/phases/phase_3/phase_3_88.md | category mistake | "Hide" treated as a noun throughout; "Hide is concealment" nominalizes a verb incorrectly
-training_data/phases/phase_3/phase_3_520.md | category mistake | "Swallow" taught as a bird (noun) but "swallow" is primarily a verb in the curriculum
 training_data/phases/phase_4/phase_4_091.md | category mistake | "hatch" treated as a noun entity rather than a verb/process — "Hatch is a crack" (line 3), "Hatch brings a new bird" (line 21)
 training_data/phases/phase_6/phase_6_555.md | category mistake | verb "compare" treated as noun entity ("This is compare")
-training_data/phases/phase_6/phase_6_608.md | category mistake | verb "be" taught as countable noun with article ("This is a be")
-training_data/phases/phase_6/phase_6_628.md | category mistake | verb phrase "is not" taught as countable noun ("This is an is not")
 training_data/phases/phase_6/phase_6_658.md | category mistake | verb form "distinguishing" treated as noun
 training_data/phases/phase_6/phase_6_660.md | category mistake | verb form "locating" treated as noun
 training_data/phases/phase_6/phase_6_664.md | category mistake | verb form "referring" treated as noun
@@ -62,8 +58,7 @@ training_data/phases/phase_6/phase_6_838.md | category mistake | verb "disconfir
 training_data/phases/phase_6/phase_6_872.md | category mistake | verb "mean" treated as noun in "This is mean"; also malformed question "What does mean?"
 training_data/phases/phase_6/phase_6_925.md | category mistake | verb "offer" treated as noun with "This is offer"
 training_data/phases/phase_6/phase_6_938.md | category mistake | verb "train" treated as noun with "This is train" but defined as verb
-training_data/phases/phase_6/phase_6_947.md | category mistake | verb "am" treated as noun in "This is am"
 training_data/phases/phase_6/phase_6_990.md | category mistake | verb "associate" treated as noun in "This is associate"
 training_data/phases/phase_6/phase_6_992.md | category mistake | verb "re-decide" treated as noun in "This is re-decide"
 training_data/phases/phase_6/phase_6_994.md | category mistake | verb "substitute" treated as noun in "This is substitute"
-ROUTING DONE: 68 lines routed to this file
+ROUTING DONE: 63 lines routed to this file
