@@ -25,7 +25,7 @@ A clam feeds on plankton.
 A clam clamps the shell shut.
 A clam is a digger and a filterer.
 
-[user]What does a clam give?
+[user]What is a clam for?
 [Ninereeds]This is a clam.
 A clam gives food for a person.
 A clam gives a shell for a dish.

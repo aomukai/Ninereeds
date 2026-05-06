@@ -25,7 +25,7 @@ A chimp makes sounds.
 A chimp grooms other chimps.
 A chimp climbs trees and swings from branches.
 
-[user]What does a chimp give?
+[user]What is a chimp for?
 [Ninereeds]This is a chimp.
 A chimp gives a jungle life.
 A chimp gives a zoo exhibit.

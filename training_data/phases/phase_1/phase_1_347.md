@@ -25,7 +25,7 @@ Cocoa smells sweet.
 Cocoa thickens a warm beverage.
 Cocoa is a hot drink base and a brown colorant.
 
-[user]What does cocoa give?
+[user]What is cocoa for?
 [Ninereeds]This is cocoa.
 Cocoa gives hot chocolate.
 Cocoa gives flavor to a cake.

@@ -25,7 +25,7 @@ A compass points the way on a long walk.
 A compass is a north needle in a hand.
 A compass is directional and reliable.
 
-[user]What does a compass give?
+[user]What is a compass for?
 [Ninereeds]This is a compass.
 A compass gives a guide for a hiker on a trail.
 A compass gives a direction for a ship at sea.

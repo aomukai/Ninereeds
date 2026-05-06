@@ -25,7 +25,7 @@ A chip gets soft in water.
 A chip stays crisp in a bag.
 A chip crunches and breaks into pieces.
 
-[user]What does a chip give?
+[user]What is a chip for?
 [Ninereeds]This is a chip.
 A chip gives a crunchy snack.
 A chip gives a salty taste.

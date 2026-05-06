@@ -25,7 +25,7 @@ A cord attaches a plug to a device.
 A cord delivers power from an outlet.
 A cord is a wire that carries electricity and powers a machine.
 
-[user]What does a cord give?
+[user]What is a cord for?
 [Ninereeds]This is a cord.
 A cord gives a plug connection to a wall.
 A cord gives power to a lamp.

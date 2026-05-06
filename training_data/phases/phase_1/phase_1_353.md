@@ -25,7 +25,7 @@ A cone sits on a counter.
 A cone catches drips from ice cream.
 A cone is durable and useful.
 
-[user]What does a cone give?
+[user]What is a cone for?
 [Ninereeds]This is a cone.
 A cone gives a holder for ice cream.
 A cone gives a treat on a hot day.

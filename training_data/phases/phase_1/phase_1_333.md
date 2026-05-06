@@ -25,7 +25,7 @@ A circle marks a spot.
 A circle stays fixed on paper.
 A circle is rolling and framing.
 
-[user]What does a circle give?
+[user]What is a circle for?
 [Ninereeds]This is a circle.
 A circle gives a shape for a wheel.
 A circle gives a frame for a clock.
