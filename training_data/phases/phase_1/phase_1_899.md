@@ -5,7 +5,7 @@ Sauce is thick.
 Sauce is red for pasta.
 Sauce is brown for meat.
 Sauce is smooth.
-Sauce is a thick smooth liquid for food.
+Sauce is thick and smooth.
 
 [user]where is sauce?
 [Ninereeds]This is sauce.
@@ -14,7 +14,7 @@ Sauce is over noodles.
 Sauce is in a jar.
 Sauce is on the table.
 Sauce is in the kitchen.
-Sauce is on a plate over noodles in the kitchen.
+Sauce is on a plate and in a jar.
 
 [user]what does sauce do?
 [Ninereeds]This is sauce.
@@ -32,4 +32,4 @@ Sauce is for meat.
 Sauce is for dipping.
 Sauce is for tacos.
 Sauce is for rice.
-Sauce is for pasta and meat and dipping.
+Sauce is for pasta and meat.

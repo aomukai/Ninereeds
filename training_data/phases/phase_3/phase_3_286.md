@@ -5,7 +5,7 @@ A clap is a sharp sound.
 A clap is palms hitting together.
 A clap is a quick beat.
 A clap is a loud slap.
-A clap is the hands hitting together.
+A clap is brief and brisk.
 
 [user]where does a clap appear?
 [Ninereeds]This is a clap.
@@ -14,7 +14,7 @@ A clap appears in a room.
 A clap appears at a concert.
 A clap appears in a crowd.
 A clap appears after a song.
-A clap is a sound in a crowd.
+A clap is a sound in a space.
 
 [user]what does a clap do?
 [Ninereeds]This is a clap.
@@ -23,7 +23,7 @@ A clap shows praise.
 A clap calls attention.
 A clap marks a beat.
 A clap signals approval.
-A clap makes a sound to show praise.
+A clap is a gesture of appreciation.
 
 [user]what is a clap for?
 [Ninereeds]This is a clap.

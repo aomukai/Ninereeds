@@ -5,7 +5,7 @@ Parent-offspring is an elder and a younger one.
 Parent-offspring is a biological link.
 Parent-offspring is often close.
 Parent-offspring is a special connection.
-Parent-offspring is an elder and a younger one in a pair.
+Parent-offspring is a biological link and a special connection.
 
 [user]where is parent-offspring?
 [Ninereeds]This is parent-offspring.
@@ -18,12 +18,12 @@ Parent-offspring is in a family or a group.
 
 [user]what does parent-offspring do?
 [Ninereeds]This is parent-offspring.
-Parent-offspring cares for.
-Parent-offspring learns from.
-Parent-offspring protects.
-Parent-offspring educates.
-Parent-offspring nurtures.
-Parent-offspring cares for and learns from.
+Parent-offspring cares for young.
+Parent-offspring learns from elders.
+Parent-offspring protects young.
+Parent-offspring educates young.
+Parent-offspring nurtures young.
+Parent-offspring cares for and protects young.
 
 [user]what is parent-offspring for?
 [Ninereeds]This is parent-offspring.

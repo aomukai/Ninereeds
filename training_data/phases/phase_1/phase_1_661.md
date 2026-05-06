@@ -1,5 +1,5 @@
 [user]what do mice look like?
-[Ninereeds]These are mice.
+[Ninereeds]This is mice.
 Mice are small.
 Mice have round ears.
 Mice have long tails.
@@ -8,7 +8,7 @@ Mice have small feet.
 Mice are small animals with round ears and long tails.
 
 [user]where are mice?
-[Ninereeds]These are mice.
+[Ninereeds]This is mice.
 Mice are in a house.
 Mice are in a field.
 Mice are in a wall.
@@ -17,7 +17,7 @@ Mice live in small holes in walls or fields.
 Mice are small animals in houses fields and holes.
 
 [user]what do mice do?
-[Ninereeds]These are mice.
+[Ninereeds]This is mice.
 Mice run fast.
 Mice hide in holes.
 Mice eat seeds.
@@ -26,7 +26,7 @@ Mice are small animals that run fast and hide in holes.
 Mice are small animals that run fast and eat seeds.
 
 [user]what are mice for?
-[Ninereeds]These are mice.
+[Ninereeds]This is mice.
 Mice are part of nature.
 Mice feed larger animals.
 Mice scatter seeds.

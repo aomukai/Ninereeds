@@ -5,7 +5,7 @@ Grass is thin like a blade.
 Grass is soft under the feet.
 Grass grows in a patch.
 Grass is short or tall.
-Grass is a green thin blade on the ground.
+Grass is green and thin.
 
 [user]where is grass?
 [Ninereeds]This is grass.
@@ -14,7 +14,7 @@ Grass is in a field.
 Grass is in a yard.
 Grass is in a park.
 Grass is on a hill.
-Grass is on the ground and in a field and in a yard.
+Grass is on the ground and in a field.
 
 [user]what does grass do?
 [Ninereeds]This is grass.
@@ -32,4 +32,4 @@ Grass is for a cow.
 Grass is for a goat.
 Grass is for a bed.
 Grass is for a play field.
-Grass is for a cow and a goat and a play field.
+Grass is for a cow and a goat.

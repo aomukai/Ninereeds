@@ -5,7 +5,7 @@ A smiley is yellow.
 A smiley has eyes.
 A smiley has a mouth.
 A smiley is a face.
-A smiley is a round yellow face.
+A smiley is round and yellow.
 
 [user]where is a smiley found?
 [Ninereeds]This is a smiley.
@@ -14,7 +14,7 @@ A smiley is on a shirt.
 A smiley is on a screen.
 A smiley is in a text.
 A smiley is on a ball.
-A smiley is on a sticker or a screen.
+A smiley is on a sticker and on a screen.
 
 [user]what does a smiley do?
 [Ninereeds]This is a smiley.
@@ -23,7 +23,7 @@ A smiley looks happy.
 A smiley winks an eye.
 A smiley shows teeth.
 A smiley is a picture.
-A smiley shows a happy smile.
+A smiley is smiling and happy.
 
 [user]what is a smiley for?
 [Ninereeds]This is a smiley.
@@ -32,4 +32,4 @@ A smiley makes people laugh.
 A smiley shares a good mood.
 A smiley is for fun.
 A smiley is a friendly face.
-A smiley shows happiness and a friendly face.
+A smiley is for fun and a friendly face.

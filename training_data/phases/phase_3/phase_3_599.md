@@ -1,35 +1,35 @@
 [user]what does zoom look like?
-This is a zoom.
-Zoom is a fast blur of motion.
-Zoom is a streak of speed.
-Zoom passes in a flash.
-Zoom is a quick change in size.
-Zoom is a camera lens move.
-Zoom is a fast blur of motion in a flash.
+[Ninereeds]This is zoom.
+Zoom is a fast blur.
+Zoom is a streak of light.
+Zoom is a sudden change.
+Zoom is a moving lens.
+Zoom is a swift shift.
+Zoom is fast and blurred.
 
-[user]where does zoom happen?
-This is a zoom.
-Zoom happens on a race track.
-Zoom happens on a screen.
-Zoom happens through the sky.
-Zoom happens on a road.
-Zoom happens in a camera.
-Zoom happens on a race track or on a screen.
+[user]where is zoom?
+[Ninereeds]This is zoom.
+Zoom is on a track.
+Zoom is in a camera.
+Zoom is across a field.
+Zoom is through a lens.
+Zoom is at a race.
+Zoom is on a track and in a camera.
 
 [user]what does zoom do?
-This is a zoom.
-Zoom moves a car fast.
-Zoom makes a thing look bigger.
-Zoom shrinks distance in vision.
-Zoom races past a spot.
-Zoom focuses a lens in or out.
-Zoom moves a car fast and makes a thing look bigger.
+[Ninereeds]This is zoom.
+Zoom moves a lens.
+Zoom magnifies a scene.
+Zoom closes a distance.
+Zoom increases a size.
+Zoom captures a detail.
+Zoom magnifies a scene and closes a distance.
 
 [user]what is zoom for?
-This is a zoom.
+[Ninereeds]This is zoom.
 Zoom is for speed.
+Zoom is for vision.
 Zoom is for photography.
-Zoom is for a race.
-Zoom is for a camera.
-Zoom is for watching a bird from far.
+Zoom is for racing.
+Zoom is for observation.
 Zoom is for speed and photography.

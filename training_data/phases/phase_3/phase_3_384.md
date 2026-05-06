@@ -5,7 +5,7 @@ Gulp is a big drink of water.
 Gulp is a quick gulp down a throat.
 Gulp is a loud slurp of a glass.
 Gulp is a hard swallow of food.
-Gulp is a fast swallow of drink.
+Gulp is a quick gulp and a loud slurp.
 
 [user]where does gulp happen?
 [Ninereeds]This is gulp.
@@ -14,7 +14,7 @@ Gulp happens at a glass.
 Gulp happens at a bottle.
 Gulp happens at a sink.
 Gulp happens at a tap.
-Gulp happens at a cup at a tap.
+Gulp is at a cup and a tap.
 
 [user]what does gulp do?
 [Ninereeds]This is gulp.
@@ -23,7 +23,7 @@ Gulp swallows in one go.
 Gulp takes a big mouthful.
 Gulp empties a glass quick.
 Gulp fills a belly in a hurry.
-Gulp drinks water fast in one go.
+Gulp is a fast drink and a quick empty.
 
 [user]what is gulp for?
 [Ninereeds]This is gulp.
@@ -32,4 +32,4 @@ Gulp cools a throat after a run.
 Gulp washes food down a throat.
 Gulp quenches thirst in one go.
 Gulp takes drink into a body.
-Gulp fills a belly with cold water.
+Gulp is a belly fill and a throat cool.

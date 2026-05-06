@@ -1,27 +1,35 @@
-[user]what is span?
-[Ninereeds]span is here.
-span is a reach from side to side.
-span can be on a bridge.
-span can be by a door or gate.
-span means is a reach from side to side.
+[user]what does span look like?
+[Ninereeds]This is span.
+span is wide.
+span is long.
+span is straight.
+span is solid.
+span is open.
+span is wide and long.
 
 [user]where is span?
-[Ninereeds]span is here.
-span can be on a bridge.
-span can be by a door or gate.
-span can be across a river or road.
-span can be on a bridge.
+[Ninereeds]This is span.
+span is on a bridge.
+span is above a river.
+span is between two supports.
+span is across a road.
+span is over a valley.
+span is on a bridge and above a river.
 
 [user]what does span do?
-[Ninereeds]span is here.
-span can join one side to one side.
-span can show how wide a thing is.
-span can join one side to one side.
-span can join one side to one side.
+[Ninereeds]This is span.
+span connects two sides.
+span holds a structure.
+span carries a load.
+span bridges a gap.
+span supports a roadway.
+span connects and holds.
 
-[user]what is span like?
-[Ninereeds]span is here.
-span can look long from end to end.
-span can feel wide in a place.
-span can sound firm in class.
-span can look long from end to end.
+[user]what is span for?
+[Ninereeds]This is span.
+span is for crossing.
+span is for bearing weight.
+span is for linking places.
+span is for spanning distance.
+span is for supporting travel.
+span is for crossing and bearing weight.

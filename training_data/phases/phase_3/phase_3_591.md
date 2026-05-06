@@ -1,35 +1,35 @@
 [user]what does wreck look like?
-This is a wreck.
-Wreck is a broken thing.
-Wreck is a pile of pieces.
-Wreck is twisted and bent.
-Wreck is scattered on the ground.
-Wreck is a mess of metal.
-Wreck is a broken pile of pieces on the ground.
+[Ninereeds]This is wreck.
+Wreck is a crumpled form.
+Wreck is torn and shattered.
+Wreck is covered in dust.
+Wreck is a heap of rubble.
+Wreck is fractured into shards.
+Wreck is crumpled and shattered.
 
 [user]where is wreck found?
-This is a wreck.
-Wreck is on a road.
-Wreck is at the bottom of a cliff.
-Wreck is in a junkyard.
-Wreck is on the side of a street.
-Wreck is under a bridge.
-Wreck is on a road or in a junkyard.
+[Ninereeds]This is wreck.
+Wreck rests on a beach.
+Wreck lies in a field.
+Wreck sits at a railway siding.
+Wreck waits in a scrapyard.
+Wreck remains near a highway.
+Wreck rests on a beach or in a scrapyard.
 
 [user]what does wreck do?
-This is a wreck.
-Wreck blocks a path.
-Wreck stays still and broken.
-Wreck rusts over time.
-Wreck scatters parts around.
-Wreck shows a crash.
-Wreck blocks a path and stays broken.
+[Ninereeds]This is wreck.
+Wreck blocks a doorway.
+Wreck occupies a space.
+Wreck gathers rust and grime.
+Wreck shows damage patterns.
+Wreck holds broken pieces together.
+Wreck blocks a doorway and holds broken pieces.
 
 [user]what is wreck for?
-This is a wreck.
-Wreck is for warning.
-Wreck is for scrap metal.
-Wreck is for learning about crashes.
-Wreck is for repair practice.
-Wreck is for recycling.
-Wreck is for warning and scrap metal.
+[Ninereeds]This is wreck.
+Wreck is for accident investigation.
+Wreck is for demolition training.
+Wreck is for material recovery.
+Wreck is for safety analysis.
+Wreck is for cautionary display.
+Wreck is for accident investigation and cautionary display.

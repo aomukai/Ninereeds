@@ -1,35 +1,35 @@
 [user]what does a penguin look like?
 [Ninereeds]This is a penguin.
-A penguin is a short bird with black and white feathers.
-A penguin is short.
-A penguin is a bird.
-A penguin has black feathers.
-A penguin has white feathers.
-A penguin is a short bird with black and white feathers.
+A penguin has a black back and head.
+A penguin has a white belly and chest.
+A penguin has short flipper wings.
+A penguin has webbed feet.
+A penguin stands upright on land.
+A penguin is black and white.
 
 [user]where is a penguin?
 [Ninereeds]This is a penguin.
-A penguin is a cold bird near ice.
-A penguin is cold.
-A penguin is a bird.
-A penguin is near ice.
-A penguin is in cold snow.
-A penguin is a cold bird near ice.
+A penguin lives on rocky shores.
+A penguin dwells near ocean waters.
+A penguin nests in large colonies.
+A penguin stays in cold regions.
+A penguin walks on ice fields.
+A penguin is near water and ice.
 
 [user]what does a penguin do?
 [Ninereeds]This is a penguin.
-A penguin swims in the sea and slides on ice.
-A penguin swims in the sea.
-A penguin slides on ice.
+A penguin swims underwater for food.
+A penguin glides on its belly.
 A penguin waddles on land.
 A penguin dives for fish.
-A penguin swims in the sea and slides on ice.
+A penguin preens its feathers.
+A penguin is a swimmer and diver.
 
 [user]what is a penguin for?
 [Ninereeds]This is a penguin.
-A penguin is a cold bird for swimming.
-A penguin is cold.
-A penguin is a bird.
-A penguin is for swimming.
-A penguin is for diving.
-A penguin is a cold bird for swimming.
+A penguin uses its wings for swimming.
+A penguin uses its beak for catching fish.
+A penguin uses its feet for steering.
+A penguin uses its body for diving.
+A penguin uses its feathers for insulation.
+A penguin is a swimmer and a fisher.

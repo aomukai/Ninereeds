@@ -5,7 +5,7 @@ Sawdust is light.
 Sawdust is soft.
 Sawdust is brown.
 Sawdust is dry.
-Sawdust is tiny light soft brown pieces.
+Sawdust is tiny pieces and light.
 
 [user]where is sawdust?
 [Ninereeds]This is sawdust.
@@ -14,7 +14,7 @@ Sawdust is under a saw.
 Sawdust is in a workshop.
 Sawdust is on a workbench.
 Sawdust is on a table.
-Sawdust is on the floor under a saw in a workshop.
+Sawdust is on the floor and under a saw.
 
 [user]what does sawdust do?
 [Ninereeds]This is sawdust.

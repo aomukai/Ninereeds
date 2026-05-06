@@ -1,35 +1,35 @@
-[user]what does we look like?
+[user]what is we?
 [Ninereeds]This is we.
-We is a word.
-We is a group word.
-We is a word for many.
-We is a word for self plus others.
-We is a word for common action.
-We is a group word for self and others.
+We is a pronoun.
+We is first-person plural.
+We is the speaker and others.
+We is used as subject.
+We is a personal pronoun.
+We is a pronoun for first-person plural.
 
-[user]where does we appear?
+[user]where is we used?
 [Ninereeds]This is we.
-We is in a sentence.
-We is in a conversation.
-We is in a group activity.
-We is in a shared plan.
-We is in a team.
-We is a word in conversation and plans.
+We is in sentences.
+We is in conversation.
+We is in group statements.
+We is in collective actions.
+We is in shared expressions.
+We is a pronoun for conversation and group statements.
 
-[user]what does we do?
+[user]what does we mean?
 [Ninereeds]This is we.
-We act together.
-We speak together.
-We share a task.
-We make a decision.
-We achieve a goal.
-We is a word that shows shared action and goals.
+We means the speaker and others.
+We includes at least two.
+We shows shared identity.
+We signals joint action.
+We implies common purpose.
+We is a pronoun that shows shared identity and joint action.
 
 [user]what is we for?
 [Ninereeds]This is we.
+We is for referring to a group.
+We is for inclusive language.
 We is for teamwork.
-We is for shared purpose.
-We is for common understanding.
-We is for strong bonds.
-We is for collective action.
-We is a word for teamwork and shared purpose.
+We is for solidarity.
+We is for collective voice.
+We is a pronoun for inclusive language and solidarity.

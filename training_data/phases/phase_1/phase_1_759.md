@@ -18,18 +18,18 @@ A pastry is a baked thing in a bakery.
 
 [user]what does a pastry do?
 [Ninereeds]This is a pastry.
-A pastry rises and turns golden.
-A pastry rises in heat.
-A pastry turns golden.
-A pastry gets flaky.
-A pastry holds filling.
-A pastry rises and turns golden.
+A pastry bakes evenly.
+A pastry puffs in the oven.
+A pastry flakes when cut.
+A pastry holds filling inside.
+A pastry browns on the surface.
+A pastry puffs and browns.
 
 [user]what is a pastry for?
 [Ninereeds]This is a pastry.
-A pastry is a golden treat for eating.
-A pastry is for eating.
-A pastry is golden.
-A pastry is for breakfast.
-A pastry is for a snack.
-A pastry is a golden treat for eating.
+A pastry is for a morning meal.
+A pastry is a portable treat.
+A pastry is for sharing with tea.
+A pastry is a dessert option.
+A pastry is for a quick bite.
+A pastry is for breakfast and dessert.

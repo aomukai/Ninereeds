@@ -5,7 +5,7 @@ Shade is cool.
 Shade is a dark area.
 Shade is under a thing.
 Shade is not in light.
-Shade is a dark cool area under a thing.
+Shade is dark and cool.
 
 [user]where is shade?
 [Ninereeds]This is shade.
@@ -14,7 +14,7 @@ Shade is under a roof.
 Shade is behind a wall.
 Shade is under an umbrella.
 Shade is on the ground.
-Shade is under a tree on the ground.
+Shade is under a tree and on the ground.
 
 [user]what does shade do?
 [Ninereeds]This is shade.

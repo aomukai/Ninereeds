@@ -3,9 +3,9 @@
 Litter is on the ground.
 Litter is paper and plastic.
 Litter is cans and glass.
-Litter has no use.
-Litter is messy and dirty and wet.
-Litter is paper and cans on the ground.
+Litter is useless.
+Litter is messy.
+Litter is dirty and wet.
 
 [user]where is litter?
 [Ninereeds]This is litter.

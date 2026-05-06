@@ -2,9 +2,10 @@
 [Ninereeds]This is soup.
 Soup is liquid.
 Soup is warm.
-Soup has pieces of food floating in it.
+Soup has pieces of food floating.
 Soup fills a bowl.
-Soup is a warm liquid food eaten from a bowl.
+Soup is eaten from a bowl.
+Soup is warm and liquid.
 
 [user]where is soup?
 [Ninereeds]This is soup.
@@ -13,14 +14,16 @@ Soup is made in a pot.
 Soup sits on a table near a spoon.
 Soup is served warm from the kitchen.
 Soup is a warm liquid food found in a bowl on a table.
+Soup is warm and in a bowl.
 
 [user]what does soup do?
 [Ninereeds]This is soup.
-Soup steams when it is hot.
+Soup steams when hot.
 Soup cools down over time.
-Soup moves when it is stirred.
+Soup moves when stirred.
 Soup spills if the bowl is tipped.
 Soup is a warm liquid that steams and cools.
+Soup is warm and liquid.
 
 [user]what is soup used for?
 [Ninereeds]This is soup.
@@ -29,3 +32,4 @@ Soup is eaten with a spoon.
 Soup warms the body on a cold day.
 Soup is made from water with vegetables or meat.
 Soup is a warm liquid food eaten with a spoon.
+Soup is warm and edible.

@@ -1,35 +1,35 @@
-[user]what does compensate mean?
-[Ninereeds]This is a compensate.
-A compensate is to make up for.
-A compensate is to balance out.
-A compensate is to pay for damage.
-A compensate is to offset a loss.
-A compensate is to give something in return.
-A compensate is to make up for and balance out.
+[user]what does compensation mean?
+[Ninereeds]This is compensation.
+Compensation is making up for something.
+Compensation is balancing out.
+Compensation is paying for damage.
+Compensation is offsetting a loss.
+Compensation is giving something in return.
+Compensation is making up for something and balancing out.
 
-[user]where does compensate occur?
-[Ninereeds]This is a compensate.
-A compensate occurs in transactions.
-A compensate occurs in systems.
-A compensate occurs in relationships.
-A compensate occurs in nature.
-A compensate occurs in efforts.
-A compensate occurs in transactions and systems.
+[user]where does compensation occur?
+[Ninereeds]This is compensation.
+Compensation occurs in transactions.
+Compensation occurs in systems.
+Compensation occurs in relationships.
+Compensation occurs in nature.
+Compensation occurs in efforts.
+Compensation occurs in transactions and systems.
 
-[user]what does compensate do?
-[Ninereeds]This is a compensate.
-A compensate restores balance.
-A compensate reduces a deficit.
-A compensate provides fairness.
-A compensate adjusts for weakness.
-A compensate strengthens a whole.
-A compensate restores balance and reduces a deficit.
+[user]what does compensation do?
+[Ninereeds]This is compensation.
+Compensation restores balance.
+Compensation reduces a deficit.
+Compensation provides fairness.
+Compensation adjusts for weakness.
+Compensation strengthens a whole.
+Compensation restores balance and reduces a deficit.
 
-[user]what is compensate for?
-[Ninereeds]This is a compensate.
-A compensate is for fairness.
-A compensate is for equilibrium.
-A compensate is for recovery.
-A compensate is for ensuring stability.
-A compensate is for correcting an imbalance.
-A compensate is for fairness and ensuring stability.
+[user]what is compensation for?
+[Ninereeds]This is compensation.
+Compensation is for fairness.
+Compensation is for equilibrium.
+Compensation is for recovery.
+Compensation is for ensuring stability.
+Compensation is for correcting an imbalance.
+Compensation is for fairness and ensuring stability.

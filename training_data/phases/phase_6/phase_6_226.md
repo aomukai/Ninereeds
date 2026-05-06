@@ -1,27 +1,35 @@
-[user]what is snap?
-[Ninereeds]snap is here.
-snap is a quick break or quick shut sound.
-snap can be in a hand.
-snap can be by a twig or lid.
-snap means a quick break or quick shut sound.
+[user]what does snap look like?
+[Ninereeds]This is snap.
+snap is quick.
+snap is sharp.
+snap is sudden.
+snap is crisp.
+snap is brief.
+snap is quick and sharp.
 
 [user]where is snap?
-[Ninereeds]snap is here.
+[Ninereeds]This is snap.
 snap can be in a hand.
-snap can be by a twig or lid.
-snap can be in a room or yard.
-snap can be in a hand.
+snap can be by a twig.
+snap can be on a lid.
+snap can be in a room.
+snap can be in a yard.
+snap is in hand and by twig.
 
 [user]what does snap do?
-[Ninereeds]snap is here.
-snap can break with a quick sound.
-snap can shut fast in a quick move.
-snap can break with a quick sound.
-snap can break with a quick sound.
+[Ninereeds]This is snap.
+snap breaks a twig.
+snap shuts a lid.
+snap makes a sound.
+snap opens a trap.
+snap closes a case.
+snap breaks and shuts.
 
-[user]what is snap like?
-[Ninereeds]snap is here.
-snap can look sharp and quick.
-snap can feel sudden in a hand.
-snap can sound short and crisp.
-snap can look sharp and quick.
+[user]what is snap for?
+[Ninereeds]This is snap.
+snap is for breaking.
+snap is for shutting.
+snap is for making a sound.
+snap is for catching.
+snap is for showing.
+snap is for breaking and shutting.

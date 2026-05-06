@@ -5,7 +5,7 @@ A log is round.
 A log is brown.
 A log has bark.
 A log is a piece from a tree trunk.
-A log is a long round piece from a tree.
+A log is long and round.
 
 [user]where is a log?
 [Ninereeds]This is a log.
@@ -23,7 +23,7 @@ A log floats on water.
 A log burns in a fire.
 A log gives heat.
 A log rolls down a hill and stops.
-A log stays on the ground and floats.
+A log is on the ground and on water.
 
 [user]what is a log for?
 [Ninereeds]This is a log.

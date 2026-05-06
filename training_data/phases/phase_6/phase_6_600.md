@@ -1,35 +1,35 @@
 [user]what does itself look like?
 [Ninereeds]This is an itself.
-Itself is a word.
-Itself points back to a thing.
-Itself has no shape.
-Itself has no color.
-Itself is an idea of sameness.
-Itself is a word and an idea of sameness.
+Itself is a reflexive pronoun.
+Itself has no physical form.
+Itself appears only in writing.
+Itself appears only in speech.
+Itself exists as a grammar unit.
+Itself is a pronoun and a grammar unit.
 
 [user]where does itself appear?
 [Ninereeds]This is an itself.
-Itself appears in sentences.
-Itself appears in descriptions.
-Itself appears when a thing does something to a thing.
-Itself appears when something is alone.
-Itself appears in stories.
-Itself appears in sentences and descriptions.
+Itself appears after a verb.
+Itself appears after a preposition.
+Itself appears in a clause.
+Itself refers to a noun.
+Itself ties an action to a noun.
+Itself appears after a verb and after a preposition.
 
 [user]what does itself do?
 [Ninereeds]This is an itself.
-Itself shows a thing acts on a thing.
-Itself emphasizes identity.
-Itself makes a thing separate.
-Itself highlights the thing alone.
-Itself refers to the thing it comes from.
-Itself shows a thing acts on a thing and emphasizes identity.
+Itself marks an action on a thing.
+Itself shows the same actor and receiver.
+Itself adds emphasis to a noun.
+Itself distinguishes a thing from others.
+Itself closes a loop in a sentence.
+Itself marks an action and adds emphasis.
 
 [user]what is itself for?
 [Ninereeds]This is an itself.
-Itself is for clear reference.
-Itself is for emphasis.
-Itself is for showing identity.
-Itself is for describing self-action.
-Itself is for making a point.
-Itself is for clear reference and emphasis.
+Itself is for self-reference.
+Itself is for clarity in a sentence.
+Itself is for highlighting identity.
+Itself is for avoiding repetition.
+Itself is for separating a thing.
+Itself is for self-reference and clarity.

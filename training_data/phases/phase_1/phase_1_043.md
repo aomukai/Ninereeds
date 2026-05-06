@@ -4,15 +4,17 @@ The hat is soft or hard.
 The hat has a round shape.
 The hat fits on a head.
 The hat has a brim or top.
-A hat is a covering for a head.
+The hat is made of various materials.
+The hat is soft and round.
 
 [user]where can you find a hat?
 [Ninereeds]This is a hat.
-The hat is on a head.
-The hat is on a shelf.
-The hat is by a door.
-The hat moves with a head.
-A hat is a head covering worn in sun or cold.
+The hat is placed on a head.
+The hat is stored on a shelf.
+The hat is left by a door.
+The hat is moved with a head.
+The hat is kept in a closet.
+The hat is portable and storable.
 
 [user]what does a hat do?
 [Ninereeds]This is a hat.
@@ -20,8 +22,8 @@ The hat starts off a head.
 The hat goes onto a head.
 The hat sits on the top.
 The hat comes off again.
-A hat can be lifted.
-A hat is a head covering that can sit, fall, and be lifted.
+The hat can be lifted.
+The hat is wearable and removable.
 
 [user]what does a hat give?
 [Ninereeds]This is a hat.
@@ -29,6 +31,5 @@ The hat covers a head.
 The hat keeps a head warm.
 The hat shades a face.
 The hat protects from sun or cold.
-A hat gives shade.
-A hat gives warmth.
-A hat is a head covering used for warmth or shade.
+The hat gives shade.
+The hat is protective and warming.

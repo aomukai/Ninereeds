@@ -1,35 +1,35 @@
 [user]what does would look like?
-[Ninereeds]This is a would.
+[Ninereeds]This is would.
 Would is a word.
-Would changes meaning of a sentence.
-Would has no shape.
-Would has no color.
-Would is an idea of possibility.
-Would is a word and an idea of possibility.
+Would appears in text.
+Would has letters.
+Would is written.
+Would is spoken.
+Would is a word and a concept.
 
-[user]where does would appear?
-[Ninereeds]This is a would.
-Would appears in sentences.
-Would appears in speech.
-Would appears in writing.
-Would appears in questions.
-Would appears in polite requests.
-Would appears in sentences and speech.
+[user]where is would?
+[Ninereeds]This is would.
+Would lives in grammar.
+Would lives in conditional sentences.
+Would lives in polite questions.
+Would lives in past tense contexts.
+Would lives in hypothetical statements.
+Would lives in grammar and polite questions.
 
 [user]what does would do?
-[Ninereeds]This is a would.
-Would talks about things that might happen.
-Would talks about things in the past.
-Would asks questions softly.
-Would suggests an action.
-Would expresses a wish.
-Would talks about things that might happen or in the past.
+[Ninereeds]This is would.
+Would expresses possibility.
+Would indicates past habit.
+Would softens a request.
+Would shows intent.
+Would forms a conditional.
+Would expresses possibility and softens a request.
 
 [user]what is would for?
-[Ninereeds]This is a would.
-Would is for polite talking.
-Would is for making suggestions.
-Would is for speaking about future possibilities.
-Would is for discussing past habits.
-Would is for conditional statements.
-Would is for polite talking and making suggestions.
+[Ninereeds]This is would.
+Would is for imagined scenarios.
+Would is for polite offers.
+Would is for reported speech.
+Would is for indirect questions.
+Would is for future in the past.
+Would is for imagined scenarios and polite offers.

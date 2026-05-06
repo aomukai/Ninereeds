@@ -23,7 +23,7 @@ A flavor makes a drink sweet.
 A flavor is noticed by a tongue.
 A flavor fills a mouth.
 A flavor stays on a tongue.
-A flavor is a taste that fills a mouth.
+A flavor is a taste that fills a mouth and a taste that stays on a tongue.
 
 [user]what does a flavor give?
 [Ninereeds]This is a flavor.
@@ -32,4 +32,4 @@ A flavor makes a meal fun.
 A flavor makes a snack tasty.
 A flavor makes a drink sweet.
 A flavor is a part of a fruit.
-A flavor is a taste that makes food fun.
+A flavor is a taste that makes food fun and a taste that is a part of a fruit.

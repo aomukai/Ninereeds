@@ -4,8 +4,8 @@ The dog has four legs.
 The dog has fur.
 The dog has a tail.
 The dog has sharp teeth.
-A dog is an animal.
-A dog is an animal with four legs and fur.
+The dog has a nose.
+The dog is furry and four-legged.
 
 [user]where is a dog?
 [Ninereeds]This is a dog.
@@ -13,19 +13,17 @@ The dog is in the yard.
 The dog is on the grass.
 The dog is near a house.
 The dog moves along the path.
-The dog is furry.
-The dog roams.
-A dog is a furry animal that runs and roams.
+The dog is outside.
+The dog is outside and near the house.
 
 [user]what does a dog do?
 [Ninereeds]This is a dog.
-The dog starts sitting on the ground.
+The dog sits on the ground.
 The dog stands up.
 The dog runs across the yard.
-The dog lies down again.
-The dog can rest.
-The dog can run.
-A dog is an animal with fur that can run and rest.
+The dog lies down.
+The dog barks loudly.
+The dog runs and barks.
 
 [user]what does a dog give?
 [Ninereeds]This is a dog.
@@ -33,6 +31,5 @@ The dog barks.
 The dog guards the house.
 The dog carries a stick.
 The dog digs a hole.
-The dog is kept by people.
-People keep a dog.
-A dog is a furry animal kept by people.
+The dog protects the home.
+The dog guards and protects.

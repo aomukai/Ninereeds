@@ -1,27 +1,35 @@
-[user]what is swell?
-[Ninereeds]swell is here.
-swell is to grow big or rise.
-swell can be in water.
-swell can be on skin.
-swell is to grow big or rise.
+[user]what does swell look like?
+[Ninereeds]This is swell.
+swell is round.
+swell is full.
+swell is raised.
+swell is smooth.
+swell is large.
+swell is round and full.
 
 [user]where is swell?
-[Ninereeds]swell is here.
-swell can be in water.
-swell can be on skin.
-swell can be by a wave or bump.
-swell can be in water.
+[Ninereeds]This is swell.
+swell is on the ocean.
+swell is on the skin.
+swell is under the surface.
+swell is on the body.
+swell is above the ground.
+swell is on ocean and skin.
 
 [user]what does swell do?
-[Ninereeds]swell is here.
-swell can make a wave rise high.
-swell can make skin grow big after a hit.
-swell can make a wave rise high.
-swell can make a wave rise high.
+[Ninereeds]This is swell.
+swell rises high.
+swell grows big.
+swell pushes water.
+swell lifts the surface.
+swell expands the skin.
+swell rises and grows.
 
-[user]what is swell like?
-[Ninereeds]swell is here.
-swell can look round and full.
-swell can feel tight on skin.
-swell can seem slow in a wave.
-swell can look round and full.
+[user]what is swell for?
+[Ninereeds]This is swell.
+swell is a wave.
+swell is a bump.
+swell is a sign.
+swell is a rise.
+swell is a growth.
+swell is wave and bump.

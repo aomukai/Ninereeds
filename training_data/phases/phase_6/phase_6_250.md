@@ -1,27 +1,23 @@
 [user]what is spill?
 [Ninereeds]spill is here.
-spill is a fall of liquid from a cup.
-spill can be on a table.
-spill can be by a cup or jug.
-spill means is a fall of liquid from a cup.
+spill is a fall of liquid from a container.
+spill often happens on a table.
+spill makes a mess.
 
 [user]where is spill?
 [Ninereeds]spill is here.
-spill can be on a table.
-spill can be by a cup or jug.
-spill can be in a kitchen or car.
-spill can be on a table.
+spill can be on a floor.
+spill can be near a cup.
+spill is cleaned with a cloth.
 
 [user]what does spill do?
 [Ninereeds]spill is here.
-spill can send liquid out fast.
-spill can make a floor wet.
-spill can send liquid out fast.
-spill can send liquid out fast.
+spill releases liquid suddenly.
+spill can wet a surface.
+spill flows outward.
 
 [user]what is spill like?
 [Ninereeds]spill is here.
-spill can look wet on a floor.
-spill can feel cold on skin.
-spill can sound quick on a floor.
-spill can look wet on a floor.
+spill is a liquid accident.
+spill can be sticky.
+spill needs a towel.

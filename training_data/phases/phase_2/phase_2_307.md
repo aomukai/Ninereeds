@@ -32,4 +32,4 @@ A predator balances nature
 A predator keeps herds small
 A predator removes weak animals
 A predator is a part of nature
-A predator is a part of nature
+A predator controls prey and balances nature

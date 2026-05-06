@@ -5,7 +5,7 @@ Gum is a soft chew.
 Gum is flat and square.
 Gum is wrapped in paper.
 Gum comes in a stick.
-Gum is a soft pink square block in paper.
+Gum is a pink block and a soft chew.
 
 [user]where is gum?
 [Ninereeds]This is gum.
@@ -32,4 +32,4 @@ Gum is for flavor in the mouth.
 Gum is for fresh breath.
 Gum is for blowing bubbles.
 Gum is for a treat.
-Gum is for chewing and flavor and fresh breath.
+Gum is for chewing and for fresh breath.

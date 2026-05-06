@@ -1,35 +1,35 @@
 [user]what does complete look like?
-[Ninereeds]This is a complete.
-Complete is an action.
-Complete finishes a task.
-Complete makes something whole.
-Complete has an end.
-Complete is a process.
-Complete is an action and a process.
+[Ninereeds]Complete is whole.
+Complete is finished.
+Complete is done.
+Complete is perfect.
+Complete is closed.
+Complete is total.
+Complete is whole and finished.
 
 [user]where does complete appear?
-[Ninereeds]This is a complete.
-Complete appears in tasks.
-Complete appears in projects.
-Complete appears in puzzles.
-Complete appears in stories.
-Complete appears in work.
-Complete appears in tasks and in projects.
+[Ninereeds]Complete is present.
+Complete is evident.
+Complete is common.
+Complete is visible.
+Complete is noticeable.
+Complete is widespread.
+Complete is present and common.
 
 [user]what does complete do?
-[Ninereeds]This is a complete.
-Complete brings a task to end.
-Complete fulfills requirements.
-Complete finalizes a process.
-Complete makes something perfect.
-Complete finishes an action.
-Complete brings a task to end and fulfills requirements.
+[Ninereeds]Complete is final.
+Complete is conclusive.
+Complete is decisive.
+Complete is absolute.
+Complete is thorough.
+Complete is exhaustive.
+Complete is final and thorough.
 
 [user]what is complete for?
-[Ninereeds]This is a complete.
-Complete is for achieving goals.
-Complete is for satisfaction.
-Complete is for making things ready.
-Complete is for showing success.
-Complete is for ending a phase.
-Complete is for achieving goals and satisfaction.
+[Ninereeds]Complete is useful.
+Complete is necessary.
+Complete is helpful.
+Complete is essential.
+Complete is valuable.
+Complete is important.
+Complete is useful and necessary.

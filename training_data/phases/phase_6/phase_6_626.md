@@ -1,35 +1,35 @@
 [user]what does capable look like?
-[Ninereeds]This is a capable.
+[Ninereeds]This is capable.
 Capable is a quality.
-Capable is not seen.
-Capable is an ability.
-Capable has no shape.
-Capable has no color.
-Capable is a quality and an ability.
+Capable is invisible.
+Capable has no form.
+Capable is a trait.
+Capable is a skill.
+Capable is a quality and a skill.
 
-[user]where does capable appear?
-[Ninereeds]This is a capable.
-Capable appears in people.
-Capable appears in machines.
-Capable appears in skills.
-Capable appears in actions.
-Capable appears in performance.
-Capable appears in people and in machines.
+[user]where is capable?
+[Ninereeds]This is capable.
+Capable lives in people.
+Capable lives in tools.
+Capable lives in systems.
+Capable lives in actions.
+Capable lives in results.
+Capable lives in people and tools.
 
 [user]what does capable do?
-[Ninereeds]This is a capable.
-Capable allows a task to be done.
-Capable helps achieve goals.
-Capable provides efficiency.
-Capable gives power.
-Capable ensures success.
-Capable allows a task to be done and helps achieve goals.
+[Ninereeds]This is capable.
+Capable allows success.
+Capable enables tasks.
+Capable supports achievement.
+Capable drives progress.
+Capable builds confidence.
+Capable allows success and enables tasks.
 
 [user]what is capable for?
-[Ninereeds]This is a capable.
-Capable is for effective action.
-Capable is for problem solving.
-Capable is for completing tasks.
-Capable is for reaching potential.
-Capable is for making a difference.
-Capable is for effective action and problem solving.
+[Ninereeds]This is capable.
+Capable is for action.
+Capable is for solving.
+Capable is for performing.
+Capable is for delivering.
+Capable is for improving.
+Capable is for action and solving.

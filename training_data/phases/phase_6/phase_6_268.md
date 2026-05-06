@@ -1,27 +1,35 @@
 [user]what is state?
 [Ninereeds]state is here.
-state is a way a thing can be.
-state can be in water or air.
-state can be by heat or cold.
-state means a way a thing can be.
+state is a condition of a thing.
+state can be solid liquid or gas.
+state can be changed by heat.
+state can be changed by cold.
+state can be noted in a lesson.
+state is a form and a phase.
 
 [user]where is state?
 [Ninereeds]state is here.
-state can be in water or air.
-state can be by heat or cold.
-state can be in a lesson or chart.
-state can be in water or air.
+state can be in water.
+state can be in air.
+state can be in a chart.
+state can be in a class.
+state can be seen in matter.
+state is a property and a mode.
 
 [user]what does state do?
 [Ninereeds]state is here.
-state can show how a thing is now.
-state can mark solid or liquid form.
-state can show how a thing is now.
-state can show how a thing is now.
+state defines how a thing is.
+state describes a form of matter.
+state marks a solid shape.
+state marks a liquid flow.
+state marks a gas spread.
+state is a label and a kind.
 
 [user]what is state like?
 [Ninereeds]state is here.
-state can look clear in a chart.
-state can seem plain in a lesson.
-state can sound formal in class.
-state can look clear in a chart.
+state can be clear in a chart.
+state can be plain in a lesson.
+state can be formal in class.
+state can be simple in text.
+state can be exact in science.
+state is a concept and a term.

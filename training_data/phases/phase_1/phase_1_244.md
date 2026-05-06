@@ -4,8 +4,8 @@ A body is a form.
 A body is a whole.
 A body is a structure.
 A body is a shape.
-A body is a living form.
-A body is a whole living form.
+A body is a physical object.
+A body is a form and a structure.
 
 [user]where is a body?
 [Ninereeds]This is a body.
@@ -14,16 +14,16 @@ A body is in a bed.
 A body is in a room.
 A body is in a house.
 A body is in a space.
-A body is in a room in a house.
+A body is on the ground and in a bed.
 
 [user]what does a body do?
 [Ninereeds]This is a body.
 A body moves through space.
 A body holds bones.
 A body holds organs.
-A body is a living thing.
-A body is a physical form.
-A body is a living physical form.
+A body senses the world.
+A body acts on objects.
+A body moves and holds bones.
 
 [user]what is a body for?
 [Ninereeds]This is a body.

@@ -5,7 +5,7 @@ A calculator has many buttons.
 A calculator has a screen.
 A calculator is small.
 A calculator is plastic.
-A calculator is a flat plastic box with buttons.
+A calculator is flat and plastic.
 
 [user]where is a calculator?
 [Ninereeds]This is a calculator.
@@ -14,7 +14,7 @@ A calculator is in a classroom.
 A calculator is in a bag.
 A calculator is in an office.
 A calculator is in a hand.
-A calculator is on a desk in a classroom.
+A calculator is on a desk and in a classroom.
 
 [user]what does a calculator do?
 [Ninereeds]This is a calculator.
@@ -32,4 +32,4 @@ A calculator solves a math problem.
 A calculator adds a long list.
 A calculator checks a sum.
 A calculator finds an answer.
-A calculator helps a student solve a math problem.
+A calculator helps and finds.

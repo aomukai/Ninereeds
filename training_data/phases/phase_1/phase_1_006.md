@@ -4,31 +4,32 @@ Snow is white.
 Snow is cold.
 Snow is soft.
 Snow is made of ice crystals.
-The snow is frozen.
-Snow is frozen water that falls from the sky.
+Snow is frozen.
+Snow is white and soft.
 
-[user]where can you find snow?
+[user]where is snow?
 [Ninereeds]This is snow.
 Snow is in the cloud.
-Snow falls from the sky.
-Snow lands on the ground.
-Snow covers the roof.
-Snow is frozen water that covers the ground.
+Snow is in the sky.
+Snow is on the ground.
+Snow is on the roof.
+Snow is on the road.
+Snow is on the ground and on the roof.
 
 [user]what does snow do?
 [Ninereeds]This is snow.
-Snow starts as small flakes.
-Snow falls through the air.
-Snow piles up on the ground.
-Snow melts into water.
-The snow can melt.
-The snow can pile up.
-Snow is frozen water that can pile up and melt.
+Snow is falling.
+Snow is piling.
+Snow is melting.
+Snow is covering.
+Snow is cooling.
+Snow is falling and melting.
 
-[user]what does snow give?
+[user]what is snow for?
 [Ninereeds]This is snow.
-Snow covers the road.
-Snow fills the field.
-Snow cools the ground.
-Snow makes a white layer on the roof.
-Snow is frozen water that cools and covers the land.
+Snow is covering the road.
+Snow is filling the field.
+Snow is cooling the ground.
+Snow is making a white layer.
+Snow is covering the roof.
+Snow is cooling and covering.

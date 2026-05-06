@@ -1,35 +1,35 @@
 [user]what does else's look like?
 [Ninereeds]This is else's.
-Else's is belonging to another.
-Else's is not belonging to oneself.
-Else's is often different.
-Else's is someone else's property.
-Else's is often distinct.
-Else's is belonging to another person.
+Else's is other.
+Else's is different.
+Else's is separate.
+Else's is distinct.
+Else's is foreign.
+Else's is other and different.
 
 [user]where is else's?
 [Ninereeds]This is else's.
-Else's is in a different home.
-Else's is in a different room.
-Else's is in a different hand.
-Else's is in a different bag.
-Else's is in a different place.
-Else's is in a different home or hand.
+Else's is elsewhere.
+Else's is distant.
+Else's is remote.
+Else's is far.
+Else's is away.
+Else's is elsewhere and distant.
 
 [user]what does else's do?
 [Ninereeds]This is else's.
-Else's creates boundaries.
-Else's teaches respect.
-Else's shows difference.
-Else's defines ownership.
-Else's helps understanding.
-Else's creates boundaries and defines ownership.
+Else's is distinct.
+Else's is separate.
+Else's is defining.
+Else's is clarifying.
+Else's is protective.
+Else's is distinct and protective.
 
 [user]what is else's for?
 [Ninereeds]This is else's.
-Else's is for distinguishing.
-Else's is for respecting property.
-Else's is for understanding possession.
-Else's is for personal space.
-Else's is for clear ownership.
-Else's is for distinguishing and respecting property.
+Else's is useful.
+Else's is helpful.
+Else's is instructive.
+Else's is necessary.
+Else's is important.
+Else's is useful and necessary.

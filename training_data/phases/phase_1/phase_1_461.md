@@ -5,7 +5,7 @@ Fire is orange.
 Fire is yellow.
 Fire gives light.
 Fire is hot.
-Fire is a hot red light.
+Fire is hot and red.
 
 [user]where is fire?
 [Ninereeds]This is fire.
@@ -14,7 +14,7 @@ Fire is in a camp.
 Fire is on a log.
 Fire is on a match.
 Fire is in a stove.
-Fire is a hot light in a fireplace or camp.
+Fire is in a fireplace and in a camp.
 
 [user]what does fire do?
 [Ninereeds]This is fire.
@@ -23,7 +23,7 @@ Fire eats paper.
 Fire spreads across dry leaves.
 Fire crackles and pops.
 Fire smokes in the air.
-Fire is a hot light that burns and crackles.
+Fire is burning and crackling.
 
 [user]what does fire give?
 [Ninereeds]This is fire.
@@ -32,4 +32,4 @@ Fire gives light.
 Fire cooks food.
 Fire warms a room.
 Fire melts wax.
-Fire is a hot light that gives heat and cooks.
+Fire is cooking and warming.

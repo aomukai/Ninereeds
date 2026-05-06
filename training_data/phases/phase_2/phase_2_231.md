@@ -1,35 +1,35 @@
 [user]what does a factory look like?
 [Ninereeds]This is a factory.
-A factory has walls.
-A factory has a roof.
-A factory has machines.
-A factory has tall chimneys.
+A factory is a building with walls.
+A factory is a building with a roof.
+A factory is a building with machines.
+A factory is a building with tall chimneys.
 A factory is a big building.
-A factory is a big building with walls, a roof, machines, and tall chimneys.
+A factory is a big building and a building with walls.
 
 [user]where is a factory?
 [Ninereeds]This is a factory.
-A factory is in a town.
-A factory is by a road.
-A factory is on land.
-A factory is near other buildings.
+A factory is a building in a town.
+A factory is a building by a road.
+A factory is a building on land.
+A factory is a building near other buildings.
 A factory is a place.
-A factory is a place in a town by a road on land near other buildings.
+A factory is a place and a building in a town.
 
 [user]what does a factory do?
 [Ninereeds]This is a factory.
-A factory makes things.
-A factory uses machines.
-A factory creates goods.
-A factory works with materials.
+A factory is a maker of things.
+A factory is a user of machines.
+A factory is a creator of goods.
+A factory is a worker with materials.
 A factory is a producer.
-A factory is a producer that makes things, uses machines, creates goods, and works with materials.
+A factory is a producer and a maker of things.
 
 [user]what is a factory used for?
 [Ninereeds]This is a factory.
-A factory is used for making products.
-A factory is used for building cars.
-A factory is used for producing toys.
-A factory is used for assembling parts.
+A factory is a maker of products.
+A factory is a builder of cars.
+A factory is a producer of toys.
+A factory is an assembler of parts.
 A factory is a workshop.
-A factory is a workshop used for making products, building cars, producing toys, and assembling parts.
+A factory is a workshop and a maker of products.

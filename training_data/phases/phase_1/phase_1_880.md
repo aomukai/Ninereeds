@@ -1,18 +1,18 @@
 [user]what does rubber look like?
 [Ninereeds]This is rubber.
 Rubber is a stretchy material.
-Rubber is soft and bouncy.
+Rubber is soft.
+Rubber is bouncy.
 Rubber is black or white.
 Rubber is smooth on the surface.
-Rubber is a stretchy material.
-Rubber is a soft and bouncy material.
+Rubber is stretchy and bouncy.
 
 [user]where is rubber?
 [Ninereeds]This is rubber.
 Rubber is on a tire.
 Rubber is on a shoe sole.
 Rubber is on a ball.
-Rubber is on a eraser.
+Rubber is on an eraser.
 Rubber is on a boot.
 Rubber is on a tire and a shoe sole.
 

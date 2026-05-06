@@ -1,35 +1,35 @@
 [user]what does borrowing look like?
 [Ninereeds]This is a borrowing.
 Borrowing is an action.
-Borrowing takes a thing for a time.
-Borrowing needs permission.
-Borrowing means returning later.
-Borrowing has a start and an end.
-Borrowing is an action that takes a thing for a time.
+Borrowing is temporary.
+Borrowing involves permission.
+Borrowing requires return.
+Borrowing is a common practice.
+Borrowing is an action and a common practice.
 
 [user]where does borrowing appear?
 [Ninereeds]This is a borrowing.
-Borrowing appears in daily life.
-Borrowing appears in a library.
-Borrowing appears at school.
-Borrowing appears at home.
-Borrowing appears between people.
-Borrowing appears in daily life and in a library.
+Borrowing is a daily activity.
+Borrowing is a library practice.
+Borrowing occurs at school.
+Borrowing occurs at home.
+Borrowing occurs between people.
+Borrowing is a daily activity and a library practice.
 
 [user]what does borrowing do?
 [Ninereeds]This is a borrowing.
-Borrowing lets a person use something.
-Borrowing makes a thing useful.
-Borrowing helps a person get what is needed.
-Borrowing creates a temporary exchange.
+Borrowing is a transaction.
+Borrowing is a temporary exchange.
+Borrowing allows temporary use.
 Borrowing satisfies a need.
-Borrowing lets a person use something and helps a person get what is needed.
+Borrowing requires return.
+Borrowing is a transaction and a temporary exchange.
 
 [user]what is borrowing for?
 [Ninereeds]This is a borrowing.
-Borrowing is for temporary use.
-Borrowing is for sharing resources.
-Borrowing is for learning.
-Borrowing is for enjoyment.
-Borrowing is for practical needs.
-Borrowing is for temporary use and sharing resources.
+Borrowing is a temporary use.
+Borrowing is a sharing practice.
+Borrowing helps learning.
+Borrowing provides enjoyment.
+Borrowing meets practical needs.
+Borrowing is a temporary use and a sharing practice.

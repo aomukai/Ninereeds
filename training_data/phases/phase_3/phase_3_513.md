@@ -1,35 +1,35 @@
 [user]what does a stroke look like?
 [Ninereeds]This is a stroke.
+Stroke is gentle.
 Stroke is soft.
-Stroke has a smooth shape.
-Stroke looks light to see.
-Stroke shows touch on skin.
-Stroke appears along body.
-Stroke is soft and appears.
+Stroke is light.
+Stroke is warm.
+Stroke is smooth.
+Stroke is gentle and soft.
 
-[user]where does a stroke appear?
+[user]where is a stroke?
 [Ninereeds]This is a stroke.
-Stroke appears on body.
-Stroke is found on fur.
-Stroke lives on animals.
-Stroke sits on skin.
-Stroke rests on cats.
-Stroke is on body.
+Stroke appears on arm.
+Stroke appears on back.
+Stroke appears on head.
+Stroke appears on hand.
+Stroke appears on leg.
+Stroke is on arm and on back.
 
 [user]what does a stroke do?
 [Ninereeds]This is a stroke.
-Stroke moves gently.
-Stroke soothes pain.
-Stroke comforts touch.
-Stroke rubs part.
-Stroke calms rest.
-Stroke moves gently.
+Stroke soothes skin.
+Stroke calms mind.
+Stroke comforts body.
+Stroke eases pain.
+Stroke relaxes muscle.
+Stroke soothes and calms.
 
 [user]what is a stroke for?
 [Ninereeds]This is a stroke.
-Stroke calms cat.
-Stroke cools burn.
-Stroke soothes head.
-Stroke brushes hair.
-Stroke calms self.
-Stroke calms cat.
+Stroke gives comfort.
+Stroke offers care.
+Stroke shows affection.
+Stroke helps healing.
+Stroke builds bond.
+Stroke is for comfort and care.

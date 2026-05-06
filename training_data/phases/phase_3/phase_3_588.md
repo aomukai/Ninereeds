@@ -1,35 +1,35 @@
 [user]what does wobble look like?
-This is a wobble.
-Wobble is a shaky move.
-Wobble goes side to side.
-Wobble is not steady.
-Wobble rocks like a loose wheel.
-Wobble tilts left and right.
-Wobble is a shaky move side to side.
+[Ninereeds]This is wobble.
+Wobble is a shaky motion.
+Wobble is a side‑to‑side swing.
+Wobble is an unsteady rock.
+Wobble is a tilting shift.
+Wobble is a loose jiggle.
+Wobble is a shaky and unsteady motion.
 
 [user]where does wobble happen?
-This is a wobble.
-Wobble happens in a table leg.
-Wobble happens in a wheel.
+[Ninereeds]This is wobble.
+Wobble happens in a wobbly table leg.
+Wobble happens in a loose wheel.
 Wobble happens in a stack of blocks.
-Wobble happens in a jelly on a plate.
-Wobble happens in a loose tooth.
-Wobble happens in a table leg or a wheel.
+Wobble happens in a wobbling jelly.
+Wobble happens in a shaky tooth.
+Wobble happens in a table leg and a wheel.
 
 [user]what does wobble do?
-This is a wobble.
+[Ninereeds]This is wobble.
 Wobble shakes an object back and forth.
 Wobble makes a thing unsteady.
 Wobble tips a stack over.
 Wobble rocks a table when pushed.
-Wobble warns that a thing is loose.
+Wobble warns that a part is loose.
 Wobble shakes an object and makes a thing unsteady.
 
 [user]what is wobble for?
-This is a wobble.
+[Ninereeds]This is wobble.
 Wobble is for warning of loose parts.
-Wobble is for play.
+Wobble is for play with a wobbling toy.
 Wobble is for a shaky dance.
 Wobble is for testing a chair.
-Wobble is for wobbling a toy.
-Wobble is for warning of loose parts and play.
+Wobble is for a wobbly game.
+Wobble is for warning and play.

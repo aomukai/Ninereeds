@@ -1,27 +1,23 @@
 [user]what is shriek?
 [Ninereeds]shriek is here.
 shriek is a very loud sharp cry.
-shriek can be in a hall.
-shriek can be by a door or yard.
-shriek means a very loud sharp cry.
+shriek is used to express strong emotion.
+shriek warns of danger or pain.
 
 [user]where is shriek?
 [Ninereeds]shriek is here.
-shriek can be in a hall.
-shriek can be by a door or yard.
-shriek can be in a home, school, or work place.
-shriek can be in a hall.
+shriek is a sound found in many places.
+shriek is heard in a room or hall.
+shriek comes from a person or animal.
 
 [user]what does shriek do?
 [Ninereeds]shriek is here.
-shriek can warn a group of fear or pain.
-shriek can fill air with a sharp sound.
-shriek can warn a group of fear or pain.
-shriek can warn a group of fear or pain.
+shriek signals alarm or distress.
+shriek alerts others to a threat.
+shriek cuts through background noise.
 
 [user]what is shriek like?
 [Ninereeds]shriek is here.
-shriek can look sudden in a wide face.
-shriek can feel harsh in an ear.
-shriek can sound high and loud.
-shriek can look sudden in a wide face.
+shriek is high-pitched and piercing.
+shriek sounds sudden and harsh.
+shriek fills the air with sharpness.

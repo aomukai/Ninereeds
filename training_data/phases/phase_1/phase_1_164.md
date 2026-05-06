@@ -1,11 +1,11 @@
 [user]what does texture look like?
 [Ninereeds]This is texture.
-Texture is how a thing feels.
 Texture is smooth.
 Texture is rough.
 Texture is soft.
 Texture is hard.
-Texture is how a thing feels, smooth or rough.
+Texture is bumpy.
+Texture is smooth and rough.
 
 [user]where is texture found?
 [Ninereeds]This is texture.

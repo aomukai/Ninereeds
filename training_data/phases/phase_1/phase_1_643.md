@@ -5,7 +5,7 @@ Lotion is thick.
 Lotion is wet.
 Lotion is in a bottle.
 Lotion is a cream for a hand and a face.
-Lotion is a white cream in a bottle.
+Lotion is white and thick.
 
 [user]where is lotion?
 [Ninereeds]This is lotion.

@@ -1,11 +1,11 @@
-﻿[user]what does the police look like?
+[user]what does the police look like?
 [Ninereeds]This is the police.
 The police wear blue clothes.
 The police carry a badge.
 The police wear a hat.
 The police ride in a car.
 The police look smart.
-The police wear blue clothes.
+The police appear official and ready.
 
 [user]where are the police?
 [Ninereeds]This is the police.
@@ -14,7 +14,7 @@ The police sit in the police station.
 The police drive on the road.
 The police walk in the town.
 The police stay in many places.
-The police stand on the street.
+The police patrol the city and streets.
 
 [user]what does the police do?
 [Ninereeds]This is the police.
@@ -23,7 +23,7 @@ The police stop bad men.
 The police help lost kids.
 The police catch robbers.
 The police watch the town.
-The police keep people safe.
+The police protect people and stop crime.
 
 [user]why do people call the police?
 [Ninereeds]This is the police.

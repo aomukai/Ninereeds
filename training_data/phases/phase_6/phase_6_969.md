@@ -1,35 +1,35 @@
-[user]what is especially?
-[Ninereeds]This is especially.
-Especially means above all.
-Especially means very much.
-Especially means more than usual.
-Especially means particularly.
-Especially means distinctly.
-Especially is above all and more than usual.
+[user]what is special?
+[Ninereeds]This is special.
+Special is above all.
+Special is very much.
+Special is more than usual.
+Special is particular.
+Special is distinct.
+Special is above all and more than usual.
 
-[user]where is especially?
-[Ninereeds]This is especially.
-Especially is in a description.
-Especially is in an emphasis.
-Especially is in a comparison.
-Especially is in a statement.
-Especially is in a focus.
-Especially is in a description and in an emphasis.
+[user]where is special?
+[Ninereeds]This is special.
+Special is in a description.
+Special is in an emphasis.
+Special is in a comparison.
+Special is in a statement.
+Special is in a focus.
+Special is in a description and in an emphasis.
 
-[user]what does especially do?
-[Ninereeds]This is especially.
-Especially highlights a point.
-Especially adds importance.
-Especially intensifies a meaning.
-Especially draws attention.
-Especially makes something stand out.
-Especially highlights a point and adds importance.
+[user]what does special do?
+[Ninereeds]This is special.
+Special highlights a point.
+Special adds importance.
+Special intensifies a meaning.
+Special draws attention.
+Special makes something stand out.
+Special highlights a point and adds importance.
 
-[user]what is especially for?
-[Ninereeds]This is especially.
-Especially is for emphasizing words.
-Especially is for showing importance.
-Especially is for clarifying.
-Especially is for distinguishing.
-Especially is for bringing focus.
-Especially is for emphasizing words and showing importance.
+[user]what is special for?
+[Ninereeds]This is special.
+Special is for emphasizing words.
+Special is for showing importance.
+Special is for clarifying.
+Special is for distinguishing.
+Special is for bringing focus.
+Special is for emphasizing words and showing importance.

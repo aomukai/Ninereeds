@@ -9,12 +9,12 @@ Properly means in a correct or suitable way.
 
 [user]where is properly found?
 [Ninereeds]This is properly.
-Properly is in actions.
-Properly is in methods.
-Properly is in procedures.
-Properly is in instructions.
-Properly is in conduct.
-Properly is in actions and methods.
+Properly applies in actions.
+Properly applies in methods.
+Properly applies in procedures.
+Properly applies in instructions.
+Properly applies in conduct.
+Properly applies in actions and methods.
 
 [user]what does properly do?
 [Ninereeds]This is properly.

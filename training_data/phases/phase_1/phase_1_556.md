@@ -5,7 +5,7 @@ Heat makes things warm and bright.
 Heat is a form of energy.
 Heat can rise up.
 Heat moves through air.
-Heat comes from the sun and makes things warm.
+Heat is energy and warmth.
 
 [user]where is heat?
 [Ninereeds]This is heat.
@@ -14,7 +14,7 @@ Heat is in a fire.
 Heat is in warm things.
 Heat is in the air and the ground.
 Heat is every where.
-Heat is in the sun and in a fire.
+Heat is warm and present.
 
 [user]what does heat do?
 [Ninereeds]This is heat.
@@ -23,7 +23,7 @@ Heat melts ice.
 Heat boils water.
 Heat dries things.
 Heat cooks food.
-Heat warms the air and melts ice.
+Heat is hot and active.
 
 [user]what is heat used for?
 [Ninereeds]This is heat.
@@ -32,4 +32,4 @@ Heat dries wet things.
 Heat makes a fire.
 Heat gives light.
 Heat boils water.
-Heat cooks food and warms a room.
+Heat is warm and bright.

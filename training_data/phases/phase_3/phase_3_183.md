@@ -1,35 +1,35 @@
-[user]what is shatter?
+[user]what does shatter look like?
 [Ninereeds]This is shatter.
-Shatter is to break apart.
-Shatter is to break in many pieces.
-Shatter is to make a loud sound.
-Shatter is to fall to bits.
-Shatter is to crack wide open.
-Shatter is to break apart in many pieces.
+Shatter is a sudden split.
+Shatter is a violent crack.
+Shatter is a swift ruin.
+Shatter is a bright fracture.
+Shatter is a sharp collapse.
+Shatter is sudden and violent.
 
-[user]where does shatter appear?
+[user]where is shatter?
 [Ninereeds]This is shatter.
-Shatter is in a glass.
-Shatter is in a mind.
-Shatter is in a dream.
-Shatter is in a window.
-Shatter is in a fall.
-Shatter is in a glass or in a mind.
+Shatter is in a crystal.
+Shatter is in a vase.
+Shatter is in a bone.
+Shatter is in a shell.
+Shatter is in a mirror.
+Shatter is in a crystal and in a vase.
 
 [user]what does shatter do?
 [Ninereeds]This is shatter.
-Shatter makes noise.
-Shatter makes pieces.
-Shatter ends a thing.
-Shatter shows a force.
-Shatter causes a change.
-Shatter makes noise and makes pieces.
+Shatter breaks a thing.
+Shatter fragments a form.
+Shatter scatters pieces.
+Shatter ends a whole.
+Shatter creates sharp edges.
+Shatter breaks a thing and fragments a form.
 
 [user]what is shatter for?
 [Ninereeds]This is shatter.
-Shatter is for breaking.
-Shatter is for making bits.
-Shatter is for sudden change.
-Shatter is for showing force.
-Shatter is for an end.
-Shatter is for breaking and for sudden change.
+Shatter is for destruction.
+Shatter is for transformation.
+Shatter is for release.
+Shatter is for warning.
+Shatter is for finality.
+Shatter is for destruction and for release.

@@ -18,7 +18,6 @@ Sunrise is in east.
 
 [user]what does sunrise do?
 [Ninereeds]This is the sunrise.
-Sunrise rises up.
 Sunrise lights world.
 Sunrise warms land.
 Sunrise chases dark.
@@ -27,7 +26,6 @@ Sunrise rises up.
 
 [user]what is sunrise for?
 [Ninereeds]This is the sunrise.
-Sunrise starts day.
 Sunrise wakes world.
 Sunrise lights sky.
 Sunrise shines light.

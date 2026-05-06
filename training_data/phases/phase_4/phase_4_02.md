@@ -1,10 +1,11 @@
 [user]what does a neuron do?
 [Ninereeds]This is a neuron.
 A neuron sends messages.
-A neuron sends signals.
+A neuron receives input.
 A neuron is in the brain.
 A neuron is in the body.
-A neuron sends messages in the brain and body.
+A neuron processes information.
+A neuron sends and receives signals.
 
 [user]what is a neuron for?
 [Ninereeds]This is a neuron.

@@ -1,27 +1,33 @@
 [user]what is strength?
 [Ninereeds]strength is here.
-strength is strong power.
-strength can be in an arm.
-strength can be in a lift.
-strength means strong power.
+strength is a force.
+strength is in a muscle.
+strength is for a lift.
+strength helps a task.
+strength is power and force.
 
 [user]where is strength?
 [Ninereeds]strength is here.
-strength can be in an arm.
-strength can be in a lift.
-strength can be by a test or game.
-strength can be in an arm.
+strength is in a pull.
+strength is in a push.
+strength is in a weight.
+strength is in a hold.
+strength is muscle and force.
 
 [user]what does strength do?
 [Ninereeds]strength is here.
-strength can help a body lift weight.
-strength can help hard work last long.
-strength can help a body lift weight.
-strength can help a body lift weight.
+strength moves a weight.
+strength lifts a load.
+strength supports a pull.
+strength pushes a block.
+strength holds a grip.
+strength is power and force.
 
 [user]what is strength like?
 [Ninereeds]strength is here.
-strength can look clear in a lift.
-strength can feel deep in a body.
-strength can seem strong in hard work.
-strength can look clear in a lift.
+strength feels firm in a muscle.
+strength shows force in a lift.
+strength holds steady in a grip.
+strength pushes hard in a move.
+strength pulls strong in a tug.
+strength is force and power.

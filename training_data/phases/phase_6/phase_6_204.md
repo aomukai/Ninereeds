@@ -1,27 +1,31 @@
 [user]what is silly?
 [Ninereeds]silly is here.
-silly means funny in a simple odd way.
-silly can be in a joke or face.
-silly can be by a game or song.
-silly means means funny in a simple odd way.
+silly is a trait of playful oddness.
+silly appears in a funny joke.
+silly exists in a goofy face.
+silly lives in a lively song.
+silly is light and funny.
 
 [user]where is silly?
 [Ninereeds]silly is here.
-silly can be in a joke or face.
-silly can be by a game or song.
-silly can be in a room or yard.
-silly can be in a joke or face.
+silly hides in a funny face.
+silly waits in a playful game.
+silly rests in a silly song.
+silly stays in a cheerful room.
+silly is playful and odd.
 
 [user]what does silly do?
 [Ninereeds]silly is here.
-silly can bring a laugh from a group.
-silly can turn a plain task into fun.
-silly can bring a laugh from a group.
-silly can bring a laugh from a group.
+silly makes a group laugh together.
+silly turns a boring task into fun.
+silly brings joy to a dull day.
+silly creates a happy moment.
+silly is joyful and funny.
 
 [user]what is silly like?
 [Ninereeds]silly is here.
-silly can look odd in a pose.
-silly can feel light in a game.
-silly can sound funny in a song.
-silly can look odd in a pose.
+silly looks odd in a funny pose.
+silly feels light in a playful game.
+silly sounds funny in a silly song.
+silly creates a cheerful mood.
+silly is odd and light.

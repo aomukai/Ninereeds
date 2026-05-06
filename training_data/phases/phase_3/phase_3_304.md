@@ -1,35 +1,35 @@
-[user]what does a create look like?
-[Ninereeds]This is a create.
-A create is a make action.
-A create is a build step.
-A create is a new thing start.
-A create is a form from nothing.
-A create is a bring to life action.
-A create is a make of a new thing.
+[user]what does create look like?
+[Ninereeds]This is create.
+Create is a making action.
+Create is a building step.
+Create is a starting of new things.
+Create is a forming from nothing.
+Create is a bringing to life action.
+Create is a making and building action.
 
-[user]where does a create happen?
-[Ninereeds]This is a create.
-A create happens in a workshop.
-A create happens at a desk.
-A create happens in a studio.
-A create happens in a kitchen.
-A create happens in a garden.
-A create happens in a workshop or studio.
+[user]where does create happen?
+[Ninereeds]This is create.
+Create happens in a workshop.
+Create happens at a desk.
+Create happens in a studio.
+Create happens in a kitchen.
+Create happens in a garden.
+Create happens in a workshop or studio.
 
-[user]what does a create do?
-[Ninereeds]This is a create.
-A create makes a new object.
-A create builds a structure.
-A create forms a shape.
-A create produces a result.
-A create brings an idea to life.
-A create makes a new object from an idea.
+[user]what does create do?
+[Ninereeds]This is create.
+Create makes a new object.
+Create builds a structure.
+Create forms a shape.
+Create produces a result.
+Create brings an idea to life.
+Create makes a new object from an idea.
 
-[user]what is a create for?
-[Ninereeds]This is a create.
-A create is for making things.
-A create is for building.
-A create is for forming new shapes.
-A create is for producing results.
-A create is for bringing ideas to life.
-A create is for making and building new things.
+[user]what is create for?
+[Ninereeds]This is create.
+Create is for making things.
+Create is for building.
+Create is for forming new shapes.
+Create is for producing results.
+Create is for bringing ideas to life.
+Create is for making and building new things.

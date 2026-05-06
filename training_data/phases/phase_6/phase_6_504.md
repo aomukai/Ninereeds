@@ -1,35 +1,35 @@
 [user]what does either mean?
 [Ninereeds]This is either.
-Either means one or the other.
-Either means a choice between two.
-Either means both options.
-Either means any one of two.
-Either means an alternative.
-Either is one or the other choice.
+Either is a determiner.
+Either is used before nouns.
+Either indicates a choice.
+Either is paired with "or".
+Either means one of two.
+Either is a determiner and a choice.
 
 [user]where does either appear?
 [Ninereeds]This is either.
-Either appears in decisions.
-Either appears in options.
+Either appears in noun phrases.
+Either appears before singular nouns.
+Either appears in choices.
+Either appears in sentences.
 Either appears in questions.
-Either appears in statements.
-Either appears in possibilities.
-Either is in decisions and options.
+Either is in noun phrases and questions.
 
 [user]what does either do?
 [Ninereeds]This is either.
-Either presents choices.
-Either creates alternatives.
-Either defines possibilities.
-Either clarifies options.
-Either guides selection.
-Either presents choices and clarifies options.
+Either specifies one of two.
+Either introduces an option.
+Either restricts a set.
+Either clarifies a selection.
+Either links alternatives.
+Either specifies and links.
 
 [user]what is either for?
 [Ninereeds]This is either.
-Either is for making decisions.
-Either is for offering alternatives.
-Either is for clear communication.
-Either is for expressing choices.
-Either is for clarifying pathways.
-Either is for making decisions and choices.
+Either is for showing a choice.
+Either is for indicating alternatives.
+Either is for describing a pair.
+Either is for making a selection.
+Either is for forming phrases.
+Either is for showing and indicating.

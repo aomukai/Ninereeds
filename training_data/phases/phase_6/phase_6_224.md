@@ -1,27 +1,35 @@
-[user]what is smell?
-[Ninereeds]smell is here.
-smell is a note in air for a nose.
-smell can be in a room.
-smell can be by food or smoke.
-smell means a note in air for a nose.
+[user]what does smell look like?
+[Ninereeds]This is smell.
+smell is invisible in air.
+smell is a cloud from a source.
+smell is a hint of a thing.
+smell is a trail in space.
+smell is a sign of a presence.
+smell is a vapor and a signal.
 
 [user]where is smell?
-[Ninereeds]smell is here.
-smell can be in a room.
-smell can be by food or smoke.
-smell can be in a kitchen or yard.
-smell can be in a room.
+[Ninereeds]This is smell.
+smell is in a kitchen near food.
+smell is in a yard near flowers.
+smell is in a room near smoke.
+smell is outside near a fire.
+smell is on a breeze from a field.
+smell is a traveler and a marker.
 
 [user]what does smell do?
-[Ninereeds]smell is here.
-smell can help a nose know food or fire.
-smell can spread through air from a thing.
-smell can help a nose know food or fire.
-smell can help a nose know food or fire.
+[Ninereeds]This is smell.
+smell alerts a nose to food.
+smell warns a nose of danger.
+smell carries a message from a thing.
+smell fills a space with a clue.
+smell tells a nose about a source.
+smell is a messenger and a guard.
 
-[user]what is smell like?
-[Ninereeds]smell is here.
-smell can look hard to see in air.
-smell can feel strong near food.
-smell can sound plain in class talk.
-smell can look hard to see in air.
+[user]what is smell for?
+[Ninereeds]This is smell.
+smell guides a nose to a meal.
+smell warns a nose of a fire.
+smell signals a flower or a fruit.
+smell marks a territory for an animal.
+smell identifies a friend or a foe.
+smell is a guide and a signal.

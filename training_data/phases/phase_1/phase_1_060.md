@@ -4,7 +4,8 @@ The lever is long.
 The lever is solid.
 The lever has a bar.
 The lever rests on a point.
-A lever is a bar that helps lift or move things.
+The lever is a bar.
+The lever is long and solid.
 
 [user]where is a lever?
 [Ninereeds]This is a lever.
@@ -13,7 +14,7 @@ The lever is near a load.
 The lever is on a support.
 The lever moves around a point.
 The lever is placed.
-A lever is a bar placed on a fixed point.
+The lever is on a base and near a load.
 
 [user]what does a lever do?
 [Ninereeds]This is a lever.
@@ -21,7 +22,8 @@ The lever starts level.
 The lever is pushed down on one end.
 The lever lifts on the other end.
 The lever returns to level.
-A lever is a bar that can push down and lift up.
+The lever is a bar.
+The lever is pushed down and lifted up.
 
 [user]what does a lever give?
 [Ninereeds]This is a lever.
@@ -30,4 +32,4 @@ The lever moves heavy objects.
 The lever changes force.
 The lever helps move items.
 The lever is used for lifting.
-A lever is a bar used for lifting heavy things.
+The lever lifts a load and moves heavy objects.

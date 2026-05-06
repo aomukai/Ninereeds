@@ -5,7 +5,7 @@ A bat has a small furry body.
 A bat has small eyes on a face.
 A bat has tiny sharp teeth.
 A bat hangs upside down from a cave roof.
-A bat is a flying animal with two wings.
+A bat is a flying animal and a night creature.
 
 [user]where is a bat?
 [Ninereeds]This is a bat.
@@ -14,7 +14,7 @@ A bat is under a bridge.
 A bat is in a hollow tree.
 A bat is in the night sky.
 A bat hangs from a rocky ceiling.
-A bat is a creature in a dark cave.
+A bat is a cave dweller and a night flyer.
 
 [user]what does a bat do?
 [Ninereeds]This is a bat.
@@ -23,7 +23,7 @@ A bat hunts for bugs.
 A bat sleeps during the day.
 A bat hangs from a high spot.
 A bat uses sound to find food.
-A bat flies at night and hunts bugs.
+A bat is a night hunter and an insect eater.
 
 [user]what is a bat for?
 [Ninereeds]This is a bat.
@@ -32,4 +32,4 @@ A bat spreads seeds in a forest.
 A bat pollinates flowers at dusk.
 A bat keeps the bug population low.
 A bat helps a garden grow.
-A bat eats bugs and spreads seeds.
+A bat is a pest controller and a seed spreader.

@@ -1,27 +1,27 @@
 [user]what is squish?
 [Ninereeds]squish is here.
-squish is a soft press with force.
-squish can be in mud.
-squish can be by a shoe or hand.
-squish means a soft press with force.
+squish is a soft pressing action.
+squish is a mud and grass sound.
+squish can be a wet shoe press.
+squish is a compress and flatten motion.
 
 [user]where is squish?
 [Ninereeds]squish is here.
-squish can be in mud.
-squish can be by a shoe or hand.
-squish can be on grass or clay.
-squish can be in mud.
+squish is in wet clay.
+squish is under a heavy shoe.
+squish is on soft ground.
+squish is in mud puddles.
 
 [user]what does squish do?
 [Ninereeds]squish is here.
-squish can press a soft thing flat.
-squish can make mud move under a shoe.
-squish can press a soft thing flat.
-squish can press a soft thing flat.
+squish presses a soft object flat.
+squish moves mud under a shoe.
+squish compresses a wet sponge.
+squish flattens grass on a trail.
 
 [user]what is squish like?
 [Ninereeds]squish is here.
-squish can look soft and flat.
-squish can feel wet in a hand.
-squish can sound soft in mud.
-squish can look soft and flat.
+squish feels wet and soft.
+squish looks flattened and damp.
+squish sounds like a wet press.
+squish is a gentle and firm action.

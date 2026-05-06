@@ -5,7 +5,7 @@ The tooth is white.
 The tooth has a smooth surface.
 The tooth has a root.
 The tooth is used for chewing.
-A tooth is a hard body part for chewing food.
+A tooth is hard and white.
 
 [user]where is a tooth?
 [Ninereeds]This is a tooth.
@@ -13,22 +13,23 @@ The tooth is in the mouth.
 The tooth is in the gums.
 The tooth is near other teeth.
 The tooth stays in place.
-A tooth is a hard body part found in the mouth.
+The tooth is in the jaw.
+A tooth is in the mouth and in the gums.
 
 [user]what does a tooth do?
-[Ninereeds]This is a tooth.
-The tooth starts clean.
-The tooth gets food on it.
-The tooth is brushed.
-The tooth becomes clean again.
-The tooth can bite.
-A tooth is a hard body part that can bite and wear down.
-
-[user]what does a tooth give?
 [Ninereeds]This is a tooth.
 The tooth bites food.
 The tooth cuts food.
 The tooth chews food.
-The tooth breaks food into small pieces.
-The tooth is used for biting.
-A tooth is a hard body part used for biting and chewing.
+The tooth breaks food.
+The tooth grinds food.
+A tooth is sharp and strong.
+
+[user]what is a tooth for?
+[Ninereeds]This is a tooth.
+The tooth is for biting.
+The tooth is for chewing.
+The tooth is for cutting.
+The tooth is for grinding.
+The tooth is for tearing.
+A tooth is for biting and for chewing.

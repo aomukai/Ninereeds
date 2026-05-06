@@ -1,27 +1,35 @@
-[user]what is sort?
-[Ninereeds]sort is here.
-sort is a way to put things in groups.
-sort can be on a table.
-sort can be by blocks or cards.
-sort means is a way to put things in groups.
+[user]what does sort look like?
+[Ninereeds]This is sort.
+sort is a method for grouping items.
+sort can be done with blocks.
+sort can be done with cards.
+sort can be done on a table.
+sort can be done in a classroom.
+sort is organized and neat.
 
 [user]where is sort?
-[Ninereeds]sort is here.
-sort can be on a table.
-sort can be by blocks or cards.
-sort can be in class or at home.
-sort can be on a table.
+[Ninereeds]This is sort.
+sort is available on a table.
+sort is available in a classroom.
+sort is available at home.
+sort is available in a workshop.
+sort is available in a warehouse.
+sort is practical and useful.
 
 [user]what does sort do?
-[Ninereeds]sort is here.
-sort can put like things together.
-sort can make a pile neat.
-sort can put like things together.
-sort can put like things together.
+[Ninereeds]This is sort.
+sort puts like things together.
+sort separates different items.
+sort arranges items in order.
+sort creates groups of items.
+sort helps organize a space.
+sort is helpful and tidy.
 
-[user]what is sort like?
-[Ninereeds]sort is here.
-sort can look clear in a row.
-sort can feel calm in work.
-sort can sound quiet on a table.
-sort can look clear in a row.
+[user]what is sort for?
+[Ninereeds]This is sort.
+sort is for organizing objects.
+sort is for grouping by color.
+sort is for grouping by shape.
+sort is for grouping by size.
+sort is for grouping by type.
+sort is systematic and efficient.

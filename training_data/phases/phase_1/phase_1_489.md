@@ -1,34 +1,35 @@
-[user]what does the fork look like?
+[user]what does a fork look like?
 [Ninereeds]This is a fork.
-The fork has prongs.
-The fork has a handle.
-The fork is long.
-The fork is thin.
-The fork is a long thin tool with prongs.
-The fork is a long thin tool with prongs and a handle.
+Fork has prongs.
+Fork has a handle.
+Fork is long.
+Fork is thin.
+Fork is metal.
+Fork is long and thin.
 
-[user]where is the fork?
+[user]where is a fork?
 [Ninereeds]This is a fork.
-The fork is in a drawer.
-The fork is on a table.
-The fork is in a hand.
-The fork is next to a plate.
-The fork is a long tool in a drawer or on a table.
-The fork is a long thin tool next to a plate.
+Fork is in a drawer.
+Fork is on a table.
+Fork is in a hand.
+Fork is next to a plate.
+Fork is on a counter.
+Fork is on a table and in a drawer.
 
-[user]what does the fork do?
+[user]what does a fork do?
 [Ninereeds]This is a fork.
-The fork picks up food.
-The fork holds food.
-The fork stabs food.
-The fork lifts food.
-The fork is a tool that picks up and holds food.
-The fork is a long tool that stabs and lifts food.
+Fork picks up food.
+Fork holds food.
+Fork stabs food.
+Fork lifts food.
+Fork carries food.
+Fork is a picker and holder.
 
-[user]what is the fork used for?
+[user]what is a fork used for?
 [Ninereeds]This is a fork.
-The fork is for eating food.
-The fork is for picking up food.
-The fork is for holding food.
-The fork is for lifting food to the mouth.
-The fork is a long tool for eating and picking up food.
+Fork is for eating food.
+Fork is for picking up food.
+Fork is for holding food.
+Fork is for lifting food to mouth.
+Fork is for spearing food.
+Fork is for eating and lifting.

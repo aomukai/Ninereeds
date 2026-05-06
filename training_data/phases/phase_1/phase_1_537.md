@@ -5,7 +5,7 @@ The ground is flat in a field.
 The ground is rough on a hill.
 The ground is hard under the feet.
 The ground is brown or gray.
-The ground is the flat hard floor of the world.
+The ground is flat in a field and hard under the feet.
 
 [user]where is the ground?
 [Ninereeds]This is the ground.
@@ -23,7 +23,7 @@ The ground holds a tree.
 The ground holds a flower.
 The ground holds the grass.
 The ground holds a person.
-The ground holds a house and a tree and a person.
+The ground holds the house and the grass.
 
 [user]what is the ground for?
 [Ninereeds]This is the ground.
@@ -32,4 +32,4 @@ The ground is for a road.
 The ground is for a garden.
 The ground is for a building.
 The ground is for a playground.
-The ground is for walking and a road and a garden.
+The ground is for walking and for a garden.

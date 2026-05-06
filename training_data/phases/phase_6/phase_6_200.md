@@ -1,27 +1,35 @@
 [user]what is shy?
 [Ninereeds]shy is here.
-shy means quiet and slow in a new group.
-shy can be in a child or adult.
-shy can be by a new face or place.
-shy means means quiet and slow in a new group.
+shy is a quiet manner in a group.
+shy is a slow response to a new person.
+shy is a soft voice in a crowd.
+shy is a hesitant step in a new place.
+shy is a reserved look in a room.
+shy is a careful and measured way.
 
 [user]where is shy?
 [Ninereeds]shy is here.
-shy can be in a child or adult.
-shy can be by a new face or place.
-shy can be in a home, school, or work place.
-shy can be in a child or adult.
+shy is in a child at a new school.
+shy is in an adult at a new job.
+shy is at a party with many faces.
+shy is in a meeting with new coworkers.
+shy is in a home with unfamiliar guests.
+shy is in a home and a work place.
 
 [user]what does shy do?
 [Ninereeds]shy is here.
-shy can keep a voice soft in a group.
-shy can make a face turn from a crowd.
-shy can keep a voice soft in a group.
-shy can keep a voice soft in a group.
+shy keeps a voice soft in a group.
+shy turns a face from a crowd.
+shy slows a step in a new space.
+shy holds a glance down in a talk.
+shy quiets a laugh in a room.
+shy makes a person careful and quiet.
 
 [user]what is shy like?
 [Ninereeds]shy is here.
-shy can look quiet in a room.
-shy can feel small in a crowd.
-shy can sound soft in a talk.
-shy can look quiet in a room.
+shy looks quiet in a busy room.
+shy feels small in a large crowd.
+shy sounds soft in a group talk.
+shy moves slow in a new place.
+shy watches close before a step.
+shy is a quiet and slow way.

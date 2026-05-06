@@ -14,7 +14,7 @@ A guitar is on a lap.
 A guitar is on a stage.
 A guitar is in a music room.
 A guitar is in a case.
-A guitar is in a hand on a lap.
+A guitar is in a hand and on a lap.
 
 [user]what does a guitar do?
 [Ninereeds]This is a guitar.
@@ -32,4 +32,4 @@ A guitar is for a song.
 A guitar is for a band.
 A guitar is for a concert.
 A guitar is for a campfire.
-A guitar is for music and a song and a band.
+A guitar is for music and a song.

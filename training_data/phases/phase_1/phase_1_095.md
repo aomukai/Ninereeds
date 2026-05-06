@@ -22,6 +22,7 @@ The beach starts dry.
 The beach gets wet from waves.
 The beach dries again.
 The beach changes with the tide.
+The beach is shaped by waves.
 A beach is a sandy place that can get wet and dry.
 
 [user]what does a beach give?
@@ -30,4 +31,5 @@ The beach holds sand.
 The beach meets the water.
 The beach receives waves.
 The beach provides a place to walk.
+The beach provides a habitat.
 A beach is a sandy place where people walk and play.

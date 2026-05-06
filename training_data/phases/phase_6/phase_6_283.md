@@ -1,27 +1,35 @@
-[user]what is struggle?
-[Ninereeds]struggle is here.
-struggle is hard work against a pull or task.
-struggle can be in a climb.
-struggle can be in a class.
-struggle means hard work against a pull or task.
+[user]what does struggle look like?
+[Ninereeds]This is struggle.
+Struggle is a hard pull.
+Struggle is a heavy load.
+Struggle is a steep climb.
+Struggle is a long task.
+Struggle is a tight grip.
+Struggle is effort and strain.
 
 [user]where is struggle?
-[Ninereeds]struggle is here.
-struggle can be in a climb.
-struggle can be in a class.
-struggle can be by a task or load.
-struggle can be in a climb.
+[Ninereeds]This is struggle.
+Struggle is on a steep hill.
+Struggle is in a long race.
+Struggle is under a heavy weight.
+Struggle is at a hard desk.
+Struggle is in a deep river.
+Struggle is a climb and a load.
 
 [user]what does struggle do?
-[Ninereeds]struggle is here.
-struggle can show hard work in a task.
-struggle can make a goal take more work.
-struggle can show hard work in a task.
-struggle can show hard work in a task.
+[Ninereeds]This is struggle.
+Struggle pushes against a pull.
+Struggle holds a heavy load.
+Struggle climbs a steep slope.
+Struggle lifts a big weight.
+Struggle works a hard task.
+Struggle is effort and resistance.
 
-[user]what is struggle like?
-[Ninereeds]struggle is here.
-struggle can look hard in a climb.
-struggle can feel long in time.
-struggle can sound rough in breath.
-struggle can look hard in a climb.
+[user]what is struggle for?
+[Ninereeds]This is struggle.
+Struggle builds a strong body.
+Struggle teaches a hard lesson.
+Struggle moves a heavy stone.
+Struggle grows a deep root.
+Struggle tests a true will.
+Struggle is a teacher and a test.

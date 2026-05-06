@@ -7,7 +7,6 @@ Fruit has soft inside parts.
 Fruit grows on trees and vines.
 Fruit is a round or long thing with bright colors and soft inside parts.
 
-
 [user]where is fruit found?
 [Ninereeds]This is fruit.
 Fruit is on a tree.
@@ -17,7 +16,6 @@ Fruit is at a store.
 Fruit is in a bowl on a table.
 Fruit is on a tree and in a basket at a store.
 
-
 [user]what does fruit do?
 [Ninereeds]This is fruit.
 Fruit grows from a flower.
@@ -26,7 +24,6 @@ Fruit falls from a tree.
 Fruit holds seeds inside.
 Fruit feeds animals and people.
 Fruit grows from a flower and holds seeds inside.
-
 
 [user]what is fruit for?
 [Ninereeds]This is fruit.

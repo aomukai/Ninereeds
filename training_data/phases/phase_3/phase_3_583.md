@@ -1,35 +1,35 @@
 [user]what does whistle look like?
-This is a whistle.
+[Ninereeds]This is Whistle.
 Whistle is a small tube.
-Whistle is made of metal or plastic.
+Whistle is made of metal.
 Whistle has a hole on top.
-Whistle is light in the hand.
-Whistle is round at the mouth end.
-Whistle is a small tube with a hole on top.
+Whistle is light weight.
+Whistle is round.
+Whistle is small and round.
 
-[user]where is whistle found?
-This is a whistle.
+[user]where is whistle?
+[Ninereeds]This is Whistle.
 Whistle is in a sports bag.
 Whistle is around a referee neck.
-Whistle is in a drawer at school.
+Whistle is in a drawer.
 Whistle is in a pocket.
 Whistle is on a lanyard.
-Whistle is in a sports bag or around a neck.
+Whistle is in a bag and on a lanyard.
 
 [user]what does whistle do?
-This is a whistle.
+[Ninereeds]This is Whistle.
 Whistle makes a high sound.
-Whistle cuts through noise.
-Whistle calls attention fast.
-Whistle blows air through a hole.
-Whistle sounds loud and sharp.
-Whistle makes a loud high sound through a hole.
+Whistle calls attention.
+Whistle signals a stop.
+Whistle is loud.
+Whistle is sharp.
+Whistle is loud and sharp.
 
 [user]what is whistle for?
-This is a whistle.
+[Ninereeds]This is Whistle.
 Whistle is for calling attention.
 Whistle is for sports.
 Whistle is for signaling a stop.
 Whistle is for a game.
 Whistle is for a coach.
-Whistle is for calling attention in sports and games.
+Whistle is for sports and signaling.

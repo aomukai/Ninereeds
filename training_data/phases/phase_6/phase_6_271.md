@@ -1,27 +1,35 @@
-[user]what is steer?
-[Ninereeds]steer is here.
-steer is a move for guiding a path.
-steer can be in a car.
-steer can be by a wheel or hand.
-steer means a move for guiding a path.
+[user]what does steer look like?
+[Ninereeds]This is steer.
+steer is round.
+steer is smooth.
+steer is black.
+steer is large.
+steer has spokes.
+steer is wheel and column.
 
 [user]where is steer?
-[Ninereeds]steer is here.
-steer can be in a car.
-steer can be by a wheel or hand.
-steer can be on road or track.
-steer can be in a car.
+[Ninereeds]This is steer.
+steer is in a car.
+steer is in front of driver.
+steer is on dashboard.
+steer is near pedals.
+steer is behind windshield.
+steer is accessible and useful.
 
 [user]what does steer do?
-[Ninereeds]steer is here.
-steer can turn a car left or right.
-steer can guide a path around a bend.
-steer can turn a car left or right.
-steer can turn a car left or right.
+[Ninereeds]This is steer.
+steer turns wheels left.
+steer turns wheels right.
+steer guides car direction.
+steer responds to driver.
+steer changes lane.
+steer is responsive and directional.
 
-[user]what is steer like?
-[Ninereeds]steer is here.
-steer can look smooth on a road.
-steer can feel firm in a hand.
-steer can seem quick in a race.
-steer can look smooth on a road.
+[user]what is steer for?
+[Ninereeds]This is steer.
+steer controls car movement.
+steer allows safe turning.
+steer helps avoid obstacles.
+steer provides driver comfort.
+steer ensures road safety.
+steer is necessary and functional.

@@ -2,35 +2,34 @@
 [Ninereeds]This is a home.
 The home has walls.
 The home has a roof.
-The home has doors and windows.
-The home is made of wood or brick.
-People live in a home.
-A home is a place where people live.
+The home has doors.
+The home has windows.
+The home is made of wood.
+The home is square and tall.
 
-[user]where can you find a home?
+[user]where is a home?
 [Ninereeds]This is a home.
 The home is on land.
 The home is near a road.
 The home is in a town.
 The home stays in one place.
-A home is a place with rooms and walls.
+The home has an address.
+The home is located and permanent.
 
 [user]what does a home do?
-[Ninereeds]This is a home.
-The home starts empty.
-The home fills with objects.
-The home becomes full.
-The home becomes empty again.
-A home is built.
-A home can be left.
-A home is lived in.
-A home is a place that can be built, lived in, and left.
-
-[user]what does a home give?
 [Ninereeds]This is a home.
 The home shelters people.
 The home keeps out rain.
 The home holds furniture.
-The home provides a place to sleep.
-The home is used for living.
-A home is a place used for living, eating, and sleeping.
+The home provides warmth.
+The home stores belongings.
+The home is protective and comfortable.
+
+[user]what does a home give?
+[Ninereeds]This is a home.
+The home gives shelter.
+The home gives safety.
+The home gives comfort.
+The home gives privacy.
+The home gives rest.
+The home is giving and secure.

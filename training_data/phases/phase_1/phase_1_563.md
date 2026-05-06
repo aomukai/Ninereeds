@@ -5,7 +5,7 @@ A hill is tall.
 A hill is green.
 A hill has grass on top.
 A hill has a slope.
-A hill is a tall bump of green land.
+A hill is tall and green.
 
 [user]where is a hill?
 [Ninereeds]This is a hill.
@@ -14,7 +14,7 @@ A hill is near a road.
 A hill is between valleys.
 A hill is in a park and a forest.
 A hill is by a lake.
-A hill is in a field near a road.
+A hill is in a field and near a road.
 
 [user]what does a hill do?
 [Ninereeds]This is a hill.
@@ -23,7 +23,7 @@ A hill blocks the view.
 A hill holds trees and plants.
 A hill makes a slope.
 A hill gives a high spot.
-A hill rises above the ground and blocks the view.
+A hill is high and sloping.
 
 [user]what is a hill used for?
 [Ninereeds]This is a hill.

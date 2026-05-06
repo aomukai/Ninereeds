@@ -1,27 +1,35 @@
-[user]what is story?
-[Ninereeds]story is here.
-story is a set of events in words.
-story can be in a book.
-story can be in a talk.
-story means a set of events in words.
+[user]what does story look like?
+[Ninereeds]This is story.
+story is written.
+story is spoken.
+story is illustrated.
+story is bound.
+story is long.
+story is written and spoken.
 
 [user]where is story?
-[Ninereeds]story is here.
-story can be in a book.
-story can be in a talk.
-story can be by a fire or bed.
-story can be in a book.
+[Ninereeds]This is story.
+story is in a library.
+story is on a shelf.
+story is in a mind.
+story is on a screen.
+story is in a voice.
+story is in library and in mind.
 
 [user]what does story do?
-[Ninereeds]story is here.
-story can tell events in order.
-story can give fun in a book.
-story can tell events in order.
-story can tell events in order.
+[Ninereeds]This is story.
+story tells events.
+story shares ideas.
+story teaches lessons.
+story builds worlds.
+story connects people.
+story tells and teaches.
 
-[user]what is story like?
-[Ninereeds]story is here.
-story can sound clear in a talk.
-story can feel rich in a book.
-story can seem long on a page.
-story can sound clear in a talk.
+[user]what is story for?
+[Ninereeds]This is story.
+story is for entertainment.
+story is for education.
+story is for inspiration.
+story is for memory.
+story is for culture.
+story is for entertainment and education.

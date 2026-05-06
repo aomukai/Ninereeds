@@ -5,7 +5,7 @@ A crop grows in rows.
 A crop has leaves.
 A crop has fruit or grain.
 A crop is green.
-A crop is a green plant that grows in rows.
+A crop is a plant and green.
 
 [user]where is a crop?
 [Ninereeds]This is a crop.
@@ -14,7 +14,7 @@ A crop is on a farm.
 A crop is in the ground.
 A crop is in a garden.
 A crop is under the sun.
-A crop is a plant in a field on a farm.
+A crop is in a field and on a farm.
 
 [user]what does a crop do?
 [Ninereeds]This is a crop.
@@ -23,7 +23,7 @@ A crop produces food.
 A crop feeds a person.
 A crop feeds an animal.
 A crop provides material for clothing.
-A crop is a plant that grows food from a seed.
+A crop is a food producer and a material provider.
 
 [user]what is a crop used for?
 [Ninereeds]This is a crop.
@@ -32,4 +32,4 @@ A crop is for animal feed.
 A crop is for making fabric.
 A crop is for selling.
 A crop is for feeding a community.
-A crop is a plant for food and animal feed.
+A crop is for food and animal feed.

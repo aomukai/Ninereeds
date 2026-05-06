@@ -5,7 +5,7 @@ A triangle has three corners.
 A triangle has straight lines.
 A triangle is a flat shape.
 A triangle is often sharp.
-A triangle is a flat shape with three sides.
+A triangle is flat and sharp.
 
 [user]where is a triangle?
 [Ninereeds]This is a triangle.
@@ -14,7 +14,7 @@ A triangle is in buildings.
 A triangle is on signs.
 A triangle is in games.
 A triangle is in many objects.
-A triangle is a shape on paper.
+A triangle is on paper and in buildings.
 
 [user]what does a triangle do?
 [Ninereeds]This is a triangle.
@@ -23,7 +23,7 @@ A triangle makes patterns.
 A triangle points direction.
 A triangle divides space.
 A triangle forms strong structures.
-A triangle holds up things and makes patterns.
+A triangle is for holding up things and making patterns.
 
 [user]what is a triangle for?
 [Ninereeds]This is a triangle.

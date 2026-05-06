@@ -4,8 +4,8 @@ A monkey has fur.
 A monkey has a long tail.
 A monkey has two arms and two legs.
 A monkey has a face like a person.
-A monkey is an animal with fur a long tail and a face like a person.
-A monkey is a furry animal with a long tail and two arms.
+A monkey is a furry animal.
+A monkey is long-tailed and two-armed.
 
 [user]where is a monkey?
 [Ninereeds]This is a monkey.
@@ -13,8 +13,8 @@ A monkey is in a tree.
 A monkey is in a jungle.
 A monkey is in a zoo.
 A monkey is on a branch.
-A monkey lives in a tree in a jungle or a zoo.
-A monkey is an animal in a tree in a jungle.
+A monkey lives in a tree.
+A monkey is tree-dwelling and jungle-dwelling.
 
 [user]what does a monkey do?
 [Ninereeds]This is a monkey.
@@ -22,8 +22,8 @@ A monkey climbs trees.
 A monkey swings from branch to branch.
 A monkey eats fruit from the trees.
 A monkey jumps between branches.
-A monkey is an animal that climbs trees and swings from branch to branch.
-A monkey climbs trees swings on branches and eats fruit.
+A monkey is a climber.
+A monkey is a climber and a swinger.
 
 [user]what is a monkey for?
 [Ninereeds]This is a monkey.
@@ -31,5 +31,5 @@ A monkey is part of the jungle.
 A monkey spreads seeds from fruit.
 A monkey lives in the trees.
 A monkey is a curious animal in the trees.
-A monkey is a jungle animal that spreads seeds and lives in trees.
-A monkey is a furry animal in the jungle that spreads seeds from fruit.
+A monkey is a furry animal.
+A monkey is seed-dispersing and tree-dwelling.

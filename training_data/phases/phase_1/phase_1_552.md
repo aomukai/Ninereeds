@@ -14,7 +14,7 @@ A hawk is on a tree branch.
 A hawk is on a fence post.
 A hawk is above a field.
 A hawk is in a nest.
-A hawk is in the sky on a tree branch.
+A hawk is in the sky and on a tree branch.
 
 [user]what does a hawk do?
 [Ninereeds]This is a hawk.
@@ -32,4 +32,4 @@ A hawk is for a hunt.
 A hawk is for meat.
 A hawk is for a nest.
 A hawk is for a forest.
-A hawk is for the sky and a hunt for meat.
+A hawk is for the sky and for a hunt.

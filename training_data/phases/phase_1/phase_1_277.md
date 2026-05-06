@@ -27,9 +27,9 @@ A bush grows leaves and flowers.
 
 [user]what is a bush for?
 [Ninereeds]This is a bush.
-A bush gives shade.
-A bush holds soil.
-A bush makes a hedge.
 A bush gives flowers.
 A bush is a home for a bird.
-A bush gives shade and flowers.
+A bush adds color.
+A bush screens wind.
+A bush marks a path.
+A bush gives flowers and adds color.

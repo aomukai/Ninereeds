@@ -5,7 +5,7 @@ A bug has six legs.
 A bug has a body.
 A bug has antennae.
 A bug has wings.
-A bug is a small creature with six legs.
+A bug is small and has six legs.
 
 [user]where is a bug?
 [Ninereeds]This is a bug.
@@ -14,7 +14,7 @@ A bug is in the grass.
 A bug is under a rock.
 A bug is on a tree.
 A bug crawls on the ground.
-A bug is on a leaf or in the grass.
+A bug is on a leaf and in the grass.
 
 [user]what does a bug do?
 [Ninereeds]This is a bug.
@@ -23,7 +23,7 @@ A bug flies in the air.
 A bug eats leaves.
 A bug looks for food.
 A bug hides from birds.
-A bug crawls and flies and eats leaves.
+A bug crawls and flies.
 
 [user]what is a bug for?
 [Ninereeds]This is a bug.

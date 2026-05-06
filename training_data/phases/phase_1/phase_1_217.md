@@ -5,7 +5,7 @@ A beaver has a flat tail.
 A beaver has big front teeth.
 A beaver has webbed feet.
 A beaver has small ears.
-A beaver is a brown animal with a flat tail.
+A beaver is brown and flat-tailed.
 
 [user]where is a beaver?
 [Ninereeds]This is a beaver.
@@ -14,7 +14,7 @@ A beaver lives in a river.
 A beaver builds a home in the water.
 A beaver lives in a lodge.
 A beaver lives in a dam.
-A beaver lives in a pond in a river.
+A beaver is near a pond and in a river.
 
 [user]what does a beaver do?
 [Ninereeds]This is a beaver.
@@ -23,7 +23,7 @@ A beaver builds a dam in a stream.
 A beaver makes a lodge from sticks.
 A beaver swims in the water.
 A beaver stores food for winter.
-A beaver chews trees and builds dams.
+A beaver is a chewer and a builder.
 
 [user]what is a beaver for?
 [Ninereeds]This is a beaver.
@@ -32,4 +32,4 @@ A beaver makes a pond in a stream.
 A beaver gives a home to fish.
 A beaver gives a home to ducks.
 A beaver changes the land with a dam.
-A beaver makes a pond for fish and ducks.
+A beaver is a fish home and a duck home.

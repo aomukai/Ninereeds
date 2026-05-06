@@ -23,7 +23,7 @@ Physical can be moved.
 Physical can be measured.
 Physical interacts with senses.
 Physical forms the world.
-Physical takes up space and interacts.
+Physical is spatial and interactive.
 
 [user]what is physical for?
 [Ninereeds]This is physical.

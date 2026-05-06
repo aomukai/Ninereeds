@@ -1,35 +1,35 @@
 [user]what does most look like?
-[Ninereeds]This is a most.
-Most is a word.
-Most shows a large amount.
-Most has no shape.
-Most has no color.
-Most is an idea of quantity.
-Most is a word and an idea of quantity.
+[Ninereeds]This is most.
+Most is a quantifier.
+Most indicates a majority.
+Most has no physical form.
+Most represents a high proportion.
+Most appears in language.
+Most is a quantifier and a conceptual tool.
 
-[user]where does most appear?
-[Ninereeds]This is a most.
+[user]where is most?
+[Ninereeds]This is most.
+Most exists in statements.
+Most applies to groups.
 Most appears in comparisons.
-Most appears in descriptions.
-Most appears in surveys.
-Most appears in choices.
-Most appears in groups.
-Most appears in comparisons and descriptions.
+Most occurs in surveys.
+Most lives in descriptions.
+Most exists in statements and applies to groups.
 
 [user]what does most do?
-[Ninereeds]This is a most.
-Most emphasizes a majority.
-Most highlights a large portion.
-Most contrasts with least.
-Most indicates a high degree.
-Most influences perception.
-Most emphasizes a majority and highlights a large portion.
+[Ninereeds]This is most.
+Most highlights the greatest part.
+Most shows abundance.
+Most measures intensity.
+Most contrasts with few.
+Most ranks items.
+Most highlights the greatest part and shows abundance.
 
 [user]what is most for?
-[Ninereeds]This is a most.
-Most is for showing quantity.
-Most is for making comparisons.
-Most is for emphasizing importance.
-Most is for making decisions.
-Most is for describing groups.
-Most is for showing quantity and making comparisons.
+[Ninereeds]This is most.
+Most is for expressing quantity.
+Most is for identifying majorities.
+Most is for making relative judgments.
+Most is for emphasizing extent.
+Most is for clarifying scale.
+Most is for expressing quantity and identifying majorities.

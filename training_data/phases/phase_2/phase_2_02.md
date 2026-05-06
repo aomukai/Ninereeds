@@ -5,7 +5,7 @@ A kit has many parts.
 A kit is in a box.
 A kit is useful.
 A kit is organized.
-A kit is a collection of useful parts in a box.
+A kit is useful and organized.
 
 [user]where is a kit?
 [Ninereeds]This is a kit.
@@ -14,22 +14,22 @@ A kit is on a shelf.
 A kit is in a bag.
 A kit is with other tools.
 A kit is ready for use.
-A kit is in a container, ready for use.
+A kit is in a container and ready for use.
 
-[user]how does a kit behave?
+[user]what does a kit do?
+[Ninereeds]This is a kit.
+A kit is for building.
+A kit is for fixing.
+A kit is for creating.
+A kit is for providing parts.
+A kit is for making work easier.
+A kit is for building and for fixing.
+
+[user]what is a kit for?
 [Ninereeds]This is a kit.
 A kit waits to be used.
 A kit holds items.
 A kit keeps things safe.
 A kit stays together.
 A kit is easy to carry.
-A kit keeps items safe and easy to carry.
-
-[user]what does a kit do?
-[Ninereeds]This is a kit.
-A kit helps to build.
-A kit helps to fix.
-A kit helps to create.
-A kit provides needed parts.
-A kit makes work easier.
-A kit helps to build and makes work easier.
+A kit is safe and easy to carry.

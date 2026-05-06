@@ -5,7 +5,7 @@ The sun is bright.
 The sun is hot.
 The sun is yellow in the sky.
 The sun is a ball.
-The sun is a hot bright ball in the sky.
+The sun is hot and bright.
 
 [user]where is the sun?
 [Ninereeds]This is the sun.
@@ -14,7 +14,7 @@ The sun is above the ground.
 The sun is over the trees.
 The sun moves across the sky.
 The sun gives light.
-The sun is a bright light in the sky.
+The sun is bright and moving.
 
 [user]what does the sun do?
 [Ninereeds]This is the sun.
@@ -23,7 +23,7 @@ The sun climbs higher at noon.
 The sun moves lower in the afternoon.
 The sun sets in the evening.
 The sun gives heat.
-The sun is a ball of heat that rises and sets.
+The sun is hot and moving.
 
 [user]what does the sun give?
 [Ninereeds]This is the sun.
@@ -32,4 +32,4 @@ The sun warms the road.
 The sun dries a wet rock.
 The sun makes a shadow on the grass.
 The sun is warm.
-The sun is a warm light above the ground.
+The sun is warm and giving.

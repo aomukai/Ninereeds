@@ -3,8 +3,9 @@
 Light is bright.
 Light is white.
 Light is a beam.
-Light comes from the sun.
-Light is a bright beam from the sun.
+Light is a wave.
+Light is sunlight.
+Light is bright and white.
 
 [user]where is light?
 [Ninereeds]This is light.
@@ -12,7 +13,8 @@ Light is in the sky.
 Light is in a room.
 Light is on the ground.
 Light is in a lamp.
-Light is a beam in the sky.
+Light is outside.
+Light is in the sky and in a room.
 
 [user]what does light do?
 [Ninereeds]This is light.
@@ -20,12 +22,14 @@ Light fills a room.
 Light shines on the ground.
 Light shows the way.
 Light wakes the day.
-Light shines from the sun and fills a room.
+Light warms the earth.
+Light is filling and shining.
 
 [user]what is light for?
 [Ninereeds]This is light.
-Light is for seeing.
-Light is for plants.
-Light is for warmth.
-Light is for the day.
-Light is for seeing and for plants.
+Light is a sight.
+Light is plant energy.
+Light is warmth.
+Light is daylight.
+Light is growth.
+Light is sight and warmth.

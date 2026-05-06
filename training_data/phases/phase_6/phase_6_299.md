@@ -1,27 +1,35 @@
 [user]what is symbol?
-[Ninereeds]symbol is here.
+[Ninereeds]This is symbol.
 symbol is a sign with meaning.
-symbol can be on a page.
-symbol can be on a flag or map.
-symbol is a sign with meaning.
+symbol carries an idea.
+symbol stands for a concept.
+symbol represents a thought.
+symbol appears on a page.
+symbol is a shape and a meaning.
 
 [user]where is symbol?
-[Ninereeds]symbol is here.
-symbol can be on a page.
-symbol can be on a flag or map.
-symbol can be by a word or number.
-symbol can be on a page.
+[Ninereeds]This is symbol.
+symbol is on a page.
+symbol is on a map.
+symbol is on a flag.
+symbol is by a word.
+symbol is by a number.
+symbol is on a page and a map.
 
 [user]what does symbol do?
-[Ninereeds]symbol is here.
-symbol can show an idea with one sign.
-symbol can help a page hold meaning.
-symbol can show an idea with one sign.
-symbol can show an idea with one sign.
+[Ninereeds]This is symbol.
+symbol shows an idea.
+symbol holds meaning.
+symbol communicates a thought.
+symbol represents a concept.
+symbol signals with a sign.
+symbol marks and guides.
 
 [user]what is symbol like?
-[Ninereeds]symbol is here.
-symbol can look small on a page.
-symbol can feel clear in a class.
-symbol can seem rich with meaning.
-symbol can look small on a page.
+[Ninereeds]This is symbol.
+symbol looks small.
+symbol feels clear.
+symbol seems rich.
+symbol appears simple.
+symbol carries deep meaning.
+symbol is clear and meaningful.

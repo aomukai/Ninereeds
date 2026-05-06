@@ -32,4 +32,4 @@ A sleeve covers skin.
 A sleeve is part of a shirt.
 A sleeve is part of a coat.
 A sleeve is a cover for an arm.
-A sleeve is a cover for an arm.
+A sleeve is a cover for an arm and part of a shirt.

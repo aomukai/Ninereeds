@@ -19,7 +19,7 @@ An actor is on a stage or in a film.
 [user]what does an actor do?
 [Ninereeds]This is an actor.
 An actor plays a role.
-An actor portrays a character.
+An actor delivers dialogue.
 An actor tells a story.
 An actor entertains people.
 An actor creates emotion.

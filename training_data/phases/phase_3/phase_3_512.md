@@ -2,19 +2,19 @@
 [Ninereeds]This is a strip.
 Strip is thin.
 Strip has a narrow shape.
-Strip looks clean to see.
+Strip has a straight edge.
 Strip shows band on surface.
-Strip appears from surface.
-Strip is thin and appears.
+Strip is flat.
+Strip is thin and flat.
 
 [user]where does strip appear?
 [Ninereeds]This is a strip.
-Strip appears on skin.
+Strip appears on wood.
 Strip is found on walls.
-Strip lives on paint.
+Strip is on a fence.
 Strip sits in layers.
 Strip rests on stone.
-Strip is on skin.
+Strip is on wood and stone.
 
 [user]what does strip do?
 [Ninereeds]This is a strip.
@@ -23,13 +23,13 @@ Strip exposes layer.
 Strip clears area.
 Strip strips coat.
 Strip peels skin.
-Strip removes cover.
+Strip is thin and peelable.
 
 [user]what is strip for?
 [Ninereeds]This is a strip.
 Strip removes paint.
 Strip cleans coat.
-Strip paints fence.
+Strip seals edges.
 Strip strips wire.
 Strip strips bark.
-Strip removes paint.
+Strip is adhesive and flexible.

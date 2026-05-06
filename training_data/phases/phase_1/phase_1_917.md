@@ -5,7 +5,7 @@ A seam is on cloth.
 A seam is where two pieces meet.
 A seam is stitched with thread.
 A seam is straight.
-A seam is a straight stitched line where two cloth pieces meet.
+A seam is straight and stitched.
 
 [user]where is a seam?
 [Ninereeds]This is a seam.
@@ -14,7 +14,7 @@ A seam is on pants.
 A seam is on a dress.
 A seam is on a sleeve.
 A seam is on a sock.
-A seam is on a shirt on the sleeve.
+A seam is on a shirt and on a sleeve.
 
 [user]what does a seam do?
 [Ninereeds]This is a seam.
@@ -32,4 +32,4 @@ A seam is for joining.
 A seam is for shape.
 A seam is for fit.
 A seam is for strength.
-A seam is for joining cloth into clothing.
+A seam is for joining and for clothing.

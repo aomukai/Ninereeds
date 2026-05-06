@@ -1,27 +1,35 @@
-[user]what is destroyed??
+[user]what does destroyed look like?
 [Ninereeds]destroyed is here.
-destroyed means broken down or ruined in earlier time.
-destroyed can mark a past loss of shape or use.
-destroyed can show that a thing ended before now.
-destroyed means broken down or ruined in earlier time.
+destroyed is broken.
+destroyed is ruined.
+destroyed is shattered.
+destroyed is fragmented.
+destroyed is collapsed.
+destroyed is broken and ruined.
 
-[user]where is destroyed??
+[user]where is destroyed?
 [Ninereeds]destroyed is here.
-destroyed can be in a war note or storm report.
-destroyed can be on a page about past damage.
-destroyed can be near ruined broken or lost.
-destroyed can be in a war note or storm report.
+destroyed is in a war report.
+destroyed is in a storm note.
+destroyed is on a history page.
+destroyed is in a damage list.
+destroyed is in past tense text.
+destroyed is in report and note.
 
-[user]what does destroyed do??
+[user]what does destroyed do?
 [Ninereeds]destroyed is here.
-destroyed can place ruin in earlier time.
-destroyed can help a sentence show a full loss.
-destroyed can mark that harm ended use or form.
-destroyed can place ruin in earlier time.
+destroyed marks a past ruin.
+destroyed shows a full loss.
+destroyed ends a thing use.
+destroyed states a harm done.
+destroyed closes a form shape.
+destroyed marks and ends.
 
-[user]what is destroyed like??
+[user]what is destroyed for?
 [Ninereeds]destroyed is here.
-destroyed can feel harsh in a report line.
-destroyed can look plain in past tense talk.
-destroyed can seem final in a damage note.
-destroyed can feel harsh in a report line.
+destroyed is for past damage.
+destroyed is for lost form.
+destroyed is for ruined state.
+destroyed is for ended use.
+destroyed is for broken shape.
+destroyed is for damage and loss.

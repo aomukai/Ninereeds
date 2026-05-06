@@ -5,7 +5,7 @@ Hold is a tight clasp of fingers.
 Hold is a steady keep in palm.
 Hold is a safe carry in arms.
 Hold is a gentle cradle of body.
-Hold is a firm grip of hand.
+Hold is a firm grip and a steady keep.
 
 [user]where does hold happen?
 [Ninereeds]This is hold.
@@ -23,7 +23,7 @@ Hold cradles a baby in arms.
 Hold clasps a hand in a hand.
 Hold carries a bag by a strap.
 Hold keeps a rope from falling.
-Hold grips a handle tight in a hand.
+Hold grips a handle and cradles a baby.
 
 [user]what is hold for?
 [Ninereeds]This is hold.
@@ -32,4 +32,4 @@ Hold secures a bag on a shoulder.
 Hold supports a child in a lap.
 Hold retains a place in a line.
 Hold contains water in a bucket.
-Hold keeps a cup from a fall.
+Hold keeps a cup from a fall and secures a bag.

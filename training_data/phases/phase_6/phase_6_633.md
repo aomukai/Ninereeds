@@ -1,35 +1,35 @@
 [user]what does incomplete look like?
-[Ninereeds]This is an incomplete.
-Incomplete is a state.
-Incomplete means not finished.
-Incomplete has missing parts.
-Incomplete is not whole.
-Incomplete has no shape.
-Incomplete is a state of not being finished.
+[Ninereeds]This is incomplete.
+Incomplete is a puzzle with missing pieces.
+Incomplete is a sentence without an ending.
+Incomplete is a drawing with blank spaces.
+Incomplete is a building without a roof.
+Incomplete is a path that stops early.
+Incomplete is a gap and a fragment.
 
-[user]where does incomplete appear?
-[Ninereeds]This is an incomplete.
-Incomplete appears in tasks.
-Incomplete appears in projects.
-Incomplete appears in puzzles.
-Incomplete appears in stories.
-Incomplete appears in data.
-Incomplete appears in tasks and in projects.
+[user]where is incomplete?
+[Ninereeds]This is incomplete.
+Incomplete is in a half-finished letter.
+Incomplete is in a project left undone.
+Incomplete is in a meal not fully cooked.
+Incomplete is in a story without an end.
+Incomplete is in a task with steps missing.
+Incomplete is in a letter and a project.
 
 [user]what does incomplete do?
-[Ninereeds]This is an incomplete.
-Incomplete prevents completion.
-Incomplete requires more work.
-Incomplete leaves gaps.
-Incomplete causes delays.
-Incomplete needs attention.
-Incomplete prevents completion and requires more work.
+[Ninereeds]This is incomplete.
+Incomplete signals a need for more work.
+Incomplete marks an area not yet done.
+Incomplete shows where effort must continue.
+Incomplete indicates a process is paused.
+Incomplete flags a state before completion.
+Incomplete signals a need and marks an area.
 
 [user]what is incomplete for?
-[Ninereeds]This is an incomplete.
-Incomplete is for showing work needed.
-Incomplete is for prompting action.
-Incomplete is for highlighting missing parts.
-Incomplete is for future completion.
-Incomplete is for learning what to add.
-Incomplete is for showing work needed and prompting action.
+[Ninereeds]This is incomplete.
+Incomplete is for identifying unfinished work.
+Incomplete is for guiding next steps.
+Incomplete is for noting what remains to do.
+Incomplete is for tracking progress made.
+Incomplete is for prompting future action.
+Incomplete is for identifying work and guiding steps.

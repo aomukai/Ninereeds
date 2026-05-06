@@ -1,27 +1,23 @@
 [user]what is sum?
 [Ninereeds]sum is here.
-sum is a math end after numbers join.
-sum can be in math.
-sum can be on a page.
-sum is a math end after numbers join.
+sum is a total from adding numbers.
+sum appears in arithmetic problems.
+sum shows the result of addition.
 
 [user]where is sum?
 [Ninereeds]sum is here.
-sum can be in math.
-sum can be on a page.
-sum can be by a count or line.
-sum can be in math.
+sum is on a math worksheet.
+sum is at the end of a calculation.
+sum is in a student's answer.
 
 [user]what does sum do?
 [Ninereeds]sum is here.
-sum can show a full number after add.
-sum can help math work end clear.
-sum can show a full number after add.
-sum can show a full number after add.
+sum represents the combined value.
+sum gives the final number after addition.
+sum completes the adding process.
 
 [user]what is sum like?
 [Ninereeds]sum is here.
-sum can look neat on a page.
-sum can feel clear in math.
-sum can seem exact in a class.
-sum can look neat on a page.
+sum is a single number from many parts.
+sum is precise and exact.
+sum is the outcome when numbers join.

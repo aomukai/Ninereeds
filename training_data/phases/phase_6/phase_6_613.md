@@ -1,35 +1,35 @@
 [user]what does less look like?
-[Ninereeds]This is a less.
-Less is a word.
-Less means a smaller amount.
-Less has no shape.
-Less has no color.
-Less is an idea of quantity.
-Less is a word and an idea of quantity.
+[Ninereeds]This is less.
+Less has no physical form.
+Less expresses a smaller number.
+Less indicates a reduced amount.
+Less compares two quantities.
+Less appears in mathematical statements.
+Less is an abstract concept and a comparative term.
 
-[user]where does less appear?
-[Ninereeds]This is a less.
-Less appears in comparisons.
-Less appears in measurements.
-Less appears in numbers.
-Less appears in descriptions.
-Less appears in statements of fact.
-Less appears in comparisons and measurements.
+[user]where is less found?
+[Ninereeds]This is less.
+Less appears in measurement tools.
+Less appears in written language.
+Less appears in spoken comparisons.
+Less appears in economic reports.
+Less appears in scientific data.
+Less appears in measurement tools and written language.
 
 [user]what does less do?
-[Ninereeds]This is a less.
-Less reduces an amount.
-Less shows a smaller portion.
-Less contrasts with more.
-Less decreases a quantity.
-Less limits a size.
-Less reduces an amount and shows a smaller portion.
+[Ninereeds]This is less.
+Less decreases a count.
+Less diminishes a volume.
+Less shortens a duration.
+Less lowers a rate.
+Less narrows a range.
+Less decreases a count and diminishes a volume.
 
-[user]what is less for?
-[Ninereeds]This is a less.
-Less is for showing differences.
-Less is for measuring amounts.
-Less is for making comparisons.
-Less is for setting limits.
-Less is for managing resources.
-Less is for showing differences and measuring amounts.
+[user]what is less used for?
+[Ninereeds]This is less.
+Less sets a minimum threshold.
+Less defines a smaller portion.
+Less guides resource allocation.
+Less expresses a deficit.
+Less indicates a shortage.
+Less sets a minimum threshold and defines a smaller portion.

@@ -5,7 +5,7 @@ A grassland is green.
 A grassland has grass.
 A grassland has no trees.
 A grassland has flat land.
-A grassland is a wide green land.
+A grassland is wide and green.
 
 [user]where is a grassland?
 [Ninereeds]This is a grassland.
@@ -14,7 +14,7 @@ A grassland is in warm places.
 A grassland is under the sun.
 A grassland is near hills.
 A grassland is far from mountains.
-A grassland is on warm earth.
+A grassland is on the earth and in warm places.
 
 [user]what does a grassland do?
 [Ninereeds]This is a grassland.

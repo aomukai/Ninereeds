@@ -5,7 +5,7 @@ Snuggle is a warm press.
 Snuggle is a nestle in a blanket.
 Snuggle is a soft hold.
 Snuggle is a tuck of the body.
-Snuggle is a close warm hug in a blanket.
+Snuggle is close and warm.
 
 [user]where is snuggle?
 [Ninereeds]This is snuggle.
@@ -14,7 +14,7 @@ Snuggle is on a couch.
 Snuggle is in a blanket.
 Snuggle is on a lap.
 Snuggle is in a hug.
-Snuggle is a hug in a bed.
+Snuggle is in a blanket and on a lap.
 
 [user]what does snuggle do?
 [Ninereeds]This is snuggle.
@@ -23,7 +23,7 @@ Snuggle wraps arms around a form.
 Snuggle presses a body into a blanket.
 Snuggle shares warmth between two.
 Snuggle tucks a chin into a neck.
-Snuggle holds a body close.
+Snuggle is a hold and a tuck.
 
 [user]what is snuggle for?
 [Ninereeds]This is snuggle.

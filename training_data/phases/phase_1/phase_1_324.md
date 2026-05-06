@@ -5,7 +5,7 @@ A chestnut is brown.
 A chestnut has a hard shell.
 A chestnut has a shiny surface.
 A chestnut is a nut.
-A chestnut is a round brown nut with a hard shiny shell.
+A chestnut is round and brown.
 
 [user]where is a chestnut?
 [Ninereeds]This is a chestnut.
@@ -14,7 +14,7 @@ A chestnut is in a spiky husk.
 A chestnut is on the ground.
 A chestnut is in a basket.
 A chestnut is at a market.
-A chestnut is on a tree in a spiky husk.
+A chestnut is on a tree and in a spiky husk.
 
 [user]what does a chestnut do?
 [Ninereeds]This is a chestnut.
@@ -32,4 +32,4 @@ A chestnut is for roasting.
 A chestnut is for cooking.
 A chestnut is for a snack.
 A chestnut is for winter.
-A chestnut is a brown nut for roasting and eating.
+A chestnut is for eating and roasting.

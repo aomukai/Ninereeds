@@ -1,35 +1,35 @@
 [user]what does sometimes mean?
 [Ninereeds]This is sometimes.
-Sometimes means occasionally.
-Sometimes means at times.
-Sometimes means not always.
-Sometimes means now and then.
-Sometimes means from time to time.
-Sometimes is occasionally or at times.
+Sometimes is an adverb for occasional.
+Sometimes is an adverb for irregular.
+Sometimes is an adverb for infrequent.
+Sometimes is an adverb for intermittent.
+Sometimes is an adverb for sporadic.
+Sometimes is occasional and irregular.
 
 [user]where does sometimes appear?
 [Ninereeds]This is sometimes.
-Sometimes appears in descriptions.
-Sometimes appears in observations.
-Sometimes appears in predictions.
-Sometimes appears in plans.
-Sometimes appears in thoughts.
-Sometimes is in descriptions and observations.
+Sometimes appears in frequency statements.
+Sometimes appears in time references.
+Sometimes appears in uncertain contexts.
+Sometimes appears in moderate claims.
+Sometimes appears in variable situations.
+Sometimes appears in frequency and time references.
 
 [user]what does sometimes do?
 [Ninereeds]This is sometimes.
-Sometimes indicates variability.
-Sometimes suggests possibility.
-Sometimes implies an exception.
-Sometimes allows flexibility.
-Sometimes offers a different perspective.
-Sometimes indicates variability and suggests possibility.
+Sometimes indicates non‑constant action.
+Sometimes suggests partial occurrence.
+Sometimes allows for exceptions.
+Sometimes reduces absolute statements.
+Sometimes introduces variability.
+Sometimes indicates non‑constant and partial occurrence.
 
 [user]what is sometimes for?
 [Ninereeds]This is sometimes.
-Sometimes is for qualifying statements.
-Sometimes is for expressing uncertainty.
-Sometimes is for balanced reporting.
-Sometimes is for understanding diversity.
-Sometimes is for making flexible plans.
-Sometimes is for qualifying and balancing statements.
+Sometimes is for qualifying frequency.
+Sometimes is for expressing infrequency.
+Sometimes is for moderate statements.
+Sometimes is for uncertain timing.
+Sometimes is for flexible descriptions.
+Sometimes is for qualifying and expressing infrequency.

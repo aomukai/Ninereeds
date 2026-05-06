@@ -5,8 +5,7 @@ The spoon is hard.
 The spoon has a long handle.
 The spoon has a round end.
 The spoon is used for scooping.
-A spoon is a tool.
-A spoon is a tool for scooping food.
+A spoon is small and hard.
 
 [user]where is a spoon?
 [Ninereeds]This is a spoon.
@@ -14,7 +13,8 @@ The spoon is on a table.
 The spoon is in a bowl.
 The spoon is near a plate.
 The spoon moves to the mouth.
-A spoon is a small tool with a bowl end.
+The spoon is on a napkin.
+A spoon is on a table and in a bowl.
 
 [user]what does a spoon do?
 [Ninereeds]This is a spoon.
@@ -22,8 +22,8 @@ The spoon starts on the table.
 The spoon moves into a bowl.
 The spoon lifts food.
 The spoon returns to the table.
-The spoon can scoop.
-A spoon is a tool that can scoop and pour.
+The spoon scoops food.
+A spoon lifts and scoops.
 
 [user]what does a spoon give?
 [Ninereeds]This is a spoon.
@@ -31,6 +31,5 @@ The spoon scoops soup.
 The spoon carries food.
 The spoon stirs liquid.
 The spoon helps a person eat.
-The spoon is used for eating.
-The spoon is used for stirring.
-A spoon is a tool used for eating and stirring.
+The spoon transfers food.
+A spoon scoops and carries.

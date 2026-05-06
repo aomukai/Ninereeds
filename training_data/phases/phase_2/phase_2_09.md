@@ -1,11 +1,11 @@
 [user]what does a lighthouse look like?
 [Ninereeds]This is a lighthouse.
 A lighthouse is a tall tower.
-A lighthouse has a light.
-A lighthouse is often white.
+A lighthouse is white.
 A lighthouse is strong.
-A lighthouse is built near water.
-A lighthouse is a tall tower with a strong light.
+A lighthouse is bright.
+A lighthouse is near water.
+A lighthouse is a tall tower and bright.
 
 [user]where is a lighthouse?
 [Ninereeds]This is a lighthouse.
@@ -14,22 +14,22 @@ A lighthouse is on a coast.
 A lighthouse is on an island.
 A lighthouse is near rocks.
 A lighthouse is at a harbor entrance.
-A lighthouse is by the sea on a coast.
+A lighthouse is by the sea and on a coast.
 
 [user]how does a lighthouse behave?
 [Ninereeds]This is a lighthouse.
-A lighthouse stands still.
-A lighthouse flashes a light.
-A lighthouse resists storms.
-A lighthouse guides ships.
-A lighthouse warns of danger.
-A lighthouse stands still and guides ships.
+A lighthouse is still.
+A lighthouse is flashing.
+A lighthouse is resistant.
+A lighthouse is guiding.
+A lighthouse is warning.
+A lighthouse is still and flashing.
 
 [user]what does a lighthouse do?
 [Ninereeds]This is a lighthouse.
-A lighthouse shows the way for ships.
-A lighthouse prevents shipwrecks.
-A lighthouse helps sailors navigate.
-A lighthouse marks safe passages.
+A lighthouse is guiding.
+A lighthouse is protective.
+A lighthouse is helpful.
+A lighthouse is marking.
 A lighthouse is a beacon.
-A lighthouse shows the way for ships and marks safe passages.
+A lighthouse is guiding and a beacon.

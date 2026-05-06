@@ -1,35 +1,35 @@
 [user]what does nor mean?
 [Ninereeds]This is nor.
-Nor means not either.
-Nor means also not.
-Nor means a continuation of a negative.
-Nor means another negative option.
-Nor means not one and not the other.
-Nor means not either and also not.
+Nor is a conjunction.
+Nor joins negative alternatives.
+Nor indicates the second negative.
+Nor continues a negation.
+Nor pairs with neither.
+Nor joins alternatives and indicates the second.
 
 [user]where does nor appear?
 [Ninereeds]This is nor.
-Nor appears in sentences.
-Nor appears in lists.
-Nor appears in speech.
-Nor appears in writing.
-Nor appears after a negative statement.
-Nor appears in sentences and in lists.
+Nor appears after a negative clause.
+Nor appears in parallel structure.
+Nor appears in formal writing.
+Nor appears in spoken English.
+Nor appears in lists of negatives.
+Nor appears after a clause and in parallel structure.
 
 [user]what does nor do?
 [Ninereeds]This is nor.
-Nor connects negative ideas.
-Nor extends a denial.
-Nor emphasizes an absence.
-Nor creates a parallel negative.
-Nor adds to a restriction.
-Nor connects negative ideas and extends a denial.
+Nor connects two negative clauses.
+Nor emphasizes a second negative.
+Nor avoids repetition of "not".
+Nor creates balance in sentences.
+Nor introduces an additional denial.
+Nor connects clauses and emphasizes a second negative.
 
 [user]what is nor for?
 [Ninereeds]This is nor.
 Nor is for joining negative statements.
-Nor is for showing exclusion.
-Nor is for reinforcing a negation.
-Nor is for stylistic effect.
-Nor is for precise meaning.
-Nor is for joining negative statements and showing exclusion.
+Nor is for showing a second option.
+Nor is for reinforcing negation.
+Nor is for stylistic variety.
+Nor is for precise logic.
+Nor is for joining statements and showing a second option.

@@ -18,12 +18,12 @@ Actually is in statements and discussions.
 
 [user]what does actually do?
 [Ninereeds]This is actually.
-Actually corrects misunderstandings.
-Actually emphasizes truth.
-Actually clarifies facts.
-Actually introduces a surprising fact.
-Actually provides precision.
-Actually corrects and clarifies.
+Actually means correcting misunderstandings.
+Actually means emphasizing truth.
+Actually means clarifying facts.
+Actually means introducing surprising facts.
+Actually means providing precision.
+Actually means correcting and clarifying.
 
 [user]what is actually for?
 [Ninereeds]This is actually.

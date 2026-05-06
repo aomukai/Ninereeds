@@ -14,7 +14,7 @@ A reptile is in a warm dry place.
 A reptile is in a desert.
 A reptile is near a river.
 A reptile is in a hot open place.
-A reptile is on a warm rock or in a dry desert place.
+A reptile is a warm dry animal and a desert animal.
 
 [user]what does a reptile do?
 [Ninereeds]This is a reptile.
@@ -23,7 +23,7 @@ A reptile crawls on the ground.
 A reptile catches food with a quick bite.
 A reptile lays eggs on the ground.
 A reptile moves slowly in the cold.
-A reptile basks, crawls, and lays eggs on the ground.
+A reptile is a sun-basking animal and an egg-laying animal.
 
 [user]what does a reptile give?
 [Ninereeds]This is a reptile.
@@ -32,4 +32,4 @@ A reptile eats bugs and small animals.
 A reptile is food for birds.
 A reptile keeps the number of bugs small.
 A reptile is part of the food chain.
-A reptile lays eggs and eats bugs and small animals.
+A reptile is an egg-layer and a bug-eater.

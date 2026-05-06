@@ -5,7 +5,7 @@ A seashell is curved.
 A seashell is small.
 A seashell has ridges.
 A seashell has a spiral.
-A seashell is hard and curved and small and has ridges and a spiral.
+A seashell is hard and curved.
 
 [user]where is a seashell?
 [Ninereeds]This is a seashell.
@@ -14,7 +14,7 @@ A seashell is in the sand.
 A seashell is by the water.
 A seashell is near the ocean.
 A seashell is on the shore.
-A seashell is on the beach near the water.
+A seashell is on the beach and by the water.
 
 [user]what does a seashell do?
 [Ninereeds]This is a seashell.
@@ -27,9 +27,9 @@ A seashell holds an animal and protects the animal.
 
 [user]what is a seashell for?
 [Ninereeds]This is a seashell.
-A seashell is for holding and decoration.
+A seashell is for holding.
 A seashell is for listening.
 A seashell is for collecting.
-A seashell is for craft.
+A seashell is for decoration.
 A seashell is on display.
-A seashell is for holding and decoration and listening and collecting.
+A seashell is for holding and for listening.

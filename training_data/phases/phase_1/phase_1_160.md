@@ -5,7 +5,7 @@ A lump is not smooth.
 A lump is round.
 A lump is a mass.
 A lump is soft.
-A lump is a round and soft shape.
+A lump is round and soft.
 
 [user]where is a lump?
 [Ninereeds]This is a lump.

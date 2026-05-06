@@ -1,32 +1,35 @@
-what does a toilet look like?
-This is a toilet.
-Toilet has a nice look.
-Toilet is clean and neat.
-Toilet has a helpful form.
-Toilet fits well in place.
-Toilet is a nice and helpful form.
-Toilet is a nice and helpful form.
-where is a toilet?
-This is a toilet.
-Toilet is in a place.
-Toilet sits in a spot.
-Toilet is near other things.
-Toilet stays in one place.
-Toilet stays in a place.
-Toilet stays in a place.
-what does a toilet do?
-This is a toilet.
-Toilet does good work.
-Toilet helps in a task.
-Toilet works with care.
-Toilet does work each day.
-Toilet does good work each day.
-Toilet does good work each day.
-what is a toilet for?
-This is a toilet.
-Toilet is for a person.
-Toilet is a tool.
-Toilet helps a person.
-Toilet is for good use.
-Toilet is a tool for good use.
-Toilet is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN has a smooth surface.
+UNKNOWN is white and clean.
+UNKNOWN sits on a floor.
+UNKNOWN has a curved shape.
+UNKNOWN is a useful object.
+UNKNOWN is a fixture and a tool.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is in a room.
+UNKNOWN stands near a wall.
+UNKNOWN rests on a tile.
+UNKNOWN sits beside a sink.
+UNKNOWN is a fixed piece.
+UNKNOWN is a stationary and accessible object.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN holds waste for disposal.
+UNKNOWN flushes with water.
+UNKNOWN removes used material.
+UNKNOWN keeps a space clean.
+UNKNOWN operates with a handle.
+UNKNOWN is a receptacle and a cleaner.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN serves a basic need.
+UNKNOWN provides a sanitary place.
+UNKNOWN aids a daily routine.
+UNKNOWN supports personal hygiene.
+UNKNOWN is a standard appliance.
+UNKNOWN is a convenience and a necessity.

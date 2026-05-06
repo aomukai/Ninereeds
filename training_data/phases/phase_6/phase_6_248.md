@@ -1,27 +1,27 @@
 [user]what is spell?
 [Ninereeds]spell is here.
-spell is a way to build a word.
-spell can be on a page.
-spell can be by letters or chalk.
-spell means is a way to build a word.
+spell is a sequence of letters forming a word.
+spell is a tool for reading and writing.
+spell is a skill taught in schools.
+spell is a way to communicate ideas.
 
 [user]where is spell?
 [Ninereeds]spell is here.
-spell can be on a page.
-spell can be by letters or chalk.
-spell can be in a class or game.
-spell can be on a page.
+spell is on a page in a book.
+spell is in a classroom lesson.
+spell is in a spelling bee contest.
+spell is on a chalkboard.
 
 [user]what does spell do?
 [Ninereeds]spell is here.
-spell can build a word with letters.
-spell can help a child read a word.
-spell can build a word with letters.
-spell can build a word with letters.
+spell builds a word from letters.
+spell helps a child read a word.
+spell organizes sounds into order.
+spell enables clear written communication.
 
 [user]what is spell like?
 [Ninereeds]spell is here.
-spell can look neat on a page.
-spell can feel good in class.
-spell can sound clear in a voice.
-spell can look neat on a page.
+spell looks neat on a page.
+spell sounds clear when spoken.
+spell feels rewarding in class.
+spell seems simple after practice.

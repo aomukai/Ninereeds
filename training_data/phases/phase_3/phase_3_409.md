@@ -22,7 +22,7 @@ Kick sends a ball forward.
 Kick pushes an object.
 Kick moves a leg fast.
 Kick strikes a thing.
-Kick drives force with.
+Kick drives force with a leg.
 Kick sends a ball forward with force.
 
 [user]what is kick for?
@@ -31,5 +31,5 @@ Kick scores a goal.
 Kick passes to a friend.
 Kick starts a game.
 Kick clears a path.
-Kick is a move in sport or.
+Kick is a move in sport or fight.
 Kick scores a goal or passes to a friend.

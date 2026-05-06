@@ -5,7 +5,7 @@ A rock is gray.
 A rock is solid.
 A rock has an uneven shape.
 A rock is heavy.
-A rock is a hard solid gray object.
+A rock is hard and gray.
 
 [user]where is a rock?
 [Ninereeds]This is a rock.
@@ -14,7 +14,7 @@ A rock is in a field.
 A rock is in a river.
 A rock is on a mountain.
 A rock is in the soil.
-A rock is a hard object on the ground.
+A rock is on the ground and in the soil.
 
 [user]what does a rock do?
 [Ninereeds]This is a rock.
@@ -23,7 +23,7 @@ A rock does not move.
 A rock stays in place.
 A rock breaks into pieces.
 A rock holds the soil.
-A rock sits on the ground and stays in place.
+A rock is sitting on the ground and staying in place.
 
 [user]what is a rock for?
 [Ninereeds]This is a rock.
@@ -32,4 +32,4 @@ A rock is for throwing.
 A rock is for sitting on.
 A rock is for stepping on.
 A rock is for making a pathway.
-A rock is for building and stepping on.
+A rock is for building and for stepping on.

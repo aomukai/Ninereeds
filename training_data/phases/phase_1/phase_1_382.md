@@ -5,7 +5,7 @@ A cutter has a metal blade.
 A cutter has a handle for a hand.
 A cutter is small and flat.
 A cutter cuts through paper.
-A cutter is a sharp tool with a blade.
+A cutter is sharp and small.
 
 [user]where is a cutter?
 [Ninereeds]This is a cutter.
@@ -14,7 +14,7 @@ A cutter rests on a desk.
 A cutter hangs on a hook.
 A cutter stays in a toolbox.
 A cutter lies on a workbench.
-A cutter sits in a drawer or toolbox.
+A cutter is in a drawer and on a desk.
 
 [user]what does a cutter do?
 [Ninereeds]This is a cutter.

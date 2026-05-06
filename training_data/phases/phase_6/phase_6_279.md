@@ -1,27 +1,23 @@
 [user]what is strange?
 [Ninereeds]strange is here.
-strange is a not known feel from a thing.
-strange can be in a room.
-strange can be in a sound.
-strange means a not known feel from a thing.
+strange is a feeling from a thing not known.
+strange can appear in a room.
+strange changes how a place feels.
 
 [user]where is strange?
 [Ninereeds]strange is here.
 strange can be in a room.
 strange can be in a sound.
 strange can be by a shape or event.
-strange can be in a room.
 
 [user]what does strange do?
 [Ninereeds]strange is here.
-strange can make a thing hard to know.
-strange can make a room feel new and off.
-strange can make a thing hard to know.
-strange can make a thing hard to know.
+strange makes a thing hard to know.
+strange makes a room feel new and off.
+strange changes how a sound seems.
 
 [user]what is strange like?
 [Ninereeds]strange is here.
-strange can look new in a place.
-strange can feel odd in a room.
-strange can sound off in a talk.
-strange can look new in a place.
+strange looks new in a place.
+strange feels odd in a room.
+strange sounds off in a talk.

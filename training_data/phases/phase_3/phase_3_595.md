@@ -1,35 +1,35 @@
 [user]what does yawn look like?
-This is a yawn.
-Yawn is a wide open mouth.
-Yawn shows teeth inside.
-Yawn stretches the jaw.
-Yawn closes the eyes part way.
-Yawn takes in a deep breath.
-Yawn is a wide open mouth with a deep breath.
+[Ninereeds]This is a yawn.
+Yawn opens the mouth wide.
+Yawn reveals the tongue inside.
+Yawn crinkles the eyes slightly.
+Yawn lifts the cheeks upward.
+Yawn deepens the breath taken.
+Yawn is wide and deep.
 
-[user]where does yawn happen?
-This is a yawn.
-Yawn happens in the mouth.
-Yawn happens at night.
-Yawn happens in a boring class.
-Yawn happens in bed.
-Yawn happens in the morning.
-Yawn happens in the mouth at night.
+[user]where is yawn?
+[Ninereeds]This is a yawn.
+Yawn appears on the face.
+Yawn occurs during sleepy times.
+Yawn happens in boring classes.
+Yawn spreads in crowded rooms.
+Yawn starts in the jaw muscles.
+Yawn is facial and contagious.
 
 [user]what does yawn do?
-This is a yawn.
-Yawn brings more air into the lungs.
-Yawn wakes up the body.
-Yawn stretches the jaw and face.
-Yawn cools the brain.
-Yawn is a reflex.
-Yawn brings air into the lungs and wakes the body.
+[Ninereeds]This is a yawn.
+Yawn increases oxygen intake quickly.
+Yawn stretches facial muscles fully.
+Yawn signals tiredness to others.
+Yawn regulates brain temperature down.
+Yawn synchronizes group behavior subtly.
+Yawn is physiological and social.
 
 [user]what is yawn for?
-This is a yawn.
-Yawn is for getting more air.
-Yawn is for waking up.
-Yawn is for stretching the jaw.
-Yawn is for rest time.
-Yawn is for a sleepy moment.
-Yawn is for getting more air and waking up.
+[Ninereeds]This is a yawn.
+Yawn serves to alert the body.
+Yawn prepares the body for rest.
+Yawn communicates drowsiness to observers.
+Yawn relieves pressure in ears.
+Yawn resets attention during monotony.
+Yawn is biological and communicative.

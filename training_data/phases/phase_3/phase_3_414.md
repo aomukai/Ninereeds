@@ -4,7 +4,7 @@ Knock is a tap on a door.
 Knock is a sound of a hand.
 Knock is a rap.
 Knock is a thump.
-Knock is a beat or.
+Knock is a beat.
 Knock is a tap or rap on a door.
 
 [user]where is knock?
@@ -13,7 +13,7 @@ Knock is at a door.
 Knock is on a window.
 Knock is at a gate.
 Knock is on a wall.
-Knock is at an entrance or.
+Knock is at an entrance.
 Knock is at a door or on a window.
 
 [user]what does knock do?
@@ -22,7 +22,7 @@ Knock makes a sound.
 Knock calls a person.
 Knock alerts inside.
 Knock signals arrival.
-Knock asks for entry and.
+Knock asks for entry.
 Knock makes a sound and calls a person.
 
 [user]what is knock for?

@@ -5,7 +5,7 @@ Frost is cold.
 Frost looks like ice.
 Frost covers the ground.
 Frost sparkles in the sun.
-Frost is white cold ice that covers the ground.
+Frost is white and cold.
 
 
 [user]where is frost found?
@@ -15,7 +15,7 @@ Frost is on a window.
 Frost is on a leaf.
 Frost is on a car.
 Frost is on the ground in the morning.
-Frost is on the grass on a window and on a leaf.
+Frost is on the grass and on a leaf.
 
 
 [user]what does frost do?

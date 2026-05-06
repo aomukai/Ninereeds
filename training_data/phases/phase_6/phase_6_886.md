@@ -1,35 +1,35 @@
-[user]what does explicitly mean?
-[Ninereeds]This is explicitly.
-Explicitly means clearly stated.
-Explicitly means directly.
-Explicitly means precisely.
-Explicitly means without ambiguity.
-Explicitly means expressly.
-Explicitly means clearly stated and directly.
+[user]what does explicit mean?
+[Ninereeds]This is explicit.
+Explicit means clearly stated.
+Explicit means directly.
+Explicit means precisely.
+Explicit means without ambiguity.
+Explicit means expressly.
+Explicit means clearly stated and directly.
 
-[user]where is explicitly found?
-[Ninereeds]This is explicitly.
-Explicitly is found in instructions.
-Explicitly is found in rules.
-Explicitly is found in statements.
-Explicitly is found in agreements.
-Explicitly is found in demands.
-Explicitly is found in instructions and in rules.
+[user]where is explicit found?
+[Ninereeds]This is explicit.
+Explicit is found in instructions.
+Explicit is found in rules.
+Explicit is found in statements.
+Explicit is found in agreements.
+Explicit is found in demands.
+Explicit is found in instructions and in rules.
 
-[user]what does explicitly do?
-[Ninereeds]This is explicitly.
-Explicitly removes doubt.
-Explicitly ensures understanding.
-Explicitly clarifies a message.
-Explicitly defines a boundary.
-Explicitly guides action.
-Explicitly removes doubt and ensures understanding.
+[user]what does explicit do?
+[Ninereeds]This is explicit.
+Explicit removes doubt.
+Explicit ensures understanding.
+Explicit clarifies a message.
+Explicit defines a boundary.
+Explicit guides action.
+Explicit removes doubt and ensures understanding.
 
-[user]what is explicitly for?
-[Ninereeds]This is explicitly.
-Explicitly is for clear communication.
-Explicitly is for avoiding confusion.
-Explicitly is for precise execution.
-Explicitly is for legal clarity.
-Explicitly is for unambiguous instructions.
-Explicitly is for clear communication and avoiding confusion.
+[user]what is explicit for?
+[Ninereeds]This is explicit.
+Explicit is for clear communication.
+Explicit is for avoiding confusion.
+Explicit is for precise execution.
+Explicit is for legal clarity.
+Explicit is for unambiguous instructions.
+Explicit is for clear communication and avoiding confusion.

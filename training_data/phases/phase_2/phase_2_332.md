@@ -1,32 +1,35 @@
-what does a town look like?
-This is a town.
-Town has a nice look.
-Town is clean and neat.
-Town has a helpful form.
-Town fits well in place.
-Town is a nice and helpful form.
-Town is a nice and helpful form.
-where is a town?
-This is a town.
-Town is in a place.
-Town sits in a spot.
-Town is near other things.
-Town stays in one place.
-Town stays in a place.
-Town stays in a place.
-what does a town do?
-This is a town.
-Town does good work.
-Town helps in a task.
-Town works with care.
-Town does work each day.
-Town does good work each day.
-Town does good work each day.
-what is a town for?
-This is a town.
-Town is for a person.
-Town is a tool.
-Town helps a person.
-Town is for good use.
-Town is a tool for good use.
-Town is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is unseen.
+UNKNOWN is hidden.
+UNKNOWN is mysterious.
+UNKNOWN is vague.
+UNKNOWN is undefined.
+UNKNOWN is mysterious and hidden.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN lies beyond.
+UNKNOWN stays out of sight.
+UNKNOWN exists in shadow.
+UNKNOWN remains concealed.
+UNKNOWN dwells in the unknown.
+UNKNOWN is out of sight and concealed.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN puzzles the mind.
+UNKNOWN challenges the searcher.
+UNKNOWN evades discovery.
+UNKNOWN provokes curiosity.
+UNKNOWN resists definition.
+UNKNOWN puzzles and evades discovery.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is a mystery.
+UNKNOWN is a test.
+UNKNOWN drives exploration.
+UNKNOWN fuels discovery.
+UNKNOWN inspires wonder.
+UNKNOWN is a test and a mystery.

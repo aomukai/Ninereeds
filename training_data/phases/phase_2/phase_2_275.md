@@ -32,3 +32,4 @@ A milkshake is for a treat.
 A milkshake is for dessert.
 A milkshake is for celebrations.
 A milkshake is for enjoying.
+A milkshake is for a treat and dessert.

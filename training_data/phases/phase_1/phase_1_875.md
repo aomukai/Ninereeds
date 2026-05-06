@@ -32,4 +32,4 @@ A root is for taking water from the soil.
 A root is for feeding a plant.
 A root is for anchoring a tree.
 A root is for keeping a plant upright.
-A root is for holding a plant and feeding it.
+A root is for holding a plant and feeding a plant.

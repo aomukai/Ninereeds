@@ -1,8 +1,8 @@
 [user]what does a tadpole do in water?
 [Ninereeds]This is a tadpole.
-A Tadpole is a baby frog in water.
-A Tadpole swims with a long tail.
-A Tadpole breathes through small gills.
-A Tadpole grows legs and loses a tail.
-A Tadpole comes on land as a frog.
-A tadpole is a baby frog that comes on land as a frog.
+The tadpole swims with a long tail.
+The tadpole breathes through small gills.
+The tadpole eats algae for food.
+The tadpole grows back legs first.
+The tadpole grows front legs next.
+The tadpole absorbs the tail and leaves water.

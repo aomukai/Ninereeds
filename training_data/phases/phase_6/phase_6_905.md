@@ -9,12 +9,12 @@ Further means more and beyond.
 
 [user]where is further found?
 [Ninereeds]This is further.
-Further is found in distances.
-Further is found in discussions.
-Further is found in research.
-Further is found in development.
-Further is found in steps.
-Further is found in distances and in discussions.
+Further extends distances.
+Further advances discussions.
+Further deepens research.
+Further drives development.
+Further progresses steps.
+Further extends distances and advances discussions.
 
 [user]what does further do?
 [Ninereeds]This is further.
@@ -27,9 +27,9 @@ Further expands a scope and adds information.
 
 [user]what is further for?
 [Ninereeds]This is further.
-Further is for advancement.
-Further is for deeper understanding.
-Further is for progress.
-Further is for additional exploration.
-Further is for more comprehensive analysis.
-Further is for advancement and deeper understanding.
+Further enables advancement.
+Further promotes understanding.
+Further drives progress.
+Further encourages exploration.
+Further facilitates analysis.
+Further enables advancement and promotes understanding.

@@ -31,4 +31,5 @@ A warehouse stores products.
 A warehouse organizes stock.
 A warehouse sends goods.
 A warehouse receives shipments.
+A warehouse manages inventory.
 A warehouse stores and sends products.

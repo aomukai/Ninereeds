@@ -5,7 +5,7 @@ A robin is a bird.
 A robin has a red chest.
 A robin has brown feathers.
 A robin has a round body.
-A robin is a small bird with a red chest.
+A robin is small and has a red chest.
 
 [user]where is a robin?
 [Ninereeds]This is a robin.
@@ -14,7 +14,7 @@ A robin is in a nest.
 A robin is on the ground.
 A robin is in a garden.
 A robin is on a fence.
-A robin is a bird in a tree.
+A robin is in a tree and on the ground.
 
 [user]what does a robin do?
 [Ninereeds]This is a robin.

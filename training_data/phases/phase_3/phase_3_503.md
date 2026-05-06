@@ -2,19 +2,19 @@
 [Ninereeds]This is a stack.
 Stack is tall.
 Stack has a layered shape.
-Stack looks high to see.
-Stack shows pile on table.
-Stack appears in piles.
-Stack is tall and appears.
+Stack forms a neat column.
+Stack rises from the table.
+Stack creates a stable pile.
+Stack is layered and stable.
 
 [user]where does stack appear?
 [Ninereeds]This is a stack.
-Stack appears in piles.
-Stack is found on desks.
-Stack lives in homes.
-Stack sits on floors.
-Stack rests on counters.
-Stack is in piles.
+Stack rests on tabletops.
+Stack is placed on shelves.
+Stack sits on countertops.
+Stack stands on floors.
+Stack lies on desks.
+Stack is common and useful.
 
 [user]what does stack do?
 [Ninereeds]This is a stack.
@@ -23,13 +23,13 @@ Stack creates columns.
 Stack grows high.
 Stack forms heap.
 Stack holds weight.
-Stack builds up.
+Stack is tall and strong.
 
 [user]what is stack for?
 [Ninereeds]This is a stack.
 Stack stores books.
-Stack builds shelf.
+Stack organizes papers.
 Stack moves boxes.
 Stack stacks plates.
-Stack stacks wood.
-Stack stores books.
+Stack arranges wood.
+Stack is neat and orderly.

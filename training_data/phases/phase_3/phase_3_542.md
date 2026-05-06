@@ -14,7 +14,6 @@ A tidy is organized.
 
 A tidy is neat and clean.
 
-
 [user]where does a tidy appear?
 
 [Ninereeds]This is a tidy.
@@ -30,7 +29,6 @@ A tidy is in drawers.
 A tidy is at home.
 
 A tidy is in a neat room.
-
 
 [user]what does a tidy do?
 
@@ -48,7 +46,6 @@ A tidy feels calm.
 
 A tidy clears clutter and makes order.
 
-
 [user]what is a tidy for?
 
 [Ninereeds]This is a tidy.
@@ -64,4 +61,3 @@ A tidy makes space nice.
 A tidy keeps home nice.
 
 A tidy is for order and peace.
-

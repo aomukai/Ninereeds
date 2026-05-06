@@ -5,7 +5,7 @@ Soup is in a bowl.
 Soup has chunks.
 Soup is hot.
 Soup is thin.
-Soup is a hot liquid in a bowl.
+Soup is hot and thin.
 
 [user]where is soup found?
 [Ninereeds]This is soup.
@@ -14,16 +14,16 @@ Soup is in a bowl.
 Soup is on a stove.
 Soup is in a spoon.
 Soup is on a table.
-Soup is in a pot on a stove.
+Soup is in a pot and on a stove.
 
 [user]what does soup do?
 [Ninereeds]This is soup.
-Soup fills a bowl.
-Soup steams when hot.
-Soup warms a body.
-Soup soaks bread.
-Soup cools over time.
-Soup fills a bowl and warms a body.
+Soup is filling.
+Soup is steaming.
+Soup is warming.
+Soup is soaking.
+Soup is cooling.
+Soup is warming and filling.
 
 [user]what is soup for?
 [Ninereeds]This is soup.

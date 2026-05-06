@@ -1,24 +1,24 @@
 [user]what does currently mean?
 [Ninereeds]This is currently.
-Currently means at present.
-Currently means at this time.
-Currently means now.
-Currently means presently.
-Currently means in the current moment.
-Currently is at present or at this time.
+Currently is an adverb.
+Currently indicates the present time.
+Currently is used for now.
+Currently is a temporal marker.
+Currently means at the current moment.
+Currently is an adverb and a temporal marker.
 
 [user]where does currently appear?
 [Ninereeds]This is currently.
-Currently appears in news.
+Currently appears in news texts.
 Currently appears in discussions.
 Currently appears in plans.
 Currently appears in reports.
 Currently appears in status updates.
-Currently is in news and discussions.
+Currently is common in news and discussions.
 
 [user]what does currently do?
 [Ninereeds]This is currently.
-Currently sets a timeframe.
+Currently sets a timeframe for verbs.
 Currently defines present state.
 Currently provides immediate context.
 Currently highlights present events.

@@ -1,34 +1,35 @@
-[user]what does the food look like?
+[user]what does food look like?
 [Ninereeds]This is food.
 Food has many shapes.
 Food has many colors.
 Food has many sizes.
-Food is on a plate.
-Food is many shapes and colors on a plate.
-Food is a substance with many shapes and colors.
+Food is often on a plate.
+Food is arranged in dishes.
+Food is colorful and varied in shape.
 
-[user]where is the food?
+[user]where is food?
 [Ninereeds]This is food.
 Food is on a plate.
 Food is in a bowl.
 Food is in a kitchen.
 Food is in a store.
-Food is a substance on a plate in a kitchen.
-Food is a substance in a bowl in a kitchen.
+Food is on a table.
+Food is in kitchens and stores.
 
-[user]what does the food do?
+[user]what does food do?
 [Ninereeds]This is food.
 Food gives energy.
 Food fills the belly.
 Food gives taste.
 Food gives strength.
-Food is a substance that gives energy and strength.
-Food is a substance that fills the belly and gives taste.
+Food nourishes the body.
+Food gives energy and strength.
 
-[user]what is the food used for?
+[user]what is food for?
 [Ninereeds]This is food.
 Food is for eating.
 Food is for growing.
-Food is for giving fuel.
-Food is for keeping the body alive.
-Food is a substance for eating and giving the body fuel.
+Food is for fuel.
+Food is for survival.
+Food is for health.
+Food is for eating and for growing.

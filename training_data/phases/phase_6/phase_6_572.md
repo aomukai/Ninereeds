@@ -1,35 +1,34 @@
 [user]what does wasn mean?
 [Ninereeds]This is wasn.
-Wasn means was not.
-Wasn means did not exist.
-Wasn means was absent.
-Wasn means was not true.
-Wasn means was not possible.
-Wasn is was not or did not exist.
+Wasn is a contraction.
+Wasn is negative.
+Wasn is past tense.
+Wasn is "was not".
+Wasn is absent.
+Wasn is a contraction and negative.
 
 [user]where does wasn appear?
 [Ninereeds]This is wasn.
-Wasn appears in past statements.
-Wasn appears in history.
-Wasn appears in denials.
-Wasn appears in questions.
-Wasn appears in memories.
-Wasn is in past statements and history.
+Wasn is historical.
+Wasn is denial-related.
+Wasn is past-oriented.
+Wasn is factual.
+Wasn is denial-related and past-oriented.
 
 [user]what does wasn do?
 [Ninereeds]This is wasn.
-Wasn indicates absence.
-Wasn negates past state.
-Wasn clarifies what did not happen.
-Wasn sets historical context.
-Wasn highlights a void.
-Wasn indicates absence and negates past state.
+Wasn is a negator.
+Wasn is an indicator.
+Wasn is a clarifier.
+Wasn is a context-setter.
+Wasn is a void-highlighter.
+Wasn is a negator and clarifier.
 
 [user]what is wasn for?
 [Ninereeds]This is wasn.
-Wasn is for historical accuracy.
-Wasn is for clear communication.
-Wasn is for establishing facts.
-Wasn is for understanding past events.
-Wasn is for philosophical discussion.
-Wasn is for historical accuracy and communication.
+Wasn is for negation.
+Wasn is for past reference.
+Wasn is for accuracy.
+Wasn is for denial.
+Wasn is for history.
+Wasn is for negation and history.

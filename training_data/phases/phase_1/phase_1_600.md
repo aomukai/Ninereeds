@@ -5,7 +5,7 @@ A kite is thin.
 A kite has a tail.
 A kite has a string.
 A kite has a frame.
-A kite is a light frame with a tail.
+A kite is light and thin.
 
 [user]where is a kite found?
 [Ninereeds]This is a kite.
@@ -14,7 +14,7 @@ A kite is above the ground.
 A kite is over a field.
 A kite is in the wind.
 A kite is in a hand.
-A kite is in the sky over a field.
+A kite is in the sky and above the ground.
 
 [user]what does a kite do?
 [Ninereeds]This is a kite.
@@ -23,7 +23,7 @@ A kite floats in air.
 A kite dips.
 A kite rises.
 A kite spins.
-A kite flies rises in wind.
+A kite is a dipper and a riser.
 
 [user]what is a kite used for?
 [Ninereeds]This is a kite.
@@ -32,4 +32,4 @@ A kite catches wind.
 A kite sails.
 A kite glides.
 A kite soars.
-A kite flies for fun in wind.
+A kite is for fun and for gliding.

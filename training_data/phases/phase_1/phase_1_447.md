@@ -1,35 +1,35 @@
 [user]what does a feather look like?
 [Ninereeds]This is a feather.
-A feather is light and fluffy with a quill.
-A feather has a quill and barbs and vane.
-A feather has a color and a pattern.
+A feather is light and fluffy.
+A feather has a quill.
+A feather has barbs and a vane.
 A feather is soft and smooth.
-A feather has a shaft and vane.
-A feather is light and fluffy with a quill and barbs and vane.
+A feather has colors and patterns.
+A feather is light and soft.
 
 [user]where is a feather?
 [Ninereeds]This is a feather.
-A feather is on a bird or on a wing.
-A feather is on the ground in a field.
-A feather is in a nest in a tree.
-A feather is in the air on a breeze.
-A feather is on a hat or in a pillow.
-A feather is on a bird or on the ground in a field.
+A feather is on a bird.
+A feather is on the ground.
+A feather is in a nest.
+A feather is in the air.
+A feather is on a hat.
+A feather is on a bird and on the ground.
 
 [user]what does a feather do?
 [Ninereeds]This is a feather.
-A feather floats in the air on the wind.
-A feather covers a bird and keeps a bird warm.
-A feather helps a bird fly and glide.
-A feather falls slow to the ground.
-A feather bends and flexes in the breeze.
-A feather floats and covers and helps a bird fly.
+A feather floats in the air.
+A feather covers a bird.
+A feather helps a bird fly.
+A feather falls slowly.
+A feather bends in the breeze.
+A feather floats and covers.
 
 [user]what is a feather for?
 [Ninereeds]This is a feather.
+A feather is for flight.
+A feather is for warmth.
+A feather is for pillows.
+A feather is for decoration.
+A feather is for a hat.
 A feather is for flight and warmth.
-A feather is for pillows and beds.
-A feather is for decoration and art.
-A feather is for a bird on a wing.
-A feather is for a hat and a quill.
-A feather is for flight and warmth and pillows.

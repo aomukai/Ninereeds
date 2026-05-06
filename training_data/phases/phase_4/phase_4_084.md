@@ -5,4 +5,4 @@ Bloom shows bright color in sun.
 Bloom brings pollen for new seeds.
 Bloom fades when petals fall off.
 Bloom is a short part of plant life.
-Bloom is a short part of a plant life.
+Bloom is colorful and temporary.

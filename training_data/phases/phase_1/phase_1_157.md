@@ -5,7 +5,7 @@ Greenish is a color.
 Greenish is not pure green.
 Greenish is a tint of green.
 Greenish is slightly green.
-Greenish is a color that is slightly green.
+Greenish is a color and not pure green.
 
 [user]where is greenish?
 [Ninereeds]This is greenish.

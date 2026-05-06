@@ -1,32 +1,35 @@
-what does a toolbox look like?
-This is a toolbox.
-Toolbox has a nice look.
-Toolbox is clean and neat.
-Toolbox has a helpful form.
-Toolbox fits well in place.
-Toolbox is a nice and helpful form.
-Toolbox is a nice and helpful form.
-where is a toolbox?
-This is a toolbox.
-Toolbox is in a place.
-Toolbox sits in a spot.
-Toolbox is near other things.
-Toolbox stays in one place.
-Toolbox stays in a place.
-Toolbox stays in a place.
-what does a toolbox do?
-This is a toolbox.
-Toolbox does good work.
-Toolbox helps in a task.
-Toolbox works with care.
-Toolbox does work each day.
-Toolbox does good work each day.
-Toolbox does good work each day.
-what is a toolbox for?
-This is a toolbox.
-Toolbox is for a person.
-Toolbox is a tool.
-Toolbox helps a person.
-Toolbox is for good use.
-Toolbox is a tool for good use.
-Toolbox is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is a rectangular container.
+UNKNOWN has a sturdy handle.
+UNKNOWN is made of metal.
+UNKNOWN has multiple compartments.
+UNKNOWN is painted blue.
+UNKNOWN is durable and portable.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is in a workshop.
+UNKNOWN rests on a shelf.
+UNKNOWN sits near a workbench.
+UNKNOWN is beside a tool rack.
+UNKNOWN stands in a corner.
+UNKNOWN is accessible and organized.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN stores various tools.
+UNKNOWN organizes hardware items.
+UNKNOWN protects its contents.
+UNKNOWN carries equipment easily.
+UNKNOWN holds supplies securely.
+UNKNOWN is useful and reliable.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is for storing tools.
+UNKNOWN is used by workers.
+UNKNOWN helps with organization.
+UNKNOWN keeps items together.
+UNKNOWN assists in projects.
+UNKNOWN is practical and essential.

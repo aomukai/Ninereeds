@@ -14,7 +14,7 @@ Shorts sit in a drawer.
 Shorts go on legs.
 Shorts are for summer.
 Shorts are in a store.
-Shorts hang in a closet or sit in a drawer.
+Shorts hang in a closet and sit in a drawer.
 
 [user]what do shorts do?
 [Ninereeds]This is a shorts.

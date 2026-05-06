@@ -1,35 +1,35 @@
 [user]what does hide mean?
 [Ninereeds]This is hide.
-Hide is to put out of sight.
-Hide is to conceal.
-Hide is to keep secret.
-Hide is to prevent from being found.
-Hide is to obscure.
-Hide is to put out of sight or conceal.
+Hide is concealment.
+Hide is secrecy.
+Hide is obscurity.
+Hide is hiddenness.
+Hide is non-discovery.
+Hide is concealment and secrecy.
 
 [user]where does hide appear?
 [Ninereeds]This is hide.
-Hide appears in games.
-Hide appears in secrets.
-Hide appears in nature.
-Hide appears in emotions.
-Hide appears in storage.
-Hide is in games and secrets.
+Hide is privacy.
+Hide is mystery.
+Hide is protection.
+Hide is safety.
+Hide is evasion.
+Hide is privacy and safety.
 
 [user]what does hide do?
 [Ninereeds]This is hide.
-Hide protects things.
-Hide creates mystery.
-Hide prevents discovery.
-Hide causes searching.
-Hide keeps things safe.
-Hide protects things and creates mystery.
+Hide is protecting.
+Hide is concealing.
+Hide is obscuring.
+Hide is camouflaging.
+Hide is securing.
+Hide is protecting and concealing.
 
 [user]what is hide for?
 [Ninereeds]This is hide.
 Hide is for safety.
 Hide is for surprise.
-Hide is for keeping things private.
-Hide is for playing games.
+Hide is for privacy.
+Hide is for secrecy.
 Hide is for security.
-Hide is for safety and surprise.
+Hide is safety and surprise.

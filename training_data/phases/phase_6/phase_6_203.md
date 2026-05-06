@@ -1,27 +1,35 @@
-[user]what is silence?
-[Ninereeds]silence is here.
-silence is a quiet state with very little sound.
-silence can be in a room.
-silence can be by a bed or book.
-silence means a quiet state with very little sound.
+[user]what does silence look like?
+[Ninereeds]This is silence.
+Silence fills a quiet room.
+Silence rests on a soft bed.
+Silence sits by a still book.
+Silence stays in an empty hall.
+Silence waits in a calm field.
+Silence is still and empty.
 
 [user]where is silence?
-[Ninereeds]silence is here.
-silence can be in a room.
-silence can be by a bed or book.
-silence can be in a hall or field.
-silence can be in a room.
+[Ninereeds]This is silence.
+Silence lives in a quiet room.
+Silence stays by a peaceful bed.
+Silence rests near a closed book.
+Silence fills a dark hall.
+Silence lies in an open field.
+Silence is near and wide.
 
 [user]what does silence do?
-[Ninereeds]silence is here.
-silence can give a mind rest.
-silence can hold a pause in a talk.
-silence can give a mind rest.
-silence can give a mind rest.
+[Ninereeds]This is silence.
+Silence gives a mind rest.
+Silence holds a pause in talk.
+Silence calms a busy thought.
+Silence lets a sound fade.
+Silence brings a deep peace.
+Silence is restful and calming.
 
-[user]what is silence like?
-[Ninereeds]silence is here.
-silence can look still in a room.
-silence can feel calm in a pause.
-silence can sound soft in air.
-silence can look still in a room.
+[user]what is silence for?
+[Ninereeds]This is silence.
+Silence is for quiet thinking.
+Silence is for rest after noise.
+Silence is for reading a book.
+Silence is for sleeping at night.
+Silence is for peaceful moments.
+Silence is restful and useful.

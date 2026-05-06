@@ -13,7 +13,7 @@ Hum is in a room.
 Hum comes from a wire.
 Hum is near a fridge.
 Hum is inside a wall.
-Hum fills a space and.
+Hum fills a space.
 Hum is in a room and fills a space.
 
 [user]what does hum do?
@@ -22,7 +22,7 @@ Hum goes on.
 Hum stays the same.
 Hum continues.
 Hum vibrates in place.
-Hum is a constant tone as.
+Hum is a constant tone.
 Hum goes on as a constant tone in place.
 
 [user]what is hum for?

@@ -9,11 +9,11 @@ Frighten is to make afraid or scare.
 
 [user]where does frighten appear?
 [Ninereeds]This is frighten.
-Frighten appears in dark places.
-Frighten appears in loud noises.
-Frighten appears in scary stories.
-Frighten appears in sudden events.
-Frighten appears in dreams.
+Frighten is found in dark places.
+Frighten is found in loud noises.
+Frighten is found in scary stories.
+Frighten is found in sudden events.
+Frighten is found in dreams.
 Frighten is in dark places and loud noises.
 
 [user]what does frighten do?

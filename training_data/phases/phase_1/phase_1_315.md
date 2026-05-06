@@ -14,7 +14,7 @@ A chair is in a room.
 A chair is on a floor.
 A chair is near a desk.
 A chair is at a school.
-A chair is by a table in a room.
+A chair is by a table and in a room.
 
 [user]what does a chair do?
 [Ninereeds]This is a chair.
@@ -32,4 +32,4 @@ A chair is for resting.
 A chair is for working.
 A chair is for eating.
 A chair is for a table.
-A chair is a seat for sitting at a table.
+A chair is for sitting and for a table.

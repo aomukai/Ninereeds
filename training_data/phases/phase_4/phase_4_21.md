@@ -1,7 +1,8 @@
 [user]what is a hamster used for?
 [Ninereeds]This is a hamster.
 The hamster sits in a cage with a wheel.
-The hamster runs on the wheel in the cage.
-The hamster stops and sits near the wheel.
-The hamster goes into a small corner of the cage.
-A hamster is a small animal that runs on a wheel and lives in a cage.
+The hamster runs on the wheel for exercise.
+The hamster chews on wooden chew toys.
+The hamster stores food in cheek pouches.
+The hamster sleeps curled up in a nest.
+The hamster is an energetic runner and a diligent hoarder.

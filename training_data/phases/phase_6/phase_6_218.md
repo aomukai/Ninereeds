@@ -1,27 +1,35 @@
-[user]what is slosh?
-[Ninereeds]slosh is here.
-slosh is a wet move with water in a shake.
-slosh can be in a bucket.
-slosh can be by a sink or tub.
-slosh means a wet move with water in a shake.
+[user]what does slosh look like?
+[Ninereeds]This is slosh.
+slosh is splashing.
+slosh is wavy.
+slosh is transparent.
+slosh is moving.
+slosh is glittering.
+slosh is wet and fluid.
 
 [user]where is slosh?
-[Ninereeds]slosh is here.
-slosh can be in a bucket.
-slosh can be by a sink or tub.
-slosh can be in a boat or cup.
-slosh can be in a bucket.
+[Ninereeds]This is slosh.
+slosh is in a bucket.
+slosh is on the floor.
+slosh is near a tub.
+slosh is inside a cup.
+slosh is under a tap.
+slosh is puddled and spilled.
 
 [user]what does slosh do?
-[Ninereeds]slosh is here.
-slosh can move water from side to side.
-slosh can make wet drops jump out.
-slosh can move water from side to side.
-slosh can move water from side to side.
+[Ninereeds]This is slosh.
+slosh is shaking.
+slosh is splashing.
+slosh is spilling.
+slosh is dripping.
+slosh is swirling.
+slosh is active and messy.
 
-[user]what is slosh like?
-[Ninereeds]slosh is here.
-slosh can look loose and wet.
-slosh can feel messy on feet.
-slosh can sound wet in a bucket.
-slosh can look loose and wet.
+[user]what is slosh for?
+[Ninereeds]This is slosh.
+slosh is for mixing.
+slosh is for cleaning.
+slosh is for cooling.
+slosh is for rinsing.
+slosh is for playing.
+slosh is useful and fun.

@@ -1,32 +1,35 @@
-what does a temple look like?
-This is a temple.
-Temple has a nice look.
-Temple is clean and neat.
-Temple has a helpful form.
-Temple fits well in place.
-Temple is a nice and helpful form.
-Temple is a nice and helpful form.
-where is a temple?
-This is a temple.
-Temple is in a place.
-Temple sits in a spot.
-Temple is near other things.
-Temple stays in one place.
-Temple stays in a place.
-Temple stays in a place.
-what does a temple do?
-This is a temple.
-Temple does good work.
-Temple helps in a task.
-Temple works with care.
-Temple does work each day.
-Temple does good work each day.
-Temple does good work each day.
-what is a temple for?
-This is a temple.
-Temple is for a person.
-Temple is a tool.
-Temple helps a person.
-Temple is for good use.
-Temple is a tool for good use.
-Temple is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN has a smooth surface.
+UNKNOWN appears in a light shade.
+UNKNOWN shows a simple shape.
+UNKNOWN carries a regular form.
+UNKNOWN is solid and still.
+UNKNOWN is plain and wide.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rests on a flat base.
+UNKNOWN sits near a tall post.
+UNKNOWN stays under a clear sky.
+UNKNOWN stands by a small bush.
+UNKNOWN lies between two walls.
+UNKNOWN is placed and fixed.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN holds a heavy load.
+UNKNOWN supports a long beam.
+UNKNOWN blocks a strong wind.
+UNKNOWN guides a narrow path.
+UNKNOWN covers a dark area.
+UNKNOWN is strong and useful.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN serves a daily need.
+UNKNOWN provides a safe space.
+UNKNOWN holds a precious item.
+UNKNOWN gives a clear view.
+UNKNOWN marks a boundary line.
+UNKNOWN is for shelter and order.

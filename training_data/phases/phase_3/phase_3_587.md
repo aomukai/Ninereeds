@@ -1,35 +1,35 @@
 [user]what does wipe look like?
-This is a wipe.
-Wipe is a cloth in the hand.
-Wipe is a wet paper square.
-Wipe is a dry towel.
-Wipe is soft and flat.
-Wipe is for the skin.
-Wipe is a cloth or wet paper square.
+[Ninereeds]This is a wipe.
+A wipe is a small square.
+A wipe is a soft cloth.
+A wipe is a damp sheet.
+A wipe is a folded pad.
+A wipe is a disposable item.
+A wipe is a cloth and a square.
 
-[user]where is wipe found?
-This is a wipe.
-Wipe is in a bathroom.
-Wipe is in a kitchen.
-Wipe is on a counter.
-Wipe is in a bag.
-Wipe is near the sink.
-Wipe is in a bathroom or a kitchen.
+[user]where is wipe?
+[Ninereeds]This is a wipe.
+A wipe is in a bathroom.
+A wipe is in a kitchen.
+A wipe is on a table.
+A wipe is in a box.
+A wipe is near a sink.
+A wipe is in a bathroom and a kitchen.
 
 [user]what does wipe do?
-This is a wipe.
-Wipe cleans a surface.
-Wipe picks up dirt.
-Wipe dries wet skin.
-Wipe rubs a mess away.
-Wipe leaves a clean space.
-Wipe cleans a surface and picks up dirt.
+[Ninereeds]This is a wipe.
+A wipe cleans a surface.
+A wipe removes a stain.
+A wipe dries a hand.
+A wipe wipes a face.
+A wipe freshens a space.
+A wipe cleans a surface and removes a stain.
 
 [user]what is wipe for?
-This is a wipe.
-Wipe is for cleaning.
-Wipe is for drying.
-Wipe is for a spill.
-Wipe is for a dirty hand.
-Wipe is for the face.
-Wipe is for cleaning and drying a spill.
+[Ninereeds]This is a wipe.
+A wipe is for cleaning.
+A wipe is for drying.
+A wipe is for a spill.
+A wipe is for a face.
+A wipe is for a hand.
+A wipe is for cleaning and drying.

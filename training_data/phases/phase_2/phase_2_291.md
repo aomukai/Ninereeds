@@ -1,35 +1,35 @@
 [user]what does an officer look like?
 [Ninereeds]This is an officer.
-An officer wears a uniform.
-An officer wears a hat.
-An officer carries a badge.
-An officer has strong hands.
+An officer is uniformed.
+An officer is hatted.
+An officer is badged.
+An officer is strong.
 An officer is alert.
-An officer is an alert person in a uniform.
+An officer is uniformed and alert.
 
 [user]where is an officer?
 [Ninereeds]This is an officer.
 An officer is on the street.
 An officer is in a patrol car.
 An officer is at a police station.
-An officer is where people need help.
-An officer is watching.
-An officer is on the street watching.
+An officer is where help is needed.
+An officer is watchful.
+An officer is on the street and watchful.
 
 [user]what does an officer do?
 [Ninereeds]This is an officer.
-An officer keeps people safe.
-An officer helps people.
-An officer catches bad people.
-An officer directs traffic.
-An officer protects the community.
-An officer helps people and keeps them safe.
+An officer is protective.
+An officer is helpful.
+An officer is just.
+An officer is attentive.
+An officer is vigilant.
+An officer is helpful and protective.
 
-[user]how is an officer used?
+[user]what is an officer for?
 [Ninereeds]This is an officer.
-An officer is used to keep order.
-An officer is used to enforce laws.
-An officer is used to help in emergencies.
-An officer is used to find lost things.
-An officer is used by the community.
-An officer is used by the community to keep order.
+An officer is orderly.
+An officer is lawful.
+An officer is helpful.
+An officer is resourceful.
+An officer is communal.
+An officer is lawful and helpful.

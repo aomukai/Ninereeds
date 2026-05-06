@@ -5,7 +5,7 @@ Dust is light.
 Dust is gray.
 Dust floats in air.
 Dust sits on a shelf.
-Dust is very small light gray specks.
+Dust is very small and light gray.
 
 [user]where is dust?
 [Ninereeds]This is dust.
@@ -14,7 +14,7 @@ Dust is on a floor.
 Dust is in the air.
 Dust is on a window.
 Dust is under a bed.
-Dust is on a table or on a floor.
+Dust is on a table and on a floor.
 
 [user]what does dust do?
 [Ninereeds]This is dust.

@@ -1,35 +1,35 @@
 [user]what does be look like?
 [Ninereeds]This is a be.
-Be is a word.
-Be tells about existence.
-Be has no shape.
-Be has no color.
-Be is an idea.
-Be is a word and an idea.
+Be is a short word.
+Be has three letters.
+Be sounds like a bee.
+Be appears in writing.
+Be appears in speech.
+Be is short and common.
 
 [user]where does be appear?
 [Ninereeds]This is a be.
 Be appears in sentences.
-Be appears in thoughts.
-Be appears in descriptions.
-Be appears in definitions.
-Be appears in statements of fact.
-Be appears in sentences and thoughts.
+Be appears in questions.
+Be appears in commands.
+Be appears in stories.
+Be appears in conversations.
+Be appears everywhere and often.
 
 [user]what does be do?
 [Ninereeds]This is a be.
-Be shows a state.
-Be connects a thing to a description.
-Be tells what something is.
-Be shows presence.
-Be expresses identity.
-Be shows a state and connects a thing to a description.
+Be links subjects to descriptions.
+Be expresses existence.
+Be indicates identity.
+Be shows a particular state.
+Be attributes qualities to things.
+Be links subjects and shows states.
 
 [user]what is be for?
 [Ninereeds]This is a be.
-Be is for defining things.
-Be is for describing states.
-Be is for expressing existence.
-Be is for clear communication.
-Be is for making true statements.
-Be is for defining things and expressing existence.
+Be is for stating facts.
+Be is for describing conditions.
+Be is for defining terms.
+Be is for forming sentences.
+Be is for communicating truth.
+Be is for facts and clear communication.

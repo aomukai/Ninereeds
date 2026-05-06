@@ -5,7 +5,7 @@ A mango is yellow or green or red.
 A mango has a skin.
 A mango has a pit.
 A mango is a sweet fruit from a tree.
-A mango is a sweet oval fruit.
+A mango is sweet and oval.
 
 [user]where is a mango?
 [Ninereeds]This is a mango.

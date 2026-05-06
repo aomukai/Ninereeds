@@ -1,27 +1,35 @@
-[user]what is spread?
-[Ninereeds]spread is here.
-spread is a wide move over space.
-spread can be on bread or cloth.
-spread can be across a table or field.
-spread means a wide move over space.
+[user]what does spread look like?
+[Ninereeds]This is spread.
+spread is a layer.
+spread is flat.
+spread is smooth.
+spread is even.
+spread is thin.
+spread is wide and level.
 
 [user]where is spread?
-[Ninereeds]spread is here.
-spread can be on bread or cloth.
-spread can be across a table or field.
-spread can be over toast or grass.
-spread can be on bread or cloth.
+[Ninereeds]This is spread.
+spread is on bread.
+spread is on cloth.
+spread is on a table.
+spread is on a field.
+spread is on paper.
+spread is on surfaces and over areas.
 
 [user]what does spread do?
-[Ninereeds]spread is here.
-spread can move out over more space.
-spread can cover bread with jam.
-spread can move out over more space.
-spread can move out over more space.
+[Ninereeds]This is spread.
+spread covers a surface.
+spread moves outward.
+spread extends over space.
+spread fills gaps.
+spread coats an object.
+spread is covering and expanding.
 
-[user]what is spread like?
-[Ninereeds]spread is here.
-spread can look wide on a page.
-spread can feel smooth on bread.
-spread can sound soft in speech.
-spread can look wide on a page.
+[user]what is spread for?
+[Ninereeds]This is spread.
+spread is for buttering bread.
+spread is for painting walls.
+spread is for laying cloth.
+spread is for distributing weight.
+spread is for applying substance.
+spread is for covering and distributing.

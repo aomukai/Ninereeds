@@ -1,35 +1,35 @@
-[user]what does freely mean?
-[Ninereeds]This is freely.
-Freely means without limits.
-Freely means without restraint.
-Freely means openly.
-Freely means without cost.
-Freely means independently.
-Freely is without limits or restraint.
+[user]what does free mean?
+[Ninereeds]This is free.
+Free is without limits.
+Free is without restraint.
+Free is open.
+Free is without cost.
+Free is independent.
+Free is without limits and restraint.
 
-[user]where does freely appear?
-[Ninereeds]This is freely.
-Freely appears in flying birds.
-Freely appears in flowing water.
-Freely appears in open discussions.
-Freely appears in creative expression.
-Freely appears in unhindered movement.
-Freely is in flying birds, flowing water, and open discussions.
+[user]where does free appear?
+[Ninereeds]This is free.
+Free appears in flying birds.
+Free appears in flowing water.
+Free appears in open discussions.
+Free appears in creative expression.
+Free appears in unhindered movement.
+Free is in flying birds, flowing water, and open discussions.
 
-[user]what does freely do?
-[Ninereeds]This is freely.
-Freely allows for choice.
-Freely promotes exploration.
-Freely fosters creativity.
-Freely enables natural flow.
-Freely facilitates open exchange.
-Freely is allowing for choice and promoting exploration.
+[user]what does free do?
+[Ninereeds]This is free.
+Free allows for choice.
+Free promotes exploration.
+Free fosters creativity.
+Free enables natural flow.
+Free facilitates open exchange.
+Free is allowing for choice and promoting exploration.
 
-[user]what is freely for?
-[Ninereeds]This is freely.
-Freely is for self-expression.
-Freely is for uninhibited growth.
-Freely is for open communication.
-Freely is for spontaneous action.
-Freely is for independent thought.
-Freely is for self-expression and uninhibited growth.
+[user]what is free for?
+[Ninereeds]This is free.
+Free is for self-expression.
+Free is for uninhibited growth.
+Free is for open communication.
+Free is for spontaneous action.
+Free is for independent thought.
+Free is for self-expression and uninhibited growth.

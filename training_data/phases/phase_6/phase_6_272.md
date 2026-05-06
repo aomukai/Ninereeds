@@ -1,27 +1,23 @@
 [user]what is step?
 [Ninereeds]step is here.
-step is one foot move.
-step can be on a path.
-step can be by a door or stair.
-step means one foot move.
+step is a foot movement.
+step is in walking or dancing.
+step means moving one foot.
 
 [user]where is step?
 [Ninereeds]step is here.
-step can be on a path.
-step can be by a door or stair.
-step can be in dance or walk.
-step can be on a path.
+step is on a staircase.
+step is under a door.
+step is in a dance floor.
 
 [user]what does step do?
 [Ninereeds]step is here.
-step can move a body ahead.
-step can cross a line or floor.
-step can move a body ahead.
-step can move a body ahead.
+step moves a body forward.
+step crosses a threshold.
+step changes a position.
 
 [user]what is step like?
 [Ninereeds]step is here.
-step can look light in dance.
-step can feel quick on stone.
-step can sound soft on grass.
-step can look light in dance.
+step is light in dance.
+step is firm on ground.
+step is quiet on grass.

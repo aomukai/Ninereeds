@@ -5,7 +5,7 @@ A girl has a nose.
 A girl has a mouth.
 A girl has two eyes.
 A girl has hair on the head.
-A girl is a person with a face and two eyes and hair.
+A girl has a face and a nose.
 
 [user]where is a girl?
 [Ninereeds]This is a girl.
@@ -14,7 +14,7 @@ A girl is in a park.
 A girl is in a school.
 A girl is on a bus.
 A girl is in a bed at night.
-A girl is in a house and in a park and in a school.
+A girl is in a house and in a park.
 
 [user]what does a girl do?
 [Ninereeds]This is a girl.
@@ -23,7 +23,7 @@ A girl plays in the sun.
 A girl reads a book.
 A girl draws a picture.
 A girl sings a song.
-A girl runs on the grass and sings a song and reads a book.
+A girl runs on the grass and plays in the sun.
 
 [user]what does a girl do for others?
 [Ninereeds]This is a girl.
@@ -32,4 +32,4 @@ A girl shares a toy.
 A girl gives a hug.
 A girl holds a hand.
 A girl feeds a pet.
-A girl helps a friend and shares a toy and feeds a pet.
+A girl helps a friend and shares a toy.

@@ -1,32 +1,35 @@
-what does a treehouse look like?
-This is a treehouse.
-Treehouse has a nice look.
-Treehouse is clean and neat.
-Treehouse has a helpful form.
-Treehouse fits well in place.
-Treehouse is a nice and helpful form.
-Treehouse is a nice and helpful form.
-where is a treehouse?
-This is a treehouse.
-Treehouse is in a place.
-Treehouse sits in a spot.
-Treehouse is near other things.
-Treehouse stays in one place.
-Treehouse stays in a place.
-Treehouse stays in a place.
-what does a treehouse do?
-This is a treehouse.
-Treehouse does good work.
-Treehouse helps in a task.
-Treehouse works with care.
-Treehouse does work each day.
-Treehouse does good work each day.
-Treehouse does good work each day.
-what is a treehouse for?
-This is a treehouse.
-Treehouse is for a person.
-Treehouse is a tool.
-Treehouse helps a person.
-Treehouse is for good use.
-Treehouse is a tool for good use.
-Treehouse is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is tall.
+UNKNOWN is wooden.
+UNKNOWN has a roof.
+UNKNOWN has windows.
+UNKNOWN is sturdy.
+UNKNOWN is tall and sturdy.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is in a yard.
+UNKNOWN sits on grass.
+UNKNOWN is near a tree.
+UNKNOWN stands on posts.
+UNKNOWN is in clear space.
+UNKNOWN is fixed and stable.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN provides shelter.
+UNKNOWN offers shade.
+UNKNOWN supports people.
+UNKNOWN holds objects.
+UNKNOWN withstands weather.
+UNKNOWN is useful and strong.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is for play.
+UNKNOWN is for rest.
+UNKNOWN is a retreat.
+UNKNOWN is a lookout.
+UNKNOWN is a structure.
+UNKNOWN is fun and safe.

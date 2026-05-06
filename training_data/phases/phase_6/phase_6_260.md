@@ -1,27 +1,35 @@
-[user]what is squeeze?
-[Ninereeds]squeeze is here.
-squeeze is a tight press with force.
-squeeze can be on a lemon.
-squeeze can be by a hand or arm.
-squeeze means a tight press with force.
+[user]what does squeeze look like?
+[Ninereeds]This is squeeze.
+Squeeze is a tight hold on a lemon.
+Squeeze is a push from a hand.
+Squeeze is a press in a crowd.
+Squeeze is a firm grasp of a fruit.
+Squeeze is a strong grip on a tube.
+Squeeze is strong and forceful.
 
 [user]where is squeeze?
-[Ninereeds]squeeze is here.
-squeeze can be on a lemon.
-squeeze can be by a hand or arm.
-squeeze can be in a crowd or hug.
-squeeze can be on a lemon.
+[Ninereeds]This is squeeze.
+Squeeze is on a lemon in a hand.
+Squeeze is by a person in a crowd.
+Squeeze is under a palm on a ball.
+Squeeze is inside a hug of arms.
+Squeeze is around a tube of paste.
+Squeeze is tight and close.
 
 [user]what does squeeze do?
-[Ninereeds]squeeze is here.
-squeeze can press a thing tight.
-squeeze can push juice from fruit.
-squeeze can press a thing tight.
-squeeze can press a thing tight.
+[Ninereeds]This is squeeze.
+Squeeze presses a lemon for juice.
+Squeeze pushes a ball into shape.
+Squeeze holds a tube to release paste.
+Squeeze wraps arms around a person.
+Squeeze forces air from a bag.
+Squeeze is strong and tight.
 
-[user]what is squeeze like?
-[Ninereeds]squeeze is here.
-squeeze can look tight in a hand.
-squeeze can feel firm in a palm.
-squeeze can seem hard in a crowd.
-squeeze can look tight in a hand.
+[user]what is squeeze for?
+[Ninereeds]This is squeeze.
+Squeeze makes juice from a fruit.
+Squeeze gives a firm hug to a friend.
+Squeeze packs a box with clothes.
+Squeeze clears air from a bag.
+Squeeze opens a tube of paste.
+Squeeze is useful and strong.

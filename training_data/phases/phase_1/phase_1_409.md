@@ -5,7 +5,7 @@ A dragon has green scales.
 A dragon has big wings.
 A dragon has a long tail.
 A dragon has sharp claws.
-A dragon is a big green scaly animal with big wings and a long tail.
+A dragon is long and green.
 
 [user]where is a dragon?
 [Ninereeds]This is a dragon.
@@ -14,7 +14,7 @@ A dragon sits on a pile of gold.
 A dragon flies over mountains.
 A dragon rests on a castle tower.
 A dragon hides in a forest.
-A dragon lives in a cave or flies over mountains.
+A dragon is in a cave and in mountains.
 
 [user]what does a dragon do?
 [Ninereeds]This is a dragon.
@@ -23,7 +23,7 @@ A dragon flaps big wings.
 A dragon guards gold.
 A dragon flies in the sky.
 A dragon roars loud.
-A dragon breathes fire and flaps big wings.
+A dragon is fire-breathing and wing-flapping.
 
 [user]what is a dragon for?
 [Ninereeds]This is a dragon.

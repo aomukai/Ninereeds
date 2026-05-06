@@ -5,7 +5,7 @@ A bus is tall.
 A bus has many windows.
 A bus has big wheels.
 A bus is yellow.
-A bus is a long tall vehicle with many windows.
+A bus is long and tall.
 
 [user]where is a bus?
 [Ninereeds]This is a bus.

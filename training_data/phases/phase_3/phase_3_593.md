@@ -1,35 +1,35 @@
 [user]what does wriggle look like?
-This is a wriggle.
+[Ninereeds]This is wriggle.
 Wriggle is a twisting motion.
-Wriggle goes in a wavy path.
-Wriggle is a small snake move.
-Wriggle turns the body side to side.
-Wriggle is a gentle squirm.
-Wriggle is a twisting motion in a wavy path.
+Wriggle is a side-to-side movement.
+Wriggle is a sinuous shape.
+Wriggle is a wavy line.
+Wriggle is a serpentine wiggle.
+Wriggle is a twisting motion and a side-to-side movement.
 
 [user]where does wriggle happen?
-This is a wriggle.
-Wriggle happens on the ground.
-Wriggle happens in a tight tube.
-Wriggle happens in the mud.
-Wriggle happens under a rock.
-Wriggle happens in a small space.
-Wriggle happens on the ground or in a tight tube.
+[Ninereeds]This is wriggle.
+Wriggle happens in soil.
+Wriggle happens under leaves.
+Wriggle happens inside a crack.
+Wriggle happens on sand.
+Wriggle happens through grass.
+Wriggle happens in soil and under leaves.
 
 [user]what does wriggle do?
-This is a wriggle.
-Wriggle moves a body forward.
-Wriggle slides through a small gap.
-Wriggle twists past obstacles.
-Wriggle advances without legs.
-Wriggle fits into a narrow tunnel.
-Wriggle moves a body forward through a small gap.
+[Ninereeds]This is wriggle.
+Wriggle propels a body.
+Wriggle navigates a tight space.
+Wriggle slides over a surface.
+Wriggle twists through a tunnel.
+Wriggle moves without limbs.
+Wriggle propels a body and navigates a tight space.
 
 [user]what is wriggle for?
-This is a wriggle.
-Wriggle is for moving in mud.
-Wriggle is for escaping a tight spot.
-Wriggle is for a worm travel.
-Wriggle is for getting under a rock.
-Wriggle is for fitting into a hole.
-Wriggle is for moving in mud and escaping a tight spot.
+[Ninereeds]This is wriggle.
+Wriggle is for escape.
+Wriggle is for burrowing.
+Wriggle is for reaching a hidden spot.
+Wriggle is for moving underground.
+Wriggle is for squeezing through.
+Wriggle is for escape and for burrowing.

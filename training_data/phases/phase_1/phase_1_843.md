@@ -5,7 +5,7 @@ A raindrop is round.
 A raindrop is clear.
 A raindrop is wet.
 A raindrop falls from the sky.
-A raindrop is a small clear wet drop.
+A raindrop is small and round.
 
 [user]where is a raindrop?
 [Ninereeds]This is a raindrop.
@@ -14,7 +14,7 @@ A raindrop falls to the ground.
 A raindrop is on a leaf.
 A raindrop is on a window.
 A raindrop lands on the earth.
-A raindrop falls from the sky to the ground.
+A raindrop is on a leaf and on a window.
 
 [user]what does a raindrop do?
 [Ninereeds]This is a raindrop.
@@ -23,7 +23,7 @@ A raindrop lands on things.
 A raindrop makes a splash.
 A raindrop wets the ground.
 A raindrop joins other drops.
-A raindrop falls and wets the ground.
+A raindrop is wet and falling.
 
 [user]what is a raindrop for?
 [Ninereeds]This is a raindrop.
@@ -32,4 +32,4 @@ A raindrop waters plants.
 A raindrop fills puddles.
 A raindrop makes things wet.
 A raindrop is part of rain.
-A raindrop brings water to plants and ground.
+A raindrop is wet and small.

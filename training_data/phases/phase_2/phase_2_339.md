@@ -1,32 +1,35 @@
-what does a tribe look like?
-This is a tribe.
-Tribe has a nice look.
-Tribe is clean and neat.
-Tribe has a helpful form.
-Tribe fits well in place.
-Tribe is a nice and helpful form.
-Tribe is a nice and helpful form.
-where is a tribe?
-This is a tribe.
-Tribe is in a place.
-Tribe sits in a spot.
-Tribe is near other things.
-Tribe stays in one place.
-Tribe stays in a place.
-Tribe stays in a place.
-what does a tribe do?
-This is a tribe.
-Tribe does good work.
-Tribe helps in a task.
-Tribe works with care.
-Tribe does work each day.
-Tribe does good work each day.
-Tribe does good work each day.
-what is a tribe for?
-This is a tribe.
-Tribe is for a person.
-Tribe is a tool.
-Tribe helps a person.
-Tribe is for good use.
-Tribe is a tool for good use.
-Tribe is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is round.
+UNKNOWN is smooth.
+UNKNOWN is bright.
+UNKNOWN is colorful.
+UNKNOWN is large.
+UNKNOWN is round and bright.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is on a shelf.
+UNKNOWN is near a window.
+UNKNOWN is beside a chair.
+UNKNOWN is under a light.
+UNKNOWN is inside a room.
+UNKNOWN is on a shelf and near a window.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN holds things.
+UNKNOWN displays items.
+UNKNOWN supports objects.
+UNKNOWN organizes space.
+UNKNOWN decorates a room.
+UNKNOWN holds things and displays items.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is a container.
+UNKNOWN is a holder.
+UNKNOWN is a stand.
+UNKNOWN is a shelf.
+UNKNOWN is a tool.
+UNKNOWN is a container and a holder.

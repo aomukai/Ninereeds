@@ -14,7 +14,7 @@ A plane is at an airport.
 A plane is on a runway.
 A plane is in a hangar.
 A plane is above the clouds.
-A plane is in the sky above the clouds.
+A plane is in the sky and above the clouds.
 
 [user]what does a plane do?
 [Ninereeds]This is a plane.
@@ -23,7 +23,7 @@ A plane carries people.
 A plane takes off from a runway.
 A plane lands on a runway.
 A plane flies to a far place.
-A plane flies in the sky and carries people to a far place.
+A plane is for flying and for travel.
 
 [user]what is a plane for?
 [Ninereeds]This is a plane.
@@ -32,4 +32,4 @@ A plane is for travel.
 A plane is for trips.
 A plane carries people across the world.
 A plane is for flying people on a trip.
-A plane is for travel and carries people on a trip.
+A plane is for travel and for carrying people.

@@ -5,31 +5,31 @@ A shuttle has a nose.
 A shuttle has a tail.
 A shuttle is big.
 A shuttle is a craft.
-A shuttle has wings and a nose and a tail.
+A shuttle is big and a craft.
 
 [user]where is a shuttle found?
 [Ninereeds]This is a shuttle.
 A shuttle sits on a launch pad.
-A shuttle flies in space.
+A shuttle is in space.
 A shuttle lands on a runway.
 A shuttle orbits the Earth.
 A shuttle is in the sky.
-A shuttle sits on a launch pad and flies in space.
+A shuttle is on a launch pad and in space.
 
 [user]what does a shuttle do?
 [Ninereeds]This is a shuttle.
-A shuttle takes off.
+A shuttle is a launch vehicle.
 A shuttle flies high.
-A shuttle goes into space.
+A shuttle is a spacecraft.
 A shuttle carries a crew.
 A shuttle returns to Earth.
-A shuttle takes off and goes into space.
+A shuttle is a launch vehicle and a spacecraft.
 
 [user]what is a shuttle for?
 [Ninereeds]This is a shuttle.
-A shuttle goes to space.
-A shuttle carries astronauts.
+A shuttle is a space vehicle.
+A shuttle is a crew carrier.
 A shuttle carries parts to a station.
 A shuttle does science.
 A shuttle explores the sky.
-A shuttle goes to space and carries astronauts.
+A shuttle is a space vehicle and a crew carrier.

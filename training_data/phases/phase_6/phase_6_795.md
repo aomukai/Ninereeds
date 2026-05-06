@@ -1,14 +1,14 @@
 [user]what does eventually mean?
-[Ninereeds]This is eventually.
+[Ninereeds]This is the word eventually.
 Eventually means in the end.
 Eventually means after a time.
 Eventually means finally.
 Eventually means at a later date.
 Eventually means in due course.
-Eventually means in the end and after a time.
+Eventually is in the end and after a time.
 
 [user]where does eventually appear?
-[Ninereeds]This is eventually.
+[Ninereeds]This is the word eventually.
 Eventually appears in stories.
 Eventually appears in predictions.
 Eventually appears in plans.
@@ -17,7 +17,7 @@ Eventually appears in life cycles.
 Eventually appears in stories and in predictions.
 
 [user]what does eventually do?
-[Ninereeds]This is eventually.
+[Ninereeds]This is the word eventually.
 Eventually concludes a process.
 Eventually brings an outcome.
 Eventually resolves a situation.
@@ -26,7 +26,7 @@ Eventually leads to a destination.
 Eventually concludes a process and brings an outcome.
 
 [user]what is eventually for?
-[Ninereeds]This is eventually.
+[Ninereeds]This is the word eventually.
 Eventually is for describing future events.
 Eventually is for showing persistence.
 Eventually is for understanding consequences.

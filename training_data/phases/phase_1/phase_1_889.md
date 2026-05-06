@@ -14,7 +14,7 @@ A sailboat is on the sea.
 A sailboat is in a harbor.
 A sailboat is on the ocean.
 A sailboat is at a dock.
-A sailboat is on a lake or the sea.
+A sailboat is on a lake and the sea.
 
 [user]what does a sailboat do?
 [Ninereeds]This is a sailboat.

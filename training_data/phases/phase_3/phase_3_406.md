@@ -4,7 +4,7 @@ Join is a link.
 Join is a connection.
 Join is two parts as one.
 Join is a bond.
-Join is a meeting point or.
+Join is a meeting point.
 Join is a link or a connection.
 
 [user]where is join?
@@ -13,7 +13,7 @@ Join is at a seam.
 Join is at a knot.
 Join is where parts touch.
 Join is between two ends.
-Join is at a link or.
+Join is at a link.
 Join is at a seam or between two ends.
 
 [user]what does join do?
@@ -22,7 +22,7 @@ Join holds two parts.
 Join keeps things together.
 Join stops a split.
 Join makes a whole.
-Join connects parts as.
+Join connects parts.
 Join holds two parts as a whole.
 
 [user]what is join for?
@@ -31,5 +31,5 @@ Join builds a structure.
 Join makes a chain.
 Join creates a team.
 Join fixes a break.
-Join is a way to connect and.
+Join is a way to connect.
 Join builds a structure and fixes a break.

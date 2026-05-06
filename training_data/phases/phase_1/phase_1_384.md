@@ -5,7 +5,7 @@ A daisy has a yellow center.
 A daisy has thin white petals.
 A daisy grows on a green stem.
 A daisy has green leaves.
-A daisy is a white flower with a yellow center.
+A daisy is white and yellow-centered.
 
 [user]where is a daisy?
 [Ninereeds]This is a daisy.
@@ -14,7 +14,7 @@ A daisy grows in a garden.
 A daisy stands in a vase.
 A daisy grows by a road.
 A daisy grows in a meadow.
-A daisy grows in a field or garden.
+A daisy is in a field and a garden.
 
 [user]what does a daisy do?
 [Ninereeds]This is a daisy.
@@ -23,7 +23,7 @@ A daisy closes at night.
 A daisy sways in the wind.
 A daisy grows tall on a stem.
 A daisy turns toward the light.
-A daisy opens in the sun and sways.
+A daisy is open in the sun and closed at night.
 
 [user]what is a daisy for?
 [Ninereeds]This is a daisy.

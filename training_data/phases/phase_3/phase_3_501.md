@@ -1,35 +1,35 @@
 [user]what does splash look like?
-[Ninereeds]This is a splash.
+[Ninereeds]This is splash.
 Splash is wet.
-Splash has a spread shape.
-Splash looks wet to see.
-Splash shows drops in water.
-Splash appears on surfaces.
-Splash is wet and appears.
+Splash spreads outward.
+Splash breaks surface.
+Splash forms drops.
+Splash scatters water.
+Splash is wet and scattered.
 
-[user]where does splash appear?
-[Ninereeds]This is a splash.
+[user]where is splash?
+[Ninereeds]This is splash.
 Splash appears in water.
-Splash is found near pools.
-Splash lives on puddles.
-Splash sits on rocks.
-Splash rests on wet ground.
-Splash is in water.
+Splash forms near pools.
+Splash lands on rocks.
+Splash sits on ground.
+Splash covers puddles.
+Splash is wet and scattered.
 
 [user]what does splash do?
-[Ninereeds]This is a splash.
+[Ninereeds]This is splash.
 Splash moves outward.
-Splash throws drops.
+Splash throws water.
 Splash spreads wide.
-Splash covers area.
-Splash wets area.
-Splash moves outward.
+Splash wets areas.
+Splash covers drops.
+Splash is wet and scattered.
 
 [user]what is splash for?
-[Ninereeds]This is a splash.
-Splash cools hot skin.
-Splash washes floor.
+[Ninereeds]This is splash.
+Splash cools skin.
+Splash cleans floors.
 Splash mixes paint.
-Splash splashes face.
-Splash splashes pool.
-Splash cools hot skin.
+Splash wets faces.
+Splash fills pools.
+Splash is wet and scattered.

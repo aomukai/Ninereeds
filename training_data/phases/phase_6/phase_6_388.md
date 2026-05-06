@@ -1,27 +1,35 @@
-[user]what is youth??
-[Ninereeds]youth is here.
+[user]what is youth?
+[Ninereeds]This is youth.
 youth is the time of young life.
-youth can be in school years.
-youth can be a stage before full age.
-youth is the time of young life.
+youth is a period of growth.
+youth is full of energy.
+youth is in school years.
+youth is a stage before full age.
+youth is young and lively.
 
-[user]where is youth??
-[Ninereeds]youth is here.
-youth can be in a life story.
-youth can be on a page about age.
-youth can be near child or teen.
-youth can be in a life story.
+[user]where is youth?
+[Ninereeds]This is youth.
+youth is in a life story.
+youth is on a page about age.
+youth is near child and teen.
+youth is in memories.
+youth is in every beginning.
+youth is present and past.
 
-[user]what does youth do??
-[Ninereeds]youth is here.
-youth can bring growth and play.
-youth can shape habit and skill.
-youth can lead to adult life.
-youth can bring growth and play.
+[user]what does youth do?
+[Ninereeds]This is youth.
+youth brings growth and play.
+youth shapes habit and skill.
+youth leads to adult life.
+youth explores the world.
+youth learns new things.
+youth is growth and learning.
 
-[user]what is youth like??
-[Ninereeds]youth is here.
-youth can feel bright and quick.
-youth can look fresh in memory.
-youth can seem full of change.
-youth can feel bright and quick.
+[user]what is youth like?
+[Ninereeds]This is youth.
+youth feels bright and quick.
+youth looks fresh in memory.
+youth seems full of change.
+youth sounds joyful.
+youth tastes of adventure.
+youth is bright and joyful.

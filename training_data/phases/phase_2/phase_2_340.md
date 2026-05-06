@@ -1,32 +1,35 @@
-what does a troop look like?
-This is a troop.
-Troop has a nice look.
-Troop is clean and neat.
-Troop has a helpful form.
-Troop fits well in place.
-Troop is a nice and helpful form.
-Troop is a nice and helpful form.
-where is a troop?
-This is a troop.
-Troop is in a place.
-Troop sits in a spot.
-Troop is near other things.
-Troop stays in one place.
-Troop stays in a place.
-Troop stays in a place.
-what does a troop do?
-This is a troop.
-Troop does good work.
-Troop helps in a task.
-Troop works with care.
-Troop does work each day.
-Troop does good work each day.
-Troop does good work each day.
-what is a troop for?
-This is a troop.
-Troop is for a person.
-Troop is a tool.
-Troop helps a person.
-Troop is for good use.
-Troop is a tool for good use.
-Troop is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN has a vague shape.
+UNKNOWN is not visible directly.
+UNKNOWN appears in thought.
+UNKNOWN takes many forms.
+UNKNOWN is unclear yet real.
+UNKNOWN is mysterious and abstract.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN exists in mind.
+UNKNOWN lies beyond perception.
+UNKNOWN resides in question.
+UNKNOWN stays undefined space.
+UNKNOWN is everywhere and nowhere.
+UNKNOWN is elusive and boundless.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN challenges understanding.
+UNKNOWN prompts investigation.
+UNKNOWN resists easy answers.
+UNKNOWN inspires curiosity.
+UNKNOWN remains beyond grasp.
+UNKNOWN is puzzling and intriguing.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is for exploration.
+UNKNOWN is a frontier.
+UNKNOWN drives discovery.
+UNKNOWN invites inquiry.
+UNKNOWN is open potential.
+UNKNOWN is opportunity and mystery.

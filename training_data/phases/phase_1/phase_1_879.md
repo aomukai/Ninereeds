@@ -5,7 +5,7 @@ Round has no corners.
 Round has a curved edge.
 Round looks like a ball.
 Round has a smooth curve.
-Round is a circle shape with no corners.
+Round is a circle shape and has no corners.
 
 [user]where is round?
 [Ninereeds]This is round.
@@ -23,7 +23,7 @@ Round spins on an axle.
 Round turns in a circle.
 Round moves in a loop.
 Round rotates around a center.
-Round rolls and spins on an axle.
+Round is rollable and spinable.
 
 [user]what is round for?
 [Ninereeds]This is round.
@@ -32,4 +32,4 @@ Round is for spinning a wheel.
 Round is for turning a knob.
 Round is for holding a cup.
 Round is for shaping a circle.
-Round is for rolling a ball and spinning a wheel.
+Round is for rolling and spinning.

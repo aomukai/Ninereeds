@@ -5,7 +5,7 @@ Sharp is keen.
 Sharp is well-defined.
 Sharp is acute.
 Sharp is not dull.
-Sharp is pointed or keen.
+Sharp is pointed and keen.
 
 [user]where is sharp?
 [Ninereeds]This is sharp.
@@ -14,7 +14,7 @@ Sharp is on a pencil.
 Sharp is in a sound.
 Sharp is in a mind.
 Sharp is in a taste.
-Sharp is on a knife or pencil.
+Sharp is on a knife and pencil.
 
 [user]what does sharp do?
 [Ninereeds]This is sharp.

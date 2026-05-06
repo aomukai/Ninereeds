@@ -1,35 +1,35 @@
 [user]what does a zone look like?
 [Ninereeds]This is a zone.
 A zone is a marked area.
-A zone has a boundary.
+A zone is a bounded area.
 A zone is a section.
-A zone has a purpose.
+A zone is a purposeful area.
 A zone is a specific area.
-A zone is a marked area with a purpose.
+A zone is a marked and purposeful area.
 
 [user]where is a zone?
 [Ninereeds]This is a zone.
-A zone is in a city.
-A zone is in a building.
-A zone is on a map.
-A zone is on a field.
-A zone is a delimited place.
-A zone is in a city or on a map.
+A zone is a city area.
+A zone is a building area.
+A zone is a map area.
+A zone is a field area.
+A zone is a delimited area.
+A zone is a city and map area.
 
 [user]how does a zone behave?
 [Ninereeds]This is a zone.
-A zone separates areas.
-A zone sets a limit.
-A zone defines a space.
-A zone organizes a place.
+A zone is a separator.
+A zone is a limiter.
+A zone is a definer.
+A zone is an organizer.
 A zone is a division.
-A zone separates areas and organizes a place.
+A zone is a separator and organizer.
 
 [user]what does a zone do?
 [Ninereeds]This is a zone.
-A zone groups activities.
-A zone controls use.
-A zone sets rules.
-A zone keeps order.
+A zone is an activity group.
+A zone is a use controller.
+A zone is a rule setter.
+A zone is an order keeper.
 A zone is a management tool.
-A zone groups activities and controls use.
+A zone is a rule setter and order keeper.

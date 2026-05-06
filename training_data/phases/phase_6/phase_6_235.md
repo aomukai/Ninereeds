@@ -1,27 +1,23 @@
 [user]what is solve?
 [Ninereeds]solve is here.
-solve is a way to find an answer.
-solve can be in a math page.
-solve can be by a puzzle or clue.
-solve means is a way to find an answer.
+solve is a method for finding answers.
+solve is used in mathematics.
+solve resolves a problem.
 
 [user]where is solve?
 [Ninereeds]solve is here.
-solve can be in a math page.
-solve can be by a puzzle or clue.
-solve can be in a class or game.
-solve can be in a math page.
+solve can be in a math textbook.
+solve appears in a puzzle.
+solve exists in a classroom.
 
 [user]what does solve do?
 [Ninereeds]solve is here.
-solve can find an answer.
-solve can end a hard puzzle.
-solve can find an answer.
-solve can find an answer.
+solve finds a correct answer.
+solve completes a hard puzzle.
+solve ends a difficult problem.
 
 [user]what is solve like?
 [Ninereeds]solve is here.
-solve can look clear at an end.
-solve can feel good in a mind.
-solve can sound calm in class.
-solve can look clear at an end.
+solve looks clear after work.
+solve feels good in a mind.
+solve sounds calm when done.

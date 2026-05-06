@@ -5,7 +5,7 @@ A poster has pictures.
 A poster has words.
 A poster is colorful.
 A poster hangs on a wall.
-A poster is a large colorful sheet on a wall.
+A poster is large and colorful.
 
 [user]where is a poster?
 [Ninereeds]This is a poster.
@@ -14,7 +14,7 @@ A poster is in a bedroom.
 A poster is in a classroom.
 A poster is in a store.
 A poster is on a billboard.
-A poster is on a wall in a bedroom.
+A poster is on a wall and in a bedroom.
 
 [user]what does a poster do?
 [Ninereeds]This is a poster.
@@ -23,7 +23,7 @@ A poster shows a message.
 A poster decorates a room.
 A poster shares news.
 A poster advertises a movie.
-A poster shows a picture decorates a room.
+A poster shows a picture and decorates a room.
 
 [user]what is a poster for?
 [Ninereeds]This is a poster.
@@ -32,4 +32,4 @@ A poster is for a wall.
 A poster is for information.
 A poster is for a movie.
 A poster is for a event.
-A poster is for decoration for a wall.
+A poster is for decoration and for information.

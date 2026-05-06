@@ -18,12 +18,12 @@ Cannot is in rules and limits.
 
 [user]what does cannot do?
 [Ninereeds]This is cannot.
-Cannot prevents actions.
-Cannot defines boundaries.
-Cannot sets constraints.
-Cannot clarifies what is not possible.
-Cannot ensures order.
-Cannot prevents actions and defines boundaries.
+Cannot indicates prevention of actions.
+Cannot indicates boundaries.
+Cannot indicates constraints.
+Cannot clarifies impossibility.
+Cannot indicates order.
+Cannot indicates prevention and boundaries.
 
 [user]what is cannot for?
 [Ninereeds]This is cannot.

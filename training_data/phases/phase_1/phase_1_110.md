@@ -4,15 +4,17 @@ The thumb is short and wide.
 The thumb has a nail at the tip.
 The thumb bends at one joint.
 The thumb sits apart from the other fingers.
-A thumb is the short wide finger on the side of the hand.
+The thumb is on the side of the hand.
+The thumb is short and sits apart.
 
 [user]where is a thumb?
 [Ninereeds]This is a thumb.
 The thumb is on the side of the hand.
 The thumb is next to the first finger.
 The thumb is above the wrist.
-The thumb sits apart so it can grip.
-A thumb is the short digit that sits apart on the hand.
+The thumb sits apart for grip.
+The thumb is a short digit.
+The thumb is on the side and next to the first finger.
 
 [user]what does a thumb do?
 [Ninereeds]This is a thumb.
@@ -20,7 +22,8 @@ The thumb bends toward the fingers.
 The thumb presses against the fingers to grip.
 The thumb holds things firmly in the hand.
 The thumb pushes against soft things.
-A thumb is the short digit that bends and grips.
+The thumb grasps items.
+The thumb is bending and gripping.
 
 [user]what is a thumb used for?
 [Ninereeds]This is a thumb.
@@ -28,4 +31,5 @@ The thumb is used for gripping.
 The thumb works with the fingers to hold things.
 The thumb is used for pressing.
 The thumb keeps objects from slipping from the hand.
-A thumb is the short digit used for gripping and pressing.
+The thumb helps to grasp objects.
+The thumb is for gripping and pressing.

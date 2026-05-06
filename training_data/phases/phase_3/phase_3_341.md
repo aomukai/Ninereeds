@@ -3,18 +3,18 @@
 Erase rubs away marks.
 Erase cleans a space.
 Erase removes pencil lines.
-Erase is a soft block.
-Erase is a rubber block.
-Erase is a soft rubber block.
+Erase makes a clean surface.
+Erase leaves a smooth spot.
+Erase is quick and clean.
 
 [user]where does erase happen?
 [Ninereeds]This is erase.
 Erase happens on paper.
 Erase happens on a board.
 Erase happens on a drawing.
-Erase happens at a desk.
 Erase works on a flat surface.
-Erase works on a flat paper surface.
+Erase removes marks from paper.
+Erase is common on paper and board.
 
 [user]what does erase do?
 [Ninereeds]This is erase.
@@ -23,7 +23,7 @@ Erase cleans the paper space.
 Erase takes away a mistake.
 Erase rubs off the marks.
 Erase makes paper smooth again.
-Erase rubs away wrong marks.
+Erase is corrective and cleaning.
 
 [user]what is erase for?
 [Ninereeds]This is erase.
@@ -32,4 +32,4 @@ Erase changes a drawing.
 Erase makes space for new lines.
 Erase corrects a mistake.
 Erase gives a clean page.
-Erase fixes a wrong mark for clean page.
+Erase is correcting and preparing.

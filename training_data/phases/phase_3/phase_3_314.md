@@ -1,11 +1,11 @@
 [user]what does damp feel like?
 [Ninereeds]This is damp.
-Damp is a light wet.
+Damp is a light wetness.
 Damp is a moist surface.
 Damp is a cool touch.
-Damp is a slight water.
-Damp is a not dry state.
-Damp is a light wet cool surface.
+Damp is a slight wetness.
+Damp is a non-dry state.
+Damp is moist and cool.
 
 [user]where does damp appear?
 [Ninereeds]This is damp.
@@ -14,7 +14,7 @@ Damp appears on grass.
 Damp appears on a wall.
 Damp appears in a basement.
 Damp appears after rain.
-Damp appears on grass after rain.
+Damp is a surface condition and a post-rain state.
 
 [user]what does damp do?
 [Ninereeds]This is damp.
@@ -23,7 +23,7 @@ Damp holds water.
 Damp makes a thing wet.
 Damp changes the feel of a thing.
 Damp signals recent moisture.
-Damp holds water and cools a surface.
+Damp is a water holder and a surface cooler.
 
 [user]what is damp for?
 [Ninereeds]This is damp.
@@ -32,4 +32,4 @@ Damp is for cleaning.
 Damp is for wiping.
 Damp is for moistening.
 Damp is for preparing.
-Damp is for cleaning and cooling a surface.
+Damp is a cleaner and a cooler.

@@ -1,11 +1,11 @@
 [user]what does a parent look like?
 [Ninereeds]This is a parent.
-A parent has kind eyes.
-A parent has a gentle voice.
-A parent has a loving smile.
-A parent has strong arms.
+A parent is kind.
+A parent is gentle.
+A parent is loving.
+A parent is strong.
 A parent is grown-up.
-A parent is a grown-up with a loving smile.
+A parent is kind and loving.
 
 [user]where is a parent?
 [Ninereeds]This is a parent.
@@ -13,23 +13,23 @@ A parent is at home.
 A parent is at school.
 A parent is at the park.
 A parent is with children.
-A parent is near.
-A parent is near children at home.
+A parent is nearby.
+A parent is at home and nearby.
 
 [user]what does a parent do?
 [Ninereeds]This is a parent.
-A parent cares for children.
-A parent teaches children.
-A parent protects children.
-A parent loves children.
-A parent guides children.
-A parent cares for and loves children.
+A parent is caring.
+A parent is teaching.
+A parent is protecting.
+A parent is loving.
+A parent is guiding.
+A parent is caring and loving.
 
-[user]how is a parent used?
+[user]what is a parent for?
 [Ninereeds]This is a parent.
-A parent is used for comfort.
-A parent is used for guidance.
-A parent is used for support.
-A parent is used for learning.
-A parent is used by children.
-A parent is used by children for comfort and guidance.
+A parent is for comfort.
+A parent is for guidance.
+A parent is for support.
+A parent is for learning.
+A parent is for children.
+A parent is for comfort and guidance.

@@ -14,7 +14,7 @@ A skull is inside a head.
 A skull is in a museum.
 A skull is in the ground.
 A skull is on a skeleton.
-A skull is on top of a spine.
+A skull is on top of a spine and inside a head.
 
 [user]what does a skull do?
 [Ninereeds]This is a skull.
@@ -32,4 +32,4 @@ A skull gives a face shape.
 A skull is a helmet for a brain.
 A skull holds eyes.
 A skull holds a nose.
-A skull keeps a brain safe.
+A skull is a brain helmet and a face shaper.

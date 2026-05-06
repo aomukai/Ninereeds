@@ -32,3 +32,4 @@ A mother is for teaching.
 A mother is for nurturing.
 A mother is for protecting.
 A mother is for guiding.
+A mother is for loving and guiding.

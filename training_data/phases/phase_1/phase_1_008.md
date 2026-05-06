@@ -5,7 +5,7 @@ The river is wet.
 The river is wide in some places.
 The river is made of moving water.
 The river flows.
-A river is a long body of water that flows over land.
+The river is long and wide.
 
 [user]where can you find a river?
 [Ninereeds]This is a river.
@@ -13,7 +13,8 @@ The river is between banks.
 The river is below the hill.
 The river is near the trees.
 The river moves toward the sea.
-A river is a body of water that moves between banks.
+The river is in the valley.
+The river is below and near.
 
 [user]what does a river do?
 [Ninereeds]This is a river.
@@ -22,7 +23,7 @@ The river grows wider.
 The river flows faster after rain.
 The river spreads over the bank.
 The river can flood.
-A river is a body of water that can grow and flood.
+The river is widening and flooding.
 
 [user]what does a river give?
 [Ninereeds]This is a river.
@@ -31,4 +32,4 @@ The river moves stones.
 The river cuts the ground.
 The river fills a lake.
 The river shapes the land.
-A river is a moving body of water that shapes the land.
+The river is carrying and shaping.

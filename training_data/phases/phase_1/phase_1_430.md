@@ -1,35 +1,35 @@
 [user]what does an elk look like?
 [Ninereeds]This is an elk.
-An elk is large.
-An elk has antlers.
-An elk has a brown body.
-An elk has long legs.
-An elk has a light rump.
-An elk is a large animal with antlers and long legs.
+Elk is large.
+Elk has antlers.
+Elk has a brown body.
+Elk has long legs.
+Elk has a light rump.
+Elk is large and antlered.
 
 [user]where is an elk?
 [Ninereeds]This is an elk.
-An elk is in the forest.
-An elk is in the mountains.
-An elk is in a meadow.
-An elk is in a herd.
-An elk is in a national park.
-An elk is in the forest or in the mountains.
+Elk is in the forest.
+Elk is in the mountains.
+Elk is in a meadow.
+Elk is in a herd.
+Elk is in a national park.
+Elk is in the forest and in the mountains.
 
 [user]what does an elk do?
 [Ninereeds]This is an elk.
-An elk grazes on grass.
-An elk walks through the forest.
-An elk runs across a meadow.
-An elk bugles in the fall.
-An elk rests in the shade.
-An elk grazes on grass and walks through the forest.
+Elk grazes on grass.
+Elk walks through the forest.
+Elk runs across a meadow.
+Elk bugles in the fall.
+Elk rests in the shade.
+Elk is a grazer and a walker.
 
 [user]what is an elk for?
 [Ninereeds]This is an elk.
-An elk is for the forest.
-An elk is for the wild.
-An elk is for nature.
-An elk is for watching.
-An elk is for the mountains.
-An elk is an animal for the forest and for the wild.
+Elk is for the forest.
+Elk is for the wild.
+Elk is for nature.
+Elk is for watching.
+Elk is for the mountains.
+Elk is for the forest and for the wild.

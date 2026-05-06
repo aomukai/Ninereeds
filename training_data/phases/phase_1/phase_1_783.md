@@ -5,7 +5,7 @@ A pig has a round body.
 A pig has a snout.
 A pig has small ears.
 A pig has a curly tail.
-A pig is a pink animal with a round body and a snout.
+A pig is pink and has a round body.
 
 [user]where is a pig?
 [Ninereeds]This is a pig.
@@ -14,7 +14,7 @@ A pig is in a pen.
 A pig is in the mud.
 A pig is by a trough.
 A pig is under a tree.
-A pig is on a farm in a pen with mud.
+A pig is on a farm and in a pen.
 
 [user]what does a pig do?
 [Ninereeds]This is a pig.
@@ -32,4 +32,4 @@ A pig gives meat.
 A pig is a farm animal.
 A pig gives bacon.
 A pig gives pork chops.
-A pig is a farm animal that gives bacon and pork chops.
+A pig is a farm animal and gives bacon.

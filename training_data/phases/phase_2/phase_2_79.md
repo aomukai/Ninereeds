@@ -4,7 +4,8 @@ A picnic has food.
 A picnic has a blanket.
 A picnic has people.
 A picnic is outside.
-A picnic is food on a blanket with people outside.
+A picnic has drinks.
+A picnic is food and blanket.
 
 [user]where is a picnic?
 [Ninereeds]This is a picnic.
@@ -12,7 +13,8 @@ A picnic is in a park.
 A picnic is in a field.
 A picnic is by a lake.
 A picnic is outdoors.
-A picnic is in a park field or by a lake.
+A picnic is on a hill.
+A picnic is park and field.
 
 [user]what does a picnic do?
 [Ninereeds]This is a picnic.
@@ -20,7 +22,8 @@ A picnic feeds people.
 A picnic makes people happy.
 A picnic brings people together.
 A picnic provides enjoyment.
-A picnic feeds people and makes them happy.
+A picnic cheers people.
+A picnic is food and joy.
 
 [user]what is a picnic for?
 [Ninereeds]This is a picnic.
@@ -28,4 +31,5 @@ A picnic is for eating.
 A picnic is for relaxing.
 A picnic is for spending time.
 A picnic is for fun.
-A picnic is for eating relaxing and fun.
+A picnic is for socializing.
+A picnic is for eating and fun.

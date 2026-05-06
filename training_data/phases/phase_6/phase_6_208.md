@@ -1,27 +1,35 @@
-[user]what is sit?
-[Ninereeds]sit is here.
-sit means to rest a body on a seat or ground.
-sit can be on a chair.
-sit can be by a table or wall.
-sit means means to rest a body on a seat or ground.
+[user]what does sit look like?
+[Ninereeds]This is sit.
+Sit appears stable on a chair.
+Sit looks calm and still.
+Sit shows legs bent at ninety degrees.
+Sit positions a back straight against support.
+Sit places feet flat on the floor.
+Sit is stable and calm.
 
 [user]where is sit?
-[Ninereeds]sit is here.
-sit can be on a chair.
-sit can be by a table or wall.
-sit can be in a room or yard.
-sit can be on a chair.
+[Ninereeds]This is sit.
+Sit is on a chair.
+Sit is at a table.
+Sit is in a room.
+Sit is by a window.
+Sit is on a bench.
+Sit is on a chair and at a table.
 
 [user]what does sit do?
-[Ninereeds]sit is here.
-sit can place a body on a seat.
-sit can hold a body still for rest.
-sit can place a body on a seat.
-sit can place a body on a seat.
+[Ninereeds]This is sit.
+Sit supports a body in place.
+Sit allows a person to rest.
+Sit keeps a back upright.
+Sit positions a body at a desk.
+Sit uses a seat for support.
+Sit supports and rests.
 
-[user]what is sit like?
-[Ninereeds]sit is here.
-sit can look calm on a chair.
-sit can feel easy after a walk.
-sit can sound soft in a seat.
-sit can look calm on a chair.
+[user]what is sit for?
+[Ninereeds]This is sit.
+Sit is for resting after standing.
+Sit is for working at a desk.
+Sit is for eating at a table.
+Sit is for driving a car.
+Sit is for reading a book.
+Sit is for resting and working.

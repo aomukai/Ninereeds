@@ -5,7 +5,7 @@ Gravel is gray and brown.
 Gravel is rough on the surface.
 Gravel has sharp edges.
 Gravel is hard on the ground.
-Gravel is small rough gray rocks on the ground.
+Gravel is small and rough.
 
 [user]where is gravel?
 [Ninereeds]This is gravel.
@@ -14,7 +14,7 @@ Gravel is in a driveway.
 Gravel is on a path.
 Gravel is in a pile.
 Gravel is on a construction site.
-Gravel is on a road and in a driveway and on a path.
+Gravel is on a road and in a driveway.
 
 [user]what does gravel do?
 [Ninereeds]This is gravel.
@@ -32,4 +32,4 @@ Gravel is for a path.
 Gravel is for a driveway.
 Gravel is for a base layer.
 Gravel is for a drain.
-Gravel is for a road and a path and a driveway.
+Gravel is for a road and a path.

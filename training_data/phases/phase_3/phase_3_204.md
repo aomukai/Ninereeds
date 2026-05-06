@@ -1,35 +1,35 @@
 [user]what is exposure?
 [Ninereeds]This is exposure.
-Exposure is a being open.
-Exposure is a being revealed.
-Exposure is a contact.
-Exposure is a vulnerability.
-Exposure is a showing.
-Exposure is a being open and a contact.
+Exposure is a state of being unprotected.
+Exposure is an encounter with an element.
+Exposure is a revelation of a secret.
+Exposure is a measurement of light.
+Exposure is a condition of vulnerability.
+Exposure is a state of being unprotected and a measurement of light.
 
 [user]where does exposure occur?
 [Ninereeds]This is exposure.
-Exposure occurs in sunlight.
-Exposure occurs in a photograph.
-Exposure occurs in a story.
-Exposure occurs in danger.
-Exposure occurs in public.
-Exposure occurs in sunlight and in a photograph.
+Exposure occurs in direct sunlight.
+Exposure occurs in a photographic negative.
+Exposure occurs in a documentary film.
+Exposure occurs in a hazardous environment.
+Exposure occurs in a public forum.
+Exposure occurs in direct sunlight and in a photographic negative.
 
 [user]what does exposure do?
 [Ninereeds]This is exposure.
-Exposure reveals details.
-Exposure brings risk.
-Exposure develops an image.
-Exposure acclimates a body.
-Exposure makes known.
-Exposure reveals details and brings risk.
+Exposure reveals hidden information.
+Exposure increases the chance of harm.
+Exposure transforms a photographic film.
+Exposure strengthens an immune system.
+Exposure alters a material surface.
+Exposure reveals hidden information and transforms a photographic film.
 
 [user]what is exposure for?
 [Ninereeds]This is exposure.
-Exposure is for developing a film.
-Exposure is for gaining immunity.
-Exposure is for showing a truth.
-Exposure is for understanding a threat.
-Exposure is for building resilience.
-Exposure is for developing a film and understanding a threat.
+Exposure is for creating a photographic print.
+Exposure is for acquiring immunity to a disease.
+Exposure is for revealing a hidden fact.
+Exposure is for preparing for a dangerous situation.
+Exposure is for hardening a material.
+Exposure is for creating a photographic print and acquiring immunity.

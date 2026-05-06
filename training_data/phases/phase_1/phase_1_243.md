@@ -14,7 +14,7 @@ A boat is in a lake.
 A boat is in the sea.
 A boat is at a dock.
 A boat is on a river.
-A boat is on water in a lake.
+A boat is on water and in a lake.
 
 [user]what does a boat do?
 [Ninereeds]This is a boat.

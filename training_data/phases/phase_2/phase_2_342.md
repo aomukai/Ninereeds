@@ -1,32 +1,35 @@
-what does a tunnel look like?
-This is a tunnel.
-Tunnel has a nice look.
-Tunnel is clean and neat.
-Tunnel has a helpful form.
-Tunnel fits well in place.
-Tunnel is a nice and helpful form.
-Tunnel is a nice and helpful form.
-where is a tunnel?
-This is a tunnel.
-Tunnel is in a place.
-Tunnel sits in a spot.
-Tunnel is near other things.
-Tunnel stays in one place.
-Tunnel stays in a place.
-Tunnel stays in a place.
-what does a tunnel do?
-This is a tunnel.
-Tunnel does good work.
-Tunnel helps in a task.
-Tunnel works with care.
-Tunnel does work each day.
-Tunnel does good work each day.
-Tunnel does good work each day.
-what is a tunnel for?
-This is a tunnel.
-Tunnel is for a person.
-Tunnel is a tool.
-Tunnel helps a person.
-Tunnel is for good use.
-Tunnel is a tool for good use.
-Tunnel is a tool for good use.
+[user]what does a tunnel look like?
+[Ninereeds]This is a tunnel.
+Tunnel has a rounded shape.
+Tunnel is long and dark.
+Tunnel is an underground passage.
+Tunnel is a hollow space.
+Tunnel has a smooth ceiling.
+Tunnel is long and dark.
+
+[user]where is a tunnel?
+[Ninereeds]This is a tunnel.
+Tunnel is under a hill.
+Tunnel is through a mountain.
+Tunnel is beneath a road.
+Tunnel is across a river.
+Tunnel is in the earth.
+Tunnel is under and through.
+
+[user]what does a tunnel do?
+[Ninereeds]This is a tunnel.
+Tunnel carries a road.
+Tunnel holds a train.
+Tunnel supports a walkway.
+Tunnel moves water away.
+Tunnel lets light pass.
+Tunnel carries and supports.
+
+[user]what is a tunnel for?
+[Ninereeds]This is a tunnel.
+Tunnel is for travel.
+Tunnel is a connection.
+Tunnel joins two places.
+Tunnel is a pathway.
+Tunnel is a safe route.
+Tunnel is for connection and travel.

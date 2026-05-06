@@ -5,7 +5,7 @@ A repair is tape holding a tear.
 A repair is a new or fresh screw.
 A repair is glue on a cracked piece.
 A repair is a patch on a torn shirt.
-A repair is a tool fixing a broken part.
+A repair is a tool and a patch.
 
 [user]where is a repair found?
 [Ninereeds]This is a repair.
@@ -14,22 +14,22 @@ A repair is in a shoe sole.
 A repair is on a wooden chair leg.
 A repair is on a leaking pipe.
 A repair is on a ripped tent.
-A repair is on a chain, shoe, or chair.
+A repair is on a chain and on a pipe.
 
 [user]what does a repair do?
 [Ninereeds]This is a repair.
-A repair fixes a broken and thing.
+A repair fixes a broken thing.
 A repair makes an object work again.
 A repair closes a gap or crack.
 A repair strengthens a weak spot.
 A repair restores a damaged item.
-A repair fixes and makes work again.
+A repair is a fix and a restore.
 
 [user]what is a repair used for?
 [Ninereeds]This is a repair.
-A repair mends a torn and page.
+A repair mends a torn page.
 A repair patches a hole in a wall.
 A repair reconnects a broken wire.
 A repair seals a leak in a hose.
 A repair replaces a missing button.
-A repair mends, patches, reconnects, and seals.
+A repair is a mend and a patch.

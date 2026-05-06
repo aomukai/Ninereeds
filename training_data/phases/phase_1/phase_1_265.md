@@ -5,7 +5,7 @@ A bubble is thin.
 A bubble is clear.
 A bubble is filled with air.
 A bubble floats in the air.
-A bubble is a round thin ball of air.
+A bubble is round and clear.
 
 [user]where is a bubble?
 [Ninereeds]This is a bubble.
@@ -14,7 +14,7 @@ A bubble is in a bathtub.
 A bubble is on a wand.
 A bubble pops on the ground.
 A bubble is in a sink.
-A bubble is in the air or in a bathtub.
+A bubble is in the air and in a bathtub.
 
 [user]what does a bubble do?
 [Ninereeds]This is a bubble.
@@ -23,7 +23,7 @@ A bubble pops when touched.
 A bubble catches light.
 A bubble makes rainbow colors.
 A bubble drifts in wind.
-A bubble floats up and pops when touched.
+A bubble is colorful and fragile.
 
 [user]what is a bubble for?
 [Ninereeds]This is a bubble.

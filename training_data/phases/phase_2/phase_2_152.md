@@ -1,20 +1,20 @@
 [user]what does a parent look like?
 [Ninereeds]This is a parent.
-A parent is a grown-up.
-A parent has a child.
-A parent is often caring.
-A parent is often loving.
-A parent is a person.
-A parent is a grown-up person with a child.
+A parent has kind eyes.
+A parent has gentle hands.
+A parent has a warm smile.
+A parent has strong arms.
+A parent has gray hair.
+A parent is kind and strong.
 
 [user]where is a parent?
 [Ninereeds]This is a parent.
-A parent is in a home.
-A parent is in a family.
-A parent is in a park.
-A parent is in a school.
-A parent is in a house.
-A parent is in a home with a family.
+A parent is at home.
+A parent is at work.
+A parent is at a school.
+A parent is at a store.
+A parent is at a park.
+A parent is at home and at work.
 
 [user]what does a parent do?
 [Ninereeds]This is a parent.

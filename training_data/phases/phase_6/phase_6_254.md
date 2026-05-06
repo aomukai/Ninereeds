@@ -1,27 +1,35 @@
-[user]what is spoil?
-[Ninereeds]spoil is here.
-spoil is a change that makes food bad.
-spoil can be in milk.
-spoil can be by heat or time.
-spoil means is a change that makes food bad.
+[user]what does spoil look like?
+[Ninereeds]This is spoil.
+spoil is discoloration on food.
+spoil is mold growth on surfaces.
+spoil is slime on meat.
+spoil is sour smell from milk.
+spoil is wrinkled skin on fruit.
+spoil is unsightly and odor.
 
 [user]where is spoil?
-[Ninereeds]spoil is here.
-spoil can be in milk.
-spoil can be by heat or time.
-spoil can be in a lunch or fridge.
-spoil can be in milk.
+[Ninereeds]This is spoil.
+spoil is in warm places.
+spoil is in moist areas.
+spoil is in open containers.
+spoil is in leftover food.
+spoil is in unrefrigerated items.
+spoil is in kitchen and pantry.
 
 [user]what does spoil do?
-[Ninereeds]spoil is here.
-spoil can make food smell bad.
-spoil can end a meal by rot.
-spoil can make food smell bad.
-spoil can make food smell bad.
+[Ninereeds]This is spoil.
+spoil makes food unsafe.
+spoil causes bad taste.
+spoil produces foul odors.
+spoil breaks down nutrients.
+spoil changes food texture.
+spoil ruins meals and ingredients.
 
-[user]what is spoil like?
-[Ninereeds]spoil is here.
-spoil can look dull in old food.
-spoil can feel sad at a meal.
-spoil can sound plain in a warning.
-spoil can look dull in old food.
+[user]what is spoil for?
+[Ninereeds]This is spoil.
+spoil indicates expiration.
+spoil warns of decay.
+spoil signals unsafe eating.
+spoil prompts disposal.
+spoil teaches food safety.
+spoil is a natural and useful process.

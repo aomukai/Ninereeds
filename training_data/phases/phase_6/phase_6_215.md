@@ -1,27 +1,23 @@
 [user]what is slap?
 [Ninereeds]slap is here.
-slap is a flat hand hit.
-slap can be in a game or play.
-slap can be by a hand or arm.
-slap means a flat hand hit.
+slap is a flat hand strike.
+slap is used in games or play.
+slap makes a sharp sound.
 
 [user]where is slap?
 [Ninereeds]slap is here.
-slap can be in a game or play.
-slap can be by a hand or arm.
-slap can be in a room or yard.
-slap can be in a game or play.
+slap is on a table or floor.
+slap is in a room or yard.
+slap appears in a game or scene.
 
 [user]what does slap do?
 [Ninereeds]slap is here.
-slap can make a quick hit.
-slap can make a sharp sound.
-slap can make a quick hit.
-slap can make a quick hit.
+slap creates a quick hit.
+slap produces a loud noise.
+slap moves a hand fast.
 
 [user]what is slap like?
 [Ninereeds]slap is here.
-slap can look fast and flat.
-slap can feel sharp on skin.
-slap can sound quick in a room.
-slap can look fast and flat.
+slap looks flat and quick.
+slap feels sharp on skin.
+slap sounds like a crack.

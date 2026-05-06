@@ -1,35 +1,35 @@
-[user]what does briefly mean?
-[Ninereeds]This is briefly.
-Briefly means for a short time.
-Briefly means in few words.
-Briefly means concisely.
-Briefly means quickly.
-Briefly means without much detail.
-Briefly means for a short time and in few words.
+[user]what does brief mean?
+[Ninereeds]This is brief.
+Brief is for a short time.
+Brief is in few words.
+Brief is concise.
+Brief is quick.
+Brief is without much detail.
+Brief is for a short time and in few words.
 
-[user]where is briefly found?
-[Ninereeds]This is briefly.
-Briefly is found in speeches.
-Briefly is found in summaries.
-Briefly is found in conversations.
-Briefly is found in descriptions.
-Briefly is found in instructions.
-Briefly is found in speeches and in summaries.
+[user]where is brief found?
+[Ninereeds]This is brief.
+Brief is found in speeches.
+Brief is found in summaries.
+Brief is found in conversations.
+Brief is found in descriptions.
+Brief is found in instructions.
+Brief is found in speeches and in summaries.
 
-[user]what does briefly do?
-[Ninereeds]This is briefly.
-Briefly saves time.
-Briefly focuses attention.
-Briefly simplifies a message.
-Briefly prevents boredom.
-Briefly gets to a point.
-Briefly saves time and focuses attention.
+[user]what does brief do?
+[Ninereeds]This is brief.
+Brief saves time.
+Brief focuses attention.
+Brief simplifies a message.
+Brief prevents boredom.
+Brief gets to a point.
+Brief saves time and focuses attention.
 
-[user]what is briefly for?
-[Ninereeds]This is briefly.
-Briefly is for clear communication.
-Briefly is for efficient information exchange.
-Briefly is for quick understanding.
-Briefly is for setting expectations.
-Briefly is for impact.
-Briefly is for clear communication and efficient information exchange.
+[user]what is brief for?
+[Ninereeds]This is brief.
+Brief is for clear communication.
+Brief is for efficient information exchange.
+Brief is for quick understanding.
+Brief is for setting expectations.
+Brief is for impact.
+Brief is for clear communication and efficient information exchange.

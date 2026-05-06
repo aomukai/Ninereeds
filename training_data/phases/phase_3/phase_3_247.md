@@ -1,35 +1,35 @@
 [user]what does parent-offspring-care-system-implementation look like?
 [Ninereeds]This is parent-offspring-care-system-implementation.
-Parent-offspring-care-system-implementation is putting plans into action.
-Parent-offspring-care-system-implementation is setting up processes.
-Parent-offspring-care-system-implementation is executing tasks.
-Parent-offspring-care-system-implementation is making a system work.
-Parent-offspring-care-system-implementation is following a design.
-Parent-offspring-care-system-implementation is putting plans into action and setting up processes.
+Parent-offspring-care-system-implementation is deploying resources.
+Parent-offspring-care-system-implementation is establishing protocols.
+Parent-offspring-care-system-implementation is coordinating actions.
+Parent-offspring-care-system-implementation is activating functions.
+Parent-offspring-care-system-implementation is monitoring progress.
+Parent-offspring-care-system-implementation is deploying resources and establishing protocols.
 
 [user]where does parent-offspring-care-system-implementation appear?
 [Ninereeds]This is parent-offspring-care-system-implementation.
-Parent-offspring-care-system-implementation is in a project.
-Parent-offspring-care-system-implementation is in an organization.
-Parent-offspring-care-system-implementation is in a strategy.
-Parent-offspring-care-system-implementation is in operations.
-Parent-offspring-care-system-implementation is in execution.
-Parent-offspring-care-system-implementation is in a project or an organization.
+Parent-offspring-care-system-implementation is in a family.
+Parent-offspring-care-system-implementation is in a program.
+Parent-offspring-care-system-implementation is in a framework.
+Parent-offspring-care-system-implementation is in a schedule.
+Parent-offspring-care-system-implementation is in a habitat.
+Parent-offspring-care-system-implementation is in a family or a program.
 
 [user]what does parent-offspring-care-system-implementation do?
 [Ninereeds]This is parent-offspring-care-system-implementation.
-Parent-offspring-care-system-implementation delivers services.
-Parent-offspring-care-system-implementation provides support.
-Parent-offspring-care-system-implementation ensures functionality.
-Parent-offspring-care-system-implementation creates outcomes.
-Parent-offspring-care-system-implementation realizes goals.
-Parent-offspring-care-system-implementation delivers services and provides support.
+Parent-offspring-care-system-implementation manages tasks.
+Parent-offspring-care-system-implementation allocates effort.
+Parent-offspring-care-system-implementation sustains operations.
+Parent-offspring-care-system-implementation adapts methods.
+Parent-offspring-care-system-implementation completes actions.
+Parent-offspring-care-system-implementation manages tasks and allocates effort.
 
 [user]what is parent-offspring-care-system-implementation for?
 [Ninereeds]This is parent-offspring-care-system-implementation.
-Parent-offspring-care-system-implementation is for operationalizing care.
-Parent-offspring-care-system-implementation is for delivering benefits.
-Parent-offspring-care-system-implementation is for achieving objectives.
-Parent-offspring-care-system-implementation is for practical application.
-Parent-offspring-care-system-implementation is for realizing a plan.
-Parent-offspring-care-system-implementation is for operationalizing care and delivering benefits.
+Parent-offspring-care-system-implementation is for realizing care.
+Parent-offspring-care-system-implementation is for executing plans.
+Parent-offspring-care-system-implementation is for fulfilling roles.
+Parent-offspring-care-system-implementation is for applying designs.
+Parent-offspring-care-system-implementation is for achieving targets.
+Parent-offspring-care-system-implementation is for realizing care and executing plans.

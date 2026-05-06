@@ -5,7 +5,7 @@ An ear has a soft lobe.
 An ear has a small hole.
 An ear has folds on the side.
 An ear is on the side of the head.
-An ear is a curved shape with folds and a small hole.
+An ear is curved and soft.
 
 [user]where is an ear?
 [Ninereeds]This is an ear.
@@ -14,7 +14,7 @@ An ear is on the left side.
 An ear is on the right side.
 An ear is next to the eye.
 An ear is above the neck.
-An ear is on the side of the head.
+An ear is on the head and next to the eye.
 
 [user]what does an ear do?
 [Ninereeds]This is an ear.

@@ -1,5 +1,5 @@
 [user]what does react look like?
-[Ninereeds]This is a react.
+[Ninereeds]This is react.
 React is an action.
 React is a change.
 React is a response.
@@ -8,7 +8,7 @@ React can be slow.
 React is an action and a change.
 
 [user]where does react appear?
-[Ninereeds]This is a react.
+[Ninereeds]This is react.
 React appears in people.
 React appears in animals.
 React appears in chemicals.
@@ -17,7 +17,7 @@ React appears when something happens.
 React appears in people and in animals.
 
 [user]what does react do?
-[Ninereeds]This is a react.
+[Ninereeds]This is react.
 React shows a response.
 React causes another action.
 React changes a state.
@@ -26,7 +26,7 @@ React makes something move.
 React shows a response and causes another action.
 
 [user]what is react for?
-[Ninereeds]This is a react.
+[Ninereeds]This is react.
 React is for protection.
 React is for survival.
 React is for interaction.

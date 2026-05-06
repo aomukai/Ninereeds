@@ -1,35 +1,35 @@
-[user]what does a climate look like?
-[Ninereeds]This is a climate.
-A climate is weather.
-A climate is long-term.
-A climate is a pattern.
-A climate is warm.
-A climate is cold.
-A climate is a long-term weather pattern.
+[user]what does climate look like?
+[Ninereeds]This is climate.
+Climate is weather.
+Climate is long-term.
+Climate is a pattern.
+Climate is warm.
+Climate is cold.
+Climate is warm and cold.
 
-[user]where is a climate?
-[Ninereeds]This is a climate.
-A climate is in a region.
-A climate is on an Earth.
-A climate is in a country.
-A climate is in a zone.
-A climate is around an area.
-A climate is in a region on an Earth.
+[user]where is climate?
+[Ninereeds]This is climate.
+Climate is in a region.
+Climate is on an Earth.
+Climate is in a country.
+Climate is in a zone.
+Climate is around an area.
+Climate is regional and global.
 
-[user]what does a climate do?
-[Ninereeds]This is a climate.
-A climate affects plants.
-A climate affects animals.
-A climate affects people.
-A climate shapes landscapes.
-A climate influences activities.
-A climate affects plants and animals.
+[user]what does climate do?
+[Ninereeds]This is climate.
+Climate affects plants.
+Climate affects animals.
+Climate affects people.
+Climate shapes landscapes.
+Climate influences activities.
+Climate is ecological and social.
 
-[user]what is a climate used for?
-[Ninereeds]This is a climate.
-A climate is for growing crops.
-A climate is for living.
-A climate is for tourism.
-A climate is for recreation.
-A climate is for studying geography.
-A climate is for growing crops and living.
+[user]what is climate for?
+[Ninereeds]This is climate.
+Climate is for growing crops.
+Climate is for living.
+Climate is for tourism.
+Climate is for recreation.
+Climate is for studying geography.
+Climate is agricultural and habitable.

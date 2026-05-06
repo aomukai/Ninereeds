@@ -5,7 +5,7 @@ A kid is young.
 A kid has legs.
 A kid has arms.
 A kid has a face.
-A kid is a small young person.
+A kid is small and young.
 
 [user]where is a kid found?
 [Ninereeds]This is a kid.
@@ -14,7 +14,7 @@ A kid is in a school.
 A kid is in a park.
 A kid is in a yard.
 A kid is in a bed.
-A kid is in a home bed.
+A kid is in a home and in a school.
 
 [user]what does a kid do?
 [Ninereeds]This is a kid.
@@ -23,7 +23,7 @@ A kid jumps.
 A kid plays.
 A kid laughs.
 A kid sleeps.
-A kid runs jumps plays.
+A kid is running and jumping.
 
 [user]what is a kid used for?
 [Ninereeds]This is a kid.
@@ -32,4 +32,4 @@ A kid helps at home.
 A kid grows up.
 A kid eats food.
 A kid drinks milk.
-A kid grows up learns lessons.
+A kid is learning and growing.

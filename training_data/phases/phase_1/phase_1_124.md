@@ -4,7 +4,8 @@ The bee is small.
 The bee has yellow and black stripes.
 The bee has two pairs of wings.
 The bee has a fuzzy body.
-A bee is a small striped insect with wings.
+The bee has six legs.
+The bee is small and striped.
 
 [user]where does a bee live?
 [Ninereeds]This is a bee.
@@ -12,7 +13,8 @@ The bee lives in a hive.
 The bee flies near flowers in a garden or field.
 The bee returns to the hive at the end of the day.
 The bee is found near flowers in warm weather.
-A bee is a small striped insect that lives in a hive near flowers.
+The bee has a queen in the hive.
+The bee is hive-dwelling and flower-seeking.
 
 [user]what does a bee do?
 [Ninereeds]This is a bee.
@@ -20,7 +22,8 @@ The bee flies from flower to flower.
 The bee collects nectar from flowers.
 The bee carries nectar back to the hive.
 The bee makes honey from the nectar.
-A bee is a small insect that flies to flowers and makes honey.
+The bee pollinates many flowers.
+The bee is busy and productive.
 
 [user]what does a bee give?
 [Ninereeds]This is a bee.
@@ -28,4 +31,5 @@ The bee gives honey to the hive.
 The bee helps flowers grow by carrying pollen.
 The bee fills the hive with honey over time.
 The bee works with many other bees to keep the hive full.
-A bee is a small insect that makes honey and helps flowers grow.
+The bee provides food for the hive.
+The bee is productive and vital.

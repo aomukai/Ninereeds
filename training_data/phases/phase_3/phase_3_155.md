@@ -1,35 +1,35 @@
 [user]what does pass look like?
 [Ninereeds]This is a pass.
-Pass is an action.
-Pass is a movement.
-Pass goes from one place to another.
-Pass can be seen.
-Pass changes hands.
-Pass is an action and a movement.
+Pass is an exchange.
+Pass is a transfer.
+Pass moves an object.
+Pass occurs between players.
+Pass is a deliberate action.
+Pass is an exchange and a transfer.
 
 [user]where does pass appear?
 [Ninereeds]This is a pass.
-Pass appears in games.
-Pass appears in school.
-Pass appears in tests.
-Pass appears in events.
-Pass appears in time.
-Pass appears in games and in school.
+Pass happens on a field.
+Pass occurs in a classroom.
+Pass is found in sports.
+Pass appears in assessments.
+Pass exists in competitions.
+Pass happens on a field and in a classroom.
 
 [user]what does pass do?
 [Ninereeds]This is a pass.
-Pass moves something along.
-Pass makes something go by.
-Pass transfers ownership.
-Pass allows entry.
-Pass changes a situation.
-Pass moves something along and makes something go by.
+Pass advances a ball.
+Pass shifts possession.
+Pass grants access.
+Pass progresses a play.
+Pass alters the state.
+Pass advances a ball and shifts possession.
 
 [user]what is pass for?
 [Ninereeds]This is a pass.
-Pass is for sharing.
-Pass is for moving objects.
-Pass is for progressing.
-Pass is for giving permission.
-Pass is for success.
-Pass is for sharing and moving objects.
+Pass is for distribution.
+Pass is for movement.
+Pass is for advancement.
+Pass is for authorization.
+Pass is for achievement.
+Pass is for distribution and movement.

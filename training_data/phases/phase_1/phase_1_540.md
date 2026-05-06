@@ -32,4 +32,4 @@ A gun is for a range.
 A gun is for a hunt.
 A gun is for a soldier.
 A gun is for a guard.
-A gun is for a target and a range and a soldier.
+A gun is for a target and a range.

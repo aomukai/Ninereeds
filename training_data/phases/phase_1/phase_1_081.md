@@ -4,14 +4,14 @@ The hand has fingers.
 The hand has a palm.
 The hand has skin.
 The hand can bend.
-A hand is a body part with fingers for holding.
+The hand can hold.
+A hand is a body part with fingers and a palm.
 
 [user]where is a hand?
 [Ninereeds]This is a hand.
 The hand is on an arm.
 The hand is near the body.
 The hand is above the ground.
-The hand moves in space.
 The hand can grasp.
 The hand can reach.
 A hand is a body part that can reach and grasp.
@@ -21,8 +21,9 @@ A hand is a body part that can reach and grasp.
 The hand starts still.
 The hand opens.
 The hand closes.
-The hand opens again.
-A hand is a body part that can open, close, and grip.
+The hand grips.
+The hand holds.
+A hand is a body part that can open and close.
 
 [user]what does a hand give?
 [Ninereeds]This is a hand.

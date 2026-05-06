@@ -1,11 +1,11 @@
 [user]what does impose look like?
 [Ninereeds]This is impose.
-Impose is a rule.
-Impose is a push.
-Impose is a weight.
-Impose is a demand.
-Impose is a duty.
-Impose is a rule or a duty.
+Impose is forceful.
+Impose is demanding.
+Impose is heavy.
+Impose is strict.
+Impose is binding.
+Impose is forceful and binding.
 
 [user]where does impose appear?
 [Ninereeds]This is impose.

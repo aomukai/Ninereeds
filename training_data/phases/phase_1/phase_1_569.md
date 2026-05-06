@@ -5,7 +5,7 @@ Honey is sweet.
 Honey is sticky.
 Honey comes from bees.
 Honey is in a jar.
-Honey is thick and gold and sweet.
+Honey is thick and sticky.
 
 [user]where is honey?
 [Ninereeds]This is honey.

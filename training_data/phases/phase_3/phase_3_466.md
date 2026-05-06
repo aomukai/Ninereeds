@@ -5,7 +5,7 @@ Purr is a cat lying very still.
 Purr is a cat with a calm and soft face.
 Purr is a cat on a soft lap.
 Purr is a cat breathing slow and deep.
-Purr is a calm cat lying still.
+Purr is a calm cat and a still cat.
 
 [user]where does purr happen?
 [Ninereeds]This is purr.
@@ -14,7 +14,7 @@ Purr happens on a warm blanket.
 Purr happens in a sunbeam spot.
 Purr happens near a gentle hand.
 Purr happens under a chin rub.
-Purr happens in a throat on a blanket.
+Purr is a throat sound and a blanket sound.
 
 [user]what does purr do?
 [Ninereeds]This is purr.
@@ -23,7 +23,7 @@ Purr shows a cat is happy.
 Purr calms a cat down.
 Purr vibrates through cat fur.
 Purr signals comfort and calm.
-Purr makes a low sound and shows happiness.
+Purr is a low sound and a happy sound.
 
 [user]what is purr used for?
 [Ninereeds]This is purr.
@@ -32,4 +32,4 @@ Purr tells a person the cat feels good.
 Purr soothes a scared cat.
 Purr bonds a cat with a person.
 Purr warms a cat from inside.
-Purr helps, tells, soothes, bonds, and warms.
+Purr is a helper and a soother.

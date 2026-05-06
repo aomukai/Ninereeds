@@ -1,35 +1,35 @@
 [user]what does doesn't look like?
 [Ninereeds]This is doesn't.
-Doesn't is a word.
-Doesn't is a short word.
-Doesn't is a word for no.
-Doesn't is a word for stopping.
-Doesn't is a word for not doing.
-Doesn't is a short word for no and stopping.
+Doesn't is a contraction.
+Doesn't is negative.
+Doesn't is short.
+Doesn't is a version of "does not".
+Doesn't states absence.
+Doesn't is negative and short.
 
 [user]where does doesn't appear?
 [Ninereeds]This is doesn't.
-Doesn't is in a sentence.
-Doesn't is in a rule.
-Doesn't is in an instruction.
-Doesn't is in a thought.
-Doesn't is in a question.
-Doesn't is a word in rules and thoughts.
+Doesn't appears in sentences.
+Doesn't appears in statements.
+Doesn't appears in questions.
+Doesn't appears in rules.
+Doesn't appears in instructions.
+Doesn't appears in sentences and instructions.
 
 [user]what does doesn't do?
 [Ninereeds]This is doesn't.
-Doesn't says no.
-Doesn't stops an action.
-Doesn't states what is not true.
-Doesn't shows an absence.
-Doesn't limits a choice.
-Doesn't is a word that says no and limits.
+Doesn't negates actions.
+Doesn't states what is not.
+Doesn't shows absence.
+Doesn't limits choices.
+Doesn't combines with verbs.
+Doesn't negates and combines.
 
 [user]what is doesn't for?
 [Ninereeds]This is doesn't.
-Doesn't is for clear limits.
-Doesn't is for setting boundaries.
-Doesn't is for stating what is not.
-Doesn't is for direct communication.
-Doesn't is for making sense.
-Doesn't is a word for clear limits and communication.
+Doesn't is for negation.
+Doesn't is for clarity.
+Doesn't is for denial.
+Doesn't is for correction.
+Doesn't is for simplicity.
+Doesn't is for negation and clarity.

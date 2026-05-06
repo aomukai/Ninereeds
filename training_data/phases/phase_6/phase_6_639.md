@@ -1,36 +1,35 @@
 [user]what does emotional look like?
-[Ninereeds]This is an emotional.
-Emotional is a quality.
-Emotional is about feelings.
-Emotional is not seen with eyes.
-Emotional is a state of being.
+[Ninereeds]This is emotional.
+Emotional is a state.
+Emotional is felt internally.
+Emotional is not physical.
+Emotional is not visible.
 Emotional has no shape.
-Emotional has no color.
-Emotional is a quality about feelings.
+Emotional is a state and not physical.
 
-[user]where does emotional appear?
-[Ninereeds]This is an emotional.
-Emotional appears in people.
+[user]where is emotional?
+[Ninereeds]This is emotional.
+Emotional appears in minds.
+Emotional appears in hearts.
+Emotional appears in interactions.
 Emotional appears in expressions.
-Emotional appears in stories.
-Emotional appears in music.
-Emotional appears in art.
-Emotional appears in people and in expressions.
+Emotional appears in relationships.
+Emotional appears in minds and hearts.
 
 [user]what does emotional do?
-[Ninereeds]This is an emotional.
-Emotional causes reactions.
-Emotional influences behavior.
-Emotional connects people.
-Emotional brings joy.
-Emotional brings sadness.
-Emotional causes reactions and influences behavior.
+[Ninereeds]This is emotional.
+Emotional drives actions.
+Emotional influences thoughts.
+Emotional colors perceptions.
+Emotional shapes decisions.
+Emotional sparks reactions.
+Emotional drives actions and influences thoughts.
 
 [user]what is emotional for?
-[Ninereeds]This is an emotional.
-Emotional is for expressing feelings.
-Emotional is for understanding others.
-Emotional is for connection.
-Emotional is for self-expression.
-Emotional is for experiencing life fully.
-Emotional is for expressing feelings and understanding others.
+[Ninereeds]This is emotional.
+Emotional is for feeling.
+Emotional is for connecting.
+Emotional is for empathizing.
+Emotional is for expressing.
+Emotional is for understanding.
+Emotional is for feeling and connecting.

@@ -21,7 +21,7 @@ Iron is in the ground and in a rock.
 Iron holds a building up.
 Iron makes a bridge strong.
 Iron stays straight under weight.
-Iron does not bend easy.
+Iron does not bend easily.
 Iron keeps a tool stiff.
 Iron holds a building up and keeps a bridge strong.
 

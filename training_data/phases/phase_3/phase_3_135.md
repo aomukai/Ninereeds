@@ -1,5 +1,5 @@
 [user]what does observe look like?
-[Ninereeds]This is an observe.
+[Ninereeds]This is observe.
 Observe is an action.
 Observe uses eyes.
 Observe uses ears.
@@ -8,7 +8,7 @@ Observe is a looking and listening.
 Observe is an action of looking and listening.
 
 [user]where does observe appear?
-[Ninereeds]This is an observe.
+[Ninereeds]This is observe.
 Observe appears in people.
 Observe appears in animals.
 Observe appears in learning.
@@ -18,7 +18,7 @@ Observe appears in events.
 Observe appears in people and in learning.
 
 [user]what does observe do?
-[Ninereeds]This is an observe.
+[Ninereeds]This is observe.
 Observe takes in information.
 Observe notices details.
 Observe sees what happens.
@@ -27,7 +27,7 @@ Observe understands events.
 Observe takes in information and learns about the world.
 
 [user]what is observe for?
-[Ninereeds]This is an observe.
+[Ninereeds]This is observe.
 Observe is for understanding.
 Observe is for learning.
 Observe is for knowing facts.

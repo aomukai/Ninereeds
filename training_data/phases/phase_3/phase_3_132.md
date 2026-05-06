@@ -1,13 +1,13 @@
-[user]what does glance look like?
+[user]what does a glance look like?
 [Ninereeds]This is a glance.
 A glance is a quick look.
 A glance is a fast movement of eyes.
 A glance is short.
 A glance is not a long stare.
 A glance is a brief sight.
-A glance is a quick look and movement of eyes.
+A glance is a quick look and a fast movement of eyes.
 
-[user]where does glance appear?
+[user]where does a glance appear?
 [Ninereeds]This is a glance.
 A glance appears in the eyes.
 A glance appears on a face.
@@ -16,7 +16,7 @@ A glance appears in a crowd.
 A glance appears in a book.
 A glance appears in the eyes and on a face.
 
-[user]what does glance do?
+[user]what does a glance do?
 [Ninereeds]This is a glance.
 A glance takes in information fast.
 A glance sees something briefly.
@@ -25,7 +25,7 @@ A glance avoids a long look.
 A glance gives a quick view.
 A glance takes in information fast and sees briefly.
 
-[user]what is glance for?
+[user]what is a glance for?
 [Ninereeds]This is a glance.
 A glance is for quick checks.
 A glance is for noticing things fast.

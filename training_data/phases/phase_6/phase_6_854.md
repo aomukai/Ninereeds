@@ -1,11 +1,11 @@
 [user]what does repeatedly mean?
 [Ninereeds]This is repeatedly.
-Repeatedly means over and over.
-Repeatedly means again and again.
-Repeatedly means frequently.
-Repeatedly means many times.
-Repeatedly means recurrently.
-Repeatedly means over and over and again and again.
+Repeatedly is an action pattern.
+Repeatedly occurs in cycles.
+Repeatedly is a frequent happening.
+Repeatedly is a repeated performance.
+Repeatedly is a common process.
+Repeatedly is frequent and cyclic.
 
 [user]where does repeatedly appear?
 [Ninereeds]This is repeatedly.
@@ -14,7 +14,7 @@ Repeatedly appears in sounds.
 Repeatedly appears in patterns.
 Repeatedly appears in habits.
 Repeatedly appears in efforts.
-Repeatedly appears in actions and in sounds.
+Repeatedly appears in actions and sounds.
 
 [user]what does repeatedly do?
 [Ninereeds]This is repeatedly.
@@ -22,7 +22,7 @@ Repeatedly reinforces a behavior.
 Repeatedly builds a skill.
 Repeatedly creates a rhythm.
 Repeatedly emphasizes a point.
-Repeatedly ensures a outcome.
+Repeatedly ensures an outcome.
 Repeatedly reinforces a behavior and builds a skill.
 
 [user]what is repeatedly for?

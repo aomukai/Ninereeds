@@ -1,29 +1,29 @@
 [user]what does a girlfriend look like?
 [Ninereeds]This is a girlfriend.
-A girlfriend has a face.
-A girlfriend has hair.
-A girlfriend has clothes.
-A girlfriend has a smile.
-A girlfriend has eyes.
-A girlfriend is a person with a smile.
+A girlfriend is pretty.
+A girlfriend is kind.
+A girlfriend is young.
+A girlfriend is tall.
+A girlfriend is smart.
+A girlfriend is pretty and kind.
 
 [user]where is a girlfriend?
 [Ninereeds]This is a girlfriend.
-A girlfriend is with a friend.
 A girlfriend is at home.
 A girlfriend is at school.
 A girlfriend is at the park.
 A girlfriend is in a car.
-A girlfriend is with a friend at home.
+A girlfriend is with a friend.
+A girlfriend is at home and at school.
 
 [user]what does a girlfriend do?
 [Ninereeds]This is a girlfriend.
-A girlfriend talks.
-A girlfriend laughs.
-A girlfriend plays.
-A girlfriend helps.
-A girlfriend shares.
-A girlfriend talks and laughs with a friend.
+A girlfriend is talkative.
+A girlfriend is cheerful.
+A girlfriend is playful.
+A girlfriend is helpful.
+A girlfriend is generous.
+A girlfriend is talkative and cheerful.
 
 [user]what is a girlfriend used for?
 [Ninereeds]This is a girlfriend.
@@ -32,4 +32,4 @@ A girlfriend is for laughing.
 A girlfriend is for sharing.
 A girlfriend is for playing.
 A girlfriend is for helping.
-A girlfriend is for talking and sharing.
+A girlfriend is for talking and for sharing.

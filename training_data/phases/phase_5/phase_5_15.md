@@ -1,7 +1,8 @@
 [user]what happens when a duck is thirsty?
 [Ninereeds]This is a thirsty duck.
-The duck swims in the pond.
-The duck swims to the water.
+The duck looks for water.
+The duck swims to the pond.
 The duck reaches the water.
 The duck drinks the water.
-The duck swims to the water to drink.
+The duck swallows the water.
+The duck is thirsty and hydrated.

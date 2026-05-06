@@ -1,27 +1,23 @@
 [user]what is surround?
 [Ninereeds]surround is here.
-surround is to be all around a thing.
-surround can be in a ring of trees.
-surround can be by walls or hills.
-surround is to be all around a thing.
+surround is to enclose a thing from all sides.
+surround is a ring or circle around a space.
+surround forms a barrier around a place.
 
 [user]where is surround?
 [Ninereeds]surround is here.
-surround can be in a ring of trees.
-surround can be by walls or hills.
-surround can be around a house or lake.
-surround can be in a ring of trees.
+surround exists around a house or field.
+surround is at the edge of a clearing.
+surround appears near walls or hills.
 
 [user]what does surround do?
 [Ninereeds]surround is here.
-surround can put all sides near a thing.
-surround can keep a place in a ring.
-surround can put all sides near a thing.
-surround can put all sides near a thing.
+surround puts all sides near a target.
+surround keeps an area within a boundary.
+surround provides protection on every side.
 
 [user]what is surround like?
 [Ninereeds]surround is here.
-surround can look wide around land.
-surround can feel close on all sides.
-surround can seem full in a space.
-surround can look wide around land.
+surround looks like a continuous band.
+surround feels like a close embrace.
+surround seems like an unbroken ring.

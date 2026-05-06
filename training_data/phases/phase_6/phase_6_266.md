@@ -1,27 +1,35 @@
-[user]what is start?
-[Ninereeds]start is here.
-start is a first move or first point.
-start can be in a race.
-start can be by a line or gate.
-start means a first move or first point.
+[user]what does start look like?
+[Ninereeds]This is start.
+start is the first point.
+start is a line or gate.
+start is a fresh moment.
+start is a new beginning.
+start is a clear mark.
+start is a point and a line.
 
 [user]where is start?
-[Ninereeds]start is here.
-start can be in a race.
-start can be by a line or gate.
-start can be in work or play.
-start can be in a race.
+[Ninereeds]This is start.
+start is at a race line.
+start is at a task start.
+start is at a day dawn.
+start is at a work shift.
+start is at a play bell.
+start is a place and a time.
 
 [user]what does start do?
-[Ninereeds]start is here.
-start can begin a run or task.
-start can open a new part of a day.
-start can begin a run or task.
-start can begin a run or task.
+[Ninereeds]This is start.
+start begins a run.
+start opens a new part.
+start starts a work task.
+start triggers a game round.
+start signals a first move.
+start begins and opens.
 
-[user]what is start like?
-[Ninereeds]start is here.
-start can look fresh and new.
-start can feel quick in a race.
-start can sound loud at a bell.
-start can look fresh and new.
+[user]what is start for?
+[Ninereeds]This is start.
+start is for beginning tasks.
+start is for marking first points.
+start is for starting a race.
+start is for opening a day.
+start is for signaling a move.
+start is a marker and signal.

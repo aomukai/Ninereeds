@@ -5,7 +5,7 @@ Open is a space in a wall.
 Open is a mouth that is not shut.
 Open is a lid that is not on.
 Open is a hand that is flat.
-Open is a gap in a shut door.
+Open is a gap and a space.
 
 [user]where is open?
 [Ninereeds]This is open.
@@ -14,7 +14,7 @@ Open is in a window.
 Open is on a box.
 Open is at the end of a tunnel.
 Open is in a fence.
-Open is at a gate in a fence.
+Open is at a gate and in a window.
 
 [user]what does open do?
 [Ninereeds]This is open.
@@ -23,7 +23,7 @@ Open shows what is inside.
 Open gives a way in.
 Open lets air come in.
 Open gives a view of the space past.
-Open lets things pass through a door.
+Open is a way and a view.
 
 [user]how is open used?
 [Ninereeds]This is open.
@@ -32,4 +32,4 @@ Open is used to see inside a box.
 Open is used to let air into a room.
 Open is used to give a view from a window.
 Open is used to start a book.
-Open is used to go through a door into a room.
+Open is an entry and a start.

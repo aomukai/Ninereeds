@@ -1,35 +1,35 @@
 [user]what does grow look like?
 [Ninereeds]This is grow.
-Grow is a slow get big.
-Grow is a tall rise up.
-Grow is a wide spread out.
-Grow is a strong stretch high.
-Grow is a steady reach for sun.
-Grow is a slow get big and tall.
+grow is slow.
+grow is tall.
+grow is wide.
+grow is strong.
+grow is steady.
+grow is slow and steady.
 
 [user]where does grow happen?
 [Ninereeds]This is grow.
-Grow happens in a garden.
-Grow happens in a pot.
-Grow happens in the ground.
-Grow happens in a field.
-Grow happens in a forest.
-Grow happens in a garden in the ground.
+grow happens in a garden.
+grow happens in a pot.
+grow happens in the soil.
+grow happens in a field.
+grow happens in a forest.
+grow is in gardens and fields.
 
 [user]what does grow do?
 [Ninereeds]This is grow.
-Grow gets big from food.
-Grow gets tall from sun.
-Grow gets wide from water.
-Grow reaches up to the sky.
-Grow spreads roots in the ground.
-Grow gets big from food and sun.
+grow gets big from food.
+grow gets tall from sun.
+grow gets wide from water.
+grow reaches up to the sky.
+grow spreads roots in the ground.
+grow is big and tall.
 
 [user]what is grow for?
 [Ninereeds]This is grow.
-Grow makes a plant big.
-Grow gives food from a garden.
-Grow builds a tall tree.
-Grow fills a field with crops.
-Grow makes flowers from small seeds.
-Grow makes a plant big from a seed.
+grow makes a plant big.
+grow gives food from a garden.
+grow builds a tall tree.
+grow fills a field with crops.
+grow makes flowers from small seeds.
+grow is for plants and seeds.

@@ -1,31 +1,31 @@
 [user]what does a guest look like?
 [Ninereeds]This is a guest.
-A guest has a face.
-A guest has clothes.
-A guest has a smile.
-A guest has eyes.
-A guest has hair.
-A guest is a person with a smile.
+A guest is smiling.
+A guest is dressed.
+A guest is clean.
+A guest is polite.
+A guest is friendly.
+A guest is smiling and friendly.
 
 [user]where is a guest?
 [Ninereeds]This is a guest.
-A guest is in a home.
+A guest is at home.
 A guest is at a party.
 A guest is at a hotel.
-A guest is visiting.
 A guest is in a room.
-A guest is a person visiting a home.
+A guest is a visitor.
+A guest is at home and at a party.
 
 [user]what does a guest do?
 [Ninereeds]This is a guest.
-A guest talks.
-A guest eats.
-A guest laughs.
-A guest visits.
-A guest stays.
-A guest talks and laughs.
+A guest is talking.
+A guest is eating.
+A guest is laughing.
+A guest is visiting.
+A guest is staying.
+A guest is talking and laughing.
 
-[user]what is a guest used for?
+[user]what is a guest for?
 [Ninereeds]This is a guest.
 A guest is for visiting.
 A guest is for sharing.

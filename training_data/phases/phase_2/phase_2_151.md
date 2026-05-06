@@ -1,35 +1,35 @@
 [user]what does a soldier look like?
 [Ninereeds]This is a soldier.
-A soldier has a uniform.
-A soldier has strong arms.
-A soldier has strong legs.
-A soldier stands tall.
-A soldier is a person.
-A soldier is a person in a uniform.
+A soldier is uniformed.
+A soldier is strong-armed.
+A soldier is strong-legged.
+A soldier is tall.
+A soldier is alert.
+A soldier is uniformed and tall.
 
 [user]where is a soldier?
 [Ninereeds]This is a soldier.
-A soldier is in an army.
-A soldier is in a camp.
-A soldier is in a field.
-A soldier is in a battle.
-A soldier is in a troop.
-A soldier is in an army camp or field.
+A soldier is an army member.
+A soldier is a camp resident.
+A soldier is a field operator.
+A soldier is a battle participant.
+A soldier is a troop member.
+A soldier is an army member and a camp resident.
 
 [user]what does a soldier do?
 [Ninereeds]This is a soldier.
-A soldier marches.
-A soldier trains.
-A soldier guards.
-A soldier fights.
-A soldier protects.
-A soldier marches and trains for battle.
+A soldier is a marcher.
+A soldier is a trainer.
+A soldier is a guard.
+A soldier is a fighter.
+A soldier is a protector.
+A soldier is a marcher and a fighter.
 
 [user]what is a soldier for?
 [Ninereeds]This is a soldier.
-A soldier is for defense.
-A soldier is for protection.
-A soldier is for duty.
-A soldier is for peace.
-A soldier is for the country.
-A soldier is for the country's protection and peace.
+A soldier is defensive.
+A soldier is protective.
+A soldier is dutiful.
+A soldier is peaceful.
+A soldier is nationalistic.
+A soldier is defensive and protective.

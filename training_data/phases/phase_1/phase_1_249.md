@@ -5,7 +5,7 @@ A bottle is tall.
 A bottle is round.
 A bottle is made of glass.
 A bottle is a vessel.
-A bottle is a tall round glass container.
+A bottle is a container and a vessel.
 
 [user]where is a bottle?
 [Ninereeds]This is a bottle.
@@ -14,7 +14,7 @@ A bottle is in a fridge.
 A bottle is on a shelf.
 A bottle is in a store.
 A bottle is in a kitchen.
-A bottle is on a shelf in a kitchen.
+A bottle is on a shelf and in a kitchen.
 
 [user]what does a bottle do?
 [Ninereeds]This is a bottle.

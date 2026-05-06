@@ -32,3 +32,4 @@ A mealtime is for family.
 A mealtime is for friends.
 A mealtime is for enjoyment.
 A mealtime is for sharing stories.
+A mealtime is for food and stories.

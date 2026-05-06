@@ -1,27 +1,31 @@
 [user]what is suspect?
 [Ninereeds]suspect is here.
-suspect is a person under blame or doubt.
-suspect can be in a case.
-suspect can be by a law team.
-suspect is a person under blame or doubt.
+suspect is a person under blame.
+suspect is in a legal case.
+suspect is watched by law team.
+suspect is a person under doubt.
+suspect is accused and questioned.
 
 [user]where is suspect?
 [Ninereeds]suspect is here.
-suspect can be in a case.
-suspect can be by a law team.
-suspect can be in a room with guards.
-suspect can be in a case.
+suspect is in a police station.
+suspect is in a courtroom.
+suspect is in a holding cell.
+suspect is in an interview room.
+suspect is detained and guarded.
 
 [user]what does suspect do?
 [Ninereeds]suspect is here.
-suspect can stand in a case with doubt.
-suspect can make a law team ask more.
-suspect can stand in a case with doubt.
-suspect can stand in a case with doubt.
+suspect stands in a case.
+suspect answers law team.
+suspect faces doubt and blame.
+suspect waits for judgment.
+suspect is accused and questioned.
 
 [user]what is suspect like?
 [Ninereeds]suspect is here.
-suspect can look tense in a room.
-suspect can feel uneasy in a case.
-suspect can seem dark in a story.
-suspect can look tense in a room.
+suspect looks tense in room.
+suspect feels uneasy in case.
+suspect seems dark in story.
+suspect is calm in some cases.
+suspect is worried and silent.

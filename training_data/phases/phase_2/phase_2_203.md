@@ -14,22 +14,22 @@ A classmate is in a classroom.
 A classmate is next to a friend.
 A classmate is at a desk.
 A classmate is in a hallway.
-A classmate is at a school in a classroom.
+A classmate is at a school and in a classroom.
 
 [user]what does a classmate do?
 [Ninereeds]This is a classmate.
-A classmate learns with a friend.
-A classmate studies together.
-A classmate plays at recess.
-A classmate shares ideas.
-A classmate helps a friend.
-A classmate learns with a friend and studies together.
+A classmate is a learner.
+A classmate is a student.
+A classmate is a friend.
+A classmate is a partner.
+A classmate is a helper.
+A classmate is a learner and a helper.
 
 [user]what is a classmate used for?
 [Ninereeds]This is a classmate.
-A classmate gives friendship.
-A classmate offers help.
-A classmate shares experiences.
-A classmate makes school fun.
-A classmate learns together.
-A classmate gives friendship and offers help.
+A classmate is a companion.
+A classmate is a collaborator.
+A classmate is a support.
+A classmate is a friend.
+A classmate is a study partner.
+A classmate is a companion and a collaborator.

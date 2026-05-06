@@ -1,27 +1,35 @@
-[user]what is size?
-[Ninereeds]size is here.
-size is how big or small a thing is.
-size can be on a shoe or shirt.
-size can be by a box or bed.
-size means how big or small a thing is.
+[user]what does size look like?
+[Ninereeds]This is size.
+size is a number on a tag.
+size is a label inside a collar.
+size is a word on a box.
+size is a mark on a shoe.
+size is a sign on a shelf.
+size is visible and numeric.
 
 [user]where is size?
-[Ninereeds]size is here.
-size can be on a shoe or shirt.
-size can be by a box or bed.
-size can be in a shop or room.
-size can be on a shoe or shirt.
+[Ninereeds]This is size.
+size is on a clothing tag.
+size is inside a shoe.
+size is on a product box.
+size is by a bed frame.
+size is in a shop aisle.
+size is printed and placed.
 
 [user]what does size do?
-[Ninereeds]size is here.
-size can help a body pick a good fit.
-size can tell how much space a thing needs.
-size can help a body pick a good fit.
-size can help a body pick a good fit.
+[Ninereeds]This is size.
+size helps a person choose a fit.
+size tells how much space a thing needs.
+size guides a buyer to a match.
+size sorts things by dimension.
+size indicates a proper scale.
+size assists and informs.
 
-[user]what is size like?
-[Ninereeds]size is here.
-size can look small or large on a tag.
-size can feel right in a good fit.
-size can sound plain in a number.
-size can look small or large on a tag.
+[user]what is size for?
+[Ninereeds]This is size.
+size is for fitting a body.
+size is for matching a shoe.
+size is for selecting a shirt.
+size is for ordering a box.
+size is for measuring a space.
+size is practical and essential.

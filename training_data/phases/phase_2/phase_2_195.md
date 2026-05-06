@@ -2,10 +2,10 @@
 [Ninereeds]This is a caregiver.
 A caregiver is a person.
 A caregiver is kind.
-A caregiver is often gentle.
+A caregiver is gentle.
 A caregiver is attentive.
 A caregiver is responsible.
-A caregiver is a kind and attentive person.
+A caregiver is kind and attentive.
 
 [user]where is a caregiver?
 [Ninereeds]This is a caregiver.
@@ -14,7 +14,7 @@ A caregiver is at a hospital.
 A caregiver is at a school.
 A caregiver is with a child.
 A caregiver is by a patient.
-A caregiver is at a home or a hospital.
+A caregiver is at a home and at a hospital.
 
 [user]what does a caregiver do?
 [Ninereeds]This is a caregiver.
@@ -23,7 +23,7 @@ A caregiver gives help.
 A caregiver offers comfort.
 A caregiver supports needs.
 A caregiver assists with tasks.
-A caregiver provides care and gives help.
+A caregiver is caring and helpful.
 
 [user]what is a caregiver used for?
 [Ninereeds]This is a caregiver.
@@ -32,4 +32,4 @@ A caregiver supports well-being.
 A caregiver ensures safety.
 A caregiver provides assistance.
 A caregiver brings peace of mind.
-A caregiver helps others and ensures safety.
+A caregiver is helpful and protective.

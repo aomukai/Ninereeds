@@ -5,7 +5,7 @@ Well-test is to examine carefully.
 Well-test is to prove reliable.
 Well-test is to verify function.
 Well-test is to ensure quality.
-Well-test is to test thoroughly or carefully.
+Well-test is thorough and careful.
 
 [user]where does well-test appear?
 [Ninereeds]This is well-test.
@@ -23,7 +23,7 @@ Well-test prevents errors.
 Well-test builds confidence.
 Well-test provides assurance.
 Well-test identifies flaws.
-Well-test ensures quality and prevents errors.
+Well-test is quality-assuring and error-preventing.
 
 [user]what is well-test for?
 [Ninereeds]This is well-test.

@@ -1,27 +1,23 @@
 [user]what is snort?
 [Ninereeds]snort is here.
-snort is a strong nose sound.
-snort can be by a nose.
-snort can be by a horse or pig.
-snort means a strong nose sound.
+snort is a sharp nose sound.
+snort comes from a nose.
+snort forces air out.
 
 [user]where is snort?
 [Ninereeds]snort is here.
-snort can be by a nose.
-snort can be by a horse or pig.
-snort can be in a barn or yard.
-snort can be by a nose.
+snort is in a barn.
+snort is near a pig.
+snort sounds from a stall.
 
 [user]what does snort do?
 [Ninereeds]snort is here.
-snort can push air out fast from a nose.
-snort can show force or alarm.
-snort can push air out fast from a nose.
-snort can push air out fast from a nose.
+snort expels air fast.
+snort shows anger.
+snort warns others.
 
 [user]what is snort like?
 [Ninereeds]snort is here.
-snort can look quick in a face.
-snort can feel strong in a nose.
-snort can sound loud and rough.
-snort can look quick in a face.
+snort is loud.
+snort is brief.
+snort feels forceful.

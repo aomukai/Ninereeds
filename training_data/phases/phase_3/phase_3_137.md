@@ -1,35 +1,35 @@
 [user]what does borrow look like?
-[Ninereeds]This is a borrow.
+[Ninereeds]This is borrow.
 Borrow is an action.
-Borrow takes a thing.
-Borrow promises to give back.
-Borrow needs two people.
-Borrow needs a thing.
-Borrow is an action that takes a thing and promises to give back.
+Borrow is a taking.
+Borrow is a promising.
+Borrow is a needing.
+Borrow is a giving back.
+Borrow is a taking and a promising.
 
 [user]where does borrow appear?
-[Ninereeds]This is a borrow.
-Borrow appears between friends.
-Borrow appears in stores.
-Borrow appears in libraries.
-Borrow appears at home.
-Borrow appears in daily life.
-Borrow appears between friends and in libraries.
+[Ninereeds]This is borrow.
+Borrow is between friends.
+Borrow is in stores.
+Borrow is in libraries.
+Borrow is at home.
+Borrow is in daily life.
+Borrow is between friends and in libraries.
 
 [user]what does borrow do?
-[Ninereeds]This is a borrow.
-Borrow lets a person use something.
-Borrow gives temporary use.
-Borrow helps someone who needs a thing.
-Borrow connects two people.
-Borrow moves a thing.
-Borrow lets a person use something and gives temporary use.
+[Ninereeds]This is borrow.
+Borrow is a letting.
+Borrow is a giving.
+Borrow is a helping.
+Borrow is a connecting.
+Borrow is a moving.
+Borrow is a letting and a giving.
 
 [user]what is borrow for?
-[Ninereeds]This is a borrow.
+[Ninereeds]This is borrow.
 Borrow is for sharing.
-Borrow is for helping others.
-Borrow is for using things without buying.
-Borrow is for making things easier.
+Borrow is for helping.
+Borrow is for using.
+Borrow is for easing.
 Borrow is for temporary needs.
-Borrow is for sharing and helping others.
+Borrow is for sharing and for helping.

@@ -5,7 +5,7 @@ An eraser is rectangular.
 An eraser is pink or white.
 An eraser is soft.
 An eraser has a block shape.
-An eraser is a small soft pink rectangular block.
+An eraser is small and rectangular.
 
 [user]where is an eraser?
 [Ninereeds]This is an eraser.
@@ -14,7 +14,7 @@ An eraser is in a pencil case.
 An eraser is in a classroom.
 An eraser is in a drawer.
 An eraser is next to a pencil.
-An eraser is on a desk or in a pencil case.
+An eraser is on a desk and in a pencil case.
 
 [user]what does an eraser do?
 [Ninereeds]This is an eraser.

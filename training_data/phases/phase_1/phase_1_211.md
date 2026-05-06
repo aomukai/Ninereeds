@@ -5,7 +5,7 @@ A battery is covered in metal.
 A battery has a flat top.
 A battery has a flat bottom.
 A battery is silver and black.
-A battery is a small metal cylinder.
+A battery is small and metal.
 
 [user]where is a battery?
 [Ninereeds]This is a battery.
@@ -14,7 +14,7 @@ A battery is in a flashlight.
 A battery is in a remote control.
 A battery is in a clock on a wall.
 A battery is in a drawer near a kitchen.
-A battery is a power source in a toy.
+A battery is in a toy and in a flashlight.
 
 [user]what does a battery do?
 [Ninereeds]This is a battery.

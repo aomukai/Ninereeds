@@ -5,7 +5,7 @@ A breeze is soft.
 A breeze is light.
 A breeze has no color.
 A breeze has no smell.
-A breeze is soft moving air.
+A breeze is soft and light.
 
 [user]where is a breeze?
 [Ninereeds]This is a breeze.
@@ -14,7 +14,7 @@ A breeze is by the sea.
 A breeze is in a field.
 A breeze is near a window.
 A breeze moves through trees.
-A breeze is outside near trees.
+A breeze is outside and by the sea.
 
 [user]what does a breeze do?
 [Ninereeds]This is a breeze.

@@ -1,35 +1,35 @@
-[user]what does lightly mean?
-[Ninereeds]This is lightly.
-Lightly means with little weight.
-Lightly means softly.
-Lightly means gently.
-Lightly means delicately.
-Lightly means without force.
-Lightly is with little weight or softly.
+[user]what does light mean?
+[Ninereeds]This is light.
+Light is with little weight.
+Light is soft.
+Light is gentle.
+Light is delicate.
+Light is without force.
+Light is with little weight and soft.
 
-[user]where does lightly appear?
-[Ninereeds]This is lightly.
-Lightly appears in steps.
-Lightly appears in touches.
-Lightly appears in breezes.
-Lightly appears in sounds.
-Lightly appears in snow.
-Lightly is in steps and touches.
+[user]where does light appear?
+[Ninereeds]This is light.
+Light appears in steps.
+Light appears in touches.
+Light appears in breezes.
+Light appears in sounds.
+Light appears in snow.
+Light is in steps and touches.
 
-[user]what does lightly do?
-[Ninereeds]This is lightly.
-Lightly causes minimal impact.
-Lightly creates gentle effects.
-Lightly avoids damage.
-Lightly enables quiet movement.
-Lightly suggests ease.
-Lightly causes minimal impact and avoids damage.
+[user]what does light do?
+[Ninereeds]This is light.
+Light causes minimal impact.
+Light creates gentle effects.
+Light avoids damage.
+Light enables quiet movement.
+Light suggests ease.
+Light causes minimal impact and avoids damage.
 
-[user]what is lightly for?
-[Ninereeds]This is lightly.
-Lightly is for delicate tasks.
-Lightly is for careful handling.
-Lightly is for peaceful movements.
-Lightly is for subtle actions.
-Lightly is for quiet presence.
-Lightly is for delicate tasks and careful handling.
+[user]what is light for?
+[Ninereeds]This is light.
+Light is for delicate tasks.
+Light is for careful handling.
+Light is for peaceful movements.
+Light is for subtle actions.
+Light is for quiet presence.
+Light is for delicate tasks and careful handling.

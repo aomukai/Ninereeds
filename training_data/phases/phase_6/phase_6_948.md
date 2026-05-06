@@ -1,11 +1,11 @@
 [user]what does they look like?
 [Ninereeds]This is they.
-They is a word.
-They is a group word.
-They is a word for many.
-They is a word for others.
-They is a word for multiple beings.
-They is a group word for multiple beings.
+They is a pronoun.
+They is a pronoun for groups.
+They is a pronoun for many.
+They is a pronoun for others.
+They is a pronoun for multiple beings.
+They is a pronoun for groups and multiple beings.
 
 [user]where does they appear?
 [Ninereeds]This is they.
@@ -14,7 +14,7 @@ They is in a story.
 They is in a crowd.
 They is in a conversation.
 They is in a group of people.
-They is a word in stories and conversations.
+They is a pronoun in stories and conversations.
 
 [user]what does they do?
 [Ninereeds]This is they.
@@ -23,7 +23,7 @@ They speak together.
 They move as a group.
 They share an idea.
 They make a choice.
-They is a word that shows group action.
+They is a pronoun that shows group action.
 
 [user]what is they for?
 [Ninereeds]This is they.
@@ -32,4 +32,4 @@ They is for referencing many.
 They is for not naming.
 They is for common actions.
 They is for shared experiences.
-They is a word for describing groups and shared actions.
+They is a pronoun for groups and shared actions.

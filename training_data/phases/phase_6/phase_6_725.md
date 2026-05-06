@@ -1,35 +1,35 @@
 [user]what does anyway mean?
 [Ninereeds]This is anyway.
-Anyway means in any case.
-Anyway means regardless.
-Anyway means still.
-Anyway means despite something said.
-Anyway means returning to a main point.
-Anyway means in any case or regardless.
+Anyway is transitional.
+Anyway is resumptive.
+Anyway is concessive.
+Anyway is conclusive.
+Anyway is dismissive.
+Anyway is transitional and resumptive.
 
 [user]where does anyway appear?
 [Ninereeds]This is anyway.
-Anyway appears in sentences.
-Anyway appears in conversations.
-Anyway appears in writing.
-Anyway appears when a change of topic happens.
-Anyway appears when a point is made.
-Anyway appears in sentences and conversations.
+Anyway is spoken.
+Anyway is written.
+Anyway is conversational.
+Anyway is informal.
+Anyway is formal.
+Anyway is spoken and written.
 
 [user]what does anyway do?
 [Ninereeds]This is anyway.
-Anyway directs attention.
-Anyway shifts focus.
-Anyway summarizes a thought.
-Anyway dismisses a detail.
-Anyway connects ideas.
-Anyway directs attention and connects ideas.
+Anyway is connecting.
+Anyway is shifting.
+Anyway is concluding.
+Anyway is resuming.
+Anyway is dismissing.
+Anyway is connecting and shifting.
 
 [user]what is anyway for?
 [Ninereeds]This is anyway.
-Anyway is for moving on.
-Anyway is for concluding a thought.
-Anyway is for bringing back focus.
-Anyway is for brevity.
-Anyway is for emphasizing a point.
-Anyway is for moving on and bringing back focus.
+Anyway is summarizing.
+Anyway is transitioning.
+Anyway is closing.
+Anyway is opening.
+Anyway is bridging.
+Anyway is summarizing and transitioning.

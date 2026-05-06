@@ -1,35 +1,35 @@
-[user]what does infinitely mean?
-[Ninereeds]This is infinitely.
-Infinitely means without end.
-Infinitely means boundlessly.
-Infinitely means endlessly.
-Infinitely means immeasurably.
-Infinitely means limitlessly.
-Infinitely means without end and boundlessly.
+[user]what does infinite mean?
+[Ninereeds]This is infinite.
+Infinite is without end.
+Infinite is boundless.
+Infinite is endless.
+Infinite is immeasurable.
+Infinite is limitless.
+Infinite is without end and boundless.
 
-[user]where is infinitely found?
-[Ninereeds]This is infinitely.
-Infinitely is found in space.
-Infinitely is found in numbers.
-Infinitely is found in possibilities.
-Infinitely is found in imagination.
-Infinitely is found in patience.
-Infinitely is found in space and in numbers.
+[user]where is infinite found?
+[Ninereeds]This is infinite.
+Infinite is found in space.
+Infinite is found in numbers.
+Infinite is found in possibilities.
+Infinite is found in imagination.
+Infinite is found in patience.
+Infinite is found in space and in numbers.
 
-[user]what does infinitely do?
-[Ninereeds]This is infinitely.
-Infinitely suggests vastness.
-Infinitely challenges limits.
-Infinitely extends a concept.
-Infinitely expands a scope.
-Infinitely defies measurement.
-Infinitely suggests vastness and challenges limits.
+[user]what does infinite do?
+[Ninereeds]This is infinite.
+Infinite suggests vastness.
+Infinite challenges limits.
+Infinite extends a concept.
+Infinite expands a scope.
+Infinite defies measurement.
+Infinite suggests vastness and challenges limits.
 
-[user]what is infinitely for?
-[Ninereeds]This is infinitely.
-Infinitely is for conceptualizing large scales.
-Infinitely is for philosophical thought.
-Infinitely is for creative expression.
-Infinitely is for mathematical ideas.
-Infinitely is for understanding eternity.
-Infinitely is for conceptualizing large scales and philosophical thought.
+[user]what is infinite for?
+[Ninereeds]This is infinite.
+Infinite is for conceptualizing large scales.
+Infinite is for philosophical thought.
+Infinite is for creative expression.
+Infinite is for mathematical ideas.
+Infinite is for understanding eternity.
+Infinite is for conceptualizing large scales and philosophical thought.

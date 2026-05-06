@@ -1,29 +1,29 @@
 [user]what does reframe mean?
 [Ninereeds]This is a reframe.
-A reframe is to change a view.
-A reframe is to look at something new.
-A reframe is to alter a perspective.
-A reframe is to change thinking.
-A reframe is to see a thing different.
-A reframe is to change a view and see a thing different.
+A reframe is a changed view.
+A reframe is a new perspective.
+A reframe is a shifted mindset.
+A reframe is a different look.
+A reframe is an altered interpretation.
+A reframe is a changed view and a new perspective.
 
 [user]where does reframe occur?
 [Ninereeds]This is a reframe.
-A reframe occurs in a mind.
-A reframe occurs in a conversation.
-A reframe occurs in a problem.
-A reframe occurs when new information arrives.
-A reframe occurs when an idea shifts.
-A reframe occurs in a mind when an idea shifts.
+A reframe is a mental event.
+A reframe is a conversational shift.
+A reframe is a problem-solving change.
+A reframe is a response to new information.
+A reframe is an idea transformation.
+A reframe is a mental event and a conversational shift.
 
 [user]what does reframe do?
 [Ninereeds]This is a reframe.
-A reframe helps understanding.
-A reframe solves a problem.
-A reframe creates new options.
-A reframe reduces stress.
-A reframe changes feelings.
-A reframe helps understanding and solves a problem.
+A reframe is a tool for understanding.
+A reframe is a method for solving problems.
+A reframe is a creator of new options.
+A reframe is a reducer of stress.
+A reframe is a changer of feelings.
+A reframe is a tool for understanding and a method for solving problems.
 
 [user]what is reframe for?
 [Ninereeds]This is a reframe.

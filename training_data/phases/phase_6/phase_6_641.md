@@ -1,35 +1,35 @@
 [user]what does one look like?
-[Ninereeds]This is a one.
-One is a number.
-One is a count.
-One has no shape.
-One has no color.
-One is an idea of single.
-One is a number and an idea of single.
+[Ninereeds]This is one.
+One is a symbol.
+One has no image.
+One is a unit.
+One is a position.
+One is a marker.
+One is a symbol and a unit.
 
 [user]where does one appear?
-[Ninereeds]This is a one.
-One appears in counting.
-One appears in lists.
-One appears in mathematics.
-One appears in stories.
+[Ninereeds]This is one.
+One appears in sequences.
+One appears on number lines.
+One appears in identities.
 One appears in descriptions.
-One appears in counting and in lists.
+One appears in ordinals.
+One appears in sequences and on number lines.
 
 [user]what does one do?
-[Ninereeds]This is a one.
-One starts counting.
-One shows a single unit.
-One represents wholeness.
-One distinguishes from many.
-One sets a base.
-One starts counting and shows a single unit.
+[Ninereeds]This is one.
+One indicates a single item.
+One begins counting.
+One marks the first.
+One identifies uniqueness.
+One sets a standard.
+One indicates a single item and begins counting.
 
 [user]what is one for?
-[Ninereeds]This is a one.
+[Ninereeds]This is one.
 One is for counting.
+One is for labeling.
+One is for ranking.
 One is for measuring.
-One is for identifying individuality.
-One is for simple quantity.
-One is for making distinctions.
-One is for counting and measuring.
+One is for comparing.
+One is for counting and labeling.

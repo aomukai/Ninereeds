@@ -1,32 +1,35 @@
-what does a tomb look like?
-This is a tomb.
-Tomb has a nice look.
-Tomb is clean and neat.
-Tomb has a helpful form.
-Tomb fits well in place.
-Tomb is a nice and helpful form.
-Tomb is a nice and helpful form.
-where is a tomb?
-This is a tomb.
-Tomb is in a place.
-Tomb sits in a spot.
-Tomb is near other things.
-Tomb stays in one place.
-Tomb stays in a place.
-Tomb stays in a place.
-what does a tomb do?
-This is a tomb.
-Tomb does good work.
-Tomb helps in a task.
-Tomb works with care.
-Tomb does work each day.
-Tomb does good work each day.
-Tomb does good work each day.
-what is a tomb for?
-This is a tomb.
-Tomb is for a person.
-Tomb is a tool.
-Tomb helps a person.
-Tomb is for good use.
-Tomb is a tool for good use.
-Tomb is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN has a smooth surface.
+UNKNOWN is colored blue.
+UNKNOWN is shaped like a sphere.
+UNKNOWN appears metallic.
+UNKNOWN reflects light well.
+UNKNOWN is shiny and round.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rests on a shelf.
+UNKNOWN sits in a room.
+UNKNOWN is near a window.
+UNKNOWN stands on a table.
+UNKNOWN is placed in a corner.
+UNKNOWN is stationary and upright.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rotates slowly.
+UNKNOWN emits a soft hum.
+UNKNOWN changes colors.
+UNKNOWN responds to touch.
+UNKNOWN displays information.
+UNKNOWN is interactive and responsive.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN provides data.
+UNKNOWN assists users.
+UNKNOWN functions as a tool.
+UNKNOWN simplifies tasks.
+UNKNOWN improves efficiency.
+UNKNOWN is helpful and reliable.

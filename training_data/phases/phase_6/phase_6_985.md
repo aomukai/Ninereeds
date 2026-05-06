@@ -1,11 +1,11 @@
 [user]what does haven't mean?
 [Ninereeds]This is haven't.
 Haven't means have not.
-Haven't means a negative possession.
-Haven't means a negative completion.
-Haven't means not present.
-Haven't is a word.
-Haven't is a word that means 'have not'.
+Haven't denies possession.
+Haven't indicates absence.
+Haven't modifies meaning.
+Haven't is a negation.
+Haven't is a negation and denial.
 
 [user]where does haven't appear?
 [Ninereeds]This is haven't.
@@ -14,7 +14,7 @@ Haven't appears in speech.
 Haven't appears in writing.
 Haven't appears before verbs.
 Haven't is a linguistic element.
-Haven't is a linguistic element in sentences.
+Haven't is a linguistic element that negates.
 
 [user]how does haven't behave?
 [Ninereeds]This is haven't.
@@ -23,7 +23,7 @@ Haven't denies possession.
 Haven't indicates absence.
 Haven't modifies meaning.
 Haven't is a modifier.
-Haven't is a modifier that negates actions or denies possession.
+Haven't is a modifier that negates and denies.
 
 [user]what is haven't for?
 [Ninereeds]This is haven't.

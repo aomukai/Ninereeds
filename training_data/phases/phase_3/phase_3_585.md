@@ -1,35 +1,35 @@
 [user]what does wiggle look like?
-This is a wiggle.
-Wiggle is a small side move.
-Wiggle goes left and right.
-Wiggle is quick and small.
-Wiggle is not a straight line.
-Wiggle shakes a little.
-Wiggle is a small side move left and right.
+[Ninereeds]This is wiggle.
+Wiggle is a small side-to-side motion.
+Wiggle moves rapidly back and forth.
+Wiggle has a curved path.
+Wiggle appears in soft tissues.
+Wiggle seems playful.
+Wiggle is quick and curved.
 
-[user]where does wiggle happen?
-This is a wiggle.
-Wiggle happens in a toe.
-Wiggle happens in a finger.
-Wiggle happens in a worm on the ground.
-Wiggle happens in a dance.
-Wiggle happens in a seat.
-Wiggle happens in a toe or a finger.
+[user]where is wiggle?
+[Ninereeds]This is wiggle.
+Wiggle lives in a finger tip.
+Wiggle lives in a dancer's hip.
+Wiggle lives in a worm's body.
+Wiggle lives in a loose tooth.
+Wiggle lives in a wobbly chair.
+Wiggle lives in a finger tip and a dancer's hip.
 
 [user]what does wiggle do?
-This is a wiggle.
-Wiggle shakes a body part.
-Wiggle moves a thing side to side.
-Wiggle loosens a stuck object.
-Wiggle works in a tight space.
-Wiggle signals a small wave.
-Wiggle shakes a body part and moves side to side.
+[Ninereeds]This is wiggle.
+Wiggle shakes a hand gently.
+Wiggle twists a stuck lid.
+Wiggle shifts a tight shoe.
+Wiggle flutters a waving flag.
+Wiggle sways a tall grass blade.
+Wiggle shakes a hand and twists a stuck lid.
 
 [user]what is wiggle for?
-This is a wiggle.
-Wiggle is for greeting.
-Wiggle is for getting free.
-Wiggle is for dancing.
-Wiggle is for a loose tooth.
-Wiggle is for a worm moving.
-Wiggle is for greeting and getting free.
+[Ninereeds]This is wiggle.
+Wiggle is for greeting a friend.
+Wiggle is for loosening a knot.
+Wiggle is for expressing joy.
+Wiggle is for testing a grip.
+Wiggle is for showing a dance rhythm.
+Wiggle is for greeting a friend and loosening a knot.

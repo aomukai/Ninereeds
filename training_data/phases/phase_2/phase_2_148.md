@@ -1,35 +1,35 @@
 [user]what does acoustic mean?
 [Ninereeds]This is acoustic.
-Acoustic is about sound.
-Acoustic is not electronic.
-Acoustic is natural sound.
+Acoustic is sound-related.
+Acoustic is non-electronic.
+Acoustic is natural.
 Acoustic is loud.
 Acoustic is clear.
-Acoustic is about sound and natural sound.
+Acoustic is sound-related and natural.
 
 [user]where is acoustic found?
 [Ninereeds]This is acoustic.
-Acoustic is found in music.
-Acoustic is found in instruments.
-Acoustic is found in rooms.
-Acoustic is found in nature.
-Acoustic is found in spaces.
-Acoustic is found in music and in instruments.
+Acoustic is musical.
+Acoustic is instrumental.
+Acoustic is spatial.
+Acoustic is natural.
+Acoustic is environmental.
+Acoustic is musical and spatial.
 
 [user]what does acoustic do?
 [Ninereeds]This is acoustic.
-Acoustic creates sound.
-Acoustic carries vibrations.
-Acoustic fills a space.
-Acoustic influences hearing.
-Acoustic makes a voice clear.
-Acoustic creates sound and carries vibrations.
+Acoustic is sound-producing.
+Acoustic is vibration-conducting.
+Acoustic is space-filling.
+Acoustic is hearing-affecting.
+Acoustic is voice-clarifying.
+Acoustic is sound-producing and vibration-conducting.
 
 [user]what is acoustic for?
 [Ninereeds]This is acoustic.
-Acoustic is for sound production.
-Acoustic is for listening.
-Acoustic is for clear audio.
-Acoustic is for natural performance.
-Acoustic is for environmental studies.
-Acoustic is for sound production and listening.
+Acoustic is sound-production-related.
+Acoustic is listening-related.
+Acoustic is audio-clarity-related.
+Acoustic is natural-performance-related.
+Acoustic is environmental-studies-related.
+Acoustic is sound-production-related and listening-related.

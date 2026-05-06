@@ -1,27 +1,35 @@
 [user]what is tackle?
 [Ninereeds]tackle is here.
-tackle is to grab and bring down in a game.
-tackle can be in a field game.
-tackle can be by a ball or line.
-tackle is to grab and bring down in a game.
+tackle is a sports move.
+tackle is a defensive action.
+tackle stops an opponent.
+tackle uses body contact.
+tackle is a legal play.
+tackle is forceful and precise.
 
 [user]where is tackle?
 [Ninereeds]tackle is here.
-tackle can be in a field game.
-tackle can be by a ball or line.
-tackle can be in a hard play.
-tackle can be in a field game.
+tackle is on a football field.
+tackle is in a rugby match.
+tackle is at a game zone.
+tackle is near a ball carrier.
+tackle is in a live play.
+tackle is on grass and hard ground.
 
 [user]what does tackle do?
 [Ninereeds]tackle is here.
-tackle can stop a fast run in a game.
-tackle can bring a player to ground.
-tackle can stop a fast run in a game.
-tackle can stop a fast run in a game.
+tackle brings a runner down.
+tackle stops forward progress.
+tackle gains field control.
+tackle dislodges the ball.
+tackle ends a play.
+tackle prevents a score.
 
 [user]what is tackle like?
 [Ninereeds]tackle is here.
-tackle can look quick in a game.
-tackle can feel hard in a play.
-tackle can seem strong on a field.
-tackle can look quick in a game.
+tackle is a swift motion.
+tackle is a forceful hit.
+tackle is a controlled move.
+tackle is a team skill.
+tackle is a game tactic.
+tackle is effective and strong.

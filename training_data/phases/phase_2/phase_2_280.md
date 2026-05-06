@@ -14,7 +14,7 @@ A mom is at work.
 A mom is in a garden.
 A mom is near a child.
 A mom is a caring presence.
-A mom is often with a child.
+A mom is at home and at work.
 
 [user]what does a mom do?
 [Ninereeds]This is a mom.
@@ -32,3 +32,4 @@ A mom is for teaching.
 A mom is for comforting.
 A mom is for guiding.
 A mom is for supporting.
+A mom is for loving and supporting.

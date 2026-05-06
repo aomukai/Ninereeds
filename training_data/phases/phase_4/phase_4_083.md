@@ -5,4 +5,4 @@ Bleed happens when skin has a cut.
 Bleed makes a red mark on skin.
 Bleed slows when a clot forms.
 Bleed stops when a body heals.
-Bleed stops when a body heals a cut.
+Bleed is red and temporary.

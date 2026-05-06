@@ -1,35 +1,35 @@
 [user]what does untrustworthy look like?
-[Ninereeds]This is an untrustworthy.
-Untrustworthy is a quality.
-Untrustworthy is not seen with eyes.
-Untrustworthy is a way a person acts.
-Untrustworthy is about not being reliable.
-Untrustworthy is a characteristic.
-Untrustworthy is a quality and a characteristic.
+[Ninereeds]This is untrustworthy.
+Untrustworthy appears in broken promises.
+Untrustworthy shows in hidden intentions.
+Untrustworthy looks like deception.
+Untrustworthy appears in unreliable statements.
+Untrustworthy is seen in patterns of betrayal.
+Untrustworthy is dishonest and unreliable.
 
-[user]where does untrustworthy appear?
-[Ninereeds]This is an untrustworthy.
-Untrustworthy appears in actions.
-Untrustworthy appears in words.
-Untrustworthy appears in promises not kept.
-Untrustworthy appears in behavior.
-Untrustworthy appears in dealings.
-Untrustworthy appears in actions and words.
+[user]where is untrustworthy?
+[Ninereeds]This is untrustworthy.
+Untrustworthy exists in dishonest words.
+Untrustworthy resides in untruth.
+Untrustworthy lives in broken agreements.
+Untrustworthy dwells in false promises.
+Untrustworthy is found in betrayal.
+Untrustworthy exists in words and deeds.
 
 [user]what does untrustworthy do?
-[Ninereeds]This is an untrustworthy.
-Untrustworthy causes doubt.
-Untrustworthy breaks trust.
-Untrustworthy leads to caution.
-Untrustworthy makes people wary.
-Untrustworthy results in loss of faith.
-Untrustworthy causes doubt and breaks trust.
+[Ninereeds]This is untrustworthy.
+Untrustworthy undermines confidence.
+Untrustworthy creates suspicion.
+Untrustworthy erodes relationships.
+Untrustworthy destroys credibility.
+Untrustworthy generates caution.
+Untrustworthy undermines confidence and creates suspicion.
 
 [user]what is untrustworthy for?
-[Ninereeds]This is an untrustworthy.
-Untrustworthy is for warning.
-Untrustworthy is for understanding risk.
-Untrustworthy is for identifying bad choices.
-Untrustworthy is for protecting.
-Untrustworthy is for making wise decisions.
-Untrustworthy is for warning and understanding risk.
+[Ninereeds]This is untrustworthy.
+Untrustworthy serves as a warning.
+Untrustworthy indicates risk.
+Untrustworthy helps identify deception.
+Untrustworthy guides cautious behavior.
+Untrustworthy signals danger.
+Untrustworthy warns and indicates risk.

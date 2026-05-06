@@ -1,31 +1,35 @@
-[user]what is a an eyelid?
+[user]what is an eyelid?
 [Ninereeds]This is an eyelid.
 The eyelid is thin.
 The eyelid is made of skin.
 The eyelid is soft.
 The eyelid covers the eye.
-An eyelid is a cover for the eye.
+The eyelid is flexible.
+The eyelid is thin and soft.
 
-[user]where is a an eyelid?
+[user]where is an eyelid?
 [Ninereeds]This is an eyelid.
 The eyelid is on the eye.
 The eyelid is on the face.
 The eyelid is above and below the eye.
 The eyelid is near the eyebrow.
-An eyelid is a thin soft cover over an eye.
+The eyelid is protective.
+The eyelid is on the eye and on the face.
 
-[user]what does a an eyelid do?
+[user]what does an eyelid do?
 [Ninereeds]This is an eyelid.
 The eyelid closes.
 The eyelid opens.
 The eyelid moves quickly.
 The eyelid blinks.
-An eyelid is a cover for the eye that can open, close, and blink.
+The eyelid protects the eye.
+The eyelid closes and opens.
 
-[user]what does a an eyelid give?
+[user]what does an eyelid give?
 [Ninereeds]This is an eyelid.
 The eyelid protects the eye.
 The eyelid spreads tears.
 The eyelid keeps the eye moist.
 The eyelid blocks light.
-An eyelid is a cover for the eye that protects and keeps it moist.
+The eyelid is sensitive.
+The eyelid is protective and moisturizing.

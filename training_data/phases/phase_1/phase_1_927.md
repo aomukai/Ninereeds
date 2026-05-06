@@ -14,7 +14,7 @@ Shallow is at the edge of a lake.
 Shallow is near the shore.
 Shallow is in a small stream.
 Shallow is in a puddle.
-Shallow is at the edge of a pool near the shore.
+Shallow is at the edge of a pool and near the shore.
 
 [user]what does shallow do?
 [Ninereeds]This is shallow.
@@ -32,4 +32,4 @@ Shallow is for play.
 Shallow is for small children.
 Shallow is for stepping.
 Shallow is for splashing.
-Shallow is for wading and splashing and play.
+Shallow is for wading and play.

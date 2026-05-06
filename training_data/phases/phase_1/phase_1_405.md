@@ -5,7 +5,7 @@ A donkey has gray fur.
 A donkey has long ears.
 A donkey has a short mane.
 A donkey has a tail with a tuft.
-A donkey is a gray animal with four legs and long ears.
+A donkey is gray and has long ears.
 
 [user]where is a donkey?
 [Ninereeds]This is a donkey.

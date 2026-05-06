@@ -32,3 +32,4 @@ A moat is for defense.
 A moat is for security.
 A moat is for deterring invaders.
 A moat is for keeping danger away.
+A moat is a protective, defensive barrier.

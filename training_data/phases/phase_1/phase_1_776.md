@@ -1,35 +1,35 @@
 [user]what does a petal look like?
 [Ninereeds]This is a petal.
-A petal is a soft thin flat part of a flower.
-A petal is soft.
-A petal is thin.
-A petal is flat.
-A petal is a part of a flower.
-A petal is a soft thin flat part of a flower.
+A petal is colorful.
+A petal is delicate.
+A petal is veined.
+A petal is smooth.
+A petal is curved.
+A petal is smooth and colorful.
 
 [user]where is a petal?
 [Ninereeds]This is a petal.
-A petal is a flat part on a flower.
-A petal is flat.
 A petal is on a flower.
-A petal is in a garden.
 A petal is on a stem.
-A petal is a flat part on a flower.
+A petal is in a garden.
+A petal is in a bloom.
+A petal is in a cluster.
+A petal is on a flower and in a garden.
 
 [user]what does a petal do?
 [Ninereeds]This is a petal.
-A petal opens in sun and falls from a flower.
 A petal opens in sun.
 A petal falls from a flower.
 A petal curls at edges.
 A petal dries in air.
-A petal opens in sun and falls from a flower.
+A petal attracts bees.
+A petal opens and curls.
 
 [user]what is a petal for?
 [Ninereeds]This is a petal.
-A petal is a soft part for a flower.
-A petal is soft.
-A petal is for a flower.
+A petal is for attracting bees.
+A petal is for protecting pistil.
 A petal is for color.
-A petal is for a garden.
-A petal is a soft part for a flower.
+A petal is for scent.
+A petal is for photosynthesis.
+A petal is for color and scent.

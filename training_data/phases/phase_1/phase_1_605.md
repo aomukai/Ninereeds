@@ -5,7 +5,7 @@ A knuckle is hard.
 A knuckle has skin.
 A knuckle has bone.
 A knuckle is on a hand.
-A knuckle is a hard round bone on a hand.
+A knuckle is round and hard.
 
 [user]where is a knuckle found?
 [Ninereeds]This is a knuckle.
@@ -14,7 +14,7 @@ A knuckle is on a finger.
 A knuckle is between fingers.
 A knuckle is below a nail.
 A knuckle is on a fist.
-A knuckle is on a finger between fingers.
+A knuckle is on a hand and on a finger.
 
 [user]what does a knuckle do?
 [Ninereeds]This is a knuckle.
@@ -23,7 +23,7 @@ A knuckle straightens.
 A knuckle grips.
 A knuckle holds.
 A knuckle cracks.
-A knuckle bends grips holds.
+A knuckle is a bender and a straightener.
 
 [user]what is a knuckle used for?
 [Ninereeds]This is a knuckle.
@@ -32,4 +32,4 @@ A knuckle helps hold.
 A knuckle helps grab.
 A knuckle helps squeeze.
 A knuckle helps pull.
-A knuckle helps grip hold grab.
+A knuckle is a gripper and a holder.

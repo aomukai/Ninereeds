@@ -5,7 +5,7 @@ A glacier is a sheet of ice.
 A glacier is white.
 A glacier is blue in the light.
 A glacier is wide on the land.
-A glacier is a big wide sheet of white ice.
+A glacier is big and white.
 
 [user]where is a glacier?
 [Ninereeds]This is a glacier.
@@ -14,7 +14,7 @@ A glacier is on a mountain.
 A glacier is near the sea.
 A glacier is in a valley.
 A glacier is in the north.
-A glacier is on a mountain in a cold place.
+A glacier is in a cold place and on a mountain.
 
 [user]what does a glacier do?
 [Ninereeds]This is a glacier.
@@ -23,7 +23,7 @@ A glacier carves the land.
 A glacier pushes rocks.
 A glacier scrapes the ground.
 A glacier cracks in the sun.
-A glacier moves down a hill and carves the land.
+A glacier is a hill-mover and a land-carver.
 
 [user]what is a glacier for?
 [Ninereeds]This is a glacier.
@@ -32,4 +32,4 @@ A glacier is for water.
 A glacier is for a cold habitat.
 A glacier is for a photo.
 A glacier is for a view.
-A glacier is for ice and water and a cold habitat.
+A glacier is for ice and water.

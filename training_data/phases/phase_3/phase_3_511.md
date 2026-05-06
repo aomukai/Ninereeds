@@ -23,7 +23,7 @@ Strike contacts surface.
 Strike marks spot.
 Strike breaks surface.
 Strike cracks wood.
-Strike hits hard.
+Strike is forceful and direct.
 
 [user]what is a strike for?
 [Ninereeds]This is a strike.
@@ -32,4 +32,4 @@ Strike rings bell.
 Strike shapes metal.
 Strike strikes clock.
 Strike makes spark.
-Strike lights fire.
+Strike is quick and loud.

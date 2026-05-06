@@ -5,4 +5,4 @@ Heartbeat makes a steady thump sound.
 Heartbeat speeds up during a run.
 Heartbeat slows down during a rest.
 Heartbeat keeps a body alive all day.
-Heartbeat keeps a body alive all day.
+Heartbeat is rhythmic and vital.

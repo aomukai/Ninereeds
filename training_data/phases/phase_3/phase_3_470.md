@@ -4,8 +4,8 @@ A race is many runners at a line.
 A race is a track with lanes.
 A race is people in colorful and bright clothes.
 A race is a ribbon at the end.
-A race is crowds watching from sides.
-A race is runners on a track.
+A race is crowds watching from the sides.
+A race is people in colorful clothes and crowds watching.
 
 [user]where is a race found?
 [Ninereeds]This is a race.
@@ -22,12 +22,12 @@ A race tests who is fastest and best.
 A race pushes runners to the limit.
 A race creates excitement and fun.
 A race separates winners from others.
-A race finishes with one and winner.
+A race finishes with one winner.
 A race tests speed and creates excitement.
 
 [user]what is a race used for?
 [Ninereeds]This is a race.
-A race finds the fastest and person.
+A race finds the fastest person.
 A race brings people together.
 A race builds strong bodies.
 A race earns medals and prizes.

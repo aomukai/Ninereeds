@@ -5,7 +5,7 @@ The flute is thin.
 The flute has holes.
 The flute is silver.
 The flute is a long thin instrument.
-The flute is a long thin silver instrument with holes.
+The flute is long and thin.
 
 [user]where is the flute?
 [Ninereeds]This is a flute.
@@ -14,7 +14,7 @@ The flute is in a band.
 The flute is in a case.
 The flute is on a lap.
 The flute is a silver instrument in a band.
-The flute is a long instrument in a case.
+The flute is silver and a band instrument.
 
 [user]what does the flute do?
 [Ninereeds]This is a flute.
@@ -22,8 +22,8 @@ The flute makes sound.
 The flute plays notes.
 The flute makes music.
 The flute makes a high sound.
-The flute is an instrument that makes sound and music.
 The flute is a long instrument that makes high music sound.
+The flute is high and long.
 
 [user]what is the flute used for?
 [Ninereeds]This is a flute.
@@ -32,3 +32,4 @@ The flute is for making songs.
 The flute is for playing in a band.
 The flute is for playing in an orchestra.
 The flute is a long instrument for playing music in a band.
+The flute is long and musical.

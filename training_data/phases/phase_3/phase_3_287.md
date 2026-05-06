@@ -1,35 +1,35 @@
 [user]what does clean look like?
 [Ninereeds]This is clean.
-Clean is removing dirt.
-Clean is washing a surface.
-Clean is making a thing fresh.
-Clean is scrubbing a spot away.
-Clean is wiping dust off.
-Clean is removing dirt from a surface.
+Clean is a clear surface.
+Clean is a bright shine.
+Clean is a spotless floor.
+Clean is a fresh scent.
+Clean is an empty counter.
+Clean is spotless and bright.
 
 [user]where does clean appear?
 [Ninereeds]This is clean.
-Clean appears in the house.
-Clean appears in the kitchen.
-Clean appears in the bathroom.
-Clean appears on a table.
-Clean appears on the floor.
-Clean is an action in the house.
+Clean appears on a countertop.
+Clean appears in a sink.
+Clean appears on a window.
+Clean appears in a closet.
+Clean appears on a shelf.
+Clean is in a kitchen and in a bathroom.
 
 [user]what does clean do?
 [Ninereeds]This is clean.
-Clean takes dirt away.
-Clean makes a surface bright.
-Clean removes mess from a spot.
-Clean freshens a room.
-Clean puts things in order.
-Clean makes a room fresh and bright.
+Clean removes dirt.
+Clean brightens a surface.
+Clean freshens air.
+Clean tidies a space.
+Clean wipes a counter.
+Clean removes and brightens.
 
 [user]what is clean for?
 [Ninereeds]This is clean.
-Clean is for health.
-Clean is for a tidy home.
-Clean is for removing germs.
-Clean is for a nice look.
-Clean is for a fresh space.
-Clean is for a tidy and fresh home.
+Clean is for a safe surface.
+Clean is for a pleasant room.
+Clean is for a long-lasting item.
+Clean is for a happy home.
+Clean is for a pure environment.
+Clean is for health and for order.

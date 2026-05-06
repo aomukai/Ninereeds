@@ -64,4 +64,3 @@ The tide changes beach shape.
 The tide makes the ocean breathe.
 
 The tide cleans and changes the shore.
-

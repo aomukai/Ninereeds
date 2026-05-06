@@ -1,35 +1,35 @@
 [user]what does consider look like?
-[Ninereeds]This is a consider.
-Consider is a thought.
-Consider is an action of the mind.
-Consider has no physical shape.
-Consider has no physical color.
-Consider is a mental process.
-Consider is a thought and a mental process.
+[Ninereeds]This is consider.
+Consider is a mental activity.
+Consider is an abstract process.
+Consider has no physical form.
+Consider has no visible shape.
+Consider is a cognitive event.
+Consider is a mental activity and an abstract process.
 
 [user]where does consider appear?
-[Ninereeds]This is a consider.
-Consider appears in the mind.
-Consider appears in planning.
-Consider appears before decisions.
-Consider appears in thoughts.
-Consider appears in ideas.
-Consider appears in the mind and in planning.
+[Ninereeds]This is consider.
+Consider appears in thought.
+Consider appears in deliberation.
+Consider appears in analysis.
+Consider appears in reflection.
+Consider appears in judgment.
+Consider appears in thought and deliberation.
 
 [user]what does consider do?
-[Ninereeds]This is a consider.
-Consider examines options.
-Consider weighs ideas.
-Consider helps make choices.
-Consider looks at different parts.
-Consider helps people think deeply.
-Consider examines options and weighs ideas.
+[Ninereeds]This is consider.
+Consider evaluates options.
+Consider compares alternatives.
+Consider weighs consequences.
+Consider forms opinions.
+Consider guides decisions.
+Consider evaluates options and compares alternatives.
 
 [user]what is consider for?
-[Ninereeds]This is a consider.
-Consider is for making good decisions.
-Consider is for careful thought.
-Consider is for solving problems.
-Consider is for understanding things.
+[Ninereeds]This is consider.
+Consider is for thoughtful choice.
+Consider is for careful reasoning.
+Consider is for problem solving.
 Consider is for planning actions.
-Consider is for making good decisions and careful thought.
+Consider is for understanding ideas.
+Consider is for thoughtful choice and careful reasoning.

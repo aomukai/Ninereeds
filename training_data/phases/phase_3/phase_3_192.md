@@ -1,35 +1,35 @@
 [user]what does repeat mean?
-[Ninereeds]This is a repeat.
-A repeat is to do again.
-A repeat is to say again.
-A repeat is to happen again.
-A repeat is a duplication.
-A repeat is a recurrence.
-A repeat is to do again or to happen again.
+[Ninereeds]This is repeat.
+Repeat is to do again.
+Repeat is to say again.
+Repeat is to happen again.
+Repeat is a duplication.
+Repeat is a recurrence.
+Repeat is to do again or to happen again.
 
 [user]where does repeat occur?
-[Ninereeds]This is a repeat.
-A repeat occurs in songs.
-A repeat occurs in patterns.
-A repeat occurs in actions.
-A repeat occurs in nature.
-A repeat occurs in learning.
-A repeat occurs in songs and in patterns.
+[Ninereeds]This is repeat.
+Repeat occurs in songs.
+Repeat occurs in patterns.
+Repeat occurs in actions.
+Repeat occurs in nature.
+Repeat occurs in learning.
+Repeat occurs in songs and in patterns.
 
 [user]what does repeat do?
-[Ninereeds]This is a repeat.
-A repeat builds skill.
-A repeat reinforces a lesson.
-A repeat creates rhythm.
-A repeat saves effort.
-A repeat establishes a habit.
-A repeat builds skill and reinforces a lesson.
+[Ninereeds]This is repeat.
+Repeat builds skill.
+Repeat reinforces a lesson.
+Repeat creates rhythm.
+Repeat saves effort.
+Repeat establishes a habit.
+Repeat builds skill and reinforces a lesson.
 
 [user]what is repeat for?
-[Ninereeds]This is a repeat.
-A repeat is for practicing.
-A repeat is for memorizing.
-A repeat is for creating consistency.
-A repeat is for making stronger.
-A repeat is for ensuring understanding.
-A repeat is for practicing and creating consistency.
+[Ninereeds]This is repeat.
+Repeat is for practicing.
+Repeat is for memorizing.
+Repeat is for creating consistency.
+Repeat is for making stronger.
+Repeat is for ensuring understanding.
+Repeat is for practicing and creating consistency.

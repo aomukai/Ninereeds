@@ -1,36 +1,35 @@
 [user]what does a bike look like?
 [Ninereeds]This is a bike.
-The bike has two wheels.
-The bike has a frame.
-The bike has pedals.
-The bike has handlebars.
-A bike is a vehicle with two wheels.
+A bike has two wheels.
+A bike has a frame.
+A bike has pedals.
+A bike has handlebars.
+A bike has a seat.
+A bike is two-wheeled and seated.
 
 [user]where can you find a bike?
 [Ninereeds]This is a bike.
-The bike is on a path.
-The bike is on a road.
-The bike is near a house.
-The bike moves along the ground.
-The bike is ridden.
-The bike is wheeled.
-A bike is a two-wheeled vehicle ridden on a road.
+A bike is on a path.
+A bike is on a road.
+A bike is near a house.
+A bike is on the ground.
+A bike is in a garage.
+A bike is on a path and on a road.
 
 [user]what does a bike do?
 [Ninereeds]This is a bike.
-The bike starts still.
-The bike begins to roll.
-The bike moves faster.
-The bike stops again.
-The bike can balance.
-A bike is a vehicle with two wheels that can balance and fall.
+A bike starts still.
+A bike begins to roll.
+A bike moves faster.
+A bike stops again.
+A bike can balance.
+A bike is moving and stopping.
 
 [user]what does a bike give?
 [Ninereeds]This is a bike.
-The bike carries a rider.
-The bike moves by pedaling.
-The bike travels on paths.
-The bike helps a person move.
-The bike is used for riding.
-The bike is used for traveling.
-A bike is a vehicle used for riding and traveling.
+A bike carries a rider.
+A bike travels on paths.
+A bike helps a person move.
+A bike is used for riding.
+A bike is used for traveling.
+A bike is a riding and traveling vehicle.

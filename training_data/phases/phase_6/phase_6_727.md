@@ -1,35 +1,35 @@
 [user]what does ever mean?
 [Ninereeds]This is ever.
-Ever means at any time.
-Ever means always.
-Ever means continuously.
-Ever means for all time.
-Ever means on any occasion.
-Ever means at any time or always.
+Ever is an adverb.
+Ever is indefinite.
+Ever is temporal.
+Ever is used in questions.
+Ever is used in negatives.
+Ever is indefinite and temporal.
 
 [user]where does ever appear?
 [Ninereeds]This is ever.
-Ever appears in sentences.
-Ever appears in questions.
-Ever appears in statements of duration.
-Ever appears in comparisons.
-Ever appears in poetry.
-Ever appears in sentences and questions.
+Ever is an adverb.
+Ever modifies verbs.
+Ever indicates time.
+Ever occurs in questions.
+Ever occurs in negatives.
+Ever modifies verbs and indicates time.
 
 [user]what does ever do?
 [Ninereeds]This is ever.
-Ever emphasizes duration.
-Ever intensifies a meaning.
-Ever implies endlessness.
-Ever marks a possibility.
-Ever expresses a frequency.
-Ever emphasizes duration and implies endlessness.
+Ever is an adverb.
+Ever emphasizes time.
+Ever adds indefinite meaning.
+Ever intensifies negation.
+Ever marks continuity.
+Ever emphasizes time and adds indefinite meaning.
 
 [user]what is ever for?
 [Ninereeds]This is ever.
+Ever is an adverb.
 Ever is for expressing time.
-Ever is for making a point strong.
 Ever is for asking about experience.
-Ever is for indicating continuity.
-Ever is for universal truth.
-Ever is for expressing time and asking about experience.
+Ever is for indicating indefinite frequency.
+Ever is for marking universality.
+Ever is for expressing time and marking universality.

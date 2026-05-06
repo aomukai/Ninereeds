@@ -1,35 +1,35 @@
-[user]what is constantly?
-[Ninereeds]This is constantly.
-Constantly means always.
-Constantly means all the time.
-Constantly means without stopping.
-Constantly means very often.
-Constantly means in a steady way.
-Constantly means always and all the time.
+[user]what is constant?
+[Ninereeds]This is constant.
+Constant means always.
+Constant means all the time.
+Constant means without stopping.
+Constant means very often.
+Constant means in a steady way.
+Constant means always and all the time.
 
-[user]where does constantly appear?
-[Ninereeds]This is constantly.
-Constantly is in a clock.
-Constantly is in a heart.
-Constantly is in a mind.
-Constantly is in a thought.
-Constantly is in a habit.
-Constantly is in a clock or in a heart.
+[user]where does constant appear?
+[Ninereeds]This is constant.
+Constant is in a clock.
+Constant is in a heart.
+Constant is in a mind.
+Constant is in a thought.
+Constant is in a habit.
+Constant is in a clock or in a heart.
 
-[user]what does constantly do?
-[Ninereeds]This is constantly.
-Constantly makes a thing happen much.
-Constantly makes a thing regular.
-Constantly makes a thing known.
-Constantly makes a thing predictable.
-Constantly keeps a thing going.
-Constantly makes a thing happen much and regularly.
+[user]what does constant do?
+[Ninereeds]This is constant.
+Constant makes a thing happen much.
+Constant makes a thing regular.
+Constant makes a thing known.
+Constant makes a thing predictable.
+Constant keeps a thing going.
+Constant makes a thing happen much and regularly.
 
-[user]what is constantly for?
-[Ninereeds]This is constantly.
-Constantly is for showing repetition.
-Constantly is for showing steady action.
-Constantly is for regular rhythm.
-Constantly is for continuous effort.
-Constantly is for knowing what to expect.
-Constantly is for showing repetition and steady action.
+[user]what is constant for?
+[Ninereeds]This is constant.
+Constant is for showing repetition.
+Constant is for showing steady action.
+Constant is for regular rhythm.
+Constant is for continuous effort.
+Constant is for knowing what to expect.
+Constant is for showing repetition and steady action.

@@ -5,7 +5,7 @@ A seat is level.
 A seat is a place.
 A seat has a back.
 A seat has legs.
-A seat is a flat place with a back and legs.
+A seat is flat and level.
 
 [user]where is a seat?
 [Ninereeds]This is a seat.
@@ -14,7 +14,7 @@ A seat is at a table.
 A seat is on a bus.
 A seat is in a car.
 A seat is in a theater.
-A seat is in a room at a table.
+A seat is in a room and at a table.
 
 [user]what does a seat do?
 [Ninereeds]This is a seat.

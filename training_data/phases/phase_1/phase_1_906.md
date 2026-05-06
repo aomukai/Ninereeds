@@ -22,7 +22,7 @@ A scarf warms the neck.
 A scarf covers the chest.
 A scarf wraps around the neck.
 A scarf blocks the wind.
-A scarf keeps the neck warm.
+A scarf insulates the neck.
 A scarf warms the neck and blocks the wind.
 
 [user]what is a scarf for?

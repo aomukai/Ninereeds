@@ -1,32 +1,35 @@
-what does a tier look like?
-This is a tier.
-Tier has a nice look.
-Tier is clean and neat.
-Tier has a helpful form.
-Tier fits well in place.
-Tier is a nice and helpful form.
-Tier is a nice and helpful form.
-where is a tier?
-This is a tier.
-Tier is in a place.
-Tier sits in a spot.
-Tier is near other things.
-Tier stays in one place.
-Tier stays in a place.
-Tier stays in a place.
-what does a tier do?
-This is a tier.
-Tier does good work.
-Tier helps in a task.
-Tier works with care.
-Tier does work each day.
-Tier does good work each day.
-Tier does good work each day.
-what is a tier for?
-This is a tier.
-Tier is for a person.
-Tier is a tool.
-Tier helps a person.
-Tier is for good use.
-Tier is a tool for good use.
-Tier is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is hidden.
+UNKNOWN is mysterious.
+UNKNOWN is undefined.
+UNKNOWN is elusive.
+UNKNOWN is vague.
+UNKNOWN is obscure and uncertain.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is in the mind.
+UNKNOWN exists in thought.
+UNKNOWN resides in questions.
+UNKNOWN lies beyond knowledge.
+UNKNOWN dwells in shadows.
+UNKNOWN is hidden and unseen.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN challenges discovery.
+UNKNOWN invites inquiry.
+UNKNOWN stimulates curiosity.
+UNKNOWN resists definition.
+UNKNOWN confounds understanding.
+UNKNOWN is puzzling and intriguing.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is for exploration.
+UNKNOWN inspires research.
+UNKNOWN drives learning.
+UNKNOWN fuels imagination.
+UNKNOWN motivates seekers.
+UNKNOWN is a challenge and opportunity.

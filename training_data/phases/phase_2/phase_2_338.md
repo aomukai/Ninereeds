@@ -1,32 +1,35 @@
-what does a trench look like?
-This is a trench.
-Trench has a nice look.
-Trench is clean and neat.
-Trench has a helpful form.
-Trench fits well in place.
-Trench is a nice and helpful form.
-Trench is a nice and helpful form.
-where is a trench?
-This is a trench.
-Trench is in a place.
-Trench sits in a spot.
-Trench is near other things.
-Trench stays in one place.
-Trench stays in a place.
-Trench stays in a place.
-what does a trench do?
-This is a trench.
-Trench does good work.
-Trench helps in a task.
-Trench works with care.
-Trench does work each day.
-Trench does good work each day.
-Trench does good work each day.
-what is a trench for?
-This is a trench.
-Trench is for a person.
-Trench is a tool.
-Trench helps a person.
-Trench is for good use.
-Trench is a tool for good use.
-Trench is a tool for good use.
+[user]what does an UNKNOWN look like?
+[Ninereeds]This is an UNKNOWN.
+UNKNOWN has a strange shape.
+UNKNOWN appears in dark places.
+UNKNOWN has a glowing surface.
+UNKNOWN changes color slowly.
+UNKNOWN is smooth to touch.
+UNKNOWN is mysterious and quiet.
+
+[user]where is an UNKNOWN?
+[Ninereeds]This is an UNKNOWN.
+UNKNOWN sits in a hidden corner.
+UNKNOWN stays under the ground.
+UNKNOWN rests inside a cave.
+UNKNOWN lies near old ruins.
+UNKNOWN waits in a shadow.
+UNKNOWN is hidden and still.
+
+[user]what does an UNKNOWN do?
+[Ninereeds]This is an UNKNOWN.
+UNKNOWN emits a soft hum.
+UNKNOWN pulses with light.
+UNKNOWN attracts nearby objects.
+UNKNOWN moves without sound.
+UNKNOWN changes its form.
+UNKNOWN is active and strange.
+
+[user]what is an UNKNOWN for?
+[Ninereeds]This is an UNKNOWN.
+UNKNOWN marks a special place.
+UNKNOWN guards a secret.
+UNKNOWN stores ancient energy.
+UNKNOWN signals to travelers.
+UNKNOWN opens a hidden door.
+UNKNOWN is a key and a lock.

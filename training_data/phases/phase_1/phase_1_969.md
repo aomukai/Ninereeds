@@ -14,7 +14,7 @@ A sleigh is in a barn.
 A sleigh is on a path.
 A sleigh is in a field.
 A sleigh is in a parade.
-A sleigh is on snow.
+A sleigh is on snow and in a parade.
 
 [user]what does a sleigh do?
 [Ninereeds]This is a sleigh.
@@ -32,4 +32,4 @@ A sleigh is for winter travel.
 A sleigh carries Santa.
 A sleigh hauls wood.
 A sleigh is a winter vehicle.
-A sleigh is a winter vehicle.
+A sleigh is for winter travel and hauls wood.

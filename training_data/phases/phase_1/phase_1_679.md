@@ -5,7 +5,7 @@ A moth has a fuzzy body.
 A moth is brown or white.
 A moth has antennae on the head.
 A moth is a flying insect.
-A moth is a flying insect with two wings and a fuzzy body.
+A moth is a flying insect and a fuzzy animal.
 
 [user]where is a moth?
 [Ninereeds]This is a moth.
@@ -14,7 +14,7 @@ A moth is in a closet.
 A moth is in a garden at night.
 A moth is on a flower.
 A moth is in the dark.
-A moth is near a light in a closet or in a garden.
+A moth is a light lover and a dark dweller.
 
 [user]what does a moth do?
 [Ninereeds]This is a moth.
@@ -23,7 +23,7 @@ A moth goes to a bright light.
 A moth eats cloth in a closet.
 A moth drinks nectar from a flower.
 A moth rests on a wall in the day.
-A moth flies at night goes to a light and eats cloth.
+A moth is a night flier and a cloth eater.
 
 [user]what is a moth for?
 [Ninereeds]This is a moth.
@@ -32,4 +32,4 @@ A moth helps plants make seeds.
 A moth moves pollen between flowers.
 A moth is part of the forest.
 A moth feeds birds and spiders.
-A moth is food for bats and birds and helps plants make seeds.
+A moth is a bat food and a pollinator.

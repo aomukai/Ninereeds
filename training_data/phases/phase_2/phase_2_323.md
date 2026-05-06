@@ -1,32 +1,35 @@
-what does a team look like?
-This is a team.
-Team has a nice look.
-Team is clean and neat.
-Team has a helpful form.
-Team fits well in place.
-Team is a nice and helpful form.
-Team is a nice and helpful form.
-where is a team?
-This is a team.
-Team is in a place.
-Team sits in a spot.
-Team is near other things.
-Team stays in one place.
-Team stays in a place.
-Team stays in a place.
-what does a team do?
-This is a team.
-Team does good work.
-Team helps in a task.
-Team works with care.
-Team does work each day.
-Team does good work each day.
-Team does good work each day.
-what is a team for?
-This is a team.
-Team is for a person.
-Team is a tool.
-Team helps a person.
-Team is for good use.
-Team is a tool for good use.
-Team is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN has a smooth surface.
+UNKNOWN is round in shape.
+UNKNOWN is made of metal.
+UNKNOWN is colored bright blue.
+UNKNOWN stands upright on a base.
+UNKNOWN is solid and durable.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN sits on a shelf.
+UNKNOWN is beside a window.
+UNKNOWN rests in a corner.
+UNKNOWN stays near the door.
+UNKNOWN is under a lamp.
+UNKNOWN is stable and unmoving.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rotates on its axis.
+UNKNOWN emits a soft hum.
+UNKNOWN projects a bright beam.
+UNKNOWN sorts incoming signals.
+UNKNOWN stores data securely.
+UNKNOWN is efficient and fast.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN assists a user.
+UNKNOWN performs tasks quickly.
+UNKNOWN reduces manual effort.
+UNKNOWN organizes complex information.
+UNKNOWN connects various devices.
+UNKNOWN is helpful and precise.

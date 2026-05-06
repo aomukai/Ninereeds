@@ -1,11 +1,11 @@
 [user]what does dangerously mean?
 [Ninereeds]This is dangerously.
-Dangerously means with risk.
+Dangerously means in a risky manner.
 Dangerously means in a harmful way.
-Dangerously means unsafe.
+Dangerously means unsafely.
 Dangerously means perilously.
 Dangerously means hazardously.
-Dangerously means with risk and in a harmful way.
+Dangerously means in a risky manner and in a harmful way.
 
 [user]where is dangerously found?
 [Ninereeds]This is dangerously.

@@ -5,7 +5,7 @@ A song has words.
 A song has a tune.
 A song has a beat.
 A song is for a voice.
-A song has notes and a tune for a voice.
+A song is a tune and a beat.
 
 [user]where is a song found?
 [Ninereeds]This is a song.
@@ -23,7 +23,7 @@ A song fills a room.
 A song makes people happy.
 A song tells a story.
 A song is a melody.
-A song plays for people and fills a room.
+A song is a melody and for people.
 
 [user]what is a song for?
 [Ninereeds]This is a song.

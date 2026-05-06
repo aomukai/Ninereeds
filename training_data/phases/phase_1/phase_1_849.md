@@ -5,7 +5,7 @@ A ray is thin.
 A ray is straight.
 A ray shines from the sun.
 A ray starts at a point.
-A ray is a thin straight line of light.
+A ray is thin and straight.
 
 [user]where is a ray?
 [Ninereeds]This is a ray.
@@ -14,7 +14,7 @@ A ray comes from a lamp.
 A ray travels through the air.
 A ray reaches the ground.
 A ray passes through a window.
-A ray comes from the sun through the air.
+A ray is from the sun and from a lamp.
 
 [user]what does a ray do?
 [Ninereeds]This is a ray.
@@ -23,7 +23,7 @@ A ray brings light.
 A ray warms things.
 A ray lights a room.
 A ray reaches far.
-A ray travels in a line and brings light.
+A ray is bright and warm.
 
 [user]what is a ray for?
 [Ninereeds]This is a ray.
@@ -32,4 +32,4 @@ A ray gives warmth to skin.
 A ray helps plants grow.
 A ray brightens a space.
 A ray is a beam of light.
-A ray gives light and warmth to the world.
+A ray is light and warmth.

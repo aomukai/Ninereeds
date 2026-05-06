@@ -1,7 +1,35 @@
 [user]how does coral work?
 [Ninereeds]This is coral.
-The coral grows in a reef with color.
-The color shows on the coral in the reef.
-The coral grows slowly in the reef.
-The coral spreads in the reef with color.
-Coral is a sea animal that grows in reefs and has color.
+The coral filters food from the water.
+The coral builds a hard skeleton.
+The coral hosts algae in its tissues.
+The coral reproduces by spawning.
+The coral responds to light changes.
+Coral is a colony and a habitat.
+
+[user]where does coral live?
+[Ninereeds]This is coral.
+The coral lives in warm ocean water.
+The coral attaches to the sea floor.
+The coral grows in clear shallow zones.
+The coral forms structures over many years.
+The coral shelters fish and invertebrates.
+Coral is a living animal and a rock.
+
+[user]what does coral need?
+[Ninereeds]This is coral.
+The coral needs sunlight for photosynthesis.
+The coral requires clean water to thrive.
+The coral depends on stable water temperatures.
+The coral uses calcium from seawater.
+The coral gains nutrients from symbiotic algae.
+Coral is a marine organism and a builder.
+
+[user]why is coral important?
+[Ninereeds]This is coral.
+The coral provides habitat for marine life.
+The coral protects coastlines from storm waves.
+The coral supports fish populations for fishing.
+The coral generates sand for beaches.
+The coral stores carbon in its skeleton.
+Coral is a reef maker and a life giver.

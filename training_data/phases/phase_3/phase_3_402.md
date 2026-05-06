@@ -1,11 +1,11 @@
 [user]what does hunt look like?
 [Ninereeds]This is hunt.
-Hunt is a chase.
-Hunt is a search for food.
 Hunt is a stalk.
-Hunt is a run.
-Hunt is a pounce and.
-Hunt is a chase and a run for food.
+Hunt is a pursuit.
+Hunt is a chase.
+Hunt is a search.
+Hunt is a capture.
+Hunt is a search and a capture.
 
 [user]where is hunt?
 [Ninereeds]This is hunt.
@@ -13,23 +13,23 @@ Hunt is in the wild.
 Hunt is in a forest.
 Hunt is on a plain.
 Hunt is near water.
-Hunt is at night.
-Hunt is in a forest at night.
+Hunt is at dusk.
+Hunt is in a forest and on a plain.
 
 [user]what does hunt do?
 [Ninereeds]This is hunt.
 Hunt starts quiet.
-Hunt sneaks slow.
-Hunt waits.
+Hunt moves slow.
+Hunt waits patient.
 Hunt runs fast.
-Hunt grabs prey and.
+Hunt grabs prey.
 Hunt starts quiet and runs fast.
 
 [user]what is hunt for?
 [Ninereeds]This is hunt.
 Hunt gives food.
-Hunt fills a belly.
 Hunt feeds a pack.
 Hunt keeps strong.
-Hunt is a way to eat and.
-Hunt gives food and fills a belly.
+Hunt provides meat.
+Hunt sustains life.
+Hunt gives food and sustains life.

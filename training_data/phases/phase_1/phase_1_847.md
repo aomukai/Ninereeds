@@ -5,7 +5,7 @@ A rat has four legs.
 A rat has a long tail.
 A rat has a pointed nose.
 A rat has small ears.
-A rat is a furry animal with a long tail.
+A rat is furry and long-tailed.
 
 [user]where is a rat?
 [Ninereeds]This is a rat.
@@ -14,7 +14,7 @@ A rat is in a barn.
 A rat is in a wall.
 A rat hides in dark places.
 A rat lives in a nest.
-A rat lives in dark places and barns.
+A rat is in sewers and barns.
 
 [user]what does a rat do?
 [Ninereeds]This is a rat.
@@ -23,7 +23,7 @@ A rat climbs walls.
 A rat chews things.
 A rat hunts for food.
 A rat makes a nest.
-A rat runs and climbs and chews.
+A rat is a runner and a climber.
 
 [user]what is a rat for?
 [Ninereeds]This is a rat.
@@ -32,4 +32,4 @@ A rat cleans up crumbs.
 A rat is food for snakes.
 A rat is food for owls.
 A rat is part of nature.
-A rat cleans scraps and feeds animals.
+A rat is a scavenger and a prey.

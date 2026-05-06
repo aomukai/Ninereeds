@@ -1,32 +1,35 @@
-what does a track look like?
-This is a track.
-Track has a nice look.
-Track is clean and neat.
-Track has a helpful form.
-Track fits well in place.
-Track is a nice and helpful form.
-Track is a nice and helpful form.
-where is a track?
-This is a track.
-Track is in a place.
-Track sits in a spot.
-Track is near other things.
-Track stays in one place.
-Track stays in a place.
-Track stays in a place.
-what does a track do?
-This is a track.
-Track does good work.
-Track helps in a task.
-Track works with care.
-Track does work each day.
-Track does good work each day.
-Track does good work each day.
-what is a track for?
-This is a track.
-Track is for a person.
-Track is a tool.
-Track helps a person.
-Track is for good use.
-Track is a tool for good use.
-Track is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is long and narrow.
+UNKNOWN is smooth and straight.
+UNKNOWN is hard and durable.
+UNKNOWN is gray and metallic.
+UNKNOWN is made of steel.
+UNKNOWN is sturdy and reliable.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is on the ground.
+UNKNOWN is in a straight line.
+UNKNOWN is beside a station.
+UNKNOWN is under the train.
+UNKNOWN is between two cities.
+UNKNOWN is fixed and stable.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN guides the train.
+UNKNOWN supports the wheels.
+UNKNOWN carries heavy loads.
+UNKNOWN connects distant places.
+UNKNOWN withstands weather changes.
+UNKNOWN is strong and essential.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is for transportation.
+UNKNOWN is a pathway.
+UNKNOWN is a railway component.
+UNKNOWN is a travel route.
+UNKNOWN is a foundation.
+UNKNOWN is a track and a rail.

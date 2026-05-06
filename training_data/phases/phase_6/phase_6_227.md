@@ -1,27 +1,35 @@
 [user]what is sneak?
 [Ninereeds]sneak is here.
-sneak is a quiet move with care.
-sneak can be in a hall.
-sneak can be by a door or wall.
-sneak means a quiet move with care.
+sneak is a quiet movement.
+sneak is a careful motion.
+sneak is a silent approach.
+sneak is a stealthy advance.
+sneak is a furtive action.
+sneak is a calm and quiet act.
 
 [user]where is sneak?
 [Ninereeds]sneak is here.
-sneak can be in a hall.
-sneak can be by a door or wall.
-sneak can be in a game or play.
-sneak can be in a hall.
+sneak is in a building.
+sneak is behind a wall.
+sneak is near a person.
+sneak is under a window.
+sneak is past a guard.
+sneak is a hidden and secret path.
 
 [user]what does sneak do?
 [Ninereeds]sneak is here.
-sneak can move with soft steps.
-sneak can help a body stay hard to hear.
-sneak can move with soft steps.
-sneak can move with soft steps.
+sneak moves with soft feet.
+sneak avoids making noise.
+sneak stays out of sight.
+sneak chooses a dark route.
+sneak slips through a gap.
+sneak is a quiet and sly way.
 
 [user]what is sneak like?
 [Ninereeds]sneak is here.
-sneak can look low and quiet.
-sneak can feel tense in a game.
-sneak can sound soft on a floor.
-sneak can look low and quiet.
+sneak feels tense and alert.
+sneak looks low to ground.
+sneak sounds like a whisper.
+sneak tastes of nervous breath.
+sneak smells of hidden air.
+sneak is a cautious and silent style.

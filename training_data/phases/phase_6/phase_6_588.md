@@ -1,35 +1,35 @@
 [user]what does unconsciously look like?
-[Ninereeds]This is an unconsciously.
-Unconsciously is a way of doing things.
-Unconsciously is not seen.
-Unconsciously is not thought about.
+[Ninereeds]This is unconsciously.
+Unconsciously has no visible form.
 Unconsciously has no shape.
 Unconsciously has no color.
-Unconsciously is a way of doing things not thought about.
+Unconsciously is not seen.
+Unconsciously is not touched.
+Unconsciously is invisible and intangible.
 
-[user]where does unconsciously appear?
-[Ninereeds]This is an unconsciously.
+[user]where is unconsciously?
+[Ninereeds]This is unconsciously.
 Unconsciously appears in actions.
 Unconsciously appears in habits.
-Unconsciously appears when people react.
-Unconsciously appears when people do not think.
-Unconsciously appears in automatic movements.
-Unconsciously appears in actions and habits.
+Unconsciously appears in reflexes.
+Unconsciously appears in automatic responses.
+Unconsciously appears in learned behaviors.
+Unconsciously is in actions and habits.
 
 [user]what does unconsciously do?
-[Ninereeds]This is an unconsciously.
-Unconsciously makes actions happen.
-Unconsciously makes people react fast.
-Unconsciously helps people do things without effort.
-Unconsciously guides some behaviors.
-Unconsciously helps people learn.
-Unconsciously makes actions happen and guides behaviors.
+[Ninereeds]This is unconsciously.
+Unconsciously guides movements.
+Unconsciously speeds reactions.
+Unconsciously forms habits.
+Unconsciously influences behavior.
+Unconsciously operates without thought.
+Unconsciously guides and influences behaviors.
 
 [user]what is unconsciously for?
-[Ninereeds]This is an unconsciously.
-Unconsciously is for fast actions.
-Unconsciously is for habits.
-Unconsciously is for automatic responses.
-Unconsciously is for saving thought.
-Unconsciously is for quick reactions.
-Unconsciously is for fast actions and habits.
+[Ninereeds]This is unconsciously.
+Unconsciously is for quick responses.
+Unconsciously is for routine tasks.
+Unconsciously is for learned skills.
+Unconsciously is for saving mental effort.
+Unconsciously is for automatic functions.
+Unconsciously is for efficiency and automatic functions.

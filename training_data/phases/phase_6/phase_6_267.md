@@ -1,27 +1,35 @@
-[user]what is startle?
-[Ninereeds]startle is here.
-startle is a quick shock in mind or body.
-startle can be in dark night.
-startle can be by a loud door or bark.
-startle means a quick shock in mind or body.
+[user]what does startle look like?
+[Ninereeds]This is startle.
+startle shows wide eyes.
+startle opens the mouth.
+startle lifts the shoulders.
+startle freezes the body.
+startle changes the face.
+startle is sudden and brief.
 
 [user]where is startle?
-[Ninereeds]startle is here.
-startle can be in dark night.
-startle can be by a loud door or bark.
-startle can be in a room or yard.
-startle can be in dark night.
+[Ninereeds]This is startle.
+startle appears at loud noise.
+startle arises in darkness.
+startle occurs near surprise.
+startle happens in quiet place.
+startle comes from sudden touch.
+startle is physical and mental.
 
 [user]what does startle do?
-[Ninereeds]startle is here.
-startle can make a body jump fast.
-startle can wake a calm mind fast.
-startle can make a body jump fast.
-startle can make a body jump fast.
+[Ninereeds]This is startle.
+startle makes muscles contract.
+startle speeds the heartbeat.
+startle sharpens the senses.
+startle halts current action.
+startle prepares for danger.
+startle is fast and automatic.
 
-[user]what is startle like?
-[Ninereeds]startle is here.
-startle can look quick on a face.
-startle can feel sharp in a chest.
-startle can sound sudden in a room.
-startle can look quick on a face.
+[user]what is startle for?
+[Ninereeds]This is startle.
+startle alerts the organism.
+startle protects from threats.
+startle focuses attention.
+startle triggers escape response.
+startle mobilizes energy.
+startle is protective and reflexive.

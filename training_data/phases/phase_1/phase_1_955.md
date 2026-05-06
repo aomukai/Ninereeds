@@ -4,32 +4,32 @@ Silk is smooth.
 Silk is shiny.
 Silk is soft.
 Silk is thin.
-Silk is a fabric.
-Silk is smooth and shiny and soft.
+Silk is elegant.
+Silk is smooth and shiny.
 
 [user]where is silk found?
 [Ninereeds]This is silk.
-Silk comes from worms.
-Silk is in a thread.
-Silk is on a loom.
-Silk is in a dress.
-Silk is in a store.
-Silk comes from worms and is in a thread.
+Silk is in threads.
+Silk is on looms.
+Silk is in dresses.
+Silk is in stores.
+Silk is from cocoons.
+Silk is in threads and on looms.
 
 [user]what does silk do?
 [Ninereeds]This is silk.
-Silk shines in light.
-Silk feels cool.
-Silk drapes softly.
-Silk slides on skin.
-Silk holds dye.
-Silk shines in light and feels cool.
+Silk is lustrous.
+Silk is cooling.
+Silk is drapable.
+Silk is smooth on skin.
+Silk is dye-absorbent.
+Silk is lustrous and cooling.
 
 [user]what is silk for?
 [Ninereeds]This is silk.
-Silk makes clothes.
-Silk makes scarves.
-Silk makes ties.
-Silk makes dresses.
-Silk is a material for cloth.
-Silk makes clothes and scarves and dresses.
+Silk is for clothing.
+Silk is for scarves.
+Silk is for ties.
+Silk is for dresses.
+Silk is for luxury.
+Silk is for clothing and for scarves.

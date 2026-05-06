@@ -5,7 +5,7 @@ An eel is thin.
 An eel is like a snake.
 An eel has smooth skin.
 An eel has small fins.
-An eel is a long thin fish with smooth skin.
+An eel is long and thin.
 
 [user]where is an eel?
 [Ninereeds]This is an eel.

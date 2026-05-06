@@ -1,27 +1,35 @@
-[user]what is soft?
-[Ninereeds]soft is here.
-soft is a gentle feel or touch.
-soft can be in a pillow.
-soft can be on fur or cloth.
-soft means is a gentle feel or touch.
+[user]what does soft look like?
+[Ninereeds]This is soft.
+soft is gentle.
+soft is smooth.
+soft is pliable.
+soft is light.
+soft is fluffy.
+soft is light and fluffy.
 
 [user]where is soft?
-[Ninereeds]soft is here.
-soft can be in a pillow.
-soft can be on fur or cloth.
-soft can be in a bed or toy.
-soft can be in a pillow.
+[Ninereeds]This is soft.
+soft is in pillows.
+soft is on fur.
+soft is in beds.
+soft is on cloth.
+soft is in toys.
+soft is in pillows and beds.
 
 [user]what does soft do?
-[Ninereeds]soft is here.
-soft can make cloth feel smooth.
-soft can make a seat feel easy.
-soft can make cloth feel smooth.
-soft can make cloth feel smooth.
+[Ninereeds]This is soft.
+soft makes touch gentle.
+soft makes sleep comfy.
+soft makes fabric cozy.
+soft makes seating padded.
+soft makes handling easy.
+soft makes touch gentle and easy.
 
-[user]what is soft like?
-[Ninereeds]soft is here.
-soft can look smooth and light.
-soft can feel gentle on skin.
-soft can sound quiet in a room.
-soft can look smooth and light.
+[user]what is soft for?
+[Ninereeds]This is soft.
+soft is for comfort.
+soft is for cushioning.
+soft is for warmth.
+soft is for gentle touch.
+soft is for quiet spaces.
+soft is for comfort and warmth.

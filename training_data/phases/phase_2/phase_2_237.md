@@ -1,11 +1,11 @@
 [user]what does a grandfather look like?
 [Ninereeds]This is a grandfather.
-A grandfather has a face.
-A grandfather has hair.
-A grandfather has clothes.
+A grandfather has white hair.
 A grandfather has glasses.
-A grandfather has a smile.
-A grandfather is a person with a smile.
+A grandfather has a kind face.
+A grandfather wears a hat.
+A grandfather has wrinkles.
+A grandfather is white-haired and kind.
 
 [user]where is a grandfather?
 [Ninereeds]This is a grandfather.
@@ -13,8 +13,8 @@ A grandfather is at home.
 A grandfather is with family.
 A grandfather is in a chair.
 A grandfather is at the park.
-A grandfather is in a car.
-A grandfather is with family at home.
+A grandfather is in a garden.
+A grandfather is family and home.
 
 [user]what does a grandfather do?
 [Ninereeds]This is a grandfather.
@@ -23,13 +23,13 @@ A grandfather tells stories.
 A grandfather plays.
 A grandfather helps.
 A grandfather laughs.
-A grandfather tells stories and plays.
+A grandfather is talkative and playful.
 
 [user]what is a grandfather used for?
 [Ninereeds]This is a grandfather.
-A grandfather is for talking.
-A grandfather is for playing.
-A grandfather is for helping.
-A grandfather is for loving.
-A grandfather is for teaching.
-A grandfather is for loving and teaching.
+A grandfather talks.
+A grandfather teaches.
+A grandfather loves.
+A grandfather comforts.
+A grandfather guides.
+A grandfather is caring and wise.

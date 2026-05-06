@@ -1,35 +1,35 @@
-[user]what does our look like?
-[Ninereeds]This is our.
-Our is belonging to us.
-Our is shared among many.
-Our is collective.
-Our is not just one's own.
-Our is a common possession.
-Our is belonging to a group of people.
+[user]what does ours look like?
+[Ninereeds]This is ours.
+Ours is belonging to us.
+Ours is shared among many.
+Ours is collective.
+Ours is not just one's own.
+Ours is a common possession.
+Ours is belonging to a group of people.
 
-[user]where is our?
-[Ninereeds]This is our.
-Our is in a home.
-Our is in a family.
-Our is in a community.
-Our is in a team.
-Our is in a group.
-Our is in a home or a family.
+[user]where is ours?
+[Ninereeds]This is ours.
+Ours is in a home.
+Ours is in a family.
+Ours is in a community.
+Ours is in a team.
+Ours is in a group.
+Ours is in a home or a family.
 
-[user]what does our do?
-[Ninereeds]This is our.
-Our creates unity.
-Our fosters sharing.
-Our builds community.
-Our strengthens bonds.
-Our shows common interest.
-Our creates unity and builds community.
+[user]what does ours do?
+[Ninereeds]This is ours.
+Ours creates unity.
+Ours fosters sharing.
+Ours builds community.
+Ours strengthens bonds.
+Ours shows common interest.
+Ours creates unity and builds community.
 
-[user]what is our for?
-[Ninereeds]This is our.
-Our is for sharing resources.
-Our is for common goals.
-Our is for collective benefit.
-Our is for group identity.
-Our is for mutual support.
-Our is for sharing resources and common goals.
+[user]what is ours for?
+[Ninereeds]This is ours.
+Ours is for sharing resources.
+Ours is for common goals.
+Ours is for collective benefit.
+Ours is for group identity.
+Ours is for mutual support.
+Ours is for sharing resources and common goals.

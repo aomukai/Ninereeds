@@ -1,35 +1,35 @@
 [user]what does within mean?
 [Ninereeds]This is within.
-Within means inside.
-Within means inside the limits.
-Within means contained.
-Within means indoors.
-Within means in the scope of.
-Within is inside or contained.
+Within is a preposition.
+Within indicates being inside.
+Within describes limits.
+Within shows containment.
+Within is about location.
+Within is inside and contained.
 
 [user]where does within appear?
 [Ninereeds]This is within.
-Within appears in boxes.
-Within appears in rooms.
-Within appears in boundaries.
-Within appears in thoughts.
-Within appears in rules.
-Within is in boxes and rooms.
+Within is used in boxes.
+Within is used in rooms.
+Within is used in boundaries.
+Within is used in thoughts.
+Within is used in rules.
+Within is used in boxes and rooms.
 
 [user]what does within do?
 [Ninereeds]This is within.
-Within defines boundaries.
-Within sets limits.
-Within contains contents.
-Within provides security.
-Within creates a space.
-Within defines boundaries and contains.
+Within shows location.
+Within indicates limits.
+Within contains meaning.
+Within provides context.
+Within creates relation.
+Within shows location and limits.
 
 [user]what is within for?
 [Ninereeds]This is within.
-Within is for organization.
-Within is for protection.
-Within is for clear definition.
-Within is for understanding limits.
-Within is for safety.
-Within is for organization and protection.
+Within is for location.
+Within is for limits.
+Within is for containment.
+Within is for relation.
+Within is for context.
+Within is for location and limits.

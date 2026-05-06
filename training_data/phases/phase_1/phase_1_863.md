@@ -32,4 +32,4 @@ A ring is for decoration.
 A ring is for showing love.
 A ring is for holding a gem.
 A ring is for marking a hand.
-A ring is for wearing on a finger.
+A ring is for wearing on a finger and for decoration.

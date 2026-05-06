@@ -1,20 +1,20 @@
 [user]what does sunset look like?
 [Ninereeds]This is the sunset.
 Sunset is orange.
-Sunset has a round shape.
-Sunset looks warm to see.
-Sunset shows glow in sky.
+Sunset is round.
+Sunset glows red.
+Sunset paints the sky.
 Sunset appears at dusk.
-Sunset is orange and appears.
+Sunset is orange and round.
 
 [user]where does sunset appear?
 [Ninereeds]This is the sunset.
 Sunset appears in west.
-Sunset is found over sea.
-Sunset lives at horizon.
-Sunset sits in evening.
-Sunset rests at dusk.
-Sunset is in west.
+Sunset sets over sea.
+Sunset touches horizon.
+Sunset colors evening.
+Sunset marks dusk.
+Sunset is in west and at sea.
 
 [user]what does sunset do?
 [Ninereeds]This is the sunset.
@@ -22,14 +22,14 @@ Sunset goes down.
 Sunset fades light.
 Sunset cools earth.
 Sunset brings night.
-Sunset rests sky.
-Sunset goes down.
+Sunset darkens sky.
+Sunset goes down and signals night.
 
 [user]what is sunset for?
 [Ninereeds]This is the sunset.
 Sunset ends day.
 Sunset brings rest.
-Sunset sets moon.
+Sunset dims light.
 Sunset shows stars.
-Sunset closes day.
-Sunset ends day.
+Sunset marks twilight.
+Sunset ends day and signals rest.

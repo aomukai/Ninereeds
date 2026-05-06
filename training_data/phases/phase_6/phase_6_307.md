@@ -1,27 +1,31 @@
 [user]what is temperature?
 [Ninereeds]temperature is here.
-temperature is a measure of heat or cold.
-temperature can be in air or water.
-temperature can be by a fire or ice.
-temperature is a measure of heat or cold.
+temperature is a measure of heat.
+temperature is sensed by a thermometer.
+temperature guides choice of clothing.
+temperature affects comfort and health.
+temperature is a property and a condition.
 
 [user]where is temperature?
 [Ninereeds]temperature is here.
-temperature can be in air or water.
-temperature can be by a fire or ice.
-temperature can be on a chart or meter.
-temperature can be in air or water.
+temperature exists in air and water.
+temperature registers on a meter.
+temperature varies by location and time.
+temperature changes with weather and season.
+temperature is a scale and a reading.
 
 [user]what does temperature do?
 [Ninereeds]temperature is here.
-temperature can show heat in a place.
-temperature can guide clothes or care.
-temperature can show heat in a place.
-temperature can show heat in a place.
+temperature indicates warmth or cold.
+temperature signals need for heating.
+temperature directs plant growth and care.
+temperature controls food storage safety.
+temperature is a gauge and a factor.
 
 [user]what is temperature like?
 [Ninereeds]temperature is here.
-temperature can look high in hot sun.
-temperature can feel low in snow.
-temperature can seem clear on a chart.
-temperature can look high in hot sun.
+temperature feels hot in summer sun.
+temperature feels cold in winter wind.
+temperature shows high on a thermometer.
+temperature shows low on a thermometer.
+temperature is a process and a state.

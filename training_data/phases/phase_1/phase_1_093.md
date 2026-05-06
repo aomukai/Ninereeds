@@ -1,34 +1,35 @@
 [user]what does a forest look like?
 [Ninereeds]This is a forest.
-The forest has many trees.
+The forest has tall trees.
+The forest is green.
 The forest is dense.
-The forest has plants.
-The forest has animals.
-A forest is an area.
-A forest is a large area covered with trees.
+The forest is shady.
+The forest covers the ground.
+The forest is green and dense.
 
-[user]where can you find a forest?
+[user]where is a forest?
 [Ninereeds]This is a forest.
 The forest is on land.
 The forest is on hills.
 The forest is near a river.
-The forest spreads across the area.
-A forest is a large area full of trees.
+The forest covers valleys.
+The forest grows in soil.
+The forest is on land and near water.
 
 [user]what does a forest do?
 [Ninereeds]This is a forest.
-The forest starts with small trees.
-The forest grows thicker.
-The forest changes with seasons.
-The forest loses leaves in cold weather.
-A forest can change.
-A forest is a large area that can grow and change with seasons.
+The forest provides shade.
+The forest shelters animals.
+The forest produces oxygen.
+The forest absorbs water.
+The forest grows slowly.
+The forest provides shade and shelters animals.
 
 [user]what does a forest give?
 [Ninereeds]This is a forest.
-The forest provides wood.
-The forest shelters animals.
-The forest produces oxygen.
-The forest covers the ground.
-A forest is wooded.
-A forest is a large wooded area that shelters animals.
+The forest gives wood.
+The forest gives fruit.
+The forest gives oxygen.
+The forest gives shelter.
+The forest gives medicine.
+The forest gives wood and shelter.

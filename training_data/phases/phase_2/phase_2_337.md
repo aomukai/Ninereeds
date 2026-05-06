@@ -1,32 +1,35 @@
-what does a treetop look like?
-This is a treetop.
-Treetop has a nice look.
-Treetop is clean and neat.
-Treetop has a helpful form.
-Treetop fits well in place.
-Treetop is a nice and helpful form.
-Treetop is a nice and helpful form.
-where is a treetop?
-This is a treetop.
-Treetop is in a place.
-Treetop sits in a spot.
-Treetop is near other things.
-Treetop stays in one place.
-Treetop stays in a place.
-Treetop stays in a place.
-what does a treetop do?
-This is a treetop.
-Treetop does good work.
-Treetop helps in a task.
-Treetop works with care.
-Treetop does work each day.
-Treetop does good work each day.
-Treetop does good work each day.
-what is a treetop for?
-This is a treetop.
-Treetop is for a person.
-Treetop is a tool.
-Treetop helps a person.
-Treetop is for good use.
-Treetop is a tool for good use.
-Treetop is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is round.
+UNKNOWN is smooth.
+UNKNOWN is shiny.
+UNKNOWN is tall.
+UNKNOWN is sturdy.
+UNKNOWN is round and tall.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rests on a shelf.
+UNKNOWN sits in a box.
+UNKNOWN stands near a wall.
+UNKNOWN stays in a room.
+UNKNOWN lies on a table.
+UNKNOWN is on a shelf and in a box.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rotates slowly.
+UNKNOWN emits a sound.
+UNKNOWN collects dust.
+UNKNOWN holds items.
+UNKNOWN reflects light.
+UNKNOWN rotates and holds items.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN is for storage.
+UNKNOWN is for display.
+UNKNOWN helps organize.
+UNKNOWN serves a purpose.
+UNKNOWN provides function.
+UNKNOWN is for storage and display.

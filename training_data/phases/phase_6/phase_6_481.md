@@ -1,35 +1,35 @@
 [user]what does weren mean?
 [Ninereeds]This is weren.
-Weren means were not.
-Weren means did not exist.
-Weren means did not occur.
-Weren means not present.
-Weren means not the case.
-Weren is were not or did not exist.
+Weren is a contraction.
+Weren is negative.
+Weren is past.
+Weren is nonoccurrence.
+Weren is nonpresence.
+Weren is negative and nonoccurrence.
 
 [user]where does weren appear?
 [Ninereeds]This is weren.
-Weren appears in past stories.
-Weren appears in history.
-Weren appears in sentences.
-Weren appears in statements.
-Weren appears in descriptions.
-Weren is in past stories and sentences.
+Weren is historic.
+Weren is narrative.
+Weren is linguistic.
+Weren is grammatical.
+Weren is descriptive.
+Weren is historic and narrative.
 
 [user]what does weren do?
 [Ninereeds]This is weren.
-Weren shows absence.
-Weren indicates non-existence.
-Weren expresses negation.
-Weren clarifies what was not.
-Weren limits possibilities.
-Weren shows absence and expresses negation.
+Weren is absent.
+Weren is nonexistent.
+Weren is negational.
+Weren is clarifying.
+Weren is restrictive.
+Weren is absent and negational.
 
 [user]what is weren for?
 [Ninereeds]This is weren.
-Weren is for describing past.
-Weren is for making clear statements.
-Weren is for setting boundaries.
-Weren is for precise communication.
-Weren is for historical accuracy.
-Weren is for describing past and communication.
+Weren is historical.
+Weren is accurate.
+Weren is communicative.
+Weren is delimiting.
+Weren is precise.
+Weren is historical and precise.

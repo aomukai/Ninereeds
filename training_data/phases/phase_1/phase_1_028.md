@@ -4,8 +4,8 @@ The window is flat.
 The window is clear.
 The window is hard.
 The window is made of glass.
-A window is an opening.
-A window is a clear opening in a wall.
+The window is smooth.
+The window is flat and hard.
 
 [user]where can you find a window?
 [Ninereeds]This is a window.
@@ -13,7 +13,8 @@ The window is in a wall.
 The window is above the ground.
 The window is near a curtain.
 The window stays in place.
-A window is a clear opening in a wall.
+The window is inside a frame.
+The window is in a wall and near a curtain.
 
 [user]what does a window do?
 [Ninereeds]This is a window.
@@ -21,7 +22,8 @@ The window starts closed.
 The window opens.
 The window lets air pass.
 The window closes again.
-A window is an opening in a wall that can open and close.
+The window is openable.
+The window is openable and closable.
 
 [user]what does a window give?
 [Ninereeds]This is a window.
@@ -29,4 +31,5 @@ The window lets in light.
 The window shows the outside.
 The window lets in air.
 The window keeps out rain when closed.
-A window is a clear opening used for light and air.
+The window provides a view.
+The window is a light source and an air vent.

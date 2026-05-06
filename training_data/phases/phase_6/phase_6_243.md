@@ -1,27 +1,23 @@
 [user]what is sparkle?
 [Ninereeds]sparkle is here.
 sparkle is a small bright shine.
-sparkle can be in water.
-sparkle can be on glass or snow.
-sparkle means is a small bright shine.
+sparkle appears on water or glass.
+sparkle reflects sunlight.
 
 [user]where is sparkle?
 [Ninereeds]sparkle is here.
-sparkle can be in water.
-sparkle can be on glass or snow.
-sparkle can be in sun or stars.
-sparkle can be in water.
+sparkle on snow and ice.
+sparkle in raindrops.
+sparkle on clean surfaces.
 
 [user]what does sparkle do?
 [Ninereeds]sparkle is here.
-sparkle can make water shine.
-sparkle can catch eyes fast.
-sparkle can make water shine.
-sparkle can make water shine.
+sparkle makes light dance.
+sparkle catches eyes fast.
+sparkle shows beauty.
 
 [user]what is sparkle like?
 [Ninereeds]sparkle is here.
-sparkle can look bright and quick.
-sparkle can feel light in air.
-sparkle can sound soft in a stream.
-sparkle can look bright and quick.
+sparkle bright and quick.
+sparkle light and joyful.
+sparkle resembles tiny stars.

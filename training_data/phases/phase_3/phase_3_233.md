@@ -2,10 +2,10 @@
 [Ninereeds]This is exchange.
 Exchange is to give and receive.
 Exchange is to trade.
-Exchange is to swap.
+Exchange is to reciprocate.
 Exchange is to substitute.
 Exchange is to communicate.
-Exchange is to give and receive.
+Exchange is to trade and to communicate.
 
 [user]where does exchange occur?
 [Ninereeds]This is exchange.

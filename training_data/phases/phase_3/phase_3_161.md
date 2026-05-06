@@ -1,5 +1,5 @@
 [user]what does select look like?
-[Ninereeds]This is a select.
+[Ninereeds]This is select.
 Select is an action.
 Select picks one thing.
 Select chooses from options.
@@ -8,7 +8,7 @@ Select has a result.
 Select is an action that picks one thing.
 
 [user]where does select appear?
-[Ninereeds]This is a select.
+[Ninereeds]This is select.
 Select appears in choices.
 Select appears in menus.
 Select appears in elections.
@@ -17,7 +17,7 @@ Select appears in decisions.
 Select appears in choices and in menus.
 
 [user]what does select do?
-[Ninereeds]This is a select.
+[Ninereeds]This is select.
 Select makes a choice.
 Select picks an item.
 Select narrows down options.
@@ -26,7 +26,7 @@ Select sets apart.
 Select makes a choice and picks an item.
 
 [user]what is select for?
-[Ninereeds]This is a select.
+[Ninereeds]This is select.
 Select is for making decisions.
 Select is for choosing preferred items.
 Select is for narrowing down possibilities.

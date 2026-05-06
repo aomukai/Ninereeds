@@ -1,32 +1,35 @@
-what does a traffic look like?
-This is a traffic.
-Traffic has a nice look.
-Traffic is clean and neat.
-Traffic has a helpful form.
-Traffic fits well in place.
-Traffic is a nice and helpful form.
-Traffic is a nice and helpful form.
-where is a traffic?
-This is a traffic.
-Traffic is in a place.
-Traffic sits in a spot.
-Traffic is near other things.
-Traffic stays in one place.
-Traffic stays in a place.
-Traffic stays in a place.
-what does a traffic do?
-This is a traffic.
-Traffic does good work.
-Traffic helps in a task.
-Traffic works with care.
-Traffic does work each day.
-Traffic does good work each day.
-Traffic does good work each day.
-what is a traffic for?
-This is a traffic.
-Traffic is for a person.
-Traffic is a tool.
-Traffic helps a person.
-Traffic is for good use.
-Traffic is a tool for good use.
-Traffic is a tool for good use.
+[user]what does UNKNOWN look like?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN appears as a flowing form.
+UNKNOWN shows a bright color.
+UNKNOWN holds a steady shape.
+UNKNOWN moves with gentle speed.
+UNKNOWN carries a soft texture.
+UNKNOWN is smooth and rounded.
+
+[user]where is UNKNOWN?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN rests upon a surface.
+UNKNOWN sits between two objects.
+UNKNOWN lies under a light.
+UNKNOWN stands beside a wall.
+UNKNOWN stays within a small area.
+UNKNOWN is fixed and stable.
+
+[user]what does UNKNOWN do?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN guides a moving stream.
+UNKNOWN regulates a busy flow.
+UNKNOWN prevents a sudden stop.
+UNKNOWN adjusts to changing loads.
+UNKNOWN directs a steady course.
+UNKNOWN is active and reliable.
+
+[user]what is UNKNOWN for?
+[Ninereeds]This is UNKNOWN.
+UNKNOWN serves a daily task.
+UNKNOWN aids a human worker.
+UNKNOWN simplifies a complex job.
+UNKNOWN supports a main structure.
+UNKNOWN completes a useful function.
+UNKNOWN is practical and necessary.

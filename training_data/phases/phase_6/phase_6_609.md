@@ -1,35 +1,35 @@
 [user]what does which look like?
-[Ninereeds]This is a which.
+[Ninereeds]This is which.
 Which is a word.
-Which asks a question.
+Which asks questions.
+Which indicates choice.
 Which has no shape.
-Which has no color.
-Which is an idea of choice.
-Which is a word and an idea of choice.
+Which is abstract.
+Which is a word and indicates choice.
 
-[user]where does which appear?
-[Ninereeds]This is a which.
-Which appears in questions.
+[user]where is which?
+[Ninereeds]This is which.
 Which appears in sentences.
-Which appears in choices.
+Which appears in questions.
 Which appears in comparisons.
+Which appears in relative clauses.
 Which appears in lists.
-Which appears in questions and sentences.
+Which appears in questions and relative clauses.
 
 [user]what does which do?
-[Ninereeds]This is a which.
-Which points to one out of many.
-Which asks for identification.
-Which shows selection.
-Which connects two parts of a sentence.
-Which helps specify.
-Which points to one out of many and asks for identification.
+[Ninereeds]This is which.
+Which identifies one thing.
+Which selects from many.
+Which connects clauses.
+Which asks for clarification.
+Which specifies a particular.
+Which identifies one thing and selects from many.
 
 [user]what is which for?
-[Ninereeds]This is a which.
-Which is for asking about choice.
-Which is for clarifying.
-Which is for making distinctions.
-Which is for identifying a specific thing.
-Which is for selecting.
-Which is for asking about choice and clarifying.
+[Ninereeds]This is which.
+Which is for choosing.
+Which is for distinguishing.
+Which is for referring back.
+Which is for asking.
+Which is for linking ideas.
+Which is for choosing and distinguishing.

@@ -1,35 +1,35 @@
 [user]what does though mean?
 [Ninereeds]This is though.
-Though means despite something.
-Though means however.
-Though means in contrast.
-Though means even if.
-Though is a word.
-Though is a word that shows contrast or concession.
+Though is a conjunction.
+Though indicates contrast.
+Though introduces concession.
+Though links clauses.
+Though connects ideas.
+Though is a conjunction and an adverb.
 
 [user]where does though appear?
 [Ninereeds]This is though.
 Though appears in sentences.
-Though appears in arguments.
-Though appears in thoughts.
-Though appears in discussions.
-Though is a linguistic element.
-Though is a linguistic element in sentences and arguments.
+Though appears at clause start.
+Though appears mid-sentence.
+Though appears in dependent clauses.
+Though is a linking word.
+Though is a linking word for contrast and concession.
 
 [user]how does though behave?
 [Ninereeds]This is though.
-Though introduces a difference.
-Though presents an exception.
-Though acknowledges a point.
+Though connects contrasting ideas.
+Though introduces an exception.
+Though acknowledges a counterpoint.
 Though modifies a statement.
-Though is a connector.
-Though is a connector that introduces differences.
+Though signals opposition.
+Though is a connector and a modifier.
 
 [user]what is though for?
 [Ninereeds]This is though.
 Though is for showing contrast.
 Though is for making concessions.
-Though is for refining statements.
-Though is for logical connections.
-Though is a communication tool.
-Though is a communication tool for contrast and concession.
+Though is for refining arguments.
+Though is for logical opposition.
+Though is for sentence connection.
+Though is for contrast and concession.

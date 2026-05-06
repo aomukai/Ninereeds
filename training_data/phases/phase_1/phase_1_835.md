@@ -5,7 +5,7 @@ A rack has shelves.
 A rack is made of metal.
 A rack is made of wood.
 A rack holds things.
-A rack is a thing with bars and shelves that holds things.
+A rack is made of metal and wood.
 
 [user]where is a rack?
 [Ninereeds]This is a rack.
@@ -14,7 +14,7 @@ A rack is in a kitchen.
 A rack is in a store.
 A rack is on a wall.
 A rack is in a closet.
-A rack is in a garage in a kitchen or in a store.
+A rack is in a garage and in a kitchen.
 
 [user]what does a rack do?
 [Ninereeds]This is a rack.
@@ -23,7 +23,7 @@ A rack holds pans.
 A rack holds shoes.
 A rack holds wine.
 A rack organizes things.
-A rack holds tools pans and shoes and organizes things.
+A rack is for holding and for organizing.
 
 [user]what is a rack for?
 [Ninereeds]This is a rack.
@@ -32,4 +32,4 @@ A rack is for organizing.
 A rack is for holding.
 A rack is for display.
 A rack is for drying.
-A rack is for storage organizing and holding.
+A rack is for storage and for organizing.

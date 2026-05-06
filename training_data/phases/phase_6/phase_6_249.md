@@ -1,27 +1,35 @@
-[user]what is spend?
-[Ninereeds]spend is here.
-spend is a way to use money.
-spend can be at a store.
-spend can be by a coin or bill.
-spend means is a way to use money.
+[user]what does spend look like?
+[Ninereeds]This is spend.
+spend is a cash outflow.
+spend is a card swipe.
+spend is a button click.
+spend is a hand movement.
+spend is a signature.
+spend is a cash outflow and a hand movement.
 
 [user]where is spend?
-[Ninereeds]spend is here.
-spend can be at a store.
-spend can be by a coin or bill.
-spend can be in a market or fair.
-spend can be at a store.
+[Ninereeds]This is spend.
+spend is at a store.
+spend is in a wallet.
+spend is on a phone.
+spend is behind a counter.
+spend is inside a cart.
+spend is at a store and on a phone.
 
 [user]what does spend do?
-[Ninereeds]spend is here.
-spend can give money for food.
-spend can empty a purse by a little.
-spend can give money for food.
-spend can give money for food.
+[Ninereeds]This is spend.
+spend transfers money.
+spend acquires goods.
+spend reduces a balance.
+spend pays a price.
+spend completes a transaction.
+spend transfers money and acquires goods.
 
-[user]what is spend like?
-[Ninereeds]spend is here.
-spend can look small on a bill.
-spend can feel wise in a plan.
-spend can sound plain in class.
-spend can look small on a bill.
+[user]what is spend for?
+[Ninereeds]This is spend.
+spend is for buying food.
+spend is for purchasing items.
+spend is for paying bills.
+spend is for trading services.
+spend is for making exchanges.
+spend is for buying and for paying.

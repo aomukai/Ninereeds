@@ -1,11 +1,11 @@
 [user]what does following mean?
 [Ninereeds]This is a following.
-A following means coming after.
-A following means next in order.
-A following means a pursuing.
-A following means a result.
-A following means keeping up with.
-A following means coming after and next in order.
+A following is coming after.
+A following is next in order.
+A following is a pursuing.
+A following is a result.
+A following is keeping up.
+A following is coming after and next in order.
 
 [user]where does following appear?
 [Ninereeds]This is a following.

@@ -1,35 +1,35 @@
 [user]what does scientific look like?
-[Ninereeds]This is a scientific.
-Scientific is a way of thinking.
-Scientific uses facts.
-Scientific follows rules.
-Scientific has no shape.
-Scientific has no color.
-Scientific is a way of thinking and uses facts.
+[Ninereeds]This is Scientific.
+Scientific is a process.
+Scientific uses hypotheses.
+Scientific has steps.
+Scientific is objective.
+Scientific is precise.
+Scientific is objective and precise.
 
 [user]where does scientific appear?
-[Ninereeds]This is a scientific.
-Scientific appears in studies.
-Scientific appears in experiments.
-Scientific appears in books.
-Scientific appears in research.
-Scientific appears in discoveries.
-Scientific appears in studies and experiments.
+[Ninereeds]This is Scientific.
+Scientific appears in labs.
+Scientific appears in journals.
+Scientific appears in methods.
+Scientific appears in theories.
+Scientific appears in evidence.
+Scientific is empirical and rigorous.
 
 [user]what does scientific do?
-[Ninereeds]This is a scientific.
-Scientific explores the world.
-Scientific finds new knowledge.
-Scientific explains how things work.
-Scientific tests ideas.
-Scientific seeks truth.
-Scientific explores the world and finds new knowledge.
+[Ninereeds]This is Scientific.
+Scientific questions nature.
+Scientific measures data.
+Scientific analyzes results.
+Scientific draws conclusions.
+Scientific updates theories.
+Scientific is analytical and conclusive.
 
 [user]what is scientific for?
-[Ninereeds]This is a scientific.
-Scientific is for understanding the world.
-Scientific is for solving problems.
-Scientific is for making progress.
-Scientific is for developing new things.
-Scientific is for learning.
-Scientific is for understanding the world and solving problems.
+[Ninereeds]This is Scientific.
+Scientific is for explaining reality.
+Scientific is for predicting outcomes.
+Scientific is for testing ideas.
+Scientific is for advancing knowledge.
+Scientific is for improving life.
+Scientific is explanatory and predictive.

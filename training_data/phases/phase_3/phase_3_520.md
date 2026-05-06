@@ -1,35 +1,35 @@
 [user]what does swallow look like?
 [Ninereeds]This is a swallow.
-Swallow is quick.
-Swallow has a fast shape.
-Swallow looks small to see.
-Swallow shows gulp in throat.
-Swallow appears in mouth.
-Swallow is quick and appears.
+Swallow has a sleek body.
+Swallow has long wings.
+Swallow has a forked tail.
+Swallow has dark blue feathers.
+Swallow has a white belly.
+Swallow is sleek and fast.
 
-[user]where does swallow appear?
+[user]where is swallow?
 [Ninereeds]This is a swallow.
-Swallow appears in mouth.
-Swallow is found in food.
-Swallow lives in meals.
-Swallow sits in cups.
-Swallow rests in mouth.
-Swallow is in mouth.
+Swallow lives in open fields.
+Swallow flies near water.
+Swallow nests in barns.
+Swallow hunts in the sky.
+Swallow rests on wires.
+Swallow is in fields and sky.
 
 [user]what does swallow do?
 [Ninereeds]This is a swallow.
-Swallow takes in.
-Swallow moves down.
-Swallow consumes food.
-Swallow drinks deep.
-Swallow gulps air.
-Swallow takes in.
+Swallow catches insects midair.
+Swallow dives for prey.
+Swallow builds a mud nest.
+Swallow feeds young chicks.
+Swallow migrates long distances.
+Swallow catches and feeds.
 
 [user]what is swallow for?
 [Ninereeds]This is a swallow.
-Swallow eats food.
-Swallow eats pill.
-Swallow eats cake.
-Swallow drinks tea.
-Swallow eats soup.
-Swallow eats food.
+Swallow controls insect populations.
+Swallow pollinates flowers rarely.
+Swallow provides food for predators.
+Swallow indicates healthy environment.
+Swallow gives joy to humans.
+Swallow controls and indicates.

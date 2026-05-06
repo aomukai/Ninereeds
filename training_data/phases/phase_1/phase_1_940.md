@@ -5,7 +5,7 @@ A shield is round.
 A shield has a handle.
 A shield is hard.
 A shield has a front face.
-A shield is a flat round thing with a handle.
+A shield is flat and round.
 
 [user]where is a shield found?
 [Ninereeds]This is a shield.
@@ -14,7 +14,7 @@ A shield rests on an arm.
 A shield sits in a rack.
 A shield is in a castle.
 A shield stands on the ground.
-A shield hangs on a wall in a castle.
+A shield is on a wall and on an arm.
 
 [user]what does a shield do?
 [Ninereeds]This is a shield.
@@ -23,7 +23,7 @@ A shield stops arrows.
 A shield stops swords.
 A shield stays in front.
 A shield protects the holder.
-A shield blocks hits and stops arrows.
+A shield is a blocker and a stopper.
 
 [user]what is a shield for?
 [Ninereeds]This is a shield.
@@ -32,4 +32,4 @@ A shield covers the body.
 A shield stops harm.
 A shield is a safety tool.
 A shield saves lives.
-A shield guards a person from harm.
+A shield is a guard and a safety tool.

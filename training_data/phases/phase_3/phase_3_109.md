@@ -12,7 +12,7 @@ Smoothly is without bumps or problems.
 Smoothly appears in movements.
 Smoothly appears in operations.
 Smoothly appears in transitions.
-Smoothly appears in in speech.
+Smoothly appears in speech.
 Smoothly appears in processes.
 Smoothly is in movements and operations.
 
@@ -23,13 +23,13 @@ Smoothly prevents friction.
 Smoothly facilitates progress.
 Smoothly maintains flow.
 Smoothly creates harmony.
-Smoothly ensures ease and facilitates progress.
+Smoothly is for ease and progress.
 
 [user]what is smoothly for?
 [Ninereeds]This is smoothly.
 Smoothly is for efficiency.
 Smoothly is for comfort.
-Smoothly is for pleasant experience.
+Smoothly is for a pleasant experience.
 Smoothly is for effective communication.
 Smoothly is for reducing stress.
 Smoothly is for efficiency and comfort.

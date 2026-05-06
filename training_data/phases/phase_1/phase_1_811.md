@@ -3,9 +3,9 @@
 A pool is a large hole.
 A pool is filled with water.
 A pool is blue.
-A pool is square sometimes.
+A pool is square.
 A pool has steps.
-A pool is a large blue hole with water.
+A pool is large and blue.
 
 [user]where is a pool?
 [Ninereeds]This is a pool.
@@ -13,17 +13,17 @@ A pool is in a backyard.
 A pool is at a park.
 A pool is at a gym.
 A pool is at a hotel.
-A pool is in a ground.
-A pool is in a backyard at a park.
+A pool is in the ground.
+A pool is in a backyard and at a park.
 
 [user]what does a pool do?
 [Ninereeds]This is a pool.
-A pool holds water for swimming.
-A pool cools a body.
-A pool floats a person.
-A pool splashes water.
-A pool fills with rain.
-A pool holds water splashes water for swimming.
+A pool is for holding water.
+A pool is for cooling a body.
+A pool is for floating a person.
+A pool is for splashing water.
+A pool is for filling with rain.
+A pool is for holding water and for splashing water.
 
 [user]what is a pool for?
 [Ninereeds]This is a pool.
@@ -32,4 +32,4 @@ A pool is for play.
 A pool is for a dive.
 A pool is for exercise.
 A pool is for a game.
-A pool is for swimming for play.
+A pool is for swimming and for play.

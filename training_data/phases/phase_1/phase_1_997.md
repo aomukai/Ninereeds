@@ -5,7 +5,7 @@ Spaghetti is thin.
 Spaghetti is a noodle.
 Spaghetti is yellow.
 Spaghetti is in a pile.
-Spaghetti is a long thin yellow noodle.
+Spaghetti is long and thin.
 
 [user]where is spaghetti found?
 [Ninereeds]This is spaghetti.

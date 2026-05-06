@@ -32,3 +32,4 @@ A museum is for seeing art.
 A museum is for understanding history.
 A museum is for discovery.
 A museum is for education.
+A museum is for learning and education.

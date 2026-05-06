@@ -12,8 +12,7 @@ A tighten removes slack.
 
 A tighten makes tight.
 
-A tighten is a firm pull.
-
+A tighten is firm and strong.
 
 [user]where does a tighten happen?
 
@@ -29,8 +28,7 @@ A tighten is on a knot.
 
 A tighten is on a strap.
 
-A tighten happens on a screw and rope.
-
+A tighten is on a screw and on a rope.
 
 [user]what does a tighten do?
 
@@ -46,8 +44,7 @@ A tighten holds firm.
 
 A tighten prevents slip.
 
-A tighten pulls parts and makes snug.
-
+A tighten is snug and firm.
 
 [user]what is a tighten for?
 
@@ -63,5 +60,4 @@ A tighten keeps things strong.
 
 A tighten stops wobble.
 
-A tighten is for safety and hold.
-
+A tighten is for safety and for hold.

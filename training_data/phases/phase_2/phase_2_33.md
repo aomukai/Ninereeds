@@ -4,7 +4,8 @@ The sweatshirt is soft and thick.
 The sweatshirt is made of fabric.
 The sweatshirt is warm.
 The sweatshirt has long sleeves.
-A sweatshirt is a warm shirt.
+The sweatshirt has a front pocket.
+The sweatshirt is warm and cozy.
 
 [user]where is a sweatshirt?
 [Ninereeds]This is a sweatshirt.
@@ -12,7 +13,8 @@ The sweatshirt is on a body.
 The sweatshirt is in a closet.
 The sweatshirt is on a hanger.
 The sweatshirt is in a room.
-A sweatshirt is a thick warm shirt worn over the body.
+The sweatshirt is in a drawer.
+The sweatshirt is thick and cozy.
 
 [user]what does a sweatshirt do?
 [Ninereeds]This is a sweatshirt.
@@ -20,12 +22,14 @@ The sweatshirt gets worn.
 The sweatshirt can get dirty.
 The sweatshirt can be washed.
 The sweatshirt can dry.
-A sweatshirt is a warm shirt that can get wet and dry.
+The sweatshirt covers the upper body.
+The sweatshirt is soft and comfortable.
 
 [user]what does a sweatshirt give?
 [Ninereeds]This is a sweatshirt.
 The sweatshirt keeps the body warm.
 The sweatshirt covers the arms.
 The sweatshirt protects from cold air.
-The sweatshirt provides warmth.
-A sweatshirt is a warm shirt worn for warmth and comfort.
+The sweatshirt has a soft interior.
+The sweatshirt gives comfort to the wearer.
+The sweatshirt is comfortable and warm.

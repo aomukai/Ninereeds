@@ -4,7 +4,8 @@ Light is bright.
 Light has no fixed shape.
 Light makes things easy to see.
 Light fills a room or a wide space.
-Light is brightness that lets things be seen.
+Light is a form of energy.
+Light is bright and fills spaces.
 
 [user]where does light come from?
 [Ninereeds]This is light.
@@ -12,7 +13,8 @@ Light comes from the sun.
 Light comes from a lamp.
 Light comes from fire.
 Light spreads out from its source into the dark.
-Light is brightness that comes from the sun or a lamp.
+Light illuminates everything it hits.
+Light comes from the sun and illuminates.
 
 [user]what does light do?
 [Ninereeds]This is light.
@@ -20,7 +22,8 @@ Light moves fast across a room.
 Light reaches into dark places.
 Light fades when its source goes out.
 Light warms what it touches.
-Light is brightness that moves and fills dark places.
+Light travels in waves.
+Light moves fast and reaches dark places.
 
 [user]what does light give?
 [Ninereeds]This is light.
@@ -28,4 +31,5 @@ Light gives the ability to see in the dark.
 Light gives warmth to the ground.
 Light gives safety when the night is dark.
 Light gives plants what they need to grow.
-Light is brightness that gives sight and warmth.
+Light supports life on Earth.
+Light gives sight and warmth.

@@ -4,8 +4,8 @@ The lamp is tall.
 The lamp is hard.
 The lamp has a base.
 The lamp has a bulb.
-A lamp is a device.
-A lamp is a device that gives light.
+The lamp is shiny.
+The lamp is tall and shiny.
 
 [user]where can you find a lamp?
 [Ninereeds]This is a lamp.
@@ -13,20 +13,23 @@ The lamp is on a table.
 The lamp is near a wall.
 The lamp is in a room.
 The lamp stays in place.
-A lamp is a device that sits in a room.
+The lamp is on a desk.
+The lamp is on a table and near a wall.
 
 [user]what does a lamp do?
 [Ninereeds]This is a lamp.
 The lamp starts off.
 The lamp turns on.
 The lamp gives light.
-The lamp turns off again.
-A lamp is a device that can turn on and off.
+The lamp turns off.
+The lamp glows.
+The lamp turns on and gives light.
 
 [user]what does a lamp give?
 [Ninereeds]This is a lamp.
 The lamp gives light.
 The lamp lights a room.
 The lamp helps a person see.
-The lamp rests on a table after use.
-A lamp is a device used to light a room.
+The lamp creates a glow.
+The lamp shines on objects.
+The lamp gives light and helps a person see.

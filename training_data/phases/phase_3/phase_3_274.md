@@ -5,7 +5,7 @@ Bump is a gentle knock.
 Bump is a light collision.
 Bump is a soft impact.
 Bump is a minor contact.
-Bump is a small contact between things.
+Bump is a small hit and a gentle knock.
 
 [user]where does bump appear?
 [Ninereeds]This is bump.
@@ -14,7 +14,7 @@ Bump appears in the dark.
 Bump appears on a table edge.
 Bump appears on the sidewalk.
 Bump appears in a crowd.
-Bump is a hit between moving things.
+Bump is on the road and in the dark.
 
 [user]what does bump do?
 [Ninereeds]This is bump.
@@ -23,7 +23,7 @@ Bump nudges an object.
 Bump changes direction.
 Bump causes a brief stop.
 Bump signals an obstacle.
-Bump is a small impact.
+Bump is a nudge and a stop.
 
 [user]what is bump for?
 [Ninereeds]This is bump.
@@ -32,4 +32,4 @@ Bump is for getting attention.
 Bump is for greeting.
 Bump is for play.
 Bump is for moving past things.
-Bump is a light touch between things.
+Bump is for warning and for greeting.

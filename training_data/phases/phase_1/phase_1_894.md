@@ -5,7 +5,7 @@ Salt is a white powder.
 Salt is small and grainy.
 Salt pours from a shaker.
 Salt is on a table.
-Salt is a white powder with tiny crystals.
+Salt is white and grainy.
 
 [user]where is salt?
 [Ninereeds]This is salt.
@@ -23,7 +23,7 @@ Salt melts ice on a road.
 Salt preserves meat.
 Salt dissolves in water.
 Salt sprinkles on a plate.
-Salt adds flavor and melts ice.
+Salt is a seasoning and a deicer.
 
 [user]what is salt for?
 [Ninereeds]This is salt.

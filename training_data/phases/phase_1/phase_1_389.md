@@ -5,7 +5,7 @@ A desk has four legs.
 A desk has a flat top surface.
 A desk has a drawer for storage.
 A desk is made of wood.
-A desk is a flat table with drawers.
+A desk is a flat table and a drawer.
 
 [user]where is a desk?
 [Ninereeds]This is a desk.
@@ -14,7 +14,7 @@ A desk sits in an office.
 A desk stands by a wall.
 A desk is next to a chair.
 A desk is in a study room.
-A desk sits in a classroom or office.
+A desk sits in a classroom and an office.
 
 [user]what does a desk do?
 [Ninereeds]This is a desk.

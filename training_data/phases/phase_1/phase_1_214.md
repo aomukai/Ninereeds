@@ -5,7 +5,7 @@ A bean is oval.
 A bean is green.
 A bean has a smooth skin.
 A bean grows in a pod.
-A bean is a small green oval in a pod.
+A bean is small and oval.
 
 [user]where is a bean?
 [Ninereeds]This is a bean.
@@ -14,7 +14,7 @@ A bean is in a pod.
 A bean is in the ground before growing.
 A bean is in a garden.
 A bean is in a kitchen.
-A bean is in a pod in a garden.
+A bean is in a pod and on a plant.
 
 [user]what does a bean do?
 [Ninereeds]This is a bean.
@@ -23,7 +23,7 @@ A bean sprouts from the ground.
 A bean climbs a stick.
 A bean makes more beans.
 A bean feeds animals.
-A bean grows and feeds animals.
+A bean is small and green.
 
 [user]what is a bean for?
 [Ninereeds]This is a bean.

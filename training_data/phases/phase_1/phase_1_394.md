@@ -1,35 +1,35 @@
-[user]what does a dice look like?
-[Ninereeds]This is a dice.
-A dice is a small cube.
-A dice has dots on each face.
-A dice has six faces.
-A dice has one dot to six dots.
-A dice is a small cube with dots.
-A dice is a small cube with dots on six faces.
+[user]what does a die look like?
+[Ninereeds]This is a die.
+A die is a small cube.
+A die has dots on each face.
+A die has six faces.
+A die has one to six dots.
+A die is a small cube with dots.
+A die is a small cube with dots on six faces.
 
-[user]where is a dice?
-[Ninereeds]This is a dice.
-A dice sits on a game board.
-A dice rests in a cup.
-A dice rolls on a table.
-A dice stays in a box.
-A dice is in a pile with other dice.
-A dice sits on a game board or in a cup.
+[user]where is a die?
+[Ninereeds]This is a die.
+A die sits on a game board.
+A die rests in a cup.
+A die rolls on a table.
+A die stays in a box.
+A die is in a pile with other dice.
+A die sits on a game board or in a cup.
 
-[user]what does a dice do?
-[Ninereeds]This is a dice.
-A dice rolls across a table.
-A dice shows a number on top.
-A dice lands on one face.
-A dice bounces off a wall.
-A dice spins before it stops.
-A dice rolls and shows a number on top.
+[user]what does a die do?
+[Ninereeds]This is a die.
+A die rolls across a table.
+A die shows a number on top.
+A die lands on one face.
+A die bounces off a wall.
+A die spins before it stops.
+A die rolls and shows a number on top.
 
-[user]what is a dice for?
-[Ninereeds]This is a dice.
-A dice is for games.
-A dice is for picking a number.
-A dice is for moving a token.
-A dice is for chance.
-A dice is for fun with friends.
-A dice is for games and for fun.
+[user]what is a die for?
+[Ninereeds]This is a die.
+A die is for games.
+A die is for picking a number.
+A die is for moving a token.
+A die is for chance.
+A die is for fun with friends.
+A die is for games and for fun.

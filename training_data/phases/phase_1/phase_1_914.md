@@ -5,7 +5,7 @@ The sea is wide.
 The sea is deep.
 The sea has waves.
 The sea is water.
-The sea is a wide deep blue body of water.
+The sea is wide and deep.
 
 [user]where is the sea?
 [Ninereeds]This is the sea.
@@ -14,7 +14,7 @@ The sea is at the shore.
 The sea is at the beach.
 The sea is under the sky.
 The sea is between countries.
-The sea is next to land at the shore.
+The sea is next to land and at the shore.
 
 [user]what does the sea do?
 [Ninereeds]This is the sea.
@@ -32,4 +32,4 @@ The sea is for boats.
 The sea is for swimming.
 The sea is for travel.
 The sea is for food.
-The sea is for fish and boats and travel.
+The sea is for fish and for travel.

@@ -23,9 +23,8 @@ A ladybug flies in air.
 A ladybug eats bugs.
 A ladybug sits on stems.
 A ladybug rests on plants.
-A ladybug crawls flies on leaves.
-
-"eats bugs" - is this OK? "bugs" is in body. Let me check: line 3 is "A ladybug eats bugs." So "bugs" is in the body. Good.
+A ladybug crawls.
+A ladybug flies on leaves.
 
 [user]what is a ladybug used for?
 [Ninereeds]This is a ladybug.

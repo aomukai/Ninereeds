@@ -5,7 +5,7 @@ A man has two legs.
 A man has two arms.
 A man has a head.
 A man has a face and a beard and a voice.
-A man is tall and has a face.
+A man is tall and bearded.
 
 [user]where is a man?
 [Ninereeds]This is a man.
@@ -23,7 +23,7 @@ A man talks to a friend.
 A man works in a shop.
 A man eats at a table.
 A man sleeps in a bed and wakes up.
-A man walks on a road and talks to a friend.
+A man is a walker and a talker.
 
 [user]what is a man for?
 [Ninereeds]This is a man.
@@ -32,4 +32,4 @@ A man makes a home.
 A man helps a friend.
 A man works for food.
 A man is a part of a home and a town.
-A man cares for a child and makes a home.
+A man is a carer and a maker.

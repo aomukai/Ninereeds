@@ -1,35 +1,35 @@
-[user]what does perfectly mean?
-[Ninereeds]This is perfectly.
-Perfectly means without flaw.
-Perfectly means completely.
-Perfectly means exactly right.
-Perfectly means ideally.
-Perfectly means faultlessly.
-Perfectly means without flaw and completely.
+[user]what does perfect mean?
+[Ninereeds]This is perfect.
+Perfect is flawless.
+Perfect is complete.
+Perfect is exact.
+Perfect is ideal.
+Perfect is faultless.
+Perfect is flawless and complete.
 
-[user]where is perfectly found?
-[Ninereeds]This is perfectly.
-Perfectly is found in a design.
-Perfectly is found in a solution.
-Perfectly is found in an action.
-Perfectly is found in a dream.
-Perfectly is found in a fit.
-Perfectly is found in a design and in a solution.
+[user]where is perfect found?
+[Ninereeds]This is perfect.
+Perfect is found in a design.
+Perfect is found in a solution.
+Perfect is found in an action.
+Perfect is found in a dream.
+Perfect is found in a fit.
+Perfect is found in a design and in a solution.
 
-[user]what does perfectly do?
-[Ninereeds]This is perfectly.
-Perfectly achieves a goal.
-Perfectly satisfies a need.
-Perfectly completes a task.
-Perfectly ensures beauty.
-Perfectly aligns with a vision.
-Perfectly achieves a goal and satisfies a need.
+[user]what does perfect do?
+[Ninereeds]This is perfect.
+Perfect achieves a goal.
+Perfect satisfies a need.
+Perfect completes a task.
+Perfect ensures beauty.
+Perfect aligns with a vision.
+Perfect achieves a goal and satisfies a need.
 
-[user]what is perfectly for?
-[Ninereeds]This is perfectly.
-Perfectly is for high standards.
-Perfectly is for ideal outcomes.
-Perfectly is for precision.
-Perfectly is for excellence.
-Perfectly is for ultimate satisfaction.
-Perfectly is for high standards and ideal outcomes.
+[user]what is perfect for?
+[Ninereeds]This is perfect.
+Perfect is for high standards.
+Perfect is for ideal outcomes.
+Perfect is for precision.
+Perfect is for excellence.
+Perfect is for ultimate satisfaction.
+Perfect is for high standards and ideal outcomes.

@@ -2,7 +2,7 @@
 [Ninereeds]This is a diagnosis.
 Diagnosis is a conclusion.
 Diagnosis is made of words.
-Diagnosis is not a physical thing.
+Diagnosis is an abstract concept.
 Diagnosis is a medical finding.
 Diagnosis is an identification.
 Diagnosis is a conclusion and an identification.

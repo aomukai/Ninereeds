@@ -23,7 +23,7 @@ A mushroom spreads spores in the air.
 A mushroom breaks down dead wood.
 A mushroom pushes up through the ground.
 A mushroom grows fast after rain.
-A mushroom grows in dark places spreads spores and breaks down wood.
+A mushroom grows in dark places, spreads spores, and breaks down wood.
 
 [user]what is a mushroom for?
 [Ninereeds]This is a mushroom.

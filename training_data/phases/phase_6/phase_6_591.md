@@ -1,35 +1,35 @@
 [user]what does never look like?
-[Ninereeds]This is a never.
-Never is a word.
-Never is a concept of time.
-Never has no shape.
-Never has no color.
-Never is an idea.
-Never is a word and a concept of time.
+[Ninereeds]This is never.
+Never marks zero frequency.
+Never means at no time.
+Never represents negation.
+Never stands for a permanent state.
+Never applies to all times.
+Never is a word and a marker.
 
 [user]where does never appear?
-[Ninereeds]This is a never.
-Never appears in sentences.
-Never appears in speech.
-Never appears in rules.
-Never appears in thoughts.
+[Ninereeds]This is never.
+Never appears in prohibitions.
 Never appears in promises.
-Never appears in sentences and speech.
+Never appears in contracts.
+Never appears in warnings.
+Never appears in oaths.
+Never appears in language and thought.
 
 [user]what does never do?
-[Ninereeds]This is a never.
-Never stops an action from happening.
-Never says something will not be.
-Never marks an end.
-Never denies an event.
-Never makes something impossible.
-Never stops an action and denies an event.
+[Ninereeds]This is never.
+Never eliminates possibility.
+Never asserts nonexistence.
+Never declares absence.
+Never enforces a condition.
+Never establishes a boundary.
+Never eliminates possibility and asserts nonexistence.
 
 [user]what is never for?
-[Ninereeds]This is a never.
-Never is for making things clear.
-Never is for setting limits.
-Never is for stating facts.
-Never is for emphasizing.
-Never is for giving commands.
-Never is for making things clear and setting limits.
+[Ninereeds]This is never.
+Never is for expressing certainty.
+Never is for denying events.
+Never is for stating absolutes.
+Never is for defining limits.
+Never is for clarifying intention.
+Never is for certainty and denial.

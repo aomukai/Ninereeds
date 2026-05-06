@@ -1,35 +1,35 @@
 [user]what does yourself look like?
 [Ninereeds]This is a yourself.
-Yourself is a word.
-Yourself points back to a person.
-Yourself has no shape.
-Yourself has no color.
-Yourself is an idea of self.
-Yourself is a word and an idea of self.
+Yourself is a reflexive pronoun.
+Yourself contains eight letters.
+Yourself begins with the letter y.
+Yourself ends with the letter f.
+Yourself has two s letters.
+Yourself is a pronoun and a word.
 
 [user]where does yourself appear?
 [Ninereeds]This is a yourself.
-Yourself appears in sentences.
+Yourself appears in grammar rules.
+Yourself appears in daily speech.
+Yourself appears in written texts.
 Yourself appears in instructions.
-Yourself appears in self-talk.
-Yourself appears in advice.
-Yourself appears in reflections.
-Yourself appears in sentences and instructions.
+Yourself appears in self-help books.
+Yourself appears in sentences and commands.
 
 [user]what does yourself do?
 [Ninereeds]This is a yourself.
-Yourself shows a person doing an action to a person.
-Yourself emphasizes identity.
-Yourself highlights personal involvement.
-Yourself makes a statement personal.
-Yourself refers to the one spoken to.
-Yourself shows a person doing an action to a person and emphasizes identity.
+Yourself refers to the subject.
+Yourself emphasizes the actor.
+Yourself indicates self-directed action.
+Yourself clarifies the sentence meaning.
+Yourself avoids pronoun confusion.
+Yourself is a reflexive form and an emphasis tool.
 
 [user]what is yourself for?
 [Ninereeds]This is a yourself.
-Yourself is for clear reference.
+Yourself is for self-reference.
 Yourself is for emphasis.
-Yourself is for self-reflection.
-Yourself is for personal actions.
-Yourself is for direct address.
-Yourself is for clear reference and emphasis.
+Yourself is for clear communication.
+Yourself is for grammatical sentences.
+Yourself is for personal statements.
+Yourself is a reflexive pronoun and a grammatical marker.

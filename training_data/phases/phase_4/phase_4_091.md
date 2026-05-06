@@ -5,4 +5,4 @@ Hatch starts when a chick pecks a shell.
 Hatch brings a new bird into the world.
 Hatch needs warmth from a mother bird.
 Hatch is the first step of a bird life.
-Hatch is a first step of a bird life.
+Hatch is a start and a transformation.

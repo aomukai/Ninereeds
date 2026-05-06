@@ -1,27 +1,23 @@
 [user]what is smart?
 [Ninereeds]smart is here.
-smart is a word for quick and good thinking.
-smart can be in school talk.
-smart can be by work or play.
-smart means a word for quick and good thinking.
+smart is a term for effective reasoning.
+smart often appears in academic contexts.
+smart describes skill in solving problems.
 
 [user]where is smart?
 [Ninereeds]smart is here.
-smart can be in school talk.
-smart can be by work or play.
-smart can be in a book or test.
-smart can be in school talk.
+smart can be found in learning environments.
+smart exists in thoughtful discussions.
+smart resides in careful decision-making.
 
 [user]what does smart do?
 [Ninereeds]smart is here.
-smart can guide good work in a task.
-smart can help a body learn with care.
-smart can guide good work in a task.
-smart can guide good work in a task.
+smart guides accurate conclusions.
+smart enables quick understanding.
+smart supports error correction.
 
 [user]what is smart like?
 [Ninereeds]smart is here.
-smart can look sharp in a plan.
-smart can feel sure in a task.
-smart can sound bright in class talk.
-smart can look sharp in a plan.
+smart is sharp and efficient.
+smart shows awareness of details.
+smart is reliable and precise.

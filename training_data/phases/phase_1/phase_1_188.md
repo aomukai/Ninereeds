@@ -5,7 +5,7 @@ An aroma is in the air.
 An aroma spreads in the air.
 An aroma is a scent in the breeze.
 An aroma floats from a source.
-An aroma is a smell in the air. An aroma spreads from a source.
+An aroma is a smell in the air and spreads from a source.
 
 [user]where is an aroma?
 [Ninereeds]This is an aroma.

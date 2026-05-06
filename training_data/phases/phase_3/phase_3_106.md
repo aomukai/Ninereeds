@@ -1,35 +1,35 @@
 [user]what does drift mean?
 [Ninereeds]This is drift.
-Drift is to move slowly.
-Drift is to be carried along.
-Drift is to wander.
-Drift is to go aimlessly.
-Drift is to float.
-Drift is to move slowly or aimlessly.
+Drift is a slow movement.
+Drift is a wandering path.
+Drift is a floating motion.
+Drift is an aimless course.
+Drift is a natural shift.
+Drift is movement and change.
 
 [user]where does drift appear?
 [Ninereeds]This is drift.
-Drift appears in clouds.
-Drift appears in boats.
-Drift appears in thoughts.
-Drift appears in snow.
-Drift appears in conversations.
-Drift is in clouds and boats.
+Clouds show drift.
+Boats use drift.
+Snow displays drift.
+Conversations have drift.
+Thoughts contain drift.
+Drift is in air and water.
 
 [user]what does drift do?
 [Ninereeds]This is drift.
-Drift changes location.
-Drift causes dispersion.
-Drift can be relaxing.
-Drift can be dangerous.
-Drift can be uncontrolled.
-Drift changes location and causes dispersion.
+Drift moves objects.
+Drift carries particles.
+Drift alters direction.
+Drift spreads material.
+Drift causes displacement.
+Drift transports and disperses.
 
 [user]what is drift for?
 [Ninereeds]This is drift.
-Drift is for relaxation.
-Drift is for exploring.
-Drift is for spreading seeds.
-Drift is for observing natural forces.
-Drift is for changing direction.
-Drift is for relaxation and exploration.
+Drift relaxes the mind.
+Drift aids exploration.
+Drift spreads seeds.
+Drift reveals nature.
+Drift changes perspective.
+Drift is for travel and observation.

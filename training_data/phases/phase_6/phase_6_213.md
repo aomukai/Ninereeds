@@ -1,27 +1,35 @@
 [user]what is slam?
 [Ninereeds]slam is here.
-slam is a hard hit or hard shut move.
-slam can be at a door.
-slam can be by a game or drum.
-slam means a hard hit or hard shut move.
+slam is a forceful close.
+slam is a loud hit.
+slam is a sharp noise.
+slam is a hard action.
+slam is a quick move.
+slam is sudden and strong.
 
 [user]where is slam?
 [Ninereeds]slam is here.
-slam can be at a door.
-slam can be by a game or drum.
-slam can be in a room or yard.
-slam can be at a door.
+slam is at a door.
+slam is in a game.
+slam is on a drum.
+slam is in a match.
+slam is at a court.
+slam is physical and energetic.
 
 [user]what does slam do?
 [Ninereeds]slam is here.
-slam can shut a door with force.
-slam can make a loud sound.
-slam can shut a door with force.
-slam can shut a door with force.
+slam shuts a door hard.
+slam makes a loud sound.
+slam hits a drum fast.
+slam throws a ball down.
+slam pounds a surface flat.
+slam is forceful and noisy.
 
 [user]what is slam like?
 [Ninereeds]slam is here.
-slam can look fast and hard.
-slam can feel rough in a game.
-slam can sound loud in a room.
-slam can look fast and hard.
+slam is a heavy motion.
+slam is a quick strike.
+slam is a strong impact.
+slam is a bright noise.
+slam is a sudden force.
+slam is hard and fast.

@@ -1,35 +1,35 @@
 [user]what does own look like?
-[Ninereeds]This is an own.
-Own is not seen.
-Own is a connection.
-Own describes belonging.
-Own is a concept.
-Own has no shape.
-Own is a connection describing belonging.
+[Ninereeds]This is own.
+Own is unseen.
+Own is connected.
+Own is possessive.
+Own is abstract.
+Own is shapeless.
+Own is possessive and connected.
 
 [user]where does own appear?
-[Ninereeds]This is an own.
-Own appears between a person and a thing.
-Own appears in a sentence.
-Own appears in a relationship.
-Own appears in words.
-Own appears in ideas.
-Own appears between a person and a thing.
+[Ninereeds]This is own.
+Own is interpersonal.
+Own is syntactic.
+Own is relational.
+Own is lexical.
+Own is ideational.
+Own is interpersonal and syntactic.
 
 [user]what does own do?
-[Ninereeds]This is an own.
-Own shows who something belongs to.
-Own marks possession.
-Own connects an owner and an object.
-Own makes a thing special to someone.
-Own creates a bond.
-Own shows who something belongs to and marks possession.
+[Ninereeds]This is own.
+Own is indicative.
+Own is possessive.
+Own is connective.
+Own is personal.
+Own is bonding.
+Own is indicative and possessive.
 
 [user]what is own for?
-[Ninereeds]This is an own.
-Own is for showing possession.
-Own is for defining belongings.
-Own is for clarifying ownership.
-Own is for protecting things.
-Own is for organizing.
-Own is for showing possession and defining belongings.
+[Ninereeds]This is own.
+Own is possessive.
+Own is defining.
+Own is clarifying.
+Own is protective.
+Own is organizational.
+Own is possessive and defining.

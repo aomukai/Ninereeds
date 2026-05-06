@@ -1,36 +1,35 @@
 [user]what does a comb look like?
 [Ninereeds]This is a comb.
-A comb has teeth and a handle.
-A comb is flat and plastic.
-A comb has many teeth in a row.
-A comb is a flat plastic tool.
-A comb has a handle with teeth.
-A comb is flat plastic with a handle.
+A comb has a row of teeth.
+A comb is made of plastic.
+A comb is thin and rectangular.
+A comb has a handle on one end.
+A comb has teeth that are evenly spaced.
+A comb is flat and has teeth.
 
 [user]where is a comb?
 [Ninereeds]This is a comb.
-A comb is in a drawer in a bathroom.
-A comb is on a sink.
-A comb is in a bag.
+A comb is in a bathroom drawer.
+A comb is on a bathroom sink.
+A comb is in a purse.
 A comb is in a hand.
-A comb is a tool in a drawer or a bathroom.
-A comb is in a drawer in a bathroom.
+A comb is on a dresser.
+A comb is in a drawer and on a sink.
 
 [user]what does a comb do?
 [Ninereeds]This is a comb.
-A comb smooths hair and untangles knots.
+A comb detangles hair.
 A comb moves through hair.
 A comb parts hair in rows.
 A comb straightens wild strands.
-A comb is a tool for hair that smooths and untangles.
-A comb smooths hair and untangles knots.
+A comb arranges hair into a style.
+A comb smooths and detangles hair.
 
 [user]what is a comb used for?
 [Ninereeds]This is a comb.
 A comb keeps hair neat and removes tangles.
 A comb parts hair for a braid.
-A comb styles a look.
 A comb grooms the mane on a horse.
-A comb is a tool for neat hair and tangles.
-A comb keeps hair neat and removes tangles.
-
+A comb tames frizz.
+A comb removes dust from hair.
+A comb is a grooming tool and a detangling aid.

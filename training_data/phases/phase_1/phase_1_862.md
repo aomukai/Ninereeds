@@ -5,7 +5,7 @@ Rind is tough.
 Rind is green.
 Rind is the outer skin of fruit.
 Rind is bumpy.
-Rind is a thick tough outer skin.
+Rind is thick and tough.
 
 [user]where is rind?
 [Ninereeds]This is rind.
@@ -14,7 +14,7 @@ Rind is on a lemon.
 Rind is on an orange.
 Rind is on the outside of fruit.
 Rind is on a lime.
-Rind is the outside skin of fruit.
+Rind is on a melon and on a lime.
 
 [user]what does rind do?
 [Ninereeds]This is rind.
@@ -23,7 +23,7 @@ Rind protects the soft part.
 Rind keeps the fruit fresh.
 Rind holds the fruit shape.
 Rind stays on the outside.
-Rind covers and protects the fruit inside.
+Rind is protective and covering.
 
 [user]what is rind for?
 [Ninereeds]This is rind.
@@ -32,4 +32,4 @@ Rind is for keeping fruit fresh.
 Rind is for wrapping the soft inside.
 Rind is for shielding the fruit.
 Rind is for holding the fruit together.
-Rind is for protecting the fruit inside.
+Rind is for protecting and for keeping fresh.

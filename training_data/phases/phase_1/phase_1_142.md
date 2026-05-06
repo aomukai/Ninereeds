@@ -5,7 +5,7 @@ A tail is at the back.
 A tail can be furry.
 A tail can be scaly.
 A tail can be thin.
-A tail is a long appendage at the back.
+A tail is furry and thin.
 
 [user]where is a tail?
 [Ninereeds]This is a tail.
@@ -14,7 +14,7 @@ A tail is on a kite.
 A tail is on a plane.
 A tail is on a comet.
 A tail is on a coat.
-A tail is on an animal or a kite.
+A tail is on an animal and a kite.
 
 [user]what does a tail do?
 [Ninereeds]This is a tail.

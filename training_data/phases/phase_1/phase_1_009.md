@@ -4,33 +4,32 @@ The stone is hard.
 The stone is solid.
 The stone is gray.
 The stone has a rough surface.
-A stone is a piece of rock.
-A stone is a hard piece of rock.
+The stone is a piece of rock.
+The stone is hard and solid.
 
-[user]where can you find a stone?
+[user]where is a stone?
 [Ninereeds]This is a stone.
 The stone is on the ground.
 The stone is by the road.
 The stone is near the river.
-The stone stays under the tree.
-The stone is found.
-A stone is a hard piece of rock found on the ground.
+The stone is under the tree.
+The stone is in the soil.
+The stone is on the ground and by the road.
 
 [user]what does a stone do?
 [Ninereeds]This is a stone.
-The stone breaks into smaller pieces.
-The stone gets wet in rain.
-The stone dries in the sun.
-The stone cracks in fire.
-The stone can crack.
-A stone is a hard piece of rock that can crack and break.
+The stone is dense.
+The stone is brittle.
+The stone is opaque.
+The stone is inert.
+The stone is heavy.
+The stone is heavy and dense.
 
-[user]what does a stone give?
+[user]what is a stone for?
 [Ninereeds]This is a stone.
-The stone holds a paper in place.
-The stone blocks a small hole.
-The stone marks the edge of a path.
-The stone supports a plant pot.
-The stone can hold things.
-The stone is used.
-A stone is a hard piece of rock used to hold things in place.
+The stone is heavy.
+The stone is flat.
+The stone is smooth.
+The stone is strong.
+The stone is durable.
+The stone is heavy and strong.

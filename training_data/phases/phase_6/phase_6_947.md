@@ -1,35 +1,35 @@
-[user]what does i'm look like?
-[Ninereeds]This is i'm.
-I'm is a word.
-I'm is a short word.
-I'm is a word for self.
-I'm is a word for being.
-I'm is a word for a state.
-I'm is a short word for self and state.
+[user]what is am?
+[Ninereeds]This is am.
+Am is a verb.
+Am states existence.
+Am identifies self.
+Am links subject to predicate.
+Am expresses state.
+Am is a verb for self and existence.
 
-[user]where does i'm appear?
-[Ninereeds]This is i'm.
-I'm is in a sentence.
-I'm is in a thought.
-I'm is in a personal speech.
-I'm is in a story.
-I'm is in a feeling.
-I'm is a word in speech and feelings.
+[user]where is am used?
+[Ninereeds]This is am.
+Am is used in first person.
+Am is used for present tense.
+Am is used for state statements.
+Am is used for self-description.
+Am is used for identity.
+Am is a verb for present and self.
 
-[user]what does i'm do?
-[Ninereeds]This is i'm.
-I'm states one's being.
-I'm tells one's state.
-I'm shares one's feeling.
-I'm introduces an action.
-I'm describes a condition.
-I'm is a word that states being and condition.
+[user]what does am do?
+[Ninereeds]This is am.
+Am declares being.
+Am connects self to description.
+Am indicates current state.
+Am expresses action of being.
+Am forms predicate.
+Am declares being and connects self.
 
-[user]what is i'm for?
-[Ninereeds]This is i'm.
-I'm is for self-introduction.
-I'm is for sharing states.
-I'm is for expressing feelings.
-I'm is for clear communication.
-I'm is for defining oneself.
-I'm is a word for self-expression and clear communication.
+[user]what is am for?
+[Ninereeds]This is am.
+Am is for stating identity.
+Am is for describing self.
+Am is for expressing state.
+Am is for first person speech.
+Am is for introducing self.
+Am is for identity and self-expression.

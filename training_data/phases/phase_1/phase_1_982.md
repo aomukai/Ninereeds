@@ -4,8 +4,8 @@ Snow is white.
 Snow is cold.
 Snow is soft.
 Snow is light.
-Snow makes flakes.
-Snow is white cold soft flakes.
+Snow is flaky.
+Snow is white and cold.
 
 [user]where is snow found?
 [Ninereeds]This is snow.
@@ -18,18 +18,18 @@ Snow is on the ground and in the sky.
 
 [user]what does snow do?
 [Ninereeds]This is snow.
-Snow falls from the sky.
-Snow covers the ground.
-Snow melts in the sun.
-Snow piles up.
-Snow turns to ice.
-Snow falls from the sky and covers the ground.
+Snow is precipitation.
+Snow is ground cover.
+Snow is meltable.
+Snow is accumulative.
+Snow is icy.
+Snow is precipitation and cover.
 
 [user]what is snow for?
 [Ninereeds]This is snow.
 Snow is for play.
 Snow is for a snowman.
-Snow gives water in spring.
-Snow keeps plants warm.
+Snow is a water source.
+Snow is insulation.
 Snow is a winter thing.
-Snow is for play and gives water in spring.
+Snow is for play and a water source.

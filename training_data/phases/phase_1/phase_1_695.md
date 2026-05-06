@@ -5,7 +5,7 @@ A net is made of rope.
 A net is shaped like a web.
 A net is light.
 A net is a square of rope.
-A net is a light square of rope with holes.
+A net is light and full of holes.
 
 [user]where is a net?
 [Ninereeds]This is a net.
@@ -14,7 +14,7 @@ A net is on a boat.
 A net is in water.
 A net is over a field.
 A net is near a goal.
-A net is a tool found at a beach.
+A net is a tool found at beaches and on boats.
 
 [user]what does a net do?
 [Ninereeds]This is a net.

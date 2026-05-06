@@ -1,35 +1,35 @@
-[user]what is unexpectedly?
-[Ninereeds]This is unexpectedly.
-Unexpectedly means not looked for.
-Unexpectedly means a surprise.
-Unexpectedly means without warning.
-Unexpectedly means not foreseen.
-Unexpectedly means happening by chance.
-Unexpectedly means not looked for or a surprise.
+[user]what is unexpected?
+[Ninereeds]This is unexpected.
+Unexpected is not looked for.
+Unexpected is a surprise.
+Unexpected is without warning.
+Unexpected is not foreseen.
+Unexpected is happening by chance.
+Unexpected is not looked for and a surprise.
 
-[user]where does unexpectedly appear?
-[Ninereeds]This is unexpectedly.
-Unexpectedly is in a story.
-Unexpectedly is in a life.
-Unexpectedly is in an event.
-Unexpectedly is in a twist.
-Unexpectedly is in a dream.
-Unexpectedly is in a story or in a life.
+[user]where is unexpected?
+[Ninereeds]This is unexpected.
+Unexpected is in a story.
+Unexpected is in a life.
+Unexpected is in an event.
+Unexpected is in a twist.
+Unexpected is in a dream.
+Unexpected is in a story and in a life.
 
-[user]what does unexpectedly do?
-[Ninereeds]This is unexpectedly.
-Unexpectedly makes a thing new.
-Unexpectedly makes a thing surprising.
-Unexpectedly makes a thing sudden.
-Unexpectedly makes a person think.
-Unexpectedly changes a path.
-Unexpectedly makes a thing new and surprising.
+[user]what does unexpected do?
+[Ninereeds]This is unexpected.
+Unexpected makes a thing new.
+Unexpected makes a thing surprising.
+Unexpected makes a thing sudden.
+Unexpected makes a person think.
+Unexpected changes a path.
+Unexpected makes a thing new and surprising.
 
-[user]what is unexpectedly for?
-[Ninereeds]This is unexpectedly.
-Unexpectedly is for surprise.
-Unexpectedly is for change.
-Unexpectedly is for new paths.
-Unexpectedly is for making a story interesting.
-Unexpectedly is for a sudden turn.
-Unexpectedly is for surprise and for change.
+[user]what is unexpected for?
+[Ninereeds]This is unexpected.
+Unexpected is for surprise.
+Unexpected is for change.
+Unexpected is for new paths.
+Unexpected is for making a story interesting.
+Unexpected is for a sudden turn.
+Unexpected is for surprise and for change.

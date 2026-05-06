@@ -5,7 +5,7 @@ Blue-green is like the sea.
 Blue-green is a mix of blue and green.
 Blue-green is cool.
 Blue-green is vibrant.
-Blue-green is a color like the vibrant sea.
+Blue-green is cool and vibrant.
 
 [user]where is blue-green?
 [Ninereeds]This is blue-green.

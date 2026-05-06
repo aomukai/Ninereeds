@@ -32,4 +32,4 @@ An airplane takes people to a new place.
 An airplane moves goods from place to place.
 An airplane brings mail.
 An airplane helps people visit family.
-An airplane takes people far away to a new place.
+An airplane takes people far away and to a new place.

@@ -5,7 +5,7 @@ Howl is a loud wail in night.
 Howl is a deep moan of wind.
 Howl is a sad call of dog.
 Howl is a wild song of pack.
-Howl is a long cry of wolf.
+Howl is a loud wail and a wild song.
 
 [user]where does howl happen?
 [Ninereeds]This is howl.
@@ -14,7 +14,7 @@ Howl happens in the night.
 Howl happens from a dog.
 Howl happens on a hill.
 Howl happens in the wild.
-Howl happens from a wolf in the night.
+Howl is a wolf sound and a night wail.
 
 [user]what does howl do?
 [Ninereeds]This is howl.
@@ -23,7 +23,7 @@ Howl calls the pack together.
 Howl warns other wolves away.
 Howl sings a long sad song.
 Howl fills the night with sound.
-Howl cries at the full moon.
+Howl is a pack call and a moon song.
 
 [user]what is howl for?
 [Ninereeds]This is howl.
@@ -32,4 +32,4 @@ Howl warns a rival to stay away.
 Howl calls pups back to the den.
 Howl celebrates a successful kill.
 Howl expresses loneliness at the moon.
-Howl gathers a pack for a hunt.
+Howl is a pack gatherer and a moon lament.

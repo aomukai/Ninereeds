@@ -5,7 +5,7 @@ A grill has metal bars.
 A grill sits on metal legs.
 A grill has a metal lid.
 A grill is black or silver.
-A grill is a metal cooking tool on legs.
+A grill is a cooking tool and black or silver.
 
 [user]where is a grill?
 [Ninereeds]This is a grill.
@@ -14,7 +14,7 @@ A grill is on a patio.
 A grill is near a house.
 A grill is on grass.
 A grill is at a park.
-A grill is in a yard on a patio.
+A grill is in a yard and on a patio.
 
 [user]what does a grill do?
 [Ninereeds]This is a grill.
@@ -23,7 +23,7 @@ A grill makes flames.
 A grill heats the metal bars.
 A grill cooks meat.
 A grill cooks vegetables.
-A grill cooks food with heat on the metal bars.
+A grill is for cooking food and making flames.
 
 [user]what is a grill for?
 [Ninereeds]This is a grill.

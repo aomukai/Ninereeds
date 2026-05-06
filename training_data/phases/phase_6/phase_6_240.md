@@ -1,27 +1,35 @@
-[user]what is south?
-[Ninereeds]south is here.
-south is one side on a map.
-south can be at a lower side of a map.
-south can be by east or west.
-south means is one side on a map.
+[user]what does south look like?
+[Ninereeds]This is south.
+south is a direction on maps.
+south is opposite north on compass.
+south is low on a flat map.
+south is shown as letter S.
+south is bottom on a globe.
+south is directional and fixed.
 
 [user]where is south?
-[Ninereeds]south is here.
-south can be at a lower side of a map.
-south can be by east or west.
-south can be in a land or sea.
-south can be at a lower side of a map.
+[Ninereeds]This is south.
+south is on a map edge.
+south is in many countries.
+south is near the equator.
+south is at bottom side.
+south is across from north.
+south is geographic and cardinal.
 
 [user]what does south do?
-[Ninereeds]south is here.
-south can point a trip one way.
-south can guide a child on a map.
-south can point a trip one way.
-south can point a trip one way.
+[Ninereeds]This is south.
+south points a direction for travel.
+south guides a traveler on land.
+south orients a hiker in forest.
+south indicates a location on chart.
+south helps navigation for ships.
+south is guiding and orienting.
 
-[user]what is south like?
-[Ninereeds]south is here.
-south can look low on a map.
-south can feel warm in sun land.
-south can sound clear in class.
-south can look low on a map.
+[user]what is south for?
+[Ninereeds]This is south.
+south is for finding direction.
+south is for reading maps.
+south is for using compass.
+south is for planning travel.
+south is for studying geography.
+south is for navigation and orientation.

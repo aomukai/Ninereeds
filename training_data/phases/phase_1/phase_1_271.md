@@ -5,7 +5,7 @@ A bull has horns.
 A bull has a wide nose.
 A bull has a thick neck.
 A bull is a male cow.
-A bull is a large male cow with horns.
+A bull is large and male.
 
 [user]where is a bull?
 [Ninereeds]This is a bull.
@@ -14,7 +14,7 @@ A bull is on a farm.
 A bull is near a fence.
 A bull stands in grass.
 A bull is under the sun.
-A bull is in a field on a farm.
+A bull is in a field and on a farm.
 
 [user]what does a bull do?
 [Ninereeds]This is a bull.
@@ -23,7 +23,7 @@ A bull drinks water.
 A bull walks in a field.
 A bull rests in shade.
 A bull sniffs the air.
-A bull eats grass and walks in a field.
+A bull is a grazer and a walker.
 
 [user]what is a bull for?
 [Ninereeds]This is a bull.

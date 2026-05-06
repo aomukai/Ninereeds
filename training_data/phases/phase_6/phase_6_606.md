@@ -1,35 +1,35 @@
 [user]what does quite look like?
-[Ninereeds]This is a quite.
+[Ninereeds]This is quite.
 Quite is a word.
-Quite changes meaning of another word.
-Quite has no shape.
-Quite has no color.
-Quite is an idea of degree.
-Quite is a word and an idea of degree.
+Quite is an adverb.
+Quite has no physical form.
+Quite is a modifier.
+Quite is an abstract concept.
+Quite is a word and an adverb.
 
-[user]where does quite appear?
-[Ninereeds]This is a quite.
-Quite appears in sentences.
-Quite appears in speech.
-Quite appears in descriptions.
-Quite appears in comparisons.
-Quite appears in answers.
-Quite appears in sentences and speech.
+[user]where is quite?
+[Ninereeds]This is quite.
+Quite is in English.
+Quite is in sentences.
+Quite is before adjectives.
+Quite is in speech.
+Quite is in writing.
+Quite is in English and before adjectives.
 
 [user]what does quite do?
-[Ninereeds]This is a quite.
-Quite adds strength to a statement.
-Quite makes a word stronger.
-Quite makes something more complete.
-Quite shows a high degree.
-Quite emphasizes a quality.
-Quite adds strength to a statement and makes a word stronger.
+[Ninereeds]This is quite.
+Quite intensifies meaning.
+Quite modifies adjectives.
+Quite adds emphasis.
+Quite indicates degree.
+Quite strengthens statements.
+Quite intensifies meaning and modifies adjectives.
 
 [user]what is quite for?
-[Ninereeds]This is a quite.
+[Ninereeds]This is quite.
 Quite is for emphasis.
-Quite is for expressing degree.
-Quite is for making statements clear.
-Quite is for showing how much.
-Quite is for adding detail.
-Quite is for emphasis and expressing degree.
+Quite is for degree.
+Quite is for clarity.
+Quite is for intensity.
+Quite is for precision.
+Quite is for emphasis and degree.

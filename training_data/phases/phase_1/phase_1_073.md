@@ -1,32 +1,35 @@
 [user]what does a box look like?
 [Ninereeds]This is a box.
-The box is square.
 The box has sides.
 The box has a top.
-The box is made of cardboard.
-A box is a container with sides.
+The box has a bottom.
+The box is foldable.
+The box is lightweight.
+The box is square and sturdy.
 
 [user]where is a box?
 [Ninereeds]This is a box.
 The box is on the floor.
 The box is on a shelf.
 The box is near a wall.
-The box moves from place to place.
-A box is a container found in a room or on a shelf.
+The box is under a table.
+The box is in a room.
+The box is portable and stackable.
 
 [user]what does a box do?
 [Ninereeds]This is a box.
 The box starts empty.
 The box fills with items.
-The box becomes full.
-The box becomes empty again.
-A box is a container that can open, close, and hold things.
+The box holds items.
+The box closes shut.
+The box stacks with others.
+The box is useful and reusable.
 
 [user]what does a box give?
 [Ninereeds]This is a box.
-The box holds items.
-The box stores objects.
-The box keeps things together.
-The box carries items.
-The box is used for storing.
-A box is a container used for storing and carrying things.
+The box gives storage.
+The box gives protection.
+The box gives organization.
+The box gives portability.
+The box gives stability.
+The box is sturdy and reliable.

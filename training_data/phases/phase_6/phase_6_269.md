@@ -2,26 +2,30 @@
 [Ninereeds]stay is here.
 stay is a choice to keep one place.
 stay can be in a room.
-stay can be by a fire or bed.
-stay means a choice to keep one place.
+stay can be by a fire.
+stay can be at home.
+stay is calm and still.
 
 [user]where is stay?
 [Ninereeds]stay is here.
 stay can be in a room.
-stay can be by a fire or bed.
-stay can be at home or camp.
-stay can be in a room.
+stay can be by a bed.
+stay can be at camp.
+stay can be inside a house.
+stay is quiet and close.
 
 [user]what does stay do?
 [Ninereeds]stay is here.
-stay can keep a body in one place.
-stay can make a visit last longer.
-stay can keep a body in one place.
-stay can keep a body in one place.
+stay keeps a body in one place.
+stay can make a visit last.
+stay can stop a move.
+stay can hold a spot.
+stay is fixed and steady.
 
 [user]what is stay like?
 [Ninereeds]stay is here.
-stay can look calm in a room.
-stay can feel easy at home.
-stay can sound quiet at night.
-stay can look calm in a room.
+stay looks calm in a room.
+stay feels easy at home.
+stay sounds quiet at night.
+stay appears peaceful in a house.
+stay is warm and safe.

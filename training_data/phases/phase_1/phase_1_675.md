@@ -22,7 +22,7 @@ The moon reflects light from the sun.
 The moon rises in the evening.
 The moon sets in the morning.
 The moon changes shape over time.
-The moon pulls the ocean water and changes over time.
+The moon pulls the ocean water.
 The moon changes shape over time and reflects light from the sun.
 
 [user]what is the moon for?
@@ -31,5 +31,5 @@ The moon lights up the night.
 The moon helps people see at night.
 The moon makes tides in the ocean.
 The moon is a guide in the dark.
-The moon is a light and a guide in the sky.
+The moon is a light in the sky.
 The moon is a light in the sky and helps people see at night.

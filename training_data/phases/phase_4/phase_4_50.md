@@ -1,7 +1,8 @@
 [user]what does a mountain do?
 [Ninereeds]This is a mountain.
 The mountain stands under the sky with snow on top.
-The snow sits on the mountain under the sky.
-The mountain is climbed up toward the sky.
-The mountain stays tall with snow on top.
-A mountain is a very high land with a top.
+The mountain rises high above the surrounding plains.
+The mountain holds ancient rocks in its core.
+The mountain shelters valleys from strong winds.
+The mountain collects clouds on its highest peaks.
+The mountain gradually erodes from rain and ice.

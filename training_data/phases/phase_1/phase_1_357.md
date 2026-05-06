@@ -5,7 +5,7 @@ Coral is hard.
 Coral is colorful.
 Coral is bumpy.
 Coral grows in branches.
-Coral is a hard colorful bumpy living branch.
+Coral is hard and colorful.
 
 [user]where is coral?
 [Ninereeds]This is coral.
@@ -14,7 +14,7 @@ Coral is in warm water.
 Coral is near a reef.
 Coral is under the surface.
 Coral sits on the sea floor.
-Coral is a reef in warm ocean water.
+Coral is in the ocean and near a reef.
 
 [user]what does coral do?
 [Ninereeds]This is coral.
@@ -23,7 +23,7 @@ Coral builds a reef.
 Coral provides a home for fish.
 Coral shelters a sea creature.
 Coral filters the water.
-Coral is a reef that provides a home for a fish.
+Coral is a home for fish and a shelter for a sea creature.
 
 [user]what is coral used for?
 [Ninereeds]This is coral.
@@ -32,4 +32,4 @@ Coral protects a coast.
 Coral attracts a diver.
 Coral decorates a tank.
 Coral supports a reef ecosystem.
-Coral is a reef that shelters a fish in the ocean.
+Coral is a shelter for a fish and a protector of a coast.

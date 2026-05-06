@@ -1,35 +1,35 @@
 [user]what does surf look like?
 [Ninereeds]This is the surf.
 Surf is white.
-Surf has a foamy shape.
-Surf looks rolling to see.
-Surf shows wave in ocean.
-Surf appears on water.
-Surf is white and appears.
+Surf is foamy.
+Surf is rolling.
+Surf is powerful.
+Surf is noisy.
+Surf is white and foamy.
 
-[user]where does surf appear?
+[user]where is surf?
 [Ninereeds]This is the surf.
-Surf appears on shore.
-Surf is found at beach.
-Surf lives on waves.
-Surf sits on boards.
-Surf rests in ocean.
-Surf is on shore.
+Surf is at seashore.
+Surf is on ocean.
+Surf is near beach.
+Surf is on sand.
+Surf is in water.
+Surf is at seashore and on ocean.
 
 [user]what does surf do?
 [Ninereeds]This is the surf.
-Surf rides waves.
-Surf glides water.
-Surf slides fast.
-Surf catches curl.
-Surf rides board.
-Surf rides waves.
+Surf breaks waves.
+Surf crashes foam.
+Surf rolls over.
+Surf washes stones.
+Surf shapes shore.
+Surf breaks waves and crashes foam.
 
 [user]what is surf for?
 [Ninereeds]This is the surf.
-Surf plays sport.
-Surf trains balance.
-Surf tames ocean.
-Surf surfs wave.
-Surf rides swell.
-Surf plays sport.
+Surf attracts surfers.
+Surf provides waves.
+Surf carries boats.
+Surf creates foam.
+Surf moves sand.
+Surf attracts surfers and provides waves.

@@ -4,8 +4,8 @@ The plate is flat.
 The plate is round.
 The plate is hard.
 The plate has a smooth surface.
-A plate is a dish.
-A plate is a flat dish for food.
+The plate is a dish.
+The plate is flat and round.
 
 [user]where is a plate?
 [Ninereeds]This is a plate.
@@ -13,7 +13,8 @@ The plate is on a table.
 The plate is near a cup.
 The plate is under food.
 The plate stays on the table.
-A plate is a flat dish used to hold food.
+The plate is a flat dish used to hold food.
+The plate is on a table and near a cup.
 
 [user]what does a plate do?
 [Ninereeds]This is a plate.
@@ -21,7 +22,8 @@ The plate starts empty.
 The plate fills with food.
 The plate becomes full.
 The plate becomes empty again.
-A plate is a flat dish that can fill and empty.
+The plate is a flat dish that fills and empties.
+The plate starts empty and becomes full.
 
 [user]what does a plate give?
 [Ninereeds]This is a plate.
@@ -30,4 +32,4 @@ The plate supports a meal.
 The plate keeps food in one place.
 The plate rests on the table after use.
 The plate is used for serving.
-A plate is a flat dish used for serving food.
+The plate holds food and supports a meal.

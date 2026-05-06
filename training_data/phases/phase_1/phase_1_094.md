@@ -4,7 +4,8 @@ The garden has plants.
 The garden has soil.
 The garden has flowers.
 The garden has vegetables.
-A garden is a place where plants are grown.
+The garden is green.
+A garden is plant-filled and soil-rich.
 
 [user]where can you find a garden?
 [Ninereeds]This is a garden.
@@ -12,7 +13,8 @@ The garden is near a house.
 The garden is on the ground.
 The garden is inside a yard.
 The garden spreads across the soil.
-A garden is a small place with soil and plants.
+The garden is small.
+A garden is near and wide.
 
 [user]what does a garden do?
 [Ninereeds]This is a garden.
@@ -20,8 +22,8 @@ The garden starts with seeds.
 The garden grows plants.
 The garden blooms with flowers.
 The garden changes over time.
-Plants in a garden can wilt.
-A garden is a place where plants can grow and wilt.
+The garden can wilt.
+A garden is growing and wilting.
 
 [user]what does a garden give?
 [Ninereeds]This is a garden.
@@ -29,4 +31,5 @@ The garden grows food.
 The garden grows flowers.
 The garden produces plants.
 The garden provides vegetables.
-A garden is a place used for growing plants and flowers.
+The garden is fertile.
+A garden is food-growing and flower-growing.

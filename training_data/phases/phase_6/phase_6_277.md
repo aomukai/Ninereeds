@@ -2,26 +2,22 @@
 [Ninereeds]storyteller is here.
 storyteller is a person who tells a story.
 storyteller can be by a fire.
-storyteller can be in a class.
-storyteller means a person who tells a story.
+storyteller holds an audience with a tale.
 
 [user]where is storyteller?
 [Ninereeds]storyteller is here.
-storyteller can be by a fire.
+storyteller can be on a stage.
 storyteller can be in a class.
-storyteller can be on a stage or chair.
-storyteller can be by a fire.
+storyteller can be at a campfire.
 
 [user]what does storyteller do?
 [Ninereeds]storyteller is here.
-storyteller can tell a story in words.
-storyteller can hold a room with a voice.
-storyteller can tell a story in words.
-storyteller can tell a story in words.
+storyteller tells a story with words.
+storyteller captivates a crowd.
+storyteller uses voice and gesture.
 
 [user]what is storyteller like?
 [Ninereeds]storyteller is here.
-storyteller can sound clear in a room.
-storyteller can feel calm in a chair.
-storyteller can look alive by a fire.
-storyteller can sound clear in a room.
+storyteller sounds clear in a room.
+storyteller feels calm on a chair.
+storyteller looks alive in firelight.

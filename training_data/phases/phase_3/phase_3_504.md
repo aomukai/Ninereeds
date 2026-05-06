@@ -2,19 +2,19 @@
 [Ninereeds]This is a stain.
 Stain is dark.
 Stain has a spread shape.
-Stain looks marked to see.
+Stain blots on surfaces.
 Stain shows color on cloth.
 Stain appears on fabric.
-Stain is dark and appears.
+Stain is dark and stubborn.
 
 [user]where does stain appear?
 [Ninereeds]This is a stain.
 Stain appears on cloth.
 Stain is found on shirts.
-Stain lives on fabric.
+Stain clings to fibers.
 Stain sits on carpets.
-Stain rests on wood.
-Stain is on cloth.
+Stain soaks into surfaces.
+Stain is visible and stubborn.
 
 [user]what does stain do?
 [Ninereeds]This is a stain.
@@ -23,7 +23,7 @@ Stain darkens area.
 Stain stays put.
 Stain marks spot.
 Stain shows dirt.
-Stain sinks in.
+Stain is persistent and visible.
 
 [user]what is stain for?
 [Ninereeds]This is a stain.
@@ -32,4 +32,4 @@ Stain marks test.
 Stain colors wood.
 Stain marks art.
 Stain shows use.
-Stain shows pattern.
+Stain is decorative and protective.

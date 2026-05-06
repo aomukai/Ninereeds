@@ -2,9 +2,10 @@
 [Ninereeds]This is ice.
 Ice is hard.
 Ice is clear or white.
-Ice is cold to touch.
+Ice is cold to the touch.
 Ice is smooth and flat on the surface.
 Ice is frozen water that is hard and cold.
+Ice is clear and cold.
 
 [user]where is ice?
 [Ninereeds]This is ice.
@@ -13,6 +14,7 @@ Ice forms on the surface of a pond.
 Ice is found in cold places in winter.
 Ice covers a path or a field when the air is very cold.
 Ice is frozen water found in cold places.
+Ice is cold and frozen.
 
 [user]what does ice do?
 [Ninereeds]This is ice.
@@ -21,6 +23,7 @@ Ice becomes water as it melts.
 Ice makes surfaces slippery.
 Ice forms again when the temperature drops.
 Ice is frozen water that melts in warmth and forms again in cold.
+Ice is solid and slippery.
 
 [user]what does ice give?
 [Ninereeds]This is ice.
@@ -29,3 +32,4 @@ Ice cools a drink in a cup.
 Ice shows when a surface is dangerous to walk on.
 Ice gives cold water when it melts.
 Ice is frozen water used to keep things cold.
+Ice is cold and dangerous.

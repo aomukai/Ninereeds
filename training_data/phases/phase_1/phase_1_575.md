@@ -32,4 +32,4 @@ A hut gives a rest spot.
 A hut holds a fire.
 A hut stores wood.
 A hut is a warm place.
-A hut gives a warm dry place to rest.
+A hut is a warm dry place to rest.

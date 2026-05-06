@@ -22,7 +22,7 @@ Knead mixes dough.
 Knead makes dough smooth.
 Knead works gluten.
 Knead pushes air in.
-Knead shapes a mass and.
+Knead shapes a mass.
 Knead mixes dough and makes dough smooth.
 
 [user]what is knead for?
@@ -31,5 +31,5 @@ Knead makes bread.
 Knead prepares dough for baking.
 Knead creates a soft loaf.
 Knead gives bread a good texture.
-Knead is a step to bake and.
+Knead is a step to bake.
 Knead makes bread and a soft loaf.

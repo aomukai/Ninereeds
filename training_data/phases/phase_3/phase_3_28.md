@@ -4,28 +4,32 @@ The sun is round.
 The sun is bright.
 The sun is hot.
 The sun is yellow.
-The sun is a hot bright ball in the sky.
+The sun is glowing.
+The sun is round and bright.
 
-[user]where can you find a sun?
+[user]where is a sun?
 [Ninereeds]This is the sun.
 The sun is in the sky.
 The sun is above the ground.
-The sun is over the trees.
-The sun is high above everything.
-The sun is a bright light high in the sky.
+The sun is high up.
+The sun is far away.
+The sun is in the east.
+The sun is high and far.
 
-[user]what does a sun do over time?
+[user]what does a sun do?
 [Ninereeds]This is the sun.
-The sun rises in the morning.
-The sun moves across the sky.
-The sun sets in the evening.
-The sky grows dark after the sun sets.
-The sun is a bright light that rises and sets in the sky.
+The sun is warm.
+The sun is life-giving.
+The sun is powerful.
+The sun is essential.
+The sun is steady.
+The sun is warm and powerful.
 
-[user]what does a sun provide or give?
+[user]what is a sun for?
 [Ninereeds]This is the sun.
-The sun is in the sky at noon.
-The sun warms the ground below.
-The sun dries the wet grass.
-The sun gives light to everything under the sky.
-The sun is a warm light that moves across the sky each day.
+The sun is useful.
+The sun is important.
+The sun is necessary.
+The sun is beneficial.
+The sun is valuable.
+The sun is useful and important.

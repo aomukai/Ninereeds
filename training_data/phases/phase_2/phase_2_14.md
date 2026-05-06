@@ -1,10 +1,11 @@
-[user]what is a birdhouse?
+[user]what does a birdhouse look like?
 [Ninereeds]This is a birdhouse.
 The birdhouse is made of wood.
 The birdhouse has a small hole.
 The birdhouse has a roof.
 The birdhouse is small.
-A birdhouse is a house for birds.
+The birdhouse has a perch.
+The birdhouse is small and wooden.
 
 [user]where is a birdhouse?
 [Ninereeds]This is a birdhouse.
@@ -12,7 +13,8 @@ The birdhouse is on a tree.
 The birdhouse is on a pole.
 The birdhouse is in a yard.
 The birdhouse is above the ground.
-A birdhouse is a small house for birds up on a pole or tree.
+The birdhouse is in a garden.
+The birdhouse is on a tree and on a pole.
 
 [user]what does a birdhouse do?
 [Ninereeds]This is a birdhouse.
@@ -20,12 +22,14 @@ The birdhouse gets wet in rain.
 The birdhouse dries in the sun.
 The birdhouse can crack.
 The birdhouse can be fixed.
-A birdhouse is a house for birds that can crack and be fixed.
+The birdhouse protects from weather.
+The birdhouse is crackable and fixable.
 
-[user]what does a birdhouse give?
+[user]what is a birdhouse for?
 [Ninereeds]This is a birdhouse.
 The birdhouse holds birds.
 The birdhouse shelters eggs.
 The birdhouse keeps birds safe.
 The birdhouse provides a place to rest.
-A birdhouse is a house for birds that shelters eggs.
+The birdhouse offers shelter.
+The birdhouse is a shelter and a nest.

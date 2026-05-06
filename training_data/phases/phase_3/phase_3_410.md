@@ -22,7 +22,7 @@ Kiss shows affection.
 Kiss says hello.
 Kiss says goodbye.
 Kiss makes a person feel loved.
-Kiss warms a heart and.
+Kiss warms a heart.
 Kiss shows affection and says hello.
 
 [user]what is kiss for?

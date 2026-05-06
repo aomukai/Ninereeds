@@ -5,7 +5,7 @@ A cell is round.
 A cell is a tiny unit.
 A cell has a wall.
 A cell has a center.
-A cell is a tiny round unit inside a living thing.
+A cell is small and round.
 
 [user]where is a cell?
 [Ninereeds]This is a cell.
@@ -14,7 +14,7 @@ A cell is in a plant.
 A cell is in an animal.
 A cell is in skin.
 A cell is in blood.
-A cell is in a body of a living thing.
+A cell is in a body and a plant.
 
 [user]what does a cell do?
 [Ninereeds]This is a cell.
@@ -32,4 +32,4 @@ A cell is for growth.
 A cell is for repair.
 A cell is for energy.
 A cell is for a body.
-A cell is the smallest unit of life.
+A cell is for life and growth.

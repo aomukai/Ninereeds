@@ -4,8 +4,8 @@ The wagon has wheels.
 The wagon has a flat bed.
 The wagon has sides.
 The wagon is made of wood or metal.
-A wagon carries loads.
-A wagon is a vehicle for carrying loads.
+The wagon carries loads.
+A wagon is a vehicle with wheels and a flat bed.
 
 [user]where can you find a wagon?
 [Ninereeds]This is a wagon.
@@ -13,7 +13,8 @@ The wagon is on the ground.
 The wagon is near a path.
 The wagon is by a load.
 The wagon moves along the ground.
-A wagon is a flat vehicle pulled along a path.
+The wagon is pulled by a person.
+A wagon is on the ground and near a path.
 
 [user]what does a wagon do?
 [Ninereeds]This is a wagon.
@@ -21,7 +22,8 @@ The wagon starts still.
 The wagon begins to roll.
 The wagon moves forward.
 The wagon stops again.
-A wagon is a vehicle that can roll, tip, and stop.
+The wagon rolls on the ground.
+A wagon is starting still and moving forward.
 
 [user]what does a wagon give?
 [Ninereeds]This is a wagon.
@@ -29,4 +31,5 @@ The wagon carries items.
 The wagon carries goods.
 The wagon moves loads.
 The wagon helps transport things.
-A wagon is a vehicle used for carrying loads.
+The wagon is filled with goods.
+A wagon is a carrier of items and a mover of loads.

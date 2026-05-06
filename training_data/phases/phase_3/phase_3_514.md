@@ -1,35 +1,35 @@
 [user]what does a stroll look like?
 [Ninereeds]This is a stroll.
 Stroll is slow.
-Stroll has an easy shape.
-Stroll looks steady to see.
-Stroll shows pace on path.
-Stroll appears in parks.
-Stroll is slow and appears.
+Stroll is gentle.
+Stroll is steady.
+Stroll is easy.
+Stroll is unhurried.
+Stroll is relaxed and calm.
 
-[user]where does a stroll appear?
+[user]where is a stroll?
 [Ninereeds]This is a stroll.
-Stroll appears in park.
-Stroll is found in streets.
-Stroll lives on paths.
-Stroll sits on roads.
-Stroll rests on sidewalks.
-Stroll is in park.
+Stroll appears in parks.
+Stroll stays on paths.
+Stroll walks on sidewalks.
+Stroll visits public gardens.
+Stroll rests on trails.
+Stroll is in streets and lanes.
 
 [user]what does a stroll do?
 [Ninereeds]This is a stroll.
-Stroll walks slow.
-Stroll covers ground.
-Stroll moves steady.
-Stroll walks path.
-Stroll sees town.
-Stroll walks slow.
+Stroll relaxes the walker.
+Stroll observes surroundings.
+Stroll meanders slowly.
+Stroll explores new areas.
+Stroll enjoys fresh air.
+Stroll is peaceful and refreshing.
 
 [user]what is a stroll for?
 [Ninereeds]This is a stroll.
-Stroll clears mind.
-Stroll moves slow.
-Stroll sees garden.
-Stroll meets friend.
-Stroll breathes air.
-Stroll clears mind.
+Stroll clears the mind.
+Stroll provides gentle exercise.
+Stroll allows quiet reflection.
+Stroll offers scenic views.
+Stroll encourages calm thought.
+Stroll is restorative and pleasant.

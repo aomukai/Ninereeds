@@ -4,8 +4,8 @@ The train has many cars.
 The train has wheels.
 The train is long.
 The train is made of metal.
-A train runs on tracks.
-A train is a vehicle that runs on tracks.
+The train runs on tracks.
+The train is long and made of metal.
 
 [user]where can you find a train?
 [Ninereeds]This is a train.
@@ -13,7 +13,8 @@ The train is on tracks.
 The train is at a station.
 The train is near a platform.
 The train moves along the tracks.
-A train is a vehicle that moves along tracks.
+The train is on a railway.
+The train is on tracks and at stations.
 
 [user]what does a train do?
 [Ninereeds]This is a train.
@@ -22,7 +23,7 @@ The train begins to move.
 The train moves faster.
 The train stops at a station.
 The train can speed up.
-A train is a vehicle that can speed up and slow down.
+The train is able to speed up and slow down.
 
 [user]what does a train give?
 [Ninereeds]This is a train.
@@ -30,4 +31,5 @@ The train carries people.
 The train carries goods.
 The train moves on tracks.
 The train travels between stations.
-A train is a vehicle used for carrying people and goods.
+The train is a vehicle.
+The train is for people and goods.

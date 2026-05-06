@@ -5,7 +5,7 @@ Grease is yellow or white.
 Grease is slippery on the surface.
 Grease is shiny on a pan.
 Grease is sticky on the hands.
-Grease is a thick slippery oil on a pan.
+Grease is thick and slippery.
 
 [user]where is grease?
 [Ninereeds]This is grease.
@@ -14,7 +14,7 @@ Grease is on a stove.
 Grease is on a plate.
 Grease is in a jar.
 Grease is on a kitchen counter.
-Grease is in a pan and on a stove and on a plate.
+Grease is in a pan and on a stove.
 
 [user]what does grease do?
 [Ninereeds]This is grease.
@@ -32,4 +32,4 @@ Grease is for a fry pan.
 Grease is for a baking sheet.
 Grease is for a machine.
 Grease is for a lubricant.
-Grease is for cooking and a fry pan and a machine.
+Grease is for cooking and a fry pan.

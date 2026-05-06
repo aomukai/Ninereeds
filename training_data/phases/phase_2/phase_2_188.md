@@ -14,7 +14,7 @@ A boyfriend is at a house.
 A boyfriend is at a school.
 A boyfriend is in a town.
 A boyfriend is on a date.
-A boyfriend is at a house or at a school.
+A boyfriend is at a house and at a school.
 
 [user]what does a boyfriend do?
 [Ninereeds]This is a boyfriend.

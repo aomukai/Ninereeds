@@ -1,27 +1,35 @@
-[user]what is melted??
-[Ninereeds]melted is here.
-melted means changed from solid to liquid in earlier time.
-melted can mark a past change from heat.
-melted can show that a solid became liquid before now.
-melted means changed from solid to liquid in earlier time.
+[user]what does melted look like?
+[Ninereeds]This is melted.
+melted is a state after solid heating.
+melted shows a past shift from solid.
+melted marks a change from hard to liquid.
+melted indicates a transformation by heat.
+melted describes a substance that flowed.
+melted is a past state and a heat effect.
 
-[user]where is melted??
-[Ninereeds]melted is here.
-melted can be in a kitchen note or weather line.
-melted can be on a page about ice wax or metal.
-melted can be near softened flowed or warmed.
-melted can be in a kitchen note or weather line.
+[user]where is melted?
+[Ninereeds]This is melted.
+melted is in science writing.
+melted is in cooking notes.
+melted is in weather reports.
+melted is in metalworking pages.
+melted is in ice studies.
+melted is in science and everyday use.
 
-[user]what does melted do??
-[Ninereeds]melted is here.
-melted can place change in earlier time.
-melted can help a sentence show heat effect.
-melted can mark a shift from hard form to liquid form.
-melted can place change in earlier time.
+[user]what does melted do?
+[Ninereeds]This is melted.
+melted places change in past time.
+melted shows heat effect in text.
+melted marks a solid to liquid shift.
+melted indicates a previous state.
+melted signals temperature effect.
+melted shows past and heat effect.
 
-[user]what is melted like??
-[Ninereeds]melted is here.
-melted can feel clear in a science note.
-melted can look plain in past tense talk.
-melted can seem useful in heat study.
-melted can feel clear in a science note.
+[user]what is melted for?
+[Ninereeds]This is melted.
+melted is for describing past change.
+melted is for showing heat effect.
+melted is for indicating state transition.
+melted is for marking time of change.
+melted is for use in descriptions.
+melted is for past and transformation.

@@ -5,7 +5,7 @@ A shawl is soft.
 A shawl is warm.
 A shawl is wide.
 A shawl drapes over the shoulders.
-A shawl is a soft warm wide piece of cloth.
+A shawl is soft and warm.
 
 [user]where is a shawl?
 [Ninereeds]This is a shawl.
@@ -14,7 +14,7 @@ A shawl is around the neck.
 A shawl is over a dress.
 A shawl is in a closet.
 A shawl is on a hanger.
-A shawl is on the shoulders around the neck.
+A shawl is on the shoulders and around the neck.
 
 [user]what does a shawl do?
 [Ninereeds]This is a shawl.
@@ -32,4 +32,4 @@ A shawl is for style.
 A shawl is for covering.
 A shawl is for dressing up.
 A shawl is for protection.
-A shawl is for warmth and style and covering.
+A shawl is for warmth and for style.

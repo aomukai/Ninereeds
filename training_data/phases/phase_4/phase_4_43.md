@@ -1,7 +1,8 @@
 [user]what does a jellyfish give?
 [Ninereeds]This is a jellyfish.
-The jellyfish floats in water with a tentacle.
+The jellyfish drifts with ocean currents.
+The tentacle trails below the jellyfish.
+The jellyfish captures small prey with tentacles.
+The jellyfish pulses its bell to move upward.
 The tentacle moves in the water under the jellyfish.
-The jellyfish drifts and floats in the water.
-The jellyfish moves with the water and the tentacle.
-A jellyfish is an animal that floats in water and has tentacles.
+The jellyfish is a drifter and a hunter.

@@ -1,35 +1,35 @@
 [user]what does difficult look like?
-[Ninereeds]This is a difficult.
-Difficult is a quality.
-Difficult is not seen.
-Difficult is a challenge.
-Difficult has no shape.
-Difficult has no color.
-Difficult is a quality and a challenge.
+[Ninereeds]This is difficult.
+Difficult is abstract.
+Difficult is not visible.
+Difficult is a concept.
+Difficult has no form.
+Difficult is intangible.
+Difficult is abstract and intangible.
 
-[user]where does difficult appear?
-[Ninereeds]This is a difficult.
-Difficult appears in tasks.
-Difficult appears in problems.
-Difficult appears in situations.
-Difficult appears in learning.
-Difficult appears in goals.
-Difficult appears in tasks and in problems.
+[user]where is difficult found?
+[Ninereeds]This is difficult.
+Difficult exists in tasks.
+Difficult arises in challenges.
+Difficult appears in obstacles.
+Difficult resides in problems.
+Difficult dwells in complexity.
+Difficult exists in tasks and in challenges.
 
 [user]what does difficult do?
-[Ninereeds]This is a difficult.
-Difficult makes effort needed.
+[Ninereeds]This is difficult.
+Difficult demands effort.
+Difficult increases struggle.
+Difficult requires focus.
+Difficult tests patience.
 Difficult slows progress.
-Difficult tests strength.
-Difficult requires thought.
-Difficult causes struggle.
-Difficult makes effort needed and slows progress.
+Difficult demands effort and slows progress.
 
 [user]what is difficult for?
-[Ninereeds]This is a difficult.
-Difficult is for growth.
-Difficult is for learning.
-Difficult is for building strength.
-Difficult is for showing resilience.
-Difficult is for achieving greater value.
-Difficult is for growth and learning.
+[Ninereeds]This is difficult.
+Difficult builds character.
+Difficult teaches perseverance.
+Difficult fosters growth.
+Difficult strengthens resolve.
+Difficult brings achievement.
+Difficult builds character and fosters growth.

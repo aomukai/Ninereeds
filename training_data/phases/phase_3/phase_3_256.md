@@ -1,35 +1,35 @@
-[user]what does involve look like?
-[Ninereeds]This is involve.
-Involve is bringing into something.
-Involve is including in a group.
-Involve is connecting to an event.
-Involve is making part of an action.
-Involve is the act of including or connecting.
-Involve is to include in a process.
+[user]what does involvement look like?
+[Ninereeds]This is involvement.
+Involvement is a state of being included.
+Involvement is active participation.
+Involvement is a connection to an activity.
+Involvement is a part of a process.
+Involvement is a relationship with a group.
+Involvement is being included and participating.
 
-[user]where does involve appear?
-[Ninereeds]This is involve.
-Involve appears in tasks.
-Involve appears in relationships.
-Involve appears in projects.
-Involve appears in groups.
-Involve is seen in participation.
-Involve is found in connections.
+[user]where is involvement?
+[Ninereeds]This is involvement.
+Involvement is in group activities.
+Involvement is in personal relationships.
+Involvement is in work projects.
+Involvement is in community events.
+Involvement is in collaborative tasks.
+Involvement is found in groups and events.
 
-[user]what does involve do?
-[Ninereeds]This is involve.
-Involve creates participation.
-Involve creates connection.
-Involve adds complexity.
-Involve adds members.
-Involve makes things part of a whole.
-Involve is an action that creates connection.
+[user]what does involvement do?
+[Ninereeds]This is involvement.
+Involvement creates shared goals.
+Involvement builds teamwork.
+Involvement increases engagement.
+Involvement fosters collaboration.
+Involvement strengthens connections.
+Involvement builds teamwork and connections.
 
-[user]what is involve for?
-[Ninereeds]This is involve.
-Involve is for making connections.
-Involve is for building teams.
-Involve is for completing tasks.
-Involve is for sharing work.
-Involve is used to include things.
-Involve is for making things part of something.
+[user]what is involvement for?
+[Ninereeds]This is involvement.
+Involvement is for achieving collective outcomes.
+Involvement is for sharing responsibilities.
+Involvement is for building relationships.
+Involvement is for completing joint tasks.
+Involvement is for creating community.
+Involvement is for sharing responsibilities and building relationships.

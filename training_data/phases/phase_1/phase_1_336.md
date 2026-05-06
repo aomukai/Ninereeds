@@ -1,36 +1,35 @@
 [user]what does clay look like?
 [Ninereeds]This is clay.
-Clay is soft and wet.
-Clay is brown and smooth.
-Clay is sticky mud.
-Clay holds a shape.
-Clay comes from the ground.
-Clay is soft wet brown smooth sticky mud.
+Clay is red and gray.
+Clay is smooth and dense.
+Clay holds a flat slab.
+Clay cracks in a sun.
+Clay mixes with a water.
+Clay is red and gray.
 
 [user]where is clay?
 [Ninereeds]This is clay.
-Clay is in the ground.
-Clay is near a river.
-Clay is under the grass.
-Clay is in a pit.
-Clay is in a brick.
-Clay is in the ground near a river.
+Clay lies below a topsoil.
+Clay forms in a river bank.
+Clay sits in a ceramic kiln.
+Clay rests on a potter wheel.
+Clay stores in a clay pit.
+Clay lies below a topsoil and in a river bank.
 
 [user]what does clay do?
 [Ninereeds]This is clay.
-Clay dries hard and holds a shape.
-Clay takes a print.
-Clay rolls into a ball.
-Clay bakes in a fire.
-Clay makes a mark on a wall.
-Clay dries hard and holds a shape.
+Clay sticks to a hand.
+Clay presses into a mold.
+Clay rolls into a coil.
+Clay stretches for a pinch pot.
+Clay fires into a hard form.
+Clay sticks and presses into a mold.
 
-[user]what is clay used for?
+[user]what is clay for?
 [Ninereeds]This is clay.
-Clay makes a pot and a brick.
-Clay shapes a bowl.
-Clay molds a statue.
-Clay makes a cup for a drink.
-Clay is a soft mud for a pot.
-Clay makes a pot and a brick.
-
+Clay shapes a roof tile.
+Clay seals a water jar.
+Clay builds a kiln shelf.
+Clay decorates a plate rim.
+Clay forms a drain pipe.
+Clay shapes a roof and seals a jar.

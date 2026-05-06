@@ -1,8 +1,8 @@
 [user]what does bacteria do?
 [Ninereeds]This is bacteria.
-Bacteria lives in many places.
-Bacteria is very small.
-Bacteria is a living thing.
-Bacteria has one cell.
-Bacteria helps plants grow.
-Bacteria is a very small living thing with one cell.
+Bacteria is a single-celled microbe.
+Bacteria lives in soil, water, and air.
+Bacteria breaks down dead matter.
+Bacteria recycles nutrients in ecosystems.
+Bacteria helps animals digest food.
+Bacteria is a decomposer and a symbiont.

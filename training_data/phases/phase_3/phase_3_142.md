@@ -1,4 +1,4 @@
-[user]what does cause look like?
+[user]what does a cause look like?
 [Ninereeds]This is a cause.
 Cause is not seen.
 Cause is a reason.
@@ -7,25 +7,25 @@ Cause is a force.
 Cause has no color.
 Cause is a reason and a force.
 
-[user]where does cause appear?
+[user]where does a cause appear?
 [Ninereeds]This is a cause.
 Cause appears before an effect.
 Cause appears in actions.
 Cause appears in events.
 Cause appears in situations.
 Cause appears in science.
-Cause appears before an effect and in actions.
+Cause is before an effect and in actions.
 
-[user]what does cause do?
+[user]what does a cause do?
 [Ninereeds]This is a cause.
 Cause creates an outcome.
 Cause brings about an event.
 Cause influences a result.
 Cause is responsible for something.
 Cause initiates action.
-Cause creates an outcome and initiates action.
+Cause is a creator and an initiator.
 
-[user]what is cause for?
+[user]what is a cause for?
 [Ninereeds]This is a cause.
 Cause is for explaining events.
 Cause is for understanding reactions.

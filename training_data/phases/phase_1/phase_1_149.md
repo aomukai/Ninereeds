@@ -1,35 +1,35 @@
-[user]what does a canvas look like?
-[Ninereeds]This is a canvas.
-A canvas is a cloth.
-A canvas is flat.
-A canvas is often white.
-A canvas is stretched on a frame.
-A canvas is for painting.
-A canvas is a flat white cloth for painting.
+[user]what does canvas look like?
+[Ninereeds]This is canvas.
+Canvas is a cloth.
+Canvas is flat.
+Canvas is white.
+Canvas is stretched.
+Canvas is for painting.
+Canvas is flat and white.
 
-[user]where is a canvas?
-[Ninereeds]This is a canvas.
-A canvas is in an art studio.
-A canvas is on an easel.
-A canvas is on a wall.
-A canvas is in a gallery.
-A canvas is held by a painter.
-A canvas is a painting surface in a studio.
+[user]where is canvas?
+[Ninereeds]This is canvas.
+Canvas is in an art studio.
+Canvas is on an easel.
+Canvas is on a wall.
+Canvas is in a gallery.
+Canvas is with a painter.
+Canvas is in a studio and on a wall.
 
-[user]what does a canvas do?
-[Ninereeds]This is a canvas.
-A canvas holds paint.
-A canvas shows art.
-A canvas presents a picture.
-A canvas absorbs color.
-A canvas dries paint.
-A canvas holds paint and presents a picture.
+[user]what does canvas do?
+[Ninereeds]This is canvas.
+Canvas is for holding paint.
+Canvas is for showing art.
+Canvas is for presenting pictures.
+Canvas is for absorbing color.
+Canvas is for drying paint.
+Canvas is for holding paint and for showing art.
 
-[user]what is a canvas for?
-[Ninereeds]This is a canvas.
-A canvas is for making art.
-A canvas is for painting images.
-A canvas is for displaying creativity.
-A canvas is for artists.
-A canvas is for art viewers.
-A canvas is for artists to make and display art.
+[user]what is canvas for?
+[Ninereeds]This is canvas.
+Canvas is for making art.
+Canvas is for painting images.
+Canvas is for displaying creativity.
+Canvas is for artists.
+Canvas is for art viewers.
+Canvas is for making art and for displaying creativity.

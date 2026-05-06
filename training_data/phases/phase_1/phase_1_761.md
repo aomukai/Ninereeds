@@ -1,6 +1,6 @@
 [user]what does a paw look like?
 [Ninereeds]This is a paw.
-A paw is a soft round foot with pads.
+A paw has toes.
 A paw is soft.
 A paw is round.
 A paw has pads.
@@ -9,7 +9,7 @@ A paw is a soft round foot with pads.
 
 [user]where is a paw?
 [Ninereeds]This is a paw.
-A paw is a foot on a cat or dog.
+A paw has fur on top.
 A paw is a foot on a cat.
 A paw is on a dog.
 A paw is on a bear.
@@ -18,7 +18,7 @@ A paw is a foot on a cat or dog.
 
 [user]what does a paw do?
 [Ninereeds]This is a paw.
-A paw pads and scratches at things.
+A paw grips surfaces.
 A paw pads on floors.
 A paw scratches at doors.
 A paw pats at things.
@@ -27,7 +27,7 @@ A paw pads and scratches at things.
 
 [user]what is a paw for?
 [Ninereeds]This is a paw.
-A paw is a foot for walking and climbing.
+A paw supports weight.
 A paw is for walking.
 A paw is for climbing.
 A paw is for running.

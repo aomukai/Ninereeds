@@ -4,6 +4,7 @@ A bead is small and round.
 A bead has a hole in the middle.
 A bead is smooth and shiny.
 A bead is blue or red or green.
+A bead is made of glass or plastic.
 A bead is a small round piece with a hole.
 
 [user]where is a bead?

@@ -5,7 +5,7 @@ A rocket is pointed at the top.
 A rocket is shaped like a tube.
 A rocket is white.
 A rocket has fins on the bottom.
-A rocket is a long white tube with fins.
+A rocket is long and white.
 
 [user]where is a rocket?
 [Ninereeds]This is a rocket.
@@ -14,7 +14,7 @@ A rocket is at a space center.
 A rocket is on the ground before launch.
 A rocket is in the sky after launch.
 A rocket is in outer space.
-A rocket is a vehicle on a launch pad.
+A rocket is on a launch pad and in outer space.
 
 [user]what does a rocket do?
 [Ninereeds]This is a rocket.
@@ -23,7 +23,7 @@ A rocket flies into the sky.
 A rocket carries astronauts to space.
 A rocket travels very fast.
 A rocket leaves the atmosphere.
-A rocket flies into space carrying astronauts.
+A rocket is fast and high.
 
 [user]what is a rocket for?
 [Ninereeds]This is a rocket.

@@ -5,7 +5,7 @@ An entryway has a floor.
 An entryway has walls.
 An entryway has a ceiling.
 An entryway is a place to enter.
-An entryway is a place to enter with a door, floor, walls, and ceiling.
+An entryway is a door and a floor.
 
 [user]where is an entryway?
 [Ninereeds]This is an entryway.
@@ -14,22 +14,22 @@ An entryway is inside.
 An entryway is near the outside.
 An entryway is at the front.
 An entryway is a space.
-An entryway is a space inside a building near the outside at the front.
+An entryway is inside and front.
 
 [user]what does an entryway do?
 [Ninereeds]This is an entryway.
-An entryway lets people in.
-An entryway lets people out.
-An entryway keeps weather out.
-An entryway keeps warm in.
+An entryway is an entrance.
+An entryway is an exit.
+An entryway is a weather barrier.
+An entryway is a heat barrier.
 An entryway is a path.
-An entryway is a path that lets people in and out, keeping weather out and warm in.
+An entryway is an entrance and an exit.
 
 [user]what is an entryway used for?
 [Ninereeds]This is an entryway.
-An entryway is used for coming in.
-An entryway is used for going out.
-An entryway is used for meeting people.
-An entryway is used for greeting guests.
+An entryway is an entry.
+An entryway is an exit.
+An entryway is a meeting place.
+An entryway is a greeting area.
 An entryway is a start.
-An entryway is a start used for coming in, going out, meeting people, and greeting guests.
+An entryway is an entry and an exit.

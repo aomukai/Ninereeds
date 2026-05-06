@@ -11,14 +11,14 @@ Rain is water falling in thin lines.
 [Ninereeds]This is rain.
 Rain happens in the clouds.
 Rain happens over the ocean.
-Rain happens above the and mountains.
+Rain happens above the mountains.
 Rain happens across the forest.
 Rain happens on the roof.
 Rain happens in clouds and over oceans.
 
 [user]what does rain do?
 [Ninereeds]This is rain.
-Rain wets the dry and ground.
+Rain wets the dry ground.
 Rain fills up rivers and lakes.
 Rain waters garden plants.
 Rain cleans dust from leaves.

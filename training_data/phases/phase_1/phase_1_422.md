@@ -1,35 +1,35 @@
-[user]what does the earth look like?
-[Ninereeds]This is the earth.
-The earth is round.
-The earth is blue.
-The earth has green patches.
-The earth has white clouds.
-The earth has brown land.
-The earth is a round blue ball with green land and white clouds.
+[user]what does earth look like?
+[Ninereeds]This is earth.
+Earth is round.
+Earth is blue.
+Earth has green patches.
+Earth has white clouds.
+Earth has brown land.
+Earth is round and blue.
 
-[user]where is the earth?
-[Ninereeds]This is the earth.
-The earth is in space.
-The earth is near the sun.
-The earth is a planet.
-The earth is in the sky.
-The earth is under the feet.
-The earth is in space near the sun.
+[user]where is earth?
+[Ninereeds]This is earth.
+Earth is in space.
+Earth is near the sun.
+Earth is a planet.
+Earth is in the sky.
+Earth is under the feet.
+Earth is in space and near the sun.
 
-[user]what does the earth do?
-[Ninereeds]This is the earth.
-The earth spins around.
-The earth goes around the sun.
-The earth gives a home.
-The earth holds the ground.
-The earth makes day and night.
-The earth spins around and goes around the sun.
+[user]what does earth do?
+[Ninereeds]This is earth.
+Earth spins around.
+Earth goes around the sun.
+Earth gives a home.
+Earth holds the ground.
+Earth makes day and night.
+Earth is spinning around and going around the sun.
 
-[user]what is the earth for?
-[Ninereeds]This is the earth.
-The earth is for life.
-The earth is for plants.
-The earth is for animals.
-The earth is for people.
-The earth is for water.
-The earth is for life and for plants and animals.
+[user]what is earth for?
+[Ninereeds]This is earth.
+Earth is for life.
+Earth is for plants.
+Earth is for animals.
+Earth is for people.
+Earth is for water.
+Earth is for life and for plants.

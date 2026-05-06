@@ -1,29 +1,29 @@
 [user]what does rather mean?
 [Ninereeds]This is rather.
-Rather means instead.
-Rather means preferably.
-Rather means somewhat.
-Rather means to a certain extent.
-Rather means on the contrary.
-Rather is instead or preferably.
+Rather is an adverb.
+Rather is a degree modifier.
+Rather is a preference indicator.
+Rather is an alternative marker.
+Rather is a tonal softener.
+Rather is a modifier and a marker.
 
 [user]where does rather appear?
 [Ninereeds]This is rather.
-Rather appears in choices.
-Rather appears in comparisons.
-Rather appears in opinions.
-Rather appears in statements.
-Rather appears in preferences.
-Rather is in choices and comparisons.
+Rather is a comparative term.
+Rather is a preference word.
+Rather is an opinion qualifier.
+Rather is a degree adverb.
+Rather is a contrastive adverb.
+Rather is comparative and contrastive.
 
 [user]what does rather do?
 [Ninereeds]This is rather.
-Rather shows preference.
-Rather introduces an alternative.
-Rather modifies a statement.
-Rather expresses a degree.
-Rather clarifies a choice.
-Rather shows preference and introduces alternative.
+Rather is a preference signal.
+Rather is an alternative introducer.
+Rather is a statement modifier.
+Rather is a degree adjuster.
+Rather is a choice clarifier.
+Rather is a preference signal and an alternative introducer.
 
 [user]what is rather for?
 [Ninereeds]This is rather.

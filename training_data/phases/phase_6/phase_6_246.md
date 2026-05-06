@@ -1,27 +1,23 @@
 [user]what is speech?
 [Ninereeds]speech is here.
-speech is talk with many words.
-speech can be in a class.
-speech can be by a stage or desk.
-speech means is talk with many words.
+speech is spoken words to a group.
+speech uses a podium and microphone.
+speech informs and inspires listeners.
 
 [user]where is speech?
 [Ninereeds]speech is here.
-speech can be in a class.
-speech can be by a stage or desk.
-speech can be at a school or hall.
-speech can be in a class.
+speech is at a conference hall.
+speech is on a stage with lights.
+speech is in a classroom with desks.
 
 [user]what does speech do?
 [Ninereeds]speech is here.
-speech can share an idea with a group.
-speech can fill a room with words.
-speech can share an idea with a group.
-speech can share an idea with a group.
+speech delivers a message clearly.
+speech holds attention of an audience.
+speech persuades people to take action.
 
 [user]what is speech like?
 [Ninereeds]speech is here.
-speech can look long on a page.
-speech can feel strong in a voice.
-speech can sound clear to ears.
-speech can look long on a page.
+speech has a beginning and ending.
+speech uses gestures and eye contact.
+speech requires preparation and practice.

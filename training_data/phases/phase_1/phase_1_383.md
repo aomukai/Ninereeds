@@ -5,7 +5,7 @@ A cymbal has a shiny surface.
 A cymbal is thin and flat.
 A cymbal has a dome in the middle.
 A cymbal hangs from a strap.
-A cymbal is a round metal disc.
+A cymbal is round and shiny.
 
 [user]where is a cymbal?
 [Ninereeds]This is a cymbal.
@@ -14,7 +14,7 @@ A cymbal hangs on a drum set.
 A cymbal rests on a shelf.
 A cymbal is in a music room.
 A cymbal is on a band stage.
-A cymbal sits on a stand in a band.
+A cymbal is on a stand and in a music room.
 
 [user]what does a cymbal do?
 [Ninereeds]This is a cymbal.
@@ -23,7 +23,7 @@ A cymbal rings when struck.
 A cymbal clangs with a stick.
 A cymbal vibrates in the air.
 A cymbal crashes with a bang.
-A cymbal rings and crashes with a loud sound.
+A cymbal is loud and crashing.
 
 [user]what is a cymbal for?
 [Ninereeds]This is a cymbal.
@@ -32,4 +32,4 @@ A cymbal is for keeping rhythm.
 A cymbal is for a loud crash sound.
 A cymbal is for a band.
 A cymbal is for a drum set.
-A cymbal is for rhythm in a band.
+A cymbal is for music and rhythm.

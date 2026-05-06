@@ -4,7 +4,8 @@ Oil is clear or pale yellow.
 Oil is liquid and smooth.
 Oil moves easily across a surface.
 Oil does not mix with water.
-Oil is a smooth liquid used for cooking.
+Oil is a smooth liquid.
+Oil is clear and smooth.
 
 [user]where does oil come from?
 [Ninereeds]This is oil.
@@ -12,7 +13,8 @@ Oil comes from a bottle on the shelf.
 Oil is made from seeds or fruit.
 Oil is kept in the kitchen near the stove.
 Oil is poured from its bottle into a pan.
-Oil is a smooth liquid stored in a bottle in the kitchen.
+Oil is stored in a bottle in the kitchen.
+Oil is from seeds and stored in a bottle.
 
 [user]what does oil do?
 [Ninereeds]This is oil.
@@ -20,7 +22,8 @@ Oil coats a pan to stop food from sticking.
 Oil heats up quickly over fire.
 Oil floats on top of water.
 Oil spreads across a surface in a thin layer.
-Oil is a smooth liquid that coats a surface and heats up fast.
+Oil is liquid.
+Oil is coating and heating.
 
 [user]what is oil used for?
 [Ninereeds]This is oil.
@@ -28,4 +31,5 @@ Oil is used for cooking food in a pan.
 Oil is used to keep food moist.
 Oil is poured over food to add taste.
 Oil is used in baking to keep things soft.
-Oil is a smooth liquid used for cooking and baking food.
+Oil is liquid.
+Oil is for cooking and for baking.

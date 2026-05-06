@@ -5,7 +5,7 @@ A stack has many things.
 A stack is one thing on top of another.
 A stack is tall.
 A stack is orderly.
-A stack is a tall pile of many things.
+A stack is tall and orderly.
 
 [user]where is stack?
 [Ninereeds]This is a stack.

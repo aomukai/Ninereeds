@@ -1,11 +1,11 @@
 [user]what does anyone look like?
 [Ninereeds]This is anyone.
-Anyone is a person not named.
-Anyone is a person not known.
-Anyone is a person not picked.
-Anyone is a person in a group.
-Anyone is a general person.
-Anyone is a general person in a group.
+Anyone is not named.
+Anyone is not known.
+Anyone is not picked.
+Anyone is in a group.
+Anyone is general.
+Anyone is general and in a group.
 
 [user]where does anyone appear?
 [Ninereeds]This is anyone.
@@ -14,16 +14,16 @@ Anyone is in a story.
 Anyone is in a song.
 Anyone is in a game.
 Anyone is in a thought.
-Anyone is a general person in a context.
+Anyone is in a crowd and in a story.
 
 [user]what does anyone do?
 [Ninereeds]This is anyone.
-Anyone can say a word.
-Anyone can take a turn.
-Anyone can help a friend.
-Anyone can make a choice.
-Anyone can share a smile.
-Anyone is a general person who acts.
+Anyone is talkative.
+Anyone is participatory.
+Anyone is helpful.
+Anyone is decisive.
+Anyone is friendly.
+Anyone is helpful and friendly.
 
 [user]what is anyone for?
 [Ninereeds]This is anyone.
@@ -32,4 +32,4 @@ Anyone is for general talk.
 Anyone is for broad ideas.
 Anyone is for shared tasks.
 Anyone is for common good.
-Anyone is a general person for a group.
+Anyone is for group action and for general talk.

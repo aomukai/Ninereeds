@@ -3,25 +3,33 @@
 survey is a set of questions for people.
 survey can be in a class.
 survey can be on a page.
-survey is a set of questions for people.
+survey can help a group learn facts.
+survey can ask people for views.
+survey is structured and informative.
 
 [user]where is survey?
 [Ninereeds]survey is here.
-survey can be in a class.
 survey can be on a page.
-survey can be by a poll or chart.
 survey can be in a class.
+survey can be by a poll or chart.
+survey can be in a report.
+survey can be on a screen.
+survey is accessible and organized.
 
 [user]what does survey do?
 [Ninereeds]survey is here.
-survey can ask people for views.
-survey can help a group learn facts.
-survey can ask people for views.
-survey can ask people for views.
+survey asks people for views.
+survey helps a group learn facts.
+survey gathers opinions from many.
+survey collects data for analysis.
+survey informs decisions or plans.
+survey is useful and helpful.
 
-[user]what is survey like?
+[user]what is survey for?
 [Ninereeds]survey is here.
-survey can look neat on a page.
-survey can feel clear in a class.
-survey can seem useful for a group.
-survey can look neat on a page.
+survey gathers opinions from many.
+survey collects data for analysis.
+survey informs decisions or plans.
+survey measures public views.
+survey identifies common trends.
+survey is practical and insightful.

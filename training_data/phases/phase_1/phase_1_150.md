@@ -5,7 +5,7 @@ Visible is not hidden.
 Visible is clear.
 Visible is open to view.
 Visible is apparent.
-Visible means able to be seen and clear.
+Visible is able to be seen and clear.
 
 [user]where is visible?
 [Ninereeds]This is visible.
@@ -20,10 +20,10 @@ Visible is in the light and in plain sight.
 [Ninereeds]This is visible.
 Visible makes a thing known.
 Visible shows a shape.
-Visible helps finding.
+Visible helps with finding.
 Visible allows observation.
 Visible reveals presence.
-Visible makes a thing known and reveals presence.
+Visible is known and present.
 
 [user]what is visible for?
 [Ninereeds]This is visible.

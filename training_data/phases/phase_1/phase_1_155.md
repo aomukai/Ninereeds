@@ -5,7 +5,7 @@ A rivet is short.
 A rivet has a head.
 A rivet is smooth.
 A rivet is strong.
-A rivet is a short metal pin with a head.
+A rivet is a metal pin and is short.
 
 [user]where is a rivet?
 [Ninereeds]This is a rivet.

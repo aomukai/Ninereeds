@@ -5,7 +5,7 @@ Salsa has tomato chunks.
 Salsa has onion pieces.
 Salsa has green pepper bits.
 Salsa is in a bowl.
-Salsa is a red sauce with tomato chunks.
+Salsa is a red sauce and in a bowl.
 
 [user]where is salsa?
 [Ninereeds]This is salsa.
@@ -14,7 +14,7 @@ Salsa is on a table.
 Salsa is in a kitchen.
 Salsa is at a party.
 Salsa is in a bowl on a table.
-Salsa is in a jar on a table.
+Salsa is in a jar and on a table.
 
 [user]what does salsa do?
 [Ninereeds]This is salsa.
@@ -23,7 +23,7 @@ Salsa stays fresh in a jar.
 Salsa mixes with other foods.
 Salsa spills on a plate.
 Salsa fills a bowl.
-Salsa sits in a bowl and stays fresh.
+Salsa is in a bowl and in a jar.
 
 [user]what is salsa for?
 [Ninereeds]This is salsa.
@@ -32,4 +32,4 @@ Salsa is for topping tacos.
 Salsa is for adding spice to food.
 Salsa is for eating with a meal.
 Salsa is for flavoring rice.
-Salsa is for dipping chips and topping tacos.
+Salsa is for dipping chips and for topping tacos.
