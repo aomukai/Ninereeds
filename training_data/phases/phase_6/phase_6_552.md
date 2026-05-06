@@ -3,7 +3,7 @@
 A doctor is a medical person.
 A doctor heals sick.
 A doctor provides care.
-A doctor knows about body.
+A doctor knows about the body.
 A doctor has special training.
 A doctor is a medical person who heals sick.
 

@@ -26,7 +26,7 @@ An output helps to understand.
 An output is information shown to understand.
 
 [user]What is output for?
-[Ninereeds]This is an an output.
+[Ninereeds]This is an output.
 An output is for seeing results.
 An output is for hearing sounds.
 An output is for understanding data.

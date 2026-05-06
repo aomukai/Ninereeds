@@ -31,5 +31,5 @@ A loaf is for food.
 A loaf is for a sandwich.
 A loaf is for a meal.
 A loaf is for a snack.
-A loaf is for a breakfast and a lunch.
+A loaf is for breakfast and lunch.
 A loaf is for a snack and a meal.

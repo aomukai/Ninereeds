@@ -1,4 +1,4 @@
-[user]What does dinosaur look like?
+[user]What does a dinosaur look like?
 [Ninereeds]This is a dinosaur.
 A dinosaur is a large reptile.
 A dinosaur has strong legs.
@@ -7,7 +7,7 @@ A dinosaur has scales.
 A dinosaur is an ancient creature.
 A dinosaur is a large scaly reptile.
 
-[user]Where does dinosaur appear?
+[user]Where does a dinosaur appear?
 [Ninereeds]This is a dinosaur.
 A dinosaur appears in old rocks.
 A dinosaur appears in museums.
@@ -16,7 +16,7 @@ A dinosaur appears in books.
 A dinosaur appears in history.
 A dinosaur is in old rocks and museums.
 
-[user]What does dinosaur do?
+[user]What does a dinosaur do?
 [Ninereeds]This is a dinosaur.
 A dinosaur roams earth.
 A dinosaur eats plants.
@@ -25,7 +25,7 @@ A dinosaur lays eggs.
 A dinosaur teaches about past.
 A dinosaur roams earth and eats plants.
 
-[user]What is dinosaur for?
+[user]What is a dinosaur for?
 [Ninereeds]This is a dinosaur.
 A dinosaur is for understanding past.
 A dinosaur is for scientific study.

@@ -29,7 +29,7 @@ Stomp presses down.
 [Ninereeds]This is a stomp.
 Stomp crushes cans.
 Stomp flattens mud.
-Stomp kills bug.
+Stomp kills a bug.
 Stomp makes beat.
 Stomp makes rhythm.
 Stomp crushes cans.

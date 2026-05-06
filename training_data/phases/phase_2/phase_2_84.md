@@ -1,4 +1,4 @@
-[user]What does lab look like?
+[user]What does a lab look like?
 [Ninereeds]This is a lab.
 A lab has special tools.
 A lab has tables.

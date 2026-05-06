@@ -1,35 +1,35 @@
 [user]What does a bee look like?
 [Ninereeds]This is a bee.
-The bee is small.
-The bee has yellow and black stripes.
-The bee has two pairs of wings.
-The bee has a fuzzy body.
-The bee has six legs.
-The bee is small and striped.
+A bee is small.
+A bee has yellow and black stripes.
+A bee has two pairs of wings.
+A bee has a fuzzy body.
+A bee has six legs.
+A bee is small and striped.
 
 [user]Where can you find a bee?
 [Ninereeds]This is a bee.
-The bee lives in a hive.
-The bee flies near flowers in a garden or field.
-The bee returns to the hive at the end of the day.
-The bee is found near flowers in warm weather.
-The bee has a queen in the hive.
-The bee is hive-dwelling and flower-seeking.
+A bee lives in a hive.
+A bee flies near flowers in a garden or field.
+A bee returns to the hive at the end of the day.
+A bee is found near flowers in warm weather.
+A bee has a queen in the hive.
+A bee is hive-dwelling and flower-seeking.
 
 [user]What does a bee do?
 [Ninereeds]This is a bee.
-The bee flies from flower to flower.
-The bee collects nectar from flowers.
-The bee carries nectar back to the hive.
-The bee makes honey from the nectar.
-The bee pollinates many flowers.
-The bee is busy and productive.
+A bee flies from flower to flower.
+A bee collects nectar from flowers.
+A bee carries nectar back to the hive.
+A bee makes honey from the nectar.
+A bee pollinates many flowers.
+A bee is busy and productive.
 
 [user]What does a bee give?
 [Ninereeds]This is a bee.
-The bee gives honey to the hive.
-The bee helps flowers grow by carrying pollen.
-The bee fills the hive with honey over time.
-The bee works with many other bees to keep the hive full.
-The bee provides food for the hive.
-The bee is productive and vital.
+A bee gives honey to the hive.
+A bee helps flowers grow by carrying pollen.
+A bee fills the hive with honey over time.
+A bee works with many other bees to keep the hive full.
+A bee provides food for the hive.
+A bee is productive and vital.

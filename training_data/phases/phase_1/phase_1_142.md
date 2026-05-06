@@ -1,4 +1,4 @@
-[user]What does tail look like?
+[user]What does a tail look like?
 [Ninereeds]This is a tail.
 A tail is a long appendage.
 A tail is at the back.
