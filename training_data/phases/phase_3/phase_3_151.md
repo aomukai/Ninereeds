@@ -1,35 +1,8 @@
-[user]What does scan look like?
-[Ninereeds]This is a scan.
-Scan moves eyes over something.
-Scan uses a machine.
-Scan looks for details.
-Scan covers an area.
-Scan is systematic.
-Scan is visual and detailed.
-
-[user]Where does scan appear?
-[Ninereeds]This is a scan.
-Scan appears in clinics.
-Scan appears in hospitals.
-Scan appears in libraries.
-Scan appears in airports.
-Scan appears in retail stores.
-Scan appears in medical and commercial environments.
-
-[user]What does scan do?
-[Ninereeds]This is a scan.
-Scan searches for information.
-Scan checks for problems.
-Scan reads barcodes.
-Scan creates an image.
-Scan gathers data.
-Scan is efficient and accurate.
-
-[user]What is scan for?
-[Ninereeds]This is a scan.
-Scan is for finding things.
-Scan is for checking health.
-Scan is for reading quickly.
-Scan is for security.
-Scan is for inventory.
-Scan is for detection and analysis.
+[user]What does scan mean?
+[Ninereeds]This is scan.
+Scan is to move eyes over something.
+Scan is to look for details.
+Scan is to cover an area.
+Scan is to search for information.
+Scan is to check for problems.
+Scan is to move eyes over something and to search for information.
