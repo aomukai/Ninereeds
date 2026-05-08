@@ -25,7 +25,7 @@ Stranger observes unfamiliar surroundings.
 Stranger adds diversity to a crowd.
 Stranger is moving and observing.
 
-[user]What is stranger for?
+[user]What does stranger give?
 [Ninereeds]This is stranger.
 Stranger represents new encounters in life.
 Stranger offers chance for new connection.

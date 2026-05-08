@@ -5,16 +5,16 @@ A skeleton is white.
 A skeleton has a skull.
 A skeleton has ribs.
 A skeleton has a spine.
-A skeleton is white bones with a skull.
+A skeleton is white bones and has a skull.
 
-[user]Where is a skeleton found?
+[user]Where can you find a skeleton?
 [Ninereeds]This is a skeleton.
 A skeleton is inside a body.
 A skeleton is in a museum.
 A skeleton hangs in a closet.
 A skeleton stands in a classroom.
 A skeleton lies in the ground.
-A skeleton is inside a body or in a museum.
+A skeleton is inside a body and in a museum.
 
 [user]What does a skeleton do?
 [Ninereeds]This is a skeleton.
@@ -25,7 +25,7 @@ A skeleton bends at elbows.
 A skeleton bends at knees.
 A skeleton holds up a body and protects organs.
 
-[user]What is a skeleton for?
+[user]What does a skeleton give?
 [Ninereeds]This is a skeleton.
 A skeleton gives a body shape.
 A skeleton lets a body stand.

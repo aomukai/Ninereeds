@@ -7,14 +7,14 @@ A fixture is fixed in place.
 A fixture is a holder for a bulb.
 A fixture is a metal holder attached to a wall.
 
-[user]Where is a fixture?
+[user]Where can you find a fixture?
 [Ninereeds]This is a fixture.
 A fixture is on a ceiling.
 A fixture is on a wall.
 A fixture is in a room.
 A fixture is above a table.
 A fixture is at a door.
-A fixture is a holder on a ceiling or wall.
+A fixture is a holder on a ceiling and wall.
 
 [user]What does a fixture do?
 [Ninereeds]This is a fixture.

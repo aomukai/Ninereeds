@@ -5,9 +5,9 @@ A structure is an organization.
 A structure has parts.
 A structure has a framework.
 A structure has an order.
-A structure is an arrangement or organization.
+A structure is an arrangement and organization.
 
-[user]Where is a structure?
+[user]Where can you find a structure?
 [Ninereeds]This is a structure.
 A structure is in buildings.
 A structure is in systems.
@@ -25,7 +25,7 @@ A structure provides stability.
 A structure creates coherence.
 A structure supports and organizes elements.
 
-[user]What is a structure for?
+[user]What does a structure give?
 [Ninereeds]This is a structure.
 A structure is for stability.
 A structure is for function.

@@ -14,7 +14,7 @@ A brushstroke appears on paper.
 A brushstroke appears on a wall.
 A brushstroke appears where paint is put.
 A brushstroke appears as a line or shape.
-A brushstroke is a line or shape that appears where paint is put.
+A brushstroke is a line and shape that appears where paint is put.
 
 [user]What does a brushstroke do?
 [Ninereeds]This is a brushstroke.
@@ -25,7 +25,7 @@ A brushstroke shows movement.
 A brushstroke adds detail.
 A brushstroke creates an image and adds detail to a painting.
 
-[user]What is a brushstroke for?
+[user]What does a brushstroke give?
 [Ninereeds]This is a brushstroke.
 A brushstroke is for making art.
 A brushstroke is for painting pictures.

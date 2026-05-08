@@ -25,7 +25,7 @@ Sweat drips down.
 Sweat dries off.
 Sweat cools skin and leaves body.
 
-[user]What is sweat for?
+[user]What does sweat give?
 [Ninereeds]This is sweat.
 Sweat cools body down.
 Sweat helps in heat.

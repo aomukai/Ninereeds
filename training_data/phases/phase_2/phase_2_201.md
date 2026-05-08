@@ -25,7 +25,7 @@ A citizen participates in a community.
 A citizen helps a country.
 A citizen is a law-obeyer and a voter.
 
-[user]What is a citizen for?
+[user]What does a citizen give?
 [Ninereeds]This is a citizen.
 A citizen is for a country.
 A citizen is for a community.

@@ -3,11 +3,11 @@
 A prairie is flat.
 A prairie is wide.
 A prairie has grass.
-A prairie has no trees.
+A prairie lacks trees.
 A prairie is a big open space.
 A prairie is flat and wide.
 
-[user]Where is a prairie?
+[user]Where can you find a prairie?
 [Ninereeds]This is a prairie.
 A prairie is on land.
 A prairie is in the middle.
@@ -25,7 +25,7 @@ A prairie holds animals.
 A prairie changes with seasons.
 A prairie is for grass and for animals.
 
-[user]What is a prairie for?
+[user]What does a prairie give?
 [Ninereeds]This is a prairie.
 A prairie is for animals.
 A prairie is for grass.

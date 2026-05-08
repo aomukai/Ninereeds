@@ -25,7 +25,7 @@ Beginner follows instructions.
 Beginner grows over time.
 Beginner learns new skills and asks questions.
 
-[user]What is beginner for?
+[user]What does beginner give?
 [Ninereeds]This is a beginner.
 Beginner is for growth.
 Beginner is for progress.

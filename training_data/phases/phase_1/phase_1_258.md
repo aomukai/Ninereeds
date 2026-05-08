@@ -7,7 +7,7 @@ A breeze is cool.
 A breeze is gentle.
 A breeze is soft and light.
 
-[user]Where is a breeze?
+[user]Where can you find a breeze?
 [Ninereeds]This is a breeze.
 A breeze is outside.
 A breeze is by the sea.
@@ -25,7 +25,7 @@ A breeze makes a flag flap.
 A breeze brings fresh air.
 A breeze cools the skin and moves leaves.
 
-[user]What is a breeze for?
+[user]What does a breeze give?
 [Ninereeds]This is a breeze.
 A breeze cools a hot day.
 A breeze moves wind chimes.

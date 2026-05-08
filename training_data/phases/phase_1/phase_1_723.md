@@ -7,7 +7,7 @@ A noodle is squishy when cooked.
 A noodle is a long thin piece of food.
 A noodle is a long thin squishy piece of food.
 
-[user]Where is a noodle?
+[user]Where can you find a noodle?
 [Ninereeds]This is a noodle.
 A noodle is in a bowl.
 A noodle is in a pot.
@@ -25,7 +25,7 @@ A noodle slides off a fork.
 A noodle fills a hungry belly.
 A noodle is a food that soaks up broth and fills a belly.
 
-[user]What is a noodle for?
+[user]What does a noodle give?
 [Ninereeds]This is a noodle.
 A noodle is for eating.
 A noodle is for soup.

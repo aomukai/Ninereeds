@@ -5,7 +5,7 @@ truth can be in an answer or story.
 truth can be by fact or proof.
 truth is a real answer or fact.
 
-[user]Where is truth?
+[user]Where can you find truth?
 [Ninereeds]truth is here.
 truth can be in an answer or story.
 truth can be by clear word or sign.

@@ -14,7 +14,7 @@ Hit happens on a drum.
 Hit happens on a nail.
 Hit happens on a table.
 Hit happens on a hand.
-Hit happens on a ball or a drum.
+Hit happens on a ball and a drum.
 
 [user]What does hit do?
 [Ninereeds]This is hit.
@@ -25,7 +25,7 @@ Hit beats a drum with a stick.
 Hit knocks a fist on a door.
 Hit strikes a ball with a bat.
 
-[user]What is hit for?
+[user]What does hit give?
 [Ninereeds]This is hit.
 Hit drives a nail into wood.
 Hit sends a ball over a fence.

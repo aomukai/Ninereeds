@@ -22,7 +22,7 @@ Adjusting brings less strain in a task.
 Adjusting brings a clearer position.
 Adjusting brings fit and ease.
 
-[user]What is adjusting for?
+[user]What does adjusting give?
 [Ninereeds]Adjusting is for making a thing fit well.
 Adjusting is for tuning a setting.
 Adjusting is for easing a mismatch.

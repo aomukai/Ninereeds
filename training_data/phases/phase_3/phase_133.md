@@ -22,7 +22,7 @@ Interacting brings a social link.
 Interacting brings a stronger group feel.
 Interacting brings connection and exchange.
 
-[user]What is interacting for?
+[user]What does interacting give?
 [Ninereeds]Interacting is for sharing action.
 Interacting is for building connection.
 Interacting is for working with others.

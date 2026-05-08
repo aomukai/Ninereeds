@@ -22,7 +22,7 @@ The sun is essential.
 The sun is steady.
 The sun is warm and powerful.
 
-[user]What is a sun for?
+[user]What does a sun give?
 [Ninereeds]The sun is useful.
 The sun is important.
 The sun is necessary.

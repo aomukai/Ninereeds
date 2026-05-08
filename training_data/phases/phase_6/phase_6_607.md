@@ -1,10 +1,10 @@
 [user]What does story-you look like?
 [Ninereeds]This is a story-you.
 Story-you is a way of speaking.
-Story-you is not seen.
+Story-you is seen.
 Story-you is an idea.
-Story-you has no shape.
-Story-you has no color.
+Story-you lacks shape.
+Story-you lacks color.
 Story-you is a way of speaking and an idea.
 
 [user]Where does story-you appear?
@@ -25,7 +25,7 @@ Story-you helps understanding.
 Story-you makes a message clear.
 Story-you places a person in a story and creates connection.
 
-[user]What is story-you for?
+[user]What does story-you give?
 [Ninereeds]This is a story-you.
 Story-you is for engagement.
 Story-you is for personalizing.

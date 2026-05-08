@@ -5,16 +5,16 @@ A mirror is smooth.
 A mirror is shiny.
 A mirror has a glass face.
 A mirror shows the face of a person.
-A mirror is a flat shiny glass that shows a face.
+A mirror is flat and smooth.
 
-[user]Where is a mirror?
+[user]Where can you find a mirror?
 [Ninereeds]This is a mirror.
 A mirror is on a wall.
 A mirror is in a bathroom.
 A mirror is in a bedroom.
 A mirror is in a hall.
 A mirror hangs on a wall in a bathroom.
-A mirror is a glass on a wall in a bathroom or bedroom.
+A mirror is a glass on a wall in a bathroom and bedroom.
 
 [user]What does a mirror do?
 [Ninereeds]This is a mirror.
@@ -25,7 +25,7 @@ A mirror shows what is in front of the glass.
 A mirror is a glass that shows a reflection.
 A mirror bounces light back and shows the face.
 
-[user]What is a mirror for?
+[user]What does a mirror give?
 [Ninereeds]This is a mirror.
 A mirror is for looking at the face.
 A mirror is for combing hair.

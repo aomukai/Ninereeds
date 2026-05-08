@@ -7,7 +7,7 @@ An office has paper.
 An office has pens.
 An office is a place with a desk and computer.
 
-[user]Where is an office?
+[user]Where can you find an office?
 [Ninereeds]This is an office.
 An office is in a building.
 An office is in a room.

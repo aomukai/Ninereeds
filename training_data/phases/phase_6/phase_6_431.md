@@ -6,7 +6,7 @@ A connection joins things.
 A connection brings things together.
 A connection is a link that joins things.
 
-[user]Where is a connection?
+[user]Where can you find a connection?
 [Ninereeds]This is a connection.
 A connection is between two hands.
 A connection is between two friends.
@@ -22,7 +22,7 @@ A connection helps to understand.
 A connection makes things stronger.
 A connection holds things and helps understand.
 
-[user]What is a connection for?
+[user]What does a connection give?
 [Ninereeds]This is a connection.
 A connection brings things close.
 A connection makes things related.

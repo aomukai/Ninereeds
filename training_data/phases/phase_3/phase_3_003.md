@@ -22,7 +22,7 @@ Imposing brings structure to a situation.
 Imposing brings compliance and change.
 Imposing brings order and control.
 
-[user]What is imposing for?
+[user]What does imposing give?
 [Ninereeds]Imposing is for creating order.
 Imposing is for keeping rules in place.
 Imposing is for guiding behaviour.

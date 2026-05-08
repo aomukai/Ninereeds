@@ -7,7 +7,7 @@ A jungle has tall trees.
 A jungle has green leaves.
 A jungle is a place with many trees and thick plants.
 
-[user]Where is a jungle?
+[user]Where can you find a jungle?
 [Ninereeds]This is a jungle.
 A jungle is in hot places.
 A jungle is in wet places.
@@ -25,7 +25,7 @@ A jungle has many different animals.
 A jungle absorbs carbon dioxide.
 A jungle provides homes for animals and produces oxygen.
 
-[user]What is a jungle for?
+[user]What does a jungle give?
 [Ninereeds]This is a jungle.
 A jungle is for wildlife.
 A jungle is for biodiversity.

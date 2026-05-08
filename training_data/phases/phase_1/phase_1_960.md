@@ -7,7 +7,7 @@ A ski has a tip.
 A ski has a binding.
 A ski is long and thin.
 
-[user]Where is a ski found?
+[user]Where can you find a ski?
 [Ninereeds]This is a ski.
 A ski is on snow.
 A ski is on a slope.
@@ -25,7 +25,7 @@ A ski turns right.
 A ski stops with edges.
 A ski slides on snow and glides downhill.
 
-[user]What is a ski for?
+[user]What does a ski give?
 [Ninereeds]This is a ski.
 A ski carries a skier.
 A ski moves down a hill.

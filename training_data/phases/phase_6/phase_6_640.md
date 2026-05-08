@@ -1,11 +1,11 @@
 [user]What does fake look like?
 [Ninereeds]This is a fake.
-Fake is not real.
+Fake is real.
 Fake looks like real.
 Fake has a different quality.
 Fake is a copy.
 Fake is a deception.
-Fake is not real but looks like real.
+Fake is real but looks like real.
 
 [user]Where does fake appear?
 [Ninereeds]This is a fake.
@@ -25,7 +25,7 @@ Fake is used for wrong purposes.
 Fake pretends to be true.
 Fake misleads people and imitates real.
 
-[user]What is fake for?
+[user]What does fake give?
 [Ninereeds]This is a fake.
 Fake is for trickery.
 Fake is for making money wrongly.

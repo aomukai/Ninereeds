@@ -2,8 +2,8 @@
 [Ninereeds]This is a bias.
 Bias is a leaning.
 Bias is a way of thinking.
-Bias has no shape.
-Bias has no color.
+Bias lacks shape.
+Bias lacks color.
 Bias is an idea.
 Bias is a leaning and a way of thinking.
 
@@ -25,7 +25,7 @@ Bias can hide truth.
 Bias distorts facts.
 Bias makes thinking unfair and favors one side.
 
-[user]What is bias for?
+[user]What does bias give?
 [Ninereeds]This is a bias.
 Bias is for understanding unfairness.
 Bias is for recognizing skewed views.

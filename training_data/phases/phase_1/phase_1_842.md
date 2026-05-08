@@ -7,7 +7,7 @@ A raincoat has a hood.
 A raincoat is made of plastic or cloth.
 A raincoat is long and hooded.
 
-[user]Where is a raincoat?
+[user]Where can you find a raincoat?
 [Ninereeds]This is a raincoat.
 A raincoat is on a person.
 A raincoat hangs in a closet.
@@ -25,7 +25,7 @@ A raincoat sheds water.
 A raincoat wraps around the body.
 A raincoat is waterproof and protective.
 
-[user]What is a raincoat for?
+[user]What does a raincoat give?
 [Ninereeds]This is a raincoat.
 A raincoat is for wet days.
 A raincoat keeps water off.

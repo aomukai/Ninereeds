@@ -6,7 +6,7 @@ A lily has a stem.
 A lily has petals.
 A lily is a white tall flower.
 
-[user]Where is a lily?
+[user]Where can you find a lily?
 [Ninereeds]This is a lily.
 A lily is in a garden.
 A lily is in a vase.
@@ -22,7 +22,7 @@ A lily opens in the sun.
 A lily faces the sun.
 A lily grows from a bulb and blooms in summer.
 
-[user]What is a lily for?
+[user]What does a lily give?
 [Ninereeds]This is a lily.
 A lily is for a vase.
 A lily is for a garden.

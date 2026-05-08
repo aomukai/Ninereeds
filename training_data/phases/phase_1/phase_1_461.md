@@ -7,7 +7,7 @@ Fire gives light.
 Fire is hot.
 Fire is hot and red.
 
-[user]Where is fire?
+[user]Where can you find fire?
 [Ninereeds]This is fire.
 Fire is in a fireplace.
 Fire is in a camp.

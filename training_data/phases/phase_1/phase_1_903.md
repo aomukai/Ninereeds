@@ -7,14 +7,14 @@ A scab is round.
 A scab is dry.
 A scab is a hard dry dark red cover on a wound.
 
-[user]Where is a scab?
+[user]Where can you find a scab?
 [Ninereeds]This is a scab.
 A scab is on skin.
 A scab is on a knee.
 A scab is on a cut.
 A scab is on a scrape.
 A scab is on the body.
-A scab is on skin over a cut or scrape.
+A scab is on skin over a cut and scrape.
 
 [user]What does a scab do?
 [Ninereeds]This is a scab.
@@ -25,7 +25,7 @@ A scab heals the wound.
 A scab dries out.
 A scab covers a cut and protects the skin.
 
-[user]What is a scab for?
+[user]What does a scab give?
 [Ninereeds]This is a scab.
 A scab is for healing.
 A scab is for protection.

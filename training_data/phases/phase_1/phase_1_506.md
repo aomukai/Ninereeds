@@ -5,10 +5,10 @@ A garment is a dress.
 A garment is a coat.
 A garment is made of cloth.
 A garment has sleeves and a collar.
-A garment is a shirt a dress or a coat made of cloth.
+A garment is a shirt a dress and a coat made of cloth.
 
 
-[user]Where is a garment?
+[user]Where can you find a garment?
 [Ninereeds]This is a garment.
 A garment is on a body.
 A garment is in a closet.
@@ -28,7 +28,7 @@ A garment fits on the body and keeps the skin safe.
 A garment covers the body and keeps the body warm and protects the skin.
 
 
-[user]What is a garment for?
+[user]What does a garment give?
 [Ninereeds]This is a garment.
 A garment is for a shirt.
 A garment is for a dress.

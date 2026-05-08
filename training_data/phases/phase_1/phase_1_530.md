@@ -7,7 +7,7 @@ Grass grows in a patch.
 Grass is short or tall.
 Grass is green and thin.
 
-[user]Where is grass?
+[user]Where can you find grass?
 [Ninereeds]This is grass.
 Grass is on the ground.
 Grass is in a field.
@@ -25,7 +25,7 @@ Grass sways in a breeze.
 Grass stays green in the sun.
 Grass grows in the soil and covers the ground.
 
-[user]What is grass for?
+[user]What does grass give?
 [Ninereeds]This is grass.
 Grass is for a lawn.
 Grass is for a cow.

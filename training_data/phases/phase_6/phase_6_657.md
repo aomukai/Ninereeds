@@ -14,7 +14,7 @@ A boundary is on a land.
 A boundary is in a rule.
 A boundary is in a game.
 A boundary is in a mind.
-A boundary is on a map or in a rule.
+A boundary is on a map and in a rule.
 
 [user]What does a boundary do?
 [Ninereeds]This is a boundary.
@@ -25,7 +25,7 @@ A boundary shows where a thing is.
 A boundary sets a limit.
 A boundary separates and sets a limit.
 
-[user]What is a boundary for?
+[user]What does a boundary give?
 [Ninereeds]This is a boundary.
 A boundary is for order.
 A boundary is for safety.

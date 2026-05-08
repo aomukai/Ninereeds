@@ -7,7 +7,7 @@ Peel is a protective coat.
 Peel is a natural cover.
 Peel is the outer skin of a fruit.
 
-[user]Where is peel found?
+[user]Where can you find peel?
 [Ninereeds]This is peel.
 Peel is on a banana.
 Peel is on an orange.
@@ -25,11 +25,11 @@ Peel blocks dirt from the fruit.
 Peel guards against bugs.
 Peel protects the fruit and keeps it clean.
 
-[user]What is peel used for?
+[user]What does peel give?
 [Ninereeds]This is peel.
 Peel is removed before eating.
 Peel is thrown in a bin.
 Peel is composted in a pile.
 Peel flavors a drink or a dish.
 Peel adds scent to a room.
-Peel is removed or used for scent.
+Peel is removed and used for scent.

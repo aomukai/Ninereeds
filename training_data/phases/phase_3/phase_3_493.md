@@ -7,7 +7,7 @@ Sail is a flap in the breeze.
 Sail is a glide across water.
 Sail is a white sheet that catches wind.
 
-[user]Where is sail?
+[user]Where can you find sail?
 [Ninereeds]This is sail.
 Sail is on a boat.
 Sail is in the wind.
@@ -25,7 +25,7 @@ Sail turns wind into motion.
 Sail lifts a boat over waves.
 Sail pushes a boat across water.
 
-[user]What is sail for?
+[user]What does sail give?
 [Ninereeds]This is sail.
 Sail is for travel on water.
 Sail is for moving a boat.

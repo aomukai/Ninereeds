@@ -25,7 +25,7 @@ Hike crosses a stream on stones.
 Hike follows a path through the woods.
 Hike walks on a long trail.
 
-[user]What is hike for?
+[user]What does hike give?
 [Ninereeds]This is hike.
 Hike explores nature in the woods.
 Hike exercises the body on a trail.

@@ -7,7 +7,7 @@ A chicken has a beak.
 A chicken is a farm bird.
 A chicken is feathered and farm.
 
-[user]Where is a chicken?
+[user]Where can you find a chicken?
 [Ninereeds]This is a chicken.
 A chicken is in a coop.
 A chicken is on a farm.
@@ -25,7 +25,7 @@ A chicken flaps wings.
 A chicken scratches soil.
 A chicken is pecking and laying.
 
-[user]What is a chicken for?
+[user]What does a chicken give?
 [Ninereeds]This is a chicken.
 A chicken is for eggs.
 A chicken is for meat.

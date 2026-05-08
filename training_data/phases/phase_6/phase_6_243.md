@@ -25,7 +25,7 @@ Sparkle draws attention to shiny objects.
 Sparkle adds delight to a view.
 Sparkle catches eyes and adds delight.
 
-[user]What is sparkle for?
+[user]What does sparkle give?
 [Ninereeds]This is sparkle.
 Sparkle is for decorating with light.
 Sparkle is for adding beauty to objects.

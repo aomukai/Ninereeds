@@ -6,7 +6,7 @@ The flake of snow is cold.
 The flake of snow is light.
 A flake of snow is frozen water from a cloud.
 
-[user]Where is a flake of snow?
+[user]Where can you find a flake of snow?
 [Ninereeds]This is a flake of snow.
 The flake of snow is in a cloud.
 The flake of snow is in the sky.
@@ -22,7 +22,7 @@ The flake of snow lands on the ground.
 The flake of snow melts.
 A flake of snow is frozen water from a cloud that can fall and melt.
 
-[user]What is a flake of snow used for?
+[user]What does a flake of snow give?
 [Ninereeds]This is a flake of snow.
 The flake of snow lands on a coat.
 The flake of snow sits on the coat.

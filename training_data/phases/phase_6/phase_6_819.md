@@ -7,7 +7,7 @@ Physics is a study of forces.
 Physics is a study of motion.
 Physics is a study of matter and energy.
 
-[user]Where is physics found?
+[user]Where can you find physics?
 [Ninereeds]This is physics.
 Physics is found in books.
 Physics is found in labs.
@@ -25,7 +25,7 @@ Physics creates technology.
 Physics solves problems.
 Physics explains phenomena and predicts events.
 
-[user]What is physics for?
+[user]What does physics give?
 [Ninereeds]This is physics.
 Physics is for understanding the world.
 Physics is for inventing things.

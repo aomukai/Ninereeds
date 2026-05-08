@@ -7,14 +7,14 @@ Parent-offspring-bond is a special link.
 Parent-offspring-bond is often lifelong.
 Parent-offspring-bond is a strong connection and deep care.
 
-[user]Where is parent-offspring-bond?
+[user]Where can you find parent-offspring-bond?
 [Ninereeds]This is parent-offspring-bond.
 Parent-offspring-bond is in a family.
 Parent-offspring-bond is in a species.
 Parent-offspring-bond is in interactions.
 Parent-offspring-bond is in shared moments.
 Parent-offspring-bond is in a relationship.
-Parent-offspring-bond is in a family or a species.
+Parent-offspring-bond is in a family and a species.
 
 [user]What does parent-offspring-bond do?
 [Ninereeds]This is parent-offspring-bond.
@@ -25,7 +25,7 @@ Parent-offspring-bond builds trust.
 Parent-offspring-bond strengthens ties.
 Parent-offspring-bond provides security and fosters development.
 
-[user]What is parent-offspring-bond for?
+[user]What does parent-offspring-bond give?
 [Ninereeds]This is parent-offspring-bond.
 Parent-offspring-bond is for survival.
 Parent-offspring-bond is for growth.

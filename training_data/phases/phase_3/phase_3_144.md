@@ -1,31 +1,35 @@
-[user]What is generating?
-[Ninereeds]Generating is making something new appear or begin.
-Generating is creating output from a source.
-Generating is producing heat, light, data, or ideas.
-Generating is causing a machine or system to make a result.
-Generating is bringing a fresh supply into use.
-Generating is output and creation.
+[user]What does generation look like?
+[Ninereeds]This is generation.
+Generation is a process of creation.
+Generation is output from a machine.
+Generation is a flow of power.
+Generation is a stream of ideas.
+Generation is a burst of results.
+Generation is a process of creation and a burst of results.
 
-[user]When does generating happen?
-[Ninereeds]Generating happens when a machine works.
-Generating happens when a person writes code or ideas.
-Generating happens when a system makes power or text.
-Generating happens when a process starts a new result.
-Generating happens when a source feeds a steady flow.
-Generating happens when source meets output.
+[user]Where does generation appear?
+[Ninereeds]This is generation.
+Generation appears in a factory.
+Generation appears in a power plant.
+Generation appears in a mind.
+Generation appears in a computer.
+Generation appears in a studio.
+Generation appears in a factory and in a computer.
 
-[user]What does generating bring?
-[Ninereeds]Generating brings new material into use.
-Generating brings extra power or light.
-Generating brings fresh numbers or words.
-Generating brings useful ideas for a task.
-Generating brings a larger supply to hand.
-Generating brings supply and output.
+[user]What does generation do?
+[Ninereeds]This is generation.
+Generation creates new material.
+Generation produces energy.
+Generation forms fresh ideas.
+Generation supplies output.
+Generation starts a process.
+Generation creates new material and produces energy.
 
-[user]What is generating for?
-[Ninereeds]Generating is for making results.
-Generating is for building supply.
-Generating is for starting a process.
-Generating is for creating data or text.
-Generating is for adding useful output.
-Generating is for result and supply.
+[user]What does generation give?
+[Ninereeds]This is generation.
+Generation is for supply.
+Generation is for production.
+Generation is for innovation.
+Generation is for power.
+Generation is for making things.
+Generation is for supply and for production.

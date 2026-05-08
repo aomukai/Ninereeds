@@ -7,7 +7,7 @@ English has rules.
 English is used for writing.
 English is a language with words and rules.
 
-[user]Where is English?
+[user]Where can you find English?
 [Ninereeds]This is English.
 English is in books.
 English is in songs.
@@ -25,7 +25,7 @@ English connects people.
 English expresses feelings.
 English communicates ideas and connects people.
 
-[user]What is English for?
+[user]What does English give?
 [Ninereeds]This is English.
 English is for talking.
 English is for writing.

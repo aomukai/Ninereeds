@@ -7,7 +7,7 @@ Insurance is a risk management.
 Insurance is a contract.
 Insurance is a protection and a financial safety net.
 
-[user]Where is insurance found?
+[user]Where can you find insurance?
 [Ninereeds]This is insurance.
 Insurance is found in policies.
 Insurance is found in companies.
@@ -25,7 +25,7 @@ Insurance transfers financial burden.
 Insurance gives peace of mind.
 Insurance covers losses and provides security.
 
-[user]What is insurance for?
+[user]What does insurance give?
 [Ninereeds]This is insurance.
 Insurance is for financial protection.
 Insurance is for peace of mind.

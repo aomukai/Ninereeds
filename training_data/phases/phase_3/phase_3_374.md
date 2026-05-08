@@ -25,7 +25,7 @@ Gab passes the time with talk.
 Gab keeps a person on the phone.
 Gab shares news with a friend on the phone.
 
-[user]What is gab for?
+[user]What does gab give?
 [Ninereeds]This is gab.
 Gab helps a friend share news.
 Gab lets a person tell a story.

@@ -5,7 +5,7 @@ tour can be in a town or park.
 tour can be by a guide or map.
 tour is a walk or ride to see places.
 
-[user]Where is tour?
+[user]Where can you find tour?
 [Ninereeds]tour is here.
 tour can be in a town or park.
 tour can be by a guide or map.

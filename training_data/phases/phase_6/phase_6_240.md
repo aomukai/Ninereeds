@@ -7,7 +7,7 @@ south is shown as letter S.
 south is bottom on a globe.
 south is directional and fixed.
 
-[user]Where is south?
+[user]Where can you find south?
 [Ninereeds]This is south.
 south is on a map edge.
 south is in many countries.
@@ -25,7 +25,7 @@ south indicates a location on chart.
 south helps navigation for ships.
 south is guiding and orienting.
 
-[user]What is south for?
+[user]What does south give?
 [Ninereeds]This is south.
 south is for finding direction.
 south is for reading maps.

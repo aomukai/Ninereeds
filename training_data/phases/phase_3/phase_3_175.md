@@ -22,7 +22,7 @@ Reshaping brings a more useful result.
 Reshaping brings fresh style or purpose.
 Reshaping brings fit and style.
 
-[user]What is reshaping for?
+[user]What does reshaping give?
 [Ninereeds]Reshaping is for changing a form to fit a need.
 Reshaping is for improving a shape.
 Reshaping is for making work easier to use.

@@ -25,7 +25,7 @@ Geometry is making maps.
 Geometry is drawing.
 Geometry is finding size and drawing.
 
-[user]What is geometry for?
+[user]What does geometry give?
 [Ninereeds]This is geometry.
 Geometry is for building homes.
 Geometry is for making bridges.

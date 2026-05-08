@@ -25,7 +25,7 @@ Bang marks a moment.
 Bang follows a fast movement.
 Bang is a sound that gets attention.
 
-[user]What is bang for?
+[user]What does bang give?
 [Ninereeds]This is bang.
 Bang is for making noise.
 Bang is for celebration.

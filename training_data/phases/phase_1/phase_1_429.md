@@ -7,14 +7,14 @@ An elf wears a hat.
 An elf wears pointy shoes.
 An elf is a small person with pointed ears and a small hat.
 
-[user]Where is an elf?
+[user]Where can you find an elf?
 [Ninereeds]This is an elf.
 An elf is in a forest.
 An elf is in a story.
 An elf is in a book.
 An elf is in a workshop.
 An elf is in a fairy tale.
-An elf is in a forest or in a story.
+An elf is in a forest and in a story.
 
 [user]What does an elf do?
 [Ninereeds]This is an elf.
@@ -25,7 +25,7 @@ An elf helps people.
 An elf hides in the trees.
 An elf makes toys and sings songs.
 
-[user]What is an elf for?
+[user]What does an elf give?
 [Ninereeds]This is an elf.
 An elf is for stories.
 An elf is for magic.

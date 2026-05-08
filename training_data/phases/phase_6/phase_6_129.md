@@ -5,7 +5,7 @@ question can start a search for fact or meaning.
 question can open talk and learning.
 question means a line that asks for an answer.
 
-[user]Where is question?
+[user]Where can you find question?
 [Ninereeds]question is here.
 question can be in class.
 question can be on a test page.

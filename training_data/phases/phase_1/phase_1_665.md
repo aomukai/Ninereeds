@@ -7,7 +7,7 @@ A mineral comes from the ground.
 A mineral is a hard solid from the ground.
 A mineral is a solid and a crystal.
 
-[user]Where is a mineral?
+[user]Where can you find a mineral?
 [Ninereeds]This is a mineral.
 A mineral is in the ground.
 A mineral is in a rock.
@@ -25,7 +25,7 @@ A mineral sits in layers in the earth.
 A mineral is a solid that forms crystals in the ground.
 A mineral is colorful and crystalline.
 
-[user]What is a mineral for?
+[user]What does a mineral give?
 [Ninereeds]This is a mineral.
 A mineral is for making metal.
 A mineral is for jewelry.

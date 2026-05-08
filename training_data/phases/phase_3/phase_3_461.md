@@ -7,14 +7,14 @@ A puff is a tiny round ball.
 A puff is a quick small breath.
 A puff is a small white round burst.
 
-[user]Where is a puff found?
+[user]Where can you find a puff?
 [Ninereeds]This is a puff.
 A puff is above a candle.
 A puff is near a mouth.
 A puff is from a chimney or pipe.
 A puff is on a cold day.
 A puff is in the air.
-A puff is above a candle or from a chimney.
+A puff is above a candle and from a chimney.
 
 [user]What does a puff do?
 [Ninereeds]This is a puff.
@@ -25,7 +25,7 @@ A puff rises up high and disappears.
 A puff vanishes from sight.
 A puff rises and fades away.
 
-[user]What is a puff used for?
+[user]What does a puff give?
 [Ninereeds]This is a puff.
 A puff blows out a candle.
 A puff cools hot soup.

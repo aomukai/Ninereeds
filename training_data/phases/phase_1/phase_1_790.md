@@ -7,7 +7,7 @@ Pink is soft.
 Pink is bright.
 Pink is light and soft.
 
-[user]Where is pink?
+[user]Where can you find pink?
 [Ninereeds]This is pink.
 Pink is on a flower.
 Pink is on a balloon.
@@ -25,7 +25,7 @@ Pink makes a room feel nice.
 Pink makes a sunset look beautiful.
 Pink is soft and sweet.
 
-[user]What is pink for?
+[user]What does pink give?
 [Ninereeds]This is pink.
 Pink is for decorating.
 Pink is for a party.

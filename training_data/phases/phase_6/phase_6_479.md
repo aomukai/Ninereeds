@@ -5,7 +5,7 @@ Label is a tag.
 Label is a mark.
 Label is a word for identification.
 Label is a classification.
-Label is a name or mark for identification.
+Label is a name and mark for identification.
 
 [user]Where does label appear?
 [Ninereeds]This is a label.
@@ -25,7 +25,7 @@ Label guides actions.
 Label simplifies sorting.
 Label identifies and categorizes.
 
-[user]What is label for?
+[user]What does label give?
 [Ninereeds]This is a label.
 Label is for organizing.
 Label is for clear communication.

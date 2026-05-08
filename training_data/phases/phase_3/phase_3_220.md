@@ -22,7 +22,7 @@ Improving brings greater skill.
 Improving brings steady progress.
 Improving brings progress and skill.
 
-[user]What is improving for?
+[user]What does improving give?
 [Ninereeds]Improving is for making work better.
 Improving is for raising quality.
 Improving is for fixing weak parts.

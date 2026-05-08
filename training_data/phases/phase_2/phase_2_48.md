@@ -6,7 +6,7 @@ The stickball is made of rubber.
 The stickball is light.
 A stickball is a ball used for stickball.
 
-[user]Where is a stickball?
+[user]Where can you find a stickball?
 [Ninereeds]This is a stickball.
 The stickball is on a street.
 The stickball is on the ground.

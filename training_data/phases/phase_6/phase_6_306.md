@@ -25,7 +25,7 @@ Temper heats the body with emotion.
 Temper passes like a storm cloud.
 Temper is intense and temporary.
 
-[user]What is temper for?
+[user]What does temper give?
 [Ninereeds]This is temper.
 Temper signals a boundary has been crossed.
 Temper releases built-up frustration.

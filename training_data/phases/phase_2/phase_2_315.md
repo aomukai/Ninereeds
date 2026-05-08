@@ -7,7 +7,7 @@ A rooftop has a ledge
 A rooftop is wide
 A rooftop is flat and high on a building
 
-[user]Where is a rooftop?
+[user]Where can you find a rooftop?
 [Ninereeds]This is a rooftop.
 A rooftop is on a building
 A rooftop is at the top
@@ -25,7 +25,7 @@ A rooftop stands above walls
 A rooftop defends from weather
 A rooftop covers the building and blocks the rain
 
-[user]What is a rooftop for?
+[user]What does a rooftop give?
 [Ninereeds]This is a rooftop.
 A rooftop is for cover
 A rooftop is for shelter

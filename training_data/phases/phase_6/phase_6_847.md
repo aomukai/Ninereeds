@@ -5,9 +5,9 @@ Comedy is a movie.
 Comedy is a show.
 Comedy is funny.
 Comedy makes people laugh.
-Comedy is a funny play or movie.
+Comedy is a funny play and movie.
 
-[user]Where is comedy found?
+[user]Where can you find comedy?
 [Ninereeds]This is comedy.
 Comedy is found in theaters.
 Comedy is found on TV.
@@ -25,7 +25,7 @@ Comedy makes people think.
 Comedy helps with feelings.
 Comedy makes people happy and brings joy.
 
-[user]What is comedy for?
+[user]What does comedy give?
 [Ninereeds]This is comedy.
 Comedy is for entertainment.
 Comedy is for laughter.

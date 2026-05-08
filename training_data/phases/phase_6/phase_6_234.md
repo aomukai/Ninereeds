@@ -25,7 +25,7 @@ Solid gives strength to structures.
 Solid maintains a form in place.
 Solid holds shape and gives strength.
 
-[user]What is solid for?
+[user]What does solid give?
 [Ninereeds]This is solid.
 Solid is for building strong structures.
 Solid is for providing stable ground.

@@ -25,7 +25,7 @@ A tip touches first.
 A tip enters small spaces.
 A tip draws lines and pokes holes.
 
-[user]What is a tip for?
+[user]What does a tip give?
 [Ninereeds]This is a tip.
 A tip is for writing.
 A tip is for cutting.

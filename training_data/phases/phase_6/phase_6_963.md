@@ -7,14 +7,14 @@ An ingroup feels loyalty.
 An ingroup is a social circle.
 An ingroup is a group of people sharing common things and feeling loyalty.
 
-[user]Where is ingroup?
+[user]Where can you find ingroup?
 [Ninereeds]This is an ingroup.
 An ingroup is in a school.
 An ingroup is in a family.
 An ingroup is in a club.
 An ingroup is in a community.
 An ingroup is in a team.
-An ingroup is in a family or a club.
+An ingroup is in a family and a club.
 
 [user]What does ingroup do?
 [Ninereeds]This is an ingroup.
@@ -25,7 +25,7 @@ An ingroup creates connection.
 An ingroup builds bonds.
 An ingroup gives support and provides identity.
 
-[user]What is ingroup for?
+[user]What does ingroup give?
 [Ninereeds]This is an ingroup.
 An ingroup is for friendship.
 An ingroup is for teamwork.

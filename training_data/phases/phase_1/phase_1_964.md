@@ -1,35 +1,35 @@
-[user]What does a skull look like?
-[Ninereeds]This is a skull.
-A skull is round.
-A skull is white.
-A skull is bone.
-A skull has eye holes.
-A skull has a jaw.
-A skull is a round white bone.
+[user]What does a skirt look like?
+[Ninereeds]This is a skirt.
+A skirt is made of cloth.
+A skirt is long.
+A skirt is soft.
+A skirt has a waistband.
+A skirt has a hem.
+A skirt is long and soft.
 
-[user]Where can you find a skull?
-[Ninereeds]This is a skull.
-A skull is on top of a spine.
-A skull is inside a head.
-A skull is in a museum.
-A skull is in the ground.
-A skull is on a skeleton.
-A skull is on top of a spine and inside a head.
+[user]Where can you find a skirt?
+[Ninereeds]This is a skirt.
+A skirt is on a person.
+A skirt is around a waist.
+A skirt is in a closet.
+A skirt is in a store.
+A skirt is on a hanger.
+A skirt is on a person and around a waist.
 
-[user]What does a skull do?
-[Ninereeds]This is a skull.
-A skull holds a brain.
-A skull protects a brain.
-A skull has a jaw.
-A skull holds teeth.
-A skull is a bone case.
-A skull holds and protects a brain.
+[user]What does a skirt do?
+[Ninereeds]This is a skirt.
+A skirt covers legs.
+A skirt allows movement.
+A skirt provides comfort.
+A skirt adds style.
+A skirt protects skin.
+A skirt covers legs and adds style.
 
-[user]What does a skull give?
-[Ninereeds]This is a skull.
-A skull keeps a brain safe.
-A skull gives a face shape.
-A skull is a helmet for a brain.
-A skull holds eyes.
-A skull holds a nose.
-A skull is a brain helmet and a face shaper.
+[user]What does a skirt give?
+[Ninereeds]This is a skirt.
+A skirt gives a person modesty.
+A skirt gives a person freedom.
+A skirt gives a person warmth.
+A skirt gives a person color.
+A skirt gives a person shape.
+A skirt gives a person modesty and freedom.

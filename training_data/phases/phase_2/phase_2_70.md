@@ -6,7 +6,7 @@ Parking has cars.
 Parking is often flat.
 Parking is an area with lines and spaces for cars.
 
-[user]Where is parking?
+[user]Where can you find parking?
 [Ninereeds]This is parking.
 Parking is next to a building.
 Parking is on a street.
@@ -22,7 +22,7 @@ Parking organizes cars.
 Parking makes cars wait.
 Parking holds and organizes cars.
 
-[user]What is parking for?
+[user]What does parking give?
 [Ninereeds]This is parking.
 Parking is for cars.
 Parking is for stopping.

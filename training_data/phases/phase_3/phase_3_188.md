@@ -22,7 +22,7 @@ Grieving brings care from others.
 Grieving brings a deeper bond to memory.
 Grieving brings sorrow and care.
 
-[user]What is grieving for?
+[user]What does grieving give?
 [Ninereeds]Grieving is for feeling loss fully.
 Grieving is for honoring memory.
 Grieving is for giving sorrow a place.

@@ -5,7 +5,7 @@ Watch is to look at.
 Watch is to pay attention.
 Watch is to guard.
 Watch is to monitor.
-Watch is to observe or look at.
+Watch is to observe and look at.
 
 [user]Where does watch appear?
 [Ninereeds]This is watch.
@@ -25,7 +25,7 @@ Watch allows enjoyment.
 Watch shows events unfold.
 Watch provides information and understanding.
 
-[user]What is watch for?
+[user]What does watch give?
 [Ninereeds]This is watch.
 Watch is for learning.
 Watch is for entertainment.

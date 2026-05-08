@@ -25,7 +25,7 @@ Burst ends containment.
 Burst creates an opening.
 Burst is a sudden release and is a release of contents.
 
-[user]What is burst for?
+[user]What does burst give?
 [Ninereeds]This is burst.
 Burst is for release.
 Burst is for expression.

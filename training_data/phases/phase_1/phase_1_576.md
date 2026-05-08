@@ -7,7 +7,7 @@ Ice is frozen water.
 Ice is slick.
 Ice is hard and cold.
 
-[user]Where is ice?
+[user]Where can you find ice?
 [Ninereeds]This is ice.
 Ice is on a lake.
 Ice is on a pond.

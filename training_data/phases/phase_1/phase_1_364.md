@@ -7,7 +7,7 @@ A counter is in a kitchen.
 A counter is smooth.
 A counter is a long flat hard smooth surface in a kitchen.
 
-[user]Where is a counter?
+[user]Where can you find a counter?
 [Ninereeds]This is a counter.
 A counter is in a kitchen.
 A counter is in a bathroom.
@@ -25,7 +25,7 @@ A counter resists scratches.
 A counter stays clean.
 A counter is a flat surface that holds food for work.
 
-[user]What is a counter used for?
+[user]What does a counter give?
 [Ninereeds]This is a counter.
 A counter is for preparing food.
 A counter is for placing groceries.

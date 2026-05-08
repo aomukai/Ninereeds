@@ -7,7 +7,7 @@ Soup fills a bowl.
 Soup is eaten from a bowl.
 Soup is warm and liquid.
 
-[user]Where is soup?
+[user]Where can you find soup?
 [Ninereeds]This is soup.
 Soup is in a bowl.
 Soup is made in a pot.
@@ -25,7 +25,7 @@ Soup spills if the bowl is tipped.
 Soup is a warm liquid that steams and cools.
 Soup is warm and liquid.
 
-[user]What is soup used for?
+[user]What does soup give?
 [Ninereeds]This is soup.
 Soup is eaten when hungry.
 Soup is eaten with a spoon.

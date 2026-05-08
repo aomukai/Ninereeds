@@ -5,7 +5,7 @@ unit can be on a chart or page.
 unit can be in math or science.
 unit is one part in a set.
 
-[user]Where is unit?
+[user]Where can you find unit?
 [Ninereeds]unit is here.
 unit can be on a chart or page.
 unit can be in math or science.

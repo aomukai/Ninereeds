@@ -7,7 +7,7 @@ A cherry has a stem.
 A cherry has a pit inside.
 A cherry is a small round red fruit with a stem.
 
-[user]Where is a cherry?
+[user]Where can you find a cherry?
 [Ninereeds]This is a cherry.
 A cherry is on a tree.
 A cherry is in a bowl.
@@ -25,7 +25,7 @@ A cherry falls to ground.
 A cherry gets soft.
 A cherry hangs from a stem and grows on a tree.
 
-[user]What is a cherry for?
+[user]What does a cherry give?
 [Ninereeds]This is a cherry.
 A cherry is for eating.
 A cherry is for pies.

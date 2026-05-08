@@ -7,7 +7,7 @@ A newt has smooth skin.
 A newt lives near water.
 A newt is a small animal with a long tail and smooth skin.
 
-[user]Where is a newt?
+[user]Where can you find a newt?
 [Ninereeds]This is a newt.
 A newt is in a pond.
 A newt is under a rock.
@@ -25,7 +25,7 @@ A newt eats small worms.
 A newt hides from big animals.
 A newt is a swimmer and a hunter.
 
-[user]What is a newt for?
+[user]What does a newt give?
 [Ninereeds]This is a newt.
 A newt is part of a pond.
 A newt eats bugs in the water.

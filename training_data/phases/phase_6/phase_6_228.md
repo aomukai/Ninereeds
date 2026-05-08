@@ -25,7 +25,7 @@ Sniff alerts nose to food.
 Sniff warns nose of danger.
 Sniff is a detection and a warning.
 
-[user]What is sniff for?
+[user]What does sniff give?
 [Ninereeds]This is sniff.
 Sniff is for smelling a flower.
 Sniff is for checking food.

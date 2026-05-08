@@ -5,7 +5,7 @@ Decision is a conclusion.
 Decision is a judgment.
 Decision is an outcome of deliberation.
 Decision is a determination.
-Decision is a choice or conclusion.
+Decision is a choice and conclusion.
 
 [user]Where does decision appear?
 [Ninereeds]This is a decision.
@@ -25,7 +25,7 @@ Decision brings clarity.
 Decision allocates resources.
 Decision leads to action and resolves uncertainty.
 
-[user]What is decision for?
+[user]What does decision give?
 [Ninereeds]This is a decision.
 Decision is for guiding behavior.
 Decision is for achieving goals.

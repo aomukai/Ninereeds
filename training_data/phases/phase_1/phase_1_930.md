@@ -7,7 +7,7 @@ Sharp is narrow at the end.
 Sharp cuts through things.
 Sharp has a point and a thin edge.
 
-[user]Where is sharp?
+[user]Where can you find sharp?
 [Ninereeds]This is sharp.
 Sharp is on a knife.
 Sharp is on scissors.
@@ -25,7 +25,7 @@ Sharp pierces skin.
 Sharp carves shapes.
 Sharp cuts and slices and carves.
 
-[user]What is sharp for?
+[user]What does sharp give?
 [Ninereeds]This is sharp.
 Sharp is for cutting.
 Sharp is for slicing.

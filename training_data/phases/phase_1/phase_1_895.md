@@ -7,7 +7,7 @@ Sand covers the beach.
 Sand pours through fingers.
 Sand is a soft grainy cover on a beach.
 
-[user]Where is sand?
+[user]Where can you find sand?
 [Ninereeds]This is sand.
 Sand is on a beach.
 Sand is in a desert.
@@ -25,7 +25,7 @@ Sand molds into a shape.
 Sand slides through fingers.
 Sand covers the ground and shifts in the wind.
 
-[user]What is sand for?
+[user]What does sand give?
 [Ninereeds]This is sand.
 Sand is for building a sandcastle.
 Sand is for playing in a sandbox.

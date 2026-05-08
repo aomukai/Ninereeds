@@ -25,7 +25,7 @@ Culture fosters belonging.
 Culture transmits knowledge.
 Culture shapes identity and guides behavior.
 
-[user]What is culture for?
+[user]What does culture give?
 [Ninereeds]This is culture.
 Culture is for connection.
 Culture is for understanding.

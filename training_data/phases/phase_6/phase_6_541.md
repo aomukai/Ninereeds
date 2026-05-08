@@ -5,7 +5,7 @@ Experience is practical contact.
 Experience is an event lived.
 Experience is a past occurrence.
 Experience is skill from practice.
-Experience is knowledge or skill gained.
+Experience is knowledge and skill gained.
 
 [user]Where does experience appear?
 [Ninereeds]This is experience.
@@ -25,7 +25,7 @@ Experience informs decisions.
 Experience provides lessons.
 Experience builds wisdom and improves skills.
 
-[user]What is experience for?
+[user]What does experience give?
 [Ninereeds]This is experience.
 Experience is for learning.
 Experience is for growth.

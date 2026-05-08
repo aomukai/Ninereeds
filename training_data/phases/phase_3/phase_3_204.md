@@ -25,7 +25,7 @@ Exposure strengthens an immune system.
 Exposure alters a material surface.
 Exposure reveals hidden information and transforms a photographic film.
 
-[user]What is exposure for?
+[user]What does exposure give?
 [Ninereeds]This is exposure.
 Exposure is for creating a photographic print.
 Exposure is for acquiring immunity to a disease.

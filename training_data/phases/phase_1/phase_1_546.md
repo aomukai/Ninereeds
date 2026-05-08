@@ -7,7 +7,7 @@ A hamster has a short tail.
 A hamster is brown or white.
 A hamster has soft fur and round ears.
 
-[user]Where is a hamster?
+[user]Where can you find a hamster?
 [Ninereeds]This is a hamster.
 A hamster is in a cage.
 A hamster is on a wheel.
@@ -25,7 +25,7 @@ A hamster chews on wood.
 A hamster stores food in a cheek.
 A hamster runs on a wheel and eats seeds.
 
-[user]What is a hamster for?
+[user]What does a hamster give?
 [Ninereeds]This is a hamster.
 A hamster is for a pet.
 A hamster is for a cage.

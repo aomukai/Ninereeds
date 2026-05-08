@@ -7,7 +7,7 @@ A quarter has ridges.
 A quarter is a coin.
 A quarter is round and silver.
 
-[user]Where is a quarter?
+[user]Where can you find a quarter?
 [Ninereeds]This is a quarter.
 A quarter is in a pocket.
 A quarter is in a purse.
@@ -25,7 +25,7 @@ A quarter goes in machines.
 A quarter clinks.
 A quarter is for buying and for paying.
 
-[user]What is a quarter for?
+[user]What does a quarter give?
 [Ninereeds]This is a quarter.
 A quarter is for money.
 A quarter is for buying.

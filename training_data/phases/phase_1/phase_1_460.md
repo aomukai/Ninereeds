@@ -7,7 +7,7 @@ A fir has a cone shape.
 A fir has branches.
 A fir is a tall green tree with needles.
 
-[user]Where is a fir?
+[user]Where can you find a fir?
 [Ninereeds]This is a fir.
 A fir is in a forest.
 A fir is on a hill.

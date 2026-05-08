@@ -22,7 +22,7 @@ Reacting brings quick change in action.
 Reacting brings a clear answer to a cue.
 Reacting brings response and motion.
 
-[user]What is reacting for?
+[user]What does reacting give?
 [Ninereeds]Reacting is for answering a change.
 Reacting is for showing feeling.
 Reacting is for meeting a need fast.

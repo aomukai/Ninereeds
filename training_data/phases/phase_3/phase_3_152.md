@@ -22,7 +22,7 @@ Frustrating brings slower progress.
 Frustrating brings a need for patience.
 Frustrating brings tension and irritation.
 
-[user]What is frustrating for?
+[user]What does frustrating give?
 [Ninereeds]Frustrating is for showing a hard stop in a task.
 Frustrating is for exposing a weak point in a plan.
 Frustrating is for pushing patience to a limit.

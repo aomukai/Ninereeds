@@ -7,7 +7,7 @@ Snuggle is a soft hold.
 Snuggle is a tuck of the body.
 Snuggle is close and warm.
 
-[user]Where is snuggle?
+[user]Where can you find snuggle?
 [Ninereeds]This is snuggle.
 Snuggle is in a bed.
 Snuggle is on a couch.
@@ -25,7 +25,7 @@ Snuggle shares warmth between two.
 Snuggle tucks a chin into a neck.
 Snuggle is a hold and a tuck.
 
-[user]What is snuggle for?
+[user]What does snuggle give?
 [Ninereeds]This is snuggle.
 Snuggle is for comfort.
 Snuggle is for warmth.

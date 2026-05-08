@@ -5,7 +5,7 @@ read can be in class.
 read can be on a page.
 read means an act of looking at word for meaning.
 
-[user]Where is read?
+[user]Where can you find read?
 [Ninereeds]read is here.
 read can be in class.
 read can be on a page.

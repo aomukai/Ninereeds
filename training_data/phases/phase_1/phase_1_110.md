@@ -7,7 +7,7 @@ The thumb sits apart from the other fingers.
 The thumb is on the side of the hand.
 The thumb is short and sits apart.
 
-[user]Where is a thumb?
+[user]Where can you find a thumb?
 [Ninereeds]This is a thumb.
 The thumb is on the side of the hand.
 The thumb is next to the first finger.
@@ -25,7 +25,7 @@ The thumb pushes against soft things.
 The thumb grasps items.
 The thumb is bending and gripping.
 
-[user]What is a thumb used for?
+[user]What does a thumb give?
 [Ninereeds]This is a thumb.
 The thumb is used for gripping.
 The thumb works with the fingers to hold things.

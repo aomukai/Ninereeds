@@ -25,7 +25,7 @@ Fit tucks a thing into a case.
 Fit rests a part flat in a frame.
 Fit slides a part into a slot.
 
-[user]What is fit for?
+[user]What does fit give?
 [Ninereeds]This is fit.
 Fit keeps a shoe on a foot.
 Fit keeps a glove on a hand.

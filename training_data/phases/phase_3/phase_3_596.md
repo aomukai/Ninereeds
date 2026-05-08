@@ -7,7 +7,7 @@ Yell cuts through noise.
 Yell is heard from far away.
 Yell is a loud shout and a strong sound.
 
-[user]Where is yell?
+[user]Where can you find yell?
 [Ninereeds]This is a yell.
 Yell is in a playground.
 Yell is at a sports game.
@@ -25,7 +25,7 @@ Yell warns of danger.
 Yell shows strong feeling.
 Yell calls a person and gets attention.
 
-[user]What is yell for?
+[user]What does yell give?
 [Ninereeds]This is a yell.
 Yell is for calling.
 Yell is for warning.

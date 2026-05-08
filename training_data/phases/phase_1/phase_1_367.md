@@ -7,7 +7,7 @@ A cracker has holes.
 A cracker is crispy.
 A cracker is a flat square dry crispy snack with holes.
 
-[user]Where is a cracker?
+[user]Where can you find a cracker?
 [Ninereeds]This is a cracker.
 A cracker is in a box.
 A cracker is in a pantry.
@@ -25,7 +25,7 @@ A cracker fills a tummy.
 A cracker holds cheese.
 A cracker is a snack that crunches and holds cheese.
 
-[user]What is a cracker used for?
+[user]What does a cracker give?
 [Ninereeds]This is a cracker.
 A cracker is for snacking.
 A cracker is for dipping in soup.

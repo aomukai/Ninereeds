@@ -5,7 +5,7 @@ wait can be at a door or stop.
 wait can be in a line or room.
 wait is a quiet hold before a next step.
 
-[user]Where is wait?
+[user]Where can you find wait?
 [Ninereeds]wait is here.
 wait can be at a door or stop.
 wait can be in a line or room.

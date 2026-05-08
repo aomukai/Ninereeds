@@ -5,7 +5,7 @@ A frame is a structure.
 A frame is a way to see.
 A frame is an outline.
 A frame is a support.
-A frame is a border or a structure.
+A frame is a border and a structure.
 
 [user]Where does a frame appear?
 [Ninereeds]This is a frame.
@@ -14,7 +14,7 @@ A frame is on a window.
 A frame is in a mind.
 A frame is in a story.
 A frame is in a rule.
-A frame is on a picture or in a mind.
+A frame is on a picture and in a mind.
 
 [user]What does a frame do?
 [Ninereeds]This is a frame.
@@ -25,7 +25,7 @@ A frame sets a limit.
 A frame helps to organize.
 A frame holds a thing and defines a view.
 
-[user]What is a frame for?
+[user]What does a frame give?
 [Ninereeds]This is a frame.
 A frame is for support.
 A frame is for showing.

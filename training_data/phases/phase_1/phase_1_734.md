@@ -7,7 +7,7 @@ An onion is white, yellow, or red.
 An onion has a papery skin.
 An onion is a round vegetable with layers and a papery skin.
 
-[user]Where is an onion?
+[user]Where can you find an onion?
 [Ninereeds]This is an onion.
 An onion is in the ground.
 An onion is in a kitchen.
@@ -25,7 +25,7 @@ An onion crunches when raw.
 An onion makes a kitchen smell strong.
 An onion is a vegetable that adds flavor and makes a person cry.
 
-[user]What is an onion for?
+[user]What does an onion give?
 [Ninereeds]This is an onion.
 An onion is for cooking.
 An onion is for salads.

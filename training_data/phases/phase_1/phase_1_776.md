@@ -7,7 +7,7 @@ A petal is smooth.
 A petal is curved.
 A petal is smooth and colorful.
 
-[user]Where is a petal?
+[user]Where can you find a petal?
 [Ninereeds]This is a petal.
 A petal is on a flower.
 A petal is on a stem.
@@ -25,7 +25,7 @@ A petal dries in air.
 A petal attracts bees.
 A petal opens and curls.
 
-[user]What is a petal for?
+[user]What does a petal give?
 [Ninereeds]This is a petal.
 A petal is for attracting bees.
 A petal is for protecting pistil.

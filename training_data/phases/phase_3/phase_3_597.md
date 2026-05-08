@@ -25,7 +25,7 @@ Zigzag cuts with a serrated edge.
 Zigzag distributes force.
 Zigzag changes direction and reduces steepness.
 
-[user]What is zigzag for?
+[user]What does zigzag give?
 [Ninereeds]This is a zigzag.
 Zigzag is for climbing steep terrain.
 Zigzag is for creating decorative borders.

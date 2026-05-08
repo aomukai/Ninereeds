@@ -5,7 +5,7 @@ Tuesday is after Monday.
 Tuesday is before Wednesday.
 Tuesday is often a workday.
 Tuesday is named for a god.
-Tuesday is the second day.
+Tuesday is a day of week and is after Monday.
 
 [user]Where does tuesday appear?
 [Ninereeds]This is Tuesday.
@@ -25,7 +25,7 @@ Tuesday helps planning.
 Tuesday creates routine.
 Tuesday organizes time and marks events.
 
-[user]What is tuesday for?
+[user]What does tuesday give?
 [Ninereeds]This is Tuesday.
 Tuesday is for work.
 Tuesday is for school.

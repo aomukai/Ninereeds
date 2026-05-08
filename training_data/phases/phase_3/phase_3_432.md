@@ -3,11 +3,11 @@
 Nod is a dip of the head.
 Nod is a small move down.
 Nod is a quick tip of the chin.
-Nod is a yes with no words.
+Nod is a yes without words.
 Nod is a signal from the neck.
 Nod is a dip of the head for yes.
 
-[user]Where is nod?
+[user]Where can you find nod?
 [Ninereeds]This is nod.
 Nod is at a face.
 Nod is in a talk.

@@ -1,31 +1,35 @@
 [user]What is speaking?
-[Ninereeds]Speaking is using words aloud.
-Speaking is a live human action.
-Speaking is common in talks and lessons.
-Speaking is shaped by voice, tone, and pace.
-Speaking is a way to share meaning.
-Speaking is voice and meaning.
+[Ninereeds]This is speaking.
+Speaking is using the voice.
+Speaking shares words with others.
+Speaking needs sound and breath.
+Speaking happens in a conversation.
+Speaking is a way to share ideas.
+Speaking is using voice to share and words.
 
-[user]When does speaking happen?
-[Ninereeds]Speaking happens when a person uses a mouth and voice.
-Speaking happens during conversation and teaching.
-Speaking happens in meetings, calls, and stories.
-Speaking happens while asking questions or sharing news.
-Speaking happens before a group or a single listener.
-Speaking happens with voice and message.
+[user]Where does speaking happen?
+[Ninereeds]This is speaking.
+Speaking is in a classroom.
+Speaking is at a meeting.
+Speaking is on a phone.
+Speaking is in a home.
+Speaking is at a market.
+Speaking is in a classroom and at home.
 
 [user]What does speaking bring?
-[Ninereeds]Speaking brings ideas into the air.
-Speaking brings shared understanding.
-Speaking brings questions and answers.
-Speaking brings comfort or concern.
-Speaking brings social connection.
-Speaking brings meaning and connection.
+[Ninereeds]This is speaking.
+Speaking brings clear communication.
+Speaking brings shared ideas.
+Speaking brings answers to questions.
+Speaking brings connection between people.
+Speaking brings understanding to a group.
+Speaking brings ideas and connection.
 
-[user]What is speaking for?
-[Ninereeds]Speaking is for sharing ideas.
-Speaking is for asking and answering.
-Speaking is for teaching and guiding.
-Speaking is for greeting and building trust.
-Speaking is for shaping group life.
-Speaking is for voice and connection.
+[user]What does speaking give?
+[Ninereeds]This is speaking.
+Speaking is for asking questions.
+Speaking is for telling a story.
+Speaking is for giving an answer.
+Speaking is for sharing news.
+Speaking is for teaching a lesson.
+Speaking is for asking and telling.

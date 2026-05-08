@@ -3,11 +3,11 @@
 A slipper is soft.
 A slipper is fuzzy.
 A slipper covers a foot.
-A slipper has no heel.
+A slipper lacks heel.
 A slipper is pink.
 A slipper is soft and fuzzy.
 
-[user]Where is a slipper found?
+[user]Where can you find a slipper?
 [Ninereeds]This is a slipper.
 A slipper is on a foot.
 A slipper is by a bed.
@@ -25,7 +25,7 @@ A slipper fits a foot.
 A slipper stays on a foot.
 A slipper keeps a foot warm and stays on a foot.
 
-[user]What is a slipper for?
+[user]What does a slipper give?
 [Ninereeds]This is a slipper.
 A slipper is for indoors.
 A slipper wears in a house.

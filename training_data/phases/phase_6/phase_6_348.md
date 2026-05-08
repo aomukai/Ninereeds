@@ -5,7 +5,7 @@ vibrate can be in a phone or bell.
 vibrate can be on a table or desk.
 vibrate is an action of small fast shakes.
 
-[user]Where is vibrate?
+[user]Where can you find vibrate?
 [Ninereeds]vibrate is here.
 vibrate can be in a phone or bell.
 vibrate can be on a table or desk.

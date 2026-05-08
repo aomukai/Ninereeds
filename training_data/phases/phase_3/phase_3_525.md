@@ -25,7 +25,7 @@ Swing goes down.
 Swing loops in air.
 Swing is up and down.
 
-[user]What is swing for?
+[user]What does swing give?
 [Ninereeds]This is swing.
 Swing is for play.
 Swing is fun ride.

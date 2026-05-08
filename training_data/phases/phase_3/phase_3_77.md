@@ -22,7 +22,7 @@ Writing brings memory that can last.
 Writing brings words that others can read.
 Writing brings record and memory.
 
-[user]What is writing for?
+[user]What does writing give?
 [Ninereeds]Writing is for keeping a record.
 Writing is for sharing thought.
 Writing is for making a story.

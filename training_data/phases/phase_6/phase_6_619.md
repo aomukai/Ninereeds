@@ -22,7 +22,7 @@ Tending brings the mind a sense of where the current flows.
 Tending brings order from the chaos of isolated events.
 Tending brings direction and habit.
 
-[user]What is tending for?
+[user]What does tending give?
 [Ninereeds]Tending is for showing a steady lean.
 Tending is for reading the faint signals of direction in a noisy world.
 Tending is for preparing for what probability quietly favours.

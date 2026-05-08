@@ -5,7 +5,7 @@ Record is preserved sound.
 Record is a past achievement.
 Record is a stored fact.
 Record is an official account.
-Record is written information or sound.
+Record is written information and sound.
 
 [user]Where does record appear?
 [Ninereeds]This is a record.
@@ -25,7 +25,7 @@ Record shows progress.
 Record provides proof.
 Record keeps memory and stores data.
 
-[user]What is record for?
+[user]What does record give?
 [Ninereeds]This is a record.
 Record is for learning from past.
 Record is for celebrating achievements.

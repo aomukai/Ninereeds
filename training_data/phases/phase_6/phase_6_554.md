@@ -5,7 +5,7 @@ Variation is a change.
 Variation is a deviation.
 Variation is a modification.
 Variation is a diversity.
-Variation is a difference or change.
+Variation is a difference and change.
 
 [user]Where does variation appear?
 [Ninereeds]This is variation.
@@ -25,7 +25,7 @@ Variation provides options.
 Variation enriches experiences.
 Variation creates diversity and allows adaptation.
 
-[user]What is variation for?
+[user]What does variation give?
 [Ninereeds]This is variation.
 Variation is for survival.
 Variation is for adaptation.

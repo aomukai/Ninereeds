@@ -7,7 +7,7 @@ A destination is a target.
 A destination is an endpoint.
 A destination is a place and a goal.
 
-[user]Where is a destination?
+[user]Where can you find a destination?
 [Ninereeds]This is a destination.
 A destination is on a map.
 A destination is at the end of a journey.
@@ -25,7 +25,7 @@ A destination marks an achievement.
 A destination brings closure.
 A destination guides travel and motivates action.
 
-[user]What is a destination for?
+[user]What does a destination give?
 [Ninereeds]This is a destination.
 A destination is for travel.
 A destination is for achieving goals.

@@ -7,7 +7,7 @@ A bull has a thick neck.
 A bull is a male cow.
 A bull is large and male.
 
-[user]Where is a bull?
+[user]Where can you find a bull?
 [Ninereeds]This is a bull.
 A bull is in a field.
 A bull is on a farm.
@@ -25,7 +25,7 @@ A bull rests in shade.
 A bull sniffs the air.
 A bull is a grazer and a walker.
 
-[user]What is a bull for?
+[user]What does a bull give?
 [Ninereeds]This is a bull.
 A bull is for a farm.
 A bull is for making calves.

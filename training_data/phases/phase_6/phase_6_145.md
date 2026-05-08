@@ -5,7 +5,7 @@ right can be on a test page.
 right can be in a rule book.
 right means a correct answer or proper act.
 
-[user]Where is right?
+[user]Where can you find right?
 [Ninereeds]right is here.
 right can be on a test page.
 right can be in a rule book.

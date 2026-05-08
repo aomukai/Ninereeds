@@ -5,7 +5,7 @@ Balance is equal weight.
 Balance is evenness.
 Balance is a good mix.
 Balance is a calm mind.
-Balance is a steady state or equal weight.
+Balance is a steady state and equal weight.
 
 [user]Where does balance appear?
 [Ninereeds]This is balance.
@@ -14,7 +14,7 @@ Balance is in a scale.
 Balance is in a mind.
 Balance is in a book of math.
 Balance is in a picture.
-Balance is in a walk or in a scale.
+Balance is in a walk and in a scale.
 
 [user]What does balance do?
 [Ninereeds]This is balance.
@@ -25,7 +25,7 @@ Balance makes a thing calm.
 Balance makes a thing stable.
 Balance keeps a thing upright and steady.
 
-[user]What is balance for?
+[user]What does balance give?
 [Ninereeds]This is balance.
 Balance is for stability.
 Balance is for fairness.

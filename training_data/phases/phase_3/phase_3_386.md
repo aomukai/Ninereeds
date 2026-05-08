@@ -25,7 +25,7 @@ Hang holds a picture on a nail.
 Hang swings a sign from a post.
 Hang is a dangle and a drape.
 
-[user]What is hang for?
+[user]What does hang give?
 [Ninereeds]This is hang.
 Hang stores a coat off the floor.
 Hang dries wet clothes on a line.

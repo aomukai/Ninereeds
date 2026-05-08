@@ -7,7 +7,7 @@ Sadness is an emotional pain.
 Sadness is a low mood.
 Sadness is a feeling of unhappiness and sorrow.
 
-[user]Where is sadness found?
+[user]Where can you find sadness?
 [Ninereeds]This is sadness.
 Sadness is found in a heart.
 Sadness is found in eyes.
@@ -25,7 +25,7 @@ Sadness brings empathy.
 Sadness indicates a loss.
 Sadness makes a person cry and slows a person down.
 
-[user]What is sadness for?
+[user]What does sadness give?
 [Ninereeds]This is sadness.
 Sadness is for processing loss.
 Sadness is for seeking comfort.

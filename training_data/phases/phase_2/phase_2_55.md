@@ -6,7 +6,7 @@ The fingertip has skin.
 The fingertip has a pad.
 A fingertip is the end of a finger.
 
-[user]Where is a fingertip?
+[user]Where can you find a fingertip?
 [Ninereeds]This is a fingertip.
 The fingertip is on a hand.
 The fingertip is at the end of a finger.

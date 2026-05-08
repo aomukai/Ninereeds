@@ -5,7 +5,7 @@ rank can be in a race.
 rank can be on a score page.
 rank means a place in an order list.
 
-[user]Where is rank?
+[user]Where can you find rank?
 [Ninereeds]rank is here.
 rank can be in a race.
 rank can be on a score page.
@@ -14,7 +14,7 @@ rank can be in a race.
 
 [user]What does rank do?
 [Ninereeds]rank is here.
-rank can show who is first or last.
+rank can show who is first and last.
 rank can order team by score.
 rank can guide prize and place.
 rank can show who is first or last.

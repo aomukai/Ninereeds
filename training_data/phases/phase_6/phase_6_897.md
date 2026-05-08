@@ -7,7 +7,7 @@ Imagination is a fantasy.
 Imagination is a inventiveness.
 Imagination is a power of mind and a creation of new ideas.
 
-[user]Where is imagination found?
+[user]Where can you find imagination?
 [Ninereeds]This is imagination.
 Imagination is found in artists.
 Imagination is found in children.
@@ -25,7 +25,7 @@ Imagination fosters creativity.
 Imagination makes things possible.
 Imagination creates worlds and solves problems.
 
-[user]What is imagination for?
+[user]What does imagination give?
 [Ninereeds]This is imagination.
 Imagination is for creativity.
 Imagination is for innovation.

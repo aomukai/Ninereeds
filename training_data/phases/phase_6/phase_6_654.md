@@ -25,7 +25,7 @@ A self-story guides actions.
 A self-story makes a person feel.
 A self-story shapes a person and gives meaning.
 
-[user]What is a self-story for?
+[user]What does a self-story give?
 [Ninereeds]This is a self-story.
 A self-story is for understanding self.
 A self-story is for finding purpose.

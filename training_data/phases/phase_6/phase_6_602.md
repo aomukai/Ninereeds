@@ -2,8 +2,8 @@
 [Ninereeds]This is a perspective.
 Perspective is a way of seeing.
 Perspective is a point of view.
-Perspective has no shape.
-Perspective has no color.
+Perspective lacks shape.
+Perspective lacks color.
 Perspective is an idea.
 Perspective is a way of seeing and an idea.
 
@@ -25,7 +25,7 @@ Perspective gives a unique look.
 Perspective highlights certain things.
 Perspective shapes understanding and influences how things are seen.
 
-[user]What is perspective for?
+[user]What does perspective give?
 [Ninereeds]This is a perspective.
 Perspective is for understanding others.
 Perspective is for deep thinking.

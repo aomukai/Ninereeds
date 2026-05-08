@@ -7,7 +7,7 @@ Empathy is putting oneself in another's shoes.
 Empathy is connection with feelings.
 Empathy is understanding and sharing feelings.
 
-[user]Where is empathy found?
+[user]Where can you find empathy?
 [Ninereeds]This is empathy.
 Empathy is in a kind word.
 Empathy is in a helping hand.
@@ -25,7 +25,7 @@ Empathy creates understanding.
 Empathy makes kindness.
 Empathy is a way to connect.
 
-[user]What is empathy for?
+[user]What does empathy give?
 [Ninereeds]This is empathy.
 Empathy is for friendship.
 Empathy is for helping others.

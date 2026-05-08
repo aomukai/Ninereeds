@@ -7,7 +7,7 @@ A galaxy has long arms of light.
 A galaxy has dust and gas inside.
 A galaxy is a big group of stars with a bright center and long arms.
 
-[user]Where is a galaxy?
+[user]Where can you find a galaxy?
 [Ninereeds]This is a galaxy.
 A galaxy is in space.
 A galaxy is far from the earth.
@@ -25,7 +25,7 @@ A galaxy makes new stars from gas.
 A galaxy shines light into the dark.
 A galaxy spins around the center and holds many stars.
 
-[user]What is a galaxy for?
+[user]What does a galaxy give?
 [Ninereeds]This is a galaxy.
 A galaxy holds the sun.
 A galaxy holds planets.

@@ -3,7 +3,7 @@
 Truth is what is real.
 Truth is what is right.
 Truth is fact.
-Truth is not a lie.
+Truth is a lie.
 Truth is what truly is.
 Truth is what is real and right.
 
@@ -14,7 +14,7 @@ Truth is in a heart.
 Truth is in a book.
 Truth is in a law.
 Truth is in a science.
-Truth is in a word or in a heart.
+Truth is in a word and in a heart.
 
 [user]What does truth do?
 [Ninereeds]This is truth.
@@ -25,7 +25,7 @@ Truth helps to know.
 Truth makes things right.
 Truth makes things clear and sets things free.
 
-[user]What is truth for?
+[user]What does truth give?
 [Ninereeds]This is truth.
 Truth is for knowing.
 Truth is for understanding.

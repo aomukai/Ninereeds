@@ -5,7 +5,7 @@ prove can use fact test or sign.
 prove can turn doubt into trust.
 prove means to show that a claim is true.
 
-[user]Where is prove?
+[user]Where can you find prove?
 [Ninereeds]prove is here.
 prove can be in class work.
 prove can be in a science test.

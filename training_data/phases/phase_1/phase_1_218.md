@@ -7,7 +7,7 @@ A bed has a pillow at the top.
 A bed has a blanket on top.
 A bed is a flat soft place for rest.
 
-[user]Where is a bed?
+[user]Where can you find a bed?
 [Ninereeds]This is a bed.
 A bed is in a room.
 A bed is in a house.
@@ -25,7 +25,7 @@ A bed supports a body at night.
 A bed holds a pillow and blanket.
 A bed holds a person for sleep at night.
 
-[user]What is a bed for?
+[user]What does a bed give?
 [Ninereeds]This is a bed.
 A bed is for sleep at night.
 A bed is for rest in the day.

@@ -6,7 +6,7 @@ A banana has a soft white inside.
 A banana has a green stem on top.
 A banana is a curved yellow fruit.
 
-[user]Where is a banana?
+[user]Where can you find a banana?
 [Ninereeds]This is a banana.
 A banana is in a bowl.
 A banana is on a counter.
@@ -24,7 +24,7 @@ A banana bends when held.
 A banana peels open from the stem.
 A banana ripens from green to yellow.
 
-[user]What is a banana for?
+[user]What does a banana give?
 [Ninereeds]This is a banana.
 A banana is for eating as a snack.
 A banana is for adding to cereal.

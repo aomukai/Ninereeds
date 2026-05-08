@@ -7,7 +7,7 @@ A cloud floats in the sky.
 A cloud is a white fluffy shape in the sky.
 A cloud is white and fluffy and high in the sky.
 
-[user]Where is a cloud?
+[user]Where can you find a cloud?
 [Ninereeds]This is a cloud.
 A cloud is in the sky.
 A cloud is above the ground.
@@ -25,7 +25,7 @@ A cloud moves with the wind.
 A cloud changes shape.
 A cloud is floating and dropping rain.
 
-[user]What is a cloud used for?
+[user]What does a cloud give?
 [Ninereeds]This is a cloud.
 A cloud gives rain and water to a plant.
 A cloud cools a hot day.

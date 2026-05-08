@@ -25,7 +25,7 @@ Call connects people.
 Call signals a need.
 Call is a way to reach a person.
 
-[user]What is call for?
+[user]What does call give?
 [Ninereeds]This is call.
 Call is for talking.
 Call is for asking.

@@ -28,7 +28,7 @@ Throw hurls disc.
 Throw launches far.
 Throw is ball and air.
 
-[user]What is throw for?
+[user]What does throw give?
 
 [Ninereeds]This is throw.
 Throw is for play.

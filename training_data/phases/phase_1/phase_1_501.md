@@ -7,7 +7,7 @@ Furniture is a shelf.
 Furniture is a desk.
 Furniture is a chair and a table.
 
-[user]Where is furniture found?
+[user]Where can you find furniture?
 [Ninereeds]This is furniture.
 Furniture is in a house.
 Furniture is in a room.
@@ -25,7 +25,7 @@ Furniture gives a place to sleep.
 Furniture gives a place to work.
 Furniture is for holding people and for giving a place to sit.
 
-[user]What is furniture for?
+[user]What does furniture give?
 [Ninereeds]This is furniture.
 Furniture is for a home.
 Furniture is for a room.

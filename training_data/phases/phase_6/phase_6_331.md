@@ -5,7 +5,7 @@ touch can be on skin or cloth.
 touch can be by a hand or arm.
 touch is a light meet of hand and thing.
 
-[user]Where is touch?
+[user]Where can you find touch?
 [Ninereeds]touch is here.
 touch can be on skin or cloth.
 touch can be by a hand or arm.

@@ -7,7 +7,7 @@ A cape drapes over shoulders.
 A cape has a clasp.
 A cape is a long cloth worn on shoulders.
 
-[user]Where is a cape?
+[user]Where can you find a cape?
 [Ninereeds]This is a cape.
 A cape is on a person.
 A cape is on a hero.
@@ -25,7 +25,7 @@ A cape hides a costume.
 A cape flaps behind a runner.
 A cape covers a back and flows in wind.
 
-[user]What is a cape for?
+[user]What does a cape give?
 [Ninereeds]This is a cape.
 A cape is for warmth.
 A cape is for a costume.

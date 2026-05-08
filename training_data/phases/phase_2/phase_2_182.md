@@ -7,7 +7,7 @@ A bathroom has a shower.
 A bathroom has a mirror.
 A bathroom is a room with a toilet, sink, and shower.
 
-[user]Where is the bathroom?
+[user]Where can you find the bathroom?
 [Ninereeds]This is a bathroom.
 A bathroom is in a house.
 A bathroom is in an apartment.
@@ -25,7 +25,7 @@ A bathroom helps people get ready.
 A bathroom helps people stay clean.
 A bathroom provides cleanliness and helps people get ready.
 
-[user]What is the bathroom for?
+[user]What does the bathroom give?
 [Ninereeds]This is a bathroom.
 A bathroom is for washing.
 A bathroom is for cleaning.

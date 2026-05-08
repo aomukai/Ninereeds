@@ -7,7 +7,7 @@ A chest has a lid.
 A chest has a lock.
 A chest is a square deep wooden box with a lid.
 
-[user]Where is a chest?
+[user]Where can you find a chest?
 [Ninereeds]This is a chest.
 A chest is on a floor.
 A chest is in a bedroom.
@@ -25,7 +25,7 @@ A chest keeps things safe.
 A chest locks with a key.
 A chest holds clothes and stores blankets inside.
 
-[user]What is a chest for?
+[user]What does a chest give?
 [Ninereeds]This is a chest.
 A chest is for storage.
 A chest is for clothes.

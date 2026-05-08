@@ -25,7 +25,7 @@ Nor creates balance in sentences.
 Nor introduces an additional denial.
 Nor connects clauses and emphasizes a second negative.
 
-[user]What is nor for?
+[user]What does nor give?
 [Ninereeds]This is nor.
 Nor is for joining negative statements.
 Nor is for showing a second option.

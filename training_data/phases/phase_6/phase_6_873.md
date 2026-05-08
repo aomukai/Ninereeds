@@ -7,7 +7,7 @@ An assumption is a premise.
 An assumption is a hypothesis.
 An assumption is a belief and a thing taken for granted.
 
-[user]Where is an assumption found?
+[user]Where can you find an assumption?
 [Ninereeds]This is an assumption.
 An assumption is found in arguments.
 An assumption is found in theories.
@@ -25,7 +25,7 @@ An assumption guides actions.
 An assumption forms a basis.
 An assumption simplifies a problem and guides actions.
 
-[user]What is an assumption for?
+[user]What does an assumption give?
 [Ninereeds]This is an assumption.
 An assumption is for starting a reasoning.
 An assumption is for making predictions.

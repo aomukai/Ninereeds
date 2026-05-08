@@ -14,7 +14,7 @@ Climb appears on a ladder.
 Climb appears on a wall.
 Climb appears on a tree.
 Climb appears on a rope.
-Climb is moving up a tree or wall.
+Climb is moving up a tree and wall.
 
 [user]What does climb do?
 [Ninereeds]This is climb.
@@ -25,7 +25,7 @@ Climb gains height on a surface.
 Climb gets to the top.
 Climb moves the body from low to high.
 
-[user]What is climb for?
+[user]What does climb give?
 [Ninereeds]This is climb.
 Climb is for reaching high places.
 Climb is for adventure.

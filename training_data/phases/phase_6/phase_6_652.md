@@ -25,7 +25,7 @@ Self-deception changes how a person sees.
 Self-deception makes a person feel good.
 Self-deception hides truth and creates false ideas.
 
-[user]What is self-deception for?
+[user]What does self-deception give?
 [Ninereeds]This is self-deception.
 Self-deception is for hiding bad feelings.
 Self-deception is for making things seem better.

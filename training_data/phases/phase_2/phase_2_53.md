@@ -25,7 +25,7 @@ The kneecap returns when the leg straightens.
 The kneecap is flexible.
 The kneecap is movable and flexible.
 
-[user]What is a kneecap for?
+[user]What does a kneecap give?
 [Ninereeds]This is a kneecap.
 The kneecap protects the knee.
 The kneecap supports movement.

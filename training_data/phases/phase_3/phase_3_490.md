@@ -7,7 +7,7 @@ Run is a rush across a path.
 Run is a race from place to place.
 Run is a fast move on the ground.
 
-[user]Where is run?
+[user]Where can you find run?
 [Ninereeds]This is run.
 Run is on a track.
 Run is on a field.
@@ -25,7 +25,7 @@ Run carries a person to a place.
 Run keeps the body in motion.
 Run moves the body fast on the ground.
 
-[user]What is run for?
+[user]What does run give?
 [Ninereeds]This is run.
 Run is for sport.
 Run is for travel.

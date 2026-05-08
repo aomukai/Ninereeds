@@ -25,7 +25,7 @@ Whip moves so fast the air pops.
 Whip hits a target at the end.
 Whip snaps and cracks at the tip in the air.
 
-[user]What is whip for?
+[user]What does whip give?
 [Ninereeds]This is whip.
 Whip is for making a loud sound.
 Whip is for a circus show.

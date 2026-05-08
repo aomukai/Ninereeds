@@ -7,7 +7,7 @@ A brain has two sides.
 A brain is inside a head.
 A brain is soft and pink.
 
-[user]Where is a brain?
+[user]Where can you find a brain?
 [Ninereeds]This is a brain.
 A brain is inside a skull.
 A brain sits in a head.
@@ -25,7 +25,7 @@ A brain helps a body move.
 A brain helps a person think.
 A brain is a signal sender and a memory storer.
 
-[user]What is a brain for?
+[user]What does a brain give?
 [Ninereeds]This is a brain.
 A brain lets a person learn.
 A brain lets a body feel.

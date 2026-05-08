@@ -25,7 +25,7 @@ Storyteller builds worlds with stories.
 Storyteller shares wisdom through tales.
 Storyteller is entertaining and educational.
 
-[user]What is storyteller for?
+[user]What does storyteller give?
 [Ninereeds]This is storyteller.
 Storyteller preserves culture and history.
 Storyteller teaches lessons through tales.

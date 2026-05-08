@@ -25,7 +25,7 @@ Expert teaches others.
 Expert performs complex tasks.
 Expert provides solutions and gives advice.
 
-[user]What is expert for?
+[user]What does expert give?
 [Ninereeds]This is an expert.
 Expert is for problem-solving.
 Expert is for decision-making.

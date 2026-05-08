@@ -1,35 +1,35 @@
-[user]What is automatic?
-[Ninereeds]This is automatic.
-Automatic is self-operating.
-Automatic is without human input.
-Automatic is mechanized.
-Automatic is involuntary.
-Automatic is effortless.
-Automatic is self-operating and without human input.
+[user]What is an automatic system?
+[Ninereeds]This is an automatic system.
+An automatic system is self-operating.
+An automatic system is with human input.
+An automatic system is mechanized.
+An automatic system is involuntary.
+An automatic system is effortless.
+An automatic system is self-operating and with human input.
 
-[user]Where is automatic found?
-[Ninereeds]This is automatic.
-Automatic is found in machines.
-Automatic is found in reactions.
-Automatic is found in processes.
-Automatic is found in systems.
-Automatic is found in habits.
-Automatic is found in machines and in reactions.
+[user]Where can you find an automatic system?
+[Ninereeds]This is an automatic system.
+An automatic system is found in machines.
+An automatic system is found in reactions.
+An automatic system is found in processes.
+An automatic system is found in systems.
+An automatic system is found in habits.
+An automatic system is found in machines and in reactions.
 
-[user]What does automatic do?
-[Ninereeds]This is automatic.
-Automatic performs a task.
-Automatic saves effort.
-Automatic ensures consistency.
-Automatic speeds up a process.
-Automatic reduces human error.
-Automatic performs a task and saves effort.
+[user]What does an automatic system do?
+[Ninereeds]This is an automatic system.
+An automatic system performs a task.
+An automatic system saves effort.
+An automatic system ensures consistency.
+An automatic system speeds up a process.
+An automatic system reduces human error.
+An automatic system performs a task and saves effort.
 
-[user]What is automatic for?
-[Ninereeds]This is automatic.
-Automatic is for efficiency.
-Automatic is for convenience.
-Automatic is for safety.
-Automatic is for reliability.
-Automatic is for repetition.
-Automatic is for efficiency and convenience.
+[user]What does an automatic system give?
+[Ninereeds]This is an automatic system.
+An automatic system is for efficiency.
+An automatic system is for convenience.
+An automatic system is for safety.
+An automatic system is for reliability.
+An automatic system is for repetition.
+An automatic system is for efficiency and convenience.

@@ -7,7 +7,7 @@ A cat has soft fur.
 A cat has pointy ears.
 A cat is a furry animal with four legs and a tail.
 
-[user]Where is a cat?
+[user]Where can you find a cat?
 [Ninereeds]This is a cat.
 A cat is in a house.
 A cat is on a couch.
@@ -25,7 +25,7 @@ A cat sleeps in a bed.
 A cat jumps on a counter.
 A cat walks on four legs and purrs.
 
-[user]What is a cat for?
+[user]What does a cat give?
 [Ninereeds]This is a cat.
 A cat is for company.
 A cat is for cuddling.

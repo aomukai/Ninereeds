@@ -7,7 +7,7 @@ A nest is made of leaves.
 A nest is soft inside.
 A nest is a round brown soft thing.
 
-[user]Where is a nest?
+[user]Where can you find a nest?
 [Ninereeds]This is a nest.
 A nest is in a tree.
 A nest is high up.

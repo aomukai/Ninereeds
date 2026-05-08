@@ -14,7 +14,7 @@ A peck is on a beak.
 A peck is on a surface.
 A peck is on a fruit.
 A peck is on a hand.
-A peck happens on a cheek or a beak.
+A peck happens on a cheek and a beak.
 
 [user]What does a peck do?
 [Ninereeds]This is a peck.
@@ -23,13 +23,13 @@ A peck shows love.
 A peck gets attention.
 A peck picks at food.
 A peck taps a surface.
-A peck says hello or shows love.
+A peck says hello and shows love.
 
-[user]What is a peck used for?
+[user]What does a peck give?
 [Ninereeds]This is a peck.
 A peck is a greeting between friends.
 A peck is a kiss on a cheek.
 A peck is a bird tap on a seed.
 A peck is a sign of care.
 A peck is a small touch.
-A peck is a greeting or a bird tap.
+A peck is a greeting and a bird tap.

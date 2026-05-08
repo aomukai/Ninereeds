@@ -7,7 +7,7 @@ An oak has many branches.
 An oak has green leaves.
 An oak is a tall tree with green leaves and many branches.
 
-[user]Where is an oak?
+[user]Where can you find an oak?
 [Ninereeds]This is an oak.
 An oak is in a forest.
 An oak is in a park.
@@ -25,7 +25,7 @@ An oak holds birds in branches.
 An oak makes oxygen for the air.
 An oak is a tree that gives shade and holds birds.
 
-[user]What is an oak for?
+[user]What does an oak give?
 [Ninereeds]This is an oak.
 An oak is for shade.
 An oak is for wood.

@@ -7,7 +7,7 @@ A cannon has a big opening.
 A cannon has two wheels.
 A cannon is a long heavy metal tube.
 
-[user]Where is a cannon?
+[user]Where can you find a cannon?
 [Ninereeds]This is a cannon.
 A cannon is in a fort.
 A cannon is on a ship.
@@ -25,7 +25,7 @@ A cannon rolls on wheels.
 A cannon points at a target.
 A cannon fires a ball and makes a loud boom.
 
-[user]What is a cannon for?
+[user]What does a cannon give?
 [Ninereeds]This is a cannon.
 A cannon shoots a ball.
 A cannon protects a fort.

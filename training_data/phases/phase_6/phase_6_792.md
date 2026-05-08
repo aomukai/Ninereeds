@@ -3,11 +3,11 @@
 A metaphor is a figure of speech.
 A metaphor compares two things.
 A metaphor says one thing is another.
-A metaphor is not literal.
+A metaphor is literal.
 A metaphor creates an image.
 A metaphor is a figure of speech that compares two things.
 
-[user]Where is a metaphor found?
+[user]Where can you find a metaphor?
 [Ninereeds]This is a metaphor.
 A metaphor is found in poetry.
 A metaphor is found in songs.
@@ -25,7 +25,7 @@ A metaphor simplifies a complex idea.
 A metaphor evokes emotion.
 A metaphor deepens understanding and adds vividness.
 
-[user]What is a metaphor for?
+[user]What does a metaphor give?
 [Ninereeds]This is a metaphor.
 A metaphor is for making language rich.
 A metaphor is for clear communication.

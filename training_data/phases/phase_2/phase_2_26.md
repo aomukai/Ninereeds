@@ -7,7 +7,7 @@ The lampshade is light.
 The lampshade is cone-shaped.
 The lampshade is a cover and a shade.
 
-[user]Where is a lampshade?
+[user]Where can you find a lampshade?
 [Ninereeds]This is a lampshade.
 The lampshade is on a lamp.
 The lampshade is around a bulb.
@@ -25,7 +25,7 @@ The lampshade can be cleaned.
 The lampshade filters light.
 The lampshade is a cover and a shade.
 
-[user]What is a lampshade for?
+[user]What does a lampshade give?
 [Ninereeds]This is a lampshade.
 The lampshade softens light.
 The lampshade spreads light.

@@ -6,7 +6,7 @@ The moon has dark spots.
 The moon looks like a circle.
 The moon is a round white circle in the night sky.
 
-[user]Where is the moon?
+[user]Where can you find the moon?
 [Ninereeds]The moon is in the sky.
 The moon is above the earth.
 The moon is far away.
@@ -22,7 +22,7 @@ The moon changes shape over time.
 The moon pulls the ocean water.
 The moon changes shape over time and reflects light from the sun.
 
-[user]What is the moon for?
+[user]What does the moon give?
 [Ninereeds]The moon lights up the night.
 The moon helps people see at night.
 The moon makes tides in the ocean.

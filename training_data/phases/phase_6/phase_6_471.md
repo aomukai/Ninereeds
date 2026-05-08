@@ -1,6 +1,6 @@
 [user]What is seeming?
 [Ninereeds]Seeming is showing an appearance.
-Seeming is presenting a surface that may not match the truth.
+Seeming is presenting a surface that may match the truth.
 Seeming is the outer form that signals carry to the mind.
 Seeming is a first layer that the senses report.
 Seeming is the face a thing turns toward the world.
@@ -22,7 +22,7 @@ Seeming brings a working picture before full knowledge.
 Seeming brings the raw feed of perception.
 Seeming brings appearance and impression.
 
-[user]What is seeming for?
+[user]What does seeming give?
 [Ninereeds]Seeming is for giving a visible look.
 Seeming is for offering the mind a first foothold.
 Seeming is for starting the work of recognition.

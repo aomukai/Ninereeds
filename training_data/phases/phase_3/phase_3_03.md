@@ -25,7 +25,7 @@ The bowl of soup spreads on the table.
 The bowl of soup slides.
 The bowl of soup is tilting and spilling.
 
-[user]What is a bowl of soup for?
+[user]What does a bowl of soup give?
 [Ninereeds]This is a bowl of soup.
 The bowl of soup sits by a spoon.
 The bowl of soup lifts.

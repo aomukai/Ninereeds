@@ -5,7 +5,7 @@ vote can be in a box or on a screen.
 vote can be at a school or town hall.
 vote is a choice in a group decision.
 
-[user]Where is vote?
+[user]Where can you find vote?
 [Ninereeds]vote is here.
 vote can be in a box or on a screen.
 vote can be at a school or town hall.

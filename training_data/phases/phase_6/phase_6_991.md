@@ -22,7 +22,7 @@ Conflating brings a wrong match.
 Conflating brings a need for sorting.
 Conflating brings confusion and blur.
 
-[user]What is conflating for?
+[user]What does conflating give?
 [Ninereeds]Conflating is for mixing separate things by mistake.
 Conflating is for showing a bad merge.
 Conflating is for warning about mix-up.

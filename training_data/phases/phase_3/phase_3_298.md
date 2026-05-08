@@ -25,7 +25,7 @@ Cover protects a thing from weather.
 Cover wraps a thing for safety.
 Cover shields a thing from light and dust.
 
-[user]What is cover for?
+[user]What does cover give?
 [Ninereeds]This is cover.
 Cover is for sleeping.
 Cover is for protection.

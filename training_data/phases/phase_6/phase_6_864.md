@@ -7,7 +7,7 @@ An obstacle is a block.
 An obstacle is a difficulty.
 An obstacle is a barrier and a hindrance.
 
-[user]Where is an obstacle found?
+[user]Where can you find an obstacle?
 [Ninereeds]This is an obstacle.
 An obstacle is found on a path.
 An obstacle is found in a race.
@@ -25,7 +25,7 @@ An obstacle forces a change of direction.
 An obstacle creates difficulty.
 An obstacle slows progress and tests resolve.
 
-[user]What is an obstacle for?
+[user]What does an obstacle give?
 [Ninereeds]This is an obstacle.
 An obstacle is for challenging a person.
 An obstacle is for learning.

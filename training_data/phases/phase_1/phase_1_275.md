@@ -7,7 +7,7 @@ A burner has a black top.
 A burner has red coils.
 A burner is a round flat metal surface.
 
-[user]Where is a burner?
+[user]Where can you find a burner?
 [Ninereeds]This is a burner.
 A burner is on a stove.
 A burner is in a kitchen.
@@ -25,7 +25,7 @@ A burner warms a pan.
 A burner boils water.
 A burner gets hot and cooks food.
 
-[user]What is a burner for?
+[user]What does a burner give?
 [Ninereeds]This is a burner.
 A burner cooks food.
 A burner boils water.

@@ -7,7 +7,7 @@ A grocery has carts.
 A grocery has people.
 A grocery is a store with food.
 
-[user]Where is a grocery?
+[user]Where can you find a grocery?
 [Ninereeds]This is a grocery.
 A grocery is in a town.
 A grocery is in a city.
@@ -25,7 +25,7 @@ A grocery helps people get food.
 A grocery helps people get things.
 A grocery sells food and things for home.
 
-[user]What is a grocery used for?
+[user]What does a grocery give?
 [Ninereeds]This is a grocery.
 A grocery is for buying food.
 A grocery is for buying drinks.

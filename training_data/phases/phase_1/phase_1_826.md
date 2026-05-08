@@ -7,14 +7,14 @@ A pumpkin has a stem.
 A pumpkin has ridges.
 A pumpkin is a big round orange thing with a stem and ridges.
 
-[user]Where is a pumpkin?
+[user]Where can you find a pumpkin?
 [Ninereeds]This is a pumpkin.
 A pumpkin is on a vine.
 A pumpkin is in a patch.
 A pumpkin is in a field.
 A pumpkin is on a porch.
 A pumpkin is in a kitchen.
-A pumpkin is on a vine in a patch or on a porch.
+A pumpkin is on a vine in a patch and on a porch.
 
 [user]What does a pumpkin do?
 [Ninereeds]This is a pumpkin.
@@ -25,7 +25,7 @@ A pumpkin turns orange.
 A pumpkin stays fresh a long time.
 A pumpkin grows on a vine and sits on the ground and turns orange.
 
-[user]What is a pumpkin for?
+[user]What does a pumpkin give?
 [Ninereeds]This is a pumpkin.
 A pumpkin is for carving.
 A pumpkin is for eating.

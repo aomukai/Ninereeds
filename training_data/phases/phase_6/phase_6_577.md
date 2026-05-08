@@ -4,32 +4,32 @@ Safe means protected from harm.
 Safe means secure.
 Safe means out of danger.
 Safe means reliable.
-Safe means not exposed to risk.
-Safe is protected from harm or secure.
+Safe means free from risk.
+Safe is protected from harm and secure.
 
-[user]Where does safe appear?
+[user]What is safe?
 [Ninereeds]This is safe.
-Safe appears in homes.
-Safe appears in shelters.
-Safe appears in hands.
-Safe appears in choices.
-Safe appears in places.
-Safe is in homes and shelters.
+Safe is sheltered.
+Safe is guarded.
+Safe is shielded.
+Safe is invulnerable.
+Safe is unscathed.
+Safe is sheltered and guarded.
 
-[user]What does safe do?
+[user]How is safe?
 [Ninereeds]This is safe.
-Safe prevents injury.
-Safe gives peace of mind.
-Safe preserves well-being.
-Safe allows relaxation.
-Safe encourages trust.
-Safe prevents injury and gives peace of mind.
+Safe is harmless.
+Safe is non-threatening.
+Safe is benign.
+Safe is innocuous.
+Safe is gentle.
+Safe is harmless and benign.
 
-[user]What is safe for?
+[user]What are safe's properties?
 [Ninereeds]This is safe.
-Safe is for protection.
-Safe is for security.
-Safe is for peace.
-Safe is for well-being.
-Safe is for ensuring survival.
-Safe is for protection and security.
+Safe is certain.
+Safe is assured.
+Safe is guaranteed.
+Safe is dependable.
+Safe is trustworthy.
+Safe is certain and assured.

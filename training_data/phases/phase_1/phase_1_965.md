@@ -7,14 +7,14 @@ A skunk is small.
 A skunk has a pointed nose.
 A skunk is a small black animal with white stripes.
 
-[user]Where is a skunk found?
+[user]Where can you find a skunk?
 [Ninereeds]This is a skunk.
 A skunk is in a forest.
 A skunk is in a field.
 A skunk digs a den.
 A skunk lives in the ground.
 A skunk walks at night.
-A skunk is in a forest or field.
+A skunk is in a forest and field.
 
 [user]What does a skunk do?
 [Ninereeds]This is a skunk.
@@ -25,7 +25,7 @@ A skunk eats berries.
 A skunk sprays a smell.
 A skunk walks slowly and sprays a smell.
 
-[user]What is a skunk for?
+[user]What does a skunk give?
 [Ninereeds]This is a skunk.
 A skunk warns with a tail.
 A skunk lifts a tail.

@@ -6,7 +6,7 @@ strength is for a lift.
 strength helps a task.
 strength is power and force.
 
-[user]Where is strength?
+[user]Where can you find strength?
 [Ninereeds]strength is here.
 strength is in a pull.
 strength is in a push.

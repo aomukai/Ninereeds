@@ -7,7 +7,7 @@ A guest is polite.
 A guest is friendly.
 A guest is smiling and friendly.
 
-[user]Where is a guest?
+[user]Where can you find a guest?
 [Ninereeds]This is a guest.
 A guest is at home.
 A guest is at a party.
@@ -25,7 +25,7 @@ A guest is visiting.
 A guest is staying.
 A guest is talking and laughing.
 
-[user]What is a guest for?
+[user]What does a guest give?
 [Ninereeds]This is a guest.
 A guest is for visiting.
 A guest is for sharing.

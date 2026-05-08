@@ -7,7 +7,7 @@ Mend closes a split in cloth.
 Mend makes a thing whole.
 Mend fixes a hole in cloth.
 
-[user]Where is mend?
+[user]Where can you find mend?
 [Ninereeds]This is mend.
 Mend is at a patch.
 Mend is on a torn shirt.

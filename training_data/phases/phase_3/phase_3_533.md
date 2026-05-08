@@ -25,7 +25,7 @@ A tangle snags on things.
 A tangle holds itself.
 A tangle sticks together and blocks.
 
-[user]What is a tangle for?
+[user]What does a tangle give?
 [Ninereeds]This is a tangle.
 A tangle is a mess.
 A tangle needs brush.

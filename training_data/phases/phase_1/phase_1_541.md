@@ -7,7 +7,7 @@ A gust is warm in summer.
 A gust is fast and sudden.
 A gust is a fast strong blast of wind.
 
-[user]Where is a gust?
+[user]Where can you find a gust?
 [Ninereeds]This is a gust.
 A gust is in the sky.
 A gust is on the street.
@@ -25,7 +25,7 @@ A gust pushes a door.
 A gust spins a windmill.
 A gust blows leaves and shakes a tree.
 
-[user]What is a gust for?
+[user]What does a gust give?
 [Ninereeds]This is a gust.
 A gust is for wind.
 A gust is for a kite.

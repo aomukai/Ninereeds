@@ -5,7 +5,7 @@ third can be in a race or line.
 third can be on a list or chart.
 third is a word for place after second.
 
-[user]Where is third?
+[user]Where can you find third?
 [Ninereeds]third is here.
 third can be in a race or line.
 third can be on a list or chart.

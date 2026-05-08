@@ -6,7 +6,7 @@ The earlobe is made of skin.
 The earlobe is small and round.
 An earlobe is the lower part of an ear.
 
-[user]Where is an earlobe?
+[user]Where can you find an earlobe?
 [Ninereeds]This is an earlobe.
 The earlobe is on the head.
 The earlobe is below the ear.

@@ -7,7 +7,7 @@ Would is written.
 Would is spoken.
 Would is a word and a concept.
 
-[user]Where is would?
+[user]Where can you find would?
 [Ninereeds]This is would.
 Would lives in grammar.
 Would lives in conditional sentences.
@@ -25,7 +25,7 @@ Would shows intent.
 Would forms a conditional.
 Would expresses possibility and softens a request.
 
-[user]What is would for?
+[user]What does would give?
 [Ninereeds]This is would.
 Would is for imagined scenarios.
 Would is for polite offers.

@@ -28,7 +28,7 @@ A thump beats rhythm.
 A thump echoes room.
 A thump is loud and vibrating.
 
-[user]What is a thump for?
+[user]What does a thump give?
 
 [Ninereeds]This is a thump.
 A thump makes drum beat.

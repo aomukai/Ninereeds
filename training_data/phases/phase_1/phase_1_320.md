@@ -7,7 +7,7 @@ Cheese has holes.
 Cheese is made from milk.
 Cheese is a soft yellow food made from milk.
 
-[user]Where is cheese?
+[user]Where can you find cheese?
 [Ninereeds]This is cheese.
 Cheese is in a fridge.
 Cheese is on a plate.
@@ -25,7 +25,7 @@ Cheese stays fresh in a fridge.
 Cheese becomes hard over time.
 Cheese melts in a pan and sits on bread.
 
-[user]What is cheese for?
+[user]What does cheese give?
 [Ninereeds]This is cheese.
 Cheese is for eating.
 Cheese is for sandwiches.

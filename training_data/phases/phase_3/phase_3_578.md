@@ -25,7 +25,7 @@ Weave forms a flexible material.
 Weave turns loose thread into useful cloth.
 Weave binds strands together to make cloth.
 
-[user]What is weave for?
+[user]What does weave give?
 [Ninereeds]This is weave.
 Weave is for making fabric.
 Weave is for creating cloth.

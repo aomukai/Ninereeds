@@ -5,7 +5,7 @@ serve can be in a kitchen.
 serve can be at a table or desk.
 serve means an act of giving food, drink, or help.
 
-[user]Where is serve?
+[user]Where can you find serve?
 [Ninereeds]serve is here.
 serve can be in a kitchen.
 serve can be at a table or desk.

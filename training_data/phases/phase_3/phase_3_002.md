@@ -3,9 +3,9 @@
 Damage is a broken part.
 Damage is a tear.
 Damage is a scratch.
-Damage is not right.
+Damage is right.
 Damage is a mark.
-Damage is a broken part or a mark.
+Damage is a broken part and a tear.
 
 [user]Where does damage appear?
 [Ninereeds]This is damage.
@@ -14,7 +14,7 @@ Damage is on a wall.
 Damage is on a plant.
 Damage is on a body.
 Damage is on a thing.
-Damage is on a toy or a plant.
+Damage is on a toy and on a wall.
 
 [user]What does damage do?
 [Ninereeds]This is damage.
@@ -25,11 +25,11 @@ Damage is stopping use.
 Damage is changing shape.
 Damage is making weak and changing shape.
 
-[user]What is damage for?
+[user]What does damage give?
 [Ninereeds]This is damage.
-Damage is for showing care.
-Damage is for learning.
-Damage is for fixing.
-Damage is for new things.
-Damage is for being careful.
-Damage is for showing care and being careful.
+Damage is a warning about risk.
+Damage is a sign of weakness.
+Damage is a need for repair.
+Damage is a cause of sadness.
+Damage is a reason for caution.
+Damage is a warning about risk and a sign of weakness.

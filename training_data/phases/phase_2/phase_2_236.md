@@ -7,7 +7,7 @@ Golf has holes in the field.
 Golf has flags for the holes.
 Golf is a game with a ball and a club.
 
-[user]Where is golf?
+[user]Where can you find golf?
 [Ninereeds]This is golf.
 Golf is on a course.
 Golf is on grass.
@@ -25,7 +25,7 @@ Golf makes a person think.
 Golf makes a person swing.
 Golf makes a ball fly and roll.
 
-[user]What is golf used for?
+[user]What does golf give?
 [Ninereeds]This is golf.
 Golf is for playing.
 Golf is for exercise.

@@ -7,7 +7,7 @@ A day has a blue sky.
 A day has clouds in the sky.
 A day is a bright time with a blue sky.
 
-[user]Where is a day?
+[user]Where can you find a day?
 [Ninereeds]This is a day.
 A day is on the earth.
 A day is above the ground.
@@ -25,7 +25,7 @@ A day helps animals see.
 A day starts in the morning.
 A day brings light and warmth.
 
-[user]What is a day for?
+[user]What does a day give?
 [Ninereeds]This is a day.
 A day is for work.
 A day is for play.

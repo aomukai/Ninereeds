@@ -7,7 +7,7 @@ A mountain is covered in trees.
 A mountain is made of rock.
 A mountain is a tall thing with a peak steep sides and trees.
 
-[user]Where is a mountain?
+[user]Where can you find a mountain?
 [Ninereeds]This is a mountain.
 A mountain is on land.
 A mountain is in a range with other mountains.
@@ -25,7 +25,7 @@ A mountain changes the weather.
 A mountain stands for a long time.
 A mountain blocks the wind collects snow and changes the weather.
 
-[user]What is a mountain for?
+[user]What does a mountain give?
 [Ninereeds]This is a mountain.
 A mountain is a place to climb.
 A mountain is a home for animals.

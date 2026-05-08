@@ -7,7 +7,7 @@ A raindrop is wet.
 A raindrop falls from the sky.
 A raindrop is small and round.
 
-[user]Where is a raindrop?
+[user]Where can you find a raindrop?
 [Ninereeds]This is a raindrop.
 A raindrop is in the sky.
 A raindrop falls to the ground.
@@ -25,7 +25,7 @@ A raindrop wets the ground.
 A raindrop joins other drops.
 A raindrop is wet and falling.
 
-[user]What is a raindrop for?
+[user]What does a raindrop give?
 [Ninereeds]This is a raindrop.
 A raindrop brings water.
 A raindrop waters plants.

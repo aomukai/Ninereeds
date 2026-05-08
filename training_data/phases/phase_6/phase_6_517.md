@@ -5,7 +5,7 @@ Theory is a system of ideas.
 Theory is a set of principles.
 Theory is a proposed explanation.
 Theory is a logical framework.
-Theory is an explanation or system of ideas.
+Theory is an explanation and system of ideas.
 
 [user]Where does theory appear?
 [Ninereeds]This is a theory.
@@ -25,7 +25,7 @@ Theory organizes facts.
 Theory provides understanding.
 Theory explains phenomena and guides research.
 
-[user]What is theory for?
+[user]What does theory give?
 [Ninereeds]This is a theory.
 Theory is for understanding the world.
 Theory is for making predictions.

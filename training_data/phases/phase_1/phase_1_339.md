@@ -25,7 +25,7 @@ A clock rings.
 A clock tells the hour.
 A clock ticks and shows the time.
 
-[user]What is a clock for?
+[user]What does a clock give?
 [Ninereeds]This is a clock.
 A clock tells the time of day.
 A clock wakes a person in the morning.

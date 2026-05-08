@@ -6,7 +6,7 @@ The bag of flour is full.
 The bag of flour is light.
 A bag of flour is flour in a bag.
 
-[user]Where is a bag of flour?
+[user]Where can you find a bag of flour?
 [Ninereeds]This is a bag of flour.
 The bag of flour is on a shelf.
 The bag of flour is near a bowl.
@@ -22,7 +22,7 @@ The bag of flour tears.
 The bag of flour spills on the floor.
 A bag of flour is flour in a bag that can tip and spill.
 
-[user]What is a bag of flour used for?
+[user]What does a bag of flour give?
 [Ninereeds]This is a bag of flour.
 The bag of flour sits by a bowl.
 The bag of flour opens.

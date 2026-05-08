@@ -7,7 +7,7 @@ An acorn has a round top.
 An acorn has a bumpy cap.
 An acorn is a small brown nut with a round top and a bumpy cap.
 
-[user]Where is an acorn?
+[user]Where can you find an acorn?
 [Ninereeds]This is an acorn.
 An acorn is on a tree.
 An acorn is under a tree.

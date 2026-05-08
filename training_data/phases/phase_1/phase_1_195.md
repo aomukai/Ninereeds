@@ -7,7 +7,7 @@ A backpack has a flat bottom.
 A backpack has a handle on top.
 A backpack is a bag with two straps.
 
-[user]Where is a backpack?
+[user]Where can you find a backpack?
 [Ninereeds]This is a backpack.
 A backpack is on a back.
 A backpack is on a hook.
@@ -25,7 +25,7 @@ A backpack holds a water bottle.
 A backpack holds papers and folders.
 A backpack holds books and a lunch.
 
-[user]What is a backpack for?
+[user]What does a backpack give?
 [Ninereeds]This is a backpack.
 A backpack carries things to school.
 A backpack keeps hands free.

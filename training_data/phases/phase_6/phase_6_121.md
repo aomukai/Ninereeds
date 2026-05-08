@@ -5,7 +5,7 @@ prompt can give a task or idea.
 prompt can help a writer or model begin.
 prompt means a short line that starts a reply or act.
 
-[user]Where is prompt?
+[user]Where can you find prompt?
 [Ninereeds]prompt is here.
 prompt can be on a screen.
 prompt can be in a work sheet.
@@ -23,5 +23,5 @@ prompt can guide a reply.
 [Ninereeds]prompt is here.
 prompt can look brief and clear.
 prompt can feel helpful at the start.
-prompt can sound direct in a class or tool.
+prompt can sound direct in a class and tool.
 prompt can look brief and clear.

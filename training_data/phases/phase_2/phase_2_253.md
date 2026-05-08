@@ -7,7 +7,7 @@ A heap is many things.
 A heap is tall.
 A heap is a big messy pile.
 
-[user]Where is a heap?
+[user]Where can you find a heap?
 [Ninereeds]This is a heap.
 A heap is on the floor.
 A heap is in the corner.
@@ -25,7 +25,7 @@ A heap covers a spot.
 A heap can be moved.
 A heap holds many things and makes a mess.
 
-[user]What is a heap used for?
+[user]What does a heap give?
 [Ninereeds]This is a heap.
 A heap is for storing things.
 A heap is for collecting things.

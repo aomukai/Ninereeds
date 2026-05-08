@@ -5,7 +5,7 @@ undo can be on a button or screen.
 undo can be in an app or game.
 undo is an action that takes a step back.
 
-[user]Where is undo?
+[user]Where can you find undo?
 [Ninereeds]undo is here.
 undo can be on a button or screen.
 undo can be in an app or game.

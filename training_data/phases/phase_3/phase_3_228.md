@@ -22,7 +22,7 @@ Developing brings clearer direction.
 Developing brings wider ability.
 Developing brings new form and stronger skill.
 
-[user]What is developing for?
+[user]What does developing give?
 [Ninereeds]Developing is for building growth.
 Developing is for shaping skill.
 Developing is for forming a plan.

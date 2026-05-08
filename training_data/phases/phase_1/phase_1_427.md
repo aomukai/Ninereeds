@@ -7,14 +7,14 @@ An elephant has thick legs.
 An elephant has tusks.
 An elephant is a very large animal with a long trunk and big ears.
 
-[user]Where is an elephant?
+[user]Where can you find an elephant?
 [Ninereeds]This is an elephant.
 An elephant is in the savanna.
 An elephant is in the jungle.
 An elephant is in a zoo.
 An elephant is near a river.
 An elephant is in a herd.
-An elephant is in the savanna or in the jungle.
+An elephant is in the savanna and in the jungle.
 
 [user]What does an elephant do?
 [Ninereeds]This is an elephant.
@@ -25,7 +25,7 @@ An elephant trumpets loud.
 An Elephant flaps the big ears.
 An elephant picks up food with the trunk and sprays water.
 
-[user]What is an elephant for?
+[user]What does an elephant give?
 [Ninereeds]This is an elephant.
 An elephant is for the wild.
 An elephant is for the zoo.

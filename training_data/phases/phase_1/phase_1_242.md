@@ -7,7 +7,7 @@ A board is a piece of wood.
 A board is a plank.
 A board is a long flat piece of wood.
 
-[user]Where is a board?
+[user]Where can you find a board?
 [Ninereeds]This is a board.
 A board is on a wall.
 A board is on the floor.
@@ -25,7 +25,7 @@ A board covers a space.
 A board is a flat panel.
 A board makes a flat building surface.
 
-[user]What is a board for?
+[user]What does a board give?
 [Ninereeds]This is a board.
 A board is for walking.
 A board is for walls.

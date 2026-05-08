@@ -7,7 +7,7 @@ A fingernail is small.
 A fingernail is curved.
 A fingernail is hard and flat.
 
-[user]Where is a fingernail?
+[user]Where can you find a fingernail?
 [Ninereeds]This is a fingernail.
 A fingernail is on a finger.
 A fingernail is at the top of a finger.
@@ -25,7 +25,7 @@ A fingernail scratches a surface.
 A fingernail picks up a small object.
 A fingernail is covering and protective.
 
-[user]What is a fingernail for?
+[user]What does a fingernail give?
 [Ninereeds]This is a fingernail.
 A fingernail gives a finger a hard tip.
 A fingernail helps a finger scratch.

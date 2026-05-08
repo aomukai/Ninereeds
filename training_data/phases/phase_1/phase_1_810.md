@@ -7,7 +7,7 @@ A pony is small for a horse.
 A pony has a soft nose.
 A pony has a mane and a tail.
 
-[user]Where is a pony?
+[user]Where can you find a pony?
 [Ninereeds]This is a pony.
 A pony is in a field.
 A pony is in a barn.
@@ -25,7 +25,7 @@ A pony carries a child on a back.
 A pony drinks water from a trough.
 A pony walks on grass and runs in a field.
 
-[user]What is a pony for?
+[user]What does a pony give?
 [Ninereeds]This is a pony.
 A pony is for riding.
 A pony is for a child.

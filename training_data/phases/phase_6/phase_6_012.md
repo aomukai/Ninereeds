@@ -25,7 +25,7 @@ A particle is carrying energy.
 A particle is showing motion.
 A particle is moving and carrying energy.
 
-[user]What is particle for?
+[user]What does particle give?
 [Ninereeds]This is a particle.
 A particle is for making matter.
 A particle is for making light.

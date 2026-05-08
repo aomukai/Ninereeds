@@ -7,7 +7,7 @@ yesterday talks about the past.
 yesterday is a reference point.
 yesterday is a time and a memory.
 
-[user]Where is yesterday?
+[user]Where can you find yesterday?
 [Ninereeds]yesterday is here.
 yesterday is on a chart.
 yesterday is on a page.

@@ -6,7 +6,7 @@ The hilltop is above the land.
 The hilltop is often flat.
 A hilltop is the top of a hill.
 
-[user]Where is a hilltop?
+[user]Where can you find a hilltop?
 [Ninereeds]This is a hilltop.
 The hilltop is above slopes.
 The hilltop is in the landscape.

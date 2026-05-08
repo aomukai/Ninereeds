@@ -7,7 +7,7 @@ Unease is anxiety.
 Unease is a disturbance.
 Unease is a feeling of worry and discomfort.
 
-[user]Where is unease found?
+[user]Where can you find unease?
 [Ninereeds]This is unease.
 Unease is found in a mind.
 Unease is found in a situation.
@@ -25,7 +25,7 @@ Unease hints at danger.
 Unease makes a person restless.
 Unease signals a problem and creates tension.
 
-[user]What is unease for?
+[user]What does unease give?
 [Ninereeds]This is unease.
 Unease is for warning.
 Unease is for self-preservation.

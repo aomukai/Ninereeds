@@ -7,7 +7,7 @@ A market has people walking.
 A market has goods to buy.
 A market is a place with many stalls.
 
-[user]Where is a market?
+[user]Where can you find a market?
 [Ninereeds]This is a market.
 A market is in a town.
 A market is outdoors.
@@ -25,7 +25,7 @@ A market has vendors.
 A market has shoppers.
 A market sells many things.
 
-[user]What is a market for?
+[user]What does a market give?
 [Ninereeds]This is a market.
 A market is for buying food.
 A market is for selling goods.

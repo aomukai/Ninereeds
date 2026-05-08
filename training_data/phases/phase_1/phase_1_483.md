@@ -7,7 +7,7 @@ The foot is at the leg end.
 The foot is a flat body part with toes.
 The foot is flat and at the leg end.
 
-[user]Where is the foot?
+[user]Where can you find the foot?
 [Ninereeds]This is a foot.
 The foot is at the leg bottom.
 The foot is on the ground.
@@ -25,7 +25,7 @@ The foot kicks a ball.
 The foot is a body part that walks and runs on the ground.
 The foot is for walking and running.
 
-[user]What is the foot used for?
+[user]What does the foot give?
 [Ninereeds]This is a foot.
 The foot is for walking.
 The foot is for standing.

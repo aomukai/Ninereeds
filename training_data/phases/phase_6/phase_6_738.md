@@ -2,12 +2,12 @@
 [Ninereeds]This is general.
 General means common.
 General means widespread.
-General means not specific.
+General means specific.
 General means inclusive.
 General means broad.
 General means common and widespread.
 
-[user]Where is general found?
+[user]Where can you find general?
 [Ninereeds]This is general.
 General is found in rules.
 General is found in ideas.
@@ -25,7 +25,7 @@ General describes a trend.
 General gives a basic understanding.
 General summarizes information and provides a framework.
 
-[user]What is general for?
+[user]What does general give?
 [Ninereeds]This is general.
 General is for broad understanding.
 General is for simple explanations.

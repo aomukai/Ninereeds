@@ -7,7 +7,7 @@ Skepticism is a caution.
 Skepticism is a critical thought.
 Skepticism is a doubt and a questioning attitude.
 
-[user]Where is skepticism found?
+[user]Where can you find skepticism?
 [Ninereeds]This is skepticism.
 Skepticism is found in science.
 Skepticism is found in philosophy.
@@ -25,7 +25,7 @@ Skepticism promotes inquiry.
 Skepticism avoids hasty conclusions.
 Skepticism challenges claims and seeks evidence.
 
-[user]What is skepticism for?
+[user]What does skepticism give?
 [Ninereeds]This is skepticism.
 Skepticism is for truth seeking.
 Skepticism is for critical thinking.

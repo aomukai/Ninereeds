@@ -1,31 +1,35 @@
 [user]What is unlocking?
-[Ninereeds]Unlocking is Opening a lock with a key or code.
-[Ninereeds]Unlocking is Releasing a latch or barrier.
-[Ninereeds]Unlocking is Allowing access through a closed point.
-[Ninereeds]Unlocking is Freeing a door or system.
-[Ninereeds]Unlocking is Opening a secured path.
-[Ninereeds]Unlocking is Access and release.
+[Ninereeds]This is unlocking.
+Unlocking is opening a lock with a key or code.
+Unlocking is releasing a latch or barrier.
+Unlocking is allowing access through a closed point.
+Unlocking is freeing a door or system.
+Unlocking is opening a secured path.
+Unlocking is access and release.
 
 [user]When does unlocking happen?
-[Ninereeds]Unlocking happens when A key fits a lock.
-[Ninereeds]Unlocking happens when A code opens a device.
-[Ninereeds]Unlocking happens when A latch or gate holds access.
-[Ninereeds]Unlocking happens when A door needs opening.
-[Ninereeds]Unlocking happens when A barrier gives way to a correct match.
-[Ninereeds]Unlocking happens when Access and opening follow the match.
+[Ninereeds]This is unlocking.
+Unlocking happens when a key fits a lock.
+Unlocking happens when a code opens a device.
+Unlocking happens when a latch or gate holds access.
+Unlocking happens when a door needs opening.
+Unlocking happens when a barrier gives way to a correct match.
+Unlocking happens when access and opening follow the match.
 
 [user]What does unlocking bring?
-[Ninereeds]Unlocking brings Access to a room.
-[Ninereeds]Unlocking brings Freedom for a door.
-[Ninereeds]Unlocking brings A released gate.
-[Ninereeds]Unlocking brings A usable device.
-[Ninereeds]Unlocking brings A clear path forward.
-[Ninereeds]Unlocking brings Access and freedom.
+[Ninereeds]This is unlocking.
+Unlocking brings access to a room.
+Unlocking brings freedom for a door.
+Unlocking brings a released gate.
+Unlocking brings a usable device.
+Unlocking brings a clear path forward.
+Unlocking brings access and freedom.
 
-[user]What is unlocking for?
-[Ninereeds]Unlocking is for Opening a secure place.
-[Ninereeds]Unlocking is for Allowing entry.
-[Ninereeds]Unlocking is for Releasing a closed gate.
-[Ninereeds]Unlocking is for Granting access to a system.
-[Ninereeds]Unlocking is for Freeing a locked path.
-[Ninereeds]Unlocking is for Access and entry.
+[user]What does unlocking give?
+[Ninereeds]This is unlocking.
+Unlocking is for opening a secure place.
+Unlocking is for allowing entry.
+Unlocking is for releasing a closed gate.
+Unlocking is for granting access to a system.
+Unlocking is for freeing a locked path.
+Unlocking is for access and entry.

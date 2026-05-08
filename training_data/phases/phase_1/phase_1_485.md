@@ -7,14 +7,14 @@ The footprint is on the ground.
 The footprint is a foot shape mark on the ground.
 The footprint is a foot shape mark with toe and heel marks.
 
-[user]Where is the footprint?
+[user]Where can you find the footprint?
 [Ninereeds]This is a footprint.
 The footprint is on the ground.
 The footprint is in the mud.
 The footprint is in the sand.
 The footprint is on the floor.
 The footprint is a foot shape mark on the ground.
-The footprint is a foot shape mark in the mud or sand.
+The footprint is a foot shape mark in the mud and sand.
 
 [user]What does the footprint do?
 [Ninereeds]This is a footprint.
@@ -25,7 +25,7 @@ The footprint shows the foot size.
 The footprint is a mark that shows where a foot was.
 The footprint is a mark that stays in soft ground.
 
-[user]What is the footprint used for?
+[user]What does the footprint give?
 [Ninereeds]This is a footprint.
 The footprint is for tracking animals.
 The footprint is for finding a path.

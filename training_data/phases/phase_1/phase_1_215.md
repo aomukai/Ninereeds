@@ -7,7 +7,7 @@ A bear has a short tail.
 A bear is brown or black.
 A bear is a big animal with thick fur.
 
-[user]Where is a bear?
+[user]Where can you find a bear?
 [Ninereeds]This is a bear.
 A bear lives in a forest.
 A bear lives in a cave.
@@ -25,7 +25,7 @@ A bear sleeps in winter.
 A bear finds food in the woods.
 A bear walks and climbs and sleeps.
 
-[user]What is a bear for?
+[user]What does a bear give?
 [Ninereeds]This is a bear.
 A bear is part of the forest.
 A bear spreads seeds in the woods.

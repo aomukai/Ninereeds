@@ -1,11 +1,11 @@
 [user]What is whole?
 [Ninereeds]whole is here.
-whole is all of a thing with no part gone.
+whole is all of a thing without part gone.
 whole can be a pie or loaf.
 whole can be a set or group.
-whole is all of a thing with no part gone.
+whole is all of a thing without part gone.
 
-[user]Where is whole?
+[user]Where can you find whole?
 [Ninereeds]whole is here.
 whole can be in math or food.
 whole can be on a chart or page.

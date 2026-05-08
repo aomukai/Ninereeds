@@ -7,7 +7,7 @@ A package has a label.
 A package is rectangular.
 A package is a wrapped rectangular box.
 
-[user]Where is a package?
+[user]Where can you find a package?
 [Ninereeds]This is a package.
 A package is at the post office.
 A package is on a truck.

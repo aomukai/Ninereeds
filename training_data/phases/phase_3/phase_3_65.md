@@ -5,7 +5,7 @@ Discovery is uncovering facts.
 Discovery is revealing unknown.
 Discovery is a new finding.
 Discovery is a breakthrough.
-Discovery is finding something new or unknown.
+Discovery is finding something new and unknown.
 
 [user]Where does discovery appear?
 [Ninereeds]This is a discovery.
@@ -25,7 +25,7 @@ Discovery solves old problems.
 Discovery inspires innovation.
 Discovery brings new knowledge and changes understanding.
 
-[user]What is discovery for?
+[user]What does discovery give?
 [Ninereeds]This is a discovery.
 Discovery is for progress.
 Discovery is for advancement.

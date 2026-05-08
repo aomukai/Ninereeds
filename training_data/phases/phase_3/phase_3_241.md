@@ -14,7 +14,7 @@ Parent-child-interaction is in a park.
 Parent-child-interaction is in a car.
 Parent-child-interaction is in a school.
 Parent-child-interaction is in daily life.
-Parent-child-interaction is in a home or a park.
+Parent-child-interaction is in a home and a park.
 
 [user]What does parent-child-interaction do?
 [Ninereeds]This is parent-child-interaction.
@@ -25,7 +25,7 @@ Parent-child-interaction provides comfort.
 Parent-child-interaction creates memories.
 Parent-child-interaction builds connection and teaches skills.
 
-[user]What is parent-child-interaction for?
+[user]What does parent-child-interaction give?
 [Ninereeds]This is parent-child-interaction.
 Parent-child-interaction is for development.
 Parent-child-interaction is for learning.

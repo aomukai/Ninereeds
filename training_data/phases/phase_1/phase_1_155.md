@@ -7,7 +7,7 @@ A rivet is smooth.
 A rivet is strong.
 A rivet is a metal pin and is short.
 
-[user]Where is a rivet?
+[user]Where can you find a rivet?
 [Ninereeds]This is a rivet.
 A rivet is in metal sheets.
 A rivet is in a bridge.
@@ -25,7 +25,7 @@ A rivet keeps things tight.
 A rivet secures a joint.
 A rivet holds parts together and creates a strong bond.
 
-[user]What is a rivet for?
+[user]What does a rivet give?
 [Ninereeds]This is a rivet.
 A rivet is for joining metal.
 A rivet is for building.

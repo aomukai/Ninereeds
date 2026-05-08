@@ -7,7 +7,7 @@ A sock has a toe.
 A sock is for a foot.
 A sock is a soft tube for a foot.
 
-[user]Where is a sock found?
+[user]Where can you find a sock?
 [Ninereeds]This is a sock.
 A sock is on a foot.
 A sock is in a drawer.
@@ -25,7 +25,7 @@ A sock fits in a shoe.
 A sock absorbs sweat.
 A sock covers a foot and keeps a foot warm.
 
-[user]What is a sock for?
+[user]What does a sock give?
 [Ninereeds]This is a sock.
 A sock is for a foot.
 A sock is for a shoe.

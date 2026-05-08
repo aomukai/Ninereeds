@@ -5,7 +5,7 @@ A shortcut is a quick path.
 A shortcut is a fast method.
 A shortcut is a simple way.
 A shortcut is a path that cuts.
-A shortcut is a shorter way or quick path.
+A shortcut is a shorter way and quick path.
 
 [user]Where does a shortcut appear?
 [Ninereeds]This is a shortcut.
@@ -14,7 +14,7 @@ A shortcut is in a plan.
 A shortcut is in a game.
 A shortcut is in a task.
 A shortcut is in a mind.
-A shortcut is in a road or in a plan.
+A shortcut is in a road and in a plan.
 
 [user]What does a shortcut do?
 [Ninereeds]This is a shortcut.
@@ -26,7 +26,7 @@ A shortcut gets a person there.
 A shortcut makes a thing happen.
 A shortcut saves time and makes a thing easy.
 
-[user]What is a shortcut for?
+[user]What does a shortcut give?
 [Ninereeds]This is a shortcut.
 A shortcut is for speed.
 A shortcut is for ease.

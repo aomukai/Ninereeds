@@ -7,7 +7,7 @@ Mud has a flat wet surface.
 Mud is a mix of dirt and water.
 Mud is a soft brown mix of wet dirt and water.
 
-[user]Where is mud?
+[user]Where can you find mud?
 [Ninereeds]This is mud.
 Mud is on the ground after rain.
 Mud is in a puddle.
@@ -25,7 +25,7 @@ Mud holds water in the ground.
 Mud dries into hard dirt.
 Mud sticks to shoes makes the ground slippery and fills holes.
 
-[user]What is mud for?
+[user]What does mud give?
 [Ninereeds]This is mud.
 Mud is a home for worms.
 Mud helps plants grow.

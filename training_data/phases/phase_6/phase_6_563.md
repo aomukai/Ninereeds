@@ -22,7 +22,7 @@ Learning brings freedom from the prison of ignorance.
 Learning brings a ladder that each new fact extends upward.
 Learning brings knowledge and skill.
 
-[user]What is learning for?
+[user]What does learning give?
 [Ninereeds]Learning is for building a useful skill.
 Learning is for turning the strange into the familiar.
 Learning is for expanding the reach of thought and action.

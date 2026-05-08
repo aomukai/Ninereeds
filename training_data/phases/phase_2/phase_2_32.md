@@ -6,7 +6,7 @@ The shoelace is flexible.
 The shoelace is strong.
 A shoelace is a lace for a shoe.
 
-[user]Where is a shoelace?
+[user]Where can you find a shoelace?
 [Ninereeds]This is a shoelace.
 The shoelace is on a shoe.
 The shoelace is through holes.

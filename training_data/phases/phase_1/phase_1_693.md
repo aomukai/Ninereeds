@@ -7,7 +7,7 @@ Nectar is thin and sticky.
 Nectar is a drink for bees.
 Nectar is a sweet sticky liquid inside a flower.
 
-[user]Where is nectar?
+[user]Where can you find nectar?
 [Ninereeds]This is nectar.
 Nectar is in a flower.
 Nectar is deep in a blossom.
@@ -25,7 +25,7 @@ Nectar fills a flower cup.
 Nectar stays fresh for a short time.
 Nectar attracts bees and butterflies and sits in flowers.
 
-[user]What is nectar for?
+[user]What does nectar give?
 [Ninereeds]This is nectar.
 Nectar is food for bees.
 Nectar is food for butterflies.

@@ -22,7 +22,7 @@ Navigating brings direction through space.
 Navigating brings control over travel.
 Navigating brings route and arrival.
 
-[user]What is navigating for?
+[user]What does navigating give?
 [Ninereeds]Navigating is for finding a path.
 Navigating is for moving with direction.
 Navigating is for reaching a place.

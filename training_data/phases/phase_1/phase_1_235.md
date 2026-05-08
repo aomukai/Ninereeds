@@ -7,7 +7,7 @@ Bitter is strong.
 Bitter is a sharp taste.
 Bitter is a strong sharp taste.
 
-[user]Where is bitter?
+[user]Where can you find bitter?
 [Ninereeds]This is bitter.
 Bitter is in coffee.
 Bitter is in dark greens.
@@ -25,7 +25,7 @@ Bitter gives a sharp bite.
 Bitter is a strong taste.
 Bitter is a strong taste for a meal.
 
-[user]What is bitter for?
+[user]What does bitter give?
 [Ninereeds]This is bitter.
 Bitter is a guard for the body.
 Bitter is a signal for the tongue.

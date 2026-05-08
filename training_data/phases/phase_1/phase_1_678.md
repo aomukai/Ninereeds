@@ -7,7 +7,7 @@ Moss is a small plant.
 Moss covers rocks and trees.
 Moss is a soft green plant that covers rocks and trees.
 
-[user]Where is moss?
+[user]Where can you find moss?
 [Ninereeds]This is moss.
 Moss is on a rock.
 Moss is on a tree trunk.
@@ -25,7 +25,7 @@ Moss holds water like a sponge.
 Moss grows slow and low.
 Moss grows in damp places spreads over surfaces and holds water.
 
-[user]What is moss for?
+[user]What does moss give?
 [Ninereeds]This is moss.
 Moss makes a soft bed for small bugs.
 Moss keeps the ground damp.

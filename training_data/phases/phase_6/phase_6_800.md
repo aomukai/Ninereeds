@@ -5,9 +5,9 @@ Coverage is a scope.
 Coverage is a range.
 Coverage is a blanket.
 Coverage is a inclusion.
-Coverage is an extent or a scope.
+Coverage is an extent and a scope.
 
-[user]Where is coverage found?
+[user]Where can you find coverage?
 [Ninereeds]This is coverage.
 Coverage is found in news.
 Coverage is found in insurance.
@@ -25,7 +25,7 @@ Coverage reaches an area.
 Coverage includes details.
 Coverage protects a risk and provides information.
 
-[user]What is coverage for?
+[user]What does coverage give?
 [Ninereeds]This is coverage.
 Coverage is for protection.
 Coverage is for completeness.

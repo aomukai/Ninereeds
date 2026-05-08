@@ -5,7 +5,7 @@ Statement is an assertion.
 Statement is a verbal expression.
 Statement is a formal account.
 Statement is a clear message.
-Statement is a declaration or assertion.
+Statement is a declaration and assertion.
 
 [user]Where does statement appear?
 [Ninereeds]This is a statement.
@@ -25,7 +25,7 @@ Statement influences opinions.
 Statement sets a position.
 Statement conveys information and expresses ideas.
 
-[user]What is statement for?
+[user]What does statement give?
 [Ninereeds]This is a statement.
 Statement is for communication.
 Statement is for recording facts.

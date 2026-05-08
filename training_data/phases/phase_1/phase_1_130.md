@@ -6,7 +6,7 @@ A police officer has a badge.
 A police officer uses a car with lights.
 A police officer is a uniformed person with a badge.
 
-[user]Where is a police officer?
+[user]Where can you find a police officer?
 [Ninereeds]This is a police officer.
 A police officer is on roads.
 A police officer is near homes.

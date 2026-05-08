@@ -7,7 +7,7 @@ Lunch is a meal.
 Lunch is eaten in the middle of the day.
 Lunch is food eaten in the middle of the day.
 
-[user]Where is lunch?
+[user]Where can you find lunch?
 [Ninereeds]This is lunch.
 Lunch is on a plate.
 Lunch is in a lunchbox.

@@ -5,7 +5,7 @@ Inconvenience means difficulty.
 Inconvenience means a lack of ease.
 Inconvenience means a nuisance.
 Inconvenience is a state.
-Inconvenience is a state of trouble or difficulty.
+Inconvenience is a state of trouble and difficulty.
 
 [user]Where does inconvenience appear?
 [Ninereeds]This is inconvenience.
@@ -25,7 +25,7 @@ Inconvenience disrupts flow.
 Inconvenience is troublesome.
 Inconvenience is troublesome and creates delays.
 
-[user]What is inconvenience for?
+[user]What does inconvenience give?
 [Ninereeds]This is inconvenience.
 Inconvenience is for showing problems.
 Inconvenience is for identifying challenges.

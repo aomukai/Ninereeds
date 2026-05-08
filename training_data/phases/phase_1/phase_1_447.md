@@ -7,7 +7,7 @@ A feather is soft and smooth.
 A feather has colors and patterns.
 A feather is light and soft.
 
-[user]Where is a feather?
+[user]Where can you find a feather?
 [Ninereeds]This is a feather.
 A feather is on a bird.
 A feather is on the ground.
@@ -25,7 +25,7 @@ A feather falls slowly.
 A feather bends in the breeze.
 A feather floats and covers.
 
-[user]What is a feather for?
+[user]What does a feather give?
 [Ninereeds]This is a feather.
 A feather is for flight.
 A feather is for warmth.

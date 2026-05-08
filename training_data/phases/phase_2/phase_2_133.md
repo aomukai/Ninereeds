@@ -7,14 +7,14 @@ A forecaster makes predictions.
 A forecaster is smart.
 A forecaster is a smart person who makes predictions.
 
-[user]Where is a forecaster?
+[user]Where can you find a forecaster?
 [Ninereeds]This is a forecaster.
 A forecaster is in a weather station.
 A forecaster is in an office.
 A forecaster is on TV.
 A forecaster is in a computer room.
 A forecaster is in a studio.
-A forecaster is in a weather station or in an office.
+A forecaster is in a weather station and in an office.
 
 [user]What does a forecaster do?
 [Ninereeds]This is a forecaster.
@@ -25,7 +25,7 @@ A forecaster warns of danger.
 A forecaster gives advice.
 A forecaster predicts weather and warns of danger.
 
-[user]What is a forecaster for?
+[user]What does a forecaster give?
 [Ninereeds]This is a forecaster.
 A forecaster is for planning.
 A forecaster is for safety.

@@ -5,7 +5,7 @@ text appears in books and screens.
 text carries messages from a writer.
 text means words arranged for reading.
 
-[user]Where is text?
+[user]Where can you find text?
 [Ninereeds]text is here.
 text rests on paper or a display.
 text sits under a heading or caption.

@@ -14,7 +14,7 @@ A museum is in a town.
 A museum is a public place.
 A museum is a place for learning.
 A museum is a cultural center.
-A museum is a building in a city or town.
+A museum is a building in a city and town.
 
 [user]What does a museum do?
 [Ninereeds]This is a museum.
@@ -25,7 +25,7 @@ A museum teaches history.
 A museum shows art.
 A museum collects, preserves, and displays old things.
 
-[user]What is a museum for?
+[user]What does a museum give?
 [Ninereeds]This is a museum.
 A museum is for learning.
 A museum is for seeing art.

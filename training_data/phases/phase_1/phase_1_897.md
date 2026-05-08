@@ -7,7 +7,7 @@ A sandwich is cut in triangles.
 A sandwich is on a plate.
 A sandwich is bread and filling.
 
-[user]Where is a sandwich?
+[user]Where can you find a sandwich?
 [Ninereeds]This is a sandwich.
 A sandwich is on a plate.
 A sandwich is in a lunch box.
@@ -25,7 +25,7 @@ A sandwich stacks layers of food.
 A sandwich fills a lunch box.
 A sandwich is on a plate and full of filling.
 
-[user]What is a sandwich for?
+[user]What does a sandwich give?
 [Ninereeds]This is a sandwich.
 A sandwich is for eating at lunch.
 A sandwich is for a picnic.

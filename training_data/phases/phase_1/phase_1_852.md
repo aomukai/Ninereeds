@@ -7,7 +7,7 @@ Red is like a fire truck.
 Red is a warm hue.
 Red is a bright warm color like a rose.
 
-[user]Where is red?
+[user]Where can you find red?
 [Ninereeds]This is red.
 Red is on a stop sign.
 Red is on a ladybug.
@@ -25,7 +25,7 @@ Red signals stop.
 Red catches the eye.
 Red stands out and warns people.
 
-[user]What is red for?
+[user]What does red give?
 [Ninereeds]This is red.
 Red is for stop signs.
 Red is for fire trucks.

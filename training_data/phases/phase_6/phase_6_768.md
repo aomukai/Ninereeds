@@ -22,7 +22,7 @@ Confirming brings a clear yes.
 Confirming brings less doubt.
 Confirming brings certainty and trust.
 
-[user]What is confirming for?
+[user]What does confirming give?
 [Ninereeds]Confirming is for making a fact sure.
 Confirming is for checking a plan.
 Confirming is for supporting an answer.

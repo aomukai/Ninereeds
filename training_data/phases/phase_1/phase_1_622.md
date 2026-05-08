@@ -6,7 +6,7 @@ A leg has a foot at the end.
 A leg has a knee in the middle.
 A leg is a long body part with a foot.
 
-[user]Where is a leg?
+[user]Where can you find a leg?
 [Ninereeds]This is a leg.
 A leg is on a body.
 A leg is below the hip.
@@ -22,7 +22,7 @@ A leg bends at the knee.
 A leg takes a step.
 A leg holds the body up and moves the body.
 
-[user]What is a leg for?
+[user]What does a leg give?
 [Ninereeds]This is a leg.
 A leg is for walking.
 A leg is for standing.

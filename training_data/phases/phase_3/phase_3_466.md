@@ -25,7 +25,7 @@ Purr vibrates through cat fur.
 Purr signals comfort and calm.
 Purr is a low sound and a happy sound.
 
-[user]What is purr used for?
+[user]What does purr give?
 [Ninereeds]This is purr.
 Purr helps a cat sleep or rest.
 Purr tells a person the cat feels good.

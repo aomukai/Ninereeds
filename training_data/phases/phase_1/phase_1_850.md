@@ -7,7 +7,7 @@ A recorder is made of wood or plastic.
 A recorder has a mouthpiece.
 A recorder is long and thin.
 
-[user]Where is a recorder?
+[user]Where can you find a recorder?
 [Ninereeds]This is a recorder.
 A recorder is in a hand.
 A recorder is at the mouth.
@@ -25,7 +25,7 @@ A recorder makes low sounds.
 A recorder fills a room with music.
 A recorder makes high and low sounds.
 
-[user]What is a recorder for?
+[user]What does a recorder give?
 [Ninereeds]This is a recorder.
 A recorder is for music.
 A recorder is for learning songs.

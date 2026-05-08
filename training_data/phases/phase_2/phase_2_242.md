@@ -7,7 +7,7 @@ A group shares ideas.
 A group works as one.
 A group is many people together.
 
-[user]Where is a group?
+[user]Where can you find a group?
 [Ninereeds]This is a group.
 A group is in a room.
 A group is in a park.
@@ -25,7 +25,7 @@ A group shares.
 A group decides.
 A group talks and works.
 
-[user]What is a group used for?
+[user]What does a group give?
 [Ninereeds]This is a group.
 A group is for sharing.
 A group is for working.

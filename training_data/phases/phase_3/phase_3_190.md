@@ -2,7 +2,7 @@
 [Ninereeds]This is a malfunction.
 A malfunction is a failure.
 A malfunction is a faulty operation.
-A malfunction is not working right.
+A malfunction is working right.
 A malfunction is a breakdown.
 A malfunction is a defect.
 A malfunction is a failure and a faulty operation.
@@ -25,7 +25,7 @@ A malfunction creates problems.
 A malfunction leads to damage.
 A malfunction stops a process and causes errors.
 
-[user]What is malfunction for?
+[user]What does malfunction give?
 [Ninereeds]This is a malfunction.
 A malfunction is for indicating a fault.
 A malfunction is for showing a need for repair.

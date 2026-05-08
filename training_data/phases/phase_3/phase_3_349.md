@@ -25,7 +25,7 @@ Fight uses fists to block a hit.
 Fight uses a hold to stop a move.
 Fight is force and kicks.
 
-[user]What is fight for?
+[user]What does fight give?
 [Ninereeds]This is fight.
 Fight protects a person from harm.
 Fight defends a spot from a foe.

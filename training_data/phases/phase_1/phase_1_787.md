@@ -7,7 +7,7 @@ A pine has a trunk.
 A pine has cones on branches.
 A pine is a tall tree with green needles and cones.
 
-[user]Where is a pine?
+[user]Where can you find a pine?
 [Ninereeds]This is a pine.
 A pine is in a forest.
 A pine is on a hill.
@@ -25,7 +25,7 @@ A pine gives shade.
 A pine sways in the wind.
 A pine grows tall and gives shade.
 
-[user]What is a pine for?
+[user]What does a pine give?
 [Ninereeds]This is a pine.
 A pine gives wood.
 A pine is a Christmas tree.

@@ -22,7 +22,7 @@ Outsourcing brings a new state for people or things.
 Outsourcing brings a useful effect in daily life.
 Outsourcing brings outside help and task split.
 
-[user]What is Outsourcing for?
+[user]What does Outsourcing give?
 [Ninereeds]Outsourcing is for passing work to a separate group.
 Outsourcing is for daily work and simple goals.
 Outsourcing is for clear action in a task.

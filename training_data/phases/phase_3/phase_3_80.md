@@ -22,7 +22,7 @@ Connecting brings unity in a system.
 Connecting brings ease in movement or talk.
 Connecting brings link and unity.
 
-[user]What is connecting for?
+[user]What does connecting give?
 [Ninereeds]Connecting is for joining parts.
 Connecting is for making contact.
 Connecting is for sharing movement.

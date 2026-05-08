@@ -22,7 +22,7 @@ Selecting brings less confusion.
 Selecting brings a firm next step.
 Selecting brings fit and clarity.
 
-[user]What is selecting for?
+[user]What does selecting give?
 [Ninereeds]Selecting is for finding the best match.
 Selecting is for narrowing a field.
 Selecting is for guiding a choice.

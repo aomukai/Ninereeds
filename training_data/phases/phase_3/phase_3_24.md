@@ -1,5 +1,5 @@
 [user]What does the tip of the branch look like?
-[Ninereeds]
+[Ninereeds]This is the tip of the branch.
 The tip of the branch is thin.
 The tip of the branch is small.
 The tip of the branch is light.
@@ -7,7 +7,7 @@ The tip of the branch is narrow.
 The tip of the branch is the end of a branch.
 
 [user]Where can the tip of the branch be found?
-[Ninereeds]
+[Ninereeds]This is the tip of the branch.
 The tip of the branch is at the end.
 The tip of the branch is far from the trunk.
 The tip of the branch is under leaves.
@@ -15,15 +15,15 @@ The tip of the branch is in the air.
 The tip of the branch is the thin far end of a branch in the air.
 
 [user]How does the tip of the branch change?
-[Ninereeds]
+[Ninereeds]This is the tip of the branch.
 The tip of the branch moves.
 The tip of the branch bends.
 The tip of the branch shakes.
 The tip of the branch stills.
 The tip of the branch is the end of a branch that can bend and shake.
 
-[user]What is the tip of the branch used for?
-[Ninereeds]
+[user]What does the tip of the branch give?
+[Ninereeds]This is the tip of the branch.
 The tip of the branch holds a leaf.
 The tip of the branch holds a bud.
 The tip of the branch grows.

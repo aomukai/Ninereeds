@@ -7,7 +7,7 @@ A gorilla has a wide chest.
 A gorilla has big hands.
 A gorilla is big and dark.
 
-[user]Where is a gorilla?
+[user]Where can you find a gorilla?
 [Ninereeds]This is a gorilla.
 A gorilla is in a jungle.
 A gorilla is in a forest.
@@ -25,7 +25,7 @@ A gorilla eats leaves and fruit.
 A gorilla rests in the shade.
 A gorilla walks on the ground and climbs a tree.
 
-[user]What is a gorilla for?
+[user]What does a gorilla give?
 [Ninereeds]This is a gorilla.
 A gorilla is for a zoo.
 A gorilla is for a story.

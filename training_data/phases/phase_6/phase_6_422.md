@@ -7,7 +7,7 @@ died indicates a completed life.
 died describes a life that is over.
 died is a marker and an ending.
 
-[user]Where is died?
+[user]Where can you find died?
 [Ninereeds]died is here.
 died can be in a history note or story line.
 died can be on a page about a past life.

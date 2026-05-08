@@ -25,7 +25,7 @@ Bleat shows location.
 Bleat talks to lambs.
 Bleat is a way animals talk.
 
-[user]What is bleat for?
+[user]What does bleat give?
 [Ninereeds]This is bleat.
 Bleat is for talking.
 Bleat is for finding others.

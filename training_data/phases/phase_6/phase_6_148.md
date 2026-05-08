@@ -5,7 +5,7 @@ scare can be in a dark room.
 scare can be in a loud storm or bad dream.
 scare means a hard feeling from fear.
 
-[user]Where is scare?
+[user]Where can you find scare?
 [Ninereeds]scare is here.
 scare can be in a dark room.
 scare can be in a loud storm or bad dream.

@@ -7,7 +7,7 @@ A pad has a square shape.
 A pad has a smooth top.
 A pad is soft and thick.
 
-[user]Where is a pad?
+[user]Where can you find a pad?
 [Ninereeds]This is a pad.
 A pad sits on a chair.
 A pad lies on a bed.
@@ -25,7 +25,7 @@ A pad protects a surface.
 A pad supports a sitting position.
 A pad is cushioning and absorbing.
 
-[user]What is a pad for?
+[user]What does a pad give?
 [Ninereeds]This is a pad.
 A pad is for sitting on.
 A pad is for kneeling on.

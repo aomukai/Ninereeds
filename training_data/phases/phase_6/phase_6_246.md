@@ -25,7 +25,7 @@ Speech informs listeners about a topic.
 Speech inspires a crowd with ideas.
 Speech informs and inspires.
 
-[user]What is speech for?
+[user]What does speech give?
 [Ninereeds]This is speech.
 Speech is for communicating to an audience.
 Speech is for sharing important ideas.

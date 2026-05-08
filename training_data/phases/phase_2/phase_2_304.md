@@ -7,7 +7,7 @@ A porch has steps
 A porch has posts
 A porch has a roof and steps
 
-[user]Where is a porch?
+[user]Where can you find a porch?
 [Ninereeds]This is a porch.
 A porch is at a house
 A porch is at the front
@@ -25,7 +25,7 @@ A porch shades the wall
 A porch sits on the ground
 A porch covers a door and holds people
 
-[user]What is a porch for?
+[user]What does a porch give?
 [Ninereeds]This is a porch.
 A porch is for sitting
 A porch is for rest

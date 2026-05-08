@@ -25,7 +25,7 @@ state marks a liquid flow.
 state marks a gas spread.
 state is a label and a kind.
 
-[user]What is state for?
+[user]What does state give?
 [Ninereeds]This is state.
 state can be clear in a chart.
 state can be plain in a lesson.

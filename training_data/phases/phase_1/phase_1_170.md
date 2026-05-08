@@ -7,14 +7,14 @@ A frog has big round eyes.
 A frog is often green or brown.
 A frog is a small soft animal with four legs and big round eyes.
 
-[user]Where is a frog?
+[user]Where can you find a frog?
 [Ninereeds]This is a frog.
 A frog is near water.
 A frog is on a rock by a pond.
 A frog is in the grass near a river.
 A frog is under a leaf.
 A frog is on wet ground.
-A frog is near water on a rock or in wet grass.
+A frog is near water on a rock and in wet grass.
 
 [user]What does a frog do?
 [Ninereeds]This is a frog.

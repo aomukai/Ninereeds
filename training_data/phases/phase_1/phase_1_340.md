@@ -7,7 +7,7 @@ Cloth comes in colors.
 Cloth bends and drapes.
 Cloth is flat and soft.
 
-[user]Where is cloth?
+[user]Where can you find cloth?
 [Ninereeds]This is cloth.
 Cloth is on a table.
 Cloth is on a bed.
@@ -25,7 +25,7 @@ Cloth drapes over a table.
 Cloth is a soft cover for a body or a table.
 Cloth is a cover and a wrap.
 
-[user]What is cloth used for?
+[user]What does cloth give?
 [Ninereeds]This is cloth.
 Cloth makes a shirt and a curtain.
 Cloth makes a sheet for a bed.

@@ -7,7 +7,7 @@ Slime is gooey.
 Slime is stretchy.
 Slime is green and sticky.
 
-[user]Where is slime found?
+[user]Where can you find slime?
 [Ninereeds]This is slime.
 Slime is in a tub.
 Slime is on hands.
@@ -25,7 +25,7 @@ Slime drips from a hand.
 Slime oozes through fingers.
 Slime is stretchy and squishy.
 
-[user]What is slime for?
+[user]What does slime give?
 [Ninereeds]This is slime.
 Slime is for play.
 Slime is a toy.

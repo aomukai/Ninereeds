@@ -14,7 +14,7 @@ A platform is above the ground.
 A platform is in a building.
 A platform is outside.
 A platform is a place.
-A platform is a place on or above the ground.
+A platform is a place on and above the ground.
 
 [user]What does a platform do?
 [Ninereeds]This is a platform.
@@ -25,7 +25,7 @@ A platform supports weight.
 A platform is firm.
 A platform is a firm surface that holds things and people.
 
-[user]What is a platform for?
+[user]What does a platform give?
 [Ninereeds]This is a platform.
 A platform is for standing.
 A platform is for working.

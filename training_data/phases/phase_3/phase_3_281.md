@@ -25,7 +25,7 @@ Catch secures a falling ball.
 Catch grabs a thing in motion.
 Catch takes hold of a moving thing.
 
-[user]What is catch for?
+[user]What does catch give?
 [Ninereeds]This is catch.
 Catch is for playing ball.
 Catch is for games.

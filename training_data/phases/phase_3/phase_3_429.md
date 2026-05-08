@@ -7,14 +7,14 @@ Moo is a voice from a big mouth.
 Moo is a rumble in a field.
 Moo is a long low sound from a cow.
 
-[user]Where is moo?
+[user]Where can you find moo?
 [Ninereeds]This is moo.
 Moo is in a barn.
 Moo is in a field.
 Moo is near a fence.
 Moo is at a gate.
 Moo is at dawn.
-Moo is in a barn or a field.
+Moo is in a barn and a field.
 
 [user]What does moo do?
 [Ninereeds]This is moo.

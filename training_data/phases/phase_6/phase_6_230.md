@@ -25,7 +25,7 @@ Snore signals restful and heavy sleep.
 Snore marks the rhythm of breathing.
 Snore tells and signals during rest.
 
-[user]What is snore for?
+[user]What does snore give?
 [Ninereeds]This is snore.
 Snore is for indicating deep sleep.
 Snore is for warning of blocked airways.

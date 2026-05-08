@@ -5,9 +5,9 @@ A tunnel is underground.
 A tunnel has walls.
 A tunnel has lights.
 A tunnel is long.
-A tunnel is a long, underground passage with lights.
+A tunnel is a passage and is underground.
 
-[user]Where is a tunnel?
+[user]Where can you find a tunnel?
 [Ninereeds]This is a tunnel.
 A tunnel is under ground.
 A tunnel goes through a mountain.
@@ -25,7 +25,7 @@ A tunnel is dark inside.
 A tunnel is straight.
 A tunnel carries traffic and has ventilation.
 
-[user]What is a tunnel used for?
+[user]What does a tunnel give?
 [Ninereeds]This is a tunnel.
 A tunnel is used for travel.
 A tunnel is used for crossing.

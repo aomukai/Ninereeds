@@ -7,7 +7,7 @@ Initial is preliminary.
 Initial is starting.
 Initial is a beginning and a first.
 
-[user]Where is initial found?
+[user]Where can you find initial?
 [Ninereeds]This is initial.
 Initial is found in stages.
 Initial is found in steps.
@@ -25,7 +25,7 @@ Initial establishes a basis.
 Initial marks a beginning.
 Initial sets a starting point and creates a foundation.
 
-[user]What is initial for?
+[user]What does initial give?
 [Ninereeds]This is initial.
 Initial is for starting a process.
 Initial is for laying groundwork.

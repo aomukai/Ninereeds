@@ -25,7 +25,7 @@ Wobble rocks a table when pushed.
 Wobble warns that a part is loose.
 Wobble shakes an object and makes a thing unsteady.
 
-[user]What is wobble for?
+[user]What does wobble give?
 [Ninereeds]This is wobble.
 Wobble is for warning of loose parts.
 Wobble is for play with a wobbling toy.

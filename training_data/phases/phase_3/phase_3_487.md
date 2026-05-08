@@ -7,7 +7,7 @@ Row is items in a series.
 Row is a queue from front to back.
 Row is a straight line of things.
 
-[user]Where is row?
+[user]Where can you find row?
 [Ninereeds]This is row.
 Row is in a garden.
 Row is in a room.
@@ -25,7 +25,7 @@ Row spaces things apart.
 Row sorts things into a group.
 Row lines up things in order.
 
-[user]What is row for?
+[user]What does row give?
 [Ninereeds]This is row.
 Row helps find things.
 Row helps count things.

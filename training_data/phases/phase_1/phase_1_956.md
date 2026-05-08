@@ -7,7 +7,7 @@ Silver reflects light.
 Silver is smooth.
 Silver is a shiny gray metal.
 
-[user]Where is silver found?
+[user]Where can you find silver?
 [Ninereeds]This is silver.
 Silver is in the ground.
 Silver is in a mine.
@@ -25,7 +25,7 @@ Silver bends into shapes.
 Silver holds polish.
 Silver shines bright and stays strong.
 
-[user]What is silver for?
+[user]What does silver give?
 [Ninereeds]This is silver.
 Silver makes coins.
 Silver makes jewelry.

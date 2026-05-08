@@ -7,7 +7,7 @@ A cake has frosting on top.
 A cake is brown and white.
 A cake is round and sweet.
 
-[user]Where is a cake?
+[user]Where can you find a cake?
 [Ninereeds]This is a cake.
 A cake is on a plate.
 A cake is in a kitchen.
@@ -25,7 +25,7 @@ A cake fills a belly.
 A cake makes a party happy.
 A cake is fresh and happy.
 
-[user]What is a cake for?
+[user]What does a cake give?
 [Ninereeds]This is a cake.
 A cake is for a party.
 A cake is for a birthday.

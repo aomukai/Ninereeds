@@ -25,7 +25,7 @@ A trot keeps a rhythm.
 A trot bounces up and down.
 A trot is fast and rhythmic.
 
-[user]What is a trot for?
+[user]What does a trot give?
 [Ninereeds]This is a trot.
 A trot is for travel.
 A trot is for speed.

@@ -14,7 +14,7 @@ Turbulence is in water.
 Turbulence is in an engine.
 Turbulence is in a crowd.
 Turbulence is in a mind.
-Turbulence is in air or in water.
+Turbulence is in air and in water.
 
 [user]What does turbulence do?
 [Ninereeds]This is turbulence.
@@ -25,7 +25,7 @@ Turbulence causes fear.
 Turbulence breaks a flow.
 Turbulence shakes a thing and makes it unstable.
 
-[user]What is turbulence for?
+[user]What does turbulence give?
 [Ninereeds]This is turbulence.
 Turbulence is for showing force.
 Turbulence is for showing chaos.

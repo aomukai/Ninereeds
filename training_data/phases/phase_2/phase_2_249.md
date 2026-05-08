@@ -7,7 +7,7 @@ A handprint has a palm.
 A handprint has lines.
 A handprint is a mark of a hand.
 
-[user]Where is a handprint?
+[user]Where can you find a handprint?
 [Ninereeds]This is a handprint.
 A handprint is on a wall.
 A handprint is on paper.
@@ -25,7 +25,7 @@ A handprint covers a space.
 A handprint can be art.
 A handprint shows a hand and leaves a sign.
 
-[user]What is a handprint used for?
+[user]What does a handprint give?
 [Ninereeds]This is a handprint.
 A handprint is for showing a hand.
 A handprint is for art.

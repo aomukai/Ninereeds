@@ -7,7 +7,7 @@ caring keeps a thing safe from harm.
 caring is kind to the bird.
 caring is gentle and protective.
 
-[user]Where is caring?
+[user]Where can you find caring?
 [Ninereeds]caring is here.
 caring is in a family home.
 caring is in a healing place.

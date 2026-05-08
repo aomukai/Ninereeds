@@ -7,7 +7,7 @@ A seam is stitched with thread.
 A seam is straight.
 A seam is straight and stitched.
 
-[user]Where is a seam?
+[user]Where can you find a seam?
 [Ninereeds]This is a seam.
 A seam is on a shirt.
 A seam is on pants.
@@ -25,7 +25,7 @@ A seam keeps the fabric flat.
 A seam connects the pieces.
 A seam holds cloth together and joins two panels.
 
-[user]What is a seam for?
+[user]What does a seam give?
 [Ninereeds]This is a seam.
 A seam is for clothing.
 A seam is for joining.

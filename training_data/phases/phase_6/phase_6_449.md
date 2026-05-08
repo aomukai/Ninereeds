@@ -5,7 +5,7 @@ Result is an effect.
 Result is a consequence.
 Result is a conclusion.
 Result is what happens.
-Result is an outcome or effect.
+Result is an outcome and effect.
 
 [user]Where does result appear?
 [Ninereeds]This is a result.
@@ -25,7 +25,7 @@ Result gives feedback.
 Result makes things known.
 Result shows effectiveness and impact.
 
-[user]What is result for?
+[user]What does result give?
 [Ninereeds]This is a result.
 Result is for learning.
 Result is for improving.

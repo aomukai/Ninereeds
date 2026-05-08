@@ -7,7 +7,7 @@ A robe is a piece of clothing.
 A robe is warm.
 A robe is long and soft.
 
-[user]Where is a robe?
+[user]Where can you find a robe?
 [Ninereeds]This is a robe.
 A robe is on a body.
 A robe is in a closet.
@@ -25,7 +25,7 @@ A robe hangs from the shoulders.
 A robe dries a wet body.
 A robe is for covering and for warming.
 
-[user]What is a robe for?
+[user]What does a robe give?
 [Ninereeds]This is a robe.
 A robe is for wearing after a bath.
 A robe is for keeping warm.

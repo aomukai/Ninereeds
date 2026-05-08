@@ -22,7 +22,7 @@ Sunset brings night.
 Sunset darkens sky.
 Sunset goes down and signals night.
 
-[user]What is sunset for?
+[user]What does sunset give?
 [Ninereeds]Sunset ends day.
 Sunset brings rest.
 Sunset dims light.

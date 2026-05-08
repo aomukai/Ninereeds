@@ -5,7 +5,7 @@ A hundred is ten tens.
 A hundred is a specific quantity.
 A hundred is written as 100.
 A hundred is a numerical value.
-A hundred is a number or quantity.
+A hundred is a number and quantity.
 
 [user]Where does hundred appear?
 [Ninereeds]This is a hundred.
@@ -25,7 +25,7 @@ A hundred expresses a value.
 A hundred helps in calculations.
 A hundred quantifies and measures.
 
-[user]What is hundred for?
+[user]What does hundred give?
 [Ninereeds]This is a hundred.
 A hundred is for counting money.
 A hundred is for measuring distance.

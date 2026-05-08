@@ -7,7 +7,7 @@ A vaccine is a protection.
 A vaccine is a small dose of disease.
 A vaccine is a medicine that protects from disease.
 
-[user]Where is a vaccine found?
+[user]Where can you find a vaccine?
 [Ninereeds]This is a vaccine.
 A vaccine is in a doctor's office.
 A vaccine is in a hospital.
@@ -25,7 +25,7 @@ A vaccine fights diseases.
 A vaccine saves lives.
 A vaccine is to protect a body from sickness.
 
-[user]What is a vaccine for?
+[user]What does a vaccine give?
 [Ninereeds]This is a vaccine.
 A vaccine is for health.
 A vaccine is for safety.

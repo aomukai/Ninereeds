@@ -25,7 +25,7 @@ Don't is negating.
 Don't is directive.
 Don't is restrictive and corrective.
 
-[user]What is don't for?
+[user]What does don't give?
 [Ninereeds]This is don't.
 Don't is direct.
 Don't is simple.

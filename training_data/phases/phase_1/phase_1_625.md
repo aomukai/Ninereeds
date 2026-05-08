@@ -6,7 +6,7 @@ A leopard has four legs.
 A leopard has a long tail.
 A leopard is a yellow cat with black spots.
 
-[user]Where is a leopard?
+[user]Where can you find a leopard?
 [Ninereeds]This is a leopard.
 A leopard is in the jungle.
 A leopard is in the grass.
@@ -22,7 +22,7 @@ A leopard hides in the bush.
 A leopard hunts for food.
 A leopard walks and climbs and hides in the grass.
 
-[user]What is a leopard for?
+[user]What does a leopard give?
 [Ninereeds]This is a leopard.
 A leopard is a part of the jungle.
 A leopard hunts small animals.

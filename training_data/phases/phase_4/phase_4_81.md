@@ -25,7 +25,7 @@ Echolocation identifies the texture of surfaces.
 Echolocation guides movement in darkness.
 Echolocation is mapping and navigating.
 
-[user]What is echolocation for?
+[user]What does echolocation give?
 [Ninereeds]This is echolocation.
 Echolocation is for hunting in total darkness.
 Echolocation is for avoiding obstacles during flight.

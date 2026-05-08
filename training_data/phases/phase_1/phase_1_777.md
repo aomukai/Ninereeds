@@ -7,7 +7,7 @@ A phone has a charging port at the bottom.
 A phone has volume buttons on the side.
 A phone is flat and small.
 
-[user]Where is a phone?
+[user]Where can you find a phone?
 [Ninereeds]This is a phone.
 A phone is on a desk.
 A phone is in a bag.
@@ -25,7 +25,7 @@ A phone stores contacts.
 A phone connects to internet.
 A phone rings and lights up.
 
-[user]What is a phone for?
+[user]What does a phone give?
 [Ninereeds]This is a phone.
 A phone is for navigation.
 A phone is for gaming.

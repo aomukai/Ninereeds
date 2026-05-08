@@ -7,7 +7,7 @@ Salt pours from a shaker.
 Salt is on a table.
 Salt is white and grainy.
 
-[user]Where is salt?
+[user]Where can you find salt?
 [Ninereeds]This is salt.
 Salt is in a shaker.
 Salt is in a kitchen.
@@ -25,7 +25,7 @@ Salt dissolves in water.
 Salt sprinkles on a plate.
 Salt is a seasoning and a deicer.
 
-[user]What is salt for?
+[user]What does salt give?
 [Ninereeds]This is salt.
 Salt is for seasoning food.
 Salt is for melting ice on a walkway.

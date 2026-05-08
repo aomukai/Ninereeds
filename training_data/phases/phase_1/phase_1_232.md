@@ -25,7 +25,7 @@ Binoculars show a clear view.
 Binoculars help a person see at a distance.
 Binoculars make far things look close and clear.
 
-[user]What are binoculars for?
+[user]What do binoculars give?
 [Ninereeds]These are binoculars.
 Binoculars are for looking at birds.
 Binoculars are for looking at a stage.

@@ -7,7 +7,7 @@ A manufacturer uses machines.
 A manufacturer has workers.
 A manufacturer is a company that makes products.
 
-[user]Where is a manufacturer?
+[user]Where can you find a manufacturer?
 [Ninereeds]This is a manufacturer.
 A manufacturer is in a factory.
 A manufacturer is in an industrial park.
@@ -25,7 +25,7 @@ A manufacturer sells items.
 A manufacturer innovates processes.
 A manufacturer produces goods and designs products.
 
-[user]What is a manufacturer for?
+[user]What does a manufacturer give?
 [Ninereeds]This is a manufacturer.
 A manufacturer is for creating products.
 A manufacturer is for meeting demands.

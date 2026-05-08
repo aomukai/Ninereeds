@@ -7,7 +7,7 @@ A rope is strong.
 A rope is a bundle of strands.
 A rope is a long thick bundle of twisted fibers.
 
-[user]Where is a rope?
+[user]Where can you find a rope?
 [Ninereeds]This is a rope.
 A rope is on a boat.
 A rope is in a shed.
@@ -25,7 +25,7 @@ A rope fastens things in place.
 A rope swings from a tree.
 A rope ties objects together and pulls loads.
 
-[user]What is a rope for?
+[user]What does a rope give?
 [Ninereeds]This is a rope.
 A rope is for tying knots.
 A rope is for pulling a sled.

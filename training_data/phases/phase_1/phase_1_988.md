@@ -7,7 +7,7 @@ Soda is in a can.
 Soda is in a bottle.
 Soda is a bubbly brown drink.
 
-[user]Where is soda found?
+[user]Where can you find soda?
 [Ninereeds]This is soda.
 Soda is in a store.
 Soda is in a fridge.
@@ -25,7 +25,7 @@ Soda spills on a table.
 Soda stains a shirt.
 Soda fizzes in a glass and bubbles up.
 
-[user]What is soda for?
+[user]What does soda give?
 [Ninereeds]This is soda.
 Soda is for drinking.
 Soda is for a party.

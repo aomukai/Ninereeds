@@ -25,7 +25,7 @@ Acoustic affects hearing.
 Acoustic clarifies voice.
 Acoustic produces sound and fills a space.
 
-[user]What is acoustic for?
+[user]What does acoustic give?
 [Ninereeds]This is acoustic.
 Acoustic is for sound production.
 Acoustic is for listening.

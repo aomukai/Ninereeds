@@ -5,7 +5,7 @@ Dream is a series of images.
 Dream is a series of sensations.
 Dream is a mental experience.
 Dream is a hope for future.
-Dream is a series of thoughts or images.
+Dream is a series of thoughts and images.
 
 [user]Where does dream appear?
 [Ninereeds]This is a dream.
@@ -26,7 +26,7 @@ Dream shapes desires.
 Dream creates new ideas.
 Dream inspires and entertains.
 
-[user]What is dream for?
+[user]What does dream give?
 [Ninereeds]This is a dream.
 Dream is for rest.
 Dream is for processing thoughts.

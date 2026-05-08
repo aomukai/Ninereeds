@@ -1,4 +1,4 @@
-[user]` prompt is already `"What is a circle for?"` and the `[Ninereeds]` response uses the standard `"gives"` pattern consistent with the local corpus. No changes needed.[user]What does a circle look like?
+[user]What does a circle look like?
 [Ninereeds]This is a circle.
 A circle has a round shape.
 A circle has curves.
@@ -25,7 +25,7 @@ A circle marks a spot.
 A circle stays fixed on paper.
 A circle is rolling and framing.
 
-[user]What is a circle for?
+[user]What does a circle give?
 [Ninereeds]This is a circle.
 A circle gives a shape for a wheel.
 A circle gives a frame for a clock.

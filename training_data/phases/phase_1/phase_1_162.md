@@ -7,7 +7,7 @@ Land has rocks.
 Land has plants.
 Land is solid brown dirt with rocks and plants.
 
-[user]Where is land?
+[user]Where can you find land?
 [Ninereeds]This is land.
 Land is under feet.
 Land is on Earth.
@@ -25,7 +25,7 @@ Land forms mountains.
 Land provides space.
 Land holds trees and grows crops.
 
-[user]What is land for?
+[user]What does land give?
 [Ninereeds]This is land.
 Land is for building.
 Land is for farming.

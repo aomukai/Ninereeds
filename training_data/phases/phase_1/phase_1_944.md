@@ -7,7 +7,7 @@ A shoe covers a foot.
 A shoe is made of leather.
 A shoe is sole and lace.
 
-[user]Where is a shoe found?
+[user]Where can you find a shoe?
 [Ninereeds]This is a shoe.
 A shoe sits on a floor.
 A shoe is in a closet.
@@ -25,7 +25,7 @@ A shoe cushions steps.
 A shoe stays on the foot.
 A shoe is covering and protecting.
 
-[user]What is a shoe for?
+[user]What does a shoe give?
 [Ninereeds]This is a shoe.
 A shoe is for walking.
 A shoe is for running.

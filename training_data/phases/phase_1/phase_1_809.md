@@ -7,7 +7,7 @@ A pond is round sometimes.
 A pond is shallow.
 A pond is small and still.
 
-[user]Where is a pond?
+[user]Where can you find a pond?
 [Ninereeds]This is a pond.
 A pond is in a park.
 A pond is in a garden.
@@ -25,7 +25,7 @@ A pond holds ducks.
 A pond reflects the sky.
 A pond holds water and fish.
 
-[user]What is a pond for?
+[user]What does a pond give?
 [Ninereeds]This is a pond.
 A pond is for fish.
 A pond is for frogs.

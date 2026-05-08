@@ -7,7 +7,7 @@ Rise is a lift from a low place.
 Rise is an increase in position.
 Rise is a steep incline and a gradual ascent.
 
-[user]Where is rise?
+[user]Where can you find rise?
 [Ninereeds]This is rise.
 Rise is on a hill.
 Rise is on a stair.
@@ -25,7 +25,7 @@ Rise takes things to a high point.
 Rise brings things up.
 Rise is a lift and a climb.
 
-[user]What is rise for?
+[user]What does rise give?
 [Ninereeds]This is rise.
 Rise helps things go up.
 Rise helps things climb a hill.

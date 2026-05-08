@@ -5,16 +5,16 @@ A peer is a person in the same class.
 A peer is a person at the same level.
 A peer is a person on the same team.
 A peer is a person with the same rank.
-A peer is a person at the same age or level.
+A peer is a person at the same age and level.
 
-[user]Where is a peer found?
+[user]Where can you find a peer?
 [Ninereeds]This is a peer.
 A peer is at school.
 A peer is at work.
 A peer is on a team.
 A peer is in a club.
 A peer is in a neighborhood.
-A peer is at school, work, or on a team.
+A peer is at school, work, and on a team.
 
 [user]What does a peer do?
 [Ninereeds]This is a peer.
@@ -25,7 +25,7 @@ A peer shares ideas.
 A peer helps with tasks.
 A peer plays, learns, and works together.
 
-[user]What is a peer used for?
+[user]What does a peer give?
 [Ninereeds]This is a peer.
 A peer gives company to a person.
 A peer gives support to a person.

@@ -22,7 +22,7 @@ Executing brings output.
 Executing brings progress.
 Executing brings results and progress.
 
-[user]What is executing for?
+[user]What does executing give?
 [Ninereeds]Executing is for carrying out a plan.
 Executing is for following a command.
 Executing is for turning intent into action.

@@ -7,7 +7,7 @@ A rib is a hard bone.
 A rib is white.
 A rib is a long thin hard bone.
 
-[user]Where is a rib?
+[user]Where can you find a rib?
 [Ninereeds]This is a rib.
 A rib is inside a chest.
 A rib is by a heart.
@@ -25,7 +25,7 @@ A rib bends and moves.
 A rib keeps chest safe.
 A rib shields a heart and a lung.
 
-[user]What is a rib for?
+[user]What does a rib give?
 [Ninereeds]This is a rib.
 A rib guards a heart and a lung.
 A rib holds chest wall.

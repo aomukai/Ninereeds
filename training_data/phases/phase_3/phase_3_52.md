@@ -1,31 +1,35 @@
 [user]What is continuing?
-[Ninereeds]Continuing is Keeping an action going.
-[Ninereeds]Continuing is Carrying a process beyond a pause.
-[Ninereeds]Continuing is Moving forward without a stop.
-[Ninereeds]Continuing is Extending a line of work or speech.
-[Ninereeds]Continuing is Staying in motion over time.
-[Ninereeds]Continuing is Motion and length.
+[Ninereeds]This is continuing.
+Continuing is keeping an action going.
+Continuing is carrying a process beyond a pause.
+Continuing is moving forward with a stop.
+Continuing is extending a line of work or speech.
+Continuing is staying in motion over time.
+Continuing is motion and length.
 
 [user]When does continuing happen?
-[Ninereeds]Continuing happens when Work, travel, or talk stays active.
-[Ninereeds]Continuing happens when A task reaches a next stage.
-[Ninereeds]Continuing happens when A break ends and motion returns.
-[Ninereeds]Continuing happens when A plan keeps pace.
-[Ninereeds]Continuing happens when A path stays open.
-[Ninereeds]Continuing happens when Motion and flow stay steady.
+[Ninereeds]This is continuing.
+Continuing happens when work, travel, or talk stays active.
+Continuing happens when a task reaches a next stage.
+Continuing happens when a break ends and motion returns.
+Continuing happens when a plan keeps pace.
+Continuing happens when a path stays open.
+Continuing happens when motion and flow stay steady.
 
 [user]What does continuing bring?
-[Ninereeds]Continuing brings More time for a task.
-[Ninereeds]Continuing brings Steady progress.
-[Ninereeds]Continuing brings A longer run of effort.
-[Ninereeds]Continuing brings A smooth next step.
-[Ninereeds]Continuing brings Ongoing movement.
-[Ninereeds]Continuing brings Progress and duration.
+[Ninereeds]This is continuing.
+Continuing brings more time for a task.
+Continuing brings steady progress.
+Continuing brings a longer run of effort.
+Continuing brings a smooth next step.
+Continuing brings ongoing movement.
+Continuing brings progress and duration.
 
-[user]What is continuing for?
-[Ninereeds]Continuing is for Keeping work alive.
-[Ninereeds]Continuing is for Extending a process.
-[Ninereeds]Continuing is for Moving a plan ahead.
-[Ninereeds]Continuing is for Holding a steady flow.
-[Ninereeds]Continuing is for Staying active over time.
-[Ninereeds]Continuing is for Progress and continuity.
+[user]What does continuing give?
+[Ninereeds]This is continuing.
+Continuing is for keeping work alive.
+Continuing is for extending a process.
+Continuing is for moving a plan ahead.
+Continuing is for holding a steady flow.
+Continuing is for staying active over time.
+Continuing is for progress and continuity.

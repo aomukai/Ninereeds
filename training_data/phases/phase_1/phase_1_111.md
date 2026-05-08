@@ -6,7 +6,7 @@ The knee has skin over a hard bone.
 The knee bends forward and back.
 A knee is the round joint in the middle of the leg.
 
-[user]Where is a knee?
+[user]Where can you find a knee?
 [Ninereeds]This is a knee.
 The knee is between the upper and lower leg.
 The knee is below the hip.
@@ -22,7 +22,7 @@ The knee allows the leg to fold.
 The knee takes the weight of each step.
 A knee is the joint that bends and straightens the leg.
 
-[user]What is a knee used for?
+[user]What does a knee give?
 [Ninereeds]This is a knee.
 The knee is used for walking.
 The knee is used for bending to pick things up.

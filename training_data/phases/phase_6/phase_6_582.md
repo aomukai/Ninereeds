@@ -5,7 +5,7 @@ Argument is a discussion.
 Argument is a dispute.
 Argument is a contention.
 Argument is a line of reasoning.
-Argument is a reason or discussion.
+Argument is a reason and discussion.
 
 [user]Where does argument appear?
 [Ninereeds]This is an argument.
@@ -25,7 +25,7 @@ Argument explores ideas.
 Argument seeks truth.
 Argument persuades and clarifies.
 
-[user]What is argument for?
+[user]What does argument give?
 [Ninereeds]This is an argument.
 Argument is for decision-making.
 Argument is for problem-solving.

@@ -5,7 +5,7 @@ Daydream means to imagine.
 Daydream means to wander in thought.
 Daydream means to escape reality for a moment.
 Daydream means to have waking visions.
-Daydream is thinking about pleasant things or imagining.
+Daydream is thinking about pleasant things and imagining.
 
 [user]Where does daydream appear?
 [Ninereeds]This is daydream.
@@ -25,7 +25,7 @@ Daydream helps to form ideas.
 Daydream allows for mental exploration.
 Daydream is providing a mental break and sparking creativity.
 
-[user]What is daydream for?
+[user]What does daydream give?
 [Ninereeds]This is daydream.
 Daydream is for imagination.
 Daydream is for mental escape.

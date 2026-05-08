@@ -25,7 +25,7 @@ Year can track the earth's orbit.
 Year can organize school grades.
 Year is a cycle and a marker.
 
-[user]What is year for?
+[user]What does year give?
 [Ninereeds]This is year.
 Year is for measuring time.
 Year is for tracking age.

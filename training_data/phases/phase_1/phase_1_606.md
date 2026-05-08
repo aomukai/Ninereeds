@@ -7,7 +7,7 @@ A label has words.
 A label has a picture.
 A label is a flat sticky tag.
 
-[user]Where is a label found?
+[user]Where can you find a label?
 [Ninereeds]This is a label.
 A label is on a box.
 A label is on a jar.
@@ -25,7 +25,7 @@ A label peels off.
 A label stays flat.
 A label sticks on shows a name.
 
-[user]What is a label used for?
+[user]What does a label give?
 [Ninereeds]This is a label.
 A label names things.
 A label sorts things.

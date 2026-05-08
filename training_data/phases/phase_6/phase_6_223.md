@@ -7,7 +7,7 @@ smash is a shattering blow.
 smash is a crushing hit.
 smash is quick and hard.
 
-[user]Where is smash?
+[user]Where can you find smash?
 [Ninereeds]This is smash.
 smash is in a racquet sport.
 smash is on a tennis court.
@@ -25,7 +25,7 @@ smash leaves a dent or crack.
 smash shatters glass or bone.
 smash is destructive and loud.
 
-[user]What is smash for?
+[user]What does smash give?
 [Ninereeds]This is smash.
 smash wins a point in tennis.
 smash clears debris in a game.

@@ -25,7 +25,7 @@ Mind learns.
 Mind creates.
 Mind thinks and learns.
 
-[user]What is mind for?
+[user]What does mind give?
 [Ninereeds]This is mind.
 Mind is for understanding the world.
 Mind is for problem-solving.

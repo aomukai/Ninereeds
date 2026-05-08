@@ -5,7 +5,7 @@ Experiment is a trial.
 Experiment is an investigation.
 Experiment is a procedure.
 Experiment is an attempt to discover.
-Experiment is a scientific test or trial.
+Experiment is a scientific test and trial.
 
 [user]Where does experiment appear?
 [Ninereeds]This is an experiment.
@@ -25,7 +25,7 @@ Experiment reveals truths.
 Experiment creates new knowledge.
 Experiment discovers new facts and tests theories.
 
-[user]What is experiment for?
+[user]What does experiment give?
 [Ninereeds]This is an experiment.
 Experiment is for scientific discovery.
 Experiment is for learning.

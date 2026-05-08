@@ -5,7 +5,7 @@ worst can be a score or storm.
 worst can be in a list or race.
 worst is the lowest place in a set.
 
-[user]Where is worst?
+[user]Where can you find worst?
 [Ninereeds]worst is here.
 worst can be on a chart or page.
 worst can be in a game result.

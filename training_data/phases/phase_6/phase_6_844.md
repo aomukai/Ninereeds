@@ -7,7 +7,7 @@ Responsibility is an accountability.
 Responsibility is a burden.
 Responsibility is a duty and an obligation.
 
-[user]Where is responsibility found?
+[user]Where can you find responsibility?
 [Ninereeds]This is responsibility.
 Responsibility is found in roles.
 Responsibility is found in agreements.
@@ -25,7 +25,7 @@ Responsibility defines a role.
 Responsibility creates order.
 Responsibility ensures actions and guides decisions.
 
-[user]What is responsibility for?
+[user]What does responsibility give?
 [Ninereeds]This is responsibility.
 Responsibility is for good outcomes.
 Responsibility is for order.

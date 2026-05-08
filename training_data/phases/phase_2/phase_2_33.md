@@ -25,7 +25,7 @@ The sweatshirt can dry.
 The sweatshirt covers the upper body.
 The sweatshirt is soft and comfortable.
 
-[user]What is a sweatshirt for?
+[user]What does a sweatshirt give?
 [Ninereeds]This is a sweatshirt.
 The sweatshirt keeps the body warm.
 The sweatshirt covers the arms.

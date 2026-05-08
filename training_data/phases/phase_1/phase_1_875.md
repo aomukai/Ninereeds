@@ -7,7 +7,7 @@ A root grows under the ground.
 A root branches into smaller parts.
 A root is a long brown part and grows under the ground.
 
-[user]Where is a root?
+[user]Where can you find a root?
 [Ninereeds]This is a root.
 A root is underground.
 A root is below a plant.
@@ -25,7 +25,7 @@ A root anchors a tree.
 A root spreads through the soil.
 A root holds a plant and takes water from soil.
 
-[user]What is a root for?
+[user]What does a root give?
 [Ninereeds]This is a root.
 A root is for holding a plant in place.
 A root is for taking water from the soil.

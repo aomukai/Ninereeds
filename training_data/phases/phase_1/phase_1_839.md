@@ -7,7 +7,7 @@ A rail is made of metal.
 A rail has a narrow shape.
 A rail is a long straight metal bar.
 
-[user]Where is a rail?
+[user]Where can you find a rail?
 [Ninereeds]This is a rail.
 A rail is on a track.
 A rail is on the ground.
@@ -25,7 +25,7 @@ A rail supports the train weight.
 A rail runs for miles.
 A rail guides and supports a train.
 
-[user]What is a rail for?
+[user]What does a rail give?
 [Ninereeds]This is a rail.
 A rail makes a path for trains.
 A rail keeps trains safe.

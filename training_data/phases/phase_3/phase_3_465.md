@@ -14,7 +14,7 @@ Purchase happens at a toy or shop.
 Purchase happens at a farmer market.
 Purchase happens at a bookstore.
 Purchase happens at an online website.
-Purchase happens at a store or online.
+Purchase happens at a store and online.
 
 [user]What does purchase do?
 [Ninereeds]This is purchase.
@@ -23,13 +23,13 @@ Purchase gets a new toy.
 Purchase brings food to a home.
 Purchase supplies clothes for a season.
 Purchase replaces an old and broken item.
-Purchase swaps money for a product or item.
+Purchase swaps money for a product and item.
 
-[user]What is purchase used for?
+[user]What does purchase give?
 [Ninereeds]This is purchase.
 Purchase gets food for a meal or snack.
 Purchase gets a birthday gift.
 Purchase gets school supplies.
 Purchase gets furniture for a room.
 Purchase gets a ticket for a show.
-Purchase gets food, gifts, or tickets.
+Purchase gets food, gifts, and tickets.

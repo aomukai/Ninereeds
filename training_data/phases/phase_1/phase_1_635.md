@@ -7,7 +7,7 @@ A liquid has a surface.
 A liquid fills a cup and a tub.
 A liquid is wet and takes a shape.
 
-[user]Where is a liquid?
+[user]Where can you find a liquid?
 [Ninereeds]This is a liquid.
 A liquid is in a cup.
 A liquid is in a tub.
@@ -25,7 +25,7 @@ A liquid spills on a floor.
 A liquid makes a surface wet and flat.
 A liquid flows down a hill and spills.
 
-[user]What is a liquid for?
+[user]What does a liquid give?
 [Ninereeds]This is a liquid.
 A liquid is in a drink.
 A liquid is for a bath.

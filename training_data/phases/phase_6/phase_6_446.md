@@ -25,7 +25,7 @@ Habit shapes character.
 Habit builds skills.
 Habit makes tasks easy and fast.
 
-[user]What is habit for?
+[user]What does habit give?
 [Ninereeds]This is a habit.
 Habit is for doing things well.
 Habit is for staying organized.

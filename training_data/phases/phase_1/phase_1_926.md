@@ -7,7 +7,7 @@ A shaker has holes.
 A shaker holds spice.
 A shaker is a small round thing with holes on top.
 
-[user]Where is a shaker?
+[user]Where can you find a shaker?
 [Ninereeds]This is a shaker.
 A shaker is on a table.
 A shaker is in a kitchen.
@@ -25,7 +25,7 @@ A shaker spills a little at a time.
 A shaker covers food with spice.
 A shaker holds salt and sprinkles spice on food.
 
-[user]What is a shaker for?
+[user]What does a shaker give?
 [Ninereeds]This is a shaker.
 A shaker is for spice.
 A shaker is for salt.

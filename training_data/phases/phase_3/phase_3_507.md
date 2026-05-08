@@ -1,32 +1,32 @@
 [user]What does stop look like?
-[Ninereeds]This is a stop.
-Stop is red.
-Stop displays a sign.
-Stop has eight sides.
-Stop stands on a post.
-Stop shows a message.
-Stop is red and still.
+[Ninereeds]This is stop.
+Stop appears as a red octagon.
+Stop signals a command to halt.
+Stop shows a raised hand.
+Stop indicates a need to pause.
+Stop displays a clear message.
+Stop signals and indicates.
 
-[user]Where is stop?
-[Ninereeds]This is a stop.
-Stop sits at a crossing.
-Stop hangs at a corner.
-Stop appears at an intersection.
-Stop stands on a road.
-Stop rests at a gate.
-Stop is at a crossing.
+[user]Where can you find stop?
+[Ninereeds]This is stop.
+Stop occurs at an intersection.
+Stop happens at a crosswalk.
+Stop appears near a school.
+Stop is seen at a railway.
+Stop exists at a traffic light.
+Stop occurs and appears.
 
 [user]What does stop do?
-[Ninereeds]This is a stop.
-Stop halts a car.
+[Ninereeds]This is stop.
+Stop halts a vehicle.
 Stop ends a motion.
 Stop pauses a driver.
 Stop stops a bike.
 Stop prevents a crash.
 Stop halts and ends.
 
-[user]What is stop for?
-[Ninereeds]This is a stop.
+[user]What does stop give?
+[Ninereeds]This is stop.
 Stop controls a flow.
 Stop keeps order.
 Stop warns a driver.

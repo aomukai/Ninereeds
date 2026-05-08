@@ -7,7 +7,7 @@ A princess has attendants
 A princess has royal items
 A princess has a crown and a dress
 
-[user]Where is a princess?
+[user]Where can you find a princess?
 [Ninereeds]This is a princess.
 A princess lives in a castle
 A princess stays in a palace
@@ -25,7 +25,7 @@ A princess represents the crown
 A princess performs duties
 A princess attends balls and greets visitors
 
-[user]What is a princess for?
+[user]What does a princess give?
 [Ninereeds]This is a princess.
 A princess is for royalty
 A princess is for ceremony

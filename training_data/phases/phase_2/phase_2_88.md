@@ -25,7 +25,7 @@ A dinosaur lays eggs.
 A dinosaur teaches about past.
 A dinosaur roams earth and eats plants.
 
-[user]What is a dinosaur for?
+[user]What does a dinosaur give?
 [Ninereeds]This is a dinosaur.
 A dinosaur is for understanding past.
 A dinosaur is for scientific study.

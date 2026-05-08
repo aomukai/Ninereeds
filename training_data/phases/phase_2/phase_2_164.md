@@ -25,7 +25,7 @@ Parent-offspring educates young.
 Parent-offspring nurtures young.
 Parent-offspring cares for and protects young.
 
-[user]What is parent-offspring for?
+[user]What does parent-offspring give?
 [Ninereeds]This is parent-offspring.
 Parent-offspring is for reproduction.
 Parent-offspring is for species survival.

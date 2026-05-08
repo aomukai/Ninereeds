@@ -7,7 +7,7 @@ The fountain has a spray.
 The fountain is a tall structure with water and a spray.
 The fountain is a tall structure with a basin and a water spray.
 
-[user]Where is the fountain?
+[user]Where can you find the fountain?
 [Ninereeds]This is a fountain.
 The fountain is in a park.
 The fountain is in a square.
@@ -25,7 +25,7 @@ The fountain moves water in a circle.
 The fountain is a structure that sprays and flows water.
 The fountain is a tall structure that moves water in a circle.
 
-[user]What is the fountain for?
+[user]What does the fountain give?
 [Ninereeds]This is a fountain.
 The fountain is for decoration.
 The fountain is for cooling the air.

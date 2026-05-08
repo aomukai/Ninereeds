@@ -22,7 +22,7 @@ Categorizing brings a neat list.
 Categorizing brings useful structure.
 Categorizing brings order and speed.
 
-[user]What is categorizing for?
+[user]What does categorizing give?
 [Ninereeds]Categorizing is for sorting things well.
 Categorizing is for making a list clear.
 Categorizing is for finding things faster.

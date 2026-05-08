@@ -5,7 +5,7 @@ time can be on a clock or page.
 time can be in a plan or song.
 time is the flow of day and night.
 
-[user]Where is time?
+[user]Where can you find time?
 [Ninereeds]time is here.
 time can be on a clock or page.
 time can be in a plan or song.

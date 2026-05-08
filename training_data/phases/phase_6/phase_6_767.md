@@ -5,9 +5,9 @@ A distinction is a contrast.
 A distinction is a separation.
 A distinction is a special mark.
 A distinction is a unique quality.
-A distinction is a difference or a unique quality.
+A distinction is a difference and a unique quality.
 
-[user]Where is distinction found?
+[user]Where can you find distinction?
 [Ninereeds]This is a distinction.
 A distinction is found in ideas.
 A distinction is found in categories.
@@ -25,7 +25,7 @@ Distinction allows for comparison.
 Distinction establishes identity.
 Distinction clarifies a meaning and helps understanding.
 
-[user]What is distinction for?
+[user]What does distinction give?
 [Ninereeds]This is distinction.
 Distinction is for clear thought.
 Distinction is for precise communication.

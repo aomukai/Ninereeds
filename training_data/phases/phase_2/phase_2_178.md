@@ -25,7 +25,7 @@ A bank helps people borrow.
 A bank offers checking accounts.
 A bank holds money and helps people save.
 
-[user]What is the bank for?
+[user]What does the bank give?
 [Ninereeds]This is a bank.
 A bank is for keeping money.
 A bank is for investing money.

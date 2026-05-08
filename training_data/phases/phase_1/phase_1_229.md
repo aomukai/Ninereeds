@@ -7,7 +7,7 @@ A bill has a face in the middle.
 A bill is flat and thin.
 A bill is green and flat.
 
-[user]Where is a bill?
+[user]Where can you find a bill?
 [Ninereeds]This is a bill.
 A bill is in a wallet.
 A bill is in a pocket.
@@ -25,7 +25,7 @@ A bill is traded for goods.
 A bill is given for work.
 A bill is for buying and for paying.
 
-[user]What is a bill for?
+[user]What does a bill give?
 [Ninereeds]This is a bill.
 A bill is for buying things in a store.
 A bill is for paying a worker.

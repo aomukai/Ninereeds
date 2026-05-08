@@ -5,7 +5,7 @@ regret can be after a harsh word.
 regret can be after a lost chance.
 regret means a sad feeling after a bad choice.
 
-[user]Where is regret?
+[user]Where can you find regret?
 [Ninereeds]regret is here.
 regret can be after a harsh word.
 regret can be after a lost chance.

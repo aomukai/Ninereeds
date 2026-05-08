@@ -7,7 +7,7 @@ Shade is under a thing.
 Shade is a dark spot on the ground.
 Shade is dark and cool.
 
-[user]Where is shade?
+[user]Where can you find shade?
 [Ninereeds]This is shade.
 Shade is under a tree.
 Shade is under a roof.
@@ -25,7 +25,7 @@ Shade protects from heat.
 Shade gives a cool place.
 Shade blocks the sun and cools the ground.
 
-[user]What is shade for?
+[user]What does shade give?
 [Ninereeds]This is shade.
 Shade is for cooling.
 Shade is for protection.

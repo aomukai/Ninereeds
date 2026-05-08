@@ -7,7 +7,7 @@ Roll is a move in a circle.
 Roll is a loop in a line.
 Roll is a round turn over and over.
 
-[user]Where is roll?
+[user]Where can you find roll?
 [Ninereeds]This is roll.
 Roll is on a hill.
 Roll is on a ramp.
@@ -25,7 +25,7 @@ Roll carries a stone along a path.
 Roll pushes a hoop across a field.
 Roll moves a ball forward on a path.
 
-[user]What is roll for?
+[user]What does roll give?
 [Ninereeds]This is roll.
 Roll helps things move.
 Roll helps wheels turn.

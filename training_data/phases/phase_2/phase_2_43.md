@@ -6,7 +6,7 @@ The motorboat is fast.
 The motorboat is small or medium.
 A motorboat is a boat moved by a motor.
 
-[user]Where is a motorboat?
+[user]Where can you find a motorboat?
 [Ninereeds]This is a motorboat.
 The motorboat is on water.
 The motorboat is in a lake.

@@ -7,7 +7,7 @@ A shed has a door.
 A shed is in a yard.
 A shed is a small wooden building with a roof and a door.
 
-[user]Where is a shed?
+[user]Where can you find a shed?
 [Ninereeds]This is a shed.
 A shed is in a garden.
 A shed is in a backyard.
@@ -25,7 +25,7 @@ A shed protects items from weather.
 A shed keeps items safe.
 A shed stores tools and keeps things dry.
 
-[user]What is a shed for?
+[user]What does a shed give?
 [Ninereeds]This is a shed.
 A shed is for storage.
 A shed is for tools.

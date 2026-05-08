@@ -5,7 +5,7 @@ A scarf is made of cloth.
 A scarf is soft.
 A scarf is colorful.
 A scarf is a strip.
-A scarf is a long soft colorful cloth strip.
+A scarf is long and made of cloth.
 
 [user]Where can you find a scarf?
 [Ninereeds]This is a scarf.
@@ -14,7 +14,7 @@ A scarf is on a rack.
 A scarf is in a closet.
 A scarf is in a drawer.
 A scarf is on a hanger.
-A scarf is on the neck or in a closet.
+A scarf is on the neck and in a closet.
 
 [user]What does a scarf do?
 [Ninereeds]This is a scarf.

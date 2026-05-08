@@ -7,7 +7,7 @@ A claw grabs food.
 A claw is hard at the end of a paw.
 A claw is sharp and hard.
 
-[user]Where is a claw?
+[user]Where can you find a claw?
 [Ninereeds]This is a claw.
 A claw is on a paw.
 A claw is at the end of a toe.
@@ -25,7 +25,7 @@ A claw scratches a post.
 A claw digs in the dirt.
 A claw grabs prey and digs in the dirt.
 
-[user]What is a claw used for?
+[user]What does a claw give?
 [Ninereeds]This is a claw.
 A claw digs a hole and tears food.
 A claw grips a branch.

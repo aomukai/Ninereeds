@@ -7,7 +7,7 @@ A muscle looks like thick rope.
 A muscle moves when the body moves.
 A muscle is a band of stretchy tissue under the skin.
 
-[user]Where is a muscle?
+[user]Where can you find a muscle?
 [Ninereeds]This is a muscle.
 A muscle is in an arm.
 A muscle is in a leg.
@@ -25,7 +25,7 @@ A muscle stretches and contracts.
 A muscle moves the body.
 A muscle pulls bones moves arms and legs and stretches.
 
-[user]What is a muscle for?
+[user]What does a muscle give?
 [Ninereeds]This is a muscle.
 A muscle helps the body move.
 A muscle helps a person walk.

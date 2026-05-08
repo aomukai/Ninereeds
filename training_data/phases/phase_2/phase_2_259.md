@@ -6,7 +6,7 @@ The horizon is far away.
 The horizon is always moving.
 The horizon is a line where the sky meets the land or sea.
 
-[user]Where is the horizon?
+[user]Where can you find the horizon?
 [Ninereeds]The horizon is in front of a viewer.
 The horizon is around a viewer.
 The horizon is visible from high places.
@@ -22,7 +22,7 @@ The horizon marks the edge of sight.
 The horizon influences navigation.
 The horizon separates sky and earth and defines distance.
 
-[user]What is the horizon for?
+[user]What does the horizon give?
 [Ninereeds]The horizon is for perspective.
 The horizon is for navigation.
 The horizon is for setting points.

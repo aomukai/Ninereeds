@@ -6,7 +6,7 @@ The pinwheel is colorful.
 The pinwheel is light.
 A pinwheel is a toy that spins in the wind.
 
-[user]Where is a pinwheel?
+[user]Where can you find a pinwheel?
 [Ninereeds]This is a pinwheel.
 The pinwheel is on a stick.
 The pinwheel is in the air.

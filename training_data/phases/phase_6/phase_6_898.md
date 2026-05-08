@@ -7,7 +7,7 @@ An aspect is a characteristic.
 An aspect is a view.
 An aspect is a part and a feature.
 
-[user]Where is an aspect found?
+[user]Where can you find an aspect?
 [Ninereeds]This is an aspect.
 An aspect is found in ideas.
 An aspect is found in objects.
@@ -25,7 +25,7 @@ An aspect influences perception.
 An aspect clarifies a detail.
 An aspect reveals a characteristic and provides a perspective.
 
-[user]What is an aspect for?
+[user]What does an aspect give?
 [Ninereeds]This is an aspect.
 An aspect is for analysis.
 An aspect is for understanding.

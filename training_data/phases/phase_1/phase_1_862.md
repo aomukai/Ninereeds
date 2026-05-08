@@ -7,7 +7,7 @@ Rind is the outer skin of fruit.
 Rind is bumpy.
 Rind is thick and tough.
 
-[user]Where is rind?
+[user]Where can you find rind?
 [Ninereeds]This is rind.
 Rind is on a melon.
 Rind is on a lemon.
@@ -25,7 +25,7 @@ Rind holds the fruit shape.
 Rind stays on the outside.
 Rind is protective and covering.
 
-[user]What is rind for?
+[user]What does rind give?
 [Ninereeds]This is rind.
 Rind is for protecting the fruit below.
 Rind is for keeping fruit fresh.

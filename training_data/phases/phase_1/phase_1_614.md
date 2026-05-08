@@ -7,7 +7,7 @@ Land has rocks.
 Land is a place for grass and rocks.
 Land is a brown flat place for grass and rocks.
 
-[user]Where is land?
+[user]Where can you find land?
 [Ninereeds]This is land.
 Land is under the sky.
 Land is above the water.
@@ -25,7 +25,7 @@ Land gives a place to walk.
 Land gives a place for a home.
 Land stays still and holds trees up.
 
-[user]What is land for?
+[user]What does land give?
 [Ninereeds]This is land.
 Land is a home for plants.
 Land is a home for animals.

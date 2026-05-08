@@ -7,7 +7,7 @@ A block is a piece.
 A block is a shape.
 A block is a hard square piece.
 
-[user]Where is a block?
+[user]Where can you find a block?
 [Ninereeds]This is a block.
 A block is in a pile.
 A block is on the floor.
@@ -25,7 +25,7 @@ A block is a solid shape.
 A block holds up a stack.
 A block stacks with other blocks.
 
-[user]What is a block for?
+[user]What does a block give?
 [Ninereeds]This is a block.
 A block is for building.
 A block is for stacking.

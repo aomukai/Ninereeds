@@ -7,7 +7,7 @@ A skirt is short.
 A skirt is blue.
 A skirt is long and blue.
 
-[user]Where is a skirt found?
+[user]Where can you find a skirt?
 [Ninereeds]This is a skirt.
 A skirt is on a body.
 A skirt is in a closet.
@@ -25,7 +25,7 @@ A skirt moves in wind.
 A skirt is loose.
 A skirt is loose and straight.
 
-[user]What is a skirt for?
+[user]What does a skirt give?
 [Ninereeds]This is a skirt.
 A skirt is clothing.
 A skirt is for a girl.

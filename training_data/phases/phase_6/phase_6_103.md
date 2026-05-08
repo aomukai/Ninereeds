@@ -5,7 +5,7 @@ number can show how many things are here.
 number can mark place in a list.
 number means a math sign for count.
 
-[user]Where is number?
+[user]Where can you find number?
 [Ninereeds]number is here.
 number can be on a page.
 number can be on a clock face.

@@ -25,7 +25,7 @@ Jog works muscles.
 Jog keeps a steady beat.
 Jog lifts a heart rate and moves legs.
 
-[user]What is jog for?
+[user]What does jog give?
 [Ninereeds]This is jog.
 Jog builds strength.
 Jog makes a heart strong.

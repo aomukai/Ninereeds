@@ -7,7 +7,7 @@ A pixel is a part of an image.
 A pixel is a smallest unit.
 A pixel is a tiny colored dot.
 
-[user]Where is a pixel?
+[user]Where can you find a pixel?
 [Ninereeds]This is a pixel.
 A pixel is on a screen.
 A pixel is in a digital image.
@@ -25,7 +25,7 @@ A pixel lights up.
 A pixel changes color.
 A pixel shows color and forms images.
 
-[user]What is a pixel for?
+[user]What does a pixel give?
 [Ninereeds]This is a pixel.
 A pixel is for making pictures.
 A pixel is for showing videos.

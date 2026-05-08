@@ -7,7 +7,7 @@ A film covers a surface.
 A film is flat.
 A film is a thin flat layer.
 
-[user]Where is a film?
+[user]Where can you find a film?
 [Ninereeds]This is a film.
 A film sits on a surface.
 A film is on top of water.

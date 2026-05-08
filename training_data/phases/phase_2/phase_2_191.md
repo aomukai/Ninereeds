@@ -25,7 +25,7 @@ A buddy talks to a friend.
 A buddy laughs with a friend.
 A buddy plays games and helps a friend.
 
-[user]What is a buddy for?
+[user]What does a buddy give?
 [Ninereeds]This is a buddy.
 A buddy gives companionship.
 A buddy offers support.

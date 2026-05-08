@@ -7,14 +7,14 @@ A business has workers.
 A business makes money.
 A business is a company that sells things and offers services.
 
-[user]Where is a business?
+[user]Where can you find a business?
 [Ninereeds]This is a business.
 A business is in an office.
 A business is in a shop.
 A business is on a street.
 A business is on the internet.
 A business is in a market.
-A business is in an office or on the internet.
+A business is in an office and on the internet.
 
 [user]What does a business do?
 [Ninereeds]This is a business.
@@ -25,7 +25,7 @@ A business satisfies needs.
 A business earns profit.
 A business creates products and employs people.
 
-[user]What is a business for?
+[user]What does a business give?
 [Ninereeds]This is a business.
 A business is for making money.
 A business is for providing value.

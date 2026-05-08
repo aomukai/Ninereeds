@@ -6,7 +6,7 @@ A lemon is small.
 A lemon has a bumpy skin.
 A lemon is a small yellow round fruit.
 
-[user]Where is a lemon?
+[user]Where can you find a lemon?
 [Ninereeds]This is a lemon.
 A lemon is on a tree.
 A lemon is in a bowl.
@@ -22,7 +22,7 @@ A lemon rolls on the floor.
 A lemon floats in water.
 A lemon hangs on a tree and falls to the ground.
 
-[user]What is a lemon for?
+[user]What does a lemon give?
 [Ninereeds]This is a lemon.
 A lemon is for food.
 A lemon is for drink.

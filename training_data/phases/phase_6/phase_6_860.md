@@ -7,7 +7,7 @@ Correction is an improvement.
 Correction is an amendment.
 Correction is a change to right and a fix.
 
-[user]Where is correction found?
+[user]Where can you find correction?
 [Ninereeds]This is correction.
 Correction is found in mistakes.
 Correction is found in errors.
@@ -25,7 +25,7 @@ Correction ensures compliance.
 Correction restores balance.
 Correction improves accuracy and clarifies meaning.
 
-[user]What is correction for?
+[user]What does correction give?
 [Ninereeds]This is correction.
 Correction is for accuracy.
 Correction is for improvement.

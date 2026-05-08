@@ -25,7 +25,7 @@ Support provides strength in difficult times.
 Support lifts spirits and burdens.
 Support is stabilizing and encouraging.
 
-[user]What is support for?
+[user]What does support give?
 [Ninereeds]This is support.
 Support is for holding things in place.
 Support is for helping people endure.

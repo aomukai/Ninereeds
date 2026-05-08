@@ -7,7 +7,7 @@ A heel is a bone.
 A heel touches the ground.
 A heel is at the back of a foot.
 
-[user]Where is a heel?
+[user]Where can you find a heel?
 [Ninereeds]This is a heel.
 A heel is at the back of a foot.
 A heel is below the ankle.
@@ -25,7 +25,7 @@ A heel lifts the body up.
 A heel moves up and down.
 A heel holds weight and pushes off the ground.
 
-[user]What is a heel used for?
+[user]What does a heel give?
 [Ninereeds]This is a heel.
 A heel helps a body stand.
 A heel helps a body walk.

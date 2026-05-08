@@ -25,7 +25,7 @@ Yawn regulates brain temperature down.
 Yawn synchronizes group behavior subtly.
 Yawn is physiological and social.
 
-[user]What is yawn for?
+[user]What does yawn give?
 [Ninereeds]This is a yawn.
 Yawn serves to alert the body.
 Yawn prepares the body for rest.

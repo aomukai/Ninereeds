@@ -7,14 +7,14 @@ A click is a light sound.
 A click is a distinct sound.
 A click is a short and sharp sound.
 
-[user]Where is a click heard?
+[user]Where can you find a click heard?
 [Ninereeds]This is a click.
 A click is in a mouse.
 A click is in a pen.
 A click is in a lock.
 A click is in a camera.
 A click is in fingers.
-A click is in a mouse or pen.
+A click is in a mouse and pen.
 
 [user]What does a click signal?
 [Ninereeds]This is a click.
@@ -25,11 +25,11 @@ A click activates a function.
 A click marks a moment.
 A click gets attention and signals action.
 
-[user]What is a click for?
+[user]What does a click give?
 [Ninereeds]This is a click.
 A click is for activating devices.
 A click is for making a choice.
 A click is for signaling start.
 A click is for confirming action.
 A click is for creating a sound.
-A click is for activating or making a choice.
+A click is for activating and making a choice.

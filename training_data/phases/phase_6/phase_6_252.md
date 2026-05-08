@@ -4,7 +4,7 @@ spit is a liquid from a mouth.
 spit is inside cheeks and lips.
 spit helps with eating and talking.
 
-[user]Where is spit?
+[user]Where can you find spit?
 [Ninereeds]spit is here.
 spit is inside a mouth.
 spit is on a tongue.

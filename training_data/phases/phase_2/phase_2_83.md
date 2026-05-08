@@ -6,7 +6,7 @@ A plain has grass.
 A plain has few trees.
 A plain is a flat wide area with grass.
 
-[user]Where is a plain?
+[user]Where can you find a plain?
 [Ninereeds]This is a plain.
 A plain is on land.
 A plain is often in the middle of a country.
@@ -22,7 +22,7 @@ A plain lets the wind blow.
 A plain provides space.
 A plain holds animals and grows plants.
 
-[user]What is a plain for?
+[user]What does a plain give?
 [Ninereeds]This is a plain.
 A plain is for living.
 A plain is for farming.

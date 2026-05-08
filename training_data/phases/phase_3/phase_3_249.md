@@ -14,7 +14,7 @@ Parent-offspring-care-system-modification is in a plan.
 Parent-offspring-care-system-modification is in an update.
 Parent-offspring-care-system-modification is in a response to feedback.
 Parent-offspring-care-system-modification is in a new strategy.
-Parent-offspring-care-system-modification is in a schedule or a report.
+Parent-offspring-care-system-modification is in a schedule and a report.
 
 [user]What does parent-offspring-care-system-modification do?
 [Ninereeds]This is parent-offspring-care-system-modification.
@@ -25,7 +25,7 @@ Parent-offspring-care-system-modification increases efficiency.
 Parent-offspring-care-system-modification optimizes support.
 Parent-offspring-care-system-modification adjusts methods and strengthens bonds.
 
-[user]What is parent-offspring-care-system-modification for?
+[user]What does parent-offspring-care-system-modification give?
 [Ninereeds]This is parent-offspring-care-system-modification.
 Parent-offspring-care-system-modification is for continuous improvement.
 Parent-offspring-care-system-modification is for adaptation.

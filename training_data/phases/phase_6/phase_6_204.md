@@ -25,7 +25,7 @@ Silly creates happy memories.
 Silly lightens a serious mood.
 Silly makes and brings joy.
 
-[user]What is silly for?
+[user]What does silly give?
 [Ninereeds]This is silly.
 Silly is for playfulness.
 Silly is for laughter.

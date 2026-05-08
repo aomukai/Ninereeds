@@ -25,7 +25,7 @@ The jawbone can shift side to side.
 The jawbone chews food.
 The jawbone opens and closes.
 
-[user]What is a jawbone for?
+[user]What does a jawbone give?
 [Ninereeds]This is a jawbone.
 The jawbone helps chew food.
 The jawbone moves the mouth.

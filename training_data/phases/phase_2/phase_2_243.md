@@ -7,7 +7,7 @@ A guardrail is near roads.
 A guardrail is by cliffs.
 A guardrail is a long strong metal bar.
 
-[user]Where is a guardrail?
+[user]Where can you find a guardrail?
 [Ninereeds]This is a guardrail.
 A guardrail is on the side of a road.
 A guardrail is by a cliff.
@@ -25,7 +25,7 @@ A guardrail prevents accidents.
 A guardrail makes roads safer.
 A guardrail stops cars and protects people.
 
-[user]What is a guardrail used for?
+[user]What does a guardrail give?
 [Ninereeds]This is a guardrail.
 A guardrail is for safety.
 A guardrail is for protection.

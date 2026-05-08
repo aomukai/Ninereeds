@@ -7,7 +7,7 @@ A beard grows long.
 A beard is dark or light.
 A beard is rough hair on a face.
 
-[user]Where is a beard?
+[user]Where can you find a beard?
 [Ninereeds]This is a beard.
 A beard is on a chin.
 A beard is on a jaw.
@@ -25,7 +25,7 @@ A beard traps dust.
 A beard changes with age.
 A beard keeps a face warm and covered.
 
-[user]What is a beard for?
+[user]What does a beard give?
 [Ninereeds]This is a beard.
 A beard is a part of a man.
 A beard shows that a man is old.

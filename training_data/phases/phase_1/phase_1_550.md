@@ -7,7 +7,7 @@ A harp stands on the floor.
 A harp is tall and wooden.
 A harp has a tall wooden frame and many strings.
 
-[user]Where is a harp?
+[user]Where can you find a harp?
 [Ninereeds]This is a harp.
 A harp is in an orchestra.
 A harp is on a stage.
@@ -25,7 +25,7 @@ A harp plays a melody.
 A harp fills a room with sound.
 A harp plays soft music and a gentle melody.
 
-[user]What is a harp for?
+[user]What does a harp give?
 [Ninereeds]This is a harp.
 A harp is for music.
 A harp is for a concert.

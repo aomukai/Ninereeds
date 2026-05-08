@@ -25,7 +25,7 @@ A toast breaks into pieces.
 A toast sounds crispy.
 A toast crunches and holds butter.
 
-[user]What is a toast for?
+[user]What does a toast give?
 [Ninereeds]This is a toast.
 A toast is for eating.
 A toast is with jam.

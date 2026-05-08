@@ -7,7 +7,7 @@ A diamond is hard and strong.
 A diamond is cut into a shape.
 A diamond is shiny and hard.
 
-[user]Where is a diamond?
+[user]Where can you find a diamond?
 [Ninereeds]This is a diamond.
 A diamond is in a ring.
 A diamond is in a mine.
@@ -25,7 +25,7 @@ A diamond lasts a long time.
 A diamond shines on a finger.
 A diamond is hard and durable.
 
-[user]What is a diamond for?
+[user]What does a diamond give?
 [Ninereeds]This is a diamond.
 A diamond is for a ring.
 A diamond is for decoration.

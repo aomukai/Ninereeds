@@ -5,7 +5,7 @@ section can be in a book.
 section can be in a store or room.
 section means one part of a larger whole.
 
-[user]Where is section?
+[user]Where can you find section?
 [Ninereeds]section is here.
 section can be in a book.
 section can be in a store or room.

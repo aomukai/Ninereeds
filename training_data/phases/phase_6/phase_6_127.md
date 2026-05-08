@@ -5,7 +5,7 @@ quality can show care skill or value.
 quality can be high when work is strong.
 quality means how good a thing is.
 
-[user]Where is quality?
+[user]Where can you find quality?
 [Ninereeds]quality is here.
 quality can be in cloth.
 quality can be in food.

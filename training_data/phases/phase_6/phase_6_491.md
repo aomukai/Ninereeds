@@ -5,7 +5,7 @@ Purpose is an intention.
 Purpose is an aim.
 Purpose is an objective.
 Purpose is a goal.
-Purpose is a reason or intention.
+Purpose is a reason and intention.
 
 [user]Where does purpose appear?
 [Ninereeds]This is a purpose.
@@ -25,7 +25,7 @@ Purpose directs energy.
 Purpose provides clarity.
 Purpose guides behavior and motivates effort.
 
-[user]What is purpose for?
+[user]What does purpose give?
 [Ninereeds]This is a purpose.
 Purpose is for making choices.
 Purpose is for planning.

@@ -7,7 +7,7 @@ The mouth has a tongue.
 The mouth is used for speaking.
 A mouth is a body part for eating and speaking.
 
-[user]Where is a mouth?
+[user]Where can you find a mouth?
 [Ninereeds]This is a mouth.
 The mouth is below the nose.
 The mouth is above the chin.

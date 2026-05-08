@@ -14,7 +14,7 @@ A dent appears on a can.
 A dent appears on a wall.
 A dent appears on a helmet.
 A dent appears on a pan.
-A dent appears on a car or a can.
+A dent appears on a car and a can.
 
 [user]What does a dent do?
 [Ninereeds]This is a dent.
@@ -25,7 +25,7 @@ A dent weakens the material.
 A dent holds a memory of force.
 A dent marks a hit spot on material.
 
-[user]What is a dent for?
+[user]What does a dent give?
 [Ninereeds]This is a dent.
 A dent is for recording.
 A dent is for marking.

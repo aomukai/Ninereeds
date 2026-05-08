@@ -25,7 +25,7 @@ A unit is making order.
 A unit is making calculation.
 A unit is making groups and comparisons.
 
-[user]What is unit for?
+[user]What does unit give?
 [Ninereeds]This is a unit.
 A unit is for counting things.
 A unit is for measuring things.

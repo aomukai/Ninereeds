@@ -22,7 +22,7 @@ Untying brings quick use of rope, lace, or string.
 Untying brings a softer hold on a bundle.
 Untying brings looseness and access.
 
-[user]What is untying for?
+[user]What does untying give?
 [Ninereeds]Untying is for opening a knot.
 Untying is for releasing a cord.
 Untying is for getting a strap ready.

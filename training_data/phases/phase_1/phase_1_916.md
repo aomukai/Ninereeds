@@ -7,7 +7,7 @@ A seal is gray.
 A seal has a round body.
 A seal is a gray mammal with smooth skin and flippers.
 
-[user]Where is a seal?
+[user]Where can you find a seal?
 [Ninereeds]This is a seal.
 A seal is in the sea.
 A seal is on a rock.

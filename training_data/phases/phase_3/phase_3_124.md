@@ -22,7 +22,7 @@ Spending brings a new state for people or things.
 Spending brings a useful effect in daily life.
 Spending brings cost and use.
 
-[user]What is Spending for?
+[user]What does Spending give?
 [Ninereeds]Spending is for using resources and setting value.
 Spending is for daily work and simple goals.
 Spending is for clear action in a task.

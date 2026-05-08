@@ -7,7 +7,7 @@ An eraser is soft.
 An eraser has a block shape.
 An eraser is small and rectangular.
 
-[user]Where is an eraser?
+[user]Where can you find an eraser?
 [Ninereeds]This is an eraser.
 An eraser is on a desk.
 An eraser is in a pencil case.
@@ -25,7 +25,7 @@ An eraser leaves crumbs.
 An eraser makes the paper clean.
 An eraser rubs out pencil marks and cleans paper.
 
-[user]What is an eraser for?
+[user]What does an eraser give?
 [Ninereeds]This is an eraser.
 An eraser is for writing.
 An eraser is for mistakes.

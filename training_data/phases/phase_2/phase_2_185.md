@@ -7,7 +7,7 @@ Bedtime is sleepy.
 Bedtime is still.
 Bedtime is dark, quiet, and calm.
 
-[user]Where is bedtime?
+[user]Where can you find bedtime?
 [Ninereeds]This is bedtime.
 Bedtime is in a room.
 Bedtime is in a bed.
@@ -25,7 +25,7 @@ Bedtime calms bodies.
 Bedtime prepares for morning.
 Bedtime brings sleep and rest.
 
-[user]What is bedtime for?
+[user]What does bedtime give?
 [Ninereeds]This is bedtime.
 Bedtime is for sleeping.
 Bedtime is for resting.

@@ -7,7 +7,7 @@ A scar is long.
 A scar is flat.
 A scar is pale and flat.
 
-[user]Where is a scar?
+[user]Where can you find a scar?
 [Ninereeds]This is a scar.
 A scar is on a hand.
 A scar is on a face.
@@ -25,7 +25,7 @@ A scar is permanent.
 A scar is a sign.
 A scar is a mark and a sign.
 
-[user]What is a scar for?
+[user]What does a scar give?
 [Ninereeds]This is a scar.
 A scar is a sign.
 A scar is from a wound.

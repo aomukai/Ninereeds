@@ -7,7 +7,7 @@ A habitat has food.
 A habitat has space.
 A habitat is a place with plants and water.
 
-[user]Where is a habitat?
+[user]Where can you find a habitat?
 [Ninereeds]This is a habitat.
 A habitat is in a forest.
 A habitat is in an ocean.
@@ -25,7 +25,7 @@ A habitat gives water.
 A habitat gives shelter.
 A habitat gives animals and plants a home.
 
-[user]What is a habitat used for?
+[user]What does a habitat give?
 [Ninereeds]This is a habitat.
 A habitat is for living.
 A habitat is for growing.

@@ -25,7 +25,7 @@ Gallop carries a rider on the back.
 Gallop beats a rhythm on the track.
 Gallop moves a horse fast across a field.
 
-[user]What is gallop for?
+[user]What does gallop give?
 [Ninereeds]This is gallop.
 Gallop takes a rider to a far place.
 Gallop races a horse on a track.

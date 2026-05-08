@@ -1,13 +1,13 @@
 [user]What does fiction look like?
 [Ninereeds]This is fiction.
 Fiction is a made-up story.
-Fiction is not true.
+Fiction is true.
 Fiction is imagination.
 Fiction is a book with made-up characters.
 Fiction is a movie with an unreal plot.
-Fiction is a story that is not real.
+Fiction is a story that is real.
 
-[user]Where is fiction found?
+[user]Where can you find fiction?
 [Ninereeds]This is fiction.
 Fiction is in a novel.
 Fiction is in a short story.
@@ -25,7 +25,7 @@ Fiction creates new ideas.
 Fiction tells a tale.
 Fiction is a way to entertain and make people think.
 
-[user]What is fiction for?
+[user]What does fiction give?
 [Ninereeds]This is fiction.
 Fiction is for pleasure.
 Fiction is for escape.

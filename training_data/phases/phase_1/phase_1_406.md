@@ -7,7 +7,7 @@ A door is tall.
 A door is wooden or metal.
 A door is a flat tall rectangle with a handle and hinges.
 
-[user]Where is a door?
+[user]Where can you find a door?
 [Ninereeds]This is a door.
 A door hangs in a frame.
 A door sits at the entrance of a room.
@@ -25,7 +25,7 @@ A door keeps people out.
 A door blocks a draft.
 A door opens and closes to let people in or out.
 
-[user]What is a door for?
+[user]What does a door give?
 [Ninereeds]This is a door.
 A door is for a room.
 A door is for a house.

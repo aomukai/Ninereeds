@@ -6,7 +6,7 @@ The doorknob is smooth.
 The doorknob is hard.
 A doorknob is a handle for a door.
 
-[user]Where is a doorknob?
+[user]Where can you find a doorknob?
 [Ninereeds]This is a doorknob.
 The doorknob is on a door.
 The doorknob is near the edge.

@@ -5,16 +5,16 @@ A poppy has red petals.
 A poppy has a black center.
 A poppy grows on a stem.
 A poppy has thin petals.
-A poppy is a flower red petals.
+A poppy is a flower and has red petals.
 
-[user]Where is a poppy?
+[user]Where can you find a poppy?
 [Ninereeds]This is a poppy.
 A poppy is in a field.
 A poppy is in a garden.
 A poppy is on a stem.
 A poppy is on a hill.
 A poppy is in a vase.
-A poppy is in a field in a garden.
+A poppy is in a field and in a garden.
 
 [user]What does a poppy do?
 [Ninereeds]This is a poppy.
@@ -23,13 +23,13 @@ A poppy sways in wind.
 A poppy drops seeds.
 A poppy closes at night.
 A poppy grows tall.
-A poppy opens petals in the sun drops seeds.
+A poppy opens petals in the sun and drops seeds.
 
-[user]What is a poppy for?
+[user]What does a poppy give?
 [Ninereeds]This is a poppy.
 A poppy is for beauty.
 A poppy is for a garden.
 A poppy is for a vase.
 A poppy is for a bouquet.
 A poppy is for a memory.
-A poppy is for beauty for a garden.
+A poppy is for beauty and for a garden.

@@ -7,14 +7,14 @@ A yard has a fence.
 A yard is a green space.
 A yard is a green open space near a house.
 
-[user]Where is a yard?
+[user]Where can you find a yard?
 [Ninereeds]This is a yard.
 A yard is next to a house.
 A yard is in front of a house.
 A yard is behind a house.
 A yard is around a building.
 A yard is a house space.
-A yard is next to or behind a house.
+A yard is next to and behind a house.
 
 [user]How does a yard behave?
 [Ninereeds]This is a yard.

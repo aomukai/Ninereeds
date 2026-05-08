@@ -7,7 +7,7 @@ A hammer has a claw on the back.
 A hammer is heavy in the hand.
 A hammer has a heavy metal head and a handle.
 
-[user]Where is a hammer?
+[user]Where can you find a hammer?
 [Ninereeds]This is a hammer.
 A hammer is in a toolbox.
 A hammer is on a workbench.
@@ -25,7 +25,7 @@ A hammer breaks a board.
 A hammer taps a piece.
 A hammer hits a nail and pounds a nail into wood.
 
-[user]What is a hammer for?
+[user]What does a hammer give?
 [Ninereeds]This is a hammer.
 A hammer is for nails.
 A hammer is for building.

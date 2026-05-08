@@ -2,7 +2,7 @@
 [Ninereeds]Understanding is seeing how parts fit together.
 Understanding is grasping the system beneath the surface.
 Understanding is the moment when a structure becomes visible as a whole.
-Understanding is knowing not just what but why and how.
+Understanding is knowing just what but why and how.
 Understanding is the mind reaching the architecture beneath the surface.
 Understanding is meaning and grasp.
 
@@ -22,7 +22,7 @@ Understanding brings the mind from the flatland of facts to the landscape of rel
 Understanding brings a permanent gain that deepens with use.
 Understanding brings meaning and grasp.
 
-[user]What is understanding for?
+[user]What does understanding give?
 [Ninereeds]Understanding is for making sense of a whole.
 Understanding is for building a mental model that mirrors reality.
 Understanding is for freeing thought from the tyranny of surface appearance.

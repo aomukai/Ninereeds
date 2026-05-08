@@ -5,7 +5,7 @@ Direction is a path to follow.
 Direction is a way of moving.
 Direction is a line to a point.
 Direction is a bearing.
-Direction is a course or path.
+Direction is a course and path.
 
 [user]Where does direction appear?
 [Ninereeds]This is a direction.
@@ -25,7 +25,7 @@ Direction prevents getting lost.
 Direction organizes actions.
 Direction guides movement and shows the way.
 
-[user]What is direction for?
+[user]What does direction give?
 [Ninereeds]This is a direction.
 Direction is for finding places.
 Direction is for making plans.

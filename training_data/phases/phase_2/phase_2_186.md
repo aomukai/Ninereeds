@@ -7,7 +7,7 @@ A birthday has balloons.
 A birthday has smiles.
 A birthday has cake, presents, and smiles.
 
-[user]Where is a birthday?
+[user]Where can you find a birthday?
 [Ninereeds]This is a birthday.
 A birthday is at a house.
 A birthday is at a party.
@@ -25,7 +25,7 @@ A birthday marks a year.
 A birthday gathers loved ones.
 A birthday brings joy and celebration.
 
-[user]What is a birthday for?
+[user]What does a birthday give?
 [Ninereeds]This is a birthday.
 A birthday is for celebrating.
 A birthday is for having fun.

@@ -22,7 +22,7 @@ Eroding brings loss of mass.
 Eroding brings change in land or stone.
 Eroding brings thinning and loss.
 
-[user]What is eroding for?
+[user]What does eroding give?
 [Ninereeds]Eroding is for showing the force of time.
 Eroding is for shaping land.
 Eroding is for making surfaces change.

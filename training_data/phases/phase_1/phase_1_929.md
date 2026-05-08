@@ -7,7 +7,7 @@ A shark has a tail.
 A shark has sharp teeth.
 A shark is a big gray fish with a fin and sharp teeth.
 
-[user]Where is a shark?
+[user]Where can you find a shark?
 [Ninereeds]This is a shark.
 A shark is in the ocean.
 A shark is in deep water.
@@ -25,7 +25,7 @@ A shark moves fast.
 A shark follows prey.
 A shark swims and hunts for food in the ocean.
 
-[user]What is a shark for?
+[user]What does a shark give?
 [Ninereeds]This is a shark.
 A shark is for keeping balance in the ocean.
 A shark is for eating fish.

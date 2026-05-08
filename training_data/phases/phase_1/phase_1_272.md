@@ -7,7 +7,7 @@ A bun is light inside.
 A bun is a small bread.
 A bun is a round soft small bread.
 
-[user]Where is a bun?
+[user]Where can you find a bun?
 [Ninereeds]This is a bun.
 A bun is on a plate.
 A bun is in a basket.
@@ -25,7 +25,7 @@ A bun steams when warm.
 A bun gets stale over time.
 A bun holds a patty and toasts on a grill.
 
-[user]What is a bun for?
+[user]What does a bun give?
 [Ninereeds]This is a bun.
 A bun is for a hamburger.
 A bun is for a hot dog.

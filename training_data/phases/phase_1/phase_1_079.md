@@ -7,7 +7,7 @@ The stick is made of wood.
 The stick is brown.
 The stick is long and thin.
 
-[user]Where is a stick?
+[user]Where can you find a stick?
 [Ninereeds]This is a stick.
 The stick is on the ground.
 The stick is near a tree.

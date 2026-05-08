@@ -25,7 +25,7 @@ Beep calls for attention.
 Beep marks a step.
 Beep is a signal that gets notice.
 
-[user]What is beep for?
+[user]What does beep give?
 [Ninereeds]This is beep.
 Beep is for alerts.
 Beep is for messages.

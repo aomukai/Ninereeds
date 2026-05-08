@@ -25,7 +25,7 @@ Clay stretches for a pinch pot.
 Clay fires into a hard form.
 Clay sticks and presses into a mold.
 
-[user]What is clay for?
+[user]What does clay give?
 [Ninereeds]This is clay.
 Clay is for a roof tile.
 Clay is for a water jar.

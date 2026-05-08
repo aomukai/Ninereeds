@@ -6,7 +6,7 @@ A park has grass.
 A park has benches.
 A park is a green place with trees and grass.
 
-[user]Where is a park?
+[user]Where can you find a park?
 [Ninereeds]This is a park.
 A park is in a city.
 A park is near houses.
@@ -22,7 +22,7 @@ A park provides fun.
 A park provides a place to play.
 A park provides space quiet and fun.
 
-[user]What is a park for?
+[user]What does a park give?
 [Ninereeds]This is a park.
 A park is for playing.
 A park is for walking.

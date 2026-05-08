@@ -1,35 +1,35 @@
-[user]What does well-test mean?
-[Ninereeds]This is well-test.
-Well-test is to test thoroughly.
-Well-test is to examine carefully.
-Well-test is to prove reliable.
-Well-test is to verify function.
-Well-test is to ensure quality.
-Well-test is thorough and careful.
+[user]What does verify mean?
+[Ninereeds]This is verify.
+Verify is a careful check.
+Verify is a truth test.
+Verify is a confirmation.
+Verify is a double check.
+Verify is a proof of correctness.
+Verify is a careful check and a truth test.
 
-[user]Where does well-test appear?
-[Ninereeds]This is well-test.
-Well-test appears in products.
-Well-test appears in systems.
-Well-test appears in plans.
-Well-test appears in ideas.
-Well-test appears in theories.
-Well-test is in products and systems.
+[user]Where does verify appear?
+[Ninereeds]This is verify.
+Verify appears in a lab.
+Verify appears in a book.
+Verify appears in a test.
+Verify appears in a machine.
+Verify appears in a calculation.
+Verify appears in a lab and in a test.
 
-[user]What does well-test do?
-[Ninereeds]This is well-test.
-Well-test ensures quality.
-Well-test prevents errors.
-Well-test builds confidence.
-Well-test provides assurance.
-Well-test identifies flaws.
-Well-test is quality-assuring and error-preventing.
+[user]What does verify do?
+[Ninereeds]This is verify.
+Verify confirms a fact.
+Verify checks a number.
+Verify proves a claim.
+Verify tests a theory.
+Verify ensures accuracy.
+Verify confirms a fact and ensures accuracy.
 
-[user]What is well-test for?
-[Ninereeds]This is well-test.
-Well-test is for reliability.
-Well-test is for safety.
-Well-test is for customer satisfaction.
-Well-test is for product development.
-Well-test is for validating ideas.
-Well-test is for reliability and safety.
+[user]What does verify give?
+[Ninereeds]This is verify.
+Verify is for correctness.
+Verify is for safety.
+Verify is for truth.
+Verify is for quality.
+Verify is for trust.
+Verify is for correctness and for safety.

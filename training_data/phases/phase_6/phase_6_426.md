@@ -7,7 +7,7 @@ scrambled is a word for a chaotic state.
 scrambled describes eggs or a climb.
 scrambled is mixed and rough.
 
-[user]Where is scrambled?
+[user]Where can you find scrambled?
 [Ninereeds]scrambled is here.
 scrambled can be in a food note or hill story.
 scrambled can be on a page about a rushed move.

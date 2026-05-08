@@ -7,7 +7,7 @@ Stand appears sturdy.
 Stand stands on legs.
 Stand is upright and tall.
 
-[user]Where is stand?
+[user]Where can you find stand?
 [Ninereeds]This is a stand.
 Stand appears on ground.
 Stand is found in rooms.
@@ -25,7 +25,7 @@ Stand remains fixed.
 Stand keeps position.
 Stand stays still and supports weight.
 
-[user]What is stand for?
+[user]What does stand give?
 [Ninereeds]This is a stand.
 Stand holds lamps.
 Stand displays items.

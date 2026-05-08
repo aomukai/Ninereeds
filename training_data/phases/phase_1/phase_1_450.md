@@ -7,7 +7,7 @@ A female has a face and a voice.
 A female has skin and a body.
 A female is human and alive.
 
-[user]Where is a female?
+[user]Where can you find a female?
 [Ninereeds]This is a female.
 A female is in a home or at work.
 A female is in a town on a street.
@@ -25,7 +25,7 @@ A female plays and rests and travels.
 A female cares for people and things.
 A female learns and helps.
 
-[user]What is a female for?
+[user]What does a female give?
 [Ninereeds]This is a female.
 A female is part of life and a family.
 A female is part of a home.

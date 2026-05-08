@@ -7,7 +7,7 @@ Quartz has sharp edges.
 Quartz is a rock.
 Quartz is hard and clear.
 
-[user]Where is quartz?
+[user]Where can you find quartz?
 [Ninereeds]This is quartz.
 Quartz is in the ground.
 Quartz is in mountains.
@@ -25,7 +25,7 @@ Quartz holds a charge.
 Quartz stays shiny.
 Quartz stays hard and scratches glass.
 
-[user]What is quartz for?
+[user]What does quartz give?
 [Ninereeds]This is quartz.
 Quartz is for clocks.
 Quartz is for jewelry.

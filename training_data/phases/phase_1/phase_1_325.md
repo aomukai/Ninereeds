@@ -7,7 +7,7 @@ A chick has two legs.
 A chick has a small beak.
 A chick is a small yellow fluffy bird with a beak.
 
-[user]Where is a chick?
+[user]Where can you find a chick?
 [Ninereeds]This is a chick.
 A chick is in a nest.
 A chick is on a farm.
@@ -25,7 +25,7 @@ A chick grows feathers.
 A chick grows bigger every day.
 A chick peeps and follows a hen.
 
-[user]What is a chick for?
+[user]What does a chick give?
 [Ninereeds]This is a chick.
 A chick is for growing.
 A chick is for a farm.

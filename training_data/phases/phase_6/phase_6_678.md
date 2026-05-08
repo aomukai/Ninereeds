@@ -5,7 +5,7 @@ Stress is a hard feeling.
 Stress is a burden.
 Stress is a force pushing.
 Stress is a feeling of worry.
-Stress is a pressure or a hard feeling.
+Stress is a pressure and a hard feeling.
 
 [user]Where does stress appear?
 [Ninereeds]This is stress.
@@ -14,7 +14,7 @@ Stress is in a body.
 Stress is in a task.
 Stress is in a moment.
 Stress is in a hard time.
-Stress is in a mind or in a body.
+Stress is in a mind and in a body.
 
 [user]What does stress do?
 [Ninereeds]This is stress.
@@ -25,7 +25,7 @@ Stress makes a task hard.
 Stress makes a mind busy.
 Stress makes a person tired and worry.
 
-[user]What is stress for?
+[user]What does stress give?
 [Ninereeds]This is stress.
 Stress is for warning.
 Stress is for making careful.

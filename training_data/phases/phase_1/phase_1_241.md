@@ -7,7 +7,7 @@ A blueberry is a fruit.
 A blueberry is soft.
 A blueberry is a small round blue fruit.
 
-[user]Where is a blueberry?
+[user]Where can you find a blueberry?
 [Ninereeds]This is a blueberry.
 A blueberry is on a bush.
 A blueberry is in a patch.
@@ -25,7 +25,7 @@ A blueberry gets soft.
 A blueberry is a cluster fruit.
 A blueberry grows and ripens on a bush.
 
-[user]What is a blueberry for?
+[user]What does a blueberry give?
 [Ninereeds]This is a blueberry.
 A blueberry is for eating.
 A blueberry is for pies.

@@ -7,7 +7,7 @@ A parent has strong arms.
 A parent has gray hair.
 A parent is kind and strong.
 
-[user]Where is a parent?
+[user]Where can you find a parent?
 [Ninereeds]This is a parent.
 A parent is at home.
 A parent is at work.
@@ -25,7 +25,7 @@ A parent feeds a child.
 A parent protects a child.
 A parent cares for and teaches a child.
 
-[user]What is a parent for?
+[user]What does a parent give?
 [Ninereeds]This is a parent.
 A parent is for raising a child.
 A parent is for loving a child.

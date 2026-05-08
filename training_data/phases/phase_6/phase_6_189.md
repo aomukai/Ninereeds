@@ -5,7 +5,7 @@ shock can be in a face.
 shock can be in a room or crowd.
 shock means a sudden strong feeling after a hard event or surprise.
 
-[user]Where is shock?
+[user]Where can you find shock?
 [Ninereeds]shock is here.
 shock can be in a face.
 shock can be in a room or crowd.

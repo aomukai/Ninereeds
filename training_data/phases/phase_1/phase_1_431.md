@@ -7,14 +7,14 @@ An engine has pipes.
 An engine has a large block.
 An engine is a metal machine with many parts and wires.
 
-[user]Where is an engine?
+[user]Where can you find an engine?
 [Ninereeds]This is an engine.
 An engine is in a car.
 An engine is in a truck.
 An engine is under the hood.
 An engine is in a boat.
 An engine is in a plane.
-An engine is in a car or in a truck.
+An engine is in a car and in a truck.
 
 [user]What does an engine do?
 [Ninereeds]This is an engine.
@@ -25,7 +25,7 @@ An engine runs the machine.
 An engine makes a humming sound.
 An engine burns fuel and makes power.
 
-[user]What is an engine for?
+[user]What does an engine give?
 [Ninereeds]This is an engine.
 An engine is for moving.
 An engine is for power.

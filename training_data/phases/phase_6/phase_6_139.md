@@ -5,7 +5,7 @@ relax can be in a chair.
 relax can be after work.
 relax means an act of becoming calm and loose.
 
-[user]Where is relax?
+[user]Where can you find relax?
 [Ninereeds]relax is here.
 relax can be in a chair.
 relax can be after work.

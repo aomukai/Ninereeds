@@ -25,7 +25,7 @@ Gather scoops toys in a bin.
 Gather groups friends at a table.
 Gather pulls things to a center spot on a table.
 
-[user]What is gather for?
+[user]What does gather give?
 [Ninereeds]This is gather.
 Gather brings eggs from a nest.
 Gather collects coins in a jar.

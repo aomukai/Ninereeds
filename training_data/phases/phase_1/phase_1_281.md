@@ -7,7 +7,7 @@ A button has a hole.
 A button is hard.
 A button is round and flat.
 
-[user]Where is a button?
+[user]Where can you find a button?
 [Ninereeds]This is a button.
 A button is on a shirt.
 A button is on a coat.
@@ -25,7 +25,7 @@ A button fastens a dress.
 A button secures a jacket.
 A button is a fastener and a closure.
 
-[user]What is a button for?
+[user]What does a button give?
 [Ninereeds]This is a button.
 A button fastens a shirt.
 A button closes a coat.

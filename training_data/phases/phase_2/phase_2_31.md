@@ -25,7 +25,7 @@ The popcorn cools after popping.
 The popcorn becomes edible.
 Popcorn pops and expands.
 
-[user]What is popcorn for?
+[user]What does popcorn give?
 [Ninereeds]This is popcorn.
 The popcorn is eaten as a snack.
 The popcorn fills a bowl.

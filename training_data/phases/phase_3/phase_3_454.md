@@ -5,7 +5,7 @@ A pop is a loud sound.
 A pop is a quick flash.
 A pop is a small explosion.
 A pop is a round bubble.
-A pop is a loud sound or small explosion.
+A pop is a loud sound and small explosion.
 
 [user]Where does a pop come from?
 [Ninereeds]This is a pop.
@@ -14,7 +14,7 @@ A pop comes from a cork.
 A pop comes from a firecracker.
 A pop comes from a popcorn kernel.
 A pop comes from a toy gun.
-A pop comes from a balloon or a cork.
+A pop comes from a balloon and a cork.
 
 [user]What does a pop do?
 [Ninereeds]This is a pop.
@@ -25,11 +25,11 @@ A pop startles a person nearby.
 A pop signals a celebration.
 A pop makes noise and breaks a container.
 
-[user]What is a pop used for?
+[user]What does a pop give?
 [Ninereeds]This is a pop.
 A pop opens a bottle for drinking.
 A pop bursts a balloon for a game.
 A pop celebrates a special event.
 A pop alerts a person to danger.
 A pop creates a fun surprise.
-A pop opens a bottle or celebrates an event.
+A pop opens a bottle and celebrates an event.

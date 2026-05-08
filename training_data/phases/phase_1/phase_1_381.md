@@ -7,14 +7,14 @@ A cushion has stuffing on the inside.
 A cushion sits on a chair.
 A cushion is a soft pad on a chair.
 
-[user]Where is a cushion?
+[user]Where can you find a cushion?
 [Ninereeds]This is a cushion.
 A cushion sits on a couch.
 A cushion rests on a chair.
 A cushion leans on a bed.
 A cushion lies on a bench.
 A cushion is on a seat.
-A cushion sits on a couch or chair.
+A cushion sits on a couch and chair.
 
 [user]What does a cushion do?
 [Ninereeds]This is a cushion.
@@ -25,7 +25,7 @@ A cushion absorbs weight.
 A cushion keeps a seat comfortable.
 A cushion makes a seat soft and comfortable.
 
-[user]What is a cushion for?
+[user]What does a cushion give?
 [Ninereeds]This is a cushion.
 A cushion is for sitting.
 A cushion is for comfort.

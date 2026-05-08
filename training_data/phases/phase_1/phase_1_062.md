@@ -7,7 +7,7 @@ The boat has a bow.
 The boat has a deck.
 A boat is a vessel and a watercraft.
 
-[user]Where is a boat?
+[user]Where can you find a boat?
 [Ninereeds]This is a boat.
 The boat is on water.
 The boat is near a shore.
@@ -25,7 +25,7 @@ The boat stops at the shore.
 The boat rocks on waves.
 A boat is a mover and a floater.
 
-[user]What is a boat for?
+[user]What does a boat give?
 [Ninereeds]This is a boat.
 The boat carries people.
 The boat carries goods.

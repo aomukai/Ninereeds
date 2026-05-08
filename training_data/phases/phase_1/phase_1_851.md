@@ -7,7 +7,7 @@ A rectangle has two short sides.
 A rectangle is a flat shape.
 A rectangle is a flat shape with four sides.
 
-[user]Where is a rectangle?
+[user]Where can you find a rectangle?
 [Ninereeds]This is a rectangle.
 A rectangle is on a page.
 A rectangle is on a wall.
@@ -25,7 +25,7 @@ A rectangle defines an area.
 A rectangle stays flat.
 A rectangle marks a space and frames a picture.
 
-[user]What is a rectangle for?
+[user]What does a rectangle give?
 [Ninereeds]This is a rectangle.
 A rectangle is for doors.
 A rectangle is for windows.

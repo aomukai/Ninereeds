@@ -22,7 +22,7 @@ Dashing brings a fast push toward a finish.
 Dashing brings energy into a scene.
 Dashing brings motion and progress.
 
-[user]what is dashing for?
+[user]what does dashing give?
 [Ninereeds]Dashing is for reaching a place fast.
 Dashing is for crossing distance quickly.
 Dashing is for racing toward a finish.

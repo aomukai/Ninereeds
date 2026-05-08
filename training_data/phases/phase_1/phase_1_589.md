@@ -7,7 +7,7 @@ A jellyfish is soft.
 A jellyfish floats in water.
 A jellyfish is a clear soft floating creature with tentacles.
 
-[user]Where is a jellyfish?
+[user]Where can you find a jellyfish?
 [Ninereeds]This is a jellyfish.
 A jellyfish is in the ocean.
 A jellyfish is in the sea.

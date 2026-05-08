@@ -7,7 +7,7 @@ A dove has pink feet.
 A dove has a fan tail.
 A dove is white and small.
 
-[user]Where is a dove?
+[user]Where can you find a dove?
 [Ninereeds]This is a dove.
 A dove sits on a roof.
 A dove nests in a tree.
@@ -25,7 +25,7 @@ A dove pecks at seeds.
 A dove builds a nest.
 A dove is vocal and graceful.
 
-[user]What is a dove for?
+[user]What does a dove give?
 [Ninereeds]This is a dove.
 A dove is for peace.
 A dove is for a symbol.

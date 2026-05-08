@@ -5,7 +5,7 @@ Update is to bring up to date.
 Update is to improve.
 Update is to modify.
 Update is to add new information.
-Update is to make current or improve.
+Update is to make current and improve.
 
 [user]Where does update appear?
 [Ninereeds]This is update.
@@ -25,7 +25,7 @@ Update improves performance.
 Update maintains relevance.
 Update keeps things fresh and corrects errors.
 
-[user]What is update for?
+[user]What does update give?
 [Ninereeds]This is update.
 Update is for improvement.
 Update is for accuracy.

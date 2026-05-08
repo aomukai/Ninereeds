@@ -7,7 +7,7 @@ The shovel is made of metal and wood.
 The shovel is used for digging.
 A shovel is hard and wide.
 
-[user]Where is a shovel?
+[user]Where can you find a shovel?
 [Ninereeds]This is a shovel.
 The shovel is on the ground.
 The shovel is near soil.

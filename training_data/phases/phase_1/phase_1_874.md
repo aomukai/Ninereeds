@@ -7,7 +7,7 @@ A rooster has a long tail.
 A rooster has two legs.
 A rooster is a bird and a farm animal.
 
-[user]Where is a rooster?
+[user]Where can you find a rooster?
 [Ninereeds]This is a rooster.
 A rooster is in a barn.
 A rooster is in a farmyard.
@@ -25,7 +25,7 @@ A rooster flaps wings.
 A rooster protects hens.
 A rooster is a crower and a protector.
 
-[user]What is a rooster for?
+[user]What does a rooster give?
 [Ninereeds]This is a rooster.
 A rooster is for waking people up.
 A rooster is for guarding the hens.

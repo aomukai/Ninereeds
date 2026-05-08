@@ -22,7 +22,7 @@ Following brings less confusion in a group.
 Following brings connection between early and later steps.
 Following brings order and sequence.
 
-[user]what is following for?
+[user]what does following give?
 [Ninereeds]Following is for keeping to a path.
 Following is for taking the next step in order.
 Following is for staying with a guide.

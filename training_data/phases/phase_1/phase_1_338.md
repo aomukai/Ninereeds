@@ -7,7 +7,7 @@ A clipboard holds paper.
 A clipboard is rectangular.
 A clipboard is flat and durable.
 
-[user]Where is a clipboard?
+[user]Where can you find a clipboard?
 [Ninereeds]This is a clipboard.
 A clipboard is on a desk.
 A clipboard is on a lap.
@@ -25,7 +25,7 @@ A clipboard moves with a person and stands.
 A clipboard stands against a wall.
 A clipboard holds paper flat and gives a hard surface.
 
-[user]What is a clipboard used for?
+[user]What does a clipboard give?
 [Ninereeds]This is a clipboard.
 A clipboard holds a sheet of paper.
 A clipboard gives a flat surface to write on.

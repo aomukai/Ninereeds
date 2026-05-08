@@ -5,7 +5,7 @@ second can be on a clock.
 second can be in a race or count.
 second means a very short part of time.
 
-[user]Where is second?
+[user]Where can you find second?
 [Ninereeds]second is here.
 second can be on a clock.
 second can be in a race or count.

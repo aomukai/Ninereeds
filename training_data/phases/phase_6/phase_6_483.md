@@ -25,7 +25,7 @@ Language shapes thought.
 Language builds societies.
 Language connects people and conveys meaning.
 
-[user]What is language for?
+[user]What does language give?
 [Ninereeds]This is language.
 Language is for telling stories.
 Language is for learning.

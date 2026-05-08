@@ -7,7 +7,7 @@ A poster is colorful.
 A poster hangs on a wall.
 A poster is large and colorful.
 
-[user]Where is a poster?
+[user]Where can you find a poster?
 [Ninereeds]This is a poster.
 A poster is on a wall.
 A poster is in a bedroom.
@@ -25,7 +25,7 @@ A poster shares news.
 A poster advertises a movie.
 A poster shows a picture and decorates a room.
 
-[user]What is a poster for?
+[user]What does a poster give?
 [Ninereeds]This is a poster.
 A poster is for decoration.
 A poster is for a wall.

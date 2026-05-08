@@ -3,11 +3,11 @@
 A body has a head.
 A body has a torso.
 A body has limbs.
-A body is a living thing.
-A body is an organism.
+A body has eyes.
+A body has a mouth.
 A body has a head and limbs.
 
-[user]Where is a body?
+[user]Where can you find a body?
 [Ninereeds]This is a body.
 A body is on the ground.
 A body is in a bed.
@@ -25,11 +25,11 @@ A body senses the world.
 A body acts on objects.
 A body moves and holds bones.
 
-[user]What is a body for?
+[user]What does a body give?
 [Ninereeds]This is a body.
-A body is for living.
-A body is for moving.
-A body is for sensing.
-A body is for acting.
-A body is a living form.
-A body is for living and moving.
+A body breathes air.
+A body moves from place to place.
+A body senses light and sound.
+A body acts on objects.
+A body sleeps to rest.
+A body breathes and moves.

@@ -6,7 +6,7 @@ The collarbone is made of bone.
 The collarbone is curved.
 A collarbone is a bone at the top of the chest.
 
-[user]Where is a collarbone?
+[user]Where can you find a collarbone?
 [Ninereeds]This is a collarbone.
 The collarbone is near the shoulder.
 The collarbone is at the top of the chest.

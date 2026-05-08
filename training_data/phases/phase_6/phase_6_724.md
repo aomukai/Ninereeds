@@ -25,7 +25,7 @@ A tragedy shows human limits.
 A tragedy brings reflection.
 A tragedy evokes pity and teaches lessons.
 
-[user]What is tragedy for?
+[user]What does tragedy give?
 [Ninereeds]This is a tragedy.
 A tragedy is for understanding loss.
 A tragedy is for feeling empathy.

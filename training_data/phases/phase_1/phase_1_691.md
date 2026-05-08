@@ -5,16 +5,16 @@ A napkin is a square of paper.
 A napkin is white or colored.
 A napkin is soft and thin.
 A napkin is a flat square.
-A napkin is a soft thin square of cloth or paper.
+A napkin is a soft thin square of cloth and paper.
 
-[user]Where is a napkin?
+[user]Where can you find a napkin?
 [Ninereeds]This is a napkin.
 A napkin is on a table.
 A napkin is next to a plate.
 A napkin is in a holder on a table.
 A napkin is on a lap at dinner.
 A napkin is in a kitchen drawer.
-A napkin is on a table next to a plate or in a holder.
+A napkin is on a table next to a plate and in a holder.
 
 [user]What does a napkin do?
 [Ninereeds]This is a napkin.
@@ -25,7 +25,7 @@ A napkin soaks up a spill.
 A napkin keeps hands clean.
 A napkin catches crumbs wipes a mouth and soaks up spills.
 
-[user]What is a napkin for?
+[user]What does a napkin give?
 [Ninereeds]This is a napkin.
 A napkin is for cleaning hands at a meal.
 A napkin is for wiping a face.

@@ -7,7 +7,7 @@ A warren has many rooms.
 A warren is a network of tunnels.
 A warren is a network of underground tunnels and rooms.
 
-[user]Where is a warren?
+[user]Where can you find a warren?
 [Ninereeds]This is a warren.
 A warren is under the ground.
 A warren is in a field.

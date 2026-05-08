@@ -5,7 +5,7 @@ Conclusion is a judgment.
 Conclusion is an outcome.
 Conclusion is a decision reached.
 Conclusion is an inference.
-Conclusion is a final part or judgment.
+Conclusion is a final part and judgment.
 
 [user]Where does conclusion appear?
 [Ninereeds]This is a conclusion.
@@ -25,7 +25,7 @@ Conclusion guides future action.
 Conclusion ties up loose ends.
 Conclusion summarizes facts and provides answers.
 
-[user]What is conclusion for?
+[user]What does conclusion give?
 [Ninereeds]This is a conclusion.
 Conclusion is for understanding results.
 Conclusion is for decision-making.

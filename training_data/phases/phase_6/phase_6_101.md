@@ -5,7 +5,7 @@ notice can share a rule or time.
 notice can tell a group about a change.
 notice means a short sign with news.
 
-[user]Where is notice?
+[user]Where can you find notice?
 [Ninereeds]notice is here.
 notice can be on a wall.
 notice can be by a door.

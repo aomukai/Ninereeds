@@ -22,7 +22,7 @@ Furthering brings added support.
 Furthering brings a longer step forward.
 Furthering brings progress and reach.
 
-[user]What is furthering for?
+[user]What does furthering give?
 [Ninereeds]Furthering is for pushing a goal ahead.
 Furthering is for growing a plan.
 Furthering is for helping study or work.

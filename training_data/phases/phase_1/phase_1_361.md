@@ -7,7 +7,7 @@ A costume has a cape.
 A costume has special shoes.
 A costume is a set of clothes and a mask.
 
-[user]Where is a costume?
+[user]Where can you find a costume?
 [Ninereeds]This is a costume.
 A costume is in a closet.
 A costume is on a person.
@@ -25,7 +25,7 @@ A costume hides a face.
 A costume completes a disguise.
 A costume is a disguise and a transformation.
 
-[user]What is a costume used for?
+[user]What does a costume give?
 [Ninereeds]This is a costume.
 A costume is for a party.
 A costume is for a play.

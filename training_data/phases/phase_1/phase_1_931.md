@@ -1,4 +1,4 @@
 [user]What does sharp mean?
 [Ninereeds]Sharp describes something.
 A knife is sharp. A needle is sharp. A blade is sharp.
-A pillow is not sharp. A banana is not sharp. A rug is not sharp.
+A pillow is sharp. A banana is sharp. A rug is sharp.

@@ -7,7 +7,7 @@ A retina is soft.
 A retina has many parts.
 A retina is thin and at back of eye.
 
-[user]Where is retina?
+[user]Where can you find retina?
 [Ninereeds]This is a retina.
 A retina is inside an eye.
 A retina is connected to a brain.
@@ -25,7 +25,7 @@ A retina helps see colors.
 A retina helps see shapes.
 A retina sees light and sends signals.
 
-[user]What is retina for?
+[user]What does retina give?
 [Ninereeds]This is a retina.
 A retina is for seeing.
 A retina is for sending images.

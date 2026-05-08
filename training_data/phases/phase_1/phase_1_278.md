@@ -7,7 +7,7 @@ A butcher has a clean hand.
 A butcher stands behind a counter.
 A butcher is a person in a white coat and a white hat.
 
-[user]Where is a butcher?
+[user]Where can you find a butcher?
 [Ninereeds]This is a butcher.
 A butcher is in a shop.
 A butcher is behind a counter.
@@ -25,7 +25,7 @@ A butcher wraps a package.
 A butcher cleans a knife.
 A butcher is a meat cutter and a bone chopper.
 
-[user]What is a butcher for?
+[user]What does a butcher give?
 [Ninereeds]This is a butcher.
 A butcher gives meat to people.
 A butcher sells beef.

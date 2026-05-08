@@ -25,7 +25,7 @@ A dip creates a valley.
 A dip causes a drop.
 A dip lowers a level and changes a shape.
 
-[user]What is dip for?
+[user]What does dip give?
 [Ninereeds]This is a dip.
 A dip is for a drain.
 A dip is for a pool.

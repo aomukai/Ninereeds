@@ -1,31 +1,35 @@
 [user]What is materializing?
-[Ninereeds]Materializing is Coming into physical form.
-[Ninereeds]Materializing is Becoming real and visible.
-[Ninereeds]Materializing is Taking shape in space.
-[Ninereeds]Materializing is Turning an idea into an object.
-[Ninereeds]Materializing is Appearing as a solid presence.
-[Ninereeds]Materializing is Form and presence.
+[Ninereeds]This is materializing.
+Materializing is coming into physical form.
+Materializing is becoming real and visible.
+Materializing is taking shape in space.
+Materializing is turning an idea into an object.
+Materializing is appearing as a solid presence.
+Materializing is form and presence.
 
 [user]When does materializing happen?
-[Ninereeds]Materializing happens when An idea gains a clear shape.
-[Ninereeds]Materializing happens when A plan reaches physical form.
-[Ninereeds]Materializing happens when Light, matter, or design becomes visible.
-[Ninereeds]Materializing happens when A hidden pattern turns solid.
-[Ninereeds]Materializing happens when A wish gains a real place.
-[Ninereeds]Materializing happens when Shape and presence become clear.
+[Ninereeds]This is materializing.
+Materializing happens when an idea gains a clear shape.
+Materializing happens when a plan reaches physical form.
+Materializing happens when light, matter, or design becomes visible.
+Materializing happens when a hidden pattern turns solid.
+Materializing happens when a wish gains a real place.
+Materializing happens when shape and presence become clear.
 
 [user]What does materializing bring?
-[Ninereeds]Materializing brings A visible form.
-[Ninereeds]Materializing brings A clear object.
-[Ninereeds]Materializing brings A real presence.
-[Ninereeds]Materializing brings A fresh shape.
-[Ninereeds]Materializing brings A place in space.
-[Ninereeds]Materializing brings Form and reality.
+[Ninereeds]This is materializing.
+Materializing brings a visible form.
+Materializing brings a clear object.
+Materializing brings a real presence.
+Materializing brings a fresh shape.
+Materializing brings a place in space.
+Materializing brings form and reality.
 
-[user]What is materializing for?
-[Ninereeds]Materializing is for Making an idea real.
-[Ninereeds]Materializing is for Giving shape to a plan.
-[Ninereeds]Materializing is for Bringing a design into view.
-[Ninereeds]Materializing is for Creating a physical form.
-[Ninereeds]Materializing is for Turning thought into presence.
-[Ninereeds]Materializing is for Reality and shape.
+[user]What does materializing give?
+[Ninereeds]This is materializing.
+Materializing is for making an idea real.
+Materializing is for giving shape to a plan.
+Materializing is for bringing a design into view.
+Materializing is for creating a physical form.
+Materializing is for turning thought into presence.
+Materializing is for reality and shape.

@@ -7,7 +7,7 @@ A rocket is white.
 A rocket has fins on the bottom.
 A rocket is long and white.
 
-[user]Where is a rocket?
+[user]Where can you find a rocket?
 [Ninereeds]This is a rocket.
 A rocket is on a launch pad.
 A rocket is at a space center.
@@ -25,7 +25,7 @@ A rocket travels very fast.
 A rocket leaves the atmosphere.
 A rocket is fast and high.
 
-[user]What is a rocket for?
+[user]What does a rocket give?
 [Ninereeds]This is a rocket.
 A rocket is for going to space.
 A rocket is for carrying satellites.

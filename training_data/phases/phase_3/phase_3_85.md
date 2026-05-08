@@ -22,7 +22,7 @@ Accepting brings a new step forward.
 Accepting brings open contact with others.
 Accepting brings agreement and peace.
 
-[user]What is accepting for?
+[user]What does accepting give?
 [Ninereeds]Accepting is for saying yes.
 Accepting is for taking a gift.
 Accepting is for joining a plan.

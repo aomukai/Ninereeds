@@ -6,7 +6,7 @@ The rowboat has seats.
 The rowboat is open.
 A rowboat is a boat moved by oars.
 
-[user]Where is a rowboat?
+[user]Where can you find a rowboat?
 [Ninereeds]This is a rowboat.
 The rowboat is on water.
 The rowboat is in a lake.

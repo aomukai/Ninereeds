@@ -7,7 +7,7 @@ A face has eyebrows and ears.
 A face has lips and a jaw.
 A face has a forehead eyes a nose and a mouth.
 
-[user]Where is a face?
+[user]Where can you find a face?
 [Ninereeds]This is a face.
 A face is on a head above a neck.
 A face is at the front of a head.
@@ -25,7 +25,7 @@ A face speaks and eats and drinks.
 A face shows a laugh and a cry.
 A face shows a smile and a frown and blinks.
 
-[user]What is a face for?
+[user]What does a face give?
 [Ninereeds]This is a face.
 A face is for expression through a smile and a frown.
 A face is for seeing and hearing and smelling.

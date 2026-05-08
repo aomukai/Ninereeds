@@ -7,7 +7,7 @@ A net is flat when open.
 A net can be round or square.
 A net is flat and made of string.
 
-[user]Where is a net?
+[user]Where can you find a net?
 [Ninereeds]This is a net.
 A net is in the water.
 A net is on a boat.
@@ -25,7 +25,7 @@ A net lets water pass through.
 A net lets air pass through.
 A net is a catcher and a holder.
 
-[user]What is a net for?
+[user]What does a net give?
 [Ninereeds]This is a net.
 A net is for catching fish.
 A net is for catching butterflies.

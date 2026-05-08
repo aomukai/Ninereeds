@@ -7,7 +7,7 @@ A pillow has a cover.
 A pillow is puffy.
 A pillow is a soft square puffy thing.
 
-[user]Where is a pillow?
+[user]Where can you find a pillow?
 [Ninereeds]This is a pillow.
 A pillow is on a bed.
 A pillow is on a sofa.
@@ -25,7 +25,7 @@ A pillow makes a sofa cozy.
 A pillow cushions a head.
 A pillow holds a head and makes a bed soft.
 
-[user]What is a pillow for?
+[user]What does a pillow give?
 [Ninereeds]This is a pillow.
 A pillow is for sleeping.
 A pillow is for resting.

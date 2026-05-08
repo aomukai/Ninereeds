@@ -7,7 +7,7 @@ Wrinkle appears as a fold.
 Wrinkle has a shadow edge.
 Wrinkle is a small line and a crease on skin.
 
-[user]Where is wrinkle?
+[user]Where can you find wrinkle?
 [Ninereeds]This is wrinkle.
 Wrinkle is on the face.
 Wrinkle is near the eyes.
@@ -25,7 +25,7 @@ Wrinkle deepens with movement.
 Wrinkle changes with age.
 Wrinkle folds the skin and marks the surface.
 
-[user]What is wrinkle for?
+[user]What does wrinkle give?
 [Ninereeds]This is wrinkle.
 Wrinkle is for expression.
 Wrinkle is for aging signs.

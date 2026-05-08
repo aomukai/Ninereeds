@@ -7,7 +7,7 @@ Dust floats in air.
 Dust sits on a shelf.
 Dust is very small and light gray.
 
-[user]Where is dust?
+[user]Where can you find dust?
 [Ninereeds]This is dust.
 Dust is on a table.
 Dust is on a floor.
@@ -25,7 +25,7 @@ Dust collects in corners.
 Dust blows in the wind.
 Dust floats in sunlight and lands on surfaces.
 
-[user]What is dust for?
+[user]What does dust give?
 [Ninereeds]This is dust.
 Dust is part of soil.
 Dust is for tiny life.

@@ -7,14 +7,14 @@ An actor is a performer.
 An actor is a storyteller.
 An actor is an expressive and talented person.
 
-[user]Where is an actor?
+[user]Where can you find an actor?
 [Ninereeds]This is an actor.
 An actor is on a stage.
 An actor is in a film.
 An actor is on TV.
 An actor is in a play.
 An actor is in front of a camera.
-An actor is on a stage or in a film.
+An actor is on a stage and in a film.
 
 [user]What does an actor do?
 [Ninereeds]This is an actor.
@@ -25,7 +25,7 @@ An actor entertains people.
 An actor creates emotion.
 An actor plays a role and entertains people.
 
-[user]What is an actor for?
+[user]What does an actor give?
 [Ninereeds]This is an actor.
 An actor is for entertainment.
 An actor is for storytelling.

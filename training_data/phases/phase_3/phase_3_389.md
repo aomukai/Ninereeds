@@ -25,7 +25,7 @@ Haul moves logs from a forest.
 Haul transports hay to a barn.
 Haul is a load drag and a goods carry.
 
-[user]What is haul for?
+[user]What does haul give?
 [Ninereeds]This is haul.
 Haul moves heavy logs to a mill.
 Haul brings hay to a barn.

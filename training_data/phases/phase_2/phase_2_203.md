@@ -25,7 +25,7 @@ A classmate is a partner.
 A classmate is a helper.
 A classmate is a learner and a helper.
 
-[user]What is a classmate for?
+[user]What does a classmate give?
 [Ninereeds]This is a classmate.
 A classmate is a companion.
 A classmate is a collaborator.

@@ -5,7 +5,7 @@ wise can be in an old leader or teacher.
 wise can grow from time and care.
 wise is a state with good thought and good choice.
 
-[user]Where is wise?
+[user]Where can you find wise?
 [Ninereeds]wise is here.
 wise can be in a mind or plan.
 wise can be in a calm face.

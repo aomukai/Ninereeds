@@ -1,8 +1,35 @@
 [user]What does capture mean?
 [Ninereeds]This is capture.
-Capture is to take hold of.
-Capture is to catch.
-Capture is to secure.
-Capture is to record.
-Capture is to seize.
-Capture is to take hold of and to catch.
+Capture means to take hold.
+Capture means to catch.
+Capture means to secure.
+Capture means to record.
+Capture means to seize.
+Capture means to take hold and to catch.
+
+[user]When does capture happen?
+[Ninereeds]This is capture.
+Capture happens during a hunt.
+Capture happens during a game.
+Capture happens in photography.
+Capture happens in a trap.
+Capture happens during a chase.
+Capture happens during a hunt and during a game.
+
+[user]What does capture bring?
+[Ninereeds]This is capture.
+Capture brings possession.
+Capture brings a result.
+Capture brings a record.
+Capture brings control.
+Capture brings a prize.
+Capture brings possession and a result.
+
+[user]What does capture give?
+[Ninereeds]This is capture.
+Capture gives getting something.
+Capture gives recording moments.
+Capture gives securing things.
+Capture gives winning.
+Capture gives preserving memories.
+Capture gives getting something and recording moments.

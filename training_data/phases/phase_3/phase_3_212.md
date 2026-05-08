@@ -22,7 +22,7 @@ Complicating brings a richer but heavier task.
 Complicating brings more strain on attention.
 Complicating brings detail and strain.
 
-[user]What is complicating for?
+[user]What does complicating give?
 [Ninereeds]Complicating is for adding depth or challenge.
 Complicating is for making a task more layered.
 Complicating is for showing a hard problem.

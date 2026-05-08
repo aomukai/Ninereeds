@@ -7,7 +7,7 @@ A calf has large eyes.
 A calf has soft fur.
 A calf is a young animal with four legs.
 
-[user]Where is a calf?
+[user]Where can you find a calf?
 [Ninereeds]This is a calf.
 A calf is in a barn.
 A calf is in a field.
@@ -25,7 +25,7 @@ A calf rests in the hay.
 A calf grows into a cow.
 A calf stands and walks and drinks milk.
 
-[user]What is a calf for?
+[user]What does a calf give?
 [Ninereeds]This is a calf.
 A calf grows into a cow.
 A calf gives milk later.

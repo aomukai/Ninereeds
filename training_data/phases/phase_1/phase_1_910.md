@@ -7,14 +7,14 @@ A scooter is small.
 A scooter is for one person.
 A scooter is a small vehicle with two wheels and a handlebar.
 
-[user]Where is a scooter?
+[user]Where can you find a scooter?
 [Ninereeds]This is a scooter.
 A scooter is on the sidewalk.
 A scooter is in a garage.
 A scooter is in a driveway.
 A scooter is on a path.
 A scooter is at a park.
-A scooter is on the sidewalk or in a garage.
+A scooter is on the sidewalk and in a garage.
 
 [user]What does a scooter do?
 [Ninereeds]This is a scooter.
@@ -25,7 +25,7 @@ A scooter turns at the handlebar.
 A scooter stops with a brake.
 A scooter rolls on wheels and carries a person.
 
-[user]What is a scooter for?
+[user]What does a scooter give?
 [Ninereeds]This is a scooter.
 A scooter is for riding.
 A scooter is for fun.

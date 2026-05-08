@@ -7,7 +7,7 @@ Chocolate is smooth.
 Chocolate melts in a warm hand.
 Chocolate is a brown solid square that melts.
 
-[user]Where is chocolate?
+[user]Where can you find chocolate?
 [Ninereeds]This is chocolate.
 Chocolate is in a wrapper.
 Chocolate is on a shelf.
@@ -25,7 +25,7 @@ Chocolate turns into a liquid.
 Chocolate stays hard in a cool place.
 Chocolate melts in a mouth and breaks into pieces.
 
-[user]What is chocolate for?
+[user]What does chocolate give?
 [Ninereeds]This is chocolate.
 Chocolate is for eating.
 Chocolate is for a treat.

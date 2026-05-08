@@ -7,7 +7,7 @@ A key has a blade.
 A key has teeth.
 A key is a flat metal tool with teeth.
 
-[user]Where is a key found?
+[user]Where can you find a key?
 [Ninereeds]This is a key.
 A key is in a lock.
 A key is on a ring.
@@ -25,11 +25,11 @@ A key fits into a hole.
 A key stays in a lock.
 A key opens a lock on a door.
 
-[user]What is a key used for?
+[user]What does a key give?
 [Ninereeds]This is a key.
 A key unlocks a door.
 A key locks a door.
 A key opens a chest.
 A key starts a car.
 A key opens a gate.
-A key opens a door or a gate.
+A key opens a door and a gate.

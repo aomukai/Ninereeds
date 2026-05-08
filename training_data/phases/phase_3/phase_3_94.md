@@ -25,7 +25,7 @@ Light enables quiet movement.
 Light suggests ease.
 Light causes minimal impact and avoids damage.
 
-[user]What is light for?
+[user]What does light give?
 [Ninereeds]This is light.
 Light is for delicate tasks.
 Light is for careful handling.

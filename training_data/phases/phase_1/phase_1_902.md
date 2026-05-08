@@ -7,7 +7,7 @@ A sawhorse is made of wood.
 A sawhorse is a stand.
 A sawhorse is a tall wood stand with four legs and a bar.
 
-[user]Where is a sawhorse?
+[user]Where can you find a sawhorse?
 [Ninereeds]This is a sawhorse.
 A sawhorse is in a workshop.
 A sawhorse is on a job site.
@@ -25,7 +25,7 @@ A sawhorse supports a plank.
 A sawhorse holds a log.
 A sawhorse holds wood and supports a plank.
 
-[user]What is a sawhorse used for?
+[user]What does a sawhorse give?
 [Ninereeds]This is a sawhorse.
 A sawhorse is for sawing.
 A sawhorse is for building.

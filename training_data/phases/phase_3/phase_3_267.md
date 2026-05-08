@@ -25,7 +25,7 @@ Blush warms the skin.
 Blush changes face color.
 Blush is a sign of feeling.
 
-[user]What is blush for?
+[user]What does blush give?
 [Ninereeds]This is blush.
 Blush is for showing emotion.
 Blush is for signaling shyness.

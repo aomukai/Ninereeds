@@ -7,14 +7,14 @@ A prune is a soft piece.
 A prune is a sweet treat.
 A prune is a dried, dark, wrinkled plum.
 
-[user]Where is a prune found?
+[user]Where can you find a prune?
 [Ninereeds]This is a prune.
 A prune is in a bag.
 A prune is in a jar.
 A prune is in a pantry.
 A prune is in a cereal bowl.
 A prune is in a lunch box.
-A prune is in a bag, jar, or pantry.
+A prune is in a bag, jar, and pantry.
 
 [user]What does a prune do?
 [Ninereeds]This is a prune.
@@ -25,11 +25,11 @@ A prune softens when soaked in water.
 A prune lasts a long time without a fridge.
 A prune gives energy and helps digestion.
 
-[user]What is a prune used for?
+[user]What does a prune give?
 [Ninereeds]This is a prune.
 A prune is eaten as a snack.
 A prune is baked in a bread.
 A prune is cooked in a stew.
 A prune is blended in a smoothie.
 A prune is chopped in a salad.
-A prune is eaten, baked, cooked, blended, or chopped.
+A prune is eaten, baked, cooked, blended, and chopped.

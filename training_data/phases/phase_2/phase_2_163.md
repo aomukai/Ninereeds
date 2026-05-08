@@ -7,14 +7,14 @@ Father-child is a special connection.
 Father-child is a unique bond.
 Father-child is a man and a young person in a pair.
 
-[user]Where is father-child?
+[user]Where can you find father-child?
 [Ninereeds]This is father-child.
 Father-child is in a family.
 Father-child is in a home.
 Father-child is in a park.
 Father-child is in a story.
 Father-child is in an interaction.
-Father-child is in a family or a park.
+Father-child is in a family and a park.
 
 [user]What does father-child do?
 [Ninereeds]This is father-child.
@@ -25,7 +25,7 @@ Father-child gives support.
 Father-child builds trust.
 Father-child plays and learns together.
 
-[user]What is father-child for?
+[user]What does father-child give?
 [Ninereeds]This is father-child.
 Father-child is for nurturing.
 Father-child is for development.

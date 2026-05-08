@@ -7,7 +7,7 @@ Intuition is a direct perception.
 Intuition is an immediate understanding.
 Intuition is an inner feeling and immediate understanding.
 
-[user]Where is intuition found?
+[user]Where can you find intuition?
 [Ninereeds]This is intuition.
 Intuition is found in a mind.
 Intuition is found in decisions.
@@ -25,7 +25,7 @@ Intuition helps understanding.
 Intuition aids quick reactions.
 Intuition guides choices and helps understanding.
 
-[user]What is intuition for?
+[user]What does intuition give?
 [Ninereeds]This is intuition.
 Intuition is for quick judgments.
 Intuition is for creative problem-solving.

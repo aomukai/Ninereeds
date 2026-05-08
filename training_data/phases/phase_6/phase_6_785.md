@@ -7,7 +7,7 @@ Wrongness is an incorrectness.
 Wrongness is a fault.
 Wrongness is a state of being wrong and an error.
 
-[user]Where is wrongness found?
+[user]Where can you find wrongness?
 [Ninereeds]This is wrongness.
 Wrongness is found in statements.
 Wrongness is found in actions.
@@ -25,7 +25,7 @@ Wrongness harms trust.
 Wrongness distorts truth.
 Wrongness causes problems and creates confusion.
 
-[user]What is wrongness for?
+[user]What does wrongness give?
 [Ninereeds]This is wrongness.
 Wrongness is for revealing a need for correction.
 Wrongness is for highlighting areas of improvement.

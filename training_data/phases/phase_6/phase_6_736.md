@@ -7,7 +7,7 @@ A second is a division of a minute.
 A second is after the first.
 A second is a unit of time after the first.
 
-[user]Where is a second?
+[user]Where can you find a second?
 [Ninereeds]This is a second.
 A second is in a clock.
 A second is in a race.
@@ -25,7 +25,7 @@ A second adds to a count.
 A second completes a beat.
 A second measures duration and marks progress.
 
-[user]What is a second for?
+[user]What does a second give?
 [Ninereeds]This is a second.
 A second is for timing.
 A second is for precision.

@@ -7,7 +7,7 @@ A shelter is big.
 A shelter keeps rain out.
 A shelter has walls and a roof.
 
-[user]Where is a shelter found?
+[user]Where can you find a shelter?
 [Ninereeds]This is a shelter.
 A shelter sits on land.
 A shelter stands in a field.
@@ -25,7 +25,7 @@ A shelter stays up.
 A shelter keeps things dry.
 A shelter blocks wind and rain.
 
-[user]What is a shelter for?
+[user]What does a shelter give?
 [Ninereeds]This is a shelter.
 A shelter is a safe place.
 A shelter holds people.

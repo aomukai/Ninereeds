@@ -25,7 +25,7 @@ Slant changes the angle.
 Slant guides movement downward.
 Slant directs and guides.
 
-[user]What is slant for?
+[user]What does slant give?
 [Ninereeds]This is slant.
 Slant is for drainage.
 Slant is for visual effect.

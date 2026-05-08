@@ -25,7 +25,7 @@ A girlfriend is helpful.
 A girlfriend is generous.
 A girlfriend is talkative and cheerful.
 
-[user]What is a girlfriend for?
+[user]What does a girlfriend give?
 [Ninereeds]This is a girlfriend.
 A girlfriend is for talking.
 A girlfriend is for laughing.

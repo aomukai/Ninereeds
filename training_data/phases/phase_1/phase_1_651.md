@@ -5,9 +5,9 @@ A marble is small.
 A marble is smooth.
 A marble is glass.
 A marble is a small round glass ball.
-A marble is a smooth round ball.
+A marble is smooth and round.
 
-[user]Where is a marble?
+[user]Where can you find a marble?
 [Ninereeds]This is a marble.
 A marble is in a bag.
 A marble is in a jar.
@@ -25,7 +25,7 @@ A marble drops with a sound.
 A marble moves in a circle and spins.
 A marble rolls on a floor and hits another marble.
 
-[user]What is a marble for?
+[user]What does a marble give?
 [Ninereeds]This is a marble.
 A marble is for a game.
 A marble is for play.

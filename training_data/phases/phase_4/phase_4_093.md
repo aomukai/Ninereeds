@@ -25,7 +25,7 @@ Infection attracts white blood cells.
 Infection slows the healing of a wound.
 Infection is painful and inflammatory.
 
-[user]What is infection for?
+[user]What does infection give?
 [Ninereeds]This is infection.
 Infection is for signaling an injury in the body.
 Infection is for activating the immune system.

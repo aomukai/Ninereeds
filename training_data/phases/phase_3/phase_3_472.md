@@ -25,7 +25,7 @@ Raise puts a flag in the air.
 Raise makes dough and bread bigger.
 Raise is a lift and a signal.
 
-[user]What is raise used for?
+[user]What does raise give?
 [Ninereeds]This is raise.
 Raise gets a question answered.
 Raise celebrates an achievement.

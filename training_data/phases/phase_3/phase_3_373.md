@@ -25,7 +25,7 @@ Fry makes the inside soft.
 Fry makes the food hot.
 Fry cooks food in hot oil in a pan.
 
-[user]What is fry for?
+[user]What does fry give?
 [Ninereeds]This is fry.
 Fry makes a meal for a family.
 Fry cooks a potato for a snack.

@@ -1,13 +1,13 @@
 [user]What is unpredictability?
 [Ninereeds]This is unpredictability.
-Unpredictability is a not knowing future.
+Unpredictability is a knowing future.
 Unpredictability is a randomness.
 Unpredictability is a changeableness.
 Unpredictability is a surprise.
 Unpredictability is a lack of foresight.
-Unpredictability is not knowing future and a randomness.
+Unpredictability is knowing future and a randomness.
 
-[user]Where is unpredictability found?
+[user]Where can you find unpredictability?
 [Ninereeds]This is unpredictability.
 Unpredictability is found in weather.
 Unpredictability is found in markets.
@@ -25,7 +25,7 @@ Unpredictability generates excitement.
 Unpredictability reveals limits of knowledge.
 Unpredictability challenges a plan and forces adaptation.
 
-[user]What is unpredictability for?
+[user]What does unpredictability give?
 [Ninereeds]This is unpredictability.
 Unpredictability is for resilience.
 Unpredictability is for testing adaptability.

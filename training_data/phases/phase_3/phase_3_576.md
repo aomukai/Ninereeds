@@ -14,7 +14,7 @@ Wave happens in a hall.
 Wave happens at a park.
 Wave happens at a party.
 Wave happens on a stage.
-Wave happens at a door or a park.
+Wave happens at a door and a park.
 
 [user]What does wave do?
 [Ninereeds]This is wave.
@@ -23,9 +23,9 @@ Wave says goodbye from far away.
 Wave gets a person's attention.
 Wave shows a friendly feeling.
 Wave greet a friend across the room.
-Wave says hello or goodbye without words.
+Wave says hello and goodbye without words.
 
-[user]What is wave for?
+[user]What does wave give?
 [Ninereeds]This is wave.
 Wave is for greeting.
 Wave is for saying goodbye.

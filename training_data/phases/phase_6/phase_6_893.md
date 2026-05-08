@@ -7,7 +7,7 @@ A message is a signal.
 A message is a statement.
 A message is a communication and a piece of information.
 
-[user]Where is a message found?
+[user]Where can you find a message?
 [Ninereeds]This is a message.
 A message is found in words.
 A message is found in letters.
@@ -25,7 +25,7 @@ A message expresses a feeling.
 A message connects people.
 A message conveys meaning and informs a person.
 
-[user]What is a message for?
+[user]What does a message give?
 [Ninereeds]This is a message.
 A message is for communication.
 A message is for sharing information.

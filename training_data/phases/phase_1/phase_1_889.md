@@ -7,7 +7,7 @@ A sailboat floats on water.
 A sailboat has a rope for the sail.
 A sailboat is a boat and has a large white sail.
 
-[user]Where is a sailboat?
+[user]Where can you find a sailboat?
 [Ninereeds]This is a sailboat.
 A sailboat is on a lake.
 A sailboat is on the sea.
@@ -25,7 +25,7 @@ A sailboat tilts in the wind.
 A sailboat glides on the waves.
 A sailboat sails across water and catches wind.
 
-[user]What is a sailboat for?
+[user]What does a sailboat give?
 [Ninereeds]This is a sailboat.
 A sailboat is for sailing on water.
 A sailboat is for traveling across a lake.

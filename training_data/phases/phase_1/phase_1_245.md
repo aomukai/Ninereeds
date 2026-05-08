@@ -7,7 +7,7 @@ A bolt is a threaded piece.
 A bolt is a fastener.
 A bolt is a long thin metal fastener.
 
-[user]Where is a bolt?
+[user]Where can you find a bolt?
 [Ninereeds]This is a bolt.
 A bolt is in a tool box.
 A bolt is on a shelf.
@@ -25,7 +25,7 @@ A bolt screws into a nut.
 A bolt is a joining piece.
 A bolt holds two parts together.
 
-[user]What is a bolt for?
+[user]What does a bolt give?
 [Ninereeds]This is a bolt.
 A bolt is for fastening.
 A bolt is for joining.

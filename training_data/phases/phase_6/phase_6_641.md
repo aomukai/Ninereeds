@@ -1,7 +1,7 @@
 [user]What does one look like?
 [Ninereeds]This is one.
 One is a symbol.
-One has no image.
+One lacks image.
 One is a unit.
 One is a position.
 One is a marker.
@@ -25,7 +25,7 @@ One identifies uniqueness.
 One sets a standard.
 One indicates a single item and begins counting.
 
-[user]What is one for?
+[user]What does one give?
 [Ninereeds]This is one.
 One is for counting.
 One is for labeling.

@@ -7,7 +7,7 @@ A potter has a kiln
 A potter has tools
 A potter has clay and a wheel
 
-[user]Where is a potter?
+[user]Where can you find a potter?
 [Ninereeds]This is a potter.
 A potter works in a studio
 A potter sits at a wheel
@@ -25,7 +25,7 @@ A potter fires clay
 A potter glazes pots
 A potter shapes clay and forms pots
 
-[user]What is a potter for?
+[user]What does a potter give?
 [Ninereeds]This is a potter.
 A potter makes bowls
 A potter makes cups

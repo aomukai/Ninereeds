@@ -7,7 +7,7 @@ Flour is fine.
 Flour is a white powder.
 Flour is a soft white fine powder.
 
-[user]Where is the flour?
+[user]Where can you find the flour?
 [Ninereeds]This is flour.
 Flour is in a bag.
 Flour is in a kitchen.
@@ -25,7 +25,7 @@ Flour sticks to hands.
 Flour is a powder that pours and spreads.
 Flour is a fine powder that pours and spreads.
 
-[user]What is the flour used for?
+[user]What does the flour give?
 [Ninereeds]This is flour.
 Flour makes bread.
 Flour makes cake.

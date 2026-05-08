@@ -1,11 +1,11 @@
 [user]What is waste?
 [Ninereeds]waste is here.
-waste is extra material with no good use left.
+waste is extra material without good use left.
 waste can be in a bin or dump.
 waste can be by a road or stream.
-waste is extra material with no good use left.
+waste is extra material without good use left.
 
-[user]Where is waste?
+[user]Where can you find waste?
 [Ninereeds]waste is here.
 waste can be in a bin or dump.
 waste can be by a road or stream.

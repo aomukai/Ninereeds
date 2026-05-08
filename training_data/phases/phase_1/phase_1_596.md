@@ -7,7 +7,7 @@ A kettle has a lid.
 A kettle has a handle.
 A kettle is metal and round.
 
-[user]Where is a kettle found?
+[user]Where can you find a kettle?
 [Ninereeds]This is a kettle.
 A kettle is in a kitchen.
 A kettle is on a stove.
@@ -25,7 +25,7 @@ A kettle steams.
 A kettle pours.
 A kettle heats water and steams.
 
-[user]What is a kettle used for?
+[user]What does a kettle give?
 [Ninereeds]This is a kettle.
 A kettle boils water.
 A kettle makes tea.

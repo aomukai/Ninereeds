@@ -1,36 +1,35 @@
-[user]What does medical mean?
-[Ninereeds]This is medical.
-Medical is about health.
-Medical is about healing.
-Medical is about doctors.
-Medical is about hospitals.
-Medical is about medicine.
-Medical is about health and healing.
+[user]What does medicine mean?
+[Ninereeds]This is medicine.
+Medicine is about health.
+Medicine is about healing.
+Medicine is about doctors.
+Medicine is about hospitals.
+Medicine is about care.
+Medicine is about health and healing.
 
-[user]Where is medical found?
-[Ninereeds]This is medical.
-Medical is in a hospital.
-Medical is in a clinic.
-Medical is in a doctor's office.
-Medical is in a book about health.
-Medical is in a medicine bottle.
-Medical is found in places of health care.
+[user]Where can you find medicine?
+[Ninereeds]This is medicine.
+Medicine is in a hospital.
+Medicine is in a clinic.
+Medicine is in a doctor's office.
+Medicine is in a book about health.
+Medicine is in a medicine bottle.
+Medicine is found in hospitals and clinics.
 
-[user]What does medical do?
-[Ninereeds]This is medical.
-Medical helps sick people.
-Medical helps injured people.
-Medical helps prevent illness.
-Medical helps to cure diseases.
-Medical helps to keep people healthy.
-Medical is to help people stay healthy.
+[user]What does medicine do?
+[Ninereeds]This is medicine.
+Medicine helps sick people.
+Medicine helps injured people.
+Medicine helps prevent illness.
+Medicine helps to cure diseases.
+Medicine helps to keep people healthy.
+Medicine is for treatment and recovery.
 
-[user]What is medical for?
-[Ninereeds]This is medical.
-Medical is for treatment.
-Medical is for recovery.
-Medical is for research.
-Medical is for well-being.
-Medical is for saving lives.
-Medical is for health and treatment.
-
+[user]What does medicine give?
+[Ninereeds]This is medicine.
+Medicine is for treatment.
+Medicine is for recovery.
+Medicine is for research.
+Medicine is for well-being.
+Medicine is for saving lives.
+Medicine is for health and treatment.

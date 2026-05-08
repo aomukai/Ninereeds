@@ -7,7 +7,7 @@ The frame is on a wall.
 The frame is a square flat border on a wall.
 The frame is a flat border with four sides.
 
-[user]Where is the frame?
+[user]Where can you find the frame?
 [Ninereeds]This is a frame.
 The frame is on a wall.
 The frame is around a picture.
@@ -25,7 +25,7 @@ The frame protects the picture edges.
 The frame is a border that holds and surrounds a picture.
 The frame is a square border that protects a picture.
 
-[user]What is the frame used for?
+[user]What does the frame give?
 [Ninereeds]This is a frame.
 The frame is for holding pictures.
 The frame is for decorating walls.

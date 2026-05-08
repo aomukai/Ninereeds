@@ -7,7 +7,7 @@ Poetry is emotion.
 Poetry is a verse.
 Poetry is words as art with rhythm and emotion.
 
-[user]Where is poetry found?
+[user]Where can you find poetry?
 [Ninereeds]This is poetry.
 Poetry is found in books.
 Poetry is found in songs.
@@ -25,7 +25,7 @@ Poetry evokes emotions.
 Poetry shares beauty.
 Poetry expresses feelings and creates images.
 
-[user]What is poetry for?
+[user]What does poetry give?
 [Ninereeds]This is poetry.
 Poetry is for artistic expression.
 Poetry is for emotional release.

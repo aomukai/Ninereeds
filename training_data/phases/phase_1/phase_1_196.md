@@ -7,7 +7,7 @@ A bag is made of cloth.
 A bag is soft and bendable.
 A bag is a soft container with handles.
 
-[user]Where is a bag?
+[user]Where can you find a bag?
 [Ninereeds]This is a bag.
 A bag is on a shoulder.
 A bag is on a table.
@@ -25,7 +25,7 @@ A bag holds school items.
 A bag carries food from a store.
 A bag holds groceries and toys.
 
-[user]What is a bag for?
+[user]What does a bag give?
 [Ninereeds]This is a bag.
 A bag carries things from place to place.
 A bag keeps items together.

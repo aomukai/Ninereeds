@@ -7,7 +7,7 @@ A bridge is made of metal.
 A bridge is long and wide.
 A bridge is a long structure made of wood.
 
-[user]Where is a bridge?
+[user]Where can you find a bridge?
 [Ninereeds]This is a bridge.
 A bridge is over water.
 A bridge is over a road.
@@ -25,7 +25,7 @@ A bridge helps trains cross.
 A bridge supports weight.
 A bridge connects two sides and helps people cross.
 
-[user]What is a bridge used for?
+[user]What does a bridge give?
 [Ninereeds]This is a bridge.
 A bridge helps travel.
 A bridge makes journeys faster.

@@ -5,7 +5,7 @@ quantity can be small or large.
 quantity can count item or amount.
 quantity means how much or how many.
 
-[user]Where is quantity?
+[user]Where can you find quantity?
 [Ninereeds]quantity is here.
 quantity can be on a food box.
 quantity can be in a math page.

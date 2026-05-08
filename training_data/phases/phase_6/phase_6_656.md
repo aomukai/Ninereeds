@@ -14,7 +14,7 @@ A watcher is in a forest.
 A watcher is in a home.
 A watcher is at a window.
 A watcher is by a path.
-A watcher is in a crowd or in a home.
+A watcher is in a crowd and in a home.
 
 [user]What does a watcher do?
 [Ninereeds]This is a watcher.
@@ -25,7 +25,7 @@ A watcher observes a world.
 A watcher sees what happens.
 A watcher sees and observes a world.
 
-[user]What is a watcher for?
+[user]What does a watcher give?
 [Ninereeds]This is a watcher.
 A watcher is for seeing.
 A watcher is for guarding.

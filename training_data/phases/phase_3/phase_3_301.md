@@ -25,7 +25,7 @@ A crawl lets a person hide.
 A crawl moves a person past obstacles.
 A crawl moves a body forward past obstacles.
 
-[user]What is a crawl for?
+[user]What does a crawl give?
 [Ninereeds]This is a crawl.
 A crawl is for moving slow.
 A crawl is for staying low.

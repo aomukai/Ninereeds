@@ -5,7 +5,7 @@ Doubt is a lack of conviction.
 Doubt is a question of truth.
 Doubt is a suspension of judgment.
 Doubt is a hesitation.
-Doubt is a feeling of uncertainty or question.
+Doubt is a feeling of uncertainty and question.
 
 [user]Where does doubt appear?
 [Ninereeds]This is doubt.
@@ -25,7 +25,7 @@ Doubt leads to investigation.
 Doubt makes one careful.
 Doubt causes hesitation and prompts inquiry.
 
-[user]What is doubt for?
+[user]What does doubt give?
 [Ninereeds]This is doubt.
 Doubt is for critical thinking.
 Doubt is for seeking truth.

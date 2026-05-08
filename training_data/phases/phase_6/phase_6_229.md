@@ -25,7 +25,7 @@ Snip opens a small gap.
 Snip creates a precise edge.
 Snip is a cut and a marker.
 
-[user]What is snip for?
+[user]What does snip give?
 [Ninereeds]This is snip.
 Snip is for cutting thread.
 Snip is for making a notch.

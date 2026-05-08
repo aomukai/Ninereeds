@@ -25,7 +25,7 @@ Stink warns of unsafe conditions.
 Stink clears a space of visitors.
 Stink is warning and repelling.
 
-[user]What is stink for?
+[user]What does stink give?
 [Ninereeds]This is stink.
 Stink indicates decay or spoilage.
 Stink warns against eating bad food.

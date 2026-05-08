@@ -7,7 +7,7 @@ A pantry has cans.
 A pantry is dark.
 A pantry is a dark room with food on shelves.
 
-[user]Where is a pantry?
+[user]Where can you find a pantry?
 [Ninereeds]This is a pantry.
 A pantry is in a kitchen.
 A pantry is near the kitchen.

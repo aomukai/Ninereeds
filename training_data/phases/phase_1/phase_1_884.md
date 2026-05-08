@@ -7,7 +7,7 @@ A ruler has marks for inches.
 A ruler is made of wood or plastic.
 A ruler is a long thin stick with numbers.
 
-[user]Where is a ruler?
+[user]Where can you find a ruler?
 [Ninereeds]This is a ruler.
 A ruler is in a desk drawer.
 A ruler is on a desk.
@@ -25,7 +25,7 @@ A ruler shows inches and centimeters.
 A ruler lines up a page.
 A ruler measures length and draws a straight line.
 
-[user]What is a ruler for?
+[user]What does a ruler give?
 [Ninereeds]This is a ruler.
 A ruler is for measuring a desk.
 A ruler is for drawing a straight line.

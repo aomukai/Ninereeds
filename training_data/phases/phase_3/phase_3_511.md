@@ -25,7 +25,7 @@ Strike breaks surface.
 Strike cracks wood.
 Strike is forceful and direct.
 
-[user]What is a strike for?
+[user]What does a strike give?
 [Ninereeds]This is a strike.
 Strike lights fire.
 Strike rings bell.

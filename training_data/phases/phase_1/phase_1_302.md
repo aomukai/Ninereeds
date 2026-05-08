@@ -7,7 +7,7 @@ A carpet has a pattern.
 A carpet covers a floor.
 A carpet is a soft flat cover for a floor.
 
-[user]Where is a carpet?
+[user]Where can you find a carpet?
 [Ninereeds]This is a carpet.
 A carpet is on a floor.
 A carpet is in a living room.
@@ -25,7 +25,7 @@ A carpet adds color.
 A carpet makes a room cozy.
 A carpet covers a floor and keeps a room warm.
 
-[user]What is a carpet for?
+[user]What does a carpet give?
 [Ninereeds]This is a carpet.
 A carpet is for a floor.
 A carpet is for warmth.

@@ -7,7 +7,7 @@ A motor is made of metal.
 A motor has a round shape.
 A motor is a machine and a part.
 
-[user]Where is a motor?
+[user]Where can you find a motor?
 [Ninereeds]This is a motor.
 A motor is in a car.
 A motor is in a fan.
@@ -25,7 +25,7 @@ A motor moves a car forward.
 A motor powers a machine.
 A motor is a spinner and a mover.
 
-[user]What is a motor for?
+[user]What does a motor give?
 [Ninereeds]This is a motor.
 A motor makes things move.
 A motor runs a machine.

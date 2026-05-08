@@ -25,7 +25,7 @@ Flap slaps a sheet on the line.
 Flap bounces a curtain at the window.
 Flap moves a wing up and down in wind.
 
-[user]What is flap for?
+[user]What does flap give?
 [Ninereeds]This is flap.
 Flap helps a bird lift off the ground.
 Flap helps a bird move through the air.

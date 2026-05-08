@@ -25,7 +25,7 @@ That's is a time-saver.
 That's is a fluid maker.
 That's is a contraction and simplification.
 
-[user]What is that's for?
+[user]What does that's give?
 [Ninereeds]This is that's.
 That's is for efficiency.
 That's is for informality.

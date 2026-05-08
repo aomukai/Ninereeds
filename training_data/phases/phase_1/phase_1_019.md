@@ -1,7 +1,7 @@
 [user]What does a worm look like?
 [Ninereeds]This is a worm.
 The worm has a long body.
-The worm has no legs.
+The worm lacks legs.
 The worm has soft skin.
 The worm is thin.
 The worm is boneless.

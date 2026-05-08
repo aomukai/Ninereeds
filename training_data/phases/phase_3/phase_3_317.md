@@ -22,7 +22,7 @@ Darting brings quick arrival at a goal.
 Darting brings surprise to watchers.
 Darting brings speed and arrival.
 
-[user]what is darting for?
+[user]what does darting give?
 [Ninereeds]Darting is for moving fast.
 Darting is for crossing space in a rush.
 Darting is for reaching cover quickly.

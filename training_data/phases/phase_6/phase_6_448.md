@@ -5,7 +5,7 @@ Continuity is consistent connection.
 Continuity is smooth transition.
 Continuity is persistent presence.
 Continuity is ongoing sameness.
-Continuity is unbroken existence or connection.
+Continuity is unbroken existence and connection.
 
 [user]Where does continuity appear?
 [Ninereeds]This is continuity.
@@ -25,7 +25,7 @@ Continuity links past and future.
 Continuity supports understanding.
 Continuity makes things flow and stable.
 
-[user]What is continuity for?
+[user]What does continuity give?
 [Ninereeds]This is continuity.
 Continuity is for lasting peace.
 Continuity is for steady progress.

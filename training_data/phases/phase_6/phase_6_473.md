@@ -5,7 +5,7 @@ Relationship is a bond.
 Relationship is an association.
 Relationship is how things relate.
 Relationship is a link between things.
-Relationship is a connection or bond.
+Relationship is a connection and bond.
 
 [user]Where does relationship appear?
 [Ninereeds]This is a relationship.
@@ -25,7 +25,7 @@ Relationship provides context.
 Relationship influences behavior.
 Relationship links elements and creates meaning.
 
-[user]What is relationship for?
+[user]What does relationship give?
 [Ninereeds]This is a relationship.
 Relationship is for understanding connections.
 Relationship is for building bonds.

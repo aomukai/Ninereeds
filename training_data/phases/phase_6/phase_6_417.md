@@ -7,7 +7,7 @@ vinyl is used in many everyday items.
 vinyl is a versatile substance.
 vinyl is plastic and versatile.
 
-[user]Where is vinyl?
+[user]Where can you find vinyl?
 [Ninereeds]vinyl is here.
 vinyl is on a record floor or seat.
 vinyl is in a shop about music or home goods.

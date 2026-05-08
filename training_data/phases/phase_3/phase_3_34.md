@@ -18,18 +18,18 @@ The cloud is in the sky and above the ground.
 
 [user]What does a cloud do over time?
 [Ninereeds]This is a cloud.
-The cloud is a formation.
-The cloud is a rain source.
-The cloud is a shade provider.
-The cloud is a weather maker.
-The cloud is a water carrier.
-The cloud is a formation and a rain source.
+The cloud moves across the sky.
+The cloud changes shape slowly.
+The cloud blocks the sun.
+The cloud releases rain.
+The cloud gathers water.
+The cloud gathers and releases water.
 
 [user]What does a cloud provide or give?
 [Ninereeds]This is a cloud.
-The cloud is a mover.
-The cloud is a cover.
-The cloud is a shade giver.
-The cloud is a wind follower.
-The cloud is a sun blocker.
-The cloud is a mover and a cover.
+The cloud gives shade.
+The cloud provides rain.
+The cloud blocks sunlight.
+The cloud cools the air.
+The cloud provides moisture.
+The cloud gives shade and provides rain.

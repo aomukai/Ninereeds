@@ -22,7 +22,7 @@ Synchronizing brings less delay between parts.
 Synchronizing brings a steady rhythm.
 Synchronizing brings timing and rhythm.
 
-[user]What is synchronizing for?
+[user]What does synchronizing give?
 [Ninereeds]Synchronizing is for keeping parts in step.
 Synchronizing is for matching signals.
 Synchronizing is for helping a group work well.

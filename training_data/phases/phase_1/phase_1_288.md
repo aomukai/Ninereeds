@@ -7,7 +7,7 @@ A camel has brown fur.
 A camel has a small head.
 A camel is a tall animal with a hump.
 
-[user]Where is a camel?
+[user]Where can you find a camel?
 [Ninereeds]This is a camel.
 A camel is in a desert.
 A camel is on sand.
@@ -25,7 +25,7 @@ A camel drinks water.
 A camel travels a long way.
 A camel walks on sand and carries a person.
 
-[user]What is a camel for?
+[user]What does a camel give?
 [Ninereeds]This is a camel.
 A camel carries a person.
 A camel carries a load.

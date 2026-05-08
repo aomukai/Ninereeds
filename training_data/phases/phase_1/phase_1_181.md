@@ -7,7 +7,7 @@ An anchor has a long chain.
 An anchor has a hook at each arm.
 An anchor is a heavy metal piece with a ring and two curved arms.
 
-[user]Where is an anchor?
+[user]Where can you find an anchor?
 [Ninereeds]This is an anchor.
 An anchor is on a ship.
 An anchor is in the water.

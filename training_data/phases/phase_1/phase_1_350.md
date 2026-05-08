@@ -7,7 +7,7 @@ A comb has a handle on one end.
 A comb has teeth that are evenly spaced.
 A comb is flat and has teeth.
 
-[user]Where is a comb?
+[user]Where can you find a comb?
 [Ninereeds]This is a comb.
 A comb is in a bathroom drawer.
 A comb is on a bathroom sink.
@@ -25,7 +25,7 @@ A comb straightens wild strands.
 A comb arranges hair into a style.
 A comb smooths and detangles hair.
 
-[user]What is a comb used for?
+[user]What does a comb give?
 [Ninereeds]This is a comb.
 A comb keeps hair neat and removes tangles.
 A comb parts hair for a braid.

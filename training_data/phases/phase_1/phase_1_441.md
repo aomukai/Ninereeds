@@ -7,7 +7,7 @@ A fairy has a glow in the dark.
 A fairy has a soft face.
 A fairy is small and has wings and a wand.
 
-[user]Where is a fairy?
+[user]Where can you find a fairy?
 [Ninereeds]This is a fairy.
 A fairy is in a forest near a flower.
 A fairy is under a mushroom by a tree.
@@ -25,7 +25,7 @@ A fairy sings and hums in the trees.
 A fairy sleeps in a flower and a nest.
 A fairy flies and glows and dances in the wind.
 
-[user]What is a fairy for?
+[user]What does a fairy give?
 [Ninereeds]This is a fairy.
 A fairy is for stories and wonder.
 A fairy is for magic and dreams.

@@ -7,7 +7,7 @@ A hive is usually hexagonal.
 A hive is a place for bees to live.
 A hive is a home structure made by bees.
 
-[user]Where is a hive?
+[user]Where can you find a hive?
 [Ninereeds]This is a hive.
 A hive is in a tree.
 A hive is in a wall.
@@ -25,7 +25,7 @@ A hive is a nursery for young bees.
 A hive shelters the queen bee.
 A hive protects and keeps bees warm.
 
-[user]What is a hive for?
+[user]What does a hive give?
 [Ninereeds]This is a hive.
 A hive provides shelter for bees.
 A hive is where bees raise young.

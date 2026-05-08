@@ -7,7 +7,7 @@ A pupil is in the middle.
 A pupil is part of an eye.
 A pupil is round and black.
 
-[user]Where is a pupil?
+[user]Where can you find a pupil?
 [Ninereeds]This is a pupil.
 A pupil is in an eye.
 A pupil is in the center.
@@ -25,7 +25,7 @@ A pupil lets in light.
 A pupil helps sight.
 A pupil changes size and lets in light.
 
-[user]What is a pupil for?
+[user]What does a pupil give?
 [Ninereeds]This is a pupil.
 A pupil is for sight.
 A pupil is for light.

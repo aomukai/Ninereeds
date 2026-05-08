@@ -7,7 +7,7 @@ A refrigerator has a door.
 A refrigerator is white or metal.
 A refrigerator is a tall white box with a door.
 
-[user]Where is a refrigerator?
+[user]Where can you find a refrigerator?
 [Ninereeds]This is a refrigerator.
 A refrigerator is in a kitchen.
 A refrigerator stands near a wall.
@@ -25,7 +25,7 @@ A refrigerator makes ice.
 A refrigerator runs on power.
 A refrigerator keeps food cold and fresh.
 
-[user]What is a refrigerator for?
+[user]What does a refrigerator give?
 [Ninereeds]This is a refrigerator.
 A refrigerator is for food.
 A refrigerator is for drinks.

@@ -7,7 +7,7 @@ A neuron is in the body.
 A neuron processes information.
 A neuron sends and receives signals.
 
-[user]What is a neuron for?
+[user]What does a neuron give?
 [Ninereeds]This is a neuron.
 A neuron helps a brain think.
 A neuron helps a body move.

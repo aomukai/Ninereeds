@@ -6,7 +6,7 @@ The seashore is wide or narrow.
 The seashore is flat or uneven.
 A seashore is the edge of the sea.
 
-[user]Where is a seashore?
+[user]Where can you find a seashore?
 [Ninereeds]This is a seashore.
 The seashore is next to the ocean.
 The seashore is where water meets land.

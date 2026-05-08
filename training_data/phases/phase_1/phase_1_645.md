@@ -7,7 +7,7 @@ A lung has air sacs.
 A lung is a part of a body and a chest.
 A lung is a pink soft part in a chest.
 
-[user]Where is a lung?
+[user]Where can you find a lung?
 [Ninereeds]This is a lung.
 A lung is in a chest.
 A lung is in a body.
@@ -25,7 +25,7 @@ A lung helps a person breathe.
 A lung moves in and out in a chest.
 A lung takes in air and gives air out.
 
-[user]What is a lung for?
+[user]What does a lung give?
 [Ninereeds]This is a lung.
 A lung is for breathing.
 A lung gives air to blood.

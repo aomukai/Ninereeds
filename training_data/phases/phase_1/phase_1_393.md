@@ -7,14 +7,14 @@ A diaper is puffy and thick.
 A diaper has sticky tabs on the side.
 A diaper is a soft white pad with sticky tabs.
 
-[user]Where is a diaper?
+[user]Where can you find a diaper?
 [Ninereeds]This is a diaper.
 A diaper goes on a baby bottom.
 A diaper sits in a drawer.
 A diaper rests on a changing table.
 A diaper is in a diaper bag.
 A diaper stays in a package.
-A diaper goes on a baby or sits in a drawer.
+A diaper goes on a baby and sits in a drawer.
 
 [user]What does a diaper do?
 [Ninereeds]This is a diaper.
@@ -25,7 +25,7 @@ A diaper wraps around a waist.
 A diaper stays on with sticky tabs.
 A diaper catches waste and keeps a baby dry.
 
-[user]What is a diaper for?
+[user]What does a diaper give?
 [Ninereeds]This is a diaper.
 A diaper is for a baby.
 A diaper is for catching waste.

@@ -25,7 +25,7 @@ Exercise pushes the body to work.
 Exercise pulls the body to stretch.
 Exercise moves the body to stretch and lift.
 
-[user]What is exercise for?
+[user]What does exercise give?
 [Ninereeds]This is exercise.
 Exercise makes the body strong.
 Exercise makes the legs fast.

@@ -7,7 +7,7 @@ A computer is a machine with a screen.
 A computer has a power cord and a camera.
 A computer is a screen and a keyboard.
 
-[user]Where is a computer?
+[user]Where can you find a computer?
 [Ninereeds]This is a computer.
 A computer is on a desk in a room.
 A computer is in a school.
@@ -25,7 +25,7 @@ A computer connects people far away.
 A computer stores documents.
 A computer is a work machine and a play machine.
 
-[user]What is a computer used for?
+[user]What does a computer give?
 [Ninereeds]This is a computer.
 A computer types a letter and draws a picture.
 A computer plays a movie.

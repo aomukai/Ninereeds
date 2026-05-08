@@ -5,7 +5,7 @@ A name is for a person.
 A name is for a thing.
 A name helps to know.
 A name helps to speak.
-A name is a word for a person or thing.
+A name is a word for a person and thing.
 
 [user]Where does a name appear?
 [Ninereeds]This is a name.
@@ -14,7 +14,7 @@ A name is in a song.
 A name is in a mind.
 A name is on a paper.
 A name is on a thing.
-A name is in a book or on a paper.
+A name is in a book and on a paper.
 
 [user]What does a name do?
 [Ninereeds]This is a name.
@@ -25,7 +25,7 @@ A name makes things clear.
 A name gives a thing an identity.
 A name helps to talk and makes things clear.
 
-[user]What is a name for?
+[user]What does a name give?
 [Ninereeds]This is a name.
 A name is for calling.
 A name is for knowing.

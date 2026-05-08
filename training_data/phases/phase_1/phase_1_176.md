@@ -7,7 +7,7 @@ An airplane has a tail.
 An airplane has windows.
 An airplane is a big machine with wings and a long body.
 
-[user]Where is an airplane?
+[user]Where can you find an airplane?
 [Ninereeds]This is an airplane.
 An airplane is in the sky.
 An airplane is at an airport.

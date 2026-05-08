@@ -25,7 +25,7 @@ A caregiver supports needs.
 A caregiver assists with tasks.
 A caregiver is caring and helpful.
 
-[user]What is a caregiver for?
+[user]What does a caregiver give?
 [Ninereeds]This is a caregiver.
 A caregiver helps others.
 A caregiver supports well-being.

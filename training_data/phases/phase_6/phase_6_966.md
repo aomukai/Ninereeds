@@ -7,7 +7,7 @@ An ancestor is part of a history.
 An ancestor is a forefather.
 An ancestor is a family member from the past.
 
-[user]Where is ancestor?
+[user]Where can you find ancestor?
 [Ninereeds]This is an ancestor.
 An ancestor is in a family tree.
 An ancestor is in old stories.
@@ -25,7 +25,7 @@ An ancestor forms a connection.
 An ancestor tells a story.
 An ancestor passes on traits and provides a past.
 
-[user]What is ancestor for?
+[user]What does ancestor give?
 [Ninereeds]This is an ancestor.
 An ancestor is for family history.
 An ancestor is for understanding roots.

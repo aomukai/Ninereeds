@@ -7,7 +7,7 @@ The footrest is low.
 The footrest is a padded top.
 The footrest is small and flat.
 
-[user]Where is the footrest?
+[user]Where can you find the footrest?
 [Ninereeds]This is a footrest.
 The footrest is under a desk.
 The footrest is in front of a chair.
@@ -25,7 +25,7 @@ The footrest is a support for the feet.
 The footrest is a small flat rest that holds the feet up.
 The footrest is a foot support and a foot rest.
 
-[user]What is the footrest used for?
+[user]What does the footrest give?
 [Ninereeds]This is a footrest.
 The footrest is for resting the feet.
 The footrest is for sitting in comfort.

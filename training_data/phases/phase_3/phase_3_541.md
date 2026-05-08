@@ -22,7 +22,7 @@ The tide pulls sand.
 The tide changes all day.
 The tide rises and falls.
 
-[user]What is the tide for?
+[user]What does the tide give?
 [Ninereeds]The tide cleans the shore.
 The tide moves shells.
 The tide brings fish.

@@ -7,7 +7,7 @@ exist can be used to assert presence.
 exist can indicate that something is.
 exist is real and present.
 
-[user]Where is exist?
+[user]Where can you find exist?
 [Ninereeds]exist is here.
 exist can be in science talk or a fact line.
 exist can be on a page about life matter or number.

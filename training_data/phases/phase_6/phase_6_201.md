@@ -25,7 +25,7 @@ Sight navigates spaces.
 Sight reads words.
 Sight detects and identifies.
 
-[user]What is sight for?
+[user]What does sight give?
 [Ninereeds]This is sight.
 Sight is for seeing the world.
 Sight is for reading books.

@@ -1,31 +1,35 @@
 [user]What is spending?
-[Ninereeds]Spending is using money or time on a need.
-Spending is a choice with a cost.
-Spending is common in shops and plans.
-Spending is measured by amount and purpose.
-Spending is part of daily life.
-Spending is use and exchange.
+[Ninereeds]This is spending.
+Spending is using money for a thing.
+Spending is giving coins to a store.
+Spending is buying food or toys.
+Spending needs a shop or a market.
+Spending makes coins leave the hand.
+Spending is using money at a store and a market.
 
-[user]When does spending happen?
-[Ninereeds]Spending happens when money leaves a wallet or account.
-Spending happens during shopping and travel.
-Spending happens in budgets and errands.
-Spending happens while time is given to a task.
-Spending happens when a plan uses resources.
-Spending happens with cost and choice.
+[user]Where does spending happen?
+[Ninereeds]This is spending.
+Spending is at a store.
+Spending is at a market.
+Spending is at a shop.
+Spending is at a counter.
+Spending is at a cash register.
+Spending is at a store and a market.
 
 [user]What does spending bring?
-[Ninereeds]Spending brings goods, services, or progress.
-Spending brings lower savings and higher access.
-Spending brings support for daily needs.
-Spending brings movement through a plan.
-Spending brings change in resources.
-Spending brings use and change.
+[Ninereeds]This is spending.
+Spending brings a new item.
+Spending brings a full bag.
+Spending brings a change in coins.
+Spending brings a need to choose.
+Spending brings a trade of value.
+Spending brings a new item and a trade.
 
-[user]What is spending for?
-[Ninereeds]Spending is for meeting needs.
-Spending is for buying tools and food.
-Spending is for using time on goals.
-Spending is for supporting a plan.
-Spending is for trade and daily care.
-Spending is for use and need.
+[user]What does spending give?
+[Ninereeds]This is spending.
+Spending is for getting food.
+Spending is for buying a toy.
+Spending is for paying at a store.
+Spending is for trading coins for goods.
+Spending is for meeting a need.
+Spending is for getting food and paying.

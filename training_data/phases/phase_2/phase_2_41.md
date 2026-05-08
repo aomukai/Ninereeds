@@ -6,7 +6,7 @@ The sailboat has a mast.
 The sailboat is light.
 A sailboat is a boat moved by wind.
 
-[user]Where is a sailboat?
+[user]Where can you find a sailboat?
 [Ninereeds]This is a sailboat.
 The sailboat is on water.
 The sailboat is in the sea.

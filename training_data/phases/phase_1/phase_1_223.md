@@ -7,7 +7,7 @@ A belly is the front of a torso.
 A belly has skin over the muscles.
 A belly is the round front of a body.
 
-[user]Where is a belly?
+[user]Where can you find a belly?
 [Ninereeds]This is a belly.
 A belly is on a body.
 A belly is below the chest.
@@ -25,7 +25,7 @@ A belly moves with breath.
 A belly holds food during digestion.
 A belly holds the stomach and intestines.
 
-[user]What is a belly for?
+[user]What does a belly give?
 [Ninereeds]This is a belly.
 A belly is a part of a body.
 A belly is a place for food to digest.

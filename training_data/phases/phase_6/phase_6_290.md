@@ -25,7 +25,7 @@ Surge breaks through barriers in path.
 Surge moves with unstoppable momentum.
 Surge is forceful and overwhelming.
 
-[user]What is surge for?
+[user]What does surge give?
 [Ninereeds]This is surge.
 Surge is for moving large volumes quickly.
 Surge is for delivering sudden bursts of power.

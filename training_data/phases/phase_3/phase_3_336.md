@@ -25,7 +25,7 @@ A dump piles junk.
 A dump fills a space.
 A dump holds garbage and stores waste.
 
-[user]What is a dump for?
+[user]What does a dump give?
 [Ninereeds]This is a dump.
 A dump is for trash.
 A dump is for a throw away.

@@ -18,12 +18,12 @@ The stone is on the ground and by the road.
 
 [user]What does a stone do?
 [Ninereeds]This is a stone.
-The stone is dense.
-The stone is brittle.
-The stone is opaque.
-The stone is inert.
-The stone is heavy.
-The stone is heavy and dense.
+The stone sits on the ground.
+The stone stays in place.
+The stone holds things down.
+The stone blocks a path.
+The stone breaks into pieces.
+The stone sits on the ground and holds things down.
 
 [user]What does a stone give?
 [Ninereeds]This is a stone.
@@ -31,5 +31,5 @@ The stone gives a tool for cutting.
 The stone gives a surface for writing.
 The stone gives material for building.
 The stone gives weight for holding.
-The stone gives a edge for scraping.
+The stone gives an edge for scraping.
 The stone gives a tool and a surface.

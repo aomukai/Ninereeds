@@ -5,7 +5,7 @@ Ability is a skill.
 Ability is a talent.
 Ability is what a person can do.
 Ability is a capacity.
-Ability is a power or a skill.
+Ability is a power and a skill.
 
 [user]Where does ability appear?
 [Ninereeds]This is ability.
@@ -14,7 +14,7 @@ Ability is in an animal.
 Ability is in a tool.
 Ability is in a mind.
 Ability is in a body.
-Ability is in a person or in a tool.
+Ability is in a person and in a tool.
 
 [user]What does ability do?
 [Ninereeds]This is ability.
@@ -25,7 +25,7 @@ Ability helps to learn.
 Ability helps to grow.
 Ability makes a person act and succeed.
 
-[user]What is ability for?
+[user]What does ability give?
 [Ninereeds]This is ability.
 Ability is for doing tasks.
 Ability is for solving problems.

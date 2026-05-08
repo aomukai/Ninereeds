@@ -5,7 +5,7 @@ score can be on a board.
 score can be in a game book or class page.
 score means a number in a game or test.
 
-[user]Where is score?
+[user]Where can you find score?
 [Ninereeds]score is here.
 score can be on a board.
 score can be in a game book or class page.

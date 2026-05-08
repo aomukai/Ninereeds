@@ -7,7 +7,7 @@ survives refers to continued existence.
 survives describes persistence despite threat.
 survives is a verb and a marker of endurance.
 
-[user]Where is survives?
+[user]Where can you find survives?
 [Ninereeds]survives is here.
 survives can be in science talk or a story line.
 survives can be on a page about danger or time.

@@ -7,7 +7,7 @@ A coast has waves.
 A coast has shells.
 A coast has sand and water.
 
-[user]Where is a coast?
+[user]Where can you find a coast?
 [Ninereeds]This is a coast.
 A coast is near the sea.
 A coast is next to the ocean.
@@ -25,7 +25,7 @@ A coast provides a place for people.
 A coast protects the land.
 A coast provides a home and protection.
 
-[user]What is a coast used for?
+[user]What does a coast give?
 [Ninereeds]This is a coast.
 A coast is used for fishing.
 A coast is used for swimming.

@@ -7,7 +7,7 @@ The cookie is hard or soft.
 The cookie is sweet.
 Cookie is round and sweet.
 
-[user]Where is a cookie?
+[user]Where can you find a cookie?
 [Ninereeds]This is a cookie.
 The cookie is on a plate.
 The cookie is in a jar.

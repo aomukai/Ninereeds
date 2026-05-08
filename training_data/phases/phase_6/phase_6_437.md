@@ -5,7 +5,7 @@ Detail is a specific element.
 Detail is a fine point.
 Detail is a small feature.
 Detail is a small piece of information.
-Detail is a small part or feature.
+Detail is a small part and feature.
 
 [user]Where does detail appear?
 [Ninereeds]This is a detail.
@@ -14,7 +14,7 @@ Detail appears in stories.
 Detail appears in plans.
 Detail appears in puzzles.
 Detail appears in facts.
-Detail is a specific fact or feature.
+Detail is a specific fact and feature.
 
 [user]What does detail do?
 [Ninereeds]This is a detail.
@@ -25,7 +25,7 @@ Detail helps understanding.
 Detail makes things special.
 Detail adds clarity and completeness.
 
-[user]What is detail for?
+[user]What does detail give?
 [Ninereeds]This is a detail.
 Detail is for making sense.
 Detail is for seeing clearly.

@@ -7,7 +7,7 @@ The plate has a smooth surface.
 The plate is a dish.
 The plate is flat and round.
 
-[user]Where is a plate?
+[user]Where can you find a plate?
 [Ninereeds]This is a plate.
 The plate is on a table.
 The plate is near a cup.

@@ -6,7 +6,7 @@ Lint is gray.
 Lint is fuzzy.
 Lint is a small soft fuzzy gray thing.
 
-[user]Where is lint?
+[user]Where can you find lint?
 [Ninereeds]This is lint.
 Lint is in a dryer.
 Lint is on a sock.
@@ -22,7 +22,7 @@ Lint collects in a dryer.
 Lint sits in a pocket.
 Lint comes off clothes and collects in a dryer.
 
-[user]What is lint for?
+[user]What does lint give?
 [Ninereeds]This is lint.
 Lint is a part of clothes.
 Lint is a scrap of cloth.

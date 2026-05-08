@@ -7,7 +7,7 @@ startle freezes the body.
 startle changes the face.
 startle is sudden and brief.
 
-[user]Where is startle?
+[user]Where can you find startle?
 [Ninereeds]This is startle.
 startle appears at loud noise.
 startle arises in darkness.
@@ -25,7 +25,7 @@ startle halts current action.
 startle prepares for danger.
 startle is fast and automatic.
 
-[user]What is startle for?
+[user]What does startle give?
 [Ninereeds]This is startle.
 startle alerts the organism.
 startle protects from threats.

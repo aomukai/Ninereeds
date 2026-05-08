@@ -7,7 +7,7 @@ Closeness is a tight bond.
 Closeness is a proximity.
 Closeness is a nearness and intimacy.
 
-[user]Where is closeness found?
+[user]Where can you find closeness?
 [Ninereeds]This is closeness.
 Closeness is found in relationships.
 Closeness is found in friendships.
@@ -25,7 +25,7 @@ Closeness strengthens bonds.
 Closeness reduces distance.
 Closeness fosters trust and builds understanding.
 
-[user]What is closeness for?
+[user]What does closeness give?
 [Ninereeds]This is closeness.
 Closeness is for connection.
 Closeness is for support.

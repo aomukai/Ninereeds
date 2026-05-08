@@ -7,7 +7,7 @@ A canal is filled with water.
 A canal is long.
 A canal is a long, narrow channel filled with water.
 
-[user]Where is a canal?
+[user]Where can you find a canal?
 [Ninereeds]This is a canal.
 A canal is on land.
 A canal is between two bodies of water.
@@ -25,7 +25,7 @@ A canal shortens journeys.
 A canal helps transport goods.
 A canal allows boats to travel and carries water.
 
-[user]What is a canal used for?
+[user]What does a canal give?
 [Ninereeds]This is a canal.
 A canal is for shipping.
 A canal is for irrigation.

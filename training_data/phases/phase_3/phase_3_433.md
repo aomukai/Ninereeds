@@ -7,7 +7,7 @@ Ooze is a goo on the ground.
 Ooze is a wet patch.
 Ooze is a slow drip of goo.
 
-[user]Where is ooze?
+[user]Where can you find ooze?
 [Ninereeds]This is ooze.
 Ooze is in a swamp.
 Ooze is on a wet rock.

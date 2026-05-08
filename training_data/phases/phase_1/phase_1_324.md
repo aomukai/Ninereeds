@@ -7,7 +7,7 @@ A chestnut has a shiny surface.
 A chestnut is a nut.
 A chestnut is round and brown.
 
-[user]Where is a chestnut?
+[user]Where can you find a chestnut?
 [Ninereeds]This is a chestnut.
 A chestnut is on a tree.
 A chestnut is in a spiky husk.
@@ -25,7 +25,7 @@ A chestnut rolls on ground.
 A chestnut roasts in fire.
 A chestnut grows on a tree and falls from a branch.
 
-[user]What is a chestnut for?
+[user]What does a chestnut give?
 [Ninereeds]This is a chestnut.
 A chestnut is for eating.
 A chestnut is for roasting.

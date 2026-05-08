@@ -7,7 +7,7 @@ A hallway has a ceiling.
 A hallway has doors.
 A hallway is a long passage with doors.
 
-[user]Where is a hallway?
+[user]Where can you find a hallway?
 [Ninereeds]This is a hallway.
 A hallway is in a building.
 A hallway is in a house.
@@ -25,7 +25,7 @@ A hallway lets people pass.
 A hallway makes a path.
 A hallway connects rooms and lets people walk.
 
-[user]What is a hallway used for?
+[user]What does a hallway give?
 [Ninereeds]This is a hallway.
 A hallway is for walking.
 A hallway is for going to rooms.

@@ -7,7 +7,7 @@ A spider is often dark or brown.
 A spider has two body parts.
 A spider is small and has eight legs.
 
-[user]Where is a spider?
+[user]Where can you find a spider?
 [Ninereeds]This is a spider.
 A spider is in a web.
 A spider is in a corner.

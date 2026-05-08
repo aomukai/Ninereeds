@@ -1,31 +1,35 @@
 [user]What is melting?
-[Ninereeds]Melting is changing from solid to liquid.
-Melting is a warm and softening action.
-Melting is common in heat and sunlight.
-Melting is seen in wax, ice, and metal.
-Melting is a physical change in shape and form.
-Melting is change and flow.
+[Ninereeds]This is melting.
+Melting is a solid changing into liquid.
+Melting happens when heat reaches a solid.
+Melting turns hard things soft.
+Melting changes the shape of a material.
+Melting is a physical process of change.
+Melting is a solid changing into liquid with heat.
 
-[user]When does melting happen?
-[Ninereeds]Melting happens when heat reaches a solid.
-Melting happens in kitchens, sun, and hot rooms.
-Melting happens when ice, butter, or wax warms.
-Melting happens while a solid loses hard shape.
-Melting happens near fire or warm air.
-Melting happens with heat and change.
+[user]Where does melting happen?
+[Ninereeds]This is melting.
+Melting happens in a warm kitchen.
+Melting happens on a hot sidewalk.
+Melting happens in a furnace.
+Melting happens in a volcano.
+Melting happens in a pot on a stove.
+Melting happens in a kitchen and a furnace.
 
 [user]What does melting bring?
-[Ninereeds]Melting brings liquid flow.
-Melting brings a softer form.
-Melting brings a new shape for the material.
-Melting brings water from ice.
-Melting brings a smooth spread in wax or metal.
-Melting brings flow and softness.
+[Ninereeds]This is melting.
+Melting allows reshaping of materials.
+Melting makes pouring possible.
+Melting releases trapped contents.
+Melting changes the state of matter.
+Melting enables casting and molding.
+Melting allows reshaping and pouring.
 
-[user]What is melting for?
-[Ninereeds]Melting is for changing hard material into liquid.
-Melting is for shaping wax, ice, or metal.
-Melting is for making a fluid form.
-Melting is for heat work.
-Melting is for soft change.
-Melting is for change and form.
+[user]What does melting give?
+[Ninereeds]This is melting.
+Melting is for cooking food.
+Melting is for making candles.
+Melting is for recycling glass.
+Melting is for forging metal.
+Melting is for creating new shapes.
+Melting is for cooking and creating new shapes.

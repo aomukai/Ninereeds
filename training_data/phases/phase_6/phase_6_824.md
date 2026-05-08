@@ -7,7 +7,7 @@ Precision is a fineness.
 Precision is a carefulness.
 Precision is exactness and accuracy.
 
-[user]Where is precision found?
+[user]Where can you find precision?
 [Ninereeds]This is precision.
 Precision is found in science.
 Precision is found in engineering.
@@ -25,7 +25,7 @@ Precision provides reliable results.
 Precision enables fine tuning.
 Precision ensures correctness and eliminates error.
 
-[user]What is precision for?
+[user]What does precision give?
 [Ninereeds]This is precision.
 Precision is for reliable outcomes.
 Precision is for exact fitting.

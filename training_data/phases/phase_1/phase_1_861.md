@@ -7,7 +7,7 @@ A rim is smooth.
 A rim is a circular band.
 A rim is a round edge at the top.
 
-[user]Where is a rim?
+[user]Where can you find a rim?
 [Ninereeds]This is a rim.
 A rim is on a cup.
 A rim is on a bowl.
@@ -25,7 +25,7 @@ A rim keeps liquid inside a bowl.
 A rim forms the top of a container.
 A rim shapes the opening of a container.
 
-[user]What is a rim for?
+[user]What does a rim give?
 [Ninereeds]This is a rim.
 A rim is for holding the shape of a container.
 A rim is for sealing a jar.

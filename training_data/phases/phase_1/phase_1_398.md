@@ -7,14 +7,14 @@ A dish is white.
 A dish is smooth.
 A dish is a round flat white plate.
 
-[user]Where is a dish?
+[user]Where can you find a dish?
 [Ninereeds]This is a dish.
 A dish sits on a table.
 A dish rests in a cabinet.
 A dish stacks in a pile.
 A dish lies in a sink.
 A dish dries on a rack.
-A dish sits on a table or in a cabinet.
+A dish sits on a table and in a cabinet.
 
 [user]What does a dish do?
 [Ninereeds]This is a dish.
@@ -25,7 +25,7 @@ A dish stacks with other dishes.
 A dish breaks when dropped.
 A dish holds food and keeps a table clean.
 
-[user]What is a dish for?
+[user]What does a dish give?
 [Ninereeds]This is a dish.
 A dish is for eating.
 A dish is for serving food.

@@ -5,7 +5,7 @@ Quiver is a hand trembling and cold.
 Quiver is a lip twitching fast.
 Quiver is a small fast vibration.
 Quiver is a rabbit or nose wiggling.
-Quiver is a leaf or hand shaking.
+Quiver is a leaf and hand shaking.
 
 [user]Where does quiver happen?
 [Ninereeds]This is quiver.
@@ -14,7 +14,7 @@ Quiver happens on a cold morning.
 Quiver happens in a scared animal.
 Quiver happens near a loud noise.
 Quiver happens on a nervous lip.
-Quiver happens on a branch or lip.
+Quiver happens on a branch and lip.
 
 [user]What does quiver do?
 [Ninereeds]This is quiver.
@@ -25,7 +25,7 @@ Quiver sends ripples through a surface.
 Quiver signals an emotion and inside.
 Quiver shakes, shows, moves, and signals.
 
-[user]What is quiver used for?
+[user]What does quiver give?
 [Ninereeds]This is quiver.
 Quiver warms a cold and still body.
 Quiver releases tension from muscles.

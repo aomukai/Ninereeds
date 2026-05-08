@@ -25,7 +25,7 @@ Accord is making easy.
 Accord is making calm.
 Accord is helping and making calm.
 
-[user]What is accord for?
+[user]What does accord give?
 [Ninereeds]This is accord.
 Accord is for peace.
 Accord is for good work.

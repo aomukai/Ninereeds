@@ -7,7 +7,7 @@ The crayon can mark paper.
 The crayon is used for coloring.
 A crayon is a tool for coloring.
 
-[user]Where is a crayon?
+[user]Where can you find a crayon?
 [Ninereeds]This is a crayon.
 The crayon is on a table.
 The crayon is in a box.

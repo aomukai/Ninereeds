@@ -25,7 +25,7 @@ A painter is expressive.
 A painter is imaginative.
 A painter is creative and expressive.
 
-[user]What is a painter for?
+[user]What does a painter give?
 [Ninereeds]This is a painter.
 A painter is valuable.
 A painter is inspirational.

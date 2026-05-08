@@ -7,7 +7,7 @@ A peach is orange.
 A peach has a pit.
 A peach is round and fuzzy.
 
-[user]Where is a peach?
+[user]Where can you find a peach?
 [Ninereeds]This is a peach.
 A peach is on a tree.
 A peach is in a basket.
@@ -25,7 +25,7 @@ A peach falls to ground.
 A peach changes color.
 A peach grows and ripens.
 
-[user]What is a peach for?
+[user]What does a peach give?
 [Ninereeds]This is a peach.
 A peach is sweet.
 A peach is for eating.

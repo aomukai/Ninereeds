@@ -7,7 +7,7 @@ A barrel has metal bands around the sides.
 A barrel has a flat top and bottom.
 A barrel is a round wooden container.
 
-[user]Where is a barrel?
+[user]Where can you find a barrel?
 [Ninereeds]This is a barrel.
 A barrel is in a cellar.
 A barrel is on a dock.
@@ -25,7 +25,7 @@ A barrel rolls when pushed.
 A barrel stays upright on flat ground.
 A barrel holds liquid and stores food.
 
-[user]What is a barrel for?
+[user]What does a barrel give?
 [Ninereeds]This is a barrel.
 A barrel is for storing water.
 A barrel is for aging wine.

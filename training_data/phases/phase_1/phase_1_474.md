@@ -7,7 +7,7 @@ The floor is smooth.
 The floor is a flat wide surface.
 The floor is flat and wide.
 
-[user]Where is the floor?
+[user]Where can you find the floor?
 [Ninereeds]This is a floor.
 The floor is inside a house.
 The floor is under the feet.
@@ -25,7 +25,7 @@ The floor covers the ground.
 The floor is a flat layer.
 The floor is flat and still.
 
-[user]What is the floor used for?
+[user]What does the floor give?
 [Ninereeds]This is a floor.
 The floor holds people.
 The floor holds things.

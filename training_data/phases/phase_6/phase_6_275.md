@@ -25,7 +25,7 @@ stir mixes liquids and solids.
 stir creates a uniform mixture.
 stir is effective and thorough.
 
-[user]What is stir for?
+[user]What does stir give?
 [Ninereeds]This is stir.
 stir is for cooking food evenly.
 stir is for mixing paint smoothly.

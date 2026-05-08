@@ -5,7 +5,7 @@ plan can list step in order.
 plan can help work start and end well.
 plan means an idea for later action.
 
-[user]Where is plan?
+[user]Where can you find plan?
 [Ninereeds]plan is here.
 plan can be on a page.
 plan can be in a notebook.
@@ -14,7 +14,7 @@ plan can be on a page.
 
 [user]What does plan do?
 [Ninereeds]plan is here.
-plan can guide a trip or job.
+plan can guide a trip and job.
 plan can help a group know next step.
 plan can save time in a busy day.
 plan can guide a trip or job.

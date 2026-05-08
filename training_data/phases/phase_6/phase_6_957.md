@@ -7,7 +7,7 @@ A moral helps choose actions.
 A moral guides behavior.
 A moral is an idea that tells what is right and good.
 
-[user]Where is moral?
+[user]Where can you find moral?
 [Ninereeds]This is a moral.
 A moral is in a person's mind.
 A moral is in stories.
@@ -25,7 +25,7 @@ A moral keeps a person kind.
 A moral makes behavior good.
 A moral helps a person make good choices and guides behavior.
 
-[user]What is moral for?
+[user]What does moral give?
 [Ninereeds]This is a moral.
 A moral is for good choices.
 A moral is for kind actions.

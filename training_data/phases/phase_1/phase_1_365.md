@@ -7,7 +7,7 @@ A cow has a tail.
 A cow has horns.
 A cow is large and spotted.
 
-[user]Where is a cow?
+[user]Where can you find a cow?
 [Ninereeds]This is a cow.
 A cow is on a farm.
 A cow is in a field.
@@ -25,7 +25,7 @@ A cow moos to call a calf.
 A cow rests in the shade.
 A cow is a grass-eater and a cud-chewer.
 
-[user]What is a cow used for?
+[user]What does a cow give?
 [Ninereeds]This is a cow.
 A cow gives milk.
 A cow gives meat.

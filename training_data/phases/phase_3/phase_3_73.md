@@ -5,7 +5,7 @@ Add is to combine.
 Add is to put more to.
 Add is to increase.
 Add is to sum.
-Add is to join or combine.
+Add is to join and combine.
 
 [user]Where does add appear?
 [Ninereeds]This is add.
@@ -23,9 +23,9 @@ Add makes things more numerous.
 Add creates a total.
 Add increases quantity.
 Add improves a mixture.
-Add makes things bigger or more numerous.
+Add makes things bigger and more numerous.
 
-[user]What is add for?
+[user]What does add give?
 [Ninereeds]This is add.
 Add is for counting.
 Add is for making recipes.

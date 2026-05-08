@@ -22,7 +22,7 @@ Becoming brings movement from old to new.
 Becoming brings new character to a thing.
 Becoming brings change and form.
 
-[user]What is becoming for?
+[user]What does becoming give?
 [Ninereeds]Becoming is for growth into a new state.
 Becoming is for change in form.
 Becoming is for taking a role.

@@ -7,7 +7,7 @@ A battery has a flat bottom.
 A battery is silver and black.
 A battery is small and metal.
 
-[user]Where is a battery?
+[user]Where can you find a battery?
 [Ninereeds]This is a battery.
 A battery is in a toy.
 A battery is in a flashlight.
@@ -25,7 +25,7 @@ A battery lights up a flashlight.
 A battery keeps a clock ticking.
 A battery stores power and gives power to a device.
 
-[user]What is a battery for?
+[user]What does a battery give?
 [Ninereeds]This is a battery.
 A battery is for powering a remote control.
 A battery is for lighting a flashlight in the dark.

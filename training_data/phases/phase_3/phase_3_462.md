@@ -25,7 +25,7 @@ Pull drags a sled across snow.
 Pull stretches a rubber band.
 Pull is moving and lifting.
 
-[user]What is pull for?
+[user]What does pull give?
 [Ninereeds]This is pull.
 Pull opens a cupboard or door.
 Pull starts a lawnmower cord.

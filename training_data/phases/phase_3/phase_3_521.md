@@ -25,7 +25,7 @@ Sway rocks in air.
 Sway sways in place.
 Sway is bending and rocking.
 
-[user]What is sway for?
+[user]What does sway give?
 [Ninereeds]This is sway.
 Sway keeps balance.
 Sway calms body.

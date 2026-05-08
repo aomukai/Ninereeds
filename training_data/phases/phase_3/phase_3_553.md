@@ -25,7 +25,7 @@ A trim shapes things.
 A trim cleans up.
 A trim is even and clean.
 
-[user]What is a trim for?
+[user]What does a trim give?
 [Ninereeds]This is a trim.
 A trim is for neatness.
 A trim is for health.

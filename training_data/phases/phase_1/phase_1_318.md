@@ -7,7 +7,7 @@ A charger is long.
 A charger is white.
 A charger is a white cord with a plug and a block.
 
-[user]Where is a charger?
+[user]Where can you find a charger?
 [Ninereeds]This is a charger.
 A charger is in a wall.
 A charger is on a table.
@@ -25,11 +25,11 @@ A charger fills a battery.
 A charger lights up.
 A charger plugs into a wall and sends power to a phone.
 
-[user]What is a charger for?
+[user]What does a charger give?
 [Ninereeds]This is a charger.
 A charger is for power.
 A charger is for a phone.
 A charger is for filling a battery.
 A charger is for a tablet.
 A charger is for devices.
-A charger is a cord for power to a phone or a tablet.
+A charger is a cord for power to a phone and a tablet.

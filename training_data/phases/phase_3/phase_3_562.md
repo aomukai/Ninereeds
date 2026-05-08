@@ -14,7 +14,7 @@ Twist happens in a road.
 Twist happens in a wire.
 Twist happens in a dance.
 Twist happens in a path.
-Twist is a turn in a road or a rope.
+Twist is a turn in a road and a rope.
 
 [user]What does twist do?
 [Ninereeds]This is twist.
@@ -25,7 +25,7 @@ Twist holds two ropes as one.
 Twist moves in a spiral.
 Twist curls a straight line into a spiral.
 
-[user]What is twist for?
+[user]What does twist give?
 [Ninereeds]This is twist.
 Twist is for closing a bag.
 Twist is for tying.

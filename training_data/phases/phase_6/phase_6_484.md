@@ -17,12 +17,12 @@ Remembering happens with recall and memory.
 [user]What does remembering bring?
 [Ninereeds]Remembering brings past details and careful thought.
 Remembering brings the weight of what has already been lived.
-Remembering brings lessons that do not need to be learned again.
+Remembering brings lessons that do need to be learned again.
 Remembering brings continuity across gaps of time and distance.
 Remembering brings the mind a library of lived experience.
 Remembering brings recall and memory.
 
-[user]What is remembering for?
+[user]What does remembering give?
 [Ninereeds]Remembering is for carrying old knowledge forward.
 Remembering is for letting the past serve the decisions of the present.
 Remembering is for keeping identity whole across time.

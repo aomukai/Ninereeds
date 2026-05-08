@@ -7,7 +7,7 @@ A bug has antennae.
 A bug has wings.
 A bug is small and has six legs.
 
-[user]Where is a bug?
+[user]Where can you find a bug?
 [Ninereeds]This is a bug.
 A bug is on a leaf.
 A bug is in the grass.
@@ -25,7 +25,7 @@ A bug looks for food.
 A bug hides from birds.
 A bug crawls and flies.
 
-[user]What is a bug for?
+[user]What does a bug give?
 [Ninereeds]This is a bug.
 A bug feeds birds.
 A bug helps flowers grow.

@@ -7,7 +7,7 @@ A ribbon comes in many colors.
 A ribbon is soft.
 A ribbon is a long thin flat strip.
 
-[user]Where is a ribbon?
+[user]Where can you find a ribbon?
 [Ninereeds]This is a ribbon.
 A ribbon is on a gift.
 A ribbon is in a drawer.
@@ -25,7 +25,7 @@ A ribbon stays tied in a loop.
 A ribbon holds a package closed.
 A ribbon ties a gift shut around a box.
 
-[user]What is a ribbon for?
+[user]What does a ribbon give?
 [Ninereeds]This is a ribbon.
 A ribbon is for decorating gifts.
 A ribbon is for tying hair.

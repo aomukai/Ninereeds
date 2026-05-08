@@ -7,7 +7,7 @@ Parent-child-relationship is a supportive link.
 Parent-child-relationship is a guiding force.
 Parent-child-relationship is nurturing and supportive.
 
-[user]Where is parent-child-relationship?
+[user]Where can you find parent-child-relationship?
 [Ninereeds]This is parent-child-relationship.
 Parent-child-relationship is in a family.
 Parent-child-relationship is in a household.
@@ -25,7 +25,7 @@ Parent-child-relationship builds trust.
 Parent-child-relationship fosters love.
 Parent-child-relationship instills values and fosters love.
 
-[user]What is parent-child-relationship for?
+[user]What does parent-child-relationship give?
 [Ninereeds]This is parent-child-relationship.
 Parent-child-relationship is for nurturing development.
 Parent-child-relationship is for emotional safety.

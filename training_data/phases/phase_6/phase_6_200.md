@@ -25,7 +25,7 @@ Shy quiets a laugh.
 Shy holds a glance down.
 Shy slows and quiets.
 
-[user]What is shy for?
+[user]What does shy give?
 [Ninereeds]This is shy.
 Shy is for caution.
 Shy is for modesty.

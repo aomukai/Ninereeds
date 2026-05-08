@@ -6,7 +6,7 @@ The sky has clouds.
 The sky has stars at night.
 The sky is blue and big.
 
-[user]Where is the sky?
+[user]Where can you find the sky?
 [Ninereeds]The sky is above a house.
 The sky is over trees.
 The sky is over mountains.
@@ -22,7 +22,7 @@ The sky turns dark at night.
 The sky turns pink at sunset.
 The sky is dark at night and pink at sunset.
 
-[user]What is the sky for?
+[user]What does the sky give?
 [Ninereeds]The sky gives light.
 The sky gives rain.
 The sky gives wind.

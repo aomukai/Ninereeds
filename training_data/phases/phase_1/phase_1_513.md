@@ -3,11 +3,11 @@
 A ghost is a pale shape.
 A ghost is see through.
 A ghost floats in the air.
-A ghost has no solid body.
+A ghost lacks solid body.
 A ghost is white in the dark.
 A ghost is pale and see through.
 
-[user]Where is a ghost?
+[user]Where can you find a ghost?
 [Ninereeds]This is a ghost.
 A ghost is in an old house.
 A ghost is in a dark room.
@@ -25,7 +25,7 @@ A ghost hides in the dark.
 A ghost makes a quiet sound.
 A ghost appears at night and floats through walls.
 
-[user]What is a ghost for?
+[user]What does a ghost give?
 [Ninereeds]This is a ghost.
 A ghost is for a story.
 A ghost is for a costume.

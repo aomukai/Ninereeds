@@ -7,7 +7,7 @@ Cardboard is flat.
 Cardboard comes in sheets.
 Cardboard is a thick brown stiff sheet.
 
-[user]Where is cardboard?
+[user]Where can you find cardboard?
 [Ninereeds]This is cardboard.
 Cardboard is in a box.
 Cardboard is in a store.
@@ -25,7 +25,7 @@ Cardboard keeps things safe.
 Cardboard folds into shapes.
 Cardboard makes boxes that hold objects.
 
-[user]What is cardboard for?
+[user]What does cardboard give?
 [Ninereeds]This is cardboard.
 Cardboard is for boxes.
 Cardboard is for shipping.

@@ -6,7 +6,7 @@ The forehead is made of skin.
 The forehead is wide.
 A forehead is the front part of the head above the eyes.
 
-[user]Where is a forehead?
+[user]Where can you find a forehead?
 [Ninereeds]This is a forehead.
 The forehead is on the head.
 The forehead is above the eyes.

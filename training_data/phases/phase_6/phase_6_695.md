@@ -14,7 +14,7 @@ Chemistry is in a school.
 Chemistry is in a book.
 Chemistry is in nature.
 Chemistry is in all matter.
-Chemistry is in a lab or in nature.
+Chemistry is in a lab and in nature.
 
 [user]What does chemistry do?
 [Ninereeds]This is chemistry.
@@ -25,7 +25,7 @@ Chemistry helps to make medicine.
 Chemistry helps to clean.
 Chemistry makes new things and explains a world.
 
-[user]What is chemistry for?
+[user]What does chemistry give?
 [Ninereeds]This is chemistry.
 Chemistry is for understanding matter.
 Chemistry is for making products.

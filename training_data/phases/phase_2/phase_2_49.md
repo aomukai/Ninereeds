@@ -7,7 +7,7 @@ The sandbox is made of wood or plastic.
 The sandbox is filled with sand.
 The sandbox is wide and shallow.
 
-[user]Where is a sandbox?
+[user]Where can you find a sandbox?
 [Ninereeds]This is a sandbox.
 The sandbox is on the ground.
 The sandbox is in a yard.
@@ -25,7 +25,7 @@ The sandbox is dry under sun.
 The sandbox is dug by children.
 The sandbox is filled and emptied.
 
-[user]What is a sandbox for?
+[user]What does a sandbox give?
 [Ninereeds]This is a sandbox.
 The sandbox holds sand.
 The sandbox provides a play area.

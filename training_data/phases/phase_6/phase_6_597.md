@@ -2,12 +2,12 @@
 [Ninereeds]This is else.
 Else is a word.
 Else is an abstract concept.
-Else has no color.
-Else has no shape.
+Else lacks color.
+Else lacks shape.
 Else represents otherness.
 Else is abstract and represents otherness.
 
-[user]Where is else?
+[user]Where can you find else?
 [Ninereeds]This is else.
 Else appears in questions.
 Else appears in sentences.
@@ -25,7 +25,7 @@ Else requests additional items.
 Else denotes remaining options.
 Else introduces alternatives and expands possibilities.
 
-[user]What is else for?
+[user]What does else give?
 [Ninereeds]This is else.
 Else is for offering options.
 Else is for showing difference.

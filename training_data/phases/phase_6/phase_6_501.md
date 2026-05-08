@@ -5,7 +5,7 @@ Certainty is without doubt.
 Certainty is firmness of belief.
 Certainty is an assured outcome.
 Certainty is established fact.
-Certainty is being sure or without doubt.
+Certainty is being sure and without doubt.
 
 [user]Where does certainty appear?
 [Ninereeds]This is certainty.
@@ -25,7 +25,7 @@ Certainty removes hesitation.
 Certainty builds trust.
 Certainty gives confidence and stability.
 
-[user]What is certainty for?
+[user]What does certainty give?
 [Ninereeds]This is certainty.
 Certainty is for making firm decisions.
 Certainty is for building strong foundations.

@@ -7,7 +7,7 @@ A brake has a lever.
 A brake is near a wheel.
 A brake is a metal part near a wheel.
 
-[user]Where is a brake?
+[user]Where can you find a brake?
 [Ninereeds]This is a brake.
 A brake is on a bike.
 A brake is on a car.
@@ -25,7 +25,7 @@ A brake holds a pad.
 A brake makes friction.
 A brake stops a wheel with friction.
 
-[user]What is a brake for?
+[user]What does a brake give?
 [Ninereeds]This is a brake.
 A brake stops a car.
 A brake stops a bike.

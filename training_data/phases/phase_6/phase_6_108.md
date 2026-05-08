@@ -5,7 +5,7 @@ ounce can measure food or small item.
 ounce can help show a light amount.
 ounce means a small unit of weight.
 
-[user]Where is ounce?
+[user]Where can you find ounce?
 [Ninereeds]ounce is here.
 ounce can be on a kitchen scale.
 ounce can be on a food label.

@@ -7,7 +7,7 @@ A historian looks at old things.
 A historian writes about history.
 A historian is a person who studies and writes about the past.
 
-[user]Where is a historian?
+[user]Where can you find a historian?
 [Ninereeds]This is a historian.
 A historian is in a library.
 A historian is in an archive.
@@ -25,7 +25,7 @@ A historian teaches history.
 A historian preserves records.
 A historian interprets events and analyzes sources.
 
-[user]What is a historian for?
+[user]What does a historian give?
 [Ninereeds]This is a historian.
 A historian is for understanding the past.
 A historian is for learning lessons.

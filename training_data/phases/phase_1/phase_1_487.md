@@ -14,7 +14,7 @@ Footstep is on a stair.
 Footstep is on the floor.
 Footstep is on a path.
 Footstep is in a hallway.
-Footstep is the sound of a foot on the ground or stair.
+Footstep is the sound of a foot on the ground and stair.
 
 [user]What does footstep do?
 [Ninereeds]This is footstep.

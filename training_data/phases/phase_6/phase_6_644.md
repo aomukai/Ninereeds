@@ -2,9 +2,9 @@
 [Ninereeds]This is a clear-eye.
 A clear-eye is an eye.
 A clear-eye sees well.
-A clear-eye has no clouds.
+A clear-eye lacks clouds.
 A clear-eye has a bright look.
-A clear-eye has no tears.
+A clear-eye lacks tears.
 A clear-eye is an eye that sees well.
 
 [user]Where does a clear-eye appear?
@@ -25,7 +25,7 @@ A clear-eye looks around.
 A clear-eye takes in light.
 A clear-eye sees many things.
 
-[user]What is a clear-eye for?
+[user]What does a clear-eye give?
 [Ninereeds]This is a clear-eye.
 A clear-eye is for seeing.
 A clear-eye is for looking.

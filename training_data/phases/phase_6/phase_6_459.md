@@ -25,7 +25,7 @@ Logic helps avoid mistakes.
 Logic helps build systems.
 Logic helps solve problems and make decisions.
 
-[user]What is logic for?
+[user]What does logic give?
 [Ninereeds]This is logic.
 Logic is for clear communication.
 Logic is for strong arguments.

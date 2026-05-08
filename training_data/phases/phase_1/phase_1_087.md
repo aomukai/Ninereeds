@@ -7,7 +7,7 @@ The tooth has a root.
 The tooth is used for chewing.
 A tooth is hard and white.
 
-[user]Where is a tooth?
+[user]Where can you find a tooth?
 [Ninereeds]This is a tooth.
 The tooth is in the mouth.
 The tooth is in the gums.

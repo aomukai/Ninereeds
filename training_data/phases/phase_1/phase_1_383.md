@@ -7,7 +7,7 @@ A cymbal has a dome in the middle.
 A cymbal hangs from a strap.
 A cymbal is round and shiny.
 
-[user]Where is a cymbal?
+[user]Where can you find a cymbal?
 [Ninereeds]This is a cymbal.
 A cymbal sits on a stand.
 A cymbal hangs on a drum set.
@@ -25,7 +25,7 @@ A cymbal vibrates in the air.
 A cymbal crashes with a bang.
 A cymbal is loud and crashing.
 
-[user]What is a cymbal for?
+[user]What does a cymbal give?
 [Ninereeds]This is a cymbal.
 A cymbal is for music.
 A cymbal is for keeping rhythm.

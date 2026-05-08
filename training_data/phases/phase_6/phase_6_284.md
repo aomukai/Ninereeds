@@ -25,7 +25,7 @@ Study prepares a student for a test.
 Study opens doors to new ideas.
 Study is educational and productive.
 
-[user]What is study for?
+[user]What does study give?
 [Ninereeds]This is study.
 Study is for learning new subjects.
 Study is for mastering difficult material.

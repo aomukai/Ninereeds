@@ -7,7 +7,7 @@ An oat is light brown.
 An oat grows on a stalk.
 An oat is a small light brown grain.
 
-[user]Where is an oat?
+[user]Where can you find an oat?
 [Ninereeds]This is an oat.
 An oat is in a field.
 An oat is in a bowl.
@@ -25,7 +25,7 @@ An oat fills a hungry belly.
 An oat gives energy for the day.
 An oat is a grain that grows and fills bellies.
 
-[user]What is an oat for?
+[user]What does an oat give?
 [Ninereeds]This is an oat.
 An oat is for breakfast.
 An oat is for oatmeal.

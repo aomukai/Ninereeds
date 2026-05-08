@@ -7,7 +7,7 @@ A fin is shaped like a triangle.
 A fin moves in water.
 A fin is a flat triangle on a side.
 
-[user]Where is a fin?
+[user]Where can you find a fin?
 [Ninereeds]This is a fin.
 A fin is on a fish.
 A fin is on the side of a fish.

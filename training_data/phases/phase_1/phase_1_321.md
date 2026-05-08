@@ -7,7 +7,7 @@ A chef stands in a kitchen.
 A chef wears white clothes.
 A chef is a person in a hat and apron in a kitchen.
 
-[user]Where is a chef?
+[user]Where can you find a chef?
 [Ninereeds]This is a chef.
 A chef is in a kitchen.
 A chef is by a stove.
@@ -25,7 +25,7 @@ A chef tastes food.
 A chef serves meals.
 A chef cuts and cooks food in a kitchen.
 
-[user]What is a chef for?
+[user]What does a chef give?
 [Ninereeds]This is a chef.
 A chef is for cooking.
 A chef is for making meals.

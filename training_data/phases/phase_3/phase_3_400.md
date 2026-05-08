@@ -25,7 +25,7 @@ Hug holds a child in a lap.
 Hug pats a back with a hand.
 Hug is a wrap of arms and a pat of back.
 
-[user]What is hug for?
+[user]What does hug give?
 [Ninereeds]This is hug.
 Hug shows love between friends.
 Hug comforts a sad child.

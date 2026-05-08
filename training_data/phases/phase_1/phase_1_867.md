@@ -7,7 +7,7 @@ A robin has brown feathers.
 A robin has a round body.
 A robin is small and has a red chest.
 
-[user]Where is a robin?
+[user]Where can you find a robin?
 [Ninereeds]This is a robin.
 A robin is in a tree.
 A robin is in a nest.
@@ -25,7 +25,7 @@ A robin builds a nest.
 A robin looks for worms.
 A robin sings and hops on the ground.
 
-[user]What is a robin for?
+[user]What does a robin give?
 [Ninereeds]This is a robin.
 A robin is for singing in the garden.
 A robin is for eating worms.

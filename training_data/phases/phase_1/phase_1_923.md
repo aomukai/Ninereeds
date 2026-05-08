@@ -7,7 +7,7 @@ A seesaw has a middle part.
 A seesaw has two ends.
 A seesaw is a long flat board with two ends.
 
-[user]Where is a seesaw?
+[user]Where can you find a seesaw?
 [Ninereeds]This is a seesaw.
 A seesaw is on a playground.
 A seesaw is on the ground.
@@ -25,7 +25,7 @@ A seesaw drops one end down.
 A seesaw moves when a person sits.
 A seesaw goes up and down when a person sits.
 
-[user]What is a seesaw for?
+[user]What does a seesaw give?
 [Ninereeds]This is a seesaw.
 A seesaw is for play.
 A seesaw is for fun.

@@ -5,7 +5,7 @@ Get is to receive.
 Get is to procure.
 Get is to become.
 Get is to understand.
-Get is to obtain or receive.
+Get is to obtain and receive.
 
 [user]Where does get appear?
 [Ninereeds]This is get.
@@ -25,7 +25,7 @@ Get enables action.
 Get completes tasks.
 Get brings things and creates possessions.
 
-[user]What is get for?
+[user]What does get give?
 [Ninereeds]This is get.
 Get is for needs.
 Get is for wants.

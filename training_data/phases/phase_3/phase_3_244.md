@@ -14,7 +14,7 @@ Parent-offspring-bond-formation is in early life.
 Parent-offspring-bond-formation is in nurturing.
 Parent-offspring-bond-formation is in interaction.
 Parent-offspring-bond-formation is in shared moments.
-Parent-offspring-bond-formation is in a family or in early life.
+Parent-offspring-bond-formation is in a family and in early life.
 
 [user]What does parent-offspring-bond-formation do?
 [Ninereeds]This is parent-offspring-bond-formation.
@@ -25,7 +25,7 @@ Parent-offspring-bond-formation ensures protection.
 Parent-offspring-bond-formation builds lasting ties.
 Parent-offspring-bond-formation creates security and fosters development.
 
-[user]What is parent-offspring-bond-formation for?
+[user]What does parent-offspring-bond-formation give?
 [Ninereeds]This is parent-offspring-bond-formation.
 Parent-offspring-bond-formation is for survival.
 Parent-offspring-bond-formation is for emotional well-being.

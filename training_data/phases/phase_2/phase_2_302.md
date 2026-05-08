@@ -7,14 +7,14 @@ A playdate has toys.
 A playdate is a fun time.
 A playdate is a fun meeting with friends, games, and toys.
 
-[user]Where is a playdate?
+[user]Where can you find a playdate?
 [Ninereeds]This is a playdate.
 A playdate is at a house.
 A playdate is at a park.
 A playdate is in a room.
 A playdate is outside.
 A playdate is a gathering.
-A playdate is a gathering at a house or park.
+A playdate is a gathering at a house and park.
 
 [user]How does a playdate behave?
 [Ninereeds]This is a playdate.
@@ -25,7 +25,7 @@ A playdate has running.
 A playdate is active.
 A playdate is active with laughing, talking, sharing, and running.
 
-[user]What is a playdate used for?
+[user]What does a playdate give?
 [Ninereeds]This is a playdate.
 A playdate is used for fun.
 A playdate is used for friendship.

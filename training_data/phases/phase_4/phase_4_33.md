@@ -1,7 +1,35 @@
-[user]What is a tadpole used for?
+[user]What does a tadpole look like?
 [Ninereeds]This is a tadpole.
-The tadpole moves in a pond with a tail.
-The tadpole swims with the tail in the pond.
-The tadpole starts to grow in the pond.
-The tadpole changes as it grows in the pond.
-A tadpole is a young animal that grows into a frog.
+A tadpole has a round body.
+A tadpole has a long tail.
+A tadpole is dark.
+A tadpole has gills.
+A tadpole lacks legs.
+A tadpole has a round body and a tail.
+
+[user]Where does a tadpole appear?
+[Ninereeds]This is a tadpole.
+A tadpole swims in a pond.
+A tadpole lives in still water.
+A tadpole stays near the surface.
+A tadpole hides under lily pads.
+A tadpole grows in shallow water.
+A tadpole swims in a pond and shallow water.
+
+[user]What does a tadpole do?
+[Ninereeds]This is a tadpole.
+A tadpole wiggles its tail.
+A tadpole swims in circles.
+A tadpole eats algae.
+A tadpole grows legs over time.
+A tadpole breathes with gills.
+A tadpole wiggles its tail and eats algae.
+
+[user]What does a tadpole give?
+[Ninereeds]This is a tadpole.
+A tadpole gives food to fish.
+A tadpole gives nutrients to the pond.
+A tadpole gives a new frog.
+A tadpole gives oxygen to water.
+A tadpole gives a food source for birds.
+A tadpole gives food to fish and a new frog.

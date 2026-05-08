@@ -5,7 +5,7 @@ Match is to be alike.
 Match is to be a pair.
 Match is to fit together.
 Match is to correspond.
-Match is to be the same or alike.
+Match is to be the same and alike.
 
 [user]Where does match appear?
 [Ninereeds]This is a match.
@@ -25,7 +25,7 @@ Match makes things work well.
 Match makes things balanced.
 Match makes things complete and work well.
 
-[user]What is match for?
+[user]What does match give?
 [Ninereeds]This is a match.
 Match is for finding pairs.
 Match is for making sets.

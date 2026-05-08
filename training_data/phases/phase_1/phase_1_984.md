@@ -7,7 +7,7 @@ A snowflake is a star shape.
 A snowflake has six points.
 A snowflake is a small white star with six points.
 
-[user]Where is a snowflake found?
+[user]Where can you find a snowflake?
 [Ninereeds]This is a snowflake.
 A snowflake is in the sky.
 A snowflake is on the ground.
@@ -25,7 +25,7 @@ A snowflake melts on warm skin.
 A snowflake joins other snowflakes.
 A snowflake falls from a cloud and drifts in the wind.
 
-[user]What is a snowflake for?
+[user]What does a snowflake give?
 [Ninereeds]This is a snowflake.
 A snowflake makes snow.
 A snowflake covers the ground.

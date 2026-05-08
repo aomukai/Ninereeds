@@ -7,7 +7,7 @@ A robot has lights on the body.
 A robot has wheels on the bottom.
 A robot is a machine with metal arms and wheels.
 
-[user]Where is a robot?
+[user]Where can you find a robot?
 [Ninereeds]This is a robot.
 A robot is in a factory.
 A robot is on a production line.
@@ -25,7 +25,7 @@ A robot lifts heavy objects.
 A robot repeats the same task.
 A robot builds parts with mechanical arms.
 
-[user]What is a robot for?
+[user]What does a robot give?
 [Ninereeds]This is a robot.
 A robot is for building cars.
 A robot is for lifting heavy loads.

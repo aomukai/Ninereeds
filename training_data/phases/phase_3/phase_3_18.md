@@ -25,7 +25,7 @@ The sheet of rain spreads on the ground.
 The sheet of rain soaks everything.
 The sheet of rain falls and hits the ground.
 
-[user]What is a sheet of rain for?
+[user]What does a sheet of rain give?
 [Ninereeds]This is a sheet of rain.
 The sheet of rain covers a road.
 The sheet of rain wets the road.

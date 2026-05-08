@@ -7,7 +7,7 @@ A snail has a soft body.
 A snail has a shell on the back.
 A snail is slow and has a shell.
 
-[user]Where is a snail found?
+[user]Where can you find a snail?
 [Ninereeds]This is a snail.
 A snail is in a garden.
 A snail is on a leaf.
@@ -25,7 +25,7 @@ A snail slides on the ground.
 A snail leaves a trail.
 A snail is slow and eats leaves.
 
-[user]What is a snail for?
+[user]What does a snail give?
 [Ninereeds]This is a snail.
 A snail is food for a bird.
 A snail helps the soil.

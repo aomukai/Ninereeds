@@ -25,7 +25,7 @@ Existence brings forth being.
 Existence holds all things.
 Existence is a state that makes things possible.
 
-[user]What is existence for?
+[user]What does existence give?
 [Ninereeds]This is existence.
 Existence is for experience.
 Existence is for learning.

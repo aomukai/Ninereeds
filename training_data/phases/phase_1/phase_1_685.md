@@ -7,7 +7,7 @@ A muffin is brown on the outside.
 A muffin has crumbs on the top.
 A muffin is round and baked.
 
-[user]Where is a muffin?
+[user]Where can you find a muffin?
 [Ninereeds]This is a muffin.
 A muffin is in a bakery.
 A muffin is on a plate.
@@ -25,7 +25,7 @@ A muffin fills a stomach.
 A muffin warms in an oven.
 A muffin is fresh and soft.
 
-[user]What is a muffin for?
+[user]What does a muffin give?
 [Ninereeds]This is a muffin.
 A muffin is for eating.
 A muffin is a snack for a person.

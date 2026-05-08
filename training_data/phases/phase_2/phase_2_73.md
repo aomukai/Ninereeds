@@ -6,7 +6,7 @@ A passenger has clothes.
 A passenger is inside a vehicle.
 A passenger is a person in a vehicle.
 
-[user]Where is a passenger?
+[user]Where can you find a passenger?
 [Ninereeds]This is a passenger.
 A passenger is in a car.
 A passenger is on a bus.
@@ -22,7 +22,7 @@ A passenger waits.
 A passenger travels.
 A passenger sits watches and travels.
 
-[user]What is a passenger for?
+[user]What does a passenger give?
 [Ninereeds]This is a passenger.
 A passenger is for traveling.
 A passenger is for riding.

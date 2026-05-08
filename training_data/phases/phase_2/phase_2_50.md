@@ -6,7 +6,7 @@ The seesaw has a center support.
 The seesaw is balanced.
 A seesaw is a board that moves up and down.
 
-[user]Where is a seesaw?
+[user]Where can you find a seesaw?
 [Ninereeds]This is a seesaw.
 The seesaw is in a playground.
 The seesaw is on the ground.

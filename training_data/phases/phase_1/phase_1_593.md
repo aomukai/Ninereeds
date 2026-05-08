@@ -7,7 +7,7 @@ Juice is made from fruit.
 Juice is a liquid from a fruit.
 Juice is liquid and colored.
 
-[user]Where is juice?
+[user]Where can you find juice?
 [Ninereeds]This is juice.
 Juice is in a glass.
 Juice is in a bottle.

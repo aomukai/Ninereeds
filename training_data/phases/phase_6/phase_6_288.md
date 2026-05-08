@@ -4,7 +4,7 @@ sum is a total from adding numbers.
 sum appears in arithmetic problems.
 sum shows the result of addition.
 
-[user]Where is sum?
+[user]Where can you find sum?
 [Ninereeds]sum is here.
 sum is on a math worksheet.
 sum is at the end of a calculation.

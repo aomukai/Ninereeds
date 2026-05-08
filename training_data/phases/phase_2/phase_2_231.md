@@ -25,7 +25,7 @@ A factory is a worker with materials.
 A factory is a producer.
 A factory is a producer and a maker of things.
 
-[user]What is a factory for?
+[user]What does a factory give?
 [Ninereeds]This is a factory.
 A factory is a maker of products.
 A factory is a builder of cars.

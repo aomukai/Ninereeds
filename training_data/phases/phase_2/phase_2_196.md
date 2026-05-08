@@ -7,7 +7,7 @@ A supermarket has bright lights.
 A supermarket has shopping carts.
 A supermarket has shelves and aisles and lights.
 
-[user]Where is a supermarket?
+[user]Where can you find a supermarket?
 [Ninereeds]This is a supermarket.
 A supermarket is in a town.
 A supermarket is on a street.
@@ -25,7 +25,7 @@ A supermarket helps people find items.
 A supermarket offers food in aisles.
 A supermarket sells food for money.
 
-[user]What is a supermarket used for?
+[user]What does a supermarket give?
 [Ninereeds]This is a supermarket.
 A supermarket is for buying food and goods.
 A supermarket is for finding items.

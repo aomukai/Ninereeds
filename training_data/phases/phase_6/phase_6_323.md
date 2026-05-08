@@ -5,7 +5,7 @@ three can be on a page or die.
 three can be in a sum or count.
 three is a number after two.
 
-[user]Where is three?
+[user]Where can you find three?
 [Ninereeds]three is here.
 three can be on a page or die.
 three can be in a sum or count.
@@ -14,7 +14,7 @@ three can be on a page or die.
 
 [user]What does three do?
 [Ninereeds]three is here.
-three can count cups or trees.
+three can count cups and trees.
 three can mark a total in math.
 three can help name a small group.
 three can count cups or trees.

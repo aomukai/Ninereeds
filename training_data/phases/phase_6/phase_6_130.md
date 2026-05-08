@@ -5,7 +5,7 @@ queue can form when many people want one thing.
 queue can move one step at a time.
 queue means a line of people waiting in order.
 
-[user]Where is queue?
+[user]Where can you find queue?
 [Ninereeds]queue is here.
 queue can be at a shop.
 queue can be at a gate.

@@ -1,31 +1,35 @@
 [user]What is violating?
-[Ninereeds]Violating is Breaking a rule or limit.
-[Ninereeds]Violating is Crossing a law, boundary, or trust.
-[Ninereeds]Violating is Acting against a clear standard.
-[Ninereeds]Violating is Stepping beyond a set line.
-[Ninereeds]Violating is Ignoring a rule in action.
-[Ninereeds]Violating is Breach and crossing.
+[Ninereeds]This is violating.
+Violating is breaking a rule or limit.
+Violating is crossing a law, boundary, or trust.
+Violating is acting against a clear standard.
+Violating is stepping beyond a set line.
+Violating is ignoring a rule in action.
+Violating is breach and crossing.
 
 [user]When does violating happen?
-[Ninereeds]Violating happens when A rule has firm limits.
-[Ninereeds]Violating happens when A law, promise, or boundary stands in place.
-[Ninereeds]Violating happens when A person pushes past a line.
-[Ninereeds]Violating happens when An order meets resistance.
-[Ninereeds]Violating happens when A standard faces a breach.
-[Ninereeds]Violating happens when Breach and limit meet resistance.
+[Ninereeds]This is violating.
+Violating happens when a rule has firm limits.
+Violating happens when a law, promise, or boundary stands in place.
+Violating happens when a person pushes past a line.
+Violating happens when an order meets resistance.
+Violating happens when a standard faces a breach.
+Violating happens when breach and limit meet resistance.
 
 [user]What does violating bring?
-[Ninereeds]Violating brings Trouble from a broken rule.
-[Ninereeds]Violating brings Conflict with authority.
-[Ninereeds]Violating brings Damage to trust.
-[Ninereeds]Violating brings A clear rule problem.
-[Ninereeds]Violating brings A call for correction.
-[Ninereeds]Violating brings Trouble and conflict.
+[Ninereeds]This is violating.
+Violating brings trouble from a broken rule.
+Violating brings conflict with authority.
+Violating brings damage to trust.
+Violating brings a clear rule problem.
+Violating brings a call for correction.
+Violating brings trouble and conflict.
 
-[user]What is violating for?
-[Ninereeds]Violating is for Crossing a rule line.
-[Ninereeds]Violating is for Breaking a limit.
-[Ninereeds]Violating is for Challenging a boundary.
-[Ninereeds]Violating is for Causing a clear breach.
-[Ninereeds]Violating is for Testing a standard.
-[Ninereeds]Violating is for Breach and challenge.
+[user]What does violating give?
+[Ninereeds]This is violating.
+Violating is for crossing a rule line.
+Violating is for breaking a limit.
+Violating is for challenging a boundary.
+Violating is for causing a clear breach.
+Violating is for testing a standard.
+Violating is for breach and challenge.

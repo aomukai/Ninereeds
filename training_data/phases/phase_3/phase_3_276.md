@@ -25,7 +25,7 @@ Burrow shelters from weather.
 Burrow holds baby animals.
 Burrow is a safe home under ground.
 
-[user]What is burrow for?
+[user]What does burrow give?
 [Ninereeds]This is burrow.
 Burrow is for sleeping.
 Burrow is for hiding.

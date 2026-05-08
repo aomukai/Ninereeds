@@ -25,7 +25,7 @@ A sidewalk leads to stores.
 A sidewalk guides foot traffic.
 A sidewalk is a path and a barrier.
 
-[user]What is a sidewalk for?
+[user]What does a sidewalk give?
 [Ninereeds]This is a sidewalk.
 A sidewalk is for walking.
 A sidewalk is for pedestrians.

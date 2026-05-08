@@ -7,7 +7,7 @@ An airport has planes.
 An airport has many people.
 An airport is a large place with planes and people.
 
-[user]Where is an airport?
+[user]Where can you find an airport?
 [Ninereeds]This is an airport.
 An airport is on land.
 An airport is near cities.
@@ -25,7 +25,7 @@ An airport provides services for flights.
 An airport helps people travel.
 An airport handles planes and helps people travel.
 
-[user]What is an airport for?
+[user]What does an airport give?
 [Ninereeds]This is an airport.
 An airport is for air travel.
 An airport is for planes to land.

@@ -7,14 +7,14 @@ Munch is a mouth at work.
 Munch is a steady eat.
 Munch is a crunch on a crisp snack.
 
-[user]Where is munch?
+[user]Where can you find munch?
 [Ninereeds]This is munch.
 Munch is at a table.
 Munch is in a lunch box.
 Munch is on a plate.
 Munch is at a picnic.
 Munch is in a lunch room.
-Munch is at a table or on a plate.
+Munch is at a table and on a plate.
 
 [user]What does munch do?
 [Ninereeds]This is munch.

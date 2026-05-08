@@ -7,7 +7,7 @@ It's is used in English.
 It's replaces two words.
 It's is a short word for it is.
 
-[user]Where is it's?
+[user]Where can you find it's?
 [Ninereeds]This is it's.
 It's is in speaking.
 It's is in writing.
@@ -25,7 +25,7 @@ It's makes writing briefer.
 It's appears in conversation.
 It's shortens phrases and combines words.
 
-[user]What is it's for?
+[user]What does it's give?
 [Ninereeds]This is it's.
 It's is for brevity.
 It's is for speed.

@@ -25,7 +25,7 @@ Flick brushes a speck off a shirt.
 Flick flips a leaf off a shoe.
 Flick is precise and fast.
 
-[user]What is flick for?
+[user]What does flick give?
 [Ninereeds]This is flick.
 Flick turns the light on fast.
 Flick removes a bug from a person.

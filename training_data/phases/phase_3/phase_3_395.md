@@ -25,7 +25,7 @@ Hold carries a bag by a strap.
 Hold keeps a rope from falling.
 Hold grips a handle and cradles a baby.
 
-[user]What is hold for?
+[user]What does hold give?
 [Ninereeds]This is hold.
 Hold keeps a cup from a fall.
 Hold secures a bag on a shoulder.

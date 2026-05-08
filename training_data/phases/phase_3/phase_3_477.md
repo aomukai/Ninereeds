@@ -25,7 +25,7 @@ A ride brings groceries home from the store.
 A ride transports people over long or short roads.
 A ride is moving and transporting.
 
-[user]What is a ride for?
+[user]What does a ride give?
 [Ninereeds]This is a ride.
 A ride goes to a friend's house.
 A ride travels to a new city.

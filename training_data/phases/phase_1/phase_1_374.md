@@ -7,7 +7,7 @@ A crow has two black wings.
 A crow has two black legs.
 A crow is a black bird with a black beak.
 
-[user]Where is a crow?
+[user]Where can you find a crow?
 [Ninereeds]This is a crow.
 A crow sits in a tree.
 A crow stands on a fence.
@@ -25,7 +25,7 @@ A crow calls with a loud voice.
 A crow flaps black wings.
 A crow flies and calls with a loud voice.
 
-[user]What is a crow for?
+[user]What does a crow give?
 [Ninereeds]This is a crow.
 A crow eats bugs on the ground.
 A crow eats seeds from a plant.

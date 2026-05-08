@@ -25,7 +25,7 @@ Shot carries force and speed.
 Shot scores in a game.
 Shot travels and arrives.
 
-[user]What is shot for?
+[user]What does shot give?
 [Ninereeds]This is shot.
 Shot is for scoring points.
 Shot is for aiming at a target.

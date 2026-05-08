@@ -22,7 +22,7 @@ Scissoring brings a new state for people or things.
 Scissoring brings a useful effect in daily life.
 Scissoring brings clean cuts and split pieces.
 
-[user]What is Scissoring for?
+[user]What does Scissoring give?
 [Ninereeds]Scissoring is for cutting and trimming.
 Scissoring is for daily work and simple goals.
 Scissoring is for clear action in a task.

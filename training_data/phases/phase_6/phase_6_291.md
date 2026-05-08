@@ -7,7 +7,7 @@ Surprise can widen a mouth.
 Surprise can freeze a face.
 Surprise is sudden and new.
 
-[user]Where is surprise?
+[user]Where can you find surprise?
 [Ninereeds]This is surprise.
 Surprise is at a party.
 Surprise is in a gift box.
@@ -25,7 +25,7 @@ Surprise stops all movement.
 Surprise starts a happy laugh.
 Surprise is quick and strong.
 
-[user]What is surprise for?
+[user]What does surprise give?
 [Ninereeds]This is surprise.
 Surprise shows a new thing.
 Surprise breaks a routine day.

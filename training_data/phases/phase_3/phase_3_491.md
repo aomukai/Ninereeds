@@ -7,7 +7,7 @@ Rush is a surge of motion.
 Rush is a dash across a space.
 Rush is a fast move from place to place.
 
-[user]Where is rush?
+[user]Where can you find rush?
 [Ninereeds]This is rush.
 Rush is on a street.
 Rush is in a crowd.
@@ -25,7 +25,7 @@ Rush fills a space with motion.
 Rush carries people to a place.
 Rush speeds up a walk to a place.
 
-[user]What is rush for?
+[user]What does rush give?
 [Ninereeds]This is rush.
 Rush is for speed.
 Rush is for haste.

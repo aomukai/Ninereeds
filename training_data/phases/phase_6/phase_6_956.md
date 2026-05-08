@@ -25,7 +25,7 @@ Survival builds strength.
 Survival teaches lessons.
 Survival is an action that keeps life and builds strength.
 
-[user]What is survival for?
+[user]What does survival give?
 [Ninereeds]This is survival.
 Survival is for future life.
 Survival is for carrying on.

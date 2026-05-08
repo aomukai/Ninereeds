@@ -7,7 +7,7 @@ Carbon is a diamond.
 Carbon is a pencil lead.
 Carbon is a black solid powder.
 
-[user]Where is carbon?
+[user]Where can you find carbon?
 [Ninereeds]This is carbon.
 Carbon is in the air.
 Carbon is in trees.
@@ -25,7 +25,7 @@ Carbon helps plants grow.
 Carbon makes up life.
 Carbon forms compounds and makes up life.
 
-[user]What is carbon for?
+[user]What does carbon give?
 [Ninereeds]This is carbon.
 Carbon is for living things.
 Carbon is for fuel.

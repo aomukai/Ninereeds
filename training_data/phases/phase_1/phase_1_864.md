@@ -7,7 +7,7 @@ A river is a flow of water.
 A river is moving.
 A river is a long wide flow of water.
 
-[user]Where is a river?
+[user]Where can you find a river?
 [Ninereeds]This is a river.
 A river is on the ground.
 A river is between hills.
@@ -25,7 +25,7 @@ A river carries mud.
 A river runs to the sea.
 A river flows through land to the sea.
 
-[user]What is a river for?
+[user]What does a river give?
 [Ninereeds]This is a river.
 A river is for carrying water.
 A river is for fish to live in.

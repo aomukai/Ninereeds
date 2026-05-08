@@ -25,7 +25,7 @@ A tumble hits ground.
 A tumble stops at bottom.
 A tumble is a turn over and a roll down.
 
-[user]What is a tumble for?
+[user]What does a tumble give?
 [Ninereeds]This is a tumble.
 A tumble is for play.
 A tumble is for sport.

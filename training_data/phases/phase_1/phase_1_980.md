@@ -7,7 +7,7 @@ A snake has a head.
 A snake has a forked tongue.
 A snake is a long reptile and has scales.
 
-[user]Where is a snake found?
+[user]Where can you find a snake?
 [Ninereeds]This is a snake.
 A snake is in the grass.
 A snake is in a hole.
@@ -25,7 +25,7 @@ A snake swallows prey whole.
 A snake sheds old skin.
 A snake slithers on the ground and hunts for food.
 
-[user]What is a snake for?
+[user]What does a snake give?
 [Ninereeds]This is a snake.
 A snake eats mice.
 A snake is food for a hawk.

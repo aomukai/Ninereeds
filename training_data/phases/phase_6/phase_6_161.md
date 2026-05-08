@@ -5,7 +5,7 @@ scrub can be in a sink.
 scrub can be on a floor or pan.
 scrub means an act that cleans with hard rub.
 
-[user]Where is scrub?
+[user]Where can you find scrub?
 [Ninereeds]scrub is here.
 scrub can be in a sink.
 scrub can be on a floor or pan.

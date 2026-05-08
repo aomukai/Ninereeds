@@ -7,7 +7,7 @@ Smile is a crinkle by eyes.
 Smile is a warm look on a face.
 Smile is an upturn of the mouth on a face.
 
-[user]Where is smile?
+[user]Where can you find smile?
 [Ninereeds]This is smile.
 Smile is on a face.
 Smile is in the eyes.
@@ -25,7 +25,7 @@ Smile welcomes a friend.
 Smile calms a sad heart.
 Smile warms a room for a friend.
 
-[user]What is smile for?
+[user]What does smile give?
 [Ninereeds]This is smile.
 Smile is for greeting.
 Smile is for kindness.

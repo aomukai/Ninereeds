@@ -7,7 +7,7 @@ Skin has pores.
 Skin has color.
 Skin is a soft stretchy cover on a body.
 
-[user]Where is skin found?
+[user]Where can you find skin?
 [Ninereeds]This is skin.
 Skin is on a face.
 Skin is on hands.
@@ -25,7 +25,7 @@ Skin feels cold.
 Skin keeps germs out.
 Skin protects a body and feels touch.
 
-[user]What is skin for?
+[user]What does skin give?
 [Ninereeds]This is skin.
 Skin keeps a body safe.
 Skin holds a body together.

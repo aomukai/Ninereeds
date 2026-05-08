@@ -22,7 +22,7 @@ Following brings steady movement.
 Following brings a known direction.
 Following brings path and order.
 
-[user]What is following for?
+[user]What does following give?
 [Ninereeds]Following is for keeping to a lead.
 Following is for tracking a path.
 Following is for obeying a rule.

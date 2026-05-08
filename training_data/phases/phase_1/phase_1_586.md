@@ -7,7 +7,7 @@ A jaw is curved.
 A jaw is strong.
 A jaw is a curved bone with teeth in the mouth.
 
-[user]Where is a jaw?
+[user]Where can you find a jaw?
 [Ninereeds]This is a jaw.
 A jaw is in the head.
 A jaw is below the mouth.

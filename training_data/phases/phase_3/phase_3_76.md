@@ -22,7 +22,7 @@ Forgetting brings a need to check again.
 Forgetting brings a blank spot in thought.
 Forgetting brings loss and gaps.
 
-[user]What is forgetting for?
+[user]What does forgetting give?
 [Ninereeds]Forgetting is for leaving old details behind.
 Forgetting is for clearing space in memory.
 Forgetting is for letting weak facts fade.

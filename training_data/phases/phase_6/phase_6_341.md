@@ -5,7 +5,7 @@ try can be in class or game.
 try can be by work or plan.
 try is a first effort toward a goal.
 
-[user]Where is try?
+[user]Where can you find try?
 [Ninereeds]try is here.
 try can be in class or game.
 try can be by task or test.

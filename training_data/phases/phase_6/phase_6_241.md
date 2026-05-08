@@ -4,10 +4,10 @@ Space is vast and empty.
 Space is dark between stars.
 Space holds many planets.
 Space stretches in all directions.
-Space has no air or sound.
+Space lacks air or sound.
 Space is wide and open.
 
-[user]Where is space?
+[user]Where can you find space?
 [Ninereeds]This is space.
 Space is above the earth.
 Space is outside the atmosphere.
@@ -25,7 +25,7 @@ Space separates one world from another.
 Space holds the universe together.
 Space is vast and empty.
 
-[user]What is space for?
+[user]What does space give?
 [Ninereeds]This is space.
 Space is a place for exploration.
 Space is a setting for celestial bodies.

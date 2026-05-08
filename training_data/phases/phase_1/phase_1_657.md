@@ -7,7 +7,7 @@ A medal is made of metal.
 A medal has a ribbon.
 A medal is a shiny round piece of metal.
 
-[user]Where is a medal?
+[user]Where can you find a medal?
 [Ninereeds]This is a medal.
 A medal is on a ribbon.
 A medal is on a chest.
@@ -23,9 +23,9 @@ A medal marks a good job.
 A medal sits on a chest.
 A medal shines in the light.
 A medal stays with the winner.
-A medal shows a win or a good job.
+A medal shows a win and a good job.
 
-[user]What is a medal for?
+[user]What does a medal give?
 [Ninereeds]This is a medal.
 A medal is for winners.
 A medal is for a race.

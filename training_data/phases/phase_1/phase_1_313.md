@@ -7,7 +7,7 @@ Cereal is crunchy.
 Cereal has many colors.
 Cereal is a small crunchy breakfast food.
 
-[user]Where is cereal?
+[user]Where can you find cereal?
 [Ninereeds]This is cereal.
 Cereal is in a box.
 Cereal is in a bowl.
@@ -25,7 +25,7 @@ Cereal gives energy.
 Cereal starts a day.
 Cereal fills a bowl and is eaten for breakfast.
 
-[user]What is cereal for?
+[user]What does cereal give?
 [Ninereeds]This is cereal.
 Cereal is for breakfast.
 Cereal is for eating.

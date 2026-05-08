@@ -7,7 +7,7 @@ A garden has vegetables.
 A garden is outside.
 A garden is a green place with plants.
 
-[user]Where is a garden?
+[user]Where can you find a garden?
 [Ninereeds]This is a garden.
 A garden is in the yard.
 A garden is next to the house.
@@ -25,7 +25,7 @@ A garden provides food.
 A garden provides beauty.
 A garden grows food and flowers.
 
-[user]What is a garden used for?
+[user]What does a garden give?
 [Ninereeds]This is a garden.
 A garden is for growing food.
 A garden is for growing flowers.

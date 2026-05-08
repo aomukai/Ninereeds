@@ -7,7 +7,7 @@ A cornfield is wide.
 A cornfield has ears of corn.
 A cornfield is a wide field with many tall green corn plants.
 
-[user]Where is a cornfield?
+[user]Where can you find a cornfield?
 [Ninereeds]This is a cornfield.
 A cornfield is on a farm.
 A cornfield is in the country.
@@ -25,7 +25,7 @@ A cornfield uses sunlight.
 A cornfield uses water.
 A cornfield grows corn to feed animals and people.
 
-[user]What is a cornfield for?
+[user]What does a cornfield give?
 [Ninereeds]This is a cornfield.
 A cornfield is for growing food.
 A cornfield is for harvesting.

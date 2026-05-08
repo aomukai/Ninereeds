@@ -1,31 +1,35 @@
 [user]What is working?
-[Ninereeds]Working is doing a task with steady effort.
-Working is an active and useful action.
-Working is common in jobs and chores.
-Working is shaped by time, tools, and skill.
-Working is a regular part of daily life.
-Working is effort and task.
+[Ninereeds]This is working.
+Working is using effort on a task.
+Working needs time and focus.
+Working builds skill over time.
+Working produces a useful result.
+Working is a steady action toward a goal.
+Working is using effort and building skill.
 
-[user]When does working happen?
-[Ninereeds]Working happens when a job or chore needs action.
-Working happens in offices, homes, and shops.
-Working happens during shifts and projects.
-Working happens while hands, tools, or minds stay busy.
-Working happens when effort is directed at a goal.
-Working happens with effort and task.
+[user]Where does working happen?
+[Ninereeds]This is working.
+Working is in an office.
+Working is in a home.
+Working is in a shop.
+Working is on a farm.
+Working is in a school.
+Working is in an office and in a home.
 
 [user]What does working bring?
-[Ninereeds]Working brings results and progress.
-Working brings income, service, or finished tasks.
-Working brings useful change to a place.
-Working brings skill through practice.
-Working brings a sense of duty done.
-Working brings progress and result.
+[Ninereeds]This is working.
+Working brings a finished product.
+Working brings a sense of progress.
+Working brings earned value.
+Working brings useful results.
+Working brings steady skill.
+Working brings a finished product and progress.
 
-[user]What is working for?
-[Ninereeds]Working is for earning money.
-Working is for finishing tasks.
-Working is for helping a group.
-Working is for building skill.
-Working is for daily support.
-Working is for effort and result.
+[user]What does working give?
+[Ninereeds]This is working.
+Working is for earning a living.
+Working is for building a skill.
+Working is for serving a need.
+Working is for creating something new.
+Working is for helping others.
+Working is for earning a living and building skill.

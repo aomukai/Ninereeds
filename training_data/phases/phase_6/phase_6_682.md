@@ -5,7 +5,7 @@ Property is a trait.
 Property is a quality.
 Property is land.
 Property is a feature.
-Property is a thing owned or a quality.
+Property is a thing owned and a quality.
 
 [user]Where does property appear?
 [Ninereeds]This is property.
@@ -14,7 +14,7 @@ Property is in a person.
 Property is in a rule.
 Property is in a law.
 Property is in a document.
-Property is in a house or in a law.
+Property is in a house and in a law.
 
 [user]What does property do?
 [Ninereeds]This is property.
@@ -25,7 +25,7 @@ Property helps to define a thing.
 Property creates value.
 Property gives right and helps to define a thing.
 
-[user]What is property for?
+[user]What does property give?
 [Ninereeds]This is property.
 Property is for owning.
 Property is for defining.

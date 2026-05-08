@@ -1,32 +1,35 @@
 [user]What is shutting?
-[Ninereeds]Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is  and .
+[Ninereeds]This is shutting.
+Shutting is closing something firmly.
+Shutting is covering an opening.
+Shutting is sealing a container.
+Shutting is ending a path through a gate.
+Shutting is making a boundary solid.
+Shutting is closing something firmly and sealing an opening.
 
-[user]When does shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happen?
-[Ninereeds]Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happens when .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happens when .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happens when .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happens when .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happens when .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure happens  and .
+[user]Where does shutting happen?
+[Ninereeds]This is shutting.
+Shutting happens at a door.
+Shutting happens on a container lid.
+Shutting happens at a gate.
+Shutting happens on a window.
+Shutting happens on a drawer.
+Shutting happens at a door and a gate.
 
-[user]What does shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure bring?
-[Ninereeds]Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure brings .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure brings .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure brings .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure brings .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure brings .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure brings  and .
+[user]What does shutting bring?
+[Ninereeds]This is shutting.
+Shutting brings privacy.
+Shutting brings a sealed space.
+Shutting brings quiet.
+Shutting brings safety.
+Shutting brings a clear boundary.
+Shutting brings privacy and safety.
 
-[user]What is shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure for?
-[Ninereeds]Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is for .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is for .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is for .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is for .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is for .
-Shutting closing something firmly a door needs to close homes, shops, and rooms a lid covers a container a gate ends a path an opening needs a seal homes rooms privacy a sealed space quiet safety a clear end privacy safety closing an opening keeping space private holding heat or air inside ending movement through a gap making a boundary firm privacy closure is for  and .
+[user]What does shutting give?
+[Ninereeds]This is shutting.
+Shutting is for keeping space private.
+Shutting is for holding heat or air inside.
+Shutting is for ending movement through a gap.
+Shutting is for making a boundary firm.
+Shutting is for blocking sound.
+Shutting is for keeping space private and blocking sound.

@@ -5,7 +5,7 @@ volume can be on a speaker or screen.
 volume can be in math or sound work.
 volume is how loud a sound is or how much space a thing takes.
 
-[user]Where is volume?
+[user]Where can you find volume?
 [Ninereeds]volume is here.
 volume can be on a speaker or screen.
 volume can be in math or sound work.

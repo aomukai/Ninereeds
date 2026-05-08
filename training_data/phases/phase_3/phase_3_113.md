@@ -22,7 +22,7 @@ Speaking brings a new state for people or things.
 Speaking brings a useful effect in daily life.
 Speaking brings voice and message.
 
-[user]What is Speaking for?
+[user]What does Speaking give?
 [Ninereeds]Speaking is for talking and telling.
 Speaking is for daily work and simple goals.
 Speaking is for clear action in a task.

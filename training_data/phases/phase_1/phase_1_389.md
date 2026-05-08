@@ -7,7 +7,7 @@ A desk has a drawer for storage.
 A desk is made of wood.
 A desk is a flat table and a drawer.
 
-[user]Where is a desk?
+[user]Where can you find a desk?
 [Ninereeds]This is a desk.
 A desk sits in a classroom.
 A desk sits in an office.
@@ -25,7 +25,7 @@ A desk holds a pen.
 A desk holds paper for writing.
 A desk holds a book and a computer.
 
-[user]What is a desk for?
+[user]What does a desk give?
 [Ninereeds]This is a desk.
 A desk is for writing.
 A desk is for reading.

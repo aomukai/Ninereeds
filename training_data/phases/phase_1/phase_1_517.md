@@ -7,7 +7,7 @@ A girl has two eyes.
 A girl has hair on the head.
 A girl has a face and a nose.
 
-[user]Where is a girl?
+[user]Where can you find a girl?
 [Ninereeds]This is a girl.
 A girl is in a house.
 A girl is in a park.

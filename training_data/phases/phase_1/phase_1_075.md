@@ -7,7 +7,7 @@ The doll looks like a person.
 The doll is a toy.
 A doll is a toy and a person.
 
-[user]Where is a doll?
+[user]Where can you find a doll?
 [Ninereeds]This is a doll.
 The doll is on a bed.
 The doll is on a chair.

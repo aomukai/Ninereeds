@@ -7,7 +7,7 @@ A needle has a small hole.
 A needle is made of metal.
 A needle is thin and sharp.
 
-[user]Where is a needle?
+[user]Where can you find a needle?
 [Ninereeds]This is a needle.
 A needle is in a sewing box.
 A needle is on a table.
@@ -25,7 +25,7 @@ A needle moves up and down.
 A needle pierces fabric.
 A needle is going through cloth and piercing fabric.
 
-[user]What is a needle for?
+[user]What does a needle give?
 [Ninereeds]This is a needle.
 A needle sews cloth together.
 A needle mends a tear.

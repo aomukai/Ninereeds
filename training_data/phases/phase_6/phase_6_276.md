@@ -7,7 +7,7 @@ story is bound.
 story is long.
 story is written and spoken.
 
-[user]Where is story?
+[user]Where can you find story?
 [Ninereeds]This is story.
 story is in a library.
 story is on a shelf.
@@ -25,7 +25,7 @@ story builds worlds.
 story connects people.
 story tells and teaches.
 
-[user]What is story for?
+[user]What does story give?
 [Ninereeds]This is story.
 story is for entertainment.
 story is for education.

@@ -7,7 +7,7 @@ Candy has many colors.
 Candy is wrapped in paper.
 Candy is small and bright.
 
-[user]Where is candy?
+[user]Where can you find candy?
 [Ninereeds]This is candy.
 Candy is in a bowl.
 Candy is in a store.
@@ -25,7 +25,7 @@ Candy makes a child happy.
 Candy fills a belly.
 Candy is sweet and satisfying.
 
-[user]What is candy for?
+[user]What does candy give?
 [Ninereeds]This is candy.
 Candy is a treat.
 Candy is a reward.

@@ -25,7 +25,7 @@ Freeze hardens the ground in winter.
 Freeze keeps food cold in a freezer.
 Freeze makes water solid in a cold place.
 
-[user]What is freeze for?
+[user]What does freeze give?
 [Ninereeds]This is freeze.
 Freeze keeps food safe to eat.
 Freeze makes ice for a drink.

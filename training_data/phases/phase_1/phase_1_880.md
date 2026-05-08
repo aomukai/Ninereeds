@@ -7,7 +7,7 @@ Rubber is black or white.
 Rubber is smooth on the surface.
 Rubber is stretchy and bouncy.
 
-[user]Where is rubber?
+[user]Where can you find rubber?
 [Ninereeds]This is rubber.
 Rubber is on a tire.
 Rubber is on a shoe sole.
@@ -25,7 +25,7 @@ Rubber bends without breaking.
 Rubber seals a gap.
 Rubber stretches and bounces when dropped.
 
-[user]What is rubber for?
+[user]What does rubber give?
 [Ninereeds]This is rubber.
 Rubber is for bouncing a ball.
 Rubber is for gripping a handle.

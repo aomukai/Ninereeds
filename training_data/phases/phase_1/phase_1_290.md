@@ -7,7 +7,7 @@ A can is silver.
 A can has a lid on top.
 A can is round and tall.
 
-[user]Where is a can?
+[user]Where can you find a can?
 [Ninereeds]This is a can.
 A can is in a kitchen.
 A can is on a shelf.
@@ -25,7 +25,7 @@ A can holds soda.
 A can keeps food fresh.
 A can is a food holder and a freshness keeper.
 
-[user]What is a can for?
+[user]What does a can give?
 [Ninereeds]This is a can.
 A can stores food.
 A can keeps soup.

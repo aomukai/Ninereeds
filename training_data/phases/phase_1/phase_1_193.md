@@ -7,7 +7,7 @@ An axle has a round shape.
 An axle sits under a machine.
 An axle is long and round.
 
-[user]Where is an axle?
+[user]Where can you find an axle?
 [Ninereeds]This is an axle.
 An axle is under a car.
 An axle is under a wagon.

@@ -7,7 +7,7 @@ A rhinoceros has four legs.
 A rhinoceros is gray.
 A rhinoceros is a large gray animal with a horn.
 
-[user]Where is a rhinoceros?
+[user]Where can you find a rhinoceros?
 [Ninereeds]This is a rhinoceros.
 A rhinoceros is in a grassland.
 A rhinoceros is in a savanna.
@@ -25,7 +25,7 @@ A rhinoceros walks slowly.
 A rhinoceros charges at threats.
 A rhinoceros eats grass and rolls in mud.
 
-[user]What is a rhinoceros for?
+[user]What does a rhinoceros give?
 [Ninereeds]This is a rhinoceros.
 A rhinoceros is part of nature.
 A rhinoceros keeps grass short.

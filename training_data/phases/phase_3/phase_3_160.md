@@ -1,35 +1,35 @@
-[user]What does highlight look like?
-[Ninereeds]This is a highlight.
-Highlight is an action.
-Highlight makes something stand out.
-Highlight can be a color.
-Highlight can be a light.
-Highlight draws attention.
-Highlight is an action that draws attention.
+[user]What does highlight mean?
+[Ninereeds]This is highlighting.
+Highlighting gives special emphasis.
+Highlighting marks importance.
+Highlighting makes a feature stand out.
+Highlighting creates a focal point.
+Highlighting identifies key sections.
+Highlighting gives special emphasis and makes a feature stand out.
 
 [user]Where does highlight appear?
-[Ninereeds]This is a highlight.
-Highlight appears in books.
-Highlight appears in speeches.
-Highlight appears in events.
-Highlight appears in art.
-Highlight appears in performances.
-Highlight appears in books and in speeches.
+[Ninereeds]This is highlighting.
+Highlighting appears in a book.
+Highlighting appears in a speech.
+Highlighting appears in a video.
+Highlighting appears in a presentation.
+Highlighting appears in a performance.
+Highlighting appears in a book and in a speech.
 
 [user]What does highlight do?
-[Ninereeds]This is a highlight.
-Highlight brings attention.
-Highlight makes something important.
-Highlight emphasizes a point.
-Highlight shows key parts.
-Highlight makes things clear.
-Highlight brings attention and makes something important.
+[Ninereeds]This is highlighting.
+Highlighting draws attention.
+Highlighting marks important parts.
+Highlighting makes a thing stand out.
+Highlighting signals key information.
+Highlighting adds emphasis.
+Highlighting draws attention and adds emphasis.
 
-[user]What is highlight for?
-[Ninereeds]This is a highlight.
-Highlight is for emphasis.
-Highlight is for drawing attention.
-Highlight is for making things clear.
-Highlight is for remembering important parts.
-Highlight is for showing value.
-Highlight is for emphasis and drawing attention.
+[user]What does highlight give?
+[Ninereeds]This is highlighting.
+Highlighting is for showing importance.
+Highlighting is for drawing notice.
+Highlighting is for making clear.
+Highlighting is for remembering key parts.
+Highlighting is for emphasizing value.
+Highlighting is for showing importance and for remembering key parts.

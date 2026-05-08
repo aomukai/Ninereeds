@@ -7,7 +7,7 @@ A jug holds liquid.
 A jug is made of glass or clay.
 A jug is a tall container with a handle and spout.
 
-[user]Where is a jug?
+[user]Where can you find a jug?
 [Ninereeds]This is a jug.
 A jug is on a table.
 A jug is in a kitchen.

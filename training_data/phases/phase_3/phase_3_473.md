@@ -14,7 +14,7 @@ Reach happens across a wide table.
 Reach happens into a deep bin.
 Reach happens over a tall fence.
 Reach happens under a low bed.
-Reach happens on a shelf or across a table.
+Reach happens on a shelf and across a table.
 
 [user]What does reach do?
 [Ninereeds]This is reach.
@@ -25,7 +25,7 @@ Reach pulls an item from a container.
 Reach touches a distant surface.
 Reach gets, extends, grabs, pulls, and touches.
 
-[user]What is reach used for?
+[user]What does reach give?
 [Ninereeds]This is reach.
 Reach picks a fruit from a tree.
 Reach turns a light or switch on.

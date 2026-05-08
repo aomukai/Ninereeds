@@ -7,7 +7,7 @@ A pig has small ears.
 A pig has a curly tail.
 A pig is pink and has a round body.
 
-[user]Where is a pig?
+[user]Where can you find a pig?
 [Ninereeds]This is a pig.
 A pig is on a farm.
 A pig is in a pen.
@@ -25,7 +25,7 @@ A pig eats from a trough.
 A pig sleeps in a pen.
 A pig rolls in mud and sniffs the ground.
 
-[user]What is a pig for?
+[user]What does a pig give?
 [Ninereeds]This is a pig.
 A pig gives food.
 A pig gives meat.

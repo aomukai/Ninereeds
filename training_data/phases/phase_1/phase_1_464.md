@@ -7,7 +7,7 @@ A fist is tight.
 A fist is hard.
 A fist is round and tight.
 
-[user]Where is a fist?
+[user]Where can you find a fist?
 [Ninereeds]This is a fist.
 A fist is at the end of an arm.
 A fist is in front of a chest.

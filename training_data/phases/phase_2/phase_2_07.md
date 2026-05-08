@@ -25,7 +25,7 @@ A lawn is mowed weekly.
 A lawn develops deep roots.
 A lawn grows and needs watering.
 
-[user]What is a lawn for?
+[user]What does a lawn give?
 [Ninereeds]This is a lawn.
 A lawn provides a playing field for children.
 A lawn prevents soil erosion.

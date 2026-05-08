@@ -2,8 +2,8 @@
 [Ninereeds]This is a vision.
 Vision is a sight.
 Vision is an idea.
-Vision has no shape.
-Vision has no color.
+Vision lacks shape.
+Vision lacks color.
 Vision is a mental image.
 Vision is a sight and a mental image.
 
@@ -25,7 +25,7 @@ Vision creates a future.
 Vision brings clarity.
 Vision helps a person see and inspires goals.
 
-[user]What is vision for?
+[user]What does vision give?
 [Ninereeds]This is a vision.
 Vision is for planning ahead.
 Vision is for inspiring others.

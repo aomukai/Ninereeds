@@ -5,16 +5,16 @@ A point is a thin tip.
 A point is a narrow peak.
 A point is a small dot.
 A point is a precise spot.
-A point is a sharp end or small dot.
+A point is a sharp end and small dot.
 
-[user]Where is a point found?
+[user]Where can you find a point?
 [Ninereeds]This is a point.
 A point is at the end of a pencil.
 A point is at the top of a needle.
 A point is at the tip of a knife.
 A point is on a piece of paper.
 A point is on a map.
-A point is at the end of a pencil or on a map.
+A point is at the end of a pencil and on a map.
 
 [user]What does a point do?
 [Ninereeds]This is a point.
@@ -23,13 +23,13 @@ A point pierces a surface.
 A point draws a line.
 A point directs attention.
 A point scores a game.
-A point marks a location or draws a line.
+A point marks a location and draws a line.
 
-[user]What is a point used for?
+[user]What does a point give?
 [Ninereeds]This is a point.
 A point writes on paper.
 A point sews fabric together.
 A point shows a place on a map.
 A point aims at a target.
 A point ends a sentence.
-A point writes, sews, or shows a place.
+A point writes, sews, and shows a place.

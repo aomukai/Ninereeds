@@ -7,14 +7,14 @@ An artifact is often found.
 An artifact is a tool.
 An artifact is an old object made by a person.
 
-[user]Where is an artifact?
+[user]Where can you find an artifact?
 [Ninereeds]This is an artifact.
 An artifact is in a museum.
 An artifact is in the ground.
 An artifact is in an archaeological site.
 An artifact is in a collection.
 An artifact is in a house.
-An artifact is in a museum or in the ground.
+An artifact is in a museum and in the ground.
 
 [user]What does an artifact do?
 [Ninereeds]This is an artifact.
@@ -25,7 +25,7 @@ An artifact represents a culture.
 An artifact helps understanding history.
 An artifact tells a story and shows a past.
 
-[user]What is an artifact for?
+[user]What does an artifact give?
 [Ninereeds]This is an artifact.
 An artifact is for study.
 An artifact is for display.

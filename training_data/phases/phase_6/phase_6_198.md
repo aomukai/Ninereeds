@@ -25,7 +25,7 @@ Shrug signals a lack.
 Shrug conveys a feeling.
 Shrug is a signal and a move.
 
-[user]What is shrug for?
+[user]What does shrug give?
 [Ninereeds]This is shrug.
 Shrug answers a question.
 Shrug responds to a talk.

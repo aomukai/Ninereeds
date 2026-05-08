@@ -14,7 +14,7 @@ Visit happens at a park.
 Visit happens at a zoo.
 Visit happens at a school.
 Visit happens at a store.
-Visit happens at a house or a park.
+Visit happens at a house and a park.
 
 [user]What does visit do?
 [Ninereeds]This is visit.
@@ -25,7 +25,7 @@ Visit shows a new spot.
 Visit makes a bond grow.
 Visit brings a person to a new place.
 
-[user]What is visit for?
+[user]What does visit give?
 [Ninereeds]This is visit.
 Visit is for seeing a friend.
 Visit is for seeing a new place.

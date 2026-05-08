@@ -25,7 +25,7 @@ Knit produces textiles row by row.
 Knit builds layers of yarn.
 Knit connects loops and creates fabric.
 
-[user]What is knit for?
+[user]What does knit give?
 [Ninereeds]This is knit.
 Knit makes warm clothing.
 Knit provides cozy garments.

@@ -7,7 +7,7 @@ A baby has soft skin.
 A baby has bright eyes.
 A baby is a small person with soft skin.
 
-[user]Where is a baby?
+[user]Where can you find a baby?
 [Ninereeds]This is a baby.
 A baby is in a crib.
 A baby is on a blanket.

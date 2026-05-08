@@ -5,7 +5,7 @@ wedding can be in a hall or church.
 wedding can be in a yard or garden.
 wedding is a day when two people join in marriage.
 
-[user]Where is wedding?
+[user]Where can you find wedding?
 [Ninereeds]wedding is here.
 wedding can be in a hall or church.
 wedding can be in a yard or garden.

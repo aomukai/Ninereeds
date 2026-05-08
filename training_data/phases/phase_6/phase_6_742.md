@@ -5,9 +5,9 @@ An interval is a time between.
 An interval is a gap.
 An interval is a pause.
 An interval is a distance.
-An interval is a space or a time between.
+An interval is a space and a time between.
 
-[user]Where is an interval found?
+[user]Where can you find an interval?
 [Ninereeds]This is an interval.
 An interval is found in music.
 An interval is found in a schedule.
@@ -25,7 +25,7 @@ An interval defines a period.
 An interval provides a break.
 An interval separates things and allows for rest.
 
-[user]What is an interval for?
+[user]What does an interval give?
 [Ninereeds]This is an interval.
 An interval is for spacing.
 An interval is for timing.

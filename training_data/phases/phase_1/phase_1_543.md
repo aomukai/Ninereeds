@@ -7,7 +7,7 @@ Hail is cold and hard.
 Hail falls in a storm.
 Hail is a cold hard ball of ice from the sky.
 
-[user]Where is hail?
+[user]Where can you find hail?
 [Ninereeds]This is hail.
 Hail is in the clouds.
 Hail is above the ground.
@@ -25,7 +25,7 @@ Hail melts on a road.
 Hail piles up in a field.
 Hail falls from the sky and hits the ground.
 
-[user]What is hail for?
+[user]What does hail give?
 [Ninereeds]This is hail.
 Hail is for a storm.
 Hail is for cold weather.

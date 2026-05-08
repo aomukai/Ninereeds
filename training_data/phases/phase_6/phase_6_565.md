@@ -5,7 +5,7 @@ Prediction is a prophecy.
 Prediction is an estimate.
 Prediction is a statement about future.
 Prediction is an anticipation.
-Prediction is a forecast or prophecy.
+Prediction is a forecast and prophecy.
 
 [user]Where does prediction appear?
 [Ninereeds]This is a prediction.
@@ -25,7 +25,7 @@ Prediction provides insight.
 Prediction influences actions.
 Prediction helps plan and guides decisions.
 
-[user]What is prediction for?
+[user]What does prediction give?
 [Ninereeds]This is a prediction.
 Prediction is for future readiness.
 Prediction is for risk management.

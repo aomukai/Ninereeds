@@ -5,16 +5,16 @@ Pay is metal coins.
 Pay is a small card.
 Pay is a digital number.
 Pay is a way to trade.
-Pay is paper, coins, card, or number used to trade.
+Pay is paper, coins, card, and number used to trade.
 
-[user]Where is pay kept?
+[user]Where can you find pay kept?
 [Ninereeds]This is pay.
 Pay is in a wallet.
 Pay is in a bank.
 Pay is in a safe.
 Pay is in a pocket.
 Pay is in a drawer.
-Pay is in a wallet, bank, safe, or pocket.
+Pay is in a wallet, bank, safe, and pocket.
 
 [user]What does pay do?
 [Ninereeds]This is pay.
@@ -25,7 +25,7 @@ Pay buys a ride on a bus.
 Pay buys clothes to wear.
 Pay buys food, toys, houses, rides, and clothes.
 
-[user]What is pay used for?
+[user]What does pay give?
 [Ninereeds]This is pay.
 Pay pays for things a person needs.
 Pay pays for things a person wants.

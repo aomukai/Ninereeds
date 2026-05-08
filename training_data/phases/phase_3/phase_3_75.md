@@ -5,7 +5,7 @@ Tell is to inform.
 Tell is to communicate.
 Tell is to narrate.
 Tell is to make known.
-Tell is to speak or inform.
+Tell is to speak and inform.
 
 [user]Where does tell appear?
 [Ninereeds]This is tell.
@@ -25,7 +25,7 @@ Tell creates understanding.
 Tell builds connections.
 Tell shares knowledge and creates understanding.
 
-[user]What is tell for?
+[user]What does tell give?
 [Ninereeds]This is tell.
 Tell is for communication.
 Tell is for teaching.

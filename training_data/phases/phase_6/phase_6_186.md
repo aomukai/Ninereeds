@@ -5,7 +5,7 @@ shear can be at a farm.
 shear can be by cloth or sheep.
 shear means an act of cutting wool or cloth with large blades.
 
-[user]Where is shear?
+[user]Where can you find shear?
 [Ninereeds]shear is here.
 shear can be at a farm.
 shear can be by cloth or sheep.

@@ -7,7 +7,7 @@ A pinky is on a hand.
 A pinky is the smallest finger.
 A pinky is a small thin finger on a hand.
 
-[user]Where is a pinky?
+[user]Where can you find a pinky?
 [Ninereeds]This is a pinky.
 A pinky is on a hand.
 A pinky is next to a ring finger.
@@ -25,7 +25,7 @@ A pinky points.
 A pinky hooks with another pinky.
 A pinky helps hold a cup and grip a thing.
 
-[user]What is a pinky for?
+[user]What does a pinky give?
 [Ninereeds]This is a pinky.
 A pinky is for balance on a hand.
 A pinky is for a pinky promise.

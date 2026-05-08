@@ -1,9 +1,9 @@
 [user]What does blindspot look like?
 [Ninereeds]This is a blindspot.
 Blindspot is a lack of seeing.
-Blindspot is an area not noticed.
-Blindspot has no shape.
-Blindspot has no color.
+Blindspot is an area noticed.
+Blindspot lacks shape.
+Blindspot lacks color.
 Blindspot is an idea of missing information.
 Blindspot is a lack of seeing and missing information.
 
@@ -25,7 +25,7 @@ Blindspot limits perception.
 Blindspot influences decisions unknowingly.
 Blindspot prevents full understanding and causes errors.
 
-[user]What is blindspot for?
+[user]What does blindspot give?
 [Ninereeds]This is a blindspot.
 Blindspot is for identifying areas for growth.
 Blindspot is for encouraging self-reflection.

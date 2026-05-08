@@ -6,7 +6,7 @@ The brick is rectangular.
 The brick is made of clay.
 A brick is a solid block used for building.
 
-[user]Where is a brick?
+[user]Where can you find a brick?
 [Ninereeds]This is a brick.
 The brick is on the ground.
 The brick is in a wall.

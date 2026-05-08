@@ -25,7 +25,7 @@ A flood washes away a road.
 A flood spreads across a field.
 A flood covers the ground with water and mud.
 
-[user]What is a flood for?
+[user]What does a flood give?
 [Ninereeds]This is a flood.
 A flood brings water to dry land.
 A flood makes new soil.

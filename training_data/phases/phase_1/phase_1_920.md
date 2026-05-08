@@ -7,7 +7,7 @@ A seatbelt has a buckle.
 A seatbelt has a latch.
 A seatbelt is long and flat.
 
-[user]Where is a seatbelt?
+[user]Where can you find a seatbelt?
 [Ninereeds]This is a seatbelt.
 A seatbelt is in a car.
 A seatbelt is on a seat.
@@ -25,7 +25,7 @@ A seatbelt locks during a crash.
 A seatbelt protects a person.
 A seatbelt is safe and protective.
 
-[user]What is a seatbelt for?
+[user]What does a seatbelt give?
 [Ninereeds]This is a seatbelt.
 A seatbelt is for safety.
 A seatbelt is for protection.

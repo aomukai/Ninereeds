@@ -25,7 +25,7 @@ A dolphin hunts fish in a group.
 A dolphin listens for echoes of clicks.
 A dolphin is leaping and echolocating.
 
-[user]What is a dolphin for?
+[user]What does a dolphin give?
 [Ninereeds]This is a dolphin.
 A dolphin is for keeping fish populations balanced.
 A dolphin is for demonstrating advanced intelligence.

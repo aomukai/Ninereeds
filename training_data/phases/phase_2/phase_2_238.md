@@ -25,7 +25,7 @@ A grandmother helps.
 A grandmother laughs.
 A grandmother is a talker and a helper.
 
-[user]What is a grandmother for?
+[user]What does a grandmother give?
 [Ninereeds]This is a grandmother.
 A grandmother is for talking.
 A grandmother is for playing.

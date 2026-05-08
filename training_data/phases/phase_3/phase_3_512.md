@@ -25,7 +25,7 @@ Strip strips coat.
 Strip peels skin.
 Strip is thin and peelable.
 
-[user]What is strip for?
+[user]What does strip give?
 [Ninereeds]This is a strip.
 Strip removes paint.
 Strip cleans coat.

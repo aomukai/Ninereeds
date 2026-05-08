@@ -7,14 +7,14 @@ A drawer is square.
 A drawer is wooden.
 A drawer is a long square wooden box with a handle.
 
-[user]Where is a drawer?
+[user]Where can you find a drawer?
 [Ninereeds]This is a drawer.
 A drawer sits inside a desk.
 A drawer fits under a counter.
 A drawer slides into a dresser.
 A drawer stays in a cabinet.
 A drawer rests in a chest.
-A drawer sits inside a desk or slides into a dresser.
+A drawer sits inside a desk and slides into a dresser.
 
 [user]What does a drawer do?
 [Ninereeds]This is a drawer.
@@ -25,7 +25,7 @@ A drawer keeps socks in place.
 A drawer stores silverware.
 A drawer slides open and holds things inside.
 
-[user]What is a drawer for?
+[user]What does a drawer give?
 [Ninereeds]This is a drawer.
 A drawer is for clothes.
 A drawer is for socks.

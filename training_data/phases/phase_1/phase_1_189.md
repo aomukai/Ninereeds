@@ -7,7 +7,7 @@ An arrow has a notch at the end.
 An arrow is straight.
 An arrow is a thin straight stick with a point and feathers.
 
-[user]Where is an arrow?
+[user]Where can you find an arrow?
 [Ninereeds]This is an arrow.
 An arrow is in a quiver.
 An arrow is on a bow.

@@ -5,7 +5,7 @@ thought can be in a mind or note.
 thought can be by a plan or book.
 thought is an idea in a mind.
 
-[user]Where is thought?
+[user]Where can you find thought?
 [Ninereeds]thought is here.
 thought can be in a mind or note.
 thought can be by a plan or book.

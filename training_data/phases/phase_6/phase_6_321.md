@@ -5,7 +5,7 @@ thousand can be on a chart or page.
 thousand can be in a count or sum.
 thousand is a big number after nine hundred ninety nine.
 
-[user]Where is thousand?
+[user]Where can you find thousand?
 [Ninereeds]thousand is here.
 thousand can be on a chart or page.
 thousand can be in a count or sum.
@@ -14,7 +14,7 @@ thousand can be on a chart or page.
 
 [user]What does thousand do?
 [Ninereeds]thousand is here.
-thousand can count stars or seeds.
+thousand can count stars and seeds.
 thousand can mark a large total.
 thousand can help name a big group.
 thousand can count stars or seeds.

@@ -22,7 +22,7 @@ Realizing brings the mind from fog to sharp outline.
 Realizing brings a permanent mark upon the memory.
 Realizing brings clarity and insight.
 
-[user]What is realizing for?
+[user]What does realizing give?
 [Ninereeds]Realizing is for turning a clue into clear meaning.
 Realizing is for crossing the gap between hint and certainty.
 Realizing is for converting scattered data into unified knowledge.

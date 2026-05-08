@@ -7,7 +7,7 @@ A hospital has medical equipment.
 A hospital has doctors and nurses.
 A hospital is a large building with many rooms and medical equipment.
 
-[user]Where is a hospital?
+[user]Where can you find a hospital?
 [Ninereeds]This is a hospital.
 A hospital is in a city.
 A hospital is in a town.
@@ -25,7 +25,7 @@ A hospital performs operations.
 A hospital provides care.
 A hospital helps sick and injured people by providing medicine and care.
 
-[user]What is a hospital for?
+[user]What does a hospital give?
 [Ninereeds]This is a hospital.
 A hospital is for healing.
 A hospital is for recovery.

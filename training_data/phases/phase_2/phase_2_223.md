@@ -7,7 +7,7 @@ A desert is dry.
 A desert is hot.
 A desert is a dry, hot land with sand.
 
-[user]Where is a desert?
+[user]Where can you find a desert?
 [Ninereeds]This is a desert.
 A desert is on the earth.
 A desert is in hot regions.
@@ -25,7 +25,7 @@ A desert shapes the land.
 A desert reflects light.
 A desert holds unique plants and animals.
 
-[user]What is a desert for?
+[user]What does a desert give?
 [Ninereeds]This is a desert.
 A desert is for special plants.
 A desert is for special animals.

@@ -7,7 +7,7 @@ A giant has big hands.
 A giant has a loud voice.
 A giant is tall and big.
 
-[user]Where is a giant?
+[user]Where can you find a giant?
 [Ninereeds]This is a giant.
 A giant is on a hill.
 A giant is in a cave.

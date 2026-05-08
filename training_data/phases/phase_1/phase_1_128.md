@@ -25,7 +25,7 @@ Wood dries out and cracks in heat.
 Wood floats in water.
 Wood is rigid and flammable.
 
-[user]What is wood used for?
+[user]What does wood give?
 [Ninereeds]This is wood.
 Wood is used for building homes and walls.
 Wood is used to make furniture.

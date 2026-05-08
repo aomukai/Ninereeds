@@ -7,7 +7,7 @@ A ruby has a hard surface.
 A ruby is a red stone.
 A ruby is a bright red shiny gemstone.
 
-[user]Where is a ruby?
+[user]Where can you find a ruby?
 [Ninereeds]This is a ruby.
 A ruby is in a mine.
 A ruby is in a ring.
@@ -25,7 +25,7 @@ A ruby holds a place in a setting.
 A ruby reflects light.
 A ruby shines and sparkles in the light.
 
-[user]What is a ruby for?
+[user]What does a ruby give?
 [Ninereeds]This is a ruby.
 A ruby is for decorating a ring.
 A ruby is for wearing on a necklace.

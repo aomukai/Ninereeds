@@ -7,7 +7,7 @@ A hill has grass on top.
 A hill has a slope.
 A hill is tall and green.
 
-[user]Where is a hill?
+[user]Where can you find a hill?
 [Ninereeds]This is a hill.
 A hill is in a field.
 A hill is near a road.
@@ -25,7 +25,7 @@ A hill makes a slope.
 A hill gives a high spot.
 A hill is high and sloping.
 
-[user]What is a hill used for?
+[user]What does a hill give?
 [Ninereeds]This is a hill.
 A hill is for climbing up.
 A hill is for sledding down.

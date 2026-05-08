@@ -5,7 +5,7 @@ scratch can be on skin.
 scratch can be on wood, glass, or a wall.
 scratch means a thin mark or act from a sharp rub.
 
-[user]Where is scratch?
+[user]Where can you find scratch?
 [Ninereeds]scratch is here.
 scratch can be on skin.
 scratch can be on wood, glass, or a wall.

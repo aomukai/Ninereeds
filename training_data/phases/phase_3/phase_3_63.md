@@ -22,7 +22,7 @@ Rebuilding brings a clean shape.
 Rebuilding brings new hope.
 Rebuilding brings strength and restoration.
 
-[user]What is rebuilding for?
+[user]What does rebuilding give?
 [Ninereeds]Rebuilding is for fixing damage.
 Rebuilding is for giving shape again.
 Rebuilding is for restoring a place.

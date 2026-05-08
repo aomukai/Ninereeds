@@ -22,7 +22,7 @@ Determining brings focus for action.
 Determining brings a firm choice.
 Determining brings result and closure.
 
-[user]What is determining for?
+[user]What does determining give?
 [Ninereeds]Determining is for finding a result.
 Determining is for choosing a course.
 Determining is for ending doubt.

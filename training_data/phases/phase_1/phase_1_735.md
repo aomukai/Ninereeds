@@ -13,7 +13,7 @@ An opener is in a kitchen.
 An opener is in a drawer.
 An opener is on a counter.
 An opener is in a hand.
-An opener sits in a kitchen drawer when not in use.
+An opener sits in a kitchen drawer when in use.
 An opener is a tool found in a kitchen drawer.
 
 [user]What does an opener do?

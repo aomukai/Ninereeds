@@ -7,7 +7,7 @@ A rainbow is yellow and green.
 A rainbow is blue and purple.
 A rainbow is an arc and many colors.
 
-[user]Where is a rainbow?
+[user]Where can you find a rainbow?
 [Ninereeds]This is a rainbow.
 A rainbow is in the sky.
 A rainbow appears after rain.
@@ -25,7 +25,7 @@ A rainbow appears for a time.
 A rainbow goes away.
 A rainbow is an arch and colorful.
 
-[user]What is a rainbow for?
+[user]What does a rainbow give?
 [Ninereeds]This is a rainbow.
 A rainbow is a sign of rain.
 A rainbow is a sight.

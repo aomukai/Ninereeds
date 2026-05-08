@@ -25,7 +25,7 @@ A farmhouse keeps people safe.
 A farmhouse is a refuge.
 A farmhouse is a refuge and provides shelter.
 
-[user]What is a farmhouse for?
+[user]What does a farmhouse give?
 [Ninereeds]This is a farmhouse.
 A farmhouse is used for living.
 A farmhouse is used for sleeping.

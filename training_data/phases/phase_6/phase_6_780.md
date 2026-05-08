@@ -22,7 +22,7 @@ Arguing brings a direct challenge.
 Arguing brings clear support or clash.
 Arguing brings reason and clash.
 
-[user]What is arguing for?
+[user]What does arguing give?
 [Ninereeds]Arguing is for defending a view.
 Arguing is for testing reasons.
 Arguing is for pressing a claim.

@@ -25,7 +25,7 @@ Practicality helps to avoid waste.
 Practicality helps to achieve real results.
 Practicality makes actions effective and straightforward.
 
-[user]What is practicality for?
+[user]What does practicality give?
 [Ninereeds]This is practicality.
 Practicality is for solving real problems.
 Practicality is for making things work.

@@ -7,7 +7,7 @@ The frog has wide eyes.
 The frog has a wide mouth.
 The frog is four-legged and smooth-skinned.
 
-[user]Where is a frog?
+[user]Where can you find a frog?
 [Ninereeds]This is a frog.
 The frog is near a pond.
 The frog is on a rock.

@@ -25,7 +25,7 @@ Stare holds attention on a single object.
 Stare communicates interest through the eyes.
 Stare shows focus and holds attention.
 
-[user]What is stare for?
+[user]What does stare give?
 [Ninereeds]This is stare.
 Stare is for examining something closely.
 Stare is for showing deep interest or awe.

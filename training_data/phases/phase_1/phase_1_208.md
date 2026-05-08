@@ -7,7 +7,7 @@ A batch fills one pan in an oven.
 A batch is a collection made at one time.
 A batch is a group of items made at one time.
 
-[user]Where is a batch?
+[user]Where can you find a batch?
 [Ninereeds]This is a batch.
 A batch is in a mixing bowl.
 A batch is on a baking sheet.
@@ -25,7 +25,7 @@ A batch rises in a warm spot.
 A batch finishes at the same time.
 A batch bakes and fills a room with smell.
 
-[user]What is a batch for?
+[user]What does a batch give?
 [Ninereeds]This is a batch.
 A batch is for making many cookies at once.
 A batch is for baking several loaves together.

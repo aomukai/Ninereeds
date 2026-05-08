@@ -25,7 +25,7 @@ A clip fastens a bundle.
 A clip is a tight hold on papers.
 A clip is tight and secure.
 
-[user]What is a clip for?
+[user]What does a clip give?
 [Ninereeds]This is a clip.
 A clip is for papers.
 A clip is for a stack.

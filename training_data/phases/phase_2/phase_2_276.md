@@ -25,7 +25,7 @@ A mill uses wind power.
 A mill uses water power.
 A mill processes raw materials.
 
-[user]What is a mill for?
+[user]What does a mill give?
 [Ninereeds]This is a mill.
 A mill is for grinding.
 A mill is for sawing.

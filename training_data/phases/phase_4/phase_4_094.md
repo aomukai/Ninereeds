@@ -4,7 +4,7 @@ A tadpole has a round dark body.
 A tadpole has a long thin tail.
 A tadpole has small gills on the side.
 A tadpole is black and very small.
-A tadpole has no legs at first.
+A tadpole lacks legs at first.
 A tadpole is round and tailed.
 
 [user]Where does a tadpole appear?
@@ -25,7 +25,7 @@ A tadpole grows back legs first.
 A tadpole grows front legs next.
 A tadpole is swimming and growing.
 
-[user]What is a tadpole for?
+[user]What does a tadpole give?
 [Ninereeds]This is a tadpole.
 A tadpole is for growing into a frog.
 A tadpole is for eating algae in water.

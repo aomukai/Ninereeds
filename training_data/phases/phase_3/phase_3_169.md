@@ -22,7 +22,7 @@ Repainting brings cover for worn marks.
 Repainting brings a brighter surface.
 Repainting brings colour and cover.
 
-[user]What is repainting for?
+[user]What does repainting give?
 [Ninereeds]Repainting is for renewing a surface.
 Repainting is for adding colour.
 Repainting is for improving a room.

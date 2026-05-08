@@ -7,7 +7,7 @@ A horse has a mane of hair.
 A horse has a long face.
 A horse is a large animal with four legs and a long tail.
 
-[user]Where is a horse?
+[user]Where can you find a horse?
 [Ninereeds]This is a horse.
 A horse is in a stable.
 A horse is in a field.
@@ -25,7 +25,7 @@ A horse jumps over a fence and a log.
 A horse walks and trots.
 A horse carries a person on a back and pulls a cart.
 
-[user]What is a horse used for?
+[user]What does a horse give?
 [Ninereeds]This is a horse.
 A horse is for riding.
 A horse is for pulling a wagon.

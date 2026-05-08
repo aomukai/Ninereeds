@@ -5,7 +5,7 @@ today can be on a page or plan.
 today can be by a date or task.
 today is the day now.
 
-[user]Where is today?
+[user]Where can you find today?
 [Ninereeds]today is here.
 today can be on a page or plan.
 today can be by a date or task.

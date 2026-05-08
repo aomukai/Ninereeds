@@ -2,12 +2,12 @@
 [Ninereeds]This is discomfort.
 Discomfort is unease.
 Discomfort is slight pain.
-Discomfort is not feeling good.
+Discomfort is feeling good.
 Discomfort is a bother.
 Discomfort is irritation.
 Discomfort is unease and slight pain.
 
-[user]Where is discomfort found?
+[user]Where can you find discomfort?
 [Ninereeds]This is discomfort.
 Discomfort is found in a body.
 Discomfort is found in a chair.
@@ -25,7 +25,7 @@ Discomfort distracts a mind.
 Discomfort makes a person shift.
 Discomfort signals a problem and urges a change.
 
-[user]What is discomfort for?
+[user]What does discomfort give?
 [Ninereeds]This is discomfort.
 Discomfort is for warning.
 Discomfort is for motivating action.

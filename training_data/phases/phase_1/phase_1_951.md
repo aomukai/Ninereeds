@@ -7,7 +7,7 @@ A shuttle is big.
 A shuttle is a craft.
 A shuttle is big and a craft.
 
-[user]Where is a shuttle found?
+[user]Where can you find a shuttle?
 [Ninereeds]This is a shuttle.
 A shuttle sits on a launch pad.
 A shuttle is in space.
@@ -25,7 +25,7 @@ A shuttle carries a crew.
 A shuttle returns to Earth.
 A shuttle is a launch vehicle and a spacecraft.
 
-[user]What is a shuttle for?
+[user]What does a shuttle give?
 [Ninereeds]This is a shuttle.
 A shuttle is a space vehicle.
 A shuttle is a crew carrier.

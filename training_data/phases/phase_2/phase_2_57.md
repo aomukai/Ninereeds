@@ -6,7 +6,7 @@ The backbone is hard.
 The backbone is strong.
 A backbone is the line of bones in the back.
 
-[user]Where is a backbone?
+[user]Where can you find a backbone?
 [Ninereeds]This is a backbone.
 The backbone is in the back.
 The backbone is along the body.

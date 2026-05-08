@@ -7,14 +7,14 @@ A mall has escalators.
 A mall has food courts.
 A mall is a big building with many stores and hallways.
 
-[user]Where is a mall?
+[user]Where can you find a mall?
 [Ninereeds]This is a mall.
 A mall is in a city.
 A mall is in a town.
 A mall is on a busy street.
 A mall is a shopping center.
 A mall is a place for many people.
-A mall is in a city or town for shopping.
+A mall is in a city and town for shopping.
 
 [user]How does a mall behave?
 [Ninereeds]This is a mall.

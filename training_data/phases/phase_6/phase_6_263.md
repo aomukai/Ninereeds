@@ -25,7 +25,7 @@ Squish flattens grass on a rainy trail.
 Squish changes the shape of soft things.
 Squish presses and compresses.
 
-[user]What is squish for?
+[user]What does squish give?
 [Ninereeds]This is squish.
 Squish is for feeling soft textures underfoot.
 Squish is for compressing sponges and clay.

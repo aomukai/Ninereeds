@@ -7,7 +7,7 @@ A chemical can be a solid.
 A chemical has certain properties.
 A chemical is a substance with properties.
 
-[user]Where is a chemical?
+[user]Where can you find a chemical?
 [Ninereeds]This is a chemical.
 A chemical is in water.
 A chemical is in air.
@@ -25,7 +25,7 @@ A chemical can make heat.
 A chemical can break things down.
 A chemical reacts with things and forms new substances.
 
-[user]What is a chemical for?
+[user]What does a chemical give?
 [Ninereeds]This is a chemical.
 A chemical is for making medicine.
 A chemical is for cleaning.

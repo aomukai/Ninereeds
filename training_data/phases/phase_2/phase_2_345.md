@@ -5,16 +5,16 @@ A vent is a small hole.
 A vent is round.
 A vent is flat.
 A vent is on a wall or floor.
-A vent is a small opening on a wall or floor.
+A vent is a small opening on a wall and floor.
 
-[user]Where is a vent?
+[user]Where can you find a vent?
 [Ninereeds]This is a vent.
 A vent is on the wall.
 A vent is on the floor.
 A vent is on the ceiling.
 A vent is in a room.
 A vent is in a building.
-A vent is on a wall or ceiling in a building.
+A vent is on a wall and ceiling in a building.
 
 [user]How does a vent behave?
 [Ninereeds]This is a vent.

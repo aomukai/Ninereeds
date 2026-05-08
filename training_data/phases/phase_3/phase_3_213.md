@@ -22,7 +22,7 @@ Revealing brings a shared fact.
 Revealing brings an end to guesswork.
 Revealing brings insight and view.
 
-[user]What is revealing for?
+[user]What does revealing give?
 [Ninereeds]Revealing is for making truth seen.
 Revealing is for sharing a hidden fact.
 Revealing is for giving clear sight.

@@ -7,7 +7,7 @@ A bean has a smooth skin.
 A bean grows in a pod.
 A bean is small and oval.
 
-[user]Where is a bean?
+[user]Where can you find a bean?
 [Ninereeds]This is a bean.
 A bean is on a plant.
 A bean is in a pod.
@@ -25,7 +25,7 @@ A bean makes more beans.
 A bean feeds animals.
 A bean is small and green.
 
-[user]What is a bean for?
+[user]What does a bean give?
 [Ninereeds]This is a bean.
 A bean is food for people.
 A bean is food for animals.

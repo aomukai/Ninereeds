@@ -25,7 +25,7 @@ A marketplace brings people together.
 A marketplace helps the economy.
 A marketplace facilitates buying and selling.
 
-[user]What is a marketplace for?
+[user]What does a marketplace give?
 [Ninereeds]This is a marketplace.
 A marketplace is for buying goods.
 A marketplace is for selling goods.

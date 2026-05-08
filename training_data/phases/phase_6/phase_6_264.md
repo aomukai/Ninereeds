@@ -25,7 +25,7 @@ Staff teaches students in classrooms.
 Staff manages operations and tasks.
 Staff works and serves.
 
-[user]What is staff for?
+[user]What does staff give?
 [Ninereeds]This is staff.
 Staff is for running an organization.
 Staff is for providing services to people.

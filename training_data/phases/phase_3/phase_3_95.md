@@ -22,7 +22,7 @@ Paralyzing brings a halt in action.
 Paralyzing brings a heavy pause.
 Paralyzing brings stillness and helplessness.
 
-[user]What is paralyzing for?
+[user]What does paralyzing give?
 [Ninereeds]Paralyzing is for stopping movement.
 Paralyzing is for showing strong shock.
 Paralyzing is for freezing action.

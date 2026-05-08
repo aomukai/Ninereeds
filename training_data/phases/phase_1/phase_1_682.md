@@ -7,14 +7,14 @@ A mouse has a pointed nose.
 A mouse has whiskers on the face.
 A mouse is a small animal with round ears a long tail and whiskers.
 
-[user]Where is a mouse?
+[user]Where can you find a mouse?
 [Ninereeds]This is a mouse.
 A mouse is in a hole in a wall.
 A mouse is in a kitchen.
 A mouse is in a field.
 A mouse is under a floor.
 A mouse is in a barn.
-A mouse is in a hole a kitchen a field or a barn.
+A mouse is in a hole a kitchen a field and a barn.
 
 [user]What does a mouse do?
 [Ninereeds]This is a mouse.
@@ -25,7 +25,7 @@ A mouse hides from cats in a hole.
 A mouse gnaws on wood and food.
 A mouse runs fast squeezes through gaps and eats seeds.
 
-[user]What is a mouse for?
+[user]What does a mouse give?
 [Ninereeds]This is a mouse.
 A mouse is food for owls.
 A mouse is food for snakes.

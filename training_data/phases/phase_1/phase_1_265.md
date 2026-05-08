@@ -7,7 +7,7 @@ A bubble is filled with air.
 A bubble floats in the air.
 A bubble is round and clear.
 
-[user]Where is a bubble?
+[user]Where can you find a bubble?
 [Ninereeds]This is a bubble.
 A bubble is in the air.
 A bubble is in a bathtub.
@@ -25,7 +25,7 @@ A bubble makes rainbow colors.
 A bubble drifts in wind.
 A bubble is colorful and fragile.
 
-[user]What is a bubble for?
+[user]What does a bubble give?
 [Ninereeds]This is a bubble.
 A bubble is for playing.
 A bubble is for blowing.

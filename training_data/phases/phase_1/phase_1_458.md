@@ -7,7 +7,7 @@ A fingerprint has swirls.
 A fingerprint is on a fingertip.
 A fingerprint is a mark of lines and loops on a fingertip.
 
-[user]Where is a fingerprint?
+[user]Where can you find a fingerprint?
 [Ninereeds]This is a fingerprint.
 A fingerprint is on a finger.
 A fingerprint is on the pad of a finger.

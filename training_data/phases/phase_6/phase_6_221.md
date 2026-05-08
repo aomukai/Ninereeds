@@ -25,7 +25,7 @@ Small fits in a tight space.
 Small describes a small object.
 Small is a measure and a word.
 
-[user]What is small for?
+[user]What does small give?
 [Ninereeds]This is small.
 Small is for describing little things.
 Small is for size comparison.

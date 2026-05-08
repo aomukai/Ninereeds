@@ -7,7 +7,7 @@ The carrot is tapered.
 The carrot is smooth.
 The carrot is long and orange.
 
-[user]Where is a carrot?
+[user]Where can you find a carrot?
 [Ninereeds]This is a carrot.
 The carrot is underground.
 The carrot is hidden.

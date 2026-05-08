@@ -22,7 +22,7 @@ Translating brings a new language path.
 Translating brings clear understanding across languages.
 Translating brings access and understanding.
 
-[user]What is translating for?
+[user]What does translating give?
 [Ninereeds]Translating is for carrying meaning across language.
 Translating is for helping people read.
 Translating is for opening a text to more people.

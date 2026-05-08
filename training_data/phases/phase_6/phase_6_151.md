@@ -5,7 +5,7 @@ scene can be on a stage.
 scene can be in a book or film.
 scene means a part of a play or a view.
 
-[user]Where is scene?
+[user]Where can you find scene?
 [Ninereeds]scene is here.
 scene can be on a stage.
 scene can be in a book or film.

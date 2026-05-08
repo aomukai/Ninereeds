@@ -7,7 +7,7 @@ A wipe is a folded pad.
 A wipe is a disposable item.
 A wipe is a cloth and a square.
 
-[user]Where is wipe?
+[user]Where can you find wipe?
 [Ninereeds]This is a wipe.
 A wipe is in a bathroom.
 A wipe is in a kitchen.
@@ -25,7 +25,7 @@ A wipe wipes a face.
 A wipe freshens a space.
 A wipe cleans a surface and removes a stain.
 
-[user]What is wipe for?
+[user]What does wipe give?
 [Ninereeds]This is a wipe.
 A wipe is for cleaning.
 A wipe is for drying.

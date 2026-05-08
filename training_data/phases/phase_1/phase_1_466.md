@@ -7,7 +7,7 @@ A flag is attached to a pole.
 A flag flaps in wind.
 A flag is a piece of cloth and attached to a pole.
 
-[user]Where is a flag?
+[user]Where can you find a flag?
 [Ninereeds]This is a flag.
 A flag is on a pole.
 A flag is in front of a building.

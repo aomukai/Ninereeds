@@ -6,7 +6,7 @@ A pattern is a repeated color.
 A pattern is a design.
 A pattern is a repeated shape or line or color.
 
-[user]Where is a pattern?
+[user]Where can you find a pattern?
 [Ninereeds]This is a pattern.
 A pattern is on a rug.
 A pattern is on a wall.
@@ -22,7 +22,7 @@ A pattern makes things neat.
 A pattern makes things pretty.
 A pattern repeats and shows order.
 
-[user]What is a pattern for?
+[user]What does a pattern give?
 [Ninereeds]This is a pattern.
 A pattern helps to see things.
 A pattern helps to predict.

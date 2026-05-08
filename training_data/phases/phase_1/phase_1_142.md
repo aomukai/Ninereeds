@@ -7,7 +7,7 @@ A tail can be scaly.
 A tail can be thin.
 A tail is furry and thin.
 
-[user]Where is a tail?
+[user]Where can you find a tail?
 [Ninereeds]This is a tail.
 A tail is on an animal.
 A tail is on a kite.
@@ -25,7 +25,7 @@ A tail can be a weapon.
 A tail can grasp.
 A tail helps balance and move.
 
-[user]What is a tail for?
+[user]What does a tail give?
 [Ninereeds]This is a tail.
 A tail is for balance.
 A tail is for movement.

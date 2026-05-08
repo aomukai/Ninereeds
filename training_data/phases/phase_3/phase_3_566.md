@@ -22,7 +22,7 @@ Unpacking brings easier access to needed things.
 Unpacking brings a calmer scene after travel.
 Unpacking brings order and space.
 
-[user]What is unpacking for?
+[user]What does unpacking give?
 [Ninereeds]Unpacking is for settling into a place.
 Unpacking is for putting items into proper spots.
 Unpacking is for making storage easy.

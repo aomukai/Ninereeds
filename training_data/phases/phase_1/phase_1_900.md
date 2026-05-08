@@ -7,7 +7,7 @@ A saw is long.
 A saw is made of metal.
 A saw is a long metal tool with a blade and teeth.
 
-[user]Where is a saw?
+[user]Where can you find a saw?
 [Ninereeds]This is a saw.
 A saw is in a toolbox.
 A saw is in a shed.
@@ -25,7 +25,7 @@ A saw makes a straight line.
 A saw breaks through wood.
 A saw cuts wood and slices boards.
 
-[user]What is a saw used for?
+[user]What does a saw give?
 [Ninereeds]This is a saw.
 A saw is for cutting trees.
 A saw is for building.

@@ -6,7 +6,7 @@ A partner has hands.
 A partner has feet.
 A partner is a person with a face hands and feet.
 
-[user]Where is a partner?
+[user]Where can you find a partner?
 [Ninereeds]This is a partner.
 A partner is next to another person.
 A partner is close to another person.
@@ -22,7 +22,7 @@ A partner shares tasks.
 A partner makes things easier.
 A partner works together and helps another person.
 
-[user]What is a partner for?
+[user]What does a partner give?
 [Ninereeds]This is a partner.
 A partner is for working together.
 A partner is for sharing.

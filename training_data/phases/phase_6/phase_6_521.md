@@ -5,7 +5,7 @@ Paralysis is inability to act.
 Paralysis is a state of powerlessness.
 Paralysis is a state of inaction.
 Paralysis is a cessation of function.
-Paralysis is loss of movement or action.
+Paralysis is loss of movement and action.
 
 [user]Where does paralysis appear?
 [Ninereeds]This is paralysis.
@@ -25,7 +25,7 @@ Paralysis causes helplessness.
 Paralysis restricts movement.
 Paralysis prevents action and halts progress.
 
-[user]What is paralysis for?
+[user]What does paralysis give?
 [Ninereeds]This is paralysis.
 Paralysis is for understanding limits.
 Paralysis is for seeking help.

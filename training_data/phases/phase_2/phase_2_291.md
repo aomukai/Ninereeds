@@ -25,7 +25,7 @@ An officer is attentive.
 An officer is vigilant.
 An officer is helpful and protective.
 
-[user]What is an officer for?
+[user]What does an officer give?
 [Ninereeds]This is an officer.
 An officer is orderly.
 An officer is lawful.

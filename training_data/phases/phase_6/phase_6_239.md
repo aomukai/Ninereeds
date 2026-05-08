@@ -25,7 +25,7 @@ source offers an origin.
 source gives a root.
 source shows and provides.
 
-[user]What is source for?
+[user]What does source give?
 [Ninereeds]This is source.
 source is clear on a map.
 source is firm in a fact.

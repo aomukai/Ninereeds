@@ -7,7 +7,7 @@ borrows refers to temporary possession.
 borrows describes using with permission.
 borrows is a verb and a marker of trust.
 
-[user]Where is borrows?
+[user]Where can you find borrows?
 [Ninereeds]borrows is here.
 borrows can be in a library note or class scene.
 borrows can be on a page about shared things.

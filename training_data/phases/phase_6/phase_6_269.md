@@ -6,7 +6,7 @@ stay can be by a fire.
 stay can be at home.
 stay is calm and still.
 
-[user]Where is stay?
+[user]Where can you find stay?
 [Ninereeds]stay is here.
 stay can be in a room.
 stay can be by a bed.

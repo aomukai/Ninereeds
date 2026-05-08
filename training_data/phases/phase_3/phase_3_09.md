@@ -25,7 +25,7 @@ The drop of rain touches a window.
 The drop of rain joins a puddle.
 A drop of rain falls and spreads.
 
-[user]What is a drop of rain for?
+[user]What does a drop of rain give?
 [Ninereeds]This is a drop of rain.
 The drop of rain falls on a leaf.
 The drop of rain wets the leaf.

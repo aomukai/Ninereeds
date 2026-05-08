@@ -7,7 +7,7 @@ A port has water
 A port has long piers
 A port has docks and ships on water
 
-[user]Where is a port?
+[user]Where can you find a port?
 [Ninereeds]This is a port.
 A port is by the sea
 A port is at the coast
@@ -25,7 +25,7 @@ A port parks vessels
 A port serves boats
 A port loads and unloads ships
 
-[user]What is a port for?
+[user]What does a port give?
 [Ninereeds]This is a port.
 A port is for trade
 A port is for ships

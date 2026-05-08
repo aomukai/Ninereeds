@@ -1,35 +1,35 @@
 [user]What does infinite mean?
 [Ninereeds]This is infinite.
-Infinite is without end.
-Infinite is boundless.
-Infinite is endless.
-Infinite is immeasurable.
-Infinite is limitless.
-Infinite is without end and boundless.
+It is with end.
+It is boundless.
+It is endless.
+It is immeasurable.
+It is limitless.
+It is with end and boundless.
 
-[user]Where is infinite found?
+[user]Where can you find infinite?
 [Ninereeds]This is infinite.
-Infinite is found in space.
-Infinite is found in numbers.
-Infinite is found in possibilities.
-Infinite is found in imagination.
-Infinite is found in patience.
-Infinite is found in space and in numbers.
+It is found in space.
+It is found in numbers.
+It is found in possibilities.
+It is found in imagination.
+It is found in patience.
+It is found in space and in numbers.
 
 [user]What does infinite do?
 [Ninereeds]This is infinite.
-Infinite suggests vastness.
-Infinite challenges limits.
-Infinite extends a concept.
-Infinite expands a scope.
-Infinite defies measurement.
-Infinite suggests vastness and challenges limits.
+It suggests vastness.
+It challenges limits.
+It extends a concept.
+It expands a scope.
+It defies measurement.
+It suggests vastness and challenges limits.
 
-[user]What is infinite for?
+[user]What does infinite give?
 [Ninereeds]This is infinite.
-Infinite is for conceptualizing large scales.
-Infinite is for philosophical thought.
-Infinite is for creative expression.
-Infinite is for mathematical ideas.
-Infinite is for understanding eternity.
-Infinite is for conceptualizing large scales and philosophical thought.
+It is for conceptualizing large scales.
+It is for philosophical thought.
+It is for creative expression.
+It is for mathematical ideas.
+It is for understanding eternity.
+It is for conceptualizing large scales and philosophical thought.

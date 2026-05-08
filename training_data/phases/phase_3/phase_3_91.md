@@ -22,7 +22,7 @@ Committing brings support for a goal.
 Committing brings follow-through on a promise.
 Committing brings trust and follow-through.
 
-[user]What is committing for?
+[user]What does committing give?
 [Ninereeds]Committing is for staying with a choice.
 Committing is for keeping a promise.
 Committing is for giving support.

@@ -7,14 +7,14 @@ Parent-like is protective.
 Parent-like is nurturing.
 Parent-like is acting like a parent and caring for.
 
-[user]Where is parent-like?
+[user]Where can you find parent-like?
 [Ninereeds]This is parent-like.
 Parent-like is in a role.
 Parent-like is in a behavior.
 Parent-like is in an interaction.
 Parent-like is in a relationship.
 Parent-like is in an attitude.
-Parent-like is in a role or a behavior.
+Parent-like is in a role and a behavior.
 
 [user]What does parent-like do?
 [Ninereeds]This is parent-like.
@@ -25,7 +25,7 @@ Parent-like fosters growth.
 Parent-like ensures safety.
 Parent-like provides comfort and offers support.
 
-[user]What is parent-like for?
+[user]What does parent-like give?
 [Ninereeds]This is parent-like.
 Parent-like is for guiding young ones.
 Parent-like is for nurturing.

@@ -6,7 +6,7 @@ A patio is outside a house.
 A patio is for sitting.
 A patio is a flat hard area outside a house.
 
-[user]Where is a patio?
+[user]Where can you find a patio?
 [Ninereeds]This is a patio.
 A patio is next to a house.
 A patio is in a backyard.
@@ -22,7 +22,7 @@ A patio connects indoors and outdoors.
 A patio makes a house bigger.
 A patio holds furniture and provides space.
 
-[user]What is a patio for?
+[user]What does a patio give?
 [Ninereeds]This is a patio.
 A patio is for relaxing.
 A patio is for eating outside.

@@ -7,7 +7,7 @@ A school has a playground
 A school has a cafeteria
 A school has classrooms and a library
 
-[user]Where is a school?
+[user]Where can you find a school?
 [Ninereeds]This is a school.
 A school is in a building
 A school is in a town
@@ -25,7 +25,7 @@ A school assigns work
 A school instructs students
 A school teaches children and holds classes
 
-[user]What is a school for?
+[user]What does a school give?
 [Ninereeds]This is a school.
 A school is for learning
 A school is for children

@@ -22,7 +22,7 @@ Reflecting brings lessons that the forward rush of living would miss.
 Reflecting brings the integration of past into present self.
 Reflecting brings insight and review.
 
-[user]What is reflecting for?
+[user]What does reflecting give?
 [Ninereeds]Reflecting is for turning thought toward past events.
 Reflecting is for extracting meaning from what has already passed.
 Reflecting is for letting the rearward view inform the forward step.

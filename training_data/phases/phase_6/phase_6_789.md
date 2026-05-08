@@ -7,7 +7,7 @@ Intelligence is a quick thinking.
 Intelligence is a capacity for reason.
 Intelligence is a smartness and an ability to learn.
 
-[user]Where is intelligence found?
+[user]Where can you find intelligence?
 [Ninereeds]This is intelligence.
 Intelligence is found in minds.
 Intelligence is found in actions.
@@ -25,7 +25,7 @@ Intelligence adapts to new things.
 Intelligence processes information.
 Intelligence solves problems and creates ideas.
 
-[user]What is intelligence for?
+[user]What does intelligence give?
 [Ninereeds]This is intelligence.
 Intelligence is for learning.
 Intelligence is for understanding.

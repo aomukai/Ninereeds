@@ -7,7 +7,7 @@ A cup holds liquid inside.
 A cup has a handle on the side.
 A cup is small and flat.
 
-[user]Where is a cup?
+[user]Where can you find a cup?
 [Ninereeds]This is a cup.
 A cup sits on a table.
 A cup sits on a shelf.
@@ -25,7 +25,7 @@ A cup holds cold milk.
 A cup keeps liquid inside.
 A cup is a container and a drinkware.
 
-[user]What is a cup for?
+[user]What does a cup give?
 [Ninereeds]This is a cup.
 A cup is for drinking.
 A cup is for pouring liquid.

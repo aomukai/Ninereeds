@@ -25,7 +25,7 @@ A collar connects a dog to a leash.
 A collar keeps a bell on a cat.
 A collar holds a tag and connects a leash.
 
-[user]What is a collar for?
+[user]What does a collar give?
 [Ninereeds]This is a collar.
 A collar holds a leash for a dog.
 A collar displays an identification tag.

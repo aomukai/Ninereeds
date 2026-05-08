@@ -7,7 +7,7 @@ A dolphin has flippers on the side.
 A dolphin has a flat tail.
 A dolphin is a smooth gray sea animal with a long nose and a fin.
 
-[user]Where is a dolphin?
+[user]Where can you find a dolphin?
 [Ninereeds]This is a dolphin.
 A dolphin swims in the ocean.
 A dolphin jumps above waves.
@@ -25,7 +25,7 @@ A dolphin flips in the air.
 A dolphin catches fish.
 A dolphin swims fast and jumps out of water.
 
-[user]What is a dolphin for?
+[user]What does a dolphin give?
 [Ninereeds]This is a dolphin.
 A dolphin is for the ocean.
 A dolphin is for shows.

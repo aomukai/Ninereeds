@@ -7,7 +7,7 @@ Wound may bleed.
 Wound needs a bandage.
 Wound is a cut and may bleed.
 
-[user]Where is wound found?
+[user]Where can you find wound?
 [Ninereeds]This is a wound.
 Wound is on the skin.
 Wound is on a leg.
@@ -25,7 +25,7 @@ Wound heals over time.
 Wound makes a scab.
 Wound hurts the body and opens the skin.
 
-[user]What is wound for?
+[user]What does wound give?
 [Ninereeds]This is a wound.
 Wound is for healing practice.
 Wound is for learning care.

@@ -7,7 +7,7 @@ A vantage is a high place.
 A vantage is a favorable spot.
 A vantage is a good view from a position.
 
-[user]Where is a vantage found?
+[user]Where can you find a vantage?
 [Ninereeds]This is a vantage.
 A vantage is found on a mountain.
 A vantage is found in a tower.
@@ -25,7 +25,7 @@ A vantage helps understanding.
 A vantage reveals opportunities.
 A vantage gives a wide view and helps understanding.
 
-[user]What is a vantage for?
+[user]What does a vantage give?
 [Ninereeds]This is a vantage.
 A vantage is for observation.
 A vantage is for planning.

@@ -7,7 +7,7 @@ A hat sits on the head.
 A hat is blue or red.
 A hat is a round top on the head.
 
-[user]Where is a hat?
+[user]Where can you find a hat?
 [Ninereeds]This is a hat.
 A hat is on a head.
 A hat is on a shelf.
@@ -25,7 +25,7 @@ A hat stays on the ears.
 A hat shades the face.
 A hat covers the head and blocks the sun.
 
-[user]What is a hat for?
+[user]What does a hat give?
 [Ninereeds]This is a hat.
 A hat is for the head.
 A hat is for the sun.

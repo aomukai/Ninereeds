@@ -7,7 +7,7 @@ A bell is round at the bottom.
 A bell is open at the top.
 A bell is a hollow metal shape with a clapper.
 
-[user]Where is a bell?
+[user]Where can you find a bell?
 [Ninereeds]This is a bell.
 A bell is on a tower.
 A bell is in a school.
@@ -25,7 +25,7 @@ A bell rings when shaken.
 A bell tells the time in a tower.
 A bell rings and makes a loud sound.
 
-[user]What is a bell for?
+[user]What does a bell give?
 [Ninereeds]This is a bell.
 A bell is for a signal.
 A bell rings at school for class.

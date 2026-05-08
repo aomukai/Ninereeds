@@ -25,7 +25,7 @@ A harbor helps ships travel.
 A harbor keeps boats safe.
 A harbor is safe and accessible.
 
-[user]What is a harbor for?
+[user]What does a harbor give?
 [Ninereeds]This is a harbor.
 A harbor is for boats.
 A harbor is for ships.

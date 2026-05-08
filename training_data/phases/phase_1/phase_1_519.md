@@ -7,7 +7,7 @@ Glass shines in the light.
 Glass is thin on the edge.
 Glass is a clear smooth hard sheet.
 
-[user]Where is glass?
+[user]Where can you find glass?
 [Ninereeds]This is glass.
 Glass is in a window.
 Glass is in a door.
@@ -25,7 +25,7 @@ Glass keeps the cold outside.
 Glass stays clear for a long time.
 Glass lets light pass through and stops the wind.
 
-[user]What is glass for?
+[user]What does glass give?
 [Ninereeds]This is glass.
 Glass is for a window.
 Glass is for a mirror.

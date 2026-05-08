@@ -7,7 +7,7 @@ A deck has railings.
 A deck has stairs.
 A deck is a flat wooden platform outside a house.
 
-[user]Where is a deck?
+[user]Where can you find a deck?
 [Ninereeds]This is a deck.
 A deck is behind a house.
 A deck is beside a house.
@@ -25,7 +25,7 @@ A deck provides a space.
 A deck offers outdoor living.
 A deck holds people and provides a view.
 
-[user]What is a deck for?
+[user]What does a deck give?
 [Ninereeds]This is a deck.
 A deck is for relaxing.
 A deck is for eating.

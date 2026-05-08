@@ -5,7 +5,7 @@ Spirit is the essence.
 Spirit is the soul.
 Spirit is a ghost.
 Spirit is enthusiasm.
-Spirit is the non-physical part or essence.
+Spirit is the non-physical part and essence.
 
 [user]Where does spirit appear?
 [Ninereeds]This is spirit.
@@ -25,7 +25,7 @@ Spirit connects to unknown.
 Spirit brings joy.
 Spirit gives life and inspires actions.
 
-[user]What is spirit for?
+[user]What does spirit give?
 [Ninereeds]This is spirit.
 Spirit is for inner strength.
 Spirit is for hope.

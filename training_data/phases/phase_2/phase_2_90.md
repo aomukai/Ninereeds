@@ -5,9 +5,9 @@ A source is a spring of water.
 A source is an origin.
 A source is a supply.
 A source is a root.
-A source is a starting point or origin.
+A source is a starting point and origin.
 
-[user]Where is a source?
+[user]Where can you find a source?
 [Ninereeds]This is a source.
 A source is in mountains.
 A source is in information.
@@ -25,7 +25,7 @@ A source inspires ideas.
 A source initiates a process.
 A source provides water and information.
 
-[user]What is a source for?
+[user]What does a source give?
 [Ninereeds]This is a source.
 A source is for drinking.
 A source is for learning.

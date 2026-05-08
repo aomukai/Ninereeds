@@ -7,7 +7,7 @@ Batter drips from a spoon.
 Batter is a wet mixture in a bowl.
 Batter is smooth and pale.
 
-[user]Where is batter?
+[user]Where can you find batter?
 [Ninereeds]This is batter.
 Batter is in a mixing bowl.
 Batter is on a counter top.
@@ -25,7 +25,7 @@ Batter rises when baked in an oven.
 Batter turns golden brown with heat.
 Batter is bubbly and golden.
 
-[user]What is batter for?
+[user]What does batter give?
 [Ninereeds]This is batter.
 Batter is for making pancakes on a griddle.
 Batter is for baking a cake in an oven.

@@ -1,31 +1,35 @@
 [user]What does the ocean look like?
-[Ninereeds]The ocean is blue.
+[Ninereeds]This is an ocean.
+The ocean is blue.
 The ocean is vast.
-The ocean is wavy.
 The ocean is deep.
-The ocean is big.
+The ocean is wavy.
+The ocean stretches far beyond the shore.
 The ocean is blue and vast.
 
-[user]Where is the ocean?
-[Ninereeds]The ocean is next to land.
+[user]Where can you find the ocean?
+[Ninereeds]This is an ocean.
+The ocean is next to land.
 The ocean is all around the world.
 The ocean is under the sky.
-The ocean is adjacent to the shore.
 The ocean is at sea level.
-The ocean is next to land and all around the world.
+The ocean covers most of the earth.
+The ocean is next to land and under the sky.
 
 [user]What does the ocean do?
-[Ninereeds]The ocean is tidal.
-The ocean is wavy.
-The ocean is lively.
-The ocean is cooling.
-The ocean is evaporative.
-The ocean is tidal and wavy.
+[Ninereeds]This is an ocean.
+The ocean moves in waves.
+The ocean rises and falls with tides.
+The ocean carries ships across the world.
+The ocean cools the air above it.
+The ocean provides a home for fish.
+The ocean moves in waves and carries ships.
 
-[user]What is the ocean for?
-[Ninereeds]The ocean is swimmable.
-The ocean is navigable.
-The ocean is fishable.
-The ocean is explorable.
-The ocean is biodiverse.
-The ocean is swimmable and navigable.
+[user]What does the ocean give?
+[Ninereeds]This is an ocean.
+The ocean is for swimming.
+The ocean is for sailing.
+The ocean is for fishing.
+The ocean is for exploring.
+The ocean is for providing a home for sea creatures.
+The ocean is for swimming and sailing.

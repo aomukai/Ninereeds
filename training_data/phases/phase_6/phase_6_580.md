@@ -1,11 +1,11 @@
 [user]What does wrong mean?
 [Ninereeds]This is wrong.
-Wrong means incorrect.
-Wrong means mistaken.
-Wrong means not right.
-Wrong means improper.
-Wrong means faulty.
-Wrong is incorrect or mistaken.
+Wrong is incorrect.
+Wrong is mistaken.
+Wrong is incorrect.
+Wrong is improper.
+Wrong is faulty.
+Wrong is incorrect and mistaken.
 
 [user]Where does wrong appear?
 [Ninereeds]This is wrong.
@@ -25,7 +25,7 @@ Wrong requires correction.
 Wrong brings consequences.
 Wrong causes errors and leads to problems.
 
-[user]What is wrong for?
+[user]What does wrong give?
 [Ninereeds]This is wrong.
 Wrong is for learning.
 Wrong is for identifying mistakes.

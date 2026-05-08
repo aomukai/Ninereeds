@@ -4,15 +4,17 @@ A mint is a plant.
 A mint has green leaves.
 A mint has small leaves.
 A mint grows low to the ground.
-A mint is a green plant with small leaves.
+Mint has a strong smell.
+A mint is a green plant with small leaves and known to all.
 
-[user]Where is a mint?
+[user]Where can you find a mint?
 [Ninereeds]This is a mint.
 A mint is in a garden.
 A mint is in a pot.
 A mint is in the ground.
 A mint is by a path.
-A mint grows in a garden or a pot.
+Mint is in a sunny spot.
+A mint grows in a garden or a pot and known to all.
 
 [user]What does a mint do?
 [Ninereeds]This is a mint.
@@ -20,12 +22,14 @@ A mint grows new leaves in spring.
 A mint spreads across the ground.
 A mint makes the air smell fresh.
 A mint keeps bugs away.
+Mint grows back each year.
 A mint is a plant that smells fresh and keeps bugs away.
 
-[user]What is a mint for?
+[user]What does a mint give?
 [Ninereeds]This is a mint.
 A mint is for tea.
 A mint is for flavor.
 A mint is for smell.
 A mint is for cooking.
+Mint is for a fresh taste.
 A mint is a plant for tea and flavor.

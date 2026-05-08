@@ -7,7 +7,7 @@ A project is a scheme.
 A project is a venture.
 A project is a plan and a task.
 
-[user]Where is a project found?
+[user]Where can you find a project?
 [Ninereeds]This is a project.
 A project is found in a company.
 A project is found in a school.
@@ -25,7 +25,7 @@ A project delivers an outcome.
 A project organizes efforts.
 A project creates a thing and solves a problem.
 
-[user]What is a project for?
+[user]What does a project give?
 [Ninereeds]This is a project.
 A project is for achieving a goal.
 A project is for development.

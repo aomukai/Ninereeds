@@ -22,7 +22,7 @@ Isolating brings a focused space.
 Isolating brings a safer setting for some tasks.
 Isolating brings boundary and focus.
 
-[user]What is isolating for?
+[user]What does isolating give?
 [Ninereeds]Isolating is for keeping things apart.
 Isolating is for making study or care easier.
 Isolating is for setting a boundary.

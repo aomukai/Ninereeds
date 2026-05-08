@@ -7,14 +7,14 @@ Pack is a case for a trip.
 Pack is a bundle of goods.
 Pack is a bag full of things for a trip.
 
-[user]Where is pack?
+[user]Where can you find pack?
 [Ninereeds]This is pack.
 Pack is on a back.
 Pack is in a car.
 Pack is at the door.
 Pack is in a hand.
 Pack is on a shelf.
-Pack is on a back or in a car.
+Pack is on a back and in a car.
 
 [user]What does pack do?
 [Ninereeds]This is pack.

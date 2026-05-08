@@ -7,7 +7,7 @@ A glove is soft on the inside.
 A glove covers each finger.
 A glove is a soft cloth cover for a hand.
 
-[user]Where is a glove?
+[user]Where can you find a glove?
 [Ninereeds]This is a glove.
 A glove is on a hand.
 A glove is in a pocket.
@@ -25,7 +25,7 @@ A glove covers the skin.
 A glove protects the hand.
 A glove keeps a hand warm and protects the hand.
 
-[user]What is a glove for?
+[user]What does a glove give?
 [Ninereeds]This is a glove.
 A glove is for cold weather.
 A glove is for a snowball fight.

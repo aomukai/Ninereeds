@@ -7,7 +7,7 @@ Kneel is a pose with back straight.
 Kneel is a rest on knees.
 Kneel is a pose and a stance.
 
-[user]Where is kneel?
+[user]Where can you find kneel?
 [Ninereeds]This is kneel.
 Kneel is on a hard floor.
 Kneel is at a low table.
@@ -25,7 +25,7 @@ Kneel keeps a torso straight.
 Kneel places weight on knees.
 Kneel lowers a body and positions knees on surface.
 
-[user]What is kneel for?
+[user]What does kneel give?
 [Ninereeds]This is kneel.
 Kneel reaches a low drawer.
 Kneel touches a small child.

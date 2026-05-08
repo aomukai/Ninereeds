@@ -22,7 +22,7 @@ Defining brings a shared sense.
 Defining brings less confusion.
 Defining brings clarity and boundary.
 
-[user]What is defining for?
+[user]What does defining give?
 [Ninereeds]Defining is for making meaning clear.
 Defining is for setting a term.
 Defining is for guiding study.

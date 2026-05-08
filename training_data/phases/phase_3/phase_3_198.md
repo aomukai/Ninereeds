@@ -22,7 +22,7 @@ Unifying brings less split between parts.
 Unifying brings a clear common ground.
 Unifying brings purpose and support.
 
-[user]What is unifying for?
+[user]What does unifying give?
 [Ninereeds]Unifying is for joining people or parts.
 Unifying is for making a shared aim.
 Unifying is for reducing divide.

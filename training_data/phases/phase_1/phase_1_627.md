@@ -6,7 +6,7 @@ A lid is thin.
 A lid fits on a pot.
 A lid is a round flat cover.
 
-[user]Where is a lid?
+[user]Where can you find a lid?
 [Ninereeds]This is a lid.
 A lid is on a pot.
 A lid is on a jar.
@@ -22,7 +22,7 @@ A lid stops spills.
 A lid keeps food fresh.
 A lid covers a pot and keeps heat in.
 
-[user]What is a lid for?
+[user]What does a lid give?
 [Ninereeds]This is a lid.
 A lid is for a pot.
 A lid is for a jar.

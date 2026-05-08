@@ -25,7 +25,7 @@ A zone is an organizer.
 A zone is a division.
 A zone is a separator and organizer.
 
-[user]What is a zone for?
+[user]What does a zone give?
 [Ninereeds]This is a zone.
 A zone is an activity group.
 A zone is a use controller.

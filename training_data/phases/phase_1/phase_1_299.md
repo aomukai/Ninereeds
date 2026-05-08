@@ -7,7 +7,7 @@ A card has a picture.
 A card has words.
 A card is flat and thin.
 
-[user]Where is a card?
+[user]Where can you find a card?
 [Ninereeds]This is a card.
 A card is in an envelope.
 A card is on a table.
@@ -25,7 +25,7 @@ A card is given as a gift.
 A card shows a picture.
 A card is a message and a picture.
 
-[user]What is a card for?
+[user]What does a card give?
 [Ninereeds]This is a card.
 A card is for a birthday.
 A card is for a holiday.

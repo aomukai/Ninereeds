@@ -5,7 +5,7 @@ Description is a written account.
 Description is an explanation.
 Description is a portrayal.
 Description is a detailed story.
-Description is a detailed account or explanation.
+Description is a detailed account and explanation.
 
 [user]Where does description appear?
 [Ninereeds]This is a description.
@@ -25,7 +25,7 @@ Description makes things vivid.
 Description makes things real.
 Description makes things clear and real.
 
-[user]What is description for?
+[user]What does description give?
 [Ninereeds]This is a description.
 Description is for sharing information.
 Description is for teaching.

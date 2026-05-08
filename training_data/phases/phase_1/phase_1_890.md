@@ -7,7 +7,7 @@ A sailor has strong hands.
 A sailor wears boots.
 A sailor is uniformed and strong.
 
-[user]Where is a sailor?
+[user]Where can you find a sailor?
 [Ninereeds]This is a sailor.
 A sailor is on a ship.
 A sailor is at sea.
@@ -25,7 +25,7 @@ A sailor ties ropes on the deck.
 A sailor navigates the sea.
 A sailor is a steersman and a hoister.
 
-[user]What is a sailor for?
+[user]What does a sailor give?
 [Ninereeds]This is a sailor.
 A sailor is for working on a ship.
 A sailor is for sailing the sea.

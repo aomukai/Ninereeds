@@ -25,7 +25,7 @@ Accident changes plans.
 Accident teaches caution.
 Accident causes harm and damage.
 
-[user]What is accident for?
+[user]What does accident give?
 [Ninereeds]This is an accident.
 Accident is for teaching caution.
 Accident is for learning safety.

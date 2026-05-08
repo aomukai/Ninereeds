@@ -5,7 +5,7 @@ Call is to shout.
 Call is to summon.
 Call is to make a visit.
 Call is to make a sound.
-Call is to name or make a sound.
+Call is to name and make a sound.
 
 [user]Where does call appear?
 [Ninereeds]This is call.
@@ -25,7 +25,7 @@ Call brings people together.
 Call helps in need.
 Call gets attention and helps.
 
-[user]What is call for?
+[user]What does call give?
 [Ninereeds]This is call.
 Call is for communication.
 Call is for help.

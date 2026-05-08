@@ -7,7 +7,7 @@ Gasoline has a strong smell.
 Gasoline comes from a pump.
 Gasoline is a clear thin liquid with a strong smell.
 
-[user]Where is gasoline found?
+[user]Where can you find gasoline?
 [Ninereeds]This is gasoline.
 Gasoline is in a tank.
 Gasoline is in a car.
@@ -25,7 +25,7 @@ Gasoline runs a generator.
 Gasoline gives power to a machine.
 Gasoline burns in an engine and makes a car go.
 
-[user]What is gasoline for?
+[user]What does gasoline give?
 [Ninereeds]This is gasoline.
 Gasoline is for a car.
 Gasoline is for a truck.

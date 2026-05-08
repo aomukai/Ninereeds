@@ -25,7 +25,7 @@ Writer revises text for clarity.
 Writer edits drafts for quality.
 Writer is imaginative and deliberate.
 
-[user]What is writer for?
+[user]What does writer give?
 [Ninereeds]This is writer.
 Writer is for creating stories.
 Writer is for sharing information.

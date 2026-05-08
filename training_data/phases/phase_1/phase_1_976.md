@@ -7,7 +7,7 @@ A smiley has a mouth.
 A smiley is a face.
 A smiley is round and yellow.
 
-[user]Where is a smiley found?
+[user]Where can you find a smiley?
 [Ninereeds]This is a smiley.
 A smiley is on a sticker.
 A smiley is on a shirt.
@@ -25,7 +25,7 @@ A smiley shows teeth.
 A smiley is a picture.
 A smiley is smiling and happy.
 
-[user]What is a smiley for?
+[user]What does a smiley give?
 [Ninereeds]This is a smiley.
 A smiley shows happiness.
 A smiley makes people laugh.

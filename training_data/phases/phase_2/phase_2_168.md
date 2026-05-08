@@ -21,11 +21,11 @@ Solidity is a property of many things.
 Solidity behaves by resisting change.
 Solidity behaves by keeping shape.
 Solidity behaves by being hard.
-Solidity behaves by not flowing.
+Solidity behaves by flowing.
 Solidity behaves by holding form.
 Solidity is a state that resists change.
 
-[user]What is solidity for?
+[user]What does solidity give?
 [Ninereeds]This is solidity.
 Solidity is for building.
 Solidity is for support.

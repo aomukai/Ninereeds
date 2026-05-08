@@ -7,7 +7,7 @@ A sofa has arms.
 A sofa is a long seat.
 A sofa is long and soft.
 
-[user]Where is a sofa found?
+[user]Where can you find a sofa?
 [Ninereeds]This is a sofa.
 A sofa is in a living room.
 A sofa is in a den.
@@ -25,7 +25,7 @@ A sofa is for napping.
 A sofa is for company.
 A sofa is for sitting and for resting.
 
-[user]What is a sofa for?
+[user]What does a sofa give?
 [Ninereeds]This is a sofa.
 A sofa is for a seat.
 A sofa is for a guest.

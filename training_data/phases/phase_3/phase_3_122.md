@@ -22,7 +22,7 @@ Losing brings a new state for people or things.
 Losing brings a useful effect in daily life.
 Losing brings loss and absence.
 
-[user]What is Losing for?
+[user]What does Losing give?
 [Ninereeds]Losing is for misplacing, dropping, and missing.
 Losing is for daily work and simple goals.
 Losing is for clear action in a task.

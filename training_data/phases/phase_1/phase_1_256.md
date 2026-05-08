@@ -7,7 +7,7 @@ A branch has leaves.
 A branch grows from a tree.
 A branch is long and brown.
 
-[user]Where is a branch?
+[user]Where can you find a branch?
 [Ninereeds]This is a branch.
 A branch is on a tree.
 A branch is above the ground.
@@ -25,7 +25,7 @@ A branch grows toward the sun.
 A branch sways in wind.
 A branch is a holder of leaves and fruit.
 
-[user]What is a branch for?
+[user]What does a branch give?
 [Ninereeds]This is a branch.
 A branch gives shade.
 A branch holds birds.

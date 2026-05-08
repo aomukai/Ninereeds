@@ -7,7 +7,7 @@ A penguin has webbed feet.
 A penguin stands upright on land.
 A penguin is black and white.
 
-[user]Where is a penguin?
+[user]Where can you find a penguin?
 [Ninereeds]This is a penguin.
 A penguin lives on rocky shores.
 A penguin dwells near ocean waters.
@@ -25,7 +25,7 @@ A penguin dives for fish.
 A penguin preens its feathers.
 A penguin is a swimmer and diver.
 
-[user]What is a penguin for?
+[user]What does a penguin give?
 [Ninereeds]This is a penguin.
 A penguin uses its wings for swimming.
 A penguin uses its beak for catching fish.

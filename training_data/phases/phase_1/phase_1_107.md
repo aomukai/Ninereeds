@@ -6,7 +6,7 @@ The head has a face in front.
 The head is covered in hair.
 A head is the round part of the body at the top.
 
-[user]Where is a head?
+[user]Where can you find a head?
 [Ninereeds]This is a head.
 The head is at the top of the body.
 The head is above the neck.
@@ -22,7 +22,7 @@ The head carries the eyes, ears, nose, and mouth.
 The head holds the brain that thinks.
 A head is the top part of the body that turns and carries the eyes, ears, nose, and mouth.
 
-[user]What is a head used for?
+[user]What does a head give?
 [Ninereeds]This is a head.
 The head is used for thinking.
 The head holds the mouth for eating and speaking.

@@ -25,7 +25,7 @@ Your is relational.
 Your is genitive.
 Your is indicative and possessive.
 
-[user]What is your for?
+[user]What does your give?
 [Ninereeds]This is your.
 Your is functional.
 Your is practical.

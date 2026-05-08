@@ -7,14 +7,14 @@ A dome is tall in the middle.
 A dome is smooth.
 A dome is a wide round curved roof.
 
-[user]Where is a dome?
+[user]Where can you find a dome?
 [Ninereeds]This is a dome.
 A dome sits on top of a building.
 A dome stands over a hall.
 A dome covers a room.
 A dome rises above a city.
 A dome sits on a capitol.
-A dome sits on top of a building or covers a room.
+A dome sits on top of a building and covers a room.
 
 [user]What does a dome do?
 [Ninereeds]This is a dome.
@@ -25,7 +25,7 @@ A dome lets light in through windows.
 A dome stands tall above the ground.
 A dome covers a space and keeps rain out.
 
-[user]What is a dome for?
+[user]What does a dome give?
 [Ninereeds]This is a dome.
 A dome is for a building.
 A dome is for a church.

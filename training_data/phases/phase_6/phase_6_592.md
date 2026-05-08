@@ -2,8 +2,8 @@
 [Ninereeds]This is an opinion.
 Opinion is a thought.
 Opinion is held by a person.
-Opinion has no shape.
-Opinion has no color.
+Opinion lacks shape.
+Opinion lacks color.
 Opinion is a belief.
 Opinion is a thought and a belief.
 
@@ -25,7 +25,7 @@ Opinion expresses a person's thinking.
 Opinion can be shared.
 Opinion guides choices and shapes views.
 
-[user]What is opinion for?
+[user]What does opinion give?
 [Ninereeds]This is an opinion.
 Opinion is for communication.
 Opinion is for decision-making.

@@ -6,7 +6,7 @@ The belly is round.
 The belly is below the chest.
 A belly is the front part of the body below the chest.
 
-[user]Where is a belly?
+[user]Where can you find a belly?
 [Ninereeds]This is a belly.
 The belly is on the front of the body.
 The belly is above the legs.

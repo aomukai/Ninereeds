@@ -7,7 +7,7 @@ A potato has small eyes.
 A potato is a vegetable.
 A potato is a round brown vegetable with skin and eyes.
 
-[user]Where is a potato?
+[user]Where can you find a potato?
 [Ninereeds]This is a potato.
 A potato is in the ground.
 A potato is under the soil.
@@ -25,7 +25,7 @@ A potato sprouts from eyes.
 A potato makes a new plant.
 A potato stays in the ground and grows a new plant.
 
-[user]What is a potato for?
+[user]What does a potato give?
 [Ninereeds]This is a potato.
 A potato is for food.
 A potato is for baking.

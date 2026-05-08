@@ -7,7 +7,7 @@ Wonder is a marvel.
 Wonder is a sense of mystery.
 Wonder is a feeling of awe and surprise.
 
-[user]Where is wonder found?
+[user]Where can you find wonder?
 [Ninereeds]This is wonder.
 Wonder is found in nature.
 Wonder is found in art.
@@ -25,7 +25,7 @@ Wonder sparks imagination.
 Wonder brings joy.
 Wonder inspires curiosity and sparks imagination.
 
-[user]What is wonder for?
+[user]What does wonder give?
 [Ninereeds]This is wonder.
 Wonder is for learning.
 Wonder is for growing.

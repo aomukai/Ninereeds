@@ -5,7 +5,7 @@ Belief is a conviction.
 Belief is an acceptance.
 Belief is a firm idea.
 Belief is a trust in something.
-Belief is a thought held true or conviction.
+Belief is a thought held true and conviction.
 
 [user]Where does belief appear?
 [Ninereeds]This is a belief.
@@ -25,7 +25,7 @@ Belief gives meaning.
 Belief influences choices.
 Belief guides actions and shapes thoughts.
 
-[user]What is belief for?
+[user]What does belief give?
 [Ninereeds]This is a belief.
 Belief is for understanding the world.
 Belief is for finding purpose.

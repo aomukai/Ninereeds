@@ -7,7 +7,7 @@ Splash forms drops.
 Splash scatters water.
 Splash is wet and scattered.
 
-[user]Where is splash?
+[user]Where can you find splash?
 [Ninereeds]This is splash.
 Splash appears in water.
 Splash forms near pools.
@@ -25,7 +25,7 @@ Splash wets areas.
 Splash covers drops.
 Splash is wet and scattered.
 
-[user]What is splash for?
+[user]What does splash give?
 [Ninereeds]This is splash.
 Splash cools skin.
 Splash cleans floors.

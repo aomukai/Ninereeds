@@ -25,7 +25,7 @@ Symptom indicates a need for rest.
 Symptom guides treatment and care.
 Symptom is signaling and informing.
 
-[user]What is symptom for?
+[user]What does symptom give?
 [Ninereeds]This is symptom.
 Symptom is for detecting sickness early.
 Symptom is for guiding medical diagnosis.

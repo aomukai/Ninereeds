@@ -7,14 +7,14 @@ A droplet is like a tiny ball.
 A droplet has a curved shape.
 A droplet is a small round clear ball.
 
-[user]Where is a droplet?
+[user]Where can you find a droplet?
 [Ninereeds]This is a droplet.
 A droplet is on a leaf.
 A droplet is on a window.
 A droplet is on the ground.
 A droplet is in the sink.
 A droplet is on skin.
-A droplet is on a leaf or on a window.
+A droplet is on a leaf and on a window.
 
 [user]What does a droplet do?
 [Ninereeds]This is a droplet.
@@ -25,7 +25,7 @@ A droplet reflects light.
 A droplet dries up in the sun.
 A droplet rolls down glass and falls from a tap.
 
-[user]What is a droplet for?
+[user]What does a droplet give?
 [Ninereeds]This is a droplet.
 A droplet is for water.
 A droplet is for rain.

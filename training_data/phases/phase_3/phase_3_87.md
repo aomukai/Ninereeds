@@ -5,7 +5,7 @@ Test is to check.
 Test is to evaluate.
 Test is to prove.
 Test is to try out.
-Test is to examine or check.
+Test is to examine and check.
 
 [user]Where does test appear?
 [Ninereeds]This is test.
@@ -25,7 +25,7 @@ Test finds flaws.
 Test provides information.
 Test reveals truth and measures ability.
 
-[user]What is test for?
+[user]What does test give?
 [Ninereeds]This is test.
 Test is for learning.
 Test is for improving.

@@ -5,16 +5,16 @@ A plantain is yellow.
 A plantain has thick skin.
 A plantain is soft inside.
 A plantain is sweet.
-A plantain is long yellow sweet inside.
+A plantain is long and sweet.
 
-[user]Where is a plantain?
+[user]Where can you find a plantain?
 [Ninereeds]This is a plantain.
 A plantain is on a tree.
 A plantain is in a bowl.
 A plantain is in a store.
 A plantain is in a kitchen.
 A plantain is on a plate.
-A plantain is on a tree in a bowl.
+A plantain is on a tree and in a bowl.
 
 [user]What does a plantain do?
 [Ninereeds]This is a plantain.
@@ -23,13 +23,13 @@ A plantain turns yellow.
 A plantain gets soft.
 A plantain fills a stomach.
 A plantain gives energy.
-A plantain ripens on a tree turns yellow.
+A plantain ripens on a tree and turns yellow.
 
-[user]What is a plantain for?
+[user]What does a plantain give?
 [Ninereeds]This is a plantain.
 A plantain is for eating.
 A plantain is for a snack.
 A plantain is for baking.
 A plantain is for a meal.
 A plantain is for a sweet treat.
-A plantain is for eating a snack.
+A plantain is for eating and for a snack.

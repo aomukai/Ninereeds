@@ -5,9 +5,9 @@ Help is a strong hand.
 Help is a clear guide.
 Help is a safe place.
 Help is a gentle touch.
-Help is a kind word or action.
+Help is a kind word and action.
 
-[user]Where is help found?
+[user]Where can you find help?
 [Ninereeds]This is help.
 Help is in a friend.
 Help is in a family.
@@ -23,9 +23,9 @@ Help makes things better.
 Help makes things possible.
 Help makes people happier.
 Help makes problems smaller.
-Help is to make things easier or better.
+Help is to make things easier and better.
 
-[user]What is help for?
+[user]What does help give?
 [Ninereeds]This is help.
 Help is for solving problems.
 Help is for making progress.

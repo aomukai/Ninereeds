@@ -7,7 +7,7 @@ Green is a bright color.
 Green is a calm color.
 Green is a bright calm color of leaves.
 
-[user]Where is green?
+[user]Where can you find green?
 [Ninereeds]This is green.
 Green is on leaves.
 Green is on grass.
@@ -25,7 +25,7 @@ Green colors the grass.
 Green shades the ground.
 Green covers the hills and fills the forest.
 
-[user]What is green for?
+[user]What does green give?
 [Ninereeds]This is green.
 Green is for the frog.
 Green is for the lizard.

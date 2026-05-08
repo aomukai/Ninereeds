@@ -3,7 +3,7 @@
 A frog has green skin.
 A frog has two big eyes.
 A frog has long back legs.
-A frog has no tail.
+A frog lacks tail.
 A frog has wet smooth skin.
 A frog is green and has long back legs.
 
@@ -25,7 +25,7 @@ A frog catches bugs with the tongue.
 A frog croaks at night.
 A frog is a hopper and a swimmer.
 
-[user]What is a frog for?
+[user]What does a frog give?
 [Ninereeds]This is a frog.
 A frog eats bugs.
 A frog keeps the pond clean.

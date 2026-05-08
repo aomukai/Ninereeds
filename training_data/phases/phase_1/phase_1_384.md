@@ -7,7 +7,7 @@ A daisy grows on a green stem.
 A daisy has green leaves.
 A daisy is white and yellow-centered.
 
-[user]Where is a daisy?
+[user]Where can you find a daisy?
 [Ninereeds]This is a daisy.
 A daisy grows in a field.
 A daisy grows in a garden.
@@ -25,7 +25,7 @@ A daisy grows tall on a stem.
 A daisy turns toward the light.
 A daisy is open in the sun and closed at night.
 
-[user]What is a daisy for?
+[user]What does a daisy give?
 [Ninereeds]This is a daisy.
 A daisy is for decoration.
 A daisy is for a bouquet.

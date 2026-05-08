@@ -25,7 +25,7 @@ Thunder cracks sharp.
 Thunder shakes air.
 Thunder is rumbling and booming.
 
-[user]What is thunder for?
+[user]What does thunder give?
 [Ninereeds]This is thunder.
 Thunder follows lightning.
 Thunder warns of storm.

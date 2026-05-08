@@ -7,7 +7,7 @@ Rice is hard before cooking.
 Rice is soft after cooking.
 Rice is a small white grain.
 
-[user]Where is rice?
+[user]Where can you find rice?
 [Ninereeds]This is rice.
 Rice is in a bag.
 Rice is on a plate.
@@ -25,7 +25,7 @@ Rice fills a plate.
 Rice stays white after cooking.
 Rice sits in a bowl and fills a plate.
 
-[user]What is rice for?
+[user]What does rice give?
 [Ninereeds]This is rice.
 Rice is for eating.
 Rice is for making meals.

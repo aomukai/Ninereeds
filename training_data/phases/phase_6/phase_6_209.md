@@ -7,7 +7,7 @@ six is often written in ink.
 six has a closed top.
 six is round and curved.
 
-[user]Where is six?
+[user]Where can you find six?
 [Ninereeds]This is six.
 six is on a number line.
 six is between five and seven.
@@ -25,7 +25,7 @@ six precedes seven.
 six indicates half a dozen.
 six counts and orders.
 
-[user]What is six for?
+[user]What does six give?
 [Ninereeds]This is six.
 six is for counting.
 six is for measuring.

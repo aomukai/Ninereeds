@@ -25,7 +25,7 @@ A tag tells care.
 A tag labels thing.
 A tag is price and size.
 
-[user]What is a tag for?
+[user]What does a tag give?
 [Ninereeds]This is a tag.
 A tag labels items.
 A tag gives info.

@@ -4,15 +4,17 @@ Mist is a cloud.
 Mist is low to the ground.
 Mist is white and gray.
 Mist is made of tiny water drops.
-Mist is a low cloud of tiny water drops.
+Mist is soft.
+Mist is a low cloud and tiny water drops.
 
-[user]Where is mist?
+[user]Where can you find mist?
 [Ninereeds]This is mist.
 Mist is over a field.
 Mist is near a river.
 Mist is on a mountain.
 Mist is in the morning.
-Mist sits low over a field in the morning.
+Mist is over a lake.
+Mist sits low over a field in the morning and known to all.
 
 [user]What does mist do?
 [Ninereeds]This is mist.
@@ -20,12 +22,14 @@ Mist covers the ground.
 Mist hides the path.
 Mist makes the air wet.
 Mist drifts with the wind.
+Mist fades in the sun.
 Mist is a cloud that covers the ground and drifts with the wind.
 
-[user]What is mist for?
+[user]What does mist give?
 [Ninereeds]This is mist.
 Mist gives water to plants.
 Mist cools the air.
 Mist makes the morning look soft.
 Mist wets the leaves on trees.
+Mist is for a cool morning.
 Mist is a cloud that gives water to plants and cools the air.

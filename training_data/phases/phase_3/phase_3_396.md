@@ -25,7 +25,7 @@ Honk signals a turn with a beep.
 Honk scares a deer from a road.
 Honk is a warning and a signal.
 
-[user]What is honk for?
+[user]What does honk give?
 [Ninereeds]This is honk.
 Honk warns a car of danger.
 Honk signals a friend at a door.

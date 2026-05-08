@@ -7,7 +7,7 @@ Ice is smooth and flat on the surface.
 Ice is frozen water that is hard and cold.
 Ice is clear and cold.
 
-[user]Where is ice?
+[user]Where can you find ice?
 [Ninereeds]This is ice.
 Ice forms on the ground in cold air.
 Ice forms on the surface of a pond.

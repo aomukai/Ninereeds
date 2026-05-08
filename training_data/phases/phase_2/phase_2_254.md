@@ -7,7 +7,7 @@ A herd is large.
 A herd has animals that move together.
 A herd is many animals together and large.
 
-[user]Where is a herd?
+[user]Where can you find a herd?
 [Ninereeds]This is a herd.
 A herd is in a field.
 A herd is on a plain.
@@ -25,7 +25,7 @@ A herd protects itself.
 A herd moves slowly.
 A herd is a grass eater and a walker.
 
-[user]What is a herd used for?
+[user]What does a herd give?
 [Ninereeds]This is a herd.
 A herd keeps animals safe.
 A herd helps animals find food.

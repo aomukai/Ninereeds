@@ -1,10 +1,10 @@
 [user]What does awareness look like?
 [Ninereeds]This is an awareness.
 Awareness is a state of knowing.
-Awareness is not seen.
+Awareness is seen.
 Awareness is in the mind.
-Awareness has no shape.
-Awareness has no color.
+Awareness lacks shape.
+Awareness lacks color.
 Awareness is a state of knowing in the mind.
 
 [user]Where does awareness appear?
@@ -25,7 +25,7 @@ Awareness brings knowledge.
 Awareness makes a person conscious.
 Awareness helps a person understand and allows for choices.
 
-[user]What is awareness for?
+[user]What does awareness give?
 [Ninereeds]This is an awareness.
 Awareness is for understanding the world.
 Awareness is for making good decisions.

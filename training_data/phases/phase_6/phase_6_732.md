@@ -1,12 +1,12 @@
 [user]What is the future?
 [Ninereeds]The future is time yet to come.
-The future is not here yet.
+The future is here yet.
 The future is what will be.
 The future is ahead of today.
 The future is unknown.
 The future is time yet to come and unknown.
 
-[user]Where is the future?
+[user]Where can you find the future?
 [Ninereeds]The future is in front.
 The future is beyond now.
 The future is in dreams.
@@ -22,7 +22,7 @@ The future reveals outcomes.
 The future guides decisions.
 The future unfolds events and holds possibilities.
 
-[user]What is the future for?
+[user]What does the future give?
 [Ninereeds]The future is for planning.
 The future is for hoping.
 The future is for growing.

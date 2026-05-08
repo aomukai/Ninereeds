@@ -7,7 +7,7 @@ An eye is on a face.
 An eye is a round part of a face.
 An eye is round and has a pupil and a white part.
 
-[user]Where is an eye?
+[user]Where can you find an eye?
 [Ninereeds]This is an eye.
 An eye is on a face above a nose.
 An eye is below an eyebrow and above a cheek.
@@ -25,7 +25,7 @@ An eye blinks and moves.
 An eye sees near and far.
 An eye sees light and color and shapes.
 
-[user]What is an eye for?
+[user]What does an eye give?
 [Ninereeds]This is an eye.
 An eye is for sight and seeing.
 An eye is for reading and watching.

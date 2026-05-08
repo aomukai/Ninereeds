@@ -22,7 +22,7 @@ Eating brings taste.
 Eating brings comfort.
 Eating brings energy and fullness.
 
-[user]What is eating for?
+[user]What does eating give?
 [Ninereeds]Eating is for taking in food.
 Eating is for giving the body fuel.
 Eating is for answering hunger.

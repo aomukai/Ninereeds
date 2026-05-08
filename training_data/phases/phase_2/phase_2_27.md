@@ -6,7 +6,7 @@ The breadcrumb is light.
 The breadcrumb is rough.
 A breadcrumb is a small piece of bread.
 
-[user]Where is a breadcrumb?
+[user]Where can you find a breadcrumb?
 [Ninereeds]This is a breadcrumb.
 The breadcrumb is on a table.
 The breadcrumb is on the floor.

@@ -7,7 +7,7 @@ The forest is shady.
 The forest covers the ground.
 The forest is green and dense.
 
-[user]Where is a forest?
+[user]Where can you find a forest?
 [Ninereeds]This is a forest.
 The forest is on land.
 The forest is on hills.

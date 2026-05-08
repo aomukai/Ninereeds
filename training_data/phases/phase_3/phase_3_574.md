@@ -22,7 +22,7 @@ Wandering brings time for thought and looking around.
 Wandering brings a long path through a scene.
 Wandering brings new sights and calm motion.
 
-[user]What is wandering for?
+[user]What does wandering give?
 [Ninereeds]Wandering is for exploring a place.
 Wandering is for passing time outdoors.
 Wandering is for finding a way.

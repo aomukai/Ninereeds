@@ -7,7 +7,7 @@ Usefulness is a helpfulness.
 Usefulness is a utility.
 Usefulness is a being of use and value.
 
-[user]Where is usefulness found?
+[user]Where can you find usefulness?
 [Ninereeds]This is usefulness.
 Usefulness is found in tools.
 Usefulness is found in knowledge.
@@ -25,7 +25,7 @@ Usefulness improves a situation.
 Usefulness provides a benefit.
 Usefulness helps achieve a goal and solves a problem.
 
-[user]What is usefulness for?
+[user]What does usefulness give?
 [Ninereeds]This is usefulness.
 Usefulness is for purpose.
 Usefulness is for efficiency.

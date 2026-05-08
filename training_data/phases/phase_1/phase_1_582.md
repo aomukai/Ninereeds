@@ -7,7 +7,7 @@ An island is green.
 An island is a patch of land.
 An island is a green patch of land with water all around.
 
-[user]Where is an island?
+[user]Where can you find an island?
 [Ninereeds]This is an island.
 An island is in the ocean.
 An island is in a sea.

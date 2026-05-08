@@ -7,7 +7,7 @@ A machine has a motor.
 A machine is made from metal and plastic and glass.
 A machine is big and has a motor.
 
-[user]Where is a machine?
+[user]Where can you find a machine?
 [Ninereeds]This is a machine.
 A machine is in a factory.
 A machine is in a shop.
@@ -25,7 +25,7 @@ A machine spins a wheel.
 A machine shapes metal and wood into parts.
 A machine cuts parts and spins a wheel.
 
-[user]What is a machine for?
+[user]What does a machine give?
 [Ninereeds]This is a machine.
 A machine is for work.
 A machine is for cutting.

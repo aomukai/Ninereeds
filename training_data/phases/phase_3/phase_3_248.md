@@ -14,7 +14,7 @@ Parent-offspring-care-system-evaluation is in a study.
 Parent-offspring-care-system-evaluation is in an assessment.
 Parent-offspring-care-system-evaluation is in a review.
 Parent-offspring-care-system-evaluation is in an analysis.
-Parent-offspring-care-system-evaluation is in a report or a study.
+Parent-offspring-care-system-evaluation is in a report and a study.
 
 [user]What does parent-offspring-care-system-evaluation do?
 [Ninereeds]This is parent-offspring-care-system-evaluation.
@@ -25,7 +25,7 @@ Parent-offspring-care-system-evaluation informs decisions.
 Parent-offspring-care-system-evaluation ensures accountability.
 Parent-offspring-care-system-evaluation identifies strengths and suggests improvements.
 
-[user]What is parent-offspring-care-system-evaluation for?
+[user]What does parent-offspring-care-system-evaluation give?
 [Ninereeds]This is parent-offspring-care-system-evaluation.
 Parent-offspring-care-system-evaluation is for quality assurance.
 Parent-offspring-care-system-evaluation is for continuous improvement.

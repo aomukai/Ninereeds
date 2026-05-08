@@ -7,14 +7,14 @@ Last is a conclusion.
 Last is a final point.
 Last is a final position in a sequence.
 
-[user]Where is last found?
+[user]Where can you find last?
 [Ninereeds]This is last.
 Last is in a line.
 Last is in a row.
 Last is in a series.
 Last is in a story.
 Last is in a game.
-Last is in a line or a row.
+Last is in a line and a row.
 
 [user]What does last do?
 [Ninereeds]This is last.
@@ -25,7 +25,7 @@ Last finishes an action.
 Last signifies termination.
 Last marks the end of a process.
 
-[user]What is last for?
+[user]What does last give?
 [Ninereeds]This is last.
 Last is for concluding things.
 Last is for finalizing events.

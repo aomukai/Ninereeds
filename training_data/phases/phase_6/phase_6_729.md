@@ -3,7 +3,7 @@
 A redundancy is a repetition.
 A redundancy is extra.
 A redundancy is a duplication.
-A redundancy is not needed.
+A redundancy is needed.
 A redundancy is a surplus.
 A redundancy is a repetition that is extra.
 
@@ -25,7 +25,7 @@ A redundancy clarifies a message.
 A redundancy wastes space.
 A redundancy makes things safer and provides backup.
 
-[user]What is redundancy for?
+[user]What does redundancy give?
 [Ninereeds]This is a redundancy.
 A redundancy is for ensuring reliability.
 A redundancy is for providing fault tolerance.

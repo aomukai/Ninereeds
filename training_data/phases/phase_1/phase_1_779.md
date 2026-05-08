@@ -7,7 +7,7 @@ A piano has a wood body.
 A piano sits on legs.
 A piano is big and wood.
 
-[user]Where is a piano?
+[user]Where can you find a piano?
 [Ninereeds]This is a piano.
 A piano is in a room.
 A piano is by a wall.
@@ -25,7 +25,7 @@ A piano makes a sound.
 A piano plays high notes and low notes.
 A piano is a music maker and a tune player.
 
-[user]What is a piano for?
+[user]What does a piano give?
 [Ninereeds]This is a piano.
 A piano makes a song.
 A piano plays a melody.

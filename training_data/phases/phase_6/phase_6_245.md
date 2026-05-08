@@ -25,7 +25,7 @@ Speaker fills a space with voice and music.
 Speaker amplifies quiet sounds for the ear.
 Speaker sends sound and fills space.
 
-[user]What is speaker for?
+[user]What does speaker give?
 [Ninereeds]This is speaker.
 Speaker is for broadcasting audio clearly.
 Speaker is for playing music and speech.

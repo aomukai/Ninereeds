@@ -7,7 +7,7 @@ A prong is hard.
 A prong is made of metal.
 A prong is long and thin.
 
-[user]Where is a prong?
+[user]Where can you find a prong?
 [Ninereeds]This is a prong.
 A prong is on a fork.
 A prong is on a rake.
@@ -25,7 +25,7 @@ A prong lifts food.
 A prong picks up things.
 A prong pokes and lifts food.
 
-[user]What is a prong for?
+[user]What does a prong give?
 [Ninereeds]This is a prong.
 A prong is for poking.
 A prong is for lifting.

@@ -7,7 +7,7 @@ A boat is on water.
 A boat is a water vessel.
 A boat is a big long water vessel.
 
-[user]Where is a boat?
+[user]Where can you find a boat?
 [Ninereeds]This is a boat.
 A boat is on water.
 A boat is in a lake.
@@ -25,7 +25,7 @@ A boat carries things.
 A boat is a transport vessel.
 A boat floats and moves on water.
 
-[user]What is a boat for?
+[user]What does a boat give?
 [Ninereeds]This is a boat.
 A boat is for travel.
 A boat is for fishing.

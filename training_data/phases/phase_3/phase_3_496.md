@@ -7,7 +7,7 @@ Slice is a sharp line on food.
 Slice is a flat piece of bread.
 Slice is a thin piece cut from a block.
 
-[user]Where is slice?
+[user]Where can you find slice?
 [Ninereeds]This is slice.
 Slice is on a plate.
 Slice is in a pan.
@@ -25,7 +25,7 @@ Slice splits a fruit into pieces.
 Slice opens a block into layers.
 Slice cuts a loaf into parts.
 
-[user]What is slice for?
+[user]What does slice give?
 [Ninereeds]This is slice.
 Slice is for a sandwich.
 Slice is for a toast.

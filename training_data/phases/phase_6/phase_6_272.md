@@ -4,7 +4,7 @@ step is a foot movement.
 step is in walking or dancing.
 step means moving one foot.
 
-[user]Where is step?
+[user]Where can you find step?
 [Ninereeds]step is here.
 step is on a staircase.
 step is under a door.

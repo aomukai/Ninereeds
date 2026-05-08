@@ -5,16 +5,16 @@ A press is a flat plate.
 A press is a squeezing machine.
 A press is a pushing tool.
 A press is a clamping device.
-A press is a heavy weight or squeezing machine.
+A press is a heavy weight and squeezing machine.
 
-[user]Where is a press found?
+[user]Where can you find a press?
 [Ninereeds]This is a press.
 A press is in a workshop.
 A press is in a kitchen.
 A press is in a garage.
 A press is in a factory.
 A press is in a print shop.
-A press is in a workshop, kitchen, or garage.
+A press is in a workshop, kitchen, and garage.
 
 [user]What does a press do?
 [Ninereeds]This is a press.
@@ -25,7 +25,7 @@ A press stamps a shape into clay.
 A press prints ink onto paper.
 A press squeezes, flattens, binds, and stamps.
 
-[user]What is a press used for?
+[user]What does a press give?
 [Ninereeds]This is a press.
 A press makes juice from oranges.
 A press forms metal parts for cars.

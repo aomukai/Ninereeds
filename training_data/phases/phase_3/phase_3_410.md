@@ -7,7 +7,7 @@ Kiss is a sign of love.
 Kiss is a warm gesture.
 Kiss is a soft touch with lips.
 
-[user]Where is kiss?
+[user]Where can you find kiss?
 [Ninereeds]This is kiss.
 Kiss is on a cheek.
 Kiss is on lips.
@@ -25,7 +25,7 @@ Kiss makes a person feel loved.
 Kiss warms a heart.
 Kiss shows affection and says hello.
 
-[user]What is kiss for?
+[user]What does kiss give?
 [Ninereeds]This is kiss.
 Kiss comforts a child.
 Kiss greets a friend.

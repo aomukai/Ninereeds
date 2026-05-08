@@ -25,7 +25,7 @@ Graze feeds on green plants.
 Graze walks and eats at the same time.
 Graze is a slow and steady action.
 
-[user]What is graze for?
+[user]What does graze give?
 [Ninereeds]This is graze.
 Graze gives food to a cow.
 Graze fills a belly with grass.

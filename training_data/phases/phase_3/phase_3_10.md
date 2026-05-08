@@ -6,7 +6,7 @@ The gust of wind is cool.
 The gust of wind is sudden.
 A gust of wind is a strong move of air.
 
-[user]Where is a gust of wind?
+[user]Where can you find a gust of wind?
 [Ninereeds]This is a gust of wind.
 The gust of wind is in the air.
 The gust of wind is over a field.
@@ -22,7 +22,7 @@ The gust of wind bends grass.
 The gust of wind slows down.
 A gust of wind is a strong move of air that can push and die down.
 
-[user]What is a gust of wind used for?
+[user]What does a gust of wind give?
 [Ninereeds]This is a gust of wind.
 The gust of wind hits a door.
 The gust of wind pushes the door.

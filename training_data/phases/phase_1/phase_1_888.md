@@ -5,16 +5,16 @@ A safe is heavy.
 A safe has a thick door.
 A safe has a lock.
 A safe is gray or black.
-A safe is a heavy metal box with a lock.
+A safe is a metal box and is heavy.
 
-[user]Where is a safe?
+[user]Where can you find a safe?
 [Ninereeds]This is a safe.
 A safe is in a bank.
 A safe is in a closet.
 A safe is behind a wall.
 A safe is under a floor.
 A safe is in an office.
-A safe is in a bank or a closet.
+A safe is in a bank and a closet.
 
 [user]What does a safe do?
 [Ninereeds]This is a safe.
@@ -25,7 +25,7 @@ A safe hides important papers.
 A safe keeps valuables secure.
 A safe protects money and holds jewelry.
 
-[user]What is a safe for?
+[user]What does a safe give?
 [Ninereeds]This is a safe.
 A safe is for storing money.
 A safe is for protecting jewelry.

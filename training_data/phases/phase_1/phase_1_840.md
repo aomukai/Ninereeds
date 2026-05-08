@@ -7,7 +7,7 @@ A railing is made of wood or metal.
 A railing stands upright.
 A railing is long and upright.
 
-[user]Where is a railing?
+[user]Where can you find a railing?
 [Ninereeds]This is a railing.
 A railing is on a porch.
 A railing is on a stair.
@@ -25,7 +25,7 @@ A railing stops a fall.
 A railing stands in a row.
 A railing is a barrier and a guard.
 
-[user]What is a railing for?
+[user]What does a railing give?
 [Ninereeds]This is a railing.
 A railing keeps people safe.
 A railing stops falls.

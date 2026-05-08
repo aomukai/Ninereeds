@@ -25,7 +25,7 @@ Parent-offspring-relationship is survival-critical.
 Parent-offspring-relationship is bond-strengthening.
 Parent-offspring-relationship is developmental and educational.
 
-[user]What is parent-offspring-relationship for?
+[user]What does parent-offspring-relationship give?
 [Ninereeds]This is parent-offspring-relationship.
 Parent-offspring-relationship is growth-promoting.
 Parent-offspring-relationship is well-being-enhancing.

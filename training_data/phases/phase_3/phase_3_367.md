@@ -25,7 +25,7 @@ Flutter beats a wing fast.
 Flutter moves a curtain by a window.
 Flutter flaps wings up and down in the wind.
 
-[user]What is flutter for?
+[user]What does flutter give?
 [Ninereeds]This is flutter.
 Flutter helps a bird stay in place.
 Flutter makes a flag move in the air.

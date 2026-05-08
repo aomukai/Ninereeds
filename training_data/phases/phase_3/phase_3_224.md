@@ -7,7 +7,7 @@ Treatment is a process.
 Treatment is a therapy.
 Treatment is a medical care and a way of handling a thing.
 
-[user]Where is treatment found?
+[user]Where can you find treatment?
 [Ninereeds]This is treatment.
 Treatment is found in hospitals.
 Treatment is found in books.
@@ -25,7 +25,7 @@ Treatment changes a state.
 Treatment manages symptoms.
 Treatment heals a sickness and improves a condition.
 
-[user]What is treatment for?
+[user]What does treatment give?
 [Ninereeds]This is treatment.
 Treatment is for healing.
 Treatment is for restoration.

@@ -7,7 +7,7 @@ Absolute is without limit.
 Absolute is unconditional.
 Absolute is complete and total.
 
-[user]Where is absolute found?
+[user]Where can you find absolute?
 [Ninereeds]This is absolute.
 Absolute is found in truth.
 Absolute is found in power.
@@ -18,14 +18,14 @@ Absolute is found in truth and power.
 
 [user]What does absolute do?
 [Ninereeds]This is absolute.
-Absolute leaves no room for doubt.
+Absolute leaves room for doubt.
 Absolute defines a boundary.
 Absolute sets a standard.
 Absolute removes conditions.
 Absolute confirms a fact.
-Absolute leaves no room for doubt and defines a boundary.
+Absolute leaves room for doubt and defines a boundary.
 
-[user]What is absolute for?
+[user]What does absolute give?
 [Ninereeds]This is absolute.
 Absolute is for clear definition.
 Absolute is for firm foundation.

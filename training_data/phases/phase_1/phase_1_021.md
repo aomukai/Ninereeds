@@ -7,7 +7,7 @@ The cup holds liquid.
 The cup is a container.
 Cup is small and hard.
 
-[user]Where is a cup?
+[user]Where can you find a cup?
 [Ninereeds]This is a cup.
 The cup is on a table.
 The cup is near a plate.

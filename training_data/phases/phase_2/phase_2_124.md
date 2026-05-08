@@ -7,7 +7,7 @@ A dictionary has words.
 A dictionary has definitions.
 A dictionary is a thick book with words and definitions.
 
-[user]Where is a dictionary?
+[user]Where can you find a dictionary?
 [Ninereeds]This is a dictionary.
 A dictionary is on a shelf.
 A dictionary is in a library.
@@ -25,7 +25,7 @@ A dictionary helps pronunciation.
 A dictionary expands vocabulary.
 A dictionary defines words and explains meanings.
 
-[user]What is a dictionary for?
+[user]What does a dictionary give?
 [Ninereeds]This is a dictionary.
 A dictionary is for learning words.
 A dictionary is for understanding language.

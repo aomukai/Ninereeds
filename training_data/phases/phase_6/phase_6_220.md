@@ -7,7 +7,7 @@ slump is a sagging form.
 slump is a collapsing stance.
 slump is collapsed and tired.
 
-[user]Where is slump?
+[user]Where can you find slump?
 [Ninereeds]This is slump.
 slump is in a chair.
 slump is near a desk.
@@ -25,7 +25,7 @@ slump weakens the posture.
 slump shows low energy.
 slump is bending and sinking.
 
-[user]What is slump for?
+[user]What does slump give?
 [Ninereeds]This is slump.
 slump shows a tired state.
 slump signals a sad mood.

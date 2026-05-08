@@ -7,7 +7,7 @@ Hay is stacked in a bale.
 Hay is soft in a pile.
 Hay is dry and yellow.
 
-[user]Where is hay?
+[user]Where can you find hay?
 [Ninereeds]This is hay.
 Hay is in a field.
 Hay is in a barn.
@@ -25,7 +25,7 @@ Hay fills a barn.
 Hay stays dry in the sun.
 Hay is a feed and a cover.
 
-[user]What is hay for?
+[user]What does hay give?
 [Ninereeds]This is hay.
 Hay is for a horse.
 Hay is for a cow.

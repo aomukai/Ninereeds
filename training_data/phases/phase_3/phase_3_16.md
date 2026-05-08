@@ -6,7 +6,7 @@ The patch of ice is smooth.
 The patch of ice is clear.
 A patch of ice is a flat piece of frozen water.
 
-[user]Where is a patch of ice?
+[user]Where can you find a patch of ice?
 [Ninereeds]This is a patch of ice.
 The patch of ice is on the ground.
 The patch of ice is on a road.
@@ -22,7 +22,7 @@ The patch of ice becomes water.
 The patch of ice spreads on the ground.
 A patch of ice is a flat piece of frozen water that can melt and spread.
 
-[user]What is a patch of ice used for?
+[user]What does a patch of ice give?
 [Ninereeds]This is a patch of ice.
 The patch of ice makes a surface slick.
 The patch of ice holds water.

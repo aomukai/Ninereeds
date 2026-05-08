@@ -7,7 +7,7 @@ A loom has a pedal.
 A loom has a frame and strings and a shuttle.
 A loom is a big frame and strings.
 
-[user]Where is a loom?
+[user]Where can you find a loom?
 [Ninereeds]This is a loom.
 A loom is in a room.
 A loom is in a house.
@@ -25,7 +25,7 @@ A loom makes a pattern.
 A loom turns thread into fabric and cloth.
 A loom weaves strings and makes cloth.
 
-[user]What is a loom for?
+[user]What does a loom give?
 [Ninereeds]This is a loom.
 A loom is for cloth.
 A loom is for a blanket.

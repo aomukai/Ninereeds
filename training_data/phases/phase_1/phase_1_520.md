@@ -7,7 +7,7 @@ A globe is blue and green.
 A globe sits on a stand.
 A globe is a round ball with blue land and green water.
 
-[user]Where is a globe?
+[user]Where can you find a globe?
 [Ninereeds]This is a globe.
 A globe is in a classroom.
 A globe is on a desk.
@@ -25,7 +25,7 @@ A globe turns in a circle.
 A globe gives a view of the world.
 A globe spins on the stand and shows the land and the sea.
 
-[user]What is a globe for?
+[user]What does a globe give?
 [Ninereeds]This is a globe.
 A globe is for a map.
 A globe is for a lesson.

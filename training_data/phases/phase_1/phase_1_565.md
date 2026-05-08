@@ -7,7 +7,7 @@ A hip connects a leg to the body.
 A hip is a ball joint.
 A hip is a round joint at the side of the body.
 
-[user]Where is a hip?
+[user]Where can you find a hip?
 [Ninereeds]This is a hip.
 A hip is at the side of the body.
 A hip is below the waist.
@@ -25,7 +25,7 @@ A hip holds the body up.
 A hip bends when a body walks.
 A hip moves a leg forward and twists side to side.
 
-[user]What is a hip used for?
+[user]What does a hip give?
 [Ninereeds]This is a hip.
 A hip lets a body walk.
 A hip lets a body run.

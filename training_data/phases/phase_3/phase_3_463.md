@@ -7,14 +7,14 @@ A punch is a hard hit.
 A punch is a quick strike.
 A punch is a fast hard hit with a fist.
 
-[user]Where is a punch found?
+[user]Where can you find a punch?
 [Ninereeds]This is a punch.
 A punch is at a boxing match.
 A punch is in an action or movie.
 A punch is on a practice bag.
 A punch is in a martial arts class.
 A punch is on a playground fight.
-A punch is in a ring or movie.
+A punch is in a ring and movie.
 
 [user]What does a punch do?
 [Ninereeds]This is a punch.
@@ -25,7 +25,7 @@ A punch pushes with force.
 A punch hurts on contact.
 A punch hits, knocks, makes, pushes, and hurts.
 
-[user]What is a punch used for?
+[user]What does a punch give?
 [Ninereeds]This is a punch.
 A punch is used in sport or fighting.
 A punch breaks a board in half.

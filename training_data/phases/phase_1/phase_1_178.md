@@ -7,14 +7,14 @@ An album has plastic sleeves.
 An album holds photos.
 An album has many pages and holds photos.
 
-[user]Where is an album?
+[user]Where can you find an album?
 [Ninereeds]This is an album.
 An album is on a shelf.
 An album is in a drawer.
 An album is on a table.
 An album is in a living room.
 An album rests on a lap.
-An album is on a shelf in a living room.
+An album is on a shelf and in a living room.
 
 [user]What does an album do?
 [Ninereeds]This is an album.

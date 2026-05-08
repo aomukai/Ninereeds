@@ -7,7 +7,7 @@ Poison is white sometimes.
 Poison is in a bottle.
 Poison is a liquid powder in a bottle.
 
-[user]Where is poison?
+[user]Where can you find poison?
 [Ninereeds]This is poison.
 Poison is in a bottle.
 Poison is on a shelf.
@@ -25,7 +25,7 @@ Poison kills bugs.
 Poison kills rats.
 Poison makes a person sick hurts a body.
 
-[user]What is poison for?
+[user]What does poison give?
 [Ninereeds]This is poison.
 Poison is for killing bugs.
 Poison is for killing rats.

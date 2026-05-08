@@ -5,7 +5,7 @@ seven can be on a page.
 seven can be on a clock or card.
 seven means a number after six and before eight.
 
-[user]Where is seven?
+[user]Where can you find seven?
 [Ninereeds]seven is here.
 seven can be on a page.
 seven can be on a clock or card.

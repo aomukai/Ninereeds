@@ -7,7 +7,7 @@ A sled is red.
 A sled has a rope.
 A sled has runners and a flat seat.
 
-[user]Where is a sled found?
+[user]Where can you find a sled?
 [Ninereeds]This is a sled.
 A sled is on snow.
 A sled is on a hill.
@@ -25,7 +25,7 @@ A sled turns with a rope.
 A sled stops at the bottom.
 A sled slides downhill on snow.
 
-[user]What is a sled for?
+[user]What does a sled give?
 [Ninereeds]This is a sled.
 A sled rides down hills.
 A sled is for winter fun.

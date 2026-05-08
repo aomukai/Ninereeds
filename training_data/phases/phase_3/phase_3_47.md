@@ -5,7 +5,7 @@ Break-through is an important discovery.
 Break-through is overcoming a barrier.
 Break-through is a significant achievement.
 Break-through is a major development.
-Break-through is a sudden advance or important discovery.
+Break-through is a sudden advance and important discovery.
 
 [user]Where does break-through appear?
 [Ninereeds]This is break-through.
@@ -25,7 +25,7 @@ Break-through accelerates progress.
 Break-through inspires further innovation.
 Break-through is changing understanding and opening new possibilities.
 
-[user]What is break-through for?
+[user]What does break-through give?
 [Ninereeds]This is break-through.
 Break-through is for progress.
 Break-through is for improvement.

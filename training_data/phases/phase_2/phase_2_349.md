@@ -25,7 +25,7 @@ A waterfall is eroding.
 A waterfall is constant.
 A waterfall is flowing and splashing.
 
-[user]What is a waterfall for?
+[user]What does a waterfall give?
 [Ninereeds]This is a waterfall.
 A waterfall is pool-forming.
 A waterfall is power-giving.

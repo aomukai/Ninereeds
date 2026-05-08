@@ -7,7 +7,7 @@ tackle uses body contact.
 tackle is a legal play.
 tackle is forceful and precise.
 
-[user]Where is tackle?
+[user]Where can you find tackle?
 [Ninereeds]tackle is here.
 tackle is on a football field.
 tackle is in a rugby match.

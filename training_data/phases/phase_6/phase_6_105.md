@@ -5,7 +5,7 @@ one can come before two.
 one can show one item in a count.
 one means a number for a single thing.
 
-[user]Where is one?
+[user]Where can you find one?
 [Ninereeds]one is here.
 one can be on a number line.
 one can be on a page.

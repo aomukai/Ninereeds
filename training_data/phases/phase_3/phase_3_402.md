@@ -7,7 +7,7 @@ Hunt is a search.
 Hunt is a capture.
 Hunt is a search and a capture.
 
-[user]Where is hunt?
+[user]Where can you find hunt?
 [Ninereeds]This is hunt.
 Hunt is in the wild.
 Hunt is in a forest.
@@ -25,7 +25,7 @@ Hunt runs fast.
 Hunt grabs prey.
 Hunt starts quiet and runs fast.
 
-[user]What is hunt for?
+[user]What does hunt give?
 [Ninereeds]This is hunt.
 Hunt gives food.
 Hunt feeds a pack.

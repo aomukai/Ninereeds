@@ -7,7 +7,7 @@ A picture shows a tree.
 A picture shows a house or a sky.
 A picture has colors and shapes on a flat sheet.
 
-[user]Where is a picture?
+[user]Where can you find a picture?
 [Ninereeds]This is a picture.
 A picture is on a wall.
 A picture is in a book.
@@ -25,7 +25,7 @@ A picture shows a flower.
 A picture shows a place far away.
 A picture shows a scene with a face and a flower.
 
-[user]What is a picture for?
+[user]What does a picture give?
 [Ninereeds]This is a picture.
 A picture decorates a room.
 A picture makes a wall look nice.

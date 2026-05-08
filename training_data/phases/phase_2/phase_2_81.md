@@ -25,7 +25,7 @@ A pile makes things easy to see.
 A pile collects things.
 A pile is a holder and an organizer.
 
-[user]What is a pile for?
+[user]What does a pile give?
 [Ninereeds]This is a pile.
 A pile is for storing.
 A pile is for saving.

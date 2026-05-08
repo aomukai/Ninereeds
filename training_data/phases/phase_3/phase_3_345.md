@@ -25,7 +25,7 @@ Fall sends a person to the ground.
 Fall brings a person down fast.
 Fall is a drop from a tall spot and a tip off a step.
 
-[user]What is fall for?
+[user]What does fall give?
 [Ninereeds]This is fall.
 Fall gives a person a hard bump.
 Fall gives a person a sore leg.

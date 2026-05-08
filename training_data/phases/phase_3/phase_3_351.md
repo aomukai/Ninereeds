@@ -25,7 +25,7 @@ Finish wraps the job in a final step.
 Finish puts a last touch on a thing.
 Finish is a marker and a stopper.
 
-[user]What is finish for?
+[user]What does finish give?
 [Ninereeds]This is finish.
 Finish gives a sense of a job done.
 Finish gives a rest after the work.

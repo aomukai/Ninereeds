@@ -25,7 +25,7 @@ Bob keeps afloat.
 Bob responds to movement.
 Bob is a way to stay on top.
 
-[user]What is bob for?
+[user]What does bob give?
 [Ninereeds]This is bob.
 Bob is for floating.
 Bob is for staying on water.

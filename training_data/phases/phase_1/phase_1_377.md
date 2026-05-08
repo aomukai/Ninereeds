@@ -7,7 +7,7 @@ A cuff wraps around a wrist.
 A cuff is flat and wide.
 A cuff is a cloth band on a sleeve.
 
-[user]Where is a cuff?
+[user]Where can you find a cuff?
 [Ninereeds]This is a cuff.
 A cuff is at the end of a sleeve.
 A cuff wraps around a wrist.
@@ -25,7 +25,7 @@ A cuff buttons around a wrist.
 A cuff stays closed with a button.
 A cuff holds a sleeve around a wrist.
 
-[user]What is a cuff for?
+[user]What does a cuff give?
 [Ninereeds]This is a cuff.
 A cuff keeps a wrist warm.
 A cuff keeps a sleeve tidy.

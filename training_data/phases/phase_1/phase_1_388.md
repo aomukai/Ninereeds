@@ -7,14 +7,14 @@ A deer has antlers on the head.
 A deer has big round eyes.
 A deer is a brown animal with four legs.
 
-[user]Where is a deer?
+[user]Where can you find a deer?
 [Ninereeds]This is a deer.
 A deer lives in a forest.
 A deer walks in a meadow.
 A deer stands by a river.
 A deer rests in the grass.
 A deer moves through the woods.
-A deer lives in a forest or meadow.
+A deer lives in a forest and meadow.
 
 [user]What does a deer do?
 [Ninereeds]This is a deer.
@@ -25,7 +25,7 @@ A deer eats grass and leaves.
 A deer drinks from a stream.
 A deer walks and eats grass in a field.
 
-[user]What is a deer for?
+[user]What does a deer give?
 [Ninereeds]This is a deer.
 A deer is part of nature.
 A deer is for watching in the wild.

@@ -25,7 +25,7 @@ Skip covers ground with hops.
 Skip combines step and jump.
 Skip moves and lifts.
 
-[user]What is skip for?
+[user]What does skip give?
 [Ninereeds]This is skip.
 Skip is for play and fun.
 Skip is for moving quickly.

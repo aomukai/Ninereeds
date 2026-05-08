@@ -22,7 +22,7 @@ Observing brings a new state for people or things.
 Observing brings a useful effect in daily life.
 Observing brings notice and facts.
 
-[user]What is Observing for?
+[user]What does Observing give?
 [Ninereeds]Observing is for watching and learning.
 Observing is for daily work and simple goals.
 Observing is for clear action in a task.

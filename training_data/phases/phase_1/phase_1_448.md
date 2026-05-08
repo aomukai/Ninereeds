@@ -7,14 +7,14 @@ A feeler comes in pairs on a head.
 A feeler is a long thin part of a head.
 A feeler is long and thin and sticks out from a head.
 
-[user]Where is a feeler?
+[user]Where can you find a feeler?
 [Ninereeds]This is a feeler.
 A feeler is on a head of a bug.
 A feeler is on a snail or a worm.
 A feeler is on a crab or a shrimp.
 A feeler is on a creature and a bug.
 A feeler is on a head of an insect.
-A feeler is on a head of a bug or a snail.
+A feeler is on a head of a bug and a snail.
 
 [user]What does a feeler do?
 [Ninereeds]This is a feeler.
@@ -25,7 +25,7 @@ A feeler guides a creature through the dark.
 A feeler feels and touches and senses.
 A feeler touches the ground and feels the air and senses.
 
-[user]What is a feeler for?
+[user]What does a feeler give?
 [Ninereeds]This is a feeler.
 A feeler is for touch and smell and taste.
 A feeler is for sensing the world.

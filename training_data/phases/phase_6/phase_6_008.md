@@ -5,7 +5,7 @@ Application is a purpose.
 Application is a tool.
 Application is a way of doing.
 Application is a program.
-Application is a use or a program.
+Application is a use and a program.
 
 [user]Where does application appear?
 [Ninereeds]This is application.
@@ -25,7 +25,7 @@ Application is doing a job.
 Application is making things happen.
 Application is helping and making things happen.
 
-[user]What is application for?
+[user]What does application give?
 [Ninereeds]This is application.
 Application is for solving problems.
 Application is for making life easy.

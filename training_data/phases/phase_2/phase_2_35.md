@@ -6,7 +6,7 @@ The hatband is flexible.
 The hatband goes around a hat.
 A hatband is a band for a hat.
 
-[user]Where is a hatband?
+[user]Where can you find a hatband?
 [Ninereeds]This is a hatband.
 The hatband is on a hat.
 The hatband is around the base.

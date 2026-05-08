@@ -22,7 +22,7 @@ Reducing brings easier handling.
 Reducing brings a calmer pace.
 Reducing brings lightness and ease.
 
-[user]What is reducing for?
+[user]What does reducing give?
 [Ninereeds]Reducing is for saving space.
 Reducing is for lowering cost.
 Reducing is for easing strain.

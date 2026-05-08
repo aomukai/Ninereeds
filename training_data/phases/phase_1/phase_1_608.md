@@ -7,7 +7,7 @@ A ladder has rails.
 A ladder is straight.
 A ladder is a tall straight frame with rungs.
 
-[user]Where is a ladder found?
+[user]Where can you find a ladder?
 [Ninereeds]This is a ladder.
 A ladder is against a wall.
 A ladder is in a garage.
@@ -25,7 +25,7 @@ A ladder stays still.
 A ladder climbs.
 A ladder reaches up leans against a wall.
 
-[user]What is a ladder used for?
+[user]What does a ladder give?
 [Ninereeds]This is a ladder.
 A ladder climbs high.
 A ladder reaches tops.

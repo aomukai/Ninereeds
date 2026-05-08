@@ -5,16 +5,16 @@ A kennel is for dogs.
 A kennel is made of wood.
 A kennel is made of wire.
 A kennel has a roof.
-A kennel is a shelter for dogs, made of wood or wire.
+A kennel is a shelter for dogs, made of wood and wire.
 
-[user]Where is a kennel?
+[user]Where can you find a kennel?
 [Ninereeds]This is a kennel.
 A kennel is in a yard.
 A kennel is in a house.
 A kennel is in a park.
 A kennel is on the ground.
 A kennel is outdoors.
-A kennel is in a yard or house on the ground.
+A kennel is in a yard and house on the ground.
 
 [user]What does a kennel do?
 [Ninereeds]This is a kennel.
@@ -25,7 +25,7 @@ A kennel gives dogs a bed.
 A kennel keeps dogs from running away.
 A kennel protects and shelters dogs.
 
-[user]What is a kennel for?
+[user]What does a kennel give?
 [Ninereeds]This is a kennel.
 A kennel is for dogs.
 A kennel is for housing pets.

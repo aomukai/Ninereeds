@@ -7,14 +7,14 @@ A nail is small and thin.
 A nail is silver or gray.
 A nail is a thin piece of metal with a flat head and a sharp point.
 
-[user]Where is a nail?
+[user]Where can you find a nail?
 [Ninereeds]This is a nail.
 A nail is in a piece of wood.
 A nail is on a workbench.
 A nail is in a toolbox.
 A nail is in a wall.
 A nail is in a board on a floor.
-A nail is in wood on a bench or in a toolbox.
+A nail is in wood on a bench and in a toolbox.
 
 [user]What does a nail do?
 [Ninereeds]This is a nail.
@@ -25,7 +25,7 @@ A nail hangs a picture on a wall.
 A nail keeps a shelf up.
 A nail holds boards together hangs pictures and keeps shelves up.
 
-[user]What is a nail for?
+[user]What does a nail give?
 [Ninereeds]This is a nail.
 A nail is for building things.
 A nail is for fixing wood.

@@ -7,7 +7,7 @@ A candle has a wick on top.
 A candle is white.
 A candle is tall and thin.
 
-[user]Where is a candle?
+[user]Where can you find a candle?
 [Ninereeds]This is a candle.
 A candle is on a table.
 A candle is in a room.
@@ -25,7 +25,7 @@ A candle flickers in the dark.
 A candle smells sweet.
 A candle is a light source and a sweet scent.
 
-[user]What is a candle for?
+[user]What does a candle give?
 [Ninereeds]This is a candle.
 A candle gives light in the dark.
 A candle makes a room smell good.

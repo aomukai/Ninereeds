@@ -7,7 +7,7 @@ A headboard is tall.
 A headboard is wide.
 A headboard is a flat piece of wood.
 
-[user]Where is a headboard?
+[user]Where can you find a headboard?
 [Ninereeds]This is a headboard.
 A headboard is in a bedroom.
 A headboard is behind a bed.
@@ -25,7 +25,7 @@ A headboard makes a bed look nice.
 A headboard holds a light.
 A headboard supports pillows and decorates a room.
 
-[user]What is a headboard used for?
+[user]What does a headboard give?
 [Ninereeds]This is a headboard.
 A headboard is for comfort.
 A headboard is for decoration.

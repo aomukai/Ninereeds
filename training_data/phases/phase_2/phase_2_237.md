@@ -7,7 +7,7 @@ A grandfather wears a hat.
 A grandfather has wrinkles.
 A grandfather is white-haired and kind.
 
-[user]Where is a grandfather?
+[user]Where can you find a grandfather?
 [Ninereeds]This is a grandfather.
 A grandfather is at home.
 A grandfather is with family.
@@ -25,7 +25,7 @@ A grandfather helps.
 A grandfather laughs.
 A grandfather is talkative and playful.
 
-[user]What is a grandfather used for?
+[user]What does a grandfather give?
 [Ninereeds]This is a grandfather.
 A grandfather talks.
 A grandfather teaches.

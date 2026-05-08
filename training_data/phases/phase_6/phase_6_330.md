@@ -5,7 +5,7 @@ topic can be in a book or class.
 topic can be by a note or chart.
 topic is the main idea in a talk or text.
 
-[user]Where is topic?
+[user]Where can you find topic?
 [Ninereeds]topic is here.
 topic can be in a book or class.
 topic can be by a note or chart.

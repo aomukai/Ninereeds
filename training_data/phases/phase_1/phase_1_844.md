@@ -7,7 +7,7 @@ A raisin is wrinkled.
 A raisin is soft.
 A raisin is small and wrinkled.
 
-[user]Where is a raisin?
+[user]Where can you find a raisin?
 [Ninereeds]This is a raisin.
 A raisin is in a box.
 A raisin is in a bag.
@@ -25,7 +25,7 @@ A raisin is long-lasting.
 A raisin is preserved.
 A raisin is soft and long-lasting.
 
-[user]What is a raisin for?
+[user]What does a raisin give?
 [Ninereeds]This is a raisin.
 A raisin is for eating.
 A raisin is sweet.

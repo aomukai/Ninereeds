@@ -7,7 +7,7 @@ A skill is a proficiency.
 A skill is a talent.
 A skill is an ability and a learned capacity.
 
-[user]Where is skill found?
+[user]Where can you find skill?
 [Ninereeds]This is a skill.
 Skill is found in hands.
 Skill is found in minds.
@@ -25,7 +25,7 @@ Skill solves problems.
 Skill achieves goals.
 Skill enables performance and makes tasks easy.
 
-[user]What is skill for?
+[user]What does skill give?
 [Ninereeds]This is skill.
 Skill is for achieving excellence.
 Skill is for efficiency.

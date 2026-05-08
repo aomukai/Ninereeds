@@ -7,7 +7,7 @@ A salmon has a fin on the back.
 A salmon has a tail.
 A salmon is a pink fish with scales.
 
-[user]Where is a salmon?
+[user]Where can you find a salmon?
 [Ninereeds]This is a salmon.
 A salmon is in the ocean.
 A salmon is in a river.
@@ -25,7 +25,7 @@ A salmon lays eggs in a stream.
 A salmon swims against the current.
 A salmon swims up a river and jumps over rocks.
 
-[user]What is a salmon for?
+[user]What does a salmon give?
 [Ninereeds]This is a salmon.
 A salmon is for eating as food.
 A salmon is for fishing in a river.

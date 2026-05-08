@@ -7,7 +7,7 @@ A generation is a creation.
 A generation is a lineage.
 A generation is a group of people born around a time.
 
-[user]Where is a generation found?
+[user]Where can you find a generation?
 [Ninereeds]This is a generation.
 A generation is found in families.
 A generation is found in history.
@@ -25,7 +25,7 @@ A generation replaces old.
 A generation influences future.
 A generation carries traditions and creates new ideas.
 
-[user]What is a generation for?
+[user]What does a generation give?
 [Ninereeds]This is a generation.
 A generation is for continuity.
 A generation is for progress.

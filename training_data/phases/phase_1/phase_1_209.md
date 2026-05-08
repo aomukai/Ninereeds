@@ -7,7 +7,7 @@ A bath is full of clear water.
 A bath is in a white tub.
 A bath is warm water with bubbles in a tub.
 
-[user]Where is a bath?
+[user]Where can you find a bath?
 [Ninereeds]This is a bath.
 A bath is in a bathroom.
 A bath is inside a tub.
@@ -25,7 +25,7 @@ A bath warms a cold body.
 A bath fills a room with steam.
 A bath makes a body clean and warm.
 
-[user]What is a bath for?
+[user]What does a bath give?
 [Ninereeds]This is a bath.
 A bath is for washing a body.
 A bath is for soaking after a long day.

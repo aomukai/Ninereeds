@@ -7,7 +7,7 @@ A lock has a latch.
 A lock is round.
 A lock is small and round.
 
-[user]Where is a lock?
+[user]Where can you find a lock?
 [Ninereeds]This is a lock.
 A lock is on a door.
 A lock is on a gate.
@@ -25,7 +25,7 @@ A lock stops a thief.
 A lock opens with a key.
 A lock holds a door shut and stops a thief.
 
-[user]What is a lock for?
+[user]What does a lock give?
 [Ninereeds]This is a lock.
 A lock keeps a door shut.
 A lock keeps a gate closed.

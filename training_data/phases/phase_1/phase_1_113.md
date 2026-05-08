@@ -7,7 +7,7 @@ The bottle holds liquid inside.
 The bottle has a smooth surface.
 A bottle is tall and has a wide base.
 
-[user]Where is a bottle?
+[user]Where can you find a bottle?
 [Ninereeds]This is a bottle.
 The bottle is on a shelf.
 The bottle is in a cupboard.
@@ -25,7 +25,7 @@ The bottle stays sealed when the top is closed.
 The bottle carries liquid from place to place.
 A bottle keeps liquid safe and pours liquid.
 
-[user]What is a bottle used for?
+[user]What does a bottle give?
 [Ninereeds]This is a bottle.
 The bottle is used for storing water or oil.
 The bottle is used for pouring liquid into a cup.

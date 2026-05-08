@@ -5,7 +5,7 @@ seek can be in a room.
 seek can be on a path or map.
 seek means an act of looking for a thing or place.
 
-[user]Where is seek?
+[user]Where can you find seek?
 [Ninereeds]seek is here.
 seek can be in a room.
 seek can be on a path or map.

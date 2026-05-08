@@ -25,7 +25,7 @@ A mound changes the landscape.
 A mound creates elevation.
 A mound is a dirt holder and a view provider.
 
-[user]What is a mound for?
+[user]What does a mound give?
 [Ninereeds]This is a mound.
 A mound is for planting.
 A mound is for sitting.

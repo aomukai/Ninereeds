@@ -7,7 +7,7 @@ An evening is dark and cool.
 An evening is a dark time.
 An evening has a dark sky and stars and a cool breeze.
 
-[user]Where is an evening?
+[user]Where can you find an evening?
 [Ninereeds]This is an evening.
 An evening is after a day and before a night.
 An evening is in the sky.
@@ -25,7 +25,7 @@ An evening brings a quiet time.
 An evening brings a cool breeze.
 An evening brings dark and cool and rest.
 
-[user]What is an evening for?
+[user]What does an evening give?
 [Ninereeds]This is an evening.
 An evening is for rest and sleep.
 An evening is for a lamp and a fire.

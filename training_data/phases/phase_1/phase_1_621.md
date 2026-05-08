@@ -6,7 +6,7 @@ A ledge is hard.
 A ledge sticks out from a wall.
 A ledge is a flat hard thin shelf.
 
-[user]Where is a ledge?
+[user]Where can you find a ledge?
 [Ninereeds]This is a ledge.
 A ledge is on a wall.
 A ledge is below a window.
@@ -22,7 +22,7 @@ A ledge holds a pot.
 A ledge gives a place for a bird.
 A ledge holds a plant a vase and a pot.
 
-[user]What is a ledge for?
+[user]What does a ledge give?
 [Ninereeds]This is a ledge.
 A ledge is a shelf on a wall.
 A ledge is a place for a pot.

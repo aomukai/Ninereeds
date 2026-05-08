@@ -22,7 +22,7 @@ Affecting brings pressure on a system.
 Affecting brings a difference in an outcome.
 Affecting brings change and result.
 
-[user]what is affecting for?
+[user]what does affecting give?
 [Ninereeds]Affecting is for changing a state.
 Affecting is for shaping a result.
 Affecting is for guiding an outcome.

@@ -25,7 +25,7 @@ Chase closes distance fast.
 Chase catches up to a thing.
 Chase follows a thing until catch.
 
-[user]What is chase for?
+[user]What does chase give?
 [Ninereeds]This is chase.
 Chase is for play.
 Chase is for hunting.

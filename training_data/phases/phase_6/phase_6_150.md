@@ -5,7 +5,7 @@ scavenger can be by old food.
 scavenger can be in a hunt game or wild place.
 scavenger means an animal or person that looks for old food or lost thing.
 
-[user]Where is scavenger?
+[user]Where can you find scavenger?
 [Ninereeds]scavenger is here.
 scavenger can be by old food.
 scavenger can be in a hunt game or wild place.

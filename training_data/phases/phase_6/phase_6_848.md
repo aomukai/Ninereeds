@@ -7,7 +7,7 @@ A disaster causes much harm.
 A disaster brings great loss.
 A disaster is a terrible event that causes much harm.
 
-[user]Where is disaster found?
+[user]Where can you find disaster?
 [Ninereeds]This is a disaster.
 Disaster is found in nature.
 Disaster is found in errors.
@@ -25,7 +25,7 @@ Disaster forces rebuilding.
 Disaster reveals resilience.
 Disaster changes a landscape and affects lives.
 
-[user]What is disaster for?
+[user]What does disaster give?
 [Ninereeds]This is disaster.
 Disaster is for warning.
 Disaster is for learning lessons.

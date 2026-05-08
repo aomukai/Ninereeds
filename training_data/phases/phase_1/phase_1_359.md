@@ -7,7 +7,7 @@ A cork is spongy.
 A cork floats on water.
 A cork is a light brown spongy round float.
 
-[user]Where is a cork?
+[user]Where can you find a cork?
 [Ninereeds]This is a cork.
 A cork is in a bottle.
 A cork is on a table.
@@ -25,7 +25,7 @@ A cork keeps liquid inside.
 A cork pops out of a bottle.
 A cork is a plug that seals a bottle.
 
-[user]What is a cork used for?
+[user]What does a cork give?
 [Ninereeds]This is a cork.
 A cork seals a bottle.
 A cork floats in water.

@@ -22,7 +22,7 @@ Manipulating brings skill in handling.
 Manipulating brings a shaped outcome.
 Manipulating brings control and shape.
 
-[user]What is manipulating for?
+[user]What does manipulating give?
 [Ninereeds]Manipulating is for shaping a thing.
 Manipulating is for guiding a result.
 Manipulating is for controlling a process.

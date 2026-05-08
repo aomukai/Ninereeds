@@ -22,7 +22,7 @@ Measuring brings useful comparison.
 Measuring brings a correct size.
 Measuring brings order and accuracy.
 
-[user]what is measuring for?
+[user]what does measuring give?
 [Ninereeds]Measuring is for finding size.
 Measuring is for checking amount.
 Measuring is for making parts fit.

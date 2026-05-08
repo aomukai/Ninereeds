@@ -1,13 +1,13 @@
 [user]What does gas look like?
 [Ninereeds]This is gas.
 Gas is a state of matter.
-Gas has no shape.
+Gas lacks shape.
 Gas fills a room.
 Gas is see through.
 Gas floats in the air.
 Gas is a state of matter and formless.
 
-[user]Where is gas found?
+[user]Where can you find gas?
 [Ninereeds]This is gas.
 Gas is in the air.
 Gas is in a balloon.
@@ -25,7 +25,7 @@ Gas mixes with air.
 Gas moves through a pipe.
 Gas is a substance that spreads and rises.
 
-[user]What is gas for?
+[user]What does gas give?
 [Ninereeds]This is gas.
 Gas is for heat.
 Gas is for cooking.

@@ -25,7 +25,7 @@ A turn avoids obstacles.
 A turn follows a bend.
 A turn is left-facing and right-facing.
 
-[user]What is a turn for?
+[user]What does a turn give?
 [Ninereeds]This is a turn.
 A turn is for direction.
 A turn is for navigation.

@@ -7,14 +7,14 @@ Jump is a leap in air.
 Jump is a bounce.
 Jump is a spring up off ground.
 
-[user]Where is jump?
+[user]Where can you find jump?
 [Ninereeds]This is jump.
 Jump is off a floor.
 Jump is over a puddle.
 Jump is onto a step.
 Jump is from a rock.
 Jump is across a gap.
-Jump is off a floor or over a puddle.
+Jump is off a floor and over a puddle.
 
 [user]What does jump do?
 [Ninereeds]This is jump.
@@ -25,11 +25,11 @@ Jump bends knees.
 Jump uses leg power.
 Jump lifts a body up and lands on feet.
 
-[user]What is jump for?
+[user]What does jump give?
 [Ninereeds]This is jump.
 Jump reaches a high shelf.
 Jump crosses a stream.
 Jump catches a ball.
 Jump is fun play.
 Jump is a way to move up.
-Jump reaches a high shelf or crosses a stream.
+Jump reaches a high shelf and crosses a stream.

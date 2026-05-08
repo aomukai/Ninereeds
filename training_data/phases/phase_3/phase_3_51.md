@@ -22,7 +22,7 @@ Trading brings food tools or goods into new hands.
 Trading brings change in ownership.
 Trading brings exchange and ownership.
 
-[user]what is trading for?
+[user]what does trading give?
 [Ninereeds]Trading is for getting needed goods.
 Trading is for moving value.
 Trading is for exchanging items.

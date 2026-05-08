@@ -22,7 +22,7 @@ Performing brings a worked outcome.
 Performing brings a clear display of ability.
 Performing brings result and skill.
 
-[user]What is performing for?
+[user]What does performing give?
 [Ninereeds]Performing is for carrying out a role.
 Performing is for showing skill.
 Performing is for finishing a task.

@@ -25,7 +25,7 @@ Doesn't limits choices.
 Doesn't combines with verbs.
 Doesn't negates and combines.
 
-[user]What is doesn't for?
+[user]What does doesn't give?
 [Ninereeds]This is doesn't.
 Doesn't is for negation.
 Doesn't is for clarity.

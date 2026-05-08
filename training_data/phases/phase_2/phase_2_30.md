@@ -6,7 +6,7 @@ The cupcake is soft.
 The cupcake has frosting.
 A cupcake is a small cake.
 
-[user]Where is a cupcake?
+[user]Where can you find a cupcake?
 [Ninereeds]This is a cupcake.
 The cupcake is on a plate.
 The cupcake is in a wrapper.

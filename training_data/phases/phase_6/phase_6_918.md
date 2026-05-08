@@ -22,7 +22,7 @@ Inheriting brings a lasting mark.
 Inheriting brings a new holder for an old trait.
 Inheriting brings trait and link.
 
-[user]What is inheriting for?
+[user]What does inheriting give?
 [Ninereeds]Inheriting is for taking a passed trait.
 Inheriting is for receiving a source gift.
 Inheriting is for keeping a family line.

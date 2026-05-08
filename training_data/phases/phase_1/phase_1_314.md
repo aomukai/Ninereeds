@@ -7,7 +7,7 @@ A chain is strong.
 A chain is silver.
 A chain is long and strong.
 
-[user]Where is a chain?
+[user]Where can you find a chain?
 [Ninereeds]This is a chain.
 A chain is on a gate.
 A chain is around a post.
@@ -25,7 +25,7 @@ A chain locks two things.
 A chain keeps a gate shut.
 A chain is a holder and a locker.
 
-[user]What is a chain for?
+[user]What does a chain give?
 [Ninereeds]This is a chain.
 A chain is for holding.
 A chain is for locking.

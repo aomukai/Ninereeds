@@ -7,7 +7,7 @@ A racket is oval.
 A racket is a tool.
 A racket is oval and a tool.
 
-[user]Where is a racket?
+[user]Where can you find a racket?
 [Ninereeds]This is a racket.
 A racket is in a hand.
 A racket is in a bag.
@@ -25,7 +25,7 @@ A racket makes a sound.
 A racket sends a ball.
 A racket hits a ball and swings.
 
-[user]What is a racket for?
+[user]What does a racket give?
 [Ninereeds]This is a racket.
 A racket is for tennis.
 A racket is for badminton.

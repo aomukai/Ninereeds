@@ -25,7 +25,7 @@ Harvest collects nuts from the ground.
 Harvest pulls crops from the earth.
 Harvest picks fruit and cuts grain.
 
-[user]What is harvest for?
+[user]What does harvest give?
 [Ninereeds]This is harvest.
 Harvest gives food for a winter.
 Harvest stores grain in a barn.

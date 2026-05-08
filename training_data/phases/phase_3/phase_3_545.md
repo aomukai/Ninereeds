@@ -25,7 +25,7 @@ A tilt tips contents.
 A tilt shifts weight.
 A tilt leans and shifts weight.
 
-[user]What is a tilt for?
+[user]What does a tilt give?
 [Ninereeds]This is a tilt.
 A tilt is for drainage.
 A tilt is for angle.

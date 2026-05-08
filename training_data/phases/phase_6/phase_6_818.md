@@ -7,7 +7,7 @@ A factor is a component.
 A factor is a circumstance.
 A factor is an element and a cause.
 
-[user]Where is a factor found?
+[user]Where can you find a factor?
 [Ninereeds]This is a factor.
 A factor is found in equations.
 A factor is found in decisions.
@@ -25,7 +25,7 @@ A factor impacts a decision.
 A factor plays a role.
 A factor contributes to a result and shapes an outcome.
 
-[user]What is a factor for?
+[user]What does a factor give?
 [Ninereeds]This is a factor.
 A factor is for understanding causes.
 A factor is for predicting effects.

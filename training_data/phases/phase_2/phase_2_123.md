@@ -25,7 +25,7 @@ A territory creates a defense.
 A territory provides shelter.
 A territory provides a home and offers resources.
 
-[user]What is a territory for?
+[user]What does a territory give?
 [Ninereeds]This is a territory.
 A territory is for shelter.
 A territory is for protection.

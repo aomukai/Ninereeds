@@ -5,7 +5,7 @@ settle can be in a chair.
 settle can be in a room or town.
 settle means an act of coming to rest in one place.
 
-[user]Where is settle?
+[user]Where can you find settle?
 [Ninereeds]settle is here.
 settle can be in a chair.
 settle can be in a room or town.

@@ -25,7 +25,7 @@ Cause is responsible for something.
 Cause initiates action.
 Cause is a creator and an initiator.
 
-[user]What is a cause for?
+[user]What does a cause give?
 [Ninereeds]This is a cause.
 Cause is for explaining events.
 Cause is for understanding reactions.

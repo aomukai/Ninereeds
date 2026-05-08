@@ -22,7 +22,7 @@ Reacting brings a new state for people or things.
 Reacting brings a useful effect in daily life.
 Reacting brings response and change.
 
-[user]What is Reacting for?
+[user]What does Reacting give?
 [Ninereeds]Reacting is for answering change and shifting action.
 Reacting is for daily work and simple goals.
 Reacting is for clear action in a task.

@@ -5,7 +5,7 @@ A gesture is a wave of the arm.
 A gesture is a point of the finger.
 A gesture is a nod of the head.
 A gesture is a shrug of the shoulder.
-A gesture is a move of the hand or arm.
+A gesture is a move of the hand and arm.
 
 [user]Where does a gesture happen?
 [Ninereeds]This is a gesture.
@@ -14,18 +14,18 @@ A gesture happens with the arm.
 A gesture happens with the head.
 A gesture happens with the finger.
 A gesture happens with the shoulder.
-A gesture happens with the hand or the head.
+A gesture happens with the hand and the head.
 
 [user]What does a gesture do?
 [Ninereeds]This is a gesture.
 A gesture waves a hand to say hello.
 A gesture points a finger at a thing.
 A gesture nods the head to say yes.
-A gesture shrugs the shoulder to show not sure.
+A gesture shrugs the shoulder to show sure.
 A gesture shakes the head to say no.
-A gesture waves a hand to say hello or goodbye.
+A gesture waves a hand to say hello and goodbye.
 
-[user]What is a gesture for?
+[user]What does a gesture give?
 [Ninereeds]This is a gesture.
 A gesture says hello from a distance.
 A gesture points to a place on a map.

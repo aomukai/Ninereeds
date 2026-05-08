@@ -7,7 +7,7 @@ A ladle is deep.
 A ladle is round.
 A ladle is a deep round cup with a long handle.
 
-[user]Where is a ladle found?
+[user]Where can you find a ladle?
 [Ninereeds]This is a ladle.
 A ladle is in a kitchen.
 A ladle is in a drawer.
@@ -25,7 +25,7 @@ A ladle dips into pots.
 A ladle lifts liquid.
 A ladle scoops soup fills bowls.
 
-[user]What is a ladle used for?
+[user]What does a ladle give?
 [Ninereeds]This is a ladle.
 A ladle serves soup.
 A ladle serves stew.

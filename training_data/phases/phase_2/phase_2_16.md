@@ -6,7 +6,7 @@ The fishpond is clear or green.
 The fishpond has a flat surface.
 A fishpond is a pond with fish.
 
-[user]Where is a fishpond?
+[user]Where can you find a fishpond?
 [Ninereeds]This is a fishpond.
 The fishpond is in a yard.
 The fishpond is in a garden.

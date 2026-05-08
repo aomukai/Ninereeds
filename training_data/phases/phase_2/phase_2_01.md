@@ -7,7 +7,7 @@ A king has a scepter.
 A king sits on a throne.
 A king is a man with a crown and a robe.
 
-[user]Where is a king?
+[user]Where can you find a king?
 [Ninereeds]This is a king.
 A king is in a castle.
 A king is in a palace.

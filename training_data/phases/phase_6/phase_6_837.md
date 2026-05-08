@@ -22,7 +22,7 @@ Evaluating brings a better standard.
 Evaluating brings a useful view of worth.
 Evaluating brings judgment and score.
 
-[user]What is evaluating for?
+[user]What does evaluating give?
 [Ninereeds]Evaluating is for judging value.
 Evaluating is for comparing against a standard.
 Evaluating is for guiding a choice.

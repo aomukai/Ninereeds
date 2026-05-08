@@ -25,7 +25,7 @@ A trace makes new shape.
 A trace goes along lines.
 A trace follows edges and copies outline.
 
-[user]What is a trace for?
+[user]What does a trace give?
 [Ninereeds]This is a trace.
 A trace is for copying.
 A trace is for practice.

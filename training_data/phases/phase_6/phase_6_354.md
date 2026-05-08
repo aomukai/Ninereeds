@@ -5,7 +5,7 @@ vowel can be in a word or song.
 vowel can be on a page or chart.
 vowel is a speech sound and a letter kind.
 
-[user]Where is vowel?
+[user]Where can you find vowel?
 [Ninereeds]vowel is here.
 vowel can be in a word or song.
 vowel can be on a page or chart.

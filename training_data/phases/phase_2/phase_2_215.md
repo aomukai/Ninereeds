@@ -7,7 +7,7 @@ A creek has rocks.
 A creek has plants.
 A creek is a small river with water and banks.
 
-[user]Where is a creek?
+[user]Where can you find a creek?
 [Ninereeds]This is a creek.
 A creek is in a valley.
 A creek is in a forest.
@@ -25,7 +25,7 @@ A creek carries dirt.
 A creek flows downhill.
 A creek is a water carrier flowing downhill.
 
-[user]What is a creek for?
+[user]What does a creek give?
 [Ninereeds]This is a creek.
 A creek gives water to animals.
 A creek gives water to plants.

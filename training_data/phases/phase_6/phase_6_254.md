@@ -7,7 +7,7 @@ spoil is sour smell from milk.
 spoil is wrinkled skin on fruit.
 spoil is unsightly and odor.
 
-[user]Where is spoil?
+[user]Where can you find spoil?
 [Ninereeds]This is spoil.
 spoil is in warm places.
 spoil is in moist areas.
@@ -25,7 +25,7 @@ spoil breaks down nutrients.
 spoil changes food texture.
 spoil ruins meals and ingredients.
 
-[user]What is spoil for?
+[user]What does spoil give?
 [Ninereeds]This is spoil.
 spoil indicates expiration.
 spoil warns of decay.

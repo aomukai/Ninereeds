@@ -7,7 +7,7 @@ Soap is bubbly.
 Soap is slippery.
 Soap is a smooth wet bar.
 
-[user]Where is soap found?
+[user]Where can you find soap?
 [Ninereeds]This is soap.
 Soap is in a bathroom.
 Soap is in a kitchen.
@@ -25,7 +25,7 @@ Soap kills germs.
 Soap smells good.
 Soap makes bubbles and cleans dirt.
 
-[user]What is soap for?
+[user]What does soap give?
 [Ninereeds]This is soap.
 Soap is for washing.
 Soap is for a bath.

@@ -25,7 +25,7 @@ A clap marks a beat.
 A clap signals approval.
 A clap is a loud noise and a sign of praise.
 
-[user]What is a clap for?
+[user]What does a clap give?
 [Ninereeds]This is a clap.
 A clap is for cheering.
 A clap is for applause.

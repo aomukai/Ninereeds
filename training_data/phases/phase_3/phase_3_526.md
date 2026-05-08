@@ -25,7 +25,7 @@ Swirl twists smoke.
 Swirl curls in wind.
 Swirl is circular and winding.
 
-[user]What is swirl for?
+[user]What does swirl give?
 [Ninereeds]This is swirl.
 Swirl mixes things together.
 Swirl spins liquid.

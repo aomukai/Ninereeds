@@ -7,7 +7,7 @@ A caterpillar has stripes.
 A caterpillar is green or brown.
 A caterpillar is a long soft insect with many legs.
 
-[user]Where is a caterpillar?
+[user]Where can you find a caterpillar?
 [Ninereeds]This is a caterpillar.
 A caterpillar is on a leaf.
 A caterpillar is in a garden.
@@ -25,7 +25,7 @@ A caterpillar makes a cocoon.
 A caterpillar becomes a butterfly.
 A caterpillar crawls on leaves and becomes a butterfly.
 
-[user]What is a caterpillar for?
+[user]What does a caterpillar give?
 [Ninereeds]This is a caterpillar.
 A caterpillar is for eating leaves.
 A caterpillar is for growing.

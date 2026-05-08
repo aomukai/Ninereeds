@@ -7,7 +7,7 @@ Zip is metal or plastic.
 Zip runs up and down.
 Zip is two strips of teeth and a slider.
 
-[user]Where is zip found?
+[user]Where can you find zip?
 [Ninereeds]This is a zip.
 Zip is on a coat.
 Zip is on a bag.
@@ -25,7 +25,7 @@ Zip opens when pulled down.
 Zip holds two sides tight.
 Zip closes an opening and locks teeth together.
 
-[user]What is zip for?
+[user]What does zip give?
 [Ninereeds]This is a zip.
 Zip is for closing.
 Zip is for keeping warm.

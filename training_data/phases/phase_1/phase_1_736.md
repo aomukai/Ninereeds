@@ -7,7 +7,7 @@ An orchid has a long stem.
 An orchid grows in a pot.
 An orchid is a colorful flower with a long stem.
 
-[user]Where is an orchid?
+[user]Where can you find an orchid?
 [Ninereeds]This is an orchid.
 An orchid is in a pot.
 An orchid is in a greenhouse.
@@ -25,7 +25,7 @@ An orchid attracts bees with color.
 An orchid makes a room look pretty.
 An orchid is a flower that blooms and makes a room pretty.
 
-[user]What is an orchid for?
+[user]What does an orchid give?
 [Ninereeds]This is an orchid.
 An orchid is for decoration.
 An orchid is for looking at.

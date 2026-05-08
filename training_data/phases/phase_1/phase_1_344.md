@@ -1,13 +1,13 @@
 [user]What does a coach look like?
 [Ninereeds]This is a coach.
-A coach is a cart with four wheels and a seat.
+A coach is a horse-drawn cart with four wheels and a seat.
 A coach is pulled by a horse.
 A coach carries people.
 A coach is a horse cart.
 A coach has a seat for a person.
 A coach is a horse-drawn cart and a passenger vehicle.
 
-[user]Where is a coach?
+[user]Where can you find a coach?
 [Ninereeds]This is a coach.
 A coach is on a road near a house.
 A coach is on a track.
@@ -25,7 +25,7 @@ A coach bumps on a road.
 A coach stops at a house.
 A coach is a passenger carrier and a road traveler.
 
-[user]What is a coach used for?
+[user]What does a coach give?
 [Ninereeds]This is a coach.
 A coach takes people on a trip.
 A coach moves goods to a market.

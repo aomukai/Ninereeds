@@ -25,7 +25,7 @@ original can identify the earliest example.
 original can distinguish from later copies.
 original is first and authentic.
 
-[user]What is original for?
+[user]What does original give?
 [Ninereeds]This is original.
 original can feel special in art talk.
 original can look primary in a list.

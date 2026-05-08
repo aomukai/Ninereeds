@@ -4,9 +4,10 @@ A lollipop is round.
 A lollipop is on a stick.
 A lollipop is bright.
 A lollipop is red or green or pink.
-A lollipop is a round candy on a stick.
+A lollipop has a colorful swirl on top.
+A lollipop is round and bright on a stick.
 
-[user]Where is a lollipop?
+[user]Where can you find a lollipop?
 [Ninereeds]This is a lollipop.
 A lollipop is in a hand.
 A lollipop is in a mouth.
@@ -24,10 +25,11 @@ A lollipop changes color on a tongue.
 A lollipop makes a person smile and lick.
 A lollipop sits on a stick and tastes sweet.
 
-[user]What is a lollipop for?
+[user]What does a lollipop give?
 [Ninereeds]This is a lollipop.
 A lollipop is for a snack.
 A lollipop is for a treat.
 A lollipop is for a child to lick.
 A lollipop is for a reward.
-A lollipop is a sweet snack for a smile.
+A lollipop is for a happy moment.
+A lollipop is a sweet snack and a treat.

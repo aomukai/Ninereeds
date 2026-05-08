@@ -22,7 +22,7 @@ Preparing brings clear order.
 Preparing brings strong follow-through.
 Preparing brings readiness and order.
 
-[user]What is preparing for?
+[user]What does preparing give?
 [Ninereeds]Preparing is for getting a task ready.
 Preparing is for helping a plan start.
 Preparing is for placing tools in order.

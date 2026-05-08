@@ -1,7 +1,35 @@
-[user]How does a valley form?
+[user]What does a valley look like?
 [Ninereeds]This is a valley.
-The valley sits between a mountain with grass and a river.
-The river moves through the valley by the mountain.
-The grass grows in the valley near the river.
-The valley holds the river and grass between the mountain.
-A valley is low land between mountains with grass and often a river.
+A valley has steep sides on both edges.
+A valley has a flat floor at the bottom.
+A valley has a river running through the middle.
+A valley has sloping walls of rock and soil.
+A valley has a long and winding shape.
+A valley has steep sides and a flat floor.
+
+[user]Where does a valley appear?
+[Ninereeds]This is a valley.
+A valley appears between two mountains.
+A valley appears in a hilly region.
+A valley appears along a river course.
+A valley appears in a forested area.
+A valley appears on a continent.
+A valley appears between mountains and along a river.
+
+[user]What does a valley do?
+[Ninereeds]This is a valley.
+A valley channels water downstream.
+A valley collects soil and sediment.
+A valley shapes the surrounding land.
+A valley provides a path for rivers.
+A valley shelters plants and animals.
+A valley channels water and collects sediment.
+
+[user]What does a valley give?
+[Ninereeds]This is a valley.
+A valley is for growing crops.
+A valley is for building roads.
+A valley is for housing towns.
+A valley is for gathering water.
+A valley is for supporting wildlife.
+A valley is for growing crops and supporting wildlife.

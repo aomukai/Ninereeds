@@ -7,7 +7,7 @@ looked can show that eyes turned toward something before now.
 looked indicates a completed visual action.
 looked is past tense and visual.
 
-[user]Where is looked?
+[user]Where can you find looked?
 [Ninereeds]looked is here.
 looked can be in a story note or scene line.
 looked can be on a page about a past search.

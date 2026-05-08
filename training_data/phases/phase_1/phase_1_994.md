@@ -7,7 +7,7 @@ Sound is loud or soft.
 Sound is fast.
 Sound is a noise that travels in the air.
 
-[user]Where is sound found?
+[user]Where can you find sound?
 [Ninereeds]This is sound.
 Sound is in a room.
 Sound is in a street.
@@ -25,7 +25,7 @@ Sound carries information.
 Sound is a signal.
 Sound travels to an ear and fills a space.
 
-[user]What is sound for?
+[user]What does sound give?
 [Ninereeds]This is sound.
 Sound is for hearing.
 Sound is for talking.

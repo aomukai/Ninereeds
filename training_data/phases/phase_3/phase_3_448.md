@@ -5,7 +5,7 @@ A pinch is a tight grip.
 A pinch is a narrow hold.
 A pinch is a short press.
 A pinch is a tiny amount.
-A pinch is a small squeeze or tiny amount.
+A pinch is a small squeeze and tiny amount.
 
 [user]Where does a pinch happen?
 [Ninereeds]This is a pinch.
@@ -23,13 +23,13 @@ A pinch gives a quick sting.
 A pinch wakes a person up.
 A pinch stops a bad habit.
 A pinch tests a fruit for ripeness.
-A pinch causes small pain or quick sting.
+A pinch causes small pain and quick sting.
 
-[user]What is a pinch used for?
+[user]What does a pinch give?
 [Ninereeds]This is a pinch.
 A pinch seasons food with salt.
 A pinch measures a spice amount.
 A pinch grabs a small object.
 A pinch closes a bag shut.
 A pinch takes a tiny piece.
-A pinch seasons food or grabs small objects.
+A pinch seasons food and grabs small objects.

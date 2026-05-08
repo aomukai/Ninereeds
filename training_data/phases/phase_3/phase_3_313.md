@@ -14,7 +14,7 @@ A cut appears on paper.
 A cut appears on a board.
 A cut appears on fabric.
 A cut appears on a loaf.
-A cut appears on a finger or on paper.
+A cut appears on a finger and on paper.
 
 [user]What does a cut do?
 [Ninereeds]This is a cut.
@@ -25,7 +25,7 @@ A cut shortens a thing.
 A cut removes a section.
 A cut separates a thing into pieces.
 
-[user]What is a cut for?
+[user]What does a cut give?
 [Ninereeds]This is a cut.
 A cut is for dividing.
 A cut is for shaping.

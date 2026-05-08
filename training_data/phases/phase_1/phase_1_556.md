@@ -7,7 +7,7 @@ Heat can rise up.
 Heat moves through air.
 Heat is energy and warmth.
 
-[user]Where is heat?
+[user]Where can you find heat?
 [Ninereeds]This is heat.
 Heat is in the sun.
 Heat is in a fire.
@@ -25,7 +25,7 @@ Heat dries things.
 Heat cooks food.
 Heat is hot and active.
 
-[user]What is heat used for?
+[user]What does heat give?
 [Ninereeds]This is heat.
 Heat cooks food and warms a room.
 Heat dries wet things.

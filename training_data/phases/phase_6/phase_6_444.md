@@ -22,7 +22,7 @@ Including brings greater coverage.
 Including brings a sense of welcome.
 Including brings addition and range.
 
-[user]What is including for?
+[user]What does including give?
 [Ninereeds]Including is for adding parts.
 Including is for widening a group.
 Including is for making a list complete.

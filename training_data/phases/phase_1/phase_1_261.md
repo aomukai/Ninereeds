@@ -7,7 +7,7 @@ Broth has fat on top.
 Broth is thin.
 Broth is golden and thin.
 
-[user]Where is broth?
+[user]Where can you find broth?
 [Ninereeds]This is broth.
 Broth is in a saucepan.
 Broth is on a burner.
@@ -25,7 +25,7 @@ Broth stains a cloth.
 Broth freezes in cold.
 Broth bubbles on heat and freezes in cold.
 
-[user]What is broth for?
+[user]What does broth give?
 [Ninereeds]This is broth.
 Broth is for stew.
 Broth is for gravy.

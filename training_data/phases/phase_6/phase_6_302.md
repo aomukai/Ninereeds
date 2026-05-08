@@ -1,35 +1,35 @@
 [user]What is take?
-[Ninereeds]take is here.
-take is to move a thing by hand.
-take is a small act of grasp.
-take is a short word for hold.
-take is a tool for work.
-take is an action for play.
-take is a verb and a noun.
+[Ninereeds]This is take.
+Take is to move a thing by hand.
+Take is a small act of grasp.
+Take is a short word for hold.
+Take is a tool for work.
+Take is an action for play.
+Take is a verb and a noun.
 
-[user]Where is take?
-[Ninereeds]take is here.
-take is near a hand or bag.
-take is on a shelf or table.
-take is in a home or shop.
-take is in work or play.
-take is in a small space.
-take is in a brief moment.
+[user]Where can you find take?
+[Ninereeds]This is take.
+Take is near a hand or bag.
+Take is on a shelf or table.
+Take is in a home or shop.
+Take is in work or play.
+Take is in a small space.
+Take is brief and momentary.
 
 [user]What does take do?
-[Ninereeds]take is here.
-take moves a thing from one place.
-take brings a thing along.
-take holds a thing firm.
-take shifts a thing near.
-take passes a thing to a hand.
-take makes a thing go with a person.
+[Ninereeds]This is take.
+Take moves a thing from one place.
+Take brings a thing along.
+Take holds a thing firm.
+Take shifts a thing near.
+Take passes a thing to a hand.
+Take makes a thing go and has a person.
 
 [user]What is take like?
-[Ninereeds]take is here.
-take looks quick in a small act.
-take feels firm in a hand.
-take seems clear in a short word.
-take sounds fast in a command.
-take acts light in a grasp.
-take is simple and quick.
+[Ninereeds]This is take.
+Take looks quick in a small act.
+Take feels firm in a hand.
+Take seems clear in a short word.
+Take sounds fast in a command.
+Take acts light in a grasp.
+Take is simple and quick.

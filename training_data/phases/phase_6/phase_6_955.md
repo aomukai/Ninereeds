@@ -25,7 +25,7 @@ Disgust makes one sick.
 Disgust changes one's mind.
 Disgust is a feeling that makes one avoid harm.
 
-[user]What is disgust for?
+[user]What does disgust give?
 [Ninereeds]This is disgust.
 Disgust is for protection.
 Disgust is for good health.

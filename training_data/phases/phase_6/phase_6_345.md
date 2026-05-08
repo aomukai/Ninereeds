@@ -5,7 +5,7 @@ value can be on a price tag or chart.
 value can be in math or trade.
 value is the worth of a thing.
 
-[user]Where is value?
+[user]Where can you find value?
 [Ninereeds]value is here.
 value can be on a price tag or chart.
 value can be in math or trade.

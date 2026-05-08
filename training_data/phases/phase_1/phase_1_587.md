@@ -14,7 +14,7 @@ Jeans are in a drawer.
 Jeans are on a shelf in a closet.
 Jeans are in a laundry basket.
 Jeans are on a store rack.
-Jeans are in a drawer or on a closet shelf.
+Jeans are in a drawer and on a closet shelf.
 
 [user]What do jeans do?
 [Ninereeds]These are jeans.

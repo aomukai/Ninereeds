@@ -5,7 +5,7 @@ Measurement is finding amount.
 Measurement is finding quantity.
 Measurement is using a tool.
 Measurement is assigning a value.
-Measurement is finding size or amount.
+Measurement is finding size and amount.
 
 [user]Where does measurement appear?
 [Ninereeds]This is a measurement.
@@ -25,7 +25,7 @@ Measurement provides facts.
 Measurement ensures accuracy.
 Measurement makes things precise and fit.
 
-[user]What is measurement for?
+[user]What does measurement give?
 [Ninereeds]This is a measurement.
 Measurement is for making things exact.
 Measurement is for building safely.

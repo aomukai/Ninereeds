@@ -5,7 +5,7 @@ welcome can be at a door or gate.
 welcome can be in a hall or home.
 welcome is a kind sign or word for a new guest.
 
-[user]Where is welcome?
+[user]Where can you find welcome?
 [Ninereeds]welcome is here.
 welcome can be at a door or gate.
 welcome can be in a hall or home.

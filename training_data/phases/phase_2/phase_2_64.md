@@ -6,7 +6,7 @@ The treetop has branches.
 The treetop is green.
 A treetop is the top of a tree.
 
-[user]Where is a treetop?
+[user]Where can you find a treetop?
 [Ninereeds]This is a treetop.
 The treetop is above the ground.
 The treetop is in the sky.

@@ -25,7 +25,7 @@ Gulp empties a glass quick.
 Gulp fills a belly in a hurry.
 Gulp is a fast drink and a quick empty.
 
-[user]What is gulp for?
+[user]What does gulp give?
 [Ninereeds]This is gulp.
 Gulp fills a belly with water.
 Gulp cools a throat after a run.

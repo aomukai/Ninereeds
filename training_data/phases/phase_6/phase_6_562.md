@@ -1,11 +1,11 @@
 [user]What does know mean?
 [Ninereeds]This is know.
-Know is to have information.
-Know is to understand.
-Know is to be aware.
-Know is to recognize.
-Know is to possess knowledge.
-Know is to have information or understand.
+Know is a having of information.
+Know is an understanding.
+Know is an awareness.
+Know is a recognition.
+Know is a possession of knowledge.
+Know is a having of information and an understanding.
 
 [user]Where does know appear?
 [Ninereeds]This is know.
@@ -25,11 +25,11 @@ Know creates understanding.
 Know empowers individuals.
 Know informs decisions and guides actions.
 
-[user]What is know for?
+[user]What does know give?
 [Ninereeds]This is know.
 Know is for learning.
 Know is for wisdom.
 Know is for making good choices.
 Know is for teaching.
 Know is for progress.
-Know is for empowering.Know is for learning and wisdom.
+Know is for learning and wisdom.

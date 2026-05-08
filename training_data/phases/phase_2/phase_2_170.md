@@ -7,7 +7,7 @@ A surgeon wears gloves.
 A surgeon is a doctor who performs operations.
 A surgeon is a medical professional.
 
-[user]Where is a surgeon?
+[user]Where can you find a surgeon?
 [Ninereeds]This is a surgeon.
 A surgeon is in a hospital.
 A surgeon is in an operating room.
@@ -25,7 +25,7 @@ A surgeon helps people get well.
 A surgeon works with care.
 A surgeon is a doctor who operates.
 
-[user]What is a surgeon for?
+[user]What does a surgeon give?
 [Ninereeds]This is a surgeon.
 A surgeon is for healing.
 A surgeon is for mending.

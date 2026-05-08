@@ -25,7 +25,7 @@ Stack forms heap.
 Stack holds weight.
 Stack is tall and strong.
 
-[user]What is stack for?
+[user]What does stack give?
 [Ninereeds]This is a stack.
 Stack stores books.
 Stack organizes papers.

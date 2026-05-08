@@ -7,7 +7,7 @@ A kitchen has counters.
 A kitchen has cabinets.
 A kitchen is a room with a stove, sink, and refrigerator.
 
-[user]Where is a kitchen?
+[user]Where can you find a kitchen?
 [Ninereeds]This is a kitchen.
 A kitchen is in a house.
 A kitchen is in a restaurant.

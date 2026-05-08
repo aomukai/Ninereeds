@@ -5,7 +5,7 @@ spell is a tool for reading and writing.
 spell is a skill taught in schools.
 spell is a way to communicate ideas.
 
-[user]Where is spell?
+[user]Where can you find spell?
 [Ninereeds]spell is here.
 spell is on a page in a book.
 spell is in a classroom lesson.

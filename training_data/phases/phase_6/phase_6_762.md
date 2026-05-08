@@ -7,7 +7,7 @@ A resource is a means to an end.
 A resource is a stock of materials.
 A resource is a supply and a source of help.
 
-[user]Where is a resource found?
+[user]Where can you find a resource?
 [Ninereeds]This is a resource.
 A resource is found in nature.
 A resource is found in books.
@@ -25,7 +25,7 @@ A resource solves problems.
 A resource fulfills a need.
 A resource provides support and enables action.
 
-[user]What is a resource for?
+[user]What does a resource give?
 [Ninereeds]This is a resource.
 A resource is for use.
 A resource is for benefit.

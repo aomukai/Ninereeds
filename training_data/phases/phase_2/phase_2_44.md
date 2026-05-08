@@ -6,7 +6,7 @@ The steamboat has a paddle wheel.
 The steamboat is made of metal and wood.
 A steamboat is a boat powered by steam.
 
-[user]Where is a steamboat?
+[user]Where can you find a steamboat?
 [Ninereeds]This is a steamboat.
 The steamboat is on a river.
 The steamboat is near a dock.

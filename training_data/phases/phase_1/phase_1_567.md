@@ -7,7 +7,7 @@ A holder is plastic or metal.
 A holder is for one thing.
 A holder is small and for one thing.
 
-[user]Where is a holder?
+[user]Where can you find a holder?
 [Ninereeds]This is a holder.
 A holder is on a desk.
 A holder is on a wall.
@@ -25,7 +25,7 @@ A holder keeps a thing still and straight.
 A holder stops a thing from rolling.
 A holder keeps a thing in place and holds a pen.
 
-[user]What is a holder used for?
+[user]What does a holder give?
 [Ninereeds]This is a holder.
 A holder stores a tool.
 A holder organizes a desk or a wall.

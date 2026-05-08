@@ -25,7 +25,7 @@ Tear cuts in half.
 Tear separates piece.
 Tear breaks and splits apart.
 
-[user]What is tear for?
+[user]What does tear give?
 [Ninereeds]This is tear.
 Tear opens package.
 Tear rips paper.

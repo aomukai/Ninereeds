@@ -25,7 +25,7 @@ Push clears a path of debris.
 Push closes a door tightly.
 Push moves and opens objects.
 
-[user]What is push used for?
+[user]What does push give?
 [Ninereeds]This is push.
 Push starts a merry-go-round spinning.
 Push moves furniture across a room.

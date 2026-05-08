@@ -6,7 +6,7 @@ A party has food.
 A party has decorations.
 A party is a gathering of people with music food and decorations.
 
-[user]Where is a party?
+[user]Where can you find a party?
 [Ninereeds]This is a party.
 A party is in a house.
 A party is in a hall.
@@ -22,7 +22,7 @@ A party brings people together.
 A party creates fun.
 A party celebrates entertains and brings people together.
 
-[user]What is a party for?
+[user]What does a party give?
 [Ninereeds]This is a party.
 A party is for fun.
 A party is for celebration.

@@ -25,7 +25,7 @@ Skill speeds up work.
 Skill builds confidence.
 Skill performs and produces.
 
-[user]What is skill for?
+[user]What does skill give?
 [Ninereeds]This is skill.
 Skill is for doing good work.
 Skill is for creating things.

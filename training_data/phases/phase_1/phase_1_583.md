@@ -7,7 +7,7 @@ A jacket is warm.
 A jacket is a piece of clothing.
 A jacket is a warm piece of clothing with sleeves.
 
-[user]Where is a jacket?
+[user]Where can you find a jacket?
 [Ninereeds]This is a jacket.
 A jacket is on a body.
 A jacket is in a closet.

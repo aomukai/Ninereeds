@@ -7,7 +7,7 @@ Rust is flaky.
 Rust is a chemical change.
 Rust is a red-brown coating on metal.
 
-[user]Where is rust?
+[user]Where can you find rust?
 [Ninereeds]This is rust.
 Rust is on a nail.
 Rust is on a car.
@@ -25,7 +25,7 @@ Rust eats away at.
 Rust makes a surface rough.
 Rust weakens metal and eats away at it.
 
-[user]What is rust for?
+[user]What does rust give?
 [Ninereeds]This is rust.
 Rust is for breaking down metal.
 Rust is for showing age.

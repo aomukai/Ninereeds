@@ -7,7 +7,7 @@ An ear has folds on the side.
 An ear is on the side of the head.
 An ear is curved and soft.
 
-[user]Where is an ear?
+[user]Where can you find an ear?
 [Ninereeds]This is an ear.
 An ear is on the head.
 An ear is on the left side.
@@ -25,7 +25,7 @@ An ear picks up voices.
 An ear helps with balance.
 An ear hears sound and helps with balance.
 
-[user]What is an ear for?
+[user]What does an ear give?
 [Ninereeds]This is an ear.
 An ear is for hearing.
 An ear is for listening.

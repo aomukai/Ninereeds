@@ -7,7 +7,7 @@ A neck has skin on the surface.
 A neck moves from side to side.
 A neck is a part of the body and a tube of flesh.
 
-[user]Where is a neck?
+[user]Where can you find a neck?
 [Ninereeds]This is a neck.
 A neck is between a head and a body.
 A neck is below a chin.
@@ -25,7 +25,7 @@ A neck lets a head look around.
 A neck keeps a head in place.
 A neck is a head turner and a head holder.
 
-[user]What is a neck for?
+[user]What does a neck give?
 [Ninereeds]This is a neck.
 A neck supports the head.
 A neck lets a head turn in all directions.

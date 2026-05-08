@@ -7,7 +7,7 @@ A hand has knuckles on the back.
 A hand has nails on the tips.
 A hand is five-fingered and palmed.
 
-[user]Where is a hand?
+[user]Where can you find a hand?
 [Ninereeds]This is a hand.
 A hand is at the end of an arm.
 A hand is on a wrist.
@@ -25,7 +25,7 @@ A hand picks up a toy.
 A hand writes with a pen.
 A hand is grasping and waving.
 
-[user]What is a hand for?
+[user]What does a hand give?
 [Ninereeds]This is a hand.
 A hand is for holding.
 A hand is for waving.

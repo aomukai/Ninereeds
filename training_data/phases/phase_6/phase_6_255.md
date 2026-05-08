@@ -5,7 +5,7 @@ spray can come from a bottle.
 spray can make leaves wet.
 spray covers a surface with fine mist.
 
-[user]Where is spray?
+[user]Where can you find spray?
 [Ninereeds]spray is here.
 spray can be in the air.
 spray can be on glass.

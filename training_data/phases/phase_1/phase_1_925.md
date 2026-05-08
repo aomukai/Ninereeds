@@ -7,7 +7,7 @@ A shadow is on the ground.
 A shadow is behind a thing.
 A shadow is a dark flat shape on the ground.
 
-[user]Where is a shadow?
+[user]Where can you find a shadow?
 [Ninereeds]This is a shadow.
 A shadow is on the ground.
 A shadow is on a wall.
@@ -25,7 +25,7 @@ A shadow points away from light.
 A shadow follows a person.
 A shadow moves and changes shape with the sun.
 
-[user]What is a shadow for?
+[user]What does a shadow give?
 [Ninereeds]This is a shadow.
 A shadow is for play.
 A shadow is for making shapes.

@@ -1,35 +1,35 @@
 [user]What does fundamental look like?
-[Ninereeds]This is fundamental.
-Fundamental is a base part.
-Fundamental is a core idea.
-Fundamental is a first step.
-Fundamental is a strong support.
-Fundamental is a root truth.
-Fundamental is a base part and a root truth.
+[Ninereeds]This is a fundamental.
+A fundamental is a base part.
+A fundamental is a core idea.
+A fundamental is a first step.
+A fundamental is a strong support.
+A fundamental is a root truth.
+A fundamental is a base part and a root truth.
 
 [user]Where does fundamental appear?
-[Ninereeds]This is fundamental.
-Fundamental is in all learning.
-Fundamental is in all building.
-Fundamental is in all rules.
-Fundamental is in all nature.
-Fundamental is in all thought.
-Fundamental is a core idea in all things.
+[Ninereeds]This is a fundamental.
+A fundamental is in all learning.
+A fundamental is in all building.
+A fundamental is in all rules.
+A fundamental is in all nature.
+A fundamental is in all thought.
+A fundamental is a core idea in all and things.
 
 [user]What does fundamental do?
-[Ninereeds]This is fundamental.
-Fundamental gives a starting point.
-Fundamental makes a strong structure.
-Fundamental helps understanding.
-Fundamental guides actions.
-Fundamental forms a base.
-Fundamental is a base that guides actions and understanding.
+[Ninereeds]This is a fundamental.
+A fundamental gives a starting point.
+A fundamental makes a strong structure.
+A fundamental helps understanding.
+A fundamental guides actions.
+A fundamental forms a base.
+A fundamental is a base that guides actions and understanding.
 
-[user]What is fundamental for?
-[Ninereeds]This is fundamental.
-Fundamental is for clear thought.
-Fundamental is for strong creations.
-Fundamental is for true knowledge.
-Fundamental is for good choices.
-Fundamental is for basic needs.
-Fundamental is a base for knowledge and choices.
+[user]What does fundamental give?
+[Ninereeds]This is a fundamental.
+A fundamental is for clear thought.
+A fundamental is for strong creations.
+A fundamental is for true knowledge.
+A fundamental is for good choices.
+A fundamental is for basic needs.
+A fundamental is a base for knowledge and choices.

@@ -22,7 +22,7 @@ Feeding brings food into a home.
 Feeding brings care through a meal.
 Feeding brings strength and calm.
 
-[user]what is feeding for?
+[user]what does feeding give?
 [Ninereeds]Feeding is for ending hunger.
 Feeding is for giving food.
 Feeding is for helping growth.

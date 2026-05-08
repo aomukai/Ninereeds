@@ -7,7 +7,7 @@ A balloon is bright red or blue.
 A balloon is light and floaty.
 A balloon is a round stretchy bag of air.
 
-[user]Where is a balloon?
+[user]Where can you find a balloon?
 [Ninereeds]This is a balloon.
 A balloon is at a party.
 A balloon is tied to a chair.
@@ -25,7 +25,7 @@ A balloon sways on a string.
 A balloon drifts to the floor.
 A balloon floats up and bobs in the wind.
 
-[user]What is a balloon for?
+[user]What does a balloon give?
 [Ninereeds]This is a balloon.
 A balloon decorates a party room.
 A balloon makes people smile.

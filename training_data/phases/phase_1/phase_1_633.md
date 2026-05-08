@@ -6,7 +6,7 @@ A lion has a mane.
 A lion has a tail.
 A lion is a big yellow cat with a mane.
 
-[user]Where is a lion?
+[user]Where can you find a lion?
 [Ninereeds]This is a lion.
 A lion is in the grass.
 A lion is in a zoo.
@@ -22,7 +22,7 @@ A lion hunts for food.
 A lion rests in the shade.
 A lion walks and roars and hunts in the grass.
 
-[user]What is a lion for?
+[user]What does a lion give?
 [Ninereeds]This is a lion.
 A lion is a part of the wild.
 A lion hunts weak animals.

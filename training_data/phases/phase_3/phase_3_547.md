@@ -25,7 +25,7 @@ A tiptoe sneaks past.
 A tiptoe stays quiet.
 A tiptoe is quiet and slow.
 
-[user]What is a tiptoe for?
+[user]What does a tiptoe give?
 [Ninereeds]This is a tiptoe.
 A tiptoe is for quiet.
 A tiptoe is for sneaking.

@@ -7,7 +7,7 @@ Skate is a move on thin metal.
 Skate is a dance on a frozen lake.
 Skate is a glide on ice with a blade.
 
-[user]Where is skate?
+[user]Where can you find skate?
 [Ninereeds]This is skate.
 Skate is on a rink.
 Skate is in a park.
@@ -25,7 +25,7 @@ Skate jumps off the surface.
 Skate turns on a spot.
 Skate glides across ice on a blade.
 
-[user]What is skate for?
+[user]What does skate give?
 [Ninereeds]This is skate.
 Skate is for sport.
 Skate is for play on ice.

@@ -25,7 +25,7 @@ Beat sets the tempo.
 Beat gives structure to sound.
 Beat is a pulse that guides action.
 
-[user]What is beat for?
+[user]What does beat give?
 [Ninereeds]This is beat.
 Beat is for music.
 Beat is for timing.

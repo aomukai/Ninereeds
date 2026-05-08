@@ -7,7 +7,7 @@ Oil is slippery.
 Oil sits on top of water.
 Oil is thick and yellow.
 
-[user]Where is oil?
+[user]Where can you find oil?
 [Ninereeds]This is oil.
 Oil is in a bottle.
 Oil is in a pan.
@@ -18,14 +18,14 @@ Oil is in bottles and in pans.
 
 [user]What does oil do?
 [Ninereeds]This is oil.
-Oil makes food not stick.
+Oil makes food stick.
 Oil fries food in a pan.
 Oil makes salad taste good.
 Oil makes a machine run smooth.
 Oil floats on top of water.
 Oil is non-stick and smooth.
 
-[user]What is oil for?
+[user]What does oil give?
 [Ninereeds]This is oil.
 Oil is for cooking.
 Oil is for frying.

@@ -1,8 +1,35 @@
-[user]What does hatch mean?
+[user]What does hatch look like?
 [Ninereeds]This is hatch.
-Hatch is to crack an egg shell.
-Hatch is to poke through the shell.
-Hatch is to push the shell apart.
-Hatch is to break out of an egg.
-Hatch is to emerge from an egg.
-Hatch is to crack an egg shell and to emerge from an egg.
+Hatch is a crack in a shell.
+Hatch is a breaking open.
+Hatch is a small opening.
+Hatch is a chick emerging.
+Hatch is a new beginning.
+Hatch is a crack in a shell and a new beginning.
+
+[user]Where does hatch appear?
+[Ninereeds]This is hatch.
+Hatch happens in a nest.
+Hatch happens under a mother.
+Hatch happens in an incubator.
+Hatch happens in warm places.
+Hatch happens at the right time.
+Hatch happens in a nest and under a mother.
+
+[user]What does hatch do?
+[Ninereeds]This is hatch.
+Hatch cracks the shell open.
+Hatch lets a chick out.
+Hatch takes time and effort.
+Hatch follows weeks of warmth.
+Hatch starts a new life.
+Hatch cracks the shell and starts a new life.
+
+[user]What does hatch give?
+[Ninereeds]This is hatch.
+Hatch gives a new beginning.
+Hatch gives continuation of the species.
+Hatch gives renewal.
+Hatch gives growth.
+Hatch gives replenished populations.
+Hatch gives a new beginning and renewal.

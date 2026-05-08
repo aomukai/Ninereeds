@@ -7,7 +7,7 @@ A patient is a person being treated.
 A patient is a person getting care.
 A patient is a person receiving medical care.
 
-[user]Where is a patient found?
+[user]Where can you find a patient?
 [Ninereeds]This is a patient.
 A patient is in a hospital room.
 A patient is in a doctor's office.
@@ -25,7 +25,7 @@ A patient gets better.
 A patient follows advice.
 A patient receives care to get better.
 
-[user]What is a patient for?
+[user]What does a patient give?
 [Ninereeds]This is a patient.
 A patient is for healing.
 A patient is for recovery.

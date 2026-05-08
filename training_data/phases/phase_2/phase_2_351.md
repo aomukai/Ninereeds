@@ -7,7 +7,7 @@ Winter has short days.
 Winter is the cold season.
 Winter is the cold season with snow and ice.
 
-[user]Where is winter?
+[user]Where can you find winter?
 [Ninereeds]This is winter.
 Winter is in cold lands.
 Winter is on mountains.

@@ -5,7 +5,7 @@ shatter can be on a floor.
 shatter can be in glass or ice.
 shatter means an act of breaking into many small pieces.
 
-[user]Where is shatter?
+[user]Where can you find shatter?
 [Ninereeds]shatter is here.
 shatter can be on a floor.
 shatter can be in glass or ice.

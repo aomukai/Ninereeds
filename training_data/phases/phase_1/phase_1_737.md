@@ -7,7 +7,7 @@ An organ has pedals on the floor.
 An organ is large and tall.
 An organ is a large musical instrument with pipes and keys.
 
-[user]Where is an organ?
+[user]Where can you find an organ?
 [Ninereeds]This is an organ.
 An organ is in a church.
 An organ is in a concert hall.
@@ -25,7 +25,7 @@ An organ plays high notes.
 An organ fills a room with sound.
 An organ is a musical instrument that fills a room with sound.
 
-[user]What is an organ for?
+[user]What does an organ give?
 [Ninereeds]This is an organ.
 An organ is for music.
 An organ is for playing songs.

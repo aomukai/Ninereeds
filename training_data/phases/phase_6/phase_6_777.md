@@ -7,7 +7,7 @@ Justice is a balance.
 Justice is a right.
 Justice is fairness and righteousness.
 
-[user]Where is justice found?
+[user]Where can you find justice?
 [Ninereeds]This is justice.
 Justice is found in courts.
 Justice is found in rules.
@@ -25,7 +25,7 @@ Justice gives what is due.
 Justice corrects wrongs.
 Justice punishes wrong and protects rights.
 
-[user]What is justice for?
+[user]What does justice give?
 [Ninereeds]This is justice.
 Justice is for fairness.
 Justice is for peace.

@@ -5,7 +5,7 @@ Randomness is unpredictability.
 Randomness is chance.
 Randomness is disorder.
 Randomness is arbitrary sequence.
-Randomness is lack of pattern or predictability.
+Randomness is lack of pattern and predictability.
 
 [user]Where does randomness appear?
 [Ninereeds]This is randomness.
@@ -25,7 +25,7 @@ Randomness allows for new possibilities.
 Randomness can be a source of creativity.
 Randomness creates variety and prevents bias.
 
-[user]What is randomness for?
+[user]What does randomness give?
 [Ninereeds]This is randomness.
 Randomness is for fair selection.
 Randomness is for scientific modeling.

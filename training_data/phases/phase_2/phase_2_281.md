@@ -25,7 +25,7 @@ A mommy sings to a baby.
 A mommy protects a baby.
 A mommy is caring and protective.
 
-[user]What is a mommy for?
+[user]What does a mommy give?
 [Ninereeds]This is a mommy.
 A mommy is for nurturing.
 A mommy is for loving.

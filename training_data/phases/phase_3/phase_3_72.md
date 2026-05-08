@@ -22,7 +22,7 @@ Crumpling brings smaller size in a flat thing.
 Crumpling brings a broken smooth form.
 Crumpling brings wrinkles and roughness.
 
-[user]What is crumpling for?
+[user]What does crumpling give?
 [Ninereeds]Crumpling is for making a rough fold.
 Crumpling is for shrinking a flat sheet.
 Crumpling is for squeezing waste into a ball.

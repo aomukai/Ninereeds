@@ -7,7 +7,7 @@ Seaweed is leafy.
 Seaweed is slimy.
 Seaweed is long green and wet and slimy.
 
-[user]Where is seaweed?
+[user]Where can you find seaweed?
 [Ninereeds]This is seaweed.
 Seaweed is in the ocean.
 Seaweed is on the beach.
@@ -25,7 +25,7 @@ Seaweed makes oxygen.
 Seaweed covers the rocks.
 Seaweed grows in the water and makes oxygen.
 
-[user]What is seaweed for?
+[user]What does seaweed give?
 [Ninereeds]This is seaweed.
 Seaweed is for food.
 Seaweed is for animals in the ocean.

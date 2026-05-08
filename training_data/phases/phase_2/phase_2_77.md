@@ -25,7 +25,7 @@ Pavement makes travel easy.
 Pavement supports traffic.
 Pavement supports vehicles and people.
 
-[user]What is pavement for?
+[user]What does pavement give?
 [Ninereeds]This is pavement.
 Pavement is for walking.
 Pavement is for driving.

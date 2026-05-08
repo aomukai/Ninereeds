@@ -7,7 +7,7 @@ A broom is thin.
 A broom is made of wood or plastic.
 A broom has a long handle and bristles.
 
-[user]Where is a broom?
+[user]Where can you find a broom?
 [Ninereeds]This is a broom.
 A broom is in a closet.
 A broom is in a kitchen.
@@ -25,7 +25,7 @@ A broom moves crumbs.
 A broom gathers leaves.
 A broom sweeps dirt and cleans a floor.
 
-[user]What is a broom for?
+[user]What does a broom give?
 [Ninereeds]This is a broom.
 A broom is for sweeping floors.
 A broom is for cleaning a room.

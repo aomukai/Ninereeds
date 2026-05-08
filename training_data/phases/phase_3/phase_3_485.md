@@ -7,7 +7,7 @@ Rot is a change in a leaf.
 Rot is a break in a log.
 Rot is a soft dark spot on a leaf.
 
-[user]Where is rot?
+[user]Where can you find rot?
 [Ninereeds]This is rot.
 Rot is in a log.
 Rot is on a leaf.
@@ -25,7 +25,7 @@ Rot makes a fruit fall.
 Rot spreads across a surface.
 Rot breaks down a leaf into soil.
 
-[user]What is rot for?
+[user]What does rot give?
 [Ninereeds]This is rot.
 Rot feeds the ground.
 Rot adds food to soil.

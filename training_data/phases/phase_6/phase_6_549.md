@@ -5,7 +5,7 @@ Trust is reliance.
 Trust is confidence.
 Trust is faith.
 Trust is a dependable relationship.
-Trust is firm belief or reliance.
+Trust is firm belief and reliance.
 
 [user]Where does trust appear?
 [Ninereeds]This is trust.
@@ -25,7 +25,7 @@ Trust simplifies interactions.
 Trust reduces uncertainty.
 Trust builds bonds and enables cooperation.
 
-[user]What is trust for?
+[user]What does trust give?
 [Ninereeds]This is trust.
 Trust is for strong relationships.
 Trust is for effective teamwork.

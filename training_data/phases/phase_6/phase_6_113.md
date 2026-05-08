@@ -5,7 +5,7 @@ pharmacist can know many drug name.
 pharmacist can help a sick person get medicine.
 pharmacist means a worker who gives medicine.
 
-[user]Where is pharmacist?
+[user]Where can you find pharmacist?
 [Ninereeds]pharmacist is here.
 pharmacist can be in a pharmacy.
 pharmacist can be by a medicine shelf.

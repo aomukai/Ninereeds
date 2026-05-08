@@ -7,7 +7,7 @@ Mix is a bowl of batter.
 Mix is a cup of flour and water.
 Mix is a blend and a stir.
 
-[user]Where is mix?
+[user]Where can you find mix?
 [Ninereeds]This is mix.
 Mix is in a bowl.
 Mix is on a spoon.
@@ -25,7 +25,7 @@ Mix makes a new color.
 Mix makes a batter smooth.
 Mix is a stirrer and a smoother.
 
-[user]What is mix for?
+[user]What does mix give?
 [Ninereeds]This is mix.
 Mix makes cake batter.
 Mix stirs paint colors.

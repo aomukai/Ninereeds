@@ -25,7 +25,7 @@ Hoot signals a mate from a branch.
 Hoot echoes through the quiet woods.
 Hoot is a territorial call and a mating signal.
 
-[user]What is hoot for?
+[user]What does hoot give?
 [Ninereeds]This is hoot.
 Hoot communicates with other owls.
 Hoot claims a territory in the woods.

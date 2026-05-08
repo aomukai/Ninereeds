@@ -7,7 +7,7 @@ A gnat has a small body.
 A gnat is tiny in the air.
 A gnat is a small fly and black.
 
-[user]Where is a gnat?
+[user]Where can you find a gnat?
 [Ninereeds]This is a gnat.
 A gnat is in the air.
 A gnat is near a pond.
@@ -25,7 +25,7 @@ A gnat lands on a leaf.
 A gnat rests on a blade of grass.
 A gnat is a flier and a hoverer.
 
-[user]What is a gnat for?
+[user]What does a gnat give?
 [Ninereeds]This is a gnat.
 A gnat is for a bird.
 A gnat is for a bat.

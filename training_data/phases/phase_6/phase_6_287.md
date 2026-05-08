@@ -25,7 +25,7 @@ Success brings confidence and satisfaction.
 Success validates effort and persistence.
 Success is rewarding and motivating.
 
-[user]What is success for?
+[user]What does success give?
 [Ninereeds]This is success.
 Success is for achieving goals and dreams.
 Success is for proving ability and effort.

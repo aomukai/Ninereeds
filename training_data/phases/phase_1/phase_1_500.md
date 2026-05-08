@@ -7,7 +7,7 @@ Fur can be brown.
 Fur can be white.
 Fur is soft and warm.
 
-[user]Where is fur found?
+[user]Where can you find fur?
 [Ninereeds]This is fur.
 Fur is on a cat.
 Fur is on a dog.
@@ -25,7 +25,7 @@ Fur grows back after a cut.
 Fur changes color in winter.
 Fur is warm and dry.
 
-[user]What is fur for?
+[user]What does fur give?
 [Ninereeds]This is fur.
 Fur is for warmth.
 Fur is for a coat.

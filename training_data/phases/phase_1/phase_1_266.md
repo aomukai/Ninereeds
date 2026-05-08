@@ -7,7 +7,7 @@ A bucket is open at the top.
 A bucket is made of plastic.
 A bucket is a round open container with a handle.
 
-[user]Where is a bucket?
+[user]Where can you find a bucket?
 [Ninereeds]This is a bucket.
 A bucket is on the ground.
 A bucket is in a shed.
@@ -25,7 +25,7 @@ A bucket stores tools.
 A bucket collects rain.
 A bucket holds water sand and toys.
 
-[user]What is a bucket for?
+[user]What does a bucket give?
 [Ninereeds]This is a bucket.
 A bucket is for carrying water.
 A bucket is for building sandcastles.

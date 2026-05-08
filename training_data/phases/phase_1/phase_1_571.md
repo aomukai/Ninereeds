@@ -7,7 +7,7 @@ A horn is white or black.
 A horn grows from the head.
 A horn is a hard point on an animal head.
 
-[user]Where is a horn?
+[user]Where can you find a horn?
 [Ninereeds]This is a horn.
 A horn is on top of a head.
 A horn is on a cow.
@@ -25,7 +25,7 @@ A horn scrapes bark and branches.
 A horn shows which animal is strong.
 A horn pushes at things and defends an animal.
 
-[user]What is a horn used for?
+[user]What does a horn give?
 [Ninereeds]This is a horn.
 A horn is for self defense.
 A horn is for fighting.

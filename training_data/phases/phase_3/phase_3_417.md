@@ -25,7 +25,7 @@ A leak wastes water.
 A leak grows over time.
 A leak drips water and makes a puddle.
 
-[user]What is a leak for?
+[user]What does a leak give?
 [Ninereeds]This is a leak.
 A leak warns of a hole.
 A leak signals a bad pipe.

@@ -22,7 +22,7 @@ Outliving brings a sense of survival.
 Outliving brings time beyond a limit.
 Outliving brings span and endurance.
 
-[user]What is outliving for?
+[user]What does outliving give?
 [Ninereeds]Outliving is for lasting beyond a limit.
 Outliving is for surviving a short age.
 Outliving is for staying present.

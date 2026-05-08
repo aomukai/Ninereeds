@@ -7,7 +7,7 @@ A cave is often cool.
 A cave is sometimes deep.
 A cave is a dark hole in the ground.
 
-[user]Where is a cave?
+[user]Where can you find a cave?
 [Ninereeds]This is a cave.
 A cave is in a mountain.
 A cave is underground.
@@ -25,7 +25,7 @@ A cave gives a home.
 A cave hides treasures.
 A cave provides shelter and protects animals.
 
-[user]What is a cave used for?
+[user]What does a cave give?
 [Ninereeds]This is a cave.
 A cave is for hiding.
 A cave is for exploring.

@@ -7,7 +7,7 @@ A peanut is oval.
 A peanut has a shell.
 A peanut is small and oval.
 
-[user]Where is a peanut?
+[user]Where can you find a peanut?
 [Ninereeds]This is a peanut.
 A peanut is a small brown thing in a shell.
 A peanut is small.
@@ -25,7 +25,7 @@ A peanut pops from a shell.
 A peanut stays in a bag.
 A peanut is edible and crunchy.
 
-[user]What is a peanut for?
+[user]What does a peanut give?
 [Ninereeds]This is a peanut.
 A peanut is a brown snack for eating.
 A peanut is brown.

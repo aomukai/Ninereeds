@@ -7,7 +7,7 @@ The bag is flat when empty.
 The bag is full when packed.
 The bag is soft and has an opening at the top.
 
-[user]Where is a bag?
+[user]Where can you find a bag?
 [Ninereeds]This is a bag.
 The bag is in the kitchen.
 The bag is on a shelf.
@@ -25,7 +25,7 @@ The bag is opened to take things out.
 The bag is carried by hand.
 The bag holds things inside and shapes around contents.
 
-[user]What is a bag used for?
+[user]What does a bag give?
 [Ninereeds]This is a bag.
 The bag is used for carrying flour or grain.
 The bag is used for storing dry food.

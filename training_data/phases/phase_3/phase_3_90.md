@@ -5,7 +5,7 @@ Try is to make an effort.
 Try is to test.
 Try is to endeavor.
 Try is to make an experiment.
-Try is to attempt or make an effort.
+Try is to attempt and make an effort.
 
 [user]Where does try appear?
 [Ninereeds]This is try.
@@ -25,7 +25,7 @@ Try overcomes obstacles.
 Try builds resilience.
 Try leads to progress and experience.
 
-[user]What is try for?
+[user]What does try give?
 [Ninereeds]This is try.
 Try is for achieving goals.
 Try is for gaining skills.

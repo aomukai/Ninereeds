@@ -7,7 +7,7 @@ A spaceship has wings.
 A spaceship has a tail.
 A spaceship is a craft with wings and a tail.
 
-[user]Where is a spaceship found?
+[user]Where can you find a spaceship?
 [Ninereeds]This is a spaceship.
 A spaceship is in space.
 A spaceship is on a launch pad.
@@ -25,7 +25,7 @@ A spaceship lands on a moon.
 A spaceship launches from earth.
 A spaceship flies in space and carries astronauts.
 
-[user]What is a spaceship for?
+[user]What does a spaceship give?
 [Ninereeds]This is a spaceship.
 A spaceship is for travel.
 A spaceship is for exploration.

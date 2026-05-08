@@ -7,7 +7,7 @@ A gauge has marks for levels.
 A gauge is on a panel or dash.
 A gauge is a round tool with a needle and numbers on the face.
 
-[user]Where is a gauge?
+[user]Where can you find a gauge?
 [Ninereeds]This is a gauge.
 A gauge is in a car.
 A gauge is on a dash.
@@ -25,7 +25,7 @@ A gauge shows a number on the face.
 A gauge moves the needle to show a level.
 A gauge measures pressure and temperature and shows the level.
 
-[user]What is a gauge for?
+[user]What does a gauge give?
 [Ninereeds]This is a gauge.
 A gauge is for a car.
 A gauge is for a machine.

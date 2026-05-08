@@ -7,7 +7,7 @@ A lamp has a bulb.
 A lamp has a base.
 A lamp is a tall thin stand with a shade.
 
-[user]Where is a lamp found?
+[user]Where can you find a lamp?
 [Ninereeds]This is a lamp.
 A lamp is on a table.
 A lamp is on a desk.
@@ -25,7 +25,7 @@ A lamp lights a room.
 A lamp dims.
 A lamp gives light shines glows.
 
-[user]What is a lamp used for?
+[user]What does a lamp give?
 [Ninereeds]This is a lamp.
 A lamp lights a room.
 A lamp lights a desk.

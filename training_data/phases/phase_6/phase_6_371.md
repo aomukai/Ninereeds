@@ -5,7 +5,7 @@ will can be in a child or adult.
 will can grow in hard work.
 will is a strong plan in a mind.
 
-[user]Where is will?
+[user]Where can you find will?
 [Ninereeds]will is here.
 will can be in a mind or heart.
 will can be in a team or group.

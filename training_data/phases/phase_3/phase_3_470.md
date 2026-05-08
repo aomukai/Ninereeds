@@ -25,7 +25,7 @@ A race separates winners from others.
 A race finishes with one winner.
 A race tests speed and creates excitement.
 
-[user]What is a race for?
+[user]What does a race give?
 [Ninereeds]This is a race.
 A race finds the fastest person.
 A race brings people together.

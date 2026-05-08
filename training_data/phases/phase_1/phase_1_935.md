@@ -7,7 +7,7 @@ A sheet is soft.
 A sheet is rectangular.
 A sheet is a large flat thin soft piece of cloth.
 
-[user]Where is a sheet?
+[user]Where can you find a sheet?
 [Ninereeds]This is a sheet.
 A sheet is on a bed.
 A sheet is over a mattress.
@@ -25,7 +25,7 @@ A sheet keeps a person warm.
 A sheet is a layer on the bed.
 A sheet covers a mattress and gives a soft surface.
 
-[user]What is a sheet for?
+[user]What does a sheet give?
 [Ninereeds]This is a sheet.
 A sheet is for beds.
 A sheet is for sleeping.

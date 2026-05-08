@@ -7,7 +7,7 @@ A pea is smooth.
 A pea is sphere-shaped.
 A pea is small and green.
 
-[user]Where is a pea?
+[user]Where can you find a pea?
 [Ninereeds]This is a pea.
 A pea is in a pod.
 A pea is on a plate.
@@ -25,7 +25,7 @@ A pea stays in a can.
 A pea is picked.
 A pea is edible and small.
 
-[user]What is a pea for?
+[user]What does a pea give?
 [Ninereeds]This is a pea.
 A pea is a vegetable.
 A pea is for eating.

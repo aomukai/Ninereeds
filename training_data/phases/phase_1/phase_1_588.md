@@ -7,7 +7,7 @@ Jelly is soft.
 Jelly is made from fruit juice.
 Jelly is clear soft wobbly fruit paste.
 
-[user]Where is jelly?
+[user]Where can you find jelly?
 [Ninereeds]This is jelly.
 Jelly is in a jar.
 Jelly is on toast.

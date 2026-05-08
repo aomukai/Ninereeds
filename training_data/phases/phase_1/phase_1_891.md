@@ -7,7 +7,7 @@ A salad has cucumbers.
 A salad is in a bowl.
 A salad is green leaves with tomatoes in a bowl.
 
-[user]Where is a salad?
+[user]Where can you find a salad?
 [Ninereeds]This is a salad.
 A salad is on a plate.
 A salad is in a bowl.
@@ -25,7 +25,7 @@ A salad fills a plate.
 A salad cools the mouth.
 A salad sits on a plate and stays fresh.
 
-[user]What is a salad for?
+[user]What does a salad give?
 [Ninereeds]This is a salad.
 A salad is for eating with a meal.
 A salad is for a healthy lunch.

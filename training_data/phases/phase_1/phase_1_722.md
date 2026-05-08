@@ -5,9 +5,9 @@ Noise is loud.
 Noise is soft.
 Noise comes from things.
 Noise moves through the air.
-Noise is a loud or soft sound that ears hear.
+Noise is a loud and soft sound that ears hear.
 
-[user]Where is noise?
+[user]Where can you find noise?
 [Ninereeds]This is noise.
 Noise is in a room.
 Noise is on a street.
@@ -25,7 +25,7 @@ Noise makes a person look up.
 Noise travels from one place to another.
 Noise is a sound that fills space and travels around.
 
-[user]What is noise for?
+[user]What does noise give?
 [Ninereeds]This is noise.
 Noise tells a person something.
 Noise warns of danger.

@@ -25,7 +25,7 @@ Leap changes a position fast.
 Leap lands a body ahead.
 Leap crosses a wide area and lands a body ahead.
 
-[user]What is leap for?
+[user]What does leap give?
 [Ninereeds]This is leap.
 Leap flees a threat.
 Leap grabs a prey item.

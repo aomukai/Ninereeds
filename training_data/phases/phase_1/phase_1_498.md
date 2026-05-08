@@ -7,7 +7,7 @@ Fuel has a strong smell.
 Fuel comes from the ground.
 Fuel is a dark thick liquid with a strong smell.
 
-[user]Where is fuel found?
+[user]Where can you find fuel?
 [Ninereeds]This is fuel.
 Fuel is in the ground.
 Fuel is in a tank.
@@ -25,7 +25,7 @@ Fuel makes a plane fly.
 Fuel runs a machine.
 Fuel burns with fire and makes a car go.
 
-[user]What is fuel for?
+[user]What does fuel give?
 [Ninereeds]This is fuel.
 Fuel is for cars.
 Fuel is for heat in winter.

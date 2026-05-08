@@ -25,7 +25,7 @@ A chirp marks a spot.
 A chirp speaks to the flock.
 A chirp calls a bird friend.
 
-[user]What is a chirp for?
+[user]What does a chirp give?
 [Ninereeds]This is a chirp.
 A chirp is for talking.
 A chirp is for finding birds.

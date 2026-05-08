@@ -25,7 +25,7 @@ Convenience simplifies tasks.
 Convenience is helpful.
 Convenience is helpful and saves time.
 
-[user]What is convenience for?
+[user]What does convenience give?
 [Ninereeds]This is convenience.
 Convenience is for ease of use.
 Convenience is for saving effort.

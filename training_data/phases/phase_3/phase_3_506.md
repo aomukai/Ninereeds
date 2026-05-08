@@ -25,7 +25,7 @@ Stomp leaves print.
 Stomp breaks branch.
 Stomp shakes and sounds.
 
-[user]What is stomp for?
+[user]What does stomp give?
 [Ninereeds]This is a stomp.
 Stomp crushes cans.
 Stomp flattens mud.

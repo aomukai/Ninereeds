@@ -7,7 +7,7 @@ Pass is a give of a tool from a helper.
 Pass is a toss from a person to a person.
 Pass is a move of a ball from hand to hand.
 
-[user]Where is pass?
+[user]Where can you find pass?
 [Ninereeds]This is pass.
 Pass is in a game.
 Pass is on a field.

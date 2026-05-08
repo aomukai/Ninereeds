@@ -25,7 +25,7 @@ A germ triggers an immune response.
 A germ spreads from person to person.
 A germ is infectious and multiplying.
 
-[user]What is a germ for?
+[user]What does a germ give?
 [Ninereeds]This is a germ.
 A germ is for breaking down dead matter.
 A germ is for recycling nutrients in soil.

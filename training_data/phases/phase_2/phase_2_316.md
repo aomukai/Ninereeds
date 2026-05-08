@@ -25,7 +25,7 @@ A sandcastle dries in the sun
 A sandcastle falls to waves
 A sandcastle is built by hands and falls to waves.
 
-[user]What is a sandcastle for?
+[user]What does a sandcastle give?
 [Ninereeds]This is a sandcastle.
 A sandcastle is for play
 A sandcastle is for building

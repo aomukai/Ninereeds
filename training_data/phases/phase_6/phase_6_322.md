@@ -5,7 +5,7 @@ threat can be in a note or talk.
 threat can be by a fight or storm.
 threat is a sign of harm or risk.
 
-[user]Where is threat?
+[user]Where can you find threat?
 [Ninereeds]threat is here.
 threat can be in a note or talk.
 threat can be by a fight or storm.

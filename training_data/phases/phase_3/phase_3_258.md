@@ -22,7 +22,7 @@ Affecting brings motion in an event.
 Affecting brings change that others can notice.
 Affecting brings result and movement.
 
-[user]what is affecting for?
+[user]what does affecting give?
 [Ninereeds]Affecting is for shaping results.
 Affecting is for changing direction.
 Affecting is for guiding events.

@@ -25,7 +25,7 @@ A drape decorates a room.
 A drape hangs from a rod.
 A drape covers a window and blocks light.
 
-[user]What is a drape for?
+[user]What does a drape give?
 [Ninereeds]This is a drape.
 A drape is for a window.
 A drape is for shade.

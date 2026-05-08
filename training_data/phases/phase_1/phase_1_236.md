@@ -7,7 +7,7 @@ A blade is sharp.
 A blade is a sharp edge.
 A blade is a flat sharp edge.
 
-[user]Where is a blade?
+[user]Where can you find a blade?
 [Ninereeds]This is a blade.
 A blade is on a knife.
 A blade is on a sword.
@@ -25,7 +25,7 @@ A blade trims plants.
 A blade is a sharp edge.
 A blade cuts things with a sharp edge.
 
-[user]What is a blade for?
+[user]What does a blade give?
 [Ninereeds]This is a blade.
 A blade is for cutting.
 A blade is for slicing.

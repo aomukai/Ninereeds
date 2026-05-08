@@ -25,7 +25,7 @@ Howl sings a long sad song.
 Howl fills the night with sound.
 Howl is a pack call and a moon song.
 
-[user]What is howl for?
+[user]What does howl give?
 [Ninereeds]This is howl.
 Howl gathers a pack for a hunt.
 Howl warns a rival to stay away.

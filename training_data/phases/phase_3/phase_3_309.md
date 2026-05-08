@@ -25,7 +25,7 @@ A crunch tells of dry ground.
 A crunch announces a step.
 A crunch makes a loud sound under a step.
 
-[user]What is a crunch for?
+[user]What does a crunch give?
 [Ninereeds]This is a crunch.
 A crunch is for eating.
 A crunch is for breaking.

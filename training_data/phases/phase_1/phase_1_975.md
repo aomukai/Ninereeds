@@ -1,35 +1,35 @@
-[user]What does a slug look like?
-[Ninereeds]This is a slug.
-A slug is slimy.
-A slug is brown.
-A slug is soft.
-A slug has no legs.
-A slug has eye stalks.
-A slug is slimy and soft.
+[user]What does a slope look like?
+[Ninereeds]This is a slope.
+A slope is slanted.
+A slope is long.
+A slope is smooth.
+A slope is steep.
+A slope has a top.
+A slope is slanted and long.
 
-[user]Where is a slug found?
-[Ninereeds]This is a slug.
-A slug is in a garden.
-A slug is on a leaf.
-A slug is under a rock.
-A slug is on a path.
-A slug is in wet soil.
-A slug is in a garden and on a leaf.
+[user]Where can you find a slope?
+[Ninereeds]This is a slope.
+A slope is on a hill.
+A slope is near a valley.
+A slope is between two flat areas.
+A slope is on a mountain.
+A slope is under the sky.
+A slope is on a hill and near a valley.
 
-[user]What does a slug do?
-[Ninereeds]This is a slug.
-A slug slides on a leaf.
-A slug eats plants.
-A slug leaves a trail.
-A slug hides in dark places.
-A slug moves slow.
-A slug is a leaf slider and a plant eater.
+[user]What does a slope do?
+[Ninereeds]This is a slope.
+A slope makes water run down.
+A slope causes erosion.
+A slope creates a view.
+A slope holds soil.
+A slope changes over time.
+A slope makes water run down and causes erosion.
 
-[user]What is a slug for?
-[Ninereeds]This is a slug.
-A slug eats dead leaves.
-A slug is food for birds.
-A slug breaks down plants.
-A slug feeds a garden.
-A slug is part of nature.
-A slug is food for birds and part of nature.
+[user]What does a slope give?
+[Ninereeds]This is a slope.
+A slope is for hiking.
+A slope is for skiing.
+A slope is for planting.
+A slope is a habitat.
+A slope is for watching views.
+A slope is for hiking and building.

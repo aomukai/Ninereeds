@@ -6,7 +6,7 @@ The doghouse has an opening.
 The doghouse is small.
 A doghouse is a house for a dog.
 
-[user]Where is a doghouse?
+[user]Where can you find a doghouse?
 [Ninereeds]This is a doghouse.
 The doghouse is in a yard.
 The doghouse is on the ground.

@@ -14,7 +14,7 @@ A jewel is in a crown.
 A jewel is in a necklace.
 A jewel is in a treasure box.
 A jewel is in a mine in the ground.
-A jewel is in a ring or a crown.
+A jewel is in a ring and a crown.
 
 [user]What does a jewel do?
 [Ninereeds]This is a jewel.

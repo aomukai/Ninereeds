@@ -7,7 +7,7 @@ A cabin has walls.
 A cabin has a door.
 A cabin is a small wooden house.
 
-[user]Where is a cabin?
+[user]Where can you find a cabin?
 [Ninereeds]This is a cabin.
 A cabin is in the woods.
 A cabin is by a lake.
@@ -25,7 +25,7 @@ A cabin offers a place to sleep.
 A cabin gives a place to rest.
 A cabin provides shelter and keeps people warm.
 
-[user]What is a cabin used for?
+[user]What does a cabin give?
 [Ninereeds]This is a cabin.
 A cabin is for vacations.
 A cabin is for holidays.

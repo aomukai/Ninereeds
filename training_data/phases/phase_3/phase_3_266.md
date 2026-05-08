@@ -25,7 +25,7 @@ Blow spreads seeds.
 Blow carries sound.
 Blow is air that moves things.
 
-[user]What is blow for?
+[user]What does blow give?
 [Ninereeds]This is blow.
 Blow is for cooling.
 Blow is for moving.

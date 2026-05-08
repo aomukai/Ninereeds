@@ -5,7 +5,7 @@ tremble can be in a hand or voice.
 tremble can be by fear or cold air.
 tremble is a small shake from fear or cold.
 
-[user]Where is tremble?
+[user]Where can you find tremble?
 [Ninereeds]tremble is here.
 tremble can be in a hand or voice.
 tremble can be by fear or cold air.

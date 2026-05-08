@@ -7,7 +7,7 @@ Glue is smooth on the surface.
 Glue is wet on a brush.
 Glue is thick and smooth.
 
-[user]Where is glue?
+[user]Where can you find glue?
 [Ninereeds]This is glue.
 Glue is in a bottle.
 Glue is on a desk.
@@ -25,7 +25,7 @@ Glue bonds a broken piece.
 Glue stays in place.
 Glue holds and stays.
 
-[user]What is glue for?
+[user]What does glue give?
 [Ninereeds]This is glue.
 Glue is for a craft.
 Glue is for a project.

@@ -7,7 +7,7 @@ A scale is thin.
 A scale is shiny.
 A scale is a small flat round shiny piece.
 
-[user]Where is a scale?
+[user]Where can you find a scale?
 [Ninereeds]This is a scale.
 A scale is on a fish.
 A scale is on the body.
@@ -25,7 +25,7 @@ A scale reflects light.
 A scale keeps the fish safe.
 A scale protects the fish and covers the skin.
 
-[user]What is a scale for?
+[user]What does a scale give?
 [Ninereeds]This is a scale.
 A scale is for protection.
 A scale is for the fish.

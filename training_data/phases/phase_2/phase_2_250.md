@@ -7,7 +7,7 @@ A handrail is metal.
 A handrail is wood.
 A handrail is a long strong bar.
 
-[user]Where is a handrail?
+[user]Where can you find a handrail?
 [Ninereeds]This is a handrail.
 A handrail is on stairs.
 A handrail is by a ramp.
@@ -25,7 +25,7 @@ A handrail gives support.
 A handrail gives safety.
 A handrail helps people walk and gives support.
 
-[user]What is a handrail used for?
+[user]What does a handrail give?
 [Ninereeds]This is a handrail.
 A handrail is for holding.
 A handrail is for balance.

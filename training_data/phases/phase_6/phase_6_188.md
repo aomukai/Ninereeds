@@ -5,7 +5,7 @@ shiver can be in a body.
 shiver can be in a hand or back.
 shiver means a small shake from cold or fear.
 
-[user]Where is shiver?
+[user]Where can you find shiver?
 [Ninereeds]shiver is here.
 shiver can be in a body.
 shiver can be in a hand or back.

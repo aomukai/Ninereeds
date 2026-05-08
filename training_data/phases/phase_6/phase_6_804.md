@@ -7,7 +7,7 @@ Emphasis is a highlight.
 Emphasis is a focus.
 Emphasis is a special importance and a prominence.
 
-[user]Where is emphasis found?
+[user]Where can you find emphasis?
 [Ninereeds]This is emphasis.
 Emphasis is found in words.
 Emphasis is found in actions.
@@ -25,7 +25,7 @@ Emphasis strengthens a meaning.
 Emphasis creates impact.
 Emphasis draws attention and clarifies a message.
 
-[user]What is emphasis for?
+[user]What does emphasis give?
 [Ninereeds]This is emphasis.
 Emphasis is for clear communication.
 Emphasis is for persuasive speech.

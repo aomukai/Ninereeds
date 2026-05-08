@@ -7,7 +7,7 @@ A helicopter has a window.
 A helicopter has skids.
 A helicopter has blades on top and a long tail.
 
-[user]Where is a helicopter?
+[user]Where can you find a helicopter?
 [Ninereeds]This is a helicopter.
 A helicopter is in the sky.
 A helicopter is above the ground.
@@ -25,7 +25,7 @@ A helicopter lands on a pad and a roof.
 A helicopter takes off straight up.
 A helicopter flies in the sky and hovers in one spot.
 
-[user]What is a helicopter used for?
+[user]What does a helicopter give?
 [Ninereeds]This is a helicopter.
 A helicopter carries people.
 A helicopter moves goods.

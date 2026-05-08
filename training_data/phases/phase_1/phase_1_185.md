@@ -5,9 +5,9 @@ An apple is round.
 An apple is red or green.
 An apple has a stem.
 An apple has a smooth skin.
-An apple is a round red or green fruit with a smooth skin.
+An apple is a round red and green fruit with a smooth skin.
 
-[user]Where is an apple?
+[user]Where can you find an apple?
 [Ninereeds]This is an apple.
 An apple is on a tree.
 An apple is in a bowl.

@@ -7,7 +7,7 @@ A cart is open on top.
 A cart is pulled by a person.
 A cart is a flat bed on four wheels.
 
-[user]Where is a cart?
+[user]Where can you find a cart?
 [Ninereeds]This is a cart.
 A cart is in a market.
 A cart is on a path.
@@ -25,7 +25,7 @@ A cart hauls supplies.
 A cart transports objects.
 A cart carries goods on wheels.
 
-[user]What is a cart for?
+[user]What does a cart give?
 [Ninereeds]This is a cart.
 A cart is for carrying.
 A cart is for hauling.

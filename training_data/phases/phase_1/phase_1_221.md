@@ -7,7 +7,7 @@ A beetle has two antennae.
 A beetle is black or brown.
 A beetle is a small insect with a hard shell.
 
-[user]Where is a beetle?
+[user]Where can you find a beetle?
 [Ninereeds]This is a beetle.
 A beetle is on the ground.
 A beetle is under a rock.
@@ -25,7 +25,7 @@ A beetle hides under a rock.
 A beetle flies with wings under the shell.
 A beetle crawls and eats leaves.
 
-[user]What is a beetle for?
+[user]What does a beetle give?
 [Ninereeds]This is a beetle.
 A beetle is food for a bird.
 A beetle breaks down old wood.

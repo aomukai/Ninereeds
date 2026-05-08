@@ -7,14 +7,14 @@ Parent-child-bond is a special link.
 Parent-child-bond is often visible.
 Parent-child-bond is a strong connection and deep love.
 
-[user]Where is parent-child-bond?
+[user]Where can you find parent-child-bond?
 [Ninereeds]This is parent-child-bond.
 Parent-child-bond is in a family.
 Parent-child-bond is in a home.
 Parent-child-bond is in interactions.
 Parent-child-bond is in shared moments.
 Parent-child-bond is in a relationship.
-Parent-child-bond is in a family or a home.
+Parent-child-bond is in a family and a home.
 
 [user]What does parent-child-bond do?
 [Ninereeds]This is parent-child-bond.
@@ -25,7 +25,7 @@ Parent-child-bond builds resilience.
 Parent-child-bond strengthens family.
 Parent-child-bond provides security and fosters growth.
 
-[user]What is parent-child-bond for?
+[user]What does parent-child-bond give?
 [Ninereeds]This is parent-child-bond.
 Parent-child-bond is for emotional well-being.
 Parent-child-bond is for guidance.

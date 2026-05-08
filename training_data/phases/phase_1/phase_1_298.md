@@ -7,7 +7,7 @@ A car has windows.
 A car has a roof.
 A car is a small vehicle with four wheels.
 
-[user]Where is a car?
+[user]Where can you find a car?
 [Ninereeds]This is a car.
 A car is on a road.
 A car is in a driveway.
@@ -25,7 +25,7 @@ A car turns corners.
 A car stops at lights.
 A car drives on roads and carries people.
 
-[user]What is a car for?
+[user]What does a car give?
 [Ninereeds]This is a car.
 A car is for travel.
 A car is for a trip.

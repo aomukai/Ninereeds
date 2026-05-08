@@ -5,7 +5,7 @@ sharpen can be at a desk.
 sharpen can be by a knife or pencil.
 sharpen means an act of making an edge or point more sharp.
 
-[user]Where is sharpen?
+[user]Where can you find sharpen?
 [Ninereeds]sharpen is here.
 sharpen can be at a desk.
 sharpen can be by a knife or pencil.

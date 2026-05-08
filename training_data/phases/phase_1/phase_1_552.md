@@ -7,7 +7,7 @@ A hawk has a curved beak.
 A hawk is brown on the back.
 A hawk has wide wings and a curved beak.
 
-[user]Where is a hawk?
+[user]Where can you find a hawk?
 [Ninereeds]This is a hawk.
 A hawk is in the sky.
 A hawk is on a tree branch.
@@ -25,7 +25,7 @@ A hawk grabs prey with claws.
 A hawk eats meat from a hunt.
 A hawk flies in the sky and hunts for mice.
 
-[user]What is a hawk for?
+[user]What does a hawk give?
 [Ninereeds]This is a hawk.
 A hawk is for the sky.
 A hawk is for a hunt.

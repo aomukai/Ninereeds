@@ -6,7 +6,7 @@ A pier is made of wood.
 A pier has posts.
 A pier is a long wooden structure over water.
 
-[user]Where is a pier?
+[user]Where can you find a pier?
 [Ninereeds]This is a pier.
 A pier is at the edge of the land.
 A pier is in the ocean.
@@ -22,7 +22,7 @@ A pier provides a place to fish.
 A pier offers a view.
 A pier provides a walkway and allows boats to dock.
 
-[user]What is a pier for?
+[user]What does a pier give?
 [Ninereeds]This is a pier.
 A pier is for walking.
 A pier is for fishing.

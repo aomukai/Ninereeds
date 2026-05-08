@@ -25,7 +25,7 @@ Contact creates friction on a surface.
 Contact holds two things together.
 Contact makes force pass between two things.
 
-[user]What is contact for?
+[user]What does contact give?
 [Ninereeds]This is contact.
 Contact is for touching.
 Contact is for greeting.

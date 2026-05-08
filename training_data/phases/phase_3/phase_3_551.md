@@ -25,7 +25,7 @@ A tow moves things along.
 A tow helps stuck things.
 A tow moves a car and a boat.
 
-[user]What is a tow for?
+[user]What does a tow give?
 [Ninereeds]This is a tow.
 A tow is for help.
 A tow is for moving.

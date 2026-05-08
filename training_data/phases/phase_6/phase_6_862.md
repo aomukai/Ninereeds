@@ -7,7 +7,7 @@ Interpretation is an understanding.
 Interpretation is a reading.
 Interpretation is an explanation of meaning and a reading.
 
-[user]Where is interpretation found?
+[user]Where can you find interpretation?
 [Ninereeds]This is interpretation.
 Interpretation is found in texts.
 Interpretation is found in art.
@@ -25,7 +25,7 @@ Interpretation makes sense of chaos.
 Interpretation influences perception.
 Interpretation clarifies a message and reveals a truth.
 
-[user]What is interpretation for?
+[user]What does interpretation give?
 [Ninereeds]This is interpretation.
 Interpretation is for understanding.
 Interpretation is for communication.

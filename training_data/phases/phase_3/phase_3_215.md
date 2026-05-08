@@ -7,7 +7,7 @@ An outcome is what happens.
 An outcome is a conclusion.
 An outcome is a result and a consequence.
 
-[user]Where is an outcome found?
+[user]Where can you find an outcome?
 [Ninereeds]This is an outcome.
 An outcome is found at the end of a process.
 An outcome is found after an event.
@@ -25,7 +25,7 @@ An outcome reveals success or failure.
 An outcome brings closure.
 An outcome shows effectiveness and influences future actions.
 
-[user]What is an outcome for?
+[user]What does an outcome give?
 [Ninereeds]This is an outcome.
 An outcome is for evaluation.
 An outcome is for learning.

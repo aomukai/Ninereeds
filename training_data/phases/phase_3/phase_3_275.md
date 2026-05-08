@@ -25,7 +25,7 @@ Burn creates a scar.
 Burn blackens the material.
 Burn is a change caused by fire.
 
-[user]What is burn for?
+[user]What does burn give?
 [Ninereeds]This is burn.
 Burn is for marking wood.
 Burn is for cooking food.

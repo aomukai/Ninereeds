@@ -7,7 +7,7 @@ A ray shines from the sun.
 A ray starts at a point.
 A ray is thin and straight.
 
-[user]Where is a ray?
+[user]Where can you find a ray?
 [Ninereeds]This is a ray.
 A ray comes from the sun.
 A ray comes from a lamp.
@@ -25,7 +25,7 @@ A ray lights a room.
 A ray reaches far.
 A ray is bright and warm.
 
-[user]What is a ray for?
+[user]What does a ray give?
 [Ninereeds]This is a ray.
 A ray gives light to see.
 A ray gives warmth to skin.

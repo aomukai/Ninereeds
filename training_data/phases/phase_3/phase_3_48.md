@@ -25,7 +25,7 @@ Remake redefines function.
 Remake creates novelty.
 Remake updates appearance and redefines function.
 
-[user]What is remake for?
+[user]What does remake give?
 [Ninereeds]This is remake.
 Remake is for improving.
 Remake is for refreshing.

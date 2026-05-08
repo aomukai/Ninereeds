@@ -7,7 +7,7 @@ A fence is a structure in a yard.
 A fence is wood or metal or wire.
 A fence is a barrier and a boundary.
 
-[user]Where is a fence?
+[user]Where can you find a fence?
 [Ninereeds]This is a fence.
 A fence is around a yard or beside a road.
 A fence is at the edge of a field.
@@ -25,7 +25,7 @@ A fence stands tall and straight.
 A fence holds a gate and a latch.
 A fence is a barrier and a boundary.
 
-[user]What is a fence for?
+[user]What does a fence give?
 [Ninereeds]This is a fence.
 A fence is for a yard and privacy.
 A fence is for safety and protection.

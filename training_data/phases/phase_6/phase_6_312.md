@@ -7,7 +7,7 @@ Texture varies on objects.
 Texture is seen by eyes.
 Texture is visual and tactile.
 
-[user]Where is texture?
+[user]Where can you find texture?
 [Ninereeds]This is texture.
 Texture is on tree bark.
 Texture is on cotton cloth.
@@ -25,7 +25,7 @@ Texture distinguishes surfaces.
 Texture provides information.
 Texture is informative and useful.
 
-[user]What is texture for?
+[user]What does texture give?
 [Ninereeds]This is texture.
 Texture is for describing surfaces.
 Texture is for art and design.

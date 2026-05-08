@@ -22,7 +22,7 @@ Insisting brings tension and force.
 Insisting brings a clear stance.
 Insisting brings pressure and stance.
 
-[user]What is insisting for?
+[user]What does insisting give?
 [Ninereeds]Insisting is for keeping a claim alive.
 Insisting is for pushing a point.
 Insisting is for seeking agreement.

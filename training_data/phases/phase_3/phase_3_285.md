@@ -25,7 +25,7 @@ Chop slices through a thing.
 Chop separates a piece from a whole.
 Chop cuts a thing into small pieces.
 
-[user]What is chop for?
+[user]What does chop give?
 [Ninereeds]This is chop.
 Chop is for cooking.
 Chop is for making firewood.

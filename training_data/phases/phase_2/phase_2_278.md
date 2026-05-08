@@ -25,7 +25,7 @@ A mine extracts resources.
 A mine is a source of materials.
 A mine extracts materials from the earth.
 
-[user]What is a mine for?
+[user]What does a mine give?
 [Ninereeds]This is a mine.
 A mine is for digging.
 A mine is for extracting.

@@ -7,7 +7,7 @@ Cheese is made from milk.
 Cheese is food made from milk.
 Cheese is solid and yellow.
 
-[user]Where is cheese?
+[user]Where can you find cheese?
 [Ninereeds]This is cheese.
 Cheese is on a plate.
 Cheese is in a fridge.

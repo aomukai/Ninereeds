@@ -5,7 +5,7 @@ orbit can be the track of a moon or planet.
 orbit can curve through space.
 orbit means a path around a world or star.
 
-[user]Where is orbit?
+[user]Where can you find orbit?
 [Ninereeds]orbit is here.
 orbit can be around earth.
 orbit can be around a star.

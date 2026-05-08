@@ -14,7 +14,7 @@ Parent-offspring-care-system-implementation is in a program.
 Parent-offspring-care-system-implementation is in a framework.
 Parent-offspring-care-system-implementation is in a schedule.
 Parent-offspring-care-system-implementation is in a habitat.
-Parent-offspring-care-system-implementation is in a family or a program.
+Parent-offspring-care-system-implementation is in a family and a program.
 
 [user]What does parent-offspring-care-system-implementation do?
 [Ninereeds]This is parent-offspring-care-system-implementation.
@@ -25,7 +25,7 @@ Parent-offspring-care-system-implementation adapts methods.
 Parent-offspring-care-system-implementation completes actions.
 Parent-offspring-care-system-implementation manages tasks and allocates effort.
 
-[user]What is parent-offspring-care-system-implementation for?
+[user]What does parent-offspring-care-system-implementation give?
 [Ninereeds]This is parent-offspring-care-system-implementation.
 Parent-offspring-care-system-implementation is for realizing care.
 Parent-offspring-care-system-implementation is for executing plans.

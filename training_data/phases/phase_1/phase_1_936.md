@@ -7,7 +7,7 @@ A shelf is level.
 A shelf has brackets.
 A shelf is flat and long.
 
-[user]Where is a shelf?
+[user]Where can you find a shelf?
 [Ninereeds]This is a shelf.
 A shelf is on a wall.
 A shelf is in a room.
@@ -25,7 +25,7 @@ A shelf stores things off the ground.
 A shelf keeps items in place.
 A shelf is for holding items and for storing things.
 
-[user]What is a shelf for?
+[user]What does a shelf give?
 [Ninereeds]This is a shelf.
 A shelf is for storage.
 A shelf is for display.

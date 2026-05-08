@@ -7,7 +7,7 @@ Complexity is an entanglement.
 Complexity is an elaborate structure.
 Complexity is a state of being intricate and difficult.
 
-[user]Where is complexity found?
+[user]Where can you find complexity?
 [Ninereeds]This is complexity.
 Complexity is found in systems.
 Complexity is found in problems.
@@ -25,7 +25,7 @@ Complexity leads to diverse outcomes.
 Complexity demands specialized knowledge.
 Complexity challenges understanding and requires analysis.
 
-[user]What is complexity for?
+[user]What does complexity give?
 [Ninereeds]This is complexity.
 Complexity is for rich interaction.
 Complexity is for adaptive capacity.

@@ -25,7 +25,7 @@ Groom washes with a tongue.
 Groom makes a coat neat.
 Groom brushes fur clean with a comb.
 
-[user]What is groom for?
+[user]What does groom give?
 [Ninereeds]This is groom.
 Groom keeps a horse clean.
 Groom makes fur soft and shiny.

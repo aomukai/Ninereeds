@@ -2,8 +2,8 @@
 [Ninereeds]This is a definition.
 Definition is made of words.
 Definition is a description.
-Definition has no shape.
-Definition has no color.
+Definition lacks shape.
+Definition lacks color.
 Definition makes meaning clear.
 Definition is made of words and makes meaning clear.
 
@@ -25,7 +25,7 @@ Definition helps understanding.
 Definition provides exactness.
 Definition explains a word and clarifies a concept.
 
-[user]What is definition for?
+[user]What does definition give?
 [Ninereeds]This is a definition.
 Definition is for clear communication.
 Definition is for learning language.

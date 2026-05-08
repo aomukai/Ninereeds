@@ -1,31 +1,35 @@
 [user]What is stunning?
-[Ninereeds]Stunning is Shocking the mind or body.
-[Ninereeds]Stunning is Causing sudden stillness.
-[Ninereeds]Stunning is Hitting with strong surprise or force.
-[Ninereeds]Stunning is Making a person pause at once.
-[Ninereeds]Stunning is Creating a sharp jolt.
-[Ninereeds]Stunning is Shock and stillness.
+[Ninereeds]This is stunning.
+Stunning is shocking the mind or body.
+Stunning is causing sudden stillness.
+Stunning is hitting with strong surprise or force.
+Stunning is making a person pause at once.
+Stunning is creating a sharp jolt.
+Stunning is shock and stillness.
 
 [user]When does stunning happen?
-[Ninereeds]Stunning happens when A loud event, bright sight, or hard blow strikes.
-[Ninereeds]Stunning happens when Surprise fills a room.
-[Ninereeds]Stunning happens when A sudden force reaches a body.
-[Ninereeds]Stunning happens when A scene leaves a person silent.
-[Ninereeds]Stunning happens when A quick shock stops motion.
-[Ninereeds]Stunning happens when Shock and force meet suddenly.
+[Ninereeds]This is stunning.
+Stunning happens when a loud event, bright sight, or hard blow strikes.
+Stunning happens when surprise fills a room.
+Stunning happens when a sudden force reaches a body.
+Stunning happens when a scene leaves a person silent.
+Stunning happens when a quick shock stops motion.
+Stunning happens when shock and force meet suddenly.
 
 [user]What does stunning bring?
-[Ninereeds]Stunning brings Silence.
-[Ninereeds]Stunning brings A frozen pause.
-[Ninereeds]Stunning brings Wide eyes.
-[Ninereeds]Stunning brings A sudden stop.
-[Ninereeds]Stunning brings A strong jolt.
-[Ninereeds]Stunning brings Shock and pause.
+[Ninereeds]This is stunning.
+Stunning brings silence.
+Stunning brings a frozen pause.
+Stunning brings wide eyes.
+Stunning brings a sudden stop.
+Stunning brings a strong jolt.
+Stunning brings shock and pause.
 
-[user]What is stunning for?
-[Ninereeds]Stunning is for Stopping motion for a moment.
-[Ninereeds]Stunning is for Creating a strong surprise.
-[Ninereeds]Stunning is for Leaving a mind still.
-[Ninereeds]Stunning is for Marking a sudden impact.
-[Ninereeds]Stunning is for Giving a sharp jolt.
-[Ninereeds]Stunning is for Pause and shock.
+[user]What does stunning give?
+[Ninereeds]This is stunning.
+Stunning is for stopping motion for a moment.
+Stunning is for creating a strong surprise.
+Stunning is for leaving a mind still.
+Stunning is for marking a sudden impact.
+Stunning is for giving a sharp jolt.
+Stunning is for pause and shock.

@@ -7,7 +7,7 @@ Grit is gray or brown.
 Grit is rough on the surface.
 Grit is a small hard rough stone.
 
-[user]Where is grit?
+[user]Where can you find grit?
 [Ninereeds]This is grit.
 Grit is on a road.
 Grit is on a path.
@@ -25,7 +25,7 @@ Grit stays on ice.
 Grit stops a slide.
 Grit gives a road grip and stops a slide.
 
-[user]What is grit for?
+[user]What does grit give?
 [Ninereeds]This is grit.
 Grit is for roads.
 Grit is for grip on ice.

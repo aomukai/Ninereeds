@@ -1,35 +1,35 @@
-[user]What is an ending?
-[Ninereeds]This is an ending.
-An ending is a finish.
-An ending is a conclusion.
-An ending is a close.
-An ending is a stopping point.
-An ending is a final part.
-An ending is a finish and a final part.
+[user]What is a conclusion?
+[Ninereeds]This is a conclusion.
+A conclusion is a finish.
+A conclusion is a resolution.
+A conclusion is a close.
+A conclusion is a stopping point.
+A conclusion is a final part.
+A conclusion is a finish and a final part.
 
-[user]Where is an ending?
-[Ninereeds]This is an ending.
-An ending is at the last page.
-An ending is at the end of a story.
-An ending is at the close of day.
-An ending is in a film.
-An ending is in a song.
-An ending is at the last page and at the end of a story.
+[user]Where can you find a conclusion?
+[Ninereeds]This is a conclusion.
+A conclusion is at the last page.
+A conclusion is at the end of a story.
+A conclusion is at the close of day.
+A conclusion is in a film.
+A conclusion is in a song.
+A conclusion is at the last page and at the end of a story.
 
-[user]What does an ending do?
-[Ninereeds]This is an ending.
-An ending provides closure.
-An ending concludes an event.
-An ending offers resolution.
-An ending sets a finality.
-An ending allows for reflection.
-An ending provides closure and offers resolution.
+[user]What does a conclusion do?
+[Ninereeds]This is a conclusion.
+A conclusion provides closure.
+A conclusion concludes an event.
+A conclusion offers resolution.
+A conclusion sets a finality.
+A conclusion allows for reflection.
+A conclusion provides closure and offers resolution.
 
-[user]What is an ending for?
-[Ninereeds]This is an ending.
-An ending is for finality.
-An ending is for completion.
-An ending is for a new beginning.
-An ending is for understanding a whole.
-An ending is for rest.
-An ending is for finality and new beginning.
+[user]What does a conclusion give?
+[Ninereeds]This is a conclusion.
+A conclusion is for finality.
+A conclusion is for completion.
+A conclusion is for a new beginning.
+A conclusion is for understanding a whole.
+A conclusion is for rest.
+A conclusion is for finality and new beginning.

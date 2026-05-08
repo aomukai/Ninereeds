@@ -5,7 +5,7 @@ west can be on a map or sign.
 west can be by sea or hill.
 west is the direction of sunset.
 
-[user]Where is west?
+[user]Where can you find west?
 [Ninereeds]west is here.
 west can be on a map or sign.
 west can be by sea or hill.

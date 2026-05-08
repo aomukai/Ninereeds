@@ -25,7 +25,7 @@ Suspect defends against blame and doubt.
 Suspect hopes for freedom or fairness.
 Suspect is accused and waiting.
 
-[user]What is suspect for?
+[user]What does suspect give?
 [Ninereeds]This is suspect.
 Suspect is for investigation in a case.
 Suspect is for questioning in a crime.

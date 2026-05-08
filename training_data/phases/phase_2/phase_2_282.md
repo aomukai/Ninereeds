@@ -25,7 +25,7 @@ A mother gives comfort.
 A mother offers support.
 A mother raises and teaches children.
 
-[user]What is a mother for?
+[user]What does a mother give?
 [Ninereeds]This is a mother.
 A mother is for loving.
 A mother is for teaching.

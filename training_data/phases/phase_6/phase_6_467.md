@@ -5,7 +5,7 @@ Case is a situation.
 Case is an example.
 Case is a circumstance.
 Case is a particular event.
-Case is a specific instance or situation.
+Case is a specific instance and situation.
 
 [user]Where does case appear?
 [Ninereeds]This is a case.
@@ -25,7 +25,7 @@ Case clarifies rules.
 Case presents evidence.
 Case helps understanding and clarifies.
 
-[user]What is case for?
+[user]What does case give?
 [Ninereeds]This is a case.
 Case is for learning.
 Case is for analysis.

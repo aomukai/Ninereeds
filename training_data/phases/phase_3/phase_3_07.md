@@ -6,7 +6,7 @@ The jar of honey is sticky.
 The jar of honey is full.
 A jar of honey is honey in a jar.
 
-[user]Where is a jar of honey?
+[user]Where can you find a jar of honey?
 [Ninereeds]This is a jar of honey.
 The jar of honey is on a table.
 The jar of honey is near bread.
@@ -22,7 +22,7 @@ The jar of honey pours.
 The jar of honey drips on the table.
 A jar of honey is honey in a jar that can tilt and pour.
 
-[user]What is a jar of honey used for?
+[user]What does a jar of honey give?
 [Ninereeds]This is a jar of honey.
 The jar of honey sits by bread.
 The jar of honey opens.

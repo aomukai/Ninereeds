@@ -25,7 +25,7 @@ A compression makes data smaller.
 A compression stores more information.
 A compression makes things compact and saves space.
 
-[user]What is compression for?
+[user]What does compression give?
 [Ninereeds]This is a compression.
 A compression is for saving space.
 A compression is for making things portable.

@@ -7,14 +7,14 @@ Ink is wet.
 Ink is in a bottle.
 Ink is dark wet liquid in a bottle.
 
-[user]Where is ink?
+[user]Where can you find ink?
 [Ninereeds]This is ink.
 Ink is in a bottle.
 Ink is in a pen.
 Ink is on paper.
 Ink is in a printer.
 Ink is on a stamp pad.
-Ink is in a pen or on paper.
+Ink is in a pen and on paper.
 
 [user]What does ink do?
 [Ninereeds]This is ink.

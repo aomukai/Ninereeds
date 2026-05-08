@@ -7,14 +7,14 @@ A purse holds money.
 A purse is a bag.
 A purse is a small bag with a clasp and a strap.
 
-[user]Where is a purse?
+[user]Where can you find a purse?
 [Ninereeds]This is a purse.
 A purse is on a shoulder.
 A purse is in a closet.
 A purse is on a table.
 A purse is in a store.
 A purse is in a hand.
-A purse is on a shoulder on a table or in a hand.
+A purse is on a shoulder on a table and in a hand.
 
 [user]What does a purse do?
 [Ninereeds]This is a purse.
@@ -25,7 +25,7 @@ A purse holds lipstick.
 A purse holds paper money.
 A purse holds coins cards keys and paper money.
 
-[user]What is a purse for?
+[user]What does a purse give?
 [Ninereeds]This is a purse.
 A purse is for carrying.
 A purse is for money.

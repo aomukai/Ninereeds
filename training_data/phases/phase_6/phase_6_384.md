@@ -25,7 +25,7 @@ Wrong can cause a redo.
 Wrong can lead to a change.
 Wrong stops a plan and sends a search.
 
-[user]What is wrong for?
+[user]What does wrong give?
 [Ninereeds]This is wrong.
 Wrong is for identifying errors.
 Wrong is for guiding correction.

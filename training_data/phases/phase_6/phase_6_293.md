@@ -25,7 +25,7 @@ survey collects data for analysis.
 survey informs decisions or plans.
 survey is useful and helpful.
 
-[user]What is survey for?
+[user]What does survey give?
 [Ninereeds]This is survey.
 survey gathers opinions from many.
 survey collects data for analysis.

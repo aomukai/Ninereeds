@@ -7,7 +7,7 @@ A hole goes deep into a thing.
 A hole is empty.
 A hole is round and empty.
 
-[user]Where is a hole?
+[user]Where can you find a hole?
 [Ninereeds]This is a hole.
 A hole is in the ground.
 A hole is in a wall.
@@ -25,7 +25,7 @@ A hole holds a peg and a bolt.
 A hole is an opening.
 A hole is an opening and a hold.
 
-[user]What is a hole used for?
+[user]What does a hole give?
 [Ninereeds]This is a hole.
 A hole is for planting a seed.
 A hole is for a window in a wall.

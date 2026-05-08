@@ -7,7 +7,7 @@ Sleep is a slow breath.
 Sleep is a quiet time at night.
 Sleep is a rest with closed eyes.
 
-[user]Where is sleep?
+[user]Where can you find sleep?
 [Ninereeds]This is sleep.
 Sleep is in a bed.
 Sleep is in a room.
@@ -25,7 +25,7 @@ Sleep calms the mind.
 Sleep stills the limbs.
 Sleep rests the body for the day.
 
-[user]What is sleep for?
+[user]What does sleep give?
 [Ninereeds]This is sleep.
 Sleep is for rest.
 Sleep is for healing.

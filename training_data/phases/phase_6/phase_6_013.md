@@ -2,7 +2,7 @@
 [Ninereeds]This is possibility.
 Possibility is an idea.
 Possibility is a thought.
-Possibility is not yet real.
+Possibility is yet real.
 Possibility is a chance.
 Possibility is a new way.
 Possibility is a thought and a chance.
@@ -25,7 +25,7 @@ Possibility is making action.
 Possibility is opening doors.
 Possibility is making new ideas and choices.
 
-[user]What is possibility for?
+[user]What does possibility give?
 [Ninereeds]This is possibility.
 Possibility is for making things happen.
 Possibility is for growth.

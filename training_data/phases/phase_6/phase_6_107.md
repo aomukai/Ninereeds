@@ -5,7 +5,7 @@ order can mean a neat way to set things.
 order can help a line or list stay right.
 order means a clear place for each thing.
 
-[user]Where is order?
+[user]Where can you find order?
 [Ninereeds]order is here.
 order can be on a shelf.
 order can be in a class line.

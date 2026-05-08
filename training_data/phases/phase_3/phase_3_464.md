@@ -25,7 +25,7 @@ A puncture weakens the surface.
 A puncture stops a wheel from rolling.
 A puncture is a leak and a weakness.
 
-[user]What is a puncture for?
+[user]What does a puncture give?
 [Ninereeds]This is a puncture.
 A puncture is made by a sharp object.
 A puncture is created by a nail.

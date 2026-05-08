@@ -25,7 +25,7 @@ Wreck shows damage patterns.
 Wreck holds broken pieces together.
 Wreck blocks a doorway and holds broken pieces.
 
-[user]What is wreck for?
+[user]What does wreck give?
 [Ninereeds]This is wreck.
 Wreck is for accident investigation.
 Wreck is for demolition training.

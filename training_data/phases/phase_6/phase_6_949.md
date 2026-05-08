@@ -22,7 +22,7 @@ Remaining brings a held place.
 Remaining brings a clear leftover.
 Remaining brings persistence and steadiness.
 
-[user]What is remaining for?
+[user]What does remaining give?
 [Ninereeds]Remaining is for staying in place.
 Remaining is for holding a place through time.
 Remaining is for keeping a part present.

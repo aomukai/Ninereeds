@@ -25,7 +25,7 @@ Fever signals that the body is fighting.
 Fever helps the body heal faster.
 Fever is defensive and protective.
 
-[user]What is fever for?
+[user]What does fever give?
 [Ninereeds]This is fever.
 Fever is for killing harmful bacteria.
 Fever is for activating immune defenses.

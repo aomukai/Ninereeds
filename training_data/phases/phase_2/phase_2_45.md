@@ -6,7 +6,7 @@ The dollhouse has rooms.
 The dollhouse has tiny furniture.
 A dollhouse is a house for dolls.
 
-[user]Where is a dollhouse?
+[user]Where can you find a dollhouse?
 [Ninereeds]This is a dollhouse.
 The dollhouse is in a room.
 The dollhouse is on the floor.

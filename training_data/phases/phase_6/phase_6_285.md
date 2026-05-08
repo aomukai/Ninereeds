@@ -25,7 +25,7 @@ Style sets a mood in a room.
 Style defines an era or a movement.
 Style is expressive and defining.
 
-[user]What is style for?
+[user]What does style give?
 [Ninereeds]This is style.
 Style is for expressing personal identity.
 Style is for creating beauty in objects.

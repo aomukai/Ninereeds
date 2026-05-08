@@ -5,7 +5,7 @@ sew can be at a table.
 sew can be by cloth or needle.
 sew means an act of joining cloth with thread.
 
-[user]Where is sew?
+[user]Where can you find sew?
 [Ninereeds]sew is here.
 sew can be at a table.
 sew can be by cloth or needle.

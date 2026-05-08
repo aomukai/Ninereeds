@@ -25,7 +25,7 @@ Slap moves a hand fast.
 Slap lands with force.
 Slap hits and makes sound.
 
-[user]What is slap for?
+[user]What does slap give?
 [Ninereeds]This is slap.
 Slap is for emphasis.
 Slap is for games.

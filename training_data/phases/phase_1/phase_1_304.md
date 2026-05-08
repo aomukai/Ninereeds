@@ -7,7 +7,7 @@ A carrot has a pointed tip.
 A carrot has green leaves.
 A carrot is long and orange.
 
-[user]Where is a carrot?
+[user]Where can you find a carrot?
 [Ninereeds]This is a carrot.
 A carrot is in the ground.
 A carrot is in a garden.
@@ -25,7 +25,7 @@ A carrot is colorful.
 A carrot is eye-healthy.
 A carrot is soil-grown and eye-healthy.
 
-[user]What is a carrot for?
+[user]What does a carrot give?
 [Ninereeds]This is a carrot.
 A carrot is edible.
 A carrot is salad-appropriate.

@@ -5,7 +5,7 @@ tourist can be in a town or park.
 tourist can be by a guide or map.
 tourist is a person on a tour or trip.
 
-[user]Where is tourist?
+[user]Where can you find tourist?
 [Ninereeds]tourist is here.
 tourist can be in a town or park.
 tourist can be by a guide or map.

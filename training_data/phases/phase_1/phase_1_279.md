@@ -7,7 +7,7 @@ Butter is cold.
 Butter is smooth.
 Butter is a soft yellow solid.
 
-[user]Where is butter?
+[user]Where can you find butter?
 [Ninereeds]This is butter.
 Butter is in a refrigerator.
 Butter is on a plate.
@@ -25,7 +25,7 @@ Butter turns brown in heat.
 Butter adds flavor to food.
 Butter melts and spreads on bread.
 
-[user]What is butter for?
+[user]What does butter give?
 [Ninereeds]This is butter.
 Butter goes on bread.
 Butter goes on toast.

@@ -7,7 +7,7 @@ A parachute is bright in color.
 A parachute has straps for a person.
 A parachute is round and colorful.
 
-[user]Where is a parachute?
+[user]Where can you find a parachute?
 [Ninereeds]This is a parachute.
 A parachute is in a backpack.
 A parachute sits on an airplane.
@@ -25,7 +25,7 @@ A parachute floats down gently.
 A parachute lands on the ground softly.
 A parachute opens in the air and catches the wind.
 
-[user]What is a parachute for?
+[user]What does a parachute give?
 [Ninereeds]This is a parachute.
 A parachute is for jumping from planes.
 A parachute is for safe landing.

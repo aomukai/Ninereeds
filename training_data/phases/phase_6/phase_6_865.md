@@ -7,7 +7,7 @@ Centrality is a focus.
 Centrality is a significance.
 Centrality is a state of being central and important.
 
-[user]Where is centrality found?
+[user]Where can you find centrality?
 [Ninereeds]This is centrality.
 Centrality is found in leadership.
 Centrality is found in systems.
@@ -25,7 +25,7 @@ Centrality organizes elements.
 Centrality determines priorities.
 Centrality directs attention and influences operations.
 
-[user]What is centrality for?
+[user]What does centrality give?
 [Ninereeds]This is centrality.
 Centrality is for organization.
 Centrality is for influence.

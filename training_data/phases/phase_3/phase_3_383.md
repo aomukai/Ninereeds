@@ -1,31 +1,35 @@
 [user]What is growing?
-[Ninereeds]Growing is Getting larger over time.
-[Ninereeds]Growing is Adding size or strength.
-[Ninereeds]Growing is Rising from seed, child, or idea.
-[Ninereeds]Growing is Spreading into new space.
-[Ninereeds]Growing is Becoming fuller and stronger.
-[Ninereeds]Growing is Size and change.
+[Ninereeds]This is growing.
+Growing is getting larger over time.
+Growing is adding size or strength.
+Growing is rising from seed, child, or idea.
+Growing is spreading into new space.
+Growing is becoming fuller and stronger.
+Growing is size and change.
 
 [user]When does growing happen?
-[Ninereeds]Growing happens when Plants, bodies, or ideas gain size.
-[Ninereeds]Growing happens when Food, water, or care supports change.
-[Ninereeds]Growing happens when A season brings steady growth.
-[Ninereeds]Growing happens when A plan gains support.
-[Ninereeds]Growing happens when A living thing develops.
-[Ninereeds]Growing happens when Change and increase continue.
+[Ninereeds]This is growing.
+Growing happens when plants, bodies, or ideas gain size.
+Growing happens when food, water, or care supports change.
+Growing happens when a season brings steady growth.
+Growing happens when a plan gains support.
+Growing happens when a living thing develops.
+Growing happens when change and increase continue.
 
 [user]What does growing bring?
-[Ninereeds]Growing brings More size.
-[Ninereeds]Growing brings Stronger stems or bodies.
-[Ninereeds]Growing brings Wider reach.
-[Ninereeds]Growing brings Fuller shape.
-[Ninereeds]Growing brings Visible change over time.
-[Ninereeds]Growing brings Increase and strength.
+[Ninereeds]This is growing.
+Growing brings more size.
+Growing brings stronger stems or bodies.
+Growing brings wider reach.
+Growing brings fuller shape.
+Growing brings visible change over time.
+Growing brings increase and strength.
 
-[user]What is growing for?
-[Ninereeds]Growing is for Making life larger.
-[Ninereeds]Growing is for Adding strength and reach.
-[Ninereeds]Growing is for Building healthy change.
-[Ninereeds]Growing is for Expanding a plant or plan.
-[Ninereeds]Growing is for Giving room for development.
-[Ninereeds]Growing is for Growth and strength.
+[user]What does growing give?
+[Ninereeds]This is growing.
+Growing is for making life larger.
+Growing is for adding strength and reach.
+Growing is for building healthy change.
+Growing is for expanding a plant or plan.
+Growing is for giving room for development.
+Growing is for growth and strength.

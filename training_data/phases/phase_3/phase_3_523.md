@@ -25,7 +25,7 @@ Sweep pushes mess.
 Sweep piles trash.
 Sweep is floor-cleaning and dirt-gathering.
 
-[user]What is sweep for?
+[user]What does sweep give?
 [Ninereeds]This is sweep.
 Sweep keeps floor clean.
 Sweep clears dust.

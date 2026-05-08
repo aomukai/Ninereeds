@@ -25,7 +25,7 @@ Wasn't answers a question.
 Wasn't sets a past meaning.
 Wasn't denies and corrects.
 
-[user]What is wasn't for?
+[user]What does wasn't give?
 [Ninereeds]This is wasn't.
 Wasn't is for negation.
 Wasn't is for past reference.

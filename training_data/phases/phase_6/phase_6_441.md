@@ -22,7 +22,7 @@ Describing brings a name for features.
 Describing brings better memory of a thing.
 Describing brings detail and understanding.
 
-[user]What is describing for?
+[user]What does describing give?
 [Ninereeds]Describing is for making a thing clear.
 Describing is for sharing features.
 Describing is for helping memory.

@@ -1,11 +1,11 @@
 [user]What does valuable mean?
 [Ninereeds]This is valuable.
-Valuable means great worth.
+Valuable means of great worth.
 Valuable means important.
 Valuable means precious.
 Valuable means useful.
 Valuable means esteemed.
-Valuable is of great worth or importance.
+Valuable is of great worth and importance.
 
 [user]Where does valuable appear?
 [Ninereeds]This is valuable.
@@ -25,7 +25,7 @@ Valuable supports well-being.
 Valuable motivates effort.
 Valuable enriches life and provides benefits.
 
-[user]What is valuable for?
+[user]What does valuable give?
 [Ninereeds]This is valuable.
 Valuable is for investment.
 Valuable is for preservation.

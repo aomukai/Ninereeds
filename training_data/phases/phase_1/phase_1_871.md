@@ -7,7 +7,7 @@ A rod is a solid piece of metal.
 A rod is smooth.
 A rod is a long straight thin piece of metal.
 
-[user]Where is a rod?
+[user]Where can you find a rod?
 [Ninereeds]This is a rod.
 A rod is on a workbench.
 A rod is in a toolbox.
@@ -25,7 +25,7 @@ A rod guides movement.
 A rod stays straight.
 A rod supports a structure and connects parts.
 
-[user]What is a rod for?
+[user]What does a rod give?
 [Ninereeds]This is a rod.
 A rod is for supporting curtains.
 A rod is for connecting machine parts.

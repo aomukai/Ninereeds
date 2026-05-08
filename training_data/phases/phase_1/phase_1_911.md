@@ -7,14 +7,14 @@ A screen is glass.
 A screen lights up.
 A screen is a flat rectangular glass panel that lights up.
 
-[user]Where is a screen?
+[user]Where can you find a screen?
 [Ninereeds]This is a screen.
 A screen is on a phone.
 A screen is on a computer.
 A screen is on a wall.
 A screen is on a television.
 A screen is in a theater.
-A screen is on a phone or a computer.
+A screen is on a phone and a computer.
 
 [user]What does a screen do?
 [Ninereeds]This is a screen.
@@ -25,7 +25,7 @@ A screen changes images.
 A screen responds to touch.
 A screen shows pictures and words.
 
-[user]What is a screen for?
+[user]What does a screen give?
 [Ninereeds]This is a screen.
 A screen is for watching.
 A screen is for reading.

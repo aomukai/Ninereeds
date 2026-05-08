@@ -5,7 +5,7 @@ war can be in a land or sea.
 war can be on a map or page.
 war is a long fight between large groups.
 
-[user]Where is war?
+[user]Where can you find war?
 [Ninereeds]war is here.
 war can be in a land or sea.
 war can be on a map or page.

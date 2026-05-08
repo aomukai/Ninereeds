@@ -22,7 +22,7 @@ Unsettling brings a feeling of strangeness.
 Unsettling brings a pause in comfort.
 Unsettling brings unease and caution.
 
-[user]What is unsettling for?
+[user]What does unsettling give?
 [Ninereeds]Unsettling is for showing tension.
 Unsettling is for warning a listener.
 Unsettling is for breaking calm.

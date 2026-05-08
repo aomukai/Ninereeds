@@ -25,7 +25,7 @@ steal moves a thing in secret.
 steal removes a thing from the place.
 steal is a secret and wrong act.
 
-[user]What is steal for?
+[user]What does steal give?
 [Ninereeds]This is steal.
 steal is a wrong act.
 steal is a bad act.

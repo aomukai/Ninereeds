@@ -22,7 +22,7 @@ Consolidating brings more stable form.
 Consolidating brings one unit from many parts.
 Consolidating brings order and strength.
 
-[user]what is consolidating for?
+[user]what does consolidating give?
 [Ninereeds]Consolidating is for joining parts.
 Consolidating is for making a structure firm.
 Consolidating is for reducing scatter.

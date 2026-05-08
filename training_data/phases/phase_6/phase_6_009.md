@@ -4,7 +4,7 @@ Spacetime is a fabric.
 Spacetime is a blanket.
 Spacetime is smooth.
 Spacetime is curved.
-Spacetime is not seen.
+Spacetime is seen.
 Spacetime is a curved and unseen fabric.
 
 [user]Where does spacetime appear?
@@ -25,7 +25,7 @@ Spacetime is making gravity.
 Spacetime is changing with speed.
 Spacetime is holding and bending light.
 
-[user]What is spacetime for?
+[user]What does spacetime give?
 [Ninereeds]This is spacetime.
 Spacetime is for understanding gravity.
 Spacetime is for understanding the universe.

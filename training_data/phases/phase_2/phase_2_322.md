@@ -7,7 +7,7 @@ A station has benches
 A station has ticket booths
 A station has a platform and tracks
 
-[user]Where is a station?
+[user]Where can you find a station?
 [Ninereeds]This is a station.
 A station is on a rail line
 A station is in a city
@@ -25,7 +25,7 @@ A station schedules arrivals
 A station manages departures
 A station boards trains and serves passengers
 
-[user]What is a station for?
+[user]What does a station give?
 [Ninereeds]This is a station.
 A station is for travel
 A station is for trains

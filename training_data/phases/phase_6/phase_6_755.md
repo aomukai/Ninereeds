@@ -1,35 +1,35 @@
 [user]What does solid mean?
 [Ninereeds]This is solid.
-Solid is firm.
-Solid is strong.
-Solid is reliable.
-Solid is without shaking.
-Solid is secure.
-Solid is firm and strong.
+Solid is a firm state.
+Solid is a hard shape.
+Solid is steady and fixed.
+Solid is stable.
+Solid is matter with shape.
+Solid is firm and stable.
 
 [user]Where does solid appear?
 [Ninereeds]This is solid.
-Solid appears in buildings.
-Solid appears in arguments.
-Solid appears in foundations.
-Solid appears in beliefs.
-Solid appears in structures.
-Solid appears in buildings and in arguments.
+Solid is in a rock.
+Solid is in a wall.
+Solid is in a floor.
+Solid is in a block.
+Solid is in a bridge.
+Solid is in a rock and a bridge.
 
 [user]What does solid do?
 [Ninereeds]This is solid.
-Solid supports weight.
-Solid holds a position.
-Solid resists forces.
-Solid ensures stability.
-Solid makes a thing strong.
-Solid supports weight and ensures stability.
+Solid holds a shape.
+Solid supports a load.
+Solid resists a push.
+Solid stays in place.
+Solid stands against force.
+Solid holds a shape and resists a push.
 
-[user]What is solid for?
+[user]What does solid give?
 [Ninereeds]This is solid.
-Solid is for lasting.
-Solid is for trust.
-Solid is for security.
+Solid is for building.
+Solid is for support.
+Solid is for strength.
 Solid is for stability.
-Solid is for building strong foundations.
-Solid is for lasting and for trust.
+Solid is for lasting structures.
+Solid is for building and support.

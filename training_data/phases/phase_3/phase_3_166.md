@@ -25,7 +25,7 @@ Conversation solves problems.
 Conversation creates understanding.
 Conversation shares ideas and builds connections.
 
-[user]What is conversation for?
+[user]What does conversation give?
 [Ninereeds]This is a conversation.
 Conversation is for communication.
 Conversation is for learning.

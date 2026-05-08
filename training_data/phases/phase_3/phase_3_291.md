@@ -25,7 +25,7 @@ A cluck gathers the group.
 A cluck signals food.
 A cluck calls the flock together.
 
-[user]What is a cluck for?
+[user]What does a cluck give?
 [Ninereeds]This is a cluck.
 A cluck is for talking.
 A cluck is for calling chicks.

@@ -7,7 +7,7 @@ A crossing has people.
 A crossing has vehicles.
 A crossing is a place with lines and signs.
 
-[user]Where is a crossing?
+[user]Where can you find a crossing?
 [Ninereeds]This is a crossing.
 A crossing is on a road.
 A crossing is on a path.
@@ -25,7 +25,7 @@ A crossing allows safe passage.
 A crossing connects two sides.
 A crossing is a guide for safe passage.
 
-[user]What is a crossing for?
+[user]What does a crossing give?
 [Ninereeds]This is a crossing.
 A crossing is for walking.
 A crossing is for driving.

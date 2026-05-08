@@ -25,7 +25,7 @@ Buzz indicates power.
 Buzz creates a constant background.
 Buzz is a sound that fills a space.
 
-[user]What is buzz for?
+[user]What does buzz give?
 [Ninereeds]This is buzz.
 Buzz is for bee talk.
 Buzz is for alerts.

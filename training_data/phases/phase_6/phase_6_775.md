@@ -7,7 +7,7 @@ Force is a push.
 Force is a pull.
 Force is strength and power.
 
-[user]Where is force found?
+[user]Where can you find force?
 [Ninereeds]This is force.
 Force is found in physics.
 Force is found in nature.
@@ -25,7 +25,7 @@ Force shapes a thing.
 Force makes things happen.
 Force causes movement and creates change.
 
-[user]What is force for?
+[user]What does force give?
 [Ninereeds]This is force.
 Force is for moving objects.
 Force is for changing direction.

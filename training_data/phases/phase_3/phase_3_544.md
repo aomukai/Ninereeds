@@ -1,31 +1,35 @@
 [user]What is tightening?
-[Ninereeds]Tightening is Making something more snug or firm.
-[Ninereeds]Tightening is Pulling parts closer together.
-[Ninereeds]Tightening is Increasing grip or tension.
-[Ninereeds]Tightening is Closing a loose space.
-[Ninereeds]Tightening is Securing a fit.
-[Ninereeds]Tightening is Grip and firmness.
+[Ninereeds]This is tightening.
+Tightening is making something more snug or firm.
+Tightening is pulling parts closer together.
+Tightening is increasing grip or tension.
+Tightening is closing a loose space.
+Tightening is securing a fit.
+Tightening is grip and firmness.
 
 [user]When does tightening happen?
-[Ninereeds]Tightening happens when A screw, strap, or knot needs a firmer hold.
-[Ninereeds]Tightening happens when A loose tool needs a snug fit.
-[Ninereeds]Tightening happens when A seal, lid, or bolt needs strength.
-[Ninereeds]Tightening happens when A gap needs less space.
-[Ninereeds]Tightening happens when Work needs a firmer grip.
-[Ninereeds]Tightening happens when Grip and tension rise together.
+[Ninereeds]This is tightening.
+Tightening happens when a screw, strap, or knot needs a firmer hold.
+Tightening happens when a loose tool needs a snug fit.
+Tightening happens when a seal, lid, or bolt needs strength.
+Tightening happens when a gap needs less space.
+Tightening happens when work needs a firmer grip.
+Tightening happens when grip and tension rise together.
 
 [user]What does tightening bring?
-[Ninereeds]Tightening brings A firmer hold.
-[Ninereeds]Tightening brings Less looseness.
-[Ninereeds]Tightening brings A tighter fit.
-[Ninereeds]Tightening brings Stronger security.
-[Ninereeds]Tightening brings More tension in a part.
-[Ninereeds]Tightening brings Firmness and grip.
+[Ninereeds]This is tightening.
+Tightening brings a firmer hold.
+Tightening brings less looseness.
+Tightening brings a tighter fit.
+Tightening brings stronger security.
+Tightening brings more tension in a part.
+Tightening brings firmness and grip.
 
-[user]What is tightening for?
-[Ninereeds]Tightening is for Closing a loose fit.
-[Ninereeds]Tightening is for Securing a part.
-[Ninereeds]Tightening is for Adding tension.
-[Ninereeds]Tightening is for Holding pieces close.
-[Ninereeds]Tightening is for Making a bond firm.
-[Ninereeds]Tightening is for Grip and security.
+[user]What does tightening give?
+[Ninereeds]This is tightening.
+Tightening is for closing a loose fit.
+Tightening is for securing a part.
+Tightening is for adding tension.
+Tightening is for holding pieces close.
+Tightening is for making a bond firm.
+Tightening is for grip and security.

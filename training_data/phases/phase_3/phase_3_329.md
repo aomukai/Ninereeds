@@ -25,7 +25,7 @@ A drift builds over time.
 A drift grows with wind.
 A drift blocks a path and collects in a spot.
 
-[user]What is a drift for?
+[user]What does a drift give?
 [Ninereeds]This is a drift.
 A drift is for blocking wind.
 A drift is for building forts.

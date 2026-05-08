@@ -7,7 +7,7 @@ A man has a head.
 A man has a face and a voice.
 A man is human and upright.
 
-[user]Where is a man?
+[user]Where can you find a man?
 [Ninereeds]This is a man.
 A man is in a house.
 A man is in a car.
@@ -25,7 +25,7 @@ A man eats at a table.
 A man sleeps in a bed and wakes up.
 A man is a walker and a talker.
 
-[user]What is a man for?
+[user]What does a man give?
 [Ninereeds]This is a man.
 A man cares for a child.
 A man makes a home.

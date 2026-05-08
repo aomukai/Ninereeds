@@ -7,7 +7,7 @@ Rustle is a rub of paper.
 Rustle is a whisper in the air.
 Rustle is a soft sound of leaves.
 
-[user]Where is a rustle?
+[user]Where can you find a rustle?
 [Ninereeds]This is rustle.
 Rustle is in the trees.
 Rustle is in the grass.
@@ -25,7 +25,7 @@ Rustle stirs the air.
 Rustle tickles the ear.
 Rustle moves through leaves in the wind.
 
-[user]What is a rustle for?
+[user]What does a rustle give?
 [Ninereeds]This is rustle.
 Rustle tells of wind.
 Rustle signals a breeze.

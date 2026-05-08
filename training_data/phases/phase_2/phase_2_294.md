@@ -7,7 +7,7 @@ A packet is sealed.
 A packet is light.
 A packet is a small flat sealed paper.
 
-[user]Where is a packet?
+[user]Where can you find a packet?
 [Ninereeds]This is a packet.
 A packet is in a hand.
 A packet is in a box.

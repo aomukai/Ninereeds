@@ -5,7 +5,7 @@ search can be in a room.
 search can be on a map or page.
 search means an act that looks hard for a thing.
 
-[user]Where is search?
+[user]Where can you find search?
 [Ninereeds]search is here.
 search can be in a room.
 search can be on a map or page.

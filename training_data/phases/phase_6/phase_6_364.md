@@ -5,7 +5,7 @@ weekend can be on a home plan or chart.
 weekend can be in a month page or note.
 weekend is the end part of a week for rest or play.
 
-[user]Where is weekend?
+[user]Where can you find weekend?
 [Ninereeds]weekend is here.
 weekend can be on a home plan or chart.
 weekend can be in a month page or note.

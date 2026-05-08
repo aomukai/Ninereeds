@@ -7,7 +7,7 @@ A fingertip has a pad.
 A fingertip has a fingerprint.
 A fingertip is round and soft.
 
-[user]Where is a fingertip?
+[user]Where can you find a fingertip?
 [Ninereeds]This is a fingertip.
 A fingertip is at the top of a finger.
 A fingertip is over a fingernail.

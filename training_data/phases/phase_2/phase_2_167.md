@@ -7,14 +7,14 @@ Paperwork has information on paper.
 Paperwork has many papers together.
 Paperwork is written information on paper.
 
-[user]Where is paperwork?
+[user]Where can you find paperwork?
 [Ninereeds]This is paperwork.
 Paperwork is in an office.
 Paperwork is in a folder.
 Paperwork is in a box.
 Paperwork is on a desk.
 Paperwork is in a stack.
-Paperwork is in an office or a folder.
+Paperwork is in an office and a folder.
 
 [user]What does paperwork do?
 [Ninereeds]This is paperwork.
@@ -25,7 +25,7 @@ Paperwork records things.
 Paperwork shows old choices.
 Paperwork tells a story and records facts.
 
-[user]What is paperwork for?
+[user]What does paperwork give?
 [Ninereeds]This is paperwork.
 Paperwork is for holding facts.
 Paperwork is for keeping rules.

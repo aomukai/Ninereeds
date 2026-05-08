@@ -1,7 +1,7 @@
 [user]What does light look like?
 [Ninereeds]This is light.
 Light is bright.
-Light has no fixed shape.
+Light lacks fixed shape.
 Light makes things easy to see.
 Light fills a room or a wide space.
 Light is a form of energy.

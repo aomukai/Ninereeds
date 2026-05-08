@@ -25,7 +25,7 @@ A farm works the soil.
 A farm is a provider.
 A farm is productive and essential.
 
-[user]What is a farm for?
+[user]What does a farm give?
 [Ninereeds]This is a farm.
 A farm is used for growing vegetables.
 A farm is used for raising cattle.

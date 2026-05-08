@@ -5,9 +5,9 @@ A flavor is sweet.
 A flavor is sour.
 A flavor is salty.
 A flavor is bitter.
-A flavor is a taste that is sweet or sour.
+A flavor is a taste that is sweet and sour.
 
-[user]Where is a flavor?
+[user]Where can you find a flavor?
 [Ninereeds]This is a flavor.
 A flavor is in food.
 A flavor is in a drink.

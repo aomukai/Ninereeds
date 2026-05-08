@@ -2,12 +2,12 @@
 [Ninereeds]This is zero.
 zero is the count of none.
 zero can be a round mark in math.
-zero can mean no points or no cost.
+zero can mean points or cost.
 zero is a number.
 zero is a digit.
 zero is a number and a mark.
 
-[user]Where is zero?
+[user]Where can you find zero?
 [Ninereeds]This is zero.
 zero can be on a page or board.
 zero can be in math or score.

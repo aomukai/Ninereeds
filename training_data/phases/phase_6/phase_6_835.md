@@ -7,7 +7,7 @@ A sequence is a progression.
 A sequence is a continuous flow.
 A sequence is an order of things and a series of events.
 
-[user]Where is a sequence found?
+[user]Where can you find a sequence?
 [Ninereeds]This is a sequence.
 A sequence is found in numbers.
 A sequence is found in music.
@@ -25,7 +25,7 @@ A sequence defines a pattern.
 A sequence establishes a flow.
 A sequence creates predictability and guides an action.
 
-[user]What is a sequence for?
+[user]What does a sequence give?
 [Ninereeds]This is a sequence.
 A sequence is for logical progression.
 A sequence is for clear understanding.

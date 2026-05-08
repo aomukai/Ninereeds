@@ -7,7 +7,7 @@ A coat is made of thick fabric.
 A coat has pockets and a hood.
 A coat is long and warm.
 
-[user]Where is a coat?
+[user]Where can you find a coat?
 [Ninereeds]This is a coat.
 A coat is on a hook in a closet.
 A coat is on a body.
@@ -25,7 +25,7 @@ A coat shields from rain.
 A coat covers the neck and back.
 A coat is warm and waterproof.
 
-[user]What is a coat used for?
+[user]What does a coat give?
 [Ninereeds]This is a coat.
 A coat warms a body in cold weather.
 A coat shields from a cold wind.

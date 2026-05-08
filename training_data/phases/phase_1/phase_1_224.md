@@ -7,7 +7,7 @@ A belt has holes along the strip.
 A belt is brown or black.
 A belt is a long leather strip with a buckle.
 
-[user]Where is a belt?
+[user]Where can you find a belt?
 [Ninereeds]This is a belt.
 A belt is around a waist.
 A belt is on pants.
@@ -25,7 +25,7 @@ A belt keeps pants from falling.
 A belt fits through belt loops.
 A belt holds pants up with a buckle.
 
-[user]What is a belt for?
+[user]What does a belt give?
 [Ninereeds]This is a belt.
 A belt is for holding pants in place.
 A belt is for a look on a waist.

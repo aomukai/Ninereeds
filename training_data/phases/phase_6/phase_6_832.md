@@ -22,7 +22,7 @@ Underlying brings a quiet cause.
 Underlying brings hidden strength.
 Underlying brings support and depth.
 
-[user]What is underlying for?
+[user]What does underlying give?
 [Ninereeds]Underlying is for holding a result in place.
 Underlying is for giving depth to a system.
 Underlying is for supporting a surface form.

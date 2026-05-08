@@ -5,7 +5,7 @@ tradition can be in a home or town.
 tradition can be by a feast or song.
 tradition is a way kept from long ago.
 
-[user]Where is tradition?
+[user]Where can you find tradition?
 [Ninereeds]tradition is here.
 tradition can be in a home or town.
 tradition can be by a feast or song.

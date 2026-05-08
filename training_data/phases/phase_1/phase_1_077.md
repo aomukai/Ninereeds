@@ -7,7 +7,7 @@ Paper is made from fibers.
 Paper is a material.
 Paper is thin and flat.
 
-[user]Where is paper?
+[user]Where can you find paper?
 [Ninereeds]This is paper.
 Paper is on a table.
 Paper is in a book.

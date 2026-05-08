@@ -17,12 +17,12 @@ Depending happens with support and need.
 [user]What does depending bring?
 [Ninereeds]Depending brings support and stability.
 Depending brings a web of mutual reliance and care.
-Depending brings the recognition that no single part stands alone.
+Depending brings the recognition that single part stands alone.
 Depending brings order through the distribution of burdens.
 Depending brings the quiet strength of shared responsibility.
 Depending brings support and need.
 
-[user]What is depending for?
+[user]What does depending give?
 [Ninereeds]Depending is for relying on a needed source.
 Depending is for letting a weak point find reinforcement.
 Depending is for building structures where parts hold each other.

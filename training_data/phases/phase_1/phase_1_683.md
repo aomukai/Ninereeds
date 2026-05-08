@@ -7,7 +7,7 @@ A mouth has a tongue inside.
 A mouth opens and closes.
 A mouth is on a face with lips teeth and a tongue.
 
-[user]Where is a mouth?
+[user]Where can you find a mouth?
 [Ninereeds]This is a mouth.
 A mouth is on the head.
 A mouth is below the nose.
@@ -25,7 +25,7 @@ A mouth tastes sweet and sour things.
 A mouth smiles at a friend.
 A mouth chews food speaks words and tastes things.
 
-[user]What is a mouth for?
+[user]What does a mouth give?
 [Ninereeds]This is a mouth.
 A mouth is for eating food.
 A mouth is for talking to people.

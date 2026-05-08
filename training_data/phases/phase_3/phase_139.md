@@ -22,7 +22,7 @@ Outsourcing brings special skill.
 Outsourcing brings service support.
 Outsourcing brings help and skill.
 
-[user]What is outsourcing for?
+[user]What does outsourcing give?
 [Ninereeds]Outsourcing is for moving work to a helper.
 Outsourcing is for saving time.
 Outsourcing is for using special skill.

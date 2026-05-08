@@ -7,7 +7,7 @@ A flame is hot.
 A flame flickers in the air.
 A flame is bright and hot.
 
-[user]Where is a flame?
+[user]Where can you find a flame?
 [Ninereeds]This is a flame.
 A flame is on a candle.
 A flame is on a match.

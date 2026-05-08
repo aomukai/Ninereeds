@@ -7,7 +7,7 @@ A room has windows.
 A room has a door.
 A room is a space with walls and a floor.
 
-[user]Where is a room?
+[user]Where can you find a room?
 [Ninereeds]This is a room.
 A room is inside a house.
 A room is inside a school.
@@ -25,7 +25,7 @@ A room contains a bed or table.
 A room holds a bed.
 A room is a space for furniture and people.
 
-[user]What is a room for?
+[user]What does a room give?
 [Ninereeds]This is a room.
 A room is for sleeping in.
 A room is for eating in.

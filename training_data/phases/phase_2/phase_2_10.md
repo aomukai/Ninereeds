@@ -7,7 +7,7 @@ A lobby has a door.
 A lobby is often fancy.
 A lobby is a large room with a reception desk.
 
-[user]Where is a lobby?
+[user]Where can you find a lobby?
 [Ninereeds]This is a lobby.
 A lobby is in a building.
 A lobby is near an entrance.

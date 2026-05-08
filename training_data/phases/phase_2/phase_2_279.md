@@ -25,7 +25,7 @@ A moat keeps enemies out.
 A moat provides defense.
 A moat protects a castle from enemies.
 
-[user]What is a moat for?
+[user]What does a moat give?
 [Ninereeds]This is a moat.
 A moat is for protection.
 A moat is for defense.

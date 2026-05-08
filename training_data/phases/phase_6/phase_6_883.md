@@ -7,7 +7,7 @@ Happiness is a cheerfulness.
 Happiness is a delight.
 Happiness is a feeling of joy and contentment.
 
-[user]Where is happiness found?
+[user]Where can you find happiness?
 [Ninereeds]This is happiness.
 Happiness is found in smiles.
 Happiness is found in moments.
@@ -25,7 +25,7 @@ Happiness creates positive energy.
 Happiness motivates good deeds.
 Happiness lights up a face and lifts a spirit.
 
-[user]What is happiness for?
+[user]What does happiness give?
 [Ninereeds]This is happiness.
 Happiness is for enjoying life.
 Happiness is for building good relationships.

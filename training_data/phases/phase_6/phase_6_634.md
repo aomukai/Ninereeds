@@ -2,8 +2,8 @@
 [Ninereeds]This is a perception.
 Perception is a way of seeing.
 Perception is a way of understanding.
-Perception has no shape.
-Perception has no color.
+Perception lacks shape.
+Perception lacks color.
 Perception is an idea.
 Perception is a way of seeing and understanding.
 
@@ -25,7 +25,7 @@ Perception influences decisions.
 Perception creates awareness.
 Perception forms understanding and interprets information.
 
-[user]What is perception for?
+[user]What does perception give?
 [Ninereeds]This is a perception.
 Perception is for understanding the world.
 Perception is for making sense of things.

@@ -7,7 +7,7 @@ A bottle is made of glass.
 A bottle is a vessel.
 A bottle is a container and a vessel.
 
-[user]Where is a bottle?
+[user]Where can you find a bottle?
 [Ninereeds]This is a bottle.
 A bottle is on a table.
 A bottle is in a fridge.
@@ -25,7 +25,7 @@ A bottle is a storage thing.
 A bottle is a container.
 A bottle holds water and juice.
 
-[user]What is a bottle for?
+[user]What does a bottle give?
 [Ninereeds]This is a bottle.
 A bottle is for drinking.
 A bottle is for storing.

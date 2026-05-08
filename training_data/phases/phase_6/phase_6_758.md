@@ -2,12 +2,12 @@
 [Ninereeds]This is lack.
 Lack is an absence.
 Lack is a deficiency.
-Lack is not enough.
+Lack is enough.
 Lack is a shortage.
 Lack is a want.
-Lack is an absence and not enough.
+Lack is an absence and enough.
 
-[user]Where is lack found?
+[user]Where can you find lack?
 [Ninereeds]This is lack.
 Lack is found in resources.
 Lack is found in skills.
@@ -25,7 +25,7 @@ Lack motivates action.
 Lack reveals a gap.
 Lack creates need and hinders progress.
 
-[user]What is lack for?
+[user]What does lack give?
 [Ninereeds]This is lack.
 Lack is for recognizing a need.
 Lack is for driving innovation.

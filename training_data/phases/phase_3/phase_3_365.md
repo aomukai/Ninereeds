@@ -25,7 +25,7 @@ Flow runs water into a lake.
 Flow sends water to a sea.
 Flow moves water down a river to a sea.
 
-[user]What is flow for?
+[user]What does flow give?
 [Ninereeds]This is flow.
 Flow brings water from one place.
 Flow moves water to a new place.

@@ -7,14 +7,14 @@ A pump is made of metal.
 A pump is a machine.
 A pump is a machine with a handle a tube and a spout.
 
-[user]Where is a pump?
+[user]Where can you find a pump?
 [Ninereeds]This is a pump.
 A pump is in a yard.
 A pump is at a gas station.
 A pump is in a well.
 A pump is in a basement.
 A pump is on a farm.
-A pump is in a yard at a gas station or on a farm.
+A pump is in a yard at a gas station and on a farm.
 
 [user]What does a pump do?
 [Ninereeds]This is a pump.
@@ -25,7 +25,7 @@ A pump pulls liquid.
 A pump makes things flow.
 A pump moves water and air and makes things flow.
 
-[user]What is a pump for?
+[user]What does a pump give?
 [Ninereeds]This is a pump.
 A pump is for water.
 A pump is for air.

@@ -7,7 +7,7 @@ Evolution is how life forms change.
 Evolution is a process.
 Evolution is a slow process that makes living things change over time.
 
-[user]Where is evolution?
+[user]Where can you find evolution?
 [Ninereeds]This is evolution.
 Evolution is in life forms.
 Evolution is in animals.
@@ -25,7 +25,7 @@ Evolution creates new types of life.
 Evolution makes life diverse.
 Evolution changes bodies and behaviors to help living things live better.
 
-[user]What is evolution for?
+[user]What does evolution give?
 [Ninereeds]This is evolution.
 Evolution is for adaptation.
 Evolution is for survival.

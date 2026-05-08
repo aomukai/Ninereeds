@@ -5,7 +5,7 @@ Stop is to cease action.
 Stop is to bring to a halt.
 Stop is to discontinue.
 Stop is to finish.
-Stop is to end motion or action.
+Stop is to end motion and action.
 
 [user]Where does stop appear?
 [Ninereeds]This is stop.
@@ -25,7 +25,7 @@ Stop signals completion.
 Stop creates a pause.
 Stop prevents movement and ends activity.
 
-[user]What is stop for?
+[user]What does stop give?
 [Ninereeds]This is stop.
 Stop is for safety.
 Stop is for rest.

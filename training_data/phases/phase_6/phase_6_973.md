@@ -7,7 +7,7 @@ Identity is a unique nature.
 Identity is a recognized character.
 Identity is who a person is and what a thing is.
 
-[user]Where is identity?
+[user]Where can you find identity?
 [Ninereeds]This is identity.
 Identity is in a person's name.
 Identity is in a group.
@@ -25,7 +25,7 @@ Identity shapes actions.
 Identity defines existence.
 Identity tells a person apart and creates belonging.
 
-[user]What is identity for?
+[user]What does identity give?
 [Ninereeds]This is identity.
 Identity is for knowing who.
 Identity is for understanding self.

@@ -7,7 +7,7 @@ An axe has a sharp edge.
 An axe is heavy.
 An axe is a heavy tool with a long handle and a sharp metal blade.
 
-[user]Where is an axe?
+[user]Where can you find an axe?
 [Ninereeds]This is an axe.
 An axe is in a shed.
 An axe is on a workbench.

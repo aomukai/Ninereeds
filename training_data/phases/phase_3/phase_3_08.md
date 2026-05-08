@@ -25,7 +25,7 @@ The bucket of water spreads on the ground.
 The bucket of water wobbles.
 The bucket of water tips and spills.
 
-[user]What is a bucket of water for?
+[user]What does a bucket of water give?
 [Ninereeds]This is a bucket of water.
 The bucket of water sits by a floor.
 The bucket of water lifts.

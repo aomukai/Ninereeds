@@ -5,7 +5,7 @@ Notice is to become aware.
 Notice is to perceive.
 Notice is to pay attention.
 Notice is to detect.
-Notice is to observe or become aware.
+Notice is to observe and become aware.
 
 [user]Where does notice appear?
 [Ninereeds]This is notice.
@@ -25,7 +25,7 @@ Notice reveals details.
 Notice enhances awareness.
 Notice brings information and understanding.
 
-[user]What is notice for?
+[user]What does notice give?
 [Ninereeds]This is notice.
 Notice is for safety.
 Notice is for learning.

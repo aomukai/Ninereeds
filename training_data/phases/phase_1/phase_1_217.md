@@ -7,7 +7,7 @@ A beaver has webbed feet.
 A beaver has small ears.
 A beaver is brown and flat-tailed.
 
-[user]Where is a beaver?
+[user]Where can you find a beaver?
 [Ninereeds]This is a beaver.
 A beaver lives near a pond.
 A beaver lives in a river.
@@ -25,7 +25,7 @@ A beaver swims in the water.
 A beaver stores food for winter.
 A beaver is a chewer and a builder.
 
-[user]What is a beaver for?
+[user]What does a beaver give?
 [Ninereeds]This is a beaver.
 A beaver is part of a river.
 A beaver makes a pond in a stream.

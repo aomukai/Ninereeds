@@ -7,7 +7,7 @@ A fern is a plant on a forest floor.
 A fern has spores on a frond.
 A fern has fronds with curled tips and green leaves.
 
-[user]Where is a fern?
+[user]Where can you find a fern?
 [Ninereeds]This is a fern.
 A fern is on a forest floor under trees.
 A fern is near a stream in damp soil.
@@ -25,7 +25,7 @@ A fern stays green all year long.
 A fern reaches up toward the light.
 A fern uncurls new fronds and spreads spores in shade.
 
-[user]What is a fern for?
+[user]What does a fern give?
 [Ninereeds]This is a fern.
 A fern is for a garden and a forest.
 A fern is for decoration in a home.

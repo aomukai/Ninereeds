@@ -5,7 +5,7 @@ save can be in a game.
 save can be in a bank or jar.
 save means an act that keeps a thing safe or for later.
 
-[user]Where is save?
+[user]Where can you find save?
 [Ninereeds]save is here.
 save can be in a game.
 save can be in a bank or jar.
@@ -14,7 +14,7 @@ save can be in a game.
 
 [user]What does save do?
 [Ninereeds]save is here.
-save can keep food or money for later.
+save can keep food and money for later.
 save can stop loss in a hard time.
 save can hold work in a file.
 save can keep food or money for later.

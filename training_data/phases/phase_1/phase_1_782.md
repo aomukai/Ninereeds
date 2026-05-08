@@ -7,7 +7,7 @@ A piece can be square.
 A piece is a part of a whole.
 A piece is small and flat.
 
-[user]Where is a piece?
+[user]Where can you find a piece?
 [Ninereeds]This is a piece.
 A piece is on a table.
 A piece is on the floor.
@@ -25,7 +25,7 @@ A piece joins a group.
 A piece completes a set.
 A piece is fitting and filling.
 
-[user]What is a piece for?
+[user]What does a piece give?
 [Ninereeds]This is a piece.
 A piece is part of a puzzle.
 A piece is part of a game.

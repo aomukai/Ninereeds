@@ -25,7 +25,7 @@ An attic keeps a house warm.
 An attic keeps a house cool.
 An attic stores old things and helps keep a house warm or cool.
 
-[user]What is an attic for?
+[user]What does an attic give?
 [Ninereeds]This is an attic.
 An attic is for storage.
 An attic is for keeping old things.

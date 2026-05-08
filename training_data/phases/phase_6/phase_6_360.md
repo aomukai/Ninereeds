@@ -5,7 +5,7 @@ weather can be over land or sea.
 weather can be on a map or screen.
 weather is the state of sky air and rain.
 
-[user]Where is weather?
+[user]Where can you find weather?
 [Ninereeds]weather is here.
 weather can be over land or sea.
 weather can be on a map or screen.

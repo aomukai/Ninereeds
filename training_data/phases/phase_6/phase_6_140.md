@@ -5,7 +5,7 @@ reply can be in a chat.
 reply can be on a page.
 reply means an answer in word or writing.
 
-[user]Where is reply?
+[user]Where can you find reply?
 [Ninereeds]reply is here.
 reply can be in a chat.
 reply can be on a page.

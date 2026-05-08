@@ -7,7 +7,7 @@ A gym has people working out.
 A gym has mirrors.
 A gym is a place with machines.
 
-[user]Where is a gym?
+[user]Where can you find a gym?
 [Ninereeds]This is a gym.
 A gym is in a building.
 A gym is in a town.
@@ -25,7 +25,7 @@ A gym helps people move.
 A gym helps people run.
 A gym helps people exercise and get strong.
 
-[user]What is a gym used for?
+[user]What does a gym give?
 [Ninereeds]This is a gym.
 A gym is for exercise.
 A gym is for getting strong.

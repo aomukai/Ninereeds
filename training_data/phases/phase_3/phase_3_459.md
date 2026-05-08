@@ -5,16 +5,16 @@ A print is a picture on a page.
 A print is a word on a sign.
 A print is a design on a shirt.
 A print is a stamp on a document.
-A print is a mark, picture, or design on paper.
+A print is a mark, picture, and design on paper.
 
-[user]Where is a print made?
+[user]Where can you find a print made?
 [Ninereeds]This is a print.
 A print is on a piece of paper.
 A print is on a fabric cloth.
 A print is on a cardboard box.
 A print is on a plastic bag.
 A print is on a wood surface.
-A print is on paper, fabric, or cardboard.
+A print is on paper, fabric, and cardboard.
 
 [user]What does a print do?
 [Ninereeds]This is a print.
@@ -23,9 +23,9 @@ A print shows a picture to see.
 A print shows a number to count.
 A print shows a name to identify.
 A print shows a map to follow.
-A print shows a word, picture, or number.
+A print shows a word, picture, and number.
 
-[user]What is a print used for?
+[user]What does a print give?
 [Ninereeds]This is a print.
 A print copies a photo for a frame.
 A print makes a poster for a wall.

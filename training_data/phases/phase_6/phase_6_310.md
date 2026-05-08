@@ -5,7 +5,7 @@ test is common in education.
 test shows skill level.
 test means a measure of knowledge.
 
-[user]Where is test?
+[user]Where can you find test?
 [Ninereeds]test is here.
 test is on a sheet of paper.
 test is in a classroom.

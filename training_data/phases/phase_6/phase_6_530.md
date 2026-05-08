@@ -5,7 +5,7 @@ Claim is a demand.
 Claim is a declaration.
 Claim is a statement of right.
 Claim is a request.
-Claim is an assertion or demand.
+Claim is an assertion and demand.
 
 [user]Where does claim appear?
 [Ninereeds]This is a claim.
@@ -25,7 +25,7 @@ Claim demands attention.
 Claim sets a position.
 Claim presents a viewpoint and seeks recognition.
 
-[user]What is claim for?
+[user]What does claim give?
 [Ninereeds]This is a claim.
 Claim is for debate.
 Claim is for justice.

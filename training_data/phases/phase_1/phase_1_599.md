@@ -7,7 +7,7 @@ A kid has arms.
 A kid has a face.
 A kid is small and young.
 
-[user]Where is a kid found?
+[user]Where can you find a kid?
 [Ninereeds]This is a kid.
 A kid is in a home.
 A kid is in a school.
@@ -25,7 +25,7 @@ A kid laughs.
 A kid sleeps.
 A kid is running and jumping.
 
-[user]What is a kid used for?
+[user]What does a kid give?
 [Ninereeds]This is a kid.
 A kid learns lessons.
 A kid helps at home.

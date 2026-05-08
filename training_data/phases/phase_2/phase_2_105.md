@@ -25,7 +25,7 @@ Have denotes possession.
 Have marks a state of holding.
 Have is connection and possession.
 
-[user]What is have for?
+[user]What does have give?
 [Ninereeds]This is have.
 Have is for showing ownership.
 Have is for indicating possession.

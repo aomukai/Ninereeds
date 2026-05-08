@@ -25,7 +25,7 @@ A predator catches meals.
 A predator eats meat.
 A predator hunts animals and eats meat.
 
-[user]What is a predator for?
+[user]What does a predator give?
 [Ninereeds]This is a predator.
 A predator controls prey.
 A predator balances nature.

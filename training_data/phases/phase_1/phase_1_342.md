@@ -7,7 +7,7 @@ A clown has a smile.
 A clown wears paint on a face.
 A clown is colorful and funny.
 
-[user]Where is a clown?
+[user]Where can you find a clown?
 [Ninereeds]This is a clown.
 A clown is at a party.
 A clown is in a tent.
@@ -25,7 +25,7 @@ A clown tells a joke.
 A clown walks on big feet.
 A clown is a joker and a juggler.
 
-[user]What is a clown used for?
+[user]What does a clown give?
 [Ninereeds]This is a clown.
 A clown cheers a sad child at a party.
 A clown amuses a crowd.

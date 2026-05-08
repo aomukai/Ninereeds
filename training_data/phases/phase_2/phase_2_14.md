@@ -7,7 +7,7 @@ The birdhouse is small.
 The birdhouse has a perch.
 The birdhouse is small and wooden.
 
-[user]Where is a birdhouse?
+[user]Where can you find a birdhouse?
 [Ninereeds]This is a birdhouse.
 The birdhouse is on a tree.
 The birdhouse is on a pole.
@@ -25,7 +25,7 @@ The birdhouse can be fixed.
 The birdhouse protects from weather.
 The birdhouse is crackable and fixable.
 
-[user]What is a birdhouse for?
+[user]What does a birdhouse give?
 [Ninereeds]This is a birdhouse.
 The birdhouse holds birds.
 The birdhouse shelters eggs.

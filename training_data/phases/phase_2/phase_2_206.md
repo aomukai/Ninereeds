@@ -25,7 +25,7 @@ Climate shapes landscapes.
 Climate influences activities.
 Climate is ecological and social.
 
-[user]What is climate for?
+[user]What does climate give?
 [Ninereeds]This is climate.
 Climate is for growing crops.
 Climate is for living.

@@ -7,7 +7,7 @@ Soup is hot.
 Soup is thin.
 Soup is hot and thin.
 
-[user]Where is soup found?
+[user]Where can you find soup?
 [Ninereeds]This is soup.
 Soup is in a pot.
 Soup is in a bowl.
@@ -25,7 +25,7 @@ Soup is soaking.
 Soup is cooling.
 Soup is warming and filling.
 
-[user]What is soup for?
+[user]What does soup give?
 [Ninereeds]This is soup.
 Soup is for a meal.
 Soup is for a cold day.

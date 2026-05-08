@@ -7,14 +7,14 @@ Lick is a taste motion.
 Lick is a lap.
 Lick is a touch and a lap.
 
-[user]Where is lick?
+[user]Where can you find lick?
 [Ninereeds]This is lick.
 Lick is on a lollipop.
 Lick is on an ice cream.
 Lick is on a paw.
 Lick is at a bowl.
 Lick is on a cheek.
-Lick is on an ice cream or a lollipop.
+Lick is on an ice cream and a lollipop.
 
 [user]What does lick do?
 [Ninereeds]This is lick.
@@ -25,7 +25,7 @@ Lick samples flavor.
 Lick moves a tongue.
 Lick tastes food and cleans a spot.
 
-[user]What is lick for?
+[user]What does lick give?
 [Ninereeds]This is lick.
 Lick enjoys a sweet treat.
 Lick cleans a dirty paw.

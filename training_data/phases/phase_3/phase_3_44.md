@@ -1,31 +1,35 @@
 [user]What is wandering?
-[Ninereeds]Wandering is Moving without a fixed route.
-[Ninereeds]Wandering is Roaming through streets or fields.
-[Ninereeds]Wandering is Stepping from place to place.
-[Ninereeds]Wandering is Traveling with no clear goal.
-[Ninereeds]Wandering is Drifting across space.
-[Ninereeds]Wandering is Roaming and drifting.
+[Ninereeds]This is wandering.
+Wandering is moving with a fixed route.
+Wandering is roaming through streets or fields.
+Wandering is stepping from place to place.
+Wandering is traveling with a clear goal.
+Wandering is drifting across space.
+Wandering is roaming and drifting.
 
 [user]When does wandering happen?
-[Ninereeds]Wandering happens when A road has no strict path.
-[Ninereeds]Wandering happens when A person has time and curiosity.
-[Ninereeds]Wandering happens when A field, town, or hall invites movement.
-[Ninereeds]Wandering happens when A search needs loose motion.
-[Ninereeds]Wandering happens when A mind or body seeks space.
-[Ninereeds]Wandering happens when Pathless movement and travel continue.
+[Ninereeds]This is wandering.
+Wandering happens when a road lacks strict path.
+Wandering happens when a person has time and curiosity.
+Wandering happens when a field, town, or hall invites movement.
+Wandering happens when a search needs loose motion.
+Wandering happens when a mind or body seeks space.
+Wandering happens when pathless movement and travel continue.
 
 [user]What does wandering bring?
-[Ninereeds]Wandering brings A wide view.
-[Ninereeds]Wandering brings New sights.
-[Ninereeds]Wandering brings Loose movement.
-[Ninereeds]Wandering brings Surprise turns.
-[Ninereeds]Wandering brings A sense of travel.
-[Ninereeds]Wandering brings Freedom and curiosity.
+[Ninereeds]This is wandering.
+Wandering brings a wide view.
+Wandering brings new sights.
+Wandering brings loose movement.
+Wandering brings surprise turns.
+Wandering brings a sense of travel.
+Wandering brings freedom and curiosity.
 
-[user]What is wandering for?
-[Ninereeds]Wandering is for Exploring a place.
-[Ninereeds]Wandering is for Giving a mind space.
-[Ninereeds]Wandering is for Reaching many corners.
-[Ninereeds]Wandering is for Passing time in motion.
-[Ninereeds]Wandering is for Seeking new sights.
-[Ninereeds]Wandering is for Exploration and freedom.
+[user]What does wandering give?
+[Ninereeds]This is wandering.
+Wandering is for exploring a place.
+Wandering is for giving a mind space.
+Wandering is for reaching many corners.
+Wandering is for passing time in motion.
+Wandering is for seeking new sights.
+Wandering is for exploration and freedom.

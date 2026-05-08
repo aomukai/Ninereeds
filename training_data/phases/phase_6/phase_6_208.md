@@ -1,31 +1,35 @@
-[user]What is sitting?
-[Ninereeds]Sitting is resting on a seat with the body upright.
-Sitting is a calm body position.
-Sitting is common during meals and lessons.
-Sitting is useful for quiet reading and desk work.
-Sitting is a steady posture for pause and care.
-Sitting is rest and support.
+[user]What does sitting look like?
+[Ninereeds]This is sitting.
+Sitting is resting on a seat.
+Sitting is a still body.
+Sitting needs a chair or a bench.
+Sitting keeps the body calm.
+Sitting helps focus and attention.
+Sitting is resting on a seat and staying still.
 
-[user]When does sitting happen?
-[Ninereeds]Sitting happens when a chair, bench, or floor support is used.
-Sitting happens during meals and class time.
-Sitting happens in homes, offices, and waiting rooms.
-Sitting happens while reading, talking, or writing.
-Sitting happens after long walking or standing.
-Sitting happens with support and stillness.
+[user]Where does sitting appear?
+[Ninereeds]This is sitting.
+Sitting is in a classroom.
+Sitting is at a table.
+Sitting is in a car.
+Sitting is on a park bench.
+Sitting is in a waiting room.
+Sitting is in a classroom and at a table.
 
-[user]What does sitting bring?
-[Ninereeds]Sitting brings rest to the legs.
-Sitting brings balance for quiet tasks.
-Sitting brings a stable place for work.
-Sitting brings calm during a pause.
-Sitting brings comfort in shared spaces.
-Sitting brings rest and stability.
+[user]What does sitting do?
+[Ninereeds]This is sitting.
+Sitting brings rest to the body.
+Sitting brings focus to a task.
+Sitting brings calm to the mind.
+Sitting brings ease to the legs.
+Sitting brings a steady position.
+Sitting brings rest and calm.
 
-[user]What is sitting for?
-[Ninereeds]Sitting is for resting the body.
-Sitting is for eating, reading, and talking.
-Sitting is for steady desk work.
-Sitting is for waiting in a calm way.
-Sitting is for quiet moments and care.
-Sitting is for rest and attention.
+[user]What does sitting give?
+[Ninereeds]This is sitting.
+Sitting is for reading a book.
+Sitting is for eating a meal.
+Sitting is for listening in class.
+Sitting is for resting the body.
+Sitting is for working at a desk.
+Sitting is for reading and resting.

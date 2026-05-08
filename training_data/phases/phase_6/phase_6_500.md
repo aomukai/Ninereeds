@@ -2,7 +2,7 @@
 [Ninereeds]Assuming is taking a starting belief.
 Assuming is setting a provisional truth before full evidence arrives.
 Assuming is accepting a claim as a working position.
-Assuming is placing a stake where certainty has not yet reached.
+Assuming is placing a stake where certainty has yet reached.
 Assuming is building thought on a foundation still under review.
 Assuming is guess and starting point.
 
@@ -22,7 +22,7 @@ Assuming brings a scaffold that later evidence may strengthen or tear down.
 Assuming brings the courage to proceed without final certainty.
 Assuming brings guess and starting point.
 
-[user]What is assuming for?
+[user]What does assuming give?
 [Ninereeds]Assuming is for starting thought before proof.
 Assuming is for giving the mind a temporary foothold.
 Assuming is for moving forward when waiting costs more than guessing.

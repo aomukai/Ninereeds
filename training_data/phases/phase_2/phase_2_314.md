@@ -7,7 +7,7 @@ Recess is in the yard
 Recess is a free period
 Recess is a short break for games
 
-[user]Where is recess?
+[user]Where can you find recess?
 [Ninereeds]This is recess.
 Recess is at a school
 Recess is in the playground
@@ -25,7 +25,7 @@ Recess frees the students
 Recess fills the yard
 Recess lets children play and rest
 
-[user]What is recess for?
+[user]What does recess give?
 [Ninereeds]This is recess.
 Recess is for play
 Recess is for breaks

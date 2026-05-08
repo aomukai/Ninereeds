@@ -7,7 +7,7 @@ A captain has a badge.
 A captain gives orders.
 A captain is a tall person in a uniform.
 
-[user]Where is a captain?
+[user]Where can you find a captain?
 [Ninereeds]This is a captain.
 A captain is on a ship.
 A captain is in a cockpit.
@@ -25,7 +25,7 @@ A captain makes decisions.
 A captain keeps everyone safe.
 A captain steers a ship and leads a team.
 
-[user]What is a captain for?
+[user]What does a captain give?
 [Ninereeds]This is a captain.
 A captain is for leading.
 A captain is for steering.

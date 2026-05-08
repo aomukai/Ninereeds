@@ -7,7 +7,7 @@ A highway is made of asphalt.
 A highway is smooth.
 A highway is a smooth, wide road with many lanes.
 
-[user]Where is a highway?
+[user]Where can you find a highway?
 [Ninereeds]This is a highway.
 A highway is on land.
 A highway connects cities.
@@ -25,7 +25,7 @@ A highway moves traffic fast.
 A highway has signs.
 A highway carries cars, trucks, and buses.
 
-[user]What is a highway used for?
+[user]What does a highway give?
 [Ninereeds]This is a highway.
 A highway is used for travel.
 A highway is used for long trips.

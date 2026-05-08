@@ -7,7 +7,7 @@ Kindness is a helpfulness.
 Kindness is a gentle nature.
 Kindness is a quality and a warmth.
 
-[user]Where is kindness found?
+[user]Where can you find kindness?
 [Ninereeds]This is kindness.
 Kindness is found in people.
 Kindness is found in actions.
@@ -25,7 +25,7 @@ Kindness builds trust.
 Kindness fosters goodwill.
 Kindness spreads joy and eases suffering.
 
-[user]What is kindness for?
+[user]What does kindness give?
 [Ninereeds]This is kindness.
 Kindness is for building relationships.
 Kindness is for promoting harmony.

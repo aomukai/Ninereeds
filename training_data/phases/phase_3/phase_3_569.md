@@ -6,7 +6,7 @@ A volcano has steep sides.
 A volcano is dark gray.
 A volcano is tall with a hole at the top.
 
-[user]Where is a volcano?
+[user]Where can you find a volcano?
 [Ninereeds]This is a volcano.
 A volcano is on an island.
 A volcano is near the ocean.
@@ -24,7 +24,7 @@ A volcano pushes rock from the ground.
 A volcano makes new land.
 A volcano erupts hot lava and makes new land.
 
-[user]What is a volcano for?
+[user]What does a volcano give?
 [Ninereeds]This is a volcano.
 A volcano makes new ground.
 A volcano gives heat to the earth.

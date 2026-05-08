@@ -7,7 +7,7 @@ A sheep has four legs.
 A sheep has a face.
 A sheep is a fluffy white animal with wool and four legs.
 
-[user]Where is a sheep?
+[user]Where can you find a sheep?
 [Ninereeds]This is a sheep.
 A sheep is on a farm.
 A sheep is in a field.
@@ -25,7 +25,7 @@ A sheep stays in a flock.
 A sheep follows a shepherd.
 A sheep eats grass and makes wool.
 
-[user]What is a sheep for?
+[user]What does a sheep give?
 [Ninereeds]This is a sheep.
 A sheep is for wool.
 A sheep is for meat.

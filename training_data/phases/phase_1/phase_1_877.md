@@ -7,7 +7,7 @@ A rose has a stem.
 A rose has thorns on the stem.
 A rose is a red flower with petals and thorns.
 
-[user]Where is a rose?
+[user]Where can you find a rose?
 [Ninereeds]This is a rose.
 A rose is in a garden.
 A rose is in a vase.
@@ -25,7 +25,7 @@ A rose smells sweet.
 A rose attracts bees.
 A rose blooms in spring and smells sweet.
 
-[user]What is a rose for?
+[user]What does a rose give?
 [Ninereeds]This is a rose.
 A rose is for giving as a gift.
 A rose is for decorating a room.

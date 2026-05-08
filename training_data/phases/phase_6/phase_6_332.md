@@ -5,7 +5,7 @@ tough can be in rope or hide.
 tough can be on a boot or glove.
 tough is hard to bend or break.
 
-[user]Where is tough?
+[user]Where can you find tough?
 [Ninereeds]tough is here.
 tough can be in rope or hide.
 tough can be on a boot or glove.

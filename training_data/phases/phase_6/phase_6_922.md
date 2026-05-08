@@ -5,9 +5,9 @@ A statistic is a fact.
 A statistic is data.
 A statistic is a count of something.
 A statistic is an amount of information.
-A statistic is a number or fact from data.
+A statistic is a number and fact from data.
 
-[user]Where is a statistic found?
+[user]Where can you find a statistic?
 [Ninereeds]This is a statistic.
 A statistic is in a book.
 A statistic is in a graph.
@@ -25,7 +25,7 @@ A statistic helps to understand.
 A statistic helps to compare.
 A statistic is a number to show information.
 
-[user]What is a statistic for?
+[user]What does a statistic give?
 [Ninereeds]This is a statistic.
 A statistic is for making decisions.
 A statistic is for understanding problems.

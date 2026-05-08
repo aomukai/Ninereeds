@@ -22,7 +22,7 @@ Visiting brings care to family or friends.
 Visiting brings fresh knowledge of a place.
 Visiting brings contact and knowledge.
 
-[user]what is visiting for?
+[user]what does visiting give?
 [Ninereeds]Visiting is for meeting others.
 Visiting is for seeing a place directly.
 Visiting is for sharing time in person.

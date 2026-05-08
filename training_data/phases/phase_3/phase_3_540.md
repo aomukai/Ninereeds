@@ -25,7 +25,7 @@ A tickle is wiggle-causing.
 A tickle is funny.
 A tickle is giggle-causing and laugh-causing.
 
-[user]What is a tickle for?
+[user]What does a tickle give?
 [Ninereeds]This is a tickle.
 A tickle is fun.
 A tickle is play.

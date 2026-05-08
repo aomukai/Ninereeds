@@ -7,7 +7,7 @@ An aunt has a warm smile.
 An aunt has a gentle voice.
 An aunt is a kind woman in a family with a warm smile.
 
-[user]Where is an aunt?
+[user]Where can you find an aunt?
 [Ninereeds]This is an aunt.
 An aunt is at a home.
 An aunt is at a party.

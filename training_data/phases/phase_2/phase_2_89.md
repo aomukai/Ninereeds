@@ -7,7 +7,7 @@ A great-grandmother smiles kindly.
 A great-grandmother is a loving person.
 A great-grandmother is an old and loving woman.
 
-[user]Where is a great-grandmother?
+[user]Where can you find a great-grandmother?
 [Ninereeds]This is a great-grandmother.
 A great-grandmother is in a family.
 A great-grandmother is in a home.
@@ -25,7 +25,7 @@ A great-grandmother loves family.
 A great-grandmother teaches traditions.
 A great-grandmother tells stories and shares wisdom.
 
-[user]What is a great-grandmother for?
+[user]What does a great-grandmother give?
 [Ninereeds]This is a great-grandmother.
 A great-grandmother is for love.
 A great-grandmother is for family history.

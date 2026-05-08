@@ -25,7 +25,7 @@ Hurt sends a signal to a brain.
 Hurt warns of danger.
 Hurt stings and warns of danger.
 
-[user]What is hurt for?
+[user]What does hurt give?
 [Ninereeds]This is hurt.
 Hurt tells of a problem.
 Hurt signals a wound.

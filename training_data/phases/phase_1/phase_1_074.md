@@ -7,7 +7,7 @@ The book has words or pictures.
 A book is bound together.
 A book is a set of pages bound together.
 
-[user]Where is a book?
+[user]Where can you find a book?
 [Ninereeds]This is a book.
 The book is on a table.
 The book is on a shelf.

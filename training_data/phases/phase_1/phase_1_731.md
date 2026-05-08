@@ -4,10 +4,10 @@ An odor is a smell.
 An odor is invisible.
 An odor comes from things.
 An odor moves through air.
-An odor has no color.
+An odor lacks color.
 An odor is an invisible smell that comes from things.
 
-[user]Where is an odor?
+[user]Where can you find an odor?
 [Ninereeds]This is an odor.
 An odor is in a room.
 An odor is in a kitchen.
@@ -25,7 +25,7 @@ An odor makes a person know something is near.
 An odor tells a nose that something is nearby.
 An odor is a smell that fills space and reaches the nose.
 
-[user]What is an odor for?
+[user]What does an odor give?
 [Ninereeds]This is an odor.
 An odor is for sensing.
 An odor is for telling good from bad.

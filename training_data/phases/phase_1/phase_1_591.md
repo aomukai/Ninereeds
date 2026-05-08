@@ -7,7 +7,7 @@ A joint is a place for movement.
 A joint has cartilage between bones.
 A joint is a bend and a hinge.
 
-[user]Where is a joint?
+[user]Where can you find a joint?
 [Ninereeds]This is a joint.
 A joint is in a knee.
 A joint is at an elbow.

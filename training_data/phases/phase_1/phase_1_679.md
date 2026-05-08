@@ -7,7 +7,7 @@ A moth has antennae on the head.
 A moth is a flying insect.
 A moth is a flying insect and a fuzzy animal.
 
-[user]Where is a moth?
+[user]Where can you find a moth?
 [Ninereeds]This is a moth.
 A moth is near a light.
 A moth is in a closet.
@@ -25,7 +25,7 @@ A moth drinks nectar from a flower.
 A moth rests on a wall in the day.
 A moth is a night flier and a cloth eater.
 
-[user]What is a moth for?
+[user]What does a moth give?
 [Ninereeds]This is a moth.
 A moth is food for bats.
 A moth helps plants make seeds.

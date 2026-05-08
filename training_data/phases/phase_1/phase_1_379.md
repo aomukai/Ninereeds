@@ -7,7 +7,7 @@ A cupcake is round and soft.
 A cupcake has sprinkles on the frosting.
 A cupcake is a small cake with frosting.
 
-[user]Where is a cupcake?
+[user]Where can you find a cupcake?
 [Ninereeds]This is a cupcake.
 A cupcake sits on a plate.
 A cupcake rests in a bakery case.
@@ -25,7 +25,7 @@ A cupcake cools on a rack.
 A cupcake stays soft and sweet.
 A cupcake stays fresh and soft on a plate.
 
-[user]What is a cupcake for?
+[user]What does a cupcake give?
 [Ninereeds]This is a cupcake.
 A cupcake is for a party.
 A cupcake is for a birthday.

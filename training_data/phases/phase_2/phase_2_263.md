@@ -7,14 +7,14 @@ A hutch has a door.
 A hutch has a tray.
 A hutch is a wooden cage with wire sides and a tray.
 
-[user]Where is a hutch?
+[user]Where can you find a hutch?
 [Ninereeds]This is a hutch.
 A hutch is in a garden.
 A hutch is in a yard.
 A hutch is in a barn.
 A hutch is on the ground.
 A hutch is in a shed.
-A hutch is in a garden or yard on the ground.
+A hutch is in a garden and yard on the ground.
 
 [user]What does a hutch do?
 [Ninereeds]This is a hutch.
@@ -25,7 +25,7 @@ A hutch provides shelter for rabbits.
 A hutch gives rabbits a home.
 A hutch houses and protects rabbits.
 
-[user]What is a hutch for?
+[user]What does a hutch give?
 [Ninereeds]This is a hutch.
 A hutch is for rabbits.
 A hutch is for small animals.

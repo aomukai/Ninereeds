@@ -5,16 +5,16 @@ Strip is to remove a layer.
 Strip is to pull away.
 Strip is to make bare.
 Strip is to uncover what is below.
-Strip is to take off or remove.
+Strip is to take off and remove.
 
-[user]Where is strip?
+[user]Where can you find strip?
 [Ninereeds]This is strip.
 Strip is on a surface.
 Strip is on an object.
 Strip is on a plant.
 Strip is on an animal.
 Strip is on the outside of a thing.
-Strip is on a surface or an object.
+Strip is on a surface and an object.
 
 [user]What does strip do?
 [Ninereeds]This is strip.
@@ -25,11 +25,11 @@ Strip reveals what is underneath.
 Strip leaves a surface open.
 Strip uncovers and cleans a surface.
 
-[user]What is strip for?
+[user]What does strip give?
 [Ninereeds]This is strip.
 Strip is for cleaning.
 Strip is for preparing.
 Strip is for revealing.
 Strip is for changing.
 Strip is for uncovering.
-Strip is for cleaning or preparing.
+Strip is for cleaning and preparing.

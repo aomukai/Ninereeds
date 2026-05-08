@@ -7,7 +7,7 @@ A rack is made of wood.
 A rack holds things.
 A rack is made of metal and wood.
 
-[user]Where is a rack?
+[user]Where can you find a rack?
 [Ninereeds]This is a rack.
 A rack is in a garage.
 A rack is in a kitchen.
@@ -25,7 +25,7 @@ A rack holds wine.
 A rack organizes things.
 A rack is for holding and for organizing.
 
-[user]What is a rack for?
+[user]What does a rack give?
 [Ninereeds]This is a rack.
 A rack is for storage.
 A rack is for organizing.

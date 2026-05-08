@@ -5,7 +5,7 @@ want can be in a heart or mind.
 want can be at a shop or table.
 want is a strong wish for a thing or act.
 
-[user]Where is want?
+[user]Where can you find want?
 [Ninereeds]want is here.
 want can be in a heart or mind.
 want can be at a shop or table.

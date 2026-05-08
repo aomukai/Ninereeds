@@ -25,7 +25,7 @@ Replication spreads information.
 Replication duplicates things.
 Replication creates new items and makes identical copies.
 
-[user]What is replication for?
+[user]What does replication give?
 [Ninereeds]This is a replication.
 Replication is for reproduction.
 Replication is for growth.

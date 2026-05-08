@@ -7,7 +7,7 @@ sounded places hearing in the past.
 sounded refers to noise that happened.
 sounded is a past marker and a verb form.
 
-[user]Where is sounded?
+[user]Where can you find sounded?
 [Ninereeds]sounded is here.
 sounded can be in a story line or music note.
 sounded can be on a page about a past noise.

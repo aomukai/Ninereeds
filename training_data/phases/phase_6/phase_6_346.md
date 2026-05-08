@@ -5,7 +5,7 @@ verdict can be in a court or news report.
 verdict can be on a page or screen.
 verdict is a final answer after a case.
 
-[user]Where is verdict?
+[user]Where can you find verdict?
 [Ninereeds]verdict is here.
 verdict can be in a court or news report.
 verdict can be on a page or screen.
@@ -15,7 +15,7 @@ verdict can be in a court or news report.
 [user]What does verdict do?
 [Ninereeds]verdict is here.
 verdict can end a case.
-verdict can state guilt or no guilt.
+verdict can state guilt or guilt.
 verdict can guide the next court step.
 verdict can end a case.
 

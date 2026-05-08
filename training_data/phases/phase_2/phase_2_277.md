@@ -25,7 +25,7 @@ A miller is a handler of sacks.
 A miller is a checker of quality.
 A miller is a grinder and a maker.
 
-[user]What is a miller for?
+[user]What does a miller give?
 [Ninereeds]This is a miller.
 A miller is for making flour.
 A miller is for operating mills.

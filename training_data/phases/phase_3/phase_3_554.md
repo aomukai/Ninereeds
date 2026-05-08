@@ -25,7 +25,7 @@ A trip finds new things.
 A trip brings back stories.
 A trip moves from home and explores.
 
-[user]What is a trip for?
+[user]What does a trip give?
 [Ninereeds]This is a trip.
 A trip is for discovery.
 A trip is for fun.

@@ -5,7 +5,7 @@ wish can be for rain or sun.
 wish can live in a child or adult.
 wish is a strong want in a mind.
 
-[user]Where is wish?
+[user]Where can you find wish?
 [Ninereeds]wish is here.
 wish can be in a heart or mind.
 wish can be on a star night.

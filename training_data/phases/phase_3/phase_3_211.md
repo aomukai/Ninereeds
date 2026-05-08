@@ -10,7 +10,7 @@ Confusing is blur and doubt.
 [Ninereeds]Confusing happens when signs clash.
 Confusing happens when a message stays unclear.
 Confusing happens in crowded talk and mixed signals.
-Confusing happens when a plan gives no clear path.
+Confusing happens when a plan lacks clear path.
 Confusing happens when a choice has too many close options.
 Confusing happens when clash meets blur.
 
@@ -22,7 +22,7 @@ Confusing brings a need for a clearer sign.
 Confusing brings a foggy mind.
 Confusing brings doubt and delay.
 
-[user]What is confusing for?
+[user]What does confusing give?
 [Ninereeds]Confusing is for showing a tangled state.
 Confusing is for marking a need for clarity.
 Confusing is for pointing to a mixed message.

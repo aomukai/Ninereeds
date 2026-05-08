@@ -7,7 +7,7 @@ Conflict is an opposition.
 Conflict is a friction.
 Conflict is a disagreement and a struggle.
 
-[user]Where is conflict found?
+[user]Where can you find conflict?
 [Ninereeds]This is conflict.
 Conflict is found in stories.
 Conflict is found in relationships.
@@ -25,7 +25,7 @@ Conflict tests strength.
 Conflict drives a plot.
 Conflict creates tension and forces change.
 
-[user]What is conflict for?
+[user]What does conflict give?
 [Ninereeds]This is conflict.
 Conflict is for growth.
 Conflict is for resolution.

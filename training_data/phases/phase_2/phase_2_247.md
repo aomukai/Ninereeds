@@ -7,7 +7,7 @@ A hall has a ceiling.
 A hall has doors.
 A hall is a long room with doors.
 
-[user]Where is a hall?
+[user]Where can you find a hall?
 [Ninereeds]This is a hall.
 A hall is in a building.
 A hall is in a house.
@@ -25,7 +25,7 @@ A hall lets people pass.
 A hall makes a path.
 A hall connects rooms and lets people walk.
 
-[user]What is a hall used for?
+[user]What does a hall give?
 [Ninereeds]This is a hall.
 A hall is for walking.
 A hall is for going to rooms.

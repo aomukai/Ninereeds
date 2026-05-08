@@ -5,7 +5,7 @@ Proportion is a relative share.
 Proportion is a ratio.
 Proportion is a balanced relationship.
 Proportion is a harmonious relation.
-Proportion is a part to whole or relative share.
+Proportion is a part to whole and relative share.
 
 [user]Where does proportion appear?
 [Ninereeds]This is proportion.
@@ -25,7 +25,7 @@ Proportion ensures fairness.
 Proportion makes things aesthetically pleasing.
 Proportion creates balance and harmony.
 
-[user]What is proportion for?
+[user]What does proportion give?
 [Ninereeds]This is proportion.
 Proportion is for design.
 Proportion is for measurement.

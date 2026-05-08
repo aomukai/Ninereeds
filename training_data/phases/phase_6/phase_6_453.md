@@ -22,9 +22,9 @@ Imagining brings a starting point for art, story, and design.
 Imagining brings the raw material of invention.
 Imagining brings picture and creation.
 
-[user]What is imagining for?
+[user]What does imagining give?
 [Ninereeds]Imagining is for making inner pictures.
-Imagining is for seeing what has not yet taken form.
+Imagining is for seeing what has yet taken form.
 Imagining is for testing ideas before action begins.
 Imagining is for filling silence with colour and movement.
 Imagining is for giving the mind a canvas of its own.

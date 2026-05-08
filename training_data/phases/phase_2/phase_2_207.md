@@ -7,7 +7,7 @@ A clinic has rooms.
 A clinic has chairs.
 A clinic has rooms with chairs.
 
-[user]Where is a clinic?
+[user]Where can you find a clinic?
 [Ninereeds]This is a clinic.
 A clinic is in a town.
 A clinic is on a street.
@@ -25,7 +25,7 @@ A clinic has nurses.
 A clinic gives medicine.
 A clinic helps people get well.
 
-[user]What is a clinic used for?
+[user]What does a clinic give?
 [Ninereeds]This is a clinic.
 A clinic is used for health.
 A clinic is used for check-ups.

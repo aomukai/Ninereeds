@@ -25,7 +25,7 @@ Communication builds understanding.
 Communication connects.
 Communication shares ideas and builds understanding.
 
-[user]What is communication for?
+[user]What does communication give?
 [Ninereeds]This is communication.
 Communication is for sharing knowledge.
 Communication is for expressing needs.

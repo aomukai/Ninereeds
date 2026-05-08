@@ -14,7 +14,7 @@ An excuse is in a book.
 An excuse is in a thought.
 An excuse is in a mind.
 An excuse is in a conversation.
-An excuse is in a story or talk.
+An excuse is in a story and talk.
 
 [user]What does an excuse do?
 [Ninereeds]This is an excuse.
@@ -25,7 +25,7 @@ An excuse helps a person.
 An excuse tries to make a thing right.
 An excuse explains why a thing happened.
 
-[user]What is an excuse for?
+[user]What does an excuse give?
 [Ninereeds]This is an excuse.
 An excuse is for explaining.
 An excuse is for giving reasons.

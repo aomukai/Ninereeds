@@ -7,7 +7,7 @@ A cell has a wall.
 A cell has a center.
 A cell is small and round.
 
-[user]Where is a cell?
+[user]Where can you find a cell?
 [Ninereeds]This is a cell.
 A cell is in a body.
 A cell is in a plant.
@@ -25,7 +25,7 @@ A cell carries nutrients.
 A cell fights germs.
 A cell grows and repairs a body.
 
-[user]What is a cell for?
+[user]What does a cell give?
 [Ninereeds]This is a cell.
 A cell is for life.
 A cell is for growth.

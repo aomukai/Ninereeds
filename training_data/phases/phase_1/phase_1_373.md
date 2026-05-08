@@ -7,7 +7,7 @@ A crop has fruit or grain.
 A crop is green.
 A crop is a plant and green.
 
-[user]Where is a crop?
+[user]Where can you find a crop?
 [Ninereeds]This is a crop.
 A crop is in a field.
 A crop is on a farm.
@@ -25,7 +25,7 @@ A crop feeds an animal.
 A crop provides material for clothing.
 A crop is a food producer and a material provider.
 
-[user]What is a crop used for?
+[user]What does a crop give?
 [Ninereeds]This is a crop.
 A crop is for food.
 A crop is for animal feed.

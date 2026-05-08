@@ -7,7 +7,7 @@ Wink uses one eye.
 Wink opens and closes in a blink.
 Wink is a small and fast gesture.
 
-[user]Where is wink?
+[user]Where can you find wink?
 [Ninereeds]This is a wink.
 Wink is on a face.
 Wink is in a conversation.
@@ -25,7 +25,7 @@ Wink shares a joke without words.
 Wink passes a message fast.
 Wink sends a silent signal and shows a secret thought.
 
-[user]What is wink for?
+[user]What does wink give?
 [Ninereeds]This is a wink.
 Wink is for secret messages.
 Wink is for greeting from a distance.

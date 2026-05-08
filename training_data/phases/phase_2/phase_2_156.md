@@ -7,14 +7,14 @@ Parent-and-child is often together.
 Parent-and-child is a special pair.
 Parent-and-child is a grown-up and a young person.
 
-[user]Where is parent-and-child?
+[user]Where can you find parent-and-child?
 [Ninereeds]This is parent-and-child.
 Parent-and-child is in a home.
 Parent-and-child is in a park.
 Parent-and-child is in a book.
 Parent-and-child is in a story.
 Parent-and-child is in a family.
-Parent-and-child is in a home or a park.
+Parent-and-child is in a home and a park.
 
 [user]What does parent-and-child do?
 [Ninereeds]This is parent-and-child.
@@ -25,7 +25,7 @@ Parent-and-child cares for each other.
 Parent-and-child supports each other.
 Parent-and-child plays and learns together.
 
-[user]What is parent-and-child for?
+[user]What does parent-and-child give?
 [Ninereeds]This is parent-and-child.
 Parent-and-child is for nurturing.
 Parent-and-child is for guiding.

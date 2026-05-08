@@ -6,7 +6,7 @@ The farmhouse is made of wood or stone.
 The farmhouse has many rooms.
 A farmhouse is a house on a farm.
 
-[user]Where is a farmhouse?
+[user]Where can you find a farmhouse?
 [Ninereeds]This is a farmhouse.
 The farmhouse is on a farm.
 The farmhouse is near fields.

@@ -25,7 +25,7 @@ Behavior creates reactions.
 Behavior solves problems.
 Behavior shows intentions and communicates feelings.
 
-[user]What is behavior for?
+[user]What does behavior give?
 [Ninereeds]This is a behavior.
 Behavior is for survival.
 Behavior is for communication.

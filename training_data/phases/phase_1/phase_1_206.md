@@ -6,7 +6,7 @@ A basket has a curved handle.
 A basket is wide at the top.
 A basket is a woven container with a handle.
 
-[user]Where is a basket?
+[user]Where can you find a basket?
 [Ninereeds]This is a basket.
 A basket is on a table.
 A basket is on a kitchen counter.
@@ -24,7 +24,7 @@ A basket stores laundry in a room.
 A basket gathers flowers from a garden.
 A basket holds fruit and carries food.
 
-[user]What is a basket for?
+[user]What does a basket give?
 [Ninereeds]This is a basket.
 A basket is for collecting eggs from a hen.
 A basket is for carrying apples from a tree.

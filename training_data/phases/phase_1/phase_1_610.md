@@ -7,7 +7,7 @@ A ladybug has black spots.
 A ladybug has wings.
 A ladybug is a small round red bug with spots.
 
-[user]Where is a ladybug found?
+[user]Where can you find a ladybug?
 [Ninereeds]This is a ladybug.
 A ladybug is on a leaf.
 A ladybug is in a garden.

@@ -22,7 +22,7 @@ Avoiding brings a new state for people or things.
 Avoiding brings a useful effect in daily life.
 Avoiding brings safety and distance.
 
-[user]What is Avoiding for?
+[user]What does Avoiding give?
 [Ninereeds]Avoiding is for staying away from risk.
 Avoiding is for daily work and simple goals.
 Avoiding is for clear action in a task.

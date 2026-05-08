@@ -25,7 +25,7 @@ Smooth makes a surface easy to clean.
 Smooth reduces friction on a surface.
 Smooth is a feel and a quality.
 
-[user]What is smooth for?
+[user]What does smooth give?
 [Ninereeds]This is smooth.
 Smooth is for comfortable surfaces.
 Smooth is for polished finishes.

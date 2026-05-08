@@ -7,7 +7,7 @@ A chalkboard is square.
 A chalkboard is on a wall.
 A chalkboard is a flat wide green board on a wall.
 
-[user]Where is a chalkboard?
+[user]Where can you find a chalkboard?
 [Ninereeds]This is a chalkboard.
 A chalkboard is in a classroom.
 A chalkboard is on a wall.
@@ -25,7 +25,7 @@ A chalkboard is wiped clean.
 A chalkboard is used again.
 A chalkboard shows words and holds chalk marks.
 
-[user]What is a chalkboard for?
+[user]What does a chalkboard give?
 [Ninereeds]This is a chalkboard.
 A chalkboard is for writing.
 A chalkboard is for drawing.

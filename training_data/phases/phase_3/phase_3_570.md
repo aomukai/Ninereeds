@@ -25,7 +25,7 @@ Waddle keeps a bird upright on land.
 Waddle carries a duck across the ground.
 Waddle rocks a duck from side to side on land.
 
-[user]What is waddle for?
+[user]What does waddle give?
 [Ninereeds]This is waddle.
 Waddle is for moving on land.
 Waddle is for walking on short legs.

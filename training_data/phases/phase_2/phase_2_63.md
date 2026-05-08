@@ -7,7 +7,7 @@ The farmyard is flat.
 The farmyard is functional.
 The farmyard is wide and flat.
 
-[user]Where is a farmyard?
+[user]Where can you find a farmyard?
 [Ninereeds]This is a farmyard.
 The farmyard is near a farmhouse.
 The farmyard is near a barn.

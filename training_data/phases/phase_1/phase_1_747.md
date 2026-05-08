@@ -7,7 +7,7 @@ A pail has an open top.
 A pail is round.
 A pail is round and has a handle.
 
-[user]Where is a pail?
+[user]Where can you find a pail?
 [Ninereeds]This is a pail.
 A pail sits by a well.
 A pail stays in a shed.
@@ -25,7 +25,7 @@ A pail pours out liquid.
 A pail holds water.
 A pail is a holder of water and a carrier of sand.
 
-[user]What is a pail for?
+[user]What does a pail give?
 [Ninereeds]This is a pail.
 A pail is for building sandcastles.
 A pail is for collecting berries.

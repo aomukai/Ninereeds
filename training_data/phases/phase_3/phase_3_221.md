@@ -7,7 +7,7 @@ Interaction is a mutual influence.
 Interaction is a connection.
 Interaction is a reciprocal action and a communication.
 
-[user]Where is interaction found?
+[user]Where can you find interaction?
 [Ninereeds]This is interaction.
 Interaction is found in people.
 Interaction is found in machines.
@@ -25,7 +25,7 @@ Interaction develops understanding.
 Interaction influences behavior.
 Interaction creates a relationship and produces an effect.
 
-[user]What is interaction for?
+[user]What does interaction give?
 [Ninereeds]This is interaction.
 Interaction is for communication.
 Interaction is for cooperation.

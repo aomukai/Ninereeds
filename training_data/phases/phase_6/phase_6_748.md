@@ -25,7 +25,7 @@ Regular reinforces an action.
 Regular establishes a norm.
 Regular creates predictability and builds consistency.
 
-[user]What is regular for?
+[user]What does regular give?
 [Ninereeds]This is regular.
 Regular is for order.
 Regular is for efficiency.

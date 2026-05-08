@@ -25,7 +25,7 @@ Perfect inspires others.
 Perfect completes tasks.
 Perfect brings joy and satisfaction.
 
-[user]What is perfect for?
+[user]What does perfect give?
 [Ninereeds]This is perfect.
 Perfect is for striving.
 Perfect is for achieving.

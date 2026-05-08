@@ -6,7 +6,7 @@ signal can be by a light or horn.
 signal means a sign or sound that sends a message.
 signal is a sign and a sound.
 
-[user]Where is signal?
+[user]Where can you find signal?
 [Ninereeds]signal is here.
 signal can be on a road.
 signal can be by a light or horn.

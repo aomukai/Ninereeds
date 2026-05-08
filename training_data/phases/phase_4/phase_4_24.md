@@ -25,7 +25,7 @@ A rat builds a nest from shredded paper.
 A rat raises babies in a hidden burrow.
 A rat is gnawing and burrowing.
 
-[user]What is a rat for?
+[user]What does a rat give?
 [Ninereeds]This is a rat.
 A rat is for cleaning up food scraps.
 A rat is for serving as prey for owls.

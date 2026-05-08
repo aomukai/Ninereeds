@@ -7,7 +7,7 @@ A pocket is sewn on clothing.
 A pocket is small.
 A pocket is a pouch and small.
 
-[user]Where is a pocket?
+[user]Where can you find a pocket?
 [Ninereeds]This is a pocket.
 A pocket is on a shirt.
 A pocket is on pants.
@@ -25,7 +25,7 @@ A pocket holds a wallet.
 A pocket holds a handkerchief.
 A pocket holds coins and keys.
 
-[user]What is a pocket for?
+[user]What does a pocket give?
 [Ninereeds]This is a pocket.
 A pocket is for storage.
 A pocket is for carrying things.

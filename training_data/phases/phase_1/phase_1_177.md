@@ -7,7 +7,7 @@ An alarm has a loud bell.
 An alarm has a battery inside.
 An alarm is a small box with a clock face and a loud bell.
 
-[user]Where is an alarm?
+[user]Where can you find an alarm?
 [Ninereeds]This is an alarm.
 An alarm is on a table.
 An alarm is on a shelf.

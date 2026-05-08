@@ -25,7 +25,7 @@ Stain marks spot.
 Stain shows dirt.
 Stain is persistent and visible.
 
-[user]What is stain for?
+[user]What does stain give?
 [Ninereeds]This is a stain.
 Stain shows pattern.
 Stain marks test.

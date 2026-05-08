@@ -7,7 +7,7 @@ A bakery has sweet cakes.
 A bakery has a warm smell.
 A bakery is a shop with fresh bread and sweet cakes.
 
-[user]Where is the bakery?
+[user]Where can you find the bakery?
 [Ninereeds]This is a bakery.
 A bakery is in a town.
 A bakery is in a city.
@@ -25,7 +25,7 @@ A bakery makes treats.
 A bakery makes people happy.
 A bakery bakes and sells food for people.
 
-[user]What is the bakery for?
+[user]What does the bakery give?
 [Ninereeds]This is a bakery.
 A bakery is for buying food.
 A bakery is for buying fresh bread.

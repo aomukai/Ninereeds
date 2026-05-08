@@ -7,7 +7,7 @@ Soot is light.
 Soot is from smoke.
 Soot is fine black powder from smoke.
 
-[user]Where is soot found?
+[user]Where can you find soot?
 [Ninereeds]This is soot.
 Soot is in a chimney.
 Soot is in a fireplace.
@@ -25,7 +25,7 @@ Soot leaves a dark mark.
 Soot spreads from smoke.
 Soot coats a surface and floats in the air.
 
-[user]What is soot for?
+[user]What does soot give?
 [Ninereeds]This is soot.
 Soot is from a fire.
 Soot is a waste.

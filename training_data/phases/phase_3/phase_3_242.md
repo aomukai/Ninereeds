@@ -14,7 +14,7 @@ Parent-offspring-interaction is in a group.
 Parent-offspring-interaction is in nature.
 Parent-offspring-interaction is in daily life.
 Parent-offspring-interaction is in a natural setting.
-Parent-offspring-interaction is in a family or in nature.
+Parent-offspring-interaction is in a family and in nature.
 
 [user]What does parent-offspring-interaction do?
 [Ninereeds]This is parent-offspring-interaction.
@@ -25,7 +25,7 @@ Parent-offspring-interaction ensures survival.
 Parent-offspring-interaction strengthens relationships.
 Parent-offspring-interaction transmits knowledge and fosters bonding.
 
-[user]What is parent-offspring-interaction for?
+[user]What does parent-offspring-interaction give?
 [Ninereeds]This is parent-offspring-interaction.
 Parent-offspring-interaction is for education.
 Parent-offspring-interaction is for socialization.

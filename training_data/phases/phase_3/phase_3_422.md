@@ -7,14 +7,14 @@ Load is a full cart.
 Load is a heavy weight.
 Load is a pile of heavy things.
 
-[user]Where is load?
+[user]Where can you find load?
 [Ninereeds]This is load.
 Load is on a truck.
 Load is in a bag.
 Load is on a shelf.
 Load is at a dock.
 Load is on a scale.
-Load is on a truck or a shelf.
+Load is on a truck and a shelf.
 
 [user]What does load do?
 [Ninereeds]This is load.

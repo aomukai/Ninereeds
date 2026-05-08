@@ -6,7 +6,7 @@ The windowsill is hard.
 The windowsill is narrow.
 A windowsill is a ledge at a window.
 
-[user]Where is a windowsill?
+[user]Where can you find a windowsill?
 [Ninereeds]This is a windowsill.
 The windowsill is at a window.
 The windowsill is below the glass.

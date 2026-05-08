@@ -7,7 +7,7 @@ A rug is square or round.
 A rug has colorful threads.
 A rug is a flat woven floor covering.
 
-[user]Where is a rug?
+[user]Where can you find a rug?
 [Ninereeds]This is a rug.
 A rug is on the floor.
 A rug is in a living room.
@@ -25,7 +25,7 @@ A rug stops a draft.
 A rug adds color to a room.
 A rug covers the floor and warms the feet.
 
-[user]What is a rug for?
+[user]What does a rug give?
 [Ninereeds]This is a rug.
 A rug is for covering a floor.
 A rug is for decorating a room.

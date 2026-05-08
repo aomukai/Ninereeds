@@ -5,7 +5,7 @@ Situation is a state of things.
 Situation is a collection of events.
 Situation is a specific moment.
 Situation is how things are at a time.
-Situation is a state of things or events.
+Situation is a state of things and events.
 
 [user]Where does situation appear?
 [Ninereeds]This is a situation.
@@ -25,7 +25,7 @@ Situation presents challenges.
 Situation offers chances.
 Situation influences actions and choices.
 
-[user]What is situation for?
+[user]What does situation give?
 [Ninereeds]This is a situation.
 Situation is for learning lessons.
 Situation is for making decisions.

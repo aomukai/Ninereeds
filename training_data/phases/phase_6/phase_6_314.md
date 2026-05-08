@@ -6,7 +6,7 @@ theme can be on a page or board.
 theme holds one big idea in a work.
 theme is deep and steady.
 
-[user]Where is theme?
+[user]Where can you find theme?
 [Ninereeds]theme is here.
 theme can be in a book or tale.
 theme can be on a page or board.

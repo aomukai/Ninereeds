@@ -25,7 +25,7 @@ Reaction helps adaptation.
 Reaction changes things.
 Reaction shows a response and creates a new state.
 
-[user]What is reaction for?
+[user]What does reaction give?
 [Ninereeds]This is a reaction.
 Reaction is for survival.
 Reaction is for communication.

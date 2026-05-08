@@ -7,7 +7,7 @@ Bark has deep cracks and lines.
 Bark peels off in thin strips.
 Bark is rough and brown.
 
-[user]Where is bark?
+[user]Where can you find bark?
 [Ninereeds]This is bark.
 Bark is on a tree trunk.
 Bark is on a branch.
@@ -25,7 +25,7 @@ Bark grows thicker as a tree ages.
 Bark holds the tree upright.
 Bark is durable and insulating.
 
-[user]What is bark for?
+[user]What does bark give?
 [Ninereeds]This is bark.
 Bark is for shielding a tree from weather.
 Bark is for keeping moisture inside a trunk.

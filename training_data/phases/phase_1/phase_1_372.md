@@ -7,7 +7,7 @@ A cricket has antennae.
 A cricket is brown or black.
 A cricket is small and brown.
 
-[user]Where is a cricket?
+[user]Where can you find a cricket?
 [Ninereeds]This is a cricket.
 A cricket is in the grass.
 A cricket is in a field.
@@ -25,7 +25,7 @@ A cricket hops away from danger.
 A cricket hides in a crack.
 A cricket is chirping and jumping.
 
-[user]What is a cricket used for?
+[user]What does a cricket give?
 [Ninereeds]This is a cricket.
 A cricket is food for a bird.
 A cricket is food for a lizard.

@@ -7,7 +7,7 @@ A cutter is small and flat.
 A cutter cuts through paper.
 A cutter is sharp and small.
 
-[user]Where is a cutter?
+[user]Where can you find a cutter?
 [Ninereeds]This is a cutter.
 A cutter sits in a drawer.
 A cutter rests on a desk.
@@ -25,7 +25,7 @@ A cutter opens a box.
 A cutter shapes a piece of craft.
 A cutter slices paper and opens boxes.
 
-[user]What is a cutter for?
+[user]What does a cutter give?
 [Ninereeds]This is a cutter.
 A cutter is for cutting paper.
 A cutter is for cutting string.

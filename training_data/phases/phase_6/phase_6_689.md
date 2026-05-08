@@ -5,7 +5,7 @@ A stake is an interest.
 A stake is a share.
 A stake is a risk.
 A stake is a post.
-A stake is a stick in ground or a share.
+A stake is a stick in ground and a share.
 
 [user]Where does a stake appear?
 [Ninereeds]This is a stake.
@@ -14,7 +14,7 @@ A stake is in a business.
 A stake is in a heart.
 A stake is in a fence.
 A stake is in a choice.
-A stake is in a game or in a business.
+A stake is in a game and in a business.
 
 [user]What does a stake do?
 [Ninereeds]This is a stake.
@@ -25,7 +25,7 @@ A stake brings a risk.
 A stake fixes a thing.
 A stake holds a thing and brings a risk.
 
-[user]What is a stake for?
+[user]What does a stake give?
 [Ninereeds]This is a stake.
 A stake is for holding.
 A stake is for marking.

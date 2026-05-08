@@ -7,7 +7,7 @@ A pouch has a string.
 A pouch is a bag.
 A pouch is small and soft.
 
-[user]Where is a pouch?
+[user]Where can you find a pouch?
 [Ninereeds]This is a pouch.
 A pouch is on a belt.
 A pouch is in a pocket.
@@ -25,7 +25,7 @@ A pouch keeps things safe.
 A pouch closes with a string.
 A pouch is a holder and a keeper.
 
-[user]What is a pouch for?
+[user]What does a pouch give?
 [Ninereeds]This is a pouch.
 A pouch is for carrying.
 A pouch is for storing.

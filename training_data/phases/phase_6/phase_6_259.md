@@ -25,7 +25,7 @@ Squeak announces a presence in a room.
 Squeak alerts ears to a small sound.
 Squeak signals and alerts.
 
-[user]What is squeak for?
+[user]What does squeak give?
 [Ninereeds]This is squeak.
 Squeak is for signaling a need for oil.
 Squeak is for locating a moving part.

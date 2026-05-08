@@ -7,7 +7,7 @@ A popsicle is cold.
 A popsicle is shaped like a rectangle.
 A popsicle is frozen juice and cold.
 
-[user]Where is a popsicle?
+[user]Where can you find a popsicle?
 [Ninereeds]This is a popsicle.
 A popsicle is in a freezer.
 A popsicle is in a box.
@@ -25,7 +25,7 @@ A popsicle stains a tongue.
 A popsicle leaves a puddle.
 A popsicle is melting in the sun and dripping juice.
 
-[user]What is a popsicle for?
+[user]What does a popsicle give?
 [Ninereeds]This is a popsicle.
 A popsicle is for eating.
 A popsicle is for cooling.

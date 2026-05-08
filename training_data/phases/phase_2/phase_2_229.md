@@ -25,7 +25,7 @@ An entryway is a heat barrier.
 An entryway is a path.
 An entryway is an entrance and an exit.
 
-[user]What is an entryway for?
+[user]What does an entryway give?
 [Ninereeds]This is an entryway.
 An entryway is an entry.
 An entryway is an exit.

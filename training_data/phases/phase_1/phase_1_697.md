@@ -7,7 +7,7 @@ A nickel has a face on one side.
 A nickel is smaller than a hand.
 A nickel is a round silver coin.
 
-[user]Where is a nickel?
+[user]Where can you find a nickel?
 [Ninereeds]This is a nickel.
 A nickel is in a pocket.
 A nickel is in a wallet.
@@ -25,7 +25,7 @@ A nickel rolls on a table.
 A nickel makes a clink sound.
 A nickel is a coin that buys things.
 
-[user]What is a nickel for?
+[user]What does a nickel give?
 [Ninereeds]This is a nickel.
 A nickel is for buying candy.
 A nickel is for paying for goods.

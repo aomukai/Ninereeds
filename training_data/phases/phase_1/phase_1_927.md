@@ -7,7 +7,7 @@ Shallow water shows the bottom.
 Shallow has a flat bottom.
 Shallow is near the top and shows the bottom.
 
-[user]Where is shallow?
+[user]Where can you find shallow?
 [Ninereeds]This is shallow.
 Shallow is at the edge of a pool.
 Shallow is at the edge of a lake.
@@ -25,7 +25,7 @@ Shallow is safe for play.
 Shallow water stays warm.
 Shallow is safe and lets a person stand.
 
-[user]What is shallow for?
+[user]What does shallow give?
 [Ninereeds]This is shallow.
 Shallow is for wading.
 Shallow is for play.

@@ -7,7 +7,7 @@ A bookshelf is flat.
 A bookshelf is strong.
 A bookshelf is tall with flat shelves.
 
-[user]Where is a bookshelf?
+[user]Where can you find a bookshelf?
 [Ninereeds]This is a bookshelf.
 A bookshelf is in a room.
 A bookshelf is in a house.
@@ -25,7 +25,7 @@ A bookshelf supports books.
 A bookshelf keeps books safe.
 A bookshelf holds and organizes books.
 
-[user]What is a bookshelf for?
+[user]What does a bookshelf give?
 [Ninereeds]This is a bookshelf.
 A bookshelf is for storing books.
 A bookshelf is for showing books.

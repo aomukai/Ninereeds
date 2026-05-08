@@ -5,16 +5,16 @@ A saddle is made of leather.
 A saddle has a seat.
 A saddle has stirrups for feet.
 A saddle has a strap around the horse.
-A saddle is a leather seat for a horse.
+A saddle is a leather seat and for a horse.
 
-[user]Where is a saddle?
+[user]Where can you find a saddle?
 [Ninereeds]This is a saddle.
 A saddle is on a horse.
 A saddle is on a pony.
 A saddle is in a stable.
 A saddle is on a saddle rack.
 A saddle is on a horse in a field.
-A saddle is on a horse in a field.
+A saddle is on a horse in a field. and useful.
 
 [user]What does a saddle do?
 [Ninereeds]This is a saddle.
@@ -25,7 +25,7 @@ A saddle straps around the horse belly.
 A saddle supports a person during a ride.
 A saddle holds a rider and gives a seat.
 
-[user]What is a saddle for?
+[user]What does a saddle give?
 [Ninereeds]This is a saddle.
 A saddle is for riding a horse.
 A saddle is for sitting on a horse.

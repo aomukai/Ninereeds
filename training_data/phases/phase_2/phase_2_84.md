@@ -7,7 +7,7 @@ A lab has chemicals.
 A lab has machines.
 A lab is a place with special tools.
 
-[user]Where is a lab?
+[user]Where can you find a lab?
 [Ninereeds]This is a lab.
 A lab is in a building.
 A lab is in a school.
@@ -25,7 +25,7 @@ A lab creates new products.
 A lab educates students.
 A lab conducts experiments and discovers.
 
-[user]What is a lab for?
+[user]What does a lab give?
 [Ninereeds]This is a lab.
 A lab is for scientific study.
 A lab is for innovation.

@@ -7,7 +7,7 @@ A bale is made of dried grass.
 A bale is yellow and brown.
 A bale is a square block of dried grass.
 
-[user]Where is a bale?
+[user]Where can you find a bale?
 [Ninereeds]This is a bale.
 A bale is in a field.
 A bale is on a farm.
@@ -25,7 +25,7 @@ A bale waits for a truck.
 A bale rests in a field.
 A bale sits in a stack on a farm.
 
-[user]What is a bale for?
+[user]What does a bale give?
 [Ninereeds]This is a bale.
 A bale feeds animals on a farm.
 A bale provides bedding for a horse.

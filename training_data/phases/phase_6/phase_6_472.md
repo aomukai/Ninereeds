@@ -5,7 +5,7 @@ Degree is a measure.
 Degree is a level.
 Degree is a stage.
 Degree is an extent.
-Degree is an amount or level.
+Degree is an amount and level.
 
 [user]Where does degree appear?
 [Ninereeds]This is a degree.
@@ -25,7 +25,7 @@ Degree shows a progression.
 Degree defines a state.
 Degree quantifies and indicates a level.
 
-[user]What is degree for?
+[user]What does degree give?
 [Ninereeds]This is a degree.
 Degree is for measuring.
 Degree is for learning.

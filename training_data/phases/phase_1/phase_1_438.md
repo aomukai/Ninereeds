@@ -7,7 +7,7 @@ An eyelid covers an eye and blinks.
 An eyelid is on a face.
 An eyelid is thin skin that covers an eye and folds up and down.
 
-[user]Where is an eyelid?
+[user]Where can you find an eyelid?
 [Ninereeds]This is an eyelid.
 An eyelid is over an eye on a face.
 An eyelid is above a cheek and below an eyebrow.
@@ -25,7 +25,7 @@ An eyelid keeps dust from an eye.
 An eyelid covers an eye for sleep.
 An eyelid closes and opens and protects an eye.
 
-[user]What is an eyelid for?
+[user]What does an eyelid give?
 [Ninereeds]This is an eyelid.
 An eyelid is for protection of an eye.
 An eyelid is for sleep and blinking.

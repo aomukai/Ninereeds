@@ -22,7 +22,7 @@ Admitting brings a new state for people or things.
 Admitting brings a useful effect in daily life.
 Admitting brings honesty and entry.
 
-[user]What is Admitting for?
+[user]What does Admitting give?
 [Ninereeds]Admitting is for telling truth and opening a way.
 Admitting is for daily work and simple goals.
 Admitting is for clear action in a task.

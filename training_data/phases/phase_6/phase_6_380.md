@@ -5,7 +5,7 @@ worry can come in a child or adult.
 worry can rise before a test or trip.
 worry is a troubled thought in a mind.
 
-[user]Where is worry?
+[user]Where can you find worry?
 [Ninereeds]worry is here.
 worry can be in a face or chest.
 worry can be in a room at night.

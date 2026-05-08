@@ -8,7 +8,7 @@ Frost sparkles in the sun.
 Frost is white and cold.
 
 
-[user]Where is frost found?
+[user]Where can you find frost?
 [Ninereeds]This is frost.
 Frost is on the grass.
 Frost is on a window.
@@ -28,7 +28,7 @@ Frost makes a window look white.
 Frost forms on cold nights and melts in the sun.
 
 
-[user]What is frost for?
+[user]What does frost give?
 [Ninereeds]This is frost.
 Frost tells that winter is near.
 Frost makes the world look white.

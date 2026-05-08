@@ -25,7 +25,7 @@ Honesty makes a person feel good.
 Honesty helps a person.
 Honesty builds trust and helps a person.
 
-[user]What is honesty for?
+[user]What does honesty give?
 [Ninereeds]This is honesty.
 Honesty is for truth.
 Honesty is for trust.

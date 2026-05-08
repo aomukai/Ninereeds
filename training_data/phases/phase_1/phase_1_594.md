@@ -7,7 +7,7 @@ Junk is scattered.
 Junk is unused.
 Old junk is unused.
 
-[user]Where is junk found?
+[user]Where can you find junk?
 [Ninereeds]This is junk.
 Junk is in a dump.
 Junk is in a bin.
@@ -25,7 +25,7 @@ Junk gets in the way.
 Junk sits in a heap.
 Junk takes up space in a heap.
 
-[user]What is junk used for?
+[user]What does junk give?
 [Ninereeds]This is junk.
 Junk is thrown out.
 Junk is recycled.

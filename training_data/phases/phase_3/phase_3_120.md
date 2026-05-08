@@ -5,7 +5,7 @@ Surprise is a sudden emotion.
 Surprise is an astonishing fact.
 Surprise is a sudden feeling.
 Surprise is a sudden discovery.
-Surprise is an unexpected event or emotion.
+Surprise is an unexpected event and emotion.
 
 [user]Where does surprise appear?
 [Ninereeds]This is surprise.
@@ -25,7 +25,7 @@ Surprise can cause joy.
 Surprise can cause fear.
 Surprise captures attention and alters plans.
 
-[user]What is surprise for?
+[user]What does surprise give?
 [Ninereeds]This is surprise.
 Surprise is for celebration.
 Surprise is for entertainment.

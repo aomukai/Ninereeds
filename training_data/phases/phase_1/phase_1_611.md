@@ -7,7 +7,7 @@ A lake is deep.
 A lake is water.
 A lake is wide and deep water.
 
-[user]Where is a lake found?
+[user]Where can you find a lake?
 [Ninereeds]This is a lake.
 A lake is in a valley.
 A lake is in a forest.
@@ -25,7 +25,7 @@ A lake freezes in cold.
 A lake warms in sun.
 A lake holds water and ripples in wind.
 
-[user]What is a lake used for?
+[user]What does a lake give?
 [Ninereeds]This is a lake.
 A lake gives fish.
 A lake gives water.

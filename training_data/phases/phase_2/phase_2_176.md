@@ -25,7 +25,7 @@ A backyard provides fresh air.
 A backyard provides sunlight.
 A backyard provides play and rest space.
 
-[user]What is the backyard for?
+[user]What does the backyard give?
 [Ninereeds]This is a backyard.
 A backyard is for playing.
 A backyard is for relaxing.

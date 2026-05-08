@@ -7,7 +7,7 @@ A shrimp has a shell.
 A shrimp curls up.
 A shrimp is small and has a tail and legs.
 
-[user]Where is a shrimp found?
+[user]Where can you find a shrimp?
 [Ninereeds]This is a shrimp.
 A shrimp lives in the sea.
 A shrimp swims in the ocean.
@@ -25,7 +25,7 @@ A shrimp curls the tail.
 A shrimp drifts with currents.
 A shrimp swims and darts in water.
 
-[user]What is a shrimp for?
+[user]What does a shrimp give?
 [Ninereeds]This is a shrimp.
 A shrimp is food for fish.
 A shrimp is food for people.

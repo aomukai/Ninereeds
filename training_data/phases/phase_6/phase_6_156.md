@@ -5,7 +5,7 @@ scout can be on a trail.
 scout can be in a camp or team.
 scout means a person that looks ahead or learns a place.
 
-[user]Where is scout?
+[user]Where can you find scout?
 [Ninereeds]scout is here.
 scout can be on a trail.
 scout can be in a camp or team.

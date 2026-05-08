@@ -7,7 +7,7 @@ The egg is fragile.
 The egg is white.
 Egg is oval and fragile.
 
-[user]Where is an egg?
+[user]Where can you find an egg?
 [Ninereeds]This is an egg.
 The egg is in a carton.
 The egg is in a nest.
@@ -25,7 +25,7 @@ The egg becomes firm.
 The egg is shelled.
 Egg is whole and shelled.
 
-[user]What is an egg for?
+[user]What does an egg give?
 [Ninereeds]This is an egg.
 The egg is cracked.
 The egg is cooked.

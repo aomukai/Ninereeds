@@ -22,7 +22,7 @@ Predicting brings the power to position before the event arrives.
 Predicting brings the gift of time for those who listen to its signals.
 Predicting brings forecast and expectation.
 
-[user]What is predicting for?
+[user]What does predicting give?
 [Ninereeds]Predicting is for using signs to expect a result.
 Predicting is for steering action by the light of likely futures.
 Predicting is for robbing uncertainty of its power to surprise.

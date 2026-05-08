@@ -22,7 +22,7 @@ Distorting brings a new state for people or things.
 Distorting brings a useful effect in daily life.
 Distorting brings warping and confused form.
 
-[user]What is Distorting for?
+[user]What does Distorting give?
 [Ninereeds]Distorting is for changing shape, sound, or sense.
 Distorting is for daily work and simple goals.
 Distorting is for clear action in a task.

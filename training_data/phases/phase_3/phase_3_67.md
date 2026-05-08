@@ -22,7 +22,7 @@ Creating brings change through making.
 Creating brings useful objects and forms.
 Creating brings new things and change.
 
-[user]What is creating for?
+[user]What does creating give?
 [Ninereeds]Creating is for making something new.
 Creating is for shaping an idea.
 Creating is for building useful forms.

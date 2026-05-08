@@ -25,7 +25,7 @@ start triggers a game round.
 start signals a first move.
 start begins and opens.
 
-[user]What is start for?
+[user]What does start give?
 [Ninereeds]This is start.
 start is for beginning tasks.
 start is for marking first points.

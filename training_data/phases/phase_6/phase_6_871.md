@@ -7,7 +7,7 @@ Heaviness is a mass.
 Heaviness is a profoundness.
 Heaviness is a weight and a density.
 
-[user]Where is heaviness found?
+[user]Where can you find heaviness?
 [Ninereeds]This is heaviness.
 Heaviness is found in objects.
 Heaviness is found in emotions.
@@ -25,7 +25,7 @@ Heaviness makes a thing significant.
 Heaviness brings seriousness.
 Heaviness pulls down and causes effort.
 
-[user]What is heaviness for?
+[user]What does heaviness give?
 [Ninereeds]This is heaviness.
 Heaviness is for anchoring.
 Heaviness is for creating impact.

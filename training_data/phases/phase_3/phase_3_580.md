@@ -24,7 +24,7 @@ Whirl moves in a tight loop.
 Whirl pulls things into the center.
 Whirl spins water around fast in a tight loop.
 
-[user]What is whirl for?
+[user]What does whirl give?
 [Ninereeds]This is whirl.
 Whirl is for mixing.
 Whirl is for spinning clothes dry.

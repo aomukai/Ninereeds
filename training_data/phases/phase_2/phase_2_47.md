@@ -6,7 +6,7 @@ The softball is yellow or white.
 The softball is firm.
 A softball is a ball used for softball.
 
-[user]Where is a softball?
+[user]Where can you find a softball?
 [Ninereeds]This is a softball.
 The softball is on a field.
 The softball is on the ground.

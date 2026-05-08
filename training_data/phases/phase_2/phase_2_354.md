@@ -7,7 +7,7 @@ A zoo has paths.
 A zoo is a park for animals.
 A zoo is a big park with enclosures and animals.
 
-[user]Where is a zoo?
+[user]Where can you find a zoo?
 [Ninereeds]This is a zoo.
 A zoo is in a city.
 A zoo is on a large lot.

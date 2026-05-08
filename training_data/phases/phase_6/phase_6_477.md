@@ -22,7 +22,7 @@ Recognizing brings the mind a stable ground of familiar things.
 Recognizing brings a shortcut from perception to understanding.
 Recognizing brings memory and identification.
 
-[user]What is recognizing for?
+[user]What does recognizing give?
 [Ninereeds]Recognizing is for finding the known part again.
 Recognizing is for sparing the mind the cost of relearning.
 Recognizing is for sorting the world into known and new.

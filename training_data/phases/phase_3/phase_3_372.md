@@ -25,11 +25,11 @@ A frown creases the skin on the face.
 A frown shows a sad feel.
 A frown turns the mouth down on the face.
 
-[user]What is a frown for?
+[user]What does a frown give?
 [Ninereeds]This is a frown.
 A frown shows a sad feel.
 A frown shows a mad feel.
 A frown shows a worried feel.
 A frown shows a confused feel.
 A frown shows a hurt feel.
-A frown shows a sad or mad feel.
+A frown shows a sad and mad feel.

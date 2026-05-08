@@ -5,7 +5,7 @@ segment can be in a circle.
 segment can be in a chart or bar.
 segment means one part of a larger line or shape.
 
-[user]Where is segment?
+[user]Where can you find segment?
 [Ninereeds]segment is here.
 segment can be in a circle.
 segment can be in a chart or bar.

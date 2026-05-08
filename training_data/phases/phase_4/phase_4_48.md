@@ -25,7 +25,7 @@ Sand shifts with the wind in dunes.
 Sand filters water through the grains.
 Sand is shaping and filtering.
 
-[user]What is sand for?
+[user]What does sand give?
 [Ninereeds]This is sand.
 Sand is for creating beaches along coasts.
 Sand is for building castles in play.

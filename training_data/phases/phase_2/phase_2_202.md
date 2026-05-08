@@ -7,7 +7,7 @@ A city has many people.
 A city has lights at night.
 A city is a large town with many buildings.
 
-[user]Where is a city?
+[user]Where can you find a city?
 [Ninereeds]This is a city.
 A city is on land.
 A city is by a river.
@@ -25,7 +25,7 @@ A city has shops.
 A city has transport.
 A city provides homes and offers jobs.
 
-[user]What is a city used for?
+[user]What does a city give?
 [Ninereeds]This is a city.
 A city is for living.
 A city is for working.

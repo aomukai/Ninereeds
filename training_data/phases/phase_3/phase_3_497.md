@@ -7,7 +7,7 @@ Slide is a glide on a rail.
 Slide is a run on a wet floor.
 Slide is a glide and a slip.
 
-[user]Where is slide?
+[user]Where can you find slide?
 [Ninereeds]This is slide.
 Slide is on a hill.
 Slide is on a ramp.
@@ -25,7 +25,7 @@ Slide drops a block from a chute.
 Slide rolls a ball across a floor.
 Slide is a move and a glide.
 
-[user]What is slide for?
+[user]What does slide give?
 [Ninereeds]This is slide.
 Slide is for play at a park.
 Slide is for fun on a hill.

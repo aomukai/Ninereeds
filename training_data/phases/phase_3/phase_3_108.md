@@ -5,7 +5,7 @@ Reconstruction is restoring.
 Reconstruction is recreating.
 Reconstruction is putting back together.
 Reconstruction is a process of renewal.
-Reconstruction is rebuilding or restoring.
+Reconstruction is rebuilding and restoring.
 
 [user]Where does reconstruction appear?
 [Ninereeds]This is reconstruction.
@@ -25,7 +25,7 @@ Reconstruction improves upon old.
 Reconstruction brings back order.
 Reconstruction makes things new and functional.
 
-[user]What is reconstruction for?
+[user]What does reconstruction give?
 [Ninereeds]This is reconstruction.
 Reconstruction is for recovery.
 Reconstruction is for renewal.

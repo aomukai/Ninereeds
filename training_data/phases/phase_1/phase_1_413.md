@@ -7,14 +7,14 @@ Driftwood has a gray surface.
 Driftwood has twisty shapes.
 Driftwood is smooth gray wood in twisty shapes.
 
-[user]Where is driftwood?
+[user]Where can you find driftwood?
 [Ninereeds]This is driftwood.
 Driftwood lies on a beach.
 Driftwood floats in the ocean.
 Driftwood washes up on sand.
 Driftwood piles near rocks.
 Driftwood rests by the shore.
-Driftwood lies on a beach or floats in the ocean.
+Driftwood lies on a beach and floats in the ocean.
 
 [user]What does driftwood do?
 [Ninereeds]This is driftwood.
@@ -25,7 +25,7 @@ Driftwood dries in the sun.
 Driftwood sinks after a long time.
 Driftwood floats on water and tumbles in waves.
 
-[user]What is driftwood for?
+[user]What does driftwood give?
 [Ninereeds]This is driftwood.
 Driftwood is for art.
 Driftwood is for decoration.

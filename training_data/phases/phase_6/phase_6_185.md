@@ -5,7 +5,7 @@ shave can be at a sink.
 shave can be by a mirror or razor.
 shave means an act of cutting hair close to skin.
 
-[user]Where is shave?
+[user]Where can you find shave?
 [Ninereeds]shave is here.
 shave can be at a sink.
 shave can be by a mirror or razor.

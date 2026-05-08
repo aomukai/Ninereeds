@@ -7,7 +7,7 @@ Roar is a big sound from an animal.
 Roar is a powerful noise.
 Roar is a loud deep sound from an animal.
 
-[user]Where is a roar?
+[user]Where can you find a roar?
 [Ninereeds]This is roar.
 Roar is in a mouth.
 Roar is in a cave.
@@ -25,7 +25,7 @@ Roar shows strength.
 Roar scares small animals.
 Roar is a sound in a space.
 
-[user]What is a roar for?
+[user]What does a roar give?
 [Ninereeds]This is roar.
 Roar warns other animals.
 Roar tells animals to stay back.

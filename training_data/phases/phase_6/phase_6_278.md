@@ -4,7 +4,7 @@ strain is a force that pulls or presses.
 strain can be in a rope or a muscle.
 strain measures how much an object deforms.
 
-[user]Where is strain?
+[user]Where can you find strain?
 [Ninereeds]strain is here.
 strain can be in a rope under tension.
 strain can be in a muscle during exercise.

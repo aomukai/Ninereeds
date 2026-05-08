@@ -7,14 +7,14 @@ Meow is a short cry.
 Meow is a cat voice.
 Meow is a soft sound from a cat.
 
-[user]Where is meow?
+[user]Where can you find meow?
 [Ninereeds]This is meow.
 Meow is at a door.
 Meow is near a bowl.
 Meow is in a lap.
 Meow is on a bed.
 Meow is in a room at night.
-Meow is at a door or near a bowl.
+Meow is at a door and near a bowl.
 
 [user]What does meow do?
 [Ninereeds]This is meow.
@@ -23,7 +23,7 @@ Meow calls for a pat.
 Meow says hello.
 Meow tells a cat is near.
 Meow gets a person to look.
-Meow asks for food or a pat.
+Meow asks for food and a pat.
 
 [user]How is meow used?
 [Ninereeds]This is meow.
@@ -32,4 +32,4 @@ Meow is used to say hello.
 Meow is used to ask for the door to open.
 Meow is used to get a pat on the head.
 Meow is used to call for a friend.
-Meow is used to get food or a pat.
+Meow is used to get food and a pat.

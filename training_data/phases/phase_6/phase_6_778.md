@@ -7,7 +7,7 @@ Freedom is without constraint.
 Freedom is self-determination.
 Freedom is liberty and independence.
 
-[user]Where is freedom found?
+[user]Where can you find freedom?
 [Ninereeds]This is freedom.
 Freedom is found in minds.
 Freedom is found in laws.
@@ -25,7 +25,7 @@ Freedom fosters creativity.
 Freedom removes oppression.
 Freedom allows movement and enables choice.
 
-[user]What is freedom for?
+[user]What does freedom give?
 [Ninereeds]This is freedom.
 Freedom is for self-expression.
 Freedom is for pursuit of happiness.

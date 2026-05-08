@@ -7,7 +7,7 @@ Foresight is a prudence.
 Foresight is a vision.
 Foresight is an ability to see future and a prediction.
 
-[user]Where is foresight found?
+[user]Where can you find foresight?
 [Ninereeds]This is foresight.
 Foresight is found in leaders.
 Foresight is found in plans.
@@ -25,7 +25,7 @@ Foresight reduces risk.
 Foresight enables success.
 Foresight prevents problems and guides decisions.
 
-[user]What is foresight for?
+[user]What does foresight give?
 [Ninereeds]This is foresight.
 Foresight is for future planning.
 Foresight is for avoiding danger.

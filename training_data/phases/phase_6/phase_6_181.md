@@ -5,7 +5,7 @@ shame can be in a face.
 shame can be in a heart or room.
 shame means a sad hot feeling after a wrong act.
 
-[user]Where is shame?
+[user]Where can you find shame?
 [Ninereeds]shame is here.
 shame can be in a face.
 shame can be in a heart or room.

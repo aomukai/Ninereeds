@@ -5,16 +5,16 @@ An intersection has two roads.
 An intersection has four roads.
 An intersection has traffic lights.
 An intersection has stop signs.
-An intersection is where two or more roads cross.
+An intersection is where two and more roads cross.
 
-[user]Where is an intersection?
+[user]Where can you find an intersection?
 [Ninereeds]This is an intersection.
 An intersection is on a street.
 An intersection is in a city.
 An intersection is in a town.
 An intersection is at a corner.
 An intersection is in a road network.
-An intersection is on a street in a city or town.
+An intersection is on a street in a city and town.
 
 [user]What does an intersection do?
 [Ninereeds]This is an intersection.
@@ -25,7 +25,7 @@ An intersection allows pedestrians to cross.
 An intersection manages vehicle flow.
 An intersection connects roads and directs traffic.
 
-[user]What is an intersection for?
+[user]What does an intersection give?
 [Ninereeds]This is an intersection.
 An intersection is for connecting paths.
 An intersection is for managing movement.

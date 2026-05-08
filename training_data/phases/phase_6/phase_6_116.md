@@ -5,7 +5,7 @@ pitch can change in music or speech.
 pitch can help a note sound deep or sharp.
 pitch means how high or low a sound is.
 
-[user]Where is pitch?
+[user]Where can you find pitch?
 [Ninereeds]pitch is here.
 pitch can be in a song.
 pitch can be in a piano note.

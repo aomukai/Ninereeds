@@ -25,7 +25,7 @@ Fly takes a kite up in the wind.
 Fly sends a seed over the hills.
 Fly lifts a bird off the ground through the air.
 
-[user]What is fly for?
+[user]What does fly give?
 [Ninereeds]This is fly.
 Fly takes a bird to a nest.
 Fly moves a plane to a far place.

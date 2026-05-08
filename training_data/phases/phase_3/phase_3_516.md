@@ -25,7 +25,7 @@ Suck drains cup.
 Suck slurps soup.
 Suck is strong and quick.
 
-[user]What is suck for?
+[user]What does suck give?
 [Ninereeds]This is suck.
 Suck drinks water.
 Suck cleans spill.

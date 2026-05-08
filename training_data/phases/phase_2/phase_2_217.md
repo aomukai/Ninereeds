@@ -7,7 +7,7 @@ A crosswalk has a sign.
 A crosswalk has a traffic light.
 A crosswalk is on the road with white lines.
 
-[user]Where is a crosswalk?
+[user]Where can you find a crosswalk?
 [Ninereeds]This is a crosswalk.
 A crosswalk is at an intersection.
 A crosswalk is near a school.
@@ -25,7 +25,7 @@ A crosswalk keeps people safe.
 A crosswalk organizes traffic.
 A crosswalk helps people cross safely.
 
-[user]What is a crosswalk for?
+[user]What does a crosswalk give?
 [Ninereeds]This is a crosswalk.
 A crosswalk is for pedestrians.
 A crosswalk is for safety.

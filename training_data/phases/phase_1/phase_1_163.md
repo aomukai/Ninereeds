@@ -7,7 +7,7 @@ Fire is red.
 Fire is yellow.
 Fire is hot and bright.
 
-[user]Where is fire?
+[user]Where can you find fire?
 [Ninereeds]This is fire.
 Fire is in a fireplace.
 Fire is in a forest.
@@ -25,7 +25,7 @@ Fire cooks food.
 Fire spreads fast.
 Fire gives warmth and light.
 
-[user]What is fire for?
+[user]What does fire give?
 [Ninereeds]This is fire.
 Fire is for warmth.
 Fire is for cooking.

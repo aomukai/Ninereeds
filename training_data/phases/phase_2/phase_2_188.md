@@ -25,7 +25,7 @@ A boyfriend goes on dates.
 A boyfriend talks to a girlfriend.
 A boyfriend shares time and gives support.
 
-[user]What is a boyfriend for?
+[user]What does a boyfriend give?
 [Ninereeds]This is a boyfriend.
 A boyfriend gives companionship.
 A boyfriend offers friendship.

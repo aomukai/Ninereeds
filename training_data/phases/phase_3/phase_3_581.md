@@ -7,7 +7,7 @@ Whisk has a round shape at the end.
 Whisk is made of metal.
 Whisk has long thin wires and a handle.
 
-[user]Where is whisk found?
+[user]Where can you find whisk?
 [Ninereeds]This is a whisk.
 Whisk is in the kitchen.
 Whisk is in a drawer.
@@ -25,7 +25,7 @@ Whisk blends powder into liquid.
 Whisk moves in a fast circle.
 Whisk stirs liquid and mixes air into cream.
 
-[user]What is whisk for?
+[user]What does whisk give?
 [Ninereeds]This is a whisk.
 Whisk is for mixing.
 Whisk is for beating eggs.

@@ -28,7 +28,7 @@ A tug creates tension.
 A tug resists release.
 A tug is pulling and stretching.
 
-[user]What is a tug for?
+[user]What does a tug give?
 
 [Ninereeds]This is a tug.
 A tug is for moving.

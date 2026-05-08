@@ -25,7 +25,7 @@ Observation reveals patterns.
 Observation informs decisions.
 Observation provides facts and leads to discovery.
 
-[user]What is observation for?
+[user]What does observation give?
 [Ninereeds]This is an observation.
 Observation is for learning.
 Observation is for solving mysteries.

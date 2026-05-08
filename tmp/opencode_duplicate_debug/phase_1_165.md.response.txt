@@ -1,7 +1,0 @@
-RECEIPT
--------
-Files processed this run: phase_1_165.md
-Progress ledger last entry: N/A
-Output file record count: 35 lines, 4 blocks, 5 body + 1 summary each
-Files remaining: N/A
-Status: DONE

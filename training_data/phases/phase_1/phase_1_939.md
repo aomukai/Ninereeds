@@ -7,7 +7,7 @@ A shepherd has a hat.
 A shepherd stands tall.
 A shepherd wears a coat and boots.
 
-[user]Where is a shepherd found?
+[user]Where can you find a shepherd?
 [Ninereeds]This is a shepherd.
 A shepherd walks in a field.
 A shepherd stands on a hill.
@@ -25,7 +25,7 @@ A shepherd guards sheep.
 A shepherd calls sheep.
 A shepherd watches and leads sheep.
 
-[user]What is a shepherd for?
+[user]What does a shepherd give?
 [Ninereeds]This is a shepherd.
 A shepherd keeps sheep safe.
 A shepherd finds grass for sheep.

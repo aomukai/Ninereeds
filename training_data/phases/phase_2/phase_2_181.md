@@ -7,7 +7,7 @@ A basement can be cool.
 A basement has concrete walls.
 A basement is a dark, cool room underground.
 
-[user]Where is the basement?
+[user]Where can you find the basement?
 [Ninereeds]This is a basement.
 A basement is under a house.
 A basement is below the ground.
@@ -25,7 +25,7 @@ A basement can be a play area.
 A basement can be a work area.
 A basement stores things and provides a safe area.
 
-[user]What is the basement for?
+[user]What does the basement give?
 [Ninereeds]This is a basement.
 A basement is for storage.
 A basement is for shelter.

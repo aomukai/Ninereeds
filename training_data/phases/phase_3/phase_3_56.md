@@ -1,31 +1,35 @@
 [user]What is discovering?
-[Ninereeds]Discovering is Finding something new.
-[Ninereeds]Discovering is Learning a fact for the first time.
-[Ninereeds]Discovering is Uncovering a hidden place or idea.
-[Ninereeds]Discovering is Seeing a truth with fresh eyes.
-[Ninereeds]Discovering is Making a new finding.
-[Ninereeds]Discovering is Find and learn.
+[Ninereeds]This is discovering.
+Discovering is finding something new.
+Discovering is learning a fact for the first time.
+Discovering is uncovering a hidden place or idea.
+Discovering is seeing a truth with fresh eyes.
+Discovering is making a new finding.
+Discovering is finding and learning.
 
 [user]When does discovering happen?
-[Ninereeds]Discovering happens when A search reaches a useful result.
-[Ninereeds]Discovering happens when A clue leads to truth.
-[Ninereeds]Discovering happens when A map, question, or test gives a new fact.
-[Ninereeds]Discovering happens when A hidden object comes into view.
-[Ninereeds]Discovering happens when Curiosity meets evidence.
-[Ninereeds]Discovering happens when Search and truth meet.
+[Ninereeds]This is discovering.
+Discovering happens when a search reaches a useful result.
+Discovering happens when a clue leads to truth.
+Discovering happens when a map, question, or test gives a new fact.
+Discovering happens when a hidden object comes into view.
+Discovering happens when curiosity meets evidence.
+Discovering happens when search and truth meet.
 
 [user]What does discovering bring?
-[Ninereeds]Discovering brings New knowledge.
-[Ninereeds]Discovering brings A fresh fact.
-[Ninereeds]Discovering brings A clear finding.
-[Ninereeds]Discovering brings Surprise and insight.
-[Ninereeds]Discovering brings A wider view.
-[Ninereeds]Discovering brings Knowledge and insight.
+[Ninereeds]This is discovering.
+Discovering brings new knowledge.
+Discovering brings a fresh fact.
+Discovering brings a clear finding.
+Discovering brings surprise and insight.
+Discovering brings a wider view.
+Discovering brings knowledge and insight.
 
-[user]What is discovering for?
-[Ninereeds]Discovering is for Finding a truth.
-[Ninereeds]Discovering is for Learning something new.
-[Ninereeds]Discovering is for Uncovering a hidden fact.
-[Ninereeds]Discovering is for Guiding a search.
-[Ninereeds]Discovering is for Bringing a new result.
-[Ninereeds]Discovering is for Knowledge and discovery.
+[user]What does discovering give?
+[Ninereeds]This is discovering.
+Discovering is for finding a truth.
+Discovering is for learning something new.
+Discovering is for uncovering a hidden fact.
+Discovering is for guiding a search.
+Discovering is for bringing a new result.
+Discovering is for knowledge and discovery.

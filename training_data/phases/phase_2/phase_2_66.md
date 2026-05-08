@@ -6,7 +6,7 @@ The cornfield is green or yellow.
 The cornfield has many plants.
 A cornfield is a field where corn grows.
 
-[user]Where is a cornfield?
+[user]Where can you find a cornfield?
 [Ninereeds]This is a cornfield.
 The cornfield is on a farm.
 The cornfield is in the countryside.

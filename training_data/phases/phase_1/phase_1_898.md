@@ -7,7 +7,7 @@ Sap is inside trees.
 Sap drips from a cut.
 Sap is a sticky clear liquid and comes from trees.
 
-[user]Where is sap?
+[user]Where can you find sap?
 [Ninereeds]This is sap.
 Sap is inside a tree trunk.
 Sap is under tree bark.
@@ -25,7 +25,7 @@ Sap heals a tree wound.
 Sap seals a cut.
 Sap carries food and seals cuts on a tree.
 
-[user]What is sap used for?
+[user]What does sap give?
 [Ninereeds]This is sap.
 Sap is food for the tree.
 Sap makes syrup.

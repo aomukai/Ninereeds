@@ -7,7 +7,7 @@ A knob sticks out.
 A knob turns.
 A knob is a small round turn.
 
-[user]Where is a knob found?
+[user]Where can you find a knob?
 [Ninereeds]This is a knob.
 A knob is on a door.
 A knob is on a drawer.
@@ -25,7 +25,7 @@ A knob pushes.
 A knob clicks.
 A knob turns twists clicks.
 
-[user]What is a knob used for?
+[user]What does a knob give?
 [Ninereeds]This is a knob.
 A knob opens a door.
 A knob closes a door.

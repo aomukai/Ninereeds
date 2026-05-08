@@ -5,7 +5,7 @@ Subject is a theme.
 Subject is an area of study.
 Subject is a person in experiment.
 Subject is a matter of discussion.
-Subject is a topic or area of study.
+Subject is a topic and area of study.
 
 [user]Where does subject appear?
 [Ninereeds]This is a subject.
@@ -25,7 +25,7 @@ Subject shapes discussion.
 Subject gives context.
 Subject provides focus and guides research.
 
-[user]What is subject for?
+[user]What does subject give?
 [Ninereeds]This is a subject.
 Subject is for learning.
 Subject is for understanding.

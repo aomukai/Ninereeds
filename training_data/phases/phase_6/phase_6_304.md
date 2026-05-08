@@ -25,11 +25,11 @@ Teach answers questions with patience.
 Teach guides practice until mastery.
 Teach is instructive and patient.
 
-[user]What is teach for?
+[user]What does teach give?
 [Ninereeds]This is teach.
-Teach is for sharing knowledge with others.
-Teach is for helping people learn skills.
-Teach is for building understanding in minds.
-Teach is for passing wisdom to next generation.
-Teach is for empowering through education.
+Teach gives knowledge to others.
+Teach helps people learn skills.
+Teach builds understanding in minds.
+Teach passes wisdom to the next generation.
+Teach empowers through education.
 Teach is essential and valuable.

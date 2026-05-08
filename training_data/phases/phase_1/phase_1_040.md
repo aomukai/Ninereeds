@@ -7,7 +7,7 @@ The berry is red.
 The berry is blue.
 The berry is small and round.
 
-[user]Where is a berry?
+[user]Where can you find a berry?
 [Ninereeds]This is a berry.
 The berry is on a plant.
 The berry is in a bush.

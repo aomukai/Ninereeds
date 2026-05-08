@@ -1,6 +1,6 @@
 [user]What does curve look like?
 [Ninereeds]This is a curve.
-A curve is not straight.
+A curve is straight.
 A curve is round.
 A curve is smooth.
 A curve is a bending line.
@@ -25,7 +25,7 @@ A curve is guiding.
 A curve is shaping.
 A curve is changing direction and shaping.
 
-[user]What is curve for?
+[user]What does curve give?
 [Ninereeds]This is a curve.
 A curve is for going around.
 A curve is for beauty.

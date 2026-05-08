@@ -22,7 +22,7 @@ Arriving brings people into one place.
 Arriving brings a clear moment.
 Arriving brings presence and meeting.
 
-[user]What is arriving for?
+[user]What does arriving give?
 [Ninereeds]Arriving is for reaching a place.
 Arriving is for joining a meeting.
 Arriving is for starting an event.

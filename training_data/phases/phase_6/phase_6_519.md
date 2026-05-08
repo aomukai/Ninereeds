@@ -22,7 +22,7 @@ Believing brings the mind a shelter against endless questioning.
 Believing brings the courage that only certainty can supply.
 Believing brings trust and conviction.
 
-[user]What is believing for?
+[user]What does believing give?
 [Ninereeds]Believing is for carrying a trusted view forward.
 Believing is for giving action a reason deeper than calculation.
 Believing is for holding steady when evidence runs thin.

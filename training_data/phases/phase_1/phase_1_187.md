@@ -7,7 +7,7 @@ An arm has a shoulder at the top.
 An arm has an elbow in the middle.
 An arm is a long part of the body with a hand at the end.
 
-[user]Where is an arm?
+[user]Where can you find an arm?
 [Ninereeds]This is an arm.
 An arm is on a person.
 An arm is on the side of the body.

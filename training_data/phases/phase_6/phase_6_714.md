@@ -5,7 +5,7 @@ Interest is a sum of money.
 Interest is a focus on a thing.
 Interest is a part of a deal.
 Interest is a keen attention.
-Interest is a feeling of care or a sum of money.
+Interest is a feeling of care and a sum of money.
 
 [user]Where does interest appear?
 [Ninereeds]This is interest.
@@ -14,7 +14,7 @@ Interest is in a bank.
 Interest is in a book.
 Interest is in a conversation.
 Interest is in a goal.
-Interest is in a mind or in a bank.
+Interest is in a mind and in a bank.
 
 [user]What does interest do?
 [Ninereeds]This is interest.
@@ -25,7 +25,7 @@ Interest makes a person listen.
 Interest makes a thing expand.
 Interest makes a person learn and money grow.
 
-[user]What is interest for?
+[user]What does interest give?
 [Ninereeds]This is interest.
 Interest is for learning.
 Interest is for profit.

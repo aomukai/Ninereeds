@@ -7,7 +7,7 @@ A hoe is long.
 A hoe has a blade at the end.
 A hoe has a long handle and a flat blade at the end.
 
-[user]Where is a hoe?
+[user]Where can you find a hoe?
 [Ninereeds]This is a hoe.
 A hoe is in a garden.
 A hoe is in a shed.
@@ -25,7 +25,7 @@ A hoe makes rows and lines.
 A hoe moves dirt around.
 A hoe cuts weeds and digs soil.
 
-[user]What is a hoe used for?
+[user]What does a hoe give?
 [Ninereeds]This is a hoe.
 A hoe makes a garden ready for plants.
 A hoe clears weeds from a bed.

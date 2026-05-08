@@ -7,7 +7,7 @@ A bar is made of wood.
 A bar is straight.
 A bar is a long, straight piece of material.
 
-[user]Where is the bar?
+[user]Where can you find the bar?
 [Ninereeds]This is a bar.
 A bar is in a building.
 A bar is in a park.
@@ -25,7 +25,7 @@ A bar helps a structure.
 A bar helps a machine work.
 A bar holds and supports a machine.
 
-[user]What is the bar for?
+[user]What does the bar give?
 [Ninereeds]This is a bar.
 A bar is for support.
 A bar is for blocking.

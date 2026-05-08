@@ -25,7 +25,7 @@ Charge applies force forward.
 Charge reaches a target fast.
 Charge moves a body forward fast.
 
-[user]What is charge for?
+[user]What does charge give?
 [Ninereeds]This is charge.
 Charge is for reaching a spot fast.
 Charge is for tackling in sport.

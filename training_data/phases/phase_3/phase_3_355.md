@@ -25,7 +25,7 @@ Flash gives a short shine in a room.
 Flash sends a beam of light out fast.
 Flash is quick and bright.
 
-[user]What is flash for?
+[user]What does flash give?
 [Ninereeds]This is flash.
 Flash shows a thing in the dark.
 Flash warns a person of danger.

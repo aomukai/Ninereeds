@@ -25,7 +25,7 @@ A beach gets wet.
 A beach gets sunny.
 A beach has sand and waves.
 
-[user]What is a beach for?
+[user]What does a beach give?
 [Ninereeds]This is a beach.
 A beach is for walking.
 A beach is for swimming.

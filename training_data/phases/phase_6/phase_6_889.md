@@ -7,7 +7,7 @@ Translation is a version.
 Translation is a change of form.
 Translation is a rendering of words and a conversion.
 
-[user]Where is translation found?
+[user]Where can you find translation?
 [Ninereeds]This is translation.
 Translation is found in books.
 Translation is found in languages.
@@ -25,7 +25,7 @@ Translation conveys ideas.
 Translation fosters understanding.
 Translation bridges languages and clarifies meaning.
 
-[user]What is translation for?
+[user]What does translation give?
 [Ninereeds]This is translation.
 Translation is for communication.
 Translation is for understanding.

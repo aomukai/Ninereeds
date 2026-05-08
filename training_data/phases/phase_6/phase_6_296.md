@@ -25,7 +25,7 @@ Swap creates fairness in distribution.
 Swap satisfies both sides of a deal.
 Swap is reciprocal and balancing.
 
-[user]What is swap for?
+[user]What does swap give?
 [Ninereeds]This is swap.
 Swap is for trading items between people.
 Swap is for getting something new.

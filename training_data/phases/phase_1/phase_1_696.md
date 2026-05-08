@@ -7,7 +7,7 @@ A newt is small.
 A newt is orange or brown.
 A newt is a small animal with a long tail.
 
-[user]Where is a newt?
+[user]Where can you find a newt?
 [Ninereeds]This is a newt.
 A newt is in a pond.
 A newt is under a rock.
@@ -25,7 +25,7 @@ A newt hides under rocks.
 A newt sleeps in mud.
 A newt is an animal that swims and walks.
 
-[user]What is a newt for?
+[user]What does a newt give?
 [Ninereeds]This is a newt.
 A newt eats small bugs.
 A newt cleans a pond.

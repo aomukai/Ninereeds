@@ -25,7 +25,7 @@ A drain empties a basin.
 A drain carries flow.
 A drain takes water away from a basin.
 
-[user]What is a drain for?
+[user]What does a drain give?
 [Ninereeds]This is a drain.
 A drain is for water.
 A drain is for a sink.

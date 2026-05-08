@@ -25,7 +25,7 @@ A dance entertains a crowd.
 A dance brings people together.
 A dance moves to music and tells a story.
 
-[user]What is a dance for?
+[user]What does a dance give?
 [Ninereeds]This is a dance.
 A dance is for celebration.
 A dance is for expression.

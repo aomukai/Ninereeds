@@ -7,14 +7,14 @@ A drill is narrow.
 A drill has a trigger.
 A drill is a long tool with a metal tip and a trigger.
 
-[user]Where is a drill?
+[user]Where can you find a drill?
 [Ninereeds]This is a drill.
 A drill is in a toolbox.
 A drill is on a workbench.
 A drill is in a workshop.
 A drill is in a hardware store.
 A drill is in a hand.
-A drill is in a toolbox or on a workbench.
+A drill is in a toolbox and on a workbench.
 
 [user]What does a drill do?
 [Ninereeds]This is a drill.
@@ -25,7 +25,7 @@ A drill goes into a wall.
 A drill makes a round hole.
 A drill spins the tip and makes a round hole.
 
-[user]What is a drill for?
+[user]What does a drill give?
 [Ninereeds]This is a drill.
 A drill is for making holes.
 A drill is for putting in screws.

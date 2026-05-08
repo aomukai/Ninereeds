@@ -7,7 +7,7 @@ symbol represents a thought.
 symbol appears on a page.
 symbol is a shape and a meaning.
 
-[user]Where is symbol?
+[user]Where can you find symbol?
 [Ninereeds]This is symbol.
 symbol is on a page.
 symbol is on a map.

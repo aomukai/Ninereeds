@@ -7,7 +7,7 @@ The block is made of wood.
 The block is rectangular.
 The block is solid and rectangular.
 
-[user]Where is a block?
+[user]Where can you find a block?
 [Ninereeds]This is a block.
 The block is on the floor.
 The block is on a table.

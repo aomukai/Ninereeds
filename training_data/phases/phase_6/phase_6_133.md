@@ -5,7 +5,7 @@ rate can be in a math page.
 rate can be on a pay sheet.
 rate means a measure of speed or amount in a set time.
 
-[user]Where is rate?
+[user]Where can you find rate?
 [Ninereeds]rate is here.
 rate can be in a math page.
 rate can be on a pay sheet.

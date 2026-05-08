@@ -7,7 +7,7 @@ Squirt travels through air.
 Squirt lands on a surface.
 Squirt is quick and thin.
 
-[user]Where is squirt?
+[user]Where can you find squirt?
 [Ninereeds]This is squirt.
 Squirt is from a bottle.
 Squirt is near a sink.
@@ -25,7 +25,7 @@ Squirt moves in a line.
 Squirt stops on a surface.
 Squirt is fast and wet.
 
-[user]What is squirt for?
+[user]What does squirt give?
 [Ninereeds]This is squirt.
 Squirt cleans a surface.
 Squirt waters a plant.

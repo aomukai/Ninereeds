@@ -25,7 +25,7 @@ A ripple fades away at the edge.
 A ripple disturbs the flat water.
 A ripple is a spreading wave and a fading pattern.
 
-[user]What is a ripple for?
+[user]What does a ripple give?
 [Ninereeds]This is a ripple.
 A ripple shows where a stone fell.
 A ripple signals a fish below the surface.

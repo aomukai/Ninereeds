@@ -22,7 +22,7 @@ Changing brings fresh results.
 Changing brings a break from the old state.
 Changing brings newness and movement.
 
-[user]what is changing for?
+[user]what does changing give?
 [Ninereeds]Changing is for reaching a new state.
 Changing is for shaping a different form.
 Changing is for moving a process forward.

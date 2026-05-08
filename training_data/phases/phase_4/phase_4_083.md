@@ -22,7 +22,7 @@ Bleeding brings a need for bandages.
 Bleeding brings danger in a body.
 Bleeding brings loss and care.
 
-[user]What is bleeding for?
+[user]What does bleeding give?
 [Ninereeds]Bleeding is for showing harm.
 Bleeding is for warning of injury.
 Bleeding is for drawing care.

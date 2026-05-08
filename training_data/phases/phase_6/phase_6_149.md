@@ -5,7 +5,7 @@ scatter can be in a yard.
 scatter can be on a floor or field.
 scatter means an act that sends small parts far apart.
 
-[user]Where is scatter?
+[user]Where can you find scatter?
 [Ninereeds]scatter is here.
 scatter can be in a yard.
 scatter can be on a floor or field.

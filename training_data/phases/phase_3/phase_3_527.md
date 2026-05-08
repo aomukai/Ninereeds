@@ -25,7 +25,7 @@ Swish sways stem.
 Swish flicks tail.
 Swish is sonorous and rustling.
 
-[user]What is swish for?
+[user]What does swish give?
 [Ninereeds]This is swish.
 Swish makes soft sound.
 Swish moves cloth.

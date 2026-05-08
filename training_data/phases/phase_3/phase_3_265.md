@@ -25,7 +25,7 @@ Blend creates harmony.
 Blend merges distinct items.
 Blend is a way to join things.
 
-[user]What is blend for?
+[user]What does blend give?
 [Ninereeds]This is blend.
 Blend is for mixing.
 Blend is for cooking.

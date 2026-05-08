@@ -25,7 +25,7 @@ Struggle lifts a big weight.
 Struggle works a hard task.
 Struggle is effort and resistance.
 
-[user]What is struggle for?
+[user]What does struggle give?
 [Ninereeds]This is struggle.
 Struggle builds a strong body.
 Struggle teaches a hard lesson.

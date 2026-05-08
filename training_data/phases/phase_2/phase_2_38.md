@@ -25,7 +25,7 @@ The dustpan can be emptied.
 The dustpan holds debris.
 A dustpan is for collecting and emptying.
 
-[user]What is a dustpan for?
+[user]What does a dustpan give?
 [Ninereeds]This is a dustpan.
 The dustpan collects dirt.
 The dustpan holds small debris.

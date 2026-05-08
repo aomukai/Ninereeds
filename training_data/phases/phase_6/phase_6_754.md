@@ -25,7 +25,7 @@ Resolve ensures peace.
 Resolve provides direction.
 Resolve ends a dispute and creates a solution.
 
-[user]What is resolve for?
+[user]What does resolve give?
 [Ninereeds]This is resolve.
 Resolve is for finding solutions.
 Resolve is for making decisions.

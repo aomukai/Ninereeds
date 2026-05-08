@@ -7,7 +7,7 @@ A road is straight or curved.
 A road is wide.
 A road is a long flat gray path.
 
-[user]Where is a road?
+[user]Where can you find a road?
 [Ninereeds]This is a road.
 A road is on the ground.
 A road is between houses.
@@ -25,7 +25,7 @@ A road guides travelers.
 A road stays on the ground.
 A road carries cars and connects towns.
 
-[user]What is a road for?
+[user]What does a road give?
 [Ninereeds]This is a road.
 A road is for driving on.
 A road is for walking on.

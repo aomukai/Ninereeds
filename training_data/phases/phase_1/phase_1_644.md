@@ -7,7 +7,7 @@ A lunchbox is bright.
 A lunchbox is red or blue or green and square.
 A lunchbox is square and has a lid.
 
-[user]Where is a lunchbox?
+[user]Where can you find a lunchbox?
 [Ninereeds]This is a lunchbox.
 A lunchbox is in a bag.
 A lunchbox is on a table.
@@ -25,7 +25,7 @@ A lunchbox opens and shuts.
 A lunchbox keeps a sandwich and a fruit safe.
 A lunchbox holds food and keeps a meal fresh.
 
-[user]What is a lunchbox for?
+[user]What does a lunchbox give?
 [Ninereeds]This is a lunchbox.
 A lunchbox is for lunch.
 A lunchbox is for food.

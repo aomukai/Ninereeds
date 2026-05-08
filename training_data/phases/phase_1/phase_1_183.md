@@ -7,7 +7,7 @@ An antler is brown or white.
 An antler forks at the end.
 An antler is a long hard bone with many points.
 
-[user]Where is an antler?
+[user]Where can you find an antler?
 [Ninereeds]This is an antler.
 An antler is on a deer.
 An antler is on the head of a buck.

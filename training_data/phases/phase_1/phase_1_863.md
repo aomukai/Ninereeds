@@ -7,7 +7,7 @@ A ring is a band.
 A ring is shiny.
 A ring is small and round and shiny.
 
-[user]Where is a ring?
+[user]Where can you find a ring?
 [Ninereeds]This is a ring.
 A ring is on a finger.
 A ring is in a box.
@@ -25,7 +25,7 @@ A ring sits on a hand.
 A ring holds a gem.
 A ring sits on a finger and catches light.
 
-[user]What is a ring for?
+[user]What does a ring give?
 [Ninereeds]This is a ring.
 A ring is for wearing on a finger.
 A ring is for decoration.

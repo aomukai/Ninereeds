@@ -5,7 +5,7 @@ weekday can be on a class chart or plan.
 weekday can be in a month page or note.
 weekday is a work or school day in a week.
 
-[user]Where is weekday?
+[user]Where can you find weekday?
 [Ninereeds]weekday is here.
 weekday can be on a class chart or plan.
 weekday can be in a month page or note.

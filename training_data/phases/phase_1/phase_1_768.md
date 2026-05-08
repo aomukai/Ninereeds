@@ -7,7 +7,7 @@ A pedal is attached to a crank.
 A pedal is painted black.
 A pedal is metal and long.
 
-[user]Where is a pedal?
+[user]Where can you find a pedal?
 [Ninereeds]This is a pedal.
 A pedal is a flat piece on a bike.
 A pedal is on a car.
@@ -25,7 +25,7 @@ A pedal works a machine.
 A pedal rotates a crank.
 A pedal turns a wheel and goes up and down.
 
-[user]What is a pedal for?
+[user]What does a pedal give?
 [Ninereeds]This is a pedal.
 A pedal is a flat piece for moving a bike.
 A pedal is for driving a car.

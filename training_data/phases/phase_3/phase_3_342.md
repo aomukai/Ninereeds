@@ -25,7 +25,7 @@ Escape finds a way out of a trap.
 Escape uses a fast run to leave.
 Escape takes a person out of a trap.
 
-[user]What is escape for?
+[user]What does escape give?
 [Ninereeds]This is escape.
 Escape gives a person a new place.
 Escape keeps a person safe from harm.

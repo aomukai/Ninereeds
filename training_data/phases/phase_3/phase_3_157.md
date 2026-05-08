@@ -25,7 +25,7 @@ A step begins a process.
 A step is part of a sequence.
 A step moves a person forward and changes location.
 
-[user]What is step for?
+[user]What does step give?
 [Ninereeds]This is a step.
 A step is for moving.
 A step is for advancing.

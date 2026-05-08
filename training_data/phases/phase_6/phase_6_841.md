@@ -7,7 +7,7 @@ Disconfirmation is a counter-evidence.
 Disconfirmation is a refutation.
 Disconfirmation is a proof of falsity and a rejection of a claim.
 
-[user]Where is disconfirmation found?
+[user]Where can you find disconfirmation?
 [Ninereeds]This is disconfirmation.
 Disconfirmation is found in experiments.
 Disconfirmation is found in research.
@@ -25,7 +25,7 @@ Disconfirmation prevents false beliefs.
 Disconfirmation guides future inquiry.
 Disconfirmation corrects errors and updates knowledge.
 
-[user]What is disconfirmation for?
+[user]What does disconfirmation give?
 [Ninereeds]This is disconfirmation.
 Disconfirmation is for scientific progress.
 Disconfirmation is for critical thinking.

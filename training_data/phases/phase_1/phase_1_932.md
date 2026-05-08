@@ -7,7 +7,7 @@ A shawl is wide.
 A shawl drapes over the shoulders.
 A shawl is soft and warm.
 
-[user]Where is a shawl?
+[user]Where can you find a shawl?
 [Ninereeds]This is a shawl.
 A shawl is on the shoulders.
 A shawl is around the neck.
@@ -25,7 +25,7 @@ A shawl protects from cold.
 A shawl wraps around a person.
 A shawl keeps the shoulders warm and covers the arms.
 
-[user]What is a shawl for?
+[user]What does a shawl give?
 [Ninereeds]This is a shawl.
 A shawl is for warmth.
 A shawl is for style.

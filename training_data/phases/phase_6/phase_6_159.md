@@ -5,7 +5,7 @@ scream can be in a play yard.
 scream can be in a bad dream or ride.
 scream means a very loud cry.
 
-[user]Where is scream?
+[user]Where can you find scream?
 [Ninereeds]scream is here.
 scream can be in a play yard.
 scream can be in a bad dream or ride.
@@ -14,7 +14,7 @@ scream can be in a play yard.
 
 [user]What does scream do?
 [Ninereeds]scream is here.
-scream can send fear or joy by sound.
+scream can send fear and joy by sound.
 scream can call for help in danger.
 scream can fill air with a loud cry.
 scream can send fear or joy by sound.

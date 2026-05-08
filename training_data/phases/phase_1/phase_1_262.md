@@ -7,7 +7,7 @@ Broth is yellow or brown.
 Broth is made from meat and water.
 Broth is warm and clear.
 
-[user]Where is broth?
+[user]Where can you find broth?
 [Ninereeds]This is broth.
 Broth is in a pot.
 Broth is in a bowl.
@@ -25,7 +25,7 @@ Broth smells like meat.
 Broth tastes salty.
 Broth warms a body and smells like meat.
 
-[user]What is broth for?
+[user]What does broth give?
 [Ninereeds]This is broth.
 Broth is for drinking.
 Broth is for soup.

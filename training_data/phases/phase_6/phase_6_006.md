@@ -3,7 +3,7 @@
 Infinite-dimensional is a big idea.
 Infinite-dimensional is about size.
 Infinite-dimensional is many ways.
-Infinite-dimensional is not ending.
+Infinite-dimensional is ending.
 Infinite-dimensional is very large.
 Infinite-dimensional is a big idea about very large size.
 
@@ -25,7 +25,7 @@ Infinite-dimensional is making new thoughts.
 Infinite-dimensional is making wonder.
 Infinite-dimensional is showing bigness and making wonder.
 
-[user]What is infinite-dimensional for?
+[user]What does infinite-dimensional give?
 [Ninereeds]This is infinite-dimensional.
 Infinite-dimensional is for deep maths.
 Infinite-dimensional is for big science.

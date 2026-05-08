@@ -25,7 +25,7 @@ We signals joint action.
 We implies common purpose.
 We is a pronoun that shows shared identity and joint action.
 
-[user]What is we for?
+[user]What does we give?
 [Ninereeds]This is we.
 We is for referring to a group.
 We is for inclusive language.

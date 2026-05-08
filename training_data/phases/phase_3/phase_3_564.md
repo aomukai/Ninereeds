@@ -1,31 +1,35 @@
 [user]What is uncovering?
-[Ninereeds]Uncovering is Taking a cover away.
-[Ninereeds]Uncovering is Revealing a hidden surface or fact.
-[Ninereeds]Uncovering is Opening a wrapped or hidden thing.
-[Ninereeds]Uncovering is Making a concealed part visible.
-[Ninereeds]Uncovering is Exposing a shape or truth.
-[Ninereeds]Uncovering is Reveal and expose.
+[Ninereeds]This is uncovering.
+Uncovering is taking a cover away.
+Uncovering is revealing a hidden surface or fact.
+Uncovering is opening a wrapped or hidden thing.
+Uncovering is making a concealed part visible.
+Uncovering is exposing a shape or truth.
+Uncovering is reveal and expose.
 
 [user]When does uncovering happen?
-[Ninereeds]Uncovering happens when Cloth, dirt, or silence hides a thing.
-[Ninereeds]Uncovering happens when A cover lifts.
-[Ninereeds]Uncovering happens when A search reaches a hidden layer.
-[Ninereeds]Uncovering happens when A lid, veil, or film moves away.
-[Ninereeds]Uncovering happens when A secret, object, or surface comes into view.
-[Ninereeds]Uncovering happens when Reveal and exposure follow the lift.
+[Ninereeds]This is uncovering.
+Uncovering happens when cloth, dirt, or silence hides a thing.
+Uncovering happens when a cover lifts.
+Uncovering happens when a search reaches a hidden layer.
+Uncovering happens when a lid, veil, or film moves away.
+Uncovering happens when a secret, object, or surface comes into view.
+Uncovering happens when reveal and exposure follow the lift.
 
 [user]What does uncovering bring?
-[Ninereeds]Uncovering brings A clear view.
-[Ninereeds]Uncovering brings A hidden detail.
-[Ninereeds]Uncovering brings A visible surface.
-[Ninereeds]Uncovering brings A fresh sign.
-[Ninereeds]Uncovering brings A seen shape.
-[Ninereeds]Uncovering brings View and exposure.
+[Ninereeds]This is uncovering.
+Uncovering brings a clear view.
+Uncovering brings a hidden detail.
+Uncovering brings a visible surface.
+Uncovering brings a fresh sign.
+Uncovering brings a seen shape.
+Uncovering brings view and exposure.
 
-[user]What is uncovering for?
-[Ninereeds]Uncovering is for Revealing a hidden part.
-[Ninereeds]Uncovering is for Taking away a cover.
-[Ninereeds]Uncovering is for Making a fact visible.
-[Ninereeds]Uncovering is for Opening a concealed space.
-[Ninereeds]Uncovering is for Showing a shape or truth.
-[Ninereeds]Uncovering is for Reveal and view.
+[user]What does uncovering give?
+[Ninereeds]This is uncovering.
+Uncovering is for revealing a hidden part.
+Uncovering is for taking away a cover.
+Uncovering is for making a fact visible.
+Uncovering is for opening a concealed space.
+Uncovering is for showing a shape or truth.
+Uncovering is for reveal and view.

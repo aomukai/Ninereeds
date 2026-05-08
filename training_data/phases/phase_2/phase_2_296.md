@@ -7,7 +7,7 @@ A pancake has small holes.
 A pancake is soft.
 A pancake is a soft golden brown disk.
 
-[user]Where is a pancake?
+[user]Where can you find a pancake?
 [Ninereeds]This is a pancake.
 A pancake is on a plate.
 A pancake is in a pan.

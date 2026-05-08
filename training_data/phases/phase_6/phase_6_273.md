@@ -25,7 +25,7 @@ Sting creates a small welt.
 Sting warns a creature to stay away.
 Sting is painful and protective.
 
-[user]What is sting for?
+[user]What does sting give?
 [Ninereeds]This is sting.
 Sting defends a bee or wasp.
 Sting protects a nest from threats.

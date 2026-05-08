@@ -5,7 +5,7 @@ planet can move around a star.
 planet can be rock or gas.
 planet means a world in space.
 
-[user]Where is planet?
+[user]Where can you find planet?
 [Ninereeds]planet is here.
 planet can be in a solar system.
 planet can be in dark space.

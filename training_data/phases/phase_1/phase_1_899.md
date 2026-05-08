@@ -7,7 +7,7 @@ Sauce is brown for meat.
 Sauce is smooth.
 Sauce is thick and smooth.
 
-[user]Where is sauce?
+[user]Where can you find sauce?
 [Ninereeds]This is sauce.
 Sauce is on a plate.
 Sauce is over noodles.
@@ -25,7 +25,7 @@ Sauce sticks to noodles.
 Sauce mixes with meat.
 Sauce adds flavor and covers food.
 
-[user]What is sauce used for?
+[user]What does sauce give?
 [Ninereeds]This is sauce.
 Sauce is for pasta.
 Sauce is for meat.

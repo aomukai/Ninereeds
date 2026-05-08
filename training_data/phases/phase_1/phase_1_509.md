@@ -8,7 +8,7 @@ A gate swings open and shut.
 A gate is a door in a fence with bars and a latch.
 
 
-[user]Where is a gate?
+[user]Where can you find a gate?
 [Ninereeds]This is a gate.
 A gate is in a fence.
 A gate is at the front of a yard.
@@ -28,7 +28,7 @@ A gate lets a person go through.
 A gate opens for people and closes to keep things in.
 
 
-[user]What is a gate for?
+[user]What does a gate give?
 [Ninereeds]This is a gate.
 A gate is for a fence.
 A gate is for a yard.

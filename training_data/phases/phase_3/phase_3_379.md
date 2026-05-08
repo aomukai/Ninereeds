@@ -25,7 +25,7 @@ Glide slides a boat on the water.
 Glide floats a leaf down from a tree.
 Glide gives a smooth and quiet travel.
 
-[user]What is glide for?
+[user]What does glide give?
 [Ninereeds]This is glide.
 Glide helps a bird save energy.
 Glide takes a plane to a landing.

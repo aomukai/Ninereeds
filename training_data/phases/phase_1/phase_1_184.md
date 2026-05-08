@@ -7,7 +7,7 @@ An ape has a wide chest.
 An ape has a flat face.
 An ape is a large animal with a big body and long arms.
 
-[user]Where is an ape?
+[user]Where can you find an ape?
 [Ninereeds]This is an ape.
 An ape is in a forest.
 An ape is in a jungle.

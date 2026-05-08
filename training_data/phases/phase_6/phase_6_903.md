@@ -22,7 +22,7 @@ Approximating brings a working number.
 Approximating brings a near fit.
 Approximating brings speed and fit.
 
-[user]What is approximating for?
+[user]What does approximating give?
 [Ninereeds]Approximating is for reaching a close answer.
 Approximating is for saving time.
 Approximating is for using rough measure.

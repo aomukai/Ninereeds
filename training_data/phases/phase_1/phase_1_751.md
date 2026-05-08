@@ -6,7 +6,7 @@ A panda has black ears.
 A panda has black patches around eyes.
 A panda is a bear with black and white fur and a round face.
 
-[user]Where is a panda?
+[user]Where can you find a panda?
 [Ninereeds]This is a panda.
 A panda lives in China.
 A panda stays in bamboo forests.
@@ -24,7 +24,7 @@ A panda rolls on the ground.
 A panda climbs trees for fun.
 A panda eats bamboo all day and chews bamboo stalks.
 
-[user]What is a panda for?
+[user]What does a panda give?
 [Ninereeds]This is a panda.
 A panda is a symbol for China.
 A panda teaches about animal conservation.

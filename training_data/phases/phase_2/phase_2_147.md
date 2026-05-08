@@ -25,7 +25,7 @@ A scaffold provides a working platform.
 A scaffold allows safe ascent.
 A scaffold supports workers and holds materials.
 
-[user]What is a scaffold for?
+[user]What does a scaffold give?
 [Ninereeds]This is a scaffold.
 A scaffold is for building.
 A scaffold is for repairing.

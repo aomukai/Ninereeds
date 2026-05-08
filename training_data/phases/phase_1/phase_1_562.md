@@ -7,7 +7,7 @@ A hen has wings and a tail.
 A hen has a comb on top.
 A hen is a bird with feathers and a beak and two legs and wings.
 
-[user]Where is a hen?
+[user]Where can you find a hen?
 [Ninereeds]This is a hen.
 A hen is in a coop.
 A hen is on a farm.
@@ -25,7 +25,7 @@ A hen clucks and chirps.
 A hen scratches the ground.
 A hen lays eggs and sits on eggs.
 
-[user]What is a hen used for?
+[user]What does a hen give?
 [Ninereeds]This is a hen.
 A hen gives eggs.
 A hen gives meat.

@@ -25,7 +25,7 @@ An echo copies a noise.
 An echo sends sound back.
 An echo repeats a sound and sends it back.
 
-[user]What is an echo for?
+[user]What does an echo give?
 [Ninereeds]This is an echo.
 An echo is for a call.
 An echo is for a song.

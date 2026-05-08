@@ -7,7 +7,7 @@ A warehouse has big doors.
 A warehouse is a big tall building.
 A warehouse is a big tall building with big doors.
 
-[user]Where is a warehouse?
+[user]Where can you find a warehouse?
 [Ninereeds]This is a warehouse.
 A warehouse is in a city.
 A warehouse is near a road.

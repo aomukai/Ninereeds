@@ -6,7 +6,7 @@ A leash is made of rope.
 A leash has a clip at the end.
 A leash is a long thin rope.
 
-[user]Where is a leash?
+[user]Where can you find a leash?
 [Ninereeds]This is a leash.
 A leash is on a dog.
 A leash is in a hand.
@@ -22,7 +22,7 @@ A leash stops a dog from the road.
 A leash keeps a dog near a person.
 A leash holds a dog and stops a dog from the road.
 
-[user]What is a leash for?
+[user]What does a leash give?
 [Ninereeds]This is a leash.
 A leash is for a dog.
 A leash is for a walk.

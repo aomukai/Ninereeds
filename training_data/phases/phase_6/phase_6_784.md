@@ -1,35 +1,35 @@
 [user]What is plain?
-[Ninereeds]This is plain.
-Plain is simple.
-Plain is clear.
-Plain is ordinary.
-Plain is without decoration.
-Plain is easy to understand.
-Plain is simple and clear.
+[Ninereeds]This is plainness.
+Plainness is simple.
+Plainness is clear.
+Plainness is ordinary.
+Plainness is with decoration.
+Plainness is easy to understand.
+Plainness is simple and clear.
 
-[user]Where is plain found?
-[Ninereeds]This is plain.
-Plain is found in language.
-Plain is found in clothes.
-Plain is found in food.
-Plain is found in facts.
-Plain is found in a landscape.
-Plain is found in language and in clothes.
+[user]Where can you find plain?
+[Ninereeds]This is plainness.
+Plainness is found in language.
+Plainness is found in clothes.
+Plainness is found in food.
+Plainness is found in facts.
+Plainness is found in a landscape.
+Plainness is found in language and in clothes.
 
 [user]What does plain do?
-[Ninereeds]This is plain.
-Plain makes things easy.
-Plain avoids confusion.
-Plain communicates directly.
-Plain does not distract.
-Plain serves a purpose.
-Plain makes things easy and avoids confusion.
+[Ninereeds]This is plainness.
+Plainness makes things easy.
+Plainness avoids confusion.
+Plainness communicates directly.
+Plainness keeps focus.
+Plainness serves a purpose.
+Plainness makes things easy and avoids confusion.
 
-[user]What is plain for?
-[Ninereeds]This is plain.
-Plain is for clarity.
-Plain is for basic understanding.
-Plain is for functional design.
-Plain is for honesty.
-Plain is for accessibility.
-Plain is for clarity and basic understanding.
+[user]What does plain give?
+[Ninereeds]This is plainness.
+Plainness is for clarity.
+Plainness is for basic understanding.
+Plainness is for functional design.
+Plainness is for honesty.
+Plainness is for accessibility.
+Plainness is for clarity and basic understanding.

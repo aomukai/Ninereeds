@@ -7,7 +7,7 @@ A fish has gills.
 A fish lives in water.
 A fish is an animal with scales and fins in water.
 
-[user]Where is a fish?
+[user]Where can you find a fish?
 [Ninereeds]This is a fish.
 A fish is in a pond.
 A fish is in a lake.

@@ -7,7 +7,7 @@ A mast is made of wood.
 A mast stands up on a ship.
 A mast is a tall straight pole on a ship.
 
-[user]Where is a mast?
+[user]Where can you find a mast?
 [Ninereeds]This is a mast.
 A mast is on a ship.
 A mast is on a sailboat.
@@ -25,7 +25,7 @@ A mast bends in a storm.
 A mast keeps the sail up.
 A mast holds the sail up in the wind.
 
-[user]What is a mast for?
+[user]What does a mast give?
 [Ninereeds]This is a mast.
 A mast holds the sail high.
 A mast helps the boat catch wind.

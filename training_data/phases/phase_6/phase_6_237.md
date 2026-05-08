@@ -25,7 +25,7 @@ Sore warns of strain in a limb.
 Sore reminds a child to rest.
 Sore aches and signals.
 
-[user]What is sore for?
+[user]What does sore give?
 [Ninereeds]This is sore.
 Sore is for signaling overworked muscles.
 Sore is for warning about body strain.

@@ -7,7 +7,7 @@ A community has public spaces.
 A community is organized.
 A community is an organized group of people in a place with homes.
 
-[user]Where is a community?
+[user]Where can you find a community?
 [Ninereeds]This is a community.
 A community is in a town.
 A community is in a city.
@@ -25,7 +25,7 @@ A community works together.
 A community supports each other.
 A community helps neighbors and works together.
 
-[user]What is a community for?
+[user]What does a community give?
 [Ninereeds]This is a community.
 A community is for living.
 A community is for working.

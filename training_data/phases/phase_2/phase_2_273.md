@@ -25,7 +25,7 @@ A mealtime helps people talk.
 A mealtime provides nutrition.
 A mealtime is a time for food and talk.
 
-[user]What is a mealtime for?
+[user]What does a mealtime give?
 [Ninereeds]This is a mealtime.
 A mealtime is for eating food.
 A mealtime is for family.

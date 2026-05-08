@@ -7,14 +7,14 @@ A house has a door.
 A house is a building.
 A house has walls and a roof.
 
-[user]Where is a house?
+[user]Where can you find a house?
 [Ninereeds]This is a house.
 A house is on a street.
 A house is on land.
 A house is by a road.
 A house is in a neighborhood.
 A house is near a tree.
-A house is on a street in a neighborhood.
+A house is on a street and in a neighborhood.
 
 [user]What does a house do?
 [Ninereeds]This is a house.

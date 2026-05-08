@@ -7,7 +7,7 @@ The star is far above the ground.
 The star is a point of light.
 A star is small and bright.
 
-[user]Where is a star?
+[user]Where can you find a star?
 [Ninereeds]This is a star.
 The star is in the night sky.
 The star is above the trees.

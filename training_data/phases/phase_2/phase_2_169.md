@@ -14,7 +14,7 @@ A park is near a river.
 A park is by a street.
 A park is by a road.
 A park is in a neighborhood.
-A park is in a district near a river.
+A park is in a district and near a river.
 
 [user]What does a park do?
 [Ninereeds]This is a park.
@@ -25,7 +25,7 @@ A park provides open lawns.
 A park creates gathering spots.
 A park holds community events and hosts sports games.
 
-[user]What is a park for?
+[user]What does a park give?
 [Ninereeds]This is a park.
 A park is for exercise.
 A park is for community.

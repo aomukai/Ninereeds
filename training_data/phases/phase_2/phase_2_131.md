@@ -7,14 +7,14 @@ A leader is a guide.
 A leader is a chief.
 A leader is a confident person who guides a group.
 
-[user]Where is a leader?
+[user]Where can you find a leader?
 [Ninereeds]This is a leader.
 A leader is in front.
 A leader is in a team.
 A leader is in a group.
 A leader is in a government.
 A leader is in an organization.
-A leader is in front of a team or a group.
+A leader is in front of a team and a group.
 
 [user]What does a leader do?
 [Ninereeds]This is a leader.
@@ -25,7 +25,7 @@ A leader takes responsibility.
 A leader motivates a group.
 A leader gives direction and inspires people.
 
-[user]What is a leader for?
+[user]What does a leader give?
 [Ninereeds]This is a leader.
 A leader is for guiding a group.
 A leader is for achieving goals.

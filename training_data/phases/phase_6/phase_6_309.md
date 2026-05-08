@@ -1,27 +1,35 @@
-[user]What is territory?
-[Ninereeds]territory is here.
-territory is an area claimed by a group.
-territory marks space for food and rest.
-territory defends against other groups.
-territory means a bounded region.
+[user]What is a territory?
+[Ninereeds]This is a territory.
+A territory is an area claimed by a group.
+A territory provides food and rest for a group.
+A territory is defended against others.
+A territory has clear boundaries.
+A territory is a home range for an animal.
+A territory is a claimed area and has clear boundaries.
 
-[user]Where is territory?
-[Ninereeds]territory is here.
-territory is around a den or nest.
-territory is in woods or on land.
-territory is visible on a map.
-territory can be marked by a boundary.
+[user]Where can you find a territory?
+[Ninereeds]This is a territory.
+A territory is around a den or nest.
+A territory is in woods or on land.
+A territory is visible on a map.
+A territory is marked by a boundary.
+A territory is in a forest or on a plain.
+A territory is around a den and visible on a map.
 
-[user]What does territory do?
-[Ninereeds]territory is here.
-territory protects a group from intrusion.
-territory provides resources for survival.
-territory defines a home range.
-territory establishes ownership of space.
+[user]What does a territory do?
+[Ninereeds]This is a territory.
+A territory protects a group from intrusion.
+A territory provides resources for survival.
+A territory defines a home range.
+A territory establishes ownership of space.
+A territory keeps a group safe from rivals.
+A territory protects a group and defines a home range.
 
-[user]What is territory like?
-[Ninereeds]territory is here.
-territory is large or small by need.
-territory is guarded by the group.
-territory is marked with scent or signs.
-territory means a claimed and defended space.
+[user]What does a territory give?
+[Ninereeds]This is a territory.
+A territory is for living.
+A territory is for hunting.
+A territory is for raising young.
+A territory is for safety.
+A territory is for claiming space.
+A territory is for living and safety.

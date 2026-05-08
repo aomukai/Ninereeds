@@ -25,7 +25,7 @@ Imprint sets a pattern.
 Imprint creates a lasting effect.
 Imprint forms a shape and leaves a record.
 
-[user]What is imprint for?
+[user]What does imprint give?
 [Ninereeds]This is imprint.
 Imprint is for identification.
 Imprint is for remembrance.

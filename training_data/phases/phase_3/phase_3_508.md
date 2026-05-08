@@ -25,7 +25,7 @@ Storm flashes light.
 Storm moves fast.
 Storm is swift and loud.
 
-[user]What is a storm for?
+[user]What does a storm give?
 [Ninereeds]This is a storm.
 Storm waters plants.
 Storm dusts air.

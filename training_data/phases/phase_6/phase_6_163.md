@@ -5,7 +5,7 @@ season can be on a wall chart.
 season can be in a farm plan or book.
 season means a part of a year with weather of a kind.
 
-[user]Where is season?
+[user]Where can you find season?
 [Ninereeds]season is here.
 season can be on a wall chart.
 season can be in a farm plan or book.
@@ -14,7 +14,7 @@ season can be on a wall chart.
 
 [user]What does season do?
 [Ninereeds]season is here.
-season can bring heat, cold, rain, or leaf fall.
+season can bring heat, cold, rain, and leaf fall.
 season can guide plant and trip plan.
 season can change day and night over a year.
 season can bring heat, cold, rain, or leaf fall.

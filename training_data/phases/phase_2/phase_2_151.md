@@ -25,7 +25,7 @@ A soldier is a fighter.
 A soldier is a protector.
 A soldier is a marcher and a fighter.
 
-[user]What is a soldier for?
+[user]What does a soldier give?
 [Ninereeds]This is a soldier.
 A soldier is defensive.
 A soldier is protective.

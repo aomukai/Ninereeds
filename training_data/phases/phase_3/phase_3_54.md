@@ -5,7 +5,7 @@ Produce is to create.
 Produce is to generate.
 Produce is to bring forth.
 Produce is to yield.
-Produce is to make or create something.
+Produce is to make and create something.
 
 [user]Where does produce appear?
 [Ninereeds]This is produce.
@@ -25,7 +25,7 @@ Produce results in output.
 Produce builds resources.
 Produce makes new things and provides goods.
 
-[user]What is produce for?
+[user]What does produce give?
 [Ninereeds]This is produce.
 Produce is for human needs.
 Produce is for economic growth.

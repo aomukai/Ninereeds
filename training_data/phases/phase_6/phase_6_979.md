@@ -5,7 +5,7 @@ Manipulation means skilled handling.
 Manipulation means controlling something.
 Manipulation means influencing something.
 Manipulation is a process.
-Manipulation is a process of controlling or influencing.
+Manipulation is a process of controlling and influencing.
 
 [user]Where does manipulation appear?
 [Ninereeds]This is manipulation.
@@ -25,7 +25,7 @@ Manipulation guides movement.
 Manipulation is influential.
 Manipulation is influential and directs outcomes.
 
-[user]What is manipulation for?
+[user]What does manipulation give?
 [Ninereeds]This is manipulation.
 Manipulation is for control.
 Manipulation is for influence.

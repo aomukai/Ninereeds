@@ -22,7 +22,7 @@ Drawing brings marks into order.
 Drawing brings a picture from simple tools.
 Drawing brings view and shape.
 
-[user]what is drawing for?
+[user]what does drawing give?
 [Ninereeds]Drawing is for making pictures.
 Drawing is for showing ideas.
 Drawing is for shaping lines into form.

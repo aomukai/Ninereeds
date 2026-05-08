@@ -7,7 +7,7 @@ The jar is clear so contents can be seen.
 The jar is a short wide container with a lid.
 The jar is wide and clear.
 
-[user]Where is a jar?
+[user]Where can you find a jar?
 [Ninereeds]This is a jar.
 The jar is on a shelf.
 The jar is in a cupboard.
@@ -25,7 +25,7 @@ The jar stores food for a long time.
 The jar is a wide container that holds and stores food with a lid.
 The jar is wide and safe.
 
-[user]What is a jar used for?
+[user]What does a jar give?
 [Ninereeds]This is a jar.
 The jar is used for storing honey or jam.
 The jar is used to keep food fresh.

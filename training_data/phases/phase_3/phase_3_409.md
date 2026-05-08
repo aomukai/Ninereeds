@@ -7,7 +7,7 @@ Kick is a thrust.
 Kick is a hit.
 Kick is a strike with a foot in motion.
 
-[user]Where is kick?
+[user]Where can you find kick?
 [Ninereeds]This is kick.
 Kick is at a ball.
 Kick is on a field.
@@ -25,11 +25,11 @@ Kick strikes a thing.
 Kick drives force with a leg.
 Kick sends a ball forward with force.
 
-[user]What is kick for?
+[user]What does kick give?
 [Ninereeds]This is kick.
 Kick scores a goal.
 Kick passes to a friend.
 Kick starts a game.
 Kick clears a path.
 Kick is a move in sport or fight.
-Kick scores a goal or passes to a friend.
+Kick scores a goal and passes to a friend.

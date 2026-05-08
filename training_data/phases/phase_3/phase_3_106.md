@@ -25,7 +25,7 @@ Drift spreads material.
 Drift causes displacement.
 Drift transports and disperses.
 
-[user]What is drift for?
+[user]What does drift give?
 [Ninereeds]This is drift.
 Drift relaxes the mind.
 Drift aids exploration.

@@ -5,7 +5,7 @@ protein can be in egg bean or fish.
 protein can help body mend after work or play.
 protein means a food part that helps body grow and stay strong.
 
-[user]Where is protein?
+[user]Where can you find protein?
 [Ninereeds]protein is here.
 protein can be in a meal.
 protein can be in a lunch box.

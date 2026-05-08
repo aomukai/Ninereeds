@@ -7,7 +7,7 @@ A radio has a dial.
 A radio is a machine.
 A radio is a box and a machine.
 
-[user]Where is a radio?
+[user]Where can you find a radio?
 [Ninereeds]This is a radio.
 A radio is in a house.
 A radio is in a car.
@@ -25,7 +25,7 @@ A radio plays voices.
 A radio plays from far away.
 A radio plays sounds and music.
 
-[user]What is a radio for?
+[user]What does a radio give?
 [Ninereeds]This is a radio.
 A radio is for music.
 A radio is for news.

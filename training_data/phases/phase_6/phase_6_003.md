@@ -25,7 +25,7 @@ Arithmetic is dividing.
 Arithmetic is finding answers.
 Arithmetic is finding answers by numbers.
 
-[user]What is arithmetic for?
+[user]What does arithmetic give?
 [Ninereeds]This is arithmetic.
 Arithmetic is for counting.
 Arithmetic is for money.

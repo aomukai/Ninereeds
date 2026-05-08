@@ -7,7 +7,7 @@ A heater has a fan.
 A heater has coils.
 A heater is a box and a fan.
 
-[user]Where is a heater?
+[user]Where can you find a heater?
 [Ninereeds]This is a heater.
 A heater is in a room.
 A heater is on the floor.
@@ -25,7 +25,7 @@ A heater runs on power.
 A heater turns on and off.
 A heater makes heat and warms a room.
 
-[user]What is a heater used for?
+[user]What does a heater give?
 [Ninereeds]This is a heater.
 A heater warms a cold room.
 A heater keeps a house warm.

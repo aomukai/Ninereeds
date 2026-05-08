@@ -5,7 +5,7 @@ shoot can be on a field.
 shoot can be by a goal or bow.
 shoot means an act of sending a thing out fast.
 
-[user]Where is shoot?
+[user]Where can you find shoot?
 [Ninereeds]shoot is here.
 shoot can be on a field.
 shoot can be by a goal or bow.

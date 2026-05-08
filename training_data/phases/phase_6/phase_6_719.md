@@ -7,7 +7,7 @@ A context is information around a word.
 A context is information around an event.
 A context is a setting and information around an event.
 
-[user]Where is context?
+[user]Where can you find context?
 [Ninereeds]This is a context.
 A context is in a situation.
 A context is in a conversation.
@@ -25,7 +25,7 @@ A context shapes perceptions.
 A context gives perspective.
 A context clarifies meaning and helps interpret words.
 
-[user]What is context for?
+[user]What does context give?
 [Ninereeds]This is a context.
 A context is for understanding.
 A context is for making sense.

@@ -5,7 +5,7 @@ verse can be on a page or screen.
 verse can be in a song or book.
 verse is one short part of a song or poem.
 
-[user]Where is verse?
+[user]Where can you find verse?
 [Ninereeds]verse is here.
 verse can be on a page or screen.
 verse can be in a song or book.

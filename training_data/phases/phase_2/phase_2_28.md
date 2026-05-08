@@ -6,7 +6,7 @@ The eggshell is white or brown.
 The eggshell is fragile.
 An eggshell is the outer covering of an egg.
 
-[user]Where is an eggshell?
+[user]Where can you find an eggshell?
 [Ninereeds]This is an eggshell.
 The eggshell is around an egg.
 The eggshell is in a carton.

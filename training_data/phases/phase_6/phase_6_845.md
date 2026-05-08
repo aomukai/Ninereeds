@@ -7,7 +7,7 @@ Accountability is a duty.
 Accountability is a answerability.
 Accountability is an obligation to explain and a responsibility.
 
-[user]Where is accountability found?
+[user]Where can you find accountability?
 [Ninereeds]This is accountability.
 Accountability is found in leadership.
 Accountability is found in governments.
@@ -25,7 +25,7 @@ Accountability promotes good governance.
 Accountability drives performance.
 Accountability ensures transparency and fosters trust.
 
-[user]What is accountability for?
+[user]What does accountability give?
 [Ninereeds]This is accountability.
 Accountability is for good governance.
 Accountability is for ethical conduct.

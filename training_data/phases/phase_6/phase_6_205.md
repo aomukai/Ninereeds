@@ -25,7 +25,7 @@ Simmer releases aromas.
 Simmer maintains temperature.
 Simmer cooks and blends.
 
-[user]What is simmer for?
+[user]What does simmer give?
 [Ninereeds]This is simmer.
 Simmer is for slow cooking.
 Simmer is for making soup.

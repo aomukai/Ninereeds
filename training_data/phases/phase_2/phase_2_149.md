@@ -7,14 +7,14 @@ A storyteller is imaginative.
 A storyteller is engaging.
 A storyteller is an imaginative person with a voice.
 
-[user]Where is a storyteller?
+[user]Where can you find a storyteller?
 [Ninereeds]This is a storyteller.
 A storyteller is in a circle.
 A storyteller is on a stage.
 A storyteller is in a book.
 A storyteller is in a memory.
 A storyteller is in a film.
-A storyteller is in a circle or on a stage.
+A storyteller is in a circle and on a stage.
 
 [user]What does a storyteller do?
 [Ninereeds]This is a storyteller.
@@ -25,7 +25,7 @@ A storyteller expresses feelings.
 A storyteller passes on knowledge.
 A storyteller tells tales and creates worlds.
 
-[user]What is a storyteller for?
+[user]What does a storyteller give?
 [Ninereeds]This is a storyteller.
 A storyteller is for entertaining.
 A storyteller is for educating.

@@ -25,7 +25,7 @@ A neighbor waves.
 A neighbor plays.
 A neighbor is a talker and a helper.
 
-[user]What is a neighbor for?
+[user]What does a neighbor give?
 [Ninereeds]This is a neighbor.
 A neighbor is for talking.
 A neighbor is for helping.

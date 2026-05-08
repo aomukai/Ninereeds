@@ -25,7 +25,7 @@ Triangle-ness helps in calculations.
 Triangle-ness helps in logic.
 Triangle-ness defines and categorizes shapes.
 
-[user]What is triangle-ness for?
+[user]What does triangle-ness give?
 [Ninereeds]This is triangle-ness.
 Triangle-ness is for understanding forms.
 Triangle-ness is for architectural design.

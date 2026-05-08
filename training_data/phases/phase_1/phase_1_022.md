@@ -7,7 +7,7 @@ The spoon has a round end.
 The spoon is used for scooping.
 A spoon is small and hard.
 
-[user]Where is a spoon?
+[user]Where can you find a spoon?
 [Ninereeds]This is a spoon.
 The spoon is on a table.
 The spoon is in a bowl.

@@ -25,7 +25,7 @@ Wear adds color to a person.
 Wear makes a person ready for the day.
 Wear keeps a person warm and protects the skin.
 
-[user]What is wear for?
+[user]What does wear give?
 [Ninereeds]This is wear.
 Wear is for staying warm.
 Wear is for protection.

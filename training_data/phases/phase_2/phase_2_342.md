@@ -7,7 +7,7 @@ Tunnel is a hollow space.
 Tunnel has a smooth ceiling.
 Tunnel is long and dark.
 
-[user]Where is a tunnel?
+[user]Where can you find a tunnel?
 [Ninereeds]This is a tunnel.
 Tunnel is under a hill.
 Tunnel is through a mountain.
@@ -25,7 +25,7 @@ Tunnel moves water away.
 Tunnel lets light pass.
 Tunnel carries and supports.
 
-[user]What is a tunnel for?
+[user]What does a tunnel give?
 [Ninereeds]This is a tunnel.
 Tunnel is for travel.
 Tunnel is a connection.

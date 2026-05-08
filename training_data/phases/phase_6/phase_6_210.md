@@ -7,7 +7,7 @@ size is a mark on a shoe.
 size is a sign on a shelf.
 size is visible and numeric.
 
-[user]Where is size?
+[user]Where can you find size?
 [Ninereeds]This is size.
 size is on a clothing tag.
 size is inside a shoe.
@@ -25,7 +25,7 @@ size sorts things by dimension.
 size indicates a proper scale.
 size assists and informs.
 
-[user]What is size for?
+[user]What does size give?
 [Ninereeds]This is size.
 size is for fitting a body.
 size is for matching a shoe.

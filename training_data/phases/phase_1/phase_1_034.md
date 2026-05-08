@@ -7,7 +7,7 @@ Milk is cool.
 Milk is fresh.
 Milk is white and liquid.
 
-[user]Where is milk?
+[user]Where can you find milk?
 [Ninereeds]This is milk.
 Milk is in a glass.
 Milk is in a bottle.

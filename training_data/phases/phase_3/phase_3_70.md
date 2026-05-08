@@ -22,7 +22,7 @@ Frightening brings a quick jump in feeling.
 Frightening brings a need for safety.
 Frightening brings fear and caution.
 
-[user]What is frightening for?
+[user]What does frightening give?
 [Ninereeds]Frightening is for warning a person.
 Frightening is for showing danger.
 Frightening is for stopping careless action.

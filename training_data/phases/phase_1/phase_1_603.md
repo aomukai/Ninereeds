@@ -7,7 +7,7 @@ A knife has a handle.
 A knife has a tip.
 A knife is long and sharp.
 
-[user]Where is a knife found?
+[user]Where can you find a knife?
 [Ninereeds]This is a knife.
 A knife is in a kitchen.
 A knife is in a drawer.
@@ -25,7 +25,7 @@ A knife dices.
 A knife carves.
 A knife cuts and slices.
 
-[user]What is a knife used for?
+[user]What does a knife give?
 [Ninereeds]This is a knife.
 A knife spreads butter.
 A knife peels fruit.

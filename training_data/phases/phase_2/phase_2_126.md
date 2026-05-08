@@ -25,7 +25,7 @@ A physicist conducts experiments.
 A physicist discovers natural laws.
 A physicist studies matter and tests theories.
 
-[user]What is a physicist for?
+[user]What does a physicist give?
 [Ninereeds]This is a physicist.
 A physicist is for understanding nature.
 A physicist is for discovering laws.

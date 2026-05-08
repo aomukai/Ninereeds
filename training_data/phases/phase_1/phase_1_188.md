@@ -7,7 +7,7 @@ An aroma smells like fresh bread.
 An aroma smells like a blooming flower.
 An aroma smells sweet and like fresh bread.
 
-[user]Where is an aroma?
+[user]Where can you find an aroma?
 [Ninereeds]This is an aroma.
 An aroma is in a kitchen.
 An aroma is in a garden.
@@ -32,4 +32,4 @@ An aroma gives a warning of smoke.
 An aroma gives a memory of a place.
 An aroma gives a sign of a flower.
 An aroma gives a clue to a meal.
-An aroma gives a person a sign of a flower or a meal.
+An aroma gives a person a sign of a flower and a meal.

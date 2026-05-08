@@ -7,7 +7,7 @@ A monster has two horns.
 A monster has one big eye.
 A monster is big-teethed and sharp-clawed.
 
-[user]Where is a monster?
+[user]Where can you find a monster?
 [Ninereeds]This is a monster.
 A monster is in a cave.
 A monster is under a bed.
@@ -25,7 +25,7 @@ A monster breaks trees.
 A monster knocks on walls.
 A monster is stompy and growly.
 
-[user]What is a monster for?
+[user]What does a monster give?
 [Ninereeds]This is a monster.
 A monster is in stories for children.
 A monster makes a story fun.

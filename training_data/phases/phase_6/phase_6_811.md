@@ -7,7 +7,7 @@ Leadership is a management.
 Leadership is an ability to lead.
 Leadership is a guidance and an influence.
 
-[user]Where is leadership found?
+[user]Where can you find leadership?
 [Ninereeds]This is leadership.
 Leadership is found in groups.
 Leadership is found in teams.
@@ -25,7 +25,7 @@ Leadership builds consensus.
 Leadership fosters growth.
 Leadership inspires action and makes decisions.
 
-[user]What is leadership for?
+[user]What does leadership give?
 [Ninereeds]This is leadership.
 Leadership is for achieving goals.
 Leadership is for progress.

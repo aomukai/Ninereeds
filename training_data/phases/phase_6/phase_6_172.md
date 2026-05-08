@@ -5,7 +5,7 @@ sense can be in an eye or ear.
 sense can be in a nose, skin, or tongue.
 sense means a way to take in the world with a body.
 
-[user]Where is sense?
+[user]Where can you find sense?
 [Ninereeds]sense is here.
 sense can be in an eye or ear.
 sense can be in a nose, skin, or tongue.
@@ -14,7 +14,7 @@ sense can be in an eye or ear.
 
 [user]What does sense do?
 [Ninereeds]sense is here.
-sense can take in light, sound, or smell.
+sense can take in light, sound, and smell.
 sense can help a body know heat or cold.
 sense can guide a step near a wall.
 sense can take in light, sound, or smell.

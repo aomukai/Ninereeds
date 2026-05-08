@@ -7,14 +7,14 @@ A dispenser is tall.
 A dispenser has a nozzle on the side.
 A dispenser is a tall plastic tube with a button and a nozzle.
 
-[user]Where is a dispenser?
+[user]Where can you find a dispenser?
 [Ninereeds]This is a dispenser.
 A dispenser sits on a counter.
 A dispenser stands in a bathroom.
 A dispenser hangs on a wall.
 A dispenser rests in a kitchen.
 A dispenser stays in a workshop.
-A dispenser sits on a counter or hangs on a wall.
+A dispenser sits on a counter and hangs on a wall.
 
 [user]What does a dispenser do?
 [Ninereeds]This is a dispenser.
@@ -25,7 +25,7 @@ A dispenser drops water on a toothbrush.
 A dispenser sprays cleaner on a window.
 A dispenser holds liquid and pushes liquid out.
 
-[user]What is a dispenser for?
+[user]What does a dispenser give?
 [Ninereeds]This is a dispenser.
 A dispenser is for soap.
 A dispenser is for water.

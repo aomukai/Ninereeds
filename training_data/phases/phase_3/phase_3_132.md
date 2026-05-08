@@ -25,11 +25,11 @@ A glance avoids a long look.
 A glance gives a quick view.
 A glance takes in information fast and sees briefly.
 
-[user]What is a glance for?
+[user]What does a glance give?
 [Ninereeds]This is a glance.
 A glance is for quick checks.
 A glance is for noticing things fast.
 A glance is for avoiding attention.
-A glance is for seeing continuously.
+A glance is for a brief view.
 A glance is for gaining quick knowledge.
 A glance is for quick checks and noticing things fast.

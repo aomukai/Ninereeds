@@ -1,7 +1,35 @@
+[user]What does spinach look like?
+[Ninereeds]This is spinach.
+Spinach has dark green leaves.
+Spinach leaves are smooth.
+Spinach grows in bunches.
+Spinach has thin stems.
+Spinach is tender.
+Spinach has dark green leaves and thin stems.
+
 [user]Where does spinach go?
 [Ninereeds]This is spinach.
-The spinach has a leaf and is green.
-The leaf grows on the spinach plant.
-The spinach is cooked with the leaf.
-The spinach becomes soft when cooked.
-Spinach is a green plant with leaves that can be cooked.
+Spinach goes into salads.
+Spinach goes into smoothies.
+Spinach goes into soups.
+Spinach goes into stir-fries.
+Spinach goes into omelets.
+Spinach goes into salads and smoothies.
+
+[user]What does spinach do?
+[Ninereeds]This is spinach.
+Spinach sprouts from seed.
+Spinach grows leaves quickly.
+Spinach matures in weeks.
+Spinach is picked leaf by leaf.
+Spinach bolts in hot weather.
+Spinach sprouts from seed and grows leaves quickly.
+
+[user]What does spinach give?
+[Ninereeds]This is spinach.
+Spinach is for eating fresh.
+Spinach is for cooking.
+Spinach is for salads.
+Spinach is for adding iron.
+Spinach is for smoothies.
+Spinach is for eating fresh and cooking.

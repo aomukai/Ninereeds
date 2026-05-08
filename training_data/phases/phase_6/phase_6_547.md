@@ -25,7 +25,7 @@ A scientist invents technology.
 A scientist teaches others.
 A scientist investigates and explains.
 
-[user]What is scientist for?
+[user]What does scientist give?
 [Ninereeds]This is a scientist.
 A scientist is for advancing knowledge.
 A scientist is for improving life.

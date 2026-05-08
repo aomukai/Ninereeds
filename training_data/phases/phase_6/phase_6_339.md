@@ -5,7 +5,7 @@ trust can be in a home or team.
 trust can be by promise or care.
 trust is calm belief in care or safety.
 
-[user]Where is trust?
+[user]Where can you find trust?
 [Ninereeds]trust is here.
 trust can be in a home or team.
 trust can be by kind word or help.

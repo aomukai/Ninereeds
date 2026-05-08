@@ -7,7 +7,7 @@ Speed is measured by a speedometer.
 Speed is seen on a racetrack.
 Speed is quick and forceful.
 
-[user]Where is speed?
+[user]Where can you find speed?
 [Ninereeds]This is speed.
 Speed is on a highway.
 Speed is in a race.
@@ -25,7 +25,7 @@ Speed pushes a train along the rails.
 Speed drives a plane through the sky.
 Speed is powerful and fast.
 
-[user]What is speed for?
+[user]What does speed give?
 [Ninereeds]This is speed.
 Speed is for reaching a destination fast.
 Speed is for winning a competition.

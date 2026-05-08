@@ -7,7 +7,7 @@ The box is foldable.
 The box is lightweight.
 The box is square and sturdy.
 
-[user]Where is a box?
+[user]Where can you find a box?
 [Ninereeds]This is a box.
 The box is on the floor.
 The box is on a shelf.

@@ -12,7 +12,7 @@ A pot is deep and hard.
 The pot is on the stove.
 The pot is in the kitchen.
 The pot sits near the fire.
-The pot is on a flat surface when not in use.
+The pot is on a flat surface when in use.
 The pot is on the counter.
 A pot is on the stove and in the kitchen.
 

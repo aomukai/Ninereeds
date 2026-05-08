@@ -14,7 +14,7 @@ Wash happens in a tub.
 Wash happens in a basin.
 Wash happens in a bucket.
 Wash happens in a shower.
-Wash happens in a sink or a tub.
+Wash happens in a sink and a tub.
 
 [user]What does wash do?
 [Ninereeds]This is wash.
@@ -25,7 +25,7 @@ Wash scrubs a surface clean.
 Wash rinses soap off a thing.
 Wash removes dirt and cleans a surface.
 
-[user]What is wash for?
+[user]What does wash give?
 [Ninereeds]This is wash.
 Wash is for being clean.
 Wash is for removing dirt.

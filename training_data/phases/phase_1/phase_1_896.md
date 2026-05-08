@@ -7,7 +7,7 @@ A sandal leaves toes uncovered.
 A sandal has a buckle.
 A sandal is an open shoe with straps.
 
-[user]Where is a sandal?
+[user]Where can you find a sandal?
 [Ninereeds]This is a sandal.
 A sandal is on a foot.
 A sandal is on a floor.
@@ -25,7 +25,7 @@ A sandal flaps when walking.
 A sandal protects a foot from the ground.
 A sandal covers and protects a foot.
 
-[user]What is a sandal for?
+[user]What does a sandal give?
 [Ninereeds]This is a sandal.
 A sandal is for wearing on a foot.
 A sandal is for walking at a beach.

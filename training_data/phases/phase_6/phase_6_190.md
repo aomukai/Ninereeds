@@ -5,7 +5,7 @@ shoo can be by a door.
 shoo can be in a yard or field.
 shoo means an act of making an animal or person move away.
 
-[user]Where is shoo?
+[user]Where can you find shoo?
 [Ninereeds]shoo is here.
 shoo can be by a door.
 shoo can be in a yard or field.

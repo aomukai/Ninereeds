@@ -5,7 +5,7 @@ Question is an interrogation.
 Question is a matter of doubt.
 Question is a request for information.
 Question is a problem for discussion.
-Question is an inquiry or matter of doubt.
+Question is an inquiry and matter of doubt.
 
 [user]Where does question appear?
 [Ninereeds]This is a question.
@@ -25,7 +25,7 @@ Question clarifies understanding.
 Question opens possibilities.
 Question seeks answers and prompts thought.
 
-[user]What is question for?
+[user]What does question give?
 [Ninereeds]This is a question.
 Question is for learning.
 Question is for understanding.

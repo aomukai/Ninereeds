@@ -7,7 +7,7 @@ A shard is small.
 A shard is broken.
 A shard is a small sharp piece of broken glass.
 
-[user]Where is a shard?
+[user]Where can you find a shard?
 [Ninereeds]This is a shard.
 A shard is on the ground.
 A shard is in a broken cup.

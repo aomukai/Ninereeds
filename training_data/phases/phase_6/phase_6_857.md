@@ -7,7 +7,7 @@ Heartbreak is a sadness.
 Heartbreak is a great disappointment.
 Heartbreak is a deep sorrow and emotional pain.
 
-[user]Where is heartbreak found?
+[user]Where can you find heartbreak?
 [Ninereeds]This is heartbreak.
 Heartbreak is found in losses.
 Heartbreak is found in partings.
@@ -25,7 +25,7 @@ Heartbreak changes a person.
 Heartbreak fosters empathy.
 Heartbreak causes tears and teaches resilience.
 
-[user]What is heartbreak for?
+[user]What does heartbreak give?
 [Ninereeds]This is heartbreak.
 Heartbreak is for emotional growth.
 Heartbreak is for understanding pain.

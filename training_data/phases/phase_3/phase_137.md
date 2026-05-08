@@ -22,7 +22,7 @@ Borrowing brings a link between people.
 Borrowing brings a shared resource.
 Borrowing brings access and help.
 
-[user]What is borrowing for?
+[user]What does borrowing give?
 [Ninereeds]Borrowing is for using a thing without keeping it.
 Borrowing is for meeting a need.
 Borrowing is for sharing resources.

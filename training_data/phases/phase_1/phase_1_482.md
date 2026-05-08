@@ -7,7 +7,7 @@ Food is often on a plate.
 Food is arranged in dishes.
 Food is colorful and varied in shape.
 
-[user]Where is food?
+[user]Where can you find food?
 [Ninereeds]This is food.
 Food is on a plate.
 Food is in a bowl.
@@ -25,7 +25,7 @@ Food gives strength.
 Food nourishes the body.
 Food gives energy and strength.
 
-[user]What is food for?
+[user]What does food give?
 [Ninereeds]This is food.
 Food is for eating.
 Food is for growing.

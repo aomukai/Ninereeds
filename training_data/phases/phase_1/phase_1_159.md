@@ -7,14 +7,14 @@ A banner is colorful.
 A banner is a sign.
 A banner is a long colorful cloth with words and pictures.
 
-[user]Where is a banner?
+[user]Where can you find a banner?
 [Ninereeds]This is a banner.
 A banner is on a pole.
 A banner is across a street.
 A banner is in a parade.
 A banner is on a building.
 A banner is above a crowd.
-A banner is on a pole or across a street.
+A banner is on a pole and across a street.
 
 [user]What does a banner do?
 [Ninereeds]This is a banner.
@@ -25,7 +25,7 @@ A banner announces a thing.
 A banner shows a team.
 A banner shows a message and attracts attention.
 
-[user]What is a banner for?
+[user]What does a banner give?
 [Ninereeds]This is a banner.
 A banner is for advertising.
 A banner is for celebrating.

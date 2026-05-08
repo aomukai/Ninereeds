@@ -7,7 +7,7 @@ A tie hangs down.
 A tie has pattern.
 A tie is long and thin.
 
-[user]Where is a tie?
+[user]Where can you find a tie?
 [Ninereeds]This is a tie.
 A tie is on a neck.
 A tie is under a collar.
@@ -25,7 +25,7 @@ A tie moves when walking.
 A tie stays in place.
 A tie holds and decorates a shirt.
 
-[user]What is a tie for?
+[user]What does a tie give?
 [Ninereeds]This is a tie.
 A tie is for style.
 A tie is for work.

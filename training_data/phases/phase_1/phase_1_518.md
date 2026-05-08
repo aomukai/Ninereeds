@@ -7,7 +7,7 @@ A glacier is blue in the light.
 A glacier is wide on the land.
 A glacier is big and white.
 
-[user]Where is a glacier?
+[user]Where can you find a glacier?
 [Ninereeds]This is a glacier.
 A glacier is in a cold place.
 A glacier is on a mountain.
@@ -25,7 +25,7 @@ A glacier scrapes the ground.
 A glacier cracks in the sun.
 A glacier is a hill-mover and a land-carver.
 
-[user]What is a glacier for?
+[user]What does a glacier give?
 [Ninereeds]This is a glacier.
 A glacier is for ice.
 A glacier is for water.

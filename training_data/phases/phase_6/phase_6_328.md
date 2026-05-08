@@ -5,7 +5,7 @@ tone can be in a song or talk.
 tone can be by a bell or horn.
 tone is the sound or feel of a voice.
 
-[user]Where is tone?
+[user]Where can you find tone?
 [Ninereeds]tone is here.
 tone can be in a song or talk.
 tone can be by a bell or horn.

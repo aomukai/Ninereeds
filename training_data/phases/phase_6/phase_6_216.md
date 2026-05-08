@@ -4,7 +4,7 @@ slip is a quick slide by mistake.
 slip can occur on wet ground.
 slip can cause a loss of balance.
 
-[user]Where is slip?
+[user]Where can you find slip?
 [Ninereeds]slip is here.
 slip can be on slippery floors.
 slip can happen near ice or mud.

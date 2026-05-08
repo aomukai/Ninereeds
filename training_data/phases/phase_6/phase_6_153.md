@@ -5,7 +5,7 @@ science can be in a class.
 science can be in a lab or book.
 science means the study of world, life, and change.
 
-[user]Where is science?
+[user]Where can you find science?
 [Ninereeds]science is here.
 science can be in a class.
 science can be in a lab or book.

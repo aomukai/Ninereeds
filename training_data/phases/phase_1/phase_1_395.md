@@ -7,7 +7,7 @@ A dime has a thin edge.
 A dime has ridges on the edge.
 A dime is silver and round.
 
-[user]Where is a dime?
+[user]Where can you find a dime?
 [Ninereeds]This is a dime.
 A dime sits in a pocket.
 A dime rests in a purse.
@@ -25,7 +25,7 @@ A dime slides across a counter.
 A dime lands flat on a palm.
 A dime is spinning and clinking.
 
-[user]What is a dime for?
+[user]What does a dime give?
 [Ninereeds]This is a dime.
 A dime is for buying things.
 A dime is for a phone call.

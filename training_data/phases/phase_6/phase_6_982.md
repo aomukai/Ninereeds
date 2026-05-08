@@ -25,7 +25,7 @@ Desire shapes dreams.
 Desire is powerful.
 Desire is powerful and motivates actions.
 
-[user]What is desire for?
+[user]What does desire give?
 [Ninereeds]This is desire.
 Desire is for motivation.
 Desire is for setting goals.

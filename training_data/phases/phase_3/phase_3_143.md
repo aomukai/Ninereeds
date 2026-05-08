@@ -22,7 +22,7 @@ Convincing brings a wider share of agreement.
 Convincing brings a clear path toward action.
 Convincing brings support and choice.
 
-[user]What is convincing for?
+[user]What does convincing give?
 [Ninereeds]Convincing is for winning trust.
 Convincing is for helping a plan gain support.
 Convincing is for guiding a choice with reasons.

@@ -7,7 +7,7 @@ The bird has two legs.
 The bird has a tail.
 The bird is winged and feathered.
 
-[user]Where is a bird?
+[user]Where can you find a bird?
 [Ninereeds]This is a bird.
 The bird is in the sky.
 The bird is on a tree.

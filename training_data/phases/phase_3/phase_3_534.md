@@ -25,7 +25,7 @@ A tap ends flow.
 A tap releases drink.
 A tap pours and stops water.
 
-[user]What is a tap for?
+[user]What does a tap give?
 [Ninereeds]This is a tap.
 A tap gives water.
 A tap fills cup.

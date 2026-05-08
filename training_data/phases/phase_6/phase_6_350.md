@@ -5,7 +5,7 @@ vitamin can be in food or pill form.
 vitamin can be on a bottle or box.
 vitamin is a food part that helps a body stay well.
 
-[user]Where is vitamin?
+[user]Where can you find vitamin?
 [Ninereeds]vitamin is here.
 vitamin can be in food or pill form.
 vitamin can be on a bottle or box.

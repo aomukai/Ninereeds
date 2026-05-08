@@ -22,7 +22,7 @@ Explaining brings a shared idea.
 Explaining brings less confusion.
 Explaining brings understanding and clarity.
 
-[user]What is explaining for?
+[user]What does explaining give?
 [Ninereeds]Explaining is for making meaning clear.
 Explaining is for teaching a point.
 Explaining is for helping a listener.

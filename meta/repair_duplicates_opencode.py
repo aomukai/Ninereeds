@@ -19,6 +19,7 @@ import argparse
 import concurrent.futures
 import json
 import re
+import shutil
 import subprocess
 import sys
 import threading
@@ -29,7 +30,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 QUEUE_PATH = REPO_ROOT / "training_data/phases/repair_duplicate.txt"
 PROGRESS_PATH = REPO_ROOT / "training_data/phases/repair_progress_duplicate.txt"
 SKIPPED_PATH = REPO_ROOT / "training_data/phases/repair_skipped_duplicate.txt"
-OPENCODE_BIN = Path.home() / ".opencode/bin/opencode"
+_opencode_which = shutil.which("opencode")
+OPENCODE_BIN = Path(_opencode_which) if _opencode_which else (Path.home() / ".opencode/bin/opencode")
 MODEL = "openrouter/deepseek/deepseek-v4-flash"
 DEBUG_DIR = REPO_ROOT / "tmp/opencode_duplicate_debug"
 PROGRESS_LOCK = threading.Lock()

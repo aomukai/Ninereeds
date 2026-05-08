@@ -25,7 +25,7 @@ Bump causes a brief stop.
 Bump signals an obstacle.
 Bump is a nudge and a stop.
 
-[user]What is bump for?
+[user]What does bump give?
 [Ninereeds]This is bump.
 Bump is for warning.
 Bump is for getting attention.

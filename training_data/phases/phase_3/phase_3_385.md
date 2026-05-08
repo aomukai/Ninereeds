@@ -25,7 +25,7 @@ Halt stills a line at a gate.
 Halt blocks a path at a fence.
 Halt is a car stopper and a crowd freezer.
 
-[user]What is halt for?
+[user]What does halt give?
 [Ninereeds]This is halt.
 Halt stops a car at a crosswalk.
 Halt pauses a race at a finish.

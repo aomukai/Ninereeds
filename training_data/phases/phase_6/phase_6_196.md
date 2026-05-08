@@ -25,7 +25,7 @@ Shriek cuts through noise.
 Shriek gets attention.
 Shriek signals and warns.
 
-[user]What is shriek for?
+[user]What does shriek give?
 [Ninereeds]This is shriek.
 Shriek is for expressing alarm.
 Shriek is for getting help.

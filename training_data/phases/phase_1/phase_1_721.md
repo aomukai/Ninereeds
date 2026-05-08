@@ -7,7 +7,7 @@ A nickel has smooth edges.
 A nickel is a silver coin.
 A nickel is a round flat shiny coin.
 
-[user]Where is a nickel?
+[user]Where can you find a nickel?
 [Ninereeds]This is a nickel.
 A nickel is in a pocket.
 A nickel is in a purse.
@@ -25,7 +25,7 @@ A nickel sits in a pocket.
 A nickel clinks against other coins.
 A nickel is a coin that pays for candy and other things.
 
-[user]What is a nickel for?
+[user]What does a nickel give?
 [Ninereeds]This is a nickel.
 A nickel is for buying things.
 A nickel is for trading.

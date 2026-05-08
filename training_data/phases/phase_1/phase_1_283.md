@@ -7,7 +7,7 @@ A cage is metal.
 A cage has a floor.
 A cage is square and metal.
 
-[user]Where is a cage?
+[user]Where can you find a cage?
 [Ninereeds]This is a cage.
 A cage is in a house.
 A cage is in a zoo.
@@ -25,7 +25,7 @@ A cage keeps a pet safe.
 A cage stays closed.
 A cage is safe and closed.
 
-[user]What is a cage for?
+[user]What does a cage give?
 [Ninereeds]This is a cage.
 A cage holds a pet.
 A cage keeps a bird.

@@ -25,11 +25,11 @@ Twitch comes and goes quick.
 Twitch stops on its own.
 Twitch jerks a body part and stops quick.
 
-[user]What is twitch for?
+[user]What does twitch give?
 [Ninereeds]This is twitch.
 Twitch is a sign of a dream.
 Twitch is a sign of sleep.
 Twitch is a sign of nerves.
 Twitch is a sign of a jump.
 Twitch is a fast move from a dream.
-Twitch is a fast move from a dream or nerves.
+Twitch is a fast move from a dream and nerves.

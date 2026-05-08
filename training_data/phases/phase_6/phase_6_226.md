@@ -7,7 +7,7 @@ snap is crisp.
 snap is brief.
 snap is quick and sharp.
 
-[user]Where is snap?
+[user]Where can you find snap?
 [Ninereeds]This is snap.
 snap can be in a hand.
 snap can be by a twig.
@@ -25,7 +25,7 @@ snap opens a trap.
 snap closes a case.
 snap breaks and shuts.
 
-[user]What is snap for?
+[user]What does snap give?
 [Ninereeds]This is snap.
 snap is for breaking.
 snap is for shutting.

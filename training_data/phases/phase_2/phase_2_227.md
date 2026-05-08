@@ -7,7 +7,7 @@ An edge is sharp.
 An edge is thin.
 An edge is a thin, sharp line.
 
-[user]Where is an edge?
+[user]Where can you find an edge?
 [Ninereeds]This is an edge.
 An edge is on a table.
 An edge is on a paper.
@@ -25,7 +25,7 @@ An edge can hold.
 An edge can be a point of change.
 An edge defines and separates areas.
 
-[user]What is an edge for?
+[user]What does an edge give?
 [Ninereeds]This is an edge.
 An edge is for defining.
 An edge is for cutting.

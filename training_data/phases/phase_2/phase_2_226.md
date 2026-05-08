@@ -7,7 +7,7 @@ A driveway is made of concrete.
 A driveway is long and flat.
 A driveway is a paved path to a house.
 
-[user]Where is a driveway?
+[user]Where can you find a driveway?
 [Ninereeds]This is a driveway.
 A driveway is in front of a house.
 A driveway is next to a garden.
@@ -25,7 +25,7 @@ A driveway supports vehicles.
 A driveway provides parking.
 A driveway holds cars and connects road to house.
 
-[user]What is a driveway for?
+[user]What does a driveway give?
 [Ninereeds]This is a driveway.
 A driveway is for parking cars.
 A driveway is for walking.

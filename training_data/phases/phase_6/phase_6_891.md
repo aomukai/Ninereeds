@@ -22,7 +22,7 @@ Misunderstanding brings delay.
 Misunderstanding brings a need for repair.
 Misunderstanding brings confusion and delay.
 
-[user]What is misunderstanding for?
+[user]What does misunderstanding give?
 [Ninereeds]Misunderstanding is for naming a wrong sense.
 Misunderstanding is for showing a gap in meaning.
 Misunderstanding is for fixing a message.

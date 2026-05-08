@@ -5,7 +5,7 @@ riddle can be in a book.
 riddle can be in a game.
 riddle means a question with a hidden answer.
 
-[user]Where is riddle?
+[user]Where can you find riddle?
 [Ninereeds]riddle is here.
 riddle can be in a book.
 riddle can be in a game.

@@ -5,7 +5,7 @@ share can be at a table.
 share can be in a room or group.
 share means an act of giving part of a thing to another.
 
-[user]Where is share?
+[user]Where can you find share?
 [Ninereeds]share is here.
 share can be at a table.
 share can be in a room or group.

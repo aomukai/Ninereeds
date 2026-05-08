@@ -5,16 +5,16 @@ A puppet has a face.
 A puppet has a body.
 A puppet has strings.
 A puppet is a toy.
-A puppet is a small toy with a face a body and strings.
+A puppet is a small toy with a face and strings.
 
-[user]Where is a puppet?
+[user]Where can you find a puppet?
 [Ninereeds]This is a puppet.
 A puppet is on a hand.
 A puppet is on a stage.
 A puppet is in a show.
 A puppet is in a box.
 A puppet is in a theater.
-A puppet is on a hand on a stage in a show.
+A puppet is on a hand and on a stage.
 
 [user]What does a puppet do?
 [Ninereeds]This is a puppet.
@@ -23,13 +23,13 @@ A puppet dances.
 A puppet talks.
 A puppet waves.
 A puppet acts.
-A puppet moves dances talks and waves.
+A puppet moves and talks.
 
-[user]What is a puppet for?
+[user]What does a puppet give?
 [Ninereeds]This is a puppet.
 A puppet is for shows.
 A puppet is for stories.
 A puppet is for playing.
 A puppet is for acting.
 A puppet is for fun.
-A puppet is for shows stories and playing.
+A puppet is for shows and for stories.

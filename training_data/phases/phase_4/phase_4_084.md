@@ -25,7 +25,7 @@ Bloom spreads pollen in the wind.
 Bloom opens and closes with the sun.
 Bloom is attractive and productive.
 
-[user]What is bloom for?
+[user]What does bloom give?
 [Ninereeds]This is bloom.
 Bloom is for creating seeds for new life.
 Bloom is for feeding bees and butterflies.

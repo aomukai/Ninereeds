@@ -25,7 +25,7 @@ Heartbeat keeps a body alive every moment.
 Heartbeat adjusts speed during activity.
 Heartbeat is pumping and sustaining.
 
-[user]What is heartbeat for?
+[user]What does heartbeat give?
 [Ninereeds]This is heartbeat.
 Heartbeat is for moving blood around the body.
 Heartbeat is for supplying oxygen to the brain.

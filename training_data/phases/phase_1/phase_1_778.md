@@ -7,7 +7,7 @@ A photo has colors on it.
 A photo can be small or big.
 A photo is a flat picture.
 
-[user]Where is a photo?
+[user]Where can you find a photo?
 [Ninereeds]This is a photo.
 A photo is in a frame.
 A photo is on a wall.
@@ -25,7 +25,7 @@ A photo keeps a moment.
 A photo shows the past.
 A photo keeps a moment from the past.
 
-[user]What is a photo for?
+[user]What does a photo give?
 [Ninereeds]This is a photo.
 A photo shows a person.
 A photo shows a pet.

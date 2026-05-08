@@ -5,7 +5,7 @@ Mistake is a wrong action.
 Mistake is a fault.
 Mistake is an oversight.
 Mistake is an inaccuracy.
-Mistake is an error or wrong action.
+Mistake is an error and wrong action.
 
 [user]Where does mistake appear?
 [Ninereeds]This is a mistake.
@@ -25,7 +25,7 @@ Mistake requires correction.
 Mistake brings awareness.
 Mistake causes problems and leads to learning.
 
-[user]What is mistake for?
+[user]What does mistake give?
 [Ninereeds]This is a mistake.
 Mistake is for learning lessons.
 Mistake is for self-improvement.

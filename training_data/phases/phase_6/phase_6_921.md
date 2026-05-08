@@ -7,7 +7,7 @@ Cancer is a disease.
 Cancer is a health problem.
 Cancer is a disease of uncontrolled cell growth.
 
-[user]Where is cancer found?
+[user]Where can you find cancer?
 [Ninereeds]This is cancer.
 Cancer is in a body.
 Cancer is in a person.
@@ -25,9 +25,9 @@ Cancer makes things hurt.
 Cancer makes life hard.
 Cancer is a disease that makes bodies sick.
 
-[user]What is cancer for?
+[user]What does cancer give?
 [Ninereeds]This is cancer.
-Cancer is not for anything good.
+Cancer is for anything good.
 Cancer is a bad sickness.
 Cancer is a challenge.
 Cancer is a disease to fight.

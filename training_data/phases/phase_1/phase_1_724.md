@@ -7,7 +7,7 @@ A nose is in the middle of a face.
 A nose is a part of a face.
 A nose is a part of a face with two holes.
 
-[user]Where is a nose?
+[user]Where can you find a nose?
 [Ninereeds]This is a nose.
 A nose is on a face.
 A nose is between two eyes.
@@ -25,7 +25,7 @@ A nose warms the air.
 A nose lets air in and out.
 A nose is a body part that smells and breathes.
 
-[user]What is a nose for?
+[user]What does a nose give?
 [Ninereeds]This is a nose.
 A nose is for smelling.
 A nose is for breathing.

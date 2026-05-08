@@ -7,7 +7,7 @@ A den has books.
 A den has a television.
 A den is a cozy room with soft chairs and books.
 
-[user]Where is a den?
+[user]Where can you find a den?
 [Ninereeds]This is a den.
 A den is in a house.
 A den is in a basement.
@@ -25,7 +25,7 @@ A den provides a retreat.
 A den allows relaxation.
 A den offers comfort and relaxation.
 
-[user]What is a den for?
+[user]What does a den give?
 [Ninereeds]This is a den.
 A den is for reading.
 A den is for watching movies.

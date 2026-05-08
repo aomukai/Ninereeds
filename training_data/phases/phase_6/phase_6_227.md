@@ -25,7 +25,7 @@ Sneak chooses a dark route.
 Sneak slips through a gap.
 Sneak is a quiet and sly way.
 
-[user]What is sneak for?
+[user]What does sneak give?
 [Ninereeds]This is sneak.
 Sneak is for moving unseen.
 Sneak is for avoiding notice.

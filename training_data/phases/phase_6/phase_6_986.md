@@ -22,7 +22,7 @@ Mourning brings shared care.
 Mourning brings a mark of love.
 Mourning brings grief and sorrow.
 
-[user]What is mourning for?
+[user]What does mourning give?
 [Ninereeds]Mourning is for facing loss.
 Mourning is for showing grief.
 Mourning is for honoring what was lost.

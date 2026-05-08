@@ -7,7 +7,7 @@ A mitt is padded.
 A mitt is brown.
 A mitt is padded and brown.
 
-[user]Where is a mitt?
+[user]Where can you find a mitt?
 [Ninereeds]This is a mitt.
 A mitt is on a hand.
 A mitt is on a shelf.
@@ -25,7 +25,7 @@ A mitt holds the ball safe.
 A mitt catches a fastball.
 A mitt catches a ball and protects a hand.
 
-[user]What is a mitt for?
+[user]What does a mitt give?
 [Ninereeds]This is a mitt.
 A mitt is for baseball.
 A mitt is for catching.

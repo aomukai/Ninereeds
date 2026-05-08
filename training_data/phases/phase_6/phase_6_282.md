@@ -25,7 +25,7 @@ Stress drains energy over long time.
 Stress prompts action in urgent moments.
 Stress is activating and exhausting.
 
-[user]What is stress for?
+[user]What does stress give?
 [Ninereeds]This is stress.
 Stress signals danger or pressure.
 Stress prepares body for quick action.

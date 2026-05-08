@@ -7,7 +7,7 @@ A shield is hard.
 A shield has a front face.
 A shield is flat and round.
 
-[user]Where is a shield found?
+[user]Where can you find a shield?
 [Ninereeds]This is a shield.
 A shield hangs on a wall.
 A shield rests on an arm.
@@ -25,7 +25,7 @@ A shield stays in front.
 A shield protects the holder.
 A shield is a blocker and a stopper.
 
-[user]What is a shield for?
+[user]What does a shield give?
 [Ninereeds]This is a shield.
 A shield guards a person.
 A shield covers the body.

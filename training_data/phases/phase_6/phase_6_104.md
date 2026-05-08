@@ -5,7 +5,7 @@ numeral can stand for count in math.
 numeral can be a mark such as 3 or 8.
 numeral means a written sign for a number.
 
-[user]Where is numeral?
+[user]Where can you find numeral?
 [Ninereeds]numeral is here.
 numeral can be on a page.
 numeral can be on a board in class.

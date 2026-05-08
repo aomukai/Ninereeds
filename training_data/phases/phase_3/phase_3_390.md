@@ -1,31 +1,35 @@
 [user]What is healing?
-[Ninereeds]Healing is Making a body or wound better.
-[Ninereeds]Healing is Restoring health after injury.
-[Ninereeds]Healing is Closing pain and damage.
-[Ninereeds]Healing is Bringing a tired body back to health.
-[Ninereeds]Healing is Mending skin, tissue, or feeling.
-[Ninereeds]Healing is Restore and mend.
+[Ninereeds]This is healing.
+Healing is making a body or wound better.
+Healing is restoring health after injury.
+Healing is closing pain and damage.
+Healing is bringing a tired body back to health.
+Healing is mending skin, tissue, or feeling.
+Healing is restoration and mending.
 
 [user]When does healing happen?
-[Ninereeds]Healing happens when A cut, bruise, or fever eases.
-[Ninereeds]Healing happens when Rest and care support recovery.
-[Ninereeds]Healing happens when Medicine or time helps repair.
-[Ninereeds]Healing happens when A wound begins to close.
-[Ninereeds]Healing happens when A mind or body seeks relief.
-[Ninereeds]Healing happens when Recovery and repair move forward.
+[Ninereeds]This is healing.
+Healing happens when a cut, bruise, or fever eases.
+Healing happens when rest and care support recovery.
+Healing happens when medicine or time helps repair.
+Healing happens when a wound begins to close.
+Healing happens when a mind or body seeks relief.
+Healing happens when recovery and repair move forward.
 
 [user]What does healing bring?
-[Ninereeds]Healing brings Less pain.
-[Ninereeds]Healing brings Closed skin.
-[Ninereeds]Healing brings Renewed strength.
-[Ninereeds]Healing brings Calmer feeling.
-[Ninereeds]Healing brings More energy.
-[Ninereeds]Healing brings Relief and recovery.
+[Ninereeds]This is healing.
+Healing brings less pain.
+Healing brings closed skin.
+Healing brings renewed strength.
+Healing brings calmer feeling.
+Healing brings more energy.
+Healing brings relief and recovery.
 
-[user]What is healing for?
-[Ninereeds]Healing is for Restoring health.
-[Ninereeds]Healing is for Closing wounds.
-[Ninereeds]Healing is for Easing pain.
-[Ninereeds]Healing is for Bringing strength back.
-[Ninereeds]Healing is for Supporting recovery.
-[Ninereeds]Healing is for Repair and health.
+[user]What does healing give?
+[Ninereeds]This is healing.
+Healing is for restoring health.
+Healing is for closing wounds.
+Healing is for easing pain.
+Healing is for bringing strength back.
+Healing is for supporting recovery.
+Healing is for repair and health.

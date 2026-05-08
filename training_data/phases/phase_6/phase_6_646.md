@@ -23,9 +23,9 @@ Fear makes a person hide.
 Fear makes a person freeze.
 Fear makes a person shout.
 Fear makes a body shake.
-Fear makes a person run or freeze.
+Fear makes a person run and freeze.
 
-[user]What is fear for?
+[user]What does fear give?
 [Ninereeds]This is fear.
 Fear is for warning.
 Fear is for keeping safe.

@@ -5,7 +5,7 @@ Self is an individual.
 Self is a unique being.
 Self is a consciousness.
 Self is who a person is.
-Self is a person or an individual.
+Self is a person and an individual.
 
 [user]Where does self appear?
 [Ninereeds]This is self.
@@ -14,7 +14,7 @@ Self is in a heart.
 Self is in a body.
 Self is in a thought.
 Self is in a choice.
-Self is in a mind or in a heart.
+Self is in a mind and in a heart.
 
 [user]What does self do?
 [Ninereeds]This is self.
@@ -25,7 +25,7 @@ Self makes choices.
 Self learns.
 Self acts and thinks.
 
-[user]What is self for?
+[user]What does self give?
 [Ninereeds]This is self.
 Self is for existing.
 Self is for experiencing.

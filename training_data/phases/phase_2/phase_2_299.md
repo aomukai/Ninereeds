@@ -7,7 +7,7 @@ A parcel has paper.
 A parcel has a label.
 A parcel is a wrapped box with a label.
 
-[user]Where is a parcel?
+[user]Where can you find a parcel?
 [Ninereeds]This is a parcel.
 A parcel is at the post office.
 A parcel is on a truck.

@@ -5,7 +5,7 @@ Happening is an occurrence.
 Happening is a course of action.
 Happening is something unfolding.
 Happening is an ongoing process.
-Happening is an event or occurrence.
+Happening is an event and occurrence.
 
 [user]Where does happening appear?
 [Ninereeds]This is a happening.
@@ -25,7 +25,7 @@ Happening teaches lessons.
 Happening shapes future.
 Happening creates change and shapes future.
 
-[user]What is happening for?
+[user]What does happening give?
 [Ninereeds]This is a happening.
 Happening is for experience.
 Happening is for learning.

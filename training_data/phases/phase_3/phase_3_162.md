@@ -22,7 +22,7 @@ Completing brings relief after effort.
 Completing brings a ready task for use.
 Completing brings closure and relief.
 
-[user]What is completing for?
+[user]What does completing give?
 [Ninereeds]Completing is for ending a task well.
 Completing is for giving work a full form.
 Completing is for closing a process.

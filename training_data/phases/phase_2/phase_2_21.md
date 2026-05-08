@@ -6,7 +6,7 @@ The doorstep is hard.
 The doorstep is low.
 A doorstep is a step at a door.
 
-[user]Where is a doorstep?
+[user]Where can you find a doorstep?
 [Ninereeds]This is a doorstep.
 The doorstep is in front of a door.
 The doorstep is outside a house.

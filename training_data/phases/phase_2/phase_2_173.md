@@ -7,7 +7,7 @@ An apartment has rooms.
 An apartment is a living space.
 An apartment is a living space with rooms and a door.
 
-[user]Where is an apartment?
+[user]Where can you find an apartment?
 [Ninereeds]This is an apartment.
 An apartment is in a building.
 An apartment is in a city.
@@ -25,7 +25,7 @@ An apartment provides a place to eat.
 An apartment provides a place to live.
 An apartment provides shelter and a place to live.
 
-[user]What is an apartment for?
+[user]What does an apartment give?
 [Ninereeds]This is an apartment.
 An apartment is for living.
 An apartment is for sleeping.

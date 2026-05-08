@@ -25,7 +25,7 @@ A drop spreads on a thing.
 A drop sits on a leaf.
 A drop falls to the ground and wets a surface.
 
-[user]What is a drop for?
+[user]What does a drop give?
 [Ninereeds]This is a drop.
 A drop is for a drink.
 A drop is for a plant.

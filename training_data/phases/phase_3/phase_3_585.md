@@ -25,7 +25,7 @@ Wiggle flutters a waving flag.
 Wiggle sways a tall grass blade.
 Wiggle shakes a hand and twists a stuck lid.
 
-[user]What is wiggle for?
+[user]What does wiggle give?
 [Ninereeds]This is wiggle.
 Wiggle is for greeting a friend.
 Wiggle is for loosening a knot.

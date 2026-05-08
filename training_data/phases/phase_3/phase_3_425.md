@@ -7,7 +7,7 @@ Melt makes wax into a drip.
 Melt makes snow into a puddle.
 Melt turns a solid into a liquid.
 
-[user]Where is melt?
+[user]Where can you find melt?
 [Ninereeds]This is melt.
 Melt is on a warm pan.
 Melt is in the sun.

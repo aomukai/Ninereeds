@@ -25,7 +25,7 @@ Care mends what is broken.
 Care gives comfort.
 Care is an action that helps and comforts.
 
-[user]What is care for?
+[user]What does care give?
 [Ninereeds]This is care.
 Care is for well-being.
 Care is for healthy growth.

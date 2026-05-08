@@ -5,7 +5,7 @@ Action is a deed.
 Action is a movement.
 Action is a step taken.
 Action is an activity.
-Action is a thing done or a deed.
+Action is a thing done and a deed.
 
 [user]Where does action appear?
 [Ninereeds]This is an action.
@@ -25,7 +25,7 @@ Action makes things happen.
 Action expresses will.
 Action causes change and produces results.
 
-[user]What is action for?
+[user]What does action give?
 [Ninereeds]This is an action.
 Action is for achieving goals.
 Action is for expressing self.

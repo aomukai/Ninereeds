@@ -7,7 +7,7 @@ A carrier has a long deck.
 A carrier has many planes.
 A carrier is a large ship with a deck.
 
-[user]Where is a carrier?
+[user]Where can you find a carrier?
 [Ninereeds]This is a carrier.
 A carrier is in the ocean.
 A carrier is at sea.
@@ -25,7 +25,7 @@ A carrier lands planes.
 A carrier serves as a base.
 A carrier carries airplanes across the ocean.
 
-[user]What is a carrier for?
+[user]What does a carrier give?
 [Ninereeds]This is a carrier.
 A carrier is for airplanes.
 A carrier is for travel.

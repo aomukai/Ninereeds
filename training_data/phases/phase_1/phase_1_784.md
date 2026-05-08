@@ -7,7 +7,7 @@ A pigeon has two legs.
 A pigeon has a beak.
 A pigeon is gray and has wings.
 
-[user]Where is a pigeon?
+[user]Where can you find a pigeon?
 [Ninereeds]This is a pigeon.
 A pigeon is in a park.
 A pigeon is on a roof.
@@ -25,7 +25,7 @@ A pigeon sits on a wire.
 A pigeon coos.
 A pigeon is walking on the ground and pecking for food.
 
-[user]What is a pigeon for?
+[user]What does a pigeon give?
 [Ninereeds]This is a pigeon.
 A pigeon eats crumbs.
 A pigeon cleans a park.

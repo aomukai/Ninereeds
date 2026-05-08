@@ -14,7 +14,7 @@ Quack happens at a city park.
 Quack happens at a lake shore.
 Quack happens at a river bank.
 Quack happens at a zoo exhibit.
-Quack happens at a pond or lake.
+Quack happens at a pond and lake.
 
 [user]What does quack do?
 [Ninereeds]This is quack.
@@ -25,7 +25,7 @@ Quack greets a duck or friend.
 Quack signals food is found.
 Quack makes sound and calls ducks.
 
-[user]What is quack used for?
+[user]What does quack give?
 [Ninereeds]This is quack.
 Quack helps ducks talk and communicate.
 Quack keeps ducklings close to mother.

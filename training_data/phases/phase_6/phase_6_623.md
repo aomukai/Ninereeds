@@ -4,7 +4,7 @@ Reflection is an image.
 Reflection is a thought.
 Reflection has a likeness.
 Reflection is a deep consideration.
-Reflection is not always seen.
+Reflection is always seen.
 Reflection is an image and a deep consideration.
 
 [user]Where does reflection appear?
@@ -25,7 +25,7 @@ Reflection brings understanding.
 Reflection causes self-awareness.
 Reflection shows an image and makes a person think.
 
-[user]What is reflection for?
+[user]What does reflection give?
 [Ninereeds]This is a reflection.
 Reflection is for seeing oneself.
 Reflection is for learning.

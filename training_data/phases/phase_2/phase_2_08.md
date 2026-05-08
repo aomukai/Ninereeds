@@ -25,7 +25,7 @@ A layer rests.
 A layer peels off.
 A layer protects and hides.
 
-[user]What is a layer for?
+[user]What does a layer give?
 [Ninereeds]This is a layer.
 A layer adds thickness.
 A layer provides warmth.

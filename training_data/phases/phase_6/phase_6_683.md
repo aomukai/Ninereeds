@@ -14,7 +14,7 @@ A series is in a show.
 A series is in a game.
 A series is in a number list.
 A series is in a thought.
-A series is in a book or in a show.
+A series is in a book and in a show.
 
 [user]What does a series do?
 [Ninereeds]This is a series.
@@ -25,7 +25,7 @@ A series makes a whole.
 A series tells a long story.
 A series connects things and tells a long story.
 
-[user]What is a series for?
+[user]What does a series give?
 [Ninereeds]This is a series.
 A series is for order.
 A series is for understanding.

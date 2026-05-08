@@ -7,7 +7,7 @@ An entrance has a threshold.
 An entrance has a path.
 An entrance is a door opening with a frame.
 
-[user]Where is an entrance?
+[user]Where can you find an entrance?
 [Ninereeds]This is an entrance.
 An entrance is in a building.
 An entrance is in a room.
@@ -25,7 +25,7 @@ An entrance controls flow.
 An entrance welcomes guests.
 An entrance allows entry and exit.
 
-[user]What is an entrance for?
+[user]What does an entrance give?
 [Ninereeds]This is an entrance.
 An entrance is for coming in.
 An entrance is for going out.

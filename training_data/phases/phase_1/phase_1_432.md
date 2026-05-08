@@ -7,14 +7,14 @@ An envelope has a seal.
 An envelope is made of paper.
 An envelope is a flat rectangular paper with a flap.
 
-[user]Where is an envelope?
+[user]Where can you find an envelope?
 [Ninereeds]This is an envelope.
 An envelope is on a desk.
 An envelope is in a mailbox.
 An envelope is in a stack.
 An envelope is in a drawer.
 An envelope is in the mail.
-An envelope is on a desk or in a mailbox.
+An envelope is on a desk and in a mailbox.
 
 [user]What does an envelope do?
 [Ninereeds]This is an envelope.
@@ -25,7 +25,7 @@ An envelope keeps the paper safe.
 An envelope sits in a pile.
 An envelope holds a letter and travels through the mail.
 
-[user]What is an envelope for?
+[user]What does an envelope give?
 [Ninereeds]This is an envelope.
 An envelope is for mail.
 An envelope is for a letter.

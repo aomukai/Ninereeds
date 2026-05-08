@@ -5,7 +5,7 @@ width can be on a ruler or chart.
 width can be for a box or room.
 width is side to side size.
 
-[user]Where is width?
+[user]Where can you find width?
 [Ninereeds]width is here.
 width can be in math or design.
 width can be on a page or plan.

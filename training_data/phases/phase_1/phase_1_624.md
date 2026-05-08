@@ -6,7 +6,7 @@ A lens is thin.
 A lens is curved on both sides.
 A lens is a round clear thin piece.
 
-[user]Where is a lens?
+[user]Where can you find a lens?
 [Ninereeds]This is a lens.
 A lens is in a camera.
 A lens is in glasses.
@@ -22,7 +22,7 @@ A lens makes far things look close.
 A lens makes small things look big.
 A lens bends light and makes things look big.
 
-[user]What is a lens for?
+[user]What does a lens give?
 [Ninereeds]This is a lens.
 A lens is for glasses.
 A lens is for a camera.

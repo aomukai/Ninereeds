@@ -25,7 +25,7 @@ Rain cleans dust from leaves.
 Rain makes mud on the path.
 Rain wets ground and fills rivers.
 
-[user]What is rain used for?
+[user]What does rain give?
 [Ninereeds]This is rain.
 Rain gives water to crops and plants.
 Rain provides drinking water for animals.

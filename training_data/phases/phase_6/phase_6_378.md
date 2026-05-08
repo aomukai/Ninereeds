@@ -5,7 +5,7 @@ worker can be in a shop or field.
 worker can stand by tool or truck.
 worker is a person who does work.
 
-[user]Where is worker?
+[user]Where can you find worker?
 [Ninereeds]worker is here.
 worker can be on a road or farm.
 worker can be by wall or machine.

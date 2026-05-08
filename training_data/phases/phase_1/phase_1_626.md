@@ -6,7 +6,7 @@ Lettuce is crisp.
 Lettuce grows in a head.
 Lettuce is a green crisp head of leaves.
 
-[user]Where is lettuce?
+[user]Where can you find lettuce?
 [Ninereeds]This is lettuce.
 Lettuce is in a garden.
 Lettuce is in a field.
@@ -22,7 +22,7 @@ Lettuce makes new leaves.
 Lettuce stays crisp in the cold.
 Lettuce grows in the dirt and makes new leaves.
 
-[user]What is lettuce for?
+[user]What does lettuce give?
 [Ninereeds]This is lettuce.
 Lettuce is for salad.
 Lettuce is for a sandwich.

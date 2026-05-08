@@ -22,7 +22,7 @@ Sunrise greets the birds.
 Sunrise rises up.
 Sunrise lights and warms the world.
 
-[user]What is sunrise for?
+[user]What does sunrise give?
 [Ninereeds]Sunrise wakes the world.
 Sunrise lights the sky.
 Sunrise shines bright.

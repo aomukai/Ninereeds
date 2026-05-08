@@ -7,7 +7,7 @@ A hut is a small house.
 A hut is made of wood.
 A hut is a small house made of wood.
 
-[user]Where is a hut?
+[user]Where can you find a hut?
 [Ninereeds]This is a hut.
 A hut is in a forest.
 A hut is near a path.

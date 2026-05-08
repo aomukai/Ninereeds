@@ -7,7 +7,7 @@ Rub is a press and slide.
 Rub is a clean on a cloth.
 Rub is a hand on a surface back and forth.
 
-[user]Where is rub?
+[user]Where can you find rub?
 [Ninereeds]This is rub.
 Rub is on a table.
 Rub is on a floor.
@@ -25,7 +25,7 @@ Rub smooths a rough edge.
 Rub dries a wet area.
 Rub cleans a spot on a surface.
 
-[user]What is rub for?
+[user]What does rub give?
 [Ninereeds]This is rub.
 Rub is for cleaning.
 Rub is for polishing.

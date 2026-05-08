@@ -1,4 +1,4 @@
-[user]Where is a watermelon found?
+[user]Where can you find a watermelon?
 [Ninereeds]This is a watermelon.
 The watermelon grows on a vine and is green.
 The watermelon rests on the ground on the vine.

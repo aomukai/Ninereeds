@@ -1,13 +1,13 @@
 [user]What does a chimpanzee look like?
 [Ninereeds]This is a chimpanzee.
 A chimpanzee has dark fur.
-A chimpanzee has a face with no fur.
+A chimpanzee has a face without fur.
 A chimpanzee has long arms.
 A chimpanzee has short legs.
 A chimpanzee has strong hands.
 A chimpanzee is a large dark animal with long arms.
 
-[user]Where is a chimpanzee?
+[user]Where can you find a chimpanzee?
 [Ninereeds]This is a chimpanzee.
 A chimpanzee is in a forest.
 A chimpanzee is in a tree.
@@ -25,7 +25,7 @@ A chimpanzee makes nests in trees.
 A chimpanzee sleeps at night.
 A chimpanzee climbs trees and uses sticks as tools.
 
-[user]What is a chimpanzee for?
+[user]What does a chimpanzee give?
 [Ninereeds]This is a chimpanzee.
 A chimpanzee is for a forest.
 A chimpanzee is for a zoo.

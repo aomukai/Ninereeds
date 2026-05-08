@@ -7,7 +7,7 @@ A valley is wide.
 A valley is green.
 A valley is low green land between hills.
 
-[user]Where is a valley?
+[user]Where can you find a valley?
 [Ninereeds]This is a valley.
 A valley is in the mountains.
 A valley is between two ridges.

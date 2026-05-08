@@ -7,7 +7,7 @@ Elk has long legs.
 Elk has a light rump.
 Elk is large and antlered.
 
-[user]Where is an elk?
+[user]Where can you find an elk?
 [Ninereeds]This is an elk.
 Elk is in the forest.
 Elk is in the mountains.
@@ -25,7 +25,7 @@ Elk bugles in the fall.
 Elk rests in the shade.
 Elk is a grazer and a walker.
 
-[user]What is an elk for?
+[user]What does an elk give?
 [Ninereeds]This is an elk.
 Elk is for the forest.
 Elk is for the wild.

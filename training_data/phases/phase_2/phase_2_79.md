@@ -25,7 +25,7 @@ A picnic provides enjoyment.
 A picnic cheers people.
 A picnic is food and joy.
 
-[user]What is a picnic for?
+[user]What does a picnic give?
 [Ninereeds]This is a picnic.
 A picnic is for eating.
 A picnic is for relaxing.

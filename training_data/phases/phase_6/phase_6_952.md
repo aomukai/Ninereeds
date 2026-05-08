@@ -25,7 +25,7 @@ I've is for efficient talk.
 I've is for connection.
 I've is for past events and possession.
 
-[user]What is i've for?
+[user]What does i've give?
 [Ninereeds]This is i've.
 I've is for sharing past.
 I've is for showing ownership.

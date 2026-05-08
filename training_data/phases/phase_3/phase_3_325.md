@@ -25,7 +25,7 @@ A dive passes a surface.
 A dive reaches a depth.
 A dive moves a body into water.
 
-[user]What is a dive for?
+[user]What does a dive give?
 [Ninereeds]This is a dive.
 A dive is for a swim.
 A dive is for a splash.

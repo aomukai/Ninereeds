@@ -2,9 +2,9 @@
 [Ninereeds]This is an objection.
 Objection is a thought.
 Objection is a spoken word.
-Objection has no shape.
-Objection has no color.
-Objection is a feeling of not agreeing.
+Objection lacks shape.
+Objection lacks color.
+Objection is a feeling of agreeing.
 Objection is a thought and a spoken word.
 
 [user]Where does objection appear?
@@ -25,7 +25,7 @@ Objection questions a decision.
 Objection asks for more thought.
 Objection stops a process and shows disagreement.
 
-[user]What is objection for?
+[user]What does objection give?
 [Ninereeds]This is an objection.
 Objection is for expressing disapproval.
 Objection is for preventing errors.

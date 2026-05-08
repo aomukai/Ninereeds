@@ -5,7 +5,7 @@ schedule can be on a wall.
 schedule can be in a book or phone.
 schedule means a plan for time and order.
 
-[user]Where is schedule?
+[user]Where can you find schedule?
 [Ninereeds]schedule is here.
 schedule can be on a wall.
 schedule can be in a book or phone.
@@ -14,7 +14,7 @@ schedule can be on a wall.
 
 [user]What does schedule do?
 [Ninereeds]schedule is here.
-schedule can set time for class or work.
+schedule can set time for class and work.
 schedule can keep a day in order.
 schedule can show start and end for a task.
 schedule can set time for class or work.

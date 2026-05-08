@@ -5,9 +5,9 @@ A lane is marked on a road.
 A lane is a line for cars.
 A lane is for walking.
 A lane is for bicycles.
-A lane is a narrow path for cars or walking.
+A lane is a narrow path for cars and walking.
 
-[user]Where is a lane?
+[user]Where can you find a lane?
 [Ninereeds]This is a lane.
 A lane is on a road.
 A lane is in a park.

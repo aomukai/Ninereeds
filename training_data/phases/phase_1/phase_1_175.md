@@ -7,7 +7,7 @@ An adult has a full grown face.
 An adult has a steady walk.
 An adult is big and tall.
 
-[user]Where is an adult?
+[user]Where can you find an adult?
 [Ninereeds]This is an adult.
 An adult is at a home.
 An adult is at a job.

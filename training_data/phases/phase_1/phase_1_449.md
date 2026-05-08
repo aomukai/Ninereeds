@@ -25,7 +25,7 @@ Feet walk and run and jump.
 Feet kick and stomp and tap.
 Feet are for walking and running.
 
-[user]What are feet for?
+[user]What do feet give?
 [Ninereeds]This is feet.
 Feet are for walking and standing and running.
 Feet are for balance and movement.

@@ -5,16 +5,16 @@ A disease is an illness.
 A disease is a disorder.
 A disease has symptoms.
 A disease affects body functions.
-A disease is a sickness or an illness.
+A disease is a sickness and an illness.
 
-[user]Where is a disease?
+[user]Where can you find a disease?
 [Ninereeds]This is a disease.
 A disease is in a body.
 A disease is in a population.
 A disease is in a cell.
 A disease is in a system.
 A disease is in a mind.
-A disease is in a body or population.
+A disease is in a body and population.
 
 [user]What does a disease do?
 [Ninereeds]This is a disease.
@@ -25,7 +25,7 @@ A disease changes function.
 A disease can lead to death.
 A disease causes pain and weakens body.
 
-[user]What is a disease for?
+[user]What does a disease give?
 [Ninereeds]This is a disease.
 A disease is for scientific study.
 A disease is for medical treatment.

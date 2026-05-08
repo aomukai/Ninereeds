@@ -1,11 +1,11 @@
 [user]What is nothing?
 [Ninereeds]nothing is here.
-nothing is no thing.
+nothing is thing.
 nothing can mean an empty space.
 nothing can come after all is gone.
-nothing means no thing.
+nothing lacks thing.
 
-[user]Where is nothing?
+[user]Where can you find nothing?
 [Ninereeds]nothing is here.
 nothing can be in an empty box.
 nothing can be on a bare shelf.

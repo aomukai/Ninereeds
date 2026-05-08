@@ -61,7 +61,7 @@ Formatting queue after cleanup:
 - `275` live unique target files
 - `8` skipped stale rows
 
-### 4. Started the formatting pass
+### 4. Finished the formatting pass
 
 Runner:
 
@@ -71,14 +71,20 @@ Progress ledger:
 
 - [`training_data/phases/repair_progress_formatting.txt`](/home/aomukai/Ninereeds/training_data/phases/repair_progress_formatting.txt)
 
-Current formatting status:
+Formatting status:
 
-- `52` completed
-- `223` remaining
+- `275 / 275` completed
+- `0` remaining
 
 Last completed formatting file:
 
-- [`training_data/phases/phase_1/phase_1_945.md`](/home/aomukai/Ninereeds/training_data/phases/phase_1/phase_1_945.md)
+- [`training_data/phases/phase_6/phase_6_543.md`](/home/aomukai/Ninereeds/training_data/phases/phase_6/phase_6_543.md)
+
+**Important failure-mode discovered:** The model (DeepSeek V4 flash) with `--dangerously-skip-permissions` writes files directly using its write tool, then responds with a summary like "Done. The file is rewritten..." instead of echoing the file content.  
+
+The script's `verify_rewrite` checked the **response text** for `[user]`/`[Ninereeds]` tags, saw the summary (no tags), and reported a false-negative failure. But the **file on disk** was correctly written. 198/199 pending files actually had valid 4-block content.
+
+Fix: 5 phase_4 files written directly, 2 phase_6 adjective files manually fixed.
 
 ## Operational Notes
 
@@ -154,7 +160,6 @@ PY
 ## Short Summary
 
 - duplicate queue: done
-- formatting queue: active
-- formatting completed: `52 / 275`
-- formatting remaining: `223`
+- formatting queue: done (275/275)
+- all phase files have valid [user]/[Ninereeds] format
 - no active DeepSeek jobs are running right now

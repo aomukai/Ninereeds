@@ -5,9 +5,9 @@ Genre is a kind of art.
 Genre is a type of music.
 Genre is a class of literature.
 Genre is a style.
-Genre is a category or a kind of art.
+Genre is a category and a kind of art.
 
-[user]Where is genre found?
+[user]Where can you find genre?
 [Ninereeds]This is genre.
 Genre is found in books.
 Genre is found in movies.
@@ -25,7 +25,7 @@ Genre helps discovery.
 Genre defines a style.
 Genre organizes art and guides creation.
 
-[user]What is genre for?
+[user]What does genre give?
 [Ninereeds]This is genre.
 Genre is for classification.
 Genre is for understanding.

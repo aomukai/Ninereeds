@@ -7,7 +7,7 @@ A helmet has a strap.
 A helmet has padding inside.
 A helmet is a hard round cover for a head.
 
-[user]Where is a helmet?
+[user]Where can you find a helmet?
 [Ninereeds]This is a helmet.
 A helmet is on a head.
 A helmet is on a bike rider.
@@ -25,7 +25,7 @@ A helmet covers the top of a head.
 A helmet stays on with a strap.
 A helmet protects a head and stops bumps.
 
-[user]What is a helmet used for?
+[user]What does a helmet give?
 [Ninereeds]This is a helmet.
 A helmet keeps a head safe from bumps.
 A helmet shields a head from falls.

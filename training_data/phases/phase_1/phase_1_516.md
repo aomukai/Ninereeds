@@ -7,7 +7,7 @@ A giraffe has spots on the body.
 A giraffe has small horns on the head.
 A giraffe is tall and spotted.
 
-[user]Where is a giraffe?
+[user]Where can you find a giraffe?
 [Ninereeds]This is a giraffe.
 A giraffe is in a savanna.
 A giraffe is in a zoo.
@@ -25,7 +25,7 @@ A giraffe looks over tall trees.
 A giraffe drinks from a pond.
 A giraffe is a leaf-eater and a walker.
 
-[user]What is a giraffe for?
+[user]What does a giraffe give?
 [Ninereeds]This is a giraffe.
 A giraffe is for a zoo.
 A giraffe is for a story.

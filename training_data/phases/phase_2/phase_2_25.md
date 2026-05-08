@@ -25,7 +25,7 @@ The bedsheet can be washed.
 The bedsheet is for a bed.
 The bedsheet gets wrinkled and gets dirty.
 
-[user]What is a bedsheet for?
+[user]What does a bedsheet give?
 [Ninereeds]This is a bedsheet.
 The bedsheet covers a bed.
 The bedsheet provides a surface.

@@ -7,7 +7,7 @@ Luck is a bad thing happening.
 Luck is an unplanned event.
 Luck is a chance and a fortune.
 
-[user]Where is luck found?
+[user]Where can you find luck?
 [Ninereeds]This is luck.
 Luck is found in games.
 Luck is found in life.
@@ -25,7 +25,7 @@ Luck changes a path.
 Luck surprises a person.
 Luck influences an outcome and surprises a person.
 
-[user]What is luck for?
+[user]What does luck give?
 [Ninereeds]This is luck.
 Luck is for unforeseen events.
 Luck is for adding excitement.

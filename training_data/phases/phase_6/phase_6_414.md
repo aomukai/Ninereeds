@@ -7,7 +7,7 @@ applies can indicate a law that covers a case.
 applies can be used in logic for one argument.
 applies is valid and fitting.
 
-[user]Where is applies?
+[user]Where can you find applies?
 [Ninereeds]applies is here.
 applies can be in a law note or class rule.
 applies can be on a page about one case.

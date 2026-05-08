@@ -7,7 +7,7 @@ A pizza has toppings.
 A pizza is flat.
 A pizza is a round flat thing with sauce and cheese.
 
-[user]Where is a pizza?
+[user]Where can you find a pizza?
 [Ninereeds]This is a pizza.
 A pizza is on a plate.
 A pizza is in a box.
@@ -25,11 +25,11 @@ A pizza cools on a counter.
 A pizza waits to be eaten.
 A pizza bakes in an oven and fills a room with a smell.
 
-[user]What is a pizza for?
+[user]What does a pizza give?
 [Ninereeds]This is a pizza.
 A pizza is for eating.
 A pizza is for dinner.
 A pizza is for a party.
 A pizza is for lunch.
 A pizza feeds a group of people.
-A pizza is for eating at dinner or a party.
+A pizza is for eating at dinner and a party.

@@ -25,7 +25,7 @@ Mathematics is finding truths.
 Mathematics is making order.
 Mathematics is solving and making order.
 
-[user]What is mathematics for?
+[user]What does mathematics give?
 [Ninereeds]This is mathematics.
 Mathematics is for understanding.
 Mathematics is for building bridges.

@@ -7,7 +7,7 @@ A bead is blue or red or green.
 A bead is made of glass or plastic.
 A bead is a small round piece with a hole.
 
-[user]Where is a bead?
+[user]Where can you find a bead?
 [Ninereeds]This is a bead.
 A bead is on a string.
 A bead is in a jewelry box.
@@ -25,7 +25,7 @@ A bead clicks against another bead.
 A bead hangs from a necklace.
 A bead slides and sparkles on a string.
 
-[user]What is a bead for?
+[user]What does a bead give?
 [Ninereeds]This is a bead.
 A bead is for making a bracelet.
 A bead is for decorating a necklace.

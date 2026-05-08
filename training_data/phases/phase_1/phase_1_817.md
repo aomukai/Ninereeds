@@ -7,7 +7,7 @@ A pot has a lid.
 A pot is made of metal.
 A pot is round and deep.
 
-[user]Where is a pot?
+[user]Where can you find a pot?
 [Ninereeds]This is a pot.
 A pot is on a stove.
 A pot is in a kitchen.
@@ -25,7 +25,7 @@ A pot steams vegetables.
 A pot simmers sauce.
 A pot boils water and cooks soup.
 
-[user]What is a pot for?
+[user]What does a pot give?
 [Ninereeds]This is a pot.
 A pot is for cooking.
 A pot is for soup.

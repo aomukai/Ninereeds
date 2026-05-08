@@ -22,7 +22,7 @@ Disagreeing brings sharper thought.
 Disagreeing brings a test for an idea.
 Disagreeing brings debate and difference.
 
-[user]What is disagreeing for?
+[user]What does disagreeing give?
 [Ninereeds]Disagreeing is for showing a different view.
 Disagreeing is for checking an idea.
 Disagreeing is for opening debate.

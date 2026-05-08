@@ -7,7 +7,7 @@ A fan has a base.
 A fan is round.
 A fan is round and fast.
 
-[user]Where is a fan?
+[user]Where can you find a fan?
 [Ninereeds]This is a fan.
 A fan is on a ceiling.
 A fan is on a floor.
@@ -25,7 +25,7 @@ A fan blows wind.
 A fan makes air flow.
 A fan is spinning and cooling.
 
-[user]What is a fan for?
+[user]What does a fan give?
 [Ninereeds]This is a fan.
 A fan is for cooling.
 A fan is for air.

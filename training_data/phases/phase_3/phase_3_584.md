@@ -25,7 +25,7 @@ Whoosh passes in a blink.
 Whoosh rushes past the ear.
 Whoosh pushes air aside and follows a fast object.
 
-[user]What is whoosh for?
+[user]What does whoosh give?
 [Ninereeds]This is whoosh.
 Whoosh is for fast travel.
 Whoosh is for signaling speed.

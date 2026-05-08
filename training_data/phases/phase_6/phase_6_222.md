@@ -4,7 +4,7 @@ smart is a term for effective reasoning.
 smart often appears in academic contexts.
 smart describes skill in solving problems.
 
-[user]Where is smart?
+[user]Where can you find smart?
 [Ninereeds]smart is here.
 smart can be found in learning environments.
 smart exists in thoughtful discussions.

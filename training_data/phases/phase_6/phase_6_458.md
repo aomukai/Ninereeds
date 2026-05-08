@@ -5,7 +5,7 @@ Version is a specific edition.
 Version is a different type.
 Version is a variant.
 Version is an adapted form.
-Version is a form or type of something.
+Version is a form and type of something.
 
 [user]Where does version appear?
 [Ninereeds]This is a version.
@@ -25,7 +25,7 @@ Version provides options.
 Version reflects development.
 Version shows progress and offers choices.
 
-[user]What is version for?
+[user]What does version give?
 [Ninereeds]This is a version.
 Version is for updates.
 Version is for improvements.

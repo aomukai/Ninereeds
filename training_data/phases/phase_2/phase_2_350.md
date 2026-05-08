@@ -7,7 +7,7 @@ A well has a wall.
 A well has a bucket.
 A well is a deep round hole in the ground.
 
-[user]Where is a well?
+[user]Where can you find a well?
 [Ninereeds]This is a well.
 A well is in the ground.
 A well is in a yard.

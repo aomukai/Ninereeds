@@ -5,7 +5,7 @@ petroleum can be a dark thick liquid.
 petroleum can be used to make fuel and plastic.
 petroleum means oil from deep ground.
 
-[user]Where is petroleum?
+[user]Where can you find petroleum?
 [Ninereeds]petroleum is here.
 petroleum can be under rock.
 petroleum can be in deep earth.

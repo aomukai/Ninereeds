@@ -7,7 +7,7 @@ An outfit matches different pieces.
 An outfit can have patterns.
 An outfit is a set of clothes and a top and bottom.
 
-[user]Where is an outfit?
+[user]Where can you find an outfit?
 [Ninereeds]This is an outfit.
 An outfit is in a closet.
 An outfit hangs on a hanger.
@@ -25,7 +25,7 @@ An outfit lets a person move.
 An outfit shows a personal style.
 An outfit covers the body and keeps a person warm.
 
-[user]What is an outfit for?
+[user]What does an outfit give?
 [Ninereeds]This is an outfit.
 An outfit is for wearing to places.
 An outfit is for special events.

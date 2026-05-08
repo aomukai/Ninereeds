@@ -5,9 +5,9 @@ A character is a trait.
 A character is a symbol.
 A character is a role.
 A character is a letter.
-A character is a person or a trait.
+A character is a person and a trait.
 
-[user]Where is a character found?
+[user]Where can you find a character?
 [Ninereeds]This is a character.
 A character is found in books.
 A character is found in movies.
@@ -25,7 +25,7 @@ A character performs an action.
 A character conveys information.
 A character tells a story and defines a person.
 
-[user]What is a character for?
+[user]What does a character give?
 [Ninereeds]This is a character.
 A character is for narrative.
 A character is for identity.

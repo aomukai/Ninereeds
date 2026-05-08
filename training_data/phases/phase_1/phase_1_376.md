@@ -7,7 +7,7 @@ A crumb is brown or white.
 A crumb is a speck of food.
 A crumb is a tiny piece and a speck of food.
 
-[user]Where is a crumb?
+[user]Where can you find a crumb?
 [Ninereeds]This is a crumb.
 A crumb sits on a plate.
 A crumb falls on a table.
@@ -25,7 +25,7 @@ A crumb sticks to a finger.
 A crumb breaks into smaller bits.
 A crumb is falling and drying.
 
-[user]What is a crumb for?
+[user]What does a crumb give?
 [Ninereeds]This is a crumb.
 A crumb feeds a small bird.
 A crumb feeds a tiny ant.

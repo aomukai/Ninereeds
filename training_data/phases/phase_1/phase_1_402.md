@@ -7,14 +7,14 @@ A dolly is metal.
 A dolly is small.
 A dolly is a flat metal cart with four wheels and a long handle.
 
-[user]Where is a dolly?
+[user]Where can you find a dolly?
 [Ninereeds]This is a dolly.
 A dolly stands in a garage.
 A dolly rests against a wall.
 A dolly rolls on a floor.
 A dolly stays in a warehouse.
 A dolly moves down a hallway.
-A dolly stands in a garage or rolls on a floor.
+A dolly stands in a garage and rolls on a floor.
 
 [user]What does a dolly do?
 [Ninereeds]This is a dolly.
@@ -25,7 +25,7 @@ A dolly tilts to lift a load.
 A dolly holds a stack.
 A dolly carries heavy boxes and rolls on wheels.
 
-[user]What is a dolly for?
+[user]What does a dolly give?
 [Ninereeds]This is a dolly.
 A dolly is for moving things.
 A dolly is for a warehouse.

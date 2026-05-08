@@ -5,7 +5,7 @@ shake can be in a hand.
 shake can be in a tree or table.
 shake means an act of moving fast back and forth.
 
-[user]Where is shake?
+[user]Where can you find shake?
 [Ninereeds]shake is here.
 shake can be in a hand.
 shake can be in a tree or table.

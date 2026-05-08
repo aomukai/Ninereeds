@@ -7,7 +7,7 @@ A triangle is a flat shape.
 A triangle is often sharp.
 A triangle is flat and sharp.
 
-[user]Where is a triangle?
+[user]Where can you find a triangle?
 [Ninereeds]This is a triangle.
 A triangle is on paper.
 A triangle is in buildings.
@@ -25,7 +25,7 @@ A triangle divides space.
 A triangle forms strong structures.
 A triangle is for holding up things and making patterns.
 
-[user]What is a triangle for?
+[user]What does a triangle give?
 [Ninereeds]This is a triangle.
 A triangle is for building.
 A triangle is for design.

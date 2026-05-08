@@ -7,7 +7,7 @@ A ranch has fences
 A ranch has a farmhouse
 A ranch has fields and a barn
 
-[user]Where is a ranch?
+[user]Where can you find a ranch?
 [Ninereeds]This is a ranch.
 A ranch is in the country
 A ranch is on open land
@@ -25,7 +25,7 @@ A ranch sustains livestock
 A ranch produces goods
 A ranch raises animals and grows food
 
-[user]What is a ranch for?
+[user]What does a ranch give?
 [Ninereeds]This is a ranch.
 A ranch is for farming
 A ranch is for animals

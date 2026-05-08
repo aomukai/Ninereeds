@@ -7,7 +7,7 @@ A plane has windows.
 A plane has wheels.
 A plane is a machine with wings and a long body.
 
-[user]Where is a plane?
+[user]Where can you find a plane?
 [Ninereeds]This is a plane.
 A plane is in the sky.
 A plane is at an airport.
@@ -25,7 +25,7 @@ A plane lands on a runway.
 A plane flies to a far place.
 A plane is for flying and for travel.
 
-[user]What is a plane for?
+[user]What does a plane give?
 [Ninereeds]This is a plane.
 A plane is for flying.
 A plane is for travel.

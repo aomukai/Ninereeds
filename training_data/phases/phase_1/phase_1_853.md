@@ -7,7 +7,7 @@ A reed grows straight up.
 A reed has a narrow stem.
 A reed is tall and thin.
 
-[user]Where is a reed?
+[user]Where can you find a reed?
 [Ninereeds]This is a reed.
 A reed is in a marsh.
 A reed is near a pond.
@@ -25,7 +25,7 @@ A reed makes a rustling sound.
 A reed filters water.
 A reed is swaying in wind and filtering water.
 
-[user]What is a reed for?
+[user]What does a reed give?
 [Ninereeds]This is a reed.
 A reed makes a mat.
 A reed makes a basket.

@@ -7,7 +7,7 @@ A raven has dark eyes.
 A raven is large for a bird.
 A raven is a large black bird with a thick beak.
 
-[user]Where is a raven?
+[user]Where can you find a raven?
 [Ninereeds]This is a raven.
 A raven is in the sky.
 A raven sits on a branch.
@@ -25,7 +25,7 @@ A raven eats seeds and bugs.
 A raven builds a nest.
 A raven flies and calls loud sounds.
 
-[user]What is a raven for?
+[user]What does a raven give?
 [Ninereeds]This is a raven.
 A raven spreads seeds.
 A raven cleans carcasses.

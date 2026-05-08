@@ -25,7 +25,7 @@ Yes establishes agreement.
 Yes grants approval.
 Yes permits action and confirms decisions.
 
-[user]What is yes for?
+[user]What does yes give?
 [Ninereeds]This is yes.
 Yes is for expressing agreement.
 Yes is for granting permission.

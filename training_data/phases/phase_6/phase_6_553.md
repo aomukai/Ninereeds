@@ -22,7 +22,7 @@ Interpreting brings a second layer of understanding beneath the first.
 Interpreting brings the gift of access to what was sealed.
 Interpreting brings meaning and insight.
 
-[user]What is interpreting for?
+[user]What does interpreting give?
 [Ninereeds]Interpreting is for turning a sign into understanding.
 Interpreting is for unlocking what another mind has encoded.
 Interpreting is for travelling from expression to meaning.

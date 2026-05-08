@@ -5,7 +5,7 @@ Rot is to decompose.
 Rot is to spoil.
 Rot is to break down.
 Rot is to go bad.
-Rot is to decay or go bad.
+Rot is to decay and go bad.
 
 [user]Where does rot appear?
 [Ninereeds]This is rot.
@@ -25,7 +25,7 @@ Rot breaks down matter.
 Rot returns things to earth.
 Rot changes and breaks down matter.
 
-[user]What is rot for?
+[user]What does rot give?
 [Ninereeds]This is rot.
 Rot is for recycling nutrients.
 Rot is for creating soil.

@@ -6,7 +6,7 @@ A sensor has tiny parts.
 A sensor has wires.
 A sensor is a small flat thing with wires.
 
-[user]Where is a sensor?
+[user]Where can you find a sensor?
 [Ninereeds]This is a sensor.
 A sensor is inside a robot.
 A sensor is inside a car.
@@ -23,7 +23,7 @@ A sensor feels motion.
 A sensor feels things.
 A sensor feels light heat or motion.
 
-[user]What is a sensor for?
+[user]What does a sensor give?
 [Ninereeds]This is a sensor.
 A sensor helps a robot see.
 A sensor helps a car stop.

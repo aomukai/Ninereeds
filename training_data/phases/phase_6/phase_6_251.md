@@ -5,7 +5,7 @@ spin is common in tops and wheels.
 spin means to turn quickly around.
 spin creates a circular path.
 
-[user]Where is spin?
+[user]Where can you find spin?
 [Ninereeds]spin is here.
 spin happens on wheels and axles.
 spin occurs in dances and spins.

@@ -7,7 +7,7 @@ Timing is a synchronization.
 Timing is an opportune moment.
 Timing is a selection of a moment and a pace.
 
-[user]Where is timing found?
+[user]Where can you find timing?
 [Ninereeds]This is timing.
 Timing is found in music.
 Timing is found in sports.
@@ -25,7 +25,7 @@ Timing creates a perfect moment.
 Timing prevents problems.
 Timing affects an outcome and enhances an effect.
 
-[user]What is timing for?
+[user]What does timing give?
 [Ninereeds]This is timing.
 Timing is for success.
 Timing is for precision.

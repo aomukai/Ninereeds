@@ -7,7 +7,7 @@ A crisis is an emergency.
 A crisis is a unstable state.
 A crisis is a time of great danger and a difficult moment.
 
-[user]Where is a crisis found?
+[user]Where can you find a crisis?
 [Ninereeds]This is a crisis.
 A crisis is found in economics.
 A crisis is found in health.
@@ -25,7 +25,7 @@ A crisis creates urgency.
 A crisis tests resilience.
 A crisis forces decisions and reveals weaknesses.
 
-[user]What is a crisis for?
+[user]What does a crisis give?
 [Ninereeds]This is a crisis.
 A crisis is for revealing truth.
 A crisis is for making strong choices.

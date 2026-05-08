@@ -22,7 +22,7 @@ Transmitting brings quick movement of data.
 Transmitting brings a live signal.
 Transmitting brings reach and contact.
 
-[user]What is transmitting for?
+[user]What does transmitting give?
 [Ninereeds]Transmitting is for sending a message.
 Transmitting is for sharing data.
 Transmitting is for carrying a signal.

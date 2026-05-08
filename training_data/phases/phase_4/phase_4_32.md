@@ -25,7 +25,7 @@ A cricket jumps away from a predator.
 A cricket listens for a returning chirp.
 A cricket is chirping and leaping.
 
-[user]What is a cricket for?
+[user]What does a cricket give?
 [Ninereeds]This is a cricket.
 A cricket is for creating nighttime sounds.
 A cricket is for feeding birds and lizards.

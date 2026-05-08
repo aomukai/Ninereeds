@@ -5,16 +5,16 @@ Cry is to have water from eyes.
 Cry is to make a loud sound.
 Cry is a baby noise.
 Cry is a way to show sadness.
-Cry is sad sounds or water from eyes.
+Cry is sad sounds and water from eyes.
 
-[user]Where is cry?
+[user]Where can you find cry?
 [Ninereeds]This is cry.
 Cry is in a child.
 Cry is in a person.
 Cry is in an animal.
 Cry is in a sad place.
 Cry is in a time of pain.
-Cry is in a person or an animal.
+Cry is in a person and an animal.
 
 [user]What does cry do?
 [Ninereeds]This is cry.
@@ -25,7 +25,7 @@ Cry makes a sound.
 Cry brings tears.
 Cry shows pain and asks for help.
 
-[user]What is cry for?
+[user]What does cry give?
 [Ninereeds]This is cry.
 Cry is for showing sadness.
 Cry is for asking for comfort.

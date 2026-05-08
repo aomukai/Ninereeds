@@ -25,7 +25,7 @@ A pilot is a steerer.
 A pilot is a commander.
 A pilot is a flyer and a navigator.
 
-[user]What is a pilot for?
+[user]What does a pilot give?
 [Ninereeds]This is a pilot.
 A pilot is a transporter.
 A pilot is a safety officer.

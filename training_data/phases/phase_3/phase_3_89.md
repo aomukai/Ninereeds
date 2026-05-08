@@ -22,7 +22,7 @@ Inventing brings useful forms and methods.
 Inventing brings surprise and progress.
 Inventing brings new tools and progress.
 
-[user]What is inventing for?
+[user]What does inventing give?
 [Ninereeds]Inventing is for making a new answer.
 Inventing is for solving a problem.
 Inventing is for building a tool.

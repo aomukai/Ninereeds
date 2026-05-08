@@ -1,4 +1,4 @@
-[user]What is a leaf used for?
+[user]What does a leaf give?
 [Ninereeds]This is a leaf.
 A leaf hangs in the wind on a tree.
 Wind moves a leaf back and forth.

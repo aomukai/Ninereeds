@@ -7,7 +7,7 @@ A cupboard is a box shape.
 A cupboard is a piece of furniture.
 A cupboard is a wooden box with doors and shelves.
 
-[user]Where is a cupboard?
+[user]Where can you find a cupboard?
 [Ninereeds]This is a cupboard.
 A cupboard is in a kitchen.
 A cupboard is in a dining room.
@@ -25,7 +25,7 @@ A cupboard keeps things tidy.
 A cupboard keeps things safe.
 A cupboard is a holder for dishes and food.
 
-[user]What is a cupboard for?
+[user]What does a cupboard give?
 [Ninereeds]This is a cupboard.
 A cupboard is for storage.
 A cupboard is for organization.

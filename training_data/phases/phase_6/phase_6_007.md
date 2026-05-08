@@ -25,7 +25,7 @@ Space is giving room.
 Space is making distance.
 Space is holding and letting things move.
 
-[user]What is space for?
+[user]What does space give?
 [Ninereeds]This is space.
 Space is for planets.
 Space is for rockets.

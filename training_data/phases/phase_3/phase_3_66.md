@@ -5,7 +5,7 @@ Invention is a new process.
 Invention is a new method.
 Invention is a creation.
 Invention is something made first.
-Invention is a new device or creation.
+Invention is a new device and creation.
 
 [user]Where does invention appear?
 [Ninereeds]This is an invention.
@@ -25,7 +25,7 @@ Invention creates new possibilities.
 Invention saves time.
 Invention solves problems and improves life.
 
-[user]What is invention for?
+[user]What does invention give?
 [Ninereeds]This is an invention.
 Invention is for progress.
 Invention is for innovation.

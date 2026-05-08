@@ -7,7 +7,7 @@ A reindeer has a brown coat.
 A reindeer has a white neck.
 A reindeer is a brown animal and has antlers.
 
-[user]Where is a reindeer?
+[user]Where can you find a reindeer?
 [Ninereeds]This is a reindeer.
 A reindeer is in a forest.
 A reindeer is on a mountain.
@@ -25,7 +25,7 @@ A reindeer sheds antlers each year.
 A reindeer swims in rivers.
 A reindeer walks on snow and digs for food.
 
-[user]What is a reindeer for?
+[user]What does a reindeer give?
 [Ninereeds]This is a reindeer.
 A reindeer pulls a sled.
 A reindeer gives milk.

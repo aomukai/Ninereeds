@@ -1,35 +1,35 @@
-[user]What does failing mean?
-[Ninereeds]This is a failing.
-A failing is not succeeding.
-A failing is going wrong.
-A failing is making a mistake.
-A failing is a loss of strength.
-A failing is a decline.
-A failing is not succeeding and making a mistake.
+[user]What is failing?
+[Ninereeds]This is failing.
+Failing is an unsuccessful attempt.
+Failing is a missed goal.
+Failing is a wrong outcome.
+Failing is a loss of strength.
+Failing is a decline in performance.
+Failing is an unsuccessful attempt and a missed goal.
 
-[user]Where does failing occur?
-[Ninereeds]This is a failing.
-A failing occurs in tasks.
-A failing occurs in tests.
-A failing occurs in plans.
-A failing occurs in machines.
-A failing occurs in health.
-A failing occurs in tasks and in health.
+[user]Where does failing appear?
+[Ninereeds]This is failing.
+Failing appears in tasks.
+Failing appears in tests.
+Failing appears in plans.
+Failing appears in machines.
+Failing appears in health.
+Failing appears in tasks and in tests.
 
 [user]What does failing do?
-[Ninereeds]This is a failing.
-A failing stops progress.
-A failing causes disappointment.
-A failing leads to rework.
-A failing reveals a weakness.
-A failing signals a need for change.
-A failing stops progress and signals a need for change.
+[Ninereeds]This is failing.
+Failing stops progress.
+Failing causes disappointment.
+Failing leads to rework.
+Failing reveals a weakness.
+Failing signals a need for change.
+Failing stops progress and signals a need for change.
 
-[user]What is failing for?
-[Ninereeds]This is a failing.
-A failing is for learning lessons.
-A failing is for finding new ways.
-A failing is for improvement.
-A failing is for strengthening efforts.
-A failing is for understanding limits.
-A failing is for learning lessons and improvement.
+[user]What does failing give?
+[Ninereeds]This is failing.
+Failing is for learning lessons.
+Failing is for finding new ways.
+Failing is for improvement.
+Failing is for strengthening efforts.
+Failing is for understanding limits.
+Failing is for learning lessons and for understanding limits.

@@ -7,7 +7,7 @@ Nap is a quiet time.
 Nap is a doze in a soft spot.
 Nap is a short rest in the day.
 
-[user]Where is nap?
+[user]Where can you find nap?
 [Ninereeds]This is nap.
 Nap is on a couch.
 Nap is in a crib.

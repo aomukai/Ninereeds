@@ -7,7 +7,7 @@ A lamb has wool.
 A lamb has four legs.
 A lamb is small and fluffy.
 
-[user]Where is a lamb found?
+[user]Where can you find a lamb?
 [Ninereeds]This is a lamb.
 A lamb is in a field.
 A lamb is on a farm.
@@ -25,7 +25,7 @@ A lamb sleeps on hay.
 A lamb follows the flock.
 A lamb is a walker and an eater.
 
-[user]What is a lamb used for?
+[user]What does a lamb give?
 [Ninereeds]This is a lamb.
 A lamb gives wool.
 A lamb gives meat.

@@ -22,7 +22,7 @@ Detecting brings useful facts for action.
 Detecting brings a sharper search.
 Detecting brings clue and warning.
 
-[user]What is detecting for?
+[user]What does detecting give?
 [Ninereeds]Detecting is for finding hidden signs.
 Detecting is for warning about change.
 Detecting is for checking a scene.

@@ -3,7 +3,7 @@
 Coincidence is a happening.
 Coincidence is a surprising happening.
 Coincidence is things meeting.
-Coincidence is things not planned.
+Coincidence is things planned.
 Coincidence is two things.
 Coincidence is two surprising things meeting.
 
@@ -25,7 +25,7 @@ Coincidence is making smile.
 Coincidence is bringing together.
 Coincidence is bringing together and surprising.
 
-[user]What is coincidence for?
+[user]What does coincidence give?
 [Ninereeds]This is coincidence.
 Coincidence is for fun.
 Coincidence is for stories.

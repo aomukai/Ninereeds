@@ -7,7 +7,7 @@ The nose has soft skin.
 The nose is used for breathing.
 A nose is a body part for smelling and breathing.
 
-[user]Where is a nose?
+[user]Where can you find a nose?
 [Ninereeds]This is a nose.
 The nose is between the eyes.
 The nose is above the mouth.

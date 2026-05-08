@@ -25,7 +25,7 @@ A flop lands the body on a mat.
 A flop sets the body on a sofa.
 A flop is a drop and a rest.
 
-[user]What is a flop for?
+[user]What does a flop give?
 [Ninereeds]This is a flop.
 A flop is a way to rest.
 A flop is a way to fall.

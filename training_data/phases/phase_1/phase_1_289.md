@@ -7,14 +7,14 @@ A camera has a screen.
 A camera is black.
 A camera is a rectangular box with a lens.
 
-[user]Where is a camera?
+[user]Where can you find a camera?
 [Ninereeds]This is a camera.
 A camera is in a hand.
 A camera is on a tripod.
 A camera is in a bag.
 A camera is in a store.
 A camera is on a shelf.
-A camera is in a hand or on a shelf.
+A camera is in a hand and on a shelf.
 
 [user]What does a camera do?
 [Ninereeds]This is a camera.
@@ -25,7 +25,7 @@ A camera saves an image.
 A camera shows a picture on a screen.
 A camera takes a photo and records a video.
 
-[user]What is a camera for?
+[user]What does a camera give?
 [Ninereeds]This is a camera.
 A camera takes a photo.
 A camera makes a memory.

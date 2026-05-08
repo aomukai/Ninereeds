@@ -5,7 +5,7 @@ scrape can be on skin.
 scrape can be on wood, ice, or a pan.
 scrape means an act that rubs a rough edge on a thing.
 
-[user]Where is scrape?
+[user]Where can you find scrape?
 [Ninereeds]scrape is here.
 scrape can be on skin.
 scrape can be on wood, ice, or a pan.

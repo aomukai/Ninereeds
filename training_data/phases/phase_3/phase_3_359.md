@@ -25,7 +25,7 @@ Flicker makes a candle dance in air.
 Flicker makes a fire pulse with glow.
 Flicker makes a bulb blink and a candle dance.
 
-[user]What is flicker for?
+[user]What does flicker give?
 [Ninereeds]This is flicker.
 Flicker warns a person of a bad bulb.
 Flicker shows wind in a room.

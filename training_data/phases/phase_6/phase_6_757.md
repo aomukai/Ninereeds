@@ -7,7 +7,7 @@ A condition is a prerequisite.
 A condition is a situation.
 A condition is a state of being and a requirement.
 
-[user]Where is a condition found?
+[user]Where can you find a condition?
 [Ninereeds]This is a condition.
 A condition is found in rules.
 A condition is found in contracts.
@@ -25,7 +25,7 @@ A condition defines a state.
 A condition creates a dependency.
 A condition limits an action and influences an outcome.
 
-[user]What is a condition for?
+[user]What does a condition give?
 [Ninereeds]This is a condition.
 A condition is for setting boundaries.
 A condition is for ensuring a result.

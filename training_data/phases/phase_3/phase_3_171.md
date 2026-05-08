@@ -22,7 +22,7 @@ Revisiting brings a deeper sense of meaning.
 Revisiting brings a second chance at insight.
 Revisiting brings view and depth.
 
-[user]What is revisiting for?
+[user]What does revisiting give?
 [Ninereeds]Revisiting is for gaining more insight.
 Revisiting is for checking a first view.
 Revisiting is for keeping a topic open.

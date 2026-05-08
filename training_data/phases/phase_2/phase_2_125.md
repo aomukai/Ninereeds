@@ -7,7 +7,7 @@ A biologist looks closely.
 A biologist works in a lab.
 A biologist is a scientist who studies life.
 
-[user]Where is a biologist?
+[user]Where can you find a biologist?
 [Ninereeds]This is a biologist.
 A biologist is in a lab.
 A biologist is in a forest.
@@ -25,7 +25,7 @@ A biologist observes cells.
 A biologist discovers new facts.
 A biologist studies living things and discovers new facts.
 
-[user]What is a biologist for?
+[user]What does a biologist give?
 [Ninereeds]This is a biologist.
 A biologist is for understanding life.
 A biologist is for medical breakthroughs.

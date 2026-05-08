@@ -2,8 +2,8 @@
 [Ninereeds]This is a viewpoint.
 Viewpoint is a way of seeing things.
 Viewpoint is a position.
-Viewpoint has no physical shape.
-Viewpoint has no color.
+Viewpoint lacks physical shape.
+Viewpoint lacks color.
 Viewpoint is an idea.
 Viewpoint is a way of seeing things and an idea.
 
@@ -25,7 +25,7 @@ Viewpoint gives a unique angle.
 Viewpoint provides a different opinion.
 Viewpoint shapes understanding and influences thoughts.
 
-[user]What is viewpoint for?
+[user]What does viewpoint give?
 [Ninereeds]This is a viewpoint.
 Viewpoint is for understanding differences.
 Viewpoint is for clear communication.

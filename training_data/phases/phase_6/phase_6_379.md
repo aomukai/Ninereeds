@@ -5,7 +5,7 @@ world can be on a map or in a book.
 world can hold town forest and sea.
 world is the full land sea and sky of earth.
 
-[user]Where is world?
+[user]Where can you find world?
 [Ninereeds]world is here.
 world can be on a globe or page.
 world can be in a class talk.

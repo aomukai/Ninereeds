@@ -6,7 +6,7 @@ A marker has a cap.
 A marker has a tip.
 A marker is a long and thin tool for a drawing.
 
-[user]Where is a marker?
+[user]Where can you find a marker?
 [Ninereeds]This is a marker.
 A marker is on a desk.
 A marker is in a case.
@@ -22,7 +22,7 @@ A marker marks a line.
 A marker colors a space.
 A marker draws on paper and marks a line.
 
-[user]What is a marker for?
+[user]What does a marker give?
 [Ninereeds]This is a marker.
 A marker is for drawing.
 A marker is for writing.

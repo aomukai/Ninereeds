@@ -1,13 +1,13 @@
 [user]What does a mess look like?
 [Ninereeds]This is a mess.
-A mess is not neat.
+A mess is neat.
 A mess has things out of place.
 A mess has items on the floor.
 A mess has scattered objects.
 A mess is a pile of things in disarray.
 A mess is a pile of things out of place.
 
-[user]Where is a mess?
+[user]Where can you find a mess?
 [Ninereeds]This is a mess.
 A mess is on the floor.
 A mess is on a table.
@@ -25,7 +25,7 @@ A mess makes work for a person.
 A mess is a pile that makes a room look bad.
 A mess makes a room look bad and makes work.
 
-[user]What is a mess for?
+[user]What does a mess give?
 [Ninereeds]This is a mess.
 A mess is for cleaning.
 A mess is for sorting.

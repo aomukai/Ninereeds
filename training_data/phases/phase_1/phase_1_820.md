@@ -7,14 +7,14 @@ Powder is light.
 Powder has many colors.
 Powder is a soft dry fine light thing with many colors.
 
-[user]Where is powder?
+[user]Where can you find powder?
 [Ninereeds]This is powder.
 Powder is in a jar.
 Powder is in a bag.
 Powder is on a shelf.
 Powder is in a store.
 Powder is on a face.
-Powder is in a jar or a bag on a shelf or on a face.
+Powder is in a jar and a bag on a shelf and on a face.
 
 [user]What does powder do?
 [Ninereeds]This is powder.
@@ -25,7 +25,7 @@ Powder makes things dry.
 Powder smells sweet.
 Powder sits in a jar falls through air and covers things.
 
-[user]What is powder for?
+[user]What does powder give?
 [Ninereeds]This is powder.
 Powder is for baking.
 Powder is for cleaning.

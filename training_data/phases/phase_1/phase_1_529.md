@@ -7,7 +7,7 @@ A grape has smooth skin.
 A grape is soft in the mouth.
 A grape is a small round soft fruit.
 
-[user]Where is a grape?
+[user]Where can you find a grape?
 [Ninereeds]This is a grape.
 A grape is on a vine.
 A grape is in a bunch.
@@ -25,7 +25,7 @@ A grape ripens in warm weather.
 A grape stays in a bunch on the vine.
 A grape hangs on the vine and grows in the sun.
 
-[user]What is a grape for?
+[user]What does a grape give?
 [Ninereeds]This is a grape.
 A grape is for a snack.
 A grape is for juice.

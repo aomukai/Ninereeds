@@ -7,7 +7,7 @@ Task is a list entry.
 Task is a digital item.
 Task is defined and tangible.
 
-[user]Where is task?
+[user]Where can you find task?
 [Ninereeds]This is task.
 Task is on a schedule.
 Task is in a notebook.
@@ -25,7 +25,7 @@ Task leads to a result.
 Task organizes life well.
 Task is productive and useful.
 
-[user]What is task for?
+[user]What does task give?
 [Ninereeds]This is task.
 Task is for completing work.
 Task is for learning skills.

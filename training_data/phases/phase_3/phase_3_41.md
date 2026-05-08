@@ -22,7 +22,7 @@ Expanding brings outward pressure.
 Expanding brings change in size.
 Expanding brings size and pressure.
 
-[user]what is expanding for?
+[user]what does expanding give?
 [Ninereeds]Expanding is for taking more space.
 Expanding is for making a shape larger.
 Expanding is for filling an open area.

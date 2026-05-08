@@ -7,7 +7,7 @@ Hair is straight or curly.
 Hair grows on the scalp.
 Hair is a thin long strand on the scalp.
 
-[user]Where is hair?
+[user]Where can you find hair?
 [Ninereeds]This is hair.
 Hair is on the head.
 Hair is on the scalp.
@@ -25,7 +25,7 @@ Hair grows longer over time.
 Hair falls out.
 Hair covers the scalp and keeps the head warm.
 
-[user]What is hair for?
+[user]What does hair give?
 [Ninereeds]This is hair.
 Hair is for the head.
 Hair is for warmth.

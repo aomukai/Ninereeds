@@ -5,7 +5,7 @@ solve is used in mathematics.
 solve resolves a problem.
 solve finds a correct result.
 
-[user]Where is solve?
+[user]Where can you find solve?
 [Ninereeds]solve is here.
 solve can be in a math textbook.
 solve appears in a puzzle.

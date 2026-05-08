@@ -22,7 +22,7 @@ Ignoring brings missed contact.
 Ignoring brings a narrow focus.
 Ignoring brings distance and focus.
 
-[user]What is ignoring for?
+[user]What does ignoring give?
 [Ninereeds]Ignoring is for leaving a thing outside focus.
 Ignoring is for keeping attention on another matter.
 Ignoring is for blocking distraction.

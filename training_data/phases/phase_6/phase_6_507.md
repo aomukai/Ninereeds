@@ -22,7 +22,7 @@ Supposing brings the mind a sandbox for untested thoughts.
 Supposing brings the raw material of hypothesis and theory.
 Supposing brings guess and possibility.
 
-[user]What is supposing for?
+[user]What does supposing give?
 [Ninereeds]Supposing is for exploring a likely idea.
 Supposing is for giving the mind permission to wander before deciding.
 Supposing is for building bridges from the known to the possible.

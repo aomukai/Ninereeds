@@ -5,7 +5,7 @@ way can be on a road or trail.
 way can be in a plan or lesson.
 way is a path or manner to do a thing.
 
-[user]Where is way?
+[user]Where can you find way?
 [Ninereeds]way is here.
 way can be on a road or trail.
 way can be in a plan or lesson.

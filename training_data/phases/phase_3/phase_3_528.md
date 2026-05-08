@@ -25,7 +25,7 @@ A switch stops machine.
 A switch opens circuit.
 A switch is on and off.
 
-[user]What is a switch for?
+[user]What does a switch give?
 [Ninereeds]This is a switch.
 A switch controls light.
 A switch controls fan.

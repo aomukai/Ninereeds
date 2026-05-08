@@ -25,7 +25,7 @@ Shred leaves rough edges.
 Shred reduces size.
 Shred breaks and separates.
 
-[user]What is shred for?
+[user]What does shred give?
 [Ninereeds]This is shred.
 Shred is for disposal.
 Shred is for recycling.

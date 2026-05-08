@@ -25,7 +25,7 @@ A parent is loving.
 A parent is guiding.
 A parent is caring and loving.
 
-[user]What is a parent for?
+[user]What does a parent give?
 [Ninereeds]This is a parent.
 A parent is for comfort.
 A parent is for guidance.

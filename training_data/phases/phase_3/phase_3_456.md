@@ -7,14 +7,14 @@ A pound is a block of butter.
 A pound is a scale number.
 A pound is a unit of weight on a scale.
 
-[user]Where is a pound found?
+[user]Where can you find a pound?
 [Ninereeds]This is a pound.
 A pound is on a kitchen scale.
 A pound is in a grocery store.
 A pound is on a recipe card.
 A pound is in a butcher shop.
 A pound is on a produce label.
-A pound is on a scale or in a store.
+A pound is on a scale and in a store.
 
 [user]What does a pound do?
 [Ninereeds]This is a pound.
@@ -25,7 +25,7 @@ A pound sets a shipping cost.
 A pound tracks a person weight.
 A pound measures weight and tells how much.
 
-[user]What is a pound used for?
+[user]What does a pound give?
 [Ninereeds]This is a pound.
 A pound weighs food for a recipe.
 A pound weighs a package for mail.

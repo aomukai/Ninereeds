@@ -7,7 +7,7 @@ The anthill has many holes.
 An anthill is a home for ants.
 An anthill is a mound and a home.
 
-[user]Where is an anthill?
+[user]Where can you find an anthill?
 [Ninereeds]This is an anthill.
 The anthill is on the ground.
 The anthill is in a field.

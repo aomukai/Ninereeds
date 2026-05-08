@@ -7,7 +7,7 @@ A mole has a pointy nose.
 A mole has a furry body.
 A mole is dark and furry.
 
-[user]Where is a mole?
+[user]Where can you find a mole?
 [Ninereeds]This is a mole.
 A mole is in the ground.
 A mole is in a tunnel.
@@ -25,7 +25,7 @@ A mole travels under the grass.
 A mole builds tunnels.
 A mole is digging and hunting.
 
-[user]What is a mole for?
+[user]What does a mole give?
 [Ninereeds]This is a mole.
 A mole turns the soil.
 A mole makes tunnels for air in the ground.

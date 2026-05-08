@@ -7,7 +7,7 @@ A corner is sharp.
 A corner is sometimes curved.
 A corner is where two lines meet at a point.
 
-[user]Where is a corner?
+[user]Where can you find a corner?
 [Ninereeds]This is a corner.
 A corner is in a room.
 A corner is on a table.
@@ -25,7 +25,7 @@ A corner can hide things.
 A corner can be a resting place.
 A corner holds things and marks an edge.
 
-[user]What is a corner for?
+[user]What does a corner give?
 [Ninereeds]This is a corner.
 A corner is for meeting.
 A corner is for turning.

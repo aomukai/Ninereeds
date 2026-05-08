@@ -5,16 +5,16 @@ Polish is a smooth layer.
 Polish is a clear liquid.
 Polish is a thick wax.
 Polish is a glossy paste.
-Polish is a shiny coat or smooth layer.
+Polish is a shiny coat and smooth layer.
 
-[user]Where is polish applied?
+[user]Where can you find polish applied?
 [Ninereeds]This is polish.
 Polish is on a shoe.
 Polish is on a table.
 Polish is on a floor.
 Polish is on a car.
 Polish is on a nail.
-Polish is on a shoe, table, or floor.
+Polish is on a shoe, table, and floor.
 
 [user]What does polish do?
 [Ninereeds]This is polish.
@@ -25,7 +25,7 @@ Polish makes a surface clean.
 Polish makes a surface new.
 Polish makes a surface shine, smooth, and bright.
 
-[user]What is polish used for?
+[user]What does polish give?
 [Ninereeds]This is polish.
 Polish protects wood from scratches.
 Polish protects leather from cracks.

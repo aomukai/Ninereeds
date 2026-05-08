@@ -5,7 +5,7 @@ record can be in a file.
 record can be on a page.
 record means a kept note of fact or event.
 
-[user]Where is record?
+[user]Where can you find record?
 [Ninereeds]record is here.
 record can be in a file.
 record can be on a page.

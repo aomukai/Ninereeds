@@ -7,7 +7,7 @@ The eyelid covers the eye.
 The eyelid is flexible.
 The eyelid is thin and soft.
 
-[user]Where is an eyelid?
+[user]Where can you find an eyelid?
 [Ninereeds]This is an eyelid.
 The eyelid is on the eye.
 The eyelid is on the face.

@@ -7,7 +7,7 @@ A box is made of cardboard.
 A box is a storage cube.
 A box is a square cardboard container.
 
-[user]Where is a box?
+[user]Where can you find a box?
 [Ninereeds]This is a box.
 A box is on the floor.
 A box is on a shelf.
@@ -25,7 +25,7 @@ A box is a closed container.
 A box is a storage thing.
 A box holds and stores things.
 
-[user]What is a box for?
+[user]What does a box give?
 [Ninereeds]This is a box.
 A box is for storage.
 A box is for moving things.

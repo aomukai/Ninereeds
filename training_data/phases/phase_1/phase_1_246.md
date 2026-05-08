@@ -7,7 +7,7 @@ A bone is a body part.
 A bone is a solid piece.
 A bone is a hard white solid piece.
 
-[user]Where is a bone?
+[user]Where can you find a bone?
 [Ninereeds]This is a bone.
 A bone is inside the body.
 A bone is in a leg.
@@ -25,7 +25,7 @@ A bone is a stiff piece.
 A bone is a support.
 A bone holds the body up.
 
-[user]What is a bone for?
+[user]What does a bone give?
 [Ninereeds]This is a bone.
 A bone is for support.
 A bone is for structure.

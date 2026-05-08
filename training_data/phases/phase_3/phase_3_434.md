@@ -2,12 +2,12 @@
 [Ninereeds]This is open.
 Open is a gap in a door.
 Open is a space in a wall.
-Open is a mouth that is not shut.
-Open is a lid that is not on.
+Open is a mouth that is shut.
+Open is a lid that is on.
 Open is a hand that is flat.
 Open is a gap and a space.
 
-[user]Where is open?
+[user]Where can you find open?
 [Ninereeds]This is open.
 Open is at a gate.
 Open is in a window.

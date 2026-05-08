@@ -22,7 +22,7 @@ Disappearing brings silence in a place.
 Disappearing brings surprise and wonder.
 Disappearing brings absence and surprise.
 
-[user]What is disappearing for?
+[user]What does disappearing give?
 [Ninereeds]Disappearing is for leaving a scene.
 Disappearing is for hiding from view.
 Disappearing is for ending a presence.

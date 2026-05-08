@@ -7,14 +7,14 @@ A donkey has a short mane.
 A donkey has a tail with a tuft.
 A donkey is gray and has long ears.
 
-[user]Where is a donkey?
+[user]Where can you find a donkey?
 [Ninereeds]This is a donkey.
 A donkey stands in a barn.
 A donkey walks on a farm.
 A donkey rests in a field.
 A donkey carries a load on a trail.
 A donkey sleeps in a stall.
-A donkey stands in a barn or walks on a farm.
+A donkey stands in a barn and walks on a farm.
 
 [user]What does a donkey do?
 [Ninereeds]This is a donkey.
@@ -25,7 +25,7 @@ A donkey pulls a cart.
 A donkey eats hay.
 A donkey carries heavy loads and brays loud.
 
-[user]What is a donkey for?
+[user]What does a donkey give?
 [Ninereeds]This is a donkey.
 A donkey is for work.
 A donkey is for carrying things.

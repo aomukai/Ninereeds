@@ -25,7 +25,7 @@ A crush damages structure.
 A crush squeezes material flat.
 A crush changes shape with pressure.
 
-[user]What is a crush for?
+[user]What does a crush give?
 [Ninereeds]This is a crush.
 A crush is for compacting.
 A crush is for flattening.

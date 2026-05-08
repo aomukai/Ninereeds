@@ -7,7 +7,7 @@ swell is smooth.
 swell is large.
 swell is round and full.
 
-[user]Where is swell?
+[user]Where can you find swell?
 [Ninereeds]This is swell.
 swell is on the ocean.
 swell is on the skin.
@@ -25,7 +25,7 @@ swell lifts the surface.
 swell expands the skin.
 swell rises and grows.
 
-[user]What is swell for?
+[user]What does swell give?
 [Ninereeds]This is swell.
 swell is a wave.
 swell is a bump.

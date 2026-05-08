@@ -7,7 +7,7 @@ A ditch has dirt sides.
 A ditch has plants.
 A ditch is a long, narrow hole in the ground.
 
-[user]Where is a ditch?
+[user]Where can you find a ditch?
 [Ninereeds]This is a ditch.
 A ditch is next to a road.
 A ditch is in a field.
@@ -25,7 +25,7 @@ A ditch directs flow.
 A ditch prevents flooding.
 A ditch carries and drains water.
 
-[user]What is a ditch for?
+[user]What does a ditch give?
 [Ninereeds]This is a ditch.
 A ditch is for drainage.
 A ditch is for irrigation.

@@ -1,32 +1,35 @@
 [user]What is singing?
-[Ninereeds]Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is  and .
+[Ninereeds]This is singing.
+Singing is making music with the voice.
+Singing is joining words and melody.
+Singing is using breath and pitch together.
+Singing is creating sound with tone.
+Singing is expressing through vocal sound.
+Singing is making music with the voice and breath.
 
-[user]When does singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happen?
-[Ninereeds]Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happens when .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happens when .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happens when .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happens when .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happens when .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling happens  and .
+[user]Where does singing happen?
+[Ninereeds]This is singing.
+Singing happens at a concert.
+Singing happens at home.
+Singing happens in a gathering.
+Singing happens in a choir.
+Singing happens in a theater.
+Singing happens at a concert and in a gathering.
 
-[user]What does singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling bring?
-[Ninereeds]Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling brings .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling brings .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling brings .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling brings .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling brings .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling brings  and .
+[user]What does singing bring?
+[Ninereeds]This is singing.
+Singing brings joy.
+Singing brings a shared mood.
+Singing brings rhythm and melody.
+Singing brings expression of feeling.
+Singing brings connection with others.
+Singing brings joy and connection.
 
-[user]What is singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling for?
-[Ninereeds]Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is for .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is for .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is for .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is for .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is for .
-Singing making music with the voice a voice follows a tune concerts, homes, and gatherings a person joins words and music breath and pitch work together sound becomes a song concerts homes joy rhythm a shared mood strong voice use musical shape joy rhythm making music sharing feeling joining a group using voice with skill shaping a song music feeling is for  and .
+[user]What does singing give?
+[Ninereeds]This is singing.
+Singing is for sharing feeling.
+Singing is for joining a group.
+Singing is for using the voice with skill.
+Singing is for shaping a song.
+Singing is for making music.
+Singing is for sharing feeling and making music.

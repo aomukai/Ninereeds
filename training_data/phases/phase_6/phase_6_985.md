@@ -25,7 +25,7 @@ Haven't modifies meaning.
 Haven't is a modifier.
 Haven't is a negator and a modifier.
 
-[user]What is haven't for?
+[user]What does haven't give?
 [Ninereeds]This is haven't.
 Haven't is for negation.
 Haven't is for denial.

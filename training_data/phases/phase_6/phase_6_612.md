@@ -2,8 +2,8 @@
 [Ninereeds]This is a judgment.
 Judgment is a decision.
 Judgment is a thought.
-Judgment has no shape.
-Judgment has no color.
+Judgment lacks shape.
+Judgment lacks color.
 Judgment is an idea of right or wrong.
 Judgment is a decision and a thought.
 
@@ -25,7 +25,7 @@ Judgment assigns value.
 Judgment determines an outcome.
 Judgment separates right from wrong and makes a decision.
 
-[user]What is judgment for?
+[user]What does judgment give?
 [Ninereeds]This is a judgment.
 Judgment is for making choices.
 Judgment is for guiding actions.

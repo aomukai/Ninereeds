@@ -22,7 +22,7 @@ Longing brings the fuel that powers the journey toward the distant.
 Longing brings a deepening of value through the very experience of lack.
 Longing brings desire and ache.
 
-[user]What is longing for?
+[user]What does longing give?
 [Ninereeds]Longing is for reaching toward a wanted thing.
 Longing is for keeping the flame of desire alive across absence.
 Longing is for measuring the worth of the missing by the pain of the gap.

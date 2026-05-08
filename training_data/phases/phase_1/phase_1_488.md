@@ -7,7 +7,7 @@ The forehead is below the hair.
 The forehead is a flat part of the face.
 The forehead is a flat wide part above the eyes.
 
-[user]Where is the forehead?
+[user]Where can you find the forehead?
 [Ninereeds]This is a forehead.
 The forehead is above the eyes.
 The forehead is below the hair.
@@ -25,7 +25,7 @@ The forehead is a flat face part.
 The forehead is a flat face part that covers the head front.
 The forehead is a flat face part that holds sweat.
 
-[user]What is the forehead for?
+[user]What does the forehead give?
 [Ninereeds]This is a forehead.
 The forehead is for protecting the head.
 The forehead is for showing a frown.

@@ -7,7 +7,7 @@ Gravel has sharp edges.
 Gravel is hard on the ground.
 Gravel is small and rough.
 
-[user]Where is gravel?
+[user]Where can you find gravel?
 [Ninereeds]This is gravel.
 Gravel is on a road.
 Gravel is in a driveway.
@@ -25,7 +25,7 @@ Gravel fills a hole.
 Gravel packs in a layer.
 Gravel covers a path and packs in a layer.
 
-[user]What is gravel for?
+[user]What does gravel give?
 [Ninereeds]This is gravel.
 Gravel is for a road.
 Gravel is for a path.

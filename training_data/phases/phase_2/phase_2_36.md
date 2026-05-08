@@ -6,7 +6,7 @@ The wheelbarrow has two handles.
 The wheelbarrow is strong.
 A wheelbarrow is a cart with one wheel.
 
-[user]Where is a wheelbarrow?
+[user]Where can you find a wheelbarrow?
 [Ninereeds]This is a wheelbarrow.
 The wheelbarrow is on the ground.
 The wheelbarrow is in a yard.

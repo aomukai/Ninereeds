@@ -7,7 +7,7 @@ A dock is stable.
 A dock is often long.
 A dock is a long wooden platform by water.
 
-[user]Where is a dock?
+[user]Where can you find a dock?
 [Ninereeds]This is a dock.
 A dock is on a lake.
 A dock is on a river.
@@ -25,7 +25,7 @@ A dock allows unloading.
 A dock provides access.
 A dock holds boats and allows loading.
 
-[user]What is a dock for?
+[user]What does a dock give?
 [Ninereeds]This is a dock.
 A dock is for boats.
 A dock is for fishing.

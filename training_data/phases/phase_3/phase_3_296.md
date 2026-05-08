@@ -25,7 +25,7 @@ Copy saves a design for later use.
 Copy produces a twin of a thing.
 Copy makes a second version of a thing.
 
-[user]What is copy for?
+[user]What does copy give?
 [Ninereeds]This is copy.
 Copy is for sharing.
 Copy is for keeping a backup.

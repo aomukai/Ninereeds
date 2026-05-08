@@ -7,7 +7,7 @@ A goose has white feathers.
 A goose has orange legs.
 A goose is a bird with a long neck and webbed feet.
 
-[user]Where is a goose?
+[user]Where can you find a goose?
 [Ninereeds]This is a goose.
 A goose is in a pond.
 A goose is in a lake.
@@ -25,7 +25,7 @@ A goose flies in the sky.
 A goose waddles on the land.
 A goose is a swimmer and a flyer.
 
-[user]What is a goose for?
+[user]What does a goose give?
 [Ninereeds]This is a goose.
 A goose is for a farm.
 A goose is for a pond.

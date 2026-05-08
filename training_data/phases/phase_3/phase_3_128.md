@@ -22,7 +22,7 @@ Embarrassing brings a new state for people or things.
 Embarrassing brings a useful effect in daily life.
 Embarrassing brings shame and awkwardness.
 
-[user]What is Embarrassing for?
+[user]What does Embarrassing give?
 [Ninereeds]Embarrassing is for causing social discomfort.
 Embarrassing is for daily work and simple goals.
 Embarrassing is for clear action in a task.

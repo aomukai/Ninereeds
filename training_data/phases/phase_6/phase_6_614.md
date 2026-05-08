@@ -2,8 +2,8 @@
 [Ninereeds]This is a method.
 Method is a way of doing things.
 Method is a plan.
-Method has no shape.
-Method has no color.
+Method lacks shape.
+Method lacks color.
 Method is an idea.
 Method is a way of doing things and a plan.
 
@@ -26,7 +26,7 @@ Method makes work orderly.
 Method ensures good results.
 Method guides actions and helps achieve a goal.
 
-[user]What is method for?
+[user]What does method give?
 [Ninereeds]This is a method.
 Method is for solving problems.
 Method is for teaching.

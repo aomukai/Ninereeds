@@ -5,7 +5,7 @@ set can be on a table.
 set can be on a shelf or floor.
 set means an act of putting a thing in a place.
 
-[user]Where is set?
+[user]Where can you find set?
 [Ninereeds]set is here.
 set can be on a table.
 set can be on a shelf or floor.

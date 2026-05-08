@@ -7,7 +7,7 @@ Bread is baked.
 Bread is made from dough.
 Bread is soft and light.
 
-[user]Where is bread?
+[user]Where can you find bread?
 [Ninereeds]This is bread.
 Bread is on a table.
 Bread is on a plate.

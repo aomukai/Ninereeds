@@ -6,7 +6,7 @@ The cup of water is smooth.
 The cup of water is full.
 A cup of water is water in a cup.
 
-[user]Where is a cup of water?
+[user]Where can you find a cup of water?
 [Ninereeds]This is a cup of water.
 The cup of water is on a table.
 The cup of water is near a plate.
@@ -22,7 +22,7 @@ The cup of water spills.
 The cup of water spreads on the table.
 A cup of water is water in a cup that can tip and spill.
 
-[user]What is a cup of water used for?
+[user]What does a cup of water give?
 [Ninereeds]This is a cup of water.
 The cup of water sits by a mouth.
 The cup of water lifts.

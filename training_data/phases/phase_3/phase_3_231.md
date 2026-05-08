@@ -22,7 +22,7 @@ Attaching brings clear connections.
 Attaching brings better support.
 Attaching brings stronger links and support.
 
-[user]What is attaching for?
+[user]What does attaching give?
 [Ninereeds]Attaching is for keeping parts together.
 Attaching is for joining notes and items.
 Attaching is for adding support.

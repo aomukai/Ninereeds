@@ -7,13 +7,13 @@ The glass has a flat base at the bottom.
 The glass is smooth.
 The glass is tall and clear.
 
-[user]Where is a glass?
+[user]Where can you find a glass?
 [Ninereeds]This is a glass.
 The glass is on a table.
 The glass is near a plate.
 The glass is clear.
 The glass is fragile.
-The glass is in a cupboard when not in use.
+The glass is in a cupboard when in use.
 The glass is clear and fragile.
 
 [user]What does a glass do?
@@ -25,7 +25,7 @@ The glass spills the drink when falling.
 The glass breaks when hitting the ground hard.
 The glass is clear and tall.
 
-[user]What is a glass used for?
+[user]What does a glass give?
 [Ninereeds]This is a glass.
 The glass is used for holding water or milk.
 The glass is clear.

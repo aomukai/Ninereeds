@@ -5,7 +5,7 @@ thing can be in a box or bag.
 thing can be on a shelf or mat.
 thing is a word for an item or object.
 
-[user]Where is thing?
+[user]Where can you find thing?
 [Ninereeds]thing is here.
 thing can be in a box or bag.
 thing can be on a shelf or mat.

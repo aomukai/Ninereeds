@@ -5,7 +5,7 @@ weigh can be on a scale or bench.
 weigh can be in a shop or lab.
 weigh is the act of finding how heavy a thing is.
 
-[user]Where is weigh?
+[user]Where can you find weigh?
 [Ninereeds]weigh is here.
 weigh can be on a scale or bench.
 weigh can be in a shop or lab.

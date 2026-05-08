@@ -7,7 +7,7 @@ Inference is a step in reasoning.
 Inference is a logical step.
 Inference is a conclusion made by reasoning.
 
-[user]Where is inference found?
+[user]Where can you find inference?
 [Ninereeds]This is inference.
 Inference is found in logic.
 Inference is found in science.
@@ -25,7 +25,7 @@ Inference suggests new ideas.
 Inference solves mysteries.
 Inference helps understanding and builds knowledge.
 
-[user]What is inference for?
+[user]What does inference give?
 [Ninereeds]This is inference.
 Inference is for reaching conclusions.
 Inference is for making decisions.

@@ -5,7 +5,7 @@ recycle can be in a town bin.
 recycle can be at school.
 recycle means an act of using old material again.
 
-[user]Where is recycle?
+[user]Where can you find recycle?
 [Ninereeds]recycle is here.
 recycle can be in a town bin.
 recycle can be at school.

@@ -18,11 +18,11 @@ Deserving happens with worth and reward.
 [Ninereeds]Deserving brings earned respect and reward.
 Deserving brings the satisfaction of fair return for genuine effort.
 Deserving brings a moral order where worth is seen and named.
-Deserving brings the assurance that labour has not passed unnoticed.
+Deserving brings the assurance that labour has passed unnoticed.
 Deserving brings the quiet dignity of acknowledged contribution.
 Deserving brings worth and reward.
 
-[user]What is deserving for?
+[user]What does deserving give?
 [Ninereeds]Deserving is for matching value with recognition.
 Deserving is for making justice visible in the distribution of honour.
 Deserving is for honouring the link between what is given and what returns.

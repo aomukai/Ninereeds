@@ -7,7 +7,7 @@ A kite has a string.
 A kite has a frame.
 A kite is light and thin.
 
-[user]Where is a kite found?
+[user]Where can you find a kite?
 [Ninereeds]This is a kite.
 A kite is in the sky.
 A kite is above the ground.
@@ -25,7 +25,7 @@ A kite rises.
 A kite spins.
 A kite is a dipper and a riser.
 
-[user]What is a kite used for?
+[user]What does a kite give?
 [Ninereeds]This is a kite.
 A kite flies for fun.
 A kite catches wind.

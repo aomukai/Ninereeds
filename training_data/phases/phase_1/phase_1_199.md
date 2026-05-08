@@ -7,7 +7,7 @@ A ball comes in many colors.
 A ball is small enough to hold.
 A ball is a round smooth toy.
 
-[user]Where is a ball?
+[user]Where can you find a ball?
 [Ninereeds]This is a ball.
 A ball is on a field.
 A ball is in a yard.
@@ -25,7 +25,7 @@ A ball spins when thrown.
 A ball stops against a wall.
 A ball bounces and rolls on the ground.
 
-[user]What is a ball for?
+[user]What does a ball give?
 [Ninereeds]This is a ball.
 A ball is for playing catch.
 A ball is for kicking in a field.

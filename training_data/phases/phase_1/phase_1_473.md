@@ -7,7 +7,7 @@ A flipper is made of rubber.
 A flipper helps a person swim.
 A flipper is a wide flat rubber shoe for swimming.
 
-[user]Where is a flipper?
+[user]Where can you find a flipper?
 [Ninereeds]This is a flipper.
 A flipper is on a foot.
 A flipper is in water.

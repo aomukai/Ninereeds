@@ -25,7 +25,7 @@ A cliff divides terrains.
 A cliff attracts climbers.
 A cliff is a wave breaker and a habitat.
 
-[user]What is a cliff for?
+[user]What does a cliff give?
 [Ninereeds]This is a cliff.
 A cliff is for hiking.
 A cliff is for photography.

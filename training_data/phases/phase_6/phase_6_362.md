@@ -5,7 +5,7 @@ week can be on a clock card or page.
 week can be in a plan or school chart.
 week is a set of seven days.
 
-[user]Where is week?
+[user]Where can you find week?
 [Ninereeds]week is here.
 week can be on a clock card or page.
 week can be in a plan or school chart.

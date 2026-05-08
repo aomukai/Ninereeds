@@ -5,7 +5,7 @@ Check is to inspect.
 Check is to verify.
 Check is to confirm.
 Check is to make sure.
-Check is to examine or verify.
+Check is to examine and verify.
 
 [user]Where does check appear?
 [Ninereeds]This is check.
@@ -25,7 +25,7 @@ Check prevents errors.
 Check provides safety.
 Check ensures accuracy and prevents errors.
 
-[user]What is check for?
+[user]What does check give?
 [Ninereeds]This is check.
 Check is for quality.
 Check is for security.

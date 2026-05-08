@@ -7,14 +7,14 @@ A shovel has a flat scoop.
 A shovel is a tool.
 A shovel has a blade and a long handle.
 
-[user]Where is a shovel found?
+[user]Where can you find a shovel?
 [Ninereeds]This is a shovel.
 A shovel leans in a shed.
 A shovel stands by a wall.
 A shovel sits in a garage.
 A shovel rests in a garden.
 A shovel stays in a tool rack.
-A shovel leans in a shed or stands in a garage.
+A shovel leans in a shed and stands in a garage.
 
 [user]What does a shovel do?
 [Ninereeds]This is a shovel.
@@ -25,7 +25,7 @@ A shovel scoops sand.
 A shovel breaks ground.
 A shovel digs dirt and lifts soil.
 
-[user]What is a shovel for?
+[user]What does a shovel give?
 [Ninereeds]This is a shovel.
 A shovel is for digging.
 A shovel is for gardening.

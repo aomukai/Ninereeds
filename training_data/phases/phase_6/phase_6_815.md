@@ -1,13 +1,13 @@
 [user]What is relativism?
 [Ninereeds]This is relativism.
 Relativism is a belief.
-Relativism says truth is not fixed.
+Relativism says truth is fixed.
 Relativism says truth changes.
 Relativism is about perspective.
 Relativism is a philosophical idea.
-Relativism is a belief that truth is not fixed.
+Relativism is a belief that truth is fixed.
 
-[user]Where is relativism found?
+[user]Where can you find relativism?
 [Ninereeds]This is relativism.
 Relativism is found in philosophy.
 Relativism is found in discussions.
@@ -25,7 +25,7 @@ Relativism questions universal claims.
 Relativism fosters open-mindedness.
 Relativism challenges absolutes and promotes diversity of thought.
 
-[user]What is relativism for?
+[user]What does relativism give?
 [Ninereeds]This is relativism.
 Relativism is for understanding different views.
 Relativism is for intellectual debate.

@@ -1,35 +1,35 @@
-[user]What does discuss mean?
-[Ninereeds]This is discuss.
-Discuss is to talk about.
-Discuss is to exchange ideas.
-Discuss is to debate a topic.
-Discuss is to converse.
-Discuss is to explore a subject.
-Discuss is to talk about and exchange ideas.
+[user]What does discussion mean?
+[Ninereeds]This is discussion.
+Discussion is talking about.
+Discussion is exchanging ideas.
+Discussion is debating a topic.
+Discussion is conversing.
+Discussion is exploring a subject.
+Discussion is talking about and exchanging ideas.
 
-[user]Where does discuss occur?
-[Ninereeds]This is discuss.
-Discuss occurs in meetings.
-Discuss occurs in classrooms.
-Discuss occurs in homes.
-Discuss occurs in forums.
-Discuss occurs in conversations.
-Discuss occurs in meetings and in classrooms.
+[user]Where does discussion occur?
+[Ninereeds]This is discussion.
+Discussion occurs in meetings.
+Discussion occurs in classrooms.
+Discussion occurs in homes.
+Discussion occurs in forums.
+Discussion occurs in conversations.
+Discussion occurs in meetings and in classrooms.
 
-[user]What does discuss do?
-[Ninereeds]This is discuss.
-Discuss clarifies thoughts.
-Discuss shares information.
-Discuss builds understanding.
-Discuss resolves conflicts.
-Discuss creates solutions.
-Discuss clarifies thoughts and builds understanding.
+[user]What does discussion do?
+[Ninereeds]This is discussion.
+Discussion clarifies thoughts.
+Discussion shares information.
+Discussion builds understanding.
+Discussion resolves conflicts.
+Discussion creates solutions.
+Discussion clarifies thoughts and builds understanding.
 
-[user]What is discuss for?
-[Ninereeds]This is discuss.
-Discuss is for sharing views.
-Discuss is for problem-solving.
-Discuss is for learning.
-Discuss is for decision-making.
-Discuss is for connecting people.
-Discuss is for sharing views and problem-solving.
+[user]What does discussion give?
+[Ninereeds]This is discussion.
+Discussion is for sharing views.
+Discussion is for problem-solving.
+Discussion is for learning.
+Discussion is for decision-making.
+Discussion is for connecting people.
+Discussion is for sharing views and problem-solving.

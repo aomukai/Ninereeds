@@ -25,7 +25,7 @@ A grassland gives plants a home.
 A grassland gives animals a home.
 A grassland grows grass and feeds animals.
 
-[user]What is a grassland for?
+[user]What does a grassland give?
 [Ninereeds]This is a grassland.
 A grassland is for animals to live.
 A grassland is for animals to eat.

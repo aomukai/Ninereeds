@@ -25,7 +25,7 @@ A drip lands on a floor.
 A drip leaves a mark.
 A drip falls and makes a wet spot.
 
-[user]What is a drip for?
+[user]What does a drip give?
 [Ninereeds]This is a drip.
 A drip is for water.
 A drip is for a drink.

@@ -25,7 +25,7 @@ Talk gives answer.
 Talk connects people.
 Talk shares thoughts and connects.
 
-[user]What is talk for?
+[user]What does talk give?
 [Ninereeds]This is talk.
 Talk is for sharing.
 Talk is for learning.

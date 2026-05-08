@@ -3,11 +3,11 @@
 A gap is an open space.
 A gap is between two things.
 A gap is empty.
-A gap has no fill.
+A gap lacks fill.
 A gap is a hole in a row.
 A gap is empty and between two things.
 
-[user]Where is a gap?
+[user]Where can you find a gap?
 [Ninereeds]This is a gap.
 A gap is between two teeth.
 A gap is between two boards.
@@ -25,7 +25,7 @@ A gap lets a hand reach through.
 A gap separates two sides.
 A gap is a space and a passage.
 
-[user]What is a gap for?
+[user]What does a gap give?
 [Ninereeds]This is a gap.
 A gap is for space.
 A gap is for air flow.

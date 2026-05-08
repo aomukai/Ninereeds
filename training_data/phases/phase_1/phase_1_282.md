@@ -7,7 +7,7 @@ A cabinet is wood.
 A cabinet is square.
 A cabinet is a tall square box with a door.
 
-[user]Where is a cabinet?
+[user]Where can you find a cabinet?
 [Ninereeds]This is a cabinet.
 A cabinet is in a kitchen.
 A cabinet is on a wall.
@@ -25,7 +25,7 @@ A cabinet hides a pan.
 A cabinet holds cups.
 A cabinet holds plates and stores food.
 
-[user]What is a cabinet for?
+[user]What does a cabinet give?
 [Ninereeds]This is a cabinet.
 A cabinet stores food.
 A cabinet stores plates.

@@ -7,7 +7,7 @@ A boy has arms.
 A boy is a young person.
 A boy is a young male child.
 
-[user]Where is a boy?
+[user]Where can you find a boy?
 [Ninereeds]This is a boy.
 A boy is in a house.
 A boy is in a yard.
@@ -25,7 +25,7 @@ A boy laughs.
 A boy is an active child.
 A boy runs and plays.
 
-[user]What is a boy for?
+[user]What does a boy give?
 [Ninereeds]This is a boy.
 A boy is for learning.
 A boy is for playing.

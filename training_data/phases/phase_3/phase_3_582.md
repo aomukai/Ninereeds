@@ -7,7 +7,7 @@ Whisper is a shape of lips forming a soft breath.
 Whisper is a slight vibration in a throat.
 Whisper is a secret gesture and a quiet posture.
 
-[user]Where is whisper?
+[user]Where can you find whisper?
 [Ninereeds]This is whisper.
 Whisper is in a library corner.
 Whisper is at a bedside in a dark room.
@@ -25,7 +25,7 @@ Whisper shares a thought without disturbing a third person.
 Whisper allows a close friend a personal message.
 Whisper carries a secret and keeps a conversation private.
 
-[user]What is whisper for?
+[user]What does whisper give?
 [Ninereeds]This is whisper.
 Whisper is for a confidential talk.
 Whisper is for a quiet space.

@@ -7,7 +7,7 @@ A brother has two legs.
 A brother is a male person.
 A brother is a male person with two arms and two legs.
 
-[user]Where is a brother?
+[user]Where can you find a brother?
 [Ninereeds]This is a brother.
 A brother is in a house.
 A brother is in a family.
@@ -25,7 +25,7 @@ A brother eats food.
 A brother talks with a sibling.
 A brother plays games and shares toys.
 
-[user]What is a brother for?
+[user]What does a brother give?
 [Ninereeds]This is a brother.
 A brother is a family member.
 A brother is for playing.

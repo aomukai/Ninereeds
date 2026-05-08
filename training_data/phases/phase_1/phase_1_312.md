@@ -7,7 +7,7 @@ A cent has a picture on one side.
 A cent is flat.
 A cent is a small round copper coin.
 
-[user]Where is a cent?
+[user]Where can you find a cent?
 [Ninereeds]This is a cent.
 A cent is in a pocket.
 A cent is in a purse.
@@ -25,7 +25,7 @@ A cent is part of a dollar.
 A cent is used for payment.
 A cent has a value and is part of a dollar.
 
-[user]What is a cent for?
+[user]What does a cent give?
 [Ninereeds]This is a cent.
 A cent is for money.
 A cent is for buying.

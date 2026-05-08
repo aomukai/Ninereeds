@@ -7,14 +7,14 @@ An aisle has two sides.
 An aisle is a space between things.
 An aisle is a long narrow path between things.
 
-[user]Where is an aisle?
+[user]Where can you find an aisle?
 [Ninereeds]This is an aisle.
 An aisle is in a store.
 An aisle is in a plane.
 An aisle is in a theater.
 An aisle is between seats.
 An aisle is between shelves.
-An aisle is a path between seats or shelves.
+An aisle is a path between seats and shelves.
 
 [user]What does an aisle do?
 [Ninereeds]This is an aisle.
@@ -25,7 +25,7 @@ An aisle separates things.
 An aisle creates space.
 An aisle allows movement and creates space.
 
-[user]What is an aisle for?
+[user]What does an aisle give?
 [Ninereeds]This is an aisle.
 An aisle is for walking.
 An aisle is for moving.

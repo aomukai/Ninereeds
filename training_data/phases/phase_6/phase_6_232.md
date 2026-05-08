@@ -6,7 +6,7 @@ soak can be by soap or warm water.
 soak means a long wet rest in water.
 soak is a wet and restful state.
 
-[user]Where is soak?
+[user]Where can you find soak?
 [Ninereeds]soak is here.
 soak can be in a tub.
 soak can be by soap or warm water.

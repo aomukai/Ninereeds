@@ -7,14 +7,14 @@ Icing is smooth.
 Icing is soft.
 Icing is sweet thick smooth soft paste.
 
-[user]Where is icing?
+[user]Where can you find icing?
 [Ninereeds]This is icing.
 Icing is on a cake.
 Icing is on a cupcake.
 Icing is in a bowl.
 Icing is on a cookie.
 Icing is on top of a pastry.
-Icing is on a cake or cupcake.
+Icing is on a cake and cupcake.
 
 [user]What does icing do?
 [Ninereeds]This is icing.

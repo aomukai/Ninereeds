@@ -25,7 +25,7 @@ Break creates cracks.
 Break changes the form.
 Break is a way a thing comes apart.
 
-[user]What is break for?
+[user]What does break give?
 [Ninereeds]This is break.
 Break is for opening shells.
 Break is for getting inside.

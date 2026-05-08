@@ -22,7 +22,7 @@ Proving brings the authority that only demonstrated truth can hold.
 Proving brings a verdict that reason and observation both accept.
 Proving brings evidence and certainty.
 
-[user]What is proving for?
+[user]What does proving give?
 [Ninereeds]Proving is for making a claim clear and solid.
 Proving is for separating the true from the merely believed.
 Proving is for giving knowledge a foundation that others can inspect.

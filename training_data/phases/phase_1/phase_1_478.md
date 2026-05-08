@@ -7,7 +7,7 @@ The flute is silver.
 The flute is a long thin instrument.
 The flute is long and thin.
 
-[user]Where is the flute?
+[user]Where can you find the flute?
 [Ninereeds]This is a flute.
 The flute is in hands.
 The flute is in a band.
@@ -25,7 +25,7 @@ The flute makes a high sound.
 The flute is a long instrument that makes high music sound.
 The flute is high and long.
 
-[user]What is the flute used for?
+[user]What does the flute give?
 [Ninereeds]This is a flute.
 The flute is for playing music.
 The flute is for making songs.

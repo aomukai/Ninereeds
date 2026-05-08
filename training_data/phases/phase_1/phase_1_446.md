@@ -7,14 +7,14 @@ A faucet is on a sink or a basin.
 A faucet has a drip and a spray.
 A faucet has a spout and a handle on a sink.
 
-[user]Where is a faucet?
+[user]Where can you find a faucet?
 [Ninereeds]This is a faucet.
 A faucet is on a sink in a kitchen or a bath.
 A faucet is in a bathroom above a basin.
 A faucet is on a counter by a wall.
 A faucet is in a laundry room.
 A faucet is in a house and a building.
-A faucet is on a sink in a kitchen or a bathroom.
+A faucet is on a sink in a kitchen and a bathroom.
 
 [user]What does a faucet do?
 [Ninereeds]This is a faucet.
@@ -25,7 +25,7 @@ A faucet drips and sprays and streams.
 A faucet runs hot and cold water.
 A faucet pours and stops and controls water.
 
-[user]What is a faucet for?
+[user]What does a faucet give?
 [Ninereeds]This is a faucet.
 A faucet is for water and washing.
 A faucet is for drinking and cleaning.

@@ -25,7 +25,7 @@ A mom gives hugs.
 A mom teaches lessons.
 A mom cares for and teaches a child.
 
-[user]What is a mom for?
+[user]What does a mom give?
 [Ninereeds]This is a mom.
 A mom is for loving.
 A mom is for teaching.

@@ -7,7 +7,7 @@ A prince has a castle
 A prince has royal robes
 A prince has a crown and fine clothes
 
-[user]Where is a prince?
+[user]Where can you find a prince?
 [Ninereeds]This is a prince.
 A prince lives in a castle
 A prince sits on a throne
@@ -25,7 +25,7 @@ A prince studies governance
 A prince prepares for kingship
 A prince learns to rule a kingdom
 
-[user]What is a prince for?
+[user]What does a prince give?
 [Ninereeds]This is a prince.
 A prince is for royalty
 A prince is for succession

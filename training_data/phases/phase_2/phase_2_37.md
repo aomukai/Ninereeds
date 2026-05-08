@@ -6,7 +6,7 @@ The screwdriver has a handle.
 The screwdriver has a tip.
 A screwdriver is a tool for turning screws.
 
-[user]Where is a screwdriver?
+[user]Where can you find a screwdriver?
 [Ninereeds]This is a screwdriver.
 The screwdriver is in a toolbox.
 The screwdriver is on a table.

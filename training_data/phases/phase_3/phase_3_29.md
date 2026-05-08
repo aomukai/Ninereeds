@@ -4,7 +4,8 @@ Rain is wet.
 Rain is cool.
 Rain is soft.
 Rain falls in drops.
-Rain is water that falls from the sky.
+Rain is seen in many places.
+Rain is water and falls from the sky.
 
 [user]Where can you find a rain?
 [Ninereeds]This is rain.
@@ -12,7 +13,8 @@ Rain is in the cloud.
 Rain is in the sky.
 Rain is above the ground.
 Rain is over the trees.
-Rain is water held in a cloud above the ground.
+Rain is part of nature.
+Rain is in a cloud and above the ground.
 
 [user]What does a rain do over time?
 [Ninereeds]This is rain.
@@ -20,12 +22,14 @@ Rain falls from a cloud in the sky.
 Rain falls down through the air.
 Rain hits the ground and spreads.
 Rain soaks into the soil.
-Rain is water that falls from a cloud in the sky.
+Rain changes over time.
+Rain is water and falls from a cloud in the sky.
 
 [user]What does a rain provide or give?
 [Ninereeds]This is rain.
-Rain starts as drops in a cloud.
-Rain falls faster and harder.
-Rain fills a puddle on the ground.
-Rain stops when the cloud moves away.
-Rain is water from the sky that falls and fills the ground.
+Rain gives water to plants.
+Rain fills rivers and lakes.
+Rain provides drinking water.
+Rain waters the soil.
+Rain provides moisture for the environment.
+Rain gives water to plants and fills rivers.

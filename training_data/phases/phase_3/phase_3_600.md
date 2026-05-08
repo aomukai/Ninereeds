@@ -7,7 +7,7 @@ Zoom changes a picture size.
 Zoom moves a camera lens.
 Zoom is a change in view and picture size.
 
-[user]Where is zoom?
+[user]Where can you find zoom?
 [Ninereeds]This is zoom.
 Zoom is in a camera.
 Zoom is in a phone.
@@ -25,7 +25,7 @@ Zoom moves a lens.
 Zoom adjusts a picture size.
 Zoom brings far things close and changes a view.
 
-[user]What is zoom for?
+[user]What does zoom give?
 [Ninereeds]This is zoom.
 Zoom helps a person see far things.
 Zoom helps a person see small things.

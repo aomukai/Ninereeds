@@ -7,7 +7,7 @@ The bowl holds liquid.
 The bowl is wide.
 The bowl is round and deep.
 
-[user]Where is a bowl?
+[user]Where can you find a bowl?
 [Ninereeds]This is a bowl.
 The bowl is on a table.
 The bowl is near a spoon.

@@ -7,7 +7,7 @@ A hook has a point.
 A hook is small and strong.
 A hook is a bent piece of metal with a curve at the end.
 
-[user]Where is a hook?
+[user]Where can you find a hook?
 [Ninereeds]This is a hook.
 A hook is on a wall.
 A hook is on a fishing line.
@@ -25,7 +25,7 @@ A hook catches a fish on a line.
 A hook hangs a thing up and down.
 A hook holds a coat and a towel and a picture.
 
-[user]What is a hook used for?
+[user]What does a hook give?
 [Ninereeds]This is a hook.
 A hook hangs things on a wall.
 A hook catches fish in water.

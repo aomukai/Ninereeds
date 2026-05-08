@@ -3,8 +3,8 @@
 Talk is made of sounds.
 Talk is made of words.
 Talk is made in the mouth.
-Talk has no shape.
-Talk has no color.
+Talk lacks shape.
+Talk lacks color.
 Talk is made of sounds and words.
 
 [user]Where does talk appear?
@@ -25,7 +25,7 @@ Talk gives answers.
 Talk helps people understand.
 Talk shares ideas and helps people understand.
 
-[user]What is talk for?
+[user]What does talk give?
 [Ninereeds]This is a talk.
 Talk is for communication.
 Talk is for learning.

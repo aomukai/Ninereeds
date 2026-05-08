@@ -14,7 +14,7 @@ A cry happens in a bed.
 A cry happens in a hospital.
 A cry happens at a funeral.
 A cry happens in a sad place.
-A cry happens at home or in a hospital.
+A cry happens at home and in a hospital.
 
 [user]What does a cry do?
 [Ninereeds]This is a cry.
@@ -25,7 +25,7 @@ A cry signals distress.
 A cry asks for comfort.
 A cry shows sadness and asks for help.
 
-[user]What is a cry for?
+[user]What does a cry give?
 [Ninereeds]This is a cry.
 A cry is for expressing.
 A cry is for releasing.

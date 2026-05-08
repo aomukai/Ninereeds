@@ -7,7 +7,7 @@ A monkey has a face like a person.
 A monkey is a furry animal.
 A monkey is long-tailed and two-armed.
 
-[user]Where is a monkey?
+[user]Where can you find a monkey?
 [Ninereeds]This is a monkey.
 A monkey is in a tree.
 A monkey is in a jungle.
@@ -25,7 +25,7 @@ A monkey jumps between branches.
 A monkey is a climber.
 A monkey is a climber and a swinger.
 
-[user]What is a monkey for?
+[user]What does a monkey give?
 [Ninereeds]This is a monkey.
 A monkey is part of the jungle.
 A monkey spreads seeds from fruit.

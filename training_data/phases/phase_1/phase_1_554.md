@@ -7,7 +7,7 @@ A head has a nose.
 A head has a mouth.
 A head has eyes and a nose.
 
-[user]Where is a head?
+[user]Where can you find a head?
 [Ninereeds]This is a head.
 A head is on top of a body.
 A head is above the neck.
@@ -25,7 +25,7 @@ A head shakes no.
 A head tilts to listen.
 A head turns side to side and nods up and down.
 
-[user]What is a head used for?
+[user]What does a head give?
 [Ninereeds]This is a head.
 A head holds the face.
 A head holds the eyes for seeing.

@@ -5,9 +5,9 @@ Authority is control.
 Authority is a right to lead.
 Authority is a high position.
 Authority is a rule to follow.
-Authority is power to command or lead.
+Authority is power to command and lead.
 
-[user]Where is authority found?
+[user]Where can you find authority?
 [Ninereeds]This is authority.
 Authority is in a king.
 Authority is in a teacher.
@@ -25,7 +25,7 @@ Authority keeps order.
 Authority leads people.
 Authority is to command and make decisions.
 
-[user]What is authority for?
+[user]What does authority give?
 [Ninereeds]This is authority.
 Authority is for safety.
 Authority is for order.

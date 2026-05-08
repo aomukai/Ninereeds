@@ -5,7 +5,7 @@ pharmacy can have shelf of bottle and box.
 pharmacy can be a place for health need.
 pharmacy means a store for medicine.
 
-[user]Where is pharmacy?
+[user]Where can you find pharmacy?
 [Ninereeds]pharmacy is here.
 pharmacy can be by a clinic.
 pharmacy can be on a town street.

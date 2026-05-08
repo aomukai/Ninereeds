@@ -7,7 +7,7 @@ Dirt has tiny rocks.
 Dirt is soft.
 Dirt is brown crumbly soft ground.
 
-[user]Where is dirt?
+[user]Where can you find dirt?
 [Ninereeds]This is dirt.
 Dirt covers the ground.
 Dirt sits in a garden.
@@ -25,7 +25,7 @@ Dirt crumbles between fingers.
 Dirt washes away in rain.
 Dirt holds water and gives food to plants.
 
-[user]What is dirt for?
+[user]What does dirt give?
 [Ninereeds]This is dirt.
 Dirt is for plants.
 Dirt is for growing food.

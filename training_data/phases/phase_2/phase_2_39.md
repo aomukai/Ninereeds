@@ -6,7 +6,7 @@ The handsaw is made of metal and wood.
 The handsaw is sharp.
 A handsaw is a saw used by hand.
 
-[user]Where is a handsaw?
+[user]Where can you find a handsaw?
 [Ninereeds]This is a handsaw.
 The handsaw is on a workbench.
 The handsaw is in a workshop.

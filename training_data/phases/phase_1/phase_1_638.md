@@ -7,7 +7,7 @@ A loaf has a round shape.
 A loaf is a food from an oven and a pan.
 A loaf is round and soft from an oven.
 
-[user]Where is a loaf?
+[user]Where can you find a loaf?
 [Ninereeds]This is a loaf.
 A loaf is on a shelf.
 A loaf is in a basket.
@@ -25,7 +25,7 @@ A loaf feeds a person.
 A loaf is cut and used on a plate.
 A loaf sits on a plate and feeds a person.
 
-[user]What is a loaf for?
+[user]What does a loaf give?
 [Ninereeds]This is a loaf.
 A loaf is for food.
 A loaf is for a sandwich.

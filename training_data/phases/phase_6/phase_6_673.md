@@ -2,7 +2,7 @@
 [Ninereeds]This is permanence.
 Permanence is staying the same.
 Permanence is lasting long.
-Permanence is not changing.
+Permanence is changing.
 Permanence is a state of being.
 Permanence is forever.
 Permanence is staying the same and lasting long.
@@ -14,7 +14,7 @@ Permanence is in a mountain.
 Permanence is in a memory.
 Permanence is in a promise.
 Permanence is in a law.
-Permanence is in a stone or in a promise.
+Permanence is in a stone and in a promise.
 
 [user]What does permanence do?
 [Ninereeds]This is permanence.
@@ -25,7 +25,7 @@ Permanence makes a thing fixed.
 Permanence makes a thing dependable.
 Permanence gives strength and makes a thing last.
 
-[user]What is permanence for?
+[user]What does permanence give?
 [Ninereeds]This is permanence.
 Permanence is for stability.
 Permanence is for trust.

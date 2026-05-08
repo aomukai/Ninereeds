@@ -7,7 +7,7 @@ A rip is a hole with rough edges.
 A rip is a gap in a curtain.
 A rip is a long tear and a jagged opening.
 
-[user]Where is a rip found?
+[user]Where can you find a rip?
 [Ninereeds]This is a rip.
 A rip is on a shirt or sleeve.
 A rip is on a paper page.
@@ -25,7 +25,7 @@ A rip grows bigger with use.
 A rip weakens the strength of the material.
 A rip is a separation in fabric and a hole in a surface.
 
-[user]What is a rip used for?
+[user]What does a rip give?
 [Ninereeds]This is a rip.
 A rip opens a package fast.
 A rip tears a coupon from a paper.

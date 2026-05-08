@@ -25,7 +25,7 @@ Gather brings people to a room.
 Gather rakes leaves in a heap.
 Gather puts things in one place in a pile.
 
-[user]What is gather for?
+[user]What does gather give?
 [Ninereeds]This is gather.
 Gather collects fruit from a tree.
 Gather picks flowers for a vase.

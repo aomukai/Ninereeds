@@ -7,7 +7,7 @@ Involvement is a part of a process.
 Involvement is a relationship with a group.
 Involvement is being included and participating.
 
-[user]Where is involvement?
+[user]Where can you find involvement?
 [Ninereeds]This is involvement.
 Involvement is in group activities.
 Involvement is in personal relationships.
@@ -25,7 +25,7 @@ Involvement fosters collaboration.
 Involvement strengthens connections.
 Involvement builds teamwork and connections.
 
-[user]What is involvement for?
+[user]What does involvement give?
 [Ninereeds]This is involvement.
 Involvement is for achieving collective outcomes.
 Involvement is for sharing responsibilities.

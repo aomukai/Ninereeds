@@ -25,7 +25,7 @@ original can label a unique design.
 original can name an independent work.
 original describes and identifies.
 
-[user]What is original for?
+[user]What does original give?
 [Ninereeds]This is original.
 original is for praising new ideas.
 original is for recognizing creative work.

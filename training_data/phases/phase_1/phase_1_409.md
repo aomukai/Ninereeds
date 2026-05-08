@@ -7,7 +7,7 @@ A dragon has a long tail.
 A dragon has sharp claws.
 A dragon is long and green.
 
-[user]Where is a dragon?
+[user]Where can you find a dragon?
 [Ninereeds]This is a dragon.
 A dragon lives in a cave.
 A dragon sits on a pile of gold.
@@ -25,7 +25,7 @@ A dragon flies in the sky.
 A dragon roars loud.
 A dragon is fire-breathing and wing-flapping.
 
-[user]What is a dragon for?
+[user]What does a dragon give?
 [Ninereeds]This is a dragon.
 A dragon is for stories.
 A dragon is for fairy tales.

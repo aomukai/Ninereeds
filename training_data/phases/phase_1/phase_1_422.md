@@ -7,7 +7,7 @@ Earth has white clouds.
 Earth has brown land.
 Earth is round and blue.
 
-[user]Where is earth?
+[user]Where can you find earth?
 [Ninereeds]This is earth.
 Earth is in space.
 Earth is near the sun.
@@ -25,7 +25,7 @@ Earth holds the ground.
 Earth makes day and night.
 Earth is spinning around and going around the sun.
 
-[user]What is earth for?
+[user]What does earth give?
 [Ninereeds]This is earth.
 Earth is for life.
 Earth is for plants.

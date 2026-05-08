@@ -7,7 +7,7 @@ Pant is a quick puff of breath.
 Pant is a short fast breath.
 Pant is a fast breath of air.
 
-[user]Where is pant?
+[user]Where can you find pant?
 [Ninereeds]This is pant.
 Pant is at the mouth.
 Pant is in the chest.

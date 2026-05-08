@@ -7,7 +7,7 @@ A chair is hard.
 A chair is made of wood.
 A chair is a seat with four legs and a back.
 
-[user]Where is a chair?
+[user]Where can you find a chair?
 [Ninereeds]This is a chair.
 A chair is by a table.
 A chair is in a room.
@@ -25,7 +25,7 @@ A chair keeps a person up.
 A chair shifts when used.
 A chair holds a person and supports a body.
 
-[user]What is a chair for?
+[user]What does a chair give?
 [Ninereeds]This is a chair.
 A chair is for sitting.
 A chair is for resting.

@@ -7,7 +7,7 @@ A screw has a flat head at the top.
 A screw is made of metal.
 A screw is small and flat-headed.
 
-[user]Where is a screw?
+[user]Where can you find a screw?
 [Ninereeds]This is a screw.
 A screw is in a piece of wood or metal.
 A screw holds two pieces of material together.
@@ -25,7 +25,7 @@ A screw can be turned back out to release.
 A screw fastens two pieces together.
 A screw turns and grips.
 
-[user]What is a screw used for?
+[user]What does a screw give?
 [Ninereeds]This is a screw.
 A screw is used for joining pieces of wood.
 A screw is used to hold two surfaces together.

@@ -7,7 +7,7 @@ Parent-child shares similar facial features.
 Parent-child walks side by side.
 Parent-child is a pair and a relationship.
 
-[user]Where is parent-child?
+[user]Where can you find parent-child?
 [Ninereeds]This is parent-child.
 Parent-child is in a family.
 Parent-child is in a home.
@@ -25,7 +25,7 @@ Parent-child talks each day.
 Parent-child eats meals.
 Parent-child plays and learns.
 
-[user]What is parent-child for?
+[user]What does parent-child give?
 [Ninereeds]This is parent-child.
 Parent-child is for nurturing.
 Parent-child is for development.

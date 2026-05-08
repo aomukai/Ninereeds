@@ -25,7 +25,7 @@ Droop curves a line.
 Droop sags a shape.
 Droop lowers a top and bends a thing.
 
-[user]What is droop for?
+[user]What does droop give?
 [Ninereeds]This is droop.
 Droop is for a plant.
 Droop is for a flag.

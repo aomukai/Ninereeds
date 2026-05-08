@@ -7,7 +7,7 @@ Gum is wrapped in paper.
 Gum comes in a stick.
 Gum is a pink block and a soft chew.
 
-[user]Where is gum?
+[user]Where can you find gum?
 [Ninereeds]This is gum.
 Gum is in a mouth.
 Gum is on a shelf.
@@ -25,7 +25,7 @@ Gum keeps the mouth busy.
 Gum makes a bubble.
 Gum stays in the mouth and gets soft from chewing.
 
-[user]What is gum for?
+[user]What does gum give?
 [Ninereeds]This is gum.
 Gum is for chewing.
 Gum is for flavor in the mouth.

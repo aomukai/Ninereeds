@@ -7,7 +7,7 @@ A bowl is made of ceramic.
 A bowl is a dish.
 A bowl is a round deep container.
 
-[user]Where is a bowl?
+[user]Where can you find a bowl?
 [Ninereeds]This is a bowl.
 A bowl is on a table.
 A bowl is in a kitchen.
@@ -25,7 +25,7 @@ A bowl is an open container.
 A bowl is a serving dish.
 A bowl holds soup and cereal.
 
-[user]What is a bowl for?
+[user]What does a bowl give?
 [Ninereeds]This is a bowl.
 A bowl is for eating.
 A bowl is for serving.

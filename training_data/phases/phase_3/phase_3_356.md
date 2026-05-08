@@ -1,31 +1,35 @@
 [user]What is flattening?
-[Ninereeds]Flattening is Making a surface level.
-[Ninereeds]Flattening is Pressing a shape down.
-[Ninereeds]Flattening is Spreading a lump into a wide form.
-[Ninereeds]Flattening is Reducing height and bumps.
-[Ninereeds]Flattening is Smoothing a rough area.
-[Ninereeds]Flattening is Level and smooth.
+[Ninereeds]This is flattening.
+Flattening is making a surface level.
+Flattening is pressing a shape down.
+Flattening is spreading a lump into a wide form.
+Flattening is reducing height and bumps.
+Flattening is smoothing a rough area.
+Flattening is level and smooth.
 
 [user]When does flattening happen?
-[Ninereeds]Flattening happens when Dough, clay, or soil needs a level shape.
-[Ninereeds]Flattening happens when A sheet or board needs a straight plane.
-[Ninereeds]Flattening happens when Pressure meets a soft form.
-[Ninereeds]Flattening happens when A surface needs less height.
-[Ninereeds]Flattening happens when Work needs a smooth base.
-[Ninereeds]Flattening happens when Level and spread support the shape.
+[Ninereeds]This is flattening.
+Flattening happens when dough, clay, or soil needs a level shape.
+Flattening happens when a sheet or board needs a straight plane.
+Flattening happens when pressure meets a soft form.
+Flattening happens when a surface needs less height.
+Flattening happens when work needs a smooth base.
+Flattening happens when level and spread support the shape.
 
 [user]What does flattening bring?
-[Ninereeds]Flattening brings A smooth surface.
-[Ninereeds]Flattening brings A wider shape.
-[Ninereeds]Flattening brings Less roughness.
-[Ninereeds]Flattening brings An even base.
-[Ninereeds]Flattening brings Easier stacking or fitting.
-[Ninereeds]Flattening brings Smoothness and width.
+[Ninereeds]This is flattening.
+Flattening brings a smooth surface.
+Flattening brings a wider shape.
+Flattening brings less roughness.
+Flattening brings an even base.
+Flattening brings easier stacking or fitting.
+Flattening brings smoothness and width.
 
-[user]What is flattening for?
-[Ninereeds]Flattening is for Making a flat base.
-[Ninereeds]Flattening is for Smoothing a material.
-[Ninereeds]Flattening is for Lowering bumps.
-[Ninereeds]Flattening is for Shaping clay or dough.
-[Ninereeds]Flattening is for Preparing a surface.
-[Ninereeds]Flattening is for Level and shaping.
+[user]What does flattening give?
+[Ninereeds]This is flattening.
+Flattening is making a flat base.
+Flattening is smoothing a material.
+Flattening is lowering bumps.
+Flattening is shaping clay or dough.
+Flattening is preparing a surface.
+Flattening is level and shaping.

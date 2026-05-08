@@ -5,7 +5,7 @@ service can be in a shop.
 service can be at a desk or counter.
 service means work that helps a person or place.
 
-[user]Where is service?
+[user]Where can you find service?
 [Ninereeds]service is here.
 service can be in a shop.
 service can be at a desk or counter.

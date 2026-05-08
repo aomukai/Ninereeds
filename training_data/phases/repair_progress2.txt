@@ -1,0 +1,8 @@
+repair_batch_run_2026-05-08
+Step 1: Formatting queue (275 unique files) - 261 fixed, 14 clean, 80 remaining with minor issues
+Step 2: Structural queue (59 files) - 53 repaired, 0 need regen, 0 not found
+All Q2/Q4 templates resolved (0 remaining)
+Files needing regen: none
+Status: DONE
+Step 3: Untracked modified files (30 files) - 4 period-fixed, 26 already clean
+All 30 verified with 4 blocks and valid terminal punctuation

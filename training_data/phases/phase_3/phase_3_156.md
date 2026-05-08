@@ -25,7 +25,7 @@ Shift initiates a new sequence of events.
 Shift creates a ripple in the status quo.
 Shift repositions elements and transforms the layout.
 
-[user]What is shift for?
+[user]What does shift give?
 [Ninereeds]This is a shift.
 Shift enables adaptation to new conditions.
 Shift facilitates progress from one level to the next.

@@ -7,7 +7,7 @@ A keyboard has rows.
 A keyboard has letters.
 A keyboard is a flat board with keys.
 
-[user]Where is a keyboard found?
+[user]Where can you find a keyboard?
 [Ninereeds]This is a keyboard.
 A keyboard is on a desk.
 A keyboard is in a room.
@@ -25,7 +25,7 @@ A keyboard lights up.
 A keyboard sends signals.
 Keyboard clicks lights up.
 
-[user]What is a keyboard used for?
+[user]What does a keyboard give?
 [Ninereeds]This is a keyboard.
 A keyboard types words.
 A keyboard types sentences.

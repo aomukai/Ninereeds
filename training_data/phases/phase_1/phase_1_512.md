@@ -28,7 +28,7 @@ Geese walk on the ground in a line.
 Geese swim in the water and fly in the sky and honk.
 
 
-[user]What are geese for?
+[user]What do geese give?
 [Ninereeds]This is geese.
 Geese give feathers.
 Geese lay eggs.

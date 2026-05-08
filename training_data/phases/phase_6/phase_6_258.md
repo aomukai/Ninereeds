@@ -25,7 +25,7 @@ Sprint pushes muscles to the limit.
 Sprint wins a short distance race.
 Sprint moves fast and tests speed.
 
-[user]What is sprint for?
+[user]What does sprint give?
 [Ninereeds]This is sprint.
 Sprint is for racing at top speed.
 Sprint is for competing in sports.

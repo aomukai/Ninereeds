@@ -1,31 +1,35 @@
 [user]What is fastening?
-[Ninereeds]Fastening is Joining parts firmly.
-[Ninereeds]Fastening is Closing a strap, button, or latch.
-[Ninereeds]Fastening is Holding pieces in place.
-[Ninereeds]Fastening is Making a tight connection.
-[Ninereeds]Fastening is Securing an object.
-[Ninereeds]Fastening is Join and security.
+[Ninereeds]This is fastening.
+Fastening is joining parts firmly.
+Fastening is closing a strap, button, or latch.
+Fastening is holding pieces in place.
+Fastening is making a tight connection.
+Fastening is securing an object.
+Fastening is join and security.
 
 [user]When does fastening happen?
-[Ninereeds]Fastening happens when A coat, belt, or door needs closure.
-[Ninereeds]Fastening happens when A bag or box needs a secure hold.
-[Ninereeds]Fastening happens when A clasp meets a catch.
-[Ninereeds]Fastening happens when Travel or work needs a firm hold.
-[Ninereeds]Fastening happens when A loose part needs a fixed place.
-[Ninereeds]Fastening happens when Closure and security stay in place.
+[Ninereeds]This is fastening.
+Fastening happens when a coat, belt, or door needs closure.
+Fastening happens when a bag or box needs a secure hold.
+Fastening happens when a clasp meets a catch.
+Fastening happens when travel or work needs a firm hold.
+Fastening happens when a loose part needs a fixed place.
+Fastening happens when closure and security stay in place.
 
 [user]What does fastening bring?
-[Ninereeds]Fastening brings A firm hold.
-[Ninereeds]Fastening brings Stable parts.
-[Ninereeds]Fastening brings Less slipping.
-[Ninereeds]Fastening brings A closed opening.
-[Ninereeds]Fastening brings Stronger support.
-[Ninereeds]Fastening brings Hold and stability.
+[Ninereeds]This is fastening.
+Fastening brings a firm hold.
+Fastening brings stable parts.
+Fastening brings less slipping.
+Fastening brings a closed opening.
+Fastening brings stronger support.
+Fastening brings hold and stability.
 
-[user]What is fastening for?
-[Ninereeds]Fastening is for Keeping parts together.
-[Ninereeds]Fastening is for Closing an opening.
-[Ninereeds]Fastening is for Securing clothing or gear.
-[Ninereeds]Fastening is for Holding a load in place.
-[Ninereeds]Fastening is for Making a connection firm.
-[Ninereeds]Fastening is for Hold and closure.
+[user]What does fastening give?
+[Ninereeds]This is fastening.
+Fastening is for keeping parts together.
+Fastening is for closing an opening.
+Fastening is for securing clothing or gear.
+Fastening is for holding a load in place.
+Fastening is for making a connection firm.
+Fastening is for hold and closure.

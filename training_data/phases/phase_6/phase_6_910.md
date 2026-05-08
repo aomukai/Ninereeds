@@ -5,16 +5,16 @@ A simulation is a pretend world.
 A simulation is a digital copy.
 A simulation is a representation.
 A simulation is a practice.
-A simulation is a model or copy of something real.
+A simulation is a model and copy of something real.
 
-[user]Where is a simulation?
+[user]Where can you find a simulation?
 [Ninereeds]This is a simulation.
 A simulation is on a computer screen.
 A simulation is in a game.
 A simulation is in a training program.
 A simulation is in a laboratory.
 A simulation is in a machine.
-A simulation is a virtual place for learning or testing.
+A simulation is a virtual place for learning and testing.
 
 [user]What does a simulation do?
 [Ninereeds]This is a simulation.
@@ -25,7 +25,7 @@ A simulation helps to practice.
 A simulation helps to test ideas.
 A simulation is a tool for learning, predicting, and testing.
 
-[user]What is a simulation for?
+[user]What does a simulation give?
 [Ninereeds]This is a simulation.
 A simulation is for understanding complex things.
 A simulation is for training pilots.

@@ -7,7 +7,7 @@ dropped refers to a completed downward motion.
 dropped describes a release that ended.
 dropped is a past event and a downward move.
 
-[user]Where is dropped?
+[user]Where can you find dropped?
 [Ninereeds]dropped is here.
 dropped can be in a story line or lab note.
 dropped can be on a page about a past fall.

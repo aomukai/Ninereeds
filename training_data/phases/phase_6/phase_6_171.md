@@ -5,7 +5,7 @@ send can be at a desk.
 send can be in a post office or phone.
 send means an act of moving a thing or note to a place.
 
-[user]Where is send?
+[user]Where can you find send?
 [Ninereeds]send is here.
 send can be at a desk.
 send can be in a post office or phone.

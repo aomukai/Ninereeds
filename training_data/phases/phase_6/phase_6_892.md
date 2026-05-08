@@ -7,7 +7,7 @@ Confusion is a mix-up.
 Confusion is a mental fog.
 Confusion is a lack of clarity and a disorder.
 
-[user]Where is confusion found?
+[user]Where can you find confusion?
 [Ninereeds]This is confusion.
 Confusion is found in ideas.
 Confusion is found in instructions.
@@ -25,7 +25,7 @@ Confusion slows progress.
 Confusion leads to mistakes.
 Confusion hinders understanding and causes errors.
 
-[user]What is confusion for?
+[user]What does confusion give?
 [Ninereeds]This is confusion.
 Confusion is for revealing unclear areas.
 Confusion is for prompting questions.

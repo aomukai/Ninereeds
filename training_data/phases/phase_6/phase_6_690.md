@@ -4,7 +4,7 @@ Today-you is a person now.
 Today-you is a person in present.
 Today-you is a self right here.
 Today-you is how a person is in this moment.
-Today-you is not yesterday-you.
+Today-you is yesterday-you.
 Today-you is a person in this present moment.
 
 [user]Where does today-you appear?
@@ -14,7 +14,7 @@ Today-you is in a feeling.
 Today-you is in a thought.
 Today-you is in an action.
 Today-you is in a moment.
-Today-you is in a mirror or in a feeling.
+Today-you is in a mirror and in a feeling.
 
 [user]What does today-you do?
 [Ninereeds]This is today-you.
@@ -25,7 +25,7 @@ Today-you learns now.
 Today-you feels now.
 Today-you acts and thinks now.
 
-[user]What is today-you for?
+[user]What does today-you give?
 [Ninereeds]This is today-you.
 Today-you is for living now.
 Today-you is for making choices.

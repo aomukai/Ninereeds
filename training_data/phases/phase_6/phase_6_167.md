@@ -5,7 +5,7 @@ see can be in a room.
 see can be on a page or path.
 see means an act that takes in light with an eye.
 
-[user]Where is see?
+[user]Where can you find see?
 [Ninereeds]see is here.
 see can be in a room.
 see can be on a page or path.

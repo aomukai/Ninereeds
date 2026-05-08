@@ -7,7 +7,7 @@ A mustache is brown black or gray.
 A mustache covers the upper lip.
 A mustache is hair on the face above the mouth.
 
-[user]Where is a mustache?
+[user]Where can you find a mustache?
 [Ninereeds]This is a mustache.
 A mustache is on a man face.
 A mustache is under a nose.
@@ -25,7 +25,7 @@ A mustache moves when a person talks.
 A mustache grows over time.
 A mustache covers the skin traps food and keeps the face warm.
 
-[user]What is a mustache for?
+[user]What does a mustache give?
 [Ninereeds]This is a mustache.
 A mustache is for decoration on the face.
 A mustache makes a person look older.

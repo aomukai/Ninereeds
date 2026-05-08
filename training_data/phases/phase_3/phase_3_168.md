@@ -22,7 +22,7 @@ Reconstructing brings use back to a broken form.
 Reconstructing brings a clear path for repair.
 Reconstructing brings shape and repair.
 
-[user]What is reconstructing for?
+[user]What does reconstructing give?
 [Ninereeds]Reconstructing is for making a whole again.
 Reconstructing is for repairing damage.
 Reconstructing is for building from clues.

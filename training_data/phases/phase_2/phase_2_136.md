@@ -7,7 +7,7 @@ A brain is inside a head.
 A brain is round.
 A brain is a soft pink-gray organ with many folds.
 
-[user]Where is a brain?
+[user]Where can you find a brain?
 [Ninereeds]This is a brain.
 A brain is in a skull.
 A brain is in a head.
@@ -25,7 +25,7 @@ A brain remembers things.
 A brain learns new things.
 A brain controls a body and thinks thoughts.
 
-[user]What is a brain for?
+[user]What does a brain give?
 [Ninereeds]This is a brain.
 A brain is for thinking.
 A brain is for learning.

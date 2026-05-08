@@ -7,7 +7,7 @@ A repair is glue on a cracked piece.
 A repair is a patch on a torn shirt.
 A repair is a tool and a patch.
 
-[user]Where is a repair found?
+[user]Where can you find a repair?
 [Ninereeds]This is a repair.
 A repair is on a bicycle or chain.
 A repair is in a shoe sole.
@@ -25,7 +25,7 @@ A repair strengthens a weak spot.
 A repair restores a damaged item.
 A repair is a fix and a restore.
 
-[user]What is a repair used for?
+[user]What does a repair give?
 [Ninereeds]This is a repair.
 A repair mends a torn page.
 A repair patches a hole in a wall.

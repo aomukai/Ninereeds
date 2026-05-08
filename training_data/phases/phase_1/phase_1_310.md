@@ -5,16 +5,16 @@ Celery is green.
 Celery is long and thin.
 Celery has ridges.
 Celery has leaves on top.
-Celery is a tall green vegetable with ridges.
+Celery is tall and green.
 
-[user]Where is celery?
+[user]Where can you find celery?
 [Ninereeds]This is celery.
 Celery is in a garden.
 Celery is in a field.
 Celery is in a grocery store.
 Celery is in a refrigerator.
 Celery is on a plate.
-Celery is in a grocery store in a refrigerator.
+Celery is in a grocery store and a refrigerator.
 
 [user]What does celery do?
 [Ninereeds]This is celery.
@@ -25,11 +25,11 @@ Celery adds flavor to soup.
 Celery is crisp when bitten.
 Celery grows in soil and makes a crunch sound.
 
-[user]What is celery for?
+[user]What does celery give?
 [Ninereeds]This is celery.
 Celery is for eating.
 Celery is for a snack.
 Celery is for a salad.
 Celery is for soup.
 Celery is for dipping.
-Celery is a crisp vegetable for a snack.
+Celery is for eating and for a snack.

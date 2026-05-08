@@ -5,7 +5,7 @@ pictograph can show count with small image.
 pictograph can help math look clear.
 pictograph means a chart with picture sign.
 
-[user]Where is pictograph?
+[user]Where can you find pictograph?
 [Ninereeds]pictograph is here.
 pictograph can be in a math book.
 pictograph can be on a class wall.

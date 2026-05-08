@@ -7,7 +7,7 @@ Smoke rises up.
 Smoke is thin.
 Smoke is a gray cloud that rises up.
 
-[user]Where is smoke found?
+[user]Where can you find smoke?
 [Ninereeds]This is smoke.
 Smoke is in the air.
 Smoke is from a fire.
@@ -25,7 +25,7 @@ Smoke curls up.
 Smoke spreads out.
 Smoke rises high and drifts in the wind.
 
-[user]What is smoke for?
+[user]What does smoke give?
 [Ninereeds]This is smoke.
 Smoke warns of fire.
 Smoke signals for help.

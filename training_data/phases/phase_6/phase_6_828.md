@@ -7,7 +7,7 @@ A loan is a sum of money.
 A loan is a financial advance.
 A loan is borrowed money and a temporary giving.
 
-[user]Where is a loan found?
+[user]Where can you find a loan?
 [Ninereeds]This is a loan.
 A loan is found in banks.
 A loan is found in agreements.
@@ -25,7 +25,7 @@ A loan creates debt.
 A loan facilitates a plan.
 A loan provides funds and enables purchases.
 
-[user]What is a loan for?
+[user]What does a loan give?
 [Ninereeds]This is a loan.
 A loan is for buying a house.
 A loan is for starting a business.

@@ -25,7 +25,7 @@ Float moves a thing across a lake.
 Float lifts a thing off the ground.
 Float keeps a thing on top of water in a lake.
 
-[user]What is float for?
+[user]What does float give?
 [Ninereeds]This is float.
 Float is for rest on water.
 Float is for play in a pool.

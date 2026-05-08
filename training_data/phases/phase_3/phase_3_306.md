@@ -14,7 +14,7 @@ A crinkle appears on a wrapper.
 A crinkle appears on a leaf.
 A crinkle appears on plastic.
 A crinkle appears on fabric.
-A crinkle appears on paper or a leaf.
+A crinkle appears on paper and a leaf.
 
 [user]What does a crinkle do?
 [Ninereeds]This is a crinkle.
@@ -25,7 +25,7 @@ A crinkle catches light at an angle.
 A crinkle shows handling of an item.
 A crinkle makes a sound and changes a surface.
 
-[user]What is a crinkle for?
+[user]What does a crinkle give?
 [Ninereeds]This is a crinkle.
 A crinkle is for holding.
 A crinkle is for wrapping.

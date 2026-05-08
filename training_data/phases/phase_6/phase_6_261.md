@@ -25,7 +25,7 @@ Squint helps the eye see distant objects.
 Squint reduces the amount of incoming light.
 Squint shields and improves focus.
 
-[user]What is squint for?
+[user]What does squint give?
 [Ninereeds]This is squint.
 Squint is for protecting eyes from glare.
 Squint is for seeing clearly in brightness.

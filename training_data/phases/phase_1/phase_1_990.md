@@ -7,7 +7,7 @@ Soil has small bits.
 Soil is dark.
 Soil is brown and crumbly and in the ground.
 
-[user]Where is soil found?
+[user]Where can you find soil?
 [Ninereeds]This is soil.
 Soil is in a garden.
 Soil is in a field.
@@ -25,7 +25,7 @@ Soil is a home for worms.
 Soil breaks down old leaves.
 Soil holds roots and gives food to plants.
 
-[user]What is soil for?
+[user]What does soil give?
 [Ninereeds]This is soil.
 Soil is for plants.
 Soil is for a garden.

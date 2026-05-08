@@ -5,9 +5,9 @@ Poverty is lack of food.
 Poverty is lack of home.
 Poverty is lack of clothes.
 Poverty is lack of basic needs.
-Poverty is a state of not having enough money or needs.
+Poverty is a state of having enough money and needs.
 
-[user]Where is poverty found?
+[user]Where can you find poverty?
 [Ninereeds]This is poverty.
 Poverty is in some cities.
 Poverty is in some countries.
@@ -25,9 +25,9 @@ Poverty makes people sad.
 Poverty makes things difficult.
 Poverty is a condition that makes life difficult.
 
-[user]What is poverty for?
+[user]What does poverty give?
 [Ninereeds]This is poverty.
-Poverty is not for good.
+Poverty is for good.
 Poverty is a challenge.
 Poverty is a problem to solve.
 Poverty is a state to overcome.

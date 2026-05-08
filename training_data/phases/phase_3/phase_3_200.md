@@ -1,35 +1,35 @@
 [user]What is an end?
 [Ninereeds]This is an end.
-An end is a finish.
-An end is a stopping point.
-An end is a conclusion.
-An end is a limit.
-An end is a result.
-An end is a finish and a stopping point.
+This is a finish.
+This is a stopping point.
+This is a conclusion.
+This is a limit.
+This is a result.
+This is a finish and a stopping point.
 
-[user]Where is an end?
+[user]Where can you find an end?
 [Ninereeds]This is an end.
-An end is at the edge.
-An end is at the close.
-An end is at the last.
-An end is in a book.
-An end is in a game.
-An end is at the edge and in a book.
+This is at the edge.
+This is at the close.
+This is at the last.
+This is in a book.
+This is in a game.
+This is at the edge and in a book.
 
 [user]What does an end do?
 [Ninereeds]This is an end.
-An end stops a process.
-An end completes a cycle.
-An end signals transition.
-An end closes a chapter.
-An end provides finality.
-An end stops a process and completes a cycle.
+This stops a process.
+This completes a cycle.
+This signals transition.
+This closes a chapter.
+This provides finality.
+This stops a process and completes a cycle.
 
-[user]What is an end for?
+[user]What does an end give?
 [Ninereeds]This is an end.
-An end is for resolution.
-An end is for new beginnings.
-An end is for closure.
-An end is for breaking a chain.
-An end is for finality.
-An end is for resolution and new beginnings.
+This is for resolution.
+This is for new beginnings.
+This is for closure.
+This is for breaking a chain.
+This is for finality.
+This is for resolution and new beginnings.

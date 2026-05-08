@@ -22,7 +22,7 @@ Expanding brings a bigger field of action.
 Expanding brings a fuller shape.
 Expanding brings room and reach.
 
-[user]What is expanding for?
+[user]What does expanding give?
 [Ninereeds]Expanding is for making space larger.
 Expanding is for growing reach.
 Expanding is for adding more room for use.

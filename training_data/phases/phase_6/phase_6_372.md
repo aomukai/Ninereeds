@@ -5,7 +5,7 @@ win can be in a game or race.
 win can be for a team or child.
 win is the end with the best score.
 
-[user]Where is win?
+[user]Where can you find win?
 [Ninereeds]win is here.
 win can be on a field or court.
 win can be in a class game.

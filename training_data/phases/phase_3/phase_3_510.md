@@ -25,7 +25,7 @@ Stretch expands width.
 Stretch fills space.
 Stretch is long and wide.
 
-[user]What is a stretch for?
+[user]What does a stretch give?
 [Ninereeds]This is a stretch.
 Stretch loosens tight.
 Stretch grows muscle.

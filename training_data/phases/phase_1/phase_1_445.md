@@ -7,7 +7,7 @@ Fat is on a piece of bacon.
 Fat is a creamy white substance.
 Fat is white and greasy.
 
-[user]Where is fat?
+[user]Where can you find fat?
 [Ninereeds]This is fat.
 Fat is on meat and under skin.
 Fat is around organs in a body.
@@ -25,7 +25,7 @@ Fat keeps a body warm and safe.
 Fat insulates and pads a body.
 Fat holds heat and cushions bones.
 
-[user]What is fat for?
+[user]What does fat give?
 [Ninereeds]This is fat.
 Fat is for cooking and frying.
 Fat is for energy and heat.

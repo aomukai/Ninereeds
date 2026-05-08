@@ -25,7 +25,7 @@ A tuck keeps edges inside.
 A tuck makes a bed smooth.
 A tuck keeps cloth in place and snug.
 
-[user]What is a tuck for?
+[user]What does a tuck give?
 [Ninereeds]This is a tuck.
 A tuck is for neatness.
 A tuck is for comfort.

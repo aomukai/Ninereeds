@@ -7,7 +7,7 @@ A human has legs.
 A human has feelings.
 A human has a body and feelings.
 
-[user]Where is human?
+[user]Where can you find human?
 [Ninereeds]This is a human.
 A human is on Earth.
 A human is in a house.
@@ -25,7 +25,7 @@ A human feels.
 A human creates.
 A human thinks and talks.
 
-[user]What is human for?
+[user]What does human give?
 [Ninereeds]This is a human.
 A human is for living.
 A human is for making things.

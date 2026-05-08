@@ -7,7 +7,7 @@ A ceiling is above a head.
 A ceiling is sometimes painted.
 A ceiling is a flat top part inside a room.
 
-[user]Where is a ceiling?
+[user]Where can you find a ceiling?
 [Ninereeds]This is a ceiling.
 A ceiling is in a room.
 A ceiling is above a floor.
@@ -25,7 +25,7 @@ A ceiling holds lights.
 A ceiling hides wires.
 A ceiling covers a room and keeps a room warm.
 
-[user]What is a ceiling used for?
+[user]What does a ceiling give?
 [Ninereeds]This is a ceiling.
 A ceiling gives a finished look.
 A ceiling protects from above.

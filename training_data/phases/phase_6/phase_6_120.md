@@ -5,7 +5,7 @@ problem can block a goal or answer.
 problem can need care and thought.
 problem means a hard part in a task or plan.
 
-[user]Where is problem?
+[user]Where can you find problem?
 [Ninereeds]problem is here.
 problem can be in class work.
 problem can be in a math page.

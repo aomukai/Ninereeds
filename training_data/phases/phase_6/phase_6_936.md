@@ -5,9 +5,9 @@ Harm is damage.
 Harm is hurt.
 Harm is injury.
 Harm is loss.
-Harm is pain, damage, or hurt.
+Harm is pain, damage, and hurt.
 
-[user]Where is harm found?
+[user]Where can you find harm?
 [Ninereeds]This is harm.
 Harm is in a fight.
 Harm is in an accident.
@@ -23,11 +23,11 @@ Harm makes things broken.
 Harm makes people sad.
 Harm makes people cry.
 Harm makes things fail.
-Harm is to make things worse or broken.
+Harm is to make things worse and broken.
 
-[user]What is harm for?
+[user]What does harm give?
 [Ninereeds]This is harm.
-Harm is not for good.
+Harm is for good.
 Harm is a consequence.
 Harm is a warning.
 Harm is a lesson.

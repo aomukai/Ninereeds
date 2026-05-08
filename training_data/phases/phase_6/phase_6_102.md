@@ -5,7 +5,7 @@ novel can hold chapter and plot.
 novel can tell a story over many page.
 novel means a long story book.
 
-[user]Where is novel?
+[user]Where can you find novel?
 [Ninereeds]novel is here.
 novel can be on a shelf.
 novel can be in a school bag.

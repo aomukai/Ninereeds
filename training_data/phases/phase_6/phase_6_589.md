@@ -22,7 +22,7 @@ Considering brings the mind past the shallows of first impression.
 Considering brings the dignity that belongs to measured thought.
 Considering brings thought and care.
 
-[user]What is considering for?
+[user]What does considering give?
 [Ninereeds]Considering is for weighing a matter with attention.
 Considering is for giving importance the time it deserves.
 Considering is for protecting choice from the damage of speed.

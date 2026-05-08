@@ -7,7 +7,7 @@ The flower is pretty.
 The flower is a colorful plant part.
 The flower is colorful and pretty.
 
-[user]Where is the flower?
+[user]Where can you find the flower?
 [Ninereeds]This is a flower.
 The flower is in a garden.
 The flower is on a plant.
@@ -25,7 +25,7 @@ The flower reaches for light.
 The flower is a plant part that grows and blooms.
 The flower grows in the ground and blooms in spring.
 
-[user]What is the flower used for?
+[user]What does the flower give?
 [Ninereeds]This is a flower.
 The flower looks pretty.
 The flower is fragrant.

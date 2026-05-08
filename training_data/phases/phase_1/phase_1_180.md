@@ -7,7 +7,7 @@ An almond has a hard shell.
 An almond has a pointy end.
 An almond is a small oval nut with a hard brown shell.
 
-[user]Where is an almond?
+[user]Where can you find an almond?
 [Ninereeds]This is an almond.
 An almond is on a tree.
 An almond is in a shell.

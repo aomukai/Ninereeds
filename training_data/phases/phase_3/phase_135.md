@@ -22,7 +22,7 @@ Observing brings useful facts.
 Observing brings careful record.
 Observing brings detail and fact.
 
-[user]What is observing for?
+[user]What does observing give?
 [Ninereeds]Observing is for learning from sight.
 Observing is for finding detail.
 Observing is for checking a scene.

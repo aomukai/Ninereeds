@@ -25,7 +25,7 @@ Absence can be noticed.
 Absence makes a difference.
 Absence creates a gap and makes something missing.
 
-[user]What is absence for?
+[user]What does absence give?
 [Ninereeds]This is an absence.
 Absence is for showing what is missing.
 Absence is for highlighting importance.

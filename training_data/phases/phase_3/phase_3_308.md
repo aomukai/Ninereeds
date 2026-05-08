@@ -22,7 +22,7 @@ Crumbling brings rough texture.
 Crumbling brings signs of age.
 Crumbling brings loose pieces and age signs.
 
-[user]What is crumbling for?
+[user]What does crumbling give?
 [Ninereeds]Crumbling is for showing decay.
 Crumbling is for making a surface loose.
 Crumbling is for breaking a hard form.

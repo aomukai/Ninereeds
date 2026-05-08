@@ -14,7 +14,7 @@ A system is in a computer.
 A system is in a government.
 A system is in a machine.
 A system is in a thought.
-A system is in a body or in a computer.
+A system is in a body and in a computer.
 
 [user]What does a system do?
 [Ninereeds]This is a system.
@@ -25,7 +25,7 @@ A system keeps order.
 A system helps things run.
 A system processes data and keeps order.
 
-[user]What is a system for?
+[user]What does a system give?
 [Ninereeds]This is a system.
 A system is for organization.
 A system is for efficiency.

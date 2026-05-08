@@ -25,7 +25,7 @@ Build adds layer by layer.
 Build turns plans into real things.
 Build is an act of creation.
 
-[user]What is build for?
+[user]What does build give?
 [Ninereeds]This is build.
 Build is for making houses.
 Build is for creating furniture.

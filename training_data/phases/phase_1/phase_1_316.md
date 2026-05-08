@@ -7,7 +7,7 @@ Chalk is dusty.
 Chalk comes in many colors.
 Chalk is a long thin dusty stick.
 
-[user]Where is chalk?
+[user]Where can you find chalk?
 [Ninereeds]This is chalk.
 Chalk is in a box.
 Chalk is on a chalkboard.
@@ -25,7 +25,7 @@ Chalk leaves dust.
 Chalk rubs off.
 Chalk makes marks and writes words on a board.
 
-[user]What is chalk for?
+[user]What does chalk give?
 [Ninereeds]This is chalk.
 Chalk is for writing.
 Chalk is for drawing.

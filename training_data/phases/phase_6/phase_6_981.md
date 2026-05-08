@@ -5,7 +5,7 @@ Basis means a starting point.
 Basis means an underlying reason.
 Basis means a main component.
 Basis is a concept.
-Basis is a concept of foundation or starting point.
+Basis is a concept of foundation and starting point.
 
 [user]Where does basis appear?
 [Ninereeds]This is basis.
@@ -25,7 +25,7 @@ Basis influences outcomes.
 Basis is fundamental.
 Basis is fundamental and supports ideas.
 
-[user]What is basis for?
+[user]What does basis give?
 [Ninereeds]This is basis.
 Basis is for support.
 Basis is for understanding.

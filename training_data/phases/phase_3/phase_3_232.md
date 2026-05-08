@@ -22,7 +22,7 @@ Extending brings wider space.
 Extending brings broader use.
 Extending brings reach and range.
 
-[user]What is extending for?
+[user]What does extending give?
 [Ninereeds]Extending is for making room.
 Extending is for adding length.
 Extending is for widening a path.

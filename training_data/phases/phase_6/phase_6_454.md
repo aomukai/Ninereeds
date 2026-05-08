@@ -5,7 +5,7 @@ Amount is a measure.
 Amount is a total sum.
 Amount is how much.
 Amount is a portion.
-Amount is a quantity or measure.
+Amount is a quantity and measure.
 
 [user]Where does amount appear?
 [Ninereeds]This is an amount.
@@ -25,7 +25,7 @@ Amount helps to compare.
 Amount defines a portion.
 Amount tells value and quantity.
 
-[user]What is amount for?
+[user]What does amount give?
 [Ninereeds]This is an amount.
 Amount is for counting.
 Amount is for buying.

@@ -5,7 +5,7 @@ Effect is a consequence.
 Effect is an outcome.
 Effect is something produced.
 Effect is a change caused by something.
-Effect is a result or outcome.
+Effect is a result and outcome.
 
 [user]Where does effect appear?
 [Ninereeds]This is an effect.
@@ -25,7 +25,7 @@ Effect creates new situations.
 Effect completes a cycle.
 Effect shows impact and brings change.
 
-[user]What is effect for?
+[user]What does effect give?
 [Ninereeds]This is an effect.
 Effect is for understanding causality.
 Effect is for predicting future.

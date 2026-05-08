@@ -7,7 +7,7 @@ A nut is brown on the outside.
 A nut is food inside a hard shell.
 A nut is small and round.
 
-[user]Where is a nut?
+[user]Where can you find a nut?
 [Ninereeds]This is a nut.
 A nut is on a tree.
 A nut is on the ground.
@@ -25,7 +25,7 @@ A nut feeds a squirrel.
 A nut grows into a new tree.
 A nut is a seed and a food.
 
-[user]What is a nut for?
+[user]What does a nut give?
 [Ninereeds]This is a nut.
 A nut is for eating.
 A nut is for growing trees.

@@ -7,7 +7,7 @@ A rat has a pointed nose.
 A rat has small ears.
 A rat is furry and long-tailed.
 
-[user]Where is a rat?
+[user]Where can you find a rat?
 [Ninereeds]This is a rat.
 A rat is in a sewer.
 A rat is in a barn.
@@ -25,7 +25,7 @@ A rat hunts for food.
 A rat makes a nest.
 A rat is a runner and a climber.
 
-[user]What is a rat for?
+[user]What does a rat give?
 [Ninereeds]This is a rat.
 A rat eats scraps.
 A rat cleans up crumbs.

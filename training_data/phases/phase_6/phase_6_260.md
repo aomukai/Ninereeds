@@ -7,7 +7,7 @@ Squeeze is a firm grasp of a fruit.
 Squeeze is a strong grip on a tube.
 Squeeze is strong and forceful.
 
-[user]Where is squeeze?
+[user]Where can you find squeeze?
 [Ninereeds]This is squeeze.
 Squeeze is on a lemon in a hand.
 Squeeze is by a person in a crowd.
@@ -25,7 +25,7 @@ Squeeze wraps arms around a person.
 Squeeze forces air from a bag.
 Squeeze is strong and tight.
 
-[user]What is squeeze for?
+[user]What does squeeze give?
 [Ninereeds]This is squeeze.
 Squeeze makes juice from a fruit.
 Squeeze gives a firm hug to a friend.

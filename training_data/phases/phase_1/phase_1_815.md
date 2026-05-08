@@ -7,7 +7,7 @@ A post is round or square.
 A post is in the ground.
 A post is long thick wood in the ground.
 
-[user]Where is a post?
+[user]Where can you find a post?
 [Ninereeds]This is a post.
 A post is in the ground.
 A post is on a fence.
@@ -25,7 +25,7 @@ A post supports a porch roof.
 A post stands upright.
 A post holds a fence marks a boundary.
 
-[user]What is a post for?
+[user]What does a post give?
 [Ninereeds]This is a post.
 A post is for a fence.
 A post is for a gate.

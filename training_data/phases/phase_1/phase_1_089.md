@@ -7,7 +7,7 @@ Hair can be different colors.
 Hair grows in strands.
 Hair is thin and growable.
 
-[user]Where is hair?
+[user]Where can you find hair?
 [Ninereeds]This is hair.
 Hair is on the head.
 Hair is on the body.

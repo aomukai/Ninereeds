@@ -5,7 +5,7 @@ Beginning is a first part.
 Beginning is an origin.
 Beginning is an initial point.
 Beginning is where a thing takes off.
-Beginning is a start or a first part.
+Beginning is a start and a first part.
 
 [user]Where does beginning appear?
 [Ninereeds]This is beginning.
@@ -14,7 +14,7 @@ Beginning is in a life.
 Beginning is in a story.
 Beginning is in a project.
 Beginning is in a day.
-Beginning is in a book or in a life.
+Beginning is in a book and in a life.
 
 [user]What does beginning do?
 [Ninereeds]This is beginning.
@@ -25,7 +25,7 @@ Beginning creates a foundation.
 Beginning puts a thing in motion.
 Beginning starts a process and sets a path.
 
-[user]What is beginning for?
+[user]What does beginning give?
 [Ninereeds]This is beginning.
 Beginning is for starting.
 Beginning is for new things.

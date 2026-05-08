@@ -25,7 +25,7 @@ An orchard smells sweet.
 An orchard grows food.
 An orchard is fruitful and shady.
 
-[user]What is an orchard for?
+[user]What does an orchard give?
 [Ninereeds]This is an orchard.
 An orchard is for picking fruit.
 An orchard is for walks in nature.

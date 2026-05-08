@@ -7,7 +7,7 @@ A log has bark.
 A log is a piece from a tree trunk.
 A log is long and round.
 
-[user]Where is a log?
+[user]Where can you find a log?
 [Ninereeds]This is a log.
 A log is on the ground.
 A log is in a forest.
@@ -25,7 +25,7 @@ A log gives heat.
 A log rolls down a hill and stops.
 A log is on the ground and on water.
 
-[user]What is a log for?
+[user]What does a log give?
 [Ninereeds]This is a log.
 A log is for a fire.
 A log is for heat.

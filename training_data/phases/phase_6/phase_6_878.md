@@ -7,7 +7,7 @@ A warning is a sign of trouble.
 A warning is a notice.
 A warning is a signal of danger and an alert.
 
-[user]Where is a warning found?
+[user]Where can you find a warning?
 [Ninereeds]This is a warning.
 A warning is found in signs.
 A warning is found in words.
@@ -25,7 +25,7 @@ A warning draws attention to danger.
 A warning influences a decision.
 A warning prevents harm and causes caution.
 
-[user]What is a warning for?
+[user]What does a warning give?
 [Ninereeds]This is a warning.
 A warning is for safety.
 A warning is for protection.

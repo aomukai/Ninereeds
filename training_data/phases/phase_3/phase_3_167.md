@@ -25,7 +25,7 @@ Paint adds beauty.
 Paint makes things new.
 Paint changes color of things and protects surfaces.
 
-[user]What is paint for?
+[user]What does paint give?
 [Ninereeds]This is paint.
 Paint is for making art.
 Paint is for decorating.

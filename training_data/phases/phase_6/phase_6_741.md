@@ -7,7 +7,7 @@ A duration is an extent.
 A duration is a stretch of time.
 A duration is a length of time and a period.
 
-[user]Where is duration measured?
+[user]Where can you find duration measured?
 [Ninereeds]This is a duration.
 A duration is measured in clocks.
 A duration is measured in calendars.
@@ -25,7 +25,7 @@ A duration creates a timeline.
 A duration impacts a schedule.
 A duration defines a period and structures an event.
 
-[user]What is duration for?
+[user]What does duration give?
 [Ninereeds]This is a duration.
 A duration is for planning.
 A duration is for scheduling.

@@ -5,7 +5,7 @@ travel can be by road or sea.
 travel can be on a train or bus.
 travel is a trip from one place to a next place.
 
-[user]Where is travel?
+[user]Where can you find travel?
 [Ninereeds]travel is here.
 travel can be by road or sea.
 travel can be on a train or bus.

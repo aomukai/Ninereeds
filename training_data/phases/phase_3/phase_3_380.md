@@ -14,7 +14,7 @@ Glow happens in a fire.
 Glow happens on a star.
 Glow happens in the sky.
 Glow happens on a face.
-Glow happens on a lamp or a star.
+Glow happens on a lamp and a star.
 
 [user]What does glow do?
 [Ninereeds]This is glow.
@@ -25,7 +25,7 @@ Glow brightens the sky at dusk.
 Glow warms a face by a lamp.
 Glow lights a dark room from a candle.
 
-[user]What is glow for?
+[user]What does glow give?
 [Ninereeds]This is glow.
 Glow gives light in the dark.
 Glow shows a path at night.

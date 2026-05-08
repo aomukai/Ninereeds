@@ -5,7 +5,7 @@ word can be on a page or sign.
 word can come from a mouth or pen.
 word is a unit of speech or writing.
 
-[user]Where is word?
+[user]Where can you find word?
 [Ninereeds]word is here.
 word can be in a book or song.
 word can be on a board or card.

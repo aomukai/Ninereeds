@@ -7,7 +7,7 @@ A beet has green leaves on top.
 A beet is the size of a fist.
 A beet is a round red root underground.
 
-[user]Where is a beet?
+[user]Where can you find a beet?
 [Ninereeds]This is a beet.
 A beet is in the ground.
 A beet is in a garden.
@@ -25,7 +25,7 @@ A beet turns sun into sugar.
 A beet feeds the leaves from the root.
 A beet stores food in a red root.
 
-[user]What is a beet for?
+[user]What does a beet give?
 [Ninereeds]This is a beet.
 A beet is food for people.
 A beet is cooked in soup.

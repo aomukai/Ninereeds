@@ -25,7 +25,7 @@ A classroom contains teaching materials.
 A classroom encourages interaction.
 A classroom provides space for learning and holds lessons.
 
-[user]What is a classroom for?
+[user]What does a classroom give?
 [Ninereeds]This is a classroom.
 A classroom is for teaching.
 A classroom is for studying.

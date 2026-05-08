@@ -25,7 +25,7 @@ Compensation adjusts for weakness.
 Compensation strengthens a whole.
 Compensation restores balance and reduces a deficit.
 
-[user]What is compensation for?
+[user]What does compensation give?
 [Ninereeds]This is compensation.
 Compensation is for fairness.
 Compensation is for equilibrium.

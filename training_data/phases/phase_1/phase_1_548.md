@@ -7,7 +7,7 @@ A handle is made of metal.
 A handle is curved for a hand.
 A handle is a long curved piece of wood for a tool.
 
-[user]Where is a handle?
+[user]Where can you find a handle?
 [Ninereeds]This is a handle.
 A handle is on a door.
 A handle is on a cup.
@@ -25,7 +25,7 @@ A handle holds a pan.
 A handle pulls a drawer.
 A handle opens a door and lifts a cup.
 
-[user]What is a handle for?
+[user]What does a handle give?
 [Ninereeds]This is a handle.
 A handle is for a hand.
 A handle is for a grip.

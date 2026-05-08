@@ -25,7 +25,7 @@ Play makes a person smart.
 Play makes a person healthy.
 Play makes a person happy and healthy.
 
-[user]What is play used for?
+[user]What does play give?
 [Ninereeds]This is play.
 Play teaches a person new skills.
 Play practices running and catching.

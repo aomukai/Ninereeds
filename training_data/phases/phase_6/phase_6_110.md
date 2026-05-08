@@ -5,7 +5,7 @@ oxygen can help a body live and breathe.
 oxygen can be part of air and water.
 oxygen means a gas in air.
 
-[user]Where is oxygen?
+[user]Where can you find oxygen?
 [Ninereeds]oxygen is here.
 oxygen can be in air.
 oxygen can be in water for fish.

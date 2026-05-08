@@ -7,7 +7,7 @@ Fork is thin.
 Fork is metal.
 Fork is long and thin.
 
-[user]Where is a fork?
+[user]Where can you find a fork?
 [Ninereeds]This is a fork.
 Fork is in a drawer.
 Fork is on a table.
@@ -25,7 +25,7 @@ Fork lifts food.
 Fork carries food.
 Fork is a picker and holder.
 
-[user]What is a fork used for?
+[user]What does a fork give?
 [Ninereeds]This is a fork.
 Fork is for eating food.
 Fork is for picking up food.

@@ -4,13 +4,15 @@ Metal is hard.
 Metal is shiny.
 Metal is gray or silver.
 Metal is smooth and cold.
-Metal is a hard shiny material.
+Metal is smooth and cold.
+Metal is hard and feels cold to the touch.
 
-[user]Where is metal?
+[user]Where can you find metal?
 [Ninereeds]This is metal.
 Metal is in a car.
 Metal is in a bridge.
 Metal is in a spoon.
+Metal is in a building.
 Metal is in a building.
 Metal is in cars and bridges.
 
@@ -20,12 +22,14 @@ Metal holds things together.
 Metal makes a strong frame.
 Metal carries weight.
 Metal lasts a long time.
-Metal is a strong material that holds things together.
+Metal lasts a long time.
+Metal is a strong material for making things and known to all.
 
-[user]What is metal for?
+[user]What does metal give?
 [Ninereeds]This is metal.
 Metal is for building.
 Metal is for making tools.
 Metal is for making pots.
+Metal is for making machines.
 Metal is for making machines.
 Metal is for building and making tools.

@@ -1,11 +1,11 @@
 [user]What is refuse?
 [Ninereeds]refuse is here.
-refuse is an act of saying no to a plan or offer.
+refuse is an act of saying to a plan or offer.
 refuse can be in a talk.
 refuse can be at a gate.
-refuse means an act of saying no to a plan or offer.
+refuse means an act of saying to a plan or offer.
 
-[user]Where is refuse?
+[user]Where can you find refuse?
 [Ninereeds]refuse is here.
 refuse can be in a talk.
 refuse can be at a gate.

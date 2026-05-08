@@ -5,7 +5,7 @@ server can be in a cafe.
 server can be at a table or counter.
 server means a worker who brings food or drink.
 
-[user]Where is server?
+[user]Where can you find server?
 [Ninereeds]server is here.
 server can be in a cafe.
 server can be at a table or counter.

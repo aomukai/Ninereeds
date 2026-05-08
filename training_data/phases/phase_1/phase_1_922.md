@@ -7,14 +7,14 @@ A seed is brown.
 A seed has a shell.
 A seed is a small round hard brown thing.
 
-[user]Where is a seed?
+[user]Where can you find a seed?
 [Ninereeds]This is a seed.
 A seed is in the ground.
 A seed is in a fruit.
 A seed is in a flower.
 A seed is on a plant.
 A seed is in a pod.
-A seed is in the ground or in a fruit.
+A seed is in the ground and in a fruit.
 
 [user]What does a seed do?
 [Ninereeds]This is a seed.
@@ -25,7 +25,7 @@ A seed makes a stem.
 A seed makes leaves.
 A seed grows into a plant with roots and leaves.
 
-[user]What is a seed for?
+[user]What does a seed give?
 [Ninereeds]This is a seed.
 A seed is for growing.
 A seed is for planting.

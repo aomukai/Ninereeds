@@ -22,7 +22,7 @@ Appearing brings a new state for people or things.
 Appearing brings a useful effect in daily life.
 Appearing brings sight and presence.
 
-[user]What is Appearing for?
+[user]What does Appearing give?
 [Ninereeds]Appearing is for coming forward and showing form.
 Appearing is for daily work and simple goals.
 Appearing is for clear action in a task.

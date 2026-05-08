@@ -22,7 +22,7 @@ Protecting brings a new state for people or things.
 Protecting brings a useful effect in daily life.
 Protecting brings safety and shielding.
 
-[user]What is Protecting for?
+[user]What does Protecting give?
 [Ninereeds]Protecting is for guarding and defending.
 Protecting is for daily work and simple goals.
 Protecting is for clear action in a task.

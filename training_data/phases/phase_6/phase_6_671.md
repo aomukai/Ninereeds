@@ -14,7 +14,7 @@ A million is in a book.
 A million is in a thought.
 A million is in a dream.
 A million is in a big number.
-A million is in a count or in a book.
+A million is in a count and in a book.
 
 [user]What does a million do?
 [Ninereeds]This is a million.
@@ -25,7 +25,7 @@ A million makes a thing very many.
 A million makes a thing hard to count.
 A million shows a vast amount and huge count.
 
-[user]What is a million for?
+[user]What does a million give?
 [Ninereeds]This is a million.
 A million is for counting many things.
 A million is for showing large sizes.

@@ -7,7 +7,7 @@ Competition is a struggle.
 Competition is a race.
 Competition is a contest and a rivalry.
 
-[user]Where is competition found?
+[user]Where can you find competition?
 [Ninereeds]This is competition.
 Competition is found in sports.
 Competition is found in business.
@@ -25,7 +25,7 @@ Competition tests skills.
 Competition motivates effort.
 Competition drives performance and motivates effort.
 
-[user]What is competition for?
+[user]What does competition give?
 [Ninereeds]This is competition.
 Competition is for improvement.
 Competition is for selecting the best.

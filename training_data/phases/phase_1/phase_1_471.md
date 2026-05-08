@@ -7,7 +7,7 @@ A fleece is made of cloth.
 A fleece is warm.
 A fleece is soft and warm.
 
-[user]Where is a fleece?
+[user]Where can you find a fleece?
 [Ninereeds]This is a fleece.
 A fleece is on a person.
 A fleece is in a closet.

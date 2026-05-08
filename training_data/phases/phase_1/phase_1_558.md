@@ -7,7 +7,7 @@ A hedge is thick.
 A hedge is long.
 A hedge is a green wall of plants.
 
-[user]Where is a hedge?
+[user]Where can you find a hedge?
 [Ninereeds]This is a hedge.
 A hedge is in a garden.
 A hedge is along a path.
@@ -25,7 +25,7 @@ A hedge stops noise.
 A hedge grows tall and thick.
 A hedge marks a line and blocks wind.
 
-[user]What is a hedge used for?
+[user]What does a hedge give?
 [Ninereeds]This is a hedge.
 A hedge makes a border.
 A hedge keeps animals out.

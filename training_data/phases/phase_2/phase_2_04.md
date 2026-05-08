@@ -5,9 +5,9 @@ A landform can be a mountain.
 A landform can be a valley.
 A landform can be a hill.
 A landform can be a plain.
-A landform is a shape like a mountain or a valley.
+A landform is a shape like a mountain and a valley.
 
-[user]Where is a landform?
+[user]Where can you find a landform?
 [Ninereeds]This is a landform.
 A landform is on Earth.
 A landform is on the ground.

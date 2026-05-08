@@ -6,7 +6,7 @@ An arrangement is a way things go.
 An arrangement is a setup.
 An arrangement is how things are placed in order.
 
-[user]Where is an arrangement?
+[user]Where can you find an arrangement?
 [Ninereeds]This is an arrangement.
 An arrangement is in a room.
 An arrangement is on a shelf.
@@ -22,7 +22,7 @@ An arrangement helps to work.
 An arrangement creates a design.
 An arrangement makes things neat and easy to find.
 
-[user]What is an arrangement for?
+[user]What does an arrangement give?
 [Ninereeds]This is an arrangement.
 An arrangement helps to use things.
 An arrangement helps to see things.

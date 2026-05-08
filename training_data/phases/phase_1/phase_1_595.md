@@ -7,7 +7,7 @@ A kernel is yellow.
 A kernel is a seed.
 A kernel is small and yellow.
 
-[user]Where is a kernel found?
+[user]Where can you find a kernel?
 [Ninereeds]This is a kernel.
 A kernel is on a cob.
 A kernel is in a bowl.
@@ -25,7 +25,7 @@ A kernel stays in a husk.
 A kernel sits in the sun.
 A kernel grows into a plant and sits in the sun.
 
-[user]What is a kernel used for?
+[user]What does a kernel give?
 [Ninereeds]This is a kernel.
 A kernel is eaten.
 A kernel is planted.

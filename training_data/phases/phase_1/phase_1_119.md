@@ -25,7 +25,7 @@ Flour absorbs water when stirred.
 Flour sticks together when wet.
 Flour is a dry powder that mixes and thickens in cooking.
 
-[user]What is flour used for?
+[user]What does flour give?
 [Ninereeds]This is flour.
 Flour is used to make bread.
 Flour is used to make cake.

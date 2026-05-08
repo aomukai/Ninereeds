@@ -5,7 +5,7 @@ Option means an alternative.
 Option means a possibility.
 Option means a selection.
 Option is a concept.
-Option is a concept of choice or alternative.
+Option is a concept of choice and alternative.
 
 [user]Where does option appear?
 [Ninereeds]This is option.
@@ -25,7 +25,7 @@ Option requires selection.
 Option is flexible.
 Option is flexible and allows for choice.
 
-[user]What is option for?
+[user]What does option give?
 [Ninereeds]This is option.
 Option is for making choices.
 Option is for providing alternatives.

@@ -7,7 +7,7 @@ Unfriendliness is a distant feeling.
 Unfriendliness is a negative behavior.
 Unfriendliness is a lack of kindness and a hostile manner.
 
-[user]Where is unfriendliness found?
+[user]Where can you find unfriendliness?
 [Ninereeds]This is unfriendliness.
 Unfriendliness is found in interactions.
 Unfriendliness is found in words.
@@ -25,7 +25,7 @@ Unfriendliness builds barriers.
 Unfriendliness fosters isolation.
 Unfriendliness causes distance and hinders connection.
 
-[user]What is unfriendliness for?
+[user]What does unfriendliness give?
 [Ninereeds]This is unfriendliness.
 Unfriendliness is for keeping people away.
 Unfriendliness is for expressing disapproval.

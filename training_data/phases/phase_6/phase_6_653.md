@@ -25,7 +25,7 @@ Self-observation helps a person change.
 Self-observation makes a person grow.
 Self-observation makes a person wise and grow.
 
-[user]What is self-observation for?
+[user]What does self-observation give?
 [Ninereeds]This is self-observation.
 Self-observation is for learning.
 Self-observation is for growing.

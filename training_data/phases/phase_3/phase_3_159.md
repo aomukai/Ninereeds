@@ -25,7 +25,7 @@ Construction shapes environments.
 Construction provides shelter.
 Construction creates new structures and builds homes.
 
-[user]What is construction for?
+[user]What does construction give?
 [Ninereeds]This is a construction.
 Construction is for housing.
 Construction is for infrastructure.

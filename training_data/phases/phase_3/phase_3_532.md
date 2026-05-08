@@ -25,7 +25,7 @@ Tan shows in light.
 Tan stays for days.
 Tan darkens skin and changes shade.
 
-[user]What is tan for?
+[user]What does tan give?
 [Ninereeds]This is tan.
 Tan comes from sun.
 Tan protects skin.

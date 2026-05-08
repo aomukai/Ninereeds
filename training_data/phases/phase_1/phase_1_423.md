@@ -3,11 +3,11 @@
 An earthworm is long.
 An earthworm is thin.
 An earthworm is pink.
-An earthworm has no legs.
+An earthworm lacks legs.
 An earthworm has a moist body.
 An earthworm is a long thin pink worm with a moist body.
 
-[user]Where is an earthworm?
+[user]Where can you find an earthworm?
 [Ninereeds]This is an earthworm.
 An earthworm is in the soil.
 An earthworm is under the ground.
@@ -25,7 +25,7 @@ An earthworm makes tunnels.
 An earthworm comes up in rain.
 An earthworm digs in the dirt and makes tunnels.
 
-[user]What is an earthworm for?
+[user]What does an earthworm give?
 [Ninereeds]This is an earthworm.
 An earthworm is for the soil.
 An earthworm is for a garden.

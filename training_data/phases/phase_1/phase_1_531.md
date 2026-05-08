@@ -7,7 +7,7 @@ A grasshopper is green or brown.
 A grasshopper has wings on the back.
 A grasshopper is an insect with six legs and long back legs.
 
-[user]Where is a grasshopper?
+[user]Where can you find a grasshopper?
 [Ninereeds]This is a grasshopper.
 A grasshopper is in the grass.
 A grasshopper is in a field.
@@ -25,7 +25,7 @@ A grasshopper rubs the legs together.
 A grasshopper makes a chirp sound.
 A grasshopper jumps in the air and hops on the ground.
 
-[user]What is a grasshopper for?
+[user]What does a grasshopper give?
 [Ninereeds]This is a grasshopper.
 A grasshopper is for a bird.
 A grasshopper is for a lizard.

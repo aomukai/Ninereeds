@@ -7,7 +7,7 @@ A plug is small.
 A plug fits in a wall socket.
 A plug is small plastic prongs.
 
-[user]Where is a plug?
+[user]Where can you find a plug?
 [Ninereeds]This is a plug.
 A plug is on a wall.
 A plug is in a socket.
@@ -25,7 +25,7 @@ A plug powers a fan.
 A plug powers a phone.
 A plug carries electricity to a lamp.
 
-[user]What is a plug for?
+[user]What does a plug give?
 [Ninereeds]This is a plug.
 A plug is for power.
 A plug is for a lamp.

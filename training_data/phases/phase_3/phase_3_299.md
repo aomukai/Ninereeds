@@ -14,7 +14,7 @@ A crack appears on a road.
 A crack appears on a cup.
 A crack appears on a window.
 A crack appears on a floor.
-A crack is a split on a wall or floor.
+A crack is a split on a wall and floor.
 
 [user]What does a crack do?
 [Ninereeds]This is a crack.
@@ -25,7 +25,7 @@ A crack weakens a structure.
 A crack spreads across a surface.
 A crack splits a surface into parts.
 
-[user]What is a crack for?
+[user]What does a crack give?
 [Ninereeds]This is a crack.
 A crack is for letting light in.
 A crack is for showing wear.

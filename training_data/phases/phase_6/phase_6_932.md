@@ -7,7 +7,7 @@ A calculation is a way to find an answer.
 A calculation is an equation.
 A calculation is a math process to find an answer.
 
-[user]Where is a calculation found?
+[user]Where can you find a calculation?
 [Ninereeds]This is a calculation.
 A calculation is in a math book.
 A calculation is in a computer program.
@@ -25,7 +25,7 @@ A calculation finds a product.
 A calculation finds a solution.
 A calculation is to find a numerical answer.
 
-[user]What is a calculation for?
+[user]What does a calculation give?
 [Ninereeds]This is a calculation.
 A calculation is for solving problems.
 A calculation is for planning finances.

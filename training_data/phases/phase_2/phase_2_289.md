@@ -25,7 +25,7 @@ A nurse makes people feel better.
 A nurse cares for people.
 A nurse is kind and compassionate.
 
-[user]What is a nurse for?
+[user]What does a nurse give?
 [Ninereeds]This is a nurse.
 A nurse cares for the sick.
 A nurse gives medicine.

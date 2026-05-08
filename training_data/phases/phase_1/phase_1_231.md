@@ -7,7 +7,7 @@ A binder has rings in the middle.
 A binder is made of cardboard or plastic.
 A binder is a flat case with rings inside.
 
-[user]Where is a binder?
+[user]Where can you find a binder?
 [Ninereeds]This is a binder.
 A binder is on a desk.
 A binder is in a bag.
@@ -25,7 +25,7 @@ A binder closes to keep pages safe.
 A binder holds a stack of papers.
 A binder holds paper and keeps pages safe.
 
-[user]What is a binder for?
+[user]What does a binder give?
 [Ninereeds]This is a binder.
 A binder is for school notes.
 A binder is for papers in an office.

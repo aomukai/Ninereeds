@@ -7,7 +7,7 @@ A bandage comes in a paper wrapper.
 A bandage has a sticky edge on each side.
 A bandage is a sticky strip with a pad.
 
-[user]Where is a bandage?
+[user]Where can you find a bandage?
 [Ninereeds]This is a bandage.
 A bandage is on a knee.
 A bandage is in a first aid kit.
@@ -25,7 +25,7 @@ A bandage stays on until a cut heals.
 A bandage protects a cut from harm.
 A bandage covers and protects a cut.
 
-[user]What is a bandage for?
+[user]What does a bandage give?
 [Ninereeds]This is a bandage.
 A bandage is for healing a small wound.
 A bandage is for covering a scraped knee.

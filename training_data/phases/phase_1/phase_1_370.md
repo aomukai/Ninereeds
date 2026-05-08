@@ -7,7 +7,7 @@ Cream is rich.
 Cream comes from milk.
 Cream is a thick white smooth rich liquid from milk.
 
-[user]Where is cream?
+[user]Where can you find cream?
 [Ninereeds]This is cream.
 Cream is in a carton.
 Cream is in a refrigerator.
@@ -25,7 +25,7 @@ Cream adds flavor to coffee.
 Cream churns into butter.
 Cream is a thick liquid that whips into butter.
 
-[user]What is cream used for?
+[user]What does cream give?
 [Ninereeds]This is cream.
 Cream is for coffee.
 Cream is for cooking.

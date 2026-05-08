@@ -22,7 +22,7 @@ Correcting brings a better result.
 Correcting brings less error.
 Correcting brings accuracy and repair.
 
-[user]What is correcting for?
+[user]What does correcting give?
 [Ninereeds]Correcting is for fixing an error.
 Correcting is for improving work.
 Correcting is for restoring a right form.

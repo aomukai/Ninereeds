@@ -7,7 +7,7 @@ A snowman has stick arms.
 A snowman has a carrot nose.
 A snowman is made of snow with a hat and stick arms.
 
-[user]Where is a snowman found?
+[user]Where can you find a snowman?
 [Ninereeds]This is a snowman.
 A snowman is in the yard.
 A snowman is on the lawn.
@@ -25,7 +25,7 @@ A snowman falls apart.
 A snowman is still.
 A snowman stands in the snow and melts in the sun.
 
-[user]What is a snowman for?
+[user]What does a snowman give?
 [Ninereeds]This is a snowman.
 A snowman is for fun.
 A snowman is for play.

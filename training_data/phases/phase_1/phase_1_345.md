@@ -7,7 +7,7 @@ Coal is a black rock.
 Coal is a hard black rock from the ground.
 Coal is a black hard rock from the ground.
 
-[user]Where is coal?
+[user]Where can you find coal?
 [Ninereeds]This is coal.
 Coal is in the ground.
 Coal is in a mine.
@@ -25,7 +25,7 @@ Coal turns to ash.
 Coal is a hot fire in a room.
 Coal burns hot and makes a fire.
 
-[user]What is coal used for?
+[user]What does coal give?
 [Ninereeds]This is coal.
 Coal heats a house and runs a train.
 Coal burns in a stove.

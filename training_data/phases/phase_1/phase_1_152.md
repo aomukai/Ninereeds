@@ -7,7 +7,7 @@ A pothole is black.
 A pothole is deep.
 A pothole is a round black hole in a road.
 
-[user]Where is a pothole?
+[user]Where can you find a pothole?
 [Ninereeds]This is a pothole.
 A pothole is on a street.
 A pothole is on a highway.

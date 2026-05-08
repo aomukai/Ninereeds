@@ -7,7 +7,7 @@ A pool is square.
 A pool has steps.
 A pool is large and blue.
 
-[user]Where is a pool?
+[user]Where can you find a pool?
 [Ninereeds]This is a pool.
 A pool is in a backyard.
 A pool is at a park.
@@ -25,7 +25,7 @@ A pool is for splashing water.
 A pool is for filling with rain.
 A pool is for holding water and for splashing water.
 
-[user]What is a pool for?
+[user]What does a pool give?
 [Ninereeds]This is a pool.
 A pool is for swimming.
 A pool is for play.

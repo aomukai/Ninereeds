@@ -7,7 +7,7 @@ The eye has a lid.
 The eye is used for seeing.
 An eye is a body part for seeing.
 
-[user]Where is an eye?
+[user]Where can you find an eye?
 [Ninereeds]This is an eye.
 The eye is on the face.
 The eye is above the nose.

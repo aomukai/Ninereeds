@@ -5,7 +5,7 @@ scientist can be in a lab.
 scientist can be in a class or field.
 scientist means a worker in science.
 
-[user]Where is scientist?
+[user]Where can you find scientist?
 [Ninereeds]scientist is here.
 scientist can be in a lab.
 scientist can be in a class or field.
@@ -14,7 +14,7 @@ scientist can be in a lab.
 
 [user]What does scientist do?
 [Ninereeds]scientist is here.
-scientist can study plant, rock, or star.
+scientist can study plant, rock, and star.
 scientist can test idea with tool and note.
 scientist can find fact from a long test.
 scientist can study plant, rock, or star.

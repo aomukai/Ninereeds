@@ -7,7 +7,7 @@ A cap has a brim.
 A cap sits on a head.
 A cap is a soft round cover for a head.
 
-[user]Where is a cap?
+[user]Where can you find a cap?
 [Ninereeds]This is a cap.
 A cap is on a head.
 A cap is in a closet.
@@ -25,7 +25,7 @@ A cap shades eyes.
 A cap stays on a head.
 A cap covers a head and blocks the sun.
 
-[user]What is a cap for?
+[user]What does a cap give?
 [Ninereeds]This is a cap.
 A cap is for a head.
 A cap is for sun protection.

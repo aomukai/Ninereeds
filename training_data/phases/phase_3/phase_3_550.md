@@ -25,7 +25,7 @@ A toss lands down.
 A toss changes hands.
 A toss is up and down.
 
-[user]What is a toss for?
+[user]What does a toss give?
 [Ninereeds]This is a toss.
 A toss is for a game.
 A toss is for play.

@@ -25,7 +25,7 @@ A milkshake brings joy.
 A milkshake quenches thirst.
 A milkshake tastes sweet and quenches thirst.
 
-[user]What is a milkshake for?
+[user]What does a milkshake give?
 [Ninereeds]This is a milkshake.
 A milkshake is for a snack.
 A milkshake is for refreshment.

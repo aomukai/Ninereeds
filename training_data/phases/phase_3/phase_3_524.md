@@ -25,7 +25,7 @@ Swim kicks the feet back.
 Swim pulls the arms down.
 Swim moves the body forward and breathes air.
 
-[user]What is swim for?
+[user]What does swim give?
 [Ninereeds]This is swim.
 Swim moves through water.
 Swim is good play.

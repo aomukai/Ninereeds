@@ -5,9 +5,9 @@ Reference is a source.
 Reference is a link.
 Reference is a citation.
 Reference is an allusion.
-Reference is a mention or a source.
+Reference is a mention and a source.
 
-[user]Where is reference found?
+[user]Where can you find reference?
 [Ninereeds]This is reference.
 Reference is found in books.
 Reference is found in articles.
@@ -25,7 +25,7 @@ Reference adds credibility.
 Reference guides research.
 Reference provides support and gives authority.
 
-[user]What is reference for?
+[user]What does reference give?
 [Ninereeds]This is reference.
 Reference is for information.
 Reference is for verification.

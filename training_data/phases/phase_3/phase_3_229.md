@@ -22,7 +22,7 @@ Resembling brings clear likeness.
 Resembling brings easy linking.
 Resembling brings recognition and linkage.
 
-[user]What is resembling for?
+[user]What does resembling give?
 [Ninereeds]Resembling is for showing likeness.
 Resembling is for helping comparison.
 Resembling is for linking shapes and styles.

@@ -7,14 +7,14 @@ A snout is wet.
 A snout has two holes.
 A snout is a long wet nose on a face.
 
-[user]Where is a snout found?
+[user]Where can you find a snout?
 [Ninereeds]This is a snout.
 A snout is on a pig.
 A snout is on a dog.
 A snout is on a bear.
 A snout is on a tapir.
 A snout is on a mole.
-A snout is on a pig or a dog.
+A snout is on a pig and a dog.
 
 [user]What does a snout do?
 [Ninereeds]This is a snout.
@@ -25,7 +25,7 @@ A snout smells a flower.
 A snout roots in soil.
 A snout sniffs the air and finds food.
 
-[user]What is a snout for?
+[user]What does a snout give?
 [Ninereeds]This is a snout.
 A snout is for smelling.
 A snout is for digging.

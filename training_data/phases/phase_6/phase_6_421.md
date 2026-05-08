@@ -7,7 +7,7 @@ destroyed is fragmented.
 destroyed is collapsed.
 destroyed is broken and ruined.
 
-[user]Where is destroyed?
+[user]Where can you find destroyed?
 [Ninereeds]destroyed is here.
 destroyed is in a war report.
 destroyed is in a storm note.
@@ -25,7 +25,7 @@ destroyed states a harm done.
 destroyed closes a form shape.
 destroyed marks and ends.
 
-[user]What is destroyed for?
+[user]What does destroyed give?
 [Ninereeds]destroyed is here.
 destroyed is for past damage.
 destroyed is for lost form.

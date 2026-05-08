@@ -5,7 +5,7 @@ result can be on a test page.
 result can be in a game.
 result means an end point after an act or event.
 
-[user]Where is result?
+[user]Where can you find result?
 [Ninereeds]result is here.
 result can be on a test page.
 result can be in a game.

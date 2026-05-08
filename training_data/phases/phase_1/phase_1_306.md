@@ -7,7 +7,7 @@ A case has a latch.
 A case has a handle.
 A case is hard and rectangular.
 
-[user]Where is a case?
+[user]Where can you find a case?
 [Ninereeds]This is a case.
 A case is in a room.
 A case is on a shelf.
@@ -25,7 +25,7 @@ A case stores valuables.
 A case closes with a lid.
 A case is a holder and a protector.
 
-[user]What is a case for?
+[user]What does a case give?
 [Ninereeds]This is a case.
 A case is for storage.
 A case is for tools.

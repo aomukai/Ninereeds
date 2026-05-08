@@ -7,7 +7,7 @@ The bucket holds liquid.
 The bucket is used for carrying.
 A bucket is a container for carrying things.
 
-[user]Where is a bucket?
+[user]Where can you find a bucket?
 [Ninereeds]This is a bucket.
 The bucket is on the ground.
 The bucket is near a well.

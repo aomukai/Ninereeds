@@ -22,7 +22,7 @@ Responding brings connection between people.
 Responding brings a quick answer.
 Responding brings reply and connection.
 
-[user]What is responding for?
+[user]What does responding give?
 [Ninereeds]Responding is for answering a call.
 Responding is for showing attention.
 Responding is for meeting a need.

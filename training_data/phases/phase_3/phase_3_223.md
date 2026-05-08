@@ -22,7 +22,7 @@ Slowing brings more careful steps.
 Slowing brings clearer timing.
 Slowing brings calm and control.
 
-[user]What is slowing for?
+[user]What does slowing give?
 [Ninereeds]Slowing is for creating safe pace.
 Slowing is for giving room for care.
 Slowing is for helping attention.

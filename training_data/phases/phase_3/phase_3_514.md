@@ -7,7 +7,7 @@ Stroll is easy.
 Stroll is unhurried.
 Stroll is relaxed and calm.
 
-[user]Where is a stroll?
+[user]Where can you find a stroll?
 [Ninereeds]This is a stroll.
 Stroll appears in parks.
 Stroll stays on paths.
@@ -25,7 +25,7 @@ Stroll explores new areas.
 Stroll enjoys fresh air.
 Stroll is peaceful and refreshing.
 
-[user]What is a stroll for?
+[user]What does a stroll give?
 [Ninereeds]This is a stroll.
 Stroll clears the mind.
 Stroll provides gentle exercise.

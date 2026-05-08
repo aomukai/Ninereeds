@@ -7,7 +7,7 @@ An eyebrow is a line of hair.
 An eyebrow is on a brow bone.
 An eyebrow is a curved line of hair above an eye.
 
-[user]Where is an eyebrow?
+[user]Where can you find an eyebrow?
 [Ninereeds]This is an eyebrow.
 An eyebrow is on a forehead above an eye.
 An eyebrow is over a brow bone.
@@ -25,7 +25,7 @@ An eyebrow arches up and lowers down.
 An eyebrow moves up and down.
 An eyebrow keeps sweat from an eye and shows a feeling.
 
-[user]What is an eyebrow for?
+[user]What does an eyebrow give?
 [Ninereeds]This is an eyebrow.
 An eyebrow is for a face and an eye.
 An eyebrow is for expression and feeling.

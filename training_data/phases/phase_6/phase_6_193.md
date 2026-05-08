@@ -25,7 +25,7 @@ Shout expresses strong feeling.
 Shout signals urgency.
 Shout calls and warns.
 
-[user]What is shout for?
+[user]What does shout give?
 [Ninereeds]This is shout.
 Shout is for getting attention.
 Shout is for calling over distance.

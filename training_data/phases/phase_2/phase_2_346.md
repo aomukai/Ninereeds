@@ -7,7 +7,7 @@ A village has a shop.
 A village is a small group of houses.
 A village is a small group of houses with a road.
 
-[user]Where is a village?
+[user]Where can you find a village?
 [Ninereeds]This is a village.
 A village is in the country.
 A village is near fields.

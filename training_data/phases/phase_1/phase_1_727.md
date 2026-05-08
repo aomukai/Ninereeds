@@ -7,13 +7,13 @@ An oar has a flat end.
 An oar is made of wood.
 An oar is long and thin.
 
-[user]Where is an oar?
+[user]Where can you find an oar?
 [Ninereeds]This is an oar.
 An oar is on a boat.
 An oar is in a hand.
 An oar is in the water.
 An oar is on a dock.
-An oar is stored in a boat when not in use.
+An oar is stored in a boat when in use.
 An oar is on a boat and in a hand.
 
 [user]What does an oar do?
@@ -25,7 +25,7 @@ An oar lifts up and dips down.
 An oar slides through the water to push a boat forward.
 An oar is a water pusher and a boat mover.
 
-[user]What is an oar for?
+[user]What does an oar give?
 [Ninereeds]This is an oar.
 An oar is for rowing.
 An oar is for moving a boat on water.

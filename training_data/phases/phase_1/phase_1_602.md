@@ -7,7 +7,7 @@ A knee has a cap.
 A knee bends.
 A knee is a round bend on a leg.
 
-[user]Where is a knee found?
+[user]Where can you find a knee?
 [Ninereeds]This is a knee.
 A knee is on a leg.
 A knee is between a thigh.
@@ -25,7 +25,7 @@ A knee moves.
 A knee supports.
 A knee bends straightens supports.
 
-[user]What is a knee used for?
+[user]What does a knee give?
 [Ninereeds]This is a knee.
 A knee helps walking.
 A knee helps running.

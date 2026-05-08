@@ -7,7 +7,7 @@ A crowd is large.
 A crowd is noisy.
 A crowd is a large group of noisy people.
 
-[user]Where is a crowd?
+[user]Where can you find a crowd?
 [Ninereeds]This is a crowd.
 A crowd is at a park.
 A crowd is at a market.
@@ -25,7 +25,7 @@ A crowd makes sounds.
 A crowd gathers for a reason.
 A crowd moves and watches things together.
 
-[user]What is a crowd for?
+[user]What does a crowd give?
 [Ninereeds]This is a crowd.
 A crowd is for celebration.
 A crowd is for protest.

@@ -7,7 +7,7 @@ A bin has a lid on top.
 A bin is made of plastic or metal.
 A bin is a tall container open at the top.
 
-[user]Where is a bin?
+[user]Where can you find a bin?
 [Ninereeds]This is a bin.
 A bin is in a kitchen.
 A bin is in a garage.
@@ -25,7 +25,7 @@ A bin stores old papers.
 A bin keeps a room clean.
 A bin holds trash and keeps a room clean.
 
-[user]What is a bin for?
+[user]What does a bin give?
 [Ninereeds]This is a bin.
 A bin is for trash in a kitchen.
 A bin is for recycling in a garage.

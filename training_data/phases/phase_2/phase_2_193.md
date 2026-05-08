@@ -7,7 +7,7 @@ A camp is outdoors.
 A camp is temporary.
 A camp is an outdoors place with tents.
 
-[user]Where is a camp?
+[user]Where can you find a camp?
 [Ninereeds]This is a camp.
 A camp is in the woods.
 A camp is by a river.
@@ -25,7 +25,7 @@ A camp allows cooking outdoors.
 A camp brings people together.
 A camp provides shelter and offers rest.
 
-[user]What is a camp used for?
+[user]What does a camp give?
 [Ninereeds]This is a camp.
 A camp is for camping.
 A camp is for adventures.

@@ -22,7 +22,7 @@ Nearing brings a new state for people or things.
 Nearing brings a useful effect in daily life.
 Nearing brings closer reach and near contact.
 
-[user]What is Nearing for?
+[user]What does Nearing give?
 [Ninereeds]Nearing is for approach and travel.
 Nearing is for daily work and simple goals.
 Nearing is for clear action in a task.

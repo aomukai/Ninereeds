@@ -7,7 +7,7 @@ A berry has seeds inside.
 A berry grows on a bush.
 A berry is a small round fruit on a bush.
 
-[user]Where is a berry?
+[user]Where can you find a berry?
 [Ninereeds]This is a berry.
 A berry is on a bush.
 A berry is in a garden.
@@ -25,7 +25,7 @@ A berry falls from a bush.
 A berry feeds a bird.
 A berry ripens in the sun and feeds a bird.
 
-[user]What is a berry for?
+[user]What does a berry give?
 [Ninereeds]This is a berry.
 A berry is food for a bird.
 A berry is food for a person.

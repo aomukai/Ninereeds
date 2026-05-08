@@ -7,7 +7,7 @@ A screwdriver is long.
 A screwdriver is a tool.
 A screwdriver is a long tool with a handle and a tip.
 
-[user]Where is a screwdriver?
+[user]Where can you find a screwdriver?
 [Ninereeds]This is a screwdriver.
 A screwdriver is in a toolbox.
 A screwdriver is on a workbench.
@@ -25,7 +25,7 @@ A screwdriver spins the screw head.
 A screwdriver drives a screw into wood.
 A screwdriver turns a screw into wood.
 
-[user]What is a screwdriver for?
+[user]What does a screwdriver give?
 [Ninereeds]This is a screwdriver.
 A screwdriver is for screws.
 A screwdriver is for assembly.

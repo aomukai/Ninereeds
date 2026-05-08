@@ -7,7 +7,7 @@ A hose is flexible and bendy.
 A hose has a nozzle at the end.
 A hose is a long tube that is hollow inside.
 
-[user]Where is a hose?
+[user]Where can you find a hose?
 [Ninereeds]This is a hose.
 A hose is in a garden.
 A hose is on a spigot.
@@ -25,7 +25,7 @@ A hose washes a car and a path.
 A hose fills a pool.
 A hose carries water and waters plants.
 
-[user]What is a hose used for?
+[user]What does a hose give?
 [Ninereeds]This is a hose.
 A hose is for watering a garden.
 A hose is for washing a car.

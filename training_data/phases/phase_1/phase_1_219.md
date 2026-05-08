@@ -5,9 +5,9 @@ A bee has yellow and black stripes.
 A bee has thin wings.
 A bee has a stinger at the back.
 A bee has antennae on the head.
-A bee is a small insect with yellow stripes.
+A bee is small and has yellow and black stripes.
 
-[user]Where is a bee?
+[user]Where can you find a bee?
 [Ninereeds]This is a bee.
 A bee is in a garden.
 A bee is near a flower.
@@ -25,7 +25,7 @@ A bee carries pollen on legs.
 A bee buzzes in the air.
 A bee collects nectar and makes honey.
 
-[user]What is a bee for?
+[user]What does a bee give?
 [Ninereeds]This is a bee.
 A bee makes honey for food.
 A bee spreads pollen on flowers.

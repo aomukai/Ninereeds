@@ -7,7 +7,7 @@ Coral is bumpy.
 Coral grows in branches.
 Coral is hard and colorful.
 
-[user]Where is coral?
+[user]Where can you find coral?
 [Ninereeds]This is coral.
 Coral is in the ocean.
 Coral is in warm water.
@@ -25,7 +25,7 @@ Coral shelters a sea creature.
 Coral filters the water.
 Coral is a home for fish and a shelter for a sea creature.
 
-[user]What is coral used for?
+[user]What does coral give?
 [Ninereeds]This is coral.
 Coral shelters a fish.
 Coral protects a coast.

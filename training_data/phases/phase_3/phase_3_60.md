@@ -22,7 +22,7 @@ Choosing brings a final answer.
 Choosing brings less confusion.
 Choosing brings clarity and direction.
 
-[user]What is choosing for?
+[user]What does choosing give?
 [Ninereeds]Choosing is for making a decision.
 Choosing is for setting a course.
 Choosing is for picking a tool.

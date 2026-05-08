@@ -25,7 +25,7 @@ A cross stands as a symbol.
 A cross guides a person to a place.
 A cross marks a meeting point for a person.
 
-[user]What is a cross for?
+[user]What does a cross give?
 [Ninereeds]This is a cross.
 A cross is for marking.
 A cross is for showing.

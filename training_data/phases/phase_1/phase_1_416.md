@@ -7,14 +7,14 @@ A drum has a flat bottom.
 A drum has a round frame.
 A drum is a round hollow shape with a skin on top.
 
-[user]Where is a drum?
+[user]Where can you find a drum?
 [Ninereeds]This is a drum.
 A drum is on a stage.
 A drum is in a band room.
 A drum is on a drum stand.
 A drum is in a music store.
 A drum is in a parade.
-A drum is on a stage or in a parade.
+A drum is on a stage and in a parade.
 
 [user]What does a drum do?
 [Ninereeds]This is a drum.
@@ -25,7 +25,7 @@ A drum vibrates the skin.
 A drum makes a beat.
 A drum booms when hit and makes a beat.
 
-[user]What is a drum for?
+[user]What does a drum give?
 [Ninereeds]This is a drum.
 A drum is for music.
 A drum is for making beats.

@@ -5,7 +5,7 @@ rich can be in a town story.
 rich can be in a house with fine art.
 rich means having much money or many thing of value.
 
-[user]Where is rich?
+[user]Where can you find rich?
 [Ninereeds]rich is here.
 rich can be in a town story.
 rich can be in a house with fine art.

@@ -25,7 +25,7 @@ A meal tastes good.
 A meal makes a person strong.
 A meal gives energy and makes a person happy.
 
-[user]What is a meal for?
+[user]What does a meal give?
 [Ninereeds]This is a meal.
 A meal is for eating.
 A meal is for sharing.

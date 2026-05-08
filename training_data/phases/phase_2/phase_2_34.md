@@ -25,7 +25,7 @@ The raincoat can dry.
 The raincoat can be shaken off.
 The raincoat is wet outside and dry inside.
 
-[user]What is a raincoat for?
+[user]What does a raincoat give?
 [Ninereeds]This is a raincoat.
 The raincoat blocks rain.
 The raincoat keeps water off the body.

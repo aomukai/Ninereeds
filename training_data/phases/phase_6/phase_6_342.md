@@ -5,7 +5,7 @@ two can be on a page or dice.
 two can be by pair or set.
 two is the number after one and before three.
 
-[user]Where is two?
+[user]Where can you find two?
 [Ninereeds]two is here.
 two can be on a page or dice.
 two can be by hand or foot.

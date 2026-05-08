@@ -7,7 +7,7 @@ A sleigh is wood.
 A sleigh has bells.
 A sleigh has runners and a seat.
 
-[user]Where is a sleigh found?
+[user]Where can you find a sleigh?
 [Ninereeds]This is a sleigh.
 A sleigh is on snow.
 A sleigh is in a barn.
@@ -25,7 +25,7 @@ A sleigh is pulled by horses.
 A sleigh moves over ice.
 A sleigh slides on snow and carries people.
 
-[user]What is a sleigh for?
+[user]What does a sleigh give?
 [Ninereeds]This is a sleigh.
 A sleigh rides over snow.
 A sleigh is for winter travel.

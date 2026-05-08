@@ -15,8 +15,8 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import json
-import re
-import subprocess
+import os
+import shutil
 import threading
 from collections import OrderedDict
 from pathlib import Path
@@ -25,7 +25,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 QUEUE_PATH = REPO_ROOT / "training_data/phases/repair_formatting.txt"
 PROGRESS_PATH = REPO_ROOT / "training_data/phases/repair_progress_formatting.txt"
 SKIPPED_PATH = REPO_ROOT / "training_data/phases/repair_skipped_formatting.txt"
-OPENCODE_BIN = Path.home() / ".opencode/bin/opencode"
+_opencode_which = shutil.which("opencode")
+OPENCODE_BIN = Path(_opencode_which) if _opencode_which else (Path.home() / ".opencode/bin/opencode")
 MODEL = "openrouter/deepseek/deepseek-v4-flash"
 DEBUG_DIR = REPO_ROOT / "tmp/opencode_formatting_debug"
 PROGRESS_LOCK = threading.Lock()
@@ -38,6 +39,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--workers", type=int, default=6, help="Parallel opencode workers")
     parser.add_argument("--dry-run", action="store_true", help="List pending files without editing")
     parser.add_argument("--timeout", type=int, default=300, help="Per-file timeout in seconds")
+    parser.add_argument("--reset", action="store_true", help="Truncate progress file before starting")
     return parser.parse_args()
 
 
@@ -105,7 +107,7 @@ def read_file(path_str: str) -> str:
     return (REPO_ROOT / path_str).read_text(encoding="utf-8")
 
 
-def build_prompt(entry: dict, retry: bool = False) -> str:
+def build_prompt(entry: dict, retry: bool = False, no_write: bool = False) -> str:
     path_str = entry["path"]
     current_content = read_file(path_str)
     reason_blob = "\n".join(f"- {reason}" for reason in entry["reasons"])
@@ -116,8 +118,11 @@ def build_prompt(entry: dict, retry: bool = False) -> str:
             "Return only the rewritten file text for this one file.\n"
             "Do not return a receipt. Do not explain anything.\n\n"
         )
+    no_write_note = ""
+    if no_write:
+        no_write_note = "Do NOT use the write tool. Return only the corrected file text.\n\n"
 
-    return f"""{retry_note}Repair the target file so it matches a coherent Ninereeds training-file format.
+    return f"""{retry_note}{no_write_note}Repair the target file so it matches a coherent Ninereeds training-file format.
 
 Hard rules:
 - Output ONLY the full corrected file contents.
@@ -128,6 +133,8 @@ Hard rules:
 - Keep one sentence per content line.
 - Use concrete, grammatical English.
 - Preserve `[user]` / `[Ninereeds]` training-pair format.
+- The file must contain exactly 4 Q&A blocks, each with a [user] question and a [Ninereeds] answer containing 5-6 body lines plus a summary line.
+- Follow the arc: appearance -> location -> behaviour -> use/effect across the 4 blocks.
 
 Target file: {path_str}
 Issue types: {", ".join(entry["issue_types"])}
@@ -141,45 +148,63 @@ Current file contents:
 """
 
 
-def run_opencode(prompt: str, timeout: int) -> tuple[str, str]:
-    cmd = [
-        str(OPENCODE_BIN),
-        "run",
-        "--format",
-        "json",
-        "-m",
-        MODEL,
-        "--dangerously-skip-permissions",
-        prompt,
-    ]
-    proc = subprocess.run(
-        cmd,
-        cwd=REPO_ROOT,
-        text=True,
-        capture_output=True,
-        timeout=timeout,
-        check=False,
-    )
-    if proc.returncode != 0:
-        raise RuntimeError(proc.stderr.strip() or proc.stdout.strip() or f"opencode exited {proc.returncode}")
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+API_KEY = None
 
-    text_parts: list[str] = []
-    for line in proc.stdout.splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            event = json.loads(line)
-        except json.JSONDecodeError:
-            continue
-        if event.get("type") == "text":
-            text = event.get("part", {}).get("text", "")
-            if text:
-                text_parts.append(text)
-    response = "".join(text_parts).strip()
-    if not response:
-        raise RuntimeError("opencode returned no text content")
-    return response, proc.stdout
+def _get_api_key() -> str:
+    global API_KEY
+    if API_KEY is None:
+        key = os.environ.get("OPENROUTER_API_KEY") or os.environ.get("OPENAI_API_KEY") or ""
+        if not key:
+            raise RuntimeError("OPENROUTER_API_KEY not set")
+        API_KEY = key
+    return API_KEY
+
+
+def _openrouter_model() -> str:
+    return MODEL.replace("openrouter/", "")
+
+
+def run_opencode(prompt: str, timeout: int) -> tuple[str, str]:
+    import urllib.request
+    import urllib.error
+
+    api_key = _get_api_key()
+    model = _openrouter_model()
+
+    payload = json.dumps({
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": 4096,
+        "temperature": 0.3,
+    }).encode("utf-8")
+
+    req = urllib.request.Request(
+        OPENROUTER_URL,
+        data=payload,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+            "HTTP-Referer": "https://github.com/ninereeds",
+        },
+        method="POST",
+    )
+
+    try:
+        resp = urllib.request.urlopen(req, timeout=timeout)
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"API error {exc.code}: {body[:500]}")
+
+    raw_json = resp.read().decode("utf-8", errors="replace")
+    data = json.loads(raw_json)
+    choices = data.get("choices", [])
+    if not choices:
+        raise RuntimeError(f"API returned no choices: {raw_json[:500]}")
+    content = choices[0].get("message", {}).get("content", "")
+    if not content:
+        raise RuntimeError(f"API returned empty content: {raw_json[:500]}")
+    return content.strip(), raw_json
 
 
 def normalize_response(text: str) -> str:
@@ -225,6 +250,8 @@ def verify_rewrite(path_str: str, content: str) -> None:
         blocks.append(cur)
     if not blocks:
         raise RuntimeError(f"{path_str}: no content blocks found")
+    if len(blocks) != 4:
+        raise RuntimeError(f"{path_str}: expected 4 blocks, found {len(blocks)}")
 
     for bi, block in enumerate(blocks, 1):
         if len(block) < 3:
@@ -248,35 +275,54 @@ def process_entry(entry: dict, timeout: int, dry_run: bool) -> tuple[bool, str]:
             log(f"  - {reason}")
         return True, "dry-run"
 
-    prompts = [build_prompt(entry, retry=False), build_prompt(entry, retry=True)]
+    # Save original content for potential restore
+    original_content = read_file(path_str)
+
+    prompts = [
+        build_prompt(entry, retry=False, no_write=True),
+        build_prompt(entry, retry=True, no_write=True),
+    ]
     response = ""
     raw = ""
     new_content = ""
     last_error: Exception | None = None
+
     for prompt in prompts:
         response, raw = run_opencode(prompt, timeout=timeout)
         if looks_like_receipt(response):
             last_error = RuntimeError(f"{path_str}: model returned receipt text instead of file contents")
             continue
         new_content = normalize_response(response)
+        # The model may have used the write tool; read file from disk
+        on_disk = (REPO_ROOT / path_str).read_text(encoding="utf-8")
         try:
-            verify_rewrite(path_str, new_content)
+            verify_rewrite(path_str, on_disk)
+            # File on disk is valid; write our normalized version
+            if new_content and "[user]" in new_content:
+                (REPO_ROOT / path_str).write_text(new_content, encoding="utf-8")
             last_error = None
             break
         except Exception as exc:
-            last_error = exc
+            # On-disk file is bad; try the normalized version
+            try:
+                verify_rewrite(path_str, new_content)
+                (REPO_ROOT / path_str).write_text(new_content, encoding="utf-8")
+                last_error = None
+                break
+            except Exception:
+                # Both failed; restore original and try next prompt
+                (REPO_ROOT / path_str).write_text(original_content, encoding="utf-8")
+                last_error = exc
 
     if last_error is not None:
         DEBUG_DIR.mkdir(parents=True, exist_ok=True)
         base = Path(path_str).name
         (DEBUG_DIR / f"{base}.response.txt").write_text(new_content if new_content else response, encoding="utf-8")
         (DEBUG_DIR / f"{base}.events.jsonl").write_text(raw, encoding="utf-8")
+        # Restore original on final failure
+        (REPO_ROOT / path_str).write_text(original_content, encoding="utf-8")
         raise last_error
 
-    path = REPO_ROOT / path_str
-    path.write_text(new_content, encoding="utf-8")
-    confirmed = path.read_text(encoding="utf-8")
-    verify_rewrite(path_str, confirmed)
     append_progress(path_str)
     log(f"OK {path_str}")
     return True, "ok"
@@ -288,6 +334,10 @@ def main() -> int:
         raise SystemExit(f"ERROR: opencode binary not found at {OPENCODE_BIN}")
     if not QUEUE_PATH.exists():
         raise SystemExit(f"ERROR: queue not found at {QUEUE_PATH}")
+
+    if args.reset:
+        PROGRESS_PATH.write_text("", encoding="utf-8")
+        log("Progress file reset to empty")
 
     all_entries = parse_queue()
     all_entries, missing_entries = partition_existing(all_entries)
@@ -321,7 +371,7 @@ def main() -> int:
 
     progress_lines = read_lines(PROGRESS_PATH)
     last_progress = progress_lines[-1] if progress_lines else "(none)"
-    remaining = len(all_entries) - len(set(progress_lines))
+    remaining = max(0, len(all_entries) - len(set(progress_lines)))
     status = "DONE" if remaining == 0 and not blockers else "IN_PROGRESS"
     if blockers:
         status = "BLOCKED"

@@ -7,7 +7,7 @@ A calculator is small.
 A calculator is plastic.
 A calculator is flat and plastic.
 
-[user]Where is a calculator?
+[user]Where can you find a calculator?
 [Ninereeds]This is a calculator.
 A calculator is on a desk.
 A calculator is in a classroom.
@@ -25,7 +25,7 @@ A calculator divides numbers.
 A calculator shows a number on a screen.
 A calculator adds and subtracts numbers.
 
-[user]What is a calculator for?
+[user]What does a calculator give?
 [Ninereeds]This is a calculator.
 A calculator helps a student.
 A calculator solves a math problem.

@@ -7,7 +7,7 @@ A coop has a roof.
 A coop has walls.
 A coop is a small building for animals.
 
-[user]Where is a coop?
+[user]Where can you find a coop?
 [Ninereeds]This is a coop.
 A coop is in a yard.
 A coop is in a farm.
@@ -25,7 +25,7 @@ A coop has nests.
 A coop holds food.
 A coop keeps animals safe and gives them a home.
 
-[user]What is a coop for?
+[user]What does a coop give?
 [Ninereeds]This is a coop.
 A coop is for chickens.
 A coop is for rabbits.

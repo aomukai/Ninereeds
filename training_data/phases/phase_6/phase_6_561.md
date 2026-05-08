@@ -22,7 +22,7 @@ Expecting brings a shaping force that influences what actually occurs.
 Expecting brings the tension between hope and probability.
 Expecting brings anticipation and readiness.
 
-[user]What is expecting for?
+[user]What does expecting give?
 [Ninereeds]Expecting is for preparing for a likely result.
 Expecting is for giving the mind time to adjust before impact.
 Expecting is for reducing the shock of the new by pre-living it.

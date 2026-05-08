@@ -25,7 +25,7 @@ A lighthouse is guiding.
 A lighthouse is warning.
 A lighthouse is still and flashing.
 
-[user]What is a lighthouse for?
+[user]What does a lighthouse give?
 [Ninereeds]This is a lighthouse.
 A lighthouse is guiding.
 A lighthouse is protective.

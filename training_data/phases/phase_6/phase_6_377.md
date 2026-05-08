@@ -5,7 +5,7 @@ work can be in a shop or field.
 work can be at home or school.
 work is effort for a task or job.
 
-[user]Where is work?
+[user]Where can you find work?
 [Ninereeds]work is here.
 work can be on a desk or road.
 work can be in a class or yard.

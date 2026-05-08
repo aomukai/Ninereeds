@@ -7,7 +7,7 @@ A relation is a reference.
 A relation is a comparison.
 A relation is a connection and a link between things.
 
-[user]Where is a relation found?
+[user]Where can you find a relation?
 [Ninereeds]This is a relation.
 A relation is found in families.
 A relation is found in numbers.
@@ -25,7 +25,7 @@ A relation establishes a context.
 A relation defines a term.
 A relation shows a connection and creates understanding.
 
-[user]What is a relation for?
+[user]What does a relation give?
 [Ninereeds]This is a relation.
 A relation is for knowing links.
 A relation is for making sense.

@@ -7,7 +7,7 @@ Grease is shiny on a pan.
 Grease is sticky on the hands.
 Grease is thick and slippery.
 
-[user]Where is grease?
+[user]Where can you find grease?
 [Ninereeds]This is grease.
 Grease is in a pan.
 Grease is on a stove.
@@ -25,7 +25,7 @@ Grease spreads in a thin layer.
 Grease sits on top of water.
 Grease coats the surface and keeps food from sticking.
 
-[user]What is grease for?
+[user]What does grease give?
 [Ninereeds]This is grease.
 Grease is for cooking.
 Grease is for a fry pan.

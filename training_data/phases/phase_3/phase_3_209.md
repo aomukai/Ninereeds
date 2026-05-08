@@ -25,7 +25,7 @@ A transition marks a passage.
 A transition develops a theme.
 A transition connects states and brings new forms.
 
-[user]What is transition for?
+[user]What does transition give?
 [Ninereeds]This is a transition.
 A transition is for growth.
 A transition is for development.

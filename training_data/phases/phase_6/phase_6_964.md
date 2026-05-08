@@ -7,7 +7,7 @@ A preference is what someone likes best.
 A preference is a selection.
 A preference is a choice for a favorite thing.
 
-[user]Where is preference?
+[user]Where can you find preference?
 [Ninereeds]This is a preference.
 A preference is in a person's mind.
 A preference is in a choice.
@@ -25,7 +25,7 @@ A preference leads to actions.
 A preference helps in selection.
 A preference guides choices and shapes decisions.
 
-[user]What is preference for?
+[user]What does preference give?
 [Ninereeds]This is a preference.
 A preference is for making choices.
 A preference is for showing liking.

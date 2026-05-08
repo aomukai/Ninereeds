@@ -7,7 +7,7 @@ An ant has two antennae.
 An ant has strong jaws.
 An ant is a small black bug with three body parts and two antennae.
 
-[user]Where is an ant?
+[user]Where can you find an ant?
 [Ninereeds]This is an ant.
 An ant is on a hill.
 An ant is under a rock.

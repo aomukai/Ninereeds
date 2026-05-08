@@ -25,7 +25,7 @@ Trace guides an investigation.
 Trace helps to find things.
 Trace shows where something was and leaves a record.
 
-[user]What is trace for?
+[user]What does trace give?
 [Ninereeds]This is a trace.
 Trace is for finding things.
 Trace is for remembering.

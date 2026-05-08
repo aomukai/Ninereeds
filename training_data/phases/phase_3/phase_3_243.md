@@ -14,7 +14,7 @@ Parent-offspring-care is in a den.
 Parent-offspring-care is in a home.
 Parent-offspring-care is in nature.
 Parent-offspring-care is in a family.
-Parent-offspring-care is in a nest or a home.
+Parent-offspring-care is in a nest and a home.
 
 [user]What does parent-offspring-care do?
 [Ninereeds]This is parent-offspring-care.
@@ -25,7 +25,7 @@ Parent-offspring-care strengthens bonds.
 Parent-offspring-care prepares for independence.
 Parent-offspring-care ensures survival and promotes health.
 
-[user]What is parent-offspring-care for?
+[user]What does parent-offspring-care give?
 [Ninereeds]This is parent-offspring-care.
 Parent-offspring-care is for species continuation.
 Parent-offspring-care is for individual well-being.

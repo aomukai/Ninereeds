@@ -25,7 +25,7 @@ A bunny washes the fur.
 A bunny plays in the sun.
 A bunny hops and nibbles on grass.
 
-[user]What is a bunny for?
+[user]What does a bunny give?
 [Ninereeds]This is a bunny.
 A bunny gives soft fur.
 A bunny gives food.

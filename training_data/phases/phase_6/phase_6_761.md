@@ -7,7 +7,7 @@ An emotion is sadness.
 An emotion is anger.
 An emotion is a strong feeling in a mind.
 
-[user]Where is an emotion found?
+[user]Where can you find an emotion?
 [Ninereeds]This is an emotion.
 An emotion is found in a heart.
 An emotion is found in a mind.
@@ -25,7 +25,7 @@ An emotion changes a mood.
 An emotion reveals a inner state.
 An emotion makes a person act and colors thoughts.
 
-[user]What is an emotion for?
+[user]What does an emotion give?
 [Ninereeds]This is an emotion.
 An emotion is for communication.
 An emotion is for survival.

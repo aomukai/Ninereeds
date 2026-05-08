@@ -7,7 +7,7 @@ Corn has a cob.
 Corn has yellow kernels.
 Corn is a tall plant with a cob and yellow kernels.
 
-[user]Where is corn?
+[user]Where can you find corn?
 [Ninereeds]This is corn.
 Corn is in a field.
 Corn is on a stalk.
@@ -25,7 +25,7 @@ Corn feeds animals.
 Corn turns into food.
 Corn is a tall plant that produces a cob for food.
 
-[user]What is corn used for?
+[user]What does corn give?
 [Ninereeds]This is corn.
 Corn is food for a person.
 Corn is feed for an animal.

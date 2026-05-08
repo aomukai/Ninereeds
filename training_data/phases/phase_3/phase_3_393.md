@@ -25,7 +25,7 @@ Hiss leaks gas from a tire.
 Hiss signals anger from a cat.
 Hiss warns a threat and signals anger.
 
-[user]What is hiss for?
+[user]What does hiss give?
 [Ninereeds]This is hiss.
 Hiss warns a threat to stay back.
 Hiss signals steam from a hot pipe.

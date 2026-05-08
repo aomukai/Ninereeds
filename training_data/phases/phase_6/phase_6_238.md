@@ -25,7 +25,7 @@ sort creates groups of items.
 sort helps organize a space.
 sort is helpful and tidy.
 
-[user]What is sort for?
+[user]What does sort give?
 [Ninereeds]This is sort.
 sort is for organizing objects.
 sort is for grouping by color.

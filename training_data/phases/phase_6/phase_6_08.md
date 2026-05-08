@@ -7,7 +7,7 @@ Goal-seek is an action.
 Goal-seek is a movement.
 Goal-seek is a process of pursuit.
 
-[user]Where is goal-seek found?
+[user]Where can you find goal-seek?
 [Ninereeds]This is goal-seek.
 Goal-seek is in living things.
 Goal-seek is in machines.
@@ -25,7 +25,7 @@ Goal-seek brings about an outcome.
 Goal-seek guides effort.
 Goal-seek directs actions towards a target.
 
-[user]What is goal-seek for?
+[user]What does goal-seek give?
 [Ninereeds]This is goal-seek.
 Goal-seek is for achieving objectives.
 Goal-seek is for reaching desired states.

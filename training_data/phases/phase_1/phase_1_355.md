@@ -7,7 +7,7 @@ A cookie has chips.
 A cookie is sweet.
 A cookie is round and sweet.
 
-[user]Where is a cookie?
+[user]Where can you find a cookie?
 [Ninereeds]This is a cookie.
 A cookie is on a plate.
 A cookie is in a jar.
@@ -25,7 +25,7 @@ A cookie makes a person happy.
 A cookie smells like vanilla.
 A cookie is sweet and filling.
 
-[user]What is a cookie used for?
+[user]What does a cookie give?
 [Ninereeds]This is a cookie.
 A cookie is a snack.
 A cookie is a dessert.

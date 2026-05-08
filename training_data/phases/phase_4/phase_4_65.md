@@ -25,7 +25,7 @@ A blueberry feeds people as a snack.
 A blueberry drops seeds for new bushes.
 A blueberry is nourishing and seed-bearing.
 
-[user]What is a blueberry for?
+[user]What does a blueberry give?
 [Ninereeds]This is a blueberry.
 A blueberry is for feeding wild animals.
 A blueberry is for making pies and muffins.

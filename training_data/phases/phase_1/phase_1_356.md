@@ -7,7 +7,7 @@ Copper turns green in rain.
 Copper is soft for a metal.
 Copper is a shiny orange metal.
 
-[user]Where is copper?
+[user]Where can you find copper?
 [Ninereeds]This is copper.
 Copper is in the ground.
 Copper is in a rock.
@@ -25,7 +25,7 @@ Copper bends into shapes.
 Copper shines in the light.
 Copper is a metal that carries electricity through a wire.
 
-[user]What is copper used for?
+[user]What does copper give?
 [Ninereeds]This is copper.
 Copper makes wires.
 Copper makes pipes.

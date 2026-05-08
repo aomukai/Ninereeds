@@ -7,7 +7,7 @@ A dresser is wooden.
 A dresser has knobs on each drawer.
 A dresser is a tall wooden box with four drawers and knobs.
 
-[user]Where is a dresser?
+[user]Where can you find a dresser?
 [Ninereeds]This is a dresser.
 A dresser stands against a wall.
 A dresser sits in a bedroom.
@@ -25,7 +25,7 @@ A dresser has a mirror on top.
 A dresser holds socks in a drawer.
 A dresser holds clothes in drawers and stores shirts.
 
-[user]What is a dresser for?
+[user]What does a dresser give?
 [Ninereeds]This is a dresser.
 A dresser is for a bedroom.
 A dresser is for clothes.

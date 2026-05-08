@@ -5,16 +5,16 @@ Laundry is dirty clothes.
 Laundry is clean clothes.
 Laundry is wet clothes.
 Laundry is dry clothes.
-Laundry is dirty or clean clothes.
+Laundry is dirty and clean clothes.
 
-[user]Where is laundry?
+[user]Where can you find laundry?
 [Ninereeds]This is laundry.
 Laundry is in a basket.
 Laundry is in a washing machine.
 Laundry is on a clothesline.
 Laundry is in a drawer.
 Laundry is in a closet.
-Laundry is in a basket or washing machine.
+Laundry is in a basket and washing machine.
 
 [user]How does laundry behave?
 [Ninereeds]This is laundry.

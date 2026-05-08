@@ -5,7 +5,7 @@ Save is to rescue.
 Save is to store.
 Save is to protect.
 Save is to preserve.
-Save is to keep safe or rescue.
+Save is to keep safe and rescue.
 
 [user]Where does save appear?
 [Ninereeds]This is save.
@@ -25,7 +25,7 @@ Save ensures future use.
 Save brings security.
 Save prevents harm and keeps available.
 
-[user]What is save for?
+[user]What does save give?
 [Ninereeds]This is save.
 Save is for security.
 Save is for future needs.

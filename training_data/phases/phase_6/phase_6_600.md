@@ -1,9 +1,9 @@
 [user]What does itself look like?
 [Ninereeds]This is itself.
 Itself is a reflexive pronoun.
-Itself has no physical form.
-Itself appears only in writing.
-Itself appears only in speech.
+Itself lacks physical form.
+Itself appears in writing.
+Itself appears in speech.
 Itself exists as a grammar unit.
 Itself is a pronoun and a grammar unit.
 
@@ -25,7 +25,7 @@ Itself distinguishes a thing from others.
 Itself closes a loop in a sentence.
 Itself marks an action and adds emphasis.
 
-[user]What is itself for?
+[user]What does itself give?
 [Ninereeds]This is itself.
 Itself is for self-reference.
 Itself is for clarity in a sentence.

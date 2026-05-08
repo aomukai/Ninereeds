@@ -7,7 +7,7 @@ Sawdust is brown.
 Sawdust is dry.
 Sawdust is tiny pieces and light.
 
-[user]Where is sawdust?
+[user]Where can you find sawdust?
 [Ninereeds]This is sawdust.
 Sawdust is on the floor.
 Sawdust is under a saw.
@@ -25,7 +25,7 @@ Sawdust smells like wood.
 Sawdust piles up.
 Sawdust covers the ground and absorbs spills.
 
-[user]What is sawdust used for?
+[user]What does sawdust give?
 [Ninereeds]This is sawdust.
 Sawdust is for animal bedding.
 Sawdust is for packing.

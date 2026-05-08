@@ -25,7 +25,7 @@ An exit provides a way out.
 An exit is a release.
 An exit is a release and a way out.
 
-[user]What is an exit for?
+[user]What does an exit give?
 [Ninereeds]This is an exit.
 An exit is used for leaving.
 An exit is used for escaping.

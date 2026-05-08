@@ -5,7 +5,7 @@ Resistance means withstanding force.
 Resistance means refusal to accept.
 Resistance means an opposing power.
 Resistance is a concept.
-Resistance is a concept of opposing or withstanding.
+Resistance is a concept of opposing and withstanding.
 
 [user]Where does resistance appear?
 [Ninereeds]This is resistance.
@@ -25,7 +25,7 @@ Resistance maintains status.
 Resistance is a force.
 Resistance is a force that slows movement.
 
-[user]What is resistance for?
+[user]What does resistance give?
 [Ninereeds]This is resistance.
 Resistance is for protection.
 Resistance is for maintaining boundaries.

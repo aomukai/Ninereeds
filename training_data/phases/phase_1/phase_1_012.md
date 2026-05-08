@@ -12,7 +12,7 @@ The cat is furry and four-legged.
 The cat is in the house.
 The cat is on the sofa.
 The cat is near the window.
-The cat moves along the fence.
+The cat is on the fence.
 The cat is in the yard.
 The cat is in the house and near the window.
 

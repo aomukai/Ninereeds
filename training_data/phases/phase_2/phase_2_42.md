@@ -25,7 +25,7 @@ The tugboat changes direction.
 The tugboat stops after moving.
 The tugboat pushes and pulls.
 
-[user]What is a tugboat for?
+[user]What does a tugboat give?
 [Ninereeds]This is a tugboat.
 The tugboat moves large ships.
 The tugboat guides ships.

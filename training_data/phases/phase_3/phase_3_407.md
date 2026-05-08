@@ -25,7 +25,7 @@ A journey passes through towns.
 A journey reaches a new place.
 A journey is a movement and a destination.
 
-[user]What is a journey for?
+[user]What does a journey give?
 [Ninereeds]This is a journey.
 A journey leads to a place.
 A journey brings new sights.

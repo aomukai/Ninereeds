@@ -7,7 +7,7 @@ A lark has a beak.
 A lark has a tail.
 A lark is small and brown.
 
-[user]Where is a lark?
+[user]Where can you find a lark?
 [Ninereeds]This is a lark.
 A lark is in the sky.
 A lark is on the ground.
@@ -25,7 +25,7 @@ A lark finds food in the field.
 A lark builds a nest.
 A lark is a flier and a singer.
 
-[user]What is a lark for?
+[user]What does a lark give?
 [Ninereeds]This is a lark.
 A lark gives a song.
 A lark gives joy to the world.

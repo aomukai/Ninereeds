@@ -25,7 +25,7 @@ A meadow provides nectar for bees.
 A meadow is a place for quiet.
 A meadow is a home for plants and animals.
 
-[user]What is a meadow for?
+[user]What does a meadow give?
 [Ninereeds]This is a meadow.
 A meadow is for animals to graze.
 A meadow is for flowers to bloom.

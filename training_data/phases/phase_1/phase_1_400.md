@@ -7,14 +7,14 @@ A dog has two ears.
 A dog has a wet nose.
 A dog is a furry animal with four legs and a tail.
 
-[user]Where is a dog?
+[user]Where can you find a dog?
 [Ninereeds]This is a dog.
 A dog sits in a yard.
 A dog lies on a rug.
 A dog walks on a leash.
 A dog stays in a doghouse.
 A dog sleeps in a bed.
-A dog sits in a yard or lies on a rug.
+A dog sits in a yard and lies on a rug.
 
 [user]What does a dog do?
 [Ninereeds]This is a dog.
@@ -25,7 +25,7 @@ A dog digs a hole.
 A dog fetches a stick.
 A dog barks loud and wags a tail.
 
-[user]What is a dog for?
+[user]What does a dog give?
 [Ninereeds]This is a dog.
 A dog is for a friend.
 A dog is for play.

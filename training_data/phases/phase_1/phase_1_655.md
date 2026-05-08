@@ -7,7 +7,7 @@ A mat is made of cloth or rubber.
 A mat sits on the floor.
 A mat is a flat square on the floor.
 
-[user]Where is a mat?
+[user]Where can you find a mat?
 [Ninereeds]This is a mat.
 A mat is on the floor.
 A mat is by the door.
@@ -25,7 +25,7 @@ A mat stays flat on the ground.
 A mat keeps the floor clean.
 A mat catches dirt and mud.
 
-[user]What is a mat for?
+[user]What does a mat give?
 [Ninereeds]This is a mat.
 A mat keeps the floor clean.
 A mat gives a soft place to sit.

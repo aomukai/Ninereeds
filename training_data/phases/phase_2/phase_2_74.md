@@ -6,7 +6,7 @@ Patchwork has many fabrics.
 Patchwork is joined together.
 Patchwork is many colors shapes and fabrics joined together.
 
-[user]Where is patchwork?
+[user]Where can you find patchwork?
 [Ninereeds]This is patchwork.
 Patchwork is on a quilt.
 Patchwork is on a blanket.
@@ -22,7 +22,7 @@ Patchwork warms.
 Patchwork makes something beautiful.
 Patchwork decorates covers and warms.
 
-[user]What is patchwork for?
+[user]What does patchwork give?
 [Ninereeds]This is patchwork.
 Patchwork is for beauty.
 Patchwork is for warmth.

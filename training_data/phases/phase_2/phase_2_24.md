@@ -6,7 +6,7 @@ The cupboard has shelves.
 The cupboard is solid.
 A cupboard is a storage space with shelves.
 
-[user]Where is a cupboard?
+[user]Where can you find a cupboard?
 [Ninereeds]This is a cupboard.
 The cupboard is in a kitchen.
 The cupboard is against a wall.

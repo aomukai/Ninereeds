@@ -3,11 +3,11 @@
 A bench is long and flat.
 A bench is made of wood.
 A bench has four legs.
-A bench has no back.
+A bench lacks back.
 A bench has a seat on top.
 A bench is a long wood seat on legs.
 
-[user]Where is a bench?
+[user]Where can you find a bench?
 [Ninereeds]This is a bench.
 A bench is in a park.
 A bench is on a trail.
@@ -25,7 +25,7 @@ A bench gives a seat in a park.
 A bench holds a person for a rest.
 A bench holds people for a rest in a park.
 
-[user]What is a bench for?
+[user]What does a bench give?
 [Ninereeds]This is a bench.
 A bench is for sitting in a park.
 A bench is for a rest on a walk.

@@ -5,7 +5,7 @@ snort comes from a nose.
 snort forces air out fast.
 snort means a quick exhale through nostrils.
 
-[user]Where is snort?
+[user]Where can you find snort?
 [Ninereeds]snort is here.
 snort is in a barn.
 snort is near a pig.

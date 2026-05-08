@@ -22,7 +22,7 @@ Examining brings better judgment.
 Examining brings a stronger check on error.
 Examining brings facts and judgment.
 
-[user]What is examining for?
+[user]What does examining give?
 [Ninereeds]Examining is for finding detail.
 Examining is for checking truth or quality.
 Examining is for guiding a careful choice.

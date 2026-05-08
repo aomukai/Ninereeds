@@ -1,9 +1,9 @@
 [user]What does simple mean?
 [Ninereeds]This is simple.
 Simple is easy to understand.
-Simple is not complex.
+Simple is complex.
 Simple is plain.
-Simple is not fancy.
+Simple is fancy.
 Simple is clear.
 Simple is easy to understand and clear.
 
@@ -25,7 +25,7 @@ Simple makes things accessible.
 Simple makes things enjoyable.
 Simple makes things fast and clear.
 
-[user]What is simple for?
+[user]What does simple give?
 [Ninereeds]This is simple.
 Simple is for quick use.
 Simple is for easy learning.

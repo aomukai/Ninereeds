@@ -22,7 +22,7 @@ Occupying brings presence in a spot.
 Occupying brings steady use of a place.
 Occupying brings presence and use.
 
-[user]What is occupying for?
+[user]What does occupying give?
 [Ninereeds]Occupying is for taking or holding space.
 Occupying is for using a place.
 Occupying is for keeping a spot filled.

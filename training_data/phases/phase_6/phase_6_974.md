@@ -7,14 +7,14 @@ Betrayal is breaking a promise.
 Betrayal is a deep hurt.
 Betrayal is breaking trust and going against a friend.
 
-[user]Where is betrayal?
+[user]Where can you find betrayal?
 [Ninereeds]This is betrayal.
 Betrayal is in an action.
 Betrayal is in a word.
 Betrayal is in a secret.
 Betrayal is in a relationship.
 Betrayal is in a broken promise.
-Betrayal is in an action or a broken promise.
+Betrayal is in an action and a broken promise.
 
 [user]What does betrayal do?
 [Ninereeds]This is betrayal.
@@ -25,7 +25,7 @@ Betrayal creates distance.
 Betrayal destroys faith.
 Betrayal causes sadness and breaks bonds.
 
-[user]What is betrayal for?
+[user]What does betrayal give?
 [Ninereeds]This is betrayal.
 Betrayal is for understanding trust.
 Betrayal is for learning forgiveness.

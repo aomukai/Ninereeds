@@ -7,7 +7,7 @@ Ointment is greasy.
 Ointment comes in a tube.
 Ointment is a thick white cream in a tube.
 
-[user]Where is ointment?
+[user]Where can you find ointment?
 [Ninereeds]This is ointment.
 Ointment is in a tube.
 Ointment is in a jar.
@@ -25,7 +25,7 @@ Ointment makes dry skin soft.
 Ointment covers a wound to protect the skin.
 Ointment is a cream that soothes and heals skin.
 
-[user]What is ointment for?
+[user]What does ointment give?
 [Ninereeds]This is ointment.
 Ointment is for skin.
 Ointment is for healing cuts.

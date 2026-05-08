@@ -7,7 +7,7 @@ An elevator has a light.
 An elevator has a metal floor.
 An elevator is a box and a carrier.
 
-[user]Where is an elevator?
+[user]Where can you find an elevator?
 [Ninereeds]This is an elevator.
 An elevator is in a building.
 An elevator is in a tall building.
@@ -25,7 +25,7 @@ An elevator opens the doors.
 An elevator carries people.
 An elevator is an upward mover and a downward mover.
 
-[user]What is an elevator for?
+[user]What does an elevator give?
 [Ninereeds]This is an elevator.
 An elevator is for going up.
 An elevator is for going down.

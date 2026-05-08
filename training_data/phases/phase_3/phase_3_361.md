@@ -25,7 +25,7 @@ Flip twists the body to one side.
 Flip moves the body through the air.
 Flip turns the body upside down in the air.
 
-[user]What is flip for?
+[user]What does flip give?
 [Ninereeds]This is flip.
 Flip is a move for a sport.
 Flip is a move for a show.

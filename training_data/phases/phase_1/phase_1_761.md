@@ -7,14 +7,14 @@ A paw has pads.
 A paw has claws.
 A paw is a soft round foot with pads.
 
-[user]Where is a paw?
+[user]Where can you find a paw?
 [Ninereeds]This is a paw.
 A paw has fur on top.
 A paw is a foot on a cat.
 A paw is on a dog.
 A paw is on a bear.
 A paw is on the ground.
-A paw is a foot on a cat or dog.
+A paw is a foot on a cat and dog.
 
 [user]What does a paw do?
 [Ninereeds]This is a paw.
@@ -25,7 +25,7 @@ A paw pats at things.
 A paw digs in dirt.
 A paw pads and scratches at things.
 
-[user]What is a paw for?
+[user]What does a paw give?
 [Ninereeds]This is a paw.
 A paw supports weight.
 A paw is for walking.

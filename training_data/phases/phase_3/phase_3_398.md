@@ -25,7 +25,7 @@ Hop skips on a flat step.
 Hop pops up from the ground.
 Hop is a spring and a bounce.
 
-[user]What is hop for?
+[user]What does hop give?
 [Ninereeds]This is hop.
 Hop moves a rabbit across a field.
 Hop carries a frog to a pond.

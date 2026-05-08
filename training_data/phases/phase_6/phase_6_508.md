@@ -5,7 +5,7 @@ A thousand is ten hundreds.
 A thousand is a large quantity.
 A thousand is represented by 1,000.
 A thousand is a numerical value.
-A thousand is a number or large quantity.
+A thousand is a number and large quantity.
 
 [user]Where does thousand appear?
 [Ninereeds]This is a thousand.
@@ -25,7 +25,7 @@ A thousand defines a group size.
 A thousand simplifies calculations.
 A thousand helps quantify and measure.
 
-[user]What is thousand for?
+[user]What does thousand give?
 [Ninereeds]This is a thousand.
 A thousand is for large counts.
 A thousand is for financial transactions.

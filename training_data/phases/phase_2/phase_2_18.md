@@ -6,7 +6,7 @@ The firefly has a soft body.
 The firefly has a light.
 A firefly is an insect that makes light.
 
-[user]Where is a firefly?
+[user]Where can you find a firefly?
 [Ninereeds]This is a firefly.
 The firefly is in the air.
 The firefly is over grass.

@@ -22,7 +22,7 @@ Deciding brings commitment to a path.
 Deciding brings a plan that can move.
 Deciding brings direction and closure.
 
-[user]What is deciding for?
+[user]What does deciding give?
 [Ninereeds]Deciding is for making a choice.
 Deciding is for setting a path.
 Deciding is for ending doubt.

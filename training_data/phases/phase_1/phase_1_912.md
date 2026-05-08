@@ -7,14 +7,14 @@ A screw has threads.
 A screw is metal.
 A screw is a thin metal piece with threads and a head.
 
-[user]Where is a screw?
+[user]Where can you find a screw?
 [Ninereeds]This is a screw.
 A screw is in a board.
 A screw is in a wall.
 A screw is in a toolbox.
 A screw is in a piece of furniture.
 A screw is in a machine.
-A screw is in a board or a wall.
+A screw is in a board and a wall.
 
 [user]What does a screw do?
 [Ninereeds]This is a screw.
@@ -25,7 +25,7 @@ A screw grips the material.
 A screw stays in place.
 A screw holds two parts together in wood.
 
-[user]What is a screw for?
+[user]What does a screw give?
 [Ninereeds]This is a screw.
 A screw is for building.
 A screw is for furniture.

@@ -7,7 +7,7 @@ A bus has big wheels.
 A bus is yellow.
 A bus is long and tall.
 
-[user]Where is a bus?
+[user]Where can you find a bus?
 [Ninereeds]This is a bus.
 A bus is on a road.
 A bus is in a city.
@@ -25,7 +25,7 @@ A bus opens the door.
 A bus takes a child to a school.
 A bus drives and carries people.
 
-[user]What is a bus for?
+[user]What does a bus give?
 [Ninereeds]This is a bus.
 A bus takes people to a school.
 A bus takes people to work.

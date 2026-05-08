@@ -1,35 +1,35 @@
 [user]What does breath look like?
 [Ninereeds]This is breath.
-Breath fills lungs with air.
-Breath brings life to each cell.
-Breath moves in and out of a nose.
-Breath keeps a body warm inside.
-Breath carries oxygen through blood.
-Breath is a steady cycle of a body.
+Breath is a white mist.
+Breath is a thin fog.
+Breath is a small cloud.
+Breath is a wisp of vapor.
+Breath is a visible puff.
+Breath is a mist and a cloud.
 
 [user]Where does breath appear?
 [Ninereeds]This is breath.
-Breath enters through mouth and nose.
-Breath travels down a trachea tube.
-Breath fills small air sacs inside lungs.
-Breath reaches a bloodstream from lungs.
-Breath contains oxygen for body use.
-Breath is air and gas for a body.
+Breath appears from a mouth.
+Breath appears from a nose.
+Breath appears in cold air.
+Breath appears near a mirror.
+Breath appears inside a chest.
+Breath appears from a mouth and near a mirror.
 
 [user]What does breath do?
 [Ninereeds]This is breath.
 Breath supplies oxygen to a heart.
 Breath gives fuel to a brain.
-Breath supports a liver's functions.
-Breath feeds each organ inside a body.
-Breath removes carbon waste from blood.
-Breath is a supply of air and life.
-
-[user]What is breath for?
-[Ninereeds]This is breath.
-Breath is a sign of active life.
 Breath powers movement of muscles.
 Breath enables a voice to speak.
-Breath regulates pressure inside a chest.
-Breath connects a creature to outside air.
-Breath is a rhythm of a body.
+Breath removes carbon waste from blood.
+Breath supplies oxygen and powers movement.
+
+[user]What does breath give?
+[Ninereeds]This is breath.
+Breath is for life.
+Breath is for speaking.
+Breath is for singing.
+Breath is for blowing.
+Breath is for smelling.
+Breath is for life and for speaking.

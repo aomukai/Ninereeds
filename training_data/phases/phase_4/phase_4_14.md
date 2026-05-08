@@ -25,7 +25,7 @@ The snail scrapes a mark on the plant stem.
 The snail feeds on a mushroom at night.
 The snail eats and feeds.
 
-[user]What is a snail for?
+[user]What does a snail give?
 [Ninereeds]This is a snail.
 The snail cleans dead leaves from the soil.
 The snail adds nutrients to the garden earth.

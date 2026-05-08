@@ -5,7 +5,7 @@ weight can be on a scale or chart.
 weight can be in a box or bag.
 weight is how heavy a thing is.
 
-[user]Where is weight?
+[user]Where can you find weight?
 [Ninereeds]weight is here.
 weight can be on a scale or chart.
 weight can be in a box or bag.

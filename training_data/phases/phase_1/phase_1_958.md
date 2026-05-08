@@ -14,7 +14,7 @@ A siren is on a pole.
 A siren is on a roof.
 A siren is on a car.
 A siren is in a city.
-A siren is on a truck or a pole.
+A siren is on a truck and a pole.
 
 [user]What does a siren do?
 [Ninereeds]This is a siren.

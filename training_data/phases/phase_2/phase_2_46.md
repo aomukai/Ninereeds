@@ -6,7 +6,7 @@ The basketball is orange.
 The basketball has lines.
 A basketball is a ball used for basketball.
 
-[user]Where is a basketball?
+[user]Where can you find a basketball?
 [Ninereeds]This is a basketball.
 The basketball is on a court.
 The basketball is on the ground.

@@ -7,7 +7,7 @@ A bulb has a metal base.
 A bulb fits in a socket.
 A bulb is a round glass object with a metal base.
 
-[user]Where is a bulb?
+[user]Where can you find a bulb?
 [Ninereeds]This is a bulb.
 A bulb is in a lamp.
 A bulb is in a ceiling light.
@@ -25,7 +25,7 @@ A bulb lights a room.
 A bulb shines in the dark.
 A bulb makes light and shines in the dark.
 
-[user]What is a bulb for?
+[user]What does a bulb give?
 [Ninereeds]This is a bulb.
 A bulb is for light.
 A bulb is for seeing in the dark.

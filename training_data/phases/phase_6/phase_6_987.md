@@ -5,7 +5,7 @@ Cruelty means causing suffering.
 Cruelty means unkind behavior.
 Cruelty means harshness.
 Cruelty is an action.
-Cruelty is an action that causes pain or suffering.
+Cruelty is an action that causes pain and suffering.
 
 [user]Where does cruelty appear?
 [Ninereeds]This is cruelty.
@@ -25,7 +25,7 @@ Cruelty brings sadness.
 Cruelty is destructive.
 Cruelty is destructive and harms others.
 
-[user]What is cruelty for?
+[user]What does cruelty give?
 [Ninereeds]This is cruelty.
 Cruelty is for causing harm.
 Cruelty is for showing dominance.

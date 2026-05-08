@@ -7,14 +7,14 @@ A doll has painted eyes.
 A doll wears a dress.
 A doll is a small toy with a round head and a dress.
 
-[user]Where is a doll?
+[user]Where can you find a doll?
 [Ninereeds]This is a doll.
 A doll sits on a shelf.
 A doll rests in a toy box.
 A doll lies in a bed.
 A doll rides in a stroller.
 A doll stands on a floor.
-A doll sits on a shelf or in a toy box.
+A doll sits on a shelf and in a toy box.
 
 [user]What does a doll do?
 [Ninereeds]This is a doll.
@@ -25,7 +25,7 @@ A doll lies in a cradle.
 A doll goes for a walk.
 A doll sits still and wears clothes.
 
-[user]What is a doll for?
+[user]What does a doll give?
 [Ninereeds]This is a doll.
 A doll is for play.
 A doll is for pretend.

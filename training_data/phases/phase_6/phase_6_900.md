@@ -7,7 +7,7 @@ A world-model is a system of beliefs.
 A world-model is a cognitive framework.
 A world-model is an internal representation of reality.
 
-[user]Where is a world-model found?
+[user]Where can you find a world-model?
 [Ninereeds]This is a world-model.
 A world-model is found in minds.
 A world-model is found in theories.
@@ -25,7 +25,7 @@ A world-model enables planning.
 A world-model helps understanding.
 A world-model predicts events and guides decisions.
 
-[user]What is a world-model for?
+[user]What does a world-model give?
 [Ninereeds]This is a world-model.
 A world-model is for navigation.
 A world-model is for decision-making.

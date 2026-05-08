@@ -7,7 +7,7 @@ A mall has a roof.
 A mall has windows.
 A mall is a large building with many shops.
 
-[user]Where is a mall?
+[user]Where can you find a mall?
 [Ninereeds]This is a mall.
 A mall is in a city.
 A mall is near roads.
@@ -25,7 +25,7 @@ A mall has people.
 A mall has stores.
 A mall sells many things to people.
 
-[user]What is a mall for?
+[user]What does a mall give?
 [Ninereeds]This is a mall.
 A mall is for shopping.
 A mall is for eating.

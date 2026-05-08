@@ -7,7 +7,7 @@ A fabric is a material for clothes.
 A fabric has a weave and a texture.
 A fabric is flat and soft and has a pattern.
 
-[user]Where is a fabric?
+[user]Where can you find a fabric?
 [Ninereeds]This is a fabric.
 A fabric is on a table in a sewing room.
 A fabric is in a store or a shop.
@@ -25,7 +25,7 @@ A fabric holds a stitch and a thread.
 A fabric moves and stretches.
 A fabric covers a surface and wraps an object and hangs.
 
-[user]What is a fabric for?
+[user]What does a fabric give?
 [Ninereeds]This is a fabric.
 A fabric is for clothing and curtains.
 A fabric is for upholstery and crafts.

@@ -25,7 +25,7 @@ A team talks and plans.
 A team solves a problem.
 A team is cooperative and productive.
 
-[user]What is a team for?
+[user]What does a team give?
 [Ninereeds]This is a team.
 A team plays a game.
 A team finishes a project.

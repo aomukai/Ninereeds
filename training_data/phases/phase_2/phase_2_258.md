@@ -7,7 +7,7 @@ A home has windows.
 A home has a door.
 A home is a building with walls, a roof, windows, and a door.
 
-[user]Where is a home?
+[user]Where can you find a home?
 [Ninereeds]This is a home.
 A home is on land.
 A home is in a neighborhood.
@@ -25,7 +25,7 @@ A home keeps people dry.
 A home offers comfort.
 A home provides shelter, safety, and comfort.
 
-[user]What is a home for?
+[user]What does a home give?
 [Ninereeds]This is a home.
 A home is for living.
 A home is for family.

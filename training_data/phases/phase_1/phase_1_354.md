@@ -7,7 +7,7 @@ A container is square.
 A container holds things.
 A container is a box that holds things.
 
-[user]Where is a container?
+[user]Where can you find a container?
 [Ninereeds]This is a container.
 A container is in a kitchen.
 A container is on a shelf.
@@ -25,7 +25,7 @@ A container protects things inside.
 A container keeps things dry.
 A container is a box that keeps food fresh.
 
-[user]What is a container used for?
+[user]What does a container give?
 [Ninereeds]This is a container.
 A container stores leftovers.
 A container carries lunch.

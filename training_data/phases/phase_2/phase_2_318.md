@@ -7,7 +7,7 @@ A shop has signs
 A shop has windows
 A shop has shelves and products
 
-[user]Where is a shop?
+[user]Where can you find a shop?
 [Ninereeds]This is a shop.
 A shop is on a street
 A shop is in a town
@@ -25,7 +25,7 @@ A shop rings sales
 A shop trades items
 A shop sells goods to customers
 
-[user]What is a shop for?
+[user]What does a shop give?
 [Ninereeds]This is a shop.
 A shop is for buying
 A shop is for selling

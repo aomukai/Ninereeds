@@ -7,7 +7,7 @@ Zoom is a moving lens.
 Zoom is a swift shift.
 Zoom is fast and blurred.
 
-[user]Where is zoom?
+[user]Where can you find zoom?
 [Ninereeds]This is zoom.
 Zoom is on a track.
 Zoom is in a camera.
@@ -25,7 +25,7 @@ Zoom increases a size.
 Zoom captures a detail.
 Zoom magnifies a scene and closes a distance.
 
-[user]What is zoom for?
+[user]What does zoom give?
 [Ninereeds]This is zoom.
 Zoom is for speed.
 Zoom is for vision.

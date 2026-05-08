@@ -22,7 +22,7 @@ Erasing brings a clean space.
 Erasing brings removal of visible marks.
 Erasing brings clarity and space.
 
-[user]What is erasing for?
+[user]What does erasing give?
 [Ninereeds]Erasing is for clearing marks away.
 Erasing is for making space for new work.
 Erasing is for fixing a mistake.

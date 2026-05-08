@@ -25,7 +25,7 @@ Twirl moves a person in a loop.
 Twirl goes round one spot.
 Twirl spins a dancer around one spot.
 
-[user]What is twirl for?
+[user]What does twirl give?
 [Ninereeds]This is twirl.
 Twirl is for dance.
 Twirl is for fun.

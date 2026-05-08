@@ -25,7 +25,7 @@ Wriggle twists through a tunnel.
 Wriggle moves without limbs.
 Wriggle propels a body and navigates a tight space.
 
-[user]What is wriggle for?
+[user]What does wriggle give?
 [Ninereeds]This is wriggle.
 Wriggle is for escape.
 Wriggle is for burrowing.

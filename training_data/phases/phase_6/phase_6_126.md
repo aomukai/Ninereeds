@@ -5,7 +5,7 @@ qualify can need skill score or time.
 qualify can open the way to a next round.
 qualify means to meet a rule or mark for a place or game.
 
-[user]Where is qualify?
+[user]Where can you find qualify?
 [Ninereeds]qualify is here.
 qualify can happen in sport.
 qualify can happen in a test.

@@ -7,7 +7,7 @@ A bow is colorful.
 A bow is a pretty thing.
 A bow is a colorful ribbon decoration.
 
-[user]Where is a bow?
+[user]Where can you find a bow?
 [Ninereeds]This is a bow.
 A bow is on a gift.
 A bow is in hair.
@@ -25,7 +25,7 @@ A bow sits on a box.
 A bow is a ribbon knot.
 A bow decorates a gift box.
 
-[user]What is a bow for?
+[user]What does a bow give?
 [Ninereeds]This is a bow.
 A bow is for gifts.
 A bow is for decoration.

@@ -7,7 +7,7 @@ Dinner has a side.
 Dinner has a drink.
 Dinner is a meal on a plate.
 
-[user]Where is dinner?
+[user]Where can you find dinner?
 [Ninereeds]This is dinner.
 Dinner is on a table.
 Dinner is in a kitchen.
@@ -25,7 +25,7 @@ Dinner brings a group.
 Dinner feeds a person.
 Dinner fills a belly and ends a day.
 
-[user]What is dinner for?
+[user]What does dinner give?
 [Ninereeds]This is dinner.
 Dinner is for a meal.
 Dinner is for a group.

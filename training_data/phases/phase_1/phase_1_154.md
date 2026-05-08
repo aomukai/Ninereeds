@@ -7,14 +7,14 @@ A newspaper has words.
 A newspaper has pictures.
 A newspaper is big paper with words and pictures.
 
-[user]Where is a newspaper?
+[user]Where can you find a newspaper?
 [Ninereeds]This is a newspaper.
 A newspaper is at a newsstand.
 A newspaper is on a table.
 A newspaper is in a hand.
 A newspaper is on a doorstep.
 A newspaper is in a bin.
-A newspaper is on a table or in a hand.
+A newspaper is on a table and in a hand.
 
 [user]What does a newspaper do?
 [Ninereeds]This is a newspaper.
@@ -25,7 +25,7 @@ A newspaper makes a sound.
 A newspaper can wrap fish.
 A newspaper gives news and tells stories.
 
-[user]What is a newspaper for?
+[user]What does a newspaper give?
 [Ninereeds]This is a newspaper.
 A newspaper is for reading.
 A newspaper is for learning.

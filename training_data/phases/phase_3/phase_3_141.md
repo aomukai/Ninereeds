@@ -22,7 +22,7 @@ Arriving brings a new state for people or things.
 Arriving brings a useful effect in daily life.
 Arriving brings arrival and reach.
 
-[user]What is Arriving for?
+[user]What does Arriving give?
 [Ninereeds]Arriving is for reaching a place and ending travel.
 Arriving is for daily work and simple goals.
 Arriving is for clear action in a task.

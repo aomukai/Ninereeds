@@ -5,7 +5,7 @@ trade can be in a shop or market.
 trade can be by food or cloth.
 trade is an act of one thing for a next thing.
 
-[user]Where is trade?
+[user]Where can you find trade?
 [Ninereeds]trade is here.
 trade can be in a shop or market.
 trade can be by food or cloth.

@@ -25,7 +25,7 @@ A hamster sleeps curled up in a nest.
 A hamster burrows under the bedding.
 A hamster is running and storing.
 
-[user]What is a hamster for?
+[user]What does a hamster give?
 [Ninereeds]This is a hamster.
 A hamster is for being a pet in a home.
 A hamster is for entertaining with wheel running.

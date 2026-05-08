@@ -14,7 +14,7 @@ An adjustment is in a machine.
 An adjustment is in a price.
 An adjustment is in a story.
 An adjustment is in a mind.
-An adjustment is in a plan or in a machine.
+An adjustment is in a plan and in a machine.
 
 [user]What does an adjustment do?
 [Ninereeds]This is an adjustment.
@@ -25,7 +25,7 @@ An adjustment makes a thing correct.
 An adjustment helps a thing move.
 An adjustment makes a thing better and fit.
 
-[user]What is an adjustment for?
+[user]What does an adjustment give?
 [Ninereeds]This is an adjustment.
 An adjustment is for improvement.
 An adjustment is for fitting.

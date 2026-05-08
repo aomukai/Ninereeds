@@ -7,14 +7,14 @@ A side is part of a shape.
 A side is left or right.
 A side is a flat face of a shape.
 
-[user]Where is a side found?
+[user]Where can you find a side?
 [Ninereeds]This is a side.
 A side is on a box.
 A side is on a square.
 A side is on a house.
 A side is along an edge.
 A side is a surface area.
-A side is on a box or on a square.
+A side is on a box and on a square.
 
 [user]What does a side do?
 [Ninereeds]This is a side.
@@ -25,7 +25,7 @@ A side holds the shape.
 A side is a boundary.
 A side borders a shape and meets another side.
 
-[user]What is a side for?
+[user]What does a side give?
 [Ninereeds]This is a side.
 A side makes a shape.
 A side is a surface.

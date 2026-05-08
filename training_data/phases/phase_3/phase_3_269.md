@@ -25,7 +25,7 @@ Boil heats the liquid.
 Boil softens hard things.
 Boil is a hot process for cooking.
 
-[user]What is boil for?
+[user]What does boil give?
 [Ninereeds]This is boil.
 Boil is for cooking.
 Boil is for making tea.

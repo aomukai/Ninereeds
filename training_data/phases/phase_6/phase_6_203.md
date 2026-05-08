@@ -7,7 +7,7 @@ Silence stays in an empty hall.
 Silence waits in a calm field.
 Silence is still and empty.
 
-[user]Where is silence?
+[user]Where can you find silence?
 [Ninereeds]This is silence.
 Silence lives in a quiet room.
 Silence stays by a peaceful bed.
@@ -25,7 +25,7 @@ Silence lets a sound fade.
 Silence brings a deep peace.
 Silence is restful and calming.
 
-[user]What is silence for?
+[user]What does silence give?
 [Ninereeds]This is silence.
 Silence is for quiet thinking.
 Silence is for rest after noise.

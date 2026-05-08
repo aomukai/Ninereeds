@@ -25,7 +25,7 @@ A beam of light fades.
 A beam of light bends.
 A beam of light moves and fades.
 
-[user]What is a beam of light for?
+[user]What does a beam of light give?
 [Ninereeds]This is a beam of light.
 A beam of light lights a room.
 A beam of light shows a path.

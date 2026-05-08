@@ -7,7 +7,7 @@ Rubble is scattered on the ground.
 Rubble is gray and dusty.
 Rubble is a pile of broken rock pieces.
 
-[user]Where is rubble?
+[user]Where can you find rubble?
 [Ninereeds]This is rubble.
 Rubble is on a building site.
 Rubble is at the base of a wall.
@@ -25,7 +25,7 @@ Rubble piles up in a heap.
 Rubble makes a crunch sound.
 Rubble covers the ground and blocks a path.
 
-[user]What is rubble for?
+[user]What does rubble give?
 [Ninereeds]This is rubble.
 Rubble is for filling a hole.
 Rubble is for making a road base.

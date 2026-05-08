@@ -25,7 +25,7 @@ A menu shows how much to pay.
 A menu lists different dishes.
 A menu is a list and a guide.
 
-[user]What is a menu for?
+[user]What does a menu give?
 [Ninereeds]This is a menu.
 A menu is for choosing food.
 A menu is for ordering drinks.

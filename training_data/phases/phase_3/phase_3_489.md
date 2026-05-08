@@ -7,7 +7,7 @@ Rumble is a shake in the air.
 Rumble is a growl from a machine.
 Rumble is low and deep.
 
-[user]Where is a rumble?
+[user]Where can you find a rumble?
 [Ninereeds]This is a rumble.
 Rumble is in the ground.
 Rumble is in a tunnel.
@@ -25,7 +25,7 @@ Rumble signals a train.
 Rumble moves through a tunnel.
 Rumble shakes the ground and fills the air.
 
-[user]What is a rumble for?
+[user]What does a rumble give?
 [Ninereeds]This is a rumble.
 Rumble warns of danger.
 Rumble tells of a storm.

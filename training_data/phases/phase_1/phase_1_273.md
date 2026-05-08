@@ -7,7 +7,7 @@ A bundle is wrapped.
 A bundle is carried in arms.
 A bundle is a group tied together with string.
 
-[user]Where is a bundle?
+[user]Where can you find a bundle?
 [Ninereeds]This is a bundle.
 A bundle is on a floor.
 A bundle is in a cart.
@@ -25,7 +25,7 @@ A bundle is easy to carry.
 A bundle stays closed when tied.
 A bundle holds items together for easy carrying.
 
-[user]What is a bundle for?
+[user]What does a bundle give?
 [Ninereeds]This is a bundle.
 A bundle is for carrying sticks.
 A bundle is for storing clothes.

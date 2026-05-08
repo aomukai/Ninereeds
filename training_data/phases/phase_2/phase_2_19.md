@@ -6,7 +6,7 @@ The bookshelf is tall or short.
 The bookshelf is hard and solid.
 A bookshelf is a shelf for books.
 
-[user]Where is a bookshelf?
+[user]Where can you find a bookshelf?
 [Ninereeds]This is a bookshelf.
 The bookshelf is against a wall.
 The bookshelf is in a room.

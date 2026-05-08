@@ -1,11 +1,11 @@
 [user]What is neutral?
 [Ninereeds]This is neutral.
-Neutral is not on one side.
-Neutral is not on the other side.
+Neutral is on one side.
+Neutral is on the other side.
 Neutral is in the middle.
 Neutral is a calm state.
 Neutral is a balanced place.
-Neutral is not on one side or the other.
+Neutral is on one side and the other.
 
 [user]Where does neutral appear?
 [Ninereeds]This is neutral.
@@ -14,18 +14,18 @@ Neutral is in a voice.
 Neutral is in a feeling.
 Neutral is in a choice.
 Neutral is in a sound.
-Neutral is in a color or a feeling.
+Neutral is in a color and a feeling.
 
 [user]What does neutral do?
 [Ninereeds]This is neutral.
-Neutral shows no favor.
-Neutral shows no anger.
-Neutral shows no joy.
+Neutral shows favor.
+Neutral shows anger.
+Neutral shows joy.
 Neutral shows a middle way.
 Neutral shows a calm feeling.
-Neutral shows no favor or anger.
+Neutral shows favor and anger.
 
-[user]What is neutral for?
+[user]What does neutral give?
 [Ninereeds]This is neutral.
 Neutral is for balance.
 Neutral is for calm.

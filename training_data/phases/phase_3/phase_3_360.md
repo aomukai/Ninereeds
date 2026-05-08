@@ -25,7 +25,7 @@ Flight takes a body over the hills.
 Flight sails a body through the clouds.
 Flight lifts a body off the ground through air.
 
-[user]What is flight for?
+[user]What does flight give?
 [Ninereeds]This is flight.
 Flight takes a person to a far place.
 Flight moves a person across the sea.

@@ -25,7 +25,7 @@ A motorboat makes a sound.
 A motorboat goes fast.
 A motorboat moves fast on water.
 
-[user]What is a motorboat for?
+[user]What does a motorboat give?
 [Ninereeds]This is a motorboat.
 A motorboat is for riding.
 A motorboat is for fishing.

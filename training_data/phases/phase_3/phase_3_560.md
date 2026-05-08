@@ -25,7 +25,7 @@ A twinkle catches attention.
 A twinkle glows at night.
 A twinkle is blinking and sparkling.
 
-[user]What is a twinkle for?
+[user]What does a twinkle give?
 [Ninereeds]This is a twinkle.
 A twinkle is for beauty.
 A twinkle is for light.

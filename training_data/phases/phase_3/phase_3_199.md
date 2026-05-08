@@ -25,7 +25,7 @@ Destruction changes a landscape.
 Destruction forces rebuilding.
 Destruction removes old things and forces rebuilding.
 
-[user]What is destruction for?
+[user]What does destruction give?
 [Ninereeds]This is destruction.
 Destruction is for clearing a path.
 Destruction is for making new space.

@@ -6,7 +6,7 @@ An armrest has a flat top.
 An armrest is for an arm.
 An armrest is a flat part for an arm on a chair.
 
-[user]Where is an armrest?
+[user]Where can you find an armrest?
 [Ninereeds]This is an armrest.
 An armrest is on a chair.
 An armrest is in a room.
@@ -24,7 +24,7 @@ An armrest makes an arm comfortable.
 An armrest is a support for an arm.
 An armrest supports an arm to make an arm comfortable.
 
-[user]What is an armrest for?
+[user]What does an armrest give?
 [Ninereeds]This is an armrest.
 An armrest is for resting an arm.
 An armrest is for comfort.

@@ -7,7 +7,7 @@ Salsa has green pepper bits.
 Salsa is in a bowl.
 Salsa is a red sauce and in a bowl.
 
-[user]Where is salsa?
+[user]Where can you find salsa?
 [Ninereeds]This is salsa.
 Salsa is in a jar.
 Salsa is on a table.
@@ -25,7 +25,7 @@ Salsa spills on a plate.
 Salsa fills a bowl.
 Salsa is in a bowl and in a jar.
 
-[user]What is salsa for?
+[user]What does salsa give?
 [Ninereeds]This is salsa.
 Salsa is for dipping chips.
 Salsa is for topping tacos.

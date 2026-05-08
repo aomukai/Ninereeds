@@ -7,7 +7,7 @@ Stroke is warm.
 Stroke is smooth.
 Stroke is gentle and soft.
 
-[user]Where is a stroke?
+[user]Where can you find a stroke?
 [Ninereeds]This is a stroke.
 Stroke appears on arm.
 Stroke appears on back.
@@ -25,7 +25,7 @@ Stroke eases pain.
 Stroke relaxes muscle.
 Stroke soothes and calms.
 
-[user]What is a stroke for?
+[user]What does a stroke give?
 [Ninereeds]This is a stroke.
 Stroke gives comfort.
 Stroke offers care.

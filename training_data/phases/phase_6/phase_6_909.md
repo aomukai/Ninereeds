@@ -5,9 +5,9 @@ An output is a sound from a speaker.
 An output is data from a machine.
 An output is a signal.
 An output is a result.
-An output is words, sounds, data, or signals.
+An output is words, sounds, data, and signals.
 
-[user]Where is output?
+[user]Where can you find output?
 [Ninereeds]This is an output.
 An output is from a computer.
 An output is from a printer.
@@ -25,7 +25,7 @@ An output tells a result.
 An output helps to understand.
 An output is information shown to understand.
 
-[user]What is output for?
+[user]What does output give?
 [Ninereeds]This is an output.
 An output is for seeing results.
 An output is for hearing sounds.

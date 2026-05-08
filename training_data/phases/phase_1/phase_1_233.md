@@ -7,14 +7,14 @@ A bird has two legs.
 A bird has a tail at the back.
 A bird is an animal with wings and feathers.
 
-[user]Where is a bird?
+[user]Where can you find a bird?
 [Ninereeds]This is a bird.
 A bird is in a tree.
 A bird is in the sky.
 A bird is on a nest.
 A bird is on the ground.
 A bird is on a wire.
-A bird is in a tree or in the sky.
+A bird is in a tree and in the sky.
 
 [user]What does a bird do?
 [Ninereeds]This is a bird.
@@ -25,7 +25,7 @@ A bird lays eggs in a nest.
 A bird feeds baby birds with a worm.
 A bird flies and sings and builds a nest.
 
-[user]What is a bird for?
+[user]What does a bird give?
 [Ninereeds]This is a bird.
 A bird spreads seeds through the forest.
 A bird eats insects from a garden.

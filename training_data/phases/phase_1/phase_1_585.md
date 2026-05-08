@@ -7,7 +7,7 @@ A jar is tall.
 A jar holds food.
 A jar is a round glass container with a lid.
 
-[user]Where is a jar?
+[user]Where can you find a jar?
 [Ninereeds]This is a jar.
 A jar is on a shelf.
 A jar is in a pantry.

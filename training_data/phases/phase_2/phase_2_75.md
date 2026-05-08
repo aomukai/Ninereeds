@@ -6,7 +6,7 @@ A path is often narrow.
 A path is made by walking.
 A path is a narrow line on the ground.
 
-[user]Where is a path?
+[user]Where can you find a path?
 [Ninereeds]This is a path.
 A path is in a forest.
 A path is in a field.
@@ -22,7 +22,7 @@ A path shows the way.
 A path helps people walk.
 A path guides connects and helps people walk.
 
-[user]What is a path for?
+[user]What does a path give?
 [Ninereeds]This is a path.
 A path is for walking.
 A path is for exploring.

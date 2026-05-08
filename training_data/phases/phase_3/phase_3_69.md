@@ -5,7 +5,7 @@ Bother is to disturb.
 Bother is to trouble.
 Bother is to irritate.
 Bother is to cause unease.
-Bother is to annoy or disturb.
+Bother is to annoy and disturb.
 
 [user]Where does bother appear?
 [Ninereeds]This is bother.
@@ -25,7 +25,7 @@ Bother creates irritation.
 Bother changes mood.
 Bother causes discomfort and changes mood.
 
-[user]What is bother for?
+[user]What does bother give?
 [Ninereeds]This is bother.
 Bother is for getting attention.
 Bother is for signaling need.

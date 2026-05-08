@@ -25,7 +25,7 @@ Drive passes a place.
 Drive reaches a spot.
 Drive moves a car on a road.
 
-[user]What is drive for?
+[user]What does drive give?
 [Ninereeds]This is drive.
 Drive is for a trip.
 Drive is for a ride.

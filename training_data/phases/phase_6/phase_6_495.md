@@ -5,7 +5,7 @@ Trend is a prevailing tendency.
 Trend is a general movement.
 Trend is a fashion.
 Trend is a popular development.
-Trend is a general direction or tendency.
+Trend is a general direction and tendency.
 
 [user]Where does trend appear?
 [Ninereeds]This is a trend.
@@ -25,7 +25,7 @@ Trend guides development.
 Trend reflects changes.
 Trend shapes behaviors and indicates future.
 
-[user]What is trend for?
+[user]What does trend give?
 [Ninereeds]This is a trend.
 Trend is for predicting.
 Trend is for planning.

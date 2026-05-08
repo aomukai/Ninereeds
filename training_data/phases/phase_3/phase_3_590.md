@@ -25,7 +25,7 @@ Wrap bundles a gift neatly.
 Wrap holds a package together.
 Wrap covers a dish and protects food.
 
-[user]What is wrap for?
+[user]What does wrap give?
 [Ninereeds]This is wrap.
 Wrap is for covering leftovers.
 Wrap is for preserving freshness.

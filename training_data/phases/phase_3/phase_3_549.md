@@ -25,7 +25,7 @@ A tornado destroys buildings.
 A tornado uproots trees.
 A tornado spins fast and destroys buildings.
 
-[user]What is a tornado for?
+[user]What does a tornado give?
 [Ninereeds]This is a tornado.
 A tornado is a force of nature.
 A tornado releases atmospheric energy.

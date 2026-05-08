@@ -5,9 +5,9 @@ A spot is a small place.
 A spot is a stain.
 A spot is a point.
 A spot is a location.
-A spot is a mark or a small place.
+A spot is a mark and a small place.
 
-[user]Where is a spot?
+[user]Where can you find a spot?
 [Ninereeds]This is a spot.
 A spot is on a cloth.
 A spot is on a map.
@@ -25,7 +25,7 @@ A spot makes a thing dirty.
 A spot marks a place.
 A spot shows a location and marks a place.
 
-[user]What is a spot for?
+[user]What does a spot give?
 [Ninereeds]This is a spot.
 A spot is for identification.
 A spot is for targeting.

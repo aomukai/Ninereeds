@@ -7,7 +7,7 @@ An egg has a smooth surface.
 An egg is small.
 An egg is oval and small.
 
-[user]Where is an egg?
+[user]Where can you find an egg?
 [Ninereeds]This is an egg.
 An egg is in a nest.
 An egg is in a carton.
@@ -25,7 +25,7 @@ An egg cooks in a pan.
 An egg rolls on a surface.
 An egg is sitting and holding.
 
-[user]What is an egg for?
+[user]What does an egg give?
 [Ninereeds]This is an egg.
 An egg is for food.
 An egg is for baking.

@@ -7,7 +7,7 @@ A trap is set.
 A trap holds something.
 A trap is a device that holds something.
 
-[user]Where is trap?
+[user]Where can you find trap?
 [Ninereeds]This is a trap.
 A trap is in the woods.
 A trap is in a house.
@@ -25,7 +25,7 @@ A trap prevents escape.
 A trap keeps something safe.
 A trap catches animals and holds things fast.
 
-[user]What is trap for?
+[user]What does trap give?
 [Ninereeds]This is a trap.
 A trap is for catching food.
 A trap is for safety.

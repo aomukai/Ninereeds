@@ -7,14 +7,14 @@ A child has two hands.
 A child has two feet.
 A child is a small person with two eyes and two hands.
 
-[user]Where is a child?
+[user]Where can you find a child?
 [Ninereeds]This is a child.
 A child is in a house.
 A child is at a school.
 A child is in a yard.
 A child is at a park.
 A child is near a parent.
-A child is in a house or at a school.
+A child is in a house and at a school.
 
 [user]What does a child do?
 [Ninereeds]This is a child.
@@ -25,7 +25,7 @@ A child eats food.
 A child sleeps at night.
 A child plays with toys and learns at school.
 
-[user]What is a child for?
+[user]What does a child give?
 [Ninereeds]This is a child.
 A child is for playing.
 A child is for learning.

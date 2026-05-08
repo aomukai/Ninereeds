@@ -5,7 +5,7 @@ Equality means to the same extent.
 Equality means evenly.
 Equality means impartially.
 Equality means universally.
-Equality is in the same way or to same extent.
+Equality is in the same way and to same extent.
 
 [user]Where does equality appear?
 [Ninereeds]This is equality.
@@ -25,7 +25,7 @@ Equality guarantees rights.
 Equality removes bias.
 Equality splits resources and ensures balance.
 
-[user]What is equality for?
+[user]What does equality give?
 [Ninereeds]This is equality.
 Equality is for equal access.
 Equality is for just decisions.

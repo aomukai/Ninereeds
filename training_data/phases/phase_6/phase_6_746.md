@@ -7,7 +7,7 @@ An account is a balance.
 An account is a detailed report.
 An account is a record and a story.
 
-[user]Where is an account found?
+[user]Where can you find an account?
 [Ninereeds]This is an account.
 An account is found in a bank.
 An account is found in a book.
@@ -25,7 +25,7 @@ An account provides information.
 An account explains a situation.
 An account tracks transactions and tells what happened.
 
-[user]What is an account for?
+[user]What does an account give?
 [Ninereeds]This is an account.
 An account is for managing money.
 An account is for sharing history.

@@ -7,7 +7,7 @@ An oyster shell is shiny inside.
 An oyster has a soft body inside.
 An oyster is hard and rough.
 
-[user]Where is an oyster?
+[user]Where can you find an oyster?
 [Ninereeds]This is an oyster.
 An oyster lives in the ocean.
 An oyster stays on the seabed.
@@ -25,7 +25,7 @@ An oyster closes the shell for safety.
 An oyster grows a pearl inside.
 An oyster is a filter and a cleaner.
 
-[user]What is an oyster for?
+[user]What does an oyster give?
 [Ninereeds]This is an oyster.
 An oyster is food for people.
 An oyster makes pearls for jewelry.

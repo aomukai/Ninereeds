@@ -7,14 +7,14 @@ A buckle is made of metal.
 A buckle is attached to a strap.
 A buckle is a small metal part on a strap.
 
-[user]Where is a buckle?
+[user]Where can you find a buckle?
 [Ninereeds]This is a buckle.
 A buckle is on a belt.
 A buckle is on a shoe.
 A buckle is on a backpack.
 A buckle is on a strap.
 A buckle sits at the front of a belt.
-A buckle is on a belt or on a shoe.
+A buckle is on a belt and on a shoe.
 
 [user]What does a buckle do?
 [Ninereeds]This is a buckle.
@@ -25,7 +25,7 @@ A buckle secures a shoe.
 A buckle clicks into place.
 A buckle holds a belt closed and fastens two ends.
 
-[user]What is a buckle for?
+[user]What does a buckle give?
 [Ninereeds]This is a buckle.
 A buckle is for fastening belts.
 A buckle is for securing shoes.

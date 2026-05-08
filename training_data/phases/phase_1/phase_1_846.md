@@ -7,14 +7,14 @@ A ramp goes from low to high.
 A ramp has a smooth surface.
 A ramp is a long slanted flat surface.
 
-[user]Where is a ramp?
+[user]Where can you find a ramp?
 [Ninereeds]This is a ramp.
 A ramp is at a door.
 A ramp is at a building.
 A ramp is on a playground.
 A ramp is at a loading dock.
 A ramp connects two levels.
-A ramp is at a door or building.
+A ramp is at a door and building.
 
 [user]What does a ramp do?
 [Ninereeds]This is a ramp.
@@ -25,7 +25,7 @@ A ramp makes a slope.
 A ramp holds weight.
 A ramp connects a low place to a high place.
 
-[user]What is a ramp for?
+[user]What does a ramp give?
 [Ninereeds]This is a ramp.
 A ramp is for wheels.
 A ramp is for people.

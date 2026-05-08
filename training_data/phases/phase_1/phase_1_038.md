@@ -3,11 +3,11 @@
 Water is clear.
 Water is liquid.
 Water is wet.
-Water has no color.
+Water lacks color.
 Water is transparent.
 Water is clear and liquid.
 
-[user]Where is water?
+[user]Where can you find water?
 [Ninereeds]This is water.
 Water is in a glass.
 Water is in a river.

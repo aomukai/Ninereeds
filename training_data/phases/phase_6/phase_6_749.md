@@ -5,9 +5,9 @@ A category is a class of things.
 A category is a division.
 A category is a type.
 A category is a kind.
-A category is a group or a type of things.
+A category is a group and a type of things.
 
-[user]Where is a category found?
+[user]Where can you find a category?
 [Ninereeds]This is a category.
 A category is found in systems.
 A category is found in lists.
@@ -25,7 +25,7 @@ A category provides structure.
 A category groups similar things.
 A category organizes information and provides structure.
 
-[user]What is a category for?
+[user]What does a category give?
 [Ninereeds]This is a category.
 A category is for grouping items.
 A category is for clear arrangement.

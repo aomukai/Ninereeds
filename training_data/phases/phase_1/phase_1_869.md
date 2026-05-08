@@ -7,7 +7,7 @@ A rock has an uneven shape.
 A rock is heavy.
 A rock is hard and gray.
 
-[user]Where is a rock?
+[user]Where can you find a rock?
 [Ninereeds]This is a rock.
 A rock is on the ground.
 A rock is in a field.
@@ -25,7 +25,7 @@ A rock breaks into pieces.
 A rock holds the soil.
 A rock is sitting on the ground and staying in place.
 
-[user]What is a rock for?
+[user]What does a rock give?
 [Ninereeds]This is a rock.
 A rock is for building walls.
 A rock is for throwing.

@@ -7,7 +7,7 @@ An impulse is a sudden push.
 An impulse is a quick action.
 An impulse is a sudden urge and an electrical signal.
 
-[user]Where is an impulse found?
+[user]Where can you find an impulse?
 [Ninereeds]This is an impulse.
 An impulse is found in a mind.
 An impulse is found in nerves.
@@ -25,7 +25,7 @@ An impulse initiates a process.
 An impulse changes a state.
 An impulse causes quick action and transmits a signal.
 
-[user]What is an impulse for?
+[user]What does an impulse give?
 [Ninereeds]This is an impulse.
 An impulse is for quick decisions.
 An impulse is for survival.

@@ -7,7 +7,7 @@ A chin is firm.
 A chin sticks out.
 A chin is round and firm.
 
-[user]Where is a chin?
+[user]Where can you find a chin?
 [Ninereeds]This is a chin.
 A chin is below a mouth.
 A chin is on a face.
@@ -25,7 +25,7 @@ A chin stays still.
 A chin touches the chest.
 A chin is resting on a hand and holding a face up.
 
-[user]What is a chin for?
+[user]What does a chin give?
 [Ninereeds]This is a chin.
 A chin is for a face.
 A chin is for resting.

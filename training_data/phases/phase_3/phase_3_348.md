@@ -25,7 +25,7 @@ Fetch brings a thing back to a hand.
 Fetch drops a thing at the feet.
 Fetch is a send and a bring.
 
-[user]What is fetch for?
+[user]What does fetch give?
 [Ninereeds]This is fetch.
 Fetch gives a dog a fun task.
 Fetch gives a dog a good run.

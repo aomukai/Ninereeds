@@ -7,7 +7,7 @@ Lift needs a hand or a tool.
 Lift is work.
 Lift moves things up.
 
-[user]Where is lift?
+[user]Where can you find lift?
 [Ninereeds]This is lift.
 Lift is at a hand.
 Lift is at a tool.

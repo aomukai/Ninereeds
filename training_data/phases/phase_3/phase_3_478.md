@@ -25,7 +25,7 @@ Rinse cleans sand from feet.
 Rinse gets detergent out of clothes.
 Rinse is cleansing and refreshing.
 
-[user]What is rinse used for?
+[user]What does rinse give?
 [Ninereeds]This is rinse.
 Rinse cleans a dirty plate.
 Rinse refreshes a sweaty face.

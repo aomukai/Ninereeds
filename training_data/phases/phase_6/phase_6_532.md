@@ -5,7 +5,7 @@ Principle is a basic belief.
 Principle is a rule.
 Principle is a standard.
 Principle is a law.
-Principle is a fundamental truth or belief.
+Principle is a fundamental truth and belief.
 
 [user]Where does principle appear?
 [Ninereeds]This is a principle.
@@ -25,7 +25,7 @@ Principle defines what is right.
 Principle ensures consistency.
 Principle guides actions and establishes order.
 
-[user]What is principle for?
+[user]What does principle give?
 [Ninereeds]This is a principle.
 Principle is for moral conduct.
 Principle is for scientific inquiry.

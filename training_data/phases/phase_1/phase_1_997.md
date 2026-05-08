@@ -7,7 +7,7 @@ Spaghetti is yellow.
 Spaghetti is in a pile.
 Spaghetti is long and thin.
 
-[user]Where is spaghetti found?
+[user]Where can you find spaghetti?
 [Ninereeds]This is spaghetti.
 Spaghetti is in a pot.
 Spaghetti is on a plate.
@@ -25,7 +25,7 @@ Spaghetti sticks together.
 Spaghetti is messy.
 Spaghetti hangs on a fork and soaks up sauce.
 
-[user]What is spaghetti for?
+[user]What does spaghetti give?
 [Ninereeds]This is spaghetti.
 Spaghetti is for a meal.
 Spaghetti is for dinner.

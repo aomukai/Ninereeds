@@ -7,7 +7,7 @@ Wrestle is a struggle on ground.
 Wrestle is sweat and strain.
 Wrestle is two bodies and arms wrapped tight.
 
-[user]Where is wrestle?
+[user]Where can you find wrestle?
 [Ninereeds]This is wrestle.
 Wrestle is on a padded mat.
 Wrestle is inside a gymnasium.
@@ -25,7 +25,7 @@ Wrestle twists a body into holds.
 Wrestle exhausts muscles and breath.
 Wrestle forces a shoulder down and controls movement.
 
-[user]What is wrestle for?
+[user]What does wrestle give?
 [Ninereeds]This is wrestle.
 Wrestle is for athletic contest.
 Wrestle is for physical training.

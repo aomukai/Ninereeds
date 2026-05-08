@@ -7,7 +7,7 @@ A cluster looks like a bunch of grapes.
 A cluster has a bumpy surface.
 A cluster is round and bumpy.
 
-[user]Where is a cluster?
+[user]Where can you find a cluster?
 [Ninereeds]This is a cluster.
 A cluster is on a branch or a vine.
 A cluster is in a bunch.
@@ -25,7 +25,7 @@ A cluster dangles from a vine.
 A cluster drops food at once.
 A cluster is a bunch of fruit and a food source.
 
-[user]What is a cluster used for?
+[user]What does a cluster give?
 [Ninereeds]This is a cluster.
 A cluster gives food at once.
 A cluster feeds a bird or a person.

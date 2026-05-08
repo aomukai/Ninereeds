@@ -25,7 +25,7 @@ Cling attaches a thing to a spot.
 Cling sticks a thing to a surface.
 Cling holds a body tight to a surface.
 
-[user]What is cling for?
+[user]What does cling give?
 [Ninereeds]This is cling.
 Cling is for staying on a wall.
 Cling is for holding on a rock.

@@ -22,7 +22,7 @@ Interacting brings a new state for people or things.
 Interacting brings a useful effect in daily life.
 Interacting brings contact and exchange.
 
-[user]What is Interacting for?
+[user]What does Interacting give?
 [Ninereeds]Interacting is for joining others and sharing action.
 Interacting is for daily work and simple goals.
 Interacting is for clear action in a task.

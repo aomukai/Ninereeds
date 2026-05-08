@@ -14,7 +14,7 @@ A creak comes from a floorboard.
 A creak comes from a stair.
 A creak comes from a hinge.
 A creak comes from old furniture.
-A creak comes from an old door or stair.
+A creak comes from an old door and stair.
 
 [user]What does a creak do?
 [Ninereeds]This is a creak.
@@ -25,7 +25,7 @@ A creak tells of pressure on wood.
 A creak announces a person walking.
 A creak warns of movement on a floor.
 
-[user]What is a creak for?
+[user]What does a creak give?
 [Ninereeds]This is a creak.
 A creak is for warning.
 A creak is for telling age.

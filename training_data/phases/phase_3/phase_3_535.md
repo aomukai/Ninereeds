@@ -25,7 +25,7 @@ A tattoo marks memory.
 A tattoo adds colour.
 A tattoo is art and memory.
 
-[user]What is a tattoo for?
+[user]What does a tattoo give?
 [Ninereeds]This is a tattoo.
 A tattoo is for art.
 A tattoo is for memory.

@@ -7,7 +7,7 @@ A helper is a friend.
 A helper is an assistant.
 A helper is a kind person who assists another.
 
-[user]Where is a helper?
+[user]Where can you find a helper?
 [Ninereeds]This is a helper.
 A helper is in a home.
 A helper is in a school.
@@ -25,7 +25,7 @@ A helper gives advice.
 A helper shares burden.
 A helper provides assistance and makes tasks easier.
 
-[user]What is a helper for?
+[user]What does a helper give?
 [Ninereeds]This is a helper.
 A helper is for support.
 A helper is for easing a load.

@@ -7,7 +7,7 @@ Hum is quiet.
 Hum is a drone.
 Hum is a low soft steady buzz.
 
-[user]Where is hum?
+[user]Where can you find hum?
 [Ninereeds]This is hum.
 Hum is in a room.
 Hum comes from a wire.
@@ -25,7 +25,7 @@ Hum vibrates in place.
 Hum is a constant tone.
 Hum goes on as a constant tone in place.
 
-[user]What is hum for?
+[user]What does hum give?
 [Ninereeds]This is hum.
 Hum tells of power.
 Hum signals a machine.

@@ -7,7 +7,7 @@ A crib is small.
 A crib is made of wood.
 A crib is a small wood bed with rails and a mattress.
 
-[user]Where is a crib?
+[user]Where can you find a crib?
 [Ninereeds]This is a crib.
 A crib is in a nursery.
 A crib is in a bedroom.
@@ -25,7 +25,7 @@ A crib has rails to prevent a fall.
 A crib rocks a baby to sleep.
 A crib is a safe bed that holds a sleeping baby.
 
-[user]What is a crib used for?
+[user]What does a crib give?
 [Ninereeds]This is a crib.
 A crib is for a baby to sleep.
 A crib is for napping.

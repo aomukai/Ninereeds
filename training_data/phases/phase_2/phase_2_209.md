@@ -7,7 +7,7 @@ A cobweb is often in corners.
 A cobweb has many threads.
 A cobweb is a thin delicate silk web with many threads.
 
-[user]Where is a cobweb?
+[user]Where can you find a cobweb?
 [Ninereeds]This is a cobweb.
 A cobweb is in a corner.
 A cobweb is in an attic.
@@ -25,7 +25,7 @@ A cobweb holds things.
 A cobweb is a trap.
 A cobweb catches dust and small insects.
 
-[user]What is a cobweb for?
+[user]What does a cobweb give?
 [Ninereeds]This is a cobweb.
 A cobweb is for catching prey.
 A cobweb is for catching dirt.

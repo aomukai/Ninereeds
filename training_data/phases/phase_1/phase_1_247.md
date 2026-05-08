@@ -7,7 +7,7 @@ A book is a reading thing.
 A book is a stack of pages.
 A book is flat and a reading thing.
 
-[user]Where is a book?
+[user]Where can you find a book?
 [Ninereeds]This is a book.
 A book is on a shelf.
 A book is on a desk.
@@ -25,7 +25,7 @@ A book is for reading.
 A book is a story thing.
 A book tells a story and has pictures.
 
-[user]What is a book for?
+[user]What does a book give?
 [Ninereeds]This is a book.
 A book is for learning.
 A book is for reading.

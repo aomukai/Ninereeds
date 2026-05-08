@@ -5,7 +5,7 @@ outline can be a short plan of main idea.
 outline can show the edge of a thing.
 outline means the outer line of a shape.
 
-[user]Where is outline?
+[user]Where can you find outline?
 [Ninereeds]outline is here.
 outline can be on a drawing.
 outline can be on a map shape.

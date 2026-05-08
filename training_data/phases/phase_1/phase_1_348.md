@@ -7,7 +7,7 @@ A coin is small and round.
 A coin is shiny.
 A coin is round and metal.
 
-[user]Where is a coin?
+[user]Where can you find a coin?
 [Ninereeds]This is a coin.
 A coin is in a pocket or a purse.
 A coin is in a hand.
@@ -25,7 +25,7 @@ A coin clinks on a counter.
 A coin is a round metal that buys things.
 A coin pays for candy and clinks.
 
-[user]What is a coin used for?
+[user]What does a coin give?
 [Ninereeds]This is a coin.
 A coin buys a treat and pays for a bus ride.
 A coin feeds a parking meter.

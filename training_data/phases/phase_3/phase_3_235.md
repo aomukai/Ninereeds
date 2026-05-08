@@ -22,7 +22,7 @@ Evolving brings steady growth.
 Evolving brings deeper change.
 Evolving brings new forms and growth.
 
-[user]What is evolving for?
+[user]What does evolving give?
 [Ninereeds]Evolving is for growing over time.
 Evolving is for shaping change.
 Evolving is for making a form better fit.

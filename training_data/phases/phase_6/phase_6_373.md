@@ -5,7 +5,7 @@ winner can be in a race or game.
 winner can stand by a prize or ribbon.
 winner is the person or team with the best score.
 
-[user]Where is winner?
+[user]Where can you find winner?
 [Ninereeds]winner is here.
 winner can be on a field or stage.
 winner can be by cup or flag.

@@ -7,7 +7,7 @@ An observer pays attention.
 An observer watches things.
 An observer is a person who watches things.
 
-[user]Where is an observer?
+[user]Where can you find an observer?
 [Ninereeds]This is an observer.
 An observer is in a place.
 An observer is near an event.
@@ -25,7 +25,7 @@ An observer learns.
 An observer pays attention.
 An observer watches and learns.
 
-[user]What is an observer for?
+[user]What does an observer give?
 [Ninereeds]This is an observer.
 An observer is for watching events.
 An observer is for gaining knowledge.

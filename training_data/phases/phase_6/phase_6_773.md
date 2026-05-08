@@ -7,7 +7,7 @@ A function is a job.
 A function is a duty.
 A function is a purpose and a role.
 
-[user]Where is a function found?
+[user]Where can you find a function?
 [Ninereeds]This is a function.
 A function is found in machines.
 A function is found in a body.
@@ -25,7 +25,7 @@ A function produces output.
 A function maintains operation.
 A function performs a task and produces output.
 
-[user]What is a function for?
+[user]What does a function give?
 [Ninereeds]This is a function.
 A function is for operation.
 A function is for achieving a goal.

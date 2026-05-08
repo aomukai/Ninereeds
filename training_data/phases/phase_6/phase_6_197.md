@@ -25,7 +25,7 @@ Shrink pulls the edges in.
 Shrink shortens the length.
 Shrink reduces and tightens.
 
-[user]What is shrink for?
+[user]What does shrink give?
 [Ninereeds]This is shrink.
 Shrink is for fitting containers.
 Shrink is for tightening covers.

@@ -7,7 +7,7 @@ A cashier has a register.
 A cashier sits on a stool.
 A cashier is a worker at a counter with a register.
 
-[user]Where is a cashier?
+[user]Where can you find a cashier?
 [Ninereeds]This is a cashier.
 A cashier is at a store.
 A cashier is at a register.
@@ -25,7 +25,7 @@ A cashier bags purchases.
 A cashier greets customers.
 A cashier takes money and bags items.
 
-[user]What is a cashier for?
+[user]What does a cashier give?
 [Ninereeds]This is a cashier.
 A cashier is for checkout.
 A cashier is for payment.

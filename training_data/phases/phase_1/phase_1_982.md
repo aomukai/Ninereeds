@@ -7,7 +7,7 @@ Snow is light.
 Snow is flaky.
 Snow is white and cold.
 
-[user]Where is snow found?
+[user]Where can you find snow?
 [Ninereeds]This is snow.
 Snow is on the ground.
 Snow is on a roof.
@@ -25,7 +25,7 @@ Snow is accumulative.
 Snow is icy.
 Snow is precipitation and cover.
 
-[user]What is snow for?
+[user]What does snow give?
 [Ninereeds]This is snow.
 Snow is for play.
 Snow is for a snowman.

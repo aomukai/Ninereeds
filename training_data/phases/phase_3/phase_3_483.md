@@ -7,7 +7,7 @@ Roast is hot food.
 Roast is cooked food.
 Roast is brown hot food.
 
-[user]Where is roast?
+[user]Where can you find roast?
 [Ninereeds]This is roast.
 Roast is on a plate.
 Roast is in an oven.
@@ -25,7 +25,7 @@ Roast cooks in heat.
 Roast fills a room with smell.
 Roast is food that cooks in heat.
 
-[user]What is roast for?
+[user]What does roast give?
 [Ninereeds]This is roast.
 Roast is for a meal.
 Roast is for a dinner.

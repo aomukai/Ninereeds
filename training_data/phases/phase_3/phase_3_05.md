@@ -25,7 +25,7 @@ The bottle of oil spreads in a pan.
 The bottle of oil drizzles.
 The bottle of oil is tipping and pouring.
 
-[user]What is a bottle of oil for?
+[user]What does a bottle of oil give?
 [Ninereeds]This is a bottle of oil.
 The bottle of oil sits by a pan.
 The bottle of oil tilts.

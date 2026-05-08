@@ -25,7 +25,7 @@ Slam throws a ball down.
 Slam pounds with force.
 Slam shuts and pounds.
 
-[user]What is slam for?
+[user]What does slam give?
 [Ninereeds]This is slam.
 Slam is for closing firmly.
 Slam is for making impact.

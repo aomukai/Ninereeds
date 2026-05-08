@@ -25,7 +25,7 @@ Show shares a message.
 Show creates an experience.
 Show presents and entertains.
 
-[user]What is show for?
+[user]What does show give?
 [Ninereeds]This is show.
 Show is for entertainment.
 Show is for sharing art.

@@ -5,7 +5,7 @@ Confidence is self-assurance.
 Confidence is belief in self.
 Confidence is certainty.
 Confidence is courage.
-Confidence is firm trust or self-assurance.
+Confidence is firm trust and self-assurance.
 
 [user]Where does confidence appear?
 [Ninereeds]This is confidence.
@@ -25,7 +25,7 @@ Confidence reduces fear.
 Confidence promotes resilience.
 Confidence enables action and inspires others.
 
-[user]What is confidence for?
+[user]What does confidence give?
 [Ninereeds]This is confidence.
 Confidence is for leadership.
 Confidence is for achieving dreams.

@@ -14,7 +14,7 @@ A crease appears on cloth.
 A crease appears on a shirt.
 A crease appears on a page.
 A crease appears at a fold.
-A crease appears on paper or cloth at a fold.
+A crease appears on paper and cloth at a fold.
 
 [user]What does a crease do?
 [Ninereeds]This is a crease.
@@ -25,7 +25,7 @@ A crease marks a bend.
 A crease keeps paper bent.
 A crease holds a fold and marks a bend.
 
-[user]What is a crease for?
+[user]What does a crease give?
 [Ninereeds]This is a crease.
 A crease is for folding.
 A crease is for marking a line.

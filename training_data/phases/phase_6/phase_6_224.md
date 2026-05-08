@@ -25,7 +25,7 @@ smell fills a space with a clue.
 smell tells a nose about a source.
 smell is a messenger and a guard.
 
-[user]What is smell for?
+[user]What does smell give?
 [Ninereeds]This is smell.
 smell guides a nose to a meal.
 smell warns a nose of a fire.

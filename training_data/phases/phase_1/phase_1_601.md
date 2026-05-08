@@ -7,7 +7,7 @@ A kitten has whiskers.
 A kitten has a tail.
 A kitten is a small soft cat.
 
-[user]Where is a kitten found?
+[user]Where can you find a kitten?
 [Ninereeds]This is a kitten.
 A kitten is in a basket.
 A kitten is in a home.
@@ -25,7 +25,7 @@ A kitten eats.
 A kitten drinks.
 A kitten purrs sleeps plays.
 
-[user]What is a kitten used for?
+[user]What does a kitten give?
 [Ninereeds]This is a kitten.
 A kitten is a pet.
 A kitten gives love.

@@ -7,7 +7,7 @@ span is solid.
 span is open.
 span is wide and long.
 
-[user]Where is span?
+[user]Where can you find span?
 [Ninereeds]This is span.
 span is on a bridge.
 span is above a river.
@@ -25,7 +25,7 @@ span bridges a gap.
 span supports a roadway.
 span connects and holds.
 
-[user]What is span for?
+[user]What does span give?
 [Ninereeds]This is span.
 span is for crossing.
 span is for bearing weight.

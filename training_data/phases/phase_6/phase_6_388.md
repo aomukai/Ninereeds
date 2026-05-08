@@ -7,7 +7,7 @@ youth is in school years.
 youth is a stage before full age.
 youth is young and lively.
 
-[user]Where is youth?
+[user]Where can you find youth?
 [Ninereeds]This is youth.
 youth is in a life story.
 youth is on a page about age.

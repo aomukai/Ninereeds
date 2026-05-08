@@ -7,7 +7,7 @@ Loop is a ring of rope.
 Loop is a closed path.
 Loop is a round closed shape.
 
-[user]Where is loop?
+[user]Where can you find loop?
 [Ninereeds]This is loop.
 Loop is in a knot.
 Loop is on a rope.
@@ -32,4 +32,4 @@ Loop is used to tie a shoe.
 Loop is used to hold a curtain.
 Loop is used to pull a rope.
 Loop is used to fasten a bag.
-Loop is used to hang or tie things.
+Loop is used to hang and tie things.

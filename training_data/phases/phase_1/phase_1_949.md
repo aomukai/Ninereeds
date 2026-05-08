@@ -7,7 +7,7 @@ A shower has a knob.
 A shower is in a bathroom.
 A shower is a head and a drain.
 
-[user]Where is a shower found?
+[user]Where can you find a shower?
 [Ninereeds]This is a shower.
 A shower is in a bathroom.
 A shower stands in a stall.
@@ -25,7 +25,7 @@ A shower flows warm water.
 A shower washes dirt away.
 A shower is a water sprayer and a soap rinser.
 
-[user]What is a shower for?
+[user]What does a shower give?
 [Ninereeds]This is a shower.
 A shower cleans the body.
 A shower washes skin.

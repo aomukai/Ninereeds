@@ -7,7 +7,7 @@ A farce is an absurd situation.
 A farce is a ludicrous event.
 A farce is a play and an absurd situation.
 
-[user]Where is farce found?
+[user]Where can you find farce?
 [Ninereeds]This is farce.
 Farce is found in theater.
 Farce is found in movies.
@@ -25,7 +25,7 @@ Farce provides entertainment.
 Farce makes a statement.
 Farce makes people laugh and highlights absurdity.
 
-[user]What is farce for?
+[user]What does farce give?
 [Ninereeds]This is farce.
 Farce is for entertainment.
 Farce is for humor.

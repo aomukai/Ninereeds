@@ -7,7 +7,7 @@ A skyscraper has a steel frame
 A skyscraper has a pointed top
 A skyscraper is a tall building with many floors
 
-[user]Where is a skyscraper?
+[user]Where can you find a skyscraper?
 [Ninereeds]This is a skyscraper.
 A skyscraper is in a city
 A skyscraper is in a downtown
@@ -25,7 +25,7 @@ A skyscraper fills the block
 A skyscraper dominates the area
 A skyscraper holds offices and houses people
 
-[user]What is a skyscraper for?
+[user]What does a skyscraper give?
 [Ninereeds]This is a skyscraper.
 A skyscraper is for work
 A skyscraper is for living

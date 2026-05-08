@@ -7,7 +7,7 @@ Progress is a development.
 Progress is a step ahead.
 Progress is a forward movement and an improvement.
 
-[user]Where is progress found?
+[user]Where can you find progress?
 [Ninereeds]This is progress.
 Progress is found in learning.
 Progress is found in projects.
@@ -25,7 +25,7 @@ Progress makes things better.
 Progress leads to completion.
 Progress brings things closer to a goal and makes things better.
 
-[user]What is progress for?
+[user]What does progress give?
 [Ninereeds]This is progress.
 Progress is for achievement.
 Progress is for betterment.

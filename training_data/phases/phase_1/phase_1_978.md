@@ -7,14 +7,14 @@ A snack is on a plate.
 A snack is a bite.
 A snack is a small piece of food.
 
-[user]Where is a snack found?
+[user]Where can you find a snack?
 [Ninereeds]This is a snack.
 A snack is in a kitchen.
 A snack is in a lunchbox.
 A snack is in a store.
 A snack is on a shelf.
 A snack is in a hand.
-A snack is in a kitchen or a lunchbox.
+A snack is in a kitchen and a lunchbox.
 
 [user]What does a snack do?
 [Ninereeds]This is a snack.
@@ -25,7 +25,7 @@ A snack is quick to eat.
 A snack is for between meals.
 A snack fills a tummy and stops hunger.
 
-[user]What is a snack for?
+[user]What does a snack give?
 [Ninereeds]This is a snack.
 A snack is for a break.
 A snack is for a child.

@@ -7,7 +7,7 @@ A finger has a knuckle.
 A finger has a nail.
 A finger is a long thin part of a hand.
 
-[user]Where is a finger?
+[user]Where can you find a finger?
 [Ninereeds]This is a finger.
 A finger is on a hand.
 A finger is at the end of a palm.

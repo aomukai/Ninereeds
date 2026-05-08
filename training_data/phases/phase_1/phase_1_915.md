@@ -7,7 +7,7 @@ A seagull has a yellow beak.
 A seagull has webbed feet.
 A seagull is a bird with white feathers and gray wings.
 
-[user]Where is a seagull?
+[user]Where can you find a seagull?
 [Ninereeds]This is a seagull.
 A seagull is at the beach.
 A seagull is near the sea.
@@ -25,7 +25,7 @@ A seagull calls loudly.
 A seagull eats scraps on the sand.
 A seagull flies over the sea and swoops for fish.
 
-[user]What is a seagull for?
+[user]What does a seagull give?
 [Ninereeds]This is a seagull.
 A seagull is part of the sea shore.
 A seagull is a sign of the coast.

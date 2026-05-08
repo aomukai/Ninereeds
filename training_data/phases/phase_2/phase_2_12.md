@@ -7,14 +7,14 @@ Lunchtime has people resting.
 Lunchtime is a break.
 Lunchtime is a part of the day when people eat lunch and rest.
 
-[user]Where is lunchtime?
+[user]Where can you find lunchtime?
 [Ninereeds]This is lunchtime.
 Lunchtime is in the middle of the day.
 Lunchtime is at school.
 Lunchtime is at work.
 Lunchtime is at home.
 Lunchtime is a scheduled period.
-Lunchtime is in the middle of the day, at school or work.
+Lunchtime is in the middle of the day, at school and work.
 
 [user]How does lunchtime behave?
 [Ninereeds]This is lunchtime.

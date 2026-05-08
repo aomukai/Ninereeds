@@ -7,7 +7,7 @@ A carpenter has a saw.
 A carpenter has a measuring tape.
 A carpenter is a worker with a hammer and saw.
 
-[user]Where is a carpenter?
+[user]Where can you find a carpenter?
 [Ninereeds]This is a carpenter.
 A carpenter is at a worksite.
 A carpenter is in a workshop.
@@ -25,7 +25,7 @@ A carpenter builds walls.
 A carpenter makes furniture.
 A carpenter cuts wood and builds walls.
 
-[user]What is a carpenter for?
+[user]What does a carpenter give?
 [Ninereeds]This is a carpenter.
 A carpenter is for building.
 A carpenter is for fixing.

@@ -22,7 +22,7 @@ Excepting brings separation in a rule.
 Excepting brings a changed count.
 Excepting brings exclusion and limit.
 
-[user]What is excepting for?
+[user]What does excepting give?
 [Ninereeds]Excepting is for leaving out a part.
 Excepting is for making a rule exact.
 Excepting is for marking a special case.

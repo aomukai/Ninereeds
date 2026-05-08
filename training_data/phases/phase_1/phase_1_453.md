@@ -7,7 +7,7 @@ A ferry has a hull and a mast.
 A ferry is a vessel on the water.
 A ferry is a large boat with a deck and a cabin.
 
-[user]Where is a ferry?
+[user]Where can you find a ferry?
 [Ninereeds]This is a ferry.
 A ferry is on water at a dock in a harbor.
 A ferry is on a river at a port.
@@ -25,7 +25,7 @@ A ferry goes back and forth on the water.
 A ferry transports people and goods and cars.
 A ferry crosses water and carries people and cars.
 
-[user]What is a ferry for?
+[user]What does a ferry give?
 [Ninereeds]This is a ferry.
 A ferry is for travel and transport on water.
 A ferry is for crossing a river or a bay.

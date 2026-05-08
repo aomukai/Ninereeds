@@ -25,7 +25,7 @@ spread fills gaps.
 spread coats an object.
 spread is covering and expanding.
 
-[user]What is spread for?
+[user]What does spread give?
 [Ninereeds]This is spread.
 spread is for buttering bread.
 spread is for painting walls.

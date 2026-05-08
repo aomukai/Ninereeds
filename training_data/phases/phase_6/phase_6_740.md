@@ -25,7 +25,7 @@ Could is used to indicate potential.
 Could is used to express past capability.
 Could is used to suggest an option and indicate potential.
 
-[user]What is could for?
+[user]What does could give?
 [Ninereeds]This is could.
 Could is used for expressing possibility.
 Could is used for making polite requests.

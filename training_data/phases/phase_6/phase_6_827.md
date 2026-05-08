@@ -7,7 +7,7 @@ An asset is a possession.
 An asset is a benefit.
 An asset is a valuable thing and a resource.
 
-[user]Where is an asset found?
+[user]Where can you find an asset?
 [Ninereeds]This is an asset.
 An asset is found in a bank.
 An asset is found in a company.
@@ -25,7 +25,7 @@ An asset can be traded.
 An asset ensures security.
 An asset provides value and generates income.
 
-[user]What is an asset for?
+[user]What does an asset give?
 [Ninereeds]This is an asset.
 An asset is for growth.
 An asset is for stability.

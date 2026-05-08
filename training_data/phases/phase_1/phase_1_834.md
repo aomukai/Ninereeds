@@ -7,14 +7,14 @@ A rabbit has a short tail.
 A rabbit is an animal.
 A rabbit is a small animal with fur long ears and a short tail.
 
-[user]Where is a rabbit?
+[user]Where can you find a rabbit?
 [Ninereeds]This is a rabbit.
 A rabbit is in a field.
 A rabbit is in a hole.
 A rabbit is in a garden.
 A rabbit is in a forest.
 A rabbit is in a hutch.
-A rabbit is in a field in a garden or in a forest.
+A rabbit is in a field in a garden and in a forest.
 
 [user]What does a rabbit do?
 [Ninereeds]This is a rabbit.
@@ -25,7 +25,7 @@ A rabbit twitches a nose.
 A rabbit hides from danger.
 A rabbit hops eats grass and digs holes.
 
-[user]What is a rabbit for?
+[user]What does a rabbit give?
 [Ninereeds]This is a rabbit.
 A rabbit is for food.
 A rabbit is for pets.

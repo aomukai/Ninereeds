@@ -5,9 +5,9 @@ Paper is white or colored.
 Paper has a smooth surface.
 Paper comes in rectangle size.
 Paper can have lines or grids.
-Paper is a thin flat sheet that is white or colored.
+Paper is a thin flat sheet that is white and colored.
 
-[user]Where is paper?
+[user]Where can you find paper?
 [Ninereeds]This is paper.
 Paper is on a desk.
 Paper sits in a notebook.
@@ -25,7 +25,7 @@ Paper wraps gifts and items.
 Paper absorbs ink and paint.
 Paper holds writing from a pen and shows drawings and art.
 
-[user]What is paper for?
+[user]What does paper give?
 [Ninereeds]This is paper.
 Paper is for writing on.
 Paper is for printing on.

@@ -25,7 +25,7 @@ Walk moves a person along a path.
 Walk takes one step after another.
 Walk carries a person on two legs from place to place.
 
-[user]What is walk for?
+[user]What does walk give?
 [Ninereeds]This is walk.
 Walk is for getting to a place.
 Walk is for exercise.

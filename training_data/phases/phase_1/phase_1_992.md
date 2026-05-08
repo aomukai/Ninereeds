@@ -7,7 +7,7 @@ A song has a beat.
 A song is for a voice.
 A song is a tune and a beat.
 
-[user]Where is a song found?
+[user]Where can you find a song?
 [Ninereeds]This is a song.
 A song is on a radio.
 A song is on a phone.
@@ -25,7 +25,7 @@ A song tells a story.
 A song is a melody.
 A song is a melody and for people.
 
-[user]What is a song for?
+[user]What does a song give?
 [Ninereeds]This is a song.
 A song is for dancing.
 A song is for singing.

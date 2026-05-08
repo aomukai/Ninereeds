@@ -7,7 +7,7 @@ An alligator has a thick tail.
 An alligator has scaly skin.
 An alligator is large and scaly.
 
-[user]Where is an alligator?
+[user]Where can you find an alligator?
 [Ninereeds]This is an alligator.
 An alligator is in a swamp.
 An alligator is in a river.

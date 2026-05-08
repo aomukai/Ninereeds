@@ -22,7 +22,7 @@ Carving brings decorated objects.
 Carving brings visible detail.
 Carving brings detail and pattern.
 
-[user]What is carving for?
+[user]What does carving give?
 [Ninereeds]Carving is for making shapes.
 Carving is for adding detail.
 Carving is for marking surfaces.

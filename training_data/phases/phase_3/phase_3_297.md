@@ -25,7 +25,7 @@ A cough opens the airway.
 A cough expels mucus from the chest.
 A cough clears the throat with a burst of air.
 
-[user]What is a cough for?
+[user]What does a cough give?
 [Ninereeds]This is a cough.
 A cough is for clearing the throat.
 A cough is for removing a tickle.

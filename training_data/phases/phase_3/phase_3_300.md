@@ -25,7 +25,7 @@ A crash scatters parts on the ground.
 A crash damages a vehicle.
 A crash is loud and damaging.
 
-[user]What is a crash for?
+[user]What does a crash give?
 [Ninereeds]This is a crash.
 A crash is for warning.
 A crash is for stopping.

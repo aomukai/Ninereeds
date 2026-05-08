@@ -7,7 +7,7 @@ Jam is soft.
 Jam is made from fruit.
 Jam is thick sweet soft paste from fruit.
 
-[user]Where is jam?
+[user]Where can you find jam?
 [Ninereeds]This is jam.
 Jam is in a jar.
 Jam is on toast.
@@ -22,7 +22,7 @@ Jam spreads on bread.
 Jam sticks to a knife.
 Jam sits in a jar.
 Jam stays thick on toast.
-Jam does not drip.
+Jam does drip.
 Jam spreads on bread and stays thick.
 
 [user]What does jam give?

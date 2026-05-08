@@ -7,7 +7,7 @@ Bread has a soft inside.
 Bread is sliced in pieces.
 Bread is soft and brown.
 
-[user]Where is bread?
+[user]Where can you find bread?
 [Ninereeds]This is bread.
 Bread is on a plate.
 Bread is in a bag.
@@ -25,7 +25,7 @@ Bread gets hard when old.
 Bread toasts in a toaster.
 Bread fills a stomach and gives energy.
 
-[user]What is bread for?
+[user]What does bread give?
 [Ninereeds]This is bread.
 Bread is for eating.
 Bread is for sandwiches.

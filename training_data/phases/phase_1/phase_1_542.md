@@ -7,7 +7,7 @@ A gut is soft and wet.
 A gut connects the mouth to the belly.
 A gut is a long pink tube inside the body.
 
-[user]Where is a gut?
+[user]Where can you find a gut?
 [Ninereeds]This is a gut.
 A gut is in the belly.
 A gut is below the chest.
@@ -25,7 +25,7 @@ A gut pushes the rest out.
 A gut keeps the body fed.
 A gut breaks down food and moves food through the body.
 
-[user]What is a gut for?
+[user]What does a gut give?
 [Ninereeds]This is a gut.
 A gut is for digestion.
 A gut is for food.

@@ -25,7 +25,7 @@ A kit is for providing parts.
 A kit is for making work easier.
 A kit is for building and for fixing.
 
-[user]What is a kit for?
+[user]What does a kit give?
 [Ninereeds]This is a kit.
 A kit waits to be used.
 A kit holds items.

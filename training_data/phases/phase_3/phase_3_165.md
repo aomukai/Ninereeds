@@ -25,7 +25,7 @@ Activity transforms environments.
 Activity maintains momentum.
 Activity drives progress and transforms environments.
 
-[user]What is activity for?
+[user]What does activity give?
 [Ninereeds]This is an activity.
 Activity is for learning.
 Activity is for fun.

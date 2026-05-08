@@ -22,7 +22,7 @@ Requiring brings pressure for action.
 Requiring brings a needed step.
 Requiring brings duty and structure.
 
-[user]What is requiring for?
+[user]What does requiring give?
 [Ninereeds]Requiring is for setting a standard.
 Requiring is for guiding action.
 Requiring is for keeping order.

@@ -7,7 +7,7 @@ A crab is sideways.
 A crab is small.
 A crab is a small shelled animal with claws and legs.
 
-[user]Where is a crab?
+[user]Where can you find a crab?
 [Ninereeds]This is a crab.
 A crab is at the beach.
 A crab is in the ocean.
@@ -25,7 +25,7 @@ A crab hides under a shell.
 A crab scuttles away from a wave.
 A crab is a shelled animal that walks sideways in the sand.
 
-[user]What is a crab used for?
+[user]What does a crab give?
 [Ninereeds]This is a crab.
 A crab is food for a person.
 A crab is food for a fish.

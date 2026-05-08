@@ -7,7 +7,7 @@ A dinosaur has a long tail.
 A dinosaur has small teeth.
 A dinosaur is a big animal with a long neck and a long tail.
 
-[user]Where is a dinosaur?
+[user]Where can you find a dinosaur?
 [Ninereeds]This is a dinosaur.
 A dinosaur lives on land.
 A dinosaur walks in a forest.
@@ -25,7 +25,7 @@ A dinosaur roars loud.
 A dinosaur swings a tail.
 A dinosaur eats leaves and roars loud.
 
-[user]What is a dinosaur for?
+[user]What does a dinosaur give?
 [Ninereeds]This is a dinosaur.
 A dinosaur is for museums.
 A dinosaur is for books.

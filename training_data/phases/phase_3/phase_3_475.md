@@ -7,7 +7,7 @@ A rescue is a firefighter or a carrier.
 A rescue is a boat picking up a swimmer.
 A rescue is a lifeguard and a firefighter.
 
-[user]Where is a rescue found?
+[user]Where can you find a rescue?
 [Ninereeds]This is a rescue.
 A rescue is at the beach or coast.
 A rescue is on a mountain trail.
@@ -25,7 +25,7 @@ A rescue moves a victim to safety.
 A rescue gives first aid and comfort.
 A rescue is a pull from danger and a move to safety.
 
-[user]What is a rescue used for?
+[user]What does a rescue give?
 [Ninereeds]This is a rescue.
 A rescue saves a stranded hiker.
 A rescue frees a trapped animal.

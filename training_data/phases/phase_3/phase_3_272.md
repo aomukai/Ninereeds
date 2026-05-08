@@ -25,7 +25,7 @@ Bruise feels tender.
 Bruise heals over time.
 Bruise is a mark from a bump.
 
-[user]What is bruise for?
+[user]What does bruise give?
 [Ninereeds]This is bruise.
 Bruise is for showing hurt.
 Bruise is for warning care.

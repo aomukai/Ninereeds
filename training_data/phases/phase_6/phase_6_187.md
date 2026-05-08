@@ -5,7 +5,7 @@ shine can be on a star.
 shine can be on a lamp or floor.
 shine means an act of giving off bright light.
 
-[user]Where is shine?
+[user]Where can you find shine?
 [Ninereeds]shine is here.
 shine can be on a star.
 shine can be on a lamp or floor.

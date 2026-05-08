@@ -22,7 +22,7 @@ Cooking brings new smell into a room.
 Cooking brings flavor out of food.
 Cooking brings warmth and flavor.
 
-[user]what is cooking for?
+[user]what does cooking give?
 [Ninereeds]Cooking is for making meals.
 Cooking is for softening raw food.
 Cooking is for feeding a group.

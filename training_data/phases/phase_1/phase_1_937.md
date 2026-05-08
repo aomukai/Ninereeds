@@ -7,7 +7,7 @@ A shell is white or brown.
 A shell protects the inside.
 A shell is hard and round.
 
-[user]Where is a shell?
+[user]Where can you find a shell?
 [Ninereeds]This is a shell.
 A shell is on a beach.
 A shell is on a snail.
@@ -25,7 +25,7 @@ A shell is a hard cover.
 A shell guards the animal.
 A shell protects the animal inside and keeps the animal safe.
 
-[user]What is a shell for?
+[user]What does a shell give?
 [Ninereeds]This is a shell.
 A shell is for protection.
 A shell is for covering.

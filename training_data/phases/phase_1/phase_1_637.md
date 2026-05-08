@@ -7,7 +7,7 @@ A lizard has scales on the skin.
 A lizard has claws on the feet.
 A lizard is green and brown on the ground.
 
-[user]Where is a lizard?
+[user]Where can you find a lizard?
 [Ninereeds]This is a lizard.
 A lizard is on a rock.
 A lizard is in the sun.
@@ -25,7 +25,7 @@ A lizard eats a bug and a fly.
 A lizard hides in a hole from a bird.
 A lizard sits in the sun and hunts a bug.
 
-[user]What is a lizard for?
+[user]What does a lizard give?
 [Ninereeds]This is a lizard.
 A lizard eats bugs.
 A lizard is food for a bird.

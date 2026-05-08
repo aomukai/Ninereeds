@@ -7,7 +7,7 @@ A net is light.
 A net is a square of rope.
 A net is light and full of holes.
 
-[user]Where is a net?
+[user]Where can you find a net?
 [Ninereeds]This is a net.
 A net is at a beach.
 A net is on a boat.
@@ -25,7 +25,7 @@ A net sways in wind.
 A net blocks things.
 A net is a tool that catches and blocks things.
 
-[user]What is a net for?
+[user]What does a net give?
 [Ninereeds]This is a net.
 A net is for catching fish.
 A net is for playing games.

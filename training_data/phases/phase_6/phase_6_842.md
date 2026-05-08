@@ -7,7 +7,7 @@ Revision is an improvement.
 Revision is a re-examination.
 Revision is a change and a correction.
 
-[user]Where is revision found?
+[user]Where can you find revision?
 [Ninereeds]This is revision.
 Revision is found in documents.
 Revision is found in plans.
@@ -25,7 +25,7 @@ Revision adapts to new information.
 Revision refines a concept.
 Revision improves quality and corrects errors.
 
-[user]What is revision for?
+[user]What does revision give?
 [Ninereeds]This is revision.
 Revision is for accuracy.
 Revision is for clarity.

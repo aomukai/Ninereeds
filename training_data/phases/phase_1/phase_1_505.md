@@ -7,7 +7,7 @@ Garlic has green tops.
 Garlic has a strong smell.
 Garlic is a bulb and a strong-smelling plant.
 
-[user]Where is garlic found?
+[user]Where can you find garlic?
 [Ninereeds]This is garlic.
 Garlic is in the ground.
 Garlic is in a garden.
@@ -25,7 +25,7 @@ Garlic keeps bugs away.
 Garlic stays fresh a long time.
 Garlic is a plant and a seasoning.
 
-[user]What is garlic for?
+[user]What does garlic give?
 [Ninereeds]This is garlic.
 Garlic is for cooking.
 Garlic is for taste.

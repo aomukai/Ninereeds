@@ -5,7 +5,7 @@ pun can use one word in two ways.
 pun can bring a fast laugh in talk.
 pun means a joke that plays with word sound or meaning.
 
-[user]Where is pun?
+[user]Where can you find pun?
 [Ninereeds]pun is here.
 pun can be in a joke book.
 pun can be in a class talk.

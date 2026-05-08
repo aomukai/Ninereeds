@@ -14,7 +14,7 @@ Parent-offspring-care-behavior is in humans.
 Parent-offspring-care-behavior is in nature.
 Parent-offspring-care-behavior is in a family.
 Parent-offspring-care-behavior is in a species.
-Parent-offspring-care-behavior is in animals or humans.
+Parent-offspring-care-behavior is in animals and humans.
 
 [user]What does parent-offspring-care-behavior do?
 [Ninereeds]This is parent-offspring-care-behavior.
@@ -25,7 +25,7 @@ Parent-offspring-care-behavior strengthens bonds.
 Parent-offspring-care-behavior prepares for independence.
 Parent-offspring-care-behavior ensures survival and promotes development.
 
-[user]What is parent-offspring-care-behavior for?
+[user]What does parent-offspring-care-behavior give?
 [Ninereeds]This is parent-offspring-care-behavior.
 Parent-offspring-care-behavior is for species continuity.
 Parent-offspring-care-behavior is for individual well-being.

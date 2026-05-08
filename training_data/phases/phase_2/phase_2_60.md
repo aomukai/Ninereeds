@@ -6,7 +6,7 @@ The shinbone is made of bone.
 The shinbone is strong.
 A shinbone is the bone in the front of the lower leg.
 
-[user]Where is a shinbone?
+[user]Where can you find a shinbone?
 [Ninereeds]This is a shinbone.
 The shinbone is in the leg.
 The shinbone is below the knee.

@@ -7,7 +7,7 @@ Disagreement is a lack of accord.
 Disagreement is a conflict.
 Disagreement is a difference of opinion and a quarrel.
 
-[user]Where is disagreement found?
+[user]Where can you find disagreement?
 [Ninereeds]This is disagreement.
 Disagreement is found in conversations.
 Disagreement is found in meetings.
@@ -25,7 +25,7 @@ Disagreement reveals diversity of thought.
 Disagreement stimulates discussion.
 Disagreement challenges a view and creates tension.
 
-[user]What is disagreement for?
+[user]What does disagreement give?
 [Ninereeds]This is disagreement.
 Disagreement is for exploring ideas.
 Disagreement is for finding common ground.

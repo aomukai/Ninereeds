@@ -7,7 +7,7 @@ Prejudice is unfair.
 Prejudice is a preconceived idea.
 Prejudice is a strong feeling and an unfair judgment.
 
-[user]Where is prejudice found?
+[user]Where can you find prejudice?
 [Ninereeds]This is prejudice.
 Prejudice is found in minds.
 Prejudice is found in groups.
@@ -25,7 +25,7 @@ Prejudice harms people.
 Prejudice leads to discrimination.
 Prejudice causes unfairness and creates division.
 
-[user]What is prejudice for?
+[user]What does prejudice give?
 [Ninereeds]This is prejudice.
 Prejudice is for protecting a group.
 Prejudice is for maintaining old ways.

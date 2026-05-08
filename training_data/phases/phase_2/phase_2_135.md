@@ -25,7 +25,7 @@ An actor entertains people.
 An actor creates emotion.
 An actor plays a role and entertains people.
 
-[user]What is an actor for?
+[user]What does an actor give?
 [Ninereeds]This is an actor.
 An actor is for entertainment.
 An actor is for storytelling.

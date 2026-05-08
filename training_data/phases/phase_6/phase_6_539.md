@@ -5,7 +5,7 @@ Clarity is lucidity.
 Clarity is precision.
 Clarity is intelligibility.
 Clarity is distinctness.
-Clarity is clearness or lucidity.
+Clarity is clearness and lucidity.
 
 [user]Where does clarity appear?
 [Ninereeds]This is clarity.
@@ -25,7 +25,7 @@ Clarity facilitates decision-making.
 Clarity reveals truth.
 Clarity aids understanding and improves communication.
 
-[user]What is clarity for?
+[user]What does clarity give?
 [Ninereeds]This is clarity.
 Clarity is for effective communication.
 Clarity is for problem-solving.

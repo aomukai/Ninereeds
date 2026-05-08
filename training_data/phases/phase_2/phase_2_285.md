@@ -25,7 +25,7 @@ A mural makes people think.
 A mural changes the look.
 A mural is a storytelling and beautifying art.
 
-[user]What is a mural for?
+[user]What does a mural give?
 [Ninereeds]This is a mural.
 A mural is for art.
 A mural is for decoration.

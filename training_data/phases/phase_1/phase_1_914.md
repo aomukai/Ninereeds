@@ -6,7 +6,7 @@ The sea has waves.
 The sea is water.
 The sea is wide and deep.
 
-[user]Where is the sea?
+[user]Where can you find the sea?
 [Ninereeds]The sea is next to land.
 The sea is at the shore.
 The sea is at the beach.
@@ -22,7 +22,7 @@ The sea moves up and down.
 The sea changes with the moon.
 The sea has tides and makes waves.
 
-[user]What is the sea for?
+[user]What does the sea give?
 [Ninereeds]The sea is for fish.
 The sea is for boats.
 The sea is for swimming.

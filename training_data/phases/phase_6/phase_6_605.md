@@ -2,8 +2,8 @@
 [Ninereeds]This is an explanation.
 Explanation is made of words.
 Explanation is made of ideas.
-Explanation has no shape.
-Explanation has no color.
+Explanation lacks shape.
+Explanation lacks color.
 Explanation makes things clear.
 Explanation is made of words and ideas.
 
@@ -25,7 +25,7 @@ Explanation tells why something happened.
 Explanation helps a person learn.
 Explanation makes understanding easy and removes confusion.
 
-[user]What is explanation for?
+[user]What does explanation give?
 [Ninereeds]This is an explanation.
 Explanation is for clarity.
 Explanation is for learning.

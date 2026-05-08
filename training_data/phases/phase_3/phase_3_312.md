@@ -14,7 +14,7 @@ A curl appears on a page.
 A curl appears on a ribbon.
 A curl appears on a vine.
 A curl appears on a wave.
-A curl appears on a head or a vine.
+A curl appears on a head and a vine.
 
 [user]What does a curl do?
 [Ninereeds]This is a curl.
@@ -25,7 +25,7 @@ A curl springs back when pulled.
 A curl adds texture to hair.
 A curl bounces and holds a round shape.
 
-[user]What is a curl for?
+[user]What does a curl give?
 [Ninereeds]This is a curl.
 A curl is for decoration.
 A curl is for beauty.

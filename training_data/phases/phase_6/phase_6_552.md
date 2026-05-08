@@ -25,7 +25,7 @@ A doctor offers advice.
 A doctor cares for patients.
 A doctor diagnoses and prescribes.
 
-[user]What is doctor for?
+[user]What does doctor give?
 [Ninereeds]This is a doctor.
 A doctor is for health.
 A doctor is for well-being.

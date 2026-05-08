@@ -5,7 +5,7 @@ sell can be in a shop.
 sell can be at a market or stall.
 sell means an act of giving a thing for money.
 
-[user]Where is sell?
+[user]Where can you find sell?
 [Ninereeds]sell is here.
 sell can be in a shop.
 sell can be at a market or stall.

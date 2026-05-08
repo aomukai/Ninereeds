@@ -25,7 +25,7 @@ Wake starts movement in the body.
 Wake makes a person get up.
 Wake turns sleep into awake and starts the day.
 
-[user]What is wake for?
+[user]What does wake give?
 [Ninereeds]This is wake.
 Wake is for starting the day.
 Wake is for getting out of bed.

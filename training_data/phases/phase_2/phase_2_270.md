@@ -25,7 +25,7 @@ A marsh provides food for fish.
 A marsh protects the land.
 A marsh is a home and a filter for water.
 
-[user]What is a marsh for?
+[user]What does a marsh give?
 [Ninereeds]This is a marsh.
 A marsh is for plants.
 A marsh is for animals.

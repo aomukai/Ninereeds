@@ -5,7 +5,7 @@ Consequence is an outcome.
 Consequence is an effect.
 Consequence is what happens next.
 Consequence is a follow-up.
-Consequence is a result or outcome.
+Consequence is a result and outcome.
 
 [user]Where does consequence appear?
 [Ninereeds]This is a consequence.
@@ -25,7 +25,7 @@ Consequence creates new situations.
 Consequence reveals responsibility.
 Consequence teaches lessons and shows impact.
 
-[user]What is consequence for?
+[user]What does consequence give?
 [Ninereeds]This is a consequence.
 Consequence is for learning.
 Consequence is for decision making.

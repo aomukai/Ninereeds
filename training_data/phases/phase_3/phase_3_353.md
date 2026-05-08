@@ -25,7 +25,7 @@ Fix tightens a loose part in place.
 Fix patches a hole in a wall.
 Fix puts a broken piece back together.
 
-[user]What is fix for?
+[user]What does fix give?
 [Ninereeds]This is fix.
 Fix gives a broken thing new use.
 Fix makes a torn thing good again.

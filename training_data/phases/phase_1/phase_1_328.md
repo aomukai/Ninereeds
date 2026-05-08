@@ -25,11 +25,11 @@ A chimp makes sounds.
 A chimp grooms other chimps.
 A chimp climbs trees and swings from branches.
 
-[user]What is a chimp for?
+[user]What does a chimp give?
 [Ninereeds]This is a chimp.
 A chimp is for a jungle.
 A chimp is for a zoo.
 A chimp is for climbing.
 A chimp is for fruit.
 A chimp is for grooming.
-A chimp is a jungle animal for a zoo.
+A chimp is a jungle animal and for a zoo.

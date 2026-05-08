@@ -7,7 +7,7 @@ An instant is a second.
 An instant is a quick happening.
 An instant is a very short moment in time.
 
-[user]Where is an instant?
+[user]Where can you find an instant?
 [Ninereeds]This is an instant.
 An instant is in a clock.
 An instant is in a thought.
@@ -25,7 +25,7 @@ An instant creates a memory.
 An instant breaks a flow.
 An instant marks a change and starts an action.
 
-[user]What is an instant for?
+[user]What does an instant give?
 [Ninereeds]This is an instant.
 An instant is for quick decisions.
 An instant is for immediate action.

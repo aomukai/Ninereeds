@@ -25,7 +25,7 @@ A fold layers a towel on a rack.
 A fold pleats a skirt at the waist.
 A fold bends a cloth in half and creases a sheet of paper.
 
-[user]What is a fold for?
+[user]What does a fold give?
 [Ninereeds]This is a fold.
 A fold helps store a shirt in a drawer.
 A fold keeps paper flat in a book.

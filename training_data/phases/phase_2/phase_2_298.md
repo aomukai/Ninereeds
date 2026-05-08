@@ -7,7 +7,7 @@ A parade has bright colors.
 A parade has banners.
 A parade is a colorful procession of floats and people.
 
-[user]Where is a parade?
+[user]Where can you find a parade?
 [Ninereeds]This is a parade.
 A parade is on a street.
 A parade is in a town.

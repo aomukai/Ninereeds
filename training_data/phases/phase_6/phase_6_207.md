@@ -25,7 +25,7 @@ Sip hydrates the body.
 Sip prevents spilling.
 Sip brings and tests.
 
-[user]What is sip for?
+[user]What does sip give?
 [Ninereeds]This is sip.
 Sip is for tasting drinks.
 Sip is for drinking slowly.

@@ -7,14 +7,14 @@ A market has people.
 A market is busy.
 A market is a busy place with stalls and goods.
 
-[user]Where is a market?
+[user]Where can you find a market?
 [Ninereeds]This is a market.
 A market is in a town square.
 A market is in a store.
 A market is on the internet.
 A market is in a stock exchange.
 A market is in a street.
-A market is in a town square or on the internet.
+A market is in a town square and on the internet.
 
 [user]What does a market do?
 [Ninereeds]This is a market.
@@ -25,7 +25,7 @@ A market exchanges goods.
 A market creates demand.
 A market sells things and brings buyers and sellers.
 
-[user]What is a market for?
+[user]What does a market give?
 [Ninereeds]This is a market.
 A market is for trading.
 A market is for buying.

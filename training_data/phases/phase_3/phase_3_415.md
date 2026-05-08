@@ -7,7 +7,7 @@ A knot is a bump on a cord.
 A knot is a fastening.
 A knot is a twist in rope and a loop tied tight.
 
-[user]Where is a knot?
+[user]Where can you find a knot?
 [Ninereeds]This is a knot.
 A knot is at an end of a rope.
 A knot is in a middle of a string.
@@ -25,7 +25,7 @@ A knot stops a rope from a slip.
 A knot binds things together.
 A knot holds rope in place and binds things together.
 
-[user]What is a knot for?
+[user]What does a knot give?
 [Ninereeds]This is a knot.
 A knot ties a boat.
 A knot closes a bag.

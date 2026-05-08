@@ -1,10 +1,10 @@
 [user]What does error look like?
 [Ninereeds]This is an error.
 Error is a mistake.
-Error is not seen.
+Error is seen.
 Error is a difference from right.
-Error has no shape.
-Error has no color.
+Error lacks shape.
+Error lacks color.
 Error is a mistake and a difference from right.
 
 [user]Where does error appear?
@@ -25,11 +25,11 @@ Error needs correction.
 Error creates confusion.
 Error causes problems and makes things wrong.
 
-[user]What is error for?
+[user]What does error give?
 [Ninereeds]This is an error.
 Error is for learning lessons.
 Error is for finding better ways.
 Error is for improving actions.
-Error is for knowing what not to do.
+Error is for knowing what to do.
 Error is for showing limits.
 Error is for learning lessons and finding better ways.

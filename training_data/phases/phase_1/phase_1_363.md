@@ -7,7 +7,7 @@ A couch has arms.
 A couch is fabric.
 A couch is a long soft fabric seat with cushions.
 
-[user]Where is a couch?
+[user]Where can you find a couch?
 [Ninereeds]This is a couch.
 A couch is in a living room.
 A couch is against a wall.
@@ -25,7 +25,7 @@ A couch lets a person recline.
 A couch cushions a body.
 A couch is a soft seat that holds a person.
 
-[user]What is a couch used for?
+[user]What does a couch give?
 [Ninereeds]This is a couch.
 A couch is for sitting.
 A couch is for resting.

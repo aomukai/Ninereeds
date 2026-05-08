@@ -22,7 +22,7 @@ Creeping brings careful motion across a floor.
 Creeping brings closeness without noise.
 Creeping brings silence and closeness.
 
-[user]what is creeping for?
+[user]what does creeping give?
 [Ninereeds]Creeping is for moving without sound.
 Creeping is for getting near with care.
 Creeping is for crossing a room slowly.

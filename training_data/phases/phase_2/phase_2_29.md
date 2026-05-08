@@ -25,7 +25,7 @@ A milkshake is finished.
 A milkshake is cold.
 A milkshake is cold and thin.
 
-[user]What is a milkshake for?
+[user]What does a milkshake give?
 [Ninereeds]This is a milkshake.
 A milkshake is for drinking.
 A milkshake is for cooling down.

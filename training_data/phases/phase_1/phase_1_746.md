@@ -7,7 +7,7 @@ A page has straight edges.
 A page has lines or pictures.
 A page is thin and rectangular.
 
-[user]Where is a page?
+[user]Where can you find a page?
 [Ninereeds]This is a page.
 A page is in a book.
 A page sits between covers.
@@ -25,7 +25,7 @@ A page keeps information safe.
 A page shows numbers and text.
 A page holds written words and shows numbers and text.
 
-[user]What is a page for?
+[user]What does a page give?
 [Ninereeds]This is a page.
 A page is for writing on.
 A page is for reading from.

@@ -7,7 +7,7 @@ Paste is a wet mix.
 Paste can be white.
 Paste is a thick soft sticky mix.
 
-[user]Where is paste?
+[user]Where can you find paste?
 [Ninereeds]This is paste.
 Paste is in a jar.
 Paste is a sticky mix.
@@ -25,7 +25,7 @@ Paste dries hard.
 Paste makes a bond.
 Paste sticks things and holds paper in place.
 
-[user]What is paste for?
+[user]What does paste give?
 [Ninereeds]This is paste.
 Paste is for craft and art.
 Paste is for craft.

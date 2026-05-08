@@ -25,7 +25,7 @@ A grandparent is loving.
 A grandparent is a storyteller.
 A grandparent is talkative and playful.
 
-[user]What is a grandparent for?
+[user]What does a grandparent give?
 [Ninereeds]This is a grandparent.
 A grandparent is for talking.
 A grandparent is for playing.

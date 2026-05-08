@@ -5,7 +5,7 @@ pulse can be felt at wrist or neck.
 pulse can show how fast the heart works.
 pulse means the beat of blood in the body.
 
-[user]Where is pulse?
+[user]Where can you find pulse?
 [Ninereeds]pulse is here.
 pulse can be at a wrist.
 pulse can be at a neck.
@@ -14,7 +14,7 @@ pulse can be at a wrist.
 
 [user]What does pulse do?
 [Ninereeds]pulse is here.
-pulse can show calm or stress.
+pulse can show calm and stress.
 pulse can help a nurse judge body state.
 pulse can rise after a fast run.
 pulse can show calm or stress.

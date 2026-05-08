@@ -25,7 +25,7 @@ steer responds to driver.
 steer changes lane.
 steer is responsive and directional.
 
-[user]What is steer for?
+[user]What does steer give?
 [Ninereeds]This is steer.
 steer controls car movement.
 steer allows safe turning.

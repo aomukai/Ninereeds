@@ -5,7 +5,7 @@ secret can be in a note.
 secret can be in a box or quiet talk.
 secret means a hidden fact or plan.
 
-[user]Where is secret?
+[user]Where can you find secret?
 [Ninereeds]secret is here.
 secret can be in a note.
 secret can be in a box or quiet talk.

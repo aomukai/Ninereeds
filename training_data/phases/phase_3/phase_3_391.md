@@ -14,7 +14,7 @@ Hide happens under a bed.
 Hide happens in a closet.
 Hide happens behind a curtain.
 Hide happens in a cave.
-Hide happens behind a tree or under a bed.
+Hide happens behind a tree and under a bed.
 
 [user]What does hide do?
 [Ninereeds]This is hide.
@@ -25,7 +25,7 @@ Hide covers face with two hands.
 Hide stays still in a quiet spot.
 Hide ducks behind a big tree.
 
-[user]What is hide for?
+[user]What does hide give?
 [Ninereeds]This is hide.
 Hide keeps a person out of sight.
 Hide protects a child from danger.

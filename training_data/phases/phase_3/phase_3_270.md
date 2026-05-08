@@ -25,7 +25,7 @@ Boom makes the ears ring.
 Boom signals a big event.
 Boom is a powerful sound wave.
 
-[user]What is boom for?
+[user]What does boom give?
 [Ninereeds]This is boom.
 Boom is for celebration.
 Boom is for warning.

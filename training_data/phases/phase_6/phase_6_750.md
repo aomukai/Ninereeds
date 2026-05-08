@@ -22,7 +22,7 @@ Reclassifying brings a fresh label.
 Reclassifying brings a more exact place.
 Reclassifying brings match and order.
 
-[user]What is reclassifying for?
+[user]What does reclassifying give?
 [Ninereeds]Reclassifying is for moving a thing into a better group.
 Reclassifying is for making records fit.
 Reclassifying is for cleaning up labels.

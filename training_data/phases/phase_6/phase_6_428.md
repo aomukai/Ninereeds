@@ -25,7 +25,7 @@ temporary can set a time limit.
 temporary can signal a future shift.
 temporary is limiting and anticipatory.
 
-[user]What is temporary for?
+[user]What does temporary give?
 [Ninereeds]This is temporary.
 temporary can feel light in a short plan.
 temporary can look clear on a sign.

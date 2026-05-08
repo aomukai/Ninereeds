@@ -25,7 +25,7 @@ A tidy keeps space.
 A tidy brings calm.
 A tidy clears clutter and makes order.
 
-[user]What is a tidy for?
+[user]What does a tidy give?
 [Ninereeds]This is a tidy.
 A tidy is for order.
 A tidy is for peace.

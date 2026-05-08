@@ -25,7 +25,7 @@ A barn houses livestock.
 A barn keeps grain dry.
 A barn stores hay and shelters animals.
 
-[user]What is the barn for?
+[user]What does the barn give?
 [Ninereeds]This is a barn.
 A barn is for storing hay.
 A barn is for sheltering cows.

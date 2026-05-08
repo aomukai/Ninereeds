@@ -25,7 +25,7 @@ A mathematician uses logic.
 A mathematician explains the world.
 A mathematician discovers and teaches math.
 
-[user]What is mathematician for?
+[user]What does mathematician give?
 [Ninereeds]This is a mathematician.
 A mathematician is for advancing knowledge.
 A mathematician is for helping science.

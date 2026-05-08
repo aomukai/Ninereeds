@@ -25,7 +25,7 @@ A reframe is a reducer of stress.
 A reframe is a changer of feelings.
 A reframe is a tool for understanding and a method for solving problems.
 
-[user]What is reframe for?
+[user]What does reframe give?
 [Ninereeds]This is a reframe.
 A reframe is for gaining clarity.
 A reframe is for finding solutions.

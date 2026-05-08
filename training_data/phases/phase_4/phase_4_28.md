@@ -25,7 +25,7 @@ A hawk grabs the mouse with talons.
 A hawk carries the prey to a nest.
 A hawk is hunting and soaring.
 
-[user]What is a hawk for?
+[user]What does a hawk give?
 [Ninereeds]This is a hawk.
 A hawk is for controlling rodent populations.
 A hawk is for balancing the food chain.

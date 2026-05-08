@@ -22,7 +22,7 @@ Organizing brings less confusion.
 Organizing brings faster progress.
 Organizing brings order and ease.
 
-[user]What is organizing for?
+[user]What does organizing give?
 [Ninereeds]Organizing is for making order.
 Organizing is for keeping plans clear.
 Organizing is for grouping parts.

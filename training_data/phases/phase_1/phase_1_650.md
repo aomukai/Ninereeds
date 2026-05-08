@@ -7,7 +7,7 @@ A mango has a pit.
 A mango is a sweet fruit from a tree.
 A mango is sweet and oval.
 
-[user]Where is a mango?
+[user]Where can you find a mango?
 [Ninereeds]This is a mango.
 A mango is on a tree.
 A mango is in a bowl.
@@ -25,7 +25,7 @@ A mango falls from a tree.
 A mango ripens in the sun.
 A mango grows on a tree and gets yellow.
 
-[user]What is a mango for?
+[user]What does a mango give?
 [Ninereeds]This is a mango.
 A mango is for eating.
 A mango is for a snack.

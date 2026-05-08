@@ -25,7 +25,7 @@ A turkey fans tail feathers to display.
 A turkey walks and scratches for food.
 A turkey is foraging and displaying.
 
-[user]What is a turkey for?
+[user]What does a turkey give?
 [Ninereeds]This is a turkey.
 A turkey is for providing meat for meals.
 A turkey is for laying eggs for hatching.

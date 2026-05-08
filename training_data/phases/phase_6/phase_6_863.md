@@ -5,9 +5,9 @@ A role is a function.
 A role is a position.
 A role is a character.
 A role is a duty.
-A role is a part a person plays or a function.
+A role is a part a person plays and a function.
 
-[user]Where is a role found?
+[user]Where can you find a role?
 [Ninereeds]This is a role.
 A role is found in a play.
 A role is found in a team.
@@ -25,7 +25,7 @@ A role shapes expectations.
 A role creates identity.
 A role defines behavior and fulfills a need.
 
-[user]What is a role for?
+[user]What does a role give?
 [Ninereeds]This is a role.
 A role is for purpose.
 A role is for organization.

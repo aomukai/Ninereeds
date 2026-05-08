@@ -7,14 +7,14 @@ A shirt covers the torso.
 A shirt is made of cloth.
 A shirt has sleeves and a collar and buttons.
 
-[user]Where is a shirt found?
+[user]Where can you find a shirt?
 [Ninereeds]This is a shirt.
 A shirt hangs in a closet.
 A shirt is on a body.
 A shirt sits in a drawer.
 A shirt is on a shelf.
 A shirt folds flat.
-A shirt hangs in a closet or sits in a drawer.
+A shirt hangs in a closet and sits in a drawer.
 
 [user]What does a shirt do?
 [Ninereeds]This is a shirt.
@@ -25,7 +25,7 @@ A shirt hangs on the body.
 A shirt moves with arms.
 A shirt covers skin and keeps the body warm.
 
-[user]What is a shirt for?
+[user]What does a shirt give?
 [Ninereeds]This is a shirt.
 A shirt dresses the body.
 A shirt is clothing.

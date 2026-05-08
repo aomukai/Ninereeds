@@ -25,7 +25,7 @@ The pot of water makes steam.
 The pot of water simmers.
 A pot of water heats and bubbles.
 
-[user]What is a pot of water for?
+[user]What does a pot of water give?
 [Ninereeds]This is a pot of water.
 The pot of water sits on a stove.
 The pot of water heats.

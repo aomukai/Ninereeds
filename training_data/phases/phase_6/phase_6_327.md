@@ -5,7 +5,7 @@ tomorrow can be on a plan or page.
 tomorrow can be by a date or clock.
 tomorrow is the day after today.
 
-[user]Where is tomorrow?
+[user]Where can you find tomorrow?
 [Ninereeds]tomorrow is here.
 tomorrow can be on a plan or page.
 tomorrow can be by a date or clock.

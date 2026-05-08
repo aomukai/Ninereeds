@@ -7,7 +7,7 @@ A guitar is made of wood.
 A guitar has a hole in the body.
 A guitar is made of wood and has six strings.
 
-[user]Where is a guitar?
+[user]Where can you find a guitar?
 [Ninereeds]This is a guitar.
 A guitar is in a hand.
 A guitar is on a lap.
@@ -25,7 +25,7 @@ A guitar plays a chord.
 A guitar rings in the air.
 A guitar makes music from strings and plays a melody.
 
-[user]What is a guitar for?
+[user]What does a guitar give?
 [Ninereeds]This is a guitar.
 A guitar is for music.
 A guitar is for a song.

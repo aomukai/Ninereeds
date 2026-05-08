@@ -1,11 +1,11 @@
 [user]What does feeling look like?
 [Ninereeds]This is a feeling.
 Feeling is inside a person.
-Feeling is not seen with eyes.
+Feeling is seen with eyes.
 Feeling can be happy.
 Feeling can be sad.
 Feeling is a state of being.
-Feeling is inside a person and not seen.
+Feeling is inside a person and seen.
 
 [user]Where does feeling appear?
 [Ninereeds]This is a feeling.
@@ -25,7 +25,7 @@ Feeling helps a person understand.
 Feeling helps a person react.
 Feeling tells a person about things and helps them understand.
 
-[user]What is feeling for?
+[user]What does feeling give?
 [Ninereeds]This is a feeling.
 Feeling is for knowing about the world.
 Feeling is for connecting with others.

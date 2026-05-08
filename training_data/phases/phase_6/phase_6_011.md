@@ -5,7 +5,7 @@ Quantum is tiny.
 Quantum is a unit.
 Quantum is a step.
 Quantum is a packet.
-Quantum is a tiny step or packet.
+Quantum is a tiny step and packet.
 
 [user]Where does quantum appear?
 [Ninereeds]This is quantum.
@@ -25,7 +25,7 @@ Quantum is making new discoveries.
 Quantum is making things happen.
 Quantum is making things happen.
 
-[user]What is quantum for?
+[user]What does quantum give?
 [Ninereeds]This is quantum.
 Quantum is for understanding light.
 Quantum is for understanding energy.

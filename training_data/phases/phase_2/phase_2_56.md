@@ -6,7 +6,7 @@ The thumbnail is smooth.
 The thumbnail is flat.
 A thumbnail is the nail on a thumb.
 
-[user]Where is a thumbnail?
+[user]Where can you find a thumbnail?
 [Ninereeds]This is a thumbnail.
 The thumbnail is on a thumb.
 The thumbnail is at the tip.

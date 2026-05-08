@@ -25,7 +25,7 @@ Diagnosis helps a person understand.
 Diagnosis gives clarity.
 Diagnosis names a problem and guides treatment.
 
-[user]What is diagnosis for?
+[user]What does diagnosis give?
 [Ninereeds]This is a diagnosis.
 Diagnosis is for understanding illness.
 Diagnosis is for planning care.

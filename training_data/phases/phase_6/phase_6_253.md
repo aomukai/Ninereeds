@@ -7,7 +7,7 @@ Split creates a narrow gap.
 Split shows a rough edge.
 Split is a crack and a division.
 
-[user]Where is split?
+[user]Where can you find split?
 [Ninereeds]This is split.
 Split lies in a wooden plank.
 Split appears at a seam.

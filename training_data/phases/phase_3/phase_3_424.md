@@ -7,7 +7,7 @@ Match is a cup that goes with a plate.
 Match is a shirt and pants that go together.
 Match is two things that look the same.
 
-[user]Where is match?
+[user]Where can you find match?
 [Ninereeds]This is match.
 Match is in a pair.
 Match is on a shelf with a twin.

@@ -25,7 +25,7 @@ Wag waves a tail back and forth.
 Wag wiggles a tail fast.
 Wag waves a tail fast to show a dog is happy.
 
-[user]What is wag for?
+[user]What does wag give?
 [Ninereeds]This is wag.
 Wag is for saying hello.
 Wag is for showing joy.

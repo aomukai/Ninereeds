@@ -7,14 +7,14 @@ A hotel has a reception desk.
 A hotel has a restaurant.
 A hotel is a building with many rooms and a lobby.
 
-[user]Where is a hotel?
+[user]Where can you find a hotel?
 [Ninereeds]This is a hotel.
 A hotel is in a city.
 A hotel is in a town.
 A hotel is near attractions.
 A hotel is near an airport.
 A hotel is on a main road.
-A hotel is in a city or town near attractions.
+A hotel is in a city and town near attractions.
 
 [user]What does a hotel do?
 [Ninereeds]This is a hotel.
@@ -25,7 +25,7 @@ A hotel provides comfort.
 A hotel provides convenience.
 A hotel offers lodging and services for a temporary stay.
 
-[user]What is a hotel for?
+[user]What does a hotel give?
 [Ninereeds]This is a hotel.
 A hotel is for travelers.
 A hotel is for vacations.

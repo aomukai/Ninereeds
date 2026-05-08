@@ -7,7 +7,7 @@ A puddle is on the ground.
 A puddle is water.
 A puddle is wet and flat.
 
-[user]Where is a puddle?
+[user]Where can you find a puddle?
 [Ninereeds]This is a puddle.
 A puddle is on the ground.
 A puddle is on a road.
@@ -25,7 +25,7 @@ A puddle dries in the sun.
 A puddle splashes when stepped on.
 A puddle sits on the ground and holds water.
 
-[user]What is a puddle for?
+[user]What does a puddle give?
 [Ninereeds]This is a puddle.
 A puddle is for splashing.
 A puddle is for jumping.

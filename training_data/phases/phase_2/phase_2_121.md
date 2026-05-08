@@ -25,7 +25,7 @@ A file keeps records.
 A file archives documents.
 A file is a store and an organizer.
 
-[user]What is a file for?
+[user]What does a file give?
 [Ninereeds]This is a file.
 A file is for keeping documents.
 A file is for saving work.

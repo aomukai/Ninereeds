@@ -7,7 +7,7 @@ A baker stands at a counter.
 A baker works in a warm kitchen.
 A baker is a person in a white hat and a white apron.
 
-[user]Where is a baker?
+[user]Where can you find a baker?
 [Ninereeds]This is a baker.
 A baker is in a bakery.
 A baker is behind a counter.
@@ -25,7 +25,7 @@ A baker places loaves in an oven.
 A baker pulls bread from an oven.
 A baker is a dough mixer and a bread baker.
 
-[user]What is a baker for?
+[user]What does a baker give?
 [Ninereeds]This is a baker.
 A baker makes bread for people.
 A baker bakes cakes for a party.

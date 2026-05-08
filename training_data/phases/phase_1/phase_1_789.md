@@ -7,7 +7,7 @@ A pinecone is hard.
 A pinecone is bumpy.
 A pinecone is a brown oval with bumpy scales.
 
-[user]Where is a pinecone?
+[user]Where can you find a pinecone?
 [Ninereeds]This is a pinecone.
 A pinecone is under a pine tree.
 A pinecone is on the ground.
@@ -25,7 +25,7 @@ A pinecone closes in the rain.
 A pinecone drops seeds.
 A pinecone falls from a tree and drops seeds.
 
-[user]What is a pinecone for?
+[user]What does a pinecone give?
 [Ninereeds]This is a pinecone.
 A pinecone holds seeds.
 A pinecone makes new trees.

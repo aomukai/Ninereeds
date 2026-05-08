@@ -25,7 +25,7 @@ Drizzle waters a plant.
 Drizzle makes things moist.
 Drizzle wets a surface and dampens the ground.
 
-[user]What is drizzle for?
+[user]What does drizzle give?
 [Ninereeds]This is drizzle.
 Drizzle is for a plant.
 Drizzle is for a garden.

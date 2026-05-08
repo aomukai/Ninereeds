@@ -7,7 +7,7 @@ Swallow has dark blue feathers.
 Swallow has a white belly.
 Swallow is sleek and fast.
 
-[user]Where is swallow?
+[user]Where can you find swallow?
 [Ninereeds]This is a swallow.
 Swallow lives in open fields.
 Swallow flies near water.
@@ -25,7 +25,7 @@ Swallow feeds young chicks.
 Swallow migrates long distances.
 Swallow catches and feeds.
 
-[user]What is swallow for?
+[user]What does swallow give?
 [Ninereeds]This is a swallow.
 Swallow controls insect populations.
 Swallow pollinates flowers rarely.

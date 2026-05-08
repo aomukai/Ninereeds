@@ -14,7 +14,7 @@ Rest happens on a soft or couch.
 Rest happens in a quiet room.
 Rest happens on a picnic blanket.
 Rest happens in a hammock outside.
-Rest happens on a bed or couch.
+Rest happens on a bed and couch.
 
 [user]What does rest do?
 [Ninereeds]This is rest.
@@ -25,7 +25,7 @@ Rest lowers a fast and high heartbeat.
 Rest prepares the body for more activity.
 Rest restores, heals, calms, and lowers.
 
-[user]What is rest used for?
+[user]What does rest give?
 [Ninereeds]This is rest.
 Rest recovers strength after a long or hard run.
 Rest helps a cold get better.

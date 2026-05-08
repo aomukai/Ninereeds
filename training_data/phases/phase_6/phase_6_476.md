@@ -5,7 +5,7 @@ Problem is a question to solve.
 Problem is an obstacle.
 Problem is a challenge.
 Problem is something hard to deal with.
-Problem is a difficult matter or challenge.
+Problem is a difficult matter and challenge.
 
 [user]Where does problem appear?
 [Ninereeds]This is a problem.
@@ -25,7 +25,7 @@ Problem creates difficulty.
 Problem prompts effort.
 Problem needs thinking and solutions.
 
-[user]What is problem for?
+[user]What does problem give?
 [Ninereeds]This is a problem.
 Problem is for learning.
 Problem is for growing.

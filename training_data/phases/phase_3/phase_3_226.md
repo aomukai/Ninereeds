@@ -22,7 +22,7 @@ Failing brings stronger review.
 Failing brings a new attempt.
 Failing brings disappointment and review.
 
-[user]What is failing for?
+[user]What does failing give?
 [Ninereeds]Failing is for learning from error.
 Failing is for finding weak parts.
 Failing is for warning about risk.

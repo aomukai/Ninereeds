@@ -14,7 +14,7 @@ Parent-offspring-bond-attachment is in a family.
 Parent-offspring-bond-attachment is in a relationship.
 Parent-offspring-bond-attachment is in interactions.
 Parent-offspring-bond-attachment is in a safe environment.
-Parent-offspring-bond-attachment is in early life or a family.
+Parent-offspring-bond-attachment is in early life and a family.
 
 [user]What does parent-offspring-bond-attachment do?
 [Ninereeds]This is parent-offspring-bond-attachment.
@@ -25,7 +25,7 @@ Parent-offspring-bond-attachment aids development.
 Parent-offspring-bond-attachment builds resilience.
 Parent-offspring-bond-attachment provides security and fosters trust.
 
-[user]What is parent-offspring-bond-attachment for?
+[user]What does parent-offspring-bond-attachment give?
 [Ninereeds]This is parent-offspring-bond-attachment.
 Parent-offspring-bond-attachment is for healthy development.
 Parent-offspring-bond-attachment is for emotional well-being.

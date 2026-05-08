@@ -5,7 +5,7 @@ Floor-belief is a fundamental idea.
 Floor-belief is an underlying assumption.
 Floor-belief is a core conviction.
 Floor-belief is a foundational principle.
-Floor-belief is a basic trust or fundamental idea.
+Floor-belief is a basic trust and fundamental idea.
 
 [user]Where does floor-belief appear?
 [Ninereeds]This is a floor-belief.
@@ -25,7 +25,7 @@ Floor-belief defines perspectives.
 Floor-belief shapes understanding.
 Floor-belief supports ideas and guides actions.
 
-[user]What is floor-belief for?
+[user]What does floor-belief give?
 [Ninereeds]This is a floor-belief.
 Floor-belief is for building knowledge.
 Floor-belief is for making decisions.

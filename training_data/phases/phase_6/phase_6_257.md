@@ -25,7 +25,7 @@ Sprinkle creates a festive appearance.
 Sprinkle makes food look more appealing.
 Sprinkle decorates and adds appeal.
 
-[user]What is sprinkle for?
+[user]What does sprinkle give?
 [Ninereeds]This is sprinkle.
 Sprinkle is for decorating desserts and cakes.
 Sprinkle is for adding color to sweets.

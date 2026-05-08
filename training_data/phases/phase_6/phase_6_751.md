@@ -7,7 +7,7 @@ A limit is a stopping point.
 A limit is a maximum.
 A limit is a boundary and a restriction.
 
-[user]Where is a limit found?
+[user]Where can you find a limit?
 [Ninereeds]This is a limit.
 A limit is found in rules.
 A limit is found in nature.
@@ -25,7 +25,7 @@ A limit sets an expectation.
 A limit creates a challenge.
 A limit controls an action and defines a scope.
 
-[user]What is a limit for?
+[user]What does a limit give?
 [Ninereeds]This is a limit.
 A limit is for safety.
 A limit is for fairness.

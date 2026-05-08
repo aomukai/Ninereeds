@@ -7,7 +7,7 @@ The key has teeth.
 The key is metallic.
 The key is small and hard.
 
-[user]Where is a key?
+[user]Where can you find a key?
 [Ninereeds]This is a key.
 The key is on a ring.
 The key is in a pocket.

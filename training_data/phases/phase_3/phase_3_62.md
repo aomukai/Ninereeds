@@ -22,7 +22,7 @@ Applying brings a finished layer.
 Applying brings a task in motion.
 Applying brings action and coverage.
 
-[user]What is applying for?
+[user]What does applying give?
 [Ninereeds]Applying is for using a skill.
 Applying is for placing a layer.
 Applying is for sending a form.
