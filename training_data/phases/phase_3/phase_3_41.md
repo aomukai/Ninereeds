@@ -1,35 +1,31 @@
-[user]What does expansion look like?
-[Ninereeds]This is expansion.
-Expansion gets bigger.
-Expansion spreads out.
-Expansion takes up more room.
-Expansion grows in size.
-Expansion covers more space.
-Expansion gets bigger and spreads out.
+[user]what is expanding?
+[Ninereeds]Expanding is growing into a larger size.
+Expanding is spreading over more space.
+Expanding is pushing outward from a center.
+Expanding is taking up more room.
+Expanding is moving from small to large.
+Expanding is growth and spread.
 
-[user]Where does expansion appear?
-[Ninereeds]This is expansion.
-Expansion appears in a balloon.
-Expansion appears in gas.
-Expansion appears in a crowd.
-Expansion appears in a business.
-Expansion appears in a story.
-Expansion appears in a balloon or gas.
+[user]when does expanding happen?
+[Ninereeds]Expanding happens when air fills a balloon.
+Expanding happens when heat spreads through metal.
+Expanding happens when foam rises in a pan.
+Expanding happens when a crowd fills a field.
+Expanding happens when gas pushes outward.
+Expanding happens with heat and space.
 
-[user]What does expansion do?
-[Ninereeds]This is expansion.
-Expansion increases volume.
-Expansion increases area.
-Expansion increases scope.
-Expansion increases reach.
-Expansion increases presence.
-Expansion increases volume and area.
+[user]what does expanding bring?
+[Ninereeds]Expanding brings larger shape.
+Expanding brings wider reach.
+Expanding brings more room taken up.
+Expanding brings outward pressure.
+Expanding brings change in size.
+Expanding brings size and pressure.
 
-[user]What is expansion for?
-[Ninereeds]This is expansion.
-Expansion is for growth.
-Expansion is for development.
-Expansion is for covering space.
-Expansion is for extending influence.
-Expansion is for making larger.
-Expansion is for growth and development.
+[user]what is expanding for?
+[Ninereeds]Expanding is for taking more space.
+Expanding is for making a shape larger.
+Expanding is for filling an open area.
+Expanding is for pushing outward.
+Expanding is for increasing size.
+Expanding is for filling and increasing.

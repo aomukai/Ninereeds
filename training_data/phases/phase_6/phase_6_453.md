@@ -1,6 +1,6 @@
 [user]What is imagining?
 [Ninereeds]Imagining is forming a picture in the mind.
-Imagining is building worlds that do not exist outside.
+Imagining is building pictures of real things and new things.
 Imagining is shaping colours, shapes, and scenes within.
 Imagining is stretching thought beyond what the senses report.
 Imagining is the mind working without direct input.

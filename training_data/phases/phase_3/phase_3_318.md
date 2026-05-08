@@ -1,35 +1,31 @@
-[user]What does a dash look like?
-[Ninereeds]This is a dash.
-A dash is a fast run.
-A dash is a quick sprint.
-A dash is a sudden rush.
-A dash is a burst of speed.
-A dash is a rapid forward motion.
-A dash is a fast run with a burst of speed.
+[user]what is dashing?
+[Ninereeds]Dashing is running with quick strong speed.
+Dashing is moving in a fast straight push.
+Dashing is a short burst of running.
+Dashing is covering ground in a rush.
+Dashing is a fast move toward a goal.
+Dashing is speed and running.
 
-[user]Where does a dash happen?
-[Ninereeds]This is a dash.
-A dash happens on a track.
-A dash happens across a field.
-A dash happens down a hall.
-A dash happens to a door.
-A dash happens through a finish line.
-A dash happens on a track through a finish line.
+[user]when does dashing happen?
+[Ninereeds]Dashing happens when feet drive forward fast.
+Dashing happens on tracks and fields.
+Dashing happens down halls and paths.
+Dashing happens when a goal is close ahead.
+Dashing happens when time presses hard.
+Dashing happens with urgency and speed.
 
-[user]What does a dash do?
-[Ninereeds]This is a dash.
-A dash covers distance fast.
-A dash reaches a goal quick.
-A dash beats a timer.
-A dash wins a race.
-A dash gets a person there first.
-A dash covers distance fast to win a race.
+[user]what does dashing bring?
+[Ninereeds]Dashing brings quick progress.
+Dashing brings fast travel over ground.
+Dashing brings strong motion into a race.
+Dashing brings a fast push toward a finish.
+Dashing brings energy into a scene.
+Dashing brings motion and progress.
 
-[user]What is a dash for?
-[Ninereeds]This is a dash.
-A dash is for speed.
-A dash is for racing.
-A dash is for urgency.
-A dash is for reaching.
-A dash is for winning.
-A dash is for racing with speed to reach a goal.
+[user]what is dashing for?
+[Ninereeds]Dashing is for reaching a place fast.
+Dashing is for crossing distance quickly.
+Dashing is for racing toward a finish.
+Dashing is for moving with strong speed.
+Dashing is for urgent fast travel.
+Dashing is for racing and speed.

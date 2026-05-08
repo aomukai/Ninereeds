@@ -64,7 +64,6 @@ training_data/phases/phase_1/phase_1_814.md | broken contrast | Summary line is 
 training_data/phases/phase_1/phase_1_828.md | broken contrast | Behaviour summary line lists four verbs with commas instead of combining two: "A puppet moves dances talks and waves"
 training_data/phases/phase_1/phase_1_829.md | broken contrast | Behaviour summary line lists multiple verbs: "A puppy plays runs barks chews and sleeps"
 training_data/phases/phase_2/phase_2_001.md | semantically nonsensical example | "Alignment is in friends" and "Alignment is making smooth" are nonsensical — alignment is a geometric/relational concept, not something that "appears in friends" or "makes smooth"
-training_data/phases/phase_2/phase_2_87.md | incorrect teaching frame | "within" is a preposition — questions like "What does within look like?" and "What is within for?" are unnatural pedagogical framing for a preposition
 training_data/phases/phase_2/phase_2_94.md | incorrect teaching frame | "Owning" is a gerund (verb form), not a thing — taught with "What is Owning?" frame as if it were a concrete noun
 training_data/phases/phase_2/phase_2_95.md | misleading sentence | "Presence is not seen" uses negation, violating the no-negation rule for body lines; "Presence has no shape" and "Presence has no color" repeat this pattern
 training_data/phases/phase_3/phase_3_002.md | unnatural pedagogical framing | "Damage is for showing care" assigns beneficial purpose to a harmful outcome
@@ -179,7 +178,6 @@ training_data/phases/phase_4/phase_4_74.md | misleading pedagogical framing | "W
 training_data/phases/phase_4/phase_4_085.md | misleading pedagogical framing | "What does breath look like?" answered with function/location, not visual appearance
 training_data/phases/phase_4/phase_4_087.md | incorrect teaching frame | "dead" taught as a noun thing with appearance/location/behavior/purpose arc
 training_data/phases/phase_4/phase_4_091.md | incorrect teaching frame | "hatch" taught as a noun thing with appearance/location/behavior/purpose arc
-training_data/phases/adj_rewrites.md | misleading sentence | "A rocket goes not sideways" is ungrammatical — should be "A rocket is not sideways" or "A rocket does not go sideways" (line 99)
 training_data/phases/phase_5/phase_5_15.md | contradiction against curriculum | "The duck is thirsty and hydrated" — a duck cannot be simultaneously thirsty and hydrated; contradictory final statement
 training_data/phases/phase_5/phase_5_45.md | semantically nonsensical example | "What are children?" answered with specific individuals ("A boy and a girl run on the grass") rather than defining the category
 training_data/phases/phase_5/phase_5_46.md | broken contrast | Duplicate "when when" in "happens when when a goal stays bright"
@@ -206,11 +204,8 @@ training_data/phases/phase_6/phase_6_1078.md | malformed ontology | "determining
 training_data/phases/phase_6/phase_6_1081.md | malformed ontology | "identifying" - Entire file uses broken format: run-on sentences repeated identically as all body lines
 training_data/phases/phase_6/phase_6_1082.md | malformed ontology | "interpreting" - Entire file uses broken format: run-on sentences repeated identically as all body lines
 training_data/phases/phase_6/phase_6_1121.md | malformed ontology | "inventing" - Entire file uses broken format: run-on sentences repeated identically as all body lines
-training_data/phases/phase_6/phase_6_1055.md | unnatural or misleading pedagogical framing | "world's" - possessive form used as a standalone noun ("A world's is large"); not standard English
 training_data/phases/phase_6/phase_6_1060.md | unnatural or misleading pedagogical framing | "an elegance" - elegance is an uncountable abstract noun; "an elegance" is non-standard usage
-training_data/phases/phase_6/phase_6_1038.md | unnatural or misleading pedagogical framing | "there's" is a contraction, taught as a standalone concept/entity
 training_data/phases/phase_6/phase_6_1042.md | unnatural or misleading pedagogical framing | "can't" is a contraction, taught as a standalone concept/entity with "Where does can't appear?"
-training_data/phases/phase_6/phase_6_1037.md | unnatural or misleading pedagogical framing | "three-ness" is a non-standard wordform for describing the quality of three
 training_data/phases/phase_6/phase_6_1026.md | incorrect teaching frame | "improvable" is an adjective; taught using adjective descriptor format ("Improvable describes something") which is acceptable but borderline
 training_data/phases/phase_6/phase_6_1028.md | incorrect teaching frame | "specific" is an adjective; taught using adjective descriptor format
 training_data/phases/phase_6/phase_6_1033.md | incorrect teaching frame | "short-term" is an adjective phrase; taught using adjective descriptor format
@@ -245,8 +240,6 @@ training_data/phases/phase_6/phase_6_317.md | incorrect teaching frame | verb "t
 training_data/phases/phase_6/phase_6_40.md | incorrect teaching frame | verb "edit" taught as noun ("edit is here. edit means change words or pictures")
 training_data/phases/phase_6/phase_6_34.md | misleading pedagogical framing | "Reception" taught as four unrelated senses (welcoming, signal, desk, party) in one file, conflating homonyms
 training_data/phases/phase_6/phase_6_435.md | semantically nonsensical example | "Existing happens while a fact remains true" — a fact does not "happen"
-training_data/phases/phase_6/phase_6_481.md | semantically nonsensical example | "Weren is nonoccurrence" and "Weren is nonexistent" are not meanings of "weren"
-training_data/phases/phase_6/phase_6_481.md | misleading sentence | "Weren is absent" is grammatically incoherent as a definition
 training_data/phases/phase_6/phase_6_494.md | semantically nonsensical example | "A cat is different" lacks comparative reference, statement is incomplete
 training_data/phases/phase_6/phase_6_494.md | misleading sentence | "A twin is not different" — twins are different from each other in many ways
 training_data/phases/phase_6/phase_6_497.md | misleading sentence | "A baby is not able" — babies have many abilities; "able" requires a complement
@@ -269,7 +262,6 @@ training_data/phases/phase_6/phase_6_684.md | incorrect teaching frame | "track"
 training_data/phases/phase_6/phase_6_69.md | misleading sentence | "What does whose look like?" — a question word has no visual appearance
 training_data/phases/phase_6/phase_6_704.md | misleading sentence | "The sun is eternal" and "The moon is eternal" are factually incorrect — neither is eternal
 training_data/phases/phase_6/phase_6_711.md | semantically nonsensical example | "A stain is unreadable" and "A shadow is unreadable" — stains/shadows are not described as unreadable
-training_data/phases/phase_6/phase_6_727.md | semantically nonsensical example | "What does ever look like?" — an adverb has no visual appearance
 training_data/phases/phase_6/phase_6_747.md | incorrect teaching frame | verb "discuss" taught as noun with "This is discuss"
 training_data/phases/phase_6/phase_6_748.md | incorrect teaching frame | adjective "regular" taught as noun with "This is regular"
 training_data/phases/phase_6/phase_6_755.md | incorrect teaching frame | adjective "solid" taught as noun with "This is solid"

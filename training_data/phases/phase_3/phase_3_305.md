@@ -1,35 +1,31 @@
-[user]What does a creep look like?
-[Ninereeds]This is a creep.
-A creep is a slow sneak.
-A creep is a quiet move.
-A creep is a careful step.
-A creep is a low advance.
-A creep is a hidden approach.
-A creep is a slow quiet hidden approach.
+[user]what is creeping?
+[Ninereeds]Creeping is moving in a slow quiet way.
+Creeping is staying low during motion.
+Creeping is taking careful steps.
+Creeping is moving with small silent shifts.
+Creeping is a hidden kind of motion.
+Creeping is slow and quiet.
 
-[user]Where does a creep happen?
-[Ninereeds]This is a creep.
-A creep happens in the dark.
-A creep happens behind a curtain.
-A creep happens along a wall.
-A creep happens through a hallway.
-A creep happens across a room.
-A creep happens in the dark along a wall.
+[user]when does creeping happen?
+[Ninereeds]Creeping happens when feet move with care.
+Creeping happens in dark rooms and halls.
+Creeping happens near walls and corners.
+Creeping happens when a person wants low sound.
+Creeping happens during slow hidden motion.
+Creeping happens with care and silence.
 
-[user]What does a creep do?
-[Ninereeds]This is a creep.
-A creep moves without sound.
-A creep avoids detection.
-A creep lets a person go unseen.
-A creep surprises another.
-A creep approaches without noise.
-A creep moves without sound to avoid detection.
+[user]what does creeping bring?
+[Ninereeds]Creeping brings quiet movement.
+Creeping brings a hidden approach.
+Creeping brings low sound into a space.
+Creeping brings careful motion across a floor.
+Creeping brings closeness without noise.
+Creeping brings silence and closeness.
 
-[user]What is a creep for?
-[Ninereeds]This is a creep.
-A creep is for sneaking.
-A creep is for moving quiet.
-A creep is for going unseen.
-A creep is for surprising.
-A creep is for approaching without notice.
-A creep is for sneaking and moving unseen.
+[user]what is creeping for?
+[Ninereeds]Creeping is for moving without sound.
+Creeping is for getting near with care.
+Creeping is for crossing a room slowly.
+Creeping is for staying low in motion.
+Creeping is for careful hidden movement.
+Creeping is for care and quiet.

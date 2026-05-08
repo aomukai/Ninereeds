@@ -1,35 +1,31 @@
-[user]What does cook look like?
-[Ninereeds]This is cook.
-Cook is making food hot.
-Cook is changing raw food.
-Cook is using heat on a thing.
-Cook is preparing a meal.
-Cook is mixing and heating food.
-Cook is making food hot and ready.
+[user]what is cooking?
+[Ninereeds]Cooking is heating food to make a meal.
+Cooking is changing raw food with heat.
+Cooking is mixing food in a pan or pot.
+Cooking is making food soft and ready.
+Cooking is using fire or heat with care.
+Cooking is heat and change.
 
-[user]Where does cook appear?
-[Ninereeds]This is cook.
-Cook appears in the kitchen.
-Cook appears on the stove.
-Cook appears in the oven.
-Cook appears in a pot.
-Cook appears on a fire.
-Cook is a hot action in the kitchen.
+[user]when does cooking happen?
+[Ninereeds]Cooking happens when a stove heats a pan.
+Cooking happens when a pot warms soup.
+Cooking happens in kitchens with food and tools.
+Cooking happens over fire with steady heat.
+Cooking happens when a meal needs warmth.
+Cooking happens with food and heat.
 
-[user]What does cook do?
-[Ninereeds]This is cook.
-Cook heats food on a stove.
-Cook changes a raw thing to soft.
-Cook makes food safe to eat.
-Cook blends flavors in a pot.
-Cook makes a meal from ingredients.
-Cook changes raw food into a meal.
+[user]what does cooking bring?
+[Ninereeds]Cooking brings hot meals.
+Cooking brings soft food.
+Cooking brings safe food for eating.
+Cooking brings new smell into a room.
+Cooking brings flavor out of food.
+Cooking brings warmth and flavor.
 
-[user]What is cook for?
-[Ninereeds]This is cook.
-Cook is for eating.
-Cook is for making dinner.
-Cook is for feeding a family.
-Cook is for tasty food.
-Cook is for preparing meals.
-Cook is for making food for a family meal.
+[user]what is cooking for?
+[Ninereeds]Cooking is for making meals.
+Cooking is for softening raw food.
+Cooking is for feeding a group.
+Cooking is for bringing out flavor.
+Cooking is for preparing food with heat.
+Cooking is for meals and feeding.

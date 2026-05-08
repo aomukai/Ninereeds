@@ -1,11 +1,11 @@
 [user]What does a body look like?
 [Ninereeds]This is a body.
-A body is a form.
-A body is a whole.
-A body is a structure.
-A body is a shape.
-A body is a physical object.
-A body is a form and a structure.
+A body has a head.
+A body has a torso.
+A body has limbs.
+A body is a living thing.
+A body is an organism.
+A body has a head and limbs.
 
 [user]Where is a body?
 [Ninereeds]This is a body.
@@ -31,5 +31,5 @@ A body is for living.
 A body is for moving.
 A body is for sensing.
 A body is for acting.
-A body is for being alive.
+A body is a living form.
 A body is for living and moving.

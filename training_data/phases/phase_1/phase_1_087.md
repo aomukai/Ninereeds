@@ -25,11 +25,11 @@ The tooth breaks food.
 The tooth grinds food.
 A tooth is sharp and strong.
 
-[user]What is a tooth for?
+[user]What does a tooth give?
 [Ninereeds]This is a tooth.
-The tooth is for biting.
-The tooth is for chewing.
-The tooth is for cutting.
-The tooth is for grinding.
-The tooth is for tearing.
-A tooth is for biting and for chewing.
+The tooth gives biting.
+The tooth gives cutting.
+The tooth gives chewing.
+The tooth gives grinding.
+The tooth gives tearing.
+A tooth gives biting and chewing.

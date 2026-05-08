@@ -1,0 +1,8 @@
+training_data/phases/phase_2/phase_2_87.md | incorrect teaching frame | "within" is a preposition — questions like "What does within look like?" and "What is within for?" are unnatural pedagogical framing for a preposition
+training_data/phases/adj_rewrites.md | misleading sentence | "A rocket goes not sideways" is ungrammatical — should be "A rocket is not sideways" or "A rocket does not go sideways" (line 99)
+training_data/phases/phase_6/phase_6_1055.md | unnatural or misleading pedagogical framing | "world's" - possessive form used as a standalone noun ("A world's is large"); not standard English
+training_data/phases/phase_6/phase_6_1038.md | unnatural or misleading pedagogical framing | "there's" is a contraction, taught as a standalone concept/entity
+training_data/phases/phase_6/phase_6_1037.md | unnatural or misleading pedagogical framing | "three-ness" is a non-standard wordform for describing the quality of three
+training_data/phases/phase_6/phase_6_481.md | semantically nonsensical example | "Weren is nonoccurrence" and "Weren is nonexistent" are not meanings of "weren"
+training_data/phases/phase_6/phase_6_481.md | misleading sentence | "Weren is absent" is grammatically incoherent as a definition
+training_data/phases/phase_6/phase_6_727.md | semantically nonsensical example | "What does ever look like?" — an adverb has no visual appearance

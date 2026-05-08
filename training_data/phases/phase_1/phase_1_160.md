@@ -25,11 +25,11 @@ A lump holds things.
 A lump is a sign.
 A lump makes a surface uneven and causes discomfort.
 
-[user]What does a lump give?
+[user]What does a lump show?
 [Ninereeds]This is a lump.
-A lump gives a thick shape.
-A lump gives a sign.
-A lump gives a change.
-A lump gives a mark.
-A lump gives a bump.
+A lump makes a thick shape.
+A lump shows a sign.
+A lump changes a smooth surface.
+A lump makes a mark.
+A lump makes a bump.
 A lump is a thick shape and a bump.

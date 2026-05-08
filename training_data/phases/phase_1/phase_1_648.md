@@ -1,11 +1,11 @@
 [user]What does a man look like?
 [Ninereeds]This is a man.
-A man is tall.
+A man is human.
 A man has two legs.
 A man has two arms.
 A man has a head.
-A man has a face and a beard and a voice.
-A man is tall and bearded.
+A man has a face and a voice.
+A man is human and upright.
 
 [user]Where is a man?
 [Ninereeds]This is a man.

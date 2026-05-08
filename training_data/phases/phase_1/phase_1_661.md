@@ -22,8 +22,8 @@ Mice run fast.
 Mice hide in holes.
 Mice eat seeds.
 Mice nibble on food.
+Mice climb walls.
 Mice are small animals that run fast and hide in holes.
-Mice are small animals that run fast and eat seeds.
 
 [user]What do mice give?
 [Ninereeds]These are mice.

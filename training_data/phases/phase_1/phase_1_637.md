@@ -4,8 +4,8 @@ A lizard is small.
 A lizard has four legs.
 A lizard has a long tail.
 A lizard has scales on the skin.
+A lizard has claws on the feet.
 A lizard is green and brown on the ground.
-A lizard is small and green on the ground.
 
 [user]Where is a lizard?
 [Ninereeds]This is a lizard.
@@ -13,8 +13,8 @@ A lizard is on a rock.
 A lizard is in the sun.
 A lizard is in a hole.
 A lizard is on a wall.
+A lizard is in the grass.
 A lizard is in a tree and on a rock.
-A lizard is on a rock and in a tree.
 
 [user]What does a lizard do?
 [Ninereeds]This is a lizard.

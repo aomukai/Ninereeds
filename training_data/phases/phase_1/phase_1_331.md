@@ -1,4 +1,4 @@
-[user]What does a chip look like?
+[user]What is a chip for?` is already correct, but the response body uses `A chip gives...` instead of the more standard `A chip is for...` pattern matching nearby files. I'll align the responses with the question.[user]What does a chip look like?
 [Ninereeds]This is a chip.
 A chip is thin.
 A chip is flat.
@@ -27,9 +27,9 @@ A chip crunches and breaks into pieces.
 
 [user]What is a chip for?
 [Ninereeds]This is a chip.
-A chip gives a crunchy snack.
-A chip gives a salty taste.
-A chip gives a party food.
-A chip gives a dipping tool.
-A chip gives a crisp bite.
-A chip is a crunchy snack and a party food.
+A chip is for a crunchy snack.
+A chip is for a salty taste.
+A chip is for a party food.
+A chip is for dipping.
+A chip is for a crisp bite.
+A chip is for a crunchy snack and a party food.

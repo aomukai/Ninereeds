@@ -4,7 +4,7 @@ A microphone is small.
 A microphone has a round top.
 A microphone has a long handle.
 A microphone is black.
-A microphone is silver.
+A microphone has a metal grille.
 A microphone is small and black.
 
 [user]Where is a microphone?

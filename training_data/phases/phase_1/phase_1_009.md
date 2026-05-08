@@ -27,9 +27,9 @@ The stone is heavy and dense.
 
 [user]What does a stone give?
 [Ninereeds]This is a stone.
-The stone is heavy.
-The stone is flat.
-The stone is smooth.
-The stone is strong.
-The stone is durable.
-The stone is heavy and strong.
+The stone gives a tool for cutting.
+The stone gives a surface for writing.
+The stone gives material for building.
+The stone gives weight for holding.
+The stone gives a edge for scraping.
+The stone gives a tool and a surface.

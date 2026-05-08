@@ -25,11 +25,11 @@ A pothole slows traffic.
 A pothole causes a trip.
 A pothole catches water and damages tires.
 
-[user]What is a pothole for?
+[user]What does a pothole affect?
 [Ninereeds]This is a pothole.
-A pothole is for catching water.
-A pothole is for breaking a road.
-A pothole is for showing wear.
-A pothole is for causing damage.
-A pothole is for repair work.
-A pothole is for catching water and showing wear.
+A pothole catches water.
+A pothole breaks a smooth road.
+A pothole shows road wear.
+A pothole causes damage.
+A pothole needs repair work.
+A pothole catches water and causes damage.

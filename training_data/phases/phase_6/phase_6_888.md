@@ -1,4 +1,7 @@
 [user]What does separate mean?
 [Ninereeds]Separate describes something.
-A piece is separate. A part is separate. A unit is separate.
-A twin is not separate. A pair is not separate. A team is not separate.
+A separate leaf falls alone.
+A separate coin sits apart.
+A separate key opens one lock.
+A separate path goes a different way.
+Separate means apart and distinct.

@@ -1,23 +1,31 @@
-[user]What is survive?
-[Ninereeds]survive is here.
-survive is the power to last through danger.
-survive lives in frozen tundra.
-survive teaches animals to find shelter.
+[user]what is surviving?
+[Ninereeds]Surviving is staying alive through danger or hardship.
+Surviving is lasting through cold hunger or harm.
+Surviving is keeping life going under pressure.
+Surviving is finding a way through hard conditions.
+Surviving is enduring when safety is weak.
+Surviving is endurance and life.
 
-[user]Where is survive?
-[Ninereeds]survive is here.
-survive hides in deep forests.
-survive waits in dry deserts.
-survive stays in high mountains.
+[user]when does surviving happen?
+[Ninereeds]Surviving happens when danger presses on a body.
+Surviving happens in storms deserts and cold places.
+Surviving happens when food water or shelter grow scarce.
+Surviving happens when a living thing faces hard conditions.
+Surviving happens when life holds on through risk.
+Surviving happens with danger and need.
 
-[user]What does survive do?
-[Ninereeds]survive is here.
-survive pushes creatures past limits.
-survive demands cunning from every being.
-survive forces bodies to adapt fast.
+[user]what does surviving bring?
+[Ninereeds]Surviving brings another day of life.
+Surviving brings strength after danger.
+Surviving brings hard lessons from pressure.
+Surviving brings value to food water and shelter.
+Surviving brings proof of endurance.
+Surviving brings life and endurance.
 
-[user]What is survive like?
-[Ninereeds]survive is here.
-survive feels like a constant test.
-survive looks like a flickering flame.
-survive tastes of bitter resolve.
+[user]what is surviving for?
+[Ninereeds]Surviving is for staying alive.
+Surviving is for passing through danger.
+Surviving is for reaching safety.
+Surviving is for keeping life in hard times.
+Surviving is for enduring until help or shelter appears.
+Surviving is for safety and life.

@@ -1,35 +1,31 @@
-[user]What does measure look like?
-[Ninereeds]This is a measure.
-Measure is an action.
-Measure uses tools.
-Measure uses numbers.
-Measure looks at size.
-Measure looks at amount.
-Measure is an action that uses tools and numbers.
+[user]what is measuring?
+[Ninereeds]Measuring is finding size with a tool or number.
+Measuring is checking length or weight.
+Measuring is comparing one amount to another.
+Measuring is using marks to find quantity.
+Measuring is reading size with care.
+Measuring is number and comparison.
 
-[user]Where does measure appear?
-[Ninereeds]This is a measure.
-Measure appears in science.
-Measure appears in building.
-Measure appears in cooking.
-Measure appears in games.
-Measure appears in everyday life.
-Measure appears in science and building.
+[user]when does measuring happen?
+[Ninereeds]Measuring happens when a ruler meets a line.
+Measuring happens when a scale checks weight.
+Measuring happens in cooking with cups and spoons.
+Measuring happens in building with tape and marks.
+Measuring happens in science with tools and notes.
+Measuring happens with tools and numbers.
 
-[user]What does measure do?
-[Ninereeds]This is a measure.
-Measure finds out size.
-Measure finds out amount.
-Measure compares things.
-Measure helps make things right.
-Measure gives exact information.
-Measure finds out size and amount.
+[user]what does measuring bring?
+[Ninereeds]Measuring brings clear amounts.
+Measuring brings better fit.
+Measuring brings order to a task.
+Measuring brings useful comparison.
+Measuring brings a correct size.
+Measuring brings order and accuracy.
 
-[user]What is measure for?
-[Ninereeds]This is a measure.
-Measure is for knowing facts.
-Measure is for making things correctly.
-Measure is for fair sharing.
-Measure is for understanding the world.
-Measure is for creating order.
-Measure is for knowing facts and making things correctly.
+[user]what is measuring for?
+[Ninereeds]Measuring is for finding size.
+Measuring is for checking amount.
+Measuring is for making parts fit.
+Measuring is for planning a build.
+Measuring is for guiding careful work.
+Measuring is for planning and accuracy.

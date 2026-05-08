@@ -1,35 +1,35 @@
-[user]What does the police look like?
-[Ninereeds]This is the police.
-The police wear blue clothes.
-The police carry a badge.
-The police wear a hat.
-The police ride in a car.
-The police look smart.
-The police appear official and ready.
+[user]What does a police officer look like?
+[Ninereeds]
+A police officer wears blue clothes.
+A police officer carries a badge.
+A police officer wears a hat.
+A police officer rides in a car.
+A police officer looks smart.
+A police officer appears official and ready.
 
-[user]Where does the police appear?
-[Ninereeds]This is the police.
-The police stand on the street.
-The police sit in the police station.
-The police drive on the road.
-The police walk in the town.
-The police stay in many places.
-The police patrol the city and streets.
+[user]Where does a police officer appear?
+[Ninereeds]
+A police officer stands on the street.
+A police officer sits in the police station.
+A police officer drives on the road.
+A police officer walks in the town.
+A police officer stays in many places.
+A police officer patrols the city and streets.
 
-[user]What does the police do?
-[Ninereeds]This is the police.
-The police keep people safe.
-The police stop bad men.
-The police help lost kids.
-The police catch robbers.
-The police watch the town.
-The police protect people and stop crime.
+[user]What does a police officer do?
+[Ninereeds]
+A police officer keeps people safe.
+A police officer stops unsafe acts.
+A police officer helps lost kids.
+A police officer catches robbers.
+A police officer watches the town.
+A police officer protects people and responds to crime.
 
-[user]What is the police for?
-[Ninereeds]This is the police.
-The police come fast to a crash.
-The police help people in need.
-The police find lost things.
-The police talk to scared kids.
-The police make the street safe.
-The police help people in a crash.
+[user]What is a police officer for?
+[Ninereeds]
+A police officer comes fast to a crash.
+A police officer helps people in need.
+A police officer finds lost things.
+A police officer talks to scared kids.
+A police officer makes the street safe.
+A police officer helps people in a crash.

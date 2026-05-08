@@ -1,0 +1,1 @@
+`phase_1_353.md` repaired. Last section header changed to `"What is a cone used for?"` and response lines rewritten with active verbs (`holds`, `serves`, `stacks`, `fills`, `keeps`) instead of `gives`, matching the format in nearby phase 1 files.

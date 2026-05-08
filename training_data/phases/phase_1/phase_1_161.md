@@ -25,11 +25,11 @@ A shard can reflect light.
 A shard can show a past object.
 A shard can cut and sparkle.
 
-[user]What is a shard for?
+[user]What can a shard be used for?
 [Ninereeds]This is a shard.
-A shard is for showing something broken.
-A shard is for art.
-A shard is for a mosaic.
-A shard is for telling a story.
-A shard is for remembering.
-A shard is for showing something broken and art.
+A shard shows something broken.
+A shard can be part of art.
+A shard can be part of a mosaic.
+A shard can tell a story about an old object.
+A shard can help memory of a past object.
+A shard can show something broken and be part of art.

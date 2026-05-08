@@ -1,35 +1,31 @@
-[user]What does feed look like?
-[Ninereeds]This is feed.
-Feed is the giving of food to a mouth.
-Feed is the passing of a meal to a person.
-Feed is the serving of a dish to a pet.
-Feed is the dropping of a snack to a bird.
-Feed is the handing of a fruit to a child.
-Feed is a necessity and a kindness.
+[user]what is feeding?
+[Ninereeds]Feeding is giving food to a person or animal.
+Feeding is placing a meal where hunger can meet food.
+Feeding is passing food by hand or dish.
+Feeding is filling a body with needed fuel.
+Feeding is a caring action with food.
+Feeding is food and care.
 
-[user]Where does feed happen?
-[Ninereeds]This is feed.
-Feed happens at a table.
-Feed happens in a kitchen.
-Feed happens in a barn.
-Feed happens in a park.
-Feed happens in a home.
-Feed is common and necessary.
+[user]when does feeding happen?
+[Ninereeds]Feeding happens when a plate meets a table.
+Feeding happens in kitchens and barns.
+Feeding happens when seeds fall for birds.
+Feeding happens when bowls fill for pets.
+Feeding happens when hunger needs a meal.
+Feeding happens with food and hunger.
 
-[user]What does feed do?
-[Ninereeds]This is feed.
-Feed puts food in front of a person.
-Feed gives a meal to a hungry pet.
-Feed places a dish on the ground.
-Feed drops seeds for the birds.
-Feed hands a snack to a child.
-Feed is nurturing and sustaining.
+[user]what does feeding bring?
+[Ninereeds]Feeding brings full bodies.
+Feeding brings strength after hunger.
+Feeding brings calm to a hungry animal.
+Feeding brings food into a home.
+Feeding brings care through a meal.
+Feeding brings strength and calm.
 
-[user]What is feed for?
-[Ninereeds]This is feed.
-Feed fills a hungry tummy.
-Feed gives a body the food the body needs.
-Feed helps a person grow strong.
-Feed keeps a pet healthy.
-Feed makes a bird sing.
-Feed is necessary and joyful.
+[user]what is feeding for?
+[Ninereeds]Feeding is for ending hunger.
+Feeding is for giving food.
+Feeding is for helping growth.
+Feeding is for keeping bodies strong.
+Feeding is for caring through meals.
+Feeding is for growth and care.

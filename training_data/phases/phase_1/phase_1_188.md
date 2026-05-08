@@ -1,11 +1,11 @@
 [user]What does an aroma smell like?
 [Ninereeds]This is an aroma.
-An aroma is a smell.
-An aroma is in the air.
-An aroma spreads in the air.
-An aroma is a scent in the breeze.
-An aroma floats from a source.
-An aroma is a smell in the air and spreads from a source.
+An aroma smells sweet.
+An aroma smells rich.
+An aroma smells warm.
+An aroma smells like fresh bread.
+An aroma smells like a blooming flower.
+An aroma smells sweet and like fresh bread.
 
 [user]Where is an aroma?
 [Ninereeds]This is an aroma.

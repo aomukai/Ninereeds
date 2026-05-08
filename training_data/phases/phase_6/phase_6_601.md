@@ -23,7 +23,6 @@ Objection shows disagreement.
 Objection challenges an idea.
 Objection questions a decision.
 Objection asks for more thought.
-Objection makes something different.
 Objection stops a process and shows disagreement.
 
 [user]What is objection for?

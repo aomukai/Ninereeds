@@ -1,35 +1,31 @@
-[user]What does draw mean?
-[Ninereeds]This is draw.
-Draw is to make marks.
-Draw is to create pictures.
-Draw is to pull along.
-Draw is to attract.
-Draw is to take out.
-Draw is to make marks or pictures.
+[user]what is drawing?
+[Ninereeds]Drawing is making marks to form a picture.
+Drawing is moving a tool across a surface.
+Drawing is shaping lines into an image.
+Drawing is showing an idea with marks.
+Drawing is creating form through hand motion.
+Drawing is lines and image.
 
-[user]Where does draw appear?
-[Ninereeds]This is draw.
-Draw appears on paper.
-Draw appears in art.
-Draw appears in contests.
-Draw appears in wells.
-Draw appears in attention.
-Draw is on paper and in art.
+[user]when does drawing happen?
+[Ninereeds]Drawing happens when a pencil meets paper.
+Drawing happens on boards and pages.
+Drawing happens in art rooms and homes.
+Drawing happens when hands guide lines with care.
+Drawing happens when a picture starts with marks.
+Drawing happens with hands and tools.
 
-[user]What does draw do?
-[Ninereeds]This is draw.
-Draw creates images.
-Draw shows ideas.
-Draw moves things.
-Draw gets attention.
-Draw extracts resources.
-Draw creates images and moves things.
+[user]what does drawing bring?
+[Ninereeds]Drawing brings pictures to a page.
+Drawing brings shape from loose lines.
+Drawing brings ideas into view.
+Drawing brings marks into order.
+Drawing brings a picture from simple tools.
+Drawing brings view and shape.
 
-[user]What is draw for?
-[Ninereeds]This is draw.
-Draw is for expressing.
-Draw is for communicating.
-Draw is for transport.
-Draw is for attracting.
-Draw is for getting water.
-Draw is for expressing and communicating.
+[user]what is drawing for?
+[Ninereeds]Drawing is for making pictures.
+Drawing is for showing ideas.
+Drawing is for shaping lines into form.
+Drawing is for planning a design.
+Drawing is for sharing a scene with marks.
+Drawing is for pictures and design.

@@ -9,12 +9,12 @@ Honey is thick and golden.
 
 [user]Where does honey come from?
 [Ninereeds]This is honey.
-Honey is thick.
-Honey is sweet.
+Honey is from bees.
+Honey is from hives.
+Honey is from flowers.
+Honey is from combs.
 Honey is natural.
-Honey is bee-made.
-Honey is pure.
-Honey is thick and bee-made.
+Honey is from bees and hives.
 
 [user]What does honey do?
 [Ninereeds]This is honey.

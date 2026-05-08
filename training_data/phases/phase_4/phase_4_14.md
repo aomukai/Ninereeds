@@ -31,5 +31,5 @@ The snail cleans dead leaves from the soil.
 The snail adds nutrients to the garden earth.
 The snail provides food for birds in the wild.
 The snail helps a fish in a pond habitat.
-The snail decorates a shell for display.
+The snail carries a shell on the back.
 The snail is clean and food.

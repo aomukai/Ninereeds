@@ -1,11 +1,11 @@
 [user]What does a female look like?
 [Ninereeds]This is a female.
 A female has a body and a voice.
-A female has hair and hands and curves.
-A female has hips and breasts.
-A female has a face and a smile.
-A female has a skin and a shape.
-A female is human and curved.
+A female has hair and hands.
+A female has eyes and ears.
+A female has a face and a voice.
+A female has skin and a body.
+A female is human and alive.
 
 [user]Where is a female?
 [Ninereeds]This is a female.
@@ -18,18 +18,18 @@ A female is inside and outside.
 
 [user]What does a female do?
 [Ninereeds]This is a female.
-A female gives birth to a child.
-A female nurses a child and cares for a family.
 A female works and walks and talks.
-A female cooks and cleans and reads.
-A female teaches and learns and helps.
-A female is giving and caring.
+A female learns and teaches and helps.
+A female reads and writes and builds.
+A female plays and rests and travels.
+A female cares for people and things.
+A female learns and helps.
 
 [user]What is a female for?
 [Ninereeds]This is a female.
-A female is for a life and a family.
-A female is for care of a home.
-A female is for work in a community.
-A female is for love and friendship.
-A female is for a child and a partner.
-A female is familial and communal.
+A female is part of life and a family.
+A female is part of a home.
+A female is part of work in a community.
+A female is part of love and friendship.
+A female is part of a group and a partnership.
+A female is social and human.

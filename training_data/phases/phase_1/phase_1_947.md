@@ -1,35 +1,35 @@
-[user]What does a shoulder look like?
-[Ninereeds]This is a shoulder.
-A shoulder is round.
-A shoulder is a joint.
-A shoulder connects an arm.
-A shoulder has muscle.
-A shoulder sits at the top.
-A shoulder is round and muscular.
+[user]What do shorts look like?
+[Ninereeds]These are shorts.
+Shorts are short.
+Shorts have a waistband.
+Shorts have leg holes.
+Shorts have a zipper.
+Shorts have pockets.
+Shorts are short pants with leg holes.
 
-[user]Where is a shoulder found?
-[Ninereeds]This is a shoulder.
-A shoulder is on a body.
-A shoulder sits above a chest.
-A shoulder is between a neck and an arm.
-A shoulder is at the side.
-A shoulder is at the top of an arm.
-A shoulder is on a body and at the side.
+[user]Where are shorts?
+[Ninereeds]These are shorts.
+Shorts are on a person.
+Shorts are in a closet.
+Shorts are in a drawer.
+Shorts are on a store shelf.
+Shorts are in a laundry basket.
+Shorts are in a closet or on a person.
 
-[user]What does a shoulder do?
-[Ninereeds]This is a shoulder.
-A shoulder moves an arm.
-A shoulder lifts the arm.
-A shoulder rotates the arm.
-A shoulder swings the arm.
-A shoulder holds the arm up.
-A shoulder is moving and lifting.
+[user]What do shorts do?
+[Ninereeds]These are shorts.
+Shorts cover the legs.
+Shorts stay on the waist.
+Shorts let legs move.
+Shorts let air in.
+Shorts keep the body cool.
+Shorts cover legs and let legs move.
 
-[user]What is a shoulder for?
-[Ninereeds]This is a shoulder.
-A shoulder lets arms reach.
-A shoulder lets arms lift.
-A shoulder lets arms throw.
-A shoulder supports weight.
-A shoulder is a body part.
-A shoulder is reaching and supporting.
+[user]What are shorts for?
+[Ninereeds]These are shorts.
+Shorts are for hot days.
+Shorts are for playing.
+Shorts are for running.
+Shorts are for relaxing.
+Shorts keep the body cool.
+Shorts are for playing and running.

@@ -27,9 +27,9 @@ A cone is durable and useful.
 
 [user]What is a cone for?
 [Ninereeds]This is a cone.
-A cone gives a holder for ice cream.
-A cone gives a treat on a hot day.
-A cone gives a stackable shape in a store.
-A cone gives a fill for candy at a party.
-A cone gives a serving cup for nuts at a fair.
-A cone is a holder and a treat.
+A cone holds ice cream on a hot day.
+A cone serves nuts at a fair.
+A cone stacks in a store display.
+A cone fills with candy at a party.
+A cone keeps drips off a hand.
+A cone is a holder for ice cream and nuts.

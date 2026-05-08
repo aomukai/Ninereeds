@@ -1,6 +1,6 @@
 [user]What does broth look like?
 [Ninereeds]This is broth.
-Broth is a liquid.
+Broth is translucent.
 Broth is warm.
 Broth is clear.
 Broth is yellow or brown.

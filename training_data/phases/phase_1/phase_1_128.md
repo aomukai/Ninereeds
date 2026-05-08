@@ -3,25 +3,25 @@
 Wood is hard.
 Wood is brown or pale.
 Wood has lines called grain along its surface.
-Wood comes in planks or logs.
+Wood has a rough bark on the outside.
 Wood has a smooth surface when sanded.
 Wood is hard and brown.
 
 [user]Where does wood come from?
 [Ninereeds]This is wood.
 Wood comes from a tree.
-Wood is cut from the trunk of a tree.
-Wood is split into planks or logs.
-Wood is stored in a pile or in a shed.
-Wood is harvested from forests.
-Wood is hard and from trees.
+Wood grows in a forest.
+Wood is cut from the trunk.
+Wood comes from a branch.
+Wood is taken from a woodland.
+Wood is from trees and forests.
 
 [user]What does wood do?
 [Ninereeds]This is wood.
 Wood holds its shape when dry.
 Wood burns in fire and gives off heat.
 Wood soaks up water and swells.
-Wood dries out and can crack in strong heat.
+Wood dries out and cracks in heat.
 Wood floats in water.
 Wood is rigid and flammable.
 
@@ -30,6 +30,6 @@ Wood is rigid and flammable.
 Wood is used for building homes and walls.
 Wood is used to make furniture.
 Wood is burned for heat and cooking.
-Wood is cut into planks for floors and walls.
+Wood is carved into tools and handles.
 Wood is used for making paper.
-Wood is durable and flammable.
+Wood builds homes and makes paper.

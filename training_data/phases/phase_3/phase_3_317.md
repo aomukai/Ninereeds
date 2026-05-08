@@ -1,35 +1,31 @@
-[user]What does a dart look like?
-[Ninereeds]This is a dart.
-A dart is a small missile.
-A dart has a pointed tip.
-A dart has feather fins.
-A dart is made of plastic.
-A dart is lightweight.
-A dart is aerodynamic and precise.
+[user]what is darting?
+[Ninereeds]Darting is moving with a fast sudden rush.
+Darting is changing place in a quick line.
+Darting is a sharp burst of motion.
+Darting is a short move with speed.
+Darting is quick travel across a space.
+Darting is speed and surprise.
 
-[user]Where does a dart happen?
-[Ninereeds]This is a dart.
-A dart moves across a field.
-A dart travels through a hallway.
-A dart passes beside a pillar.
-A dart shifts behind a curtain.
-A dart slides under a couch.
-A dart is quick and elusive.
+[user]when does darting happen?
+[Ninereeds]Darting happens when a body moves at once.
+Darting happens across rooms and fields.
+Darting happens around walls and doors.
+Darting happens when danger pushes fast motion.
+Darting happens when a goal needs quick speed.
+Darting happens with speed and urgency.
 
-[user]What does a dart do?
-[Ninereeds]This is a dart.
-A dart moves fast.
-A dart dodges barriers.
-A dart heads toward a goal.
-A dart surprises observers.
-A dart escapes pursuers.
-A dart is fast and evasive.
+[user]what does darting bring?
+[Ninereeds]Darting brings fast change of place.
+Darting brings sudden motion into view.
+Darting brings speed across a short path.
+Darting brings quick arrival at a goal.
+Darting brings surprise to watchers.
+Darting brings speed and arrival.
 
-[user]What is a dart for?
-[Ninereeds]This is a dart.
-A dart is for hunting small prey.
-A dart is for moving quickly.
-A dart is for avoiding capture.
-A dart is for reaching a hideout.
-A dart is for creating distractions.
-A dart is swift and silent.
+[user]what is darting for?
+[Ninereeds]Darting is for moving fast.
+Darting is for crossing space in a rush.
+Darting is for reaching cover quickly.
+Darting is for getting to a goal at once.
+Darting is for quick sharp motion.
+Darting is for speed and motion.

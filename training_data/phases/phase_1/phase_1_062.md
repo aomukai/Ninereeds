@@ -3,8 +3,8 @@
 The boat has a hull.
 The boat is made of wood or metal.
 The boat has a flat or curved bottom.
-The boat floats on water.
-A boat is a vehicle that moves on water.
+The boat has a bow.
+The boat has a deck.
 A boat is a vessel and a watercraft.
 
 [user]Where is a boat?
@@ -12,9 +12,9 @@ A boat is a vessel and a watercraft.
 The boat is on water.
 The boat is near a shore.
 The boat is at a dock.
-The boat moves across the water.
-A boat is a vehicle that moves on water.
-A boat is a location and a vehicle.
+The boat is on a lake.
+The boat is in a harbor.
+A boat is on water and near a shore.
 
 [user]What does a boat do?
 [Ninereeds]This is a boat.
@@ -22,14 +22,14 @@ The boat starts still.
 The boat begins to move.
 The boat moves forward.
 The boat stops at the shore.
-The boat can float.
+The boat rocks on waves.
 A boat is a mover and a floater.
 
 [user]What is a boat for?
 [Ninereeds]This is a boat.
 The boat carries people.
 The boat carries goods.
-The boat moves across water.
-The boat travels from place to place.
 The boat is used for crossing.
+The boat is used for fishing.
+The boat is used for exploration.
 A boat is a carrier and a crosser.

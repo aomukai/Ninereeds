@@ -5,7 +5,7 @@ A marble is small.
 A marble is smooth.
 A marble is glass.
 A marble is a small round glass ball.
-A marble is a small smooth round ball.
+A marble is a smooth round ball.
 
 [user]Where is a marble?
 [Ninereeds]This is a marble.

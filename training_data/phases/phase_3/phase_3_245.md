@@ -4,7 +4,7 @@ Parent-offspring-bond-attachment is forming a close tie.
 Parent-offspring-bond-attachment is feeling secure.
 Parent-offspring-bond-attachment is seeking comfort.
 Parent-offspring-bond-attachment is a deep connection.
-Parent-offspring-bond-attachment is often emotional.
+Parent-offspring-bond-attachment is emotional.
 Parent-offspring-bond-attachment is forming a close tie and feeling secure.
 
 [user]Where does parent-offspring-bond-attachment appear?

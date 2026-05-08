@@ -27,9 +27,9 @@ A chimp climbs trees and swings from branches.
 
 [user]What is a chimp for?
 [Ninereeds]This is a chimp.
-A chimp gives a jungle life.
-A chimp gives a zoo exhibit.
-A chimp gives climbing action.
-A chimp gives fruit eating.
-A chimp gives grooming behavior.
-A chimp is a jungle animal and a zoo animal.
+A chimp is for a jungle.
+A chimp is for a zoo.
+A chimp is for climbing.
+A chimp is for fruit.
+A chimp is for grooming.
+A chimp is a jungle animal for a zoo.

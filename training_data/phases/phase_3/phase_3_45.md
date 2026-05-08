@@ -1,35 +1,31 @@
-[user]What does consolidation mean?
-[Ninereeds]This is consolidation.
-Consolidation means joining things together.
-Consolidation means making things stronger.
-Consolidation means combining separate parts.
-Consolidation means firming up.
-Consolidation means uniting.
-Consolidation is joining things together or making things stronger.
+[user]what is consolidating?
+[Ninereeds]Consolidating is joining separate parts into one.
+Consolidating is making many parts work together.
+Consolidating is pulling loose pieces into a group.
+Consolidating is making a structure more firm.
+Consolidating is reducing scatter through union.
+Consolidating is joining and strengthening.
 
-[user]Where does consolidation appear?
-[Ninereeds]This is consolidation.
-Consolidation appears in businesses.
-Consolidation appears in debt.
-Consolidation appears in memories.
-Consolidation appears in structures.
-Consolidation appears in data.
-Consolidation is in businesses, debt, and memories.
+[user]when does consolidating happen?
+[Ninereeds]Consolidating happens when parts come together.
+Consolidating happens in building with wood and stone.
+Consolidating happens in work with notes and plans.
+Consolidating happens when boxes move into one stack.
+Consolidating happens when groups form one unit.
+Consolidating happens with union and order.
 
-[user]What does consolidation do?
-[Ninereeds]This is consolidation.
-Consolidation reduces many into few.
-Consolidation increases efficiency.
-Consolidation improves stability.
-Consolidation strengthens bonds.
-Consolidation simplifies processes.
-Consolidation is reducing many into few and increasing efficiency.
+[user]what does consolidating bring?
+[Ninereeds]Consolidating brings stronger structure.
+Consolidating brings fewer loose parts.
+Consolidating brings better order in a group.
+Consolidating brings more stable form.
+Consolidating brings one unit from many parts.
+Consolidating brings order and strength.
 
-[user]What is consolidation for?
-[Ninereeds]This is consolidation.
-Consolidation is for efficiency.
-Consolidation is for stability.
-Consolidation is for strength.
-Consolidation is for simplification.
-Consolidation is for improved management.
-Consolidation is for efficiency and stability.
+[user]what is consolidating for?
+[Ninereeds]Consolidating is for joining parts.
+Consolidating is for making a structure firm.
+Consolidating is for reducing scatter.
+Consolidating is for building one unit.
+Consolidating is for keeping parts together.
+Consolidating is for union and stability.

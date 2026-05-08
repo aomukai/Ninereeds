@@ -1,35 +1,35 @@
-[user]What does an eve look like?
-[Ninereeds]This is an eve.
-An eve is a female sheep.
-An eve has a wool coat with wool.
-An eve has four legs with hooves.
-An eve has a white face and a soft nose.
-An eve is with a flock.
-An eve is a female sheep with a wool coat and four legs with hooves.
+[user]What does an ewe look like?
+[Ninereeds]This is an ewe.
+An ewe is a female sheep.
+An ewe has a wool coat with wool.
+An ewe has four legs with hooves.
+An ewe has a white face and a soft nose.
+An ewe is with a flock.
+An ewe is a female sheep with a wool coat and four legs with hooves.
 
-[user]Where is an eve?
-[Ninereeds]This is an eve.
-An eve is in a field.
-An eve is on a farm.
-An eve is near a barn.
-An eve is with a flock and a lamb.
-An eve is under a tree.
-An eve is in a field on a farm near a barn.
+[user]Where is an ewe?
+[Ninereeds]This is an ewe.
+An ewe is in a field.
+An ewe is on a farm.
+An ewe is near a barn.
+An ewe is with a flock and a lamb.
+An ewe is under a tree.
+An ewe is in a field on a farm near a barn.
 
-[user]What does an eve do?
-[Ninereeds]This is an eve.
-An eve eats grass and walks.
-An eve bleats to a lamb.
-An eve rests in shade.
-An eve stays with a flock.
-An eve eats grass and walks in a field.
-An eve eats grass and walks and stays with a flock.
+[user]What does an ewe do?
+[Ninereeds]This is an ewe.
+An ewe eats grass and walks.
+An ewe bleats to a lamb.
+An ewe rests in shade.
+An ewe stays with a flock.
+An ewe eats grass and walks in a field.
+An ewe eats grass and walks and stays with a flock.
 
-[user]What is an eve for?
-[Ninereeds]This is an eve.
-An eve gives wool for a coat and a scarf.
-An eve gives milk for a lamb.
-An eve gives lambs for a farm.
-An eve is for meat on a plate.
-An eve is for wool on a farm.
-An eve gives wool and milk and lambs for a farm.
+[user]What is an ewe for?
+[Ninereeds]This is an ewe.
+An ewe gives wool for a coat and a scarf.
+An ewe gives milk for a lamb.
+An ewe gives lambs for a farm.
+An ewe is for meat on a plate.
+An ewe is for wool on a farm.
+An ewe gives wool and milk and lambs for a farm.

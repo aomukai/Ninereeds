@@ -1,4 +1,7 @@
 [user]What does constant mean?
 [Ninereeds]Constant describes something.
-A clock is constant. A habit is constant. A heart is constant.
-A sneeze is not constant. A cough is not constant. A yawn is not constant.
+A constant rate stays the same.
+A constant habit repeats daily.
+A constant heartbeat keeps steady.
+A constant clock ticks evenly.
+Constant means steady and reliable.

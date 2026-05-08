@@ -30,6 +30,6 @@ A mineral is colorful and crystalline.
 A mineral is for making metal.
 A mineral is for jewelry.
 A mineral is for building.
-A mineral is for the body.
+A mineral is for glass.
 A mineral is a solid from the ground for making things.
 A mineral is for metal and jewelry.

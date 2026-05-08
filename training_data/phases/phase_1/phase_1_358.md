@@ -27,9 +27,9 @@ A cord is a wire that carries electricity and powers a machine.
 
 [user]What is a cord for?
 [Ninereeds]This is a cord.
-A cord gives a plug connection to a wall.
-A cord gives power to a lamp.
-A cord gives a phone connection.
-A cord gives a battery charge.
-A cord gives machine operation.
+A cord is for connecting a plug to a wall.
+A cord is for powering a lamp.
+A cord is for connecting a phone.
+A cord is for charging a battery.
+A cord is for operating a machine.
 A cord is a wire for power and connection.

@@ -27,9 +27,9 @@ A clip is tight and secure.
 
 [user]What is a clip for?
 [Ninereeds]This is a clip.
-A clip gives a fastening for papers.
-A clip gives a hold for a stack.
-A clip gives an attachment for a tag.
-A clip gives a closure for a bag.
-A clip gives a grip for a bundle.
-A clip is a fastener and a holder.
+A clip is for papers.
+A clip is for a stack.
+A clip is for a bundle.
+A clip is for a tag.
+A clip is for a bag.
+A clip is for papers and for a stack.

@@ -27,9 +27,9 @@ A compass is directional and reliable.
 
 [user]What is a compass for?
 [Ninereeds]This is a compass.
-A compass gives a guide for a hiker on a trail.
-A compass gives a direction for a ship at sea.
-A compass gives a path to camp.
-A compass gives a sense of direction in the woods.
-A compass gives the north in the woods.
-A compass is guiding and essential.
+A compass guides a hiker along a trail.
+A compass steers a ship across the sea.
+A compass leads a camper back to camp.
+A compass finds the way through the woods.
+A compass shows the north in the forest.
+A compass is a guide and a direction finder.

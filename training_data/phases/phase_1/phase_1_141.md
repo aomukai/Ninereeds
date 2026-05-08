@@ -1,4 +1,4 @@
-[user]What does click look like?
+[user]What does a click sound like?
 [Ninereeds]This is a click.
 A click is a short sound.
 A click is a sharp sound.
@@ -7,7 +7,7 @@ A click is a light sound.
 A click is a distinct sound.
 A click is a short and sharp sound.
 
-[user]Where is a click?
+[user]Where is a click heard?
 [Ninereeds]This is a click.
 A click is in a mouse.
 A click is in a pen.
@@ -16,7 +16,7 @@ A click is in a camera.
 A click is in fingers.
 A click is in a mouse or pen.
 
-[user]What does a click do?
+[user]What does a click signal?
 [Ninereeds]This is a click.
 A click gets attention.
 A click signals action.

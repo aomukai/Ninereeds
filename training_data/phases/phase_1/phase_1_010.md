@@ -1,4 +1,4 @@
-[user]What is fire?
+[user]What does fire look like?
 [Ninereeds]This is fire.
 Fire is hot.
 Fire is bright.

@@ -9,12 +9,12 @@ The cat is furry and four-legged.
 
 [user]Where can you find a cat?
 [Ninereeds]This is a cat.
-The cat is warm.
-The cat is soft.
-The cat is quiet.
-The cat is watchful.
-The cat is clean.
-The cat is warm and soft.
+The cat is in the house.
+The cat is on the sofa.
+The cat is near the window.
+The cat moves along the fence.
+The cat is in the yard.
+The cat is in the house and near the window.
 
 [user]What does a cat do?
 [Ninereeds]This is a cat.

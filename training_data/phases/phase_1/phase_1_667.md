@@ -31,5 +31,5 @@ A mirror is for looking at the face.
 A mirror is for combing hair.
 A mirror is for getting dressed.
 A mirror is for checking clothes.
+A mirror is for putting on makeup.
 A mirror is a glass for looking at the face and clothes.
-A mirror is a glass for checking the face hair and clothes.

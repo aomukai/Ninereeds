@@ -1,35 +1,35 @@
-[user]What does a highway look like?
-[Ninereeds]This is a highway.
-A highway is a road.
-A highway is wide.
-A highway has many lanes.
-A highway has cars.
-A highway has signs.
-A highway is a wide road with many lanes.
+[user]What does a tunnel look like?
+[Ninereeds]This is a tunnel.
+A tunnel is a passage.
+A tunnel is underground.
+A tunnel has walls.
+A tunnel has lights.
+A tunnel is long.
+A tunnel is a long, underground passage with lights.
 
-[user]Where is a highway?
-[Ninereeds]This is a highway.
-A highway is on land.
-A highway goes through cities.
-A highway goes through the countryside.
-A highway connects places.
-A highway is long.
-A highway is a long road on land.
+[user]Where is a tunnel?
+[Ninereeds]This is a tunnel.
+A tunnel is under ground.
+A tunnel goes through a mountain.
+A tunnel goes under a river.
+A tunnel is under a city.
+A tunnel has an entrance.
+A tunnel goes through a mountain and under a river.
 
-[user]How does a highway behave?
-[Ninereeds]This is a highway.
-A highway carries traffic.
-A highway moves cars quickly.
-A highway has speed limits.
-A highway has exits.
-A highway is busy.
-A highway carries traffic and moves cars quickly.
+[user]How does a tunnel behave?
+[Ninereeds]This is a tunnel.
+A tunnel carries traffic.
+A tunnel has lanes.
+A tunnel has ventilation.
+A tunnel is dark inside.
+A tunnel is straight.
+A tunnel carries traffic and has ventilation.
 
-[user]What is a highway used for?
-[Ninereeds]This is a highway.
-A highway is used for travel.
-A highway is used for transport.
-A highway is used for commuting.
-A highway moves people.
-A highway moves goods.
-A highway is used for travel and transport.
+[user]What is a tunnel used for?
+[Ninereeds]This is a tunnel.
+A tunnel is used for travel.
+A tunnel is used for crossing.
+A tunnel is used for shortcuts.
+A tunnel carries cars.
+A tunnel carries trains.
+A tunnel is used for travel and crossing.

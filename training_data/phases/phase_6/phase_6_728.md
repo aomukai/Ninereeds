@@ -1,35 +1,31 @@
-[user]What does following look like?
-[Ninereeds]This is a following.
-A following is coming after.
-A following is next in order.
-A following is a pursuing.
-A following is a result.
-A following is keeping up.
-A following is coming after and next in order.
+[user]what is following?
+[Ninereeds]Following is coming after another thing in order or path.
+Following is moving behind a leader or sign.
+Following is staying with a path already set.
+Following is keeping close to an earlier step.
+Following is taking direction from what came first.
+Following is order and direction.
 
-[user]Where does following appear?
-[Ninereeds]This is a following.
-A following appears in sequences.
-A following appears in instructions.
-A following appears in events.
-A following appears in thoughts.
-A following appears in stories.
-A following appears in sequences and stories.
+[user]when does following happen?
+[Ninereeds]Following happens when feet stay behind a guide.
+Following happens in lines roads and instructions.
+Following happens when one step comes after another.
+Following happens when a rule sets the next move.
+Following happens when order guides action.
+Following happens with sequence and guidance.
 
-[user]What does following do?
-[Ninereeds]This is a following.
-A following continues a path.
-A following completes a set.
-A following establishes an order.
-A following maintains a connection.
-A following leads to a result.
-A following continues a path and leads to a result.
+[user]what does following bring?
+[Ninereeds]Following brings order to movement.
+Following brings clear next steps.
+Following brings steady direction through a path.
+Following brings less confusion in a group.
+Following brings connection between early and later steps.
+Following brings order and sequence.
 
-[user]What is following for?
-[Ninereeds]This is a following.
-A following is for logical progression.
-A following is for clear steps.
-A following is for coherence.
-A following is for understanding causality.
-A following is for keeping track.
-A following is for logical progression and keeping track.
+[user]what is following for?
+[Ninereeds]Following is for keeping to a path.
+Following is for taking the next step in order.
+Following is for staying with a guide.
+Following is for moving through instructions.
+Following is for keeping actions in sequence.
+Following is for guidance and order.

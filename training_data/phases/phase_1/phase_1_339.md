@@ -27,9 +27,9 @@ A clock ticks and shows the time.
 
 [user]What is a clock for?
 [Ninereeds]This is a clock.
-A clock gives the time.
-A clock gives a wake-up call.
-A clock gives the hour.
-A clock gives a wall decoration.
-A clock gives a schedule aid.
-A clock is time and decoration.
+A clock tells the time of day.
+A clock wakes a person in the morning.
+A clock marks the passing hours.
+A clock hangs on a wall for all to see.
+A clock keeps a schedule on track.
+A clock is for time and waking.

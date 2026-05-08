@@ -3,7 +3,7 @@
 A liquid is wet.
 A liquid flows.
 A liquid takes a shape.
-A liquid has no form.
+A liquid has a surface.
 A liquid fills a cup and a tub.
 A liquid is wet and takes a shape.
 

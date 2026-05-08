@@ -1,11 +1,11 @@
 [user]What does an album look like?
 [Ninereeds]This is an album.
-An album is a book.
+An album is a holder for photo pages.
 An album has a thick cover.
 An album has many pages.
-An album has a spine.
+An album has plastic sleeves.
 An album holds photos.
-An album is a thick book with many pages for photos.
+An album has many pages and holds photos.
 
 [user]Where is an album?
 [Ninereeds]This is an album.
@@ -13,7 +13,7 @@ An album is on a shelf.
 An album is in a drawer.
 An album is on a table.
 An album is in a living room.
-An album sits in a bookcase.
+An album rests on a lap.
 An album is on a shelf in a living room.
 
 [user]What does an album do?

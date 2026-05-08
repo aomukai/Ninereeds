@@ -1,35 +1,35 @@
 [user]What does a bit look like?
 [Ninereeds]This is a bit.
-A bit is a piece.
-A bit is small.
-A bit is a part.
-A bit is a chunk.
-A bit is a fragment.
-A bit is a small piece of a part.
+A bit is long and thin.
+A bit has a pointed tip.
+A bit has spiral grooves on the shaft.
+A bit is made of hard metal.
+A bit fits into a drill.
+A bit is a long metal tool with a pointed tip.
 
 [user]Where is a bit?
 [Ninereeds]This is a bit.
-A bit is in a big thing.
-A bit is on a big thing.
-A bit is part of a whole.
-A bit is with other bits.
-A bit is a piece of a whole.
-A bit is a piece of a whole thing.
+A bit is in a toolbox.
+A bit is in a workshop.
+A bit is on a workbench.
+A bit is in a drill.
+A bit is in a drawer.
+A bit is in a toolbox or on a workbench.
 
 [user]What does a bit do?
 [Ninereeds]This is a bit.
-A bit sits in a place.
-A bit stays with a group.
-A bit is a small part.
-A bit fills a space.
-A bit is a piece in a place.
-A bit is a small piece in a place.
+A bit spins in a drill.
+A bit cuts into wood.
+A bit cuts into metal.
+A bit makes a round hole.
+A bit goes deeper with pressure.
+A bit spins and cuts a round hole.
 
 [user]What is a bit for?
 [Ninereeds]This is a bit.
-A bit makes a whole.
-A bit adds to a thing.
-A bit is a unit.
-A bit is one part.
-A bit is a building block.
-A bit is one part of a building block.
+A bit is for making a hole in wood.
+A bit is for making a hole in metal.
+A bit is for putting a screw in a wall.
+A bit is for hanging a picture on a wall.
+A bit is for building a shelf on a wall.
+A bit is for making a hole or hanging a picture.

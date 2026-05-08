@@ -1,35 +1,31 @@
-[user]What does trading mean?
-[Ninereeds]This is trading.
-Trading is to exchange.
-Trading is to give and get.
-Trading is to swap.
-Trading is to buy and sell.
-Trading is to barter.
-Trading is to exchange or swap.
+[user]what is trading?
+[Ninereeds]Trading is giving one thing and getting another.
+Trading is swapping goods between people.
+Trading is moving value from hand to hand.
+Trading is buying and selling in exchange.
+Trading is passing items through agreement.
+Trading is exchange and agreement.
 
-[user]Where does trading appear?
-[Ninereeds]This is trading.
-Trading appears in markets.
-Trading appears in games.
-Trading appears in deals.
-Trading appears in shops.
-Trading appears in friendships.
-Trading is in markets and shops.
+[user]when does trading happen?
+[Ninereeds]Trading happens when two sides agree.
+Trading happens in markets and shops.
+Trading happens at tables with goods and money.
+Trading happens when one person wants a new item.
+Trading happens when value moves between hands.
+Trading happens with goods and agreement.
 
-[user]What does trading do?
-[Ninereeds]This is trading.
-Trading makes things move.
-Trading makes things change hands.
-Trading makes value flow.
-Trading makes connections.
-Trading makes profit.
-Trading makes things move and change hands.
+[user]what does trading bring?
+[Ninereeds]Trading brings new goods to each side.
+Trading brings movement of value.
+Trading brings exchange between people.
+Trading brings food tools or goods into new hands.
+Trading brings change in ownership.
+Trading brings exchange and ownership.
 
-[user]What is trading for?
-[Ninereeds]This is trading.
-Trading is for getting needs.
-Trading is for getting wants.
-Trading is for making money.
-Trading is for building wealth.
-Trading is for making friends.
-Trading is for getting needs and wants.
+[user]what is trading for?
+[Ninereeds]Trading is for getting needed goods.
+Trading is for moving value.
+Trading is for exchanging items.
+Trading is for linking buyers and sellers.
+Trading is for sharing goods through agreement.
+Trading is for exchange and sharing.

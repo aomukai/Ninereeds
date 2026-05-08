@@ -4,21 +4,21 @@ A bee is small.
 A bee has yellow and black stripes.
 A bee has thin wings.
 A bee has a stinger at the back.
-A bee has six legs.
+A bee has antennae on the head.
 A bee is a small insect with yellow stripes.
 
 [user]Where is a bee?
 [Ninereeds]This is a bee.
 A bee is in a garden.
 A bee is near a flower.
-A bee lives in a hive.
-A bee is in a field of flowers.
+A bee works inside a colony.
+A bee hovers near a blossom.
 A bee flies in the air.
-A bee is in a garden near a flower.
+A bee is garden-dwelling and blossom-visiting.
 
 [user]What does a bee do?
 [Ninereeds]This is a bee.
-A bee flies from flower to flower.
+A bee visits blossoms across a meadow.
 A bee collects nectar from a flower.
 A bee makes honey in a hive.
 A bee carries pollen on legs.

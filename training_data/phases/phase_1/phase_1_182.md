@@ -2,28 +2,28 @@
 [Ninereeds]This is an ant.
 An ant is a small bug.
 An ant is black.
-An ant has six legs.
+An ant has three body parts.
 An ant has two antennae.
-An ant has a tiny body.
-An ant is a small black bug with six legs and two antennae.
+An ant has strong jaws.
+An ant is a small black bug with three body parts and two antennae.
 
 [user]Where is an ant?
 [Ninereeds]This is an ant.
-An ant is on the ground.
-An ant is in a hill.
+An ant is on a hill.
 An ant is under a rock.
 An ant is on a leaf.
-An ant walks on a path.
-An ant is on the ground and under a rock.
+An ant is on a wall.
+An ant is under a log.
+An ant is on a leaf and under a log.
 
 [user]What does an ant do?
 [Ninereeds]This is an ant.
-An ant walks in a line.
-An ant carries food.
 An ant digs a tunnel.
-An ant finds a crumb.
-An ant brings food to the nest.
-An ant walks in a line and carries food to the nest.
+An ant climbs a plant.
+An ant collects a seed.
+An ant guards the nest.
+An ant feeds the queen ant.
+An ant digs a tunnel and guards the nest.
 
 [user]What does an ant give?
 [Ninereeds]This is an ant.

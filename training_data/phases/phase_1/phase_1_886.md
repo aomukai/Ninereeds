@@ -30,6 +30,6 @@ A sack is a container and a carrier.
 A sack is for carrying potatoes.
 A sack is for storing grain.
 A sack is for holding flour.
-A sack is for hauling Sand.
+A sack is for hauling sand.
 A sack is for packing supplies.
 A sack is for carrying and storing.

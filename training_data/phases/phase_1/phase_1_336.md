@@ -27,9 +27,9 @@ Clay sticks and presses into a mold.
 
 [user]What is clay for?
 [Ninereeds]This is clay.
-Clay gives a roof tile.
-Clay gives a water jar.
-Clay gives a kiln shelf.
-Clay gives a plate rim.
-Clay gives a drain pipe.
-Clay is a roof tile and a water jar.
+Clay is for a roof tile.
+Clay is for a water jar.
+Clay is for a kiln shelf.
+Clay is for a plate rim.
+Clay is for a drain pipe.
+Clay is for a roof tile and for a water jar.

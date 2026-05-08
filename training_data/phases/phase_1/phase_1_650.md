@@ -22,7 +22,7 @@ A mango grows on a tree.
 A mango hangs from a branch.
 A mango gets yellow when ripe.
 A mango falls from a tree.
-A mango is cut and peeled and eaten.
+A mango ripens in the sun.
 A mango grows on a tree and gets yellow.
 
 [user]What is a mango for?
@@ -31,5 +31,5 @@ A mango is for eating.
 A mango is for a snack.
 A mango is for juice.
 A mango is for a fruit salad.
-A mango is a sweet fruit for a snack and a meal.
-A mango is for a snack and for eating.
+A mango is for a smoothie.
+A mango is for a snack and for juice.

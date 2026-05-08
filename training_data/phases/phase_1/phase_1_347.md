@@ -27,9 +27,9 @@ Cocoa is a hot drink base and a brown colorant.
 
 [user]What is cocoa for?
 [Ninereeds]This is cocoa.
-Cocoa gives hot chocolate.
-Cocoa gives flavor to a cake.
-Cocoa gives taste to milk.
-Cocoa gives decoration for a cookie.
-Cocoa gives a sweet treat to a child.
+Cocoa makes hot chocolate for a cold day.
+Cocoa adds flavor to a cake.
+Cocoa sweetens a mug of milk.
+Cocoa dusts decoration on a cookie.
+Cocoa warms a child on a chilly morning.
 Cocoa is a drink mix and a baking ingredient.

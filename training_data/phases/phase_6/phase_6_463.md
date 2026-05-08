@@ -1,35 +1,35 @@
 [user]What does original look like?
 [Ninereeds]This is original.
-Original means at the start.
-Original means from the beginning.
-Original means at first.
-Original means in an initial state.
-Original means in the first place.
-Original is at the start and beginning.
+original can describe a fresh approach.
+original can name a new concept.
+original can label an independent idea.
+original can mark a creative work.
+original can show a novel design.
+original is fresh and creative.
 
 [user]Where does original appear?
 [Ninereeds]This is original.
-Original appears in stories.
-Original appears in histories.
-Original appears in plans.
-Original appears in designs.
-Original appears in ideas.
-Original is in stories and histories.
+original can be in an artist statement.
+original can be on a patent form.
+original can be in a review comment.
+original can be near a new product.
+original can be on a copyright page.
+original is in statements and forms.
 
 [user]What does original do?
 [Ninereeds]This is original.
-Original sets a foundation.
-Original shows an origin.
-Original explains early forms.
-Original provides context.
-Original defines a starting point.
-Original sets a foundation and origin.
+original can describe a new method.
+original can identify a fresh style.
+original can mark a novel approach.
+original can label a unique design.
+original can name an independent work.
+original describes and identifies.
 
 [user]What is original for?
 [Ninereeds]This is original.
-Original is for understanding roots.
-Original is for tracking development.
-Original is for appreciating changes.
-Original is for historical accuracy.
-Original is for learning beginnings.
-Original is for understanding roots and beginnings.
+original is for praising new ideas.
+original is for recognizing creative work.
+original is for noting fresh concepts.
+original is for highlighting novel designs.
+original is for distinguishing unique approaches.
+original is for praising and recognizing.

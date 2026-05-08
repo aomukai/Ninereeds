@@ -11,9 +11,9 @@ Mind is a center of thought and feeling.
 [Ninereeds]This is mind.
 Mind appears in people.
 Mind appears in animals.
-Mind appears in books.
-Mind appears in discussions.
-Mind appears in philosophical texts.
+Mind appears in study of thought.
+Mind appears in philosophy.
+Mind appears in psychology.
 Mind is in people and animals.
 
 [user]What does mind do?
