@@ -1,0 +1,7 @@
+[user]What does a person do when the person checks something?
+[Ninereeds]Check looks at a thing.
+Check makes sure the thing is right.
+Check finds a mistake.
+Check fixes the mistake.
+Check verifies a detail.
+Check compares two items.
