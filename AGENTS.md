@@ -212,3 +212,21 @@ Default to:
 > simplest action that satisfies the executor prompt without expanding scope
 
 Report the ambiguity in your receipt under a `Notes:` line. Do not resolve ambiguity by doing more work.
+
+---
+
+## Shell Output — RTK
+
+RTK is installed at `~/.local/bin/rtk`. Prefix verbose shell commands with `rtk` to reduce output token cost:
+
+```bash
+rtk git status
+rtk git diff
+rtk grep pattern path/
+rtk find . -name "*.md"
+rtk read path/to/file.md
+```
+
+Use `rtk` for read/query commands. Do not use it as a wrapper for writes.
+Use `rtk proxy <cmd>` if you need unfiltered raw output.
+See `RTK.md` at repo root for full reference.

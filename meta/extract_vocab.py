@@ -85,24 +85,30 @@ def log(msg: str) -> None:
 
 
 def call_api(content: str, timeout: int) -> str:
-    import time
+    import time, json
     from openai import OpenAI
     client = OpenAI(api_key=get_api_key(), base_url=OPENROUTER_URL)
     prompt = EXTRACTION_PROMPT.format(content=content)
+    last_exc: Exception | None = None
     for attempt in range(3):
         if attempt:
-            time.sleep(10 * attempt)
-        resp = client.chat.completions.create(
-            model=MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=32768,  # thinking model: reasoning tokens eat the budget; 16k was insufficient
-            temperature=0.1,
-            timeout=timeout,
-        )
-        text = (resp.choices[0].message.content or "").strip()
-        if text:
-            return text
-    raise RuntimeError("API returned empty content after 3 attempts")
+            time.sleep(15 * attempt)
+        try:
+            resp = client.chat.completions.create(
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=65536,  # thinking model: 32k was too small, reasoning tokens fill budget and truncate output
+                temperature=0.1,
+                timeout=timeout,
+            )
+            text = (resp.choices[0].message.content or "").strip()
+            if text:
+                return text
+        except (json.JSONDecodeError, Exception) as exc:
+            last_exc = exc
+            log(f"  retry {attempt+1}/3 after error: {exc}")
+            continue
+    raise RuntimeError(f"API failed after 3 attempts: {last_exc}")
 
 
 def parse_response(text: str) -> dict[str, list[str]]:

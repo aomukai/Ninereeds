@@ -16,6 +16,7 @@ adhere
 adjust
 admire
 adore
+advance
 advertise
 advise
 affect
@@ -305,6 +306,7 @@ dice
 die
 differ
 dig
+digest
 diminish
 dine
 direct
@@ -341,6 +343,7 @@ download
 drag
 draw
 dress
+drift
 drink
 drip
 drive
@@ -440,11 +443,13 @@ fill
 find
 finish
 fire
+fish
 fit
 fix
 flatten
 fling
 float
+flood
 flourish
 flow
 fly
@@ -728,8 +733,10 @@ outfit
 outperform
 outshine
 overflow
+overlap
 oversee
 overshadow
+overwhelm
 own
 pack
 paint
@@ -749,6 +756,7 @@ peek
 peel
 peep
 peer
+per
 perceive
 perfect
 perform
@@ -759,6 +767,7 @@ pick
 picture
 pilot
 pin
+pinch
 pitch
 place
 plan
@@ -791,6 +800,7 @@ prevent
 print
 prize
 probe
+process
 produce
 project
 promise
@@ -809,6 +819,7 @@ pry
 publish
 puff
 pull
+pulse
 punch
 purr
 push
@@ -909,6 +920,7 @@ rewrite
 ride
 rig
 rim
+rinse
 rise
 rival
 roar
@@ -936,6 +948,7 @@ scatter
 schedule
 scoop
 score
+scrape
 scratch
 screw
 scrutinize
@@ -1159,6 +1172,7 @@ underpin
 understand
 undo
 unite
+unload
 unlock
 unpack
 unplug
@@ -1180,6 +1194,7 @@ vaporize
 vary
 vend
 venerate
+verb
 verify
 vibrate
 vie
@@ -1208,6 +1223,7 @@ weave
 weigh
 welcome
 weld
+wet
 whisk
 whisper
 wholesale
