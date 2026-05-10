@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "complex",
+      "filename": "complex.md",
+      "lines": [
+        "A complex diagram is a drawing.",
+        "Ein komplexes Diagramm ist eine Zeichnung.",
+        "複雑な図は絵だ。",
+        "复杂的图表是图画。"
+      ]
+    },
+    {
+      "word": "complexity",
+      "filename": "complexity.md",
+      "lines": [
+        "Complexity is a property.",
+        "Komplexität ist eine Eigenschaft.",
+        "複雑さは性質だ。",
+        "复杂性是性质。"
+      ]
+    },
+    {
+      "word": "complicated",
+      "filename": "complicated.md",
+      "lines": [
+        "A complicated puzzle is a game.",
+        "Ein kompliziertes Puzzle ist ein Spiel.",
+        "複雑なパズルはゲームだ。",
+        "复杂的拼图是游戏。"
+      ]
+    },
+    {
+      "word": "complicating",
+      "filename": "complicating.md",
+      "lines": [
+        "Complicating is a process.",
+        "Komplizieren ist ein Prozess.",
+        "複雑化することはプロセスだ。",
+        "复杂化是一个过程。"
+      ]
+    },
+    {
+      "word": "component",
+      "filename": "component.md",
+      "lines": [
+        "A component is a part.",
+        "Eine Komponente ist ein Teil.",
+        "コンポーネントは部品だ。",
+        "组件是部件。"
+      ]
+    },
+    {
+      "word": "composing",
+      "filename": "composing.md",
+      "lines": [
+        "Composing is a process.",
+        "Komponieren ist ein Prozess.",
+        "作曲はプロセスだ。",
+        "作曲是一个过程。"
+      ]
+    },
+    {
+      "word": "compost",
+      "filename": "compost.md",
+      "lines": [
+        "Compost is a substance.",
+        "Kompost ist ein Stoff.",
+        "堆肥は物質だ。",
+        "堆肥是物质。"
+      ]
+    },
+    {
+      "word": "comprehending",
+      "filename": "comprehending.md",
+      "lines": [
+        "Comprehending is a process.",
+        "Verstehen ist ein Prozess.",
+        "理解することはプロセスだ。",
+        "理解是一个过程。"
+      ]
+    },
+    {
+      "word": "compress",
+      "filename": "compress.md",
+      "lines": [
+        "Compressing is a process.",
+        "Komprimieren ist ein Prozess.",
+        "圧縮することはプロセスだ。",
+        "压缩是一个过程。"
+      ]
+    },
+    {
+      "word": "compression",
+      "filename": "compression.md",
+      "lines": [
+        "Compression is a process.",
+        "Kompression ist ein Prozess.",
+        "圧縮はプロセスだ。",
+        "压缩是过程。"
+      ]
+    }
+  ],
+  "problems": []
+}

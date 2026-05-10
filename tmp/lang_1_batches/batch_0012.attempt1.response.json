@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778419208-sgy9g2ZElCLuLaNgMGtF",
+  "object": "chat.completion",
+  "created": 1778419208,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"allergy\",\n      \"filename\": \"allergy.md\",\n      \"lines\": [\n        \"An allergy is a medical condition.\",\n        \"Eine Allergie ist eine medizinische Erkrankung.\",\n        \"アレルギーは病気の一種だ。\",\n        \"过敏是一种疾病。\"\n      ]\n    },\n    {\n      \"word\": \"allocating\",\n      \"filename\": \"allocating.md\",\n      \"lines\": [\n        \"Allocating is distributing resources.\",\n        \"Allozieren ist das Verteilen von Ressourcen.\",\n        \"割り当てることは資源の配分だ。\",\n        \"分配是资源的配置。\"\n      ]\n    },\n    {\n      \"word\": \"allow\",\n      \"filename\": \"allow.md\",\n      \"lines\": [\n        \"Allowing is giving permission.\",\n        \"Erlauben ist das Gewähren von Erlaubnis.\",\n        \"許可することは承認を与えることだ。\",\n        \"允许是给予许可。\"\n      ]\n    },\n    {\n      \"word\": \"allowance\",\n      \"filename\": \"allowance.md\",\n      \"lines\": [\n        \"An allowance is a regular payment.\",\n        \"Ein Taschengeld ist eine regelmäßige Zahlung.\",\n        \"お小遣いは定期的な支払いだ。\",\n        \"零用钱是定期给的款项。\"\n      ]\n    },\n    {\n      \"word\": \"allowed\",\n      \"filename\": \"allowed.md\",\n      \"lines\": [\n        \"An allowed action is a permitted action.\",\n        \"Eine erlaubte Handlung ist eine gestattete Handlung.\",\n        \"許可された行動は認められた行動だ。\",\n        \"被允许的行为是得到许可的行为。\"\n      ]\n    },\n    {\n      \"word\": \"allowing\",\n      \"filename\": \"allowing.md\",\n      \"lines\": [\n        \"Allowing is permitting something.\",\n        \"Zulassen ist das Gestatten von etwas.\",\n        \"許すことは何かを認めることだ。\",\n        \"允许是准许某事。\"\n      ]\n    },\n    {\n      \"word\": \"alone\",\n      \"filename\": \"alone.md\",\n      \"lines\": [\n        \"A lone wolf is a solitary animal.\",\n        \"Ein einsamer Wolf ist ein einzelgängerisches Tier.\",\n        \"一匹狼は孤独な動物だ。\",\n        \"孤狼是独居的动物。\"\n      ]\n    },\n    {\n      \"word\": \"altering\",\n      \"filename\": \"altering.md\",\n      \"lines\": [\n        \"Altering is changing something.\",\n        \"Verändern ist das Ändern von etwas.\",\n        \"変えることは何かを変更することだ。\",\n        \"改变是修改某物。\"\n      ]\n    },\n    {\n      \"word\": \"amassing\",\n      \"filename\": \"amassing.md\",\n      \"lines\": [\n        \"Amassing is collecting a large amount.\",\n        \"Anhäufen ist das Sammeln einer großen Menge.\",\n        \"蓄積することは大量に集めることだ。\",\n        \"积累是收集大量物品。\"\n      ]\n    },\n    {\n      \"word\": \"amazed\",\n      \"filename\": \"amazed.md\",\n      \"lines\": [\n        \"An amazed child is a surprised child.\",\n        \"Ein erstauntes Kind ist ein überraschtes Kind.\",\n        \"驚いた子供はびっくりした子供だ。\",\n        \"惊讶的孩子是感到意外的孩子。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 722,
+    "completion_tokens": 743,
+    "total_tokens": 1465,
+    "cost": 0.0003060288,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00030912,
+      "upstream_inference_prompt_cost": 0.00010108,
+      "upstream_inference_completions_cost": 0.00020804
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

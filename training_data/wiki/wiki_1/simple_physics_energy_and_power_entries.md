@@ -26,3 +26,12 @@
 
 [user]what is solar power?
 [Ninereeds]Solar power is energy that comes from sunlight. Solar panels can collect sunlight and turn it into electricity. Solar power can help run lights, homes, and machines. Solar power is not fuel.
+
+[user]what is impact?
+[Ninereeds]Impact describes what happens when one thing hits another. A falling rock can make a hole in the ground. A drop of rain makes a splash in a pool of water. Each event causes changes that move from one thing to other things. Some effects are big and some are small. Impact is not stillness.
+
+[user]what is pressure?
+[Ninereeds]Pressure is a push that spreads over an area. When a person sits on a chair, the body pushes down on the chair surface. When wind blows against a wall, the air pushes against the wall. Both a hand and wind can make a push over an area. Pressure is not a weight.
+
+[user]what is a vibration?
+[Ninereeds]A vibration is a rapid back-and-forth movement of matter. This movement travels through solid objects and through air. A pulled guitar string shakes and makes a sound. A hand tapping a drum feels the drum surface move. Vibration is not stillness.

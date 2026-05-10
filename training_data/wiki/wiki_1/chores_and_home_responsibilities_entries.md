@@ -44,3 +44,12 @@
 
 [user]what does it mean to vacuum?
 [Ninereeds]To vacuum means to use a machine called a vacuum cleaner to pick up dust and dirt from floors and carpets. The machine pulls in small pieces of dirt through a tube. Vacuuming helps keep floors cleaner than sweeping alone. To vacuum is not the same as to mop.
+
+[user]what is a cleanup?
+[Ninereeds]Cleanup is the process of making a place neat and clean again. A child puts toys back on the shelf after play. Dishes go from the table to the kitchen for washing. Sorting items into bins or drawers is part of cleanup. Trash and garbage go into the bin. Cleanup is not a game.
+
+[user]what is maintenance?
+[Ninereeds]Maintenance is the work of keeping things in good condition. A person needs to check and clean a bike regularly for the bike to run well. A car needs fixing of parts that wear out. Maintenance helps things last longer and prevents damage. maintenance is not neglect.
+
+[user]what does neat mean?
+[Ninereeds]Neat means clean and orderly. A tidy room has things in the right place. A neat desk has pencils in a row and papers in a drawer. Put toys on a shelf and keep clothes in a drawer. neat is not messy.

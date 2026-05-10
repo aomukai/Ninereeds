@@ -152,3 +152,6 @@
 
 [user]what does it mean to touch?
 [Ninereeds]To touch means to feel something with the skin. Touch helps people know if something is hot, cold, rough, smooth, hard, or soft. Hands often do a lot of touching, but skin all over the body can feel. To touch is not the same as to see.
+
+[user]what is a bacterium?
+[Ninereeds]A bacterium is a tiny living thing. A bacterium is a single-celled organism that lives in soil, water, air, and inside bodies. Some bacteria help digest food. Other bacteria cause illness. Yogurt contains helpful bacteria. Bacterium is not a plant.

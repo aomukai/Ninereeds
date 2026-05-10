@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778426707-J9ZhuMjLg9dcMpcJ0FjZ",
+  "object": "chat.completion",
+  "created": 1778426707,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"camel\",\n      \"filename\": \"camel.md\",\n      \"lines\": [\n        \"A camel is a mammal.\",\n        \"Ein Kamel ist ein Säugetier.\",\n        \"ラクダは哺乳類だ。\",\n        \"骆驼是哺乳动物。\"\n      ]\n    },\n    {\n      \"word\": \"camera\",\n      \"filename\": \"camera.md\",\n      \"lines\": [\n        \"A camera is a device.\",\n        \"Eine Kamera ist ein Gerät.\",\n        \"カメラは機器だ。\",\n        \"相机是设备。\"\n      ]\n    },\n    {\n      \"word\": \"camouflaging\",\n      \"filename\": \"camouflaging.md\",\n      \"lines\": [\n        \"Camouflaging is hiding.\",\n        \"Tarnen ist Verstecken.\",\n        \"カモフラージュすることは隠れることだ。\",\n        \"伪装是隐藏。\"\n      ]\n    },\n    {\n      \"word\": \"camp\",\n      \"filename\": \"camp.md\",\n      \"lines\": [\n        \"A camp is a place.\",\n        \"Ein Camp ist ein Ort.\",\n        \"キャンプは場所だ。\",\n        \"营地是地点。\"\n      ]\n    },\n    {\n      \"word\": \"can\",\n      \"filename\": \"can.md\",\n      \"lines\": [\n        \"A can is a container.\",\n        \"Eine Dose ist ein Behälter.\",\n        \"缶は容器だ。\",\n        \"罐子是容器。\"\n      ]\n    },\n    {\n      \"word\": \"canal\",\n      \"filename\": \"canal.md\",\n      \"lines\": [\n        \"A canal is a waterway.\",\n        \"Ein Kanal ist ein Wasserweg.\",\n        \"運河は水路だ。\",\n        \"运河是水道。\"\n      ]\n    },\n    {\n      \"word\": \"canceling\",\n      \"filename\": \"canceling.md\",\n      \"lines\": [\n        \"Canceling is stopping.\",\n        \"Stornieren ist Abbrechen.\",\n        \"キャンセルすることは中止することだ。\",\n        \"取消是停止。\"\n      ]\n    },\n    {\n      \"word\": \"cancer\",\n      \"filename\": \"cancer.md\",\n      \"lines\": [\n        \"Cancer is a disease.\",\n        \"Krebs ist eine Krankheit.\",\n        \"癌は病気だ。\",\n        \"癌症是疾病。\"\n      ]\n    },\n    {\n      \"word\": \"cand\",\n      \"filename\": \"cand.md\",\n      \"lines\": [\n        \"A cand is a unit.\",\n        \"Eine Candela ist eine Einheit.\",\n        \"カンデラは単位だ。\",\n        \"坎德拉是单位。\"\n      ]\n    },\n    {\n      \"word\": \"candidate\",\n      \"filename\": \"candidate.md\",\n      \"lines\": [\n        \"A candidate is a person.\",\n        \"Ein Kandidat ist eine Person.\",\n        \"候補者は人だ。\",\n        \"候选人是人。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 655,
+    "total_tokens": 1379,
+    "cost": 0.0002819124,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028476,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.0001834
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

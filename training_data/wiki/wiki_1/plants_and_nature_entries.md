@@ -50,3 +50,24 @@
 
 [user]what is mycelium?
 [Ninereeds]Mycelium is the fine white thread-like part of a fungus. It grows under the ground or inside old wood. A mushroom is the part we see, but mycelium spreads out below it. Mycelium helps break down dead plant matter in the soil. Mycelium is not a seed.
+
+[user]what is air?
+[Ninereeds]Air is an invisible gas around the whole world. Living things breathe the gas to stay alive. People cannot see air but can feel the gas moving across the skin. The gas fills the lungs and empty spaces outdoors. Wind is moving gas across the land. Air is not a solid object.
+
+[user]what is a bud?
+[Ninereeds]A bud is a small part of a plant that grows into a new leaf or flower. A bud appears on a stem or a branch in spring. Some buds open into green leaves. Other buds open into bright flowers. A bud is not a mature leaf or flower.
+
+[user]what is a clover?
+[Ninereeds]A clover is a small green plant. Each leaf has three round parts. This plant grows in fields and yards. Rabbits eat leaves of this plant. Clover is not a weed.
+
+[user]what is a husk?
+[Ninereeds]A husk is an outer covering that protects seeds or grains on a plant. Corn has a green husk that wraps around the kernels inside. People remove the covering before eating corn. A coconut also has a tough brown covering around the shell. This outer part is dry and thin like a leaf. Husk is not fruit.
+
+[user]what is an ivy?
+[Ninereeds]Ivy is a green plant that climbs walls and trees. The plant has small pointed leaves shaped like stars. Birds sometimes make nests inside thick patches of ivy. The plant stays green through winter. The plant uses roots and stems to climb up trunks and fences. Ivy is not a weed.
+
+[user]what is a pod?
+[Ninereeds]A pod is a type of case that holds seeds. Pea plants grow those cases. Each case contains small round seeds inside. People can eat the seeds. Green beans are one example. Pod is not a machine.
+
+[user]what is a pollen?
+[Ninereeds]Pollen is a fine powder made by flowers and trees. This powder helps plants make seeds. Bees carry the powder from one flower to another flower. Wind also moves the powder through the air. Some people sneeze when the powder is in the air during spring and summer. Pollen is not dirt.

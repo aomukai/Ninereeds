@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "bles",
+      "filename": "bles.md",
+      "lines": [
+        "A bles is an animal.",
+        "Ein Bles ist ein Tier.",
+        "ブレスは動物だ。",
+        "布勒斯是动物。"
+      ]
+    },
+    {
+      "word": "blessing",
+      "filename": "blessing.md",
+      "lines": [
+        "A blessing is a gift.",
+        "Ein Segen ist ein Geschenk.",
+        "祝福は贈り物だ。",
+        "祝福是礼物。"
+      ]
+    },
+    {
+      "word": "blew",
+      "filename": "blew.md",
+      "lines": [
+        "A blew is a past tense.",
+        "Ein Blew ist eine Vergangenheitsform.",
+        "ブルーは過去形だ。",
+        "布卢是过去式。"
+      ]
+    },
+    {
+      "word": "blind",
+      "filename": "blind.md",
+      "lines": [
+        "A blind person is a person.",
+        "Ein blinder Mensch ist ein Mensch.",
+        "盲人は人だ。",
+        "盲人是人。"
+      ]
+    },
+    {
+      "word": "blindspot",
+      "filename": "blindspot.md",
+      "lines": [
+        "A blindspot is an area.",
+        "Ein toter Winkel ist ein Bereich.",
+        "死角は領域だ。",
+        "盲点是区域。"
+      ]
+    },
+    {
+      "word": "blinking",
+      "filename": "blinking.md",
+      "lines": [
+        "Blinking is a reflex.",
+        "Blinken ist ein Reflex.",
+        "まばたきは反射だ。",
+        "眨眼是反射。"
+      ]
+    },
+    {
+      "word": "block",
+      "filename": "block.md",
+      "lines": [
+        "A block is a shape.",
+        "Ein Block ist eine Form.",
+        "ブロックは形だ。",
+        "块是形状。"
+      ]
+    },
+    {
+      "word": "blood",
+      "filename": "blood.md",
+      "lines": [
+        "Blood is a liquid.",
+        "Blut ist eine Flüssigkeit.",
+        "血は液体だ。",
+        "血是液体。"
+      ]
+    },
+    {
+      "word": "bloom",
+      "filename": "bloom.md",
+      "lines": [
+        "A bloom is a flower.",
+        "Eine Blüte ist eine Blume.",
+        "花は植物の一部だ。",
+        "花是植物的一部分。"
+      ]
+    },
+    {
+      "word": "blow",
+      "filename": "blow.md",
+      "lines": [
+        "A blow is a hit.",
+        "Ein Schlag ist ein Treffer.",
+        "打撃は当たりだ。",
+        "打击是击中。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -17,3 +17,18 @@
 
 [user]what is a living room?
 [Ninereeds]A living room is a room where people relax and spend time together. A living room often has chairs, a sofa, and other things for comfort. People talk, read, play, or rest in the living room. Guests are often welcomed there. A living room is not a bedroom.
+
+[user]what is a closet?
+[Ninereeds]A closet is a small storage space built into a wall inside a home. People keep clothes such as shirts, jackets, and shoes inside the space. Some closets have a pole for hanging coats and shirts. Shelves hold folded belongings inside the storage area. A door closes the space to keep the contents hidden. Closet is not a piece of furniture.
+
+[user]what is a downstair?
+[Ninereeds]This is downstair. This floor is the lower floor of a building with two floors. People walk down stairs to reach this floor. A house with two floors has rooms like a kitchen and a living room on this floor. A family can eat and rest in the rooms. Downstair is not the roof.
+
+[user]what is a garage?
+[Ninereeds]A garage is a room in a house for keeping vehicles. Families store tools, toys, and bicycles inside a garage. The room has a big door that opens so cars can drive in and out. The door protects cars from rain and cold weather. A garage is not a bedroom.
+
+[user]what is a playroom?
+[Ninereeds]Playroom is a room inside a house or home. the room contains toys, blocks, books, and games for young children. children can draw, build, and create in this room. friends share the space and play together. playroom is not a classroom.
+
+[user]what is a toilet?
+[Ninereeds]Toilet is a bathroom fixture. This fixture has a bowl and a seat. Water moves waste from the bowl through pipes. A person sits on the seat when the body needs to let go. toilet is not furniture.

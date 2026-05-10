@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "bacteria",
+      "filename": "bacteria.md",
+      "lines": [
+        "Bacteria are microorganisms.",
+        "Bakterien sind Mikroorganismen.",
+        "細菌は微生物だ。",
+        "细菌是微生物。"
+      ]
+    },
+    {
+      "word": "bacterium",
+      "filename": "bacterium.md",
+      "lines": [
+        "A bacterium is a microorganism.",
+        "Ein Bakterium ist ein Mikroorganismus.",
+        "一つの細菌は微生物だ。",
+        "一个细菌是微生物。"
+      ]
+    },
+    {
+      "word": "bad",
+      "filename": "bad.md",
+      "lines": [
+        "A bad apple is a fruit.",
+        "Ein schlechter Apfel ist eine Frucht.",
+        "悪いリンゴは果物だ。",
+        "坏苹果是水果。"
+      ]
+    },
+    {
+      "word": "bag",
+      "filename": "bag.md",
+      "lines": [
+        "A bag is a container.",
+        "Eine Tüte ist ein Behälter.",
+        "袋は容器だ。",
+        "袋子是容器。"
+      ]
+    },
+    {
+      "word": "bag of flour",
+      "filename": "bag_of_flour.md",
+      "lines": [
+        "A bag of flour is a food item.",
+        "Ein Sack Mehl ist ein Lebensmittel.",
+        "小麦粉の袋は食品だ。",
+        "一袋面粉是食品。"
+      ]
+    },
+    {
+      "word": "bake",
+      "filename": "bake.md",
+      "lines": [
+        "Baking is cooking.",
+        "Backen ist Kochen.",
+        "焼くことは料理だ。",
+        "烘焙是烹饪。"
+      ]
+    },
+    {
+      "word": "baked",
+      "filename": "baked.md",
+      "lines": [
+        "A baked potato is a food.",
+        "Eine gebackene Kartoffel ist ein Lebensmittel.",
+        "焼いたジャガイモは食べ物だ。",
+        "烤土豆是食物。"
+      ]
+    },
+    {
+      "word": "baker",
+      "filename": "baker.md",
+      "lines": [
+        "A baker is a person.",
+        "Ein Bäcker ist eine Person.",
+        "パン職人は人だ。",
+        "面包师是人。"
+      ]
+    },
+    {
+      "word": "bakery",
+      "filename": "bakery.md",
+      "lines": [
+        "A bakery is a shop.",
+        "Eine Bäckerei ist ein Geschäft.",
+        "パン屋は店だ。",
+        "面包店是商店。"
+      ]
+    },
+    {
+      "word": "baking",
+      "filename": "baking.md",
+      "lines": [
+        "Baking is a cooking method.",
+        "Backen ist eine Kochmethode.",
+        "ベーキングは調理法だ。",
+        "烘焙是一种烹饪方法。"
+      ]
+    }
+  ],
+  "problems": []
+}

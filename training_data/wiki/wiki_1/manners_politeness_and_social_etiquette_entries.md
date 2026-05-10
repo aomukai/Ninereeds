@@ -29,3 +29,15 @@
 
 [user]what does take turns speaking mean?
 [Ninereeds]Take turns speaking means one person talks at a time while other people listen. Children take turns speaking in class, in games, and in conversations. This helps everyone get a fair chance to talk and be heard. Taking turns speaking makes communication clearer. Take turns speaking is not the same as talking over each other.
+
+[user]what is an apology?
+[Ninereeds]An apology is a way for a person to say sorry for a wrong action. A person might say sorry after breaking a friend's toy. A person says sorry for a mistake that hurts another person. A person shows regret for the fault and wants to make things right. Apology is not an excuse.
+
+[user]what is an assistance?
+[Ninereeds]Assistance means helping someone do a task. A friend gives assistance by carrying a heavy box for an older person. A doctor offers help to a sick person. assistance is not a burden.
+
+[user]what does gentle mean?
+[Ninereeds]Gentle is a slow and soft touch. A gentle hand moves with care. This touch does not push with force. The right amount of pressure brings comfort without causing pain. A voice can stay low and quiet. Gentle is not rough.
+
+[user]what does it mean to please?
+[Ninereeds]Please is a word that people use to ask for something in a kind way. A child says please before asking for a toy. A child says the word before asking for help with a meal. Using the word shows respect for other people. The word makes a request feel like a kind offer. Please is not a demand.

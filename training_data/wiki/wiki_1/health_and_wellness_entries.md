@@ -50,3 +50,24 @@
 
 [user]what is a checkup?
 [Ninereeds]A checkup is a visit to a doctor when a person is not sick, to make sure the body is healthy. During a checkup a doctor may listen to breathing, check height and weight, and ask questions. A checkup helps catch problems early. A checkup is not the same as going to a hospital.
+
+[user]what is aid?
+[Ninereeds]Aid is help given to a person in need. A first aid kit has bandages and medicine for cuts and scrapes. A teacher uses picture cards as visual aids to help children learn new words. Such help is not harm.
+
+[user]what is a diarrhea?
+[Ninereeds]Diarrhea is a condition that makes poop loose and watery. The body passes stool several times in a day. Diarrhea often happens from germs in food or drink. Washing hands with soap and water can help prevent the spread of germs. Drinking plenty of water and resting helps the body recover. Diarrhea is not a normal solid stool.
+
+[user]what is a disorder?
+[Ninereeds]A disorder is a condition that makes a body or mind work differently than normal. For example, a sleep disorder can make resting at night harder for a person. The condition can also change the way the heart pumps blood. Doctors can study a condition like this to find ways to help. Disorder is not a regular way for a body to work.
+
+[user]what is an injury?
+[Ninereeds]An injury is a hurt that happens to a body part. A fall can break a bone. A cut from a sharp blade can happen to the skin. A broken bone or a cut needs time and care to heal. Injury is not normal for a healthy body.
+
+[user]what is a virus?
+[Ninereeds]Virus is a tiny germ. this germ enters a living body. the germ makes copies inside cells. a germ can cause sickness. a cold is one sickness from a germ. virus is not a plant.
+
+[user]what is well-being?
+[Ninereeds]Well-being means a state where body and mind feel good. A person with well-being has energy to play and rest. A person eats healthy food and drinks water. A person moves and exercises with friends and family. Sad or worried feelings can pass with sleep and calm time. Well-being is not just the opposite of illness.
+
+[user]what is a workout?
+[Ninereeds]A workout is a time for the body to move and exercise. People lift arms and legs or run in place. This time makes the heart beat fast and the breath go deep. A person can take a simple walk or a fast run. Workout is not rest.

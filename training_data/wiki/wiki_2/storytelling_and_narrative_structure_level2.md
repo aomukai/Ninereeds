@@ -115,3 +115,6 @@ Story sequencing and narrative connectors directly benefit from more substructur
 [Ninereeds]Yes. A story can jump back and forth between places or characters several times. Each "meanwhile" takes you to a different part of the story that is happening at the same time. Stories with many characters often use "meanwhile" to show what everyone is doing.
 
 ---
+
+[user]what is a draft?
+[Ninereeds]Draft is an early version of a piece of writing or a plan. writers try out ideas in a first version before making a final copy. each draft gives the writer a chance to improve the work. a student might write a first version of a book report and then fix the mistakes. draft is not a finished version.

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "curing",
+      "filename": "curing.md",
+      "lines": [
+        "Curing is a preservation process.",
+        "Pökeln ist ein Konservierungsverfahren.",
+        "燻製は保存方法だ。",
+        "腌制是一种保存过程。"
+      ]
+    },
+    {
+      "word": "curiosity",
+      "filename": "curiosity.md",
+      "lines": [
+        "Curiosity is a trait.",
+        "Neugier ist eine Eigenschaft.",
+        "好奇心は特性だ。",
+        "好奇心是一种特质。"
+      ]
+    },
+    {
+      "word": "curiou",
+      "filename": "curiou.md",
+      "lines": [
+        "A curiou is a tool.",
+        "Ein Curiou ist ein Werkzeug.",
+        "キュリオは道具だ。",
+        "curiou是一种工具。"
+      ]
+    },
+    {
+      "word": "curious",
+      "filename": "curious.md",
+      "lines": [
+        "A curious cat is an animal.",
+        "Eine neugierige Katze ist ein Tier.",
+        "好奇心旺盛な猫は動物だ。",
+        "好奇的猫是动物。"
+      ]
+    },
+    {
+      "word": "curl",
+      "filename": "curl.md",
+      "lines": [
+        "A curl is a shape.",
+        "Eine Locke ist eine Form.",
+        "カールは形だ。",
+        "卷曲是一种形状。"
+      ]
+    },
+    {
+      "word": "curly",
+      "filename": "curly.md",
+      "lines": [
+        "A curly dog is an animal.",
+        "Ein lockiger Hund ist ein Tier.",
+        "巻き毛の犬は動物だ。",
+        "卷毛的狗是动物。"
+      ]
+    },
+    {
+      "word": "current",
+      "filename": "current.md",
+      "lines": [
+        "A current is a flow.",
+        "Eine Strömung ist ein Fluss.",
+        "流れは流動だ。",
+        "水流是一种流动。"
+      ]
+    },
+    {
+      "word": "curtailing",
+      "filename": "curtailing.md",
+      "lines": [
+        "Curtailing is reduction.",
+        "Kürzen ist Reduzierung.",
+        "削減は減少だ。",
+        "缩减是减少。"
+      ]
+    },
+    {
+      "word": "curtain",
+      "filename": "curtain.md",
+      "lines": [
+        "A curtain is a covering.",
+        "Ein Vorhang ist eine Abdeckung.",
+        "カーテンは覆いだ。",
+        "窗帘是一种遮盖物。"
+      ]
+    },
+    {
+      "word": "curve",
+      "filename": "curve.md",
+      "lines": [
+        "A curve is a line.",
+        "Eine Kurve ist eine Linie.",
+        "曲線は線だ。",
+        "曲线是一种线。"
+      ]
+    }
+  ],
+  "problems": []
+}

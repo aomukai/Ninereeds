@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "banner",
+      "filename": "banner.md",
+      "lines": [
+        "A banner is a flag.",
+        "Ein Banner ist eine Fahne.",
+        "バナーは旗だ。",
+        "横幅是旗帜。"
+      ]
+    },
+    {
+      "word": "bar",
+      "filename": "bar.md",
+      "lines": [
+        "A bar is a place.",
+        "Eine Bar ist ein Ort.",
+        "バーは場所だ。",
+        "酒吧是场所。"
+      ]
+    },
+    {
+      "word": "bare",
+      "filename": "bare.md",
+      "lines": [
+        "A bare wall is a surface.",
+        "Eine kahle Wand ist eine Oberfläche.",
+        "裸の壁は表面だ。",
+        "裸露的墙是表面。"
+      ]
+    },
+    {
+      "word": "bargaining",
+      "filename": "bargaining.md",
+      "lines": [
+        "Bargaining is negotiation.",
+        "Feilschen ist Verhandlung.",
+        "値切りは交渉だ。",
+        "讨价还价是谈判。"
+      ]
+    },
+    {
+      "word": "baring",
+      "filename": "baring.md",
+      "lines": [
+        "Baring is revealing.",
+        "Entblößen ist Enthüllen.",
+        "露出は明らかにすることだ。",
+        "裸露是揭示。"
+      ]
+    },
+    {
+      "word": "bark",
+      "filename": "bark.md",
+      "lines": [
+        "Bark is a protective layer.",
+        "Rinde ist eine Schutzschicht.",
+        "樹皮は保護層だ。",
+        "树皮是保护层。"
+      ]
+    },
+    {
+      "word": "barn",
+      "filename": "barn.md",
+      "lines": [
+        "A barn is a building.",
+        "Eine Scheune ist ein Gebäude.",
+        "納屋は建物だ。",
+        "谷仓是建筑物。"
+      ]
+    },
+    {
+      "word": "barrel",
+      "filename": "barrel.md",
+      "lines": [
+        "A barrel is a container.",
+        "Ein Fass ist ein Behälter.",
+        "樽は容器だ。",
+        "桶是容器。"
+      ]
+    },
+    {
+      "word": "barrier",
+      "filename": "barrier.md",
+      "lines": [
+        "A barrier is an obstacle.",
+        "Eine Barriere ist ein Hindernis.",
+        "障壁は障害だ。",
+        "屏障是障碍。"
+      ]
+    },
+    {
+      "word": "bartering",
+      "filename": "bartering.md",
+      "lines": [
+        "Bartering is exchange.",
+        "Tauschen ist Austausch.",
+        "物々交換は交換だ。",
+        "以物易物是交换。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -26,3 +26,12 @@
 
 [user]what does I changed my mind mean?
 [Ninereeds]I changed my mind means the speaker had one plan or choice and then picked a different one. A child may change a game, a color, or a seat. The phrase helps explain a new choice after an old one. It shows that plans can change. I changed my mind is not I decided to keep the same plan.
+
+[user]what is an aim?
+[Ninereeds]An aim is a goal a person works toward. For example, a child might work to finish a puzzle. A runner might try to reach a finish line. People choose a target and take steps toward that target every day. Goals help a person decide what to do. Aim is not a random action.
+
+[user]what is an attempt?
+[Ninereeds]An attempt is a try at doing something. A child can try to tie a shoe. A person can try to learn a new skill. A try can succeed or fail. The goal of a try is to reach a result. Attempt is not a guarantee.
+
+[user]what is an intent?
+[Ninereeds]Intent is the purpose or reason behind an action. A person acts with a wanted result in mind. When a person waves a hand to greet a friend, the purpose is greeting. When a person gives food to a plant, the purpose is helping the plant grow. Intent is not an accident.

@@ -29,3 +29,24 @@
 
 [user]what is hide and seek?
 [Ninereeds]Hide and seek is a game where one player looks for other players who are hiding. One person counts while the others hide first. The game uses waiting, looking, and finding. Hide and seek can be played inside some places or outside in safe places. Hide and seek is not the same as tag.
+
+[user]what is a chaser?
+[Ninereeds]A chaser is a player in a game who runs fast across the field. This player tries to catch a ball or reach a goal before other players. A chaser works with a team to score points. This game uses speed and teamwork. chaser is not a defender.
+
+[user]what is a defender?
+[Ninereeds]A defender is a person who guards a place or a group from danger. In soccer, defenders stop the other team from scoring a goal. A guard at a building is also a defender. Defender is not invader.
+
+[user]what is a goalie?
+[Ninereeds]Goalie is a player on a sports team. This player stands in front of a net. goalie uses hands and body to block the ball or puck from going into the net. This player wears special gloves and pads for protection. goalie is not a forward.
+
+[user]what is an opponent?
+[Ninereeds]An opponent is a person or team a person plays against in a game or sport. A soccer team plays against the other team on the field. A chess player faces another player across a board. Opponent is not a teammate.
+
+[user]what is sportsmanship?
+[Ninereeds]Sportsmanship is the way players act during a game. Players follow rules and treat opponents with respect. Players shake hands after a game ends and show fairness when a team wins or loses. Good players cheer for good play from both sides. Sportsmanship makes games friendly and fair for everyone. sportsmanship is not meanness.
+
+[user]what is teamwork?
+[Ninereeds]Teamwork is a group of people working together toward the same goal. Each person in a team brings different skills for the task. One person may hold one part while another person lifts a heavy part. The job gets done faster than one person working alone. Building a tall tower from blocks uses teamwork. Teamwork is not doing a thing alone.
+
+[user]what is a treehouse?
+[Ninereeds]A treehouse is a small wooden building built up in a tree. Strong branches hold the structure above the ground. Children climb up to play and rest inside the small room. A ladder gives easy climbing up to this play space. A treehouse is not a house on the ground.

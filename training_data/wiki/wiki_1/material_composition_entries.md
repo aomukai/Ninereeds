@@ -26,3 +26,12 @@
 
 [user]what is rubber?
 [Ninereeds]Rubber is a material that can stretch and bend. People use rubber for boots, tires, bands, and some handles. Rubber can help things grip, bounce, or stay dry. Rubber often feels springy or smooth. Rubber is not metal.
+
+[user]what is a concrete?
+[Ninereeds]Concrete is a hard, strong building material. People make concrete by mixing sand, gravel, water, and cement together. The wet paste can take any shape before drying and hardening. People use concrete to make sidewalks, roads, bridges, and walls. Concrete is not soft.
+
+[user]what is a crystal?
+[Ninereeds]A crystal is a solid material made of tiny atoms arranged in a repeating pattern. This material has flat faces, straight edges, and pointed ends. A clear example lets light pass through. Diamond is one example that forms deep in the ground. Snowflakes are tiny examples that grow in the sky. crystal is not a liquid.
+
+[user]what is a flake?
+[Ninereeds]A flake is a small, light, thin piece of something. A snowflake falls from the sky during cold weather. Snowflakes form in clouds and float down to the ground. Each snowflake has a star-shaped form with six pointed sides. No two snowflakes look alike. Flake is not a raindrop.

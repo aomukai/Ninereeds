@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778422076-ItkPyMNoyLSaTVRLo5eR",
+  "object": "chat.completion",
+  "created": 1778422076,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": "vllm-0.20.2rc1.dev129+g1acd67a79-dp2-ep-0db20b0b",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"babies\",\n      \"filename\": \"babies.md\",\n      \"lines\": [\n        \"Babies are young children.\",\n        \"Babys sind kleine Kinder.\",\n        \"赤ちゃんは幼い子供だ。\",\n        \"婴儿是幼小的孩子。\"\n      ]\n    },\n    {\n      \"word\": \"baby\",\n      \"filename\": \"baby.md\",\n      \"lines\": [\n        \"A baby is a young child.\",\n        \"Ein Baby ist ein kleines Kind.\",\n        \"赤ちゃんは幼い子供だ。\",\n        \"婴儿是幼小的孩子。\"\n      ]\n    },\n    {\n      \"word\": \"back\",\n      \"filename\": \"back.md\",\n      \"lines\": [\n        \"A back is a body part.\",\n        \"Ein Rücken ist ein Körperteil.\",\n        \"背中は体の一部だ。\",\n        \"背部是身体的一部分。\"\n      ]\n    },\n    {\n      \"word\": \"backbone\",\n      \"filename\": \"backbone.md\",\n      \"lines\": [\n        \"A backbone is a bone.\",\n        \"Ein Rückgrat ist ein Knochen.\",\n        \"背骨は骨だ。\",\n        \"脊柱是骨头。\"\n      ]\n    },\n    {\n      \"word\": \"backfill_progress.txt\",\n      \"filename\": \"backfill_progress.txt.md\",\n      \"lines\": [\n        \"A backfill_progress.txt is a file.\",\n        \"Eine backfill_progress.txt ist eine Datei.\",\n        \"backfill_progress.txtはファイルだ。\",\n        \"backfill_progress.txt是一个文件。\"\n      ]\n    },\n    {\n      \"word\": \"background\",\n      \"filename\": \"background.md\",\n      \"lines\": [\n        \"A background is a part of a picture.\",\n        \"Ein Hintergrund ist ein Teil eines Bildes.\",\n        \"背景は絵の一部だ。\",\n        \"背景是图片的一部分。\"\n      ]\n    },\n    {\n      \"word\": \"backing\",\n      \"filename\": \"backing.md\",\n      \"lines\": [\n        \"Backing is support.\",\n        \"Unterstützung ist Hilfe.\",\n        \"支援は助けだ。\",\n        \"支持是帮助。\"\n      ]\n    },\n    {\n      \"word\": \"backpack\",\n      \"filename\": \"backpack.md\",\n      \"lines\": [\n        \"A backpack is a bag.\",\n        \"Ein Rucksack ist eine Tasche.\",\n        \"リュックサックは鞄だ。\",\n        \"背包是包。\"\n      ]\n    },\n    {\n      \"word\": \"backward\",\n      \"filename\": \"backward.md\",\n      \"lines\": [\n        \"A backward step is a movement.\",\n        \"Ein Schritt rückwärts ist eine Bewegung.\",\n        \"後ろ向きの歩みは動きだ。\",\n        \"向后的步伐是移动。\"\n      ]\n    },\n    {\n      \"word\": \"backyard\",\n      \"filename\": \"backyard.md\",\n      \"lines\": [\n        \"A backyard is an outdoor area.\",\n        \"Ein Hinterhof ist ein Außenbereich.\",\n        \"裏庭は屋外の場所だ。\",\n        \"后院是户外区域。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 725,
+    "completion_tokens": 689,
+    "total_tokens": 1414,
+    "cost": 0.0002914758,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00029442,
+      "upstream_inference_prompt_cost": 0.0001015,
+      "upstream_inference_completions_cost": 0.00019292
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

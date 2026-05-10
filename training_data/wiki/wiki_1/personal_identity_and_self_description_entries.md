@@ -23,3 +23,12 @@
 
 [user]what are about me facts?
 [Ninereeds]About me facts are simple true things a person can say about the self. A child may share a name, age, grade, favorite food, or where home is. About me facts help other people learn who the child is. These facts are common in introductions and school work. About me facts are not the same as facts about someone else.
+
+[user]what is an appearance?
+[Ninereeds]Appearance is the way something looks from the outside. People can describe the way something looks by color, shape, and size. A tiger has orange fur with black stripes. A zebra has white fur with black stripes. appearance is not the inside.
+
+[user]what does bossy mean?
+[Ninereeds]Bossy describes a person who tells other people what to do all the time. A bossy child wants things done one way without asking for ideas from friends. This behavior does not give room for other choices. Leadership means working together instead of giving commands alone. Bossy is not leadership.
+
+[user]what is independence?
+[Ninereeds]Independence means a person can do things without help from other people. A child can learn to put on a shirt and button the buttons alone. A child pours milk into a cup and takes food from a plate. Growing children practice tasks each day. Independence is not aloneness.

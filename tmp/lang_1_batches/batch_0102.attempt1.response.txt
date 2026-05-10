@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cover",
+      "filename": "cover.md",
+      "lines": [
+        "A cover is a protective item.",
+        "Eine Abdeckung ist ein schützender Gegenstand.",
+        "カバーは保護物です。",
+        "覆盖物是一种保护物品。"
+      ]
+    },
+    {
+      "word": "coverage",
+      "filename": "coverage.md",
+      "lines": [
+        "Coverage is a service.",
+        "Deckung ist ein Dienst.",
+        "カバレッジはサービスです。",
+        "覆盖是一种服务。"
+      ]
+    },
+    {
+      "word": "cow",
+      "filename": "cow.md",
+      "lines": [
+        "A cow is an animal.",
+        "Eine Kuh ist ein Tier.",
+        "牛は動物だ。",
+        "牛是动物。"
+      ]
+    },
+    {
+      "word": "cozy",
+      "filename": "cozy.md",
+      "lines": [
+        "A cozy blanket is a blanket.",
+        "Eine gemütliche Decke ist eine Decke.",
+        "居心地の良い毛布は毛布だ。",
+        "舒适的毯子是毯子。"
+      ]
+    },
+    {
+      "word": "crab",
+      "filename": "crab.md",
+      "lines": [
+        "A crab is an animal.",
+        "Eine Krabbe ist ein Tier.",
+        "カニは動物だ。",
+        "螃蟹是动物。"
+      ]
+    },
+    {
+      "word": "crack",
+      "filename": "crack.md",
+      "lines": [
+        "A crack is a break.",
+        "Ein Riss ist ein Bruch.",
+        "ひび割れは破損だ。",
+        "裂缝是断裂。"
+      ]
+    },
+    {
+      "word": "cracker",
+      "filename": "cracker.md",
+      "lines": [
+        "A cracker is a food.",
+        "Ein Cracker ist ein Lebensmittel.",
+        "クラッカーは食べ物だ。",
+        "饼干是一种食物。"
+      ]
+    },
+    {
+      "word": "crack of thunder",
+      "filename": "crack_of_thunder.md",
+      "lines": [
+        "A crack of thunder is a loud sound.",
+        "Ein Donnerschlag ist ein lautes Geräusch.",
+        "雷鳴は大きな音だ。",
+        "雷声是巨大的声音。"
+      ]
+    },
+    {
+      "word": "craft",
+      "filename": "craft.md",
+      "lines": [
+        "A craft is a skill.",
+        "Ein Handwerk ist eine Fertigkeit.",
+        "工芸は技術だ。",
+        "手工艺是一种技能。"
+      ]
+    },
+    {
+      "word": "cramming",
+      "filename": "cramming.md",
+      "lines": [
+        "Cramming is studying.",
+        "Pauken ist Lernen.",
+        "詰め込み勉強は勉強だ。",
+        "死记硬背是学习。"
+      ]
+    }
+  ],
+  "problems": []
+}

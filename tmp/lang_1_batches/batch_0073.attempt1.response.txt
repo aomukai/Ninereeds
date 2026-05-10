@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "chop",
+      "filename": "chop.md",
+      "lines": [
+        "A chop is a piece of meat.",
+        "Ein Kotelett ist ein Stück Fleisch.",
+        "チョップは肉の一部だ。",
+        "肉排是肉。"
+      ]
+    },
+    {
+      "word": "chopping",
+      "filename": "chopping.md",
+      "lines": [
+        "Chopping is cutting.",
+        "Hacken ist Schneiden.",
+        "刻むことは切断だ。",
+        "剁是切割。"
+      ]
+    },
+    {
+      "word": "chore",
+      "filename": "chore.md",
+      "lines": [
+        "A chore is a task.",
+        "Eine Hausarbeit ist eine Aufgabe.",
+        "雑用は仕事だ。",
+        "家务是工作。"
+      ]
+    },
+    {
+      "word": "chose",
+      "filename": "chose.md",
+      "lines": [
+        "A chose is a thing.",
+        "Eine Chose ist eine Sache.",
+        "チョーズは物だ。",
+        "事物是东西。"
+      ]
+    },
+    {
+      "word": "chosen",
+      "filename": "chosen.md",
+      "lines": [
+        "A chosen person is a person.",
+        "Eine ausgewählte Person ist eine Person.",
+        "選ばれた人は人だ。",
+        "被选中的人是人。"
+      ]
+    },
+    {
+      "word": "chunk",
+      "filename": "chunk.md",
+      "lines": [
+        "A chunk is a piece.",
+        "Ein Brocken ist ein Stück.",
+        "塊は一片だ。",
+        "一块是块。"
+      ]
+    },
+    {
+      "word": "circle",
+      "filename": "circle.md",
+      "lines": [
+        "A circle is a shape.",
+        "Ein Kreis ist eine Form.",
+        "円は形だ。",
+        "圆是形状。"
+      ]
+    },
+    {
+      "word": "circular",
+      "filename": "circular.md",
+      "lines": [
+        "A circular object is a shape.",
+        "Ein kreisförmiges Objekt ist eine Form.",
+        "円形の物体は形だ。",
+        "圆形物体是形状。"
+      ]
+    },
+    {
+      "word": "circulating",
+      "filename": "circulating.md",
+      "lines": [
+        "Circulating is moving.",
+        "Zirkulieren ist Bewegung.",
+        "循環することは移動だ。",
+        "循环是移动。"
+      ]
+    },
+    {
+      "word": "circumscribing",
+      "filename": "circumscribing.md",
+      "lines": [
+        "Circumscribing is drawing.",
+        "Umkreisen ist Zeichnen.",
+        "外接することは描くことだ。",
+        "外接是画图。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "consistent",
+      "filename": "consistent.md",
+      "lines": [
+        "A consistent color is a shade.",
+        "Eine konsistente Farbe ist ein Farbton.",
+        "一貫した色は色合いだ。",
+        "一致的颜色是一种色调。"
+      ]
+    },
+    {
+      "word": "consisting",
+      "filename": "consisting.md",
+      "lines": [
+        "Consisting is composition.",
+        "Bestehen ist Zusammensetzung.",
+        "構成することは組成だ。",
+        "组成是构成。"
+      ]
+    },
+    {
+      "word": "consolidating",
+      "filename": "consolidating.md",
+      "lines": [
+        "Consolidating is merging.",
+        "Konsolidieren ist Zusammenführen.",
+        "統合することは合併だ。",
+        "整合是合并。"
+      ]
+    },
+    {
+      "word": "consolidation",
+      "filename": "consolidation.md",
+      "lines": [
+        "Consolidation is a process.",
+        "Konsolidierung ist ein Prozess.",
+        "統合はプロセスだ。",
+        "整合是一个过程。"
+      ]
+    },
+    {
+      "word": "constant",
+      "filename": "constant.md",
+      "lines": [
+        "A constant sound is a tone.",
+        "Ein konstanter Ton ist ein Klang.",
+        "一定の音は音色だ。",
+        "恒定的声音是一种音调。"
+      ]
+    },
+    {
+      "word": "constituting",
+      "filename": "constituting.md",
+      "lines": [
+        "Constituting is forming.",
+        "Bilden ist Formen.",
+        "構成することは形成だ。",
+        "构成是形成。"
+      ]
+    },
+    {
+      "word": "constraining",
+      "filename": "constraining.md",
+      "lines": [
+        "Constraining is limiting.",
+        "Einschränken ist Begrenzen.",
+        "制約することは制限だ。",
+        "约束是限制。"
+      ]
+    },
+    {
+      "word": "construct",
+      "filename": "construct.md",
+      "lines": [
+        "Constructing is building.",
+        "Konstruieren ist Bauen.",
+        "建設することは建築だ。",
+        "建造是建筑。"
+      ]
+    },
+    {
+      "word": "construction",
+      "filename": "construction.md",
+      "lines": [
+        "Construction is an activity.",
+        "Bau ist eine Tätigkeit.",
+        "建設は活動だ。",
+        "建设是一种活动。"
+      ]
+    },
+    {
+      "word": "construing",
+      "filename": "construing.md",
+      "lines": [
+        "Construing is interpretation.",
+        "Auslegen ist Interpretation.",
+        "解釈することは解釈だ。",
+        "解释是解释。"
+      ]
+    }
+  ],
+  "problems": []
+}

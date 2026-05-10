@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778427370-TAvFebxLeNLHvFjNG3I4",
+  "object": "chat.completion",
+  "created": 1778427370,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"certifying\",\n      \"filename\": \"certifying.md\",\n      \"lines\": [\n        \"Certifying is verification.\",\n        \"Zertifizieren ist eine Überprüfung.\",\n        \"認証することは確認だ。\",\n        \"认证是验证。\"\n      ]\n    },\n    {\n      \"word\": \"chain\",\n      \"filename\": \"chain.md\",\n      \"lines\": [\n        \"A chain is a tool.\",\n        \"Eine Kette ist ein Werkzeug.\",\n        \"鎖は道具だ。\",\n        \"链条是工具。\"\n      ]\n    },\n    {\n      \"word\": \"chair\",\n      \"filename\": \"chair.md\",\n      \"lines\": [\n        \"A chair is furniture.\",\n        \"Ein Stuhl ist ein Möbelstück.\",\n        \"椅子は家具だ。\",\n        \"椅子是家具。\"\n      ]\n    },\n    {\n      \"word\": \"chalk\",\n      \"filename\": \"chalk.md\",\n      \"lines\": [\n        \"Chalk is a writing material.\",\n        \"Kreide ist ein Schreibmaterial.\",\n        \"チョークは筆記具だ。\",\n        \"粉笔是书写材料。\"\n      ]\n    },\n    {\n      \"word\": \"chalkboard\",\n      \"filename\": \"chalkboard.md\",\n      \"lines\": [\n        \"A chalkboard is a surface.\",\n        \"Eine Tafel ist eine Oberfläche.\",\n        \"黒板は表面だ。\",\n        \"黑板是表面。\"\n      ]\n    },\n    {\n      \"word\": \"challenge\",\n      \"filename\": \"challenge.md\",\n      \"lines\": [\n        \"A challenge is a task.\",\n        \"Eine Herausforderung ist eine Aufgabe.\",\n        \"挑戦は課題だ。\",\n        \"挑战是任务。\"\n      ]\n    },\n    {\n      \"word\": \"chance\",\n      \"filename\": \"chance.md\",\n      \"lines\": [\n        \"A chance is an opportunity.\",\n        \"Eine Chance ist eine Gelegenheit.\",\n        \"チャンスは機会だ。\",\n        \"机会是机遇。\"\n      ]\n    },\n    {\n      \"word\": \"change\",\n      \"filename\": \"change.md\",\n      \"lines\": [\n        \"Changing is transformation.\",\n        \"Verändern ist eine Umwandlung.\",\n        \"変えることは変化だ。\",\n        \"改变是转变。\"\n      ]\n    },\n    {\n      \"word\": \"changed\",\n      \"filename\": \"changed.md\",\n      \"lines\": [\n        \"Changing is transformation.\",\n        \"Verändern ist eine Umwandlung.\",\n        \"変えることは変化だ。\",\n        \"改变是转变。\"\n      ]\n    },\n    {\n      \"word\": \"changing\",\n      \"filename\": \"changing.md\",\n      \"lines\": [\n        \"Changing is transformation.\",\n        \"Verändern ist eine Umwandlung.\",\n        \"変えることは変化だ。\",\n        \"改变是转变。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 634,
+    "total_tokens": 1357,
+    "cost": 0.0002759526,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00027874,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00017752
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

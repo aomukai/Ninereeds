@@ -26,3 +26,9 @@
 
 [user]what does barely mean?
 [Ninereeds]Barely means only a very small amount or only just enough. A person may barely hear a sound or barely finish on time. Barely points to a level close to nothing or close to not enough. People use barely when something almost did not happen or almost was not enough. Barely is not very.
+
+[user]what does complex mean?
+[Ninereeds]Something complex has many parts. The parts connect together in different ways. A car engine has many pieces that work together. A puzzle with many pieces is an example. Complex is not simple.
+
+[user]what is intensity?
+[Ninereeds]Intensity measures how strong something is. A loud sound has high intensity. The bright sun is one example of a strong thing. Intensity is not quiet.

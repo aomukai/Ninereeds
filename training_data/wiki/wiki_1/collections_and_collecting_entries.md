@@ -29,3 +29,9 @@
 
 [user]what does swap mean?
 [Ninereeds]Swap means trade one thing for another. Children may swap cards, stickers, or small toys. A swap is often simple and direct between two people. Swapping can help both people get something they want. Swap is not collect.
+
+[user]what is an opal?
+[Ninereeds]Opal is a precious stone made from sand and water under the ground. the stone shows many colors like blue green and red in a single piece. opal can look white black or clear like glass. the gem is cut and polished for use in rings and necklaces. opal is not a crystal.
+
+[user]what is a scrap?
+[Ninereeds]A scrap is a small leftover piece of material. Leftover pieces of metal come from a workshop. People use such pieces to build new objects. A small piece of paper from a craft project is another example. People can recycle or melt the pieces. scrap is not trash.

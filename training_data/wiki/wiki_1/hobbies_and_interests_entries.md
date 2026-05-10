@@ -23,3 +23,12 @@
 
 [user]what is building as a hobby?
 [Ninereeds]Building as a hobby means liking to make things with blocks, paper, parts, or other materials in free time. A child may build towers, houses, roads, or imagined places. Building can use planning, testing, and trying again. Building as a hobby mixes creativity and problem solving. Building as a hobby is not the same as breaking things apart.
+
+[user]what is a comic?
+[Ninereeds]A comic is a type of book or strip that tells stories through pictures and words. Each page contains panels with drawings and speech bubbles. Some strips show funny adventures or jokes. Other strips tell longer narratives across a series of books. A reader follows the story through art and short amounts of text. Comic is not a novel.
+
+[user]what is a streamer?
+[Ninereeds]A streamer is a person who plays games and talks to viewers on a website. Viewers watch the person play games and share comments. Some creators make videos about games and other activities. Many viewers become friends with a creator over time. streamer is not a television actor.
+
+[user]what is a theater?
+[Ninereeds]A theater is a building where people go to see a live show. Performers act out stories on a stage. An audience sits in seats and watches the show. People laugh at funny parts and clap at the end. A theater is not a movie.

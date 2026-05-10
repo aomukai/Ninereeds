@@ -65,3 +65,15 @@
 
 [user]what is a receipt?
 [Ninereeds]A receipt is a piece of paper that shows what was bought and how much was paid. A receipt is given after a purchase is made. People keep receipts to remember what they spent or to return something they bought. A receipt is not the same as money.
+
+[user]what is a brand?
+[Ninereeds]A brand is a name or symbol that belongs to one company. The name helps customers identify products from that maker. For example, a logo on a cereal box is a brand mark. This symbol also helps customers recognize different stores. brand is not a product.
+
+[user]what is a checkout?
+[Ninereeds]Checkout is the place in a store where people pay for items. A person brings items to a counter and gives money or a card to a cashier. After paying, the person takes the items in bags and leaves the store. Some stores have a line of people waiting at the checkout. The cashier scans each item and tells the price. Checkout is not a playground.
+
+[user]what is a product?
+[Ninereeds]Something people make or grow to sell is called a product. One example is a toy from a factory. Another example is food from a farm. People use such things every day to meet needs. product is not a natural resource.
+
+[user]what is production?
+[Ninereeds]This is production. This process makes goods in a factory. Workers use machines to create products like cars and food. Stores sell these goods to people. Production is not destruction.

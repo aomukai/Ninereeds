@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "appropriating",
+      "filename": "appropriating.md",
+      "lines": [
+        "Appropriating is an action.",
+        "Aneignen ist eine Handlung.",
+        "流用することは行動だ。",
+        "挪用是一种行为。"
+      ]
+    },
+    {
+      "word": "approval",
+      "filename": "approval.md",
+      "lines": [
+        "Approval is a decision.",
+        "Zustimmung ist eine Entscheidung.",
+        "承認は決定だ。",
+        "批准是一种决定。"
+      ]
+    },
+    {
+      "word": "approximating",
+      "filename": "approximating.md",
+      "lines": [
+        "Approximating is a calculation.",
+        "Annähern ist eine Berechnung.",
+        "近似することは計算だ。",
+        "近似是一种计算。"
+      ]
+    },
+    {
+      "word": "apron",
+      "filename": "apron.md",
+      "lines": [
+        "An apron is clothing.",
+        "Eine Schürze ist Kleidung.",
+        "エプロンは衣服だ。",
+        "围裙是衣服。"
+      ]
+    },
+    {
+      "word": "arbitrary",
+      "filename": "arbitrary.md",
+      "lines": [
+        "An arbitrary rule is a rule.",
+        "Eine willkürliche Regel ist eine Regel.",
+        "恣意的なルールはルールだ。",
+        "任意的规则是规则。"
+      ]
+    },
+    {
+      "word": "architect",
+      "filename": "architect.md",
+      "lines": [
+        "An architect is a person.",
+        "Ein Architekt ist eine Person.",
+        "建築家は人だ。",
+        "建筑师是人。"
+      ]
+    },
+    {
+      "word": "area",
+      "filename": "area.md",
+      "lines": [
+        "An area is a place.",
+        "Ein Bereich ist ein Ort.",
+        "エリアは場所だ。",
+        "区域是地方。"
+      ]
+    },
+    {
+      "word": "argue",
+      "filename": "argue.md",
+      "lines": [
+        "Arguing is a discussion.",
+        "Argumentieren ist eine Diskussion.",
+        "議論することは討論だ。",
+        "争论是讨论。"
+      ]
+    },
+    {
+      "word": "arguing",
+      "filename": "arguing.md",
+      "lines": [
+        "Arguing is a disagreement.",
+        "Streiten ist eine Meinungsverschiedenheit.",
+        "言い争うことは意見の相違だ。",
+        "争吵是分歧。"
+      ]
+    },
+    {
+      "word": "argument",
+      "filename": "argument.md",
+      "lines": [
+        "An argument is a reason.",
+        "Ein Argument ist ein Grund.",
+        "論拠は理由だ。",
+        "论据是理由。"
+      ]
+    }
+  ],
+  "problems": []
+}

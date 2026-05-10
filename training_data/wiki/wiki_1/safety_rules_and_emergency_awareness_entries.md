@@ -29,3 +29,12 @@
 
 [user]what does not safe mean?
 [Ninereeds]Not safe means something may lead to harm or danger. A child may hear not safe about climbing too high, touching fire, or going near a road alone. The words tell a person to stop, step back, or get help. Not safe is a warning about risk. Not safe is the opposite of safe.
+
+[user]what is a crime?
+[Ninereeds]Crime is an act that breaks a rule made by a society. One example is taking a thing that belongs to another person. Another example is harming a person on purpose. A police officer helps find a person who does a wrong act. A judge gives punishment for such acts. Crime is not a game.
+
+[user]what is prevention?
+[Ninereeds]Prevention is the act of stopping harm before harm happens. washing hands with soap stops illness in this way. wearing a seatbelt in a car keeps bodies safe during an accident. prevention is not a cure.
+
+[user]what is protection?
+[Ninereeds]Protection is a way of keeping something safe from harm. A coat gives protection from cold. A helmet protects a head. A seatbelt keeps a person safe in a car. A fence keeps a garden safe. Protection is not danger.

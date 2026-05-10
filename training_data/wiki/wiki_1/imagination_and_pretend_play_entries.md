@@ -38,3 +38,6 @@
 
 [user]what does it mean to invent a game?
 [Ninereeds]To invent a game means to think up the rules, story, and actions for a new play activity. Children can invent a game using toys, outdoor spaces, or imagination alone. An invented game may change its rules as play goes on. To invent a game is not the same as following rules that already exist.
+
+[user]what does magical mean?
+[Ninereeds]Magical describes a thing that makes a person feel wonder and joy. Seeing a colorful rainbow after a rain storm is a magical moment. Watching the sunset over the ocean fills a person with a magical feeling. A child finds magic in everyday things like light on the sand. Magical is not ordinary.

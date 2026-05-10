@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "base",
+      "filename": "base.md",
+      "lines": [
+        "A base is a support.",
+        "Eine Basis ist eine Stütze.",
+        "ベースは支えだ。",
+        "底座是支撑。"
+      ]
+    },
+    {
+      "word": "baseball",
+      "filename": "baseball.md",
+      "lines": [
+        "A baseball is a ball.",
+        "Ein Baseball ist ein Ball.",
+        "野球ボールはボールだ。",
+        "棒球是球。"
+      ]
+    },
+    {
+      "word": "baseball bat",
+      "filename": "baseball_bat.md",
+      "lines": [
+        "A baseball bat is a tool.",
+        "Ein Baseballschläger ist ein Werkzeug.",
+        "野球のバットは道具だ。",
+        "棒球棒是工具。"
+      ]
+    },
+    {
+      "word": "baseline",
+      "filename": "baseline.md",
+      "lines": [
+        "A baseline is a line.",
+        "Eine Basislinie ist eine Linie.",
+        "ベースラインは線だ。",
+        "基线是线。"
+      ]
+    },
+    {
+      "word": "basement",
+      "filename": "basement.md",
+      "lines": [
+        "A basement is a room.",
+        "Ein Keller ist ein Raum.",
+        "地下室は部屋だ。",
+        "地下室是房间。"
+      ]
+    },
+    {
+      "word": "basic",
+      "filename": "basic.md",
+      "lines": [
+        "A basic phone is a device.",
+        "Ein einfaches Telefon ist ein Gerät.",
+        "基本的な電話は機器だ。",
+        "基本的电话是设备。"
+      ]
+    },
+    {
+      "word": "basis",
+      "filename": "basis.md",
+      "lines": [
+        "A basis is a foundation.",
+        "Eine Basis ist eine Grundlage.",
+        "基礎は基盤だ。",
+        "基础是根基。"
+      ]
+    },
+    {
+      "word": "basket",
+      "filename": "basket.md",
+      "lines": [
+        "A basket is a container.",
+        "Ein Korb ist ein Behälter.",
+        "かごは容器だ。",
+        "篮子是容器。"
+      ]
+    },
+    {
+      "word": "basketball",
+      "filename": "basketball.md",
+      "lines": [
+        "A basketball is a ball.",
+        "Ein Basketball ist ein Ball.",
+        "バスケットボールはボールだ。",
+        "篮球是球。"
+      ]
+    },
+    {
+      "word": "bat",
+      "filename": "bat.md",
+      "lines": [
+        "A bat is an animal.",
+        "Eine Fledermaus ist ein Tier.",
+        "コウモリは動物だ。",
+        "蝙蝠是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778420441-vU0QmUvmlUpZlz0M3e3O",
+  "object": "chat.completion",
+  "created": 1778420441,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": "vllm-0.20.2rc1.dev129+g1acd67a79-dp2-ep-0db20b0b",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"arrive\",\n      \"filename\": \"arrive.md\",\n      \"lines\": [\n        \"Arriving is coming to a place.\",\n        \"Ankommen ist das Erreichen eines Ortes.\",\n        \"到着することは場所に着くことだ。\",\n        \"到达就是来到一个地方。\"\n      ]\n    },\n    {\n      \"word\": \"arrived\",\n      \"filename\": \"arrived.md\",\n      \"lines\": [\n        \"Having arrived is being at a destination.\",\n        \"Angekommen zu sein bedeutet, am Ziel zu sein.\",\n        \"到着したことは目的地にいることだ。\",\n        \"已经到达就是在目的地了。\"\n      ]\n    },\n    {\n      \"word\": \"arriving\",\n      \"filename\": \"arriving.md\",\n      \"lines\": [\n        \"Arriving is coming to a place.\",\n        \"Ankommen ist das Erreichen eines Ortes.\",\n        \"到着することは場所に着くことだ。\",\n        \"到达就是来到一个地方。\"\n      ]\n    },\n    {\n      \"word\": \"arrogating\",\n      \"filename\": \"arrogating.md\",\n      \"lines\": [\n        \"Arrogating is claiming something without right.\",\n        \"Sich anmaßen bedeutet, etwas ohne Recht zu beanspruchen.\",\n        \"横領することは権利なく何かを主張することだ。\",\n        \"擅取就是没有权利却声称拥有某物。\"\n      ]\n    },\n    {\n      \"word\": \"arrow\",\n      \"filename\": \"arrow.md\",\n      \"lines\": [\n        \"An arrow is a projectile.\",\n        \"Ein Pfeil ist ein Geschoss.\",\n        \"矢は投射物だ。\",\n        \"箭是一种投射物。\"\n      ]\n    },\n    {\n      \"word\": \"art\",\n      \"filename\": \"art.md\",\n      \"lines\": [\n        \"Art is a form of expression.\",\n        \"Kunst ist eine Form des Ausdrucks.\",\n        \"芸術は表現の一形態だ。\",\n        \"艺术是一种表达形式。\"\n      ]\n    },\n    {\n      \"word\": \"arthropod\",\n      \"filename\": \"arthropod.md\",\n      \"lines\": [\n        \"An arthropod is an invertebrate animal.\",\n        \"Ein Gliederfüßer ist ein wirbelloses Tier.\",\n        \"節足動物は無脊椎動物だ。\",\n        \"节肢动物是一种无脊椎动物。\"\n      ]\n    },\n    {\n      \"word\": \"article\",\n      \"filename\": \"article.md\",\n      \"lines\": [\n        \"An article is a piece of writing.\",\n        \"Ein Artikel ist ein Schriftstück.\",\n        \"記事は文章の一部だ。\",\n        \"文章是一种书面作品。\"\n      ]\n    },\n    {\n      \"word\": \"articulating\",\n      \"filename\": \"articulating.md\",\n      \"lines\": [\n        \"Articulating is expressing ideas clearly.\",\n        \"Artikulieren bedeutet, Ideen klar auszudrücken.\",\n        \"明確に表現することは考えをはっきり伝えることだ。\",\n        \"清晰地表达就是明确传达想法。\"\n      ]\n    },\n    {\n      \"word\": \"artifact\",\n      \"filename\": \"artifact.md\",\n      \"lines\": [\n        \"An artifact is a man-made object.\",\n        \"Ein Artefakt ist ein von Menschen gemachter Gegenstand.\",\n        \"人工物は人間が作った物体だ。\",\n        \"人工制品是人造物品。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 753,
+    "total_tokens": 1477,
+    "cost": 0.000309078,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0003122,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.00021084
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "amazement",
+      "filename": "amazement.md",
+      "lines": [
+        "Amazement is an emotion.",
+        "Erstaunen ist eine Emotion.",
+        "驚きは感情だ。",
+        "惊讶是一种情感。"
+      ]
+    },
+    {
+      "word": "amazing",
+      "filename": "amazing.md",
+      "lines": [
+        "An amazing flower is a plant.",
+        "Eine erstaunliche Blume ist eine Pflanze.",
+        "素晴らしい花は植物だ。",
+        "令人惊叹的花是植物。"
+      ]
+    },
+    {
+      "word": "amending",
+      "filename": "amending.md",
+      "lines": [
+        "Amending is correcting.",
+        "Ändern ist Korrigieren.",
+        "修正することは訂正だ。",
+        "修正是纠正。"
+      ]
+    },
+    {
+      "word": "amount",
+      "filename": "amount.md",
+      "lines": [
+        "An amount is a value.",
+        "Ein Betrag ist ein Wert.",
+        "量は値だ。",
+        "数量是一个值。"
+      ]
+    },
+    {
+      "word": "amputating",
+      "filename": "amputating.md",
+      "lines": [
+        "Amputating is surgery.",
+        "Amputieren ist eine Operation.",
+        "切断することは手術だ。",
+        "截肢是手术。"
+      ]
+    },
+    {
+      "word": "analogy",
+      "filename": "analogy.md",
+      "lines": [
+        "An analogy is a comparison.",
+        "Eine Analogie ist ein Vergleich.",
+        "類推は比較だ。",
+        "类比是一种比较。"
+      ]
+    },
+    {
+      "word": "analytic",
+      "filename": "analytic.md",
+      "lines": [
+        "An analytic report is a document.",
+        "Ein analytischer Bericht ist ein Dokument.",
+        "分析的な報告書は文書だ。",
+        "分析报告是一种文件。"
+      ]
+    },
+    {
+      "word": "analyzing",
+      "filename": "analyzing.md",
+      "lines": [
+        "Analyzing is examining.",
+        "Analysieren ist Untersuchen.",
+        "分析することは調査だ。",
+        "分析是检查。"
+      ]
+    },
+    {
+      "word": "ancestor",
+      "filename": "ancestor.md",
+      "lines": [
+        "An ancestor is a relative.",
+        "Ein Vorfahre ist ein Verwandter.",
+        "祖先は親戚だ。",
+        "祖先是一种亲属。"
+      ]
+    },
+    {
+      "word": "anchor",
+      "filename": "anchor.md",
+      "lines": [
+        "An anchor is a tool.",
+        "Ein Anker ist ein Werkzeug.",
+        "錨は道具だ。",
+        "锚是一种工具。"
+      ]
+    }
+  ],
+  "problems": []
+}

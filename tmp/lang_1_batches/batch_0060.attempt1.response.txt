@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "candle",
+      "filename": "candle.md",
+      "lines": [
+        "A candle is a light source.",
+        "Eine Kerze ist eine Lichtquelle.",
+        "ろうそくは光源だ。",
+        "蜡烛是光源。"
+      ]
+    },
+    {
+      "word": "candy",
+      "filename": "candy.md",
+      "lines": [
+        "Candy is a sweet food.",
+        "Bonbons sind süße Lebensmittel.",
+        "キャンディーは甘い食べ物だ。",
+        "糖果是甜食。"
+      ]
+    },
+    {
+      "word": "cane",
+      "filename": "cane.md",
+      "lines": [
+        "A cane is a walking aid.",
+        "Ein Stock ist eine Gehhilfe.",
+        "杖は歩行補助具だ。",
+        "手杖是行走辅助工具。"
+      ]
+    },
+    {
+      "word": "cannon",
+      "filename": "cannon.md",
+      "lines": [
+        "A cannon is a weapon.",
+        "Eine Kanone ist eine Waffe.",
+        "大砲は武器だ。",
+        "大炮是武器。"
+      ]
+    },
+    {
+      "word": "cannot",
+      "filename": "cannot.md",
+      "lines": [
+        "Cannot is a verb form.",
+        "Kann nicht ist eine Verbform.",
+        "できないは動詞の形だ。",
+        "不能是动词形式。"
+      ]
+    },
+    {
+      "word": "canvas",
+      "filename": "canvas.md",
+      "lines": [
+        "Canvas is a fabric.",
+        "Segeltuch ist ein Stoff.",
+        "キャンバスは布地だ。",
+        "帆布是一种布料。"
+      ]
+    },
+    {
+      "word": "cap",
+      "filename": "cap.md",
+      "lines": [
+        "A cap is a hat.",
+        "Eine Mütze ist ein Hut.",
+        "キャップは帽子だ。",
+        "帽子是头饰。"
+      ]
+    },
+    {
+      "word": "capable",
+      "filename": "capable.md",
+      "lines": [
+        "A capable person is a worker.",
+        "Ein fähiger Mensch ist ein Arbeiter.",
+        "有能な人は働き手だ。",
+        "能干的人是工作者。"
+      ]
+    },
+    {
+      "word": "capacity",
+      "filename": "capacity.md",
+      "lines": [
+        "Capacity is a measure.",
+        "Kapazität ist ein Maß.",
+        "容量は尺度だ。",
+        "容量是度量。"
+      ]
+    },
+    {
+      "word": "cape",
+      "filename": "cape.md",
+      "lines": [
+        "A cape is a garment.",
+        "Ein Umhang ist ein Kleidungsstück.",
+        "ケープは衣類だ。",
+        "披风是衣物。"
+      ]
+    }
+  ],
+  "problems": []
+}

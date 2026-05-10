@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "active",
+      "filename": "active.md",
+      "lines": [
+        "An active person is a person.",
+        "Ein aktiver Mensch ist ein Mensch.",
+        "活発な人は人だ。",
+        "活跃的人是人。"
+      ]
+    },
+    {
+      "word": "activity",
+      "filename": "activity.md",
+      "lines": [
+        "Activity is an action.",
+        "Aktivität ist eine Handlung.",
+        "活動は行動だ。",
+        "活动是一种行动。"
+      ]
+    },
+    {
+      "word": "actor",
+      "filename": "actor.md",
+      "lines": [
+        "An actor is a person.",
+        "Ein Schauspieler ist eine Person.",
+        "俳優は人だ。",
+        "演员是人。"
+      ]
+    },
+    {
+      "word": "actual",
+      "filename": "actual.md",
+      "lines": [
+        "An actual event is an event.",
+        "Ein tatsächliches Ereignis ist ein Ereignis.",
+        "実際の出来事は出来事だ。",
+        "实际的事件是事件。"
+      ]
+    },
+    {
+      "word": "adapting",
+      "filename": "adapting.md",
+      "lines": [
+        "Adapting is change.",
+        "Anpassen ist Veränderung.",
+        "適応することは変化だ。",
+        "适应是变化。"
+      ]
+    },
+    {
+      "word": "add",
+      "filename": "add.md",
+      "lines": [
+        "Adding is a mathematical operation.",
+        "Addieren ist eine mathematische Operation.",
+        "足すことは数学的操作だ。",
+        "加是一种数学运算。"
+      ]
+    },
+    {
+      "word": "addition",
+      "filename": "addition.md",
+      "lines": [
+        "Addition is a mathematical operation.",
+        "Addition ist eine mathematische Operation.",
+        "足し算は数学的操作だ。",
+        "加法是一种数学运算。"
+      ]
+    },
+    {
+      "word": "additional",
+      "filename": "additional.md",
+      "lines": [
+        "An additional item is an item.",
+        "Ein zusätzlicher Gegenstand ist ein Gegenstand.",
+        "追加の品物は品物だ。",
+        "额外的物品是物品。"
+      ]
+    },
+    {
+      "word": "address",
+      "filename": "address.md",
+      "lines": [
+        "An address is a location.",
+        "Eine Adresse ist ein Ort.",
+        "住所は場所だ。",
+        "地址是地点。"
+      ]
+    },
+    {
+      "word": "addressing",
+      "filename": "addressing.md",
+      "lines": [
+        "Addressing is communication.",
+        "Ansprechen ist Kommunikation.",
+        "話しかけることはコミュニケーションだ。",
+        "讲话是沟通。"
+      ]
+    }
+  ],
+  "problems": []
+}

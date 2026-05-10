@@ -71,3 +71,6 @@ This article expands selected communication act anchors from Level 1 that benefi
 [Ninereeds]To fix a misunderstanding, first notice that something went wrong. Then explain what you actually meant or ask the other person what they meant. Use clear words and check if the other person now understands. Fixing a misunderstanding takes patience because both people need to slow down and listen again.
 
 ---
+
+[user]what is dialogue?
+[Ninereeds]Dialogue is a conversation between two or more people. Each person takes a turn to speak and a turn to listen. People use dialogue to share thoughts and ideas. Friends might have a conversation about what game to play. A teacher and a student might talk to answer questions about a topic. Dialogue is not a lecture.

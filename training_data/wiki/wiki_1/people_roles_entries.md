@@ -44,3 +44,36 @@
 
 [user]what is an enemy?
 [Ninereeds]An enemy is a person or group that is against another person or group. Enemies may fight, argue, or try to cause harm to each other. In stories, enemies often try to stop the main person from reaching a goal. The word enemy is serious and means more than just not being friends. An enemy is not a stranger.
+
+[user]what is a candidate?
+[Ninereeds]A candidate is a person who wants to be chosen for a role or position. A class can choose one person from a group of people who want the role. For example, a student who wants to be class leader is a candidate. People vote for the person. Candidate is not a winner.
+
+[user]what is a counselor?
+[Ninereeds]A counselor is a trained person who listens to people share feelings and problems. A counselor helps people understand hard emotions and find better ways to feel. For example, this worker helps a person talk about worries at school. Kind advice and safe sharing are part of the work. The trained person supports people through sad or worried times. counselor is not a boss.
+
+[user]what is a creator?
+[Ninereeds]A creator is a person who makes something new. A painter makes paintings. A writer makes novels. A creator uses tools and ideas to bring new things into the world. Creator is not copier.
+
+[user]what is a detective?
+[Ninereeds]Detective looks for clues and evidence. The investigator asks questions to find facts about a crime. The investigator helps police officers solve hard cases. If something is stolen, the investigator finds the thief. detective is not a guesser.
+
+[user]what is an ecologist?
+[Ninereeds]An ecologist is a scientist who studies nature and how living things relate to one another and to the world. Ecologists observe plants, animals, and the places where creatures live, such as forests, oceans, and meadows. An ecologist might study a pond to understand how fish, insects, and water plants depend on each other. This work helps people learn about the health of an environment and what keeps an ecosystem in balance. An ecologist is not a gardener.
+
+[user]what is a giver?
+[Ninereeds]A giver is a person who gives things to other people without wanting something back. For example, a person might give a birthday gift to a friend or share food with a family member. Giving can bring joy to both the giver and the receiver. The act helps others feel happy and cared for. giver is not taker.
+
+[user]what is a grandpa?
+[Ninereeds]A grandpa is the father of a parent. This older family member cares for children. This person tells stories and plays games. This person cooks food for the family. This person reads books with children. grandpa is not a stranger.
+
+[user]what is a grown-up?
+[Ninereeds]A grown-up is a person who has stopped growing taller. This person goes to work to earn money for a family. This person makes food and keeps a home clean and safe. This person makes important decisions for a child and teaches a child about the world. grown-up is not a child.
+
+[user]what is a musician?
+[Ninereeds]Musician is a person who makes music. A performer plays instruments like a guitar or a piano. A performer can also sing using a voice. Some performers play alone and some play in a group. A person who plays the drum and a person who sings are two kinds of performers. musician is not a listener.
+
+[user]what is a performer?
+[Ninereeds]A performer is a person who shares a skill with other people. A performer sings songs or dances on a stage. The person plays music for an audience. The audience watches and claps. The performer practices many hours before a show. A performer is not a watcher.
+
+[user]what is a spouse?
+[Ninereeds]A spouse is a person that a married adult calls husband or wife. Two married people share a home and a life together. Married partners care for each other and may raise children as a family. A husband is one kind of spouse; a wife is another kind. spouse is not a friend.

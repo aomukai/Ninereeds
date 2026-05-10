@@ -29,3 +29,36 @@
 
 [user]what does which one fits mean?
 [Ninereeds]Which one fits means which thing belongs with the others. Children ask this when sorting pictures, objects, or ideas. The question helps people look for the shared rule in a group. It is common in classroom sorting tasks. Which one fits is not which one does not belong.
+
+[user]what is a bunch?
+[Ninereeds]A bunch is a group of things that grow or are held together. A group of grapes grows on a single stem. A group of flowers is tied together with string. People pick a group of bananas from a tree. A group can also be a cluster of fruits or other items. Bunch is not a single thing.
+
+[user]what is a characteristic?
+[Ninereeds]A characteristic is a quality, trait, or feature of a person, an animal, or a thing. A characteristic helps identify what kind of thing something is and how that thing is different from other things. For example, a friendly dog has the characteristic of being gentle with people. A curious cat has the characteristic of wanting to explore new places. A characteristic is not a feeling.
+
+[user]what is a chunk?
+[Ninereeds]A chunk is a thick piece of a solid thing. One example is a piece of bread broken from a loaf. Another example is a piece of cheese cut from a block. Pieces like that can be any shape and any size. chunk is not a whole.
+
+[user]what is a class?
+[Ninereeds]A class is a group of students in a school. The students meet in one room with a teacher. The group studies subjects such as math and science. Many people learn together in one place. Class is not one person alone.
+
+[user]what is a classification?
+[Ninereeds]Classification is a way of sorting things into groups based on similar features. for example, people sort animals into groups like mammals and birds. people also sort plants by size and shape. this way of sorting helps people understand how things are alike. classification is not confusion.
+
+[user]what is a combination?
+[Ninereeds]A combination is a single thing that comes from putting two or more different things together. Mixing blue and yellow paints creates a new color called green. Putting flour and sugar together with other ingredients makes cookie dough. Combination is not a single item.
+
+[user]what is an instance?
+[Ninereeds]An instance is one single member of a group. Things in a group share common features. A dog is one example of the animal category. An apple is one example of the fruit category. Each one is a separate thing that belongs to a larger set. Instance is not a whole category.
+
+[user]what is multiplicity?
+[Ninereeds]Multiplicity means the state of having many different things together in one space. A garden with many kinds of flowers shows multiplicity. Each flower is one part of a larger group. The night sky full of stars is another example. Multiplicity is not sameness.
+
+[user]what is similarity?
+[Ninereeds]Similarity is when two things share a quality or trait. A red ball and a red apple share the color red. That shared color is a similarity. Similarity helps people group things together. Similarity is not sameness.
+
+[user]what does specialized mean?
+[Ninereeds]Specialized means focused on one specific kind of work or area of knowledge. A doctor who only works on heart problems has a specialized set of skills. A carpenter who makes only chairs and tables has a specialized set of tools. People learn specialized skills in many years of study and practice. Specialized work helps people solve complicated problems well. Specialized is not general.
+
+[user]what does unique mean?
+[Ninereeds]Unique means something is one of a kind. a snowflake has a shape that is different from every other snowflake. a fingerprint from one person does not match the print from any other person. each unique thing has no exact match. unique is not ordinary.

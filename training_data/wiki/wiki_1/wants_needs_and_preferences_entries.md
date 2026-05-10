@@ -29,3 +29,15 @@
 
 [user]what is a wish?
 [Ninereeds]A wish is a hope for something that may or may not happen. People make wishes for things they want but may not be able to get right away. A wish is softer than a need because it is not required. Children may wish for a pet, a trip, or a special gift. A wish is not the same as a need.
+
+[user]what is advice?
+[Ninereeds]Advice is a suggestion from one person to help another person with a problem. A parent might give guidance about choosing a friend. A teacher might share thoughts about solving a math question. The listener decides whether to follow the suggestion or not. Advice is not an order.
+
+[user]what is a choice?
+[Ninereeds]A choice happens when a person picks one thing from two or more things. A person can choose what to eat for a meal. A person can also choose what game to play. A choice can be hard or easy. choice is not luck.
+
+[user]what is a favorite?
+[Ninereeds]A favorite is a thing a person likes above all other things of the same kind. A most-liked food may be a fruit like an apple, and a best game may be tag or hide-and-seek. People can choose one liked thing from a group. Different people pick different things. Favorite is not the same as a need.
+
+[user]what is a like?
+[Ninereeds]This is like. This word means a warm feeling inside a person for a thing or activity. A child can feel this way about playing with a ball. A person can feel this way about sweet food. This word also means enjoying a warm sunset. Like is not dislike.

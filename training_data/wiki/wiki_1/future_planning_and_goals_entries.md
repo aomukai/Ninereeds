@@ -26,3 +26,9 @@
 
 [user]what does hope to mean?
 [Ninereeds]Hope to means want something good to happen in the future. A child may hope to visit a place, make a team, or learn something hard. The phrase shows a future wish that may need effort or luck. Hope to can be gentle and personal. Hope to is not prepare for.
+
+[user]what is opportunity?
+[Ninereeds]Opportunity is a chance to do something good. A child can get the chance to learn a new skill at school. A person can have the chance to join a sports team or start a new job. The chance can open a door to a better life. Each chance helps a person grow and change. Opportunity is not a promise.
+
+[user]what is a target?
+[Ninereeds]A target is something a person aims for. In a game of darts, players throw small arrows at a round board on a wall. Players aim for the center to score points. A team can have a sales goal to reach in one week. target is not a toy.

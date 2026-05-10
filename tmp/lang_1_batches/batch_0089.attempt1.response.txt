@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "concept",
+      "filename": "concept.md",
+      "lines": [
+        "A concept is an idea.",
+        "Ein Konzept ist eine Idee.",
+        "概念はアイデアだ。",
+        "概念是想法。"
+      ]
+    },
+    {
+      "word": "conceptual",
+      "filename": "conceptual.md",
+      "lines": [
+        "A conceptual diagram is a picture.",
+        "Ein konzeptionelles Diagramm ist ein Bild.",
+        "概念的な図は絵だ。",
+        "概念性的图表是图片。"
+      ]
+    },
+    {
+      "word": "conceptualizing",
+      "filename": "conceptualizing.md",
+      "lines": [
+        "Conceptualizing is thinking.",
+        "Konzeptualisieren ist Denken.",
+        "概念化することは思考だ。",
+        "概念化是思考。"
+      ]
+    },
+    {
+      "word": "concluding",
+      "filename": "concluding.md",
+      "lines": [
+        "Concluding is reasoning.",
+        "Schlussfolgern ist Denken.",
+        "結論を出すことは推論だ。",
+        "得出结论是推理。"
+      ]
+    },
+    {
+      "word": "conclusion",
+      "filename": "conclusion.md",
+      "lines": [
+        "A conclusion is a result.",
+        "Eine Schlussfolgerung ist ein Ergebnis.",
+        "結論は結果だ。",
+        "结论是结果。"
+      ]
+    },
+    {
+      "word": "concrete",
+      "filename": "concrete.md",
+      "lines": [
+        "A concrete floor is a surface.",
+        "Ein Betonboden ist eine Oberfläche.",
+        "コンクリートの床は表面だ。",
+        "混凝土地面是表面。"
+      ]
+    },
+    {
+      "word": "concretizing",
+      "filename": "concretizing.md",
+      "lines": [
+        "Concretizing is realization.",
+        "Konkretisieren ist Verwirklichung.",
+        "具体化は実現だ。",
+        "具体化是实现。"
+      ]
+    },
+    {
+      "word": "concurring",
+      "filename": "concurring.md",
+      "lines": [
+        "Concurring is agreement.",
+        "Zustimmen ist Einverständnis.",
+        "同意することは合意だ。",
+        "同意是共识。"
+      ]
+    },
+    {
+      "word": "condensing",
+      "filename": "condensing.md",
+      "lines": [
+        "Condensing is compression.",
+        "Kondensieren ist Kompression.",
+        "凝縮することは圧縮だ。",
+        "浓缩是压缩。"
+      ]
+    },
+    {
+      "word": "condition",
+      "filename": "condition.md",
+      "lines": [
+        "A condition is a circumstance.",
+        "Eine Bedingung ist ein Umstand.",
+        "条件は状況だ。",
+        "条件是情况。"
+      ]
+    }
+  ],
+  "problems": []
+}

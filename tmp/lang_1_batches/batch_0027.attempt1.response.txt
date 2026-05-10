@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "avoid",
+      "filename": "avoid.md",
+      "lines": [
+        "Avoiding is a way to stay safe.",
+        "Vermeiden ist eine Möglichkeit, sicher zu bleiben.",
+        "避けることは安全を保つ方法だ。",
+        "避免是一种保持安全的方式。"
+      ]
+    },
+    {
+      "word": "avoidance",
+      "filename": "avoidance.md",
+      "lines": [
+        "Avoidance is a behavior.",
+        "Vermeidung ist ein Verhalten.",
+        "回避は行動の一種だ。",
+        "回避是一种行为。"
+      ]
+    },
+    {
+      "word": "avoiding",
+      "filename": "avoiding.md",
+      "lines": [
+        "Avoiding is a strategy.",
+        "Vermeiden ist eine Strategie.",
+        "避けることは戦略だ。",
+        "避免是一种策略。"
+      ]
+    },
+    {
+      "word": "awake",
+      "filename": "awake.md",
+      "lines": [
+        "An awake cat is alert.",
+        "Eine wache Katze ist aufmerksam.",
+        "起きている猫は警戒している。",
+        "醒着的猫很警觉。"
+      ]
+    },
+    {
+      "word": "aware",
+      "filename": "aware.md",
+      "lines": [
+        "An aware person is careful.",
+        "Ein bewusster Mensch ist vorsichtig.",
+        "気づいている人は注意深い。",
+        "有意识的人很小心。"
+      ]
+    },
+    {
+      "word": "awareness",
+      "filename": "awareness.md",
+      "lines": [
+        "Awareness is a mental state.",
+        "Bewusstsein ist ein geistiger Zustand.",
+        "気づきは精神状態だ。",
+        "意识是一种心理状态。"
+      ]
+    },
+    {
+      "word": "awful",
+      "filename": "awful.md",
+      "lines": [
+        "An awful smell is unpleasant.",
+        "Ein schrecklicher Geruch ist unangenehm.",
+        "ひどい匂いは不快だ。",
+        "难闻的气味令人不快。"
+      ]
+    },
+    {
+      "word": "awkward",
+      "filename": "awkward.md",
+      "lines": [
+        "An awkward silence is uncomfortable.",
+        "Eine peinliche Stille ist unangenehm.",
+        "気まずい沈黙は不快だ。",
+        "尴尬的沉默令人不舒服。"
+      ]
+    },
+    {
+      "word": "axe",
+      "filename": "axe.md",
+      "lines": [
+        "An axe is a tool.",
+        "Eine Axt ist ein Werkzeug.",
+        "斧は道具だ。",
+        "斧头是一种工具。"
+      ]
+    },
+    {
+      "word": "axle",
+      "filename": "axle.md",
+      "lines": [
+        "An axle is a machine part.",
+        "Eine Achse ist ein Maschinenteil.",
+        "車軸は機械部品だ。",
+        "车轴是一种机械部件。"
+      ]
+    }
+  ],
+  "problems": []
+}

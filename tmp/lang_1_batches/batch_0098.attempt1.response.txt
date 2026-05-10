@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "coop",
+      "filename": "coop.md",
+      "lines": [
+        "A coop is a shelter.",
+        "Ein Stall ist eine Unterkunft.",
+        "小屋は避難所だ。",
+        "笼子是庇护所。"
+      ]
+    },
+    {
+      "word": "cooperating",
+      "filename": "cooperating.md",
+      "lines": [
+        "Cooperating is working together.",
+        "Zusammenarbeiten ist gemeinsames Arbeiten.",
+        "協力することは一緒に働くことだ。",
+        "合作是一起工作。"
+      ]
+    },
+    {
+      "word": "cooperation",
+      "filename": "cooperation.md",
+      "lines": [
+        "Cooperation is teamwork.",
+        "Kooperation ist Teamarbeit.",
+        "協力はチームワークだ。",
+        "合作是团队协作。"
+      ]
+    },
+    {
+      "word": "coordinate",
+      "filename": "coordinate.md",
+      "lines": [
+        "Coordinating is organizing.",
+        "Koordinieren ist Organisieren.",
+        "調整することは整理することだ。",
+        "协调是组织。"
+      ]
+    },
+    {
+      "word": "coordination",
+      "filename": "coordination.md",
+      "lines": [
+        "Coordination is organization.",
+        "Koordination ist Organisation.",
+        "調整は組織化だ。",
+        "协调是组织。"
+      ]
+    },
+    {
+      "word": "co-parenting",
+      "filename": "co-parenting.md",
+      "lines": [
+        "Co-parenting is sharing responsibilities.",
+        "Co-Parenting ist das Teilen von Verantwortung.",
+        "共同子育ては責任を共有することだ。",
+        "共同养育是分担责任。"
+      ]
+    },
+    {
+      "word": "coping",
+      "filename": "coping.md",
+      "lines": [
+        "Coping is managing challenges.",
+        "Bewältigen ist das Meistern von Herausforderungen.",
+        "対処することは課題を管理することだ。",
+        "应对是管理挑战。"
+      ]
+    },
+    {
+      "word": "copper",
+      "filename": "copper.md",
+      "lines": [
+        "Copper is a metal.",
+        "Kupfer ist ein Metall.",
+        "銅は金属だ。",
+        "铜是金属。"
+      ]
+    },
+    {
+      "word": "copy",
+      "filename": "copy.md",
+      "lines": [
+        "A copy is a reproduction.",
+        "Eine Kopie ist eine Reproduktion.",
+        "コピーは複製だ。",
+        "复制品是复制件。"
+      ]
+    },
+    {
+      "word": "coral",
+      "filename": "coral.md",
+      "lines": [
+        "Coral is a marine animal.",
+        "Koralle ist ein Meerestier.",
+        "サンゴは海洋生物だ。",
+        "珊瑚是海洋动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

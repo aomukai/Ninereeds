@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "blue",
+      "filename": "blue.md",
+      "lines": [
+        "A blue bird is an animal.",
+        "Ein blauer Vogel ist ein Tier.",
+        "青い鳥は動物だ。",
+        "蓝色的鸟是动物。"
+      ]
+    },
+    {
+      "word": "blueberry",
+      "filename": "blueberry.md",
+      "lines": [
+        "A blueberry is a fruit.",
+        "Eine Blaubeere ist eine Frucht.",
+        "ブルーベリーは果物だ。",
+        "蓝莓是水果。"
+      ]
+    },
+    {
+      "word": "blue-green",
+      "filename": "blue_green.md",
+      "lines": [
+        "A blue-green parrot is a bird.",
+        "Ein blaugrüner Papagei ist ein Vogel.",
+        "青緑のオウムは鳥だ。",
+        "蓝绿色的鹦鹉是鸟。"
+      ]
+    },
+    {
+      "word": "blunt",
+      "filename": "blunt.md",
+      "lines": [
+        "A blunt knife is a tool.",
+        "Ein stumpfes Messer ist ein Werkzeug.",
+        "鈍いナイフは道具だ。",
+        "钝刀是工具。"
+      ]
+    },
+    {
+      "word": "blur",
+      "filename": "blur.md",
+      "lines": [
+        "Blurring is a visual effect.",
+        "Verwischen ist ein visueller Effekt.",
+        "ぼやけることは視覚効果だ。",
+        "模糊是一种视觉效果。"
+      ]
+    },
+    {
+      "word": "blush",
+      "filename": "blush.md",
+      "lines": [
+        "Blushing is a facial reaction.",
+        "Erröten ist eine Gesichtsreaktion.",
+        "赤面することは顔の反応だ。",
+        "脸红是一种面部反应。"
+      ]
+    },
+    {
+      "word": "board",
+      "filename": "board.md",
+      "lines": [
+        "A board is a piece of wood.",
+        "Ein Brett ist ein Stück Holz.",
+        "板は木片だ。",
+        "板子是木头。"
+      ]
+    },
+    {
+      "word": "boat",
+      "filename": "boat.md",
+      "lines": [
+        "A boat is a water vessel.",
+        "Ein Boot ist ein Wasserfahrzeug.",
+        "ボートは水上乗り物だ。",
+        "船是水上交通工具。"
+      ]
+    },
+    {
+      "word": "bob",
+      "filename": "bob.md",
+      "lines": [
+        "Bobbing is a motion.",
+        "Wippen ist eine Bewegung.",
+        "浮き沈みは動きだ。",
+        "浮动是一种运动。"
+      ]
+    },
+    {
+      "word": "body",
+      "filename": "body.md",
+      "lines": [
+        "A body is an organism.",
+        "Ein Körper ist ein Organismus.",
+        "体は生物体だ。",
+        "身体是生物体。"
+      ]
+    }
+  ],
+  "problems": []
+}

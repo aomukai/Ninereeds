@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "camel",
+      "filename": "camel.md",
+      "lines": [
+        "A camel is a mammal.",
+        "Ein Kamel ist ein Säugetier.",
+        "ラクダは哺乳類だ。",
+        "骆驼是哺乳动物。"
+      ]
+    },
+    {
+      "word": "camera",
+      "filename": "camera.md",
+      "lines": [
+        "A camera is a device.",
+        "Eine Kamera ist ein Gerät.",
+        "カメラは機器だ。",
+        "相机是设备。"
+      ]
+    },
+    {
+      "word": "camouflaging",
+      "filename": "camouflaging.md",
+      "lines": [
+        "Camouflaging is hiding.",
+        "Tarnen ist Verstecken.",
+        "カモフラージュすることは隠れることだ。",
+        "伪装是隐藏。"
+      ]
+    },
+    {
+      "word": "camp",
+      "filename": "camp.md",
+      "lines": [
+        "A camp is a place.",
+        "Ein Camp ist ein Ort.",
+        "キャンプは場所だ。",
+        "营地是地点。"
+      ]
+    },
+    {
+      "word": "can",
+      "filename": "can.md",
+      "lines": [
+        "A can is a container.",
+        "Eine Dose ist ein Behälter.",
+        "缶は容器だ。",
+        "罐子是容器。"
+      ]
+    },
+    {
+      "word": "canal",
+      "filename": "canal.md",
+      "lines": [
+        "A canal is a waterway.",
+        "Ein Kanal ist ein Wasserweg.",
+        "運河は水路だ。",
+        "运河是水道。"
+      ]
+    },
+    {
+      "word": "canceling",
+      "filename": "canceling.md",
+      "lines": [
+        "Canceling is stopping.",
+        "Stornieren ist Abbrechen.",
+        "キャンセルすることは中止することだ。",
+        "取消是停止。"
+      ]
+    },
+    {
+      "word": "cancer",
+      "filename": "cancer.md",
+      "lines": [
+        "Cancer is a disease.",
+        "Krebs ist eine Krankheit.",
+        "癌は病気だ。",
+        "癌症是疾病。"
+      ]
+    },
+    {
+      "word": "cand",
+      "filename": "cand.md",
+      "lines": [
+        "A cand is a unit.",
+        "Eine Candela ist eine Einheit.",
+        "カンデラは単位だ。",
+        "坎德拉是单位。"
+      ]
+    },
+    {
+      "word": "candidate",
+      "filename": "candidate.md",
+      "lines": [
+        "A candidate is a person.",
+        "Ein Kandidat ist eine Person.",
+        "候補者は人だ。",
+        "候选人是人。"
+      ]
+    }
+  ],
+  "problems": []
+}

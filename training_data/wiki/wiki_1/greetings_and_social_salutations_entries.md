@@ -26,3 +26,12 @@
 
 [user]what does welcome mean?
 [Ninereeds]Welcome is something people say when another person arrives. Welcome can make a person feel wanted, noticed, and safe in a place. A teacher may say welcome to class, or a family may say welcome to a guest. Welcome can begin a visit in a warm way. Welcome is not the same as goodbye.
+
+[user]what does it mean to introduce?
+[Ninereeds]To introduce means to bring a person to another person or group for the first time. A teacher brings a new student to a class. A child brings a friend to another friend. The act of introduction helps people know each other. Introduce is not hide.
+
+[user]what is an introduction?
+[Ninereeds]This is a way for people to meet for the first time. One person says a name and the other person says a name. This helps people know each other. An introduction starts a conversation between two people. introduction is not a goodbye.
+
+[user]what is an invitation?
+[Ninereeds]An invitation is a written message that asks a person to come to a special place or event. A person may send this written message for a birthday party or a dinner. The message tells the time and the place. The person who gets the message can say yes or no. Invitation is not a command.

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "comprising",
+      "filename": "comprising.md",
+      "lines": [
+        "Comprising is inclusion.",
+        "Umfassen ist Einschluss.",
+        "含むことは包含だ。",
+        "包含是包括。"
+      ]
+    },
+    {
+      "word": "comprising_3",
+      "filename": "comprising_3.md",
+      "lines": [
+        "A comprising_3 is a concept.",
+        "Ein comprising_3 ist ein Konzept.",
+        "comprising_3は概念だ。",
+        "comprising_3是一个概念。"
+      ]
+    },
+    {
+      "word": "compromise",
+      "filename": "compromise.md",
+      "lines": [
+        "A compromise is an agreement.",
+        "Ein Kompromiss ist eine Vereinbarung.",
+        "妥協は合意だ。",
+        "妥协是一种协议。"
+      ]
+    },
+    {
+      "word": "compromising",
+      "filename": "compromising.md",
+      "lines": [
+        "Compromising is negotiation.",
+        "Kompromittieren ist Verhandlung.",
+        "妥協することは交渉だ。",
+        "妥协是谈判。"
+      ]
+    },
+    {
+      "word": "compute",
+      "filename": "compute.md",
+      "lines": [
+        "A compute is a resource.",
+        "Ein Compute ist eine Ressource.",
+        "コンピュートはリソースだ。",
+        "计算是一种资源。"
+      ]
+    },
+    {
+      "word": "computer",
+      "filename": "computer.md",
+      "lines": [
+        "A computer is a machine.",
+        "Ein Computer ist eine Maschine.",
+        "コンピュータは機械だ。",
+        "电脑是一种机器。"
+      ]
+    },
+    {
+      "word": "computing",
+      "filename": "computing.md",
+      "lines": [
+        "Computing is data processing.",
+        "Rechnen ist Datenverarbeitung.",
+        "コンピューティングはデータ処理だ。",
+        "计算是数据处理。"
+      ]
+    },
+    {
+      "word": "concealing",
+      "filename": "concealing.md",
+      "lines": [
+        "Concealing is hiding.",
+        "Verbergen ist Verstecken.",
+        "隠すことは隠蔽だ。",
+        "隐藏是掩盖。"
+      ]
+    },
+    {
+      "word": "conceiving",
+      "filename": "conceiving.md",
+      "lines": [
+        "Conceiving is creation.",
+        "Konzipieren ist Schöpfung.",
+        "考案することは創造だ。",
+        "构思是创造。"
+      ]
+    },
+    {
+      "word": "concentrating",
+      "filename": "concentrating.md",
+      "lines": [
+        "Concentrating is focusing.",
+        "Konzentrieren ist Fokussieren.",
+        "集中することは焦点を合わせることだ。",
+        "集中是聚焦。"
+      ]
+    }
+  ],
+  "problems": []
+}

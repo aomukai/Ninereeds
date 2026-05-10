@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "adulthood",
+      "filename": "adulthood.md",
+      "lines": [
+        "Adulthood is a life stage.",
+        "Das Erwachsenenalter ist eine Lebensphase.",
+        "成人期は人生の段階だ。",
+        "成年期是人生阶段。"
+      ]
+    },
+    {
+      "word": "advanced",
+      "filename": "advanced.md",
+      "lines": [
+        "An advanced computer is a machine.",
+        "Ein fortschrittlicher Computer ist eine Maschine.",
+        "先進的なコンピュータは機械だ。",
+        "先进的电脑是机器。"
+      ]
+    },
+    {
+      "word": "advancing",
+      "filename": "advancing.md",
+      "lines": [
+        "Advancing is progress.",
+        "Voranschreiten ist Fortschritt.",
+        "前進することは進歩だ。",
+        "前进是进步。"
+      ]
+    },
+    {
+      "word": "advantage",
+      "filename": "advantage.md",
+      "lines": [
+        "An advantage is a benefit.",
+        "Ein Vorteil ist ein Nutzen.",
+        "利点は利益だ。",
+        "优势是好处。"
+      ]
+    },
+    {
+      "word": "adventure",
+      "filename": "adventure.md",
+      "lines": [
+        "An adventure is an experience.",
+        "Ein Abenteuer ist eine Erfahrung.",
+        "冒険は経験だ。",
+        "冒险是经历。"
+      ]
+    },
+    {
+      "word": "adventurous",
+      "filename": "adventurous.md",
+      "lines": [
+        "An adventurous child is a person.",
+        "Ein abenteuerlustiges Kind ist eine Person.",
+        "冒険好きな子供は人だ。",
+        "喜欢冒险的孩子是人。"
+      ]
+    },
+    {
+      "word": "advertising",
+      "filename": "advertising.md",
+      "lines": [
+        "Advertising is communication.",
+        "Werbung ist Kommunikation.",
+        "広告はコミュニケーションだ。",
+        "广告是沟通。"
+      ]
+    },
+    {
+      "word": "advice",
+      "filename": "advice.md",
+      "lines": [
+        "Advice is a recommendation.",
+        "Ein Ratschlag ist eine Empfehlung.",
+        "アドバイスは勧めだ。",
+        "建议是推荐。"
+      ]
+    },
+    {
+      "word": "advising",
+      "filename": "advising.md",
+      "lines": [
+        "Advising is guiding.",
+        "Beraten ist Führen.",
+        "助言することは指導だ。",
+        "提供建议是指导。"
+      ]
+    },
+    {
+      "word": "affecting",
+      "filename": "affecting.md",
+      "lines": [
+        "Affecting is influencing.",
+        "Beeinflussen ist Verändern.",
+        "影響を与えることは変化だ。",
+        "影响是改变。"
+      ]
+    }
+  ],
+  "problems": []
+}

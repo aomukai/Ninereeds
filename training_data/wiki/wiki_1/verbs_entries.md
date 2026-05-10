@@ -306,3 +306,18 @@
 
 [user]what does it mean to destroy?
 [Ninereeds]To destroy means to break or damage something so badly that it cannot be used again. A fire can destroy a building, and a big wave can destroy a sandcastle. When something is destroyed, it is gone or badly ruined. To destroy is a strong action that is hard to undo. To destroy is the opposite of to build.
+
+[user]what does it mean to unbuckle?
+[Ninereeds]To unbuckle is to open a buckle and loosen a strap. A buckle holds two ends of a belt together with a metal tongue that fits through a hole. Pushing the tongue out of the hole releases the strap. A person may unbuckle a seat belt after a car ride. unbuckle is not fasten.
+
+[user]what does it mean to uncurl?
+[Ninereeds]To uncurl means to become straight or flat after a curled form. A cat stretches a body after sleep. A leaf opens as a leaf warms in the sun. A slow movement from tight to loose is an uncurl. uncurl is not a fold.
+
+[user]what does it mean to unload?
+[Ninereeds]To unload means to take things out of a container or vehicle. A person takes groceries from a car after a trip to the store. A person takes clean dishes from a dishwasher and puts each dish on a shelf. This action moves items from a full space to an empty space. Unload is not packing.
+
+[user]what does it mean to unlock?
+[Ninereeds]Unlock means to open a door or a device that is closed and secured. A person uses a key to turn a lock on a door. A person uses a password on a phone screen. The key turns the lock and the door opens. Unlock is not block.
+
+[user]what does it mean to untie?
+[Ninereeds]To untie means to undo a knot or a bow. A person can untie a knot in a rope to make the rope free. A child can undo laces on a shoe to take the shoe off. This action pulls the ends of a string or ribbon apart. Untie is not a tie.

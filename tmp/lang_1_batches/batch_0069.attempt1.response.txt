@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "chatter",
+      "filename": "chatter.md",
+      "lines": [
+        "Chatter is noise.",
+        "Geschwätz ist Lärm.",
+        "おしゃべりは騒音だ。",
+        "闲聊是噪音。"
+      ]
+    },
+    {
+      "word": "chattering",
+      "filename": "chattering.md",
+      "lines": [
+        "Chattering is talking.",
+        "Schwatzen ist Sprechen.",
+        "おしゃべりすることは話すことだ。",
+        "喋喋不休是说话。"
+      ]
+    },
+    {
+      "word": "cheap",
+      "filename": "cheap.md",
+      "lines": [
+        "A cheap pen is a tool.",
+        "Ein billiger Stift ist ein Werkzeug.",
+        "安いペンは道具だ。",
+        "便宜的笔是工具。"
+      ]
+    },
+    {
+      "word": "cheat",
+      "filename": "cheat.md",
+      "lines": [
+        "Cheating is dishonesty.",
+        "Betrug ist Unehrlichkeit.",
+        "不正は不正直だ。",
+        "作弊是不诚实。"
+      ]
+    },
+    {
+      "word": "check",
+      "filename": "check.md",
+      "lines": [
+        "Checking is a test.",
+        "Überprüfen ist ein Test.",
+        "チェックすることはテストだ。",
+        "检查是测试。"
+      ]
+    },
+    {
+      "word": "checkout",
+      "filename": "checkout.md",
+      "lines": [
+        "A checkout is a machine.",
+        "Eine Kasse ist eine Maschine.",
+        "レジは機械だ。",
+        "收银台是机器。"
+      ]
+    },
+    {
+      "word": "checkup",
+      "filename": "checkup.md",
+      "lines": [
+        "A checkup is a medical examination.",
+        "Ein Check-up ist eine medizinische Untersuchung.",
+        "健康診断は医学的検査だ。",
+        "体检是医学检查。"
+      ]
+    },
+    {
+      "word": "cheek",
+      "filename": "cheek.md",
+      "lines": [
+        "A cheek is a body part.",
+        "Eine Wange ist ein Körperteil.",
+        "頬は体の一部だ。",
+        "脸颊是身体的一部分。"
+      ]
+    },
+    {
+      "word": "cheer",
+      "filename": "cheer.md",
+      "lines": [
+        "A cheer is a shout.",
+        "Ein Jubel ist ein Schrei.",
+        "声援は叫びだ。",
+        "欢呼是喊叫。"
+      ]
+    },
+    {
+      "word": "cheerful",
+      "filename": "cheerful.md",
+      "lines": [
+        "A cheerful dog is an animal.",
+        "Ein fröhlicher Hund ist ein Tier.",
+        "陽気な犬は動物だ。",
+        "快乐的狗是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

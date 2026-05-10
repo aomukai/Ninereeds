@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "crew",
+      "filename": "crew.md",
+      "lines": [
+        "A crew is a team.",
+        "Eine Crew ist ein Team.",
+        "クルーはチームだ。",
+        "船员是一个团队。"
+      ]
+    },
+    {
+      "word": "crib",
+      "filename": "crib.md",
+      "lines": [
+        "A crib is a bed.",
+        "Ein Kinderbett ist ein Bett.",
+        "ベビーベッドはベッドだ。",
+        "婴儿床是床。"
+      ]
+    },
+    {
+      "word": "cricket",
+      "filename": "cricket.md",
+      "lines": [
+        "A cricket is an insect.",
+        "Eine Grille ist ein Insekt.",
+        "コオロギは昆虫だ。",
+        "蟋蟀是昆虫。"
+      ]
+    },
+    {
+      "word": "crime",
+      "filename": "crime.md",
+      "lines": [
+        "A crime is an illegal action.",
+        "Ein Verbrechen ist eine illegale Handlung.",
+        "犯罪は違法行為だ。",
+        "犯罪是非法行为。"
+      ]
+    },
+    {
+      "word": "crinkle",
+      "filename": "crinkle.md",
+      "lines": [
+        "Crinkling is folding.",
+        "Knittern ist Falten.",
+        "しわくちゃにすることは折り畳みだ。",
+        "起皱是折叠。"
+      ]
+    },
+    {
+      "word": "crinkly",
+      "filename": "crinkly.md",
+      "lines": [
+        "A crinkly leaf is a leaf.",
+        "Ein knittriges Blatt ist ein Blatt.",
+        "しわくちゃの葉は葉だ。",
+        "起皱的叶子是叶子。"
+      ]
+    },
+    {
+      "word": "crisis",
+      "filename": "crisis.md",
+      "lines": [
+        "A crisis is an emergency.",
+        "Eine Krise ist ein Notfall.",
+        "危機は緊急事態だ。",
+        "危机是紧急情况。"
+      ]
+    },
+    {
+      "word": "crisp",
+      "filename": "crisp.md",
+      "lines": [
+        "A crisp apple is a fruit.",
+        "Ein knackiger Apfel ist eine Frucht.",
+        "パリッとしたりんごは果物だ。",
+        "脆苹果是水果。"
+      ]
+    },
+    {
+      "word": "crispy",
+      "filename": "crispy.md",
+      "lines": [
+        "A crispy chip is a snack.",
+        "Ein knuspriger Chip ist ein Snack.",
+        "カリカリのチップスはおやつだ。",
+        "脆薯片是零食。"
+      ]
+    },
+    {
+      "word": "criticism",
+      "filename": "criticism.md",
+      "lines": [
+        "A criticism is an evaluation.",
+        "Eine Kritik ist eine Bewertung.",
+        "批判は評価だ。",
+        "批评是评价。"
+      ]
+    }
+  ],
+  "problems": []
+}

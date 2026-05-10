@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "criticizing",
+      "filename": "criticizing.md",
+      "lines": [
+        "Criticizing is evaluation.",
+        "Kritisieren ist Bewertung.",
+        "批判することは評価だ。",
+        "批评是评价。"
+      ]
+    },
+    {
+      "word": "croaking",
+      "filename": "croaking.md",
+      "lines": [
+        "Croaking is a sound.",
+        "Quaken ist ein Geräusch.",
+        "鳴くことは音だ。",
+        "蛙鸣是声音。"
+      ]
+    },
+    {
+      "word": "crocodile",
+      "filename": "crocodile.md",
+      "lines": [
+        "A crocodile is a reptile.",
+        "Ein Krokodil ist ein Reptil.",
+        "ワニは爬虫類だ。",
+        "鳄鱼是爬行动物。"
+      ]
+    },
+    {
+      "word": "crooked",
+      "filename": "crooked.md",
+      "lines": [
+        "A crooked stick is a stick.",
+        "Ein krummer Stock ist ein Stock.",
+        "曲がった棒は棒だ。",
+        "弯曲的棍子是棍子。"
+      ]
+    },
+    {
+      "word": "crop",
+      "filename": "crop.md",
+      "lines": [
+        "A crop is a plant.",
+        "Eine Nutzpflanze ist eine Pflanze.",
+        "作物は植物だ。",
+        "农作物是植物。"
+      ]
+    },
+    {
+      "word": "cross",
+      "filename": "cross.md",
+      "lines": [
+        "A cross is a symbol.",
+        "Ein Kreuz ist ein Symbol.",
+        "十字は記号だ。",
+        "十字是符号。"
+      ]
+    },
+    {
+      "word": "cross-examining",
+      "filename": "cross_examining.md",
+      "lines": [
+        "Cross-examining is questioning.",
+        "Kreuzverhören ist Befragung.",
+        "反対尋問は質問だ。",
+        "交叉询问是提问。"
+      ]
+    },
+    {
+      "word": "crossing",
+      "filename": "crossing.md",
+      "lines": [
+        "Crossing is movement.",
+        "Überqueren ist Bewegung.",
+        "渡ることは移動だ。",
+        "穿越是移动。"
+      ]
+    },
+    {
+      "word": "crosswalk",
+      "filename": "crosswalk.md",
+      "lines": [
+        "A crosswalk is a path.",
+        "Ein Fußgängerüberweg ist ein Weg.",
+        "横断歩道は道だ。",
+        "人行横道是道路。"
+      ]
+    },
+    {
+      "word": "crouch",
+      "filename": "crouch.md",
+      "lines": [
+        "Crouching is a posture.",
+        "Hocken ist eine Haltung.",
+        "しゃがむことは姿勢だ。",
+        "蹲是姿势。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778432113-1zFesVvB3AOspiAIg3os",
+  "object": "chat.completion",
+  "created": 1778432113,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": "vllm-0.20.2rc1.dev129+g1acd67a79-dp2-ep-0db20b0b",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"darkness\",\n      \"filename\": \"darkness.md\",\n      \"lines\": [\n        \"Darkness is the absence of light.\",\n        \"Dunkelheit ist die Abwesenheit von Licht.\",\n        \"暗闇は光のない状態だ。\",\n        \"黑暗是没有光的状态。\"\n      ]\n    },\n    {\n      \"word\": \"darting\",\n      \"filename\": \"darting.md\",\n      \"lines\": [\n        \"Darting is quick movement.\",\n        \"Darting ist schnelle Bewegung.\",\n        \"ダッシュすることは素早い動きだ。\",\n        \"猛冲是快速移动。\"\n      ]\n    },\n    {\n      \"word\": \"dash\",\n      \"filename\": \"dash.md\",\n      \"lines\": [\n        \"A dash is a punctuation mark.\",\n        \"Ein Gedankenstrich ist ein Satzzeichen.\",\n        \"ダッシュは句読点だ。\",\n        \"破折号是一种标点符号。\"\n      ]\n    },\n    {\n      \"word\": \"dashing\",\n      \"filename\": \"dashing.md\",\n      \"lines\": [\n        \"Dashing is running quickly.\",\n        \"Dashing ist schnelles Laufen.\",\n        \"突進することは速く走ることだ。\",\n        \"冲刺是快速奔跑。\"\n      ]\n    },\n    {\n      \"word\": \"date\",\n      \"filename\": \"date.md\",\n      \"lines\": [\n        \"A date is a day on the calendar.\",\n        \"Ein Datum ist ein Tag im Kalender.\",\n        \"日付はカレンダーの一日だ。\",\n        \"日期是日历上的一天。\"\n      ]\n    },\n    {\n      \"word\": \"datum\",\n      \"filename\": \"datum.md\",\n      \"lines\": [\n        \"A datum is a piece of information.\",\n        \"Ein Datum ist eine Informationseinheit.\",\n        \"データは情報の一つだ。\",\n        \"数据是一条信息。\"\n      ]\n    },\n    {\n      \"word\": \"daughter\",\n      \"filename\": \"daughter.md\",\n      \"lines\": [\n        \"A daughter is a child.\",\n        \"Eine Tochter ist ein Kind.\",\n        \"娘は子供だ。\",\n        \"女儿是孩子。\"\n      ]\n    },\n    {\n      \"word\": \"dawn\",\n      \"filename\": \"dawn.md\",\n      \"lines\": [\n        \"Dawn is the start of the day.\",\n        \"Die Morgendämmerung ist der Beginn des Tages.\",\n        \"夜明けは一日の始まりだ。\",\n        \"黎明是一天的开始。\"\n      ]\n    },\n    {\n      \"word\": \"day\",\n      \"filename\": \"day.md\",\n      \"lines\": [\n        \"A day is a unit of time.\",\n        \"Ein Tag ist eine Zeiteinheit.\",\n        \"一日は時間の単位だ。\",\n        \"一天是时间单位。\"\n      ]\n    },\n    {\n      \"word\": \"daydream\",\n      \"filename\": \"daydream.md\",\n      \"lines\": [\n        \"A daydream is a pleasant thought.\",\n        \"Ein Tagtraum ist ein angenehmer Gedanke.\",\n        \"白昼夢は楽しい考えだ。\",\n        \"白日梦是愉快的想法。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 709,
+    "total_tokens": 1433,
+    "cost": 0.0002968812,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00029988,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.00019852
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

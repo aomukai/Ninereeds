@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "chimp",
+      "filename": "chimp.md",
+      "lines": [
+        "A chimp is a primate.",
+        "Ein Schimpanse ist ein Primat.",
+        "チンパンジーは霊長類だ。",
+        "黑猩猩是灵长类动物。"
+      ]
+    },
+    {
+      "word": "chimpanzee",
+      "filename": "chimpanzee.md",
+      "lines": [
+        "A chimpanzee is an ape.",
+        "Ein Schimpanse ist ein Menschenaffe.",
+        "チンパンジーは類人猿だ。",
+        "黑猩猩是类人猿。"
+      ]
+    },
+    {
+      "word": "chin",
+      "filename": "chin.md",
+      "lines": [
+        "A chin is a body part.",
+        "Ein Kinn ist ein Körperteil.",
+        "あごは体の一部だ。",
+        "下巴是身体的一部分。"
+      ]
+    },
+    {
+      "word": "chip",
+      "filename": "chip.md",
+      "lines": [
+        "A chip is a snack.",
+        "Ein Chip ist ein Snack.",
+        "チップはスナックだ。",
+        "薯片是一种零食。"
+      ]
+    },
+    {
+      "word": "chirp",
+      "filename": "chirp.md",
+      "lines": [
+        "A chirp is a sound.",
+        "Ein Zwitschern ist ein Geräusch.",
+        "さえずりは音だ。",
+        "鸣叫是一种声音。"
+      ]
+    },
+    {
+      "word": "chloe",
+      "filename": "chloe.md",
+      "lines": [
+        "Chloe is a name.",
+        "Chloe ist ein Name.",
+        "クロエは名前だ。",
+        "克洛伊是一个名字。"
+      ]
+    },
+    {
+      "word": "chocolate",
+      "filename": "chocolate.md",
+      "lines": [
+        "Chocolate is a food.",
+        "Schokolade ist ein Lebensmittel.",
+        "チョコレートは食べ物だ。",
+        "巧克力是一种食物。"
+      ]
+    },
+    {
+      "word": "choice",
+      "filename": "choice.md",
+      "lines": [
+        "A choice is a decision.",
+        "Eine Wahl ist eine Entscheidung.",
+        "選択は決断だ。",
+        "一个选择是一个决定。"
+      ]
+    },
+    {
+      "word": "choose",
+      "filename": "choose.md",
+      "lines": [
+        "Choosing is an action.",
+        "Wählen ist eine Handlung.",
+        "選ぶことは行動だ。",
+        "选择是一种行动。"
+      ]
+    },
+    {
+      "word": "choosing",
+      "filename": "choosing.md",
+      "lines": [
+        "Choosing is a decision.",
+        "Das Wählen ist eine Entscheidung.",
+        "選ぶことは決断だ。",
+        "选择是一个决定。"
+      ]
+    }
+  ],
+  "problems": []
+}

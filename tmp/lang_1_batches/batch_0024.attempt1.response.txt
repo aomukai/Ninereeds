@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "asynchronous",
+      "filename": "asynchronous.md",
+      "lines": [
+        "An asynchronous event is an event.",
+        "Ein asynchrones Ereignis ist ein Ereignis.",
+        "非同期イベントはイベントだ。",
+        "异步事件是事件。"
+      ]
+    },
+    {
+      "word": "ate",
+      "filename": "ate.md",
+      "lines": [
+        "Eating is an action.",
+        "Essen ist eine Handlung.",
+        "食べることは行動だ。",
+        "吃饭是行动。"
+      ]
+    },
+    {
+      "word": "atom",
+      "filename": "atom.md",
+      "lines": [
+        "An atom is a particle.",
+        "Ein Atom ist ein Teilchen.",
+        "原子は粒子だ。",
+        "原子是粒子。"
+      ]
+    },
+    {
+      "word": "attach",
+      "filename": "attach.md",
+      "lines": [
+        "Attaching is a process.",
+        "Anhängen ist ein Prozess.",
+        "取り付けることはプロセスだ。",
+        "附着是一个过程。"
+      ]
+    },
+    {
+      "word": "attached",
+      "filename": "attached.md",
+      "lines": [
+        "An attached document is a document.",
+        "Ein angehängtes Dokument ist ein Dokument.",
+        "添付された文書は文書だ。",
+        "附加的文档是文档。"
+      ]
+    },
+    {
+      "word": "attaching",
+      "filename": "attaching.md",
+      "lines": [
+        "Attaching is an activity.",
+        "Anhängen ist eine Aktivität.",
+        "取り付けることは活動だ。",
+        "附着是一种活动。"
+      ]
+    },
+    {
+      "word": "attaining",
+      "filename": "attaining.md",
+      "lines": [
+        "Attaining is an achievement.",
+        "Erreichen ist eine Errungenschaft.",
+        "達成することは成果だ。",
+        "达到是一种成就。"
+      ]
+    },
+    {
+      "word": "attempt",
+      "filename": "attempt.md",
+      "lines": [
+        "An attempt is an action.",
+        "Ein Versuch ist eine Handlung.",
+        "試みは行動だ。",
+        "尝试是行动。"
+      ]
+    },
+    {
+      "word": "attempting",
+      "filename": "attempting.md",
+      "lines": [
+        "Attempting is an effort.",
+        "Versuchen ist eine Anstrengung.",
+        "試みることは努力だ。",
+        "尝试是一种努力。"
+      ]
+    },
+    {
+      "word": "attendance",
+      "filename": "attendance.md",
+      "lines": [
+        "Attendance is an activity.",
+        "Anwesenheit ist eine Aktivität.",
+        "出席は活動だ。",
+        "出席是活动。"
+      ]
+    }
+  ],
+  "problems": []
+}

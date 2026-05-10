@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "ancient",
+      "filename": "ancient.md",
+      "lines": [
+        "An ancient tree is a plant.",
+        "Ein alter Baum ist eine Pflanze.",
+        "古い木は植物だ。",
+        "古老的树是植物。"
+      ]
+    },
+    {
+      "word": "anger",
+      "filename": "anger.md",
+      "lines": [
+        "Anger is an emotion.",
+        "Wut ist eine Emotion.",
+        "怒りは感情だ。",
+        "愤怒是一种情绪。"
+      ]
+    },
+    {
+      "word": "angle",
+      "filename": "angle.md",
+      "lines": [
+        "An angle is a geometric figure.",
+        "Ein Winkel ist eine geometrische Figur.",
+        "角度は幾何学的な図形だ。",
+        "角是一种几何图形。"
+      ]
+    },
+    {
+      "word": "angry",
+      "filename": "angry.md",
+      "lines": [
+        "An angry dog is an animal.",
+        "Ein wütender Hund ist ein Tier.",
+        "怒っている犬は動物だ。",
+        "生气的狗是动物。"
+      ]
+    },
+    {
+      "word": "ankle",
+      "filename": "ankle.md",
+      "lines": [
+        "An ankle is a body part.",
+        "Ein Knöchel ist ein Körperteil.",
+        "足首は体の一部だ。",
+        "脚踝是身体的一部分。"
+      ]
+    },
+    {
+      "word": "anne",
+      "filename": "anne.md",
+      "lines": [
+        "Anne is a name.",
+        "Anne ist ein Name.",
+        "アンは名前だ。",
+        "安妮是一个名字。"
+      ]
+    },
+    {
+      "word": "annihilating",
+      "filename": "annihilating.md",
+      "lines": [
+        "Annihilating is destruction.",
+        "Vernichten ist Zerstörung.",
+        "全滅させることは破壊だ。",
+        "消灭是破坏。"
+      ]
+    },
+    {
+      "word": "announcement",
+      "filename": "announcement.md",
+      "lines": [
+        "An announcement is a message.",
+        "Eine Ankündigung ist eine Nachricht.",
+        "発表はメッセージだ。",
+        "公告是一条消息。"
+      ]
+    },
+    {
+      "word": "announcing",
+      "filename": "announcing.md",
+      "lines": [
+        "Announcing is communication.",
+        "Ankündigen ist Kommunikation.",
+        "発表することはコミュニケーションだ。",
+        "宣布是沟通。"
+      ]
+    },
+    {
+      "word": "annoyed",
+      "filename": "annoyed.md",
+      "lines": [
+        "An annoyed person is a human.",
+        "Ein genervter Mensch ist ein Mensch.",
+        "イライラしている人は人間だ。",
+        "烦恼的人是人。"
+      ]
+    }
+  ],
+  "problems": []
+}

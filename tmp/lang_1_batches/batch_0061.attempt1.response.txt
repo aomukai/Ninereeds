@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "captain",
+      "filename": "captain.md",
+      "lines": [
+        "A captain is a leader.",
+        "Ein Kapitän ist ein Anführer.",
+        "船長はリーダーだ。",
+        "船长是领导者。"
+      ]
+    },
+    {
+      "word": "capture",
+      "filename": "capture.md",
+      "lines": [
+        "Capturing is an action.",
+        "Einfangen ist eine Handlung.",
+        "捕まえることは行動だ。",
+        "捕捉是一种行动。"
+      ]
+    },
+    {
+      "word": "car",
+      "filename": "car.md",
+      "lines": [
+        "A car is a vehicle.",
+        "Ein Auto ist ein Fahrzeug.",
+        "車は乗り物だ。",
+        "汽车是交通工具。"
+      ]
+    },
+    {
+      "word": "carbon",
+      "filename": "carbon.md",
+      "lines": [
+        "Carbon is an element.",
+        "Kohlenstoff ist ein Element.",
+        "炭素は元素だ。",
+        "碳是一种元素。"
+      ]
+    },
+    {
+      "word": "card",
+      "filename": "card.md",
+      "lines": [
+        "A card is a piece of cardboard.",
+        "Eine Karte ist ein Stück Pappe.",
+        "カードは一枚の段ボールだ。",
+        "卡片是一块纸板。"
+      ]
+    },
+    {
+      "word": "cardboard",
+      "filename": "cardboard.md",
+      "lines": [
+        "Cardboard is a material.",
+        "Pappe ist ein Material.",
+        "段ボールは素材だ。",
+        "纸板是一种材料。"
+      ]
+    },
+    {
+      "word": "care",
+      "filename": "care.md",
+      "lines": [
+        "Care is attention.",
+        "Fürsorge ist Aufmerksamkeit.",
+        "ケアは注意だ。",
+        "关怀是关注。"
+      ]
+    },
+    {
+      "word": "careful",
+      "filename": "careful.md",
+      "lines": [
+        "A careful person is a person.",
+        "Ein vorsichtiger Mensch ist ein Mensch.",
+        "注意深い人は人だ。",
+        "细心的人是人。"
+      ]
+    },
+    {
+      "word": "caregiver",
+      "filename": "caregiver.md",
+      "lines": [
+        "A caregiver is a person.",
+        "Ein Pfleger ist ein Mensch.",
+        "介護者は人だ。",
+        "看护者是人。"
+      ]
+    },
+    {
+      "word": "careless",
+      "filename": "careless.md",
+      "lines": [
+        "A careless person is a person.",
+        "Ein unvorsichtiger Mensch ist ein Mensch.",
+        "不注意な人は人だ。",
+        "粗心的人是人。"
+      ]
+    }
+  ],
+  "problems": []
+}

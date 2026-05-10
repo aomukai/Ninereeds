@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "attendant",
+      "filename": "attendant.md",
+      "lines": [
+        "An attendant is a person.",
+        "Ein Begleiter ist eine Person.",
+        "付き添いは人だ。",
+        "服务员是人。"
+      ]
+    },
+    {
+      "word": "attention",
+      "filename": "attention.md",
+      "lines": [
+        "Attention is a mental process.",
+        "Aufmerksamkeit ist ein mentaler Prozess.",
+        "注意は精神プロセスだ。",
+        "注意力是一种心理过程。"
+      ]
+    },
+    {
+      "word": "attentioning",
+      "filename": "attentioning.md",
+      "lines": [
+        "Attentioning is a mental action.",
+        "Aufmerksamkeit schenken ist eine mentale Handlung.",
+        "注意を払うことは精神的な行動だ。",
+        "注意是一种心理行为。"
+      ]
+    },
+    {
+      "word": "attesting",
+      "filename": "attesting.md",
+      "lines": [
+        "Attesting is a verification.",
+        "Bezeugen ist eine Bestätigung.",
+        "証言することは確認だ。",
+        "作证是一种确认。"
+      ]
+    },
+    {
+      "word": "attic",
+      "filename": "attic.md",
+      "lines": [
+        "An attic is a room.",
+        "Ein Dachboden ist ein Raum.",
+        "屋根裏部屋は部屋だ。",
+        "阁楼是一个房间。"
+      ]
+    },
+    {
+      "word": "attracting",
+      "filename": "attracting.md",
+      "lines": [
+        "Attracting is a force.",
+        "Anziehen ist eine Kraft.",
+        "引き付けることは力だ。",
+        "吸引是一种力。"
+      ]
+    },
+    {
+      "word": "attribute",
+      "filename": "attribute.md",
+      "lines": [
+        "An attribute is a characteristic.",
+        "Ein Attribut ist eine Eigenschaft.",
+        "属性は特性だ。",
+        "属性是一种特征。"
+      ]
+    },
+    {
+      "word": "atypical",
+      "filename": "atypical.md",
+      "lines": [
+        "An atypical flower is a plant.",
+        "Eine untypische Blume ist eine Pflanze.",
+        "非典型的な花は植物だ。",
+        "非典型的花是植物。"
+      ]
+    },
+    {
+      "word": "audience",
+      "filename": "audience.md",
+      "lines": [
+        "An audience is a group.",
+        "Ein Publikum ist eine Gruppe.",
+        "観客は集団だ。",
+        "观众是一个群体。"
+      ]
+    },
+    {
+      "word": "auditorium",
+      "filename": "auditorium.md",
+      "lines": [
+        "An auditorium is a room.",
+        "Ein Auditorium ist ein Raum.",
+        "講堂は部屋だ。",
+        "礼堂是一个房间。"
+      ]
+    }
+  ],
+  "problems": []
+}

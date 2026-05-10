@@ -1,0 +1,4 @@
+An age is a period.
+Ein Alter ist eine Periode.
+年齢は期間だ。
+年龄是时期。

@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778429759-jcAFMCY9WCiP6IFTt4yg",
+  "object": "chat.completion",
+  "created": 1778429759,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"conductor\",\n      \"filename\": \"conductor.md\",\n      \"lines\": [\n        \"A conductor is a person.\",\n        \"Ein Dirigent ist eine Person.\",\n        \"指揮者は人だ。\",\n        \"指挥是人。\"\n      ]\n    },\n    {\n      \"word\": \"cone\",\n      \"filename\": \"cone.md\",\n      \"lines\": [\n        \"A cone is a shape.\",\n        \"Ein Kegel ist eine Form.\",\n        \"円錐は形だ。\",\n        \"圆锥是形状。\"\n      ]\n    },\n    {\n      \"word\": \"confidence\",\n      \"filename\": \"confidence.md\",\n      \"lines\": [\n        \"Confidence is a feeling.\",\n        \"Selbstvertrauen ist ein Gefühl.\",\n        \"自信は感情だ。\",\n        \"自信是情感。\"\n      ]\n    },\n    {\n      \"word\": \"confident\",\n      \"filename\": \"confident.md\",\n      \"lines\": [\n        \"A confident person is a person.\",\n        \"Ein selbstbewusster Mensch ist ein Mensch.\",\n        \"自信のある人は人だ。\",\n        \"自信的人是人。\"\n      ]\n    },\n    {\n      \"word\": \"confining\",\n      \"filename\": \"confining.md\",\n      \"lines\": [\n        \"Confining is restriction.\",\n        \"Einschränken ist Beschränkung.\",\n        \"制限することは制約だ。\",\n        \"限制是约束。\"\n      ]\n    },\n    {\n      \"word\": \"confirmation\",\n      \"filename\": \"confirmation.md\",\n      \"lines\": [\n        \"Confirmation is a statement.\",\n        \"Eine Bestätigung ist eine Aussage.\",\n        \"確認は声明だ。\",\n        \"确认是声明。\"\n      ]\n    },\n    {\n      \"word\": \"confirming\",\n      \"filename\": \"confirming.md\",\n      \"lines\": [\n        \"Confirming is verification.\",\n        \"Bestätigen ist Verifizierung.\",\n        \"確認することは検証だ。\",\n        \"确认是验证。\"\n      ]\n    },\n    {\n      \"word\": \"confiscating\",\n      \"filename\": \"confiscating.md\",\n      \"lines\": [\n        \"Confiscating is taking.\",\n        \"Beschlagnahmen ist Nehmen.\",\n        \"没収することは奪うことだ。\",\n        \"没收是夺取。\"\n      ]\n    },\n    {\n      \"word\": \"conflating\",\n      \"filename\": \"conflating.md\",\n      \"lines\": [\n        \"Conflating is merging.\",\n        \"Vermischen ist Zusammenführen.\",\n        \"混同することは融合だ。\",\n        \"混同是合并。\"\n      ]\n    },\n    {\n      \"word\": \"conflict\",\n      \"filename\": \"conflict.md\",\n      \"lines\": [\n        \"A conflict is a disagreement.\",\n        \"Ein Konflikt ist eine Meinungsverschiedenheit.\",\n        \"紛争は意見の相違だ。\",\n        \"冲突是分歧。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 655,
+    "total_tokens": 1379,
+    "cost": 0.0002819124,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028476,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.0001834
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

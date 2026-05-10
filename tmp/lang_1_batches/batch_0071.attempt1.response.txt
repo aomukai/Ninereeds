@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "chew",
+      "filename": "chew.md",
+      "lines": [
+        "Chewing is an action.",
+        "Kauen ist eine Handlung.",
+        "噛むことは動作だ。",
+        "咀嚼是一种动作。"
+      ]
+    },
+    {
+      "word": "chewing",
+      "filename": "chewing.md",
+      "lines": [
+        "Chewing is a process.",
+        "Das Kauen ist ein Vorgang.",
+        "噛むことは過程だ。",
+        "咀嚼是一个过程。"
+      ]
+    },
+    {
+      "word": "chick",
+      "filename": "chick.md",
+      "lines": [
+        "A chick is a young bird.",
+        "Ein Küken ist ein junger Vogel.",
+        "ひよこは若い鳥だ。",
+        "小鸡是幼鸟。"
+      ]
+    },
+    {
+      "word": "chicken",
+      "filename": "chicken.md",
+      "lines": [
+        "A chicken is a bird.",
+        "Ein Huhn ist ein Vogel.",
+        "鶏は鳥だ。",
+        "鸡是鸟。"
+      ]
+    },
+    {
+      "word": "child",
+      "filename": "child.md",
+      "lines": [
+        "A child is a person.",
+        "Ein Kind ist ein Mensch.",
+        "子供は人間だ。",
+        "孩子是人。"
+      ]
+    },
+    {
+      "word": "childcaregiver",
+      "filename": "childcaregiver.md",
+      "lines": [
+        "A childcaregiver is a person.",
+        "Ein Kinderbetreuer ist eine Person.",
+        "保育士は人だ。",
+        "保育员是人。"
+      ]
+    },
+    {
+      "word": "childhood",
+      "filename": "childhood.md",
+      "lines": [
+        "Childhood is a stage.",
+        "Die Kindheit ist eine Lebensphase.",
+        "子供時代は段階だ。",
+        "童年是一个阶段。"
+      ]
+    },
+    {
+      "word": "children",
+      "filename": "children.md",
+      "lines": [
+        "Children are people.",
+        "Kinder sind Menschen.",
+        "子供たちは人間だ。",
+        "孩子们是人。"
+      ]
+    },
+    {
+      "word": "child's",
+      "filename": "child's.md",
+      "lines": [
+        "A child's toy is a plaything.",
+        "Ein Kinderspielzeug ist ein Spielzeug.",
+        "子供のおもちゃは遊び道具だ。",
+        "孩子的玩具是玩具。"
+      ]
+    },
+    {
+      "word": "chilly",
+      "filename": "chilly.md",
+      "lines": [
+        "A chilly drink is a drink.",
+        "Ein kühles Getränk ist ein Getränk.",
+        "冷えた飲み物は飲み物だ。",
+        "冰凉的饮料是饮料。"
+      ]
+    }
+  ],
+  "problems": []
+}

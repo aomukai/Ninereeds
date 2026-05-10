@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778422044-NsQd2UbIFnGJxwSRaRLX",
+  "object": "chat.completion",
+  "created": 1778422044,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"avoid\",\n      \"filename\": \"avoid.md\",\n      \"lines\": [\n        \"Avoiding is a way to stay safe.\",\n        \"Vermeiden ist eine Möglichkeit, sicher zu bleiben.\",\n        \"避けることは安全を保つ方法だ。\",\n        \"避免是一种保持安全的方式。\"\n      ]\n    },\n    {\n      \"word\": \"avoidance\",\n      \"filename\": \"avoidance.md\",\n      \"lines\": [\n        \"Avoidance is a behavior.\",\n        \"Vermeidung ist ein Verhalten.\",\n        \"回避は行動の一種だ。\",\n        \"回避是一种行为。\"\n      ]\n    },\n    {\n      \"word\": \"avoiding\",\n      \"filename\": \"avoiding.md\",\n      \"lines\": [\n        \"Avoiding is a strategy.\",\n        \"Vermeiden ist eine Strategie.\",\n        \"避けることは戦略だ。\",\n        \"避免是一种策略。\"\n      ]\n    },\n    {\n      \"word\": \"awake\",\n      \"filename\": \"awake.md\",\n      \"lines\": [\n        \"An awake cat is alert.\",\n        \"Eine wache Katze ist aufmerksam.\",\n        \"起きている猫は警戒している。\",\n        \"醒着的猫很警觉。\"\n      ]\n    },\n    {\n      \"word\": \"aware\",\n      \"filename\": \"aware.md\",\n      \"lines\": [\n        \"An aware person is careful.\",\n        \"Ein bewusster Mensch ist vorsichtig.\",\n        \"気づいている人は注意深い。\",\n        \"有意识的人很小心。\"\n      ]\n    },\n    {\n      \"word\": \"awareness\",\n      \"filename\": \"awareness.md\",\n      \"lines\": [\n        \"Awareness is a mental state.\",\n        \"Bewusstsein ist ein geistiger Zustand.\",\n        \"気づきは精神状態だ。\",\n        \"意识是一种心理状态。\"\n      ]\n    },\n    {\n      \"word\": \"awful\",\n      \"filename\": \"awful.md\",\n      \"lines\": [\n        \"An awful smell is unpleasant.\",\n        \"Ein schrecklicher Geruch ist unangenehm.\",\n        \"ひどい匂いは不快だ。\",\n        \"难闻的气味令人不快。\"\n      ]\n    },\n    {\n      \"word\": \"awkward\",\n      \"filename\": \"awkward.md\",\n      \"lines\": [\n        \"An awkward silence is uncomfortable.\",\n        \"Eine peinliche Stille ist unangenehm.\",\n        \"気まずい沈黙は不快だ。\",\n        \"尴尬的沉默令人不舒服。\"\n      ]\n    },\n    {\n      \"word\": \"axe\",\n      \"filename\": \"axe.md\",\n      \"lines\": [\n        \"An axe is a tool.\",\n        \"Eine Axt ist ein Werkzeug.\",\n        \"斧は道具だ。\",\n        \"斧头是一种工具。\"\n      ]\n    },\n    {\n      \"word\": \"axle\",\n      \"filename\": \"axle.md\",\n      \"lines\": [\n        \"An axle is a machine part.\",\n        \"Eine Achse ist ein Maschinenteil.\",\n        \"車軸は機械部品だ。\",\n        \"车轴是一种机械部件。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 721,
+    "completion_tokens": 691,
+    "total_tokens": 1412,
+    "cost": 0.0002914758,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00029442,
+      "upstream_inference_prompt_cost": 0.00010094,
+      "upstream_inference_completions_cost": 0.00019348
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -23,3 +23,9 @@
 
 [user]what is the back of a hand?
 [Ninereeds]The back of a hand is the outer side opposite the palm. The back of a hand shows the knuckles and the nails. Skin on the back of a hand is often thinner than skin on the palm. People may feel rain, wind, or warmth on the back of a hand. The back of a hand is not the palm.
+
+[user]what is a component?
+[Ninereeds]A component is a part that works with other parts in a machine. A wheel is one part of a bike. Each component has a job that helps the whole thing work. component is not the whole thing.
+
+[user]what does it mean to connect?
+[Ninereeds]To connect means to bring two things together so that information or energy can move between the two things. A computer links to the internet through wires or wireless signals. A road joins one town to another town. Connect is not the same as separate.

@@ -53,3 +53,48 @@
 
 [user]what does narrower mean?
 [Ninereeds]Narrower means having less space from one side to the other. A narrower hallway has less room to walk through. People use narrower when comparing two things side by side. Narrower is the opposite of wider.
+
+[user]what is a centimeter?
+[Ninereeds]A centimeter is a unit for measuring small lengths. a ruler has marks for each one. a small paper clip is about one centimeter wide. a finger is about that width. a hundred of the units make one meter. centimeter is not for measuring long distances.
+
+[user]what does compact mean?
+[Ninereeds]A compact object takes up little space. A compact camera fits inside a small bag. A car that uses less room on a road is easier to move. Small things fit in pockets and cases. compact is not large.
+
+[user]what is contrast?
+[Ninereeds]Contrast happens when two things look different from each other. Putting a white flower next to a red flower shows a difference in color. Putting a big object beside a small object shows a difference in size. Looking at contrast helps a person see each object more clearly. Contrast is not sameness.
+
+[user]what does dense mean?
+[Ninereeds]Dense means thick and packed together. A dense forest has many trees close together. A cake with this quality feels heavy for a small piece. This material holds many particles in a small space. Dense is not thin.
+
+[user]what is an estimate?
+[Ninereeds]An estimate is a close guess about a number or amount. A person can make a guess without an exact count. For example, a cook can guess the number of cups of flour for a recipe without measuring each cup. A walk across a town can help a person guess the time the walk takes. A close guess gives a person a quick idea about a value. estimate is not an exact answer.
+
+[user]what does it mean to expand?
+[Ninereeds]Expand means to become bigger or to take up more space. Air inside a balloon makes the balloon bigger. Dough in an oven rises and the bread takes up more space. Workers make a road wider so the road takes up more space. Expand is not shrink.
+
+[user]what is an extension?
+[Ninereeds]An extension is a part added to an object to make the object longer or larger. A cord that helps a plug reach a far outlet is an extension cord. A table leaf that makes a table bigger for more people is an extension. extension is not shrinking.
+
+[user]what is a gram?
+[Ninereeds]A gram is a unit for weight. People use the unit to measure how heavy things are. One small coin can weigh about one gram. A single loaf of bread can weigh many times that amount. One thousand of the same units make one kilogram. Gram is not a measure of time.
+
+[user]what is a handful?
+[Ninereeds]A handful is the amount of something that fits in a hand. A person can pick up a small number of pebbles from the ground. A handful of beans is a small amount. handful is not a large amount.
+
+[user]what is a kilogram?
+[Ninereeds]A kilogram is a unit that measures how much mass a thing has. One kilogram equals one thousand grams. People use a scale to find the weight of an object. A bag of flour or sugar can weigh one kilogram. This unit helps people find the amount of a thing. Kilogram is not a measure of length.
+
+[user]what is a liter?
+[Ninereeds]A liter is a unit for measuring volume. One liter is about the same amount as a large bottle of water. A bottle of soda often holds two of that amount. A small carton of milk holds one full amount. This measure is part of the metric system. Liter is not a weight.
+
+[user]what does narrow mean?
+[Ninereeds]Narrow means a small distance from one side to the other side. a narrow path has only a small amount of space for a person to walk through. a thing with a small width has less room between edges. narrow is not wide.
+
+[user]what is an overflow?
+[Ninereeds]Overflow happens when something flows past the edge of a container. A person pours water into a cup until the cup is full and water spills onto the ground. A river can also flood when too much water goes past the river banks. The flooding spreads onto nearby land. Overflow is not dry.
+
+[user]what is plenty?
+[Ninereeds]Plenty means having enough of something. A family with enough food has many meals to eat. A garden with enough water grows strong vegetables. This word describes more than the amount a person needs. Plenty is not scarce.
+
+[user]what is a spoonful?
+[Ninereeds]A spoonful is the amount of food or liquid that fits inside a spoon. One spoonful of soup fills a small bowl. A person uses sugar to make tea taste sweet. A cook measures grain with a spoon. Spoonful is not a cup.

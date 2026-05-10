@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "crampy",
+      "filename": "crampy.md",
+      "lines": [
+        "A crampy muscle is a muscle.",
+        "Ein verkrampfter Muskel ist ein Muskel.",
+        "痙攣した筋肉は筋肉だ。",
+        "抽筋的肌肉是肌肉。"
+      ]
+    },
+    {
+      "word": "crane",
+      "filename": "crane.md",
+      "lines": [
+        "A crane is a bird.",
+        "Ein Kranich ist ein Vogel.",
+        "鶴は鳥だ。",
+        "鹤是鸟。"
+      ]
+    },
+    {
+      "word": "crash",
+      "filename": "crash.md",
+      "lines": [
+        "Crashing is impact.",
+        "Krachen ist ein Aufprall.",
+        "クラッシュすることは衝撃だ。",
+        "碰撞是冲击。"
+      ]
+    },
+    {
+      "word": "crawl",
+      "filename": "crawl.md",
+      "lines": [
+        "Crawling is movement.",
+        "Kriechen ist eine Bewegung.",
+        "這うことは移動だ。",
+        "爬行是移动。"
+      ]
+    },
+    {
+      "word": "crayon",
+      "filename": "crayon.md",
+      "lines": [
+        "A crayon is a drawing tool.",
+        "Ein Buntstift ist ein Zeichenwerkzeug.",
+        "クレヨンは描画道具だ。",
+        "蜡笔是绘画工具。"
+      ]
+    },
+    {
+      "word": "creak",
+      "filename": "creak.md",
+      "lines": [
+        "Creaking is a sound.",
+        "Knarren ist ein Geräusch.",
+        "きしむことは音だ。",
+        "吱吱声是声音。"
+      ]
+    },
+    {
+      "word": "cream",
+      "filename": "cream.md",
+      "lines": [
+        "Cream is a dairy product.",
+        "Sahne ist ein Milchprodukt.",
+        "クリームは乳製品だ。",
+        "奶油是乳制品。"
+      ]
+    },
+    {
+      "word": "cream-colored",
+      "filename": "cream-colored.md",
+      "lines": [
+        "A cream-colored shirt is a shirt.",
+        "Ein cremefarbenes Hemd ist ein Hemd.",
+        "クリーム色のシャツはシャツだ。",
+        "奶油色的衬衫是衬衫。"
+      ]
+    },
+    {
+      "word": "creamy",
+      "filename": "creamy.md",
+      "lines": [
+        "A creamy sauce is a sauce.",
+        "Eine cremige Soße ist eine Soße.",
+        "クリーミーなソースはソースだ。",
+        "奶油状的酱汁是酱汁。"
+      ]
+    },
+    {
+      "word": "crease",
+      "filename": "crease.md",
+      "lines": [
+        "A crease is a fold.",
+        "Ein Knick ist eine Falte.",
+        "折り目は折り線だ。",
+        "折痕是折线。"
+      ]
+    }
+  ],
+  "problems": []
+}

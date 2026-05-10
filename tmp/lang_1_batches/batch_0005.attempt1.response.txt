@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "ache",
+      "filename": "ache.md",
+      "lines": [
+        "An ache is a sensation.",
+        "Ein Schmerz ist eine Empfindung.",
+        "痛みは感覚だ。",
+        "疼痛是一种感觉。"
+      ]
+    },
+    {
+      "word": "achieved",
+      "filename": "achieved.md",
+      "lines": [
+        "An achieved goal is a success.",
+        "Ein erreichtes Ziel ist ein Erfolg.",
+        "達成された目標は成功だ。",
+        "实现了的目标是成功。"
+      ]
+    },
+    {
+      "word": "achievement",
+      "filename": "achievement.md",
+      "lines": [
+        "An achievement is a success.",
+        "Eine Errungenschaft ist ein Erfolg.",
+        "達成は成功だ。",
+        "成就是成功。"
+      ]
+    },
+    {
+      "word": "achieving",
+      "filename": "achieving.md",
+      "lines": [
+        "Achieving is progress.",
+        "Erreichen ist Fortschritt.",
+        "達成することは進歩だ。",
+        "达成是进步。"
+      ]
+    },
+    {
+      "word": "acoustic",
+      "filename": "acoustic.md",
+      "lines": [
+        "An acoustic guitar is an instrument.",
+        "Eine akustische Gitarre ist ein Instrument.",
+        "アコースティックギターは楽器だ。",
+        "原声吉他是一种乐器。"
+      ]
+    },
+    {
+      "word": "acquiring",
+      "filename": "acquiring.md",
+      "lines": [
+        "Acquiring is obtaining.",
+        "Erwerben ist Erlangen.",
+        "取得は入手だ。",
+        "获取是获得。"
+      ]
+    },
+    {
+      "word": "act",
+      "filename": "act.md",
+      "lines": [
+        "An act is a deed.",
+        "Eine Handlung ist eine Tat.",
+        "行為は行動だ。",
+        "行为是行动。"
+      ]
+    },
+    {
+      "word": "acting",
+      "filename": "acting.md",
+      "lines": [
+        "Acting is performing.",
+        "Schauspielern ist Darstellen.",
+        "演技は表現だ。",
+        "表演是表现。"
+      ]
+    },
+    {
+      "word": "action",
+      "filename": "action.md",
+      "lines": [
+        "An action is an activity.",
+        "Eine Handlung ist eine Aktivität.",
+        "行動は活動だ。",
+        "行动是活动。"
+      ]
+    },
+    {
+      "word": "activating",
+      "filename": "activating.md",
+      "lines": [
+        "Activating is starting.",
+        "Aktivieren ist Starten.",
+        "起動は開始だ。",
+        "激活是启动。"
+      ]
+    }
+  ],
+  "problems": []
+}

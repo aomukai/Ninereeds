@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "categorize",
+      "filename": "categorize.md",
+      "lines": [
+        "Categorizing is sorting.",
+        "Kategorisieren ist Sortieren.",
+        "分類することは仕分けだ。",
+        "分类是排序。"
+      ]
+    },
+    {
+      "word": "categorizing",
+      "filename": "categorizing.md",
+      "lines": [
+        "Categorizing is grouping.",
+        "Kategorisieren ist Gruppieren.",
+        "分類することはグループ化だ。",
+        "分类是分组。"
+      ]
+    },
+    {
+      "word": "category",
+      "filename": "category.md",
+      "lines": [
+        "A category is a class.",
+        "Eine Kategorie ist eine Klasse.",
+        "カテゴリーは種類だ。",
+        "类别是种类。"
+      ]
+    },
+    {
+      "word": "caterpillar",
+      "filename": "caterpillar.md",
+      "lines": [
+        "A caterpillar is an insect.",
+        "Eine Raupe ist ein Insekt.",
+        "毛虫は昆虫だ。",
+        "毛毛虫是昆虫。"
+      ]
+    },
+    {
+      "word": "caught",
+      "filename": "caught.md",
+      "lines": [
+        "A caught mouse is a rodent.",
+        "Eine gefangene Maus ist ein Nagetier.",
+        "捕まったネズミはげっ歯類だ。",
+        "被抓住的老鼠是啮齿动物。"
+      ]
+    },
+    {
+      "word": "cauliflower",
+      "filename": "cauliflower.md",
+      "lines": [
+        "A cauliflower is a vegetable.",
+        "Ein Blumenkohl ist ein Gemüse.",
+        "カリフラワーは野菜だ。",
+        "花椰菜是蔬菜。"
+      ]
+    },
+    {
+      "word": "causal",
+      "filename": "causal.md",
+      "lines": [
+        "A causal effect is an outcome.",
+        "Ein kausaler Effekt ist ein Ergebnis.",
+        "因果効果は結果だ。",
+        "因果效应是结果。"
+      ]
+    },
+    {
+      "word": "causal_3",
+      "filename": "causal_3.md",
+      "lines": [
+        "A causal_3 is a concept.",
+        "Ein causal_3 ist ein Konzept.",
+        "causal_3は概念だ。",
+        "causal_3是一个概念。"
+      ]
+    },
+    {
+      "word": "cause",
+      "filename": "cause.md",
+      "lines": [
+        "A cause is a reason.",
+        "Eine Ursache ist ein Grund.",
+        "原因は理由だ。",
+        "原因是理由。"
+      ]
+    },
+    {
+      "word": "caution",
+      "filename": "caution.md",
+      "lines": [
+        "Caution is a state.",
+        "Vorsicht ist ein Zustand.",
+        "注意は状態だ。",
+        "小心是一种状态。"
+      ]
+    }
+  ],
+  "problems": []
+}

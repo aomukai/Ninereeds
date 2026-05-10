@@ -23,3 +23,12 @@
 
 [user]what does you may not mean?
 [Ninereeds]You may not means the other person does not have permission. A child may say you may not touch that, you may not come closer, or you may not take this. The phrase sets a clear rule or limit. It tells another person to stop or stay back. You may not is not the same as you may.
+
+[user]what does allowed mean?
+[Ninereeds]Allowed means a person can do a thing. For example, a child plays after finishing homework. A dog sleeps on a floor at home. Allowed is permission from a rule or a person. Allowed is not forbidden.
+
+[user]what does it mean to let?
+[Ninereeds]To let means to allow things to happen without stopping things. A parent allows a child to play outside. A teacher allows a student to come into the room. The act gives way for things to pass through. Let is not force.
+
+[user]what is permission?
+[Ninereeds]Permission is when a child asks an adult and the adult says yes. A child asks to do something, such as going outside or playing with toys. The adult decides and gives a yes or a no answer. When the adult says yes, the child can do the activity. When the adult says no, the child cannot do the activity. Permission is not a right.

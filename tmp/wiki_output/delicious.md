@@ -1,0 +1,2 @@
+[user]what does delicious mean?
+[Ninereeds]Delicious is a word that describes food with a good taste. Sweet foods like cake or fruit can be tasty. Fresh bread from the oven has a yummy flavor. Sugar makes foods taste sweeter. People enjoy eating good food. delicious is not plain.

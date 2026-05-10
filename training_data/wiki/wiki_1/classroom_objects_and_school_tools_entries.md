@@ -26,3 +26,9 @@
 
 [user]what is a sharpener?
 [Ninereeds]A sharpener is a tool used to make a pencil point again. A child puts the pencil into the sharpener and turns or presses it. Sharpening helps a pencil write more neatly. Some sharpeners hold the wood and pencil dust inside. A sharpener is not an eraser.
+
+[user]what is an inspection?
+[Ninereeds]Inspection is a careful look at something to find problems. A worker at a toy store checks each toy before selling the toy. A doctor looks at a body to see if the body is well. A builder inspects every part of a new house before people move in. inspection is not guessing.
+
+[user]what is an instruction?
+[Ninereeds]An instruction is a clear set of steps for a task. These steps tell someone exactly what to do. A recipe is a set of steps for a meal. A teacher gives steps for schoolwork. Instruction is not a guess.

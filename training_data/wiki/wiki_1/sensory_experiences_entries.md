@@ -44,3 +44,15 @@
 
 [user]what is a melody?
 [Ninereeds]A melody is a line of musical sounds that go together. A song often has a melody people can remember and sing. A melody is part of music, not just one sound alone. A melody is not noise.
+
+[user]what is a glimpse?
+[Ninereeds]A glimpse is a quick look at something. A person can catch a flash of a bird flying across the sky. A child can see a quick view of a dog running down the street. The look lasts only a short moment. glimpse is not a long stare.
+
+[user]what is a sensation?
+[Ninereeds]A sensation is a special feeling in a body. A sensation tells the brain about the world. When a person touches fire, the body feels heat. When a person touches ice, the body feels cold. Nerves carry signals from the body to the brain. Sensation is not a thought.
+
+[user]what is a thud?
+[Ninereeds]A thud is a dull, heavy sound. The sound happens when a heavy object falls to the ground or hits a floor. A book dropped on a table makes a soft thud. A ball hitting a door makes a louder sound. thud is not a song.
+
+[user]what is warmth?
+[Ninereeds]Warmth is a kind of energy. warmth comes from the sun or from a fire. warm air spreads through a room and makes skin feel good. a hot drink in a mug can warm cold hands. warmth is not a thing that can be seen.

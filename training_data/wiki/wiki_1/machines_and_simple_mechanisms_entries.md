@@ -38,3 +38,9 @@
 
 [user]what is a handle?
 [Ninereeds]A handle is a part of a tool or object that people hold to use it or carry it. A bucket, a pot, a broom, and a door all have handles. A handle helps people grip and control a tool safely. A handle is not the same as a wheel.
+
+[user]what does jammed mean?
+[Ninereeds]When something is jammed, that thing cannot move the usual way. A piece of paper can get jammed inside a machine. A drawer can get stuck and will not slide open. A jammed part needs help to move again. jammed is not loose.
+
+[user]what is a machinery?
+[Ninereeds]Machinery is a group of machine parts that work together. Such a machine uses moving parts to do tasks. A tractor is one kind of machine that helps farmers plant and harvest crops. A factory uses machines to make goods like cars and clothes. Machinery is not a living thing.

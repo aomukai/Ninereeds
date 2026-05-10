@@ -95,3 +95,18 @@
 
 [user]what is a season?
 [Ninereeds]A season is one part of the year. The four seasons are spring, summer, autumn, and winter. Each season brings different weather and changes in plants and animals. A season is not the same as a month.
+
+[user]what is a century?
+[Ninereeds]A century is a period of one hundred years. One hundred years is a very long time for people. A person who lives one hundred years is very old. A building that stands for one hundred years is very old too. The past one hundred years have brought many changes to the world. Century is not a short moment.
+
+[user]what is a date?
+[Ninereeds]A date is a small sweet fruit. The fruit grows on a palm tree. The fruit has a brown skin and a hard seed inside. People eat the fruit as a chewy snack. Date is not a vegetable.
+
+[user]what is a dawn?
+[Ninereeds]Dawn is the time of day when the sky begins to grow light. The sun is still below the horizon, but the first glow appears in the east. The sky changes color and turns orange, pink, and gold. Birds wake and begin to call. Roosters crow to start the morning. Dawn is not nighttime.
+
+[user]what is nighttime?
+[Ninereeds]Nighttime is the part of the day when the sun goes down and the sky grows dark. The moon and stars glow in the dark sky. Many animals sleep at night. Some animals like owls come out to look for food. People rest and sleep at night too. Nighttime is not daytime.
+
+[user]what is a period?
+[Ninereeds]A period is a small round dot that writers put at the end of a sentence. The dot shows readers that a sentence is finished. For example, a bird sat in a tree. A period tells the reader to stop. A period is not a comma.

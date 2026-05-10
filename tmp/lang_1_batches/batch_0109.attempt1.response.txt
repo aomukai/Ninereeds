@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cuff",
+      "filename": "cuff.md",
+      "lines": [
+        "A cuff is a part of a sleeve.",
+        "Eine Manschette ist ein Teil eines Ärmels.",
+        "カフは袖の一部だ。",
+        "袖口是袖子的一部分。"
+      ]
+    },
+    {
+      "word": "culling",
+      "filename": "culling.md",
+      "lines": [
+        "Culling is removal.",
+        "Aussortieren ist Entfernung.",
+        "選別することは除去だ。",
+        "筛选是去除。"
+      ]
+    },
+    {
+      "word": "cultivating",
+      "filename": "cultivating.md",
+      "lines": [
+        "Cultivating is growing.",
+        "Kultivieren ist Anbau.",
+        "栽培することは農業だ。",
+        "种植是农业。"
+      ]
+    },
+    {
+      "word": "culture",
+      "filename": "culture.md",
+      "lines": [
+        "A culture is a way of life.",
+        "Eine Kultur ist eine Lebensweise.",
+        "文化は生活様式だ。",
+        "文化是生活方式。"
+      ]
+    },
+    {
+      "word": "cup",
+      "filename": "cup.md",
+      "lines": [
+        "A cup is a container.",
+        "Eine Tasse ist ein Behälter.",
+        "カップは容器だ。",
+        "杯子是容器。"
+      ]
+    },
+    {
+      "word": "cupboard",
+      "filename": "cupboard.md",
+      "lines": [
+        "A cupboard is a piece of furniture.",
+        "Ein Schrank ist ein Möbelstück.",
+        "食器棚は家具だ。",
+        "橱柜是家具。"
+      ]
+    },
+    {
+      "word": "cupcake",
+      "filename": "cupcake.md",
+      "lines": [
+        "A cupcake is a dessert.",
+        "Ein Cupcake ist ein Dessert.",
+        "カップケーキはデザートだ。",
+        "纸杯蛋糕是甜点。"
+      ]
+    },
+    {
+      "word": "cup of water",
+      "filename": "cup_of_water.md",
+      "lines": [
+        "A cup of water is a drink.",
+        "Eine Tasse Wasser ist ein Getränk.",
+        "水の入ったカップは飲み物だ。",
+        "一杯水是饮品。"
+      ]
+    },
+    {
+      "word": "curate",
+      "filename": "curate.md",
+      "lines": [
+        "Curating is management.",
+        "Kuratieren ist Verwaltung.",
+        "キュレーションすることは管理だ。",
+        "策展是管理。"
+      ]
+    },
+    {
+      "word": "curb",
+      "filename": "curb.md",
+      "lines": [
+        "Curbing is restraint.",
+        "Eindämmen ist Zurückhaltung.",
+        "抑制することは制限だ。",
+        "抑制是限制。"
+      ]
+    }
+  ],
+  "problems": []
+}

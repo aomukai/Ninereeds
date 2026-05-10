@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "artificial",
+      "filename": "artificial.md",
+      "lines": [
+        "An artificial flower is a decoration.",
+        "Eine künstliche Blume ist eine Dekoration.",
+        "人工の花は装飾だ。",
+        "人造花是装饰。"
+      ]
+    },
+    {
+      "word": "artist",
+      "filename": "artist.md",
+      "lines": [
+        "An artist is a creator.",
+        "Ein Künstler ist ein Schöpfer.",
+        "芸術家は創造者だ。",
+        "艺术家是创造者。"
+      ]
+    },
+    {
+      "word": "artwork",
+      "filename": "artwork.md",
+      "lines": [
+        "An artwork is a creation.",
+        "Ein Kunstwerk ist eine Schöpfung.",
+        "芸術作品は創造物だ。",
+        "艺术品是创造物。"
+      ]
+    },
+    {
+      "word": "ascending",
+      "filename": "ascending.md",
+      "lines": [
+        "Ascending is upward movement.",
+        "Aufsteigen ist Aufwärtsbewegung.",
+        "上昇は上への移動だ。",
+        "上升是向上的移动。"
+      ]
+    },
+    {
+      "word": "aside",
+      "filename": "aside.md",
+      "lines": [
+        "An aside is a remark.",
+        "Eine Nebenbemerkung ist eine Bemerkung.",
+        "傍白は発言だ。",
+        "旁白是评论。"
+      ]
+    },
+    {
+      "word": "ask",
+      "filename": "ask.md",
+      "lines": [
+        "An ask is a request.",
+        "Eine Anfrage ist eine Bitte.",
+        "依頼は要求だ。",
+        "请求是要求。"
+      ]
+    },
+    {
+      "word": "asking",
+      "filename": "asking.md",
+      "lines": [
+        "Asking is communication.",
+        "Fragen ist Kommunikation.",
+        "質問はコミュニケーションだ。",
+        "提问是沟通。"
+      ]
+    },
+    {
+      "word": "asleep",
+      "filename": "asleep.md",
+      "lines": [
+        "An asleep cat is an animal.",
+        "Eine schlafende Katze ist ein Tier.",
+        "眠っている猫は動物だ。",
+        "睡着的猫是动物。"
+      ]
+    },
+    {
+      "word": "aspect",
+      "filename": "aspect.md",
+      "lines": [
+        "An aspect is a feature.",
+        "Ein Aspekt ist ein Merkmal.",
+        "側面は特徴だ。",
+        "方面是特征。"
+      ]
+    },
+    {
+      "word": "assemb",
+      "filename": "assemb.md",
+      "lines": [
+        "An assemb is a gathering.",
+        "Eine Versammlung ist eine Zusammenkunft.",
+        "集まりは集団だ。",
+        "集会是群体。"
+      ]
+    }
+  ],
+  "problems": []
+}

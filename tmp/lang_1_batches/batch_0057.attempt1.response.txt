@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cabbage",
+      "filename": "cabbage.md",
+      "lines": [
+        "A cabbage is a vegetable.",
+        "Ein Kohl ist ein Gemüse.",
+        "キャベツは野菜だ。",
+        "卷心菜是蔬菜。"
+      ]
+    },
+    {
+      "word": "cabin",
+      "filename": "cabin.md",
+      "lines": [
+        "A cabin is a building.",
+        "Eine Hütte ist ein Gebäude.",
+        "小屋は建物だ。",
+        "小屋是建筑物。"
+      ]
+    },
+    {
+      "word": "cabinet",
+      "filename": "cabinet.md",
+      "lines": [
+        "A cabinet is a piece of furniture.",
+        "Ein Schrank ist ein Möbelstück.",
+        "キャビネットは家具だ。",
+        "橱柜是家具。"
+      ]
+    },
+    {
+      "word": "cade",
+      "filename": "cade.md",
+      "lines": [
+        "A cade is a barrel.",
+        "Ein Fass ist ein Behälter.",
+        "樽は容器だ。",
+        "桶是容器。"
+      ]
+    },
+    {
+      "word": "cafeteria",
+      "filename": "cafeteria.md",
+      "lines": [
+        "A cafeteria is a restaurant.",
+        "Eine Cafeteria ist ein Restaurant.",
+        "カフェテリアは食堂だ。",
+        "自助餐厅是餐厅。"
+      ]
+    },
+    {
+      "word": "cage",
+      "filename": "cage.md",
+      "lines": [
+        "A cage is a container.",
+        "Ein Käfig ist ein Behälter.",
+        "檻は容器だ。",
+        "笼子是容器。"
+      ]
+    },
+    {
+      "word": "cake",
+      "filename": "cake.md",
+      "lines": [
+        "A cake is a dessert.",
+        "Ein Kuchen ist ein Dessert.",
+        "ケーキはデザートだ。",
+        "蛋糕是甜点。"
+      ]
+    },
+    {
+      "word": "calculating",
+      "filename": "calculating.md",
+      "lines": [
+        "A calculating machine is a device.",
+        "Eine rechnende Maschine ist ein Gerät.",
+        "計算する機械は装置だ。",
+        "计算的机器是设备。"
+      ]
+    },
+    {
+      "word": "calculation",
+      "filename": "calculation.md",
+      "lines": [
+        "A calculation is a process.",
+        "Eine Berechnung ist ein Prozess.",
+        "計算は過程だ。",
+        "计算是过程。"
+      ]
+    },
+    {
+      "word": "calculator",
+      "filename": "calculator.md",
+      "lines": [
+        "A calculator is a tool.",
+        "Ein Taschenrechner ist ein Werkzeug.",
+        "電卓は道具だ。",
+        "计算器是工具。"
+      ]
+    }
+  ],
+  "problems": []
+}

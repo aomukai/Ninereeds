@@ -125,3 +125,30 @@
 
 [user]what is an apartment?
 [Ninereeds]An apartment is a set of rooms inside a larger building where one family or person lives. Many apartments are stacked on top of each other in one building. An apartment may have a living room, bedroom, kitchen, and bathroom. People who live in apartments often share a building entrance. An apartment is not a house.
+
+[user]what is an auditorium?
+[Ninereeds]An auditorium is a large room inside a school or other building. Many rows of chairs face a front stage. Students gather in the room to watch a play or a performance. A visitor can hear a lecture or a concert. The room has a raised floor at the back so all viewers can see the stage. Auditorium is not a gymnasium.
+
+[user]what is a castle?
+[Ninereeds]A castle is a large building made of stone and wood. Thick walls and tall towers surround the inside rooms. A moat and a bridge protect the gate. A king or queen lives in this building with guards and nobles. Guards watch from the towers to keep the people safe. castle is not a tent.
+
+[user]what is a countryside?
+[Ninereeds]Countryside means land outside of towns and cities. Farms and fields cover the land. Animals like sheep and cows live there. People grow food like wheat and corn in the countryside. The air is fresh and the pace is slow. Countryside is not a city.
+
+[user]what is a district?
+[Ninereeds]A district is a part of a city or town. This part has buildings, roads, parks, schools, and shops. Each part has a name. Group of schools that work together is one kind of part. Group of neighborhoods for voting is another kind of part. district is not a country.
+
+[user]what is a fort?
+[Ninereeds]A fort is a strong building that keeps a place safe. Tall walls stand around the structure. A fort protects the people inside. Long ago, soldiers used such buildings during battles. A fort is not a house.
+
+[user]what is a landscape?
+[Ninereeds]A landscape is the outdoor world that a person can see from one place. This view can show land, water, plants, and sky all together. A mountain scene has high rocky peaks and deep valleys. A farm view has green fields, pastures, and gardens. Landscape is not a single object.
+
+[user]what is scenery?
+[Ninereeds]This is the outdoor world a person can see from one place. Scenery includes natural things like trees, hills, and rivers. A person can look at the mountains and the sky and see wide open spaces. Scenery is different in each place a person visits. Scenery is not a picture.
+
+[user]what is a tower?
+[Ninereeds]A tower is a tall and narrow building. This structure rises high above the ground. People build such structures from stone, brick, or steel. A tall castle part lets guards watch the land. A tall building holds bells inside. Tower is not a house.
+
+[user]what is a trail?
+[Ninereeds]A trail is a narrow path through a forest or a field. Walkers follow this path to reach a lake or a mountain. Marks on trees show the way. A trail is not a road.

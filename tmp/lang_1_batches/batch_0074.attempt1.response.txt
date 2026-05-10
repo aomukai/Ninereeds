@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "circumstance",
+      "filename": "circumstance.md",
+      "lines": [
+        "A circumstance is a situation.",
+        "Ein Umstand ist eine Situation.",
+        "状況は状態だ。",
+        "情况是一种状态。"
+      ]
+    },
+    {
+      "word": "circumstance_3",
+      "filename": "circumstance_3.md",
+      "lines": [
+        "A circumstance_3 is a condition.",
+        "Ein dritter Umstand ist eine Bedingung.",
+        "第三の状況は条件だ。",
+        "第三种情况是一种条件。"
+      ]
+    },
+    {
+      "word": "citizen",
+      "filename": "citizen.md",
+      "lines": [
+        "A citizen is a person.",
+        "Ein Bürger ist eine Person.",
+        "市民は人だ。",
+        "公民是一个人。"
+      ]
+    },
+    {
+      "word": "citrus",
+      "filename": "citrus.md",
+      "lines": [
+        "A citrus is a fruit.",
+        "Eine Zitrusfrucht ist eine Frucht.",
+        "柑橘類は果物だ。",
+        "柑橘是一种水果。"
+      ]
+    },
+    {
+      "word": "city",
+      "filename": "city.md",
+      "lines": [
+        "A city is a place.",
+        "Eine Stadt ist ein Ort.",
+        "都市は場所だ。",
+        "城市是一个地方。"
+      ]
+    },
+    {
+      "word": "civic",
+      "filename": "civic.md",
+      "lines": [
+        "A civic center is a building.",
+        "Ein Bürgerzentrum ist ein Gebäude.",
+        "市民センターは建物だ。",
+        "市民中心是一座建筑。"
+      ]
+    },
+    {
+      "word": "claim",
+      "filename": "claim.md",
+      "lines": [
+        "Claiming is an assertion.",
+        "Behaupten ist eine Aussage.",
+        "主張することは断言だ。",
+        "声称是一种断言。"
+      ]
+    },
+    {
+      "word": "clam",
+      "filename": "clam.md",
+      "lines": [
+        "A clam is a shellfish.",
+        "Eine Muschel ist ein Schalentier.",
+        "ハマグリは貝だ。",
+        "蛤蜊是一种贝类。"
+      ]
+    },
+    {
+      "word": "clam like",
+      "filename": "clam_like.md",
+      "lines": [
+        "A clam-like shell is a seashell.",
+        "Eine muschelartige Schale ist ein Meeresgehäuse.",
+        "ハマグリのような殻は貝殻だ。",
+        "像蛤蜊的壳是一种贝壳。"
+      ]
+    },
+    {
+      "word": "clap",
+      "filename": "clap.md",
+      "lines": [
+        "Clapping is a sound.",
+        "Klatschen ist ein Geräusch.",
+        "拍手は音だ。",
+        "鼓掌是一种声音。"
+      ]
+    }
+  ],
+  "problems": []
+}

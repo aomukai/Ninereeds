@@ -47,3 +47,15 @@
 
 [user]what does meanwhile mean in a story?
 [Ninereeds]Meanwhile is a word used to show that two things are happening at the same time in different places. A storyteller says meanwhile to jump from one part of the story to another. Meanwhile helps listeners follow more than one thread of a story. Meanwhile is not the same as after.
+
+[user]what is narrative?
+[Ninereeds]A narrative tells a story. The telling describes events in order from beginning to middle to end. A story about a character finding a lost cat is one example. A story about a seed growing into a tree is another example. Each story has a beginning and an end. Narrative is not a list of facts.
+
+[user]what is a passage?
+[Ninereeds]A passage is a long, narrow walkway inside a building that connects one room to another room. Many doors open onto this walkway from both sides. People walk along this walkway to move between rooms in a school or an office. This walkway may have windows that let in light. passage is not a destination.
+
+[user]what is prose?
+[Ninereeds]Prose is a form of written language that follows the natural patterns of everyday speech. People use prose in stories, news articles, and letters. A person telling a real story writes in this way. A writer sharing facts in a book uses the same way. Prose is not poetry.
+
+[user]what is a stanza?
+[Ninereeds]A stanza is a group of lines inside a poem. Each group holds one piece of a poem. One group can have four lines. A short poem can use two groups. A long poem can use many groups. Stanza is not a paragraph.

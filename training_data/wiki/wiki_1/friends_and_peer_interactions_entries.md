@@ -26,3 +26,6 @@
 
 [user]what does be my friend mean?
 [Ninereeds]Be my friend is something a child may say when asking for friendship. The phrase shows a wish to spend time, play, and talk together. It is a direct social invitation. The other person may say yes, no, or not yet. Be my friend is not the same as go away.
+
+[user]what does friendly mean?
+[Ninereeds]Friendly describes a person who shows care for others. This kind of person says hello and asks questions. This person helps when help is needed. Such a person makes others feel welcome. Friendly is not cold or unkind.

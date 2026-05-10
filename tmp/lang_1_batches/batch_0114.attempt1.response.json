@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778432164-56jkwIN5YORlLJ3kTtXR",
+  "object": "chat.completion",
+  "created": 1778432164,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"dead\",\n      \"filename\": \"dead.md\",\n      \"lines\": [\n        \"A dead bird is an animal.\",\n        \"Ein toter Vogel ist ein Tier.\",\n        \"死んだ鳥は動物だ。\",\n        \"死鸟是动物。\"\n      ]\n    },\n    {\n      \"word\": \"deal\",\n      \"filename\": \"deal.md\",\n      \"lines\": [\n        \"Dealing is trading.\",\n        \"Handeln ist Tausch.\",\n        \"取引することは交換だ。\",\n        \"做交易是交换。\"\n      ]\n    },\n    {\n      \"word\": \"dean\",\n      \"filename\": \"dean.md\",\n      \"lines\": [\n        \"A dean is a leader.\",\n        \"Ein Dekan ist ein Leiter.\",\n        \"学部長はリーダーだ。\",\n        \"院长是领导。\"\n      ]\n    },\n    {\n      \"word\": \"death\",\n      \"filename\": \"death.md\",\n      \"lines\": [\n        \"Death is an end.\",\n        \"Der Tod ist ein Ende.\",\n        \"死は終わりだ。\",\n        \"死亡是终结。\"\n      ]\n    },\n    {\n      \"word\": \"debate\",\n      \"filename\": \"debate.md\",\n      \"lines\": [\n        \"Debating is discussion.\",\n        \"Debattieren ist Diskussion.\",\n        \"討論することは議論だ。\",\n        \"辩论是讨论。\"\n      ]\n    },\n    {\n      \"word\": \"debt\",\n      \"filename\": \"debt.md\",\n      \"lines\": [\n        \"A debt is an obligation.\",\n        \"Eine Schuld ist eine Verpflichtung.\",\n        \"借金は義務だ。\",\n        \"债务是义务。\"\n      ]\n    },\n    {\n      \"word\": \"decade\",\n      \"filename\": \"decade.md\",\n      \"lines\": [\n        \"A decade is a period.\",\n        \"Ein Jahrzehnt ist ein Zeitraum.\",\n        \"十年は期間だ。\",\n        \"十年是一段时间。\"\n      ]\n    },\n    {\n      \"word\": \"decide\",\n      \"filename\": \"decide.md\",\n      \"lines\": [\n        \"Deciding is choosing.\",\n        \"Entscheiden ist Wählen.\",\n        \"決断することは選択だ。\",\n        \"做决定是选择。\"\n      ]\n    },\n    {\n      \"word\": \"decided\",\n      \"filename\": \"decided.md\",\n      \"lines\": [\n        \"A decided matter is a fact.\",\n        \"Eine entschiedene Sache ist eine Tatsache.\",\n        \"決まったことは事実だ。\",\n        \"已决定的事是事实。\"\n      ]\n    },\n    {\n      \"word\": \"deciding\",\n      \"filename\": \"deciding.md\",\n      \"lines\": [\n        \"Deciding is choosing.\",\n        \"Entscheiden ist Wählen.\",\n        \"決断することは選択だ。\",\n        \"做决定是选择。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 721,
+    "completion_tokens": 637,
+    "total_tokens": 1358,
+    "cost": 0.000276507,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002793,
+      "upstream_inference_prompt_cost": 0.00010094,
+      "upstream_inference_completions_cost": 0.00017836
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

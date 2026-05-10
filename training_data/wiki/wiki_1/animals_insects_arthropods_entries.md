@@ -41,3 +41,6 @@
 
 [user]what is a worm?
 [Ninereeds]A worm is a small soft animal with a long thin body and no legs. Worms live in soil and help break down dead leaves and food scraps. Earthworms move through soil and help make it better for plants. Worms breathe through their skin and need to stay moist. A worm is not an arthropod.
+
+[user]what is a scorpion?
+[Ninereeds]A scorpion is a small creature with eight legs. The creature has a pair of front claws for grabbing prey. The back part of the body ends in a curved tail with a venom tip for protection. The creatures live in hot dry places like deserts. The venom stinger helps catch insects and other small animals. A scorpion is not an insect.

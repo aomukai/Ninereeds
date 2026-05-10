@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "carf",
+      "filename": "carf.md",
+      "lines": [
+        "A carf is a vehicle.",
+        "Ein Carf ist ein Fahrzeug.",
+        "カーフは車両だ。",
+        "卡夫是车辆。"
+      ]
+    },
+    {
+      "word": "cargo",
+      "filename": "cargo.md",
+      "lines": [
+        "Cargo is goods.",
+        "Cargo ist Ware.",
+        "カーゴは商品だ。",
+        "货物是商品。"
+      ]
+    },
+    {
+      "word": "caring",
+      "filename": "caring.md",
+      "lines": [
+        "A caring person is a helper.",
+        "Ein fürsorglicher Mensch ist ein Helfer.",
+        "思いやりのある人は助け手だ。",
+        "关心他人的人是帮手。"
+      ]
+    },
+    {
+      "word": "carpenter",
+      "filename": "carpenter.md",
+      "lines": [
+        "A carpenter is a craftsman.",
+        "Ein Zimmermann ist ein Handwerker.",
+        "大工は職人だ。",
+        "木匠是工匠。"
+      ]
+    },
+    {
+      "word": "carpet",
+      "filename": "carpet.md",
+      "lines": [
+        "A carpet is a floor covering.",
+        "Ein Teppich ist ein Bodenbelag.",
+        "カーペットは床材だ。",
+        "地毯是地面覆盖物。"
+      ]
+    },
+    {
+      "word": "carried",
+      "filename": "carried.md",
+      "lines": [
+        "A carried object is a load.",
+        "Ein getragener Gegenstand ist eine Last.",
+        "運ばれた物は荷物だ。",
+        "被携带的物品是负载。"
+      ]
+    },
+    {
+      "word": "carrier",
+      "filename": "carrier.md",
+      "lines": [
+        "A carrier is a transporter.",
+        "Ein Träger ist ein Transporteur.",
+        "運搬者は運送者だ。",
+        "承运人是运输者。"
+      ]
+    },
+    {
+      "word": "carrot",
+      "filename": "carrot.md",
+      "lines": [
+        "A carrot is a vegetable.",
+        "Eine Karotte ist ein Gemüse.",
+        "にんじんは野菜だ。",
+        "胡萝卜是蔬菜。"
+      ]
+    },
+    {
+      "word": "carry",
+      "filename": "carry.md",
+      "lines": [
+        "Carrying is movement.",
+        "Tragen ist Bewegung.",
+        "運ぶことは移動だ。",
+        "搬运是移动。"
+      ]
+    },
+    {
+      "word": "cart",
+      "filename": "cart.md",
+      "lines": [
+        "A cart is a vehicle.",
+        "Ein Karren ist ein Fahrzeug.",
+        "カートは車両だ。",
+        "手推车是车辆。"
+      ]
+    }
+  ],
+  "problems": []
+}

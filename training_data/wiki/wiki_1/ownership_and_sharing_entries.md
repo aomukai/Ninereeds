@@ -23,3 +23,12 @@
 
 [user]what does that's mine mean?
 [Ninereeds]That's mine means the speaker is saying the thing belongs to the speaker. A child may say that's mine when looking for a coat, a lunch box, or a toy. The phrase can help identify ownership quickly. People often need calm words when more than one person wants the same thing. That's mine is not the same as that's yours.
+
+[user]what does it mean to distribute?
+[Ninereeds]To distribute means to hand out or pass out items among a group of people. A teacher can give papers to each student in a classroom. A helper at a party can pass snacks and drinks to friends. A factory may hand supplies to workers. distribute is not collecting.
+
+[user]what is inheritance?
+[Ninereeds]Inheritance is the process of receiving items from a family member after that person dies. A parent can leave belongings to children. An owner can pass property to a younger family member. The things received become the new owner's possessions. Inheritance is not earning.
+
+[user]what does it mean to keep?
+[Ninereeds]Keep means to hold a thing in a safe place so the thing does not get lost or ruined. A person can store food in a fridge to stay fresh. A person can hold a treasured toy on a shelf. keep is not throw away.

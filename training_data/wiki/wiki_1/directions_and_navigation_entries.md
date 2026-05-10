@@ -32,3 +32,15 @@
 
 [user]what is an address?
 [Ninereeds]An address is the name of a place written in a way that helps people find it. A home, school, or store can have an address. People use an address for letters, visits, and directions. An address is not a route.
+
+[user]what is a course?
+[Ninereeds]A course is the direction that something moves along. A ship follows a course across the ocean. Water in a river moves from the start to the end along a path. course is not a single point.
+
+[user]what is a downhill?
+[Ninereeds]Downhill is a direction of travel down a slope or hill. A person on a bike rides downhill to move from a hilltop to the bottom. Walking on such a slope is faster than walking up a hill because the ground slopes forward. Riders use trails that slant down for an easy ride. downhill is not climbing.
+
+[user]what does left mean?
+[Ninereeds]Left is one side of a person or thing. That side of a body points west when a body faces north. A book page on that side is under a left hand. A map shows that side as a direction. Left is not right.
+
+[user]what is a sideway?
+[Ninereeds]A sideway is a narrow passage between buildings. The passage connects one street to another street. People take a short walk through a sideway to go between places. Cars cannot go through the passage. sideway is not a main road.

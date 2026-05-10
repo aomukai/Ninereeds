@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "context",
+      "filename": "context.md",
+      "lines": [
+        "A context is a situation.",
+        "Ein Kontext ist eine Situation.",
+        "コンテキストは状況だ。",
+        "上下文是一种情况。"
+      ]
+    },
+    {
+      "word": "contingent",
+      "filename": "contingent.md",
+      "lines": [
+        "A contingent is a group.",
+        "Ein Kontingent ist eine Gruppe.",
+        "コンティンジェントは集団だ。",
+        "一个分队是一个团体。"
+      ]
+    },
+    {
+      "word": "continue",
+      "filename": "continue.md",
+      "lines": [
+        "Continuing is a process.",
+        "Fortsetzen ist ein Prozess.",
+        "継続することはプロセスだ。",
+        "继续是一个过程。"
+      ]
+    },
+    {
+      "word": "continuing",
+      "filename": "continuing.md",
+      "lines": [
+        "A continuing stream is a stream.",
+        "Ein fortlaufender Strom ist ein Strom.",
+        "継続する流れは流れだ。",
+        "持续的溪流是溪流。"
+      ]
+    },
+    {
+      "word": "continuing_3",
+      "filename": "continuing_3.md",
+      "lines": [
+        "Continuing_3 is a concept.",
+        "Fortsetzung 3 ist ein Konzept.",
+        "継続3は概念だ。",
+        "继续3是一个概念。"
+      ]
+    },
+    {
+      "word": "continuity",
+      "filename": "continuity.md",
+      "lines": [
+        "Continuity is a property.",
+        "Kontinuität ist eine Eigenschaft.",
+        "継続性は特性だ。",
+        "连续性是一种特性。"
+      ]
+    },
+    {
+      "word": "continuous",
+      "filename": "continuous.md",
+      "lines": [
+        "A continuous line is a line.",
+        "Eine durchgehende Linie ist eine Linie.",
+        "連続した線は線だ。",
+        "连续的线是线。"
+      ]
+    },
+    {
+      "word": "contracting",
+      "filename": "contracting.md",
+      "lines": [
+        "Contracting is a process.",
+        "Zusammenziehen ist ein Prozess.",
+        "収縮することはプロセスだ。",
+        "收缩是一个过程。"
+      ]
+    },
+    {
+      "word": "contraction",
+      "filename": "contraction.md",
+      "lines": [
+        "A contraction is a reduction.",
+        "Eine Kontraktion ist eine Verringerung.",
+        "収縮は減少だ。",
+        "收缩是一种减少。"
+      ]
+    },
+    {
+      "word": "contradicting",
+      "filename": "contradicting.md",
+      "lines": [
+        "Contradicting is a denial.",
+        "Widersprechen ist eine Verneinung.",
+        "反論することは否定だ。",
+        "反驳是一种否定。"
+      ]
+    }
+  ],
+  "problems": []
+}

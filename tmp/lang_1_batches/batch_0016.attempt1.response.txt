@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "apart",
+      "filename": "apart.md",
+      "lines": [
+        "An apart room is a room.",
+        "Ein apartes Zimmer ist ein Zimmer.",
+        "離れた部屋は部屋だ。",
+        "一个分开的房间是房间。"
+      ]
+    },
+    {
+      "word": "apartment",
+      "filename": "apartment.md",
+      "lines": [
+        "An apartment is a home.",
+        "Eine Wohnung ist ein Zuhause.",
+        "アパートは家だ。",
+        "公寓是一个家。"
+      ]
+    },
+    {
+      "word": "ape",
+      "filename": "ape.md",
+      "lines": [
+        "An ape is a primate.",
+        "Ein Affe ist ein Primat.",
+        "類人猿は霊長類だ。",
+        "猿是一种灵长类动物。"
+      ]
+    },
+    {
+      "word": "apologizing",
+      "filename": "apologizing.md",
+      "lines": [
+        "Apologizing is an expression.",
+        "Sich entschuldigen ist ein Ausdruck.",
+        "謝ることは表現だ。",
+        "道歉是一种表达。"
+      ]
+    },
+    {
+      "word": "apology",
+      "filename": "apology.md",
+      "lines": [
+        "An apology is a statement.",
+        "Eine Entschuldigung ist eine Aussage.",
+        "謝罪は声明だ。",
+        "道歉是一种声明。"
+      ]
+    },
+    {
+      "word": "apostrophe",
+      "filename": "apostrophe.md",
+      "lines": [
+        "An apostrophe is a punctuation mark.",
+        "Ein Apostroph ist ein Satzzeichen.",
+        "アポストロフィーは句読点だ。",
+        "撇号是一种标点符号。"
+      ]
+    },
+    {
+      "word": "apparent",
+      "filename": "apparent.md",
+      "lines": [
+        "An apparent error is an error.",
+        "Ein offensichtlicher Fehler ist ein Fehler.",
+        "明らかな誤りは誤りだ。",
+        "明显的错误是错误。"
+      ]
+    },
+    {
+      "word": "appear",
+      "filename": "appear.md",
+      "lines": [
+        "Appearing is a phenomenon.",
+        "Erscheinen ist ein Phänomen.",
+        "現れることは現象だ。",
+        "出现是一种现象。"
+      ]
+    },
+    {
+      "word": "appearance",
+      "filename": "appearance.md",
+      "lines": [
+        "An appearance is an event.",
+        "Eine Erscheinung ist ein Ereignis.",
+        "出現は出来事だ。",
+        "出现是一个事件。"
+      ]
+    },
+    {
+      "word": "appearing",
+      "filename": "appearing.md",
+      "lines": [
+        "Appearing is a process.",
+        "Erscheinen ist ein Prozess.",
+        "現れることは過程だ。",
+        "出现是一个过程。"
+      ]
+    }
+  ],
+  "problems": []
+}

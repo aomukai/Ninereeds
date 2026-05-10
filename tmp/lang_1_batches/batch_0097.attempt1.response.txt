@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "conveying",
+      "filename": "conveying.md",
+      "lines": [
+        "Conveying is communication.",
+        "Vermitteln ist Kommunikation.",
+        "伝えることはコミュニケーションだ。",
+        "传达是沟通。"
+      ]
+    },
+    {
+      "word": "convincing",
+      "filename": "convincing.md",
+      "lines": [
+        "Convincing is persuasion.",
+        "Überzeugen ist Überredung.",
+        "説得することは説得だ。",
+        "说服是劝说。"
+      ]
+    },
+    {
+      "word": "cook",
+      "filename": "cook.md",
+      "lines": [
+        "A cook is a person.",
+        "Ein Koch ist eine Person.",
+        "料理人は人だ。",
+        "厨师是一个人。"
+      ]
+    },
+    {
+      "word": "cooked meal",
+      "filename": "cooked_meal.md",
+      "lines": [
+        "A cooked meal is food.",
+        "Eine gekochte Mahlzeit ist Essen.",
+        "調理された食事は食べ物だ。",
+        "熟食是食物。"
+      ]
+    },
+    {
+      "word": "cookie",
+      "filename": "cookie.md",
+      "lines": [
+        "A cookie is a snack.",
+        "Ein Keks ist ein Snack.",
+        "クッキーはお菓子だ。",
+        "饼干是零食。"
+      ]
+    },
+    {
+      "word": "cooking",
+      "filename": "cooking.md",
+      "lines": [
+        "Cooking is preparation.",
+        "Kochen ist Zubereitung.",
+        "料理することは調理だ。",
+        "烹饪是制作。"
+      ]
+    },
+    {
+      "word": "cooky",
+      "filename": "cooky.md",
+      "lines": [
+        "A cooky is a snack.",
+        "Ein Keks ist ein Snack.",
+        "クッキーはお菓子だ。",
+        "饼干是零食。"
+      ]
+    },
+    {
+      "word": "cool",
+      "filename": "cool.md",
+      "lines": [
+        "A cool drink is a beverage.",
+        "Ein kühles Getränk ist ein Getränk.",
+        "冷たい飲み物は飲料だ。",
+        "冷饮是饮料。"
+      ]
+    },
+    {
+      "word": "cooler",
+      "filename": "cooler.md",
+      "lines": [
+        "A cooler is a container.",
+        "Ein Kühler ist ein Behälter.",
+        "クーラーは容器だ。",
+        "冷却器是容器。"
+      ]
+    },
+    {
+      "word": "cooling",
+      "filename": "cooling.md",
+      "lines": [
+        "Cooling is temperature reduction.",
+        "Kühlen ist Temperatursenkung.",
+        "冷やすことは温度低下だ。",
+        "冷却就是降温。"
+      ]
+    }
+  ],
+  "problems": []
+}

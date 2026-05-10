@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "confuse",
+      "filename": "confuse.md",
+      "lines": [
+        "Confusing is misleading.",
+        "Verwirren ist Irreführen.",
+        "混乱させることは誤解を招くことだ。",
+        "混淆是误导。"
+      ]
+    },
+    {
+      "word": "confused",
+      "filename": "confused.md",
+      "lines": [
+        "A confused person is a human.",
+        "Ein verwirrter Mensch ist ein Mensch.",
+        "混乱した人は人間だ。",
+        "困惑的人是人。"
+      ]
+    },
+    {
+      "word": "confusing",
+      "filename": "confusing.md",
+      "lines": [
+        "A confusing puzzle is a game.",
+        "Ein verwirrendes Puzzle ist ein Spiel.",
+        "混乱させるパズルはゲームだ。",
+        "令人困惑的谜题是一种游戏。"
+      ]
+    },
+    {
+      "word": "confusion",
+      "filename": "confusion.md",
+      "lines": [
+        "Confusion is a state.",
+        "Verwirrung ist ein Zustand.",
+        "混乱は状態だ。",
+        "混乱是一种状态。"
+      ]
+    },
+    {
+      "word": "conjunction",
+      "filename": "conjunction.md",
+      "lines": [
+        "A conjunction is a word.",
+        "Eine Konjunktion ist ein Wort.",
+        "接続詞は単語だ。",
+        "连词是一种词。"
+      ]
+    },
+    {
+      "word": "connect",
+      "filename": "connect.md",
+      "lines": [
+        "Connecting is linking.",
+        "Verbinden ist Verknüpfen.",
+        "接続することは連結することだ。",
+        "连接是联接。"
+      ]
+    },
+    {
+      "word": "connected",
+      "filename": "connected.md",
+      "lines": [
+        "A connected car is a vehicle.",
+        "Ein verbundenes Auto ist ein Fahrzeug.",
+        "接続された車は乗り物だ。",
+        "联网的汽车是一种车辆。"
+      ]
+    },
+    {
+      "word": "connecting",
+      "filename": "connecting.md",
+      "lines": [
+        "A connecting flight is a journey.",
+        "Ein Anschlussflug ist eine Reise.",
+        "乗り継ぎ便は旅行だ。",
+        "转机航班是一种旅行。"
+      ]
+    },
+    {
+      "word": "connection",
+      "filename": "connection.md",
+      "lines": [
+        "A connection is a link.",
+        "Eine Verbindung ist eine Verknüpfung.",
+        "接続はリンクだ。",
+        "连接是一种链接。"
+      ]
+    },
+    {
+      "word": "conquest",
+      "filename": "conquest.md",
+      "lines": [
+        "Conquest is a victory.",
+        "Eroberung ist ein Sieg.",
+        "征服は勝利だ。",
+        "征服是一种胜利。"
+      ]
+    }
+  ],
+  "problems": []
+}

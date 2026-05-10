@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "application",
+      "filename": "application.md",
+      "lines": [
+        "An application is a request.",
+        "Eine Bewerbung ist ein Antrag.",
+        "申し込みは依頼だ。",
+        "申请是一种请求。"
+      ]
+    },
+    {
+      "word": "applies",
+      "filename": "applies.md",
+      "lines": [
+        "Applying is using something.",
+        "Anwenden ist das Nutzen von etwas.",
+        "適用することは使用することだ。",
+        "应用是使用某物。"
+      ]
+    },
+    {
+      "word": "apply",
+      "filename": "apply.md",
+      "lines": [
+        "Applying is using something.",
+        "Anwenden ist das Nutzen von etwas.",
+        "適用することは使用することだ。",
+        "应用是使用某物。"
+      ]
+    },
+    {
+      "word": "applying",
+      "filename": "applying.md",
+      "lines": [
+        "Applying is using something.",
+        "Anwenden ist das Nutzen von etwas.",
+        "適用することは使用することだ。",
+        "应用是使用某物。"
+      ]
+    },
+    {
+      "word": "appointing",
+      "filename": "appointing.md",
+      "lines": [
+        "Appointing is assigning a role.",
+        "Ernennen ist das Zuweisen einer Rolle.",
+        "任命することは役割を割り当てることだ。",
+        "任命是分配一个角色。"
+      ]
+    },
+    {
+      "word": "appreciated",
+      "filename": "appreciated.md",
+      "lines": [
+        "Appreciating is valuing something.",
+        "Wertschätzen ist das Schätzen von etwas.",
+        "感謝することは何かを評価することだ。",
+        "感激是珍视某物。"
+      ]
+    },
+    {
+      "word": "appreciating",
+      "filename": "appreciating.md",
+      "lines": [
+        "Appreciating is valuing something.",
+        "Wertschätzen ist das Schätzen von etwas.",
+        "感謝することは何かを評価することだ。",
+        "感激是珍视某物。"
+      ]
+    },
+    {
+      "word": "apprehending",
+      "filename": "apprehending.md",
+      "lines": [
+        "Apprehending is catching someone.",
+        "Festnehmen ist das Ergreifen einer Person.",
+        "逮捕することは人を捕まえることだ。",
+        "逮捕是抓住某人。"
+      ]
+    },
+    {
+      "word": "approach",
+      "filename": "approach.md",
+      "lines": [
+        "An approach is a method.",
+        "Ein Ansatz ist eine Methode.",
+        "アプローチは方法だ。",
+        "方法是一种途径。"
+      ]
+    },
+    {
+      "word": "appropriate",
+      "filename": "appropriate.md",
+      "lines": [
+        "An appropriate gift is a present.",
+        "Ein angemessenes Geschenk ist ein Präsent.",
+        "適切な贈り物はプレゼントだ。",
+        "合适的礼物是赠品。"
+      ]
+    }
+  ],
+  "problems": []
+}

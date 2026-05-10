@@ -26,3 +26,12 @@
 
 [user]what does close enough mean?
 [Ninereeds]Close enough means not perfect, but good enough for the need or task. A drawing, guess, or count may be close enough even if it is not exact. People use the phrase when small differences do not matter much. Close enough can help people move on without perfect accuracy. Close enough is not exact.
+
+[user]what is accuracy?
+[Ninereeds]Accuracy means how close a measurement or a number is to the true value or the correct fact. when a child throws a ball at a target, a hit close to the center shows good correctness. when a clock tells the right time, the clock gives correct information. accuracy is not guesswork.
+
+[user]what is a false?
+[Ninereeds]False describes a statement that does not match real facts. For example, saying the sky is green makes a false claim. False ideas lead people to wrong beliefs and mistaken actions. false is not true.
+
+[user]what is an opposite?
+[Ninereeds]An opposite is a word that means something completely different from another word. Hot and cold are a pair because hot means high temperature and cold means low temperature. Big and small are a pair because big means large size and small means tiny size. The two words in each pair sit at the far ends of a possible scale. Opposite is not the same.

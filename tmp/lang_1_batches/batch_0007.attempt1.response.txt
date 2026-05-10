@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "adhere",
+      "filename": "adhere.md",
+      "lines": [
+        "Adhering is a form of sticking.",
+        "Haften ist eine Form des Klebens.",
+        "付着は接着の一形態だ。",
+        "附着是粘接的一种形式。"
+      ]
+    },
+    {
+      "word": "adhering",
+      "filename": "adhering.md",
+      "lines": [
+        "Adhering is a continuous action.",
+        "Das Anhaften ist eine fortlaufende Handlung.",
+        "付着は継続的な動作だ。",
+        "附着是一个持续的动作。"
+      ]
+    },
+    {
+      "word": "adjective",
+      "filename": "adjective.md",
+      "lines": [
+        "An adjective is a kind of word.",
+        "Ein Adjektiv ist eine Art Wort.",
+        "形容詞は一種の言葉だ。",
+        "形容词是一种词。"
+      ]
+    },
+    {
+      "word": "adjust",
+      "filename": "adjust.md",
+      "lines": [
+        "Adjusting is a way of changing.",
+        "Anpassen ist eine Art der Veränderung.",
+        "調整は変更の一方法だ。",
+        "调整是一种改变的方式。"
+      ]
+    },
+    {
+      "word": "adjusting",
+      "filename": "adjusting.md",
+      "lines": [
+        "Adjusting is a method of refinement.",
+        "Einstellen ist eine Methode der Verfeinerung.",
+        "調整は洗練の方法だ。",
+        "调整是一种精炼的方法。"
+      ]
+    },
+    {
+      "word": "adjustment",
+      "filename": "adjustment.md",
+      "lines": [
+        "An adjustment is a correction.",
+        "Eine Anpassung ist eine Korrektur.",
+        "調整は修正だ。",
+        "调整是一种修正。"
+      ]
+    },
+    {
+      "word": "admiring",
+      "filename": "admiring.md",
+      "lines": [
+        "Admiring is a form of praise.",
+        "Bewundern ist eine Form des Lobes.",
+        "賞賛は称賛の一形態だ。",
+        "崇拜是赞扬的一种形式。"
+      ]
+    },
+    {
+      "word": "admitting",
+      "filename": "admitting.md",
+      "lines": [
+        "Admitting is an act of acceptance.",
+        "Eingestehen ist ein Akt der Akzeptanz.",
+        "認めることは受け入れの行為だ。",
+        "承认是一种接受的行为。"
+      ]
+    },
+    {
+      "word": "adoring",
+      "filename": "adoring.md",
+      "lines": [
+        "Adoring is a type of love.",
+        "Anbeten ist eine Art von Liebe.",
+        "崇拝は愛の一種だ。",
+        "崇拜是一种爱。"
+      ]
+    },
+    {
+      "word": "adult",
+      "filename": "adult.md",
+      "lines": [
+        "An adult is a person.",
+        "Ein Erwachsener ist eine Person.",
+        "大人は人間だ。",
+        "成年人是一个人。"
+      ]
+    }
+  ],
+  "problems": []
+}

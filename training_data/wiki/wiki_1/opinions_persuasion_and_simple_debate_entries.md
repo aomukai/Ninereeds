@@ -41,3 +41,9 @@
 
 [user]what does it mean to support an idea?
 [Ninereeds]To support an idea means to give reasons or examples that help show why the idea is good or true. People support ideas in a debate by using facts, stories, or evidence. Supporting an idea helps others understand your point of view. To support an idea is not the same as proving it.
+
+[user]what is an influence?
+[Ninereeds]An influence is something that can change a person's choices, actions, or way of thinking. A kind word from a friend can be an influence on what a person decides to do. A good example from a teacher can help shape how a person behaves. Such effects can come from people, experiences, or things a person sees and hears. Influence is not the same as control.
+
+[user]what is a suggestion?
+[Ninereeds]A suggestion is an idea that one person offers to another person. A friend might offer an idea about what game to play at recess. A teacher might give a thought about how to solve a math problem. A person can choose to take the idea or to try a different idea. suggestion is not a command.

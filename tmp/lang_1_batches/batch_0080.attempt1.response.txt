@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "coach",
+      "filename": "coach.md",
+      "lines": [
+        "A coach is a trainer.",
+        "Ein Coach ist ein Trainer.",
+        "コーチは指導者だ。",
+        "教练是指导者。"
+      ]
+    },
+    {
+      "word": "coal",
+      "filename": "coal.md",
+      "lines": [
+        "Coal is a fuel.",
+        "Kohle ist ein Brennstoff.",
+        "石炭は燃料だ。",
+        "煤是燃料。"
+      ]
+    },
+    {
+      "word": "coarse",
+      "filename": "coarse.md",
+      "lines": [
+        "A coarse fabric is a textile.",
+        "Ein grober Stoff ist ein Textil.",
+        "粗い生地は織物だ。",
+        "粗糙的布料是纺织品。"
+      ]
+    },
+    {
+      "word": "coast",
+      "filename": "coast.md",
+      "lines": [
+        "A coast is a landform.",
+        "Eine Küste ist eine Landform.",
+        "海岸は地形だ。",
+        "海岸是地形。"
+      ]
+    },
+    {
+      "word": "coat",
+      "filename": "coat.md",
+      "lines": [
+        "A coat is a garment.",
+        "Ein Mantel ist ein Kleidungsstück.",
+        "コートは衣服だ。",
+        "外套是服装。"
+      ]
+    },
+    {
+      "word": "cobweb",
+      "filename": "cobweb.md",
+      "lines": [
+        "A cobweb is a web.",
+        "Ein Spinnennetz ist ein Netz.",
+        "クモの巣は巣だ。",
+        "蜘蛛网是网。"
+      ]
+    },
+    {
+      "word": "cocoa",
+      "filename": "cocoa.md",
+      "lines": [
+        "Cocoa is a drink.",
+        "Kakao ist ein Getränk.",
+        "ココアは飲み物だ。",
+        "可可是一种饮料。"
+      ]
+    },
+    {
+      "word": "cocoon",
+      "filename": "cocoon.md",
+      "lines": [
+        "A cocoon is a covering.",
+        "Ein Kokon ist eine Hülle.",
+        "繭は覆いだ。",
+        "茧是覆盖物。"
+      ]
+    },
+    {
+      "word": "code",
+      "filename": "code.md",
+      "lines": [
+        "A code is a system.",
+        "Ein Code ist ein System.",
+        "コードはシステムだ。",
+        "代码是系统。"
+      ]
+    },
+    {
+      "word": "codex",
+      "filename": "codex.md",
+      "lines": [
+        "A codex is a book.",
+        "Ein Codex ist ein Buch.",
+        "写本は本だ。",
+        "手抄本是书。"
+      ]
+    }
+  ],
+  "problems": []
+}

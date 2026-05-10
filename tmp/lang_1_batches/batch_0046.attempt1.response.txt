@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "bother",
+      "filename": "bother.md",
+      "lines": [
+        "A bother is a nuisance.",
+        "Ein Ärgernis ist eine Plage.",
+        "迷惑は厄介なことだ。",
+        "麻烦事是困扰。"
+      ]
+    },
+    {
+      "word": "bottle",
+      "filename": "bottle.md",
+      "lines": [
+        "A bottle is a container.",
+        "Eine Flasche ist ein Behälter.",
+        "ボトルは容器だ。",
+        "瓶子是容器。"
+      ]
+    },
+    {
+      "word": "bottle of oil",
+      "filename": "bottle_of_oil.md",
+      "lines": [
+        "A bottle of oil is a container.",
+        "Eine Ölflasche ist ein Behälter.",
+        "オイルボトルは容器だ。",
+        "油瓶是容器。"
+      ]
+    },
+    {
+      "word": "bottom",
+      "filename": "bottom.md",
+      "lines": [
+        "A bottom is a part.",
+        "Ein Boden ist ein Teil.",
+        "底は部分だ。",
+        "底部是部分。"
+      ]
+    },
+    {
+      "word": "bought",
+      "filename": "bought.md",
+      "lines": [
+        "A bought item is a product.",
+        "Ein gekaufter Gegenstand ist ein Produkt.",
+        "買った品物は製品だ。",
+        "购买的商品是产品。"
+      ]
+    },
+    {
+      "word": "bouncing",
+      "filename": "bouncing.md",
+      "lines": [
+        "Bouncing is movement.",
+        "Hüpfen ist Bewegung.",
+        "跳ねることは動きだ。",
+        "弹跳是运动。"
+      ]
+    },
+    {
+      "word": "boundary",
+      "filename": "boundary.md",
+      "lines": [
+        "A boundary is a line.",
+        "Eine Grenze ist eine Linie.",
+        "境界は線だ。",
+        "边界是线。"
+      ]
+    },
+    {
+      "word": "bounded",
+      "filename": "bounded.md",
+      "lines": [
+        "A bounded region is a space.",
+        "Ein begrenzter Bereich ist ein Raum.",
+        "有界な領域は空間だ。",
+        "有界区域是空间。"
+      ]
+    },
+    {
+      "word": "bounding",
+      "filename": "bounding.md",
+      "lines": [
+        "Bounding is an action.",
+        "Springen ist eine Handlung.",
+        "跳躍は動作だ。",
+        "跳跃是动作。"
+      ]
+    },
+    {
+      "word": "bow",
+      "filename": "bow.md",
+      "lines": [
+        "A bow is a weapon.",
+        "Ein Bogen ist eine Waffe.",
+        "弓は武器だ。",
+        "弓是武器。"
+      ]
+    }
+  ],
+  "problems": []
+}

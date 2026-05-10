@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "carton",
+      "filename": "carton.md",
+      "lines": [
+        "A carton is a container.",
+        "Ein Karton ist ein Behälter.",
+        "カートンは容器だ。",
+        "纸盒是容器。"
+      ]
+    },
+    {
+      "word": "cartoon",
+      "filename": "cartoon.md",
+      "lines": [
+        "A cartoon is a drawing.",
+        "Ein Cartoon ist eine Zeichnung.",
+        "カートゥーンは絵だ。",
+        "卡通是图画。"
+      ]
+    },
+    {
+      "word": "carving",
+      "filename": "carving.md",
+      "lines": [
+        "A carving is a sculpture.",
+        "Eine Schnitzerei ist eine Skulptur.",
+        "彫刻は彫像だ。",
+        "雕刻是雕塑。"
+      ]
+    },
+    {
+      "word": "case",
+      "filename": "case.md",
+      "lines": [
+        "A case is a container.",
+        "Ein Kasten ist ein Behälter.",
+        "ケースは容器だ。",
+        "箱子是容器。"
+      ]
+    },
+    {
+      "word": "cashier",
+      "filename": "cashier.md",
+      "lines": [
+        "A cashier is a worker.",
+        "Ein Kassierer ist ein Mitarbeiter.",
+        "レジ係は従業員だ。",
+        "收银员是员工。"
+      ]
+    },
+    {
+      "word": "casting",
+      "filename": "casting.md",
+      "lines": [
+        "A casting is a mold.",
+        "Ein Guss ist eine Form.",
+        "鋳物は型だ。",
+        "铸件是模具。"
+      ]
+    },
+    {
+      "word": "castle",
+      "filename": "castle.md",
+      "lines": [
+        "A castle is a building.",
+        "Ein Schloss ist ein Gebäude.",
+        "城は建物だ。",
+        "城堡是建筑。"
+      ]
+    },
+    {
+      "word": "casual",
+      "filename": "casual.md",
+      "lines": [
+        "A casual shirt is clothing.",
+        "Ein lässiges Hemd ist Kleidung.",
+        "カジュアルなシャツは衣服だ。",
+        "休闲衬衫是衣服。"
+      ]
+    },
+    {
+      "word": "cat",
+      "filename": "cat.md",
+      "lines": [
+        "A cat is an animal.",
+        "Eine Katze ist ein Tier.",
+        "猫は動物だ。",
+        "猫是动物。"
+      ]
+    },
+    {
+      "word": "catch",
+      "filename": "catch.md",
+      "lines": [
+        "Catching is an action.",
+        "Fangen ist eine Handlung.",
+        "捕まえることは動作だ。",
+        "抓是动作。"
+      ]
+    }
+  ],
+  "problems": []
+}

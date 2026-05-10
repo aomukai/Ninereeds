@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "brick",
+      "filename": "brick.md",
+      "lines": [
+        "A brick is a building material.",
+        "Ein Ziegel ist ein Baumaterial.",
+        "レンガは建築材料だ。",
+        "砖是建筑材料。"
+      ]
+    },
+    {
+      "word": "bridge",
+      "filename": "bridge.md",
+      "lines": [
+        "A bridge is a structure.",
+        "Eine Brücke ist ein Bauwerk.",
+        "橋は構造物だ。",
+        "桥是建筑物。"
+      ]
+    },
+    {
+      "word": "bridling",
+      "filename": "bridling.md",
+      "lines": [
+        "Bridling is restraining.",
+        "Zügeln ist Zurückhalten.",
+        "手綱を引くことは抑制だ。",
+        "勒缰是抑制。"
+      ]
+    },
+    {
+      "word": "brief",
+      "filename": "brief.md",
+      "lines": [
+        "A brief meeting is a short meeting.",
+        "Ein kurzes Treffen ist ein kurzes Treffen.",
+        "短い会議は短い会議だ。",
+        "简短的会议是短会议。"
+      ]
+    },
+    {
+      "word": "bright",
+      "filename": "bright.md",
+      "lines": [
+        "A bright star is a star.",
+        "Ein heller Stern ist ein Stern.",
+        "明るい星は星だ。",
+        "明亮的星星是星星。"
+      ]
+    },
+    {
+      "word": "brightening",
+      "filename": "brightening.md",
+      "lines": [
+        "Brightening is lightening.",
+        "Aufhellen ist Erhellen.",
+        "明るくすることは光を増すことだ。",
+        "变亮是增光。"
+      ]
+    },
+    {
+      "word": "brighter",
+      "filename": "brighter.md",
+      "lines": [
+        "A brighter lamp is a lamp.",
+        "Eine hellere Lampe ist eine Lampe.",
+        "より明るいランプはランプだ。",
+        "更亮的灯是灯。"
+      ]
+    },
+    {
+      "word": "brightnes",
+      "filename": "brightnes.md",
+      "lines": [
+        "Brightness is a quality.",
+        "Helligkeit ist eine Eigenschaft.",
+        "明るさは性質だ。",
+        "亮度是性质。"
+      ]
+    },
+    {
+      "word": "brim",
+      "filename": "brim.md",
+      "lines": [
+        "A brim is an edge.",
+        "Ein Rand ist eine Kante.",
+        "縁は端だ。",
+        "边缘是边。"
+      ]
+    },
+    {
+      "word": "bring",
+      "filename": "bring.md",
+      "lines": [
+        "Bringing is carrying.",
+        "Bringen ist Tragen.",
+        "持ってくることは運ぶことだ。",
+        "带来是搬运。"
+      ]
+    }
+  ],
+  "problems": []
+}

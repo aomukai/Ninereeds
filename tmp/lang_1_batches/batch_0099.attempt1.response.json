@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778430563-6cZW4rJ7CF2b7M8frYHd",
+  "object": "chat.completion",
+  "created": 1778430563,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"cord\",\n      \"filename\": \"cord.md\",\n      \"lines\": [\n        \"A cord is a string.\",\n        \"Eine Schnur ist ein Faden.\",\n        \"コードは紐だ。\",\n        \"绳子是线。\"\n      ]\n    },\n    {\n      \"word\": \"core\",\n      \"filename\": \"core.md\",\n      \"lines\": [\n        \"A core is a center.\",\n        \"Ein Kern ist ein Zentrum.\",\n        \"芯は中心だ。\",\n        \"核心是中心。\"\n      ]\n    },\n    {\n      \"word\": \"cork\",\n      \"filename\": \"cork.md\",\n      \"lines\": [\n        \"A cork is a stopper.\",\n        \"Ein Korken ist ein Verschluss.\",\n        \"コルクは栓だ。\",\n        \"软木塞是塞子。\"\n      ]\n    },\n    {\n      \"word\": \"corn\",\n      \"filename\": \"corn.md\",\n      \"lines\": [\n        \"Corn is a grain.\",\n        \"Mais ist ein Getreide.\",\n        \"トウモロコシは穀物だ。\",\n        \"玉米是谷物。\"\n      ]\n    },\n    {\n      \"word\": \"corner\",\n      \"filename\": \"corner.md\",\n      \"lines\": [\n        \"A corner is an angle.\",\n        \"Eine Ecke ist ein Winkel.\",\n        \"角は角度だ。\",\n        \"角落是角度。\"\n      ]\n    },\n    {\n      \"word\": \"cornfield\",\n      \"filename\": \"cornfield.md\",\n      \"lines\": [\n        \"A cornfield is a field.\",\n        \"Ein Maisfeld ist ein Feld.\",\n        \"トウモロコシ畑は畑だ。\",\n        \"玉米地是田地。\"\n      ]\n    },\n    {\n      \"word\": \"corporeal\",\n      \"filename\": \"corporeal.md\",\n      \"lines\": [\n        \"A corporeal body is a form.\",\n        \"Ein körperlicher Leib ist eine Form.\",\n        \"肉体は形だ。\",\n        \"有形的身体是形态。\"\n      ]\n    },\n    {\n      \"word\": \"correct\",\n      \"filename\": \"correct.md\",\n      \"lines\": [\n        \"Correcting is fixing.\",\n        \"Korrigieren ist Berichtigen.\",\n        \"訂正することは修正だ。\",\n        \"纠正就是修正。\"\n      ]\n    },\n    {\n      \"word\": \"correcting\",\n      \"filename\": \"correcting.md\",\n      \"lines\": [\n        \"Correcting is adjusting.\",\n        \"Korrigieren ist Anpassen.\",\n        \"訂正することは調整だ。\",\n        \"纠正就是调整。\"\n      ]\n    },\n    {\n      \"word\": \"correction\",\n      \"filename\": \"correction.md\",\n      \"lines\": [\n        \"A correction is a change.\",\n        \"Eine Korrektur ist eine Änderung.\",\n        \"訂正は変更だ。\",\n        \"纠正是改变。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 651,
+    "total_tokens": 1374,
+    "cost": 0.000280665,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002835,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00018228
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

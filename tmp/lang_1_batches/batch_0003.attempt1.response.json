@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778417447-euWq5EKuZyDywfOi5w0f",
+  "object": "chat.completion",
+  "created": 1778417447,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"absorbing\",\n      \"filename\": \"absorbing.md\",\n      \"lines\": [\n        \"An absorbing book is a story.\",\n        \"Ein fesselndes Buch ist eine Geschichte.\",\n        \"夢中になる本は物語だ。\",\n        \"引人入胜的书是故事。\"\n      ]\n    },\n    {\n      \"word\": \"abstract\",\n      \"filename\": \"abstract.md\",\n      \"lines\": [\n        \"An abstract painting is art.\",\n        \"Ein abstraktes Gemälde ist Kunst.\",\n        \"抽象画は芸術だ。\",\n        \"抽象画是艺术。\"\n      ]\n    },\n    {\n      \"word\": \"abstraction\",\n      \"filename\": \"abstraction.md\",\n      \"lines\": [\n        \"Abstraction is a concept.\",\n        \"Abstraktion ist ein Konzept.\",\n        \"抽象は概念だ。\",\n        \"抽象是概念。\"\n      ]\n    },\n    {\n      \"word\": \"absurd\",\n      \"filename\": \"absurd.md\",\n      \"lines\": [\n        \"An absurd joke is humor.\",\n        \"Ein absurder Witz ist Humor.\",\n        \"不条理な冗談はユーモアだ。\",\n        \"荒谬的笑话是幽默。\"\n      ]\n    },\n    {\n      \"word\": \"acceptable\",\n      \"filename\": \"acceptable.md\",\n      \"lines\": [\n        \"An acceptable answer is a response.\",\n        \"Eine akzeptable Antwort ist eine Reaktion.\",\n        \"許容できる答えは返答だ。\",\n        \"可接受的答案是回应。\"\n      ]\n    },\n    {\n      \"word\": \"acceptance\",\n      \"filename\": \"acceptance.md\",\n      \"lines\": [\n        \"Acceptance is a feeling.\",\n        \"Akzeptanz ist ein Gefühl.\",\n        \"受容は感情だ。\",\n        \"接纳是一种感受。\"\n      ]\n    },\n    {\n      \"word\": \"accepted\",\n      \"filename\": \"accepted.md\",\n      \"lines\": [\n        \"An accepted idea is a thought.\",\n        \"Eine akzeptierte Idee ist ein Gedanke.\",\n        \"受け入れられた考えは思考だ。\",\n        \"被接受的想法是思考。\"\n      ]\n    },\n    {\n      \"word\": \"accepting\",\n      \"filename\": \"accepting.md\",\n      \"lines\": [\n        \"Accepting is understanding.\",\n        \"Akzeptieren ist Verstehen.\",\n        \"受け入れることは理解だ。\",\n        \"接受是理解。\"\n      ]\n    },\n    {\n      \"word\": \"accessing\",\n      \"filename\": \"accessing.md\",\n      \"lines\": [\n        \"Accessing is obtaining.\",\n        \"Zugreifen ist Erhalten.\",\n        \"アクセスすることは入手だ。\",\n        \"访问是获取。\"\n      ]\n    },\n    {\n      \"word\": \"accident\",\n      \"filename\": \"accident.md\",\n      \"lines\": [\n        \"An accident is an event.\",\n        \"Ein Unfall ist ein Ereignis.\",\n        \"事故は出来事だ。\",\n        \"事故是事件。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 721,
+    "completion_tokens": 672,
+    "total_tokens": 1393,
+    "cost": 0.000286209,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002891,
+      "upstream_inference_prompt_cost": 0.00010094,
+      "upstream_inference_completions_cost": 0.00018816
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

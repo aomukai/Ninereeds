@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "butter",
+      "filename": "butter.md",
+      "lines": [
+        "Butter is a dairy product.",
+        "Butter ist ein Milchprodukt.",
+        "バターは乳製品だ。",
+        "黄油是乳制品。"
+      ]
+    },
+    {
+      "word": "butterfly",
+      "filename": "butterfly.md",
+      "lines": [
+        "A butterfly is an insect.",
+        "Ein Schmetterling ist ein Insekt.",
+        "蝶は昆虫だ。",
+        "蝴蝶是昆虫。"
+      ]
+    },
+    {
+      "word": "buttery",
+      "filename": "buttery.md",
+      "lines": [
+        "A buttery croissant is a pastry.",
+        "Ein buttriges Croissant ist ein Gebäck.",
+        "バター風味のクロワッサンはペストリーだ。",
+        "黄油味的牛角面包是糕点。"
+      ]
+    },
+    {
+      "word": "button",
+      "filename": "button.md",
+      "lines": [
+        "A button is a fastener.",
+        "Ein Knopf ist ein Verschluss.",
+        "ボタンは留め具だ。",
+        "纽扣是扣件。"
+      ]
+    },
+    {
+      "word": "buttressing",
+      "filename": "buttressing.md",
+      "lines": [
+        "Buttressing is support.",
+        "Stützen ist Unterstützung.",
+        "支えることは支援だ。",
+        "支撑是支持。"
+      ]
+    },
+    {
+      "word": "buy",
+      "filename": "buy.md",
+      "lines": [
+        "Buying is a transaction.",
+        "Kaufen ist eine Transaktion.",
+        "買うことは取引だ。",
+        "购买是交易。"
+      ]
+    },
+    {
+      "word": "buying",
+      "filename": "buying.md",
+      "lines": [
+        "Buying is a process.",
+        "Das Kaufen ist ein Prozess.",
+        "買うことはプロセスだ。",
+        "购买是一个过程。"
+      ]
+    },
+    {
+      "word": "buzz",
+      "filename": "buzz.md",
+      "lines": [
+        "A buzz is a sound.",
+        "Ein Summen ist ein Geräusch.",
+        "ブンブンという音は音だ。",
+        "嗡嗡声是声音。"
+      ]
+    },
+    {
+      "word": "bystander",
+      "filename": "bystander.md",
+      "lines": [
+        "A bystander is a person.",
+        "Ein Umstehender ist eine Person.",
+        "傍観者は人だ。",
+        "旁观者是人。"
+      ]
+    },
+    {
+      "word": "cab",
+      "filename": "cab.md",
+      "lines": [
+        "A cab is a vehicle.",
+        "Ein Taxi ist ein Fahrzeug.",
+        "タクシーは乗り物だ。",
+        "出租车是车辆。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -44,3 +44,9 @@
 
 [user]what is prey?
 [Ninereeds]Prey is an animal that is hunted and eaten by a predator. A rabbit, a mouse, and a small fish can be prey. Being prey is part of how animals find food and survive in nature. Prey is not the same as a predator.
+
+[user]what is a cycle?
+[Ninereeds]A cycle is a series of events that repeat in the same order. Day and night follow one another in a repeating pattern. Water moves from the sky to the ground and back to the sky again. The four seasons come one after another and then begin again. Cycle is not a single moment.
+
+[user]what is a fungus?
+[Ninereeds]A fungus is a living thing in a group different from plants and animals. Fungi have a different kingdom from plants and animals. Mushrooms are one kind that grows on the ground. Yeast is a tiny fungus that cooks use for bread. Mold is another kind that grows on old food. Fungus is not a plant.

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "body that has slept",
+      "filename": "body_that_has_slept.md",
+      "lines": [
+        "A body that has slept is a living being.",
+        "Ein Körper, der geschlafen hat, ist ein Lebewesen.",
+        "眠った体は生き物だ。",
+        "睡过的身体是生物。"
+      ]
+    },
+    {
+      "word": "boil",
+      "filename": "boil.md",
+      "lines": [
+        "A boil is a skin condition.",
+        "Ein Furunkel ist eine Hauterkrankung.",
+        "おできは皮膚の病気だ。",
+        "疖是一种皮肤病。"
+      ]
+    },
+    {
+      "word": "bold",
+      "filename": "bold.md",
+      "lines": [
+        "A bold person is a person.",
+        "Ein mutiger Mensch ist ein Mensch.",
+        "大胆な人は人だ。",
+        "大胆的人是人。"
+      ]
+    },
+    {
+      "word": "bolstering",
+      "filename": "bolstering.md",
+      "lines": [
+        "Bolstering is supporting.",
+        "Stärken ist Unterstützen.",
+        "強化することは支援だ。",
+        "增强是支持。"
+      ]
+    },
+    {
+      "word": "bolt",
+      "filename": "bolt.md",
+      "lines": [
+        "A bolt is a fastener.",
+        "Ein Bolzen ist ein Befestigungselement.",
+        "ボルトは留め具だ。",
+        "螺栓是紧固件。"
+      ]
+    },
+    {
+      "word": "bone",
+      "filename": "bone.md",
+      "lines": [
+        "A bone is a body part.",
+        "Ein Knochen ist ein Körperteil.",
+        "骨は体の一部だ。",
+        "骨头是身体的一部分。"
+      ]
+    },
+    {
+      "word": "book",
+      "filename": "book.md",
+      "lines": [
+        "A book is a reading material.",
+        "Ein Buch ist ein Lesestoff.",
+        "本は読書材料だ。",
+        "书是阅读材料。"
+      ]
+    },
+    {
+      "word": "bookshelf",
+      "filename": "bookshelf.md",
+      "lines": [
+        "A bookshelf is furniture.",
+        "Ein Bücherregal ist ein Möbelstück.",
+        "本棚は家具だ。",
+        "书架是家具。"
+      ]
+    },
+    {
+      "word": "boom",
+      "filename": "boom.md",
+      "lines": [
+        "A boom is a loud sound.",
+        "Ein Knall ist ein lautes Geräusch.",
+        "ブームは大きな音だ。",
+        "轰鸣声是响亮的声音。"
+      ]
+    },
+    {
+      "word": "boot",
+      "filename": "boot.md",
+      "lines": [
+        "A boot is footwear.",
+        "Ein Stiefel ist ein Schuhwerk.",
+        "ブーツは履物だ。",
+        "靴子是鞋类。"
+      ]
+    }
+  ],
+  "problems": []
+}

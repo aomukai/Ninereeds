@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "affirming",
+      "filename": "affirming.md",
+      "lines": [
+        "Affirming is a statement.",
+        "Bestätigen ist eine Aussage.",
+        "肯定することは表明だ。",
+        "肯定是一种陈述。"
+      ]
+    },
+    {
+      "word": "affordance",
+      "filename": "affordance.md",
+      "lines": [
+        "An affordance is a property.",
+        "Eine Affordanz ist eine Eigenschaft.",
+        "アフォーダンスは特性だ。",
+        "可供性是一种特性。"
+      ]
+    },
+    {
+      "word": "affording",
+      "filename": "affording.md",
+      "lines": [
+        "Affording is a provision.",
+        "Gewähren ist eine Bereitstellung.",
+        "提供することは供給だ。",
+        "提供是一种供给。"
+      ]
+    },
+    {
+      "word": "afraid",
+      "filename": "afraid.md",
+      "lines": [
+        "An afraid person is a human.",
+        "Eine ängstliche Person ist ein Mensch.",
+        "怖がっている人は人間だ。",
+        "害怕的人是人类。"
+      ]
+    },
+    {
+      "word": "afternoon",
+      "filename": "afternoon.md",
+      "lines": [
+        "An afternoon is a time.",
+        "Ein Nachmittag ist eine Zeit.",
+        "午後は時間だ。",
+        "下午是时间。"
+      ]
+    },
+    {
+      "word": "afterward",
+      "filename": "afterward.md",
+      "lines": [
+        "Afterward is a time.",
+        "Das Danach ist eine Zeit.",
+        "その後は時間だ。",
+        "之后是时间。"
+      ]
+    },
+    {
+      "word": "age",
+      "filename": "age.md",
+      "lines": [
+        "An age is a period.",
+        "Ein Alter ist eine Periode.",
+        "年齢は期間だ。",
+        "年龄是时期。"
+      ]
+    },
+    {
+      "word": "agency",
+      "filename": "agency.md",
+      "lines": [
+        "An agency is an organization.",
+        "Eine Agentur ist eine Organisation.",
+        "代理店は組織だ。",
+        "代理机构是组织。"
+      ]
+    },
+    {
+      "word": "aggregate",
+      "filename": "aggregate.md",
+      "lines": [
+        "An aggregate is a collection.",
+        "Ein Aggregat ist eine Sammlung.",
+        "集合体は集まりだ。",
+        "集合体是集合。"
+      ]
+    },
+    {
+      "word": "aggressive",
+      "filename": "aggressive.md",
+      "lines": [
+        "An aggressive dog is an animal.",
+        "Ein aggressiver Hund ist ein Tier.",
+        "攻撃的な犬は動物だ。",
+        "攻击性的狗是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

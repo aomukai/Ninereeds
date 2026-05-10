@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "babies",
+      "filename": "babies.md",
+      "lines": [
+        "Babies are young children.",
+        "Babys sind kleine Kinder.",
+        "赤ちゃんは幼い子供だ。",
+        "婴儿是幼小的孩子。"
+      ]
+    },
+    {
+      "word": "baby",
+      "filename": "baby.md",
+      "lines": [
+        "A baby is a young child.",
+        "Ein Baby ist ein kleines Kind.",
+        "赤ちゃんは幼い子供だ。",
+        "婴儿是幼小的孩子。"
+      ]
+    },
+    {
+      "word": "back",
+      "filename": "back.md",
+      "lines": [
+        "A back is a body part.",
+        "Ein Rücken ist ein Körperteil.",
+        "背中は体の一部だ。",
+        "背部是身体的一部分。"
+      ]
+    },
+    {
+      "word": "backbone",
+      "filename": "backbone.md",
+      "lines": [
+        "A backbone is a bone.",
+        "Ein Rückgrat ist ein Knochen.",
+        "背骨は骨だ。",
+        "脊柱是骨头。"
+      ]
+    },
+    {
+      "word": "backfill_progress.txt",
+      "filename": "backfill_progress.txt.md",
+      "lines": [
+        "A backfill_progress.txt is a file.",
+        "Eine backfill_progress.txt ist eine Datei.",
+        "backfill_progress.txtはファイルだ。",
+        "backfill_progress.txt是一个文件。"
+      ]
+    },
+    {
+      "word": "background",
+      "filename": "background.md",
+      "lines": [
+        "A background is a part of a picture.",
+        "Ein Hintergrund ist ein Teil eines Bildes.",
+        "背景は絵の一部だ。",
+        "背景是图片的一部分。"
+      ]
+    },
+    {
+      "word": "backing",
+      "filename": "backing.md",
+      "lines": [
+        "Backing is support.",
+        "Unterstützung ist Hilfe.",
+        "支援は助けだ。",
+        "支持是帮助。"
+      ]
+    },
+    {
+      "word": "backpack",
+      "filename": "backpack.md",
+      "lines": [
+        "A backpack is a bag.",
+        "Ein Rucksack ist eine Tasche.",
+        "リュックサックは鞄だ。",
+        "背包是包。"
+      ]
+    },
+    {
+      "word": "backward",
+      "filename": "backward.md",
+      "lines": [
+        "A backward step is a movement.",
+        "Ein Schritt rückwärts ist eine Bewegung.",
+        "後ろ向きの歩みは動きだ。",
+        "向后的步伐是移动。"
+      ]
+    },
+    {
+      "word": "backyard",
+      "filename": "backyard.md",
+      "lines": [
+        "A backyard is an outdoor area.",
+        "Ein Hinterhof ist ein Außenbereich.",
+        "裏庭は屋外の場所だ。",
+        "后院是户外区域。"
+      ]
+    }
+  ],
+  "problems": []
+}

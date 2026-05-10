@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "bicycle",
+      "filename": "bicycle.md",
+      "lines": [
+        "A bicycle is a two-wheeled vehicle.",
+        "Ein Fahrrad ist ein zweirädriges Fahrzeug.",
+        "自転車は二輪車だ。",
+        "自行车是两轮车。"
+      ]
+    },
+    {
+      "word": "big",
+      "filename": "big.md",
+      "lines": [
+        "A big dog is an animal.",
+        "Ein großer Hund ist ein Tier.",
+        "大きな犬は動物だ。",
+        "大狗是动物。"
+      ]
+    },
+    {
+      "word": "bigger",
+      "filename": "bigger.md",
+      "lines": [
+        "A bigger car is a vehicle.",
+        "Ein größeres Auto ist ein Fahrzeug.",
+        "より大きな車は乗り物だ。",
+        "更大的车是交通工具。"
+      ]
+    },
+    {
+      "word": "bike",
+      "filename": "bike.md",
+      "lines": [
+        "A bike is a vehicle.",
+        "Ein Motorrad ist ein Fahrzeug.",
+        "バイクは乗り物だ。",
+        "摩托车是交通工具。"
+      ]
+    },
+    {
+      "word": "bill",
+      "filename": "bill.md",
+      "lines": [
+        "A bill is currency.",
+        "Ein Geldschein ist Bargeld.",
+        "紙幣は通貨だ。",
+        "钞票是货币。"
+      ]
+    },
+    {
+      "word": "billy",
+      "filename": "billy.md",
+      "lines": [
+        "A billy is a goat.",
+        "Ein Ziegenbock ist eine Ziege.",
+        "雄ヤギはヤギだ。",
+        "公山羊是山羊。"
+      ]
+    },
+    {
+      "word": "bin",
+      "filename": "bin.md",
+      "lines": [
+        "A bin is a container.",
+        "Ein Mülleimer ist ein Behälter.",
+        "ゴミ箱は容器だ。",
+        "垃圾桶是容器。"
+      ]
+    },
+    {
+      "word": "binder",
+      "filename": "binder.md",
+      "lines": [
+        "A binder is a folder.",
+        "Ein Ordner ist ein Hefter.",
+        "バインダーはファイルだ。",
+        "活页夹是文件夹。"
+      ]
+    },
+    {
+      "word": "binding",
+      "filename": "binding.md",
+      "lines": [
+        "A binding is a book cover.",
+        "Ein Buchdeckel ist ein Buchumschlag.",
+        "装丁は表紙だ。",
+        "装订是书皮。"
+      ]
+    },
+    {
+      "word": "binoculars",
+      "filename": "binoculars.md",
+      "lines": [
+        "Binoculars are optical instruments.",
+        "Ferngläser sind optische Geräte.",
+        "双眼鏡は光学機器だ。",
+        "双筒望远镜是光学仪器。"
+      ]
+    }
+  ],
+  "problems": []
+}

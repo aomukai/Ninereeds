@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "crumpled",
+      "filename": "crumpled.md",
+      "lines": [
+        "A crumpled shirt is clothing.",
+        "Ein zerknittertes Hemd ist Kleidung.",
+        "しわくちゃのシャツは衣類だ。",
+        "皱巴巴的衬衫是衣服。"
+      ]
+    },
+    {
+      "word": "crumpling",
+      "filename": "crumpling.md",
+      "lines": [
+        "Crumpling is a deformation.",
+        "Zerknittern ist eine Verformung.",
+        "くしゃくしゃにすることは変形だ。",
+        "揉皱是一种变形。"
+      ]
+    },
+    {
+      "word": "crunch",
+      "filename": "crunch.md",
+      "lines": [
+        "A crunch is a sound.",
+        "Ein Knirschen ist ein Geräusch.",
+        "バリバリという音は音だ。",
+        "嘎吱声是一种声音。"
+      ]
+    },
+    {
+      "word": "crunchy",
+      "filename": "crunchy.md",
+      "lines": [
+        "A crunchy apple is a fruit.",
+        "Ein knuspriger Apfel ist eine Frucht.",
+        "サクサクのりんごは果物だ。",
+        "脆苹果是水果。"
+      ]
+    },
+    {
+      "word": "crush",
+      "filename": "crush.md",
+      "lines": [
+        "Crushing is a compression.",
+        "Zerdrücken ist eine Kompression.",
+        "押しつぶすことは圧縮だ。",
+        "压碎是一种压缩。"
+      ]
+    },
+    {
+      "word": "crust",
+      "filename": "crust.md",
+      "lines": [
+        "A crust is a covering.",
+        "Eine Kruste ist eine Hülle.",
+        "パンの皮は覆いだ。",
+        "面包皮是一种覆盖物。"
+      ]
+    },
+    {
+      "word": "cry",
+      "filename": "cry.md",
+      "lines": [
+        "Crying is a vocalization.",
+        "Weinen ist eine Lautäußerung.",
+        "泣くことは発声だ。",
+        "哭泣是一种发声。"
+      ]
+    },
+    {
+      "word": "crystal",
+      "filename": "crystal.md",
+      "lines": [
+        "A crystal is a mineral.",
+        "Ein Kristall ist ein Mineral.",
+        "結晶は鉱物だ。",
+        "水晶是一种矿物。"
+      ]
+    },
+    {
+      "word": "cubby",
+      "filename": "cubby.md",
+      "lines": [
+        "A cubby is a small space.",
+        "Ein Fach ist ein kleiner Raum.",
+        "小部屋は小さな空間だ。",
+        "小隔间是一个小空间。"
+      ]
+    },
+    {
+      "word": "cube",
+      "filename": "cube.md",
+      "lines": [
+        "A cube is a shape.",
+        "Ein Würfel ist eine Form.",
+        "立方体は形だ。",
+        "立方体是一种形状。"
+      ]
+    }
+  ],
+  "problems": []
+}

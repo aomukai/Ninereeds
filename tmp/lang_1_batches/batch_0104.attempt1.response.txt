@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "creating",
+      "filename": "creating.md",
+      "lines": [
+        "Creating is making something new.",
+        "Erschaffen ist das Herstellen von etwas Neuem.",
+        "創造することは新しいものを作ることだ。",
+        "创造就是做出新东西。"
+      ]
+    },
+    {
+      "word": "creation",
+      "filename": "creation.md",
+      "lines": [
+        "A creation is a product of imagination.",
+        "Eine Schöpfung ist ein Produkt der Fantasie.",
+        "創造物は想像力の産物だ。",
+        "创造物是想象力的产物。"
+      ]
+    },
+    {
+      "word": "creative",
+      "filename": "creative.md",
+      "lines": [
+        "A creative person is an artist.",
+        "Ein kreativer Mensch ist ein Künstler.",
+        "創造的な人は芸術家だ。",
+        "有创造力的人是艺术家。"
+      ]
+    },
+    {
+      "word": "creativity",
+      "filename": "creativity.md",
+      "lines": [
+        "Creativity is a human ability.",
+        "Kreativität ist eine menschliche Fähigkeit.",
+        "創造性は人間の能力だ。",
+        "创造力是人类的能力。"
+      ]
+    },
+    {
+      "word": "creator",
+      "filename": "creator.md",
+      "lines": [
+        "A creator is a maker of things.",
+        "Ein Schöpfer ist ein Hersteller von Dingen.",
+        "創造者は物を作る人だ。",
+        "创造者是制造东西的人。"
+      ]
+    },
+    {
+      "word": "creature",
+      "filename": "creature.md",
+      "lines": [
+        "A creature is a living being.",
+        "Eine Kreatur ist ein Lebewesen.",
+        "生き物は生命を持つ存在だ。",
+        "生物是有生命的个体。"
+      ]
+    },
+    {
+      "word": "credit",
+      "filename": "credit.md",
+      "lines": [
+        "Credit is a form of trust.",
+        "Kredit ist eine Form von Vertrauen.",
+        "信用は信頼の一形態だ。",
+        "信用是一种信任形式。"
+      ]
+    },
+    {
+      "word": "creek",
+      "filename": "creek.md",
+      "lines": [
+        "A creek is a small stream.",
+        "Ein Bach ist ein kleiner Fluss.",
+        "小川は小さな流れだ。",
+        "小溪是小河流。"
+      ]
+    },
+    {
+      "word": "creep",
+      "filename": "creep.md",
+      "lines": [
+        "Creeping is slow movement.",
+        "Kriechen ist langsame Bewegung.",
+        "這うことはゆっくりとした動きだ。",
+        "爬行是缓慢的移动。"
+      ]
+    },
+    {
+      "word": "creeping",
+      "filename": "creeping.md",
+      "lines": [
+        "Creeping is moving quietly.",
+        "Schleichen ist leise Bewegung.",
+        "忍び寄ることは静かな動きだ。",
+        "悄悄移动是安静的移动。"
+      ]
+    }
+  ],
+  "problems": []
+}

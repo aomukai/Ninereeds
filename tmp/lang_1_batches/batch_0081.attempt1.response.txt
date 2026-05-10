@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cody",
+      "filename": "cody.md",
+      "lines": [
+        "Cody is a name.",
+        "Cody ist ein Name.",
+        "コーディは名前だ。",
+        "Cody是一个名字。"
+      ]
+    },
+    {
+      "word": "coffee",
+      "filename": "coffee.md",
+      "lines": [
+        "Coffee is a drink.",
+        "Kaffee ist ein Getränk.",
+        "コーヒーは飲み物だ。",
+        "咖啡是饮料。"
+      ]
+    },
+    {
+      "word": "coherent",
+      "filename": "coherent.md",
+      "lines": [
+        "A coherent film is a story.",
+        "Ein kohärenter Film ist eine Geschichte.",
+        "首尾一貫した映画は物語だ。",
+        "连贯的电影是故事。"
+      ]
+    },
+    {
+      "word": "cohesive",
+      "filename": "cohesive.md",
+      "lines": [
+        "A cohesive team is a unit.",
+        "Ein zusammenhaltendes Team ist eine Einheit.",
+        "結束力のあるチームはユニットだ。",
+        "有凝聚力的团队是单位。"
+      ]
+    },
+    {
+      "word": "coin",
+      "filename": "coin.md",
+      "lines": [
+        "A coin is money.",
+        "Eine Münze ist Geld.",
+        "硬貨はお金だ。",
+        "硬币是钱。"
+      ]
+    },
+    {
+      "word": "coincidence",
+      "filename": "coincidence.md",
+      "lines": [
+        "A coincidence is an event.",
+        "Ein Zufall ist ein Ereignis.",
+        "偶然は出来事だ。",
+        "巧合是事件。"
+      ]
+    },
+    {
+      "word": "coinciding",
+      "filename": "coinciding.md",
+      "lines": [
+        "Coinciding is an occurrence.",
+        "Zusammenfallen ist ein Ereignis.",
+        "同時に起こることは出来事だ。",
+        "同时发生是事件。"
+      ]
+    },
+    {
+      "word": "cold",
+      "filename": "cold.md",
+      "lines": [
+        "A cold water is a liquid.",
+        "Ein kaltes Wasser ist eine Flüssigkeit.",
+        "冷たい水は液体だ。",
+        "冷水是液体。"
+      ]
+    },
+    {
+      "word": "colder",
+      "filename": "colder.md",
+      "lines": [
+        "A colder winter is a season.",
+        "Ein kälterer Winter ist eine Jahreszeit.",
+        "より寒い冬は季節だ。",
+        "更冷的冬天是季节。"
+      ]
+    },
+    {
+      "word": "cole",
+      "filename": "cole.md",
+      "lines": [
+        "Cole is a vegetable.",
+        "Kohl ist ein Gemüse.",
+        "コールは野菜だ。",
+        "甘蓝是蔬菜。"
+      ]
+    }
+  ],
+  "problems": []
+}

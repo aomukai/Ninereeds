@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778430657-u3Xea7g2oj9cISKs63Eq",
+  "object": "chat.completion",
+  "created": 1778430657,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"counselor\",\n      \"filename\": \"counselor.md\",\n      \"lines\": [\n        \"A counselor is a helper.\",\n        \"Ein Berater ist ein Helfer.\",\n        \"カウンセラーは助言者だ。\",\n        \"顾问是帮助者。\"\n      ]\n    },\n    {\n      \"word\": \"count\",\n      \"filename\": \"count.md\",\n      \"lines\": [\n        \"Counting is calculation.\",\n        \"Zählen ist Berechnung.\",\n        \"数えることは計算だ。\",\n        \"数数是计算。\"\n      ]\n    },\n    {\n      \"word\": \"counter\",\n      \"filename\": \"counter.md\",\n      \"lines\": [\n        \"A counter is a surface.\",\n        \"Eine Theke ist eine Fläche.\",\n        \"カウンターは台だ。\",\n        \"柜台是台面。\"\n      ]\n    },\n    {\n      \"word\": \"country\",\n      \"filename\": \"country.md\",\n      \"lines\": [\n        \"A country is a region.\",\n        \"Ein Land ist eine Region.\",\n        \"国は地域だ。\",\n        \"国家是区域。\"\n      ]\n    },\n    {\n      \"word\": \"countryside\",\n      \"filename\": \"countryside.md\",\n      \"lines\": [\n        \"The countryside is a landscape.\",\n        \"Die Landschaft ist eine Gegend.\",\n        \"田舎は風景だ。\",\n        \"乡村是风景。\"\n      ]\n    },\n    {\n      \"word\": \"coupling\",\n      \"filename\": \"coupling.md\",\n      \"lines\": [\n        \"Coupling is connection.\",\n        \"Kuppeln ist Verbindung.\",\n        \"連結は接続だ。\",\n        \"连接是联结。\"\n      ]\n    },\n    {\n      \"word\": \"courage\",\n      \"filename\": \"courage.md\",\n      \"lines\": [\n        \"Courage is a quality.\",\n        \"Mut ist eine Eigenschaft.\",\n        \"勇気は性質だ。\",\n        \"勇气是品质。\"\n      ]\n    },\n    {\n      \"word\": \"course\",\n      \"filename\": \"course.md\",\n      \"lines\": [\n        \"A course is a path.\",\n        \"Ein Kurs ist ein Weg.\",\n        \"コースは道だ。\",\n        \"课程是路径。\"\n      ]\n    },\n    {\n      \"word\": \"courtyard\",\n      \"filename\": \"courtyard.md\",\n      \"lines\": [\n        \"A courtyard is an area.\",\n        \"Ein Innenhof ist ein Bereich.\",\n        \"中庭は場所だ。\",\n        \"庭院是区域。\"\n      ]\n    },\n    {\n      \"word\": \"cousin\",\n      \"filename\": \"cousin.md\",\n      \"lines\": [\n        \"A cousin is a relative.\",\n        \"Ein Cousin ist ein Verwandter.\",\n        \"いとこは親戚だ。\",\n        \"表兄弟是亲戚。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 721,
+    "completion_tokens": 634,
+    "total_tokens": 1355,
+    "cost": 0.0002756754,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00027846,
+      "upstream_inference_prompt_cost": 0.00010094,
+      "upstream_inference_completions_cost": 0.00017752
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

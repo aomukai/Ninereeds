@@ -32,3 +32,18 @@
 
 [user]what does whose turn is it mean?
 [Ninereeds]Whose turn is it means which person should go next. Children ask this in games, lines, and group activities. The question helps people share fairly and keep order. Knowing whose turn it is can stop arguments. Whose turn is it is not order.
+
+[user]what is management?
+[Ninereeds]Management is the act of organizing people and resources toward a goal. A store manager uses management to set schedules and guide workers. A school principal uses management to plan lessons and run the school. Leaders help teams work together. Management is not control.
+
+[user]what is membership?
+[Ninereeds]Membership is a way for a person to become part of a group. A person can join a library and get a card. A person can sign up for a sports team and play games. Membership often gives special access to events or spaces. Membership is not ownership.
+
+[user]what is an organization?
+[Ninereeds]Organization is a group of people who work together for a common purpose. a school is one kind of group. teachers and students each have different roles in the school. the group helps people reach goals that are larger than one person can reach alone. organization is not chaos.
+
+[user]what is participation?
+[Ninereeds]Participation means taking part in an activity with other people. a child can show taking part by joining a game at recess. a student can show taking part by raising a hand to answer a question in class. everyone in a class can take part together. participation is not standing alone.
+
+[user]what is unity?
+[Ninereeds]Unity is a condition of different parts working together as a single whole. A team shows unity when all members pull in the same direction toward a shared goal. A family meal brings people closer in togetherness. Unity is not separation.

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "click",
+      "filename": "click.md",
+      "lines": [
+        "Clicking is an action.",
+        "Klicken ist eine Handlung.",
+        "クリックすることは動作だ。",
+        "点击是一种动作。"
+      ]
+    },
+    {
+      "word": "click-clack",
+      "filename": "click-clack.md",
+      "lines": [
+        "A click-clack is a sound.",
+        "Ein Klick-Klack ist ein Geräusch.",
+        "クリッククラックは音の一種だ。",
+        "咔嗒声是一种声音。"
+      ]
+    },
+    {
+      "word": "cliff",
+      "filename": "cliff.md",
+      "lines": [
+        "A cliff is a landform.",
+        "Eine Klippe ist eine Landform.",
+        "崖は地形の一種だ。",
+        "悬崖是一种地形。"
+      ]
+    },
+    {
+      "word": "climate",
+      "filename": "climate.md",
+      "lines": [
+        "Climate is a weather pattern.",
+        "Klima ist ein Wetterverlauf.",
+        "気候は気象パターンだ。",
+        "气候是一种天气模式。"
+      ]
+    },
+    {
+      "word": "climax",
+      "filename": "climax.md",
+      "lines": [
+        "A climax is a peak.",
+        "Ein Höhepunkt ist ein Gipfel.",
+        "クライマックスは頂点だ。",
+        "高潮是顶点。"
+      ]
+    },
+    {
+      "word": "climb",
+      "filename": "climb.md",
+      "lines": [
+        "Climbing is movement.",
+        "Klettern ist Bewegung.",
+        "登ることは移動だ。",
+        "攀登是移动。"
+      ]
+    },
+    {
+      "word": "cling",
+      "filename": "cling.md",
+      "lines": [
+        "Clinging is a holding action.",
+        "Festhalten ist eine Halteaktion.",
+        "しがみつくことは保持動作だ。",
+        "紧贴是一种保持动作。"
+      ]
+    },
+    {
+      "word": "clinic",
+      "filename": "clinic.md",
+      "lines": [
+        "A clinic is a medical facility.",
+        "Eine Klinik ist eine medizinische Einrichtung.",
+        "クリニックは医療施設だ。",
+        "诊所是一种医疗设施。"
+      ]
+    },
+    {
+      "word": "clip",
+      "filename": "clip.md",
+      "lines": [
+        "Clipping is a cutting action.",
+        "Abschneiden ist eine Schneideaktion.",
+        "切り取ることは切断動作だ。",
+        "剪裁是一种切割动作。"
+      ]
+    },
+    {
+      "word": "clipboard",
+      "filename": "clipboard.md",
+      "lines": [
+        "A clipboard is a portable board.",
+        "Ein Klemmbrett ist eine tragbare Tafel.",
+        "クリップボードは携帯用の板だ。",
+        "剪贴板是一种便携板。"
+      ]
+    }
+  ],
+  "problems": []
+}

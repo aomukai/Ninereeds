@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "dead",
+      "filename": "dead.md",
+      "lines": [
+        "A dead bird is an animal.",
+        "Ein toter Vogel ist ein Tier.",
+        "死んだ鳥は動物だ。",
+        "死鸟是动物。"
+      ]
+    },
+    {
+      "word": "deal",
+      "filename": "deal.md",
+      "lines": [
+        "Dealing is trading.",
+        "Handeln ist Tausch.",
+        "取引することは交換だ。",
+        "做交易是交换。"
+      ]
+    },
+    {
+      "word": "dean",
+      "filename": "dean.md",
+      "lines": [
+        "A dean is a leader.",
+        "Ein Dekan ist ein Leiter.",
+        "学部長はリーダーだ。",
+        "院长是领导。"
+      ]
+    },
+    {
+      "word": "death",
+      "filename": "death.md",
+      "lines": [
+        "Death is an end.",
+        "Der Tod ist ein Ende.",
+        "死は終わりだ。",
+        "死亡是终结。"
+      ]
+    },
+    {
+      "word": "debate",
+      "filename": "debate.md",
+      "lines": [
+        "Debating is discussion.",
+        "Debattieren ist Diskussion.",
+        "討論することは議論だ。",
+        "辩论是讨论。"
+      ]
+    },
+    {
+      "word": "debt",
+      "filename": "debt.md",
+      "lines": [
+        "A debt is an obligation.",
+        "Eine Schuld ist eine Verpflichtung.",
+        "借金は義務だ。",
+        "债务是义务。"
+      ]
+    },
+    {
+      "word": "decade",
+      "filename": "decade.md",
+      "lines": [
+        "A decade is a period.",
+        "Ein Jahrzehnt ist ein Zeitraum.",
+        "十年は期間だ。",
+        "十年是一段时间。"
+      ]
+    },
+    {
+      "word": "decide",
+      "filename": "decide.md",
+      "lines": [
+        "Deciding is choosing.",
+        "Entscheiden ist Wählen.",
+        "決断することは選択だ。",
+        "做决定是选择。"
+      ]
+    },
+    {
+      "word": "decided",
+      "filename": "decided.md",
+      "lines": [
+        "A decided matter is a fact.",
+        "Eine entschiedene Sache ist eine Tatsache.",
+        "決まったことは事実だ。",
+        "已决定的事是事实。"
+      ]
+    },
+    {
+      "word": "deciding",
+      "filename": "deciding.md",
+      "lines": [
+        "Deciding is choosing.",
+        "Entscheiden ist Wählen.",
+        "決断することは選択だ。",
+        "做决定是选择。"
+      ]
+    }
+  ],
+  "problems": []
+}

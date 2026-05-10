@@ -47,3 +47,21 @@
 
 [user]what is a clinic?
 [Ninereeds]A clinic is a place where people go to see a doctor or nurse for medical help. A clinic may help with checkups, small injuries, or sickness. A clinic is usually smaller than a hospital. A clinic is not the same as a pharmacy.
+
+[user]what is a cafeteria?
+[Ninereeds]A cafeteria is a big room inside a school building where students eat food at lunch time. Students pick a tray and choose from different foods such as hot meals or cold sandwiches. Tables and chairs fill the room for kids to sit and eat together. A cafeteria is not a kitchen.
+
+[user]what is a delivery?
+[Ninereeds]This is delivery. Delivery brings a package from one place to another place. A driver takes a box from a store to a home. A worker brings food from a restaurant to a door. delivery is not pickup.
+
+[user]what is a department?
+[Ninereeds]A department is one part of a big store. A clothing section sells shirts and pants. A toy section sells toys and games. A household section sells items for the home. Each section does one kind of work. Department is not a whole store.
+
+[user]what is a nation?
+[Ninereeds]A country is a large group of people who share a common language, culture, history, and set of rules. A country often has land with borders. France is one example. China is another example. People in a country share a sense of belonging. Nation is not a single town.
+
+[user]what is a site?
+[Ninereeds]A site is a place where something stands or where something happens. A school building stands on land for learning. People build a new store for selling things. The place has a special purpose. Site is not a person.
+
+[user]what is a town?
+[Ninereeds]A town is a place where people live and work together. This settlement has houses, shops, schools, and streets. Many towns have a main street with a market and a church. For example, people can walk to a bakery in this settlement. The center of this settlement is a gathering place for the community. town is not a wilderness.

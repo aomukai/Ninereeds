@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "consuming",
+      "filename": "consuming.md",
+      "lines": [
+        "Consuming is intake.",
+        "Konsumieren ist Aufnahme.",
+        "消費することは摂取だ。",
+        "消费是摄入。"
+      ]
+    },
+    {
+      "word": "contact",
+      "filename": "contact.md",
+      "lines": [
+        "A contact is a connection.",
+        "Ein Kontakt ist eine Verbindung.",
+        "コンタクトは接続だ。",
+        "联系是一种连接。"
+      ]
+    },
+    {
+      "word": "contain",
+      "filename": "contain.md",
+      "lines": [
+        "Containing is enclosing.",
+        "Enthalten ist Einschließen.",
+        "含むことは封じ込めることだ。",
+        "包含是封闭。"
+      ]
+    },
+    {
+      "word": "contained",
+      "filename": "contained.md",
+      "lines": [
+        "A contained area is a space.",
+        "Ein eingeschlossener Bereich ist ein Raum.",
+        "閉じ込められた領域は空間だ。",
+        "封闭的区域是空间。"
+      ]
+    },
+    {
+      "word": "container",
+      "filename": "container.md",
+      "lines": [
+        "A container is a vessel.",
+        "Ein Behälter ist ein Gefäß.",
+        "容器は入れ物だ。",
+        "容器是器皿。"
+      ]
+    },
+    {
+      "word": "containing",
+      "filename": "containing.md",
+      "lines": [
+        "Containing is encompassing.",
+        "Enthalten ist Umfassen.",
+        "含むことは包括だ。",
+        "包含是涵盖。"
+      ]
+    },
+    {
+      "word": "contending",
+      "filename": "contending.md",
+      "lines": [
+        "Contending is competing.",
+        "Wetteifern ist Konkurrieren.",
+        "競うことは競争だ。",
+        "竞争是竞赛。"
+      ]
+    },
+    {
+      "word": "content",
+      "filename": "content.md",
+      "lines": [
+        "Content is substance.",
+        "Inhalt ist Substanz.",
+        "内容は実質だ。",
+        "内容是实质。"
+      ]
+    },
+    {
+      "word": "contenting",
+      "filename": "contenting.md",
+      "lines": [
+        "Contenting is pleasing.",
+        "Zufriedenstellen ist Erfreuen.",
+        "満足させることは喜ばせることだ。",
+        "使满足是取悦。"
+      ]
+    },
+    {
+      "word": "contest",
+      "filename": "contest.md",
+      "lines": [
+        "A contest is a competition.",
+        "Ein Wettbewerb ist ein Wettkampf.",
+        "コンテストは競技だ。",
+        "比赛是竞赛。"
+      ]
+    }
+  ],
+  "problems": []
+}

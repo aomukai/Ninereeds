@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "correctness",
+      "filename": "correctness.md",
+      "lines": [
+        "Correctness is a property.",
+        "Korrektheit ist eine Eigenschaft.",
+        "正確さは特性だ。",
+        "正确性是一种特性。"
+      ]
+    },
+    {
+      "word": "corresponding",
+      "filename": "corresponding.md",
+      "lines": [
+        "A corresponding entry is a record.",
+        "Ein entsprechender Eintrag ist ein Datensatz.",
+        "対応するエントリは記録だ。",
+        "对应的条目是记录。"
+      ]
+    },
+    {
+      "word": "cost",
+      "filename": "cost.md",
+      "lines": [
+        "Cost is an expense.",
+        "Kosten sind eine Ausgabe.",
+        "コストは経費だ。",
+        "成本是一种费用。"
+      ]
+    },
+    {
+      "word": "costing",
+      "filename": "costing.md",
+      "lines": [
+        "Costing is a calculation.",
+        "Kosten ist eine Berechnung.",
+        "原価計算は計算だ。",
+        "成本计算是一种计算。"
+      ]
+    },
+    {
+      "word": "costume",
+      "filename": "costume.md",
+      "lines": [
+        "A costume is an outfit.",
+        "Ein Kostüm ist ein Outfit.",
+        "コスチュームは衣装だ。",
+        "服装是一种服饰。"
+      ]
+    },
+    {
+      "word": "cotton",
+      "filename": "cotton.md",
+      "lines": [
+        "Cotton is a material.",
+        "Baumwolle ist ein Material.",
+        "綿は素材だ。",
+        "棉花是一种材料。"
+      ]
+    },
+    {
+      "word": "couch",
+      "filename": "couch.md",
+      "lines": [
+        "A couch is a piece of furniture.",
+        "Ein Sofa ist ein Möbelstück.",
+        "ソファは家具だ。",
+        "沙发是一种家具。"
+      ]
+    },
+    {
+      "word": "cough",
+      "filename": "cough.md",
+      "lines": [
+        "Coughing is a reflex.",
+        "Husten ist ein Reflex.",
+        "咳は反射だ。",
+        "咳嗽是一种反射。"
+      ]
+    },
+    {
+      "word": "could",
+      "filename": "could.md",
+      "lines": [
+        "Could is a modal verb.",
+        "Could ist ein Modalverb.",
+        "クッドは法助動詞だ。",
+        "Could是一个情态动词。"
+      ]
+    },
+    {
+      "word": "counseling",
+      "filename": "counseling.md",
+      "lines": [
+        "Counseling is a service.",
+        "Beratung ist eine Dienstleistung.",
+        "カウンセリングはサービスだ。",
+        "咨询是一种服务。"
+      ]
+    }
+  ],
+  "problems": []
+}

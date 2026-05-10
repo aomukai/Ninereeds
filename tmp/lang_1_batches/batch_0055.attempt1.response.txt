@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "burnt",
+      "filename": "burnt.md",
+      "lines": [
+        "A burnt pancake is food.",
+        "Ein verbrannter Pfannkuchen ist ein Nahrungsmittel.",
+        "焦げたパンケーキは食べ物だ。",
+        "烧焦的煎饼是食物。"
+      ]
+    },
+    {
+      "word": "burrow",
+      "filename": "burrow.md",
+      "lines": [
+        "A burrow is a hole.",
+        "Ein Bau ist ein Loch.",
+        "巣穴は穴だ。",
+        "地洞是洞。"
+      ]
+    },
+    {
+      "word": "burst",
+      "filename": "burst.md",
+      "lines": [
+        "Bursting is an action.",
+        "Platzen ist eine Aktion.",
+        "破裂は動作だ。",
+        "爆裂是一种动作。"
+      ]
+    },
+    {
+      "word": "bus",
+      "filename": "bus.md",
+      "lines": [
+        "A bus is a vehicle.",
+        "Ein Bus ist ein Fahrzeug.",
+        "バスは乗り物だ。",
+        "巴士是车辆。"
+      ]
+    },
+    {
+      "word": "bush",
+      "filename": "bush.md",
+      "lines": [
+        "A bush is a plant.",
+        "Ein Strauch ist eine Pflanze.",
+        "茂みは植物だ。",
+        "灌木是植物。"
+      ]
+    },
+    {
+      "word": "bushy",
+      "filename": "bushy.md",
+      "lines": [
+        "A bushy plant is a shrub.",
+        "Eine buschige Pflanze ist ein Strauch.",
+        "茂った植物は低木だ。",
+        "茂密的植物是灌木。"
+      ]
+    },
+    {
+      "word": "business",
+      "filename": "business.md",
+      "lines": [
+        "A business is a company.",
+        "Ein Geschäft ist ein Unternehmen.",
+        "ビジネスは会社だ。",
+        "商业是公司。"
+      ]
+    },
+    {
+      "word": "busy",
+      "filename": "busy.md",
+      "lines": [
+        "A busy market is a place.",
+        "Ein belebter Markt ist ein Ort.",
+        "賑やかな市場は場所だ。",
+        "繁忙的市场是地方。"
+      ]
+    },
+    {
+      "word": "busying",
+      "filename": "busying.md",
+      "lines": [
+        "Busying is an activity.",
+        "Sich beschäftigen ist eine Tätigkeit.",
+        "忙しくすることは活動だ。",
+        "忙碌是一种活动。"
+      ]
+    },
+    {
+      "word": "butcher",
+      "filename": "butcher.md",
+      "lines": [
+        "A butcher is a person.",
+        "Ein Metzger ist eine Person.",
+        "肉屋は人だ。",
+        "屠夫是人。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -62,3 +62,24 @@
 
 [user]what is a magazine?
 [Ninereeds]A magazine is a printed or digital publication that comes out regularly and has many articles, pictures, and stories inside. Magazines are usually shorter than books and cover a topic like animals, science, or news. A new issue of a magazine comes out each week or month. A magazine is not a book.
+
+[user]what is an assessment?
+[Ninereeds]An assessment is a way for a teacher to find what a child knows. A teacher gives a child questions to answer. The answers show what the child has learned at school. An assessment helps a teacher see where a child needs more work. Assessment is not a game.
+
+[user]what is an assignment?
+[Ninereeds]An assignment is a task a teacher gives a student. A teacher asks a student to answer math problems on paper or read a book and write answers to questions. A student finishes the work and hands the work to a teacher for marks. The work has a due time for when a student must give the work back. Assignment is not a free playtime.
+
+[user]what is an attendance?
+[Ninereeds]Attendance means a child goes to school or class and is present when the lesson begins. A teacher calls each name on a list to mark who is in the room. A child who shows up on time is present each day. A child who stays home has an absence. This helps everyone know who is ready for the day. Attendance is not a grade.
+
+[user]what is an edition?
+[Ninereeds]An edition is one version of a book. A first edition is the first time a book is printed. The second version has corrections and changes. A school textbook can get new versions. Edition is not a single copy.
+
+[user]what is an entry?
+[Ninereeds]An entry is a way to go into a room or a building. A door is one kind of entry. A gate opens to let people go inside. People use an entry to move from outside to inside. An entry is not an exit.
+
+[user]what is schoolwork?
+[Ninereeds]Schoolwork is work that teachers give to students. This work helps students learn new things. The work includes tasks like reading books, writing words, and counting numbers. Students do the work in a classroom and at home. The work gives students a chance to practice skills and grow in knowledge. Schoolwork is not a game.
+
+[user]what is a workshop?
+[Ninereeds]A workshop is a room with tools for building and fixing things. A wood workshop has saws and hammers for cutting and shaping wood. A metal room has tools for shaping metal pieces. People use the room to create furniture, toys, or shelves. A workshop is not a classroom.

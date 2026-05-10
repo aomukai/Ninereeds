@@ -32,3 +32,12 @@
 
 [user]what are pajamas?
 [Ninereeds]Pajamas are clothes worn for sleeping. Pajamas are often soft and comfortable. People usually put on pajamas before going to bed. Pajamas are not school clothes.
+
+[user]what does it mean to arrange?
+[Ninereeds]To arrange is to put things in a certain order or pattern. A person can put books on a shelf by sizes. A person can group toys in a room by kinds. Arranging makes items neat and easy to find. Arrange is not chaos.
+
+[user]what does daily mean?
+[Ninereeds]Daily means something that happens each day. Washing hands before meals is a daily event for many children. Going to school or work happens each weekday. Eating breakfast each morning is a habit for many people. Daily is not rare.
+
+[user]what is a procedure?
+[Ninereeds]A procedure is a set of steps that tells a person how to do something in the same way each time. A recipe for baking bread is one kind. The recipe tells a person which parts to add first and which parts to mix next. Following each step in the correct order helps a person make the same result without mistakes. This kind of plan makes a long task easy to follow. Procedure is not a guess.

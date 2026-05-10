@@ -1,0 +1,2 @@
+[user]what is improvement?
+[Ninereeds]Improvement is the process of making a thing better. A child can improve at reading by practicing reading every day. Giving water and sunlight to a plant helps the plant grow strong. Improvement is not perfection.

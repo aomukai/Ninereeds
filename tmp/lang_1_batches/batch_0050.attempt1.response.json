@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778426082-mToHpMVAealM1BNa3PnL",
+  "object": "chat.completion",
+  "created": 1778426082,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"brick\",\n      \"filename\": \"brick.md\",\n      \"lines\": [\n        \"A brick is a building material.\",\n        \"Ein Ziegel ist ein Baumaterial.\",\n        \"レンガは建築材料だ。\",\n        \"砖是建筑材料。\"\n      ]\n    },\n    {\n      \"word\": \"bridge\",\n      \"filename\": \"bridge.md\",\n      \"lines\": [\n        \"A bridge is a structure.\",\n        \"Eine Brücke ist ein Bauwerk.\",\n        \"橋は構造物だ。\",\n        \"桥是建筑物。\"\n      ]\n    },\n    {\n      \"word\": \"bridling\",\n      \"filename\": \"bridling.md\",\n      \"lines\": [\n        \"Bridling is restraining.\",\n        \"Zügeln ist Zurückhalten.\",\n        \"手綱を引くことは抑制だ。\",\n        \"勒缰是抑制。\"\n      ]\n    },\n    {\n      \"word\": \"brief\",\n      \"filename\": \"brief.md\",\n      \"lines\": [\n        \"A brief meeting is a short meeting.\",\n        \"Ein kurzes Treffen ist ein kurzes Treffen.\",\n        \"短い会議は短い会議だ。\",\n        \"简短的会议是短会议。\"\n      ]\n    },\n    {\n      \"word\": \"bright\",\n      \"filename\": \"bright.md\",\n      \"lines\": [\n        \"A bright star is a star.\",\n        \"Ein heller Stern ist ein Stern.\",\n        \"明るい星は星だ。\",\n        \"明亮的星星是星星。\"\n      ]\n    },\n    {\n      \"word\": \"brightening\",\n      \"filename\": \"brightening.md\",\n      \"lines\": [\n        \"Brightening is lightening.\",\n        \"Aufhellen ist Erhellen.\",\n        \"明るくすることは光を増すことだ。\",\n        \"变亮是增光。\"\n      ]\n    },\n    {\n      \"word\": \"brighter\",\n      \"filename\": \"brighter.md\",\n      \"lines\": [\n        \"A brighter lamp is a lamp.\",\n        \"Eine hellere Lampe ist eine Lampe.\",\n        \"より明るいランプはランプだ。\",\n        \"更亮的灯是灯。\"\n      ]\n    },\n    {\n      \"word\": \"brightnes\",\n      \"filename\": \"brightnes.md\",\n      \"lines\": [\n        \"Brightness is a quality.\",\n        \"Helligkeit ist eine Eigenschaft.\",\n        \"明るさは性質だ。\",\n        \"亮度是性质。\"\n      ]\n    },\n    {\n      \"word\": \"brim\",\n      \"filename\": \"brim.md\",\n      \"lines\": [\n        \"A brim is an edge.\",\n        \"Ein Rand ist eine Kante.\",\n        \"縁は端だ。\",\n        \"边缘是边。\"\n      ]\n    },\n    {\n      \"word\": \"bring\",\n      \"filename\": \"bring.md\",\n      \"lines\": [\n        \"Bringing is carrying.\",\n        \"Bringen ist Tragen.\",\n        \"持ってくることは運ぶことだ。\",\n        \"带来是搬运。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 672,
+    "total_tokens": 1396,
+    "cost": 0.0002866248,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028952,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.00018816
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

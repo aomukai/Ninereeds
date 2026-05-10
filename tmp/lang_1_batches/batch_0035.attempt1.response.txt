@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "becoming",
+      "filename": "becoming.md",
+      "lines": [
+        "Becoming is transformation.",
+        "Werden ist Veränderung.",
+        "なることは変化だ。",
+        "成为是变化。"
+      ]
+    },
+    {
+      "word": "bed",
+      "filename": "bed.md",
+      "lines": [
+        "A bed is a piece of furniture.",
+        "Ein Bett ist ein Möbelstück.",
+        "ベッドは家具だ。",
+        "床是家具。"
+      ]
+    },
+    {
+      "word": "bedroom",
+      "filename": "bedroom.md",
+      "lines": [
+        "A bedroom is a room.",
+        "Ein Schlafzimmer ist ein Raum.",
+        "寝室は部屋だ。",
+        "卧室是房间。"
+      ]
+    },
+    {
+      "word": "bedsheet",
+      "filename": "bedsheet.md",
+      "lines": [
+        "A bedsheet is a covering.",
+        "Ein Bettlaken ist eine Abdeckung.",
+        "ベッドシーツはカバーだ。",
+        "床单是覆盖物。"
+      ]
+    },
+    {
+      "word": "bedtime",
+      "filename": "bedtime.md",
+      "lines": [
+        "Bedtime is a time.",
+        "Die Schlafenszeit ist eine Zeit.",
+        "就寝時間は時間だ。",
+        "就寝时间是一个时间。"
+      ]
+    },
+    {
+      "word": "bee",
+      "filename": "bee.md",
+      "lines": [
+        "A bee is an insect.",
+        "Eine Biene ist ein Insekt.",
+        "蜂は昆虫だ。",
+        "蜜蜂是昆虫。"
+      ]
+    },
+    {
+      "word": "beep",
+      "filename": "beep.md",
+      "lines": [
+        "A beep is a sound.",
+        "Ein Piepton ist ein Geräusch.",
+        "ビープ音は音だ。",
+        "哔哔声是声音。"
+      ]
+    },
+    {
+      "word": "beet",
+      "filename": "beet.md",
+      "lines": [
+        "A beet is a vegetable.",
+        "Eine Rote Bete ist ein Gemüse.",
+        "ビートは野菜だ。",
+        "甜菜是蔬菜。"
+      ]
+    },
+    {
+      "word": "beetle",
+      "filename": "beetle.md",
+      "lines": [
+        "A beetle is an insect.",
+        "Ein Käfer ist ein Insekt.",
+        "甲虫は昆虫だ。",
+        "甲虫是昆虫。"
+      ]
+    },
+    {
+      "word": "beginner",
+      "filename": "beginner.md",
+      "lines": [
+        "A beginner is a person.",
+        "Ein Anfänger ist eine Person.",
+        "初心者は人だ。",
+        "初学者是人。"
+      ]
+    }
+  ],
+  "problems": []
+}

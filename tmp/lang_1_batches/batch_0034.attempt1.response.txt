@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "beam of light",
+      "filename": "beam_of_light.md",
+      "lines": [
+        "A beam of light is a form of light.",
+        "Ein Lichtstrahl ist eine Form von Licht.",
+        "光線は光の一種だ。",
+        "光束是光的一种形式。"
+      ]
+    },
+    {
+      "word": "bean",
+      "filename": "bean.md",
+      "lines": [
+        "A bean is a seed.",
+        "Eine Bohne ist ein Samen.",
+        "豆は種子だ。",
+        "豆子是种子。"
+      ]
+    },
+    {
+      "word": "bear",
+      "filename": "bear.md",
+      "lines": [
+        "A bear is an animal.",
+        "Ein Bär ist ein Tier.",
+        "熊は動物だ。",
+        "熊是动物。"
+      ]
+    },
+    {
+      "word": "beard",
+      "filename": "beard.md",
+      "lines": [
+        "A beard is facial hair.",
+        "Ein Bart ist Gesichtshaar.",
+        "ひげは顔の毛だ。",
+        "胡须是面部毛发。"
+      ]
+    },
+    {
+      "word": "beat",
+      "filename": "beat.md",
+      "lines": [
+        "Beating is a movement.",
+        "Schlagen ist eine Bewegung.",
+        "叩くことは動作だ。",
+        "敲打是动作。"
+      ]
+    },
+    {
+      "word": "beautiful",
+      "filename": "beautiful.md",
+      "lines": [
+        "A beautiful flower is a plant.",
+        "Eine schöne Blume ist eine Pflanze.",
+        "美しい花は植物だ。",
+        "美丽的花是植物。"
+      ]
+    },
+    {
+      "word": "beauty",
+      "filename": "beauty.md",
+      "lines": [
+        "Beauty is a quality.",
+        "Schönheit ist eine Eigenschaft.",
+        "美しさは性質だ。",
+        "美丽是一种品质。"
+      ]
+    },
+    {
+      "word": "beaver",
+      "filename": "beaver.md",
+      "lines": [
+        "A beaver is an animal.",
+        "Ein Biber ist ein Tier.",
+        "ビーバーは動物だ。",
+        "河狸是动物。"
+      ]
+    },
+    {
+      "word": "became",
+      "filename": "became.md",
+      "lines": [
+        "Becoming is a change.",
+        "Werden ist eine Veränderung.",
+        "なることは変化だ。",
+        "变成是一种变化。"
+      ]
+    },
+    {
+      "word": "become",
+      "filename": "become.md",
+      "lines": [
+        "Becoming is a process.",
+        "Werden ist ein Prozess.",
+        "なることは過程だ。",
+        "变成是一个过程。"
+      ]
+    }
+  ],
+  "problems": []
+}

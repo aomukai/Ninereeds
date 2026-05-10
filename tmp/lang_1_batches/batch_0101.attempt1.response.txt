@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "counselor",
+      "filename": "counselor.md",
+      "lines": [
+        "A counselor is a helper.",
+        "Ein Berater ist ein Helfer.",
+        "カウンセラーは助言者だ。",
+        "顾问是帮助者。"
+      ]
+    },
+    {
+      "word": "count",
+      "filename": "count.md",
+      "lines": [
+        "Counting is calculation.",
+        "Zählen ist Berechnung.",
+        "数えることは計算だ。",
+        "数数是计算。"
+      ]
+    },
+    {
+      "word": "counter",
+      "filename": "counter.md",
+      "lines": [
+        "A counter is a surface.",
+        "Eine Theke ist eine Fläche.",
+        "カウンターは台だ。",
+        "柜台是台面。"
+      ]
+    },
+    {
+      "word": "country",
+      "filename": "country.md",
+      "lines": [
+        "A country is a region.",
+        "Ein Land ist eine Region.",
+        "国は地域だ。",
+        "国家是区域。"
+      ]
+    },
+    {
+      "word": "countryside",
+      "filename": "countryside.md",
+      "lines": [
+        "The countryside is a landscape.",
+        "Die Landschaft ist eine Gegend.",
+        "田舎は風景だ。",
+        "乡村是风景。"
+      ]
+    },
+    {
+      "word": "coupling",
+      "filename": "coupling.md",
+      "lines": [
+        "Coupling is connection.",
+        "Kuppeln ist Verbindung.",
+        "連結は接続だ。",
+        "连接是联结。"
+      ]
+    },
+    {
+      "word": "courage",
+      "filename": "courage.md",
+      "lines": [
+        "Courage is a quality.",
+        "Mut ist eine Eigenschaft.",
+        "勇気は性質だ。",
+        "勇气是品质。"
+      ]
+    },
+    {
+      "word": "course",
+      "filename": "course.md",
+      "lines": [
+        "A course is a path.",
+        "Ein Kurs ist ein Weg.",
+        "コースは道だ。",
+        "课程是路径。"
+      ]
+    },
+    {
+      "word": "courtyard",
+      "filename": "courtyard.md",
+      "lines": [
+        "A courtyard is an area.",
+        "Ein Innenhof ist ein Bereich.",
+        "中庭は場所だ。",
+        "庭院是区域。"
+      ]
+    },
+    {
+      "word": "cousin",
+      "filename": "cousin.md",
+      "lines": [
+        "A cousin is a relative.",
+        "Ein Cousin ist ein Verwandter.",
+        "いとこは親戚だ。",
+        "表兄弟是亲戚。"
+      ]
+    }
+  ],
+  "problems": []
+}

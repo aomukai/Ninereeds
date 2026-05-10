@@ -1,0 +1,2 @@
+[user]what is guidance?
+[Ninereeds]Guidance is help and direction given to someone. A teacher gives guidance to a child learning a new task. This help shows a person the correct way forward. The teacher offers clear steps and simple explanations. The help lets a child make good choices. Guidance is not force.

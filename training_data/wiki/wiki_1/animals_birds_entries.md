@@ -41,3 +41,9 @@
 
 [user]what is a swan?
 [Ninereeds]A swan is a very large white water bird with a long neck. Swans swim on lakes and rivers and eat plants in the water. They are strong birds and can protect their nests well. Swans can also fly and travel long distances. A swan is not a goose.
+
+[user]what is a beak?
+[Ninereeds]Beak is a hard pointed part of a bird mouth. birds use this body part to pick up food. some birds crack seeds with a beak. other birds catch insects between two hard parts. a long slim shape helps a bird drink nectar from flowers. beak is not a hand.
+
+[user]what is a flock?
+[Ninereeds]A flock is a group of birds that travel together. The group helps birds find food and watch for danger. Each bird in the group helps keep the group safe. Geese travel together to warm places during winter. Sparrows travel together in a group to find seeds. flock is not solitary.

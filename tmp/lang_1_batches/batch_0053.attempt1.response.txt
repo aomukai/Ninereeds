@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "buckle",
+      "filename": "buckle.md",
+      "lines": [
+        "A buckle is a fastener.",
+        "Eine Schnalle ist ein Verschluss.",
+        "バックルは留め具だ。",
+        "扣子是扣件。"
+      ]
+    },
+    {
+      "word": "bud",
+      "filename": "bud.md",
+      "lines": [
+        "A bud is a plant part.",
+        "Eine Knospe ist ein Pflanzenteil.",
+        "芽は植物の一部だ。",
+        "芽是植物的一部分。"
+      ]
+    },
+    {
+      "word": "buddy",
+      "filename": "buddy.md",
+      "lines": [
+        "A buddy is a friend.",
+        "Ein Kumpel ist ein Freund.",
+        "仲間は友達だ。",
+        "伙伴是朋友。"
+      ]
+    },
+    {
+      "word": "bug",
+      "filename": "bug.md",
+      "lines": [
+        "A bug is an insect.",
+        "Ein Käfer ist ein Insekt.",
+        "虫は昆虫だ。",
+        "虫子是昆虫。"
+      ]
+    },
+    {
+      "word": "build",
+      "filename": "build.md",
+      "lines": [
+        "Building is construction.",
+        "Bauen ist Konstruktion.",
+        "建てることは構築だ。",
+        "建造是建筑。"
+      ]
+    },
+    {
+      "word": "builder",
+      "filename": "builder.md",
+      "lines": [
+        "A builder is a worker.",
+        "Ein Bauarbeiter ist ein Arbeiter.",
+        "建設者は労働者だ。",
+        "建筑者是工人。"
+      ]
+    },
+    {
+      "word": "building",
+      "filename": "building.md",
+      "lines": [
+        "A building is a structure.",
+        "Ein Gebäude ist ein Bauwerk.",
+        "建物は構造物だ。",
+        "建筑物是结构。"
+      ]
+    },
+    {
+      "word": "built",
+      "filename": "built.md",
+      "lines": [
+        "A built house is a structure.",
+        "Ein gebautes Haus ist ein Bauwerk.",
+        "建てられた家は建物だ。",
+        "建成的房子是建筑物。"
+      ]
+    },
+    {
+      "word": "bulb",
+      "filename": "bulb.md",
+      "lines": [
+        "A bulb is a light source.",
+        "Ein Glühbirne ist eine Lichtquelle.",
+        "電球は光源だ。",
+        "灯泡是光源。"
+      ]
+    },
+    {
+      "word": "bull",
+      "filename": "bull.md",
+      "lines": [
+        "A bull is an animal.",
+        "Ein Bulle ist ein Tier.",
+        "雄牛は動物だ。",
+        "公牛是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

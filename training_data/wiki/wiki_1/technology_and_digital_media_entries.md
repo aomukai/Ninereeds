@@ -41,3 +41,30 @@
 
 [user]what is a username?
 [Ninereeds]A username is a name a person chooses to use on an app, game, or website. A username helps a device or other people know who is using it. Some usernames are real names and some are made-up names. A username is often used with a password to log in. A username is not a password.
+
+[user]what is code?
+[Ninereeds]Code is a set of instructions that tells a computer what to do. Writers use a special language of words and symbols to build programs. A program can be a game on a screen. Code commands the computer to follow each step in order. Code is not magic.
+
+[user]what is a device?
+[Ninereeds]A device is a human-made object that helps people do a task. A clock shows the time. A blender mixes food. These objects use electricity or batteries to work. Device is not a living thing.
+
+[user]what is a display?
+[Ninereeds]A display is a flat surface that shows pictures, words, and numbers. A computer screen is one kind of display. A phone or a tablet also has such a screen. A person can read the time or the weather on this surface. Display is not a thing that makes objects.
+
+[user]what is a format?
+[Ninereeds]A format is a way things are set up or arranged. A letter uses a format with a greeting at the start and a name at the end. A book has a beginning, a middle part, and an end. A list of words has one word on each line. Format is not random.
+
+[user]what is an input?
+[Ninereeds]Input is information that a person gives to a computer or machine. A person can type words on a keyboard to send text to a screen. A person can click buttons with a mouse to give commands to a computer. A person can speak into a microphone to send voice signals to a machine. Input is not output.
+
+[user]what is internet?
+[Ninereeds]Internet is a worldwide network that connects many computers. People use internet to find information and learn new things. A child can send messages or share pictures with friends. This network helps people communicate across the world. internet is not a single machine.
+
+[user]what is media?
+[Ninereeds]Media is a tool for sharing information with many people. Television shows and newspaper articles are types of media. People use this tool to watch movies and read news stories. Media is not a single object.
+
+[user]what is a program?
+[Ninereeds]A program is a set of instructions that tells a computer what to do. A calculator follows the same kind of instructions to add numbers. A game on a screen uses the same kind of instructions. People write instructions to solve problems and do tasks. program is not a toy.
+
+[user]what is a website?
+[Ninereeds]A website is a page on the internet. A site holds words, pictures, and videos. People visit a site on a computer screen. A site can give news or let people play games. Some sites help people learn or buy things. website is not a single room.

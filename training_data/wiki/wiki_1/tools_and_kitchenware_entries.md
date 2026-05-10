@@ -41,3 +41,18 @@
 
 [user]what is a plate?
 [Ninereeds]A plate is a flat piece of kitchenware used to hold food. Plates are usually round and may be made of ceramic, glass, or plastic. People put meals on a plate before eating. A plate can hold many kinds of food at once. A plate is not a pan.
+
+[user]what is a cane?
+[Ninereeds]Cane is a long stick made of wood or metal. a person holds a walking stick in one hand. this tool helps a person walk when a leg is hurt or feels unsteady. some people use a walking stick on a stair or on hard ground. cane is not a toy.
+
+[user]what is an equipment?
+[Ninereeds]Equipment is a set of tools or items that people use for a specific task or job. A hammer and a saw are tools for building. Pots and pans are tools for cooking. People need different sets of tools for different kinds of work. Equipment is not a single toy.
+
+[user]what is a fastener?
+[Ninereeds]Fastener is a tool that joins two pieces of cloth or other material together. a zipper uses teeth that lock together to close a jacket. a button goes through a loop of fabric to hold a shirt shut. a snap has two round metal or plastic pieces that push together. these tools keep bags, shoes, and pockets closed. fastener is not a single kind of object.
+
+[user]what is a scissors?
+[Ninereeds]Scissors is a cutting tool with two blades joined at a pivot point. The blades cross each other and cut materials such as paper and cloth. A person puts fingers through two handles and brings the handles together. The blades cut a line through thin materials. Children use scissors in school. Scissors is not a knife.
+
+[user]what is an utensil?
+[Ninereeds]A utensil is a tool for preparing and eating food. A fork picks up pieces of food. A spoon scoops broth or soup. A knife cuts food into smaller parts. Utensil is not a toy.

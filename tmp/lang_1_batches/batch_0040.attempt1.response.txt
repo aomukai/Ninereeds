@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "biologist",
+      "filename": "biologist.md",
+      "lines": [
+        "A biologist is a scientist.",
+        "Ein Biologe ist ein Wissenschaftler.",
+        "生物学者は科学者だ。",
+        "生物学家是科学家。"
+      ]
+    },
+    {
+      "word": "birch",
+      "filename": "birch.md",
+      "lines": [
+        "A birch is a tree.",
+        "Eine Birke ist ein Baum.",
+        "白樺は木だ。",
+        "桦树是树。"
+      ]
+    },
+    {
+      "word": "bird",
+      "filename": "bird.md",
+      "lines": [
+        "A bird is an animal.",
+        "Ein Vogel ist ein Tier.",
+        "鳥は動物だ。",
+        "鸟是动物。"
+      ]
+    },
+    {
+      "word": "birdhouse",
+      "filename": "birdhouse.md",
+      "lines": [
+        "A birdhouse is a house.",
+        "Ein Vogelhaus ist ein Haus.",
+        "鳥の巣箱は家だ。",
+        "鸟屋是房子。"
+      ]
+    },
+    {
+      "word": "birth",
+      "filename": "birth.md",
+      "lines": [
+        "A birth is an event.",
+        "Eine Geburt ist ein Ereignis.",
+        "出産は出来事だ。",
+        "出生是事件。"
+      ]
+    },
+    {
+      "word": "birthday",
+      "filename": "birthday.md",
+      "lines": [
+        "A birthday is a celebration.",
+        "Ein Geburtstag ist eine Feier.",
+        "誕生日はお祝いだ。",
+        "生日是庆祝。"
+      ]
+    },
+    {
+      "word": "bit",
+      "filename": "bit.md",
+      "lines": [
+        "A bit is a piece.",
+        "Ein Stück ist ein Teil.",
+        "一片は部分だ。",
+        "一小块是部分。"
+      ]
+    },
+    {
+      "word": "bite",
+      "filename": "bite.md",
+      "lines": [
+        "A bite is a wound.",
+        "Ein Biss ist eine Wunde.",
+        "噛み傷は傷だ。",
+        "咬伤是伤口。"
+      ]
+    },
+    {
+      "word": "biting",
+      "filename": "biting.md",
+      "lines": [
+        "Biting is an action.",
+        "Beißen ist eine Handlung.",
+        "噛むことは動作だ。",
+        "咬是动作。"
+      ]
+    },
+    {
+      "word": "bitter",
+      "filename": "bitter.md",
+      "lines": [
+        "A bitter lemon is a fruit.",
+        "Eine bittere Zitrone ist eine Frucht.",
+        "苦いレモンは果物だ。",
+        "苦柠檬是水果。"
+      ]
+    }
+  ],
+  "problems": []
+}

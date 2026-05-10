@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "compass",
+      "filename": "compass.md",
+      "lines": [
+        "A compass is a tool.",
+        "Ein Kompass ist ein Werkzeug.",
+        "コンパスは道具だ。",
+        "指南针是一种工具。"
+      ]
+    },
+    {
+      "word": "compassion",
+      "filename": "compassion.md",
+      "lines": [
+        "Compassion is a feeling.",
+        "Mitgefühl ist ein Gefühl.",
+        "思いやりは感情だ。",
+        "同情是一种情感。"
+      ]
+    },
+    {
+      "word": "compensation",
+      "filename": "compensation.md",
+      "lines": [
+        "Compensation is a payment.",
+        "Entschädigung ist eine Zahlung.",
+        "補償は支払いだ。",
+        "补偿是一种支付。"
+      ]
+    },
+    {
+      "word": "competency",
+      "filename": "competency.md",
+      "lines": [
+        "Competency is a skill.",
+        "Kompetenz ist eine Fähigkeit.",
+        "能力はスキルだ。",
+        "能力是一种技能。"
+      ]
+    },
+    {
+      "word": "competing",
+      "filename": "competing.md",
+      "lines": [
+        "Competing is a contest.",
+        "Konkurrieren ist ein Wettstreit.",
+        "競争することは活動だ。",
+        "竞争是一种行为。"
+      ]
+    },
+    {
+      "word": "competition",
+      "filename": "competition.md",
+      "lines": [
+        "Competition is an event.",
+        "Wettbewerb ist eine Veranstaltung.",
+        "競争はイベントだ。",
+        "竞争是一种活动。"
+      ]
+    },
+    {
+      "word": "complaint",
+      "filename": "complaint.md",
+      "lines": [
+        "A complaint is a statement.",
+        "Eine Beschwerde ist eine Aussage.",
+        "苦情は声明だ。",
+        "投诉是一种声明。"
+      ]
+    },
+    {
+      "word": "complete",
+      "filename": "complete.md",
+      "lines": [
+        "A complete puzzle is a toy.",
+        "Ein vollständiges Puzzle ist ein Spielzeug.",
+        "完全なパズルはおもちゃだ。",
+        "完整的拼图是一种玩具。"
+      ]
+    },
+    {
+      "word": "completenes",
+      "filename": "completenes.md",
+      "lines": [
+        "Completeness is a state.",
+        "Vollständigkeit ist ein Zustand.",
+        "完全性は状態だ。",
+        "完整性是一种状态。"
+      ]
+    },
+    {
+      "word": "completing",
+      "filename": "completing.md",
+      "lines": [
+        "Completing is a process.",
+        "Vervollständigen ist ein Prozess.",
+        "完了することはプロセスだ。",
+        "完成是一个过程。"
+      ]
+    }
+  ],
+  "problems": []
+}

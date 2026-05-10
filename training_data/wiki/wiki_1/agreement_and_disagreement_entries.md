@@ -23,3 +23,9 @@
 
 [user]what does not me mean?
 [Ninereeds]Not me means the same thing is not true for the speaker. A child may say not me when another person says I like loud music or I want juice. The phrase shows a difference in feeling, choice, or experience. Not me helps separate one person from another person's answer. Not me is not the same as me too.
+
+[user]what is an approval?
+[Ninereeds]Approval is a kind of yes from a person. A parent gives approval when a child asks to do something. A teacher has a kind word for good work. The yes tells a person that an action is good. approval is not a no.
+
+[user]what does it mean to disagree?
+[Ninereeds]Disagree means to have a different idea from another person. When two people see one topic in different ways, the people have a disagreement. For example, one friend says the sky is blue and another friend says the sky is gray. The two friends disagree about the color of the sky. Disagree is not a fight.

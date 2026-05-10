@@ -35,3 +35,6 @@
 
 [user]what does bland mean?
 [Ninereeds]Bland means having very little flavor or taste. A bland food is plain and does not feel strong or exciting in the mouth. Plain rice or plain bread can taste bland. Some people prefer bland food, and some find it boring. Bland is not spicy.
+
+[user]what is a perfume?
+[Ninereeds]Perfume is a liquid with a pleasant smell that people put on the body. people make perfume by mixing oils from flowers and other natural things. a small bottle can smell like rose or citrus fruit. a small amount on the skin can last for hours. many people wear this liquid for a special feeling. perfume is not a food.

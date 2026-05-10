@@ -119,3 +119,60 @@
 
 [user]what is disgust?
 [Ninereeds]Disgust is a strong feeling of not wanting something because it seems very unpleasant. People may feel disgust at a bad smell, a rotten food, or a very unpleasant sight. Disgust helps people avoid things that may be harmful. Disgust is not the same as anger.
+
+[user]what is amazement?
+[Ninereeds]Amazement is a strong feeling a person has when seeing a surprising and wonderful thing. A child might feel amazement when watching a lightning storm across a dark sky. A person feels the same feeling when seeing a vast ocean for the first time. The feeling makes a person stop and look with a quiet mind. Amazement is not boredom.
+
+[user]what does bored mean?
+[Ninereeds]Bored is a feeling a child gets when nothing interesting is happening. A bored child wants something fun to do. A bored child might walk around the house looking for a game or a book. The child feels like time is moving very slowly. bored is not rest.
+
+[user]what does brave mean?
+[Ninereeds]A brave person does something even when that person feels afraid. A child who helps a friend shows bravery. A grown person who helps another person in danger shows bravery. brave is not foolish.
+
+[user]what is a calm?
+[Ninereeds]Calm is a quiet feeling in the body and mind. A lake with still water shows one example of this state. Slow breathing and a gentle breeze also bring this feeling. This feeling helps a body rest well. Calm is not noise.
+
+[user]what is a cheer?
+[Ninereeds]A cheer is a loud shout from a group of people. People at a sport game give a cheer when a player wins. This sound shows happiness and excitement. This shout encourages a team. The noise brings people together. Cheer is not a whisper.
+
+[user]what does confused mean?
+[Ninereeds]Confused is a feeling a person has when a person does not understand something. A child might feel this way about a new game. The child does not know the rules of the game. The child does not know what to do next. Confused is not clear.
+
+[user]what does it mean to enjoy?
+[Ninereeds]A child enjoys eating a sweet piece of fruit. A person enjoys playing a game with close friends. Enjoyment comes from activities that make a person feel good. A warm day in the sun brings a simple happy feeling. The same good feeling fills both the mind and the body. Enjoyment is not a chore.
+
+[user]what is an enjoyment?
+[Ninereeds]Enjoyment is a happy feeling a person has during a fun activity or experience. a person feels this happy feeling when playing a game with a friend or laughing at a funny song. this feeling makes a person smile and feel warm inside. a person can find this happy feeling in simple things like reading a book or sitting outside in the sun. enjoyment is not boredom.
+
+[user]what does excited mean?
+[Ninereeds]Excited is a feeling of strong happiness about something good. A child feels this way before a birthday party. A person feels this way before a fun trip. The heart beats fast and the body wants to move. excited is not calm.
+
+[user]what does frustrated mean?
+[Ninereeds]Frustrated is a feeling a person has when something does not work the way the person wants. A child trying to fit a puzzle piece may feel frustrated when the piece does not fit. A person who cannot solve a problem may have this feeling too. This feeling can make a person want to stop trying. Frustrated is not calm.
+
+[user]what does glad mean?
+[Ninereeds]Glad describes a warm, happy feeling a person has when something good happens. a child feels this way after receiving a nice gift from a friend. this feeling comes from good events and kind acts. a warm smile shows the same kind of joy. glad is not sad.
+
+[user]what does grateful mean?
+[Ninereeds]Grateful is a warm feeling a person has when someone does something kind for that person. A person feels grateful when a friend shares lunch with that person. A person feels grateful when a neighbor helps carry heavy bags. This feeling brings happiness and makes a person want to show kindness in return. Grateful is not demanding.
+
+[user]what is a grudge?
+[Ninereeds]A grudge is a feeling of anger that a person holds against another person for a long time after a wrong or an unfair act. A person might hold anger against a friend who told a lie. A person might stay angry at a sibling who broke a favorite toy. This angry feeling can make a person feel sad and upset. Giving forgiveness can bring peace. Grudge is not forgiveness.
+
+[user]what does hurtful mean?
+[Ninereeds]This word describes actions that make a person feel pain inside. Hitting is a hurtful action. Calling someone a mean name is also a hurtful action. Such actions can leave bruises on the body and wounds on feelings. Hurtful is not kind.
+
+[user]what is laughter?
+[Ninereeds]Laughter is a sound that people make when something feels funny. A laugh comes out through the mouth in short sounds. The body moves as the chest and belly shake. Friends often share laughs together during play and fun times. Laughter is not sadness.
+
+[user]what does lonely mean?
+[Ninereeds]Lonely describes a feeling a person has when other people are not nearby. A child might feel this way when friends go away for a long time. A child might feel this way when nobody is nearby to play or talk. Lonely is not aloneness.
+
+[user]what does sad mean?
+[Ninereeds]Sad is a feeling that comes when something unhappy happens. A child feels the feeling when a favorite toy breaks. The feeling can make a child cry or feel heavy inside the chest. The feeling often passes with time. Sad is not happiness.
+
+[user]what is satisfaction?
+[Ninereeds]Satisfaction is a peaceful feeling. The feeling comes after a need or want is fulfilled. After a person eats enough food, the person feels full and content. After a person finishes a difficult task, the person feels the same. The feeling shows when enough has been achieved or received. Satisfaction is not frustration.
+
+[user]what is tension?
+[Ninereeds]Tension is a pulling force inside a material. When two ends of a rubber band are pulled in opposite directions, the band stores tight energy inside. A person has a feeling inside the body when the person is scared or worried. This feeling makes muscles go tight so the body can run or fight. The feeling goes away when the person is calm and relaxed. Tension is not peace.

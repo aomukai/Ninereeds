@@ -1,0 +1,2 @@
+[user]what is a bacterium?
+[Ninereeds]A bacterium is a tiny living thing. A bacterium is a single-celled organism that lives in soil, water, air, and inside bodies. Some bacteria help digest food. Other bacteria cause illness. Yogurt contains helpful bacteria. Bacterium is not a plant.

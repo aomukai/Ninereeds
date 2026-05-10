@@ -26,3 +26,9 @@
 
 [user]what does the bad guy mean?
 [Ninereeds]The bad guy means the character who acts against the hero or causes harm. People often use these words in simple story talk instead of villain. The bad guy is part of the conflict in many stories. The bad guy is not the sidekick.
+
+[user]what is a fable?
+[Ninereeds]A fable is a short story that carries a lesson or moral. Many of the stories use animal characters to teach truths about people. One example is the fox and the sour grapes. Another example is the slow tortoise who wins the race. The stories pass wisdom down across many generations. A fable is not a true report.
+
+[user]what is a scenario?
+[Ninereeds]A scenario is a possible way events might happen. A scenario describes one possible future that people can think about. For example, a school class might practice a fire drill. Another example is thinking about what a child will do when rain happens. scenario is not a story.

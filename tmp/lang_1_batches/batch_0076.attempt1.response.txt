@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "classify",
+      "filename": "classify.md",
+      "lines": [
+        "Classifying data is categorization.",
+        "Daten zu klassifizieren ist Kategorisierung.",
+        "データを分類することはカテゴリー分けだ。",
+        "对数据进行分类就是归类。"
+      ]
+    },
+    {
+      "word": "classifying",
+      "filename": "classifying.md",
+      "lines": [
+        "Classifying is a method of organization.",
+        "Klassifizieren ist eine Methode der Organisation.",
+        "分類することは整理の方法だ。",
+        "分类是一种整理方法。"
+      ]
+    },
+    {
+      "word": "classmate",
+      "filename": "classmate.md",
+      "lines": [
+        "A classmate is a student.",
+        "Ein Klassenkamerad ist ein Schüler.",
+        "クラスメートは学生だ。",
+        "同学是学生。"
+      ]
+    },
+    {
+      "word": "classroom",
+      "filename": "classroom.md",
+      "lines": [
+        "A classroom is a room.",
+        "Ein Klassenzimmer ist ein Raum.",
+        "教室は部屋だ。",
+        "教室是房间。"
+      ]
+    },
+    {
+      "word": "claw",
+      "filename": "claw.md",
+      "lines": [
+        "A claw is a body part.",
+        "Eine Kralle ist ein Körperteil.",
+        "爪は体の一部だ。",
+        "爪子是身体的一部分。"
+      ]
+    },
+    {
+      "word": "clay",
+      "filename": "clay.md",
+      "lines": [
+        "Clay is a material.",
+        "Ton ist ein Material.",
+        "粘土は材料だ。",
+        "粘土是一种材料。"
+      ]
+    },
+    {
+      "word": "clean",
+      "filename": "clean.md",
+      "lines": [
+        "A clean towel is a cloth.",
+        "Ein sauberes Handtuch ist ein Tuch.",
+        "清潔なタオルは布だ。",
+        "干净的毛巾是布。"
+      ]
+    },
+    {
+      "word": "cleanup",
+      "filename": "cleanup.md",
+      "lines": [
+        "A cleanup is a task.",
+        "Eine Aufräumaktion ist eine Aufgabe.",
+        "片付けは作業だ。",
+        "清理是一项任务。"
+      ]
+    },
+    {
+      "word": "clear",
+      "filename": "clear.md",
+      "lines": [
+        "A clear lake is a body of water.",
+        "Ein klarer See ist ein Gewässer.",
+        "澄んだ湖は水域だ。",
+        "清澈的湖是水域。"
+      ]
+    },
+    {
+      "word": "clever",
+      "filename": "clever.md",
+      "lines": [
+        "A clever fox is an animal.",
+        "Ein kluger Fuchs ist ein Tier.",
+        "賢いキツネは動物だ。",
+        "聪明的狐狸是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

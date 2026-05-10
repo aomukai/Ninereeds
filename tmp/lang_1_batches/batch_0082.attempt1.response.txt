@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "collaborative",
+      "filename": "collaborative.md",
+      "lines": [
+        "A collaborative project is a team effort.",
+        "Ein kollaboratives Projekt ist eine Teamarbeit.",
+        "協力的なプロジェクトはチームワークだ。",
+        "协作项目是团队工作。"
+      ]
+    },
+    {
+      "word": "collage",
+      "filename": "collage.md",
+      "lines": [
+        "A collage is a piece of art.",
+        "Eine Collage ist ein Kunstwerk.",
+        "コラージュは芸術作品だ。",
+        "拼贴画是一种艺术品。"
+      ]
+    },
+    {
+      "word": "collapsing",
+      "filename": "collapsing.md",
+      "lines": [
+        "Collapsing is falling down.",
+        "Zusammenfallen ist Herunterfallen.",
+        "崩れることは落下だ。",
+        "倒塌是坠落。"
+      ]
+    },
+    {
+      "word": "collar",
+      "filename": "collar.md",
+      "lines": [
+        "A collar is a piece of clothing.",
+        "Ein Kragen ist ein Kleidungsstück.",
+        "襟は衣服の一部だ。",
+        "衣领是衣服的一部分。"
+      ]
+    },
+    {
+      "word": "collarbone",
+      "filename": "collarbone.md",
+      "lines": [
+        "A collarbone is a bone in the body.",
+        "Ein Schlüsselbein ist ein Knochen im Körper.",
+        "鎖骨は体の骨だ。",
+        "锁骨是身体里的一块骨头。"
+      ]
+    },
+    {
+      "word": "collect",
+      "filename": "collect.md",
+      "lines": [
+        "Collecting is gathering things.",
+        "Sammeln ist das Zusammenbringen von Dingen.",
+        "集めることは物を集めることだ。",
+        "收集是聚集物品。"
+      ]
+    },
+    {
+      "word": "collection",
+      "filename": "collection.md",
+      "lines": [
+        "A collection is a group of items.",
+        "Eine Sammlung ist eine Gruppe von Gegenständen.",
+        "コレクションは品物の集まりだ。",
+        "收藏品是一组物品。"
+      ]
+    },
+    {
+      "word": "colliding",
+      "filename": "colliding.md",
+      "lines": [
+        "Colliding is hitting each other.",
+        "Zusammenstoßen ist das Aufeinandertreffen.",
+        "衝突することはぶつかることだ。",
+        "碰撞是互相撞击。"
+      ]
+    },
+    {
+      "word": "color",
+      "filename": "color.md",
+      "lines": [
+        "A color is a visual property.",
+        "Eine Farbe ist eine visuelle Eigenschaft.",
+        "色は視覚的な特性だ。",
+        "颜色是一种视觉属性。"
+      ]
+    },
+    {
+      "word": "colored",
+      "filename": "colored.md",
+      "lines": [
+        "A colored pencil is a drawing tool.",
+        "Ein farbiger Bleistift ist ein Zeichenwerkzeug.",
+        "色鉛筆は描画道具だ。",
+        "彩色铅笔是一种绘画工具。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778429040-vjdo71J2muayTE6SqW5S",
+  "object": "chat.completion",
+  "created": 1778429040,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"collaborative\",\n      \"filename\": \"collaborative.md\",\n      \"lines\": [\n        \"A collaborative project is a team effort.\",\n        \"Ein kollaboratives Projekt ist eine Teamarbeit.\",\n        \"協力的なプロジェクトはチームワークだ。\",\n        \"协作项目是团队工作。\"\n      ]\n    },\n    {\n      \"word\": \"collage\",\n      \"filename\": \"collage.md\",\n      \"lines\": [\n        \"A collage is a piece of art.\",\n        \"Eine Collage ist ein Kunstwerk.\",\n        \"コラージュは芸術作品だ。\",\n        \"拼贴画是一种艺术品。\"\n      ]\n    },\n    {\n      \"word\": \"collapsing\",\n      \"filename\": \"collapsing.md\",\n      \"lines\": [\n        \"Collapsing is falling down.\",\n        \"Zusammenfallen ist Herunterfallen.\",\n        \"崩れることは落下だ。\",\n        \"倒塌是坠落。\"\n      ]\n    },\n    {\n      \"word\": \"collar\",\n      \"filename\": \"collar.md\",\n      \"lines\": [\n        \"A collar is a piece of clothing.\",\n        \"Ein Kragen ist ein Kleidungsstück.\",\n        \"襟は衣服の一部だ。\",\n        \"衣领是衣服的一部分。\"\n      ]\n    },\n    {\n      \"word\": \"collarbone\",\n      \"filename\": \"collarbone.md\",\n      \"lines\": [\n        \"A collarbone is a bone in the body.\",\n        \"Ein Schlüsselbein ist ein Knochen im Körper.\",\n        \"鎖骨は体の骨だ。\",\n        \"锁骨是身体里的一块骨头。\"\n      ]\n    },\n    {\n      \"word\": \"collect\",\n      \"filename\": \"collect.md\",\n      \"lines\": [\n        \"Collecting is gathering things.\",\n        \"Sammeln ist das Zusammenbringen von Dingen.\",\n        \"集めることは物を集めることだ。\",\n        \"收集是聚集物品。\"\n      ]\n    },\n    {\n      \"word\": \"collection\",\n      \"filename\": \"collection.md\",\n      \"lines\": [\n        \"A collection is a group of items.\",\n        \"Eine Sammlung ist eine Gruppe von Gegenständen.\",\n        \"コレクションは品物の集まりだ。\",\n        \"收藏品是一组物品。\"\n      ]\n    },\n    {\n      \"word\": \"colliding\",\n      \"filename\": \"colliding.md\",\n      \"lines\": [\n        \"Colliding is hitting each other.\",\n        \"Zusammenstoßen ist das Aufeinandertreffen.\",\n        \"衝突することはぶつかることだ。\",\n        \"碰撞是互相撞击。\"\n      ]\n    },\n    {\n      \"word\": \"color\",\n      \"filename\": \"color.md\",\n      \"lines\": [\n        \"A color is a visual property.\",\n        \"Eine Farbe ist eine visuelle Eigenschaft.\",\n        \"色は視覚的な特性だ。\",\n        \"颜色是一种视觉属性。\"\n      ]\n    },\n    {\n      \"word\": \"colored\",\n      \"filename\": \"colored.md\",\n      \"lines\": [\n        \"A colored pencil is a drawing tool.\",\n        \"Ein farbiger Bleistift ist ein Zeichenwerkzeug.\",\n        \"色鉛筆は描画道具だ。\",\n        \"彩色铅笔是一种绘画工具。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 725,
+    "total_tokens": 1449,
+    "cost": 0.0003013164,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00030436,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.000203
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

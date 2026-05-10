@@ -1,0 +1,53 @@
+{
+  "id": "gen-1778426248-bhi8TYZ68hdqZ7Y0Yfbz",
+  "object": "chat.completion",
+  "created": 1778426248,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "Venice",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"brother\",\n      \"filename\": \"brother.md\",\n      \"lines\": [\n        \"A brother is a male sibling.\",\n        \"Ein Bruder ist ein männliches Geschwister.\",\n        \"兄弟は男性のきょうだいだ。\",\n        \"兄弟是男性兄弟姐妹。\"\n      ]\n    },\n    {\n      \"word\": \"brown\",\n      \"filename\": \"brown.md\",\n      \"lines\": [\n        \"A brown bear is an animal.\",\n        \"Ein brauner Bär ist ein Tier.\",\n        \"茶色い熊は動物だ。\",\n        \"棕熊是动物。\"\n      ]\n    },\n    {\n      \"word\": \"browsing\",\n      \"filename\": \"browsing.md\",\n      \"lines\": [\n        \"Browsing is searching.\",\n        \"Surfen ist Suchen.\",\n        \"ブラウジングは検索だ。\",\n        \"浏览是搜索。\"\n      ]\n    },\n    {\n      \"word\": \"bruise\",\n      \"filename\": \"bruise.md\",\n      \"lines\": [\n        \"A bruise is an injury.\",\n        \"Ein Bluterguss ist eine Verletzung.\",\n        \"あざはけがだ。\",\n        \"瘀伤是受伤。\"\n      ]\n    },\n    {\n      \"word\": \"brush\",\n      \"filename\": \"brush.md\",\n      \"lines\": [\n        \"A brush is a tool.\",\n        \"Eine Bürste ist ein Werkzeug.\",\n        \"ブラシは道具だ。\",\n        \"刷子是工具。\"\n      ]\n    },\n    {\n      \"word\": \"brushstroke\",\n      \"filename\": \"brushstroke.md\",\n      \"lines\": [\n        \"A brushstroke is a mark.\",\n        \"Ein Pinselstrich ist eine Markierung.\",\n        \"筆の一筆は跡だ。\",\n        \"笔触是痕迹。\"\n      ]\n    },\n    {\n      \"word\": \"bubble\",\n      \"filename\": \"bubble.md\",\n      \"lines\": [\n        \"A bubble is a sphere of air.\",\n        \"Eine Blase ist eine Luftkugel.\",\n        \"泡は空気の球だ。\",\n        \"气泡是空气球。\"\n      ]\n    },\n    {\n      \"word\": \"bubbly\",\n      \"filename\": \"bubbly.md\",\n      \"lines\": [\n        \"A bubbly drink is a beverage.\",\n        \"Ein sprudelndes Getränk ist ein Getränk.\",\n        \"泡立つ飲み物は飲料だ。\",\n        \"起泡的饮料是饮品。\"\n      ]\n    },\n    {\n      \"word\": \"bucket\",\n      \"filename\": \"bucket.md\",\n      \"lines\": [\n        \"A bucket is a container.\",\n        \"Ein Eimer ist ein Behälter.\",\n        \"バケツは容器だ。\",\n        \"桶是容器。\"\n      ]\n    },\n    {\n      \"word\": \"bucket of water\",\n      \"filename\": \"bucket_of_water.md\",\n      \"lines\": [\n        \"A bucket of water is a container of liquid.\",\n        \"Ein Eimer Wasser ist ein Behälter mit Flüssigkeit.\",\n        \"水の入ったバケツは液体の容器だ。\",\n        \"一桶水是液体容器。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": "We need to create grounding files for each word in the batch: brother, brown, browsing, bruise, brush, brushstroke, bubble, bubbly, bucket, bucket of water. Determine part of speech for each. brother: noun. brown: adjective. browsing: verb (gerund). bruise: noun (can be verb but likely noun). brush: noun (tool) or verb? In context, likely noun. brushstroke: noun. bubble: noun. bubbly: adjective. bucket: noun. bucket of water: noun phrase (compound noun). We'll treat each as primary concept X. Use templates accordingly. For \"brown\" as adjective, use \"A brown X is a Y\" with concrete noun. For \"browsing\" as verb, use gerund form. For \"bruise\" as noun, use category. For \"brush\" as noun, category. For \"brushstroke\" as noun. For \"bubble\" as noun. For \"bubbly\" as adjective. For \"bucket\" as noun. For \"bucket of water\" as noun phrase, treat as a single concept? The word is \"bucket of water\" but filename must be bucket_of_water.md. Use noun template: \"A bucket of water is a container.\" etc. Ensure natural phrasing in each language. Use allowlist.txt? Not provided but we assume common words. We'll generate sentences. Output JSON.",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "We need to create grounding files for each word in the batch: brother, brown, browsing, bruise, brush, brushstroke, bubble, bubbly, bucket, bucket of water. Determine part of speech for each. brother: noun. brown: adjective. browsing: verb (gerund). bruise: noun (can be verb but likely noun). brush: noun (tool) or verb? In context, likely noun. brushstroke: noun. bubble: noun. bubbly: adjective. bucket: noun. bucket of water: noun phrase (compound noun). We'll treat each as primary concept X. Use templates accordingly. For \"brown\" as adjective, use \"A brown X is a Y\" with concrete noun. For \"browsing\" as verb, use gerund form. For \"bruise\" as noun, use category. For \"brush\" as noun, category. For \"brushstroke\" as noun. For \"bubble\" as noun. For \"bubbly\" as adjective. For \"bucket\" as noun. For \"bucket of water\" as noun phrase, treat as a single concept? The word is \"bucket of water\" but filename must be bucket_of_water.md. Use noun template: \"A bucket of water is a container.\" etc. Ensure natural phrasing in each language. Use allowlist.txt? Not provided but we assume common words. We'll generate sentences. Output JSON.",
+            "format": "unknown",
+            "index": 0
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 726,
+    "completion_tokens": 1005,
+    "total_tokens": 1731,
+    "cost": 0.0004704183,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00047517,
+      "upstream_inference_prompt_cost": 0.00012342,
+      "upstream_inference_completions_cost": 0.00035175
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 292,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

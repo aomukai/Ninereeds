@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "augmenting",
+      "filename": "augmenting.md",
+      "lines": [
+        "Augmenting is increasing.",
+        "Augmentieren ist Vergrößern.",
+        "拡大することは増加だ。",
+        "扩展是增加。"
+      ]
+    },
+    {
+      "word": "aunt",
+      "filename": "aunt.md",
+      "lines": [
+        "An aunt is a relative.",
+        "Eine Tante ist eine Verwandte.",
+        "叔母は親戚だ。",
+        "阿姨是亲戚。"
+      ]
+    },
+    {
+      "word": "authenticating",
+      "filename": "authenticating.md",
+      "lines": [
+        "Authenticating is verifying.",
+        "Authentifizieren ist Verifizieren.",
+        "認証することは確認だ。",
+        "认证是验证。"
+      ]
+    },
+    {
+      "word": "author",
+      "filename": "author.md",
+      "lines": [
+        "An author is a writer.",
+        "Ein Autor ist ein Schriftsteller.",
+        "著者は作家だ。",
+        "作者是作家。"
+      ]
+    },
+    {
+      "word": "authority",
+      "filename": "authority.md",
+      "lines": [
+        "Authority is power.",
+        "Autorität ist Macht.",
+        "権威は力だ。",
+        "权威是权力。"
+      ]
+    },
+    {
+      "word": "authorizing",
+      "filename": "authorizing.md",
+      "lines": [
+        "Authorizing is granting.",
+        "Autorisieren ist Gewähren.",
+        "承認することは許可だ。",
+        "授权是许可。"
+      ]
+    },
+    {
+      "word": "automatic",
+      "filename": "automatic.md",
+      "lines": [
+        "An automatic door is a door.",
+        "Eine automatische Tür ist eine Tür.",
+        "自動ドアはドアだ。",
+        "自动门是门。"
+      ]
+    },
+    {
+      "word": "automatic system",
+      "filename": "automatic_system.md",
+      "lines": [
+        "An automatic system is a system.",
+        "Ein automatisches System ist ein System.",
+        "自動システムはシステムだ。",
+        "自动系统是系统。"
+      ]
+    },
+    {
+      "word": "autumn",
+      "filename": "autumn.md",
+      "lines": [
+        "Autumn is a season.",
+        "Herbst ist eine Jahreszeit.",
+        "秋は季節だ。",
+        "秋天是季节。"
+      ]
+    },
+    {
+      "word": "available",
+      "filename": "available.md",
+      "lines": [
+        "An available seat is a seat.",
+        "Ein verfügbarer Sitzplatz ist ein Sitzplatz.",
+        "空いている席は席だ。",
+        "可用的座位是座位。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "clara",
+      "filename": "clara.md",
+      "lines": [
+        "Clara is a name.",
+        "Clara ist ein Name.",
+        "クララは名前だ。",
+        "克拉拉是一个名字。"
+      ]
+    },
+    {
+      "word": "clarifying",
+      "filename": "clarifying.md",
+      "lines": [
+        "Clarifying is explaining.",
+        "Klären ist Erklären.",
+        "明確にすることは説明することだ。",
+        "澄清就是解释。"
+      ]
+    },
+    {
+      "word": "clarity",
+      "filename": "clarity.md",
+      "lines": [
+        "Clarity is a quality.",
+        "Klarheit ist eine Eigenschaft.",
+        "明瞭さは性質だ。",
+        "清晰是一种品质。"
+      ]
+    },
+    {
+      "word": "clas",
+      "filename": "clas.md",
+      "lines": [
+        "Clas is a name.",
+        "Clas ist ein Name.",
+        "クラスは名前だ。",
+        "克拉斯是一个名字。"
+      ]
+    },
+    {
+      "word": "clash",
+      "filename": "clash.md",
+      "lines": [
+        "A clash is a conflict.",
+        "Ein Zusammenstoß ist ein Konflikt.",
+        "衝突は対立だ。",
+        "冲突是一种对立。"
+      ]
+    },
+    {
+      "word": "clashing",
+      "filename": "clashing.md",
+      "lines": [
+        "Clashing is conflicting.",
+        "Zusammenstoßen ist Konflikthaben.",
+        "衝突することは対立することだ。",
+        "冲突就是对立。"
+      ]
+    },
+    {
+      "word": "clasping",
+      "filename": "clasping.md",
+      "lines": [
+        "Clasping is holding.",
+        "Umklammern ist Festhalten.",
+        "握りしめることは保持することだ。",
+        "紧握就是抓住。"
+      ]
+    },
+    {
+      "word": "class",
+      "filename": "class.md",
+      "lines": [
+        "A class is a group.",
+        "Eine Klasse ist eine Gruppe.",
+        "クラスは集団だ。",
+        "班级是一个群体。"
+      ]
+    },
+    {
+      "word": "classic",
+      "filename": "classic.md",
+      "lines": [
+        "A classic book is a book.",
+        "Ein klassisches Buch ist ein Buch.",
+        "古典的な本は本だ。",
+        "经典的书是书。"
+      ]
+    },
+    {
+      "word": "classification",
+      "filename": "classification.md",
+      "lines": [
+        "Classification is sorting.",
+        "Klassifikation ist Sortieren.",
+        "分類は整理することだ。",
+        "分类就是整理。"
+      ]
+    }
+  ],
+  "problems": []
+}

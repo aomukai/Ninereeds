@@ -50,3 +50,9 @@
 
 [user]what does it mean to spread?
 [Ninereeds]To spread means to move something soft across a surface to cover it. People spread butter on bread, jam on toast, or frosting on a cake. Spreading uses a knife or a flat tool to push the soft material out evenly. To spread is not the same as to pour.
+
+[user]what is a clove?
+[Ninereeds]A clove is a dried flower bud from a tree. People use this spice in cooking to add flavor to foods. The bud gives a warm, sweet taste to soups, breads, and cakes. The spice has a strong smell too. clove is not a fruit or a vegetable.
+
+[user]what is a dough?
+[Ninereeds]Dough is a soft mixture made from flour and water. flour is a powder from ground grain. people mix flour with water and salt. bakers use yeast in the blend so bread rises in a warm oven. the mix can be pressed flat to make pizza or rolled thin for noodles. dough is not a finished meal.

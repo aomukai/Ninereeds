@@ -71,3 +71,15 @@
 
 [user]what is a woodcutter?
 [Ninereeds]A woodcutter is a person who cuts trees and wood into smaller pieces. Woodcutters use axes and saws. The wood may be used for building or for fire. Woodcutters must work carefully and safely. A woodcutter is not a carpenter.
+
+[user]what is an architect?
+[Ninereeds]An architect is a person who designs buildings. The person makes drawings and plans for schools, houses, and hospitals. This work involves other people to create safe and useful buildings. The work starts with an idea and a sketch. The design shows every part of the building before people build the structure. An architect is not a builder.
+
+[user]what is an artist?
+[Ninereeds]An artist is a person who makes paintings, drawings, or other works. Such a person uses tools like brushes and pencils. A painter uses colors on canvas or paper. A sculptor carves shapes from stone or clay. Different kinds of makers create different kinds of art. Artist is not a scientist.
+
+[user]what is an assistant?
+[Ninereeds]An assistant is a person who helps with work. A store owner may ask an assistant to stock shelves and help customers. An office worker may ask an assistant to sort papers and answer calls. This helper follows directions from a boss. assistant is not a boss.
+
+[user]what is an attendant?
+[Ninereeds]An attendant is a person who serves customers in a place like a store or hotel. An attendant on an airplane gives food and checks tickets. A helper at a hotel gives guests a room and provides comfort. attendant is not a boss.

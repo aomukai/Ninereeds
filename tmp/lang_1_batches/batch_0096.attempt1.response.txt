@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "contradiction",
+      "filename": "contradiction.md",
+      "lines": [
+        "A contradiction is a conflict.",
+        "Ein Widerspruch ist ein Konflikt.",
+        "矛盾は対立だ。",
+        "矛盾是对立。"
+      ]
+    },
+    {
+      "word": "contrast",
+      "filename": "contrast.md",
+      "lines": [
+        "A contrast is a difference.",
+        "Ein Kontrast ist ein Unterschied.",
+        "対比は違いだ。",
+        "对比是差异。"
+      ]
+    },
+    {
+      "word": "contrasting",
+      "filename": "contrasting.md",
+      "lines": [
+        "A contrasting shirt is a garment.",
+        "Ein kontrastierendes Hemd ist ein Kleidungsstück.",
+        "対照的なシャツは衣類だ。",
+        "对比鲜明的衬衫是衣物。"
+      ]
+    },
+    {
+      "word": "contributing",
+      "filename": "contributing.md",
+      "lines": [
+        "Contributing is helping.",
+        "Beitragen ist Helfen.",
+        "貢献することは助けることだ。",
+        "贡献是帮助。"
+      ]
+    },
+    {
+      "word": "control",
+      "filename": "control.md",
+      "lines": [
+        "Control is a method.",
+        "Kontrolle ist eine Methode.",
+        "制御は方法だ。",
+        "控制是方法。"
+      ]
+    },
+    {
+      "word": "controlled",
+      "filename": "controlled.md",
+      "lines": [
+        "A controlled experiment is a test.",
+        "Ein kontrolliertes Experiment ist ein Test.",
+        "制御された実験はテストだ。",
+        "受控的实验是测试。"
+      ]
+    },
+    {
+      "word": "convenience",
+      "filename": "convenience.md",
+      "lines": [
+        "Convenience is a benefit.",
+        "Bequemlichkeit ist ein Vorteil.",
+        "便利さは利点だ。",
+        "便利是好处。"
+      ]
+    },
+    {
+      "word": "converging",
+      "filename": "converging.md",
+      "lines": [
+        "Converging is merging.",
+        "Konvergieren ist Verschmelzen.",
+        "収束することは融合だ。",
+        "收敛是融合。"
+      ]
+    },
+    {
+      "word": "conversation",
+      "filename": "conversation.md",
+      "lines": [
+        "A conversation is an exchange.",
+        "Ein Gespräch ist ein Austausch.",
+        "会話は交換だ。",
+        "对话是交流。"
+      ]
+    },
+    {
+      "word": "converting",
+      "filename": "converting.md",
+      "lines": [
+        "Converting is changing.",
+        "Umwandeln ist Ändern.",
+        "変換することは変更だ。",
+        "转换是改变。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "arrive",
+      "filename": "arrive.md",
+      "lines": [
+        "Arriving is coming to a place.",
+        "Ankommen ist das Erreichen eines Ortes.",
+        "到着することは場所に着くことだ。",
+        "到达就是来到一个地方。"
+      ]
+    },
+    {
+      "word": "arrived",
+      "filename": "arrived.md",
+      "lines": [
+        "Having arrived is being at a destination.",
+        "Angekommen zu sein bedeutet, am Ziel zu sein.",
+        "到着したことは目的地にいることだ。",
+        "已经到达就是在目的地了。"
+      ]
+    },
+    {
+      "word": "arriving",
+      "filename": "arriving.md",
+      "lines": [
+        "Arriving is coming to a place.",
+        "Ankommen ist das Erreichen eines Ortes.",
+        "到着することは場所に着くことだ。",
+        "到达就是来到一个地方。"
+      ]
+    },
+    {
+      "word": "arrogating",
+      "filename": "arrogating.md",
+      "lines": [
+        "Arrogating is claiming something without right.",
+        "Sich anmaßen bedeutet, etwas ohne Recht zu beanspruchen.",
+        "横領することは権利なく何かを主張することだ。",
+        "擅取就是没有权利却声称拥有某物。"
+      ]
+    },
+    {
+      "word": "arrow",
+      "filename": "arrow.md",
+      "lines": [
+        "An arrow is a projectile.",
+        "Ein Pfeil ist ein Geschoss.",
+        "矢は投射物だ。",
+        "箭是一种投射物。"
+      ]
+    },
+    {
+      "word": "art",
+      "filename": "art.md",
+      "lines": [
+        "Art is a form of expression.",
+        "Kunst ist eine Form des Ausdrucks.",
+        "芸術は表現の一形態だ。",
+        "艺术是一种表达形式。"
+      ]
+    },
+    {
+      "word": "arthropod",
+      "filename": "arthropod.md",
+      "lines": [
+        "An arthropod is an invertebrate animal.",
+        "Ein Gliederfüßer ist ein wirbelloses Tier.",
+        "節足動物は無脊椎動物だ。",
+        "节肢动物是一种无脊椎动物。"
+      ]
+    },
+    {
+      "word": "article",
+      "filename": "article.md",
+      "lines": [
+        "An article is a piece of writing.",
+        "Ein Artikel ist ein Schriftstück.",
+        "記事は文章の一部だ。",
+        "文章是一种书面作品。"
+      ]
+    },
+    {
+      "word": "articulating",
+      "filename": "articulating.md",
+      "lines": [
+        "Articulating is expressing ideas clearly.",
+        "Artikulieren bedeutet, Ideen klar auszudrücken.",
+        "明確に表現することは考えをはっきり伝えることだ。",
+        "清晰地表达就是明确传达想法。"
+      ]
+    },
+    {
+      "word": "artifact",
+      "filename": "artifact.md",
+      "lines": [
+        "An artifact is a man-made object.",
+        "Ein Artefakt ist ein von Menschen gemachter Gegenstand.",
+        "人工物は人間が作った物体だ。",
+        "人工制品是人造物品。"
+      ]
+    }
+  ],
+  "problems": []
+}

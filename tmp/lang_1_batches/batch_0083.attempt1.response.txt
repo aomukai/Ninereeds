@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "colorful",
+      "filename": "colorful.md",
+      "lines": [
+        "A colorful bird is an animal.",
+        "Ein bunter Vogel ist ein Tier.",
+        "カラフルな鳥は動物だ。",
+        "多彩的鸟是动物。"
+      ]
+    },
+    {
+      "word": "coloring",
+      "filename": "coloring.md",
+      "lines": [
+        "Coloring is an activity.",
+        "Ausmalen ist eine Aktivität.",
+        "塗り絵は活動だ。",
+        "涂色是一种活动。"
+      ]
+    },
+    {
+      "word": "colour",
+      "filename": "colour.md",
+      "lines": [
+        "Colour is a property.",
+        "Farbe ist eine Eigenschaft.",
+        "色は特性だ。",
+        "颜色是一种属性。"
+      ]
+    },
+    {
+      "word": "column",
+      "filename": "column.md",
+      "lines": [
+        "A column is a structure.",
+        "Eine Säule ist eine Struktur.",
+        "柱は構造物だ。",
+        "柱子是一种结构。"
+      ]
+    },
+    {
+      "word": "comb",
+      "filename": "comb.md",
+      "lines": [
+        "A comb is a tool.",
+        "Ein Kamm ist ein Werkzeug.",
+        "櫛は道具だ。",
+        "梳子是一种工具。"
+      ]
+    },
+    {
+      "word": "combination",
+      "filename": "combination.md",
+      "lines": [
+        "A combination is a collection.",
+        "Eine Kombination ist eine Sammlung.",
+        "組み合わせは集まりだ。",
+        "组合是一个集合。"
+      ]
+    },
+    {
+      "word": "combine",
+      "filename": "combine.md",
+      "lines": [
+        "Combining is merging.",
+        "Kombinieren ist Verschmelzen.",
+        "組み合わせることは融合だ。",
+        "结合是合并。"
+      ]
+    },
+    {
+      "word": "come",
+      "filename": "come.md",
+      "lines": [
+        "Coming is arrival.",
+        "Kommen ist Ankunft.",
+        "来ることは到着だ。",
+        "到来是到达。"
+      ]
+    },
+    {
+      "word": "comedy",
+      "filename": "comedy.md",
+      "lines": [
+        "Comedy is a genre.",
+        "Komödie ist ein Genre.",
+        "コメディはジャンルだ。",
+        "喜剧是一种类型。"
+      ]
+    },
+    {
+      "word": "comfort",
+      "filename": "comfort.md",
+      "lines": [
+        "Comfort is a state.",
+        "Komfort ist ein Zustand.",
+        "快適さは状態だ。",
+        "舒适是一种状态。"
+      ]
+    }
+  ],
+  "problems": []
+}

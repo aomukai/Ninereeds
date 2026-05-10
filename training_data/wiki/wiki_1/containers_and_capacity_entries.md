@@ -32,3 +32,24 @@
 
 [user]what does put it in mean?
 [Ninereeds]Put it in means place something inside a container or space. A parent may say put it in the bag, the drawer, or the basket. The phrase tells a person where something should go. Put it in is common when people clean up, pack, or store things. Put it in is not the same as take it out.
+
+[user]what is a brim?
+[Ninereeds]A brim is the flat edge of a hat that sticks out from the bottom. A hat brim extends around the whole hat. A brim blocks sunlight from the face. A wide brim gives more protection from sun and rain. A brim is not a crown.
+
+[user]what is a carton?
+[Ninereeds]A carton is a lightweight container made from paper. A carton holds food or drink such as milk or juice. A flat paper shape folds up into a square box. The box can sit on a shelf in a store. carton is not a bag.
+
+[user]what is content?
+[Ninereeds]Content is what fills a thing. A box holds things such as toys or books. A book gives facts or tells a story. Content gives each thing purpose. A full container holds everything inside. Content is not empty.
+
+[user]what is a cooler?
+[Ninereeds]A cooler is a portable container that keeps food and drinks cold. A cooler has a lid and handles for carrying. People bring a cooler on a trip to the beach or a park. The cold inside the cooler keeps items fresh for many hours. Cooler is not a fridge.
+
+[user]what is a platter?
+[Ninereeds]Platter is a large flat dish. people use a platter for serving food. a roast turkey holds a meal on this dish. slices of cheese and vegetables can be a snack on the same dish. this dish is made from ceramic metal glass or wood. platter is not a cup.
+
+[user]what is storage?
+[Ninereeds]Storage is a special place where people keep things for later use. Inside a home, a closet is one kind of space for clothes. A kitchen cabinet is another kind of space for food. These spaces help people find items again. Storage keeps objects safe and easy to get. Storage is not a pile of waste.
+
+[user]what is a trough?
+[Ninereeds]Trough is a long narrow open container. farmers use this container to hold food or water for animals. this container can be made of wood metal or plastic. a farmer puts hay or grain in the container for horses or pigs. the container also catches rainwater. trough is not a bowl.

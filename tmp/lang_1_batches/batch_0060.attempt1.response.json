@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778426723-QPW2crg66gAoC1n9Cc5C",
+  "object": "chat.completion",
+  "created": 1778426723,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"candle\",\n      \"filename\": \"candle.md\",\n      \"lines\": [\n        \"A candle is a light source.\",\n        \"Eine Kerze ist eine Lichtquelle.\",\n        \"ろうそくは光源だ。\",\n        \"蜡烛是光源。\"\n      ]\n    },\n    {\n      \"word\": \"candy\",\n      \"filename\": \"candy.md\",\n      \"lines\": [\n        \"Candy is a sweet food.\",\n        \"Bonbons sind süße Lebensmittel.\",\n        \"キャンディーは甘い食べ物だ。\",\n        \"糖果是甜食。\"\n      ]\n    },\n    {\n      \"word\": \"cane\",\n      \"filename\": \"cane.md\",\n      \"lines\": [\n        \"A cane is a walking aid.\",\n        \"Ein Stock ist eine Gehhilfe.\",\n        \"杖は歩行補助具だ。\",\n        \"手杖是行走辅助工具。\"\n      ]\n    },\n    {\n      \"word\": \"cannon\",\n      \"filename\": \"cannon.md\",\n      \"lines\": [\n        \"A cannon is a weapon.\",\n        \"Eine Kanone ist eine Waffe.\",\n        \"大砲は武器だ。\",\n        \"大炮是武器。\"\n      ]\n    },\n    {\n      \"word\": \"cannot\",\n      \"filename\": \"cannot.md\",\n      \"lines\": [\n        \"Cannot is a verb form.\",\n        \"Kann nicht ist eine Verbform.\",\n        \"できないは動詞の形だ。\",\n        \"不能是动词形式。\"\n      ]\n    },\n    {\n      \"word\": \"canvas\",\n      \"filename\": \"canvas.md\",\n      \"lines\": [\n        \"Canvas is a fabric.\",\n        \"Segeltuch ist ein Stoff.\",\n        \"キャンバスは布地だ。\",\n        \"帆布是一种布料。\"\n      ]\n    },\n    {\n      \"word\": \"cap\",\n      \"filename\": \"cap.md\",\n      \"lines\": [\n        \"A cap is a hat.\",\n        \"Eine Mütze ist ein Hut.\",\n        \"キャップは帽子だ。\",\n        \"帽子是头饰。\"\n      ]\n    },\n    {\n      \"word\": \"capable\",\n      \"filename\": \"capable.md\",\n      \"lines\": [\n        \"A capable person is a worker.\",\n        \"Ein fähiger Mensch ist ein Arbeiter.\",\n        \"有能な人は働き手だ。\",\n        \"能干的人是工作者。\"\n      ]\n    },\n    {\n      \"word\": \"capacity\",\n      \"filename\": \"capacity.md\",\n      \"lines\": [\n        \"Capacity is a measure.\",\n        \"Kapazität ist ein Maß.\",\n        \"容量は尺度だ。\",\n        \"容量是度量。\"\n      ]\n    },\n    {\n      \"word\": \"cape\",\n      \"filename\": \"cape.md\",\n      \"lines\": [\n        \"A cape is a garment.\",\n        \"Ein Umhang ist ein Kleidungsstück.\",\n        \"ケープは衣類だ。\",\n        \"披风是衣物。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 721,
+    "completion_tokens": 659,
+    "total_tokens": 1380,
+    "cost": 0.0002826054,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028546,
+      "upstream_inference_prompt_cost": 0.00010094,
+      "upstream_inference_completions_cost": 0.00018452
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

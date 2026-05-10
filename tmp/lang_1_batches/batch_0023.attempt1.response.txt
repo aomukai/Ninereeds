@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "assignment",
+      "filename": "assignment.md",
+      "lines": [
+        "An assignment is a task.",
+        "Eine Aufgabe ist eine Tätigkeit.",
+        "課題は仕事だ。",
+        "作业是一项任务。"
+      ]
+    },
+    {
+      "word": "assimilating",
+      "filename": "assimilating.md",
+      "lines": [
+        "Assimilating is learning.",
+        "Assimilieren ist Lernen.",
+        "同化することは学習だ。",
+        "同化是学习。"
+      ]
+    },
+    {
+      "word": "assistance",
+      "filename": "assistance.md",
+      "lines": [
+        "Assistance is help.",
+        "Hilfe ist Unterstützung.",
+        "援助は助けだ。",
+        "援助是帮助。"
+      ]
+    },
+    {
+      "word": "assistant",
+      "filename": "assistant.md",
+      "lines": [
+        "An assistant is a helper.",
+        "Ein Assistent ist ein Helfer.",
+        "助手は補助者だ。",
+        "助手是帮手。"
+      ]
+    },
+    {
+      "word": "assisting",
+      "filename": "assisting.md",
+      "lines": [
+        "Assisting is helping.",
+        "Assistieren ist Helfen.",
+        "手伝うことは支援だ。",
+        "协助是帮助。"
+      ]
+    },
+    {
+      "word": "associate",
+      "filename": "associate.md",
+      "lines": [
+        "An associate is a colleague.",
+        "Ein Mitarbeiter ist ein Kollege.",
+        "同僚は仲間だ。",
+        "同事是伙伴。"
+      ]
+    },
+    {
+      "word": "assuming",
+      "filename": "assuming.md",
+      "lines": [
+        "Assuming is guessing.",
+        "Annehmen ist Vermuten.",
+        "仮定することは推測だ。",
+        "假设是推测。"
+      ]
+    },
+    {
+      "word": "assumption",
+      "filename": "assumption.md",
+      "lines": [
+        "An assumption is a guess.",
+        "Eine Annahme ist eine Vermutung.",
+        "仮定は推測だ。",
+        "假设是猜测。"
+      ]
+    },
+    {
+      "word": "assuring",
+      "filename": "assuring.md",
+      "lines": [
+        "Assuring is promising.",
+        "Versichern ist Versprechen.",
+        "保証することは約束だ。",
+        "保证是承诺。"
+      ]
+    },
+    {
+      "word": "asymmetric",
+      "filename": "asymmetric.md",
+      "lines": [
+        "An asymmetric shape is a form.",
+        "Eine asymmetrische Form ist eine Gestalt.",
+        "非対称な形は形状だ。",
+        "不对称的形状是形态。"
+      ]
+    }
+  ],
+  "problems": []
+}

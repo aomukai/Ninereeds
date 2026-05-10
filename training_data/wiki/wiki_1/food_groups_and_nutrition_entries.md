@@ -26,3 +26,9 @@
 
 [user]what is junk food?
 [Ninereeds]Junk food is food that has a lot of sugar, salt, or fat and not much body-helping value. Junk food can taste good, but eating only junk food is not good nutrition. Chips, candy, and some sweet drinks can be junk food. Junk food is often a treat, not the main part of a balanced meal. Junk food is not healthy food.
+
+[user]what is a crust?
+[Ninereeds]A crust is the hard outer layer of a planet. The earth's crust forms a thin cover of solid rock. A rocky cover protects the inside of the planet. Baked bread also has a hard outer crust. crust is not the core.
+
+[user]what is a fiber?
+[Ninereeds]Fiber is a part of plants. Fiber comes from fruits, vegetables, and grains. The body does not digest fiber. The material helps food pass through the body. Fiber is not a vitamin.

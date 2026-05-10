@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "believing",
+      "filename": "believing.md",
+      "lines": [
+        "Believing is a mental process.",
+        "Glauben ist ein mentaler Prozess.",
+        "信じることは心のプロセスだ。",
+        "相信是一种心理过程。"
+      ]
+    },
+    {
+      "word": "bell",
+      "filename": "bell.md",
+      "lines": [
+        "A bell is an instrument.",
+        "Eine Glocke ist ein Instrument.",
+        "鐘は楽器だ。",
+        "钟是一种乐器。"
+      ]
+    },
+    {
+      "word": "bell-shaped",
+      "filename": "bell-shaped.md",
+      "lines": [
+        "A bell-shaped lamp is a light.",
+        "Eine glockenförmige Lampe ist ein Licht.",
+        "ベル型のランプは照明だ。",
+        "钟形灯是照明工具。"
+      ]
+    },
+    {
+      "word": "belly",
+      "filename": "belly.md",
+      "lines": [
+        "A belly is a body part.",
+        "Ein Bauch ist ein Körperteil.",
+        "お腹は体の一部だ。",
+        "肚子是身体的一部分。"
+      ]
+    },
+    {
+      "word": "belong",
+      "filename": "belong.md",
+      "lines": [
+        "Belonging is a relationship.",
+        "Dazugehören ist eine Beziehung.",
+        "所属することは関係だ。",
+        "属于是一种关系。"
+      ]
+    },
+    {
+      "word": "belonged",
+      "filename": "belonged.md",
+      "lines": [
+        "A belonged item is a possession.",
+        "Ein zugehöriger Gegenstand ist ein Besitz.",
+        "所属していた品物は所有物だ。",
+        "曾经的物品是财产。"
+      ]
+    },
+    {
+      "word": "belonging",
+      "filename": "belonging.md",
+      "lines": [
+        "A belonging is a possession.",
+        "Ein persönlicher Gegenstand ist ein Besitz.",
+        "所持品は所有物だ。",
+        "个人物品是财产。"
+      ]
+    },
+    {
+      "word": "belt",
+      "filename": "belt.md",
+      "lines": [
+        "A belt is an accessory.",
+        "Ein Gürtel ist ein Accessoire.",
+        "ベルトはアクセサリーだ。",
+        "腰带是一种配饰。"
+      ]
+    },
+    {
+      "word": "bench",
+      "filename": "bench.md",
+      "lines": [
+        "A bench is a seat.",
+        "Eine Bank ist ein Sitz.",
+        "ベンチは座席だ。",
+        "长凳是一种座位。"
+      ]
+    },
+    {
+      "word": "bend",
+      "filename": "bend.md",
+      "lines": [
+        "Bending is a movement.",
+        "Biegen ist eine Bewegung.",
+        "曲げることは動作だ。",
+        "弯曲是一种动作。"
+      ]
+    }
+  ],
+  "problems": []
+}

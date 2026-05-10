@@ -74,3 +74,12 @@
 
 [user]what is a wolf?
 [Ninereeds]A wolf is a large wild animal that looks like a big, strong dog with grey or brown fur. Wolves live in groups called packs and hunt large animals together as a team. They communicate by howling, and a wolf's howl can travel a very long distance at night. Wolves are careful parents and the whole pack helps raise the young. A wolf is not a dog, which lives with people and has been raised over thousands of years to be friendly and gentle.
+
+[user]what is a bristle?
+[Ninereeds]A bristle is a short, stiff hair that grows on pigs and other animals. The stiff hair feels firm and pointed. A toothbrush uses stiff hairs for cleaning teeth. A paintbrush uses stiff hairs for spreading paint. bristle is not a thread.
+
+[user]what is a creature?
+[Ninereeds]A creature is a living animal that breathes, moves, and grows. Dogs and cats are creatures. Fish and birds are animals too. Different animals live in the ground, in the sea, and in the sky. A creature is not a rock.
+
+[user]what is an orangutan?
+[Ninereeds]This great ape from asia has long red hair and long arms. A creature lives in rainforest trees and eats fruit and leaves. Each night an orangutan builds a nest of leaf and tree branch to sleep. This animal is clever and gentle but lives alone. Orangutan is not a monkey.

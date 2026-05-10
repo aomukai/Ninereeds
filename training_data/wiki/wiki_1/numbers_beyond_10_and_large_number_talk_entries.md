@@ -68,3 +68,9 @@
 
 [user]what is one million?
 [Ninereeds]One million is a very large number. We write it with the symbol 1,000,000. One million is one thousand groups of one thousand. One million is much larger than one thousand. One million is not one thousand.
+
+[user]what is a dozen?
+[Ninereeds]A dozen means twelve of the same kind. A person can buy a dozen eggs at a store. A baker might make twelve donuts. Many people use dozen to talk about groups of twelve things. Dozen is not a random number.
+
+[user]what is a seventh?
+[Ninereeds]The word tells the place of an item in a list when things are counted. The object in position seven comes after the sixth object and before object number eight. For example, in a race with seven runners, the runner in position seven is the last runner. seventh is not first.

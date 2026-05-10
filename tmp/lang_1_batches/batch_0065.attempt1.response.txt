@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cautioning",
+      "filename": "cautioning.md",
+      "lines": [
+        "Cautioning is a warning.",
+        "Warnen ist eine Warnung.",
+        "注意することは警告だ。",
+        "提醒是一种警告。"
+      ]
+    },
+    {
+      "word": "cautious",
+      "filename": "cautious.md",
+      "lines": [
+        "A cautious driver is a person.",
+        "Ein vorsichtiger Fahrer ist ein Mensch.",
+        "慎重な運転手は人間だ。",
+        "谨慎的司机是人。"
+      ]
+    },
+    {
+      "word": "cave",
+      "filename": "cave.md",
+      "lines": [
+        "A cave is a natural cavity.",
+        "Eine Höhle ist ein natürlicher Hohlraum.",
+        "洞窟は自然の空洞だ。",
+        "洞穴是自然空洞。"
+      ]
+    },
+    {
+      "word": "ceasing",
+      "filename": "ceasing.md",
+      "lines": [
+        "Ceasing is stopping.",
+        "Aufhören ist Stoppen.",
+        "止めることは停止だ。",
+        "停止就是停息。"
+      ]
+    },
+    {
+      "word": "ceasing_3",
+      "filename": "ceasing_3.md",
+      "lines": [
+        "A ceasing_3 is a term.",
+        "Ein Ceasing_3 ist ein Begriff.",
+        "Ceasing_3は用語だ。",
+        "Ceasing_3是一个术语。"
+      ]
+    },
+    {
+      "word": "ceiling",
+      "filename": "ceiling.md",
+      "lines": [
+        "A ceiling is a part of a building.",
+        "Eine Decke ist ein Teil eines Gebäudes.",
+        "天井は建物の一部だ。",
+        "天花板是建筑的一部分。"
+      ]
+    },
+    {
+      "word": "celebrate",
+      "filename": "celebrate.md",
+      "lines": [
+        "Celebrate is a verb.",
+        "Celebrate ist ein Verb.",
+        "Celebrateは動詞だ。",
+        "Celebrate是一个动词。"
+      ]
+    },
+    {
+      "word": "celebrating",
+      "filename": "celebrating.md",
+      "lines": [
+        "Celebrating is a festivity.",
+        "Feiern ist ein Fest.",
+        "祝うことはお祭りだ。",
+        "庆祝是节日活动。"
+      ]
+    },
+    {
+      "word": "celebration",
+      "filename": "celebration.md",
+      "lines": [
+        "A celebration is a party.",
+        "Eine Feier ist eine Party.",
+        "祝賀はパーティーだ。",
+        "庆祝是一个聚会。"
+      ]
+    },
+    {
+      "word": "celery",
+      "filename": "celery.md",
+      "lines": [
+        "Celery is a vegetable.",
+        "Sellerie ist ein Gemüse.",
+        "セロリは野菜だ。",
+        "芹菜是蔬菜。"
+      ]
+    }
+  ],
+  "problems": []
+}

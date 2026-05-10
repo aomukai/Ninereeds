@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "conscious",
+      "filename": "conscious.md",
+      "lines": [
+        "A conscious person is a living being.",
+        "Ein bewusster Mensch ist ein Lebewesen.",
+        "意識のある人は生き物だ。",
+        "有意识的人是生物。"
+      ]
+    },
+    {
+      "word": "consciousnes",
+      "filename": "consciousnes.md",
+      "lines": [
+        "Consciousnes is a state.",
+        "Bewusstsein ist ein Zustand.",
+        "意識は状態だ。",
+        "意识是一种状态。"
+      ]
+    },
+    {
+      "word": "consent",
+      "filename": "consent.md",
+      "lines": [
+        "Consent is a permission.",
+        "Einwilligung ist eine Erlaubnis.",
+        "同意は許可だ。",
+        "同意是一种许可。"
+      ]
+    },
+    {
+      "word": "consequence",
+      "filename": "consequence.md",
+      "lines": [
+        "Consequence is an effect.",
+        "Konsequenz ist eine Wirkung.",
+        "結果は影響だ。",
+        "后果是一种影响。"
+      ]
+    },
+    {
+      "word": "conservation",
+      "filename": "conservation.md",
+      "lines": [
+        "Conservation is a method.",
+        "Erhaltung ist eine Methode.",
+        "保全は方法だ。",
+        "保护是一种方法。"
+      ]
+    },
+    {
+      "word": "conservative",
+      "filename": "conservative.md",
+      "lines": [
+        "A conservative voter is a citizen.",
+        "Ein konservativer Wähler ist ein Bürger.",
+        "保守的な有権者は市民だ。",
+        "保守的选民是公民。"
+      ]
+    },
+    {
+      "word": "conserving",
+      "filename": "conserving.md",
+      "lines": [
+        "Conserving is protection.",
+        "Bewahren ist Schutz.",
+        "保存することは保護だ。",
+        "保存是保护。"
+      ]
+    },
+    {
+      "word": "consider",
+      "filename": "consider.md",
+      "lines": [
+        "Consider is an action.",
+        "Überlegung ist eine Handlung.",
+        "考慮は行動だ。",
+        "考虑是一种行动。"
+      ]
+    },
+    {
+      "word": "considering",
+      "filename": "considering.md",
+      "lines": [
+        "Considering is thinking.",
+        "Überlegen ist Denken.",
+        "考えることは思考だ。",
+        "考虑是思考。"
+      ]
+    },
+    {
+      "word": "consistency",
+      "filename": "consistency.md",
+      "lines": [
+        "Consistency is a quality.",
+        "Konsistenz ist eine Eigenschaft.",
+        "一貫性は性質だ。",
+        "一致性是一种性质。"
+      ]
+    }
+  ],
+  "problems": []
+}

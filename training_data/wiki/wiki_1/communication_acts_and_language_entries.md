@@ -32,3 +32,75 @@
 
 [user]what is a complaint?
 [Ninereeds]A complaint is a message about something that feels wrong, unfair, or not working well. A child may make a complaint to a teacher when someone is being unkind. A complaint describes the problem so someone with the right role can help. A complaint is not the same as praise.
+
+[user]what is an adjective?
+[Ninereeds]An adjective is a kind of word that describes a noun. Nouns name a person, an animal, a place, or a thing. An adjective tells about color, size, or shape. For example, blue tells the color of a ball. Small tells the size of a bird. Adjective is not a verb.
+
+[user]what is an announcement?
+[Ninereeds]An announcement is a public word that tells a group of people new information. A school tells families about an event through an announcement. A teacher gives this public word to share important facts. This message uses clear words so many people get the news. Announcement is not secret.
+
+[user]what is an answer?
+[Ninereeds]An answer is a reply to a question. When a child asks what color the sky is, the reply is blue. When a teacher asks how many apples are in a basket, a number is the answer. A reply gives information that a person needs. Answer is not a guess.
+
+[user]what is an apostrophe?
+[Ninereeds]An apostrophe is a punctuation mark that looks like a small comma up high. This mark shows when letters are missing from a word. For example, do not becomes don't with this mark. The mark also shows who owns a thing. For example, the ball of the dog becomes the dog's ball with this mark. An apostrophe is not a comma.
+
+[user]what is an article?
+[Ninereeds]An article is a piece of writing that gives information about a real topic. A newspaper piece tells people about a news event. A magazine piece can explain a subject or share a new idea. Each piece has a title and uses facts from the real world. Readers find pieces on paper pages or on a screen. Article is not a made-up story.
+
+[user]what is a chatter?
+[Ninereeds]Chatter is a quick, repeating sound. Teeth make this sound when a person feels cold. A bird makes a chatter noise when a bird talks fast. Chatter is not silence.
+
+[user]what is a command?
+[Ninereeds]A command is an instruction that tells a machine what to do. A person gives a command by typing words or saying words aloud. The machine follows the instruction and performs the task. One instruction can ask a program to open a file. Another instruction can ask a program to print a page. A command is not a question.
+
+[user]what is a conjunction?
+[Ninereeds]A conjunction is a part of speech that connects words, phrases, or sentences. The word and connects two things together. The word but shows a difference between two ideas. A conjunction is not a noun.
+
+[user]what is a contraction?
+[Ninereeds]A contraction is a way to make two words into one shorter word. For example, do not becomes don't and did not becomes didn't. A contraction uses an apostrophe to show where letters are missing. This form of spoken language is faster and easier for everyday use. A contraction is not an expansion.
+
+[user]what is an interruption?
+[Ninereeds]An interruption is something that stops a current activity. A doorbell ringing during dinner is one example. A phone call during a conversation is another example. The doorbell sound makes the person pause talking. The phone call causes the talk to stop for a time. Interruption is not a break.
+
+[user]what does it mean to misunderstand?
+[Ninereeds]Misunderstand means to get a wrong idea about what someone says or means. For example, a child might hear a mother say the box is on the table and think the box is in the yard instead. A friend might ask for help and another friend thinks the friend wants something else. When people misunderstand, the meaning the listener gets is different from the meaning the speaker meant. Misunderstand is not the same as guessing.
+
+[user]what is a mix-up?
+[Ninereeds]This word means a mistake where things get confused or put in the wrong order. One example is a student taking another student's bag by accident. Another example is a schedule with the wrong times. This mistake happens when two things get swapped or mixed together. Mix-up is not a plan.
+
+[user]what is news?
+[Ninereeds]News is a report of recent events from places around the world. A report gives people information about changes in cities and countries. A newspaper has stories about weather, sports, and important local events. A television show has programs that tell about happenings of the day. News helps people know what changed in the world. News is not entertainment.
+
+[user]what is a phrase?
+[Ninereeds]A phrase is a small group of words that work together. This group of words does not tell a full story like a sentence does. Good morning is one example that people use when starting talk. Well done is another common example that shows praise. A phrase can stand alone or be part of a longer sentence. A phrase is not a sentence.
+
+[user]what is a preposition?
+[Ninereeds]A preposition is a type of word that shows a relationship between a noun and another word in a sentence. Words like in, on, at, under, and over are of this type. Such words tell about place, time, or direction. Such words can show where something is, like a cat on a table. Such words can show when something happens, like a game after noon. preposition is not a verb.
+
+[user]what is a publication?
+[Ninereeds]A publication is a written work made available for people to read. A book, a magazine, or a newspaper is a publication. The work contains facts, stories, or ideas. Many works share information about the world. An author creates the work and shares the work with readers. Publication is not a secret.
+
+[user]what is a punctuation?
+[Ninereeds]Punctuation is a set of marks that help make writing clear. The marks show where a sentence ends or where a question is asked. A period is a mark that ends a sentence. A comma is a mark that puts a small space between parts of a sentence. The marks help readers understand the meaning of words. Punctuation is not a letter.
+
+[user]what is a sentence?
+[Ninereeds]A sentence is a group of words that expresses a complete thought. This group starts with a capital letter. This group ends with a period. For example, the dog runs. Birds fly is another short sentence. A sentence is not a phrase.
+
+[user]what does singular mean?
+[Ninereeds]This word describes something that is just one. A singular noun names one person, place, or thing. A plural noun names more than one. For example, bird is this kind of word while birds is the plural form. In grammar, this form stands apart from the rest. Singular is not plural.
+
+[user]what does it mean to specify?
+[Ninereeds]To specify is to name or pick a thing in a clear and exact way. A person can name which fruit is wanted from a group. A baker can name the type of flour for a cake. specify is not a guess.
+
+[user]what is a suffix?
+[Ninereeds]A suffix is a group of letters added to the end of a base word. A suffix changes the meaning of a word or shows what sort of word a word is. For example, adding ed to walk shows the walk was in past time. Adding s to cat shows more than one cat. suffix is not a beginning of a word.
+
+[user]what is a summary?
+[Ninereeds]A summary is a short version of a longer story or text. A summary gives only the main ideas and key points. For example, a child can read a long tale and then give a brief version of the tale in some words. Summary is not a full retelling.
+
+[user]what does verbal mean?
+[Ninereeds]Verbal means words that people speak with the voice. A friend says hello as a spoken greeting. A teacher tells a story with spoken language. Verbal communication comes from the mouth as sound. People speak words to share ideas and thoughts. verbal is not written words.
+
+[user]what is vocabulary?
+[Ninereeds]Vocabulary is the group of words a person knows and uses to communicate with other people. A child uses vocabulary to tell stories and share ideas with friends. Reading books and talking to others helps a person learn new words every day. Each word has a sound and a meaning that follows simple rules. Vocabulary is not a single thing.

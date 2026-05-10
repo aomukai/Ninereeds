@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "brother",
+      "filename": "brother.md",
+      "lines": [
+        "A brother is a male sibling.",
+        "Ein Bruder ist ein männliches Geschwister.",
+        "兄弟は男性のきょうだいだ。",
+        "兄弟是男性兄弟姐妹。"
+      ]
+    },
+    {
+      "word": "brown",
+      "filename": "brown.md",
+      "lines": [
+        "A brown bear is an animal.",
+        "Ein brauner Bär ist ein Tier.",
+        "茶色い熊は動物だ。",
+        "棕熊是动物。"
+      ]
+    },
+    {
+      "word": "browsing",
+      "filename": "browsing.md",
+      "lines": [
+        "Browsing is searching.",
+        "Surfen ist Suchen.",
+        "ブラウジングは検索だ。",
+        "浏览是搜索。"
+      ]
+    },
+    {
+      "word": "bruise",
+      "filename": "bruise.md",
+      "lines": [
+        "A bruise is an injury.",
+        "Ein Bluterguss ist eine Verletzung.",
+        "あざはけがだ。",
+        "瘀伤是受伤。"
+      ]
+    },
+    {
+      "word": "brush",
+      "filename": "brush.md",
+      "lines": [
+        "A brush is a tool.",
+        "Eine Bürste ist ein Werkzeug.",
+        "ブラシは道具だ。",
+        "刷子是工具。"
+      ]
+    },
+    {
+      "word": "brushstroke",
+      "filename": "brushstroke.md",
+      "lines": [
+        "A brushstroke is a mark.",
+        "Ein Pinselstrich ist eine Markierung.",
+        "筆の一筆は跡だ。",
+        "笔触是痕迹。"
+      ]
+    },
+    {
+      "word": "bubble",
+      "filename": "bubble.md",
+      "lines": [
+        "A bubble is a sphere of air.",
+        "Eine Blase ist eine Luftkugel.",
+        "泡は空気の球だ。",
+        "气泡是空气球。"
+      ]
+    },
+    {
+      "word": "bubbly",
+      "filename": "bubbly.md",
+      "lines": [
+        "A bubbly drink is a beverage.",
+        "Ein sprudelndes Getränk ist ein Getränk.",
+        "泡立つ飲み物は飲料だ。",
+        "起泡的饮料是饮品。"
+      ]
+    },
+    {
+      "word": "bucket",
+      "filename": "bucket.md",
+      "lines": [
+        "A bucket is a container.",
+        "Ein Eimer ist ein Behälter.",
+        "バケツは容器だ。",
+        "桶是容器。"
+      ]
+    },
+    {
+      "word": "bucket of water",
+      "filename": "bucket_of_water.md",
+      "lines": [
+        "A bucket of water is a container of liquid.",
+        "Ein Eimer Wasser ist ein Behälter mit Flüssigkeit.",
+        "水の入ったバケツは液体の容器だ。",
+        "一桶水是液体容器。"
+      ]
+    }
+  ],
+  "problems": []
+}

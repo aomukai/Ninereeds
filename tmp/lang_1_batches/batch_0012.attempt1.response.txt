@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "allergy",
+      "filename": "allergy.md",
+      "lines": [
+        "An allergy is a medical condition.",
+        "Eine Allergie ist eine medizinische Erkrankung.",
+        "アレルギーは病気の一種だ。",
+        "过敏是一种疾病。"
+      ]
+    },
+    {
+      "word": "allocating",
+      "filename": "allocating.md",
+      "lines": [
+        "Allocating is distributing resources.",
+        "Allozieren ist das Verteilen von Ressourcen.",
+        "割り当てることは資源の配分だ。",
+        "分配是资源的配置。"
+      ]
+    },
+    {
+      "word": "allow",
+      "filename": "allow.md",
+      "lines": [
+        "Allowing is giving permission.",
+        "Erlauben ist das Gewähren von Erlaubnis.",
+        "許可することは承認を与えることだ。",
+        "允许是给予许可。"
+      ]
+    },
+    {
+      "word": "allowance",
+      "filename": "allowance.md",
+      "lines": [
+        "An allowance is a regular payment.",
+        "Ein Taschengeld ist eine regelmäßige Zahlung.",
+        "お小遣いは定期的な支払いだ。",
+        "零用钱是定期给的款项。"
+      ]
+    },
+    {
+      "word": "allowed",
+      "filename": "allowed.md",
+      "lines": [
+        "An allowed action is a permitted action.",
+        "Eine erlaubte Handlung ist eine gestattete Handlung.",
+        "許可された行動は認められた行動だ。",
+        "被允许的行为是得到许可的行为。"
+      ]
+    },
+    {
+      "word": "allowing",
+      "filename": "allowing.md",
+      "lines": [
+        "Allowing is permitting something.",
+        "Zulassen ist das Gestatten von etwas.",
+        "許すことは何かを認めることだ。",
+        "允许是准许某事。"
+      ]
+    },
+    {
+      "word": "alone",
+      "filename": "alone.md",
+      "lines": [
+        "A lone wolf is a solitary animal.",
+        "Ein einsamer Wolf ist ein einzelgängerisches Tier.",
+        "一匹狼は孤独な動物だ。",
+        "孤狼是独居的动物。"
+      ]
+    },
+    {
+      "word": "altering",
+      "filename": "altering.md",
+      "lines": [
+        "Altering is changing something.",
+        "Verändern ist das Ändern von etwas.",
+        "変えることは何かを変更することだ。",
+        "改变是修改某物。"
+      ]
+    },
+    {
+      "word": "amassing",
+      "filename": "amassing.md",
+      "lines": [
+        "Amassing is collecting a large amount.",
+        "Anhäufen ist das Sammeln einer großen Menge.",
+        "蓄積することは大量に集めることだ。",
+        "积累是收集大量物品。"
+      ]
+    },
+    {
+      "word": "amazed",
+      "filename": "amazed.md",
+      "lines": [
+        "An amazed child is a surprised child.",
+        "Ein erstauntes Kind ist ein überraschtes Kind.",
+        "驚いた子供はびっくりした子供だ。",
+        "惊讶的孩子是感到意外的孩子。"
+      ]
+    }
+  ],
+  "problems": []
+}

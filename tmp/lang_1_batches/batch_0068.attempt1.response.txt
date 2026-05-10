@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "chao",
+      "filename": "chao.md",
+      "lines": [
+        "A chao is a dumpling.",
+        "Ein Chao ist ein Teigtäschchen.",
+        "チャオは餃子だ。",
+        "潮州粉果是饺子。"
+      ]
+    },
+    {
+      "word": "chapter",
+      "filename": "chapter.md",
+      "lines": [
+        "A chapter is a section.",
+        "Ein Kapitel ist ein Abschnitt.",
+        "章は節だ。",
+        "章是节。"
+      ]
+    },
+    {
+      "word": "character",
+      "filename": "character.md",
+      "lines": [
+        "A character is a person.",
+        "Ein Charakter ist eine Person.",
+        "キャラクターは人物だ。",
+        "角色是人。"
+      ]
+    },
+    {
+      "word": "characteristic",
+      "filename": "characteristic.md",
+      "lines": [
+        "A characteristic is a trait.",
+        "Ein Merkmal ist eine Eigenschaft.",
+        "特性は特徴だ。",
+        "特性是特征。"
+      ]
+    },
+    {
+      "word": "characterizing",
+      "filename": "characterizing.md",
+      "lines": [
+        "Characterizing is description.",
+        "Charakterisieren ist Beschreibung.",
+        "特徴づけることは説明だ。",
+        "特征化是描述。"
+      ]
+    },
+    {
+      "word": "charge",
+      "filename": "charge.md",
+      "lines": [
+        "Charging is energy transfer.",
+        "Aufladen ist Energieübertragung.",
+        "充電はエネルギー移動だ。",
+        "充电是能量传输。"
+      ]
+    },
+    {
+      "word": "charger",
+      "filename": "charger.md",
+      "lines": [
+        "A charger is a device.",
+        "Ein Ladegerät ist ein Gerät.",
+        "充電器は装置だ。",
+        "充电器是设备。"
+      ]
+    },
+    {
+      "word": "chart",
+      "filename": "chart.md",
+      "lines": [
+        "A chart is a diagram.",
+        "Ein Diagramm ist eine Grafik.",
+        "チャートは図だ。",
+        "图表是图形。"
+      ]
+    },
+    {
+      "word": "chase",
+      "filename": "chase.md",
+      "lines": [
+        "Chasing is pursuit.",
+        "Verfolgen ist Verfolgung.",
+        "追うことは追跡だ。",
+        "追逐是追捕。"
+      ]
+    },
+    {
+      "word": "chaser",
+      "filename": "chaser.md",
+      "lines": [
+        "A chaser is a drink.",
+        "Ein Chaser ist ein Getränk.",
+        "チェイサーは飲み物だ。",
+        "追酒是饮料。"
+      ]
+    }
+  ],
+  "problems": []
+}

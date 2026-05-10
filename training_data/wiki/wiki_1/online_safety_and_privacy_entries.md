@@ -29,3 +29,6 @@
 
 [user]what does ask a grown-up mean?
 [Ninereeds]Ask a grown-up means get help from a trusted adult before doing something. A child may ask a grown-up before sharing information, opening a link, or answering a strange message. The phrase points to safety and caution. Getting adult help is important online. Ask a grown-up is not stranger online.
+
+[user]what is privacy?
+[Ninereeds]Privacy means a person's own space, thoughts, or things that others do not see or share without permission. A child can close a door to have privacy. A person's diary is private. Privacy helps people feel safe. Privacy is not secrecy.

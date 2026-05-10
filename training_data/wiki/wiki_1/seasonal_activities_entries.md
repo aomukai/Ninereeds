@@ -23,3 +23,9 @@
 
 [user]what is a harvest?
 [Ninereeds]A harvest is the time when crops are picked after growing. People may talk about harvest in autumn when many plants are ready. Harvest can also mean the food gathered at that time. The word links seasons, farming, and food. A harvest is not the same as planting.
+
+[user]what is an autumn?
+[Ninereeds]Autumn is a season between summer and winter. autumn days become shorter and cooler. leaves on trees turn bright colors of red and yellow before dropping to the ground. apples and pumpkins are ready to pick during autumn. autumn is not spring.
+
+[user]what does outdoor mean?
+[Ninereeds]Outdoor describes the world outside buildings and walls. Trees grow outside and birds fly in the air. Children play in parks and run across fields. Lakes and rivers are outside places also. People can have a picnic or fly a kite in a park. Outdoor is not indoor.

@@ -23,3 +23,12 @@
 
 [user]what does point to it mean?
 [Ninereeds]Point to it means use a finger or hand to show the thing someone should notice. A teacher may say point to it during a lesson or a game. The phrase helps direct another person's eyes. Pointing shows a place or object without moving it. Point to it is not the same as pick it up.
+
+[user]what is a bottom?
+[Ninereeds]Bottom is the lowest part of a place or object. The bottom of a cup holds water. A tree touches the ground at the lowest part of the tree. A mountain rests on land at the lowest part of the mountain. bottom is not top.
+
+[user]what is a location?
+[Ninereeds]A location is a place where something exists or happens. A house is a location where a family lives. A park is a place where a child plays. A kitchen is a place where a person cooks food and eats meals. A bedroom is a place where a person sleeps. Location is not a feeling.
+
+[user]what is an underneath?
+[Ninereeds]Underneath is a position word. Underneath describes the space below something or the side of something that faces the ground. A rug sits on a floor and the floor is under the rug. A rock lies on the ground and the dirt is under the rock. Underneath is not above.

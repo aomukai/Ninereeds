@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "daily",
+      "filename": "daily.md",
+      "lines": [
+        "A daily newspaper is a publication.",
+        "Eine Tageszeitung ist eine Veröffentlichung.",
+        "日刊新聞は出版物だ。",
+        "日报是一种出版物。"
+      ]
+    },
+    {
+      "word": "dairy",
+      "filename": "dairy.md",
+      "lines": [
+        "A dairy is a farm.",
+        "Eine Molkerei ist ein Bauernhof.",
+        "酪農場は農場だ。",
+        "奶牛场是一种农场。"
+      ]
+    },
+    {
+      "word": "daisy",
+      "filename": "daisy.md",
+      "lines": [
+        "A daisy is a flower.",
+        "Ein Gänseblümchen ist eine Blume.",
+        "ヒナギクは花だ。",
+        "雏菊是一种花。"
+      ]
+    },
+    {
+      "word": "damage",
+      "filename": "damage.md",
+      "lines": [
+        "Damage is a form of harm.",
+        "Schaden ist eine Art von Verlust.",
+        "損害は損失の一種だ。",
+        "损害是一种损失。"
+      ]
+    },
+    {
+      "word": "damp",
+      "filename": "damp.md",
+      "lines": [
+        "A damp towel is a piece of cloth.",
+        "Ein feuchtes Handtuch ist ein Stück Stoff.",
+        "湿ったタオルは布の一部だ。",
+        "湿毛巾是一块布。"
+      ]
+    },
+    {
+      "word": "dance",
+      "filename": "dance.md",
+      "lines": [
+        "Dancing is movement.",
+        "Tanzen ist Bewegung.",
+        "踊ることは動きだ。",
+        "跳舞是运动。"
+      ]
+    },
+    {
+      "word": "danger",
+      "filename": "danger.md",
+      "lines": [
+        "Danger is a risk.",
+        "Gefahr ist ein Risiko.",
+        "危険はリスクだ。",
+        "危险是一种风险。"
+      ]
+    },
+    {
+      "word": "dangerous",
+      "filename": "dangerous.md",
+      "lines": [
+        "A dangerous snake is a reptile.",
+        "Eine gefährliche Schlange ist ein Reptil.",
+        "危険な蛇は爬虫類だ。",
+        "危险的蛇是爬行动物。"
+      ]
+    },
+    {
+      "word": "dangling",
+      "filename": "dangling.md",
+      "lines": [
+        "A dangling rope is a cord.",
+        "Ein baumelndes Seil ist eine Schnur.",
+        "ぶら下がっているロープはひもだ。",
+        "悬挂的绳子是一条绳索。"
+      ]
+    },
+    {
+      "word": "dark",
+      "filename": "dark.md",
+      "lines": [
+        "A dark forest is a woodland.",
+        "Ein dunkler Wald ist ein Waldgebiet.",
+        "暗い森は森林地帯だ。",
+        "黑暗的森林是一片林地。"
+      ]
+    }
+  ],
+  "problems": []
+}

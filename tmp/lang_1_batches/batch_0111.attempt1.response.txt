@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cushion",
+      "filename": "cushion.md",
+      "lines": [
+        "A cushion is a soft object.",
+        "Ein Kissen ist ein weicher Gegenstand.",
+        "クッションは柔らかい物だ。",
+        "靠垫是一种柔软的物体。"
+      ]
+    },
+    {
+      "word": "customer",
+      "filename": "customer.md",
+      "lines": [
+        "A customer is a person.",
+        "Ein Kunde ist eine Person.",
+        "客は人だ。",
+        "顾客是人。"
+      ]
+    },
+    {
+      "word": "cut",
+      "filename": "cut.md",
+      "lines": [
+        "Cutting is an action.",
+        "Schneiden ist eine Handlung.",
+        "切ることは動作だ。",
+        "切割是一种动作。"
+      ]
+    },
+    {
+      "word": "cute",
+      "filename": "cute.md",
+      "lines": [
+        "A cute cat is an animal.",
+        "Eine süße Katze ist ein Tier.",
+        "かわいい猫は動物だ。",
+        "可爱的猫是动物。"
+      ]
+    },
+    {
+      "word": "cutter",
+      "filename": "cutter.md",
+      "lines": [
+        "A cutter is a tool.",
+        "Ein Cutter ist ein Werkzeug.",
+        "カッターは道具だ。",
+        "切割器是一种工具。"
+      ]
+    },
+    {
+      "word": "cutting",
+      "filename": "cutting.md",
+      "lines": [
+        "Cutting is an action.",
+        "Schneiden ist eine Handlung.",
+        "切ることは動作だ。",
+        "切割是一种动作。"
+      ]
+    },
+    {
+      "word": "cycle",
+      "filename": "cycle.md",
+      "lines": [
+        "A cycle is a process.",
+        "Ein Kreislauf ist ein Prozess.",
+        "サイクルは過程だ。",
+        "循环是一个过程。"
+      ]
+    },
+    {
+      "word": "cylinder",
+      "filename": "cylinder.md",
+      "lines": [
+        "A cylinder is a shape.",
+        "Ein Zylinder ist eine Form.",
+        "円柱は形だ。",
+        "圆柱体是一种形状。"
+      ]
+    },
+    {
+      "word": "cymbal",
+      "filename": "cymbal.md",
+      "lines": [
+        "A cymbal is an instrument.",
+        "Ein Becken ist ein Instrument.",
+        "シンバルは楽器だ。",
+        "钹是一种乐器。"
+      ]
+    },
+    {
+      "word": "dad",
+      "filename": "dad.md",
+      "lines": [
+        "A dad is a parent.",
+        "Ein Vater ist ein Elternteil.",
+        "お父さんは親だ。",
+        "爸爸是家长。"
+      ]
+    }
+  ],
+  "problems": []
+}

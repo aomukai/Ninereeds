@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "certifying",
+      "filename": "certifying.md",
+      "lines": [
+        "Certifying is verification.",
+        "Zertifizieren ist eine Überprüfung.",
+        "認証することは確認だ。",
+        "认证是验证。"
+      ]
+    },
+    {
+      "word": "chain",
+      "filename": "chain.md",
+      "lines": [
+        "A chain is a tool.",
+        "Eine Kette ist ein Werkzeug.",
+        "鎖は道具だ。",
+        "链条是工具。"
+      ]
+    },
+    {
+      "word": "chair",
+      "filename": "chair.md",
+      "lines": [
+        "A chair is furniture.",
+        "Ein Stuhl ist ein Möbelstück.",
+        "椅子は家具だ。",
+        "椅子是家具。"
+      ]
+    },
+    {
+      "word": "chalk",
+      "filename": "chalk.md",
+      "lines": [
+        "Chalk is a writing material.",
+        "Kreide ist ein Schreibmaterial.",
+        "チョークは筆記具だ。",
+        "粉笔是书写材料。"
+      ]
+    },
+    {
+      "word": "chalkboard",
+      "filename": "chalkboard.md",
+      "lines": [
+        "A chalkboard is a surface.",
+        "Eine Tafel ist eine Oberfläche.",
+        "黒板は表面だ。",
+        "黑板是表面。"
+      ]
+    },
+    {
+      "word": "challenge",
+      "filename": "challenge.md",
+      "lines": [
+        "A challenge is a task.",
+        "Eine Herausforderung ist eine Aufgabe.",
+        "挑戦は課題だ。",
+        "挑战是任务。"
+      ]
+    },
+    {
+      "word": "chance",
+      "filename": "chance.md",
+      "lines": [
+        "A chance is an opportunity.",
+        "Eine Chance ist eine Gelegenheit.",
+        "チャンスは機会だ。",
+        "机会是机遇。"
+      ]
+    },
+    {
+      "word": "change",
+      "filename": "change.md",
+      "lines": [
+        "Changing is transformation.",
+        "Verändern ist eine Umwandlung.",
+        "変えることは変化だ。",
+        "改变是转变。"
+      ]
+    },
+    {
+      "word": "changed",
+      "filename": "changed.md",
+      "lines": [
+        "Changing is transformation.",
+        "Verändern ist eine Umwandlung.",
+        "変えることは変化だ。",
+        "改变是转变。"
+      ]
+    },
+    {
+      "word": "changing",
+      "filename": "changing.md",
+      "lines": [
+        "Changing is transformation.",
+        "Verändern ist eine Umwandlung.",
+        "変えることは変化だ。",
+        "改变是转变。"
+      ]
+    }
+  ],
+  "problems": []
+}

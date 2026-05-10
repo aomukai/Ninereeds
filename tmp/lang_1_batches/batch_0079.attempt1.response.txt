@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cloth",
+      "filename": "cloth.md",
+      "lines": [
+        "A cloth is a fabric.",
+        "Ein Tuch ist ein Stoff.",
+        "布は布地だ。",
+        "布是布料。"
+      ]
+    },
+    {
+      "word": "cloud",
+      "filename": "cloud.md",
+      "lines": [
+        "A cloud is a weather phenomenon.",
+        "Eine Wolke ist ein Wetterphänomen.",
+        "雲は気象現象だ。",
+        "云是一种天气现象。"
+      ]
+    },
+    {
+      "word": "cloudy",
+      "filename": "cloudy.md",
+      "lines": [
+        "A cloudy sky is a sky.",
+        "Ein bewölkter Himmel ist ein Himmel.",
+        "曇った空は空だ。",
+        "多云的天空是天空。"
+      ]
+    },
+    {
+      "word": "clove",
+      "filename": "clove.md",
+      "lines": [
+        "A clove is a spice.",
+        "Eine Nelke ist ein Gewürz.",
+        "クローブは香辛料だ。",
+        "丁香是一种香料。"
+      ]
+    },
+    {
+      "word": "clover",
+      "filename": "clover.md",
+      "lines": [
+        "A clover is a plant.",
+        "Ein Klee ist eine Pflanze.",
+        "クローバーは植物だ。",
+        "三叶草是一种植物。"
+      ]
+    },
+    {
+      "word": "clown",
+      "filename": "clown.md",
+      "lines": [
+        "A clown is a performer.",
+        "Ein Clown ist ein Künstler.",
+        "ピエロは芸人だ。",
+        "小丑是表演者。"
+      ]
+    },
+    {
+      "word": "cluck",
+      "filename": "cluck.md",
+      "lines": [
+        "Clucking is a sound.",
+        "Gackern ist ein Geräusch.",
+        "コッコッと鳴くことは音だ。",
+        "咯咯叫是一种声音。"
+      ]
+    },
+    {
+      "word": "clue",
+      "filename": "clue.md",
+      "lines": [
+        "A clue is a hint.",
+        "Ein Hinweis ist ein Tipp.",
+        "手がかりはヒントだ。",
+        "线索是提示。"
+      ]
+    },
+    {
+      "word": "cluster",
+      "filename": "cluster.md",
+      "lines": [
+        "A cluster is a group.",
+        "Ein Cluster ist eine Gruppe.",
+        "クラスターは集団だ。",
+        "集群是一个群体。"
+      ]
+    },
+    {
+      "word": "clutching",
+      "filename": "clutching.md",
+      "lines": [
+        "Clutching is grasping.",
+        "Festhalten ist Greifen.",
+        "握ることは掴むことだ。",
+        "紧握是抓握。"
+      ]
+    }
+  ],
+  "problems": []
+}

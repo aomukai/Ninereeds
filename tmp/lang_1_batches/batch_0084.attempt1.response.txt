@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "comfortable",
+      "filename": "comfortable.md",
+      "lines": [
+        "A comfortable chair is furniture.",
+        "Ein bequemer Stuhl ist ein Möbelstück.",
+        "快適な椅子は家具だ。",
+        "舒适的椅子是家具。"
+      ]
+    },
+    {
+      "word": "comforting",
+      "filename": "comforting.md",
+      "lines": [
+        "A comforting hug is a gesture.",
+        "Eine tröstende Umarmung ist eine Geste.",
+        "慰めるハグはジェスチャーだ。",
+        "安慰的拥抱是一种姿态。"
+      ]
+    },
+    {
+      "word": "comfy",
+      "filename": "comfy.md",
+      "lines": [
+        "A comfy couch is furniture.",
+        "Ein gemütliches Sofa ist ein Möbelstück.",
+        "快適なソファは家具だ。",
+        "舒适的沙发是家具。"
+      ]
+    },
+    {
+      "word": "comic",
+      "filename": "comic.md",
+      "lines": [
+        "A comic is a book.",
+        "Ein Comic ist ein Buch.",
+        "漫画は本だ。",
+        "漫画是书。"
+      ]
+    },
+    {
+      "word": "coming",
+      "filename": "coming.md",
+      "lines": [
+        "Coming is arrival.",
+        "Kommen ist Ankunft.",
+        "来ることは到着だ。",
+        "来是到达。"
+      ]
+    },
+    {
+      "word": "command",
+      "filename": "command.md",
+      "lines": [
+        "A command is an order.",
+        "Ein Befehl ist eine Anweisung.",
+        "命令は指示だ。",
+        "命令是指示。"
+      ]
+    },
+    {
+      "word": "commandeering",
+      "filename": "commandeering.md",
+      "lines": [
+        "Commandeering is seizure.",
+        "Das Requirieren ist eine Beschlagnahme.",
+        "接収することは押収だ。",
+        "征用是没收。"
+      ]
+    },
+    {
+      "word": "commencing",
+      "filename": "commencing.md",
+      "lines": [
+        "Commencing is beginning.",
+        "Das Beginnen ist der Anfang.",
+        "開始することは始まりだ。",
+        "开始是起始。"
+      ]
+    },
+    {
+      "word": "commitment",
+      "filename": "commitment.md",
+      "lines": [
+        "A commitment is a promise.",
+        "Eine Verpflichtung ist ein Versprechen.",
+        "コミットメントは約束だ。",
+        "承诺是约定。"
+      ]
+    },
+    {
+      "word": "committing",
+      "filename": "committing.md",
+      "lines": [
+        "Committing is an action.",
+        "Das Begehen ist eine Handlung.",
+        "実行することは行為だ。",
+        "执行是行为。"
+      ]
+    }
+  ],
+  "problems": []
+}

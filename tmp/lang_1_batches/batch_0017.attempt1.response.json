@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778419643-k1ZOsJixfYI4bsQH09Bm",
+  "object": "chat.completion",
+  "created": 1778419643,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": "vllm-0.20.2rc1.dev129+g1acd67a79-dp2-ep-0db20b0b",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"application\",\n      \"filename\": \"application.md\",\n      \"lines\": [\n        \"An application is a request.\",\n        \"Eine Bewerbung ist ein Antrag.\",\n        \"申し込みは依頼だ。\",\n        \"申请是一种请求。\"\n      ]\n    },\n    {\n      \"word\": \"applies\",\n      \"filename\": \"applies.md\",\n      \"lines\": [\n        \"Applying is using something.\",\n        \"Anwenden ist das Nutzen von etwas.\",\n        \"適用することは使用することだ。\",\n        \"应用是使用某物。\"\n      ]\n    },\n    {\n      \"word\": \"apply\",\n      \"filename\": \"apply.md\",\n      \"lines\": [\n        \"Applying is using something.\",\n        \"Anwenden ist das Nutzen von etwas.\",\n        \"適用することは使用することだ。\",\n        \"应用是使用某物。\"\n      ]\n    },\n    {\n      \"word\": \"applying\",\n      \"filename\": \"applying.md\",\n      \"lines\": [\n        \"Applying is using something.\",\n        \"Anwenden ist das Nutzen von etwas.\",\n        \"適用することは使用することだ。\",\n        \"应用是使用某物。\"\n      ]\n    },\n    {\n      \"word\": \"appointing\",\n      \"filename\": \"appointing.md\",\n      \"lines\": [\n        \"Appointing is assigning a role.\",\n        \"Ernennen ist das Zuweisen einer Rolle.\",\n        \"任命することは役割を割り当てることだ。\",\n        \"任命是分配一个角色。\"\n      ]\n    },\n    {\n      \"word\": \"appreciated\",\n      \"filename\": \"appreciated.md\",\n      \"lines\": [\n        \"Appreciating is valuing something.\",\n        \"Wertschätzen ist das Schätzen von etwas.\",\n        \"感謝することは何かを評価することだ。\",\n        \"感激是珍视某物。\"\n      ]\n    },\n    {\n      \"word\": \"appreciating\",\n      \"filename\": \"appreciating.md\",\n      \"lines\": [\n        \"Appreciating is valuing something.\",\n        \"Wertschätzen ist das Schätzen von etwas.\",\n        \"感謝することは何かを評価することだ。\",\n        \"感激是珍视某物。\"\n      ]\n    },\n    {\n      \"word\": \"apprehending\",\n      \"filename\": \"apprehending.md\",\n      \"lines\": [\n        \"Apprehending is catching someone.\",\n        \"Festnehmen ist das Ergreifen einer Person.\",\n        \"逮捕することは人を捕まえることだ。\",\n        \"逮捕是抓住某人。\"\n      ]\n    },\n    {\n      \"word\": \"approach\",\n      \"filename\": \"approach.md\",\n      \"lines\": [\n        \"An approach is a method.\",\n        \"Ein Ansatz ist eine Methode.\",\n        \"アプローチは方法だ。\",\n        \"方法是一种途径。\"\n      ]\n    },\n    {\n      \"word\": \"appropriate\",\n      \"filename\": \"appropriate.md\",\n      \"lines\": [\n        \"An appropriate gift is a present.\",\n        \"Ein angemessenes Geschenk ist ein Präsent.\",\n        \"適切な贈り物はプレゼントだ。\",\n        \"合适的礼物是赠品。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 712,
+    "total_tokens": 1435,
+    "cost": 0.0002975742,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00030058,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00019936
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

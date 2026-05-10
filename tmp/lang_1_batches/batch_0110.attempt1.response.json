@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778432002-E3Ujkf4LrSRfxgQ4HyPC",
+  "object": "chat.completion",
+  "created": 1778432002,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"curing\",\n      \"filename\": \"curing.md\",\n      \"lines\": [\n        \"Curing is a preservation process.\",\n        \"Pökeln ist ein Konservierungsverfahren.\",\n        \"燻製は保存方法だ。\",\n        \"腌制是一种保存过程。\"\n      ]\n    },\n    {\n      \"word\": \"curiosity\",\n      \"filename\": \"curiosity.md\",\n      \"lines\": [\n        \"Curiosity is a trait.\",\n        \"Neugier ist eine Eigenschaft.\",\n        \"好奇心は特性だ。\",\n        \"好奇心是一种特质。\"\n      ]\n    },\n    {\n      \"word\": \"curiou\",\n      \"filename\": \"curiou.md\",\n      \"lines\": [\n        \"A curiou is a tool.\",\n        \"Ein Curiou ist ein Werkzeug.\",\n        \"キュリオは道具だ。\",\n        \"curiou是一种工具。\"\n      ]\n    },\n    {\n      \"word\": \"curious\",\n      \"filename\": \"curious.md\",\n      \"lines\": [\n        \"A curious cat is an animal.\",\n        \"Eine neugierige Katze ist ein Tier.\",\n        \"好奇心旺盛な猫は動物だ。\",\n        \"好奇的猫是动物。\"\n      ]\n    },\n    {\n      \"word\": \"curl\",\n      \"filename\": \"curl.md\",\n      \"lines\": [\n        \"A curl is a shape.\",\n        \"Eine Locke ist eine Form.\",\n        \"カールは形だ。\",\n        \"卷曲是一种形状。\"\n      ]\n    },\n    {\n      \"word\": \"curly\",\n      \"filename\": \"curly.md\",\n      \"lines\": [\n        \"A curly dog is an animal.\",\n        \"Ein lockiger Hund ist ein Tier.\",\n        \"巻き毛の犬は動物だ。\",\n        \"卷毛的狗是动物。\"\n      ]\n    },\n    {\n      \"word\": \"current\",\n      \"filename\": \"current.md\",\n      \"lines\": [\n        \"A current is a flow.\",\n        \"Eine Strömung ist ein Fluss.\",\n        \"流れは流動だ。\",\n        \"水流是一种流动。\"\n      ]\n    },\n    {\n      \"word\": \"curtailing\",\n      \"filename\": \"curtailing.md\",\n      \"lines\": [\n        \"Curtailing is reduction.\",\n        \"Kürzen ist Reduzierung.\",\n        \"削減は減少だ。\",\n        \"缩减是减少。\"\n      ]\n    },\n    {\n      \"word\": \"curtain\",\n      \"filename\": \"curtain.md\",\n      \"lines\": [\n        \"A curtain is a covering.\",\n        \"Ein Vorhang ist eine Abdeckung.\",\n        \"カーテンは覆いだ。\",\n        \"窗帘是一种遮盖物。\"\n      ]\n    },\n    {\n      \"word\": \"curve\",\n      \"filename\": \"curve.md\",\n      \"lines\": [\n        \"A curve is a line.\",\n        \"Eine Kurve ist eine Linie.\",\n        \"曲線は線だ。\",\n        \"曲线是一种线。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 661,
+    "total_tokens": 1384,
+    "cost": 0.000283437,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002863,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00018508
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

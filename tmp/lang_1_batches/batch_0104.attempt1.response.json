@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778430985-90JCV7Zf9PiqIjyrsTN7",
+  "object": "chat.completion",
+  "created": 1778430985,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"creating\",\n      \"filename\": \"creating.md\",\n      \"lines\": [\n        \"Creating is making something new.\",\n        \"Erschaffen ist das Herstellen von etwas Neuem.\",\n        \"創造することは新しいものを作ることだ。\",\n        \"创造就是做出新东西。\"\n      ]\n    },\n    {\n      \"word\": \"creation\",\n      \"filename\": \"creation.md\",\n      \"lines\": [\n        \"A creation is a product of imagination.\",\n        \"Eine Schöpfung ist ein Produkt der Fantasie.\",\n        \"創造物は想像力の産物だ。\",\n        \"创造物是想象力的产物。\"\n      ]\n    },\n    {\n      \"word\": \"creative\",\n      \"filename\": \"creative.md\",\n      \"lines\": [\n        \"A creative person is an artist.\",\n        \"Ein kreativer Mensch ist ein Künstler.\",\n        \"創造的な人は芸術家だ。\",\n        \"有创造力的人是艺术家。\"\n      ]\n    },\n    {\n      \"word\": \"creativity\",\n      \"filename\": \"creativity.md\",\n      \"lines\": [\n        \"Creativity is a human ability.\",\n        \"Kreativität ist eine menschliche Fähigkeit.\",\n        \"創造性は人間の能力だ。\",\n        \"创造力是人类的能力。\"\n      ]\n    },\n    {\n      \"word\": \"creator\",\n      \"filename\": \"creator.md\",\n      \"lines\": [\n        \"A creator is a maker of things.\",\n        \"Ein Schöpfer ist ein Hersteller von Dingen.\",\n        \"創造者は物を作る人だ。\",\n        \"创造者是制造东西的人。\"\n      ]\n    },\n    {\n      \"word\": \"creature\",\n      \"filename\": \"creature.md\",\n      \"lines\": [\n        \"A creature is a living being.\",\n        \"Eine Kreatur ist ein Lebewesen.\",\n        \"生き物は生命を持つ存在だ。\",\n        \"生物是有生命的个体。\"\n      ]\n    },\n    {\n      \"word\": \"credit\",\n      \"filename\": \"credit.md\",\n      \"lines\": [\n        \"Credit is a form of trust.\",\n        \"Kredit ist eine Form von Vertrauen.\",\n        \"信用は信頼の一形態だ。\",\n        \"信用是一种信任形式。\"\n      ]\n    },\n    {\n      \"word\": \"creek\",\n      \"filename\": \"creek.md\",\n      \"lines\": [\n        \"A creek is a small stream.\",\n        \"Ein Bach ist ein kleiner Fluss.\",\n        \"小川は小さな流れだ。\",\n        \"小溪是小河流。\"\n      ]\n    },\n    {\n      \"word\": \"creep\",\n      \"filename\": \"creep.md\",\n      \"lines\": [\n        \"Creeping is slow movement.\",\n        \"Kriechen ist langsame Bewegung.\",\n        \"這うことはゆっくりとした動きだ。\",\n        \"爬行是缓慢的移动。\"\n      ]\n    },\n    {\n      \"word\": \"creeping\",\n      \"filename\": \"creeping.md\",\n      \"lines\": [\n        \"Creeping is moving quietly.\",\n        \"Schleichen ist leise Bewegung.\",\n        \"忍び寄ることは静かな動きだ。\",\n        \"悄悄移动是安静的移动。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 721,
+    "completion_tokens": 705,
+    "total_tokens": 1426,
+    "cost": 0.0002953566,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00029834,
+      "upstream_inference_prompt_cost": 0.00010094,
+      "upstream_inference_completions_cost": 0.0001974
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

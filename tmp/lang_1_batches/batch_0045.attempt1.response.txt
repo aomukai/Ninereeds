@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "border",
+      "filename": "border.md",
+      "lines": [
+        "A border is a line.",
+        "Eine Grenze ist eine Linie.",
+        "国境は線だ。",
+        "边界是一条线。"
+      ]
+    },
+    {
+      "word": "bordering",
+      "filename": "bordering.md",
+      "lines": [
+        "Bordering is a relation.",
+        "Angrenzen ist eine Beziehung.",
+        "隣接することは関係だ。",
+        "接壤是一种关系。"
+      ]
+    },
+    {
+      "word": "bored",
+      "filename": "bored.md",
+      "lines": [
+        "A bored student is a student.",
+        "Ein gelangweilter Schüler ist ein Schüler.",
+        "退屈している学生は学生だ。",
+        "无聊的学生是学生。"
+      ]
+    },
+    {
+      "word": "boredom",
+      "filename": "boredom.md",
+      "lines": [
+        "Boredom is a feeling.",
+        "Langeweile ist ein Gefühl.",
+        "退屈は感情だ。",
+        "无聊是一种感觉。"
+      ]
+    },
+    {
+      "word": "boring",
+      "filename": "boring.md",
+      "lines": [
+        "A boring movie is a movie.",
+        "Ein langweiliger Film ist ein Film.",
+        "退屈な映画は映画だ。",
+        "无聊的电影是电影。"
+      ]
+    },
+    {
+      "word": "borning",
+      "filename": "borning.md",
+      "lines": [
+        "A borning baby is a baby.",
+        "Ein geborenes Baby ist ein Baby.",
+        "生まれたばかりの赤ちゃんは赤ちゃんだ。",
+        "刚出生的婴儿是婴儿。"
+      ]
+    },
+    {
+      "word": "borrowed",
+      "filename": "borrowed.md",
+      "lines": [
+        "A borrowed book is a book.",
+        "Ein geliehenes Buch ist ein Buch.",
+        "借りた本は本だ。",
+        "借来的书是书。"
+      ]
+    },
+    {
+      "word": "borrowing",
+      "filename": "borrowing.md",
+      "lines": [
+        "Borrowing is an action.",
+        "Ausleihen ist eine Handlung.",
+        "借りることは行動だ。",
+        "借是一种行为。"
+      ]
+    },
+    {
+      "word": "borrows",
+      "filename": "borrows.md",
+      "lines": [
+        "Borrows is an action.",
+        "Borgen ist eine Handlung.",
+        "借りることは行動だ。",
+        "借是一种行为。"
+      ]
+    },
+    {
+      "word": "bossy",
+      "filename": "bossy.md",
+      "lines": [
+        "A bossy person is a person.",
+        "Ein herrischer Mensch ist ein Mensch.",
+        "威張っている人は人だ。",
+        "霸道的人是人。"
+      ]
+    }
+  ],
+  "problems": []
+}

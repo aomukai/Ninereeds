@@ -29,3 +29,21 @@
 
 [user]what does it mean when your tummy hurts?
 [Ninereeds]When your tummy hurts, there is pain or discomfort in the belly. A tummy may hurt from hunger, sickness, too much food, or something else. A person with a tummy ache may want to rest, curl up, or ask for help. A tummy that hurts is not the same as a comfortable belly.
+
+[user]what does it mean to bleed?
+[Ninereeds]Bleed means to lose blood from a body. A cut on a finger can bleed. A scrape on a knee can do the same. Blood comes out of the skin when the skin is broken. The blood is a red liquid that the body needs. Bleed is not a game.
+
+[user]what does dizzy mean?
+[Ninereeds]Dizzy is a feeling. This feeling happens when a person moves in circles or spins around. The world might seem to spin. A person might need to sit or lie down. Water or rest can help. Dizzy is not steady.
+
+[user]what is exhaustion?
+[Ninereeds]Exhaustion is a state of the body and the mind after a long time of activity. The body feels heavy and slow. A tired person needs rest and sleep. A child who plays all day can feel tired at night. Exhaustion is not weakness.
+
+[user]what does exposed mean?
+[Ninereeds]Exposed means not covered or hidden. When a thing is exposed, that thing is out in the open where other things can see that thing. For example, roots of a tree can be exposed above the ground after rain washes the soil away. A person's skin can be exposed to the sun on a hot day. Exposed is not hidden.
+
+[user]what does it mean to pee?
+[Ninereeds]Pee is a liquid waste that the body makes. kidneys filter blood and make urine. the bladder holds urine. a full bladder tells a person to let urine out. pee is not a game.
+
+[user]what does it mean to poop?
+[Ninereeds]Poop is the brown matter a body leaves after food. The body takes what the body needs from food and the rest leaves through a hole called a bottom. A dog leaves this brown matter on the ground and a bird leaves this brown matter in a tree. This brown matter helps plants grow. Poop is not a toy.

@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778432033-4IYPDoeB8QwBWjxqijoc",
+  "object": "chat.completion",
+  "created": 1778432033,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"cushion\",\n      \"filename\": \"cushion.md\",\n      \"lines\": [\n        \"A cushion is a soft object.\",\n        \"Ein Kissen ist ein weicher Gegenstand.\",\n        \"クッションは柔らかい物だ。\",\n        \"靠垫是一种柔软的物体。\"\n      ]\n    },\n    {\n      \"word\": \"customer\",\n      \"filename\": \"customer.md\",\n      \"lines\": [\n        \"A customer is a person.\",\n        \"Ein Kunde ist eine Person.\",\n        \"客は人だ。\",\n        \"顾客是人。\"\n      ]\n    },\n    {\n      \"word\": \"cut\",\n      \"filename\": \"cut.md\",\n      \"lines\": [\n        \"Cutting is an action.\",\n        \"Schneiden ist eine Handlung.\",\n        \"切ることは動作だ。\",\n        \"切割是一种动作。\"\n      ]\n    },\n    {\n      \"word\": \"cute\",\n      \"filename\": \"cute.md\",\n      \"lines\": [\n        \"A cute cat is an animal.\",\n        \"Eine süße Katze ist ein Tier.\",\n        \"かわいい猫は動物だ。\",\n        \"可爱的猫是动物。\"\n      ]\n    },\n    {\n      \"word\": \"cutter\",\n      \"filename\": \"cutter.md\",\n      \"lines\": [\n        \"A cutter is a tool.\",\n        \"Ein Cutter ist ein Werkzeug.\",\n        \"カッターは道具だ。\",\n        \"切割器是一种工具。\"\n      ]\n    },\n    {\n      \"word\": \"cutting\",\n      \"filename\": \"cutting.md\",\n      \"lines\": [\n        \"Cutting is an action.\",\n        \"Schneiden ist eine Handlung.\",\n        \"切ることは動作だ。\",\n        \"切割是一种动作。\"\n      ]\n    },\n    {\n      \"word\": \"cycle\",\n      \"filename\": \"cycle.md\",\n      \"lines\": [\n        \"A cycle is a process.\",\n        \"Ein Kreislauf ist ein Prozess.\",\n        \"サイクルは過程だ。\",\n        \"循环是一个过程。\"\n      ]\n    },\n    {\n      \"word\": \"cylinder\",\n      \"filename\": \"cylinder.md\",\n      \"lines\": [\n        \"A cylinder is a shape.\",\n        \"Ein Zylinder ist eine Form.\",\n        \"円柱は形だ。\",\n        \"圆柱体是一种形状。\"\n      ]\n    },\n    {\n      \"word\": \"cymbal\",\n      \"filename\": \"cymbal.md\",\n      \"lines\": [\n        \"A cymbal is an instrument.\",\n        \"Ein Becken ist ein Instrument.\",\n        \"シンバルは楽器だ。\",\n        \"钹是一种乐器。\"\n      ]\n    },\n    {\n      \"word\": \"dad\",\n      \"filename\": \"dad.md\",\n      \"lines\": [\n        \"A dad is a parent.\",\n        \"Ein Vater ist ein Elternteil.\",\n        \"お父さんは親だ。\",\n        \"爸爸是家长。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 650,
+    "total_tokens": 1373,
+    "cost": 0.0002803878,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028322,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.000182
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

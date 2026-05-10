@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "breakfast",
+      "filename": "breakfast.md",
+      "lines": [
+        "Breakfast is a meal.",
+        "Frühstück ist eine Mahlzeit.",
+        "朝食は食事だ。",
+        "早餐是一餐。"
+      ]
+    },
+    {
+      "word": "break-through",
+      "filename": "break_through.md",
+      "lines": [
+        "A break-through is an advance.",
+        "Ein Durchbruch ist ein Fortschritt.",
+        "突破口は進歩だ。",
+        "突破是进步。"
+      ]
+    },
+    {
+      "word": "breast",
+      "filename": "breast.md",
+      "lines": [
+        "A breast is a body part.",
+        "Eine Brust ist ein Körperteil.",
+        "胸は体の一部だ。",
+        "乳房是身体部位。"
+      ]
+    },
+    {
+      "word": "breath",
+      "filename": "breath.md",
+      "lines": [
+        "Breath is air.",
+        "Atem ist Luft.",
+        "息は空気だ。",
+        "呼吸是空气。"
+      ]
+    },
+    {
+      "word": "breathe",
+      "filename": "breathe.md",
+      "lines": [
+        "Breathing is action.",
+        "Atmen ist Handlung.",
+        "呼吸することは動作だ。",
+        "呼吸是动作。"
+      ]
+    },
+    {
+      "word": "breathing",
+      "filename": "breathing.md",
+      "lines": [
+        "Breathing is a process.",
+        "Atmung ist ein Prozess.",
+        "呼吸はプロセスだ。",
+        "呼吸是过程。"
+      ]
+    },
+    {
+      "word": "breed",
+      "filename": "breed.md",
+      "lines": [
+        "Breeding is reproduction.",
+        "Züchten ist Fortpflanzung.",
+        "繁殖することは生殖だ。",
+        "繁殖是生殖。"
+      ]
+    },
+    {
+      "word": "breeding",
+      "filename": "breeding.md",
+      "lines": [
+        "Breeding is farming.",
+        "Zucht ist Landwirtschaft.",
+        "飼育は農業だ。",
+        "饲养是农业。"
+      ]
+    },
+    {
+      "word": "breeze like",
+      "filename": "breeze_like.md",
+      "lines": [
+        "A breeze-like wind is air.",
+        "Ein windartiger Wind ist Luft.",
+        "そよ風のような風は空気だ。",
+        "微风般的风是空气。"
+      ]
+    },
+    {
+      "word": "brevity",
+      "filename": "brevity.md",
+      "lines": [
+        "Brevity is conciseness.",
+        "Kürze ist Prägnanz.",
+        "簡潔さは簡明さだ。",
+        "简洁是简明。"
+      ]
+    }
+  ],
+  "problems": []
+}

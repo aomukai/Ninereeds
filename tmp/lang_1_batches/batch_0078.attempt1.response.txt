@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "clock",
+      "filename": "clock.md",
+      "lines": [
+        "A clock is a timepiece.",
+        "Eine Uhr ist ein Zeitmesser.",
+        "時計は時間を測る道具だ。",
+        "时钟是计时器。"
+      ]
+    },
+    {
+      "word": "close",
+      "filename": "close.md",
+      "lines": [
+        "A close neighbor is a person.",
+        "Ein naher Nachbar ist eine Person.",
+        "近い隣人は人だ。",
+        "近邻是人。"
+      ]
+    },
+    {
+      "word": "closed",
+      "filename": "closed.md",
+      "lines": [
+        "A closed door is a barrier.",
+        "Eine geschlossene Tür ist eine Barriere.",
+        "閉まったドアは障壁だ。",
+        "关闭的门是屏障。"
+      ]
+    },
+    {
+      "word": "closeness",
+      "filename": "closeness.md",
+      "lines": [
+        "Closeness is a bond.",
+        "Nähe ist eine Bindung.",
+        "親密さは絆だ。",
+        "亲密是纽带。"
+      ]
+    },
+    {
+      "word": "closer",
+      "filename": "closer.md",
+      "lines": [
+        "A closer look is an examination.",
+        "Ein genauerer Blick ist eine Untersuchung.",
+        "より詳しい観察は検査だ。",
+        "更仔细的观察是检查。"
+      ]
+    },
+    {
+      "word": "closet",
+      "filename": "closet.md",
+      "lines": [
+        "A closet is a storage space.",
+        "Ein Schrank ist ein Stauraum.",
+        "クローゼットは収納スペースだ。",
+        "壁橱是储物空间。"
+      ]
+    },
+    {
+      "word": "closing",
+      "filename": "closing.md",
+      "lines": [
+        "Closing is a process.",
+        "Schließen ist ein Prozess.",
+        "閉めることはプロセスだ。",
+        "关闭是一个过程。"
+      ]
+    },
+    {
+      "word": "closing_3",
+      "filename": "closing_3.md",
+      "lines": [
+        "A closing is a ceremony.",
+        "Ein Abschluss ist eine Zeremonie.",
+        "閉会は式典だ。",
+        "闭幕是仪式。"
+      ]
+    },
+    {
+      "word": "closing_4",
+      "filename": "closing_4.md",
+      "lines": [
+        "A closing is a sale.",
+        "Ein Ausverkauf ist ein Verkauf.",
+        "閉店はセールだ。",
+        "关店是促销。"
+      ]
+    },
+    {
+      "word": "closing_5",
+      "filename": "closing_5.md",
+      "lines": [
+        "A closing is a statement.",
+        "Ein Schlusswort ist eine Aussage.",
+        "閉会の言葉は声明だ。",
+        "闭幕词是声明。"
+      ]
+    }
+  ],
+  "problems": []
+}

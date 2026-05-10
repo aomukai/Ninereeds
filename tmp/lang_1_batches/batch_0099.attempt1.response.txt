@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cord",
+      "filename": "cord.md",
+      "lines": [
+        "A cord is a string.",
+        "Eine Schnur ist ein Faden.",
+        "コードは紐だ。",
+        "绳子是线。"
+      ]
+    },
+    {
+      "word": "core",
+      "filename": "core.md",
+      "lines": [
+        "A core is a center.",
+        "Ein Kern ist ein Zentrum.",
+        "芯は中心だ。",
+        "核心是中心。"
+      ]
+    },
+    {
+      "word": "cork",
+      "filename": "cork.md",
+      "lines": [
+        "A cork is a stopper.",
+        "Ein Korken ist ein Verschluss.",
+        "コルクは栓だ。",
+        "软木塞是塞子。"
+      ]
+    },
+    {
+      "word": "corn",
+      "filename": "corn.md",
+      "lines": [
+        "Corn is a grain.",
+        "Mais ist ein Getreide.",
+        "トウモロコシは穀物だ。",
+        "玉米是谷物。"
+      ]
+    },
+    {
+      "word": "corner",
+      "filename": "corner.md",
+      "lines": [
+        "A corner is an angle.",
+        "Eine Ecke ist ein Winkel.",
+        "角は角度だ。",
+        "角落是角度。"
+      ]
+    },
+    {
+      "word": "cornfield",
+      "filename": "cornfield.md",
+      "lines": [
+        "A cornfield is a field.",
+        "Ein Maisfeld ist ein Feld.",
+        "トウモロコシ畑は畑だ。",
+        "玉米地是田地。"
+      ]
+    },
+    {
+      "word": "corporeal",
+      "filename": "corporeal.md",
+      "lines": [
+        "A corporeal body is a form.",
+        "Ein körperlicher Leib ist eine Form.",
+        "肉体は形だ。",
+        "有形的身体是形态。"
+      ]
+    },
+    {
+      "word": "correct",
+      "filename": "correct.md",
+      "lines": [
+        "Correcting is fixing.",
+        "Korrigieren ist Berichtigen.",
+        "訂正することは修正だ。",
+        "纠正就是修正。"
+      ]
+    },
+    {
+      "word": "correcting",
+      "filename": "correcting.md",
+      "lines": [
+        "Correcting is adjusting.",
+        "Korrigieren ist Anpassen.",
+        "訂正することは調整だ。",
+        "纠正就是调整。"
+      ]
+    },
+    {
+      "word": "correction",
+      "filename": "correction.md",
+      "lines": [
+        "A correction is a change.",
+        "Eine Korrektur ist eine Änderung.",
+        "訂正は変更だ。",
+        "纠正是改变。"
+      ]
+    }
+  ],
+  "problems": []
+}

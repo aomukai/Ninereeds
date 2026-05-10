@@ -23,3 +23,6 @@
 
 [user]what does left it somewhere mean?
 [Ninereeds]Left it somewhere means the person put something down in a place and did not bring it away again. A child may leave a coat on a chair or a book on a table. The phrase explains one way objects become lost. Remembering where it was left can help the search. Left it somewhere is not the same as carrying it with you.
+
+[user]what does missed mean?
+[Ninereeds]Something that does not arrive or does not happen as planned is a missed thing. a child watches a bus leave the bus stop. the child did not catch the bus. a friend arrives at a party after the party ends. that friend arrives too late. missed is not gone.

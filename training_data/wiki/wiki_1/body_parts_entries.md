@@ -86,3 +86,21 @@
 
 [user]what is an eyebrow?
 [Ninereeds]An eyebrow is the line of short hairs above an eye. Eyebrows help block sweat and light from falling into the eyes. People move their eyebrows to show surprise, worry, or thinking. Each person has two eyebrows, one above each eye. An eyebrow is not an eyelid.
+
+[user]what is an ankle?
+[Ninereeds]An ankle is a joint that connects a foot to a leg. This joint bends to help a person walk, run, or stand on the ground. Skin and muscle cover the outside of this joint. A person can twist this joint by stepping on an uneven surface. The ankle supports the weight of the body during each step. Ankle is not a knee.
+
+[user]what is a breast?
+[Ninereeds]A breast is a body part on the front of a female human chest. The chest has two such organs. Each organ contains milk glands and fat tissue. A mother produces milk from the nipple to feed a baby. The milk gives nourishment to the child. breast is not a wing.
+
+[user]what is an iris?
+[Ninereeds]Iris is a kind of flower that grows from the ground in spring. This plant has tall green leaves that look like blades. The flowers come in many colors such as purple, blue, yellow, white, pink, and orange. The flower has three large petals that point upward and three small petals that hang downward. This plant grows near water in gardens and in the wild. iris is not a tree.
+
+[user]what is a nipple?
+[Ninereeds]A nipple is a small raised bump on the front of a chest. Each body has two, one on each side. The skin around a nipple is soft. A mother gives warm milk so a baby can drink. Nipple is not a button.
+
+[user]what is a posture?
+[Ninereeds]A posture is the way a person holds a body when sitting or standing. The spine stays straight and the shoulders stay back for a good alignment. A person who sits at a desk with a straight back and a tall head keeps the body aligned. A bad way of holding a body strains the muscles and can cause pain. A posture is not a curve.
+
+[user]what is a shoulderblade?
+[Ninereeds]A shoulderblade is a flat bone in the upper back. Each body has two shoulderblades. The bone connects the arm bone to the collarbone. Muscles cover the bone and help move the arms. shoulderblade is not a soft tissue.

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "branch",
+      "filename": "branch.md",
+      "lines": [
+        "A branch is a part of a tree.",
+        "Ein Ast ist ein Teil eines Baumes.",
+        "枝は木の一部だ。",
+        "树枝是树的一部分。"
+      ]
+    },
+    {
+      "word": "brand",
+      "filename": "brand.md",
+      "lines": [
+        "A brand is a name.",
+        "Eine Marke ist ein Name.",
+        "ブランドは名前だ。",
+        "品牌是一个名称。"
+      ]
+    },
+    {
+      "word": "branding",
+      "filename": "branding.md",
+      "lines": [
+        "Branding is marketing.",
+        "Branding ist Marketing.",
+        "ブランディングはマーケティングだ。",
+        "品牌塑造是营销。"
+      ]
+    },
+    {
+      "word": "brave",
+      "filename": "brave.md",
+      "lines": [
+        "A brave lion is a lion.",
+        "Ein mutiger Löwe ist ein Löwe.",
+        "勇敢なライオンはライオンだ。",
+        "勇敢的狮子是狮子。"
+      ]
+    },
+    {
+      "word": "brave person",
+      "filename": "brave_person.md",
+      "lines": [
+        "A brave person is a person.",
+        "Ein mutiger Mensch ist ein Mensch.",
+        "勇敢な人は人だ。",
+        "勇敢的人是人。"
+      ]
+    },
+    {
+      "word": "bravery",
+      "filename": "bravery.md",
+      "lines": [
+        "Bravery is a quality.",
+        "Tapferkeit ist eine Eigenschaft.",
+        "勇気は性質だ。",
+        "勇敢是一种品质。"
+      ]
+    },
+    {
+      "word": "brazing",
+      "filename": "brazing.md",
+      "lines": [
+        "Brazing is a joining process.",
+        "Hartlöten ist ein Fügeverfahren.",
+        "ろう付けは接合プロセスだ。",
+        "钎焊是一种连接工艺。"
+      ]
+    },
+    {
+      "word": "bread",
+      "filename": "bread.md",
+      "lines": [
+        "Bread is food.",
+        "Brot ist Nahrung.",
+        "パンは食べ物だ。",
+        "面包是食物。"
+      ]
+    },
+    {
+      "word": "breadcrumb",
+      "filename": "breadcrumb.md",
+      "lines": [
+        "A breadcrumb is a small piece.",
+        "Ein Brotkrümel ist ein kleines Stück.",
+        "パンくずは小さなかけらだ。",
+        "面包屑是小碎片。"
+      ]
+    },
+    {
+      "word": "break",
+      "filename": "break.md",
+      "lines": [
+        "A break is a rest.",
+        "Eine Pause ist eine Erholung.",
+        "休憩は休息だ。",
+        "休息是放松。"
+      ]
+    }
+  ],
+  "problems": []
+}

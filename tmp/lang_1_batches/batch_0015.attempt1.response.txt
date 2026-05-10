@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "annoying",
+      "filename": "annoying.md",
+      "lines": [
+        "An annoying fly is an insect.",
+        "Eine lästige Fliege ist ein Insekt.",
+        "迷惑なハエは昆虫だ。",
+        "讨厌的苍蝇是昆虫。"
+      ]
+    },
+    {
+      "word": "answer",
+      "filename": "answer.md",
+      "lines": [
+        "An answer is a reply.",
+        "Eine Antwort ist eine Erwiderung.",
+        "答えは返事だ。",
+        "答案是回复。"
+      ]
+    },
+    {
+      "word": "answering",
+      "filename": "answering.md",
+      "lines": [
+        "Answering is a response.",
+        "Antworten ist eine Reaktion.",
+        "答えることは反応だ。",
+        "回答是一种反应。"
+      ]
+    },
+    {
+      "word": "anthill",
+      "filename": "anthill.md",
+      "lines": [
+        "An anthill is a nest.",
+        "Ein Ameisenhügel ist ein Nest.",
+        "蟻塚は巣だ。",
+        "蚁丘是巢穴。"
+      ]
+    },
+    {
+      "word": "anticipating",
+      "filename": "anticipating.md",
+      "lines": [
+        "Anticipating is an expectation.",
+        "Voraussehen ist eine Erwartung.",
+        "予測することは期待だ。",
+        "预测是一种期待。"
+      ]
+    },
+    {
+      "word": "antler",
+      "filename": "antler.md",
+      "lines": [
+        "An antler is a bone.",
+        "Ein Geweih ist ein Knochen.",
+        "角は骨だ。",
+        "鹿角是骨头。"
+      ]
+    },
+    {
+      "word": "anymore",
+      "filename": "anymore.md",
+      "lines": [
+        "Anymore is a time adverb.",
+        "Nicht mehr ist ein Zeitadverb.",
+        "もはやは時間副詞だ。",
+        "不再是一个时间副词。"
+      ]
+    },
+    {
+      "word": "anyone",
+      "filename": "anyone.md",
+      "lines": [
+        "Anyone is a person.",
+        "Jeder ist eine Person.",
+        "誰でもは人だ。",
+        "任何人都是人。"
+      ]
+    },
+    {
+      "word": "anything",
+      "filename": "anything.md",
+      "lines": [
+        "Anything is an object.",
+        "Alles ist ein Objekt.",
+        "何でもは物だ。",
+        "任何东西都是物体。"
+      ]
+    },
+    {
+      "word": "anywhere",
+      "filename": "anywhere.md",
+      "lines": [
+        "Anywhere is a place.",
+        "Überall ist ein Ort.",
+        "どこでもは場所だ。",
+        "任何地方都是地点。"
+      ]
+    }
+  ],
+  "problems": []
+}

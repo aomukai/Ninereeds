@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "cell",
+      "filename": "cell.md",
+      "lines": [
+        "A cell is a biological unit.",
+        "Eine Zelle ist eine biologische Einheit.",
+        "細胞は生物の単位だ。",
+        "细胞是生物单位。"
+      ]
+    },
+    {
+      "word": "celsiu",
+      "filename": "celsiu.md",
+      "lines": [
+        "A celsiu is a temperature unit.",
+        "Ein Celsiu ist eine Temperatureinheit.",
+        "セルシウは温度の単位だ。",
+        "塞尔休是温度单位。"
+      ]
+    },
+    {
+      "word": "cementing",
+      "filename": "cementing.md",
+      "lines": [
+        "Cementing is a binding process.",
+        "Zementieren ist ein Bindeprozess.",
+        "セメント作業は結合工程だ。",
+        "水泥作业是粘结过程。"
+      ]
+    },
+    {
+      "word": "cent",
+      "filename": "cent.md",
+      "lines": [
+        "A cent is a monetary unit.",
+        "Ein Cent ist eine Geldeinheit.",
+        "セントは通貨の単位だ。",
+        "分是货币单位。"
+      ]
+    },
+    {
+      "word": "centimeter",
+      "filename": "centimeter.md",
+      "lines": [
+        "A centimeter is a unit of length.",
+        "Ein Zentimeter ist eine Längeneinheit.",
+        "センチメートルは長さの単位だ。",
+        "厘米是长度单位。"
+      ]
+    },
+    {
+      "word": "central",
+      "filename": "central.md",
+      "lines": [
+        "A central park is a park.",
+        "Ein zentraler Park ist ein Park.",
+        "中央公園は公園だ。",
+        "中央公园是公园。"
+      ]
+    },
+    {
+      "word": "centrality",
+      "filename": "centrality.md",
+      "lines": [
+        "Centrality is a property.",
+        "Zentralität ist eine Eigenschaft.",
+        "中心性は性質だ。",
+        "中心性是性质。"
+      ]
+    },
+    {
+      "word": "century",
+      "filename": "century.md",
+      "lines": [
+        "A century is a period of time.",
+        "Ein Jahrhundert ist eine Zeitspanne.",
+        "世紀は時間の期間だ。",
+        "世纪是时间段。"
+      ]
+    },
+    {
+      "word": "cereal",
+      "filename": "cereal.md",
+      "lines": [
+        "A cereal is a food.",
+        "Ein Müsli ist ein Lebensmittel.",
+        "シリアルは食品だ。",
+        "麦片是食品。"
+      ]
+    },
+    {
+      "word": "certainty",
+      "filename": "certainty.md",
+      "lines": [
+        "Certainty is a state of mind.",
+        "Gewissheit ist ein Geisteszustand.",
+        "確実性は心理状態だ。",
+        "确定性是心理状态。"
+      ]
+    }
+  ],
+  "problems": []
+}

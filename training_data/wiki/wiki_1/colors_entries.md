@@ -59,3 +59,9 @@
 
 [user]what is the spectrum?
 [Ninereeds]The spectrum is the full range of colors in light. A rainbow shows part of the spectrum. The spectrum helps people think about colors as one big set. Red, orange, yellow, green, blue, and purple are all part of the spectrum. The spectrum is not a single color.
+
+[user]what is a colour?
+[Ninereeds]Colour is a way that light bounces from a thing and the eye sees one kind of light. A red apple looks red because the apple skin takes in some light and sends back red light. A yellow banana looks yellow because the banana skin takes in some light and sends back yellow light. Each colour has a different light wave. Colour is not a sound.
+
+[user]what is a hue?
+[Ninereeds]Hue is the name for a type of color. Red, blue, green, and yellow are all hues. A ripe tomato has a red color. The sky on a clear day has a blue color. This quality is one part of how the human eye sees light. Hue is not the same as brightness or shape.

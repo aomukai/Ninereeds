@@ -41,3 +41,27 @@
 
 [user]what is a sailboat?
 [Ninereeds]A sailboat is a boat that moves by catching the wind in its sails. Sails are large pieces of cloth attached to a tall pole called a mast. People steer a sailboat by moving the sail and a part called the rudder. Sailboats do not need an engine when the wind is strong. A sailboat is not a motorboat.
+
+[user]what is a cab?
+[Ninereeds]A cab is a kind of car that carries people from one place to another for money. A person waves a hand on a city street to call this vehicle. The driver takes each passenger to the right place. A rider pays a fare for the trip. A cab is not a bus.
+
+[user]what is a cargo?
+[Ninereeds]Cargo is goods that are moved from one place to another. A ship carries cargo across the ocean. A truck brings such goods to stores for people to buy. Food, clothes, and many other products are carried this way. cargo is not a person.
+
+[user]what is a cruise?
+[Ninereeds]A cruise is a trip on a large ship that travels across the ocean. A cruise ship carries many people to warm places with sun and beaches. People eat food, swim in pools, and play games on the ship. For example, a family might take a cruise from one island to another. A cruise is not a car ride.
+
+[user]what is a handlebar?
+[Ninereeds]A handlebar is a part of a bicycle or scooter. A handlebar is a long bar with two grips at each end. A rider uses hands to hold the bar and turn the vehicle. The bar helps a rider control direction. The bar is made of metal and rubber. A handlebar is not a wheel.
+
+[user]what is a hull?
+[Ninereeds]Hull is the outside part of a boat or ship. the hull sits in the water and keeps the inside dry. this outside part can be made of wood, metal, or strong glass fibers. the outside part helps the boat move across lakes and oceans. a boat with a strong outside part can carry people and cargo safely. hull is not a lid or a roof.
+
+[user]what is a motorcycle?
+[Ninereeds]A motorcycle is a road vehicle with two wheels and an engine. A person sits on a seat and steers with handlebars. People ride on streets and highways to commute and travel. One example is a sport bike for fast riding. Another example is a scooter for short trips. Motorcycle is not a car.
+
+[user]what is a runway?
+[Ninereeds]A runway is a long flat surface at an airport. Airplanes use this surface to speed up and lift off from the ground. Airplanes also use this surface to touch down and stop after a flight. The surface has lights along each side so pilots can see the strip at night. Runway is not a road.
+
+[user]what is traffic?
+[Ninereeds]Traffic is the movement of cars, trucks, and buses along streets and roads. When many vehicles use the same road at the same time, a line of cars forms. A red light tells drivers to stop, and a green light tells drivers to go. People must wait at a crosswalk for cars to pass before walking across the street. Traffic is not stillness.

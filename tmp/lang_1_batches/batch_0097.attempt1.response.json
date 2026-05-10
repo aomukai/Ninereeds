@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778430482-SDvbKfqsfYZ8L5337CNq",
+  "object": "chat.completion",
+  "created": 1778430482,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"conveying\",\n      \"filename\": \"conveying.md\",\n      \"lines\": [\n        \"Conveying is communication.\",\n        \"Vermitteln ist Kommunikation.\",\n        \"伝えることはコミュニケーションだ。\",\n        \"传达是沟通。\"\n      ]\n    },\n    {\n      \"word\": \"convincing\",\n      \"filename\": \"convincing.md\",\n      \"lines\": [\n        \"Convincing is persuasion.\",\n        \"Überzeugen ist Überredung.\",\n        \"説得することは説得だ。\",\n        \"说服是劝说。\"\n      ]\n    },\n    {\n      \"word\": \"cook\",\n      \"filename\": \"cook.md\",\n      \"lines\": [\n        \"A cook is a person.\",\n        \"Ein Koch ist eine Person.\",\n        \"料理人は人だ。\",\n        \"厨师是一个人。\"\n      ]\n    },\n    {\n      \"word\": \"cooked meal\",\n      \"filename\": \"cooked_meal.md\",\n      \"lines\": [\n        \"A cooked meal is food.\",\n        \"Eine gekochte Mahlzeit ist Essen.\",\n        \"調理された食事は食べ物だ。\",\n        \"熟食是食物。\"\n      ]\n    },\n    {\n      \"word\": \"cookie\",\n      \"filename\": \"cookie.md\",\n      \"lines\": [\n        \"A cookie is a snack.\",\n        \"Ein Keks ist ein Snack.\",\n        \"クッキーはお菓子だ。\",\n        \"饼干是零食。\"\n      ]\n    },\n    {\n      \"word\": \"cooking\",\n      \"filename\": \"cooking.md\",\n      \"lines\": [\n        \"Cooking is preparation.\",\n        \"Kochen ist Zubereitung.\",\n        \"料理することは調理だ。\",\n        \"烹饪是制作。\"\n      ]\n    },\n    {\n      \"word\": \"cooky\",\n      \"filename\": \"cooky.md\",\n      \"lines\": [\n        \"A cooky is a snack.\",\n        \"Ein Keks ist ein Snack.\",\n        \"クッキーはお菓子だ。\",\n        \"饼干是零食。\"\n      ]\n    },\n    {\n      \"word\": \"cool\",\n      \"filename\": \"cool.md\",\n      \"lines\": [\n        \"A cool drink is a beverage.\",\n        \"Ein kühles Getränk ist ein Getränk.\",\n        \"冷たい飲み物は飲料だ。\",\n        \"冷饮是饮料。\"\n      ]\n    },\n    {\n      \"word\": \"cooler\",\n      \"filename\": \"cooler.md\",\n      \"lines\": [\n        \"A cooler is a container.\",\n        \"Ein Kühler ist ein Behälter.\",\n        \"クーラーは容器だ。\",\n        \"冷却器是容器。\"\n      ]\n    },\n    {\n      \"word\": \"cooling\",\n      \"filename\": \"cooling.md\",\n      \"lines\": [\n        \"Cooling is temperature reduction.\",\n        \"Kühlen ist Temperatursenkung.\",\n        \"冷やすことは温度低下だ。\",\n        \"冷却就是降温。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 674,
+    "total_tokens": 1397,
+    "cost": 0.0002870406,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028994,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00018872
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

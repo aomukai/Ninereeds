@@ -29,3 +29,6 @@
 
 [user]what is a privilege?
 [Ninereeds]A privilege is something special that a person is allowed to do or have because of a rule, a role, or earned trust. A privilege is not something everyone is given by default. A child may earn the privilege of more free time by showing responsibility. Privileges can be given or taken away. A privilege is not the same as a right.
+
+[user]what is population?
+[Ninereeds]Population is the number of people who live in a place. A city has a larger number of people than a small town. A neighborhood is also a place that has a group of people. Plants and animals in one area are also called a population. population is not a single thing.

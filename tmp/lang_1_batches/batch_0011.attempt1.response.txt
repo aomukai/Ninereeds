@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "album",
+      "filename": "album.md",
+      "lines": [
+        "An album is a collection.",
+        "Ein Album ist eine Sammlung.",
+        "アルバムはコレクションだ。",
+        "专辑是一种收藏。"
+      ]
+    },
+    {
+      "word": "alert",
+      "filename": "alert.md",
+      "lines": [
+        "An alert is a warning.",
+        "Ein Alarm ist eine Warnung.",
+        "アラートは警告だ。",
+        "警报是一种警告。"
+      ]
+    },
+    {
+      "word": "alerting",
+      "filename": "alerting.md",
+      "lines": [
+        "Alerting is notification.",
+        "Alarmieren ist Benachrichtigung.",
+        "アラート発信は通知だ。",
+        "发出警报是通知。"
+      ]
+    },
+    {
+      "word": "algebra",
+      "filename": "algebra.md",
+      "lines": [
+        "Algebra is a branch of mathematics.",
+        "Algebra ist ein Teilgebiet der Mathematik.",
+        "代数学は数学の分野だ。",
+        "代数是数学的一个分支。"
+      ]
+    },
+    {
+      "word": "alice",
+      "filename": "alice.md",
+      "lines": [
+        "Alice is a person.",
+        "Alice ist eine Person.",
+        "アリスは人だ。",
+        "爱丽丝是一个人。"
+      ]
+    },
+    {
+      "word": "aligning",
+      "filename": "aligning.md",
+      "lines": [
+        "Aligning is positioning.",
+        "Ausrichten ist Positionieren.",
+        "位置合わせは配置だ。",
+        "对齐是定位。"
+      ]
+    },
+    {
+      "word": "alignment",
+      "filename": "alignment.md",
+      "lines": [
+        "An alignment is a position.",
+        "Eine Ausrichtung ist eine Position.",
+        "アライメントは位置だ。",
+        "对齐是一种位置。"
+      ]
+    },
+    {
+      "word": "alike",
+      "filename": "alike.md",
+      "lines": [
+        "Alike siblings are relatives.",
+        "Ähnliche Geschwister sind Verwandte.",
+        "似た兄弟は親戚だ。",
+        "相似的兄弟姐妹是亲戚。"
+      ]
+    },
+    {
+      "word": "alive",
+      "filename": "alive.md",
+      "lines": [
+        "An alive animal is a creature.",
+        "Ein lebendiges Tier ist ein Lebewesen.",
+        "生きている動物は生物だ。",
+        "活着的动物是生物。"
+      ]
+    },
+    {
+      "word": "allergic",
+      "filename": "allergic.md",
+      "lines": [
+        "An allergic person is a patient.",
+        "Eine allergische Person ist ein Patient.",
+        "アレルギーの人は患者だ。",
+        "过敏的人是一种病人。"
+      ]
+    }
+  ],
+  "problems": []
+}

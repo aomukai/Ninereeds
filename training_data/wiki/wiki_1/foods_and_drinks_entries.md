@@ -41,3 +41,24 @@
 
 [user]what is water?
 [Ninereeds]Water is a clear drink that living things need every day. People drink water when they are thirsty. Water is also used for washing, cooking, and growing food. Rivers, lakes, rain, and ice are all forms of water. Water is not milk.
+
+[user]what is a coffee?
+[Ninereeds]Coffee is a hot drink made from the roasted seeds of a plant. The seeds are called coffee beans. People crush the roasted beans and mix the grounds with hot water to make the drink. Many people drink the hot drink in the morning to feel awake. The drink has a bitter taste. Coffee is not juice.
+
+[user]what does delicious mean?
+[Ninereeds]Delicious is a word that describes food with a good taste. Sweet foods like cake or fruit can be tasty. Fresh bread from the oven has a yummy flavor. Sugar makes foods taste sweeter. People enjoy eating good food. delicious is not plain.
+
+[user]what is a lemonade?
+[Ninereeds]Lemonade is a cold drink made from lemons, water, and sugar. The drink has a sweet and sour taste. People make this drink on warm summer days. Lemonade is not a medicine.
+
+[user]what does it mean to nibble?
+[Ninereeds]A nibble is a small bite taken from foods. A mouse nibbles on a piece of cheese. A rabbit takes a tiny bite of carrot. A person takes a tiny bite of cracker. Nibble is not a big bite.
+
+[user]what is a soy?
+[Ninereeds]Soy is a type of plant that grows in fields. The plant grows small green pods with seeds inside. The seeds are called beans. The beans give milk, tofu, and oil that people use for cooking. These foods are a healthy source of protein for meals. Soy is not a meat.
+
+[user]what is a takeaway?
+[Ninereeds]A takeaway is food that a person buys from a restaurant to eat at home. The restaurant prepares the meal and packs the food into a bag or a box. A customer can order food from a restaurant and bring the container to a home kitchen. The meal stays warm during the trip from the restaurant to the home. Takeaway is not a meal cooked inside a home kitchen.
+
+[user]what is a yogurt?
+[Ninereeds]Yogurt is a food made from milk. Good bacteria turn the milk thick and sour. People eat this food for breakfast or as a snack. Some yogurt comes in a small cup with fruit. Yogurt is not a liquid drink.

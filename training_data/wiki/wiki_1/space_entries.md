@@ -104,3 +104,6 @@
 
 [user]what is a corner?
 [Ninereeds]A corner is the place where two sides meet. A room has corners, and a box has corners. Corners help give a shape its form. A corner is not the same as the center.
+
+[user]what is universe?
+[Ninereeds]The universe contains all space, matter, and energy that exists. The universe holds countless stars, planets, and galaxies. Earth is a planet that orbits the sun within one galaxy. The night sky shows many stars that are far away in space. The universe is not a small thing.

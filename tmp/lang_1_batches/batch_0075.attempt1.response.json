@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778428155-gkuvbudDoCrbVcZ4Jhtu",
+  "object": "chat.completion",
+  "created": 1778428155,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": "vllm-0.20.2rc1.dev129+g1acd67a79-dp2-ep-0db20b0b",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"clara\",\n      \"filename\": \"clara.md\",\n      \"lines\": [\n        \"Clara is a name.\",\n        \"Clara ist ein Name.\",\n        \"クララは名前だ。\",\n        \"克拉拉是一个名字。\"\n      ]\n    },\n    {\n      \"word\": \"clarifying\",\n      \"filename\": \"clarifying.md\",\n      \"lines\": [\n        \"Clarifying is explaining.\",\n        \"Klären ist Erklären.\",\n        \"明確にすることは説明することだ。\",\n        \"澄清就是解释。\"\n      ]\n    },\n    {\n      \"word\": \"clarity\",\n      \"filename\": \"clarity.md\",\n      \"lines\": [\n        \"Clarity is a quality.\",\n        \"Klarheit ist eine Eigenschaft.\",\n        \"明瞭さは性質だ。\",\n        \"清晰是一种品质。\"\n      ]\n    },\n    {\n      \"word\": \"clas\",\n      \"filename\": \"clas.md\",\n      \"lines\": [\n        \"Clas is a name.\",\n        \"Clas ist ein Name.\",\n        \"クラスは名前だ。\",\n        \"克拉斯是一个名字。\"\n      ]\n    },\n    {\n      \"word\": \"clash\",\n      \"filename\": \"clash.md\",\n      \"lines\": [\n        \"A clash is a conflict.\",\n        \"Ein Zusammenstoß ist ein Konflikt.\",\n        \"衝突は対立だ。\",\n        \"冲突是一种对立。\"\n      ]\n    },\n    {\n      \"word\": \"clashing\",\n      \"filename\": \"clashing.md\",\n      \"lines\": [\n        \"Clashing is conflicting.\",\n        \"Zusammenstoßen ist Konflikthaben.\",\n        \"衝突することは対立することだ。\",\n        \"冲突就是对立。\"\n      ]\n    },\n    {\n      \"word\": \"clasping\",\n      \"filename\": \"clasping.md\",\n      \"lines\": [\n        \"Clasping is holding.\",\n        \"Umklammern ist Festhalten.\",\n        \"握りしめることは保持することだ。\",\n        \"紧握就是抓住。\"\n      ]\n    },\n    {\n      \"word\": \"class\",\n      \"filename\": \"class.md\",\n      \"lines\": [\n        \"A class is a group.\",\n        \"Eine Klasse ist eine Gruppe.\",\n        \"クラスは集団だ。\",\n        \"班级是一个群体。\"\n      ]\n    },\n    {\n      \"word\": \"classic\",\n      \"filename\": \"classic.md\",\n      \"lines\": [\n        \"A classic book is a book.\",\n        \"Ein klassisches Buch ist ein Buch.\",\n        \"古典的な本は本だ。\",\n        \"经典的书是书。\"\n      ]\n    },\n    {\n      \"word\": \"classification\",\n      \"filename\": \"classification.md\",\n      \"lines\": [\n        \"Classification is sorting.\",\n        \"Klassifikation ist Sortieren.\",\n        \"分類は整理することだ。\",\n        \"分类就是整理。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 643,
+    "total_tokens": 1367,
+    "cost": 0.000278586,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002814,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.00018004
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "conductor",
+      "filename": "conductor.md",
+      "lines": [
+        "A conductor is a person.",
+        "Ein Dirigent ist eine Person.",
+        "指揮者は人だ。",
+        "指挥是人。"
+      ]
+    },
+    {
+      "word": "cone",
+      "filename": "cone.md",
+      "lines": [
+        "A cone is a shape.",
+        "Ein Kegel ist eine Form.",
+        "円錐は形だ。",
+        "圆锥是形状。"
+      ]
+    },
+    {
+      "word": "confidence",
+      "filename": "confidence.md",
+      "lines": [
+        "Confidence is a feeling.",
+        "Selbstvertrauen ist ein Gefühl.",
+        "自信は感情だ。",
+        "自信是情感。"
+      ]
+    },
+    {
+      "word": "confident",
+      "filename": "confident.md",
+      "lines": [
+        "A confident person is a person.",
+        "Ein selbstbewusster Mensch ist ein Mensch.",
+        "自信のある人は人だ。",
+        "自信的人是人。"
+      ]
+    },
+    {
+      "word": "confining",
+      "filename": "confining.md",
+      "lines": [
+        "Confining is restriction.",
+        "Einschränken ist Beschränkung.",
+        "制限することは制約だ。",
+        "限制是约束。"
+      ]
+    },
+    {
+      "word": "confirmation",
+      "filename": "confirmation.md",
+      "lines": [
+        "Confirmation is a statement.",
+        "Eine Bestätigung ist eine Aussage.",
+        "確認は声明だ。",
+        "确认是声明。"
+      ]
+    },
+    {
+      "word": "confirming",
+      "filename": "confirming.md",
+      "lines": [
+        "Confirming is verification.",
+        "Bestätigen ist Verifizierung.",
+        "確認することは検証だ。",
+        "确认是验证。"
+      ]
+    },
+    {
+      "word": "confiscating",
+      "filename": "confiscating.md",
+      "lines": [
+        "Confiscating is taking.",
+        "Beschlagnahmen ist Nehmen.",
+        "没収することは奪うことだ。",
+        "没收是夺取。"
+      ]
+    },
+    {
+      "word": "conflating",
+      "filename": "conflating.md",
+      "lines": [
+        "Conflating is merging.",
+        "Vermischen ist Zusammenführen.",
+        "混同することは融合だ。",
+        "混同是合并。"
+      ]
+    },
+    {
+      "word": "conflict",
+      "filename": "conflict.md",
+      "lines": [
+        "A conflict is a disagreement.",
+        "Ein Konflikt ist eine Meinungsverschiedenheit.",
+        "紛争は意見の相違だ。",
+        "冲突是分歧。"
+      ]
+    }
+  ],
+  "problems": []
+}

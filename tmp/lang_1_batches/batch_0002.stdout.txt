@@ -1,0 +1,3 @@
+- Files created: 10
+- Output directory: `training_data/lang/lang_1/`
+- Skipped/problematic words: none

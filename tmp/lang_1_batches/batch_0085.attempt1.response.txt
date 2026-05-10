@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "common",
+      "filename": "common.md",
+      "lines": [
+        "A common cold is a disease.",
+        "Eine häufige Erkältung ist eine Krankheit.",
+        "よくある風邪は病気だ。",
+        "普通感冒是一种疾病。"
+      ]
+    },
+    {
+      "word": "communicating",
+      "filename": "communicating.md",
+      "lines": [
+        "Communicating is interaction.",
+        "Kommunizieren ist Interaktion.",
+        "コミュニケーションすることは交流だ。",
+        "沟通是互动。"
+      ]
+    },
+    {
+      "word": "communication",
+      "filename": "communication.md",
+      "lines": [
+        "Communication is a process.",
+        "Kommunikation ist ein Prozess.",
+        "コミュニケーションはプロセスだ。",
+        "沟通是一个过程。"
+      ]
+    },
+    {
+      "word": "community",
+      "filename": "community.md",
+      "lines": [
+        "Community is a group.",
+        "Gemeinschaft ist eine Gruppe.",
+        "コミュニティはグループだ。",
+        "社区是一个群体。"
+      ]
+    },
+    {
+      "word": "compact",
+      "filename": "compact.md",
+      "lines": [
+        "A compact car is a vehicle.",
+        "Ein kompaktes Auto ist ein Fahrzeug.",
+        "コンパクトな車は乗り物だ。",
+        "紧凑型汽车是一种车辆。"
+      ]
+    },
+    {
+      "word": "compacting",
+      "filename": "compacting.md",
+      "lines": [
+        "Compacting is compression.",
+        "Verdichten ist Kompression.",
+        "圧縮することは圧縮処理だ。",
+        "压缩是一种处理。"
+      ]
+    },
+    {
+      "word": "comparable",
+      "filename": "comparable.md",
+      "lines": [
+        "A comparable house is a building.",
+        "Ein vergleichbares Haus ist ein Gebäude.",
+        "比較可能な家は建物だ。",
+        "可比较的房子是建筑物。"
+      ]
+    },
+    {
+      "word": "comparative",
+      "filename": "comparative.md",
+      "lines": [
+        "A comparative chart is a diagram.",
+        "Eine vergleichende Tabelle ist ein Diagramm.",
+        "比較チャートは図表だ。",
+        "比较图表是一种图表。"
+      ]
+    },
+    {
+      "word": "compare",
+      "filename": "compare.md",
+      "lines": [
+        "Comparing is evaluation.",
+        "Vergleichen ist Bewertung.",
+        "比較することは評価だ。",
+        "比较是评估。"
+      ]
+    },
+    {
+      "word": "comparison",
+      "filename": "comparison.md",
+      "lines": [
+        "Comparison is an analysis.",
+        "Vergleich ist eine Analyse.",
+        "比較は分析だ。",
+        "比较是一种分析。"
+      ]
+    }
+  ],
+  "problems": []
+}

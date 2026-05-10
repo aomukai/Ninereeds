@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "darkness",
+      "filename": "darkness.md",
+      "lines": [
+        "Darkness is the absence of light.",
+        "Dunkelheit ist die Abwesenheit von Licht.",
+        "暗闇は光のない状態だ。",
+        "黑暗是没有光的状态。"
+      ]
+    },
+    {
+      "word": "darting",
+      "filename": "darting.md",
+      "lines": [
+        "Darting is quick movement.",
+        "Darting ist schnelle Bewegung.",
+        "ダッシュすることは素早い動きだ。",
+        "猛冲是快速移动。"
+      ]
+    },
+    {
+      "word": "dash",
+      "filename": "dash.md",
+      "lines": [
+        "A dash is a punctuation mark.",
+        "Ein Gedankenstrich ist ein Satzzeichen.",
+        "ダッシュは句読点だ。",
+        "破折号是一种标点符号。"
+      ]
+    },
+    {
+      "word": "dashing",
+      "filename": "dashing.md",
+      "lines": [
+        "Dashing is running quickly.",
+        "Dashing ist schnelles Laufen.",
+        "突進することは速く走ることだ。",
+        "冲刺是快速奔跑。"
+      ]
+    },
+    {
+      "word": "date",
+      "filename": "date.md",
+      "lines": [
+        "A date is a day on the calendar.",
+        "Ein Datum ist ein Tag im Kalender.",
+        "日付はカレンダーの一日だ。",
+        "日期是日历上的一天。"
+      ]
+    },
+    {
+      "word": "datum",
+      "filename": "datum.md",
+      "lines": [
+        "A datum is a piece of information.",
+        "Ein Datum ist eine Informationseinheit.",
+        "データは情報の一つだ。",
+        "数据是一条信息。"
+      ]
+    },
+    {
+      "word": "daughter",
+      "filename": "daughter.md",
+      "lines": [
+        "A daughter is a child.",
+        "Eine Tochter ist ein Kind.",
+        "娘は子供だ。",
+        "女儿是孩子。"
+      ]
+    },
+    {
+      "word": "dawn",
+      "filename": "dawn.md",
+      "lines": [
+        "Dawn is the start of the day.",
+        "Die Morgendämmerung ist der Beginn des Tages.",
+        "夜明けは一日の始まりだ。",
+        "黎明是一天的开始。"
+      ]
+    },
+    {
+      "word": "day",
+      "filename": "day.md",
+      "lines": [
+        "A day is a unit of time.",
+        "Ein Tag ist eine Zeiteinheit.",
+        "一日は時間の単位だ。",
+        "一天是时间单位。"
+      ]
+    },
+    {
+      "word": "daydream",
+      "filename": "daydream.md",
+      "lines": [
+        "A daydream is a pleasant thought.",
+        "Ein Tagtraum ist ein angenehmer Gedanke.",
+        "白昼夢は楽しい考えだ。",
+        "白日梦是愉快的想法。"
+      ]
+    }
+  ],
+  "problems": []
+}

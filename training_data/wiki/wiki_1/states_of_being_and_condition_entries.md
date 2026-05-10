@@ -29,3 +29,21 @@
 
 [user]what does it mean to be asleep?
 [Ninereeds]Asleep means sleeping. A person who is asleep is resting and not awake. Many people are asleep at night. Asleep is the opposite of awake.
+
+[user]what does alive mean?
+[Ninereeds]Alive describes living things. a dog is alive. a tree is alive. living things grow and change. living things need food and water. alive is not a rock.
+
+[user]what does asleep mean?
+[Ninereeds]Asleep is a state of rest for a person or animal. A sleeping body stays still and has closed eyes. A sleeping person does not see the world or hear sounds. Sleep gives the body time to rest and heal. A person wakes from sleep in the morning. Asleep is not awake.
+
+[user]what does awake mean?
+[Ninereeds]Being awake means a body has stopped sleeping. A person has eyes open and senses the world. A person can be awake during the day and rest at night. Morning light wakes a sleeping body. Awake is not asleep.
+
+[user]what does broken mean?
+[Ninereeds]A thing that is broken does not work the way that thing should work. A toy with a crack in the middle is such a thing. A cup with a chip on the edge is broken too. Such things cannot do what the things were made to do. broken is not whole.
+
+[user]what is difficulty?
+[Ninereeds]The word means how hard a task feels. A hard math problem is very challenging. An easy puzzle takes little effort to solve. The level depends on the skills a person has for the task. Some tasks need more time and hard work. difficulty is not ease.
+
+[user]what does steady mean?
+[Ninereeds]This word describes something that does not shake or wobble. a table with four legs is steady when the legs are even and the floor is flat. a hand that holds a glass of water without spilling is steady. the meaning is staying in one place without falling or tipping over. steady is not shaky.

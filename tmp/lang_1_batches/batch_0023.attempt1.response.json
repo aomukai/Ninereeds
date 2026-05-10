@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778421576-7ubi6fGqNa4kwxF4pkbX",
+  "object": "chat.completion",
+  "created": 1778421576,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"assignment\",\n      \"filename\": \"assignment.md\",\n      \"lines\": [\n        \"An assignment is a task.\",\n        \"Eine Aufgabe ist eine Tätigkeit.\",\n        \"課題は仕事だ。\",\n        \"作业是一项任务。\"\n      ]\n    },\n    {\n      \"word\": \"assimilating\",\n      \"filename\": \"assimilating.md\",\n      \"lines\": [\n        \"Assimilating is learning.\",\n        \"Assimilieren ist Lernen.\",\n        \"同化することは学習だ。\",\n        \"同化是学习。\"\n      ]\n    },\n    {\n      \"word\": \"assistance\",\n      \"filename\": \"assistance.md\",\n      \"lines\": [\n        \"Assistance is help.\",\n        \"Hilfe ist Unterstützung.\",\n        \"援助は助けだ。\",\n        \"援助是帮助。\"\n      ]\n    },\n    {\n      \"word\": \"assistant\",\n      \"filename\": \"assistant.md\",\n      \"lines\": [\n        \"An assistant is a helper.\",\n        \"Ein Assistent ist ein Helfer.\",\n        \"助手は補助者だ。\",\n        \"助手是帮手。\"\n      ]\n    },\n    {\n      \"word\": \"assisting\",\n      \"filename\": \"assisting.md\",\n      \"lines\": [\n        \"Assisting is helping.\",\n        \"Assistieren ist Helfen.\",\n        \"手伝うことは支援だ。\",\n        \"协助是帮助。\"\n      ]\n    },\n    {\n      \"word\": \"associate\",\n      \"filename\": \"associate.md\",\n      \"lines\": [\n        \"An associate is a colleague.\",\n        \"Ein Mitarbeiter ist ein Kollege.\",\n        \"同僚は仲間だ。\",\n        \"同事是伙伴。\"\n      ]\n    },\n    {\n      \"word\": \"assuming\",\n      \"filename\": \"assuming.md\",\n      \"lines\": [\n        \"Assuming is guessing.\",\n        \"Annehmen ist Vermuten.\",\n        \"仮定することは推測だ。\",\n        \"假设是推测。\"\n      ]\n    },\n    {\n      \"word\": \"assumption\",\n      \"filename\": \"assumption.md\",\n      \"lines\": [\n        \"An assumption is a guess.\",\n        \"Eine Annahme ist eine Vermutung.\",\n        \"仮定は推測だ。\",\n        \"假设是猜测。\"\n      ]\n    },\n    {\n      \"word\": \"assuring\",\n      \"filename\": \"assuring.md\",\n      \"lines\": [\n        \"Assuring is promising.\",\n        \"Versichern ist Versprechen.\",\n        \"保証することは約束だ。\",\n        \"保证是承诺。\"\n      ]\n    },\n    {\n      \"word\": \"asymmetric\",\n      \"filename\": \"asymmetric.md\",\n      \"lines\": [\n        \"An asymmetric shape is a form.\",\n        \"Eine asymmetrische Form ist eine Gestalt.\",\n        \"非対称な形は形状だ。\",\n        \"不对称的形状是形态。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 722,
+    "completion_tokens": 641,
+    "total_tokens": 1363,
+    "cost": 0.0002777544,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028056,
+      "upstream_inference_prompt_cost": 0.00010108,
+      "upstream_inference_completions_cost": 0.00017948
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

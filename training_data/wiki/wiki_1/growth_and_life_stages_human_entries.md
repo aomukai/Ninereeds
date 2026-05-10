@@ -35,3 +35,18 @@
 
 [user]what is a lifetime?
 [Ninereeds]A lifetime is all the time a person lives from birth to old age. A lifetime includes all the stages from baby to elderly person. During a lifetime a person grows, learns, changes, and experiences many things. A lifetime is not the same as one day.
+
+[user]what is an adulthood?
+[Ninereeds]Adulthood is a stage of life after childhood. Adults have jobs and earn money. Adults make decisions and pay bills. Adults learn new skills through experience. adulthood is not childhood.
+
+[user]what is childhood?
+[Ninereeds]Childhood is the first part of a person's life when bodies grow and minds learn new things. Children go to school to learn lessons and play with friends at home and on playgrounds. Young children ask many questions about the world and discover how things work. Parents care for children and keep children safe. Childhood is not adulthood.
+
+[user]what is growth?
+[Ninereeds]Growth is the way a living thing gets bigger over time. A seed grows into a tree and a child grows into an adult. A growing body needs food, water, and sunlight. Living things change in size slowly each day. Growth is not shrinking.
+
+[user]what is an origin?
+[Ninereeds]A beginning point shows a start. A river begins at a spring in the ground. A seed grows into a plant. A book has a first page. Those points show where things come from. Origin is not an ending.
+
+[user]what does it mean to thrive?
+[Ninereeds]Thrive means to grow in a healthy strong way. a plant shows good growth when the plant has good soil water and sunlight. a child grows well when the child has food a safe home and time to play and learn. a body needs rest care and activity to do well. thrive is not just survival.

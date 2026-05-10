@@ -20,3 +20,9 @@
 
 [user]what does how can we fix this mean?
 [Ninereeds]How can we fix this is a question people ask when they want to solve a problem together. A child may ask this after a mistake, an argument, or broken trust. The question turns attention toward repair and action. It invites both sides to think about a solution. How can we fix this is not the same as whose fault is this.
+
+[user]what is a clash?
+[Ninereeds]A clash is when two people or groups disagree with each other. The disagreement can be a loud argument between people. The disagreement can also be a fight between groups. A sports game can become a clash when two teams want the same thing. clash is not a peaceful agreement.
+
+[user]what is an issue?
+[Ninereeds]An issue is a subject that people talk about or need to work on. A problem that needs a fix can be this kind of thing. For example, a broken toy in a classroom is a matter that needs care. People may have different ideas about a topic and talk about those ideas together. Issue is not a simple answer.
