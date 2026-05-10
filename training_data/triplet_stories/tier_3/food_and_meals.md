@@ -141,3 +141,66 @@ Sara tries to lift the pumpkin, but it is too heavy for her alone. Her mother he
 "Squeeze gently and twist," his mother says. Todd holds the bag over a cupcake and squeezes, so a swirl of pink frosting comes out. He adds colorful sprinkles on top.
 
 Todd decorates three more cupcakes, but he squeezes too hard on the last one. Frosting squirts out the side and makes a mess, so his mother helps him fix it. He cannot wait to eat one at the party because they look so good.
+
+[user]tell me a story about a cafeteria.
+[Ninereeds]Owen walked into the cafeteria because the lunch bell rang. He grabbed a tray and a clean utensil from the counter. His friend waved from across the room, so Owen walked toward the lunch line.
+
+"Look at the food today," his friend said. Owen nodded because the warm sandwich smelled good. He chose the sandwich and an apple for his plate. A worker placed a small cup of milk on his tray too.
+
+The two boys carried their trays to a table by the window. Owen took a bite and chewed slowly because he was hungry. He put his extra food inside a takeaway box so he could eat it later.
+
+[user]tell me a story about a citrus.
+[Ninereeds]Sophie sits at the kitchen table because the morning light is warm and bright. She chose a fresh orange from the grocery store the day before. Sophie peels the skin away in long strips because she wants to share the fruit. She separates the orange into two halves.
+
+Sophie holds one half out to her mother. "Would you like to share this with me?" Sophie asks. Her mother smiles and takes the half. "The fruit smells so sweet," her mother says. Sophie lifts a segment to her mouth and takes a bite.
+
+The juice bursts across her tongue. The citrus tastes sweet and tangy at once. The fruit is so delicious that Sophie feels happy. She eats the rest of the orange because every bite is good. The snack is a perfect start to the day.
+
+[user]tell me a story about a clove.
+[Ninereeds]Toby stood beside the kitchen counter because he wanted to help his grandmother make the stew. His grandmother reached for a small jar of ground clove and measured one spoonful of the warm powder. The spoonful fell into the pot of simmering stew. The warm and delicious aroma filled the kitchen, so Toby leaned closer.
+
+"This smells good," Toby said. His grandmother smiled and said, "Because the clove adds a rich taste to the meal." She stirred the pot with a long wooden spoon and lifted the spoon for Toby to taste. Toby took a small taste of the broth. The rich flavor spread across his tongue, so he smiled.
+
+Everyone gathered at the table for the evening meal because the kitchen smelled so inviting. Toby took a spoonful of the stew and agreed it tasted delicious. The clove made the whole meal taste warm and rich.
+
+[user]tell me a story about a coffee.
+[Ninereeds]Will follows his daily routine in the quiet kitchen each morning. He fills the coffee maker with water and scoops in the dark grounds. The machine hums because the water heats inside its chamber. Steam rises as the dark liquid drips into the glass pot below. Will places a slice of bread in the toaster for a warm breakfast.
+
+"Bread crust is my favorite part because it has such a nice crunch," Will says. He takes a careful sip of the hot coffee so the flavor spreads across his tongue. The warmth moves down his throat and wakes his sleepy body. He bites into the golden-brown crust and chews slowly.
+
+The coffee warms him completely so he feels ready for his busy schedule. He carries his cup to the window and watches the morning light touch the trees outside. This peaceful daily start gives him energy for everything ahead.
+
+[user]tell me a story about dough.
+[Ninereeds]Cody arrives at the bakery early in the morning because the baker needs help with the dough. The baker hands Cody a spoonful of yeast and shows him how to stir it into the flour and water. Cody mixes the dough with his hands because the spoon cannot reach every part. The dough feels soft and sticky against his fingers.
+
+"Where should I put the dough now?" Cody asks. "It needs a warm spot by the window so the yeast can grow," the baker says. The baker covers the bowl with a cloth because the dough needs warmth to rise. Cody watches the dough swell into a round mound.
+
+The baker punches down the risen dough and shapes it into a loaf. The loaf rests in a pan for a few minutes before going into the hot oven. A golden crust forms on the outside because the heat bakes the surface. Cody taps the crust to check the bread and lifts the warm loaf onto the counter.
+
+[user]tell me a story about a lemonade.
+[Ninereeds]Ella felt thirsty because the warm afternoon had made the kitchen stuffy. She decided to make lemonade so she could cool down. The bright yellow lemons on the counter smelled strongly of citrus. She knew the tart juice would taste good on a hot day.
+
+Ella sliced the lemons into halves and squeezed the juice into a glass. Her mother called from the table, "Did you add a spoonful of sugar?" Ella added the sugar because she wanted the lemonade to be sweet and sour at once. She stirred the mix until the sugar dissolved completely.
+
+Ella poured cold water over ice cubes and stirred again so the flavors would blend. The lemonade filled the glass with a bright yellow color. She took a sip because she wanted to check the taste. The drink was fresh and cool, so she drank every last drop.
+
+[user]tell me a story about a soy.
+[Ninereeds]Will walks into the kitchen and looks at the stove. He places a pan on the burner and turns the flame to medium heat. A small spoonful of oil goes into the pan because he needs it to cook the vegetables. He chops some carrots and adds them to the pan.
+
+"These need flavor," Will says, so he pours a spoonful of soy sauce over the vegetables. The sauce sizzles because the pan is hot. The air fills with a warm and rich smell. Will stirs the vegetables with a spoon.
+
+Will takes a bite of the vegetables and rice. The flavors are smooth and delicious. The soy sauce makes the meal taste good, so Will eats the rest with a smile.
+
+[user]tell me a story about a nibble.
+[Ninereeds]Lily sits at the kitchen table and watches the small mouse come out from its hole in the wall. The mouse finds a piece of bread on the floor and begins to nibble because it is hungry. The crust is harder than the soft middle, so the mouse works carefully at the edge. Tiny crumbs drop from its mouth as it eats.
+
+"Stay very still," Lily whispers, because she does not want to scare the mouse away. The mouse looks up at her and then takes another bite of the crust. Lily smiles and says, "I will leave some bread for you tomorrow." The mouse keeps nibbling, so more crumbs fall to the floor.
+
+The mouse picks up a crumb with its tiny teeth and nibbles it slowly. Lily stays very still so the mouse feels safe. The mouse takes one more bite of the bread and then goes back into its hole in the wall.
+
+[user]tell me a story about a chew.
+[Ninereeds]Luke pulls the fresh loaf from the oven because the timer tells him it is ready. The warm smell fills the kitchen so his stomach growls with anticipation. He sets the loaf on the table and cuts a thick slice. Steam rises from the soft inside of the bread. Luke spreads butter across the warm surface so it melts into the golden crumb.
+
+"Each bite tastes so delicious because the butter soaks into every pocket," Luke says. His mother nods and hands him another slice. "The crust has a nice crackle because you baked it long enough," she tells him. Luke takes a big bite and chews slowly, enjoying the texture.
+
+He dips the bread into a bowl of soup. The warm broth soaks into the soft crumb. Every mouthful feels rich and satisfying. This evening meal brings comfort to the table because Luke made it with his own hands.

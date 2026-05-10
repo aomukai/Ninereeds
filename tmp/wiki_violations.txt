@@ -1,0 +1,7 @@
+PASS acceptance.md
+PASS addition.md
+PASS adulthood.md
+PASS advice.md
+PASS aid.md
+PASS air.md
+PASS amazement.md

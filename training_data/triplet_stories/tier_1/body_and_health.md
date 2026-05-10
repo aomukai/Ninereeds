@@ -201,3 +201,33 @@ A child feels very powerful after a good workout.
 The body loves to move and play outside.
 Running is a great way to exercise each day.
 Everyone feels so strong and healthy today.
+
+[user]tell me a story about an ankle.
+[Ninereeds]A young gymnastics athlete practices a floor routine in the gym. The athlete springs into a deep crouch and then launches upward. Coordination fades during the landing, and the foot comes down at a wrong angle. The ankle twists sharply under the body. Pain flashes through the leg. This injury is not a small thing for the athlete. Ice and rest help the swelling go down.
+
+[user]tell me a story about a breast.
+[Ninereeds]A newborn baby cries in the dark room. The mother lifts the baby from the bed. The mouth of the baby finds the breast of the mother. The nipple gives warm milk to the baby. The milk is not cold. The baby feeds at the breast until full. The baby falls asleep against the skin of the mother. The mother stays awake and watches the baby sleep.
+
+[user]tell me a story about a diarrhea.
+[Ninereeds]Diarrhea is a condition that causes loose and watery stool. A doctor explains that a harmful bacterium often causes diarrhea. The bacterium enters the digestive system through contaminated food or drink. The body produces an uncomfortable sensation in the belly. This sensation is not the same for every person. Rest and drinking water help the body recover. Medicine can also treat the infection.
+
+[user]tell me a story about exhaustion.
+[Ninereeds]A child plays in the yard all afternoon. The sun is warm and the air is still. The child runs and plays without a break. A dizzy feeling fills the child's head. The child's body feels heavy and tired. The child's exhaustion is not something the child can fight. The child crawls through the door. The child falls asleep on the soft mat.
+
+[user]tell me a story about an injury.
+[Ninereeds]A child climbs a low stone wall. The child slips and falls onto the ground. The injury makes the knee bleed a little. The scrape is not deep but the fall is hurtful. A mother cleans the cut with warm water. The mother wraps a cloth around the knee. The child sits still and waits for the sting to ease.
+
+[user]tell me a story about a pee.
+[Ninereeds]A toddler wakes in the night and feels a full bladder. The toddler calls a parent. The parent helps the toddler walk to the bathroom. The toddler is now awake. The toddler sits on the toilet and pees. This act is not scary anymore. Using the toilet has become a daily habit.
+
+[user]tell me a story about a poop.
+[Ninereeds]A child feels a sensation in the tummy after breakfast. The sensation means the body needs the toilet. The child walks to the bathroom and sits on the seat. The child pushes and the poop comes out. This body waste is not a bad thing. The daily routine helps the child learn body signals. The child flushes and feels clean.
+
+[user]tell me a story about a posture.
+[Ninereeds]A coach gathered the team on the field. The coach asked the players to stand tall and pull the shoulderblades back. This action improves posture and coordination for every player. The team practiced the stance together. The coach walked among the players to check each posture. A player with better posture throws the ball with more strength. The simple change is not difficult for the team. Good posture helps the whole team play better.
+
+[user]tell me a story about a surgery.
+[Ninereeds]A patient arrives at the hospital with a serious infection. The doctor examines the patient and finds damage inside the body. The infection is not from a simple wound. A virus or a bacterium is the cause of the illness. The surgeon uses a scalpel to make a small cut. The surgeon removes the damaged tissue. The wound is cleaned and stitched. The patient rests and begins to heal.
+
+[user]tell me a story about a workout.
+[Ninereeds]A workout can include jumping in place. The feet feel a vibration from the floor. Jumping builds coordination between the arms and the legs. Each landing makes the legs bend. This movement is not hard to start. The body grows stronger with every jump. A short workout each day helps the whole body.

@@ -1,0 +1,2956 @@
+phase 1:
+acorn
+adult
+africa
+air
+airplane
+alarm
+album
+alligator (dupe)
+almond
+anchor
+angle
+animal
+ant (dupe)
+antler
+ape
+apple
+apron
+arm
+aroma
+arrow
+aunt
+autumn
+axe
+axle
+baby
+backpack
+bag
+baker
+balance (dupe)
+bale
+ball
+balloon
+banana
+bandage
+banner
+bark
+barrel
+baseball
+basket
+bat (dupe)
+batch
+bath
+batter
+battery
+beach (dupe)
+bead
+beam
+bean (dupe)
+bear
+beard
+beaver
+bed
+bee (dupe)
+beet
+beetle
+bell
+belly
+belt
+bench
+berry
+bicycle
+bike
+bill
+bin
+binder
+binoculars
+bird (dupe)
+bit
+bitter
+blade
+bland
+blanket
+block
+blood
+blueberry (dupe)
+board
+boat
+body
+bolt
+bone
+book
+boot
+bottle (dupe)
+bow
+bowl
+box
+boy
+brain (dupe)
+brake
+branch (dupe)
+bread
+breeze
+brick
+bridge (dupe)
+broom
+broth
+brother
+brush
+bubble
+bucket
+buckle
+bug
+builder
+bulb
+bull
+bun
+bundle
+bunny (dupe)
+burner
+bus
+bush
+butcher
+butter
+butterfly
+button
+cabinet
+cage
+cake
+calculator
+calendar
+calf
+calls
+camel
+camera
+can
+candle
+candy
+cannon
+canvas
+cap
+cape
+captain
+car
+carbon
+card
+cardboard
+carpenter
+carpet
+carrier
+carrot
+cart
+case (dupe)
+cashier
+cat
+caterpillar
+celery
+cell
+cent
+century
+cereal
+chain
+chair
+chalk
+chalkboard
+charger
+cheek
+cheese
+chef
+cherry
+chest
+chestnut
+chick
+chicken (dupe)
+child (dupe)
+chimp
+chimpanzee
+chin
+china
+chip
+chocolate
+circle
+clam (dupe)
+claw
+clay
+clear (dupe)
+click
+clip
+clipboard
+clock
+closet
+cloth
+clothes
+cloud (dupe)
+clown
+cluster
+coach
+coal
+coat
+cocoa
+coin
+collar
+comb
+compass
+computer (dupe)
+cone
+container
+cookie
+copper
+coral (dupe)
+cord
+cork
+corn (dupe)
+costume
+cotton
+couch
+counter
+cow (dupe)
+crab
+cracker
+crane
+crayon
+cream
+crib
+cricket (dupe)
+crop
+crow
+crown
+crumb
+cuff
+cup (dupe)
+cupcake (dupe)
+curtain
+cushion
+cutter
+cymbal
+daisy
+dark
+day
+deep (dupe)
+deer
+desk
+dessert
+dew
+diamond
+diaper
+dice
+dime
+dinosaur (dupe)
+dirt
+dish
+dispenser
+dog (dupe)
+doll
+dolly
+dolphin (dupe)
+dome
+donkey
+door
+dot
+dove
+dragon
+drawer
+dress
+dresser
+driftwood
+drill
+droplet
+drum
+duck (dupe)
+dust
+eagle (dupe)
+ear
+earring
+earth
+earthworm
+eel
+egg
+elbow
+elephant
+elevator
+elf
+elk
+engine
+enormous
+envelope
+eraser
+eve
+evening
+eye
+eyebrow
+eyelid (dupe)
+fabric
+face
+fairy
+fan
+fang
+fans
+farm (dupe)
+fast (dupe)
+fat
+faucet
+feather
+feeler
+feet
+female
+fence
+fern
+ferry
+field
+fifty
+figure
+film
+fin
+finger
+fingernail
+fingerprint
+fingertip (dupe)
+fir
+fire (dupe)
+firefly (dupe)
+fish (dupe)
+fist
+fixture
+flag
+flame
+flashlight
+flat
+flavor
+fleece
+flesh
+flipper
+floor
+flour (dupe)
+flower (dupe)
+fluid
+flute
+foam
+fog
+foil
+food
+foot
+footboard
+footprint
+footrest
+footstep
+forehead (dupe)
+forest
+fork
+fountain
+fox
+frame (dupe)
+free
+fresh
+frog (dupe)
+frost (dupe)
+fruit
+fuel
+full
+fur
+furniture
+fuzzy
+galaxy
+gap
+garbage
+garden (dupe)
+garlic (dupe)
+garment
+gas
+gasoline
+gate
+gauge
+gear
+geese
+ghost
+giant
+ginger
+giraffe
+girl
+glacier
+glass
+globe
+glove
+glue
+gnat
+goat
+gold
+goose (dupe)
+gorilla
+graffito
+grain
+grape (dupe)
+grass (dupe)
+grasshopper (dupe)
+gravel
+grease
+green
+greenish
+grill
+grit
+ground
+guitar
+gum
+gun
+gust
+gut
+hail
+hair
+hammer
+hamster (dupe)
+hand (dupe)
+handle
+hard
+harp
+hat
+hawk (dupe)
+hay
+hazy
+head
+heart
+heat
+heater
+hedge
+heel
+helicopter
+helmet
+hen
+hill (dupe)
+hinge
+hip
+hoe
+holder
+hole
+home (dupe)
+honey (dupe)
+hook
+horn
+horse
+hose
+hot
+house
+hut
+ice (dupe)
+icing
+in (dupe)
+ink
+insect
+instrument
+iron
+island
+jacket
+jam
+jar
+jaw
+jeans
+jelly
+jellyfish (dupe)
+jewel
+joint
+jug
+juice
+jungle (dupe)
+junk
+kernel
+kettle
+key
+keyboard
+kid
+kitchen (dupe)
+kite
+kitten
+knee
+knife
+knob
+knuckle
+label (dupe)
+lace
+ladder
+ladle
+ladybug (dupe)
+lake
+lamb
+lamp
+land
+lap
+lark
+latch
+leaf (dupe)
+leash
+leather
+ledge
+leg
+lemon
+lens
+leopard
+lettuce (dupe)
+lever
+lid
+light (dupe)
+lily
+limb
+lime
+lint
+lion
+lip
+liquid
+litter
+lizard (dupe)
+loaf
+lock
+log
+lollipop
+loom
+lotion
+low (dupe)
+lump
+lunchbox
+lung
+machine
+magnet
+mammal
+man
+mane
+mango
+marble
+marker
+mask
+mast
+mat
+matter
+meals
+meat
+medal
+medicine
+mess
+metal
+mice
+microphone
+microscope
+milk (dupe)
+mineral
+mint
+mirror
+mist
+mitt
+mitten
+mold
+mole
+monkey
+monster
+moon (dupe)
+mop
+mosquito
+moss
+moth
+motor
+mountain (dupe)
+mouse (dupe)
+mouth
+mud
+muffin
+mug
+muscle
+mushroom
+mustache
+nail
+napkin
+neck
+nectar
+needle
+net
+newspaper
+newt
+nickel
+night
+noise
+noodle
+nose
+nut
+oak
+oar
+oat
+ocean
+octopus (dupe)
+odor
+oil (dupe)
+ointment
+on
+onion (dupe)
+opener
+orchid
+organ
+pants
+paper
+paste
+pastry
+patch
+paw
+pea (dupe)
+peach
+peacock
+peanut
+pear
+pebble
+pedal
+pelican
+pen
+pencil
+penguin
+penny
+people
+pepper
+pet
+petal
+phone
+photo
+physical
+piano
+picture
+pie
+piece
+pig
+pigeon
+pill
+pillow
+pine
+pineapple
+pinecone
+pink
+pinky
+pipe
+pit
+pitcher
+pixel
+pizza
+places
+plane
+planes
+plank
+plant
+plantain
+plaster
+plate
+playdough
+plow
+plug
+plum
+pocket
+poison
+pole
+police (dupe)
+pond
+pony
+pool
+poppy
+popsicle
+porcupine
+post
+poster
+pot
+potato (dupe)
+pothole
+pouch
+powder
+prairie
+prong
+puddle
+pulley
+pump
+pumpkin (dupe)
+pupil
+puppet
+puppy
+pure
+purse
+quarter
+quartz
+quilt
+rabbit
+rack
+racket
+radio
+raft
+rail
+railing
+rain (dupe)
+rainbow
+raincoat (dupe)
+raindrop
+raisin
+rake
+ramp
+rat (dupe)
+raven
+ray
+recorder
+rectangle
+red
+reed
+reel
+refrigerator
+reindeer
+reptile
+rhinoceros
+rib
+ribbon
+rice (dupe)
+rim
+rind
+ring
+river (dupe)
+rivet
+road (dupe)
+roasted
+robe
+robin
+robot
+rock (dupe)
+rocket
+rod
+roof
+room
+rooster
+root
+rope
+rose
+rough
+round
+rubber
+rubble
+ruby
+rug
+ruler
+runner
+sack
+saddle
+safe (dupe)
+sailboat (dupe)
+sailor
+salad
+salmon
+salsa
+salt
+sand (dupe)
+sandal
+sandwich
+sap
+sauce
+saw
+sawdust
+sawhorse
+scab
+scale
+scar
+scarf
+scent
+scissor
+scoop
+scooter
+screen
+screw
+screwdriver (dupe)
+sea
+seagull
+seal
+seam
+seashell
+seat
+seatbelt
+seaweed (dupe)
+section
+seed (dupe)
+seesaw (dupe)
+shade
+shadow
+shaker
+shallow
+shape
+shard
+shark (dupe)
+sharp
+sharpener
+shawl
+shed
+sheep (dupe)
+sheet
+shelf
+shell (dupe)
+shelter
+shepherd
+shield
+shin
+ship
+shirt
+shoe
+short
+shorts
+shoulder
+shovel
+shower
+shrimp
+shuttle
+side
+sideways
+sign
+silk
+silver
+sink (dupe)
+siren
+skeleton
+ski
+skillet
+skin
+skirt
+skull
+skunk
+sky
+sled
+sleeve
+sleigh
+slicer
+slider
+slime
+slipper
+slope
+slug
+smiley
+smoke
+snack
+snail (dupe)
+snake (dupe)
+snout
+snow (dupe)
+snowball
+snowflake
+snowman
+soap
+sock
+soda
+sofa
+soil
+soldier (dupe)
+song
+soot
+sound
+soup (dupe)
+spaceship
+spaghetti
+spark
+sparrow
+spatula
+spear
+spice
+spider (dupe)
+spike
+spine
+spiral
+sponge
+spool
+spoon
+spot (dupe)
+spout
+spring
+springtime
+square
+squash
+squid
+squirrel (dupe)
+stable
+stack (dupe)
+stage
+stair
+stalk
+stall
+stamp
+staple
+stapler
+star
+statue
+steak
+steam
+stem
+stethoscope
+stew
+stick
+sticker
+stiff
+stitch
+stock
+stomach
+stone (dupe)
+stool
+stork
+stove
+straight
+strap
+straw
+strawberry (dupe)
+stream
+street
+string
+stripe
+strong (dupe)
+stuff
+stump
+sturdy
+submarine
+subway
+suction
+sudden
+sugar
+suit
+suitcase
+summer
+summit
+sun (dupe)
+sunflower
+sunlight
+sunshine
+supply
+surface
+swamp
+swan
+swarm
+sweater
+sweet
+swimmer
+sword
+syrup
+table
+tablet
+tail
+tailor
+tall
+talon
+tank
+tape
+tart
+taxi
+tea
+teacher
+teacup
+teapot
+teaspoon
+teddy
+teen
+teenager
+telephone
+telescope
+television
+tent
+tentacle
+texture
+thermometer
+thick
+thief
+thigh
+thin
+thing
+thorn
+thorny
+thread
+throat
+throne
+thumb
+thunder (dupe)
+tick
+ticket
+tiger
+tile
+timber
+timekeeper
+tin
+tine
+tiny
+tire
+tissue
+toad
+toadstool
+toe
+toenail
+tomato
+tongue
+tool
+tooth
+toothbrush
+toothpaste
+top
+torch
+tortoise
+towel
+toy
+tractor
+train (dupe)
+trainer
+trap (dupe)
+trash
+traveler
+tray
+treasure
+tree (dupe)
+triangle
+tricycle
+triplet
+troll
+trophy
+trousers
+trout
+trowel
+truck
+trumpet
+trunk
+tub
+tube
+tuft
+tulip
+tummy
+tune
+turkey (dupe)
+turnip
+turtle
+tusk
+tutor
+tuxedo
+twig
+twin
+umbrella
+uncle
+undershirt
+uniform
+valve
+van
+vanilla
+vase
+vegetable
+vehicle
+veil
+vein
+velcro
+velvet
+vessel
+vest
+vet
+vibration
+video
+vine
+vinegar
+violet
+violin
+visible
+visitor
+vivid
+voice
+vole
+wagon
+waist
+walker
+wall
+walls
+walnut
+walrus
+wand
+warm
+wasp
+watch (dupe)
+water (dupe)
+watermelon (dupe)
+wax
+weak
+weapon
+weasel
+weaver
+web
+wedge
+weed
+well (dupe)
+wet
+whale (dupe)
+wheat (dupe)
+wheel
+wheelbarrow (dupe)
+whisker
+white
+whiteboard
+wick
+wide
+wife
+wildflower
+willow
+wind (dupe)
+window
+windowsill (dupe)
+wing
+wire
+witch
+wolf
+woman
+wood (dupe)
+woodcutter
+woods
+wool
+words
+worm
+wrapper
+wren
+wrist
+yellow
+yolk
+young
+zebra
+zipper
+ (dupe)
+phase 2:
+ (dupe)
+absence
+acoustic
+actor
+airport
+aisle
+alignment
+anthill
+apartment
+armrest
+artifact
+attic
+available
+backbone
+backyard
+bakery
+bank
+bar
+barn
+base
+basement
+basketball
+bathroom
+beach (dupe)
+bedroom
+bedsheet
+bedtime
+biologist
+birdhouse
+birthday
+bond
+bookshelf
+boyfriend
+brain (dupe)
+breadcrumb
+breakfast
+bridge (dupe)
+buddy
+business
+cabin
+camp
+canal
+caregiver
+cave
+ceiling
+chapter
+chemical
+child (dupe)
+chore
+citizen
+city
+classmate
+classroom
+cliff
+climate
+clinic
+coast
+cobweb
+collarbone
+community
+computer (dupe)
+coop
+corner
+cornfield
+country
+creek
+crossing
+crosswalk
+crowd
+cupboard
+cupcake (dupe)
+curb
+deck
+den
+desert (dupe)
+destination
+dictionary
+dinosaur (dupe)
+disease
+ditch
+dock
+doghouse
+dollhouse
+doorknob
+doorstep
+driver (dupe)
+driveway
+dustpan
+earlobe
+edge
+eggshell
+electrical
+entrance
+entryway
+exit
+eyelid (dupe)
+factory
+familiar
+farm (dupe)
+farmhouse
+farmyard
+file
+fingertip (dupe)
+firefly (dupe)
+fishpond
+forecaster
+forehead (dupe)
+garden (dupe)
+girlfriend
+golf
+grandfather
+grandmother
+grandparent
+grassland
+gravity
+grocery
+group
+guardrail
+guest
+gym
+habitat
+hall
+hallway
+handprint
+handrail
+handsaw
+harbor
+hatband
+have
+headboard
+heap
+helper (dupe)
+herd
+highway
+hilltop
+historian
+hive
+home (dupe)
+horizon
+hospital
+hotel
+human
+husband
+hutch
+indigenous
+intersection
+jawbone
+jungle (dupe)
+kennel
+king
+kit
+kitchen (dupe)
+kneecap
+lab
+lampshade
+landform
+lane
+laundry
+lawn
+layer
+leader
+lighthouse
+like
+lobby
+lunch
+lunchtime
+mall
+manufacturer
+map (dupe)
+market
+marketplace
+marsh
+meadow (dupe)
+meal
+mealtime
+menu
+milkshake
+mill
+miller
+mine
+moat
+mom
+mommy
+mother
+motorboat
+mound
+mural
+museum
+near
+neighbor
+nest
+nurse
+observer
+office
+officer
+offspring
+orchard (dupe)
+our
+own
+package
+packet
+painter
+pancake
+pantry
+paperwork
+parade
+parcel
+parent
+parental
+park
+parking
+partner
+party
+passenger
+patchwork
+path
+patio
+pavement
+peak
+physicist
+picnic
+pier
+pile
+pilot
+pinwheel
+plain (dupe)
+platform
+playdate
+poet
+police (dupe)
+popcorn
+porch
+port
+potter
+predator
+presence
+president
+prince
+princess
+principal
+prior
+queen
+raincoat (dupe)
+ranch
+recess
+relationship (dupe)
+retina
+rooftop
+rowboat
+s (dupe)
+sailboat (dupe)
+sandbox
+sandcastle
+scaffold
+school
+screwdriver (dupe)
+seashore
+seesaw (dupe)
+sensor
+shinbone
+shoelace
+shop
+shore
+sidewalk
+skyscraper
+softball
+soldier (dupe)
+solidity
+somewhere
+source
+station
+steamboat
+stickball
+storyteller
+stranger
+structure
+supermarket
+surgeon
+sweatshirt
+team
+territory
+thumbnail
+treetop
+tugboat
+upbringing
+upstairs
+valley (dupe)
+vantage
+vent
+village
+warehouse
+warren
+waterfall
+wavelength
+well (dupe)
+wheelbarrow (dupe)
+windowsill (dupe)
+winter
+within
+yard
+your
+yours
+zone
+zoo
+ (dupe)
+phase 3:
+ (dupe)
+accept
+action
+activity
+add
+adjust
+adjustment
+admit
+affect
+appear
+apply
+arrange
+arrive
+attach
+attachment
+avoid
+bang
+beat
+become
+beep
+beginning
+behavior (dupe)
+bird (dupe)
+bleat
+blend
+blow
+blush
+bob
+boil
+boom
+borrow
+borrowing
+bother
+bottle (dupe)
+branch (dupe)
+break
+bruise
+brushstroke
+build
+bump
+burn
+burrow
+burst
+buzz
+call
+capture
+care (dupe)
+carefully
+carry
+carve
+catch
+cause
+change
+charge
+chase
+check (dupe)
+chirp
+choose
+chop
+clap
+clean
+clear (dupe)
+climb
+cling
+cloud (dupe)
+cluck
+collect (dupe)
+combine
+commit
+communicate
+compensate
+complete
+complicate
+compress
+confuse
+connect
+consolidation
+construct
+construction
+contact
+continue
+conversation
+convince
+cook
+coordinate
+copy
+cough
+cover
+crack
+crash
+crawl
+creak
+crease
+create
+creep
+crinkle
+cross
+crumble
+crumple
+crunch
+crush
+cry
+cup (dupe)
+curl
+cut
+damage
+damp
+dance
+dangle
+dart
+dash
+daydream
+decide
+decorate
+defeat
+dent
+destruction
+detect
+develop
+diagnosis
+die
+dig
+dine
+dinner
+dip
+directly
+disappear
+discover
+discovery
+dissolve
+distort
+dive
+dog (dupe)
+drain
+drape
+draw
+drift
+drip
+drive
+drizzle
+droop
+drop
+dry
+dump
+eat
+echo
+embarrass
+empty
+encounter
+end
+ending
+engage
+enter
+erase
+erode
+escape
+evaluation
+evolution
+evolve
+examine
+exchange
+execute
+exercise (dupe)
+expand
+expansion
+experiment
+explore
+exposure
+extend
+fade
+fail (dupe)
+failing
+fall
+fast (dupe)
+fasten
+fathering
+feed
+fetch
+fight (dupe)
+filing
+fill
+finish
+fish (dupe)
+fit
+fix
+flap
+flash
+flatten
+flee
+flex
+flick
+flicker
+flight
+flip
+float
+flood (dupe)
+flop
+flour (dupe)
+flow
+flown
+flutter
+fly
+fold
+follow (dupe)
+forget
+formation
+freeze
+freezing
+frighten
+frown
+frustrate
+fry
+gab
+gain
+gallop
+gather
+generate
+genuinely
+gesture
+get
+glance
+glide
+glow
+gradually
+grass (dupe)
+graze
+grieve
+groom
+grow
+gulp
+halt
+hand (dupe)
+hang
+happening
+harden
+harvest
+haul
+heal
+hide
+highlight
+hike
+hill (dupe)
+hiss
+hit
+hold
+honestly
+honey (dupe)
+honk
+hoot
+hop
+howl
+hug
+hum
+hunt
+hurry
+hurt
+ice (dupe)
+impair
+implementation
+impose
+imprint
+improve
+impulse
+in (dupe)
+insist
+interact
+interaction
+invent (dupe)
+invention
+involve
+isolate
+jog
+join
+journey
+jump
+kick
+kiss
+knead
+kneel
+knit
+knock
+knot
+laugh
+leak
+lean
+leap
+lick
+lift
+light (dupe)
+lightly
+load
+loop
+lose
+maintain
+malfunction
+match (dupe)
+materialize
+measure
+melt
+mend
+meow
+milk (dupe)
+mix
+modification
+moo
+moon (dupe)
+mothering
+movement
+munch
+nap
+naturally
+navigate
+nod
+observe
+occupy
+oil (dupe)
+ooze
+open
+operate
+organize
+outcome
+outlive
+outsource
+pack
+paint
+pant
+paralyze
+parenting
+pass
+pat
+pause
+pay
+peck
+peek
+peel
+peer
+pick
+pickle
+pinch
+play
+pluck
+point
+poke
+polish
+pop
+pose
+pound
+pour
+preserve
+press
+print
+process
+produce
+protect (dupe)
+prune
+puff
+pull
+punch
+puncture
+purchase
+purr
+push
+quack
+quietly
+quiver
+race
+rain (dupe)
+raise
+reach (dupe)
+react
+reaction
+rebuild
+reconstruct
+reconstruction
+reduce
+reject
+remake
+repaint
+repair
+repeat
+replay
+replication
+rescue
+resemble
+reshape
+respond
+response
+rest
+reveal
+revisit
+ride
+rinse
+rip
+ripple
+rise
+river (dupe)
+road (dupe)
+roar
+roast
+roll
+rot
+rotate
+row
+rub
+rumble
+run
+rush
+rust
+rustle
+sail
+save
+scan
+select
+selection
+settle
+shatter
+shift
+shrink
+sink (dupe)
+skate
+sleep
+slice
+slide
+slow
+smile
+smoothly
+sneeze
+snow (dupe)
+snuggle
+soup (dupe)
+speak
+spend
+splash
+spot (dupe)
+sprout
+stack (dupe)
+stain
+stand
+start
+stay
+step
+stomp
+stone (dupe)
+stop
+storm
+straighten
+stretch
+strike
+strip
+stroke
+stroll
+strongly
+stumble
+stun
+suck
+sun (dupe)
+sunrise
+sunset
+surf
+surprise
+sustain
+swallow
+sway
+sweat
+sweep
+swim
+swing
+swirl
+swish
+switch
+synchronize
+tag
+talk (dupe)
+tame
+tan
+tangle
+tap
+tattoo
+tear
+tell
+test
+through
+throw
+thump
+thunder (dupe)
+tickle
+tide
+tidy
+tie
+tighten
+tightly
+tilt
+tip
+tiptoe
+toast
+tornado
+toss
+tow
+trace
+trading
+transition
+trap (dupe)
+treat (dupe)
+treatment
+tree (dupe)
+trim
+trip
+trot
+try
+tuck
+tug
+tumble
+turn
+twinkle
+twirl
+twist
+twitch
+uncover
+unify
+unlock
+unpack
+unsettle
+untie
+update
+violate
+visit (dupe)
+vividly
+volcano
+waddle
+wag
+wake
+walk
+wander
+wash
+watch (dupe)
+water (dupe)
+wave (dupe)
+wear
+weave
+whip
+whirl
+wind (dupe)
+wood (dupe)
+write
+zoom
+ (dupe)
+phase 4:
+ (dupe)
+alligator (dupe)
+ant (dupe)
+bacteria
+bat (dupe)
+bean (dupe)
+bee (dupe)
+birth
+bleed
+bloom
+blueberry (dupe)
+breath
+broccoli
+cabbage
+cauliflower
+chicken (dupe)
+clam (dupe)
+cocoon
+coral (dupe)
+corn (dupe)
+cow (dupe)
+cricket (dupe)
+dead
+desert (dupe)
+dolphin (dupe)
+dragonfly
+duck (dupe)
+duckling
+eagle (dupe)
+echolocation
+fever
+fire (dupe)
+flood (dupe)
+flower (dupe)
+frost (dupe)
+garlic (dupe)
+germ
+goose (dupe)
+grape (dupe)
+grasshopper (dupe)
+hamster (dupe)
+hatch
+hawk (dupe)
+heartbeat
+ice (dupe)
+infection
+jellyfish (dupe)
+jungle (dupe)
+ladybug (dupe)
+leaf (dupe)
+lettuce (dupe)
+lizard (dupe)
+meadow (dupe)
+mountain (dupe)
+mouse (dupe)
+neuron
+octopus (dupe)
+onion (dupe)
+orange
+orchard (dupe)
+owl
+pea (dupe)
+pearl
+potato (dupe)
+pumpkin (dupe)
+rat (dupe)
+rice (dupe)
+rock (dupe)
+sand (dupe)
+seaweed (dupe)
+seed (dupe)
+shark (dupe)
+sheep (dupe)
+shell (dupe)
+snail (dupe)
+snake (dupe)
+spider (dupe)
+spinach
+squirrel (dupe)
+starfish
+strawberry (dupe)
+tadpole
+turkey (dupe)
+valley (dupe)
+vineyard
+watermelon (dupe)
+wave (dupe)
+whale (dupe)
+wheat (dupe)
+wood (dupe)
+yeast
+ (dupe)
+phase 5:
+ (dupe)
+ache
+acting
+actively
+agency
+aggressive
+agree
+anticipate
+assertive
+assign
+attempt
+author
+bird (dupe)
+blame
+bless
+brag
+brave
+bring
+bully
+bunny (dupe)
+buy
+care (dupe)
+caring
+celebrate
+challenge
+cheat (dupe)
+check (dupe)
+cheer
+children
+collect (dupe)
+compete
+conquest
+conscious
+contest
+cousin
+crew
+curate
+dad
+daughter
+defend
+deliberate
+do
+doctor (dupe)
+driver (dupe)
+duck (dupe)
+enjoy
+fail (dupe)
+family
+fancy
+farmer
+father
+favor
+feel
+fight (dupe)
+find
+firefighter
+fish (dupe)
+fisher
+flourish
+fool
+friend
+frog (dupe)
+fun
+gardener
+give
+goal-serving
+grab
+greet
+grin
+groan
+growl
+guard
+guess
+guide
+guilt
+habit (dupe)
+harm (dupe)
+hate
+headache
+hear
+hello
+help (dupe)
+helper (dupe)
+hero
+hiker
+hint
+hope (dupe)
+housekeeper
+hunter
+impress
+inhabit
+insult
+invest
+invite
+itch
+joy
+judge
+lend
+lie
+mechanic
+meet
+moan
+overvalue
+owner
+pain
+peace
+pray
+prefer
+prepare
+pretend
+prevent
+protect (dupe)
+proud
+quiet
+quit
+rely
+search
+selective
+seller
+share
+shopkeeper
+shopper
+sick
+sidekick
+sister
+son
+stomachache
+student
+succeed
+suffer
+suggest
+superhero
+support
+taste
+tease
+thinker
+thirst
+treat (dupe)
+trick
+unable
+unfriendly
+view
+want
+wanting
+warn
+whimper
+whine
+win
+won
+yummy
+ (dupe)
+phase 6:
+ (dupe)
+ability
+able
+absolute
+abstract
+abstraction
+absurd
+accident
+accord
+account
+accountability
+accountable
+accurate
+achievement
+actual
+actually
+advantage
+afraid
+afterward
+align
+alike
+already
+already-exist
+always
+amount
+ancestor
+angry
+anymore
+anyone
+anyway
+apparent
+application
+approach
+approximate
+argue
+argument
+arithmetic
+arrangement
+art
+artificial
+artwork
+aspect
+asset
+associate
+assume
+assumption
+authority
+automatic
+automatically
+avoidance
+aware
+awareness
+background
+balance (dupe)
+barely
+basis
+be
+beginner
+behavior (dupe)
+belief
+believe
+benefit
+betrayal
+bias
+blindspot
+boundary
+brand
+briefly
+broadly
+build-in
+calculation
+cancer
+cannot
+capable
+capacity
+care (dupe)
+careless
+cartoon
+case (dupe)
+categorize
+category
+centrality
+certainty
+chance
+character
+chart
+cheat (dupe)
+chemistry
+claim
+clarity
+clear-eye
+closeness
+clue
+code
+coherent
+coincidence
+comedy
+commitment
+communication
+compare
+competition
+completely
+complexity
+compression
+conclusion
+condition
+confidence
+confident
+confirm
+confirmation
+conflate
+conflict
+confusion
+connection
+consequence
+consider
+consistency
+consistent
+consistently
+constant
+constantly
+context
+continuity
+continuous
+control
+convenience
+cooperate
+cooperate-with
+cooperation
+correct
+correction
+correctly
+could
+couldn
+count
+coverage
+craft
+crime
+crisis
+cruelty
+culture
+curiosity
+currently
+curve
+dangerously
+deal
+decade
+decision
+deep (dupe)
+deeply
+define
+definition
+degree
+deliberately
+denial
+depend
+depression
+describe
+description
+deserve
+desire
+detail
+determine
+determine-condition
+difference
+differently
+difficult
+direct
+direction
+disagree
+disagreement
+disaster
+discomfort
+disconfirm
+disconfirmation
+discuss
+disgust
+dismiss
+distinction
+distinguish
+doctor (dupe)
+dollar
+doubt
+dream
+duration
+early
+effect
+either
+elegance
+else
+emotion
+emotional
+empathy
+emphasis
+english
+entire
+entirely
+equal
+equally
+errand
+error
+especially
+essential
+eternal
+ethical
+ethics
+evaluate
+eventually
+ever
+exactly
+example
+except
+exception
+excuse
+exercise (dupe)
+exist
+existence
+expansive
+expect
+experience
+experiential
+expert
+explain
+explanation
+explicitly
+extra
+factor
+factual
+failure
+fairly
+fake
+farce
+fault
+fear
+feature
+feedback
+feeling
+festival
+few
+fiction
+fictional
+finite
+fitting
+flaw
+floor-belief
+follow (dupe)
+following
+force
+foresight
+forever
+form
+foundational
+frame (dupe)
+framework
+freedom
+freely
+function
+fundamental
+further
+future
+game
+general
+generation
+genre
+genuine
+geometry
+gift
+goal
+goal-generate
+goal-like
+goal-make
+goal-orient
+goal-seek
+goallessness
+grade
+gradient
+graph
+graphic
+grid
+habit (dupe)
+hadn
+half
+handful
+happiness
+harm (dupe)
+heading
+heartbreak
+heaven
+heaviness
+height
+help (dupe)
+here
+heroic
+holiday
+homework
+honesty
+hope (dupe)
+hour
+hundred
+i
+idea
+idealize
+identify
+identity
+ignore
+imagination
+imagine
+immediate
+imply
+improvable
+inch
+include
+including
+incomplete
+inconsistency
+inconvenience
+inconvenient
+individual
+inevitable
+inference
+infinite-dimensional
+infinitely
+ingroup
+inherit
+initial
+innocence
+inseparable
+inside-origin
+instant
+instantaneous
+instead
+institution
+insurance
+intelligence
+intelligible
+intend
+interest
+internal
+interpret
+interpretation
+interval
+intuition
+invent (dupe)
+invisible
+irreducible
+irrelevant
+itself
+job
+joke
+judgment
+justice
+kind
+kindly
+kindness
+kindness-in-the-moment
+know
+knowledgeable
+label (dupe)
+lack
+language
+last
+lead
+leadership
+learn
+left
+less
+lesser
+limit
+loan
+locate
+logic
+logical
+long
+lot
+love
+low (dupe)
+luck
+m
+mail
+mainly
+manipulate
+manipulation
+map (dupe)
+match (dupe)
+math-shape
+mathematical
+mathematician
+mathematics
+mean
+meaningful
+meaningless
+measurement
+medical
+memorable
+mental
+message
+metaphor
+method
+million
+mind
+mistake
+misunderstand
+model
+moment
+money
+monitor
+moral
+morality
+most
+mostly
+mourn
+movie
+multiple
+music
+my
+myself
+name
+narration
+navigation
+navy
+necessarily
+necessary
+neither
+neutral
+never
+never-ending
+nobody
+nor
+not
+not-alive
+notice
+noticeable
+noun
+objection
+objective
+observation
+obstacle
+obvious
+obviously
+offer
+okay
+one
+ongoing
+openness
+opinion
+option
+optional
+originally
+output
+over-certain
+painful
+painfully
+pair
+panic
+paragraph
+paralysis
+parent-offspring-care-system
+parent-offspring-care-system-design
+parentally
+part
+partially
+particle
+particular
+partly
+passive
+patient
+pattern
+payment
+perceive
+perception
+perceptual
+perfect
+perfectly
+perform
+permanence
+permanent
+perspective
+perspective-free
+persuasive
+physics
+plain (dupe)
+playtime
+poem
+poetry
+pointless
+position
+possibility
+poverty
+power
+practical
+practically
+practice
+precisely
+precision
+predict
+prediction
+preference
+prejudice
+preparation
+present
+previous
+previously
+price
+principle
+priority
+prize
+problem
+progress
+project
+proof
+properly
+property
+proportion
+prove
+purely
+purpose
+purposeless
+purposelessness
+puzzle
+quantum
+question
+quite
+random
+randomness
+rare
+rather
+re
+re-decide
+reach (dupe)
+realize
+really
+reasonable
+reception
+recipe
+reclassify
+recognize
+record
+redundancy
+refer
+reference
+reflect
+reflection
+reframe
+regardless
+regularly
+relation
+relationship (dupe)
+relative
+relativism
+reliable
+reliably
+remain
+remarkable
+remember
+repeatedly
+replaceable
+report
+represent
+require
+resist
+resistance
+resolve
+resource
+responsibility
+responsible
+result
+revision
+rewrite
+right-now
+rightness
+risk
+role
+roughly
+route
+rule
+s (dupe)
+sacrifice
+sadness
+safe (dupe)
+sake
+sale
+sameness
+satisfy
+scientific
+scientist
+seamless
+second
+seem
+self
+self-deception
+self-interest
+self-observation
+self-story
+separate
+separately
+sequence
+series
+seriously
+serve
+short-term
+shortcut
+similar
+simple
+simply
+simulation
+situation
+skepticism
+skill
+snapshot
+soccer
+solidly
+somehow
+sometime
+sometimes
+space
+spacetime
+spatial
+specifically
+spirit
+sport
+stability
+stake
+state
+statement
+statistic
+stillness
+story-you
+storybook
+stress
+strong (dupe)
+structural
+subject
+substitute
+successful
+suddenly
+sufficient
+suppose
+surely
+survival
+suspicious
+system
+t
+tale
+talk (dupe)
+temptation
+ten
+tend
+terrible
+that
+their
+themselves
+theorem
+theory
+they
+though
+thousand
+threat
+three-ness
+threeness
+throughout
+time-travel
+timing
+today-you
+token
+track
+tragedy
+train (dupe)
+translatable
+translate
+translation
+transmit
+trend
+triangle-ness
+true
+truly
+trust
+trustworthy
+truth
+tuesday
+turbulence
+twice
+uncategorizeable
+uncertainty
+unchangeable
+unclear
+uncomfortable
+unconsciously
+underlie
+understand
+undetectable
+undifferentiated
+undirect
+unease
+unexpected
+unexpectedly
+unfamiliar
+unfamiliarity
+unfriendliness
+unit
+unnamed
+unpredictability
+unreadable
+unresolved
+unstable
+untested
+untouchable
+untrustworthy
+unusual
+unverified
+usable
+usefulness
+useless
+usually
+vaccine
+valid
+valuable
+value
+variation
+ve
+verb
+verify
+version
+versus
+viewpoint
+villainous
+vision
+visit (dupe)
+vulnerable
+want-lens
+want-structure
+warning
+wasn
+watcher
+we
+weakness
+wellbeing
+weren
+whatever
+whenever
+whether
+which
+whoever
+whose
+widespread
+will
+wonder
+world-model
+worthless
+would
+wrong
+wrongness
+yesterday-you
+yet
+yourself
+ (dupe)

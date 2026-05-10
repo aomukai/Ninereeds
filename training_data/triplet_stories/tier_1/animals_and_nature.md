@@ -201,3 +201,39 @@ As the snail moves, he leaves a shiny, wet trail.
 He reaches the edge of the leaf and stops.
 The sun makes his trail sparkle.
 The snail rests on the leaf.
+
+[user]tell me a story about a beak.
+[Ninereeds]A tall grey bird stands still at the edge of a pond. The water is shallow and clear. A small fish swims past the bird's long legs. The fish is not fast enough. The bird's beak darts down in a quick pounce. The sharp beak catches the small creature. The bird lifts the long neck and swallows the fresh meal.
+
+[user]tell me a story about a clover.
+[Ninereeds]A clover field stretches across the farm meadow. A bee visits each clover bud in the field. The bee gathers pollen from every tight bud. The clover bud is not open wide yet. The clover holds each bud for the bee. The warm sun lights the green field. The clover field grows in the morning light.
+
+[user]tell me a story about a countryside.
+[Ninereeds]A child walks along a quiet trail through the countryside. Green fields stretch over the hills. Cows graze beside a stone fence. A breeze blows through the grass. The scenery is not loud or busy. Birds fly across the open sky. The child takes in the peaceful view.
+
+[user]tell me a story about an ecosystem.
+[Ninereeds]A wetland ecosystem had polluted soil and water. People began a conservation effort to stop the waste flow. Slowly, the water became clear again. New plant growth appeared along the banks. Birds and insects returned to the marsh. The wetland is not the same as before. But the ecosystem shows signs of healing. Conservation work has brought new life to the area.
+
+[user]tell me a story about a flock.
+[Ninereeds]A flock of birds sweeps low across the evening scenery. The wings of the birds catch the last light of the sun. One bird dips in a swift swoop toward the field below. The shape of the flock is not a fixed pattern in the sky. All birds move together like one wide wave in the air. The dusk holds the flock in a quiet moment of motion.
+
+[user]tell me a story about a fungus.
+[Ninereeds]A patch of fungus sprouts from a cracked seed pod on the damp forest floor. White mushroom caps push through the dry brown husk of the nut. The small stems form a cluster around the open shell. The husk is not empty anymore after the fungus takes root inside. Decaying wood feeds the growing life under the shade. Spores drift from the thin cap into the moist soil. Each new mushroom breaks the old husk into smaller pieces.
+
+[user]tell me a story about a landscape.
+[Ninereeds]A long hiking trail crosses the open landscape between green hills and rocky ground. The trail ends near an old stone trough under a tree branch. Cool water fills the trough for thirsty animals. A deer walks down to the trough and drinks from the still water. The deer is not afraid of the quiet landscape. Birds call from the tree branches above the trough. The warm sun rests on the grass and rock around the trough.
+
+[user]tell me a story about an orangutan.
+[Ninereeds]An orangutan family moves through the forest canopy above the ground. The long arms of each creature swing from branch to branch. Workers from a conservation group watch from below. This forest is not a place for hunting. The workers protect the trees and the fruit the orangutans eat. Each night the family rests in a nest high in the trees.
+
+[user]tell me a story about a scorpion.
+[Ninereeds]A scorpion waits under a flat rock near a patch of dry sand. Bristle hairs on the scorpion's legs sense the vibration of a beetle. The scorpion's body is not moving at all during this patient wait. The scorpion will pounce forward with a quick strike of the tail. Venom from the stinger flows into the beetle's body. The scorpion carries the beetle back under the rock to eat in the dark.
+
+[user]tell me a story about an iris.
+[Ninereeds]An iris opens in the early spring garden. Sunlight warms the purple petals of the iris. A bee visits the iris for nectar. Dust from the pollen covers the bee. The bee carries the pollen to other flowers. This flower is not finished with the spring growth. The iris continues growth toward the sun.
+
+[user]tell me a story about an ivy.
+[Ninereeds]Ivy covers an old stone wall with green leaves. Warm spring sun brings new growth to the ivy. Tiny buds begin to show along the stems. Sun and rain help the ivy spread across the wall. The growth is not fast but slow. Still, each warm day brings more leaves. Soon the wall is a thick bed of green.
+
+[user]tell me a story about a trail.
+[Ninereeds]A narrow trail goes through the calm countryside. The path winds past green fields and an old wooden fence. Birds call from the tall trees along the way. A stone trough sits near the edge of a field. The water in the trough is not clear. A cow drinks from the trough slowly. The warm sun rests on the trail. The walk through the countryside is quiet and still.

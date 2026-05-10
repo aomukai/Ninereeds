@@ -281,3 +281,33 @@ His sister tells him to take a deep breath and rest.
 Kent drinks some water from his bottle.
 He feels better and starts to jog around the field.
 Kent and his sister exercise until the sun starts to set.
+
+[user]tell me a story about an ankle.
+[Ninereeds]Will practices a gymnastics floor routine in the gym. He steps on the mat and takes a deep breath. Will springs into a low crouch and launches upward. During the landing, his coordination breaks, and his foot lands at a bad angle. His ankle twists sharply. Pain flashes through his leg. Will falls to the mat and grabs his ankle. His coach walks over and kneels beside him. "Are you okay, Will?" the coach asks. "My ankle hurts," Will says. The coach helps Will stand and applies an ice pack. Then the coach explains that rest and ice will help the swelling go down. Will sits on the bench and watches the other athletes.
+
+[user]tell me a story about a breast.
+[Ninereeds]The newborn baby cries in the dark room. The mother lifts the baby from the bed and holds the baby close against her chest. The mouth of the baby finds the breast of the mother. The nipple gives warm milk to the hungry baby. Cody opens the door and whispers, "Is the baby feeding?" The mother nods and smiles down at the quiet baby. The baby feeds at the breast until full. Cody steps closer and looks at the baby. He sees the soft skin of the breast against the mouth of the baby. "You are doing a good job," Cody says gently. The baby lets go of the nipple and falls asleep. The mother stays awake and watches the baby sleep. Cody puts a hand on her shoulder and stays quiet beside her. The warm room holds the sleeping family in the night.
+
+[user]tell me a story about a diarrhea.
+[Ninereeds]Ella woke up one morning with a strange feeling in her belly. Her stomach felt cramped and achy. She ran to the bathroom. "Mom, my belly hurts," Ella said. Her mother came and sat beside her. "A harmful bacterium can cause this," her mom explained. The bacterium had entered her digestive system through contaminated food. Ella felt a strong sensation in her stomach. Her mother brought her warm soup and a glass of water. Ella stayed in bed and drank the water. The uncomfortable sensation slowly went away. Rest and water helped her body recover from the infection.
+
+[user]tell me a story about exhaustion.
+[Ninereeds]Emma and her friend play in the sunny yard all afternoon. They run across the soft grass and swing on the old tire. The warm air feels still and heavy around them. Emma's legs begin to feel weak and shaky. "I need to stop for a minute," she says. Her friend keeps playing while Emma sits on the ground. Emma's head feels dizzy and her eyes are tired. She lies back on the grass and watches the clouds. The exhaustion pulls at her body like a heavy blanket. "I think I need to go inside," Emma whispers. She crawls through the door and falls asleep on the soft mat.
+
+[user]tell me a story about an injury.
+[Ninereeds]Jack climbs a low stone wall in the backyard. His foot slips on a patch of moss and he falls. He scrapes his knee on the stone ground. The scrape starts to bleed a little. Jack's mother hears his cry and comes quickly. She kneels beside him and looks at the injury. "It hurts," Jack says with tears in his eyes. "I know it is hurtful," his mother says. "Let me clean it." She washes the cut with warm water. She wraps a soft cloth around his knee. The sting begins to ease. Jack sits still and waits for it to feel better. His mother pats his shoulder and smiles. Jack feels brave again.
+
+[user]tell me a story about a pee.
+[Ninereeds]Lily is awake in the night. She feels a full bladder and calls for her mom. Mom comes to her bedroom and turns on a soft light. "Do you need to go to the bathroom?" Mom asks in a gentle voice. Lily nods and sits up in her bed. Mom holds her hand as they walk down the hallway. The floor feels cold under her feet. Mom lifts her onto the toilet seat. "I can do it," Lily says. She pees and feels better. The sound of the splash is not scary anymore. Mom helps her wash her hands. They walk back to the warm bed. Using the toilet has become a daily habit for Lily.
+
+[user]tell me a story about a poop.
+[Ninereeds]Luke feels a sensation in his tummy after breakfast. He knows this feeling means his body needs the toilet. Luke walks to the bathroom and sits on the seat. He pushes and the poop comes out. His mom calls from the kitchen and says, "Are you okay in there, Luke?" Luke says, "I am okay. Just using the toilet." Luke finishes his business and flushes the toilet. He washes his hands with soap and water. This daily routine helps Luke learn his body signals. The poop is a normal part of his day. Luke feels clean and ready to play.
+
+[user]tell me a story about a posture.
+[Ninereeds]Max stood on the field with the team. The coach gathered the players together. "Stand tall and pull your shoulderblades back," the coach said. Max pulled his shoulderblades back and stood straight. The coach walked among the players to check each posture. He stopped beside Max and gave a nod. "Good posture, Max. This helps your coordination when you throw." The team practiced the stance together. A player with better posture throws the ball with more strength. Max threw the ball to a teammate across the field. The throw went straight and strong. The simple change made a difference for Max and the team. Good posture helps everyone play better.
+
+[user]tell me a story about a surgery.
+[Ninereeds]A boy named noah arrives at the hospital with a serious infection in his body. The doctor examines noah and finds damage inside his body. "The infection is not from a simple wound," the doctor says. A virus and a bacterium are both causing the illness. The surgeon tells noah that he needs an operation. The surgeon uses a scalpel to make a small cut into noah's skin. The surgeon removes the damaged tissue from inside the body. The wound is cleaned with a special solution. "You did well," the surgeon says to noah. The wound is stitched closed with careful stitches. Noah is moved to a room where he can rest. He sleeps and his body begins to heal.
+
+[user]tell me a story about a workout.
+[Ninereeds]Nora stood on the mat in her living room. She took a deep breath and began her workout. "I can do ten jumps today," she said. Her feet left the floor and landed again. Each landing made her knees bend. She felt a vibration travel up through her legs. Nora moved her arms in rhythm with her jumps. This coordination took practice to build. She counted each jump aloud. "Seven, eight, nine, ten," she said. Her muscles felt warm and tired. The whole workout was not too hard to start. A short practice each day helped her body grow stronger.

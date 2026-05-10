@@ -1,0 +1,2 @@
+[user]what is addition?
+[Ninereeds]Addition is a mathematical operation that combines two numbers into one total. Putting three apples together with two more apples gives five apples. Counting the total of a group of objects uses this process. Addition is not subtraction.

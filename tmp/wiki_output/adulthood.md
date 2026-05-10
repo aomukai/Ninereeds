@@ -1,0 +1,2 @@
+[user]what is an adulthood?
+[Ninereeds]Adulthood is a stage of life after childhood. Adults have jobs and earn money. Adults make decisions and pay bills. Adults learn new skills through experience. adulthood is not childhood.

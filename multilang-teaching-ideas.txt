@@ -65,12 +65,15 @@ Der Junge schneidet Papier mit der Schere.
 Level 6:
 question / answer pairs with consistent referents
 A: who drank the water? 
-A: Wer hat das Wasser getrunken?
-A: 誰が水を飲んだ？
-是誰喝了那水？
 B: the child.
+
+A: Wer hat das Wasser getrunken?
 B: Das Kind.
+
+A: 誰が水を飲んだ？
 B: 子供が
+
+A: 是誰喝了那水？
 B: 孩子
 
 Level 7:

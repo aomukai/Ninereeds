@@ -281,3 +281,21 @@ No other cars are coming from either direction.
 She pushes on the pedals and rides forward.
 Her father follows close behind her.
 Hope stops at every sign all the way to the park.
+
+[user]tell me a story about a cab.
+[Ninereeds]A yellow cab carries Will through city traffic. Will sits in the back seat with his bags beside him. The cargo sits in the trunk. The driver watches the road ahead. "Where are we going?" Will asks. The cab slows at a red light. Traffic stretches down the street. Will looks out the window. The light turns green and the cab moves forward. The cab turns onto a quiet street. The driver pulls up to a building. "Here we are," the driver says. Will thanks the driver and steps out.
+
+[user]tell me a story about a conductor.
+[Ninereeds]The conductor stands at the front of the train car. Cody is a young boy sitting near the window. The conductor makes an announcement to gain every passenger's attention. "Please have your tickets ready," the conductor says. Cody holds his ticket in his hand. The conductor walks down the aisle and checks each ticket. He stops beside Cody and takes the ticket. "Thank you," the conductor says with a smile. Cody nods and turns to look out the window. The train arrives at the next station. Passengers stand and gather their bags. The conductor opens the door and steps onto the platform. He helps a passenger with a question about the schedule. The conductor waves as the train continues down the track.
+
+[user]tell me a story about a cruise.
+[Ninereeds]Ella stood at the railing and watched the sea. The ship's hull cut through the calm water. A cool breeze blew across the deck. "This is beautiful," she said. The cruise ship carried a large cargo of food and supplies for the week. Ella walked to the dining room for dinner. She sat with new friends at a long table. "I love watching the sunset," her friend said. Everyone walked to the top deck after the meal. The sky glowed bright orange and pink. The stars came out one by one in the dark. Ella felt happy and calm as the ship sailed on.
+
+[user]tell me a story about a handlebar.
+[Ninereeds]Emma stood beside her red bicycle on a quiet morning street. Her dad held the back of the seat with one hand. "Are you ready?" he asked. Emma took a deep breath and nodded. She placed both hands on the handlebar and squeezed the rubber grip. Her fingers tightened around the cool rubber. "You can do this," her dad said in a gentle voice. Emma pushed the pedal and the bicycle rolled forward. The handlebar wobbled at first under her small hands. She kept her eyes straight ahead on the road. The handlebar felt steady as she gained speed. Emma smiled and felt the wind in her hair. She steered around a bump in the pavement. Her dad let go and Emma pedaled on her own.
+
+[user]tell me a story about a motorcycle.
+[Ninereeds]Jack climbed onto his red motorcycle and turned the key. The engine roared through a loud cycle. He pulled on his helmet and held the handlebars. "Are you ready?" he asked. His friend nodded from the sidewalk. Jack eased the throttle and pulled into the street. The morning traffic was heavy on the downtown road. Jack weaved between the slow cars in his lane. He watched the streetlights and turned at the corner. The wind rushed past his face. His friend laughed and held on tight. The motorcycle hummed through another cycle as they left the city behind. The open road stretched wide ahead of them.
+
+[user]tell me a story about a runway.
+[Ninereeds]Lily stands with her mother at the airport window. She watches a large plane on the runway outside. "Will that plane take off soon?" Lily asks. A friendly pilot nearby hears her question and smiles. He takes Lily to see the cockpit. Inside, he points to the many switches and buttons. "I must follow a careful procedure to check everything," he explains. Lily pays close attention as the pilot checks each instrument. The control tower sends a signal that the path is clear. Lily returns to her seat and buckles her belt. The plane rolls down the runway and climbs into the bright sky. Lily looks out the window with a big smile.

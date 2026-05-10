@@ -281,3 +281,27 @@ They all have fun playing a game of tag on the grass.
 Then it starts to rain and the playground gets wet.
 Quinn and her friend run to a safe place to stay dry.
 She had a lot of fun at the playground with her friend.
+
+[user]tell me a story about a cube.
+[Ninereeds]Toby places one cube on another cube. The target height is five cubes tall. The current design keeps falling over. "Why does it keep falling?" asks Toby. The base cube is not wide enough. A wider base makes the tower more stable. Toby adds more cubes slowly. Each new cube brings the tower closer to the target. "Nearly there," says Toby with a smile. The next cube wobbles. Toby waits and then places it carefully. The finished tower stands straight and tall.
+
+[user]tell me a story about a fort.
+[Ninereeds]This is a fort. Cody and a friend gather branches and blankets in the outdoor space. They spread a dry blanket over a low tree branch to form a roof. "This side needs more leaves," Cody says. The friend brings more dry leaves to block the gaps. They drape another blanket across the front for a wall. Cody crawls inside and sits on the soft ground. "Look, the wind stays out now," Cody says. The fort gives good protection from the cold air. The children bring their games into the warm space. They play a quiet game on the fort floor. The fort stands until the evening light fades.
+
+[user]tell me a story about a chaser.
+[Ninereeds]The young players practice on the field. Owen is the chaser for his team. He makes a fast dash for the ball. The ball flies through the air. Owen catches it with both hands. His teammate shouts, "Great catch, Owen!" Owen smiles and nods. He throws the ball back to start a new play. The opposing player scores a goal. Owen claps for the good play. After the match, both teams show good sportsmanship. They shake hands and cheer together. A good game is about more than winning.
+
+[user]tell me a story about a comic.
+[Ninereeds]On a rainy afternoon, Sophie curls up on the couch with a colorful comic. Sophie's friend joins her on the couch. Sophie turns each page with careful fingers. She points at a funny panel and says, "Look at this silly part." Sophie's friend laughs at the bright pictures. The two friends share the comic together. Sophie points at another panel and says, "This one is my favorite." Sophie's friend laughs again. The room fills with happy laughter. Sophie feels great enjoyment as they read. Sophie reads the comic a second time for more enjoyment. The rainy afternoon becomes a time of quiet fun.
+
+[user]tell me a story about a defender.
+[Ninereeds]Will is the defender today. He stands between the chaser and the goal. The grass is wet under his feet. Will watches the chaser move the ball across the field with quick steps. "Stay low and stay ready," he says. The two players clash near the sideline. Will plants both feet and holds the ground. The chaser tries a different path toward the net. Will follows every move. "You will not get past me," Will says. The crowd watches the race to the line. The match is not over yet. Will takes a breath and sets his feet again.
+
+[user]tell me a story about a goalie.
+[Ninereeds]Ella stands before the net as the goalie. She watches the target corner of the goal. The players clash for the ball on the field. Ella calls out to her team, "I am ready for the shot." The forward kicks the ball hard toward the net. Ella dives to her left and blocks the ball with her glove. The ball bounces away from her hand. Ella stands up and returns to the ready position. Her teammate smiles and says, "That was a good save." Ella nods and watches the next attack. The game continues with both teams fighting for the score.
+
+[user]tell me a story about a streamer.
+[Ninereeds]Emma enters the party room to start her stream. She checks the blue and red decorations hanging on the wall. A crowd of viewers watches her play a game on the screen. Emma smiles at the camera and says, "Hello, everyone! Thank you for watching tonight." The crowd cheers in the chat. Emma nods and laughs at the cheerful messages. She keeps her focus on the game and makes a great play. The crowd types more cheers in the chat. Emma says, "This game is very fun tonight." The room is full of joy and excitement. Emma turns back to the screen with a bright smile. The stream is a happy party for all her friends.
+
+[user]tell me a story about a theater.
+[Ninereeds]Jack stands near the stage curtain before the school play begins. His hands feel nervous as he holds the script. Stage lights shine bright on the colorful set. Jack takes a deep breath and steps forward. "Are you ready?" his friend whispers from the side. Jack nods and says, "I am ready now." The performance tells a story about a brave boy and his friends. Jack speaks every line with a clear voice. The audience watches the show with quiet amazement. Parents and friends cheer when the play ends. Jack smiles as the crowd claps for all the actors. He bows with the rest of the cast on the warm stage.

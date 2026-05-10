@@ -201,3 +201,27 @@ Her friend runs over to play with her.
 They play games together on the grass.
 They laugh and run around the playground.
 The two friends head to the sandbox next.
+
+[user]tell me a story about a chaser.
+[Ninereeds]Two young players practice on the field. The chaser makes a fast dash for the ball. The ball flies through the air. The chaser catches the ball with both hands. The opposing player smiles and nods. A good match is not only about winning. Both players show good sportsmanship after the game.
+
+[user]tell me a story about a comic.
+[Ninereeds]On a rainy afternoon, a child curls up on a couch with a colorful comic. The child turns each page with careful fingers. Bright pictures fill every panel on the comic. The child's face shows a wide smile. The room fills with happy laughter. The comic is not a long story. The child reads the comic a second time for more enjoyment. The rainy day becomes a time of quiet fun.
+
+[user]tell me a story about a cube.
+[Ninereeds]A child places one cube on another cube. The target height is five cubes tall. The current design keeps falling over. The base cube is not wide enough. A wider base makes the tower stable. The child adds more cubes slowly. Each new cube brings the tower closer to the target. The finished tower stands straight and tall.
+
+[user]tell me a story about a defender.
+[Ninereeds]The defender stands between the chaser and the goal. The chaser moves the ball across the field with fast steps. The two players clash near the sideline. The defender plants both feet and holds the ground. This match is not over yet. The chaser tries a different path toward the net. The defender follows every move. The crowd watches the race to the line.
+
+[user]tell me a story about a fort.
+[Ninereeds]Children gather branches and blankets in the outdoor space. The children build a fort against a big tree. Blankets drape over branches to form walls. The fort gives protection from the cold wind. The children sit inside the warm space. This place is not a real house. The children play games on the ground. The fort stands until evening comes.
+
+[user]tell me a story about a goalie.
+[Ninereeds]The goalie stands before the net. The goalie watches the target corner of the goal. The players clash for the ball on the field. The goalie moves both hands to defend the net. This game is not easy for any player. The goalie dives to block a fast shot. The ball bounces away from the goalie hands. The goalie stands up and returns to the ready position.
+
+[user]tell me a story about a streamer.
+[Ninereeds]A streamer hangs decoration in a party room. The streamers are bright blue and red. A crowd of people watches the streamer play a game. The crowd claps and cheers. The streamer smiles at the crowd. This room is not quiet. The party is full of joy and fun.
+
+[user]tell me a story about a theater.
+[Ninereeds]The school theater hosts a show for parents and friends. Stage lights shine bright on the colorful set. Students watch the performance with amazement. Actors speak lines with clear voices. The story is not about a simple thing. The audience claps with warm excitement. Parents smile with proud faces in the room.

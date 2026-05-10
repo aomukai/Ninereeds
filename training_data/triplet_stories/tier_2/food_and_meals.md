@@ -281,3 +281,30 @@ Then he squeezes too hard and frosting squirts everywhere.
 His mother helps him clean up the extra frosting.
 Todd decorates the rest of the cupcakes more carefully.
 He cannot wait to eat one of his pretty cupcakes at the party.
+
+[user]tell me a story about dough.
+[Ninereeds]Cody helps the baker in the kitchen this morning. The baker hands Cody a spoonful of yeast. "Stir this into the flour and water," the baker says. Cody stirs the yeast into the dough. The dough feels soft and sticky in the bowl. The baker covers the bowl with a cloth and puts it near the window. "It needs a warm spot to rise," the baker tells Cody. Cody waits and checks the dough. The dough rises into a round lump. The baker punches down the dough and shapes it into a loaf. The loaf bakes in the oven until a golden crust forms. The baker taps the crust to check the bread. Cody lifts the warm loaf from the oven and sets it on the counter.
+
+[user]tell me a story about a nibble.
+[Ninereeds]Lily sits at the kitchen table. A small mouse comes out from a hole in the wall. The mouse nibbles at a piece of bread on the floor. Lily watches it take a soft bite from the edge. The crust is harder than the middle. "You are a gentle mouse," Lily whispers. The mouse looks at her and keeps nibbling. Tiny crumbs drop from its mouth. Lily smiles and stays very still. The mouse takes another small bite of the crust. Then it picks up a crumb with its tiny teeth. Lily says, "I will leave some bread for you tomorrow." The mouse goes back into the hole.
+
+[user]tell me a story about a cafeteria.
+[Ninereeds]Owen walked into the cafeteria with his friend. He picked up a tray and a clean utensil from the counter. "Look at the food today," his friend said. Owen looked across the long lunch line. He chose a warm sandwich and an apple for his plate. A worker put a small cup of milk on his tray. The two boys carried their trays to a table by the window. They sat down together. "This sandwich is good," Owen said. He took a bite and chewed slowly. A takeaway box sat near the edge of the table. Owen put his extra food inside the box. He ate the rest of his meal and felt full. His friend laughed and saved some food too.
+
+[user]tell me a story about a citrus.
+[Ninereeds]Sophie sits at the kitchen table in the morning sunlight. A bowl of oranges rests in front of her. She picks up a bright orange fruit from the bowl. Sophie peels the skin away in long strips. She separates the fruit into halves and offers one to her mother. "Would you like to share this with me?" Sophie asks. Her mother smiles and takes the half. Sophie lifts a segment to her mouth and takes a bite. The juice bursts across her tongue. The taste is sweet and tangy at once. "This is so delicious," Sophie says. Her mother nods and agrees. Sophie eats the rest of the fruit and feels happy. The citrus snack is a perfect start to the day.
+
+[user]tell me a story about a clove.
+[Ninereeds]Toby stood beside the kitchen counter. He watched his grandmother reach for a small jar of ground clove. "What does that spice do?" asked Toby. His grandmother smiled and measured one spoonful of the warm powder. The spoonful fell into a pot of simmering stew. A warm and delicious aroma filled the kitchen. "It makes the meal taste rich," she said. Toby leaned closer and breathed in the inviting smell. His grandmother stirred the pot with a long wooden spoon. She lifted the spoon and offered him a taste. Toby agreed the stew tasted rich and delicious. The clove made the meal truly inviting. Everyone at the table praised the stew that evening.
+
+[user]tell me a story about a coffee.
+[Ninereeds]Every morning, Will begins his daily routine in the kitchen. He fills the coffee maker with water and scoops in the grounds. The machine hums as it brews the dark liquid. Will sits at the table and looks out the window. Morning light comes through the glass onto his plate. A piece of bread rests on the plate with a golden-brown crust. "This coffee wakes me up every time," Will says. He takes a warm sip of the drink. The flavor fills his mouth and wakes his body. He picks up the bread and bites into the crispy crust. Steam rises from his cup as he chews. Will smiles and takes another sip. This drink is a peaceful start before the busy day begins.
+
+[user]tell me a story about a lemonade.
+[Ninereeds]Ella wanted a cold drink on a warm afternoon. She took lemons from the kitchen counter and cut each one in half. She squeezed the citrus juice into a tall glass. A spoonful of sugar went into the glass next. Ella stirred the mix until the sugar dissolved. "Is it ready yet?" she asked. Her mother smiled and said, "Add the ice and water now." Ella poured cold water over the ice and stirred again. The yellow lemonade filled the glass to the brim. She took a sip and tasted the sour and sweet flavors together. The drink was fresh and bright in the afternoon sun. Ella smiled and drank the rest.
+
+[user]tell me a story about a soy.
+[Ninereeds]Emma the cook stands in the kitchen. She places a pan on the stove. A small flame heats the pan. Emma pours a spoonful of oil into the pan. "This will be good," she says. She adds soy sauce to the pan. The sauce sizzles and fills the air with a warm smell. Emma stirs the sauce with a spoon. She pours it over a bowl of rice. The rice turns brown from the soy. Emma takes a bite. "This is delicious," she says. The flavors are rich and smooth. She smiles and eats the rest.
+
+[user]tell me a story about a chew.
+[Ninereeds]Luke pulls a fresh loaf of bread from the oven. The warm smell fills the kitchen. He sets the loaf on the table and cuts a thick slice. Steam rises from the soft inside of the bread. Luke spreads butter across the warm surface. He takes a big bite and chews slowly. "This bread is so delicious," he says with a smile. His mother nods and hands him another slice. The golden crust cracks with each bite. Luke dips the bread into a bowl of soup. The warm broth soaks into the soft crumb. Every mouthful tastes rich and satisfying. This evening meal brings comfort to the table.

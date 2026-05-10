@@ -201,3 +201,21 @@ Other cars are passing by now.
 A child looks out at the quiet street.
 Everything stays still for a second.
 Then the car can move again.
+
+[user]tell me a story about a cab.
+[Ninereeds]A yellow cab moves slowly through city traffic. The cab carries a small pile of luggage in the trunk. This cargo belongs to a passenger in the back seat. The driver watches the road ahead. The ride is not long. The cab turns onto a quiet street. The cab stops at a building.
+
+[user]tell me a story about a conductor.
+[Ninereeds]The conductor stands at the front of the train car. The conductor makes an announcement to gain every passenger's attention. The announcement says the train will arrive at the next station in ten minutes. Passengers look up from books and phones. This stop is not the final destination. The conductor walks through the aisle to check tickets. Each passenger holds a ticket ready for the conductor.
+
+[user]tell me a story about a cruise.
+[Ninereeds]A cruise ship sails across the sea. The strong hull moves through the water. The ship carries a large cargo of food and supplies. Passengers walk along the deck in the morning. The ship is not moving too fast today. Dinner is served in the dining room. Everyone watches the sunset from the top deck.
+
+[user]tell me a story about a handlebar.
+[Ninereeds]A bicycle handlebar felt cool under a child hand. The child grip tightened around the rubber as the turn approached. The bicycle wobbled but the handlebar kept the front wheel steady. This turn is not as sharp as the last turn. The child leaned into the curve while the handlebar guided the bicycle through the corner. The ride smoothed out on the straight pavement ahead. The child grip relaxed as the handlebar settled into a steady line.
+
+[user]tell me a story about a motorcycle.
+[Ninereeds]The red motorcycle weaves through city traffic on the open road. The engine completes each cycle with a loud roar. The rider wears a helmet and holds the handlebars. The motorcycle is not a quiet machine on the street. The rider brakes and moves to another lane. The motorcycle speeds away from the traffic. The rider feels the wind on the face.
+
+[user]tell me a story about a runway.
+[Ninereeds]A pilot stands on the runway. The control tower follows a careful procedure. The crew pays close attention to every signal. The aircraft is not ready for takeoff yet. The pilot checks the engine one more time. A clear path lies ahead on the runway. The flight crew waits for the final call. The plane begins the journey into the sky.
