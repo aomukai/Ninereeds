@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "feed",
+      "filename": "feed.md",
+      "lines": [
+        "Feeding is an action.",
+        "Füttern ist eine Handlung.",
+        "餌を与えることは行動だ。",
+        "喂食是一种行为。"
+      ]
+    },
+    {
+      "word": "feedback",
+      "filename": "feedback.md",
+      "lines": [
+        "Feedback is information.",
+        "Feedback ist Information.",
+        "フィードバックは情報だ。",
+        "反馈是信息。"
+      ]
+    },
+    {
+      "word": "feeding",
+      "filename": "feeding.md",
+      "lines": [
+        "Feeding is a process.",
+        "Fütterung ist ein Prozess.",
+        "給餌は過程だ。",
+        "喂养是一个过程。"
+      ]
+    },
+    {
+      "word": "feel",
+      "filename": "feel.md",
+      "lines": [
+        "Feeling is a sensation.",
+        "Fühlen ist eine Empfindung.",
+        "感じることは感覚だ。",
+        "感觉是一种感受。"
+      ]
+    },
+    {
+      "word": "feeler",
+      "filename": "feeler.md",
+      "lines": [
+        "A feeler is a sensory organ.",
+        "Ein Fühler ist ein Sinnesorgan.",
+        "触角は感覚器官だ。",
+        "触角是一种感觉器官。"
+      ]
+    },
+    {
+      "word": "feeling",
+      "filename": "feeling.md",
+      "lines": [
+        "A feeling is an emotion.",
+        "Ein Gefühl ist eine Emotion.",
+        "気持ちは感情だ。",
+        "感觉是一种情绪。"
+      ]
+    },
+    {
+      "word": "feet",
+      "filename": "feet.md",
+      "lines": [
+        "Feet are body parts.",
+        "Füße sind Körperteile.",
+        "足は体の一部だ。",
+        "脚是身体的一部分。"
+      ]
+    },
+    {
+      "word": "felt",
+      "filename": "felt.md",
+      "lines": [
+        "Felt is a fabric.",
+        "Filz ist ein Stoff.",
+        "フェルトは布地だ。",
+        "毛毡是一种布料。"
+      ]
+    },
+    {
+      "word": "felting",
+      "filename": "felting.md",
+      "lines": [
+        "Felting is a craft.",
+        "Filzen ist ein Handwerk.",
+        "フェルティングは工芸だ。",
+        "毡化是一种工艺。"
+      ]
+    },
+    {
+      "word": "female",
+      "filename": "female.md",
+      "lines": [
+        "A female cat is a cat.",
+        "Eine weibliche Katze ist eine Katze.",
+        "雌の猫は猫だ。",
+        "母猫是猫。"
+      ]
+    }
+  ],
+  "problems": []
+}

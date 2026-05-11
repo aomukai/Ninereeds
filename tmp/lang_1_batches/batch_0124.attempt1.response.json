@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778433795-eQHQQtfNiZdqZrR9rIib",
+  "object": "chat.completion",
+  "created": 1778433795,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"development\",\n      \"filename\": \"development.md\",\n      \"lines\": [\n        \"Development is a process.\",\n        \"Entwicklung ist ein Prozess.\",\n        \"開発はプロセスだ。\",\n        \"发展是一个过程。\"\n      ]\n    },\n    {\n      \"word\": \"device\",\n      \"filename\": \"device.md\",\n      \"lines\": [\n        \"A device is a tool.\",\n        \"Ein Gerät ist ein Werkzeug.\",\n        \"装置は道具だ。\",\n        \"设备是一种工具。\"\n      ]\n    },\n    {\n      \"word\": \"devouring\",\n      \"filename\": \"devouring.md\",\n      \"lines\": [\n        \"Devouring is eating.\",\n        \"Verschlingen ist Essen.\",\n        \"むさぼり食うことは食べることだ。\",\n        \"狼吞虎咽是吃。\"\n      ]\n    },\n    {\n      \"word\": \"dew\",\n      \"filename\": \"dew.md\",\n      \"lines\": [\n        \"Dew is water.\",\n        \"Tau ist Wasser.\",\n        \"露は水だ。\",\n        \"露水是水。\"\n      ]\n    },\n    {\n      \"word\": \"diagnosis\",\n      \"filename\": \"diagnosis.md\",\n      \"lines\": [\n        \"A diagnosis is an assessment.\",\n        \"Eine Diagnose ist eine Beurteilung.\",\n        \"診断は評価だ。\",\n        \"诊断是一种评估。\"\n      ]\n    },\n    {\n      \"word\": \"diagram\",\n      \"filename\": \"diagram.md\",\n      \"lines\": [\n        \"A diagram is a drawing.\",\n        \"Ein Diagramm ist eine Zeichnung.\",\n        \"図表は図面だ。\",\n        \"图表是一种图画。\"\n      ]\n    },\n    {\n      \"word\": \"dialogue\",\n      \"filename\": \"dialogue.md\",\n      \"lines\": [\n        \"A dialogue is a conversation.\",\n        \"Ein Dialog ist ein Gespräch.\",\n        \"対話は会話だ。\",\n        \"对话是一种交谈。\"\n      ]\n    },\n    {\n      \"word\": \"diamond\",\n      \"filename\": \"diamond.md\",\n      \"lines\": [\n        \"A diamond is a gem.\",\n        \"Ein Diamant ist ein Edelstein.\",\n        \"ダイヤモンドは宝石だ。\",\n        \"钻石是一种宝石。\"\n      ]\n    },\n    {\n      \"word\": \"diaper\",\n      \"filename\": \"diaper.md\",\n      \"lines\": [\n        \"A diaper is clothing.\",\n        \"Eine Windel ist Kleidung.\",\n        \"おむつは衣類だ。\",\n        \"尿布是衣物。\"\n      ]\n    },\n    {\n      \"word\": \"diarrhea\",\n      \"filename\": \"diarrhea.md\",\n      \"lines\": [\n        \"Diarrhea is a symptom.\",\n        \"Durchfall ist ein Symptom.\",\n        \"下痢は症状だ。\",\n        \"腹泻是一种症状。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 722,
+    "completion_tokens": 638,
+    "total_tokens": 1360,
+    "cost": 0.0002769228,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00027972,
+      "upstream_inference_prompt_cost": 0.00010108,
+      "upstream_inference_completions_cost": 0.00017864
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

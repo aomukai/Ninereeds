@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "distance",
+      "filename": "distance.md",
+      "lines": [
+        "A distance is a length.",
+        "Eine Entfernung ist eine Länge.",
+        "距離は長さだ。",
+        "距离是长度。"
+      ]
+    },
+    {
+      "word": "distancing",
+      "filename": "distancing.md",
+      "lines": [
+        "Distancing is separation.",
+        "Distanzieren ist Trennung.",
+        "距離を置くことは分離だ。",
+        "保持距离是分离。"
+      ]
+    },
+    {
+      "word": "distant",
+      "filename": "distant.md",
+      "lines": [
+        "A distant mountain is a mountain.",
+        "Ein entfernter Berg ist ein Berg.",
+        "遠い山は山だ。",
+        "远处的山是山。"
+      ]
+    },
+    {
+      "word": "distinct",
+      "filename": "distinct.md",
+      "lines": [
+        "A distinct sound is a sound.",
+        "Ein deutlicher Klang ist ein Klang.",
+        "はっきりした音は音だ。",
+        "清晰的声音是声音。"
+      ]
+    },
+    {
+      "word": "distinction",
+      "filename": "distinction.md",
+      "lines": [
+        "A distinction is a difference.",
+        "Eine Unterscheidung ist ein Unterschied.",
+        "区別は違いだ。",
+        "区别是差异。"
+      ]
+    },
+    {
+      "word": "distinguishing",
+      "filename": "distinguishing.md",
+      "lines": [
+        "Distinguishing is identification.",
+        "Unterscheiden ist Identifikation.",
+        "見分けることは識別だ。",
+        "区分是识别。"
+      ]
+    },
+    {
+      "word": "distorting",
+      "filename": "distorting.md",
+      "lines": [
+        "Distorting is deformation.",
+        "Verzerren ist Deformation.",
+        "歪めることは変形だ。",
+        "扭曲是变形。"
+      ]
+    },
+    {
+      "word": "distracting",
+      "filename": "distracting.md",
+      "lines": [
+        "Distracting is interruption.",
+        "Ablenken ist Unterbrechung.",
+        "気を散らすことは中断だ。",
+        "分心是中断。"
+      ]
+    },
+    {
+      "word": "distraction",
+      "filename": "distraction.md",
+      "lines": [
+        "A distraction is an interruption.",
+        "Eine Ablenkung ist eine Unterbrechung.",
+        "注意散漫は中断だ。",
+        "分心是一种中断。"
+      ]
+    },
+    {
+      "word": "distribute",
+      "filename": "distribute.md",
+      "lines": [
+        "Distributing is allocation.",
+        "Verteilen ist Zuteilung.",
+        "配ることは割り当てだ。",
+        "分发是分配。"
+      ]
+    }
+  ],
+  "problems": []
+}

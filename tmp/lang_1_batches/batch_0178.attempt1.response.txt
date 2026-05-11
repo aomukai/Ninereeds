@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fork",
+      "filename": "fork.md",
+      "lines": [
+        "A fork is a utensil.",
+        "Eine Gabel ist ein Besteck.",
+        "フォークは食器だ。",
+        "叉子是餐具。"
+      ]
+    },
+    {
+      "word": "form",
+      "filename": "form.md",
+      "lines": [
+        "A form is a document.",
+        "Ein Formular ist ein Dokument.",
+        "フォームは書類だ。",
+        "表格是文件。"
+      ]
+    },
+    {
+      "word": "formal",
+      "filename": "formal.md",
+      "lines": [
+        "A formal dress is clothing.",
+        "Ein formelles Kleid ist Kleidung.",
+        "フォーマルなドレスは衣類だ。",
+        "正式礼服是服装。"
+      ]
+    },
+    {
+      "word": "format",
+      "filename": "format.md",
+      "lines": [
+        "A format is a layout.",
+        "Ein Format ist ein Layout.",
+        "フォーマットはレイアウトだ。",
+        "格式是布局。"
+      ]
+    },
+    {
+      "word": "formulating",
+      "filename": "formulating.md",
+      "lines": [
+        "Formulating is planning.",
+        "Formulieren ist Planen.",
+        "策定は計画だ。",
+        "制定是规划。"
+      ]
+    },
+    {
+      "word": "fort",
+      "filename": "fort.md",
+      "lines": [
+        "A fort is a building.",
+        "Ein Fort ist ein Gebäude.",
+        "要塞は建物だ。",
+        "堡垒是建筑。"
+      ]
+    },
+    {
+      "word": "forth",
+      "filename": "forth.md",
+      "lines": [
+        "Forth is an adverb.",
+        "Forth ist ein Adverb.",
+        "Forthは副詞だ。",
+        "Forth是副词。"
+      ]
+    },
+    {
+      "word": "fortifying",
+      "filename": "fortifying.md",
+      "lines": [
+        "Fortifying is strengthening.",
+        "Befestigen ist Stärken.",
+        "要塞化は強化だ。",
+        "巩固是强化。"
+      ]
+    },
+    {
+      "word": "forward",
+      "filename": "forward.md",
+      "lines": [
+        "A forward movement is motion.",
+        "Eine Vorwärtsbewegung ist eine Bewegung.",
+        "前進運動は運動だ。",
+        "向前运动是运动。"
+      ]
+    },
+    {
+      "word": "forwarding",
+      "filename": "forwarding.md",
+      "lines": [
+        "Forwarding is sending.",
+        "Weiterleiten ist Senden.",
+        "転送は送信だ。",
+        "转发是发送。"
+      ]
+    }
+  ],
+  "problems": []
+}

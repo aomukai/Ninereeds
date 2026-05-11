@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "desert",
+      "filename": "desert.md",
+      "lines": [
+        "A desert is a dry region.",
+        "Eine Wüste ist eine trockene Region.",
+        "砂漠は乾燥した地域だ。",
+        "沙漠是干燥的地区。"
+      ]
+    },
+    {
+      "word": "deserving",
+      "filename": "deserving.md",
+      "lines": [
+        "A deserving winner is a champion.",
+        "Ein verdienter Gewinner ist ein Champion.",
+        "ふさわしい勝者はチャンピオンだ。",
+        "一个值得的获胜者是冠军。"
+      ]
+    },
+    {
+      "word": "design",
+      "filename": "design.md",
+      "lines": [
+        "A design is a plan.",
+        "Ein Design ist ein Plan.",
+        "デザインは計画だ。",
+        "设计是一个计划。"
+      ]
+    },
+    {
+      "word": "designating",
+      "filename": "designating.md",
+      "lines": [
+        "Designating is naming.",
+        "Bezeichnen ist Benennen.",
+        "指定することは命名することだ。",
+        "指定就是命名。"
+      ]
+    },
+    {
+      "word": "desire",
+      "filename": "desire.md",
+      "lines": [
+        "A desire is a wish.",
+        "Ein Verlangen ist ein Wunsch.",
+        "欲望は願望だ。",
+        "欲望是一个愿望。"
+      ]
+    },
+    {
+      "word": "desk",
+      "filename": "desk.md",
+      "lines": [
+        "A desk is furniture.",
+        "Ein Schreibtisch ist ein Möbelstück.",
+        "机は家具だ。",
+        "书桌是家具。"
+      ]
+    },
+    {
+      "word": "dessert",
+      "filename": "dessert.md",
+      "lines": [
+        "A dessert is a sweet dish.",
+        "Ein Dessert ist ein süßes Gericht.",
+        "デザートは甘い料理だ。",
+        "甜点是一种甜食。"
+      ]
+    },
+    {
+      "word": "destination",
+      "filename": "destination.md",
+      "lines": [
+        "A destination is a place.",
+        "Ein Reiseziel ist ein Ort.",
+        "目的地は場所だ。",
+        "目的地是一个地方。"
+      ]
+    },
+    {
+      "word": "destroyed",
+      "filename": "destroyed.md",
+      "lines": [
+        "A destroyed building is a ruin.",
+        "Ein zerstörtes Gebäude ist eine Ruine.",
+        "破壊された建物は廃墟だ。",
+        "被毁坏的建筑是废墟。"
+      ]
+    },
+    {
+      "word": "destroying",
+      "filename": "destroying.md",
+      "lines": [
+        "Destroying is demolition.",
+        "Zerstören ist Zerstörung.",
+        "破壊することは破壊だ。",
+        "破坏就是毁灭。"
+      ]
+    }
+  ],
+  "problems": []
+}

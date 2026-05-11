@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "domain",
+      "filename": "domain.md",
+      "lines": [
+        "A domain is an area.",
+        "Eine Domäne ist ein Bereich.",
+        "ドメインは領域だ。",
+        "域是一个区域。"
+      ]
+    },
+    {
+      "word": "dome",
+      "filename": "dome.md",
+      "lines": [
+        "A dome is a roof.",
+        "Eine Kuppel ist ein Dach.",
+        "ドームは屋根だ。",
+        "穹顶是一种屋顶。"
+      ]
+    },
+    {
+      "word": "dominating",
+      "filename": "dominating.md",
+      "lines": [
+        "Dominating is controlling.",
+        "Dominieren ist Kontrollieren.",
+        "支配することはコントロールだ。",
+        "支配是控制。"
+      ]
+    },
+    {
+      "word": "donkey",
+      "filename": "donkey.md",
+      "lines": [
+        "A donkey is an animal.",
+        "Ein Esel ist ein Tier.",
+        "ロバは動物だ。",
+        "驴是动物。"
+      ]
+    },
+    {
+      "word": "door",
+      "filename": "door.md",
+      "lines": [
+        "A door is an opening.",
+        "Eine Tür ist eine Öffnung.",
+        "ドアは開口部だ。",
+        "门是一种开口。"
+      ]
+    },
+    {
+      "word": "doorbell",
+      "filename": "doorbell.md",
+      "lines": [
+        "A doorbell is a device.",
+        "Eine Türklingel ist ein Gerät.",
+        "ドアベルは装置だ。",
+        "门铃是一种装置。"
+      ]
+    },
+    {
+      "word": "doorknob",
+      "filename": "doorknob.md",
+      "lines": [
+        "A doorknob is a handle.",
+        "Ein Türknauf ist ein Griff.",
+        "ドアノブは取っ手だ。",
+        "门把手是一种把手。"
+      ]
+    },
+    {
+      "word": "doorstep",
+      "filename": "doorstep.md",
+      "lines": [
+        "A doorstep is a step.",
+        "Eine Türschwelle ist eine Stufe.",
+        "玄関の段は階段の一部だ。",
+        "门阶是一种台阶。"
+      ]
+    },
+    {
+      "word": "doorway",
+      "filename": "doorway.md",
+      "lines": [
+        "A doorway is an entrance.",
+        "Ein Türdurchgang ist ein Eingang.",
+        "戸口は入口だ。",
+        "门口是一种入口。"
+      ]
+    },
+    {
+      "word": "dormant",
+      "filename": "dormant.md",
+      "lines": [
+        "A dormant volcano is a mountain.",
+        "Ein ruhender Vulkan ist ein Berg.",
+        "休火山は山だ。",
+        "休眠火山是山。"
+      ]
+    }
+  ],
+  "problems": []
+}

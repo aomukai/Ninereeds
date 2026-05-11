@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439937-BJjIycH6pczwydg92eLr",
+  "object": "chat.completion",
+  "created": 1778439937,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"ella\",\n      \"filename\": \"ella.md\",\n      \"lines\": [\n        \"Ella is a name.\",\n        \"Ella ist ein Name.\",\n        \"エラは名前だ。\",\n        \"艾拉是一个名字。\"\n      ]\n    },\n    {\n      \"word\": \"elucidating\",\n      \"filename\": \"elucidating.md\",\n      \"lines\": [\n        \"Elucidating is explaining.\",\n        \"Erl\\u00e4utern ist Erkl\\u00e4ren.\",\n        \"解明することは説明することだ。\",\n        \"阐明就是解释。\"\n      ]\n    },\n    {\n      \"word\": \"email\",\n      \"filename\": \"email.md\",\n      \"lines\": [\n        \"An email is a message.\",\n        \"Eine E-Mail ist eine Nachricht.\",\n        \"メールはメッセージだ。\",\n        \"电子邮件是一种消息。\"\n      ]\n    },\n    {\n      \"word\": \"emanating\",\n      \"filename\": \"emanating.md\",\n      \"lines\": [\n        \"Emanating is flowing out.\",\n        \"Ausstr\\u00f6men ist Herausflie\\u00dfen.\",\n        \"発出することは流れ出ることだ。\",\n        \"散发就是流出。\"\n      ]\n    },\n    {\n      \"word\": \"embarking\",\n      \"filename\": \"embarking.md\",\n      \"lines\": [\n        \"Embarking is starting a journey.\",\n        \"Einschiffen ist der Beginn einer Reise.\",\n        \"乗船することは旅の始まりだ。\",\n        \"登船是旅程的开始。\"\n      ]\n    },\n    {\n      \"word\": \"embarrassing\",\n      \"filename\": \"embarrassing.md\",\n      \"lines\": [\n        \"An embarrassing moment is awkward.\",\n        \"Ein peinlicher Moment ist unangenehm.\",\n        \"恥ずかしい瞬間は気まずい。\",\n        \"尴尬的时刻令人难堪。\"\n      ]\n    },\n    {\n      \"word\": \"embarrassment\",\n      \"filename\": \"embarrassment.md\",\n      \"lines\": [\n        \"Embarrassment is a feeling.\",\n        \"Verlegenheit ist ein Gef\\u00fchl.\",\n        \"恥ずかしさは感情だ。\",\n        \"尴尬是一种感觉。\"\n      ]\n    },\n    {\n      \"word\": \"embedding\",\n      \"filename\": \"embedding.md\",\n      \"lines\": [\n        \"Embedding is inserting.\",\n        \"Einbetten ist Einsetzen.\",\n        \"埋め込むことは挿入することだ。\",\n        \"嵌入就是插入。\"\n      ]\n    },\n    {\n      \"word\": \"embodying\",\n      \"filename\": \"embodying.md\",\n      \"lines\": [\n        \"Embodying is representing.\",\n        \"Verk\\u00f6rpern ist Darstellen.\",\n        \"具現化することは表現することだ。\",\n        \"体现就是代表。\"\n      ]\n    },\n    {\n      \"word\": \"emergency\",\n      \"filename\": \"emergency.md\",\n      \"lines\": [\n        \"An emergency is a situation.\",\n        \"Ein Notfall ist eine Situation.\",\n        \"緊急事態は状況だ。\",\n        \"紧急情况是一种状况。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 707,
+    "total_tokens": 1430,
+    "cost": 0.0002961882,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00029918,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00019796
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

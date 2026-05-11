@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "exception",
+      "filename": "exception.md",
+      "lines": [
+        "An exception is a special case.",
+        "Eine Ausnahme ist ein Sonderfall.",
+        "例外は特別なケースだ。",
+        "例外是一种特殊情况。"
+      ]
+    },
+    {
+      "word": "exchange",
+      "filename": "exchange.md",
+      "lines": [
+        "An exchange is a trade.",
+        "Ein Austausch ist ein Handel.",
+        "交換は取引だ。",
+        "交换是一种交易。"
+      ]
+    },
+    {
+      "word": "excited",
+      "filename": "excited.md",
+      "lines": [
+        "An excited child is a person.",
+        "Ein aufgeregtes Kind ist ein Mensch.",
+        "興奮した子供は人間だ。",
+        "兴奋的孩子是人。"
+      ]
+    },
+    {
+      "word": "excitement",
+      "filename": "excitement.md",
+      "lines": [
+        "Excitement is a feeling.",
+        "Aufregung ist ein Gefühl.",
+        "興奮は感情だ。",
+        "兴奋是一种感觉。"
+      ]
+    },
+    {
+      "word": "exciting",
+      "filename": "exciting.md",
+      "lines": [
+        "An exciting game is a sport.",
+        "Ein aufregendes Spiel ist ein Sport.",
+        "興奮するゲームはスポーツだ。",
+        "激动人心的游戏是运动。"
+      ]
+    },
+    {
+      "word": "excluding",
+      "filename": "excluding.md",
+      "lines": [
+        "Excluding is removal.",
+        "Ausschließen ist Entfernung.",
+        "除外することは除去だ。",
+        "排除是移除。"
+      ]
+    },
+    {
+      "word": "exclusion",
+      "filename": "exclusion.md",
+      "lines": [
+        "Exclusion is a condition.",
+        "Ausschluss ist ein Zustand.",
+        "排除は状態だ。",
+        "排除是一种状态。"
+      ]
+    },
+    {
+      "word": "excuse",
+      "filename": "excuse.md",
+      "lines": [
+        "An excuse is a reason.",
+        "Eine Entschuldigung ist ein Grund.",
+        "言い訳は理由だ。",
+        "借口是一种理由。"
+      ]
+    },
+    {
+      "word": "exec",
+      "filename": "exec.md",
+      "lines": [
+        "An exec is a manager.",
+        "Ein Exec ist ein Manager.",
+        "エグゼクティブはマネージャーだ。",
+        "高管是经理。"
+      ]
+    },
+    {
+      "word": "executing",
+      "filename": "executing.md",
+      "lines": [
+        "Executing is an action.",
+        "Ausführen ist eine Handlung.",
+        "実行することは行動だ。",
+        "执行是一种行动。"
+      ]
+    }
+  ],
+  "problems": []
+}

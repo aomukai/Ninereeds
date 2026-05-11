@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778473568-jHiafDNgcYzJFi3AfFH6",
+  "object": "chat.completion",
+  "created": 1778473568,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"gas\",\n      \"filename\": \"gas.md\",\n      \"lines\": [\n        \"Gas is a state of matter.\",\n        \"Gas ist ein Aggregatzustand.\",\n        \"気体は物質の状態だ。\",\n        \"气体是物质的一种状态。\"\n      ]\n    },\n    {\n      \"word\": \"gaseous\",\n      \"filename\": \"gaseous.md\",\n      \"lines\": [\n        \"A gaseous substance is a fluid.\",\n        \"Ein gasförmiger Stoff ist ein Fluid.\",\n        \"気体の物質は流体だ。\",\n        \"气态物质是流体。\"\n      ]\n    },\n    {\n      \"word\": \"gasoline\",\n      \"filename\": \"gasoline.md\",\n      \"lines\": [\n        \"Gasoline is a fuel.\",\n        \"Benzin ist ein Kraftstoff.\",\n        \"ガソリンは燃料だ。\",\n        \"汽油是燃料。\"\n      ]\n    },\n    {\n      \"word\": \"gate\",\n      \"filename\": \"gate.md\",\n      \"lines\": [\n        \"A gate is an entrance.\",\n        \"Ein Tor ist ein Eingang.\",\n        \"門は入口だ。\",\n        \"门是入口。\"\n      ]\n    },\n    {\n      \"word\": \"gather\",\n      \"filename\": \"gather.md\",\n      \"lines\": [\n        \"Gathering is collecting.\",\n        \"Sammeln ist das Zusammenbringen.\",\n        \"集めることは収集だ。\",\n        \"聚集是收集。\"\n      ]\n    },\n    {\n      \"word\": \"gauge\",\n      \"filename\": \"gauge.md\",\n      \"lines\": [\n        \"A gauge is a measuring device.\",\n        \"Ein Messgerät ist ein Instrument zur Messung.\",\n        \"ゲージは測定器具だ。\",\n        \"量规是测量工具。\"\n      ]\n    },\n    {\n      \"word\": \"gave\",\n      \"filename\": \"gave.md\",\n      \"lines\": [\n        \"Giving is transferring.\",\n        \"Geben ist Übertragen.\",\n        \"与えることは譲渡だ。\",\n        \"给予是转移。\"\n      ]\n    },\n    {\n      \"word\": \"gazing\",\n      \"filename\": \"gazing.md\",\n      \"lines\": [\n        \"Gazing is looking.\",\n        \"Starren ist Anschauen.\",\n        \"じっと見ることは注視だ。\",\n        \"凝视是注视。\"\n      ]\n    },\n    {\n      \"word\": \"gear\",\n      \"filename\": \"gear.md\",\n      \"lines\": [\n        \"A gear is a machine part.\",\n        \"Ein Zahnrad ist ein Maschinenteil.\",\n        \"歯車は機械部品だ。\",\n        \"齿轮是机器零件。\"\n      ]\n    },\n    {\n      \"word\": \"geese\",\n      \"filename\": \"geese.md\",\n      \"lines\": [\n        \"Geese are birds.\",\n        \"Gänse sind Vögel.\",\n        \"ガチョウは鳥だ。\",\n        \"鹅是鸟类。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 749,
+    "completion_tokens": 656,
+    "total_tokens": 1405,
+    "cost": 0.0002856546,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028854,
+      "upstream_inference_prompt_cost": 0.00010486,
+      "upstream_inference_completions_cost": 0.00018368
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

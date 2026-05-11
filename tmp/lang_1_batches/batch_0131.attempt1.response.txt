@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "dispenser",
+      "filename": "dispenser.md",
+      "lines": [
+        "A dispenser is a device.",
+        "Ein Spender ist ein Gerät.",
+        "ディスペンサーは装置だ。",
+        "分配器是设备。"
+      ]
+    },
+    {
+      "word": "dispensing",
+      "filename": "dispensing.md",
+      "lines": [
+        "Dispensing is distribution.",
+        "Dispensieren ist Verteilung.",
+        "ディスペンスは配布だ。",
+        "分配是分发。"
+      ]
+    },
+    {
+      "word": "display",
+      "filename": "display.md",
+      "lines": [
+        "A display is a screen.",
+        "Ein Display ist ein Bildschirm.",
+        "ディスプレイは画面だ。",
+        "显示器是屏幕。"
+      ]
+    },
+    {
+      "word": "displaying",
+      "filename": "displaying.md",
+      "lines": [
+        "Displaying is presentation.",
+        "Anzeigen ist Präsentation.",
+        "表示は提示だ。",
+        "显示是展示。"
+      ]
+    },
+    {
+      "word": "disproving",
+      "filename": "disproving.md",
+      "lines": [
+        "Disproving is refutation.",
+        "Widerlegen ist Widerlegung.",
+        "反証は反駁だ。",
+        "证伪是反驳。"
+      ]
+    },
+    {
+      "word": "disputing",
+      "filename": "disputing.md",
+      "lines": [
+        "Disputing is argument.",
+        "Bestreiten ist Argumentation.",
+        "論争は議論だ。",
+        "争论是辩论。"
+      ]
+    },
+    {
+      "word": "dissecting",
+      "filename": "dissecting.md",
+      "lines": [
+        "Dissecting is analysis.",
+        "Sezieren ist Analyse.",
+        "解剖は分析だ。",
+        "解剖是分析。"
+      ]
+    },
+    {
+      "word": "disseminating",
+      "filename": "disseminating.md",
+      "lines": [
+        "Disseminating is spreading.",
+        "Verbreiten ist Verbreitung.",
+        "普及は拡散だ。",
+        "传播是扩散。"
+      ]
+    },
+    {
+      "word": "dissimilarity",
+      "filename": "dissimilarity.md",
+      "lines": [
+        "Dissimilarity is a difference.",
+        "Unähnlichkeit ist ein Unterschied.",
+        "非類似性は違いだ。",
+        "不相似是差异。"
+      ]
+    },
+    {
+      "word": "dissolve",
+      "filename": "dissolve.md",
+      "lines": [
+        "Dissolving is mixing.",
+        "Auflösen ist Mischen.",
+        "溶解は混合だ。",
+        "溶解是混合。"
+      ]
+    }
+  ],
+  "problems": []
+}

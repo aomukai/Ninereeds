@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "factory",
+      "filename": "factory.md",
+      "lines": [
+        "A factory is a building.",
+        "Eine Fabrik ist ein Gebäude.",
+        "工場は建物だ。",
+        "工厂是建筑物。"
+      ]
+    },
+    {
+      "word": "factual",
+      "filename": "factual.md",
+      "lines": [
+        "A factual book is a book.",
+        "Ein sachliches Buch ist ein Buch.",
+        "事実に基づく本は本だ。",
+        "事实性的书是书。"
+      ]
+    },
+    {
+      "word": "fade",
+      "filename": "fade.md",
+      "lines": [
+        "Fading is a change.",
+        "Verblassen ist eine Veränderung.",
+        "色あせは変化だ。",
+        "褪色是一种变化。"
+      ]
+    },
+    {
+      "word": "fail",
+      "filename": "fail.md",
+      "lines": [
+        "Failing is a result.",
+        "Scheitern ist ein Ergebnis.",
+        "失敗することは結果だ。",
+        "失败是一种结果。"
+      ]
+    },
+    {
+      "word": "failing",
+      "filename": "failing.md",
+      "lines": [
+        "A failing is a flaw.",
+        "Ein Fehler ist ein Makel.",
+        "欠点は欠陥だ。",
+        "缺点是一种缺陷。"
+      ]
+    },
+    {
+      "word": "failure",
+      "filename": "failure.md",
+      "lines": [
+        "A failure is a defeat.",
+        "Ein Misserfolg ist eine Niederlage.",
+        "失敗は敗北だ。",
+        "失败是一种失利。"
+      ]
+    },
+    {
+      "word": "fair",
+      "filename": "fair.md",
+      "lines": [
+        "A fair judge is a person.",
+        "Ein fairer Richter ist eine Person.",
+        "公平な裁判官は人だ。",
+        "公正的法官是人。"
+      ]
+    },
+    {
+      "word": "fairness",
+      "filename": "fairness.md",
+      "lines": [
+        "Fairness is a virtue.",
+        "Fairness ist eine Tugend.",
+        "公平さは美徳だ。",
+        "公正是美德。"
+      ]
+    },
+    {
+      "word": "fairy",
+      "filename": "fairy.md",
+      "lines": [
+        "A fairy is a creature.",
+        "Eine Fee ist ein Wesen.",
+        "妖精は生き物だ。",
+        "仙女是生物。"
+      ]
+    },
+    {
+      "word": "fake",
+      "filename": "fake.md",
+      "lines": [
+        "A fake coin is a coin.",
+        "Eine falsche Münze ist eine Münze.",
+        "偽のコインはコインだ。",
+        "假币是硬币。"
+      ]
+    }
+  ],
+  "problems": []
+}

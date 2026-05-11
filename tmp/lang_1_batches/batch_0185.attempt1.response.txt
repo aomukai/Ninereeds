@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "galaxy",
+      "filename": "galaxy.md",
+      "lines": [
+        "A galaxy is a celestial body.",
+        "Eine Galaxie ist ein Himmelskörper.",
+        "銀河は天体だ。",
+        "银河系是天体。"
+      ]
+    },
+    {
+      "word": "gallop",
+      "filename": "gallop.md",
+      "lines": [
+        "A gallop is a gait.",
+        "Ein Galopp ist ein Gang.",
+        "ギャロップは歩様だ。",
+        "疾驰是一种步态。"
+      ]
+    },
+    {
+      "word": "game",
+      "filename": "game.md",
+      "lines": [
+        "A game is an activity.",
+        "Ein Spiel ist eine Aktivität.",
+        "ゲームは活動だ。",
+        "游戏是一种活动。"
+      ]
+    },
+    {
+      "word": "gap",
+      "filename": "gap.md",
+      "lines": [
+        "A gap is an opening.",
+        "Eine Lücke ist eine Öffnung.",
+        "隙間は開口部だ。",
+        "缝隙是一种开口。"
+      ]
+    },
+    {
+      "word": "garage",
+      "filename": "garage.md",
+      "lines": [
+        "A garage is a building.",
+        "Eine Garage ist ein Gebäude.",
+        "ガレージは建物だ。",
+        "车库是建筑物。"
+      ]
+    },
+    {
+      "word": "garbage",
+      "filename": "garbage.md",
+      "lines": [
+        "Garbage is waste.",
+        "Müll ist Abfall.",
+        "ゴミは廃棄物だ。",
+        "垃圾是废弃物。"
+      ]
+    },
+    {
+      "word": "garden",
+      "filename": "garden.md",
+      "lines": [
+        "A garden is an area.",
+        "Ein Garten ist eine Fläche.",
+        "庭は区域だ。",
+        "花园是一个区域。"
+      ]
+    },
+    {
+      "word": "gardener",
+      "filename": "gardener.md",
+      "lines": [
+        "A gardener is a person.",
+        "Ein Gärtner ist eine Person.",
+        "庭師は人だ。",
+        "园丁是一个人。"
+      ]
+    },
+    {
+      "word": "garlic",
+      "filename": "garlic.md",
+      "lines": [
+        "Garlic is a plant.",
+        "Knoblauch ist eine Pflanze.",
+        "ニンニクは植物だ。",
+        "大蒜是一种植物。"
+      ]
+    },
+    {
+      "word": "garment",
+      "filename": "garment.md",
+      "lines": [
+        "A garment is clothing.",
+        "Ein Kleidungsstück ist Kleidung.",
+        "衣類は衣服だ。",
+        "服装是衣物。"
+      ]
+    }
+  ],
+  "problems": []
+}

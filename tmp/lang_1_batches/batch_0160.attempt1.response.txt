@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "eye",
+      "filename": "eye.md",
+      "lines": [
+        "An eye is a body part.",
+        "Ein Auge ist ein Körperteil.",
+        "目は体の一部だ。",
+        "眼睛是身体的一部分。"
+      ]
+    },
+    {
+      "word": "eyebrow",
+      "filename": "eyebrow.md",
+      "lines": [
+        "An eyebrow is facial hair.",
+        "Eine Augenbraue ist Gesichtsbehaarung.",
+        "眉毛は顔の毛だ。",
+        "眉毛是面部毛发。"
+      ]
+    },
+    {
+      "word": "eyelid",
+      "filename": "eyelid.md",
+      "lines": [
+        "An eyelid is a skin fold.",
+        "Ein Augenlid ist eine Hautfalte.",
+        "まぶたは皮膚のひだだ。",
+        "眼睑是皮肤褶皱。"
+      ]
+    },
+    {
+      "word": "fable",
+      "filename": "fable.md",
+      "lines": [
+        "A fable is a story.",
+        "Eine Fabel ist eine Geschichte.",
+        "寓話は物語だ。",
+        "寓言是故事。"
+      ]
+    },
+    {
+      "word": "fabric",
+      "filename": "fabric.md",
+      "lines": [
+        "Fabric is a material.",
+        "Stoff ist ein Material.",
+        "布は素材だ。",
+        "布料是材料。"
+      ]
+    },
+    {
+      "word": "fabricating",
+      "filename": "fabricating.md",
+      "lines": [
+        "Fabricating is lying.",
+        "Fabricieren ist Lügen.",
+        "捏造することは嘘をつくことだ。",
+        "捏造是撒谎。"
+      ]
+    },
+    {
+      "word": "face",
+      "filename": "face.md",
+      "lines": [
+        "A face is a body part.",
+        "Ein Gesicht ist ein Körperteil.",
+        "顔は体の一部だ。",
+        "脸是身体的一部分。"
+      ]
+    },
+    {
+      "word": "facilitating",
+      "filename": "facilitating.md",
+      "lines": [
+        "Facilitating is enabling.",
+        "Erleichtern ist Ermöglichen.",
+        "促進することは可能にすることだ。",
+        "促进是使可能。"
+      ]
+    },
+    {
+      "word": "fact",
+      "filename": "fact.md",
+      "lines": [
+        "A fact is information.",
+        "Eine Tatsache ist eine Information.",
+        "事実は情報だ。",
+        "事实是信息。"
+      ]
+    },
+    {
+      "word": "factor",
+      "filename": "factor.md",
+      "lines": [
+        "A factor is an element.",
+        "Ein Faktor ist ein Element.",
+        "要因は要素だ。",
+        "因素是要素。"
+      ]
+    }
+  ],
+  "problems": []
+}

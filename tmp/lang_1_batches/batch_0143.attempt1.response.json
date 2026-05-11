@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439881-BoWM1Qjr6vH4APulAMWX",
+  "object": "chat.completion",
+  "created": 1778439881,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"effective\",\n      \"filename\": \"effective.md\",\n      \"lines\": [\n        \"An effective solution is a method.\",\n        \"Eine effektive Lösung ist eine Methode.\",\n        \"効果的な解決策は方法だ。\",\n        \"有效的解决方案是一种方法。\"\n      ]\n    },\n    {\n      \"word\": \"effort\",\n      \"filename\": \"effort.md\",\n      \"lines\": [\n        \"Effort is work.\",\n        \"Anstrengung ist Arbeit.\",\n        \"努力は仕事だ。\",\n        \"努力是工作。\"\n      ]\n    },\n    {\n      \"word\": \"effortful\",\n      \"filename\": \"effortful.md\",\n      \"lines\": [\n        \"An effortful task is a challenge.\",\n        \"Eine anstrengende Aufgabe ist eine Herausforderung.\",\n        \"努力を要する仕事は挑戦だ。\",\n        \"费力的任务是一种挑战。\"\n      ]\n    },\n    {\n      \"word\": \"efforting\",\n      \"filename\": \"efforting.md\",\n      \"lines\": [\n        \"Efforting is trying.\",\n        \"Sich anstrengen ist Versuchen.\",\n        \"努力することは試みることだ。\",\n        \"努力是尝试。\"\n      ]\n    },\n    {\n      \"word\": \"effortless\",\n      \"filename\": \"effortless.md\",\n      \"lines\": [\n        \"An effortless movement is a flow.\",\n        \"Eine mühelose Bewegung ist ein Fluss.\",\n        \"努力のいらない動きは流れだ。\",\n        \"轻松的动作是一种流畅。\"\n      ]\n    },\n    {\n      \"word\": \"egg\",\n      \"filename\": \"egg.md\",\n      \"lines\": [\n        \"An egg is food.\",\n        \"Ein Ei ist Nahrung.\",\n        \"卵は食べ物だ。\",\n        \"鸡蛋是食物。\"\n      ]\n    },\n    {\n      \"word\": \"eggshell\",\n      \"filename\": \"eggshell.md\",\n      \"lines\": [\n        \"An eggshell is a shell.\",\n        \"Eine Eierschale ist eine Schale.\",\n        \"卵の殻は殻だ。\",\n        \"蛋壳是一种壳。\"\n      ]\n    },\n    {\n      \"word\": \"elbow\",\n      \"filename\": \"elbow.md\",\n      \"lines\": [\n        \"An elbow is a joint.\",\n        \"Ein Ellbogen ist ein Gelenk.\",\n        \"肘は関節だ。\",\n        \"肘是一种关节。\"\n      ]\n    },\n    {\n      \"word\": \"elderly\",\n      \"filename\": \"elderly.md\",\n      \"lines\": [\n        \"An elderly person is a human.\",\n        \"Ein älterer Mensch ist ein Mensch.\",\n        \"高齢者は人間だ。\",\n        \"老年人是人。\"\n      ]\n    },\n    {\n      \"word\": \"electrical\",\n      \"filename\": \"electrical.md\",\n      \"lines\": [\n        \"An electrical wire is a conductor.\",\n        \"Ein elektrisches Kabel ist ein Leiter.\",\n        \"電線は導体だ。\",\n        \"电线是一种导体。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 678,
+    "total_tokens": 1402,
+    "cost": 0.000288288,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002912,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.00018984
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

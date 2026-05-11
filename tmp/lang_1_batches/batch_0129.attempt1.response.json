@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778434354-UJiGf5eKW50u8PigNW0a",
+  "object": "chat.completion",
+  "created": 1778434354,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"disclosing\",\n      \"filename\": \"disclosing.md\",\n      \"lines\": [\n        \"Disclosing is revealing information.\",\n        \"Offenlegen bedeutet, Informationen preiszugeben.\",\n        \"情報を開示することは、明らかにすることだ。\",\n        \"披露就是透露信息。\"\n      ]\n    },\n    {\n      \"word\": \"discomfort\",\n      \"filename\": \"discomfort.md\",\n      \"lines\": [\n        \"Discomfort is a feeling.\",\n        \"Unbehagen ist ein Gefühl.\",\n        \"不快感は感情だ。\",\n        \"不适是一种感觉。\"\n      ]\n    },\n    {\n      \"word\": \"disconfirm\",\n      \"filename\": \"disconfirm.md\",\n      \"lines\": [\n        \"Disconfirming is refuting a claim.\",\n        \"Widerlegen bedeutet, eine Behauptung zu entkräften.\",\n        \"反証することは、主張を否定することだ。\",\n        \"证伪就是反驳一个主张。\"\n      ]\n    },\n    {\n      \"word\": \"disconfirmation\",\n      \"filename\": \"disconfirmation.md\",\n      \"lines\": [\n        \"Disconfirmation is a refutation.\",\n        \"Widerlegung ist eine Zurückweisung.\",\n        \"反証は否定だ。\",\n        \"证伪是一种反驳。\"\n      ]\n    },\n    {\n      \"word\": \"discover\",\n      \"filename\": \"discover.md\",\n      \"lines\": [\n        \"Discovering is finding something new.\",\n        \"Entdecken bedeutet, etwas Neues zu finden.\",\n        \"発見することは、新しいものを見つけることだ。\",\n        \"发现就是找到新事物。\"\n      ]\n    },\n    {\n      \"word\": \"discovering\",\n      \"filename\": \"discovering.md\",\n      \"lines\": [\n        \"Discovering is finding something new.\",\n        \"Entdecken bedeutet, etwas Neues zu finden.\",\n        \"発見することは、新しいものを見つけることだ。\",\n        \"发现就是找到新事物。\"\n      ]\n    },\n    {\n      \"word\": \"discovery\",\n      \"filename\": \"discovery.md\",\n      \"lines\": [\n        \"A discovery is a finding.\",\n        \"Eine Entdeckung ist ein Fund.\",\n        \"発見は見つけ物だ。\",\n        \"发现是一种找到的东西。\"\n      ]\n    },\n    {\n      \"word\": \"discursive\",\n      \"filename\": \"discursive.md\",\n      \"lines\": [\n        \"A discursive essay is a text.\",\n        \"Ein diskursiver Aufsatz ist ein Text.\",\n        \"議論的なエッセイは文章だ。\",\n        \"散漫的文章是一种文本。\"\n      ]\n    },\n    {\n      \"word\": \"discussing\",\n      \"filename\": \"discussing.md\",\n      \"lines\": [\n        \"Discussing is talking about a topic.\",\n        \"Diskutieren bedeutet, über ein Thema zu sprechen.\",\n        \"議論することは、話題について話すことだ。\",\n        \"讨论就是谈论一个话题。\"\n      ]\n    },\n    {\n      \"word\": \"discussion\",\n      \"filename\": \"discussion.md\",\n      \"lines\": [\n        \"A discussion is a conversation.\",\n        \"Eine Diskussion ist ein Gespräch.\",\n        \"議論は会話だ。\",\n        \"讨论是一种对话。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 725,
+    "completion_tokens": 730,
+    "total_tokens": 1455,
+    "cost": 0.000302841,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0003059,
+      "upstream_inference_prompt_cost": 0.0001015,
+      "upstream_inference_completions_cost": 0.0002044
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

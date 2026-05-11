@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439798-tfjxebmAU0M6O6jiBsXe",
+  "object": "chat.completion",
+  "created": 1778439798,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"eagle\",\n      \"filename\": \"eagle.md\",\n      \"lines\": [\n        \"An eagle is a bird.\",\n        \"Ein Adler ist ein Vogel.\",\n        \"鷲は鳥だ。\",\n        \"鹰是鸟。\"\n      ]\n    },\n    {\n      \"word\": \"ear\",\n      \"filename\": \"ear.md\",\n      \"lines\": [\n        \"An ear is a body part.\",\n        \"Ein Ohr ist ein Körperteil.\",\n        \"耳は体の一部だ。\",\n        \"耳朵是身体的一部分。\"\n      ]\n    },\n    {\n      \"word\": \"earlier\",\n      \"filename\": \"earlier.md\",\n      \"lines\": [\n        \"An earlier time is a time.\",\n        \"Eine frühere Zeit ist eine Zeit.\",\n        \"早い時間は時間だ。\",\n        \"更早的时间是时间。\"\n      ]\n    },\n    {\n      \"word\": \"earlobe\",\n      \"filename\": \"earlobe.md\",\n      \"lines\": [\n        \"An earlobe is a body part.\",\n        \"Ein Ohrläppchen ist ein Körperteil.\",\n        \"耳たぶは体の一部だ。\",\n        \"耳垂是身体的一部分。\"\n      ]\n    },\n    {\n      \"word\": \"early\",\n      \"filename\": \"early.md\",\n      \"lines\": [\n        \"An early morning is a time.\",\n        \"Ein früher Morgen ist eine Zeit.\",\n        \"早い朝は時間だ。\",\n        \"清晨是时间。\"\n      ]\n    },\n    {\n      \"word\": \"earned\",\n      \"filename\": \"earned.md\",\n      \"lines\": [\n        \"Earned money is income.\",\n        \"Verdientes Geld ist Einkommen.\",\n        \"稼いだお金は収入だ。\",\n        \"赚到的钱是收入。\"\n      ]\n    },\n    {\n      \"word\": \"earning\",\n      \"filename\": \"earning.md\",\n      \"lines\": [\n        \"Earning is work.\",\n        \"Verdienen ist Arbeit.\",\n        \"稼ぐことは仕事だ。\",\n        \"赚钱是工作。\"\n      ]\n    },\n    {\n      \"word\": \"earring\",\n      \"filename\": \"earring.md\",\n      \"lines\": [\n        \"An earring is jewelry.\",\n        \"Ein Ohrring ist Schmuck.\",\n        \"イヤリングは宝石だ。\",\n        \"耳环是珠宝。\"\n      ]\n    },\n    {\n      \"word\": \"earth\",\n      \"filename\": \"earth.md\",\n      \"lines\": [\n        \"Earth is a planet.\",\n        \"Die Erde ist ein Planet.\",\n        \"地球は惑星だ。\",\n        \"地球是行星。\"\n      ]\n    },\n    {\n      \"word\": \"earthworm\",\n      \"filename\": \"earthworm.md\",\n      \"lines\": [\n        \"An earthworm is an animal.\",\n        \"Ein Regenwurm ist ein Tier.\",\n        \"ミミズは動物だ。\",\n        \"蚯蚓是动物。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 724,
+    "completion_tokens": 656,
+    "total_tokens": 1380,
+    "cost": 0.0002821896,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028504,
+      "upstream_inference_prompt_cost": 0.00010136,
+      "upstream_inference_completions_cost": 0.00018368
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

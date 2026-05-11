@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778440006-VixQ83nBDTU1PCPXexfT",
+  "object": "chat.completion",
+  "created": 1778440006,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": "vllm-0.20.2rc1.dev129+g1acd67a79-dp2-ep-0db20b0b",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"enabling\",\n      \"filename\": \"enabling.md\",\n      \"lines\": [\n        \"Enabling is supporting.\",\n        \"Ermöglichen ist Unterstützen.\",\n        \"可能にすることは支援だ。\",\n        \"使能就是支持。\"\n      ]\n    },\n    {\n      \"word\": \"encircling\",\n      \"filename\": \"encircling.md\",\n      \"lines\": [\n        \"Encircling is surrounding.\",\n        \"Einkreisen ist Umgeben.\",\n        \"取り囲むことは包囲だ。\",\n        \"包围就是环绕。\"\n      ]\n    },\n    {\n      \"word\": \"enclosing\",\n      \"filename\": \"enclosing.md\",\n      \"lines\": [\n        \"Enclosing is containing.\",\n        \"Einschließen ist Enthalten.\",\n        \"封入することは包含だ。\",\n        \"封闭就是包含。\"\n      ]\n    },\n    {\n      \"word\": \"encompassing\",\n      \"filename\": \"encompassing.md\",\n      \"lines\": [\n        \"Encompassing is including.\",\n        \"Umfassen ist Einschließen.\",\n        \"包括することは包含だ。\",\n        \"涵盖就是包括。\"\n      ]\n    },\n    {\n      \"word\": \"encounter\",\n      \"filename\": \"encounter.md\",\n      \"lines\": [\n        \"An encounter is a meeting.\",\n        \"Eine Begegnung ist ein Treffen.\",\n        \"出会いは会合だ。\",\n        \"相遇是会面。\"\n      ]\n    },\n    {\n      \"word\": \"encouraging\",\n      \"filename\": \"encouraging.md\",\n      \"lines\": [\n        \"Encouraging is motivating.\",\n        \"Ermutigen ist Motivieren.\",\n        \"励ますことは動機づけだ。\",\n        \"鼓励就是激励。\"\n      ]\n    },\n    {\n      \"word\": \"end\",\n      \"filename\": \"end.md\",\n      \"lines\": [\n        \"An end is a conclusion.\",\n        \"Ein Ende ist ein Abschluss.\",\n        \"終わりは結論だ。\",\n        \"结束是结论。\"\n      ]\n    },\n    {\n      \"word\": \"endorsing\",\n      \"filename\": \"endorsing.md\",\n      \"lines\": [\n        \"Endorsing is approving.\",\n        \"Befürworten ist Zustimmen.\",\n        \"支持することは承認だ。\",\n        \"背书就是认可。\"\n      ]\n    },\n    {\n      \"word\": \"enemy\",\n      \"filename\": \"enemy.md\",\n      \"lines\": [\n        \"An enemy is an opponent.\",\n        \"Ein Feind ist ein Gegner.\",\n        \"敵は対戦相手だ。\",\n        \"敌人是对手。\"\n      ]\n    },\n    {\n      \"word\": \"energy\",\n      \"filename\": \"energy.md\",\n      \"lines\": [\n        \"Energy is power.\",\n        \"Energie ist Kraft.\",\n        \"エネルギーは力だ。\",\n        \"能量是力量。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 651,
+    "total_tokens": 1374,
+    "cost": 0.000280665,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002835,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00018228
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

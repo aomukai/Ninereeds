@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778440322-fqXgAum3bVnjHnrCnofN",
+  "object": "chat.completion",
+  "created": 1778440322,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"espying\",\n      \"filename\": \"espying.md\",\n      \"lines\": [\n        \"Espying is seeing.\",\n        \"Spähen ist Sehen.\",\n        \"見つけることは見ることだ。\",\n        \"发现是看见。\"\n      ]\n    },\n    {\n      \"word\": \"essence\",\n      \"filename\": \"essence.md\",\n      \"lines\": [\n        \"Essence is a quality.\",\n        \"Essenz ist eine Eigenschaft.\",\n        \"本質は性質だ。\",\n        \"本质是一种性质。\"\n      ]\n    },\n    {\n      \"word\": \"essential\",\n      \"filename\": \"essential.md\",\n      \"lines\": [\n        \"An essential tool is a tool.\",\n        \"Ein wesentliches Werkzeug ist ein Werkzeug.\",\n        \"必須の道具は道具だ。\",\n        \"必要的工具是工具。\"\n      ]\n    },\n    {\n      \"word\": \"establishing\",\n      \"filename\": \"establishing.md\",\n      \"lines\": [\n        \"Establishing is founding.\",\n        \"Gründen ist Gründen.\",\n        \"設立することは創設だ。\",\n        \"建立是创立。\"\n      ]\n    },\n    {\n      \"word\": \"estimate\",\n      \"filename\": \"estimate.md\",\n      \"lines\": [\n        \"An estimate is a calculation.\",\n        \"Eine Schätzung ist eine Berechnung.\",\n        \"見積もりは計算だ。\",\n        \"估算是计算。\"\n      ]\n    },\n    {\n      \"word\": \"estimating\",\n      \"filename\": \"estimating.md\",\n      \"lines\": [\n        \"Estimating is calculating.\",\n        \"Schätzen ist Berechnen.\",\n        \"見積もることは計算することだ。\",\n        \"估算是计算。\"\n      ]\n    },\n    {\n      \"word\": \"etching\",\n      \"filename\": \"etching.md\",\n      \"lines\": [\n        \"Etching is engraving.\",\n        \"Ätzen ist Gravieren.\",\n        \"エッチングは彫刻だ。\",\n        \"蚀刻是雕刻。\"\n      ]\n    },\n    {\n      \"word\": \"eternal\",\n      \"filename\": \"eternal.md\",\n      \"lines\": [\n        \"An eternal flame is a flame.\",\n        \"Eine ewige Flamme ist eine Flamme.\",\n        \"永遠の炎は炎だ。\",\n        \"永恒的火焰是火焰。\"\n      ]\n    },\n    {\n      \"word\": \"ethical\",\n      \"filename\": \"ethical.md\",\n      \"lines\": [\n        \"An ethical choice is a choice.\",\n        \"Eine ethische Wahl ist eine Wahl.\",\n        \"倫理的な選択は選択だ。\",\n        \"道德的选择是选择。\"\n      ]\n    },\n    {\n      \"word\": \"ethics\",\n      \"filename\": \"ethics.md\",\n      \"lines\": [\n        \"Ethics is a philosophy.\",\n        \"Ethik ist eine Philosophie.\",\n        \"倫理は哲学だ。\",\n        \"伦理学是哲学。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 722,
+    "completion_tokens": 651,
+    "total_tokens": 1373,
+    "cost": 0.0002805264,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028336,
+      "upstream_inference_prompt_cost": 0.00010108,
+      "upstream_inference_completions_cost": 0.00018228
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

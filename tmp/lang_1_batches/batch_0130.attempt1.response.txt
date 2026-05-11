@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "disease",
+      "filename": "disease.md",
+      "lines": [
+        "A disease is an illness.",
+        "Eine Krankheit ist eine Erkrankung.",
+        "病気は疾患だ。",
+        "疾病是一种健康问题。"
+      ]
+    },
+    {
+      "word": "disguising",
+      "filename": "disguising.md",
+      "lines": [
+        "Disguising is a form of concealment.",
+        "Verstellen ist eine Form der Tarnung.",
+        "変装は隠蔽の一種だ。",
+        "伪装是一种隐藏方式。"
+      ]
+    },
+    {
+      "word": "disgust",
+      "filename": "disgust.md",
+      "lines": [
+        "Disgust is an emotion.",
+        "Ekel ist ein Gefühl.",
+        "嫌悪は感情だ。",
+        "厌恶是一种情绪。"
+      ]
+    },
+    {
+      "word": "dish",
+      "filename": "dish.md",
+      "lines": [
+        "A dish is a container for food.",
+        "Ein Teller ist ein Behältnis für Speisen.",
+        "皿は食べ物を入れる容器だ。",
+        "盘子是一种餐具。"
+      ]
+    },
+    {
+      "word": "dislike",
+      "filename": "dislike.md",
+      "lines": [
+        "Dislike is a feeling.",
+        "Abneigung ist ein Gefühl.",
+        "嫌いは感情だ。",
+        "不喜欢是一种感觉。"
+      ]
+    },
+    {
+      "word": "disliking",
+      "filename": "disliking.md",
+      "lines": [
+        "Disliking is a negative reaction.",
+        "Missfallen ist eine negative Reaktion.",
+        "嫌うことは否定的な反応だ。",
+        "讨厌是一种负面反应。"
+      ]
+    },
+    {
+      "word": "dismiss",
+      "filename": "dismiss.md",
+      "lines": [
+        "Dismissing is a decision to end.",
+        "Entlassen ist eine Entscheidung zur Beendigung.",
+        "解雇は終了の決定だ。",
+        "解雇是一种终止决定。"
+      ]
+    },
+    {
+      "word": "dismissing",
+      "filename": "dismissing.md",
+      "lines": [
+        "Dismissing is an act of rejection.",
+        "Abweisen ist ein Akt der Ablehnung.",
+        "退けることは拒絶の行為だ。",
+        "拒绝是一种行为。"
+      ]
+    },
+    {
+      "word": "disorder",
+      "filename": "disorder.md",
+      "lines": [
+        "A disorder is a condition.",
+        "Eine Störung ist ein Zustand.",
+        "障害は状態だ。",
+        "紊乱是一种状态。"
+      ]
+    },
+    {
+      "word": "dispatching",
+      "filename": "dispatching.md",
+      "lines": [
+        "Dispatching is a process of sending.",
+        "Versenden ist ein Vorgang des Sendens.",
+        "発送は送付の過程だ。",
+        "发送是一种过程。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778442246-zhBt0DDUiRVq0KD5zziQ",
+  "object": "chat.completion",
+  "created": 1778442246,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"fluctuating\",\n      \"filename\": \"fluctuating.md\",\n      \"lines\": [\n        \"Fluctuating is changing.\",\n        \"Schwanken ist Veränderung.\",\n        \"変動することは変化だ。\",\n        \"波动就是变化。\"\n      ]\n    },\n    {\n      \"word\": \"fluffy\",\n      \"filename\": \"fluffy.md\",\n      \"lines\": [\n        \"A fluffy cat is a pet.\",\n        \"Eine flauschige Katze ist ein Haustier.\",\n        \"ふわふわした猫はペットだ。\",\n        \"毛茸茸的猫是宠物。\"\n      ]\n    },\n    {\n      \"word\": \"fluid\",\n      \"filename\": \"fluid.md\",\n      \"lines\": [\n        \"A fluid is a substance.\",\n        \"Eine Flüssigkeit ist ein Stoff.\",\n        \"流体は物質だ。\",\n        \"流体是一种物质。\"\n      ]\n    },\n    {\n      \"word\": \"flute\",\n      \"filename\": \"flute.md\",\n      \"lines\": [\n        \"A flute is an instrument.\",\n        \"Eine Flöte ist ein Instrument.\",\n        \"フルートは楽器だ。\",\n        \"长笛是一种乐器。\"\n      ]\n    },\n    {\n      \"word\": \"flutter\",\n      \"filename\": \"flutter.md\",\n      \"lines\": [\n        \"Fluttering is movement.\",\n        \"Flattern ist Bewegung.\",\n        \"ひらひらすることは動きだ。\",\n        \"飘动是运动。\"\n      ]\n    },\n    {\n      \"word\": \"fluttery\",\n      \"filename\": \"fluttery.md\",\n      \"lines\": [\n        \"A fluttery leaf is a leaf.\",\n        \"Ein flatterndes Blatt ist ein Blatt.\",\n        \"ひらひらする葉は葉だ。\",\n        \"飘动的叶子是叶子。\"\n      ]\n    },\n    {\n      \"word\": \"fly\",\n      \"filename\": \"fly.md\",\n      \"lines\": [\n        \"Flying is traveling.\",\n        \"Fliegen ist Reisen.\",\n        \"飛ぶことは移動だ。\",\n        \"飞行是旅行。\"\n      ]\n    },\n    {\n      \"word\": \"flying\",\n      \"filename\": \"flying.md\",\n      \"lines\": [\n        \"Flying is moving.\",\n        \"Fliegen ist Bewegung.\",\n        \"飛んでいることは動いていることだ。\",\n        \"飞行是移动。\"\n      ]\n    },\n    {\n      \"word\": \"foam\",\n      \"filename\": \"foam.md\",\n      \"lines\": [\n        \"Foam is a substance.\",\n        \"Schaum ist ein Stoff.\",\n        \"泡は物質だ。\",\n        \"泡沫是一种物质。\"\n      ]\n    },\n    {\n      \"word\": \"focus\",\n      \"filename\": \"focus.md\",\n      \"lines\": [\n        \"Focusing is concentrating.\",\n        \"Fokussieren ist Konzentrieren.\",\n        \"集中することは注意を向けることだ。\",\n        \"聚焦就是集中注意力。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 722,
+    "completion_tokens": 659,
+    "total_tokens": 1381,
+    "cost": 0.000282744,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002856,
+      "upstream_inference_prompt_cost": 0.00010108,
+      "upstream_inference_completions_cost": 0.00018452
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

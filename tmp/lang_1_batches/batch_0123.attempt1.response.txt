@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "destruction",
+      "filename": "destruction.md",
+      "lines": [
+        "Destruction is a process.",
+        "Zerstörung ist ein Prozess.",
+        "破壊はプロセスだ。",
+        "破坏是一个过程。"
+      ]
+    },
+    {
+      "word": "detail",
+      "filename": "detail.md",
+      "lines": [
+        "A detail is an element of a whole.",
+        "Ein Detail ist ein Element eines Ganzen.",
+        "詳細は全体の要素だ。",
+        "细节是整体的一个元素。"
+      ]
+    },
+    {
+      "word": "detecting",
+      "filename": "detecting.md",
+      "lines": [
+        "Detecting is a method of investigation.",
+        "Detektieren ist eine Methode der Untersuchung.",
+        "探知することは調査の方法だ。",
+        "探测是一种调查方法。"
+      ]
+    },
+    {
+      "word": "detective",
+      "filename": "detective.md",
+      "lines": [
+        "A detective is a type of investigator.",
+        "Ein Detektiv ist eine Art von Ermittler.",
+        "探偵は調査員の一種だ。",
+        "侦探是一种调查员。"
+      ]
+    },
+    {
+      "word": "determinate",
+      "filename": "determinate.md",
+      "lines": [
+        "A determinate length is a measurement.",
+        "Eine bestimmte Länge ist eine Messung.",
+        "確定した長さは測定値だ。",
+        "确定的长度是一种测量。"
+      ]
+    },
+    {
+      "word": "determination",
+      "filename": "determination.md",
+      "lines": [
+        "Determination is a personal quality.",
+        "Entschlossenheit ist eine persönliche Eigenschaft.",
+        "決意は個人の資質だ。",
+        "决心是一种个人品质。"
+      ]
+    },
+    {
+      "word": "determined",
+      "filename": "determined.md",
+      "lines": [
+        "A determined student is a learner.",
+        "Ein entschlossener Student ist ein Lernender.",
+        "決意のある学生は学習者だ。",
+        "坚定的学生是一个学习者。"
+      ]
+    },
+    {
+      "word": "determining",
+      "filename": "determining.md",
+      "lines": [
+        "Determining is a method of evaluation.",
+        "Bestimmen ist eine Methode der Bewertung.",
+        "決定することは評価の方法だ。",
+        "确定是一种评估方法。"
+      ]
+    },
+    {
+      "word": "developing",
+      "filename": "developing.md",
+      "lines": [
+        "Developing is a process of growth.",
+        "Entwickeln ist ein Prozess des Wachstums.",
+        "開発することは成長のプロセスだ。",
+        "开发是一种成长过程。"
+      ]
+    },
+    {
+      "word": "developed",
+      "filename": "developed.md",
+      "lines": [
+        "A developed area is a region.",
+        "Ein entwickeltes Gebiet ist eine Region.",
+        "発展した地域は地域だ。",
+        "发达的地区是一个区域。"
+      ]
+    }
+  ],
+  "problems": []
+}

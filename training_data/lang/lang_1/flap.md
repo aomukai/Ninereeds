@@ -1,0 +1,4 @@
+A flap is a cover.
+Eine Klappe ist eine Abdeckung.
+フラップは覆いだ。
+翻盖是盖子。

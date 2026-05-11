@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "delivering_5",
+      "filename": "delivering_5.md",
+      "lines": [
+        "Delivering_5 is a process.",
+        "Delivering_5 ist ein Prozess.",
+        "Delivering_5はプロセスだ。",
+        "Delivering_5是一个过程。"
+      ]
+    },
+    {
+      "word": "delivery",
+      "filename": "delivery.md",
+      "lines": [
+        "A delivery is a shipment.",
+        "Eine Lieferung ist eine Sendung.",
+        "配達は発送物だ。",
+        "配送是货物。"
+      ]
+    },
+    {
+      "word": "demanding",
+      "filename": "demanding.md",
+      "lines": [
+        "A demanding exam is a test.",
+        "Eine anspruchsvolle Prüfung ist ein Test.",
+        "難しい試験はテストだ。",
+        "要求高的考试是测试。"
+      ]
+    },
+    {
+      "word": "demarcating",
+      "filename": "demarcating.md",
+      "lines": [
+        "Demarcating is a way to separate.",
+        "Abgrenzen ist eine Methode zur Trennung.",
+        "境界を引くことは分離の方法だ。",
+        "划界是分离的一种方式。"
+      ]
+    },
+    {
+      "word": "demolishing",
+      "filename": "demolishing.md",
+      "lines": [
+        "Demolishing is a process of destruction.",
+        "Abreißen ist ein Zerstörungsprozess.",
+        "解体は破壊のプロセスだ。",
+        "拆除是破坏的过程。"
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "filename": "demonstrate.md",
+      "lines": [
+        "Demonstrating is a method of explanation.",
+        "Demonstrieren ist eine Erklärungsmethode.",
+        "実演は説明の方法だ。",
+        "演示是解释的方法。"
+      ]
+    },
+    {
+      "word": "demonstrating",
+      "filename": "demonstrating.md",
+      "lines": [
+        "Demonstrating is a type of presentation.",
+        "Demonstrieren ist eine Art Präsentation.",
+        "実演はプレゼンテーションの一種だ。",
+        "演示是展示的一种形式。"
+      ]
+    },
+    {
+      "word": "den",
+      "filename": "den.md",
+      "lines": [
+        "A den is an animal's home.",
+        "Ein Bau ist das Zuhause eines Tieres.",
+        "巣は動物の家だ。",
+        "巢穴是动物的家。"
+      ]
+    },
+    {
+      "word": "denial",
+      "filename": "denial.md",
+      "lines": [
+        "Denial is a form of refusal.",
+        "Verneinung ist eine Form der Ablehnung.",
+        "否認は拒否の一種だ。",
+        "否认是拒绝的一种形式。"
+      ]
+    },
+    {
+      "word": "denoting",
+      "filename": "denoting.md",
+      "lines": [
+        "Denoting is an act of representing.",
+        "Bezeichnen ist ein Akt des Darstellens.",
+        "示すことは表現の行為だ。",
+        "表示是代表的行为。"
+      ]
+    }
+  ],
+  "problems": []
+}

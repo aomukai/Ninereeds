@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "evaluate",
+      "filename": "evaluate.md",
+      "lines": [
+        "Evaluating is an assessment.",
+        "Evaluieren ist eine Bewertung.",
+        "評価することは判断だ。",
+        "评估是一种判断。"
+      ]
+    },
+    {
+      "word": "evaluating",
+      "filename": "evaluating.md",
+      "lines": [
+        "Evaluating is an analysis.",
+        "Evaluieren ist eine Analyse.",
+        "評価することは分析だ。",
+        "评估是一种分析。"
+      ]
+    },
+    {
+      "word": "evaporating",
+      "filename": "evaporating.md",
+      "lines": [
+        "Evaporating is a phase change.",
+        "Verdampfen ist ein Phasenwechsel.",
+        "蒸発することは相変化だ。",
+        "蒸发是一种相变。"
+      ]
+    },
+    {
+      "word": "even",
+      "filename": "even.md",
+      "lines": [
+        "An even surface is a flat plane.",
+        "Eine ebene Oberfläche ist eine flache Ebene.",
+        "平らな表面は平らな面だ。",
+        "平坦的表面是平坦的平面。"
+      ]
+    },
+    {
+      "word": "evening",
+      "filename": "evening.md",
+      "lines": [
+        "Evening is a part of the day.",
+        "Der Abend ist ein Teil des Tages.",
+        "夕方は一日の一部だ。",
+        "晚上是一天的一部分。"
+      ]
+    },
+    {
+      "word": "event",
+      "filename": "event.md",
+      "lines": [
+        "An event is a happening.",
+        "Ein Ereignis ist ein Geschehnis.",
+        "イベントは出来事だ。",
+        "事件是发生的事情。"
+      ]
+    },
+    {
+      "word": "eventual",
+      "filename": "eventual.md",
+      "lines": [
+        "An eventual winner is a champion.",
+        "Der letztendliche Gewinner ist ein Champion.",
+        "最終的な勝者はチャンピオンだ。",
+        "最终的胜利者是冠军。"
+      ]
+    },
+    {
+      "word": "everydaying",
+      "filename": "everydaying.md",
+      "lines": [
+        "Everydaying is a daily task.",
+        "Alltägliches Tun ist eine tägliche Aufgabe.",
+        "日常化することは日常の作業だ。",
+        "日常化是一项日常任务。"
+      ]
+    },
+    {
+      "word": "evidence",
+      "filename": "evidence.md",
+      "lines": [
+        "Evidence is proof.",
+        "Beweis ist ein Nachweis.",
+        "証拠は証明だ。",
+        "证据是证明。"
+      ]
+    },
+    {
+      "word": "evoking",
+      "filename": "evoking.md",
+      "lines": [
+        "Evoking is a trigger.",
+        "Hervorrufen ist ein Auslöser.",
+        "喚起することは引き金だ。",
+        "唤起是一种触发。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "ecosystem",
+      "filename": "ecosystem.md",
+      "lines": [
+        "An ecosystem is a natural system.",
+        "Ein Ökosystem ist ein natürliches System.",
+        "生態系は自然のシステムだ。",
+        "生态系统是一个自然系统。"
+      ]
+    },
+    {
+      "word": "ecosysteming",
+      "filename": "ecosysteming.md",
+      "lines": [
+        "Ecosysteming is environmental interaction.",
+        "Ökosystemieren ist Umweltinteraktion.",
+        "生態系形成は環境との相互作用だ。",
+        "生态系统构建是环境互动。"
+      ]
+    },
+    {
+      "word": "edge",
+      "filename": "edge.md",
+      "lines": [
+        "An edge is a boundary.",
+        "Eine Kante ist eine Grenze.",
+        "端は境界だ。",
+        "边缘是一个边界。"
+      ]
+    },
+    {
+      "word": "edge of the road",
+      "filename": "edge_of_the_road.md",
+      "lines": [
+        "The edge of the road is a side.",
+        "Der Straßenrand ist eine Seite.",
+        "道端は側面だ。",
+        "路边是一个侧面。"
+      ]
+    },
+    {
+      "word": "edit",
+      "filename": "edit.md",
+      "lines": [
+        "Editing is revision.",
+        "Editieren ist Überarbeitung.",
+        "編集は修正だ。",
+        "编辑是修订。"
+      ]
+    },
+    {
+      "word": "edition",
+      "filename": "edition.md",
+      "lines": [
+        "An edition is a version.",
+        "Eine Ausgabe ist eine Version.",
+        "版はバージョンだ。",
+        "版本是一个版本。"
+      ]
+    },
+    {
+      "word": "educating",
+      "filename": "educating.md",
+      "lines": [
+        "Educating is teaching.",
+        "Erziehen ist Lehren.",
+        "教育することは教えることだ。",
+        "教育是教学。"
+      ]
+    },
+    {
+      "word": "educational",
+      "filename": "educational.md",
+      "lines": [
+        "An educational book is a resource.",
+        "Ein lehrreiches Buch ist eine Ressource.",
+        "教育的な本は資源だ。",
+        "一本教育性的书是一种资源。"
+      ]
+    },
+    {
+      "word": "eel",
+      "filename": "eel.md",
+      "lines": [
+        "An eel is a fish.",
+        "Ein Aal ist ein Fisch.",
+        "ウナギは魚だ。",
+        "鳗鱼是一种鱼。"
+      ]
+    },
+    {
+      "word": "effect",
+      "filename": "effect.md",
+      "lines": [
+        "An effect is a result.",
+        "Ein Effekt ist ein Ergebnis.",
+        "効果は結果だ。",
+        "效果是一个结果。"
+      ]
+    }
+  ],
+  "problems": []
+}

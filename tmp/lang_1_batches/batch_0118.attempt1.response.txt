@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "deliberate",
+      "filename": "deliberate.md",
+      "lines": [
+        "A deliberate step is a movement.",
+        "Ein absichtlicher Schritt ist eine Bewegung.",
+        "意図的なステップは動きだ。",
+        "一个刻意的步骤是一个动作。"
+      ]
+    },
+    {
+      "word": "deliberating",
+      "filename": "deliberating.md",
+      "lines": [
+        "Deliberating is thinking.",
+        "Überlegen ist Denken.",
+        "熟考は思考だ。",
+        "深思是思考。"
+      ]
+    },
+    {
+      "word": "delicate",
+      "filename": "delicate.md",
+      "lines": [
+        "A delicate flower is a plant.",
+        "Eine zarte Blume ist eine Pflanze.",
+        "繊細な花は植物だ。",
+        "一朵娇嫩的花是植物。"
+      ]
+    },
+    {
+      "word": "delicious",
+      "filename": "delicious.md",
+      "lines": [
+        "A delicious apple is a fruit.",
+        "Ein leckerer Apfel ist eine Frucht.",
+        "美味しいりんごは果物だ。",
+        "一个美味的苹果是水果。"
+      ]
+    },
+    {
+      "word": "delighting",
+      "filename": "delighting.md",
+      "lines": [
+        "Delighting is pleasure.",
+        "Erfreuen ist Freude.",
+        "喜ばせることは楽しみだ。",
+        "取悦是快乐。"
+      ]
+    },
+    {
+      "word": "delimiting",
+      "filename": "delimiting.md",
+      "lines": [
+        "Delimiting is defining.",
+        "Abgrenzen ist Definieren.",
+        "区切ることは定義だ。",
+        "界定是定义。"
+      ]
+    },
+    {
+      "word": "delivered item",
+      "filename": "delivered_item.md",
+      "lines": [
+        "A delivered item is a package.",
+        "Ein gelieferter Gegenstand ist ein Paket.",
+        "配達された品物は荷物だ。",
+        "一个送达的物品是一个包裹。"
+      ]
+    },
+    {
+      "word": "delivering",
+      "filename": "delivering.md",
+      "lines": [
+        "Delivering is transporting.",
+        "Liefern ist Transportieren.",
+        "配達は運搬だ。",
+        "配送是运输。"
+      ]
+    },
+    {
+      "word": "delivering_3",
+      "filename": "delivering_3.md",
+      "lines": [
+        "Delivering_3 is a process.",
+        "Das dritte Liefern ist ein Prozess.",
+        "配達3はプロセスだ。",
+        "配送3是一个过程。"
+      ]
+    },
+    {
+      "word": "delivering_4",
+      "filename": "delivering_4.md",
+      "lines": [
+        "Delivering_4 is a method.",
+        "Das vierte Liefern ist eine Methode.",
+        "配達4は方法だ。",
+        "配送4是一种方法。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "eradicating",
+      "filename": "eradicating.md",
+      "lines": [
+        "Eradicating is elimination.",
+        "Ausrotten ist Beseitigung.",
+        "根絶は除去だ。",
+        "根除是消除。"
+      ]
+    },
+    {
+      "word": "eraser",
+      "filename": "eraser.md",
+      "lines": [
+        "An eraser is a tool.",
+        "Ein Radiergummi ist ein Werkzeug.",
+        "消しゴムは道具だ。",
+        "橡皮擦是工具。"
+      ]
+    },
+    {
+      "word": "erasing",
+      "filename": "erasing.md",
+      "lines": [
+        "Erasing is removal.",
+        "Löschen ist Entfernung.",
+        "消去は除去だ。",
+        "擦除是移除。"
+      ]
+    },
+    {
+      "word": "eric",
+      "filename": "eric.md",
+      "lines": [
+        "Eric is a name.",
+        "Eric ist ein Name.",
+        "エリックは名前だ。",
+        "埃里克是一个名字。"
+      ]
+    },
+    {
+      "word": "eroding",
+      "filename": "eroding.md",
+      "lines": [
+        "Eroding is a natural process.",
+        "Erodieren ist ein natürlicher Prozess.",
+        "侵食は自然の過程だ。",
+        "侵蚀是一个自然过程。"
+      ]
+    },
+    {
+      "word": "errand",
+      "filename": "errand.md",
+      "lines": [
+        "An errand is a task.",
+        "Ein Besorgungsgang ist eine Aufgabe.",
+        "用事は仕事だ。",
+        "差事是一项任务。"
+      ]
+    },
+    {
+      "word": "error",
+      "filename": "error.md",
+      "lines": [
+        "An error is a mistake.",
+        "Ein Fehler ist ein Irrtum.",
+        "エラーは間違いだ。",
+        "错误是失误。"
+      ]
+    },
+    {
+      "word": "escalation",
+      "filename": "escalation.md",
+      "lines": [
+        "Escalation is an increase.",
+        "Eskalation ist eine Zunahme.",
+        "エスカレーションは増加だ。",
+        "升级是增加。"
+      ]
+    },
+    {
+      "word": "escape",
+      "filename": "escape.md",
+      "lines": [
+        "Escape is a way out.",
+        "Flucht ist ein Ausweg.",
+        "脱出は逃げ道だ。",
+        "逃脱是一条出路。"
+      ]
+    },
+    {
+      "word": "especial",
+      "filename": "especial.md",
+      "lines": [
+        "An especial apple is a fruit.",
+        "Ein besonderer Apfel ist eine Frucht.",
+        "特別なりんごは果物だ。",
+        "一个特别的苹果是水果。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "disagreement",
+      "filename": "disagreement.md",
+      "lines": [
+        "A disagreement is a difference.",
+        "Eine Meinungsverschiedenheit ist ein Unterschied.",
+        "意見の相違は違いだ。",
+        "分歧是一种差异。"
+      ]
+    },
+    {
+      "word": "disappear",
+      "filename": "disappear.md",
+      "lines": [
+        "Disappearing is a change.",
+        "Verschwinden ist eine Veränderung.",
+        "消えることは変化だ。",
+        "消失是一种变化。"
+      ]
+    },
+    {
+      "word": "disappearing",
+      "filename": "disappearing.md",
+      "lines": [
+        "Disappearing is a process.",
+        "Verschwinden ist ein Prozess.",
+        "消えることは過程だ。",
+        "消失是一个过程。"
+      ]
+    },
+    {
+      "word": "disappointed",
+      "filename": "disappointed.md",
+      "lines": [
+        "A disappointed fan is a spectator.",
+        "Ein enttäuschter Fan ist ein Zuschauer.",
+        "がっかりしたファンは観客だ。",
+        "失望的粉丝是观众。"
+      ]
+    },
+    {
+      "word": "disappointing",
+      "filename": "disappointing.md",
+      "lines": [
+        "A disappointing performance is a show.",
+        "Eine enttäuschende Aufführung ist eine Show.",
+        "がっかりさせるパフォーマンスはショーだ。",
+        "令人失望的表演是演出。"
+      ]
+    },
+    {
+      "word": "disappointment",
+      "filename": "disappointment.md",
+      "lines": [
+        "A disappointment is a feeling.",
+        "Eine Enttäuschung ist ein Gefühl.",
+        "失望は感情だ。",
+        "失望是一种感觉。"
+      ]
+    },
+    {
+      "word": "disaster",
+      "filename": "disaster.md",
+      "lines": [
+        "A disaster is an event.",
+        "Eine Katastrophe ist ein Ereignis.",
+        "災害は出来事だ。",
+        "灾难是一个事件。"
+      ]
+    },
+    {
+      "word": "discarding",
+      "filename": "discarding.md",
+      "lines": [
+        "Discarding is an action.",
+        "Wegwerfen ist eine Handlung.",
+        "捨てることは行動だ。",
+        "丢弃是一种行为。"
+      ]
+    },
+    {
+      "word": "discerning",
+      "filename": "discerning.md",
+      "lines": [
+        "A discerning person is a judge.",
+        "Ein scharfsinniger Mensch ist ein Richter.",
+        "洞察力のある人は裁判官だ。",
+        "有洞察力的人是法官。"
+      ]
+    },
+    {
+      "word": "discharging",
+      "filename": "discharging.md",
+      "lines": [
+        "Discharging is a release.",
+        "Entladen ist eine Freisetzung.",
+        "放出することは解放だ。",
+        "排放是一种释放。"
+      ]
+    }
+  ],
+  "problems": []
+}

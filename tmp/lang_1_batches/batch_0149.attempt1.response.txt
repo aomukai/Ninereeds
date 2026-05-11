@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "enlightening",
+      "filename": "enlightening.md",
+      "lines": [
+        "An enlightening book is a book.",
+        "Ein erhellendes Buch ist ein Buch.",
+        "啓発的な本は本だ。",
+        "一本有启发性的书是书。"
+      ]
+    },
+    {
+      "word": "enormous",
+      "filename": "enormous.md",
+      "lines": [
+        "An enormous elephant is an animal.",
+        "Ein riesiger Elefant ist ein Tier.",
+        "巨大な象は動物だ。",
+        "一头巨大的大象是动物。"
+      ]
+    },
+    {
+      "word": "ensuring",
+      "filename": "ensuring.md",
+      "lines": [
+        "Ensuring is a process.",
+        "Sicherstellen ist ein Prozess.",
+        "保証することはプロセスだ。",
+        "确保是一个过程。"
+      ]
+    },
+    {
+      "word": "entailing",
+      "filename": "entailing.md",
+      "lines": [
+        "Entailing is a relationship.",
+        "Implizieren ist eine Beziehung.",
+        "伴うことは関係だ。",
+        "蕴含是一种关系。"
+      ]
+    },
+    {
+      "word": "enter",
+      "filename": "enter.md",
+      "lines": [
+        "An enter key is a key.",
+        "Eine Eingabetaste ist eine Taste.",
+        "エンターキーはキーだ。",
+        "回车键是一个键。"
+      ]
+    },
+    {
+      "word": "entering",
+      "filename": "entering.md",
+      "lines": [
+        "Entering is an action.",
+        "Betreten ist eine Handlung.",
+        "入ることは行動だ。",
+        "进入是一种行动。"
+      ]
+    },
+    {
+      "word": "entire",
+      "filename": "entire.md",
+      "lines": [
+        "An entire cake is a cake.",
+        "Ein ganzer Kuchen ist ein Kuchen.",
+        "丸ごとのケーキはケーキだ。",
+        "整个蛋糕是蛋糕。"
+      ]
+    },
+    {
+      "word": "entitling",
+      "filename": "entitling.md",
+      "lines": [
+        "Entitling is a legal action.",
+        "Berechtigen ist eine rechtliche Handlung.",
+        "権利を与えることは法的行為だ。",
+        "赋予权利是一种法律行为。"
+      ]
+    },
+    {
+      "word": "entrance",
+      "filename": "entrance.md",
+      "lines": [
+        "An entrance is a door.",
+        "Ein Eingang ist eine Tür.",
+        "入口はドアだ。",
+        "入口是一扇门。"
+      ]
+    },
+    {
+      "word": "entry",
+      "filename": "entry.md",
+      "lines": [
+        "An entry is a record.",
+        "Ein Eintrag ist ein Datensatz.",
+        "エントリーは記録だ。",
+        "条目是一条记录。"
+      ]
+    }
+  ],
+  "problems": []
+}

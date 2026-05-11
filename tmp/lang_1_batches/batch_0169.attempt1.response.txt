@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "finite",
+      "filename": "finite.md",
+      "lines": [
+        "A finite line is a line.",
+        "Eine endliche Linie ist eine Linie.",
+        "有限な線は線だ。",
+        "有限的线条是线条。"
+      ]
+    },
+    {
+      "word": "fir",
+      "filename": "fir.md",
+      "lines": [
+        "A fir is a tree.",
+        "Eine Tanne ist ein Baum.",
+        "モミの木は木だ。",
+        "冷杉是树。"
+      ]
+    },
+    {
+      "word": "fire",
+      "filename": "fire.md",
+      "lines": [
+        "Fire is a phenomenon.",
+        "Feuer ist ein Phänomen.",
+        "火は現象だ。",
+        "火是一种现象。"
+      ]
+    },
+    {
+      "word": "fire_3",
+      "filename": "fire_3.md",
+      "lines": [
+        "Firing is an action.",
+        "Feuern ist eine Handlung.",
+        "解雇することは行動だ。",
+        "解雇是一种行为。"
+      ]
+    },
+    {
+      "word": "firefighter",
+      "filename": "firefighter.md",
+      "lines": [
+        "A firefighter is a person.",
+        "Ein Feuerwehrmann ist eine Person.",
+        "消防士は人だ。",
+        "消防员是人。"
+      ]
+    },
+    {
+      "word": "firefly",
+      "filename": "firefly.md",
+      "lines": [
+        "A firefly is an insect.",
+        "Ein Glühwürmchen ist ein Insekt.",
+        "蛍は昆虫だ。",
+        "萤火虫是昆虫。"
+      ]
+    },
+    {
+      "word": "fireplace",
+      "filename": "fireplace.md",
+      "lines": [
+        "A fireplace is a structure.",
+        "Ein Kamin ist eine Struktur.",
+        "暖炉は構造物だ。",
+        "壁炉是一种结构。"
+      ]
+    },
+    {
+      "word": "firm",
+      "filename": "firm.md",
+      "lines": [
+        "A firm handshake is a greeting.",
+        "Ein fester Händedruck ist eine Begrüßung.",
+        "固い握手は挨拶だ。",
+        "有力的握手是一种问候。"
+      ]
+    },
+    {
+      "word": "first",
+      "filename": "first.md",
+      "lines": [
+        "A first prize is an award.",
+        "Ein erster Preis ist eine Auszeichnung.",
+        "一等賞は賞だ。",
+        "一等奖是奖项。"
+      ]
+    },
+    {
+      "word": "fish",
+      "filename": "fish.md",
+      "lines": [
+        "A fish is an animal.",
+        "Ein Fisch ist ein Tier.",
+        "魚は動物だ。",
+        "鱼是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

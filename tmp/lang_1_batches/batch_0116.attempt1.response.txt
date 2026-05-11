@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "decrease",
+      "filename": "decrease.md",
+      "lines": [
+        "A decrease is a change.",
+        "Ein Rückgang ist eine Veränderung.",
+        "減少は変化だ。",
+        "减少是一种变化。"
+      ]
+    },
+    {
+      "word": "decreasing",
+      "filename": "decreasing.md",
+      "lines": [
+        "Decreasing is a change.",
+        "Abnehmen ist eine Veränderung.",
+        "減少することは変化だ。",
+        "减少是一种变化。"
+      ]
+    },
+    {
+      "word": "deducing",
+      "filename": "deducing.md",
+      "lines": [
+        "Deducing is reasoning.",
+        "Deduzieren ist eine Schlussfolgerung.",
+        "推論することは推理だ。",
+        "演绎是推理。"
+      ]
+    },
+    {
+      "word": "deductive",
+      "filename": "deductive.md",
+      "lines": [
+        "A deductive argument is an argument.",
+        "Ein deduktives Argument ist ein Argument.",
+        "演繹的な議論は議論だ。",
+        "演绎论证是论证。"
+      ]
+    },
+    {
+      "word": "dedupe",
+      "filename": "dedupe.md",
+      "lines": [
+        "Deduping is removal.",
+        "Deduplizieren ist eine Entfernung.",
+        "重複除去は削除だ。",
+        "去重是删除。"
+      ]
+    },
+    {
+      "word": "deduplicated",
+      "filename": "deduplicated.md",
+      "lines": [
+        "A deduplicated list is a list.",
+        "Eine deduplizierte Liste ist eine Liste.",
+        "重複除去されたリストはリストだ。",
+        "去重后的列表是列表。"
+      ]
+    },
+    {
+      "word": "deep",
+      "filename": "deep.md",
+      "lines": [
+        "A deep well is a well.",
+        "Ein tiefer Brunnen ist ein Brunnen.",
+        "深い井戸は井戸だ。",
+        "深井是井。"
+      ]
+    },
+    {
+      "word": "deer",
+      "filename": "deer.md",
+      "lines": [
+        "A deer is an animal.",
+        "Ein Hirsch ist ein Tier.",
+        "鹿は動物だ。",
+        "鹿是动物。"
+      ]
+    },
+    {
+      "word": "default",
+      "filename": "default.md",
+      "lines": [
+        "A default is a setting.",
+        "Eine Voreinstellung ist eine Einstellung.",
+        "デフォルトは設定だ。",
+        "默认是一种设置。"
+      ]
+    },
+    {
+      "word": "defeat",
+      "filename": "defeat.md",
+      "lines": [
+        "Defeating is overcoming.",
+        "Besiegen ist eine Überwindung.",
+        "打ち負かすことは克服だ。",
+        "击败是克服。"
+      ]
+    }
+  ],
+  "problems": []
+}

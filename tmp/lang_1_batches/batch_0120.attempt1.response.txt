@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "dense",
+      "filename": "dense.md",
+      "lines": [
+        "A dense forest is a forest.",
+        "Ein dichter Wald ist ein Wald.",
+        "密な森は森だ。",
+        "茂密的森林是森林。"
+      ]
+    },
+    {
+      "word": "dent",
+      "filename": "dent.md",
+      "lines": [
+        "A dent is a mark.",
+        "Eine Delle ist eine Markierung.",
+        "へこみは跡だ。",
+        "凹痕是痕迹。"
+      ]
+    },
+    {
+      "word": "denying",
+      "filename": "denying.md",
+      "lines": [
+        "Denying is refusing.",
+        "Leugnen ist Verweigern.",
+        "否定することは拒否することだ。",
+        "否认是拒绝。"
+      ]
+    },
+    {
+      "word": "departing",
+      "filename": "departing.md",
+      "lines": [
+        "Departing is leaving.",
+        "Abreisen ist Verlassen.",
+        "出発することは去ることだ。",
+        "离开是出发。"
+      ]
+    },
+    {
+      "word": "department",
+      "filename": "department.md",
+      "lines": [
+        "A department is a division.",
+        "Eine Abteilung ist eine Einheit.",
+        "部署は区分だ。",
+        "部门是分部。"
+      ]
+    },
+    {
+      "word": "depend",
+      "filename": "depend.md",
+      "lines": [
+        "Depending is relying.",
+        "Abhängen ist Angewiesensein.",
+        "頼ることは依存することだ。",
+        "依靠是依赖。"
+      ]
+    },
+    {
+      "word": "dependable",
+      "filename": "dependable.md",
+      "lines": [
+        "A dependable friend is a friend.",
+        "Ein verlässlicher Freund ist ein Freund.",
+        "信頼できる友人は友人だ。",
+        "可靠的朋友是朋友。"
+      ]
+    },
+    {
+      "word": "dependence",
+      "filename": "dependence.md",
+      "lines": [
+        "Dependence is a state.",
+        "Abhängigkeit ist ein Zustand.",
+        "依存は状態だ。",
+        "依赖是一种状态。"
+      ]
+    },
+    {
+      "word": "depending",
+      "filename": "depending.md",
+      "lines": [
+        "Depending is a condition.",
+        "Abhängigsein ist eine Bedingung.",
+        "次第であることは条件だ。",
+        "取决于是一种条件。"
+      ]
+    },
+    {
+      "word": "deploying",
+      "filename": "deploying.md",
+      "lines": [
+        "Deploying is positioning.",
+        "Einsetzen ist Positionieren.",
+        "展開することは配置することだ。",
+        "部署是配置。"
+      ]
+    }
+  ],
+  "problems": []
+}

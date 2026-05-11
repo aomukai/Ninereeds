@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "drop of rain",
+      "filename": "drop_of_rain.md",
+      "lines": [
+        "A drop of rain is water.",
+        "Ein Regentropfen ist Wasser.",
+        "雨のしずくは水だ。",
+        "雨滴是水。"
+      ]
+    },
+    {
+      "word": "dropped",
+      "filename": "dropped.md",
+      "lines": [
+        "A dropped apple is a fruit.",
+        "Ein fallengelassener Apfel ist eine Frucht.",
+        "落ちたりんごは果物だ。",
+        "掉落的苹果是水果。"
+      ]
+    },
+    {
+      "word": "dropping",
+      "filename": "dropping.md",
+      "lines": [
+        "Dropping is an action.",
+        "Fallenlassen ist eine Handlung.",
+        "落下することは動作だ。",
+        "掉落是动作。"
+      ]
+    },
+    {
+      "word": "drum",
+      "filename": "drum.md",
+      "lines": [
+        "A drum is a musical instrument.",
+        "Eine Trommel ist ein Musikinstrument.",
+        "太鼓は楽器だ。",
+        "鼓是乐器。"
+      ]
+    },
+    {
+      "word": "drumming",
+      "filename": "drumming.md",
+      "lines": [
+        "Drumming is a musical activity.",
+        "Trommeln ist eine musikalische Tätigkeit.",
+        "ドラムを叩くことは音楽活動だ。",
+        "打鼓是音乐活动。"
+      ]
+    },
+    {
+      "word": "dry",
+      "filename": "dry.md",
+      "lines": [
+        "A dry towel is a cloth.",
+        "Ein trockenes Handtuch ist ein Tuch.",
+        "乾いたタオルは布だ。",
+        "干毛巾是布。"
+      ]
+    },
+    {
+      "word": "duck",
+      "filename": "duck.md",
+      "lines": [
+        "A duck is a bird.",
+        "Eine Ente ist ein Vogel.",
+        "アヒルは鳥だ。",
+        "鸭子是鸟。"
+      ]
+    },
+    {
+      "word": "duck like",
+      "filename": "duck_like.md",
+      "lines": [
+        "A duck like bird is an animal.",
+        "Ein entenähnlicher Vogel ist ein Tier.",
+        "アヒルのような鳥は動物だ。",
+        "像鸭子的鸟是动物。"
+      ]
+    },
+    {
+      "word": "duckling",
+      "filename": "duckling.md",
+      "lines": [
+        "A duckling is a young duck.",
+        "Ein Entenküken ist eine junge Ente.",
+        "アヒルの子は若いアヒルだ。",
+        "小鸭是幼鸭。"
+      ]
+    },
+    {
+      "word": "dull",
+      "filename": "dull.md",
+      "lines": [
+        "A dull knife is a tool.",
+        "Ein stumpfes Messer ist ein Werkzeug.",
+        "鈍いナイフは道具だ。",
+        "钝刀是工具。"
+      ]
+    }
+  ],
+  "problems": []
+}

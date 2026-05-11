@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "gas",
+      "filename": "gas.md",
+      "lines": [
+        "Gas is a state of matter.",
+        "Gas ist ein Aggregatzustand.",
+        "気体は物質の状態だ。",
+        "气体是物质的一种状态。"
+      ]
+    },
+    {
+      "word": "gaseous",
+      "filename": "gaseous.md",
+      "lines": [
+        "A gaseous substance is a fluid.",
+        "Ein gasförmiger Stoff ist ein Fluid.",
+        "気体の物質は流体だ。",
+        "气态物质是流体。"
+      ]
+    },
+    {
+      "word": "gasoline",
+      "filename": "gasoline.md",
+      "lines": [
+        "Gasoline is a fuel.",
+        "Benzin ist ein Kraftstoff.",
+        "ガソリンは燃料だ。",
+        "汽油是燃料。"
+      ]
+    },
+    {
+      "word": "gate",
+      "filename": "gate.md",
+      "lines": [
+        "A gate is an entrance.",
+        "Ein Tor ist ein Eingang.",
+        "門は入口だ。",
+        "门是入口。"
+      ]
+    },
+    {
+      "word": "gather",
+      "filename": "gather.md",
+      "lines": [
+        "Gathering is collecting.",
+        "Sammeln ist das Zusammenbringen.",
+        "集めることは収集だ。",
+        "聚集是收集。"
+      ]
+    },
+    {
+      "word": "gauge",
+      "filename": "gauge.md",
+      "lines": [
+        "A gauge is a measuring device.",
+        "Ein Messgerät ist ein Instrument zur Messung.",
+        "ゲージは測定器具だ。",
+        "量规是测量工具。"
+      ]
+    },
+    {
+      "word": "gave",
+      "filename": "gave.md",
+      "lines": [
+        "Giving is transferring.",
+        "Geben ist Übertragen.",
+        "与えることは譲渡だ。",
+        "给予是转移。"
+      ]
+    },
+    {
+      "word": "gazing",
+      "filename": "gazing.md",
+      "lines": [
+        "Gazing is looking.",
+        "Starren ist Anschauen.",
+        "じっと見ることは注視だ。",
+        "凝视是注视。"
+      ]
+    },
+    {
+      "word": "gear",
+      "filename": "gear.md",
+      "lines": [
+        "A gear is a machine part.",
+        "Ein Zahnrad ist ein Maschinenteil.",
+        "歯車は機械部品だ。",
+        "齿轮是机器零件。"
+      ]
+    },
+    {
+      "word": "geese",
+      "filename": "geese.md",
+      "lines": [
+        "Geese are birds.",
+        "Gänse sind Vögel.",
+        "ガチョウは鳥だ。",
+        "鹅是鸟类。"
+      ]
+    }
+  ],
+  "problems": []
+}

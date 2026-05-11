@@ -28,6 +28,10 @@ def slugify(word: str) -> str:
     return word.strip().lower().replace(" ", "_")
 
 
+def relaxed_slugify(word: str) -> str:
+    return slugify(word).replace("-", "_")
+
+
 def ensure_paths() -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     LEDGER.parent.mkdir(parents=True, exist_ok=True)
@@ -200,6 +204,7 @@ GLOBAL RULES
 - Each file must contain exactly 4 lines.
 - Use lowercase filenames.
 - Replace spaces in filenames with underscores.
+- Keep hyphens in filenames when the word already contains hyphens.
 - Avoid duplicate files.
 - Do not include markdown fences.
 - Return JSON only.
@@ -210,7 +215,9 @@ Return exactly one JSON object in this schema:
 Rules for the JSON:
 - "files" must contain exactly {len(targets)} items, one per target word.
 - Each item must use the target word unchanged in "word".
-- Each filename must be the lowercase underscore filename for that word.
+- Each filename must be the lowercase filename for that word.
+- Spaces become underscores.
+- Existing hyphens stay hyphens.
 - Each "lines" array must contain exactly 4 non-empty strings.
 - "problems" must be an empty array unless a target is truly impossible.
 - Do not include any text before or after the JSON object.
@@ -272,6 +279,7 @@ def verify_batch(targets: list[str], payload: dict) -> list[dict]:
         raise RuntimeError(f"model reported problems: {problems}")
 
     expected = {word: f"{slugify(word)}.md" for word in targets}
+    relaxed_expected = {word: f"{relaxed_slugify(word)}.md" for word in targets}
     seen: set[str] = set()
     normalized: list[dict] = []
 
@@ -285,14 +293,14 @@ def verify_batch(targets: list[str], payload: dict) -> list[dict]:
             raise RuntimeError(f"unexpected word in output: {word}")
         if word in seen:
             raise RuntimeError(f"duplicate word in output: {word}")
-        if filename != expected[word]:
+        if filename not in {expected[word], relaxed_expected[word]}:
             raise RuntimeError(f"wrong filename for {word}: {filename}")
         if not isinstance(lines, list) or len(lines) != 4:
             raise RuntimeError(f"{word} does not have exactly 4 lines")
         if any(not isinstance(line, str) or not line.strip() for line in lines):
             raise RuntimeError(f"{word} contains blank or non-string lines")
         seen.add(word)
-        normalized.append({"word": word, "filename": filename, "lines": [line.strip() for line in lines]})
+        normalized.append({"word": word, "filename": expected[word], "lines": [line.strip() for line in lines]})
 
     missing = [word for word in targets if word not in seen]
     if missing:

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "enforcing",
+      "filename": "enforcing.md",
+      "lines": [
+        "Enforcing is an action.",
+        "Durchsetzen ist eine Handlung.",
+        "執行することは行動だ。",
+        "执行是一种行动。"
+      ]
+    },
+    {
+      "word": "engaging",
+      "filename": "engaging.md",
+      "lines": [
+        "Engaging is an activity.",
+        "Sich engagieren ist eine Aktivität.",
+        "関わることは活動だ。",
+        "参与是一种活动。"
+      ]
+    },
+    {
+      "word": "engine",
+      "filename": "engine.md",
+      "lines": [
+        "An engine is a machine.",
+        "Ein Motor ist eine Maschine.",
+        "エンジンは機械だ。",
+        "发动机是一种机器。"
+      ]
+    },
+    {
+      "word": "english",
+      "filename": "english.md",
+      "lines": [
+        "English is a language.",
+        "Englisch ist eine Sprache.",
+        "英語は言語だ。",
+        "英语是一种语言。"
+      ]
+    },
+    {
+      "word": "engraving",
+      "filename": "engraving.md",
+      "lines": [
+        "Engraving is an art.",
+        "Gravieren ist eine Kunst.",
+        "彫刻は芸術だ。",
+        "雕刻是一种艺术。"
+      ]
+    },
+    {
+      "word": "enhancing",
+      "filename": "enhancing.md",
+      "lines": [
+        "Enhancing is a process.",
+        "Verbessern ist ein Prozess.",
+        "向上させることは過程だ。",
+        "增强是一种过程。"
+      ]
+    },
+    {
+      "word": "enjoy",
+      "filename": "enjoy.md",
+      "lines": [
+        "Enjoying is a state.",
+        "Genießen ist ein Zustand.",
+        "楽しむことは状態だ。",
+        "享受是一种状态。"
+      ]
+    },
+    {
+      "word": "enjoyable",
+      "filename": "enjoyable.md",
+      "lines": [
+        "An enjoyable meal is food.",
+        "Ein genussvolles Essen ist Nahrung.",
+        "楽しい食事は食べ物だ。",
+        "一顿愉快的餐是食物。"
+      ]
+    },
+    {
+      "word": "enjoying",
+      "filename": "enjoying.md",
+      "lines": [
+        "Enjoying is an action.",
+        "Genießen ist eine Handlung.",
+        "楽しむことは行動だ。",
+        "享受是一种行为。"
+      ]
+    },
+    {
+      "word": "enjoyment",
+      "filename": "enjoyment.md",
+      "lines": [
+        "Enjoyment is a feeling.",
+        "Genuss ist ein Gefühl.",
+        "楽しみは感情だ。",
+        "快乐是一种感觉。"
+      ]
+    }
+  ],
+  "problems": []
+}

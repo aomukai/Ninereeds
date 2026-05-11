@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "dot",
+      "filename": "dot.md",
+      "lines": [
+        "A dot is a small round mark.",
+        "Ein Punkt ist ein kleiner runder Fleck.",
+        "点は小さな丸い印だ。",
+        "点是一个小的圆形标记。"
+      ]
+    },
+    {
+      "word": "dotted",
+      "filename": "dotted.md",
+      "lines": [
+        "A dotted line is a line.",
+        "Eine gepunktete Linie ist eine Linie.",
+        "点線は線だ。",
+        "虚线是一条线。"
+      ]
+    },
+    {
+      "word": "double",
+      "filename": "double.md",
+      "lines": [
+        "A double bed is a bed.",
+        "Ein Doppelbett ist ein Bett.",
+        "ダブルベッドはベッドだ。",
+        "双人床是一张床。"
+      ]
+    },
+    {
+      "word": "doubt",
+      "filename": "doubt.md",
+      "lines": [
+        "Doubt is uncertainty.",
+        "Zweifel ist Unsicherheit.",
+        "疑いは不確かさだ。",
+        "怀疑是不确定。"
+      ]
+    },
+    {
+      "word": "dough",
+      "filename": "dough.md",
+      "lines": [
+        "Dough is a mixture.",
+        "Teig ist eine Mischung.",
+        "生地は混合物だ。",
+        "面团是一种混合物。"
+      ]
+    },
+    {
+      "word": "dove",
+      "filename": "dove.md",
+      "lines": [
+        "A dove is a bird.",
+        "Eine Taube ist ein Vogel.",
+        "鳩は鳥だ。",
+        "鸽子是鸟。"
+      ]
+    },
+    {
+      "word": "dovetailing",
+      "filename": "dovetailing.md",
+      "lines": [
+        "Dovetailing is joining.",
+        "Verzahnen ist Verbinden.",
+        "組み合わせることは接合だ。",
+        "嵌合是连接。"
+      ]
+    },
+    {
+      "word": "downhill",
+      "filename": "downhill.md",
+      "lines": [
+        "A downhill slope is a slope.",
+        "Ein Abhang ist ein Hang.",
+        "下り坂は坂だ。",
+        "下坡是一个斜坡。"
+      ]
+    },
+    {
+      "word": "downloading",
+      "filename": "downloading.md",
+      "lines": [
+        "Downloading is transferring.",
+        "Herunterladen ist Übertragen.",
+        "ダウンロードは転送だ。",
+        "下载是传输。"
+      ]
+    },
+    {
+      "word": "downstair",
+      "filename": "downstair.md",
+      "lines": [
+        "A downstair room is a room.",
+        "Ein unteres Zimmer ist ein Zimmer.",
+        "下の階の部屋は部屋だ。",
+        "楼下的房间是一个房间。"
+      ]
+    }
+  ],
+  "problems": []
+}

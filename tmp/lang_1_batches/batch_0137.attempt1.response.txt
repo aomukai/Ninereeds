@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "drinking",
+      "filename": "drinking.md",
+      "lines": [
+        "Drinking is an activity.",
+        "Trinken ist eine Aktivität.",
+        "飲むことは活動だ。",
+        "喝是一种活动。"
+      ]
+    },
+    {
+      "word": "drip",
+      "filename": "drip.md",
+      "lines": [
+        "A drip is a liquid.",
+        "Ein Tropfen ist eine Flüssigkeit.",
+        "滴は液体だ。",
+        "一滴是液体。"
+      ]
+    },
+    {
+      "word": "dripping",
+      "filename": "dripping.md",
+      "lines": [
+        "Dripping is falling.",
+        "Tropfen ist Fallen.",
+        "滴ることは落下だ。",
+        "滴落是下落。"
+      ]
+    },
+    {
+      "word": "drive",
+      "filename": "drive.md",
+      "lines": [
+        "Driving is movement.",
+        "Fahren ist Bewegung.",
+        "運転することは移動だ。",
+        "开车是移动。"
+      ]
+    },
+    {
+      "word": "driver",
+      "filename": "driver.md",
+      "lines": [
+        "A driver is a person.",
+        "Ein Fahrer ist eine Person.",
+        "運転手は人だ。",
+        "司机是人。"
+      ]
+    },
+    {
+      "word": "driveway",
+      "filename": "driveway.md",
+      "lines": [
+        "A driveway is a road.",
+        "Eine Einfahrt ist eine Straße.",
+        "私道は道路だ。",
+        "私家车道是道路。"
+      ]
+    },
+    {
+      "word": "drizzle",
+      "filename": "drizzle.md",
+      "lines": [
+        "Drizzle is rain.",
+        "Nieselregen ist Regen.",
+        "霧雨は雨だ。",
+        "毛毛雨是雨。"
+      ]
+    },
+    {
+      "word": "droop",
+      "filename": "droop.md",
+      "lines": [
+        "Drooping is bending.",
+        "Hängen ist Beugen.",
+        "垂れることは曲がることだ。",
+        "下垂是弯曲。"
+      ]
+    },
+    {
+      "word": "drop",
+      "filename": "drop.md",
+      "lines": [
+        "Dropping is releasing.",
+        "Fallenlassen ist Loslassen.",
+        "落とすことは解放だ。",
+        "丢弃是释放。"
+      ]
+    },
+    {
+      "word": "droplet",
+      "filename": "droplet.md",
+      "lines": [
+        "A droplet is a drop.",
+        "Ein Tröpfchen ist ein Tropfen.",
+        "小滴は滴だ。",
+        "小水滴是水滴。"
+      ]
+    }
+  ],
+  "problems": []
+}

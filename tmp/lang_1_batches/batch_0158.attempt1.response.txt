@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "experiment",
+      "filename": "experiment.md",
+      "lines": [
+        "An experiment is a test.",
+        "Ein Experiment ist ein Test.",
+        "実験はテストだ。",
+        "实验是测试。"
+      ]
+    },
+    {
+      "word": "expert",
+      "filename": "expert.md",
+      "lines": [
+        "An expert is a specialist.",
+        "Ein Experte ist ein Spezialist.",
+        "専門家はスペシャリストだ。",
+        "专家是专业人士。"
+      ]
+    },
+    {
+      "word": "explain",
+      "filename": "explain.md",
+      "lines": [
+        "Explaining is teaching.",
+        "Erklären ist Lehren.",
+        "説明することは教えることだ。",
+        "解释是教学。"
+      ]
+    },
+    {
+      "word": "explaining",
+      "filename": "explaining.md",
+      "lines": [
+        "Explaining is describing.",
+        "Erklären ist Beschreiben.",
+        "説明することは描写だ。",
+        "解释是描述。"
+      ]
+    },
+    {
+      "word": "explanation",
+      "filename": "explanation.md",
+      "lines": [
+        "An explanation is an answer.",
+        "Eine Erklärung ist eine Antwort.",
+        "説明は答えだ。",
+        "解释是答案。"
+      ]
+    },
+    {
+      "word": "explicit",
+      "filename": "explicit.md",
+      "lines": [
+        "An explicit instruction is a guide.",
+        "Eine explizite Anweisung ist eine Anleitung.",
+        "明示的な指示はガイドだ。",
+        "明确的指示是指导。"
+      ]
+    },
+    {
+      "word": "exploiting",
+      "filename": "exploiting.md",
+      "lines": [
+        "Exploiting is abuse.",
+        "Ausbeuten ist Missbrauch.",
+        "搾取は虐待だ。",
+        "剥削是滥用。"
+      ]
+    },
+    {
+      "word": "explore",
+      "filename": "explore.md",
+      "lines": [
+        "Exploring is discovery.",
+        "Erkunden ist Entdeckung.",
+        "探検することは発見だ。",
+        "探索是发现。"
+      ]
+    },
+    {
+      "word": "exploring",
+      "filename": "exploring.md",
+      "lines": [
+        "Exploring is searching.",
+        "Erkunden ist Suchen.",
+        "探検することは検索だ。",
+        "探索是搜索。"
+      ]
+    },
+    {
+      "word": "exposed",
+      "filename": "exposed.md",
+      "lines": [
+        "An exposed wire is a hazard.",
+        "Ein freiliegender Draht ist eine Gefahr.",
+        "露出したワイヤーは危険だ。",
+        "裸露的电线是危险。"
+      ]
+    }
+  ],
+  "problems": []
+}

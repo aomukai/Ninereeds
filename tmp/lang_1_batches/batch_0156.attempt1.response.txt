@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "exemplifying",
+      "filename": "exemplifying.md",
+      "lines": [
+        "Exemplifying is illustration.",
+        "Exemplifizieren ist Veranschaulichung.",
+        "例示は説明だ。",
+        "举例是说明。"
+      ]
+    },
+    {
+      "word": "exercise",
+      "filename": "exercise.md",
+      "lines": [
+        "Exercise is physical activity.",
+        "Sport ist körperliche Aktivität.",
+        "運動は身体活動だ。",
+        "运动是身体活动。"
+      ]
+    },
+    {
+      "word": "exhausting",
+      "filename": "exhausting.md",
+      "lines": [
+        "An exhausting workout is exercise.",
+        "Ein erschöpfendes Training ist Sport.",
+        "疲れるトレーニングは運動だ。",
+        "累人的锻炼是运动。"
+      ]
+    },
+    {
+      "word": "exhaustion",
+      "filename": "exhaustion.md",
+      "lines": [
+        "Exhaustion is fatigue.",
+        "Erschöpfung ist Müdigkeit.",
+        "疲労は疲れだ。",
+        "疲惫是疲劳。"
+      ]
+    },
+    {
+      "word": "exhibiting",
+      "filename": "exhibiting.md",
+      "lines": [
+        "Exhibiting is displaying.",
+        "Ausstellen ist Präsentieren.",
+        "展示は陳列だ。",
+        "展示是陈列。"
+      ]
+    },
+    {
+      "word": "exist",
+      "filename": "exist.md",
+      "lines": [
+        "Existing is being.",
+        "Existieren ist Sein.",
+        "存在することは生きることだ。",
+        "存在是活着。"
+      ]
+    },
+    {
+      "word": "existence",
+      "filename": "existence.md",
+      "lines": [
+        "Existence is reality.",
+        "Existenz ist Realität.",
+        "存在は現実だ。",
+        "存在是现实。"
+      ]
+    },
+    {
+      "word": "existing",
+      "filename": "existing.md",
+      "lines": [
+        "An existing house is a building.",
+        "Ein bestehendes Haus ist ein Gebäude.",
+        "既存の家は建物だ。",
+        "现有的房子是建筑物。"
+      ]
+    },
+    {
+      "word": "exit",
+      "filename": "exit.md",
+      "lines": [
+        "An exit is a door.",
+        "Ein Ausgang ist eine Tür.",
+        "出口はドアだ。",
+        "出口是门。"
+      ]
+    },
+    {
+      "word": "expand",
+      "filename": "expand.md",
+      "lines": [
+        "Expanding is growth.",
+        "Expandieren ist Wachstum.",
+        "拡大することは成長だ。",
+        "扩大是增长。"
+      ]
+    }
+  ],
+  "problems": []
+}

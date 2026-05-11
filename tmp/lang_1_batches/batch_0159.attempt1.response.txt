@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "exposing",
+      "filename": "exposing.md",
+      "lines": [
+        "Exposing is revealing.",
+        "Enthüllen ist Offenbarung.",
+        "さらすことは明らかにすることだ。",
+        "暴露是揭示。"
+      ]
+    },
+    {
+      "word": "exposure",
+      "filename": "exposure.md",
+      "lines": [
+        "Exposure is a condition.",
+        "Exposition ist ein Zustand.",
+        "露出は状態だ。",
+        "暴露是一种状态。"
+      ]
+    },
+    {
+      "word": "expressing",
+      "filename": "expressing.md",
+      "lines": [
+        "Expressing is communication.",
+        "Ausdrücken ist Kommunikation.",
+        "表現することは伝達だ。",
+        "表达是传达。"
+      ]
+    },
+    {
+      "word": "extending",
+      "filename": "extending.md",
+      "lines": [
+        "Extending is expansion.",
+        "Erweitern ist Ausdehnung.",
+        "拡張は拡大だ。",
+        "扩展是扩大。"
+      ]
+    },
+    {
+      "word": "extension",
+      "filename": "extension.md",
+      "lines": [
+        "Extension is an addition.",
+        "Erweiterung ist eine Hinzufügung.",
+        "拡張は追加だ。",
+        "扩展是一种添加。"
+      ]
+    },
+    {
+      "word": "extra",
+      "filename": "extra.md",
+      "lines": [
+        "Extra sugar is a sweetener.",
+        "Extra Zucker ist ein Süßungsmittel.",
+        "余分な砂糖は甘味料だ。",
+        "额外的糖是甜味剂。"
+      ]
+    },
+    {
+      "word": "extract",
+      "filename": "extract.md",
+      "lines": [
+        "Extract is a concentrate.",
+        "Extrakt ist ein Konzentrat.",
+        "抽出物は濃縮物だ。",
+        "提取物是浓缩物。"
+      ]
+    },
+    {
+      "word": "extracted",
+      "filename": "extracted.md",
+      "lines": [
+        "Extracted oil is a liquid.",
+        "Extrahiertes Öl ist eine Flüssigkeit.",
+        "抽出された油は液体だ。",
+        "提取的油是液体。"
+      ]
+    },
+    {
+      "word": "extracting",
+      "filename": "extracting.md",
+      "lines": [
+        "Extracting is separation.",
+        "Extrahieren ist Trennung.",
+        "抽出は分離だ。",
+        "提取是分离。"
+      ]
+    },
+    {
+      "word": "exuding",
+      "filename": "exuding.md",
+      "lines": [
+        "Exuding is emission.",
+        "Ausströmen ist Emission.",
+        "滲出は放出だ。",
+        "渗出是释放。"
+      ]
+    }
+  ],
+  "problems": []
+}

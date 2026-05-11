@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "focusing",
+      "filename": "focusing.md",
+      "lines": [
+        "Focusing is a mental activity.",
+        "Fokussieren ist eine geistige Tätigkeit.",
+        "集中することは精神活動だ。",
+        "集中是一种精神活动。"
+      ]
+    },
+    {
+      "word": "fog",
+      "filename": "fog.md",
+      "lines": [
+        "Fog is a weather phenomenon.",
+        "Nebel ist ein Wetterphänomen.",
+        "霧は気象現象だ。",
+        "雾是一种天气现象。"
+      ]
+    },
+    {
+      "word": "foil",
+      "filename": "foil.md",
+      "lines": [
+        "Foil is a thin metal sheet.",
+        "Folie ist ein dünnes Metallblech.",
+        "ホイルは薄い金属板だ。",
+        "箔是一种薄金属片。"
+      ]
+    },
+    {
+      "word": "fold",
+      "filename": "fold.md",
+      "lines": [
+        "Folding is an action of bending.",
+        "Falten ist eine Handlung des Biegens.",
+        "折ることは曲げる動作だ。",
+        "折叠是弯曲的动作。"
+      ]
+    },
+    {
+      "word": "follow",
+      "filename": "follow.md",
+      "lines": [
+        "Following is an action of moving behind.",
+        "Folgen ist eine Handlung des Hinterhergehens.",
+        "従うことは後ろに動く動作だ。",
+        "跟随是跟在后面的动作。"
+      ]
+    },
+    {
+      "word": "follower",
+      "filename": "follower.md",
+      "lines": [
+        "A follower is a supporter.",
+        "Ein Anhänger ist ein Unterstützer.",
+        "フォロワーは支持者だ。",
+        "追随者是支持者。"
+      ]
+    },
+    {
+      "word": "following",
+      "filename": "following.md",
+      "lines": [
+        "A following is a group of supporters.",
+        "Eine Anhängerschaft ist eine Gruppe von Unterstützern.",
+        "フォロイングは支持者の集まりだ。",
+        "追随者群体是支持者的集合。"
+      ]
+    },
+    {
+      "word": "food",
+      "filename": "food.md",
+      "lines": [
+        "Food is a source of nutrients.",
+        "Nahrung ist eine Nährstoffquelle.",
+        "食べ物は栄養源だ。",
+        "食物是营养来源。"
+      ]
+    },
+    {
+      "word": "fool",
+      "filename": "fool.md",
+      "lines": [
+        "A fool is a person who is not wise.",
+        "Ein Dummkopf ist ein Mensch, der nicht weise ist.",
+        "馬鹿は賢くない人だ。",
+        "傻瓜是不明智的人。"
+      ]
+    },
+    {
+      "word": "foolish",
+      "filename": "foolish.md",
+      "lines": [
+        "A foolish action is a mistake.",
+        "Eine törichte Handlung ist ein Fehler.",
+        "愚かな行動は間違いだ。",
+        "愚蠢的行为是错误。"
+      ]
+    }
+  ],
+  "problems": []
+}

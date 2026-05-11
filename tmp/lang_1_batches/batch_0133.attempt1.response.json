@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439403-9aOCuxssu5IdZ1CSQsxU",
+  "object": "chat.completion",
+  "created": 1778439403,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"domain\",\n      \"filename\": \"domain.md\",\n      \"lines\": [\n        \"A domain is an area.\",\n        \"Eine Domäne ist ein Bereich.\",\n        \"ドメインは領域だ。\",\n        \"域是一个区域。\"\n      ]\n    },\n    {\n      \"word\": \"dome\",\n      \"filename\": \"dome.md\",\n      \"lines\": [\n        \"A dome is a roof.\",\n        \"Eine Kuppel ist ein Dach.\",\n        \"ドームは屋根だ。\",\n        \"穹顶是一种屋顶。\"\n      ]\n    },\n    {\n      \"word\": \"dominating\",\n      \"filename\": \"dominating.md\",\n      \"lines\": [\n        \"Dominating is controlling.\",\n        \"Dominieren ist Kontrollieren.\",\n        \"支配することはコントロールだ。\",\n        \"支配是控制。\"\n      ]\n    },\n    {\n      \"word\": \"donkey\",\n      \"filename\": \"donkey.md\",\n      \"lines\": [\n        \"A donkey is an animal.\",\n        \"Ein Esel ist ein Tier.\",\n        \"ロバは動物だ。\",\n        \"驴是动物。\"\n      ]\n    },\n    {\n      \"word\": \"door\",\n      \"filename\": \"door.md\",\n      \"lines\": [\n        \"A door is an opening.\",\n        \"Eine Tür ist eine Öffnung.\",\n        \"ドアは開口部だ。\",\n        \"门是一种开口。\"\n      ]\n    },\n    {\n      \"word\": \"doorbell\",\n      \"filename\": \"doorbell.md\",\n      \"lines\": [\n        \"A doorbell is a device.\",\n        \"Eine Türklingel ist ein Gerät.\",\n        \"ドアベルは装置だ。\",\n        \"门铃是一种装置。\"\n      ]\n    },\n    {\n      \"word\": \"doorknob\",\n      \"filename\": \"doorknob.md\",\n      \"lines\": [\n        \"A doorknob is a handle.\",\n        \"Ein Türknauf ist ein Griff.\",\n        \"ドアノブは取っ手だ。\",\n        \"门把手是一种把手。\"\n      ]\n    },\n    {\n      \"word\": \"doorstep\",\n      \"filename\": \"doorstep.md\",\n      \"lines\": [\n        \"A doorstep is a step.\",\n        \"Eine Türschwelle ist eine Stufe.\",\n        \"玄関の段は階段の一部だ。\",\n        \"门阶是一种台阶。\"\n      ]\n    },\n    {\n      \"word\": \"doorway\",\n      \"filename\": \"doorway.md\",\n      \"lines\": [\n        \"A doorway is an entrance.\",\n        \"Ein Türdurchgang ist ein Eingang.\",\n        \"戸口は入口だ。\",\n        \"门口是一种入口。\"\n      ]\n    },\n    {\n      \"word\": \"dormant\",\n      \"filename\": \"dormant.md\",\n      \"lines\": [\n        \"A dormant volcano is a mountain.\",\n        \"Ein ruhender Vulkan ist ein Berg.\",\n        \"休火山は山だ。\",\n        \"休眠火山是山。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 725,
+    "completion_tokens": 667,
+    "total_tokens": 1392,
+    "cost": 0.0002853774,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028826,
+      "upstream_inference_prompt_cost": 0.0001015,
+      "upstream_inference_completions_cost": 0.00018676
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

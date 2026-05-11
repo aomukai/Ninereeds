@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fostering",
+      "filename": "fostering.md",
+      "lines": [
+        "Fostering is care.",
+        "Pflegen ist Fürsorge.",
+        "里親になることは世話だ。",
+        "寄养是照顾。"
+      ]
+    },
+    {
+      "word": "found",
+      "filename": "found.md",
+      "lines": [
+        "A found key is a tool.",
+        "Ein gefundener Schlüssel ist ein Werkzeug.",
+        "見つかった鍵は道具だ。",
+        "被发现的钥匙是工具。"
+      ]
+    },
+    {
+      "word": "foundation",
+      "filename": "foundation.md",
+      "lines": [
+        "A foundation is a base.",
+        "Ein Fundament ist eine Basis.",
+        "基礎は土台だ。",
+        "地基是基础。"
+      ]
+    },
+    {
+      "word": "foundational",
+      "filename": "foundational.md",
+      "lines": [
+        "A foundational text is a source.",
+        "Ein grundlegender Text ist eine Quelle.",
+        "基礎的なテキストは資料だ。",
+        "基础性的文本是资料。"
+      ]
+    },
+    {
+      "word": "founding",
+      "filename": "founding.md",
+      "lines": [
+        "Founding is creation.",
+        "Gründen ist Schöpfung.",
+        "設立は創造だ。",
+        "创立是创造。"
+      ]
+    },
+    {
+      "word": "fountain",
+      "filename": "fountain.md",
+      "lines": [
+        "A fountain is a water source.",
+        "Ein Brunnen ist eine Wasserquelle.",
+        "噴水は水源だ。",
+        "喷泉是水源。"
+      ]
+    },
+    {
+      "word": "fox",
+      "filename": "fox.md",
+      "lines": [
+        "A fox is an animal.",
+        "Ein Fuchs ist ein Tier.",
+        "狐は動物だ。",
+        "狐狸是动物。"
+      ]
+    },
+    {
+      "word": "fraction",
+      "filename": "fraction.md",
+      "lines": [
+        "A fraction is a part.",
+        "Ein Bruch ist ein Teil.",
+        "分数は一部だ。",
+        "分数是一部分。"
+      ]
+    },
+    {
+      "word": "fracturing",
+      "filename": "fracturing.md",
+      "lines": [
+        "Fracturing is damage.",
+        "Frakturieren ist Schaden.",
+        "破砕は損傷だ。",
+        "碎裂是损伤。"
+      ]
+    },
+    {
+      "word": "fragile",
+      "filename": "fragile.md",
+      "lines": [
+        "A fragile vase is a container.",
+        "Eine zerbrechliche Vase ist ein Behälter.",
+        "壊れやすい花瓶は容器だ。",
+        "易碎的花瓶是容器。"
+      ]
+    }
+  ],
+  "problems": []
+}

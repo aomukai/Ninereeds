@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "ella",
+      "filename": "ella.md",
+      "lines": [
+        "Ella is a name.",
+        "Ella ist ein Name.",
+        "エラは名前だ。",
+        "艾拉是一个名字。"
+      ]
+    },
+    {
+      "word": "elucidating",
+      "filename": "elucidating.md",
+      "lines": [
+        "Elucidating is explaining.",
+        "Erl\u00e4utern ist Erkl\u00e4ren.",
+        "解明することは説明することだ。",
+        "阐明就是解释。"
+      ]
+    },
+    {
+      "word": "email",
+      "filename": "email.md",
+      "lines": [
+        "An email is a message.",
+        "Eine E-Mail ist eine Nachricht.",
+        "メールはメッセージだ。",
+        "电子邮件是一种消息。"
+      ]
+    },
+    {
+      "word": "emanating",
+      "filename": "emanating.md",
+      "lines": [
+        "Emanating is flowing out.",
+        "Ausstr\u00f6men ist Herausflie\u00dfen.",
+        "発出することは流れ出ることだ。",
+        "散发就是流出。"
+      ]
+    },
+    {
+      "word": "embarking",
+      "filename": "embarking.md",
+      "lines": [
+        "Embarking is starting a journey.",
+        "Einschiffen ist der Beginn einer Reise.",
+        "乗船することは旅の始まりだ。",
+        "登船是旅程的开始。"
+      ]
+    },
+    {
+      "word": "embarrassing",
+      "filename": "embarrassing.md",
+      "lines": [
+        "An embarrassing moment is awkward.",
+        "Ein peinlicher Moment ist unangenehm.",
+        "恥ずかしい瞬間は気まずい。",
+        "尴尬的时刻令人难堪。"
+      ]
+    },
+    {
+      "word": "embarrassment",
+      "filename": "embarrassment.md",
+      "lines": [
+        "Embarrassment is a feeling.",
+        "Verlegenheit ist ein Gef\u00fchl.",
+        "恥ずかしさは感情だ。",
+        "尴尬是一种感觉。"
+      ]
+    },
+    {
+      "word": "embedding",
+      "filename": "embedding.md",
+      "lines": [
+        "Embedding is inserting.",
+        "Einbetten ist Einsetzen.",
+        "埋め込むことは挿入することだ。",
+        "嵌入就是插入。"
+      ]
+    },
+    {
+      "word": "embodying",
+      "filename": "embodying.md",
+      "lines": [
+        "Embodying is representing.",
+        "Verk\u00f6rpern ist Darstellen.",
+        "具現化することは表現することだ。",
+        "体现就是代表。"
+      ]
+    },
+    {
+      "word": "emergency",
+      "filename": "emergency.md",
+      "lines": [
+        "An emergency is a situation.",
+        "Ein Notfall ist eine Situation.",
+        "緊急事態は状況だ。",
+        "紧急情况是一种状况。"
+      ]
+    }
+  ],
+  "problems": []
+}

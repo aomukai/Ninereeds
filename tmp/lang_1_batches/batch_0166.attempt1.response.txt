@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fence",
+      "filename": "fence.md",
+      "lines": [
+        "A fence is a barrier.",
+        "Ein Zaun ist eine Barriere.",
+        "フェンスは囲いだ。",
+        "栅栏是屏障。"
+      ]
+    },
+    {
+      "word": "fern",
+      "filename": "fern.md",
+      "lines": [
+        "A fern is a plant.",
+        "Ein Farn ist eine Pflanze.",
+        "シダは植物だ。",
+        "蕨是植物。"
+      ]
+    },
+    {
+      "word": "ferry",
+      "filename": "ferry.md",
+      "lines": [
+        "A ferry is a boat.",
+        "Eine Fähre ist ein Schiff.",
+        "フェリーは船だ。",
+        "渡轮是船。"
+      ]
+    },
+    {
+      "word": "festival",
+      "filename": "festival.md",
+      "lines": [
+        "A festival is an event.",
+        "Ein Festival ist eine Veranstaltung.",
+        "祭りは行事だ。",
+        "节日是活动。"
+      ]
+    },
+    {
+      "word": "fetch",
+      "filename": "fetch.md",
+      "lines": [
+        "Fetching is an action.",
+        "Holen ist eine Handlung.",
+        "取ってくることは動作だ。",
+        "取回是动作。"
+      ]
+    },
+    {
+      "word": "fever",
+      "filename": "fever.md",
+      "lines": [
+        "A fever is a symptom.",
+        "Ein Fieber ist ein Symptom.",
+        "熱は症状だ。",
+        "发烧是症状。"
+      ]
+    },
+    {
+      "word": "fiber",
+      "filename": "fiber.md",
+      "lines": [
+        "A fiber is a material.",
+        "Eine Faser ist ein Material.",
+        "繊維は素材だ。",
+        "纤维是材料。"
+      ]
+    },
+    {
+      "word": "fiction",
+      "filename": "fiction.md",
+      "lines": [
+        "A fiction is a story.",
+        "Eine Fiktion ist eine Geschichte.",
+        "フィクションは物語だ。",
+        "小说是故事。"
+      ]
+    },
+    {
+      "word": "fictional",
+      "filename": "fictional.md",
+      "lines": [
+        "A fictional character is a person.",
+        "Eine fiktive Figur ist eine Person.",
+        "架空のキャラクターは人物だ。",
+        "虚构的角色是人物。"
+      ]
+    },
+    {
+      "word": "field",
+      "filename": "field.md",
+      "lines": [
+        "A field is an area.",
+        "Ein Feld ist eine Fläche.",
+        "畑は土地だ。",
+        "田地是土地。"
+      ]
+    }
+  ],
+  "problems": []
+}

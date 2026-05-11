@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "electricity",
+      "filename": "electricity.md",
+      "lines": [
+        "Electricity is a form of energy.",
+        "Elektrizität ist eine Form von Energie.",
+        "電気はエネルギーの一種だ。",
+        "电是一种能量形式。"
+      ]
+    },
+    {
+      "word": "electron",
+      "filename": "electron.md",
+      "lines": [
+        "An electron is a particle.",
+        "Ein Elektron ist ein Teilchen.",
+        "電子は粒子だ。",
+        "电子是一种粒子。"
+      ]
+    },
+    {
+      "word": "elegance",
+      "filename": "elegance.md",
+      "lines": [
+        "Elegance is a quality.",
+        "Eleganz ist eine Eigenschaft.",
+        "優雅さは性質だ。",
+        "优雅是一种品质。"
+      ]
+    },
+    {
+      "word": "element",
+      "filename": "element.md",
+      "lines": [
+        "An element is a substance.",
+        "Ein Element ist ein Stoff.",
+        "元素は物質だ。",
+        "元素是一种物质。"
+      ]
+    },
+    {
+      "word": "elephant",
+      "filename": "elephant.md",
+      "lines": [
+        "An elephant is an animal.",
+        "Ein Elefant ist ein Tier.",
+        "象は動物だ。",
+        "大象是动物。"
+      ]
+    },
+    {
+      "word": "elevator",
+      "filename": "elevator.md",
+      "lines": [
+        "An elevator is a machine.",
+        "Ein Aufzug ist eine Maschine.",
+        "エレベーターは機械だ。",
+        "电梯是一种机器。"
+      ]
+    },
+    {
+      "word": "elf",
+      "filename": "elf.md",
+      "lines": [
+        "An elf is a creature.",
+        "Ein Elf ist ein Wesen.",
+        "エルフは生き物だ。",
+        "精灵是一种生物。"
+      ]
+    },
+    {
+      "word": "eliciting",
+      "filename": "eliciting.md",
+      "lines": [
+        "Eliciting is a response.",
+        "Hervorrufen ist eine Reaktion.",
+        "引き出すことは反応だ。",
+        "引发是一种反应。"
+      ]
+    },
+    {
+      "word": "eliminating",
+      "filename": "eliminating.md",
+      "lines": [
+        "Eliminating is removal.",
+        "Beseitigen ist Entfernung.",
+        "排除することは除去だ。",
+        "消除是移除。"
+      ]
+    },
+    {
+      "word": "elk",
+      "filename": "elk.md",
+      "lines": [
+        "An elk is an animal.",
+        "Ein Elch ist ein Tier.",
+        "ヘラジカは動物だ。",
+        "麋鹿是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

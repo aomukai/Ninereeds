@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "farce",
+      "filename": "farce.md",
+      "lines": [
+        "A farce is a comedy.",
+        "Eine Farce ist eine Komödie.",
+        "ファースは喜劇だ。",
+        "闹剧是喜剧。"
+      ]
+    },
+    {
+      "word": "farm",
+      "filename": "farm.md",
+      "lines": [
+        "A farm is a place.",
+        "Ein Bauernhof ist ein Ort.",
+        "農場は場所だ。",
+        "农场是一个地方。"
+      ]
+    },
+    {
+      "word": "farmer",
+      "filename": "farmer.md",
+      "lines": [
+        "A farmer is a person.",
+        "Ein Bauer ist eine Person.",
+        "農家は人だ。",
+        "农民是人。"
+      ]
+    },
+    {
+      "word": "farmhouse",
+      "filename": "farmhouse.md",
+      "lines": [
+        "A farmhouse is a building.",
+        "Ein Bauernhaus ist ein Gebäude.",
+        "農家の家は建物だ。",
+        "农舍是建筑物。"
+      ]
+    },
+    {
+      "word": "farmyard",
+      "filename": "farmyard.md",
+      "lines": [
+        "A farmyard is an area.",
+        "Ein Bauernhof ist ein Bereich.",
+        "農場の庭はエリアだ。",
+        "农场庭院是区域。"
+      ]
+    },
+    {
+      "word": "farther",
+      "filename": "farther.md",
+      "lines": [
+        "A farther place is a location.",
+        "Ein weiterer Ort ist ein Standort.",
+        "もっと遠い場所は位置だ。",
+        "更远的地方是位置。"
+      ]
+    },
+    {
+      "word": "fast",
+      "filename": "fast.md",
+      "lines": [
+        "A fast car is a vehicle.",
+        "Ein schnelles Auto ist ein Fahrzeug.",
+        "速い車は乗り物だ。",
+        "快的车是车辆。"
+      ]
+    },
+    {
+      "word": "fastener",
+      "filename": "fastener.md",
+      "lines": [
+        "A fastener is a device.",
+        "Ein Verschluss ist ein Gerät.",
+        "留め具は装置だ。",
+        "紧固件是装置。"
+      ]
+    },
+    {
+      "word": "fastening",
+      "filename": "fastening.md",
+      "lines": [
+        "A fastening is a connection.",
+        "Eine Befestigung ist eine Verbindung.",
+        "固定は接続だ。",
+        "固定是连接。"
+      ]
+    },
+    {
+      "word": "fat",
+      "filename": "fat.md",
+      "lines": [
+        "A fat pig is an animal.",
+        "Ein fettes Schwein ist ein Tier.",
+        "太った豚は動物だ。",
+        "肥猪是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

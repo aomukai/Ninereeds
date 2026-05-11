@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "defender",
+      "filename": "defender.md",
+      "lines": [
+        "A defender is a player.",
+        "Ein Verteidiger ist ein Spieler.",
+        "ディフェンダーは選手だ。",
+        "防守者是球员。"
+      ]
+    },
+    {
+      "word": "defending",
+      "filename": "defending.md",
+      "lines": [
+        "Defending is protection.",
+        "Verteidigen ist Schutz.",
+        "守ることは保護だ。",
+        "防守是保护。"
+      ]
+    },
+    {
+      "word": "deficit",
+      "filename": "deficit.md",
+      "lines": [
+        "A deficit is a shortage.",
+        "Ein Defizit ist ein Mangel.",
+        "赤字は不足だ。",
+        "赤字是短缺。"
+      ]
+    },
+    {
+      "word": "defining",
+      "filename": "defining.md",
+      "lines": [
+        "Defining is explanation.",
+        "Definieren ist Erklärung.",
+        "定義することは説明だ。",
+        "定义是解释。"
+      ]
+    },
+    {
+      "word": "definite",
+      "filename": "definite.md",
+      "lines": [
+        "A definite color is a shade.",
+        "Eine definitive Farbe ist ein Farbton.",
+        "明確な色は色合いだ。",
+        "明确的颜色是色调。"
+      ]
+    },
+    {
+      "word": "definiteness",
+      "filename": "definiteness.md",
+      "lines": [
+        "Definiteness is a property.",
+        "Bestimmtheit ist eine Eigenschaft.",
+        "明確さは特性だ。",
+        "确定性是属性。"
+      ]
+    },
+    {
+      "word": "definiting",
+      "filename": "definiting.md",
+      "lines": [
+        "Definiting is determination.",
+        "Bestimmen ist Bestimmung.",
+        "決定することは決定だ。",
+        "决定是确定。"
+      ]
+    },
+    {
+      "word": "definition",
+      "filename": "definition.md",
+      "lines": [
+        "A definition is an explanation.",
+        "Eine Definition ist eine Erklärung.",
+        "定義は説明だ。",
+        "定义是解释。"
+      ]
+    },
+    {
+      "word": "degree",
+      "filename": "degree.md",
+      "lines": [
+        "A degree is a unit.",
+        "Ein Grad ist eine Einheit.",
+        "度は単位だ。",
+        "度是单位。"
+      ]
+    },
+    {
+      "word": "deleting",
+      "filename": "deleting.md",
+      "lines": [
+        "Deleting is removal.",
+        "Löschen ist Entfernung.",
+        "削除することは除去だ。",
+        "删除是移除。"
+      ]
+    }
+  ],
+  "problems": []
+}

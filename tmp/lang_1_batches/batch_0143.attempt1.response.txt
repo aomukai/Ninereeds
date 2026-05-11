@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "effective",
+      "filename": "effective.md",
+      "lines": [
+        "An effective solution is a method.",
+        "Eine effektive Lösung ist eine Methode.",
+        "効果的な解決策は方法だ。",
+        "有效的解决方案是一种方法。"
+      ]
+    },
+    {
+      "word": "effort",
+      "filename": "effort.md",
+      "lines": [
+        "Effort is work.",
+        "Anstrengung ist Arbeit.",
+        "努力は仕事だ。",
+        "努力是工作。"
+      ]
+    },
+    {
+      "word": "effortful",
+      "filename": "effortful.md",
+      "lines": [
+        "An effortful task is a challenge.",
+        "Eine anstrengende Aufgabe ist eine Herausforderung.",
+        "努力を要する仕事は挑戦だ。",
+        "费力的任务是一种挑战。"
+      ]
+    },
+    {
+      "word": "efforting",
+      "filename": "efforting.md",
+      "lines": [
+        "Efforting is trying.",
+        "Sich anstrengen ist Versuchen.",
+        "努力することは試みることだ。",
+        "努力是尝试。"
+      ]
+    },
+    {
+      "word": "effortless",
+      "filename": "effortless.md",
+      "lines": [
+        "An effortless movement is a flow.",
+        "Eine mühelose Bewegung ist ein Fluss.",
+        "努力のいらない動きは流れだ。",
+        "轻松的动作是一种流畅。"
+      ]
+    },
+    {
+      "word": "egg",
+      "filename": "egg.md",
+      "lines": [
+        "An egg is food.",
+        "Ein Ei ist Nahrung.",
+        "卵は食べ物だ。",
+        "鸡蛋是食物。"
+      ]
+    },
+    {
+      "word": "eggshell",
+      "filename": "eggshell.md",
+      "lines": [
+        "An eggshell is a shell.",
+        "Eine Eierschale ist eine Schale.",
+        "卵の殻は殻だ。",
+        "蛋壳是一种壳。"
+      ]
+    },
+    {
+      "word": "elbow",
+      "filename": "elbow.md",
+      "lines": [
+        "An elbow is a joint.",
+        "Ein Ellbogen ist ein Gelenk.",
+        "肘は関節だ。",
+        "肘是一种关节。"
+      ]
+    },
+    {
+      "word": "elderly",
+      "filename": "elderly.md",
+      "lines": [
+        "An elderly person is a human.",
+        "Ein älterer Mensch ist ein Mensch.",
+        "高齢者は人間だ。",
+        "老年人是人。"
+      ]
+    },
+    {
+      "word": "electrical",
+      "filename": "electrical.md",
+      "lines": [
+        "An electrical wire is a conductor.",
+        "Ein elektrisches Kabel ist ein Leiter.",
+        "電線は導体だ。",
+        "电线是一种导体。"
+      ]
+    }
+  ],
+  "problems": []
+}

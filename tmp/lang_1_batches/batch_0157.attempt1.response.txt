@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "expanded",
+      "filename": "expanded.md",
+      "lines": [
+        "An expanded balloon is a toy.",
+        "Ein aufgeblasener Ballon ist ein Spielzeug.",
+        "膨らんだ風船はおもちゃだ。",
+        "膨胀的气球是玩具。"
+      ]
+    },
+    {
+      "word": "expanding",
+      "filename": "expanding.md",
+      "lines": [
+        "An expanding balloon is a toy.",
+        "Ein expandierender Ballon ist ein Spielzeug.",
+        "膨らんでいる風船はおもちゃだ。",
+        "正在膨胀的气球是玩具。"
+      ]
+    },
+    {
+      "word": "expansion",
+      "filename": "expansion.md",
+      "lines": [
+        "Expansion is growth.",
+        "Expansion ist Wachstum.",
+        "拡大は成長だ。",
+        "扩张是增长。"
+      ]
+    },
+    {
+      "word": "expansive",
+      "filename": "expansive.md",
+      "lines": [
+        "An expansive desert is a landscape.",
+        "Eine ausgedehnte Wüste ist eine Landschaft.",
+        "広大な砂漠は風景だ。",
+        "广阔的沙漠是风景。"
+      ]
+    },
+    {
+      "word": "expect",
+      "filename": "expect.md",
+      "lines": [
+        "Expecting is anticipation.",
+        "Erwarten ist Vorfreude.",
+        "期待することは予感だ。",
+        "期待是预感。"
+      ]
+    },
+    {
+      "word": "expectation",
+      "filename": "expectation.md",
+      "lines": [
+        "Expectation is a belief.",
+        "Erwartung ist ein Glaube.",
+        "期待は信念だ。",
+        "期望是一种信念。"
+      ]
+    },
+    {
+      "word": "expected",
+      "filename": "expected.md",
+      "lines": [
+        "An expected visitor is a guest.",
+        "Ein erwarteter Besucher ist ein Gast.",
+        "期待された訪問者は客だ。",
+        "预期的访客是客人。"
+      ]
+    },
+    {
+      "word": "expecting",
+      "filename": "expecting.md",
+      "lines": [
+        "An expecting mother is a woman.",
+        "Eine schwangere Mutter ist eine Frau.",
+        "妊娠中の母親は女性だ。",
+        "怀孕的母亲是女性。"
+      ]
+    },
+    {
+      "word": "experience",
+      "filename": "experience.md",
+      "lines": [
+        "Experience is knowledge.",
+        "Erfahrung ist Wissen.",
+        "経験は知識だ。",
+        "经验是知识。"
+      ]
+    },
+    {
+      "word": "experiential",
+      "filename": "experiential.md",
+      "lines": [
+        "An experiential museum is an attraction.",
+        "Ein erlebnisorientiertes Museum ist eine Attraktion.",
+        "体験型博物館はアトラクションだ。",
+        "体验式博物馆是景点。"
+      ]
+    }
+  ],
+  "problems": []
+}

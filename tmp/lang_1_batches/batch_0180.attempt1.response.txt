@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fragmenting",
+      "filename": "fragmenting.md",
+      "lines": [
+        "Fragmenting is a process.",
+        "Fragmentieren ist ein Prozess.",
+        "断片化はプロセスだ。",
+        "碎片化是一个过程。"
+      ]
+    },
+    {
+      "word": "frame",
+      "filename": "frame.md",
+      "lines": [
+        "A frame is a structure.",
+        "Ein Rahmen ist eine Struktur.",
+        "枠は構造だ。",
+        "框架是一种结构。"
+      ]
+    },
+    {
+      "word": "framework",
+      "filename": "framework.md",
+      "lines": [
+        "A framework is a system.",
+        "Ein Framework ist ein System.",
+        "フレームワークはシステムだ。",
+        "框架是一个系统。"
+      ]
+    },
+    {
+      "word": "free",
+      "filename": "free.md",
+      "lines": [
+        "A free bird is an animal.",
+        "Ein freier Vogel ist ein Tier.",
+        "自由な鳥は動物だ。",
+        "自由的鸟是动物。"
+      ]
+    },
+    {
+      "word": "freedom",
+      "filename": "freedom.md",
+      "lines": [
+        "Freedom is a right.",
+        "Freiheit ist ein Recht.",
+        "自由は権利だ。",
+        "自由是一种权利。"
+      ]
+    },
+    {
+      "word": "freeze",
+      "filename": "freeze.md",
+      "lines": [
+        "Freezing is a phase change.",
+        "Gefrieren ist ein Phasenwechsel.",
+        "凍結は相変化だ。",
+        "冻结是相变。"
+      ]
+    },
+    {
+      "word": "freezing",
+      "filename": "freezing.md",
+      "lines": [
+        "Freezing is a preservation method.",
+        "Einfrieren ist eine Konservierungsmethode.",
+        "冷凍は保存方法だ。",
+        "冷冻是一种保存方法。"
+      ]
+    },
+    {
+      "word": "frequency",
+      "filename": "frequency.md",
+      "lines": [
+        "Frequency is a measurement.",
+        "Frequenz ist eine Messgröße.",
+        "周波数は測定値だ。",
+        "频率是一种测量。"
+      ]
+    },
+    {
+      "word": "frequent",
+      "filename": "frequent.md",
+      "lines": [
+        "A frequent visitor is a guest.",
+        "Ein häufiger Besucher ist ein Gast.",
+        "頻繁な訪問者は客だ。",
+        "频繁的访客是客人。"
+      ]
+    },
+    {
+      "word": "fresh",
+      "filename": "fresh.md",
+      "lines": [
+        "A fresh apple is a fruit.",
+        "Ein frischer Apfel ist eine Frucht.",
+        "新鮮なりんごは果物だ。",
+        "新鲜的苹果是水果。"
+      ]
+    }
+  ],
+  "problems": []
+}

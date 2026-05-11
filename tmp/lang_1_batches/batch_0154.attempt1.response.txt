@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "evolution",
+      "filename": "evolution.md",
+      "lines": [
+        "Evolution is a process.",
+        "Evolution ist ein Prozess.",
+        "進化はプロセスだ。",
+        "进化是一个过程。"
+      ]
+    },
+    {
+      "word": "evolving",
+      "filename": "evolving.md",
+      "lines": [
+        "Evolving is a process.",
+        "Sich entwickeln ist ein Prozess.",
+        "進化することはプロセスだ。",
+        "进化是一个过程。"
+      ]
+    },
+    {
+      "word": "ewe",
+      "filename": "ewe.md",
+      "lines": [
+        "A ewe is an animal.",
+        "Ein Mutterschaf ist ein Tier.",
+        "雌羊は動物だ。",
+        "母羊是动物。"
+      ]
+    },
+    {
+      "word": "exact",
+      "filename": "exact.md",
+      "lines": [
+        "An exact answer is a fact.",
+        "Eine genaue Antwort ist eine Tatsache.",
+        "正確な答えは事実だ。",
+        "精确的答案是事实。"
+      ]
+    },
+    {
+      "word": "exaggeration",
+      "filename": "exaggeration.md",
+      "lines": [
+        "An exaggeration is a lie.",
+        "Eine Übertreibung ist eine Lüge.",
+        "誇張は嘘だ。",
+        "夸张是谎言。"
+      ]
+    },
+    {
+      "word": "exam",
+      "filename": "exam.md",
+      "lines": [
+        "An exam is a test.",
+        "Eine Prüfung ist ein Test.",
+        "試験はテストだ。",
+        "考试是测试。"
+      ]
+    },
+    {
+      "word": "examining",
+      "filename": "examining.md",
+      "lines": [
+        "Examining is analysis.",
+        "Untersuchen ist Analyse.",
+        "調べることは分析だ。",
+        "检查是分析。"
+      ]
+    },
+    {
+      "word": "example",
+      "filename": "example.md",
+      "lines": [
+        "An example is a sample.",
+        "Ein Beispiel ist ein Muster.",
+        "例はサンプルだ。",
+        "例子是样本。"
+      ]
+    },
+    {
+      "word": "exceeding",
+      "filename": "exceeding.md",
+      "lines": [
+        "Exceeding is an excess.",
+        "Überschreiten ist ein Exzess.",
+        "超えることは過剰だ。",
+        "超过是过量。"
+      ]
+    },
+    {
+      "word": "excepting",
+      "filename": "excepting.md",
+      "lines": [
+        "Excepting is an exception.",
+        "Ausnehmen ist eine Ausnahme.",
+        "除くことは例外だ。",
+        "除外是例外。"
+      ]
+    }
+  ],
+  "problems": []
+}

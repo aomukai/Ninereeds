@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fridge",
+      "filename": "fridge.md",
+      "lines": [
+        "A fridge is an appliance.",
+        "Ein Kühlschrank ist ein Gerät.",
+        "冷蔵庫は家電だ。",
+        "冰箱是电器。"
+      ]
+    },
+    {
+      "word": "fried",
+      "filename": "fried.md",
+      "lines": [
+        "Fried chicken is food.",
+        "Gebratenes Hähnchen ist Nahrung.",
+        "揚げた鶏肉は食べ物だ。",
+        "炸鸡是食物。"
+      ]
+    },
+    {
+      "word": "friend",
+      "filename": "friend.md",
+      "lines": [
+        "A friend is a person.",
+        "Ein Freund ist eine Person.",
+        "友達は人だ。",
+        "朋友是人。"
+      ]
+    },
+    {
+      "word": "friendly",
+      "filename": "friendly.md",
+      "lines": [
+        "A friendly dog is a pet.",
+        "Ein freundlicher Hund ist ein Haustier.",
+        "友好的な犬はペットだ。",
+        "友好的狗是宠物。"
+      ]
+    },
+    {
+      "word": "friendship",
+      "filename": "friendship.md",
+      "lines": [
+        "Friendship is a relationship.",
+        "Eine Freundschaft ist eine Beziehung.",
+        "友情は関係だ。",
+        "友谊是关系。"
+      ]
+    },
+    {
+      "word": "frightening",
+      "filename": "frightening.md",
+      "lines": [
+        "A frightening movie is entertainment.",
+        "Ein erschreckender Film ist Unterhaltung.",
+        "怖い映画は娯楽だ。",
+        "可怕的电影是娱乐。"
+      ]
+    },
+    {
+      "word": "fringing",
+      "filename": "fringing.md",
+      "lines": [
+        "Fringing is a technique.",
+        "Eine Fransenarbeit ist eine Technik.",
+        "フリンジ加工は技法だ。",
+        "流苏装饰是技术。"
+      ]
+    },
+    {
+      "word": "frog",
+      "filename": "frog.md",
+      "lines": [
+        "A frog is an amphibian.",
+        "Ein Frosch ist ein Amphibium.",
+        "カエルは両生類だ。",
+        "青蛙是两栖动物。"
+      ]
+    },
+    {
+      "word": "frog_3",
+      "filename": "frog_3.md",
+      "lines": [
+        "A frog_3 is an amphibian.",
+        "Ein Frosch_3 ist ein Amphibium.",
+        "カエル3は両生類だ。",
+        "青蛙3是两栖动物。"
+      ]
+    },
+    {
+      "word": "front",
+      "filename": "front.md",
+      "lines": [
+        "A front is a position.",
+        "Eine Front ist eine Position.",
+        "正面は位置だ。",
+        "正面是位置。"
+      ]
+    }
+  ],
+  "problems": []
+}

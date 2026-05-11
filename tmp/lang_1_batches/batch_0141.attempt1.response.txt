@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "earthy",
+      "filename": "earthy.md",
+      "lines": [
+        "An earthy smell is a smell.",
+        "Ein erdiger Geruch ist ein Geruch.",
+        "土っぽい匂いは匂いだ。",
+        "一种土味的气味是气味。"
+      ]
+    },
+    {
+      "word": "easier",
+      "filename": "easier.md",
+      "lines": [
+        "An easier test is a test.",
+        "Ein einfacherer Test ist ein Test.",
+        "より簡単なテストはテストだ。",
+        "一个更简单的测试是测试。"
+      ]
+    },
+    {
+      "word": "easing",
+      "filename": "easing.md",
+      "lines": [
+        "Easing is a reduction.",
+        "Das Erleichtern ist eine Reduzierung.",
+        "和らげることは軽減だ。",
+        "缓解是一种减少。"
+      ]
+    },
+    {
+      "word": "east",
+      "filename": "east.md",
+      "lines": [
+        "East is a direction.",
+        "Osten ist eine Himmelsrichtung.",
+        "東は方角だ。",
+        "东是一个方向。"
+      ]
+    },
+    {
+      "word": "easy",
+      "filename": "easy.md",
+      "lines": [
+        "An easy problem is a problem.",
+        "Ein einfaches Problem ist ein Problem.",
+        "簡単な問題は問題だ。",
+        "一个简单的问题是问题。"
+      ]
+    },
+    {
+      "word": "eating",
+      "filename": "eating.md",
+      "lines": [
+        "Eating is consumption.",
+        "Essen ist Konsum.",
+        "食べることは消費だ。",
+        "吃是一种消费。"
+      ]
+    },
+    {
+      "word": "echo",
+      "filename": "echo.md",
+      "lines": [
+        "An echo is a sound.",
+        "Ein Echo ist ein Klang.",
+        "こだまは音だ。",
+        "回声是一种声音。"
+      ]
+    },
+    {
+      "word": "echolocation",
+      "filename": "echolocation.md",
+      "lines": [
+        "Echolocation is a method.",
+        "Echoortung ist eine Methode.",
+        "反響定位は方法だ。",
+        "回声定位是一种方法。"
+      ]
+    },
+    {
+      "word": "eclipsing",
+      "filename": "eclipsing.md",
+      "lines": [
+        "Eclipsing is a phenomenon.",
+        "Das Verfinstern ist ein Phänomen.",
+        "覆い隠すことは現象だ。",
+        "遮挡是一种现象。"
+      ]
+    },
+    {
+      "word": "ecologist",
+      "filename": "ecologist.md",
+      "lines": [
+        "An ecologist is a scientist.",
+        "Ein Ökologe ist ein Wissenschaftler.",
+        "生態学者は科学者だ。",
+        "生态学家是科学家。"
+      ]
+    }
+  ],
+  "problems": []
+}

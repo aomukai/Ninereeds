@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "espying",
+      "filename": "espying.md",
+      "lines": [
+        "Espying is seeing.",
+        "Spähen ist Sehen.",
+        "見つけることは見ることだ。",
+        "发现是看见。"
+      ]
+    },
+    {
+      "word": "essence",
+      "filename": "essence.md",
+      "lines": [
+        "Essence is a quality.",
+        "Essenz ist eine Eigenschaft.",
+        "本質は性質だ。",
+        "本质是一种性质。"
+      ]
+    },
+    {
+      "word": "essential",
+      "filename": "essential.md",
+      "lines": [
+        "An essential tool is a tool.",
+        "Ein wesentliches Werkzeug ist ein Werkzeug.",
+        "必須の道具は道具だ。",
+        "必要的工具是工具。"
+      ]
+    },
+    {
+      "word": "establishing",
+      "filename": "establishing.md",
+      "lines": [
+        "Establishing is founding.",
+        "Gründen ist Gründen.",
+        "設立することは創設だ。",
+        "建立是创立。"
+      ]
+    },
+    {
+      "word": "estimate",
+      "filename": "estimate.md",
+      "lines": [
+        "An estimate is a calculation.",
+        "Eine Schätzung ist eine Berechnung.",
+        "見積もりは計算だ。",
+        "估算是计算。"
+      ]
+    },
+    {
+      "word": "estimating",
+      "filename": "estimating.md",
+      "lines": [
+        "Estimating is calculating.",
+        "Schätzen ist Berechnen.",
+        "見積もることは計算することだ。",
+        "估算是计算。"
+      ]
+    },
+    {
+      "word": "etching",
+      "filename": "etching.md",
+      "lines": [
+        "Etching is engraving.",
+        "Ätzen ist Gravieren.",
+        "エッチングは彫刻だ。",
+        "蚀刻是雕刻。"
+      ]
+    },
+    {
+      "word": "eternal",
+      "filename": "eternal.md",
+      "lines": [
+        "An eternal flame is a flame.",
+        "Eine ewige Flamme ist eine Flamme.",
+        "永遠の炎は炎だ。",
+        "永恒的火焰是火焰。"
+      ]
+    },
+    {
+      "word": "ethical",
+      "filename": "ethical.md",
+      "lines": [
+        "An ethical choice is a choice.",
+        "Eine ethische Wahl ist eine Wahl.",
+        "倫理的な選択は選択だ。",
+        "道德的选择是选择。"
+      ]
+    },
+    {
+      "word": "ethics",
+      "filename": "ethics.md",
+      "lines": [
+        "Ethics is a philosophy.",
+        "Ethik ist eine Philosophie.",
+        "倫理は哲学だ。",
+        "伦理学是哲学。"
+      ]
+    }
+  ],
+  "problems": []
+}

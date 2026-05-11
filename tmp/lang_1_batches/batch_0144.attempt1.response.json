@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439905-6N7riNovwG3hfS1a9yDK",
+  "object": "chat.completion",
+  "created": 1778439905,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"electricity\",\n      \"filename\": \"electricity.md\",\n      \"lines\": [\n        \"Electricity is a form of energy.\",\n        \"Elektrizität ist eine Form von Energie.\",\n        \"電気はエネルギーの一種だ。\",\n        \"电是一种能量形式。\"\n      ]\n    },\n    {\n      \"word\": \"electron\",\n      \"filename\": \"electron.md\",\n      \"lines\": [\n        \"An electron is a particle.\",\n        \"Ein Elektron ist ein Teilchen.\",\n        \"電子は粒子だ。\",\n        \"电子是一种粒子。\"\n      ]\n    },\n    {\n      \"word\": \"elegance\",\n      \"filename\": \"elegance.md\",\n      \"lines\": [\n        \"Elegance is a quality.\",\n        \"Eleganz ist eine Eigenschaft.\",\n        \"優雅さは性質だ。\",\n        \"优雅是一种品质。\"\n      ]\n    },\n    {\n      \"word\": \"element\",\n      \"filename\": \"element.md\",\n      \"lines\": [\n        \"An element is a substance.\",\n        \"Ein Element ist ein Stoff.\",\n        \"元素は物質だ。\",\n        \"元素是一种物质。\"\n      ]\n    },\n    {\n      \"word\": \"elephant\",\n      \"filename\": \"elephant.md\",\n      \"lines\": [\n        \"An elephant is an animal.\",\n        \"Ein Elefant ist ein Tier.\",\n        \"象は動物だ。\",\n        \"大象是动物。\"\n      ]\n    },\n    {\n      \"word\": \"elevator\",\n      \"filename\": \"elevator.md\",\n      \"lines\": [\n        \"An elevator is a machine.\",\n        \"Ein Aufzug ist eine Maschine.\",\n        \"エレベーターは機械だ。\",\n        \"电梯是一种机器。\"\n      ]\n    },\n    {\n      \"word\": \"elf\",\n      \"filename\": \"elf.md\",\n      \"lines\": [\n        \"An elf is a creature.\",\n        \"Ein Elf ist ein Wesen.\",\n        \"エルフは生き物だ。\",\n        \"精灵是一种生物。\"\n      ]\n    },\n    {\n      \"word\": \"eliciting\",\n      \"filename\": \"eliciting.md\",\n      \"lines\": [\n        \"Eliciting is a response.\",\n        \"Hervorrufen ist eine Reaktion.\",\n        \"引き出すことは反応だ。\",\n        \"引发是一种反应。\"\n      ]\n    },\n    {\n      \"word\": \"eliminating\",\n      \"filename\": \"eliminating.md\",\n      \"lines\": [\n        \"Eliminating is removal.\",\n        \"Beseitigen ist Entfernung.\",\n        \"排除することは除去だ。\",\n        \"消除是移除。\"\n      ]\n    },\n    {\n      \"word\": \"elk\",\n      \"filename\": \"elk.md\",\n      \"lines\": [\n        \"An elk is an animal.\",\n        \"Ein Elch ist ein Tier.\",\n        \"ヘラジカは動物だ。\",\n        \"麋鹿是动物。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 722,
+    "completion_tokens": 645,
+    "total_tokens": 1367,
+    "cost": 0.0002788632,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028168,
+      "upstream_inference_prompt_cost": 0.00010108,
+      "upstream_inference_completions_cost": 0.0001806
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

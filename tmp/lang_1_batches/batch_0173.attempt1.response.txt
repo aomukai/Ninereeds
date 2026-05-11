@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "float",
+      "filename": "float.md",
+      "lines": [
+        "A float is a data type.",
+        "Ein Float ist ein Datentyp.",
+        "floatはデータ型だ。",
+        "浮点数是数据类型。"
+      ]
+    },
+    {
+      "word": "flock",
+      "filename": "flock.md",
+      "lines": [
+        "A flock is a group of birds.",
+        "Eine Herde ist eine Gruppe von Vögeln.",
+        "群れは鳥の集まりだ。",
+        "鸟群是一群鸟。"
+      ]
+    },
+    {
+      "word": "flood",
+      "filename": "flood.md",
+      "lines": [
+        "A flood is a natural disaster.",
+        "Eine Überschwemmung ist eine Naturkatastrophe.",
+        "洪水は自然災害だ。",
+        "洪水是自然灾害。"
+      ]
+    },
+    {
+      "word": "floor",
+      "filename": "floor.md",
+      "lines": [
+        "A floor is a surface.",
+        "Ein Boden ist eine Oberfläche.",
+        "床は表面だ。",
+        "地板是表面。"
+      ]
+    },
+    {
+      "word": "flop",
+      "filename": "flop.md",
+      "lines": [
+        "Flopping is failure.",
+        "Scheitern ist ein Misserfolg.",
+        "失敗することは失敗だ。",
+        "失败是失败。"
+      ]
+    },
+    {
+      "word": "flopping",
+      "filename": "flopping.md",
+      "lines": [
+        "Flopping is falling.",
+        "Hinfallen ist ein Fallen.",
+        "ばたんと倒れることは落下だ。",
+        "扑倒是跌倒。"
+      ]
+    },
+    {
+      "word": "flour",
+      "filename": "flour.md",
+      "lines": [
+        "Flour is an ingredient.",
+        "Mehl ist eine Zutat.",
+        "小麦粉は材料だ。",
+        "面粉是食材。"
+      ]
+    },
+    {
+      "word": "flourish",
+      "filename": "flourish.md",
+      "lines": [
+        "Flourishing is growth.",
+        "Gedeihen ist Wachstum.",
+        "繁栄することは成長だ。",
+        "繁荣是成长。"
+      ]
+    },
+    {
+      "word": "flow",
+      "filename": "flow.md",
+      "lines": [
+        "Flowing is movement.",
+        "Fließen ist Bewegung.",
+        "流れることは移動だ。",
+        "流动是移动。"
+      ]
+    },
+    {
+      "word": "flower",
+      "filename": "flower.md",
+      "lines": [
+        "A flower is a plant.",
+        "Eine Blume ist eine Pflanze.",
+        "花は植物だ。",
+        "花是植物。"
+      ]
+    }
+  ],
+  "problems": []
+}

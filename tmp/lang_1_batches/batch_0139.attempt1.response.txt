@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "dump",
+      "filename": "dump.md",
+      "lines": [
+        "Dumping is an action.",
+        "Entsorgen ist eine Handlung.",
+        "捨てることは行動だ。",
+        "丢弃是一种行动。"
+      ]
+    },
+    {
+      "word": "duplicate",
+      "filename": "duplicate.md",
+      "lines": [
+        "A duplicate is a copy.",
+        "Ein Duplikat ist eine Kopie.",
+        "複製はコピーだ。",
+        "副本是复制品。"
+      ]
+    },
+    {
+      "word": "duplicating",
+      "filename": "duplicating.md",
+      "lines": [
+        "Duplicating is copying.",
+        "Vervielfältigen ist Kopieren.",
+        "複製することはコピーすることだ。",
+        "复制是复制。"
+      ]
+    },
+    {
+      "word": "duration",
+      "filename": "duration.md",
+      "lines": [
+        "Duration is time.",
+        "Dauer ist Zeit.",
+        "持続時間は時間だ。",
+        "持续时间是时间。"
+      ]
+    },
+    {
+      "word": "dust",
+      "filename": "dust.md",
+      "lines": [
+        "Dust is a substance.",
+        "Staub ist eine Substanz.",
+        "ほこりは物質だ。",
+        "灰尘是一种物质。"
+      ]
+    },
+    {
+      "word": "dustpan",
+      "filename": "dustpan.md",
+      "lines": [
+        "A dustpan is a tool.",
+        "Eine Kehrschaufel ist ein Werkzeug.",
+        "ちりとりは道具だ。",
+        "簸箕是一种工具。"
+      ]
+    },
+    {
+      "word": "dusty",
+      "filename": "dusty.md",
+      "lines": [
+        "A dusty car is a vehicle.",
+        "Ein staubiges Auto ist ein Fahrzeug.",
+        "ほこりっぽい車は乗り物だ。",
+        "布满灰尘的汽车是车辆。"
+      ]
+    },
+    {
+      "word": "duty",
+      "filename": "duty.md",
+      "lines": [
+        "Duty is a task.",
+        "Pflicht ist eine Aufgabe.",
+        "義務は任務だ。",
+        "职责是任务。"
+      ]
+    },
+    {
+      "word": "dynamic",
+      "filename": "dynamic.md",
+      "lines": [
+        "A dynamic leader is a person.",
+        "Ein dynamischer Leiter ist eine Person.",
+        "活力のあるリーダーは人だ。",
+        "充满活力的领导是一个人。"
+      ]
+    },
+    {
+      "word": "eager",
+      "filename": "eager.md",
+      "lines": [
+        "An eager dog is an animal.",
+        "Ein eifriger Hund ist ein Tier.",
+        "熱心な犬は動物だ。",
+        "热切的狗是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

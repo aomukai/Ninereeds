@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "drawing",
+      "filename": "drawing.md",
+      "lines": [
+        "A drawing is an image.",
+        "Eine Zeichnung ist ein Bild.",
+        "絵はイメージだ。",
+        "画是图像。"
+      ]
+    },
+    {
+      "word": "dream",
+      "filename": "dream.md",
+      "lines": [
+        "A dream is an experience.",
+        "Ein Traum ist eine Erfahrung.",
+        "夢は体験だ。",
+        "梦是经历。"
+      ]
+    },
+    {
+      "word": "dress",
+      "filename": "dress.md",
+      "lines": [
+        "A dress is a garment.",
+        "Ein Kleid ist ein Kleidungsstück.",
+        "ドレスは衣服だ。",
+        "连衣裙是服装。"
+      ]
+    },
+    {
+      "word": "dresser",
+      "filename": "dresser.md",
+      "lines": [
+        "A dresser is furniture.",
+        "Eine Kommode ist ein Möbelstück.",
+        "ドレッサーは家具だ。",
+        "梳妆台是家具。"
+      ]
+    },
+    {
+      "word": "dribbling",
+      "filename": "dribbling.md",
+      "lines": [
+        "Dribbling is a skill.",
+        "Dribbeln ist eine Fähigkeit.",
+        "ドリブルは技術だ。",
+        "运球是技术。"
+      ]
+    },
+    {
+      "word": "dried",
+      "filename": "dried.md",
+      "lines": [
+        "A dried apple is a fruit.",
+        "Ein getrockneter Apfel ist eine Frucht.",
+        "干したりんごは果物だ。",
+        "干苹果是水果。"
+      ]
+    },
+    {
+      "word": "drift",
+      "filename": "drift.md",
+      "lines": [
+        "A drift is a pile.",
+        "Eine Wehe ist ein Haufen.",
+        "吹きだまりは山だ。",
+        "雪堆是堆。"
+      ]
+    },
+    {
+      "word": "driftwood",
+      "filename": "driftwood.md",
+      "lines": [
+        "Driftwood is wood.",
+        "Treibholz ist Holz.",
+        "流木は木材だ。",
+        "漂流木是木头。"
+      ]
+    },
+    {
+      "word": "drill",
+      "filename": "drill.md",
+      "lines": [
+        "A drill is a tool.",
+        "Ein Bohrer ist ein Werkzeug.",
+        "ドリルは道具だ。",
+        "钻是工具。"
+      ]
+    },
+    {
+      "word": "drink",
+      "filename": "drink.md",
+      "lines": [
+        "A drink is a liquid.",
+        "Ein Getränk ist eine Flüssigkeit.",
+        "飲み物は液体だ。",
+        "饮料是液体。"
+      ]
+    }
+  ],
+  "problems": []
+}

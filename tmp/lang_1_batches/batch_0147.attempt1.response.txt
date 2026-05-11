@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "enabling",
+      "filename": "enabling.md",
+      "lines": [
+        "Enabling is supporting.",
+        "Ermöglichen ist Unterstützen.",
+        "可能にすることは支援だ。",
+        "使能就是支持。"
+      ]
+    },
+    {
+      "word": "encircling",
+      "filename": "encircling.md",
+      "lines": [
+        "Encircling is surrounding.",
+        "Einkreisen ist Umgeben.",
+        "取り囲むことは包囲だ。",
+        "包围就是环绕。"
+      ]
+    },
+    {
+      "word": "enclosing",
+      "filename": "enclosing.md",
+      "lines": [
+        "Enclosing is containing.",
+        "Einschließen ist Enthalten.",
+        "封入することは包含だ。",
+        "封闭就是包含。"
+      ]
+    },
+    {
+      "word": "encompassing",
+      "filename": "encompassing.md",
+      "lines": [
+        "Encompassing is including.",
+        "Umfassen ist Einschließen.",
+        "包括することは包含だ。",
+        "涵盖就是包括。"
+      ]
+    },
+    {
+      "word": "encounter",
+      "filename": "encounter.md",
+      "lines": [
+        "An encounter is a meeting.",
+        "Eine Begegnung ist ein Treffen.",
+        "出会いは会合だ。",
+        "相遇是会面。"
+      ]
+    },
+    {
+      "word": "encouraging",
+      "filename": "encouraging.md",
+      "lines": [
+        "Encouraging is motivating.",
+        "Ermutigen ist Motivieren.",
+        "励ますことは動機づけだ。",
+        "鼓励就是激励。"
+      ]
+    },
+    {
+      "word": "end",
+      "filename": "end.md",
+      "lines": [
+        "An end is a conclusion.",
+        "Ein Ende ist ein Abschluss.",
+        "終わりは結論だ。",
+        "结束是结论。"
+      ]
+    },
+    {
+      "word": "endorsing",
+      "filename": "endorsing.md",
+      "lines": [
+        "Endorsing is approving.",
+        "Befürworten ist Zustimmen.",
+        "支持することは承認だ。",
+        "背书就是认可。"
+      ]
+    },
+    {
+      "word": "enemy",
+      "filename": "enemy.md",
+      "lines": [
+        "An enemy is an opponent.",
+        "Ein Feind ist ein Gegner.",
+        "敵は対戦相手だ。",
+        "敌人是对手。"
+      ]
+    },
+    {
+      "word": "energy",
+      "filename": "energy.md",
+      "lines": [
+        "Energy is power.",
+        "Energie ist Kraft.",
+        "エネルギーは力だ。",
+        "能量是力量。"
+      ]
+    }
+  ],
+  "problems": []
+}

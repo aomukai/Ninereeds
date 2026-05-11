@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "eagle",
+      "filename": "eagle.md",
+      "lines": [
+        "An eagle is a bird.",
+        "Ein Adler ist ein Vogel.",
+        "鷲は鳥だ。",
+        "鹰是鸟。"
+      ]
+    },
+    {
+      "word": "ear",
+      "filename": "ear.md",
+      "lines": [
+        "An ear is a body part.",
+        "Ein Ohr ist ein Körperteil.",
+        "耳は体の一部だ。",
+        "耳朵是身体的一部分。"
+      ]
+    },
+    {
+      "word": "earlier",
+      "filename": "earlier.md",
+      "lines": [
+        "An earlier time is a time.",
+        "Eine frühere Zeit ist eine Zeit.",
+        "早い時間は時間だ。",
+        "更早的时间是时间。"
+      ]
+    },
+    {
+      "word": "earlobe",
+      "filename": "earlobe.md",
+      "lines": [
+        "An earlobe is a body part.",
+        "Ein Ohrläppchen ist ein Körperteil.",
+        "耳たぶは体の一部だ。",
+        "耳垂是身体的一部分。"
+      ]
+    },
+    {
+      "word": "early",
+      "filename": "early.md",
+      "lines": [
+        "An early morning is a time.",
+        "Ein früher Morgen ist eine Zeit.",
+        "早い朝は時間だ。",
+        "清晨是时间。"
+      ]
+    },
+    {
+      "word": "earned",
+      "filename": "earned.md",
+      "lines": [
+        "Earned money is income.",
+        "Verdientes Geld ist Einkommen.",
+        "稼いだお金は収入だ。",
+        "赚到的钱是收入。"
+      ]
+    },
+    {
+      "word": "earning",
+      "filename": "earning.md",
+      "lines": [
+        "Earning is work.",
+        "Verdienen ist Arbeit.",
+        "稼ぐことは仕事だ。",
+        "赚钱是工作。"
+      ]
+    },
+    {
+      "word": "earring",
+      "filename": "earring.md",
+      "lines": [
+        "An earring is jewelry.",
+        "Ein Ohrring ist Schmuck.",
+        "イヤリングは宝石だ。",
+        "耳环是珠宝。"
+      ]
+    },
+    {
+      "word": "earth",
+      "filename": "earth.md",
+      "lines": [
+        "Earth is a planet.",
+        "Die Erde ist ein Planet.",
+        "地球は惑星だ。",
+        "地球是行星。"
+      ]
+    },
+    {
+      "word": "earthworm",
+      "filename": "earthworm.md",
+      "lines": [
+        "An earthworm is an animal.",
+        "Ein Regenwurm ist ein Tier.",
+        "ミミズは動物だ。",
+        "蚯蚓是动物。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "development",
+      "filename": "development.md",
+      "lines": [
+        "Development is a process.",
+        "Entwicklung ist ein Prozess.",
+        "開発はプロセスだ。",
+        "发展是一个过程。"
+      ]
+    },
+    {
+      "word": "device",
+      "filename": "device.md",
+      "lines": [
+        "A device is a tool.",
+        "Ein Gerät ist ein Werkzeug.",
+        "装置は道具だ。",
+        "设备是一种工具。"
+      ]
+    },
+    {
+      "word": "devouring",
+      "filename": "devouring.md",
+      "lines": [
+        "Devouring is eating.",
+        "Verschlingen ist Essen.",
+        "むさぼり食うことは食べることだ。",
+        "狼吞虎咽是吃。"
+      ]
+    },
+    {
+      "word": "dew",
+      "filename": "dew.md",
+      "lines": [
+        "Dew is water.",
+        "Tau ist Wasser.",
+        "露は水だ。",
+        "露水是水。"
+      ]
+    },
+    {
+      "word": "diagnosis",
+      "filename": "diagnosis.md",
+      "lines": [
+        "A diagnosis is an assessment.",
+        "Eine Diagnose ist eine Beurteilung.",
+        "診断は評価だ。",
+        "诊断是一种评估。"
+      ]
+    },
+    {
+      "word": "diagram",
+      "filename": "diagram.md",
+      "lines": [
+        "A diagram is a drawing.",
+        "Ein Diagramm ist eine Zeichnung.",
+        "図表は図面だ。",
+        "图表是一种图画。"
+      ]
+    },
+    {
+      "word": "dialogue",
+      "filename": "dialogue.md",
+      "lines": [
+        "A dialogue is a conversation.",
+        "Ein Dialog ist ein Gespräch.",
+        "対話は会話だ。",
+        "对话是一种交谈。"
+      ]
+    },
+    {
+      "word": "diamond",
+      "filename": "diamond.md",
+      "lines": [
+        "A diamond is a gem.",
+        "Ein Diamant ist ein Edelstein.",
+        "ダイヤモンドは宝石だ。",
+        "钻石是一种宝石。"
+      ]
+    },
+    {
+      "word": "diaper",
+      "filename": "diaper.md",
+      "lines": [
+        "A diaper is clothing.",
+        "Eine Windel ist Kleidung.",
+        "おむつは衣類だ。",
+        "尿布是衣物。"
+      ]
+    },
+    {
+      "word": "diarrhea",
+      "filename": "diarrhea.md",
+      "lines": [
+        "Diarrhea is a symptom.",
+        "Durchfall ist ein Symptom.",
+        "下痢は症状だ。",
+        "腹泻是一种症状。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "entry-level",
+      "filename": "entry-level.md",
+      "lines": [
+        "An entry-level job is a position.",
+        "Ein Einstiegsjob ist eine Position.",
+        "エントリーレベルの仕事はポジションだ。",
+        "入门级的工作是职位。"
+      ]
+    },
+    {
+      "word": "entryway",
+      "filename": "entryway.md",
+      "lines": [
+        "An entryway is a passage.",
+        "Ein Eingang ist ein Durchgang.",
+        "玄関は通路だ。",
+        "入口是通道。"
+      ]
+    },
+    {
+      "word": "enumerate",
+      "filename": "enumerate.md",
+      "lines": [
+        "Enumerating is listing.",
+        "Aufzählen ist Auflisten.",
+        "列挙することはリスト化だ。",
+        "枚举是列出。"
+      ]
+    },
+    {
+      "word": "enumerating",
+      "filename": "enumerating.md",
+      "lines": [
+        "Enumerating is counting.",
+        "Aufzählen ist Zählen.",
+        "列挙することは数えることだ。",
+        "枚举是计数。"
+      ]
+    },
+    {
+      "word": "envelope",
+      "filename": "envelope.md",
+      "lines": [
+        "An envelope is a covering.",
+        "Ein Umschlag ist eine Hülle.",
+        "封筒はカバーだ。",
+        "信封是封皮。"
+      ]
+    },
+    {
+      "word": "environment",
+      "filename": "environment.md",
+      "lines": [
+        "An environment is a system.",
+        "Eine Umgebung ist ein System.",
+        "環境はシステムだ。",
+        "环境是系统。"
+      ]
+    },
+    {
+      "word": "equal",
+      "filename": "equal.md",
+      "lines": [
+        "An equal sign is a symbol.",
+        "Ein Gleichheitszeichen ist ein Symbol.",
+        "等号は記号だ。",
+        "等号是符号。"
+      ]
+    },
+    {
+      "word": "equality",
+      "filename": "equality.md",
+      "lines": [
+        "Equality is a state.",
+        "Gleichheit ist ein Zustand.",
+        "平等は状態だ。",
+        "平等是状态。"
+      ]
+    },
+    {
+      "word": "equipment",
+      "filename": "equipment.md",
+      "lines": [
+        "Equipment is gear.",
+        "Ausrüstung ist Ausstattung.",
+        "装備はギアだ。",
+        "设备是装备。"
+      ]
+    },
+    {
+      "word": "equipping",
+      "filename": "equipping.md",
+      "lines": [
+        "Equipping is preparing.",
+        "Ausstatten ist Vorbereiten.",
+        "装備することは準備だ。",
+        "装备是准备。"
+      ]
+    }
+  ],
+  "problems": []
+}

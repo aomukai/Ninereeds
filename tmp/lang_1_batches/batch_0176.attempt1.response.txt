@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "foot",
+      "filename": "foot.md",
+      "lines": [
+        "A foot is a body part.",
+        "Ein Fuß ist ein Körperteil.",
+        "足は体の一部だ。",
+        "脚是身体的一部分。"
+      ]
+    },
+    {
+      "word": "footboard",
+      "filename": "footboard.md",
+      "lines": [
+        "A footboard is a board.",
+        "Ein Fußbrett ist ein Brett.",
+        "フットボードは板だ。",
+        "脚板是板子。"
+      ]
+    },
+    {
+      "word": "footprint",
+      "filename": "footprint.md",
+      "lines": [
+        "A footprint is a mark.",
+        "Ein Fußabdruck ist ein Abdruck.",
+        "足跡は印だ。",
+        "脚印是印记。"
+      ]
+    },
+    {
+      "word": "footrest",
+      "filename": "footrest.md",
+      "lines": [
+        "A footrest is a support.",
+        "Eine Fußstütze ist eine Stütze.",
+        "フットレストは支えだ。",
+        "脚凳是支撑物。"
+      ]
+    },
+    {
+      "word": "footstep",
+      "filename": "footstep.md",
+      "lines": [
+        "A footstep is a sound.",
+        "Ein Fußschritt ist ein Geräusch.",
+        "足音は音だ。",
+        "脚步声是声音。"
+      ]
+    },
+    {
+      "word": "force",
+      "filename": "force.md",
+      "lines": [
+        "Force is power.",
+        "Kraft ist Stärke.",
+        "力は強さだ。",
+        "力是力量。"
+      ]
+    },
+    {
+      "word": "forecaster",
+      "filename": "forecaster.md",
+      "lines": [
+        "A forecaster is a person.",
+        "Ein Prognostiker ist eine Person.",
+        "予報士は人だ。",
+        "预报员是人。"
+      ]
+    },
+    {
+      "word": "forecasting",
+      "filename": "forecasting.md",
+      "lines": [
+        "Forecasting is prediction.",
+        "Vorhersagen ist Prognose.",
+        "予測は予想だ。",
+        "预报是预测。"
+      ]
+    },
+    {
+      "word": "forehead",
+      "filename": "forehead.md",
+      "lines": [
+        "A forehead is a part of the face.",
+        "Eine Stirn ist ein Teil des Gesichts.",
+        "額は顔の一部だ。",
+        "额头是脸的一部分。"
+      ]
+    },
+    {
+      "word": "foreseeing",
+      "filename": "foreseeing.md",
+      "lines": [
+        "Foreseeing is anticipation.",
+        "Vorhersehen ist Voraussicht.",
+        "予見は先見だ。",
+        "预见是预知。"
+      ]
+    }
+  ],
+  "problems": []
+}

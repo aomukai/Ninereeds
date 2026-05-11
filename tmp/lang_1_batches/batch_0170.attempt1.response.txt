@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fisher",
+      "filename": "fisher.md",
+      "lines": [
+        "A fisher is a person.",
+        "Ein Fischer ist eine Person.",
+        "漁師は人だ。",
+        "渔夫是人。"
+      ]
+    },
+    {
+      "word": "fishpond",
+      "filename": "fishpond.md",
+      "lines": [
+        "A fishpond is a pond.",
+        "Ein Fischteich ist ein Teich.",
+        "魚池は池だ。",
+        "鱼池是池塘。"
+      ]
+    },
+    {
+      "word": "fist",
+      "filename": "fist.md",
+      "lines": [
+        "A fist is a hand.",
+        "Eine Faust ist eine Hand.",
+        "拳は手だ。",
+        "拳头是手。"
+      ]
+    },
+    {
+      "word": "fit",
+      "filename": "fit.md",
+      "lines": [
+        "A fit athlete is a person.",
+        "Ein fitter Athlet ist eine Person.",
+        "健康なアスリートは人だ。",
+        "一个健康的运动员是一个人。"
+      ]
+    },
+    {
+      "word": "fitting",
+      "filename": "fitting.md",
+      "lines": [
+        "A fitting is a part.",
+        "Ein Fitting ist ein Teil.",
+        "継手は部品だ。",
+        "接头是零件。"
+      ]
+    },
+    {
+      "word": "fix",
+      "filename": "fix.md",
+      "lines": [
+        "Fixing is an action.",
+        "Reparieren ist eine Handlung.",
+        "直すことは行動だ。",
+        "修理是行动。"
+      ]
+    },
+    {
+      "word": "fixture",
+      "filename": "fixture.md",
+      "lines": [
+        "A fixture is an object.",
+        "Eine Vorrichtung ist ein Gegenstand.",
+        "固定装置は物体だ。",
+        "固定装置是物体。"
+      ]
+    },
+    {
+      "word": "flag",
+      "filename": "flag.md",
+      "lines": [
+        "A flag is a cloth.",
+        "Eine Flagge ist ein Tuch.",
+        "旗は布だ。",
+        "旗子是布。"
+      ]
+    },
+    {
+      "word": "flake",
+      "filename": "flake.md",
+      "lines": [
+        "A flake is a fragment.",
+        "Eine Flocke ist ein Fragment.",
+        "薄片は断片だ。",
+        "薄片是碎片。"
+      ]
+    },
+    {
+      "word": "flake of snow",
+      "filename": "flake_of_snow.md",
+      "lines": [
+        "A flake of snow is a snow crystal.",
+        "Eine Schneeflocke ist ein Schneekristall.",
+        "雪の一片は雪の結晶だ。",
+        "一片雪花是雪结晶。"
+      ]
+    }
+  ],
+  "problems": []
+}

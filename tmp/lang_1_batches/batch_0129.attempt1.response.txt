@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "disclosing",
+      "filename": "disclosing.md",
+      "lines": [
+        "Disclosing is revealing information.",
+        "Offenlegen bedeutet, Informationen preiszugeben.",
+        "情報を開示することは、明らかにすることだ。",
+        "披露就是透露信息。"
+      ]
+    },
+    {
+      "word": "discomfort",
+      "filename": "discomfort.md",
+      "lines": [
+        "Discomfort is a feeling.",
+        "Unbehagen ist ein Gefühl.",
+        "不快感は感情だ。",
+        "不适是一种感觉。"
+      ]
+    },
+    {
+      "word": "disconfirm",
+      "filename": "disconfirm.md",
+      "lines": [
+        "Disconfirming is refuting a claim.",
+        "Widerlegen bedeutet, eine Behauptung zu entkräften.",
+        "反証することは、主張を否定することだ。",
+        "证伪就是反驳一个主张。"
+      ]
+    },
+    {
+      "word": "disconfirmation",
+      "filename": "disconfirmation.md",
+      "lines": [
+        "Disconfirmation is a refutation.",
+        "Widerlegung ist eine Zurückweisung.",
+        "反証は否定だ。",
+        "证伪是一种反驳。"
+      ]
+    },
+    {
+      "word": "discover",
+      "filename": "discover.md",
+      "lines": [
+        "Discovering is finding something new.",
+        "Entdecken bedeutet, etwas Neues zu finden.",
+        "発見することは、新しいものを見つけることだ。",
+        "发现就是找到新事物。"
+      ]
+    },
+    {
+      "word": "discovering",
+      "filename": "discovering.md",
+      "lines": [
+        "Discovering is finding something new.",
+        "Entdecken bedeutet, etwas Neues zu finden.",
+        "発見することは、新しいものを見つけることだ。",
+        "发现就是找到新事物。"
+      ]
+    },
+    {
+      "word": "discovery",
+      "filename": "discovery.md",
+      "lines": [
+        "A discovery is a finding.",
+        "Eine Entdeckung ist ein Fund.",
+        "発見は見つけ物だ。",
+        "发现是一种找到的东西。"
+      ]
+    },
+    {
+      "word": "discursive",
+      "filename": "discursive.md",
+      "lines": [
+        "A discursive essay is a text.",
+        "Ein diskursiver Aufsatz ist ein Text.",
+        "議論的なエッセイは文章だ。",
+        "散漫的文章是一种文本。"
+      ]
+    },
+    {
+      "word": "discussing",
+      "filename": "discussing.md",
+      "lines": [
+        "Discussing is talking about a topic.",
+        "Diskutieren bedeutet, über ein Thema zu sprechen.",
+        "議論することは、話題について話すことだ。",
+        "讨论就是谈论一个话题。"
+      ]
+    },
+    {
+      "word": "discussion",
+      "filename": "discussion.md",
+      "lines": [
+        "A discussion is a conversation.",
+        "Eine Diskussion ist ein Gespräch.",
+        "議論は会話だ。",
+        "讨论是一种对话。"
+      ]
+    }
+  ],
+  "problems": []
+}

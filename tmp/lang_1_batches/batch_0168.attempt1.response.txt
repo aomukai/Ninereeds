@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "filtering",
+      "filename": "filtering.md",
+      "lines": [
+        "Filtering is a process.",
+        "Filtern ist ein Prozess.",
+        "フィルタリングはプロセスだ。",
+        "过滤是一种过程。"
+      ]
+    },
+    {
+      "word": "fin",
+      "filename": "fin.md",
+      "lines": [
+        "A fin is a part of a fish.",
+        "Eine Flosse ist ein Teil eines Fisches.",
+        "ヒレは魚の一部だ。",
+        "鳍是鱼的一部分。"
+      ]
+    },
+    {
+      "word": "final",
+      "filename": "final.md",
+      "lines": [
+        "A final exam is a test.",
+        "Eine Abschlussprüfung ist ein Test.",
+        "最終試験はテストだ。",
+        "期末考试是测试。"
+      ]
+    },
+    {
+      "word": "find",
+      "filename": "find.md",
+      "lines": [
+        "Finding is discovery.",
+        "Finden ist Entdeckung.",
+        "見つけることは発見だ。",
+        "找到是发现。"
+      ]
+    },
+    {
+      "word": "finding",
+      "filename": "finding.md",
+      "lines": [
+        "A finding is a result.",
+        "Ein Befund ist ein Ergebnis.",
+        "発見は結果だ。",
+        "发现是结果。"
+      ]
+    },
+    {
+      "word": "finger",
+      "filename": "finger.md",
+      "lines": [
+        "A finger is a part of a hand.",
+        "Ein Finger ist ein Teil einer Hand.",
+        "指は手の一部だ。",
+        "手指是手的一部分。"
+      ]
+    },
+    {
+      "word": "fingernail",
+      "filename": "fingernail.md",
+      "lines": [
+        "A fingernail is a part of a finger.",
+        "Ein Fingernagel ist ein Teil eines Fingers.",
+        "爪は指の一部だ。",
+        "指甲是手指的一部分。"
+      ]
+    },
+    {
+      "word": "fingerprint",
+      "filename": "fingerprint.md",
+      "lines": [
+        "A fingerprint is a pattern.",
+        "Ein Fingerabdruck ist ein Muster.",
+        "指紋は模様だ。",
+        "指纹是一种图案。"
+      ]
+    },
+    {
+      "word": "fingertip",
+      "filename": "fingertip.md",
+      "lines": [
+        "A fingertip is a part of a finger.",
+        "Eine Fingerspitze ist ein Teil eines Fingers.",
+        "指先は指の一部だ。",
+        "指尖是手指的一部分。"
+      ]
+    },
+    {
+      "word": "finish",
+      "filename": "finish.md",
+      "lines": [
+        "Finishing is completion.",
+        "Beenden ist Vollendung.",
+        "終えることは完了だ。",
+        "完成是结束。"
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "dicing",
+      "filename": "dicing.md",
+      "lines": [
+        "Dicing is cutting.",
+        "Würfeln ist Schneiden.",
+        "さいの目切りは切断だ。",
+        "切丁是切割。"
+      ]
+    },
+    {
+      "word": "dictionary",
+      "filename": "dictionary.md",
+      "lines": [
+        "A dictionary is a book.",
+        "Ein Wörterbuch ist ein Buch.",
+        "辞書は本だ。",
+        "字典是书。"
+      ]
+    },
+    {
+      "word": "didn't",
+      "filename": "didn't.md",
+      "lines": [
+        "Didn't is a contraction.",
+        "Didn't ist eine Kontraktion.",
+        "ディドゥントは短縮形だ。",
+        "Didn't 是缩略词。"
+      ]
+    },
+    {
+      "word": "die",
+      "filename": "die.md",
+      "lines": [
+        "Dying is an event.",
+        "Sterben ist ein Ereignis.",
+        "死ぬことは出来事だ。",
+        "死亡是事件。"
+      ]
+    },
+    {
+      "word": "died",
+      "filename": "died.md",
+      "lines": [
+        "Having died is a state.",
+        "Gestorben sein ist ein Zustand.",
+        "死んだことは状態だ。",
+        "已死是状态。"
+      ]
+    },
+    {
+      "word": "difference",
+      "filename": "difference.md",
+      "lines": [
+        "A difference is a contrast.",
+        "Ein Unterschied ist ein Kontrast.",
+        "違いは対比だ。",
+        "差异是对比。"
+      ]
+    },
+    {
+      "word": "different",
+      "filename": "different.md",
+      "lines": [
+        "A different flower is a plant.",
+        "Eine andere Blume ist eine Pflanze.",
+        "違う花は植物だ。",
+        "不同的花是植物。"
+      ]
+    },
+    {
+      "word": "differentiating",
+      "filename": "differentiating.md",
+      "lines": [
+        "Differentiating is a process.",
+        "Differenzieren ist ein Prozess.",
+        "区別することは過程だ。",
+        "区分是过程。"
+      ]
+    },
+    {
+      "word": "differing",
+      "filename": "differing.md",
+      "lines": [
+        "Differing is variation.",
+        "Abweichen ist Variation.",
+        "異なることは変動だ。",
+        "相异是变化。"
+      ]
+    },
+    {
+      "word": "difficult",
+      "filename": "difficult.md",
+      "lines": [
+        "A difficult test is an exam.",
+        "Ein schwieriger Test ist eine Prüfung.",
+        "難しいテストは試験だ。",
+        "困难的测试是考试。"
+      ]
+    }
+  ],
+  "problems": []
+}

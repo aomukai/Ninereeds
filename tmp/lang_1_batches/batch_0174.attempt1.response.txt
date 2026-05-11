@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fluctuating",
+      "filename": "fluctuating.md",
+      "lines": [
+        "Fluctuating is changing.",
+        "Schwanken ist Veränderung.",
+        "変動することは変化だ。",
+        "波动就是变化。"
+      ]
+    },
+    {
+      "word": "fluffy",
+      "filename": "fluffy.md",
+      "lines": [
+        "A fluffy cat is a pet.",
+        "Eine flauschige Katze ist ein Haustier.",
+        "ふわふわした猫はペットだ。",
+        "毛茸茸的猫是宠物。"
+      ]
+    },
+    {
+      "word": "fluid",
+      "filename": "fluid.md",
+      "lines": [
+        "A fluid is a substance.",
+        "Eine Flüssigkeit ist ein Stoff.",
+        "流体は物質だ。",
+        "流体是一种物质。"
+      ]
+    },
+    {
+      "word": "flute",
+      "filename": "flute.md",
+      "lines": [
+        "A flute is an instrument.",
+        "Eine Flöte ist ein Instrument.",
+        "フルートは楽器だ。",
+        "长笛是一种乐器。"
+      ]
+    },
+    {
+      "word": "flutter",
+      "filename": "flutter.md",
+      "lines": [
+        "Fluttering is movement.",
+        "Flattern ist Bewegung.",
+        "ひらひらすることは動きだ。",
+        "飘动是运动。"
+      ]
+    },
+    {
+      "word": "fluttery",
+      "filename": "fluttery.md",
+      "lines": [
+        "A fluttery leaf is a leaf.",
+        "Ein flatterndes Blatt ist ein Blatt.",
+        "ひらひらする葉は葉だ。",
+        "飘动的叶子是叶子。"
+      ]
+    },
+    {
+      "word": "fly",
+      "filename": "fly.md",
+      "lines": [
+        "Flying is traveling.",
+        "Fliegen ist Reisen.",
+        "飛ぶことは移動だ。",
+        "飞行是旅行。"
+      ]
+    },
+    {
+      "word": "flying",
+      "filename": "flying.md",
+      "lines": [
+        "Flying is moving.",
+        "Fliegen ist Bewegung.",
+        "飛んでいることは動いていることだ。",
+        "飞行是移动。"
+      ]
+    },
+    {
+      "word": "foam",
+      "filename": "foam.md",
+      "lines": [
+        "Foam is a substance.",
+        "Schaum ist ein Stoff.",
+        "泡は物質だ。",
+        "泡沫是一种物质。"
+      ]
+    },
+    {
+      "word": "focus",
+      "filename": "focus.md",
+      "lines": [
+        "Focusing is concentrating.",
+        "Fokussieren ist Konzentrieren.",
+        "集中することは注意を向けることだ。",
+        "聚焦就是集中注意力。"
+      ]
+    }
+  ],
+  "problems": []
+}

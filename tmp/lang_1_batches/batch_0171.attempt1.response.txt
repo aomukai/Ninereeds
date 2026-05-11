@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "flame",
+      "filename": "flame.md",
+      "lines": [
+        "A flame is a fire.",
+        "Eine Flamme ist ein Feuer.",
+        "炎は火だ。",
+        "火焰是火。"
+      ]
+    },
+    {
+      "word": "flap",
+      "filename": "flap.md",
+      "lines": [
+        "A flap is a cover.",
+        "Eine Klappe ist eine Abdeckung.",
+        "フラップは覆いだ。",
+        "翻盖是盖子。"
+      ]
+    },
+    {
+      "word": "flash",
+      "filename": "flash.md",
+      "lines": [
+        "A flash is a light.",
+        "Ein Blitz ist ein Licht.",
+        "フラッシュは光だ。",
+        "闪光是光。"
+      ]
+    },
+    {
+      "word": "flashlight",
+      "filename": "flashlight.md",
+      "lines": [
+        "A flashlight is a device.",
+        "Eine Taschenlampe ist ein Gerät.",
+        "懐中電灯は装置だ。",
+        "手电筒是设备。"
+      ]
+    },
+    {
+      "word": "flat",
+      "filename": "flat.md",
+      "lines": [
+        "A flat surface is a plane.",
+        "Eine flache Oberfläche ist eine Ebene.",
+        "平らな表面は平面だ。",
+        "平坦的表面是平面。"
+      ]
+    },
+    {
+      "word": "flatbed",
+      "filename": "flatbed.md",
+      "lines": [
+        "A flatbed is a truck.",
+        "Ein Flatbed ist ein Lastwagen.",
+        "フラットベッドはトラックだ。",
+        "平板车是卡车。"
+      ]
+    },
+    {
+      "word": "flattening",
+      "filename": "flattening.md",
+      "lines": [
+        "Flattening is an action.",
+        "Das Flachmachen ist eine Handlung.",
+        "平らにすることは動作だ。",
+        "弄平是一种动作。"
+      ]
+    },
+    {
+      "word": "flavor",
+      "filename": "flavor.md",
+      "lines": [
+        "A flavor is a taste.",
+        "Ein Geschmack ist ein Aroma.",
+        "味は風味だ。",
+        "味道是风味。"
+      ]
+    },
+    {
+      "word": "flaw",
+      "filename": "flaw.md",
+      "lines": [
+        "A flaw is an imperfection.",
+        "Ein Makel ist eine Unvollkommenheit.",
+        "欠点は不完全さだ。",
+        "缺陷是不完美。"
+      ]
+    },
+    {
+      "word": "fleece",
+      "filename": "fleece.md",
+      "lines": [
+        "A fleece is a fabric.",
+        "Ein Fleece ist ein Stoff.",
+        "フリースは布地だ。",
+        "抓绒是一种布料。"
+      ]
+    }
+  ],
+  "problems": []
+}

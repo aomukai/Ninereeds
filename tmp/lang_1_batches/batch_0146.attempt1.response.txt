@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "emerging",
+      "filename": "emerging.md",
+      "lines": [
+        "Emerging is a phenomenon.",
+        "Entstehen ist ein Phänomen.",
+        "現れることは現象だ。",
+        "出现是现象。"
+      ]
+    },
+    {
+      "word": "emitting",
+      "filename": "emitting.md",
+      "lines": [
+        "Emitting is a process.",
+        "Aussenden ist ein Prozess.",
+        "放出することは過程だ。",
+        "释放是过程。"
+      ]
+    },
+    {
+      "word": "emotion",
+      "filename": "emotion.md",
+      "lines": [
+        "Emotion is a feeling.",
+        "Emotion ist ein Gefühl.",
+        "感情は気持ちだ。",
+        "情感是一种感觉。"
+      ]
+    },
+    {
+      "word": "emotional",
+      "filename": "emotional.md",
+      "lines": [
+        "An emotional song is music.",
+        "Ein emotionales Lied ist Musik.",
+        "感情的な歌は音楽だ。",
+        "情感丰富的歌是音乐。"
+      ]
+    },
+    {
+      "word": "empathy",
+      "filename": "empathy.md",
+      "lines": [
+        "Empathy is a social skill.",
+        "Empathie ist eine soziale Fähigkeit.",
+        "共感は社会的スキルだ。",
+        "共情是一种社交技能。"
+      ]
+    },
+    {
+      "word": "emphasis",
+      "filename": "emphasis.md",
+      "lines": [
+        "Emphasis is a rhetorical device.",
+        "Betonung ist ein rhetorisches Mittel.",
+        "強調は修辞技法だ。",
+        "强调是一种修辞手法。"
+      ]
+    },
+    {
+      "word": "employing",
+      "filename": "employing.md",
+      "lines": [
+        "Employing is a practice.",
+        "Einstellen ist eine Praxis.",
+        "雇うことは慣行だ。",
+        "雇佣是实践。"
+      ]
+    },
+    {
+      "word": "empowering",
+      "filename": "empowering.md",
+      "lines": [
+        "Empowering is a form of support.",
+        "Ermächtigen ist eine Form der Unterstützung.",
+        "力を与えることは支援だ。",
+        "赋能是支持。"
+      ]
+    },
+    {
+      "word": "empty",
+      "filename": "empty.md",
+      "lines": [
+        "An empty bottle is a container.",
+        "Eine leere Flasche ist ein Behälter.",
+        "空の瓶は容器だ。",
+        "空瓶子是容器。"
+      ]
+    },
+    {
+      "word": "emulating",
+      "filename": "emulating.md",
+      "lines": [
+        "Emulating is imitation.",
+        "Nachahmen ist eine Imitation.",
+        "模倣することは行動だ。",
+        "模仿是行动。"
+      ]
+    }
+  ],
+  "problems": []
+}

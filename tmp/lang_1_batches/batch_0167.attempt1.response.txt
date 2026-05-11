@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "word": "fight",
+      "filename": "fight.md",
+      "lines": [
+        "Fighting is conflict.",
+        "Kämpfen ist Konflikt.",
+        "戦うことは争いだ。",
+        "打架是冲突。"
+      ]
+    },
+    {
+      "word": "figure",
+      "filename": "figure.md",
+      "lines": [
+        "A figure is a shape.",
+        "Eine Figur ist eine Form.",
+        "図形は形だ。",
+        "图形是形状。"
+      ]
+    },
+    {
+      "word": "figured",
+      "filename": "figured.md",
+      "lines": [
+        "A figured fabric is a textile.",
+        "Ein gemusterter Stoff ist ein Textil.",
+        "模様のある布は織物だ。",
+        "有图案的布料是纺织品。"
+      ]
+    },
+    {
+      "word": "figuring",
+      "filename": "figuring.md",
+      "lines": [
+        "Figuring is calculation.",
+        "Berechnen ist Rechnen.",
+        "計算は演算だ。",
+        "计算是运算。"
+      ]
+    },
+    {
+      "word": "file",
+      "filename": "file.md",
+      "lines": [
+        "A file is a document.",
+        "Eine Datei ist ein Dokument.",
+        "ファイルは文書だ。",
+        "文件是文档。"
+      ]
+    },
+    {
+      "word": "filelist.txt",
+      "filename": "filelist.txt.md",
+      "lines": [
+        "A filelist.txt is a text file.",
+        "Eine filelist.txt ist eine Textdatei.",
+        "filelist.txtはテキストファイルだ。",
+        "filelist.txt是文本文件。"
+      ]
+    },
+    {
+      "word": "filing",
+      "filename": "filing.md",
+      "lines": [
+        "Filing is organizing.",
+        "Ablegen ist Ordnen.",
+        "ファイルすることは整理だ。",
+        "归档是整理。"
+      ]
+    },
+    {
+      "word": "fill",
+      "filename": "fill.md",
+      "lines": [
+        "Filling is adding.",
+        "Füllen ist Hinzufügen.",
+        "満たすことは追加だ。",
+        "填充是添加。"
+      ]
+    },
+    {
+      "word": "film",
+      "filename": "film.md",
+      "lines": [
+        "A film is a movie.",
+        "Ein Film ist ein Video.",
+        "映画は動画だ。",
+        "电影是影片。"
+      ]
+    },
+    {
+      "word": "filtered",
+      "filename": "filtered.md",
+      "lines": [
+        "Filtered water is a liquid.",
+        "Gefiltertes Wasser ist eine Flüssigkeit.",
+        "ろ過された水は液体だ。",
+        "过滤后的水是液体。"
+      ]
+    }
+  ],
+  "problems": []
+}

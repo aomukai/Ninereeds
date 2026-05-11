@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439422-YtI9r4kkK5ilhTICiqH0",
+  "object": "chat.completion",
+  "created": 1778439422,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"dot\",\n      \"filename\": \"dot.md\",\n      \"lines\": [\n        \"A dot is a small round mark.\",\n        \"Ein Punkt ist ein kleiner runder Fleck.\",\n        \"点は小さな丸い印だ。\",\n        \"点是一个小的圆形标记。\"\n      ]\n    },\n    {\n      \"word\": \"dotted\",\n      \"filename\": \"dotted.md\",\n      \"lines\": [\n        \"A dotted line is a line.\",\n        \"Eine gepunktete Linie ist eine Linie.\",\n        \"点線は線だ。\",\n        \"虚线是一条线。\"\n      ]\n    },\n    {\n      \"word\": \"double\",\n      \"filename\": \"double.md\",\n      \"lines\": [\n        \"A double bed is a bed.\",\n        \"Ein Doppelbett ist ein Bett.\",\n        \"ダブルベッドはベッドだ。\",\n        \"双人床是一张床。\"\n      ]\n    },\n    {\n      \"word\": \"doubt\",\n      \"filename\": \"doubt.md\",\n      \"lines\": [\n        \"Doubt is uncertainty.\",\n        \"Zweifel ist Unsicherheit.\",\n        \"疑いは不確かさだ。\",\n        \"怀疑是不确定。\"\n      ]\n    },\n    {\n      \"word\": \"dough\",\n      \"filename\": \"dough.md\",\n      \"lines\": [\n        \"Dough is a mixture.\",\n        \"Teig ist eine Mischung.\",\n        \"生地は混合物だ。\",\n        \"面团是一种混合物。\"\n      ]\n    },\n    {\n      \"word\": \"dove\",\n      \"filename\": \"dove.md\",\n      \"lines\": [\n        \"A dove is a bird.\",\n        \"Eine Taube ist ein Vogel.\",\n        \"鳩は鳥だ。\",\n        \"鸽子是鸟。\"\n      ]\n    },\n    {\n      \"word\": \"dovetailing\",\n      \"filename\": \"dovetailing.md\",\n      \"lines\": [\n        \"Dovetailing is joining.\",\n        \"Verzahnen ist Verbinden.\",\n        \"組み合わせることは接合だ。\",\n        \"嵌合是连接。\"\n      ]\n    },\n    {\n      \"word\": \"downhill\",\n      \"filename\": \"downhill.md\",\n      \"lines\": [\n        \"A downhill slope is a slope.\",\n        \"Ein Abhang ist ein Hang.\",\n        \"下り坂は坂だ。\",\n        \"下坡是一个斜坡。\"\n      ]\n    },\n    {\n      \"word\": \"downloading\",\n      \"filename\": \"downloading.md\",\n      \"lines\": [\n        \"Downloading is transferring.\",\n        \"Herunterladen ist Übertragen.\",\n        \"ダウンロードは転送だ。\",\n        \"下载是传输。\"\n      ]\n    },\n    {\n      \"word\": \"downstair\",\n      \"filename\": \"downstair.md\",\n      \"lines\": [\n        \"A downstair room is a room.\",\n        \"Ein unteres Zimmer ist ein Zimmer.\",\n        \"下の階の部屋は部屋だ。\",\n        \"楼下的房间是一个房间。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 725,
+    "completion_tokens": 678,
+    "total_tokens": 1403,
+    "cost": 0.0002884266,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00029134,
+      "upstream_inference_prompt_cost": 0.0001015,
+      "upstream_inference_completions_cost": 0.00018984
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

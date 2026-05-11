@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778439860-kyKznG5mJSyCScwzLOGT",
+  "object": "chat.completion",
+  "created": 1778439860,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"ecosystem\",\n      \"filename\": \"ecosystem.md\",\n      \"lines\": [\n        \"An ecosystem is a natural system.\",\n        \"Ein Ökosystem ist ein natürliches System.\",\n        \"生態系は自然のシステムだ。\",\n        \"生态系统是一个自然系统。\"\n      ]\n    },\n    {\n      \"word\": \"ecosysteming\",\n      \"filename\": \"ecosysteming.md\",\n      \"lines\": [\n        \"Ecosysteming is environmental interaction.\",\n        \"Ökosystemieren ist Umweltinteraktion.\",\n        \"生態系形成は環境との相互作用だ。\",\n        \"生态系统构建是环境互动。\"\n      ]\n    },\n    {\n      \"word\": \"edge\",\n      \"filename\": \"edge.md\",\n      \"lines\": [\n        \"An edge is a boundary.\",\n        \"Eine Kante ist eine Grenze.\",\n        \"端は境界だ。\",\n        \"边缘是一个边界。\"\n      ]\n    },\n    {\n      \"word\": \"edge of the road\",\n      \"filename\": \"edge_of_the_road.md\",\n      \"lines\": [\n        \"The edge of the road is a side.\",\n        \"Der Straßenrand ist eine Seite.\",\n        \"道端は側面だ。\",\n        \"路边是一个侧面。\"\n      ]\n    },\n    {\n      \"word\": \"edit\",\n      \"filename\": \"edit.md\",\n      \"lines\": [\n        \"Editing is revision.\",\n        \"Editieren ist Überarbeitung.\",\n        \"編集は修正だ。\",\n        \"编辑是修订。\"\n      ]\n    },\n    {\n      \"word\": \"edition\",\n      \"filename\": \"edition.md\",\n      \"lines\": [\n        \"An edition is a version.\",\n        \"Eine Ausgabe ist eine Version.\",\n        \"版はバージョンだ。\",\n        \"版本是一个版本。\"\n      ]\n    },\n    {\n      \"word\": \"educating\",\n      \"filename\": \"educating.md\",\n      \"lines\": [\n        \"Educating is teaching.\",\n        \"Erziehen ist Lehren.\",\n        \"教育することは教えることだ。\",\n        \"教育是教学。\"\n      ]\n    },\n    {\n      \"word\": \"educational\",\n      \"filename\": \"educational.md\",\n      \"lines\": [\n        \"An educational book is a resource.\",\n        \"Ein lehrreiches Buch ist eine Ressource.\",\n        \"教育的な本は資源だ。\",\n        \"一本教育性的书是一种资源。\"\n      ]\n    },\n    {\n      \"word\": \"eel\",\n      \"filename\": \"eel.md\",\n      \"lines\": [\n        \"An eel is a fish.\",\n        \"Ein Aal ist ein Fisch.\",\n        \"ウナギは魚だ。\",\n        \"鳗鱼是一种鱼。\"\n      ]\n    },\n    {\n      \"word\": \"effect\",\n      \"filename\": \"effect.md\",\n      \"lines\": [\n        \"An effect is a result.\",\n        \"Ein Effekt ist ein Ergebnis.\",\n        \"効果は結果だ。\",\n        \"效果是一个结果。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 726,
+    "completion_tokens": 658,
+    "total_tokens": 1384,
+    "cost": 0.0002830212,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00028588,
+      "upstream_inference_prompt_cost": 0.00010164,
+      "upstream_inference_completions_cost": 0.00018424
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

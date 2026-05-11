@@ -1,0 +1,45 @@
+{
+  "id": "gen-1778442198-EIwJoXTPgqsxrwdz71gA",
+  "object": "chat.completion",
+  "created": 1778442198,
+  "model": "deepseek/deepseek-v4-flash-20260423",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"files\": [\n    {\n      \"word\": \"float\",\n      \"filename\": \"float.md\",\n      \"lines\": [\n        \"A float is a data type.\",\n        \"Ein Float ist ein Datentyp.\",\n        \"floatはデータ型だ。\",\n        \"浮点数是数据类型。\"\n      ]\n    },\n    {\n      \"word\": \"flock\",\n      \"filename\": \"flock.md\",\n      \"lines\": [\n        \"A flock is a group of birds.\",\n        \"Eine Herde ist eine Gruppe von Vögeln.\",\n        \"群れは鳥の集まりだ。\",\n        \"鸟群是一群鸟。\"\n      ]\n    },\n    {\n      \"word\": \"flood\",\n      \"filename\": \"flood.md\",\n      \"lines\": [\n        \"A flood is a natural disaster.\",\n        \"Eine Überschwemmung ist eine Naturkatastrophe.\",\n        \"洪水は自然災害だ。\",\n        \"洪水是自然灾害。\"\n      ]\n    },\n    {\n      \"word\": \"floor\",\n      \"filename\": \"floor.md\",\n      \"lines\": [\n        \"A floor is a surface.\",\n        \"Ein Boden ist eine Oberfläche.\",\n        \"床は表面だ。\",\n        \"地板是表面。\"\n      ]\n    },\n    {\n      \"word\": \"flop\",\n      \"filename\": \"flop.md\",\n      \"lines\": [\n        \"Flopping is failure.\",\n        \"Scheitern ist ein Misserfolg.\",\n        \"失敗することは失敗だ。\",\n        \"失败是失败。\"\n      ]\n    },\n    {\n      \"word\": \"flopping\",\n      \"filename\": \"flopping.md\",\n      \"lines\": [\n        \"Flopping is falling.\",\n        \"Hinfallen ist ein Fallen.\",\n        \"ばたんと倒れることは落下だ。\",\n        \"扑倒是跌倒。\"\n      ]\n    },\n    {\n      \"word\": \"flour\",\n      \"filename\": \"flour.md\",\n      \"lines\": [\n        \"Flour is an ingredient.\",\n        \"Mehl ist eine Zutat.\",\n        \"小麦粉は材料だ。\",\n        \"面粉是食材。\"\n      ]\n    },\n    {\n      \"word\": \"flourish\",\n      \"filename\": \"flourish.md\",\n      \"lines\": [\n        \"Flourishing is growth.\",\n        \"Gedeihen ist Wachstum.\",\n        \"繁栄することは成長だ。\",\n        \"繁荣是成长。\"\n      ]\n    },\n    {\n      \"word\": \"flow\",\n      \"filename\": \"flow.md\",\n      \"lines\": [\n        \"Flowing is movement.\",\n        \"Fließen ist Bewegung.\",\n        \"流れることは移動だ。\",\n        \"流动是移动。\"\n      ]\n    },\n    {\n      \"word\": \"flower\",\n      \"filename\": \"flower.md\",\n      \"lines\": [\n        \"A flower is a plant.\",\n        \"Eine Blume ist eine Pflanze.\",\n        \"花は植物だ。\",\n        \"花是植物。\"\n      ]\n    }\n  ],\n  \"problems\": []\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 651,
+    "total_tokens": 1374,
+    "cost": 0.000280665,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0002835,
+      "upstream_inference_prompt_cost": 0.00010122,
+      "upstream_inference_completions_cost": 0.00018228
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}
