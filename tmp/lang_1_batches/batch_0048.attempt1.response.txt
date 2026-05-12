@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "branch",
-      "filename": "branch.md",
+      "word": "scale",
+      "filename": "scale.md",
       "lines": [
-        "A branch is a part of a tree.",
-        "Ein Ast ist ein Teil eines Baumes.",
-        "枝は木の一部だ。",
-        "树枝是树的一部分。"
+        "A scale is a tool.",
+        "Eine Waage ist ein Werkzeug.",
+        "秤は道具だ。",
+        "秤是工具。"
       ]
     },
     {
-      "word": "brand",
-      "filename": "brand.md",
+      "word": "scaly",
+      "filename": "scaly.md",
       "lines": [
-        "A brand is a name.",
-        "Eine Marke ist ein Name.",
-        "ブランドは名前だ。",
-        "品牌是一个名称。"
+        "A scaly fish is an animal.",
+        "Ein schuppiger Fisch ist ein Tier.",
+        "うろこのある魚は動物だ。",
+        "有鳞的鱼是动物。"
       ]
     },
     {
-      "word": "branding",
-      "filename": "branding.md",
+      "word": "scan",
+      "filename": "scan.md",
       "lines": [
-        "Branding is marketing.",
-        "Branding ist Marketing.",
-        "ブランディングはマーケティングだ。",
-        "品牌塑造是营销。"
+        "Scanning is inspection.",
+        "Scannen ist eine Prüfung.",
+        "スキャンすることは検査だ。",
+        "扫描是检查。"
       ]
     },
     {
-      "word": "brave",
-      "filename": "brave.md",
+      "word": "scar",
+      "filename": "scar.md",
       "lines": [
-        "A brave lion is a lion.",
-        "Ein mutiger Löwe ist ein Löwe.",
-        "勇敢なライオンはライオンだ。",
-        "勇敢的狮子是狮子。"
+        "A scar is a mark.",
+        "Eine Narbe ist ein Zeichen.",
+        "傷跡は印だ。",
+        "伤疤是标记。"
       ]
     },
     {
-      "word": "brave person",
-      "filename": "brave_person.md",
+      "word": "scarce",
+      "filename": "scarce.md",
       "lines": [
-        "A brave person is a person.",
-        "Ein mutiger Mensch ist ein Mensch.",
-        "勇敢な人は人だ。",
-        "勇敢的人是人。"
+        "A scarce apple is a fruit.",
+        "Ein seltener Apfel ist eine Frucht.",
+        "珍しいりんごは果物だ。",
+        "稀有的苹果是水果。"
       ]
     },
     {
-      "word": "bravery",
-      "filename": "bravery.md",
+      "word": "scare",
+      "filename": "scare.md",
       "lines": [
-        "Bravery is a quality.",
-        "Tapferkeit ist eine Eigenschaft.",
-        "勇気は性質だ。",
-        "勇敢是一种品质。"
+        "A scare is a feeling.",
+        "Ein Schrecken ist ein Gefühl.",
+        "恐怖は感情だ。",
+        "惊吓是感觉。"
       ]
     },
     {
-      "word": "brazing",
-      "filename": "brazing.md",
+      "word": "scarf",
+      "filename": "scarf.md",
       "lines": [
-        "Brazing is a joining process.",
-        "Hartlöten ist ein Fügeverfahren.",
-        "ろう付けは接合プロセスだ。",
-        "钎焊是一种连接工艺。"
+        "A scarf is clothing.",
+        "Ein Schal ist Kleidung.",
+        "スカーフは衣類だ。",
+        "围巾是衣物。"
       ]
     },
     {
-      "word": "bread",
-      "filename": "bread.md",
+      "word": "scary",
+      "filename": "scary.md",
       "lines": [
-        "Bread is food.",
-        "Brot ist Nahrung.",
-        "パンは食べ物だ。",
-        "面包是食物。"
+        "A scary dog is an animal.",
+        "Ein gruseliger Hund ist ein Tier.",
+        "怖い犬は動物だ。",
+        "可怕的狗是动物。"
       ]
     },
     {
-      "word": "breadcrumb",
-      "filename": "breadcrumb.md",
+      "word": "scatter",
+      "filename": "scatter.md",
       "lines": [
-        "A breadcrumb is a small piece.",
-        "Ein Brotkrümel ist ein kleines Stück.",
-        "パンくずは小さなかけらだ。",
-        "面包屑是小碎片。"
+        "Scattering is spreading.",
+        "Streuen ist Verteilen.",
+        "散らすことは拡散だ。",
+        "散播是扩散。"
       ]
     },
     {
-      "word": "break",
-      "filename": "break.md",
+      "word": "scavenger",
+      "filename": "scavenger.md",
       "lines": [
-        "A break is a rest.",
-        "Eine Pause ist eine Erholung.",
-        "休憩は休息だ。",
-        "休息是放松。"
+        "A scavenger is an animal.",
+        "Ein Aasfresser ist ein Tier.",
+        "スカベンジャーは動物だ。",
+        "食腐动物是动物。"
       ]
     }
   ],

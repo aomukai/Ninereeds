@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "ecosystem",
-      "filename": "ecosystem.md",
+      "word": "tugboat",
+      "filename": "tugboat.md",
       "lines": [
-        "An ecosystem is a natural system.",
-        "Ein Ökosystem ist ein natürliches System.",
-        "生態系は自然のシステムだ。",
-        "生态系统是一个自然系统。"
+        "A tugboat is a boat.",
+        "Ein Schlepper ist ein Boot.",
+        "タグボートは船だ。",
+        "拖船是船。"
       ]
     },
     {
-      "word": "ecosysteming",
-      "filename": "ecosysteming.md",
+      "word": "tulip",
+      "filename": "tulip.md",
       "lines": [
-        "Ecosysteming is environmental interaction.",
-        "Ökosystemieren ist Umweltinteraktion.",
-        "生態系形成は環境との相互作用だ。",
-        "生态系统构建是环境互动。"
+        "A tulip is a flower.",
+        "Eine Tulpe ist eine Blume.",
+        "チューリップは花だ。",
+        "郁金香是花。"
       ]
     },
     {
-      "word": "edge",
-      "filename": "edge.md",
+      "word": "tumble",
+      "filename": "tumble.md",
       "lines": [
-        "An edge is a boundary.",
-        "Eine Kante ist eine Grenze.",
-        "端は境界だ。",
-        "边缘是一个边界。"
+        "A tumble is a fall.",
+        "Ein Sturz ist ein Fall.",
+        "転倒は落下だ。",
+        "翻滚是摔倒。"
       ]
     },
     {
-      "word": "edge of the road",
-      "filename": "edge_of_the_road.md",
+      "word": "tummy",
+      "filename": "tummy.md",
       "lines": [
-        "The edge of the road is a side.",
-        "Der Straßenrand ist eine Seite.",
-        "道端は側面だ。",
-        "路边是一个侧面。"
+        "A tummy is a body part.",
+        "Ein Bauch ist ein Körperteil.",
+        "お腹は体の一部だ。",
+        "肚子是身体的一部分。"
       ]
     },
     {
-      "word": "edit",
-      "filename": "edit.md",
+      "word": "tune",
+      "filename": "tune.md",
       "lines": [
-        "Editing is revision.",
-        "Editieren ist Überarbeitung.",
-        "編集は修正だ。",
-        "编辑是修订。"
+        "A tune is music.",
+        "Ein Lied ist Musik.",
+        "曲は音楽だ。",
+        "曲子是音乐。"
       ]
     },
     {
-      "word": "edition",
-      "filename": "edition.md",
+      "word": "tunnel",
+      "filename": "tunnel.md",
       "lines": [
-        "An edition is a version.",
-        "Eine Ausgabe ist eine Version.",
-        "版はバージョンだ。",
-        "版本是一个版本。"
+        "A tunnel is a passage.",
+        "Ein Tunnel ist ein Durchgang.",
+        "トンネルは通路だ。",
+        "隧道是通道。"
       ]
     },
     {
-      "word": "educating",
-      "filename": "educating.md",
+      "word": "turbulence",
+      "filename": "turbulence.md",
       "lines": [
-        "Educating is teaching.",
-        "Erziehen ist Lehren.",
-        "教育することは教えることだ。",
-        "教育是教学。"
+        "Turbulence is a disturbance.",
+        "Turbulenz ist eine Störung.",
+        "乱気流は擾乱だ。",
+        "湍流是扰动。"
       ]
     },
     {
-      "word": "educational",
-      "filename": "educational.md",
+      "word": "turkey",
+      "filename": "turkey.md",
       "lines": [
-        "An educational book is a resource.",
-        "Ein lehrreiches Buch ist eine Ressource.",
-        "教育的な本は資源だ。",
-        "一本教育性的书是一种资源。"
+        "A turkey is a bird.",
+        "Ein Truthahn ist ein Vogel.",
+        "七面鳥は鳥だ。",
+        "火鸡是鸟。"
       ]
     },
     {
-      "word": "eel",
-      "filename": "eel.md",
+      "word": "turn",
+      "filename": "turn.md",
       "lines": [
-        "An eel is a fish.",
-        "Ein Aal ist ein Fisch.",
-        "ウナギは魚だ。",
-        "鳗鱼是一种鱼。"
+        "A turn is a change of direction.",
+        "Eine Wendung ist ein Richtungswechsel.",
+        "曲がりは方向の変更だ。",
+        "转弯是方向变化。"
       ]
     },
     {
-      "word": "effect",
-      "filename": "effect.md",
+      "word": "turnip",
+      "filename": "turnip.md",
       "lines": [
-        "An effect is a result.",
-        "Ein Effekt ist ein Ergebnis.",
-        "効果は結果だ。",
-        "效果是一个结果。"
+        "A turnip is a vegetable.",
+        "Eine Rübe ist ein Gemüse.",
+        "カブは野菜だ。",
+        "萝卜是蔬菜。"
       ]
     }
   ],

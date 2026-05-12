@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "butter",
-      "filename": "butter.md",
+      "word": "self",
+      "filename": "self.md",
       "lines": [
-        "Butter is a dairy product.",
-        "Butter ist ein Milchprodukt.",
-        "バターは乳製品だ。",
-        "黄油是乳制品。"
+        "A self is an individual.",
+        "Ein Selbst ist ein Individuum.",
+        "自己は個人だ。",
+        "自我是个体。"
       ]
     },
     {
-      "word": "butterfly",
-      "filename": "butterfly.md",
+      "word": "self-control",
+      "filename": "self-control.md",
       "lines": [
-        "A butterfly is an insect.",
-        "Ein Schmetterling ist ein Insekt.",
-        "蝶は昆虫だ。",
-        "蝴蝶是昆虫。"
+        "Self-control is a skill.",
+        "Selbstkontrolle ist eine Fähigkeit.",
+        "自制心は技能だ。",
+        "自控是一种技能。"
       ]
     },
     {
-      "word": "buttery",
-      "filename": "buttery.md",
+      "word": "self-deception",
+      "filename": "self-deception.md",
       "lines": [
-        "A buttery croissant is a pastry.",
-        "Ein buttriges Croissant ist ein Gebäck.",
-        "バター風味のクロワッサンはペストリーだ。",
-        "黄油味的牛角面包是糕点。"
+        "Self-deception is a behavior.",
+        "Selbsttäuschung ist ein Verhalten.",
+        "自己欺瞞は行動だ。",
+        "自欺是一种行为。"
       ]
     },
     {
-      "word": "button",
-      "filename": "button.md",
+      "word": "self-interest",
+      "filename": "self-interest.md",
       "lines": [
-        "A button is a fastener.",
-        "Ein Knopf ist ein Verschluss.",
-        "ボタンは留め具だ。",
-        "纽扣是扣件。"
+        "Self-interest is a motive.",
+        "Eigeninteresse ist ein Motiv.",
+        "自己利益は動機だ。",
+        "自利是一种动机。"
       ]
     },
     {
-      "word": "buttressing",
-      "filename": "buttressing.md",
+      "word": "self-knowledge",
+      "filename": "self-knowledge.md",
       "lines": [
-        "Buttressing is support.",
-        "Stützen ist Unterstützung.",
-        "支えることは支援だ。",
-        "支撑是支持。"
+        "Self-knowledge is understanding.",
+        "Selbsterkenntnis ist Verständnis.",
+        "自己認識は理解だ。",
+        "自知是理解。"
       ]
     },
     {
-      "word": "buy",
-      "filename": "buy.md",
+      "word": "self-observation",
+      "filename": "self-observation.md",
       "lines": [
-        "Buying is a transaction.",
-        "Kaufen ist eine Transaktion.",
-        "買うことは取引だ。",
-        "购买是交易。"
+        "Self-observation is a practice.",
+        "Selbstbeobachtung ist eine Praxis.",
+        "自己観察は実践だ。",
+        "自我观察是一种实践。"
       ]
     },
     {
-      "word": "buying",
-      "filename": "buying.md",
+      "word": "self-story",
+      "filename": "self-story.md",
       "lines": [
-        "Buying is a process.",
-        "Das Kaufen ist ein Prozess.",
-        "買うことはプロセスだ。",
-        "购买是一个过程。"
+        "A self-story is a narrative.",
+        "Eine Selbstgeschichte ist eine Erzählung.",
+        "自己物語は物語だ。",
+        "自我故事是一种叙述。"
       ]
     },
     {
-      "word": "buzz",
-      "filename": "buzz.md",
+      "word": "sell",
+      "filename": "sell.md",
       "lines": [
-        "A buzz is a sound.",
-        "Ein Summen ist ein Geräusch.",
-        "ブンブンという音は音だ。",
-        "嗡嗡声是声音。"
+        "Selling is trading.",
+        "Verkaufen ist Handel.",
+        "売ることは取引だ。",
+        "卖是交易。"
       ]
     },
     {
-      "word": "bystander",
-      "filename": "bystander.md",
+      "word": "seller",
+      "filename": "seller.md",
       "lines": [
-        "A bystander is a person.",
-        "Ein Umstehender ist eine Person.",
-        "傍観者は人だ。",
-        "旁观者是人。"
+        "A seller is a person.",
+        "Ein Verkäufer ist eine Person.",
+        "売り手は人だ。",
+        "卖家是人。"
       ]
     },
     {
-      "word": "cab",
-      "filename": "cab.md",
+      "word": "send",
+      "filename": "send.md",
       "lines": [
-        "A cab is a vehicle.",
-        "Ein Taxi ist ein Fahrzeug.",
-        "タクシーは乗り物だ。",
-        "出租车是车辆。"
+        "Sending is transferring.",
+        "Senden ist Übertragung.",
+        "送ることは転送だ。",
+        "发送是传输。"
       ]
     }
   ],

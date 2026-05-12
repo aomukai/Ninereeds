@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "eradicating",
-      "filename": "eradicating.md",
+      "word": "universe",
+      "filename": "universe.md",
       "lines": [
-        "Eradicating is elimination.",
-        "Ausrotten ist Beseitigung.",
-        "根絶は除去だ。",
-        "根除是消除。"
+        "A universe is a space.",
+        "Ein Universum ist ein Kosmos.",
+        "宇宙は空間だ。",
+        "宇宙是空间。"
       ]
     },
     {
-      "word": "eraser",
-      "filename": "eraser.md",
+      "word": "unkind",
+      "filename": "unkind.md",
       "lines": [
-        "An eraser is a tool.",
-        "Ein Radiergummi ist ein Werkzeug.",
-        "消しゴムは道具だ。",
-        "橡皮擦是工具。"
+        "An unkind person is a human.",
+        "Ein unfreundlicher Mensch ist ein Mensch.",
+        "不親切な人は人間だ。",
+        "不友好的人是人类。"
       ]
     },
     {
-      "word": "erasing",
-      "filename": "erasing.md",
+      "word": "unknowable",
+      "filename": "unknowable.md",
       "lines": [
-        "Erasing is removal.",
-        "Löschen ist Entfernung.",
-        "消去は除去だ。",
-        "擦除是移除。"
+        "An unknowable creature is an animal.",
+        "Ein unerkennbares Lebewesen ist ein Tier.",
+        "不可知の生物は動物だ。",
+        "不可知的生物是动物。"
       ]
     },
     {
-      "word": "eric",
-      "filename": "eric.md",
+      "word": "unknown",
+      "filename": "unknown.md",
       "lines": [
-        "Eric is a name.",
-        "Eric ist ein Name.",
-        "エリックは名前だ。",
-        "埃里克是一个名字。"
+        "An unknown person is a human.",
+        "Ein unbekannter Mensch ist ein Mensch.",
+        "未知の人は人間だ。",
+        "未知的人是人类。"
       ]
     },
     {
-      "word": "eroding",
-      "filename": "eroding.md",
+      "word": "unlike",
+      "filename": "unlike.md",
       "lines": [
-        "Eroding is a natural process.",
-        "Erodieren ist ein natürlicher Prozess.",
-        "侵食は自然の過程だ。",
-        "侵蚀是一个自然过程。"
+        "An unlike sock is a garment.",
+        "Eine ungleiche Socke ist ein Kleidungsstück.",
+        "似ていない靴下は衣類だ。",
+        "不同的袜子是衣物。"
       ]
     },
     {
-      "word": "errand",
-      "filename": "errand.md",
+      "word": "unlimited",
+      "filename": "unlimited.md",
       "lines": [
-        "An errand is a task.",
-        "Ein Besorgungsgang ist eine Aufgabe.",
-        "用事は仕事だ。",
-        "差事是一项任务。"
+        "Unlimited sand is a material.",
+        "Unbegrenzter Sand ist ein Material.",
+        "無制限の砂は材料だ。",
+        "无限的沙子是材料。"
       ]
     },
     {
-      "word": "error",
-      "filename": "error.md",
+      "word": "unload",
+      "filename": "unload.md",
       "lines": [
-        "An error is a mistake.",
-        "Ein Fehler ist ein Irrtum.",
-        "エラーは間違いだ。",
-        "错误是失误。"
+        "An unload is a process.",
+        "Ein Entladen ist ein Vorgang.",
+        "荷降ろしは工程だ。",
+        "卸货是一个过程。"
       ]
     },
     {
-      "word": "escalation",
-      "filename": "escalation.md",
+      "word": "unloading",
+      "filename": "unloading.md",
       "lines": [
-        "Escalation is an increase.",
-        "Eskalation ist eine Zunahme.",
-        "エスカレーションは増加だ。",
-        "升级是增加。"
+        "Unloading is a process.",
+        "Entladen ist ein Vorgang.",
+        "荷降ろしは工程だ。",
+        "卸货是一个过程。"
       ]
     },
     {
-      "word": "escape",
-      "filename": "escape.md",
+      "word": "unloading 3",
+      "filename": "unloading_3.md",
       "lines": [
-        "Escape is a way out.",
-        "Flucht ist ein Ausweg.",
-        "脱出は逃げ道だ。",
-        "逃脱是一条出路。"
+        "Unloading 3 is a process.",
+        "Entladen 3 ist ein Vorgang.",
+        "アンロード3は工程だ。",
+        "卸载3是一个过程。"
       ]
     },
     {
-      "word": "especial",
-      "filename": "especial.md",
+      "word": "unloading 4",
+      "filename": "unloading_4.md",
       "lines": [
-        "An especial apple is a fruit.",
-        "Ein besonderer Apfel ist eine Frucht.",
-        "特別なりんごは果物だ。",
-        "一个特别的苹果是水果。"
+        "Unloading 4 is a process.",
+        "Entladen 4 ist ein Vorgang.",
+        "アンロード4は工程だ。",
+        "卸载4是一个过程。"
       ]
     }
   ],

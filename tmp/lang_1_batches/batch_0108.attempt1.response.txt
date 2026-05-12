@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "crumpled",
-      "filename": "crumpled.md",
+      "word": "supplementing",
+      "filename": "supplementing.md",
       "lines": [
-        "A crumpled shirt is clothing.",
-        "Ein zerknittertes Hemd ist Kleidung.",
-        "しわくちゃのシャツは衣類だ。",
-        "皱巴巴的衬衫是衣服。"
+        "Supplementing is adding.",
+        "Ergänzen ist Hinzufügen.",
+        "補足することは追加だ。",
+        "补充是添加。"
       ]
     },
     {
-      "word": "crumpling",
-      "filename": "crumpling.md",
+      "word": "supply",
+      "filename": "supply.md",
       "lines": [
-        "Crumpling is a deformation.",
-        "Zerknittern ist eine Verformung.",
-        "くしゃくしゃにすることは変形だ。",
-        "揉皱是一种变形。"
+        "A supply is a resource.",
+        "Eine Versorgung ist eine Ressource.",
+        "供給は資源だ。",
+        "供应是资源。"
       ]
     },
     {
-      "word": "crunch",
-      "filename": "crunch.md",
+      "word": "support",
+      "filename": "support.md",
       "lines": [
-        "A crunch is a sound.",
-        "Ein Knirschen ist ein Geräusch.",
-        "バリバリという音は音だ。",
-        "嘎吱声是一种声音。"
+        "Support is assistance.",
+        "Unterstützung ist Hilfe.",
+        "支援は援助だ。",
+        "支持是帮助。"
       ]
     },
     {
-      "word": "crunchy",
-      "filename": "crunchy.md",
+      "word": "supposed",
+      "filename": "supposed.md",
       "lines": [
-        "A crunchy apple is a fruit.",
-        "Ein knuspriger Apfel ist eine Frucht.",
-        "サクサクのりんごは果物だ。",
-        "脆苹果是水果。"
+        "A supposed reason is a cause.",
+        "Ein angeblicher Grund ist eine Ursache.",
+        "とされる理由は原因だ。",
+        "所谓的原因是原因。"
       ]
     },
     {
-      "word": "crush",
-      "filename": "crush.md",
+      "word": "supposing",
+      "filename": "supposing.md",
       "lines": [
-        "Crushing is a compression.",
-        "Zerdrücken ist eine Kompression.",
-        "押しつぶすことは圧縮だ。",
-        "压碎是一种压缩。"
+        "Supposing is assuming.",
+        "Supponieren ist Annehmen.",
+        "仮定することは想定だ。",
+        "假设是假定。"
       ]
     },
     {
-      "word": "crust",
-      "filename": "crust.md",
+      "word": "sure",
+      "filename": "sure.md",
       "lines": [
-        "A crust is a covering.",
-        "Eine Kruste ist eine Hülle.",
-        "パンの皮は覆いだ。",
-        "面包皮是一种覆盖物。"
+        "A sure sign is a clue.",
+        "Ein sicheres Zeichen ist ein Hinweis.",
+        "確かな兆しは手がかりだ。",
+        "确凿的迹象是线索。"
       ]
     },
     {
-      "word": "cry",
-      "filename": "cry.md",
+      "word": "surf",
+      "filename": "surf.md",
       "lines": [
-        "Crying is a vocalization.",
-        "Weinen ist eine Lautäußerung.",
-        "泣くことは発声だ。",
-        "哭泣是一种发声。"
+        "Surf is foam.",
+        "Surf ist Schaum.",
+        "サーフは泡だ。",
+        "浪花是泡沫。"
       ]
     },
     {
-      "word": "crystal",
-      "filename": "crystal.md",
+      "word": "surface",
+      "filename": "surface.md",
       "lines": [
-        "A crystal is a mineral.",
-        "Ein Kristall ist ein Mineral.",
-        "結晶は鉱物だ。",
-        "水晶是一种矿物。"
+        "A surface is a layer.",
+        "Eine Oberfläche ist eine Schicht.",
+        "表面は層だ。",
+        "表面是层。"
       ]
     },
     {
-      "word": "cubby",
-      "filename": "cubby.md",
+      "word": "surge",
+      "filename": "surge.md",
       "lines": [
-        "A cubby is a small space.",
-        "Ein Fach ist ein kleiner Raum.",
-        "小部屋は小さな空間だ。",
-        "小隔间是一个小空间。"
+        "A surge is a wave.",
+        "Ein Surge ist eine Welle.",
+        "サージは波だ。",
+        "激增是波浪。"
       ]
     },
     {
-      "word": "cube",
-      "filename": "cube.md",
+      "word": "surgeon",
+      "filename": "surgeon.md",
       "lines": [
-        "A cube is a shape.",
-        "Ein Würfel ist eine Form.",
-        "立方体は形だ。",
-        "立方体是一种形状。"
+        "A surgeon is a doctor.",
+        "Ein Chirurg ist ein Arzt.",
+        "外科医は医者だ。",
+        "外科医生是医生。"
       ]
     }
   ],

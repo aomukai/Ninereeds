@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "espying",
-      "filename": "espying.md",
+      "word": "unloading 5",
+      "filename": "unloading_5.md",
       "lines": [
-        "Espying is seeing.",
-        "Spähen ist Sehen.",
-        "見つけることは見ることだ。",
-        "发现是看见。"
+        "Unloading 5 is a task.",
+        "Entladen 5 ist eine Aufgabe.",
+        "アンローディング5はタスクだ。",
+        "卸载5是一项任务。"
       ]
     },
     {
-      "word": "essence",
-      "filename": "essence.md",
+      "word": "unloading 6",
+      "filename": "unloading_6.md",
       "lines": [
-        "Essence is a quality.",
-        "Essenz ist eine Eigenschaft.",
-        "本質は性質だ。",
-        "本质是一种性质。"
+        "Unloading 6 is a step.",
+        "Entladen 6 ist ein Schritt.",
+        "アンローディング6はステップだ。",
+        "卸载6是步骤。"
       ]
     },
     {
-      "word": "essential",
-      "filename": "essential.md",
+      "word": "unloading 7",
+      "filename": "unloading_7.md",
       "lines": [
-        "An essential tool is a tool.",
-        "Ein wesentliches Werkzeug ist ein Werkzeug.",
-        "必須の道具は道具だ。",
-        "必要的工具是工具。"
+        "Unloading 7 is an operation.",
+        "Entladen 7 ist eine Operation.",
+        "アンローディング7は操作だ。",
+        "卸载7是操作。"
       ]
     },
     {
-      "word": "establishing",
-      "filename": "establishing.md",
+      "word": "unloading 8",
+      "filename": "unloading_8.md",
       "lines": [
-        "Establishing is founding.",
-        "Gründen ist Gründen.",
-        "設立することは創設だ。",
-        "建立是创立。"
+        "Unloading 8 is a procedure.",
+        "Entladen 8 ist ein Verfahren.",
+        "アンローディング8は手続きだ。",
+        "卸载8是程序。"
       ]
     },
     {
-      "word": "estimate",
-      "filename": "estimate.md",
+      "word": "unlock",
+      "filename": "unlock.md",
       "lines": [
-        "An estimate is a calculation.",
-        "Eine Schätzung ist eine Berechnung.",
-        "見積もりは計算だ。",
-        "估算是计算。"
+        "Unlock is an action.",
+        "Entsperren ist eine Aktion.",
+        "アンロックはアクションだ。",
+        "解锁是一个动作。"
       ]
     },
     {
-      "word": "estimating",
-      "filename": "estimating.md",
+      "word": "unlocking",
+      "filename": "unlocking.md",
       "lines": [
-        "Estimating is calculating.",
-        "Schätzen ist Berechnen.",
-        "見積もることは計算することだ。",
-        "估算是计算。"
+        "Unlocking is a process.",
+        "Das Entsperren ist ein Prozess.",
+        "アンロッキングはプロセスだ。",
+        "解锁是一个过程。"
       ]
     },
     {
-      "word": "etching",
-      "filename": "etching.md",
+      "word": "unnamed",
+      "filename": "unnamed.md",
       "lines": [
-        "Etching is engraving.",
-        "Ätzen ist Gravieren.",
-        "エッチングは彫刻だ。",
-        "蚀刻是雕刻。"
+        "An unnamed object is a thing.",
+        "Ein unbenanntes Objekt ist ein Ding.",
+        "名前のないオブジェクトは物だ。",
+        "未命名的对象是东西。"
       ]
     },
     {
-      "word": "eternal",
-      "filename": "eternal.md",
+      "word": "unnecessary",
+      "filename": "unnecessary.md",
       "lines": [
-        "An eternal flame is a flame.",
-        "Eine ewige Flamme ist eine Flamme.",
-        "永遠の炎は炎だ。",
-        "永恒的火焰是火焰。"
+        "An unnecessary item is a thing.",
+        "Ein unnötiger Gegenstand ist ein Ding.",
+        "不必要なアイテムは物だ。",
+        "不必要的物品是东西。"
       ]
     },
     {
-      "word": "ethical",
-      "filename": "ethical.md",
+      "word": "unpacked",
+      "filename": "unpacked.md",
       "lines": [
-        "An ethical choice is a choice.",
-        "Eine ethische Wahl ist eine Wahl.",
-        "倫理的な選択は選択だ。",
-        "道德的选择是选择。"
+        "An unpacked item is a thing.",
+        "Ein ausgepackter Gegenstand ist ein Ding.",
+        "開封されたアイテムは物だ。",
+        "拆封的物品是东西。"
       ]
     },
     {
-      "word": "ethics",
-      "filename": "ethics.md",
+      "word": "unpacking",
+      "filename": "unpacking.md",
       "lines": [
-        "Ethics is a philosophy.",
-        "Ethik ist eine Philosophie.",
-        "倫理は哲学だ。",
-        "伦理学是哲学。"
+        "Unpacking is a process.",
+        "Das Auspacken ist ein Prozess.",
+        "開封はプロセスだ。",
+        "拆包是一个过程。"
       ]
     }
   ],

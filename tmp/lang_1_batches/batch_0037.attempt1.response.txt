@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "believing",
-      "filename": "believing.md",
+      "word": "rim",
+      "filename": "rim.md",
       "lines": [
-        "Believing is a mental process.",
-        "Glauben ist ein mentaler Prozess.",
-        "信じることは心のプロセスだ。",
-        "相信是一种心理过程。"
+        "A rim is an edge.",
+        "Ein Rand ist eine Kante.",
+        "縁は端だ。",
+        "边缘是边界。"
       ]
     },
     {
-      "word": "bell",
-      "filename": "bell.md",
+      "word": "rind",
+      "filename": "rind.md",
       "lines": [
-        "A bell is an instrument.",
-        "Eine Glocke ist ein Instrument.",
-        "鐘は楽器だ。",
-        "钟是一种乐器。"
+        "A rind is a skin.",
+        "Eine Schale ist eine Haut.",
+        "果皮は外皮だ。",
+        "果皮是外皮。"
       ]
     },
     {
-      "word": "bell-shaped",
-      "filename": "bell-shaped.md",
+      "word": "ring",
+      "filename": "ring.md",
       "lines": [
-        "A bell-shaped lamp is a light.",
-        "Eine glockenförmige Lampe ist ein Licht.",
-        "ベル型のランプは照明だ。",
-        "钟形灯是照明工具。"
+        "A ring is a circle.",
+        "Ein Ring ist ein Kreis.",
+        "輪は丸だ。",
+        "环是圆。"
       ]
     },
     {
-      "word": "belly",
-      "filename": "belly.md",
+      "word": "rinse",
+      "filename": "rinse.md",
       "lines": [
-        "A belly is a body part.",
-        "Ein Bauch ist ein Körperteil.",
-        "お腹は体の一部だ。",
-        "肚子是身体的一部分。"
+        "Rinsing is cleaning.",
+        "Spülen ist Reinigen.",
+        "すすぐことは洗浄だ。",
+        "冲洗是清洗。"
       ]
     },
     {
-      "word": "belong",
-      "filename": "belong.md",
+      "word": "rip",
+      "filename": "rip.md",
       "lines": [
-        "Belonging is a relationship.",
-        "Dazugehören ist eine Beziehung.",
-        "所属することは関係だ。",
-        "属于是一种关系。"
+        "Ripping is separating.",
+        "Reißen ist Trennen.",
+        "引き裂くことは分離だ。",
+        "撕开是分离。"
       ]
     },
     {
-      "word": "belonged",
-      "filename": "belonged.md",
+      "word": "ripe",
+      "filename": "ripe.md",
       "lines": [
-        "A belonged item is a possession.",
-        "Ein zugehöriger Gegenstand ist ein Besitz.",
-        "所属していた品物は所有物だ。",
-        "曾经的物品是财产。"
+        "A ripe apple is a fruit.",
+        "Ein reifer Apfel ist eine Frucht.",
+        "熟れたリンゴは果物だ。",
+        "成熟的苹果是水果。"
       ]
     },
     {
-      "word": "belonging",
-      "filename": "belonging.md",
+      "word": "ripening",
+      "filename": "ripening.md",
       "lines": [
-        "A belonging is a possession.",
-        "Ein persönlicher Gegenstand ist ein Besitz.",
-        "所持品は所有物だ。",
-        "个人物品是财产。"
+        "Ripening is a process.",
+        "Reifung ist ein Prozess.",
+        "熟成は過程だ。",
+        "成熟是一个过程。"
       ]
     },
     {
-      "word": "belt",
-      "filename": "belt.md",
+      "word": "ripple",
+      "filename": "ripple.md",
       "lines": [
-        "A belt is an accessory.",
-        "Ein Gürtel ist ein Accessoire.",
-        "ベルトはアクセサリーだ。",
-        "腰带是一种配饰。"
+        "A ripple is a wave.",
+        "Ein Rippel ist eine Welle.",
+        "さざ波は波だ。",
+        "涟漪是波浪。"
       ]
     },
     {
-      "word": "bench",
-      "filename": "bench.md",
+      "word": "rise",
+      "filename": "rise.md",
       "lines": [
-        "A bench is a seat.",
-        "Eine Bank ist ein Sitz.",
-        "ベンチは座席だ。",
-        "长凳是一种座位。"
+        "Rising is increasing.",
+        "Steigen ist Zunehmen.",
+        "上昇は増加だ。",
+        "上升是增加。"
       ]
     },
     {
-      "word": "bend",
-      "filename": "bend.md",
+      "word": "risk",
+      "filename": "risk.md",
       "lines": [
-        "Bending is a movement.",
-        "Biegen ist eine Bewegung.",
-        "曲げることは動作だ。",
-        "弯曲是一种动作。"
+        "A risk is a danger.",
+        "Ein Risiko ist eine Gefahr.",
+        "リスクは危険だ。",
+        "风险是危险。"
       ]
     }
   ],

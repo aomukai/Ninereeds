@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "collaborative",
-      "filename": "collaborative.md",
+      "word": "sore",
+      "filename": "sore.md",
       "lines": [
-        "A collaborative project is a team effort.",
-        "Ein kollaboratives Projekt ist eine Teamarbeit.",
-        "協力的なプロジェクトはチームワークだ。",
-        "协作项目是团队工作。"
+        "A sore muscle is a body part.",
+        "Ein schmerzender Muskel ist ein Körperteil.",
+        "痛い筋肉は体の一部だ。",
+        "疼痛的肌肉是身体的一部分。"
       ]
     },
     {
-      "word": "collage",
-      "filename": "collage.md",
+      "word": "sore throat",
+      "filename": "sore_throat.md",
       "lines": [
-        "A collage is a piece of art.",
-        "Eine Collage ist ein Kunstwerk.",
-        "コラージュは芸術作品だ。",
-        "拼贴画是一种艺术品。"
+        "A sore throat is a symptom.",
+        "Ein Halsschmerz ist ein Symptom.",
+        "喉の痛みは症状だ。",
+        "喉咙痛是一种症状。"
       ]
     },
     {
-      "word": "collapsing",
-      "filename": "collapsing.md",
+      "word": "sorry",
+      "filename": "sorry.md",
       "lines": [
-        "Collapsing is falling down.",
-        "Zusammenfallen ist Herunterfallen.",
-        "崩れることは落下だ。",
-        "倒塌是坠落。"
+        "A sorry state is a condition.",
+        "Ein beklagenswerter Zustand ist eine Lage.",
+        "哀れな状態は状況だ。",
+        "可怜的状况是一种情况。"
       ]
     },
     {
-      "word": "collar",
-      "filename": "collar.md",
+      "word": "sort",
+      "filename": "sort.md",
       "lines": [
-        "A collar is a piece of clothing.",
-        "Ein Kragen ist ein Kleidungsstück.",
-        "襟は衣服の一部だ。",
-        "衣领是衣服的一部分。"
+        "A sort is a kind.",
+        "Eine Sorte ist eine Art.",
+        "種類は一種だ。",
+        "种类是一种。"
       ]
     },
     {
-      "word": "collarbone",
-      "filename": "collarbone.md",
+      "word": "sound",
+      "filename": "sound.md",
       "lines": [
-        "A collarbone is a bone in the body.",
-        "Ein Schlüsselbein ist ein Knochen im Körper.",
-        "鎖骨は体の骨だ。",
-        "锁骨是身体里的一块骨头。"
+        "Sound is a vibration.",
+        "Schall ist eine Vibration.",
+        "音は振動だ。",
+        "声音是振动。"
       ]
     },
     {
-      "word": "collect",
-      "filename": "collect.md",
+      "word": "sounded",
+      "filename": "sounded.md",
       "lines": [
-        "Collecting is gathering things.",
-        "Sammeln ist das Zusammenbringen von Dingen.",
-        "集めることは物を集めることだ。",
-        "收集是聚集物品。"
+        "A sounded alarm is a warning.",
+        "Ein ausgelöster Alarm ist eine Warnung.",
+        "鳴った警報は警告だ。",
+        "响起的警报是一种警告。"
       ]
     },
     {
-      "word": "collection",
-      "filename": "collection.md",
+      "word": "soundnes",
+      "filename": "soundnes.md",
       "lines": [
-        "A collection is a group of items.",
-        "Eine Sammlung ist eine Gruppe von Gegenständen.",
-        "コレクションは品物の集まりだ。",
-        "收藏品是一组物品。"
+        "Soundnes is a quality.",
+        "Soundnes ist eine Qualität.",
+        "健全さは性質だ。",
+        "健全是一种品质。"
       ]
     },
     {
-      "word": "colliding",
-      "filename": "colliding.md",
+      "word": "soup",
+      "filename": "soup.md",
       "lines": [
-        "Colliding is hitting each other.",
-        "Zusammenstoßen ist das Aufeinandertreffen.",
-        "衝突することはぶつかることだ。",
-        "碰撞是互相撞击。"
+        "Soup is a food.",
+        "Suppe ist ein Gericht.",
+        "スープは料理だ。",
+        "汤是一种食物。"
       ]
     },
     {
-      "word": "color",
-      "filename": "color.md",
+      "word": "sour",
+      "filename": "sour.md",
       "lines": [
-        "A color is a visual property.",
-        "Eine Farbe ist eine visuelle Eigenschaft.",
-        "色は視覚的な特性だ。",
-        "颜色是一种视觉属性。"
+        "A sour lemon is a fruit.",
+        "Eine saure Zitrone ist eine Frucht.",
+        "酸っぱいレモンは果物だ。",
+        "酸柠檬是水果。"
       ]
     },
     {
-      "word": "colored",
-      "filename": "colored.md",
+      "word": "source",
+      "filename": "source.md",
       "lines": [
-        "A colored pencil is a drawing tool.",
-        "Ein farbiger Bleistift ist ein Zeichenwerkzeug.",
-        "色鉛筆は描画道具だ。",
-        "彩色铅笔是一种绘画工具。"
+        "A source is an origin.",
+        "Eine Quelle ist ein Ursprung.",
+        "源は起源だ。",
+        "来源是起源。"
       ]
     }
   ],

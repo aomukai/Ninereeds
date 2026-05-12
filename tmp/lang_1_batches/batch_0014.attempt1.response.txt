@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "ancient",
-      "filename": "ancient.md",
+      "word": "puppet",
+      "filename": "puppet.md",
       "lines": [
-        "An ancient tree is a plant.",
-        "Ein alter Baum ist eine Pflanze.",
-        "古い木は植物だ。",
-        "古老的树是植物。"
+        "A puppet is a toy.",
+        "Eine Puppe ist ein Spielzeug.",
+        "人形はおもちゃだ。",
+        "玩偶是玩具。"
       ]
     },
     {
-      "word": "anger",
-      "filename": "anger.md",
+      "word": "puppy",
+      "filename": "puppy.md",
       "lines": [
-        "Anger is an emotion.",
-        "Wut ist eine Emotion.",
-        "怒りは感情だ。",
-        "愤怒是一种情绪。"
+        "A puppy is a dog.",
+        "Ein Welpe ist ein Hund.",
+        "子犬は犬だ。",
+        "小狗是狗。"
       ]
     },
     {
-      "word": "angle",
-      "filename": "angle.md",
+      "word": "purchase",
+      "filename": "purchase.md",
       "lines": [
-        "An angle is a geometric figure.",
-        "Ein Winkel ist eine geometrische Figur.",
-        "角度は幾何学的な図形だ。",
-        "角是一种几何图形。"
+        "Purchasing is an action.",
+        "Kaufen ist eine Handlung.",
+        "買うことは行動だ。",
+        "购买是一种行动。"
       ]
     },
     {
-      "word": "angry",
-      "filename": "angry.md",
+      "word": "pure",
+      "filename": "pure.md",
       "lines": [
-        "An angry dog is an animal.",
-        "Ein wütender Hund ist ein Tier.",
-        "怒っている犬は動物だ。",
-        "生气的狗是动物。"
+        "Pure water is a liquid.",
+        "Reines Wasser ist eine Flüssigkeit.",
+        "純水は液体だ。",
+        "纯净水是液体。"
       ]
     },
     {
-      "word": "ankle",
-      "filename": "ankle.md",
+      "word": "purple",
+      "filename": "purple.md",
       "lines": [
-        "An ankle is a body part.",
-        "Ein Knöchel ist ein Körperteil.",
-        "足首は体の一部だ。",
-        "脚踝是身体的一部分。"
+        "A purple flower is a plant.",
+        "Eine lila Blume ist eine Pflanze.",
+        "紫色の花は植物だ。",
+        "紫色的花是植物。"
       ]
     },
     {
-      "word": "anne",
-      "filename": "anne.md",
+      "word": "purpose",
+      "filename": "purpose.md",
       "lines": [
-        "Anne is a name.",
-        "Anne ist ein Name.",
-        "アンは名前だ。",
-        "安妮是一个名字。"
+        "A purpose is a goal.",
+        "Ein Zweck ist ein Ziel.",
+        "目的は目標だ。",
+        "目的是目标。"
       ]
     },
     {
-      "word": "annihilating",
-      "filename": "annihilating.md",
+      "word": "purposeless",
+      "filename": "purposeless.md",
       "lines": [
-        "Annihilating is destruction.",
-        "Vernichten ist Zerstörung.",
-        "全滅させることは破壊だ。",
-        "消灭是破坏。"
+        "A purposeless task is an activity.",
+        "Eine sinnlose Aufgabe ist eine Tätigkeit.",
+        "目的のない仕事は活動だ。",
+        "无目的的任务是活动。"
       ]
     },
     {
-      "word": "announcement",
-      "filename": "announcement.md",
+      "word": "purposelessness",
+      "filename": "purposelessness.md",
       "lines": [
-        "An announcement is a message.",
-        "Eine Ankündigung ist eine Nachricht.",
-        "発表はメッセージだ。",
-        "公告是一条消息。"
+        "Purposelessness is a state.",
+        "Sinnlosigkeit ist ein Zustand.",
+        "無目的は状態だ。",
+        "无目的是状态。"
       ]
     },
     {
-      "word": "announcing",
-      "filename": "announcing.md",
+      "word": "purr",
+      "filename": "purr.md",
       "lines": [
-        "Announcing is communication.",
-        "Ankündigen ist Kommunikation.",
-        "発表することはコミュニケーションだ。",
-        "宣布是沟通。"
+        "Purring is a sound.",
+        "Schnurren ist ein Geräusch.",
+        "ゴロゴロすることは音だ。",
+        "呼噜声是声音。"
       ]
     },
     {
-      "word": "annoyed",
-      "filename": "annoyed.md",
+      "word": "purse",
+      "filename": "purse.md",
       "lines": [
-        "An annoyed person is a human.",
-        "Ein genervter Mensch ist ein Mensch.",
-        "イライラしている人は人間だ。",
-        "烦恼的人是人。"
+        "A purse is a bag.",
+        "Eine Handtasche ist eine Tasche.",
+        "ハンドバッグはバッグだ。",
+        "手提包是包。"
       ]
     }
   ],

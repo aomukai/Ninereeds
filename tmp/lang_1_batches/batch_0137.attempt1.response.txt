@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "drinking",
-      "filename": "drinking.md",
+      "word": "trap",
+      "filename": "trap.md",
       "lines": [
-        "Drinking is an activity.",
-        "Trinken ist eine Aktivität.",
-        "飲むことは活動だ。",
-        "喝是一种活动。"
+        "A trap is a device.",
+        "Eine Falle ist ein Gerät.",
+        "罠は装置だ。",
+        "陷阱是一种装置。"
       ]
     },
     {
-      "word": "drip",
-      "filename": "drip.md",
+      "word": "trapped",
+      "filename": "trapped.md",
       "lines": [
-        "A drip is a liquid.",
-        "Ein Tropfen ist eine Flüssigkeit.",
-        "滴は液体だ。",
-        "一滴是液体。"
+        "A trapped mouse is an animal.",
+        "Eine gefangene Maus ist ein Tier.",
+        "捕まったネズミは動物だ。",
+        "被捉住的老鼠是动物。"
       ]
     },
     {
-      "word": "dripping",
-      "filename": "dripping.md",
+      "word": "trash",
+      "filename": "trash.md",
       "lines": [
-        "Dripping is falling.",
-        "Tropfen ist Fallen.",
-        "滴ることは落下だ。",
-        "滴落是下落。"
+        "Trash is waste.",
+        "Müll ist Abfall.",
+        "ゴミは廃棄物だ。",
+        "垃圾是废物。"
       ]
     },
     {
-      "word": "drive",
-      "filename": "drive.md",
+      "word": "travel",
+      "filename": "travel.md",
       "lines": [
-        "Driving is movement.",
-        "Fahren ist Bewegung.",
-        "運転することは移動だ。",
-        "开车是移动。"
+        "Travel is movement.",
+        "Reisen ist Bewegung.",
+        "旅行は移動だ。",
+        "旅行是移动。"
       ]
     },
     {
-      "word": "driver",
-      "filename": "driver.md",
+      "word": "traveler",
+      "filename": "traveler.md",
       "lines": [
-        "A driver is a person.",
-        "Ein Fahrer ist eine Person.",
-        "運転手は人だ。",
-        "司机是人。"
+        "A traveler is a person.",
+        "Ein Reisender ist eine Person.",
+        "旅行者は人だ。",
+        "旅行者是人。"
       ]
     },
     {
-      "word": "driveway",
-      "filename": "driveway.md",
+      "word": "tray",
+      "filename": "tray.md",
       "lines": [
-        "A driveway is a road.",
-        "Eine Einfahrt ist eine Straße.",
-        "私道は道路だ。",
-        "私家车道是道路。"
+        "A tray is an object.",
+        "Ein Tablett ist ein Gegenstand.",
+        "トレイは物だ。",
+        "托盘是物品。"
       ]
     },
     {
-      "word": "drizzle",
-      "filename": "drizzle.md",
+      "word": "treasure",
+      "filename": "treasure.md",
       "lines": [
-        "Drizzle is rain.",
-        "Nieselregen ist Regen.",
-        "霧雨は雨だ。",
-        "毛毛雨是雨。"
+        "Treasure is wealth.",
+        "Schatz ist Reichtum.",
+        "宝物は富だ。",
+        "宝藏是财富。"
       ]
     },
     {
-      "word": "droop",
-      "filename": "droop.md",
+      "word": "treat",
+      "filename": "treat.md",
       "lines": [
-        "Drooping is bending.",
-        "Hängen ist Beugen.",
-        "垂れることは曲がることだ。",
-        "下垂是弯曲。"
+        "A treat is a reward.",
+        "Ein Leckerbissen ist eine Belohnung.",
+        "おやつは報酬だ。",
+        "零食是奖励。"
       ]
     },
     {
-      "word": "drop",
-      "filename": "drop.md",
+      "word": "treatment",
+      "filename": "treatment.md",
       "lines": [
-        "Dropping is releasing.",
-        "Fallenlassen ist Loslassen.",
-        "落とすことは解放だ。",
-        "丢弃是释放。"
+        "Treatment is medical care.",
+        "Behandlung ist medizinische Versorgung.",
+        "治療は医療だ。",
+        "治疗是医疗。"
       ]
     },
     {
-      "word": "droplet",
-      "filename": "droplet.md",
+      "word": "tree",
+      "filename": "tree.md",
       "lines": [
-        "A droplet is a drop.",
-        "Ein Tröpfchen ist ein Tropfen.",
-        "小滴は滴だ。",
-        "小水滴是水滴。"
+        "A tree is a plant.",
+        "Ein Baum ist eine Pflanze.",
+        "木は植物だ。",
+        "树是植物。"
       ]
     }
   ],

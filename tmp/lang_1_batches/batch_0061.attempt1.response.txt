@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "captain",
-      "filename": "captain.md",
+      "word": "sharpen",
+      "filename": "sharpen.md",
       "lines": [
-        "A captain is a leader.",
-        "Ein Kapitän ist ein Anführer.",
-        "船長はリーダーだ。",
-        "船长是领导者。"
+        "Sharpening is a process.",
+        "Schärfen ist ein Prozess.",
+        "研ぐことはプロセスだ。",
+        "磨刀是一个过程。"
       ]
     },
     {
-      "word": "capture",
-      "filename": "capture.md",
+      "word": "shatter",
+      "filename": "shatter.md",
       "lines": [
-        "Capturing is an action.",
-        "Einfangen ist eine Handlung.",
-        "捕まえることは行動だ。",
-        "捕捉是一种行动。"
+        "Shattering is breaking.",
+        "Zersplittern ist Brechen.",
+        "粉砕は破壊だ。",
+        "粉碎是破坏。"
       ]
     },
     {
-      "word": "car",
-      "filename": "car.md",
+      "word": "shattering",
+      "filename": "shattering.md",
       "lines": [
-        "A car is a vehicle.",
-        "Ein Auto ist ein Fahrzeug.",
-        "車は乗り物だ。",
-        "汽车是交通工具。"
+        "Shattering is a type of break.",
+        "Zersplitterung ist eine Art Bruch.",
+        "粉砕は一種の破壊だ。",
+        "粉碎是一种破坏。"
       ]
     },
     {
-      "word": "carbon",
-      "filename": "carbon.md",
+      "word": "shave",
+      "filename": "shave.md",
       "lines": [
-        "Carbon is an element.",
-        "Kohlenstoff ist ein Element.",
-        "炭素は元素だ。",
-        "碳是一种元素。"
+        "Shaving is hair removal.",
+        "Rasieren ist Haarentfernung.",
+        "剃ることは毛の除去だ。",
+        "刮毛是去除毛发。"
       ]
     },
     {
-      "word": "card",
-      "filename": "card.md",
+      "word": "shawl",
+      "filename": "shawl.md",
       "lines": [
-        "A card is a piece of cardboard.",
-        "Eine Karte ist ein Stück Pappe.",
-        "カードは一枚の段ボールだ。",
-        "卡片是一块纸板。"
+        "A shawl is a garment.",
+        "Ein Schal ist ein Kleidungsstück.",
+        "ショールは衣類だ。",
+        "披肩是衣物。"
       ]
     },
     {
-      "word": "cardboard",
-      "filename": "cardboard.md",
+      "word": "shear",
+      "filename": "shear.md",
       "lines": [
-        "Cardboard is a material.",
-        "Pappe ist ein Material.",
-        "段ボールは素材だ。",
-        "纸板是一种材料。"
+        "Shearing is cutting.",
+        "Scheren ist Schneiden.",
+        "刈ることは切断だ。",
+        "剪切是切割。"
       ]
     },
     {
-      "word": "care",
-      "filename": "care.md",
+      "word": "shed",
+      "filename": "shed.md",
       "lines": [
-        "Care is attention.",
-        "Fürsorge ist Aufmerksamkeit.",
-        "ケアは注意だ。",
-        "关怀是关注。"
+        "Shedding is a natural process.",
+        "Haaren ist ein natürlicher Prozess.",
+        "抜け毛は自然なプロセスだ。",
+        "脱毛是一个自然过程。"
       ]
     },
     {
-      "word": "careful",
-      "filename": "careful.md",
+      "word": "sheep",
+      "filename": "sheep.md",
       "lines": [
-        "A careful person is a person.",
-        "Ein vorsichtiger Mensch ist ein Mensch.",
-        "注意深い人は人だ。",
-        "细心的人是人。"
+        "A sheep is an animal.",
+        "Ein Schaf ist ein Tier.",
+        "羊は動物だ。",
+        "羊是动物。"
       ]
     },
     {
-      "word": "caregiver",
-      "filename": "caregiver.md",
+      "word": "sheet",
+      "filename": "sheet.md",
       "lines": [
-        "A caregiver is a person.",
-        "Ein Pfleger ist ein Mensch.",
-        "介護者は人だ。",
-        "看护者是人。"
+        "A sheet is a piece of cloth.",
+        "Ein Laken ist ein Stück Stoff.",
+        "シーツは布の一枚だ。",
+        "床单是布料。"
       ]
     },
     {
-      "word": "careless",
-      "filename": "careless.md",
+      "word": "sheet of rain",
+      "filename": "sheet_of_rain.md",
       "lines": [
-        "A careless person is a person.",
-        "Ein unvorsichtiger Mensch ist ein Mensch.",
-        "不注意な人は人だ。",
-        "粗心的人是人。"
+        "A sheet of rain is a weather phenomenon.",
+        "Ein Regenvorhang ist ein Wetterphänomen.",
+        "雨のカーテンは天候現象だ。",
+        "雨帘是一种天气现象。"
       ]
     }
   ],

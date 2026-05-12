@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "disclosing",
-      "filename": "disclosing.md",
+      "word": "tin",
+      "filename": "tin.md",
       "lines": [
-        "Disclosing is revealing information.",
-        "Offenlegen bedeutet, Informationen preiszugeben.",
-        "情報を開示することは、明らかにすることだ。",
-        "披露就是透露信息。"
+        "Tin is a metal.",
+        "Zinn ist ein Metall.",
+        "錫は金属だ。",
+        "锡是金属。"
       ]
     },
     {
-      "word": "discomfort",
-      "filename": "discomfort.md",
+      "word": "tine",
+      "filename": "tine.md",
       "lines": [
-        "Discomfort is a feeling.",
-        "Unbehagen ist ein Gefühl.",
-        "不快感は感情だ。",
-        "不适是一种感觉。"
+        "A tine is a prong.",
+        "Eine Zinke ist ein Zacken.",
+        "歯は突起だ。",
+        "齿是突起。"
       ]
     },
     {
-      "word": "disconfirm",
-      "filename": "disconfirm.md",
+      "word": "tint",
+      "filename": "tint.md",
       "lines": [
-        "Disconfirming is refuting a claim.",
-        "Widerlegen bedeutet, eine Behauptung zu entkräften.",
-        "反証することは、主張を否定することだ。",
-        "证伪就是反驳一个主张。"
+        "A tint is a shade.",
+        "Eine Tönung ist ein Farbton.",
+        "色合いは色調だ。",
+        "色调是颜色的一种。"
       ]
     },
     {
-      "word": "disconfirmation",
-      "filename": "disconfirmation.md",
+      "word": "tiny",
+      "filename": "tiny.md",
       "lines": [
-        "Disconfirmation is a refutation.",
-        "Widerlegung ist eine Zurückweisung.",
-        "反証は否定だ。",
-        "证伪是一种反驳。"
+        "A tiny bird is an animal.",
+        "Ein winziger Vogel ist ein Tier.",
+        "小さな鳥は動物だ。",
+        "很小的鸟是动物。"
       ]
     },
     {
-      "word": "discover",
-      "filename": "discover.md",
+      "word": "tip",
+      "filename": "tip.md",
       "lines": [
-        "Discovering is finding something new.",
-        "Entdecken bedeutet, etwas Neues zu finden.",
-        "発見することは、新しいものを見つけることだ。",
-        "发现就是找到新事物。"
+        "A tip is a point.",
+        "Eine Spitze ist ein Punkt.",
+        "先端は点だ。",
+        "尖端是点。"
       ]
     },
     {
-      "word": "discovering",
-      "filename": "discovering.md",
+      "word": "tip of the branch",
+      "filename": "tip_of_the_branch.md",
       "lines": [
-        "Discovering is finding something new.",
-        "Entdecken bedeutet, etwas Neues zu finden.",
-        "発見することは、新しいものを見つけることだ。",
-        "发现就是找到新事物。"
+        "A tip of the branch is a part of a tree.",
+        "Eine Astspitze ist ein Teil eines Baumes.",
+        "枝の先端は木の一部だ。",
+        "树枝的尖端是树的一部分。"
       ]
     },
     {
-      "word": "discovery",
-      "filename": "discovery.md",
+      "word": "tiptoe",
+      "filename": "tiptoe.md",
       "lines": [
-        "A discovery is a finding.",
-        "Eine Entdeckung ist ein Fund.",
-        "発見は見つけ物だ。",
-        "发现是一种找到的东西。"
+        "A tiptoe is a part of a foot.",
+        "Eine Zehenspitze ist ein Teil eines Fußes.",
+        "つま先は足の一部だ。",
+        "脚尖是脚的一部分。"
       ]
     },
     {
-      "word": "discursive",
-      "filename": "discursive.md",
+      "word": "tire",
+      "filename": "tire.md",
       "lines": [
-        "A discursive essay is a text.",
-        "Ein diskursiver Aufsatz ist ein Text.",
-        "議論的なエッセイは文章だ。",
-        "散漫的文章是一种文本。"
+        "A tire is a part of a car.",
+        "Ein Reifen ist ein Teil eines Autos.",
+        "タイヤは車の一部だ。",
+        "轮胎是汽车的一部分。"
       ]
     },
     {
-      "word": "discussing",
-      "filename": "discussing.md",
+      "word": "tirednes",
+      "filename": "tirednes.md",
       "lines": [
-        "Discussing is talking about a topic.",
-        "Diskutieren bedeutet, über ein Thema zu sprechen.",
-        "議論することは、話題について話すことだ。",
-        "讨论就是谈论一个话题。"
+        "Tirednes is a state.",
+        "Müdigkeit ist ein Zustand.",
+        "疲れは状態だ。",
+        "疲劳是一种状态。"
       ]
     },
     {
-      "word": "discussion",
-      "filename": "discussion.md",
+      "word": "tissue",
+      "filename": "tissue.md",
       "lines": [
-        "A discussion is a conversation.",
-        "Eine Diskussion ist ein Gespräch.",
-        "議論は会話だ。",
-        "讨论是一种对话。"
+        "A tissue is a piece of paper.",
+        "Ein Tissue ist ein Stück Papier.",
+        "ティッシュは紙の一部だ。",
+        "纸巾是纸的一种。"
       ]
     }
   ],

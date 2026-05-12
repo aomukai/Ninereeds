@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "base",
-      "filename": "base.md",
+      "word": "researching",
+      "filename": "researching.md",
       "lines": [
-        "A base is a support.",
-        "Eine Basis ist eine Stütze.",
-        "ベースは支えだ。",
-        "底座是支撑。"
+        "Researching is investigation.",
+        "Forschen ist Untersuchung.",
+        "研究することは調査だ。",
+        "研究是调查。"
       ]
     },
     {
-      "word": "baseball",
-      "filename": "baseball.md",
+      "word": "resembling",
+      "filename": "resembling.md",
       "lines": [
-        "A baseball is a ball.",
-        "Ein Baseball ist ein Ball.",
-        "野球ボールはボールだ。",
-        "棒球是球。"
+        "Resembling is similarity.",
+        "Ähneln ist Ähnlichkeit.",
+        "似ることは類似だ。",
+        "相似是类似。"
       ]
     },
     {
-      "word": "baseball bat",
-      "filename": "baseball_bat.md",
+      "word": "reserving",
+      "filename": "reserving.md",
       "lines": [
-        "A baseball bat is a tool.",
-        "Ein Baseballschläger ist ein Werkzeug.",
-        "野球のバットは道具だ。",
-        "棒球棒是工具。"
+        "Reserving is booking.",
+        "Reservieren ist Buchen.",
+        "予約することは予約だ。",
+        "预订是预约。"
       ]
     },
     {
-      "word": "baseline",
-      "filename": "baseline.md",
+      "word": "reshaping",
+      "filename": "reshaping.md",
       "lines": [
-        "A baseline is a line.",
-        "Eine Basislinie ist eine Linie.",
-        "ベースラインは線だ。",
-        "基线是线。"
+        "Reshaping is modification.",
+        "Umformen ist Veränderung.",
+        "再形成することは変更だ。",
+        "重塑是改变。"
       ]
     },
     {
-      "word": "basement",
-      "filename": "basement.md",
+      "word": "resistance",
+      "filename": "resistance.md",
       "lines": [
-        "A basement is a room.",
-        "Ein Keller ist ein Raum.",
-        "地下室は部屋だ。",
-        "地下室是房间。"
+        "Resistance is a force.",
+        "Widerstand ist eine Kraft.",
+        "抵抗は力だ。",
+        "阻力是一种力。"
       ]
     },
     {
-      "word": "basic",
-      "filename": "basic.md",
+      "word": "resisting",
+      "filename": "resisting.md",
       "lines": [
-        "A basic phone is a device.",
-        "Ein einfaches Telefon ist ein Gerät.",
-        "基本的な電話は機器だ。",
-        "基本的电话是设备。"
+        "Resisting is opposition.",
+        "Widerstehen ist Widerstand.",
+        "抵抗することは反対だ。",
+        "抵抗是反对。"
       ]
     },
     {
-      "word": "basis",
-      "filename": "basis.md",
+      "word": "resolve",
+      "filename": "resolve.md",
       "lines": [
-        "A basis is a foundation.",
-        "Eine Basis ist eine Grundlage.",
-        "基礎は基盤だ。",
-        "基础是根基。"
+        "Resolving is a decision.",
+        "Lösen ist eine Entscheidung.",
+        "解決することは決定だ。",
+        "解决是决定。"
       ]
     },
     {
-      "word": "basket",
-      "filename": "basket.md",
+      "word": "resource",
+      "filename": "resource.md",
       "lines": [
-        "A basket is a container.",
-        "Ein Korb ist ein Behälter.",
-        "かごは容器だ。",
-        "篮子是容器。"
+        "A resource is a supply.",
+        "Eine Ressource ist ein Vorrat.",
+        "資源は供給だ。",
+        "资源是一种供应。"
       ]
     },
     {
-      "word": "basketball",
-      "filename": "basketball.md",
+      "word": "respected",
+      "filename": "respected.md",
       "lines": [
-        "A basketball is a ball.",
-        "Ein Basketball ist ein Ball.",
-        "バスケットボールはボールだ。",
-        "篮球是球。"
+        "A respected teacher is a professional.",
+        "Ein respektierter Lehrer ist ein Profi.",
+        "尊敬される教師は専門家だ。",
+        "受尊敬的老师是专业人士。"
       ]
     },
     {
-      "word": "bat",
-      "filename": "bat.md",
+      "word": "respectful",
+      "filename": "respectful.md",
       "lines": [
-        "A bat is an animal.",
-        "Eine Fledermaus ist ein Tier.",
-        "コウモリは動物だ。",
-        "蝙蝠是动物。"
+        "A respectful student is a learner.",
+        "Ein respektvoller Schüler ist ein Lernender.",
+        "礼儀正しい学生は学習者だ。",
+        "有礼貌的学生是学习者。"
       ]
     }
   ],

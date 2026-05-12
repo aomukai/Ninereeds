@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "biologist",
-      "filename": "biologist.md",
+      "word": "room",
+      "filename": "room.md",
       "lines": [
-        "A biologist is a scientist.",
-        "Ein Biologe ist ein Wissenschaftler.",
-        "生物学者は科学者だ。",
-        "生物学家是科学家。"
+        "A room is a space.",
+        "Ein Zimmer ist ein Raum.",
+        "部屋は空間だ。",
+        "房间是一个空间。"
       ]
     },
     {
-      "word": "birch",
-      "filename": "birch.md",
+      "word": "rooster",
+      "filename": "rooster.md",
       "lines": [
-        "A birch is a tree.",
-        "Eine Birke ist ein Baum.",
-        "白樺は木だ。",
-        "桦树是树。"
+        "A rooster is a bird.",
+        "Ein Hahn ist ein Vogel.",
+        "雄鶏は鳥だ。",
+        "公鸡是鸟。"
       ]
     },
     {
-      "word": "bird",
-      "filename": "bird.md",
+      "word": "root",
+      "filename": "root.md",
       "lines": [
-        "A bird is an animal.",
-        "Ein Vogel ist ein Tier.",
-        "鳥は動物だ。",
-        "鸟是动物。"
+        "A root is a part of a plant.",
+        "Eine Wurzel ist ein Teil einer Pflanze.",
+        "根は植物の一部だ。",
+        "根是植物的一部分。"
       ]
     },
     {
-      "word": "birdhouse",
-      "filename": "birdhouse.md",
+      "word": "rope",
+      "filename": "rope.md",
       "lines": [
-        "A birdhouse is a house.",
-        "Ein Vogelhaus ist ein Haus.",
-        "鳥の巣箱は家だ。",
-        "鸟屋是房子。"
+        "A rope is an object.",
+        "Ein Seil ist ein Gegenstand.",
+        "ロープは物体だ。",
+        "绳子是一个物体。"
       ]
     },
     {
-      "word": "birth",
-      "filename": "birth.md",
+      "word": "rose",
+      "filename": "rose.md",
       "lines": [
-        "A birth is an event.",
-        "Eine Geburt ist ein Ereignis.",
-        "出産は出来事だ。",
-        "出生是事件。"
+        "A rose is a flower.",
+        "Eine Rose ist eine Blume.",
+        "バラは花だ。",
+        "玫瑰是花。"
       ]
     },
     {
-      "word": "birthday",
-      "filename": "birthday.md",
+      "word": "rot",
+      "filename": "rot.md",
       "lines": [
-        "A birthday is a celebration.",
-        "Ein Geburtstag ist eine Feier.",
-        "誕生日はお祝いだ。",
-        "生日是庆祝。"
+        "Rot is decay.",
+        "Fäulnis ist Zersetzung.",
+        "腐敗は分解だ。",
+        "腐烂是分解。"
       ]
     },
     {
-      "word": "bit",
-      "filename": "bit.md",
+      "word": "rotating",
+      "filename": "rotating.md",
       "lines": [
-        "A bit is a piece.",
-        "Ein Stück ist ein Teil.",
-        "一片は部分だ。",
-        "一小块是部分。"
+        "Rotating is turning.",
+        "Drehen ist eine Bewegung.",
+        "回転は動きだ。",
+        "旋转是运动。"
       ]
     },
     {
-      "word": "bite",
-      "filename": "bite.md",
+      "word": "rotation",
+      "filename": "rotation.md",
       "lines": [
-        "A bite is a wound.",
-        "Ein Biss ist eine Wunde.",
-        "噛み傷は傷だ。",
-        "咬伤是伤口。"
+        "Rotation is circular movement.",
+        "Rotation ist eine Drehbewegung.",
+        "回転は円運動だ。",
+        "旋转是圆周运动。"
       ]
     },
     {
-      "word": "biting",
-      "filename": "biting.md",
+      "word": "rotten",
+      "filename": "rotten.md",
       "lines": [
-        "Biting is an action.",
-        "Beißen ist eine Handlung.",
-        "噛むことは動作だ。",
-        "咬是动作。"
+        "A rotten apple is a fruit.",
+        "Ein fauler Apfel ist eine Frucht.",
+        "腐ったりんごは果物だ。",
+        "腐烂的苹果是水果。"
       ]
     },
     {
-      "word": "bitter",
-      "filename": "bitter.md",
+      "word": "rough",
+      "filename": "rough.md",
       "lines": [
-        "A bitter lemon is a fruit.",
-        "Eine bittere Zitrone ist eine Frucht.",
-        "苦いレモンは果物だ。",
-        "苦柠檬是水果。"
+        "A rough rock is a stone.",
+        "Ein rauer Stein ist ein Gestein.",
+        "ざらざらした石は岩だ。",
+        "粗糙的石头是岩石。"
       ]
     }
   ],

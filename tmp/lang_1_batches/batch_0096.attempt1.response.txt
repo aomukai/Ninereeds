@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "contradiction",
-      "filename": "contradiction.md",
+      "word": "sticky",
+      "filename": "sticky.md",
       "lines": [
-        "A contradiction is a conflict.",
-        "Ein Widerspruch ist ein Konflikt.",
-        "矛盾は対立だ。",
-        "矛盾是对立。"
+        "A sticky note is a note.",
+        "Ein klebriger Notizzettel ist ein Notizzettel.",
+        "粘着性のある付箋は付箋だ。",
+        "粘性便签是便签。"
       ]
     },
     {
-      "word": "contrast",
-      "filename": "contrast.md",
+      "word": "stiff",
+      "filename": "stiff.md",
       "lines": [
-        "A contrast is a difference.",
-        "Ein Kontrast ist ein Unterschied.",
-        "対比は違いだ。",
-        "对比是差异。"
+        "A stiff brush is a brush.",
+        "Eine steife Bürste ist eine Bürste.",
+        "硬いブラシはブラシだ。",
+        "硬刷子是刷子。"
       ]
     },
     {
-      "word": "contrasting",
-      "filename": "contrasting.md",
+      "word": "stillness",
+      "filename": "stillness.md",
       "lines": [
-        "A contrasting shirt is a garment.",
-        "Ein kontrastierendes Hemd ist ein Kleidungsstück.",
-        "対照的なシャツは衣類だ。",
-        "对比鲜明的衬衫是衣物。"
+        "Stillness is a state.",
+        "Stille ist ein Zustand.",
+        "静けさは状態だ。",
+        "静止是一种状态。"
       ]
     },
     {
-      "word": "contributing",
-      "filename": "contributing.md",
+      "word": "stimulating",
+      "filename": "stimulating.md",
       "lines": [
-        "Contributing is helping.",
-        "Beitragen ist Helfen.",
-        "貢献することは助けることだ。",
-        "贡献是帮助。"
+        "A stimulating drink is a drink.",
+        "Ein anregendes Getränk ist ein Getränk.",
+        "刺激的な飲み物は飲み物だ。",
+        "刺激性的饮料是饮料。"
       ]
     },
     {
-      "word": "control",
-      "filename": "control.md",
+      "word": "sting",
+      "filename": "sting.md",
       "lines": [
-        "Control is a method.",
-        "Kontrolle ist eine Methode.",
-        "制御は方法だ。",
-        "控制是方法。"
+        "A sting is a pain.",
+        "Ein Stich ist ein Schmerz.",
+        "刺し傷は痛みだ。",
+        "刺痛是一种疼痛。"
       ]
     },
     {
-      "word": "controlled",
-      "filename": "controlled.md",
+      "word": "stink",
+      "filename": "stink.md",
       "lines": [
-        "A controlled experiment is a test.",
-        "Ein kontrolliertes Experiment ist ein Test.",
-        "制御された実験はテストだ。",
-        "受控的实验是测试。"
+        "A stink is an odor.",
+        "Ein Gestank ist ein Geruch.",
+        "悪臭は匂いだ。",
+        "恶臭是一种气味。"
       ]
     },
     {
-      "word": "convenience",
-      "filename": "convenience.md",
+      "word": "stinky",
+      "filename": "stinky.md",
       "lines": [
-        "Convenience is a benefit.",
-        "Bequemlichkeit ist ein Vorteil.",
-        "便利さは利点だ。",
-        "便利是好处。"
+        "A stinky cheese is a cheese.",
+        "Ein stinkender Käse ist ein Käse.",
+        "臭いチーズはチーズだ。",
+        "臭奶酪是奶酪。"
       ]
     },
     {
-      "word": "converging",
-      "filename": "converging.md",
+      "word": "stir",
+      "filename": "stir.md",
       "lines": [
-        "Converging is merging.",
-        "Konvergieren ist Verschmelzen.",
-        "収束することは融合だ。",
-        "收敛是融合。"
+        "A stir is a motion.",
+        "Ein Rühren ist eine Bewegung.",
+        "かき混ぜは動作だ。",
+        "搅拌是一种动作。"
       ]
     },
     {
-      "word": "conversation",
-      "filename": "conversation.md",
+      "word": "stirred",
+      "filename": "stirred.md",
       "lines": [
-        "A conversation is an exchange.",
-        "Ein Gespräch ist ein Austausch.",
-        "会話は交換だ。",
-        "对话是交流。"
+        "A stirred drink is a drink.",
+        "Ein gerührtes Getränk ist ein Getränk.",
+        "かき混ぜられた飲み物は飲み物だ。",
+        "搅拌过的饮料是饮料。"
       ]
     },
     {
-      "word": "converting",
-      "filename": "converting.md",
+      "word": "stitch",
+      "filename": "stitch.md",
       "lines": [
-        "Converting is changing.",
-        "Umwandeln ist Ändern.",
-        "変換することは変更だ。",
-        "转换是改变。"
+        "A stitch is a technique.",
+        "Ein Stich ist eine Technik.",
+        "縫い目は技術だ。",
+        "针脚是一种技术。"
       ]
     }
   ],

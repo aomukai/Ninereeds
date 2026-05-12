@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bother",
-      "filename": "bother.md",
+      "word": "sandbox",
+      "filename": "sandbox.md",
       "lines": [
-        "A bother is a nuisance.",
-        "Ein Ärgernis ist eine Plage.",
-        "迷惑は厄介なことだ。",
-        "麻烦事是困扰。"
+        "A sandbox is a play area.",
+        "Ein Sandkasten ist ein Spielbereich.",
+        "砂場は遊び場だ。",
+        "沙坑是游乐区。"
       ]
     },
     {
-      "word": "bottle",
-      "filename": "bottle.md",
+      "word": "sandcastle",
+      "filename": "sandcastle.md",
       "lines": [
-        "A bottle is a container.",
-        "Eine Flasche ist ein Behälter.",
-        "ボトルは容器だ。",
-        "瓶子是容器。"
+        "A sandcastle is a structure.",
+        "Eine Sandburg ist ein Bauwerk.",
+        "砂の城は構造物だ。",
+        "沙堡是建筑物。"
       ]
     },
     {
-      "word": "bottle of oil",
-      "filename": "bottle_of_oil.md",
+      "word": "sandwich",
+      "filename": "sandwich.md",
       "lines": [
-        "A bottle of oil is a container.",
-        "Eine Ölflasche ist ein Behälter.",
-        "オイルボトルは容器だ。",
-        "油瓶是容器。"
+        "A sandwich is a food.",
+        "Ein Sandwich ist ein Lebensmittel.",
+        "サンドイッチは食べ物だ。",
+        "三明治是食物。"
       ]
     },
     {
-      "word": "bottom",
-      "filename": "bottom.md",
+      "word": "sandy",
+      "filename": "sandy.md",
       "lines": [
-        "A bottom is a part.",
-        "Ein Boden ist ein Teil.",
-        "底は部分だ。",
-        "底部是部分。"
+        "A sandy beach is a shore.",
+        "Ein sandiger Strand ist ein Ufer.",
+        "砂浜は海岸だ。",
+        "沙滩是海岸。"
       ]
     },
     {
-      "word": "bought",
-      "filename": "bought.md",
+      "word": "sanity",
+      "filename": "sanity.md",
       "lines": [
-        "A bought item is a product.",
-        "Ein gekaufter Gegenstand ist ein Produkt.",
-        "買った品物は製品だ。",
-        "购买的商品是产品。"
+        "Sanity is a mental state.",
+        "Geistige Gesundheit ist ein mentaler Zustand.",
+        "正気は精神状態だ。",
+        "理智是心理状态。"
       ]
     },
     {
-      "word": "bouncing",
-      "filename": "bouncing.md",
+      "word": "sap",
+      "filename": "sap.md",
       "lines": [
-        "Bouncing is movement.",
-        "Hüpfen ist Bewegung.",
-        "跳ねることは動きだ。",
-        "弹跳是运动。"
+        "Sap is a liquid.",
+        "Saft ist eine Flüssigkeit.",
+        "樹液は液体だ。",
+        "树液是液体。"
       ]
     },
     {
-      "word": "boundary",
-      "filename": "boundary.md",
+      "word": "sarcasm",
+      "filename": "sarcasm.md",
       "lines": [
-        "A boundary is a line.",
-        "Eine Grenze ist eine Linie.",
-        "境界は線だ。",
-        "边界是线。"
+        "Sarcasm is a form of speech.",
+        "Sarkasmus ist eine Form der Rede.",
+        "皮肉は話し方の一種だ。",
+        "讽刺是一种说话方式。"
       ]
     },
     {
-      "word": "bounded",
-      "filename": "bounded.md",
+      "word": "sat",
+      "filename": "sat.md",
       "lines": [
-        "A bounded region is a space.",
-        "Ein begrenzter Bereich ist ein Raum.",
-        "有界な領域は空間だ。",
-        "有界区域是空间。"
+        "A sat is a satellite.",
+        "Ein Sat ist ein Satellit.",
+        "サットは衛星だ。",
+        "Sat是卫星。"
       ]
     },
     {
-      "word": "bounding",
-      "filename": "bounding.md",
+      "word": "satisfaction",
+      "filename": "satisfaction.md",
       "lines": [
-        "Bounding is an action.",
-        "Springen ist eine Handlung.",
-        "跳躍は動作だ。",
-        "跳跃是动作。"
+        "Satisfaction is a feeling.",
+        "Zufriedenheit ist ein Gefühl.",
+        "満足は感情だ。",
+        "满足是一种感觉。"
       ]
     },
     {
-      "word": "bow",
-      "filename": "bow.md",
+      "word": "satisfied",
+      "filename": "satisfied.md",
       "lines": [
-        "A bow is a weapon.",
-        "Ein Bogen ist eine Waffe.",
-        "弓は武器だ。",
-        "弓是武器。"
+        "A satisfied customer is a person.",
+        "Ein zufriedener Kunde ist ein Mensch.",
+        "満足した客は人だ。",
+        "满意的顾客是人。"
       ]
     }
   ],

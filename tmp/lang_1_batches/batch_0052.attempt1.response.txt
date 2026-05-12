@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "brother",
-      "filename": "brother.md",
+      "word": "scrub",
+      "filename": "scrub.md",
       "lines": [
-        "A brother is a male sibling.",
-        "Ein Bruder ist ein männliches Geschwister.",
-        "兄弟は男性のきょうだいだ。",
-        "兄弟是男性兄弟姐妹。"
+        "A scrub is a cleaning action.",
+        "Ein Schrubben ist eine Reinigung.",
+        "こすりは掃除だ。",
+        "擦洗是一种清洁。"
       ]
     },
     {
-      "word": "brown",
-      "filename": "brown.md",
+      "word": "scrubbed",
+      "filename": "scrubbed.md",
       "lines": [
-        "A brown bear is an animal.",
-        "Ein brauner Bär ist ein Tier.",
-        "茶色い熊は動物だ。",
-        "棕熊是动物。"
+        "A scrubbed floor is a surface.",
+        "Ein geschrubbter Boden ist eine Oberfläche.",
+        "こすられた床は表面だ。",
+        "擦洗过的地板是表面。"
       ]
     },
     {
-      "word": "browsing",
-      "filename": "browsing.md",
+      "word": "scrutinizing",
+      "filename": "scrutinizing.md",
       "lines": [
-        "Browsing is searching.",
-        "Surfen ist Suchen.",
-        "ブラウジングは検索だ。",
-        "浏览是搜索。"
+        "Scrutinizing is examination.",
+        "Genaues Prüfen ist eine Untersuchung.",
+        "綿密に調べることは調査だ。",
+        "审视是检查。"
       ]
     },
     {
-      "word": "bruise",
-      "filename": "bruise.md",
+      "word": "sculpting",
+      "filename": "sculpting.md",
       "lines": [
-        "A bruise is an injury.",
-        "Ein Bluterguss ist eine Verletzung.",
-        "あざはけがだ。",
-        "瘀伤是受伤。"
+        "Sculpting is art.",
+        "Bildhauerei ist Kunst.",
+        "彫刻は芸術だ。",
+        "雕刻是艺术。"
       ]
     },
     {
-      "word": "brush",
-      "filename": "brush.md",
+      "word": "scurry",
+      "filename": "scurry.md",
       "lines": [
-        "A brush is a tool.",
-        "Eine Bürste ist ein Werkzeug.",
-        "ブラシは道具だ。",
-        "刷子是工具。"
+        "A scurry is a quick movement.",
+        "Ein Huschen ist eine schnelle Bewegung.",
+        "小走りは速い動きだ。",
+        "小跑是快速移动。"
       ]
     },
     {
-      "word": "brushstroke",
-      "filename": "brushstroke.md",
+      "word": "scurrying",
+      "filename": "scurrying.md",
       "lines": [
-        "A brushstroke is a mark.",
-        "Ein Pinselstrich ist eine Markierung.",
-        "筆の一筆は跡だ。",
-        "笔触是痕迹。"
+        "Scurrying is movement.",
+        "Huschen ist Bewegung.",
+        "小走りすることは移動だ。",
+        "小跑是移动。"
       ]
     },
     {
-      "word": "bubble",
-      "filename": "bubble.md",
+      "word": "sea",
+      "filename": "sea.md",
       "lines": [
-        "A bubble is a sphere of air.",
-        "Eine Blase ist eine Luftkugel.",
-        "泡は空気の球だ。",
-        "气泡是空气球。"
+        "A sea is a body of water.",
+        "Ein Meer ist ein Gewässer.",
+        "海は水域だ。",
+        "海是水体。"
       ]
     },
     {
-      "word": "bubbly",
-      "filename": "bubbly.md",
+      "word": "seagull",
+      "filename": "seagull.md",
       "lines": [
-        "A bubbly drink is a beverage.",
-        "Ein sprudelndes Getränk ist ein Getränk.",
-        "泡立つ飲み物は飲料だ。",
-        "起泡的饮料是饮品。"
+        "A seagull is a bird.",
+        "Eine Möwe ist ein Vogel.",
+        "カモメは鳥だ。",
+        "海鸥是鸟。"
       ]
     },
     {
-      "word": "bucket",
-      "filename": "bucket.md",
+      "word": "seal",
+      "filename": "seal.md",
       "lines": [
-        "A bucket is a container.",
-        "Ein Eimer ist ein Behälter.",
-        "バケツは容器だ。",
-        "桶是容器。"
+        "A seal is an animal.",
+        "Eine Robbe ist ein Tier.",
+        "アザラシは動物だ。",
+        "海豹是动物。"
       ]
     },
     {
-      "word": "bucket of water",
-      "filename": "bucket_of_water.md",
+      "word": "seam",
+      "filename": "seam.md",
       "lines": [
-        "A bucket of water is a container of liquid.",
-        "Ein Eimer Wasser ist ein Behälter mit Flüssigkeit.",
-        "水の入ったバケツは液体の容器だ。",
-        "一桶水是液体容器。"
+        "A seam is a joint.",
+        "Eine Naht ist eine Verbindung.",
+        "縫い目は接合部だ。",
+        "接缝是接合处。"
       ]
     }
   ],

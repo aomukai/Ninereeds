@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "comprising",
-      "filename": "comprising.md",
+      "word": "splash",
+      "filename": "splash.md",
       "lines": [
-        "Comprising is inclusion.",
-        "Umfassen ist Einschluss.",
-        "含むことは包含だ。",
-        "包含是包括。"
+        "A splash is a sound.",
+        "Ein Platscher ist ein Geräusch.",
+        "水しぶきは音だ。",
+        "飞溅是声音。"
       ]
     },
     {
-      "word": "comprising_3",
-      "filename": "comprising_3.md",
+      "word": "split",
+      "filename": "split.md",
       "lines": [
-        "A comprising_3 is a concept.",
-        "Ein comprising_3 ist ein Konzept.",
-        "comprising_3は概念だ。",
-        "comprising_3是一个概念。"
+        "A split is a division.",
+        "Eine Spaltung ist eine Trennung.",
+        "分裂は分離だ。",
+        "分裂是分离。"
       ]
     },
     {
-      "word": "compromise",
-      "filename": "compromise.md",
+      "word": "spoil",
+      "filename": "spoil.md",
       "lines": [
-        "A compromise is an agreement.",
-        "Ein Kompromiss ist eine Vereinbarung.",
-        "妥協は合意だ。",
-        "妥协是一种协议。"
+        "Spoiling is damage.",
+        "Verderben ist Schaden.",
+        "腐敗することは損傷だ。",
+        "变质是损坏。"
       ]
     },
     {
-      "word": "compromising",
-      "filename": "compromising.md",
+      "word": "sponge",
+      "filename": "sponge.md",
       "lines": [
-        "Compromising is negotiation.",
-        "Kompromittieren ist Verhandlung.",
-        "妥協することは交渉だ。",
-        "妥协是谈判。"
+        "A sponge is a tool.",
+        "Ein Schwamm ist ein Werkzeug.",
+        "スポンジは道具だ。",
+        "海绵是工具。"
       ]
     },
     {
-      "word": "compute",
-      "filename": "compute.md",
+      "word": "spool",
+      "filename": "spool.md",
       "lines": [
-        "A compute is a resource.",
-        "Ein Compute ist eine Ressource.",
-        "コンピュートはリソースだ。",
-        "计算是一种资源。"
+        "A spool is a cylinder.",
+        "Eine Spule ist ein Zylinder.",
+        "スプールは円筒だ。",
+        "线轴是圆柱体。"
       ]
     },
     {
-      "word": "computer",
-      "filename": "computer.md",
+      "word": "spoon",
+      "filename": "spoon.md",
       "lines": [
-        "A computer is a machine.",
-        "Ein Computer ist eine Maschine.",
-        "コンピュータは機械だ。",
-        "电脑是一种机器。"
+        "A spoon is a utensil.",
+        "Ein Löffel ist ein Besteckteil.",
+        "スプーンは食器だ。",
+        "勺子是餐具。"
       ]
     },
     {
-      "word": "computing",
-      "filename": "computing.md",
+      "word": "spoonful",
+      "filename": "spoonful.md",
       "lines": [
-        "Computing is data processing.",
-        "Rechnen ist Datenverarbeitung.",
-        "コンピューティングはデータ処理だ。",
-        "计算是数据处理。"
+        "A spoonful is a quantity.",
+        "Ein Löffelvoll ist eine Menge.",
+        "ひとさじは量だ。",
+        "一勺是量。"
       ]
     },
     {
-      "word": "concealing",
-      "filename": "concealing.md",
+      "word": "sport",
+      "filename": "sport.md",
       "lines": [
-        "Concealing is hiding.",
-        "Verbergen ist Verstecken.",
-        "隠すことは隠蔽だ。",
-        "隐藏是掩盖。"
+        "Sport is an activity.",
+        "Sport ist eine Aktivität.",
+        "スポーツは活動だ。",
+        "运动是活动。"
       ]
     },
     {
-      "word": "conceiving",
-      "filename": "conceiving.md",
+      "word": "sportsmanship",
+      "filename": "sportsmanship.md",
       "lines": [
-        "Conceiving is creation.",
-        "Konzipieren ist Schöpfung.",
-        "考案することは創造だ。",
-        "构思是创造。"
+        "Sportsmanship is a quality.",
+        "Sportgeist ist eine Eigenschaft.",
+        "スポーツマンシップは性質だ。",
+        "体育精神是品质。"
       ]
     },
     {
-      "word": "concentrating",
-      "filename": "concentrating.md",
+      "word": "spot",
+      "filename": "spot.md",
       "lines": [
-        "Concentrating is focusing.",
-        "Konzentrieren ist Fokussieren.",
-        "集中することは焦点を合わせることだ。",
-        "集中是聚焦。"
+        "A spot is a mark.",
+        "Ein Fleck ist eine Markierung.",
+        "斑点は印だ。",
+        "斑点是标记。"
       ]
     }
   ],

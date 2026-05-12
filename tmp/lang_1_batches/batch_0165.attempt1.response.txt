@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "feed",
-      "filename": "feed.md",
+      "word": "visualize",
+      "filename": "visualize.md",
       "lines": [
-        "Feeding is an action.",
-        "Füttern ist eine Handlung.",
-        "餌を与えることは行動だ。",
-        "喂食是一种行为。"
+        "Visualizing is a mental process.",
+        "Visualisieren ist ein mentaler Prozess.",
+        "視覚化することは精神的なプロセスだ。",
+        "可视化是一种心理过程。"
       ]
     },
     {
-      "word": "feedback",
-      "filename": "feedback.md",
+      "word": "visualizing",
+      "filename": "visualizing.md",
       "lines": [
-        "Feedback is information.",
-        "Feedback ist Information.",
-        "フィードバックは情報だ。",
-        "反馈是信息。"
+        "Visualizing is an act of imagination.",
+        "Visualisieren ist ein Akt der Vorstellung.",
+        "視覚化することは想像の行為だ。",
+        "可视化是一种想象行为。"
       ]
     },
     {
-      "word": "feeding",
-      "filename": "feeding.md",
+      "word": "vital",
+      "filename": "vital.md",
       "lines": [
-        "Feeding is a process.",
-        "Fütterung ist ein Prozess.",
-        "給餌は過程だ。",
-        "喂养是一个过程。"
+        "A vital sign is a health measurement.",
+        "Ein Vitalzeichen ist ein Gesundheitsindikator.",
+        "バイタルサインは健康の指標だ。",
+        "生命体征是健康指标。"
       ]
     },
     {
-      "word": "feel",
-      "filename": "feel.md",
+      "word": "vitamin",
+      "filename": "vitamin.md",
       "lines": [
-        "Feeling is a sensation.",
-        "Fühlen ist eine Empfindung.",
-        "感じることは感覚だ。",
-        "感觉是一种感受。"
+        "A vitamin is a nutrient.",
+        "Ein Vitamin ist ein Nährstoff.",
+        "ビタミンは栄養素だ。",
+        "维生素是营养素。"
       ]
     },
     {
-      "word": "feeler",
-      "filename": "feeler.md",
+      "word": "vivid",
+      "filename": "vivid.md",
       "lines": [
-        "A feeler is a sensory organ.",
-        "Ein Fühler ist ein Sinnesorgan.",
-        "触角は感覚器官だ。",
-        "触角是一种感觉器官。"
+        "A vivid color is a bright hue.",
+        "Eine lebhafte Farbe ist ein heller Farbton.",
+        "鮮やかな色は明るい色合いだ。",
+        "鲜艳的颜色是明亮的色调。"
       ]
     },
     {
-      "word": "feeling",
-      "filename": "feeling.md",
+      "word": "vocabulary",
+      "filename": "vocabulary.md",
       "lines": [
-        "A feeling is an emotion.",
-        "Ein Gefühl ist eine Emotion.",
-        "気持ちは感情だ。",
-        "感觉是一种情绪。"
+        "Vocabulary is a set of words.",
+        "Vokabular ist eine Sammlung von Wörtern.",
+        "語彙は言葉の集まりだ。",
+        "词汇是词语的集合。"
       ]
     },
     {
-      "word": "feet",
-      "filename": "feet.md",
+      "word": "voice",
+      "filename": "voice.md",
       "lines": [
-        "Feet are body parts.",
-        "Füße sind Körperteile.",
-        "足は体の一部だ。",
-        "脚是身体的一部分。"
+        "A voice is a human sound.",
+        "Eine Stimme ist ein menschlicher Klang.",
+        "声は人間の音だ。",
+        "声音是人的发声。"
       ]
     },
     {
-      "word": "felt",
-      "filename": "felt.md",
+      "word": "voiding",
+      "filename": "voiding.md",
       "lines": [
-        "Felt is a fabric.",
-        "Filz ist ein Stoff.",
-        "フェルトは布地だ。",
-        "毛毡是一种布料。"
+        "Voiding is an emptying action.",
+        "Entleeren ist ein Entfernungsvorgang.",
+        "空にすることは除去のプロセスだ。",
+        "清空是一种清除过程。"
       ]
     },
     {
-      "word": "felting",
-      "filename": "felting.md",
+      "word": "volcano",
+      "filename": "volcano.md",
       "lines": [
-        "Felting is a craft.",
-        "Filzen ist ein Handwerk.",
-        "フェルティングは工芸だ。",
-        "毡化是一种工艺。"
+        "A volcano is a geological formation.",
+        "Ein Vulkan ist eine geologische Formation.",
+        "火山は地質構造だ。",
+        "火山是地质构造。"
       ]
     },
     {
-      "word": "female",
-      "filename": "female.md",
+      "word": "vole",
+      "filename": "vole.md",
       "lines": [
-        "A female cat is a cat.",
-        "Eine weibliche Katze ist eine Katze.",
-        "雌の猫は猫だ。",
-        "母猫是猫。"
+        "A vole is a rodent.",
+        "Eine Wühlmaus ist ein Nagetier.",
+        "ハタネズミはげっ歯類だ。",
+        "田鼠是啮齿动物。"
       ]
     }
   ],

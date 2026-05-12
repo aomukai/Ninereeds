@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "earthy",
-      "filename": "earthy.md",
+      "word": "trust",
+      "filename": "trust.md",
       "lines": [
-        "An earthy smell is a smell.",
-        "Ein erdiger Geruch ist ein Geruch.",
-        "土っぽい匂いは匂いだ。",
-        "一种土味的气味是气味。"
+        "Trust is a feeling.",
+        "Vertrauen ist ein Gefühl.",
+        "信頼は感情だ。",
+        "信任是感觉。"
       ]
     },
     {
-      "word": "easier",
-      "filename": "easier.md",
+      "word": "trustworthy",
+      "filename": "trustworthy.md",
       "lines": [
-        "An easier test is a test.",
-        "Ein einfacherer Test ist ein Test.",
-        "より簡単なテストはテストだ。",
-        "一个更简单的测试是测试。"
+        "A trustworthy friend is a companion.",
+        "Ein vertrauenswürdiger Freund ist ein Begleiter.",
+        "信頼できる友人は仲間だ。",
+        "值得信赖的朋友是伙伴。"
       ]
     },
     {
-      "word": "easing",
-      "filename": "easing.md",
+      "word": "truth",
+      "filename": "truth.md",
       "lines": [
-        "Easing is a reduction.",
-        "Das Erleichtern ist eine Reduzierung.",
-        "和らげることは軽減だ。",
-        "缓解是一种减少。"
+        "Truth is a fact.",
+        "Wahrheit ist eine Tatsache.",
+        "真実は事実だ。",
+        "真相是事实。"
       ]
     },
     {
-      "word": "east",
-      "filename": "east.md",
+      "word": "truth 3",
+      "filename": "truth_3.md",
       "lines": [
-        "East is a direction.",
-        "Osten ist eine Himmelsrichtung.",
-        "東は方角だ。",
-        "东是一个方向。"
+        "Truth 3 is a concept.",
+        "Wahrheit 3 ist ein Konzept.",
+        "真理3は概念だ。",
+        "真理3是概念。"
       ]
     },
     {
-      "word": "easy",
-      "filename": "easy.md",
+      "word": "try",
+      "filename": "try.md",
       "lines": [
-        "An easy problem is a problem.",
-        "Ein einfaches Problem ist ein Problem.",
-        "簡単な問題は問題だ。",
-        "一个简单的问题是问题。"
+        "Trying is an effort.",
+        "Versuchen ist eine Anstrengung.",
+        "試すことは努力だ。",
+        "尝试是努力。"
       ]
     },
     {
-      "word": "eating",
-      "filename": "eating.md",
+      "word": "tub",
+      "filename": "tub.md",
       "lines": [
-        "Eating is consumption.",
-        "Essen ist Konsum.",
-        "食べることは消費だ。",
-        "吃是一种消费。"
+        "A tub is a container.",
+        "Eine Wanne ist ein Behälter.",
+        "桶は容器だ。",
+        "盆是容器。"
       ]
     },
     {
-      "word": "echo",
-      "filename": "echo.md",
+      "word": "tube",
+      "filename": "tube.md",
       "lines": [
-        "An echo is a sound.",
-        "Ein Echo ist ein Klang.",
-        "こだまは音だ。",
-        "回声是一种声音。"
+        "A tube is a cylinder.",
+        "Eine Röhre ist ein Zylinder.",
+        "管は円柱だ。",
+        "管子是圆柱。"
       ]
     },
     {
-      "word": "echolocation",
-      "filename": "echolocation.md",
+      "word": "tuck",
+      "filename": "tuck.md",
       "lines": [
-        "Echolocation is a method.",
-        "Echoortung ist eine Methode.",
-        "反響定位は方法だ。",
-        "回声定位是一种方法。"
+        "Tucking is an action.",
+        "Einstecken ist eine Handlung.",
+        "押し込むことは動作だ。",
+        "塞入是动作。"
       ]
     },
     {
-      "word": "eclipsing",
-      "filename": "eclipsing.md",
+      "word": "tuft",
+      "filename": "tuft.md",
       "lines": [
-        "Eclipsing is a phenomenon.",
-        "Das Verfinstern ist ein Phänomen.",
-        "覆い隠すことは現象だ。",
-        "遮挡是一种现象。"
+        "A tuft is a bunch.",
+        "Ein Büschel ist ein Bündel.",
+        "房は束だ。",
+        "一簇是束。"
       ]
     },
     {
-      "word": "ecologist",
-      "filename": "ecologist.md",
+      "word": "tug",
+      "filename": "tug.md",
       "lines": [
-        "An ecologist is a scientist.",
-        "Ein Ökologe ist ein Wissenschaftler.",
-        "生態学者は科学者だ。",
-        "生态学家是科学家。"
+        "Tugging is a pull.",
+        "Ziehen ist ein Zug.",
+        "引っ張ることは引くことだ。",
+        "拉是拉力。"
       ]
     }
   ],

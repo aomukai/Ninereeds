@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "complex",
-      "filename": "complex.md",
+      "word": "spiky",
+      "filename": "spiky.md",
       "lines": [
-        "A complex diagram is a drawing.",
-        "Ein komplexes Diagramm ist eine Zeichnung.",
-        "複雑な図は絵だ。",
-        "复杂的图表是图画。"
+        "A spiky hedgehog is an animal.",
+        "Ein stacheliger Igel ist ein Tier.",
+        "トゲトゲしたハリネズミは動物だ。",
+        "有刺的刺猬是动物。"
       ]
     },
     {
-      "word": "complexity",
-      "filename": "complexity.md",
+      "word": "spill",
+      "filename": "spill.md",
       "lines": [
-        "Complexity is a property.",
-        "Komplexität ist eine Eigenschaft.",
-        "複雑さは性質だ。",
-        "复杂性是性质。"
+        "Spilling is an accident.",
+        "Verschütten ist ein Unfall.",
+        "こぼすことは事故だ。",
+        "泼洒是意外。"
       ]
     },
     {
-      "word": "complicated",
-      "filename": "complicated.md",
+      "word": "spin",
+      "filename": "spin.md",
       "lines": [
-        "A complicated puzzle is a game.",
-        "Ein kompliziertes Puzzle ist ein Spiel.",
-        "複雑なパズルはゲームだ。",
-        "复杂的拼图是游戏。"
+        "A spin is a rotation.",
+        "Eine Drehung ist eine Rotation.",
+        "回転は動きだ。",
+        "旋转是一种运动。"
       ]
     },
     {
-      "word": "complicating",
-      "filename": "complicating.md",
+      "word": "spinach",
+      "filename": "spinach.md",
       "lines": [
-        "Complicating is a process.",
-        "Komplizieren ist ein Prozess.",
-        "複雑化することはプロセスだ。",
-        "复杂化是一个过程。"
+        "Spinach is a vegetable.",
+        "Spinat ist ein Gemüse.",
+        "ホウレンソウは野菜だ。",
+        "菠菜是蔬菜。"
       ]
     },
     {
-      "word": "component",
-      "filename": "component.md",
+      "word": "spine",
+      "filename": "spine.md",
       "lines": [
-        "A component is a part.",
-        "Eine Komponente ist ein Teil.",
-        "コンポーネントは部品だ。",
-        "组件是部件。"
+        "A spine is a body part.",
+        "Eine Wirbelsäule ist ein Körperteil.",
+        "背骨は体の一部だ。",
+        "脊柱是身体的一部分。"
       ]
     },
     {
-      "word": "composing",
-      "filename": "composing.md",
+      "word": "spinning",
+      "filename": "spinning.md",
       "lines": [
-        "Composing is a process.",
-        "Komponieren ist ein Prozess.",
-        "作曲はプロセスだ。",
-        "作曲是一个过程。"
+        "Spinning is a movement.",
+        "Drehen ist eine Bewegung.",
+        "回転することは動きだ。",
+        "旋转是一种运动。"
       ]
     },
     {
-      "word": "compost",
-      "filename": "compost.md",
+      "word": "spiral",
+      "filename": "spiral.md",
       "lines": [
-        "Compost is a substance.",
-        "Kompost ist ein Stoff.",
-        "堆肥は物質だ。",
-        "堆肥是物质。"
+        "A spiral is a shape.",
+        "Eine Spirale ist eine Form.",
+        "螺旋は形だ。",
+        "螺旋是形状。"
       ]
     },
     {
-      "word": "comprehending",
-      "filename": "comprehending.md",
+      "word": "spirit",
+      "filename": "spirit.md",
       "lines": [
-        "Comprehending is a process.",
-        "Verstehen ist ein Prozess.",
-        "理解することはプロセスだ。",
-        "理解是一个过程。"
+        "A spirit is a supernatural being.",
+        "Ein Geist ist ein übernatürliches Wesen.",
+        "霊は超自然的存在だ。",
+        "灵魂是超自然的存在。"
       ]
     },
     {
-      "word": "compress",
-      "filename": "compress.md",
+      "word": "spiritual",
+      "filename": "spiritual.md",
       "lines": [
-        "Compressing is a process.",
-        "Komprimieren ist ein Prozess.",
-        "圧縮することはプロセスだ。",
-        "压缩是一个过程。"
+        "A spiritual person is a human.",
+        "Ein spiritueller Mensch ist ein Mensch.",
+        "精神的な人は人間だ。",
+        "有灵性的人是人。"
       ]
     },
     {
-      "word": "compression",
-      "filename": "compression.md",
+      "word": "spit",
+      "filename": "spit.md",
       "lines": [
-        "Compression is a process.",
-        "Kompression ist ein Prozess.",
-        "圧縮はプロセスだ。",
-        "压缩是过程。"
+        "Spitting is an action.",
+        "Spucken ist eine Handlung.",
+        "つばを吐くことは行為だ。",
+        "吐口水是一种行为。"
       ]
     }
   ],

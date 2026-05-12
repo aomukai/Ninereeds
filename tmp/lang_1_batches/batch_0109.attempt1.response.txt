@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "cuff",
-      "filename": "cuff.md",
+      "word": "surgery",
+      "filename": "surgery.md",
       "lines": [
-        "A cuff is a part of a sleeve.",
-        "Eine Manschette ist ein Teil eines Ärmels.",
-        "カフは袖の一部だ。",
-        "袖口是袖子的一部分。"
+        "Surgery is a medical procedure.",
+        "Chirurgie ist ein medizinischer Eingriff.",
+        "外科手術は医療行為だ。",
+        "手术是一种医疗程序。"
       ]
     },
     {
-      "word": "culling",
-      "filename": "culling.md",
+      "word": "surpassing",
+      "filename": "surpassing.md",
       "lines": [
-        "Culling is removal.",
-        "Aussortieren ist Entfernung.",
-        "選別することは除去だ。",
-        "筛选是去除。"
+        "Surpassing is exceeding.",
+        "Übertreffen ist Fortschritt.",
+        "超えることは進歩だ。",
+        "超越是进步。"
       ]
     },
     {
-      "word": "cultivating",
-      "filename": "cultivating.md",
+      "word": "surprise",
+      "filename": "surprise.md",
       "lines": [
-        "Cultivating is growing.",
-        "Kultivieren ist Anbau.",
-        "栽培することは農業だ。",
-        "种植是农业。"
+        "Surprise is a feeling.",
+        "Überraschung ist ein Gefühl.",
+        "驚きは感情だ。",
+        "惊喜是一种感觉。"
       ]
     },
     {
-      "word": "culture",
-      "filename": "culture.md",
+      "word": "surround",
+      "filename": "surround.md",
       "lines": [
-        "A culture is a way of life.",
-        "Eine Kultur ist eine Lebensweise.",
-        "文化は生活様式だ。",
-        "文化是生活方式。"
+        "A surround is an area.",
+        "Eine Umgebung ist ein Bereich.",
+        "周囲は領域だ。",
+        "周围是一个区域。"
       ]
     },
     {
-      "word": "cup",
-      "filename": "cup.md",
+      "word": "survey",
+      "filename": "survey.md",
       "lines": [
-        "A cup is a container.",
-        "Eine Tasse ist ein Behälter.",
-        "カップは容器だ。",
-        "杯子是容器。"
+        "A survey is a method.",
+        "Eine Umfrage ist eine Methode.",
+        "調査は方法だ。",
+        "调查是一种方法。"
       ]
     },
     {
-      "word": "cupboard",
-      "filename": "cupboard.md",
+      "word": "survival",
+      "filename": "survival.md",
       "lines": [
-        "A cupboard is a piece of furniture.",
-        "Ein Schrank ist ein Möbelstück.",
-        "食器棚は家具だ。",
-        "橱柜是家具。"
+        "Survival is a state.",
+        "Überleben ist ein Zustand.",
+        "生存は状態だ。",
+        "生存是一种状态。"
       ]
     },
     {
-      "word": "cupcake",
-      "filename": "cupcake.md",
+      "word": "survive",
+      "filename": "survive.md",
       "lines": [
-        "A cupcake is a dessert.",
-        "Ein Cupcake ist ein Dessert.",
-        "カップケーキはデザートだ。",
-        "纸杯蛋糕是甜点。"
+        "Survive is a process.",
+        "Überleben ist ein Prozess.",
+        "生存はプロセスだ。",
+        "生存是一个过程。"
       ]
     },
     {
-      "word": "cup of water",
-      "filename": "cup_of_water.md",
+      "word": "survives",
+      "filename": "survives.md",
       "lines": [
-        "A cup of water is a drink.",
-        "Eine Tasse Wasser ist ein Getränk.",
-        "水の入ったカップは飲み物だ。",
-        "一杯水是饮品。"
+        "Survives is a process.",
+        "Überleben ist ein Prozess.",
+        "生存はプロセスだ。",
+        "生存是一个过程。"
       ]
     },
     {
-      "word": "curate",
-      "filename": "curate.md",
+      "word": "surviving",
+      "filename": "surviving.md",
       "lines": [
-        "Curating is management.",
-        "Kuratieren ist Verwaltung.",
-        "キュレーションすることは管理だ。",
-        "策展是管理。"
+        "Surviving is staying alive.",
+        "Überleben ist am Leben bleiben.",
+        "生き残ることは生き続けることだ。",
+        "幸存是活下去。"
       ]
     },
     {
-      "word": "curb",
-      "filename": "curb.md",
+      "word": "suspect",
+      "filename": "suspect.md",
       "lines": [
-        "Curbing is restraint.",
-        "Eindämmen ist Zurückhaltung.",
-        "抑制することは制限だ。",
-        "抑制是限制。"
+        "A suspect is a person.",
+        "Ein Verdächtiger ist eine Person.",
+        "容疑者は人だ。",
+        "嫌疑人是一个人。"
       ]
     }
   ],

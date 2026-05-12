@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dicing",
-      "filename": "dicing.md",
+      "word": "thorny",
+      "filename": "thorny.md",
       "lines": [
-        "Dicing is cutting.",
-        "Würfeln ist Schneiden.",
-        "さいの目切りは切断だ。",
-        "切丁是切割。"
+        "A thorny bush is a plant.",
+        "Ein dorniger Busch ist eine Pflanze.",
+        "とげのある茂みは植物だ。",
+        "带刺的灌木是植物。"
       ]
     },
     {
-      "word": "dictionary",
-      "filename": "dictionary.md",
+      "word": "thought",
+      "filename": "thought.md",
       "lines": [
-        "A dictionary is a book.",
-        "Ein Wörterbuch ist ein Buch.",
-        "辞書は本だ。",
-        "字典是书。"
+        "Thought is an idea.",
+        "Ein Gedanke ist eine Idee.",
+        "思考は考えだ。",
+        "思考是一种想法。"
       ]
     },
     {
-      "word": "didn't",
-      "filename": "didn't.md",
+      "word": "thoughtful",
+      "filename": "thoughtful.md",
       "lines": [
-        "Didn't is a contraction.",
-        "Didn't ist eine Kontraktion.",
-        "ディドゥントは短縮形だ。",
-        "Didn't 是缩略词。"
+        "A thoughtful person is a person.",
+        "Ein nachdenklicher Mensch ist ein Mensch.",
+        "思いやりのある人は人だ。",
+        "体贴的人是人。"
       ]
     },
     {
-      "word": "die",
-      "filename": "die.md",
+      "word": "thousand",
+      "filename": "thousand.md",
       "lines": [
-        "Dying is an event.",
-        "Sterben ist ein Ereignis.",
-        "死ぬことは出来事だ。",
-        "死亡是事件。"
+        "Thousand is a number.",
+        "Tausend ist eine Zahl.",
+        "千は数だ。",
+        "一千是一个数字。"
       ]
     },
     {
-      "word": "died",
-      "filename": "died.md",
+      "word": "thread",
+      "filename": "thread.md",
       "lines": [
-        "Having died is a state.",
-        "Gestorben sein ist ein Zustand.",
-        "死んだことは状態だ。",
-        "已死是状态。"
+        "A thread is a string.",
+        "Ein Faden ist eine Schnur.",
+        "糸はひもだ。",
+        "线是绳子。"
       ]
     },
     {
-      "word": "difference",
-      "filename": "difference.md",
+      "word": "threat",
+      "filename": "threat.md",
       "lines": [
-        "A difference is a contrast.",
-        "Ein Unterschied ist ein Kontrast.",
-        "違いは対比だ。",
-        "差异是对比。"
+        "A threat is a danger.",
+        "Eine Drohung ist eine Gefahr.",
+        "脅威は危険だ。",
+        "威胁是危险。"
       ]
     },
     {
-      "word": "different",
-      "filename": "different.md",
+      "word": "three",
+      "filename": "three.md",
       "lines": [
-        "A different flower is a plant.",
-        "Eine andere Blume ist eine Pflanze.",
-        "違う花は植物だ。",
-        "不同的花是植物。"
+        "Three is a number.",
+        "Drei ist eine Zahl.",
+        "三は数だ。",
+        "三是数字。"
       ]
     },
     {
-      "word": "differentiating",
-      "filename": "differentiating.md",
+      "word": "threeness",
+      "filename": "threeness.md",
       "lines": [
-        "Differentiating is a process.",
-        "Differenzieren ist ein Prozess.",
-        "区別することは過程だ。",
-        "区分是过程。"
+        "Threeness is a quality.",
+        "Dreiheit ist eine Eigenschaft.",
+        "三つであることは性質だ。",
+        "三性是一种属性。"
       ]
     },
     {
-      "word": "differing",
-      "filename": "differing.md",
+      "word": "threshold",
+      "filename": "threshold.md",
       "lines": [
-        "Differing is variation.",
-        "Abweichen ist Variation.",
-        "異なることは変動だ。",
-        "相异是变化。"
+        "A threshold is a boundary.",
+        "Eine Schwelle ist eine Grenze.",
+        "敷居は境界だ。",
+        "门槛是界限。"
       ]
     },
     {
-      "word": "difficult",
-      "filename": "difficult.md",
+      "word": "threw",
+      "filename": "threw.md",
       "lines": [
-        "A difficult test is an exam.",
-        "Ein schwieriger Test ist eine Prüfung.",
-        "難しいテストは試験だ。",
-        "困难的测试是考试。"
+        "Threw is an action.",
+        "Werfen ist eine Handlung.",
+        "投げることは動作だ。",
+        "扔是动作。"
       ]
     }
   ],

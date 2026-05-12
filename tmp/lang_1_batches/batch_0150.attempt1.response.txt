@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "entry-level",
-      "filename": "entry-level.md",
+      "word": "unhelpful",
+      "filename": "unhelpful.md",
       "lines": [
-        "An entry-level job is a position.",
-        "Ein Einstiegsjob ist eine Position.",
-        "エントリーレベルの仕事はポジションだ。",
-        "入门级的工作是职位。"
+        "An unhelpful tool is a device.",
+        "Ein unhilfreiches Werkzeug ist ein Gerät.",
+        "役に立たない道具は機械だ。",
+        "一个没有帮助的工具是一个设备。"
       ]
     },
     {
-      "word": "entryway",
-      "filename": "entryway.md",
+      "word": "uniform",
+      "filename": "uniform.md",
       "lines": [
-        "An entryway is a passage.",
-        "Ein Eingang ist ein Durchgang.",
-        "玄関は通路だ。",
-        "入口是通道。"
+        "A uniform is clothing.",
+        "Eine Uniform ist Kleidung.",
+        "制服は服だ。",
+        "制服是衣服。"
       ]
     },
     {
-      "word": "enumerate",
-      "filename": "enumerate.md",
+      "word": "unifying",
+      "filename": "unifying.md",
       "lines": [
-        "Enumerating is listing.",
-        "Aufzählen ist Auflisten.",
-        "列挙することはリスト化だ。",
-        "枚举是列出。"
+        "Unifying is a process.",
+        "Vereinheitlichen ist ein Prozess.",
+        "統一することはプロセスだ。",
+        "统一是一个过程。"
       ]
     },
     {
-      "word": "enumerating",
-      "filename": "enumerating.md",
+      "word": "unintelligible",
+      "filename": "unintelligible.md",
       "lines": [
-        "Enumerating is counting.",
-        "Aufzählen ist Zählen.",
-        "列挙することは数えることだ。",
-        "枚举是计数。"
+        "An unintelligible voice is a sound.",
+        "Eine unverständliche Stimme ist ein Geräusch.",
+        "理解できない声は音だ。",
+        "一个无法理解的说话声是声音。"
       ]
     },
     {
-      "word": "envelope",
-      "filename": "envelope.md",
+      "word": "unintentional",
+      "filename": "unintentional.md",
       "lines": [
-        "An envelope is a covering.",
-        "Ein Umschlag ist eine Hülle.",
-        "封筒はカバーだ。",
-        "信封是封皮。"
+        "An unintentional action is a mistake.",
+        "Eine unbeabsichtigte Handlung ist ein Fehler.",
+        "意図しない行動はミスだ。",
+        "一个无意的行为是一个错误。"
       ]
     },
     {
-      "word": "environment",
-      "filename": "environment.md",
+      "word": "unique",
+      "filename": "unique.md",
       "lines": [
-        "An environment is a system.",
-        "Eine Umgebung ist ein System.",
-        "環境はシステムだ。",
-        "环境是系统。"
+        "A unique item is an object.",
+        "Ein einzigartiger Gegenstand ist ein Objekt.",
+        "ユニークな品物は物だ。",
+        "一个独特的物品是一个物体。"
       ]
     },
     {
-      "word": "equal",
-      "filename": "equal.md",
+      "word": "unit",
+      "filename": "unit.md",
       "lines": [
-        "An equal sign is a symbol.",
-        "Ein Gleichheitszeichen ist ein Symbol.",
-        "等号は記号だ。",
-        "等号是符号。"
+        "A unit is a component.",
+        "Eine Einheit ist eine Komponente.",
+        "単位は構成要素だ。",
+        "一个单元是一个组件。"
       ]
     },
     {
-      "word": "equality",
-      "filename": "equality.md",
+      "word": "uniting",
+      "filename": "uniting.md",
       "lines": [
-        "Equality is a state.",
-        "Gleichheit ist ein Zustand.",
-        "平等は状態だ。",
-        "平等是状态。"
+        "Uniting is a process.",
+        "Vereinigen ist ein Prozess.",
+        "統合することはプロセスだ。",
+        "联合是一个过程。"
       ]
     },
     {
-      "word": "equipment",
-      "filename": "equipment.md",
+      "word": "unity",
+      "filename": "unity.md",
       "lines": [
-        "Equipment is gear.",
-        "Ausrüstung ist Ausstattung.",
-        "装備はギアだ。",
-        "设备是装备。"
+        "Unity is a state.",
+        "Einheit ist ein Zustand.",
+        "統一は状態だ。",
+        "统一是一种状态。"
       ]
     },
     {
-      "word": "equipping",
-      "filename": "equipping.md",
+      "word": "universal",
+      "filename": "universal.md",
       "lines": [
-        "Equipping is preparing.",
-        "Ausstatten ist Vorbereiten.",
-        "装備することは準備だ。",
-        "装备是准备。"
+        "A universal truth is a fact.",
+        "Eine universelle Wahrheit ist eine Tatsache.",
+        "普遍的な真実は事実だ。",
+        "一个普遍的真理是一个事实。"
       ]
     }
   ],

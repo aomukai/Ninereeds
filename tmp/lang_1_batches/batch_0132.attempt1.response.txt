@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "distance",
-      "filename": "distance.md",
+      "word": "took",
+      "filename": "took.md",
       "lines": [
-        "A distance is a length.",
-        "Eine Entfernung ist eine Länge.",
-        "距離は長さだ。",
-        "距离是长度。"
+        "Took is an action.",
+        "Nehmen ist eine Handlung.",
+        "取ることは動作だ。",
+        "拿是动作。"
       ]
     },
     {
-      "word": "distancing",
-      "filename": "distancing.md",
+      "word": "tool",
+      "filename": "tool.md",
       "lines": [
-        "Distancing is separation.",
-        "Distanzieren ist Trennung.",
-        "距離を置くことは分離だ。",
-        "保持距离是分离。"
+        "A tool is an object.",
+        "Ein Werkzeug ist ein Gegenstand.",
+        "道具は物だ。",
+        "工具是物品。"
       ]
     },
     {
-      "word": "distant",
-      "filename": "distant.md",
+      "word": "tooth",
+      "filename": "tooth.md",
       "lines": [
-        "A distant mountain is a mountain.",
-        "Ein entfernter Berg ist ein Berg.",
-        "遠い山は山だ。",
-        "远处的山是山。"
+        "A tooth is a body part.",
+        "Ein Zahn ist ein Körperteil.",
+        "歯は体の一部だ。",
+        "牙齿是身体部位。"
       ]
     },
     {
-      "word": "distinct",
-      "filename": "distinct.md",
+      "word": "toothbrush",
+      "filename": "toothbrush.md",
       "lines": [
-        "A distinct sound is a sound.",
-        "Ein deutlicher Klang ist ein Klang.",
-        "はっきりした音は音だ。",
-        "清晰的声音是声音。"
+        "A toothbrush is a tool.",
+        "Eine Zahnbürste ist ein Werkzeug.",
+        "歯ブラシは道具だ。",
+        "牙刷是工具。"
       ]
     },
     {
-      "word": "distinction",
-      "filename": "distinction.md",
+      "word": "toothpaste",
+      "filename": "toothpaste.md",
       "lines": [
-        "A distinction is a difference.",
-        "Eine Unterscheidung ist ein Unterschied.",
-        "区別は違いだ。",
-        "区别是差异。"
+        "Toothpaste is a product.",
+        "Zahnpasta ist ein Produkt.",
+        "歯磨き粉は製品だ。",
+        "牙膏是产品。"
       ]
     },
     {
-      "word": "distinguishing",
-      "filename": "distinguishing.md",
+      "word": "top",
+      "filename": "top.md",
       "lines": [
-        "Distinguishing is identification.",
-        "Unterscheiden ist Identifikation.",
-        "見分けることは識別だ。",
-        "区分是识别。"
+        "A top is a toy.",
+        "Ein Kreisel ist ein Spielzeug.",
+        "こまはおもちゃだ。",
+        "陀螺是玩具。"
       ]
     },
     {
-      "word": "distorting",
-      "filename": "distorting.md",
+      "word": "topic",
+      "filename": "topic.md",
       "lines": [
-        "Distorting is deformation.",
-        "Verzerren ist Deformation.",
-        "歪めることは変形だ。",
-        "扭曲是变形。"
+        "A topic is a concept.",
+        "Ein Thema ist ein Begriff.",
+        "トピックは概念だ。",
+        "话题是概念。"
       ]
     },
     {
-      "word": "distracting",
-      "filename": "distracting.md",
+      "word": "torch",
+      "filename": "torch.md",
       "lines": [
-        "Distracting is interruption.",
-        "Ablenken ist Unterbrechung.",
-        "気を散らすことは中断だ。",
-        "分心是中断。"
+        "A torch is a tool.",
+        "Eine Taschenlampe ist ein Werkzeug.",
+        "懐中電灯は道具だ。",
+        "手电筒是工具。"
       ]
     },
     {
-      "word": "distraction",
-      "filename": "distraction.md",
+      "word": "torn",
+      "filename": "torn.md",
       "lines": [
-        "A distraction is an interruption.",
-        "Eine Ablenkung ist eine Unterbrechung.",
-        "注意散漫は中断だ。",
-        "分心是一种中断。"
+        "A torn shirt is clothing.",
+        "Ein zerrissenes Hemd ist Kleidung.",
+        "破れたシャツは衣服だ。",
+        "撕裂的衬衫是衣服。"
       ]
     },
     {
-      "word": "distribute",
-      "filename": "distribute.md",
+      "word": "tornado",
+      "filename": "tornado.md",
       "lines": [
-        "Distributing is allocation.",
-        "Verteilen ist Zuteilung.",
-        "配ることは割り当てだ。",
-        "分发是分配。"
+        "A tornado is a storm.",
+        "Ein Tornado ist ein Sturm.",
+        "竜巻は嵐だ。",
+        "龙卷风是风暴。"
       ]
     }
   ],

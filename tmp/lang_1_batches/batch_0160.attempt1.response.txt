@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "eye",
-      "filename": "eye.md",
+      "word": "vanilla",
+      "filename": "vanilla.md",
       "lines": [
-        "An eye is a body part.",
-        "Ein Auge ist ein Körperteil.",
-        "目は体の一部だ。",
-        "眼睛是身体的一部分。"
+        "Vanilla is a flavor.",
+        "Vanille ist ein Geschmack.",
+        "バニラは味だ。",
+        "香草是一种口味。"
       ]
     },
     {
-      "word": "eyebrow",
-      "filename": "eyebrow.md",
+      "word": "vanishing",
+      "filename": "vanishing.md",
       "lines": [
-        "An eyebrow is facial hair.",
-        "Eine Augenbraue ist Gesichtsbehaarung.",
-        "眉毛は顔の毛だ。",
-        "眉毛是面部毛发。"
+        "Vanishing is a process.",
+        "Verschwinden ist ein Prozess.",
+        "消えることはプロセスだ。",
+        "消失是一个过程。"
       ]
     },
     {
-      "word": "eyelid",
-      "filename": "eyelid.md",
+      "word": "vantage",
+      "filename": "vantage.md",
       "lines": [
-        "An eyelid is a skin fold.",
-        "Ein Augenlid ist eine Hautfalte.",
-        "まぶたは皮膚のひだだ。",
-        "眼睑是皮肤褶皱。"
+        "Vantage is a viewpoint.",
+        "Aussichtspunkt ist ein Standpunkt.",
+        "見晴らしは視点だ。",
+        "有利位置是一个观点。"
       ]
     },
     {
-      "word": "fable",
-      "filename": "fable.md",
+      "word": "vaporizing",
+      "filename": "vaporizing.md",
       "lines": [
-        "A fable is a story.",
-        "Eine Fabel ist eine Geschichte.",
-        "寓話は物語だ。",
-        "寓言是故事。"
+        "Vaporizing is a process.",
+        "Verdampfen ist ein Prozess.",
+        "蒸発することはプロセスだ。",
+        "蒸发是一个过程。"
       ]
     },
     {
-      "word": "fabric",
-      "filename": "fabric.md",
+      "word": "variation",
+      "filename": "variation.md",
       "lines": [
-        "Fabric is a material.",
-        "Stoff ist ein Material.",
-        "布は素材だ。",
-        "布料是材料。"
+        "Variation is a difference.",
+        "Variation ist ein Unterschied.",
+        "変化は違いだ。",
+        "变化是一个差异。"
       ]
     },
     {
-      "word": "fabricating",
-      "filename": "fabricating.md",
+      "word": "varying",
+      "filename": "varying.md",
       "lines": [
-        "Fabricating is lying.",
-        "Fabricieren ist Lügen.",
-        "捏造することは嘘をつくことだ。",
-        "捏造是撒谎。"
+        "Varying is a change.",
+        "Variieren ist eine Veränderung.",
+        "変わることは変化だ。",
+        "变化是一个改变。"
       ]
     },
     {
-      "word": "face",
-      "filename": "face.md",
+      "word": "vase",
+      "filename": "vase.md",
       "lines": [
-        "A face is a body part.",
-        "Ein Gesicht ist ein Körperteil.",
-        "顔は体の一部だ。",
-        "脸是身体的一部分。"
+        "A vase is a container.",
+        "Eine Vase ist ein Behälter.",
+        "花瓶は容器だ。",
+        "花瓶是一个容器。"
       ]
     },
     {
-      "word": "facilitating",
-      "filename": "facilitating.md",
+      "word": "vegetable",
+      "filename": "vegetable.md",
       "lines": [
-        "Facilitating is enabling.",
-        "Erleichtern ist Ermöglichen.",
-        "促進することは可能にすることだ。",
-        "促进是使可能。"
+        "A vegetable is a plant.",
+        "Ein Gemüse ist eine Pflanze.",
+        "野菜は植物だ。",
+        "蔬菜是植物。"
       ]
     },
     {
-      "word": "fact",
-      "filename": "fact.md",
+      "word": "vehicle",
+      "filename": "vehicle.md",
       "lines": [
-        "A fact is information.",
-        "Eine Tatsache ist eine Information.",
-        "事実は情報だ。",
-        "事实是信息。"
+        "A vehicle is a means of transport.",
+        "Ein Fahrzeug ist ein Transportmittel.",
+        "車両は交通手段だ。",
+        "车辆是一种交通工具。"
       ]
     },
     {
-      "word": "factor",
-      "filename": "factor.md",
+      "word": "veil",
+      "filename": "veil.md",
       "lines": [
-        "A factor is an element.",
-        "Ein Faktor ist ein Element.",
-        "要因は要素だ。",
-        "因素是要素。"
+        "A veil is a cloth.",
+        "Ein Schleier ist ein Tuch.",
+        "ベールは布だ。",
+        "面纱是布。"
       ]
     }
   ],

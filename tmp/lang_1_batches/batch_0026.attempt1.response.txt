@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "augmenting",
-      "filename": "augmenting.md",
+      "word": "refrigerator",
+      "filename": "refrigerator.md",
       "lines": [
-        "Augmenting is increasing.",
-        "Augmentieren ist Vergrößern.",
-        "拡大することは増加だ。",
-        "扩展是增加。"
+        "A refrigerator is an appliance.",
+        "Ein Kühlschrank ist ein Gerät.",
+        "冷蔵庫は家電だ。",
+        "冰箱是电器。"
       ]
     },
     {
-      "word": "aunt",
-      "filename": "aunt.md",
+      "word": "refuse",
+      "filename": "refuse.md",
       "lines": [
-        "An aunt is a relative.",
-        "Eine Tante ist eine Verwandte.",
-        "叔母は親戚だ。",
-        "阿姨是亲戚。"
+        "Refuse is waste.",
+        "Müll ist Abfall.",
+        "ごみは廃棄物だ。",
+        "垃圾是废弃物。"
       ]
     },
     {
-      "word": "authenticating",
-      "filename": "authenticating.md",
+      "word": "refuting",
+      "filename": "refuting.md",
       "lines": [
-        "Authenticating is verifying.",
-        "Authentifizieren ist Verifizieren.",
-        "認証することは確認だ。",
-        "认证是验证。"
+        "Refuting is a response.",
+        "Widerlegen ist eine Entgegnung.",
+        "反論は応答だ。",
+        "反驳是一种回应。"
       ]
     },
     {
-      "word": "author",
-      "filename": "author.md",
+      "word": "regardless",
+      "filename": "regardless.md",
       "lines": [
-        "An author is a writer.",
-        "Ein Autor ist ein Schriftsteller.",
-        "著者は作家だ。",
-        "作者是作家。"
+        "A regardless decision is a choice.",
+        "Eine gleichgültige Entscheidung ist eine Wahl.",
+        "無頓着な決断は選択だ。",
+        "一个随意的决定是一种选择。"
       ]
     },
     {
-      "word": "authority",
-      "filename": "authority.md",
+      "word": "regret",
+      "filename": "regret.md",
       "lines": [
-        "Authority is power.",
-        "Autorität ist Macht.",
-        "権威は力だ。",
-        "权威是权力。"
+        "Regret is a feeling.",
+        "Bedauern ist ein Gefühl.",
+        "後悔は感情だ。",
+        "后悔是一种情感。"
       ]
     },
     {
-      "word": "authorizing",
-      "filename": "authorizing.md",
+      "word": "regular",
+      "filename": "regular.md",
       "lines": [
-        "Authorizing is granting.",
-        "Autorisieren ist Gewähren.",
-        "承認することは許可だ。",
-        "授权是许可。"
+        "A regular pattern is a design.",
+        "Ein regelmäßiges Muster ist ein Design.",
+        "規則的なパターンはデザインだ。",
+        "规则的图案是一种设计。"
       ]
     },
     {
-      "word": "automatic",
-      "filename": "automatic.md",
+      "word": "regulating",
+      "filename": "regulating.md",
       "lines": [
-        "An automatic door is a door.",
-        "Eine automatische Tür ist eine Tür.",
-        "自動ドアはドアだ。",
-        "自动门是门。"
+        "Regulating is management.",
+        "Regulieren ist Steuerung.",
+        "規制することは管理だ。",
+        "监管是管理。"
       ]
     },
     {
-      "word": "automatic system",
-      "filename": "automatic_system.md",
+      "word": "reigning",
+      "filename": "reigning.md",
       "lines": [
-        "An automatic system is a system.",
-        "Ein automatisches System ist ein System.",
-        "自動システムはシステムだ。",
-        "自动系统是系统。"
+        "Reigning is leadership.",
+        "Regieren ist Führung.",
+        "統治は指導だ。",
+        "统治是领导。"
       ]
     },
     {
-      "word": "autumn",
-      "filename": "autumn.md",
+      "word": "reindeer",
+      "filename": "reindeer.md",
       "lines": [
-        "Autumn is a season.",
-        "Herbst ist eine Jahreszeit.",
-        "秋は季節だ。",
-        "秋天是季节。"
+        "A reindeer is an animal.",
+        "Ein Rentier ist ein Tier.",
+        "トナカイは動物だ。",
+        "驯鹿是动物。"
       ]
     },
     {
-      "word": "available",
-      "filename": "available.md",
+      "word": "reinforcing",
+      "filename": "reinforcing.md",
       "lines": [
-        "An available seat is a seat.",
-        "Ein verfügbarer Sitzplatz ist ein Sitzplatz.",
-        "空いている席は席だ。",
-        "可用的座位是座位。"
+        "Reinforcing is support.",
+        "Verstärken ist Unterstützung.",
+        "補強は支援だ。",
+        "加固是支持。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "banner",
-      "filename": "banner.md",
+      "word": "replicating",
+      "filename": "replicating.md",
       "lines": [
-        "A banner is a flag.",
-        "Ein Banner ist eine Fahne.",
-        "バナーは旗だ。",
-        "横幅是旗帜。"
+        "Replicating is copying.",
+        "Replizieren ist Kopieren.",
+        "複製することはコピーだ。",
+        "复制就是拷贝。"
       ]
     },
     {
-      "word": "bar",
-      "filename": "bar.md",
+      "word": "replication",
+      "filename": "replication.md",
       "lines": [
-        "A bar is a place.",
-        "Eine Bar ist ein Ort.",
-        "バーは場所だ。",
-        "酒吧是场所。"
+        "Replication is a process.",
+        "Replikation ist ein Prozess.",
+        "複製はプロセスだ。",
+        "复制是一个过程。"
       ]
     },
     {
-      "word": "bare",
-      "filename": "bare.md",
+      "word": "reply",
+      "filename": "reply.md",
       "lines": [
-        "A bare wall is a surface.",
-        "Eine kahle Wand ist eine Oberfläche.",
-        "裸の壁は表面だ。",
-        "裸露的墙是表面。"
+        "A reply is a response.",
+        "Eine Antwort ist eine Erwiderung.",
+        "返事は応答だ。",
+        "回复是一种回应。"
       ]
     },
     {
-      "word": "bargaining",
-      "filename": "bargaining.md",
+      "word": "report",
+      "filename": "report.md",
       "lines": [
-        "Bargaining is negotiation.",
-        "Feilschen ist Verhandlung.",
-        "値切りは交渉だ。",
-        "讨价还价是谈判。"
+        "A report is a document.",
+        "Ein Bericht ist ein Dokument.",
+        "報告は文書だ。",
+        "报告是一种文档。"
       ]
     },
     {
-      "word": "baring",
-      "filename": "baring.md",
+      "word": "representing",
+      "filename": "representing.md",
       "lines": [
-        "Baring is revealing.",
-        "Entblößen ist Enthüllen.",
-        "露出は明らかにすることだ。",
-        "裸露是揭示。"
+        "Representing is an action.",
+        "Darstellen ist eine Handlung.",
+        "表現することは動作だ。",
+        "代表是一种行为。"
       ]
     },
     {
-      "word": "bark",
-      "filename": "bark.md",
+      "word": "reproducing",
+      "filename": "reproducing.md",
       "lines": [
-        "Bark is a protective layer.",
-        "Rinde ist eine Schutzschicht.",
-        "樹皮は保護層だ。",
-        "树皮是保护层。"
+        "Reproducing is a process.",
+        "Reproduzieren ist ein Prozess.",
+        "再生はプロセスだ。",
+        "再生是一个过程。"
       ]
     },
     {
-      "word": "barn",
-      "filename": "barn.md",
+      "word": "requesting",
+      "filename": "requesting.md",
       "lines": [
-        "A barn is a building.",
-        "Eine Scheune ist ein Gebäude.",
-        "納屋は建物だ。",
-        "谷仓是建筑物。"
+        "Requesting is asking.",
+        "Anfragen ist Bitten.",
+        "要求することは頼むことだ。",
+        "请求就是询问。"
       ]
     },
     {
-      "word": "barrel",
-      "filename": "barrel.md",
+      "word": "requiring",
+      "filename": "requiring.md",
       "lines": [
-        "A barrel is a container.",
-        "Ein Fass ist ein Behälter.",
-        "樽は容器だ。",
-        "桶是容器。"
+        "Requiring is needing.",
+        "Erfordern ist Brauchen.",
+        "必要とすることは必要だ。",
+        "需要就是必需。"
       ]
     },
     {
-      "word": "barrier",
-      "filename": "barrier.md",
+      "word": "requisitioning",
+      "filename": "requisitioning.md",
       "lines": [
-        "A barrier is an obstacle.",
-        "Eine Barriere ist ein Hindernis.",
-        "障壁は障害だ。",
-        "屏障是障碍。"
+        "Requisitioning is ordering.",
+        "Anfordern ist Bestellen.",
+        "請求することは注文だ。",
+        "征用就是订购。"
       ]
     },
     {
-      "word": "bartering",
-      "filename": "bartering.md",
+      "word": "rescue",
+      "filename": "rescue.md",
       "lines": [
-        "Bartering is exchange.",
-        "Tauschen ist Austausch.",
-        "物々交換は交換だ。",
-        "以物易物是交换。"
+        "A rescue is a saving.",
+        "Eine Rettung ist eine Bergung.",
+        "救助は救出だ。",
+        "救援是一种拯救。"
       ]
     }
   ],

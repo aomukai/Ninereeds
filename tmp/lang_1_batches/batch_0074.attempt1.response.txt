@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "circumstance",
-      "filename": "circumstance.md",
+      "word": "slicer",
+      "filename": "slicer.md",
       "lines": [
-        "A circumstance is a situation.",
-        "Ein Umstand ist eine Situation.",
-        "状況は状態だ。",
-        "情况是一种状态。"
+        "A slicer is a tool.",
+        "Ein Slicer ist ein Werkzeug.",
+        "スライサーは道具だ。",
+        "切片器是工具。"
       ]
     },
     {
-      "word": "circumstance_3",
-      "filename": "circumstance_3.md",
+      "word": "slide",
+      "filename": "slide.md",
       "lines": [
-        "A circumstance_3 is a condition.",
-        "Ein dritter Umstand ist eine Bedingung.",
-        "第三の状況は条件だ。",
-        "第三种情况是一种条件。"
+        "A slide is a playground toy.",
+        "Eine Rutsche ist ein Spielgerät.",
+        "滑り台は遊具だ。",
+        "滑梯是玩具。"
       ]
     },
     {
-      "word": "citizen",
-      "filename": "citizen.md",
+      "word": "slider",
+      "filename": "slider.md",
       "lines": [
-        "A citizen is a person.",
-        "Ein Bürger ist eine Person.",
-        "市民は人だ。",
-        "公民是一个人。"
+        "A slider is a control.",
+        "Ein Slider ist ein Bedienelement.",
+        "スライダーは操作部品だ。",
+        "滑块是控件。"
       ]
     },
     {
-      "word": "citrus",
-      "filename": "citrus.md",
+      "word": "slid object",
+      "filename": "slid_object.md",
       "lines": [
-        "A citrus is a fruit.",
-        "Eine Zitrusfrucht ist eine Frucht.",
-        "柑橘類は果物だ。",
-        "柑橘是一种水果。"
+        "A slid object is a moved object.",
+        "Ein geschobenes Objekt ist ein bewegtes Objekt.",
+        "滑らせた物体は動かされた物体だ。",
+        "滑动的物体是移动的物体。"
       ]
     },
     {
-      "word": "city",
-      "filename": "city.md",
+      "word": "slight",
+      "filename": "slight.md",
       "lines": [
-        "A city is a place.",
-        "Eine Stadt ist ein Ort.",
-        "都市は場所だ。",
-        "城市是一个地方。"
+        "A slight breeze is a wind.",
+        "Eine leichte Brise ist ein Wind.",
+        "軽い風は風だ。",
+        "微风是风。"
       ]
     },
     {
-      "word": "civic",
-      "filename": "civic.md",
+      "word": "slim",
+      "filename": "slim.md",
       "lines": [
-        "A civic center is a building.",
-        "Ein Bürgerzentrum ist ein Gebäude.",
-        "市民センターは建物だ。",
-        "市民中心是一座建筑。"
+        "A slim book is a publication.",
+        "Ein dünnes Buch ist eine Publikation.",
+        "薄い本は出版物だ。",
+        "薄书是出版物。"
       ]
     },
     {
-      "word": "claim",
-      "filename": "claim.md",
+      "word": "slime",
+      "filename": "slime.md",
       "lines": [
-        "Claiming is an assertion.",
-        "Behaupten ist eine Aussage.",
-        "主張することは断言だ。",
-        "声称是一种断言。"
+        "Slime is a substance.",
+        "Schleim ist eine Substanz.",
+        "スライムは物質だ。",
+        "粘液是物质。"
       ]
     },
     {
-      "word": "clam",
-      "filename": "clam.md",
+      "word": "slimy",
+      "filename": "slimy.md",
       "lines": [
-        "A clam is a shellfish.",
-        "Eine Muschel ist ein Schalentier.",
-        "ハマグリは貝だ。",
-        "蛤蜊是一种贝类。"
+        "A slimy fish is an animal.",
+        "Ein schleimiger Fisch ist ein Tier.",
+        "ぬるぬるした魚は動物だ。",
+        "粘滑的鱼是动物。"
       ]
     },
     {
-      "word": "clam like",
-      "filename": "clam_like.md",
+      "word": "slip",
+      "filename": "slip.md",
       "lines": [
-        "A clam-like shell is a seashell.",
-        "Eine muschelartige Schale ist ein Meeresgehäuse.",
-        "ハマグリのような殻は貝殻だ。",
-        "像蛤蜊的壳是一种贝壳。"
+        "A slip is a mistake.",
+        "Ein Versehen ist ein Fehler.",
+        "ミスは間違いだ。",
+        "失误是一种错误。"
       ]
     },
     {
-      "word": "clap",
-      "filename": "clap.md",
+      "word": "slipper",
+      "filename": "slipper.md",
       "lines": [
-        "Clapping is a sound.",
-        "Klatschen ist ein Geräusch.",
-        "拍手は音だ。",
-        "鼓掌是一种声音。"
+        "A slipper is a shoe.",
+        "Ein Hausschuh ist ein Schuh.",
+        "スリッパは靴だ。",
+        "拖鞋是鞋。"
       ]
     }
   ],

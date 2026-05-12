@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "darkness",
-      "filename": "darkness.md",
+      "word": "symbolizing",
+      "filename": "symbolizing.md",
       "lines": [
-        "Darkness is the absence of light.",
-        "Dunkelheit ist die Abwesenheit von Licht.",
-        "暗闇は光のない状態だ。",
-        "黑暗是没有光的状态。"
+        "Symbolizing is representation.",
+        "Symbolisieren ist Darstellung.",
+        "象徴化は表現だ。",
+        "象征化是表达。"
       ]
     },
     {
-      "word": "darting",
-      "filename": "darting.md",
+      "word": "symmetric",
+      "filename": "symmetric.md",
       "lines": [
-        "Darting is quick movement.",
-        "Darting ist schnelle Bewegung.",
-        "ダッシュすることは素早い動きだ。",
-        "猛冲是快速移动。"
+        "A symmetric figure is a shape.",
+        "Eine symmetrische Figur ist eine Form.",
+        "対称的な図形は形だ。",
+        "对称图形是形状。"
       ]
     },
     {
-      "word": "dash",
-      "filename": "dash.md",
+      "word": "symptom",
+      "filename": "symptom.md",
       "lines": [
-        "A dash is a punctuation mark.",
-        "Ein Gedankenstrich ist ein Satzzeichen.",
-        "ダッシュは句読点だ。",
-        "破折号是一种标点符号。"
+        "A symptom is a sign.",
+        "Ein Symptom ist ein Zeichen.",
+        "症状は兆候だ。",
+        "症状是迹象。"
       ]
     },
     {
-      "word": "dashing",
-      "filename": "dashing.md",
+      "word": "synchronizing",
+      "filename": "synchronizing.md",
       "lines": [
-        "Dashing is running quickly.",
-        "Dashing ist schnelles Laufen.",
-        "突進することは速く走ることだ。",
-        "冲刺是快速奔跑。"
+        "Synchronizing is coordination.",
+        "Synchronisieren ist Koordination.",
+        "同期は調整だ。",
+        "同步是协调。"
       ]
     },
     {
-      "word": "date",
-      "filename": "date.md",
+      "word": "synchronous",
+      "filename": "synchronous.md",
       "lines": [
-        "A date is a day on the calendar.",
-        "Ein Datum ist ein Tag im Kalender.",
-        "日付はカレンダーの一日だ。",
-        "日期是日历上的一天。"
+        "A synchronous action is a process.",
+        "Eine synchrone Aktion ist ein Prozess.",
+        "同期した動作はプロセスだ。",
+        "同步行动是过程。"
       ]
     },
     {
-      "word": "datum",
-      "filename": "datum.md",
+      "word": "synthesizing",
+      "filename": "synthesizing.md",
       "lines": [
-        "A datum is a piece of information.",
-        "Ein Datum ist eine Informationseinheit.",
-        "データは情報の一つだ。",
-        "数据是一条信息。"
+        "Synthesizing is combination.",
+        "Synthetisieren ist Kombination.",
+        "合成は組み合わせだ。",
+        "合成是组合。"
       ]
     },
     {
-      "word": "daughter",
-      "filename": "daughter.md",
+      "word": "synthetic",
+      "filename": "synthetic.md",
       "lines": [
-        "A daughter is a child.",
-        "Eine Tochter ist ein Kind.",
-        "娘は子供だ。",
-        "女儿是孩子。"
+        "A synthetic substance is a material.",
+        "Ein synthetischer Stoff ist ein Material.",
+        "合成物質は材料だ。",
+        "合成物质是材料。"
       ]
     },
     {
-      "word": "dawn",
-      "filename": "dawn.md",
+      "word": "syrup",
+      "filename": "syrup.md",
       "lines": [
-        "Dawn is the start of the day.",
-        "Die Morgendämmerung ist der Beginn des Tages.",
-        "夜明けは一日の始まりだ。",
-        "黎明是一天的开始。"
+        "Syrup is a liquid.",
+        "Sirup ist eine Flüssigkeit.",
+        "シロップは液体だ。",
+        "糖浆是液体。"
       ]
     },
     {
-      "word": "day",
-      "filename": "day.md",
+      "word": "system",
+      "filename": "system.md",
       "lines": [
-        "A day is a unit of time.",
-        "Ein Tag ist eine Zeiteinheit.",
-        "一日は時間の単位だ。",
-        "一天是时间单位。"
+        "A system is a structure.",
+        "Ein System ist eine Struktur.",
+        "システムは構造だ。",
+        "系统是结构。"
       ]
     },
     {
-      "word": "daydream",
-      "filename": "daydream.md",
+      "word": "systematizing",
+      "filename": "systematizing.md",
       "lines": [
-        "A daydream is a pleasant thought.",
-        "Ein Tagtraum ist ein angenehmer Gedanke.",
-        "白昼夢は楽しい考えだ。",
-        "白日梦是愉快的想法。"
+        "Systematizing is organizing.",
+        "Systematisieren ist Organisieren.",
+        "体系化は整理だ。",
+        "系统化是组织。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "deliberate",
-      "filename": "deliberate.md",
+      "word": "teamwork",
+      "filename": "teamwork.md",
       "lines": [
-        "A deliberate step is a movement.",
-        "Ein absichtlicher Schritt ist eine Bewegung.",
-        "意図的なステップは動きだ。",
-        "一个刻意的步骤是一个动作。"
+        "Teamwork is collaboration.",
+        "Teamwork ist Zusammenarbeit.",
+        "チームワークは協力だ。",
+        "团队合作是协作。"
       ]
     },
     {
-      "word": "deliberating",
-      "filename": "deliberating.md",
+      "word": "teapot",
+      "filename": "teapot.md",
       "lines": [
-        "Deliberating is thinking.",
-        "Überlegen ist Denken.",
-        "熟考は思考だ。",
-        "深思是思考。"
+        "A teapot is a vessel.",
+        "Eine Teekanne ist ein Gefäß.",
+        "ティーポットは容器だ。",
+        "茶壶是容器。"
       ]
     },
     {
-      "word": "delicate",
-      "filename": "delicate.md",
+      "word": "tear",
+      "filename": "tear.md",
       "lines": [
-        "A delicate flower is a plant.",
-        "Eine zarte Blume ist eine Pflanze.",
-        "繊細な花は植物だ。",
-        "一朵娇嫩的花是植物。"
+        "A tear is a drop.",
+        "Eine Träne ist ein Tropfen.",
+        "涙は滴だ。",
+        "眼泪是水滴。"
       ]
     },
     {
-      "word": "delicious",
-      "filename": "delicious.md",
+      "word": "tease",
+      "filename": "tease.md",
       "lines": [
-        "A delicious apple is a fruit.",
-        "Ein leckerer Apfel ist eine Frucht.",
-        "美味しいりんごは果物だ。",
-        "一个美味的苹果是水果。"
+        "Teasing is a behavior.",
+        "Necken ist ein Verhalten.",
+        "からかうことは行動だ。",
+        "戏弄是一种行为。"
       ]
     },
     {
-      "word": "delighting",
-      "filename": "delighting.md",
+      "word": "teaspoon",
+      "filename": "teaspoon.md",
       "lines": [
-        "Delighting is pleasure.",
-        "Erfreuen ist Freude.",
-        "喜ばせることは楽しみだ。",
-        "取悦是快乐。"
+        "A teaspoon is a spoon.",
+        "Ein Teelöffel ist ein Löffel.",
+        "ティースプーンはスプーンだ。",
+        "茶匙是勺子。"
       ]
     },
     {
-      "word": "delimiting",
-      "filename": "delimiting.md",
+      "word": "technology",
+      "filename": "technology.md",
       "lines": [
-        "Delimiting is defining.",
-        "Abgrenzen ist Definieren.",
-        "区切ることは定義だ。",
-        "界定是定义。"
+        "Technology is a field.",
+        "Technologie ist ein Bereich.",
+        "テクノロジーは分野だ。",
+        "技术是一个领域。"
       ]
     },
     {
-      "word": "delivered item",
-      "filename": "delivered_item.md",
+      "word": "teddy",
+      "filename": "teddy.md",
       "lines": [
-        "A delivered item is a package.",
-        "Ein gelieferter Gegenstand ist ein Paket.",
-        "配達された品物は荷物だ。",
-        "一个送达的物品是一个包裹。"
+        "A teddy is a toy.",
+        "Ein Teddy ist ein Spielzeug.",
+        "テディはおもちゃだ。",
+        "泰迪是玩具。"
       ]
     },
     {
-      "word": "delivering",
-      "filename": "delivering.md",
+      "word": "teen",
+      "filename": "teen.md",
       "lines": [
-        "Delivering is transporting.",
-        "Liefern ist Transportieren.",
-        "配達は運搬だ。",
-        "配送是运输。"
+        "A teen is an adolescent.",
+        "Ein Teen ist ein Jugendlicher.",
+        "ティーンは青年だ。",
+        "少年是青少年。"
       ]
     },
     {
-      "word": "delivering_3",
-      "filename": "delivering_3.md",
+      "word": "teenager",
+      "filename": "teenager.md",
       "lines": [
-        "Delivering_3 is a process.",
-        "Das dritte Liefern ist ein Prozess.",
-        "配達3はプロセスだ。",
-        "配送3是一个过程。"
+        "A teenager is a young person.",
+        "Ein Teenager ist ein junger Mensch.",
+        "ティーンエイジャーは若者だ。",
+        "青少年是年轻人。"
       ]
     },
     {
-      "word": "delivering_4",
-      "filename": "delivering_4.md",
+      "word": "telephone",
+      "filename": "telephone.md",
       "lines": [
-        "Delivering_4 is a method.",
-        "Das vierte Liefern ist eine Methode.",
-        "配達4は方法だ。",
-        "配送4是一种方法。"
+        "A telephone is a device.",
+        "Ein Telefon ist ein Gerät.",
+        "電話は装置だ。",
+        "电话是设备。"
       ]
     }
   ],

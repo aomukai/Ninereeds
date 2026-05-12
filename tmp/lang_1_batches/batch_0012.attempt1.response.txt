@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "allergy",
-      "filename": "allergy.md",
+      "word": "provisional",
+      "filename": "provisional.md",
       "lines": [
-        "An allergy is a medical condition.",
-        "Eine Allergie ist eine medizinische Erkrankung.",
-        "アレルギーは病気の一種だ。",
-        "过敏是一种疾病。"
+        "A provisional arrangement is a plan.",
+        "Eine provisorische Regelung ist ein Plan.",
+        "暫定的な取り決めは計画だ。",
+        "临时安排是一个计划。"
       ]
     },
     {
-      "word": "allocating",
-      "filename": "allocating.md",
+      "word": "provoking",
+      "filename": "provoking.md",
       "lines": [
-        "Allocating is distributing resources.",
-        "Allozieren ist das Verteilen von Ressourcen.",
-        "割り当てることは資源の配分だ。",
-        "分配是资源的配置。"
+        "A provoking action is a deed.",
+        "Eine provozierende Handlung ist eine Tat.",
+        "挑発的な行動は行為だ。",
+        "挑衅的行为是行动。"
       ]
     },
     {
-      "word": "allow",
-      "filename": "allow.md",
+      "word": "prune",
+      "filename": "prune.md",
       "lines": [
-        "Allowing is giving permission.",
-        "Erlauben ist das Gewähren von Erlaubnis.",
-        "許可することは承認を与えることだ。",
-        "允许是给予许可。"
+        "A prune is a fruit.",
+        "Eine Trockenpflaume ist eine Frucht.",
+        "プルーンは果物だ。",
+        "西梅是一种水果。"
       ]
     },
     {
-      "word": "allowance",
-      "filename": "allowance.md",
+      "word": "prying",
+      "filename": "prying.md",
       "lines": [
-        "An allowance is a regular payment.",
-        "Ein Taschengeld ist eine regelmäßige Zahlung.",
-        "お小遣いは定期的な支払いだ。",
-        "零用钱是定期给的款项。"
+        "A prying question is a query.",
+        "Eine neugierige Frage ist eine Anfrage.",
+        "詮索好きな質問は疑問だ。",
+        "爱打探的问题是一个询问。"
       ]
     },
     {
-      "word": "allowed",
-      "filename": "allowed.md",
+      "word": "public",
+      "filename": "public.md",
       "lines": [
-        "An allowed action is a permitted action.",
-        "Eine erlaubte Handlung ist eine gestattete Handlung.",
-        "許可された行動は認められた行動だ。",
-        "被允许的行为是得到许可的行为。"
+        "A public park is a place.",
+        "Ein öffentlicher Park ist ein Ort.",
+        "公共の公園は場所だ。",
+        "公共公园是一个地方。"
       ]
     },
     {
-      "word": "allowing",
-      "filename": "allowing.md",
+      "word": "publication",
+      "filename": "publication.md",
       "lines": [
-        "Allowing is permitting something.",
-        "Zulassen ist das Gestatten von etwas.",
-        "許すことは何かを認めることだ。",
-        "允许是准许某事。"
+        "A publication is a document.",
+        "Eine Veröffentlichung ist ein Dokument.",
+        "出版物は書類だ。",
+        "出版物是一种文件。"
       ]
     },
     {
-      "word": "alone",
-      "filename": "alone.md",
+      "word": "publishing",
+      "filename": "publishing.md",
       "lines": [
-        "A lone wolf is a solitary animal.",
-        "Ein einsamer Wolf ist ein einzelgängerisches Tier.",
-        "一匹狼は孤独な動物だ。",
-        "孤狼是独居的动物。"
+        "Publishing is an industry.",
+        "Das Veröffentlichen ist eine Branche.",
+        "出版は産業だ。",
+        "出版是一个行业。"
       ]
     },
     {
-      "word": "altering",
-      "filename": "altering.md",
+      "word": "puddle",
+      "filename": "puddle.md",
       "lines": [
-        "Altering is changing something.",
-        "Verändern ist das Ändern von etwas.",
-        "変えることは何かを変更することだ。",
-        "改变是修改某物。"
+        "A puddle is a shallow pool.",
+        "Eine Pfütze ist ein flacher Tümpel.",
+        "水たまりは浅い池だ。",
+        "水坑是一个浅水塘。"
       ]
     },
     {
-      "word": "amassing",
-      "filename": "amassing.md",
+      "word": "puff",
+      "filename": "puff.md",
       "lines": [
-        "Amassing is collecting a large amount.",
-        "Anhäufen ist das Sammeln einer großen Menge.",
-        "蓄積することは大量に集めることだ。",
-        "积累是收集大量物品。"
+        "A puff is a gust.",
+        "Ein Puff ist ein Windstoß.",
+        "一吹きは突風だ。",
+        "一股气是一阵风。"
       ]
     },
     {
-      "word": "amazed",
-      "filename": "amazed.md",
+      "word": "puffy",
+      "filename": "puffy.md",
       "lines": [
-        "An amazed child is a surprised child.",
-        "Ein erstauntes Kind ist ein überraschtes Kind.",
-        "驚いた子供はびっくりした子供だ。",
-        "惊讶的孩子是感到意外的孩子。"
+        "A puffy pillow is a cushion.",
+        "Ein flauschiges Kissen ist ein Polster.",
+        "ふわふわした枕はクッションだ。",
+        "蓬松的枕头是一个垫子。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "foresight",
-      "filename": "foresight.md",
+      "word": "willingness",
+      "filename": "willingness.md",
       "lines": [
-        "Foresight is an ability.",
-        "Voraussicht ist eine Fähigkeit.",
-        "先見の明は能力だ。",
-        "远见是一种能力。"
+        "Willingness is a state.",
+        "Bereitwilligkeit ist ein Zustand.",
+        "意欲は状態だ。",
+        "意愿是一种状态。"
       ]
     },
     {
-      "word": "forest",
-      "filename": "forest.md",
+      "word": "willingnessing",
+      "filename": "willingnessing.md",
       "lines": [
-        "A forest is a natural area.",
-        "Ein Wald ist ein Naturgebiet.",
-        "森は自然の地域だ。",
-        "森林是自然区域。"
+        "Willingnessing is a process.",
+        "Bereitwilligsein ist ein Prozess.",
+        "ウィリングネッシングは過程だ。",
+        "意愿行动是一个过程。"
       ]
     },
     {
-      "word": "forever",
-      "filename": "forever.md",
+      "word": "willow",
+      "filename": "willow.md",
       "lines": [
-        "Forever is a long time.",
-        "Ewig ist eine lange Zeit.",
-        "永遠は長い時間だ。",
-        "永远是很长的时间。"
+        "A willow is a tree.",
+        "Eine Weide ist ein Baum.",
+        "柳は木だ。",
+        "柳树是树。"
       ]
     },
     {
-      "word": "forget",
-      "filename": "forget.md",
+      "word": "win",
+      "filename": "win.md",
       "lines": [
-        "Forgetting is a cognitive process.",
-        "Vergessen ist ein kognitiver Prozess.",
-        "忘れることは認知過程だ。",
-        "忘记是认知过程。"
+        "A win is a result.",
+        "Ein Sieg ist ein Ergebnis.",
+        "勝利は結果だ。",
+        "胜利是结果。"
       ]
     },
     {
-      "word": "forgetting",
-      "filename": "forgetting.md",
+      "word": "wind",
+      "filename": "wind.md",
       "lines": [
-        "Forgetting is a memory failure.",
-        "Vergessen ist ein Gedächtnisversagen.",
-        "忘却は記憶の障害だ。",
-        "忘记是记忆障碍。"
+        "Wind is a force.",
+        "Wind ist eine Kraft.",
+        "風は力だ。",
+        "风是一种力量。"
       ]
     },
     {
-      "word": "forging",
-      "filename": "forging.md",
+      "word": "window",
+      "filename": "window.md",
       "lines": [
-        "Forging is a metalworking process.",
-        "Schmieden ist ein Metallbearbeitungsprozess.",
-        "鍛造は金属加工の工程だ。",
-        "锻造是金属加工过程。"
+        "A window is an opening.",
+        "Ein Fenster ist eine Öffnung.",
+        "窓は開口部だ。",
+        "窗户是一个开口。"
       ]
     },
     {
-      "word": "forgive",
-      "filename": "forgive.md",
+      "word": "windowsill",
+      "filename": "windowsill.md",
       "lines": [
-        "Forgiving is an act of mercy.",
-        "Vergeben ist ein Akt der Barmherzigkeit.",
-        "許すことは慈悲の行為だ。",
-        "原谅是慈悲的行为。"
+        "A windowsill is a ledge.",
+        "Ein Fensterbrett ist ein Sims.",
+        "窓台は棚だ。",
+        "窗台是一个架子。"
       ]
     },
     {
-      "word": "forgivenes",
-      "filename": "forgivenes.md",
+      "word": "windy",
+      "filename": "windy.md",
       "lines": [
-        "Forgivenes is a virtue.",
-        "Vergebung ist eine Tugend.",
-        "許しは美徳だ。",
-        "宽恕是一种美德。"
+        "A windy hill is a place.",
+        "Ein windiger Hügel ist ein Ort.",
+        "風の強い丘は場所だ。",
+        "多风的山丘是一个地方。"
       ]
     },
     {
-      "word": "forgiving",
-      "filename": "forgiving.md",
+      "word": "wing",
+      "filename": "wing.md",
       "lines": [
-        "A forgiving person is a merciful person.",
-        "Ein vergebender Mensch ist ein barmherziger Mensch.",
-        "許す人は慈悲深い人だ。",
-        "宽容的人是仁慈的人。"
+        "A wing is a limb.",
+        "Ein Flügel ist ein Glied.",
+        "翼は肢体だ。",
+        "翅膀是肢体。"
       ]
     },
     {
-      "word": "forgot",
-      "filename": "forgot.md",
+      "word": "wink",
+      "filename": "wink.md",
       "lines": [
-        "Forgot is a past tense verb.",
-        "Forgot ist ein Verb im Präteritum.",
-        "Forgotは過去形の動詞だ。",
-        "Forgot是过去式动词。"
+        "A wink is a gesture.",
+        "Ein Zwinkern ist eine Geste.",
+        "ウインクは仕草だ。",
+        "眨眼是一个手势。"
       ]
     }
   ],

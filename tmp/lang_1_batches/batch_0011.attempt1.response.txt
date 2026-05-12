@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "album",
-      "filename": "album.md",
+      "word": "protecting",
+      "filename": "protecting.md",
       "lines": [
-        "An album is a collection.",
-        "Ein Album ist eine Sammlung.",
-        "アルバムはコレクションだ。",
-        "专辑是一种收藏。"
+        "Protecting is an action.",
+        "Schützen ist eine Handlung.",
+        "守ることは行動だ。",
+        "保护是一种行为。"
       ]
     },
     {
-      "word": "alert",
-      "filename": "alert.md",
+      "word": "protection",
+      "filename": "protection.md",
       "lines": [
-        "An alert is a warning.",
-        "Ein Alarm ist eine Warnung.",
-        "アラートは警告だ。",
-        "警报是一种警告。"
+        "Protection is a process.",
+        "Schutz ist ein Prozess.",
+        "保護はプロセスだ。",
+        "保护是一个过程。"
       ]
     },
     {
-      "word": "alerting",
-      "filename": "alerting.md",
+      "word": "protective",
+      "filename": "protective.md",
       "lines": [
-        "Alerting is notification.",
-        "Alarmieren ist Benachrichtigung.",
-        "アラート発信は通知だ。",
-        "发出警报是通知。"
+        "A protective barrier is a structure.",
+        "Eine schützende Barriere ist eine Struktur.",
+        "保護バリアは構造物だ。",
+        "防护屏障是一种结构。"
       ]
     },
     {
-      "word": "algebra",
-      "filename": "algebra.md",
+      "word": "protein",
+      "filename": "protein.md",
       "lines": [
-        "Algebra is a branch of mathematics.",
-        "Algebra ist ein Teilgebiet der Mathematik.",
-        "代数学は数学の分野だ。",
-        "代数是数学的一个分支。"
+        "Protein is a nutrient.",
+        "Protein ist ein Nährstoff.",
+        "タンパク質は栄養素だ。",
+        "蛋白质是一种营养素。"
       ]
     },
     {
-      "word": "alice",
-      "filename": "alice.md",
+      "word": "proud",
+      "filename": "proud.md",
       "lines": [
-        "Alice is a person.",
-        "Alice ist eine Person.",
-        "アリスは人だ。",
-        "爱丽丝是一个人。"
+        "A proud parent is a person.",
+        "Ein stolzer Elternteil ist eine Person.",
+        "誇りに思う親は人だ。",
+        "自豪的父母是人。"
       ]
     },
     {
-      "word": "aligning",
-      "filename": "aligning.md",
+      "word": "prove",
+      "filename": "prove.md",
       "lines": [
-        "Aligning is positioning.",
-        "Ausrichten ist Positionieren.",
-        "位置合わせは配置だ。",
-        "对齐是定位。"
+        "Proving is a process.",
+        "Beweisen ist ein Prozess.",
+        "証明することはプロセスだ。",
+        "证明是一个过程。"
       ]
     },
     {
-      "word": "alignment",
-      "filename": "alignment.md",
+      "word": "proven",
+      "filename": "proven.md",
       "lines": [
-        "An alignment is a position.",
-        "Eine Ausrichtung ist eine Position.",
-        "アライメントは位置だ。",
-        "对齐是一种位置。"
+        "A proven method is a technique.",
+        "Eine bewährte Methode ist eine Technik.",
+        "実証された方法は技術だ。",
+        "被证明的方法是一种技术。"
       ]
     },
     {
-      "word": "alike",
-      "filename": "alike.md",
+      "word": "provide",
+      "filename": "provide.md",
       "lines": [
-        "Alike siblings are relatives.",
-        "Ähnliche Geschwister sind Verwandte.",
-        "似た兄弟は親戚だ。",
-        "相似的兄弟姐妹是亲戚。"
+        "Providing is giving.",
+        "Bereitstellen ist Geben.",
+        "提供することは与えることだ。",
+        "提供是给予。"
       ]
     },
     {
-      "word": "alive",
-      "filename": "alive.md",
+      "word": "providing",
+      "filename": "providing.md",
       "lines": [
-        "An alive animal is a creature.",
-        "Ein lebendiges Tier ist ein Lebewesen.",
-        "生きている動物は生物だ。",
-        "活着的动物是生物。"
+        "Providing is a service.",
+        "Bereitstellen ist ein Dienst.",
+        "提供することはサービスだ。",
+        "提供是一种服务。"
       ]
     },
     {
-      "word": "allergic",
-      "filename": "allergic.md",
+      "word": "proving",
+      "filename": "proving.md",
       "lines": [
-        "An allergic person is a patient.",
-        "Eine allergische Person ist ein Patient.",
-        "アレルギーの人は患者だ。",
-        "过敏的人是一种病人。"
+        "Proving is confirmation.",
+        "Beweisen ist Bestätigung.",
+        "証明することは確認だ。",
+        "证明是确认。"
       ]
     }
   ],

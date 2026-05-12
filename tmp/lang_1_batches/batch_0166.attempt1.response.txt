@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fence",
-      "filename": "fence.md",
+      "word": "volume",
+      "filename": "volume.md",
       "lines": [
-        "A fence is a barrier.",
-        "Ein Zaun ist eine Barriere.",
-        "フェンスは囲いだ。",
-        "栅栏是屏障。"
+        "A volume is a book.",
+        "Ein Band ist ein Buch.",
+        "巻は本だ。",
+        "卷是书。"
       ]
     },
     {
-      "word": "fern",
-      "filename": "fern.md",
+      "word": "volunteer",
+      "filename": "volunteer.md",
       "lines": [
-        "A fern is a plant.",
-        "Ein Farn ist eine Pflanze.",
-        "シダは植物だ。",
-        "蕨是植物。"
+        "A volunteer is a person.",
+        "Ein Freiwilliger ist eine Person.",
+        "ボランティアは人だ。",
+        "志愿者是人。"
       ]
     },
     {
-      "word": "ferry",
-      "filename": "ferry.md",
+      "word": "vote",
+      "filename": "vote.md",
       "lines": [
-        "A ferry is a boat.",
-        "Eine Fähre ist ein Schiff.",
-        "フェリーは船だ。",
-        "渡轮是船。"
+        "A vote is a choice.",
+        "Eine Stimme ist eine Wahl.",
+        "投票は選択だ。",
+        "投票是选择。"
       ]
     },
     {
-      "word": "festival",
-      "filename": "festival.md",
+      "word": "vouching",
+      "filename": "vouching.md",
       "lines": [
-        "A festival is an event.",
-        "Ein Festival ist eine Veranstaltung.",
-        "祭りは行事だ。",
-        "节日是活动。"
+        "Vouching is a guarantee.",
+        "Bürgen ist eine Garantie.",
+        "保証することは確約だ。",
+        "担保是保证。"
       ]
     },
     {
-      "word": "fetch",
-      "filename": "fetch.md",
+      "word": "vowel",
+      "filename": "vowel.md",
       "lines": [
-        "Fetching is an action.",
-        "Holen ist eine Handlung.",
-        "取ってくることは動作だ。",
-        "取回是动作。"
+        "A vowel is a sound.",
+        "Ein Vokal ist ein Laut.",
+        "母音は音だ。",
+        "元音是音。"
       ]
     },
     {
-      "word": "fever",
-      "filename": "fever.md",
+      "word": "vulnerable",
+      "filename": "vulnerable.md",
       "lines": [
-        "A fever is a symptom.",
-        "Ein Fieber ist ein Symptom.",
-        "熱は症状だ。",
-        "发烧是症状。"
+        "A vulnerable child is a person.",
+        "Ein verletzliches Kind ist ein Mensch.",
+        "脆弱な子供は人間だ。",
+        "脆弱的孩子是人。"
       ]
     },
     {
-      "word": "fiber",
-      "filename": "fiber.md",
+      "word": "vying",
+      "filename": "vying.md",
       "lines": [
-        "A fiber is a material.",
-        "Eine Faser ist ein Material.",
-        "繊維は素材だ。",
-        "纤维是材料。"
+        "Vying is a contest.",
+        "Wetteifern ist ein Wettkampf.",
+        "競い合うことは競技だ。",
+        "竞争是竞赛。"
       ]
     },
     {
-      "word": "fiction",
-      "filename": "fiction.md",
+      "word": "waddle",
+      "filename": "waddle.md",
       "lines": [
-        "A fiction is a story.",
-        "Eine Fiktion ist eine Geschichte.",
-        "フィクションは物語だ。",
-        "小说是故事。"
+        "A waddle is a walk.",
+        "Ein Watscheln ist ein Gang.",
+        "よちよち歩きは歩行だ。",
+        "蹒跚是行走。"
       ]
     },
     {
-      "word": "fictional",
-      "filename": "fictional.md",
+      "word": "wag",
+      "filename": "wag.md",
       "lines": [
-        "A fictional character is a person.",
-        "Eine fiktive Figur ist eine Person.",
-        "架空のキャラクターは人物だ。",
-        "虚构的角色是人物。"
+        "A wag is a motion.",
+        "Ein Wackeln ist eine Bewegung.",
+        "振ることは動きだ。",
+        "摇动是运动。"
       ]
     },
     {
-      "word": "field",
-      "filename": "field.md",
+      "word": "wagging",
+      "filename": "wagging.md",
       "lines": [
-        "A field is an area.",
-        "Ein Feld ist eine Fläche.",
-        "畑は土地だ。",
-        "田地是土地。"
+        "Wagging is a movement.",
+        "Wedeln ist eine Bewegung.",
+        "振ることは動きだ。",
+        "摇动是运动。"
       ]
     }
   ],

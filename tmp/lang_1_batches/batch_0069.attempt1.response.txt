@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "chatter",
-      "filename": "chatter.md",
+      "word": "simulation",
+      "filename": "simulation.md",
       "lines": [
-        "Chatter is noise.",
-        "Geschwätz ist Lärm.",
-        "おしゃべりは騒音だ。",
-        "闲聊是噪音。"
+        "Simulation is a process.",
+        "Simulation ist ein Prozess.",
+        "シミュレーションはプロセスだ。",
+        "模拟是一种过程。"
       ]
     },
     {
-      "word": "chattering",
-      "filename": "chattering.md",
+      "word": "simultaneous",
+      "filename": "simultaneous.md",
       "lines": [
-        "Chattering is talking.",
-        "Schwatzen ist Sprechen.",
-        "おしゃべりすることは話すことだ。",
-        "喋喋不休是说话。"
+        "A simultaneous translation is a translation.",
+        "Eine Simultanübersetzung ist eine Übersetzung.",
+        "同時通訳は翻訳だ。",
+        "同声传译是翻译。"
       ]
     },
     {
-      "word": "cheap",
-      "filename": "cheap.md",
+      "word": "singer during a song",
+      "filename": "singer_during_a_song.md",
       "lines": [
-        "A cheap pen is a tool.",
-        "Ein billiger Stift ist ein Werkzeug.",
-        "安いペンは道具だ。",
-        "便宜的笔是工具。"
+        "A singer during a song is a performer.",
+        "Ein Sänger während eines Liedes ist ein Darsteller.",
+        "歌の間の歌手はパフォーマーだ。",
+        "歌曲期间的歌手是表演者。"
       ]
     },
     {
-      "word": "cheat",
-      "filename": "cheat.md",
+      "word": "singing",
+      "filename": "singing.md",
       "lines": [
-        "Cheating is dishonesty.",
-        "Betrug ist Unehrlichkeit.",
-        "不正は不正直だ。",
-        "作弊是不诚实。"
+        "Singing is music.",
+        "Singen ist Musik.",
+        "歌うことは音楽だ。",
+        "唱歌是音乐。"
       ]
     },
     {
-      "word": "check",
-      "filename": "check.md",
+      "word": "single",
+      "filename": "single.md",
       "lines": [
-        "Checking is a test.",
-        "Überprüfen ist ein Test.",
-        "チェックすることはテストだ。",
-        "检查是测试。"
+        "A single coin is a coin.",
+        "Eine einzelne Münze ist eine Münze.",
+        "一つのコインはコインだ。",
+        "一个硬币是硬币。"
       ]
     },
     {
-      "word": "checkout",
-      "filename": "checkout.md",
+      "word": "singular",
+      "filename": "singular.md",
       "lines": [
-        "A checkout is a machine.",
-        "Eine Kasse ist eine Maschine.",
-        "レジは機械だ。",
-        "收银台是机器。"
+        "A singular noun is a noun.",
+        "Ein Nomen im Singular ist ein Nomen.",
+        "単数名詞は名詞だ。",
+        "单数名词是名词。"
       ]
     },
     {
-      "word": "checkup",
-      "filename": "checkup.md",
+      "word": "singularize",
+      "filename": "singularize.md",
       "lines": [
-        "A checkup is a medical examination.",
-        "Ein Check-up ist eine medizinische Untersuchung.",
-        "健康診断は医学的検査だ。",
-        "体检是医学检查。"
+        "Singularizing is a process.",
+        "Singularisieren ist ein Prozess.",
+        "単数化はプロセスだ。",
+        "单数化是一个过程。"
       ]
     },
     {
-      "word": "cheek",
-      "filename": "cheek.md",
+      "word": "sink",
+      "filename": "sink.md",
       "lines": [
-        "A cheek is a body part.",
-        "Eine Wange ist ein Körperteil.",
-        "頬は体の一部だ。",
-        "脸颊是身体的一部分。"
+        "Sinking is descending.",
+        "Sinken ist Hinabsteigen.",
+        "沈むことは下降だ。",
+        "下沉是下降。"
       ]
     },
     {
-      "word": "cheer",
-      "filename": "cheer.md",
+      "word": "sip",
+      "filename": "sip.md",
       "lines": [
-        "A cheer is a shout.",
-        "Ein Jubel ist ein Schrei.",
-        "声援は叫びだ。",
-        "欢呼是喊叫。"
+        "Sipping is drinking.",
+        "Nippen ist Trinken.",
+        "すするのは飲むことだ。",
+        "小口喝是喝。"
       ]
     },
     {
-      "word": "cheerful",
-      "filename": "cheerful.md",
+      "word": "siren",
+      "filename": "siren.md",
       "lines": [
-        "A cheerful dog is an animal.",
-        "Ein fröhlicher Hund ist ein Tier.",
-        "陽気な犬は動物だ。",
-        "快乐的狗是动物。"
+        "A siren is a warning device.",
+        "Eine Sirene ist ein Warngerät.",
+        "サイレンは警告装置だ。",
+        "警报器是一种警告装置。"
       ]
     }
   ],

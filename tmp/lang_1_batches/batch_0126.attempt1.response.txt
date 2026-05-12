@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "difficulty",
-      "filename": "difficulty.md",
+      "word": "thrive",
+      "filename": "thrive.md",
       "lines": [
-        "Difficulty is a problem.",
-        "Schwierigkeit ist ein Problem.",
-        "困難は問題だ。",
-        "困难是一个问题。"
+        "Thriving is growth.",
+        "Gedeihen ist Wachstum.",
+        "繁栄は成長だ。",
+        "繁荣是成长。"
       ]
     },
     {
-      "word": "dig",
-      "filename": "dig.md",
+      "word": "thriving",
+      "filename": "thriving.md",
       "lines": [
-        "Digging is an action.",
-        "Graben ist eine Handlung.",
-        "掘ることは動作だ。",
-        "挖是一种动作。"
+        "Thriving is success.",
+        "Gedeihen ist Erfolg.",
+        "繁栄は成功だ。",
+        "繁荣是成功。"
       ]
     },
     {
-      "word": "digging",
-      "filename": "digging.md",
+      "word": "throat",
+      "filename": "throat.md",
       "lines": [
-        "Digging is an activity.",
-        "Graben ist eine Tätigkeit.",
-        "掘ることは活動だ。",
-        "挖是一种活动。"
+        "A throat is a body part.",
+        "Ein Hals ist ein Körperteil.",
+        "喉は体の一部だ。",
+        "喉咙是身体的一部分。"
       ]
     },
     {
-      "word": "digital",
-      "filename": "digital.md",
+      "word": "throne",
+      "filename": "throne.md",
       "lines": [
-        "A digital camera is a device.",
-        "Eine Digitalkamera ist ein Gerät.",
-        "デジタルカメラは装置だ。",
-        "数码相机是一种设备。"
+        "A throne is a seat.",
+        "Ein Thron ist ein Sitz.",
+        "王座は椅子だ。",
+        "宝座是座位。"
       ]
     },
     {
-      "word": "dim",
-      "filename": "dim.md",
+      "word": "throw",
+      "filename": "throw.md",
       "lines": [
-        "A dim lamp is a lighting device.",
-        "Eine schwache Lampe ist ein Beleuchtungsgerät.",
-        "薄暗いランプは照明器具だ。",
-        "昏暗的灯是一种照明设备。"
+        "Throwing is an action.",
+        "Werfen ist eine Handlung.",
+        "投げることは動作だ。",
+        "投掷是一种动作。"
       ]
     },
     {
-      "word": "dime",
-      "filename": "dime.md",
+      "word": "thrusting",
+      "filename": "thrusting.md",
       "lines": [
-        "A dime is a coin.",
-        "Ein Dime ist eine Münze.",
-        "ダイムは硬貨だ。",
-        "一角硬币是一种硬币。"
+        "Thrusting is a movement.",
+        "Stoßen ist eine Bewegung.",
+        "突くことは動きだ。",
+        "推刺是移动。"
       ]
     },
     {
-      "word": "dimension",
-      "filename": "dimension.md",
+      "word": "thud",
+      "filename": "thud.md",
       "lines": [
-        "A dimension is a property.",
-        "Eine Dimension ist eine Eigenschaft.",
-        "次元は特性だ。",
-        "维度是一种属性。"
+        "A thud is a sound.",
+        "Ein dumpfer Schlag ist ein Geräusch.",
+        "ドスンという音は音だ。",
+        "砰的一声是声音。"
       ]
     },
     {
-      "word": "diminishing",
-      "filename": "diminishing.md",
+      "word": "thumb",
+      "filename": "thumb.md",
       "lines": [
-        "Diminishing is a reduction.",
-        "Abnehmen ist eine Verringerung.",
-        "減少することは縮小だ。",
-        "减少是一种缩减。"
+        "A thumb is a finger.",
+        "Ein Daumen ist ein Finger.",
+        "親指は指だ。",
+        "大拇指是手指。"
       ]
     },
     {
-      "word": "dining",
-      "filename": "dining.md",
+      "word": "thumbnail",
+      "filename": "thumbnail.md",
       "lines": [
-        "Dining is a social activity.",
-        "Essen ist eine gesellschaftliche Aktivität.",
-        "食事は社会的な活動だ。",
-        "用餐是一种社交活动。"
+        "A thumbnail is a nail.",
+        "Ein Daumennagel ist ein Nagel.",
+        "親指の爪は爪だ。",
+        "拇指指甲是指甲。"
       ]
     },
     {
-      "word": "dinner",
-      "filename": "dinner.md",
+      "word": "thump",
+      "filename": "thump.md",
       "lines": [
-        "Dinner is a meal.",
-        "Abendessen ist eine Mahlzeit.",
-        "夕食は食事だ。",
-        "晚餐是一顿饭。"
+        "A thump is a noise.",
+        "Ein dumpfer Ton ist ein Geräusch.",
+        "ドンという音は音だ。",
+        "咚的一声是声音。"
       ]
     }
   ],

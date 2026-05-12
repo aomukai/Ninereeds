@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "adulthood",
-      "filename": "adulthood.md",
+      "word": "probable",
+      "filename": "probable.md",
       "lines": [
-        "Adulthood is a life stage.",
-        "Das Erwachsenenalter ist eine Lebensphase.",
-        "成人期は人生の段階だ。",
-        "成年期是人生阶段。"
+        "A probable answer is a response.",
+        "Eine wahrscheinliche Antwort ist eine Reaktion.",
+        "可能性のある答えは応答だ。",
+        "一个可能的回答是回应。"
       ]
     },
     {
-      "word": "advanced",
-      "filename": "advanced.md",
+      "word": "probing",
+      "filename": "probing.md",
       "lines": [
-        "An advanced computer is a machine.",
-        "Ein fortschrittlicher Computer ist eine Maschine.",
-        "先進的なコンピュータは機械だ。",
-        "先进的电脑是机器。"
+        "Probing is exploration.",
+        "Sondieren ist Erkundung.",
+        "探ることは探求だ。",
+        "探测是探索。"
       ]
     },
     {
-      "word": "advancing",
-      "filename": "advancing.md",
+      "word": "problem",
+      "filename": "problem.md",
       "lines": [
-        "Advancing is progress.",
-        "Voranschreiten ist Fortschritt.",
-        "前進することは進歩だ。",
-        "前进是进步。"
+        "A problem is a difficulty.",
+        "Ein Problem ist eine Schwierigkeit.",
+        "問題は困難だ。",
+        "问题是一种困难。"
       ]
     },
     {
-      "word": "advantage",
-      "filename": "advantage.md",
+      "word": "procedure",
+      "filename": "procedure.md",
       "lines": [
-        "An advantage is a benefit.",
-        "Ein Vorteil ist ein Nutzen.",
-        "利点は利益だ。",
-        "优势是好处。"
+        "A procedure is a method.",
+        "Ein Verfahren ist eine Methode.",
+        "手順は方法だ。",
+        "程序是一种方法。"
       ]
     },
     {
-      "word": "adventure",
-      "filename": "adventure.md",
+      "word": "proceeding",
+      "filename": "proceeding.md",
       "lines": [
-        "An adventure is an experience.",
-        "Ein Abenteuer ist eine Erfahrung.",
-        "冒険は経験だ。",
-        "冒险是经历。"
+        "A proceeding is an action.",
+        "Ein Vorgang ist eine Handlung.",
+        "手続きは行動だ。",
+        "程序是一个行动。"
       ]
     },
     {
-      "word": "adventurous",
-      "filename": "adventurous.md",
+      "word": "process",
+      "filename": "process.md",
       "lines": [
-        "An adventurous child is a person.",
-        "Ein abenteuerlustiges Kind ist eine Person.",
-        "冒険好きな子供は人だ。",
-        "喜欢冒险的孩子是人。"
+        "A process is a sequence.",
+        "Ein Prozess ist eine Abfolge.",
+        "プロセスは順序だ。",
+        "过程是一个序列。"
       ]
     },
     {
-      "word": "advertising",
-      "filename": "advertising.md",
+      "word": "produce",
+      "filename": "produce.md",
       "lines": [
-        "Advertising is communication.",
-        "Werbung ist Kommunikation.",
-        "広告はコミュニケーションだ。",
-        "广告是沟通。"
+        "Producing is creation.",
+        "Produzieren ist Schöpfung.",
+        "生産することは創造だ。",
+        "生产是创造。"
       ]
     },
     {
-      "word": "advice",
-      "filename": "advice.md",
+      "word": "product",
+      "filename": "product.md",
       "lines": [
-        "Advice is a recommendation.",
-        "Ein Ratschlag ist eine Empfehlung.",
-        "アドバイスは勧めだ。",
-        "建议是推荐。"
+        "A product is a good.",
+        "Ein Produkt ist eine Ware.",
+        "製品は商品だ。",
+        "产品是商品。"
       ]
     },
     {
-      "word": "advising",
-      "filename": "advising.md",
+      "word": "production",
+      "filename": "production.md",
       "lines": [
-        "Advising is guiding.",
-        "Beraten ist Führen.",
-        "助言することは指導だ。",
-        "提供建议是指导。"
+        "Production is manufacturing.",
+        "Produktion ist Fertigung.",
+        "生産は製造だ。",
+        "生产是制造。"
       ]
     },
     {
-      "word": "affecting",
-      "filename": "affecting.md",
+      "word": "profession",
+      "filename": "profession.md",
       "lines": [
-        "Affecting is influencing.",
-        "Beeinflussen ist Verändern.",
-        "影響を与えることは変化だ。",
-        "影响是改变。"
+        "A profession is an occupation.",
+        "Ein Beruf ist eine Beschäftigung.",
+        "職業は仕事だ。",
+        "职业是一种工作。"
       ]
     }
   ],

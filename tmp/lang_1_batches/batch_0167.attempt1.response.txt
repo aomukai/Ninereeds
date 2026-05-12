@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fight",
-      "filename": "fight.md",
+      "word": "wagon",
+      "filename": "wagon.md",
       "lines": [
-        "Fighting is conflict.",
-        "Kämpfen ist Konflikt.",
-        "戦うことは争いだ。",
-        "打架是冲突。"
+        "A wagon is a vehicle.",
+        "Ein Wagen ist ein Fahrzeug.",
+        "ワゴンは乗り物だ。",
+        "马车是车辆。"
       ]
     },
     {
-      "word": "figure",
-      "filename": "figure.md",
+      "word": "waist",
+      "filename": "waist.md",
       "lines": [
-        "A figure is a shape.",
-        "Eine Figur ist eine Form.",
-        "図形は形だ。",
-        "图形是形状。"
+        "A waist is a body part.",
+        "Eine Taille ist ein Körperteil.",
+        "腰は体の一部だ。",
+        "腰是身体的一部分。"
       ]
     },
     {
-      "word": "figured",
-      "filename": "figured.md",
+      "word": "wait",
+      "filename": "wait.md",
       "lines": [
-        "A figured fabric is a textile.",
-        "Ein gemusterter Stoff ist ein Textil.",
-        "模様のある布は織物だ。",
-        "有图案的布料是纺织品。"
+        "Waiting is an action.",
+        "Warten ist eine Handlung.",
+        "待つことは行動だ。",
+        "等待是动作。"
       ]
     },
     {
-      "word": "figuring",
-      "filename": "figuring.md",
+      "word": "wake",
+      "filename": "wake.md",
       "lines": [
-        "Figuring is calculation.",
-        "Berechnen ist Rechnen.",
-        "計算は演算だ。",
-        "计算是运算。"
+        "Waking is an action.",
+        "Aufwachen ist eine Handlung.",
+        "目覚めることは行動だ。",
+        "醒来是动作。"
       ]
     },
     {
-      "word": "file",
-      "filename": "file.md",
+      "word": "walk",
+      "filename": "walk.md",
       "lines": [
-        "A file is a document.",
-        "Eine Datei ist ein Dokument.",
-        "ファイルは文書だ。",
-        "文件是文档。"
+        "Walking is movement.",
+        "Gehen ist Bewegung.",
+        "歩くことは移動だ。",
+        "走路是移动。"
       ]
     },
     {
-      "word": "filelist.txt",
-      "filename": "filelist.txt.md",
+      "word": "walker",
+      "filename": "walker.md",
       "lines": [
-        "A filelist.txt is a text file.",
-        "Eine filelist.txt ist eine Textdatei.",
-        "filelist.txtはテキストファイルだ。",
-        "filelist.txt是文本文件。"
+        "A walker is a device.",
+        "Ein Gehwagen ist ein Gerät.",
+        "歩行器は装置だ。",
+        "助行器是设备。"
       ]
     },
     {
-      "word": "filing",
-      "filename": "filing.md",
+      "word": "wall",
+      "filename": "wall.md",
       "lines": [
-        "Filing is organizing.",
-        "Ablegen ist Ordnen.",
-        "ファイルすることは整理だ。",
-        "归档是整理。"
+        "A wall is a structure.",
+        "Eine Wand ist eine Struktur.",
+        "壁は構造物だ。",
+        "墙是结构。"
       ]
     },
     {
-      "word": "fill",
-      "filename": "fill.md",
+      "word": "walnut",
+      "filename": "walnut.md",
       "lines": [
-        "Filling is adding.",
-        "Füllen ist Hinzufügen.",
-        "満たすことは追加だ。",
-        "填充是添加。"
+        "A walnut is a nut.",
+        "Eine Walnuss ist eine Nuss.",
+        "クルミは木の実だ。",
+        "核桃是坚果。"
       ]
     },
     {
-      "word": "film",
-      "filename": "film.md",
+      "word": "walrus",
+      "filename": "walrus.md",
       "lines": [
-        "A film is a movie.",
-        "Ein Film ist ein Video.",
-        "映画は動画だ。",
-        "电影是影片。"
+        "A walrus is an animal.",
+        "Ein Walross ist ein Tier.",
+        "セイウチは動物だ。",
+        "海象是动物。"
       ]
     },
     {
-      "word": "filtered",
-      "filename": "filtered.md",
+      "word": "wand",
+      "filename": "wand.md",
       "lines": [
-        "Filtered water is a liquid.",
-        "Gefiltertes Wasser ist eine Flüssigkeit.",
-        "ろ過された水は液体だ。",
-        "过滤后的水是液体。"
+        "A wand is a tool.",
+        "Ein Zauberstab ist ein Werkzeug.",
+        "杖は道具だ。",
+        "魔杖是工具。"
       ]
     }
   ],

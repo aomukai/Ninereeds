@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "comfortable",
-      "filename": "comfortable.md",
+      "word": "sparkle",
+      "filename": "sparkle.md",
       "lines": [
-        "A comfortable chair is furniture.",
-        "Ein bequemer Stuhl ist ein Möbelstück.",
-        "快適な椅子は家具だ。",
-        "舒适的椅子是家具。"
+        "A sparkle is a flash.",
+        "Ein Funkeln ist ein Blitz.",
+        "きらめきは閃光だ。",
+        "闪烁是闪光。"
       ]
     },
     {
-      "word": "comforting",
-      "filename": "comforting.md",
+      "word": "sparkly",
+      "filename": "sparkly.md",
       "lines": [
-        "A comforting hug is a gesture.",
-        "Eine tröstende Umarmung ist eine Geste.",
-        "慰めるハグはジェスチャーだ。",
-        "安慰的拥抱是一种姿态。"
+        "A sparkly diamond is a gem.",
+        "Ein funkelnder Diamant ist ein Edelstein.",
+        "きらめくダイヤモンドは宝石だ。",
+        "闪闪发光的钻石是宝石。"
       ]
     },
     {
-      "word": "comfy",
-      "filename": "comfy.md",
+      "word": "sparrow",
+      "filename": "sparrow.md",
       "lines": [
-        "A comfy couch is furniture.",
-        "Ein gemütliches Sofa ist ein Möbelstück.",
-        "快適なソファは家具だ。",
-        "舒适的沙发是家具。"
+        "A sparrow is a bird.",
+        "Ein Spatz ist ein Vogel.",
+        "スズメは鳥だ。",
+        "麻雀是鸟。"
       ]
     },
     {
-      "word": "comic",
-      "filename": "comic.md",
+      "word": "sparse",
+      "filename": "sparse.md",
       "lines": [
-        "A comic is a book.",
-        "Ein Comic ist ein Buch.",
-        "漫画は本だ。",
-        "漫画是书。"
+        "A sparse forest is a woodland.",
+        "Ein spärlicher Wald ist ein Waldgebiet.",
+        "まばらな森は森林地帯だ。",
+        "稀疏的森林是林地。"
       ]
     },
     {
-      "word": "coming",
-      "filename": "coming.md",
+      "word": "spatial",
+      "filename": "spatial.md",
       "lines": [
-        "Coming is arrival.",
-        "Kommen ist Ankunft.",
-        "来ることは到着だ。",
-        "来是到达。"
+        "A spatial location is a place.",
+        "Ein räumlicher Ort ist ein Platz.",
+        "空間的な位置は場所だ。",
+        "空间位置是地点。"
       ]
     },
     {
-      "word": "command",
-      "filename": "command.md",
+      "word": "spatula",
+      "filename": "spatula.md",
       "lines": [
-        "A command is an order.",
-        "Ein Befehl ist eine Anweisung.",
-        "命令は指示だ。",
-        "命令是指示。"
+        "A spatula is a tool.",
+        "Ein Spatel ist ein Werkzeug.",
+        "へらは道具だ。",
+        "铲子是工具。"
       ]
     },
     {
-      "word": "commandeering",
-      "filename": "commandeering.md",
+      "word": "spawning",
+      "filename": "spawning.md",
       "lines": [
-        "Commandeering is seizure.",
-        "Das Requirieren ist eine Beschlagnahme.",
-        "接収することは押収だ。",
-        "征用是没收。"
+        "Spawning is reproduction.",
+        "Laichen ist Fortpflanzung.",
+        "産卵は繁殖だ。",
+        "产卵是繁殖。"
       ]
     },
     {
-      "word": "commencing",
-      "filename": "commencing.md",
+      "word": "speak",
+      "filename": "speak.md",
       "lines": [
-        "Commencing is beginning.",
-        "Das Beginnen ist der Anfang.",
-        "開始することは始まりだ。",
-        "开始是起始。"
+        "To speak is an action.",
+        "Sprechen ist eine Handlung.",
+        "話すことは行動だ。",
+        "说话是一种行动。"
       ]
     },
     {
-      "word": "commitment",
-      "filename": "commitment.md",
+      "word": "speaker",
+      "filename": "speaker.md",
       "lines": [
-        "A commitment is a promise.",
-        "Eine Verpflichtung ist ein Versprechen.",
-        "コミットメントは約束だ。",
-        "承诺是约定。"
+        "A speaker is a person.",
+        "Ein Sprecher ist eine Person.",
+        "話し手は人だ。",
+        "说话者是人。"
       ]
     },
     {
-      "word": "committing",
-      "filename": "committing.md",
+      "word": "speaking",
+      "filename": "speaking.md",
       "lines": [
-        "Committing is an action.",
-        "Das Begehen ist eine Handlung.",
-        "実行することは行為だ。",
-        "执行是行为。"
+        "Speaking is communication.",
+        "Sprechen ist Kommunikation.",
+        "話すことはコミュニケーションだ。",
+        "说话是交流。"
       ]
     }
   ],

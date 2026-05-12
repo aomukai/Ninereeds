@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "ache",
-      "filename": "ache.md",
+      "word": "president",
+      "filename": "president.md",
       "lines": [
-        "An ache is a sensation.",
-        "Ein Schmerz ist eine Empfindung.",
-        "痛みは感覚だ。",
-        "疼痛是一种感觉。"
+        "A president is a politician.",
+        "Ein Präsident ist ein Politiker.",
+        "大統領は政治家だ。",
+        "总统是政治家。"
       ]
     },
     {
-      "word": "achieved",
-      "filename": "achieved.md",
+      "word": "presiding",
+      "filename": "presiding.md",
       "lines": [
-        "An achieved goal is a success.",
-        "Ein erreichtes Ziel ist ein Erfolg.",
-        "達成された目標は成功だ。",
-        "实现了的目标是成功。"
+        "Presiding is leading.",
+        "Vorsitzen ist Leiten.",
+        "議長を務めることは指導だ。",
+        "主持会议是领导。"
       ]
     },
     {
-      "word": "achievement",
-      "filename": "achievement.md",
+      "word": "press",
+      "filename": "press.md",
       "lines": [
-        "An achievement is a success.",
-        "Eine Errungenschaft ist ein Erfolg.",
-        "達成は成功だ。",
-        "成就是成功。"
+        "The press is a medium.",
+        "Die Presse ist ein Medium.",
+        "報道はメディアだ。",
+        "新闻界是媒介。"
       ]
     },
     {
-      "word": "achieving",
-      "filename": "achieving.md",
+      "word": "pressure",
+      "filename": "pressure.md",
       "lines": [
-        "Achieving is progress.",
-        "Erreichen ist Fortschritt.",
-        "達成することは進歩だ。",
-        "达成是进步。"
+        "Pressure is a force.",
+        "Druck ist eine Kraft.",
+        "圧力は力だ。",
+        "压力是力。"
       ]
     },
     {
-      "word": "acoustic",
-      "filename": "acoustic.md",
+      "word": "presupposing",
+      "filename": "presupposing.md",
       "lines": [
-        "An acoustic guitar is an instrument.",
-        "Eine akustische Gitarre ist ein Instrument.",
-        "アコースティックギターは楽器だ。",
-        "原声吉他是一种乐器。"
+        "Presupposing is assuming.",
+        "Voraussetzen ist Annehmen.",
+        "前提とすることは仮定だ。",
+        "预设是假设。"
       ]
     },
     {
-      "word": "acquiring",
-      "filename": "acquiring.md",
+      "word": "presupposition",
+      "filename": "presupposition.md",
       "lines": [
-        "Acquiring is obtaining.",
-        "Erwerben ist Erlangen.",
-        "取得は入手だ。",
-        "获取是获得。"
+        "A presupposition is an assumption.",
+        "Eine Voraussetzung ist eine Annahme.",
+        "前提は仮定だ。",
+        "预设是假设。"
       ]
     },
     {
-      "word": "act",
-      "filename": "act.md",
+      "word": "pretend",
+      "filename": "pretend.md",
       "lines": [
-        "An act is a deed.",
-        "Eine Handlung ist eine Tat.",
-        "行為は行動だ。",
-        "行为是行动。"
+        "To pretend is to act.",
+        "Vorgeben ist Handeln.",
+        "ふりをすることは行動だ。",
+        "假装是行动。"
       ]
     },
     {
-      "word": "acting",
-      "filename": "acting.md",
+      "word": "pretending",
+      "filename": "pretending.md",
       "lines": [
-        "Acting is performing.",
-        "Schauspielern ist Darstellen.",
-        "演技は表現だ。",
-        "表演是表现。"
+        "Pretending is acting.",
+        "Vortäuschen ist Schauspielern.",
+        "ふりをすることは演技だ。",
+        "假装是表演。"
       ]
     },
     {
-      "word": "action",
-      "filename": "action.md",
+      "word": "pretty",
+      "filename": "pretty.md",
       "lines": [
-        "An action is an activity.",
-        "Eine Handlung ist eine Aktivität.",
-        "行動は活動だ。",
-        "行动是活动。"
+        "A pretty flower is a plant.",
+        "Eine schöne Blume ist eine Pflanze.",
+        "きれいな花は植物だ。",
+        "漂亮的花是植物。"
       ]
     },
     {
-      "word": "activating",
-      "filename": "activating.md",
+      "word": "prevent",
+      "filename": "prevent.md",
       "lines": [
-        "Activating is starting.",
-        "Aktivieren ist Starten.",
-        "起動は開始だ。",
-        "激活是启动。"
+        "To prevent is to stop.",
+        "Verhindern ist Stoppen.",
+        "防ぐことは止めることだ。",
+        "防止是阻止。"
       ]
     }
   ],

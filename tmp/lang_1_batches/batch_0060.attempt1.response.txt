@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "candle",
-      "filename": "candle.md",
+      "word": "shallow",
+      "filename": "shallow.md",
       "lines": [
-        "A candle is a light source.",
-        "Eine Kerze ist eine Lichtquelle.",
-        "ろうそくは光源だ。",
-        "蜡烛是光源。"
+        "A shallow plate is a container.",
+        "Ein flacher Teller ist ein Behälter.",
+        "浅い皿は容器だ。",
+        "浅盘子是容器。"
       ]
     },
     {
-      "word": "candy",
-      "filename": "candy.md",
+      "word": "shame",
+      "filename": "shame.md",
       "lines": [
-        "Candy is a sweet food.",
-        "Bonbons sind süße Lebensmittel.",
-        "キャンディーは甘い食べ物だ。",
-        "糖果是甜食。"
+        "Shame is a feeling.",
+        "Scham ist ein Gefühl.",
+        "恥は感情だ。",
+        "羞耻是一种感觉。"
       ]
     },
     {
-      "word": "cane",
-      "filename": "cane.md",
+      "word": "shape",
+      "filename": "shape.md",
       "lines": [
-        "A cane is a walking aid.",
-        "Ein Stock ist eine Gehhilfe.",
-        "杖は歩行補助具だ。",
-        "手杖是行走辅助工具。"
+        "A shape is a property.",
+        "Eine Form ist eine Eigenschaft.",
+        "形は特性だ。",
+        "形状是一种属性。"
       ]
     },
     {
-      "word": "cannon",
-      "filename": "cannon.md",
+      "word": "shaped",
+      "filename": "shaped.md",
       "lines": [
-        "A cannon is a weapon.",
-        "Eine Kanone ist eine Waffe.",
-        "大砲は武器だ。",
-        "大炮是武器。"
+        "A shaped stone is an artifact.",
+        "Ein geformter Stein ist ein Artefakt.",
+        "成形された石は人工物だ。",
+        "成形的石头是人工制品。"
       ]
     },
     {
-      "word": "cannot",
-      "filename": "cannot.md",
+      "word": "shaping",
+      "filename": "shaping.md",
       "lines": [
-        "Cannot is a verb form.",
-        "Kann nicht ist eine Verbform.",
-        "できないは動詞の形だ。",
-        "不能是动词形式。"
+        "Shaping is a process.",
+        "Formen ist ein Prozess.",
+        "成形はプロセスだ。",
+        "成形是一个过程。"
       ]
     },
     {
-      "word": "canvas",
-      "filename": "canvas.md",
+      "word": "shard",
+      "filename": "shard.md",
       "lines": [
-        "Canvas is a fabric.",
-        "Segeltuch ist ein Stoff.",
-        "キャンバスは布地だ。",
-        "帆布是一种布料。"
+        "A shard is a piece.",
+        "Eine Scherbe ist ein Stück.",
+        "破片は一片だ。",
+        "碎片是一块。"
       ]
     },
     {
-      "word": "cap",
-      "filename": "cap.md",
+      "word": "share",
+      "filename": "share.md",
       "lines": [
-        "A cap is a hat.",
-        "Eine Mütze ist ein Hut.",
-        "キャップは帽子だ。",
-        "帽子是头饰。"
+        "A share is a portion.",
+        "Ein Anteil ist ein Teil.",
+        "シェアは一部だ。",
+        "份额是一部分。"
       ]
     },
     {
-      "word": "capable",
-      "filename": "capable.md",
+      "word": "shark",
+      "filename": "shark.md",
       "lines": [
-        "A capable person is a worker.",
-        "Ein fähiger Mensch ist ein Arbeiter.",
-        "有能な人は働き手だ。",
-        "能干的人是工作者。"
+        "A shark is a fish.",
+        "Ein Hai ist ein Fisch.",
+        "サメは魚だ。",
+        "鲨鱼是鱼。"
       ]
     },
     {
-      "word": "capacity",
-      "filename": "capacity.md",
+      "word": "sharp",
+      "filename": "sharp.md",
       "lines": [
-        "Capacity is a measure.",
-        "Kapazität ist ein Maß.",
-        "容量は尺度だ。",
-        "容量是度量。"
+        "A sharp knife is a tool.",
+        "Ein scharfes Messer ist ein Werkzeug.",
+        "鋭いナイフは道具だ。",
+        "锋利的刀是工具。"
       ]
     },
     {
-      "word": "cape",
-      "filename": "cape.md",
+      "word": "sharp 3",
+      "filename": "sharp_3.md",
       "lines": [
-        "A cape is a garment.",
-        "Ein Umhang ist ein Kleidungsstück.",
-        "ケープは衣類だ。",
-        "披风是衣物。"
+        "A sharp 3 is a musical note.",
+        "Ein Sharp 3 ist eine Musiknote.",
+        "シャープ3は音符だ。",
+        "升3是音符。"
       ]
     }
   ],

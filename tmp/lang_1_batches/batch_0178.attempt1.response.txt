@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fork",
-      "filename": "fork.md",
+      "word": "winner",
+      "filename": "winner.md",
       "lines": [
-        "A fork is a utensil.",
-        "Eine Gabel ist ein Besteck.",
-        "フォークは食器だ。",
-        "叉子是餐具。"
+        "A winner is a person.",
+        "Ein Gewinner ist eine Person.",
+        "勝者は人だ。",
+        "赢家是人。"
       ]
     },
     {
-      "word": "form",
-      "filename": "form.md",
+      "word": "winning",
+      "filename": "winning.md",
       "lines": [
-        "A form is a document.",
-        "Ein Formular ist ein Dokument.",
-        "フォームは書類だ。",
-        "表格是文件。"
+        "Winning is success.",
+        "Gewinnen ist Erfolg.",
+        "勝つことは成功だ。",
+        "赢是成功。"
       ]
     },
     {
-      "word": "formal",
-      "filename": "formal.md",
+      "word": "winter",
+      "filename": "winter.md",
       "lines": [
-        "A formal dress is clothing.",
-        "Ein formelles Kleid ist Kleidung.",
-        "フォーマルなドレスは衣類だ。",
-        "正式礼服是服装。"
+        "Winter is a season.",
+        "Winter ist eine Jahreszeit.",
+        "冬は季節だ。",
+        "冬天是季节。"
       ]
     },
     {
-      "word": "format",
-      "filename": "format.md",
+      "word": "wipe",
+      "filename": "wipe.md",
       "lines": [
-        "A format is a layout.",
-        "Ein Format ist ein Layout.",
-        "フォーマットはレイアウトだ。",
-        "格式是布局。"
+        "Wiping is cleaning.",
+        "Wischen ist Reinigen.",
+        "拭くことは掃除だ。",
+        "擦是清洁。"
       ]
     },
     {
-      "word": "formulating",
-      "filename": "formulating.md",
+      "word": "wire",
+      "filename": "wire.md",
       "lines": [
-        "Formulating is planning.",
-        "Formulieren ist Planen.",
-        "策定は計画だ。",
-        "制定是规划。"
+        "A wire is an object.",
+        "Ein Draht ist ein Gegenstand.",
+        "針金は物体だ。",
+        "电线是物体。"
       ]
     },
     {
-      "word": "fort",
-      "filename": "fort.md",
+      "word": "wise",
+      "filename": "wise.md",
       "lines": [
-        "A fort is a building.",
-        "Ein Fort ist ein Gebäude.",
-        "要塞は建物だ。",
-        "堡垒是建筑。"
+        "A wise owl is an animal.",
+        "Eine weise Eule ist ein Tier.",
+        "賢いフクロウは動物だ。",
+        "聪明的猫头鹰是动物。"
       ]
     },
     {
-      "word": "forth",
-      "filename": "forth.md",
+      "word": "wish",
+      "filename": "wish.md",
       "lines": [
-        "Forth is an adverb.",
-        "Forth ist ein Adverb.",
-        "Forthは副詞だ。",
-        "Forth是副词。"
+        "A wish is a desire.",
+        "Ein Wunsch ist ein Verlangen.",
+        "願いは欲望だ。",
+        "愿望是欲望。"
       ]
     },
     {
-      "word": "fortifying",
-      "filename": "fortifying.md",
+      "word": "witch",
+      "filename": "witch.md",
       "lines": [
-        "Fortifying is strengthening.",
-        "Befestigen ist Stärken.",
-        "要塞化は強化だ。",
-        "巩固是强化。"
+        "A witch is a person.",
+        "Eine Hexe ist eine Person.",
+        "魔女は人だ。",
+        "女巫是人。"
       ]
     },
     {
-      "word": "forward",
-      "filename": "forward.md",
+      "word": "withholding",
+      "filename": "withholding.md",
       "lines": [
-        "A forward movement is motion.",
-        "Eine Vorwärtsbewegung ist eine Bewegung.",
-        "前進運動は運動だ。",
-        "向前运动是运动。"
+        "Withholding is a refusal.",
+        "Zurückhalten ist eine Weigerung.",
+        "差し控えることは拒否だ。",
+        "扣留是拒绝。"
       ]
     },
     {
-      "word": "forwarding",
-      "filename": "forwarding.md",
+      "word": "witness",
+      "filename": "witness.md",
       "lines": [
-        "Forwarding is sending.",
-        "Weiterleiten ist Senden.",
-        "転送は送信だ。",
-        "转发是发送。"
+        "A witness is a person.",
+        "Ein Zeuge ist eine Person.",
+        "証人は人だ。",
+        "证人是人。"
       ]
     }
   ],

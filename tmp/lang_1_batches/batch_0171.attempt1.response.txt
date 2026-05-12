@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "flame",
-      "filename": "flame.md",
+      "word": "weak",
+      "filename": "weak.md",
       "lines": [
-        "A flame is a fire.",
-        "Eine Flamme ist ein Feuer.",
-        "炎は火だ。",
-        "火焰是火。"
+        "A weak wolf is an animal.",
+        "Ein schwacher Wolf ist ein Tier.",
+        "弱いオオカミは動物だ。",
+        "弱狼是动物。"
       ]
     },
     {
-      "word": "flap",
-      "filename": "flap.md",
+      "word": "weakening",
+      "filename": "weakening.md",
       "lines": [
-        "A flap is a cover.",
-        "Eine Klappe ist eine Abdeckung.",
-        "フラップは覆いだ。",
-        "翻盖是盖子。"
+        "Weakening is a process.",
+        "Schwächen ist ein Prozess.",
+        "弱めることは過程だ。",
+        "削弱是一个过程。"
       ]
     },
     {
-      "word": "flash",
-      "filename": "flash.md",
+      "word": "weakness",
+      "filename": "weakness.md",
       "lines": [
-        "A flash is a light.",
-        "Ein Blitz ist ein Licht.",
-        "フラッシュは光だ。",
-        "闪光是光。"
+        "A weakness is a flaw.",
+        "Eine Schwäche ist ein Fehler.",
+        "弱点は欠点だ。",
+        "弱点是一个缺陷。"
       ]
     },
     {
-      "word": "flashlight",
-      "filename": "flashlight.md",
+      "word": "weapon",
+      "filename": "weapon.md",
       "lines": [
-        "A flashlight is a device.",
-        "Eine Taschenlampe ist ein Gerät.",
-        "懐中電灯は装置だ。",
-        "手电筒是设备。"
+        "A weapon is a tool.",
+        "Eine Waffe ist ein Werkzeug.",
+        "武器は道具だ。",
+        "武器是工具。"
       ]
     },
     {
-      "word": "flat",
-      "filename": "flat.md",
+      "word": "wear",
+      "filename": "wear.md",
       "lines": [
-        "A flat surface is a plane.",
-        "Eine flache Oberfläche ist eine Ebene.",
-        "平らな表面は平面だ。",
-        "平坦的表面是平面。"
+        "Wearing is an action.",
+        "Tragen ist eine Handlung.",
+        "着ることは動作だ。",
+        "穿戴是一种行为。"
       ]
     },
     {
-      "word": "flatbed",
-      "filename": "flatbed.md",
+      "word": "weasel",
+      "filename": "weasel.md",
       "lines": [
-        "A flatbed is a truck.",
-        "Ein Flatbed ist ein Lastwagen.",
-        "フラットベッドはトラックだ。",
-        "平板车是卡车。"
+        "A weasel is an animal.",
+        "Ein Wiesel ist ein Tier.",
+        "イタチは動物だ。",
+        "鼬是动物。"
       ]
     },
     {
-      "word": "flattening",
-      "filename": "flattening.md",
+      "word": "weather",
+      "filename": "weather.md",
       "lines": [
-        "Flattening is an action.",
-        "Das Flachmachen ist eine Handlung.",
-        "平らにすることは動作だ。",
-        "弄平是一种动作。"
+        "Weather is a phenomenon.",
+        "Wetter ist ein Phänomen.",
+        "天気は現象だ。",
+        "天气是一种现象。"
       ]
     },
     {
-      "word": "flavor",
-      "filename": "flavor.md",
+      "word": "weave",
+      "filename": "weave.md",
       "lines": [
-        "A flavor is a taste.",
-        "Ein Geschmack ist ein Aroma.",
-        "味は風味だ。",
-        "味道是风味。"
+        "Weaving is a process.",
+        "Weben ist ein Prozess.",
+        "織ることは過程だ。",
+        "编织是一个过程。"
       ]
     },
     {
-      "word": "flaw",
-      "filename": "flaw.md",
+      "word": "weaver",
+      "filename": "weaver.md",
       "lines": [
-        "A flaw is an imperfection.",
-        "Ein Makel ist eine Unvollkommenheit.",
-        "欠点は不完全さだ。",
-        "缺陷是不完美。"
+        "A weaver is a person.",
+        "Ein Weber ist eine Person.",
+        "織り手は人だ。",
+        "织布工是人。"
       ]
     },
     {
-      "word": "fleece",
-      "filename": "fleece.md",
+      "word": "web",
+      "filename": "web.md",
       "lines": [
-        "A fleece is a fabric.",
-        "Ein Fleece ist ein Stoff.",
-        "フリースは布地だ。",
-        "抓绒是一种布料。"
+        "A web is a network.",
+        "Ein Netz ist ein Netzwerk.",
+        "ウェブはネットワークだ。",
+        "网是一种网络。"
       ]
     }
   ],

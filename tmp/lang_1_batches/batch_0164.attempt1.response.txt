@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "father",
-      "filename": "father.md",
+      "word": "violet",
+      "filename": "violet.md",
       "lines": [
-        "A father is a parent.",
-        "Ein Vater ist ein Elternteil.",
-        "父親は親だ。",
-        "父亲是家长。"
+        "A violet is a flower.",
+        "Ein Veilchen ist eine Blume.",
+        "スミレは花だ。",
+        "紫罗兰是花。"
       ]
     },
     {
-      "word": "fathering",
-      "filename": "fathering.md",
+      "word": "violin",
+      "filename": "violin.md",
       "lines": [
-        "Fathering is parenting.",
-        "Vater sein ist Elternschaft.",
-        "父親をすることは子育てだ。",
-        "做父亲是育儿。"
+        "A violin is a musical instrument.",
+        "Eine Violine ist ein Musikinstrument.",
+        "バイオリンは楽器だ。",
+        "小提琴是乐器。"
       ]
     },
     {
-      "word": "faucet",
-      "filename": "faucet.md",
+      "word": "virtual",
+      "filename": "virtual.md",
       "lines": [
-        "A faucet is a fixture.",
-        "Ein Wasserhahn ist eine Armatur.",
-        "蛇口は設備だ。",
-        "水龙头是一种装置。"
+        "A virtual world is a simulation.",
+        "Eine virtuelle Welt ist eine Simulation.",
+        "仮想世界はシミュレーションだ。",
+        "虚拟世界是模拟。"
       ]
     },
     {
-      "word": "fault",
-      "filename": "fault.md",
+      "word": "virus",
+      "filename": "virus.md",
       "lines": [
-        "A fault is a flaw.",
-        "Ein Fehler ist ein Makel.",
-        "欠点は欠陥だ。",
-        "缺点是一种缺陷。"
+        "A virus is a pathogen.",
+        "Ein Virus ist ein Krankheitserreger.",
+        "ウイルスは病原体だ。",
+        "病毒是病原体。"
       ]
     },
     {
-      "word": "favorite",
-      "filename": "favorite.md",
+      "word": "visible",
+      "filename": "visible.md",
       "lines": [
-        "A favorite color is a color.",
-        "Eine Lieblingsfarbe ist eine Farbe.",
-        "好きな色は色だ。",
-        "最喜欢的颜色是颜色。"
+        "A visible star is a celestial body.",
+        "Ein sichtbarer Stern ist ein Himmelskörper.",
+        "見える星は天体だ。",
+        "可见的星星是天体。"
       ]
     },
     {
-      "word": "faye",
-      "filename": "faye.md",
+      "word": "vision",
+      "filename": "vision.md",
       "lines": [
-        "Faye is a name.",
-        "Faye ist ein Name.",
-        "フェイは名前だ。",
-        "菲是一个名字。"
+        "A vision is an idea.",
+        "Eine Vision ist eine Idee.",
+        "ビジョンはアイデアだ。",
+        "愿景是想法。"
       ]
     },
     {
-      "word": "fear",
-      "filename": "fear.md",
+      "word": "visit",
+      "filename": "visit.md",
       "lines": [
-        "Fear is an emotion.",
-        "Eine Angst ist eine Emotion.",
-        "恐怖は感情だ。",
-        "恐惧是一种情感。"
+        "A visit is an event.",
+        "Ein Besuch ist ein Ereignis.",
+        "訪問はイベントだ。",
+        "访问是事件。"
       ]
     },
     {
-      "word": "feasting",
-      "filename": "feasting.md",
+      "word": "visiting",
+      "filename": "visiting.md",
       "lines": [
-        "Feasting is a celebration.",
-        "Schlemmen ist ein Fest.",
-        "ごちそうを食べることは祝宴だ。",
-        "宴饮是庆祝。"
+        "Visiting is an activity.",
+        "Besuchen ist eine Aktivität.",
+        "訪問することは活動だ。",
+        "访问是一种活动。"
       ]
     },
     {
-      "word": "feather",
-      "filename": "feather.md",
+      "word": "visitor",
+      "filename": "visitor.md",
       "lines": [
-        "A feather is a feature.",
-        "Eine Feder ist ein Merkmal.",
-        "羽は特徴だ。",
-        "羽毛是一种特征。"
+        "A visitor is a guest.",
+        "Ein Besucher ist ein Gast.",
+        "訪問者は客だ。",
+        "访客是客人。"
       ]
     },
     {
-      "word": "feature",
-      "filename": "feature.md",
+      "word": "visual",
+      "filename": "visual.md",
       "lines": [
-        "A feature is a characteristic.",
-        "Ein Merkmal ist eine Eigenschaft.",
-        "特徴は特性だ。",
-        "特征是一种特性。"
+        "A visual aid is a tool.",
+        "Ein visuelles Hilfsmittel ist ein Werkzeug.",
+        "視覚補助具は道具だ。",
+        "视觉辅助工具是工具。"
       ]
     }
   ],

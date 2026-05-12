@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "buckle",
-      "filename": "buckle.md",
+      "word": "seamless",
+      "filename": "seamless.md",
       "lines": [
-        "A buckle is a fastener.",
-        "Eine Schnalle ist ein Verschluss.",
-        "バックルは留め具だ。",
-        "扣子是扣件。"
+        "A seamless dress is clothing.",
+        "Ein nahtloses Kleid ist Kleidung.",
+        "シームレスのドレスは衣類だ。",
+        "无缝的衣服是服装。"
       ]
     },
     {
-      "word": "bud",
-      "filename": "bud.md",
+      "word": "search",
+      "filename": "search.md",
       "lines": [
-        "A bud is a plant part.",
-        "Eine Knospe ist ein Pflanzenteil.",
-        "芽は植物の一部だ。",
-        "芽是植物的一部分。"
+        "Searching is a process.",
+        "Suchen ist ein Prozess.",
+        "検索はプロセスだ。",
+        "搜索是一个过程。"
       ]
     },
     {
-      "word": "buddy",
-      "filename": "buddy.md",
+      "word": "seashell",
+      "filename": "seashell.md",
       "lines": [
-        "A buddy is a friend.",
-        "Ein Kumpel ist ein Freund.",
-        "仲間は友達だ。",
-        "伙伴是朋友。"
+        "A seashell is a natural object.",
+        "Eine Muschel ist ein natürlicher Gegenstand.",
+        "貝殻は自然物だ。",
+        "贝壳是自然物。"
       ]
     },
     {
-      "word": "bug",
-      "filename": "bug.md",
+      "word": "seashore",
+      "filename": "seashore.md",
       "lines": [
-        "A bug is an insect.",
-        "Ein Käfer ist ein Insekt.",
-        "虫は昆虫だ。",
-        "虫子是昆虫。"
+        "A seashore is a shore.",
+        "Ein Meeresufer ist ein Ufer.",
+        "海岸は岸だ。",
+        "海岸是岸边。"
       ]
     },
     {
-      "word": "build",
-      "filename": "build.md",
+      "word": "seasick",
+      "filename": "seasick.md",
       "lines": [
-        "Building is construction.",
-        "Bauen ist Konstruktion.",
-        "建てることは構築だ。",
-        "建造是建筑。"
+        "A seasick passenger is a traveler.",
+        "Ein seekranker Passagier ist ein Reisender.",
+        "船酔いの乗客は旅行者だ。",
+        "晕船的乘客是旅行者。"
       ]
     },
     {
-      "word": "builder",
-      "filename": "builder.md",
+      "word": "season",
+      "filename": "season.md",
       "lines": [
-        "A builder is a worker.",
-        "Ein Bauarbeiter ist ein Arbeiter.",
-        "建設者は労働者だ。",
-        "建筑者是工人。"
+        "A season is a time period.",
+        "Eine Jahreszeit ist ein Zeitraum.",
+        "季節は期間だ。",
+        "季节是一段时间。"
       ]
     },
     {
-      "word": "building",
-      "filename": "building.md",
+      "word": "seasonal",
+      "filename": "seasonal.md",
       "lines": [
-        "A building is a structure.",
-        "Ein Gebäude ist ein Bauwerk.",
-        "建物は構造物だ。",
-        "建筑物是结构。"
+        "A seasonal vegetable is a crop.",
+        "Ein saisonales Gemüse ist eine Feldfrucht.",
+        "旬の野菜は作物だ。",
+        "时令蔬菜是作物。"
       ]
     },
     {
-      "word": "built",
-      "filename": "built.md",
+      "word": "seat",
+      "filename": "seat.md",
       "lines": [
-        "A built house is a structure.",
-        "Ein gebautes Haus ist ein Bauwerk.",
-        "建てられた家は建物だ。",
-        "建成的房子是建筑物。"
+        "A seat is a piece of furniture.",
+        "Ein Sitz ist ein Möbelstück.",
+        "座席は家具だ。",
+        "座位是家具。"
       ]
     },
     {
-      "word": "bulb",
-      "filename": "bulb.md",
+      "word": "seatbelt",
+      "filename": "seatbelt.md",
       "lines": [
-        "A bulb is a light source.",
-        "Ein Glühbirne ist eine Lichtquelle.",
-        "電球は光源だ。",
-        "灯泡是光源。"
+        "A seatbelt is a safety device.",
+        "Ein Sicherheitsgurt ist eine Sicherheitsvorrichtung.",
+        "シートベルトは安全装置だ。",
+        "安全带是安全装置。"
       ]
     },
     {
-      "word": "bull",
-      "filename": "bull.md",
+      "word": "seaweed",
+      "filename": "seaweed.md",
       "lines": [
-        "A bull is an animal.",
-        "Ein Bulle ist ein Tier.",
-        "雄牛は動物だ。",
-        "公牛是动物。"
+        "Seaweed is a plant.",
+        "Seetang ist eine Pflanze.",
+        "海藻は植物だ。",
+        "海藻是植物。"
       ]
     }
   ],

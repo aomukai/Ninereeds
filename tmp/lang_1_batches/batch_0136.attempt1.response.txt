@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "drawing",
-      "filename": "drawing.md",
+      "word": "transformer",
+      "filename": "transformer.md",
       "lines": [
-        "A drawing is an image.",
-        "Eine Zeichnung ist ein Bild.",
-        "絵はイメージだ。",
-        "画是图像。"
+        "A transformer is a device.",
+        "Ein Transformator ist ein Gerät.",
+        "変圧器は装置だ。",
+        "变压器是一种设备。"
       ]
     },
     {
-      "word": "dream",
-      "filename": "dream.md",
+      "word": "transforming",
+      "filename": "transforming.md",
       "lines": [
-        "A dream is an experience.",
-        "Ein Traum ist eine Erfahrung.",
-        "夢は体験だ。",
-        "梦是经历。"
+        "Transforming is a process.",
+        "Transformieren ist ein Prozess.",
+        "変形することはプロセスだ。",
+        "变换是一个过程。"
       ]
     },
     {
-      "word": "dress",
-      "filename": "dress.md",
+      "word": "transition",
+      "filename": "transition.md",
       "lines": [
-        "A dress is a garment.",
-        "Ein Kleid ist ein Kleidungsstück.",
-        "ドレスは衣服だ。",
-        "连衣裙是服装。"
+        "A transition is a change.",
+        "Ein Übergang ist eine Veränderung.",
+        "移行は変化だ。",
+        "过渡是一种变化。"
       ]
     },
     {
-      "word": "dresser",
-      "filename": "dresser.md",
+      "word": "translatable",
+      "filename": "translatable.md",
       "lines": [
-        "A dresser is furniture.",
-        "Eine Kommode ist ein Möbelstück.",
-        "ドレッサーは家具だ。",
-        "梳妆台是家具。"
+        "A translatable document is a text.",
+        "Ein übersetzbares Dokument ist ein Text.",
+        "翻訳可能な文書はテキストだ。",
+        "可翻译的文档是文本。"
       ]
     },
     {
-      "word": "dribbling",
-      "filename": "dribbling.md",
+      "word": "translating",
+      "filename": "translating.md",
       "lines": [
-        "Dribbling is a skill.",
-        "Dribbeln ist eine Fähigkeit.",
-        "ドリブルは技術だ。",
-        "运球是技术。"
+        "Translating is a process.",
+        "Übersetzen ist ein Prozess.",
+        "翻訳することはプロセスだ。",
+        "翻译是一个过程。"
       ]
     },
     {
-      "word": "dried",
-      "filename": "dried.md",
+      "word": "translation",
+      "filename": "translation.md",
       "lines": [
-        "A dried apple is a fruit.",
-        "Ein getrockneter Apfel ist eine Frucht.",
-        "干したりんごは果物だ。",
-        "干苹果是水果。"
+        "A translation is a result.",
+        "Eine Übersetzung ist ein Ergebnis.",
+        "翻訳は結果だ。",
+        "翻译是一个结果。"
       ]
     },
     {
-      "word": "drift",
-      "filename": "drift.md",
+      "word": "transmitting",
+      "filename": "transmitting.md",
       "lines": [
-        "A drift is a pile.",
-        "Eine Wehe ist ein Haufen.",
-        "吹きだまりは山だ。",
-        "雪堆是堆。"
+        "Transmitting is a process.",
+        "Übertragen ist ein Prozess.",
+        "送信することはプロセスだ。",
+        "传输是一个过程。"
       ]
     },
     {
-      "word": "driftwood",
-      "filename": "driftwood.md",
+      "word": "transparent",
+      "filename": "transparent.md",
       "lines": [
-        "Driftwood is wood.",
-        "Treibholz ist Holz.",
-        "流木は木材だ。",
-        "漂流木是木头。"
+        "A transparent material is a substance.",
+        "Ein transparentes Material ist ein Stoff.",
+        "透明な素材は物質だ。",
+        "透明材料是物质。"
       ]
     },
     {
-      "word": "drill",
-      "filename": "drill.md",
+      "word": "transport",
+      "filename": "transport.md",
       "lines": [
-        "A drill is a tool.",
-        "Ein Bohrer ist ein Werkzeug.",
-        "ドリルは道具だ。",
-        "钻是工具。"
+        "Transport is a process.",
+        "Transport ist ein Prozess.",
+        "輸送はプロセスだ。",
+        "运输是一个过程。"
       ]
     },
     {
-      "word": "drink",
-      "filename": "drink.md",
+      "word": "transporting",
+      "filename": "transporting.md",
       "lines": [
-        "A drink is a liquid.",
-        "Ein Getränk ist eine Flüssigkeit.",
-        "飲み物は液体だ。",
-        "饮料是液体。"
+        "Transporting is a process.",
+        "Transportieren ist ein Prozess.",
+        "運搬することはプロセスだ。",
+        "搬运是一个过程。"
       ]
     }
   ],

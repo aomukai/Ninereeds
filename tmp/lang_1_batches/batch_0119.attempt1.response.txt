@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "delivering_5",
-      "filename": "delivering_5.md",
+      "word": "telescope",
+      "filename": "telescope.md",
       "lines": [
-        "Delivering_5 is a process.",
-        "Delivering_5 ist ein Prozess.",
-        "Delivering_5はプロセスだ。",
-        "Delivering_5是一个过程。"
+        "A telescope is an instrument.",
+        "Ein Teleskop ist ein Instrument.",
+        "望遠鏡は道具だ。",
+        "望远镜是一种仪器。"
       ]
     },
     {
-      "word": "delivery",
-      "filename": "delivery.md",
+      "word": "television",
+      "filename": "television.md",
       "lines": [
-        "A delivery is a shipment.",
-        "Eine Lieferung ist eine Sendung.",
-        "配達は発送物だ。",
-        "配送是货物。"
+        "A television is a device.",
+        "Ein Fernseher ist ein Gerät.",
+        "テレビは機械だ。",
+        "电视是一种设备。"
       ]
     },
     {
-      "word": "demanding",
-      "filename": "demanding.md",
+      "word": "tell",
+      "filename": "tell.md",
       "lines": [
-        "A demanding exam is a test.",
-        "Eine anspruchsvolle Prüfung ist ein Test.",
-        "難しい試験はテストだ。",
-        "要求高的考试是测试。"
+        "Telling is communication.",
+        "Erzählen ist Kommunikation.",
+        "話すことはコミュニケーションだ。",
+        "讲述是交流。"
       ]
     },
     {
-      "word": "demarcating",
-      "filename": "demarcating.md",
+      "word": "temper",
+      "filename": "temper.md",
       "lines": [
-        "Demarcating is a way to separate.",
-        "Abgrenzen ist eine Methode zur Trennung.",
-        "境界を引くことは分離の方法だ。",
-        "划界是分离的一种方式。"
+        "Temper is a mood.",
+        "Temper ist eine Laune.",
+        "気性は気分だ。",
+        "脾气是一种情绪。"
       ]
     },
     {
-      "word": "demolishing",
-      "filename": "demolishing.md",
+      "word": "temperature",
+      "filename": "temperature.md",
       "lines": [
-        "Demolishing is a process of destruction.",
-        "Abreißen ist ein Zerstörungsprozess.",
-        "解体は破壊のプロセスだ。",
-        "拆除是破坏的过程。"
+        "Temperature is a measurement.",
+        "Temperatur ist eine Messgröße.",
+        "温度は測定だ。",
+        "温度是一种测量。"
       ]
     },
     {
-      "word": "demonstrate",
-      "filename": "demonstrate.md",
+      "word": "temporal",
+      "filename": "temporal.md",
       "lines": [
-        "Demonstrating is a method of explanation.",
-        "Demonstrieren ist eine Erklärungsmethode.",
-        "実演は説明の方法だ。",
-        "演示是解释的方法。"
+        "A temporal bone is a bone.",
+        "Ein temporaler Knochen ist ein Knochen.",
+        "側頭骨は骨だ。",
+        "颞骨是骨头。"
       ]
     },
     {
-      "word": "demonstrating",
-      "filename": "demonstrating.md",
+      "word": "temporary",
+      "filename": "temporary.md",
       "lines": [
-        "Demonstrating is a type of presentation.",
-        "Demonstrieren ist eine Art Präsentation.",
-        "実演はプレゼンテーションの一種だ。",
-        "演示是展示的一种形式。"
+        "A temporary building is a building.",
+        "Ein temporäres Gebäude ist ein Gebäude.",
+        "仮設の建物は建物だ。",
+        "临时建筑是建筑。"
       ]
     },
     {
-      "word": "den",
-      "filename": "den.md",
+      "word": "temptation",
+      "filename": "temptation.md",
       "lines": [
-        "A den is an animal's home.",
-        "Ein Bau ist das Zuhause eines Tieres.",
-        "巣は動物の家だ。",
-        "巢穴是动物的家。"
+        "Temptation is a desire.",
+        "Versuchung ist ein Verlangen.",
+        "誘惑は欲望だ。",
+        "诱惑是一种欲望。"
       ]
     },
     {
-      "word": "denial",
-      "filename": "denial.md",
+      "word": "ten",
+      "filename": "ten.md",
       "lines": [
-        "Denial is a form of refusal.",
-        "Verneinung ist eine Form der Ablehnung.",
-        "否認は拒否の一種だ。",
-        "否认是拒绝的一种形式。"
+        "Ten is a number.",
+        "Zehn ist eine Zahl.",
+        "十は数字だ。",
+        "十是一个数字。"
       ]
     },
     {
-      "word": "denoting",
-      "filename": "denoting.md",
+      "word": "tender",
+      "filename": "tender.md",
       "lines": [
-        "Denoting is an act of representing.",
-        "Bezeichnen ist ein Akt des Darstellens.",
-        "示すことは表現の行為だ。",
-        "表示是代表的行为。"
+        "A tender steak is food.",
+        "Ein zartes Steak ist ein Lebensmittel.",
+        "柔らかいステーキは食べ物だ。",
+        "嫩牛排是食物。"
       ]
     }
   ],

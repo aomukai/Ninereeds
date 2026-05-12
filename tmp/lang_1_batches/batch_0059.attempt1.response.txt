@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "camel",
-      "filename": "camel.md",
+      "word": "seven",
+      "filename": "seven.md",
       "lines": [
-        "A camel is a mammal.",
-        "Ein Kamel ist ein Säugetier.",
-        "ラクダは哺乳類だ。",
-        "骆驼是哺乳动物。"
+        "Seven is a number.",
+        "Sieben ist eine Zahl.",
+        "七は数字だ。",
+        "七是数字。"
       ]
     },
     {
-      "word": "camera",
-      "filename": "camera.md",
+      "word": "seventh",
+      "filename": "seventh.md",
       "lines": [
-        "A camera is a device.",
-        "Eine Kamera ist ein Gerät.",
-        "カメラは機器だ。",
-        "相机是设备。"
+        "Seventh is an ordinal number.",
+        "Der Siebte ist eine Ordnungszahl.",
+        "7番目は序数だ。",
+        "第七是序数。"
       ]
     },
     {
-      "word": "camouflaging",
-      "filename": "camouflaging.md",
+      "word": "severing",
+      "filename": "severing.md",
       "lines": [
-        "Camouflaging is hiding.",
-        "Tarnen ist Verstecken.",
-        "カモフラージュすることは隠れることだ。",
-        "伪装是隐藏。"
+        "Severing is an action.",
+        "Trennen ist eine Handlung.",
+        "切断は動作だ。",
+        "切断是动作。"
       ]
     },
     {
-      "word": "camp",
-      "filename": "camp.md",
+      "word": "sew",
+      "filename": "sew.md",
       "lines": [
-        "A camp is a place.",
-        "Ein Camp ist ein Ort.",
-        "キャンプは場所だ。",
-        "营地是地点。"
+        "Sewing is an action.",
+        "Nähen ist eine Handlung.",
+        "縫うことは動作だ。",
+        "缝纫是动作。"
       ]
     },
     {
-      "word": "can",
-      "filename": "can.md",
+      "word": "shade",
+      "filename": "shade.md",
       "lines": [
-        "A can is a container.",
-        "Eine Dose ist ein Behälter.",
-        "缶は容器だ。",
-        "罐子是容器。"
+        "Shade is a dark area.",
+        "Schatten ist ein dunkler Bereich.",
+        "陰は暗い場所だ。",
+        "阴是暗处。"
       ]
     },
     {
-      "word": "canal",
-      "filename": "canal.md",
+      "word": "shadow",
+      "filename": "shadow.md",
       "lines": [
-        "A canal is a waterway.",
-        "Ein Kanal ist ein Wasserweg.",
-        "運河は水路だ。",
-        "运河是水道。"
+        "Shadow is a dark shape.",
+        "Schatten ist eine dunkle Form.",
+        "影は暗い形だ。",
+        "影子是暗的形状。"
       ]
     },
     {
-      "word": "canceling",
-      "filename": "canceling.md",
+      "word": "shady",
+      "filename": "shady.md",
       "lines": [
-        "Canceling is stopping.",
-        "Stornieren ist Abbrechen.",
-        "キャンセルすることは中止することだ。",
-        "取消是停止。"
+        "A shady tree is a plant.",
+        "Ein schattiger Baum ist eine Pflanze.",
+        "日陰の木は植物だ。",
+        "阴凉的树是植物。"
       ]
     },
     {
-      "word": "cancer",
-      "filename": "cancer.md",
+      "word": "shake",
+      "filename": "shake.md",
       "lines": [
-        "Cancer is a disease.",
-        "Krebs ist eine Krankheit.",
-        "癌は病気だ。",
-        "癌症是疾病。"
+        "Shaking is a movement.",
+        "Schütteln ist eine Bewegung.",
+        "振ることは動作だ。",
+        "摇晃是动作。"
       ]
     },
     {
-      "word": "cand",
-      "filename": "cand.md",
+      "word": "shaker",
+      "filename": "shaker.md",
       "lines": [
-        "A cand is a unit.",
-        "Eine Candela ist eine Einheit.",
-        "カンデラは単位だ。",
-        "坎德拉是单位。"
+        "A shaker is a container.",
+        "Ein Shaker ist ein Behälter.",
+        "シェーカーは容器だ。",
+        "摇杯是容器。"
       ]
     },
     {
-      "word": "candidate",
-      "filename": "candidate.md",
+      "word": "shaky",
+      "filename": "shaky.md",
       "lines": [
-        "A candidate is a person.",
-        "Ein Kandidat ist eine Person.",
-        "候補者は人だ。",
-        "候选人是人。"
+        "A shaky table is furniture.",
+        "Ein wackliger Tisch ist ein Möbel.",
+        "ぐらつくテーブルは家具だ。",
+        "摇晃的桌子是家具。"
       ]
     }
   ],

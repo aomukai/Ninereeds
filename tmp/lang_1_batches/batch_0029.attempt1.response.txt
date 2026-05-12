@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bacteria",
-      "filename": "bacteria.md",
+      "word": "remarkable",
+      "filename": "remarkable.md",
       "lines": [
-        "Bacteria are microorganisms.",
-        "Bakterien sind Mikroorganismen.",
-        "細菌は微生物だ。",
-        "细菌是微生物。"
+        "A remarkable achievement is a success.",
+        "Eine bemerkenswerte Leistung ist ein Erfolg.",
+        "注目すべき成果は成功だ。",
+        "一个显著的成就是成功。"
       ]
     },
     {
-      "word": "bacterium",
-      "filename": "bacterium.md",
+      "word": "remedying",
+      "filename": "remedying.md",
       "lines": [
-        "A bacterium is a microorganism.",
-        "Ein Bakterium ist ein Mikroorganismus.",
-        "一つの細菌は微生物だ。",
-        "一个细菌是微生物。"
+        "Remedying is a process.",
+        "Beheben ist ein Vorgang.",
+        "改善することは過程だ。",
+        "补救是一个过程。"
       ]
     },
     {
-      "word": "bad",
-      "filename": "bad.md",
+      "word": "remembering",
+      "filename": "remembering.md",
       "lines": [
-        "A bad apple is a fruit.",
-        "Ein schlechter Apfel ist eine Frucht.",
-        "悪いリンゴは果物だ。",
-        "坏苹果是水果。"
+        "Remembering is a process.",
+        "Erinnern ist ein Vorgang.",
+        "記憶することは過程だ。",
+        "记忆是一个过程。"
       ]
     },
     {
-      "word": "bag",
-      "filename": "bag.md",
+      "word": "reminding",
+      "filename": "reminding.md",
       "lines": [
-        "A bag is a container.",
-        "Eine Tüte ist ein Behälter.",
-        "袋は容器だ。",
-        "袋子是容器。"
+        "Reminding is a communication.",
+        "Erinnern ist eine Kommunikation.",
+        "思い出させることはコミュニケーションだ。",
+        "提醒是一种沟通。"
       ]
     },
     {
-      "word": "bag of flour",
-      "filename": "bag_of_flour.md",
+      "word": "removing",
+      "filename": "removing.md",
       "lines": [
-        "A bag of flour is a food item.",
-        "Ein Sack Mehl ist ein Lebensmittel.",
-        "小麦粉の袋は食品だ。",
-        "一袋面粉是食品。"
+        "Removing is an action.",
+        "Entfernen ist eine Handlung.",
+        "削除することは動作だ。",
+        "移除是一个动作。"
       ]
     },
     {
-      "word": "bake",
-      "filename": "bake.md",
+      "word": "removing 3",
+      "filename": "removing_3.md",
       "lines": [
-        "Baking is cooking.",
-        "Backen ist Kochen.",
-        "焼くことは料理だ。",
-        "烘焙是烹饪。"
+        "Removing 3 is a step.",
+        "Das Entfernen von 3 ist ein Schritt.",
+        "3を削除することは手順だ。",
+        "删除3是一个步骤。"
       ]
     },
     {
-      "word": "baked",
-      "filename": "baked.md",
+      "word": "removing 4",
+      "filename": "removing_4.md",
       "lines": [
-        "A baked potato is a food.",
-        "Eine gebackene Kartoffel ist ein Lebensmittel.",
-        "焼いたジャガイモは食べ物だ。",
-        "烤土豆是食物。"
+        "Removing 4 is a step.",
+        "Das Entfernen von 4 ist ein Schritt.",
+        "4を削除することは手順だ。",
+        "删除4是一个步骤。"
       ]
     },
     {
-      "word": "baker",
-      "filename": "baker.md",
+      "word": "rendering",
+      "filename": "rendering.md",
       "lines": [
-        "A baker is a person.",
-        "Ein Bäcker ist eine Person.",
-        "パン職人は人だ。",
-        "面包师是人。"
+        "Rendering is a process.",
+        "Darstellen ist ein Vorgang.",
+        "レンダリングは過程だ。",
+        "渲染是一个过程。"
       ]
     },
     {
-      "word": "bakery",
-      "filename": "bakery.md",
+      "word": "renewing",
+      "filename": "renewing.md",
       "lines": [
-        "A bakery is a shop.",
-        "Eine Bäckerei ist ein Geschäft.",
-        "パン屋は店だ。",
-        "面包店是商店。"
+        "Renewing is a process.",
+        "Erneuern ist ein Vorgang.",
+        "更新することは過程だ。",
+        "更新是一个过程。"
       ]
     },
     {
-      "word": "baking",
-      "filename": "baking.md",
+      "word": "repainting",
+      "filename": "repainting.md",
       "lines": [
-        "Baking is a cooking method.",
-        "Backen ist eine Kochmethode.",
-        "ベーキングは調理法だ。",
-        "烘焙是一种烹饪方法。"
+        "Repainting is a process.",
+        "Das Neuanstreichen ist ein Vorgang.",
+        "塗り直すことは過程だ。",
+        "重新粉刷是一个过程。"
       ]
     }
   ],

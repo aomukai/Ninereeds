@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "breakfast",
-      "filename": "breakfast.md",
+      "word": "scenario",
+      "filename": "scenario.md",
       "lines": [
-        "Breakfast is a meal.",
-        "Frühstück ist eine Mahlzeit.",
-        "朝食は食事だ。",
-        "早餐是一餐。"
+        "A scenario is a situation.",
+        "Ein Szenario ist eine Situation.",
+        "シナリオは状況だ。",
+        "场景是一种情况。"
       ]
     },
     {
-      "word": "break-through",
-      "filename": "break_through.md",
+      "word": "scene",
+      "filename": "scene.md",
       "lines": [
-        "A break-through is an advance.",
-        "Ein Durchbruch ist ein Fortschritt.",
-        "突破口は進歩だ。",
-        "突破是进步。"
+        "A scene is a part of a story.",
+        "Eine Szene ist ein Teil einer Geschichte.",
+        "シーンは物語の一部だ。",
+        "场景是故事的一部分。"
       ]
     },
     {
-      "word": "breast",
-      "filename": "breast.md",
+      "word": "scenery",
+      "filename": "scenery.md",
       "lines": [
-        "A breast is a body part.",
-        "Eine Brust ist ein Körperteil.",
-        "胸は体の一部だ。",
-        "乳房是身体部位。"
+        "Scenery is a natural view.",
+        "Eine Landschaft ist eine natürliche Aussicht.",
+        "景色は自然の眺めだ。",
+        "风景是自然景色。"
       ]
     },
     {
-      "word": "breath",
-      "filename": "breath.md",
+      "word": "scent",
+      "filename": "scent.md",
       "lines": [
-        "Breath is air.",
-        "Atem ist Luft.",
-        "息は空気だ。",
-        "呼吸是空气。"
+        "A scent is a smell.",
+        "Ein Duft ist ein Geruch.",
+        "香りは匂いだ。",
+        "气味是一种味道。"
       ]
     },
     {
-      "word": "breathe",
-      "filename": "breathe.md",
+      "word": "schedule",
+      "filename": "schedule.md",
       "lines": [
-        "Breathing is action.",
-        "Atmen ist Handlung.",
-        "呼吸することは動作だ。",
-        "呼吸是动作。"
+        "A schedule is a plan.",
+        "Ein Zeitplan ist ein Plan.",
+        "スケジュールは計画だ。",
+        "日程表是一种计划。"
       ]
     },
     {
-      "word": "breathing",
-      "filename": "breathing.md",
+      "word": "school",
+      "filename": "school.md",
       "lines": [
-        "Breathing is a process.",
-        "Atmung ist ein Prozess.",
-        "呼吸はプロセスだ。",
-        "呼吸是过程。"
+        "A school is a place.",
+        "Eine Schule ist ein Ort.",
+        "学校は場所だ。",
+        "学校是一个地方。"
       ]
     },
     {
-      "word": "breed",
-      "filename": "breed.md",
+      "word": "schoolwork",
+      "filename": "schoolwork.md",
       "lines": [
-        "Breeding is reproduction.",
-        "Züchten ist Fortpflanzung.",
-        "繁殖することは生殖だ。",
-        "繁殖是生殖。"
+        "Schoolwork is work.",
+        "Schulaufgaben sind Arbeit.",
+        "学校の課題は仕事だ。",
+        "学校作业是工作。"
       ]
     },
     {
-      "word": "breeding",
-      "filename": "breeding.md",
+      "word": "science",
+      "filename": "science.md",
       "lines": [
-        "Breeding is farming.",
-        "Zucht ist Landwirtschaft.",
-        "飼育は農業だ。",
-        "饲养是农业。"
+        "Science is a field.",
+        "Wissenschaft ist ein Fachgebiet.",
+        "科学は分野だ。",
+        "科学是一个领域。"
       ]
     },
     {
-      "word": "breeze like",
-      "filename": "breeze_like.md",
+      "word": "scientific",
+      "filename": "scientific.md",
       "lines": [
-        "A breeze-like wind is air.",
-        "Ein windartiger Wind ist Luft.",
-        "そよ風のような風は空気だ。",
-        "微风般的风是空气。"
+        "A scientific experiment is a test.",
+        "Ein wissenschaftliches Experiment ist ein Test.",
+        "科学実験はテストだ。",
+        "科学实验是一种测试。"
       ]
     },
     {
-      "word": "brevity",
-      "filename": "brevity.md",
+      "word": "scientist",
+      "filename": "scientist.md",
       "lines": [
-        "Brevity is conciseness.",
-        "Kürze ist Prägnanz.",
-        "簡潔さは簡明さだ。",
-        "简洁是简明。"
+        "A scientist is a researcher.",
+        "Ein Wissenschaftler ist ein Forscher.",
+        "科学者は研究者だ。",
+        "科学家是研究者。"
       ]
     }
   ],

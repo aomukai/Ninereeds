@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "border",
-      "filename": "border.md",
+      "word": "salad",
+      "filename": "salad.md",
       "lines": [
-        "A border is a line.",
-        "Eine Grenze ist eine Linie.",
-        "国境は線だ。",
-        "边界是一条线。"
+        "A salad is a dish.",
+        "Ein Salat ist ein Gericht.",
+        "サラダは料理だ。",
+        "沙拉是一道菜。"
       ]
     },
     {
-      "word": "bordering",
-      "filename": "bordering.md",
+      "word": "sale",
+      "filename": "sale.md",
       "lines": [
-        "Bordering is a relation.",
-        "Angrenzen ist eine Beziehung.",
-        "隣接することは関係だ。",
-        "接壤是一种关系。"
+        "A sale is a transaction.",
+        "Ein Verkauf ist eine Transaktion.",
+        "販売は取引だ。",
+        "销售是交易。"
       ]
     },
     {
-      "word": "bored",
-      "filename": "bored.md",
+      "word": "salmon",
+      "filename": "salmon.md",
       "lines": [
-        "A bored student is a student.",
-        "Ein gelangweilter Schüler ist ein Schüler.",
-        "退屈している学生は学生だ。",
-        "无聊的学生是学生。"
+        "A salmon is a fish.",
+        "Ein Lachs ist ein Fisch.",
+        "サーモンは魚だ。",
+        "鲑鱼是鱼。"
       ]
     },
     {
-      "word": "boredom",
-      "filename": "boredom.md",
+      "word": "salsa",
+      "filename": "salsa.md",
       "lines": [
-        "Boredom is a feeling.",
-        "Langeweile ist ein Gefühl.",
-        "退屈は感情だ。",
-        "无聊是一种感觉。"
+        "Salsa is a sauce.",
+        "Salsa ist eine Soße.",
+        "サルサはソースだ。",
+        "莎莎酱是酱料。"
       ]
     },
     {
-      "word": "boring",
-      "filename": "boring.md",
+      "word": "salt",
+      "filename": "salt.md",
       "lines": [
-        "A boring movie is a movie.",
-        "Ein langweiliger Film ist ein Film.",
-        "退屈な映画は映画だ。",
-        "无聊的电影是电影。"
+        "Salt is a mineral.",
+        "Salz ist ein Mineral.",
+        "塩は鉱物だ。",
+        "盐是矿物。"
       ]
     },
     {
-      "word": "borning",
-      "filename": "borning.md",
+      "word": "salty",
+      "filename": "salty.md",
       "lines": [
-        "A borning baby is a baby.",
-        "Ein geborenes Baby ist ein Baby.",
-        "生まれたばかりの赤ちゃんは赤ちゃんだ。",
-        "刚出生的婴儿是婴儿。"
+        "A salty cracker is a snack.",
+        "Ein salziger Cracker ist ein Snack.",
+        "塩味のクラッカーはおやつだ。",
+        "咸饼干是零食。"
       ]
     },
     {
-      "word": "borrowed",
-      "filename": "borrowed.md",
+      "word": "salvaging",
+      "filename": "salvaging.md",
       "lines": [
-        "A borrowed book is a book.",
-        "Ein geliehenes Buch ist ein Buch.",
-        "借りた本は本だ。",
-        "借来的书是书。"
+        "Salvaging is a process.",
+        "Bergen ist ein Prozess.",
+        "サルベージはプロセスだ。",
+        "打捞是一个过程。"
       ]
     },
     {
-      "word": "borrowing",
-      "filename": "borrowing.md",
+      "word": "sameness",
+      "filename": "sameness.md",
       "lines": [
-        "Borrowing is an action.",
-        "Ausleihen ist eine Handlung.",
-        "借りることは行動だ。",
-        "借是一种行为。"
+        "Sameness is a quality.",
+        "Gleichheit ist eine Eigenschaft.",
+        "同一性は性質だ。",
+        "相同性是一种性质。"
       ]
     },
     {
-      "word": "borrows",
-      "filename": "borrows.md",
+      "word": "sand",
+      "filename": "sand.md",
       "lines": [
-        "Borrows is an action.",
-        "Borgen ist eine Handlung.",
-        "借りることは行動だ。",
-        "借是一种行为。"
+        "Sand is a substance.",
+        "Sand ist eine Substanz.",
+        "砂は物質だ。",
+        "沙子是物质。"
       ]
     },
     {
-      "word": "bossy",
-      "filename": "bossy.md",
+      "word": "sandal",
+      "filename": "sandal.md",
       "lines": [
-        "A bossy person is a person.",
-        "Ein herrischer Mensch ist ein Mensch.",
-        "威張っている人は人だ。",
-        "霸道的人是人。"
+        "A sandal is a shoe.",
+        "Eine Sandale ist ein Schuh.",
+        "サンダルは靴だ。",
+        "凉鞋是鞋。"
       ]
     }
   ],

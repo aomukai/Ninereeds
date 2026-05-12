@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "counselor",
-      "filename": "counselor.md",
+      "word": "string",
+      "filename": "string.md",
       "lines": [
-        "A counselor is a helper.",
-        "Ein Berater ist ein Helfer.",
-        "カウンセラーは助言者だ。",
-        "顾问是帮助者。"
+        "A string is a piece of material.",
+        "Eine Schnur ist ein Stück Material.",
+        "紐は一片の材料だ。",
+        "绳子是一段材料。"
       ]
     },
     {
-      "word": "count",
-      "filename": "count.md",
+      "word": "stringy",
+      "filename": "stringy.md",
       "lines": [
-        "Counting is calculation.",
-        "Zählen ist Berechnung.",
-        "数えることは計算だ。",
-        "数数是计算。"
+        "A stringy vegetable is a vegetable.",
+        "Ein faseriges Gemüse ist ein Gemüse.",
+        "繊維質な野菜は野菜だ。",
+        "多筋的蔬菜是蔬菜。"
       ]
     },
     {
-      "word": "counter",
-      "filename": "counter.md",
+      "word": "strip",
+      "filename": "strip.md",
       "lines": [
-        "A counter is a surface.",
-        "Eine Theke ist eine Fläche.",
-        "カウンターは台だ。",
-        "柜台是台面。"
+        "A strip is a piece of material.",
+        "Ein Streifen ist ein Stück Material.",
+        "ストリップは材料の一片だ。",
+        "条状物是一段材料。"
       ]
     },
     {
-      "word": "country",
-      "filename": "country.md",
+      "word": "stripe",
+      "filename": "stripe.md",
       "lines": [
-        "A country is a region.",
-        "Ein Land ist eine Region.",
-        "国は地域だ。",
-        "国家是区域。"
+        "A stripe is a line of color.",
+        "Ein Streifen ist eine farbige Linie.",
+        "ストライプは色の線だ。",
+        "条纹是颜色的线条。"
       ]
     },
     {
-      "word": "countryside",
-      "filename": "countryside.md",
+      "word": "stripping",
+      "filename": "stripping.md",
       "lines": [
-        "The countryside is a landscape.",
-        "Die Landschaft ist eine Gegend.",
-        "田舎は風景だ。",
-        "乡村是风景。"
+        "Stripping is removal.",
+        "Abstreifen ist Entfernung.",
+        "剥ぐことは除去だ。",
+        "剥离是去除。"
       ]
     },
     {
-      "word": "coupling",
-      "filename": "coupling.md",
+      "word": "striving",
+      "filename": "striving.md",
       "lines": [
-        "Coupling is connection.",
-        "Kuppeln ist Verbindung.",
-        "連結は接続だ。",
-        "连接是联结。"
+        "Striving is an action.",
+        "Streben ist eine Handlung.",
+        "努力は行動だ。",
+        "努力是行动。"
       ]
     },
     {
-      "word": "courage",
-      "filename": "courage.md",
+      "word": "stroke",
+      "filename": "stroke.md",
       "lines": [
-        "Courage is a quality.",
-        "Mut ist eine Eigenschaft.",
-        "勇気は性質だ。",
-        "勇气是品质。"
+        "A stroke is a line.",
+        "Ein Strich ist eine Linie.",
+        "ストロークは線だ。",
+        "笔画是线条。"
       ]
     },
     {
-      "word": "course",
-      "filename": "course.md",
+      "word": "stroll",
+      "filename": "stroll.md",
       "lines": [
-        "A course is a path.",
-        "Ein Kurs ist ein Weg.",
-        "コースは道だ。",
-        "课程是路径。"
+        "A stroll is a slow walk.",
+        "Ein Spaziergang ist ein langsamer Gang.",
+        "散歩は遅い歩きだ。",
+        "散步是慢走。"
       ]
     },
     {
-      "word": "courtyard",
-      "filename": "courtyard.md",
+      "word": "strong",
+      "filename": "strong.md",
       "lines": [
-        "A courtyard is an area.",
-        "Ein Innenhof ist ein Bereich.",
-        "中庭は場所だ。",
-        "庭院是区域。"
+        "A strong horse is an animal.",
+        "Ein starkes Pferd ist ein Tier.",
+        "強い馬は動物だ。",
+        "强壮的马是动物。"
       ]
     },
     {
-      "word": "cousin",
-      "filename": "cousin.md",
+      "word": "strong-smelling",
+      "filename": "strong-smelling.md",
       "lines": [
-        "A cousin is a relative.",
-        "Ein Cousin ist ein Verwandter.",
-        "いとこは親戚だ。",
-        "表兄弟是亲戚。"
+        "A strong-smelling cheese is a dairy product.",
+        "Ein stark riechender Käse ist ein Milchprodukt.",
+        "強い匂いのチーズは乳製品だ。",
+        "气味浓烈的奶酪是乳制品。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fleeing",
-      "filename": "fleeing.md",
+      "word": "webbed",
+      "filename": "webbed.md",
       "lines": [
-        "Fleeing is escape.",
-        "Fliehen ist Flucht.",
-        "逃げることは逃走だ。",
-        "逃跑是逃离。"
+        "A webbed foot is a foot.",
+        "Ein Schwimmfuß ist ein Fuß.",
+        "水かきのある足は足だ。",
+        "有蹼的脚是脚。"
       ]
     },
     {
-      "word": "flesh",
-      "filename": "flesh.md",
+      "word": "website",
+      "filename": "website.md",
       "lines": [
-        "Flesh is soft tissue.",
-        "Fleisch ist Weichgewebe.",
-        "肉は軟組織だ。",
-        "肉是软组织。"
+        "A website is a web page.",
+        "Eine Website ist eine Webseite.",
+        "ウェブサイトはウェブページだ。",
+        "网站是网页。"
       ]
     },
     {
-      "word": "flex",
-      "filename": "flex.md",
+      "word": "wedding",
+      "filename": "wedding.md",
       "lines": [
-        "Flexing is bending.",
-        "Beugen ist Biegen.",
-        "曲げることは曲げ動作だ。",
-        "弯曲是弯曲动作。"
+        "A wedding is a ceremony.",
+        "Eine Hochzeit ist eine Zeremonie.",
+        "結婚式は儀式だ。",
+        "婚礼是仪式。"
       ]
     },
     {
-      "word": "flick",
-      "filename": "flick.md",
+      "word": "wedge",
+      "filename": "wedge.md",
       "lines": [
-        "Flicking is a quick motion.",
-        "Schnippen ist eine schnelle Bewegung.",
-        "はじくことは素早い動作だ。",
-        "弹是一种快速动作。"
+        "A wedge is a tool.",
+        "Ein Keil ist ein Werkzeug.",
+        "くさびは道具だ。",
+        "楔子是工具。"
       ]
     },
     {
-      "word": "flicker",
-      "filename": "flicker.md",
+      "word": "weed",
+      "filename": "weed.md",
       "lines": [
-        "Flickering is a variation in light.",
-        "Flackern ist eine Veränderung des Lichts.",
-        "ちらつくことは光の変化だ。",
-        "闪烁是光的变化。"
+        "A weed is a plant.",
+        "Ein Unkraut ist eine Pflanze.",
+        "雑草は植物だ。",
+        "杂草是植物。"
       ]
     },
     {
-      "word": "flier",
-      "filename": "flier.md",
+      "word": "week",
+      "filename": "week.md",
       "lines": [
-        "A flier is a pilot.",
-        "Ein Flieger ist ein Pilot.",
-        "飛行士はパイロットだ。",
-        "飞行员是驾驶员。"
+        "A week is a period of time.",
+        "Eine Woche ist ein Zeitraum.",
+        "週は期間だ。",
+        "一周是一段时间。"
       ]
     },
     {
-      "word": "flight",
-      "filename": "flight.md",
+      "word": "weekday",
+      "filename": "weekday.md",
       "lines": [
-        "Flight is a form of travel.",
-        "Flug ist eine Form des Reisens.",
-        "飛行は旅行の一種だ。",
-        "飞行是一种旅行方式。"
+        "A weekday is a day.",
+        "Ein Wochentag ist ein Tag.",
+        "平日は日だ。",
+        "平日是日子。"
       ]
     },
     {
-      "word": "flinging",
-      "filename": "flinging.md",
+      "word": "weekend",
+      "filename": "weekend.md",
       "lines": [
-        "Flinging is throwing.",
-        "Schleudern ist Werfen.",
-        "投げつけることは投げ動作だ。",
-        "扔是一种投掷。"
+        "A weekend is a period.",
+        "Ein Wochenende ist ein Zeitraum.",
+        "週末は期間だ。",
+        "周末是一段时间。"
       ]
     },
     {
-      "word": "flip",
-      "filename": "flip.md",
+      "word": "weigh",
+      "filename": "weigh.md",
       "lines": [
-        "Flipping is a turning motion.",
-        "Umdrehen ist eine Drehbewegung.",
-        "ひっくり返すことは回転だ。",
-        "翻转是一种旋转。"
+        "Weighing is a measurement.",
+        "Wiegen ist eine Messung.",
+        "計量することは測定だ。",
+        "称重是测量。"
       ]
     },
     {
-      "word": "flipper",
-      "filename": "flipper.md",
+      "word": "weight",
+      "filename": "weight.md",
       "lines": [
-        "A flipper is a swimming limb.",
-        "Eine Flosse ist ein Schwimmglied.",
-        "ひれは泳ぐための肢だ。",
-        "鳍是游泳的肢体。"
+        "Weight is a property.",
+        "Gewicht ist eine Eigenschaft.",
+        "重さは性質だ。",
+        "重量是性质。"
       ]
     }
   ],

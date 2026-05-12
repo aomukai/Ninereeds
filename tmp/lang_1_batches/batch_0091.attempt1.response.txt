@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "confuse",
-      "filename": "confuse.md",
+      "word": "squish",
+      "filename": "squish.md",
       "lines": [
-        "Confusing is misleading.",
-        "Verwirren ist Irreführen.",
-        "混乱させることは誤解を招くことだ。",
-        "混淆是误导。"
+        "Squishing is a compression.",
+        "Quetschen ist eine Kompression.",
+        "押しつぶすことは圧縮だ。",
+        "挤压是一种压缩。"
       ]
     },
     {
-      "word": "confused",
-      "filename": "confused.md",
+      "word": "stability",
+      "filename": "stability.md",
       "lines": [
-        "A confused person is a human.",
-        "Ein verwirrter Mensch ist ein Mensch.",
-        "混乱した人は人間だ。",
-        "困惑的人是人。"
+        "Stability is a state.",
+        "Stabilität ist ein Zustand.",
+        "安定は状態だ。",
+        "稳定是一种状态。"
       ]
     },
     {
-      "word": "confusing",
-      "filename": "confusing.md",
+      "word": "stabilizing",
+      "filename": "stabilizing.md",
       "lines": [
-        "A confusing puzzle is a game.",
-        "Ein verwirrendes Puzzle ist ein Spiel.",
-        "混乱させるパズルはゲームだ。",
-        "令人困惑的谜题是一种游戏。"
+        "Stabilizing is a process.",
+        "Stabilisieren ist ein Prozess.",
+        "安定化はプロセスだ。",
+        "稳定是一个过程。"
       ]
     },
     {
-      "word": "confusion",
-      "filename": "confusion.md",
+      "word": "stable",
+      "filename": "stable.md",
       "lines": [
-        "Confusion is a state.",
-        "Verwirrung ist ein Zustand.",
-        "混乱は状態だ。",
-        "混乱是一种状态。"
+        "A stable building is a structure.",
+        "Ein stabiles Gebäude ist eine Struktur.",
+        "安定した建物は構造物だ。",
+        "稳定的建筑物是一种结构。"
       ]
     },
     {
-      "word": "conjunction",
-      "filename": "conjunction.md",
+      "word": "stack",
+      "filename": "stack.md",
       "lines": [
-        "A conjunction is a word.",
-        "Eine Konjunktion ist ein Wort.",
-        "接続詞は単語だ。",
-        "连词是一种词。"
+        "A stack is a pile.",
+        "Ein Stapel ist ein Haufen.",
+        "スタックは山だ。",
+        "堆栈是一堆。"
       ]
     },
     {
-      "word": "connect",
-      "filename": "connect.md",
+      "word": "staff",
+      "filename": "staff.md",
       "lines": [
-        "Connecting is linking.",
-        "Verbinden ist Verknüpfen.",
-        "接続することは連結することだ。",
-        "连接是联接。"
+        "A staff is a group.",
+        "Ein Stab ist eine Gruppe.",
+        "スタッフはグループだ。",
+        "员工是一个团队。"
       ]
     },
     {
-      "word": "connected",
-      "filename": "connected.md",
+      "word": "stage",
+      "filename": "stage.md",
       "lines": [
-        "A connected car is a vehicle.",
-        "Ein verbundenes Auto ist ein Fahrzeug.",
-        "接続された車は乗り物だ。",
-        "联网的汽车是一种车辆。"
+        "A stage is a platform.",
+        "Eine Bühne ist eine Plattform.",
+        "ステージはプラットフォームだ。",
+        "舞台是一个平台。"
       ]
     },
     {
-      "word": "connecting",
-      "filename": "connecting.md",
+      "word": "stain",
+      "filename": "stain.md",
       "lines": [
-        "A connecting flight is a journey.",
-        "Ein Anschlussflug ist eine Reise.",
-        "乗り継ぎ便は旅行だ。",
-        "转机航班是一种旅行。"
+        "A stain is a mark.",
+        "Ein Fleck ist eine Markierung.",
+        "しみは印だ。",
+        "污渍是一个印记。"
       ]
     },
     {
-      "word": "connection",
-      "filename": "connection.md",
+      "word": "stair",
+      "filename": "stair.md",
       "lines": [
-        "A connection is a link.",
-        "Eine Verbindung ist eine Verknüpfung.",
-        "接続はリンクだ。",
-        "连接是一种链接。"
+        "A stair is a structure.",
+        "Eine Treppe ist eine Struktur.",
+        "階段は構造物だ。",
+        "楼梯是一种结构。"
       ]
     },
     {
-      "word": "conquest",
-      "filename": "conquest.md",
+      "word": "stake",
+      "filename": "stake.md",
       "lines": [
-        "Conquest is a victory.",
-        "Eroberung ist ein Sieg.",
-        "征服は勝利だ。",
-        "征服是一种胜利。"
+        "A stake is a stick.",
+        "Ein Pfahl ist ein Stab.",
+        "杭は棒だ。",
+        "桩是一种棍子。"
       ]
     }
   ],

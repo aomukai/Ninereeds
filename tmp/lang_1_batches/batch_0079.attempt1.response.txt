@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "cloth",
-      "filename": "cloth.md",
+      "word": "soak",
+      "filename": "soak.md",
       "lines": [
-        "A cloth is a fabric.",
-        "Ein Tuch ist ein Stoff.",
-        "布は布地だ。",
-        "布是布料。"
+        "Soaking is an action.",
+        "Einweichen ist eine Handlung.",
+        "浸すことは動作だ。",
+        "浸泡是一种动作。"
       ]
     },
     {
-      "word": "cloud",
-      "filename": "cloud.md",
+      "word": "soap",
+      "filename": "soap.md",
       "lines": [
-        "A cloud is a weather phenomenon.",
-        "Eine Wolke ist ein Wetterphänomen.",
-        "雲は気象現象だ。",
-        "云是一种天气现象。"
+        "Soap is a substance.",
+        "Seife ist eine Substanz.",
+        "石鹸は物質だ。",
+        "肥皂是一种物质。"
       ]
     },
     {
-      "word": "cloudy",
-      "filename": "cloudy.md",
+      "word": "soapy",
+      "filename": "soapy.md",
       "lines": [
-        "A cloudy sky is a sky.",
-        "Ein bewölkter Himmel ist ein Himmel.",
-        "曇った空は空だ。",
-        "多云的天空是天空。"
+        "A soapy liquid is a liquid.",
+        "Eine seifige Flüssigkeit ist eine Flüssigkeit.",
+        "石鹸の液体は液体だ。",
+        "肥皂水是液体。"
       ]
     },
     {
-      "word": "clove",
-      "filename": "clove.md",
+      "word": "soaring",
+      "filename": "soaring.md",
       "lines": [
-        "A clove is a spice.",
-        "Eine Nelke ist ein Gewürz.",
-        "クローブは香辛料だ。",
-        "丁香是一种香料。"
+        "Soaring is flying.",
+        "Gleiten ist Fliegen.",
+        "舞い上がることは飛ぶことだ。",
+        "翱翔是飞行。"
       ]
     },
     {
-      "word": "clover",
-      "filename": "clover.md",
+      "word": "soccer",
+      "filename": "soccer.md",
       "lines": [
-        "A clover is a plant.",
-        "Ein Klee ist eine Pflanze.",
-        "クローバーは植物だ。",
-        "三叶草是一种植物。"
+        "Soccer is a sport.",
+        "Fußball ist ein Sport.",
+        "サッカーはスポーツだ。",
+        "足球是一项运动。"
       ]
     },
     {
-      "word": "clown",
-      "filename": "clown.md",
+      "word": "social",
+      "filename": "social.md",
       "lines": [
-        "A clown is a performer.",
-        "Ein Clown ist ein Künstler.",
-        "ピエロは芸人だ。",
-        "小丑是表演者。"
+        "A social event is an event.",
+        "Eine gesellschaftliche Veranstaltung ist eine Veranstaltung.",
+        "社交的なイベントはイベントだ。",
+        "社交活动是活动。"
       ]
     },
     {
-      "word": "cluck",
-      "filename": "cluck.md",
+      "word": "sock",
+      "filename": "sock.md",
       "lines": [
-        "Clucking is a sound.",
-        "Gackern ist ein Geräusch.",
-        "コッコッと鳴くことは音だ。",
-        "咯咯叫是一种声音。"
+        "A sock is clothing.",
+        "Eine Socke ist Kleidung.",
+        "靴下は衣類だ。",
+        "袜子是衣物。"
       ]
     },
     {
-      "word": "clue",
-      "filename": "clue.md",
+      "word": "soda",
+      "filename": "soda.md",
       "lines": [
-        "A clue is a hint.",
-        "Ein Hinweis ist ein Tipp.",
-        "手がかりはヒントだ。",
-        "线索是提示。"
+        "Soda is a drink.",
+        "Limonade ist ein Getränk.",
+        "ソーダは飲み物だ。",
+        "汽水是饮料。"
       ]
     },
     {
-      "word": "cluster",
-      "filename": "cluster.md",
+      "word": "sofa",
+      "filename": "sofa.md",
       "lines": [
-        "A cluster is a group.",
-        "Ein Cluster ist eine Gruppe.",
-        "クラスターは集団だ。",
-        "集群是一个群体。"
+        "A sofa is furniture.",
+        "Ein Sofa ist ein Möbelstück.",
+        "ソファは家具だ。",
+        "沙发是家具。"
       ]
     },
     {
-      "word": "clutching",
-      "filename": "clutching.md",
+      "word": "soft",
+      "filename": "soft.md",
       "lines": [
-        "Clutching is grasping.",
-        "Festhalten ist Greifen.",
-        "握ることは掴むことだ。",
-        "紧握是抓握。"
+        "A soft blanket is a blanket.",
+        "Eine weiche Decke ist eine Decke.",
+        "柔らかい毛布は毛布だ。",
+        "柔软的毯子是毯子。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "affirming",
-      "filename": "affirming.md",
+      "word": "program",
+      "filename": "program.md",
       "lines": [
-        "Affirming is a statement.",
-        "Bestätigen ist eine Aussage.",
-        "肯定することは表明だ。",
-        "肯定是一种陈述。"
+        "A program is a plan.",
+        "Ein Programm ist ein Plan.",
+        "プログラムは計画だ。",
+        "程序是计划。"
       ]
     },
     {
-      "word": "affordance",
-      "filename": "affordance.md",
+      "word": "progress",
+      "filename": "progress.md",
       "lines": [
-        "An affordance is a property.",
-        "Eine Affordanz ist eine Eigenschaft.",
-        "アフォーダンスは特性だ。",
-        "可供性是一种特性。"
+        "Progress is improvement.",
+        "Fortschritt ist Verbesserung.",
+        "進歩は改善だ。",
+        "进步是改善。"
       ]
     },
     {
-      "word": "affording",
-      "filename": "affording.md",
+      "word": "project",
+      "filename": "project.md",
       "lines": [
-        "Affording is a provision.",
-        "Gewähren ist eine Bereitstellung.",
-        "提供することは供給だ。",
-        "提供是一种供给。"
+        "A project is a task.",
+        "Ein Projekt ist eine Aufgabe.",
+        "プロジェクトはタスクだ。",
+        "项目是任务。"
       ]
     },
     {
-      "word": "afraid",
-      "filename": "afraid.md",
+      "word": "promise",
+      "filename": "promise.md",
       "lines": [
-        "An afraid person is a human.",
-        "Eine ängstliche Person ist ein Mensch.",
-        "怖がっている人は人間だ。",
-        "害怕的人是人类。"
+        "A promise is a commitment.",
+        "Ein Versprechen ist eine Verpflichtung.",
+        "約束は誓約だ。",
+        "承诺是保证。"
       ]
     },
     {
-      "word": "afternoon",
-      "filename": "afternoon.md",
+      "word": "promised",
+      "filename": "promised.md",
       "lines": [
-        "An afternoon is a time.",
-        "Ein Nachmittag ist eine Zeit.",
-        "午後は時間だ。",
-        "下午是时间。"
+        "A promised gift is a present.",
+        "Ein versprochenes Geschenk ist ein Präsent.",
+        "約束された贈り物はプレゼントだ。",
+        "承诺的礼物是赠品。"
       ]
     },
     {
-      "word": "afterward",
-      "filename": "afterward.md",
+      "word": "promising",
+      "filename": "promising.md",
       "lines": [
-        "Afterward is a time.",
-        "Das Danach ist eine Zeit.",
-        "その後は時間だ。",
-        "之后是时间。"
+        "A promising student is a learner.",
+        "Ein vielversprechender Schüler ist ein Lernender.",
+        "有望な学生は学習者だ。",
+        "有前途的学生是学习者。"
       ]
     },
     {
-      "word": "age",
-      "filename": "age.md",
+      "word": "promoting",
+      "filename": "promoting.md",
       "lines": [
-        "An age is a period.",
-        "Ein Alter ist eine Periode.",
-        "年齢は期間だ。",
-        "年龄是时期。"
+        "Promoting is marketing.",
+        "Bewerben ist Marketing.",
+        "宣伝はマーケティングだ。",
+        "推广是营销。"
       ]
     },
     {
-      "word": "agency",
-      "filename": "agency.md",
+      "word": "prompt",
+      "filename": "prompt.md",
       "lines": [
-        "An agency is an organization.",
-        "Eine Agentur ist eine Organisation.",
-        "代理店は組織だ。",
-        "代理机构是组织。"
+        "A prompt is a hint.",
+        "Ein Prompt ist ein Hinweis.",
+        "プロンプトはヒントだ。",
+        "提示是暗示。"
       ]
     },
     {
-      "word": "aggregate",
-      "filename": "aggregate.md",
+      "word": "prong",
+      "filename": "prong.md",
       "lines": [
-        "An aggregate is a collection.",
-        "Ein Aggregat ist eine Sammlung.",
-        "集合体は集まりだ。",
-        "集合体是集合。"
+        "A prong is a point.",
+        "Eine Zacke ist eine Spitze.",
+        "突起は点だ。",
+        "尖头是点。"
       ]
     },
     {
-      "word": "aggressive",
-      "filename": "aggressive.md",
+      "word": "proof",
+      "filename": "proof.md",
       "lines": [
-        "An aggressive dog is an animal.",
-        "Ein aggressiver Hund ist ein Tier.",
-        "攻撃的な犬は動物だ。",
-        "攻击性的狗是动物。"
+        "Proof is evidence.",
+        "Beweis ist ein Beleg.",
+        "証明は証拠だ。",
+        "证明是证据。"
       ]
     }
   ],

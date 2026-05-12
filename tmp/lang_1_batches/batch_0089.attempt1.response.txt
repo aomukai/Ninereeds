@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "concept",
-      "filename": "concept.md",
+      "word": "spotted",
+      "filename": "spotted.md",
       "lines": [
-        "A concept is an idea.",
-        "Ein Konzept ist eine Idee.",
-        "概念はアイデアだ。",
-        "概念是想法。"
+        "A spotted dog is an animal.",
+        "Ein gefleckter Hund ist ein Tier.",
+        "ぶちの犬は動物だ。",
+        "花狗是动物。"
       ]
     },
     {
-      "word": "conceptual",
-      "filename": "conceptual.md",
+      "word": "spouse",
+      "filename": "spouse.md",
       "lines": [
-        "A conceptual diagram is a picture.",
-        "Ein konzeptionelles Diagramm ist ein Bild.",
-        "概念的な図は絵だ。",
-        "概念性的图表是图片。"
+        "A spouse is a family member.",
+        "Ein Ehepartner ist ein Familienmitglied.",
+        "配偶者は家族の一員だ。",
+        "配偶是家庭成员。"
       ]
     },
     {
-      "word": "conceptualizing",
-      "filename": "conceptualizing.md",
+      "word": "spout",
+      "filename": "spout.md",
       "lines": [
-        "Conceptualizing is thinking.",
-        "Konzeptualisieren ist Denken.",
-        "概念化することは思考だ。",
-        "概念化是思考。"
+        "A spout is a part of a teapot.",
+        "Ein Ausguss ist ein Teil einer Teekanne.",
+        "注ぎ口はティーポットの一部だ。",
+        "壶嘴是茶壶的一部分。"
       ]
     },
     {
-      "word": "concluding",
-      "filename": "concluding.md",
+      "word": "spray",
+      "filename": "spray.md",
       "lines": [
-        "Concluding is reasoning.",
-        "Schlussfolgern ist Denken.",
-        "結論を出すことは推論だ。",
-        "得出结论是推理。"
+        "Spraying is an action.",
+        "Sprühen ist eine Aktion.",
+        "吹きかけることは動作だ。",
+        "喷洒是一个动作。"
       ]
     },
     {
-      "word": "conclusion",
-      "filename": "conclusion.md",
+      "word": "spread",
+      "filename": "spread.md",
       "lines": [
-        "A conclusion is a result.",
-        "Eine Schlussfolgerung ist ein Ergebnis.",
-        "結論は結果だ。",
-        "结论是结果。"
+        "Spreading is an action.",
+        "Ausbreiten ist eine Handlung.",
+        "広げることは動作だ。",
+        "铺开是一个动作。"
       ]
     },
     {
-      "word": "concrete",
-      "filename": "concrete.md",
+      "word": "spring",
+      "filename": "spring.md",
       "lines": [
-        "A concrete floor is a surface.",
-        "Ein Betonboden ist eine Oberfläche.",
-        "コンクリートの床は表面だ。",
-        "混凝土地面是表面。"
+        "Spring is a season.",
+        "Der Frühling ist eine Jahreszeit.",
+        "春は季節だ。",
+        "春天是一个季节。"
       ]
     },
     {
-      "word": "concretizing",
-      "filename": "concretizing.md",
+      "word": "springtime",
+      "filename": "springtime.md",
       "lines": [
-        "Concretizing is realization.",
-        "Konkretisieren ist Verwirklichung.",
-        "具体化は実現だ。",
-        "具体化是实现。"
+        "Springtime is a season.",
+        "Die Frühlingszeit ist eine Jahreszeit.",
+        "春の時期は季節だ。",
+        "春天是一个季节。"
       ]
     },
     {
-      "word": "concurring",
-      "filename": "concurring.md",
+      "word": "springy",
+      "filename": "springy.md",
       "lines": [
-        "Concurring is agreement.",
-        "Zustimmen ist Einverständnis.",
-        "同意することは合意だ。",
-        "同意是共识。"
+        "A springy ball is a toy.",
+        "Ein federnder Ball ist ein Spielzeug.",
+        "弾むボールはおもちゃだ。",
+        "有弹性的球是玩具。"
       ]
     },
     {
-      "word": "condensing",
-      "filename": "condensing.md",
+      "word": "sprinkle",
+      "filename": "sprinkle.md",
       "lines": [
-        "Condensing is compression.",
-        "Kondensieren ist Kompression.",
-        "凝縮することは圧縮だ。",
-        "浓缩是压缩。"
+        "Sprinkling is an action.",
+        "Streuen ist eine Handlung.",
+        "振りかけることは動作だ。",
+        "撒是一个动作。"
       ]
     },
     {
-      "word": "condition",
-      "filename": "condition.md",
+      "word": "sprint",
+      "filename": "sprint.md",
       "lines": [
-        "A condition is a circumstance.",
-        "Eine Bedingung ist ein Umstand.",
-        "条件は状況だ。",
-        "条件是情况。"
+        "Sprinting is a form of running.",
+        "Sprinten ist eine Form des Laufens.",
+        "全力疾走は走ることの一種だ。",
+        "冲刺是跑步的一种形式。"
       ]
     }
   ],

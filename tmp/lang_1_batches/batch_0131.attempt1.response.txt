@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dispenser",
-      "filename": "dispenser.md",
+      "word": "toiling",
+      "filename": "toiling.md",
       "lines": [
-        "A dispenser is a device.",
-        "Ein Spender ist ein Gerät.",
-        "ディスペンサーは装置だ。",
-        "分配器是设备。"
+        "Toiling is work.",
+        "Schuften ist Arbeit.",
+        "苦労することは仕事だ。",
+        "辛劳是工作。"
       ]
     },
     {
-      "word": "dispensing",
-      "filename": "dispensing.md",
+      "word": "token",
+      "filename": "token.md",
       "lines": [
-        "Dispensing is distribution.",
-        "Dispensieren ist Verteilung.",
-        "ディスペンスは配布だ。",
-        "分配是分发。"
+        "A token is a symbol.",
+        "Ein Token ist ein Symbol.",
+        "トークンは記号だ。",
+        "令牌是符号。"
       ]
     },
     {
-      "word": "display",
-      "filename": "display.md",
+      "word": "tokenization",
+      "filename": "tokenization.md",
       "lines": [
-        "A display is a screen.",
-        "Ein Display ist ein Bildschirm.",
-        "ディスプレイは画面だ。",
-        "显示器是屏幕。"
+        "Tokenization is a process.",
+        "Tokenisierung ist ein Prozess.",
+        "トークン化はプロセスだ。",
+        "分词是一个过程。"
       ]
     },
     {
-      "word": "displaying",
-      "filename": "displaying.md",
+      "word": "tokenize",
+      "filename": "tokenize.md",
       "lines": [
-        "Displaying is presentation.",
-        "Anzeigen ist Präsentation.",
-        "表示は提示だ。",
-        "显示是展示。"
+        "Tokenize is a verb.",
+        "Tokenize ist ein Verb.",
+        "Tokenizeは動詞だ。",
+        "Tokenize是动词。"
       ]
     },
     {
-      "word": "disproving",
-      "filename": "disproving.md",
+      "word": "told",
+      "filename": "told.md",
       "lines": [
-        "Disproving is refutation.",
-        "Widerlegen ist Widerlegung.",
-        "反証は反駁だ。",
-        "证伪是反驳。"
+        "Told is a verb.",
+        "Told ist ein Verb.",
+        "Toldは動詞だ。",
+        "Told是动词。"
       ]
     },
     {
-      "word": "disputing",
-      "filename": "disputing.md",
+      "word": "tomato",
+      "filename": "tomato.md",
       "lines": [
-        "Disputing is argument.",
-        "Bestreiten ist Argumentation.",
-        "論争は議論だ。",
-        "争论是辩论。"
+        "A tomato is a fruit.",
+        "Eine Tomate ist eine Frucht.",
+        "トマトは果物だ。",
+        "番茄是水果。"
       ]
     },
     {
-      "word": "dissecting",
-      "filename": "dissecting.md",
+      "word": "tomorrow",
+      "filename": "tomorrow.md",
       "lines": [
-        "Dissecting is analysis.",
-        "Sezieren ist Analyse.",
-        "解剖は分析だ。",
-        "解剖是分析。"
+        "Tomorrow is a day.",
+        "Morgen ist ein Tag.",
+        "明日は一日だ。",
+        "明天是一天。"
       ]
     },
     {
-      "word": "disseminating",
-      "filename": "disseminating.md",
+      "word": "tone",
+      "filename": "tone.md",
       "lines": [
-        "Disseminating is spreading.",
-        "Verbreiten ist Verbreitung.",
-        "普及は拡散だ。",
-        "传播是扩散。"
+        "A tone is a sound.",
+        "Ein Ton ist ein Klang.",
+        "トーンは音だ。",
+        "音调是声音。"
       ]
     },
     {
-      "word": "dissimilarity",
-      "filename": "dissimilarity.md",
+      "word": "tongue",
+      "filename": "tongue.md",
       "lines": [
-        "Dissimilarity is a difference.",
-        "Unähnlichkeit ist ein Unterschied.",
-        "非類似性は違いだ。",
-        "不相似是差异。"
+        "A tongue is a body part.",
+        "Eine Zunge ist ein Körperteil.",
+        "舌は体の一部だ。",
+        "舌头是身体的一部分。"
       ]
     },
     {
-      "word": "dissolve",
-      "filename": "dissolve.md",
+      "word": "tonight",
+      "filename": "tonight.md",
       "lines": [
-        "Dissolving is mixing.",
-        "Auflösen ist Mischen.",
-        "溶解は混合だ。",
-        "溶解是混合。"
+        "Tonight is a night.",
+        "Heute Nacht ist eine Nacht.",
+        "今夜は夜だ。",
+        "今晚是晚上。"
       ]
     }
   ],

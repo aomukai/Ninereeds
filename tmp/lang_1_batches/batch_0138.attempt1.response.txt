@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "drop of rain",
-      "filename": "drop_of_rain.md",
+      "word": "treehouse",
+      "filename": "treehouse.md",
       "lines": [
-        "A drop of rain is water.",
-        "Ein Regentropfen ist Wasser.",
-        "雨のしずくは水だ。",
-        "雨滴是水。"
+        "A treehouse is a structure.",
+        "Ein Baumhaus ist eine Struktur.",
+        "ツリーハウスは建造物だ。",
+        "树屋是一种结构。"
       ]
     },
     {
-      "word": "dropped",
-      "filename": "dropped.md",
+      "word": "treetop",
+      "filename": "treetop.md",
       "lines": [
-        "A dropped apple is a fruit.",
-        "Ein fallengelassener Apfel ist eine Frucht.",
-        "落ちたりんごは果物だ。",
-        "掉落的苹果是水果。"
+        "A treetop is a part of a tree.",
+        "Eine Baumkrone ist ein Teil eines Baumes.",
+        "木の頂上は木の一部だ。",
+        "树梢是树的一部分。"
       ]
     },
     {
-      "word": "dropping",
-      "filename": "dropping.md",
+      "word": "tremble",
+      "filename": "tremble.md",
       "lines": [
-        "Dropping is an action.",
-        "Fallenlassen ist eine Handlung.",
-        "落下することは動作だ。",
-        "掉落是动作。"
+        "A tremble is a shake.",
+        "Ein Zittern ist ein Schütteln.",
+        "震えは揺れだ。",
+        "颤抖是一种晃动。"
       ]
     },
     {
-      "word": "drum",
-      "filename": "drum.md",
+      "word": "trend",
+      "filename": "trend.md",
       "lines": [
-        "A drum is a musical instrument.",
-        "Eine Trommel ist ein Musikinstrument.",
-        "太鼓は楽器だ。",
-        "鼓是乐器。"
+        "A trend is a pattern.",
+        "Ein Trend ist ein Muster.",
+        "トレンドはパターンだ。",
+        "趋势是一种模式。"
       ]
     },
     {
-      "word": "drumming",
-      "filename": "drumming.md",
+      "word": "triangle",
+      "filename": "triangle.md",
       "lines": [
-        "Drumming is a musical activity.",
-        "Trommeln ist eine musikalische Tätigkeit.",
-        "ドラムを叩くことは音楽活動だ。",
-        "打鼓是音乐活动。"
+        "A triangle is a shape.",
+        "Ein Dreieck ist eine Form.",
+        "三角形は形だ。",
+        "三角形是一种形状。"
       ]
     },
     {
-      "word": "dry",
-      "filename": "dry.md",
+      "word": "trick",
+      "filename": "trick.md",
       "lines": [
-        "A dry towel is a cloth.",
-        "Ein trockenes Handtuch ist ein Tuch.",
-        "乾いたタオルは布だ。",
-        "干毛巾是布。"
+        "A trick is a method.",
+        "Ein Trick ist eine Methode.",
+        "トリックは方法だ。",
+        "技巧是一种方法。"
       ]
     },
     {
-      "word": "duck",
-      "filename": "duck.md",
+      "word": "tricky",
+      "filename": "tricky.md",
       "lines": [
-        "A duck is a bird.",
-        "Eine Ente ist ein Vogel.",
-        "アヒルは鳥だ。",
-        "鸭子是鸟。"
+        "A tricky puzzle is a game.",
+        "Ein kniffliges Rätsel ist ein Spiel.",
+        "難しいパズルはゲームだ。",
+        "棘手的谜题是一种游戏。"
       ]
     },
     {
-      "word": "duck like",
-      "filename": "duck_like.md",
+      "word": "tricycle",
+      "filename": "tricycle.md",
       "lines": [
-        "A duck like bird is an animal.",
-        "Ein entenähnlicher Vogel ist ein Tier.",
-        "アヒルのような鳥は動物だ。",
-        "像鸭子的鸟是动物。"
+        "A tricycle is a vehicle.",
+        "Ein Dreirad ist ein Fahrzeug.",
+        "三輪車は乗り物だ。",
+        "三轮车是一种车辆。"
       ]
     },
     {
-      "word": "duckling",
-      "filename": "duckling.md",
+      "word": "tried",
+      "filename": "tried.md",
       "lines": [
-        "A duckling is a young duck.",
-        "Ein Entenküken ist eine junge Ente.",
-        "アヒルの子は若いアヒルだ。",
-        "小鸭是幼鸭。"
+        "A tried method is a technique.",
+        "Eine bewährte Methode ist eine Technik.",
+        "試された方法は技術だ。",
+        "经过验证的方法是一种技术。"
       ]
     },
     {
-      "word": "dull",
-      "filename": "dull.md",
+      "word": "triggering",
+      "filename": "triggering.md",
       "lines": [
-        "A dull knife is a tool.",
-        "Ein stumpfes Messer ist ein Werkzeug.",
-        "鈍いナイフは道具だ。",
-        "钝刀是工具。"
+        "A triggering event is a cause.",
+        "Ein auslösendes Ereignis ist eine Ursache.",
+        "引き金となる出来事は原因だ。",
+        "触发事件是一种原因。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "accidental",
-      "filename": "accidental.md",
+      "word": "prejudice",
+      "filename": "prejudice.md",
       "lines": [
-        "An accidental fall is an injury.",
-        "Ein versehentlicher Sturz ist eine Verletzung.",
-        "偶然の転倒は怪我だ。",
-        "意外的摔倒是一种伤害。"
+        "Prejudice is a bias.",
+        "Vorurteil ist eine Voreingenommenheit.",
+        "偏見は態度だ。",
+        "偏见是一种态度。"
       ]
     },
     {
-      "word": "accomplishing",
-      "filename": "accomplishing.md",
+      "word": "preparation",
+      "filename": "preparation.md",
       "lines": [
-        "Accomplishing is finishing.",
-        "Vollbringen ist Beenden.",
-        "達成することは終えることだ。",
-        "完成就是结束。"
+        "Preparation is a process.",
+        "Vorbereitung ist ein Prozess.",
+        "準備は過程だ。",
+        "准备是一个过程。"
       ]
     },
     {
-      "word": "accord",
-      "filename": "accord.md",
+      "word": "prepare",
+      "filename": "prepare.md",
       "lines": [
-        "An accord is an agreement.",
-        "Ein Abkommen ist eine Vereinbarung.",
-        "協定は合意だ。",
-        "协议是共识。"
+        "Preparing is an action.",
+        "Vorbereiten ist eine Handlung.",
+        "準備することは行動だ。",
+        "准备是一种行动。"
       ]
     },
     {
-      "word": "account",
-      "filename": "account.md",
+      "word": "prepared",
+      "filename": "prepared.md",
       "lines": [
-        "An account is a record.",
-        "Ein Konto ist eine Aufzeichnung.",
-        "口座は記録だ。",
-        "账户是记录。"
+        "A prepared meal is food.",
+        "Ein vorbereitetes Essen ist Nahrung.",
+        "準備された食事は食べ物だ。",
+        "准备好的饭菜是食物。"
       ]
     },
     {
-      "word": "accountability",
-      "filename": "accountability.md",
+      "word": "preparing",
+      "filename": "preparing.md",
       "lines": [
-        "Accountability is a responsibility.",
-        "Rechenschaftspflicht ist eine Verantwortung.",
-        "説明責任は責任だ。",
-        "问责是一种责任。"
+        "Preparing is an activity.",
+        "Vorbereiten ist eine Aktivität.",
+        "準備することは活動だ。",
+        "准备是一种活动。"
       ]
     },
     {
-      "word": "accountable",
-      "filename": "accountable.md",
+      "word": "preposition",
+      "filename": "preposition.md",
       "lines": [
-        "An accountable person is a leader.",
-        "Eine verantwortliche Person ist eine Führungskraft.",
-        "責任ある人はリーダーだ。",
-        "负责任的人是领导者。"
+        "A preposition is a word.",
+        "Eine Präposition ist ein Wort.",
+        "前置詞は言葉だ。",
+        "介词是一个词。"
       ]
     },
     {
-      "word": "accumulating",
-      "filename": "accumulating.md",
+      "word": "presence",
+      "filename": "presence.md",
       "lines": [
-        "Accumulating is collecting.",
-        "Ansammeln ist Sammeln.",
-        "蓄積することは収集だ。",
-        "积累就是收集。"
+        "Presence is a state.",
+        "Anwesenheit ist ein Zustand.",
+        "存在は状態だ。",
+        "存在是一种状态。"
       ]
     },
     {
-      "word": "accuracy",
-      "filename": "accuracy.md",
+      "word": "present",
+      "filename": "present.md",
       "lines": [
-        "Accuracy is a quality.",
-        "Genauigkeit ist eine Eigenschaft.",
-        "正確さは品質だ。",
-        "准确性是一种品质。"
+        "A present is a gift.",
+        "Ein Geschenk ist ein Gegenstand.",
+        "プレゼントは贈り物だ。",
+        "礼物是物品。"
       ]
     },
     {
-      "word": "accurate",
-      "filename": "accurate.md",
+      "word": "preserf",
+      "filename": "preserf.md",
       "lines": [
-        "An accurate clock is a timepiece.",
-        "Eine genaue Uhr ist ein Zeitmesser.",
-        "正確な時計は計時器だ。",
-        "准确的钟表是计时器。"
+        "A preserf is a thing.",
+        "Ein Preserf ist ein Ding.",
+        "プレサーフは物だ。",
+        "Preserf是东西。"
       ]
     },
     {
-      "word": "accusing",
-      "filename": "accusing.md",
+      "word": "preserve",
+      "filename": "preserve.md",
       "lines": [
-        "Accusing is blaming.",
-        "Beschuldigen ist Anklagen.",
-        "非難することは責めることだ。",
-        "指责就是责备。"
+        "Preserving is a method.",
+        "Konservieren ist eine Methode.",
+        "保存することは方法だ。",
+        "保存是一种方法。"
       ]
     }
   ],

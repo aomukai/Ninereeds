@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "exception",
-      "filename": "exception.md",
+      "word": "untie",
+      "filename": "untie.md",
       "lines": [
-        "An exception is a special case.",
-        "Eine Ausnahme ist ein Sonderfall.",
-        "例外は特別なケースだ。",
-        "例外是一种特殊情况。"
+        "Untie is an action.",
+        "Lösen ist eine Handlung.",
+        "解くことは動作だ。",
+        "解开是动作。"
       ]
     },
     {
-      "word": "exchange",
-      "filename": "exchange.md",
+      "word": "untouchable",
+      "filename": "untouchable.md",
       "lines": [
-        "An exchange is a trade.",
-        "Ein Austausch ist ein Handel.",
-        "交換は取引だ。",
-        "交换是一种交易。"
+        "An untouchable object is an object.",
+        "Ein unberührbarer Gegenstand ist ein Gegenstand.",
+        "触れられない物体は物体だ。",
+        "不可触碰的物体是物体。"
       ]
     },
     {
-      "word": "excited",
-      "filename": "excited.md",
+      "word": "untrustworthy",
+      "filename": "untrustworthy.md",
       "lines": [
-        "An excited child is a person.",
-        "Ein aufgeregtes Kind ist ein Mensch.",
-        "興奮した子供は人間だ。",
-        "兴奋的孩子是人。"
+        "An untrustworthy person is a human.",
+        "Ein unglaubwürdiger Mensch ist ein Mensch.",
+        "信頼できない人は人間だ。",
+        "不可信赖的人是人类。"
       ]
     },
     {
-      "word": "excitement",
-      "filename": "excitement.md",
+      "word": "untying",
+      "filename": "untying.md",
       "lines": [
-        "Excitement is a feeling.",
-        "Aufregung ist ein Gefühl.",
-        "興奮は感情だ。",
-        "兴奋是一种感觉。"
+        "Untying is an action.",
+        "Lösen ist eine Handlung.",
+        "解くことは動作だ。",
+        "解开是动作。"
       ]
     },
     {
-      "word": "exciting",
-      "filename": "exciting.md",
+      "word": "unusual",
+      "filename": "unusual.md",
       "lines": [
-        "An exciting game is a sport.",
-        "Ein aufregendes Spiel ist ein Sport.",
-        "興奮するゲームはスポーツだ。",
-        "激动人心的游戏是运动。"
+        "An unusual event is an event.",
+        "Ein ungewöhnliches Ereignis ist ein Ereignis.",
+        "異常な出来事は出来事だ。",
+        "不寻常的事件是事件。"
       ]
     },
     {
-      "word": "excluding",
-      "filename": "excluding.md",
+      "word": "unverified",
+      "filename": "unverified.md",
       "lines": [
-        "Excluding is removal.",
-        "Ausschließen ist Entfernung.",
-        "除外することは除去だ。",
-        "排除是移除。"
+        "An unverified report is a report.",
+        "Ein unbestätigter Bericht ist ein Bericht.",
+        "未確認の報告は報告だ。",
+        "未经核实的报告是报告。"
       ]
     },
     {
-      "word": "exclusion",
-      "filename": "exclusion.md",
+      "word": "unwanted",
+      "filename": "unwanted.md",
       "lines": [
-        "Exclusion is a condition.",
-        "Ausschluss ist ein Zustand.",
-        "排除は状態だ。",
-        "排除是一种状态。"
+        "An unwanted pet is an animal.",
+        "Ein unerwünschtes Haustier ist ein Tier.",
+        "望まれないペットは動物だ。",
+        "不受欢迎的宠物是动物。"
       ]
     },
     {
-      "word": "excuse",
-      "filename": "excuse.md",
+      "word": "unwell",
+      "filename": "unwell.md",
       "lines": [
-        "An excuse is a reason.",
-        "Eine Entschuldigung ist ein Grund.",
-        "言い訳は理由だ。",
-        "借口是一种理由。"
+        "An unwell person is a human.",
+        "Ein unwohler Mensch ist ein Mensch.",
+        "体調が悪い人は人間だ。",
+        "身体不适的人是人类。"
       ]
     },
     {
-      "word": "exec",
-      "filename": "exec.md",
+      "word": "unwinding",
+      "filename": "unwinding.md",
       "lines": [
-        "An exec is a manager.",
-        "Ein Exec ist ein Manager.",
-        "エグゼクティブはマネージャーだ。",
-        "高管是经理。"
+        "Unwinding is a process.",
+        "Entspannen ist ein Prozess.",
+        "リラックスすることはプロセスだ。",
+        "放松是过程。"
       ]
     },
     {
-      "word": "executing",
-      "filename": "executing.md",
+      "word": "unwinding 3",
+      "filename": "unwinding_3.md",
       "lines": [
-        "Executing is an action.",
-        "Ausführen ist eine Handlung.",
-        "実行することは行動だ。",
-        "执行是一种行动。"
+        "Unwinding 3 is a process.",
+        "Unwinding 3 ist ein Prozess.",
+        "Unwinding 3はプロセスだ。",
+        "Unwinding 3是过程。"
       ]
     }
   ],

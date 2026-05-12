@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bowl",
-      "filename": "bowl.md",
+      "word": "satisfying",
+      "filename": "satisfying.md",
       "lines": [
-        "A bowl is a container.",
-        "Eine Schüssel ist ein Behälter.",
-        "ボウルは容器だ。",
-        "碗是容器。"
+        "A satisfying meal is food.",
+        "Ein befriedigendes Essen ist Nahrung.",
+        "満足な食事は食べ物だ。",
+        "一顿令人满意的饭是食物。"
       ]
     },
     {
-      "word": "bowl of soup",
-      "filename": "bowl_of_soup.md",
+      "word": "sauce",
+      "filename": "sauce.md",
       "lines": [
-        "A bowl of soup is a dish.",
-        "Eine Schüssel Suppe ist ein Gericht.",
-        "スープのボウルは料理だ。",
-        "一碗汤是一道菜。"
+        "Sauce is a condiment.",
+        "Soße ist ein Würzmittel.",
+        "ソースは調味料だ。",
+        "酱汁是一种调味品。"
       ]
     },
     {
-      "word": "box",
-      "filename": "box.md",
+      "word": "save",
+      "filename": "save.md",
       "lines": [
-        "A box is a container.",
-        "Eine Kiste ist ein Behälter.",
-        "箱は容器だ。",
-        "盒子是容器。"
+        "Saving is protection.",
+        "Retten ist Schutz.",
+        "救うことは保護だ。",
+        "拯救是保护。"
       ]
     },
     {
-      "word": "box-like",
-      "filename": "box-like.md",
+      "word": "savoring",
+      "filename": "savoring.md",
       "lines": [
-        "A box-like container is a container.",
-        "Ein kastenartiger Behälter ist ein Behälter.",
-        "箱のような容器は容器だ。",
-        "像盒子一样的容器是容器。"
+        "Savoring is enjoyment.",
+        "Genießen ist Vergnügen.",
+        "味わうことは楽しみだ。",
+        "品味是享受。"
       ]
     },
     {
-      "word": "boy",
-      "filename": "boy.md",
+      "word": "saw",
+      "filename": "saw.md",
       "lines": [
-        "A boy is a child.",
-        "Ein Junge ist ein Kind.",
-        "少年は子供だ。",
-        "男孩是孩子。"
+        "A saw is a tool.",
+        "Eine Säge ist ein Werkzeug.",
+        "のこぎりは道具だ。",
+        "锯子是一种工具。"
       ]
     },
     {
-      "word": "boyd",
-      "filename": "boyd.md",
+      "word": "sawdust",
+      "filename": "sawdust.md",
       "lines": [
-        "Boyd is a surname.",
-        "Boyd ist ein Nachname.",
-        "ボイドは姓だ。",
-        "博伊德是一个姓氏。"
+        "Sawdust is a material.",
+        "Sägemehl ist ein Material.",
+        "おがくずは材料だ。",
+        "锯末是一种材料。"
       ]
     },
     {
-      "word": "boyfriend",
-      "filename": "boyfriend.md",
+      "word": "sawhorse",
+      "filename": "sawhorse.md",
       "lines": [
-        "A boyfriend is a romantic partner.",
-        "Ein fester Freund ist ein romantischer Partner.",
-        "彼氏は恋愛相手だ。",
-        "男朋友是恋爱对象。"
+        "A sawhorse is a tool.",
+        "Ein Sägebock ist ein Werkzeug.",
+        "のこぎり台は道具だ。",
+        "锯木架是一种工具。"
       ]
     },
     {
-      "word": "bracing",
-      "filename": "bracing.md",
+      "word": "say",
+      "filename": "say.md",
       "lines": [
-        "A bracing drink is a beverage.",
-        "Ein belebendes Getränk ist ein Getränk.",
-        "爽快な飲み物は飲み物だ。",
-        "提神的饮料是饮料。"
+        "Saying is speaking.",
+        "Sagen ist Sprechen.",
+        "言うことは発言だ。",
+        "说是说话。"
       ]
     },
     {
-      "word": "brain",
-      "filename": "brain.md",
+      "word": "scab",
+      "filename": "scab.md",
       "lines": [
-        "A brain is an organ.",
-        "Ein Gehirn ist ein Organ.",
-        "脳は臓器だ。",
-        "大脑是器官。"
+        "A scab is a protective layer.",
+        "Ein Schorf ist eine Schutzschicht.",
+        "かさぶたは保護層だ。",
+        "痂是一种保护层。"
       ]
     },
     {
-      "word": "brake",
-      "filename": "brake.md",
+      "word": "scaffold",
+      "filename": "scaffold.md",
       "lines": [
-        "A brake is a device.",
-        "Eine Bremse ist eine Vorrichtung.",
-        "ブレーキは装置だ。",
-        "刹车是装置。"
+        "A scaffold is a structure.",
+        "Ein Gerüst ist eine Struktur.",
+        "足場は構造物だ。",
+        "脚手架是一种结构。"
       ]
     }
   ],

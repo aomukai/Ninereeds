@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "disagreement",
-      "filename": "disagreement.md",
+      "word": "tight",
+      "filename": "tight.md",
       "lines": [
-        "A disagreement is a difference.",
-        "Eine Meinungsverschiedenheit ist ein Unterschied.",
-        "意見の相違は違いだ。",
-        "分歧是一种差异。"
+        "A tight belt is a strap.",
+        "Ein enger Gürtel ist ein Riemen.",
+        "きついベルトはストラップだ。",
+        "紧的皮带是带子。"
       ]
     },
     {
-      "word": "disappear",
-      "filename": "disappear.md",
+      "word": "tightened",
+      "filename": "tightened.md",
       "lines": [
-        "Disappearing is a change.",
-        "Verschwinden ist eine Veränderung.",
-        "消えることは変化だ。",
-        "消失是一种变化。"
+        "A tightened screw is a fastener.",
+        "Eine angezogene Schraube ist eine Befestigung.",
+        "締め付けられたネジは留め具だ。",
+        "拧紧的螺丝是紧固件。"
       ]
     },
     {
-      "word": "disappearing",
-      "filename": "disappearing.md",
+      "word": "tightening",
+      "filename": "tightening.md",
       "lines": [
-        "Disappearing is a process.",
-        "Verschwinden ist ein Prozess.",
-        "消えることは過程だ。",
-        "消失是一个过程。"
+        "Tightening is adjustment.",
+        "Anziehen ist eine Einstellung.",
+        "締め付けることは調整だ。",
+        "拧紧是调整。"
       ]
     },
     {
-      "word": "disappointed",
-      "filename": "disappointed.md",
+      "word": "tile",
+      "filename": "tile.md",
       "lines": [
-        "A disappointed fan is a spectator.",
-        "Ein enttäuschter Fan ist ein Zuschauer.",
-        "がっかりしたファンは観客だ。",
-        "失望的粉丝是观众。"
+        "A tile is a building material.",
+        "Eine Fliese ist ein Baustoff.",
+        "タイルは建築材料だ。",
+        "瓷砖是建筑材料。"
       ]
     },
     {
-      "word": "disappointing",
-      "filename": "disappointing.md",
+      "word": "tilt",
+      "filename": "tilt.md",
       "lines": [
-        "A disappointing performance is a show.",
-        "Eine enttäuschende Aufführung ist eine Show.",
-        "がっかりさせるパフォーマンスはショーだ。",
-        "令人失望的表演是演出。"
+        "A tilt is an angle.",
+        "Eine Neigung ist ein Winkel.",
+        "傾きは角度だ。",
+        "倾斜是角度。"
       ]
     },
     {
-      "word": "disappointment",
-      "filename": "disappointment.md",
+      "word": "timber",
+      "filename": "timber.md",
       "lines": [
-        "A disappointment is a feeling.",
-        "Eine Enttäuschung ist ein Gefühl.",
-        "失望は感情だ。",
-        "失望是一种感觉。"
+        "Timber is wood.",
+        "Bauholz ist Holz.",
+        "材木は木材だ。",
+        "木材是木头。"
       ]
     },
     {
-      "word": "disaster",
-      "filename": "disaster.md",
+      "word": "time",
+      "filename": "time.md",
       "lines": [
-        "A disaster is an event.",
-        "Eine Katastrophe ist ein Ereignis.",
-        "災害は出来事だ。",
-        "灾难是一个事件。"
+        "Time is a duration.",
+        "Zeit ist eine Dauer.",
+        "時間は持続時間だ。",
+        "时间是持续时间。"
       ]
     },
     {
-      "word": "discarding",
-      "filename": "discarding.md",
+      "word": "timekeeper",
+      "filename": "timekeeper.md",
       "lines": [
-        "Discarding is an action.",
-        "Wegwerfen ist eine Handlung.",
-        "捨てることは行動だ。",
-        "丢弃是一种行为。"
+        "A timekeeper is a device.",
+        "Ein Zeitmesser ist ein Gerät.",
+        "タイムキーパーは装置だ。",
+        "计时器是一种装置。"
       ]
     },
     {
-      "word": "discerning",
-      "filename": "discerning.md",
+      "word": "time-travel",
+      "filename": "time-travel.md",
       "lines": [
-        "A discerning person is a judge.",
-        "Ein scharfsinniger Mensch ist ein Richter.",
-        "洞察力のある人は裁判官だ。",
-        "有洞察力的人是法官。"
+        "Time-travel is a concept.",
+        "Zeitreise ist ein Konzept.",
+        "タイムトラベルは概念だ。",
+        "时间旅行是一种概念。"
       ]
     },
     {
-      "word": "discharging",
-      "filename": "discharging.md",
+      "word": "timing",
+      "filename": "timing.md",
       "lines": [
-        "Discharging is a release.",
-        "Entladen ist eine Freisetzung.",
-        "放出することは解放だ。",
-        "排放是一种释放。"
+        "Timing is a process.",
+        "Zeitmessung ist ein Prozess.",
+        "タイミングは過程だ。",
+        "计时是一个过程。"
       ]
     }
   ],

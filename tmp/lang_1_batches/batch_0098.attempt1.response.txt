@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "coop",
-      "filename": "coop.md",
+      "word": "storage",
+      "filename": "storage.md",
       "lines": [
-        "A coop is a shelter.",
-        "Ein Stall ist eine Unterkunft.",
-        "小屋は避難所だ。",
-        "笼子是庇护所。"
+        "Storage is a place.",
+        "Ein Lager ist ein Ort.",
+        "保管は場所だ。",
+        "存储是一个地方。"
       ]
     },
     {
-      "word": "cooperating",
-      "filename": "cooperating.md",
+      "word": "store",
+      "filename": "store.md",
       "lines": [
-        "Cooperating is working together.",
-        "Zusammenarbeiten ist gemeinsames Arbeiten.",
-        "協力することは一緒に働くことだ。",
-        "合作是一起工作。"
+        "A store is a building.",
+        "Ein Geschäft ist ein Gebäude.",
+        "店は建物だ。",
+        "商店是建筑物。"
       ]
     },
     {
-      "word": "cooperation",
-      "filename": "cooperation.md",
+      "word": "stored",
+      "filename": "stored.md",
       "lines": [
-        "Cooperation is teamwork.",
-        "Kooperation ist Teamarbeit.",
-        "協力はチームワークだ。",
-        "合作是团队协作。"
+        "A stored item is a thing.",
+        "Ein gelagerter Gegenstand ist ein Ding.",
+        "保管された品物は物だ。",
+        "储存的物品是东西。"
       ]
     },
     {
-      "word": "coordinate",
-      "filename": "coordinate.md",
+      "word": "storing",
+      "filename": "storing.md",
       "lines": [
-        "Coordinating is organizing.",
-        "Koordinieren ist Organisieren.",
-        "調整することは整理することだ。",
-        "协调是组织。"
+        "Storing is an action.",
+        "Lagern ist eine Handlung.",
+        "保管することは動作だ。",
+        "储存是一个动作。"
       ]
     },
     {
-      "word": "coordination",
-      "filename": "coordination.md",
+      "word": "stork",
+      "filename": "stork.md",
       "lines": [
-        "Coordination is organization.",
-        "Koordination ist Organisation.",
-        "調整は組織化だ。",
-        "协调是组织。"
+        "A stork is a bird.",
+        "Ein Storch ist ein Vogel.",
+        "コウノトリは鳥だ。",
+        "鹳是一种鸟。"
       ]
     },
     {
-      "word": "co-parenting",
-      "filename": "co-parenting.md",
+      "word": "storm",
+      "filename": "storm.md",
       "lines": [
-        "Co-parenting is sharing responsibilities.",
-        "Co-Parenting ist das Teilen von Verantwortung.",
-        "共同子育ては責任を共有することだ。",
-        "共同养育是分担责任。"
+        "A storm is a weather event.",
+        "Ein Sturm ist ein Wetterereignis.",
+        "嵐は天気現象だ。",
+        "风暴是一种天气现象。"
       ]
     },
     {
-      "word": "coping",
-      "filename": "coping.md",
+      "word": "stormy",
+      "filename": "stormy.md",
       "lines": [
-        "Coping is managing challenges.",
-        "Bewältigen ist das Meistern von Herausforderungen.",
-        "対処することは課題を管理することだ。",
-        "应对是管理挑战。"
+        "A stormy day is a day.",
+        "Ein stürmischer Tag ist ein Tag.",
+        "嵐の日は日だ。",
+        "暴风雨的日子是日子。"
       ]
     },
     {
-      "word": "copper",
-      "filename": "copper.md",
+      "word": "story",
+      "filename": "story.md",
       "lines": [
-        "Copper is a metal.",
-        "Kupfer ist ein Metall.",
-        "銅は金属だ。",
-        "铜是金属。"
+        "A story is a narrative.",
+        "Eine Geschichte ist eine Erzählung.",
+        "物語は話だ。",
+        "故事是一种叙述。"
       ]
     },
     {
-      "word": "copy",
-      "filename": "copy.md",
+      "word": "storybook",
+      "filename": "storybook.md",
       "lines": [
-        "A copy is a reproduction.",
-        "Eine Kopie ist eine Reproduktion.",
-        "コピーは複製だ。",
-        "复制品是复制件。"
+        "A storybook is a book.",
+        "Ein Geschichtenbuch ist ein Buch.",
+        "物語の本は本だ。",
+        "故事书是书。"
       ]
     },
     {
-      "word": "coral",
-      "filename": "coral.md",
+      "word": "storyteller",
+      "filename": "storyteller.md",
       "lines": [
-        "Coral is a marine animal.",
-        "Koralle ist ein Meerestier.",
-        "サンゴは海洋生物だ。",
-        "珊瑚是海洋动物。"
+        "A storyteller is a person.",
+        "Ein Geschichtenerzähler ist eine Person.",
+        "語り手は人だ。",
+        "讲故事的人是人。"
       ]
     }
   ],

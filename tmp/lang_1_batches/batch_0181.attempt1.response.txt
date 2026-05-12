@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fridge",
-      "filename": "fridge.md",
+      "word": "workout",
+      "filename": "workout.md",
       "lines": [
-        "A fridge is an appliance.",
-        "Ein Kühlschrank ist ein Gerät.",
-        "冷蔵庫は家電だ。",
-        "冰箱是电器。"
+        "A workout is exercise.",
+        "Ein Workout ist Sport.",
+        "ワークアウトは運動だ。",
+        "锻炼是运动。"
       ]
     },
     {
-      "word": "fried",
-      "filename": "fried.md",
+      "word": "workshop",
+      "filename": "workshop.md",
       "lines": [
-        "Fried chicken is food.",
-        "Gebratenes Hähnchen ist Nahrung.",
-        "揚げた鶏肉は食べ物だ。",
-        "炸鸡是食物。"
+        "A workshop is a class.",
+        "Ein Workshop ist ein Kurs.",
+        "ワークショップは授業だ。",
+        "工作坊是课程。"
       ]
     },
     {
-      "word": "friend",
-      "filename": "friend.md",
+      "word": "world",
+      "filename": "world.md",
       "lines": [
-        "A friend is a person.",
-        "Ein Freund ist eine Person.",
-        "友達は人だ。",
-        "朋友是人。"
+        "A world is a planet.",
+        "Eine Welt ist ein Planet.",
+        "世界は惑星だ。",
+        "世界是行星。"
       ]
     },
     {
-      "word": "friendly",
-      "filename": "friendly.md",
+      "word": "world-model",
+      "filename": "world-model.md",
       "lines": [
-        "A friendly dog is a pet.",
-        "Ein freundlicher Hund ist ein Haustier.",
-        "友好的な犬はペットだ。",
-        "友好的狗是宠物。"
+        "A world-model is a model.",
+        "Ein Weltmodell ist ein Modell.",
+        "世界モデルはモデルだ。",
+        "世界模型是模型。"
       ]
     },
     {
-      "word": "friendship",
-      "filename": "friendship.md",
+      "word": "worm",
+      "filename": "worm.md",
       "lines": [
-        "Friendship is a relationship.",
-        "Eine Freundschaft ist eine Beziehung.",
-        "友情は関係だ。",
-        "友谊是关系。"
+        "A worm is an animal.",
+        "Ein Wurm ist ein Tier.",
+        "虫は動物だ。",
+        "虫是动物。"
       ]
     },
     {
-      "word": "frightening",
-      "filename": "frightening.md",
+      "word": "worried",
+      "filename": "worried.md",
       "lines": [
-        "A frightening movie is entertainment.",
-        "Ein erschreckender Film ist Unterhaltung.",
-        "怖い映画は娯楽だ。",
-        "可怕的电影是娱乐。"
+        "A worried person is a person.",
+        "Eine besorgte Person ist eine Person.",
+        "心配している人は人だ。",
+        "担心的人是人。"
       ]
     },
     {
-      "word": "fringing",
-      "filename": "fringing.md",
+      "word": "worry",
+      "filename": "worry.md",
       "lines": [
-        "Fringing is a technique.",
-        "Eine Fransenarbeit ist eine Technik.",
-        "フリンジ加工は技法だ。",
-        "流苏装饰是技术。"
+        "Worry is a feeling.",
+        "Sorge ist ein Gefühl.",
+        "心配は感情だ。",
+        "担心是情绪。"
       ]
     },
     {
-      "word": "frog",
-      "filename": "frog.md",
+      "word": "worse",
+      "filename": "worse.md",
       "lines": [
-        "A frog is an amphibian.",
-        "Ein Frosch ist ein Amphibium.",
-        "カエルは両生類だ。",
-        "青蛙是两栖动物。"
+        "A worse result is a result.",
+        "Ein schlechteres Ergebnis ist ein Ergebnis.",
+        "より悪い結果は結果だ。",
+        "更坏的结果是结果。"
       ]
     },
     {
-      "word": "frog_3",
-      "filename": "frog_3.md",
+      "word": "worshiping",
+      "filename": "worshiping.md",
       "lines": [
-        "A frog_3 is an amphibian.",
-        "Ein Frosch_3 ist ein Amphibium.",
-        "カエル3は両生類だ。",
-        "青蛙3是两栖动物。"
+        "Worshiping is an activity.",
+        "Anbeten ist eine Tätigkeit.",
+        "崇拝することは活動だ。",
+        "崇拜是活动。"
       ]
     },
     {
-      "word": "front",
-      "filename": "front.md",
+      "word": "worst",
+      "filename": "worst.md",
       "lines": [
-        "A front is a position.",
-        "Eine Front ist eine Position.",
-        "正面は位置だ。",
-        "正面是位置。"
+        "A worst result is a result.",
+        "Ein schlechtestes Ergebnis ist ein Ergebnis.",
+        "最悪の結果は結果だ。",
+        "最坏的结果是结果。"
       ]
     }
   ],

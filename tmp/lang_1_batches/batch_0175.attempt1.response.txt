@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "focusing",
-      "filename": "focusing.md",
+      "word": "whisk",
+      "filename": "whisk.md",
       "lines": [
-        "Focusing is a mental activity.",
-        "Fokussieren ist eine geistige Tätigkeit.",
-        "集中することは精神活動だ。",
-        "集中是一种精神活动。"
+        "A whisk is a kitchen tool.",
+        "Ein Schneebesen ist ein Küchenwerkzeug.",
+        "泡立て器は台所道具だ。",
+        "打蛋器是一种厨房工具。"
       ]
     },
     {
-      "word": "fog",
-      "filename": "fog.md",
+      "word": "whisker",
+      "filename": "whisker.md",
       "lines": [
-        "Fog is a weather phenomenon.",
-        "Nebel ist ein Wetterphänomen.",
-        "霧は気象現象だ。",
-        "雾是一种天气现象。"
+        "A whisker is a hair.",
+        "Ein Schnurrhaar ist ein Haar.",
+        "ひげは毛だ。",
+        "胡须是一种毛发。"
       ]
     },
     {
-      "word": "foil",
-      "filename": "foil.md",
+      "word": "whisper",
+      "filename": "whisper.md",
       "lines": [
-        "Foil is a thin metal sheet.",
-        "Folie ist ein dünnes Metallblech.",
-        "ホイルは薄い金属板だ。",
-        "箔是一种薄金属片。"
+        "A whisper is a soft sound.",
+        "Ein Flüstern ist ein leises Geräusch.",
+        "ささやきは柔らかい音だ。",
+        "耳语是一种轻柔的声音。"
       ]
     },
     {
-      "word": "fold",
-      "filename": "fold.md",
+      "word": "whistle",
+      "filename": "whistle.md",
       "lines": [
-        "Folding is an action of bending.",
-        "Falten ist eine Handlung des Biegens.",
-        "折ることは曲げる動作だ。",
-        "折叠是弯曲的动作。"
+        "A whistle is a sound.",
+        "Ein Pfiff ist ein Geräusch.",
+        "ホイッスルは音だ。",
+        "哨声是一种声音。"
       ]
     },
     {
-      "word": "follow",
-      "filename": "follow.md",
+      "word": "white",
+      "filename": "white.md",
       "lines": [
-        "Following is an action of moving behind.",
-        "Folgen ist eine Handlung des Hinterhergehens.",
-        "従うことは後ろに動く動作だ。",
-        "跟随是跟在后面的动作。"
+        "A white cloud is a cloud.",
+        "Eine weiße Wolke ist eine Wolke.",
+        "白い雲は雲だ。",
+        "白色的云是云。"
       ]
     },
     {
-      "word": "follower",
-      "filename": "follower.md",
+      "word": "whiteboard",
+      "filename": "whiteboard.md",
       "lines": [
-        "A follower is a supporter.",
-        "Ein Anhänger ist ein Unterstützer.",
-        "フォロワーは支持者だ。",
-        "追随者是支持者。"
+        "A whiteboard is a board.",
+        "Ein Whiteboard ist eine Tafel.",
+        "ホワイトボードは板だ。",
+        "白板是板。"
       ]
     },
     {
-      "word": "following",
-      "filename": "following.md",
+      "word": "whole",
+      "filename": "whole.md",
       "lines": [
-        "A following is a group of supporters.",
-        "Eine Anhängerschaft ist eine Gruppe von Unterstützern.",
-        "フォロイングは支持者の集まりだ。",
-        "追随者群体是支持者的集合。"
+        "A whole apple is a fruit.",
+        "Ein ganzer Apfel ist eine Frucht.",
+        "丸ごとのりんごは果物だ。",
+        "整个苹果是水果。"
       ]
     },
     {
-      "word": "food",
-      "filename": "food.md",
+      "word": "wholesaling",
+      "filename": "wholesaling.md",
       "lines": [
-        "Food is a source of nutrients.",
-        "Nahrung ist eine Nährstoffquelle.",
-        "食べ物は栄養源だ。",
-        "食物是营养来源。"
+        "Wholesaling is a business activity.",
+        "Großhandel ist eine Geschäftstätigkeit.",
+        "卸売りは商業活動だ。",
+        "批发是一种商业活动。"
       ]
     },
     {
-      "word": "fool",
-      "filename": "fool.md",
+      "word": "whoosh",
+      "filename": "whoosh.md",
       "lines": [
-        "A fool is a person who is not wise.",
-        "Ein Dummkopf ist ein Mensch, der nicht weise ist.",
-        "馬鹿は賢くない人だ。",
-        "傻瓜是不明智的人。"
+        "A whoosh is a sound.",
+        "Ein Whoosh ist ein Geräusch.",
+        "シューという音は音だ。",
+        "嗖的一声是声音。"
       ]
     },
     {
-      "word": "foolish",
-      "filename": "foolish.md",
+      "word": "wick",
+      "filename": "wick.md",
       "lines": [
-        "A foolish action is a mistake.",
-        "Eine törichte Handlung ist ein Fehler.",
-        "愚かな行動は間違いだ。",
-        "愚蠢的行为是错误。"
+        "A wick is a cord.",
+        "Ein Docht ist eine Schnur.",
+        "芯は紐だ。",
+        "灯芯是一种绳子。"
       ]
     }
   ],

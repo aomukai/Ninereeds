@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "desert",
-      "filename": "desert.md",
+      "word": "the biggest",
+      "filename": "the_biggest.md",
       "lines": [
-        "A desert is a dry region.",
-        "Eine Wüste ist eine trockene Region.",
-        "砂漠は乾燥した地域だ。",
-        "沙漠是干燥的地区。"
+        "The biggest is a quality.",
+        "Das Größte ist eine Eigenschaft.",
+        "最大のものは性質だ。",
+        "最大的是一种性质。"
       ]
     },
     {
-      "word": "deserving",
-      "filename": "deserving.md",
+      "word": "the body during sitting",
+      "filename": "the_body_during_sitting.md",
       "lines": [
-        "A deserving winner is a champion.",
-        "Ein verdienter Gewinner ist ein Champion.",
-        "ふさわしい勝者はチャンピオンだ。",
-        "一个值得的获胜者是冠军。"
+        "The body during sitting is a position.",
+        "Der Körper beim Sitzen ist eine Position.",
+        "座っている時の体は姿勢だ。",
+        "坐着时的身体是一种姿势。"
       ]
     },
     {
-      "word": "design",
-      "filename": "design.md",
+      "word": "the foot of the tree",
+      "filename": "the_foot_of_the_tree.md",
       "lines": [
-        "A design is a plan.",
-        "Ein Design ist ein Plan.",
-        "デザインは計画だ。",
-        "设计是一个计划。"
+        "The foot of the tree is a part.",
+        "Der Fuß des Baumes ist ein Teil.",
+        "木の根元は部分だ。",
+        "树脚是一个部分。"
       ]
     },
     {
-      "word": "designating",
-      "filename": "designating.md",
+      "word": "the future",
+      "filename": "the_future.md",
       "lines": [
-        "Designating is naming.",
-        "Bezeichnen ist Benennen.",
-        "指定することは命名することだ。",
-        "指定就是命名。"
+        "The future is a time.",
+        "Die Zukunft ist eine Zeit.",
+        "未来は時間だ。",
+        "未来是一种时间。"
       ]
     },
     {
-      "word": "desire",
-      "filename": "desire.md",
+      "word": "theme",
+      "filename": "theme.md",
       "lines": [
-        "A desire is a wish.",
-        "Ein Verlangen ist ein Wunsch.",
-        "欲望は願望だ。",
-        "欲望是一个愿望。"
+        "A theme is an idea.",
+        "Ein Thema ist eine Idee.",
+        "テーマはアイデアだ。",
+        "主题是一种想法。"
       ]
     },
     {
-      "word": "desk",
-      "filename": "desk.md",
+      "word": "theorem",
+      "filename": "theorem.md",
       "lines": [
-        "A desk is furniture.",
-        "Ein Schreibtisch ist ein Möbelstück.",
-        "机は家具だ。",
-        "书桌是家具。"
+        "A theorem is a statement.",
+        "Ein Theorem ist eine Aussage.",
+        "定理は命題だ。",
+        "定理是一种陈述。"
       ]
     },
     {
-      "word": "dessert",
-      "filename": "dessert.md",
+      "word": "theoretical",
+      "filename": "theoretical.md",
       "lines": [
-        "A dessert is a sweet dish.",
-        "Ein Dessert ist ein süßes Gericht.",
-        "デザートは甘い料理だ。",
-        "甜点是一种甜食。"
+        "A theoretical explanation is an explanation.",
+        "Eine theoretische Erklärung ist eine Erklärung.",
+        "理論的な説明は説明だ。",
+        "理论上的解释是一种解释。"
       ]
     },
     {
-      "word": "destination",
-      "filename": "destination.md",
+      "word": "theory",
+      "filename": "theory.md",
       "lines": [
-        "A destination is a place.",
-        "Ein Reiseziel ist ein Ort.",
-        "目的地は場所だ。",
-        "目的地是一个地方。"
+        "A theory is an idea.",
+        "Eine Theorie ist eine Idee.",
+        "理論はアイデアだ。",
+        "理论是一种想法。"
       ]
     },
     {
-      "word": "destroyed",
-      "filename": "destroyed.md",
+      "word": "the rim of the cup",
+      "filename": "the_rim_of_the_cup.md",
       "lines": [
-        "A destroyed building is a ruin.",
-        "Ein zerstörtes Gebäude ist eine Ruine.",
-        "破壊された建物は廃墟だ。",
-        "被毁坏的建筑是废墟。"
+        "The rim of the cup is an edge.",
+        "Der Rand der Tasse ist eine Kante.",
+        "カップの縁は端だ。",
+        "杯子边是一种边缘。"
       ]
     },
     {
-      "word": "destroying",
-      "filename": "destroying.md",
+      "word": "thermometer",
+      "filename": "thermometer.md",
       "lines": [
-        "Destroying is demolition.",
-        "Zerstören ist Zerstörung.",
-        "破壊することは破壊だ。",
-        "破坏就是毁灭。"
+        "A thermometer is a tool.",
+        "Ein Thermometer ist ein Werkzeug.",
+        "温度計は道具だ。",
+        "温度计是一种工具。"
       ]
     }
   ],

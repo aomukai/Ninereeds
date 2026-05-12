@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "enforcing",
-      "filename": "enforcing.md",
+      "word": "underwater",
+      "filename": "underwater.md",
       "lines": [
-        "Enforcing is an action.",
-        "Durchsetzen ist eine Handlung.",
-        "執行することは行動だ。",
-        "执行是一种行动。"
+        "An underwater cave is a cave.",
+        "Eine Unterwasserhöhle ist eine Höhle.",
+        "水中の洞窟は洞窟だ。",
+        "水下洞穴是洞穴。"
       ]
     },
     {
-      "word": "engaging",
-      "filename": "engaging.md",
+      "word": "undetectable",
+      "filename": "undetectable.md",
       "lines": [
-        "Engaging is an activity.",
-        "Sich engagieren ist eine Aktivität.",
-        "関わることは活動だ。",
-        "参与是一种活动。"
+        "An undetectable signal is a signal.",
+        "Ein nicht nachweisbares Signal ist ein Signal.",
+        "検出できない信号は信号だ。",
+        "不可检测的信号是信号。"
       ]
     },
     {
-      "word": "engine",
-      "filename": "engine.md",
+      "word": "undetermined",
+      "filename": "undetermined.md",
       "lines": [
-        "An engine is a machine.",
-        "Ein Motor ist eine Maschine.",
-        "エンジンは機械だ。",
-        "发动机是一种机器。"
+        "An undetermined number is a number.",
+        "Eine unbestimmte Zahl ist eine Zahl.",
+        "未決定の数は数だ。",
+        "未确定的数字是数字。"
       ]
     },
     {
-      "word": "english",
-      "filename": "english.md",
+      "word": "undifferentiated",
+      "filename": "undifferentiated.md",
       "lines": [
-        "English is a language.",
-        "Englisch ist eine Sprache.",
-        "英語は言語だ。",
-        "英语是一种语言。"
+        "An undifferentiated cell is a cell.",
+        "Eine undifferenzierte Zelle ist eine Zelle.",
+        "未分化の細胞は細胞だ。",
+        "未分化的细胞是细胞。"
       ]
     },
     {
-      "word": "engraving",
-      "filename": "engraving.md",
+      "word": "undirect",
+      "filename": "undirect.md",
       "lines": [
-        "Engraving is an art.",
-        "Gravieren ist eine Kunst.",
-        "彫刻は芸術だ。",
-        "雕刻是一种艺术。"
+        "Undirecting is an action.",
+        "Das Ändern der Richtung ist eine Handlung.",
+        "方向を変えることは行動だ。",
+        "改变方向是行动。"
       ]
     },
     {
-      "word": "enhancing",
-      "filename": "enhancing.md",
+      "word": "undo",
+      "filename": "undo.md",
       "lines": [
-        "Enhancing is a process.",
-        "Verbessern ist ein Prozess.",
-        "向上させることは過程だ。",
-        "增强是一种过程。"
+        "Undoing is an action.",
+        "Rückgängigmachen ist eine Handlung.",
+        "元に戻すことは行動だ。",
+        "撤销是行动。"
       ]
     },
     {
-      "word": "enjoy",
-      "filename": "enjoy.md",
+      "word": "undone",
+      "filename": "undone.md",
       "lines": [
-        "Enjoying is a state.",
-        "Genießen ist ein Zustand.",
-        "楽しむことは状態だ。",
-        "享受是一种状态。"
+        "An undone task is a task.",
+        "Eine unerledigte Aufgabe ist eine Aufgabe.",
+        "未完了のタスクはタスクだ。",
+        "未完成的任务是任务。"
       ]
     },
     {
-      "word": "enjoyable",
-      "filename": "enjoyable.md",
+      "word": "unease",
+      "filename": "unease.md",
       "lines": [
-        "An enjoyable meal is food.",
-        "Ein genussvolles Essen ist Nahrung.",
-        "楽しい食事は食べ物だ。",
-        "一顿愉快的餐是食物。"
+        "Unease is a feeling.",
+        "Unbehagen ist ein Gefühl.",
+        "不安は感情だ。",
+        "不安是感觉。"
       ]
     },
     {
-      "word": "enjoying",
-      "filename": "enjoying.md",
+      "word": "uneasy",
+      "filename": "uneasy.md",
       "lines": [
-        "Enjoying is an action.",
-        "Genießen ist eine Handlung.",
-        "楽しむことは行動だ。",
-        "享受是一种行为。"
+        "An uneasy feeling is a feeling.",
+        "Ein unbehagliches Gefühl ist ein Gefühl.",
+        "不安な気持ちは気持ちだ。",
+        "不安的感觉是感觉。"
       ]
     },
     {
-      "word": "enjoyment",
-      "filename": "enjoyment.md",
+      "word": "unequal",
+      "filename": "unequal.md",
       "lines": [
-        "Enjoyment is a feeling.",
-        "Genuss ist ein Gefühl.",
-        "楽しみは感情だ。",
-        "快乐是一种感觉。"
+        "An unequal distribution is a distribution.",
+        "Eine ungleiche Verteilung ist eine Verteilung.",
+        "不平等な分配は分配だ。",
+        "不平等的分配是分配。"
       ]
     }
   ],

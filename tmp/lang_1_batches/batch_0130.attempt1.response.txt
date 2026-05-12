@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "disease",
-      "filename": "disease.md",
+      "word": "title",
+      "filename": "title.md",
       "lines": [
-        "A disease is an illness.",
-        "Eine Krankheit ist eine Erkrankung.",
-        "病気は疾患だ。",
-        "疾病是一种健康问题。"
+        "A title is a name.",
+        "Ein Titel ist ein Name.",
+        "タイトルは名前だ。",
+        "标题是一个名称。"
       ]
     },
     {
-      "word": "disguising",
-      "filename": "disguising.md",
+      "word": "toad",
+      "filename": "toad.md",
       "lines": [
-        "Disguising is a form of concealment.",
-        "Verstellen ist eine Form der Tarnung.",
-        "変装は隠蔽の一種だ。",
-        "伪装是一种隐藏方式。"
+        "A toad is an amphibian.",
+        "Eine Kröte ist ein Lurch.",
+        "ヒキガエルは両生類だ。",
+        "蟾蜍是两栖动物。"
       ]
     },
     {
-      "word": "disgust",
-      "filename": "disgust.md",
+      "word": "toadstool",
+      "filename": "toadstool.md",
       "lines": [
-        "Disgust is an emotion.",
-        "Ekel ist ein Gefühl.",
-        "嫌悪は感情だ。",
-        "厌恶是一种情绪。"
+        "A toadstool is a fungus.",
+        "Ein Giftpilz ist ein Pilz.",
+        "毒キノコはキノコだ。",
+        "毒蘑菇是一种真菌。"
       ]
     },
     {
-      "word": "dish",
-      "filename": "dish.md",
+      "word": "toast",
+      "filename": "toast.md",
       "lines": [
-        "A dish is a container for food.",
-        "Ein Teller ist ein Behältnis für Speisen.",
-        "皿は食べ物を入れる容器だ。",
-        "盘子是一种餐具。"
+        "Toast is a food.",
+        "Toast ist ein Lebensmittel.",
+        "トーストは食べ物だ。",
+        "吐司是一种食物。"
       ]
     },
     {
-      "word": "dislike",
-      "filename": "dislike.md",
+      "word": "today",
+      "filename": "today.md",
       "lines": [
-        "Dislike is a feeling.",
-        "Abneigung ist ein Gefühl.",
-        "嫌いは感情だ。",
-        "不喜欢是一种感觉。"
+        "Today is a day.",
+        "Heute ist ein Tag.",
+        "今日は一日だ。",
+        "今天是一天。"
       ]
     },
     {
-      "word": "disliking",
-      "filename": "disliking.md",
+      "word": "today-you",
+      "filename": "today-you.md",
       "lines": [
-        "Disliking is a negative reaction.",
-        "Missfallen ist eine negative Reaktion.",
-        "嫌うことは否定的な反応だ。",
-        "讨厌是一种负面反应。"
+        "Today-you is a concept.",
+        "Das Heute-Du ist ein Konzept.",
+        "今日のあなたは概念だ。",
+        "今天的你是一个概念。"
       ]
     },
     {
-      "word": "dismiss",
-      "filename": "dismiss.md",
+      "word": "toddler",
+      "filename": "toddler.md",
       "lines": [
-        "Dismissing is a decision to end.",
-        "Entlassen ist eine Entscheidung zur Beendigung.",
-        "解雇は終了の決定だ。",
-        "解雇是一种终止决定。"
+        "A toddler is a child.",
+        "Ein Kleinkind ist ein Kind.",
+        "幼児は子供だ。",
+        "幼儿是儿童。"
       ]
     },
     {
-      "word": "dismissing",
-      "filename": "dismissing.md",
+      "word": "toe",
+      "filename": "toe.md",
       "lines": [
-        "Dismissing is an act of rejection.",
-        "Abweisen ist ein Akt der Ablehnung.",
-        "退けることは拒絶の行為だ。",
-        "拒绝是一种行为。"
+        "A toe is a body part.",
+        "Ein Zeh ist ein Körperteil.",
+        "足の指は体の一部だ。",
+        "脚趾是身体的一部分。"
       ]
     },
     {
-      "word": "disorder",
-      "filename": "disorder.md",
+      "word": "toenail",
+      "filename": "toenail.md",
       "lines": [
-        "A disorder is a condition.",
-        "Eine Störung ist ein Zustand.",
-        "障害は状態だ。",
-        "紊乱是一种状态。"
+        "A toenail is a body part.",
+        "Ein Zehennagel ist ein Körperteil.",
+        "足の爪は体の一部だ。",
+        "脚趾甲是身体的一部分。"
       ]
     },
     {
-      "word": "dispatching",
-      "filename": "dispatching.md",
+      "word": "toilet",
+      "filename": "toilet.md",
       "lines": [
-        "Dispatching is a process of sending.",
-        "Versenden ist ein Vorgang des Sendens.",
-        "発送は送付の過程だ。",
-        "发送是一种过程。"
+        "A toilet is a bathroom fixture.",
+        "Eine Toilette ist ein sanitäres Gerät.",
+        "トイレは衛生器具だ。",
+        "厕所是卫生设备。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fisher",
-      "filename": "fisher.md",
+      "word": "watchful",
+      "filename": "watchful.md",
       "lines": [
-        "A fisher is a person.",
-        "Ein Fischer ist eine Person.",
-        "漁師は人だ。",
-        "渔夫是人。"
+        "A watchful guard is a person.",
+        "Ein wachsamer Wächter ist eine Person.",
+        "用心深い警備員は人だ。",
+        "警惕的守卫是人。"
       ]
     },
     {
-      "word": "fishpond",
-      "filename": "fishpond.md",
+      "word": "water",
+      "filename": "water.md",
       "lines": [
-        "A fishpond is a pond.",
-        "Ein Fischteich ist ein Teich.",
-        "魚池は池だ。",
-        "鱼池是池塘。"
+        "Water is a liquid.",
+        "Wasser ist eine Flüssigkeit.",
+        "水は液体だ。",
+        "水是液体。"
       ]
     },
     {
-      "word": "fist",
-      "filename": "fist.md",
+      "word": "waterfall",
+      "filename": "waterfall.md",
       "lines": [
-        "A fist is a hand.",
-        "Eine Faust ist eine Hand.",
-        "拳は手だ。",
-        "拳头是手。"
+        "A waterfall is a flow of water.",
+        "Ein Wasserfall ist ein Wasserlauf.",
+        "滝は水の流れだ。",
+        "瀑布是水流。"
       ]
     },
     {
-      "word": "fit",
-      "filename": "fit.md",
+      "word": "watermelon",
+      "filename": "watermelon.md",
       "lines": [
-        "A fit athlete is a person.",
-        "Ein fitter Athlet ist eine Person.",
-        "健康なアスリートは人だ。",
-        "一个健康的运动员是一个人。"
+        "A watermelon is a fruit.",
+        "Eine Wassermelone ist eine Frucht.",
+        "スイカは果物だ。",
+        "西瓜是水果。"
       ]
     },
     {
-      "word": "fitting",
-      "filename": "fitting.md",
+      "word": "wave",
+      "filename": "wave.md",
       "lines": [
-        "A fitting is a part.",
-        "Ein Fitting ist ein Teil.",
-        "継手は部品だ。",
-        "接头是零件。"
+        "A wave is a motion.",
+        "Eine Welle ist eine Bewegung.",
+        "波は動きだ。",
+        "波是运动。"
       ]
     },
     {
-      "word": "fix",
-      "filename": "fix.md",
+      "word": "wavelength",
+      "filename": "wavelength.md",
       "lines": [
-        "Fixing is an action.",
-        "Reparieren ist eine Handlung.",
-        "直すことは行動だ。",
-        "修理是行动。"
+        "Wavelength is a length.",
+        "Die Wellenlänge ist eine Länge.",
+        "波長は長さだ。",
+        "波长是长度。"
       ]
     },
     {
-      "word": "fixture",
-      "filename": "fixture.md",
+      "word": "wavy",
+      "filename": "wavy.md",
       "lines": [
-        "A fixture is an object.",
-        "Eine Vorrichtung ist ein Gegenstand.",
-        "固定装置は物体だ。",
-        "固定装置是物体。"
+        "A wavy line is a shape.",
+        "Eine wellige Linie ist eine Form.",
+        "波形の線は形だ。",
+        "波浪线是形状。"
       ]
     },
     {
-      "word": "flag",
-      "filename": "flag.md",
+      "word": "wax",
+      "filename": "wax.md",
       "lines": [
-        "A flag is a cloth.",
-        "Eine Flagge ist ein Tuch.",
-        "旗は布だ。",
-        "旗子是布。"
+        "Wax is a material.",
+        "Wachs ist ein Material.",
+        "ろうは素材だ。",
+        "蜡是材料。"
       ]
     },
     {
-      "word": "flake",
-      "filename": "flake.md",
+      "word": "waxy",
+      "filename": "waxy.md",
       "lines": [
-        "A flake is a fragment.",
-        "Eine Flocke ist ein Fragment.",
-        "薄片は断片だ。",
-        "薄片是碎片。"
+        "A waxy apple is a fruit.",
+        "Ein wachsiger Apfel ist eine Frucht.",
+        "ろう質のりんごは果物だ。",
+        "蜡质的苹果是水果。"
       ]
     },
     {
-      "word": "flake of snow",
-      "filename": "flake_of_snow.md",
+      "word": "way",
+      "filename": "way.md",
       "lines": [
-        "A flake of snow is a snow crystal.",
-        "Eine Schneeflocke ist ein Schneekristall.",
-        "雪の一片は雪の結晶だ。",
-        "一片雪花是雪结晶。"
+        "A way is a path.",
+        "Ein Weg ist ein Pfad.",
+        "道は通路だ。",
+        "路是路径。"
       ]
     }
   ],

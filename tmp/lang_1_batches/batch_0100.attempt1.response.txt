@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "correctness",
-      "filename": "correctness.md",
+      "word": "stream",
+      "filename": "stream.md",
       "lines": [
-        "Correctness is a property.",
-        "Korrektheit ist eine Eigenschaft.",
-        "正確さは特性だ。",
-        "正确性是一种特性。"
+        "A stream is a small river.",
+        "Ein Bach ist ein kleiner Fluss.",
+        "小川は小さな川だ。",
+        "小溪是一条小河。"
       ]
     },
     {
-      "word": "corresponding",
-      "filename": "corresponding.md",
+      "word": "streamer",
+      "filename": "streamer.md",
       "lines": [
-        "A corresponding entry is a record.",
-        "Ein entsprechender Eintrag ist ein Datensatz.",
-        "対応するエントリは記録だ。",
-        "对应的条目是记录。"
+        "A streamer is a decoration.",
+        "Eine Luftschlange ist eine Dekoration.",
+        "紙テープは飾りだ。",
+        "彩带是装饰品。"
       ]
     },
     {
-      "word": "cost",
-      "filename": "cost.md",
+      "word": "street",
+      "filename": "street.md",
       "lines": [
-        "Cost is an expense.",
-        "Kosten sind eine Ausgabe.",
-        "コストは経費だ。",
-        "成本是一种费用。"
+        "A street is a road.",
+        "Eine Straße ist ein Weg.",
+        "通りは道路だ。",
+        "街道是道路。"
       ]
     },
     {
-      "word": "costing",
-      "filename": "costing.md",
+      "word": "strength",
+      "filename": "strength.md",
       "lines": [
-        "Costing is a calculation.",
-        "Kosten ist eine Berechnung.",
-        "原価計算は計算だ。",
-        "成本计算是一种计算。"
+        "Strength is a quality.",
+        "Stärke ist eine Eigenschaft.",
+        "強さは性質だ。",
+        "力量是一种品质。"
       ]
     },
     {
-      "word": "costume",
-      "filename": "costume.md",
+      "word": "strengthening",
+      "filename": "strengthening.md",
       "lines": [
-        "A costume is an outfit.",
-        "Ein Kostüm ist ein Outfit.",
-        "コスチュームは衣装だ。",
-        "服装是一种服饰。"
+        "Strengthening is a process.",
+        "Stärkung ist ein Prozess.",
+        "強化は過程だ。",
+        "加强是一个过程。"
       ]
     },
     {
-      "word": "cotton",
-      "filename": "cotton.md",
+      "word": "stress",
+      "filename": "stress.md",
       "lines": [
-        "Cotton is a material.",
-        "Baumwolle ist ein Material.",
-        "綿は素材だ。",
-        "棉花是一种材料。"
+        "Stress is a feeling.",
+        "Stress ist ein Gefühl.",
+        "ストレスは感情だ。",
+        "压力是一种感觉。"
       ]
     },
     {
-      "word": "couch",
-      "filename": "couch.md",
+      "word": "stretch",
+      "filename": "stretch.md",
       "lines": [
-        "A couch is a piece of furniture.",
-        "Ein Sofa ist ein Möbelstück.",
-        "ソファは家具だ。",
-        "沙发是一种家具。"
+        "Stretching is movement.",
+        "Dehnen ist Bewegung.",
+        "ストレッチは運動だ。",
+        "拉伸是运动。"
       ]
     },
     {
-      "word": "cough",
-      "filename": "cough.md",
+      "word": "stretchy",
+      "filename": "stretchy.md",
       "lines": [
-        "Coughing is a reflex.",
-        "Husten ist ein Reflex.",
-        "咳は反射だ。",
-        "咳嗽是一种反射。"
+        "A stretchy fabric is a material.",
+        "Ein dehnbarer Stoff ist ein Material.",
+        "ストレッチ生地は素材だ。",
+        "弹性布料是材料。"
       ]
     },
     {
-      "word": "could",
-      "filename": "could.md",
+      "word": "strict",
+      "filename": "strict.md",
       "lines": [
-        "Could is a modal verb.",
-        "Could ist ein Modalverb.",
-        "クッドは法助動詞だ。",
-        "Could是一个情态动词。"
+        "A strict teacher is a person.",
+        "Ein strenger Lehrer ist eine Person.",
+        "厳しい先生は人だ。",
+        "严格的老师是人。"
       ]
     },
     {
-      "word": "counseling",
-      "filename": "counseling.md",
+      "word": "strike",
+      "filename": "strike.md",
       "lines": [
-        "Counseling is a service.",
-        "Beratung ist eine Dienstleistung.",
-        "カウンセリングはサービスだ。",
-        "咨询是一种服务。"
+        "Striking is an action.",
+        "Schlagen ist eine Handlung.",
+        "打つことは行動だ。",
+        "打击是一种行动。"
       ]
     }
   ],

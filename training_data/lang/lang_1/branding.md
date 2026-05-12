@@ -1,4 +1,4 @@
-Branding is marketing.
-Branding ist Marketing.
-ブランディングはマーケティングだ。
-品牌塑造是营销。
+Branding is identity work.
+Branding ist Identitätsarbeit.
+ブランディングはアイデンティティ作りだ。
+品牌塑造是身份建设。

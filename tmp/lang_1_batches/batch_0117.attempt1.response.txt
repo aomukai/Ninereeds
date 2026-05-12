@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "defender",
-      "filename": "defender.md",
+      "word": "tattletale",
+      "filename": "tattletale.md",
       "lines": [
-        "A defender is a player.",
-        "Ein Verteidiger ist ein Spieler.",
-        "ディフェンダーは選手だ。",
-        "防守者是球员。"
+        "A tattletale is a person.",
+        "Ein Petzer ist eine Person.",
+        "告げ口屋は人だ。",
+        "告密者是人。"
       ]
     },
     {
-      "word": "defending",
-      "filename": "defending.md",
+      "word": "tattoo",
+      "filename": "tattoo.md",
       "lines": [
-        "Defending is protection.",
-        "Verteidigen ist Schutz.",
-        "守ることは保護だ。",
-        "防守是保护。"
+        "A tattoo is a design.",
+        "Ein Tattoo ist ein Design.",
+        "タトゥーはデザインだ。",
+        "纹身是一种设计。"
       ]
     },
     {
-      "word": "deficit",
-      "filename": "deficit.md",
+      "word": "taught",
+      "filename": "taught.md",
       "lines": [
-        "A deficit is a shortage.",
-        "Ein Defizit ist ein Mangel.",
-        "赤字は不足だ。",
-        "赤字是短缺。"
+        "A taught lesson is a lesson.",
+        "Eine gelehrte Lektion ist eine Lektion.",
+        "教えられたレッスンはレッスンだ。",
+        "被教授的课程是课程。"
       ]
     },
     {
-      "word": "defining",
-      "filename": "defining.md",
+      "word": "taxi",
+      "filename": "taxi.md",
       "lines": [
-        "Defining is explanation.",
-        "Definieren ist Erklärung.",
-        "定義することは説明だ。",
-        "定义是解释。"
+        "A taxi is a vehicle.",
+        "Ein Taxi ist ein Fahrzeug.",
+        "タクシーは乗り物だ。",
+        "出租车是一种车辆。"
       ]
     },
     {
-      "word": "definite",
-      "filename": "definite.md",
+      "word": "tea",
+      "filename": "tea.md",
       "lines": [
-        "A definite color is a shade.",
-        "Eine definitive Farbe ist ein Farbton.",
-        "明確な色は色合いだ。",
-        "明确的颜色是色调。"
+        "Tea is a drink.",
+        "Tee ist ein Getränk.",
+        "お茶は飲み物だ。",
+        "茶是一种饮料。"
       ]
     },
     {
-      "word": "definiteness",
-      "filename": "definiteness.md",
+      "word": "teach",
+      "filename": "teach.md",
       "lines": [
-        "Definiteness is a property.",
-        "Bestimmtheit ist eine Eigenschaft.",
-        "明確さは特性だ。",
-        "确定性是属性。"
+        "Teach is an action.",
+        "Lehren ist eine Handlung.",
+        "教えることは行動だ。",
+        "教是一种行动。"
       ]
     },
     {
-      "word": "definiting",
-      "filename": "definiting.md",
+      "word": "teacher",
+      "filename": "teacher.md",
       "lines": [
-        "Definiting is determination.",
-        "Bestimmen ist Bestimmung.",
-        "決定することは決定だ。",
-        "决定是确定。"
+        "A teacher is a person.",
+        "Ein Lehrer ist eine Person.",
+        "先生は人だ。",
+        "老师是人。"
       ]
     },
     {
-      "word": "definition",
-      "filename": "definition.md",
+      "word": "teacup",
+      "filename": "teacup.md",
       "lines": [
-        "A definition is an explanation.",
-        "Eine Definition ist eine Erklärung.",
-        "定義は説明だ。",
-        "定义是解释。"
+        "A teacup is a cup.",
+        "Eine Teetasse ist eine Tasse.",
+        "ティーカップはカップだ。",
+        "茶杯是一种杯子。"
       ]
     },
     {
-      "word": "degree",
-      "filename": "degree.md",
+      "word": "team",
+      "filename": "team.md",
       "lines": [
-        "A degree is a unit.",
-        "Ein Grad ist eine Einheit.",
-        "度は単位だ。",
-        "度是单位。"
+        "A team is a group.",
+        "Ein Team ist eine Gruppe.",
+        "チームはグループだ。",
+        "团队是一个小组。"
       ]
     },
     {
-      "word": "deleting",
-      "filename": "deleting.md",
+      "word": "teammate",
+      "filename": "teammate.md",
       "lines": [
-        "Deleting is removal.",
-        "Löschen ist Entfernung.",
-        "削除することは除去だ。",
-        "删除是移除。"
+        "A teammate is a person.",
+        "Ein Teamkollege ist eine Person.",
+        "チームメイトは人だ。",
+        "队友是人。"
       ]
     }
   ],

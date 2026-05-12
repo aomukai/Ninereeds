@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "decrease",
-      "filename": "decrease.md",
+      "word": "tangy",
+      "filename": "tangy.md",
       "lines": [
-        "A decrease is a change.",
-        "Ein Rückgang ist eine Veränderung.",
-        "減少は変化だ。",
-        "减少是一种变化。"
+        "A tangy lemon is a fruit.",
+        "Eine saure Zitrone ist eine Frucht.",
+        "酸っぱいレモンは果物だ。",
+        "酸柠檬是水果。"
       ]
     },
     {
-      "word": "decreasing",
-      "filename": "decreasing.md",
+      "word": "tank",
+      "filename": "tank.md",
       "lines": [
-        "Decreasing is a change.",
-        "Abnehmen ist eine Veränderung.",
-        "減少することは変化だ。",
-        "减少是一种变化。"
+        "A tank is a vehicle.",
+        "Ein Panzer ist ein Fahrzeug.",
+        "戦車は車両だ。",
+        "坦克是车辆。"
       ]
     },
     {
-      "word": "deducing",
-      "filename": "deducing.md",
+      "word": "tap",
+      "filename": "tap.md",
       "lines": [
-        "Deducing is reasoning.",
-        "Deduzieren ist eine Schlussfolgerung.",
-        "推論することは推理だ。",
-        "演绎是推理。"
+        "A tap is a device.",
+        "Ein Wasserhahn ist ein Gerät.",
+        "蛇口は装置だ。",
+        "水龙头是设备。"
       ]
     },
     {
-      "word": "deductive",
-      "filename": "deductive.md",
+      "word": "tape",
+      "filename": "tape.md",
       "lines": [
-        "A deductive argument is an argument.",
-        "Ein deduktives Argument ist ein Argument.",
-        "演繹的な議論は議論だ。",
-        "演绎论证是论证。"
+        "A tape is a material.",
+        "Ein Klebeband ist ein Material.",
+        "テープは材料だ。",
+        "胶带是材料。"
       ]
     },
     {
-      "word": "dedupe",
-      "filename": "dedupe.md",
+      "word": "tapping",
+      "filename": "tapping.md",
       "lines": [
-        "Deduping is removal.",
-        "Deduplizieren ist eine Entfernung.",
-        "重複除去は削除だ。",
-        "去重是删除。"
+        "Tapping is an action.",
+        "Klopfen ist eine Handlung.",
+        "叩くことは動作だ。",
+        "敲打是动作。"
       ]
     },
     {
-      "word": "deduplicated",
-      "filename": "deduplicated.md",
+      "word": "target",
+      "filename": "target.md",
       "lines": [
-        "A deduplicated list is a list.",
-        "Eine deduplizierte Liste ist eine Liste.",
-        "重複除去されたリストはリストだ。",
-        "去重后的列表是列表。"
+        "A target is an object.",
+        "Ein Ziel ist ein Objekt.",
+        "的は物体だ。",
+        "靶子是物体。"
       ]
     },
     {
-      "word": "deep",
-      "filename": "deep.md",
+      "word": "tart",
+      "filename": "tart.md",
       "lines": [
-        "A deep well is a well.",
-        "Ein tiefer Brunnen ist ein Brunnen.",
-        "深い井戸は井戸だ。",
-        "深井是井。"
+        "A tart berry is a fruit.",
+        "Eine saure Beere ist eine Frucht.",
+        "酸っぱいベリーは果物だ。",
+        "酸莓是水果。"
       ]
     },
     {
-      "word": "deer",
-      "filename": "deer.md",
+      "word": "task",
+      "filename": "task.md",
       "lines": [
-        "A deer is an animal.",
-        "Ein Hirsch ist ein Tier.",
-        "鹿は動物だ。",
-        "鹿是动物。"
+        "A task is a duty.",
+        "Eine Aufgabe ist eine Pflicht.",
+        "任務は義務だ。",
+        "任务是职责。"
       ]
     },
     {
-      "word": "default",
-      "filename": "default.md",
+      "word": "taste",
+      "filename": "taste.md",
       "lines": [
-        "A default is a setting.",
-        "Eine Voreinstellung ist eine Einstellung.",
-        "デフォルトは設定だ。",
-        "默认是一种设置。"
+        "Taste is a sense.",
+        "Geschmack ist ein Sinn.",
+        "味覚は感覚だ。",
+        "味觉是感觉。"
       ]
     },
     {
-      "word": "defeat",
-      "filename": "defeat.md",
+      "word": "tasty",
+      "filename": "tasty.md",
       "lines": [
-        "Defeating is overcoming.",
-        "Besiegen ist eine Überwindung.",
-        "打ち負かすことは克服だ。",
-        "击败是克服。"
+        "A tasty dish is a meal.",
+        "Ein leckeres Gericht ist eine Mahlzeit.",
+        "美味しい料理は食事だ。",
+        "美味的菜是饭。"
       ]
     }
   ],

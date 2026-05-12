@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fall",
-      "filename": "fall.md",
+      "word": "verifying",
+      "filename": "verifying.md",
       "lines": [
-        "Falling is a downward motion.",
-        "Fallen ist eine Abwärtsbewegung.",
-        "落ちることは下向きの動きだ。",
-        "下落是一种向下的运动。"
+        "Verifying is a process.",
+        "Verifizieren ist ein Prozess.",
+        "確認することはプロセスだ。",
+        "验证是一个过程。"
       ]
     },
     {
-      "word": "fallen",
-      "filename": "fallen.md",
+      "word": "verse",
+      "filename": "verse.md",
       "lines": [
-        "A fallen leaf is a leaf.",
-        "Ein gefallenes Blatt ist ein Blatt.",
-        "落ちた葉は葉だ。",
-        "落叶是叶子。"
+        "A verse is a line of poetry.",
+        "Ein Vers ist eine Zeile eines Gedichts.",
+        "詩の一行は詩の一部だ。",
+        "诗句是诗歌的一行。"
       ]
     },
     {
-      "word": "false",
-      "filename": "false.md",
+      "word": "version",
+      "filename": "version.md",
       "lines": [
-        "A false diamond is a diamond.",
-        "Ein falscher Diamant ist ein Diamant.",
-        "偽のダイヤモンドはダイヤモンドだ。",
-        "假钻石是钻石。"
+        "A version is a form.",
+        "Eine Version ist eine Form.",
+        "バージョンは形式だ。",
+        "版本是一种形式。"
       ]
     },
     {
-      "word": "falsehood",
-      "filename": "falsehood.md",
+      "word": "versusing",
+      "filename": "versusing.md",
       "lines": [
-        "A falsehood is a lie.",
-        "Eine Falschheit ist eine Lüge.",
-        "虚偽は嘘だ。",
-        "虚假是谎言。"
+        "Versusing is a form of comparison.",
+        "Versusing ist eine Form des Vergleichs.",
+        "対比することは比較の一種だ。",
+        "对比是一种比较方式。"
       ]
     },
     {
-      "word": "falsifying",
-      "filename": "falsifying.md",
+      "word": "vessel",
+      "filename": "vessel.md",
       "lines": [
-        "Falsifying is a dishonest act.",
-        "Fälschen ist eine unehrliche Handlung.",
-        "改ざんすることは不正行為だ。",
-        "伪造是一种不诚实的行为。"
+        "A vessel is a container.",
+        "Ein Gefäß ist ein Behälter.",
+        "容器は入れ物だ。",
+        "容器是一个盛东西的器具。"
       ]
     },
     {
-      "word": "familiar",
-      "filename": "familiar.md",
+      "word": "vest",
+      "filename": "vest.md",
       "lines": [
-        "A familiar smell is a smell.",
-        "Ein vertrauter Geruch ist ein Geruch.",
-        "なじみのある匂いは匂いだ。",
-        "熟悉的气味是气味。"
+        "A vest is a piece of clothing.",
+        "Eine Weste ist ein Kleidungsstück.",
+        "ベストは衣服の一種だ。",
+        "马甲是一种衣服。"
       ]
     },
     {
-      "word": "family",
-      "filename": "family.md",
+      "word": "vet",
+      "filename": "vet.md",
       "lines": [
-        "A family is a group.",
-        "Eine Familie ist eine Gruppe.",
-        "家族は集団だ。",
-        "家庭是一个群体。"
+        "A vet is an animal doctor.",
+        "Ein Tierarzt ist ein Tierdoktor.",
+        "獣医は動物の医者だ。",
+        "兽医是动物医生。"
       ]
     },
     {
-      "word": "fan",
-      "filename": "fan.md",
+      "word": "vibrate",
+      "filename": "vibrate.md",
       "lines": [
-        "A fan is a machine.",
-        "Ein Ventilator ist eine Maschine.",
-        "扇風機は機械だ。",
-        "风扇是机器。"
+        "Vibrating is movement.",
+        "Vibrieren ist Bewegung.",
+        "振動することは動きだ。",
+        "振动是运动。"
       ]
     },
     {
-      "word": "fancy",
-      "filename": "fancy.md",
+      "word": "vibration",
+      "filename": "vibration.md",
       "lines": [
-        "A fancy hat is a hat.",
-        "Ein schicker Hut ist ein Hut.",
-        "おしゃれな帽子は帽子だ。",
-        "时髦的帽子是帽子。"
+        "A vibration is a shaking motion.",
+        "Eine Vibration ist eine zitternde Bewegung.",
+        "振動は揺れ動きだ。",
+        "振动是一种摇晃的运动。"
       ]
     },
     {
-      "word": "fang",
-      "filename": "fang.md",
+      "word": "video",
+      "filename": "video.md",
       "lines": [
-        "A fang is a tooth.",
-        "Ein Fangzahn ist ein Zahn.",
-        "牙は歯だ。",
-        "尖牙是牙齿。"
+        "A video is a recording.",
+        "Ein Video ist eine Aufnahme.",
+        "ビデオは録画だ。",
+        "视频是一种录像。"
       ]
     }
   ],

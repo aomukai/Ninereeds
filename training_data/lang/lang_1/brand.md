@@ -1,4 +1,4 @@
-A brand is a name.
-Eine Marke ist ein Name.
-ブランドは名前だ。
-品牌是一个名称。
+A brand is an identity.
+Eine Marke ist eine Identität.
+ブランドはアイデンティティだ。
+品牌是一种身份。

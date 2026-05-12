@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "experiment",
-      "filename": "experiment.md",
+      "word": "user",
+      "filename": "user.md",
       "lines": [
-        "An experiment is a test.",
-        "Ein Experiment ist ein Test.",
-        "実験はテストだ。",
-        "实验是测试。"
+        "A user is a person.",
+        "Ein Benutzer ist eine Person.",
+        "ユーザーは人だ。",
+        "用户是人。"
       ]
     },
     {
-      "word": "expert",
-      "filename": "expert.md",
+      "word": "username",
+      "filename": "username.md",
       "lines": [
-        "An expert is a specialist.",
-        "Ein Experte ist ein Spezialist.",
-        "専門家はスペシャリストだ。",
-        "专家是专业人士。"
+        "A username is a name.",
+        "Ein Benutzername ist ein Name.",
+        "ユーザー名は名前だ。",
+        "用户名是名字。"
       ]
     },
     {
-      "word": "explain",
-      "filename": "explain.md",
+      "word": "using",
+      "filename": "using.md",
       "lines": [
-        "Explaining is teaching.",
-        "Erklären ist Lehren.",
-        "説明することは教えることだ。",
-        "解释是教学。"
+        "Using is an action.",
+        "Benutzen ist eine Handlung.",
+        "使うことは行動だ。",
+        "使用是行动。"
       ]
     },
     {
-      "word": "explaining",
-      "filename": "explaining.md",
+      "word": "usual",
+      "filename": "usual.md",
       "lines": [
-        "Explaining is describing.",
-        "Erklären ist Beschreiben.",
-        "説明することは描写だ。",
-        "解释是描述。"
+        "A usual day is a day.",
+        "Ein gewöhnlicher Tag ist ein Tag.",
+        "通常の日は日だ。",
+        "普通的一天是一天。"
       ]
     },
     {
-      "word": "explanation",
-      "filename": "explanation.md",
+      "word": "usurping",
+      "filename": "usurping.md",
       "lines": [
-        "An explanation is an answer.",
-        "Eine Erklärung ist eine Antwort.",
-        "説明は答えだ。",
-        "解释是答案。"
+        "Usurping is an act.",
+        "Usurpieren ist eine Handlung.",
+        "奪取することは行為だ。",
+        "篡夺是行为。"
       ]
     },
     {
-      "word": "explicit",
-      "filename": "explicit.md",
+      "word": "utensil",
+      "filename": "utensil.md",
       "lines": [
-        "An explicit instruction is a guide.",
-        "Eine explizite Anweisung ist eine Anleitung.",
-        "明示的な指示はガイドだ。",
-        "明确的指示是指导。"
+        "A utensil is a tool.",
+        "Ein Utensil ist ein Werkzeug.",
+        "調理器具は道具だ。",
+        "器具是工具。"
       ]
     },
     {
-      "word": "exploiting",
-      "filename": "exploiting.md",
+      "word": "utilizing",
+      "filename": "utilizing.md",
       "lines": [
-        "Exploiting is abuse.",
-        "Ausbeuten ist Missbrauch.",
-        "搾取は虐待だ。",
-        "剥削是滥用。"
+        "Utilizing is an action.",
+        "Nutzen ist eine Handlung.",
+        "利用することは行動だ。",
+        "利用是行动。"
       ]
     },
     {
-      "word": "explore",
-      "filename": "explore.md",
+      "word": "uttering",
+      "filename": "uttering.md",
       "lines": [
-        "Exploring is discovery.",
-        "Erkunden ist Entdeckung.",
-        "探検することは発見だ。",
-        "探索是发现。"
+        "Uttering is an action.",
+        "Äußern ist eine Handlung.",
+        "発言することは行動だ。",
+        "说出是行动。"
       ]
     },
     {
-      "word": "exploring",
-      "filename": "exploring.md",
+      "word": "vaccine",
+      "filename": "vaccine.md",
       "lines": [
-        "Exploring is searching.",
-        "Erkunden ist Suchen.",
-        "探検することは検索だ。",
-        "探索是搜索。"
+        "A vaccine is a medicine.",
+        "Ein Impfstoff ist ein Medikament.",
+        "ワクチンは薬だ。",
+        "疫苗是药。"
       ]
     },
     {
-      "word": "exposed",
-      "filename": "exposed.md",
+      "word": "vacuum",
+      "filename": "vacuum.md",
       "lines": [
-        "An exposed wire is a hazard.",
-        "Ein freiliegender Draht ist eine Gefahr.",
-        "露出したワイヤーは危険だ。",
-        "裸露的电线是危险。"
+        "A vacuum is a machine.",
+        "Ein Staubsauger ist eine Maschine.",
+        "掃除機は機械だ。",
+        "吸尘器是机器。"
       ]
     }
   ],

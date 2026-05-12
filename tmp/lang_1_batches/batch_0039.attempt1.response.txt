@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bicycle",
-      "filename": "bicycle.md",
+      "word": "robot",
+      "filename": "robot.md",
       "lines": [
-        "A bicycle is a two-wheeled vehicle.",
-        "Ein Fahrrad ist ein zweirädriges Fahrzeug.",
-        "自転車は二輪車だ。",
-        "自行车是两轮车。"
+        "A robot is a machine.",
+        "Ein Roboter ist eine Maschine.",
+        "ロボットは機械だ。",
+        "机器人是机器。"
       ]
     },
     {
-      "word": "big",
-      "filename": "big.md",
+      "word": "rock",
+      "filename": "rock.md",
       "lines": [
-        "A big dog is an animal.",
-        "Ein großer Hund ist ein Tier.",
-        "大きな犬は動物だ。",
-        "大狗是动物。"
+        "A rock is a natural object.",
+        "Ein Stein ist ein natürlicher Gegenstand.",
+        "岩は自然物だ。",
+        "岩石是自然物。"
       ]
     },
     {
-      "word": "bigger",
-      "filename": "bigger.md",
+      "word": "rocket",
+      "filename": "rocket.md",
       "lines": [
-        "A bigger car is a vehicle.",
-        "Ein größeres Auto ist ein Fahrzeug.",
-        "より大きな車は乗り物だ。",
-        "更大的车是交通工具。"
+        "A rocket is a space vehicle.",
+        "Eine Rakete ist ein Raumfahrzeug.",
+        "ロケットは宇宙船だ。",
+        "火箭是航天器。"
       ]
     },
     {
-      "word": "bike",
-      "filename": "bike.md",
+      "word": "rocky",
+      "filename": "rocky.md",
       "lines": [
-        "A bike is a vehicle.",
-        "Ein Motorrad ist ein Fahrzeug.",
-        "バイクは乗り物だ。",
-        "摩托车是交通工具。"
+        "A rocky hill is a hill.",
+        "Ein felsiger Hügel ist ein Hügel.",
+        "岩の多い丘は丘だ。",
+        "多岩石的山丘是山丘。"
       ]
     },
     {
-      "word": "bill",
-      "filename": "bill.md",
+      "word": "rod",
+      "filename": "rod.md",
       "lines": [
-        "A bill is currency.",
-        "Ein Geldschein ist Bargeld.",
-        "紙幣は通貨だ。",
-        "钞票是货币。"
+        "A rod is a long thin object.",
+        "Ein Stab ist ein langer, dünner Gegenstand.",
+        "棒は細長い物体だ。",
+        "杆子是细长的物体。"
       ]
     },
     {
-      "word": "billy",
-      "filename": "billy.md",
+      "word": "role",
+      "filename": "role.md",
       "lines": [
-        "A billy is a goat.",
-        "Ein Ziegenbock ist eine Ziege.",
-        "雄ヤギはヤギだ。",
-        "公山羊是山羊。"
+        "A role is a function.",
+        "Eine Rolle ist eine Funktion.",
+        "役割は機能だ。",
+        "角色是功能。"
       ]
     },
     {
-      "word": "bin",
-      "filename": "bin.md",
+      "word": "roll",
+      "filename": "roll.md",
       "lines": [
-        "A bin is a container.",
-        "Ein Mülleimer ist ein Behälter.",
-        "ゴミ箱は容器だ。",
-        "垃圾桶是容器。"
+        "Rolling is movement.",
+        "Rollen ist Bewegung.",
+        "転がることは移動だ。",
+        "滚动是移动。"
       ]
     },
     {
-      "word": "binder",
-      "filename": "binder.md",
+      "word": "romantic",
+      "filename": "romantic.md",
       "lines": [
-        "A binder is a folder.",
-        "Ein Ordner ist ein Hefter.",
-        "バインダーはファイルだ。",
-        "活页夹是文件夹。"
+        "A romantic movie is a movie.",
+        "Ein romantischer Film ist ein Film.",
+        "ロマンチックな映画は映画だ。",
+        "浪漫的电影是电影。"
       ]
     },
     {
-      "word": "binding",
-      "filename": "binding.md",
+      "word": "roof",
+      "filename": "roof.md",
       "lines": [
-        "A binding is a book cover.",
-        "Ein Buchdeckel ist ein Buchumschlag.",
-        "装丁は表紙だ。",
-        "装订是书皮。"
+        "A roof is a covering.",
+        "Ein Dach ist eine Abdeckung.",
+        "屋根は覆いだ。",
+        "屋顶是覆盖物。"
       ]
     },
     {
-      "word": "binoculars",
-      "filename": "binoculars.md",
+      "word": "rooftop",
+      "filename": "rooftop.md",
       "lines": [
-        "Binoculars are optical instruments.",
-        "Ferngläser sind optische Geräte.",
-        "双眼鏡は光学機器だ。",
-        "双筒望远镜是光学仪器。"
+        "A rooftop is an outdoor area.",
+        "Eine Dachterrasse ist ein Außenbereich.",
+        "屋上は屋外の空間だ。",
+        "楼顶是户外空间。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "chew",
-      "filename": "chew.md",
+      "word": "sketch",
+      "filename": "sketch.md",
       "lines": [
-        "Chewing is an action.",
-        "Kauen ist eine Handlung.",
-        "噛むことは動作だ。",
-        "咀嚼是一种动作。"
+        "A sketch is a drawing.",
+        "Eine Skizze ist eine Zeichnung.",
+        "スケッチは絵だ。",
+        "素描是一种绘画。"
       ]
     },
     {
-      "word": "chewing",
-      "filename": "chewing.md",
+      "word": "ski",
+      "filename": "ski.md",
       "lines": [
-        "Chewing is a process.",
-        "Das Kauen ist ein Vorgang.",
-        "噛むことは過程だ。",
-        "咀嚼是一个过程。"
+        "A ski is a piece of sports equipment.",
+        "Ein Ski ist ein Sportgerät.",
+        "スキーはスポーツ用具だ。",
+        "滑雪板是一种运动器材。"
       ]
     },
     {
-      "word": "chick",
-      "filename": "chick.md",
+      "word": "skill",
+      "filename": "skill.md",
       "lines": [
-        "A chick is a young bird.",
-        "Ein Küken ist ein junger Vogel.",
-        "ひよこは若い鳥だ。",
-        "小鸡是幼鸟。"
+        "A skill is an ability.",
+        "Eine Fertigkeit ist eine Fähigkeit.",
+        "スキルは能力だ。",
+        "技能是一种能力。"
       ]
     },
     {
-      "word": "chicken",
-      "filename": "chicken.md",
+      "word": "skillet",
+      "filename": "skillet.md",
       "lines": [
-        "A chicken is a bird.",
-        "Ein Huhn ist ein Vogel.",
-        "鶏は鳥だ。",
-        "鸡是鸟。"
+        "A skillet is a pan.",
+        "Eine Bratpfanne ist eine Pfanne.",
+        "スキレットはフライパンだ。",
+        "煎锅是一种平底锅。"
       ]
     },
     {
-      "word": "child",
-      "filename": "child.md",
+      "word": "skimming",
+      "filename": "skimming.md",
       "lines": [
-        "A child is a person.",
-        "Ein Kind ist ein Mensch.",
-        "子供は人間だ。",
-        "孩子是人。"
+        "Skimming is a reading technique.",
+        "Überfliegen ist eine Lesetechnik.",
+        "スキミングは読む技術だ。",
+        "略读是一种阅读技巧。"
       ]
     },
     {
-      "word": "childcaregiver",
-      "filename": "childcaregiver.md",
+      "word": "skin",
+      "filename": "skin.md",
       "lines": [
-        "A childcaregiver is a person.",
-        "Ein Kinderbetreuer ist eine Person.",
-        "保育士は人だ。",
-        "保育员是人。"
+        "Skin is a body part.",
+        "Haut ist ein Körperteil.",
+        "皮膚は体の一部だ。",
+        "皮肤是身体的一部分。"
       ]
     },
     {
-      "word": "childhood",
-      "filename": "childhood.md",
+      "word": "skip",
+      "filename": "skip.md",
       "lines": [
-        "Childhood is a stage.",
-        "Die Kindheit ist eine Lebensphase.",
-        "子供時代は段階だ。",
-        "童年是一个阶段。"
+        "A skip is a jump.",
+        "Ein Hüpfer ist ein Sprung.",
+        "スキップは跳躍だ。",
+        "蹦跳是一种跳跃。"
       ]
     },
     {
-      "word": "children",
-      "filename": "children.md",
+      "word": "skirt",
+      "filename": "skirt.md",
       "lines": [
-        "Children are people.",
-        "Kinder sind Menschen.",
-        "子供たちは人間だ。",
-        "孩子们是人。"
+        "A skirt is a piece of clothing.",
+        "Ein Rock ist ein Kleidungsstück.",
+        "スカートは衣類だ。",
+        "裙子是一种衣物。"
       ]
     },
     {
-      "word": "child's",
-      "filename": "child's.md",
+      "word": "skunk",
+      "filename": "skunk.md",
       "lines": [
-        "A child's toy is a plaything.",
-        "Ein Kinderspielzeug ist ein Spielzeug.",
-        "子供のおもちゃは遊び道具だ。",
-        "孩子的玩具是玩具。"
+        "A skunk is an animal.",
+        "Ein Stinktier ist ein Tier.",
+        "スカンクは動物だ。",
+        "臭鼬是一种动物。"
       ]
     },
     {
-      "word": "chilly",
-      "filename": "chilly.md",
+      "word": "sky",
+      "filename": "sky.md",
       "lines": [
-        "A chilly drink is a drink.",
-        "Ein kühles Getränk ist ein Getränk.",
-        "冷えた飲み物は飲み物だ。",
-        "冰凉的饮料是饮料。"
+        "The sky is a natural phenomenon.",
+        "Der Himmel ist ein Naturphänomen.",
+        "空は自然現象だ。",
+        "天空是一种自然现象。"
       ]
     }
   ],
