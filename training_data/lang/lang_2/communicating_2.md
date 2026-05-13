@@ -1,0 +1,14 @@
+These doors are communicating.
+Diese Türen sind kommunizierend.
+これらのドアは連絡している。
+这些门是相通的。
+
+The rooms are communicatingly connected.
+Die Räume sind kommunizierend verbunden.
+部屋は連絡してつながっている。
+房间是相通地连接的。
+
+That door is not communicating.
+Jene Tür ist nicht kommunizierend.
+あのドアは連絡していない。
+那扇门不相通。
