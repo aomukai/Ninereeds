@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "cheering",
-      "filename": "cheering.md",
+      "word": "sister",
+      "filename": "sister.md",
       "lines": [
-        "Cheering is a form of encouragement.",
-        "Jubeln ist eine Form der Ermutigung.",
-        "応援することは励ましの形だ。",
-        "欢呼是一种鼓励的形式。"
+        "A sister is a family member.",
+        "Eine Schwester ist ein Familienmitglied.",
+        "姉は家族の一員だ。",
+        "姐妹是家庭成员。"
       ]
     },
     {
-      "word": "cheese",
-      "filename": "cheese.md",
+      "word": "site",
+      "filename": "site.md",
       "lines": [
-        "Cheese is a dairy product.",
-        "Käse ist ein Milchprodukt.",
-        "チーズは乳製品だ。",
-        "奶酪是乳制品。"
+        "A site is a place.",
+        "Ein Ort ist ein Platz.",
+        "サイトは場所だ。",
+        "站点是一个地方。"
       ]
     },
     {
-      "word": "chef",
-      "filename": "chef.md",
+      "word": "sitting",
+      "filename": "sitting.md",
       "lines": [
-        "A chef is a professional cook.",
-        "Ein Koch ist ein Beruf.",
-        "シェフは料理人だ。",
-        "厨师是职业。"
+        "Sitting is a posture.",
+        "Sitzen ist eine Haltung.",
+        "座ることは姿勢だ。",
+        "坐是一种姿势。"
       ]
     },
     {
-      "word": "chemical",
-      "filename": "chemical.md",
+      "word": "situating",
+      "filename": "situating.md",
       "lines": [
-        "A chemical is a substance.",
-        "Eine Chemikalie ist ein Stoff.",
-        "化学物質は物質だ。",
-        "化学物质是物质。"
+        "Situating is placing.",
+        "Situieren ist Platzieren.",
+        "配置することは設置だ。",
+        "安置是放置。"
       ]
     },
     {
-      "word": "chemistry",
-      "filename": "chemistry.md",
+      "word": "situation",
+      "filename": "situation.md",
       "lines": [
-        "Chemistry is a science.",
-        "Chemie ist eine Wissenschaft.",
-        "化学は科学だ。",
-        "化学是科学。"
+        "A situation is a state.",
+        "Eine Situation ist ein Zustand.",
+        "状況は状態だ。",
+        "情况是一种状态。"
       ]
     },
     {
-      "word": "cherishing",
-      "filename": "cherishing.md",
+      "word": "six",
+      "filename": "six.md",
       "lines": [
-        "Cherishing is an act of love.",
-        "Schätzen ist ein Akt der Liebe.",
-        "大切にすることは愛の行為だ。",
-        "珍惜是爱的行为。"
+        "Six is a number.",
+        "Sechs ist eine Zahl.",
+        "六は数字だ。",
+        "六是一个数字。"
       ]
     },
     {
-      "word": "cherishing_3",
-      "filename": "cherishing_3.md",
+      "word": "size",
+      "filename": "size.md",
       "lines": [
-        "A cherishing_3 is a feeling.",
-        "Ein Cherishing_3 ist ein Gefühl.",
-        "cherishing_3は感情だ。",
-        "cherishing_3是一种感觉。"
+        "Size is a measurement.",
+        "Größe ist ein Maß.",
+        "大きさは寸法だ。",
+        "尺寸是一种度量。"
       ]
     },
     {
-      "word": "cherry",
-      "filename": "cherry.md",
+      "word": "skate",
+      "filename": "skate.md",
       "lines": [
-        "A cherry is a fruit.",
-        "Eine Kirsche ist eine Frucht.",
-        "さくらんぼは果物だ。",
-        "樱桃是水果。"
+        "A skate is a shoe.",
+        "Ein Schlittschuh ist ein Schuh.",
+        "スケート靴は靴だ。",
+        "溜冰鞋是一种鞋。"
       ]
     },
     {
-      "word": "chest",
-      "filename": "chest.md",
+      "word": "skeleton",
+      "filename": "skeleton.md",
       "lines": [
-        "A chest is a container.",
-        "Eine Truhe ist ein Behälter.",
-        "チェストは容器だ。",
-        "箱子是容器。"
+        "A skeleton is a framework.",
+        "Ein Skelett ist ein Gerüst.",
+        "骨格は枠組みだ。",
+        "骨架是一种框架。"
       ]
     },
     {
-      "word": "chestnut",
-      "filename": "chestnut.md",
+      "word": "skepticism",
+      "filename": "skepticism.md",
       "lines": [
-        "A chestnut is a nut.",
-        "Eine Kastanie ist eine Nuss.",
-        "栗は木の実だ。",
-        "栗子是坚果。"
+        "Skepticism is a viewpoint.",
+        "Skeptizismus ist eine Einstellung.",
+        "懐疑主義は見解だ。",
+        "怀疑主义是一种观点。"
       ]
     }
   ],

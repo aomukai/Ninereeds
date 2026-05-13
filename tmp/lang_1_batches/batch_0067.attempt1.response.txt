@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "certifying",
-      "filename": "certifying.md",
+      "word": "sideway",
+      "filename": "sideway.md",
       "lines": [
-        "Certifying is verification.",
-        "Zertifizieren ist eine Überprüfung.",
-        "認証することは確認だ。",
-        "认证是验证。"
+        "A sideway step is a step.",
+        "Ein seitlicher Schritt ist ein Schritt.",
+        "横ステップはステップだ。",
+        "侧步是步伐。"
       ]
     },
     {
-      "word": "chain",
-      "filename": "chain.md",
+      "word": "sideways",
+      "filename": "sideways.md",
       "lines": [
-        "A chain is a tool.",
-        "Eine Kette ist ein Werkzeug.",
-        "鎖は道具だ。",
-        "链条是工具。"
+        "A sideways glance is a look.",
+        "Ein seitlicher Blick ist ein Blick.",
+        "横目は視線だ。",
+        "侧视是目光。"
       ]
     },
     {
-      "word": "chair",
-      "filename": "chair.md",
+      "word": "sight",
+      "filename": "sight.md",
       "lines": [
-        "A chair is furniture.",
-        "Ein Stuhl ist ein Möbelstück.",
-        "椅子は家具だ。",
-        "椅子是家具。"
+        "Sight is a sense.",
+        "Sehen ist ein Sinn.",
+        "視覚は感覚だ。",
+        "视觉是感觉。"
       ]
     },
     {
-      "word": "chalk",
-      "filename": "chalk.md",
+      "word": "sign",
+      "filename": "sign.md",
       "lines": [
-        "Chalk is a writing material.",
-        "Kreide ist ein Schreibmaterial.",
-        "チョークは筆記具だ。",
-        "粉笔是书写材料。"
+        "A sign is a symbol.",
+        "Ein Zeichen ist ein Symbol.",
+        "標識は記号だ。",
+        "标志是符号。"
       ]
     },
     {
-      "word": "chalkboard",
-      "filename": "chalkboard.md",
+      "word": "signal",
+      "filename": "signal.md",
       "lines": [
-        "A chalkboard is a surface.",
-        "Eine Tafel ist eine Oberfläche.",
-        "黒板は表面だ。",
-        "黑板是表面。"
+        "A signal is a message.",
+        "Ein Signal ist eine Nachricht.",
+        "信号はメッセージだ。",
+        "信号是消息。"
       ]
     },
     {
-      "word": "challenge",
-      "filename": "challenge.md",
+      "word": "significant",
+      "filename": "significant.md",
       "lines": [
-        "A challenge is a task.",
-        "Eine Herausforderung ist eine Aufgabe.",
-        "挑戦は課題だ。",
-        "挑战是任务。"
+        "A significant event is an event.",
+        "Ein bedeutendes Ereignis ist ein Ereignis.",
+        "重要な出来事は出来事だ。",
+        "重要的事件是事件。"
       ]
     },
     {
-      "word": "chance",
-      "filename": "chance.md",
+      "word": "signifying",
+      "filename": "signifying.md",
       "lines": [
-        "A chance is an opportunity.",
-        "Eine Chance ist eine Gelegenheit.",
-        "チャンスは機会だ。",
-        "机会是机遇。"
+        "Signifying is expressing.",
+        "Bedeuten ist Ausdrücken.",
+        "意味することは表現だ。",
+        "表示是表达。"
       ]
     },
     {
-      "word": "change",
-      "filename": "change.md",
+      "word": "silence",
+      "filename": "silence.md",
       "lines": [
-        "Changing is transformation.",
-        "Verändern ist eine Umwandlung.",
-        "変えることは変化だ。",
-        "改变是转变。"
+        "Silence is a state.",
+        "Stille ist ein Zustand.",
+        "沈黙は状態だ。",
+        "沉默是状态。"
       ]
     },
     {
-      "word": "changed",
-      "filename": "changed.md",
+      "word": "silent",
+      "filename": "silent.md",
       "lines": [
-        "Changing is transformation.",
-        "Verändern ist eine Umwandlung.",
-        "変えることは変化だ。",
-        "改变是转变。"
+        "A silent movie is a movie.",
+        "Ein stummer Film ist ein Film.",
+        "無声映画は映画だ。",
+        "无声电影是电影。"
       ]
     },
     {
-      "word": "changing",
-      "filename": "changing.md",
+      "word": "silhouette",
+      "filename": "silhouette.md",
       "lines": [
-        "Changing is transformation.",
-        "Verändern ist eine Umwandlung.",
-        "変えることは変化だ。",
-        "改变是转变。"
+        "A silhouette is a shape.",
+        "Eine Silhouette ist eine Form.",
+        "シルエットは形だ。",
+        "剪影是形状。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "click",
-      "filename": "click.md",
+      "word": "snap",
+      "filename": "snap.md",
       "lines": [
-        "Clicking is an action.",
-        "Klicken ist eine Handlung.",
-        "クリックすることは動作だ。",
-        "点击是一种动作。"
+        "A snap is a sound.",
+        "Ein Knacks ist ein Geräusch.",
+        "パチンという音は音だ。",
+        "咔嚓声是声音。"
       ]
     },
     {
-      "word": "click-clack",
-      "filename": "click-clack.md",
+      "word": "snapshot",
+      "filename": "snapshot.md",
       "lines": [
-        "A click-clack is a sound.",
-        "Ein Klick-Klack ist ein Geräusch.",
-        "クリッククラックは音の一種だ。",
-        "咔嗒声是一种声音。"
+        "A snapshot is a photograph.",
+        "Ein Schnappschuss ist ein Foto.",
+        "スナップショットは写真だ。",
+        "快照是照片。"
       ]
     },
     {
-      "word": "cliff",
-      "filename": "cliff.md",
+      "word": "snaring",
+      "filename": "snaring.md",
       "lines": [
-        "A cliff is a landform.",
-        "Eine Klippe ist eine Landform.",
-        "崖は地形の一種だ。",
-        "悬崖是一种地形。"
+        "Snaring is trapping.",
+        "Snaring ist Fangen.",
+        "わなをかけることは捕獲だ。",
+        "设陷阱是捕捉。"
       ]
     },
     {
-      "word": "climate",
-      "filename": "climate.md",
+      "word": "sneak",
+      "filename": "sneak.md",
       "lines": [
-        "Climate is a weather pattern.",
-        "Klima ist ein Wetterverlauf.",
-        "気候は気象パターンだ。",
-        "气候是一种天气模式。"
+        "A sneak is a person.",
+        "Ein Schleicher ist ein Mensch.",
+        "こそこそする人は人だ。",
+        "偷偷摸摸的人是人。"
       ]
     },
     {
-      "word": "climax",
-      "filename": "climax.md",
+      "word": "sneaky",
+      "filename": "sneaky.md",
       "lines": [
-        "A climax is a peak.",
-        "Ein Höhepunkt ist ein Gipfel.",
-        "クライマックスは頂点だ。",
-        "高潮是顶点。"
+        "A sneaky person is a person.",
+        "Ein heimlicher Mensch ist ein Mensch.",
+        "こそこそした人は人だ。",
+        "鬼鬼祟祟的人是人。"
       ]
     },
     {
-      "word": "climb",
-      "filename": "climb.md",
+      "word": "sneeze",
+      "filename": "sneeze.md",
       "lines": [
-        "Climbing is movement.",
-        "Klettern ist Bewegung.",
-        "登ることは移動だ。",
-        "攀登是移动。"
+        "A sneeze is a reflex.",
+        "Ein Niesen ist ein Reflex.",
+        "くしゃみは反射だ。",
+        "喷嚏是反射。"
       ]
     },
     {
-      "word": "cling",
-      "filename": "cling.md",
+      "word": "sniff",
+      "filename": "sniff.md",
       "lines": [
-        "Clinging is a holding action.",
-        "Festhalten ist eine Halteaktion.",
-        "しがみつくことは保持動作だ。",
-        "紧贴是一种保持动作。"
+        "A sniff is an action.",
+        "Ein Schnüffeln ist eine Handlung.",
+        "かぐことは行為だ。",
+        "闻是一个动作。"
       ]
     },
     {
-      "word": "clinic",
-      "filename": "clinic.md",
+      "word": "snip",
+      "filename": "snip.md",
       "lines": [
-        "A clinic is a medical facility.",
-        "Eine Klinik ist eine medizinische Einrichtung.",
-        "クリニックは医療施設だ。",
-        "诊所是一种医疗设施。"
+        "A snip is a cut.",
+        "Ein Schnitt ist eine Handlung.",
+        "切りは切断だ。",
+        "剪是切割。"
       ]
     },
     {
-      "word": "clip",
-      "filename": "clip.md",
+      "word": "snippet",
+      "filename": "snippet.md",
       "lines": [
-        "Clipping is a cutting action.",
-        "Abschneiden ist eine Schneideaktion.",
-        "切り取ることは切断動作だ。",
-        "剪裁是一种切割动作。"
+        "A snippet is a piece.",
+        "Ein Schnipsel ist ein Stück.",
+        "断片は一片だ。",
+        "片段是一片。"
       ]
     },
     {
-      "word": "clipboard",
-      "filename": "clipboard.md",
+      "word": "snipping",
+      "filename": "snipping.md",
       "lines": [
-        "A clipboard is a portable board.",
-        "Ein Klemmbrett ist eine tragbare Tafel.",
-        "クリップボードは携帯用の板だ。",
-        "剪贴板是一种便携板。"
+        "Snipping is cutting.",
+        "Snipping ist Schneiden.",
+        "チョキンと切ることは切断だ。",
+        "剪断是切割。"
       ]
     }
   ],

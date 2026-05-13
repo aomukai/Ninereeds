@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "body that has slept",
-      "filename": "body_that_has_slept.md",
+      "word": "sadness",
+      "filename": "sadness.md",
       "lines": [
-        "A body that has slept is a living being.",
-        "Ein Körper, der geschlafen hat, ist ein Lebewesen.",
-        "眠った体は生き物だ。",
-        "睡过的身体是生物。"
+        "Sadness is an emotion.",
+        "Traurigkeit ist ein Gefühl.",
+        "悲しみは感情だ。",
+        "悲伤是情感。"
       ]
     },
     {
-      "word": "boil",
-      "filename": "boil.md",
+      "word": "safe",
+      "filename": "safe.md",
       "lines": [
-        "A boil is a skin condition.",
-        "Ein Furunkel ist eine Hauterkrankung.",
-        "おできは皮膚の病気だ。",
-        "疖是一种皮肤病。"
+        "A safe house is a building.",
+        "Ein sicheres Haus ist ein Gebäude.",
+        "安全な家は建物だ。",
+        "安全的房子是建筑物。"
       ]
     },
     {
-      "word": "bold",
-      "filename": "bold.md",
+      "word": "safeguarding",
+      "filename": "safeguarding.md",
       "lines": [
-        "A bold person is a person.",
-        "Ein mutiger Mensch ist ein Mensch.",
-        "大胆な人は人だ。",
-        "大胆的人是人。"
+        "Safeguarding is a protective measure.",
+        "Sichern ist eine Schutzmaßnahme.",
+        "保護は防御措置だ。",
+        "保护是防护措施。"
       ]
     },
     {
-      "word": "bolstering",
-      "filename": "bolstering.md",
+      "word": "safer",
+      "filename": "safer.md",
       "lines": [
-        "Bolstering is supporting.",
-        "Stärken ist Unterstützen.",
-        "強化することは支援だ。",
-        "增强是支持。"
+        "A safer car is a vehicle.",
+        "Ein sichereres Auto ist ein Fahrzeug.",
+        "より安全な車は乗り物だ。",
+        "更安全的车是交通工具。"
       ]
     },
     {
-      "word": "bolt",
-      "filename": "bolt.md",
+      "word": "safety",
+      "filename": "safety.md",
       "lines": [
-        "A bolt is a fastener.",
-        "Ein Bolzen ist ein Befestigungselement.",
-        "ボルトは留め具だ。",
-        "螺栓是紧固件。"
+        "Safety is a condition.",
+        "Sicherheit ist ein Zustand.",
+        "安全は状態だ。",
+        "安全是状态。"
       ]
     },
     {
-      "word": "bone",
-      "filename": "bone.md",
+      "word": "said",
+      "filename": "said.md",
       "lines": [
-        "A bone is a body part.",
-        "Ein Knochen ist ein Körperteil.",
-        "骨は体の一部だ。",
-        "骨头是身体的一部分。"
+        "A said remark is a comment.",
+        "Eine gesagte Bemerkung ist ein Kommentar.",
+        "言われた発言はコメントだ。",
+        "被说的评论是评论。"
       ]
     },
     {
-      "word": "book",
-      "filename": "book.md",
+      "word": "sail",
+      "filename": "sail.md",
       "lines": [
-        "A book is a reading material.",
-        "Ein Buch ist ein Lesestoff.",
-        "本は読書材料だ。",
-        "书是阅读材料。"
+        "A sail is a piece of fabric.",
+        "Ein Segel ist ein Stück Stoff.",
+        "帆は布の一部だ。",
+        "帆是布。"
       ]
     },
     {
-      "word": "bookshelf",
-      "filename": "bookshelf.md",
+      "word": "sailboat",
+      "filename": "sailboat.md",
       "lines": [
-        "A bookshelf is furniture.",
-        "Ein Bücherregal ist ein Möbelstück.",
-        "本棚は家具だ。",
-        "书架是家具。"
+        "A sailboat is a boat.",
+        "Ein Segelboot ist ein Boot.",
+        "帆船は船だ。",
+        "帆船是船。"
       ]
     },
     {
-      "word": "boom",
-      "filename": "boom.md",
+      "word": "sailor",
+      "filename": "sailor.md",
       "lines": [
-        "A boom is a loud sound.",
-        "Ein Knall ist ein lautes Geräusch.",
-        "ブームは大きな音だ。",
-        "轰鸣声是响亮的声音。"
+        "A sailor is a person.",
+        "Ein Seemann ist eine Person.",
+        "水手は人だ。",
+        "水手是人。"
       ]
     },
     {
-      "word": "boot",
-      "filename": "boot.md",
+      "word": "sake",
+      "filename": "sake.md",
       "lines": [
-        "A boot is footwear.",
-        "Ein Stiefel ist ein Schuhwerk.",
-        "ブーツは履物だ。",
-        "靴子是鞋类。"
+        "Sake is a drink.",
+        "Sake ist ein Getränk.",
+        "酒は飲み物だ。",
+        "清酒是饮料。"
       ]
     }
   ],

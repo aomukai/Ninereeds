@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "domain",
-      "filename": "domain.md",
+      "word": "tortoise",
+      "filename": "tortoise.md",
       "lines": [
-        "A domain is an area.",
-        "Eine Domäne ist ein Bereich.",
-        "ドメインは領域だ。",
-        "域是一个区域。"
+        "A tortoise is a reptile.",
+        "Eine Schildkröte ist ein Reptil.",
+        "カメは爬虫類だ。",
+        "乌龟是爬行动物。"
       ]
     },
     {
-      "word": "dome",
-      "filename": "dome.md",
+      "word": "toss",
+      "filename": "toss.md",
       "lines": [
-        "A dome is a roof.",
-        "Eine Kuppel ist ein Dach.",
-        "ドームは屋根だ。",
-        "穹顶是一种屋顶。"
+        "A toss is an action.",
+        "Ein Wurf ist eine Handlung.",
+        "投げは動作だ。",
+        "抛是动作。"
       ]
     },
     {
-      "word": "dominating",
-      "filename": "dominating.md",
+      "word": "total",
+      "filename": "total.md",
       "lines": [
-        "Dominating is controlling.",
-        "Dominieren ist Kontrollieren.",
-        "支配することはコントロールだ。",
-        "支配是控制。"
+        "A total is a sum.",
+        "Eine Gesamtsumme ist eine Zahl.",
+        "合計は数だ。",
+        "总数是数字。"
       ]
     },
     {
-      "word": "donkey",
-      "filename": "donkey.md",
+      "word": "totaling",
+      "filename": "totaling.md",
       "lines": [
-        "A donkey is an animal.",
-        "Ein Esel ist ein Tier.",
-        "ロバは動物だ。",
-        "驴是动物。"
+        "Totaling is adding.",
+        "Addieren ist Rechnen.",
+        "合計することは計算だ。",
+        "总计是计算。"
       ]
     },
     {
-      "word": "door",
-      "filename": "door.md",
+      "word": "touch",
+      "filename": "touch.md",
       "lines": [
-        "A door is an opening.",
-        "Eine Tür ist eine Öffnung.",
-        "ドアは開口部だ。",
-        "门是一种开口。"
+        "A touch is an action.",
+        "Eine Berührung ist eine Handlung.",
+        "触ることは動作だ。",
+        "触摸是动作。"
       ]
     },
     {
-      "word": "doorbell",
-      "filename": "doorbell.md",
+      "word": "tough",
+      "filename": "tough.md",
       "lines": [
-        "A doorbell is a device.",
-        "Eine Türklingel ist ein Gerät.",
-        "ドアベルは装置だ。",
-        "门铃是一种装置。"
+        "A tough rock is a stone.",
+        "Ein harter Stein ist ein Gestein.",
+        "硬い岩は石だ。",
+        "坚硬的岩石是石头。"
       ]
     },
     {
-      "word": "doorknob",
-      "filename": "doorknob.md",
+      "word": "tour",
+      "filename": "tour.md",
       "lines": [
-        "A doorknob is a handle.",
-        "Ein Türknauf ist ein Griff.",
-        "ドアノブは取っ手だ。",
-        "门把手是一种把手。"
+        "A tour is a trip.",
+        "Eine Tour ist eine Reise.",
+        "ツアーは旅行だ。",
+        "旅游是旅行。"
       ]
     },
     {
-      "word": "doorstep",
-      "filename": "doorstep.md",
+      "word": "tourist",
+      "filename": "tourist.md",
       "lines": [
-        "A doorstep is a step.",
-        "Eine Türschwelle ist eine Stufe.",
-        "玄関の段は階段の一部だ。",
-        "门阶是一种台阶。"
+        "A tourist is a traveler.",
+        "Ein Tourist ist ein Reisender.",
+        "観光客は旅行者だ。",
+        "游客是旅行者。"
       ]
     },
     {
-      "word": "doorway",
-      "filename": "doorway.md",
+      "word": "tow",
+      "filename": "tow.md",
       "lines": [
-        "A doorway is an entrance.",
-        "Ein Türdurchgang ist ein Eingang.",
-        "戸口は入口だ。",
-        "门口是一种入口。"
+        "A tow is an action.",
+        "Ein Abschleppen ist eine Handlung.",
+        "牽引は動作だ。",
+        "拖是动作。"
       ]
     },
     {
-      "word": "dormant",
-      "filename": "dormant.md",
+      "word": "towel",
+      "filename": "towel.md",
       "lines": [
-        "A dormant volcano is a mountain.",
-        "Ein ruhender Vulkan ist ein Berg.",
-        "休火山は山だ。",
-        "休眠火山是山。"
+        "A towel is a cloth.",
+        "Ein Handtuch ist ein Tuch.",
+        "タオルは布だ。",
+        "毛巾是布。"
       ]
     }
   ],

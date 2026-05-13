@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "common",
-      "filename": "common.md",
+      "word": "spear",
+      "filename": "spear.md",
       "lines": [
-        "A common cold is a disease.",
-        "Eine häufige Erkältung ist eine Krankheit.",
-        "よくある風邪は病気だ。",
-        "普通感冒是一种疾病。"
+        "A spear is a weapon.",
+        "Ein Speer ist eine Waffe.",
+        "槍は武器だ。",
+        "矛是一种武器。"
       ]
     },
     {
-      "word": "communicating",
-      "filename": "communicating.md",
+      "word": "special",
+      "filename": "special.md",
       "lines": [
-        "Communicating is interaction.",
-        "Kommunizieren ist Interaktion.",
-        "コミュニケーションすることは交流だ。",
-        "沟通是互动。"
+        "A special meal is food.",
+        "Ein besonderes Gericht ist eine Speise.",
+        "特別な料理は食べ物だ。",
+        "特别的餐是食物。"
       ]
     },
     {
-      "word": "communication",
-      "filename": "communication.md",
+      "word": "specialized",
+      "filename": "specialized.md",
       "lines": [
-        "Communication is a process.",
-        "Kommunikation ist ein Prozess.",
-        "コミュニケーションはプロセスだ。",
-        "沟通是一个过程。"
+        "A specialized tool is a device.",
+        "Ein spezialisiertes Werkzeug ist ein Gerät.",
+        "専門的な工具は装置だ。",
+        "专门的工具是设备。"
       ]
     },
     {
-      "word": "community",
-      "filename": "community.md",
+      "word": "specific",
+      "filename": "specific.md",
       "lines": [
-        "Community is a group.",
-        "Gemeinschaft ist eine Gruppe.",
-        "コミュニティはグループだ。",
-        "社区是一个群体。"
+        "A specific example is an instance.",
+        "Ein spezifisches Beispiel ist ein Fall.",
+        "具体的な例は事例だ。",
+        "具体的例子是实例。"
       ]
     },
     {
-      "word": "compact",
-      "filename": "compact.md",
+      "word": "specify",
+      "filename": "specify.md",
       "lines": [
-        "A compact car is a vehicle.",
-        "Ein kompaktes Auto ist ein Fahrzeug.",
-        "コンパクトな車は乗り物だ。",
-        "紧凑型汽车是一种车辆。"
+        "Specifying is a process.",
+        "Spezifizieren ist ein Prozess.",
+        "指定することはプロセスだ。",
+        "指定是一个过程。"
       ]
     },
     {
-      "word": "compacting",
-      "filename": "compacting.md",
+      "word": "specifying",
+      "filename": "specifying.md",
       "lines": [
-        "Compacting is compression.",
-        "Verdichten ist Kompression.",
-        "圧縮することは圧縮処理だ。",
-        "压缩是一种处理。"
+        "Specifying is a process.",
+        "Spezifizieren ist ein Prozess.",
+        "指定することはプロセスだ。",
+        "指定是一个过程。"
       ]
     },
     {
-      "word": "comparable",
-      "filename": "comparable.md",
+      "word": "spectrum",
+      "filename": "spectrum.md",
       "lines": [
-        "A comparable house is a building.",
-        "Ein vergleichbares Haus ist ein Gebäude.",
-        "比較可能な家は建物だ。",
-        "可比较的房子是建筑物。"
+        "A spectrum is a range.",
+        "Ein Spektrum ist ein Bereich.",
+        "スペクトルは範囲だ。",
+        "光谱是一种范围。"
       ]
     },
     {
-      "word": "comparative",
-      "filename": "comparative.md",
+      "word": "speculative",
+      "filename": "speculative.md",
       "lines": [
-        "A comparative chart is a diagram.",
-        "Eine vergleichende Tabelle ist ein Diagramm.",
-        "比較チャートは図表だ。",
-        "比较图表是一种图表。"
+        "A speculative claim is a statement.",
+        "Eine spekulative Behauptung ist eine Aussage.",
+        "推測的な主張は声明だ。",
+        "推测性的主张是陈述。"
       ]
     },
     {
-      "word": "compare",
-      "filename": "compare.md",
+      "word": "speech",
+      "filename": "speech.md",
       "lines": [
-        "Comparing is evaluation.",
-        "Vergleichen ist Bewertung.",
-        "比較することは評価だ。",
-        "比较是评估。"
+        "A speech is a talk.",
+        "Eine Rede ist ein Vortrag.",
+        "スピーチは話だ。",
+        "演讲是讲话。"
       ]
     },
     {
-      "word": "comparison",
-      "filename": "comparison.md",
+      "word": "speed",
+      "filename": "speed.md",
       "lines": [
-        "Comparison is an analysis.",
-        "Vergleich ist eine Analyse.",
-        "比較は分析だ。",
-        "比较是一种分析。"
+        "Speed is a rate.",
+        "Geschwindigkeit ist eine Rate.",
+        "速度は割合だ。",
+        "速度是一种速率。"
       ]
     }
   ],

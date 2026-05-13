@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "annoying",
-      "filename": "annoying.md",
+      "word": "push",
+      "filename": "push.md",
       "lines": [
-        "An annoying fly is an insect.",
-        "Eine lästige Fliege ist ein Insekt.",
-        "迷惑なハエは昆虫だ。",
-        "讨厌的苍蝇是昆虫。"
+        "Push is an action.",
+        "Ein Stoß ist eine Aktion.",
+        "プッシュは動作だ。",
+        "推是动作。"
       ]
     },
     {
-      "word": "answer",
-      "filename": "answer.md",
+      "word": "pushy",
+      "filename": "pushy.md",
       "lines": [
-        "An answer is a reply.",
-        "Eine Antwort ist eine Erwiderung.",
-        "答えは返事だ。",
-        "答案是回复。"
+        "A pushy person is an individual.",
+        "Eine aufdringliche Person ist ein Individuum.",
+        "しつこい人は個人です。",
+        "咄咄逼人的人是个体。"
       ]
     },
     {
-      "word": "answering",
-      "filename": "answering.md",
+      "word": "put",
+      "filename": "put.md",
       "lines": [
-        "Answering is a response.",
-        "Antworten ist eine Reaktion.",
-        "答えることは反応だ。",
-        "回答是一种反应。"
+        "Put is an action.",
+        "Platzieren ist eine Handlung.",
+        "置くことは動作だ。",
+        "放置是动作。"
       ]
     },
     {
-      "word": "anthill",
-      "filename": "anthill.md",
+      "word": "putting",
+      "filename": "putting.md",
       "lines": [
-        "An anthill is a nest.",
-        "Ein Ameisenhügel ist ein Nest.",
-        "蟻塚は巣だ。",
-        "蚁丘是巢穴。"
+        "Putting is a process.",
+        "Platzieren ist ein Prozess.",
+        "置くことはプロセスだ。",
+        "放置是过程。"
       ]
     },
     {
-      "word": "anticipating",
-      "filename": "anticipating.md",
+      "word": "puzzle",
+      "filename": "puzzle.md",
       "lines": [
-        "Anticipating is an expectation.",
-        "Voraussehen ist eine Erwartung.",
-        "予測することは期待だ。",
-        "预测是一种期待。"
+        "A puzzle is a game.",
+        "Ein Puzzle ist ein Spiel.",
+        "パズルはゲームだ。",
+        "拼图是游戏。"
       ]
     },
     {
-      "word": "antler",
-      "filename": "antler.md",
+      "word": "quack",
+      "filename": "quack.md",
       "lines": [
-        "An antler is a bone.",
-        "Ein Geweih ist ein Knochen.",
-        "角は骨だ。",
-        "鹿角是骨头。"
+        "A quack is a sound.",
+        "Ein Quaken ist ein Geräusch.",
+        "アヒルの鳴き声は音だ。",
+        "鸭叫声是声音。"
       ]
     },
     {
-      "word": "anymore",
-      "filename": "anymore.md",
+      "word": "qualify",
+      "filename": "qualify.md",
       "lines": [
-        "Anymore is a time adverb.",
-        "Nicht mehr ist ein Zeitadverb.",
-        "もはやは時間副詞だ。",
-        "不再是一个时间副词。"
+        "Qualify is a process.",
+        "Qualifizieren ist ein Prozess.",
+        "資格取得はプロセスだ。",
+        "资格认证是过程。"
       ]
     },
     {
-      "word": "anyone",
-      "filename": "anyone.md",
+      "word": "quality",
+      "filename": "quality.md",
       "lines": [
-        "Anyone is a person.",
-        "Jeder ist eine Person.",
-        "誰でもは人だ。",
-        "任何人都是人。"
+        "Quality is a property.",
+        "Qualität ist eine Eigenschaft.",
+        "品質は特性だ。",
+        "质量是特性。"
       ]
     },
     {
-      "word": "anything",
-      "filename": "anything.md",
+      "word": "quantity",
+      "filename": "quantity.md",
       "lines": [
-        "Anything is an object.",
-        "Alles ist ein Objekt.",
-        "何でもは物だ。",
-        "任何东西都是物体。"
+        "Quantity is a measure.",
+        "Menge ist ein Maß.",
+        "量は尺度だ。",
+        "数量是度量。"
       ]
     },
     {
-      "word": "anywhere",
-      "filename": "anywhere.md",
+      "word": "quantum",
+      "filename": "quantum.md",
       "lines": [
-        "Anywhere is a place.",
-        "Überall ist ein Ort.",
-        "どこでもは場所だ。",
-        "任何地方都是地点。"
+        "A quantum is a unit.",
+        "Ein Quantum ist eine Einheit.",
+        "量子は単位だ。",
+        "量子是单位。"
       ]
     }
   ],

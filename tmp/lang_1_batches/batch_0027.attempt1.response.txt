@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "avoid",
-      "filename": "avoid.md",
+      "word": "reiterating",
+      "filename": "reiterating.md",
       "lines": [
-        "Avoiding is a way to stay safe.",
-        "Vermeiden ist eine Möglichkeit, sicher zu bleiben.",
-        "避けることは安全を保つ方法だ。",
-        "避免是一种保持安全的方式。"
+        "Reiterating is restating.",
+        "Wiederholen ist erneutes Formulieren.",
+        "繰り返すことは言い直すことだ。",
+        "重复是重述。"
       ]
     },
     {
-      "word": "avoidance",
-      "filename": "avoidance.md",
+      "word": "reject",
+      "filename": "reject.md",
       "lines": [
-        "Avoidance is a behavior.",
-        "Vermeidung ist ein Verhalten.",
-        "回避は行動の一種だ。",
-        "回避是一种行为。"
+        "Rejecting is refusal.",
+        "Ablehnen ist Zurückweisung.",
+        "拒否することは反対だ。",
+        "拒绝是一种反对。"
       ]
     },
     {
-      "word": "avoiding",
-      "filename": "avoiding.md",
+      "word": "rejoining",
+      "filename": "rejoining.md",
       "lines": [
-        "Avoiding is a strategy.",
-        "Vermeiden ist eine Strategie.",
-        "避けることは戦略だ。",
-        "避免是一种策略。"
+        "Rejoining is reconnecting.",
+        "Wiederanschließen ist Wiederverbinden.",
+        "再び合流することは再結合だ。",
+        "重新加入是再次连接。"
       ]
     },
     {
-      "word": "awake",
-      "filename": "awake.md",
+      "word": "rejuvenating",
+      "filename": "rejuvenating.md",
       "lines": [
-        "An awake cat is alert.",
-        "Eine wache Katze ist aufmerksam.",
-        "起きている猫は警戒している。",
-        "醒着的猫很警觉。"
+        "Rejuvenating is revitalizing.",
+        "Verjüngen ist Wiederbeleben.",
+        "若返らせることは再生だ。",
+        "恢复活力是重生。"
       ]
     },
     {
-      "word": "aware",
-      "filename": "aware.md",
+      "word": "related",
+      "filename": "related.md",
       "lines": [
-        "An aware person is careful.",
-        "Ein bewusster Mensch ist vorsichtig.",
-        "気づいている人は注意深い。",
-        "有意识的人很小心。"
+        "A related word is a term.",
+        "Ein verwandtes Wort ist ein Begriff.",
+        "関連する言葉は用語だ。",
+        "相关的词是术语。"
       ]
     },
     {
-      "word": "awareness",
-      "filename": "awareness.md",
+      "word": "relating",
+      "filename": "relating.md",
       "lines": [
-        "Awareness is a mental state.",
-        "Bewusstsein ist ein geistiger Zustand.",
-        "気づきは精神状態だ。",
-        "意识是一种心理状态。"
+        "Relating is connecting.",
+        "Verknüpfen ist Verbinden.",
+        "関連付けることは接続だ。",
+        "关联是连接。"
       ]
     },
     {
-      "word": "awful",
-      "filename": "awful.md",
+      "word": "relation",
+      "filename": "relation.md",
       "lines": [
-        "An awful smell is unpleasant.",
-        "Ein schrecklicher Geruch ist unangenehm.",
-        "ひどい匂いは不快だ。",
-        "难闻的气味令人不快。"
+        "A relation is a connection.",
+        "Eine Relation ist eine Verbindung.",
+        "関係はつながりだ。",
+        "关系是连接。"
       ]
     },
     {
-      "word": "awkward",
-      "filename": "awkward.md",
+      "word": "relationship",
+      "filename": "relationship.md",
       "lines": [
-        "An awkward silence is uncomfortable.",
-        "Eine peinliche Stille ist unangenehm.",
-        "気まずい沈黙は不快だ。",
-        "尴尬的沉默令人不舒服。"
+        "A relationship is a bond.",
+        "Eine Beziehung ist eine Bindung.",
+        "関係は絆だ。",
+        "关系是纽带。"
       ]
     },
     {
-      "word": "axe",
-      "filename": "axe.md",
+      "word": "relative",
+      "filename": "relative.md",
       "lines": [
-        "An axe is a tool.",
-        "Eine Axt ist ein Werkzeug.",
-        "斧は道具だ。",
-        "斧头是一种工具。"
+        "A relative is a family member.",
+        "Ein Verwandter ist ein Familienmitglied.",
+        "親族は家族の一員だ。",
+        "亲戚是家庭成员。"
       ]
     },
     {
-      "word": "axle",
-      "filename": "axle.md",
+      "word": "relativism",
+      "filename": "relativism.md",
       "lines": [
-        "An axle is a machine part.",
-        "Eine Achse ist ein Maschinenteil.",
-        "車軸は機械部品だ。",
-        "车轴是一种机械部件。"
+        "Relativism is a philosophy.",
+        "Relativismus ist eine Philosophie.",
+        "相対主義は哲学だ。",
+        "相对主义是一种哲学。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "beam of light",
-      "filename": "beam_of_light.md",
+      "word": "restricting",
+      "filename": "restricting.md",
       "lines": [
-        "A beam of light is a form of light.",
-        "Ein Lichtstrahl ist eine Form von Licht.",
-        "光線は光の一種だ。",
-        "光束是光的一种形式。"
+        "Restricting is a limitation.",
+        "Einschränken ist eine Begrenzung.",
+        "制限することは制約だ。",
+        "限制是一种约束。"
       ]
     },
     {
-      "word": "bean",
-      "filename": "bean.md",
+      "word": "result",
+      "filename": "result.md",
       "lines": [
-        "A bean is a seed.",
-        "Eine Bohne ist ein Samen.",
-        "豆は種子だ。",
-        "豆子是种子。"
+        "A result is an effect.",
+        "Ein Ergebnis ist eine Wirkung.",
+        "結果は効果だ。",
+        "结果是一种效果。"
       ]
     },
     {
-      "word": "bear",
-      "filename": "bear.md",
+      "word": "resurrecting",
+      "filename": "resurrecting.md",
       "lines": [
-        "A bear is an animal.",
-        "Ein Bär ist ein Tier.",
-        "熊は動物だ。",
-        "熊是动物。"
+        "Resurrecting is a revival.",
+        "Auferwecken ist eine Wiederbelebung.",
+        "復活させることは再生だ。",
+        "复活是一种复兴。"
       ]
     },
     {
-      "word": "beard",
-      "filename": "beard.md",
+      "word": "retailing",
+      "filename": "retailing.md",
       "lines": [
-        "A beard is facial hair.",
-        "Ein Bart ist Gesichtshaar.",
-        "ひげは顔の毛だ。",
-        "胡须是面部毛发。"
+        "Retailing is commerce.",
+        "Einzelhandel ist Handel.",
+        "小売りは商業だ。",
+        "零售是商业。"
       ]
     },
     {
-      "word": "beat",
-      "filename": "beat.md",
+      "word": "retaining",
+      "filename": "retaining.md",
       "lines": [
-        "Beating is a movement.",
-        "Schlagen ist eine Bewegung.",
-        "叩くことは動作だ。",
-        "敲打是动作。"
+        "Retaining is keeping.",
+        "Behalten ist Aufbewahren.",
+        "保持することは保存だ。",
+        "保留是保持。"
       ]
     },
     {
-      "word": "beautiful",
-      "filename": "beautiful.md",
+      "word": "retina",
+      "filename": "retina.md",
       "lines": [
-        "A beautiful flower is a plant.",
-        "Eine schöne Blume ist eine Pflanze.",
-        "美しい花は植物だ。",
-        "美丽的花是植物。"
+        "A retina is a body part.",
+        "Eine Netzhaut ist ein Körperteil.",
+        "網膜は体の一部だ。",
+        "视网膜是身体的一部分。"
       ]
     },
     {
-      "word": "beauty",
-      "filename": "beauty.md",
+      "word": "retorting",
+      "filename": "retorting.md",
       "lines": [
-        "Beauty is a quality.",
-        "Schönheit ist eine Eigenschaft.",
-        "美しさは性質だ。",
-        "美丽是一种品质。"
+        "Retorting is responding.",
+        "Erwidern ist Antworten.",
+        "言い返すことは応答だ。",
+        "反驳是回应。"
       ]
     },
     {
-      "word": "beaver",
-      "filename": "beaver.md",
+      "word": "retrieving",
+      "filename": "retrieving.md",
       "lines": [
-        "A beaver is an animal.",
-        "Ein Biber ist ein Tier.",
-        "ビーバーは動物だ。",
-        "河狸是动物。"
+        "Retrieving is fetching.",
+        "Abrufen ist Holen.",
+        "取り出すことは回収だ。",
+        "取回是拿回。"
       ]
     },
     {
-      "word": "became",
-      "filename": "became.md",
+      "word": "return",
+      "filename": "return.md",
       "lines": [
-        "Becoming is a change.",
-        "Werden ist eine Veränderung.",
-        "なることは変化だ。",
-        "变成是一种变化。"
+        "A return is a movement back.",
+        "Eine Rückkehr ist eine Bewegung zurück.",
+        "戻ることは後退だ。",
+        "返回是后退。"
       ]
     },
     {
-      "word": "become",
-      "filename": "become.md",
+      "word": "revealing",
+      "filename": "revealing.md",
       "lines": [
-        "Becoming is a process.",
-        "Werden ist ein Prozess.",
-        "なることは過程だ。",
-        "变成是一个过程。"
+        "Revealing is showing.",
+        "Enthüllen ist Zeigen.",
+        "明らかにすることは表示だ。",
+        "揭示是展示。"
       ]
     }
   ],

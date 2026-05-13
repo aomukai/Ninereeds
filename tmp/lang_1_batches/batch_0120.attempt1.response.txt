@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dense",
-      "filename": "dense.md",
+      "word": "tending",
+      "filename": "tending.md",
       "lines": [
-        "A dense forest is a forest.",
-        "Ein dichter Wald ist ein Wald.",
-        "密な森は森だ。",
-        "茂密的森林是森林。"
+        "Tending is an activity.",
+        "Pflegen ist eine Tätigkeit.",
+        "世話は活動だ。",
+        "照料是一种活动。"
       ]
     },
     {
-      "word": "dent",
-      "filename": "dent.md",
+      "word": "tense",
+      "filename": "tense.md",
       "lines": [
-        "A dent is a mark.",
-        "Eine Delle ist eine Markierung.",
-        "へこみは跡だ。",
-        "凹痕是痕迹。"
+        "A tense rope is a rope.",
+        "Ein gespanntes Seil ist ein Seil.",
+        "張ったロープはロープだ。",
+        "紧绷的绳子是绳子。"
       ]
     },
     {
-      "word": "denying",
-      "filename": "denying.md",
+      "word": "tension",
+      "filename": "tension.md",
       "lines": [
-        "Denying is refusing.",
-        "Leugnen ist Verweigern.",
-        "否定することは拒否することだ。",
-        "否认是拒绝。"
+        "Tension is a force.",
+        "Spannung ist eine Kraft.",
+        "張力は力だ。",
+        "张力是一种力。"
       ]
     },
     {
-      "word": "departing",
-      "filename": "departing.md",
+      "word": "tent",
+      "filename": "tent.md",
       "lines": [
-        "Departing is leaving.",
-        "Abreisen ist Verlassen.",
-        "出発することは去ることだ。",
-        "离开是出发。"
+        "A tent is a shelter.",
+        "Ein Zelt ist eine Unterkunft.",
+        "テントは避難所だ。",
+        "帐篷是一种住所。"
       ]
     },
     {
-      "word": "department",
-      "filename": "department.md",
+      "word": "tentacle",
+      "filename": "tentacle.md",
       "lines": [
-        "A department is a division.",
-        "Eine Abteilung ist eine Einheit.",
-        "部署は区分だ。",
-        "部门是分部。"
+        "A tentacle is a body part.",
+        "Ein Tentakel ist ein Körperteil.",
+        "触手は体の一部だ。",
+        "触手是身体的一部分。"
       ]
     },
     {
-      "word": "depend",
-      "filename": "depend.md",
+      "word": "tentative",
+      "filename": "tentative.md",
       "lines": [
-        "Depending is relying.",
-        "Abhängen ist Angewiesensein.",
-        "頼ることは依存することだ。",
-        "依靠是依赖。"
+        "A tentative plan is a plan.",
+        "Ein vorläufiger Plan ist ein Plan.",
+        "仮の計画は計画だ。",
+        "暂定的计划是计划。"
       ]
     },
     {
-      "word": "dependable",
-      "filename": "dependable.md",
+      "word": "term",
+      "filename": "term.md",
       "lines": [
-        "A dependable friend is a friend.",
-        "Ein verlässlicher Freund ist ein Freund.",
-        "信頼できる友人は友人だ。",
-        "可靠的朋友是朋友。"
+        "A term is a word.",
+        "Ein Terminus ist ein Wort.",
+        "用語は単語だ。",
+        "术语是一个词。"
       ]
     },
     {
-      "word": "dependence",
-      "filename": "dependence.md",
+      "word": "terminating",
+      "filename": "terminating.md",
       "lines": [
-        "Dependence is a state.",
-        "Abhängigkeit ist ein Zustand.",
-        "依存は状態だ。",
-        "依赖是一种状态。"
+        "Terminating is an ending.",
+        "Beenden ist ein Ende.",
+        "終了は終わりだ。",
+        "终止是结束。"
       ]
     },
     {
-      "word": "depending",
-      "filename": "depending.md",
+      "word": "terrible",
+      "filename": "terrible.md",
       "lines": [
-        "Depending is a condition.",
-        "Abhängigsein ist eine Bedingung.",
-        "次第であることは条件だ。",
-        "取决于是一种条件。"
+        "A terrible storm is a storm.",
+        "Ein schrecklicher Sturm ist ein Sturm.",
+        "恐ろしい嵐は嵐だ。",
+        "可怕的暴风雨是暴风雨。"
       ]
     },
     {
-      "word": "deploying",
-      "filename": "deploying.md",
+      "word": "territory",
+      "filename": "territory.md",
       "lines": [
-        "Deploying is positioning.",
-        "Einsetzen ist Positionieren.",
-        "展開することは配置することだ。",
-        "部署是配置。"
+        "A territory is a region.",
+        "Ein Territorium ist eine Region.",
+        "領土は地域だ。",
+        "领土是一个地区。"
       ]
     }
   ],

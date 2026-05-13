@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "exposing",
-      "filename": "exposing.md",
+      "word": "vacuuming",
+      "filename": "vacuuming.md",
       "lines": [
-        "Exposing is revealing.",
-        "Enthüllen ist Offenbarung.",
-        "さらすことは明らかにすることだ。",
-        "暴露是揭示。"
+        "Vacuuming is cleaning.",
+        "Staubsaugen ist Reinigung.",
+        "掃除機をかけることは掃除だ。",
+        "吸尘是清洁。"
       ]
     },
     {
-      "word": "exposure",
-      "filename": "exposure.md",
+      "word": "vague",
+      "filename": "vague.md",
       "lines": [
-        "Exposure is a condition.",
-        "Exposition ist ein Zustand.",
-        "露出は状態だ。",
-        "暴露是一种状态。"
+        "A vague drawing is a picture.",
+        "Eine vage Zeichnung ist ein Bild.",
+        "曖昧なデッサンは絵だ。",
+        "模糊的图画是图片。"
       ]
     },
     {
-      "word": "expressing",
-      "filename": "expressing.md",
+      "word": "valid",
+      "filename": "valid.md",
       "lines": [
-        "Expressing is communication.",
-        "Ausdrücken ist Kommunikation.",
-        "表現することは伝達だ。",
-        "表达是传达。"
+        "A valid ticket is a pass.",
+        "Ein gültiges Ticket ist ein Dokument.",
+        "有効なチケットは書類だ。",
+        "有效的票是凭证。"
       ]
     },
     {
-      "word": "extending",
-      "filename": "extending.md",
+      "word": "validating",
+      "filename": "validating.md",
       "lines": [
-        "Extending is expansion.",
-        "Erweitern ist Ausdehnung.",
-        "拡張は拡大だ。",
-        "扩展是扩大。"
+        "Validating is verification.",
+        "Validieren ist Verifikation.",
+        "検証することは確認だ。",
+        "验证是核实。"
       ]
     },
     {
-      "word": "extension",
-      "filename": "extension.md",
+      "word": "validity",
+      "filename": "validity.md",
       "lines": [
-        "Extension is an addition.",
-        "Erweiterung ist eine Hinzufügung.",
-        "拡張は追加だ。",
-        "扩展是一种添加。"
+        "Validity is a quality.",
+        "Gültigkeit ist eine Eigenschaft.",
+        "有効性は性質だ。",
+        "有效性是性质。"
       ]
     },
     {
-      "word": "extra",
-      "filename": "extra.md",
+      "word": "valley",
+      "filename": "valley.md",
       "lines": [
-        "Extra sugar is a sweetener.",
-        "Extra Zucker ist ein Süßungsmittel.",
-        "余分な砂糖は甘味料だ。",
-        "额外的糖是甜味剂。"
+        "A valley is a landform.",
+        "Ein Tal ist eine Landform.",
+        "谷は地形だ。",
+        "山谷是地形。"
       ]
     },
     {
-      "word": "extract",
-      "filename": "extract.md",
+      "word": "valuable",
+      "filename": "valuable.md",
       "lines": [
-        "Extract is a concentrate.",
-        "Extrakt ist ein Konzentrat.",
-        "抽出物は濃縮物だ。",
-        "提取物是浓缩物。"
+        "A valuable ring is a jewel.",
+        "Ein wertvoller Ring ist ein Schmuckstück.",
+        "貴重な指輪は宝石だ。",
+        "珍贵的戒指是珠宝。"
       ]
     },
     {
-      "word": "extracted",
-      "filename": "extracted.md",
+      "word": "value",
+      "filename": "value.md",
       "lines": [
-        "Extracted oil is a liquid.",
-        "Extrahiertes Öl ist eine Flüssigkeit.",
-        "抽出された油は液体だ。",
-        "提取的油是液体。"
+        "A value is a quantity.",
+        "Ein Wert ist eine Größe.",
+        "数値は量だ。",
+        "数值是量。"
       ]
     },
     {
-      "word": "extracting",
-      "filename": "extracting.md",
+      "word": "valve",
+      "filename": "valve.md",
       "lines": [
-        "Extracting is separation.",
-        "Extrahieren ist Trennung.",
-        "抽出は分離だ。",
-        "提取是分离。"
+        "A valve is a device.",
+        "Ein Ventil ist ein Gerät.",
+        "バルブは装置だ。",
+        "阀门是装置。"
       ]
     },
     {
-      "word": "exuding",
-      "filename": "exuding.md",
+      "word": "van",
+      "filename": "van.md",
       "lines": [
-        "Exuding is emission.",
-        "Ausströmen ist Emission.",
-        "滲出は放出だ。",
-        "渗出是释放。"
+        "A van is a vehicle.",
+        "Ein Van ist ein Fahrzeug.",
+        "バンは車両だ。",
+        "面包车是车辆。"
       ]
     }
   ],

@@ -16,8 +16,10 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 ALLOWLIST = REPO_ROOT / "training_data" / "allowlist.txt"
+MISMATCH = REPO_ROOT / "training_data" / "mismatch.txt"
+PROMPT_FILE = REPO_ROOT / "training_data" / "prompt.md"
 OUT_DIR = REPO_ROOT / "training_data" / "lang" / "lang_1"
-LEDGER = REPO_ROOT / "meta" / "ledgers" / "lang_1_progress.txt"
+LEDGER = OUT_DIR / "backfill_progress.txt"
 TMP_DIR = REPO_ROOT / "tmp" / "lang_1_batches"
 AUTH_FILE = Path.home() / ".local" / "share" / "opencode" / "auth.json"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -42,6 +44,14 @@ def load_allowlist() -> list[str]:
     return [line.strip() for line in ALLOWLIST.read_text(encoding="utf-8").splitlines() if line.strip()]
 
 
+def load_targets() -> list[str]:
+    return [line.strip() for line in MISMATCH.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+
+def load_prompt_template() -> str:
+    return PROMPT_FILE.read_text(encoding="utf-8").strip()
+
+
 def valid_output_file(path: Path) -> bool:
     try:
         lines = path.read_text(encoding="utf-8").splitlines()
@@ -55,6 +65,8 @@ def bootstrap_ledger(words: list[str]) -> list[str]:
     seen: list[str] = []
     known = set(words)
     for path in existing:
+        if path.name == LEDGER.name:
+            continue
         word = path.stem.replace("_", " ")
         if word in known and valid_output_file(path):
             seen.append(word)
@@ -108,106 +120,12 @@ def json_schema_hint() -> str:
 }"""
 
 
-def build_prompt(targets: list[str]) -> str:
+def build_prompt(targets: list[str], prompt_template: str) -> str:
     bullets = "\n".join(f"- {word}" for word in targets)
-    return f"""TASK:
-Read training_data/allowlist.txt.
+    return f"""{prompt_template}
 
-Create simple multilingual grounding files for exactly this batch of words:
+CURRENT BATCH TARGETS:
 {bullets}
-
-Output directory:
-training_data/lang/lang_1/
-
-Create one file for every content word in this batch.
-
-Each word must appear exactly once as the primary concept X of its own file.
-
-Output format:
-training_data/lang/lang_1/X.md
-
-where X is the English concept word.
-
-File format:
-Line 1: English sentence
-Line 2: natural/localized German
-Line 3: natural/localized Japanese
-Line 4: natural/localized Chinese
-
-The lines are localisations, not literal translations.
-Preserve meaning naturally in each language.
-Use natural native phrasing.
-Do not force English sentence structure onto other languages.
-
-Use the following templates based on part of speech.
-
---------------------------------
-NOUN TEMPLATE
---------------------------------
-
-Example:
-A dog is an animal.
-Ein Hund ist ein Tier.
-犬は動物だ。
-狗是动物。
-
-Rules:
-- X is a noun.
-- Use simple category/classification relationships.
-- Y should be a broader category of X.
-- Prefer concrete concepts.
-
---------------------------------
-VERB TEMPLATE
---------------------------------
-
-Example:
-Running is movement.
-Laufen ist Bewegung.
-走ることは移動だ。
-跑步是移动。
-
-Rules:
-- X is a verb.
-- English must use the gerund form.
-- German should use the infinitive nominally.
-- Japanese and Chinese should use natural action-concept phrasing.
-- Y should describe the action category or function.
-
---------------------------------
-ADJECTIVE TEMPLATE
---------------------------------
-
-Example:
-A red apple is a fruit.
-Ein roter Apfel ist eine Frucht.
-赤いりんごは果物だ。
-红苹果是水果。
-
-Rules:
-- X is an adjective.
-- Use X naturally as an attribute of a concrete noun.
-- Use a simple concrete noun.
-- Keep the sentence short and easy.
-- Avoid metaphorical or abstract usage.
-
---------------------------------
-GLOBAL RULES
---------------------------------
-
-- Use only content words from training_data/allowlist.txt.
-- Grammar/function words are allowed even if not present in allowlist.txt.
-- Every target word in this batch must appear once as concept X.
-- Do not skip any target word in this batch.
-- English and German must use correct articles where required.
-- Use natural everyday language.
-- Each file must contain exactly 4 lines.
-- Use lowercase filenames.
-- Replace spaces in filenames with underscores.
-- Keep hyphens in filenames when the word already contains hyphens.
-- Avoid duplicate files.
-- Do not include markdown fences.
-- Return JSON only.
 
 Return exactly one JSON object in this schema:
 {json_schema_hint()}
@@ -340,7 +258,9 @@ def main() -> int:
     args = parser.parse_args()
 
     ensure_paths()
-    all_words = load_allowlist()
+    load_allowlist()
+    all_words = load_targets()
+    prompt_template = load_prompt_template()
     completed = bootstrap_ledger(all_words)
     done = set(completed)
     targets = pending_words(all_words, done)[: args.batch_size]
@@ -352,7 +272,7 @@ def main() -> int:
         return 0
 
     batch_id = len(completed) // max(args.batch_size, 1) + 1
-    prompt = build_prompt(targets)
+    prompt = build_prompt(targets, prompt_template)
     attempts = [args.max_tokens]
     if args.retry_max_tokens not in attempts:
         attempts.append(args.retry_max_tokens)

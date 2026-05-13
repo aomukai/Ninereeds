@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bendable",
-      "filename": "bendable.md",
+      "word": "risky",
+      "filename": "risky.md",
       "lines": [
-        "A bendable straw is a tube.",
-        "Ein biegsamer Strohhalm ist ein Rohr.",
-        "曲がるストローは管だ。",
-        "可弯曲的吸管是管子。"
+        "A risky activity is a behavior.",
+        "Eine riskante Aktivität ist ein Verhalten.",
+        "危険な活動は行動だ。",
+        "冒险的活动是行为。"
       ]
     },
     {
-      "word": "bending",
-      "filename": "bending.md",
+      "word": "rivaling",
+      "filename": "rivaling.md",
       "lines": [
-        "Bending is deformation.",
-        "Biegen ist Verformung.",
-        "曲げることは変形だ。",
-        "弯曲是变形。"
+        "Rivaling is competition.",
+        "Rivalisieren ist Wettbewerb.",
+        "競い合うことは競争だ。",
+        "竞争是竞赛。"
       ]
     },
     {
-      "word": "benefit",
-      "filename": "benefit.md",
+      "word": "river",
+      "filename": "river.md",
       "lines": [
-        "A benefit is an advantage.",
-        "Ein Vorteil ist ein Nutzen.",
-        "利益は利点だ。",
-        "好处是优势。"
+        "A river is a body of water.",
+        "Ein Fluss ist ein Gewässer.",
+        "川は水域だ。",
+        "河流是水体。"
       ]
     },
     {
-      "word": "bent",
-      "filename": "bent.md",
+      "word": "rivet",
+      "filename": "rivet.md",
       "lines": [
-        "A bent nail is a fastener.",
-        "Ein gebogener Nagel ist ein Befestigungsmittel.",
-        "曲がった釘は留め具だ。",
-        "弯曲的钉子是一种紧固件。"
+        "A rivet is a fastener.",
+        "Eine Niete ist ein Verbindungselement.",
+        "リベットは留め具だ。",
+        "铆钉是紧固件。"
       ]
     },
     {
-      "word": "berry",
-      "filename": "berry.md",
+      "word": "road",
+      "filename": "road.md",
       "lines": [
-        "A berry is a fruit.",
-        "Eine Beere ist eine Frucht.",
-        "ベリーは果物だ。",
-        "浆果是水果。"
+        "A road is a path.",
+        "Eine Straße ist ein Weg.",
+        "道路は道だ。",
+        "道路是通道。"
       ]
     },
     {
-      "word": "best",
-      "filename": "best.md",
+      "word": "roar",
+      "filename": "roar.md",
       "lines": [
-        "A best friend is a person.",
-        "Ein bester Freund ist eine Person.",
-        "最高の友達は人だ。",
-        "最好的朋友是人。"
+        "A roar is a sound.",
+        "Ein Brüllen ist ein Geräusch.",
+        "咆哮は音だ。",
+        "吼声是声音。"
       ]
     },
     {
-      "word": "betrayal",
-      "filename": "betrayal.md",
+      "word": "roast",
+      "filename": "roast.md",
       "lines": [
-        "A betrayal is a treachery.",
-        "Ein Verrat ist ein Treuebruch.",
-        "裏切りは背信だ。",
-        "背叛是背信。"
+        "A roast is a dish.",
+        "Ein Braten ist ein Gericht.",
+        "ローストは料理だ。",
+        "烤肉是菜肴。"
       ]
     },
     {
-      "word": "better",
-      "filename": "better.md",
+      "word": "robbing",
+      "filename": "robbing.md",
       "lines": [
-        "A better tool is a device.",
-        "Ein besseres Werkzeug ist ein Gerät.",
-        "より良い道具は装置だ。",
-        "更好的工具是设备。"
+        "Robbing is theft.",
+        "Rauben ist Diebstahl.",
+        "強奪は窃盗だ。",
+        "抢劫是盗窃。"
       ]
     },
     {
-      "word": "bettering",
-      "filename": "bettering.md",
+      "word": "robe",
+      "filename": "robe.md",
       "lines": [
-        "Bettering is improvement.",
-        "Verbessern ist Verbesserung.",
-        "改善することは向上だ。",
-        "改善是进步。"
+        "A robe is a garment.",
+        "Eine Robe ist ein Kleidungsstück.",
+        "ローブは衣服だ。",
+        "袍子是服装。"
       ]
     },
     {
-      "word": "bias",
-      "filename": "bias.md",
+      "word": "robin",
+      "filename": "robin.md",
       "lines": [
-        "A bias is a prejudice.",
-        "Eine Voreingenommenheit ist ein Vorurteil.",
-        "偏見は先入観だ。",
-        "偏见是成见。"
+        "A robin is a bird.",
+        "Ein Rotkehlchen ist ein Vogel.",
+        "ロビンは鳥だ。",
+        "知更鸟是鸟。"
       ]
     }
   ],

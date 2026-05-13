@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "foot",
-      "filename": "foot.md",
+      "word": "wide",
+      "filename": "wide.md",
       "lines": [
-        "A foot is a body part.",
-        "Ein Fuß ist ein Körperteil.",
-        "足は体の一部だ。",
-        "脚是身体的一部分。"
+        "A wide river is a body of water.",
+        "Ein breiter Fluss ist ein Gewässer.",
+        "広い川は水域だ。",
+        "宽的河流是水体。"
       ]
     },
     {
-      "word": "footboard",
-      "filename": "footboard.md",
+      "word": "widening",
+      "filename": "widening.md",
       "lines": [
-        "A footboard is a board.",
-        "Ein Fußbrett ist ein Brett.",
-        "フットボードは板だ。",
-        "脚板是板子。"
+        "Widening is a process.",
+        "Verbreitern ist ein Prozess.",
+        "広げることは過程だ。",
+        "拓宽是一个过程。"
       ]
     },
     {
-      "word": "footprint",
-      "filename": "footprint.md",
+      "word": "widespread",
+      "filename": "widespread.md",
       "lines": [
-        "A footprint is a mark.",
-        "Ein Fußabdruck ist ein Abdruck.",
-        "足跡は印だ。",
-        "脚印是印记。"
+        "A widespread weed is a plant.",
+        "Ein weit verbreitetes Unkraut ist eine Pflanze.",
+        "広く分布する雑草は植物だ。",
+        "广泛分布的杂草是植物。"
       ]
     },
     {
-      "word": "footrest",
-      "filename": "footrest.md",
+      "word": "width",
+      "filename": "width.md",
       "lines": [
-        "A footrest is a support.",
-        "Eine Fußstütze ist eine Stütze.",
-        "フットレストは支えだ。",
-        "脚凳是支撑物。"
+        "Width is a dimension.",
+        "Breite ist eine Dimension.",
+        "幅は寸法だ。",
+        "宽度是尺寸。"
       ]
     },
     {
-      "word": "footstep",
-      "filename": "footstep.md",
+      "word": "wife",
+      "filename": "wife.md",
       "lines": [
-        "A footstep is a sound.",
-        "Ein Fußschritt ist ein Geräusch.",
-        "足音は音だ。",
-        "脚步声是声音。"
+        "A wife is a woman.",
+        "Eine Ehefrau ist eine Frau.",
+        "妻は女性だ。",
+        "妻子是女性。"
       ]
     },
     {
-      "word": "force",
-      "filename": "force.md",
+      "word": "wiggle",
+      "filename": "wiggle.md",
       "lines": [
-        "Force is power.",
-        "Kraft ist Stärke.",
-        "力は強さだ。",
-        "力是力量。"
+        "Wiggling is movement.",
+        "Wackeln ist Bewegung.",
+        "くねくね動くことは動きだ。",
+        "扭动是移动。"
       ]
     },
     {
-      "word": "forecaster",
-      "filename": "forecaster.md",
+      "word": "wiggly",
+      "filename": "wiggly.md",
       "lines": [
-        "A forecaster is a person.",
-        "Ein Prognostiker ist eine Person.",
-        "予報士は人だ。",
-        "预报员是人。"
+        "A wiggly worm is an animal.",
+        "Ein wackeliger Wurm ist ein Tier.",
+        "くねくねしたミミズは動物だ。",
+        "扭动的蠕虫是动物。"
       ]
     },
     {
-      "word": "forecasting",
-      "filename": "forecasting.md",
+      "word": "wiki",
+      "filename": "wiki.md",
       "lines": [
-        "Forecasting is prediction.",
-        "Vorhersagen ist Prognose.",
-        "予測は予想だ。",
-        "预报是预测。"
+        "A wiki is a website.",
+        "Ein Wiki ist eine Website.",
+        "ウィキはウェブサイトだ。",
+        "维基是网站。"
       ]
     },
     {
-      "word": "forehead",
-      "filename": "forehead.md",
+      "word": "wild",
+      "filename": "wild.md",
       "lines": [
-        "A forehead is a part of the face.",
-        "Eine Stirn ist ein Teil des Gesichts.",
-        "額は顔の一部だ。",
-        "额头是脸的一部分。"
+        "A wild rose is a flower.",
+        "Eine wilde Rose ist eine Blume.",
+        "野生のバラは花だ。",
+        "野玫瑰是花。"
       ]
     },
     {
-      "word": "foreseeing",
-      "filename": "foreseeing.md",
+      "word": "wildflower",
+      "filename": "wildflower.md",
       "lines": [
-        "Foreseeing is anticipation.",
-        "Vorhersehen ist Voraussicht.",
-        "予見は先見だ。",
-        "预见是预知。"
+        "A wildflower is a flower.",
+        "Eine Wildblume ist eine Blume.",
+        "野花は花だ。",
+        "野花是花。"
       ]
     }
   ],

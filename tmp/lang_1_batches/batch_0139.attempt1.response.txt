@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dump",
-      "filename": "dump.md",
+      "word": "trim",
+      "filename": "trim.md",
       "lines": [
-        "Dumping is an action.",
-        "Entsorgen ist eine Handlung.",
-        "捨てることは行動だ。",
-        "丢弃是一种行动。"
+        "A trim is a haircut.",
+        "Ein Trim ist ein Haarschnitt.",
+        "トリムは散髪だ。",
+        "修整是剪发。"
       ]
     },
     {
-      "word": "duplicate",
-      "filename": "duplicate.md",
+      "word": "trip",
+      "filename": "trip.md",
       "lines": [
-        "A duplicate is a copy.",
-        "Ein Duplikat ist eine Kopie.",
-        "複製はコピーだ。",
-        "副本是复制品。"
+        "A trip is a journey.",
+        "Eine Reise ist ein Ausflug.",
+        "旅行は旅だ。",
+        "旅行是旅程。"
       ]
     },
     {
-      "word": "duplicating",
-      "filename": "duplicating.md",
+      "word": "triple",
+      "filename": "triple.md",
       "lines": [
-        "Duplicating is copying.",
-        "Vervielfältigen ist Kopieren.",
-        "複製することはコピーすることだ。",
-        "复制是复制。"
+        "A triple room is a room.",
+        "Ein Dreibettzimmer ist ein Zimmer.",
+        "トリプルルームは部屋だ。",
+        "三人间是房间。"
       ]
     },
     {
-      "word": "duration",
-      "filename": "duration.md",
+      "word": "triplet",
+      "filename": "triplet.md",
       "lines": [
-        "Duration is time.",
-        "Dauer ist Zeit.",
-        "持続時間は時間だ。",
-        "持续时间是时间。"
+        "A triplet is a baby.",
+        "Ein Drilling ist ein Baby.",
+        "三つ子は赤ちゃんだ。",
+        "三胞胎是婴儿。"
       ]
     },
     {
-      "word": "dust",
-      "filename": "dust.md",
+      "word": "tripping",
+      "filename": "tripping.md",
       "lines": [
-        "Dust is a substance.",
-        "Staub ist eine Substanz.",
-        "ほこりは物質だ。",
-        "灰尘是一种物质。"
+        "Tripping is falling.",
+        "Stolpern ist ein Fall.",
+        "つまずくことは転ぶことだ。",
+        "绊倒是跌倒。"
       ]
     },
     {
-      "word": "dustpan",
-      "filename": "dustpan.md",
+      "word": "trivial",
+      "filename": "trivial.md",
       "lines": [
-        "A dustpan is a tool.",
-        "Eine Kehrschaufel ist ein Werkzeug.",
-        "ちりとりは道具だ。",
-        "簸箕是一种工具。"
+        "A trivial problem is a problem.",
+        "Ein triviales Problem ist ein Problem.",
+        "些細な問題は問題だ。",
+        "琐碎的问题是问题。"
       ]
     },
     {
-      "word": "dusty",
-      "filename": "dusty.md",
+      "word": "troll",
+      "filename": "troll.md",
       "lines": [
-        "A dusty car is a vehicle.",
-        "Ein staubiges Auto ist ein Fahrzeug.",
-        "ほこりっぽい車は乗り物だ。",
-        "布满灰尘的汽车是车辆。"
+        "A troll is a monster.",
+        "Ein Troll ist ein Monster.",
+        "トロルは怪物だ。",
+        "巨魔是怪物。"
       ]
     },
     {
-      "word": "duty",
-      "filename": "duty.md",
+      "word": "trophy",
+      "filename": "trophy.md",
       "lines": [
-        "Duty is a task.",
-        "Pflicht ist eine Aufgabe.",
-        "義務は任務だ。",
-        "职责是任务。"
+        "A trophy is a prize.",
+        "Eine Trophäe ist ein Preis.",
+        "トロフィーは賞品だ。",
+        "奖杯是奖品。"
       ]
     },
     {
-      "word": "dynamic",
-      "filename": "dynamic.md",
+      "word": "trot",
+      "filename": "trot.md",
       "lines": [
-        "A dynamic leader is a person.",
-        "Ein dynamischer Leiter ist eine Person.",
-        "活力のあるリーダーは人だ。",
-        "充满活力的领导是一个人。"
+        "A trot is a run.",
+        "Ein Trott ist ein Lauf.",
+        "速歩は走ることだ。",
+        "小跑是跑步。"
       ]
     },
     {
-      "word": "eager",
-      "filename": "eager.md",
+      "word": "trouble",
+      "filename": "trouble.md",
       "lines": [
-        "An eager dog is an animal.",
-        "Ein eifriger Hund ist ein Tier.",
-        "熱心な犬は動物だ。",
-        "热切的狗是动物。"
+        "Trouble is a problem.",
+        "Trouble ist ein Problem.",
+        "トラブルは問題だ。",
+        "麻烦是问题。"
       ]
     }
   ],

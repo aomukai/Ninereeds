@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "expanded",
-      "filename": "expanded.md",
+      "word": "upstairs",
+      "filename": "upstairs.md",
       "lines": [
-        "An expanded balloon is a toy.",
-        "Ein aufgeblasener Ballon ist ein Spielzeug.",
-        "膨らんだ風船はおもちゃだ。",
-        "膨胀的气球是玩具。"
+        "Upstairs is a floor.",
+        "Das Obergeschoss ist eine Etage.",
+        "上階は階だ。",
+        "楼上是一层楼。"
       ]
     },
     {
-      "word": "expanding",
-      "filename": "expanding.md",
+      "word": "upstander",
+      "filename": "upstander.md",
       "lines": [
-        "An expanding balloon is a toy.",
-        "Ein expandierender Ballon ist ein Spielzeug.",
-        "膨らんでいる風船はおもちゃだ。",
-        "正在膨胀的气球是玩具。"
+        "An upstander is a person.",
+        "Ein Upstander ist eine Person.",
+        "アップスタンダーは人だ。",
+        "一个upstander是一个人。"
       ]
     },
     {
-      "word": "expansion",
-      "filename": "expansion.md",
+      "word": "urgent",
+      "filename": "urgent.md",
       "lines": [
-        "Expansion is growth.",
-        "Expansion ist Wachstum.",
-        "拡大は成長だ。",
-        "扩张是增长。"
+        "An urgent message is a message.",
+        "Eine dringende Nachricht ist eine Nachricht.",
+        "緊急のメッセージはメッセージだ。",
+        "紧急的消息是消息。"
       ]
     },
     {
-      "word": "expansive",
-      "filename": "expansive.md",
+      "word": "urging",
+      "filename": "urging.md",
       "lines": [
-        "An expansive desert is a landscape.",
-        "Eine ausgedehnte Wüste ist eine Landschaft.",
-        "広大な砂漠は風景だ。",
-        "广阔的沙漠是风景。"
+        "Urging is an action.",
+        "Drängen ist eine Handlung.",
+        "促すことは行動だ。",
+        "敦促是一种行为。"
       ]
     },
     {
-      "word": "expect",
-      "filename": "expect.md",
+      "word": "usable",
+      "filename": "usable.md",
       "lines": [
-        "Expecting is anticipation.",
-        "Erwarten ist Vorfreude.",
-        "期待することは予感だ。",
-        "期待是预感。"
+        "A usable item is an item.",
+        "Ein brauchbarer Gegenstand ist ein Gegenstand.",
+        "使えるアイテムはアイテムだ。",
+        "可用的物品是物品。"
       ]
     },
     {
-      "word": "expectation",
-      "filename": "expectation.md",
+      "word": "use",
+      "filename": "use.md",
       "lines": [
-        "Expectation is a belief.",
-        "Erwartung ist ein Glaube.",
-        "期待は信念だ。",
-        "期望是一种信念。"
+        "Use is an action.",
+        "Die Nutzung ist eine Handlung.",
+        "使用は行動だ。",
+        "使用是一种行为。"
       ]
     },
     {
-      "word": "expected",
-      "filename": "expected.md",
+      "word": "used",
+      "filename": "used.md",
       "lines": [
-        "An expected visitor is a guest.",
-        "Ein erwarteter Besucher ist ein Gast.",
-        "期待された訪問者は客だ。",
-        "预期的访客是客人。"
+        "A used book is a book.",
+        "Ein gebrauchtes Buch ist ein Buch.",
+        "中古の本は本だ。",
+        "二手书是书。"
       ]
     },
     {
-      "word": "expecting",
-      "filename": "expecting.md",
+      "word": "useful",
+      "filename": "useful.md",
       "lines": [
-        "An expecting mother is a woman.",
-        "Eine schwangere Mutter ist eine Frau.",
-        "妊娠中の母親は女性だ。",
-        "怀孕的母亲是女性。"
+        "A useful tool is a tool.",
+        "Ein nützliches Werkzeug ist ein Werkzeug.",
+        "便利な道具は道具だ。",
+        "有用的工具是工具。"
       ]
     },
     {
-      "word": "experience",
-      "filename": "experience.md",
+      "word": "usefulness",
+      "filename": "usefulness.md",
       "lines": [
-        "Experience is knowledge.",
-        "Erfahrung ist Wissen.",
-        "経験は知識だ。",
-        "经验是知识。"
+        "Usefulness is a quality.",
+        "Nützlichkeit ist eine Eigenschaft.",
+        "有用性は性質だ。",
+        "有用性是一种品质。"
       ]
     },
     {
-      "word": "experiential",
-      "filename": "experiential.md",
+      "word": "useless",
+      "filename": "useless.md",
       "lines": [
-        "An experiential museum is an attraction.",
-        "Ein erlebnisorientiertes Museum ist eine Attraktion.",
-        "体験型博物館はアトラクションだ。",
-        "体验式博物馆是景点。"
+        "A useless tool is a tool.",
+        "Ein nutzloses Werkzeug ist ein Werkzeug.",
+        "役に立たない道具は道具だ。",
+        "无用的工具是工具。"
       ]
     }
   ],

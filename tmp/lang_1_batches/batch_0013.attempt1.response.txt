@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "amazement",
-      "filename": "amazement.md",
+      "word": "pull",
+      "filename": "pull.md",
       "lines": [
-        "Amazement is an emotion.",
-        "Erstaunen ist eine Emotion.",
-        "驚きは感情だ。",
-        "惊讶是一种情感。"
+        "Pulling is an action.",
+        "Ziehen ist eine Handlung.",
+        "引くことは動作だ。",
+        "拉是一种动作。"
       ]
     },
     {
-      "word": "amazing",
-      "filename": "amazing.md",
+      "word": "pulley",
+      "filename": "pulley.md",
       "lines": [
-        "An amazing flower is a plant.",
-        "Eine erstaunliche Blume ist eine Pflanze.",
-        "素晴らしい花は植物だ。",
-        "令人惊叹的花是植物。"
+        "A pulley is a simple machine.",
+        "Eine Umlenkrolle ist eine einfache Maschine.",
+        "滑車は単純機械だ。",
+        "滑轮是一种简单机械。"
       ]
     },
     {
-      "word": "amending",
-      "filename": "amending.md",
+      "word": "pulse",
+      "filename": "pulse.md",
       "lines": [
-        "Amending is correcting.",
-        "Ändern ist Korrigieren.",
-        "修正することは訂正だ。",
-        "修正是纠正。"
+        "A pulse is a beat.",
+        "Ein Puls ist ein Schlag.",
+        "脈は拍動だ。",
+        "脉搏是跳动。"
       ]
     },
     {
-      "word": "amount",
-      "filename": "amount.md",
+      "word": "pump",
+      "filename": "pump.md",
       "lines": [
-        "An amount is a value.",
-        "Ein Betrag ist ein Wert.",
-        "量は値だ。",
-        "数量是一个值。"
+        "A pump is a device.",
+        "Eine Pumpe ist ein Gerät.",
+        "ポンプは装置だ。",
+        "泵是一种设备。"
       ]
     },
     {
-      "word": "amputating",
-      "filename": "amputating.md",
+      "word": "pumpkin",
+      "filename": "pumpkin.md",
       "lines": [
-        "Amputating is surgery.",
-        "Amputieren ist eine Operation.",
-        "切断することは手術だ。",
-        "截肢是手术。"
+        "A pumpkin is a fruit.",
+        "Ein Kürbis ist eine Frucht.",
+        "かぼちゃは果物だ。",
+        "南瓜是一种水果。"
       ]
     },
     {
-      "word": "analogy",
-      "filename": "analogy.md",
+      "word": "pun",
+      "filename": "pun.md",
       "lines": [
-        "An analogy is a comparison.",
-        "Eine Analogie ist ein Vergleich.",
-        "類推は比較だ。",
-        "类比是一种比较。"
+        "A pun is a joke.",
+        "Ein Wortspiel ist ein Witz.",
+        "ダジャレは冗談だ。",
+        "双关语是笑话。"
       ]
     },
     {
-      "word": "analytic",
-      "filename": "analytic.md",
+      "word": "punch",
+      "filename": "punch.md",
       "lines": [
-        "An analytic report is a document.",
-        "Ein analytischer Bericht ist ein Dokument.",
-        "分析的な報告書は文書だ。",
-        "分析报告是一种文件。"
+        "A punch is a hit.",
+        "Ein Schlag ist ein Treffer.",
+        "パンチは打撃だ。",
+        "拳头是一种打击。"
       ]
     },
     {
-      "word": "analyzing",
-      "filename": "analyzing.md",
+      "word": "punctuation",
+      "filename": "punctuation.md",
       "lines": [
-        "Analyzing is examining.",
-        "Analysieren ist Untersuchen.",
-        "分析することは調査だ。",
-        "分析是检查。"
+        "Punctuation is a writing system.",
+        "Zeichensetzung ist ein Schriftsystem.",
+        "句読点は表記法だ。",
+        "标点符号是一种书写系统。"
       ]
     },
     {
-      "word": "ancestor",
-      "filename": "ancestor.md",
+      "word": "puncture",
+      "filename": "puncture.md",
       "lines": [
-        "An ancestor is a relative.",
-        "Ein Vorfahre ist ein Verwandter.",
-        "祖先は親戚だ。",
-        "祖先是一种亲属。"
+        "A puncture is a hole.",
+        "Ein Einstich ist ein Loch.",
+        "刺し穴は穴だ。",
+        "刺孔是一个洞。"
       ]
     },
     {
-      "word": "anchor",
-      "filename": "anchor.md",
+      "word": "pupil",
+      "filename": "pupil.md",
       "lines": [
-        "An anchor is a tool.",
-        "Ein Anker ist ein Werkzeug.",
-        "錨は道具だ。",
-        "锚是一种工具。"
+        "A pupil is a student.",
+        "Ein Schüler ist ein Lernender.",
+        "生徒は学習者だ。",
+        "学生是学习者。"
       ]
     }
   ],

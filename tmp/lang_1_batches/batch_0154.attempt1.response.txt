@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "evolution",
-      "filename": "evolution.md",
+      "word": "unsafe",
+      "filename": "unsafe.md",
       "lines": [
-        "Evolution is a process.",
-        "Evolution ist ein Prozess.",
-        "進化はプロセスだ。",
-        "进化是一个过程。"
+        "An unsafe car is a vehicle.",
+        "Ein unsicheres Auto ist ein Fahrzeug.",
+        "安全でない車は車両だ。",
+        "不安全的汽车是车辆。"
       ]
     },
     {
-      "word": "evolving",
-      "filename": "evolving.md",
+      "word": "unscrewing",
+      "filename": "unscrewing.md",
       "lines": [
-        "Evolving is a process.",
-        "Sich entwickeln ist ein Prozess.",
-        "進化することはプロセスだ。",
-        "进化是一个过程。"
+        "Unscrewing is an action.",
+        "Abschrauben ist eine Handlung.",
+        "ねじを外すことは動作だ。",
+        "拧松是一个动作。"
       ]
     },
     {
-      "word": "ewe",
-      "filename": "ewe.md",
+      "word": "unsettled",
+      "filename": "unsettled.md",
       "lines": [
-        "A ewe is an animal.",
-        "Ein Mutterschaf ist ein Tier.",
-        "雌羊は動物だ。",
-        "母羊是动物。"
+        "An unsettled question is a problem.",
+        "Eine ungeklärte Frage ist ein Problem.",
+        "未解決の質問は問題だ。",
+        "未解决的问题是问题。"
       ]
     },
     {
-      "word": "exact",
-      "filename": "exact.md",
+      "word": "unsettling",
+      "filename": "unsettling.md",
       "lines": [
-        "An exact answer is a fact.",
-        "Eine genaue Antwort ist eine Tatsache.",
-        "正確な答えは事実だ。",
-        "精确的答案是事实。"
+        "An unsettling feeling is a sensation.",
+        "Ein beunruhigendes Gefühl ist eine Empfindung.",
+        "不安な気持ちは感覚だ。",
+        "不安的感觉是感觉。"
       ]
     },
     {
-      "word": "exaggeration",
-      "filename": "exaggeration.md",
+      "word": "unsoundnes",
+      "filename": "unsoundnes.md",
       "lines": [
-        "An exaggeration is a lie.",
-        "Eine Übertreibung ist eine Lüge.",
-        "誇張は嘘だ。",
-        "夸张是谎言。"
+        "Unsoundnes is a flaw.",
+        "Fehlerhaftigkeit ist ein Makel.",
+        "不健全さは欠点だ。",
+        "不健全是一种缺陷。"
       ]
     },
     {
-      "word": "exam",
-      "filename": "exam.md",
+      "word": "unstable",
+      "filename": "unstable.md",
       "lines": [
-        "An exam is a test.",
-        "Eine Prüfung ist ein Test.",
-        "試験はテストだ。",
-        "考试是测试。"
+        "An unstable chair is a seat.",
+        "Ein instabiler Stuhl ist ein Sitz.",
+        "不安定な椅子は座席だ。",
+        "不稳定的椅子是座位。"
       ]
     },
     {
-      "word": "examining",
-      "filename": "examining.md",
+      "word": "unsteady",
+      "filename": "unsteady.md",
       "lines": [
-        "Examining is analysis.",
-        "Untersuchen ist Analyse.",
-        "調べることは分析だ。",
-        "检查是分析。"
+        "An unsteady table is a piece of furniture.",
+        "Ein wackliger Tisch ist ein Möbelstück.",
+        "不安定なテーブルは家具だ。",
+        "不稳定的桌子是家具。"
       ]
     },
     {
-      "word": "example",
-      "filename": "example.md",
+      "word": "unsticking",
+      "filename": "unsticking.md",
       "lines": [
-        "An example is a sample.",
-        "Ein Beispiel ist ein Muster.",
-        "例はサンプルだ。",
-        "例子是样本。"
+        "Unsticking is a process.",
+        "Lösen ist ein Prozess.",
+        "はがすことはプロセスだ。",
+        "揭下是一个过程。"
       ]
     },
     {
-      "word": "exceeding",
-      "filename": "exceeding.md",
+      "word": "unsure",
+      "filename": "unsure.md",
       "lines": [
-        "Exceeding is an excess.",
-        "Überschreiten ist ein Exzess.",
-        "超えることは過剰だ。",
-        "超过是过量。"
+        "An unsure answer is a response.",
+        "Eine unsichere Antwort ist eine Reaktion.",
+        "不確かな答えは返答だ。",
+        "不确定的答案是回答。"
       ]
     },
     {
-      "word": "excepting",
-      "filename": "excepting.md",
+      "word": "untested",
+      "filename": "untested.md",
       "lines": [
-        "Excepting is an exception.",
-        "Ausnehmen ist eine Ausnahme.",
-        "除くことは例外だ。",
-        "除外是例外。"
+        "An untested product is an item.",
+        "Ein ungetestetes Produkt ist ein Gegenstand.",
+        "未テストの製品はアイテムだ。",
+        "未经测试的产品是物品。"
       ]
     }
   ],

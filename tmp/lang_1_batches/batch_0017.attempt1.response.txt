@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "application",
-      "filename": "application.md",
+      "word": "quitting",
+      "filename": "quitting.md",
       "lines": [
-        "An application is a request.",
-        "Eine Bewerbung ist ein Antrag.",
-        "申し込みは依頼だ。",
-        "申请是一种请求。"
+        "Quitting is an action.",
+        "Aufhören ist eine Handlung.",
+        "やめることは行動だ。",
+        "放弃是一种行为。"
       ]
     },
     {
-      "word": "applies",
-      "filename": "applies.md",
+      "word": "quitting 3",
+      "filename": "quitting_3.md",
       "lines": [
-        "Applying is using something.",
-        "Anwenden ist das Nutzen von etwas.",
-        "適用することは使用することだ。",
-        "应用是使用某物。"
+        "Quitting 3 is a state.",
+        "Quitting 3 ist ein Zustand.",
+        "Quitting 3 は状態だ。",
+        "Quitting 3 是一种状态。"
       ]
     },
     {
-      "word": "apply",
-      "filename": "apply.md",
+      "word": "quitting 4",
+      "filename": "quitting_4.md",
       "lines": [
-        "Applying is using something.",
-        "Anwenden ist das Nutzen von etwas.",
-        "適用することは使用することだ。",
-        "应用是使用某物。"
+        "Quitting 4 is a state.",
+        "Quitting 4 ist ein Zustand.",
+        "Quitting 4 は状態だ。",
+        "Quitting 4 是一种状态。"
       ]
     },
     {
-      "word": "applying",
-      "filename": "applying.md",
+      "word": "quiver",
+      "filename": "quiver.md",
       "lines": [
-        "Applying is using something.",
-        "Anwenden ist das Nutzen von etwas.",
-        "適用することは使用することだ。",
-        "应用是使用某物。"
+        "A quiver is a container.",
+        "Ein Köcher ist ein Behälter.",
+        "矢筒は容器だ。",
+        "箭筒是容器。"
       ]
     },
     {
-      "word": "appointing",
-      "filename": "appointing.md",
+      "word": "rabbit",
+      "filename": "rabbit.md",
       "lines": [
-        "Appointing is assigning a role.",
-        "Ernennen ist das Zuweisen einer Rolle.",
-        "任命することは役割を割り当てることだ。",
-        "任命是分配一个角色。"
+        "A rabbit is an animal.",
+        "Ein Kaninchen ist ein Tier.",
+        "ウサギは動物だ。",
+        "兔子是动物。"
       ]
     },
     {
-      "word": "appreciated",
-      "filename": "appreciated.md",
+      "word": "race",
+      "filename": "race.md",
       "lines": [
-        "Appreciating is valuing something.",
-        "Wertschätzen ist das Schätzen von etwas.",
-        "感謝することは何かを評価することだ。",
-        "感激是珍视某物。"
+        "A race is a competition.",
+        "Ein Rennen ist ein Wettbewerb.",
+        "レースは競争だ。",
+        "比赛是竞争。"
       ]
     },
     {
-      "word": "appreciating",
-      "filename": "appreciating.md",
+      "word": "rack",
+      "filename": "rack.md",
       "lines": [
-        "Appreciating is valuing something.",
-        "Wertschätzen ist das Schätzen von etwas.",
-        "感謝することは何かを評価することだ。",
-        "感激是珍视某物。"
+        "A rack is a stand.",
+        "Ein Gestell ist ein Ständer.",
+        "ラックは台だ。",
+        "架子是支架。"
       ]
     },
     {
-      "word": "apprehending",
-      "filename": "apprehending.md",
+      "word": "racket",
+      "filename": "racket.md",
       "lines": [
-        "Apprehending is catching someone.",
-        "Festnehmen ist das Ergreifen einer Person.",
-        "逮捕することは人を捕まえることだ。",
-        "逮捕是抓住某人。"
+        "A racket is a tool.",
+        "Ein Schläger ist ein Werkzeug.",
+        "ラケットは道具だ。",
+        "球拍是工具。"
       ]
     },
     {
-      "word": "approach",
-      "filename": "approach.md",
+      "word": "radiating",
+      "filename": "radiating.md",
       "lines": [
-        "An approach is a method.",
-        "Ein Ansatz ist eine Methode.",
-        "アプローチは方法だ。",
-        "方法是一种途径。"
+        "Radiating is an action.",
+        "Abstrahlen ist eine Handlung.",
+        "放射することは行動だ。",
+        "辐射是一种行为。"
       ]
     },
     {
-      "word": "appropriate",
-      "filename": "appropriate.md",
+      "word": "radio",
+      "filename": "radio.md",
       "lines": [
-        "An appropriate gift is a present.",
-        "Ein angemessenes Geschenk ist ein Präsent.",
-        "適切な贈り物はプレゼントだ。",
-        "合适的礼物是赠品。"
+        "A radio is a device.",
+        "Ein Radio ist ein Gerät.",
+        "ラジオは装置だ。",
+        "收音机是设备。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "carton",
-      "filename": "carton.md",
+      "word": "ship",
+      "filename": "ship.md",
       "lines": [
-        "A carton is a container.",
-        "Ein Karton ist ein Behälter.",
-        "カートンは容器だ。",
-        "纸盒是容器。"
+        "A ship is a vehicle.",
+        "Ein Schiff ist ein Fahrzeug.",
+        "船は乗り物だ。",
+        "船是交通工具。"
       ]
     },
     {
-      "word": "cartoon",
-      "filename": "cartoon.md",
+      "word": "shirt",
+      "filename": "shirt.md",
       "lines": [
-        "A cartoon is a drawing.",
-        "Ein Cartoon ist eine Zeichnung.",
-        "カートゥーンは絵だ。",
-        "卡通是图画。"
+        "A shirt is clothing.",
+        "Ein Hemd ist Kleidung.",
+        "シャツは衣類だ。",
+        "衬衫是衣服。"
       ]
     },
     {
-      "word": "carving",
-      "filename": "carving.md",
+      "word": "shiver",
+      "filename": "shiver.md",
       "lines": [
-        "A carving is a sculpture.",
-        "Eine Schnitzerei ist eine Skulptur.",
-        "彫刻は彫像だ。",
-        "雕刻是雕塑。"
+        "Shivering is a bodily reaction.",
+        "Zittern ist eine körperliche Reaktion.",
+        "震えることは身体反応だ。",
+        "颤抖是身体反应。"
       ]
     },
     {
-      "word": "case",
-      "filename": "case.md",
+      "word": "shock",
+      "filename": "shock.md",
       "lines": [
-        "A case is a container.",
-        "Ein Kasten ist ein Behälter.",
-        "ケースは容器だ。",
-        "箱子是容器。"
+        "Shock is a state.",
+        "Schock ist ein Zustand.",
+        "ショックは状態だ。",
+        "震惊是一种状态。"
       ]
     },
     {
-      "word": "cashier",
-      "filename": "cashier.md",
+      "word": "shoe",
+      "filename": "shoe.md",
       "lines": [
-        "A cashier is a worker.",
-        "Ein Kassierer ist ein Mitarbeiter.",
-        "レジ係は従業員だ。",
-        "收银员是员工。"
+        "A shoe is footwear.",
+        "Ein Schuh ist Fußbekleidung.",
+        "靴は履物だ。",
+        "鞋子是脚上的穿戴物。"
       ]
     },
     {
-      "word": "casting",
-      "filename": "casting.md",
+      "word": "shoelace",
+      "filename": "shoelace.md",
       "lines": [
-        "A casting is a mold.",
-        "Ein Guss ist eine Form.",
-        "鋳物は型だ。",
-        "铸件是模具。"
+        "A shoelace is a string.",
+        "Ein Schnürsenkel ist eine Schnur.",
+        "靴ひもはひもだ。",
+        "鞋带是绳子。"
       ]
     },
     {
-      "word": "castle",
-      "filename": "castle.md",
+      "word": "shoo",
+      "filename": "shoo.md",
       "lines": [
-        "A castle is a building.",
-        "Ein Schloss ist ein Gebäude.",
-        "城は建物だ。",
-        "城堡是建筑。"
+        "Shooing is a movement.",
+        "Wegscheuchen ist eine Bewegung.",
+        "追い払うことは動きだ。",
+        "赶走是一种动作。"
       ]
     },
     {
-      "word": "casual",
-      "filename": "casual.md",
+      "word": "shoot",
+      "filename": "shoot.md",
       "lines": [
-        "A casual shirt is clothing.",
-        "Ein lässiges Hemd ist Kleidung.",
-        "カジュアルなシャツは衣服だ。",
-        "休闲衬衫是衣服。"
+        "Shooting is an action.",
+        "Schießen ist eine Handlung.",
+        "射撃は動作だ。",
+        "射击是一种动作。"
       ]
     },
     {
-      "word": "cat",
-      "filename": "cat.md",
+      "word": "shop",
+      "filename": "shop.md",
       "lines": [
-        "A cat is an animal.",
-        "Eine Katze ist ein Tier.",
-        "猫は動物だ。",
-        "猫是动物。"
+        "A shop is a place.",
+        "Ein Laden ist ein Ort.",
+        "店は場所だ。",
+        "商店是场所。"
       ]
     },
     {
-      "word": "catch",
-      "filename": "catch.md",
+      "word": "shopkeeper",
+      "filename": "shopkeeper.md",
       "lines": [
-        "Catching is an action.",
-        "Fangen ist eine Handlung.",
-        "捕まえることは動作だ。",
-        "抓是动作。"
+        "A shopkeeper is a person.",
+        "Ein Ladenbesitzer ist eine Person.",
+        "店主は人だ。",
+        "店主是一个人。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "crew",
-      "filename": "crew.md",
+      "word": "successor",
+      "filename": "successor.md",
       "lines": [
-        "A crew is a team.",
-        "Eine Crew ist ein Team.",
-        "クルーはチームだ。",
-        "船员是一个团队。"
+        "A successor is a person.",
+        "Ein Nachfolger ist eine Person.",
+        "後継者は人だ。",
+        "继承人是人。"
       ]
     },
     {
-      "word": "crib",
-      "filename": "crib.md",
+      "word": "suck",
+      "filename": "suck.md",
       "lines": [
-        "A crib is a bed.",
-        "Ein Kinderbett ist ein Bett.",
-        "ベビーベッドはベッドだ。",
-        "婴儿床是床。"
+        "Sucking is an action.",
+        "Saugen ist eine Handlung.",
+        "吸うことは動作だ。",
+        "吸是动作。"
       ]
     },
     {
-      "word": "cricket",
-      "filename": "cricket.md",
+      "word": "suction",
+      "filename": "suction.md",
       "lines": [
-        "A cricket is an insect.",
-        "Eine Grille ist ein Insekt.",
-        "コオロギは昆虫だ。",
-        "蟋蟀是昆虫。"
+        "Suction is a process.",
+        "Saugen ist ein Prozess.",
+        "吸引は過程だ。",
+        "吸引是过程。"
       ]
     },
     {
-      "word": "crime",
-      "filename": "crime.md",
+      "word": "sud",
+      "filename": "sud.md",
       "lines": [
-        "A crime is an illegal action.",
-        "Ein Verbrechen ist eine illegale Handlung.",
-        "犯罪は違法行為だ。",
-        "犯罪是非法行为。"
+        "A sud is a sudden event.",
+        "Ein plötzliches Ereignis ist ein Ereignis.",
+        "突然の出来事は出来事だ。",
+        "突然的事件是事件。"
       ]
     },
     {
-      "word": "crinkle",
-      "filename": "crinkle.md",
+      "word": "sudden",
+      "filename": "sudden.md",
       "lines": [
-        "Crinkling is folding.",
-        "Knittern ist Falten.",
-        "しわくちゃにすることは折り畳みだ。",
-        "起皱是折叠。"
+        "A sudden noise is a sound.",
+        "Ein plötzliches Geräusch ist ein Geräusch.",
+        "突然の音は音だ。",
+        "突然的噪音是声音。"
       ]
     },
     {
-      "word": "crinkly",
-      "filename": "crinkly.md",
+      "word": "suffering",
+      "filename": "suffering.md",
       "lines": [
-        "A crinkly leaf is a leaf.",
-        "Ein knittriges Blatt ist ein Blatt.",
-        "しわくちゃの葉は葉だ。",
-        "起皱的叶子是叶子。"
+        "Suffering is a feeling.",
+        "Leiden ist ein Gefühl.",
+        "苦しみは感情だ。",
+        "痛苦是感觉。"
       ]
     },
     {
-      "word": "crisis",
-      "filename": "crisis.md",
+      "word": "sufficient",
+      "filename": "sufficient.md",
       "lines": [
-        "A crisis is an emergency.",
-        "Eine Krise ist ein Notfall.",
-        "危機は緊急事態だ。",
-        "危机是紧急情况。"
+        "A sufficient amount is a quantity.",
+        "Eine ausreichende Menge ist eine Menge.",
+        "十分な量は量だ。",
+        "足够的量是数量。"
       ]
     },
     {
-      "word": "crisp",
-      "filename": "crisp.md",
+      "word": "suffix",
+      "filename": "suffix.md",
       "lines": [
-        "A crisp apple is a fruit.",
-        "Ein knackiger Apfel ist eine Frucht.",
-        "パリッとしたりんごは果物だ。",
-        "脆苹果是水果。"
+        "A suffix is a word part.",
+        "Ein Suffix ist ein Wortteil.",
+        "接尾辞は語の一部だ。",
+        "后缀是词的一部分。"
       ]
     },
     {
-      "word": "crispy",
-      "filename": "crispy.md",
+      "word": "sugar",
+      "filename": "sugar.md",
       "lines": [
-        "A crispy chip is a snack.",
-        "Ein knuspriger Chip ist ein Snack.",
-        "カリカリのチップスはおやつだ。",
-        "脆薯片是零食。"
+        "Sugar is a food.",
+        "Zucker ist ein Lebensmittel.",
+        "砂糖は食品だ。",
+        "糖是食物。"
       ]
     },
     {
-      "word": "criticism",
-      "filename": "criticism.md",
+      "word": "suggest",
+      "filename": "suggest.md",
       "lines": [
-        "A criticism is an evaluation.",
-        "Eine Kritik ist eine Bewertung.",
-        "批判は評価だ。",
-        "批评是评价。"
+        "Suggesting is an action.",
+        "Vorschlagen ist eine Handlung.",
+        "提案することは行動だ。",
+        "建议是行为。"
       ]
     }
   ],

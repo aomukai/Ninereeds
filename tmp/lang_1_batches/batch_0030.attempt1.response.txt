@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "balance",
-      "filename": "balance.md",
+      "word": "repair",
+      "filename": "repair.md",
       "lines": [
-        "Balance is a state.",
-        "Balance ist ein Zustand.",
-        "バランスは状態だ。",
-        "平衡是一种状态。"
+        "Repairing is restoration.",
+        "Reparieren ist Wiederherstellung.",
+        "修理することは修復だ。",
+        "修理是修复。"
       ]
     },
     {
-      "word": "bale",
-      "filename": "bale.md",
+      "word": "repeat",
+      "filename": "repeat.md",
       "lines": [
-        "A bale is a bundle.",
-        "Ein Ballen ist ein Bündel.",
-        "ベールは束だ。",
-        "包是一种捆。"
+        "Repeating is iteration.",
+        "Wiederholen ist Iteration.",
+        "繰り返すことは反復だ。",
+        "重复是迭代。"
       ]
     },
     {
-      "word": "ball",
-      "filename": "ball.md",
+      "word": "repeated",
+      "filename": "repeated.md",
       "lines": [
-        "A ball is a toy.",
-        "Ein Ball ist ein Spielzeug.",
-        "ボールはおもちゃだ。",
-        "球是一种玩具。"
+        "A repeated word is a phrase.",
+        "Ein wiederholtes Wort ist ein Ausdruck.",
+        "繰り返される言葉は句だ。",
+        "重复的单词是短语。"
       ]
     },
     {
-      "word": "balloon",
-      "filename": "balloon.md",
+      "word": "repelling",
+      "filename": "repelling.md",
       "lines": [
-        "A balloon is a toy.",
-        "Ein Luftballon ist ein Spielzeug.",
-        "風船はおもちゃだ。",
-        "气球是一种玩具。"
+        "Repelling is resistance.",
+        "Abstoßen ist Widerstand.",
+        "反発は抵抗だ。",
+        "排斥是抵抗。"
       ]
     },
     {
-      "word": "banana",
-      "filename": "banana.md",
+      "word": "rephrasing",
+      "filename": "rephrasing.md",
       "lines": [
-        "A banana is a fruit.",
-        "Eine Banane ist eine Frucht.",
-        "バナナは果物だ。",
-        "香蕉是一种水果。"
+        "Rephrasing is paraphrasing.",
+        "Umformulieren ist Paraphrasieren.",
+        "言い換えはパラフレーズだ。",
+        "改述是释义。"
       ]
     },
     {
-      "word": "band",
-      "filename": "band.md",
+      "word": "replaceable",
+      "filename": "replaceable.md",
       "lines": [
-        "A band is a group.",
-        "Eine Band ist eine Gruppe.",
-        "バンドはグループだ。",
-        "乐队是一个团体。"
+        "A replaceable part is a component.",
+        "Ein austauschbares Teil ist ein Bauteil.",
+        "交換可能な部品は構成部品だ。",
+        "可替换的零件是组件。"
       ]
     },
     {
-      "word": "bandage",
-      "filename": "bandage.md",
+      "word": "replacing",
+      "filename": "replacing.md",
       "lines": [
-        "A bandage is a medical dressing.",
-        "Eine Bandage ist ein medizinischer Verband.",
-        "包帯は医療用品だ。",
-        "绷带是一种医疗用品。"
+        "Replacing is substitution.",
+        "Ersetzen ist Substitution.",
+        "置き換えることは置換だ。",
+        "替换是替代。"
       ]
     },
     {
-      "word": "bang",
-      "filename": "bang.md",
+      "word": "replacing 3",
+      "filename": "replacing_3.md",
       "lines": [
-        "A bang is a sound.",
-        "Ein Knall ist ein Geräusch.",
-        "バンは音だ。",
-        "砰是一种声音。"
+        "Replacing 3 is a modification.",
+        "Das Ersetzen von 3 ist eine Änderung.",
+        "3を置き換えることは修正だ。",
+        "替换3是修改。"
       ]
     },
     {
-      "word": "bank",
-      "filename": "bank.md",
+      "word": "replacing 4",
+      "filename": "replacing_4.md",
       "lines": [
-        "A bank is a financial institution.",
-        "Eine Bank ist ein Finanzinstitut.",
-        "銀行は金融機関だ。",
-        "银行是一种金融机构。"
+        "Replacing 4 is a revision.",
+        "Das Ersetzen von 4 ist eine Überarbeitung.",
+        "4を置き換えることは改訂だ。",
+        "替换4是修订。"
       ]
     },
     {
-      "word": "bank of the river",
-      "filename": "bank_of_the_river.md",
+      "word": "replay",
+      "filename": "replay.md",
       "lines": [
-        "A bank of the river is a landform.",
-        "Ein Flussufer ist eine Landform.",
-        "川岸は地形だ。",
-        "河岸是一种地形。"
+        "Replaying is playback.",
+        "Wiederholen ist Wiedergabe.",
+        "再生は再生だ。",
+        "重播是回放。"
       ]
     }
   ],

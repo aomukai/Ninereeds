@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "beginning",
-      "filename": "beginning.md",
+      "word": "rhinoceros",
+      "filename": "rhinoceros.md",
       "lines": [
-        "A beginning is a start.",
-        "Ein Anfang ist ein Start.",
-        "始まりはスタートだ。",
-        "开始是起点。"
+        "A rhinoceros is an animal.",
+        "Ein Nashorn ist ein Tier.",
+        "サイは動物だ。",
+        "犀牛是动物。"
       ]
     },
     {
-      "word": "beginning_3",
-      "filename": "beginning_3.md",
+      "word": "rib",
+      "filename": "rib.md",
       "lines": [
-        "A beginning is a phase.",
-        "Ein Anfang ist eine Phase.",
-        "始まりは段階だ。",
-        "开始是阶段。"
+        "A rib is a bone.",
+        "Eine Rippe ist ein Knochen.",
+        "肋骨は骨だ。",
+        "肋骨是骨头。"
       ]
     },
     {
-      "word": "beginning_4",
-      "filename": "beginning_4.md",
+      "word": "ribbon",
+      "filename": "ribbon.md",
       "lines": [
-        "A beginning is a location.",
-        "Ein Anfang ist ein Ort.",
-        "始まりは場所だ。",
-        "开始是地点。"
+        "A ribbon is a strip of cloth.",
+        "Ein Band ist ein Streifen Stoff.",
+        "リボンは布の帯だ。",
+        "丝带是布条。"
       ]
     },
     {
-      "word": "behaving",
-      "filename": "behaving.md",
+      "word": "rice",
+      "filename": "rice.md",
       "lines": [
-        "Behaving is acting.",
-        "Sich verhalten ist Handeln.",
-        "振る舞うことは行動だ。",
-        "表现是行为。"
+        "Rice is a grain.",
+        "Reis ist ein Getreide.",
+        "米は穀物だ。",
+        "大米是谷物。"
       ]
     },
     {
-      "word": "behaving_3",
-      "filename": "behaving_3.md",
+      "word": "rich",
+      "filename": "rich.md",
       "lines": [
-        "Behaving is functioning.",
-        "Sich verhalten ist Funktionieren.",
-        "振る舞うことは機能だ。",
-        "表现是功能。"
+        "A rich fabric is a textile.",
+        "Ein reicher Stoff ist ein Textil.",
+        "リッチな生地はテキスタイルだ。",
+        "丰富的面料是纺织品。"
       ]
     },
     {
-      "word": "behavior",
-      "filename": "behavior.md",
+      "word": "riddle",
+      "filename": "riddle.md",
       "lines": [
-        "Behavior is an action.",
-        "Verhalten ist eine Handlung.",
-        "行動は動作だ。",
-        "行为是动作。"
+        "A riddle is a puzzle.",
+        "Ein Rätsel ist ein Puzzle.",
+        "なぞなぞはパズルだ。",
+        "谜语是谜题。"
       ]
     },
     {
-      "word": "behaviour",
-      "filename": "behaviour.md",
+      "word": "ride",
+      "filename": "ride.md",
       "lines": [
-        "Behaviour is a pattern.",
-        "Verhalten ist ein Muster.",
-        "行動はパターンだ。",
-        "行为是模式。"
+        "Riding is movement.",
+        "Reiten ist Bewegung.",
+        "乗ることは移動だ。",
+        "骑行是移动。"
       ]
     },
     {
-      "word": "beholding",
-      "filename": "beholding.md",
+      "word": "rigging",
+      "filename": "rigging.md",
       "lines": [
-        "Beholding is observing.",
-        "Betrachten ist Beobachten.",
-        "見つめることは観察だ。",
-        "注视是观察。"
+        "Rigging is equipment.",
+        "Takelage ist Ausrüstung.",
+        "索具は装備だ。",
+        "索具是装备。"
       ]
     },
     {
-      "word": "belief",
-      "filename": "belief.md",
+      "word": "right",
+      "filename": "right.md",
       "lines": [
-        "Belief is a thought.",
-        "Glaube ist ein Gedanke.",
-        "信念は考えだ。",
-        "信念是想法。"
+        "Right is a direction.",
+        "Rechts ist eine Richtung.",
+        "右は方向だ。",
+        "右边是方向。"
       ]
     },
     {
-      "word": "believed",
-      "filename": "believed.md",
+      "word": "rightness",
+      "filename": "rightness.md",
       "lines": [
-        "A believed theory is a hypothesis.",
-        "Eine geglaubte Theorie ist eine Hypothese.",
-        "信じられた理論は仮説だ。",
-        "被相信的理论是假设。"
+        "Rightness is a quality.",
+        "Richtigkeit ist eine Qualität.",
+        "正しさは品質だ。",
+        "正确性是品质。"
       ]
     }
   ],

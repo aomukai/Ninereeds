@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fulfilling",
-      "filename": "fulfilling.md",
+      "word": "wriggle",
+      "filename": "wriggle.md",
       "lines": [
-        "A fulfilling book is a story.",
-        "Ein erfüllendes Buch ist eine Geschichte.",
-        "充実した本は物語だ。",
-        "一本充实的书是一个故事。"
+        "Wriggling is movement.",
+        "Wriggeln ist Bewegung.",
+        "くねくね動くことは移動だ。",
+        "扭动是移动。"
       ]
     },
     {
-      "word": "full",
-      "filename": "full.md",
+      "word": "wringing",
+      "filename": "wringing.md",
       "lines": [
-        "A full bottle is a container.",
-        "Eine volle Flasche ist ein Behälter.",
-        "満杯のボトルは容器だ。",
-        "一个满的瓶子是一个容器。"
+        "Wringing is an action.",
+        "Wringen ist eine Handlung.",
+        "絞ることは動作だ。",
+        "拧是动作。"
       ]
     },
     {
-      "word": "fullness",
-      "filename": "fullness.md",
+      "word": "wrinkle",
+      "filename": "wrinkle.md",
       "lines": [
-        "Fullness is a sensation.",
-        "Vollheit ist eine Empfindung.",
-        "満腹感は感覚だ。",
-        "饱腹感是一种感觉。"
+        "A wrinkle is a line.",
+        "Eine Falte ist eine Linie.",
+        "しわは線だ。",
+        "皱纹是线条。"
       ]
     },
     {
-      "word": "full-scale",
-      "filename": "full-scale.md",
+      "word": "wrist",
+      "filename": "wrist.md",
       "lines": [
-        "A full-scale model is a replica.",
-        "Ein originalgroßes Modell ist eine Replik.",
-        "実物大の模型はレプリカだ。",
-        "一个全尺寸的模型是一个复制品。"
+        "A wrist is a joint.",
+        "Ein Handgelenk ist ein Gelenk.",
+        "手首は関節だ。",
+        "手腕是关节。"
       ]
     },
     {
-      "word": "fun",
-      "filename": "fun.md",
+      "word": "write",
+      "filename": "write.md",
       "lines": [
-        "Fun is pleasure.",
-        "Spaß ist Vergnügen.",
-        "楽しさは喜びだ。",
-        "乐趣是快乐。"
+        "Writing is communication.",
+        "Schreiben ist Kommunikation.",
+        "書くことはコミュニケーションだ。",
+        "写作是交流。"
       ]
     },
     {
-      "word": "function",
-      "filename": "function.md",
+      "word": "writer",
+      "filename": "writer.md",
       "lines": [
-        "A function is a task.",
-        "Eine Funktion ist eine Aufgabe.",
-        "機能は役割だ。",
-        "一个功能是一个任务。"
+        "A writer is a person.",
+        "Ein Schriftsteller ist eine Person.",
+        "作家は人だ。",
+        "作家是人。"
       ]
     },
     {
-      "word": "functional",
-      "filename": "functional.md",
+      "word": "writing",
+      "filename": "writing.md",
       "lines": [
-        "A functional tool is a device.",
-        "Ein funktionales Werkzeug ist ein Gerät.",
-        "機能的な道具は装置だ。",
-        "一个功能性的工具是一个装置。"
+        "Writing is an activity.",
+        "Schreiben ist eine Tätigkeit.",
+        "書くことは活動だ。",
+        "写作是活动。"
       ]
     },
     {
-      "word": "fundamental",
-      "filename": "fundamental.md",
+      "word": "written",
+      "filename": "written.md",
       "lines": [
-        "A fundamental element is a component.",
-        "Ein grundlegendes Element ist ein Bestandteil.",
-        "基本的な要素は構成要素だ。",
-        "一个基本的元素是一个组成部分。"
+        "A written letter is a message.",
+        "Ein geschriebener Brief ist eine Nachricht.",
+        "書かれた手紙はメッセージだ。",
+        "书写的信是消息。"
       ]
     },
     {
-      "word": "fungus",
-      "filename": "fungus.md",
+      "word": "wrong",
+      "filename": "wrong.md",
       "lines": [
-        "A fungus is an organism.",
-        "Ein Pilz ist ein Organismus.",
-        "菌類は生物だ。",
-        "真菌是一种生物。"
+        "A wrong answer is a mistake.",
+        "Eine falsche Antwort ist ein Fehler.",
+        "間違った答えは誤りだ。",
+        "错误的答案是错误。"
       ]
     },
     {
-      "word": "funny",
-      "filename": "funny.md",
+      "word": "wrongness",
+      "filename": "wrongness.md",
       "lines": [
-        "A funny clown is a performer.",
-        "Ein lustiger Clown ist ein Künstler.",
-        "面白いピエロは芸人だ。",
-        "一个有趣的小丑是一个表演者。"
+        "Wrongness is a quality.",
+        "Falschheit ist eine Eigenschaft.",
+        "間違いは性質だ。",
+        "错误是性质。"
       ]
     }
   ],

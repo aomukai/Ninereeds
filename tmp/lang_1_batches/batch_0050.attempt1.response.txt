@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "brick",
-      "filename": "brick.md",
+      "word": "scissoring",
+      "filename": "scissoring.md",
       "lines": [
-        "A brick is a building material.",
-        "Ein Ziegel ist ein Baumaterial.",
-        "レンガは建築材料だ。",
-        "砖是建筑材料。"
+        "Scissoring is a cutting action.",
+        "Scheren ist eine Schneidebewegung.",
+        "はさみ切りは切断動作だ。",
+        "剪刀动作是切割动作。"
       ]
     },
     {
-      "word": "bridge",
-      "filename": "bridge.md",
+      "word": "scissors",
+      "filename": "scissors.md",
       "lines": [
-        "A bridge is a structure.",
-        "Eine Brücke ist ein Bauwerk.",
-        "橋は構造物だ。",
-        "桥是建筑物。"
+        "Scissors are a tool.",
+        "Scheren sind ein Werkzeug.",
+        "はさみは道具だ。",
+        "剪刀是工具。"
       ]
     },
     {
-      "word": "bridling",
-      "filename": "bridling.md",
+      "word": "scoop",
+      "filename": "scoop.md",
       "lines": [
-        "Bridling is restraining.",
-        "Zügeln ist Zurückhalten.",
-        "手綱を引くことは抑制だ。",
-        "勒缰是抑制。"
+        "A scoop is a utensil.",
+        "Eine Schöpfkelle ist ein Utensil.",
+        "スクープは道具だ。",
+        "勺子是一种器具。"
       ]
     },
     {
-      "word": "brief",
-      "filename": "brief.md",
+      "word": "scooter",
+      "filename": "scooter.md",
       "lines": [
-        "A brief meeting is a short meeting.",
-        "Ein kurzes Treffen ist ein kurzes Treffen.",
-        "短い会議は短い会議だ。",
-        "简短的会议是短会议。"
+        "A scooter is a vehicle.",
+        "Ein Roller ist ein Fahrzeug.",
+        "スクーターは乗り物だ。",
+        "踏板车是交通工具。"
       ]
     },
     {
-      "word": "bright",
-      "filename": "bright.md",
+      "word": "scope",
+      "filename": "scope.md",
       "lines": [
-        "A bright star is a star.",
-        "Ein heller Stern ist ein Stern.",
-        "明るい星は星だ。",
-        "明亮的星星是星星。"
+        "A scope is an optical instrument.",
+        "Ein Scope ist ein optisches Gerät.",
+        "スコープは光学機器だ。",
+        "瞄准镜是光学仪器。"
       ]
     },
     {
-      "word": "brightening",
-      "filename": "brightening.md",
+      "word": "score",
+      "filename": "score.md",
       "lines": [
-        "Brightening is lightening.",
-        "Aufhellen ist Erhellen.",
-        "明るくすることは光を増すことだ。",
-        "变亮是增光。"
+        "A score is a number.",
+        "Eine Punktzahl ist eine Zahl.",
+        "得点は数字だ。",
+        "分数是数字。"
       ]
     },
     {
-      "word": "brighter",
-      "filename": "brighter.md",
+      "word": "scorpion",
+      "filename": "scorpion.md",
       "lines": [
-        "A brighter lamp is a lamp.",
-        "Eine hellere Lampe ist eine Lampe.",
-        "より明るいランプはランプだ。",
-        "更亮的灯是灯。"
+        "A scorpion is an animal.",
+        "Ein Skorpion ist ein Tier.",
+        "サソリは動物だ。",
+        "蝎子是动物。"
       ]
     },
     {
-      "word": "brightnes",
-      "filename": "brightnes.md",
+      "word": "scout",
+      "filename": "scout.md",
       "lines": [
-        "Brightness is a quality.",
-        "Helligkeit ist eine Eigenschaft.",
-        "明るさは性質だ。",
-        "亮度是性质。"
+        "A scout is a person.",
+        "Ein Pfadfinder ist eine Person.",
+        "スカウトは人だ。",
+        "侦察员是人。"
       ]
     },
     {
-      "word": "brim",
-      "filename": "brim.md",
+      "word": "scrambled",
+      "filename": "scrambled.md",
       "lines": [
-        "A brim is an edge.",
-        "Ein Rand ist eine Kante.",
-        "縁は端だ。",
-        "边缘是边。"
+        "Scrambled eggs are a food.",
+        "Rühreier sind ein Gericht.",
+        "スクランブルエッグは料理だ。",
+        "炒鸡蛋是食物。"
       ]
     },
     {
-      "word": "bring",
-      "filename": "bring.md",
+      "word": "scrambling",
+      "filename": "scrambling.md",
       "lines": [
-        "Bringing is carrying.",
-        "Bringen ist Tragen.",
-        "持ってくることは運ぶことだ。",
-        "带来是搬运。"
+        "Scrambling is a climbing activity.",
+        "Scrambling ist eine Kletteraktivität.",
+        "スクランブリングは登山活動だ。",
+        "攀爬是一种登山活动。"
       ]
     }
   ],

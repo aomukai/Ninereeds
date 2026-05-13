@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "clara",
-      "filename": "clara.md",
+      "word": "slippery",
+      "filename": "slippery.md",
       "lines": [
-        "Clara is a name.",
-        "Clara ist ein Name.",
-        "クララは名前だ。",
-        "克拉拉是一个名字。"
+        "A slippery floor is a surface.",
+        "Ein rutschiger Boden ist eine Oberfläche.",
+        "滑りやすい床は表面だ。",
+        "滑的地板是表面。"
       ]
     },
     {
-      "word": "clarifying",
-      "filename": "clarifying.md",
+      "word": "slipping",
+      "filename": "slipping.md",
       "lines": [
-        "Clarifying is explaining.",
-        "Klären ist Erklären.",
-        "明確にすることは説明することだ。",
-        "澄清就是解释。"
+        "Slipping is an action.",
+        "Rutschen ist eine Handlung.",
+        "滑ることは動作だ。",
+        "滑倒是动作。"
       ]
     },
     {
-      "word": "clarity",
-      "filename": "clarity.md",
+      "word": "slogan",
+      "filename": "slogan.md",
       "lines": [
-        "Clarity is a quality.",
-        "Klarheit ist eine Eigenschaft.",
-        "明瞭さは性質だ。",
-        "清晰是一种品质。"
+        "A slogan is a phrase.",
+        "Ein Slogan ist ein Spruch.",
+        "スローガンは標語だ。",
+        "口号是短语。"
       ]
     },
     {
-      "word": "clas",
-      "filename": "clas.md",
+      "word": "slope",
+      "filename": "slope.md",
       "lines": [
-        "Clas is a name.",
-        "Clas ist ein Name.",
-        "クラスは名前だ。",
-        "克拉斯是一个名字。"
+        "A slope is a surface.",
+        "Ein Hang ist eine Oberfläche.",
+        "斜面は表面だ。",
+        "斜坡是表面。"
       ]
     },
     {
-      "word": "clash",
-      "filename": "clash.md",
+      "word": "sloshing",
+      "filename": "sloshing.md",
       "lines": [
-        "A clash is a conflict.",
-        "Ein Zusammenstoß ist ein Konflikt.",
-        "衝突は対立だ。",
-        "冲突是一种对立。"
+        "Sloshing is a movement.",
+        "Schwappen ist eine Bewegung.",
+        "揺動は運動だ。",
+        "晃动是运动。"
       ]
     },
     {
-      "word": "clashing",
-      "filename": "clashing.md",
+      "word": "slow",
+      "filename": "slow.md",
       "lines": [
-        "Clashing is conflicting.",
-        "Zusammenstoßen ist Konflikthaben.",
-        "衝突することは対立することだ。",
-        "冲突就是对立。"
+        "A slow snail is an animal.",
+        "Eine langsame Schnecke ist ein Tier.",
+        "遅いカタツムリは動物だ。",
+        "慢蜗牛是动物。"
       ]
     },
     {
-      "word": "clasping",
-      "filename": "clasping.md",
+      "word": "slowing",
+      "filename": "slowing.md",
       "lines": [
-        "Clasping is holding.",
-        "Umklammern ist Festhalten.",
-        "握りしめることは保持することだ。",
-        "紧握就是抓住。"
+        "Slowing is a process.",
+        "Verlangsamen ist ein Prozess.",
+        "遅くなることは過程だ。",
+        "减速是过程。"
       ]
     },
     {
-      "word": "class",
-      "filename": "class.md",
+      "word": "slump",
+      "filename": "slump.md",
       "lines": [
-        "A class is a group.",
-        "Eine Klasse ist eine Gruppe.",
-        "クラスは集団だ。",
-        "班级是一个群体。"
+        "A slump is a decline.",
+        "Ein Abschwung ist ein Rückgang.",
+        "落ち込みは低下だ。",
+        "下跌是下降。"
       ]
     },
     {
-      "word": "classic",
-      "filename": "classic.md",
+      "word": "small",
+      "filename": "small.md",
       "lines": [
-        "A classic book is a book.",
-        "Ein klassisches Buch ist ein Buch.",
-        "古典的な本は本だ。",
-        "经典的书是书。"
+        "A small ant is an insect.",
+        "Eine kleine Ameise ist ein Insekt.",
+        "小さいアリは昆虫だ。",
+        "小蚂蚁是昆虫。"
       ]
     },
     {
-      "word": "classification",
-      "filename": "classification.md",
+      "word": "smart",
+      "filename": "smart.md",
       "lines": [
-        "Classification is sorting.",
-        "Klassifikation ist Sortieren.",
-        "分類は整理することだ。",
-        "分类就是整理。"
+        "A smart phone is a device.",
+        "Ein Smartphone ist ein Gerät.",
+        "スマートフォンは機器だ。",
+        "智能手机是设备。"
       ]
     }
   ],

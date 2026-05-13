@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bully",
-      "filename": "bully.md",
+      "word": "second",
+      "filename": "second.md",
       "lines": [
-        "A bully is a person.",
-        "Ein Mobber ist eine Person.",
-        "いじめっ子は人だ。",
-        "恶霸是人。"
+        "A second is a unit of time.",
+        "Eine Sekunde ist eine Zeiteinheit.",
+        "秒は時間の単位だ。",
+        "秒是时间单位。"
       ]
     },
     {
-      "word": "bump",
-      "filename": "bump.md",
+      "word": "secondary",
+      "filename": "secondary.md",
       "lines": [
-        "A bump is a raised area.",
-        "Eine Beule ist eine Erhebung.",
-        "こぶは盛り上がった部分だ。",
-        "肿块是隆起的区域。"
+        "A secondary road is a road.",
+        "Eine Nebenstraße ist eine Straße.",
+        "補助道路は道路だ。",
+        "次要道路是道路。"
       ]
     },
     {
-      "word": "bumpy",
-      "filename": "bumpy.md",
+      "word": "secret",
+      "filename": "secret.md",
       "lines": [
-        "A bumpy road is a path.",
-        "Eine holprige Straße ist ein Weg.",
-        "でこぼこした道は小道だ。",
-        "崎岖的路是小路。"
+        "A secret is information.",
+        "Ein Geheimnis ist eine Information.",
+        "秘密は情報だ。",
+        "秘密是信息。"
       ]
     },
     {
-      "word": "bun",
-      "filename": "bun.md",
+      "word": "section",
+      "filename": "section.md",
       "lines": [
-        "A bun is a bread.",
-        "Ein Brötchen ist ein Brot.",
-        "バンはパンだ。",
-        "小圆面包是面包。"
+        "A section is a part.",
+        "Ein Abschnitt ist ein Teil.",
+        "区分は部分だ。",
+        "节是部分。"
       ]
     },
     {
-      "word": "bunch",
-      "filename": "bunch.md",
+      "word": "secure",
+      "filename": "secure.md",
       "lines": [
-        "A bunch is a group.",
-        "Ein Bund ist eine Gruppe.",
-        "束は集まりだ。",
-        "一束是一组。"
+        "A secure lock is a lock.",
+        "Ein sicheres Schloss ist ein Schloss.",
+        "安全な錠は錠だ。",
+        "安全的锁是锁。"
       ]
     },
     {
-      "word": "bundle",
-      "filename": "bundle.md",
+      "word": "securing",
+      "filename": "securing.md",
       "lines": [
-        "A bundle is a package.",
-        "Ein Bündel ist ein Paket.",
-        "束は包みだ。",
-        "一捆是一个包裹。"
+        "Securing is protection.",
+        "Sichern ist Schutz.",
+        "確保することは保護だ。",
+        "确保是保护。"
       ]
     },
     {
-      "word": "bunny",
-      "filename": "bunny.md",
+      "word": "see",
+      "filename": "see.md",
       "lines": [
-        "A bunny is a rabbit.",
-        "Ein Kaninchen ist ein Tier.",
-        "うさぎは動物だ。",
-        "兔子是动物。"
+        "Seeing is perception.",
+        "Sehen ist Wahrnehmung.",
+        "見ることは知覚だ。",
+        "看是感知。"
       ]
     },
     {
-      "word": "burdening",
-      "filename": "burdening.md",
+      "word": "seed",
+      "filename": "seed.md",
       "lines": [
-        "Burdening is loading.",
-        "Belasten ist Beladen.",
-        "負担することは負荷だ。",
-        "负担是装载。"
+        "A seed is a plant part.",
+        "Ein Samen ist ein Pflanzenteil.",
+        "種は植物の部分だ。",
+        "种子是植物部分。"
       ]
     },
     {
-      "word": "burn",
-      "filename": "burn.md",
+      "word": "seek",
+      "filename": "seek.md",
       "lines": [
-        "Burning is combustion.",
-        "Brennen ist Verbrennung.",
-        "燃えることは燃焼だ。",
-        "燃烧是化学反应。"
+        "Seeking is an action.",
+        "Suchen ist eine Handlung.",
+        "探すことは行動だ。",
+        "寻找是行动。"
       ]
     },
     {
-      "word": "burner",
-      "filename": "burner.md",
+      "word": "seem",
+      "filename": "seem.md",
       "lines": [
-        "A burner is a device.",
-        "Ein Brenner ist ein Gerät.",
-        "バーナーは装置だ。",
-        "燃烧器是设备。"
+        "Seeming is a state.",
+        "Scheinen ist ein Zustand.",
+        "思われることは状態だ。",
+        "似乎是状态。"
       ]
     }
   ],

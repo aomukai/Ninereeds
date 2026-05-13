@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "classify",
-      "filename": "classify.md",
+      "word": "smash",
+      "filename": "smash.md",
       "lines": [
-        "Classifying data is categorization.",
-        "Daten zu klassifizieren ist Kategorisierung.",
-        "データを分類することはカテゴリー分けだ。",
-        "对数据进行分类就是归类。"
+        "Smashing is destruction.",
+        "Zerschmettern ist Zerstörung.",
+        "粉砕は破壊だ。",
+        "粉碎是破坏。"
       ]
     },
     {
-      "word": "classifying",
-      "filename": "classifying.md",
+      "word": "smell",
+      "filename": "smell.md",
       "lines": [
-        "Classifying is a method of organization.",
-        "Klassifizieren ist eine Methode der Organisation.",
-        "分類することは整理の方法だ。",
-        "分类是一种整理方法。"
+        "A smell is a sensation.",
+        "Ein Geruch ist eine Empfindung.",
+        "匂いは感覚だ。",
+        "气味是一种感觉。"
       ]
     },
     {
-      "word": "classmate",
-      "filename": "classmate.md",
+      "word": "smelly",
+      "filename": "smelly.md",
       "lines": [
-        "A classmate is a student.",
-        "Ein Klassenkamerad ist ein Schüler.",
-        "クラスメートは学生だ。",
-        "同学是学生。"
+        "A smelly sock is clothing.",
+        "Eine stinkende Socke ist Kleidung.",
+        "臭い靴下は衣類だ。",
+        "臭袜子是衣物。"
       ]
     },
     {
-      "word": "classroom",
-      "filename": "classroom.md",
+      "word": "smile",
+      "filename": "smile.md",
       "lines": [
-        "A classroom is a room.",
-        "Ein Klassenzimmer ist ein Raum.",
-        "教室は部屋だ。",
-        "教室是房间。"
+        "A smile is an expression.",
+        "Ein Lächeln ist ein Ausdruck.",
+        "笑顔は表情だ。",
+        "微笑是一种表情。"
       ]
     },
     {
-      "word": "claw",
-      "filename": "claw.md",
+      "word": "smiley",
+      "filename": "smiley.md",
       "lines": [
-        "A claw is a body part.",
-        "Eine Kralle ist ein Körperteil.",
-        "爪は体の一部だ。",
-        "爪子是身体的一部分。"
+        "A smiley is a symbol.",
+        "Ein Smiley ist ein Symbol.",
+        "スマイリーは記号だ。",
+        "笑脸是一种符号。"
       ]
     },
     {
-      "word": "clay",
-      "filename": "clay.md",
+      "word": "smoke",
+      "filename": "smoke.md",
       "lines": [
-        "Clay is a material.",
-        "Ton ist ein Material.",
-        "粘土は材料だ。",
-        "粘土是一种材料。"
+        "Smoke is a gas.",
+        "Rauch ist ein Gas.",
+        "煙は気体だ。",
+        "烟是气体。"
       ]
     },
     {
-      "word": "clean",
-      "filename": "clean.md",
+      "word": "smooth",
+      "filename": "smooth.md",
       "lines": [
-        "A clean towel is a cloth.",
-        "Ein sauberes Handtuch ist ein Tuch.",
-        "清潔なタオルは布だ。",
-        "干净的毛巾是布。"
+        "A smooth stone is a rock.",
+        "Ein glatter Stein ist ein Gestein.",
+        "滑らかな石は岩だ。",
+        "光滑的石头是岩石。"
       ]
     },
     {
-      "word": "cleanup",
-      "filename": "cleanup.md",
+      "word": "snack",
+      "filename": "snack.md",
       "lines": [
-        "A cleanup is a task.",
-        "Eine Aufräumaktion ist eine Aufgabe.",
-        "片付けは作業だ。",
-        "清理是一项任务。"
+        "A snack is a food.",
+        "Ein Snack ist ein Nahrungsmittel.",
+        "おやつは食べ物だ。",
+        "零食是食物。"
       ]
     },
     {
-      "word": "clear",
-      "filename": "clear.md",
+      "word": "snail",
+      "filename": "snail.md",
       "lines": [
-        "A clear lake is a body of water.",
-        "Ein klarer See ist ein Gewässer.",
-        "澄んだ湖は水域だ。",
-        "清澈的湖是水域。"
+        "A snail is an animal.",
+        "Eine Schnecke ist ein Tier.",
+        "カタツムリは動物だ。",
+        "蜗牛是动物。"
       ]
     },
     {
-      "word": "clever",
-      "filename": "clever.md",
+      "word": "snake",
+      "filename": "snake.md",
       "lines": [
-        "A clever fox is an animal.",
-        "Ein kluger Fuchs ist ein Tier.",
-        "賢いキツネは動物だ。",
-        "聪明的狐狸是动物。"
+        "A snake is a reptile.",
+        "Eine Schlange ist ein Reptil.",
+        "蛇は爬虫類だ。",
+        "蛇是爬行动物。"
       ]
     }
   ],

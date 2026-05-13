@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "fostering",
-      "filename": "fostering.md",
+      "word": "witnessing",
+      "filename": "witnessing.md",
       "lines": [
-        "Fostering is care.",
-        "Pflegen ist Fürsorge.",
-        "里親になることは世話だ。",
-        "寄养是照顾。"
+        "Witnessing is observing.",
+        "Zeugen ist Beobachten.",
+        "目撃は観察だ。",
+        "目击是观察。"
       ]
     },
     {
-      "word": "found",
-      "filename": "found.md",
+      "word": "wobble",
+      "filename": "wobble.md",
       "lines": [
-        "A found key is a tool.",
-        "Ein gefundener Schlüssel ist ein Werkzeug.",
-        "見つかった鍵は道具だ。",
-        "被发现的钥匙是工具。"
+        "A wobble is a movement.",
+        "Ein Wackeln ist eine Bewegung.",
+        "ぐらつきは動きだ。",
+        "摇晃是一种运动。"
       ]
     },
     {
-      "word": "foundation",
-      "filename": "foundation.md",
+      "word": "wobbly",
+      "filename": "wobbly.md",
       "lines": [
-        "A foundation is a base.",
-        "Ein Fundament ist eine Basis.",
-        "基礎は土台だ。",
-        "地基是基础。"
+        "A wobbly chair is furniture.",
+        "Ein wackliger Stuhl ist Möbel.",
+        "ぐらつく椅子は家具だ。",
+        "摇晃的椅子是家具。"
       ]
     },
     {
-      "word": "foundational",
-      "filename": "foundational.md",
+      "word": "woke",
+      "filename": "woke.md",
       "lines": [
-        "A foundational text is a source.",
-        "Ein grundlegender Text ist eine Quelle.",
-        "基礎的なテキストは資料だ。",
-        "基础性的文本是资料。"
+        "A woke person is an individual.",
+        "Ein woke Mensch ist ein Individuum.",
+        "目覚めた人は個人だ。",
+        "觉醒的人是个人。"
       ]
     },
     {
-      "word": "founding",
-      "filename": "founding.md",
+      "word": "wolf",
+      "filename": "wolf.md",
       "lines": [
-        "Founding is creation.",
-        "Gründen ist Schöpfung.",
-        "設立は創造だ。",
-        "创立是创造。"
+        "A wolf is an animal.",
+        "Ein Wolf ist ein Tier.",
+        "狼は動物だ。",
+        "狼是动物。"
       ]
     },
     {
-      "word": "fountain",
-      "filename": "fountain.md",
+      "word": "woman",
+      "filename": "woman.md",
       "lines": [
-        "A fountain is a water source.",
-        "Ein Brunnen ist eine Wasserquelle.",
-        "噴水は水源だ。",
-        "喷泉是水源。"
+        "A woman is a person.",
+        "Eine Frau ist ein Mensch.",
+        "女性は人だ。",
+        "女人是人。"
       ]
     },
     {
-      "word": "fox",
-      "filename": "fox.md",
+      "word": "wonder",
+      "filename": "wonder.md",
       "lines": [
-        "A fox is an animal.",
-        "Ein Fuchs ist ein Tier.",
-        "狐は動物だ。",
-        "狐狸是动物。"
+        "Wonder is an emotion.",
+        "Staunen ist ein Gefühl.",
+        "驚きは感情だ。",
+        "惊奇是一种情感。"
       ]
     },
     {
-      "word": "fraction",
-      "filename": "fraction.md",
+      "word": "wonderful",
+      "filename": "wonderful.md",
       "lines": [
-        "A fraction is a part.",
-        "Ein Bruch ist ein Teil.",
-        "分数は一部だ。",
-        "分数是一部分。"
+        "A wonderful flower is a plant.",
+        "Eine wunderbare Blume ist eine Pflanze.",
+        "素晴らしい花は植物だ。",
+        "美丽的花是植物。"
       ]
     },
     {
-      "word": "fracturing",
-      "filename": "fracturing.md",
+      "word": "wood",
+      "filename": "wood.md",
       "lines": [
-        "Fracturing is damage.",
-        "Frakturieren ist Schaden.",
-        "破砕は損傷だ。",
-        "碎裂是损伤。"
+        "Wood is a material.",
+        "Holz ist ein Material.",
+        "木は材料だ。",
+        "木头是一种材料。"
       ]
     },
     {
-      "word": "fragile",
-      "filename": "fragile.md",
+      "word": "woodcutter",
+      "filename": "woodcutter.md",
       "lines": [
-        "A fragile vase is a container.",
-        "Eine zerbrechliche Vase ist ein Behälter.",
-        "壊れやすい花瓶は容器だ。",
-        "易碎的花瓶是容器。"
+        "A woodcutter is a worker.",
+        "Ein Holzfäller ist ein Arbeiter.",
+        "木こりは労働者だ。",
+        "伐木工是工人。"
       ]
     }
   ],

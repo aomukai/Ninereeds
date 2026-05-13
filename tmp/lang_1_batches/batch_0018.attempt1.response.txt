@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "appropriating",
-      "filename": "appropriating.md",
+      "word": "raft",
+      "filename": "raft.md",
       "lines": [
-        "Appropriating is an action.",
-        "Aneignen ist eine Handlung.",
-        "流用することは行動だ。",
-        "挪用是一种行为。"
+        "A raft is a boat.",
+        "Ein Floß ist ein Boot.",
+        "いかだは船だ。",
+        "木筏是船。"
       ]
     },
     {
-      "word": "approval",
-      "filename": "approval.md",
+      "word": "rail",
+      "filename": "rail.md",
       "lines": [
-        "Approval is a decision.",
-        "Zustimmung ist eine Entscheidung.",
-        "承認は決定だ。",
-        "批准是一种决定。"
+        "A rail is a bar.",
+        "Eine Schiene ist eine Stange.",
+        "レールは棒だ。",
+        "铁轨是条。"
       ]
     },
     {
-      "word": "approximating",
-      "filename": "approximating.md",
+      "word": "railing",
+      "filename": "railing.md",
       "lines": [
-        "Approximating is a calculation.",
-        "Annähern ist eine Berechnung.",
-        "近似することは計算だ。",
-        "近似是一种计算。"
+        "A railing is a fence.",
+        "Ein Geländer ist ein Zaun.",
+        "手すりは柵だ。",
+        "栏杆是栅栏。"
       ]
     },
     {
-      "word": "apron",
-      "filename": "apron.md",
+      "word": "rain",
+      "filename": "rain.md",
       "lines": [
-        "An apron is clothing.",
-        "Eine Schürze ist Kleidung.",
-        "エプロンは衣服だ。",
-        "围裙是衣服。"
+        "Rain is water.",
+        "Regen ist Wasser.",
+        "雨は水だ。",
+        "雨是水。"
       ]
     },
     {
-      "word": "arbitrary",
-      "filename": "arbitrary.md",
+      "word": "rainbow",
+      "filename": "rainbow.md",
       "lines": [
-        "An arbitrary rule is a rule.",
-        "Eine willkürliche Regel ist eine Regel.",
-        "恣意的なルールはルールだ。",
-        "任意的规则是规则。"
+        "A rainbow is a curve.",
+        "Ein Regenbogen ist ein Bogen.",
+        "虹は弧だ。",
+        "彩虹是弧。"
       ]
     },
     {
-      "word": "architect",
-      "filename": "architect.md",
+      "word": "raincoat",
+      "filename": "raincoat.md",
       "lines": [
-        "An architect is a person.",
-        "Ein Architekt ist eine Person.",
-        "建築家は人だ。",
-        "建筑师是人。"
+        "A raincoat is clothing.",
+        "Ein Regenmantel ist Kleidung.",
+        "レインコートは衣服だ。",
+        "雨衣是衣服。"
       ]
     },
     {
-      "word": "area",
-      "filename": "area.md",
+      "word": "raindrop",
+      "filename": "raindrop.md",
       "lines": [
-        "An area is a place.",
-        "Ein Bereich ist ein Ort.",
-        "エリアは場所だ。",
-        "区域是地方。"
+        "A raindrop is a drop.",
+        "Ein Regentropfen ist ein Tropfen.",
+        "雨粒は滴だ。",
+        "雨滴是水滴。"
       ]
     },
     {
-      "word": "argue",
-      "filename": "argue.md",
+      "word": "rainy",
+      "filename": "rainy.md",
       "lines": [
-        "Arguing is a discussion.",
-        "Argumentieren ist eine Diskussion.",
-        "議論することは討論だ。",
-        "争论是讨论。"
+        "A rainy day is weather.",
+        "Ein regnerischer Tag ist Wetter.",
+        "雨の日は天気だ。",
+        "下雨天是天气。"
       ]
     },
     {
-      "word": "arguing",
-      "filename": "arguing.md",
+      "word": "raise",
+      "filename": "raise.md",
       "lines": [
-        "Arguing is a disagreement.",
-        "Streiten ist eine Meinungsverschiedenheit.",
-        "言い争うことは意見の相違だ。",
-        "争吵是分歧。"
+        "Raising is lifting.",
+        "Heben ist Anheben.",
+        "上げることは持ち上げることだ。",
+        "举起是抬起。"
       ]
     },
     {
-      "word": "argument",
-      "filename": "argument.md",
+      "word": "raisin",
+      "filename": "raisin.md",
       "lines": [
-        "An argument is a reason.",
-        "Ein Argument ist ein Grund.",
-        "論拠は理由だ。",
-        "论据是理由。"
+        "A raisin is a fruit.",
+        "Eine Rosine ist eine Frucht.",
+        "レーズンは果物だ。",
+        "葡萄干是水果。"
       ]
     }
   ],

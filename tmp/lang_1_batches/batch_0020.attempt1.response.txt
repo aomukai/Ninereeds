@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "arrive",
-      "filename": "arrive.md",
+      "word": "rate",
+      "filename": "rate.md",
       "lines": [
-        "Arriving is coming to a place.",
-        "Ankommen ist das Erreichen eines Ortes.",
-        "到着することは場所に着くことだ。",
-        "到达就是来到一个地方。"
+        "A rate is a measure.",
+        "Eine Rate ist ein Maß.",
+        "レートは尺度だ。",
+        "比率是度量。"
       ]
     },
     {
-      "word": "arrived",
-      "filename": "arrived.md",
+      "word": "rational",
+      "filename": "rational.md",
       "lines": [
-        "Having arrived is being at a destination.",
-        "Angekommen zu sein bedeutet, am Ziel zu sein.",
-        "到着したことは目的地にいることだ。",
-        "已经到达就是在目的地了。"
+        "A rational number is a number.",
+        "Eine rationale Zahl ist eine Zahl.",
+        "有理数は数だ。",
+        "有理数是数。"
       ]
     },
     {
-      "word": "arriving",
-      "filename": "arriving.md",
+      "word": "raven",
+      "filename": "raven.md",
       "lines": [
-        "Arriving is coming to a place.",
-        "Ankommen ist das Erreichen eines Ortes.",
-        "到着することは場所に着くことだ。",
-        "到达就是来到一个地方。"
+        "A raven is a bird.",
+        "Ein Rabe ist ein Vogel.",
+        "カラスは鳥だ。",
+        "乌鸦是鸟。"
       ]
     },
     {
-      "word": "arrogating",
-      "filename": "arrogating.md",
+      "word": "raw",
+      "filename": "raw.md",
       "lines": [
-        "Arrogating is claiming something without right.",
-        "Sich anmaßen bedeutet, etwas ohne Recht zu beanspruchen.",
-        "横領することは権利なく何かを主張することだ。",
-        "擅取就是没有权利却声称拥有某物。"
+        "A raw egg is food.",
+        "Ein rohes Ei ist Nahrung.",
+        "生卵は食べ物だ。",
+        "生鸡蛋是食物。"
       ]
     },
     {
-      "word": "arrow",
-      "filename": "arrow.md",
+      "word": "ray",
+      "filename": "ray.md",
       "lines": [
-        "An arrow is a projectile.",
-        "Ein Pfeil ist ein Geschoss.",
-        "矢は投射物だ。",
-        "箭是一种投射物。"
+        "A ray is a line.",
+        "Ein Strahl ist eine Linie.",
+        "レイは線だ。",
+        "射线是线。"
       ]
     },
     {
-      "word": "art",
-      "filename": "art.md",
+      "word": "ray of sun",
+      "filename": "ray_of_sun.md",
       "lines": [
-        "Art is a form of expression.",
-        "Kunst ist eine Form des Ausdrucks.",
-        "芸術は表現の一形態だ。",
-        "艺术是一种表达形式。"
+        "A ray of sun is a beam.",
+        "Ein Sonnenstrahl ist ein Lichtstrahl.",
+        "太陽光線は光だ。",
+        "太阳光线是光。"
       ]
     },
     {
-      "word": "arthropod",
-      "filename": "arthropod.md",
+      "word": "razing",
+      "filename": "razing.md",
       "lines": [
-        "An arthropod is an invertebrate animal.",
-        "Ein Gliederfüßer ist ein wirbelloses Tier.",
-        "節足動物は無脊椎動物だ。",
-        "节肢动物是一种无脊椎动物。"
+        "Razing is destruction.",
+        "Das Abreißen ist Zerstörung.",
+        "取り壊すことは破壊だ。",
+        "摧毁是破坏。"
       ]
     },
     {
-      "word": "article",
-      "filename": "article.md",
+      "word": "reach",
+      "filename": "reach.md",
       "lines": [
-        "An article is a piece of writing.",
-        "Ein Artikel ist ein Schriftstück.",
-        "記事は文章の一部だ。",
-        "文章是一种书面作品。"
+        "A reach is a range.",
+        "Eine Reichweite ist eine Distanz.",
+        "リーチは距離だ。",
+        "范围是距离。"
       ]
     },
     {
-      "word": "articulating",
-      "filename": "articulating.md",
+      "word": "reacting",
+      "filename": "reacting.md",
       "lines": [
-        "Articulating is expressing ideas clearly.",
-        "Artikulieren bedeutet, Ideen klar auszudrücken.",
-        "明確に表現することは考えをはっきり伝えることだ。",
-        "清晰地表达就是明确传达想法。"
+        "Reacting is responding.",
+        "Das Reagieren ist eine Reaktion.",
+        "反応することは応答だ。",
+        "反应是回应。"
       ]
     },
     {
-      "word": "artifact",
-      "filename": "artifact.md",
+      "word": "reaction",
+      "filename": "reaction.md",
       "lines": [
-        "An artifact is a man-made object.",
-        "Ein Artefakt ist ein von Menschen gemachter Gegenstand.",
-        "人工物は人間が作った物体だ。",
-        "人工制品是人造物品。"
+        "A reaction is a response.",
+        "Eine Reaktion ist eine Antwort.",
+        "反応は応答だ。",
+        "反应是结果。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "attendant",
-      "filename": "attendant.md",
+      "word": "reed",
+      "filename": "reed.md",
       "lines": [
-        "An attendant is a person.",
-        "Ein Begleiter ist eine Person.",
-        "付き添いは人だ。",
-        "服务员是人。"
+        "A reed is a plant.",
+        "Ein Schilf ist eine Pflanze.",
+        "アシは植物だ。",
+        "芦苇是植物。"
       ]
     },
     {
-      "word": "attention",
-      "filename": "attention.md",
+      "word": "reel",
+      "filename": "reel.md",
       "lines": [
-        "Attention is a mental process.",
-        "Aufmerksamkeit ist ein mentaler Prozess.",
-        "注意は精神プロセスだ。",
-        "注意力是一种心理过程。"
+        "A reel is a spool.",
+        "Eine Rolle ist eine Spule.",
+        "リールは巻き取る道具だ。",
+        "卷轴是卷绕工具。"
       ]
     },
     {
-      "word": "attentioning",
-      "filename": "attentioning.md",
+      "word": "reference",
+      "filename": "reference.md",
       "lines": [
-        "Attentioning is a mental action.",
-        "Aufmerksamkeit schenken ist eine mentale Handlung.",
-        "注意を払うことは精神的な行動だ。",
-        "注意是一种心理行为。"
+        "A reference is a source.",
+        "Eine Referenz ist eine Quelle.",
+        "参考文献は情報源だ。",
+        "参考文献是来源。"
       ]
     },
     {
-      "word": "attesting",
-      "filename": "attesting.md",
+      "word": "referring",
+      "filename": "referring.md",
       "lines": [
-        "Attesting is a verification.",
-        "Bezeugen ist eine Bestätigung.",
-        "証言することは確認だ。",
-        "作证是一种确认。"
+        "Referring is mentioning.",
+        "Sich beziehen ist das Erwähnen.",
+        "参照することは言及することだ。",
+        "提及就是提到。"
       ]
     },
     {
-      "word": "attic",
-      "filename": "attic.md",
+      "word": "refined",
+      "filename": "refined.md",
       "lines": [
-        "An attic is a room.",
-        "Ein Dachboden ist ein Raum.",
-        "屋根裏部屋は部屋だ。",
-        "阁楼是一个房间。"
+        "A refined grain is a food.",
+        "Ein raffiniertes Getreide ist ein Lebensmittel.",
+        "精製された穀物は食品だ。",
+        "精制谷物是食品。"
       ]
     },
     {
-      "word": "attracting",
-      "filename": "attracting.md",
+      "word": "refining",
+      "filename": "refining.md",
       "lines": [
-        "Attracting is a force.",
-        "Anziehen ist eine Kraft.",
-        "引き付けることは力だ。",
-        "吸引是一种力。"
+        "Refining is purification.",
+        "Raffinieren ist Reinigung.",
+        "精製することは浄化だ。",
+        "精炼是净化。"
       ]
     },
     {
-      "word": "attribute",
-      "filename": "attribute.md",
+      "word": "reflecting",
+      "filename": "reflecting.md",
       "lines": [
-        "An attribute is a characteristic.",
-        "Ein Attribut ist eine Eigenschaft.",
-        "属性は特性だ。",
-        "属性是一种特征。"
+        "Reflecting is mirroring.",
+        "Reflektieren ist Spiegelung.",
+        "反射することは映すことだ。",
+        "反射是映照。"
       ]
     },
     {
-      "word": "atypical",
-      "filename": "atypical.md",
+      "word": "reflection",
+      "filename": "reflection.md",
       "lines": [
-        "An atypical flower is a plant.",
-        "Eine untypische Blume ist eine Pflanze.",
-        "非典型的な花は植物だ。",
-        "非典型的花是植物。"
+        "A reflection is an image.",
+        "Ein Spiegelbild ist ein Bild.",
+        "反射像は画像だ。",
+        "反射是图像。"
       ]
     },
     {
-      "word": "audience",
-      "filename": "audience.md",
+      "word": "reframe",
+      "filename": "reframe.md",
       "lines": [
-        "An audience is a group.",
-        "Ein Publikum ist eine Gruppe.",
-        "観客は集団だ。",
-        "观众是一个群体。"
+        "Reframing is reinterpreting.",
+        "Umdeuten ist eine Neuinterpretation.",
+        "再フレーミングは再解釈だ。",
+        "重新框架是重新解释。"
       ]
     },
     {
-      "word": "auditorium",
-      "filename": "auditorium.md",
+      "word": "refreshing",
+      "filename": "refreshing.md",
       "lines": [
-        "An auditorium is a room.",
-        "Ein Auditorium ist ein Raum.",
-        "講堂は部屋だ。",
-        "礼堂是一个房间。"
+        "Refreshing is restoring.",
+        "Erfrischen ist Wiederherstellen.",
+        "リフレッシュすることは回復だ。",
+        "刷新是恢复。"
       ]
     }
   ],

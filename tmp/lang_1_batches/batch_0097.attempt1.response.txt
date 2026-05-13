@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "conveying",
-      "filename": "conveying.md",
+      "word": "stock",
+      "filename": "stock.md",
       "lines": [
-        "Conveying is communication.",
-        "Vermitteln ist Kommunikation.",
-        "伝えることはコミュニケーションだ。",
-        "传达是沟通。"
+        "A stock is an investment.",
+        "Eine Aktie ist eine Anlage.",
+        "株式は投資だ。",
+        "股票是投资。"
       ]
     },
     {
-      "word": "convincing",
-      "filename": "convincing.md",
+      "word": "stockpiling",
+      "filename": "stockpiling.md",
       "lines": [
-        "Convincing is persuasion.",
-        "Überzeugen ist Überredung.",
-        "説得することは説得だ。",
-        "说服是劝说。"
+        "Stockpiling is storing.",
+        "Horten ist Lagern.",
+        "備蓄は貯蔵だ。",
+        "囤积是储存。"
       ]
     },
     {
-      "word": "cook",
-      "filename": "cook.md",
+      "word": "stomach",
+      "filename": "stomach.md",
       "lines": [
-        "A cook is a person.",
-        "Ein Koch ist eine Person.",
-        "料理人は人だ。",
-        "厨师是一个人。"
+        "A stomach is an organ.",
+        "Ein Magen ist ein Organ.",
+        "胃は臓器だ。",
+        "胃是器官。"
       ]
     },
     {
-      "word": "cooked meal",
-      "filename": "cooked_meal.md",
+      "word": "stomachache",
+      "filename": "stomachache.md",
       "lines": [
-        "A cooked meal is food.",
-        "Eine gekochte Mahlzeit ist Essen.",
-        "調理された食事は食べ物だ。",
-        "熟食是食物。"
+        "A stomachache is a pain.",
+        "Ein Bauchschmerz ist ein Schmerz.",
+        "腹痛は痛みだ。",
+        "胃痛是疼痛。"
       ]
     },
     {
-      "word": "cookie",
-      "filename": "cookie.md",
+      "word": "stomp",
+      "filename": "stomp.md",
       "lines": [
-        "A cookie is a snack.",
-        "Ein Keks ist ein Snack.",
-        "クッキーはお菓子だ。",
-        "饼干是零食。"
+        "Stomp is a movement.",
+        "Stampfen ist eine Bewegung.",
+        "踏みつけることは動きだ。",
+        "踩踏是动作。"
       ]
     },
     {
-      "word": "cooking",
-      "filename": "cooking.md",
+      "word": "stone",
+      "filename": "stone.md",
       "lines": [
-        "Cooking is preparation.",
-        "Kochen ist Zubereitung.",
-        "料理することは調理だ。",
-        "烹饪是制作。"
+        "A stone is a rock.",
+        "Ein Stein ist ein Gestein.",
+        "石は岩だ。",
+        "石头是岩石。"
       ]
     },
     {
-      "word": "cooky",
-      "filename": "cooky.md",
+      "word": "stood",
+      "filename": "stood.md",
       "lines": [
-        "A cooky is a snack.",
-        "Ein Keks ist ein Snack.",
-        "クッキーはお菓子だ。",
-        "饼干是零食。"
+        "Stood is a state.",
+        "Stand ist ein Zustand.",
+        "立ったは状態だ。",
+        "站了是状态。"
       ]
     },
     {
-      "word": "cool",
-      "filename": "cool.md",
+      "word": "stool",
+      "filename": "stool.md",
       "lines": [
-        "A cool drink is a beverage.",
-        "Ein kühles Getränk ist ein Getränk.",
-        "冷たい飲み物は飲料だ。",
-        "冷饮是饮料。"
+        "A stool is a seat.",
+        "Ein Hocker ist ein Sitz.",
+        "スツールは椅子だ。",
+        "凳子是座位。"
       ]
     },
     {
-      "word": "cooler",
-      "filename": "cooler.md",
+      "word": "stop",
+      "filename": "stop.md",
       "lines": [
-        "A cooler is a container.",
-        "Ein Kühler ist ein Behälter.",
-        "クーラーは容器だ。",
-        "冷却器是容器。"
+        "A stop is a halt.",
+        "Ein Stopp ist ein Halt.",
+        "停止は休止だ。",
+        "停止是暂停。"
       ]
     },
     {
-      "word": "cooling",
-      "filename": "cooling.md",
+      "word": "stopping",
+      "filename": "stopping.md",
       "lines": [
-        "Cooling is temperature reduction.",
-        "Kühlen ist Temperatursenkung.",
-        "冷やすことは温度低下だ。",
-        "冷却就是降温。"
+        "Stopping is ceasing.",
+        "Stoppen ist Aufhören.",
+        "止めることは終了だ。",
+        "停止是结束。"
       ]
     }
   ],

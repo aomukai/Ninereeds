@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "exemplifying",
-      "filename": "exemplifying.md",
+      "word": "unzipping",
+      "filename": "unzipping.md",
       "lines": [
-        "Exemplifying is illustration.",
-        "Exemplifizieren ist Veranschaulichung.",
-        "例示は説明だ。",
-        "举例是说明。"
+        "Unzipping is an action.",
+        "Entpacken ist eine Handlung.",
+        "解凍することは動作だ。",
+        "解压是一种操作。"
       ]
     },
     {
-      "word": "exercise",
-      "filename": "exercise.md",
+      "word": "upbringing",
+      "filename": "upbringing.md",
       "lines": [
-        "Exercise is physical activity.",
-        "Sport ist körperliche Aktivität.",
-        "運動は身体活動だ。",
-        "运动是身体活动。"
+        "Upbringing is a process.",
+        "Erziehung ist ein Prozess.",
+        "育成は過程だ。",
+        "教养是一个过程。"
       ]
     },
     {
-      "word": "exhausting",
-      "filename": "exhausting.md",
+      "word": "update",
+      "filename": "update.md",
       "lines": [
-        "An exhausting workout is exercise.",
-        "Ein erschöpfendes Training ist Sport.",
-        "疲れるトレーニングは運動だ。",
-        "累人的锻炼是运动。"
+        "An update is a change.",
+        "Ein Update ist eine Änderung.",
+        "アップデートは変更だ。",
+        "更新是一种改变。"
       ]
     },
     {
-      "word": "exhaustion",
-      "filename": "exhaustion.md",
+      "word": "upgrading",
+      "filename": "upgrading.md",
       "lines": [
-        "Exhaustion is fatigue.",
-        "Erschöpfung ist Müdigkeit.",
-        "疲労は疲れだ。",
-        "疲惫是疲劳。"
+        "Upgrading is improvement.",
+        "Aufrüsten ist Verbesserung.",
+        "アップグレードすることは改善だ。",
+        "升级是改进。"
       ]
     },
     {
-      "word": "exhibiting",
-      "filename": "exhibiting.md",
+      "word": "upholding",
+      "filename": "upholding.md",
       "lines": [
-        "Exhibiting is displaying.",
-        "Ausstellen ist Präsentieren.",
-        "展示は陳列だ。",
-        "展示是陈列。"
+        "Upholding is support.",
+        "Aufrechterhalten ist Unterstützung.",
+        "維持することは支援だ。",
+        "维护是支持。"
       ]
     },
     {
-      "word": "exist",
-      "filename": "exist.md",
+      "word": "upper",
+      "filename": "upper.md",
       "lines": [
-        "Existing is being.",
-        "Existieren ist Sein.",
-        "存在することは生きることだ。",
-        "存在是活着。"
+        "An upper floor is a level.",
+        "Ein oberes Stockwerk ist eine Ebene.",
+        "上の階は階層だ。",
+        "上层是一个层面。"
       ]
     },
     {
-      "word": "existence",
-      "filename": "existence.md",
+      "word": "upright",
+      "filename": "upright.md",
       "lines": [
-        "Existence is reality.",
-        "Existenz ist Realität.",
-        "存在は現実だ。",
-        "存在是现实。"
+        "An upright stance is a posture.",
+        "Eine aufrechte Haltung ist eine Position.",
+        "直立した姿勢は姿勢だ。",
+        "直立的姿势是一种姿态。"
       ]
     },
     {
-      "word": "existing",
-      "filename": "existing.md",
+      "word": "upset",
+      "filename": "upset.md",
       "lines": [
-        "An existing house is a building.",
-        "Ein bestehendes Haus ist ein Gebäude.",
-        "既存の家は建物だ。",
-        "现有的房子是建筑物。"
+        "An upset feeling is an emotion.",
+        "Ein verärgertes Gefühl ist eine Emotion.",
+        "怒った感情は感情だ。",
+        "生气的情绪是一种情感。"
       ]
     },
     {
-      "word": "exit",
-      "filename": "exit.md",
+      "word": "upsetting",
+      "filename": "upsetting.md",
       "lines": [
-        "An exit is a door.",
-        "Ein Ausgang ist eine Tür.",
-        "出口はドアだ。",
-        "出口是门。"
+        "Upsetting is an action.",
+        "Verärgern ist eine Handlung.",
+        "怒らせることは動作だ。",
+        "让人生气是一种行为。"
       ]
     },
     {
-      "word": "expand",
-      "filename": "expand.md",
+      "word": "upside",
+      "filename": "upside.md",
       "lines": [
-        "Expanding is growth.",
-        "Expandieren ist Wachstum.",
-        "拡大することは成長だ。",
-        "扩大是增长。"
+        "Upside is a benefit.",
+        "Die positive Seite ist ein Vorteil.",
+        "プラス面は利点だ。",
+        "积极面是一个优势。"
       ]
     }
   ],

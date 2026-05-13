@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "cabbage",
-      "filename": "cabbage.md",
+      "word": "sensation",
+      "filename": "sensation.md",
       "lines": [
-        "A cabbage is a vegetable.",
-        "Ein Kohl ist ein Gemüse.",
-        "キャベツは野菜だ。",
-        "卷心菜是蔬菜。"
+        "A sensation is a feeling.",
+        "Eine Sensation ist ein Gefühl.",
+        "感覚は感じだ。",
+        "感觉是一种感受。"
       ]
     },
     {
-      "word": "cabin",
-      "filename": "cabin.md",
+      "word": "sense",
+      "filename": "sense.md",
       "lines": [
-        "A cabin is a building.",
-        "Eine Hütte ist ein Gebäude.",
-        "小屋は建物だ。",
-        "小屋是建筑物。"
+        "A sense is a perception.",
+        "Ein Sinn ist eine Wahrnehmung.",
+        "感覚は知覚だ。",
+        "感觉是一种知觉。"
       ]
     },
     {
-      "word": "cabinet",
-      "filename": "cabinet.md",
+      "word": "sensible",
+      "filename": "sensible.md",
       "lines": [
-        "A cabinet is a piece of furniture.",
-        "Ein Schrank ist ein Möbelstück.",
-        "キャビネットは家具だ。",
-        "橱柜是家具。"
+        "A sensible decision is a choice.",
+        "Eine vernünftige Entscheidung ist eine Wahl.",
+        "賢明な決定は選択だ。",
+        "明智的决定是选择。"
       ]
     },
     {
-      "word": "cade",
-      "filename": "cade.md",
+      "word": "sensor",
+      "filename": "sensor.md",
       "lines": [
-        "A cade is a barrel.",
-        "Ein Fass ist ein Behälter.",
-        "樽は容器だ。",
-        "桶是容器。"
+        "A sensor is a device.",
+        "Ein Sensor ist ein Gerät.",
+        "センサーは装置だ。",
+        "传感器是一种设备。"
       ]
     },
     {
-      "word": "cafeteria",
-      "filename": "cafeteria.md",
+      "word": "sentence",
+      "filename": "sentence.md",
       "lines": [
-        "A cafeteria is a restaurant.",
-        "Eine Cafeteria ist ein Restaurant.",
-        "カフェテリアは食堂だ。",
-        "自助餐厅是餐厅。"
+        "A sentence is a unit.",
+        "Ein Satz ist eine Einheit.",
+        "文は単位だ。",
+        "句子是一个单位。"
       ]
     },
     {
-      "word": "cage",
-      "filename": "cage.md",
+      "word": "separate",
+      "filename": "separate.md",
       "lines": [
-        "A cage is a container.",
-        "Ein Käfig ist ein Behälter.",
-        "檻は容器だ。",
-        "笼子是容器。"
+        "Separating is division.",
+        "Trennen ist eine Teilung.",
+        "分けることは分割だ。",
+        "分离是分割。"
       ]
     },
     {
-      "word": "cake",
-      "filename": "cake.md",
+      "word": "separator",
+      "filename": "separator.md",
       "lines": [
-        "A cake is a dessert.",
-        "Ein Kuchen ist ein Dessert.",
-        "ケーキはデザートだ。",
-        "蛋糕是甜点。"
+        "A separator is a tool.",
+        "Ein Separator ist ein Werkzeug.",
+        "セパレーターは道具だ。",
+        "分离器是一种工具。"
       ]
     },
     {
-      "word": "calculating",
-      "filename": "calculating.md",
+      "word": "sequence",
+      "filename": "sequence.md",
       "lines": [
-        "A calculating machine is a device.",
-        "Eine rechnende Maschine ist ein Gerät.",
-        "計算する機械は装置だ。",
-        "计算的机器是设备。"
+        "A sequence is an order.",
+        "Eine Sequenz ist eine Ordnung.",
+        "シーケンスは順序だ。",
+        "序列是一种顺序。"
       ]
     },
     {
-      "word": "calculation",
-      "filename": "calculation.md",
+      "word": "sequential",
+      "filename": "sequential.md",
       "lines": [
-        "A calculation is a process.",
-        "Eine Berechnung ist ein Prozess.",
-        "計算は過程だ。",
-        "计算是过程。"
+        "A sequential list is a series.",
+        "Eine sequenzielle Liste ist eine Serie.",
+        "連続的なリストは系列だ。",
+        "连续的列表是一种系列。"
       ]
     },
     {
-      "word": "calculator",
-      "filename": "calculator.md",
+      "word": "serf",
+      "filename": "serf.md",
       "lines": [
-        "A calculator is a tool.",
-        "Ein Taschenrechner ist ein Werkzeug.",
-        "電卓は道具だ。",
-        "计算器是工具。"
+        "A serf is a worker.",
+        "Ein Leibeigener ist ein Arbeiter.",
+        "農奴は労働者だ。",
+        "农奴是一种工人。"
       ]
     }
   ],

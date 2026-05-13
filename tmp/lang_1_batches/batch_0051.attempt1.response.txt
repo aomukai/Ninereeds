@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "bringing",
-      "filename": "bringing.md",
+      "word": "scrap",
+      "filename": "scrap.md",
       "lines": [
-        "Bringing is transport.",
-        "Bringen ist Transport.",
-        "持ってくることは輸送だ。",
-        "带来是运输。"
+        "A scrap is a fragment.",
+        "Ein Schnipsel ist ein Fragment.",
+        "切れ端は断片だ。",
+        "碎屑是碎片。"
       ]
     },
     {
-      "word": "bringing_3",
-      "filename": "bringing_3.md",
+      "word": "scrape",
+      "filename": "scrape.md",
       "lines": [
-        "Bringing_3 is an action.",
-        "Bringen ist eine Handlung.",
-        "持ってくることは行動だ。",
-        "带来是行动。"
+        "Scraping is an action.",
+        "Schaben ist eine Handlung.",
+        "削ることは動作だ。",
+        "刮擦是动作。"
       ]
     },
     {
-      "word": "bringing_4",
-      "filename": "bringing_4.md",
+      "word": "scratch",
+      "filename": "scratch.md",
       "lines": [
-        "Bringing_4 is a process.",
-        "Bringen ist ein Prozess.",
-        "持ってくることは過程だ。",
-        "带来是过程。"
+        "A scratch is a mark.",
+        "Ein Kratzer ist eine Markierung.",
+        "引っかき傷は痕だ。",
+        "划痕是痕迹。"
       ]
     },
     {
-      "word": "bristle",
-      "filename": "bristle.md",
+      "word": "scratchy",
+      "filename": "scratchy.md",
       "lines": [
-        "A bristle is a stiff hair.",
-        "Eine Borste ist ein steifes Haar.",
-        "剛毛は硬い毛だ。",
-        "刚毛是硬毛。"
+        "A scratchy sweater is clothing.",
+        "Ein kratziger Pullover ist Kleidung.",
+        "チクチクするセーターは衣服だ。",
+        "一件扎人的毛衣是衣服。"
       ]
     },
     {
-      "word": "broad",
-      "filename": "broad.md",
+      "word": "scream",
+      "filename": "scream.md",
       "lines": [
-        "A broad road is a road.",
-        "Eine breite Straße ist eine Straße.",
-        "広い道路は道路だ。",
-        "宽阔的道路是道路。"
+        "A scream is a sound.",
+        "Ein Schrei ist ein Geräusch.",
+        "叫び声は音だ。",
+        "尖叫声是声音。"
       ]
     },
     {
-      "word": "broccoli",
-      "filename": "broccoli.md",
+      "word": "screech",
+      "filename": "screech.md",
       "lines": [
-        "Broccoli is a vegetable.",
-        "Brokkoli ist ein Gemüse.",
-        "ブロッコリーは野菜だ。",
-        "西兰花是蔬菜。"
+        "A screech is a sound.",
+        "Ein Kreischen ist ein Geräusch.",
+        "きしむ音は音だ。",
+        "刺耳的声音是声音。"
       ]
     },
     {
-      "word": "broiling",
-      "filename": "broiling.md",
+      "word": "screen",
+      "filename": "screen.md",
       "lines": [
-        "Broiling is cooking.",
-        "Grillen ist Kochen.",
-        "焼くことは料理だ。",
-        "烧烤是烹饪。"
+        "A screen is a display.",
+        "Ein Bildschirm ist ein Display.",
+        "画面はディスプレイだ。",
+        "屏幕是显示器。"
       ]
     },
     {
-      "word": "broken",
-      "filename": "broken.md",
+      "word": "screw",
+      "filename": "screw.md",
       "lines": [
-        "A broken cup is a cup.",
-        "Eine kaputte Tasse ist eine Tasse.",
-        "壊れたカップはカップだ。",
-        "破杯子是杯子。"
+        "A screw is a fastener.",
+        "Eine Schraube ist ein Befestigungselement.",
+        "ねじは留め具だ。",
+        "螺丝是紧固件。"
       ]
     },
     {
-      "word": "broom",
-      "filename": "broom.md",
+      "word": "screwdriver",
+      "filename": "screwdriver.md",
       "lines": [
-        "A broom is a tool.",
-        "Ein Besen ist ein Werkzeug.",
-        "ほうきは道具だ。",
-        "扫帚是工具。"
+        "A screwdriver is a tool.",
+        "Ein Schraubenzieher ist ein Werkzeug.",
+        "ドライバーは道具だ。",
+        "螺丝刀是工具。"
       ]
     },
     {
-      "word": "broth",
-      "filename": "broth.md",
+      "word": "script",
+      "filename": "script.md",
       "lines": [
-        "Broth is a liquid.",
-        "Brühe ist eine Flüssigkeit.",
-        "スープは液体だ。",
-        "肉汤是液体。"
+        "A script is a text.",
+        "Ein Skript ist ein Text.",
+        "スクリプトはテキストだ。",
+        "脚本是文本。"
       ]
     }
   ],

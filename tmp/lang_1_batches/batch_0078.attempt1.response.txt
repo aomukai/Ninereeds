@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "clock",
-      "filename": "clock.md",
+      "word": "snore",
+      "filename": "snore.md",
       "lines": [
-        "A clock is a timepiece.",
-        "Eine Uhr ist ein Zeitmesser.",
-        "時計は時間を測る道具だ。",
-        "时钟是计时器。"
+        "Snoring is a sound.",
+        "Schnarchen ist ein Geräusch.",
+        "いびきは音だ。",
+        "打鼾是一种声音。"
       ]
     },
     {
-      "word": "close",
-      "filename": "close.md",
+      "word": "snort",
+      "filename": "snort.md",
       "lines": [
-        "A close neighbor is a person.",
-        "Ein naher Nachbar ist eine Person.",
-        "近い隣人は人だ。",
-        "近邻是人。"
+        "Snorting is a sound.",
+        "Schnauben ist ein Geräusch.",
+        "鼻息は音だ。",
+        "喷鼻息是一种声音。"
       ]
     },
     {
-      "word": "closed",
-      "filename": "closed.md",
+      "word": "snout",
+      "filename": "snout.md",
       "lines": [
-        "A closed door is a barrier.",
-        "Eine geschlossene Tür ist eine Barriere.",
-        "閉まったドアは障壁だ。",
-        "关闭的门是屏障。"
+        "A snout is a nose.",
+        "Eine Schnauze ist eine Nase.",
+        "鼻面は鼻だ。",
+        "口鼻部是鼻子。"
       ]
     },
     {
-      "word": "closeness",
-      "filename": "closeness.md",
+      "word": "snow",
+      "filename": "snow.md",
       "lines": [
-        "Closeness is a bond.",
-        "Nähe ist eine Bindung.",
-        "親密さは絆だ。",
-        "亲密是纽带。"
+        "Snow is precipitation.",
+        "Schnee ist Niederschlag.",
+        "雪は降水だ。",
+        "雪是降水。"
       ]
     },
     {
-      "word": "closer",
-      "filename": "closer.md",
+      "word": "snowball",
+      "filename": "snowball.md",
       "lines": [
-        "A closer look is an examination.",
-        "Ein genauerer Blick ist eine Untersuchung.",
-        "より詳しい観察は検査だ。",
-        "更仔细的观察是检查。"
+        "A snowball is a ball.",
+        "Ein Schneeball ist ein Ball.",
+        "雪玉はボールだ。",
+        "雪球是球。"
       ]
     },
     {
-      "word": "closet",
-      "filename": "closet.md",
+      "word": "snowflake",
+      "filename": "snowflake.md",
       "lines": [
-        "A closet is a storage space.",
-        "Ein Schrank ist ein Stauraum.",
-        "クローゼットは収納スペースだ。",
-        "壁橱是储物空间。"
+        "A snowflake is a crystal.",
+        "Eine Schneeflocke ist ein Kristall.",
+        "雪の結晶は結晶だ。",
+        "雪花是晶体。"
       ]
     },
     {
-      "word": "closing",
-      "filename": "closing.md",
+      "word": "snowman",
+      "filename": "snowman.md",
       "lines": [
-        "Closing is a process.",
-        "Schließen ist ein Prozess.",
-        "閉めることはプロセスだ。",
-        "关闭是一个过程。"
+        "A snowman is a figure.",
+        "Ein Schneemann ist eine Figur.",
+        "雪だるまは人形だ。",
+        "雪人是人形。"
       ]
     },
     {
-      "word": "closing_3",
-      "filename": "closing_3.md",
+      "word": "snowy",
+      "filename": "snowy.md",
       "lines": [
-        "A closing is a ceremony.",
-        "Ein Abschluss ist eine Zeremonie.",
-        "閉会は式典だ。",
-        "闭幕是仪式。"
+        "A snowy mountain is a mountain.",
+        "Ein verschneiter Berg ist ein Berg.",
+        "雪山は山だ。",
+        "雪山是山。"
       ]
     },
     {
-      "word": "closing_4",
-      "filename": "closing_4.md",
+      "word": "snug",
+      "filename": "snug.md",
       "lines": [
-        "A closing is a sale.",
-        "Ein Ausverkauf ist ein Verkauf.",
-        "閉店はセールだ。",
-        "关店是促销。"
+        "A snug sweater is a sweater.",
+        "Ein kuscheliger Pullover ist ein Pullover.",
+        "快適なセーターはセーターだ。",
+        "舒适的毛衣是毛衣。"
       ]
     },
     {
-      "word": "closing_5",
-      "filename": "closing_5.md",
+      "word": "snuggle",
+      "filename": "snuggle.md",
       "lines": [
-        "A closing is a statement.",
-        "Ein Schlusswort ist eine Aussage.",
-        "閉会の言葉は声明だ。",
-        "闭幕词是声明。"
+        "Snuggling is hugging.",
+        "Kuscheln ist Umarmen.",
+        "寄り添うことは抱き合うことだ。",
+        "依偎是拥抱。"
       ]
     }
   ],

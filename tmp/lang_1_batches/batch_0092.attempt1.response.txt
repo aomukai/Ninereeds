@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "conscious",
-      "filename": "conscious.md",
+      "word": "stalk",
+      "filename": "stalk.md",
       "lines": [
-        "A conscious person is a living being.",
-        "Ein bewusster Mensch ist ein Lebewesen.",
-        "意識のある人は生き物だ。",
-        "有意识的人是生物。"
+        "A stalk is a plant stem.",
+        "Ein Stängel ist ein Pflanzenteil.",
+        "茎は植物の一部だ。",
+        "茎是植物的一部分。"
       ]
     },
     {
-      "word": "consciousnes",
-      "filename": "consciousnes.md",
+      "word": "stall",
+      "filename": "stall.md",
       "lines": [
-        "Consciousnes is a state.",
-        "Bewusstsein ist ein Zustand.",
-        "意識は状態だ。",
-        "意识是一种状态。"
+        "A stall is a small booth.",
+        "Ein Stand ist ein kleiner Verkaufsstand.",
+        "屋台は小さな売店だ。",
+        "摊位是一个小售货亭。"
       ]
     },
     {
-      "word": "consent",
-      "filename": "consent.md",
+      "word": "stamp",
+      "filename": "stamp.md",
       "lines": [
-        "Consent is a permission.",
-        "Einwilligung ist eine Erlaubnis.",
-        "同意は許可だ。",
-        "同意是一种许可。"
+        "A stamp is a postage label.",
+        "Eine Briefmarke ist ein Postwertzeichen.",
+        "切手は郵便の証紙だ。",
+        "邮票是邮政凭证。"
       ]
     },
     {
-      "word": "consequence",
-      "filename": "consequence.md",
+      "word": "stand",
+      "filename": "stand.md",
       "lines": [
-        "Consequence is an effect.",
-        "Konsequenz ist eine Wirkung.",
-        "結果は影響だ。",
-        "后果是一种影响。"
+        "A stand is a piece of furniture.",
+        "Ein Ständer ist ein Möbelstück.",
+        "スタンドは家具の一種だ。",
+        "架子是一件家具。"
       ]
     },
     {
-      "word": "conservation",
-      "filename": "conservation.md",
+      "word": "standalone",
+      "filename": "standalone.md",
       "lines": [
-        "Conservation is a method.",
-        "Erhaltung ist eine Methode.",
-        "保全は方法だ。",
-        "保护是一种方法。"
+        "A standalone device is a tool.",
+        "Ein eigenständiges Gerät ist ein Werkzeug.",
+        "独立した装置は道具だ。",
+        "独立设备是一种工具。"
       ]
     },
     {
-      "word": "conservative",
-      "filename": "conservative.md",
+      "word": "stanza",
+      "filename": "stanza.md",
       "lines": [
-        "A conservative voter is a citizen.",
-        "Ein konservativer Wähler ist ein Bürger.",
-        "保守的な有権者は市民だ。",
-        "保守的选民是公民。"
+        "A stanza is a part of a poem.",
+        "Eine Strophe ist ein Teil eines Gedichts.",
+        "詩節は詩の一部だ。",
+        "诗节是诗的一部分。"
       ]
     },
     {
-      "word": "conserving",
-      "filename": "conserving.md",
+      "word": "staple",
+      "filename": "staple.md",
       "lines": [
-        "Conserving is protection.",
-        "Bewahren ist Schutz.",
-        "保存することは保護だ。",
-        "保存是保护。"
+        "A staple is a fastener.",
+        "Eine Heftklammer ist ein Befestigungsmittel.",
+        "ステープルは留め具だ。",
+        "订书钉是一种紧固件。"
       ]
     },
     {
-      "word": "consider",
-      "filename": "consider.md",
+      "word": "stapler",
+      "filename": "stapler.md",
       "lines": [
-        "Consider is an action.",
-        "Überlegung ist eine Handlung.",
-        "考慮は行動だ。",
-        "考虑是一种行动。"
+        "A stapler is a tool.",
+        "Ein Tacker ist ein Werkzeug.",
+        "ホッチキスは道具だ。",
+        "订书机是一种工具。"
       ]
     },
     {
-      "word": "considering",
-      "filename": "considering.md",
+      "word": "star",
+      "filename": "star.md",
       "lines": [
-        "Considering is thinking.",
-        "Überlegen ist Denken.",
-        "考えることは思考だ。",
-        "考虑是思考。"
+        "A star is a celestial body.",
+        "Ein Stern ist ein Himmelskörper.",
+        "星は天体だ。",
+        "星星是天体。"
       ]
     },
     {
-      "word": "consistency",
-      "filename": "consistency.md",
+      "word": "starchy",
+      "filename": "starchy.md",
       "lines": [
-        "Consistency is a quality.",
-        "Konsistenz ist eine Eigenschaft.",
-        "一貫性は性質だ。",
-        "一致性是一种性质。"
+        "A starchy potato is a vegetable.",
+        "Eine stärkehaltige Kartoffel ist ein Gemüse.",
+        "でんぷん質のジャガイモは野菜だ。",
+        "含淀粉的土豆是蔬菜。"
       ]
     }
   ],

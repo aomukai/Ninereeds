@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "depression",
-      "filename": "depression.md",
+      "word": "test",
+      "filename": "test.md",
       "lines": [
-        "Depression is a mood disorder.",
-        "Depression ist eine Stimmungsst\u00f6rung.",
-        "\u3046\u3064\u75c5\u306f\u6c17\u5206\u969c\u5bb3\u3060\u3002",
-        "\u6291\u90c1\u75c7\u662f\u4e00\u79cd\u60c5\u7eea\u969c\u788d\u3002"
+        "A test is an examination.",
+        "Ein Test ist eine Prüfung.",
+        "テストは試験だ。",
+        "测试是考试。"
       ]
     },
     {
-      "word": "depriving",
-      "filename": "depriving.md",
+      "word": "testifying",
+      "filename": "testifying.md",
       "lines": [
-        "Depriving is taking away.",
-        "Entziehen ist Wegnehmen.",
-        "\u596a\u3046\u3053\u3068\u306f\u53d6\u308a\u4e0a\u3052\u308b\u3053\u3068\u3060\u3002",
-        "\u5265\u593a\u662f\u62ff\u8d70\u3002"
+        "Testifying is a declaration.",
+        "Aussagen ist eine Erklärung.",
+        "証言することは宣言だ。",
+        "作证是一种声明。"
       ]
     },
     {
-      "word": "depth",
-      "filename": "depth.md",
+      "word": "text",
+      "filename": "text.md",
       "lines": [
-        "Depth is a measurement.",
-        "Tiefe ist eine Ma\u00dfangabe.",
-        "\u6df1\u3055\u306f\u6e2c\u5b9a\u5024\u3060\u3002",
-        "\u6df1\u5ea6\u662f\u4e00\u79cd\u6d4b\u91cf\u3002"
+        "A text is a piece of writing.",
+        "Ein Text ist ein Schriftstück.",
+        "テキストは文章だ。",
+        "文本是书面作品。"
       ]
     },
     {
-      "word": "derivative",
-      "filename": "derivative.md",
+      "word": "texture",
+      "filename": "texture.md",
       "lines": [
-        "A derivative is a financial instrument.",
-        "Ein Derivat ist ein Finanzinstrument.",
-        "\u30c7\u30ea\u30d0\u30c6\u30a3\u30d6\u306f\u91d1\u878d\u5546\u54c1\u3060\u3002",
-        "\u884d\u751f\u54c1\u662f\u4e00\u79cd\u91d1\u878d\u5de5\u5177\u3002"
+        "Texture is a surface property.",
+        "Textur ist eine Oberflächeneigenschaft.",
+        "テクスチャは表面の特性だ。",
+        "纹理是表面特性。"
       ]
     },
     {
-      "word": "deriving",
-      "filename": "deriving.md",
+      "word": "thank",
+      "filename": "thank.md",
       "lines": [
-        "Deriving is obtaining.",
-        "Ableiten ist Gewinnen.",
-        "\u5f97\u308b\u3053\u3068\u306f\u5165\u624b\u3059\u308b\u3053\u3068\u3060\u3002",
-        "\u83b7\u5f97\u662f\u53d6\u5f97\u3002"
+        "Thanking is a social gesture.",
+        "Danken ist eine soziale Geste.",
+        "感謝することは社会的な行為だ。",
+        "感谢是一种社交行为。"
       ]
     },
     {
-      "word": "descending",
-      "filename": "descending.md",
+      "word": "thankful",
+      "filename": "thankful.md",
       "lines": [
-        "Descending is moving downward.",
-        "Absteigen ist eine Abw\u00e4rtsbewegung.",
-        "\u964d\u308a\u308b\u3053\u3068\u306f\u4e0b\u306b\u79fb\u52d5\u3059\u308b\u3053\u3068\u3060\u3002",
-        "\u4e0b\u964d\u662f\u5411\u4e0b\u79fb\u52a8\u3002"
+        "A thankful smile is a facial expression.",
+        "Ein dankbares Lächeln ist ein Gesichtsausdruck.",
+        "感謝している笑顔は表情だ。",
+        "感恩的微笑是一种面部表情。"
       ]
     },
     {
-      "word": "describe",
-      "filename": "describe.md",
+      "word": "thankfulness",
+      "filename": "thankfulness.md",
       "lines": [
-        "Describing is explaining.",
-        "Beschreiben ist Erkl\u00e4ren.",
-        "\u8aac\u660e\u3059\u308b\u3053\u3068\u306f\u89e3\u91c8\u3059\u308b\u3053\u3068\u3060\u3002",
-        "\u63cf\u8ff0\u662f\u89e3\u91ca\u3002"
+        "Thankfulness is a feeling.",
+        "Dankbarkeit ist ein Gefühl.",
+        "感謝は感情だ。",
+        "感激是一种情感。"
       ]
     },
     {
-      "word": "describing",
-      "filename": "describing.md",
+      "word": "thanking",
+      "filename": "thanking.md",
       "lines": [
-        "Describing is explaining.",
-        "Beschreiben ist Erkl\u00e4ren.",
-        "\u8aac\u660e\u3059\u308b\u3053\u3068\u306f\u89e3\u91c8\u3059\u308b\u3053\u3068\u3060\u3002",
-        "\u63cf\u8ff0\u662f\u89e3\u91ca\u3002"
+        "Thanking is a polite act.",
+        "Danken ist eine höfliche Handlung.",
+        "感謝することは礼儀正しい行為だ。",
+        "感谢是一种礼貌行为。"
       ]
     },
     {
-      "word": "description",
-      "filename": "description.md",
+      "word": "theater",
+      "filename": "theater.md",
       "lines": [
-        "A description is an explanation.",
-        "Eine Beschreibung ist eine Erkl\u00e4rung.",
-        "\u8aac\u660e\u306f\u89e3\u91c8\u3060\u3002",
-        "\u63cf\u8ff0\u662f\u4e00\u79cd\u89e3\u91ca\u3002"
+        "A theater is a place for performances.",
+        "Ein Theater ist ein Ort für Aufführungen.",
+        "劇場は公演のための場所だ。",
+        "剧院是表演的场所。"
       ]
     },
     {
-      "word": "descrying",
-      "filename": "descrying.md",
+      "word": "the back of the hand",
+      "filename": "the_back_of_the_hand.md",
       "lines": [
-        "Descrying is seeing.",
-        "Ersp\u00e4hen ist Sehen.",
-        "\u898b\u3064\u3051\u308b\u3053\u3068\u306f\u898b\u308b\u3053\u3068\u3060\u3002",
-        "\u53d1\u73b0\u662f\u770b\u89c1\u3002"
+        "The back of the hand is a body part.",
+        "Der Handrücken ist ein Körperteil.",
+        "手の甲は体の一部だ。",
+        "手背是身体的一部分。"
       ]
     }
   ],

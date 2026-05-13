@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "farce",
-      "filename": "farce.md",
+      "word": "view",
+      "filename": "view.md",
       "lines": [
-        "A farce is a comedy.",
-        "Eine Farce ist eine Komödie.",
-        "ファースは喜劇だ。",
-        "闹剧是喜剧。"
+        "A view is a sight.",
+        "Eine Aussicht ist ein Anblick.",
+        "景色は眺めだ。",
+        "景色是景象。"
       ]
     },
     {
-      "word": "farm",
-      "filename": "farm.md",
+      "word": "viewpoint",
+      "filename": "viewpoint.md",
       "lines": [
-        "A farm is a place.",
-        "Ein Bauernhof ist ein Ort.",
-        "農場は場所だ。",
-        "农场是一个地方。"
+        "A viewpoint is a perspective.",
+        "Ein Standpunkt ist eine Perspektive.",
+        "観点は視点だ。",
+        "观点是视角。"
       ]
     },
     {
-      "word": "farmer",
-      "filename": "farmer.md",
+      "word": "village",
+      "filename": "village.md",
       "lines": [
-        "A farmer is a person.",
-        "Ein Bauer ist eine Person.",
-        "農家は人だ。",
-        "农民是人。"
+        "A village is a settlement.",
+        "Ein Dorf ist eine Siedlung.",
+        "村は集落だ。",
+        "村庄是定居点。"
       ]
     },
     {
-      "word": "farmhouse",
-      "filename": "farmhouse.md",
+      "word": "villain",
+      "filename": "villain.md",
       "lines": [
-        "A farmhouse is a building.",
-        "Ein Bauernhaus ist ein Gebäude.",
-        "農家の家は建物だ。",
-        "农舍是建筑物。"
+        "A villain is a character.",
+        "Ein Bösewicht ist eine Figur.",
+        "悪役はキャラクターだ。",
+        "反派是角色。"
       ]
     },
     {
-      "word": "farmyard",
-      "filename": "farmyard.md",
+      "word": "villainous",
+      "filename": "villainous.md",
       "lines": [
-        "A farmyard is an area.",
-        "Ein Bauernhof ist ein Bereich.",
-        "農場の庭はエリアだ。",
-        "农场庭院是区域。"
+        "A villainous act is a deed.",
+        "Eine böse Tat ist eine Handlung.",
+        "邪悪な行為は行動だ。",
+        "邪恶的行为是举动。"
       ]
     },
     {
-      "word": "farther",
-      "filename": "farther.md",
+      "word": "vine",
+      "filename": "vine.md",
       "lines": [
-        "A farther place is a location.",
-        "Ein weiterer Ort ist ein Standort.",
-        "もっと遠い場所は位置だ。",
-        "更远的地方是位置。"
+        "A vine is a plant.",
+        "Eine Ranke ist eine Pflanze.",
+        "つるは植物だ。",
+        "藤蔓是植物。"
       ]
     },
     {
-      "word": "fast",
-      "filename": "fast.md",
+      "word": "vinegar",
+      "filename": "vinegar.md",
       "lines": [
-        "A fast car is a vehicle.",
-        "Ein schnelles Auto ist ein Fahrzeug.",
-        "速い車は乗り物だ。",
-        "快的车是车辆。"
+        "Vinegar is a liquid.",
+        "Essig ist eine Flüssigkeit.",
+        "酢は液体だ。",
+        "醋是液体。"
       ]
     },
     {
-      "word": "fastener",
-      "filename": "fastener.md",
+      "word": "vineyard",
+      "filename": "vineyard.md",
       "lines": [
-        "A fastener is a device.",
-        "Ein Verschluss ist ein Gerät.",
-        "留め具は装置だ。",
-        "紧固件是装置。"
+        "A vineyard is a farm.",
+        "Ein Weinberg ist ein Bauernhof.",
+        "ブドウ園は農場だ。",
+        "葡萄园是农场。"
       ]
     },
     {
-      "word": "fastening",
-      "filename": "fastening.md",
+      "word": "vinyl",
+      "filename": "vinyl.md",
       "lines": [
-        "A fastening is a connection.",
-        "Eine Befestigung ist eine Verbindung.",
-        "固定は接続だ。",
-        "固定是连接。"
+        "Vinyl is a plastic.",
+        "Vinyl ist ein Kunststoff.",
+        "ビニールはプラスチックだ。",
+        "乙烯基是塑料。"
       ]
     },
     {
-      "word": "fat",
-      "filename": "fat.md",
+      "word": "violating",
+      "filename": "violating.md",
       "lines": [
-        "A fat pig is an animal.",
-        "Ein fettes Schwein ist ein Tier.",
-        "太った豚は動物だ。",
-        "肥猪是动物。"
+        "Violating is an offense.",
+        "Verstoßen ist eine Straftat.",
+        "違反は犯罪だ。",
+        "违反是违法行为。"
       ]
     }
   ],

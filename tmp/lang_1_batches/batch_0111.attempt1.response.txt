@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "cushion",
-      "filename": "cushion.md",
+      "word": "sweatshirt",
+      "filename": "sweatshirt.md",
       "lines": [
-        "A cushion is a soft object.",
-        "Ein Kissen ist ein weicher Gegenstand.",
-        "クッションは柔らかい物だ。",
-        "靠垫是一种柔软的物体。"
+        "A sweatshirt is a piece of clothing.",
+        "Ein Sweatshirt ist ein Kleidungsstück.",
+        "スウェットシャツは衣服だ。",
+        "卫衣是衣服。"
       ]
     },
     {
-      "word": "customer",
-      "filename": "customer.md",
+      "word": "sweep",
+      "filename": "sweep.md",
       "lines": [
-        "A customer is a person.",
-        "Ein Kunde ist eine Person.",
-        "客は人だ。",
-        "顾客是人。"
+        "A sweep is a cleaning action.",
+        "Ein Kehren ist eine Reinigungsaktion.",
+        "掃きは掃除の動作だ。",
+        "清扫是一种清洁动作。"
       ]
     },
     {
-      "word": "cut",
-      "filename": "cut.md",
+      "word": "sweet",
+      "filename": "sweet.md",
       "lines": [
-        "Cutting is an action.",
-        "Schneiden ist eine Handlung.",
-        "切ることは動作だ。",
-        "切割是一种动作。"
+        "A sweet apple is a fruit.",
+        "Ein süßer Apfel ist eine Frucht.",
+        "甘いりんごは果物だ。",
+        "甜苹果是水果。"
       ]
     },
     {
-      "word": "cute",
-      "filename": "cute.md",
+      "word": "swell",
+      "filename": "swell.md",
       "lines": [
-        "A cute cat is an animal.",
-        "Eine süße Katze ist ein Tier.",
-        "かわいい猫は動物だ。",
-        "可爱的猫是动物。"
+        "A swell is a wave.",
+        "Eine Dünung ist eine Welle.",
+        "うねりは波だ。",
+        "涌浪是波浪。"
       ]
     },
     {
-      "word": "cutter",
-      "filename": "cutter.md",
+      "word": "swept",
+      "filename": "swept.md",
       "lines": [
-        "A cutter is a tool.",
-        "Ein Cutter ist ein Werkzeug.",
-        "カッターは道具だ。",
-        "切割器是一种工具。"
+        "A swept floor is a surface.",
+        "Ein gefegter Boden ist eine Oberfläche.",
+        "掃かれた床は表面だ。",
+        "扫过的地板是表面。"
       ]
     },
     {
-      "word": "cutting",
-      "filename": "cutting.md",
+      "word": "swim",
+      "filename": "swim.md",
       "lines": [
-        "Cutting is an action.",
-        "Schneiden ist eine Handlung.",
-        "切ることは動作だ。",
-        "切割是一种动作。"
+        "Swim is an activity.",
+        "Schwimmen ist eine Aktivität.",
+        "水泳は活動だ。",
+        "游泳是活动。"
       ]
     },
     {
-      "word": "cycle",
-      "filename": "cycle.md",
+      "word": "swimmer",
+      "filename": "swimmer.md",
       "lines": [
-        "A cycle is a process.",
-        "Ein Kreislauf ist ein Prozess.",
-        "サイクルは過程だ。",
-        "循环是一个过程。"
+        "A swimmer is a person.",
+        "Ein Schwimmer ist eine Person.",
+        "スイマーは人だ。",
+        "游泳者是人。"
       ]
     },
     {
-      "word": "cylinder",
-      "filename": "cylinder.md",
+      "word": "swimming",
+      "filename": "swimming.md",
       "lines": [
-        "A cylinder is a shape.",
-        "Ein Zylinder ist eine Form.",
-        "円柱は形だ。",
-        "圆柱体是一种形状。"
+        "Swimming is a sport.",
+        "Schwimmen ist ein Sport.",
+        "水泳はスポーツだ。",
+        "游泳是运动。"
       ]
     },
     {
-      "word": "cymbal",
-      "filename": "cymbal.md",
+      "word": "swing",
+      "filename": "swing.md",
       "lines": [
-        "A cymbal is an instrument.",
-        "Ein Becken ist ein Instrument.",
-        "シンバルは楽器だ。",
-        "钹是一种乐器。"
+        "A swing is a seat.",
+        "Eine Schaukel ist ein Sitz.",
+        "ブランコは座席だ。",
+        "秋千是座位。"
       ]
     },
     {
-      "word": "dad",
-      "filename": "dad.md",
+      "word": "swipe",
+      "filename": "swipe.md",
       "lines": [
-        "A dad is a parent.",
-        "Ein Vater ist ein Elternteil.",
-        "お父さんは親だ。",
-        "爸爸是家长。"
+        "A swipe is a movement.",
+        "Ein Wischen ist eine Bewegung.",
+        "スワイプは動作だ。",
+        "滑动是一种动作。"
       ]
     }
   ],

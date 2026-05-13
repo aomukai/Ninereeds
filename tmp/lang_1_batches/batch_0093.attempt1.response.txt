@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "consistent",
-      "filename": "consistent.md",
+      "word": "stare",
+      "filename": "stare.md",
       "lines": [
-        "A consistent color is a shade.",
-        "Eine konsistente Farbe ist ein Farbton.",
-        "一貫した色は色合いだ。",
-        "一致的颜色是一种色调。"
+        "Staring is looking.",
+        "Starren ist Anschauen.",
+        "じっと見ることは見ることだ。",
+        "盯着看是看。"
       ]
     },
     {
-      "word": "consisting",
-      "filename": "consisting.md",
+      "word": "starfish",
+      "filename": "starfish.md",
       "lines": [
-        "Consisting is composition.",
-        "Bestehen ist Zusammensetzung.",
-        "構成することは組成だ。",
-        "组成是构成。"
+        "A starfish is an animal.",
+        "Ein Seestern ist ein Tier.",
+        "ヒトデは動物だ。",
+        "海星是动物。"
       ]
     },
     {
-      "word": "consolidating",
-      "filename": "consolidating.md",
+      "word": "starlight",
+      "filename": "starlight.md",
       "lines": [
-        "Consolidating is merging.",
-        "Konsolidieren ist Zusammenführen.",
-        "統合することは合併だ。",
-        "整合是合并。"
+        "Starlight is light.",
+        "Sternenlicht ist Licht.",
+        "星の光は光だ。",
+        "星光是一种光。"
       ]
     },
     {
-      "word": "consolidation",
-      "filename": "consolidation.md",
+      "word": "star-shaped",
+      "filename": "star-shaped.md",
       "lines": [
-        "Consolidation is a process.",
-        "Konsolidierung ist ein Prozess.",
-        "統合はプロセスだ。",
-        "整合是一个过程。"
+        "A star-shaped cookie is a cookie.",
+        "Ein sternförmiger Keks ist ein Keks.",
+        "星形のクッキーはクッキーだ。",
+        "星形的饼干是饼干。"
       ]
     },
     {
-      "word": "constant",
-      "filename": "constant.md",
+      "word": "start",
+      "filename": "start.md",
       "lines": [
-        "A constant sound is a tone.",
-        "Ein konstanter Ton ist ein Klang.",
-        "一定の音は音色だ。",
-        "恒定的声音是一种音调。"
+        "Starting is beginning.",
+        "Starten ist ein Anfang.",
+        "始めることは始まりだ。",
+        "开始是开端。"
       ]
     },
     {
-      "word": "constituting",
-      "filename": "constituting.md",
+      "word": "startle",
+      "filename": "startle.md",
       "lines": [
-        "Constituting is forming.",
-        "Bilden ist Formen.",
-        "構成することは形成だ。",
-        "构成是形成。"
+        "Startling is surprising.",
+        "Erschrecken ist Überraschen.",
+        "驚かせることは驚きだ。",
+        "使惊吓是惊吓。"
       ]
     },
     {
-      "word": "constraining",
-      "filename": "constraining.md",
+      "word": "state",
+      "filename": "state.md",
       "lines": [
-        "Constraining is limiting.",
-        "Einschränken ist Begrenzen.",
-        "制約することは制限だ。",
-        "约束是限制。"
+        "A state is a condition.",
+        "Ein Zustand ist eine Situation.",
+        "状態は状況だ。",
+        "状态是情况。"
       ]
     },
     {
-      "word": "construct",
-      "filename": "construct.md",
+      "word": "statement",
+      "filename": "statement.md",
       "lines": [
-        "Constructing is building.",
-        "Konstruieren ist Bauen.",
-        "建設することは建築だ。",
-        "建造是建筑。"
+        "A statement is a declaration.",
+        "Eine Aussage ist eine Erklärung.",
+        "声明は宣言だ。",
+        "声明是宣言。"
       ]
     },
     {
-      "word": "construction",
-      "filename": "construction.md",
+      "word": "static",
+      "filename": "static.md",
       "lines": [
-        "Construction is an activity.",
-        "Bau ist eine Tätigkeit.",
-        "建設は活動だ。",
-        "建设是一种活动。"
+        "A static picture is a picture.",
+        "Ein statisches Bild ist ein Bild.",
+        "静的な画像は画像だ。",
+        "静态的图片是图片。"
       ]
     },
     {
-      "word": "construing",
-      "filename": "construing.md",
+      "word": "station",
+      "filename": "station.md",
       "lines": [
-        "Construing is interpretation.",
-        "Auslegen ist Interpretation.",
-        "解釈することは解釈だ。",
-        "解释是解释。"
+        "A station is a place.",
+        "Eine Station ist ein Ort.",
+        "駅は場所だ。",
+        "车站是地点。"
       ]
     }
   ],

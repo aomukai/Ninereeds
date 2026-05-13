@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "compass",
-      "filename": "compass.md",
+      "word": "spell",
+      "filename": "spell.md",
       "lines": [
-        "A compass is a tool.",
-        "Ein Kompass ist ein Werkzeug.",
-        "コンパスは道具だ。",
-        "指南针是一种工具。"
+        "A spell is a magic word.",
+        "Ein Zauber ist ein magisches Wort.",
+        "呪文は魔法の言葉だ。",
+        "咒语是魔法单词。"
       ]
     },
     {
-      "word": "compassion",
-      "filename": "compassion.md",
+      "word": "spend",
+      "filename": "spend.md",
       "lines": [
-        "Compassion is a feeling.",
-        "Mitgefühl ist ein Gefühl.",
-        "思いやりは感情だ。",
-        "同情是一种情感。"
+        "Spending is using money.",
+        "Ausgeben ist Geld ausgeben.",
+        "支出はお金を使うことだ。",
+        "花钱是使用金钱。"
       ]
     },
     {
-      "word": "compensation",
-      "filename": "compensation.md",
+      "word": "spending",
+      "filename": "spending.md",
       "lines": [
-        "Compensation is a payment.",
-        "Entschädigung ist eine Zahlung.",
-        "補償は支払いだ。",
-        "补偿是一种支付。"
+        "Spending is an economic activity.",
+        "Das Ausgeben ist eine wirtschaftliche Tätigkeit.",
+        "支出は経済活動だ。",
+        "支出是经济活动。"
       ]
     },
     {
-      "word": "competency",
-      "filename": "competency.md",
+      "word": "spent",
+      "filename": "spent.md",
       "lines": [
-        "Competency is a skill.",
-        "Kompetenz ist eine Fähigkeit.",
-        "能力はスキルだ。",
-        "能力是一种技能。"
+        "A spent match is a burned match.",
+        "Ein abgebranntes Streichholz ist ein verbranntes Streichholz.",
+        "使い切ったマッチは燃えたマッチだ。",
+        "用过的火柴是烧过的火柴。"
       ]
     },
     {
-      "word": "competing",
-      "filename": "competing.md",
+      "word": "sphere",
+      "filename": "sphere.md",
       "lines": [
-        "Competing is a contest.",
-        "Konkurrieren ist ein Wettstreit.",
-        "競争することは活動だ。",
-        "竞争是一种行为。"
+        "A sphere is a round object.",
+        "Eine Kugel ist ein runder Gegenstand.",
+        "球は丸い物体だ。",
+        "球体是圆形物体。"
       ]
     },
     {
-      "word": "competition",
-      "filename": "competition.md",
+      "word": "spice",
+      "filename": "spice.md",
       "lines": [
-        "Competition is an event.",
-        "Wettbewerb ist eine Veranstaltung.",
-        "競争はイベントだ。",
-        "竞争是一种活动。"
+        "A spice is a flavoring ingredient.",
+        "Ein Gewürz ist eine geschmacksgebende Zutat.",
+        "スパイスは香辛料だ。",
+        "香料是调味品。"
       ]
     },
     {
-      "word": "complaint",
-      "filename": "complaint.md",
+      "word": "spicy",
+      "filename": "spicy.md",
       "lines": [
-        "A complaint is a statement.",
-        "Eine Beschwerde ist eine Aussage.",
-        "苦情は声明だ。",
-        "投诉是一种声明。"
+        "A spicy pepper is a vegetable.",
+        "Eine scharfe Paprika ist ein Gemüse.",
+        "辛い唐辛子は野菜だ。",
+        "辛辣的辣椒是蔬菜。"
       ]
     },
     {
-      "word": "complete",
-      "filename": "complete.md",
+      "word": "spider",
+      "filename": "spider.md",
       "lines": [
-        "A complete puzzle is a toy.",
-        "Ein vollständiges Puzzle ist ein Spielzeug.",
-        "完全なパズルはおもちゃだ。",
-        "完整的拼图是一种玩具。"
+        "A spider is an animal.",
+        "Eine Spinne ist ein Tier.",
+        "クモは動物だ。",
+        "蜘蛛是动物。"
       ]
     },
     {
-      "word": "completenes",
-      "filename": "completenes.md",
+      "word": "spider 3",
+      "filename": "spider_3.md",
       "lines": [
-        "Completeness is a state.",
-        "Vollständigkeit ist ein Zustand.",
-        "完全性は状態だ。",
-        "完整性是一种状态。"
+        "Spider 3 is a toy robot.",
+        "Spider 3 ist ein Spielzeugroboter.",
+        "スパイダー3はおもちゃのロボットだ。",
+        "蜘蛛3是玩具机器人。"
       ]
     },
     {
-      "word": "completing",
-      "filename": "completing.md",
+      "word": "spike",
+      "filename": "spike.md",
       "lines": [
-        "Completing is a process.",
-        "Vervollständigen ist ein Prozess.",
-        "完了することはプロセスだ。",
-        "完成是一个过程。"
+        "A spike is a sharp object.",
+        "Ein Stachel ist ein spitzer Gegenstand.",
+        "スパイクは尖った物だ。",
+        "尖刺是尖锐的物体。"
       ]
     }
   ],

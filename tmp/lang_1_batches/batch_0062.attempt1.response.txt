@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "carf",
-      "filename": "carf.md",
+      "word": "shelf",
+      "filename": "shelf.md",
       "lines": [
-        "A carf is a vehicle.",
-        "Ein Carf ist ein Fahrzeug.",
-        "カーフは車両だ。",
-        "卡夫是车辆。"
+        "A shelf is a flat surface.",
+        "Ein Regal ist eine flache Fläche.",
+        "棚は平らな面だ。",
+        "架子是平的表面。"
       ]
     },
     {
-      "word": "cargo",
-      "filename": "cargo.md",
+      "word": "shell",
+      "filename": "shell.md",
       "lines": [
-        "Cargo is goods.",
-        "Cargo ist Ware.",
-        "カーゴは商品だ。",
-        "货物是商品。"
+        "A shell is a hard covering.",
+        "Eine Schale ist eine harte Hülle.",
+        "殻は硬い覆いだ。",
+        "壳是硬的覆盖物。"
       ]
     },
     {
-      "word": "caring",
-      "filename": "caring.md",
+      "word": "shelter",
+      "filename": "shelter.md",
       "lines": [
-        "A caring person is a helper.",
-        "Ein fürsorglicher Mensch ist ein Helfer.",
-        "思いやりのある人は助け手だ。",
-        "关心他人的人是帮手。"
+        "A shelter is a place of safety.",
+        "Ein Unterschlupf ist ein sicherer Ort.",
+        "避難所は安全な場所だ。",
+        "避难所是安全的地方。"
       ]
     },
     {
-      "word": "carpenter",
-      "filename": "carpenter.md",
+      "word": "shepherd",
+      "filename": "shepherd.md",
       "lines": [
-        "A carpenter is a craftsman.",
-        "Ein Zimmermann ist ein Handwerker.",
-        "大工は職人だ。",
-        "木匠是工匠。"
+        "A shepherd is a person who cares for sheep.",
+        "Ein Schäfer ist ein Hirt.",
+        "羊飼いは羊を世話する人だ。",
+        "牧羊人是放羊的人。"
       ]
     },
     {
-      "word": "carpet",
-      "filename": "carpet.md",
+      "word": "shield",
+      "filename": "shield.md",
       "lines": [
-        "A carpet is a floor covering.",
-        "Ein Teppich ist ein Bodenbelag.",
-        "カーペットは床材だ。",
-        "地毯是地面覆盖物。"
+        "A shield is a protective object.",
+        "Ein Schild ist ein schützender Gegenstand.",
+        "盾は防御の道具だ。",
+        "盾牌是防护的物品。"
       ]
     },
     {
-      "word": "carried",
-      "filename": "carried.md",
+      "word": "shift",
+      "filename": "shift.md",
       "lines": [
-        "A carried object is a load.",
-        "Ein getragener Gegenstand ist eine Last.",
-        "運ばれた物は荷物だ。",
-        "被携带的物品是负载。"
+        "A shift is a period of work.",
+        "Eine Schicht ist eine Arbeitsperiode.",
+        "シフトは勤務時間だ。",
+        "班次是一段工作时间。"
       ]
     },
     {
-      "word": "carrier",
-      "filename": "carrier.md",
+      "word": "shin",
+      "filename": "shin.md",
       "lines": [
-        "A carrier is a transporter.",
-        "Ein Träger ist ein Transporteur.",
-        "運搬者は運送者だ。",
-        "承运人是运输者。"
+        "A shin is a part of the leg.",
+        "Ein Schienbein ist ein Teil des Beins.",
+        "すねは脚の一部だ。",
+        "胫是腿的一部分。"
       ]
     },
     {
-      "word": "carrot",
-      "filename": "carrot.md",
+      "word": "shinbone",
+      "filename": "shinbone.md",
       "lines": [
-        "A carrot is a vegetable.",
-        "Eine Karotte ist ein Gemüse.",
-        "にんじんは野菜だ。",
-        "胡萝卜是蔬菜。"
+        "A shinbone is a bone in the leg.",
+        "Ein Schienbein ist ein Knochen im Bein.",
+        "脛骨は脚の骨だ。",
+        "胫骨是腿里的骨头。"
       ]
     },
     {
-      "word": "carry",
-      "filename": "carry.md",
+      "word": "shine",
+      "filename": "shine.md",
       "lines": [
-        "Carrying is movement.",
-        "Tragen ist Bewegung.",
-        "運ぶことは移動だ。",
-        "搬运是移动。"
+        "Shine is brightness.",
+        "Glanz ist Helligkeit.",
+        "光沢は明るさだ。",
+        "光泽是亮度。"
       ]
     },
     {
-      "word": "cart",
-      "filename": "cart.md",
+      "word": "shiny",
+      "filename": "shiny.md",
       "lines": [
-        "A cart is a vehicle.",
-        "Ein Karren ist ein Fahrzeug.",
-        "カートは車両だ。",
-        "手推车是车辆。"
+        "A shiny coin is a coin.",
+        "Eine glänzende Münze ist eine Münze.",
+        "光るコインはコインだ。",
+        "闪亮的硬币是硬币。"
       ]
     }
   ],

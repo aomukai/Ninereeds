@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "colorful",
-      "filename": "colorful.md",
+      "word": "south",
+      "filename": "south.md",
       "lines": [
-        "A colorful bird is an animal.",
-        "Ein bunter Vogel ist ein Tier.",
-        "カラフルな鳥は動物だ。",
-        "多彩的鸟是动物。"
+        "South is a direction.",
+        "Süden ist eine Himmelsrichtung.",
+        "南は方角だ。",
+        "南方是一个方向。"
       ]
     },
     {
-      "word": "coloring",
-      "filename": "coloring.md",
+      "word": "soy",
+      "filename": "soy.md",
       "lines": [
-        "Coloring is an activity.",
-        "Ausmalen ist eine Aktivität.",
-        "塗り絵は活動だ。",
-        "涂色是一种活动。"
+        "Soy is a bean.",
+        "Soja ist eine Bohne.",
+        "大豆は豆だ。",
+        "大豆是一种豆类。"
       ]
     },
     {
-      "word": "colour",
-      "filename": "colour.md",
+      "word": "space",
+      "filename": "space.md",
       "lines": [
-        "Colour is a property.",
-        "Farbe ist eine Eigenschaft.",
-        "色は特性だ。",
-        "颜色是一种属性。"
+        "Space is a place.",
+        "Raum ist ein Ort.",
+        "空間は場所だ。",
+        "空间是一个地方。"
       ]
     },
     {
-      "word": "column",
-      "filename": "column.md",
+      "word": "spaceship",
+      "filename": "spaceship.md",
       "lines": [
-        "A column is a structure.",
-        "Eine Säule ist eine Struktur.",
-        "柱は構造物だ。",
-        "柱子是一种结构。"
+        "A spaceship is a vehicle.",
+        "Ein Raumschiff ist ein Fahrzeug.",
+        "宇宙船は乗り物だ。",
+        "宇宙飞船是一种交通工具。"
       ]
     },
     {
-      "word": "comb",
-      "filename": "comb.md",
+      "word": "spacetime",
+      "filename": "spacetime.md",
       "lines": [
-        "A comb is a tool.",
-        "Ein Kamm ist ein Werkzeug.",
-        "櫛は道具だ。",
-        "梳子是一种工具。"
+        "Spacetime is a concept.",
+        "Raumzeit ist ein Konzept.",
+        "時空は概念だ。",
+        "时空是一个概念。"
       ]
     },
     {
-      "word": "combination",
-      "filename": "combination.md",
+      "word": "spacy",
+      "filename": "spacy.md",
       "lines": [
-        "A combination is a collection.",
-        "Eine Kombination ist eine Sammlung.",
-        "組み合わせは集まりだ。",
-        "组合是一个集合。"
+        "A spacy room is a room.",
+        "Ein geräumiges Zimmer ist ein Zimmer.",
+        "広い部屋は部屋だ。",
+        "宽敞的房间是一个房间。"
       ]
     },
     {
-      "word": "combine",
-      "filename": "combine.md",
+      "word": "spaghetti",
+      "filename": "spaghetti.md",
       "lines": [
-        "Combining is merging.",
-        "Kombinieren ist Verschmelzen.",
-        "組み合わせることは融合だ。",
-        "结合是合并。"
+        "Spaghetti is a food.",
+        "Spaghetti ist ein Lebensmittel.",
+        "スパゲッティは食べ物だ。",
+        "意大利面是一种食物。"
       ]
     },
     {
-      "word": "come",
-      "filename": "come.md",
+      "word": "span",
+      "filename": "span.md",
       "lines": [
-        "Coming is arrival.",
-        "Kommen ist Ankunft.",
-        "来ることは到着だ。",
-        "到来是到达。"
+        "A span is a length.",
+        "Eine Spanne ist eine Länge.",
+        "スパンは長さだ。",
+        "跨度是一种长度。"
       ]
     },
     {
-      "word": "comedy",
-      "filename": "comedy.md",
+      "word": "sparing",
+      "filename": "sparing.md",
       "lines": [
-        "Comedy is a genre.",
-        "Komödie ist ein Genre.",
-        "コメディはジャンルだ。",
-        "喜剧是一种类型。"
+        "Sparing is reduction.",
+        "Sparen ist Reduzierung.",
+        "節約は削減だ。",
+        "节约是减少。"
       ]
     },
     {
-      "word": "comfort",
-      "filename": "comfort.md",
+      "word": "spark",
+      "filename": "spark.md",
       "lines": [
-        "Comfort is a state.",
-        "Komfort ist ein Zustand.",
-        "快適さは状態だ。",
-        "舒适是一种状态。"
+        "A spark is a light.",
+        "Ein Funke ist ein Licht.",
+        "火花は光だ。",
+        "火花是光。"
       ]
     }
   ],

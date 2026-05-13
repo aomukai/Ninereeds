@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "apart",
-      "filename": "apart.md",
+      "word": "quarrying",
+      "filename": "quarrying.md",
       "lines": [
-        "An apart room is a room.",
-        "Ein apartes Zimmer ist ein Zimmer.",
-        "離れた部屋は部屋だ。",
-        "一个分开的房间是房间。"
+        "Quarrying is mining.",
+        "Steinbrucharbeit ist Bergbau.",
+        "採石は採掘だ。",
+        "采石是采矿。"
       ]
     },
     {
-      "word": "apartment",
-      "filename": "apartment.md",
+      "word": "quarter",
+      "filename": "quarter.md",
       "lines": [
-        "An apartment is a home.",
-        "Eine Wohnung ist ein Zuhause.",
-        "アパートは家だ。",
-        "公寓是一个家。"
+        "A quarter is a part.",
+        "Ein Viertel ist ein Teil.",
+        "4分の1は一部分だ。",
+        "四分之一是一部分。"
       ]
     },
     {
-      "word": "ape",
-      "filename": "ape.md",
+      "word": "quartz",
+      "filename": "quartz.md",
       "lines": [
-        "An ape is a primate.",
-        "Ein Affe ist ein Primat.",
-        "類人猿は霊長類だ。",
-        "猿是一种灵长类动物。"
+        "Quartz is a mineral.",
+        "Quarz ist ein Mineral.",
+        "石英は鉱物だ。",
+        "石英是矿物。"
       ]
     },
     {
-      "word": "apologizing",
-      "filename": "apologizing.md",
+      "word": "queen",
+      "filename": "queen.md",
       "lines": [
-        "Apologizing is an expression.",
-        "Sich entschuldigen ist ein Ausdruck.",
-        "謝ることは表現だ。",
-        "道歉是一种表达。"
+        "A queen is a ruler.",
+        "Eine Königin ist eine Herrscherin.",
+        "女王は統治者だ。",
+        "女王是统治者。"
       ]
     },
     {
-      "word": "apology",
-      "filename": "apology.md",
+      "word": "querying",
+      "filename": "querying.md",
       "lines": [
-        "An apology is a statement.",
-        "Eine Entschuldigung ist eine Aussage.",
-        "謝罪は声明だ。",
-        "道歉是一种声明。"
+        "Querying is questioning.",
+        "Abfragen ist Fragen.",
+        "問い合わせることは質問だ。",
+        "查询是提问。"
       ]
     },
     {
-      "word": "apostrophe",
-      "filename": "apostrophe.md",
+      "word": "question",
+      "filename": "question.md",
       "lines": [
-        "An apostrophe is a punctuation mark.",
-        "Ein Apostroph ist ein Satzzeichen.",
-        "アポストロフィーは句読点だ。",
-        "撇号是一种标点符号。"
+        "A question is an inquiry.",
+        "Eine Frage ist eine Anfrage.",
+        "質問は問い合わせだ。",
+        "问题是一种询问。"
       ]
     },
     {
-      "word": "apparent",
-      "filename": "apparent.md",
+      "word": "queue",
+      "filename": "queue.md",
       "lines": [
-        "An apparent error is an error.",
-        "Ein offensichtlicher Fehler ist ein Fehler.",
-        "明らかな誤りは誤りだ。",
-        "明显的错误是错误。"
+        "A queue is a line.",
+        "Eine Warteschlange ist eine Reihe.",
+        "待ち行列は列だ。",
+        "队列是一排。"
       ]
     },
     {
-      "word": "appear",
-      "filename": "appear.md",
+      "word": "quick",
+      "filename": "quick.md",
       "lines": [
-        "Appearing is a phenomenon.",
-        "Erscheinen ist ein Phänomen.",
-        "現れることは現象だ。",
-        "出现是一种现象。"
+        "A quick rabbit is an animal.",
+        "Ein schnelles Kaninchen ist ein Tier.",
+        "速いウサギは動物だ。",
+        "快的兔子是动物。"
       ]
     },
     {
-      "word": "appearance",
-      "filename": "appearance.md",
+      "word": "quiet",
+      "filename": "quiet.md",
       "lines": [
-        "An appearance is an event.",
-        "Eine Erscheinung ist ein Ereignis.",
-        "出現は出来事だ。",
-        "出现是一个事件。"
+        "A quiet room is a place.",
+        "Ein ruhiger Raum ist ein Ort.",
+        "静かな部屋は場所だ。",
+        "安静的房间是地方。"
       ]
     },
     {
-      "word": "appearing",
-      "filename": "appearing.md",
+      "word": "quilt",
+      "filename": "quilt.md",
       "lines": [
-        "Appearing is a process.",
-        "Erscheinen ist ein Prozess.",
-        "現れることは過程だ。",
-        "出现是一个过程。"
+        "A quilt is a blanket.",
+        "Eine Steppdecke ist eine Decke.",
+        "キルトは毛布だ。",
+        "被子是毯子。"
       ]
     }
   ],

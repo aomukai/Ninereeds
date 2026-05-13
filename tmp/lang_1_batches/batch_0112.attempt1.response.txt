@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "daily",
-      "filename": "daily.md",
+      "word": "swiping",
+      "filename": "swiping.md",
       "lines": [
-        "A daily newspaper is a publication.",
-        "Eine Tageszeitung ist eine Veröffentlichung.",
-        "日刊新聞は出版物だ。",
-        "日报是一种出版物。"
+        "Swiping is movement.",
+        "Wischen ist Bewegung.",
+        "スワイプは動きだ。",
+        "滑动是移动。"
       ]
     },
     {
-      "word": "dairy",
-      "filename": "dairy.md",
+      "word": "swirl",
+      "filename": "swirl.md",
       "lines": [
-        "A dairy is a farm.",
-        "Eine Molkerei ist ein Bauernhof.",
-        "酪農場は農場だ。",
-        "奶牛场是一种农场。"
+        "A swirl is a shape.",
+        "Ein Wirbel ist eine Form.",
+        "渦は形だ。",
+        "漩涡是形状。"
       ]
     },
     {
-      "word": "daisy",
-      "filename": "daisy.md",
+      "word": "swish",
+      "filename": "swish.md",
       "lines": [
-        "A daisy is a flower.",
-        "Ein Gänseblümchen ist eine Blume.",
-        "ヒナギクは花だ。",
-        "雏菊是一种花。"
+        "A swish is a sound.",
+        "Ein Schwirren ist ein Geräusch.",
+        "スウィッシュは音だ。",
+        "嗖嗖声是声音。"
       ]
     },
     {
-      "word": "damage",
-      "filename": "damage.md",
+      "word": "switch",
+      "filename": "switch.md",
       "lines": [
-        "Damage is a form of harm.",
-        "Schaden ist eine Art von Verlust.",
-        "損害は損失の一種だ。",
-        "损害是一种损失。"
+        "A switch is a device.",
+        "Ein Schalter ist ein Gerät.",
+        "スイッチは装置だ。",
+        "开关是装置。"
       ]
     },
     {
-      "word": "damp",
-      "filename": "damp.md",
+      "word": "swoop",
+      "filename": "swoop.md",
       "lines": [
-        "A damp towel is a piece of cloth.",
-        "Ein feuchtes Handtuch ist ein Stück Stoff.",
-        "湿ったタオルは布の一部だ。",
-        "湿毛巾是一块布。"
+        "A swoop is a movement.",
+        "Ein Sturzflug ist eine Bewegung.",
+        "急降下は動きだ。",
+        "俯冲是运动。"
       ]
     },
     {
-      "word": "dance",
-      "filename": "dance.md",
+      "word": "swooping",
+      "filename": "swooping.md",
       "lines": [
-        "Dancing is movement.",
-        "Tanzen ist Bewegung.",
-        "踊ることは動きだ。",
-        "跳舞是运动。"
+        "Swooping is movement.",
+        "Sturzfliegen ist Bewegung.",
+        "急降下することは動きだ。",
+        "俯冲是运动。"
       ]
     },
     {
-      "word": "danger",
-      "filename": "danger.md",
+      "word": "sword",
+      "filename": "sword.md",
       "lines": [
-        "Danger is a risk.",
-        "Gefahr ist ein Risiko.",
-        "危険はリスクだ。",
-        "危险是一种风险。"
+        "A sword is a weapon.",
+        "Ein Schwert ist eine Waffe.",
+        "剣は武器だ。",
+        "剑是武器。"
       ]
     },
     {
-      "word": "dangerous",
-      "filename": "dangerous.md",
+      "word": "swung",
+      "filename": "swung.md",
       "lines": [
-        "A dangerous snake is a reptile.",
-        "Eine gefährliche Schlange ist ein Reptil.",
-        "危険な蛇は爬虫類だ。",
-        "危险的蛇是爬行动物。"
+        "A swung bat is a tool.",
+        "Ein geschwungener Schläger ist ein Werkzeug.",
+        "振られたバットは道具だ。",
+        "挥动的球棒是工具。"
       ]
     },
     {
-      "word": "dangling",
-      "filename": "dangling.md",
+      "word": "symbol",
+      "filename": "symbol.md",
       "lines": [
-        "A dangling rope is a cord.",
-        "Ein baumelndes Seil ist eine Schnur.",
-        "ぶら下がっているロープはひもだ。",
-        "悬挂的绳子是一条绳索。"
+        "A symbol is a sign.",
+        "Ein Symbol ist ein Zeichen.",
+        "記号は印だ。",
+        "符号是记号。"
       ]
     },
     {
-      "word": "dark",
-      "filename": "dark.md",
+      "word": "symbolic",
+      "filename": "symbolic.md",
       "lines": [
-        "A dark forest is a woodland.",
-        "Ein dunkler Wald ist ein Waldgebiet.",
-        "暗い森は森林地帯だ。",
-        "黑暗的森林是一片林地。"
+        "A symbolic act is an action.",
+        "Eine symbolische Handlung ist eine Aktion.",
+        "象徴的な行為は行動だ。",
+        "象征性的行为是行动。"
       ]
     }
   ],

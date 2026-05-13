@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dot",
-      "filename": "dot.md",
+      "word": "tower",
+      "filename": "tower.md",
       "lines": [
-        "A dot is a small round mark.",
-        "Ein Punkt ist ein kleiner runder Fleck.",
-        "点は小さな丸い印だ。",
-        "点是一个小的圆形标记。"
+        "A tower is a structure.",
+        "Ein Turm ist ein Bauwerk.",
+        "塔は建造物だ。",
+        "塔是一种建筑物。"
       ]
     },
     {
-      "word": "dotted",
-      "filename": "dotted.md",
+      "word": "town",
+      "filename": "town.md",
       "lines": [
-        "A dotted line is a line.",
-        "Eine gepunktete Linie ist eine Linie.",
-        "点線は線だ。",
-        "虚线是一条线。"
+        "A town is a settlement.",
+        "Eine Stadt ist eine Siedlung.",
+        "町は集落だ。",
+        "城镇是定居点。"
       ]
     },
     {
-      "word": "double",
-      "filename": "double.md",
+      "word": "toy",
+      "filename": "toy.md",
       "lines": [
-        "A double bed is a bed.",
-        "Ein Doppelbett ist ein Bett.",
-        "ダブルベッドはベッドだ。",
-        "双人床是一张床。"
+        "A toy is a plaything.",
+        "Ein Spielzeug ist ein Spielgegenstand.",
+        "おもちゃは遊び道具だ。",
+        "玩具是玩物。"
       ]
     },
     {
-      "word": "doubt",
-      "filename": "doubt.md",
+      "word": "trace",
+      "filename": "trace.md",
       "lines": [
-        "Doubt is uncertainty.",
-        "Zweifel ist Unsicherheit.",
-        "疑いは不確かさだ。",
-        "怀疑是不确定。"
+        "A trace is a mark.",
+        "Eine Spur ist eine Markierung.",
+        "痕跡は印だ。",
+        "痕迹是标记。"
       ]
     },
     {
-      "word": "dough",
-      "filename": "dough.md",
+      "word": "traceability",
+      "filename": "traceability.md",
       "lines": [
-        "Dough is a mixture.",
-        "Teig ist eine Mischung.",
-        "生地は混合物だ。",
-        "面团是一种混合物。"
+        "Traceability is a quality.",
+        "Rückverfolgbarkeit ist eine Eigenschaft.",
+        "トレーサビリティは特性だ。",
+        "可追溯性是一种属性。"
       ]
     },
     {
-      "word": "dove",
-      "filename": "dove.md",
+      "word": "traceback",
+      "filename": "traceback.md",
       "lines": [
-        "A dove is a bird.",
-        "Eine Taube ist ein Vogel.",
-        "鳩は鳥だ。",
-        "鸽子是鸟。"
+        "A traceback is a record.",
+        "Ein Traceback ist eine Aufzeichnung.",
+        "トレースバックは記録だ。",
+        "回溯是记录。"
       ]
     },
     {
-      "word": "dovetailing",
-      "filename": "dovetailing.md",
+      "word": "track",
+      "filename": "track.md",
       "lines": [
-        "Dovetailing is joining.",
-        "Verzahnen ist Verbinden.",
-        "組み合わせることは接合だ。",
-        "嵌合是连接。"
+        "A track is a path.",
+        "Eine Spur ist ein Pfad.",
+        "トラックは道だ。",
+        "跑道是路。"
       ]
     },
     {
-      "word": "downhill",
-      "filename": "downhill.md",
+      "word": "tractor",
+      "filename": "tractor.md",
       "lines": [
-        "A downhill slope is a slope.",
-        "Ein Abhang ist ein Hang.",
-        "下り坂は坂だ。",
-        "下坡是一个斜坡。"
+        "A tractor is a vehicle.",
+        "Ein Traktor ist ein Fahrzeug.",
+        "トラクターは車両だ。",
+        "拖拉机是一种车辆。"
       ]
     },
     {
-      "word": "downloading",
-      "filename": "downloading.md",
+      "word": "trade",
+      "filename": "trade.md",
       "lines": [
-        "Downloading is transferring.",
-        "Herunterladen ist Übertragen.",
-        "ダウンロードは転送だ。",
-        "下载是传输。"
+        "Trade is an exchange.",
+        "Handel ist ein Austausch.",
+        "貿易は交換だ。",
+        "贸易是交换。"
       ]
     },
     {
-      "word": "downstair",
-      "filename": "downstair.md",
+      "word": "trading",
+      "filename": "trading.md",
       "lines": [
-        "A downstair room is a room.",
-        "Ein unteres Zimmer ist ein Zimmer.",
-        "下の階の部屋は部屋だ。",
-        "楼下的房间是一个房间。"
+        "Trading is an activity.",
+        "Handeln ist eine Aktivität.",
+        "取引は活動だ。",
+        "交易是活动。"
       ]
     }
   ],

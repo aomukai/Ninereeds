@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dead",
-      "filename": "dead.md",
+      "word": "table",
+      "filename": "table.md",
       "lines": [
-        "A dead bird is an animal.",
-        "Ein toter Vogel ist ein Tier.",
-        "死んだ鳥は動物だ。",
-        "死鸟是动物。"
+        "A table is furniture.",
+        "Ein Tisch ist ein Möbel.",
+        "テーブルは家具だ。",
+        "桌子是家具。"
       ]
     },
     {
-      "word": "deal",
-      "filename": "deal.md",
+      "word": "tablet",
+      "filename": "tablet.md",
       "lines": [
-        "Dealing is trading.",
-        "Handeln ist Tausch.",
-        "取引することは交換だ。",
-        "做交易是交换。"
+        "A tablet is a device.",
+        "Ein Tablet ist ein Gerät.",
+        "タブレットは機器だ。",
+        "平板电脑是设备。"
       ]
     },
     {
-      "word": "dean",
-      "filename": "dean.md",
+      "word": "tackle",
+      "filename": "tackle.md",
       "lines": [
-        "A dean is a leader.",
-        "Ein Dekan ist ein Leiter.",
-        "学部長はリーダーだ。",
-        "院长是领导。"
+        "Tackling is an action.",
+        "Tackling ist eine Aktion.",
+        "タックルすることは行動だ。",
+        "擒抱是一种动作。"
       ]
     },
     {
-      "word": "death",
-      "filename": "death.md",
+      "word": "tadpole",
+      "filename": "tadpole.md",
       "lines": [
-        "Death is an end.",
-        "Der Tod ist ein Ende.",
-        "死は終わりだ。",
-        "死亡是终结。"
+        "A tadpole is a young frog.",
+        "Eine Kaulquappe ist ein junger Frosch.",
+        "オタマジャクシはカエルの幼体だ。",
+        "蝌蚪是青蛙的幼体。"
       ]
     },
     {
-      "word": "debate",
-      "filename": "debate.md",
+      "word": "tag",
+      "filename": "tag.md",
       "lines": [
-        "Debating is discussion.",
-        "Debattieren ist Diskussion.",
-        "討論することは議論だ。",
-        "辩论是讨论。"
+        "A tag is a label.",
+        "Ein Etikett ist ein Schild.",
+        "タグはラベルだ。",
+        "标签是标记。"
       ]
     },
     {
-      "word": "debt",
-      "filename": "debt.md",
+      "word": "tagger",
+      "filename": "tagger.md",
       "lines": [
-        "A debt is an obligation.",
-        "Eine Schuld ist eine Verpflichtung.",
-        "借金は義務だ。",
-        "债务是义务。"
+        "A tagger is a person.",
+        "Ein Tagger ist eine Person.",
+        "タガーは人だ。",
+        "贴标签者是人。"
       ]
     },
     {
-      "word": "decade",
-      "filename": "decade.md",
+      "word": "tail",
+      "filename": "tail.md",
       "lines": [
-        "A decade is a period.",
-        "Ein Jahrzehnt ist ein Zeitraum.",
-        "十年は期間だ。",
-        "十年是一段时间。"
+        "A tail is a body part.",
+        "Ein Schwanz ist ein Körperteil.",
+        "尾は体の一部だ。",
+        "尾巴是身体的一部分。"
       ]
     },
     {
-      "word": "decide",
-      "filename": "decide.md",
+      "word": "tailor",
+      "filename": "tailor.md",
       "lines": [
-        "Deciding is choosing.",
-        "Entscheiden ist Wählen.",
-        "決断することは選択だ。",
-        "做决定是选择。"
+        "A tailor is a person.",
+        "Ein Schneider ist eine Person.",
+        "テーラーは人だ。",
+        "裁缝是人。"
       ]
     },
     {
-      "word": "decided",
-      "filename": "decided.md",
+      "word": "take",
+      "filename": "take.md",
       "lines": [
-        "A decided matter is a fact.",
-        "Eine entschiedene Sache ist eine Tatsache.",
-        "決まったことは事実だ。",
-        "已决定的事是事实。"
+        "Taking is an action.",
+        "Nehmen ist eine Handlung.",
+        "取ることは行動だ。",
+        "拿是一种动作。"
       ]
     },
     {
-      "word": "deciding",
-      "filename": "deciding.md",
+      "word": "takeaway",
+      "filename": "takeaway.md",
       "lines": [
-        "Deciding is choosing.",
-        "Entscheiden ist Wählen.",
-        "決断することは選択だ。",
-        "做决定是选择。"
+        "A takeaway is a meal.",
+        "Ein Mitnahmeessen ist eine Mahlzeit.",
+        "テイクアウトは食事だ。",
+        "外卖是一顿饭。"
       ]
     }
   ],

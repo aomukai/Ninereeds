@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "curing",
-      "filename": "curing.md",
+      "word": "suspicious",
+      "filename": "suspicious.md",
       "lines": [
-        "Curing is a preservation process.",
-        "Pökeln ist ein Konservierungsverfahren.",
-        "燻製は保存方法だ。",
-        "腌制是一种保存过程。"
+        "A suspicious person is a person.",
+        "Eine verdächtige Person ist eine Person.",
+        "疑わしい人は人だ。",
+        "可疑的人是人。"
       ]
     },
     {
-      "word": "curiosity",
-      "filename": "curiosity.md",
+      "word": "sustaining",
+      "filename": "sustaining.md",
       "lines": [
-        "Curiosity is a trait.",
-        "Neugier ist eine Eigenschaft.",
-        "好奇心は特性だ。",
-        "好奇心是一种特质。"
+        "Sustaining is support.",
+        "Aufrechterhalten ist Unterstützung.",
+        "維持することは支援だ。",
+        "维持是支持。"
       ]
     },
     {
-      "word": "curiou",
-      "filename": "curiou.md",
+      "word": "swallow",
+      "filename": "swallow.md",
       "lines": [
-        "A curiou is a tool.",
-        "Ein Curiou ist ein Werkzeug.",
-        "キュリオは道具だ。",
-        "curiou是一种工具。"
+        "Swallowing is an action.",
+        "Schlucken ist eine Handlung.",
+        "飲み込むことは動作だ。",
+        "吞咽是一个动作。"
       ]
     },
     {
-      "word": "curious",
-      "filename": "curious.md",
+      "word": "swamp",
+      "filename": "swamp.md",
       "lines": [
-        "A curious cat is an animal.",
-        "Eine neugierige Katze ist ein Tier.",
-        "好奇心旺盛な猫は動物だ。",
-        "好奇的猫是动物。"
+        "A swamp is a wetland.",
+        "Ein Sumpf ist ein Feuchtgebiet.",
+        "沼は湿地だ。",
+        "沼泽是湿地。"
       ]
     },
     {
-      "word": "curl",
-      "filename": "curl.md",
+      "word": "swan",
+      "filename": "swan.md",
       "lines": [
-        "A curl is a shape.",
-        "Eine Locke ist eine Form.",
-        "カールは形だ。",
-        "卷曲是一种形状。"
+        "A swan is a bird.",
+        "Ein Schwan ist ein Vogel.",
+        "白鳥は鳥だ。",
+        "天鹅是鸟。"
       ]
     },
     {
-      "word": "curly",
-      "filename": "curly.md",
+      "word": "swap",
+      "filename": "swap.md",
       "lines": [
-        "A curly dog is an animal.",
-        "Ein lockiger Hund ist ein Tier.",
-        "巻き毛の犬は動物だ。",
-        "卷毛的狗是动物。"
+        "Swapping is trading.",
+        "Tauschen ist Handel.",
+        "交換することは取引だ。",
+        "交换是交易。"
       ]
     },
     {
-      "word": "current",
-      "filename": "current.md",
+      "word": "swarm",
+      "filename": "swarm.md",
       "lines": [
-        "A current is a flow.",
-        "Eine Strömung ist ein Fluss.",
-        "流れは流動だ。",
-        "水流是一种流动。"
+        "A swarm is a group.",
+        "Ein Schwarm ist eine Gruppe.",
+        "群れは集団だ。",
+        "群是群体。"
       ]
     },
     {
-      "word": "curtailing",
-      "filename": "curtailing.md",
+      "word": "sway",
+      "filename": "sway.md",
       "lines": [
-        "Curtailing is reduction.",
-        "Kürzen ist Reduzierung.",
-        "削減は減少だ。",
-        "缩减是减少。"
+        "Swaying is movement.",
+        "Schwanken ist Bewegung.",
+        "揺れることは動きだ。",
+        "摇摆是运动。"
       ]
     },
     {
-      "word": "curtain",
-      "filename": "curtain.md",
+      "word": "sweat",
+      "filename": "sweat.md",
       "lines": [
-        "A curtain is a covering.",
-        "Ein Vorhang ist eine Abdeckung.",
-        "カーテンは覆いだ。",
-        "窗帘是一种遮盖物。"
+        "Sweat is a liquid.",
+        "Schweiß ist eine Flüssigkeit.",
+        "汗は液体だ。",
+        "汗是液体。"
       ]
     },
     {
-      "word": "curve",
-      "filename": "curve.md",
+      "word": "sweater",
+      "filename": "sweater.md",
       "lines": [
-        "A curve is a line.",
-        "Eine Kurve ist eine Linie.",
-        "曲線は線だ。",
-        "曲线是一种线。"
+        "A sweater is a garment.",
+        "Ein Pullover ist ein Kleidungsstück.",
+        "セーターは衣類だ。",
+        "毛衣是服装。"
       ]
     }
   ],

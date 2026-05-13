@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "assembling",
-      "filename": "assembling.md",
+      "word": "reasoning",
+      "filename": "reasoning.md",
       "lines": [
-        "Assembling is a process.",
-        "Zusammenbauen ist ein Prozess.",
-        "組み立てることはプロセスだ。",
-        "组装是一个过程。"
+        "Reasoning is a process.",
+        "Argumentieren ist ein Prozess.",
+        "推論はプロセスだ。",
+        "推理是过程。"
       ]
     },
     {
-      "word": "assembling_3",
-      "filename": "assembling_3.md",
+      "word": "rebuilding",
+      "filename": "rebuilding.md",
       "lines": [
-        "Assembling_3 is a technique.",
-        "Assembling_3 ist eine Technik.",
-        "Assembling_3は技術だ。",
-        "Assembling_3是一种技术。"
+        "Rebuilding is construction.",
+        "Wiederaufbau ist Bauarbeit.",
+        "再建は建設だ。",
+        "重建是建设。"
       ]
     },
     {
-      "word": "assembling_4",
-      "filename": "assembling_4.md",
+      "word": "recalling",
+      "filename": "recalling.md",
       "lines": [
-        "Assembling_4 is an activity.",
-        "Assembling_4 ist eine Aktivität.",
-        "Assembling_4は活動だ。",
-        "Assembling_4是一种活动。"
+        "Recalling is a mental process.",
+        "Erinnern ist ein mentaler Prozess.",
+        "想起は精神的なプロセスだ。",
+        "回忆是心理过程。"
       ]
     },
     {
-      "word": "asserting",
-      "filename": "asserting.md",
+      "word": "receiving",
+      "filename": "receiving.md",
       "lines": [
-        "Asserting is a statement.",
-        "Behaupten ist eine Aussage.",
-        "主張することは声明だ。",
-        "断言是声明。"
+        "Receiving is an act of acceptance.",
+        "Empfangen ist ein Akt der Annahme.",
+        "受け取ることは受け入れの行為だ。",
+        "接收是接受的行为。"
       ]
     },
     {
-      "word": "assertive",
-      "filename": "assertive.md",
+      "word": "receiving 3",
+      "filename": "receiving_3.md",
       "lines": [
-        "An assertive handshake is a greeting.",
-        "Ein selbstbewusster Händedruck ist eine Begrüßung.",
-        "自己主張のある握手は挨拶だ。",
-        "自信的握手是问候。"
+        "Receiving 3 is an action.",
+        "Empfangen 3 ist eine Handlung.",
+        "受信3は動作だ。",
+        "接收3是动作。"
       ]
     },
     {
-      "word": "assessing",
-      "filename": "assessing.md",
+      "word": "receiving 4",
+      "filename": "receiving_4.md",
       "lines": [
-        "Assessing is an analysis.",
-        "Beurteilen ist eine Analyse.",
-        "評価することは分析だ。",
-        "评估是分析。"
+        "Receiving 4 is an action.",
+        "Empfangen 4 ist eine Handlung.",
+        "受信4は動作だ。",
+        "接收4是动作。"
       ]
     },
     {
-      "word": "assessment",
-      "filename": "assessment.md",
+      "word": "recent",
+      "filename": "recent.md",
       "lines": [
-        "An assessment is a judgment.",
-        "Eine Bewertung ist ein Urteil.",
-        "評価は判断だ。",
-        "评估是判断。"
+        "A recent movie is entertainment.",
+        "Ein aktueller Film ist Unterhaltung.",
+        "最近の映画は娯楽だ。",
+        "最近的电影是娱乐。"
       ]
     },
     {
-      "word": "asset",
-      "filename": "asset.md",
+      "word": "reception",
+      "filename": "reception.md",
       "lines": [
-        "An asset is a resource.",
-        "Ein Vermögenswert ist eine Ressource.",
-        "資産は資源だ。",
-        "资产是资源。"
+        "A reception is an event.",
+        "Ein Empfang ist eine Veranstaltung.",
+        "レセプションはイベントだ。",
+        "招待会是活动。"
       ]
     },
     {
-      "word": "assign",
-      "filename": "assign.md",
+      "word": "recess",
+      "filename": "recess.md",
       "lines": [
-        "Assign is an action.",
-        "Assign ist eine Handlung.",
-        "アサインは行動だ。",
-        "指派是一种行动。"
+        "A recess is a rest period.",
+        "Eine Pause ist eine Ruhezeit.",
+        "休憩は休息時間だ。",
+        "休息是休息时间。"
       ]
     },
     {
-      "word": "assigning",
-      "filename": "assigning.md",
+      "word": "recipe",
+      "filename": "recipe.md",
       "lines": [
-        "Assigning is a task.",
-        "Zuweisen ist eine Aufgabe.",
-        "割り当てることはタスクだ。",
-        "分配是任务。"
+        "A recipe is cooking instructions.",
+        "Ein Rezept ist eine Kochanleitung.",
+        "レシピは料理の指示だ。",
+        "菜谱是烹饪说明。"
       ]
     }
   ],

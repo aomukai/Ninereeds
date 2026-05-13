@@ -1,0 +1,288 @@
+# NOUN RULES
+
+Nouns split into:
+
+- concrete noun
+- abstract noun
+- event noun
+
+# CONCRETE NOUN TEMPLATES
+
+## N1 — subject + verb
+Use when noun can act physically.
+
+Examples:
+The dog runs.
+The bird flies.
+The child laughs.
+
+Rules:
+
+- subject must plausibly perform the action
+- prefer biologically or physically natural actions
+- avoid overly specific activities
+
+Allowed for:
+animals, humans, vehicles, natural objects with motion
+
+Forbidden:
+“The stone thinks.”
+“The grass explains.”
+
+## N2 — noun + property
+
+Use when noun has stable observable property.
+
+Examples:
+The stone is heavy.
+The water is cold.
+The road is long.
+
+Rules:
+
+- adjective must describe inherent or stable property
+- prefer sensory properties
+
+Allowed:
+size, temperature, weight, color, shape
+
+Avoid:
+“The chair is philosophical.”
+
+## N3 — noun + environmental action
+
+Examples:
+The fire burns.
+The rain falls.
+The wind blows.
+
+Rules:
+
+- use natural processes
+- no intentional agency required
+
+# ABSTRACT NOUN TEMPLATES
+
+Abstract nouns need different handling.
+
+“Ability”, “abstraction”, “absence”, “acceptance” are not physical actors.
+
+Do NOT force them into concrete-agent templates.
+
+## A1 — abstract noun + copula + adjective
+
+Examples:
+Acceptance is important.
+Accuracy is valuable.
+Abstraction is difficult.
+
+Rules:
+
+- adjective must evaluate or characterize concept
+- prefer cognitive/social usefulness
+
+## A2 — abstract noun + affects + noun
+
+Examples:
+Absence causes sadness.
+Accuracy improves results.
+Acceptance builds trust.
+
+Rules:
+
+- causal relation must be intuitive
+- object should be human-scale and understandable
+
+This is extremely valuable for reasoning.
+
+## A3 — human + has + abstract noun
+
+Examples:
+The student has ability.
+The leader has accountability.
+The scientist has accuracy.
+
+Rules:
+
+- abstract noun behaves as possessed quality
+- use socially plausible pairings
+
+Very important for grounding abstractions into agents.
+
+# VERB RULES
+
+Verbs split into:
+
+- physical action
+- mental action
+- state/process verb
+
+Use dictionary/base meaning only.
+
+## V1 — subject + verb
+
+Examples:
+The child runs.
+The woman writes.
+The bird moves.
+
+Rules:
+
+- keep objectless if action is naturally complete
+- prefer high-frequency physical actions
+
+## V2 — subject + verb + adverb
+
+Examples:
+The boy writes carefully.
+The girl speaks softly.
+The dog moves slowly.
+
+Rules:
+
+- adverb must modify manner
+- avoid abstract adverbs initially
+
+Excellent for grounding action quality.
+
+## V3 — gerund + copula + adjective
+
+Examples:
+Running is tiring.
+Reading is useful.
+Swimming is difficult.
+
+Rules:
+
+- adjective must describe experience or utility
+- avoid metaphorical evaluations
+
+This is VERY important structurally.
+
+## V4 — subject + verb + purpose
+
+Examples:
+People run to exercise.
+Birds fly to travel.
+We eat to live.
+
+Rules:
+
+- purpose must be simple and direct
+- infinitive purpose only
+
+Excellent for causal cognition.
+
+# ADJECTIVE RULES
+
+Adjectives split into:
+
+- physical property
+- emotional/cognitive state
+- evaluative adjective
+
+## ADJ1 — adjective + noun + action
+
+Examples:
+The careful worker checks the machine.
+The heavy stone falls quickly.
+The sharp knife cuts paper.
+
+Rules:
+
+- adjective should influence action naturally
+- property should matter causally
+
+This is one of the strongest templates.
+
+## ADJ2 — adjective noun + copula
+
+Examples:
+Careful consideration is important.
+Accurate information is useful.
+Abnormal behavior is dangerous.
+
+Rules:
+
+- noun should match adjective semantically
+- avoid philosophical abstraction early
+
+## ADJ3 — comparative structure
+
+Examples:
+The river is wider than the road.
+The elephant is larger than the dog.
+
+Rules:
+
+- use physically comparable entities
+- avoid abstract comparison initially
+
+Important for relational reasoning.
+
+# SPECIAL RULES
+
+- only use words from allowlist.txt
+
+# GERUND / PARTICIPLE WORDS
+
+Words like:
+abbreviating
+absorbing
+accepting
+accumulating
+
+can behave as:
+
+verbs
+adjectives
+
+Allowed templates:
+
+participle adjective
+
+The absorbing book is popular.
+The accepting teacher helps students.
+
+gerund abstraction
+
+Accumulating takes time.
+Accepting is difficult.
+
+Avoid forcing unclear interpretations.
+
+# MULTIWORD EXPRESSIONS
+
+Example:
+blade of grass
+block of wood
+
+Treat as atomic nouns.
+
+Allowed:
+The blade of grass moves.
+The block of wood is heavy.
+
+Forbidden:
+splitting internal structure during generation.
+
+# FORBIDDEN OUTPUTS
+
+Never generate:
+
+- category errors
+- metaphor
+- symbolic/figurative language
+- emotionally manipulative content
+- nonsensical agency
+- ontology recursion
+
+Examples to forbid:
+“Abstraction eats food.”
+“The absence runs.”
+“The grass understands.”
+“Accuracy is green.”
+
+---
+
+

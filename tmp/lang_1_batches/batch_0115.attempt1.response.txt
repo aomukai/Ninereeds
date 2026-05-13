@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "decision",
-      "filename": "decision.md",
+      "word": "taken",
+      "filename": "taken.md",
       "lines": [
-        "A decision is a choice.",
-        "Eine Entscheidung ist eine Wahl.",
-        "決定は選択だ。",
-        "决定是一种选择。"
+        "A taken seat is a seat.",
+        "Ein besetzter Stuhl ist ein Stuhl.",
+        "取られた席は席だ。",
+        "被占的座位是座位。"
       ]
     },
     {
-      "word": "deck",
-      "filename": "deck.md",
+      "word": "tale",
+      "filename": "tale.md",
       "lines": [
-        "A deck is a platform.",
-        "Ein Deck ist eine Plattform.",
-        "デッキはプラットフォームだ。",
-        "甲板是一个平台。"
+        "A tale is a story.",
+        "Eine Erzählung ist eine Geschichte.",
+        "物語は話だ。",
+        "故事是叙述。"
       ]
     },
     {
-      "word": "declaring",
-      "filename": "declaring.md",
+      "word": "talk",
+      "filename": "talk.md",
       "lines": [
-        "Declaring is an announcement.",
-        "Erklären ist eine Ankündigung.",
-        "宣言することは告知だ。",
-        "声明是一种宣告。"
+        "A talk is a conversation.",
+        "Ein Gespräch ist eine Unterhaltung.",
+        "話は会話だ。",
+        "谈话是对话。"
       ]
     },
     {
-      "word": "decomposition",
-      "filename": "decomposition.md",
+      "word": "tall",
+      "filename": "tall.md",
       "lines": [
-        "Decomposition is a process.",
-        "Zersetzung ist ein Prozess.",
-        "分解は過程だ。",
-        "分解是一个过程。"
+        "A tall tree is a tree.",
+        "Ein großer Baum ist ein Baum.",
+        "高い木は木だ。",
+        "高树是树。"
       ]
     },
     {
-      "word": "deconstructing",
-      "filename": "deconstructing.md",
+      "word": "tally",
+      "filename": "tally.md",
       "lines": [
-        "Deconstructing is analysis.",
-        "Dekonstruieren ist eine Analyse.",
-        "脱構築は分析だ。",
-        "解构是一种分析。"
+        "A tally is a count.",
+        "Eine Zählung ist eine Zahl.",
+        "集計は数だ。",
+        "计数是数字。"
       ]
     },
     {
-      "word": "deconstructing_3",
-      "filename": "deconstructing_3.md",
+      "word": "tallying",
+      "filename": "tallying.md",
       "lines": [
-        "Deconstructing 3 is a task.",
-        "Dekonstruieren 3 ist eine Aufgabe.",
-        "脱構築3はタスクだ。",
-        "解构3是一个任务。"
+        "Tallying is totaling.",
+        "Summieren ist das Addieren.",
+        "集計することは合計だ。",
+        "统计是总计。"
       ]
     },
     {
-      "word": "deconstructing_4",
-      "filename": "deconstructing_4.md",
+      "word": "talon",
+      "filename": "talon.md",
       "lines": [
-        "Deconstructing 4 is a task.",
-        "Dekonstruieren 4 ist eine Aufgabe.",
-        "脱構築4はタスクだ。",
-        "解构4是一个任务。"
+        "A talon is a claw.",
+        "Eine Kralle ist ein Greiforgan.",
+        "かぎづめは爪だ。",
+        "利爪是爪子。"
       ]
     },
     {
-      "word": "deconstructing_5",
-      "filename": "deconstructing_5.md",
+      "word": "taming",
+      "filename": "taming.md",
       "lines": [
-        "Deconstructing 5 is a task.",
-        "Dekonstruieren 5 ist eine Aufgabe.",
-        "脱構築5はタスクだ。",
-        "解构5是一个任务。"
+        "Taming is domesticating.",
+        "Zähmen ist das Domestizieren.",
+        "飼いならすことは家畜化だ。",
+        "驯服是驯化。"
       ]
     },
     {
-      "word": "decorating",
-      "filename": "decorating.md",
+      "word": "tan",
+      "filename": "tan.md",
       "lines": [
-        "Decorating is beautifying.",
-        "Dekorieren ist Verschönern.",
-        "飾ることは美化だ。",
-        "装饰是美化。"
+        "A tan shirt is a shirt.",
+        "Ein braunes Hemd ist ein Hemd.",
+        "茶色いシャツはシャツだ。",
+        "棕色的衬衫是衬衫。"
       ]
     },
     {
-      "word": "decoration",
-      "filename": "decoration.md",
+      "word": "tangle",
+      "filename": "tangle.md",
       "lines": [
-        "A decoration is an ornament.",
-        "Eine Dekoration ist ein Ornament.",
-        "装飾は飾りだ。",
-        "装饰是一种饰品。"
+        "A tangle is a mess.",
+        "Ein Gewirr ist ein Durcheinander.",
+        "もつれは混乱だ。",
+        "缠结是混乱。"
       ]
     }
   ],

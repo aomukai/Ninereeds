@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "emerging",
-      "filename": "emerging.md",
+      "word": "uncertain",
+      "filename": "uncertain.md",
       "lines": [
-        "Emerging is a phenomenon.",
-        "Entstehen ist ein Phänomen.",
-        "現れることは現象だ。",
-        "出现是现象。"
+        "An uncertain answer is a response.",
+        "Eine unsichere Antwort ist eine Reaktion.",
+        "不確かな答えは応答だ。",
+        "一个不确定的答案是回应。"
       ]
     },
     {
-      "word": "emitting",
-      "filename": "emitting.md",
+      "word": "uncertainty",
+      "filename": "uncertainty.md",
       "lines": [
-        "Emitting is a process.",
-        "Aussenden ist ein Prozess.",
-        "放出することは過程だ。",
-        "释放是过程。"
+        "Uncertainty is a state.",
+        "Unsicherheit ist ein Zustand.",
+        "不確かさは状態だ。",
+        "不确定性是一种状态。"
       ]
     },
     {
-      "word": "emotion",
-      "filename": "emotion.md",
+      "word": "unchangeable",
+      "filename": "unchangeable.md",
       "lines": [
-        "Emotion is a feeling.",
-        "Emotion ist ein Gefühl.",
-        "感情は気持ちだ。",
-        "情感是一种感觉。"
+        "An unchangeable fact is a truth.",
+        "Eine unveränderliche Tatsache ist eine Wahrheit.",
+        "変わらない事実は真実だ。",
+        "一个不变的事实是真理。"
       ]
     },
     {
-      "word": "emotional",
-      "filename": "emotional.md",
+      "word": "uncle",
+      "filename": "uncle.md",
       "lines": [
-        "An emotional song is music.",
-        "Ein emotionales Lied ist Musik.",
-        "感情的な歌は音楽だ。",
-        "情感丰富的歌是音乐。"
+        "An uncle is a relative.",
+        "Ein Onkel ist ein Verwandter.",
+        "おじは親戚だ。",
+        "叔叔是亲戚。"
       ]
     },
     {
-      "word": "empathy",
-      "filename": "empathy.md",
+      "word": "unclean",
+      "filename": "unclean.md",
       "lines": [
-        "Empathy is a social skill.",
-        "Empathie ist eine soziale Fähigkeit.",
-        "共感は社会的スキルだ。",
-        "共情是一种社交技能。"
+        "An unclean cloth is a fabric.",
+        "Ein unreines Tuch ist ein Stoff.",
+        "不潔な布は生地だ。",
+        "一块不干净的布是布料。"
       ]
     },
     {
-      "word": "emphasis",
-      "filename": "emphasis.md",
+      "word": "unclear",
+      "filename": "unclear.md",
       "lines": [
-        "Emphasis is a rhetorical device.",
-        "Betonung ist ein rhetorisches Mittel.",
-        "強調は修辞技法だ。",
-        "强调是一种修辞手法。"
+        "An unclear photo is an image.",
+        "Ein unklares Foto ist ein Bild.",
+        "はっきりしない写真は画像だ。",
+        "一张不清楚的照片是图像。"
       ]
     },
     {
-      "word": "employing",
-      "filename": "employing.md",
+      "word": "uncomfortable",
+      "filename": "uncomfortable.md",
       "lines": [
-        "Employing is a practice.",
-        "Einstellen ist eine Praxis.",
-        "雇うことは慣行だ。",
-        "雇佣是实践。"
+        "An uncomfortable chair is a seat.",
+        "Ein unbequemer Stuhl ist eine Sitzgelegenheit.",
+        "不快な椅子は座席だ。",
+        "一把不舒服的椅子是座位。"
       ]
     },
     {
-      "word": "empowering",
-      "filename": "empowering.md",
+      "word": "uncommon",
+      "filename": "uncommon.md",
       "lines": [
-        "Empowering is a form of support.",
-        "Ermächtigen ist eine Form der Unterstützung.",
-        "力を与えることは支援だ。",
-        "赋能是支持。"
+        "An uncommon flower is a plant.",
+        "Eine ungewöhnliche Blume ist eine Pflanze.",
+        "珍しい花は植物だ。",
+        "一朵不常见的花是植物。"
       ]
     },
     {
-      "word": "empty",
-      "filename": "empty.md",
+      "word": "unconscious",
+      "filename": "unconscious.md",
       "lines": [
-        "An empty bottle is a container.",
-        "Eine leere Flasche ist ein Behälter.",
-        "空の瓶は容器だ。",
-        "空瓶子是容器。"
+        "An unconscious patient is a person.",
+        "Ein bewusstloser Patient ist eine Person.",
+        "意識不明の患者は人だ。",
+        "一个昏迷的病人是人。"
       ]
     },
     {
-      "word": "emulating",
-      "filename": "emulating.md",
+      "word": "uncovering",
+      "filename": "uncovering.md",
       "lines": [
-        "Emulating is imitation.",
-        "Nachahmen ist eine Imitation.",
-        "模倣することは行動だ。",
-        "模仿是行动。"
+        "Uncovering is an action.",
+        "Das Aufdecken ist eine Handlung.",
+        "暴露は行為だ。",
+        "揭露是一种行为。"
       ]
     }
   ],

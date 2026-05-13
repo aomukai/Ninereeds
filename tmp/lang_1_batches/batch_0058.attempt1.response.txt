@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "caleb",
-      "filename": "caleb.md",
+      "word": "series",
+      "filename": "series.md",
       "lines": [
-        "Caleb is a name.",
-        "Caleb ist ein Name.",
-        "カレブは名前だ。",
-        "卡莱布是一个名字。"
+        "A series is a sequence.",
+        "Eine Serie ist eine Sequenz.",
+        "シリーズは連続だ。",
+        "系列是序列。"
       ]
     },
     {
-      "word": "calendar",
-      "filename": "calendar.md",
+      "word": "serious",
+      "filename": "serious.md",
       "lines": [
-        "A calendar is a tool.",
-        "Ein Kalender ist ein Werkzeug.",
-        "カレンダーは道具だ。",
-        "日历是一种工具。"
+        "A serious person is a person.",
+        "Ein ernster Mensch ist ein Mensch.",
+        "真面目な人は人だ。",
+        "严肃的人是人。"
       ]
     },
     {
-      "word": "calf",
-      "filename": "calf.md",
+      "word": "serve",
+      "filename": "serve.md",
       "lines": [
-        "A calf is a young cow.",
-        "Ein Kalb ist eine junge Kuh.",
-        "子牛は若い牛だ。",
-        "小牛是年轻的牛。"
+        "Serving is an action.",
+        "Servieren ist eine Handlung.",
+        "サーブすることは行動だ。",
+        "服务是一种行动。"
       ]
     },
     {
-      "word": "calibrating",
-      "filename": "calibrating.md",
+      "word": "server",
+      "filename": "server.md",
       "lines": [
-        "Calibrating is adjustment.",
-        "Kalibrieren ist Justierung.",
-        "校正は調整だ。",
-        "校准是调整。"
+        "A server is a computer.",
+        "Ein Server ist ein Computer.",
+        "サーバーはコンピュータだ。",
+        "服务器是计算机。"
       ]
     },
     {
-      "word": "call",
-      "filename": "call.md",
+      "word": "service",
+      "filename": "service.md",
       "lines": [
-        "A call is a communication.",
-        "Ein Anruf ist eine Kommunikation.",
-        "電話は通信だ。",
-        "电话是一种通信。"
+        "A service is an activity.",
+        "Ein Service ist eine Aktivität.",
+        "サービスは活動だ。",
+        "服务是一种活动。"
       ]
     },
     {
-      "word": "calm",
-      "filename": "calm.md",
+      "word": "sery",
+      "filename": "sery.md",
       "lines": [
-        "A calm sea is water.",
-        "Ein ruhiges Meer ist Wasser.",
-        "穏やかな海は水だ。",
-        "平静的海是水。"
+        "A sery is a sequence.",
+        "Eine Serie ist eine Sequenz.",
+        "シリーズは連続だ。",
+        "系列是序列。"
       ]
     },
     {
-      "word": "calmer",
-      "filename": "calmer.md",
+      "word": "session",
+      "filename": "session.md",
       "lines": [
-        "A calmer dog is a dog.",
-        "Ein ruhigerer Hund ist ein Hund.",
-        "より穏やかな犬は犬だ。",
-        "更平静的狗是狗。"
+        "A session is a gathering.",
+        "Eine Sitzung ist eine Versammlung.",
+        "セッションは集まりだ。",
+        "会议是集会。"
       ]
     },
     {
-      "word": "calming",
-      "filename": "calming.md",
+      "word": "set",
+      "filename": "set.md",
       "lines": [
-        "A calming voice is a voice.",
-        "Eine beruhigende Stimme ist eine Stimme.",
-        "落ち着く声は声だ。",
-        "令人平静的声音是声音。"
+        "A set is a group.",
+        "Ein Set ist eine Gruppe.",
+        "セットはグループだ。",
+        "集合是一个组。"
       ]
     },
     {
-      "word": "calmness",
-      "filename": "calmness.md",
+      "word": "setting",
+      "filename": "setting.md",
       "lines": [
-        "Calmness is a state.",
-        "Ruhe ist ein Zustand.",
-        "平静は状態だ。",
-        "平静是一种状态。"
+        "A setting is a location.",
+        "Eine Einstellung ist ein Ort.",
+        "設定は場所だ。",
+        "设置是位置。"
       ]
     },
     {
-      "word": "came",
-      "filename": "came.md",
+      "word": "settle",
+      "filename": "settle.md",
       "lines": [
-        "A came is a strip.",
-        "Ein Came ist ein Streifen.",
-        "カムは帯だ。",
-        "卡姆是一种条。"
+        "Settling is an action.",
+        "Das Niederlassen ist eine Handlung.",
+        "落ち着くことは行動だ。",
+        "定居是一种行动。"
       ]
     }
   ],

@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "creating",
-      "filename": "creating.md",
+      "word": "subsequent",
+      "filename": "subsequent.md",
       "lines": [
-        "Creating is making something new.",
-        "Erschaffen ist das Herstellen von etwas Neuem.",
-        "創造することは新しいものを作ることだ。",
-        "创造就是做出新东西。"
+        "A subsequent step is an action.",
+        "Ein nachfolgender Schritt ist eine Handlung.",
+        "後続のステップは行動だ。",
+        "后续的步骤是行动。"
       ]
     },
     {
-      "word": "creation",
-      "filename": "creation.md",
+      "word": "substitute",
+      "filename": "substitute.md",
       "lines": [
-        "A creation is a product of imagination.",
-        "Eine Schöpfung ist ein Produkt der Fantasie.",
-        "創造物は想像力の産物だ。",
-        "创造物是想象力的产物。"
+        "A substitute is a replacement.",
+        "Ein Ersatz ist ein Austausch.",
+        "代用品は交換品だ。",
+        "替代品是替代物。"
       ]
     },
     {
-      "word": "creative",
-      "filename": "creative.md",
+      "word": "subtract",
+      "filename": "subtract.md",
       "lines": [
-        "A creative person is an artist.",
-        "Ein kreativer Mensch ist ein Künstler.",
-        "創造的な人は芸術家だ。",
-        "有创造力的人是艺术家。"
+        "To subtract is an action.",
+        "Subtrahieren ist eine Handlung.",
+        "引くことは動作だ。",
+        "减是一个动作。"
       ]
     },
     {
-      "word": "creativity",
-      "filename": "creativity.md",
+      "word": "subtracting",
+      "filename": "subtracting.md",
       "lines": [
-        "Creativity is a human ability.",
-        "Kreativität ist eine menschliche Fähigkeit.",
-        "創造性は人間の能力だ。",
-        "创造力是人类的能力。"
+        "Subtracting is a calculation.",
+        "Subtrahieren ist eine Berechnung.",
+        "引くことは計算だ。",
+        "减是计算。"
       ]
     },
     {
-      "word": "creator",
-      "filename": "creator.md",
+      "word": "subtraction",
+      "filename": "subtraction.md",
       "lines": [
-        "A creator is a maker of things.",
-        "Ein Schöpfer ist ein Hersteller von Dingen.",
-        "創造者は物を作る人だ。",
-        "创造者是制造东西的人。"
+        "Subtraction is an operation.",
+        "Subtraktion ist eine Operation.",
+        "引き算は演算だ。",
+        "减法是一种运算。"
       ]
     },
     {
-      "word": "creature",
-      "filename": "creature.md",
+      "word": "subway",
+      "filename": "subway.md",
       "lines": [
-        "A creature is a living being.",
-        "Eine Kreatur ist ein Lebewesen.",
-        "生き物は生命を持つ存在だ。",
-        "生物是有生命的个体。"
+        "A subway is a railway.",
+        "Eine U-Bahn ist eine Eisenbahn.",
+        "地下鉄は鉄道だ。",
+        "地铁是铁路。"
       ]
     },
     {
-      "word": "credit",
-      "filename": "credit.md",
+      "word": "succeeded",
+      "filename": "succeeded.md",
       "lines": [
-        "Credit is a form of trust.",
-        "Kredit ist eine Form von Vertrauen.",
-        "信用は信頼の一形態だ。",
-        "信用是一种信任形式。"
+        "A succeeded attempt is an effort.",
+        "Ein erfolgreicher Versuch ist eine Anstrengung.",
+        "成功した試みは努力だ。",
+        "成功的尝试是努力。"
       ]
     },
     {
-      "word": "creek",
-      "filename": "creek.md",
+      "word": "succeeding",
+      "filename": "succeeding.md",
       "lines": [
-        "A creek is a small stream.",
-        "Ein Bach ist ein kleiner Fluss.",
-        "小川は小さな流れだ。",
-        "小溪是小河流。"
+        "Succeeding is achieving.",
+        "Erfolgreich sein ist Erreichen.",
+        "成功することは達成だ。",
+        "成功是达成。"
       ]
     },
     {
-      "word": "creep",
-      "filename": "creep.md",
+      "word": "success",
+      "filename": "success.md",
       "lines": [
-        "Creeping is slow movement.",
-        "Kriechen ist langsame Bewegung.",
-        "這うことはゆっくりとした動きだ。",
-        "爬行是缓慢的移动。"
+        "Success is an achievement.",
+        "Erfolg ist eine Errungenschaft.",
+        "成功は成果だ。",
+        "成功是成就。"
       ]
     },
     {
-      "word": "creeping",
-      "filename": "creeping.md",
+      "word": "successful",
+      "filename": "successful.md",
       "lines": [
-        "Creeping is moving quietly.",
-        "Schleichen ist leise Bewegung.",
-        "忍び寄ることは静かな動きだ。",
-        "悄悄移动是安静的移动。"
+        "A successful outcome is a result.",
+        "Ein erfolgreiches Ergebnis ist ein Resultat.",
+        "成功した結果は成果だ。",
+        "成功的结果是成果。"
       ]
     }
   ],

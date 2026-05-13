@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "dinosaur",
-      "filename": "dinosaur.md",
+      "word": "thunder",
+      "filename": "thunder.md",
       "lines": [
-        "A dinosaur is a reptile.",
-        "Ein Dinosaurier ist ein Reptil.",
-        "恐竜は爬虫類だ。",
-        "恐龙是爬行动物。"
+        "Thunder is a sound.",
+        "Donner ist ein Geräusch.",
+        "雷は音だ。",
+        "雷是一种声音。"
       ]
     },
     {
-      "word": "dip",
-      "filename": "dip.md",
+      "word": "tick",
+      "filename": "tick.md",
       "lines": [
-        "Dipping is an action.",
-        "Eintauchen ist eine Handlung.",
-        "浸すことは動作だ。",
-        "蘸是一种动作。"
+        "A tick is a small insect.",
+        "Eine Zecke ist ein kleines Insekt.",
+        "マダニは小さな昆虫だ。",
+        "蜱虫是一种小昆虫。"
       ]
     },
     {
-      "word": "dipped",
-      "filename": "dipped.md",
+      "word": "ticket",
+      "filename": "ticket.md",
       "lines": [
-        "A dipped apple is a fruit.",
-        "Ein getauchter Apfel ist eine Frucht.",
-        "浸したりんごは果物だ。",
-        "蘸过的苹果是水果。"
+        "A ticket is a paper slip.",
+        "Ein Ticket ist ein Stück Papier.",
+        "チケットは紙片だ。",
+        "票是一张纸片。"
       ]
     },
     {
-      "word": "direct",
-      "filename": "direct.md",
+      "word": "tickle",
+      "filename": "tickle.md",
       "lines": [
-        "A direct flight is a route.",
-        "Ein direkter Flug ist eine Route.",
-        "直行便はルートだ。",
-        "直飞航班是一条路线。"
+        "Tickling is a sensation.",
+        "Kitzeln ist eine Empfindung.",
+        "くすぐりは感覚だ。",
+        "搔痒是一种感觉。"
       ]
     },
     {
-      "word": "directing",
-      "filename": "directing.md",
+      "word": "tide",
+      "filename": "tide.md",
       "lines": [
-        "Directing is guidance.",
-        "Leiten ist Führung.",
-        "指導は導きだ。",
-        "指导是引导。"
+        "A tide is a rise and fall of the sea.",
+        "Eine Tide ist ein Steigen und Fallen des Meeres.",
+        "潮は海の満ち引きだ。",
+        "潮汐是海水的涨落。"
       ]
     },
     {
-      "word": "direction",
-      "filename": "direction.md",
+      "word": "tidier",
+      "filename": "tidier.md",
       "lines": [
-        "Direction is a path.",
-        "Eine Richtung ist ein Weg.",
-        "方向は道だ。",
-        "方向是路径。"
+        "A tidier room is a room.",
+        "Ein aufgeräumterer Raum ist ein Raum.",
+        "より整頓された部屋は部屋だ。",
+        "更整洁的房间是房间。"
       ]
     },
     {
-      "word": "dirt",
-      "filename": "dirt.md",
+      "word": "tidy",
+      "filename": "tidy.md",
       "lines": [
-        "Dirt is soil.",
-        "Erde ist Boden.",
-        "土は土壌だ。",
-        "泥土是土壤。"
+        "A tidy room is a room.",
+        "Ein ordentlicher Raum ist ein Raum.",
+        "整頓された部屋は部屋だ。",
+        "整洁的房间是房间。"
       ]
     },
     {
-      "word": "dirty",
-      "filename": "dirty.md",
+      "word": "tie",
+      "filename": "tie.md",
       "lines": [
-        "A dirty shirt is a garment.",
-        "Ein schmutziges Hemd ist ein Kleidungsstück.",
-        "汚れたシャツは衣類だ。",
-        "脏衬衫是衣物。"
+        "A tie is a piece of clothing.",
+        "Eine Krawatte ist ein Kleidungsstück.",
+        "ネクタイは衣類だ。",
+        "领带是一种衣物。"
       ]
     },
     {
-      "word": "disagree",
-      "filename": "disagree.md",
+      "word": "tier",
+      "filename": "tier.md",
       "lines": [
-        "Disagreeing is a reaction.",
-        "Widersprechen ist eine Reaktion.",
-        "反対することは反応だ。",
-        "反对是一种反应。"
+        "A tier is a level.",
+        "Eine Stufe ist eine Ebene.",
+        "段はレベルだ。",
+        "层级是一个等级。"
       ]
     },
     {
-      "word": "disagreeing",
-      "filename": "disagreeing.md",
+      "word": "tiger",
+      "filename": "tiger.md",
       "lines": [
-        "Disagreeing is a dialogue.",
-        "Widersprechen ist ein Dialog.",
-        "反対することは対話だ。",
-        "反对是一种对话。"
+        "A tiger is an animal.",
+        "Ein Tiger ist ein Tier.",
+        "虎は動物だ。",
+        "老虎是动物。"
       ]
     }
   ],

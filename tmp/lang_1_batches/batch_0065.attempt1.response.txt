@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "cautioning",
-      "filename": "cautioning.md",
+      "word": "shout",
+      "filename": "shout.md",
       "lines": [
-        "Cautioning is a warning.",
-        "Warnen ist eine Warnung.",
-        "注意することは警告だ。",
-        "提醒是一种警告。"
+        "Shouting is a vocalization.",
+        "Schreien ist eine stimmliche Äußerung.",
+        "叫ぶことは発声だ。",
+        "喊叫是发声。"
       ]
     },
     {
-      "word": "cautious",
-      "filename": "cautious.md",
+      "word": "shovel",
+      "filename": "shovel.md",
       "lines": [
-        "A cautious driver is a person.",
-        "Ein vorsichtiger Fahrer ist ein Mensch.",
-        "慎重な運転手は人間だ。",
-        "谨慎的司机是人。"
+        "A shovel is a tool.",
+        "Eine Schaufel ist ein Werkzeug.",
+        "シャベルは道具だ。",
+        "铲子是一种工具。"
       ]
     },
     {
-      "word": "cave",
-      "filename": "cave.md",
+      "word": "shoving",
+      "filename": "shoving.md",
       "lines": [
-        "A cave is a natural cavity.",
-        "Eine Höhle ist ein natürlicher Hohlraum.",
-        "洞窟は自然の空洞だ。",
-        "洞穴是自然空洞。"
+        "Shoving is pushing.",
+        "Schubsen ist Stoßen.",
+        "押しやることは押すことだ。",
+        "推搡是推。"
       ]
     },
     {
-      "word": "ceasing",
-      "filename": "ceasing.md",
+      "word": "show",
+      "filename": "show.md",
       "lines": [
-        "Ceasing is stopping.",
-        "Aufhören ist Stoppen.",
-        "止めることは停止だ。",
-        "停止就是停息。"
+        "Showing is a display.",
+        "Zeigen ist eine Darstellung.",
+        "見せることは表示だ。",
+        "展示是展示。"
       ]
     },
     {
-      "word": "ceasing_3",
-      "filename": "ceasing_3.md",
+      "word": "shower",
+      "filename": "shower.md",
       "lines": [
-        "A ceasing_3 is a term.",
-        "Ein Ceasing_3 ist ein Begriff.",
-        "Ceasing_3は用語だ。",
-        "Ceasing_3是一个术语。"
+        "A shower is a bathing appliance.",
+        "Eine Dusche ist ein Badegerät.",
+        "シャワーは入浴器具だ。",
+        "淋浴器是一种沐浴设备。"
       ]
     },
     {
-      "word": "ceiling",
-      "filename": "ceiling.md",
+      "word": "shred",
+      "filename": "shred.md",
       "lines": [
-        "A ceiling is a part of a building.",
-        "Eine Decke ist ein Teil eines Gebäudes.",
-        "天井は建物の一部だ。",
-        "天花板是建筑的一部分。"
+        "Shredding is cutting.",
+        "Schreddern ist Schneiden.",
+        "細断することは切断だ。",
+        "切碎是切割。"
       ]
     },
     {
-      "word": "celebrate",
-      "filename": "celebrate.md",
+      "word": "shriek",
+      "filename": "shriek.md",
       "lines": [
-        "Celebrate is a verb.",
-        "Celebrate ist ein Verb.",
-        "Celebrateは動詞だ。",
-        "Celebrate是一个动词。"
+        "Shrieking is a scream.",
+        "Kreischen ist ein Schrei.",
+        "金切り声は叫び声だ。",
+        "尖叫是一种叫声。"
       ]
     },
     {
-      "word": "celebrating",
-      "filename": "celebrating.md",
+      "word": "shrimp",
+      "filename": "shrimp.md",
       "lines": [
-        "Celebrating is a festivity.",
-        "Feiern ist ein Fest.",
-        "祝うことはお祭りだ。",
-        "庆祝是节日活动。"
+        "A shrimp is a crustacean.",
+        "Eine Garnele ist ein Krebstier.",
+        "エビは甲殻類だ。",
+        "虾是一种甲壳类动物。"
       ]
     },
     {
-      "word": "celebration",
-      "filename": "celebration.md",
+      "word": "shrink",
+      "filename": "shrink.md",
       "lines": [
-        "A celebration is a party.",
-        "Eine Feier ist eine Party.",
-        "祝賀はパーティーだ。",
-        "庆祝是一个聚会。"
+        "Shrinking is a decrease in size.",
+        "Schrumpfen ist eine Größenabnahme.",
+        "縮むことはサイズの減少だ。",
+        "收缩是尺寸减小。"
       ]
     },
     {
-      "word": "celery",
-      "filename": "celery.md",
+      "word": "shrug",
+      "filename": "shrug.md",
       "lines": [
-        "Celery is a vegetable.",
-        "Sellerie ist ein Gemüse.",
-        "セロリは野菜だ。",
-        "芹菜是蔬菜。"
+        "Shrugging is a shoulder movement.",
+        "Achselzucken ist eine Schulterbewegung.",
+        "肩をすくめることは肩の動きだ。",
+        "耸肩是一种肩部动作。"
       ]
     }
   ],

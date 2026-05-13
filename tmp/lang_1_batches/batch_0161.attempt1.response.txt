@@ -1,103 +1,103 @@
 {
   "files": [
     {
-      "word": "factory",
-      "filename": "factory.md",
+      "word": "vein",
+      "filename": "vein.md",
       "lines": [
-        "A factory is a building.",
-        "Eine Fabrik ist ein Gebäude.",
-        "工場は建物だ。",
-        "工厂是建筑物。"
+        "A vein is a blood vessel.",
+        "Eine Vene ist ein Blutgefäß.",
+        "静脈は血管だ。",
+        "静脉是血管。"
       ]
     },
     {
-      "word": "factual",
-      "filename": "factual.md",
+      "word": "velvet",
+      "filename": "velvet.md",
       "lines": [
-        "A factual book is a book.",
-        "Ein sachliches Buch ist ein Buch.",
-        "事実に基づく本は本だ。",
-        "事实性的书是书。"
+        "Velvet is a fabric.",
+        "Samt ist ein Stoff.",
+        "ベルベットは布地だ。",
+        "天鹅绒是布料。"
       ]
     },
     {
-      "word": "fade",
-      "filename": "fade.md",
+      "word": "vending",
+      "filename": "vending.md",
       "lines": [
-        "Fading is a change.",
-        "Verblassen ist eine Veränderung.",
-        "色あせは変化だ。",
-        "褪色是一种变化。"
+        "Vending is a sales activity.",
+        "Verkaufen ist eine Verkaufstätigkeit.",
+        "販売は販売活動だ。",
+        "贩卖是销售活动。"
       ]
     },
     {
-      "word": "fail",
-      "filename": "fail.md",
+      "word": "venerating",
+      "filename": "venerating.md",
       "lines": [
-        "Failing is a result.",
-        "Scheitern ist ein Ergebnis.",
-        "失敗することは結果だ。",
-        "失败是一种结果。"
+        "Venerating is reverence.",
+        "Verehren ist Ehrfurcht.",
+        "崇拝は畏敬だ。",
+        "崇敬是敬畏。"
       ]
     },
     {
-      "word": "failing",
-      "filename": "failing.md",
+      "word": "vent",
+      "filename": "vent.md",
       "lines": [
-        "A failing is a flaw.",
-        "Ein Fehler ist ein Makel.",
-        "欠点は欠陥だ。",
-        "缺点是一种缺陷。"
+        "A vent is an opening.",
+        "Ein Luftloch ist eine Öffnung.",
+        "通気口は開口部だ。",
+        "通风口是开口。"
       ]
     },
     {
-      "word": "failure",
-      "filename": "failure.md",
+      "word": "verb",
+      "filename": "verb.md",
       "lines": [
-        "A failure is a defeat.",
-        "Ein Misserfolg ist eine Niederlage.",
-        "失敗は敗北だ。",
-        "失败是一种失利。"
+        "A verb is a part of speech.",
+        "Ein Verb ist eine Wortart.",
+        "動詞は品詞だ。",
+        "动词是词性。"
       ]
     },
     {
-      "word": "fair",
-      "filename": "fair.md",
+      "word": "verbal",
+      "filename": "verbal.md",
       "lines": [
-        "A fair judge is a person.",
-        "Ein fairer Richter ist eine Person.",
-        "公平な裁判官は人だ。",
-        "公正的法官是人。"
+        "A verbal order is an order.",
+        "Ein mündlicher Befehl ist ein Befehl.",
+        "口頭の命令は命令だ。",
+        "口头命令是命令。"
       ]
     },
     {
-      "word": "fairness",
-      "filename": "fairness.md",
+      "word": "verbalizing",
+      "filename": "verbalizing.md",
       "lines": [
-        "Fairness is a virtue.",
-        "Fairness ist eine Tugend.",
-        "公平さは美徳だ。",
-        "公正是美德。"
+        "Verbalizing is expressing.",
+        "Verbalisieren ist Ausdrücken.",
+        "言語化することは表現だ。",
+        "用语言表达是表达。"
       ]
     },
     {
-      "word": "fairy",
-      "filename": "fairy.md",
+      "word": "verdict",
+      "filename": "verdict.md",
       "lines": [
-        "A fairy is a creature.",
-        "Eine Fee ist ein Wesen.",
-        "妖精は生き物だ。",
-        "仙女是生物。"
+        "A verdict is a decision.",
+        "Ein Urteil ist eine Entscheidung.",
+        "評決は決定だ。",
+        "判决是决定。"
       ]
     },
     {
-      "word": "fake",
-      "filename": "fake.md",
+      "word": "verify",
+      "filename": "verify.md",
       "lines": [
-        "A fake coin is a coin.",
-        "Eine falsche Münze ist eine Münze.",
-        "偽のコインはコインだ。",
-        "假币是硬币。"
+        "Verifying is confirming.",
+        "Verifizieren ist Bestätigen.",
+        "検証することは確認だ。",
+        "验证是确认。"
       ]
     }
   ],
