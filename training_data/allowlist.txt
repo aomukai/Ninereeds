@@ -1,4 +1,4 @@
-abbreviating
+﻿abbreviating
 abiding
 ability
 blade of grass
@@ -485,7 +485,7 @@ brief
 bright
 brightening
 brighter
-brightnes
+brightness
 brim
 bring
 bringing
@@ -842,7 +842,7 @@ competing
 competition
 complaint
 complete
-completenes
+completeness
 completing
 complex
 complexity
@@ -895,7 +895,7 @@ connecting
 connection
 conquest
 conscious
-consciousnes
+consciousness
 consent
 consequence
 conservation
@@ -1509,7 +1509,6 @@ errand
 error
 escalation
 escape
-especial
 espying
 essence
 essential
@@ -1665,7 +1664,6 @@ figure
 figured
 figuring
 file
-filelist.txt
 filing
 fill
 film
@@ -1767,7 +1765,7 @@ forget
 forgetting
 forging
 forgive
-forgivenes
+forgiveness
 forgiving
 forgot
 fork
@@ -2233,11 +2231,11 @@ inconvenience
 inconvenient
 incorporating
 incorrect
-incorrectnes
+incorrectness
 increase
 increasing
 indefinite
-indefinitenes
+indefiniteness
 independence
 independent
 indeterminate
@@ -2999,7 +2997,7 @@ original
 ornate
 oscillating
 ostrich
-othernes
+otherness
 otter
 ounce
 outcome
@@ -3264,7 +3262,7 @@ police
 police officer
 polish
 polite
-politenes
+politeness
 pollen
 pollination
 pollution
@@ -3712,7 +3710,7 @@ rubber
 rubble
 rudder
 rude
-rudenes
+rudeness
 rug
 ruin
 ruining
@@ -3960,7 +3958,7 @@ shuttle
 shy
 sibling
 sick
-sicknes
+sickness
 side
 sidekick
 sidewalk
@@ -4121,7 +4119,7 @@ sorry
 sort
 sound
 sounded
-soundnes
+soundness
 soup
 sour
 source
@@ -4595,7 +4593,7 @@ tip
 tip of the branch
 tiptoe
 tire
-tirednes
+tiredness
 tissue
 title
 toad
@@ -4844,7 +4842,7 @@ unsafe
 unscrewing
 unsettled
 unsettling
-unsoundnes
+unsoundness
 unstable
 unsteady
 unsticking
@@ -5038,7 +5036,7 @@ welding
 well
 well-being
 wellbeing
-wellnes
+wellness
 went
 west
 wet
