@@ -238,52 +238,33 @@ def load_planned_words() -> set[str]:
     }
 
 
-def plan_batch(
-    words: list[str],
-    client: OpenAI,
-    dry_run: bool,
-) -> list[dict]:
-    """Send one batch to the frame-identification API. Returns list of job dicts."""
-    if dry_run:
-        log(f"  [DRY-RUN] plan: {words}")
-        return []
-
-    prompt = PLAN_PROMPT_TPL.format(words="\n".join(f"- {w}" for w in words))
-
-    try:
-        resp = client.chat.completions.create(
-            model=MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=8192,
-        )
-    except Exception as e:
-        log(f"  PLAN API ERROR for {words[0]}…: {e}")
-        return []
-
-    raw = (resp.choices[0].message.content or "").strip()
+def _parse_plan_response(raw: str, words: list[str]) -> tuple[list[dict], bool]:
+    """Parse a plan API response. Returns (jobs, success). success=False means retry."""
     if raw.startswith("```"):
         raw = re.sub(r"^```[^\n]*\n", "", raw)
         raw = re.sub(r"\n?```$", "", raw.strip())
 
+    data = None
     try:
         data = json.loads(raw)
     except json.JSONDecodeError:
         m = re.search(r"\{[\s\S]*\}", raw)
-        if not m:
-            log(f"  PLAN PARSE FAIL for {words[0]}… raw:\n{raw[:200]}")
-            return []
-        try:
-            data = json.loads(m.group(0))
-        except json.JSONDecodeError:
-            log(f"  PLAN PARSE FAIL (inner) for {words[0]}…")
-            return []
+        if m:
+            try:
+                data = json.loads(m.group(0))
+            except json.JSONDecodeError:
+                pass
+
+    if data is None:
+        log(f"  PLAN PARSE FAIL for {words[0]}… raw:\n{raw[:200]}")
+        return [], False
 
     input_set = set(words)
     jobs = []
     for entry in data.get("words", []):
         word = entry.get("word", "").strip()
         if word not in input_set:
-            continue  # ignore hallucinated words
+            continue
         frames = entry.get("frames", [])
         for i, frame in enumerate(frames, 1):
             fid = f"{word}_{i}"
@@ -300,7 +281,47 @@ def plan_batch(
         if not frames:
             log(f"  NO FRAMES: {word}")
 
-    return jobs
+    return jobs, True
+
+
+def plan_batch(
+    words: list[str],
+    client: OpenAI,
+    dry_run: bool,
+) -> tuple[list[dict], bool]:
+    """Send one batch to the frame-identification API.
+
+    Returns (jobs, success). success=False means the batch should be retried —
+    words will NOT be marked as planned, so they stay in the pending queue.
+    """
+    if dry_run:
+        log(f"  [DRY-RUN] plan: {words}")
+        return [], True
+
+    prompt = PLAN_PROMPT_TPL.format(words="\n".join(f"- {w}" for w in words))
+
+    for attempt in (1, 2):
+        try:
+            resp = client.chat.completions.create(
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=32768,
+            )
+        except Exception as e:
+            log(f"  PLAN API ERROR (attempt {attempt}) for {words[0]}…: {e}")
+            if attempt == 2:
+                return [], False
+            continue
+
+        raw = (resp.choices[0].message.content or "").strip()
+        jobs, ok = _parse_plan_response(raw, words)
+        if ok:
+            return jobs, True
+        if attempt == 2:
+            return [], False
+        log(f"  Retrying batch starting with {words[0]}…")
+
+    return [], False  # unreachable
 
 
 def run_plan(args: argparse.Namespace, client: OpenAI) -> None:
@@ -330,15 +351,15 @@ def run_plan(args: argparse.Namespace, client: OpenAI) -> None:
 
     total_frames = 0
 
-    def process(batch: list[str]) -> tuple[list[dict], list[str]]:
-        jobs = plan_batch(batch, client, args.dry_run)
-        return jobs, batch  # return the batch so we can mark it planned
+    def process(batch: list[str]) -> tuple[list[dict], list[str], bool]:
+        jobs, success = plan_batch(batch, client, args.dry_run)
+        return jobs, batch, success
 
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futs = {pool.submit(process, b): b for b in batches}
         for fut in as_completed(futs):
-            jobs, batch = fut.result()
-            if not args.dry_run:
+            jobs, batch, success = fut.result()
+            if not args.dry_run and success:
                 with _lock:
                     if jobs:
                         with JOBS_FILE.open("a", encoding="utf-8") as f:
@@ -347,6 +368,8 @@ def run_plan(args: argparse.Namespace, client: OpenAI) -> None:
                     with PLANNED_FILE.open("a", encoding="utf-8") as f:
                         for w in batch:
                             f.write(w + "\n")
+            elif not success:
+                log(f"  BATCH FAILED (not marked planned): {batch[0]}…{batch[-1]}")
             total_frames += len(jobs)
 
     print(f"\nDone. {total_frames} frame jobs written.")
@@ -409,7 +432,7 @@ def gen_batch(
         resp = client.chat.completions.create(
             model=MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=8192,
+            max_tokens=32768,
         )
     except Exception as e:
         log(f"  GEN API ERROR for {jobs[0]['frame_id']}…: {e}")
