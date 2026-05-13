@@ -2,12 +2,12 @@
 """
 Multilingual lang_1 file generator.
 
-Reads training_data/allowlist.txt, determines which words don't have
+Reads inventory/allowlist.txt, determines which words don't have
 lang_1 files yet, batches them 10 at a time, sends to DeepSeek V4 Flash
 via OpenRouter, parses the JSON response, and writes the files.
 
 Usage:
-  python3 meta/lang_gen.py [--batch 10] [--workers 4] [--dry-run]
+  python3 meta/scripts/lang_gen.py [--batch 10] [--workers 4] [--dry-run]
 
 Auth (same priority order as CLAUDE.md):
   1. OPENROUTER_API_KEY env var
@@ -33,9 +33,9 @@ if hasattr(sys.stdout, "reconfigure"):
 if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
-REPO_ROOT   = Path(__file__).resolve().parent.parent
-ALLOWLIST   = REPO_ROOT / "training_data/allowlist.txt"
-PROMPT_TPL  = REPO_ROOT / "training_data/lang/prompt,md"
+REPO_ROOT   = Path(__file__).resolve().parent.parent.parent
+ALLOWLIST   = REPO_ROOT / "inventory/allowlist.txt"
+PROMPT_TPL  = REPO_ROOT / "training_data/lang/prompt.md"
 OUTPUT_DIR  = REPO_ROOT / "training_data/lang/lang_1"
 BASE_URL    = "https://openrouter.ai/api/v1"
 MODEL       = "deepseek/deepseek-v4-flash"
