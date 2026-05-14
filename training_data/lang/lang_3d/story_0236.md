@@ -1,0 +1,29 @@
+Tom is in the garden watering plants.
+Tom gießt im Garten die Pflanzen.
+トムは庭で花に水をやっている。
+汤姆在花园里浇花。
+
+The woman admires the flowers.
+Die Frau bewundert die Blumen.
+女性は花を眺めている。
+女人在赏花。
+
+Tom gives the woman a flower.
+Tom gibt der Frau eine Blume.
+トムは女性に花をあげる。
+汤姆给女人一朵花。
+
+Tom waters the flowers for the woman.
+Tom gießt die Blumen für die Frau.
+トムは女性に花に水をやってあげる。
+汤姆给女人浇花。
+
+The flower is from Tom's garden.
+Die Blume ist aus Toms Garten.
+その花はトムの庭の花だ。
+花是汤姆花园里的。
+
+The woman thanks him.
+Die Frau dankt ihm.
+女性はトムに感謝する。
+女人谢谢他。
