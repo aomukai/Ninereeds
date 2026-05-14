@@ -1,294 +1,319 @@
 # BDH Training Pipeline
 
-Canonical sequence for training, auditing, expansion, and late-stage evaluation.
+Canonical description of every corpus layer, its purpose, and the intended training sequence.
 
-This file exists so the training process is described in one place instead of being
-spread across `phase 1 to 5/`, wiki planning notes, and Mommy Says Machine design docs.
-
----
-
-## Purpose
-
-The dragon should not jump directly from raw concept files into richer reasoning tasks.
-The intended progression is:
-
-1. build a strict language foundation
-2. expand concept knowledge in the wiki
-3. audit grounding and ownership
-4. add bridge concepts needed for hidden-state and perspective reasoning
-5. add story-based contextual variation
-6. only then move into richer wiki levels
-7. evaluate and diagnose with Mommy Says Machine after training
+Last updated: 2026-05-15
 
 ---
 
-## Stage 1 — Phase 1–5 curriculum foundation
+## Corpus layers
 
-**Source:** `training_data/phases/`
+### Lang curriculum — `training_data/lang/`
 
-This is the first training layer.
-It provides:
-- concrete vocabulary
-- strict formatting
-- dependency-ordered introduction of concepts
-- compositional patterns built from already-grounded words
+**Status:** Complete (all five sublevels, all four languages)
+
+The most granular layer. Teaches vocabulary and grammatical structure explicitly and
+multilingually before any of that vocabulary appears in contextual use.
+
+| Sublevel | Dir | Files | Content |
+|---|---|---|---|
+| lang_1 | `lang_1/` | ~5 k | One file per allowlist word; four-language vocabulary pairs |
+| lang_2 | `lang_2/` | ~6 k | Semantic frames: verbs, adjectives, nouns, pronouns, combinations |
+| lang_3 | `lang_3/` | 615 | Dative constructions (3a/3b), reflexive + benefactive (3c), parallel stories (3d) |
+| lang_4 | `lang_4/` | 316 | Static location (4a), movement (4b), instrument (4c), parallel stories (4d) |
+| lang_5 | `lang_5/` | 192 | Question answering: wer/wen/wem/wessen (5a), spatial (5b), temporal (5c), causal (5d + stories), modal (5e), yes/no + doch (5f) |
+
+All lang files are four-language parallel: EN, DE, JP (plain form), ZH (Traditional).
+German uses V2 word order and correct Perfekt auxiliary selection.
+Japanese uses plain form throughout (no romaji).
+Chinese uses Traditional characters and Standard Written register.
+
+Allowlist at `inventory/allowlist.txt` gates which content words are permitted in lang files
+and downstream story layers. Any new word that appears in corpus generation must be added
+to the allowlist after review.
+
+---
+
+### Phase curriculum — `training_data/phases/`
+
+**Status:** Complete (phases 1–6)
+
+English-only structured dialogue files. The authoritative concept definition layer.
+
+Each file follows the strict `[user]`/`[Ninereeds]` format:
+exactly four block pairs, five body lines per Ninereeds response, no pronouns,
+no negation, one sentence per line. Malformed files have outsized training impact
+at this model size.
+
+| Phase | Content |
+|---|---|
+| Phase 1–2 | Core concrete vocabulary and basic properties |
+| Phase 3–5 | Expanded concept coverage, relational and social knowledge |
+| Phase 6 | Bridge curriculum: scaffold words (word, sentence, thought, idea, true, real, question, answer, plan, goal) and connective tissue concepts |
+
+Training uses `training_data/phases/training_sequence.txt` as the authoritative ordering,
+not raw filename order.
 
 Key references:
 - `training_data/phases/concept_index.md`
 - `training_data/phases/training_sequence.txt`
-- `training_data/phases/dependency_graph.json`
-- `training_data/phases/missing_curriculum_terms.md`
-
-Training note:
-- `training_sequence.txt` is the authoritative order, not raw filename order.
-
-Exit condition for this stage:
-- the dragon has the intended early language foundation from phases 1–5
+- `inventory/dependency_graph.json`
 
 ---
 
-## Stage 2 — Wiki Level 1
+### Reasoning — `training_data/reasoning/`
 
-**Primary sources:**
-- `todo.md`
-- `history.md`
-- `training_data/wiki/wiki_category_backlog.md`
-- `training_data/wiki/wiki_expansion_index.md`
-- `training_data/wiki/wiki_entry_expansion_index.md`
-- `training_data/wiki/level1_finish_and_level2_start_plan.md`
-- `training_data/wiki/wiki_1/`
+**Status:** Complete (27 EN source files × 4 languages = 108 files)
 
-Wiki Level 1 adds:
-- broader concept coverage
+Math and logic training. Two structural types:
+
+- **Math fact files:** symbolic notation (`1 + 1 = 2`), verbal mode, grounded story mode,
+  reasoning chain. The symbolic notation is language-universal; verbal and story modes
+  are fully localized.
+- **Logic and reasoning files:** conditional (if/then), contradiction checks, epistemic
+  uncertainty, symbolic substitution, ordinal sequencing, conservation of quantity, etc.
+
+Language registers:
+- DE: German textbook style (Schulbuch) — precise, not academic
+- JP: plain form (常体), light and natural — not stiff or academic
+- ZH: Standard Written Chinese, no spoken particles
+
+Semantic preservation is critical in math story modes: if the English has
+"a bird finds one worm," every language version must have a bird finding a worm,
+not a bird finding another bird.
+
+File naming: `filename.md` (EN), `filename_DE.md`, `filename_JP.md`, `filename_ZH.md`.
+
+---
+
+### Triplet stories — `training_data/triplet_stories/`
+
+**Status:** Complete (1 345 EN files × 4 languages = 5 380 files)
+
+Narrative contextualization of vocabulary. Four tiers of increasing complexity.
+13 categories: abstract concepts, animals and nature, body and health, food and meals,
+home and daily life, language and grammar, math and science, people and relationships,
+play and games, school and learning, tools and making, vehicles and travel,
+weather and seasons.
+
+Each file is one story: a `[user]` prompt and a `[Ninereeds]` narrative response.
+Language registers:
+- DE: natural narrative German (Lesebuch style), Präteritum or Perfekt
+- JP: plain past tense (〜た), short sentences, タメ口 narrative
+- ZH: natural narrative Traditional Chinese, no spoken particles
+
+File naming: `category_NN_EN.md`, `category_NN_DE.md`, `category_NN_JP.md`, `category_NN_ZH.md`
+within `tier_1/` through `tier_4/`.
+
+---
+
+### Wiki — `training_data/wiki/`
+
+**Status:** Levels 1 and 2 complete; Level 3+ deferred
+
+Broader concept knowledge beyond the phase curriculum. Child-facing explanatory language,
+category ownership, relational knowledge.
+
+Expansion follows a strict alternating cadence with story layers — see Stage 7.
+
+---
+
+### Philosophy — `training_data/philosophy/`
+
+**Status:** Complete (144 multilingual files)
+
+Abstract philosophical dialogues. Socratic structure: a statement, a challenge,
+a response, and a final open reflection from the user that receives no answer.
+That final unanswered turn is intentional — it models that not every thought
+requires a resolution.
+
+Each file uses language-tagged blocks:
+`[STATEMENT_EN/DE/JA/ZH]`, `[USER_EN/DE/JA/ZH]`, `[NINEREEDS_EN/DE/JA/ZH]`.
+
+Language registers:
+- DE: serious philosophical prose (German essay or school text level)
+- JA: である体 for STATEMENT and NINEREEDS; natural conversational for USER
+- ZH: Standard Written Chinese, no spoken particles
+
+File naming: `dialogues_catN_NN.md` (12 categories × 12 entries = 144 files).
+
+---
+
+## Training sequence
+
+The corpus has two parallel foundations — lang and phases — that are complementary:
+phases teach *what things are*, lang teaches *how to talk about them in four languages*.
+Neither is strictly prerequisite to the other; they interleave naturally.
+
+### Stage 1 — Lang 1–2 + Phases 1–3
+
+Run together. Lang 1–2 establishes the multilingual vocabulary base;
+phases 1–3 establish core concept definitions and strict formatting.
+These reinforce each other: the model learns a word in four languages (lang_1)
+and separately learns what that concept is (phase).
+
+Exit condition:
+- Model handles basic vocabulary and concept definitions stably.
+- Phase formatting is respected.
+
+---
+
+### Stage 2 — Lang 3–4 + Phases 4–6
+
+Lang 3–4 introduces grammatical constructions (dative, reflexive, spatial, movement,
+instrument). Phases 4–6 extend concept coverage and introduce bridge vocabulary.
+
+Exit condition:
+- Model handles dative and spatial constructions correctly in all four languages.
+- Phase 6 bridge words (word, sentence, plan, goal, etc.) are stable.
+
+---
+
+### Stage 3 — Lang 5 + Reasoning
+
+Lang 5 introduces question answering (who, what, where, when, why, how, yes/no + doch).
+Reasoning files introduce math and logic patterns in all four languages.
+
+These belong together: both are interrogative and deductive, and running them together
+lets the model encounter "how do you answer a question" and "how do you reason to an
+answer" as a coherent block.
+
+Exit condition:
+- Model answers wer/wen/wem/wessen, wo/wohin/woher, wann/warum/wie correctly.
+- Model handles simple addition, subtraction, conditionals, contradiction checks.
+- Semantic preservation holds across languages (objects, actors, counts are stable).
+
+---
+
+### Stage 4 — Triplet stories (tiers 1–2)
+
+First narrative layer. Concrete, daily-life stories using grounded vocabulary.
+Only allowlisted vocabulary should appear; the allowlist was built with these
+stories in mind.
+
+Run tiers 1–2 before tiers 3–4 to establish the narrative voice before
+increasing complexity.
+
+Exit condition:
+- Model produces coherent narrative responses across all four languages.
+- No vocabulary bleed from ungrounded sources.
+
+---
+
+### Stage 5 — Wiki Level 1 audit
+
+Before proceeding to richer content, audit the wiki Level 1 corpus:
 - category ownership
-- child-facing explanatory language
-- relational and social knowledge beyond the phase 1–5 curriculum
+- overlap control
+- contrast cleanliness
+- dependency coverage
+- voice consistency
 
-Current expectation:
-- finish Level 1 with dependency coverage, overlap cleanup, and grounded concept homes
-- do not treat the wiki as a random expansion bucket
+This audit is not just a completeness check — it asks whether Level 1 is
+teachable as a coherent whole.
 
-Exit condition for this stage:
-- Level 1 content is complete enough for a full audit
-- trunk ownership and major dependency issues are under control
-
----
-
-## Stage 3 — Level 1 audit
-
-Before moving forward, perform a proper Level 1 audit.
-
-Audit goals:
-- verify category ownership
-- verify overlap is under control
-- verify contrast cleanliness
-- verify dependency coverage
-- verify voice consistency across the full Level 1 corpus
-
-This audit is broader than simply checking whether files exist.
-It asks whether the current Level 1 corpus is actually teachable as a coherent whole.
-
-Exit condition for this stage:
-- Level 1 is judged stable enough to compare against the earlier curriculum foundation
+Exit condition:
+- Level 1 is stable enough to compare against the phase foundation.
 
 ---
 
-## Stage 4 — Level 1 vs phase 1–5 grounding audit
+### Stage 6 — Level 1 vs phases grounding audit
 
-This is the grounding audit between the wiki corpus and the earlier curriculum.
-
-Question:
-- does the dragon already have enough phase 1–5 support to absorb the Level 1 wiki cleanly?
-
-For important wiki concepts, classify them as:
-- grounded in phase 1–5
-- weakly grounded in phase 1–5
+Does the model have enough phase support to absorb Level 1 wiki cleanly?
+Classify important wiki concepts as:
+- grounded in phases
+- weakly grounded
 - missing curriculum anchor
 - better left wiki-only
 
-Use:
-- `training_data/phases/missing_curriculum_terms.md`
-- the dependency work from `training_data/wiki/wiki_category_backlog.md`
-- the Level 1 cleanup results
+If grounding is weak, fix or log the gaps before continuing.
 
-This is the gate before richer expansion.
-If grounding is weak, fix or log the gaps before moving on.
-
-Exit condition for this stage:
-- major wiki concepts are either grounded, explicitly deferred, or logged as curriculum-side gaps
+Exit condition:
+- Major wiki concepts are either grounded, explicitly deferred, or logged as gaps.
 
 ---
 
-## Stage 5 — Connective tissue batch / Phase 6 bridge
+### Stage 7 — Triplet stories (tiers 3–4) + Wiki Level 2
 
-**Primary sources:**
-- `training_data/wiki/00_ideas.md`
-- `training_data/phases/phase_6/README.md`
-- `training_data/phases/phase_6/phase_6_spec.md`
-- `training_data/phases/phase_6/story_dialogue_progression.md`
-
-Do not implement this during the main Level 1 quality pass.
-Implement it only after:
-- Level 1 audit is complete
-- Level 1 vs phase 1–5 grounding audit is complete
-
-This stage now has two tightly related jobs:
-
-1. **Connective tissue concepts**
-   - become / turn into / shrink / appear / disappear / use up / run out
-   - outcome / both / also / but / however / fail
-   - only if / in that case / otherwise
-   - step / in order
-   - eventually / takes time
-   - new file: `appearance_and_hidden_state_entries.md`
-
-2. **Phase 6 bridge curriculum**
-   - teach missing scaffold vocabulary such as `word`, `sentence`, `thought`, `idea`, `true`, `real`, `question`, `answer`, `plan`, and `goal`
-   - teach those words through a small reusable pattern grid rather than as isolated vocabulary only
-   - prepare the dragon for Story Layer 1 without jumping too early into compressed quotation-based dialogue
-
-Purpose:
-- bridge from plain concept definition into hidden-state reasoning, delayed change, outcome tracking, appearance vs reality, and basic language-about-language
-- prepare the dragon for better story understanding and later theory-of-mind work
-- introduce the dialogue progression gradually: full proposition in Phase 6 → narrated indirect discourse in Story Layer 1 → quoted dialogue with speaker tags in Story Layer 2 → short elliptical replies only later
-
-Exit condition for this stage:
-- the bridge concepts needed for richer reasoning are present and stable
-- the first Phase 6 bridge files and pattern grid are defined well enough that Story Layer 1 can rely on them
-
----
-
-## Stage 6 — Story layer 1
-
-**Source:** `training_data/wiki/00_ideas.md`
-
-Stories are a separate training layer.
-They are not wiki definitions.
-
-Purpose:
-- teach co-occurrence in context
-- teach more natural sentence structures
-- reinforce grounded words in flexible use
-
-Story layer 1 should happen after:
-- phase 1–5 foundation
-- wiki Level 1
-- Level 1 audit
-- Level 1 vs phase 1–5 grounding audit
-- connective tissue batch
-
-Story rules:
-- only use grounded vocabulary
-- prefer one anchor concept with two supporting concepts
-- use semantically coherent triplets
-- do not force abstract concepts into stories if they do not fit naturally
-
-This is the first story layer and should stay concrete and daily-life oriented.
-
-Exit condition for this stage:
-- the dragon has seen known concepts both in definition format and in short contextual narrative format
-
----
-
-## Stage 7 — Wiki Level 2 and later story spirals
-
-After the earlier stages are stable, move to richer wiki expansion.
-
-Level 2 should not begin automatically just because Level 1 is "done."
-It should begin only after the earlier audit and grounding gates are satisfied.
-
-When moving to Level 2:
-- review sample outputs and decide whether the style and abstraction level are actually desired
-- refine category plans before doing large-scale expansion
-- keep human review in the loop
-
-### Alternating expansion cadence
-
-Wiki and story layers expand together in a strict alternating pattern:
+Alternating cadence. Do not front-load stories with vocabulary from a wiki level
+that does not yet exist.
 
 ```
-Wiki Level 1 → Story Layer 1 → Wiki Level 2 → Story Layer 2 → post-Level-2 consolidation review → Wiki Level 3 → Story Layer 3 → ...
+Wiki L1 → Triplet 1–2 → Wiki L2 → Triplet 3–4 → Wiki L3 → Triplet + philosophy → …
 ```
 
-After each wiki level, add the corresponding story layer before beginning the next wiki level:
-- Wiki Level 2 → Story Layer 2
-- then run a consolidation quality pass across the bridge/story/wiki stack before opening Wiki Level 3
-- Wiki Level 3 → Story Layer 3
-- and so on
+Level 2 should not begin automatically because Level 1 is "done."
+Begin only after the Level 1 and grounding audits pass.
 
-Do not skip story layers. Do not front-load stories with vocabulary from a wiki level that does not yet exist.
+When opening Level 2:
+- review sample outputs
+- confirm style and abstraction level match the target
+- refine category plans before large-scale expansion
 
-The story format can remain stable while the vocabulary pool and conceptual richness expand.
-
-For detailed rules on this cadence, see `training_data/wiki/level1_finish_and_level2_start_plan.md`.
+Exit condition:
+- Triplet tiers 3–4 stable in all four languages.
+- Wiki Level 2 articles quality-passed.
 
 ---
 
-## Stage 8 — Mommy Says Machine evaluation and targeted correction
+### Stage 8 — Philosophy
 
-**Source:** `docs/mommy_says_machine.md`
+Run after the model has a stable narrative and conceptual base.
+Philosophy dialogues are abstract and dialectical; they require the model
+to already handle nuanced multi-turn reasoning before they are productive.
 
-Mommy Says Machine is not the main trainer.
-It is primarily:
-- an evaluation system
-- a diagnostic system
-- a correction-pair generator for future offline training
+The multilingual tag format (`[STATEMENT_EN]` / `[STATEMENT_DE]` etc.)
+means the model sees the same philosophical idea expressed in four registers
+simultaneously, which reinforces the idea that the logical content is
+language-independent.
 
-Use it after training when the dragon is expected to be near the target competence level.
+Exit condition:
+- Model engages coherently with the Socratic structure across all four languages.
+- The unanswered final USER turn does not trigger a spurious response.
 
-Best use cases:
-- concepts that are clearly defined but still fail in practice
+---
+
+### Stage 9 — Mommy Says Machine evaluation
+
+Mommy Says Machine is primarily an evaluation and diagnostic system,
+not a training component.
+
+Use after a full training pass when the model is expected to be near
+target competence. Best use cases:
+- concepts clearly defined but failing in practice
 - false belief and hidden-state failures
-- checking how the dragon handles correction
-- measuring within-session retention
+- correction response quality
+- within-session retention
 
-If stable failure patterns appear, the correction pairs can feed a later clean training run.
+Stable failure patterns can feed a targeted correction-pair batch
+for a subsequent offline training run.
 
-Exit condition for this stage:
-- human review determines whether the model is good enough, what it is failing, and whether further offline training is warranted
+See `docs/mommy_says_machine.md` for full protocol.
 
 ---
 
 ## Human review checkpoints
 
-Human review is especially important at these transitions:
+1. **Before Stage 5 (wiki audit):** review stage 1–4 output quality; confirm
+   multilingual registers are stable; confirm allowlist is up to date.
 
-1. **Before Level 2**
-   - review Level 1 quality
-   - review the Level 1 vs phase 1–5 grounding audit
-   - review whether connective tissue additions are the right ones
+2. **Before Stage 7 (Level 2):** review Level 1 quality; review grounding audit;
+   confirm story narrative voice matches target.
 
-2. **Before story layer expansion beyond Level 1**
-   - check whether story outputs match the desired dragon voice and reasoning style
+3. **Before Stage 8 (philosophy):** confirm the model handles multi-turn abstract
+   dialogue without collapsing into single-sentence answers.
 
-3. **Before using Mommy Says Machine correction data for training**
-   - inspect whether failures are real concept failures or prompt-format artifacts
-   - inspect whether teacher corrections are actually the kind of signal worth training on
-
----
-
-## Current practical sequence
-
-As of now, the intended near-term order is:
-
-1. finish wiki Level 1 cleanup and gap filling
-2. run a proper Level 1 audit
-3. audit Level 1 against phase 1–5 grounding
-4. implement the connective tissue batch from `00_ideas.md`
-5. create story layer 1
-6. review whether the resulting corpus quality justifies moving to Level 2
-7. only later run Mommy Says Machine as evaluation / targeted remediation
+4. **Before using Mommy Says Machine correction data for training:** inspect whether
+   failures are real concept failures or prompt-format artifacts; inspect whether
+   teacher corrections are actually the kind of signal worth training on.
 
 ---
 
 ## Related files
 
+- `inventory/allowlist.txt` — content word gate for lang and story layers
+- `inventory/dependency_graph.json` — phase dependency graph
+- `training_data/phases/training_sequence.txt` — authoritative phase order
 - `training_data/phases/concept_index.md`
-- `training_data/phases/training_sequence.txt`
-- `training_data/phases/missing_curriculum_terms.md`
-- `history.md`
-- `todo.md`
-- `training_data/wiki/wiki_category_backlog.md`
-- `training_data/wiki/level1_finish_and_level2_start_plan.md`
-- `training_data/wiki/00_ideas.md`
 - `docs/mommy_says_machine.md`
+- `docs/training_harness_design.md`
