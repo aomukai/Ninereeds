@@ -267,6 +267,8 @@ means the model sees the same philosophical idea expressed in four registers
 simultaneously, which reinforces the idea that the logical content is
 language-independent.
 
+Philosophy may be delayed or introduced gradually if abstraction causes instability.
+
 Exit condition:
 - Model engages coherently with the Socratic structure across all four languages.
 - The unanswered final USER turn does not trigger a spurious response.

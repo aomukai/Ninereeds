@@ -36,7 +36,7 @@ correction pairs for use in a subsequent clean training run.
 | Component | Role |
 |---|---|
 | Dragon / Ninereeds | Student. Local Ninereeds checkpoint on the BDH architecture, frozen. Read-only. |
-| Teacher | Gemini via API |
+| Teacher | DeepSeek or Claude via OpenRouter API |
 | Hermes Agent | Orchestration. Manages the run loop. |
 | Vocab Guard | Validates vocabulary in all exchanges. |
 | Run Logger | Records all exchanges and grades. |
@@ -185,7 +185,8 @@ Every exchange is checked by the Vocab Guard before logging.
 ### Known vocabulary source
 
 The known vocabulary list is derived from:
-- The wiki schema (archive/training_data/wiki/wiki_schema_v2.yaml)
+- `inventory/allowlist.txt` — the canonical content word gate
+- `training_data/phases/concept_index.md` — per-concept vocabulary
 - Filtered to concepts confirmed present in the
   training corpus at the current checkpoint.
 
@@ -343,16 +344,16 @@ mommy_says_machine/
 # config.yaml
 
 dragon:
-  checkpoint: "core/phase_5.pt"
+  checkpoint: "core/checkpoint.pt"   # set to current checkpoint before running
   device: "cuda"
   max_new_tokens: 64
   temperature: 0.8
   top_k: 40
 
 teacher:
-  model: "gemini/gemini-pro"
-  api_base: "https://integrate.api.nvidia.com/v1"
-  max_tokens: 128
+  model: "deepseek/deepseek-v4-flash"
+  api_base: "https://openrouter.ai/api/v1"
+  max_tokens: 2048
   temperature: 0.3
 
 run:
@@ -363,8 +364,9 @@ run:
   control_sample_ratio: 0.20
 
 vocab:
-  source: "archive/training_data/wiki/wiki_schema_v2.yaml"
-  confirmed_phases: [1, 2, 3]
+  source: "inventory/allowlist.txt"
+  concept_index: "training_data/phases/concept_index.md"
+  confirmed_phases: [1, 2, 3, 4, 5, 6]
 
 output:
   runs_dir: "runs/"

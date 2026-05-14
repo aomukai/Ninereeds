@@ -71,8 +71,8 @@ Instead, when outside knowledge is needed, Ninereeds should know how to route re
 
 In the current architecture, that outer layer is represented by:
 
-- Hermes Agent as orchestrator
-- Gemini CLI as executor / worker
+- Claude as orchestrator and planner
+- DeepSeek via OpenRouter as executor and bulk corpus worker
 - the harness and tool system as external cognition
 
 That gives a cleaner separation:
@@ -197,14 +197,13 @@ This is a much better growth rule than “expand everywhere.”
 
 ## 6. The role of Hermes and Gemini in the present-day path
 
-In April 2026, the current tool ecosystem makes a new design route possible.
+In May 2026, the current tool ecosystem makes a new design route possible.
 
 Instead of trying to brute-force the final exocortex system directly, the project can proceed through a powerful intermediate architecture:
 
-- Hermes Agent as orchestrator
-- Gemini CLI as executor / worker
-- explicit markdown skills
-- cron-driven autonomous work
+- Claude as orchestrator and planner
+- DeepSeek via OpenRouter as executor and bulk corpus worker
+- explicit prompt templates and generation scripts
 - verifier-gated training and evaluation loops
 - structured artifacts and logs
 
@@ -225,13 +224,13 @@ It is one of the first serious practical routes toward it.
 
 The current work on:
 
-- phases 1–5
-- wiki levels 1–4
+- phases 1–6
+- lang levels 1–5 (multilingual vocabulary and grammar, EN/DE/JP/ZH)
+- reasoning, triplet stories, and philosophy corpora (all multilingual)
+- wiki levels 1–2
 - cleanup passes
 - dependency audits
-- semantic-loop checks
-- orphan detection
-- Level 2/3/4 expansion rules
+- allowlist-gated corpus expansion
 
 can look like a detour if viewed too narrowly.
 
