@@ -6,7 +6,6 @@ __pycache__/
 *.pyc
 loras/**/*.pt
 .claude/
-CLAUDE.md
 .venv/
 .pytest_cache/
 .mypy_cache/
