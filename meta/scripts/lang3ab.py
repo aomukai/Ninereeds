@@ -54,15 +54,27 @@ _lock = threading.Lock()
 # ─────────────────────────────────────────────────────────────────
 
 # 3a: verbs allowing BOTH double-object and prepositional constructions
+# Anglo-Saxon / Germanic verbs: "Tom gives her an apple" AND "Tom gives an apple to her"
 BOTH_VERBS = [
+    # original
     "give", "show", "tell", "send", "bring", "buy",
     "lend", "offer", "teach", "write", "hand", "pass",
+    # extended
+    "sell", "read", "sing", "throw", "toss", "feed",
+    "serve", "deal", "slide", "rent", "promise", "forward",
+    "email", "text", "whisper", "shout", "award", "pay",
+    "quote", "wire", "flip",
 ]
 
 # 3a: verbs allowing PREPOSITIONAL ONLY (Latinate — "she explained him X" is not English)
 PREP_ONLY_VERBS = [
+    # original
     "explain", "describe", "suggest", "announce",
     "mention", "introduce", "report",
+    # extended
+    "recommend", "present", "propose", "dedicate",
+    "demonstrate", "confirm", "admit", "signal",
+    "assign", "submit",
 ]
 
 # 3b uses the same double-object verbs as 3a
@@ -180,6 +192,37 @@ CRITICAL — Mandarin verb reference. Use the correct verb/frame per verb; do NO
   mention → 向 + IO + 提到/提及 + DO
   introduce → 给 + IO + 介绍 + DO  or  把 + DO + 介绍给 + IO
   report  → 向 + IO + 汇报 + DO
+  sell    → 把 + DO + 卖给 + IO
+  read    → 给 + IO + 读/朗读 + DO
+  sing    → 给 + IO + 唱 + DO
+  throw   → 把 + DO + 扔给/丢给 + IO
+  toss    → 把 + DO + 扔给 + IO
+  feed    → 给 + IO + 喂 + DO  (animals); 给 + IO + 吃 + DO  (people)
+  serve   → 给 + IO + 端上/上 + DO
+  deal    → 给 + IO + 发 + DO  (cards: 给他发牌)
+  slide   → 把 + DO + 推给/递给 + IO
+  rent    → 把 + DO + 租给 + IO
+  promise → 答应/承诺 + IO + DO  or  向 + IO + 承诺 + DO
+  forward → 把 + DO + 转发给 + IO
+  email   → 给 + IO + 发 + DO  (邮件)
+  text    → 给 + IO + 发 + DO  (短信/消息)
+  whisper → 向 + IO + 低语/小声说 + DO  or  对 + IO + 耳语
+  shout   → 向 + IO + 喊/大声说 + DO
+  award   → 给 + IO + 颁发/授予 + DO
+  pay     → 给 + IO + 一个 + [compliment/etc.]  (付 for money; 给...一个鼓励 for intangibles)
+  quote   → 给 + IO + 报 + DO  (报价 = quote a price: 给他报了个价)
+  wire    → 给 + IO + 汇/转 + DO  (汇款 = wire money)
+  flip    → 给 + IO + 扔/弹 + DO  (把硬币弹给他)
+  recommend → 向 + IO + 推荐 + DO  or  给 + IO + 推荐 + DO
+  present → 把 + DO + 呈现/交给 + IO  or  向 + IO + 颁发 + DO
+  propose → 向 + IO + 提出/建议 + DO
+  dedicate → 把 + DO + 献给 + IO
+  demonstrate → 给 + IO + 演示/展示 + DO
+  confirm → 向 + IO + 确认 + DO
+  admit   → 向 + IO + 承认 + DO
+  signal  → 向 + IO + 示意/发信号 + DO
+  assign  → 把 + DO + 分配给/交给 + IO
+  submit  → 向 + IO + 提交 + DO  or  把 + DO + 提交给 + IO
 
 ## German reference
 
@@ -200,13 +243,44 @@ Common German verb forms for these verbs:
   write → schreiben, schrieb, geschrieben
   hand → reichen, reichte, gereicht
   pass → reichen/weitergeben, reichte weiter, weitergegeben
-  explain → erklären, erklärte, erklärt
-  describe → beschreiben, beschrieb, beschrieben
-  suggest → vorschlagen, schlug vor, vorgeschlagen
-  announce → ankündigen, kündigte an, angekündigt
-  mention → erwähnen, erwähnte, erwähnt
-  introduce → vorstellen, stellte vor, vorgestellt
-  report → berichten, berichtete, berichtet
+  explain    → erklären, erklärte, erklärt
+  describe   → beschreiben, beschrieb, beschrieben
+  suggest    → vorschlagen, schlug vor, vorgeschlagen
+  announce   → ankündigen, kündigte an, angekündigt
+  mention    → erwähnen, erwähnte, erwähnt
+  introduce  → vorstellen, stellte vor, vorgestellt
+  report     → berichten, berichtete, berichtet
+  sell       → verkaufen, verkaufte, verkauft (jmdm. etw. verkaufen)
+  read       → vorlesen, las vor, vorgelesen (reading aloud to someone)
+  sing       → singen, sang, gesungen (jmdm. etw. singen)
+  throw      → zuwerfen, warf zu, zugeworfen (jmdm. etw. zuwerfen)
+  toss       → zuwerfen, warf zu, zugeworfen (same as throw)
+  feed       → füttern (animals, + accusative); geben (people, + dative)
+  serve      → servieren, servierte, serviert (jmdm. etw. servieren)
+  deal       → austeilen / geben (jmdm. Karten austeilen)
+  slide      → zuschieben, schob zu, zugeschoben (jmdm. etw. zuschieben)
+  rent       → vermieten, vermietete, vermietet (jmdm. etw. vermieten)
+  promise    → versprechen, versprach, versprochen (jmdm. etw. versprechen)
+  forward    → weiterleiten, leitete weiter, weitergeleitet (jmdm. etw. weiterleiten)
+  email      → schicken / mailen (jmdm. eine E-Mail schicken)
+  text       → schreiben / simsen (jmdm. eine Nachricht schicken)
+  whisper    → zuflüstern, flüsterte zu, zugeflüstert (jmdm. etw. zuflüstern)
+  shout      → zurufen, rief zu, zugerufen (jmdm. etw. zurufen)
+  award      → verleihen, verlieh, verliehen (prizes); überreichen for physical handoff
+  pay        → machen (jmdm. ein Kompliment machen — NOT zahlen for compliments)
+  quote      → nennen / mitteilen (jmdm. einen Preis nennen)
+  wire       → überweisen, überwies, überwiesen (jmdm. Geld überweisen)
+  flip       → zuwerfen, warf zu, zugeworfen (jmdm. eine Münze zuwerfen)
+  recommend  → empfehlen, empfahl, empfohlen (jmdm. etw. empfehlen — takes dative in DE)
+  present    → überreichen, reichte über, überreicht (formal handoff)
+  propose    → vorschlagen, schlug vor, vorgeschlagen (jmdm. etw. vorschlagen — takes dative)
+  dedicate   → widmen, widmete, gewidmet (jmdm. etw. widmen)
+  demonstrate → vorführen, führte vor, vorgeführt (jmdm. etw. vorführen)
+  confirm    → bestätigen, bestätigte, bestätigt (jmdm. etw. bestätigen)
+  admit      → gestehen, gestand, gestanden (jmdm. etw. gestehen)
+  signal     → signalisieren / anzeigen (jmdm. etw. signalisieren)
+  assign     → zuweisen, wies zu, zugewiesen (jmdm. etw. zuweisen)
+  submit     → vorlegen / einreichen (jmdm. etw. vorlegen)
 
 ## Files to generate
 
