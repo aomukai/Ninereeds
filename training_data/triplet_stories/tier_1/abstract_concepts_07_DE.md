@@ -1,0 +1,2 @@
+[user]Erzähl mir eine Geschichte über die Bewegung.
+[Ninereeds]Ein Auto fährt eine Straße entlang. Die Autoräder drehen sich in ständiger Rotation. Der Automotor erzeugt eine gleichmäßige Vibration im Autokörper. Die Straßenoberfläche ist nicht überall glatt. Bewegung trägt das Auto vorwärts an Bäumen und Feldern vorbei. Die Drehung jedes Rades und die Vibration des Motors zeigen zwei Arten von Bewegung.

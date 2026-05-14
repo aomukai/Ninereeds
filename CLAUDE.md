@@ -83,18 +83,55 @@ Root entry points (do not move): `bdh.py`, `train.py`, `inference.py`, `eval.py`
 
 **`meta/scripts/lang4.py`** — lang_4 structural corpus generator (4A/4B/4C)
 - Jobs: hard-coded matrix (116 frames)
-- Output: `training_data/lang/lang_4/`
+- Output: `training_data/lang/lang_4/` (files named `4a_*.md`, `4b_*.md`, `4c_*.md`)
 - Run: `python3 meta/scripts/lang4.py gen --workers 4 --batch 5`
 
-**`meta/scripts/lang4d.py`** — lang_4d story corpus generator
-- Plans: `training_data/lang/lang_4d_plans.jsonl` · Output: `training_data/lang/lang_4d/`
+**`meta/scripts/lang4d.py`** — lang_4 story corpus generator (200 stories)
+- Plans: `training_data/lang/lang_4d_plans.jsonl` · Output: `training_data/lang/lang_4/` (files named `4d_story_*.md`)
 - Run: `python3 meta/scripts/lang4d.py plan --target 200` then `gen --workers 4`
 
 **`meta/scripts/lang3c.py`** — lang_3c corpus generator (reflexive + benefactive)
 - Verb list: `training_data/lang/lang_3c_verbs.txt`
 - Jobs: `training_data/lang/lang_3_jobs.jsonl` · Progress: `lang_3_planned.txt`
-- Output: `training_data/lang/lang_3/`
+- Output: `training_data/lang/lang_3/` (files named `3c_*.md`)
 - Run: `python3 meta/scripts/lang3c.py plan --workers 4 --batch 10` then `gen --workers 4 --batch 5`
+
+**`meta/scripts/lang5.py`** — lang_5 Q&A pair generator (91 files, all question types)
+- Jobs: hard-coded matrix (5A wer/wen/wem/wessen, 5B wo/wohin/woher, 5C when, 5D why, 5E how, 5F yn/doch)
+- Output: `training_data/lang/lang_5/` (files named `5a_*.md` … `5f_*.md`)
+- Run: `python3 meta/scripts/lang5.py gen --workers 4 --batch 5`
+
+**`meta/scripts/lang5d.py`** — lang_5 story generator (101 stories)
+- Jobs: hard-coded list (73 original + 28 vocabulary context stories)
+- Output: `training_data/lang/lang_5/` (files named `5d_story_*.md`)
+- Run: `python3 meta/scripts/lang5d.py gen --workers 6`
+- Report: `python3 meta/scripts/lang5d.py report`
+
+**`meta/scripts/split_corpus.py`** — split multi-story/multi-entry files into individual files
+- Triplet stories: `training_data/triplet_stories/tier_N/*.md` → one file per story (`category_NN_EN.md`)
+- Philosophy: `training_data/philosophy/ninereeds_dialogues_catN.md` → one file per entry (`dialogues_catN_NN.md`)
+- Run: `python3 meta/scripts/split_corpus.py triplet` or `philosophy`
+- Already run; originals replaced with split files
+
+**`meta/scripts/localize_reasoning.py`** — DE/JP/ZH monolingual localizations of reasoning files
+- Source: `training_data/reasoning/*.md` (EN, no suffix)
+- Output: `*_DE.md`, `*_JP.md`, `*_ZH.md` alongside each source
+- Run: `python3 meta/scripts/localize_reasoning.py [--workers 3] [--lang DE,JP,ZH]`
+- Already complete: 27 EN × 4 languages = 108 files
+
+**`meta/scripts/localize_triplets.py`** — DE/JP/ZH monolingual localizations of triplet stories
+- Source: `training_data/triplet_stories/tier_N/*_EN.md`
+- Output: `*_DE.md`, `*_JP.md`, `*_ZH.md` alongside each source
+- Run: `python3 meta/scripts/localize_triplets.py gen [--workers 8] [--batch 15] [--lang DE,JP,ZH]`
+- Report: `python3 meta/scripts/localize_triplets.py report`
+- Already complete: 1345 EN × 4 languages = 5380 files
+
+**`meta/scripts/localize_philosophy.py`** — expand EN philosophy dialogues to multilingual format
+- Rewrites `training_data/philosophy/dialogues_cat*.md` in place
+- Each tag expanded: `[STATEMENT]` → `[STATEMENT_EN/DE/JA/ZH]`, same for `[USER]` and `[NINEREEDS]`
+- Run: `python3 meta/scripts/localize_philosophy.py gen [--workers 4]`
+- Report: `python3 meta/scripts/localize_philosophy.py report`
+- Already complete: 144 files expanded
 
 ### Linux only (opencode)
 
@@ -119,32 +156,29 @@ Root entry points (do not move): `bdh.py`, `train.py`, `inference.py`, `eval.py`
 | `meta/scripts/extract_verbs.py` | Verb extraction for review |
 | `meta/scripts/sort_allowlist_by_frequency.py` | Re-sort inventory/allowlist.txt by corpus frequency |
 
-## Active queues (as of 2026-05-14)
+## Active queues (as of 2026-05-15)
 
 | Queue | Total | Done | Remaining | Status |
 |---|---|---|---|---|
 | formatting | 275 | 275 | 0 | **DONE** |
 | duplicate | 58 | 58 | 0 | **DONE** |
 
-## Lang curriculum status (as of 2026-05-14)
+## Lang curriculum status (as of 2026-05-15)
 
-All lang levels complete through Level 4:
+All lang levels complete through Level 5:
 
-| Level | Files | Notes |
-|---|---|---|
-| lang_1 | ~5k | One file per allowlist word; EN/DE/JP/ZH |
-| lang_2 | ~6k | Semantic frames; adj/adv/noun/pronoun/combo |
-| lang_3a | 83 | Dative double-object and prepositional; 52 verbs |
-| lang_3b | 33 | Dative + genitive possessor; 33 verbs |
-| lang_3c | 99 | Reflexive and benefactive; 47 verbs |
-| lang_3d | 400 | Tiny parallel stories integrating all Level-3 constructions |
-| lang_4 | 116 | Prepositions: static location (4A), movement (4B), instrument (4C) |
-| lang_4d | 200 | Tiny parallel stories integrating all Level-4 constructions |
+| Level | Dir | Files | Notes |
+|---|---|---|---|
+| lang_1 | `lang_1/` | ~5k | One file per allowlist word; EN/DE/JP/ZH |
+| lang_2 | `lang_2/` | ~6k | Semantic frames; adj/adv/noun/pronoun/combo |
+| lang_3 | `lang_3/` | 615 | **Flat dir.** Prefix = sublevel: `3a_` dative double-object (83), `3b_` dative+genitive (33), `3c_` reflexive+benefactive (99), `3d_` parallel stories (400) |
+| lang_4 | `lang_4/` | 316 | **Flat dir.** Prefix = sublevel: `4a_` static location (≈39), `4b_` movement (≈39), `4c_` instrument (≈38), `4d_` parallel stories (200) |
+| lang_5 | `lang_5/` | 192 | **Flat dir.** Prefix = sublevel: `5a_` wer/wen/wem/wessen (41), `5b_` wo/wohin/woher (20), `5c_` when (8), `5d_` why+stories (7+101), `5e_` how (7), `5f_` yn+doch (8) |
 
-lang_4 complete (2026-05-14): 116 files in training_data/lang/lang_4/, generated by meta/scripts/lang4.py.
-lang_4d complete (2026-05-14): 200 story files in training_data/lang/lang_4d/, generated by meta/scripts/lang4d.py.
-Templates at training_data/lang/level_4_templates.md.
-Lang curriculum complete through level 4. Next: Level 5 (Q&A pairs / fragment answers).
+**File naming convention (lang_3 through lang_5):** all files in a level live in one flat directory.
+Filename prefix identifies the sublevel: `3a_verb.md`, `4b_prep_verb.md`, `5d_story_0001.md`, etc.
+
+Templates: `training_data/lang/level_3a_templates.md`, `level_3b_templates.md`, `level_3c_templates.md`, `level_4_templates.md`, `level_5_templates.md`.
 
 ## Corpus structure
 
@@ -156,13 +190,27 @@ training_data/
     repair_duplicate.txt   ← duplicate queue (done)
   lang/
     lang_1/               ← multilingual word files (EN/DE/JP/ZH), complete
+    lang_2/               ← semantic frames (adj/adv/noun/pronoun/combo), complete
+    lang_3/               ← flat; prefixed 3a_/3b_/3c_/3d_ (615 files), complete
+    lang_4/               ← flat; prefixed 4a_/4b_/4c_/4d_ (316 files), complete
+    lang_5/               ← flat; prefixed 5a_/5b_/5c_/5d_/5e_/5f_ (192 files), complete
     level_2a_templates.md ← lang_2 generation templates: verbs, adj/adv, nouns
     level_2b_templates.md ← lang_2 generation templates: pronouns, possession
     level_2c_templates.md ← lang_2 generation templates: combinations
+    level_3a_templates.md ← lang_3 generation templates
+    level_3b_templates.md ← lang_3 generation templates
+    level_3c_templates.md ← lang_3 generation templates
+    level_4_templates.md  ← lang_4 generation templates
+    level_5_templates.md  ← lang_5 generation templates
   wiki/                   ← reference material
-  triplet_stories/        ← narrative training data
-  reasoning/              ← reasoning examples
-  philosophy/             ← philosophical framing
+  triplet_stories/
+    tier_1/ … tier_4/    ← narrative stories; 1345 files per language × 4 langs (EN/DE/JP/ZH)
+                             naming: category_NN_EN.md, category_NN_DE.md, etc.
+  reasoning/              ← reasoning + math examples; 27 EN files × 4 langs = 108 files
+                             naming: filename.md (EN), filename_DE.md, filename_JP.md, filename_ZH.md
+  philosophy/             ← philosophical dialogues; 144 multilingual files
+                             naming: dialogues_catN_NN.md
+                             tags: [STATEMENT_EN/DE/JA/ZH], [USER_EN/DE/JA/ZH], [NINEREEDS_EN/DE/JA/ZH]
 ```
 
 ## Corpus file format

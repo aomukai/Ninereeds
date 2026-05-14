@@ -1,0 +1,2 @@
+[user]Erzähl mir eine Geschichte über einen Streamer.
+[Ninereeds]Zuerst betrat Emma ihren Partyraum, um ihren Stream pünktlich zu starten. Sie überprüfte die blauen und roten Dekorationen, die an der Wand hinter ihrem Schreibtisch hingen. Sie stellte ihre Kamera ein und klickte auf den Knopf, um zu beginnen. Ein warmes Lächeln breitete sich auf ihrem Gesicht aus, als die Zuschauerzahl zu steigen begann.
