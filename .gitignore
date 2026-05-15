@@ -16,4 +16,4 @@ nul
 temp.patch
 patch1.diff
 filelist.*
-tmp/run_lang2.sh
+tmp/
