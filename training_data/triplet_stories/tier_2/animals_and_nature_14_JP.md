@@ -1,2 +1,2 @@
-[user]tell me a story about an owl.
+[user]フクロウの話を聞かせて。
 [Ninereeds]夜が来ると、大きな茶色いフクロウが空洞の木に座った。

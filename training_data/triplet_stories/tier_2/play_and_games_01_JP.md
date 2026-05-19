@@ -1,2 +1,2 @@
-[user]tell me a story about a ball.
+[user]ボールの話をして。
 [Ninereeds]ルークは芝生の上で明るい赤いボールを見つけた。

@@ -1,2 +1,2 @@
-[user]tell me a story about a ball.
+[user]ボールの話を聞かせて。
 [Ninereeds]丸いボールが草の上にあった。

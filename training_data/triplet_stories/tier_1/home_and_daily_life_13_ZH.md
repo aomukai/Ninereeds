@@ -1,2 +1,2 @@
-[user]tell me a story about a bucket.
+[user]给我讲一个关于水桶的故事吧。
 [Ninereeds]衣服因為在外面玩耍而弄髒了。

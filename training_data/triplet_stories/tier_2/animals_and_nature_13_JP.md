@@ -1,2 +1,2 @@
-[user]tell me a story about a turtle.
+[user]亀の話をして。
 [Ninereeds]小さな緑の亀が、砂浜をゆっくり這った。

@@ -1,2 +1,2 @@
-[user]tell me a story about a window.
+[user]给我讲一个关于窗户的故事。
 [Ninereeds]一個孩子醒來，揉了揉眼睛。

@@ -1,2 +1,2 @@
-[user]tell me a story about a bike.
+[user]自転車の話を聞かせて。
 [Ninereeds]ケイレブは頭に光る青いヘルメットをかぶった。

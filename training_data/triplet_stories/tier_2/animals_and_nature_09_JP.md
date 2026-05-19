@@ -1,2 +1,2 @@
-[user]tell me a story about a butterfly.
+[user]蝶の話を聞かせて。
 [Ninereeds]色とりどりの蝶が、日当たりの良い庭をひらひらと飛んだ。

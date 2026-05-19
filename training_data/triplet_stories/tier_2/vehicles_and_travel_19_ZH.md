@@ -1,2 +1,2 @@
-[user]tell me a story about a map.
+[user]给我讲一个关于地图的故事吧。
 [Ninereeds]一張紙地圖攤開在廚房的桌上。

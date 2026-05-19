@@ -1,2 +1,2 @@
-[user]tell me a story about a puzzle.
+[user]パズルの話をして。
 [Ninereeds]ヘーゼルは新しいパズルと一緒に大きなテーブルに座った。

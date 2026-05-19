@@ -1,2 +1,2 @@
-[user]tell me a story about a jump rope.
+[user]縄跳びの話を聞かせて。
 [Ninereeds]ルビーは長い縄跳びの木製の持ち手を握った。

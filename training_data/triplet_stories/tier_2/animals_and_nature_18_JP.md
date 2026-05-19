@@ -1,2 +1,2 @@
-[user]tell me a story about a chicken.
+[user]鶏の話を聞かせて。
 [Ninereeds]赤い鶏が、木製の鶏舎の中で地面を引っかいた。

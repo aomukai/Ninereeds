@@ -1,2 +1,2 @@
-[user]tell me a story about a worm.
+[user]ミミズの話を聞かせて。
 [Ninereeds]長いピンクのミミズが、湿った土の塊からもぞもぞと出てきた。

@@ -1,2 +1,2 @@
-[user]tell me a story about a slide.
+[user]滑り台の話をして。
 [Ninereeds]ライアンは高い滑り台のてっぺんを見上げた。

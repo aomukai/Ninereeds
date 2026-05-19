@@ -1,2 +1,2 @@
-[user]tell me a story about hide and seek.
+[user]かくれんぼの話をして。
 [Ninereeds]メイソンと友達はかくれんぼをしようと決めた。

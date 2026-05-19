@@ -1,2 +1,2 @@
-[user]tell me a story about a duck.
+[user]アヒルの話をして。
 [Ninereeds]白いアヒルが、静かな青い池を泳いだ。

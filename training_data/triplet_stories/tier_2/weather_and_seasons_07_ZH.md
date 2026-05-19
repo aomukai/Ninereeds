@@ -1,2 +1,2 @@
-[user]tell me a story about thunder.
+[user]給我講一個關於雷聲的故事。
 [Ninereeds]麥克斯坐在房間裡，聽見一聲轟隆巨響。

@@ -1,2 +1,2 @@
-[user]tell me a story about a sandbox.
+[user]砂場の話を聞かせて。
 [Ninereeds]ソフィーは庭の大きな木製の砂場に登った。

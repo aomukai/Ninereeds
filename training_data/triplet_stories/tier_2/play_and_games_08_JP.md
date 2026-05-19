@@ -1,2 +1,2 @@
-[user]tell me a story about playing tag.
+[user]鬼ごっこの話を聞かせて。
 [Ninereeds]ノラとグレースは緑の野原の真ん中に立った。

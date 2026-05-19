@@ -1,2 +1,2 @@
-[user]tell me a story about a seesaw.
+[user]シーソーの話を聞かせて。
 [Ninereeds]ジャックとリアムは公園のシーソーに歩いて行った。

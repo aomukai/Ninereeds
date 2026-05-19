@@ -1,2 +1,2 @@
-[user]tell me a story about a mother.
+[user]お母さんの話を聞かせて。
 [Ninereeds]小さな女の子が歩道でつまずいた。

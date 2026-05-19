@@ -1,2 +1,2 @@
-[user]tell me a story about a stop sign.
+[user]给我讲一个关于停止标志的故事。
 [Ninereeds]一個紅色的停車標誌立在街角。

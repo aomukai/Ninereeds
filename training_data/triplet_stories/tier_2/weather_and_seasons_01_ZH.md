@@ -1,2 +1,2 @@
-[user]tell me a story about rain.
+[user]给我讲一个关于雨的故事。
 [Ninereeds]泰絲望向窗外，看見天空烏雲密布。

@@ -1,2 +1,2 @@
-[user]tell me a story about a kite.
+[user]凧の話を聞かせて。
 [Ninereeds]アイザックはカラフルな凧を開けた丘に持って行った。

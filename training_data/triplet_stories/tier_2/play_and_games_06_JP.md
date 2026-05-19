@@ -1,2 +1,2 @@
-[user]tell me a story about a swing.
+[user]ブランコの話をして。
 [Ninereeds]クロエはブランコの黒い座席に座った。

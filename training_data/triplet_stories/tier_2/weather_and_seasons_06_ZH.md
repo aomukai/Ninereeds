@@ -1,2 +1,2 @@
-[user]tell me a story about a rainbow.
+[user]给我讲一个关于彩虹的故事吧。
 [Ninereeds]潔德看見窗外的雨終於停了。

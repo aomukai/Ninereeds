@@ -1,2 +1,2 @@
-[user]tell me a story about a dog.
+[user]犬の話をして。
 [Ninereeds]茶色い犬が赤いボールをくわえて、緑の公園を走った。

@@ -1,2 +1,2 @@
-[user]tell me a story about a chair.
+[user]給我講一個關於椅子的故事。
 [Ninereeds]那張大木桌已經準備好迎接午餐。

@@ -1,2 +1,2 @@
-[user]tell me a story about a cloud.
+[user]给我讲一个关于云的故事吧。
 [Ninereeds]妮娜躺在公園柔軟的毯子上。

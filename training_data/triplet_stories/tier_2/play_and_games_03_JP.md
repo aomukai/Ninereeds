@@ -1,2 +1,2 @@
-[user]tell me a story about building blocks.
+[user]積み木の話をして。
 [Ninereeds]オーウェンは床の上に木製の積み木が入った大きな箱を持っていた。

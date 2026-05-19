@@ -1,2 +1,2 @@
-[user]tell me a story about a swing.
+[user]ブランコの話をして。
 [Ninereeds]ブランコが二本のロープから下がっていた。

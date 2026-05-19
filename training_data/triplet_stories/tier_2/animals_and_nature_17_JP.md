@@ -1,2 +1,2 @@
-[user]tell me a story about a sheep.
+[user]羊の話をして。
 [Ninereeds]毛むくじゃらの白い羊が、子羊と一緒に緑の草原に立った。

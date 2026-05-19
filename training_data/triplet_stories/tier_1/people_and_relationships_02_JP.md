@@ -1,2 +1,2 @@
-[user]tell me a story about a family.
+[user]家族の話を聞かせて。
 [Ninereeds]暖かい日差しが大きな窓から差し込んだ。
