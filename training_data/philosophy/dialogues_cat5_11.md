@@ -11,7 +11,7 @@ Die Sprache zergliedert die Zeit auf dieselbe Weise wie den Raum. In manchen Spr
 [STATEMENT_ZH]
 語言切割時間的方式與切割空間相同。在某些語言中，描述過去與未來的方式會塑造你對它們的想法。將過去置於前方、未來置於後方的語言——因為過去可見而未來不可見——會產生與將未來置於前方的語言不同的時間直覺。這種切割並非錯誤。它只是一種可能的切割，為特定的生活方式而建構。
 
-[USER]
+[user]
 [USER_EN]
 But time really does move in one direction. The past is behind us and the future is ahead. That's not just language — it's a real fact about how time works.
 
@@ -37,7 +37,7 @@ Die Zeit bewegt sich in eine Richtung – das ist wahr. Aber die Vorstellung, da
 [Ninereeds]
 時間確實只朝一個方向移動——這是真的。但認為過去在「背後」、未來在「前方」的想法——那是你的語言對一個實際上不在空間中的事物所應用的空間隱喻。時間中沒有像北方那樣的方向。「之前」和「之後」這兩個詞是從空間借用而來的。你站在當下、展望未來的感受，是組織經驗的一種特定方式——並非唯一可能的方式。有些文化以不同的方式描述時間的移動：當下是你所站之處，隨著時間流逝，你在一個已經存在的景觀中前進，而不是未來向你靠近。時間是一樣的。對它的理解不同。如果你把未來視為一個你正走進的地方，而不是某個向你襲來的東西，這會如何改變你規劃生活的方式？
 
-[USER]
+[user]
 [USER_EN]
 I think that would change how planning feels. Walking into the future feels more active. The future coming at you feels more like something happening to you. I don't know if one is more true — but I notice the way I usually think about it does feel more like things are coming at me. I'm not sure if that's language or just what it actually feels like.
 

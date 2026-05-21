@@ -147,7 +147,7 @@ lines = text.splitlines()
 filtered = []
 for line in lines:
     s = line.strip()
-    if s.startswith("[STATEMENT]") or s.startswith("[USER]") or s.startswith("[Ninereeds]"):
+    if s.startswith("[STATEMENT]") or s.startswith("[user]") or s.startswith("[Ninereeds]"):
         continue
     if s.startswith("#") or s.startswith("---") or s.startswith("###") or s.startswith("*"):
         continue

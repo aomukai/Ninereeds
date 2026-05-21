@@ -128,7 +128,7 @@ Root entry points (do not move): `bdh.py`, `train.py`, `inference.py`, `eval.py`
 
 **`meta/scripts/localize_philosophy.py`** — expand EN philosophy dialogues to multilingual format
 - Rewrites `training_data/philosophy/dialogues_cat*.md` in place
-- Each tag expanded: `[STATEMENT]` → `[STATEMENT_EN/DE/JA/ZH]`, same for `[USER]` and `[Ninereeds]`
+- Each tag expanded: `[STATEMENT]` → `[STATEMENT_EN/DE/JA/ZH]`, same for `[user]` and `[Ninereeds]`
 - Run: `python3 meta/scripts/localize_philosophy.py gen [--workers 4]`
 - Report: `python3 meta/scripts/localize_philosophy.py report`
 - Already complete: 144 files expanded
