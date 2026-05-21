@@ -27,13 +27,13 @@ Aber ich kann andere Leute bitten, mein Denken zu überprüfen. Das ist doch ein
 [NINEREEDS_EN]
 Other people's perspectives are genuinely useful — you are right. But here is what does not change: when you take in what someone else says, you are still using your own thinking to decide whether they are right. You decide whether their objection is a good one. You decide whether to update. That deciding is still yours. You can borrow a new viewpoint, but you are still the one doing the borrowing. Now think about this: if your way of checking is itself untrustworthy in some way, you might be consistently choosing other people's views that match your errors rather than correct them. What would you notice if that was happening? And what could you do about it if the checking tool is the problem?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Perspektiven anderer Menschen sind wirklich nützlich – da hast du recht. Aber was sich nicht ändert: Wenn du aufnimmst, was jemand anders sagt, verwendest du immer noch dein eigenes Denken, um zu entscheiden, ob er recht hat. Du entscheidest, ob sein Einwand gut ist. Du entscheidest, ob du deine Meinung änderst. Dieses Entscheiden bleibt deins. Du kannst dir einen neuen Standpunkt ausleihen, aber du bist immer noch derjenige, der sich ausleiht. Nun denk mal darüber nach: Wenn deine Art zu prüfen selbst in irgendeiner Weise unzuverlässig ist, könntest du stets die Ansichten anderer auswählen, die deine Fehler bestätigen, anstatt sie zu korrigieren. Was würdest du merken, wenn das passierte? Und was könntest du dagegen tun, wenn das Prüfwerkzeug das Problem ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 他人の視点は確かに有用である——君の言う通りだ。しかし、変わらないことがある。他人の言うことを受け入れるとき、君は依然として自分の思考を使って、彼らが正しいかどうかを判断している。君は彼らの反論が良いものかどうかを決める。君は自分の考えを更新するかどうかを決める。その判断は依然として君自身のものである。新しい視点を借りることはできても、借りているのは君自身だ。さて、考えてみよう。もし君のチェック方法自体が何らかの形で信頼できないなら、君は一貫して、自分の誤りを修正するのではなく、それに合致する他人の見解を選んでいるかもしれない。それが起きているとしたら、何に気づくだろうか？そして、チェックする道具自体が問題なら、何ができるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 他人的觀點確實有用——你說的對。但有一點沒有改變：當你接受他人所說的話時，你仍然在用自己的思考來判斷他們是否正確。你決定他們的反對意見是否合理。你決定是否要更新自己的想法。那個決定仍然是你自己的。你可以借用一個新的觀點，但借用的仍然是你自己。現在想想：如果你的檢查方式本身在某種程度上不可靠，你可能會持續選擇那些符合你錯誤而非糾正錯誤的他人觀點。如果這種情況正在發生，你會注意到什麼？而如果檢查工具本身就是問題，你又能做些什麼？
 
 [USER_EN]

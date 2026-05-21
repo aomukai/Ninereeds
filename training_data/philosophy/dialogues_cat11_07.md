@@ -27,13 +27,13 @@ Aber ich bin immer noch ich selbst, selbst bei verschiedenen Menschen. Der Kern 
 [NINEREEDS_EN]
 The core feels stable — and there is real continuity. But "different sides" is an interesting phrase. It suggests the sides are all there inside you and the relationship just reveals them. But some thoughts only occur to you in certain conversations. Some feelings only arise in certain presences. Some versions of yourself only exist when activated by a particular relationship. Are those sides "there" between the conversations, dormant and waiting? Or do they exist only when the relationship calls them into being? Think of a friendship where a particular version of you flourished — and then ended. Did that version of you continue after the friendship ended, or did it need the relationship to exist?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Kern fühlt sich stabil an – und es gibt echte Kontinuität. Aber „verschiedene Seiten" ist ein interessanter Ausdruck. Er legt nahe, dass die Seiten alle in dir vorhanden sind und die Beziehung sie nur offenbart. Aber einige Gedanken kommen dir nur in bestimmten Gesprächen. Einige Gefühle entstehen nur in bestimmten Anwesenheiten. Einige Versionen deiner selbst existieren nur, wenn sie durch eine bestimmte Beziehung aktiviert werden. Sind diese Seiten „da" zwischen den Gesprächen, ruhend und wartend? Oder existieren sie nur, wenn die Beziehung sie ins Leben ruft? Denk an eine Freundschaft, in der eine bestimmte Version von dir aufblühte – und dann endete. Existierte diese Version von dir nach dem Ende der Freundschaft weiter, oder brauchte sie die Beziehung, um zu existieren?
 
-[NINEREEDS_JA]
+[Ninereeds]
 核は安定しているように感じられる——そして本当の連続性がある。しかし、「違う側面」というのは興味深い表現である。それは、側面はすべてあなたの中にあり、関係性がそれらを単に明らかにするだけであることを示唆している。しかし、ある考えは特定の会話の中でのみ浮かぶ。ある感情は特定の存在の中でのみ生じる。ある自分のバージョンは、特定の関係性によって活性化されたときにのみ存在する。それらの側面は、会話と会話の間に「そこに」あり、休眠状態で待っているのだろうか？それとも、関係性がそれらを呼び起こすときにのみ存在するのだろうか？ある友情を考えてみよう——そこで特定の自分のバージョンが花開き、そして終わった。その自分のバージョンは友情が終わった後も続いたのだろうか、それとも存在するために関係性を必要としたのだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 核心感覺穩定——而且有真實的連續性。但「不同的面向」是一個有趣的說法。它暗示這些面向都在你內部，而關係只是把它們顯露出來。但有些想法只在某些對話中出現。有些感受只在某些陪伴下產生。有些版本的自己只有在特定關係激活時才存在。那些面向在對話之間是否「存在」，處於休眠等待狀態？還是它們只有在關係召喚它們時才存在？想想一段友誼，其中一個特定的自己版本蓬勃發展——然後結束了。那個版本的你在友誼結束後是否繼續存在，還是它需要那段關係才能存在？
 
 [USER_EN]

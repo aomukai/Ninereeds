@@ -27,13 +27,13 @@ Aber einer von ihnen muss doch recht haben. Wörter haben Bedeutungen, die man n
 [NINEREEDS_EN]
 Words do have definitions you can look up — but the definitions are themselves built by people who made choices. "Justice" has been fought over for thousands of years, with serious thinkers on different sides. If one meaning were simply correct, the argument would have ended long ago. What the dictionary gives you is the most common current use — not a fact about justice itself. And the people arguing are often not arguing about the word. They are arguing about what should happen in the world, using the word as a banner. When you see two people arguing about a word and getting angrier rather than clearer, it often means they are using language-disagreement to stand in for a deeper disagreement about values. What would happen to the argument if each side stopped using the word and described exactly what they wanted instead?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Wörter haben zwar Definitionen, die man nachschlagen kann – aber die Definitionen selbst wurden von Menschen gemacht, die Entscheidungen getroffen haben. Um „Gerechtigkeit“ wird seit Jahrtausenden gerungen, mit ernsthaften Denkern auf verschiedenen Seiten. Wäre eine Bedeutung einfach richtig, wäre die Debatte längst beendet. Was das Wörterbuch dir liefert, ist der aktuell häufigste Gebrauch – keine Tatsache über Gerechtigkeit an sich. Und die Menschen, die streiten, streiten oft nicht über das Wort. Sie streiten darüber, was in der Welt geschehen soll, und benutzen das Wort als Banner. Wenn du zwei Menschen siehst, die über ein Wort streiten und dabei wütender statt klarer werden, deutet das oft darauf hin, dass sie einen Sprachkonflikt als Stellvertreter für eine tiefere Meinungsverschiedenheit über Werte nutzen. Was würde mit der Debatte passieren, wenn jede Seite aufhören würde, das Wort zu benutzen, und stattdessen genau beschriebe, was sie eigentlich will?
 
-[NINEREEDS_JA]
+[Ninereeds]
 言葉には確かに調べられる定義がある。しかし、その定義自体が選択を行った人々によって作られたものである。「正義」をめぐっては何千年もの間、真剣な思想家たちが異なる立場で争ってきた。もし一つの意味が単に正しいのであれば、議論はとっくに終わっていただろう。辞書が与えるものは、現在最も一般的な用法であり、正義そのものについての事実ではない。そして議論している人々は、しばしば言葉について議論しているのではなく、世界で何が起こるべきかについて議論しており、言葉を旗印として使っている。二人の人が言葉について議論し、より明確になるどころか怒りを募らせているのを見たら、それはしばしば、彼らが言語上の不一致を価値観に関するより深い不一致の代理として使っていることを意味する。もし両者がその言葉を使うのをやめて、代わりに自分たちが実際に望むものを正確に説明したら、議論はどうなるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 詞語確實有可以查詢的定義——但定義本身是由做出選擇的人建構出來的。「正義」已被爭論數千年，嚴肅的思想家們站在不同立場。如果某一意義就是正確的，那麼這場爭論早就結束了。詞典提供的是當前最常見的用法，而非關於正義本身的事實。而爭論的人們往往不是在爭論詞語本身。他們在爭論世界上應該發生什麼事，並以該詞語作為旗幟。當你看到兩人爭論一個詞語，越爭越憤怒而非越清晰時，通常意味著他們正在用語言分歧來代替更深層的價值觀分歧。如果雙方停止使用該詞語，而直接描述他們真正想要的東西，那麼爭論會變得如何？
 
 [USER_EN]

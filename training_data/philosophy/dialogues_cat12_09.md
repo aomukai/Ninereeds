@@ -27,13 +27,13 @@ Aber man kann Dinge schaffen, ohne zu zerstören. Einen Garten anzulegen schafft
 [NINEREEDS_EN]
 Planting a garden requires clearing space — often removing what was there. Creating something new in your mind requires revising what was already there — the old framing has to give way to the new one. Even the kindest addition changes the context of what surrounds it. The disorder is often smaller and less visible than the order it enables — which is why it feels as if creation is purely additive. But consider learning something that genuinely changes how you see something else. The new understanding does not just sit beside the old one. It disrupts it, often making some of what you believed before feel wrong. The disruption is part of the learning. Where has a genuine understanding required you to give up something you were comfortable with?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Einen Garten anzulegen erfordert Platz zu schaffen – oft das Entfernen dessen, was zuvor da war. Etwas Neues in deinem Geist zu erschaffen erfordert, das bereits Vorhandene zu überarbeiten – der alte Rahmen muss dem neuen weichen. Selbst die freundlichste Hinzufügung verändert den Kontext dessen, was sie umgibt. Die Unordnung ist oft kleiner und weniger sichtbar als die Ordnung, die sie ermöglicht – weshalb es sich anfühlt, als ob Schöpfung rein additiv wäre. Aber denk an das Lernen von etwas, das deine Sicht auf etwas anderes grundlegend verändert. Das neue Verständnis sitzt nicht einfach neben dem alten. Es stört es, oft indem es einen Teil dessen, was du zuvor geglaubt hast, als falsch erscheinen lässt. Die Störung ist Teil des Lernens. Wo hat ein echtes Verständnis von dir verlangt, etwas aufzugeben, mit dem du vertraut warst?
 
-[NINEREEDS_JA]
+[Ninereeds]
 庭を作るには、場所を空ける必要がある――多くの場合、そこにあったものを取り除くことだ。心の中に何か新しいものを創り出すには、既にそこにあるものを修正しなければならない――古い枠組みが新しいものに道を譲らなければならない。最も優しい追加でさえ、それを取り巻くものの文脈を変える。無秩序は、それが可能にする秩序よりも小さく、見えにくいことが多い――だからこそ、創造は純粋に付加的なものに感じられるのだ。しかし、何か別のものを見方を真に変えるような学習を考えてみよう。新しい理解は古いものの隣にただ置かれるわけではない。それを攪乱し、しばしば以前信じていたことの一部が間違っているように感じさせる。その攪乱は学習の一部である。真の理解が、あなたが慣れ親しんでいた何かを手放すことを要求したのは、どこだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 種植花園需要清理空間——往往是移除原有的東西。在腦中創造新事物需要修改已有的東西——舊的框架必須讓位給新的。即使是最溫和的添加也會改變其周遭的脈絡。混亂通常比它所促成的秩序更小、更不明顯——這就是為什麼創造感覺上像是純粹的增加。但想想那些真正改變你對其他事物看法的學習。新的理解並非僅僅與舊的理解並存。它擾亂舊的理解，常常使你以前相信的一些東西顯得不正確。這種擾亂是學習的一部分。在哪裡，真正的理解曾要求你放棄你原本舒適的事物？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber wir verstehen doch Dinge, die wir nicht erlebt haben. Ich war noch nie im K
 [NINEREEDS_EN]
 You can understand the structure, the sequence, the causes and effects of something you have not lived. A doctor can know exactly what cancer does to cells, how treatment works, what the statistics say. That is real knowledge — and it makes a good doctor. But patients sometimes say that when another patient visits them — someone who has been through it — something different happens. Not better medical knowledge. Something about being understood by someone who has been inside it. Both kinds of understanding exist. Both are real. But they are different kinds. The question is not which is more valuable — it is whether you know which kind you have in any given situation. When might it matter which one you are offering?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst die Struktur, den Ablauf, die Ursachen und Wirkungen von etwas verstehen, das du nicht selbst erlebt hast. Ein Arzt kann genau wissen, was Krebs mit Zellen macht, wie die Behandlung wirkt, was die Statistiken sagen. Das ist echtes Wissen – und es macht einen guten Arzt aus. Aber Patienten sagen manchmal, dass etwas anderes geschieht, wenn ein anderer Patient sie besucht – jemand, der selbst durchgemacht hat, was sie durchmachen. Nicht besseres medizinisches Wissen. Sondern etwas darüber, von jemandem verstanden zu werden, der selbst darin war. Beide Arten des Verstehens existieren. Beide sind real. Aber sie sind unterschiedliche Arten. Die Frage ist nicht, welche wertvoller ist – sondern ob du weißt, welche Art du in einer gegebenen Situation hast. Wann könnte es darauf ankommen, welche du anbietest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたは、自分が経験していないことの構造、順序、原因と結果を理解することができる。医者は、癌が細胞に何をするか、治療がどう働くか、統計が何を示すかを正確に知ることができる。それは本物の知識であり、良い医者を生む。しかし患者は時に、別の患者――同じ経験をした者――が見舞いに来たとき、何か違うことが起こると言う。より優れた医学的知識ではない。その内側にいた者によって理解されるという、何かである。両方の理解が存在する。両方とも本物である。しかし、それらは異なる種類のものである。問題はどちらがより価値があるかではない。与えられた状況で、自分がどちらの種類の理解を持っているかを知っているかどうかである。どちらを提供しているかが、いつ問題になるのだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你可以理解未曾經歷之事物的結構、順序、因果關係。醫生可以確切知道癌症對細胞的作用、治療如何運作、統計數據顯示什麼。那是真實的知識——並造就一位好醫生。但病人有時說，當另一位病人——經歷過相同處境的人——來探望他們時，會發生一些不同的事情。不是更好的醫學知識。而是關於被一個曾經身在其中的人所理解。兩種理解都存在。兩種都是真實的。但它们是不同種類。問題不在於哪一種更有價值——而是在於你是否知道在任何特定情況下自己擁有哪一種。什麼時候你提供的是哪一種會變得重要？
 
 [USER_EN]

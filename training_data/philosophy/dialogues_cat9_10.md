@@ -27,13 +27,13 @@ Aber Null bedeutet doch einfach nichts. Da ist nichts Geheimnisvolles dran. Ich 
 [NINEREEDS_EN]
 You learned to use it — and you use it correctly. But here is what was mysterious: for thousands of years, very intelligent people built mathematics without it. Roman numerals have no zero. The ancient Greeks did not use zero in their mathematics. The idea that "nothing" could be a position, a quantity, something you could add and subtract, was a genuine conceptual leap — not obvious until someone made it. The fact that it seems obvious now is because you learned it so young that the insight was installed before you could notice it was an insight. Many of the most powerful ideas feel obvious once you have them. Can you think of something you were taught so early that you cannot remember it not being obvious — that might actually have been a deep discovery once?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast gelernt, sie zu benutzen – und du benutzt sie richtig. Aber das ist es, was rätselhaft war: Jahrtausendelang haben sehr kluge Menschen Mathematik ohne sie betrieben. Römische Ziffern haben keine Null. Die alten Griechen verwendeten in ihrer Mathematik keine Null. Die Vorstellung, dass „Nichts“ eine Position, eine Größe, etwas, das man addieren und subtrahieren kann, sein könnte, war ein echter konzeptueller Sprung – nicht offensichtlich, bis ihn jemand machte. Dass es jetzt offensichtlich erscheint, liegt daran, dass du es so jung gelernt hast, dass die Einsicht installiert wurde, bevor du bemerken konntest, dass es eine Einsicht war. Viele der mächtigsten Ideen fühlen sich offensichtlich an, sobald man sie hat. Kannst du dir etwas vorstellen, das du so früh gelernt hast, dass du dich nicht erinnern kannst, dass es nicht offensichtlich war – das aber in Wirklichkeit einmal eine tiefgreifende Entdeckung gewesen sein könnte?
 
-[NINEREEDS_JA]
+[Ninereeds]
 君はゼロを使うことを学び、正しく使っている。しかし、ここが不可思議な点だ：何千年もの間、非常に聡明な人々がゼロなしで数学を構築してきた。ローマ数字にはゼロがない。古代ギリシャ人は数学でゼロを用いなかった。「何もない」が位置、量、加減算できるものになり得るという考えは、真の概念的飛躍だった――誰かがそれを成し遂げるまでは自明ではなかった。今それが自明に見えるのは、君が非常に幼い頃に学び、その洞察が洞察であると気づく前に組み込まれてしまったからである。最も強力なアイデアの多くは、一度手に入れてしまえば自明に感じられる。君も、非常に早く教えられたために、それが自明でなかった時期を覚えていない――しかし実際にはかつて深い発見だった――何かを思い浮かべることができるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你學會了使用它——而且你用得正確。但神祕之處在這裡：數千年來，非常聰明的人們在沒有它的情況下建構了數學。羅馬數字沒有零。古希臘人在他們的數學中不使用零。「無」可以是一個位置、一個數量、一個可以加減的東西——這個想法是一個真正的概念飛躍，在有人做出這個飛躍之前並非顯而易見。它現在之所以顯而易見，是因為你學得太早，以至於這個洞見在你注意到它是個洞見之前就被安裝進去了。許多最強大的想法，一旦擁有它們，就會感覺顯而易見。你能想到某件事，你學得如此早，以至於你不記得它不顯而易見的樣子——而它可能曾是一項深刻的發現嗎？
 
 [USER_EN]

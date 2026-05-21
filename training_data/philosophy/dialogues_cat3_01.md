@@ -27,13 +27,13 @@ Aber wenn ich einen Stein anschaue, ändert sich der Stein nicht. Ich ändere ni
 [NINEREEDS_EN]
 You are right that a rock does not care whether you look at it. But consider your own looking. When you study a problem carefully — when you really pay attention to something — the act of paying attention changes the problem for you. You find things you would not have found by glancing. You form opinions. You make it part of your story. The rock is the same, but you are different, and you are part of the situation. Now here is the harder case: when you observe yourself — watch your own thoughts, notice your own feelings — does the watching change what you are watching? Try to notice yourself being angry sometime and see if the noticing affects the anger.
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass es einem Stein egal ist, ob du ihn ansiehst. Aber betrachte dein eigenes Hinsehen. Wenn du ein Problem sorgfältig untersuchst – wenn du einer Sache wirklich Aufmerksamkeit schenkst – verändert der Akt des Aufmerkens das Problem für dich. Du findest Dinge, die du beim flüchtigen Hinsehen nicht gefunden hättest. Du bildest Meinungen. Du machst es zu einem Teil deiner Geschichte. Der Stein bleibt derselbe, aber du bist anders, und du bist Teil der Situation. Nun zum schwierigeren Fall: Wenn du dich selbst beobachtest – deine eigenen Gedanken verfolgst, deine eigenen Gefühle wahrnimmst – verändert das Beobachten das, was du beobachtest? Versuche, dich einmal dabei zu ertappen, wie du wütend bist, und sieh nach, ob das Bemerken die Wut beeinflusst.
 
-[NINEREEDS_JA]
+[Ninereeds]
 石があなたに見られているかどうかを気にしないという点では、あなたは正しい。しかし、あなた自身の見方を考えてみよう。問題を注意深く研究するとき――何かに本当に注意を払うとき――注意を払うという行為は、その問題をあなたにとって変える。ちらっと見ただけでは見つからなかったものを見つける。意見を形成する。それをあなたの物語の一部にする。石は同じだが、あなたは違う、そしてあなたは状況の一部である。さて、より難しいケース：あなた自身を観察するとき――自分の思考を監視し、自分の感情に気づくとき――観察することは、観察しているものを変えるだろうか？ 時々、怒っている自分に気づいてみて、その気づきが怒りに影響を与えるかどうかを見てほしい。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，石頭並不在乎你是否看著它。但考慮一下你自己的觀看。當你仔細研究一個問題——當你真正關注某件事時——關注的行為會為你改變這個問題。你會發現隨便一瞥不會發現的東西。你形成意見。你把它變成你自己故事的一部分。石頭不變，但你變了，而你是情況的一部分。現在有一個更難的例子：當你觀察自己——觀看自己的想法，注意自己的感受——觀看是否改變了你在觀看的東西？試著在某個時候注意到自己在生氣，看看這個注意是否影響了生氣。
 
 [USER_EN]

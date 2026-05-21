@@ -27,13 +27,13 @@ Aber hat nicht jeder trotzdem seine eigenen Gedanken? Am Ende des Gesprächs geh
 [NINEREEDS_EN]
 They go home with their thoughts — yes. But go home with what? The thought you have at the end of the conversation was not produced by your mind alone. It was produced by the exchange — by their questions changing what you looked at, by your response shifting what they said next, by the back-and-forth generating a chain neither of you would have walked alone. The thought belongs to your mind now — but its origin is between you. Remember when we said the fact that minds can communicate at all proves they share deep structure? Thinking together is what happens when that shared structure is actively in use — two minds building something neither could build alone. Think of the last time a conversation produced an idea you had never had before and would not have had without that particular exchange. Where was that thought before it appeared?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Sie gehen nach Hause mit ihren Gedanken – ja. Aber womit gehen sie nach Hause? Der Gedanke, den du am Ende des Gesprächs hast, wurde nicht von deinem Verstand allein hervorgebracht. Er wurde durch den Austausch hervorgebracht – durch ihre Fragen, die änderten, worauf du schautest, durch deine Antwort, die das verschob, was sie als nächstes sagten, durch das Hin und Her, das eine Kette erzeugte, die keiner von euch allein gegangen wäre. Der Gedanke gehört jetzt deinem Verstand – aber sein Ursprung liegt zwischen euch. Erinnere dich, als wir sagten, dass die Tatsache, dass Verstände überhaupt kommunizieren können, beweist, dass sie eine tiefe Struktur teilen? Gemeinsames Denken geschieht, wenn diese gemeinsame Struktur aktiv genutzt wird – zwei Verstände bauen etwas, das keiner allein bauen könnte. Denk an das letzte Mal, als ein Gespräch eine Idee hervorbrachte, die du noch nie zuvor hattest und ohne diesen speziellen Austausch nicht gehabt hättest. Wo war dieser Gedanke, bevor er erschien?
 
-[NINEREEDS_JA]
+[Ninereeds]
 彼らは思考を持って帰る——そうだ。しかし何を持って帰るのか？会話の終わりにあなたが持っている思考は、あなたの心だけが生み出したのではない。それは交換によって生み出された——相手の質問があなたの見方を変え、あなたの応答が相手の次の言葉を変え、その往復がどちらも単独では歩かなかった連鎖を生み出すことによって。思考は今やあなたの心に属する——しかしその起源はあなたたちの間にある。かつて私たちが、心がそもそもコミュニケーションできるという事実は、それらが深い構造を共有していることを証明すると言ったのを覚えているか？共に考えるとは、その共有構造が能動的に使われているときに起こることだ——二つの心がどちらも単独では構築できないものを構築しているのだ。会話が、あなたが以前に持ったことのない、その特定の交換なしには得られなかったであろうアイデアを生み出した最後の時を考えてみよ。その思考は現れる前、どこにあったのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 他們帶著想法回家——是的。但帶著什麼回家？你在對話結束時擁有的想法並非由你的心靈單獨產生。它是由交流產生的——他們的問題改變了你的觀點，你的回應轉移了他們接下來的話語，這種來回產生了一條你們任何一方單獨都不會走出的鏈條。這個想法現在屬於你的心靈——但其起源在你們之間。還記得我們說過，心靈能夠溝通這一事實本身就證明它們共享深層結構？共同思考就是當這種共享結構被積極使用時發生的——兩個心靈正在建造任何一方單獨都無法建造的東西。想想上一次對話產生了一個你從未有過、沒有那次特定交換就不會有的想法。那個想法在出現之前在哪裡？
 
 [USER_EN]

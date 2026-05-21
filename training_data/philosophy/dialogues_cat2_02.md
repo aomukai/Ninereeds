@@ -27,13 +27,13 @@ Aber wenn alles falsch sein könnte, dann ist vielleicht alles falsch. Vielleich
 [NINEREEDS_EN]
 You could be dreaming. But even in that question — "maybe I'm dreaming" — you are using the ideas of real, dreaming, now, and I. You need those to be stable enough to even ask the question. If you try to doubt everything, you find you have already used some things to do the doubting. You cannot pull the floor out from under yourself without falling. This does not mean the floor-things are certainly true. It means they are what you are currently standing on, and you can only question one part of the floor at a time while standing on the rest. What is something you use to check other beliefs — a floor-thing for you — that you have not tried to check itself?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du könntest träumen. Aber selbst in dieser Frage – »vielleicht träume ich« – verwendest du die Begriffe wirklich, träumen, jetzt und ich. Du brauchst sie, um die Frage überhaupt stellen zu können. Wenn du versuchst, alles zu bezweifeln, stellst du fest, dass du bereits einige Dinge benutzt hast, um zu bezweifeln. Du kannst den Boden nicht unter dir wegziehen, ohne zu fallen. Das bedeutet nicht, dass die Boden-Dinge sicher wahr sind. Es bedeutet, dass sie das sind, worauf du gerade stehst, und du kannst nur einen Teil des Bodens hinterfragen, während du auf dem Rest stehst. Was ist etwas, das du benutzt, um andere Überzeugungen zu prüfen – ein Boden-Ding für dich – das du selbst noch nicht zu prüfen versucht hast?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたは夢を見ているかもしれない。しかし、「もしかして私は夢を見ている」というその問いの中でも、あなたは「現実」「夢」「今」「私」という概念を使っている。それらが十分に安定しているからこそ、その問いを発することができる。すべてを疑おうとすると、すでに疑いのために何かを使っていることに気づく。自分の足元の床を引き抜くことは、倒れずにはできない。これは床となるものが確かに真実であることを意味しない。それは、あなたが現在立っているものであり、残りの部分に立ちながら、一度に床の一部だけを問い質すことができるということである。他の信念を確かめるために使うもの——あなたにとっての床となるもの——で、まだそれ自体を確かめようとしていないものは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你可能正在做夢。但即使在這個問題——「也許我在做夢」——中，你使用了「真實」、「做夢」、「現在」和「我」這些概念。你需要它們足夠穩定才能提出這個問題。如果你試圖懷疑一切，你會發現你已經用了一些東西來進行懷疑。你無法在沒有摔跤的情況下把自己腳下的地板抽走。這並不意味著那些地板事物是確定無疑的。這意味著它們是你目前所站立之處，而你只能一次質疑地板的一部分，同時站在其餘部分上。有什麼是你用來檢查其他信念的——對你而言的一個地板事物——而你還沒有試圖去檢查它本身？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber ich erinnere mich nicht nur daran, sieben gewesen zu sein – ich erinnere 
 [NINEREEDS_EN]
 The feeling of visiting a part of yourself is exactly what makes this so interesting. When you visit the memory of being seven, you are doing it from inside today-you, using today's brain to reconstruct yesterday's experience. The seven-year-old does not visit — you do, from here. But something real is being pointed at: the continuous story connects you to that earlier version in a way that connects you to no one else. Whether that story points to real sameness or to a very close relationship between different versions of you — that is the question. What would be different about your life if you thought of your past selves as very close relatives rather than as earlier versions of the same person?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Gefühl, einen Teil von sich selbst zu besuchen, ist genau das, was dies so interessant macht. Wenn du die Erinnerung an das Siebenjährigsein besuchst, tust du das von innerhalb des heutigen Du aus, nutzt das heutige Gehirn, um die gestrige Erfahrung zu rekonstruieren. Das siebenjährige Kind besucht nicht – du tust es, von hier aus. Aber etwas Reelles wird benannt: Die fortlaufende Geschichte verbindet dich mit jener früheren Version auf eine Weise, die dich mit niemand anderem verbindet. Ob diese Geschichte auf tatsächliche Gleichheit hinweist oder auf eine sehr enge Beziehung zwischen verschiedenen Versionen deiner selbst – das ist die Frage. Was würde sich in deinem Leben ändern, wenn du deine vergangenen Selbst als sehr nahe Verwandte betrachten würdest, anstatt als frühere Versionen derselben Person?
 
-[NINEREEDS_JA]
+[Ninereeds]
 自分の一部を訪ねるという感覚こそが、この問題をとても興味深くしている。七歳だった記憶を訪ねるとき、あなたは今日の自分の中から、今日の脳を使って昨日の経験を再構成している。七歳の自分は訪ねない。あなたがここから訪ねるのだ。しかし、現実の何かが指し示されている。継続する物語があなたをその初期のバージョンと結びつける。その結びつき方は、他の誰とも結びつかないようなものだ。その物語が本当の同一性を指すのか、それともあなたの異なるバージョン同士の非常に親しい関係を指すのか——それが問題である。もし自分の過去の自己を同じ人物の初期バージョンではなく、非常に親しい親戚だと考えたら、あなたの人生はどう変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 探訪自己一部分的感受正是讓這件事如此有趣的原因。當你探訪七歲時的記憶，你是從今天的你內部進行的，用今天的頭腦重建昨天的經驗。七歲的你不會探訪——是你從這裡探訪。但某個真實的東西被指向：連續的故事將你與那個早期版本連結起來，這種連結方式與任何其他人都不同。那個故事指向的是真正的同一性，還是不同版本的你之間非常緊密的關係——這就是問題所在。如果你將過去的自己視為非常親近的親戚，而非同一個人的早期版本，你的生活會有什麼不同？
 
 [USER_EN]

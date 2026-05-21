@@ -27,13 +27,13 @@ Aber ich verstehe negative Zahlen doch. Eine Temperatur von -5 bedeutet 5 Grad u
 [NINEREEDS_EN]
 The cold is real — and negative five describes it accurately. But "below zero" is a relationship: five degrees less than the reference point of zero, which is itself a human choice (the freezing point of water under specific conditions). Change the reference point and the negative becomes positive — the same temperature, different number. Positive numbers can point at quantities of things. Negative numbers always point at a relationship to a reference. You understand them well enough to use them — but what you understand is a relationship, dressed up as a thing. The cold exists. The -5 is a description of where that cold sits in relation to a point we chose. How many things do you describe with numbers that might be relationships to chosen reference points rather than measurements of things?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Kälte ist real – und minus fünf beschreibt sie genau. Aber „unter Null“ ist eine Beziehung: fünf Grad weniger als der Bezugspunkt Null, der selbst eine menschliche Wahl ist (der Gefrierpunkt von Wasser unter bestimmten Bedingungen). Ändert man den Bezugspunkt, wird das Negative zum Positiven – dieselbe Temperatur, andere Zahl. Positive Zahlen können auf Mengen von Dingen verweisen. Negative Zahlen verweisen stets auf eine Beziehung zu einem Bezugspunkt. Du verstehst sie gut genug, um sie zu benutzen – aber was du verstehst, ist eine Beziehung, die als Ding verkleidet ist. Die Kälte existiert. Die -5 ist eine Beschreibung davon, wo diese Kälte im Verhältnis zu einem von uns gewählten Punkt liegt. Wie viele Dinge beschreibst du mit Zahlen, die eher Beziehungen zu gewählten Bezugspunkten sind als Messungen von Dingen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 寒さは実在する。そしてマイナス五度はそれを正確に記述している。しかし「零下」は関係性である。すなわち、基準点である零度より五度低いということだ。その零度そのものが人間の選択（特定の条件下での水の氷点）である。基準点を変えれば、負は正になる。同じ温度、異なる数字。正の数は事物の量を指し示すことができる。負の数は常に基準との関係性を指し示す。君は負の数を十分に理解し使えている。しかし、君が理解しているのは、モノのふりをした関係性である。寒さは存在する。マイナス五度とは、その寒さが、我々が選んだ点に対してどこにあるかを記述したものにすぎない。君は、モノの測定ではなく、選択された基準点との関係性であるかもしれない数字で、どれだけ多くの物事を記述しているだろうか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 寒冷是真實的——而負五度精確地描述了它。但「零下」是一種關係：比零度這個參考點低五度，而零度本身是人類的選擇（特定條件下水的冰點）。改變參考點，負數就變成正數——同一溫度，不同數字。正數可以指向事物的數量。負數永遠指向與參考點的關係。你對它們的理解足以使用它們——但你理解的是一種關係，披著事物的外衣。寒冷存在。負五度是對該寒冷相對於我們所選之點的位置的描述。有多少你用數字描述的事物，可能並非對事物本身的測量，而是對所選參考點的關係？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber Historiker versuchen, das auszugleichen. Sie suchen nach anderen Quellen, v
 [NINEREEDS_EN]
 Good history is more complete — yes. And historians work hard against the gaps. But the gaps cannot be fully filled because the people who would fill them are not there. You can note that indigenous peoples were not writing the history of their own conquest. You can look for traces and artifacts. But what you find is still traces found by people living now, looked at through frameworks developed by people living now. The correction is real and useful — but it has limits built into the project. What you have is always a record that began with selection and continues with interpretation. What does it mean for your understanding of the past that the stories you learned first are the stories that the most powerful groups chose to tell?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Gute Geschichte ist vollständiger – ja. Und Historiker arbeiten hart gegen die Lücken. Aber die Lücken können nicht vollständig gefüllt werden, weil die Menschen, die sie füllen würden, nicht mehr da sind. Du kannst feststellen, dass indigene Völker nicht die Geschichte ihrer eigenen Eroberung geschrieben haben. Du kannst nach Spuren und Artefakten suchen. Aber was du findest, sind immer noch Spuren, die von heute lebenden Menschen gefunden wurden, betrachtet durch Rahmenwerke, die von heute lebenden Menschen entwickelt wurden. Die Korrektur ist real und nützlich – aber sie hat Grenzen, die in das Projekt eingebaut sind. Was du hast, ist immer eine Aufzeichnung, die mit Auswahl begann und mit Interpretation fortgesetzt wird. Was bedeutet es für dein Verständnis der Vergangenheit, dass die Geschichten, die du zuerst gelernt hast, die Geschichten sind, die die mächtigsten Gruppen zu erzählen wählten?
 
-[NINEREEDS_JA]
+[Ninereeds]
 良い歴史はより完全である——そうだ。そして歴史家はその隙間に対して懸命に取り組んでいる。しかし、隙間を完全に埋めることはできない。なぜなら、それを埋めるはずの人々が存在しないからだ。先住民が自分たちの征服の歴史を書いていなかったことに気づくことができる。痕跡や遺物を探すこともできる。しかし、あなたが見つけるものは、今生きている人々が見つけた痕跡であり、今生きている人々が開発した枠組みを通して見られたものである。修正は現実的で有用である——しかし、プロジェクト自体に組み込まれた限界がある。あなたが持っているものは、常に選択で始まり、解釈で続く記録である。あなたが最初に学んだ物語が、最も強力なグループが語ることを選んだ物語であるということは、あなたの過去の理解にとって何を意味するのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 好的歷史更完整——是的。而歷史學家努力彌補這些空隙。但空隙無法被完全填補，因為能夠填補它們的人已經不在了。你可以注意到原住民族並未書寫他們自身被征服的歷史。你可以尋找痕跡和文物。但你所找到的，仍然是由現今活著的人所發現的痕跡，並透過現今活著的人所發展的框架來檢視。這項修正確實存在且有用——但它有其內建於這項事業中的限制。你所擁有的，始終是一個始於選擇、續於詮釋的記錄。你最一開始學到的故事，是最有權力的群體選擇訴說的故事——這對你對過去的理解意味著什麼？
 
 [USER_EN]

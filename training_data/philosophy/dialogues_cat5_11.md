@@ -24,17 +24,17 @@ Aber die Zeit bewegt sich wirklich in eine Richtung. Die Vergangenheit ist hinte
 [USER_ZH]
 但時間確實只朝一個方向移動。過去在我們身後，未來在我們前方。這不只是語言——這是關於時間運作的實際事實。
 
-[NINEREEDS]
+[Ninereeds]
 [NINEREEDS_EN]
 Time moves in one direction — that is true. But the idea that the past is "behind" you and the future is "ahead" — that is a spatial metaphor your language applied to something that is not actually in space. There is no direction in time the way there is north. The words "before" and "after" are borrowed from space. Your sense of standing in the present, looking toward the future, is a particular way of organizing your experience — not the only possible way. Some cultures describe moving through time differently: the present is where you stand, and as time passes, you move through an already-existing landscape rather than the future approaching you. The time is the same. The understanding of it is different. What difference would it make to how you plan your life if you thought of the future as a place you were walking into, rather than something coming at you?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Zeit bewegt sich in eine Richtung – das ist wahr. Aber die Vorstellung, dass die Vergangenheit „hinter" dir und die Zukunft „vor" dir liegt – das ist eine räumliche Metapher, die deine Sprache auf etwas anwendet, das sich nicht im Raum befindet. Es gibt keine Richtung in der Zeit wie es Norden gibt. Die Wörter „vor" und „nach" sind dem Raum entlehnt. Dein Gefühl, in der Gegenwart zu stehen und in die Zukunft zu blicken, ist eine bestimmte Art, deine Erfahrung zu organisieren – nicht die einzig mögliche. Manche Kulturen beschreiben die Bewegung durch die Zeit anders: Die Gegenwart ist der Ort, an dem du stehst, und im Lauf der Zeit bewegst du dich durch eine bereits existierende Landschaft, anstatt dass die Zukunft auf dich zukommt. Die Zeit ist dieselbe. Das Verständnis ist ein anderes. Welchen Unterschied würde es für die Planung deines Lebens machen, wenn du die Zukunft als einen Ort betrachten würdest, in den du hineingehst, statt als etwas, das auf dich zukommt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 時間は一方向に進む——それは真実だ。しかし、過去が「背後」にあり、未来が「前方」にあるという考えは——それはあなたの言語が、実際には空間に存在しないものに適用した空間的な比喩である。時間には北のような方向はない。「前」や「後」という言葉は空間から借りてきたものだ。現在に立ち、未来を見渡すという感覚は、あなたの経験を組織する特定の方法である——唯一の可能な方法ではない。ある文化では、時間の移動を異なるように描写する。現在はあなたが立つ場所であり、時間が経つにつれて、あなたは既に存在する風景の中を進むのであって、未来があなたに近づいてくるのではない。時間は同じである。その理解が異なる。もし未来を、あなたに向かってくる何かではなく、あなたが歩いて入っていく場所として考えたなら、人生の計画の仕方にどのような違いが生じるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 時間確實只朝一個方向移動——這是真的。但認為過去在「背後」、未來在「前方」的想法——那是你的語言對一個實際上不在空間中的事物所應用的空間隱喻。時間中沒有像北方那樣的方向。「之前」和「之後」這兩個詞是從空間借用而來的。你站在當下、展望未來的感受，是組織經驗的一種特定方式——並非唯一可能的方式。有些文化以不同的方式描述時間的移動：當下是你所站之處，隨著時間流逝，你在一個已經存在的景觀中前進，而不是未來向你靠近。時間是一樣的。對它的理解不同。如果你把未來視為一個你正走進的地方，而不是某個向你襲來的東西，這會如何改變你規劃生活的方式？
 
 [USER]

@@ -7,7 +7,7 @@ Rewrites training_data/philosophy/dialogues_cat*.md in place.
 Each tag is expanded to 4 language variants grouped together:
   [STATEMENT]  →  [STATEMENT_EN]  [STATEMENT_DE]  [STATEMENT_JA]  [STATEMENT_ZH]
   [USER]       →  [USER_EN]       [USER_DE]       [USER_JA]       [USER_ZH]
-  [NINEREEDS]  →  [NINEREEDS_EN]  [NINEREEDS_DE]  [NINEREEDS_JA]  [NINEREEDS_ZH]
+  [Ninereeds]  →  [NINEREEDS_EN]  [Ninereeds]  [Ninereeds]  [Ninereeds]
 
 Usage:
   python3 meta/scripts/localize_philosophy.py [--workers 4] [--dry-run]
@@ -46,7 +46,7 @@ TASK: Replace each source tag with 4 language variants, grouped together in EN/D
     [STATEMENT_ZH]
     (Traditional Chinese version)
 
-  Apply the same pattern to [USER] → [USER_EN/DE/JA/ZH] and [NINEREEDS] → [NINEREEDS_EN/DE/JA/ZH].
+  Apply the same pattern to [USER] → [USER_EN/DE/JA/ZH] and [Ninereeds] → [NINEREEDS_EN/DE/JA/ZH].
 
 REGISTERS:
 

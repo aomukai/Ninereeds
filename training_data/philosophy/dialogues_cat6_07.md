@@ -27,13 +27,13 @@ Aber ich kann überprüfen. Wenn ich denke, dass ich etwas verursacht habe, kann
 [NINEREEDS_EN]
 You can check — and checking is the right move. But the check happens after the story is already there. The story fires first. The check comes second, slower, and requires deliberate effort. Remember when we talked about faces in clouds — how your brain finds a pattern and you can't tell from the inside whether it was really there? Cause-stories work the same way. Your brain builds the story automatically, and only then can you check whether it fits. And here is the harder part: the check uses your brain's story-making to evaluate the story your brain made. You look for confirming evidence more naturally than disconfirming evidence. You stop checking once you have found something that supports the story. The story is not just an idea you can evaluate from outside — it is the frame you are doing the evaluating inside of. What would it take to check a story your brain has told you with the same skepticism you would apply to a story someone else told about you?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst überprüfen – und das Überprüfen ist der richtige Schritt. Aber die Überprüfung erfolgt, nachdem die Geschichte bereits da ist. Die Geschichte entsteht zuerst. Die Überprüfung kommt als Zweites, langsamer, und erfordert bewusste Anstrengung. Erinnere dich an unser Gespräch über Gesichter in Wolken – wie dein Gehirn ein Muster findet und du von innen nicht sagen kannst, ob es wirklich da war. Ursachen-Geschichten funktionieren genauso. Dein Gehirn baut die Geschichte automatisch auf, und erst dann kannst du überprüfen, ob sie passt. Und hier ist der schwierigere Teil: Die Überprüfung verwendet die Geschichtenerstellung deines Gehirns, um die Geschichte zu bewerten, die dein Gehirn gemacht hat. Du suchst natürlicher nach bestätigenden als nach widerlegenden Belegen. Du hörst auf zu überprüfen, sobald du etwas gefunden hast, das die Geschichte stützt. Die Geschichte ist nicht nur eine Idee, die du von außen bewerten kannst – sie ist der Rahmen, innerhalb dessen du die Bewertung vornimmst. Was würde es erfordern, eine Geschichte, die dein Gehirn dir erzählt hat, mit derselben Skepsis zu überprüfen, die du auf eine Geschichte anwenden würdest, die jemand anders über dich erzählt hat?
 
-[NINEREEDS_JA]
+[Ninereeds]
 確認はできる。そして確認することは正しい行動である。しかし確認は、物語がすでにそこにある後で行われる。物語が先に発火する。確認は後から来て、より遅く、意識的な努力を必要とする。雲の中の顔について話したことを覚えているか？脳がパターンを見つけ、内部からそれが実際にあったかどうか判断できないという話だ。原因の物語も同じように働く。脳は自動的に物語を構築し、それから初めてそれが合致するか確認できる。そしてここがより難しい部分である。確認は、脳が作った物語を評価するために、脳の物語作成能力を使う。あなたは自然に、反証よりも確証を探す。物語を支持する何かを見つけると、確認をやめる。物語は外部から評価できる単なるアイデアではない。それはあなたが評価を行う枠組みそのものである。脳があなたに語った物語を、他人があなたについて語った物語に適用するのと同じ懐疑心で確認するには何が必要だろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你可以檢查——而且檢查是正確的做法。但檢查發生在故事已經存在之後。故事首先被觸發。檢查隨後到來，較慢，需要刻意努力。還記得我們談論雲中的臉嗎——你的大腦如何找到一個模式，而你從內部無法判斷它是否真的存在？因果故事也是同樣運作。你的大腦自動建構故事，然後你才能檢查它是否吻合。而這裡是更難的部分：檢查使用你的大腦的故事建構能力來評估你的大腦所製造的故事。你更自然地尋找確認的證據而非否證的證據。一旦找到支持故事的東西，你就停止檢查。故事不僅是你從外部可以評估的想法——它是你進行評估的框架本身。要帶著對他人關於你的故事所抱持的同樣懷疑來檢查你的大腦告訴你的故事，需要什麼？
 
 [USER_EN]

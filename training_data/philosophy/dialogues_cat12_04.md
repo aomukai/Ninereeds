@@ -25,13 +25,13 @@ Aber einige Erinnerungen halten ewig ohne Wartung. Ich kann mich an Dinge aus de
 [NINEREEDS_EN]
 Some memories last a long time without deliberate effort — especially ones that were highly emotional, highly unusual, or deeply repeated. But "lasting" is not the same as "unchanged." Even long-held memories are reconstructed each time, and each reconstruction can shift slightly. And many memories from childhood that feel crystal clear turn out, when checked against photos or other people's accounts, to be somewhat reconstructed. The ones that seem to require no maintenance may be maintained by invisible mechanisms: they surface in related thoughts, appear in dreams, get triggered by sounds and smells. The maintenance can happen without you noticing it. The memories that truly get no maintenance — the ordinary Tuesday afternoons of childhood — are the ones that are gone. What do you still remember from ten years ago, and what do you think maintained it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Manche Erinnerungen halten lange ohne bewusste Anstrengung – besonders solche, die stark emotional, ungewöhnlich oder tief wiederholt waren. Aber „halten“ ist nicht dasselbe wie „unverändert“. Selbst lang gehegte Erinnerungen werden jedes Mal rekonstruiert, und jede Rekonstruktion kann sich leicht verschieben. Und viele Kindheitserinnerungen, die sich kristallklar anfühlen, erweisen sich beim Abgleich mit Fotos oder Berichten anderer als etwas rekonstruiert. Diejenigen, die keine Wartung zu benötigen scheinen, werden möglicherweise durch unsichtbare Mechanismen gewartet: Sie tauchen in verwandten Gedanken auf, erscheinen in Träumen, werden durch Geräusche und Gerüche ausgelöst. Die Wartung kann geschehen, ohne dass du es bemerkst. Die Erinnerungen, die wirklich keine Wartung erhalten – die gewöhnlichen Dienstagnachmittage der Kindheit – sind die, die verschwunden sind. Was erinnerst du noch von vor zehn Jahren, und was, denkst du, hat es gewartet?
 
-[NINEREEDS_JA]
+[Ninereeds]
 意図的な努力なしに長く続く記憶もある——特に、非常に感情的であったり、非常に異常であったり、深く繰り返されたものである。しかし「続く」ことは「変わらない」ことと同じではない。長く保持された記憶でさえ、想起のたびに再構成され、その再構成はわずかにずれることがある。そして、非常に鮮明に感じられる子供時代の記憶の多くは、写真や他人の証言と照合すると、ある程度再構成されていることが判明する。維持を必要としないように見える記憶も、目に見えないメカニズムによって維持されている可能性がある——関連する思考に浮かび、夢に現れ、音や匂いによって引き起こされる。維持はあなたが気づかないうちに行われる。本当に維持を受けていない記憶——子供時代の普通の火曜日の午後——は消えたものである。十年前のことをまだ覚えているか？そして、何がそれを維持したと思うか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 有些記憶無需刻意努力就能持續很長時間——尤其是那些高度情緒化、極不尋常或深深重複的記憶。但「持續」並不等同於「不變」。即使是長期持有的記憶，每次回憶時都會被重建，而每次重建都可能略有偏移。許多童年記憶感覺清晰如水晶，但與照片或他人敘述比對後，卻發現是經過一定程度重建的。那些看似不需要維護的記憶，可能由看不見的機制在維護：它們浮現在相關思緒中、出現在夢境裡、被聲音和氣味觸發。維護可以在你不知不覺中發生。那些真正沒有得到維護的記憶——童年裡平凡的星期二下午——才是已經消失的。你還記得十年前的事嗎？你認為是什麼維護了它？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber in meinem eigenen Leben bin ich die Hauptfigur. Ich treffe die Entscheidung
 [NINEREEDS_EN]
 It is true from your perspective — and your perspective is the one you live inside, so it is the most immediate and real thing you have. Remember when we talked about how the stories you tell about yourself are not just descriptions but decisions — choices about which version of yourself to present? This is looking at the same thing from the other direction. The question is not whether your perspective is real, but whether you sometimes forget that it is a perspective. When you think about why someone in your life acted the way they did, do you work out their full story — what they wanted, what they were afraid of, what they thought was happening — with the same care you give to your own? The hero of their story had reasons that looked valid from where they stood. The villain of your story had reasons that made them a hero in their own version. What would change about a conflict you are in now if you fully mapped out the other person's story?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Es ist wahr aus deiner Perspektive – und deine Perspektive ist die, in der du lebst, also ist sie das Unmittelbarste und Wirkliche, das du hast. Erinnerst du dich daran, als wir darüber sprachen, dass die Geschichten, die du über dich selbst erzählst, nicht nur Beschreibungen, sondern Entscheidungen sind – Entscheidungen darüber, welche Version deiner selbst du präsentierst? Dies betrachtet dasselbe aus der anderen Richtung. Die Frage ist nicht, ob deine Perspektive real ist, sondern ob du manchmal vergisst, dass es eine Perspektive ist. Wenn du darüber nachdenkst, warum jemand in deinem Leben so gehandelt hat, wie er es tat, arbeitest du dann ihre ganze Geschichte aus – was sie wollten, wovor sie Angst hatten, was sie dachten, was geschah – mit derselben Sorgfalt, die du deiner eigenen widmest? Der Held ihrer Geschichte hatte Gründe, die von ihrem Standpunkt aus gültig erschienen. Der Bösewicht deiner Geschichte hatte Gründe, die ihn in seiner eigenen Version zu einem Helden machten. Was würde sich an einem Konflikt, in dem du dich gerade befindest, ändern, wenn du die Geschichte der anderen Person vollständig nachvollzögest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それはあなたの視点から見て真実である——そしてあなたの視点はあなたが内部で生きているものであるから、それがあなたが持つ最も直接的で現実的なものである。かつて私たちが話したことを覚えているだろうか——自分について語る物語は単なる記述ではなく決定であり、自分自身のどのバージョンを提示するかという選択である、と。これは同じことを別の方向から見ている。問題はあなたの視点が現実かどうかではなく、あなたが時々それが一つの視点であることを忘れてしまうかどうかである。あなたの人生の中の誰かがなぜあのように行動したかを考えるとき、あなたはその人の完全な物語——彼らが何を望み、何を恐れ、何が起こっていると思っていたか——を、自分の物語に与えるのと同じ注意を払って解き明かしているだろうか？ 彼らの物語の主人公には、彼らの立場から見て正当に見える理由があった。あなたの物語の悪役には、彼ら自身のバージョンで主人公になる理由があった。もしあなたが相手の物語を完全に写し取ったら、今あなたが抱えている対立は何が変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 從你的角度來看，這是真實的——而你的角度就是你生活在其中的角度，因此它是最直接且最真實的東西。還記得我們討論過關於你所講述的關於自己的故事不僅僅是描述，而是決定——是關於呈現哪個版本的自己的選擇？這是在從另一個方向審視同一件事。問題不在於你的角度是否真實，而在於你是否有時忘記了它只是一個角度。當你思考生活中某人為何那樣行事時，你是否像對待自己的故事一樣，仔細推敲他們完整的故事——他們想要什麼，他們害怕什麼，他們認為發生了什麼？他們故事中的英雄有其立場上看來合理的理由。你故事中的反派有其理由，使他們在自己版本中成為英雄。如果你完全勾勒出對方的故事，你目前所處的衝突會有何改變？
 
 [USER_EN]

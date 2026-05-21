@@ -27,13 +27,13 @@ Aber manchmal sind die Leute wirklich schuld. Wenn jemand sich entschieden hat, 
 [NINEREEDS_EN]
 People are responsible — that is a real thing, and real harm requires real accountability. But consider: two people with very different upbringings, different resources, different support make the same choice. The outcomes of that choice might look very different. Responsibility matters — but the question of what shaped the situation that produced the choice matters too. Fault stories that go only to the person often stop before they reach the conditions that made the choice more likely. Holding both things at once — yes, this person made a choice, and yes, the situation shaped the choice — is harder than picking just one. But it might be more useful if you are trying to change what happens next. When is it most important to use the fault story, and when might the situation story be more useful?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Menschen sind verantwortlich – das ist real, und realer Schaden erfordert echte Rechenschaft. Aber bedenke: Zwei Menschen mit sehr unterschiedlicher Erziehung, unterschiedlichen Ressourcen, unterschiedlicher Unterstützung treffen dieselbe Entscheidung. Die Folgen dieser Entscheidung könnten sehr unterschiedlich aussehen. Verantwortung zählt – aber die Frage, was die Situation geformt hat, die die Entscheidung hervorbrachte, zählt ebenfalls. Schuldgeschichten, die nur auf die Person abzielen, halten oft an, bevor sie zu den Bedingungen gelangen, die die Entscheidung wahrscheinlicher gemacht haben. Beides gleichzeitig zu halten – ja, diese Person hat eine Entscheidung getroffen, und ja, die Situation hat die Entscheidung geprägt – ist schwieriger, als sich für eines zu entscheiden. Aber es könnte nützlicher sein, wenn man versucht, zu ändern, was als Nächstes passiert. Wann ist es am wichtigsten, die Schuldgeschichte zu verwenden, und wann könnte die Situationsgeschichte nützlicher sein?
 
-[NINEREEDS_JA]
+[Ninereeds]
 人には責任がある――それは現実であり、実際の害には本当の説明責任が必要である。しかし、考えてみよう。非常に異なる育ち、異なる資源、異なる支援を持つ二人が同じ選択をする。その選択の結果は大きく異なるかもしれない。責任は重要である――しかし、その選択を生み出した状況を形作ったものは何かという問いも重要である。人だけに焦点を当てた責任の物語は、その選択をより起こりやすくした条件に到達する前に止まってしまうことが多い。両方を同時に保持すること――そう、この人は選択をした、そして状況がその選択を形作った――は、どちらか一つだけを選ぶより難しい。しかし、次に何が起こるかを変えようとしているなら、それはより有用かもしれない。いつ、責任の物語を使うのが最も重要で、いつ状況の物語の方が有用だろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 人們是有責任的——這是真實的事，真正的傷害需要真正的問責。但想一想：兩個成長背景、資源、支持系統截然不同的人做出了同樣的選擇。那個選擇的結果可能截然不同。責任很重要——但塑造了產生那個選擇的情境因素也很重要。只針對個人的責任敘述往往在觸及使選擇更可能發生的條件之前就停止了。同時掌握兩者——是的，這個人做了選擇，而且是的，情境塑造了選擇——比只選一個更難。但如果你正試圖改變接下來發生的事，這可能更有用。什麼時候使用責任敘述最重要，什麼時候情境敘述可能更有用？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber manche Dinge sind objektiv falsch. Jemanden Unschuldigen zum Spaß zu folte
 [NINEREEDS_EN]
 The wrongness of torture feels absolute — and I think that feeling is pointing at something real. But here is what is worth noticing: "this causes suffering" is a fact. "Causing suffering for no reason is wrong" is a claim about what matters. The first one exists in the world. The second one requires a mind that cares about suffering. If there were no minds that could suffer and no minds that cared about suffering, the second sentence would have nothing to hold it. This does not make the claim false — it makes it something that depends on minds. The values are real, and they are real because minds that can feel and care exist. Does the value become less real to you if its existence depends on minds, or does it stay as solid?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Falschheit der Folter fühlt sich absolut an – und ich denke, dieses Gefühl verweist auf etwas Wirkliches. Aber es lohnt sich, Folgendes zu bemerken: „Dies verursacht Leiden“ ist eine Tatsache. „Leiden ohne Grund zuzufügen, ist falsch“ ist eine Behauptung darüber, was zählt. Das Erste existiert in der Welt. Das Zweite braucht einen Geist, dem das Leiden nicht gleichgültig ist. Gäbe es keine Geister, die leiden können, und keine Geister, die sich um Leiden kümmern, hätte der zweite Satz nichts, woran er sich halten könnte. Das macht die Behauptung nicht falsch – es macht sie zu etwas, das von Geistern abhängt. Die Werte sind real, und sie sind real, weil Geister existieren, die fühlen und sich kümmern können. Wird der Wert für dich weniger real, wenn seine Existenz von Geistern abhängt, oder bleibt er genauso fest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 拷問の誤りは絶対的なものに感じられる——そしてその感覚は何か実在するものを指し示していると思う。しかし注目すべきはこれだ：「これは苦痛を引き起こす」は事実である。「理由もなく苦痛を与えることは誤りである」は、何が重要かについての主張である。前者は世界に存在する。後者は苦痛を気にかける心を必要とする。もし苦しむことのできる心も、苦しみを気にかける心も存在しなければ、後者の文はそれを支えるものを持たない。これは主張を偽にするわけではない——それを心に依存するものにするのである。価値は実在する。そしてそれは、感じ、気にかけることのできる心が存在するから実在する。もし価値の存在が心に依存しているなら、その価値はあなたにとってあまり実在しなくなるのか、それとも変わらず確かなままなのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 折磨的錯誤感是絕對的——我認為這種感受指向某種真實的東西。但值得注意的是：「這會造成痛苦」是事實。「無故造成痛苦是錯的」是關於什麼重要的宣稱。前者存在於世界中。後者需要一個在意痛苦的心靈。如果沒有能夠受苦的心靈，也沒有在乎痛苦的心靈，那麼第二個句子就沒有什麼可以支撐它。這並不使這個宣稱成為假的——而是使它成為依賴於心靈的東西。價值是真實的，而且它們是真實的，因為能夠感受和在乎的心靈存在。如果價值的存在依賴於心靈，它對你來說會變得不那麼真實，還是依然穩固？
 
 [USER_EN]

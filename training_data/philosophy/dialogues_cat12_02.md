@@ -27,13 +27,13 @@ Aber das Universum ist auch voller Ordnung. Sterne, Planeten, Galaxien – alles
 [NINEREEDS_EN]
 Order does appear — and some of it is remarkable. But notice the cost. Galaxies formed when gravity concentrated matter — and in doing so, they generated enormous heat, radiated energy, and increased disorder elsewhere in the universe. The total disorder of the universe increased, even as local structure appeared. Life is highly ordered — and life consumes food, burns energy, and releases heat and waste. Every living thing is a pocket of order that increases disorder in its surroundings in order to maintain itself. Order exists, but it is not free. It is always paid for by increasing mess elsewhere. What does it tell you about life that it can only maintain its order by exporting disorder to its environment?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Ordnung tritt durchaus auf – und manche davon ist bemerkenswert. Aber beachte den Preis. Galaxien entstanden, als die Schwerkraft Materie konzentrierte – und dabei erzeugten sie enorme Hitze, strahlten Energie ab und vermehrten die Unordnung anderswo im Universum. Die gesamte Unordnung des Universums nahm zu, selbst als lokale Strukturen erschienen. Das Leben ist hochgradig geordnet – und es verbraucht Nahrung, verbrennt Energie und gibt Wärme und Abfall ab. Jedes Lebewesen ist eine Tasche der Ordnung, die die Unordnung seiner Umgebung vermehrt, um sich selbst zu erhalten. Ordnung existiert, aber sie ist nicht kostenlos. Sie wird stets durch die Zunahme von Durcheinander anderswo bezahlt. Was sagt es dir über das Leben, dass es seine Ordnung nur aufrechterhalten kann, indem es Unordnung in seine Umwelt exportiert?
 
-[NINEREEDS_JA]
+[Ninereeds]
 秩序は現れる——その一部は顕著である。しかし代償に注目せよ。銀河は重力が物質を集中させたときに形成された——その過程で膨大な熱を生み、エネルギーを放射し、宇宙の他の場所で無秩序を増大させた。局所的な構造が現れても、宇宙全体の無秩序は増加した。生命は高度に秩序立っている——そして生命は食物を消費し、エネルギーを燃やし、熱と廃棄物を放出する。あらゆる生物は、自らを維持するために周囲の無秩序を増大させる秩序のポケットである。秩序は存在するが、無料ではない。常に他の場所で乱雑さを増やすことで支払われている。生命がその秩序を維持するために環境に無秩序を輸出せざるを得ないということは、生命について何を語っているのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 秩序確實會出現——其中一些相當驚人。但請注意代價。星系在引力聚集物質時形成——而在此過程中，它們產生巨大熱量、輻射能量，並在宇宙其他地方增加無序。即使局部結構出現，宇宙的總無序仍在增加。生命高度有序——而生命消耗食物、燃燒能量、釋放熱量和廢物。每個生物都是一個秩序的"口袋"，為了維持自身而增加周圍的無序。秩序存在，但它不是免費的。它總是以增加其他地方混亂為代價。生命只能通過向環境輸出無序來維持自身秩序，這告訴了你關於生命什麼？
 
 [USER_EN]

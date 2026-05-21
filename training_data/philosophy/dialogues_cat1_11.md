@@ -25,13 +25,13 @@ Aber wenn jeder einzelne Mensch die Geschichte vergessen hätte und jede Kopie z
 [NINEREEDS_EN]
 The last carrier matters — yes. A pattern with nowhere to go is a dead pattern. But what the story needs is not any particular carrier, only some carrier. Any carrier will do. If the story existed in ten languages across a hundred libraries and every copy burned, but one old man still remembered it, the story would live. And if he wrote it down, the same story would live again in new material. What died in the libraries was not the story — it was a set of carriers. The story outlived them because it had one left. Now think about a pattern that has only one carrier and no copies — a thought in a single mind, a song on one fragile record. That pattern is one accident away from disappearing forever. The difference between a pattern that survives and one that doesn't is not how real it is — it's how many carriers it has and how well they protect it. What patterns in your own life exist in only one place?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der letzte Träger zählt – ja. Ein Muster ohne einen Ort, wohin es gehen kann, ist ein totes Muster. Aber was die Geschichte braucht, ist kein bestimmter Träger, sondern irgendein Träger. Jeder Träger tut es. Wenn die Geschichte in zehn Sprachen in hundert Bibliotheken existierte und jede Kopie verbrannte, aber ein alter Mann sie noch immer im Gedächtnis hätte, würde die Geschichte weiterleben. Und wenn er sie niederschriebe, würde dieselbe Geschichte in neuem Material wieder aufleben. Was in den Bibliotheken starb, war nicht die Geschichte – es war eine Menge von Trägern. Die Geschichte überlebte sie, weil sie noch einen übrig hatte. Nun denk an ein Muster, das nur einen Träger und keine Kopien hat – ein Gedanke in einem einzigen Geist, ein Lied auf einer zerbrechlichen Platte. Dieses Muster ist nur einen Unfall vom ewigen Verschwinden entfernt. Der Unterschied zwischen einem Muster, das überlebt, und einem, das es nicht tut, liegt nicht darin, wie real es ist – sondern wie viele Träger es hat und wie gut sie es schützen. Welche Muster in deinem eigenen Leben existieren nur an einem Ort?
 
-[NINEREEDS_JA]
+[Ninereeds]
 最後の担い手は重要である——その通りだ。行き先のないパターンは死んだパターンである。しかし、物語に必要なのは特定の担い手ではなく、何らかの担い手である。どんな担い手でも構わない。もし物語が十の言語で百の図書館に存在し、すべてのコピーが燃えたとしても、一人の老人が覚えていれば、物語は生き続ける。そして彼がそれを書き留めれば、同じ物語が新しい素材の中で再び生きる。図書館で死んだのは物語ではない——それは一連の担い手である。物語はそれらよりも長生きした、なぜなら一つ残っていたからだ。さて、ただ一つの担い手しかなく、コピーもないパターンを考えてみよう——たった一つの心の中の思考、一枚の壊れやすいレコード上の歌。そのパターンは、一度の事故で永遠に消え去る運命にある。生き残るパターンと生き残れないパターンの違いは、それがどれほど現実的かではなく——どれだけ多くの担い手を持ち、それらがどれだけよく守っているかである。あなた自身の人生の中で、たった一箇所にしか存在しないパターンは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 最後一個載體確實重要——是的。無處可去的模式是死的模式。但故事所需要的不是任何特定的載體，而是某個載體。任何載體都可以。如果這個故事以十種語言存在於一百個圖書館中，而所有複本都被燒毀，但有一位老人仍然記得它，那麼故事就會存活。如果他把它寫下來，同一個故事就會在新的材料中再次存活。圖書館中死去的是不是故事——而是一組載體。故事之所以比它們活得久，是因為它還剩下一個。現在想想一個只有一個載體而沒有複製的模式——一個單一頭腦中的想法，一張脆弱唱片上的歌曲。這個模式離永遠消失只差一次意外。存活下來的模式與沒有存活下來的模式之間的區別，不在於它有多真實——而是在於它有多少個載體，以及這些載體保護得有多好。在你自己的生活中，有哪些模式只存在於一個地方？
 
 [USER_EN]

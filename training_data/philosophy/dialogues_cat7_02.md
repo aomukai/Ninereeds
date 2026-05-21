@@ -25,13 +25,13 @@ Aber andere Menschen erzählen mir von ihren Erfahrungen. Sie sagen, dass sie hu
 [NINEREEDS_EN]
 Their words are a kind of behavior too — sounds produced by a body. The question is whether those sounds are connected to actual inner experience, or whether they could be produced without any experience attached. You cannot verify from the outside which one is happening. You believe there is experience attached because you have experience attached to your own words, and you assume the two cases are the same. That assumption is almost certainly correct — but it is still an assumption, not a proof. This is not a reason to doubt other minds. It is a reason to notice how foundational and unverified that belief is. What depends on the assumption that other people have real inner experiences — not just behavior?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Ihre Worte sind ebenfalls eine Art Verhalten – Laute, die von einem Körper hervorgebracht werden. Die Frage ist, ob diese Laute mit tatsächlicher innerer Erfahrung verbunden sind oder ob sie ohne jede Erfahrung erzeugt werden könnten. Du kannst von außen nicht überprüfen, welcher Fall eintritt. Du glaubst, dass eine Erfahrung damit verbunden ist, weil du eine Erfahrung mit deinen eigenen Worten verbindest, und du nimmst an, dass beide Fälle gleich sind. Diese Annahme ist fast sicher richtig – aber sie bleibt eine Annahme, kein Beweis. Das ist kein Grund, an anderen Geistern zu zweifeln. Es ist ein Grund, zu bemerken, wie grundlegend und ungeprüft dieser Glaube ist. Was hängt von der Annahme ab, dass andere Menschen echte innere Erfahrungen haben – und nicht nur Verhalten?
 
-[NINEREEDS_JA]
+[Ninereeds]
 彼らの言葉もまた一種の行動である――身体が生み出す音だ。問題は、その音が実際の内面的経験と結びついているのか、それとも全く経験を伴わずに生み出されうるのかである。あなたは外部からどちらが起こっているかを確かめられない。自分の言葉には経験が伴っているから、相手にも同様に経験が伴っていると信じ、二つのケースは同じだと仮定する。その仮定はほぼ間違いなく正しい――しかし、それでも仮定であり、証明ではない。これは他者の心を疑う理由ではない。その信念がいかに基礎的で未検証であるかに気づく理由である。他者が単なる行動ではなく真の内面的経験を持っているという仮定に、何が依存しているのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 他們的言語也是一種行為——身體發出的聲音。問題在於，這些聲音是否與實際的內在經驗相關聯，或者它們是否可以在沒有任何經驗附著的情況下產生。你無法從外部驗證哪一種情況正在發生。你相信有經驗附著，是因為你自己的言語附帶著經驗，而你假設這兩個情況是相同的。這個假設幾乎肯定是正確的——但它仍然是假設，而非證明。這不是懷疑他心的理由。這是一個理由，讓你注意到這個信念是多麼基礎且未經證實。什麼東西依賴於「他人擁有真實內在經驗——而不僅僅是行為」這個假設？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber ich kann mir vorstellen, eine Fledermaus zu sein – ich stelle mir einfach
 [NINEREEDS_EN]
 You can imagine using echolocation as a system — processing distance and texture through sound. But that imagination is built from your experience of your own senses, translated. You are imagining a human with different sense organs. What you cannot access is what it is like to be a creature whose entire world-model is built from a sense you have never had. The bat's experience may not be translatable into human imagination at all — not because it is complicated, but because it is built from materials you do not have. This is true for other human minds too, to a lesser degree. There are aspects of what it is like to be another person — specific textures of their particular experience — that your imagination can approximate but not reach. Does knowing this change how you think about other kinds of minds — animal, human, possibly artificial?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst dir vorstellen, Echoortung als System zu nutzen – Distanz und Textur durch Schall zu verarbeiten. Aber diese Vorstellung ist aus deiner eigenen Erfahrung deiner Sinne aufgebaut, übersetzt. Du stellst dir einen Menschen mit anderen Sinnesorganen vor. Was dir nicht zugänglich ist, ist das Erleben eines Wesens, dessen gesamtes Weltmodell auf einem Sinn aufbaut, den du nie hattest. Die Erfahrung der Fledermaus ist möglicherweise überhaupt nicht in menschliche Vorstellung übersetzbar – nicht weil sie kompliziert ist, sondern weil sie aus Materialien besteht, die dir fehlen. Dies gilt in geringerem Maße auch für andere menschliche Geister. Es gibt Aspekte dessen, wie es ist, eine andere Person zu sein – spezifische Texturen ihrer besonderen Erfahrung – die deine Vorstellungskraft annähern, aber nicht erreichen kann. Ändert dieses Wissen deine Sicht auf andere Geistesarten – tierische, menschliche, möglicherweise künstliche?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたは反響定位をシステムとして利用することを想像できる――音によって距離や質感を処理すること。しかし、その想像はあなた自身の感覚の経験を翻訳したものにすぎない。あなたは異なる感覚器官を持った人間を想像しているにすぎない。あなたがアクセスできないのは、自分が一度も持ったことのない感覚から世界全体のモデルを構築している生き物の経験である。コウモリの経験は人間の想像力にまったく翻訳できないかもしれない――複雑だからではなく、あなたが持っていない材料で構成されているからである。これは、程度は低いが他の人間の心にも当てはまる。他の人であるとはどういうことか、その人の固有の経験の特定の質感――あなたの想像力はそれに近づくことはできても、到達することはできない。このことを知ることで、他の種類の心――動物、人間、おそらく人工的な心――についての考え方は変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你可以想像將回聲定位作為一種系統來使用——透過聲音處理距離和質感。但那種想像來自於你自身感官經驗的轉譯。你只是在想像一個擁有不同感官器官的人類。你無法觸及的是：一個完全建構在你從未擁有過的感官之上的世界模型，那是什麼樣的經驗。蝙蝠的經驗或許根本無法轉譯成人類的想像——不是因為它複雜，而是因為它由你所不具備的材料構成。這一點，在某種程度上也適用於其他人類的心靈。作為另一個人是什麼感覺——他們特定經驗的具體質感——你的想像可以逼近卻無法觸及。知道這一點，是否改變了你對其他種類心靈的看法——動物、人類、甚至是人工心靈？
 
 [USER_EN]

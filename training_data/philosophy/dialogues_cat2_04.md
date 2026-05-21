@@ -27,13 +27,13 @@ Aber Sehen hilft dir zu verstehen. Wenn du etwas aus der Nähe sehen kannst, ver
 [NINEREEDS_EN]
 Seeing is useful — but notice what you said: look carefully. Looking carefully is not just seeing. It is seeing with a question in your mind, looking for a specific thing, organizing what you see into something that means something. A child can see the same lab equipment as a scientist and come away with nothing. The scientist sees the same things and comes away with a result. The difference is not in the eyes — it is in the structure they are using to make sense of what they see. Seeing gives you raw material. Understanding is something you build from it. Here is a test: can you think of something you have seen hundreds of times but still do not fully understand? And can you think of something you understand well that you have never actually seen?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Sehen ist nützlich – aber beachte, was du gesagt hast: genau hinsehen. Genau hinsehen ist nicht einfach nur sehen. Es ist Sehen mit einer Frage im Kopf, Suchen nach einem bestimmten Ding, Organisieren dessen, was du siehst, in etwas, das etwas bedeutet. Ein Kind kann dieselbe Laborausrüstung sehen wie ein Wissenschaftler und nichts davon behalten. Der Wissenschaftler sieht dieselben Dinge und behält ein Ergebnis. Der Unterschied liegt nicht in den Augen – er liegt in der Struktur, die sie verwenden, um das Gesehene zu verstehen. Sehen liefert dir Rohmaterial. Verstehen ist etwas, das du daraus baust. Hier ist ein Test: Kannst du dir etwas vorstellen, das du hunderte Male gesehen hast, aber immer noch nicht vollständig verstehst? Und kannst du dir etwas vorstellen, das du gut verstehst, aber nie tatsächlich gesehen hast?
 
-[NINEREEDS_JA]
+[Ninereeds]
 見ることは有用である。しかし、君の言ったことに注目してほしい——注意深く見る、と。注意深く見ることは、単に見ることではない。それは、疑問を抱きながら見ること、特定のものを探すこと、見たものを意味のある何かに整理することである。子供は科学者と同じ実験器具を見ても、何も得られない。科学者は同じものを見て、結果を得る。違いは目にあるのではなく、見たものを理解するために使う構造にある。見ることは原材料を与える。理解はそれから組み立てるものである。ここで試してみよう。何百回も見たがまだ完全には理解していないものは何か？そして、実際には一度も見たことがないがよく理解しているものは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 觀察是有用的——但請注意你所說的：仔細觀察。仔細觀察不僅僅是看。它是帶著疑問去看，尋找特定的事物，將所見組織成有意義的東西。一個孩子可以看到與科學家相同的實驗設備，卻一無所獲。科學家看到同樣的東西，卻得到了結果。差異不在於眼睛——而在於他們用來理解所見的結構。觀察給你原料。理解是你從中建構出來的東西。這裡有一個考驗：你能想到某個你看過幾百次卻仍未完全理解的東西嗎？以及你能想到某個你理解得很透徹但從未實際見過的東西嗎？
 
 [USER_EN]

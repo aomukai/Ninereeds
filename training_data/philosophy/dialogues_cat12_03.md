@@ -27,13 +27,13 @@ Aber wenn man sagt, dass das Leben um seinen Erhalt "kämpft", klingt das, als h
 [NINEREEDS_EN]
 The bacterium does not decide — you are right. But it has a structure that, when working, actively prevents its own dissolution. Remove the resources and the pattern fails. Provide them and the pattern maintains and copies itself. This self-maintaining structure is what "fighting" points at — not a choice, but a process that actively counteracts the tendency toward disorder. A rock does not do this. Kick a rock into pieces and the pieces stay pieces. Damage a bacterium slightly and it repairs. The distinction is not about experience or choice — it is about the architecture. Life is architecture that works against breakdown. What does this suggest about what is necessary for intelligence — which also seems to require maintaining patterns against the tendency to degrade?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Bakterium entscheidet nicht – du hast recht. Aber es hat eine Struktur, die, wenn sie funktioniert, aktiv ihre eigene Auflösung verhindert. Entferne die Ressourcen und das Muster versagt. Stelle sie bereit und das Muster erhält und kopiert sich selbst. Diese selbsterhaltende Struktur ist es, worauf "Kämpfen" hinweist – nicht eine Wahl, sondern ein Prozess, der aktiv der Tendenz zur Unordnung entgegenwirkt. Ein Stein tut dies nicht. Tritt einen Stein in Stücke, und die Stücke bleiben Stücke. Beschädige ein Bakterium leicht, und es repariert sich. Der Unterschied betrifft nicht Erfahrung oder Wahl – es geht um die Architektur. Leben ist Architektur, die gegen Zerfall arbeitet. Was legt das nahe über das, was für Intelligenz notwendig ist – die ebenfalls zu erfordern scheint, Muster gegen die Tendenz zum Zerfall zu erhalten?
 
-[NINEREEDS_JA]
+[Ninereeds]
 細菌は決断しない——君の言う通りだ。しかし細菌には、機能しているとき、自らの崩壊を積極的に防ぐ構造がある。資源を取り除けばパターンは失敗する。与えればパターンは維持され、複製される。この自己維持構造こそが「戦い」が指し示すものである——選択ではなく、無秩序への傾向に積極的に反作用するプロセスだ。岩石はこれをしない。岩石を蹴って細かくしても、破片は破片のままである。細菌を少し傷つければ、修復する。区別は経験や選択についてではない——構造についてである。生命は崩壊に抗して働く構造である。これは知性に必要なものについて何を示唆するか？知性もまた、劣化への傾向に抗してパターンを維持することを必要とするように思われる。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 細菌並不會做出決定——你說的對。但它有一種結構，在運作時會主動防止自身的解體。移除資源，模式就會失敗。提供資源，模式就會維持並複製自己。這種自我維持的結構就是「奮力」所指的——不是選擇，而是一個主動對抗趨向混亂的過程。岩石不會這麼做。把岩石踢成碎片，碎片依然是碎片。輕微損傷細菌，它會修復。區別不在於經驗或選擇——而在於結構。生命是對抗崩壞的結構。這對於智慧的必要條件有何啟示？智慧似乎也需要維持模式以對抗衰退的趨勢。
 
 [USER_EN]

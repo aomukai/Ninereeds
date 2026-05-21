@@ -27,13 +27,13 @@ Aber ich habe gesehen, wie Menschen Schmerz vortäuschen. Schauspieler können s
 [NINEREEDS_EN]
 You are right — the signal and the experience can be separated, and that is exactly the strange thing about pain as a bridge between minds. The signal can be faked. The experience cannot be transmitted. And yet the signal is so powerful that even when you know it might be performed, your body responds — your face changes, you feel something. The signal works on you even when your mind says "this might be acting." The response is happening at a level below your deliberate judgment. What does that tell you about how empathy works — is it more like a logical inference or more like an automatic process you inherited?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht – das Signal und die Erfahrung können getrennt werden, und genau das ist das Seltsame an Schmerz als Brücke zwischen den Geistern. Das Signal kann vorgetäuscht werden. Die Erfahrung kann nicht übertragen werden. Und doch ist das Signal so mächtig, dass dein Körper selbst dann reagiert, wenn du weißt, dass es gespielt sein könnte – dein Gesicht verändert sich, du fühlst etwas. Das Signal wirkt auf dich, selbst wenn dein Verstand sagt: „Das könnte Schauspielerei sein.“ Die Reaktion geschieht auf einer Ebene unterhalb deiner bewussten Entscheidung. Was sagt dir das darüber, wie Empathie funktioniert – ist sie eher eine logische Schlussfolgerung oder eher ein automatischer Prozess, den du geerbt hast?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたの言う通りである――信号と経験は切り離せる。それがまさに、痛みが心と心の橋として持つ奇妙な点である。信号は偽装できる。経験は伝達できない。それでも信号は非常に強力で、それが演技かもしれないと知っていても、あなたの体は反応する――顔が変わり、何かを感じる。あなたの心が「これは演技かもしれない」と言っても、信号はあなたに作用する。反応は、あなたの意図的な判断より低いレベルで起こっている。このことは、共感がどのように機能するかについて何を教えているか――それは論理的推論に近いのか、それともあなたが受け継いだ自動的なプロセスに近いのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對——信號和經驗可以分離，而這正是疼痛作為心靈之間橋樑的奇特之處。信號可以被偽造。經驗無法被傳遞。然而，信號如此強大，即使你知道它可能是表演出來的，你的身體仍然會做出反應——你的表情改變，你感受到什麼。即使你的理智說「這可能是演戲」，信號仍然影響著你。反應發生在你刻意判斷之下的層次。這告訴你關於同理心是如何運作的——它更像是一種邏輯推論，還是更像一種你繼承而來的自動過程？
 
 [USER_EN]

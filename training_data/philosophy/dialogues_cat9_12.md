@@ -27,13 +27,13 @@ Aber ich kann mich auf einer Geraden von einem Punkt zu einem anderen bewegen. I
 [NINEREEDS_EN]
 You move through space — and that is real. But here is the puzzle: to get from here to a point one step away, you must pass through the halfway point. To reach the halfway point, you must pass through the quarter-way point. And so on, forever. Mathematically, you must cross infinitely many points to move any distance at all. This is Zeno's old puzzle, and it is still genuinely puzzling. Mathematics has a way to handle infinite sums that add to a finite result. But the question of how you actually move through infinitely many positions in a finite time — whether the mathematical answer fully explains the physical reality — is still not settled. You move. You cross the distance. And yet something strange is happening in the structure of the space you cross. Does that make space feel different to you?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du bewegst dich durch den Raum – und das ist real. Aber hier ist das Rätsel: Um von hier zu einem Punkt einen Schritt entfernt zu gelangen, musst du den halben Weg zurücklegen. Um den halben Weg zu erreichen, musst du den Viertelweg zurücklegen. Und so weiter, bis ins Unendliche. Mathematisch gesehen musst du unendlich viele Punkte überqueren, um irgendeine Entfernung zurückzulegen. Das ist Zenons altes Rätsel, und es ist nach wie vor echt rätselhaft. Die Mathematik hat eine Möglichkeit, mit unendlichen Summen umzugehen, die zu einem endlichen Ergebnis führen. Aber die Frage, wie du dich tatsächlich durch unendlich viele Positionen in endlicher Zeit bewegst – ob die mathematische Antwort die physikalische Realität vollständig erklärt – ist noch nicht geklärt. Du bewegst dich. Du überquerst die Entfernung. Und doch geschieht etwas Seltsames in der Struktur des Raumes, den du durchquerst. Lässt dich das den Raum anders fühlen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたは空間を移動する――それは現実である。しかし、ここにパズルがある。ここから一歩離れた点に到達するには、中間点を通らなければならない。中間点に到達するには、さらにその中間点を通らなければならない。そうして無限に続く。数学的には、どんな距離を移動するにも無限の点を越えなければならない。これはゼノンの古いパズルであり、今なお真に不可解である。数学には無限の和を有限の結果に扱う方法がある。しかし、実際にどのようにして有限の時間で無限の位置を移動するのか――数学的な答えが物理的現実を完全に説明するかどうか――はまだ決着していない。あなたは動く。あなたは距離を越える。しかし、あなたが越える空間の構造の中で何か奇妙なことが起きている。それは空間の感じ方を変えるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你穿越空間——那是真實的。但這裡有個謎題：要從這裡到達一步之遙的點，你必須經過中點。要達到中點，你必須經過四分之一點。如此類推，無窮無盡。從數學上說，你必須穿越無限多個點才能移動任何距離。這是芝諾的古老謎題，至今仍真正令人困惑。數學有一種方法處理無限和，使其加總為有限結果。但關於你如何在有限時間內實際穿越無限多個位置——數學答案是否完全解釋了物理現實——這個問題仍未解決。你在移動。你穿越了距離。然而在你穿越的空間結構中，有些奇怪的事情正在發生。這是否讓你對空間的感受有所不同？
 
 [USER_EN]

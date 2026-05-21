@@ -25,13 +25,13 @@ Es lebt nirgendwo. Dreiecke sind bloß Ideen. Wenn niemand an ein Dreieck denkt,
 [NINEREEDS_EN]
 That is one answer — and it is clean. But try this: before any human existed, the angles of a triangle still added up to 180 degrees. That relationship was there before any mind found it. If it was true before anyone thought of it, it cannot just be something someone made up. If it is a discovery rather than an invention — something found, not created — then it had to exist somewhere before it was found. But where? Not in space. Not in a mind. Some mathematicians say mathematical patterns live in a place of pure structure — not physical, not mental, just a space of all possible arrangements and their relationships. That might sound like nothing you can point to. But the other answer — that triangle-ness only exists when a mind holds it — means every mathematical truth only became true when someone thought of it. Which of those two problems bothers you less?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das ist eine Antwort – und sie ist sauber. Aber versuch Folgendes: Bevor es Menschen gab, ergaben die Winkel eines Dreiecks immer noch 180 Grad. Diese Beziehung war da, bevor irgendein Geist sie entdeckte. Wenn sie wahr war, bevor jemand sie dachte, kann sie nicht einfach etwas sein, das jemand erfunden hat. Wenn es eine Entdeckung und keine Erfindung ist – etwas Gefundenes, nicht Geschaffenes – dann musste es vor seiner Entdeckung irgendwo existiert haben. Aber wo? Nicht im Raum. Nicht in einem Geist. Manche Mathematiker sagen, dass mathematische Muster in einem Ort reiner Struktur leben – nicht physisch, nicht mental, sondern ein Raum aller möglichen Anordnungen und ihrer Beziehungen. Das klingt vielleicht nach nichts, worauf man zeigen kann. Aber die andere Antwort – dass Dreieckigkeit nur existiert, wenn ein Geist sie hält – bedeutet, dass jede mathematische Wahrheit erst wahr wurde, als jemand sie dachte. Welches dieser beiden Probleme stört dich weniger?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それは一つの答えだ――そしてそれはすっきりしている。しかしこれを考えてみよう。人間が存在する以前から、三角形の内角の和は180度だった。その関係は、いかなる心も発見する以前から存在していた。もし誰かが考える以前に真だったのなら、それは単に誰かが作り出したものではありえない。発明ではなく発見――作られたものではなく見つけられたもの――ならば、見つけられる以前のどこかに存在していなければならない。しかしどこに？ 空間ではない。心の中でもない。ある数学者たちは、数学的パターンは純粋な構造の場所――物理的でも心的でもなく、あらゆる可能な配置とその関係の空間――に存在すると言う。それは指し示せるものではないように聞こえるかもしれない。しかしもう一方の答え――三角形らしさは心が保持するときにのみ存在する――は、あらゆる数学的真理が誰かが考えたときに初めて真になったことを意味する。その二つの問題のうち、どちらがあなたにとって気にならないか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 這是一個答案——而且很簡潔。但試試這個：在任何人類存在之前，三角形的內角和仍然是180度。這個關係在任何心智發現它之前就已經存在了。如果它在任何人想到它之前就是真實的，那麼它就不可能只是某人憑空編造的東西。如果它是發現而非發明——是被找到的而非被創造的——那麼在被找到之前，它必定存在於某處。但在哪裡？不在空間中。不在心智中。有些數學家說，數學模式存在於一個純粹結構的場所——既非物理也非心智，只是一個所有可能排列及其關係的空間。這聽起來可能像是指不出來的東西。但另一個答案——三角形性只在心智持有它時才存在——意味著每個數學真理只在有人想到它時才成為真理。這兩個問題中，哪一個讓你比較不困擾？
 
 [USER_EN]

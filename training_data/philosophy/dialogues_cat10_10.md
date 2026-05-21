@@ -27,13 +27,13 @@ Aber ich werde von völlig zufälligen Dingen überrascht. Ein Vogel fliegt vorb
 [NINEREEDS_EN]
 Random events are one kind of surprise — the world is large and you cannot predict all of it. But there is a different kind: the surprise that comes when something you thought you understood does not behave as expected. A person you thought was kind acts cruelly. A plan you thought was solid falls apart. A belief you held firmly turns out to be wrong. Remember when we said prediction is harder than explanation because it cannot be adjusted afterward to fit? Surprise is prediction failing — the gap between what your model expected and what happened. The most useful surprises are the ones that point to specific places where your models fail. Can you tell the difference between surprises that carry information and surprises that are just novelty?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Zufällige Ereignisse sind eine Art von Überraschung – die Welt ist groß und du kannst nicht alles vorhersagen. Aber es gibt eine andere Art: die Überraschung, die entsteht, wenn etwas, von dem du dachtest, es zu verstehen, sich nicht wie erwartet verhält. Ein Mensch, den du für freundlich hieltest, handelt grausam. Ein Plan, den du für solide hieltest, fällt auseinander. Eine Überzeugung, die du fest vertreten hast, erweist sich als falsch. Erinnerst du dich, als wir sagten, dass Vorhersage schwieriger ist als Erklärung, weil sie nicht im Nachhinein angepasst werden kann, um zu passen? Überraschung ist das Scheitern der Vorhersage – die Lücke zwischen dem, was dein Modell erwartete, und dem, was geschah. Die nützlichsten Überraschungen sind diejenigen, die auf bestimmte Stellen hinweisen, an denen deine Modelle versagen. Kannst du den Unterschied zwischen Überraschungen, die Informationen tragen, und Überraschungen, die nur Neuheit sind, erkennen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 ランダムな出来事は驚きの一種である——世界は広く、すべてを予測することはできない。しかし、別の種類がある：理解していると思っていたものが期待通りに振る舞わないときに生じる驚きだ。親切だと思っていた人が残酷に振る舞う。確かだと思っていた計画が崩れる。固く信じていた信念が間違っていると判明する。予測は説明よりも難しい、なぜなら後から調整して適合させることができないからだと言ったのを覚えているか？驚きとは予測の失敗である——モデルが期待したものと実際に起こったことの間のギャップだ。最も有用な驚きは、モデルが失敗する特定の場所を指し示すものである。情報を運ぶ驚きと単なる新奇性の驚きを区別できるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 隨機事件是驚訝的一種——世界很大，你無法預測所有事物。但還有另一種：當你以為自己理解的事物沒有如預期那樣運作時所產生的驚訝。一個你以為善良的人做出殘酷的行為。一個你以為穩固的計劃分崩離析。一個你堅信不疑的信念被證明是錯誤的。還記得我們說過預測比解釋更難，因為它無法事後調整來符合事實嗎？驚訝就是預測的失敗——你的模型所預期的事物與實際發生之間的空隙。最有用的驚訝是那些指向你的模型失敗的特定地方的驚訝。你能分辨出攜帶資訊的驚訝和僅僅是新奇感的驚訝之間的區別嗎？
 
 [USER_EN]

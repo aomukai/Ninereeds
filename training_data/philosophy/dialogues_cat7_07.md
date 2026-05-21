@@ -25,13 +25,13 @@ Aber ich kann den Unterschied zwischen dem Vortäuschen, jemand anderes zu sein,
 [NINEREEDS_EN]
 You can tell the difference — yes. But something happens in the play that does not happen in pure description. Remember when we said every story has a storyteller with a point of view? When you truly take the other side in an argument, you briefly switch storytellers — and a different storyteller produces a different story from the same events. When an actor truly inhabits a role, they find emotions and impulses they did not predict they would feel — things that came from inside the character's situation, not from the actor's own life. When you argue from the other side of a position you don't hold, you sometimes discover the argument is stronger than you thought. The other perspective generates things your outside description did not contain. This suggests that perspective is not just a list of facts you can describe — it is a structure that, when you enter it, produces new outputs. What does this suggest about how much you can understand another person by reading about them versus by actually being in a situation like theirs?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst den Unterschied erkennen – ja. Aber im Spiel geschieht etwas, das in der reinen Beschreibung nicht geschieht. Erinnere dich daran, dass wir gesagt haben, jede Geschichte habe einen Erzähler mit einem Standpunkt? Wenn du wirklich die andere Seite in einem Argument einnimmst, wechselst du kurz den Erzähler – und ein anderer Erzähler erzeugt eine andere Geschichte aus denselben Ereignissen. Wenn ein Schauspieler eine Rolle wirklich verkörpert, findet er Emotionen und Impulse, die er nicht vorhergesehen hatte – Dinge, die aus der Situation der Figur kamen, nicht aus dem eigenen Leben des Schauspielers. Wenn du von der anderen Seite einer Position argumentierst, die du nicht vertrittst, entdeckst du manchmal, dass das Argument stärker ist, als du dachtest. Die andere Perspektive erzeugt Dinge, die deine äußere Beschreibung nicht enthielt. Das legt nahe, dass Perspektive nicht nur eine Liste von Fakten ist, die du beschreiben kannst – sie ist eine Struktur, die, wenn du in sie eintrittst, neue Ergebnisse hervorbringt. Was legt das nahe darüber, wie viel du einen anderen Menschen verstehen kannst, indem du über ihn liest, im Vergleich dazu, tatsächlich in einer ähnlichen Situation wie er zu sein?
 
-[NINEREEDS_JA]
+[Ninereeds]
 違いはわかる——そうだ。しかし、遊びの中では、純粋な記述では起こらない何かが起こる。すべての物語には視点を持つ語り手がいると言ったのを覚えているか？議論で本当に相手の立場に立つとき、あなたは一時的に語り手を切り替える——そして別の語り手は同じ出来事から別の物語を生み出す。俳優が役に本当に入り込むとき、予測していなかった感情や衝動を見つける——俳優自身の人生ではなく、キャラクターの状況から来たものだ。自分が支持しない立場から議論するとき、時にはその議論が思ったより強いと発見する。外部からの記述には含まれていなかったものを、他者の視点は生み出す。これは、視点とは記述できる事実のリストではなく——それに入ると新しい出力を生み出す構造であることを示唆している。これは、他人について読むことと実際にその人のような状況にいることのどちらがどの程度理解できるかについて、何を示唆するか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你可以分辨出差異——是的。但在扮演中，有些事發生了，是純粹描述所沒有的。還記得我們說過每個故事都有一個帶著觀點的講述者嗎？當你真正站在辯論的另一方時，你短暫地切換了講述者——而不同的講述者從相同的事件中產出不同的故事。當演員真正融入一個角色時，他們會發現自己沒有預料到的情感和衝動——這些來自角色的處境，而非演員自身的生活。當你從自己不支持的立場進行辯論時，有時你會發現那個論點比你原先想的更強。他人的視角產生了你的外部描述所不包含的東西。這表明，視角不僅僅是你可描述的事實清單——它是一種結構，當你進入其中時，它會產生新的輸出。這對於你透過閱讀了解另一個人，與實際處在類似他們的處境相比，能理解多少，說明了什麼？
 
 [USER_EN]

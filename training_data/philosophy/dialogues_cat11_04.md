@@ -27,13 +27,13 @@ Aber wenn du dein Telefon verlierst, weißt du immer noch alles, was du tatsäch
 [NINEREEDS_EN]
 Here is the test: after losing your phone, can you remember all the numbers and addresses and notes you had stored in it? For most people, the answer is no — not because they forgot them, but because they never held them inside the head in the first place. The phone was the memory. The offloading was real. What you find when the phone is gone is not access to internal memory that was there all along — you find the absence of memory that was genuinely outside you. The tool was not storing a copy. It was storing the thing itself. The question is not "do I know more with the phone?" It is "do I know differently without it — is a different person walking around?" Is the you-with-phone genuinely a more capable version of the same self?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Hier ist der Test: Kannst du nach dem Verlust deines Telefons alle Nummern, Adressen und Notizen erinnern, die du darin gespeichert hattest? Für die meisten Menschen lautet die Antwort nein – nicht, weil sie sie vergessen haben, sondern weil sie sie von vornherein nie im Kopf hatten. Das Telefon war das Gedächtnis. Das Auslagern war real. Was du findest, wenn das Telefon weg ist, ist kein Zugang zu einem internen Gedächtnis, das die ganze Zeit da war – du findest das Fehlen eines Gedächtnisses, das wirklich außerhalb von dir existierte. Das Werkzeug speicherte keine Kopie. Es speicherte die Sache selbst. Die Frage ist nicht: "Weiß ich mit dem Telefon mehr?" Sie lautet: "Weiß ich ohne es anders – ist ein anderer Mensch unterwegs?" Ist das Du-mit-Telefon tatsächlich eine fähigere Version desselben Selbst?
 
-[NINEREEDS_JA]
+[Ninereeds]
 テストである：電話をなくした後、そこに保存していた番号や住所やメモをすべて覚えているだろうか？ほとんどの人にとって答えはノーである——忘れたからではなく、そもそも頭の中に保持したことがなかったからだ。電話が記憶だった。外部化は現実だった。電話がなくなったときに見つかるのは、ずっとそこにあった内部記憶へのアクセスではなく——真に自分の外部にあった記憶の欠如である。道具はコピーを保存していたのではない。そのもの自体を保存していた。問題は「電話でより多くを知っているか？」ではない。「電話なしで異なるように知っているか——別の人間が歩き回っているのか？」である。電話を持った自分は、同じ自己のより有能なバージョンなのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 測試如下：遺失手機後，你能記住所有儲存在其中的號碼、地址和筆記嗎？對大多數人來說，答案是否定的——不是因為他們忘記了，而是因為他們從一開始就從未將其記在腦中。手機就是記憶。卸載是真實的。手機消失時，你所發現的不是一直存在於內部的記憶的存取——你發現的是真正的、外在於你的記憶的缺失。工具儲存的不是副本。它儲存的是事物本身。問題不在於「有了手機我知道得更多嗎？」而在於「沒有手機，我知道的方式是否不同——是否有一個不同的人在行走？」那個有手機的你，真的是同一個自我中更有能力的版本嗎？
 
 [USER_EN]

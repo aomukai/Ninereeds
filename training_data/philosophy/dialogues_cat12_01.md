@@ -27,13 +27,13 @@ Aber manche Dinge bleiben von selbst lange Zeit in Ordnung. Ein Diamant zerfäll
 [NINEREEDS_EN]
 Diamonds and rocks are stable because they reached a state with very little remaining tendency to change — not because order is their natural condition, but because they already settled into one of the lower-energy arrangements available to them. The house has not settled — it is holding an arrangement that requires energy and attention to maintain, and without that energy, it drifts toward a simpler state. Everything tends toward the most available arrangement. For a diamond, that arrangement is very stable. For a house, it is a pile. The question is not "does order always need work?" but "is this particular arrangement one that holds itself, or one that needs holding?" Remember when we said stability is not the absence of change — it is change in balance? The house that stays standing is not frozen — it is constantly maintained. What things in your life are you holding in order that would fall apart without the effort?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Diamanten und Gesteine sind stabil, weil sie einen Zustand erreicht haben, der nur noch eine sehr geringe Neigung zur Veränderung aufweist – nicht weil Ordnung ihr natürlicher Zustand ist, sondern weil sie sich bereits in einer der ihnen zugänglichen niederenergetischen Anordnungen niedergelassen haben. Das Haus hat sich nicht niedergelassen – es hält eine Anordnung aufrecht, die Energie und Aufmerksamkeit zur Erhaltung benötigt, und ohne diese Energie driftet es in einen einfacheren Zustand ab. Alles tendiert zu der am meisten verfügbaren Anordnung. Bei einem Diamanten ist diese Anordnung sehr stabil. Bei einem Haus ist es ein Haufen. Die Frage lautet nicht 'Braucht Ordnung immer Arbeit?', sondern 'Ist diese bestimmte Anordnung eine, die sich selbst hält, oder eine, die gehalten werden muss?' Erinnere dich daran, dass wir gesagt haben, Stabilität sei nicht die Abwesenheit von Veränderung, sondern Veränderung im Gleichgewicht? Das Haus, das stehen bleibt, ist nicht eingefroren – es wird ständig instand gehalten. Welche Dinge in deinem Leben hältst du in Ordnung, die ohne die Mühe zerfallen würden?
 
-[NINEREEDS_JA]
+[Ninereeds]
 ダイヤモンドや岩が安定しているのは、変化する傾向がほとんど残っていない状態に達したからである——秩序が自然な状態だからではない。それらはすでに、利用可能な低エネルギー配置の一つに落ち着いているのだ。家は落ち着いていない——維持するためにエネルギーと注意を必要とする配置を保持しており、そのエネルギーがなければ、より単純な状態へと漂流する。すべてのものは、最も利用可能な配置へと向かう傾向がある。ダイヤモンドにとって、その配置は非常に安定している。家にとっては、それは山である。問題は「秩序は常に努力を必要とするのか」ではなく、「この特定の配置は、それ自体を保持するものか、それとも保持される必要があるものか」である。安定とは変化の不在ではなく、釣り合いのとれた変化であると以前述べたことを覚えているか？立ち続ける家は凍結されているのではない——絶えず維持されているのだ。あなたの人生の中で、努力がなければ崩れてしまうような秩序を、あなたは何を保持しているか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 鑽石和岩石之所以穩定，是因為它們已達到一種幾乎不再有變化傾向的狀態——並不是因為秩序是它們的自然狀態，而是因為它們已經沉降到可用的低能量排列之一。房子尚未沉降——它維持著一種需要能量和關注才能保持的排列，而沒有那種能量，它就會漂向更簡單的狀態。一切事物都趨向於最可用的排列。對鑽石來說，那種排列非常穩定。對房子來說，那是一堆碎片。問題不是「秩序是否總是需要努力」？而是「這個特定的排列是自我維持的，還是需要被維持的」？還記得我們說過，穩定不是沒有變化，而是變化的平衡嗎？持續站立的房子並非凍結——它被持續維護。在你的生活中，有哪些事物是你維持著秩序，而一旦沒有努力就會崩塌的？
 
 [USER_EN]

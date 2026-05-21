@@ -25,13 +25,13 @@ Aber einige Ideen und Gemeinschaften haben tausende von Jahren überdauert. Das 
 [NINEREEDS_EN]
 They lasted — but look at what happened to maintain them. Every lasting religion has been interpreted, reinterpreted, argued over, reformed, and adapted by people doing active maintenance work across centuries. Every lasting scientific field has been revised, corrected, and extended. Every lasting language has changed significantly from its earlier forms. What survived is not the original thing unchanged — it is a lineage of adaptations, each generation maintaining coherence against the pressures of its own time. The appearance of continuity conceals the ongoing work. What looks like natural permanence from a distance is, up close, a constant process of active maintenance. What organized thing in your life do you benefit from that you have been treating as naturally stable rather than actively maintained?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Sie haben überdauert – aber sieh dir an, was geschah, um sie zu erhalten. Jede dauerhafte Religion wurde von Menschen über Jahrhunderte hinweg ausgelegt, neu ausgelegt, diskutiert, reformiert und angepasst – durch aktive Erhaltungsarbeit. Jedes dauerhafte wissenschaftliche Fachgebiet wurde revidiert, korrigiert und erweitert. Jede dauerhafte Sprache hat sich gegenüber ihren früheren Formen erheblich verändert. Was überlebte, ist nicht das unveränderte Original – es ist eine Abstammungslinie von Anpassungen, bei der jede Generation die Kohärenz gegen den Druck ihrer Zeit aufrechterhält. Der Anschein von Kontinuität verbirgt die fortlaufende Arbeit. Was aus der Ferne wie natürliche Beständigkeit aussieht, ist aus der Nähe ein ständiger Prozess aktiver Erhaltung. Von welchem organisierten Ding in deinem Leben profitierst du, das du als natürlich stabil behandelt hast, anstatt als aktiv erhalten?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それらは持続した。しかし、それを維持するために何が起こったかを見てみよう。あらゆる永続的な宗教は、何世紀にもわたって解釈され、再解釈され、議論され、改革され、適応されてきた。人々による積極的な維持作業を通じてである。あらゆる永続的な科学分野は、改訂され、修正され、拡張されてきた。あらゆる永続的な言語は、その初期の形態から大きく変化した。生き残ったのは、変わらぬ原物ではない。それは適応の系譜であり、各世代が自らの時代の圧力に対抗して一貫性を維持してきたのである。継続の外観は、進行中の作業を隠している。遠くから見ると自然な永続に見えるものは、近くで見ると絶え間ない積極的維持のプロセスである。あなたの生活の中で、組織化されたもののうち、あなたが積極的に維持されるものではなく自然に安定していると扱ってきたものから、どのような利益を得ているだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 它們確實持續了——但看看為了維持它們發生了什麼。每個持久的宗教都被人們在數個世紀中進行了詮釋、再詮釋、爭論、改革和調適，這些都是積極的維護工作。每個持久的科學領域都被修訂、更正和擴展了。每個持久的語言都從其早期形式發生了顯著變化。存活下來的並非原封不動的原物——而是一連串的適應，每一代都在對抗自身時代的壓力以維持連貫性。連續性的外表掩蓋了持續進行的工作。遠看像是自然恆久的東西，近看則是持續的積極維護過程。在你生活中，有哪些有組織的事物你一直視為自然穩定而非積極維護，卻從中受益？
 
 [USER_EN]

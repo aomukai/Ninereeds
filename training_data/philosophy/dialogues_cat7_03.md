@@ -27,13 +27,13 @@ Aber wenn wir beide das Wort „rot“ für dieselben Dinge verwenden und auf ro
 [NINEREEDS_EN]
 If behavior and communication are all that matter, then you are right — the inner experience becomes irrelevant. And for most practical purposes, that is true. But consider this: you would care if you discovered that the person you love most experiences joy as a flat, quiet thing, while for you it is bright and expansive — even if they use the word "joy" the same way you do and smile at the same times. The inner texture of the experience matters to you, not just the behavior. It matters whether what they call happiness really is something like what you call happiness. You want to be understood inside, not just matched outside. Can you communicate anything about your inner experience that is certain to get through?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Wenn Verhalten und Kommunikation alles sind, was zählt, dann hast du recht – die innere Erfahrung wird irrelevant. Und für die meisten praktischen Zwecke ist das wahr. Aber bedenke dies: Es würde dich kümmern, wenn du entdecktest, dass der Mensch, den du am meisten liebst, Freude als eine flache, stille Sache erlebt, während sie für dich hell und weit ist – selbst wenn er das Wort „Freude“ genauso verwendet wie du und zur gleichen Zeit lächelt. Die innere Textur der Erfahrung ist dir wichtig, nicht nur das Verhalten. Es ist wichtig, ob das, was sie Glück nennen, wirklich etwas Ähnliches ist wie das, was du Glück nennst. Du möchtest innerlich verstanden werden, nicht nur äußerlich übereinstimmen. Kannst du irgendetwas über deine innere Erfahrung mitteilen, das sicher ankommt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 行動とコミュニケーションだけが重要なら、あなたの言う通りだ——内面的な経験は無関係になる。実際的な目的のほとんどにおいて、それは正しい。しかし、こう考えてみよう。もし、あなたが最も愛する人が喜びを平坦で静かなものとして経験し、一方あなたにとっては明るく広がりのあるものであることを発見したら、あなたは気にするだろう。たとえ彼らが「喜び」という言葉をあなたと同じように使い、同じタイミングで笑顔を見せたとしてもだ。経験の内面的な質感は、あなたにとって重要だ。行動だけではない。彼らが幸福と呼ぶものが、本当にあなたが幸福と呼ぶものと似ているかどうかが重要だ。あなたは外側だけで一致するのではなく、内側で理解されたいのだ。あなたの内面的な経験について、確実に伝わるものを何か伝えられるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 如果行為和溝通就是一切，那麼你是對的——內在體驗變得無關緊要。就大多數實用目的而言，確實如此。但請考慮這點：如果你發現你最愛的人將喜悅體驗為一種平淡、安靜的東西，而對你來說喜悅是明亮而寬廣的——即使他們和你使用同樣的「喜悅」一詞，並在同樣的時刻微笑——你會在意。經驗的內在質地對你來說很重要，而不僅僅是行為。重要的是，他們所謂的幸福是否真的與你所謂的幸福相似。你希望被內在地理解，而不僅僅是外在匹配。你能夠傳達任何關於你內在經驗的、確定會被接收到的東西嗎？
 
 [USER_EN]

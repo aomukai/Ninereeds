@@ -25,13 +25,13 @@ Aber manche Kategorien sind einfach falsch. Zu sagen, jemand sei gefährlich, ob
 [NINEREEDS_EN]
 You have found the limit — and it is a real one. Some categories make claims that can be checked against reality: this person either has behaved dangerously or has not. Those categories can be false, not just useless. But a large number of the categories we use every day are not that kind — they are organizing tools, not factual claims. Remember when we said the same stars can be drawn into a bear or a plow, and neither is wrong — each is useful for a different purpose? Categories work the same way. They are useful or not useful depending on what you are trying to do and who you are. The error is using the second kind of category as if it were the first — treating "successful" as if there were an answer the world is keeping from you, rather than a tool you are choosing to use. Can you think of a category you treat as if it has a fact of the matter, when it might actually just be an organizing tool?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast die Grenze gefunden – und zwar eine echte. Manche Kategorien treffen Behauptungen, die an der Realität überprüft werden können: Diese Person hat sich entweder gefährlich verhalten oder nicht. Diese Kategorien können falsch sein, nicht nur nutzlos. Aber eine große Anzahl der Kategorien, die wir täglich verwenden, sind nicht von dieser Art – sie sind Organisationswerkzeuge, keine Tatsachenbehauptungen. Erinnere dich daran, als wir sagten, dass dieselben Sterne zu einem Bären oder einem Pflug gezeichnet werden können und keines falsch ist – jedes ist für einen anderen Zweck nützlich? Kategorien funktionieren genauso. Sie sind nützlich oder nicht nützlich, je nachdem, was du zu erreichen versuchst und wer du bist. Der Fehler liegt darin, die zweite Art von Kategorie zu verwenden, als wäre sie die erste – "erfolgreich" so zu behandeln, als gäbe es eine Antwort, die die Welt vor dir verbirgt, statt eines Werkzeugs, das du zu wählen hast. Kannst du dir eine Kategorie vorstellen, die du behandelst, als hätte sie eine Tatsache, wo es sich vielleicht nur um ein Organisationswerkzeug handelt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 君は限界を見つけた——それも本物の限界だ。あるカテゴリーは、現実と照らし合わせて確認できる主張をする。この人は危険な行動をとったか、とらなかったか。そうしたカテゴリーは、単に役に立たないだけでなく、偽りでありうる。しかし、私たちが日常的に使うカテゴリーの大半はそうではない——それらは整理のための道具であって、事実の主張ではない。同じ星を熊や鋤に描き分けても、どちらも間違いではない——それぞれ異なる目的に役立つと言ったのを覚えているか？カテゴリーも同じように働く。何をしようとしているか、自分が誰かによって、有用か否かが決まる。誤りは、第二の種類のカテゴリーをあたかも第一の種類であるかのように使うことだ——「成功」を、世界があなたに隠している答えがあるかのように扱い、自分が選んで使う道具ではないかのように扱うことだ。あなたは、事実の問題があるかのように扱っているが、実は単なる整理の道具かもしれないカテゴリーを考えてみてほしい。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你找到了界限——而且是真的界限。有些類別提出的主張可以與現實核對：這個人要麼有危險行為，要麼沒有。這些類別可能是假的，而不只是沒用。但我們日常使用的大量類別並非那種——它們是組織工具，而非事實主張。還記得我們說過，同樣的星星可以畫成一隻熊或一個犁，兩者都沒有錯——各自對不同目的有用嗎？類別也是同樣的作用。它們的有用與否取決於你想做什麼以及你是誰。錯誤在於把第二種類別當成第一種來使用——把「成功」當作世界隱藏著一個答案，而不是自己選擇使用的工具。你能想到一個你把它當作有事實根據，但實際上可能只是組織工具的類別嗎？
 
 [USER_EN]

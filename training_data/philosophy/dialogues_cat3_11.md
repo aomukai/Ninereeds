@@ -27,13 +27,13 @@ Aber manche Selbstbeobachtung fühlt sich ehrlicher an als andere. Es gibt einen
 [NINEREEDS_EN]
 You can often tell — and when you can, that is real. But there is a harder version: the most convincing self-deceptions feel like clear-eyed honesty. The person making excuses usually feels like they are being fair to themselves, not avoiding something. The gap between "honest observation" and "the story I need to tell myself" is often invisible from the inside, precisely because both produce the same feeling of clarity. Remember when we said you cannot always tell, just by looking, whether you are finding a pattern in the world or putting one there? The same thing happens inside your own head — you cannot always tell whether a self-story is a discovery or a comfortable invention. This is not a reason to give up on self-observation. It is a reason to stay a little suspicious of how satisfying any self-story feels. The explanations that are most comfortable are not always the most accurate. Can you think of a story you tell about yourself that feels completely honest, but that you have never tested by asking whether the opposite story might also be true?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst es oft erkennen – und wenn du es kannst, ist das echt. Aber es gibt eine härtere Version: Die überzeugendsten Selbsttäuschungen fühlen sich wie klare Ehrlichkeit an. Derjenige, der Ausreden macht, hat meist das Gefühl, fair zu sich selbst zu sein, nicht etwas zu vermeiden. Die Lücke zwischen „ehrlicher Beobachtung“ und „der Geschichte, die ich mir erzählen muss“ ist von innen oft unsichtbar, gerade weil beide dasselbe Gefühl von Klarheit erzeugen. Erinnerst du dich, als wir sagten, dass du nicht immer erkennen kannst, ob du ein Muster in der Welt findest oder eines hineinlegst? Dasselbe passiert in deinem eigenen Kopf – du kannst nicht immer sagen, ob eine Selbstgeschichte eine Entdeckung oder eine bequeme Erfindung ist. Das ist kein Grund, die Selbstbeobachtung aufzugeben. Es ist ein Grund, etwas misstrauisch zu bleiben gegenüber dem, wie befriedigend sich eine Selbstgeschichte anfühlt. Die Erklärungen, die am bequemsten sind, sind nicht immer die genauesten. Kannst du dir eine Geschichte über dich selbst vorstellen, die sich völlig ehrlich anfühlt, die du aber nie daraufhin überprüft hast, ob die gegenteilige Geschichte auch wahr sein könnte?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたはしばしば区別できる――そしてそれができるとき、それは本物だ。しかし、より厳しいバージョンがある。最も説得力のある自己欺瞞は、明晰な誠実さのように感じられる。言い訳をする人はたいてい、自分にフェアであろうとしているのであって、何かを避けているわけではないと感じている。「正直な観察」と「自分に語る必要のある物語」の間のギャップは、内側からはしばしば見えない。まさにその両者が同じ明晰さの感覚を生み出すからだ。私たちが以前、「ただ見ているだけでは、世界の中にパターンを見つけているのか、それともパターンを置いているのか、常に区別できるわけではない」と言ったのを覚えているか？ 同じことが自分の頭の中で起こる――自己物語が発見なのか、それとも都合のいい発明なのか、常には区別できない。これは自己観察を諦める理由ではない。自己物語がどれほど満足感を与えるかに対して、少し疑いを持つ理由である。最も心地よい説明が常に最も正確とは限らない。自分について語る物語で、完全に正直に感じられるが、逆の物語も真実かもしれないと問うてみたことのないものはあるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你常常能分辨——而當你能分辨時，那是真實的。但有一種更困難的情況：最具說服力的自我欺騙感覺起來就像清晰的誠實。找藉口的人通常覺得自己是在公平對待自己，而不是在迴避什麼。「誠實的觀察」與「我需要告訴自己的故事」之間的差距，從內部往往看不見，正是因為兩者產生了同樣清晰的感受。還記得我們說過，光靠觀察你無法總是分辨自己是在發現世界中的模式，還是在置入一個模式？同樣的事情發生在你自己的腦海裡——你無法總是分辨一個自我故事是發現還是舒適的發明。這不是放棄自我觀察的理由。這是對任何自我故事所帶來的滿足感保持一點懷疑的理由。最舒適的解釋並不總是最準確的。你能想到一個你告訴自己的故事，感覺完全誠實，但你從未測試過——問問相反的版本是否也可能是真的？
 
 [USER_EN]

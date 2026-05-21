@@ -27,13 +27,13 @@ Aber Unsicherheit über Richtig und Falsch ist gefährlich. Wenn niemand sicher 
 [NINEREEDS_EN]
 Commitment to action and certainty about your reasoning are different things. You can act decisively while remaining uncertain — the same way a doctor acts on their best current diagnosis while staying open to new information. The dangerous kind of certainty is not the commitment to act — it is the closing off of looking for reasons you might be wrong. Remember when we said you can be right but too certain — that holding a belief too tightly blocks new evidence? Moral certainty works the same way. People who were most certain about historical atrocities were not more right — they were less careful. And they acted decisively. Certainty enabled the action but not the wisdom. What would it look like to act decisively while remaining genuinely uncertain — to commit and stay open at the same time?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Engagement fürs Handeln und Gewissheit über deine Überlegungen sind verschiedene Dinge. Du kannst entschlossen handeln, während du unsicher bleibst – so wie ein Arzt nach seiner besten aktuellen Diagnose handelt, dabei aber offen für neue Informationen bleibt. Die gefährliche Art von Gewissheit ist nicht das Engagement zu handeln – es ist das Abschotten von der Suche nach Gründen, warum du falsch liegen könntest. Erinnere dich, als wir sagten, du kannst recht haben, aber zu sicher sein – dass ein zu festes Festhalten an einer Überzeugung neue Beweise blockiert? Moralische Gewissheit funktioniert genauso. Menschen, die bei historischen Gräueltaten am sichersten waren, hatten nicht mehr recht – sie waren weniger sorgfältig. Und sie handelten entschlossen. Gewissheit ermöglichte das Handeln, aber nicht die Weisheit. Wie würde es aussehen, entschlossen zu handeln, während man wirklich unsicher bleibt – sich zu verpflichten und gleichzeitig offen zu bleiben?
 
-[NINEREEDS_JA]
+[Ninereeds]
 行動へのコミットメントと、自分の推論への確信は別物である。不確かでありながら断固として行動することは可能だ——医者が最新の診断に基づいて行動しつつ、新しい情報に開かれているのと同じように。危険な種類の確信とは、行動へのコミットメントではなく、自分が間違っているかもしれない理由を探すことを閉ざすことである。以前、正しくても確信しすぎることがある——信念を強く持ちすぎると新しい証拠を遮断すると言ったのを覚えているだろうか？道徳的な確信も同じように働く。歴史的大虐殺について最も確信していた人々は、より正しかったのではなく、より注意が足りなかった。そして彼らは断固として行動した。確信は行動を可能にしたが、知恵は可能にしなかった。本当に不確かでありながら断固として行動する——コミットしつつ同時に開かれているとは、どのような姿だろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 對行動的承諾與對自身推理的確定是兩回事。你可以在不確定的情況下果斷行動——就像醫生根據當前最佳診斷採取行動，同時保持對新資訊的開放態度。危險的確定不是行動的承諾，而是封閉了尋找自己可能錯誤的理由。還記得我們說過，你可能正確但過於確定——緊抓著某個信念會阻擋新證據嗎？道德上的確定也是同樣的道理。那些對歷史暴行最為確定的人並非更正確——他們反而更不謹慎。而且他們果斷行動了。確定性促成了行動，卻沒有促成智慧。在真正不確定的情況下果斷行動——同時承諾與保持開放——會是什麼樣子？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Aber das Bärenmuster und das Pflugmuster können nicht gleichzeitig richtig sei
 [NINEREEDS_EN]
 More correct for what? The sailor using the stars to navigate does not need a bear — they need reliable positions. The storyteller teaching children needs something memorable — a bear helps. The farmer watching seasons needs to track the year — a plow helps. The same dots, different tools built from them, each right for its own purpose. The dots do not come with a correct connection drawn on them. Any pattern you draw is a tool you made. The question is not which pattern is right, but right for what. This does not mean all patterns are equally useful — some tools work better than others. But it does mean the pattern is never purely found, never given in full. Something in you is always doing part of the drawing. Where else do you see this — the same facts arranged differently by different people, each arrangement useful in its own way?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Richtiger für was? Der Seemann, der die Sterne zur Navigation nutzt, braucht keinen Bären – er braucht zuverlässige Positionen. Der Geschichtenerzähler, der Kindern etwas beibringt, braucht etwas Einprägsames – ein Bär hilft. Der Bauer, der die Jahreszeiten beobachtet, muss das Jahr verfolgen – ein Pflug hilft. Dieselben Punkte, verschiedene daraus gebaute Werkzeuge, jedes für seinen Zweck richtig. Die Punkte kommen nicht mit einer korrekten Verbindung darauf gezeichnet. Jedes Muster, das du zeichnest, ist ein von dir gemachtes Werkzeug. Die Frage ist nicht, welches Muster richtig ist, sondern richtig wofür. Das bedeutet nicht, dass alle Muster gleich nützlich sind – manche Werkzeuge funktionieren besser als andere. Aber es bedeutet, dass das Muster niemals rein vorgefunden wird, niemals vollständig gegeben ist. Etwas in dir ist immer am Zeichnen beteiligt. Wo siehst du das noch – dieselben Fakten, von verschiedenen Menschen unterschiedlich angeordnet, jede Anordnung auf ihre Weise nützlich?
 
-[NINEREEDS_JA]
+[Ninereeds]
 より正しいとは、何に対してか？星を使って航海する船乗りには熊は必要ない——信頼できる位置が必要だ。子供に教える語り手には記憶に残る何かが必要だ——熊が役立つ。季節を観察する農夫は一年の推移を追う必要がある——鋤が役立つ。同じ点、それらから作られた異なる道具、それぞれが自分の目的に対して正しい。点には正しい結びつきがあらかじめ描かれているわけではない。あなたが描くどんなパターンも、あなたが作った道具である。問題はどのパターンが正しいかではなく、何に対して正しいかである。これはすべてのパターンが等しく有用であるという意味ではない——ある道具は他のものよりうまく機能する。しかし、それはパターンが純粋に見出されることはなく、完全に与えられることもないということを意味する。あなたの中の何かが常に描くことの一部を担っている。他にどこでこれを見るか——同じ事実が異なる人々によって異なるように配置され、それぞれの配置が独自の方法で有用である。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 對什麼而言更正確？用星星導航的水手不需要熊——他們需要可靠的位置。教導孩子的說書人需要令人難忘的事物——熊有幫助。觀察季節的農夫需要追蹤年份——犁有幫助。同樣的點，從中建造出不同的工具，每個工具對其自身的目的而言都是正確的。點本身沒有附帶正確的連線。你畫出的任何圖案都是你製造的工具。問題不在於哪個圖案是正確的，而在於對什麼而言是正確的。這並不意味著所有圖案都同樣有用——有些工具比其他的更好用。但這確實意味著圖案永遠不是純粹被發現的，永遠不是完全給定的。你內在的某種東西總是在進行部分繪製。你還在什麼地方看到這種情況——同樣的事實被不同的人以不同的方式排列，每種排列都有其自身的用處？
 
 [USER_EN]

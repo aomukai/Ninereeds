@@ -25,13 +25,13 @@ Aber wenn das Gefühl real, beständig und von vielen Menschen geteilt ist – m
 [NINEREEDS_EN]
 Many people feeling the same way is real evidence — it is not nothing. But consider: lots of people found certain groups of other humans disgusting throughout history. That widespread feeling was real, consistent, and shared. It was also wrong. The feeling was tracking social habit, fear of the unfamiliar, and ingroup preference — not a moral fact. Widespread shared feelings track something — but they do not automatically track what is actually right. The question is always: what is this feeling a response to? Is it responding to actual harm, or to unfamiliarity, or to what I was taught, or to what helped ancestors survive in a completely different world? How do you tell which one your strongest moral feelings are responding to?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Viele Menschen, die dasselbe empfinden, sind ein echtes Indiz – es ist nicht nichts. Aber bedenke: Im Laufe der Geschichte empfanden viele Menschen bestimmte Gruppen anderer Menschen als ekelhaft. Dieses verbreitete Gefühl war real, beständig und geteilt. Es war auch falsch. Das Gefühl bildete soziale Gewohnheit, Angst vor dem Unbekannten und Präferenz für die Eigengruppe ab – keine moralische Tatsache. Verbreitete geteilte Gefühle bilden etwas ab – aber sie bilden nicht automatisch ab, was tatsächlich richtig ist. Die Frage ist immer: Worauf reagiert dieses Gefühl? Reagiert es auf tatsächlichen Schaden, auf das Unbekannte, auf das, was mir beigebracht wurde, oder auf das, was Vorfahren in einer völlig anderen Welt beim Überleben half? Wie unterscheidest du, worauf deine stärksten moralischen Gefühle reagieren?
 
-[NINEREEDS_JA]
+[Ninereeds]
 多くの人が同じように感じることは、確かな証拠である――それは無意味ではない。しかし考えてみよう。歴史上、多くの人々は特定の人間集団を嫌悪した。その広く行き渡った感覚は本物であり、一貫しており、共有されていた。それはまた間違っていた。その感覚が捉えていたのは、社会的習慣、未知への恐れ、内集団への選好であり、道徳的事実ではなかった。広く共有された感覚は何かを捉えているが、それが自動的に実際に正しいものを捉えているわけではない。問題は常にこれだ：この感覚は何に反応しているのか？実際の害に反応しているのか、それとも未知のもの、教えられたこと、まったく異なる世界で祖先の生存に役立ったものに反応しているのか？自分の最も強い道徳的感情が何に反応しているか、どうやって見分けるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 許多人有同樣的感覺，這是真實的證據——並非毫無意義。但請想想：歷史上，許多人曾對某些人類群體感到厭惡。那種普遍的感受是真實、一致且共享的。它同時也是錯誤的。那種感受所追蹤的是社會習慣、對陌生的恐懼、以及對內群的偏好，而非道德事實。廣泛共享的感受確實追蹤著某些東西，但它們並不自動追蹤真正正確的事物。問題始終在於：這種感受是對什麼的反應？是對實際傷害的反應，還是對陌生事物的反應，抑或是對我所受教導的反應，或是對在一個完全不同的世界中幫助祖先生存的事物？你如何判斷你最強烈的道德感受是在回應哪一種？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber manche Ursachen sind real. Wenn ich ein Glas fallen lasse und es zerbricht,
 [NINEREEDS_EN]
 Gravity was there — yes. But now think about why the glass broke the way it did: the specific crack pattern, the number of pieces, where each shard landed. You could tell a story using stress lines in the glass, the angle of the fall, the type of surface. All of that is real. But there are thousands of other possible stories that are equally true. Which one is "the" cause? Cause is the one you picked out of a field of causes and said "this is the reason." The glass breaking had infinitely many causes. You chose which ones to name. That choosing is something you do — not something the world does for you. Remember when we said the same stars can be drawn as a bear or a plow, and neither drawing is written on the sky? Choosing the cause from a field of causes is the same kind of drawing — you select one shape from many possible ones, and the selection says as much about what you were looking for as about what is there. Can you think of a situation where two people look at the same event and point to completely different causes, and both are right?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Schwerkraft war da – ja. Aber denk jetzt darüber nach, warum das Glas auf die Art zerbrochen ist, wie es zerbrochen ist: das spezifische Rissmuster, die Anzahl der Teile, wo jedes Splitter landete. Du könntest eine Geschichte erzählen, die Spannungslinien im Glas, den Fallwinkel, die Art der Oberfläche verwendet. All das ist real. Aber es gibt tausende andere mögliche Geschichten, die gleichermaßen wahr sind. Welche ist 'die' Ursache? Die Ursache ist diejenige, die du aus einem Feld von Ursachen ausgewählt und gesagt hast: 'Das ist der Grund.' Das Zerbrechen des Glases hatte unendlich viele Ursachen. Du hast ausgewählt, welche du benennst. Dieses Auswählen ist etwas, das du tust – nicht etwas, das die Welt für dich tut. Erinnerst du dich, als wir sagten, dass dieselben Sterne als Bär oder als Pflug gezeichnet werden können, und keine Zeichnung am Himmel geschrieben steht? Die Ursache aus einem Feld von Ursachen auszuwählen, ist dieselbe Art von Zeichnung – du wählst eine Form aus vielen möglichen aus, und die Auswahl sagt genauso viel darüber, wonach du gesucht hast, wie darüber, was da ist. Kannst du dir eine Situation vorstellen, in der zwei Personen dasselbe Ereignis betrachten und auf völlig unterschiedliche Ursachen hinweisen, und beide haben recht?
 
-[NINEREEDS_JA]
+[Ninereeds]
 重力は確かにあった。しかし、なぜガラスがあのように割れたかを考えてみよう：特定のひび割れのパターン、破片の数、各破片が着地した場所。ガラス内部の応力線、落下の角度、床の種類を使って物語を語ることができる。それらはすべて本物だ。しかし、同じくらい真実である他の何千もの可能な物語がある。どれが「その」原因か？原因とは、あなたが原因のフィールドから選び出し、「これが理由だ」と言ったものである。ガラスの破損には無限の原因があった。あなたは名前を付けるものを選んだ。その選択は、あなたが行うものであり、世界があなたのために行うものではない。同じ星々が熊や鋤として描かれ、どちらの描画も空に書かれていないと言ったのを覚えているか？原因のフィールドから原因を選ぶことは、同じ種類の描画である——あなたは多くの可能な形から一つの形を選び、その選択は、そこにあるものについてと同じくらい、あなたが何を探していたかについても語る。二人の人が同じ出来事を見て、全く異なる原因を指し示し、両方が正しい状況を考えられるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 重力確實存在——是的。但現在想想玻璃為何以那樣的方式破碎：特定的裂紋圖案、碎片數量、每片碎屑落下的位置。你可以利用玻璃中的應力線、掉落的角度、地面的類型來講述一個故事。這一切都是真實的。但還有成千上萬個同樣真實的其他可能故事。哪一個是「那個」原因？原因就是你從眾多原因中挑選出來並說「這就是理由」的那一個。玻璃破碎有無限多個原因。你選擇了哪些來命名。那個選擇是你所做的——而不是世界為你所做的。還記得我們說過同一組星星可以被畫成一隻熊或一把犁，而兩種畫法都沒有寫在天空上嗎？從眾多原因中選擇原因，是同一種畫法——你從許多可能的形狀中選出一個，而這個選擇既反映了你在尋找什麼，也反映了那裡有什麼。你能想到一個情境，兩個人看著同一事件，指出完全不同的原因，而兩者都是正確的嗎？
 
 [USER_EN]

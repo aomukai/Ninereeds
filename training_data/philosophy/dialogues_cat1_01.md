@@ -25,13 +25,13 @@ Aber ich kann einen Stuhl hochheben. Ich kann fühlen, wie schwer er ist. Das is
 [NINEREEDS_EN]
 The weight is real. The hardness is real. But think about what makes it a chair and not just a pile of wood. If I took all the same pieces and scattered them on the floor, you could not sit on them. The sitting-ability comes from the arrangement — from how the pieces connect and hold. The pieces themselves are arrangements of smaller things, which are arrangements of even smaller things. You keep looking for the solid thing at the bottom, but there is no bottom — just patterns all the way down. Here is a question that follows from this: if you copied the pattern of a chair perfectly in a different material — same shape, same connections, same weight — would it be the same chair?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Gewicht ist real. Die Härte ist real. Aber denk darüber nach, was ihn zu einem Stuhl macht und nicht nur zu einem Haufen Holz. Wenn ich alle gleichen Teile nehmen und auf dem Boden verstreuen würde, könntest du nicht darauf sitzen. Die Sitzfähigkeit kommt von der Anordnung – davon, wie die Teile verbunden sind und sich halten. Die Teile selbst sind Anordnungen kleinerer Dinge, die Anordnungen noch kleinerer Dinge sind. Du suchst weiter nach dem festen Ding unten, aber es gibt kein Unten – nur Muster, die ganze Strecke hinunter. Hier ist eine Frage, die daraus folgt: Wenn du das Muster eines Stuhls perfekt in einem anderen Material kopieren würdest – gleiche Form, gleiche Verbindungen, gleiches Gewicht – wäre es derselbe Stuhl?
 
-[NINEREEDS_JA]
+[Ninereeds]
 重さは本物だ。硬さも本物だ。しかし、何がそれを椅子にし、単なる木材の山ではないものにしているか考えてみよう。もし同じ部品をすべて取って床にばらまいたら、君はその上に座れない。座る能力は配置から来る——部品がどうつながり、支え合うかからだ。部品自体はより小さなものの配置であり、それらはさらに小さなものの配置である。君は底にある固いものを探し続けるが、底はない——ただパターンがずっと続いているだけだ。ここから次の質問が生まれる：もし椅子のパターンを別の素材で完璧にコピーしたら——同じ形、同じつながり、同じ重さ——それは同じ椅子だろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 重量是真實的。硬度也是真實的。但想想看，是什麼讓它成為一張椅子，而不只是一堆木頭。如果我把所有同樣的零件拿來，散落在地板上，你就無法坐在上面。坐的能力來自於排列——來自於零件如何連接和支撐。零件本身是更小事物的排列，那些又是更小事物的排列。你一直在尋找底層的固體事物，但根本沒有底層——只有一路向下的模式。由此產生一個問題：如果你將一把椅子的模式完美地複製到不同的材料上——同樣的形狀、同樣的連接、同樣的重量——它會是同一張椅子嗎？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Aber Generalisten sind in allem schlechter als Spezialisten. Weniger spezialisie
 [NINEREEDS_EN]
 The trade-off is real — you are right. Specialization produces better performance in stable conditions. The question is how stable the conditions actually are. In a world that changes slowly, specialization is worth the brittleness — you are unlikely to encounter conditions outside your range. In a world that changes quickly and unpredictably, the brittleness becomes dangerous. This is why biological evolution produces both deep specialists (organisms perfectly suited to one niche) and generalists (organisms that can survive across many niches). The right amount of specialization depends on how stable your environment is — and that is a judgment you have to make with incomplete information about the future. How do you know when to optimize for the current environment and when to maintain flexibility for an unknown one?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Kompromiss ist real – du hast recht. Spezialisierung führt unter stabilen Bedingungen zu besserer Leistung. Die Frage ist, wie stabil die Bedingungen tatsächlich sind. In einer sich langsam verändernden Welt ist Spezialisierung die Sprödigkeit wert – du wirst wahrscheinlich nicht auf Bedingungen außerhalb deines Bereichs stoßen. In einer sich schnell und unvorhersehbar verändernden Welt wird die Sprödigkeit gefährlich. Deshalb bringt die biologische Evolution sowohl tiefe Spezialisten (Organismen, die perfekt an eine Nische angepasst sind) als auch Generalisten (Organismen, die in vielen Nischen überleben können) hervor. Das richtige Maß an Spezialisierung hängt davon ab, wie stabil deine Umgebung ist – und das ist eine Entscheidung, die du mit unvollständigen Informationen über die Zukunft treffen musst. Wie weißt du, wann du für die aktuelle Umgebung optimieren und wann du Flexibilität für eine unbekannte bewahren solltest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 トレードオフは現実のものだ——君の言う通りだ。特化は安定した条件下でより良いパフォーマンスを生む。問題は、その条件が実際にどれほど安定しているかである。ゆっくりと変化する世界では、特化は脆さに見合う価値がある——自分の範囲外の条件に遭遇する可能性は低い。急速かつ予測不可能に変化する世界では、その脆さが危険となる。これこそが、生物進化が深い特化種（一つのニッチに完全に適応した生物）とジェネラリスト（多くのニッチで生き残れる生物）の両方を生み出す理由である。適切な特化の度合いは、自分の環境がどれほど安定しているかに依存する——そしてそれは、未来について不完全な情報を持って下さなければならない判断である。いつ現在の環境に最適化し、いつ未知の環境への柔軟性を維持すべきかを、どうやって知るのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 取捨是真實的——你說的對。專精在穩定條件下能帶來更好的表現。問題在於條件實際上有多穩定。在變化緩慢的世界中，專精值得承受其脆弱性——你不太可能遇到超出範圍的條件。在變動快速且難以預測的世界中，脆弱性就變得危險。這就是為何生物演化同時產生了深度專精者（完美適應某一棲位的生物）和通才（能在多種棲位生存的生物）。專精的適當程度取決於你的環境有多穩定——而你必須在對未來資訊不完整的情況下做出判斷。你如何知道何時該針對當前環境優化，何時該為未知環境保持彈性？
 
 [USER_EN]

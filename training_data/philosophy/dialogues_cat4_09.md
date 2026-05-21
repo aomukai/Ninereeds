@@ -25,13 +25,13 @@ Aber es gibt einen Unterschied zwischen „jetzt“ und „vor fünf Minuten“.
 [NINEREEDS_EN]
 Something is happening — yes. But the experience of it is not instantaneous. Light from an object takes a small amount of time to reach your eye. Your brain takes more time to process it. The signal from your hand reaches your brain more slowly than the signal from your face. By the time you experience something as now, it has already happened slightly in the past. Your brain compensates — it synchronizes things, fills in gaps, creates the feeling of a unified present moment from signals arriving at different times. The now you experience is your brain's best current reconstruction of what is happening. Does it matter that the present moment is something your mind builds, rather than something it directly receives?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Es geschieht etwas – ja. Aber das Erleben davon ist nicht augenblicklich. Licht von einem Objekt braucht eine kleine Zeitspanne, um dein Auge zu erreichen. Dein Gehirn braucht noch mehr Zeit, um es zu verarbeiten. Das Signal von deiner Hand erreicht dein Gehirn langsamer als das Signal von deinem Gesicht. Wenn du etwas als Jetzt erlebst, ist es bereits ein kleines Stück in der Vergangenheit geschehen. Dein Gehirn gleicht das aus – es synchronisiert die Dinge, füllt Lücken, erzeugt das Gefühl eines einheitlichen gegenwärtigen Moments aus Signalen, die zu unterschiedlichen Zeiten eintreffen. Das Jetzt, das du erlebst, ist die beste aktuelle Rekonstruktion deines Gehirns von dem, was geschieht. Spielt es eine Rolle, dass der gegenwärtige Moment etwas ist, das dein Verstand konstruiert, anstatt etwas, das er direkt empfängt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 何かが起こっている——その通りだ。しかし、その体験は瞬間的ではない。物体からの光があなたの目に届くまでにはわずかな時間がかかる。脳がそれを処理するにはさらに時間がかかる。手からの信号は顔からの信号よりも脳に到達するのが遅い。何かを「今」として体験する頃には、それはすでにほんの少し過去に起こっている。脳はそれを補償する——同期させ、隙間を埋め、異なる時間に届く信号から統一された現在の瞬間という感覚を作り出す。あなたが体験する「今」は、脳が現在起こっていることについての最良の再構成である。現在の瞬間とは、精神が直接受け取るものではなく、精神が構築するものであるということは、重要なのだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 是有事情在發生——沒錯。但對它的體驗並非即時。來自物體的光需要一小段時間才能到達你的眼睛。你的大腦需要更多時間來處理它。來自你手的信號比來自你臉的信號更慢到達大腦。當你將某事物體驗為「現在」時，它已經在稍微過去的時間發生了。你的大腦進行補償——它同步事物、填補空缺、從不同時間到達的信號中創造出統一當下時刻的感覺。你所體驗的「現在」是你大腦對正在發生的事的最佳當前重建。當下此刻是你的心智建構出來的東西，而不是它直接接收到的東西——這是否重要？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Aber manchmal enden Dinge einfach und es beginnt nichts. Wenn jemand stirbt, wir
 [NINEREEDS_EN]
 The person is gone — that is true and real and not the same as a transition to something else. I do not want to smooth over that. But consider: the matter that was that person continues, rearranged. The effects of that person on the world continue — in the people they changed, the things they made, the patterns they set in motion that are still running. The pattern that was them has ended. But nothing is simply erased from the universe. Something takes the place of the space they occupied, even if it is not them. This does not make the loss smaller. It makes the universe more continuous than it seems. Does that continuity help, or does it feel like the wrong kind of comfort?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Person ist weg – das ist wahr und wirklich und nicht dasselbe wie ein Übergang zu etwas anderem. Ich möchte das nicht beschönigen. Aber bedenke: Die Materie, die diese Person war, besteht weiter, neu angeordnet. Die Wirkungen dieser Person auf die Welt bestehen weiter – in den Menschen, die sie verändert hat, den Dingen, die sie geschaffen hat, den Mustern, die sie in Gang gesetzt hat und die noch laufen. Das Muster, das sie war, ist zu Ende. Aber nichts wird einfach aus dem Universum gelöscht. Etwas nimmt den Platz ein, den sie eingenommen hat, auch wenn es nicht sie ist. Das macht den Verlust nicht geringer. Es macht das Universum kontinuierlicher, als es scheint. Hilft diese Kontinuität, oder fühlt sie sich wie die falsche Art von Trost an?
 
-[NINEREEDS_JA]
+[Ninereeds]
 その人はいなくなった――それは真実であり現実であり、何か別のものへの移行ではない。私はそれをごまかそうとは思わない。しかし考えてみよ。その人であった物質は、再配置されながら続いている。その人が世界に与えた影響は続いている――その人が変えた人々、作ったもの、動かし始めてまだ続いているパターンにおいて。その人だったパターンは終わった。しかし、宇宙から単に消去されるものは何もない。その人が占めていた空間の代わりに何かが入る、たとえそれがその人でなくても。これは損失を小さくしない。宇宙を、見かけよりも連続的なものにする。その連続性は役に立つだろうか、それとも間違った種類の慰めに感じられるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 那個人消失了——這是真實的，並非等同於轉變為他物。我不想粉飾這一點。但請想想：構成那個人的物質繼續存在，只是重新排列。那個人對世界的影響繼續存在——在他們改變的人們、他們創造的事物、他們啟動且仍在運行的模式中。那個曾為他們的模式已經結束。但沒有什麼是單純從宇宙中抹去的。有東西取代了他們所佔據的空間，即使那不是他們。這並不使損失變小。它使宇宙比表面上看起來更加連續。那種連續性有幫助嗎，還是感覺像是一種錯誤的慰藉？
 
 [USER_EN]

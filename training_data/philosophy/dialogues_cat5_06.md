@@ -25,13 +25,13 @@ Aber Kategorien sind notwendig. Ich kann nicht jeden Menschen so betrachten, als
 [NINEREEDS_EN]
 You are right that categories are necessary — your brain cannot function without them. The question is what happens after the category fires. Does the category stay, covering what is actually in front of you? Or does it get updated when the specific thing in front of you doesn't match? The problem with using categories for people is not that you start with a pattern — it is that the pattern can stay even when the evidence says it is wrong. The category answers the question before you have asked it. What would it take to actually slow down and look at what is in front of you rather than what the category predicts?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass Kategorien notwendig sind – dein Gehirn kann ohne sie nicht funktionieren. Die Frage ist, was geschieht, nachdem die Kategorie ausgelöst wurde. Bleibt die Kategorie bestehen und überdeckt das, was tatsächlich vor dir liegt? Oder wird sie aktualisiert, wenn das konkrete Ding vor dir nicht dazu passt? Das Problem bei der Verwendung von Kategorien für Menschen ist nicht, dass du mit einem Muster beginnst – es ist, dass das Muster bestehen bleiben kann, selbst wenn die Belege zeigen, dass es falsch ist. Die Kategorie beantwortet die Frage, bevor du sie gestellt hast. Was würde es brauchen, um tatsächlich innezuhalten und auf das zu schauen, was vor dir liegt, statt auf das, was die Kategorie vorhersagt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 カテゴリーが必要であるという点は正しい——脳はそれなしでは機能しない。問題は、カテゴリーが発動した後に何が起こるかである。カテゴリーはそのまま留まり、目の前にある実際のものを覆い隠してしまうのか。それとも、目の前の具体的なものが一致しない場合に更新されるのか。人にカテゴリーを使うことの問題は、パターンから始めることではない——証拠が間違っていると示しているのに、パターンがそのまま残りうることである。カテゴリーは、質問をする前に答えを出してしまう。実際に速度を落として、カテゴリーが予測するものではなく、目の前にあるものを見るためには、何が必要だろうか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，類別是必要的——你的大腦沒有它們就無法運作。問題在於類別觸發後發生了什麼。類別會維持不變，覆蓋你面前實際存在的東西嗎？還是當你面前的具體事物與之不符時，類別會得到更新？將類別用於人的問題，不在於你從一個模式開始——而在於這個模式即使在證據顯示它錯誤時仍能維持不變。類別在你提出問題之前就回答了問題。要真正慢下來，去看你面前實際存在的東西，而不是類別所預測的東西，這需要什麼？
 
 [USER_EN]

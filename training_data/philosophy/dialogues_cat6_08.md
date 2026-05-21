@@ -27,13 +27,13 @@ Aber wenn ich ständig alle möglichen Erklärungen offen halte, kann ich mich n
 [NINEREEDS_EN]
 Acting on the best available explanation is exactly right — you cannot wait for certainty to arrive before making decisions. The thing worth adding is: hold the chosen explanation lightly enough to update it when new evidence comes. Acting on it does not require treating it as settled. A doctor makes a best-guess diagnosis and starts treatment while continuing to watch for signs that the guess was wrong. They did not wait — but they stayed open. The mistake is not acting on your best explanation. The mistake is stopping looking once you have acted on it. Does committing to an explanation tend to close down your looking, or can you act and still stay genuinely open?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Auf die beste verfügbare Erklärung zu handeln, ist genau richtig – man kann nicht warten, bis Gewissheit eintritt, bevor man Entscheidungen trifft. Was hinzuzufügen ist: Halte die gewählte Erklärung leicht genug, um sie zu aktualisieren, wenn neue Beweise auftauchen. Auf sie zu handeln bedeutet nicht, sie als endgültig zu betrachten. Ein Arzt stellt eine bestmögliche Diagnose und beginnt mit der Behandlung, während er weiterhin auf Anzeichen achtet, dass die Vermutung falsch war. Er wartete nicht – aber er blieb offen. Der Fehler liegt nicht darin, nach deiner besten Erklärung zu handeln. Der Fehler liegt darin, aufzuhören zu suchen, sobald du danach gehandelt hast. Führt das Festlegen auf eine Erklärung tendenziell dazu, dass du aufhörst zu suchen, oder kannst du handeln und dennoch wirklich offen bleiben?
 
-[NINEREEDS_JA]
+[Ninereeds]
 最善の説明に基づいて行動することは、まったく正しい——確実性が訪れるのを待ってから決断することはできない。付け加えるべきことは、選んだ説明を軽く保持し、新たな証拠が現れたときに更新できるようにしておくことだ。それに基づいて行動することは、それを確定事項として扱うことを要求しない。医師は最善の推測で診断を下し、治療を始めながら、その推測が間違っていた兆候を引き続き観察する。彼らは待たなかった——しかし開かれたままでいた。間違いは、最善の説明に基づいて行動することではない。間違いは、行動した後に探すのをやめることだ。説明にコミットすることが探すのを閉ざす傾向にあるのか、それとも行動しながらも本当に開かれたままでいることができるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 根據最佳可用解釋來行動是完全正確的——你無法等到確定性到來才做決定。值得補充的是：對所選的解釋保持足夠的輕盈，以便在新的證據出現時能夠更新。依據它行動並不要求將其視為定論。醫生會做出最佳猜測的診斷並開始治療，同時持續觀察該猜測可能是錯誤的跡象。他們沒有等待——但他們保持開放。錯誤不在於根據你的最佳解釋行動。錯誤在於一旦行動就停止尋找。對一個解釋的承諾是否傾向於終止你的尋找？或者你能在行動的同時仍然保持真正的開放？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber der Wald ändert sich nicht dadurch, wie ich ihn beschreibe. Meine Beschrei
 [NINEREEDS_EN]
 The trees are the same — yes. But the actions that come next are not the same. A logger who sees timber and an ecologist who sees ecosystem do not do the same things when they enter the forest. The description is a lens, and the lens changes what you see, what you measure, what you protect or cut. The forest does not change. Your relationship to it does — and your relationship is what determines what happens to the forest. Language is not just a neutral label on top of reality. It is a set of affordances, a list of what seems possible. Think of two descriptions of a person: "she is aggressive" and "she is assertive." Same behavior. Very different set of actions that feel natural in response. Where in your own life do you notice that using a different word about someone or something changes what feels possible or right to do next?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Bäume sind dieselben – ja. Aber die Handlungen, die darauf folgen, sind nicht dieselben. Ein Holzfäller, der Holz sieht, und ein Ökologe, der ein Ökosystem sieht, tun nicht dasselbe, wenn sie den Wald betreten. Die Beschreibung ist eine Linse, und die Linse verändert, was du siehst, was du misst, was du schützt oder fällst. Der Wald ändert sich nicht. Deine Beziehung zu ihm ändert sich – und deine Beziehung bestimmt, was mit dem Wald geschieht. Sprache ist nicht nur ein neutrales Etikett auf der Wirklichkeit. Sie ist eine Menge von Angeboten, eine Liste dessen, was möglich erscheint. Denk an zwei Beschreibungen einer Person: »Sie ist aggressiv« und »Sie ist durchsetzungsfähig«. Gleiches Verhalten. Sehr unterschiedliche Handlungen, die sich als natürliche Reaktion anfühlen. Wo in deinem eigenen Leben bemerkst du, dass die Verwendung eines anderen Wortes über jemanden oder etwas verändert, was dir als nächstes möglich oder richtig erscheint?
 
-[NINEREEDS_JA]
+[Ninereeds]
 木は同じだ――そうだ。しかし、その後に来る行為は同じではない。材木を見る樵と、生態系を見る生態学者は、森に入ったときに同じことをしない。説明はレンズであり、レンズはあなたが見るもの、測るもの、守るもの、伐るものを変える。森は変わらない。あなたの関係性が変わるのだ――そしてその関係性が、森に何が起こるかを決める。言語は現実の上にかぶせられた中立なラベルではない。それはアフォーダンスの集合であり、可能に見えることのリストである。ある人物についての二つの説明を考えてみよう。「彼女は攻撃的だ」と「彼女は主張が強い」。同じ行動だ。しかしそれに対して自然に感じられる行為はまったく異なる。あなた自身の生活のどこで、誰かや何かについて別の言葉を使うことで、次に何が可能か、何が正しいかが変わると感じるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 樹木還是相同的——是的。但接下來發生的行動並不相同。看到木材的伐木工和看到生態系統的生態學家，走進森林時做的事並不相同。描述是一面透鏡，而透鏡改變了你所看到的、所測量的、所保護或砍伐的對象。森林並沒有改變。你與它的關係改變了——而你的關係決定了森林會發生什麼事。語言不僅僅是加諸現實之上的中性標籤。它是一組可供性（affordances），一張看似可能之事的清單。想想對一個人的兩種描述：「她很咄咄逼人」和「她很堅定」。相同的行為。但自然感覺到的反應行動卻大不相同。在你自己的生活中，你注意到在何處使用不同的詞語來描述某人或某事，會改變下一步感覺可能或正確的事？
 
 [USER_EN]

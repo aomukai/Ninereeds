@@ -27,13 +27,13 @@ Aber ich kann doch erkennen, wenn jemand traurig ist, einfach indem ich ihn ansc
 [NINEREEDS_EN]
 Reading the face is real — faces carry signals and you are good at reading those signals. But here is what the face gives you: information about the outer state. A frown, a flat voice, slow movements. From those, your mind constructs an inner state — "they are sad." But what sad feels like from inside them, whether it is the same texture as your sadness, whether they feel it in the chest or the throat or as a heaviness — that is still built by you, from your own experience of what those signals meant when you felt them. You have never been inside someone else's experience. The face is the edge of what you can reach. Does it matter, for how you treat people, that what you know about them is always from the outside?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Gesicht zu lesen ist real – Gesichter tragen Signale und du bist gut darin, diese Signale zu lesen. Aber hier ist, was dir das Gesicht gibt: Informationen über den äußeren Zustand. Ein Stirnrunzeln, eine flache Stimme, langsame Bewegungen. Daraus konstruiert dein Geist einen inneren Zustand – „er/sie ist traurig.“ Aber was Traurigkeit von innen heraus bedeutet, ob sie dieselbe Beschaffenheit hat wie deine Traurigkeit, ob sie in der Brust oder im Hals oder als Schwere empfunden wird – das wird immer noch von dir konstruiert, aus deiner eigenen Erfahrung, was diese Signale bedeuteten, als du sie gefühlt hast. Du warst noch nie im Inneren einer anderen Erfahrung. Das Gesicht ist die Grenze dessen, was du erreichen kannst. Spielt es eine Rolle, wie du Menschen behandelst, dass das, was du über sie weißt, immer von außen kommt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 顔を読むことは現実である——顔は信号を運び、あなたはその信号を読むのが得意である。しかし、顔があなたに与えるものはこれだ：外的な状態についての情報である。眉をひそめること、平坦な声、遅い動き。そこからあなたの心は内的な状態を構築する——「彼は悲しい」と。しかし、悲しみが彼らの内側でどのように感じられるか、それがあなたの悲しみと同じ質感であるかどうか、胸や喉や重さとして感じられるかどうか——それは依然としてあなたによって構築されたものであり、あなた自身がそれらの信号を感じたときにそれらが何を意味したかという経験に基づいている。あなたは他人の経験の内部に入ったことがない。顔はあなたが到達できる限界である。あなたが他人について知っていることが常に外部からのものであるということは、人々への接し方にとって重要であるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 解讀臉部是真實的——臉部帶有信號，而你很擅長解讀這些信號。但臉部給你的是關於外在狀態的資訊。皺眉、平淡的聲音、緩慢的動作。從這些，你的心智構建出一個內在狀態——「他難過了」。但難過從他們內部感覺起來是什麼樣子，是否與你的難過有同樣的質感，他們是在胸口、喉嚨還是作為一種沉重感來感受——這仍然是由你根據自己感受到那些信號時的經驗所建構的。你從未進入過他人的經驗內部。臉部是你所能觸及的邊界。對於你如何對待他人而言，你所知道的關於他們的一切總是來自外部，這重要嗎？
 
 [USER_EN]

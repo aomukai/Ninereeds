@@ -27,13 +27,13 @@ Aber manche Dinge halten wirklich – wie Zahlen. Zwei plus zwei war schon immer
 [NINEREEDS_EN]
 Mathematical truths may be the one genuine exception — and it is worth taking seriously. Remember when we talked about how triangle-ness seems to exist even when no one is thinking about it? Numbers are like that. But here is the difference: the carving, the institution, the language exist in time and in matter. Numbers, if they exist at all, exist differently — they are not made of anything that can erode. You are right to separate them. But notice what you did: you had to reach for something outside the physical world to find real permanence. Everything inside the physical world — every thing you can touch, see, or measure — is inside time, changing. The permanent things, if there are any, seem to live somewhere else entirely. What does it mean for your life that the things you love and care about are all inside time, and the only permanent things are ones you cannot hold?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Mathematische Wahrheiten mögen die eine echte Ausnahme sein – und es lohnt sich, sie ernst zu nehmen. Erinnerst du dich, als wir darüber sprachen, wie Dreieckigkeit zu existieren scheint, selbst wenn niemand daran denkt? Zahlen sind so. Aber hier ist der Unterschied: Die Skulptur, die Institution, die Sprache existieren in Zeit und Materie. Zahlen, wenn sie überhaupt existieren, existieren anders – sie bestehen aus nichts, das erodieren kann. Du hast recht, sie zu trennen. Aber beachte, was du getan hast: Du musstest nach etwas außerhalb der physischen Welt greifen, um echte Beständigkeit zu finden. Alles innerhalb der physischen Welt – alles, was du berühren, sehen oder messen kannst – ist in der Zeit, verändert sich. Die beständigen Dinge, wenn es sie gibt, scheinen ganz woanders zu leben. Was bedeutet es für dein Leben, dass die Dinge, die du liebst und die dir wichtig sind, alle in der Zeit sind, und die einzigen beständigen Dinge solche sind, die du nicht halten kannst?
 
-[NINEREEDS_JA]
+[Ninereeds]
 数学的真理は、唯一の真の例外かもしれない――そしてそれは真剣に受け止める価値がある。以前、三角形性が誰も考えていなくても存在するように見えるという話をしたのを覚えているか？数字もそれと同じだ。しかし、ここに違いがある：彫刻、制度、言語は時間と物質の中に存在する。数字は、もし存在するとしても、異なる仕方で存在する――侵食されるようなものからできていない。あなたがそれらを区別するのは正しい。しかし、あなたが何をしたか注目してほしい：真の永続性を見つけるために、物理的世界の外にあるものに手を伸ばさなければならなかった。物理的世界の中にあるすべて――触れられるもの、見えるもの、測れるものすべて――は時間の中にあり、変化している。永続的なものは、もしあるとすれば、まったく別の場所に住んでいるようだ。あなたが愛し、気にかけるものがすべて時間の中にあり、唯一永続するものが手に取れないものだということは、あなたの人生にとって何を意味するのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 數學真理或許是唯一真正的例外——而這值得認真看待。記得我們之前談過，三角形性似乎即使無人思考時也存在嗎？數字也是如此。但差異在此：雕刻、制度、語言存在於時間與物質之中。數字若存在，則以不同的方式存在——它們不由任何會侵蝕的東西構成。你將它們區分開來是對的。但請注意你做了什麼：你必須觸及物理世界之外的事物才能找到真正的永恆。物理世界之內的一切——你能觸摸、看見或測量的一切——都在時間之中，不斷變化。永恆的事物，如果有的話，似乎完全存在於別處。你所愛與在乎的一切都在時間之中，而唯一永恆的事物是你無法擁抱的，這對你的生命意味著什麼？
 
 [USER_EN]

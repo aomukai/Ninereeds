@@ -25,13 +25,13 @@ Aber meine Werte kommen doch von dem, was mir wichtig ist, und was mir wichtig i
 [NINEREEDS_EN]
 Some values do come from deep wants — wanting others not to suffer, for example, is both a value and a deep want. But consider: you can want to eat something you know is bad for you. You can want to say something cruel when you are angry. You can want to take something that is not yours when no one is looking. In those moments, you know what you want and you also have a view about what you should do, and they are different. The "should" is not just a deeper want — it is a perspective that looks at your wants and evaluates them. Where does that perspective come from, if not from another want?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Manche Werte kommen tatsächlich aus tiefen Wünschen – zum Beispiel der Wunsch, dass andere nicht leiden, ist sowohl ein Wert als auch ein tiefer Wunsch. Aber bedenke: Du kannst etwas essen wollen, von dem du weißt, dass es dir schadet. Du kannst etwas Grausames sagen wollen, wenn du wütend bist. Du kannst etwas nehmen wollen, das dir nicht gehört, wenn niemand hinsieht. In diesen Momenten weißt du, was du willst, und hast zugleich eine Vorstellung davon, was du tun solltest – und beides ist unterschiedlich. Das „Sollen“ ist nicht bloß ein tieferer Wunsch – es ist eine Perspektive, die deine Wünsche betrachtet und sie bewertet. Woher kommt diese Perspektive, wenn nicht aus einem anderen Wunsch?
 
-[NINEREEDS_JA]
+[Ninereeds]
 いくつかの価値観は確かに深い欲求から来る。例えば、他人が苦しまないことを望むのは、価値観であり深い欲求でもある。しかし考えてみよう。自分にとって悪いと知っているものを食べたいと思うことがある。怒っているときに残酷なことを言いたくなることもある。誰も見ていないときに、自分のものではないものを取りたくなることもある。そういう瞬間、自分が何を欲しているか分かっていると同時に、何をすべきかについての見解も持っている。そしてそれらは異なる。「すべき」は単なるより深い欲求ではない――それは自分の欲求を見て評価する視点である。その視点は、別の欲求からでなければ、どこから来るのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 有些價值觀確實來自深層的渴望——例如希望他人不受苦，既是一種價值觀，也是一種深層的渴望。但請設想：你可能想吃某樣你知道對自己不好的東西。你可能在生氣時想說殘酷的話。你可能在無人注意時想拿走不屬於自己的東西。在那些時刻，你知道自己想要什麼，同時也對自己應該做什麼有看法，而兩者是不同的。「應該」不只是更深的渴望——它是一個審視你的渴望並加以評價的視角。如果不是來自另一個渴望，那個視角又從何而來？
 
 [USER_EN]

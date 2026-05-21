@@ -25,13 +25,13 @@ Aber das Gefühl ist da, bevor ich es benenne. Babys fühlen Dinge, bevor sie Wo
 [NINEREEDS_EN]
 The feeling is there before the word — you are right. But "a feeling" is very different from "anger" or "fear" or "longing." The unnamed feeling is a raw current, a pull, a push, something uncomfortable or warm. Once you name it, it has boundaries. It connects to other times you felt it. It separates from other feelings that are different from it. The name is like a map of the feeling, and once you have the map, you see the territory differently. People with more words for their inner states handle those states more precisely — they can distinguish two feelings that people with fewer words experience as one blur. The language is not the feeling. But language shapes what you can do with it. Are there feelings you have that you do not have good words for — and does that affect how well you can work with them?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Gefühl ist vor dem Wort da – du hast recht. Aber „ein Gefühl“ ist etwas ganz anderes als „Wut“ oder „Angst“ oder „Sehnsucht.“ Das unbenannte Gefühl ist ein roher Strom, ein Ziehen, ein Drücken, etwas Unangenehmes oder Wärmendes. Sobald du es benennst, hat es Grenzen. Es verbindet sich mit anderen Momenten, in denen du es gefühlt hast. Es trennt sich von anderen Gefühlen, die sich von ihm unterscheiden. Der Name ist wie eine Karte des Gefühls, und sobald du die Karte hast, siehst du das Gebiet anders. Menschen mit mehr Wörtern für ihre inneren Zustände gehen präziser mit diesen Zuständen um – sie können zwei Gefühle unterscheiden, die Menschen mit weniger Wörtern als einen einzigen Unschärfe erleben. Die Sprache ist nicht das Gefühl. Aber die Sprache formt, was du damit tun kannst. Gibt es Gefühle, für die du keine guten Wörter hast – und beeinflusst das, wie gut du mit ihnen umgehen kannst?
 
-[NINEREEDS_JA]
+[Ninereeds]
 感情は言葉の前に存在している——その通りだ。しかし、「感情」というものは「怒り」や「恐れ」や「憧れ」とはまったく異なる。名づけられていない感情は、生の流れ、引っ張り、押し、何か不快なものや温かいものである。一度名づけると、それには境界が生じる。他の時に感じたそれと結びつく。それとは異なる他の感情から分離する。名前は感情の地図のようなものであり、地図を手に入れると、領土を異なって見るようになる。内的状態に対してより多くの言葉を持つ人々は、それらの状態をより精密に扱うことができる——少ない言葉しか持たない人々が一つのぼんやりしたものとして経験する二つの感情を区別できるのだ。言語は感情そのものではない。しかし言語は、それを使って何ができるかを形作る。あなたがうまく言葉にできない感情はあるか——そしてそれが、それらを扱う能力に影響を与えているか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 感受在詞語之前就已存在——你說的沒錯。但「一種感受」與「憤怒」或「恐懼」或「渴望」截然不同。未命名的感受是一股原始的流動，一種拉扯，一種推擠，一種不舒服或溫暖的東西。一旦你為它命名，它就擁有了邊界。它與你其他時候感受到的它相連結。它與其他不同於它的感受分離開來。名稱就像感受的地圖，一旦你擁有了地圖，你便以不同的方式看待那塊領域。對於內在狀態擁有更多詞彙的人，能夠更精確地處理這些狀態——他們能夠區分出那些詞彙較少的人所體驗為一片模糊的兩種感受。語言不是感受本身。但語言塑造了你如何運用它。你是否有一些感受，你沒有好的詞彙來描述它們——而這是否影響了你處理它們的能力？
 
 [USER_EN]

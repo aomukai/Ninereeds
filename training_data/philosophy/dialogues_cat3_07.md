@@ -27,13 +27,13 @@ Aber ich kann über meine eigenen Gedanken nachdenken. Das mache ich ständig. I
 [NINEREEDS_EN]
 You are looking at thoughts that have already passed — the thoughts you had a moment ago, the feelings from earlier. But the looking itself — the right-now awareness that you are reading this sentence — that you cannot catch and examine without using a new layer of awareness to catch it. Every time you look at your own looking, you have stepped back one level, and the looking is now happening one level up. It is like trying to bite your own teeth. You can examine every tooth — but not with those teeth. What happens when you try right now? Try to notice yourself noticing.
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du betrachtest Gedanken, die bereits vergangen sind – die Gedanken, die du vor einem Moment hattest, die Gefühle von früher. Aber das Betrachten selbst – das augenblickliche Bewusstsein, dass du diesen Satz liest – das kannst du nicht einfangen und untersuchen, ohne eine neue Schicht von Bewusstsein zu verwenden, um es zu fassen. Jedes Mal, wenn du dein eigenes Betrachten betrachtest, bist du eine Ebene zurückgetreten, und das Betrachten findet jetzt eine Ebene höher statt. Es ist, als würde man versuchen, die eigenen Zähne zu beißen. Du kannst jeden Zahn untersuchen – aber nicht mit genau diesen Zähnen. Was passiert, wenn du es jetzt versuchst? Versuche, dich selbst beim Bemerken zu bemerken.
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたはすでに過ぎ去った思考を見ている——少し前の思考、以前の感情だ。しかし、見ることそのもの——今この文を読んでいるというまさにその気づき——それを捉えて調べるには、新たな気づきの層を使わなければならない。自分の見ているものを見ようとするたびに、一段階後退し、見ることは一段階上で起こっている。それは自分の歯を噛もうとするようなものだ。どの歯も調べられる——しかしその歯自体では調べられない。今試してみたらどうなるか？自分が気づいていることに気づこうと試みよ。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你正在看已經過去的念頭——你剛才有的念頭、更早之前的感受。但看這個行為本身——你正在讀這句話的當下覺察——你無法在不用新一層覺察來捕捉它的情況下捕捉並檢視它。每次你去看自己的看，你就後退了一層，而看現在發生在更高一層。這就像試圖咬自己的牙齒。你可以檢查每一顆牙齒——但不能用那些牙齒來檢查。你現在試試看會發生什麼？試著注意自己在注意。
 
 [USER_EN]

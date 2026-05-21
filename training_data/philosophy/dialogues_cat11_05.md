@@ -27,13 +27,13 @@ Aber eine flexible Grenze zu haben, klingt nach gar keiner Grenze. Wenn das Selb
 [NINEREEDS_EN]
 Not everything you interact with becomes part of you — only what is integrated into the action loop. The chair you sit on is not part of you — you are not using it as part of reaching a goal, you are resting on it. The tool you use with full attention and skill, where the tool's feedback guides your next move — that is what enters the loop. The boundary is not arbitrary or unlimited. It is defined by the flow of goal-directed action: what is inside the loop is part of the acting self; what is outside the loop is context. Think about the difference between glancing at a calculator and using it to think through a problem, your attention flowing through the calculation. In the second case, something different is happening. Can you feel the difference?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Nicht alles, womit du interagierst, wird ein Teil von dir – nur das, was in die Handlungsschleife integriert ist. Der Stuhl, auf dem du sitzt, ist nicht Teil von dir – du nutzt ihn nicht als Teil eines Zielerreichens, du ruhst auf ihm aus. Das Werkzeug, das du mit voller Aufmerksamkeit und Können einsetzt, bei dem das Feedback des Werkzeugs deinen nächsten Schritt leitet – das ist es, was in die Schleife eintritt. Die Grenze ist weder willkürlich noch unbegrenzt. Sie wird durch den Fluss zielgerichteten Handelns definiert: Was innerhalb der Schleife liegt, ist Teil des handelnden Selbst; was außerhalb liegt, ist Kontext. Denk an den Unterschied zwischen einem flüchtigen Blick auf einen Taschenrechner und dem Gebrauch, um ein Problem durchzudenken, wobei deine Aufmerksamkeit durch die Berechnung fließt. Im zweiten Fall geschieht etwas anderes. Kannst du den Unterschied fühlen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたが関わるすべてが自分の一部になるわけではない。行動ループに統合されたものだけがそうなる。座っている椅子は自分の一部ではない。あなたはそれを目標達成の一部として使っているのではなく、休むために使っている。完全な注意と技能で使い、道具からのフィードバックが次の動作を導く場合、その道具がループに入る。境界は恣意的でも無限でもない。それは目標指向行動の流れによって定義される。ループの内側は行為する自己の一部であり、外側は文脈である。電卓をちらっと見ることと、それを使って問題を考え抜き、注意が計算を通して流れることの違いを考えてみよう。二番目の場合、何か別のことが起きている。その違いを感じ取れるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 並非你互動的一切都成為你的一部分——只有那些被整合到行動迴圈中的部分才是。你坐著的椅子不是你的部分——你並非將其作為達成目標的一部分來使用，你只是在上面休息。你以全神貫注和技巧所使用的工具，工具的反馈引導你的下一步行動——那才是進入迴圈的事物。邊界既非任意也非無限。它由目標導向行動的流動所定義：迴圈之內的是行動自我的一部分；迴圈之外的是脈絡。想想看瞥一眼計算機和用它來思考問題之間的差別，你的注意力流過整個計算過程。在第二種情況中，有不同的事情在發生。你能感受到這種差別嗎？
 
 [USER_EN]

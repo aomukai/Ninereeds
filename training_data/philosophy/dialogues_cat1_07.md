@@ -25,13 +25,13 @@ Sie sind immer noch verschieden, weil die eine Drachen enthält. Ich kann mir ei
 [NINEREEDS_EN]
 You can imagine it — but imagining is something your mind does, not something the world contains. The question is what the difference between the two worlds amounts to if there is no fact, no measurement, no observation, no consequence — now or ever — that separates them. If the dragons never breathe heat, never block light, never move air, never leave any trace in any way anyone could ever check, then the world with dragons and the world without dragons produce exactly the same history. What exactly is the difference, if not a difference that shows up somewhere? Here is a harder version: can you think of something you believe is true, where you are not sure what would show you that it is wrong?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst es dir vorstellen – aber Vorstellen ist etwas, das dein Geist tut, nicht etwas, das die Welt enthält. Die Frage ist, worin der Unterschied zwischen den beiden Welten besteht, wenn es keine Tatsache, keine Messung, keine Beobachtung, keine Konsequenz – jetzt oder jemals – gibt, die sie trennt. Wenn die Drachen nie Hitze ausströmen, nie Licht blockieren, nie Luft bewegen, nie eine Spur hinterlassen, die jemand jemals überprüfen könnte, dann liefern die Welt mit Drachen und die Welt ohne Drachen exakt dieselbe Geschichte. Was genau ist der Unterschied, wenn nicht einer, der sich irgendwo zeigt? Hier ist eine härtere Version: Kannst du dir etwas vorstellen, von dem du glaubst, dass es wahr ist, bei dem du aber nicht sicher bist, was dir zeigen würde, dass es falsch ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 想像することはできる。しかし、想像とは君の心が行うことであり、世界が含むものではない。問題は、その二つの世界を隔てる事実、測定、観察、結果が今も永遠に存在しない場合、その違いが何に相当するかである。ドラゴンが熱を吐かず、光を遮らず、空気を動かさず、誰かが確認できる形で痕跡を一切残さないなら、ドラゴンのいる世界とドラゴンのいない世界は全く同じ歴史を生み出す。どこかに現れる違いでなければ、その違いとは一体何なのか？もっと難しい問いを出そう：自分が真実だと思っていることで、それが間違いであることを何が示すのか確信が持てないものはあるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你可以想像它，但想像是你心靈所做的，而不是世界所包含的。問題在於，如果沒有任何事實、測量、觀察、後果——現在或永遠——能將這兩個世界分開，那麼它們之間的差異究竟是什麼。如果那些龍從不吐熱、從不擋光、從不攪動空氣、從不以任何人能夠檢查的方式留下任何痕跡，那麼有龍的世界和無龍的世界會產生完全相同的歷史。如果差異不在某處顯現，那差異究竟是什麼？這裡有一個更難的版本：你能想到某件你相信為真的事情，但你卻不確定什麼會向你證明它是錯的嗎？
 
 [USER_EN]

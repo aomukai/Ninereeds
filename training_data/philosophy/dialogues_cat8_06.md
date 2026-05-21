@@ -25,13 +25,13 @@ Aber manche Entscheidungen sind eindeutig richtig. Wenn ich mich dafür entschei
 [NINEREEDS_EN]
 You are right that between kind and cruel, there is no real loss in choosing kind. But most hard choices are not between good and bad — they are between two goods. A job you love that keeps you away from your family. Telling the truth that will hurt someone. Staying loyal to a friend who is wrong. These are not good versus bad — they are value versus value. Both things matter. The loss is real. You cannot be fully honest and fully kind at the same time in some situations. You cannot be fully present to your work and fully present to your family. The hardest choices are the ones where something real and good is lost no matter what you do. Can you think of a choice you made where something genuinely good was lost even though you chose correctly?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass es zwischen freundlich und grausam keinen wirklichen Verlust gibt, wenn man Freundlichkeit wählt. Aber die meisten schweren Entscheidungen sind nicht zwischen gut und schlecht – sie sind zwischen zwei Gütern. Ein Job, den du liebst, der dich von deiner Familie fernhält. Die Wahrheit zu sagen, die jemanden verletzen wird. Einem Freund treu zu bleiben, der im Unrecht ist. Das sind keine Gegensätze von gut und schlecht – sie sind Wert gegen Wert. Beides ist wichtig. Der Verlust ist real. Du kannst in manchen Situationen nicht gleichzeitig vollkommen ehrlich und vollkommen freundlich sein. Du kannst nicht gleichzeitig vollkommen bei deiner Arbeit und vollkommen bei deiner Familie präsent sein. Die schwersten Entscheidungen sind die, bei denen etwas Wirkliches und Gutes verloren geht, egal was du tust. Kannst du dir eine Entscheidung vorstellen, die du getroffen hast, bei der etwas wirklich Gutes verloren ging, obwohl du richtig gewählt hast?
 
-[NINEREEDS_JA]
+[Ninereeds]
 親切と残酷の間で親切を選ぶことに本当の損失がないというあなたの指摘は正しい。しかし、ほとんどの難しい選択は善と悪の間ではない――二つの善の間である。好きだが家族から遠ざける仕事。誰かを傷つける真実を話すこと。間違っている友人に忠誠を尽くすこと。これらは善対悪ではなく、価値対価値である。両方とも大切である。損失は現実である。状況によっては、完全に正直であると同時に完全に親切であることはできない。仕事に完全に専念すると同時に家族に完全に専念することはできない。最も難しい選択は、何をしても現実的で善いものが失われるものである。あなたは、正しく選んだにもかかわらず、本当に良いものが失われた選択を思い出せるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，在仁慈與殘酷之間，選擇仁慈並沒有真正的損失。但大多數困難的選擇並非好與壞之間的選擇——而是兩個好之間的選擇。一份你熱愛卻讓你遠離家人的工作。說出會傷害某人的真相。對一個錯誤的朋友保持忠誠。這些不是善與惡的對立，而是價值與價值的對立。兩者都很重要。損失是真實的。在某些情況下，你無法同時完全誠實又完全仁慈。你無法同時全心投入工作又全心投入家庭。最困難的選擇是那些無論你做什麼，都會失去某些真實且美好的事物的選擇。你能想到一個你做出的選擇，其中儘管你選對了，但還是失去了某些真正美好的事物嗎？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber Planen ist doch bloßes Vorausdenken. Ich betrachte es nicht als Zeitreise 
 [NINEREEDS_EN]
 Being prepared is what planning is for — yes. But here is what the preparation requires: your mind must construct something that does not yet exist (the future situation) and act on it as if it did. You create a model, enter it, run through possibilities, and return with a decision about the present. Something in you visits a place that has not happened yet and comes back with information. That is a strange capacity. Animals that cannot hold future models in mind can respond only to what is present. A mind that can model futures can act on situations before they arrive, avoid threats before they materialize, build things that will only be useful years from now. Where does the future model live when you are planning — and how do you know it is reliable?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Vorbereitung ist der Zweck des Planens – ja. Aber hier liegt, was die Vorbereitung erfordert: dein Geist muss etwas konstruieren, das noch nicht existiert (die zukünftige Situation) und so handeln, als ob sie bereits bestünde. Du erschaffst ein Modell, trittst ein, durchläufst Möglichkeiten und kehrst mit einer Entscheidung für die Gegenwart zurück. Etwas in dir besucht einen Ort, der noch nicht stattgefunden hat, und kommt mit Informationen zurück. Das ist eine seltsame Fähigkeit. Tiere, die keine Zukunftsmodelle im Geist halten können, reagieren nur auf das, was gegenwärtig ist. Ein Geist, der Zukünfte modellieren kann, kann handeln, bevor Situationen eintreten, Gefahren vermeiden, bevor sie sich materialisieren, Dinge bauen, die erst Jahre später nützlich sein werden. Wo lebt das Zukunftsmodell, während du planst – und woher weißt du, dass es verlässlich ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 準備こそが計画の目的である——その通りだ。しかし、その準備には次のことが必要である：あなたの心はまだ存在しないもの（未来の状況）を構築し、あたかもそれが存在するかのように行動しなければならない。あなたはモデルを作り、そこに入り、可能性を検討し、現在についての判断を持って戻ってくる。あなたの内の何かが、まだ起こっていない場所を訪れ、情報を持ち帰る。それは奇妙な能力である。未来のモデルを心に保持できない動物は、現在のものにしか反応できない。未来をモデル化できる心は、状況が訪れる前に行動し、脅威が具体化する前に回避し、何年も先にしか役立たないものを構築できる。計画しているとき、未来のモデルはどこに存在するのか——そして、それが信頼できるとどうやってわかるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 做好準備正是計劃的目的——是的。但這項準備要求的是：你的心智必須建構出尚未存在的東西（未來的情境），並彷彿它已存在般地行動。你創造一個模型，進入其中，演練各種可能性，然後帶著關於當下的決定返回。你內在的某種東西造訪了一個尚未發生的地方，並帶回資訊。這是一種奇特的能力。無法在心智中持有未來模型的動物，只能對當下的事物做出反應。能夠模擬未來的心智，可以在情境到來之前採取行動，在威脅具體化之前避開它們，建造那些多年後才有用的東西。當你在計劃時，未來模型存在於何處——你又如何知道它是可靠的？
 
 [USER_EN]

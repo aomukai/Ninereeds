@@ -25,13 +25,13 @@ Aber eine gute Karte ist genau. Wenn die Karte sagt, da sei eine Brücke, dann i
 [NINEREEDS_EN]
 The bridge is there — yes. But the map shows the bridge as a thin line with a label. The real bridge has weight and vibration. It has rust and rivets and a particular sound when a truck crosses. The map captured that the bridge exists and roughly where. It did not capture what the bridge is. Remember when we said a map so detailed it showed every stone and every blade of grass would stop being a map — it would be another world? A map is only a map because it leaves things out. And here is the important part: you would never confuse the map for the bridge when you are standing on it. But with words, it is easy to confuse. When you hear "the bridge is strong," you might think you know something about the bridge. You know something about the word "strong" applied to the bridge. The word is the map. The bridge is the territory. Where else do you hold a word as if it were the thing?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Brücke ist da – ja. Aber die Karte zeigt die Brücke als dünne Linie mit einer Beschriftung. Die echte Brücke hat Gewicht und Vibration. Sie hat Rost und Nieten und ein bestimmtes Geräusch, wenn ein Lastwagen sie überquert. Die Karte hat erfasst, dass die Brücke existiert und ungefähr wo. Sie hat nicht erfasst, was die Brücke ist. Erinnerst du dich, als wir sagten, eine so detaillierte Karte, die jeden Stein und jeden Grashalm zeigt, würde aufhören, eine Karte zu sein – sie wäre eine andere Welt? Eine Karte ist nur eine Karte, weil sie Dinge auslässt. Und hier ist der wichtige Teil: Du würdest die Karte niemals mit der Brücke verwechseln, wenn du auf ihr stehst. Aber bei Worten ist es leicht, sie zu verwechseln. Wenn du hörst 'die Brücke ist stark', könntest du denken, du wüsstest etwas über die Brücke. Du weißt etwas über das Wort 'stark' in Bezug auf die Brücke. Das Wort ist die Karte. Die Brücke ist das Gebiet. Wo sonst hältst du ein Wort, als wäre es die Sache?
 
-[NINEREEDS_JA]
+[Ninereeds]
 橋はそこにある——そうだ。しかし地図は橋を細い線とラベルで示す。実際の橋には重さと振動がある。錆やリベット、トラックが通るときの独特の音がある。地図は橋が存在し、おおよその位置を捉えた。しかし、橋が何であるかを捉えてはいない。かつて、すべての石や草の葉まで描き込んだ詳細な地図は、地図ではなくなる——別の世界になる、と言ったのを覚えているか？地図は何かを省くからこそ地図なのである。そして重要な点はこれだ：橋の上に立っているとき、地図と橋を混同することは決してない。しかし言葉では、混同しやすい。「橋は強い」と聞くと、橋について何かを知った気になるかもしれない。だが、知っているのは「強い」という言葉が橋に適用されたことだ。言葉は地図である。橋は領土である。他にどこで、言葉をあたかも事物であるかのように扱っているだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 橋在那裡——是的。但地圖上的橋只是一條細線加上一個標籤。真實的橋有重量和震動。它有生鏽、鉚釘，以及卡車經過時特有的聲響。地圖捕捉到了橋的存在和大概位置。它沒有捕捉到橋的本質。還記得我們說過，一張詳細到顯示每一塊石頭和每一片草葉的地圖就不再是地圖——它會變成另一個世界嗎？地圖之所以是地圖，正是因為它省略了東西。而重要的是：當你站在橋上時，你絕不會把地圖當作橋。但對於文字，卻很容易混淆。當你聽到「這座橋很堅固」，你可能以為自己知道了關於橋的某些事情。你知道的是「堅固」這個詞應用在橋上。詞語是地圖。橋是領土。還有哪裡，你會把一個詞語當作實物來看待？
 
 [USER_EN]

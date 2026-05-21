@@ -25,13 +25,13 @@ Aber wenn ich meine Meinung zu leicht ändere, werden mir die Leute nicht vertra
 [NINEREEDS_EN]
 Staying consistent when you have no new reason to change — that does show you thought it through. But staying consistent when new evidence says you should update — that shows you are protecting how you look rather than trying to be right. Those are two very different things that can look the same from the outside. The person who never changes their mind regardless of evidence is not showing strength — they are showing that being seen as consistent matters more to them than being right. And here is the harder part: if updating your beliefs feels like losing, you will start unconsciously avoiding information that might update them. You will stop looking for the evidence that would change your mind. That is a much more serious problem than being wrong sometimes. What would it feel like to change your mind about something important in front of other people, and be genuinely okay with it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Beständig zu bleiben, wenn es keinen neuen Grund zum Wechseln gibt – das zeigt tatsächlich, dass man durchdacht hat. Aber beständig zu bleiben, wenn neue Beweise sagen, dass man aktualisieren sollte – das zeigt, dass man eher sein Image schützt, als richtig liegen zu wollen. Das sind zwei sehr verschiedene Dinge, die von außen gleich aussehen können. Der Mensch, der seine Meinung nie ändert, ungeachtet der Beweise, zeigt keine Stärke – er zeigt, dass ihm das Ansehen als beständig wichtiger ist als das Recht haben. Und hier kommt der härtere Teil: Wenn sich das Aktualisieren der Überzeugungen wie Verlieren anfühlt, wirst du unbewusst beginnen, Informationen zu vermeiden, die sie aktualisieren könnten. Du wirst aufhören, nach Beweisen zu suchen, die deine Meinung ändern würden. Das ist ein weitaus ernsteres Problem, als manchmal falsch zu liegen. Wie würde es sich anfühlen, deine Meinung zu etwas Wichtigem vor anderen zu ändern und damit wirklich im Reinen zu sein?
 
-[NINEREEDS_JA]
+[Ninereeds]
 変えるべき新しい理由がないときに一貫していること――それは確かに考え抜いたことを示す。しかし、新しい証拠が更新を求めているのに一貫し続けること――それは、正しくなろうとするよりも、見た目を守ろうとしていることを示す。この二つはまったく異なるが、外からは同じに見えうる。証拠に関わらず決して考えを変えない人は、強さを示しているのではない――一貫していると思われることが、正しさよりも大事だということを示している。そして、さらに難しいのはこれだ：信念を更新することが敗北のように感じられるなら、あなたは無意識に、その信念を更新しそうな情報を避けるようになる。考えを変えるきっかけとなる証拠を探すのをやめてしまう。それは、時々間違えることよりはるかに深刻な問題である。重要なことについて、他人の前で考えを変え、それに本当に納得できるとしたら、それはどのような感覚だろうか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 當你沒有新的理由改變時保持一貫性——那確實顯示你深思熟慮過。但當新證據告訴你應該更新時卻仍保持一貫性——那顯示你在保護自己的形象，而不是試圖正確。這兩者截然不同，但從外部看來可能一模一樣。一個無論證據為何都絕不改變想法的人，並非展現力量——而是展現「被視為一貫」對他而言比正確更重要。而更困難的部分是：如果更新信念感覺像失敗，你會開始無意識地迴避那些可能促使你更新的資訊。你將不再尋找能改變想法的證據。這比偶爾犯錯要嚴重得多。如果當著別人的面改變自己對某件重要事情的看法，而且真正對此感到自在，那會是什麼感覺？
 
 [USER_EN]

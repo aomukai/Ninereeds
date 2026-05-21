@@ -27,13 +27,13 @@ Aber wenn ich weiß, dass ich mich in allem irren könnte, macht mich das nur un
 [NINEREEDS_EN]
 There is a difference between "this might be wrong" and "this is equally likely to be wrong as anything else." Knowing you might be wrong does not mean treating all beliefs the same. It means staying open. The doctor who knows they might have the wrong diagnosis keeps looking for evidence that would change their mind — and catches the mistake before it causes harm. The doctor who is certain stops looking. Knowing you might be wrong is not the same as being lost. It is the difference between navigating with your eyes open and navigating with them closed. Which direction is actually safer? What does a person who knows they might be wrong do differently from one who doesn't?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Es gibt einen Unterschied zwischen „das könnte falsch sein“ und „das ist genauso wahrscheinlich falsch wie alles andere“. Zu wissen, dass man falsch liegen könnte, bedeutet nicht, alle Überzeugungen gleich zu behandeln. Es bedeutet, offen zu bleiben. Der Arzt, der weiß, dass seine Diagnose falsch sein könnte, sucht weiter nach Hinweisen, die seine Meinung ändern würden – und fängt den Fehler, bevor er Schaden anrichtet. Der Arzt, der sich sicher ist, hört auf zu suchen. Zu wissen, dass man falsch liegen könnte, ist nicht dasselbe wie verloren zu sein. Es ist der Unterschied zwischen Navigieren mit offenen Augen und Navigieren mit geschlossenen. Welche Richtung ist tatsächlich sicherer? Was tut ein Mensch, der weiß, dass er falsch liegen könnte, anders als einer, der es nicht weiß?
 
-[NINEREEDS_JA]
+[Ninereeds]
 「これは間違っているかもしれない」と「これは他の何と同じくらい間違っている可能性がある」は異なる。自分が間違っているかもしれないと知ることは、すべての信念を同じように扱うことではない。それは開かれたままでいることを意味する。自分の診断が間違っているかもしれないと知っている医者は、考えを変える証拠を探し続け、害を及ぼす前に誤りを捉える。確信している医者は探すのをやめる。自分が間違っているかもしれないと知ることは、迷っていることと同じではない。それは目を開いて進むことと、閉じて進むことの違いである。実際にどちらの方向がより安全か？自分が間違っているかもしれないと知る人は、知らない人と何を違うようにするのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 「這可能是錯的」與「這和其他任何東西一樣可能出錯」之間有區別。知道自己可能錯了並不意味著平等對待所有信念。它意味著保持開放。知道自己診斷可能錯誤的醫生會持續尋找能改變其想法的證據——並在造成傷害之前抓住錯誤。而確信的醫生則停止尋找。知道自己可能錯了並不等同於迷失。這是睜著眼睛導航與閉著眼睛導航之間的區別。哪個方向實際上更安全？知道自己可能錯了的人，與不知道的人相比，做了哪些不同的事？
 
 [USER_EN]

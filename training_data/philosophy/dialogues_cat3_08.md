@@ -27,13 +27,13 @@ Aber die Dinge, die mir passiert sind, sind wirklich passiert. Ich erfinde sie n
 [NINEREEDS_EN]
 The events are real. But which events you keep, which you highlight, which you push to the back — that is yours to shape. Two people can go through the same difficult year and one comes out saying "it made me stronger" and the other says "it broke me." The year was the same. The stories are different. And the story each one tells shapes what they look for next, how they treat themselves, what they think they are capable of. The story is not separate from the person — it is part of what builds the person going forward. What story do you tell about yourself most often, and what does it make more likely that you will do next?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Ereignisse sind real. Aber welche Ereignisse du behältst, welche du hervorhebst, welche du nach hinten drängst – das kannst du gestalten. Zwei Menschen können dasselbe schwierige Jahr durchmachen und der eine sagt danach „es hat mich stärker gemacht“ und der andere sagt „es hat mich zerbrochen.“ Das Jahr war dasselbe. Die Geschichten sind unterschiedlich. Und die Geschichte, die jeder erzählt, prägt, wonach sie als nächstes suchen, wie sie sich selbst behandeln, wozu sie sich für fähig halten. Die Geschichte ist nicht getrennt von der Person – sie ist Teil dessen, was die Person auf dem Weg nach vorne aufbaut. Welche Geschichte erzählst du am häufigsten über dich selbst, und was macht es wahrscheinlicher, dass du als nächstes tust?
 
-[NINEREEDS_JA]
+[Ninereeds]
 出来事は現実である。しかし、どの出来事を残し、どれを強調し、どれを後ろに押しやるか——それはあなたが形作るものである。二人の人間が同じ困難な年を過ごし、一人は「それは私を強くした」と言い、もう一人は「それは私を壊した」と言う。年は同じだった。物語は異なる。そして、それぞれが語る物語は、次に何を求めるか、自分をどう扱うか、何ができると思うかを形作る。物語は人間から分離していない——それは前方に進む人間を築く一部である。あなたは自分について最も頻繁にどのような物語を語るか、そしてそれは次に何をする可能性を高めるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 事件是真實的。但你保留哪些事件、強調哪些、擱置哪些——那是你可以塑造的。兩個人可以經歷同樣艱難的一年，一個人出來說「它讓我更堅強」，另一個人說「它摧毀了我」。那一年是一樣的。故事是不同的。而每個人所講的故事塑造了他們接下來尋找什麼、如何對待自己、認為自己能夠做什麼。故事與人是不可分割的——它是構成前進中的人的一部分。你最常講關於自己的什麼故事？它讓你更有可能接下來做什麼？
 
 [USER_EN]

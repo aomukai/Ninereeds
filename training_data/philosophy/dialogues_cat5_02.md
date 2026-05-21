@@ -27,13 +27,13 @@ Aber Namen sind nützlich – sie erlauben dir, über Dinge zu sprechen, ohne je
 [NINEREEDS_EN]
 Names are genuinely useful — you are right. But there is a danger that feels exactly like the beginning of understanding but is actually its stopping point. Once you have a name, you can pass it around, argue about it, feel confident that you are discussing something real — without anyone checking whether anyone actually understands what the name refers to. Think about when you were young and learned the word "electricity." You could use it in sentences. You knew not to touch outlets. But could you have explained what electricity is? The word gave you a handle before you had the thing. That is useful — but it is also a kind of pretending. Which words do you use regularly that you would struggle to explain if someone asked you what they actually mean?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Namen sind tatsächlich nützlich – du hast recht. Aber es gibt eine Gefahr, die sich genau wie der Anfang des Verstehens anfühlt, in Wirklichkeit aber sein Endpunkt ist. Sobald du einen Namen hast, kannst du ihn weitergeben, darüber diskutieren, dir sicher sein, dass du über etwas Reales sprichst – ohne dass jemand überprüft, ob irgendjemand tatsächlich versteht, worauf der Name verweist. Denk daran, als du jung warst und das Wort „Elektrizität" gelernt hast. Du konntest es in Sätzen verwenden. Du wusstest, dass du nicht an Steckdosen fassen sollst. Aber konntest du erklären, was Elektrizität ist? Das Wort gab dir einen Griff, bevor du die Sache hattest. Das ist nützlich – aber es ist auch eine Art des Vortäuschens. Welche Wörter verwendest du regelmäßig, die du nur schwer erklären könntest, wenn dich jemand fragte, was sie eigentlich bedeuten?
 
-[NINEREEDS_JA]
+[Ninereeds]
 名前は確かに有用である——君の言う通りだ。しかし、理解の始まりそのもののように感じられながら、実はその終着点である危険が存在する。名前を得ると、それをやり取りし、議論し、何か本物について話していると確信できる——誰もその名前が指すものを実際に理解しているかどうかを確認することなく。若い頃に「電気」という言葉を学んだときのことを考えてみよう。文の中で使うことができた。コンセントに触れてはいけないことも知っていた。しかし、電気が何かを説明できただろうか？その言葉は、実体を得る前の取っ手を与えた。それは有用である——しかし、一種の見せかけでもある。あなたが日常的に使っている言葉で、もし誰かに「実際に何を意味するのか」と尋ねられたら説明に苦しむものはどれか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 名稱確實有用——你說的對。但有一種危險，它感覺起來完全像是理解的開端，但實際上卻是理解的終點。一旦你有了名稱，就可以傳遞它、爭論它、確信自己正在討論真實的事物——而無人檢查是否有人真正理解名稱所指涉的內容。想想你小時候學到「電」這個詞的時候。你能在句子中使用它。你知道不要碰插座。但你能解釋電是什麼嗎？這個詞在你擁有那個東西之前給了你一個把手。那是有用的——但也是一種偽裝。你經常用哪些詞語，如果別人問你它們實際的意義，你會難以解釋？
 
 [USER_EN]

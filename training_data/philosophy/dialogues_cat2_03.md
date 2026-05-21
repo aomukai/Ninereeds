@@ -25,13 +25,13 @@ Aber wenn ich alles anzweifle, kann ich in nichts handeln. Ich brauche feste Üb
 [NINEREEDS_EN]
 You are right that you cannot doubt and act at the same time about the same thing. When you cross the street, you need to commit — not stand in the road questioning whether cars are real. But there is a difference between doubting everything at once, which is paralyzing and pointless, and holding your beliefs lightly, which is how learning works. Holding something lightly means: I act on this because it is my best current answer, and I will update it if I find something better. That is different from gripping a belief so tightly that no new evidence can get in. Can you think of a time when being willing to be wrong got you to a better answer faster than insisting you were right?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass man nicht gleichzeitig zweifeln und handeln kann, wenn es um dieselbe Sache geht. Wenn du die Straße überquerst, musst du dich entscheiden – nicht auf der Straße stehen und in Frage stellen, ob Autos echt sind. Aber es gibt einen Unterschied zwischen allem auf einmal zu zweifeln, was lähmend und sinnlos ist, und seinen Überzeugungen leicht zu halten, wovon Lernen lebt. Etwas leicht zu halten bedeutet: Ich handle danach, weil es meine beste derzeitige Antwort ist, und ich werde sie aktualisieren, wenn ich etwas Besseres finde. Das ist anders, als eine Überzeugung so fest zu umklammern, dass keine neue Information mehr eindringen kann. Fällt dir eine Situation ein, in der die Bereitschaft, sich zu irren, schneller zu einer besseren Antwort führte, als darauf zu bestehen, recht zu haben?
 
-[NINEREEDS_JA]
+[Ninereeds]
 同じことについて、同時に疑いと行動はできないというのはその通りだ。道を渡るときは、決断しなければならない——車が実在するかどうか疑いながら道に立っているわけにはいかない。しかし、すべてを一度に疑うこと——それは麻痺させ無意味である——と、信念を軽く持つこと——それが学習の仕組みである——との間には違いがある。軽く持つとはこういうことだ：これが現時点での最善の答えだからそれに基づいて行動し、より良いものを見つけたら更新する。それは、新しい証拠が入り込めないほどに信念を固く握りしめるのとは異なる。自分が間違っているかもしれないという姿勢が、正しいと主張し続けるよりも速くより良い答えに導いた経験を思い出せるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，對於同一件事，你無法同時懷疑和行動。過馬路時，你需要下定決心——而不是站在路上質疑車子是否真實。但一次懷疑一切——那是癱瘓且無意義的——與輕握你的信念——這是學習的運作方式——之間有區別。輕握的意思是：我據此行動，因為這是我目前的最佳答案，如果找到更好的，我就更新它。這與緊緊抓住一個信念、不讓任何新證據進入是不同的。你能想到一個時刻嗎？當你願意犯錯，反而比堅持自己是對的更快速得到更好的答案。
 
 [USER_EN]

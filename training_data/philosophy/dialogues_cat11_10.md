@@ -27,13 +27,13 @@ Aber ich treffe meine eigenen Entscheidungen. Nur weil ich mich mit Menschen umg
 [NINEREEDS_EN]
 Your will is real — and you can resist specific pressures. But resistance requires noticing, and noticing requires that something already feels different enough from your current state to flag. The gradual shifts — the slow normalization of what you see and hear and value every day — happen below the threshold of deliberate resistance. You can choose not to do what someone asks. You cannot always notice that you have started to want what they want, to see the world as they see it, to dismiss what they dismiss. The most effective influence is the influence you do not notice as influence. What environment would you need to choose if you wanted to protect or change what you value?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Dein Wille ist real – und du kannst spezifischem Druck widerstehen. Doch Widerstand erfordert Wahrnehmung, und Wahrnehmung setzt voraus, dass etwas sich bereits ausreichend von deinem gegenwärtigen Zustand unterscheidet, um aufzufallen. Die allmählichen Verschiebungen – die langsame Normalisierung dessen, was du täglich siehst, hörst und wertschätzt – geschehen unterhalb der Schwelle bewussten Widerstands. Du kannst wählen, nicht zu tun, was jemand verlangt. Du kannst nicht immer bemerken, dass du angefangen hast, zu wollen, was sie wollen, die Welt so zu sehen, wie sie sie sehen, zu verwerfen, was sie verwerfen. Der wirksamste Einfluss ist der Einfluss, den du nicht als Einfluss bemerkst. Welche Umgebung müsstest du wählen, wenn du schützen oder verändern wolltest, was dir wert ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたの意志は本物である——そして特定の圧力には抵抗できる。しかし抵抗には気づきが必要であり、気づきには、すでに現在の状態と十分に異なる何かが存在して、注意を引くことが必要である。漸次的変化——毎日見聞きし、価値を置くもののゆっくりとした正常化——は、意識的な抵抗の閾値を下回って起こる。誰かの要求に応じないことは選べる。しかし、彼らが欲するものを欲し始め、彼らのように世界を見始め、彼らが退けるものを退け始めたことに、常に気づけるわけではない。最も効果的な影響とは、影響として気づかれない影響である。自分が大切にするものを守り、あるいは変えたいのなら、どのような環境を選ぶ必要があるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你的意志是真實的——你可以抵抗特定的壓力。但抵抗需要察覺，而察覺需要某件事物已經與你當前的狀態足夠不同，足以引起注意。那些逐漸的轉變——你每天所見、所聽、所重視的事物慢慢被正常化——發生在刻意抵抗的門檻之下。你可以選擇不照別人的要求去做。但你未必能總是察覺到自己開始想要他們想要的、以他們的方式看世界、輕視他們所輕視的。最有效的影響是你未曾察覺為影響的影響。如果你想要保護或改變你所重視的事物，你需要選擇什麼樣的環境？
 
 [USER_EN]

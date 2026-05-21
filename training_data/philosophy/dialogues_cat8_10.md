@@ -27,13 +27,13 @@ Aber zumindest ist es objektiv, alle gleich zu behandeln. Zu beurteilen, was jed
 [NINEREEDS_EN]
 Sameness is easier to check for bias — that is a real advantage. But consider: a school that gives every student the same textbook and the same classroom is treating them the same. A student who cannot see well gets the same textbook and the same seat in the back. A student who speaks a different language gets the same instruction in a language they do not understand. Sameness of treatment produced very different outcomes, and the outcomes look unfair even though the treatment was identical. The rule that is easier to apply is not always the rule that does what fairness is supposed to do. The question is not "which rule is easier to apply" but "what is fairness actually for?" What do you think fairness is trying to accomplish?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Gleichheit ist leichter auf Voreingenommenheit zu prüfen – das ist ein echter Vorteil. Aber bedenke: Eine Schule, die jedem Schüler dasselbe Lehrbuch und dasselbe Klassenzimmer gibt, behandelt sie gleich. Ein Schüler, der schlecht sieht, bekommt dasselbe Lehrbuch und denselben Platz hinten. Ein Schüler, der eine andere Sprache spricht, bekommt denselben Unterricht in einer Sprache, die er nicht versteht. Gleiche Behandlung führte zu sehr unterschiedlichen Ergebnissen, und die Ergebnisse sehen unfair aus, obwohl die Behandlung identisch war. Die Regel, die leichter anzuwenden ist, ist nicht immer die Regel, die tut, was Fairness tun soll. Die Frage ist nicht, "welche Regel ist leichter anzuwenden?", sondern "wofür ist Fairness eigentlich da?" Was glaubst du, versucht Fairness zu erreichen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 同一性は偏りをチェックしやすい—それは本当の利点である。しかし考えてみよう: すべての生徒に同じ教科書と同じ教室を与える学校は、それらを同じように扱っている。視力の悪い生徒は同じ教科書と後ろの同じ席を得る。異なる言語を話す生徒は、理解できない言語で同じ授業を受ける。同じ扱いが非常に異なる結果を生み、結果は扱いが同一であったにもかかわらず不公平に見える。適用しやすいルールが、公平が本来果たすべきことを果たすルールであるとは限らない。問題は「どのルールが適用しやすいか」ではなく、「公平は実際に何のためのものか」である。あなたは公平が何を達成しようとしていると思うか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 相同性更容易檢查偏見——這是一個真正的優勢。但想想看：一所學校給每個學生同樣的課本和同樣的教室，就是同樣對待他們。視力不好的學生得到同樣的課本和後排同樣的座位。說不同語言的學生得到他們聽不懂的語言的同樣教學。同樣的對待產生了非常不同的結果，而且結果看起來不公平，即使對待是相同的。更容易應用的規則並不總是能做到公平本該做的事。問題不是「哪個規則更容易應用」，而是「公平到底是為了什麼？」你認為公平試圖達成什麼？
 
 [USER_EN]

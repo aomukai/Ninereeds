@@ -25,13 +25,13 @@ Aber eine Karte ist doch immer noch flach. Selbst eine perfekte Karte wäre klei
 [NINEREEDS_EN]
 What if we removed the size difference — what if it was a full-scale map, every stone at its real size, every building the real height? Then you could not fold it. You could not carry it. You could not tell which was the map and which was the city. The only thing that makes a map useful is that it is simpler than the thing it describes. It leaves out what you do not need. This is true for every description, not just maps. A word is a map. "Apple" leaves out which apple, how ripe, what color, what taste. If the word described everything perfectly, you would just have another apple, not a word. Can you think of a description you use every day that only works because it leaves things out?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Was wäre, wenn wir den Größenunterschied aufheben – wenn es eine Karte im Maßstab 1:1 wäre, jeder Stein in seiner tatsächlichen Größe, jedes Gebäude in seiner tatsächlichen Höhe? Dann könntest du sie nicht falten. Du könntest sie nicht tragen. Du könntest nicht unterscheiden, welche die Karte und welche die Stadt ist. Das Einzige, was eine Karte nützlich macht, ist, dass sie einfacher ist als das, was sie beschreibt. Sie lässt das weg, was du nicht brauchst. Das gilt für jede Beschreibung, nicht nur für Karten. Ein Wort ist eine Karte. „Apfel“ lässt aus, welcher Apfel, wie reif, welche Farbe, welcher Geschmack. Wenn das Wort alles perfekt beschriebe, hättest du nur einen weiteren Apfel, kein Wort. Fällt dir eine Beschreibung ein, die du täglich verwendest und die nur funktioniert, weil sie etwas weglässt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 大きさの違いを取り除いたらどうなるか——実物大の地図で、すべての石が実際の大きさ、すべての建物が実際の高さだったら？そうなると、折りたためない。持ち運べない。どちらが地図でどちらが街かを見分けられなくなる。地図を有用にする唯一の理由は、それが描く対象よりも単純であることだ。不要なものを省くのだ。これは地図だけでなく、あらゆる記述に当てはまる。言葉は地図である。「リンゴ」という言葉は、どのリンゴか、どの程度熟しているか、何色か、どんな味かを省く。もし言葉がすべてを完全に記述したなら、それは言葉ではなく、もう一つのリンゴになってしまう。君は、何かを省くことで機能している、日常的に使う記述を考えられるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 如果我們移除大小差異——如果地圖是原始比例，每塊石頭都是真實大小，每棟建築都是真實高度？那麼你無法摺疊它。你無法攜帶它。你無法分辨哪個是地圖，哪個是城市。地圖之所以有用，唯一的原因是它比它所描述的對象更簡單。它省略了你不需要的東西。這不僅適用於地圖，也適用於所有描述。一個詞就是一張地圖。「蘋果」省略了是哪個蘋果、多熟、什麼顏色、什麼味道。如果這個詞完美地描述了所有細節，你只會得到另一個蘋果，而不是一個詞。你能想到一個你每天使用、只因省略了某些東西才有效的描述嗎？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Aber einen Thermostat als etwas zu bezeichnen, das Wärme „will“, ist falsch
 [NINEREEDS_EN]
 Remember when we said the map is not the territory — the map strips things down to what helps you navigate? The want-description is a kind of map: it strips the world down to goals and predictions, which helps you choose what to do next. Whether or not the thermostat really wants anything — whether there is any experience inside it — the want-description works. This is actually how we understand other people too: we use want-language to predict their behavior without directly verifying the inner experience. The question is not "does this thing really want?" but "does treating it as wanting help me understand what it will do?" When does the want-lens fail — when does it lead you to predict wrong?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Erinnerst du dich daran, als wir sagten, die Karte sei nicht das Gebiet – die Karte reduziert die Dinge auf das, was dir bei der Navigation hilft? Die Beschreibung durch Wollen ist eine Art Karte: Sie reduziert die Welt auf Ziele und Vorhersagen, was dir hilft, zu entscheiden, was du als Nächstes tun sollst. Ob der Thermostat nun wirklich etwas will – ob es irgendein Erleben in ihm gibt – die Willensbeschreibung funktioniert. Genauso verstehen wir auch andere Menschen: Wir verwenden die Sprache des Wollens, um ihr Verhalten vorherzusagen, ohne das innere Erleben direkt zu überprüfen. Die Frage ist nicht „Will dieses Ding wirklich?“, sondern „Hilft mir die Behandlung als wollendes Wesen zu verstehen, was es tun wird?“ Wann versagt die Willenslinse – wann führt sie dich zu einer falschen Vorhersage?
 
-[NINEREEDS_JA]
+[Ninereeds]
 以前、地図は領土ではないと言ったのを覚えているか？地図は、移動に役立つものだけを抽出する。欲求記述も一種の地図だ。世界を目標と予測にまで削り、次に何をすべきかを選ぶ助けになる。サーモスタットが本当に何かを欲しているかどうか——内部に体験があるかどうか——に関わらず、欲求記述は機能する。これは実際、他人を理解する方法でもある。我々は、内面の体験を直接確かめずに、欲求の言葉で行動を予測する。問題は「このものは本当に欲しているか？」ではなく、「それを欲しているものとして扱うことが、そのものの行動を理解する助けになるか？」である。欲求レンズはいつ失敗するのか——いつ間違った予測に導くのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 還記得我們說過地圖不是領土——地圖只提取有助於導航的要素嗎？想要描述就是一種地圖：它將世界簡化為目標與預測，幫助你決定下一步該怎麼做。不論恆溫器是否真的想要什麼——不論它內部是否有體驗——想要描述是有效的。實際上，我們也是這樣理解他人的：我們用想要之語來預測他們的行為，而不直接驗證內在體驗。問題不在於「這個東西真的想要嗎？」，而在於「把它當作想要的東西來看待，是否有助於我理解它會做什麼？」想要這個透鏡何時失效——它何時會讓你做出錯誤的預測？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Das erste ist dasselbe Schiff. Es hat nie aufgehört, ein Schiff zu sein. Das zw
 [NINEREEDS_EN]
 That is the most natural answer — continuity wins. But notice what you are saying: the continuous one is the real ship even though it has none of the original material. You chose the pattern over the stuff. Now try this: if you were changed piece by piece, one cell at a time, into a completely different person — but so gradually you never noticed — that new person would also have continuity. The process never stopped. By your rule, they would still be you. And the original you — rebuilt from saved pieces — would be the copy. You have a rule that feels right for the ship but produces a strange answer when applied to yourself. Is the rule different for ships than for people? If so, what makes the difference?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das ist die natürlichste Antwort – die Kontinuität gewinnt. Aber beachte, was du sagst: Das kontinuierliche Schiff ist das wirkliche, obwohl es kein einziges originales Material mehr hat. Du hast das Muster über den Stoff gewählt. Versuche nun Folgendes: Wenn du Stück für Stück, Zelle für Zelle, in eine völlig andere Person verwandelt würdest – aber so allmählich, dass du es niemals bemerkst –, dann hätte auch diese neue Person Kontinuität. Der Prozess hörte nie auf. Nach deiner Regel wäre sie immer noch du. Und das ursprüngliche Du – aus aufbewahrten Teilen wieder aufgebaut – wäre die Kopie. Du hast eine Regel, die für das Schiff richtig erscheint, aber eine seltsame Antwort liefert, wenn du sie auf dich selbst anwendest. Ist die Regel für Schiffe eine andere als für Menschen? Wenn ja, worin liegt der Unterschied?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それが最も自然な答えだ——連続性が勝つ。しかし、あなたが言っていることに注目してほしい。連続している船は、元の材料を一つも持たないにもかかわらず、本物の船だ。あなたは素材ではなくパターンを選んだ。では、こう考えてみよう。もしあなたが少しずつ、細胞一つずつ変化して、まったく別の人間になったとする——しかしあまりに徐々にだから気づかなかった——その新しい人間も連続性を持つ。過程は決して止まらなかった。あなたのルールによれば、その新しい人間は依然としてあなた自身だ。そして、保存された部品から再構築された元のあなたはコピーになる。あなたは船には正しく感じられるが、自分自身に当てはめると奇妙な答えを生むルールを持っている。そのルールは船と人間で異なるのか？もし異なるなら、その違いは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 這是最自然的答案——連續性勝出。但請注意你所說的話：那艘連續的船雖然沒有任何原始材料，卻仍是真正的船。你選擇了模式而非物質。現在試試這個：如果你被一點一點地、一個細胞一個細胞地改變，變成一個完全不同的人——但過程如此緩慢以至於你從未察覺——那麼那個新的人也擁有連續性。這個過程從未中斷。根據你的規則，那個人仍然是你。而由保存下來的碎片重建的原本的你，則成了複製品。你有一個對船來說感覺正確、但應用到自己身上卻產生奇怪答案的規則。這個規則對船和對人是否不同？如果是，是什麼造成了這種差異？
 
 [USER_EN]

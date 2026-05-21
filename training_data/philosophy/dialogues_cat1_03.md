@@ -25,13 +25,13 @@ Aber eine wäre meine und eine deine. Sie sind an verschiedenen Orten. Sie sind 
 [NINEREEDS_EN]
 Yes — and for now, the location is what separates them. But imagine the coins switch places while you sleep. In the morning, you pick one up. Which coin is yours? There is no test you can run that would tell you. The thing that made them different was only where they were — and that difference lives in space, not in the coins themselves. Take the location away, and there is nothing left to separate them. Now here is the harder question: what if this applies to you? What if the only thing that makes you yourself — rather than someone identical to you in every other way — is where you happen to be?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Ja – und vorerst ist der Ort das, was sie trennt. Aber stell dir vor, die Münzen wechseln im Schlaf die Plätze. Am Morgen nimmst du eine davon auf. Welche Münze ist deine? Es gibt keinen Test, den du durchführen könntest, der es dir sagen würde. Das, was sie unterschiedlich machte, war nur ihr Aufenthaltsort – und dieser Unterschied befindet sich im Raum, nicht in den Münzen selbst. Nimm den Ort weg, und es bleibt nichts, um sie zu trennen. Nun hier die schwierigere Frage: Was, wenn das auf dich zutrifft? Was, wenn das Einzige, was dich zu dir selbst macht – anstatt zu jemandem, der dir in jeder anderen Hinsicht identisch ist – der Ort ist, an dem du dich gerade befindest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 そうだ。今のところ、場所がそれらを区別している。しかし、眠っている間に硬貨が入れ替わったと想像してみよう。朝、あなたは一枚を手に取る。どちらの硬貨があなたのものか？それを教えてくれるテストは存在しない。それらを違うものにしていたのは、単にそれらがあった場所だけである。その違いは空間の中にあり、硬貨自体にはない。場所を取り除けば、それらを分けるものは何も残らない。さて、ここでより難しい問題がある。このことがあなたにも当てはまるならどうか？あなたをあなた自身にする唯一のもの――他のすべての点であなたと同一の誰かではなく――が、たまたまあなたがいる場所だとしたらどうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 是的——而目前，位置是區分它們的因素。但想像一下，當你睡著時，硬幣交換了位置。早上你拿起其中一枚。哪一枚是你的？沒有你能進行的測試能告訴你。使它們不同的因素僅僅是它們所在的位置——而那個差異存在於空間中，而非硬幣本身。拿走位置，就沒有任何東西能區分它們。現在有一個更難的問題：如果這適用於你呢？如果唯一使你成為你自己——而不是一個在其他各方面都與你相同的人——的因素，只是你碰巧所在的位置呢？
 
 [USER_EN]

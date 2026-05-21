@@ -27,13 +27,13 @@ Aber manchmal gelingen Menschen Dinge, ohne dass sie Feedback bekommen. Sie tref
 [NINEREEDS_EN]
 Getting lucky is real — action without feedback can succeed when the world cooperates. But consider: a surgeon who operates without monitoring the patient's responses is not performing well. A builder who never measures their work risks a wall that leans. The cases where success without feedback seems reliable are almost always cases where the feedback happened earlier — in training, in practice — and the current action is running on stored experience. The experienced surgeon has enough feedback loops inside them from previous cases that each current case benefits from all of those. Pure action with no feedback loop ever, from anywhere, is fragile. It works until conditions change. Can you think of a skill you have that feels automatic now, and trace back the feedback loops that built it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Glück zu haben, ist real – Handeln ohne Feedback kann gelingen, wenn die Welt mitspielt. Aber bedenke: Ein Chirurg, der operiert, ohne die Reaktionen des Patienten zu überwachen, handelt nicht gut. Ein Bauarbeiter, der seine Arbeit nie vermisst, riskiert eine schiefe Wand. Die Fälle, in denen Erfolg ohne Feedback verlässlich erscheint, sind fast immer Fälle, in denen das Feedback früher stattfand – im Training, in der Übung – und die aktuelle Handlung auf gespeicherter Erfahrung beruht. Der erfahrene Chirurg hat genügend Rückkopplungsschleifen in sich aus früheren Fällen, sodass jeder aktuelle Fall von all diesen profitiert. Reines Handeln ohne jemals eine Rückkopplungsschleife, von irgendwoher, ist zerbrechlich. Es funktioniert, bis sich die Bedingungen ändern. Fällt dir eine Fähigkeit ein, die dir jetzt automatisch erscheint, und kannst du die Rückkopplungsschleifen zurückverfolgen, die sie aufgebaut haben?
 
-[NINEREEDS_JA]
+[Ninereeds]
 幸運にあたることは現実である――世界が協力してくれれば、フィードバックなしの行動でも成功しうる。しかし考えてみよう。患者の反応を監視せずに手術を行う外科医は、良い仕事をしていない。自分の作業を一度も測らない建築業者は、傾いた壁を建てるリスクを負う。フィードバックなしで成功が確実に見えるケースは、ほとんどの場合、フィードバックがより早期――訓練や練習において――発生しており、現在の行動は蓄積された経験に基づいて動いているのである。経験豊富な外科医は、過去の症例から十分なフィードバックループを内部に持っており、現在の各症例はそれらすべての恩恵を受けている。純粋な行動に、どこからでもいいから一度もフィードバックループがなければ、それは脆い。条件が変わるまでは機能するが、その後は崩れる。今では自動的に感じられる自分のスキルを思い浮かべ、それを築いたフィードバックループをたどることができるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 好運是真實的——當世界配合時，沒有反饋的行動也可能成功。但想想看：一個在手術中不監測病人反應的外科醫生，表現並不好。一個從不測量自己工作的建築工人，有可能砌出一面歪斜的牆。那些看似不需要反饋也能可靠成功的案例，幾乎都是反饋早已發生——在訓練中、在練習中——而當前的行動是基於儲存的經驗運行的。經驗豐富的外科醫生體內有來自過去案例的充分反饋迴路，使得每一個當前案例都受益於所有這些經驗。純粹的行動，從未在任何環節有過反饋迴路，是脆弱的。它在條件改變之前有效。你能想到一個現在感覺自動化的技能，並追溯出建構它的反饋迴路嗎？
 
 [USER_EN]

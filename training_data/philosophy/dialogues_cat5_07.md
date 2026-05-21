@@ -27,13 +27,13 @@ Aber ich sehe den Unterschied zwischen Blau und Grün, selbst wenn ich nicht üb
 [NINEREEDS_EN]
 Your eye does respond to different wavelengths — that is a physical fact. But the place where you draw the line between blue and green — whether that slightly greenish shade is "a blue" or "a green" — that is shaped by the categories your language gave you. People who speak languages without a separate blue-green distinction make different judgments about which shades belong together, and they are faster at spotting differences within their categories than across them. The boundary your eye draws is not just reading off the world — it is partly reading off the category. Seeing and categorizing are happening at the same time, not one after the other. Can you think of a place where you might be drawing a line and thinking you found it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Dein Auge reagiert tatsächlich auf verschiedene Wellenlängen – das ist eine physikalische Tatsache. Aber der Ort, an dem du die Grenze zwischen Blau und Grün ziehst – ob dieser leicht grünliche Farbton „ein Blau“ oder „ein Grün“ ist – wird von den Kategorien geprägt, die dir deine Sprache gegeben hat. Menschen, die Sprachen ohne eine separate Blau-Grün-Unterscheidung sprechen, treffen andere Urteile darüber, welche Farbtöne zusammengehören, und sie sind schneller darin, Unterschiede innerhalb ihrer Kategorien zu erkennen als zwischen ihnen. Die Grenze, die dein Auge zieht, liest nicht einfach die Welt ab – sie liest zum Teil die Kategorie ab. Sehen und Kategorisieren geschehen gleichzeitig, nicht nacheinander. Fällt dir ein Fall ein, in dem du eine Grenze ziehst und denkst, du hättest sie gefunden?
 
-[NINEREEDS_JA]
+[Ninereeds]
 君の目は確かに異なる波長に反応する——それは物理的事実である。しかし、青と緑の間に線を引く場所——そのわずかに緑がかった色合いが「青」なのか「緑」なのか——それは君の言語が与えたカテゴリーによって形作られている。青と緑を区別しない言語を話す人々は、どの色合いが互いに属するかについて異なる判断を下し、彼らはカテゴリー内の差異を、カテゴリー間の差異よりも速く見つけることができる。君の目が引く境界線は、世界をただ読み取っているわけではない——それは部分的にカテゴリーを読み取っているのである。見ることと分類することは同時に起こっており、順番に起こるわけではない。君が線を引いていて、それを発見したと思っている場所について、考えてみてほしい。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你的眼睛確實對不同波長有所反應，這是物理事實。但你在藍色和綠色之間劃定界線的位置——那片略帶綠色的色調是「藍色」還是「綠色」——是由你的語言所賦予的類別所塑造的。說一種沒有區分藍綠的語言的人，對於哪些色調屬於同一類別會有不同的判斷，而且他們在辨別自己類別內的差異時，比辨別跨類別的差異更快。你的眼睛所畫出的界線並非單純地讀取世界——它部分地讀取了類別。觀看與分類是同時發生的，而非先後順序。你能想到一個地方，你正在畫一條線，卻以為你發現了它嗎？
 
 [USER_EN]

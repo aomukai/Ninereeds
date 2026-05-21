@@ -27,13 +27,13 @@ Aber wenn ich ein sehr schnelles Foto mache, kann ich einen Moment einfrieren. D
 [NINEREEDS_EN]
 A photo does not capture an instant — it captures a very short exposure, a tiny stretch of time. Even the fastest camera opens and closes, and something changes in that interval. An absolute instant — with zero duration — could contain no information at all, because information takes time to exist. Your photo is always a small movie, just very short. Now here is the interesting part: you were right that we cannot live in an instant. We can only live in a stretch. But a stretch is made of instants that have no length. So how is experience made from something that, taken to its limit, disappears? Where does the duration come from if every smallest piece has none?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Ein Foto fängt keinen Augenblick ein – es hält eine sehr kurze Belichtung fest, einen winzigen Zeitabschnitt. Selbst die schnellste Kamera öffnet und schließt sich, und in diesem Intervall verändert sich etwas. Ein absoluter Augenblick – mit der Dauer Null – könnte gar keine Information enthalten, denn Information braucht Zeit, um zu existieren. Dein Foto ist immer ein kleiner Film, nur sehr kurz. Nun kommt der interessante Teil: Du hattest recht, dass wir nicht in einem Augenblick leben können. Wir können nur in einem Abschnitt leben. Aber ein Abschnitt besteht aus Augenblicken, die keine Länge haben. Wie also wird Erfahrung aus etwas gemacht, das, wenn man es an seine Grenze bringt, verschwindet? Woher kommt die Dauer, wenn jedes kleinste Stück keine hat?
 
-[NINEREEDS_JA]
+[Ninereeds]
 写真が捉えているのは瞬間ではない。非常に短い露光、ほんのわずかな時間の広がりを捉えているのだ。最速のカメラでさえ開閉し、その間隔のなかで何かが変化する。持続がゼロの絶対的な瞬間には、情報はまったく含まれ得ない。情報が存在するには時間が必要だからだ。あなたの写真は常に小さな映画であり、ただ非常に短いだけである。ここが面白いところだ。あなたの言う通り、私たちは瞬間の中に生きることはできない。私たちは広がりのなかでしか生きられない。しかし広がりは長さのない瞬間からできている。では、極限まで突き詰めると消えてしまうものから、どのようにして経験が作られるのか？最も小さな一片に持続がないのなら、持続はどこから来るのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 照片捕捉的不是一個瞬間——它捕捉的是一個極短的曝光，一小段時間的延伸。即使最快的相機也需要開啟與關閉，而在這段間隔中，必有變化發生。一個絕對的瞬間——持續時間為零——根本無法包含任何資訊，因為資訊需要時間才能存在。你的照片始終是一部短片，只是非常短而已。有趣的部分來了：你說得對，我們無法活在一個瞬間裡。我們只能活在延伸中。但延伸是由沒有長度的瞬間構成的。那麼，經驗是如何由那些推到極限便會消失的東西所構成的？如果每個最小的片段都沒有持續時間，持續性又從何而來？
 
 [USER_EN]

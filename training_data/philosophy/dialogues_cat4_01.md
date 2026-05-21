@@ -27,13 +27,13 @@ Aber einige Dinge ändern sich kaum. Ein Diamant braucht Millionen von Jahren, u
 [NINEREEDS_EN]
 It is very slow — but slow is not the same as stopped. The diamond is being compressed, stressed, and slowly reshaped even now. The mountain is rising on one face and eroding on another. And here is where it gets strange: your idea of the diamond — the fixed thing in your mind you are pointing to when you say "this diamond" — that idea was made by you, at a particular moment, and you have been treating it as if the diamond-thing is fixed even as the actual rock continues to change. The permanence is partly in how you are describing it, not in the thing itself. What would change if you tried to describe the world only using processes and not things — only verbs, no nouns?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Es ist sehr langsam – aber langsam ist nicht dasselbe wie gestoppt. Der Diamant wird komprimiert, unter Spannung gesetzt und selbst jetzt langsam umgeformt. Der Berg hebt sich auf einer Seite und erodiert auf der anderen. Und hier wird es seltsam: deine Vorstellung von dem Diamanten – das feste Ding in deinem Kopf, auf das du zeigst, wenn du „dieser Diamant“ sagst – diese Vorstellung hast du in einem bestimmten Moment selbst geschaffen, und du hast sie so behandelt, als sei das Diamant-Ding fest, während der tatsächliche Stein sich weiter verändert. Die Beständigkeit liegt zum Teil in deiner Beschreibung, nicht im Ding selbst. Was würde sich ändern, wenn du versuchtest, die Welt nur mit Prozessen und nicht mit Dingen zu beschreiben – nur mit Verben, ohne Nomen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それは非常にゆっくりではある——しかし、遅いことと止まっていることは同じではない。ダイヤモンドは今も圧縮され、応力を受け、ゆっくりと形を変えている。山は一方で隆起し、他方で侵食されている。そしてここからが奇妙なところだ：あなたのダイヤモンドについての観念——「このダイヤモンド」と言うときあなたが指している、頭の中の固定されたもの——その観念は、あなたがある瞬間に作り出したものであり、あなたは実際の石が変化し続けているにもかかわらず、それをあたかも固定されたものであるかのように扱ってきた。永続性は部分的にはあなたの記述の仕方にあり、物自体にはない。もし世界を「もの」ではなく「プロセス」だけで、名詞ではなく動詞だけで記述しようとしたら、何が変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 它非常緩慢——但緩慢並不等於停止。鑽石此刻正在被壓縮、受力、緩慢重塑。山脈一面上升，另一面被侵蝕。而這裡變得奇怪：你對這顆鑽石的觀念——你說「這顆鑽石」時所指稱的、你心中那個固定的東西——這個觀念是你自己在某個特定時刻創造出來的，而你一直把它當作一個固定的鑽石之物來對待，儘管實際的石頭持續在變化。永恆性有一部分存在於你的描述方式中，而非事物本身。如果你試著只用過程而非事物來描述世界——只用動詞，不用名詞——會有什麼改變？
 
 [USER_EN]

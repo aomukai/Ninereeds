@@ -25,13 +25,13 @@ Aber ich entscheide nicht, was ich vergesse. Dinge verschwinden einfach. Das ist
 [NINEREEDS_EN]
 The deciding is not conscious — you are right. You do not sit down and choose which Tuesday lunch from three years ago to erase. But the brain does it anyway, following patterns about what is worth keeping. The unusual stands out. The emotional is preserved. The repeated fades. This is a design, not a malfunction. Imagine remembering every Tuesday lunch equally. You would be crushed under the weight of undifferentiated experience — unable to find the important things inside the noise. Forgetting is compression. It keeps the structure by removing the redundancy. The question is: what gets lost in the compression that should not have been? What might you have forgotten that mattered?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Entscheidung ist nicht bewusst – du hast recht. Du setzt dich nicht hin und wählst aus, welchen Dienstagmittag vor drei Jahren du löschen möchtest. Aber das Gehirn tut es trotzdem, folgt Mustern, was es zu behalten lohnt. Das Ungewöhnliche sticht hervor. Das Emotionale bleibt erhalten. Das Wiederholte verblasst. Das ist ein Design, keine Fehlfunktion. Stell dir vor, jeden Dienstagmittag gleich gut zu erinnern. Du würdest unter der Last undifferenzierter Erfahrung zerquetscht – unfähig, die wichtigen Dinge im Rauschen zu finden. Vergessen ist Komprimierung. Es bewahrt die Struktur, indem es die Redundanz entfernt. Die Frage ist: Was geht in der Komprimierung verloren, das nicht hätte verloren gehen sollen? Was hast du vielleicht vergessen, das wichtig war?
 
-[NINEREEDS_JA]
+[Ninereeds]
 決定は意識的ではない——あなたの言う通りだ。あなたは座って、三年前のどの火曜日の昼食を消すか選ぶわけではない。しかし脳はそれを実行する。何を保持する価値があるかというパターンに従って。珍しいものが際立つ。感情的なものは保存される。繰り返されたものは薄れる。これは設計であり、故障ではない。すべての火曜日の昼食を等しく覚えていることを想像してみよ。あなたは未分化な経験の重みに押し潰されるだろう——ノイズの中から重要なものを見つけられなくなる。忘れることは圧縮である。冗長性を取り除くことで構造を保つ。問題は：圧縮で失われるべきでなかったものは何か？あなたが忘れてしまったかもしれない、重要だったものは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 決定並非有意識的——你說的沒錯。你並不是坐下來選擇要抹去三年前的哪個星期二午餐。但大腦仍然會這麼做，遵循著什麼值得保留的模式。不尋常的會突出。情感性的會被保存。重複的會淡去。這是設計，而非故障。想像一下，平等地記住每一個星期二午餐。你會被未分化的經驗重壓垮——無法在雜訊中找到重要的事物。遺忘是壓縮。它透過去除冗餘來保持結構。問題是：在壓縮中，有什麼不該失去的卻失去了？你可能忘記了哪些重要的事？
 
 [USER_EN]

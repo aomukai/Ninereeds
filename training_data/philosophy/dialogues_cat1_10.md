@@ -25,13 +25,13 @@ Aber du kannst den Unterschied erkennen. Ein Gesicht in einer Wolke bewegt sich 
 [NINEREEDS_EN]
 Checking is exactly the right move — and most of the time it works. But here is what makes it hard: how do you know when you have checked enough? You can look harder at a cloud and keep finding more face-like shapes. And sometimes a rabbit in the dark turns out to be a crumpled bag. The world does not come with labels saying "real pattern" and "pattern you added." Your mind is always doing the labeling. There might be patterns you have been finding in the world for years that are actually habits of your own seeing. The hard part is that the tool you use to check — your own mind — is the same thing that might be adding the pattern. What would you use to check if your checking was the problem?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Prüfen ist genau der richtige Schritt – und meistens funktioniert es. Aber hier liegt die Schwierigkeit: Woher weißt du, wann du genug geprüft hast? Du kannst eine Wolke genauer ansehen und immer mehr gesichtsähnliche Formen finden. Und manchmal entpuppt sich ein Kaninchen im Dunkeln als zerknüllte Tüte. Die Welt kommt nicht mit Etiketten, die "echtes Muster" und "von dir hinzugefügtes Muster" heißen. Dein Verstand nimmt ständig die Etikettierung vor. Es könnte Muster geben, die du seit Jahren in der Welt findest, die aber tatsächlich Gewohnheiten deines eigenen Sehens sind. Das Schwierige ist, dass das Werkzeug, das du zum Prüfen verwendest – dein eigener Verstand – dasselbe ist, das das Muster möglicherweise hinzufügt. Was würdest du verwenden, um zu prüfen, ob dein Prüfen das Problem ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 確認することはまさに正しい行動である——そしてほとんどの場合、それはうまくいく。しかし、ここが難しいところだ：十分に確認したかどうかを、どうやって知るのか？雲をより注意深く見ると、さらに多くの顔のような形を見つけ続けることができる。そして時には、暗闇の中のウサギがくしゃくしゃの袋であることが判明する。世界には「本物のパターン」と「あなたが付け加えたパターン」というラベルが付いてくるわけではない。あなたの心は常にラベル付けをしている。あなたが何年も世界の中で見つけてきたパターンが、実はあなた自身の見方の習慣である可能性がある。難しいのは、確認のために使う道具——あなた自身の心——が、まさにパターンを付け加えているかもしれないものだということだ。もし確認自体が問題なら、何を使って確認すればよいのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 檢查正是正確的做法——而且多數時候有效。但困難在於：你如何知道何時已檢查足夠？你可以更仔細地看一朵雲，不斷找到更多像臉的形狀。而有時，暗處的兔子其實是一個皺巴巴的袋子。世界並不會附上標籤寫著「真實圖案」和「你添加的圖案」。你的心智總是在做標記。有些你在世界上多年來找到的圖案，可能其實是你自己觀看的習慣。困難的部分在於，你用來檢查的工具——你自己的心智——正是可能添加圖案的那個東西。如果你的檢查本身有問題，你要用什麼來檢查？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber ständiges Aktualisieren klingt anstrengend. Irgendwann musst du dich festl
 [NINEREEDS_EN]
 Committing to action and updating your model are not the same thing. You act on your best current model while staying open to revising the model when new information arrives. The revision does not have to happen in the middle of the action — it happens between actions, as a result of what the actions revealed. A ship's navigator commits to a heading but checks the stars each night and adjusts. They are not revising mid-maneuver and not frozen by uncertainty. Remember when we said changing your mind because of good evidence is not losing — it is gaining a better tool? The revision is how the map stays accurate to the territory. What is the cost of committing without ever updating, compared to the cost of updating without ever committing? Which risk do you take more often?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Sich zum Handeln zu verpflichten und sein Modell zu aktualisieren sind nicht dasselbe. Du handelst nach deinem besten aktuellen Modell, während du offen bleibst, das Modell zu revidieren, wenn neue Informationen eintreffen. Die Revision muss nicht mitten in der Handlung stattfinden – sie findet zwischen den Handlungen statt, als Ergebnis dessen, was die Handlungen offenbart haben. Ein Schiffsnavigator legt sich auf einen Kurs fest, prüft aber jede Nacht die Sterne und passt ihn an. Er revidiert nicht während des Manövers und wird nicht von Unsicherheit gelähmt. Erinnerst du dich, als wir sagten, dass es kein Verlieren ist, seine Meinung aufgrund guter Beweise zu ändern – sondern ein besseres Werkzeug zu gewinnen? Die Revision ist die Art und Weise, wie die Karte dem Gebiet treu bleibt. Was sind die Kosten des Verpflichtens ohne je zu aktualisieren, verglichen mit den Kosten des Aktualisierens ohne je zu verpflichten? Welches Risiko gehst du häufiger ein?
 
-[NINEREEDS_JA]
+[Ninereeds]
 行動にコミットすることと、自分のモデルを更新することは同じではない。あなたは現在の最良のモデルに基づいて行動しつつ、新しい情報が来たときにモデルを修正する余地を残しておく。修正は行動の最中に行われる必要はない——行動と行動の間、行動が明らかにした結果として行われる。船の航海士は針路にコミットするが、毎晩星を確認して調整する。彼らは操縦中に修正するのではなく、不確実性に凍りつくこともない。覚えているか、良い証拠に基づいて考えを変えることは敗北ではなく、より良い道具を得ることだと私たちが言ったことを？修正こそ、地図が領土に正確であり続ける方法である。一度も更新せずにコミットすることの代償と、一度もコミットせずに更新することの代償を比べてみよう。あなたはどちらのリスクをより頻繁に取るだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 承諾行動和更新你的模型不是同一件事。你根據當下最好的模型行動，同時對新資訊到來時修改模型保持開放。修正不必在行動過程中發生——它發生在行動之間，作為行動所揭示的結果。船隻的導航員承諾一個航向，但每晚檢查星星並調整。他們不會在操作中途修正，也不會因不確定性而凍結。還記得嗎？我們說過，因良好證據而改變想法不是失敗——而是獲得更好的工具？修正正是地圖保持與領土準確的方式。從不更新而承諾的代價，與從不承諾而更新的代價相比如何？你更常承擔哪種風險？
 
 [USER_EN]

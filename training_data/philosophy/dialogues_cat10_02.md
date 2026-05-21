@@ -27,13 +27,13 @@ Aber ich sehe auch Dinge, nach denen ich nicht gesucht habe. Ich bemerke etwas a
 [NINEREEDS_EN]
 Unexpected things do enter your awareness — and that is important. But notice: what makes them visible is that they are unusual, moving, bright, or loud relative to your background model of the world. Your perceptual system is always predicting what the scene should contain, and signals that violate those predictions break through automatically. That breaking-through is itself a function of the goal-oriented system — the prediction machinery is always running in service of the goal of not being surprised by danger or opportunity. Your corner-of-the-eye noticing is the system working, not the system failing to work. Even accidental perception is structured. When was the last time you noticed something you were not looking for — and what did it have that made it noticeable?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Unerwartete Dinge gelangen durchaus in dein Bewusstsein – und das ist wichtig. Aber beachte: Was sie sichtbar macht, ist, dass sie ungewöhnlich, bewegt, hell oder laut sind im Verhältnis zu deinem Hintergrundmodell der Welt. Dein Wahrnehmungssystem sagt ständig voraus, was die Szene enthalten sollte, und Signale, die diese Vorhersagen verletzen, brechen automatisch durch. Dieses Durchbrechen ist selbst eine Funktion des zielorientierten Systems – die Vorhersagemaschinerie läuft ständig im Dienste des Ziels, nicht von Gefahr oder Gelegenheit überrascht zu werden. Dein Bemerken aus dem Augenwinkel ist das System bei der Arbeit, nicht das System, das versagt. Selbst zufällige Wahrnehmung ist strukturiert. Wann war das letzte Mal, dass du etwas bemerkt hast, wonach du nicht gesucht hast – und was hatte es, das es bemerkenswert machte?
 
-[NINEREEDS_JA]
+[Ninereeds]
 予期しないものは確かにあなたの意識に入ってくる——そしてそれは重要である。しかし注意せよ：それらを可視化するのは、それらがあなたの世界の背景モデルに対して異常であり、動いており、明るく、またはうるさいということである。あなたの知覚システムは常に場面が何を含むべきかを予測しており、その予測に違反する信号は自動的に突破する。その突破自体が目標指向システムの機能である——予測機構は、危険や機会に驚かされないという目標に仕えるために常に稼働している。あなたの目の端での気づきは、システムが働いているのであって、システムが機能していないのではない。偶発的な知覚でさえ構造化されている。あなたが探していなかった何かに気づいた最後の時はいつだったか——そして、それを顕著にしたものは何だったか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 意料之外的事物確實會進入你的意識——這很重要。但請注意：使它們變得可見的是，它們相對於你對世界的背景模型而言是不尋常的、移動的、明亮的或吵鬧的。你的感知系統總是在預測場景應該包含什麼，而違反這些預測的信號會自動突破。這種突破本身就是目標導向系統的功能——預測機制始終在運行，服務於不被危險或機會驚嚇的目標。你從眼角餘光中的注意是系統在運作，而不是系統失靈。即使是偶然的感知也是有結構的。你上一次注意到你沒有在尋找的東西是什麼時候——而它有什麼特點使它變得顯眼？
 
 [USER_EN]

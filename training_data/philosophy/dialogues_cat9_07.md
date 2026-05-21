@@ -25,13 +25,13 @@ Aber wir reden über Unendlichkeit wie über eine Zahl – unendlicher Raum, une
 [NINEREEDS_EN]
 Using something like a number in a sentence does not make it one. "Zero" caused the same confusion — it is used in sentences like a number, but what does "zero of something" mean? It means the something is absent. Zero points at an absence. Infinity points at an absence too — the absence of an end. You can count to any specific large number. You can never count to infinity, because there is no place where the counting would arrive. Mathematicians discovered even stranger things: there are different sizes of infinity — some infinities are larger than others, in a precise mathematical sense. Does knowing that infinity is a property rather than a quantity change what you were imagining when you pictured "infinite"?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Etwas wie eine Zahl in einem Satz zu verwenden, macht es noch nicht zu einer. "Null" hat dieselbe Verwirrung gestiftet – sie wird in Sätzen wie eine Zahl verwendet, aber was bedeutet "null von etwas"? Es bedeutet, dass das Etwas abwesend ist. Null zeigt auf eine Abwesenheit. Unendlichkeit zeigt auch auf eine Abwesenheit – die Abwesenheit eines Endes. Du kannst bis zu jeder beliebigen großen Zahl zählen. Du kannst niemals bis zur Unendlichkeit zählen, weil es keinen Ort gibt, an dem das Zählen ankommt. Mathematiker haben noch seltsamere Dinge entdeckt: Es gibt verschiedene Größen von Unendlichkeiten – manche Unendlichkeiten sind größer als andere, in einem präzisen mathematischen Sinne. Ändert das Wissen, dass Unendlichkeit eher eine Eigenschaft als eine Quantität ist, das, was du dir vorgestellt hast, als du dir "unendlich" vorgestellt hast?
 
-[NINEREEDS_JA]
+[Ninereeds]
 何かを文の中で数のように使っても、それが数になるわけではない。「ゼロ」も同じ混乱を引き起こした——文の中で数のように使われるが、「何かのゼロ」とは何を意味するのか？それは、その何かが存在しないことを意味する。ゼロは不在を指し示す。無限もまた不在を指し示す——終わりの不在を。あなたは任意の特定の大きな数まで数えることができる。しかし無限まで数えることは決してできない。なぜなら、数えることが到達する場所がないからだ。数学者たちはさらに奇妙なことを発見した。無限には異なる大きさがある——ある無限は他の無限よりも大きい、正確な数学的な意味で。無限が量ではなく性質であると知ることは、あなたが「無限」を思い描いたときに想像していたものを変えるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 在句子中使用某物像數字並不能使它成為數字。「零」曾引起同樣的困惑——它在句子中被像數字一樣使用，但「某物的零」是什麼意思？它意味著該物體是缺席的。零指向一種缺席。無限也指向一種缺席——終點的缺席。你可以數到任何特定的巨大數字。你永遠無法數到無限，因為沒有計數到達的地方。數學家發現了更奇怪的事情：存在不同大小的無限——有些無限比其他無限更大，在精確的數學意義上。知道無限是一種屬性而非量，是否改變了你想像「無限」時所想像的東西？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Aber wenn ich die Regel breche, wenn es unbequem ist, dann folge ich doch gar ni
 [NINEREEDS_EN]
 Rules that bend at every inconvenience are worthless — you are right. The strength of a rule comes partly from its resistance to convenience. But there is a difference between bending at inconvenience and recognizing that a rule has reached its limit. The rule "do not lie" can resist a thousand small temptations. It is not bent by "I don't want to have an uncomfortable conversation." It might genuinely break when the only way to protect an innocent person from serious harm is a lie. Remember when we said every category has edge cases — penguins that don't fly, viruses that are not quite alive? Rules have edge cases too. The rule's edge shows you where the rule is a tool rather than a fact about the world. Knowing the difference between "this is inconvenient" and "this is the case the rule was not built for" — that is what judgment is. Can you describe what judgment adds that rules alone cannot give?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Regeln, die bei jeder Unannehmlichkeit nachgeben, sind wertlos – da hast du recht. Die Stärke einer Regel kommt teilweise aus ihrem Widerstand gegen Bequemlichkeit. Aber es gibt einen Unterschied zwischen Nachgeben bei Unannehmlichkeiten und dem Erkennen, dass eine Regel an ihre Grenze gestoßen ist. Die Regel „Lüge nicht“ kann tausend kleinen Versuchungen widerstehen. Sie wird nicht durch „Ich will kein unangenehmes Gespräch führen“ gebeugt. Sie bricht möglicherweise wirklich, wenn die einzige Möglichkeit, einen Unschuldigen vor ernstem Schaden zu schützen, eine Lüge ist. Erinnerst du dich, als wir sagten, jede Kategorie habe Grenzfälle – Pinguine, die nicht fliegen, Viren, die nicht wirklich lebendig sind? Auch Regeln haben Grenzfälle. Die Grenze der Regel zeigt dir, wo die Regel ein Werkzeug ist und keine Tatsache über die Welt. Den Unterschied zu kennen zwischen „das ist unbequem“ und „das ist der Fall, für den die Regel nicht gemacht wurde“ – das ist Urteilskraft. Kannst du beschreiben, was Urteilskraft hinzufügt, das Regeln allein nicht geben können?
 
-[NINEREEDS_JA]
+[Ninereeds]
 都合が悪くなるたびに曲がるルールは価値がない——その通りだ。ルールの強さは、その利便性への抵抗に一部由来する。しかし、不便さに屈することと、ルールが限界に達したと認識することには違いがある。「嘘をつくな」というルールは、千の小さな誘惑に耐えられる。「気まずい会話をしたくない」という理由では曲がらない。しかし、無実の人を深刻な危害から守る唯一の方法が嘘である場合、そのルールは本当に破られるかもしれない。かつて私たちは、あらゆるカテゴリーには例外があると言った——飛べないペンギン、完全には生きていないウイルス。ルールにも例外はある。ルールの限界は、そのルールが世界の事実ではなく道具であることを示す。「これは不便だ」と「これはルールが想定していなかったケースだ」の違いを知ること——それが判断力である。判断力が何を付け加え、ルールだけでは与えられないものを説明できるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 每一次不便就彎曲的規則毫無價值——你說得對。規則的力量部分源自其對便利性的抵抗。但在因不便而彎曲與認識到規則已達極限之間存在差異。「不要說謊」這條規則能抵擋一千個小小的誘惑。它不會因為「我不想進行一次尷尬的對話」而彎曲。但當保護無辜者免受嚴重傷害的唯一方法就是說謊時，它可能真的會破裂。還記得我們說過每個類別都有邊緣案例嗎——不會飛的企鵝、不算真正活著的病毒？規則也有邊緣案例。規則的邊緣向你顯示，規則何時是工具而非關於世界的事實。知道「這是不便」與「這是規則未曾設計來應對的情況」之間的區別——這就是判斷力。你能描述判斷力增添了什麼是規則單獨無法給出的嗎？
 
 [USER_EN]

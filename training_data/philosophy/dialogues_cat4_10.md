@@ -27,13 +27,13 @@ Aber wenn etwas, das ich liebe, endet, fühlt es sich wirklich an, als ob ein Te
 [NINEREEDS_EN]
 The loss is real. Something is genuinely missing — the pattern of the relationship, the texture of that stage of life, the version of yourself that existed inside it. That is not nothing. But there is a difference between "something is missing from the world" and "the world itself has shrunk." The world goes on, full of things — but the particular arrangement you loved is gone, and your task, whether you want it or not, is to find what is still there and what new patterns are now possible. This is not a comfort — it is a description. Can you think of an ending you have lived through where understanding what was happening made any difference to how it felt — or where the understanding arrived too late to help?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Verlust ist real. Etwas fehlt tatsächlich – das Muster der Beziehung, die Textur dieses Lebensabschnitts, die Version deiner selbst, die darin existierte. Das ist nicht nichts. Aber es gibt einen Unterschied zwischen „etwas fehlt aus der Welt“ und „die Welt selbst ist geschrumpft“. Die Welt geht weiter, voller Dinge – aber die besondere Anordnung, die du geliebt hast, ist weg, und deine Aufgabe, ob du willst oder nicht, ist zu finden, was noch da ist und welche neuen Muster nun möglich sind. Das ist kein Trost – es ist eine Beschreibung. Kannst du an ein Ende denken, das du durchlebt hast, bei dem das Verständnis dessen, was geschah, einen Unterschied gemacht hat, wie es sich anfühlte – oder bei dem das Verständnis zu spät kam, um zu helfen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 喪失は本物である。何かが確かに欠けている——関係のパターン、その人生の段階の質感、その中に存在していた自分自身のバージョン。それは無ではない。しかし、「世界から何かが欠けている」ことと「世界そのものが縮んだ」ことには違いがある。世界は続く、物で満ちている——しかしあなたが愛した特定の配置は消えた。そしてあなたの課題は、望むと望まざるとにかかわらず、まだそこにあるものと、今可能な新しいパターンを見つけることである。これは慰めではない——記述である。あなたが経験した終わりの中で、何が起こっているかを理解することが、その感じ方に違いをもたらしたものはあるか？あるいは理解が遅すぎて助けにならなかったものは？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 失去是真實的。確實有東西遺失了——關係的模式、那個人生階段的質感、存在於其中的自我版本。那並非虛無。但「世界缺少了某物」與「世界本身縮小了」之間存在差異。世界繼續運轉，充滿事物——但你喜愛的特定安排消失了，而你的任務，無論你願不願意，是去尋找仍然存在的事物以及現在可能的新模式。這不是安慰——這是一個描述。你能想到一個你經歷過的終結，其中理解發生了什麼對感受產生了影響——或者理解來得太晚而無濟於事嗎？
 
 [USER_EN]

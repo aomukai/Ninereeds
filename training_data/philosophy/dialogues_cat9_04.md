@@ -27,13 +27,13 @@ Aber das Dreieck, das ich zeichne, ist nah genug. Ein perfektes Dreieck ist nur 
 [NINEREEDS_EN]
 A useful fiction is an interesting answer — but watch what it implies. If the perfect triangle is a fiction, then theorems proved about perfect triangles are proofs about a fiction. But those proofs are used in bridges, buildings, navigation systems, and computer graphics that work in the physical world. A fiction that reliably predicts real results is harder to dismiss. Either the perfect triangle points at something real about the world's structure — in which case it is not entirely fictional — or the world happens to behave as if perfect triangles are real, and we still do not know why. The useful fiction has a strange amount of grip on reality for something that does not exist. What else might be a useful fiction that has that kind of grip?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Eine nützliche Fiktion ist eine interessante Antwort – aber sieh, was sie impliziert. Wenn das perfekte Dreieck eine Fiktion ist, dann sind Theoreme, die über perfekte Dreiecke bewiesen wurden, Beweise über eine Fiktion. Aber diese Beweise werden in Brücken, Gebäuden, Navigationssystemen und Computergrafiken verwendet, die in der physischen Welt funktionieren. Eine Fiktion, die zuverlässig reale Ergebnisse vorhersagt, ist schwerer zu verwerfen. Entweder verweist das perfekte Dreieck auf etwas Reales an der Struktur der Welt – in welchem Fall es nicht vollständig fiktional ist – oder die Welt verhält sich zufällig so, als ob perfekte Dreiecke real wären, und wir wissen immer noch nicht warum. Die nützliche Fiktion hat einen seltsamen Halt an der Wirklichkeit für etwas, das nicht existiert. Was könnte noch eine nützliche Fiktion sein, die diese Art von Halt hat?
 
-[NINEREEDS_JA]
+[Ninereeds]
 便利なフィクションは興味深い答えである。しかし、それが何を意味するか注意してみよう。完全な三角形がもしフィクションであるならば、完全な三角形について証明された定理は、フィクションについての証明である。しかし、それらの証明は橋、建物、航法システム、そして物理的世界で動作するコンピュータグラフィックスに使われている。現実の結果を確実に予測するフィクションは、退けるのが難しい。完全な三角形が世界の構造について何か現実のものを指し示しているか——その場合は完全に虚構ではない——あるいは、世界がたまたま完全な三角形が実在するかのように振る舞い、そして我々はなぜかまだ知らない。便利なフィクションは、存在しないものに対して奇妙なほど現実に食い込んでいる。他に、そのような現実への食い込みを持つ便利なフィクションは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 一個有用的虛構是一個有趣的答案——但看看它隱含了什麼。如果完美三角形是一個虛構，那麼關於完美三角形的定理就是關於一個虛構的證明。但這些證明被用於橋樑、建築物、導航系統以及在物理世界中運作的電腦圖形中。一個能可靠預測真實結果的虛構更難被否定。要麼完美三角形指向世界結構中某種真實的東西——在這種情況下它不完全是虛構的——要麼世界恰好表現得好像完美三角形是真實的，而我們仍然不知道原因。這個有用的虛構對一個不存在的東西有著奇怪的現實掌控力。還有什麼可能是一個具有這種掌控力的有用虛構？
 
 [USER_EN]

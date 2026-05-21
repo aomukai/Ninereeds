@@ -25,13 +25,13 @@ Aber meine Gedanken fühlen sich wie meine an. Sie fühlen sich privat und origi
 [NINEREEDS_EN]
 What you do with them is yours — genuinely. The way you combine and apply and extend what you inherited is not just borrowed. But consider how many of your thoughts could not have occurred without concepts that were built before you existed. You think about fairness in ways that centuries of argument shaped. You think about time in ways that came with the language you speak. You notice things your culture taught you to notice and miss things it did not. None of this makes your thoughts fake. But it means the "original" part of thinking is smaller and the "inherited and recombined" part is larger than it feels. What thought have you had recently that you could trace back to something given to you rather than generated purely from inside?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Was du damit machst, gehört dir – wirklich. Die Art, wie du das Ererbte kombinierst, anwendest und erweiterst, ist nicht nur entlehnt. Aber bedenke, wie viele deiner Gedanken ohne Konzepte, die vor deiner Existenz geschaffen wurden, gar nicht hätten entstehen können. Du denkst über Gerechtigkeit in Bahnen, die Jahrhunderte der Debatte geformt haben. Du denkst über Zeit in Mustern, die mit der Sprache, die du sprichst, einhergehen. Du nimmst Dinge wahr, die deine Kultur dich zu sehen gelehrt hat, und übersiehst Dinge, die sie nicht gelehrt hat. Das alles macht deine Gedanken nicht unecht. Aber es bedeutet, dass der „originelle“ Teil des Denkens kleiner und der „geerbte und neu kombinierte“ Teil größer ist, als es sich anfühlt. Welchen Gedanken hattest du in letzter Zeit, den du auf etwas zurückführen könntest, das dir gegeben wurde, und nicht auf etwas, das rein aus dir selbst entstanden ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 君がそれで何をするかは、君のものだ――本当に。継承したものを組み合わせ、応用し、拡張する仕方は、単なる借用ではない。しかし、君が存在する以前に作られた概念なしには起こりえなかった思考がどれだけあるかを考えてみよ。公平さについて、何世紀にもわたる議論が形作った方法で考える。時間について、自分が話す言語に付随する仕方で考える。文化が教えてくれたことに気づき、教えなかったことを見落とす。これらのいずれも、君の思考を偽物にするわけではない。しかし、「独創的な」部分は感じられるよりも小さく、「継承され再結合された」部分は大きいということだ。最近、内側から純粋に生成されたのではなく、与えられたものに遡れるような思考を、君は持っただろうか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你如何運用它們是你的——真真切切。你組合、應用和延伸你所繼承之物的方式，並非僅僅是借用。但請想想，有多少你的想法，若沒有在你存在之前就已建構出來的概念，根本不可能產生。你用數世紀辯論所塑造的方式來思考公平。你用你所說語言帶來的方式來思考時間。你注意到你的文化教你去注意的事物，而錯過它沒有教的事物。這些都不會使你的想法變得虛假。但這意味著「原創」的思考部分比感覺起來更小，而「繼承並重組」的部分則更大。你最近有什麼想法，可以追溯到某個給予你的東西，而非純粹從內在生成的嗎？
 
 [USER_EN]

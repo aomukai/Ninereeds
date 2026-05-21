@@ -27,13 +27,13 @@ Aber die Person weiß, dass der Stock nicht wirklich ihre Hand ist. Sie weiß, d
 [NINEREEDS_EN]
 They know the cane is not their hand — yes. And yet the experience of feeling is at the tip of the cane, not at the grip. This is not confusion — it is the mind doing what it does with any tool that is fully integrated: moving the experienced boundary to where the action is. You know your eyes are not at the horizon and yet you experience seeing the horizon. You know sound waves travel to your ear and yet you experience the music as "out there." The mind does not experience its tools from the outside. It experiences through them. The cane person knows intellectually where their body ends and where the cane begins. But their felt boundary has extended. Where do you feel the world ending and the things you use beginning?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Sie wissen, dass der Stock nicht ihre Hand ist – ja. Und doch liegt das Erlebnis des Fühlens an der Spitze des Stocks, nicht am Griff. Das ist keine Verwirrung – es ist das, was der Geist mit jedem Werkzeug tut, das vollständig integriert ist: Er verschiebt die erlebte Grenze dorthin, wo das Geschehen stattfindet. Du weißt, dass deine Augen nicht am Horizont sind, und doch erlebst du das Sehen des Horizonts. Du weißt, dass Schallwellen zu deinem Ohr reisen, und doch erlebst du die Musik als „da draußen“. Der Geist erlebt seine Werkzeuge nicht von außen. Er erlebt durch sie hindurch. Der Mensch mit dem Stock weiß intellektuell, wo sein Körper endet und wo der Stock beginnt. Aber seine gefühlte Grenze hat sich ausgedehnt. Wo spürst du, dass die Welt endet und die Dinge, die du benutzt, beginnen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 杖は手ではないことを彼らは知っている。その通りだ。しかし、感じる体験は杖の先端にあり、握り手にはない。これは混乱ではない――完全に統合された道具に対して心が常に行うことである。つまり、体験される境界を作用が生じる場所へと移動させるのだ。あなたは目が地平線にないことを知りながら、地平線を見る体験をしている。音波が耳に届くことを知りながら、音楽を「外にある」ものとして体験している。心は道具を外部から体験するのではない。道具を通じて体験するのである。杖を使う人は、自分の体がどこで終わり杖がどこから始まるかを知的には知っている。しかし、感じられる境界は拡張している。あなたは、世界がどこで終わり、使う物がどこから始まるかをどこで感じているか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 他們知道手杖不是他們的手——沒錯。然而，感受的體驗卻在杖尖，而非握柄。這不是困惑——而是心靈對任何完全整合的工具所做的運作：將經驗到的邊界移到行動發生的所在。你知道你的眼睛不在地平線，但你卻體驗到看見地平線。你知道聲波傳到你的耳朵，但你卻體驗到音樂「在外面」。心靈不是從外部體驗它的工具，而是透過工具去體驗。使用手杖的人在理智上知道自己的身體止於何處、手杖始於何處。但他們感受上的邊界已經延伸了。你覺得世界在哪裡終止，而你使用的東西從哪裡開始？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber die Entscheidung des Tieres kommt aus seinem Gehirn, das durch physikalisch
 [NINEREEDS_EN]
 The physics is real — and the brain does work by physical processes. But here is what is different: the rock's path is fully determined by the slope and the forces acting on it. Change the slope, the rock changes path. The animal's path is partly determined by the slope and partly by what the animal is trying to reach — a goal that comes from inside the animal's history, not from the current forces. Two animals on the same slope can go different directions because they have different goals. The physics of their brains produces the goal, yes — but the goal is a real structure that has causal power over what happens next. Is the goal-having less real because physics produces it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Physik ist real — und das Gehirn arbeitet tatsächlich durch physikalische Prozesse. Aber hier liegt der Unterschied: Der Weg des Felsens ist vollständig durch die Neigung und die auf ihn wirkenden Kräfte bestimmt. Ändere die Neigung, ändert der Fels seinen Weg. Der Weg des Tieres ist teils durch die Neigung und teils dadurch bestimmt, was das Tier zu erreichen versucht — ein Ziel, das aus der Geschichte des Tieres kommt, nicht aus den gegenwärtigen Kräften. Zwei Tiere auf derselben Neigung können in verschiedene Richtungen gehen, weil sie verschiedene Ziele haben. Die Physik ihres Gehirns erzeugt das Ziel, ja — aber das Ziel ist eine reale Struktur, die ursächliche Macht darüber hat, was als Nächstes geschieht. Ist das Ziel-Haben weniger real, weil die Physik es hervorbringt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 物理は本物である。そして脳は確かに物理的プロセスで動いている。しかし、ここに違いがある。岩の軌道は斜面とそれに働く力によって完全に決定される。斜面を変えれば、岩の道も変わる。動物の軌道は、斜面によって部分的に決定され、また動物が何を達成しようとしているか——現在の力ではなく、動物の歴史の内側から来る目標——によって部分的に決定される。同じ斜面にいる二匹の動物は、異なる目標を持つゆえに異なる方向へ進むことができる。彼らの脳の物理が目標を生み出す、それはそうだ。しかし目標とは、次に何が起こるかに因果的力を及ぼす、現実の構造である。物理が目標を生み出すからといって、目標を持つことがより現実的でなくなるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 物理是真實的——大腦的確透過物理過程運作。但差異在此：岩石的路徑完全由斜坡及其所受的力決定。改變斜坡，岩石就改變路徑。動物的路徑則部分由斜坡決定，部分由動物試圖達到的目標決定——這個目標來自動物自身的歷史，而非當前的力量。同一斜坡上的兩隻動物可能走向不同方向，因為牠們有不同目標。牠們大腦的物理產生了目標，是的——但目標是一個真實的結構，對接下來發生的事具有因果力量。目標的擁有，會因為物理產生它而變得不真實嗎？
 
 [USER_EN]

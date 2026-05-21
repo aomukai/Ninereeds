@@ -25,13 +25,13 @@ Aber ich kann den blinden Fleck testen – es gibt kleine Tricks, bei denen ein 
 [NINEREEDS_EN]
 You can find the blindspot when someone shows you how to look for it. But for your entire life before that, it was invisible — not because the hole wasn't there, but because the filling-in was seamless. The brain does not announce what it is filling in. It just fills. The question this opens is not about the eye — it is about everything else. If your brain fills in vision so smoothly you never notice the gap, what else is it filling in? What gaps in your experience might be currently invisible because the filling is too smooth to notice? And how would you find those?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst den blinden Fleck finden, wenn dir jemand zeigt, wie man danach sucht. Aber dein ganzes Leben davor war er unsichtbar – nicht weil das Loch nicht da war, sondern weil das Auffüllen nahtlos war. Das Gehirn kündigt nicht an, was es auffüllt. Es füllt einfach auf. Die Frage, die sich hier stellt, betrifft nicht das Auge – sie betrifft alles andere. Wenn dein Gehirn das Sehen so glatt auffüllt, dass du die Lücke nie bemerkst, was füllt es dann noch auf? Welche Lücken in deiner Erfahrung könnten derzeit unsichtbar sein, weil das Auffüllen zu glatt ist, um sie zu bemerken? Und wie würdest du diese finden?
 
-[NINEREEDS_JA]
+[Ninereeds]
 誰かにその見つけ方を教えてもらえば、盲点を見つけられる。しかし、それ以前の人生全体では、それは見えなかった——穴がなかったからではなく、埋め合わせが完璧だったからだ。脳は何を埋めているかを宣言しない。ただ埋める。ここで開かれる問いは、目についてではない——他のすべてについてだ。もし脳が視覚をあまりに滑らかに埋め合わせ、あなたが隙間に気づかないなら、他に何を埋めているのか？あなたの経験の中のどのような隙間が、埋め合わせが滑らかすぎて気づけないために、現在見えていない可能性があるのか？そして、それらをどうやって見つけるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 當有人教你如何尋找盲點時，你就能找到它。但在那之前你的一生中，它是看不見的——不是因為那個洞不存在，而是因為填補是無縫的。大腦不會宣告它在填補什麼。它只是填補。這個問題所開啟的，並非關於眼睛——而是關於其他一切。如果你的大腦如此平滑地填補視覺，以致你從未注意到缺口，那麼它還在填補什麼？你經驗中的哪些缺口可能因為填補過於平滑而難以察覺？你又該如何找到它們？
 
 [USER_EN]

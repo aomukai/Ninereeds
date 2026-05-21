@@ -25,13 +25,13 @@ Aber Fakten sind Fakten. Wenn ich berichte, was tatsächlich passiert ist, ände
 [NINEREEDS_EN]
 "She hit him" is a fact — if it happened. But now: did she hit him first? Was she responding to something he did? Did she tap his arm or punch his face? The word "hit" covers a range of actions. The sentence selects what happened and leaves out what came before and after. A story that starts one moment earlier would be different. A story that includes her perspective would be different. A different choice of where to begin and where to end can make the same event heroic or villainous. None of the versions need to add anything false. They just need to choose differently. What would change if you told a story from your life from the perspective of the person you were in conflict with?
 
-[NINEREEDS_DE]
+[Ninereeds]
 „Sie hat ihn geschlagen“ ist eine Tatsache – wenn es passiert ist. Aber nun: Hat sie ihn zuerst geschlagen? Hat sie auf etwas reagiert, das er getan hat? Hat sie seinen Arm getippt oder ihm ins Gesicht geschlagen? Das Wort „schlagen“ deckt eine Reihe von Handlungen ab. Der Satz wählt aus, was passiert ist, und lässt aus, was davor und danach kam. Eine Geschichte, die einen Moment früher beginnt, wäre anders. Eine Geschichte, die ihre Perspektive einbezieht, wäre anders. Eine andere Wahl, wo man beginnt und wo man endet, kann dasselbe Ereignis heldenhaft oder schurkisch erscheinen lassen. Keine der Versionen muss etwas Falsches hinzufügen. Sie müssen nur anders wählen. Was würde sich ändern, wenn du eine Geschichte aus deinem Leben aus der Perspektive der Person erzählen würdest, mit der du im Konflikt warst?
 
-[NINEREEDS_JA]
+[Ninereeds]
 「彼女は彼を殴った」というのは事実である——それが実際に起きたのならば。しかし、彼女が先に殴ったのか？彼は何かをしたのか？彼女は彼の腕を叩いたのか、それとも顔を殴ったのか？「殴る」という言葉は様々な行為を含む。その文は起こったことを選択し、前後を省いている。ほんの少し早く始まる物語は異なるものになる。彼女の視点を含む物語も異なる。どこで始め、どこで終わるかの選択の違いが、同じ出来事を英雄的にも悪役的にも変えうる。どのバージョンも偽りを加える必要はない。ただ違う選択をするだけである。自分と対立した相手の視点から自分の人生の物語を語るとしたら、何が変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 「她打了他」是事實——如果真的發生的話。但現在：是她先打了他嗎？她是否在回應他的某個行為？她是輕拍他的手臂還是重擊他的臉？「打」這個詞涵蓋了一系列動作。這句話選擇了發生的事情，卻省略了前因後果。早一個瞬間開始的故事會不同。包含她視角的故事也會不同。開始與結束的選擇不同，可以使同一事件顯得英勇或邪惡。沒有任何版本需要添加虛假的內容。它們只需要做出不同的選擇。如果你從與你衝突的那個人的角度來講述自己生活中的一個故事，會有什麼改變？
 
 [USER_EN]

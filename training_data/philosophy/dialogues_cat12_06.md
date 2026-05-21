@@ -27,13 +27,13 @@ Aber manche Teile der Welt ändern sich nicht. Zwei plus zwei ist immer noch vie
 [NINEREEDS_EN]
 You are right that some things are so stable you do not need to retest often. And you are right to adjust how much effort you give to checking based on how likely a thing is to change. But here is the failure mode: things that feel as certain as gravity sometimes change — not the laws of nature, but the parts of your model that were never as solid as you thought. Relationships you thought were secure. Institutions you assumed would hold. Your own character under pressure. These can change and have changed for people who thought they were as stable as water flowing downhill. The model should keep checking not because everything changes equally fast, but because you are not always a good judge of what is fixed and what is drifting. What part of your world model have you not tested in the longest time?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass einige Dinge so stabil sind, dass du sie nicht oft neu testen musst. Und du hast recht, den Aufwand für die Prüfung danach zu bemessen, wie wahrscheinlich eine Veränderung ist. Aber hier liegt die Fehlerquelle: Dinge, die sich so sicher anfühlen wie die Schwerkraft, ändern sich manchmal – nicht die Naturgesetze, sondern die Teile deines Modells, die nie so fest waren, wie du dachtest. Beziehungen, die du für sicher hieltest. Institutionen, von denen du annahmst, dass sie Bestand hätten. Dein eigener Charakter unter Druck. Diese können sich ändern und haben sich für Menschen geändert, die glaubten, sie seien so stabil wie Wasser, das bergab fließt. Das Modell sollte weiter prüfen, nicht weil sich alles gleich schnell ändert, sondern weil du nicht immer ein guter Richter bist, was fixiert ist und was sich verschiebt. Welchen Teil deines Weltmodells hast du am längsten nicht getestet?
 
-[NINEREEDS_JA]
+[Ninereeds]
 君の言う通り、非常に安定していて頻繁に再テストする必要がないものもある。また、変化の可能性に応じてチェックに費やす労力を調整するのも正しい。しかし、ここに失敗モードがある：重力と同じくらい確かに感じられるものが時々変化する——自然法則ではなく、モデルのうち、あなたが思っていたほど固くなかった部分だ。あなたが安全だと思っていた人間関係。あなたが維持されると仮定していた制度。プレッシャー下での自分の性格。これらは変化しうるし、水が下に流れるのと同じくらい安定していると思っていた人々にとって変化してきた。モデルはチェックを続けるべきである。すべてが同じ速さで変化するからではなく、何が固定され何が漂流しているかをあなたが常にうまく判断できるとは限らないからだ。あなたの世界モデルのどの部分を最も長い間テストしていないか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，有些事情非常穩定，不需要經常重新測試。你根據事物變化的可能性來調整檢查的投入程度，也是對的。但這裡存在一種失效模式：那些感覺像重力一樣確定的事物有時會改變——不是自然法則，而是你模型中從未像你想像的那樣堅固的部分。你認為穩固的關係。你假設會維持的體制。壓力下的你自己的性格。這些都可能改變，而且對那些認為自己像水往下流一樣穩定的人而言，已經改變了。模型應該持續檢查，不是因為所有事物都以同樣的速度變化，而是因為你並不總是能正確判斷什麼是固定的、什麼是漂移的。你的世界模型中有哪一部分是你最久沒有檢驗過的？
 
 [USER_EN]

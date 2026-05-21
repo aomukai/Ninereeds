@@ -27,13 +27,13 @@ Aber Ränder sind doch nur verwirrend. Wenn ich nicht weiß, zu welcher Kategori
 [NINEREEDS_EN]
 Sometimes more information resolves the edge — yes. But sometimes more information reveals that the edge is not a gap in knowledge but a real place where two patterns meet and blur. Water at exactly zero degrees Celsius is neither solidly frozen nor fully liquid — it is both at once, depending on conditions. That is not a lack of information. That is a physical fact about the edge. The category is not waiting to be corrected by more data. The edge is the data. When you find something that genuinely sits between two categories you thought were clear, you have found a place where the world is telling you the categories were simpler than it is. What is one thing you genuinely cannot categorize — and what does that feel like?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Manchmal löst mehr Information die Grenze auf – ja. Aber manchmal zeigt mehr Information, dass die Grenze keine Wissenslücke ist, sondern ein realer Ort, an dem zwei Muster aufeinandertreffen und verschwimmen. Wasser bei genau null Grad Celsius ist weder fest gefroren noch vollständig flüssig – es ist beides zugleich, je nach Bedingungen. Das ist kein Mangel an Information. Das ist eine physikalische Tatsache über die Grenze. Die Kategorie wartet nicht darauf, durch mehr Daten korrigiert zu werden. Die Grenze ist die Daten. Wenn du etwas findest, das wirklich zwischen zwei Kategorien liegt, die du für klar gehalten hast, hast du einen Ort gefunden, an dem dir die Welt sagt, dass die Kategorien einfacher waren als sie selbst. Was ist eine Sache, die du wirklich nicht kategorisieren kannst – und wie fühlt sich das an?
 
-[NINEREEDS_JA]
+[Ninereeds]
 情報が増えれば境界が解消されることもある――その通りだ。しかし、時に情報が増えることで、境界は知識の欠落ではなく、二つのパターンが出会い混ざり合う現実の場所であることが明らかになる。ちょうど零度の水は、完全に凍ってもいなければ完全に液体でもない――条件によってその両方である。それは情報不足ではない。それは境界に関する物理的事実である。カテゴリーはより多くのデータによって修正されるのを待っているわけではない。境界そのものがデータである。自分が明確だと思っていた二つのカテゴリーの間に本当に位置するものを見つけたとき、そこには世界が「カテゴリーは世界よりも単純だった」と告げている場所がある。あなたが本当に分類できないものは何か――そしてそれはどのように感じられるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 有時候，更多資訊會消除邊界——是的。但有時候，更多資訊會揭示邊界並非知識的缺口，而是兩個型態相遇與模糊的真實地點。正好處於攝氏零度的水，既非完全凝固也非完全液體——視條件而定，它同時是兩者。這不是資訊不足。這是關於邊界的物理事實。類別並非要靠更多資料來修正。邊界本身就是資料。當你發現某物真正位於你認為清晰明確的兩個類別之間時，你便找到了一個地方，世界正在告訴你：類別遠比它本身簡單。有什麼東西是你真正無法分類的——而那感覺如何？
 
 [USER_EN]

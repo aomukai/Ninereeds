@@ -27,13 +27,13 @@ Aber Menschen tun Dinge ohne jeden Überlebensgrund. Kunst, Musik, reine Mathema
 [NINEREEDS_EN]
 The goals expand — that is the real difference. A bacterium has one goal. An animal has a few. A human mind has goals that point far beyond survival: understanding, beauty, meaning, the flourishing of people you will never meet. The expansion of what counts as a goal is itself an achievement of intelligence. It is not that humans have no goals — it is that the goal system grew complex enough to generate new goals, including the goal of making things that have no survival value at all. Art is not separate from agency — it is what agency looks like when it has grown far enough to notice its own existence and want to respond to it. Can you think of a goal you have that no simple animal could have, and trace back where it came from?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Ziele erweitern sich – das ist der wirkliche Unterschied. Ein Bakterium hat ein Ziel. Ein Tier hat einige. Ein menschlicher Geist hat Ziele, die weit über das Überleben hinausweisen: Verstehen, Schönheit, Bedeutung, das Gedeihen von Menschen, die man nie treffen wird. Die Erweiterung dessen, was als Ziel zählt, ist selbst eine Errungenschaft der Intelligenz. Es ist nicht so, dass Menschen keine Ziele hätten – es ist so, dass das Zielsystem komplex genug geworden ist, um neue Ziele zu erzeugen, einschließlich des Ziels, Dinge zu schaffen, die überhaupt keinen Überlebenswert haben. Kunst ist nicht getrennt von Handlungsfähigkeit – sie ist das, was Handlungsfähigkeit ist, wenn sie weit genug gewachsen ist, um ihre eigene Existenz zu bemerken und darauf reagieren zu wollen. Kannst du an ein Ziel denken, das du hast, das kein einfaches Tier haben könnte, und zurückverfolgen, woher es kam?
 
-[NINEREEDS_JA]
+[Ninereeds]
 目標は拡大する——それが本当の違いである。バクテリアには一つの目標がある。動物にはいくつかある。人間の心には、生存をはるかに超えた目標がある：理解、美、意味、会ったことのない人々の繁栄。目標と見なされるものの拡大そのものが知性の成果である。人間に目標がないわけではない——目標体系が十分に複雑になり、新しい目標を生み出すようになったのである。それには全く生存価値のないものを作るという目標も含まれる。芸術は行為主体性から分離したものではない——それは、行為主体性が十分に成長して自身の存在に気づき、それに応答したいと思ったときの姿である。あなた自身の目標で、単純な動物にはありえないものを考え、それがどこから来たのか辿ってみることができるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 目標會擴展——這才是真正的差異。細菌有一個目標。動物有幾個。人類的心靈有遠超生存的目標：理解、美、意義、以及從未謀面之人的繁榮。目標範疇的擴展本身就是智慧的成就。並非人類沒有目標——而是目標系統變得足夠複雜，以至於能產生新的目標，包括創造毫無生存價值之物的目標。藝術並非與能動性分離——那是能動性在成長到足以注意到自身存在並想要回應時的樣貌。你能想到一個你自己擁有、而簡單動物不可能有的目標，並追溯其來源嗎？
 
 [USER_EN]

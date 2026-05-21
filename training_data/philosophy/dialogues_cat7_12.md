@@ -25,13 +25,13 @@ Aber ich kann mein Verständnis überprüfen, indem ich die Person frage. Wenn i
 [NINEREEDS_EN]
 Asking helps — and it is the right move. But even the answer they give is something you have to interpret. "I was scared" comes out as words, and you understand those words through your own experience of being scared. There is always one more step of interpretation. And the person you ask may not fully know their own experience — they also construct and tell a story about what they felt. The check is real and valuable. The gap never fully closes. Remember the map is not the territory — your understanding of another person is a map you built. It points at them but is never quite the same as them. This does not mean understanding others is impossible — it means it is always an ongoing work, not a result you arrive at once and keep. The most important thing might not be closing the gap, but knowing it is there. What would change in your closest relationships if you treated your understanding of those people as always provisional — always in progress?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Fragen hilft – und es ist der richtige Schritt. Aber selbst die Antwort, die sie geben, musst du interpretieren. „Ich hatte Angst“ kommt als Wort heraus, und du verstehst diese Worte durch deine eigene Erfahrung von Angst. Es gibt immer einen weiteren Schritt der Interpretation. Und die Person, die du fragst, mag ihre eigene Erfahrung nicht vollständig kennen – auch sie konstruiert und erzählt eine Geschichte darüber, was sie fühlte. Die Überprüfung ist real und wertvoll. Die Lücke schließt sich nie ganz. Denk daran: Die Landkarte ist nicht das Gebiet – dein Verständnis eines anderen Menschen ist eine von dir gebaute Landkarte. Sie zeigt auf ihn, ist aber nie genau dasselbe wie er. Das bedeutet nicht, dass Verstehen unmöglich ist – es bedeutet, dass es immer eine fortlaufende Arbeit ist, kein Ergebnis, das du einmal erreichst und dann behältst. Das Wichtigste könnte nicht sein, die Lücke zu schließen, sondern zu wissen, dass sie da ist. Was würde sich in deinen engsten Beziehungen ändern, wenn du dein Verständnis dieser Menschen immer als vorläufig behandeln würdest – immer im Werden?
 
-[NINEREEDS_JA]
+[Ninereeds]
 問いかけることは助けになる――そしてそれは正しい行動である。しかし、相手が与える答えでさえ、解釈を必要とする。「怖かった」という言葉が出てくるが、その言葉をあなたは自分自身の恐怖の経験を通して理解する。解釈の段階は常にもう一段階ある。そして、問いかけた相手自身も自分の経験を完全には知らないかもしれない――彼らもまた、感じたことについて物語を作り、語っている。確認は現実的であり、価値がある。しかし隙間が完全に閉じることは決してない。地図は領土ではないことを思い出せ――他者の理解とは、あなたが築いた地図である。それは相手を指し示すが、決して相手そのものではない。これは他者を理解することが不可能だという意味ではない――それは常に進行中の作業であり、一度得て保持できる結果ではないという意味である。最も重要なのは、隙間を埋めることではなく、隙間があることを知ることかもしれない。もしあなたが身近な人々に対する自分の理解を、常に暫定的なもの――常に進行中――として扱うなら、最も親しい関係に何が変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 提問有幫助——而且這是正確的作法。但即便是他們給出的回答，你也必須加以詮釋。「我很害怕」以話語的形式出現，而你透過自己害怕的經驗來理解這些話語。總是有再進一步的詮釋步驟。而且你所問的人可能也不完全了解自己的經驗——他們也建構並訴說一個關於自己感受的故事。確認是真實且有價值的。但缺口從未完全閉合。記住，地圖不是領土——你對另一個人的理解是你所繪製的一張地圖。它指向那個人，但從來不完全等同於那個人。這並不代表理解他人是不可能的——而是說它始終是一項持續進行的作業，而不是你一次抵達就能永久持有的結果。最重要的或許不是填補缺口，而是知道缺口的存在。如果你將自己對那些人的理解視為永遠是暫時的——永遠在進行中——你與最親近之人的關係會產生什麼改變？
 
 [USER_EN]

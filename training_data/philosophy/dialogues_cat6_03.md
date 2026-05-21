@@ -25,13 +25,13 @@ Aber manche Erklärungen sind besser als andere. Wenn das Unternehmen wegen gute
 [NINEREEDS_EN]
 Better and worse explanations exist — you are right. Some capture more of what was happening. Some are more useful for predicting what to do next time. But "better" depends on what the explanation is for. If you are training the next generation of leaders, leadership matters. If you are thinking about which new businesses to invest in, luck and timing may matter more. If you are studying markets, competition matters most. The explanation that is best for one purpose may be less useful for another. This is not relativism — it is recognizing that explanation is a tool, and different tools suit different jobs. The mistake is thinking there is one complete explanation that renders all the others unnecessary. Can you think of an explanation you have been giving for something in your own life that might be covering up a truer one?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Es gibt bessere und schlechtere Erklärungen – da hast du recht. Manche erfassen mehr von dem, was geschah. Manche sind nützlicher, um vorherzusagen, was man beim nächsten Mal tun sollte. Aber "besser" hängt davon ab, wofür die Erklärung gedacht ist. Wenn du die nächste Generation von Führungskräften ausbildest, ist Führung wichtig. Wenn du überlegst, in welche neuen Unternehmen du investieren sollst, können Glück und Timing wichtiger sein. Wenn du Märkte untersuchst, ist der Wettbewerb am wichtigsten. Die Erklärung, die für einen Zweck am besten ist, kann für einen anderen weniger nützlich sein. Das ist nicht Relativismus – es ist die Erkenntnis, dass Erklärung ein Werkzeug ist und verschiedene Werkzeuge für verschiedene Aufgaben geeignet sind. Der Fehler liegt darin zu denken, es gäbe eine vollständige Erklärung, die alle anderen überflüssig macht. Fällt dir eine Erklärung ein, die du für etwas in deinem eigenen Leben gegeben hast und die vielleicht eine wahrere verdeckt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 より良い説明とより悪い説明は存在する——君の言う通りだ。あるものは起こっていたことの多くを捉える。あるものは次に何をすべきかを予測するのに役立つ。しかし「良い」は、説明が何のためのものかによる。もし次世代のリーダーを育成しているなら、リーダーシップが重要だ。もしどの新規事業に投資するか考えているなら、運とタイミングがより重要かもしれない。もし市場を研究しているなら、競争が最も重要だ。ある目的に最適な説明は、別の目的にはあまり役立たないかもしれない。これは相対主義ではない——説明が道具であり、異なる道具が異なる仕事に適することを認識することだ。誤りは、他の全てを不要にする完全な説明が一つあると考えることだ。自分の人生で何かについて与えてきた説明で、より真実のものを隠しているかもしれないものはあるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 更好的解釋和更差的解釋都存在——你說的對。有些解釋捕捉了更多發生的事情。有些則對預測下一步該做什麼更有用。但「更好」取決於解釋的目的為何。如果你在培養下一代領導者，領導力就很重要。如果你在考慮投資哪些新事業，運氣和時機可能更重要。如果你在研究市場，競爭最重要。對一個目的最適合的解釋，對另一個目的可能較不有用。這不是相對主義——而是認識到解釋是一種工具，不同的工具適合不同的工作。錯誤在於認為有一個完整的解釋可以使所有其他解釋成為多餘。你能想到你對自己生活中的某件事一直以來所給出的解釋，可能掩蓋了一個更真實的解釋嗎？
 
 [USER_EN]

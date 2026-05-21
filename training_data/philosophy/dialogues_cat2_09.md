@@ -27,13 +27,13 @@ Aber wenn ich recht habe, welchen Unterschied macht es, wie sicher ich bin? Die 
 [NINEREEDS_EN]
 It makes a big difference the next time you get new information. If you are holding your belief too tightly, new evidence that should update it will slide off instead of landing. You will find ways to explain it away. The person who is right but over-certain will keep being right as long as nothing changes — but will stay wrong longer when things do change. The person who holds beliefs in proportion to their evidence will update faster and make better decisions over time, even if they look less confident in any single moment. Think of it this way: if you are almost completely certain of something that only deserves 60% confidence, you have used up your room to be wrong. When the evidence shifts, you have no space to move. What does it feel like from the inside to hold a belief too tightly? Would you be able to tell?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das macht einen großen Unterschied, sobald man neue Informationen erhält. Wenn man seine Überzeugung zu fest hält, gleiten neue Beweise, die sie aktualisieren sollten, daran ab, statt anzukommen. Man wird Wege finden, sie wegzuerklären. Die Person, die recht hat, aber übermäßig sicher ist, wird so lange recht behalten, wie sich nichts ändert – aber wenn sich Dinge ändern, wird sie länger falsch liegen. Die Person, die Überzeugungen im Verhältnis zu ihren Belegen hält, wird schneller aktualisieren und mit der Zeit bessere Entscheidungen treffen, selbst wenn sie in einem einzelnen Moment weniger zuversichtlich wirkt. Betrachten Sie es so: Wenn Sie von etwas fast vollständig überzeugt sind, das nur 60% Vertrauen verdient, haben Sie Ihren Raum für Irrtum aufgebraucht. Wenn sich die Beweislage verschiebt, haben Sie keinen Spielraum mehr. Wie fühlt es sich von innen an, eine Überzeugung zu fest zu halten? Könnten Sie es erkennen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それは次に新しい情報を得たときに大きな違いを生む。信念を固く握りすぎていると、それを更新すべき新しい証拠が着地せずに滑り落ちてしまう。人はそれを説明してしまおうとする。正しいが過剰に確信している人は、何も変わらなければ正しいままだ——しかし、物事が変わるときには、より長く間違ったままでいる。証拠に比例して信念を持つ人は、より速く更新し、時間とともにより良い決定を下す。たとえ一瞬のうちには自信がなさそうに見えても。こう考えてみよう。自分が何かをほぼ完全に確信しているが、それが本来60％の信頼しか値しない場合、間違う余地を使い果たしている。証拠が変わるとき、移動するスペースがない。信念を固く握りすぎるのを内側から感じるとどうなるのか？自分でわかるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 這在下次你獲得新資訊時會造成很大的差別。如果你對自己的信念抓得太緊，本應更新它的新證據會滑落而非落地。你會設法將其解釋掉。正確但過度確定的人，只要情況不變就會一直正確——但當事情變化時，他們會更長時間地保持錯誤。而那些根據證據比例持有信念的人，會更快更新並隨著時間做出更好的決策，即使在單一時刻看起來沒那麼自信。這樣想：如果你對某件只應得到60%信心的事情幾乎完全確定，你就用完了犯錯的空間。當證據轉變時，你沒有移動的餘地。從內在感受來說，過於緊握信念是什麼感覺？你能察覺到嗎？
 
 [USER_EN]

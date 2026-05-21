@@ -103,17 +103,17 @@ Example: 彼は子供に犬のボールをあげた。
 [SUBJ] gave [IO] [POSS's DO].
 [SUBJ_DE] hat [IO_DAT] [DO_ACC] [POSS_GEN] gegeben.
 [SUBJ_JP]は[IO_JP]に[POSS_JP]の[DO_JP]をあげた。
-[SUBJ_ZH]给[IO_ZH][POSS_ZH]的[DO_ZH]了。
+[SUBJ_ZH]给[IO_ZH][POSS]的[DO_ZH]了。
 
 [SUBJ] gives [IO] [POSS's DO].
 [SUBJ_DE] gibt [IO_DAT] [DO_ACC] [POSS_GEN].
 [SUBJ_JP]は[IO_JP]に[POSS_JP]の[DO_JP]をあげる。
-[SUBJ_ZH]给[IO_ZH][POSS_ZH]的[DO_ZH]。
+[SUBJ_ZH]给[IO_ZH][POSS]的[DO_ZH]。
 
 [SUBJ] will give [IO] [POSS's DO].
 [SUBJ_DE] wird [IO_DAT] [DO_ACC] [POSS_GEN] geben.
 [SUBJ_JP]は[IO_JP]に[POSS_JP]の[DO_JP]をあげるだろう。
-[SUBJ_ZH]会给[IO_ZH][POSS_ZH]的[DO_ZH]。
+[SUBJ_ZH]会给[IO_ZH][POSS]的[DO_ZH]。
 ```
 
 ### Example — give (dative + genitive)

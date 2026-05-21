@@ -25,13 +25,13 @@ Aber ein Felsen bleibt ein Felsen, auch wenn ihn niemand ansieht. Wie kann ein F
 [NINEREEDS_EN]
 The rock is there — your foot would hurt if you kicked it. But think about what makes a rock a rock. It's hard where the air is soft. It's solid where the ground underneath is different. If the whole universe were rock, there wouldn't be "rock" anymore — there wouldn't be anything to compare it to. So the rock is real, but what makes it a rock instead of just everything is the difference between rock and not-rock. Can you think of something that only exists because something else is different from it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Felsen ist da – dein Fuß würde weh tun, wenn du dagegen trittst. Aber denk darüber nach, was einen Felsen zum Felsen macht. Er ist hart, wo die Luft weich ist. Er ist fest, wo der Boden darunter anders ist. Wenn das ganze Universum aus Felsen bestünde, gäbe es keinen »Felsen« mehr – es gäbe nichts, womit man ihn vergleichen könnte. Also ist der Felsen real, aber was ihn zum Felsen macht und nicht einfach zu allem, ist der Unterschied zwischen Felsen und Nicht-Felsen. Fällt dir etwas ein, das nur existiert, weil etwas anderes sich davon unterscheidet?
 
-[NINEREEDS_JA]
+[Ninereeds]
 岩はそこにある。蹴れば足が痛むだろう。しかし、何が岩を岩たらしめているか考えてみよう。空気が柔らかいところで、岩は硬い。下の地面が異なるところで、岩は固体である。もし宇宙全体が岩だったら、「岩」は存在しなくなる――比較するものがないからだ。だから岩は実在するが、岩をただの「すべて」ではなく「岩」にするものは、岩と非岩の差異である。何かが別のものと異なることによってのみ存在するものは、考えられるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 岩石就在那裡——你踢它一腳，腳會痛。但想想是什麼讓岩石成為岩石。它在空氣柔軟的地方是堅硬的。它在下方的地面不同的地方是固體的。如果整個宇宙都是岩石，那就再也沒有「岩石」了——沒有任何東西可以與之相比。所以岩石是真實的，但讓它成為岩石而不是萬物的，是岩石與非岩石之間的差異。你能想到某樣東西只因與其他事物不同而存在嗎？
 
 [USER_EN]

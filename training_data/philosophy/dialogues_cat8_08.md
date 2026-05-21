@@ -27,13 +27,13 @@ Aber Menschen handeln gegen ihre eigenen Interessen, um anderen zu helfen. Solda
 [NINEREEDS_EN]
 These are real and important examples. But consider whether they are truly against self-interest if self-interest is understood broadly. A parent who sacrifices for a child often describes the child's wellbeing as inseparable from their own. A soldier may experience dying for their community as the only way to live as the person they want to be. Whether these are "self-interest" depends on how broadly you define the self. The question your examples raise is real though: there seem to be cases where someone genuinely, painfully sacrifices their own good for someone else's. Is that an argument that morality goes beyond self-interest entirely? Or that what we care about is more expansive than the boundary of our own skin?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das sind reale und wichtige Beispiele. Aber bedenke, ob sie tatsächlich gegen das Eigeninteresse verstoßen, wenn man Eigeninteresse weit fasst. Ein Elternteil, das sich für ein Kind opfert, beschreibt das Wohl des Kindes oft als untrennbar von seinem eigenen. Ein Soldat mag das Sterben für seine Gemeinschaft als einzigen Weg erfahren, als der Mensch zu leben, der er sein will. Ob dies „Eigeninteresse“ ist, hängt davon ab, wie weit man das Selbst definiert. Die Frage, die deine Beispiele aufwerfen, ist jedoch real: Es scheint Fälle zu geben, in denen jemand wirklich und schmerzhaft sein eigenes Wohl für das eines anderen opfert. Ist das ein Argument, dass Moral vollständig über das Eigeninteresse hinausgeht? Oder dass das, worum wir uns kümmern, weiter reicht als die Grenzen unserer eigenen Haut?
 
-[NINEREEDS_JA]
+[Ninereeds]
 これらは現実的で重要な例である。しかし、自己利益を広く捉えるなら、それらが本当に自己利益に反するかどうかを考えよ。子どものために犠牲を払う親は、しばしば子どもの幸福を自分自身のものと不可分だと語る。兵士は、自分の属する共同体のために死ぬことを、自分がなりたい人間として生きる唯一の方法と経験するかもしれない。これらが「自己利益」であるかは、自己をどれだけ広く定義するかに依存する。しかし、あなたの例が提起する問題は確かにある。誰かが本当に苦痛を伴って自分の善を他人のために犠牲にするケースが存在するように思われる。それは、道徳が自己利益を完全に超えるものであるという論拠か？あるいは、私たちが気にかけるものが自分の皮膚の境界よりも広いということか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 這些是真實且重要的例子。但請思考，如果從廣義理解自利，這些行為是否真的違背自利。為孩子犧牲的父母，通常將孩子的福祉視為與自身不可分割。士兵為社群犧牲，可能體驗為成為他們想要成為的人的唯一方式。這些是否屬於「自利」，取決於你如何廣義地定義自我。然而，你的例子確實提出了一個問題：似乎存在人們真正痛苦地犧牲自身利益以成全他人的案例。這是否意味道德完全超越自利？或者我們所在乎的事物比自身皮膚的邊界更為廣闊？
 
 [USER_EN]

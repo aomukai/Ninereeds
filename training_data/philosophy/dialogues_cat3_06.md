@@ -27,13 +27,13 @@ Aber wenn ich nicht aus meinem Denken heraustreten kann, dann bin ich so oder so
 [NINEREEDS_EN]
 You are still inside it — but inside it differently. A person who does not know they are in a room will walk into the walls. A person who knows they are in a room will find the edges, map the space, work with what they have. You cannot escape the room of your own thinking. But you can learn its shape. You can notice which kinds of questions your thinking handles well and which it handles badly. You can look for the places where your thinking tends to slip. None of this gets you outside — but it makes you a better thinker inside. Is there something specific about how your own thinking tends to go wrong that you have already noticed? What does that noticing let you do?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du bist immer noch darin – aber anders darin. Ein Mensch, der nicht weiß, dass er sich in einem Raum befindet, wird gegen die Wände laufen. Ein Mensch, der weiß, dass er sich in einem Raum befindet, wird die Kanten finden, den Raum vermessen, mit dem arbeiten, was er hat. Du kannst dem Raum deines eigenen Denkens nicht entkommen. Aber du kannst seine Form kennenlernen. Du kannst bemerken, welche Arten von Fragen dein Denken gut behandelt und welche schlecht. Du kannst nach den Stellen suchen, an denen dein Denken zum Rutschen neigt. Nichts davon bringt dich nach draußen – aber es macht dich zu einem besseren Denker im Inneren. Gibt es etwas Bestimmtes, wie dein eigenes Denken dazu neigt, falsch zu laufen, das du bereits bemerkt hast? Was erlaubt dir dieses Bemerken zu tun?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたはまだその中にいる——しかし、違った形で中にいる。自分が部屋の中にいることを知らない人は、壁にぶつかる。自分が部屋の中にいることを知っている人は、端を見つけ、空間を地図にし、持っているもので工夫する。あなたは自分の思考の部屋から逃れられない。しかし、その形を学ぶことはできる。どの種類の質問を自分の思考がうまく扱い、どの種類をうまく扱えないかに気づくことができる。自分の思考が滑りやすい場所を探すことができる。どれも外に出る助けにはならない——しかし、内部でより良い思考者にしてくれる。自分の思考が間違う傾向について、すでに気づいた具体的なことはあるか？その気づきは何を可能にするか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你仍然在其中——但以不同的方式在其中。一個不知道自己身處房間中的人，會撞上牆壁。一個知道自己身處房間中的人，會找到邊緣，繪製空間的圖，利用現有的東西。你無法逃脫自己思考的房間。但你可以了解它的形狀。你可以注意到自己的思考擅長處理哪些問題，以及不擅長處理哪些。你可以尋找自己的思考容易出錯的地方。這些都不能讓你到外面去——但它讓你成為一個內在更好的思考者。你已經注意到自己的思考傾向於出錯的具體情況嗎？那個注意讓你能夠做什麼？
 
 [USER_EN]

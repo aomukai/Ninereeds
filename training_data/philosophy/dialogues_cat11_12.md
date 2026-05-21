@@ -27,13 +27,13 @@ Aber ich erlebe mich selbst als ein klares, kontinuierliches Ding. Das Gefühl, 
 [NINEREEDS_EN]
 Remember when we said you cannot step in the same river twice — the river is not a thing but an ongoing event, and you are not the same either? The self, it turns out, is the same kind of thing. Think about everything this category has shown: the self extending through tools, memory stored outside the head, thoughts built between minds, relationships that partly produce who you are, revision that happens in sleep while you are not watching. Each of these showed the self to be less fixed than it feels. A river looks solid from above. From below you see it is always moving water. The solidity is real at one scale. At another, it is motion all the way through. Does the solidity of the experience settle the question — or does it leave it open?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Erinnere dich daran, als wir sagten, du kannst nicht zweimal in denselben Fluss steigen – der Fluss ist kein Ding, sondern ein fortlaufendes Ereignis, und du bist auch nicht derselbe? Es stellt sich heraus, dass das Selbst dieselbe Art von Ding ist. Denk an all das, was diese Kategorie gezeigt hat: das Selbst, das sich durch Werkzeuge erstreckt, Gedächtnis, das außerhalb des Kopfes gespeichert wird, Gedanken, die zwischen Geistern aufgebaut werden, Beziehungen, die teilweise hervorbringen, wer du bist, Revision, die im Schlaf geschieht, während du nicht zusiehst. Jedes davon hat gezeigt, dass das Selbst weniger festgelegt ist, als es sich anfühlt. Ein Fluss sieht von oben fest aus. Von unten siehst du, dass es immer bewegtes Wasser ist. Die Festigkeit ist auf einer Skala real. Auf einer anderen ist es durchgehend Bewegung. Löst die Festigkeit der Erfahrung die Frage – oder lässt sie sie offen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 前に言ったことを覚えているか——同じ川に二度足を踏み入れることはできない。川は物ではなく進行中の出来事であり、あなたも同じではない。自己も、同じ種類のものであることがわかる。このカテゴリーが示してきたすべてを考えてみよう。自己が道具を通じて拡張すること、頭の外に保存される記憶、心と心の間で構築される思考、あなたを部分的に生み出す関係、あなたが見ていない間に睡眠中に起こる修正。これらのそれぞれが、自己が感じられるよりも固定されていないことを示した。川は上から見れば固体に見える。下から見れば、常に動く水である。固体性はあるスケールでは現実である。別のスケールでは、すべてが運動である。経験の固体性は問題を解決するのか、それとも未解決のままにするのか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 還記得我們說過，人不能兩次踏入同一條河流——河流不是一個物體，而是一個持續發生的事件，你也並非相同？結果發現，自我也是同樣的東西。想想這個類別所展示的一切：自我透過工具延伸，記憶儲存在頭腦之外，思想在心靈之間構築，關係部分地產生你是誰，在你未察覺的睡眠中發生的修正。每一個都顯示出自我比它所感覺的更不固定。河流從上方看是固體。從下方看，它始終是流動的水。固態性在一個尺度上是真實的。在另一個尺度上，它完全是運動。經驗的固態性是否解決了問題——還是讓它懸而未決？
 
 [USER_EN]

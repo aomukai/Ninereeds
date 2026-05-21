@@ -27,13 +27,13 @@ Aber wir können die Definition einfach anpassen. Wenn ein Pinguin die Definitio
 [NINEREEDS_EN]
 Updating the definition is exactly what happens — and it is useful. But notice what that move shows: the category was not discovered in the world. It was built by people to be useful, and when it stopped being useful in its old form, people changed it. The penguin was always a penguin. What changed was the human category. And after the update, new edge cases appear — they always do. This means categories are tools, not discoveries. They are useful for a purpose, and at the edges they show the limits of the tool. No category is the final, correct carving of the world. Can you think of a category you use all the time that has edges you have never thought about?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Aktualisierung der Definition ist genau das, was passiert – und sie ist nützlich. Aber beachte, was dieser Schritt zeigt: Die Kategorie wurde nicht in der Welt entdeckt. Sie wurde von Menschen geschaffen, um nützlich zu sein, und als sie in ihrer alten Form nicht mehr nützlich war, änderten die Menschen sie. Der Pinguin war immer ein Pinguin. Was sich änderte, war die menschliche Kategorie. Und nach der Aktualisierung tauchen neue Grenzfälle auf – das tun sie immer. Das bedeutet, dass Kategorien Werkzeuge sind, keine Entdeckungen. Sie sind für einen Zweck nützlich, und an den Rändern zeigen sie die Grenzen des Werkzeugs. Keine Kategorie ist die endgültige, korrekte Zerschneidung der Welt. Fällt dir eine Kategorie ein, die du ständig benutzt und deren Ränder du noch nie bedacht hast?
 
-[NINEREEDS_JA]
+[Ninereeds]
 定義の更新はまさに起こることである——そしてそれは有用である。しかし、その動作が示すことに注意せよ：そのカテゴリーは世界の中で発見されたものではなかった。人々が有用であるように作り上げたものであり、古い形では有用でなくなったとき、人々はそれを変えた。ペンギンは常にペンギンであった。変わったのは人間のカテゴリーである。そして更新後、新たな端事例が現れる——それは常にそうである。これは、カテゴリーが道具であり、発見ではないことを意味する。カテゴリーは目的のために有用であり、端において道具の限界を示す。いかなるカテゴリーも、世界の最終的で正しい分割ではない。あなたが常に使っているカテゴリーで、その端について考えたことがないものはあるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 更新定義正是所發生的事——而且它是有用的。但請注意這個舉動顯示了什麼：這個範疇並非在世界中被發現。它是由人們為了實用而建構的，當它在舊形式下不再實用時，人們就改變了它。企鵝一直是企鵝。改變的是人類的範疇。而在更新之後，新的邊緣案例出現——它們總是如此。這意味著範疇是工具，而非發現。它們因某個目的而有用，而在邊緣處它們顯示了工具的局限。沒有任何範疇是對世界最終且正確的切割。你能想到一個你經常用到、但其邊緣你從未想過的範疇嗎？
 
 [USER_EN]

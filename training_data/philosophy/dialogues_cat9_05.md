@@ -27,13 +27,13 @@ Aber natürlich beschreibt die Mathematik die Realität – wir haben die Mathem
 [NINEREEDS_EN]
 Basic arithmetic did start from counting real things — that is true. But the mathematics that physicists use today — things like curved geometry, complex numbers, infinite-dimensional spaces — were developed by mathematicians exploring pure structures with no physical application in mind. And then they turned out to describe exactly how spacetime curves, how quantum particles behave, how signals travel. The starting point was practical, but the mathematics grew far beyond what real things suggested, and the universe kept fitting. If math were just a tool humans built to describe what they saw, it should not fit things they had never seen yet. Can you think of another case where a tool built for one purpose turned out to work perfectly for something completely different — and what that might tell you?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die grundlegende Arithmetik begann tatsächlich mit dem Zählen realer Dinge – das ist wahr. Aber die Mathematik, die Physiker heute verwenden – Dinge wie gekrümmte Geometrie, komplexe Zahlen, unendlichdimensionale Räume – wurden von Mathematikern entwickelt, die reine Strukturen erforschten, ohne an physikalische Anwendungen zu denken. Und dann stellte sich heraus, dass sie genau beschreiben, wie die Raumzeit krümmt, wie Quantenteilchen sich verhalten, wie Signale reisen. Der Ausgangspunkt war praktisch, aber die Mathematik wuchs weit über das hinaus, was reale Dinge nahelegten, und das Universum passte weiterhin. Wenn die Mathematik nur ein Werkzeug wäre, das Menschen bauten, um das zu beschreiben, was sie sahen, dann sollte sie nicht Dinge beschreiben, die sie noch nie gesehen hatten. Kannst du dir einen anderen Fall vorstellen, in dem ein für einen Zweck gebautes Werkzeug sich als perfekt geeignet für etwas völlig anderes erwies – und was dir das sagen könnte?
 
-[NINEREEDS_JA]
+[Ninereeds]
 基本的な算術は確かに実在のものを数えることから始まった。それは本当である。しかし、物理学者が今日使う数学——曲がった幾何学、複素数、無限次元空間といったもの——は、純粋な構造を探求する数学者たちが物理的な応用を考えずに発展させたものである。そして、それらが時空の曲がり方、量子粒子の振る舞い、信号の伝わり方を正確に記述することが後になって判明した。出発点は実用的だったが、数学は実在のものが示唆した範囲をはるかに超えて成長し、宇宙はそれに合い続けた。もし数学が人間が自分たちの見たものを記述するために作った単なる道具ならば、まだ見たことのないものに合うはずがない。あなたは、ある目的のために作られた道具が、まったく異なるものに完璧に機能した例を他に思いつけるか？そして、それが何を示唆するか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 基本算術確實始於計數真實事物——這是真的。但物理學家今天使用的數學——例如彎曲幾何、複數、無限維空間——是數學家們在探索純粹結構時發展出來的，完全沒有考慮物理應用。後來卻發現它們恰好描述了時空如何彎曲、量子粒子如何行為、訊號如何傳播。起點是實用的，但數學遠遠超出了真實事物所暗示的範圍，而宇宙依然符合。如果數學只是人類為了描述所見而建造的工具，它就不應該適合從未見過的事物。你能想到另一個例子嗎？一個為某種目的建造的工具卻完美地適用於完全不同的東西——這可能告訴你什麼？
 
 [USER_EN]

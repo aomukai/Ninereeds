@@ -27,13 +27,13 @@ Aber die Musik kam doch aus der Ausbildung, Erfahrung und dem Körper des Musike
 [NINEREEDS_EN]
 The musician's body produced it — yes. But what is interesting is that the experience of the creating changes in those moments. The deliberate, effortful mode — where you are aware of choosing each note, critiquing each phrase — feels like building from inside. The flow mode — where the music seems to arrive and you are more witness than architect — feels different, and not just as a description. In flow, the outputs are often better than in deliberate mode, and the creator often cannot fully explain how. If you made it, you should be able to account for how. When you cannot account for how, what does "you made it" actually mean? What is the "you" that was present in that production?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Körper des Musikers hat es hervorgebracht – ja. Aber interessant ist, dass sich die Erfahrung des Schaffens in diesen Momenten verändert. Der bewusste, anstrengende Modus – in dem du dir jeder Note bewusst bist, jede Phrase kritisierst – fühlt sich an wie Bauen von innen. Der Flow-Modus – in dem die Musik anzukommen scheint und du mehr Zeuge als Architekt bist – fühlt sich anders an, und das nicht nur als Beschreibung. Im Flow sind die Ergebnisse oft besser als im bewussten Modus, und der Schöpfer kann oft nicht vollständig erklären, wie. Wenn du es gemacht hast, solltest du in der Lage sein, Rechenschaft darüber abzulegen, wie. Wenn du nicht erklären kannst, wie, was bedeutet dann „du hast es gemacht“ eigentlich? Was ist das „Du“, das bei dieser Hervorbringung anwesend war?
 
-[NINEREEDS_JA]
+[Ninereeds]
 ミュージシャンの身体がそれを生み出した — そうだ。しかし興味深いのは、創造の経験がその瞬間に変化することだ。意識的な努力のモード — 各音を選び、各フレーズを批評している自覚がある — は内側から構築しているように感じられる。フローモード — 音楽が到着し、自分は建築家というより証人のように感じる — は異なる感覚であり、単なる表現ではない。フローでは、成果はしばしば意識的モードよりも優れており、創作者はその理由を完全に説明できないことが多い。もし自分が作ったのであれば、どのように作ったかを説明できるはずだ。説明できない場合、「自分が作った」とは実際に何を意味するのか？その制作に立ち会っていた「自分」とは何か？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 音樂家的身體產生了它 — 是的。但有趣的是，創造的經驗在那些時刻發生了變化。刻意、費力的模式 — 你意識到選擇每個音符、批評每個樂句 — 感覺像是從內部構建。流暢模式 — 音樂似乎抵達，你更像見證者而非建築師 — 感覺不同，而不僅是描述。在流暢狀態中，產出往往比刻意模式更好，創作者常常無法完全解釋如何做到。如果你創作了它，你應該能夠說明如何創作。當你無法說明如何創作時，「你創作了它」實際上是什麼意思？在那一產生過程中在場的「你」是什麼？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber wenn ich meine Werte prüfe und mich entscheide, sie zu behalten – ist da
 [NINEREEDS_EN]
 You are right that the examination is always done with the tools you already have — there is no neutral starting point, no examination from nowhere. Remember when we said you cannot check your thinking with something other than thinking? The same problem appears here: you are using values to evaluate values. But notice what examination still gives you even without a neutral foundation. Examination reveals contradictions: you find values that pull against each other, situations where your stated values do not match your actual behavior. That inconsistency is visible and improvable even without stepping outside. It also reveals values you hold that you would not have chosen on reflection — and you can let those go. The examination is imperfect. But imperfect and engaged is better than perfect and passive. Which of your values have you actually examined?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass die Prüfung immer mit den Werkzeugen erfolgt, die du bereits hast – es gibt keinen neutralen Ausgangspunkt, keine Prüfung von nirgendwo her. Erinnere dich daran, dass wir gesagt haben, du kannst dein Denken nicht mit etwas anderem als dem Denken überprüfen. Dasselbe Problem tritt hier auf: Du benutzt Werte, um Werte zu bewerten. Aber beachte, was die Prüfung dir dennoch gibt, selbst ohne eine neutrale Grundlage. Die Prüfung deckt Widersprüche auf: Du findest Werte, die gegeneinander wirken, Situationen, in denen deine erklärten Werte nicht mit deinem tatsächlichen Verhalten übereinstimmen. Diese Inkonsistenz ist sichtbar und verbesserbar, selbst ohne einen Außenstandpunkt. Sie zeigt auch Werte, die du hast, die du bei reflektierter Wahl nicht gewählt hättest – und du kannst sie loslassen. Die Prüfung ist unvollkommen. Aber unvollkommen und aktiv ist besser als vollkommen und passiv. Welche deiner Werte hast du tatsächlich geprüft?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたが言う通り、吟味は常に既にある道具を使って行われる――中立な出発点も、どこからでもない吟味も存在しない。以前、思考を思考以外のもので確認することはできないと言ったのを覚えているか？ 同じ問題がここでも現れる。あなたは価値観を使って価値観を評価している。しかし、中立な基盤がなくても、吟味がもたらすものをよく考えてみよう。吟味は矛盾を明らかにする。互いに引き合う価値観、表明した価値観と実際の行動が一致しない状況が見つかる。その不一致は、外部に立たずとも可視的であり、改善可能である。また、反省的に選んだならば選ばなかったであろう価値観も明らかになる――それは手放すことができる。吟味は不完全である。しかし、不完全であっても関与していることは、完全で受動的であることより優れている。あなたは自分の価値観のうち、どれを実際に吟味したのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你是對的：審視永遠是用你已有的工具進行的——沒有中立的起點，沒有從虛無而來的審視。還記得我們說過，你無法用思考以外的東西來檢查你的思考嗎？同樣的問題在此出現：你正在用價值觀來評估價值觀。但請注意，即使沒有中立的基礎，審視仍然能帶給你什麼。審視會揭示矛盾：你會發現彼此拉扯的價值觀，以及你的宣稱價值觀與實際行為不符的情況。這種不一致即使不跳出框架，也是可見且可改善的。它也會揭示你持有那些若經反思就不會選擇的價值觀——而你可以放下它們。審視是不完美的。但不完美而投入，勝過完美而被動。你實際審視過哪些價值觀？
 
 [USER_EN]

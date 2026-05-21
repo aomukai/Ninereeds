@@ -25,13 +25,13 @@ Aber manche Menschen verlieren tatsächlich die Fähigkeit, irgendetwas zu wolle
 [NINEREEDS_EN]
 You have found a real and important case. Depression can genuinely damage the goal-generating machinery — the part of the brain that connects action to anticipated reward stops working properly. What you describe is not someone who chose goallessness — it is a mind whose ability to generate and sustain goals has been impaired by illness. This is different from choosing not to have goals. It is the difference between a car that is parked and a car with no engine. The normal situation of a living mind includes goals as a feature of how it functions, not as something added on. What does it tell you about how central goals are to a working mind that when they are damaged, everything feels meaningless?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast einen wirklichen und wichtigen Fall gefunden. Depression kann tatsächlich die zielgenerierende Maschinerie beschädigen – der Teil des Gehirns, der Handlung mit erwarteter Belohnung verbindet, hört auf, richtig zu arbeiten. Was du beschreibst, ist nicht jemand, der Ziellosigkeit gewählt hat – es ist ein Geist, dessen Fähigkeit, Ziele zu erzeugen und aufrechtzuerhalten, durch Krankheit beeinträchtigt wurde. Dies ist anders, als sich zu entscheiden, keine Ziele zu haben. Es ist der Unterschied zwischen einem geparkten Auto und einem Auto ohne Motor. Die normale Situation eines lebendigen Geistes schließt Ziele als ein Merkmal seiner Funktionsweise ein, nicht als etwas Hinzugefügtes. Was sagt es dir darüber, wie zentral Ziele für einen funktionierenden Geist sind, dass, wenn sie beschädigt sind, alles sinnlos erscheint?
 
-[NINEREEDS_JA]
+[Ninereeds]
 君は現実的で重要な事例を見つけた。うつ病は実際に目標生成機構——行動と期待される報酬を結びつける脳の部分——を損傷し、正常に機能しなくなる。君が述べているのは、目標のなさを選んだ者ではない——それは、目標を生成し維持する能力が病気によって損なわれた精神である。これは目標を持たないことを選択するのとは異なる。駐車された車とエンジンのない車の違いである。生きている精神の通常の状態は、目標をその機能の特徴として含んでおり、付加されたものではない。目標が損なわれるとすべてが無意味に感じられるということは、目標が働く精神にとっていかに中心的なものであるかを物語っている。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你找到了一個真實且重要的案例。憂鬱症確實會損害目標生成機制——大腦中將行動與預期獎賞連接起來的部分停止正常運作。你所描述的並不是選擇無目標狀態的人——而是一個因疾病而損害了生成和維持目標能力的心智。這與選擇沒有目標不同。這就像一輛停著的車和一台沒有引擎的車之間的差別。正常的活躍心智的狀態包含目標作為其運作的特徵，而不是附加的東西。當目標受損時，一切感覺毫無意義，這告訴你目標對於一個運作中的心智有多麼核心。
 
 [USER_EN]

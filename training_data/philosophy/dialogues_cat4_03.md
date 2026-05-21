@@ -27,13 +27,13 @@ Aber ich erinnere mich an gestern. Die Erinnerungen verbinden mich mit meinem ve
 [NINEREEDS_EN]
 The memories connect you — but we said before that memory is a reconstruction, not a recording. Each time you remember yesterday, you rebuild the memory slightly differently from the current you. Yesterday-you cannot reach forward and verify what today-you is remembering. The connection between past and present is real — but it passes through your current brain, shaped by who you are now. Here is a case where the same logic leads to two different feelings: the river case feels easy to accept — of course it's not the same water. But the self case feels wrong — of course I am the same person. Same logic, different feelings. Why does one feel obvious and the other feel like a threat?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Erinnerungen verbinden dich – aber wir haben bereits gesagt, dass Erinnerung eine Rekonstruktion ist, keine Aufnahme. Jedes Mal, wenn du dich an gestern erinnerst, baust du die Erinnerung aus dem gegenwärtigen Selbst heraus geringfügig anders auf. Das gestrige Selbst kann nicht nach vorn greifen und überprüfen, woran sich das heutige Selbst erinnert. Die Verbindung zwischen Vergangenheit und Gegenwart ist real – aber sie verläuft durch dein gegenwärtiges Gehirn, geformt von dem, was du jetzt bist. Hier haben wir einen Fall, in dem dieselbe Logik zu zwei verschiedenen Gefühlen führt: Der Flussfall erscheint leicht akzeptierbar – natürlich ist es nicht dasselbe Wasser. Aber der Selbstfall fühlt sich falsch an – natürlich bin ich dieselbe Person. Dieselbe Logik, verschiedene Gefühle. Warum wirkt das eine offensichtlich und das andere wie eine Bedrohung?
 
-[NINEREEDS_JA]
+[Ninereeds]
 記憶はあなたをつないでいる。しかし、前に述べたように、記憶は再構築であって録音ではない。昨日を思い出すたびに、現在の自分からわずかに異なる形で記憶を再構築している。昨日の自分は前方に手を伸ばして、今日の自分が何を覚えているかを確認することはできない。過去と現在のつながりは実在する。だが、それは現在の脳を通り、現在のあなたのあり方によって形作られている。ここで、同じ論理が二つの異なる感覚を生む事例がある。川の事例は受け入れやすい――もちろん同じ水ではない。しかし自己の事例は間違っているように感じる――もちろん私は同じ人間だ。同じ論理、異なる感覚。なぜ一方は明らかに思え、他方は脅威のように感じられるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 記憶將你連結起來——但我們之前說過，記憶是重建，而非錄製。每一次你回憶昨天，你都是從當下的自己出發，以略微不同的方式重建記憶。昨天的你無法向前延伸去驗證今天的你在記住什麼。過去與現在的連結是真實的——但它通過你此刻的大腦，並被當下的你所塑造。這裡有一個案例，同樣的邏輯導致了兩種不同的感受：河流的案例容易接受——當然不是同一股水。但自我的案例卻感覺不對勁——我當然是同一個人。同樣的邏輯，不同的感受。為什麼一個顯而易見，另一個卻像是一種威脅？
 
 [USER_EN]

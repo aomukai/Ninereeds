@@ -25,13 +25,13 @@ Aber Überraschung bedeutet doch nur, dass etwas Unerwartetes passiert ist. Es h
 [NINEREEDS_EN]
 You are right that some surprises come from randomness, not from wrong predictions. But there is another kind of surprise: the moment when something you thought you understood turns out to work differently. When a person you thought you knew does something completely out of character. When water boils at a different temperature on a mountain and you don't know why — your picture of boiling was wrong. When a test comes out the opposite of what you expected. That kind of surprise is the world telling you something your model missed. The most valuable surprise is not the random kind — it is the kind that points to a gap in your understanding. People who are never surprised in this second way are often not paying close attention, or have built a model so flexible it explains everything after the fact. Can you think of a time you were genuinely surprised in a way that taught you something specific about how you had been thinking?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass einige Überraschungen aus Zufall kommen, nicht aus falschen Vorhersagen. Aber es gibt eine andere Art von Überraschung: den Moment, in dem etwas, von dem du dachtest, es verstanden zu haben, sich als anders funktionierend herausstellt. Wenn ein Mensch, den du zu kennen glaubtest, etwas völlig uncharakteristisches tut. Wenn Wasser auf einem Berg bei einer anderen Temperatur kocht und du nicht weißt, warum – dein Bild vom Kochen war falsch. Wenn ein Test das Gegenteil von dem ergibt, was du erwartet hast. Diese Art von Überraschung ist die Welt, die dir etwas mitteilt, das dein Modell übersehen hat. Die wertvollste Überraschung ist nicht die zufällige – es ist die, die auf eine Lücke in deinem Verständnis hinweist. Menschen, die auf diese zweite Weise nie überrascht werden, achten oft nicht genau genug hin oder haben ein so flexibles Modell gebaut, dass es alles im Nachhinein erklärt. Kannst du dich an eine Zeit erinnern, in der du auf eine Weise wirklich überrascht wurdest, die dir etwas Bestimmtes darüber gelehrt hat, wie du gedacht hattest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたの言う通り、驚きの一部はランダムさから来るものであり、間違った予測から来るものではない。しかし、別の種類の驚きがある。それは、あなたが理解していると思っていたものが、実際には異なる仕組みで動いていると判明した瞬間である。知っていると思っていた人が、まったくその人らしくないことをするとき。山の上で水が異なる温度で沸騰し、その理由がわからないとき——あなたの沸騰のイメージは間違っていた。試験の結果が予想とは逆だったとき。その種の驚きは、世界があなたのモデルが見逃した何かを伝えている。最も価値のある驚きはランダムなものではない——それは、あなたの理解の隙間を指し示すものである。この第二の意味で決して驚かない人々は、しばしば注意を払っていないか、あるいは後から何でも説明できるほど柔軟なモデルを構築している。あなたがこれまでに、自分の考え方について具体的な何かを教えてくれるような、本当の驚きを経験したことはあるか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，有些驚訝來自隨機性，而非錯誤的預測。但有另一種驚訝：當你以為自己理解的事物，原來運作方式卻不同。當你以為認識的人做出完全不符合其性格的事。當水在山頂以不同溫度沸騰，而你不知原因時——你對沸騰的認知就是錯的。當測驗結果與你預期相反時。那種驚訝是世界告訴你，你的模型遺漏了什麼。最有價值的驚訝不是隨機的那種——而是指向你理解中空缺的那種。從未在第二種意義上感到驚訝的人，往往沒有密切關注，或者建立了一個過於靈活以致事後能解釋一切的模型。你能想到一個你真正感到驚訝、並教會你關於自己思考方式的具體事物的時刻嗎？
 
 [USER_EN]

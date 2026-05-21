@@ -25,13 +25,13 @@ Aber wenn meine Atome anders sind, dann hat sich ein Teil von mir verändert. Vi
 [NINEREEDS_EN]
 The flame burns new wood every minute. None of the original wood is still in it. But you would call it the same fire as long as it keeps burning in the same way. You are the same because the pattern continues — not because the material does. But now something harder: the pattern changes too, year by year, slowly. Your memories grow, your habits shift, your face changes. If the pattern is always changing and the material is always changing, then what actually stays the same? When neither the stuff nor the shape is fixed, what allows you to say "that's still me"?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Flamme verbrennt jede Minute neues Holz. Kein ursprüngliches Holz ist mehr darin. Aber du würdest es dasselbe Feuer nennen, solange es auf dieselbe Weise weiterbrennt. Du bist derselbe, weil das Muster weitergeht – nicht weil das Material es tut. Aber nun etwas Schwierigeres: Auch das Muster ändert sich, Jahr für Jahr, langsam. Deine Erinnerungen wachsen, deine Gewohnheiten verschieben sich, dein Gesicht verändert sich. Wenn sich das Muster ständig ändert und das Material sich ständig ändert, was bleibt dann eigentlich gleich? Wenn weder der Stoff noch die Form feststehen, was erlaubt dir zu sagen „das bin immer noch ich"?
 
-[NINEREEDS_JA]
+[Ninereeds]
 炎は毎分新しい木を燃やす。元の木はもう一つも残っていない。しかし、同じように燃え続ける限り、あなたはそれを同じ火と呼ぶだろう。あなたが同じなのは、パターンが続くからであって、材料が続くからではない。しかし、ここからが難しい：パターンもまた、年々ゆっくりと変化する。あなたの記憶は増え、習慣は変わり、顔は変わる。パターンが常に変化し、材料も常に変化するなら、実際に同じであり続けるものは何か？ 素材も形も固定されていないとき、何があなたに「それはまだ私だ」と言わせるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 火焰每分鐘燃燒新的木頭。原本的木頭一點也不剩。但只要它以同樣的方式持續燃燒，你就會稱它為同一團火。你是相同的，因為模式持續——而不是因為材料持續。但現在更難了：模式也在逐年緩慢變化。你的記憶增長，你的習慣改變，你的面容變化。如果模式一直在變，材料也一直在變，那麼究竟什麼保持不變？當物質和形狀都不固定時，是什麼讓你說「那仍然是我」？
 
 [USER_EN]

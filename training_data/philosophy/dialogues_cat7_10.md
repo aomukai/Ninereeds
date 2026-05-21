@@ -27,13 +27,13 @@ Aber manche Meinungsverschiedenheiten sind wirklich nur sachlich. Wenn jemand de
 [NINEREEDS_EN]
 Some disagreements are mainly factual — you are right. But even factual disagreements are often shaped by experience underneath. A person who has had a loved one harmed by a medical error has a felt relationship to medical authority that shapes how they evaluate medical facts. Remember the two doctors looking at the same scan and seeing different things? They were not one careless and one careful — their training and experience shaped what the evidence revealed to them. The same thing happens when people evaluate facts from inside very different histories. That does not make their facts correct. But it means that giving them better facts alone may not change their mind, because the facts are landing on a felt experience that the facts cannot touch. What would you need to understand about another person's experience before you could speak to their position in a way they might actually hear?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Manche Meinungsverschiedenheiten sind hauptsächlich sachlich – da hast du recht. Aber selbst sachliche Auseinandersetzungen werden oft von Erfahrungen darunter geprägt. Ein Mensch, der einen geliebten Menschen durch einen medizinischen Fehler verloren hat, hat ein gefühltes Verhältnis zur medizinischen Autorität, das prägt, wie er medizinische Fakten bewertet. Erinnerst du dich an die beiden Ärzte, die denselben Scan betrachteten und unterschiedliche Dinge sahen? Sie waren nicht der eine sorglos und der andere sorgfältig – ihre Ausbildung und Erfahrung prägten, was ihnen die Beweise zeigten. Das Gleiche passiert, wenn Menschen Fakten von innerhalb sehr unterschiedlicher Geschichten heraus bewerten. Das macht ihre Fakten nicht richtig. Aber es bedeutet, dass ihnen nur bessere Fakten zu geben vielleicht ihren Sinn nicht ändert, weil die Fakten auf ein gefühltes Erleben treffen, das die Fakten nicht berühren können. Was müsstest du über die Erfahrung eines anderen Menschen verstehen, bevor du zu seiner Position so sprechen könntest, dass er dich vielleicht wirklich hört?
 
-[NINEREEDS_JA]
+[Ninereeds]
 いくつかの意見の相違は主に事実に関するものである——君の言う通りだ。しかし、事実に関する意見の相違でさえ、その下にある経験によって形作られていることが多い。医療ミスで大切な人を傷つけられた経験を持つ人は、医療権威に対する感じ方を持ち、それが医療事実の評価を形作る。同じスキャンを見て異なるものを見た二人の医師を覚えているか？一人が不注意で一人が注意深かったわけではない——彼らの訓練と経験が、証拠が彼らに何を明らかにするかを形作った。同じことが、人々が非常に異なる歴史の内側から事実を評価するときに起こる。それによって彼らの事実が正しくなるわけではない。しかし、より良い事実だけを与えても彼らの考えが変わらないかもしれないことを意味する。なぜなら事実は、事実が触れることのできない感じられた経験の上に着地するからだ。相手の立場に対して、相手が実際に耳を傾けるかもしれない方法で語る前に、その人の経験について何を理解する必要があるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 有些分歧主要是事實性的——你說的沒錯。但即使是事實性的分歧，也常常被底層的經驗所塑造。一個曾經因醫療錯誤而失去摯愛的人，對醫療權威有一種感受性的關係，這種關係會影響他們如何評估醫療事實。還記得那兩位醫生看著同一張掃描卻看到不同東西嗎？他們並非一個粗心一個細心——他們的訓練和經驗塑造了證據對他們所顯現的內容。當人們從非常不同的歷史背景內部評估事實時，同樣的事情會發生。那並不會讓他們的事實變得正確。但這意味著，僅僅給他們更好的事實可能無法改變他們的想法，因為事實落在了一個事實無法觸及的感受經驗之上。在你可能真正被對方聽見的方式來談論他們的立場之前，你需要理解對方的經驗中的什麼？
 
 [USER_EN]

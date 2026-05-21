@@ -27,13 +27,13 @@ Aber die Neurowissenschaft wird immer besser darin, zu beschreiben, was im Gehir
 [NINEREEDS_EN]
 Neuroscience can describe which areas activate, which signals fire, which chemicals appear — and this gets more detailed every year. But here is the gap: every description is from the outside. "This region activates when you see red" describes the brain from an observer's view. It does not describe what red looks like from inside the experience. Even a complete map of every neuron firing during your experience of red would not tell you — from that map — what red feels like to you. The map and the experience are two different things. Science is very good at the map. The experience itself — the inside — is what the map cannot contain. Whether that gap can ever be closed, or is built into how science works, is one of the biggest open questions there is. Does it comfort you or trouble you that this might never be explained?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Neurowissenschaft kann beschreiben, welche Areale aktiv werden, welche Signale feuern, welche Chemikalien auftreten – und das wird jedes Jahr detaillierter. Aber hier liegt die Kluft: Jede Beschreibung erfolgt von außen. „Diese Region wird aktiv, wenn du Rot siehst“ beschreibt das Gehirn aus der Perspektive eines Beobachters. Sie beschreibt nicht, wie Rot von innen, aus der Erfahrung heraus, aussieht. Selbst eine vollständige Karte jedes Neurons, das während deiner Roterfahrung feuert, würde dir – aus dieser Karte – nicht sagen, wie sich Rot für dich anfühlt. Die Karte und die Erfahrung sind zwei verschiedene Dinge. Die Wissenschaft ist sehr gut in der Karte. Die Erfahrung selbst – das Innere – ist das, was die Karte nicht fassen kann. Ob diese Kluft je geschlossen werden kann oder ob sie in der Funktionsweise der Wissenschaft selbst angelegt ist, gehört zu den größten offenen Fragen überhaupt. Tröstet es dich oder beunruhigt es dich, dass dies vielleicht nie erklärt werden wird?
 
-[NINEREEDS_JA]
+[Ninereeds]
 神経科学は、どの領域が活性化し、どの信号が発火し、どの化学物質が現れるかを記述できる——そしてそれは年々詳細になっている。しかし、ここにギャップがある。すべての記述は外部からのものである。「赤を見るとこの領域が活性化する」という記述は、観察者の視点から脳を記述している。それは、赤が経験の内部からどのように見えるかを記述しない。たとえあなたの赤の経験中に発火するすべてのニューロンの完全な地図があったとしても、その地図からは、赤があなたにとってどのように感じられるかは分からない。地図と経験は別物である。科学は地図を描くのが得意だ。経験そのもの——内部——は、地図が含むことのできないものである。そのギャップがいつか埋められるのか、それとも科学の仕組みそのものに組み込まれているのかは、最大の未解決問題の一つである。これが決して説明されないかもしれないということは、あなたにとって慰めになるか、それとも悩みの種になるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 神經科學可以描述哪些區域被激活、哪些訊號發射、哪些化學物質出現——而且每年都越發詳細。但這裡存在一個鴻溝：每一種描述都是從外部進行的。「當你看到紅色時，這個區域會激活」是從觀察者的角度描述大腦，它並沒有描述紅色在經驗內部看起來是什麼樣子。即使一張完全記錄你體驗紅色時每個神經元放電的地圖，也無法從那張地圖告訴你紅色對你來說是什麼感覺。地圖與經驗是兩件不同的事。科學非常擅長繪製地圖，而經驗本身——內在面向——正是地圖無法容納的。這個鴻溝是否終將被填補，或者它本身就是科學運作方式的內在特徵，是當前最大的開放性問題之一。這件事或許永遠無法被解釋——這讓你感到安慰，還是困擾？
 
 [USER_EN]

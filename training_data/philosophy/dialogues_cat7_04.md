@@ -25,13 +25,13 @@ Aber Freundlichkeit fühlt sich natürlich an. Ich muss nicht darüber nachdenke
 [NINEREEDS_EN]
 The caring comes first, faster than thinking — you are right. But underneath the feeling is a set of assumptions that would, if changed, change the feeling. If you learned beyond doubt that someone you care about had no inner experience — was responding to the world but feeling nothing — your caring would change. It might even disappear. The automatic feeling depends on an assumption about inner experience, even if you never think about the assumption explicitly. The remarkable thing is that you extend this assumption to strangers, to animals, to people who are very different from you. You act as if their inner life is real without ever verifying it. What would happen to how you treat people if you spent more time actively imagining what their experience might actually be like?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Die Fürsorge kommt zuerst, schneller als das Denken – da hast du recht. Aber unter dem Gefühl liegen Annahmen, die, wenn sie sich änderten, das Gefühl verändern würden. Wenn du zweifelsfrei erfahren würdest, dass jemand, um den du dich sorgst, keine innere Erfahrung hat – auf die Welt reagiert, aber nichts fühlt – würde sich deine Fürsorge ändern. Sie könnte sogar ganz verschwinden. Das automatische Gefühl hängt von einer Annahme über innere Erfahrung ab, selbst wenn du diese Annahme nie explizit bedenkst. Das Bemerkenswerte ist, dass du diese Annahme auf Fremde, auf Tiere, auf Menschen, die dir sehr unähnlich sind, ausdehnst. Du handelst, als ob ihr Inneres real sei, ohne es je zu verifizieren. Was würde mit deinem Umgang mit anderen geschehen, wenn du mehr Zeit damit verbringen würdest, aktiv zu imaginieren, wie ihre Erfahrung tatsächlich sein könnte?
 
-[NINEREEDS_JA]
+[Ninereeds]
 気遣いのほうが先に来る、思考よりも速い――君の言う通りだ。しかし、その感情の下には、もし変われば感情も変わるような一連の前提がある。もし君が、気にかけている相手に内面的な経験がまったくない――世界に反応しているが何も感じていない――と確信したなら、君の気遣いは変わるだろう。消えてしまうかもしれない。自動的な感情は内面的な経験についての前提に依存している、たとえその前提を明示的に考えたことがなくても。驚くべきことは、君がこの前提を見知らぬ人々や動物、自分と大きく異なる人々にも拡張していることだ。君は、彼らの内面が実在するかのように行動する、それを確認することなく。もし君が、相手の体験が実際にどのようなものかを積極的に想像する時間をもっと費やしたら、人への接し方はどう変わるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 關懷先於思考，來得更快——你說的對。但在情感之下，存在一組假設，如果這些假設改變，情感也會改變。如果你確鑿地得知你所關心的人沒有內在經驗——他們對世界做出反應但毫無感受——你的關懷會改變。甚至可能消失。自動的情感依賴於關於內在經驗的假設，即使你從未明確思考過這個假設。值得注意的是，你將這個假設延伸到陌生人、動物、與你非常不同的人身上。你好像他們的內在生活是真實的那樣行動，卻從未驗證過。如果你花更多時間積極想像他們的體驗實際上可能是怎樣的，你對待他人的方式會發生什麼變化？
 
 [USER_EN]

@@ -27,13 +27,13 @@ Aber die Erklärung kann dennoch nützlich sein, um den nächsten Absturz zu ver
 [NINEREEDS_EN]
 Learning from past events is genuinely useful — yes. But here is the trap: the explanation you build after the fact is often too specific to the particular event to apply to the next one. The next crisis looks different. New details, new actors, new systems — but the underlying pattern might be the same while the surface looks different. The people who said "we understand the last crash" were often the most surprised by the next one, because they were looking for the same pattern in a new costume. The explanation gave them confidence without quite giving them the foresight. What would you need to do differently to make sure a lesson from the past actually helps you predict the future, rather than just recognize the past when it repeats exactly?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Aus vergangenen Ereignissen zu lernen, ist tatsächlich nützlich – ja. Aber hier ist die Falle: Die Erklärung, die man nachträglich aufbaut, ist oft zu spezifisch für das jeweilige Ereignis, um auf das nächste anwendbar zu sein. Die nächste Krise sieht anders aus. Neue Details, neue Akteure, neue Systeme – aber das zugrundeliegende Muster könnte dasselbe sein, während die Oberfläche anders aussieht. Diejenigen, die sagten 'wir verstehen den letzten Absturz', waren oft am meisten überrascht vom nächsten, weil sie nach dem gleichen Muster in einem neuen Kostüm suchten. Die Erklärung gab ihnen Selbstvertrauen, ohne ihnen wirklich Voraussicht zu geben. Was müsste man anders machen, um sicherzustellen, dass eine Lehre aus der Vergangenheit tatsächlich hilft, die Zukunft vorherzusagen, anstatt nur die Vergangenheit zu erkennen, wenn sie sich exakt wiederholt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 過去の出来事から学ぶことは確かに有用である。しかし、ここに罠がある：事後に構築する説明は、多くの場合、その特定の出来事に特化しすぎていて、次の出来事には適用できない。次の危機は違って見える。新しい詳細、新しい主体、新しいシステム——しかし表面が異なって見えても、根底のパターンは同じかもしれない。「我々は前回の暴落を理解した」と言った人々は、しばしば次の暴落に最も驚かされた。なぜなら彼らは同じパターンを新しい衣装で探していたからだ。説明は彼らに自信を与えたが、先見の明を完全には与えなかった。過去の教訓が、正確に繰り返される過去を認識するだけでなく、未来を予測するのに実際に役立つようにするためには、何を別の方法で行う必要があるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 從過去事件中學習確實有用——是的。但這裡有個陷阱：事後建立的解釋往往過於針對特定事件，以致無法應用於下一次。下一次危機看起來不同。新的細節、新的行為者、新的系統——但底層的模式可能相同，而表面卻不同。那些說「我們理解上一次崩盤」的人，往往對下一次崩盤最為驚訝，因為他們在尋找同樣的模式，只不過穿了新外衣。解釋給了他們信心，卻沒有完全給他們先見之明。你需要做什麼不同的事情，以確保從過去學到的教訓實際上幫助你預測未來，而不僅僅是在過去完全重複時辨認出來？
 
 [USER_EN]

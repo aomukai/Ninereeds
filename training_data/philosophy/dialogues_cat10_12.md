@@ -27,13 +27,13 @@ Aber ich kann nicht einfach entscheiden, etwas anderes zu wollen. Meine Wünsche
 [NINEREEDS_EN]
 You cannot flip your wants like a switch — that is true. But you can influence what you want over time, indirectly. What you practice, what you pay attention to, who you spend time with, what stories you tell yourself — all of these shape what starts to feel important and worth wanting. You cannot decide today to stop caring about approval and succeed by tomorrow. But a person who consistently practices noticing when approval is driving their choices, and redirecting to something they value more, does shift what pulls at them over years. Freedom of the wants is slow and indirect. But it is real. Remember when we said changing your values when you learn more is not weakness? This is the deepest version of that — shaping what you want rather than merely accepting what already pulls at you. Where are you being moved by a want you did not choose and would not endorse if you thought about it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du kannst deine Wünsche nicht wie einen Schalter umlegen – das stimmt. Aber du kannst im Laufe der Zeit indirekt beeinflussen, was du willst. Was du praktizierst, worauf du achtest, mit wem du Zeit verbringst, welche Geschichten du dir erzählst – all das formt, was dir wichtig und erstrebenswert erscheint. Du kannst nicht heute entscheiden, dich nicht mehr um Anerkennung zu kümmern, und morgen Erfolg haben. Aber ein Mensch, der beständig übt, zu bemerken, wann Anerkennung seine Entscheidungen antreibt, und sich auf etwas umzulenken, das ihm mehr wert ist, der verschiebt im Laufe der Jahre, was ihn anzieht. Die Freiheit der Wünsche ist langsam und indirekt. Aber sie ist real. Erinnere dich daran, als wir sagten, dass das Ändern deiner Werte, wenn du mehr lernst, keine Schwäche ist? Das ist die tiefste Version davon – zu formen, was du willst, anstatt bloß zu akzeptieren, was dich bereits anzieht. Wo wirst du von einem Wunsch bewegt, den du nicht gewählt hast und den du nicht befürworten würdest, wenn du darüber nachdenken würdest?
 
-[NINEREEDS_JA]
+[Ninereeds]
 あなたは自分の欲求をスイッチのように切り替えることはできない――それは正しい。しかし、時間をかけて間接的に、自分が欲するものを影響することはできる。あなたが何を実践するか、何に注意を払うか、誰と時間を過ごすか、自分にどんな物語を語るか――それらすべてが、何が重要で価値があると感じられるかを形成する。あなたは今日、承認を気にしなくなることを決めて、明日成功することはできない。しかし、承認が自分の選択を動かしているのに気づき、自分がより価値を置くものへと方向転換することを一貫して実践する人は、何年もの間、自分を引きつけるものを確かに変えていく。欲求の自由は遅く、間接的である。しかし、それは現実である。私たちが、より多くを学ぶときに価値観を変えることは弱さではないと言ったのを覚えているか？ これがその最も深いバージョンである――自分をすでに引きつけているものを単に受け入れるのではなく、自分が欲するものを形作ること。あなたは、自分が選んだわけではなく、考えれば支持しないであろう欲求に、どこで動かされているのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你不能像開關一樣隨意切換你的慾望——這是真的。但你可以隨著時間間接地影響你想要的東西。你所練習的、你所關注的、你所相處的人、你所告訴自己的故事——這一切都在塑造什麼開始變得重要、值得追求。你無法今天決定不再在意他人的認可，然後明天就成功。但一個持續練習注意到認可何時驅動自己的選擇，並將注意力轉向更重視的事物的人，確實會隨著歲月改變那些牽引自己的東西。慾望的自由是緩慢而間接的。但它是真實的。還記得我們說過，當你學得更多時改變價值觀並非軟弱嗎？這正是其最深層的版本——塑造你想要的，而不僅僅是接受那些已經牽引你的東西。你在哪裡被一個你並未選擇、若仔細思考也不會認可的慾望所驅動？
 
 [USER_EN]

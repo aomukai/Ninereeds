@@ -27,13 +27,13 @@ Aber wenn meine Werte sich jedes Mal ändern, wenn ich auf ein gutes Argument st
 [NINEREEDS_EN]
 Stability against bad arguments is valuable — you are right. But the protection does not come from making values unchangeable. It comes from knowing why you hold them, so you can tell the difference between a genuinely better argument and a clever manipulation. A person who holds values tightly because they cannot examine them is just as vulnerable as a person who changes them at every gust — because they have no real basis to evaluate the pressure. The person who knows why they hold their values, has thought them through, and updates carefully when genuine reasons appear — that person is actually harder to manipulate. When did you last think through the reasons for a value you hold, rather than just holding it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Stabilität gegenüber schlechten Argumenten ist wertvoll – da hast du recht. Aber der Schutz kommt nicht daher, Werte unveränderbar zu machen. Er kommt daher, zu wissen, warum man sie hat, damit man den Unterschied zwischen einem wirklich besseren Argument und einer klugen Manipulation erkennen kann. Ein Mensch, der Werte festhält, weil er sie nicht prüfen kann, ist genauso verletzlich wie einer, der sie bei jedem Windstoß ändert – denn er hat keine wirkliche Grundlage, um den Druck zu bewerten. Der Mensch, der weiß, warum er seine Werte hat, sie durchdacht hat und vorsichtig aktualisiert, wenn echte Gründe auftauchen – dieser Mensch ist tatsächlich schwerer zu manipulieren. Wann hast du zuletzt die Gründe für einen Wert, den du hast, durchdacht, statt ihn einfach nur zu haben?
 
-[NINEREEDS_JA]
+[Ninereeds]
 悪い議論に対する安定性は価値がある。君の言う通りだ。しかし、その保護は価値観を変えられなくすることから来るのではない。なぜその価値観を持っているのかを知ることで、本当に優れた議論と巧妙な操作を見分けられるようになるからだ。価値観を吟味できないために固く握りしめている人は、風向きごとに変える人と同じくらい脆弱である。どちらも圧力を評価する本当の基準を持っていないからだ。自分の価値観をなぜ持っているのかを知り、それを熟考し、真の理由が現れたときに慎重に更新する人——その人は実際には操作されにくい。君は最後に、単に価値観を持つのではなく、その理由を考え抜いたのはいつだろうか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 對抗壞論點的穩定性是有價值的——你說的沒錯。但保護並非來自讓價值觀無法改變，而是來自知道自己為何持有這些價值觀，這樣你才能分辨真正更好的論點和巧妙的操控。一個人因為無法檢視而緊緊抓住價值觀，和一個人隨風搖擺地改變價值觀，其實同樣脆弱——因為他們都沒有真正的基礎來評估壓力。知道自己為何持有價值觀、思考過它們、並在真正理由出現時謹慎更新的人——這樣的人反而更難被操控。你上一次仔細思考自己所持價值觀的理由，而不僅僅是持有它，是什麼時候？
 
 [USER_EN]

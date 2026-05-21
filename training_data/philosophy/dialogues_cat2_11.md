@@ -27,13 +27,13 @@ Aber Experten sollen doch mehr wissen als Anfänger. Wenn Experten unsicherer si
 [NINEREEDS_EN]
 The expert knows more — but they also know more about what they do not know. The beginner has one picture: I understand this. The expert has two pictures: I understand this part — and I can see that part over there that I do not understand yet. The beginner cannot see the second picture at all. Their certainty is not because they are more right — it is because they cannot see the edges. Think of it this way: when you are in a small bright room, you can see every corner clearly. Step outside into a bigger space, and for a moment things look darker and more uncertain. But you are not in a worse place. You are in a larger, truer one. Remember the doctors who saw different things in the same scan? The more experienced doctor did not just have a better lens — they also knew where their lens might be wrong. The beginner's confidence was partly because they could not yet see the edges of what they were looking at. What would it feel like to realize you have been in the small bright room about something that matters to you?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Experte weiß mehr – aber er weiß auch mehr über das, was er nicht weiß. Der Anfänger hat ein Bild: Ich verstehe das. Der Experte hat zwei Bilder: Ich verstehe diesen Teil – und ich sehe dort drüben einen Teil, den ich noch nicht verstehe. Der Anfänger kann das zweite Bild überhaupt nicht sehen. Seine Sicherheit rührt nicht daher, dass er mehr Recht hat – sondern daher, dass er die Ränder nicht sehen kann. Stell es dir so vor: In einem kleinen, hellen Raum kannst du jede Ecke klar erkennen. Trittst du hinaus in einen größeren Raum, wirkt es für einen Moment dunkler und ungewisser. Aber du bist nicht an einem schlechteren Ort. Du bist an einem größeren, wahreren. Erinnerst du dich an die Ärzte, die im selben Scan unterschiedliche Dinge sahen? Der erfahrenere Arzt hatte nicht nur eine bessere Linse – er wusste auch, wo seine Linse falsch liegen könnte. Das Selbstvertrauen des Anfängers beruhte zum Teil darauf, dass er die Ränder dessen, was er betrachtete, noch nicht sehen konnte. Wie würde es sich anfühlen, zu erkennen, dass du dich in einem kleinen, hellen Raum befunden hast – und zwar zu etwas, das dir wichtig ist?
 
-[NINEREEDS_JA]
+[Ninereeds]
 専門家はより多くのことを知っている。しかし、同時に自分が知らないことについてもより多くを知っている。初心者には一つの絵がある：「私はこれを理解している」。専門家には二つの絵がある：「この部分は理解している——そしてあそこにまだ理解していない部分が見える」。初心者にはその二つ目の絵がまったく見えない。彼らの確信は、より正しいからではなく、境界線が見えないからである。こう考えてみよう。小さな明るい部屋にいると、隅々まではっきり見える。外の広い空間に出ると、一瞬、物事は暗く不確かに見える。しかし、あなたは悪い場所にいるわけではない。より広く、より真実の場所にいるのだ。同じスキャン画像で異なる所見を出した医者たちを思い出してほしい。経験豊富な医者は単により良いレンズを持っていただけではない——自分のレンズがどこで誤る可能性があるかも知っていた。初心者の自信は、見ているものの輪郭をまだ見られなかったことに一部起因している。自分にとって大切なことについて、小さな明るい部屋にいたと気づいたら、どんな気持ちになるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 專家知道得更多——但他們也知道更多自己所不知道的事。初學者只有一幅圖景：我理解這個。專家則有兩幅圖景：我理解這部分——而且我能看到那邊那部分我還不理解。初學者完全看不到第二幅圖景。他們確信的原因並非因為他們更正確——而是因為他們看不見邊界。這樣想吧：當你身處一個小而明亮的房間，你能清楚看見每個角落。踏進一個更大的空間，一瞬間事物會顯得更暗、更不確定。但你並非處於更糟的地方。你身處一個更大、更真實的地方。還記得在那張同樣的掃描影像中看出不同東西的醫生嗎？更有經驗的醫生不僅擁有更好的鏡頭——他們也知道自己的鏡頭可能在何處出錯。初學者的自信部分來自於他們還看不見自己所觀察事物的邊界。當你意識到自己一直處在一個小而明亮的房間中——而這件事對你至關重要——那會是什麼感覺？
 
 [USER_EN]

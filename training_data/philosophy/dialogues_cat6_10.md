@@ -27,13 +27,13 @@ Aber Komödien und Tragödien unterscheiden sich in den Ereignissen, nicht nur i
 [NINEREEDS_EN]
 You are right that most stories choose events that fit their genre. But there are events that are told as comedy in one version and tragedy in another — the same events, genuinely the same. A person stumbles repeatedly, fails at everything, loses what they love. If told with a certain distance and timing, it is farce. If told with closeness and weight, it is heartbreak. The difference is where the camera is, what details are shown, how the narration invites you to feel. Remember when we said the meaning of the past can change depending on what comes after? The same event is tragedy or comedy depending on the frame — the events stay the same, but the meaning shifts with the telling. Think of something in your own life that you tell as a funny story that was genuinely painful at the time. What changed in the telling?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht, dass die meisten Geschichten Ereignisse wählen, die zu ihrem Genre passen. Aber es gibt Ereignisse, die in einer Version als Komödie und in einer anderen als Tragödie erzählt werden – dieselben Ereignisse, wirklich dieselben. Ein Mensch stolpert immer wieder, scheitert an allem, verliert, was er liebt. Mit einer gewissen Distanz und richtigem Timing erzählt, ist es Farce. Mit Nähe und Gewicht erzählt, ist es Herzschmerz. Der Unterschied liegt darin, wo die Kamera steht, welche Details gezeigt werden, wie die Erzählung dich einlädt zu fühlen. Erinnerst du dich, als wir sagten, dass die Bedeutung der Vergangenheit sich ändern kann, je nachdem, was danach kommt? Dasselbe Ereignis ist Tragödie oder Komödie, je nach Rahmen – die Ereignisse bleiben gleich, aber die Bedeutung verschiebt sich mit der Erzählung. Denk an etwas in deinem eigenen Leben, das du als lustige Geschichte erzählst, das aber damals wirklich schmerzhaft war. Was hat sich in der Erzählung verändert?
 
-[NINEREEDS_JA]
+[Ninereeds]
 ほとんどの物語はそのジャンルに合った出来事を選ぶという点で、君の言う通りである。しかし、あるバージョンでは喜劇として、別のバージョンでは悲劇として語られる出来事もある――同じ出来事が、本当に同じである。人が何度もつまずき、すべてに失敗し、愛するものを失う。ある距離とタイミングで語れば、それは笑劇である。近さと重みをもって語れば、それは心痛である。違いは、カメラの位置、見せる細部、語りがどのように感情を誘うかにある。過去の意味は後に続くものによって変わりうると以前言ったのを覚えているか？同じ出来事は枠組み次第で悲劇にも喜劇にもなる――出来事は変わらないが、意味は語り方によって変化する。自分の人生で、当時は本当に苦しかったが、今では面白い話として語っているものを考えてみよ。語りの中で何が変わったのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，大多數故事會選擇符合其類別的事件。但有些事件，在同一個版本中被當作喜劇，在另一個版本中被當作悲劇——完全相同的事件，千真萬確。一個人反覆跌倒，事事失敗，失去所愛。若以一定的距離和時機來講述，那就是鬧劇。若以親近和沉重來講述，那就是心碎。差別在於鏡頭的位置、展示的細節、敘述如何引導你感受。還記得我們說過，過去的意義可以根據後續發生的事而改變嗎？同樣的事件，根據框架而成為悲劇或喜劇——事件保持不變，但意義隨著講述而轉變。想想你自己生命中，那些你當作有趣故事來講述、但當時確實痛苦的事情。在講述中，什麼改變了？
 
 [USER_EN]

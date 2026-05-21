@@ -27,13 +27,13 @@ Aber einer von ihnen muss recht haben. Es ist entweder eine Krankheit oder nicht
 [NINEREEDS_EN]
 The scan shows what it shows — you are right. But what the scan shows is patterns of light and dark, and patterns do not label themselves. Think of how we said the same stars can be drawn into a bear or a plow, and neither drawing is written on the sky — the pattern is partly in the person drawing it. This is the same move, but for knowledge. Two doctors bring different experiences, different training, different cases they have seen before. Their knowledge shapes what the pattern means to them. One is probably more right — medicine has ways to check. But the check takes more evidence, more tests, more data. The raw scan alone does not settle it. Can you think of a time when two people looked at the same event and told completely different stories about what happened — both honestly?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Der Scan zeigt, was er zeigt – du hast recht. Aber was der Scan zeigt, sind Muster von Hell und Dunkel, und Muster beschriften sich nicht selbst. Denk daran, wie wir sagten, dass dieselben Sterne als Bär oder als Pflug gezeichnet werden können, und keine der Zeichnungen ist in den Himmel geschrieben – das Muster liegt teilweise in der Person, die es zeichnet. Das ist derselbe Schritt, aber für das Wissen. Zwei Ärzte bringen unterschiedliche Erfahrungen, unterschiedliche Ausbildung, unterschiedliche Fälle, die sie zuvor gesehen haben. Ihr Wissen prägt, was das Muster für sie bedeutet. Einer ist wahrscheinlich eher richtig – die Medizin hat Möglichkeiten zu überprüfen. Aber die Überprüfung erfordert mehr Beweise, mehr Tests, mehr Daten. Der rohe Scan allein entscheidet nicht. Kannst du dir eine Zeit vorstellen, in der zwei Personen dasselbe Ereignis betrachteten und völlig unterschiedliche Geschichten darüber erzählten, was passiert ist – beide ehrlich?
 
-[NINEREEDS_JA]
+[Ninereeds]
 スキャンが示すものは示すものだ——あなたの言う通りだ。しかしスキャンが示すのは明暗のパターンであり、パターンはそれ自体にラベルを付けるわけではない。私たちが言ったように、同じ星々が熊や鋤として描かれることができ、どちらの描画も空に書かれていない——パターンは部分的にそれを描く人の中にある。これは同じ動きだが、知識についてだ。二人の医者は異なる経験、異なる訓練、異なる過去に見た症例を持ち込む。彼らの知識が、パターンが彼らにとって何を意味するかを形作る。一人の方がおそらく正しい——医学には確認する方法がある。しかし確認にはより多くの証拠、より多くの検査、より多くのデータが必要だ。生のスキャンだけでは決着しない。二人の人が同じ出来事を見て、何が起こったかについてまったく異なる話を——両方とも正直に——語った時があっただろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 掃描顯示的就是它所顯示的——你說的對。但掃描顯示的是明暗的模式，而模式不會自己標籤。想想我們說過，同樣的星星可以被畫成一隻熊或一個犁，而兩種畫法都沒有寫在天空上——模式有一部分在畫它的人身上。這是同樣的步驟，但應用在知識上。兩位醫生帶著不同的經驗、不同的訓練、不同的過去看過的病例。他們的知識塑造了模式對他們的意義。其中一位可能比較正確——醫學有檢查的方法。但檢查需要更多的證據、更多的測試、更多的數據。單靠原始掃描無法決定。你能想像一個時候，兩個人看著同一件事，卻對發生的事講出完全不同的故事——而且兩人都誠實嗎？
 
 [USER_EN]

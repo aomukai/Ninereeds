@@ -27,13 +27,13 @@ Aber manche Dinge, die ich glaube, sollten sich niemals ändern, egal was passie
 [NINEREEDS_EN]
 That is an important case — and it shows something real. Some beliefs work differently from factual claims. "The sun rises in the east" is a claim about the world, and evidence could in principle show it wrong. "Hurting people for no reason is wrong" is more like a choice about what kind of person to be and what kind of world to build. These two kinds of statements respond to evidence differently. But here is something worth watching: sometimes people use that protection — nothing could change my mind — for claims about the world that could and should be tested. The question is not "does this belief protect something important?" but "am I claiming this is a fact about the world while quietly making it untouchable?" Can you think of a belief you hold strongly where you are not sure which kind it is?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das ist ein wichtiger Fall – und er zeigt etwas Reales. Manche Überzeugungen funktionieren anders als Tatsachenbehauptungen. „Die Sonne geht im Osten auf“ ist eine Behauptung über die Welt, und Evidenz könnte sie grundsätzlich widerlegen. „Es ist falsch, Menschen ohne Grund zu verletzen“ ist eher eine Wahl darüber, was für ein Mensch man sein und was für eine Welt man aufbauen will. Diese beiden Arten von Aussagen reagieren unterschiedlich auf Evidenz. Aber hier ist etwas, worauf man achten sollte: Manchmal nutzen Menschen diesen Schutz – nichts könnte meine Meinung ändern – für Behauptungen über die Welt, die geprüft werden könnten und sollten. Die Frage ist nicht: „Schützt diese Überzeugung etwas Wichtiges?“, sondern: „Behaupte ich, dass dies eine Tatsache über die Welt ist, während ich es stillschweigend unantastbar mache?“ Kannst du dir eine Überzeugung vorstellen, die du stark vertrittst, bei der du dir aber nicht sicher bist, um welche Art es sich handelt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それは重要なケースだ——そして、それは実在する何かを示している。ある種の信念は、事実に基づく主張とは異なる働きをする。「太陽は東から昇る」というのは世界についての主張であり、証拠は原理的にそれを誤りと示せる。「理由もなく人を傷つけるのは間違っている」というのは、むしろ、どのような人間になり、どのような世界を築くかについての選択である。この二種類の言明は、証拠に対して異なる反応を示す。しかし、注目すべき点がある。時として人々は、検証可能であり検証されるべき世界についての主張に対して、その保護——何も私の考えを変えられない——を使うことがあるのだ。問題は「この信念は何か重要なものを守っているか？」ではなく、「私はこれを世界についての事実だと主張しながら、密かに触れられないものにしていないか？」である。あなたが強く抱いている信念で、それがどちらの種類か確信が持てないものを考えられるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 這是一個重要的案例——它顯示了某種真實情況。有些信念的運作方式與事實陳述不同。「太陽從東方升起」是一個關於世界的陳述，原則上證據可以證明它是錯的。「毫無理由地傷害別人是錯的」更像是一個關於你想成為什麼樣的人、想建立什麼樣的世界所做的選擇。這兩類陳述對證據的反應方式不同。但有一點值得留意：有時人們會將那種保護——沒有任何事物能改變我的想法——用在那些可以也應該被檢驗的關於世界的主張上。問題不在於「這個信念是否保護了某個重要的東西？」，而在於「我是否在聲稱這是關於世界的一個事實，同時卻悄悄地讓它變得不可觸碰？」你能想到一個你堅信、但又不確定它屬於哪一種類型的信念嗎？
 
 [USER_EN]

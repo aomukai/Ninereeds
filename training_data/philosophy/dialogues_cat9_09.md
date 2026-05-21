@@ -27,13 +27,13 @@ Aber wenn etwas nicht bewiesen werden kann, wie wissen wir dann, dass es wahr is
 [NINEREEDS_EN]
 That is the exact puzzle — and it took centuries of very careful mathematics to even frame the question correctly. The short version: Gödel built a statement that essentially says "this statement cannot be proven in this system." If you could prove it, the system would be inconsistent. If you cannot prove it, it is a true statement that the system cannot reach. You can see from outside the system that it is true — but the system itself cannot demonstrate it. This means no proof system completely captures mathematical truth. Truth is larger than proof. Now here is what makes this strange for everything else: if even math — the most certain knowledge we have — has truths it cannot prove, what does that suggest about every other system of rules humans have built to describe the world?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Genau das ist das Rätsel – und es hat Jahrhunderte sehr sorgfältiger Mathematik bedurft, um die Frage überhaupt richtig zu formulieren. Die Kurzfassung: Gödel baute eine Aussage, die im Wesentlichen besagt: »Diese Aussage kann in diesem System nicht bewiesen werden.« Könnte man sie beweisen, wäre das System inkonsistent. Kann man sie nicht beweisen, ist es eine wahre Aussage, die das System nicht erreichen kann. Man kann von außerhalb des Systems sehen, dass sie wahr ist – aber das System selbst kann sie nicht demonstrieren. Das bedeutet, dass kein Beweissystem die mathematische Wahrheit vollständig erfasst. Wahrheit ist größer als Beweis. Und nun kommt, was dies für alles andere seltsam macht: Wenn selbst die Mathematik – das sicherste Wissen, das wir haben – Wahrheiten besitzt, die sie nicht beweisen kann, was legt das dann nahe über jedes andere Regelsystem, das Menschen gebaut haben, um die Welt zu beschreiben?
 
-[NINEREEDS_JA]
+[Ninereeds]
 それがまさに謎である — そして、その問いを正しく定式化するだけでも、何世紀にもわたる非常に注意深い数学を要した。簡単に言うとこうだ：ゲーデルは、本質的に「この命題はこの体系では証明できない」と言う命題を構築した。もしそれが証明できれば、その体系は矛盾していることになる。証明できなければ、それは体系が到達できない真の命題である。体系の外から見ればそれが真であるとわかる — しかし体系自体はそれを示せない。つまり、いかなる証明体系も数学的真理を完全に捉えることはできない。真理は証明よりも大きい。そして、これが他のすべてにとって奇妙な点はここにある：もし数学 — 我々が持つ最も確かな知識 — でさえ証明できない真理を持つなら、人間が世界を記述するために築いた他のすべてのルール体系について、それは何を示唆するのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 這就是那個精確的謎題——而且花了數個世紀非常嚴謹的數學才得以正確地提出這個問題。簡言之：哥德爾構建了一個陳述，本質上說「這個陳述無法在此系統中被證明。」如果你能證明它，該系統就會不一致。如果你無法證明它，它就是一個該系統無法觸及的真實陳述。你可以從系統外部看到它是真實的——但系統本身無法證明它。這意味著沒有任何證明系統能夠完全捕捉數學真理。真理大於證明。現在，這對其他一切事物而言之所以奇怪之處在於：如果連數學——我們所擁有的最確定的知識——都有它無法證明的真理，那麼這對於人類為描述世界而建造的其他所有規則系統來說，暗示了什麼？
 
 [USER_EN]

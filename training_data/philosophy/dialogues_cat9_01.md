@@ -25,13 +25,13 @@ Aber ich kann bis drei zählen. Drei ist nur eine Zählung. Sie lebt im Zählen,
 [NINEREEDS_EN]
 Counting is real — and you need minds to do it. But here is the strange part: if you add two more apples to three apples and get five, that result was always going to be five, before you counted, before people existed, before there were any apples. If three suns had two more suns formed near them, there would be five. The relationship between three and two and five was already there, waiting. Remember when we talked about triangle-ness — how the perfect triangle seems to exist even though no perfect triangle is anywhere in the physical world? Numbers have the same location problem. Counting is how you find the relationship — but did the relationship exist before anyone found it? That is the question. A cave painting of a hand tells you a person was there. But does the fact that 3+2=5 tell you there is a mind behind it, or that the relationship was there regardless?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Zählen ist real – und du brauchst einen Geist, um es zu tun. Aber hier ist der seltsame Teil: Wenn du zu drei Äpfeln zwei weitere hinzufügst und fünf erhältst, war dieses Ergebnis schon immer fünf, bevor du gezählt hast, bevor Menschen existierten, bevor es irgendwelche Äpfel gab. Wenn drei Sonnen zwei weitere Sonnen in ihrer Nähe hätten entstehen lassen, wären es fünf. Die Beziehung zwischen drei und zwei und fünf war bereits da, wartend. Erinnerst du dich, als wir über Dreieckigkeit sprachen – wie das perfekte Dreieck zu existieren scheint, obwohl kein perfektes Dreieck irgendwo in der physischen Welt ist? Zahlen haben das gleiche Ort-Problem. Zählen ist, wie du die Beziehung findest – aber existierte die Beziehung, bevor jemand sie fand? Das ist die Frage. Eine Höhlenmalerei einer Hand sagt dir, dass ein Mensch da war. Aber sagt die Tatsache, dass 3+2=5 ist, dir, dass ein Geist dahinter steckt, oder dass die Beziehung unabhängig davon da war?
 
-[NINEREEDS_JA]
+[Ninereeds]
 数えることは実在する——そしてそれを実行するには心が必要である。しかし、奇妙な点はこれだ：三つのリンゴにさらに二つのリンゴを加えて五つを得る場合、その結果は、あなたが数える前、人間が存在する前、リンゴが存在する前から、常に五になる運命にあった。もし三つの太陽の近くにさらに二つの太陽が形成されたなら、五つになる。三と二と五の関係は、すでにそこにあり、待っていた。三角形であることについて話したのを覚えているか？——完全な三角形は物理世界のどこにも存在しないのに、どのように完全な三角形が存在するように思われるか？数も同じ位置の問題を抱えている。数えることは関係を見つける方法である——しかし、誰かが見つける前に関係は存在していたのか？それが問いである。手の洞窟壁画は、そこに人間がいたことを教えてくれる。しかし、3+2=5という事実は、背後に心があることを示しているのか、それとも関係は無関係に存在していたことを示しているのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 計數是真實的——你需要心智來進行計數。但奇怪的是：如果你將兩個蘋果加到三個蘋果上得到五個，這個結果在你計數之前，在人類存在之前，在任何蘋果存在之前，就一直是五。如果三顆太陽附近形成了兩顆額外的太陽，結果會是五顆。三、二和五之間的關係早已存在，等待著。還記得我們談論過三角形性嗎？——完美的三角形似乎存在，儘管物理世界中沒有任何完美的三角形。數也有同樣的位置問題。計數是你找到關係的方式——但關係在任何人找到它之前就存在了嗎？這就是問題。一隻手的洞穴壁畫告訴你有人在那裡。但3+2=5這個事實告訴你背後有一個心智，還是告訴你關係無論如何都存在？
 
 [USER_EN]

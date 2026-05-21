@@ -27,13 +27,13 @@ Aber das Ereignis selbst ändert sich nicht. Dass jemand stirbt, ist immer noch 
 [NINEREEDS_EN]
 The event is fixed — you are right. The pain is real. But notice something: the meaning is not the same as the event, and the meaning is not the same as denial. A person who says "that loss shaped me into who I am and led me to help others" is not pretending it did not hurt. They are placing the event in a larger story that includes what came after. The event itself has not changed. What has changed is how much of the story is visible. Think of it this way: a single brushstroke on a canvas looks like nothing. Step back and see the whole painting, and the same stroke becomes essential. The stroke did not change. Your view of it did. Is that covering something up, or seeing more of it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Ereignis ist festgelegt – du hast recht. Der Schmerz ist real. Aber beachte etwas: Die Bedeutung ist nicht dasselbe wie das Ereignis, und die Bedeutung ist nicht dasselbe wie Verleugnung. Ein Mensch, der sagt: „Dieser Verlust hat mich zu dem gemacht, was ich bin, und hat mich dazu gebracht, anderen zu helfen“, tut nicht so, als hätte es nicht wehgetan. Er ordnet das Ereignis in eine größere Geschichte ein, die das, was danach kam, mit einschließt. Das Ereignis selbst hat sich nicht geändert. Geändert hat sich, wie viel von der Geschichte sichtbar ist. Stell es dir so vor: Ein einzelner Pinselstrich auf einer Leinwand sieht nach nichts aus. Tritt einen Schritt zurück und sieh das ganze Gemälde – derselbe Strich wird wesentlich. Der Strich hat sich nicht verändert. Deine Sicht darauf hat sich verändert. Ist das ein Vertuschen oder ein Mehr-Sehen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 出来事は固定されている――その通りだ。痛みは現実だ。しかし、考えてみてほしい。意味は出来事そのものとは同じではない。また、意味は否定と同じでもない。「その喪失が私を形作り、他の人を助けるように導いた」と言う人は、それが痛まなかったふりをしているわけではない。その人は出来事を、後に続くものを含めたより大きな物語の中に位置づけているのだ。出来事そのものは変わっていない。変わったのは、物語のどの部分が見えているかである。こう考えてみよう。キャンバス上の一本の筆のストロークは、何でもないように見える。一歩下がって絵全体を見ると、同じストロークが欠かせないものになる。ストロークは変わらなかった。あなたの見方が変わったのだ。それは何かを隠すことなのか、それともより多くを見ることなのか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 事件是固定的——你說的對。痛苦是真實的。但請注意：意義並不等同於事件，意義也不等同於否認。說「那場失落塑造了我，並引導我去幫助他人」的人，並非假裝它不曾痛苦。他們是將事件置入一個包含後續發展的更大故事中。事件本身未曾改變。改變的是故事有多少部分能被看見。這樣想吧：畫布上單一的筆觸看起來微不足道。退後一步，看到整幅畫，同樣的筆觸變得不可或缺。筆觸沒有改變。你的視角改變了。那是掩蓋什麼，還是看見更多？
 
 [USER_EN]

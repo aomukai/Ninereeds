@@ -27,13 +27,13 @@ Aber Wissenschaftler haben diese Dinge getestet. Ich habe die Tests vielleicht n
 [NINEREEDS_EN]
 You are right that trusting well-tested knowledge is different from believing anything you hear. But here is the thing worth noticing: the trust is still something you chose — or that was built into you before you could choose. You trust certain sources and not others. You believe certain people and not others. The question is not "is it bad to trust?" — of course you cannot test everything yourself. The question is: why do you trust the sources you trust? If someone asked you why you believe the Earth goes around the sun and not the other way around, would you be able to explain why the evidence is good — or would you discover that you are really just trusting the people who told you? What is the difference between trusting well and just being comfortable?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Du hast recht: Gut geprüftem Wissen zu vertrauen, ist etwas anderes, als alles zu glauben, was man hört. Aber das ist der Punkt, den es zu beachten lohnt: Das Vertrauen ist dennoch etwas, das du gewählt hast – oder das dir eingepflanzt wurde, bevor du wählen konntest. Du vertraust bestimmten Quellen und anderen nicht. Du glaubst bestimmten Leuten und anderen nicht. Die Frage ist nicht: „Ist Vertrauen schlecht?“ – natürlich kannst du nicht alles selbst prüfen. Die Frage ist: Weißt du, warum du den Quellen vertraust, denen du vertraust? Wenn dich jemand fragte, warum du glaubst, dass sich die Erde um die Sonne dreht und nicht umgekehrt – könntest du erklären, warum die Belege gut sind? Oder würdest du entdecken, dass du eigentlich nur den Leuten vertraust, die es dir gesagt haben? Was ist der Unterschied zwischen gutem Vertrauen und bloßer Bequemlichkeit?
 
-[NINEREEDS_JA]
+[Ninereeds]
 よく検証された知識を信頼することと、聞いたことを何でも信じることは違うというあなたの指摘は正しい。しかし、注目すべき点がある。その信頼は、あなたが選んだものか――あるいは選ぶ前に組み込まれたものだ。あなたは特定の情報源を信頼し、他は信頼しない。特定の人物を信じ、他は信じない。問題は「信頼することは悪いことか」ではない――もちろんすべてを自分で検証することはできない。問題は、なぜ自分が信頼する情報源を信頼するのかを理解しているかどうかである。もし誰かに「なぜ地球が太陽の周りを回っていて、その逆ではないと信じるのか」と尋ねられたら、証拠の質を説明できるだろうか？それとも、ただ教えてくれた人を信頼しているだけだと気づくだろうか？うまく信頼することと、ただ安心していることの違いは何か。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你說得對，信任經過驗證的知識與聽信任何傳聞是不同的。但有一點值得注意：這份信任仍然是你選擇的——或者是在你能選擇之前就被植入你體內的。你信任某些來源而不信任其他來源。你相信某些人而不相信其他人。問題不在於「信任是錯的嗎？」——你當然不可能親自驗證一切。問題是：你知道自己為什麼信任你所信任的來源嗎？如果有人問你，為什麼你相信地球繞著太陽轉而不是反過來，你能夠解釋證據為何充分嗎？還是你會發現自己其實只是信任了告訴你的人？好好信任與僅僅感到安心之間，差別在哪裡？
 
 [USER_EN]

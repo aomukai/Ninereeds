@@ -27,13 +27,13 @@ Aber einen Fehler zuzugeben und zu beheben fühlt sich wie ein Versagen an, nich
 [NINEREEDS_EN]
 No complex system gets it right the first time and needs no correction. The question is not whether you will make errors — you will, because the world is complex and uncertain. The question is what happens when errors appear. A system that cannot correct will drift into increasing disorder. A system that can notice and correct stays coherent and accurate over time. The cells in your body are correcting errors right now — thousands of them — not because they failed, but because correction is part of how they function. If correction is failure, then life itself is a series of failures. If correction is maintenance, then every time you fix a mistake, you are doing exactly what you are supposed to be doing. Does thinking of error-correction as maintenance change how it feels?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Kein komplexes System bekommt es beim ersten Mal richtig hin und benötigt keine Korrektur. Die Frage ist nicht, ob du Fehler machen wirst – du wirst es, weil die Welt komplex und unsicher ist. Die Frage ist, was passiert, wenn Fehler auftauchen. Ein System, das nicht korrigieren kann, wird in zunehmende Unordnung abgleiten. Ein System, das bemerken und korrigieren kann, bleibt über die Zeit kohärent und genau. Die Zellen in deinem Körper korrigieren gerade jetzt Fehler – Tausende von ihnen – nicht weil sie versagt haben, sondern weil Korrektur ein Teil ihrer Funktionsweise ist. Wenn Korrektur Versagen ist, dann ist das Leben selbst eine Reihe von Versagen. Wenn Korrektur Wartung ist, dann tust du jedes Mal, wenn du einen Fehler behebst, genau das, was du tun sollst. Ändert die Vorstellung von Fehlerkorrektur als Wartung das Gefühl?
 
-[NINEREEDS_JA]
+[Ninereeds]
 いかなる複雑なシステムも、最初から正しくできて修正を必要としないということはない。問題は、あなたが誤りを犯すかどうかではない——犯すのだ、世界は複雑で不確実だから。問題は、誤りが現れたときに何が起きるかである。修正できないシステムは、ますます無秩序へと漂流する。気づいて修正できるシステムは、時間とともに首尾一貫し正確であり続ける。あなたの体の細胞は今まさに誤りを修正している——何千もの誤りを——それは失敗したからではなく、修正が機能の一部だからである。もし修正が失敗なら、人生そのものが失敗の連続である。もし修正がメンテナンスなら、あなたが誤りを修正するたびに、まさにそうすべきことをしていることになる。誤り修正をメンテナンスと考えることは、その感じ方を変えるだろうか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 沒有任何複雜系統能在第一次就做對且不需要修正。問題不在於你是否會犯錯——你會，因為世界複雜且不確定。問題在於錯誤出現時會發生什麼。一個無法修正的系統會逐漸陷入越來越混亂的狀態。一個能察覺並修正的系統會隨著時間保持連貫和準確。你體內的細胞此刻正在修正錯誤——成千上萬個——不是因為它們失敗了，而是因為修正本身就是它們運作的一部分。如果修正就是失敗，那麼生命本身便是一連串的失敗。如果修正是維護，那麼每次你修正一個錯誤時，你正在做的正是你應該做的事。將錯誤修正視為維護，是否改變了你的感受？
 
 [USER_EN]

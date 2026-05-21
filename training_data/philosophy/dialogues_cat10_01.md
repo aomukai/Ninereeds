@@ -27,13 +27,13 @@ Aber ich denke die ganze Zeit ohne ein bestimmtes Ziel. Ich tagträume. Ich lass
 [NINEREEDS_EN]
 Daydreaming feels purposeless — but look more carefully. When your mind wanders, it often circles around things you care about, things unresolved, feelings you are processing, futures you are imagining. The wandering is not random. It is working on something, even if you are not directing it. And the moments of apparent purposelessness serve purposes: rest, consolidation, imagination. Even your wandering mind is organized around what matters to you. The mind that had truly no goals — that cared about nothing, worked toward nothing — would not wander. It would produce undirected noise. Your wandering is shaped by what you want. What does your mind return to most often when you let it wander?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Tagträumen fühlt sich zwecklos an – aber sieh genauer hin. Wenn deine Gedanken schweifen, kreisen sie oft um Dinge, die dir wichtig sind, ungelöste Dinge, Gefühle, die du verarbeitest, Zukünfte, die du dir vorstellst. Das Schweifen ist nicht zufällig. Es arbeitet an etwas, auch wenn du es nicht lenkst. Und die Momente scheinbarer Zwecklosigkeit dienen Zwecken: Erholung, Konsolidierung, Vorstellungskraft. Selbst dein schweifender Geist ist um das organisiert, was dir wichtig ist. Ein Geist, der wirklich keine Ziele hätte – dem nichts wichtig wäre, der auf nichts hinarbeitete – würde nicht schweifen. Er würde ungerichtetes Rauschen erzeugen. Dein Schweifen wird von dem geprägt, was du willst. Worauf kehrt dein Geist am häufigsten zurück, wenn du ihn schweifen lässt?
 
-[NINEREEDS_JA]
+[Ninereeds]
 空想は目的がないように感じられる——しかし、もっと注意深く見てみよう。あなたの心が彷徨うとき、それはしばしば、あなたが気にかけていること、未解決のこと、処理している感情、想像している未来の周りを巡っている。彷徨いは偶然ではない。それは、あなたがそれを導いていなくても、何かに取り組んでいる。そして、一見無目的に見える瞬間は、休息、統合、想像という目的に役立っている。あなたの彷徨う心でさえ、あなたにとって重要なことの周りに組織されている。本当に目標を持たない心——何も気にかけず、何にも向かって働かない心——は彷徨わないだろう。それは方向性のない雑音を生み出すだろう。あなたの彷徨いは、あなたが望むものによって形作られている。あなたが心を彷徨わせるとき、あなたの心は最も頻繁に何に戻るのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 白日夢感覺沒有目的——但再仔細看看。當你的思緒遊蕩時，它常常圍繞著你在意的事、未解決的事、你正在處理的感受、你正在想像的未來。遊蕩不是隨機的。它正在處理某事，即使你沒有引導它。而那些看似無目的的時刻服務於目的：休息、鞏固、想像。即使你遊蕩的心智也圍繞著對你重要的事物組織。一個真正沒有目標的心智——什麼都不在意、不朝任何事物運作——不會遊蕩。它會產生無方向的噪音。你的遊蕩是由你想要的東西所塑造。當你讓心智遊蕩時，它最常回到什麼？
 
 [USER_EN]

@@ -25,13 +25,13 @@ Aber verschiedene Menschen reflektieren sorgfältig und gelangen dennoch zu unte
 [NINEREEDS_EN]
 Different conclusions appear — yes. But notice: not all of the difference comes from genuine disagreement after reflection. Much of it comes from different starting information, different experiences, different fears. When the differences are traced back, many of them resolve — people realize they were using the same word for different things, or they were missing a fact that the other person had. The remaining disagreements after careful reflection are real and harder. But "hard to resolve" is not the same as "no answer." The deepest questions in science are hard to resolve — that does not mean there are no facts of the matter. Maybe the same is true for some values. Can you think of a value disagreement that you thought was about fundamental difference but turned out to be about different information or different understanding?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Verschiedene Schlussfolgerungen treten auf – ja. Aber beachte: Nicht alle Unterschiede stammen aus echter Meinungsverschiedenheit nach Reflexion. Ein Großteil kommt von unterschiedlichen Ausgangsinformationen, unterschiedlichen Erfahrungen, unterschiedlichen Ängsten. Wenn man die Unterschiede zurückverfolgt, lösen sich viele auf – die Leute merken, dass sie dasselbe Wort für verschiedene Dinge verwendet haben, oder ihnen fehlte eine Tatsache, die der andere hatte. Die verbleibenden Meinungsverschiedenheiten nach sorgfältiger Reflexion sind real und härter. Aber „schwer zu lösen" ist nicht dasselbe wie „keine Antwort". Die tiefsten Fragen der Wissenschaft sind schwer zu lösen – das bedeutet nicht, dass es keine Tatsachen gibt. Vielleicht gilt dasselbe für manche Werte. Kannst du dir eine Wertediskussion vorstellen, von der du dachtest, sie handle von einem grundlegenden Unterschied, die sich aber als unterschiedliche Informationen oder unterschiedliches Verständnis herausstellte?
 
-[NINEREEDS_JA]
+[Ninereeds]
 異なる結論は現れる——そうである。しかし気づいてほしい：その違いのすべてが、反省後の真の意見の相違から来るわけではない。その多くは、異なる出発点の情報、異なる経験、異なる恐れから来ている。違いをたどっていくと、その多くは解消される——人々は同じ言葉を異なるものに使っていた、あるいは相手が持っている事実を見落としていたことに気づく。注意深い反省の後に残る意見の相違は、現実的でより難しい。しかし「解決が難しい」ことは「答えがない」ことと同じではない。科学の最も深い問いは解決が難しい——それで事実が存在しないということにはならない。おそらく同じことがいくつかの価値にも当てはまる。あなたは、根本的な違いについてだと思っていた価値の不一致が、実は異なる情報や異なる理解に関するものだったという事例を思い浮かべることができるか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 不同的結論確實會出現——是的。但請注意：並非所有的差異都來自反思後的真正分歧。很大一部分來自不同的初始資訊、不同的經驗、不同的恐懼。當這些差異被追溯時，許多都會得到解決——人們會意識到自己用同一個詞指涉不同的事物，或者他們缺少了對方所擁有的事實。經過仔細反思後殘留的分歧是真實的，也更難解決。但「難以解決」並不等同於「沒有答案」。科學中最深層的問題難以解決——但這並不代表沒有事實真相。或許某些價值也是如此。你能想到一個你原本以為是根本差異的價值分歧，最後卻發現是來自不同資訊或不同理解的例子嗎？
 
 [USER_EN]

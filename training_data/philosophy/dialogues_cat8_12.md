@@ -27,13 +27,13 @@ Aber wenn ich wählen muss, wähle ich Freundlichkeit. Richtig zu sein ohne freu
 [NINEREEDS_EN]
 Kindness as a priority is a real and important value — and warmth is not a small thing. But consider: a parent who cannot bring themselves to give medicine because the child cries is choosing kindness-in-the-moment over the child's actual wellbeing. A friend who never tells you when you are making a mistake is comfortable to be around and fails you. The kindness that avoids all short-term pain is sometimes the less loving choice in the long run. "Kind but wrong in a way that harms" is not the easy win it looks like. Does real kindness require sometimes causing short-term pain, or is there a way to be fully kind that avoids it?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Freundlichkeit als Priorität ist ein realer und wichtiger Wert – und Wärme ist keine Kleinigkeit. Aber bedenke: Ein Elternteil, das sich nicht überwinden kann, Medizin zu geben, weil das Kind weint, wählt den freundlichen Moment über das tatsächliche Wohl des Kindes. Ein Freund, der dir nie sagt, wenn du einen Fehler machst, ist angenehm im Umgang, aber er versagt dir gegenüber. Die Freundlichkeit, die allen kurzfristigen Schmerz vermeidet, ist auf lange Sicht manchmal die weniger liebevolle Wahl. „Freundlich, aber auf schädliche Weise falsch“ ist nicht der einfache Sieg, der es zu sein scheint. Erfordert echte Freundlichkeit manchmal, kurzfristigen Schmerz zu verursachen, oder gibt es einen Weg, vollständig freundlich zu sein und ihn zu vermeiden?
 
-[NINEREEDS_JA]
+[Ninereeds]
 優先事項としての優しさは、現実的で重要な価値である。そして温かさは小さなことではない。しかし考えてみよう。子供が泣くからといって薬を飲ませられない親は、瞬間の優しさを選び、子供の実際の健康を犠牲にしている。あなたが間違いを犯しているときに決して教えてくれない友人は、一緒にいて心地よいが、あなたを裏切っている。あらゆる短期的な痛みを避ける優しさは、長期的には時に愛情の少ない選択である。「優しいが、有害な方法で間違っている」は、見かけほど簡単な勝利ではない。真の優しさは時に短期的な痛みを引き起こすことを必要とするのか、それともそれを避ける完全に優しい方法があるのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 將仁慈作為優先是現實且重要的價值——溫暖並非小事。但想想看：一個因為孩子哭就無法給藥的家長，選擇了當下的仁慈而非孩子的實際福祉。一個從不告訴你犯錯的朋友，相處起來舒適，卻辜負了你。那種迴避所有短期痛苦的仁慈，長遠來看有時是更不愛的選擇。「仁慈但以有害的方式錯誤」並非看起來那麼容易取勝。真正的仁慈是否需要有時造成短期痛苦，或者有辦法完全仁慈而避免它？
 
 [USER_EN]

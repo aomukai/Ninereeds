@@ -25,13 +25,13 @@ Aber dass zwei plus zwei vier ergibt, ist doch einfach offensichtlich wahr. Es b
 [NINEREEDS_EN]
 "It's solid because it's math" describes the feeling — but not where the solidity comes from. Here is one way to see the question: imagine a universe where gathering two piles of two stones together sometimes gave you five stones. Not because you miscounted — because the number of stones actually changed when you combined the piles. In that universe, 2+2 would not equal 4. Math would not apply to stones. The question is: would 2+2 still equal 4 in that universe, in some abstract sense, even though it did not apply to physical things? Is math a fact about the universe — or is it a system built for this universe that happens to fit perfectly? What would it mean if it is the second one?
 
-[NINEREEDS_DE]
+[Ninereeds]
 „Es ist solid, weil es Mathematik ist“ beschreibt das Gefühl – aber nicht, woher die Solidität kommt. Hier ist eine Möglichkeit, die Frage zu sehen: Stelle dir ein Universum vor, in dem das Zusammenlegen von zwei Haufen mit je zwei Steinen manchmal fünf Steine ergibt. Nicht weil du dich verzählt hast – sondern weil sich die Anzahl der Steine tatsächlich änderte, als du die Haufen zusammenlegtest. In jenem Universum wäre 2+2 nicht gleich 4. Mathematik würde nicht auf Steine zutreffen. Die Frage ist: Wäre 2+2 in jenem Universum, in einem abstrakten Sinne, immer noch gleich 4, obwohl es nicht auf physische Dinge zutraf? Ist Mathematik eine Tatsache über das Universum – oder ist sie ein System, das für dieses Universum gebaut wurde und zufällig perfekt passt? Was würde es bedeuten, wenn es das Zweite wäre?
 
-[NINEREEDS_JA]
+[Ninereeds]
 「数学だから確かなのだ」というのは感情を表しているが、確かさがどこから来るのかは説明していない。問題を捉える一つの方法を挙げよう。2つの石の山をそれぞれ2個ずつ集めて合わせると、時々5個の石になる宇宙を想像してみてほしい。数え間違えたからではなく、山を合わせたときに石の数が実際に変化するからである。その宇宙では、2+2は4にならない。数学は石には適用されない。問題は、その宇宙でも、物理的なものには適用されなくとも、抽象的な意味で2+2は依然として4なのか、ということである。数学は宇宙についての事実なのか、それともこの宇宙のために構築され、たまたま完璧に適合するシステムなのか。もし後者だとしたら、それは何を意味するのか。
 
-[NINEREEDS_ZH]
+[Ninereeds]
 「它之所以堅實，是因為它是數學」描述了這種感受——但沒有說明堅實性從何而來。這裡有一個看待問題的方式：想像一個宇宙，在那裡，把兩堆各兩顆石頭收集在一起，有時會得到五顆石頭。不是因為你數錯了——而是因為當你合併石堆時，石頭的數量真的改變了。在那個宇宙裡，二加二不等於四。數學不適用於石頭。問題是：在那個宇宙中，即使數學不適用於物理事物，在某種抽象意義上，二加二仍然等於四嗎？數學是關於宇宙的事實——還是一個為這個宇宙建造、恰好完美契合的系統？如果是後者，那又意味著什麼？
 
 [USER_EN]

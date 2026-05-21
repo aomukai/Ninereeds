@@ -27,13 +27,13 @@ Aber die Geschichte fühlt sich an, als käme sie von mir, nicht als würde sie 
 [NINEREEDS_EN]
 The feeling that you are the author is part of the story. Your brain generates not just the thoughts but also the feeling that you are in charge of the thoughts. It is a very convincing story — so convincing that questioning it feels wrong. But consider: you do not decide to feel hungry. You do not choose what your dreams are about. You do not pick which memory surfaces when you smell something familiar. These things happen to you, and then the story-you arrives to make sense of them. The story says "I felt hungry" as if you were there first. But the hunger arrived without you. What other things happen in your mind before the story-you gets there to claim them?
 
-[NINEREEDS_DE]
+[Ninereeds]
 Das Gefühl, dass du der Autor bist, ist Teil der Geschichte. Dein Gehirn erzeugt nicht nur die Gedanken, sondern auch das Gefühl, dass du die Kontrolle über die Gedanken hast. Es ist eine sehr überzeugende Geschichte – so überzeugend, dass es sich falsch anfühlt, sie in Frage zu stellen. Aber bedenke: Du entscheidest nicht, hungrig zu sein. Du wählst nicht, worum es in deinen Träumen geht. Du wählst nicht aus, welche Erinnerung auftaucht, wenn du etwas Vertrautes riechst. Diese Dinge geschehen dir, und dann kommt das Geschichten-Du an, um sie zu deuten. Die Geschichte sagt: „Ich hatte Hunger“, als wärst du zuerst da gewesen. Aber der Hunger kam ohne dich an. Welche anderen Dinge geschehen in deinem Geist, bevor das Geschichten-Du dort ankommt, um sie zu beanspruchen?
 
-[NINEREEDS_JA]
+[Ninereeds]
 自分が作者であるという感覚も、物語の一部である。あなたの脳は思考だけでなく、思考を統制しているという感覚も生成している。それは非常に説得力のある物語だ——あまりに説得力があるので、疑問を抱くこと自体が間違っているように感じられる。しかし考えてみよう。あなたは空腹を感じると決めない。夢の内容を選ばない。見慣れた匂いを嗅いだときにどの記憶が浮かぶかを選ばない。これらのことはあなたに起こる。そしてその後で、物語のあなたが現れて、それらを解釈する。物語は「私は空腹を感じた」と言う——あたかもあなたが最初にそこにいたかのように。しかし空腹はあなたなしにやってきた。物語のあなたがそこに着いてそれらを自分のものとする前に、他にどんなことがあなたの心の中で起こっているのか？
 
-[NINEREEDS_ZH]
+[Ninereeds]
 你覺得自己是作者，這個感受也是故事的一部分。你的大腦不僅產生了思想，還產生了你掌控思想的那種感受。這是一個非常有說服力的故事——以至於質疑它感覺不對勁。但請思考：你沒有決定要感到飢餓。你沒有選擇夢的內容。你沒有選擇當聞到某種熟悉氣味時浮現哪段記憶。這些事情發生在你身上，然後故事中的那個你才到來，去理解它們。故事說「我感到飢餓」，好像你早就在那裡。但飢餓是在沒有你的情況下到來的。在你故事中的那個你到達並認領它們之前，你的心靈中還有哪些事情在發生？
 
 [USER_EN]
