@@ -35,6 +35,15 @@ for him. He cannot speak but his actions often move the story forward — he
 finds the squirrel hole, he pulls toward the pond, he comes back soaked and
 shakes water everywhere.
 
+### Bello
+A smaller dog, younger than Biscuit, who arrives in spring (story 48). Black
+and white, with ears that stand up like little flags. Where Biscuit is
+confident and nosy, Bello is quick and watchful — he darts into gaps, chases
+things Biscuit has already lost interest in, and circles back to check on the
+children. He and Biscuit took a full afternoon to settle with each other; now
+they run together. His name in German stories is Bello; in Japanese ベロ;
+in Chinese 贝洛.
+
 ---
 
 ## Anchor Locations

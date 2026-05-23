@@ -37,14 +37,14 @@ BASE_URL    = "https://openrouter.ai/api/v1"
 MODEL       = "deepseek/deepseek-chat"
 MAX_TOKENS  = 1200
 
-CHAR_MAP = {"E": "Emma", "T": "Taro", "G": "Gran", "B": "Biscuit"}
+CHAR_MAP = {"E": "Emma", "T": "Taro", "G": "Gran", "B": "Biscuit", "L": "Bello"}
 
 # Cast names per language — same characters, language-appropriate rendering
 CAST: dict[str, dict[str, str]] = {
     "EN": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Gran",       "Biscuit": "Biscuit"},
-    "DE": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Oma",        "Biscuit": "Keks"},
-    "JP": {"Emma": "エマ",      "Taro": "太郎",   "Gran": "おばあさん",  "Biscuit": "ビスケット"},
-    "ZH": {"Emma": "艾玛",      "Taro": "太郎",   "Gran": "奶奶",       "Biscuit": "饼干"},
+    "DE": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Oma",        "Biscuit": "Keks",        "Bello": "Bello"},
+    "JP": {"Emma": "エマ",      "Taro": "太郎",   "Gran": "おばあさん",  "Biscuit": "ビスケット",  "Bello": "ベロ"},
+    "ZH": {"Emma": "艾玛",      "Taro": "太郎",   "Gran": "奶奶",       "Biscuit": "饼干",        "Bello": "贝洛"},
 }
 
 # Language-specific writing instructions
@@ -57,29 +57,29 @@ LANG_INSTRUCTIONS: dict[str, str] = {
         "Write in German. Natural children's prose — the register of Astrid Lindgren translated "
         "into German, or early-reader German picture books. Grade 1–2 reading level. "
         "Short sentences. No textbook constructions (not: 'Das ist ein Apfel'). "
-        "Characters: Emma, Taro, Oma (grandmother), Keks (dog)."
+        "Characters: Emma, Taro, Oma (grandmother), Keks (dog), Bello (second dog, appears from story 48)."
     ),
     "JP": (
         "Write in Japanese. Natural children's prose — the register of a Ghibli picture book or "
         "Japanese early reader (e.g. はじめてのおつかい level). Grade 1–2. "
         "Use plain/casual forms (だ・の・よ・ね), not formal/keigo. "
         "Short sentences. No textbook constructions (not: '私はエマです'). "
-        "Characters: エマ、太郎、おばあさん、ビスケット（犬）。"
+        "Characters: エマ、太郎、おばあさん、ビスケット（犬）、ベロ（二番目の犬、物語48から登場）。"
     ),
     "ZH": (
         "Write in Simplified Chinese (Mandarin). Natural children's prose — the register of "
         "a Chinese picture book for ages 6–8. Grade 1–2. Short sentences. "
         "No textbook constructions (not: '我是艾玛'). "
-        "Characters: 艾玛、太郎、奶奶、饼干（狗）。"
+        "Characters: 艾玛、太郎、奶奶、饼干（狗）、贝洛（第二只狗，从故事48开始出现）。"
     ),
 }
 
 # Character names to check for in validation, per language
 CHAR_NAMES: dict[str, list[str]] = {
-    "EN": ["Emma", "Taro", "Gran", "Biscuit"],
-    "DE": ["Emma", "Taro", "Oma", "Keks"],
-    "JP": ["エマ", "太郎", "おばあさん", "ビスケット"],
-    "ZH": ["艾玛", "太郎", "奶奶", "饼干"],
+    "EN": ["Emma", "Taro", "Gran", "Biscuit", "Bello"],
+    "DE": ["Emma", "Taro", "Oma", "Keks", "Bello"],
+    "JP": ["エマ", "太郎", "おばあさん", "ビスケット", "ベロ"],
+    "ZH": ["艾玛", "太郎", "奶奶", "饼干", "贝洛"],
 }
 
 _lock = threading.Lock()
@@ -132,6 +132,18 @@ def parse_storylist(path: Path) -> list[dict]:
                 current["keywords"] = val
             elif key == "SEED":
                 current["seed"] = val
+            elif key == "ARITHMETIC":
+                current["arithmetic"] = val
+            elif key == "ANSWER":
+                current["answer"] = val
+            elif key == "STATES":
+                current["states"] = val
+            elif key == "COUNTS":
+                current["counts"] = val
+            elif key == "PARAPHRASE":
+                current["paraphrase"] = val
+            elif key == "NOTES":
+                current["notes"] = val
     if current.get("id"):
         stories.append(current)
     return stories
@@ -160,6 +172,25 @@ not rendered from English.
 --- end reference ---
 """
 
+    arithmetic_block = ""
+    if story.get("arithmetic"):
+        answer = story.get("answer", "")
+        states = story.get("states", "")
+        counts = story.get("counts", "")
+        paraphrase = story.get("paraphrase", "")
+        notes = story.get("notes", "")
+        arithmetic_block = f"""
+ARITHMETIC CONSTRAINTS (follow exactly — do not invent or change numbers):
+- Arithmetic fact: {story['arithmetic']}
+- Correct answer (hardcoded — use this word exactly): {answer}
+- Who states the math aloud: {states}
+- Who counts aloud: {counts}
+- Paraphrase variant to include: {paraphrase}
+{f'- Notes: {notes}' if notes else ''}
+
+The arithmetic answer must be correct. Do not change the numbers or the answer word.
+"""
+
     return f"""{bible}
 
 ---
@@ -175,7 +206,7 @@ SEASON: {story['season']}
 CHARACTERS IN THIS STORY: {chars_str}
 KEY WORDS TO COVER (use naturally, not forced): {story['keywords']}
 SCENE SEED: {story['seed']}
-
+{arithmetic_block}
 Requirements:
 - 150–220 words. Stop when the scene is complete. Do not pad or summarise.
 - Show through action and sensation, not definition.
