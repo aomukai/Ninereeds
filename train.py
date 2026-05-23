@@ -53,7 +53,11 @@ DEFAULT_SEED = 1337
 # Phase → data files mapping
 # ---------------------------------------------------------------------------
 
+# Phase 0 = full corpus run (use --corpus-file to supply the assembled corpus).
+# Phases 1-5 retained for reference but their old flat-file paths no longer exist;
+# use --corpus-file for any new training run.
 PHASE_FILES: dict[int, list[str]] = {
+    0: [],  # populated at runtime via --corpus-file
     1: ["training_data/phase 1.md"],
     2: ["training_data/phase 2.md"],
     3: ["training_data/phase 3.md", "training_data/phase_3_ext.md"],
@@ -67,6 +71,7 @@ PHASE_FILES: dict[int, list[str]] = {
 
 # Default hypers per phase (can be overridden with CLI flags)
 PHASE_DEFAULTS: dict[int, dict] = {
+    0: {"epochs": 5, "lr": 1e-3},   # full corpus run — override after first results
     1: {"epochs": 40, "lr": 1e-3},
     2: {"epochs": 30, "lr": 5e-4},
     3: {"epochs": 30, "lr": 5e-4},
@@ -193,9 +198,17 @@ def estimate_windows_and_batches(
     return num_windows, n_batches
 
 
-def make_batches(data: bytes, block_size: int, batch_size: int, device: torch.device):
-    """Yield (x, y) tensors from raw byte data indefinitely (one epoch pass)."""
-    ids = torch.tensor(list(data), dtype=torch.long)
+def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, device: torch.device):
+    """Yield (x, y) tensors from raw byte data indefinitely (one epoch pass).
+
+    Accepts either raw bytes (converted once per call) or a pre-computed Long tensor.
+    Pass a pre-converted tensor to avoid the expensive bytes→list→tensor conversion
+    on every epoch.
+    """
+    if isinstance(data, torch.Tensor):
+        ids = data
+    else:
+        ids = torch.frombuffer(bytearray(data), dtype=torch.uint8).long()
     n_tokens = len(ids) - 1  # need at least one next-token
     _, n_batches = estimate_windows_and_batches(n_tokens, block_size, batch_size)
 
@@ -312,11 +325,9 @@ def set_reproducibility(seed: int) -> None:
     torch.manual_seed(seed)
     if torch.cuda.is_available():
         torch.cuda.manual_seed_all(seed)
-
-    # Prefer reproducibility over peak speed so repeated runs are comparable.
-    torch.backends.cudnn.deterministic = True
-    torch.backends.cudnn.benchmark = False
-    torch.use_deterministic_algorithms(True)
+    # Note: torch.use_deterministic_algorithms(True) is intentionally omitted —
+    # it forces slow CUDA fallbacks that make training unacceptably slow on this
+    # architecture. Seeding is sufficient for reproducible experiments.
 
 
 # ---------------------------------------------------------------------------
@@ -383,6 +394,8 @@ def train(
     prompt_tail_bytes: int,
     prompt_loss_weight: float,
     device: torch.device,
+    corpus_file: Path | None = None,
+    epoch_checkpoints: bool = False,
 ) -> None:
     print(f"\n{'='*60}")
     print(f"  BDH Phase {phase} Training")
@@ -401,7 +414,10 @@ def train(
         num_windows = len(examples)
         steps_per_epoch = estimate_jsonl_batches(len(examples), batch_size)
     else:
-        paths = PHASE_FILES[phase]
+        if corpus_file is not None:
+            paths = [str(corpus_file)]
+        else:
+            paths = PHASE_FILES[phase]
         print(f"  Data files: {paths}")
         data = load_text(paths)
         print(f"  Total bytes: {len(data):,}")
@@ -411,6 +427,11 @@ def train(
             block_size=block_size,
             batch_size=batch_size,
         )
+        # Pre-convert corpus bytes to a Long tensor once — avoids repeating
+        # the expensive bytes→bytearray→tensor conversion on every epoch.
+        print("  Pre-loading corpus tensor...", flush=True)
+        data = torch.frombuffer(bytearray(data), dtype=torch.uint8).long()
+        print(f"  Corpus tensor: {data.shape[0]:,} tokens", flush=True)
     updates_per_epoch = (steps_per_epoch + grad_accum_steps - 1) // grad_accum_steps
     total_updates = epochs * updates_per_epoch
 
@@ -582,6 +603,11 @@ def train(
             best_loss = avg_loss
             save_checkpoint(output, model, config, phase, epoch, avg_loss)
 
+        if epoch_checkpoints:
+            epoch_path = output.with_name(f"{output.stem}_e{epoch}{output.suffix}")
+            save_checkpoint(epoch_path, model, config, phase, epoch, avg_loss)
+            print(f"  Epoch checkpoint: {epoch_path}")
+
     print(f"\n  Best loss: {best_loss:.4f}")
     print(f"  Checkpoint saved: {output}")
     print()
@@ -624,8 +650,8 @@ def main() -> None:
     check_training_audit()
 
     parser = argparse.ArgumentParser(description="BDH curriculum trainer")
-    parser.add_argument("--phase", type=int, required=True, choices=[1, 2, 3, 4, 5],
-                        help="Training phase (1–5)")
+    parser.add_argument("--phase", type=int, default=0, choices=[0, 1, 2, 3, 4, 5],
+                        help="Training phase (0=full corpus run, 1–5=legacy phases; default: 0)")
     parser.add_argument("--resume", type=Path, default=None,
                         help="Checkpoint to load before training (for phases 2+)")
     parser.add_argument("--output", type=Path, default=None,
@@ -666,6 +692,12 @@ def main() -> None:
                         help="Use larger model config (~100M params)")
     parser.add_argument("--scale-150m", action="store_true",
                         help="Use per-layer 6x model config (~150M params)")
+    parser.add_argument("--corpus-file", type=Path, default=None,
+                        help="Pre-assembled corpus text file (overrides PHASE_FILES lookup; "
+                             "use with --phase 0 for a full corpus run)")
+    parser.add_argument("--epoch-checkpoints", action="store_true",
+                        help="Save a checkpoint after every epoch (named <output>_e<N>.pt) "
+                             "in addition to the best-loss checkpoint")
     parser.add_argument("--device", type=str, default=None,
                         help="Device: cpu / cuda / mps (auto-detected if omitted)")
     args = parser.parse_args()
@@ -679,6 +711,10 @@ def main() -> None:
         parser.error("--log-interval must be > 0.")
     if args.grad_accum_steps <= 0:
         parser.error("--grad-accum-steps must be > 0.")
+    if args.phase == 0 and args.corpus_file is None and args.jsonl_data is None:
+        parser.error("--phase 0 requires --corpus-file (or --jsonl-data) to specify training data.")
+    if args.corpus_file is not None and not args.corpus_file.exists():
+        parser.error(f"--corpus-file not found: {args.corpus_file}")
     if args.phase >= 2 and args.resume is None and not args.allow_fresh_start:
         parser.error(
             f"Phase {args.phase} requires --resume <checkpoint> to continue from prior phase. "
@@ -696,7 +732,7 @@ def main() -> None:
         parser.error("--eot-byte must be in [0, 255].")
     if args.prompt_tail_bytes < 0:
         parser.error("--prompt-tail-bytes must be >= 0.")
-    if args.prompt_tail_bytes >= args.block_size:
+    if args.jsonl_data is not None and args.prompt_tail_bytes >= args.block_size:
         parser.error("--prompt-tail-bytes must be < --block-size.")
     if args.prompt_loss_weight < 0.0:
         parser.error("--prompt-loss-weight must be >= 0.")
@@ -742,6 +778,8 @@ def main() -> None:
         prompt_tail_bytes=args.prompt_tail_bytes,
         prompt_loss_weight=args.prompt_loss_weight,
         device=device,
+        corpus_file=args.corpus_file,
+        epoch_checkpoints=args.epoch_checkpoints,
     )
 
 

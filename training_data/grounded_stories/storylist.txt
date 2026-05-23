@@ -1,0 +1,245 @@
+# Ninereeds Grounded Stories — Story List
+# Format: STORY / CLUSTER / LOCATION / SEASON / CHARACTERS / KEY WORDS / SEED
+# Characters: E=Emma  T=Taro  G=Gran  B=Biscuit
+# Locations: Oak / Gran's house / Pond / Meadow path / Schoolyard
+# ------------------------------------------------------------------------------
+
+STORY: 01
+CLUSTER: oak tree (autumn)
+LOCATION: The Oak
+SEASON: autumn
+CHARACTERS: E T B
+KEY WORDS: acorn, squirrel, branch, bark, root, leaf, seed, hole, nut, crack, climb, carry, bury, drop
+SEED: Biscuit finds the squirrel's hole at the base of the oak. Taro climbs the low branch. An acorn drops. Emma picks it up — it fits in her palm, small and round and brown, with a rough cap.
+
+STORY: 02
+CLUSTER: autumn leaves
+LOCATION: The Oak + Gran's field
+SEASON: late autumn
+CHARACTERS: E T G
+KEY WORDS: leaf, red, yellow, brown, rake, pile, crunch, sweep, fall, wind, acorn, branch, bare
+SEED: Gran is raking. The children jump in the pile. The oak is almost bare. One last leaf lets go and spins down.
+
+STORY: 03
+CLUSTER: oak in snow
+LOCATION: The Oak
+SEASON: winter
+CHARACTERS: E T B
+KEY WORDS: snow, bare, branch, frost, tracks, cold, hole, search, buried, white, quiet, footprint
+SEED: Fresh snow. The squirrel tracks lead to the oak and stop at the hole. Biscuit circles the roots, sniffing. The low branch has a ridge of snow along its top.
+
+STORY: 04
+CLUSTER: bird's nest
+LOCATION: The Oak (upper fork)
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: nest, egg, twig, feather, beak, hatch, feed, worm, chirp, branch, careful, high
+SEED: Gran points out the nest in the oak's upper fork — too high to reach but close enough to see. Three pale blue eggs. Later in the week, there is sound from it.
+
+STORY: 05
+CLUSTER: rainy day
+LOCATION: Meadow path + The Oak (shelter)
+SEASON: any
+CHARACTERS: E T B
+KEY WORDS: rain, puddle, mud, drip, splash, cloud, storm, umbrella, boot, soak, stream, shelter, run
+SEED: The rain starts before they reach the oak. They run for it. Biscuit does not run — he puts his nose up and lets the rain hit his face. By the time they reach the tree they are already wet.
+
+STORY: 06
+CLUSTER: garden (morning)
+LOCATION: Gran's garden
+SEASON: spring/summer
+CHARACTERS: E G B
+KEY WORDS: soil, seed, plant, water, dig, trowel, row, press, cover, dew, slug, worm, smell, earth
+SEED: Gran is planting seeds before it gets hot. Emma is given a row to do herself. The soil is dark and cool and smells of something deep. Biscuit keeps digging in the wrong place.
+
+STORY: 07
+CLUSTER: garden (in bloom)
+LOCATION: Gran's garden
+SEASON: summer
+CHARACTERS: E T G B
+KEY WORDS: flower, bee, bloom, petal, stem, butterfly, smell, colour, warm, hover, land, buzz
+SEED: The garden is loud with bees. A butterfly lands on Taro's arm and stays. Gran deadheads the roses — pulls the brown ones off and drops them in her apron pocket.
+
+STORY: 08
+CLUSTER: apple orchard
+LOCATION: Gran's garden (apple tree)
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: apple, ripe, red, branch, twist, twist off, thud, basket, core, seed, ladder, reach, weight
+SEED: The apple tree is heavy — branches bent with fruit. Gran holds the ladder. Taro reaches for the highest ones. Emma picks up the windfalls from the ground.
+
+STORY: 09
+CLUSTER: kitchen cooking
+LOCATION: Gran's kitchen
+SEASON: autumn/winter
+CHARACTERS: E G
+KEY WORDS: pot, onion, garlic, soup, boil, stir, chop, steam, ladle, bowl, taste, salt, smell, hot, wooden spoon
+SEED: Gran is making soup. Emma stands on a chair to reach the counter and is given the wooden spoon. The onions make her eyes water. Gran tastes it, adds something, tells her to stir again.
+
+STORY: 10
+CLUSTER: baking
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: flour, butter, sugar, egg, bowl, mix, knead, dough, oven, warm, smell, pull out, cool, taste, cookie
+SEED: The kitchen smells of warm butter. Taro is in charge of mixing. Emma shapes the cookies — some round, some not. They wait by the oven. Gran tells them to stop opening it.
+
+STORY: 11
+CLUSTER: morning routine
+LOCATION: Gran's house
+SEASON: any
+CHARACTERS: E T
+KEY WORDS: wake, yawn, stretch, cold floor, wash, towel, mirror, dress, breakfast, stairs, light, early
+SEED: The floor is cold. Emma can hear Gran already in the kitchen. Taro is still in bed. She pulls on her socks standing up, one foot at a time, and goes downstairs.
+
+STORY: 12
+CLUSTER: getting dressed (outdoor)
+LOCATION: Gran's house (doorway)
+SEASON: winter/autumn
+CHARACTERS: E T G
+KEY WORDS: coat, sock, boot, button, zip, sleeve, pocket, scarf, glove, muddy, wet, peel off, hang up
+SEED: Gran at the door with coats. Taro can't find his left glove. Emma's boot zipper is stuck. They get out eventually. When they come back they are muddy from the knees down.
+
+STORY: 13
+CLUSTER: bedtime
+LOCATION: Gran's house (bedroom)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: lamp, blanket, pillow, yawn, moon, shadow, whisper, dark, quiet, sleepy, curl up, close, dim
+SEED: The lamp is low. The moon is through the curtain gap. Gran whispers something Emma can't quite hear before she goes. Emma listens to the house settle.
+
+STORY: 14
+CLUSTER: rainy window
+LOCATION: Gran's house (sitting room)
+SEASON: autumn/winter
+CHARACTERS: E T G
+KEY WORDS: window, rain, drop, trace, glass, curtain, reflection, inside, cosy, tea, book, outside, grey
+SEED: Taro traces the path of a raindrop with his finger, following it down the glass. Gran is reading. The garden outside is blurred and grey.
+
+STORY: 15
+CLUSTER: winter evening
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: fire, log, flame, candle, warmth, crackle, ash, ember, shadow, glow, fade, lap, quiet, dark
+SEED: The fire has been going all day. The logs are nearly ash. Gran puts one more on before bed. The shadow of the flame moves on the ceiling.
+
+STORY: 16
+CLUSTER: pond life
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: E T B
+KEY WORDS: frog, lily, ripple, duck, dragonfly, reed, mud, splash, wade, catch, reflection, still, water, flat stone
+SEED: The pond is still enough to see the sky in it. A frog drops from a lily pad before Emma can get close. Biscuit wades in up to his belly and stands there looking pleased.
+
+STORY: 17
+CLUSTER: fishing
+LOCATION: The Pond
+SEASON: summer/autumn
+CHARACTERS: T G
+KEY WORDS: rod, hook, line, bait, worm, cast, wait, tug, pull, catch, release, bank, bucket, patience, ripple
+SEED: Gran shows Taro how to cast. They wait a long time. When something finally pulls, Taro stands up too fast and nearly falls in.
+
+STORY: 18
+CLUSTER: meadow / butterfly
+LOCATION: Meadow path
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: grass, butterfly, flower, dandelion, nectar, wing, float, land, blow, seed, caterpillar, meadow, warm
+SEED: They are supposed to be going to the pond. They get distracted. Emma blows a dandelion clock. Taro finds a caterpillar on a leaf and carries it very carefully to a better plant.
+
+STORY: 19
+CLUSTER: dog walk
+LOCATION: Meadow path
+SEASON: any
+CHARACTERS: T B
+KEY WORDS: lead, sniff, pull, stick, fetch, bark, roll, puddle, pant, bound, ahead, back, ahead, run
+SEED: Biscuit finds a smell under a hedge and will not leave it. Taro waits. Then Biscuit spots something and runs and the lead goes taut and Taro runs too whether he means to or not.
+
+STORY: 20
+CLUSTER: body and touch
+LOCATION: Meadow path (fall and examination)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: hand, finger, palm, knee, elbow, scratch, scrape, mud, sting, cold water, feel, hold, press
+SEED: Taro falls on the path — palms and one knee. Emma looks at it seriously. They find the stream and he holds his hands in the cold water.
+
+STORY: 21
+CLUSTER: playground
+LOCATION: Schoolyard
+SEASON: spring/summer
+CHARACTERS: E T
+KEY WORDS: swing, push, high, jump off, slide, rope, climb, fall, scratch, laugh, sand, bench, chase, catch
+SEED: Emma jumps off the swing at the highest point — lands badly but gets up. Taro watches from the top of the climbing frame. Neither will admit they were scared.
+
+STORY: 22
+CLUSTER: schoolyard (social)
+LOCATION: Schoolyard
+SEASON: any
+CHARACTERS: E T
+KEY WORDS: bag, bench, gate, bell, line, share, borrow, drop, pick up, pocket, lend, forget, find
+SEED: Emma drops her pencil through the grate. Taro has a spare. She will give it back. The bell goes before they can sort it out properly.
+
+STORY: 23
+CLUSTER: picnic
+LOCATION: Meadow (by the pond)
+SEASON: summer
+CHARACTERS: E T G B
+KEY WORDS: basket, blanket, bread, cheese, berry, bottle, cup, ant, crumb, spill, unpack, spread, pour, pack
+SEED: Gran unpacks the basket. An ant finds the cheese before anyone does. Biscuit sits so close and so hopefully that Gran gives him the end of the bread.
+
+STORY: 24
+CLUSTER: birthday
+LOCATION: Gran's house (kitchen + garden)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: cake, candle, blow, wish, gift, ribbon, wrap, open, surprise, clap, song, icing, count
+SEED: Eight candles. Taro counts them to make sure. Emma blows and one stays lit. Gran says you have to try again. Emma wishes the same wish both times.
+
+STORY: 25
+CLUSTER: camping
+LOCATION: Gran's field (overnight)
+SEASON: summer
+CHARACTERS: E T G B
+KEY WORDS: tent, peg, mallet, pole, lantern, star, fire, log, roast, dark, shadow, night sound, damp, morning
+SEED: The tent goes up crooked. Gran does not fix it. In the dark, sounds from the field are louder than they are in the day — rustling, something moving through grass. Biscuit sleeps across the door.
+
+STORY: 26
+CLUSTER: farm animals (neighbour's farm)
+LOCATION: Field + farm edge (near meadow path)
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: sheep, lamb, wool, fence, hay, gate, feed, smell, low, warm, breath, pen, bucket, barn
+SEED: The lambs were born last week. Gran knows the farmer. They are let in through the gate. The lambs are smaller than Biscuit and have the same uncertain legs.
+
+STORY: 27
+CLUSTER: farm field (harvest)
+LOCATION: Field beside The Oak
+SEASON: late summer
+CHARACTERS: E T G
+KEY WORDS: wheat, ripe, tall, cut, fall, bundle, carry, field, dusty, chaff, warm, scratch, heavy, barn
+SEED: The field is being cut. The children stand at the edge and watch. Gran explains that by the time the cutter reaches the middle, all the animals that were hiding in the wheat will have to run.
+
+STORY: 28
+CLUSTER: building / making
+LOCATION: Gran's garden shed
+SEASON: any
+CHARACTERS: T G
+KEY WORDS: plank, nail, hammer, saw, measure, mark, hold still, wobble, bang thumb, fix, straight, try again
+SEED: Taro is building a small shelf for his room — or trying to. Gran hands him things when he needs them and does not take over. It wobbles. She shows him the problem. He fixes it.
+
+STORY: 29
+CLUSTER: snowy day
+LOCATION: Gran's field + The Oak
+SEASON: winter
+CHARACTERS: E T B G
+KEY WORDS: snow, boot, thick, sink, cold, sled, hill, fast, fall, pack, throw, red cheeks, breath, melt, drip
+SEED: The hill behind the field is steep enough to sled. One run each, then they have to carry the sled back up. Biscuit runs alongside and barks at the sled the whole way down.
+
+STORY: 30
+CLUSTER: mountain / hill (day trip)
+LOCATION: The hill above the valley (day trip, visible from The Oak)
+SEASON: late summer
+CHARACTERS: E T G B
+KEY WORDS: trail, climb, rock, loose, careful, rest, high, view, wind, valley, far, small, tired, down
+SEED: From the top they can see Gran's cottage. It is very small. Emma finds the oak tree — a dark shape in the patchwork of fields. Taro is already starting down.

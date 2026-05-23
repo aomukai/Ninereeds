@@ -4,12 +4,25 @@
 
 This repository has two closely related goals:
 
-1. **build the model itself** — a dragon-scale language model we are giving the proper name **Ninereeds**
+1. **build the model itself** — a Developmental Learner Model (DLM) we are giving the proper name **Ninereeds**
 2. **build the future OS around that model** — the BDH Cognitive OS runtime, LoRA harness, artifact system, and offline learning workflow that will come after the model is ready for it
 
-Right now, the center of gravity is the **model and the data**: training corpus design, curriculum writing, wiki expansion, bridge material, and the groundwork needed to train Ninereeds from scratch into something coherent and teachable.
+Right now, the center of gravity is the **active training loop**: the corpus is complete and Ninereeds is being trained and evaluated run by run, with per-epoch probes and shaped-score tracking driving each intervention decision.
 
 The OS/harness side is still important, but it is **not the current priority**. The long-term plan is to give Ninereeds a modular runtime with explicit routing, artifact logging, LoRA-based specialization, and offline consolidation. The near-term job is to make sure there is a real model worth building that system around.
+
+## What Kind of Model Is This
+
+Ninereeds is a **Developmental Learner Model (DLM)** — not a large language model.
+
+The distinction matters:
+- "Large" does not apply — Ninereeds is ~25M parameters. There is no error averaging from scale. Every malformed training file has outsized impact.
+- "Language" is not the defining point — the goal is not broad linguistic coverage but a coherent, well-grounded knowledge structure built through a staged curriculum. The learning behaviour more closely resembles a student working through a structured course than a model trained on web-scale text.
+- "Developmental" is the key word — Ninereeds is trained in phases, with curriculum sequencing, paraphrase pressure, and retrieval-frame sensitivity that mirror second-language acquisition patterns in human learners. Understanding a concept and reliably producing it under retrieval pressure are treated as distinct stages.
+
+The DLM framing shapes every design decision: curriculum ordering, drill sequencing, the 4-phase paraphrase arc, and why shaped score (shaper-routed inference) is the primary metric rather than raw perplexity.
+
+---
 
 ## The Name
 
@@ -54,13 +67,16 @@ That system matters, but it comes **after** the model is sufficiently real to ju
 ## Current Project State
 
 At the moment, the repository is best understood as:
-- **active model-and-corpus construction**, plus
+- **active training loop** — corpus complete, multiple runs evaluated, run 6 in progress
 - **early runtime / harness scaffolding for later stages**
 
 Concretely:
-- `bdh.py` and `core/` preserve the upstream BDH architecture/checkpoint artifacts and are treated as read-only ground truth here
-- `training_data/` is the most actively evolving part of the repo
-- the wiki, bridge, and story documents are being used to shape the actual educational/training pathway for Ninereeds
+- `bdh.py` and `core/` preserve the upstream BDH architecture/checkpoint artifacts; `core/` also receives epoch checkpoints during active training runs
+- `checkpoints/` holds the promoted best-of-run checkpoints (the lineage that matters)
+- `training_data/` is the completed corpus — no longer the primary area of active change
+- `training/logs/` is now the most actively evolving part of the repo: per-epoch probe results, eval scores, run reports
+- `docs/training.md` is the current authority — it contains the training harness design, intervention registry, and step-by-step manual
+- `todo.md` tracks the active training queue and checkpoint lineage
 - runtime files like `harness.py`, `inference.py`, `prompt_shaper.py`, and `eval.py` represent the OS-side direction, but the repo should not be read as "mainly a harness project"
 
 ## Repository Map
@@ -68,15 +84,17 @@ Concretely:
 ```text
 AGENTS.md                  implementation contract for coding agents
 README.md                  repository overview
-todo.md                    single source of unfinished work
-history.md                 completed work log
+todo.md                    active training queue and checkpoint lineage
+docs/training.md           training authority: harness design + step-by-step manual
 archive/                   archived legacy queues/status docs
 bdh.py                     upstream BDH architecture reference (read-only)
-core/                      upstream checkpoint/model assets (read-only)
+core/                      upstream checkpoint assets + active epoch checkpoints
+checkpoints/               promoted best-of-run checkpoints (the lineage)
 docs/                      design and planning documents
-training_data/             curriculum, wiki, bridge, and story corpora
-training/                  training-harness planning/docs
-workflow/                  automation helpers and repo workflows
+inventory/                 allowlist.txt and word/concept lists
+meta/scripts/              batch runners, generators, verifiers
+training_data/             completed corpus: phases, wiki, lang, stories, reasoning
+training/logs/             run reports and training logs (primary active area)
 harness.py                 early runtime entry point / scaffold
 inference.py               BDH loading and generation wrapper
 prompt_shaper.py           prompt shaping layer
@@ -85,69 +103,29 @@ train.py                   training entry point
 loras/                     future skill/dream adapter area
 ```
 
-## The Data Stack
+## The Corpus (complete)
 
-### Phase 1–5 curriculum
+The training corpus lives under `training_data/`. The foundational corpus is complete; current additions focus on targeted grounding, reasoning drills, and intervention-driven refinement. It is not the primary area of active work, but understanding it helps understand what Ninereeds has been trained on.
 
-Located under:
-- `training_data/phases/`
+### Foundation curriculum — `training_data/phases/`
 
-This is the early foundation layer: tightly controlled, concrete, dependency-shaped language learning material.
+Six phases of tightly controlled `[user]`/`[Ninereeds]` dialogue files: concrete nouns, abstract adjectives, gerunds, bridge words, and more. Dependency-ordered so each concept builds on previously introduced vocabulary.
 
-Key companion files include:
-- `training_data/phases/training_sequence.txt`
-- `training_data/phases/concept_index.md`
-- `training_data/phases/dependency_graph.json`
-- `training_data/phases/missing_curriculum_terms.md`
+### Language curriculum — `training_data/lang/`
 
-### Wiki corpus
+Five levels covering multilingual word files (EN/DE/JP/ZH), semantic frames, dative/genitive constructions, spatial structures, and Q&A pairs. All five levels complete.
 
-Located under:
-- `training_data/wiki/`
+### Knowledge layer — `training_data/wiki/`
 
-Level-specific wiki layout:
-- `training_data/wiki/wiki_1/` = Level 1 corpus files
-- `training_data/wiki/wiki_2/` = Level 2 article files
-- `training_data/wiki/wiki_3/` = Level 3 article files
-- `training_data/wiki/wiki_4/` = Level 4 article files
+Grouped concept knowledge in question-answer style. Levels 1–4.
 
-The wiki layer teaches grouped concept knowledge in a question-answer style and is being actively expanded, audited, and reorganized for dependency clarity.
+### Story layers — `training_data/triplet_stories/`
 
-Start with:
-- `todo.md`
-- `history.md`
-- `training_data/wiki/wiki_category_backlog.md`
-- `training_data/wiki/wiki_expansion_index.md`
-- `training_data/wiki/wiki_entry_expansion_index.md`
+1345 narrative stories per language (EN/DE/JP/ZH) across four tiers. Teach how things act and relate in context. Interleaved with the phase corpus during training.
 
-Design notes:
-- `docs/wiki.md`
+### Reasoning — `training_data/reasoning/`
 
-### Phase 6 bridge
-
-Located under:
-- `training_data/phases/phase_6/`
-
-This is the connective layer between the strict early curriculum and later story/dialogue material. It introduces more abstract scaffold words and proposition-like forms in a controlled sequence.
-
-Start with:
-- `training_data/phases/phase_6/README.md`
-- `training_data/phases/phase_6/phase_6_spec.md`
-- `training_data/phases/phase_6/phase_6_manifest.md`
-- `training_data/phases/phase_6/story_dialogue_progression.md`
-
-### Story layers
-
-Located under:
-- `training_data/triplet_stories/`
-
-These files are meant to follow the wiki/bridge rather than replace them. The goal is staged contextualization, not early collapse into free-form prose.
-
-Start with:
-- `training_data/triplet_stories/story_tier_specs.md`
-- `training_data/triplet_stories/tier_1/`
-- `training_data/triplet_stories/review_notes.md`
-- `todo.md`
+27 EN reasoning and arithmetic files × 4 languages (EN/DE/JP/ZH). Currently subject to active experimentation via `oversample_cluster` intervention (see `docs/training.md`).
 
 ## OS / Harness Direction
 
@@ -182,27 +160,26 @@ The fuller agent-facing contract is in [AGENTS.md](AGENTS.md).
 
 If you are trying to understand the repo quickly, start here:
 
-1. `README.md`
-2. `AGENTS.md`
-3. `todo.md`
-4. `history.md`
-5. `docs/bdh_cognitive_os_design.md`
-6. `docs/wiki.md`
-7. `training_data/phases/phase_6/phase_6_spec.md`
-8. `training_data/triplet_stories/story_tier_specs.md`
+1. `README.md` — this file
+2. `docs/training.md` — training authority: harness design, intervention registry, manual
+3. `todo.md` — active run queue and checkpoint lineage
+4. `training/logs/run_6_report.md` — most recent run (in progress)
+5. `AGENTS.md` — implementation contract for coding agents
+6. `docs/bdh_cognitive_os_design.md` — long-term OS/harness direction
 
-## Training / Runtime Scripts Present In Repo
+## Active Training Scripts
 
-These files exist, but should be interpreted in context:
-- `train.py`
-- `harness.py`
-- `inference.py`
-- `prompt_shaper.py`
-- `eval.py`
-- `run_curriculum.sh`
-- `run_wiki_level2_foundation.sh`
+These are the primary tools in the current training loop:
 
-They show the repo's runtime/training direction, but they are not the whole story. The corpus and planning work under `training_data/` is just as central.
+| Script | Role |
+|---|---|
+| `train.py` | Training entry point — runs epochs, saves per-epoch checkpoints |
+| `eval.py` | Shaped-score evaluation — primary metric for checkpoint selection |
+| `meta/scripts/probe.py` | 12-probe format diagnostic — run after every epoch |
+| `inference.py` | BDH loading and generation wrapper |
+| `prompt_shaper.py` | Prompt routing layer — drives the shaped score |
+
+The full procedure is in `docs/training.md`. The active run and checkpoint lineage are in `todo.md`.
 
 ## Attribution
 
@@ -211,7 +188,7 @@ The upstream **BDH** architecture and the core implementation in `bdh.py` come f
 - Paper: <https://arxiv.org/abs/2509.26507>
 - Repository: <https://github.com/pathwaycom/bdh>
 
-This repository builds a broader project around that base: curriculum creation, wiki growth, bridge/story planning, and the eventual OS/harness intended to support Ninereeds.
+This repository builds a broader project around that base: curriculum creation, active training runs with per-epoch evaluation, and the eventual OS/harness intended to support Ninereeds.
 
 **Ninereeds is a name inspired by Terry Pratchett’s Discworld. This project is not affiliated with or endorsed by the Pratchett estate.**
 

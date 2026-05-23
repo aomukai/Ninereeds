@@ -7,10 +7,21 @@ Ninereeds is a small Hebbian-trained AI. It trains on a hand-crafted corpus of s
 averaging from scale — every malformed training file has outsized impact. Quality gates
 are more important here than in a typical project.
 
+## Session startup
+
+Before doing anything else:
+1. Read `docs/training.md`, `todo.md`, and the latest `training/logs/run_N_report.md` (whichever run is IN PROGRESS in todo.md).
+2. Run Step 0 from `docs/training.md` to detect whether training is already running. **Do not launch a duplicate run.**
+3. Current training authority: `docs/training.md`. Current active queue: `todo.md`.
+
+The corpus-generation tools below are secondary. Use them only if the task is explicitly corpus generation, not a training run.
+
 ## Dispatch policy
 
-**Claude handles:** planning, routing, verification, small targeted edits.
+**Claude handles:** planning, routing, verification, small targeted edits, **and training/eval loops when directed by todo.md**.
 **DeepSeek handles:** bulk file I/O — rewriting, repairing, generating corpus files.
+
+Running `train.py`, `eval.py`, and `meta/scripts/probe.py` is legitimate direct action for Claude. These are not bulk corpus work — they are the training loop described in `docs/training.md`.
 
 Do not use Claude tokens for corpus file work. Write a prompt, send it to DeepSeek,
 read the result back, verify it, record progress. That is the full loop.
@@ -53,7 +64,20 @@ training_data/    ← corpus: phases, wiki, philosophy, reasoning, stories, lang
 Root entry points (do not move): `bdh.py`, `train.py`, `inference.py`, `eval.py`,
 `harness.py`, `prompt_shaper.py`.
 
-## Tool index
+## Current research workflow
+
+The project is in an active training cycle. The primary task is:
+
+1. Check `todo.md` for the current run and its status.
+2. Follow `docs/training.md` step by step.
+3. For each epoch: run `probe.py` and `eval.py`, fill in the report, decide the next intervention.
+4. Update `todo.md` when a run completes and the next one is chosen.
+
+Training commands live in `docs/training.md`. Corpus build commands use `meta/scripts/build_training_corpus.py`. Eval uses `eval.py` and `meta/scripts/probe.py`. These are all direct actions — no DeepSeek needed.
+
+## Legacy corpus-generation tooling
+
+The tools below are for corpus expansion (generating new lang files, triplet stories, phase repairs, etc.). They are not part of the active training loop. Use them only if the task is explicitly corpus generation.
 
 ### Cross-platform (direct API — use these on Windows or Linux)
 

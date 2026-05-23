@@ -1,9 +1,7 @@
 {
-  "training_enabled": false,
-  "blockers": [
-    "corpus_v1_0_not_complete"
-  ],
-  "status": "idle_prebuild",
+  "training_enabled": true,
+  "blockers": [],
+  "status": "ready_to_train",
   "goal_state": {
     "chatting_model": true,
     "broad_knowledge_over_depth": true,

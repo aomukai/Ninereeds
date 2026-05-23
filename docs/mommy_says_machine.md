@@ -24,10 +24,20 @@ correction pairs for use in a subsequent clean training run.
 
 ## 2. Core Principle
 
-> The dragon is tested, not trained.
+> Corrections are validated before they become training data.
 > The checkpoint is always reloaded clean before each run.
-> Learning happens offline, in a controlled training pass,
-> not inside the machine.
+> Nothing is written to weights without a retention check.
+
+The machine operates in two modes:
+
+**Diagnostic mode** (original): The machine produces evidence only. Correction pairs are
+written to `correction_pairs.jsonl` for human review. Training happens separately, offline,
+after a human decides what to use.
+
+**Closed-loop mode** (L1-I): Correction pairs are used immediately in a short training pass.
+The retention probe (`probe.py`) determines whether the correction held. If the probe
+confirms retention, the patched checkpoint is promoted. If not, the patch is discarded.
+Learning happens inside the machine — but only when the retention probe validates it.
 
 ---
 
@@ -405,7 +415,32 @@ A human decides what training to do next.
 
 ---
 
-## 16. Future Extensions
+## 16. Closed-Loop Training Use (L1-I)
+
+Section 15 describes the original diagnostic-only design. The machine can also be used
+as a minimally invasive training intervention (L1-I `msm_correction` in `docs/training.md`).
+
+In closed-loop mode:
+- Pass 2 correction pairs (`correction_pairs.jsonl`) are used as training data directly.
+- A short 1-epoch pass is run on those pairs against the current best checkpoint.
+- `probe.py` is run on the patched checkpoint to test retention.
+- If the target probe is now correct: patch is promoted to `checkpoints/runN_eK_msm.pt`.
+- If not retained: patch is discarded.
+
+This mode targets a narrow, identifiable failure (a specific grammatical error, a wrong
+answer in a consistent probe category) rather than broad curriculum improvement.
+The correction set is small (10–30 pairs); larger sets risk overfitting the correction.
+
+The distinction from the original design: the machine still *produces evidence* (the
+correction pairs), but the training step is taken immediately rather than deferred.
+Human oversight is replaced by the retention probe — if the probe doesn't confirm
+retention, the patch is not promoted.
+
+See `docs/training.md` — Layer 1, L1-I protocol for the full workflow.
+
+---
+
+## 17. Future Extensions
 
 - Automated dependency-ordered concept traversal
 - Per-concept difficulty scoring based on run history
