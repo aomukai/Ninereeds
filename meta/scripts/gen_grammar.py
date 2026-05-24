@@ -70,7 +70,7 @@ def make_mit_specs() -> list[FileSpec]:
         ("basket", "mit dem Korb", "で", "carry apples, carry bread, carry books", "apple, bread, book"),
         ("bucket", "mit dem Eimer", "で", "carry apples, carry bread, carry books", "apple, bread, book"),
         ("ball", "mit dem Ball", "で", "play with the ball, play together with the ball, play quietly with the ball", "ball"),
-        ("book", "mit dem Buch", "で", "read, learn, show the book", "book"),
+        ("book", "mit dem Buch", "で", "read with the book, learn with the book", "book"),
         ("blanket", "mit der Decke", "で", "cover the bed, cover the child, keep warm", "bed, child"),
     ]
     vehicles = [
@@ -289,6 +289,10 @@ def validate(text: str, spec: FileSpec) -> list[str]:
         errors.append("wagon files must not introduce horses")
     if "_instrument_ball" in spec.path and re.search(r"throws? with the ball|rolls? with the ball|wirft mit dem Ball|rollt mit dem Ball", text, re.I):
         errors.append("ball files should use play-with-ball patterns, not throw/roll-with-ball")
+    if "_instrument_book" in spec.path and re.search(r"shows? with the book|zeigt mit dem Buch", text, re.I):
+        errors.append("book files should use read/learn patterns, not show-with-book")
+    if "_vehicle_airplane" in spec.path and re.search(r"\bfährt mit dem Flugzeug\b", text, re.I):
+        errors.append("airplane files should use fliegt mit dem Flugzeug")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
