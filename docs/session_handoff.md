@@ -176,8 +176,8 @@ Plan agreed with user:
 
 1. `mit` is complete at 100 files.
 2. `bei` is complete at 100 clean files, `101` through `200`.
-3. `aus` now has 25 clean files at `201` through `225`.
-4. Next work for `aus` should continue with the remaining 5 continuation
+3. `aus` now has 40 clean files at `201` through `240`.
+4. Next work for `aus` should continue with the remaining 4 continuation
    batches of 15 after this checkpoint.
 3. After each 15-file batch:
    - run automated checks
