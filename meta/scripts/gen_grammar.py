@@ -323,6 +323,78 @@ def make_von_audit_specs() -> list[FileSpec]:
     ]
 
 
+def make_zu_audit_specs() -> list[FileSpec]:
+    """Initial audit batch for `zu` as movement toward a person, institution, or object."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        ("401_zu_doctor_person.md", "zu as direction toward the doctor as a person destination", ("to", "zu dem Arzt", "doctor"), "Use zu dem Arzt. Japanese cue: 医者のところへ. Chinese cue: 到醫生那裡. Keep the relation as movement toward a person's location, not static and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum."),
+        ("402_zu_teacher_person.md", "zu as direction toward the teacher as a person destination", ("to", "zu dem Lehrer", "teacher"), "Use zu dem Lehrer. Japanese cue: 先生のところへ. Chinese cue: 到老師那裡. Keep the relation as movement toward a person's location, not static and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum."),
+        ("403_zu_child_person.md", "zu as direction toward the child as a person destination", ("to", "zu dem Kind", "child"), "Use zu dem Kind. Japanese cue: 子どものところへ. Chinese cue: 到孩子那裡. Keep the relation as movement toward a person's location, not static and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum."),
+        ("404_zu_boy_person.md", "zu as direction toward the boy as a person destination", ("to", "zu dem Jungen", "boy"), "Use zu dem Jungen. Japanese cue: 男の子のところへ. Chinese cue: 到男孩那裡. Keep the relation as movement toward a person's location, not static and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum."),
+        ("405_zu_school_place.md", "zu as direction toward school as an institution destination", ("to", "zu der Schule", "school"), "Use zu der Schule. Japanese cue: 学校へ. Chinese cue: 到學校. Keep the relation as movement toward an institution destination, not inside and not source. Use movement-toward patterns such as goes to or walks to. Do not use zur. Do not use nach der Schule or in die Schule."),
+        ("406_zu_market_place.md", "zu as direction toward the market as a place destination", ("to", "zu dem Markt", "market"), "Use zu dem Markt. Japanese cue: 市場へ. Chinese cue: 到市場. Keep the relation as movement toward a place destination, not inside and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum. Do not use nach dem Markt or in den Markt."),
+        ("407_zu_park_place.md", "zu as direction toward the park as a place destination", ("to", "zu dem Park", "park"), "Use zu dem Park. Japanese cue: 公園へ. Chinese cue: 到公園. Keep the relation as movement toward a place destination, not inside and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum. Do not use nach dem Park or in den Park."),
+        ("408_zu_house_place.md", "zu as direction toward the house as a place destination", ("to", "zu dem Haus", "house"), "Use zu dem Haus. Japanese cue: 家へ. Chinese cue: 到房子. Keep the relation as movement toward a place destination, not inside and not source. Use movement-toward patterns such as goes to or walks to. Do not use zum. Do not use nach dem Haus, aus dem Haus, or in das Haus."),
+        ("409_zu_door_object.md", "zu as direction toward the door as an object destination", ("to", "zu der Tür", "door"), "Use zu der Tür. Japanese cue: ドアへ. Chinese cue: 到門口. Keep the relation as movement toward an object, not through the door and not static. Use movement-toward patterns such as goes to or walks to. Do not use zur."),
+        ("410_zu_gate_object.md", "zu as direction toward the gate as an object destination", ("to", "zu dem Tor", "gate"), "Use zu dem Tor. Japanese cue: 門へ. Chinese cue: 到大門. Keep the relation as movement toward an object, not through the gate and not static. Use movement-toward patterns such as goes to or walks to. Do not use zum."),
+    ]
+
+    person_destinations = [
+        ("doctor", "zu dem Arzt", "医者のところへ", "到醫生那裡"),
+        ("teacher", "zu dem Lehrer", "先生のところへ", "到老師那裡"),
+        ("child", "zu dem Kind", "子どものところへ", "到孩子那裡"),
+        ("boy", "zu dem Jungen", "男の子のところへ", "到男孩那裡"),
+        ("girl", "zu dem Mädchen", "女の子のところへ", "到女孩那裡"),
+        ("man", "zu dem Mann", "男の人のところへ", "到男人那裡"),
+        ("woman", "zu der Frau", "女の人のところへ", "到女人那裡"),
+    ]
+    place_and_object_destinations = [
+        ("school", "zu der Schule", "学校へ", "到學校"),
+        ("market", "zu dem Markt", "市場へ", "到市場"),
+        ("park", "zu dem Park", "公園へ", "到公園"),
+        ("house", "zu dem Haus", "家へ", "到房子"),
+        ("garden", "zu dem Garten", "庭へ", "到花園"),
+        ("door", "zu der Tür", "ドアへ", "到門口"),
+        ("gate", "zu dem Tor", "門へ", "到大門"),
+        ("window", "zu dem Fenster", "窓へ", "到窗邊"),
+        ("bench", "zu der Bank", "ベンチへ", "到長椅"),
+        ("tree", "zu dem Baum", "木へ", "到樹旁"),
+        ("table", "zu dem Tisch", "テーブルへ", "到桌子"),
+    ]
+
+    next_id = 411
+    while next_id <= 500:
+        kind = (next_id - 411) % 3
+        if kind in (0, 1):
+            noun, dative, jp_cue, zh_cue = person_destinations[((next_id - 411) // 2) % len(person_destinations)]
+            filename = f"{next_id:03d}_zu_{noun}_person.md"
+            rows.append((
+                filename,
+                f"zu as direction toward {noun} as a person destination",
+                ("to", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as movement toward a person's location, not static and not source. Use only movement-toward patterns: goes to, walks to, runs to. Do not use contractions zum or zur. Do not use aus, von, bei, or nach forms.",
+            ))
+        else:
+            noun, dative, jp_cue, zh_cue = place_and_object_destinations[((next_id - 413) // 3) % len(place_and_object_destinations)]
+            filename = f"{next_id:03d}_zu_{noun}_place.md"
+            rows.append((
+                filename,
+                f"zu as direction toward {noun} as a place or object destination",
+                ("to", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as movement toward a place or object, not inside and not source. Use only movement-toward patterns: goes to, walks to, runs to. Do not use contractions zum or zur. Do not use aus, von, bei, nach, or in-accusative forms.",
+            ))
+        next_id += 1
+
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " Keep German dative form visible in every response. Use full forms such as zu dem / zu der, not the contractions zum or zur. Prefer common nouns such as the boy, the woman, the child, the man. Avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
 CLUSTERS: dict[str, list[FileSpec]] = {
     "00_relation": [
         FileSpec(
@@ -354,6 +426,7 @@ CLUSTERS: dict[str, list[FileSpec]] = {
     "01_means_dative_anchor_bei_audit": make_bei_audit_specs(),
     "01_means_dative_anchor_aus_audit": make_aus_audit_specs(),
     "01_means_dative_anchor_von_audit": make_von_audit_specs(),
+    "01_means_dative_anchor_zu_audit": make_zu_audit_specs(),
 }
 
 
@@ -540,6 +613,23 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("von audit files should keep source meaning, not nearby meaning")
         if re.search(r"の中から|の中に", text):
             errors.append("von audit files should use surface or place-of-origin meaning, not interior container meaning")
+    if "_zu_" in spec.path:
+        if re.search(r"\bzum\b|\bzur\b", text, re.I):
+            errors.append("zu audit files should use full forms like zu dem / zu der, not contractions zum or zur")
+        if re.search(r"\bnach dem\b|\bnach der\b|\bnach den\b", text, re.I):
+            errors.append("zu audit files should not drift into nach forms with article")
+        if re.search(r"\bin die\b|\bin das\b|\bin den\b", text, re.I):
+            errors.append("zu audit files should not drift into in-accusative endpoint forms")
+        if re.search(r"\baus dem\b|\baus der\b|\bvon dem\b|\bvon der\b|\bbei dem\b|\bbei der\b", text, re.I):
+            errors.append("zu audit files should not drift into aus/von/bei forms")
+        if re.search(r"\b(is at|sits at|stands at|waits at)\b", text, re.I):
+            errors.append("zu audit files should keep movement-toward meaning, not static location")
+        if re.search(r"\bsteht bei\b|\bsitzt bei\b|\bist bei\b", text, re.I):
+            errors.append("zu audit files should keep movement-toward meaning, not static bei location")
+        if re.search(r"にいる|にある|のそばに", text):
+            errors.append("zu audit files should keep movement-toward meaning in Japanese, not static forms")
+        if re.search(r"[锤长扫车门书话马鸟鱼间园]", text):
+            errors.append("possible Simplified Chinese character found; use Traditional Chinese")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
