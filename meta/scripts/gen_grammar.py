@@ -205,6 +205,45 @@ def make_aus_audit_specs() -> list[FileSpec]:
         ("209_aus_window_source.md", "aus as source out of a window", ("out of", "aus dem Fenster", "window"), "Use aus dem Fenster. Japanese cue: 窓から. Chinese cue: 從窗戶裡. Keep the relation as source from inside/out through an opening, not nearby and not destination. Use only movement-out patterns such as comes out of or climbs out of. Do not use look-out-of patterns in this audit batch."),
         ("210_aus_door_source.md", "aus as source out of a door", ("out of", "aus der Tür", "door"), "Use aus der Tür. Japanese cue: ドアから. Chinese cue: 從門裡. Keep the relation as source out through an opening, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
     ]
+
+    people_sources = [
+        ("house", "aus dem Haus", "家から", "從房子裡", "comes out of, walks out of, runs out of"),
+        ("kitchen", "aus der Küche", "台所から", "從廚房裡", "comes out of, walks out of, runs out of"),
+        ("room", "aus dem Zimmer", "部屋から", "從房間裡", "comes out of, walks out of, runs out of"),
+        ("garden", "aus dem Garten", "庭から", "從花園裡", "comes out of, runs out of"),
+        ("school", "aus der Schule", "学校から", "從學校裡", "comes out of, walks out of"),
+        ("window", "aus dem Fenster", "窓から", "從窗戶裡", "comes out of, climbs out of"),
+        ("door", "aus der Tür", "ドアから", "從門裡", "comes out of, walks out of"),
+    ]
+    object_sources = [
+        ("box", "aus der Kiste", "箱から", "從箱子裡", "apple, ball, book"),
+        ("bag", "aus der Tasche", "かばんから", "從袋子裡", "apple, book, pencil"),
+        ("bucket", "aus dem Eimer", "バケツから", "從水桶裡", "apple, ball, book"),
+    ]
+
+    next_id = 211
+    while next_id <= 300:
+        kind = (next_id - 211) % 3
+        if kind in (0, 1):
+            noun, dative, jp_cue, zh_cue, actions = people_sources[((next_id - 211) // 2) % len(people_sources)]
+            filename = f"{next_id:03d}_aus_{noun}_source.md"
+            rows.append((
+                filename,
+                f"aus as source out of a {noun}",
+                ("out of", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as source from inside or out through an opening, not nearby and not destination. Use only movement-out patterns: {actions}. Do not switch into nearby, destination, or ownership meaning.",
+            ))
+        else:
+            noun, dative, jp_cue, zh_cue, targets = object_sources[((next_id - 213) // 3) % len(object_sources)]
+            filename = f"{next_id:03d}_aus_{noun}_source.md"
+            rows.append((
+                filename,
+                f"aus as source out of a {noun}",
+                ("out of", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as source from inside. Use only concrete take-out patterns such as takes the apple out of the {noun}. Allowed target nouns: {targets}. Do not add any other target nouns.",
+            ))
+        next_id += 1
+
     return [
         FileSpec(
             path=f"01_means_dative_anchor/{filename}",
