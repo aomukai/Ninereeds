@@ -81,7 +81,7 @@ def make_mit_specs() -> list[FileSpec]:
         ("boat", "mit dem Boot", "by boat", "ボートで", "city, market, park"),
         ("airplane", "mit dem Flugzeug", "by airplane", "飛行機で", "city"),
         ("truck", "mit dem Lastwagen", "by truck", "トラックで", "market, city, school"),
-        ("wagon", "mit dem Wagen", "by wagon", "ワゴンで", "market, park"),
+        ("wagon", "mit dem Wagen", "by wagon", "ワゴンで", "market, park; use wagon as a simple vehicle/cart, never as a horse carriage"),
     ]
 
     next_id = 11
@@ -279,8 +279,14 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("vehicle audit files must use only school/city/market/park destinations")
     if re.search(r"\b(She|He|They|We|she|he|they|we|Sie|Er|sie|er|彼女|彼|她|他|我們|我们)\b", text):
         errors.append("pronoun found in answer/prompt; repeat the name or noun")
+    if re.search(r"その|あの|この|那個|这个|這個", text):
+        errors.append("demonstrative found; repeat the noun without extra pointing words")
     if re.search(r"[锤长扫车门书话马鸟鱼]", text):
         errors.append("possible Simplified Chinese character found; use Traditional Chinese")
+    if "_vehicle_wagon" in spec.path and re.search(r"馬車|马车", text):
+        errors.append("wagon should not become horse carriage")
+    if "_vehicle_wagon" in spec.path and re.search(r"\b(horse|Pferd)\b|馬|马", text, re.I):
+        errors.append("wagon files must not introduce horses")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]

@@ -17,7 +17,7 @@ Design reference: `docs/grammar_plan.md`
 | Directory structure | complete |
 | File naming convention | draft |
 | Generation prompts | in progress |
-| Generated files | `00_relation` complete; `mit` 25/100 generated and audited |
+| Generated files | `00_relation` complete; `mit` 40/100 generated and audited |
 | Validation scripts | in progress |
 | Corpus-builder integration | complete |
 
@@ -110,7 +110,7 @@ Validation focus:
 
 ### 01_means_dative_anchor
 
-Status: `mit` 25/100 generated and audited; remaining dative-anchor prepositions not generated.
+Status: `mit` 40/100 generated and audited; remaining dative-anchor prepositions not generated.
 
 Purpose: build the German dative retrieval pathway with always-dative
 prepositions before ambiguous two-way prepositions.
@@ -387,3 +387,4 @@ Add one line per generated/audited batch:
 |---|---|---:|---|---|---|
 | 2026-05-24 | `00_relation` | 4 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | tag counts + full corpus dry-run pass | Minor manual cleanup for tag spacing, name preservation, and pronoun removal. |
 | 2026-05-24 | `01_means_dative_anchor` / `mit` | 25 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | tag counts + targeted `mit` drift scan + full corpus dry-run pass | First continuation batch exposed off-lexicon instrument targets and Simplified Chinese; generator validation was tightened before accepting the batch. |
+| 2026-05-24 | `01_means_dative_anchor` / `mit` | 40 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `mit` drift scan + spot audit + full corpus dry-run pass | Second continuation batch exposed demonstratives and wagon/horse-carriage drift; generator validation was tightened before accepting the batch. |
