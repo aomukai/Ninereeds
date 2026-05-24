@@ -255,6 +255,74 @@ def make_aus_audit_specs() -> list[FileSpec]:
     ]
 
 
+def make_von_audit_specs() -> list[FileSpec]:
+    """Initial audit batch for `von` as source from a surface or place of departure."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        ("301_von_table_surface.md", "von as source from a table surface", ("from", "von dem Tisch", "table"), "Use von dem Tisch. Japanese cue: テーブルから. Chinese cue: 從桌子上. Keep the relation as source off a surface, not inside a container and not destination. Use movement-off patterns such as falls from or is taken from. Do not use aus dem Tisch."),
+        ("302_von_bench_surface.md", "von as source from a bench surface", ("from", "von der Bank", "bench"), "Use von der Bank. Japanese cue: ベンチから. Chinese cue: 從長椅上. Keep the relation as source off a surface, not inside a container and not destination. Use movement-off patterns such as falls from or is taken from. Do not use aus der Bank."),
+        ("303_von_tree_surface.md", "von as source from a tree", ("from", "von dem Baum", "tree"), "Use von dem Baum. Japanese cue: 木から. Chinese cue: 從樹上. Keep the relation as source from above or off the tree, not inside and not destination. Use movement-off patterns such as falls from or jumps from. Do not use aus dem Baum."),
+        ("304_von_school_source.md", "von as departure from school as place of origin", ("from", "von der Schule", "school"), "Use von der Schule. Japanese cue: 学校から. Chinese cue: 從學校. Keep the relation as departure from a place of origin, not inside a container and not destination. Use simple departure or return patterns such as comes from or walks from. Do not use aus der Schule."),
+        ("305_von_market_source.md", "von as departure from the market as place of origin", ("from", "von dem Markt", "market"), "Use von dem Markt. Japanese cue: 市場から. Chinese cue: 從市場. Keep the relation as departure from a place of origin, not inside and not destination. Use simple departure or return patterns such as comes from or returns from. Do not use aus dem Markt."),
+        ("306_von_park_source.md", "von as departure from the park as place of origin", ("from", "von dem Park", "park"), "Use von dem Park. Japanese cue: 公園から. Chinese cue: 從公園. Keep the relation as departure from a place of origin, not inside and not destination. Use simple departure or return patterns such as comes from or walks from. Do not use aus dem Park."),
+        ("307_von_house_source.md", "von as departure from the house as place of origin", ("from", "von dem Haus", "house"), "Use von dem Haus. Japanese cue: 家から. Chinese cue: 從房子. Keep the relation as departure from a place, not exiting from inside a container. Do not use aus dem Haus. Use simple departure patterns such as leaves from or walks from."),
+        ("308_von_garden_source.md", "von as departure from the garden as place of origin", ("from", "von dem Garten", "garden"), "Use von dem Garten. Japanese cue: 庭から. Chinese cue: 從花園. Keep the relation as departure from a place, not exiting from inside a container. Do not use aus dem Garten. Use simple departure or return patterns such as comes from or returns from."),
+        ("309_von_doctor_source.md", "von as departure from the doctor as person origin", ("from", "von dem Arzt", "doctor"), "Use von dem Arzt. Japanese cue: 医者のところから. Chinese cue: 從醫生那裡. Keep the relation as departure from a person's place, not being nearby and not destination. Use simple departure patterns such as comes from or returns from the doctor's."),
+        ("310_von_teacher_source.md", "von as departure from the teacher as person origin", ("from", "von dem Lehrer", "teacher"), "Use von dem Lehrer. Japanese cue: 先生のところから. Chinese cue: 從老師那裡. Keep the relation as departure from a person's place, not being nearby and not destination. Use simple departure patterns such as comes from or returns from the teacher's."),
+    ]
+
+    surface_sources = [
+        ("table", "von dem Tisch", "テーブルから", "從桌子上", "falls from, rolls from, is taken from"),
+        ("bench", "von der Bank", "ベンチから", "從長椅上", "falls from, is taken from, jumps from"),
+        ("tree", "von dem Baum", "木から", "從樹上", "falls from, jumps from, drops from"),
+        ("chair", "von dem Stuhl", "椅子から", "從椅子上", "falls from, is taken from, slides from"),
+        ("floor", "von dem Boden", "床から", "從地板上", "is taken from, picks up from, lifts from"),
+    ]
+    place_and_person_sources = [
+        ("school", "von der Schule", "学校から", "從學校", "comes from, walks from, returns from"),
+        ("market", "von dem Markt", "市場から", "從市場", "comes from, returns from, walks from"),
+        ("park", "von dem Park", "公園から", "從公園", "comes from, walks from, returns from"),
+        ("house", "von dem Haus", "家から", "從房子", "leaves from, walks from, comes from"),
+        ("garden", "von dem Garten", "庭から", "從花園", "comes from, returns from, walks from"),
+        ("kitchen", "von der Küche", "台所から", "從廚房", "comes from, walks from, returns from"),
+        ("city", "von der Stadt", "街から", "從城市", "comes from, returns from, travels from"),
+        ("doctor", "von dem Arzt", "医者のところから", "從醫生那裡", "comes from, returns from"),
+        ("teacher", "von dem Lehrer", "先生のところから", "從老師那裡", "comes from, returns from"),
+    ]
+
+    next_id = 311
+    while next_id <= 400:
+        kind = (next_id - 311) % 3
+        if kind in (0, 1):
+            noun, dative, jp_cue, zh_cue, actions = place_and_person_sources[((next_id - 311) // 2) % len(place_and_person_sources)]
+            filename = f"{next_id:03d}_von_{noun}_source.md"
+            rows.append((
+                filename,
+                f"von as departure from {noun} as place or person origin",
+                ("from", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as departure from a place or person origin, not inside a container and not destination. Use only departure or return patterns: {actions}. Do not use aus forms. Do not switch into ownership or nearby meaning.",
+            ))
+        else:
+            noun, dative, jp_cue, zh_cue, actions = surface_sources[((next_id - 313) // 3) % len(surface_sources)]
+            filename = f"{next_id:03d}_von_{noun}_surface.md"
+            rows.append((
+                filename,
+                f"von as source from {noun} surface",
+                ("from", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as source off a surface or elevated point, not inside a container and not destination. Use only movement-off patterns: {actions}. Do not use aus forms. Do not switch into ownership or destination meaning.",
+            ))
+        next_id += 1
+
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " Keep German dative form visible in every response. Use full forms such as von dem / von der, not the contraction vom. Prefer common nouns such as the boy, the woman, the child, the man. Avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
 CLUSTERS: dict[str, list[FileSpec]] = {
     "00_relation": [
         FileSpec(
@@ -285,6 +353,7 @@ CLUSTERS: dict[str, list[FileSpec]] = {
     "01_means_dative_anchor": make_mit_specs(),
     "01_means_dative_anchor_bei_audit": make_bei_audit_specs(),
     "01_means_dative_anchor_aus_audit": make_aus_audit_specs(),
+    "01_means_dative_anchor_von_audit": make_von_audit_specs(),
 }
 
 
@@ -456,6 +525,21 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("aus window audit file should stay with movement-out patterns")
         if "_window_" in spec.path and re.search(r"窓からよじ登|窓から登り出", text):
             errors.append("aus window audit file should use Japanese climb-out phrasing, not climb-up phrasing")
+    if "_von_" in spec.path:
+        if re.search(r"\bvom\b", text, re.I):
+            errors.append("von audit files should use full forms like von dem / von der, not the contraction vom")
+        if re.search(r"\baus dem\b|\baus der\b|\baus den\b", text, re.I):
+            errors.append("von audit files should not drift into aus forms")
+        if re.search(r"\bbei dem\b|\bbei der\b|\bbeim\b", text, re.I):
+            errors.append("von audit files should not drift into bei forms")
+        if re.search(r"\b(into|onto|toward|inside|out of)\b", text, re.I):
+            errors.append("von audit files should keep source/from meaning, not destination or container meaning")
+        if re.search(r"\b(belongs|owned|possesses|Besitz|gehört)\b|所有|屬於", text, re.I):
+            errors.append("von audit files should keep source meaning, not ownership meaning")
+        if re.search(r"そば|近く|旁邊", text):
+            errors.append("von audit files should keep source meaning, not nearby meaning")
+        if re.search(r"の中から|の中に", text):
+            errors.append("von audit files should use surface or place-of-origin meaning, not interior container meaning")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
