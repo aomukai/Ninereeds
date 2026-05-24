@@ -202,7 +202,7 @@ def make_aus_audit_specs() -> list[FileSpec]:
         ("206_aus_box_source.md", "aus as source out of a box", ("out of", "aus der Kiste", "box"), "Use aus der Kiste. Japanese cue: 箱から. Chinese cue: 從箱子裡. Keep the relation as source from inside. Use only concrete object-movement patterns such as comes out of the box or takes the apple out of the box. Allowed target nouns: apple, ball, book."),
         ("207_aus_bag_source.md", "aus as source out of a bag", ("out of", "aus der Tasche", "bag"), "Use aus der Tasche. Japanese cue: かばんから. Chinese cue: 從袋子裡. Keep the relation as source from inside. Use only concrete object-movement patterns such as comes out of the bag or takes the book out of the bag. Allowed target nouns: apple, book, pencil."),
         ("208_aus_bucket_source.md", "aus as source out of a bucket", ("out of", "aus dem Eimer", "bucket"), "Use aus dem Eimer. Japanese cue: バケツから. Chinese cue: 從水桶裡. Keep the relation as source from inside. Use only concrete object-movement patterns such as comes out of the bucket or takes the ball out of the bucket. Allowed target nouns: apple, ball, book."),
-        ("209_aus_window_source.md", "aus as source out of a window", ("out of", "aus dem Fenster", "window"), "Use aus dem Fenster. Japanese cue: 窓から. Chinese cue: 從窗戶裡. Keep the relation as source from inside/out through an opening, not nearby and not destination. Use only movement-out patterns such as comes out of or climbs out of. Do not use look-out-of patterns in this audit batch."),
+        ("209_aus_window_source.md", "aus as source out of a window", ("out of", "aus dem Fenster", "window"), "Use aus dem Fenster. Japanese cue: 窓から. Chinese cue: 從窗戶裡. Keep the relation as source from inside/out through an opening, not nearby and not destination. Use only movement-out patterns such as comes out of or climbs out of. For Japanese climbing-out lines, prefer 窓からよじ出る rather than 窓からよじ登る. Do not use look-out-of patterns in this audit batch."),
         ("210_aus_door_source.md", "aus as source out of a door", ("out of", "aus der Tür", "door"), "Use aus der Tür. Japanese cue: ドアから. Chinese cue: 從門裡. Keep the relation as source out through an opening, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
     ]
 
@@ -454,6 +454,8 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("aus audit files should not drift into destination meaning")
         if "_window_" in spec.path and re.search(r"looks? out of|schaut aus dem Fenster|窓から見|窗戶裡看", text, re.I):
             errors.append("aus window audit file should stay with movement-out patterns")
+        if "_window_" in spec.path and re.search(r"窓からよじ登", text):
+            errors.append("aus window audit file should use Japanese climb-out phrasing, not climb-up phrasing")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
