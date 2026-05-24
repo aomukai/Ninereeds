@@ -243,6 +243,8 @@ Required sections:
 
 - Python: `/home/aomukai/.unsloth/studio/unsloth_studio/bin/python`
 - Always pass `--amp-bf16`. Without it, OOM on RTX 3060 (10.4 GB allocated vs 11.6 GB available).
+- Ordered-curriculum runs must pass `--no-shuffle`. Seeded shuffling is reproducible,
+  but it still destroys intended file order.
 - Log output is stdout-buffered when redirected. Epoch summary lines appear ~5–10 min late.
   Use checkpoint file existence as the reliable epoch-complete signal, not the log tail.
 - Optimizer state is always reset on resume (`weights_only=True` in `load_checkpoint`).

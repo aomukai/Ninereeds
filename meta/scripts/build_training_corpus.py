@@ -16,6 +16,7 @@ Formats by directory:
   lang/           — 4-line EN/DE/JP/ZH stanzas, no tags
   wiki/           — [user]/[Ninereeds] dialogue, variable pairs
   reasoning/      — [user]/[Ninereeds] dialogue, variable pairs
+  grammar/        — [user]/[Ninereeds] dialogue, ordered by numeric subdirectory
   triplet_stories/ — [user]/[Ninereeds] dialogue, exactly 1 pair per file
   philosophy/     — [STATEMENT_EN/DE/JA/ZH], [USER_EN/DE/JA/ZH],
                     [NINEREEDS_EN/DE/JA/ZH] multilingual block format
@@ -224,6 +225,37 @@ def process_dir(
     return stats
 
 
+def process_tree(
+    directory: Path,
+    checker: Callable[[str], tuple[str, list[str]]],
+    label: str,
+    out_parts: list[str],
+    pattern: str = "*.md",
+) -> DirStats:
+    """Process files recursively in deterministic path order.
+
+    Used for ordered curricula such as grammar, where numeric subdirectories
+    define the intended sequence.
+    """
+    stats = DirStats(label=label)
+    for path in sorted(directory.rglob(pattern)):
+        if path.name == "manifest.md":
+            continue
+        raw = path.read_text(encoding="utf-8", errors="replace")
+        cleaned, issues = checker(raw)
+        stats.total += 1
+        rel = path.relative_to(directory).as_posix()
+        if issues:
+            stats.skipped += 1
+            stats.issue_log.append((rel, issues))
+        else:
+            stats.included += 1
+            if cleaned != raw:
+                stats.fixed += 1
+            out_parts.append(cleaned.rstrip("\n"))
+    return stats
+
+
 # ---------------------------------------------------------------------------
 # Curriculum traversal order
 # Follows the training pipeline staging from docs/training_pipeline.md:
@@ -237,6 +269,7 @@ def process_dir(
 CURRICULUM_ORDER: list[tuple] = [
     ("lang/lang_1",            check_lang,             "lang_1"),
     ("lang/lang_2",            check_lang,             "lang_2"),
+    ("grammar",                check_dialogue,         "grammar",             "*.md", "tree"),
     ("phases/phase_1",         check_phases,           "phase_1"),
     ("phases/phase_2",         check_phases,           "phase_2"),
     ("phases/phase_3",         check_phases,           "phase_3"),
@@ -318,6 +351,7 @@ def build_corpus(output: Path, report: Path, dry_run: bool,
     for entry in CURRICULUM_ORDER:
         rel_dir, checker, label = entry[:3]
         pattern = entry[3] if len(entry) > 3 else "*.md"
+        traversal = entry[4] if len(entry) > 4 else "dir"
 
         # Skip individual phase dirs if using cluster_sequence
         dir_base = rel_dir.split("/")[-1] if "/" in rel_dir else rel_dir
@@ -330,7 +364,10 @@ def build_corpus(output: Path, report: Path, dry_run: bool,
             continue
         repeat = oversample_reasoning if label == "reasoning" else 1
         for pass_n in range(repeat):
-            stats = process_dir(directory, checker, label, out_parts, pattern)
+            if traversal == "tree":
+                stats = process_tree(directory, checker, label, out_parts, pattern)
+            else:
+                stats = process_dir(directory, checker, label, out_parts, pattern)
             if pass_n == 0:
                 all_stats.append(stats)
                 skip_note = f"  ({stats.skipped} skipped)" if stats.skipped else ""

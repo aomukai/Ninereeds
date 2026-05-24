@@ -216,7 +216,14 @@ def estimate_windows_and_batches(
     return num_windows, n_batches
 
 
-def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, device: torch.device, seed: int | None = None):
+def make_batches(
+    data: bytes | torch.Tensor,
+    block_size: int,
+    batch_size: int,
+    device: torch.device,
+    seed: int | None = None,
+    shuffle: bool = True,
+):
     """Yield (x, y) tensors from raw byte data indefinitely (one epoch pass).
 
     Accepts either raw bytes (converted once per call) or a pre-computed Long tensor.
@@ -226,6 +233,9 @@ def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, d
     seed: when provided, shuffles with an isolated Generator so model-init RNG state
     does not affect data order. Pass seed=base_seed+epoch for deterministic per-epoch
     order that is identical across model sizes.
+
+    shuffle: when False, emit windows in corpus order. Use this for ordered
+    curricula where file sequence is part of the intervention.
     """
     if isinstance(data, torch.Tensor):
         ids = data
@@ -236,12 +246,13 @@ def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, d
 
     # All possible start indices
     starts = torch.arange(0, n_tokens - block_size, block_size, dtype=torch.long)
-    # Shuffle with isolated generator so model init RNG doesn't affect data order
-    g = torch.Generator()
-    if seed is not None:
-        g.manual_seed(seed)
-    perm = torch.randperm(len(starts), generator=g)
-    starts = starts[perm]
+    if shuffle:
+        # Shuffle with isolated generator so model init RNG doesn't affect data order.
+        g = torch.Generator()
+        if seed is not None:
+            g.manual_seed(seed)
+        perm = torch.randperm(len(starts), generator=g)
+        starts = starts[perm]
 
     emitted = 0
     for i in range(0, len(starts), batch_size):
@@ -277,6 +288,7 @@ def make_jsonl_batches(
     prompt_tail_bytes: int,
     prompt_loss_weight: float,
     seed: int | None = None,
+    shuffle: bool = True,
 ):
     """Yield (x, y, mask) for prompt/completion JSONL training.
 
@@ -286,15 +298,19 @@ def make_jsonl_batches(
     - padded tokens: 0.0
 
     seed: see make_batches — isolated Generator keeps data order independent of model init.
+    shuffle: when False, emit examples in file order.
     """
     if block_size <= 0:
         raise ValueError(f"block_size must be > 0 (got {block_size}).")
 
     n = len(examples)
-    g = torch.Generator()
-    if seed is not None:
-        g.manual_seed(seed)
-    order = torch.randperm(n, generator=g).tolist()
+    if shuffle:
+        g = torch.Generator()
+        if seed is not None:
+            g.manual_seed(seed)
+        order = torch.randperm(n, generator=g).tolist()
+    else:
+        order = list(range(n))
     n_batches = estimate_jsonl_batches(n, batch_size)
     emitted = 0
 
@@ -417,6 +433,7 @@ def train(
     amp_bf16: bool,
     log_vram: bool,
     adam8bit: bool,
+    shuffle: bool,
     scale: bool,
     scale_150m: bool,
     scale_600m: bool,
@@ -501,7 +518,8 @@ def train(
         optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=0.1)
     scheduler = CosineAnnealingLR(optimizer, T_max=total_updates, eta_min=lr * 0.1)
 
-    print(f"  Seed: {seed}  |  Deterministic: enabled")
+    order_mode = "seeded-shuffle" if shuffle else "sequential"
+    print(f"  Seed: {seed}  |  Deterministic: enabled  |  Data order: {order_mode}")
     print(
         f"  Epochs: {epochs}  |  Windows/epoch: {num_windows}  |  "
         f"Micro-steps/epoch: {steps_per_epoch}  |  "
@@ -548,9 +566,17 @@ def train(
                 prompt_tail_bytes=prompt_tail_bytes,
                 prompt_loss_weight=prompt_loss_weight,
                 seed=seed + epoch,
+                shuffle=shuffle,
             )
         else:
-            batch_iter = make_batches(data, block_size, batch_size, device, seed=seed + epoch)
+            batch_iter = make_batches(
+                data,
+                block_size,
+                batch_size,
+                device,
+                seed=seed + epoch,
+                shuffle=shuffle,
+            )
 
         for step_in_epoch, batch in enumerate(batch_iter, start=1):
             if data_mode == "jsonl":
@@ -719,6 +745,8 @@ def main() -> None:
                         help="Log CUDA VRAM usage during training progress updates")
     parser.add_argument("--adam8bit", action="store_true",
                         help="Use bitsandbytes AdamW8bit optimizer (reduces optimizer VRAM ~4x; requires bitsandbytes)")
+    parser.add_argument("--no-shuffle", action="store_true",
+                        help="Disable per-epoch data shuffling and consume batches in source order")
     parser.add_argument("--allow-fresh-start", action="store_true",
                         help="Explicitly allow phase 2+ training without --resume")
     parser.add_argument("--jsonl-data", type=Path, default=None,
@@ -794,6 +822,7 @@ def main() -> None:
     print(f"  Device: {device}")
     print(f"  Phase: {args.phase}")
     print(f"  Seed: {args.seed}")
+    print(f"  Data order: {'sequential' if args.no_shuffle else 'seeded-shuffle'}")
     if args.amp_bf16 and device.type != "cuda":
         parser.error("--amp-bf16 requires --device cuda (or auto-selected cuda).")
     if args.resume is not None:
@@ -817,6 +846,7 @@ def main() -> None:
         amp_bf16=args.amp_bf16,
         log_vram=args.log_vram,
         adam8bit=args.adam8bit,
+        shuffle=not args.no_shuffle,
         scale=args.scale,
         scale_150m=args.scale_150m,
         scale_600m=args.scale_600m,

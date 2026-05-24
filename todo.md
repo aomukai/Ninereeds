@@ -42,13 +42,14 @@ Current state:
 
 Required implementation:
 
-- add a CLI flag such as `--no-shuffle` or `--sequential`
-- when enabled, consume byte windows in corpus order
-- keep seeded shuffle available for old comparisons
-- record shuffle mode in training logs
-- update docs before any run uses the new mode
+- [x] add a CLI flag such as `--no-shuffle` or `--sequential`
+- [x] when enabled, consume byte windows in corpus order
+- [x] keep seeded shuffle available for old comparisons
+- [x] record shuffle mode in training logs
+- [x] update docs before any run uses the new mode
 
-Do not launch run_13 until this is done.
+No-shuffle smoke test: passed on 2026-05-24 with project Python and a tiny byte
+corpus; sequential batch starts were `[0, 4, 8, 12]`.
 
 ---
 
@@ -82,16 +83,16 @@ Design principle:
 
 Open tasks:
 
-- [ ] Fill `training_data/grammar/manifest.md`
-- [ ] Define file counts per grammar directory
-- [ ] Define naming convention for files inside each directory
+- [x] Fill `training_data/grammar/manifest.md`
+- [x] Define file counts per grammar directory
+- [x] Define naming convention for files inside each directory
 - [ ] Define allowed names, objects, verbs, and places for the grammar corpus
-- [ ] Write DeepSeek generation prompt for `00_relation`
+- [x] Write DeepSeek generation prompt for `00_relation`
 - [ ] Write validation checklist as an executable script or documented manual gate
 
 Initial generation order:
 
-1. `00_relation`
+1. `00_relation` — generated and structurally validated
 2. `01_means_dative_anchor`
 3. `02_receiver_dative`
 4. `03_place_static_dative`
@@ -160,15 +161,15 @@ Important early examples:
 
 ## Phase C — Grammar Corpus Builder Support
 
-Status: not started.
+Status: in progress.
 
 Required changes:
 
-- update `meta/scripts/build_training_corpus.py` to include `training_data/grammar`
-- preserve numeric directory order
+- [x] update `meta/scripts/build_training_corpus.py` to include `training_data/grammar`
+- [x] preserve numeric directory order
 - preserve manifest order if `training_data/grammar/manifest.md` is present
 - validate grammar files separately from phase/wiki files if needed
-- add a run-specific output for grammar experiments, e.g.
+- [ ] add a run-specific output for grammar experiments, e.g.
   `training/corpus/run13_grammar_ordered.txt`
 
 Question to resolve:
@@ -418,4 +419,3 @@ Pause after training if any of these are true:
 - abrupt stops >= 2
 - shaped score collapses relative to comparable baseline
 - grammar probes improve but general shaped score fails promotion gates
-
