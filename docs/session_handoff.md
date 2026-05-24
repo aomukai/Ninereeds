@@ -1,8 +1,9 @@
 # Session Handoff
 
-Date: 2026-05-24
+Date: 2026-05-25
 
-Purpose: hand off current Ninereeds curriculum-expansion work to the next agent.
+Purpose: hand off current Ninereeds grammar-curriculum work to the next agent
+from a clean repo boundary.
 
 ---
 
@@ -10,8 +11,9 @@ Purpose: hand off current Ninereeds curriculum-expansion work to the next agent.
 
 Build a deterministic, function-first grammar curriculum for Ninereeds.
 
-The immediate target is the German grammar/spatial curriculum, using German case
-behavior as the spine and Japanese particles as cross-reference cues.
+The grammar work is organized around German case behavior, with Japanese
+particles used as cross-reference cues. Corpus order matters and training runs
+for this curriculum must stay deterministic.
 
 Primary docs:
 
@@ -23,232 +25,112 @@ Primary docs:
 
 ---
 
-## Last Clean Commit
+## Current State
 
-Latest pushed checkpoint before current uncommitted work:
+Repo state at handoff:
+
+- working tree clean
+- `main` synced with `origin/main`
+- latest pushed commit:
 
 ```text
-70fa54ef Add ordered grammar curriculum scaffold
+610fd5de Complete aus grammar batch
 ```
 
-That commit added:
+Grammar progress:
 
-- `--no-shuffle` support in `train.py`
-- grammar traversal in `meta/scripts/build_training_corpus.py`
-- `meta/scripts/gen_grammar.py`
-- `training_data/grammar/manifest.md`
-- first `00_relation` grammar files
-- docs/todo updates
+1. `00_relation` is complete.
+2. `01_means_dative_anchor/mit` is complete at `001` through `100`.
+3. `01_means_dative_anchor/bei` is complete at `101` through `200`.
+4. `01_means_dative_anchor/aus` is complete at `201` through `300`.
+5. Next work should begin at the next preposition from a clean boundary.
 
----
-
-## Current Checkpoint Work
-
-Expected files/directories in the next checkpoint:
+Latest corpus validation:
 
 ```text
-M meta/scripts/build_training_corpus.py
-M meta/scripts/gen_grammar.py
-?? training_data/grammar/01_means_dative_anchor/
-?? training_data/grammar/lexicon.md
-?? training_data/grammar/prepositions.md
-```
-
-What changed in this checkpoint:
-
-- Added `training_data/grammar/lexicon.md`
-  - curated grammar-specific vocabulary
-  - includes German gender, accusative, and dative forms
-  - includes JP/ZH labels and role tags
-- Added `training_data/grammar/prepositions.md`
-  - local inventory of German prepositions
-  - uses an external preposition page only as completeness reference
-  - tiered into core two-way, dative anchors, accusative, genitive/formal, etc.
-- Updated `meta/scripts/build_training_corpus.py`
-  - skips grammar control files: `manifest.md`, `lexicon.md`, `prepositions.md`
-- Updated `meta/scripts/gen_grammar.py`
-  - added `01_means_dative_anchor` generation support
-  - added `--limit` and `--offset`
-  - increased DeepSeek output/time settings earlier:
-    - `MAX_TOKENS = 32768`
-    - `REQUEST_TIMEOUT = 300.0`
-  - tightened validation for `mit` audit files
-- Generated full `mit` set, files `001` through `100`, in:
-  - `training_data/grammar/01_means_dative_anchor/`
-- Tightened `mit` generation after the first continuation batch exposed object
-  drift in instrument files.
-
----
-
-## Generated Grammar Files
-
-Already committed:
-
-```text
-training_data/grammar/00_relation/001_relation_receiver.md
-training_data/grammar/00_relation/002_place_source_target.md
-training_data/grammar/00_relation/003_path_object_action.md
-training_data/grammar/00_relation/004_owner_change_means.md
-```
-
-Generated in this checkpoint:
-
-```text
-training_data/grammar/01_means_dative_anchor/001_mit_accompaniment_dog.md
-training_data/grammar/01_means_dative_anchor/002_mit_accompaniment_cat.md
-training_data/grammar/01_means_dative_anchor/003_mit_accompaniment_child.md
-training_data/grammar/01_means_dative_anchor/004_mit_accompaniment_woman.md
-training_data/grammar/01_means_dative_anchor/005_mit_instrument_hammer.md
-training_data/grammar/01_means_dative_anchor/006_mit_instrument_broom.md
-training_data/grammar/01_means_dative_anchor/007_mit_instrument_pencil.md
-training_data/grammar/01_means_dative_anchor/008_mit_vehicle_bus.md
-training_data/grammar/01_means_dative_anchor/009_mit_vehicle_car.md
-training_data/grammar/01_means_dative_anchor/010_mit_vehicle_train.md
-training_data/grammar/01_means_dative_anchor/011_mit_accompaniment_dog.md
-...
-training_data/grammar/01_means_dative_anchor/025_mit_vehicle_boat.md
-```
-
----
-
-## Validation Status
-
-Latest corpus dry-run passed after generating files `001` through `100`:
-
-```text
-Files:    25,041 / 25,041 included
+Files:    25,241 / 25,241 included
+Fixed:    1,088
 Skipped:  0
 All files validated — corpus is clean.
 ```
 
-Latest targeted `mit` checks passed:
+---
 
-- all 100 generated `mit` files have 4 `[user]` / `[Ninereeds]` pairs
-- no `mit das`
-- no `mit die`
-- no `mit den`
-- vehicle English uses `by bus/car/train`, not `with the bus/car/train`
-- instrument/vehicle files use people as agents, not animals
-- no off-pool vehicle destinations after manual cleanup
+## What Was Finished
 
-Important audit finding:
+Completed in the current grammar phase:
 
-- The first loose DeepSeek pass had good German case but semantic drift:
-  - animals used as tool/vehicle agents
-  - vehicle English said `with the bus`
-  - some name translation
-  - off-pool destinations such as `store` / `work`
-- Tight prompt constraints fixed this for the 10-file `mit` audit batch.
+- deterministic grammar traversal is wired into
+  `meta/scripts/build_training_corpus.py`
+- grammar generation is handled by `meta/scripts/gen_grammar.py`
+- grammar control docs are in place:
+  - `training_data/grammar/manifest.md`
+  - `training_data/grammar/lexicon.md`
+  - `training_data/grammar/prepositions.md`
+- full audited sets were generated for:
+  - `mit`
+  - `bei`
+  - `aus`
 
-Additional audit finding from files `011` through `025`:
+Important generator behavior now encoded in `meta/scripts/gen_grammar.py`:
 
-- The first continuation pass invented off-lexicon instrument targets such as
-  nail, fence, hallway, note, paper, shelf, and pipe.
-- `meta/scripts/gen_grammar.py` now constrains instrument target nouns more
-  tightly and rejects known off-lexicon drift.
-- One regeneration produced Simplified Chinese (`锤`, `长`); the generator now
-  rejects a small set of Simplified characters observed in this batch.
-- The second continuation batch produced demonstratives (`その`, `那個`) and
-  wagon/horse-carriage drift; the generator now rejects those patterns.
-- The third continuation batch had one vehicle/animal validation failure for
-  `049_mit_vehicle_boat.md`; a clean retry was accepted.
-- The fourth continuation batch had one vehicle/animal validation failure for
-  `061_mit_vehicle_bus.md`; `063_mit_instrument_ball.md` was regenerated after
-  throw/roll and Simplified Chinese drift.
-- The fifth continuation batch (`071`-`085`) passed without requiring any
-  post-generation rewrites.
-- The final batch (`086`-`100`) generated cleanly, but the full-corpus audit
-  triggered targeted rewrites for `033_mit_instrument_ball.md`,
-  `096_mit_instrument_book.md`, and `100_mit_vehicle_airplane.md`.
+- supports `--limit`, `--offset`, `--dry-run`, and `--force`
+- uses DeepSeek with long output and timeout settings
+- validates grammar files structurally and semantically
+- contains preposition-specific drift guards, especially for:
+  - `mit` instrument/vehicle drift
+  - `bei` static-nearby drift
+  - `aus` source-only and window-source drift
 
-Conclusion:
+---
 
-- DeepSeek can handle `mit`, but only with tight preposition-specific prompts.
-- The 10-file audit-before-scaling protocol is necessary.
+## Known Working Protocol
+
+This protocol worked and should be reused for the next preposition:
+
+1. Generate 10 audit files first.
+2. Spot-audit them manually.
+3. If clean, continue with 6 batches of 15.
+4. After each 15-file batch:
+   - run corpus dry-run validation
+   - spot-audit 1-2 risky files
+   - tighten validator rules immediately if drift appears
+5. Commit and push at clean checkpoints.
+
+The user explicitly wants this because DeepSeek may handle one preposition well
+and another poorly.
 
 ---
 
 ## Next Action
 
-Continue `mit` generation.
+Start the next dative-anchor preposition from a clean boundary.
 
-Plan agreed with user:
+Likely candidates already discussed:
 
-1. `mit` is complete at 100 files.
-2. `bei` is complete at 100 clean files, `101` through `200`.
-3. `aus` is now complete at 100 clean files, `201` through `300`.
-4. The next grammar preposition can start from a clean boundary after this
-   checkpoint.
-3. After each 15-file batch:
-   - run automated checks
-   - spot-audit 1-2 files manually
-   - stop if drift appears
-4. Commit after the full `mit` set is clean, or earlier if the next agent wants
-   a safer checkpoint.
+- `von`
+- `zu`
 
-Suggested automated checks after each batch:
+Recommended first step:
 
-```bash
-python3 -m py_compile meta/scripts/gen_grammar.py meta/scripts/build_training_corpus.py
-python3 meta/scripts/build_training_corpus.py --dry-run
-rg -n "mit das|mit die|mit den|with the (bus|car|train)|She|He|They|We| she | he | they | we |Sie| Er | sie | er |彼女|彼|她|他|我們|我们" training_data/grammar/01_means_dative_anchor
-```
-
-Also run a small script to count pairs and detect known drift, similar to:
-
-```bash
-python3 - <<'PY'
-from pathlib import Path
-import re
-root=Path('training_data/grammar/01_means_dative_anchor')
-for p in sorted(root.glob('*.md')):
-    t=p.read_text(encoding='utf-8')
-    bad=[]
-    if len(re.findall(r'^\[user\]', t, re.M)) != 4:
-        bad.append('bad_user_count')
-    if len(re.findall(r'^\[Ninereeds\]', t, re.M)) != 4:
-        bad.append('bad_ninereeds_count')
-    if re.search(r'mit das|mit die|mit den', t):
-        bad.append('bad_case')
-    if re.search(r'with the (bus|car|train)', t, re.I):
-        bad.append('bad_vehicle_en')
-    print(p.name, 'ok' if not bad else ','.join(bad))
-PY
-```
+1. choose the next preposition
+2. add or extend the dedicated audit cluster in `meta/scripts/gen_grammar.py`
+3. generate the first 10 audit files
+4. validate and spot-audit before scaling
 
 ---
 
-## Generation Notes
+## Validation Commands
 
-DeepSeek model:
+Run these after each generation batch:
 
-```text
-deepseek/deepseek-v4-flash
+```bash
+python3 -m py_compile train.py meta/scripts/build_training_corpus.py meta/scripts/gen_grammar.py
+python3 meta/scripts/build_training_corpus.py --dry-run
 ```
 
-It behaves like a thinking model:
-
-- use `max_tokens=32768`
-- allow long latency
-- do not kill requests just because they take 1-3 minutes
-
-OpenRouter key:
-
-- available in repo root `.env`
-- `.env` is gitignored
-- `meta/scripts/gen_grammar.py` loads `.env`
-
-Do not generate all prepositions at once.
-
-For each new preposition:
-
-1. Generate 10 test files.
-2. Audit them.
-3. If clean, continue with 6 batches of 15.
-4. Stop early if drift appears.
-
-The user explicitly wants this because DeepSeek may handle one preposition well
-and another poorly.
+For targeted inspection, read the new files directly and use `rg` for known
+drift patterns in `training_data/grammar/01_means_dative_anchor/`.
 
 ---
 
@@ -260,28 +142,27 @@ Ordered curriculum runs must use:
 --no-shuffle
 ```
 
-Seeded shuffling is reproducible but destroys intended curriculum order.
-
-No-shuffle smoke test already passed:
-
-```text
-sequential batch starts: [0, 4, 8, 12]
-```
-
-Do not launch run_13 until the grammar corpus is generated/audited and the run
-corpus is built cleanly.
+The user wants deterministic sample order for direct comparisons across runs.
 
 ---
 
-## Git Guidance
+## Model / Runtime Notes
 
-User pushed the previous snapshot before this work.
-
-The last commit made by Codex was pushed:
+DeepSeek model used for grammar generation:
 
 ```text
-70fa54ef Add ordered grammar curriculum scaffold
+deepseek/deepseek-v4-flash
 ```
 
-If continuing for a while, commit/push after each clean preposition batch or
-after a safe tooling milestone.
+Operational notes:
+
+- use long timeouts
+- do not kill requests just because they are quiet for several minutes
+- long silent stretches are normal
+- low-frequency polling is better than aggressive polling
+
+OpenRouter key:
+
+- available in repo root `.env`
+- `.env` is gitignored
+- `meta/scripts/gen_grammar.py` loads it
