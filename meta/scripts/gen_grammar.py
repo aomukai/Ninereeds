@@ -454,7 +454,7 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("aus audit files should not drift into destination meaning")
         if "_window_" in spec.path and re.search(r"looks? out of|schaut aus dem Fenster|窓から見|窗戶裡看", text, re.I):
             errors.append("aus window audit file should stay with movement-out patterns")
-        if "_window_" in spec.path and re.search(r"窓からよじ登", text):
+        if "_window_" in spec.path and re.search(r"窓からよじ登|窓から登り出", text):
             errors.append("aus window audit file should use Japanese climb-out phrasing, not climb-up phrasing")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
