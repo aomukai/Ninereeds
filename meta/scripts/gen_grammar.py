@@ -69,7 +69,7 @@ def make_mit_specs() -> list[FileSpec]:
         ("wrench", "mit dem Schraubenschlüssel", "で", "fix a bike, fix a box, fix a bucket", "bike, box, bucket"),
         ("basket", "mit dem Korb", "で", "carry apples, carry bread, carry books", "apple, bread, book"),
         ("bucket", "mit dem Eimer", "で", "carry apples, carry bread, carry books", "apple, bread, book"),
-        ("ball", "mit dem Ball", "で", "play, throw the ball, roll the ball", "ball"),
+        ("ball", "mit dem Ball", "で", "play with the ball, play together with the ball, play quietly with the ball", "ball"),
         ("book", "mit dem Buch", "で", "read, learn, show the book", "book"),
         ("blanket", "mit der Decke", "で", "cover the bed, cover the child, keep warm", "bed, child"),
     ]
@@ -281,12 +281,14 @@ def validate(text: str, spec: FileSpec) -> list[str]:
         errors.append("pronoun found in answer/prompt; repeat the name or noun")
     if re.search(r"その|あの|この|那個|这个|這個", text):
         errors.append("demonstrative found; repeat the noun without extra pointing words")
-    if re.search(r"[锤长扫车门书话马鸟鱼]", text):
+    if re.search(r"[锤长扫车门书话马鸟鱼间园]", text):
         errors.append("possible Simplified Chinese character found; use Traditional Chinese")
     if "_vehicle_wagon" in spec.path and re.search(r"馬車|马车", text):
         errors.append("wagon should not become horse carriage")
     if "_vehicle_wagon" in spec.path and re.search(r"\b(horse|Pferd)\b|馬|马", text, re.I):
         errors.append("wagon files must not introduce horses")
+    if "_instrument_ball" in spec.path and re.search(r"throws? with the ball|rolls? with the ball|wirft mit dem Ball|rollt mit dem Ball", text, re.I):
+        errors.append("ball files should use play-with-ball patterns, not throw/roll-with-ball")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]

@@ -17,7 +17,7 @@ Design reference: `docs/grammar_plan.md`
 | Directory structure | complete |
 | File naming convention | draft |
 | Generation prompts | in progress |
-| Generated files | `00_relation` complete; `mit` 55/100 generated and audited |
+| Generated files | `00_relation` complete; `mit` 70/100 generated and audited |
 | Validation scripts | in progress |
 | Corpus-builder integration | complete |
 
@@ -110,7 +110,7 @@ Validation focus:
 
 ### 01_means_dative_anchor
 
-Status: `mit` 55/100 generated and audited; remaining dative-anchor prepositions not generated.
+Status: `mit` 70/100 generated and audited; remaining dative-anchor prepositions not generated.
 
 Purpose: build the German dative retrieval pathway with always-dative
 prepositions before ambiguous two-way prepositions.
@@ -389,3 +389,4 @@ Add one line per generated/audited batch:
 | 2026-05-24 | `01_means_dative_anchor` / `mit` | 25 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | tag counts + targeted `mit` drift scan + full corpus dry-run pass | First continuation batch exposed off-lexicon instrument targets and Simplified Chinese; generator validation was tightened before accepting the batch. |
 | 2026-05-24 | `01_means_dative_anchor` / `mit` | 40 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `mit` drift scan + spot audit + full corpus dry-run pass | Second continuation batch exposed demonstratives and wagon/horse-carriage drift; generator validation was tightened before accepting the batch. |
 | 2026-05-24 | `01_means_dative_anchor` / `mit` | 55 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `mit` drift scan + spot audit + full corpus dry-run pass | Third continuation batch had one vehicle/animal validation failure for `049`; clean retry was accepted. |
+| 2026-05-24 | `01_means_dative_anchor` / `mit` | 70 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `mit` drift scan + spot audit + full corpus dry-run pass | Fourth continuation batch had one vehicle/animal validation failure for `061`; `063` ball examples were regenerated after throw/roll and Simplified Chinese drift. |
