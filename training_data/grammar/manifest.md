@@ -17,7 +17,7 @@ Design reference: `docs/grammar_plan.md`
 | Directory structure | complete |
 | File naming convention | draft |
 | Generation prompts | in progress |
-| Generated files | `00_relation` complete; `mit` 100/100 generated and audited; `bei` 100/100 generated and audited; `aus` 85/100 generated and audited |
+| Generated files | `00_relation` complete; `mit` 100/100 generated and audited; `bei` 100/100 generated and audited; `aus` 100/100 generated and audited |
 | Validation scripts | in progress |
 | Corpus-builder integration | complete |
 
@@ -110,7 +110,7 @@ Validation focus:
 
 ### 01_means_dative_anchor
 
-Status: `mit` 100/100 generated and audited; `bei` 100/100 generated and audited; `aus` 85/100 generated and audited; remaining dative-anchor prepositions not generated.
+Status: `mit` 100/100 generated and audited; `bei` 100/100 generated and audited; `aus` 100/100 generated and audited; remaining dative-anchor prepositions not generated.
 
 Purpose: build the German dative retrieval pathway with always-dative
 prepositions before ambiguous two-way prepositions.
@@ -404,3 +404,4 @@ Add one line per generated/audited batch:
 | 2026-05-24 | `01_means_dative_anchor` / `aus` | 55 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `aus` drift scan + spot audit + full corpus dry-run pass | Third 15-file continuation batch exposed weak Japanese climb-out phrasing in window files; the validator was tightened and affected window files were regenerated cleanly before acceptance. |
 | 2026-05-24 | `01_means_dative_anchor` / `aus` | 70 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `aus` drift scan + spot audit + full corpus dry-run pass | Fourth 15-file continuation batch completed cleanly under the tightened window validator; source-exit and container-extraction patterns remained stable. |
 | 2026-05-24 | `01_means_dative_anchor` / `aus` | 85 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `aus` drift scan + spot audit + full corpus dry-run pass | Fifth 15-file continuation batch exposed a second weak Japanese climb-out variant in window files; the validator was extended to reject both climb-up and generic climb-out drift, and the affected window file was regenerated cleanly before acceptance. |
+| 2026-05-24 | `01_means_dative_anchor` / `aus` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full targeted `aus` drift scan + spot audit + full corpus dry-run pass | Final continuation batch completed without further rewrites after generation; the full `aus` set remained stable under the tightened window-source and source-only movement constraints. |

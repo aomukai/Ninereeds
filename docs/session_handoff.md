@@ -176,9 +176,9 @@ Plan agreed with user:
 
 1. `mit` is complete at 100 files.
 2. `bei` is complete at 100 clean files, `101` through `200`.
-3. `aus` now has 85 clean files at `201` through `285`.
-4. Next work for `aus` should continue with the final continuation
-   batch of 15 after this checkpoint.
+3. `aus` is now complete at 100 clean files, `201` through `300`.
+4. The next grammar preposition can start from a clean boundary after this
+   checkpoint.
 3. After each 15-file batch:
    - run automated checks
    - spot-audit 1-2 files manually
