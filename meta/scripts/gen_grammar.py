@@ -191,6 +191,31 @@ def make_bei_audit_specs() -> list[FileSpec]:
     ]
 
 
+def make_aus_audit_specs() -> list[FileSpec]:
+    """Initial audit batch for `aus` as source from inside / out of."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        ("201_aus_house_source.md", "aus as source out of a house", ("out of", "aus dem Haus", "house"), "Use aus dem Haus. Japanese cue: 家から. Chinese cue: 從房子裡. Keep the relation as source from inside, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
+        ("202_aus_kitchen_source.md", "aus as source out of a kitchen", ("out of", "aus der Küche", "kitchen"), "Use aus der Küche. Japanese cue: 台所から. Chinese cue: 從廚房裡. Keep the relation as source from inside, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
+        ("203_aus_room_source.md", "aus as source out of a room", ("out of", "aus dem Zimmer", "room"), "Use aus dem Zimmer. Japanese cue: 部屋から. Chinese cue: 從房間裡. Keep the relation as source from inside, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
+        ("204_aus_garden_source.md", "aus as source out of a garden", ("out of", "aus dem Garten", "garden"), "Use aus dem Garten. Japanese cue: 庭から. Chinese cue: 從花園裡. Keep the relation as source from inside, not nearby and not destination. Use simple movement-out patterns such as comes out of or runs out of."),
+        ("205_aus_school_source.md", "aus as source out of a school", ("out of", "aus der Schule", "school"), "Use aus der Schule. Japanese cue: 学校から. Chinese cue: 從學校裡. Keep the relation as source from inside, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
+        ("206_aus_box_source.md", "aus as source out of a box", ("out of", "aus der Kiste", "box"), "Use aus der Kiste. Japanese cue: 箱から. Chinese cue: 從箱子裡. Keep the relation as source from inside. Use only concrete object-movement patterns such as comes out of the box or takes the apple out of the box. Allowed target nouns: apple, ball, book."),
+        ("207_aus_bag_source.md", "aus as source out of a bag", ("out of", "aus der Tasche", "bag"), "Use aus der Tasche. Japanese cue: かばんから. Chinese cue: 從袋子裡. Keep the relation as source from inside. Use only concrete object-movement patterns such as comes out of the bag or takes the book out of the bag. Allowed target nouns: apple, book, pencil."),
+        ("208_aus_bucket_source.md", "aus as source out of a bucket", ("out of", "aus dem Eimer", "bucket"), "Use aus dem Eimer. Japanese cue: バケツから. Chinese cue: 從水桶裡. Keep the relation as source from inside. Use only concrete object-movement patterns such as comes out of the bucket or takes the ball out of the bucket. Allowed target nouns: apple, ball, book."),
+        ("209_aus_window_source.md", "aus as source out of a window", ("out of", "aus dem Fenster", "window"), "Use aus dem Fenster. Japanese cue: 窓から. Chinese cue: 從窗戶裡. Keep the relation as source from inside/out through an opening, not nearby and not destination. Use only movement-out patterns such as comes out of or climbs out of. Do not use look-out-of patterns in this audit batch."),
+        ("210_aus_door_source.md", "aus as source out of a door", ("out of", "aus der Tür", "door"), "Use aus der Tür. Japanese cue: ドアから. Chinese cue: 從門裡. Keep the relation as source out through an opening, not nearby and not destination. Use simple movement-out patterns such as comes out of or walks out of."),
+    ]
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " Keep German dative form visible in every response. Use full forms such as aus dem / aus der. Prefer common nouns such as the boy, the woman, the child, the man. Avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
 CLUSTERS: dict[str, list[FileSpec]] = {
     "00_relation": [
         FileSpec(
@@ -220,6 +245,7 @@ CLUSTERS: dict[str, list[FileSpec]] = {
     ],
     "01_means_dative_anchor": make_mit_specs(),
     "01_means_dative_anchor_bei_audit": make_bei_audit_specs(),
+    "01_means_dative_anchor_aus_audit": make_aus_audit_specs(),
 }
 
 
@@ -320,6 +346,10 @@ def validate(text: str, spec: FileSpec) -> list[str]:
         errors.append("[user] tags must have the question on the same line")
     if nr_with_content != nr_count:
         errors.append("[Ninereeds] tags must have the English answer on the same line")
+    if "[/user]" in text or "[/Ninereeds]" in text:
+        errors.append("closing tags are not allowed")
+    if re.search(r"^(German|Japanese|Traditional Chinese|Chinese|English):", text, re.MULTILINE):
+        errors.append("language labels are not allowed in response lines")
     if re.search(r"[A-Za-z]+(?:-[A-Za-z]+)?\s*\([^)]*romaji", text, re.I):
         errors.append("possible romaji explanation found")
     for term in spec.required_terms:
@@ -372,6 +402,19 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("bei static files should stay with is/sits/stands, not wait/work")
         if re.search(r"そばに待|そばに働|そばに勉強|ところに待|ところに座|ところに勉強", text):
             errors.append("bei audit files have a bad Japanese location particle for static activity")
+    if "_aus_" in spec.path:
+        if re.search(r"\baus das\b|\baus die\b|\baus den\b", text, re.I):
+            errors.append("aus audit files must keep the German dative form")
+        if re.search(r"\bbei\b|\bvon\b", text, re.I):
+            errors.append("aus audit files should not drift into bei/von forms")
+        if re.search(r"\b(by|near|at)\b", text, re.I):
+            errors.append("aus audit files should keep source/out-of meaning, not nearby meaning")
+        if re.search(r"そば|近く|旁邊", text):
+            errors.append("aus audit files should keep source meaning, not nearby meaning")
+        if re.search(r"\b(to|into|toward|onto)\b", text, re.I):
+            errors.append("aus audit files should not drift into destination meaning")
+        if "_window_" in spec.path and re.search(r"looks? out of|schaut aus dem Fenster|窓から見|窗戶裡看", text, re.I):
+            errors.append("aus window audit file should stay with movement-out patterns")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
