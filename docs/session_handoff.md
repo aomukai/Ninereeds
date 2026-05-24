@@ -175,8 +175,8 @@ Continue `mit` generation.
 Plan agreed with user:
 
 1. `mit` is complete at 100 files.
-2. `bei` now has 40 clean files at `101` through `140`.
-3. Next work for `bei` should continue with the remaining 4 continuation
+2. `bei` now has 55 clean files at `101` through `155`.
+3. Next work for `bei` should continue with the remaining 3 continuation
    batches of 15 after this checkpoint.
 3. After each 15-file batch:
    - run automated checks

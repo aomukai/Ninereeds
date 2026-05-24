@@ -17,7 +17,7 @@ Design reference: `docs/grammar_plan.md`
 | Directory structure | complete |
 | File naming convention | draft |
 | Generation prompts | in progress |
-| Generated files | `00_relation` complete; `mit` 100/100 generated and audited; `bei` 40/100 generated and audited |
+| Generated files | `00_relation` complete; `mit` 100/100 generated and audited; `bei` 55/100 generated and audited |
 | Validation scripts | in progress |
 | Corpus-builder integration | complete |
 
@@ -110,7 +110,7 @@ Validation focus:
 
 ### 01_means_dative_anchor
 
-Status: `mit` 100/100 generated and audited; `bei` 40/100 generated and audited; remaining dative-anchor prepositions not generated.
+Status: `mit` 100/100 generated and audited; `bei` 55/100 generated and audited; remaining dative-anchor prepositions not generated.
 
 Purpose: build the German dative retrieval pathway with always-dative
 prepositions before ambiguous two-way prepositions.
@@ -395,3 +395,4 @@ Add one line per generated/audited batch:
 | 2026-05-24 | `01_means_dative_anchor` / `bei` | 10 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `bei` drift scan + spot audit + full corpus dry-run pass | First pass exposed bad Japanese location particles for static activity; generator validation and notes were tightened, then the full 10-file audit batch was regenerated cleanly. |
 | 2026-05-24 | `01_means_dative_anchor` / `bei` | 25 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `bei` drift scan + spot audit + full corpus dry-run pass | First 15-file continuation batch completed without required rewrites after generation; static-near and person-place patterns remained stable. |
 | 2026-05-24 | `01_means_dative_anchor` / `bei` | 40 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `bei` drift scan + spot audit + full corpus dry-run pass | Second 15-file continuation batch completed without required rewrites after generation; static-near and person-place patterns remained stable. |
+| 2026-05-24 | `01_means_dative_anchor` / `bei` | 55 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `bei` drift scan + spot audit + full corpus dry-run pass | Third 15-file continuation batch completed without required rewrites after generation; static-near and person-place patterns remained stable. |
