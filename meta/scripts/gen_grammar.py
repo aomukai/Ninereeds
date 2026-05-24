@@ -127,6 +127,31 @@ def make_mit_specs() -> list[FileSpec]:
     ]
 
 
+def make_bei_audit_specs() -> list[FileSpec]:
+    """Initial audit batch for `bei` as static nearby relation / at a person's place."""
+    rows = [
+        ("101_bei_tree_static.md", "bei as nearby relation by a tree", ("by", "bei dem Baum", "tree"), "Use bei dem Baum. Japanese cue: 木のそばに. Chinese cue: 在樹旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("102_bei_house_static.md", "bei as nearby relation by a house", ("by", "bei dem Haus", "house"), "Use bei dem Haus. Japanese cue: 家のそばに. Chinese cue: 在房子旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("103_bei_school_static.md", "bei as nearby relation by a school", ("by", "bei der Schule", "school"), "Use bei der Schule. Japanese cue: 学校のそばに. Chinese cue: 在學校旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("104_bei_market_static.md", "bei as nearby relation by a market", ("by", "bei dem Markt", "market"), "Use bei dem Markt. Japanese cue: 市場のそばに. Chinese cue: 在市場旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("105_bei_park_static.md", "bei as nearby relation by a park", ("by", "bei dem Park", "park"), "Use bei dem Park. Japanese cue: 公園のそばに. Chinese cue: 在公園旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("106_bei_door_static.md", "bei as nearby relation by a door", ("by", "bei der Tür", "door"), "Use bei der Tür. Japanese cue: ドアのそばに. Chinese cue: 在門旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("107_bei_window_static.md", "bei as nearby relation by a window", ("by", "bei dem Fenster", "window"), "Use bei dem Fenster. Japanese cue: 窓のそばに. Chinese cue: 在窗邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("108_bei_bench_static.md", "bei as nearby relation by a bench", ("by", "bei der Bank", "bench"), "Use bei der Bank. Japanese cue: ベンチのそばに. Chinese cue: 在長椅旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
+        ("109_bei_doctor_place.md", "bei as at a person's place with a doctor", ("with", "bei dem Arzt", "doctor"), "Use bei dem Arzt. Japanese cue: 医者のところにいる / 医者のところで待つ. Chinese cue: 在醫生那裡. Keep the relation static or appointment-like, not movement to the doctor. English may say with the doctor or at the doctor's. Use only actions: is, waits, sits. For Japanese, use ところにいる for simple being and ところで for waiting or sitting."),
+        ("110_bei_teacher_place.md", "bei as at a person's place with a teacher", ("with", "bei dem Lehrer", "teacher"), "Use bei dem Lehrer. Japanese cue: 先生のところにいる / 先生のところで勉強する. Chinese cue: 在老師那裡. Keep the relation static or appointment-like, not movement to the teacher. English may say with the teacher or at the teacher's place. Use only actions: is, waits, sits, studies. For Japanese, use ところにいる for simple being and ところで for waiting, sitting, or studying."),
+    ]
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " Keep German dative form visible in every response. Use full forms such as bei dem / bei der, not contractions such as beim. Prefer common nouns such as the boy, the woman, the child, the man. Avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
 CLUSTERS: dict[str, list[FileSpec]] = {
     "00_relation": [
         FileSpec(
@@ -155,6 +180,7 @@ CLUSTERS: dict[str, list[FileSpec]] = {
         ),
     ],
     "01_means_dative_anchor": make_mit_specs(),
+    "01_means_dative_anchor_bei_audit": make_bei_audit_specs(),
 }
 
 
@@ -195,6 +221,7 @@ Content rules:
 - Every German line must be a complete sentence, not just a phrase.
 - Every English line must be a complete sentence, not just a phrase.
 - Preserve the same named subject across all four response lines.
+- Keep the same basic relation across the four response lines. Do not switch from static relation to movement unless the file notes explicitly allow that.
 """
 
 
@@ -293,6 +320,19 @@ def validate(text: str, spec: FileSpec) -> list[str]:
         errors.append("book files should use read/learn patterns, not show-with-book")
     if "_vehicle_airplane" in spec.path and re.search(r"\bfährt mit dem Flugzeug\b", text, re.I):
         errors.append("airplane files should use fliegt mit dem Flugzeug")
+    if "_bei_" in spec.path:
+        if re.search(r"\bbeim\b", text, re.I):
+            errors.append("bei audit files should use full forms like bei dem / bei der, not contractions")
+        if re.search(r"\b(go|goes|come|comes|travel|travels|move|moves|walk|walks|run|runs)\b", text, re.I):
+            errors.append("bei audit files should stay static and avoid movement verbs in English")
+        if re.search(r"\b(gehen|kommt|kommen|reist|reisen|läuft|laufen|fährt|fahren|bewegt|arbeitet)\b", text, re.I):
+            errors.append("bei audit files should stay static and avoid movement verbs in German")
+        if re.search(r"\b(行く|来る|歩く|走る|向かう|移動する)\b|去|來|走路|跑|前往|移動", text):
+            errors.append("bei audit files should stay static and avoid movement verbs in Japanese or Chinese")
+        if "_static" in spec.path and re.search(r"\b(wait|waits|work|works)\b|\b(wartet|arbeitet)\b|待つ|待って|働く|等待|工作", text):
+            errors.append("bei static files should stay with is/sits/stands, not wait/work")
+        if re.search(r"そばに待|そばに働|そばに勉強|ところに待|ところに座|ところに勉強", text):
+            errors.append("bei audit files have a bad Japanese location particle for static activity")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
