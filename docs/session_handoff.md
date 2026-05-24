@@ -73,7 +73,7 @@ What changed in this checkpoint:
     - `MAX_TOKENS = 32768`
     - `REQUEST_TIMEOUT = 300.0`
   - tightened validation for `mit` audit files
-- Generated first 40 `mit` files in:
+- Generated first 55 `mit` files in:
   - `training_data/grammar/01_means_dative_anchor/`
 - Tightened `mit` generation after the first continuation batch exposed object
   drift in instrument files.
@@ -113,17 +113,17 @@ training_data/grammar/01_means_dative_anchor/025_mit_vehicle_boat.md
 
 ## Validation Status
 
-Latest corpus dry-run passed after generating files `001` through `040`:
+Latest corpus dry-run passed after generating files `001` through `055`:
 
 ```text
-Files:    24,981 / 24,981 included
+Files:    24,996 / 24,996 included
 Skipped:  0
 All files validated — corpus is clean.
 ```
 
 Latest targeted `mit` checks passed:
 
-- all 40 generated `mit` files have 4 `[user]` / `[Ninereeds]` pairs
+- all 55 generated `mit` files have 4 `[user]` / `[Ninereeds]` pairs
 - no `mit das`
 - no `mit die`
 - no `mit den`
@@ -150,6 +150,8 @@ Additional audit finding from files `011` through `025`:
   rejects a small set of Simplified characters observed in this batch.
 - The second continuation batch produced demonstratives (`その`, `那個`) and
   wagon/horse-carriage drift; the generator now rejects those patterns.
+- The third continuation batch had one vehicle/animal validation failure for
+  `049_mit_vehicle_boat.md`; a clean retry was accepted.
 
 Conclusion:
 
@@ -164,9 +166,9 @@ Continue `mit` generation.
 
 Plan agreed with user:
 
-1. Keep the current 40-file `mit` set.
-2. Generate the next continuation batch: `041` through `055`
-   (`--offset 40 --limit 15`).
+1. Keep the current 55-file `mit` set.
+2. Generate the next continuation batch: `056` through `070`
+   (`--offset 55 --limit 15`).
 3. After each 15-file batch:
    - run automated checks
    - spot-audit 1-2 files manually
