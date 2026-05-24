@@ -44,6 +44,12 @@ import torch
 import torch.nn.functional as F
 from torch.optim.lr_scheduler import CosineAnnealingLR
 
+try:
+    import bitsandbytes.optim as bnb_optim
+    _BNB_AVAILABLE = True
+except ImportError:
+    _BNB_AVAILABLE = False
+
 from bdh import BDH, BDHConfig
 
 ROOT = Path(__file__).resolve().parent
@@ -102,6 +108,18 @@ XL_150M_CONFIG = BDHConfig(
     n_layer=6,
     n_embd=256,
     n_head=4,
+    mlp_internal_dim_multiplier=128,
+    vocab_size=256,
+    per_layer_weights=True,
+)
+
+# Per-layer model on wide dims (~600M params, 604M actual)
+# n_layer=6 matches 150M depth — only width scales (256→512), so comparison is clean.
+# n_layer=12 at these dims = 1.2B actual, static 19 GB fp32 — does not fit in 12 GB VRAM.
+XL_600M_CONFIG = BDHConfig(
+    n_layer=6,
+    n_embd=512,
+    n_head=8,
     mlp_internal_dim_multiplier=128,
     vocab_size=256,
     per_layer_weights=True,
@@ -198,12 +216,16 @@ def estimate_windows_and_batches(
     return num_windows, n_batches
 
 
-def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, device: torch.device):
+def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, device: torch.device, seed: int | None = None):
     """Yield (x, y) tensors from raw byte data indefinitely (one epoch pass).
 
     Accepts either raw bytes (converted once per call) or a pre-computed Long tensor.
     Pass a pre-converted tensor to avoid the expensive bytes→list→tensor conversion
     on every epoch.
+
+    seed: when provided, shuffles with an isolated Generator so model-init RNG state
+    does not affect data order. Pass seed=base_seed+epoch for deterministic per-epoch
+    order that is identical across model sizes.
     """
     if isinstance(data, torch.Tensor):
         ids = data
@@ -214,8 +236,11 @@ def make_batches(data: bytes | torch.Tensor, block_size: int, batch_size: int, d
 
     # All possible start indices
     starts = torch.arange(0, n_tokens - block_size, block_size, dtype=torch.long)
-    # Shuffle
-    perm = torch.randperm(len(starts))
+    # Shuffle with isolated generator so model init RNG doesn't affect data order
+    g = torch.Generator()
+    if seed is not None:
+        g.manual_seed(seed)
+    perm = torch.randperm(len(starts), generator=g)
     starts = starts[perm]
 
     emitted = 0
@@ -251,6 +276,7 @@ def make_jsonl_batches(
     eot_byte: int,
     prompt_tail_bytes: int,
     prompt_loss_weight: float,
+    seed: int | None = None,
 ):
     """Yield (x, y, mask) for prompt/completion JSONL training.
 
@@ -258,12 +284,17 @@ def make_jsonl_batches(
     - completion/EOT tokens: 1.0
     - prompt tokens: prompt_loss_weight
     - padded tokens: 0.0
+
+    seed: see make_batches — isolated Generator keeps data order independent of model init.
     """
     if block_size <= 0:
         raise ValueError(f"block_size must be > 0 (got {block_size}).")
 
     n = len(examples)
-    order = torch.randperm(n).tolist()
+    g = torch.Generator()
+    if seed is not None:
+        g.manual_seed(seed)
+    order = torch.randperm(n, generator=g).tolist()
     n_batches = estimate_jsonl_batches(n, batch_size)
     emitted = 0
 
@@ -385,8 +416,10 @@ def train(
     grad_accum_steps: int,
     amp_bf16: bool,
     log_vram: bool,
+    adam8bit: bool,
     scale: bool,
     scale_150m: bool,
+    scale_600m: bool,
     jsonl_data: Path | None,
     mask_instruction_loss: bool,
     response_delimiter: bytes,
@@ -436,7 +469,10 @@ def train(
     total_updates = epochs * updates_per_epoch
 
     # --- Model ---
-    if scale_150m:
+    if scale_600m:
+        config = XL_600M_CONFIG
+        model_name = "xl-600m"
+    elif scale_150m:
         config = XL_150M_CONFIG
         model_name = "xl-150m"
     elif scale:
@@ -456,7 +492,13 @@ def train(
         print("  Training from scratch.")
 
     # --- Optimizer & scheduler ---
-    optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=0.1)
+    if adam8bit:
+        if not _BNB_AVAILABLE:
+            raise RuntimeError("--adam8bit requires bitsandbytes: pip install bitsandbytes")
+        optimizer = bnb_optim.AdamW8bit(model.parameters(), lr=lr, weight_decay=0.1)
+        print("  Optimizer: AdamW8bit (bitsandbytes) — optimizer states in 8-bit")
+    else:
+        optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=0.1)
     scheduler = CosineAnnealingLR(optimizer, T_max=total_updates, eta_min=lr * 0.1)
 
     print(f"  Seed: {seed}  |  Deterministic: enabled")
@@ -505,9 +547,10 @@ def train(
                 eot_byte=eot_byte,
                 prompt_tail_bytes=prompt_tail_bytes,
                 prompt_loss_weight=prompt_loss_weight,
+                seed=seed + epoch,
             )
         else:
-            batch_iter = make_batches(data, block_size, batch_size, device)
+            batch_iter = make_batches(data, block_size, batch_size, device, seed=seed + epoch)
 
         for step_in_epoch, batch in enumerate(batch_iter, start=1):
             if data_mode == "jsonl":
@@ -674,6 +717,8 @@ def main() -> None:
                         help="Enable CUDA AMP autocast with bfloat16")
     parser.add_argument("--log-vram", action="store_true",
                         help="Log CUDA VRAM usage during training progress updates")
+    parser.add_argument("--adam8bit", action="store_true",
+                        help="Use bitsandbytes AdamW8bit optimizer (reduces optimizer VRAM ~4x; requires bitsandbytes)")
     parser.add_argument("--allow-fresh-start", action="store_true",
                         help="Explicitly allow phase 2+ training without --resume")
     parser.add_argument("--jsonl-data", type=Path, default=None,
@@ -692,6 +737,8 @@ def main() -> None:
                         help="Use larger model config (~100M params)")
     parser.add_argument("--scale-150m", action="store_true",
                         help="Use per-layer 6x model config (~150M params)")
+    parser.add_argument("--scale-600m", action="store_true",
+                        help="Use per-layer 6x large model config (~600M params)")
     parser.add_argument("--corpus-file", type=Path, default=None,
                         help="Pre-assembled corpus text file (overrides PHASE_FILES lookup; "
                              "use with --phase 0 for a full corpus run)")
@@ -720,8 +767,8 @@ def main() -> None:
             f"Phase {args.phase} requires --resume <checkpoint> to continue from prior phase. "
             "If you intentionally want to start fresh, add --allow-fresh-start."
         )
-    if args.scale and args.scale_150m:
-        parser.error("Choose only one scale mode: --scale or --scale-150m.")
+    if sum([args.scale, args.scale_150m, args.scale_600m]) > 1:
+        parser.error("Choose only one scale mode: --scale, --scale-150m, or --scale-600m.")
     if args.resume is not None and not args.resume.exists():
         parser.error(f"--resume checkpoint not found: {args.resume}")
     if args.jsonl_data is not None and not args.jsonl_data.exists():
@@ -769,8 +816,10 @@ def main() -> None:
         grad_accum_steps=args.grad_accum_steps,
         amp_bf16=args.amp_bf16,
         log_vram=args.log_vram,
+        adam8bit=args.adam8bit,
         scale=args.scale,
         scale_150m=args.scale_150m,
+        scale_600m=args.scale_600m,
         jsonl_data=args.jsonl_data,
         mask_instruction_loss=args.mask_instruction_loss,
         response_delimiter=args.response_delimiter.encode("utf-8"),
