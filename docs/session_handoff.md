@@ -175,9 +175,9 @@ Continue `mit` generation.
 Plan agreed with user:
 
 1. `mit` is complete at 100 files.
-2. `bei` now has 70 clean files at `101` through `170`.
-3. Next work for `bei` should continue with the remaining 2 continuation
-   batches of 15 after this checkpoint.
+2. `bei` is now complete at 100 clean files, `101` through `200`.
+3. Next work should move to the next dative-anchor preposition using the same
+   pattern: 10-file audit batch first, then 6 continuation batches of 15.
 3. After each 15-file batch:
    - run automated checks
    - spot-audit 1-2 files manually
