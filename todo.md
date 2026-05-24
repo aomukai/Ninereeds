@@ -118,7 +118,67 @@ Grammar corpus constraints:
 
 ## Phase B — Grammar Generation
 
-Status: not started.
+Status: in progress. `01_means_dative_anchor` is the active cluster.
+
+**Resume here next session.** Read `claude.md` and this file — no other handoff
+doc is needed.
+
+### Active cluster: `01_means_dative_anchor`
+
+Five always-dative prepositions complete as of 2026-05-25:
+
+| Preposition | Files | Range | Status |
+|---|---|---|---|
+| `mit` | 100 | 001–100 | done |
+| `bei` | 100 | 101–200 | done |
+| `aus` | 100 | 201–300 | done |
+| `von` | 100 | 301–400 | done |
+| `zu` | 100 | 401–500 | done |
+
+**Next preposition: `nach`** (files 501–600)
+
+`nach` = to a city/direction, or after (temporal); always dative; no article
+when used with place names (`nach Berlin`, `nach Hause`), but uses `zu` with
+articles. For the grammar corpus focus on `nach` + dative place patterns
+(`nach dem Markt`? — no, `nach` takes bare names). Check `prepositions.md`
+when designing specs: `nach` is Tier 2, target 50–100 files.
+
+**Known working protocol (do not skip steps):**
+
+1. Add `make_nach_audit_specs()` to `meta/scripts/gen_grammar.py` following
+   the pattern of `make_zu_audit_specs()`.
+2. Add `_nach_` drift guards to the validator.
+3. Add the cluster key to `CLUSTERS`.
+4. Dry-run to confirm file list (501–510 audit, 511–600 continuation).
+5. Generate the 10-file audit batch.
+6. Spot-audit and run `python3 meta/scripts/build_training_corpus.py --dry-run`.
+7. If clean: run 6 batches of 15, dry-run + spot-audit after each.
+8. Commit at the end, update manifest and this file.
+
+Generation command pattern:
+```bash
+python3 meta/scripts/gen_grammar.py --cluster 01_means_dative_anchor_nach_audit --limit 10
+python3 meta/scripts/gen_grammar.py --cluster 01_means_dative_anchor_nach_audit --offset 10 --limit 15
+```
+
+Regenerate a failed file (never written on FAIL):
+```bash
+python3 meta/scripts/gen_grammar.py --cluster 01_means_dative_anchor_nach_audit --match "NNN"
+```
+
+Corpus validation after each batch:
+```bash
+python3 meta/scripts/build_training_corpus.py --dry-run
+```
+
+### Remaining always-dative anchors after `nach`
+
+From `training_data/grammar/prepositions.md` Tier 2:
+
+| Preposition | Notes |
+|---|---|
+| `seit` | since / for — temporal; leave until after spatial anchors complete |
+| `gegenüber` | opposite — static spatial; leave until after spatial anchors complete |
 
 Generate with DeepSeek one directory at a time.
 
@@ -137,8 +197,8 @@ Target count from `docs/grammar_plan.md`:
 
 | Directory | Approx files | Purpose |
 |---|---:|---|
-| `00_relation` | 4 | relation vocabulary |
-| `01_means_dative_anchor` | 24 | always-dative anchors, especially `mit` |
+| `00_relation` | 4 | relation vocabulary — done |
+| `01_means_dative_anchor` | 500+ | always-dative anchors — in progress |
 | `02_receiver_dative` | 16 | recipient / indirect object |
 | `03_place_static_dative` | 24 | static spatial dative |
 | `04_change_state` | 12 | becoming / state change |
