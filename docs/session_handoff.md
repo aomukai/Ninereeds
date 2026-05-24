@@ -175,9 +175,9 @@ Continue `mit` generation.
 Plan agreed with user:
 
 1. `mit` is complete at 100 files.
-2. `bei` now has a clean 10-file audit batch at files `101` through `110`.
-3. Next work for `bei` should follow the same scaling protocol:
-   6 continuation batches of 15 after this audit checkpoint.
+2. `bei` now has 25 clean files at `101` through `125`.
+3. Next work for `bei` should continue with the remaining 5 continuation
+   batches of 15 after this checkpoint.
 3. After each 15-file batch:
    - run automated checks
    - spot-audit 1-2 files manually

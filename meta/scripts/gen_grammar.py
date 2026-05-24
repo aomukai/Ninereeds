@@ -129,7 +129,7 @@ def make_mit_specs() -> list[FileSpec]:
 
 def make_bei_audit_specs() -> list[FileSpec]:
     """Initial audit batch for `bei` as static nearby relation / at a person's place."""
-    rows = [
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
         ("101_bei_tree_static.md", "bei as nearby relation by a tree", ("by", "bei dem Baum", "tree"), "Use bei dem Baum. Japanese cue: 木のそばに. Chinese cue: 在樹旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
         ("102_bei_house_static.md", "bei as nearby relation by a house", ("by", "bei dem Haus", "house"), "Use bei dem Haus. Japanese cue: 家のそばに. Chinese cue: 在房子旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
         ("103_bei_school_static.md", "bei as nearby relation by a school", ("by", "bei der Schule", "school"), "Use bei der Schule. Japanese cue: 学校のそばに. Chinese cue: 在學校旁邊. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer questions like Where is X? or Where does X sit/stand?"),
@@ -141,6 +141,45 @@ def make_bei_audit_specs() -> list[FileSpec]:
         ("109_bei_doctor_place.md", "bei as at a person's place with a doctor", ("with", "bei dem Arzt", "doctor"), "Use bei dem Arzt. Japanese cue: 医者のところにいる / 医者のところで待つ. Chinese cue: 在醫生那裡. Keep the relation static or appointment-like, not movement to the doctor. English may say with the doctor or at the doctor's. Use only actions: is, waits, sits. For Japanese, use ところにいる for simple being and ところで for waiting or sitting."),
         ("110_bei_teacher_place.md", "bei as at a person's place with a teacher", ("with", "bei dem Lehrer", "teacher"), "Use bei dem Lehrer. Japanese cue: 先生のところにいる / 先生のところで勉強する. Chinese cue: 在老師那裡. Keep the relation static or appointment-like, not movement to the teacher. English may say with the teacher or at the teacher's place. Use only actions: is, waits, sits, studies. For Japanese, use ところにいる for simple being and ところで for waiting, sitting, or studying."),
     ]
+
+    static_anchors = [
+        ("tree", "bei dem Baum", "木のそばに", "在樹旁邊"),
+        ("house", "bei dem Haus", "家のそばに", "在房子旁邊"),
+        ("school", "bei der Schule", "学校のそばに", "在學校旁邊"),
+        ("market", "bei dem Markt", "市場のそばに", "在市場旁邊"),
+        ("park", "bei dem Park", "公園のそばに", "在公園旁邊"),
+        ("door", "bei der Tür", "ドアのそばに", "在門旁邊"),
+        ("window", "bei dem Fenster", "窓のそばに", "在窗邊"),
+        ("bench", "bei der Bank", "ベンチのそばに", "在長椅旁邊"),
+    ]
+    person_places = [
+        ("doctor", "bei dem Arzt", "医者のところ", "在醫生那裡"),
+        ("teacher", "bei dem Lehrer", "先生のところ", "在老師那裡"),
+    ]
+
+    next_id = 111
+    while next_id <= 200:
+        kind = (next_id - 111) % 3
+        if kind in (0, 1):
+            noun, dative, jp_cue, zh_cue = static_anchors[((next_id - 111) // 2) % len(static_anchors)]
+            filename = f"{next_id:03d}_bei_{noun}_static.md"
+            rows.append((
+                filename,
+                f"bei as static nearby relation by a {noun}",
+                ("by", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation static and nearby, not inside or moving into. Use only static actions: is, sits, stands. Prefer simple location questions and answers.",
+            ))
+        else:
+            noun, dative, jp_cue, zh_cue = person_places[((next_id - 113) // 3) % len(person_places)]
+            filename = f"{next_id:03d}_bei_{noun}_place.md"
+            rows.append((
+                filename,
+                f"bei as at a person's place with a {noun}",
+                ("with", dative, noun),
+                f"Use {dative}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation static or appointment-like, not movement to the {noun}. English may say with the {noun} or at the {noun}'s place. Use only actions: is, waits, sits, studies if the noun is teacher. For Japanese, use ところにいる for simple being and ところで for waiting, sitting, or studying.",
+            ))
+        next_id += 1
+
     return [
         FileSpec(
             path=f"01_means_dative_anchor/{filename}",
