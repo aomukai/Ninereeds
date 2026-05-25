@@ -181,28 +181,19 @@ Requirements:
 
 Generation command pattern:
 ```bash
-python3 meta/scripts/gen_grammar.py --cluster 01_means_dative_anchor_nach_audit --limit 10
-python3 meta/scripts/gen_grammar.py --cluster 01_means_dative_anchor_nach_audit --offset 10 --limit 15
+python3 meta/scripts/gen_grammar.py --cluster 04_change_state --limit 6
+python3 meta/scripts/gen_grammar.py --cluster 04_change_state --offset 6
 ```
 
 Regenerate a failed file (never written on FAIL):
 ```bash
-python3 meta/scripts/gen_grammar.py --cluster 01_means_dative_anchor_nach_audit --match "NNN"
+python3 meta/scripts/gen_grammar.py --cluster 04_change_state --match "NNN" --force
 ```
 
 Corpus validation after each batch:
 ```bash
 python3 meta/scripts/build_training_corpus.py --dry-run
 ```
-
-### Remaining always-dative anchors after `nach`
-
-From `training_data/grammar/prepositions.md` Tier 2:
-
-| Preposition | Notes |
-|---|---|
-| `seit` | since / for — temporal; leave until after spatial anchors complete |
-| `gegenüber` | opposite — static spatial; leave until after spatial anchors complete |
 
 Generate with DeepSeek one directory at a time.
 
