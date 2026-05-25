@@ -118,14 +118,12 @@ Grammar corpus constraints:
 
 ## Phase B — Grammar Generation
 
-Status: in progress. `01_means_dative_anchor` is the active cluster.
+Status: `01_means_dative_anchor` complete. Active work is now `02_receiver_dative`.
 
 **Resume here next session.** Read `claude.md` and this file — no other handoff
 doc is needed.
 
-### Active cluster: `01_means_dative_anchor`
-
-Five always-dative prepositions complete as of 2026-05-25:
+### Completed: `01_means_dative_anchor` — 800 files, all 8 prepositions at 100 each
 
 | Preposition | Files | Range | Status |
 |---|---|---|---|
@@ -134,26 +132,49 @@ Five always-dative prepositions complete as of 2026-05-25:
 | `aus` | 100 | 201–300 | done |
 | `von` | 100 | 301–400 | done |
 | `zu` | 100 | 401–500 | done |
+| `nach` | 100 | 501–600 | done |
+| `seit` | 100 | 601–700 | done |
+| `gegenüber` | 100 | 701–800 | done |
 
-**Next preposition: `nach`** (files 501–600)
+### Completed: `02_receiver_dative` — 16 files, all 8 verbs
 
-`nach` = to a city/direction, or after (temporal); always dative; no article
-when used with place names (`nach Berlin`, `nach Hause`), but uses `zu` with
-articles. For the grammar corpus focus on `nach` + dative place patterns
-(`nach dem Markt`? — no, `nach` takes bare names). Check `prepositions.md`
-when designing specs: `nach` is Tier 2, target 50–100 files.
+Status: complete 2026-05-26. Spot audit clean. Full corpus dry-run pass.
 
-**Known working protocol (do not skip steps):**
+### Completed: `bridge_course` — 100 files
 
-1. Add `make_nach_audit_specs()` to `meta/scripts/gen_grammar.py` following
-   the pattern of `make_zu_audit_specs()`.
-2. Add `_nach_` drift guards to the validator.
-3. Add the cluster key to `CLUSTERS`.
-4. Dry-run to confirm file list (501–510 audit, 511–600 continuation).
-5. Generate the 10-file audit batch.
-6. Spot-audit and run `python3 meta/scripts/build_training_corpus.py --dry-run`.
-7. If clean: run 6 batches of 15, dry-run + spot-audit after each.
-8. Commit at the end, update manifest and this file.
+Status: complete 2026-05-26. All 3 groups generated and validated. Corpus builder updated with bridge dispatcher. Corpus dry-run pass: 921/921 grammar files included.
+
+Groups: A (001–050) ditransitive Wer/Wem/Was, B (051–070) ditransitive+genitive Wer/Wem/Was/Wessen, C (071–100) pure-dative Wer/Wem.
+
+### Active cluster: `03_place_static_dative`
+
+Status: specs not yet written. This is the first task for the next session.
+
+Target: 16 files. Purpose: recipient / indirect-object patterns with visibly
+marked dative (`dem Jungen`, `der Frau`, `dem Kind`, etc.).
+
+Core German patterns to cover:
+
+- `Emma gibt dem Jungen den Apfel.`
+- `Taro zeigt der Frau das Buch.`
+- `Gran hilft dem Arzt.`
+- `Emma schickt dem Kind den Brief.`
+
+Requirements:
+- Receiver dative must be visibly marked (avoid bare proper-name receivers).
+- Accusative object may appear alongside, but the file target is the receiver.
+- JP cross-cue: `に` for receiver.
+- ZH cross-cue: `給` or similar beneficiary marker.
+- 4 pairs per file, EN/DE/JP/ZH format (same as all other grammar files).
+
+**Steps to start:**
+
+1. Add `make_receiver_dative_specs()` to `meta/scripts/gen_grammar.py`
+   following the pattern of earlier spec functions.
+2. Add `_receiver_dative_` drift guards to the validator.
+3. Add cluster key to `CLUSTERS`.
+4. Dry-run, audit batch of 10, corpus check, then remaining 6 files.
+5. Update manifest and this file when done.
 
 Generation command pattern:
 ```bash

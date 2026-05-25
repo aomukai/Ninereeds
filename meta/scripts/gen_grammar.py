@@ -395,6 +395,522 @@ def make_zu_audit_specs() -> list[FileSpec]:
     ]
 
 
+def make_nach_audit_specs() -> list[FileSpec]:
+    """Audit batch for `nach` as direction to a city/place or temporal after."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        ("501_nach_berlin_city.md", "nach as direction toward Berlin as a city destination", ("to", "nach Berlin", "Berlin"), "Use nach Berlin with no article. Japanese cue: ベルリンへ. Chinese cue: 往柏林. Keep the relation as movement toward a city. Use movement-toward patterns such as goes to, travels to, flies to. Do not use nach dem or nach der."),
+        ("502_nach_japan_city.md", "nach as direction toward Japan as a country destination", ("to", "nach Japan", "Japan"), "Use nach Japan with no article. Japanese cue: 日本へ. Chinese cue: 往日本. Keep the relation as movement toward a country. Use movement-toward patterns such as goes to, travels to, flies to. Do not use nach dem or nach der."),
+        ("503_nach_hause_home.md", "nach as direction toward home in the fixed phrase nach Hause", ("home", "nach Hause"), "Use nach Hause. This is a fixed phrase meaning toward home. No article. Japanese cue: 家へ. Chinese cue: 回家. Keep movement-homeward meaning. Do not use nach dem Haus. Do not use static zu Hause."),
+        ("504_nach_links_direction.md", "nach as orientation toward the left direction", ("nach links", "left"), "Use nach links with no article. Japanese cue: 左へ. Chinese cue: 向左. Keep the relation as turning or moving toward the left. Do not use nach dem or nach der."),
+        ("505_nach_rechts_direction.md", "nach as orientation toward the right direction", ("nach rechts", "right"), "Use nach rechts with no article. Japanese cue: 右へ. Chinese cue: 向右. Keep the relation as turning or moving toward the right. Do not use nach dem or nach der."),
+        ("506_nach_school_temporal.md", "nach as temporal meaning after school", ("after", "nach der Schule", "school"), "Use nach der Schule. Japanese cue: 学校の後で. Chinese cue: 上學之後. Keep temporal sequence meaning: something happens after school ends. Do not use zu der Schule or in die Schule. This is a time relation, not a place destination."),
+        ("507_nach_breakfast_temporal.md", "nach as temporal meaning after breakfast", ("after", "nach dem Frühstück", "breakfast"), "Use nach dem Frühstück. Japanese cue: 朝食の後で. Chinese cue: 早餐之後. Keep temporal sequence meaning: something happens after breakfast ends. This is a time relation, not a place destination."),
+        ("508_nach_hamburg_city.md", "nach as direction toward Hamburg as a city destination", ("to", "nach Hamburg", "Hamburg"), "Use nach Hamburg with no article. Japanese cue: ハンブルクへ. Chinese cue: 往漢堡. Keep the relation as movement toward a city. Use movement-toward patterns such as goes to, travels to, drives to. Do not use nach dem or nach der."),
+        ("509_nach_oben_direction.md", "nach as direction upward", ("nach oben", "up"), "Use nach oben with no article. Japanese cue: 上へ. Chinese cue: 向上. Keep the relation as movement upward. Do not use nach dem or nach der."),
+        ("510_nach_work_temporal.md", "nach as temporal meaning after work", ("after", "nach der Arbeit", "work"), "Use nach der Arbeit. Japanese cue: 仕事の後で. Chinese cue: 下班之後. Keep temporal sequence meaning: something happens after work ends. This is a time relation, not a place destination."),
+    ]
+
+    city_destinations = [
+        ("berlin", "nach Berlin", "ベルリンへ", "往柏林"),
+        ("hamburg", "nach Hamburg", "ハンブルクへ", "往漢堡"),
+        ("munich", "nach München", "ミュンヘンへ", "往慕尼黑"),
+        ("vienna", "nach Wien", "ウィーンへ", "往維也納"),
+        ("paris", "nach Paris", "パリへ", "往巴黎"),
+        ("london", "nach London", "ロンドンへ", "往倫敦"),
+        ("japan", "nach Japan", "日本へ", "往日本"),
+        ("rome", "nach Rom", "ローマへ", "往羅馬"),
+        ("korea", "nach Korea", "韓国へ", "往韓國"),
+        ("china", "nach China", "中国へ", "往中國"),
+    ]
+    direction_words = [
+        ("links", "nach links", "左へ", "向左", "left", "toward the left"),
+        ("rechts", "nach rechts", "右へ", "向右", "right", "toward the right"),
+        ("oben", "nach oben", "上へ", "向上", "up", "upward"),
+        ("unten", "nach unten", "下へ", "向下", "down", "downward"),
+        ("vorne", "nach vorne", "前へ", "向前", "forward", "forward"),
+        ("hinten", "nach hinten", "後ろへ", "向後", "back", "backward"),
+        ("norden", "nach Norden", "北へ", "往北", "north", "toward the north"),
+        ("sueden", "nach Süden", "南へ", "往南", "south", "toward the south"),
+    ]
+    temporal_nouns = [
+        ("school_temporal", "nach der Schule", "school", "学校の後で", "上學之後"),
+        ("work_temporal", "nach der Arbeit", "work", "仕事の後で", "下班之後"),
+        ("break_temporal", "nach der Pause", "break", "休憩の後で", "休息之後"),
+        ("breakfast_temporal", "nach dem Frühstück", "breakfast", "朝食の後で", "早餐之後"),
+        ("lunch_temporal", "nach dem Mittagessen", "lunch", "昼食の後で", "午餐之後"),
+        ("dinner_temporal", "nach dem Abendessen", "dinner", "夕食の後で", "晚餐之後"),
+        ("game_temporal", "nach dem Spiel", "game", "遊びの後で", "遊戲之後"),
+        ("training_temporal", "nach dem Training", "training", "練習の後で", "訓練之後"),
+        ("lesson_temporal", "nach dem Unterricht", "lesson", "授業の後で", "課後"),
+        ("meal_temporal", "nach dem Essen", "meal", "食事の後で", "用餐之後"),
+    ]
+
+    next_id = 511
+    while next_id <= 600:
+        offset = next_id - 511
+        kind = offset % 3
+        if kind == 0:
+            noun, de_form, jp_cue, zh_cue = city_destinations[(offset // 3) % len(city_destinations)]
+            filename = f"{next_id:03d}_nach_{noun}_city.md"
+            rows.append((
+                filename,
+                f"nach as direction toward {noun} as a city or country destination",
+                ("to", de_form, noun),
+                f"Use {de_form} with no article. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as movement toward a destination. Use movement-toward patterns: goes to, travels to, flies to, drives to. Do not use nach dem or nach der.",
+            ))
+        elif kind == 1:
+            slug, de_form, jp_cue, zh_cue, en_req, en_desc = direction_words[(offset // 3) % len(direction_words)]
+            filename = f"{next_id:03d}_nach_{slug}_direction.md"
+            rows.append((
+                filename,
+                f"nach as direction {en_desc}",
+                (de_form, en_req),
+                f"Use {de_form} with no article. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation as movement or orientation {en_desc}. Do not use nach dem or nach der.",
+            ))
+        else:
+            slug, de_form, en_noun, jp_cue, zh_cue = temporal_nouns[(offset // 3) % len(temporal_nouns)]
+            filename = f"{next_id:03d}_nach_{slug}.md"
+            rows.append((
+                filename,
+                f"nach as temporal meaning after {en_noun}",
+                ("after", de_form, en_noun),
+                f"Use {de_form}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep temporal sequence meaning: something happens after {en_noun} ends. This is a time relation, not a place destination.",
+            ))
+        next_id += 1
+
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " nach is always dative. For city and direction destinations use the bare name form without article. For temporal after-meaning show the dative article dem or der clearly. Prefer common nouns and avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
+def make_seit_specs() -> list[FileSpec]:
+    """Specs for `seit` as ongoing duration/since (always dative, temporal only)."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        ("601_seit_school_temporal.md", "seit as ongoing duration since school", ("since", "seit der Schule", "school"), "Use seit der Schule. Japanese cue: 学校からずっと. Chinese cue: 從上學以來. Keep the ongoing duration meaning: something has been happening since school started or ended. Do not use nach der Schule or zu der Schule."),
+        ("602_seit_work_temporal.md", "seit as ongoing duration since work", ("since", "seit der Arbeit", "work"), "Use seit der Arbeit. Japanese cue: 仕事からずっと. Chinese cue: 從工作以來. Keep the ongoing duration meaning: something has been happening since work began or ended. Do not use nach der Arbeit."),
+        ("603_seit_breakfast_temporal.md", "seit as ongoing duration since breakfast", ("since", "seit dem Frühstück", "breakfast"), "Use seit dem Frühstück. Japanese cue: 朝食からずっと. Chinese cue: 從早餐以來. Keep the ongoing duration meaning: something has been happening since breakfast. Do not use nach dem Frühstück."),
+        ("604_seit_lunch_temporal.md", "seit as ongoing duration since lunch", ("since", "seit dem Mittagessen", "lunch"), "Use seit dem Mittagessen. Japanese cue: 昼食からずっと. Chinese cue: 從午餐以來. Keep the ongoing duration meaning: something has been happening since lunch. Do not use nach dem Mittagessen."),
+        ("605_seit_dinner_temporal.md", "seit as ongoing duration since dinner", ("since", "seit dem Abendessen", "dinner"), "Use seit dem Abendessen. Japanese cue: 夕食からずっと. Chinese cue: 從晚餐以來. Keep the ongoing duration meaning: something has been happening since dinner. Do not use nach dem Abendessen."),
+        ("606_seit_game_temporal.md", "seit as ongoing duration since the game", ("since", "seit dem Spiel", "game"), "Use seit dem Spiel. Japanese cue: 遊びからずっと. Chinese cue: 從遊戲以來. Keep the ongoing duration meaning: something has been happening since the game. Do not use nach dem Spiel."),
+        ("607_seit_training_temporal.md", "seit as ongoing duration since training", ("since", "seit dem Training", "training"), "Use seit dem Training. Japanese cue: 練習からずっと. Chinese cue: 從訓練以來. Keep the ongoing duration meaning: something has been happening since training. Do not use nach dem Training."),
+        ("608_seit_lesson_temporal.md", "seit as ongoing duration since the lesson", ("since", "seit dem Unterricht", "lesson"), "Use seit dem Unterricht. Japanese cue: 授業からずっと. Chinese cue: 從課堂以來. Keep the ongoing duration meaning: something has been happening since the lesson. Do not use nach dem Unterricht."),
+        ("609_seit_break_temporal.md", "seit as ongoing duration since the break", ("since", "seit der Pause", "break"), "Use seit der Pause. Japanese cue: 休憩からずっと. Chinese cue: 從休息以來. Keep the ongoing duration meaning: something has been happening since the break. Do not use nach der Pause."),
+        ("610_seit_meal_temporal.md", "seit as ongoing duration since the meal", ("since", "seit dem Essen", "meal"), "Use seit dem Essen. Japanese cue: 食事からずっと. Chinese cue: 從用餐以來. Keep the ongoing duration meaning: something has been happening since the meal. Do not use nach dem Essen."),
+    ]
+
+    temporal_nouns = [
+        ("school_temporal", "seit der Schule", "school", "学校からずっと", "從上學以來"),
+        ("work_temporal", "seit der Arbeit", "work", "仕事からずっと", "從工作以來"),
+        ("break_temporal", "seit der Pause", "break", "休憩からずっと", "從休息以來"),
+        ("breakfast_temporal", "seit dem Frühstück", "breakfast", "朝食からずっと", "從早餐以來"),
+        ("lunch_temporal", "seit dem Mittagessen", "lunch", "昼食からずっと", "從午餐以來"),
+        ("dinner_temporal", "seit dem Abendessen", "dinner", "夕食からずっと", "從晚餐以來"),
+        ("game_temporal", "seit dem Spiel", "game", "遊びからずっと", "從遊戲以來"),
+        ("training_temporal", "seit dem Training", "training", "練習からずっと", "從訓練以來"),
+        ("lesson_temporal", "seit dem Unterricht", "lesson", "授業からずっと", "從課堂以來"),
+        ("meal_temporal", "seit dem Essen", "meal", "食事からずっと", "從用餐以來"),
+    ]
+
+    next_id = 611
+    while next_id <= 700:
+        offset = next_id - 611
+        slug, de_form, en_noun, jp_cue, zh_cue = temporal_nouns[offset % len(temporal_nouns)]
+        filename = f"{next_id:03d}_seit_{slug}.md"
+        rows.append((
+            filename,
+            f"seit as ongoing duration since {en_noun}",
+            ("since", de_form, en_noun),
+            f"Use {de_form}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the ongoing duration meaning: something has been happening since {en_noun}. Do not use nach or zu forms.",
+        ))
+        next_id += 1
+
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " seit is always dative. Show the dative article dem or der clearly. Keep the since/for ongoing-duration meaning, not the after-sequence meaning. Prefer common nouns and avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
+def make_gegenueber_specs() -> list[FileSpec]:
+    """Specs for `gegenüber` as static opposite/across-from relation (always dative)."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        ("701_gegenueber_park_static.md", "gegenüber as static opposite relation across from a park", ("opposite", "gegenüber dem Park", "park"), "Use gegenüber dem Park. Japanese cue: 公園の向かいに. Chinese cue: 在公園對面. Keep the relation static and across-from, not nearby and not inside. Use only static actions: is, sits, stands, lies. Do not use bei dem Park."),
+        ("702_gegenueber_school_static.md", "gegenüber as static opposite relation across from a school", ("opposite", "gegenüber der Schule", "school"), "Use gegenüber der Schule. Japanese cue: 学校の向かいに. Chinese cue: 在學校對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei der Schule."),
+        ("703_gegenueber_market_static.md", "gegenüber as static opposite relation across from a market", ("opposite", "gegenüber dem Markt", "market"), "Use gegenüber dem Markt. Japanese cue: 市場の向かいに. Chinese cue: 在市場對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei dem Markt."),
+        ("704_gegenueber_house_static.md", "gegenüber as static opposite relation across from a house", ("opposite", "gegenüber dem Haus", "house"), "Use gegenüber dem Haus. Japanese cue: 家の向かいに. Chinese cue: 在房子對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei dem Haus."),
+        ("705_gegenueber_tree_static.md", "gegenüber as static opposite relation across from a tree", ("opposite", "gegenüber dem Baum", "tree"), "Use gegenüber dem Baum. Japanese cue: 木の向かいに. Chinese cue: 在樹對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei dem Baum."),
+        ("706_gegenueber_bench_static.md", "gegenüber as static opposite relation across from a bench", ("opposite", "gegenüber der Bank", "bench"), "Use gegenüber der Bank. Japanese cue: ベンチの向かいに. Chinese cue: 在長椅對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei der Bank."),
+        ("707_gegenueber_bridge_static.md", "gegenüber as static opposite relation across from a bridge", ("opposite", "gegenüber der Brücke", "bridge"), "Use gegenüber der Brücke. Japanese cue: 橋の向かいに. Chinese cue: 在橋對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei der Brücke."),
+        ("708_gegenueber_garden_static.md", "gegenüber as static opposite relation across from a garden", ("opposite", "gegenüber dem Garten", "garden"), "Use gegenüber dem Garten. Japanese cue: 庭の向かいに. Chinese cue: 在花園對面. Keep the relation static and across-from. Use only static actions: is, sits, stands. Do not use bei dem Garten."),
+        ("709_gegenueber_doctor_person.md", "gegenüber as sitting opposite a person — the doctor", ("opposite", "gegenüber dem Arzt", "doctor"), "Use gegenüber dem Arzt. Japanese cue: 医者の向かいに. Chinese cue: 在醫生對面. Keep the relation static and face-to-face, not nearby and not movement toward. Use only static actions: is, sits. Do not use bei dem Arzt."),
+        ("710_gegenueber_teacher_person.md", "gegenüber as sitting opposite a person — the teacher", ("opposite", "gegenüber dem Lehrer", "teacher"), "Use gegenüber dem Lehrer. Japanese cue: 先生の向かいに. Chinese cue: 在老師對面. Keep the relation static and face-to-face, not nearby and not movement toward. Use only static actions: is, sits. Do not use bei dem Lehrer."),
+    ]
+
+    static_anchors = [
+        ("park", "gegenüber dem Park", "公園の向かいに", "在公園對面"),
+        ("school", "gegenüber der Schule", "学校の向かいに", "在學校對面"),
+        ("market", "gegenüber dem Markt", "市場の向かいに", "在市場對面"),
+        ("house", "gegenüber dem Haus", "家の向かいに", "在房子對面"),
+        ("tree", "gegenüber dem Baum", "木の向かいに", "在樹對面"),
+        ("bench", "gegenüber der Bank", "ベンチの向かいに", "在長椅對面"),
+        ("bridge", "gegenüber der Brücke", "橋の向かいに", "在橋對面"),
+        ("garden", "gegenüber dem Garten", "庭の向かいに", "在花園對面"),
+        ("restaurant", "gegenüber dem Restaurant", "レストランの向かいに", "在餐廳對面"),
+        ("river", "gegenüber dem Fluss", "川の向かいに", "在河流對面"),
+    ]
+    person_anchors = [
+        ("doctor", "gegenüber dem Arzt", "医者の向かいに", "在醫生對面"),
+        ("teacher", "gegenüber dem Lehrer", "先生の向かいに", "在老師對面"),
+        ("man", "gegenüber dem Mann", "男の人の向かいに", "在男人對面"),
+        ("woman", "gegenüber der Frau", "女の人の向かいに", "在女人對面"),
+    ]
+
+    next_id = 711
+    while next_id <= 800:
+        offset = next_id - 711
+        kind = offset % 5
+        if kind < 4:
+            noun, de_form, jp_cue, zh_cue = static_anchors[(offset // 5 * 4 + kind) % len(static_anchors)]
+            filename = f"{next_id:03d}_gegenueber_{noun}_static.md"
+            rows.append((
+                filename,
+                f"gegenüber as static opposite relation across from a {noun}",
+                ("opposite", de_form, noun),
+                f"Use {de_form}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation static and across-from, not nearby and not inside. Use only static actions: is, sits, stands. Do not use bei forms.",
+            ))
+        else:
+            noun, de_form, jp_cue, zh_cue = person_anchors[(offset // 5) % len(person_anchors)]
+            filename = f"{next_id:03d}_gegenueber_{noun}_person.md"
+            rows.append((
+                filename,
+                f"gegenüber as sitting opposite a {noun}",
+                ("opposite", de_form, noun),
+                f"Use {de_form}. Japanese cue: {jp_cue}. Chinese cue: {zh_cue}. Keep the relation static and face-to-face, not nearby and not movement toward. Use only static actions: is, sits. Do not use bei forms.",
+            ))
+        next_id += 1
+
+    return [
+        FileSpec(
+            path=f"01_means_dative_anchor/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + " gegenüber is always dative. Show the dative article dem or der clearly. Keep the opposite/across-from meaning, not the nearby meaning of bei. Prefer common nouns and avoid character names in this audit batch.",
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
+def make_receiver_dative_specs() -> list[FileSpec]:
+    """Specs for `02_receiver_dative`: recipient and indirect-object patterns with visible dative."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        # give (geben) — ditransitive: dative receiver + accusative object
+        ("001_give_dem_jungen.md",
+         "give — Emma gibt dem Jungen den Apfel",
+         ("dem Jungen", "gibt"),
+         "Use Emma as the agent. Core sentence: Emma gibt dem Jungen den Apfel. "
+         "Japanese cue: 男の子にあげる (に marks the receiver). Chinese cue: 給男孩. "
+         "Vary the object across the 4 pairs: apple, bread, book, cup. "
+         "Keep the receiver dem Jungen visible in every German line."),
+        ("002_give_der_frau.md",
+         "give — Taro gibt der Frau das Buch",
+         ("der Frau", "gibt"),
+         "Use Taro as the agent. Core sentence: Taro gibt der Frau das Buch. "
+         "Japanese cue: 女の人にあげる (に marks the receiver). Chinese cue: 給女人. "
+         "Vary the object across the 4 pairs: book, apple, basket, bowl. "
+         "Keep the receiver der Frau visible in every German line."),
+        # show (zeigen) — ditransitive
+        ("003_show_dem_kind.md",
+         "show — Gran zeigt dem Kind den Becher",
+         ("dem Kind", "zeigt"),
+         "Use Gran as the agent. Core sentence: Gran zeigt dem Kind den Becher. "
+         "Japanese cue: 子どもに見せる (に marks the receiver). Chinese cue: 給孩子看. "
+         "Vary the object across the 4 pairs: cup, book, apple, basket. "
+         "Keep the receiver dem Kind visible in every German line."),
+        ("004_show_dem_mann.md",
+         "show — Emma zeigt dem Mann das Dokument",
+         ("dem Mann", "zeigt"),
+         "Use Emma as the agent. Core sentence: Emma zeigt dem Mann das Dokument. "
+         "Japanese cue: 男の人に見せる (に marks the receiver). Chinese cue: 給男人看. "
+         "Vary the object across the 4 pairs: document, book, cup, basket. "
+         "Keep the receiver dem Mann visible in every German line."),
+        # bring (bringen) — ditransitive
+        ("005_bring_dem_maedchen.md",
+         "bring — Taro bringt dem Mädchen den Korb",
+         ("dem Mädchen", "bringt"),
+         "Use Taro as the agent. Core sentence: Taro bringt dem Mädchen den Korb. "
+         "Japanese cue: 女の子に持ってくる (に marks the receiver). Chinese cue: 帶來給女孩. "
+         "Vary the object across the 4 pairs: basket, apple, book, bread. "
+         "Keep the receiver dem Mädchen visible in every German line."),
+        ("006_bring_dem_baby.md",
+         "bring — Gran bringt dem Baby die Decke",
+         ("dem Baby", "bringt"),
+         "Use Gran as the agent. Core sentence: Gran bringt dem Baby die Decke. "
+         "Japanese cue: 赤ちゃんに持ってくる (に marks the receiver). Chinese cue: 帶來給嬰兒. "
+         "Vary the object across the 4 pairs: blanket, apple, bread, cup. "
+         "Keep the receiver dem Baby visible in every German line."),
+        # send (schicken) — ditransitive
+        ("007_send_dem_arzt.md",
+         "send — Emma schickt dem Arzt das Buch",
+         ("dem Arzt", "schickt"),
+         "Use Emma as the agent. Core sentence: Emma schickt dem Arzt das Buch. "
+         "Japanese cue: 医者に送る (に marks the receiver). Chinese cue: 送給醫生. "
+         "Vary the object across the 4 pairs: book, document, basket, bowl. "
+         "Keep the receiver dem Arzt visible in every German line."),
+        ("008_send_dem_kind.md",
+         "send — Taro schickt dem Kind das Buch",
+         ("dem Kind", "schickt"),
+         "Use Taro as the agent. Core sentence: Taro schickt dem Kind das Buch. "
+         "Japanese cue: 子どもに送る (に marks the receiver). Chinese cue: 送給孩子. "
+         "Vary the object across the 4 pairs: book, apple, document, pencil. "
+         "Keep the receiver dem Kind visible in every German line."),
+        # lend (leihen) — ditransitive
+        ("009_lend_der_frau.md",
+         "lend — Gran leiht der Frau den Bleistift",
+         ("der Frau", "leiht"),
+         "Use Gran as the agent. Core sentence: Gran leiht der Frau den Bleistift. "
+         "Japanese cue: 女の人に貸す (に marks the receiver). Chinese cue: 借給女人. "
+         "Vary the object across the 4 pairs: pencil, book, basket, cup. "
+         "Keep the receiver der Frau visible in every German line."),
+        ("010_lend_dem_kind.md",
+         "lend — Emma leiht dem Kind das Buch",
+         ("dem Kind", "leiht"),
+         "Use Emma as the agent. Core sentence: Emma leiht dem Kind das Buch. "
+         "Japanese cue: 子どもに貸す (に marks the receiver). Chinese cue: 借給孩子. "
+         "Vary the object across the 4 pairs: book, pencil, basket, apple. "
+         "Keep the receiver dem Kind visible in every German line."),
+        # help (helfen) — pure dative verb, no accusative object
+        ("011_help_dem_arzt.md",
+         "help — Taro hilft dem Arzt (dative only, no accusative object)",
+         ("dem Arzt", "hilft"),
+         "Use Taro as the agent. Core sentence: Taro hilft dem Arzt. "
+         "helfen takes only dative — do not add an accusative object. "
+         "Japanese cue: 医者を手伝う or 医者を助ける. Chinese cue: 幫助醫生. "
+         "Vary the location or activity context across the 4 pairs (in the garden, in the kitchen, at the market, at the school). "
+         "Keep the receiver dem Arzt visible in every German line."),
+        ("012_help_dem_nachbarn.md",
+         "help — Gran hilft dem Nachbarn (dative only, no accusative object)",
+         ("dem Nachbarn", "hilft"),
+         "Use Gran as the agent. Core sentence: Gran hilft dem Nachbarn. "
+         "helfen takes only dative — do not add an accusative object. "
+         "Japanese cue: 隣人を手伝う or 隣人を助ける. Chinese cue: 幫助鄰居. "
+         "Vary the location or activity context across the 4 pairs. "
+         "Keep the receiver dem Nachbarn visible in every German line."),
+        # answer (antworten) — pure dative verb, no accusative object
+        ("013_answer_dem_lehrer.md",
+         "answer — Emma antwortet dem Lehrer (dative only, no accusative object)",
+         ("dem Lehrer", "antwortet"),
+         "Use Emma as the agent. Core sentence: Emma antwortet dem Lehrer. "
+         "antworten takes only dative — do not add an accusative object. "
+         "Japanese cue: 先生に答える (に marks the receiver). Chinese cue: 回答老師. "
+         "Vary the question or topic context across the 4 pairs. "
+         "Keep the receiver dem Lehrer visible in every German line."),
+        ("014_answer_der_frau.md",
+         "answer — Taro antwortet der Frau (dative only, no accusative object)",
+         ("der Frau", "antwortet"),
+         "Use Taro as the agent. Core sentence: Taro antwortet der Frau. "
+         "antworten takes only dative — do not add an accusative object. "
+         "Japanese cue: 女の人に答える (に marks the receiver). Chinese cue: 回答女人. "
+         "Vary the question or topic context across the 4 pairs. "
+         "Keep the receiver der Frau visible in every German line."),
+        # tell (erzählen) — dative receiver, content may follow with von + dative
+        ("015_tell_dem_jungen.md",
+         "tell — Gran erzählt dem Jungen (dative receiver)",
+         ("dem Jungen", "erzählt"),
+         "Use Gran as the agent. Core sentence: Gran erzählt dem Jungen. "
+         "Keep telling content short and concrete: erzählt dem Jungen von dem Apfel / von dem Garten / von dem Hund / von dem Baum. "
+         "Japanese cue: 男の子に話す (に marks the receiver). Chinese cue: 告訴男孩. "
+         "Keep the receiver dem Jungen visible in every German line."),
+        ("016_tell_dem_kind.md",
+         "tell — Emma erzählt dem Kind (dative receiver)",
+         ("dem Kind", "erzählt"),
+         "Use Emma as the agent. Core sentence: Emma erzählt dem Kind. "
+         "Keep telling content short and concrete: erzählt dem Kind von dem Buch / von dem Garten / von dem Apfel / von dem Hund. "
+         "Japanese cue: 子どもに話す (に marks the receiver). Chinese cue: 告訴孩子. "
+         "Keep the receiver dem Kind visible in every German line."),
+    ]
+
+    shared_suffix = (
+        " The German receiver dative must use the full dative article dem or der with a common noun — "
+        "not a bare proper name. Do not add nouns outside the grammar lexicon. "
+        "Keep vocabulary simple and concrete."
+    )
+
+    return [
+        FileSpec(
+            path=f"02_receiver_dative/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + shared_suffix,
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
+def make_bridge_specs() -> list[FileSpec]:
+    """100 bridge course annotation files in three groups."""
+    specs: list[FileSpec] = []
+    agents = ["Emma", "Taro", "Gran"]
+
+    # ── Group A (001–050): ditransitive — Wer/Wem/Was + plain ──────────────
+    ga_verbs = [
+        ("gives", "gibt", "gibt"),
+        ("shows", "zeigt", "zeigt"),
+        ("brings", "bringt", "bringt"),
+        ("sends", "schickt", "schickt"),
+        ("lends", "leiht", "leiht"),
+    ]
+    ga_receivers = [
+        ("dem Jungen", "the boy", "jungen"),
+        ("der Frau", "the woman", "frau"),
+        ("dem Kind", "the child", "kind"),
+        ("dem Arzt", "the doctor", "arzt"),
+        ("dem Mann", "the man", "mann"),
+        ("dem Lehrer", "the teacher", "lehrer"),
+        ("dem Mädchen", "the girl", "maedchen"),
+        ("dem Baby", "the baby", "baby"),
+        ("dem Nachbarn", "the neighbor", "nachbarn"),
+        ("dem Kind", "the child", "kindb"),
+    ]
+    ga_objects = [
+        # (de_acc, en_obj, de_noun_stem, slug)
+        ("den Apfel", "the apple", "Apfel", "apfel"),
+        ("das Buch", "the book", "Buch", "buch"),
+        ("den Becher", "the cup", "Becher", "becher"),
+        ("den Ball", "the ball", "Ball", "ball"),
+        ("den Korb", "the basket", "Korb", "korb"),
+        ("das Brot", "the bread", "Brot", "brot"),
+        ("den Bleistift", "the pencil", "Bleistift", "bleistift"),
+        ("die Decke", "the blanket", "Decke", "decke"),
+        ("den Apfel", "the apple", "Apfel", "apfelb"),
+        ("das Buch", "the book", "Buch", "buchb"),
+    ]
+
+    fid = 1
+    for vi, (en_v, de_v, v_slug) in enumerate(ga_verbs):
+        for i in range(10):
+            de_dat, en_recv, r_slug = ga_receivers[i]
+            de_acc, en_obj, acc_noun, o_slug = ga_objects[i]
+            agent = agents[(vi * 10 + i) % 3]
+            fname = f"{fid:03d}_bridge_{v_slug}_{r_slug}.md"
+            notes = (
+                f"Bridge file Group A — ditransitive, 3 role question pairs (Wer/Wem/Was) plus plain block. "
+                f"Core German sentence: {agent} {de_v} {de_dat} {de_acc}. "
+                f"SECTION 1 annotated DE line: ({agent}) *{de_v}* [{de_dat}] {{{de_acc}}}. "
+                f"SECTION 1 annotated EN line: ({agent}) *{en_v}* [{en_recv}] {{{en_obj}}}. "
+                f"Generate matching JP annotated line: () for が-subject, [] for に-receiver, {{}} for を-object, ** at sentence end wrapping the verb. "
+                f"Generate matching ZH annotated line: () for subject, [] for beneficiary receiver, {{}} for direct object, ** wrapping the verb. "
+                f"SECTION 2: generate only Wer, Wem, Was question pairs in that order. No genitive question. "
+                f"SECTION 3: plain sentences with no bracket markers."
+            )
+            specs.append(FileSpec(
+                path=f"bridge_course/{fname}",
+                focus=f"bridge ditransitive: {agent} {en_v} {en_recv} {en_obj}",
+                required_terms=(de_dat, de_v, acc_noun),
+                notes=notes,
+            ))
+            fid += 1
+
+    assert fid == 51
+
+    # ── Group B (051–070): ditransitive + genitive — Wer/Wem/Was/Wessen + plain ──
+    gb_verbs = [
+        ("gives", "gibt", "gibt"),
+        ("shows", "zeigt", "zeigt"),
+        ("brings", "bringt", "bringt"),
+        ("sends", "schickt", "schickt"),
+    ]
+    gb_configs = [
+        # (de_dat, en_recv, r_slug, de_acc_base, en_obj_base, de_gen, en_gen, acc_noun, slug)
+        ("dem Jungen", "the boy", "jungen", "den Ball", "the ball", "des Mannes", "the man's", "Ball", "ball_mannes"),
+        ("der Frau", "the woman", "frau", "das Buch", "the book", "des Kindes", "the child's", "Buch", "buch_kindes"),
+        ("dem Kind", "the child", "kind", "den Apfel", "the apple", "der Frau", "the woman's", "Apfel", "apfel_frau"),
+        ("dem Arzt", "the doctor", "arzt", "den Becher", "the cup", "des Jungen", "the boy's", "Becher", "becher_jungen"),
+        ("dem Mann", "the man", "mann", "den Korb", "the basket", "des Mädchens", "the girl's", "Korb", "korb_maedchens"),
+    ]
+
+    for vi, (en_v, de_v, v_slug) in enumerate(gb_verbs):
+        for i in range(5):
+            de_dat, en_recv, r_slug, de_acc_base, en_obj_base, de_gen, en_gen, acc_noun, cfg_slug = gb_configs[i]
+            agent = agents[(vi * 5 + i) % 3]
+            fname = f"{fid:03d}_bridge_{v_slug}_{r_slug}_{cfg_slug}.md"
+            notes = (
+                f"Bridge file Group B — ditransitive with genitive modifier, 4 role question pairs (Wer/Wem/Was/Wessen) plus plain block. "
+                f"Core German sentence: {agent} {de_v} {de_dat} {de_acc_base} {de_gen}. "
+                f"SECTION 1 annotated DE line: ({agent}) *{de_v}* [{de_dat}] {{{de_acc_base} <{de_gen}>}}. "
+                f"SECTION 1 annotated EN line: ({agent}) *{en_v}* [{en_recv}] {{{en_obj_base} <{en_gen}>}}. "
+                f"The <> genitive bracket is nested inside the {{}} accusative bracket. "
+                f"Generate matching JP annotated line: () for が-subject, [] for に-receiver, {{}} for を-object containing <> genitive, ** at sentence end. "
+                f"Generate matching ZH annotated line: () for subject, [] for receiver, {{}} for object containing <> genitive, ** for verb. "
+                f"SECTION 2: generate Wer, Wem, Was, Wessen question pairs in that order. "
+                f"SECTION 3: plain sentences with no bracket markers."
+            )
+            specs.append(FileSpec(
+                path=f"bridge_course/{fname}",
+                focus=f"bridge ditransitive+genitive: {agent} {en_v} {en_recv} {en_gen} {en_obj_base}",
+                required_terms=(de_dat, de_v, acc_noun, de_gen),
+                notes=notes,
+            ))
+            fid += 1
+
+    assert fid == 71
+
+    # ── Group C (071–100): pure-dative verbs — Wer/Wem + plain ─────────────
+    gc_verbs = [
+        ("helps", "hilft", "hilft"),
+        ("answers", "antwortet", "antwortet"),
+        ("tells", "erzählt", "erzaehlt"),
+    ]
+    gc_receivers = [
+        ("dem Jungen", "the boy", "jungen"),
+        ("der Frau", "the woman", "frau"),
+        ("dem Kind", "the child", "kind"),
+        ("dem Arzt", "the doctor", "arzt"),
+        ("dem Mann", "the man", "mann"),
+        ("dem Lehrer", "the teacher", "lehrer"),
+        ("dem Mädchen", "the girl", "maedchen"),
+        ("dem Baby", "the baby", "baby"),
+        ("dem Nachbarn", "the neighbor", "nachbarn"),
+        ("dem Kind", "the child", "kindb"),
+    ]
+
+    for vi, (en_v, de_v, v_slug) in enumerate(gc_verbs):
+        for i in range(10):
+            de_dat, en_recv, r_slug = gc_receivers[i]
+            agent = agents[(vi * 10 + i) % 3]
+            fname = f"{fid:03d}_bridge_{v_slug}_{r_slug}.md"
+            notes = (
+                f"Bridge file Group C — pure dative verb, 2 role question pairs (Wer/Wem) plus plain block. "
+                f"Core German sentence: {agent} {de_v} {de_dat}. "
+                f"SECTION 1 annotated DE line: ({agent}) *{de_v}* [{de_dat}]. "
+                f"SECTION 1 annotated EN line: ({agent}) *{en_v}* [{en_recv}]. "
+                f"Generate matching JP annotated line: () for が-subject, [] for に-receiver, ** at sentence end. "
+                f"Generate matching ZH annotated line: () for subject, [] for receiver, ** for verb. "
+                f"SECTION 2: generate only Wer and Wem question pairs in that order. No Was, no genitive question. "
+                f"SECTION 3: plain sentences with no bracket markers. "
+                f"Do not add {{}} accusative or <> genitive brackets anywhere."
+            )
+            specs.append(FileSpec(
+                path=f"bridge_course/{fname}",
+                focus=f"bridge pure-dative: {agent} {en_v} {en_recv}",
+                required_terms=(de_dat, de_v),
+                notes=notes,
+            ))
+            fid += 1
+
+    assert fid == 101
+    return specs
+
+
 CLUSTERS: dict[str, list[FileSpec]] = {
     "00_relation": [
         FileSpec(
@@ -427,6 +943,11 @@ CLUSTERS: dict[str, list[FileSpec]] = {
     "01_means_dative_anchor_aus_audit": make_aus_audit_specs(),
     "01_means_dative_anchor_von_audit": make_von_audit_specs(),
     "01_means_dative_anchor_zu_audit": make_zu_audit_specs(),
+    "01_means_dative_anchor_nach_audit": make_nach_audit_specs(),
+    "01_means_dative_anchor_seit_audit": make_seit_specs(),
+    "01_means_dative_anchor_gegenueber_audit": make_gegenueber_specs(),
+    "02_receiver_dative": make_receiver_dative_specs(),
+    "bridge_course": make_bridge_specs(),
 }
 
 
@@ -471,6 +992,74 @@ Content rules:
 """
 
 
+BRIDGE_RULES = """
+You are generating one bridge course annotation file for Ninereeds.
+This is NOT a [user]/[Ninereeds] dialogue file. Do not use those tags.
+
+Output ONLY the file content. No markdown fences. No preamble. No explanatory text.
+
+BRACKET SEMANTICS:
+  () = actor / subject  (nominative, German Nominativ)
+  [] = anchor — receiver, location, or state  (dative, German Dativ)
+  {} = target — direct object or endpoint  (accusative, German Akkusativ)
+  ** = action / verb  (wrap the verb word only: *gives*, *gibt*, *あげた*)
+  <> = ownership or source relation  (genitive, German Genitiv; nested inside {} or [])
+
+FILE FORMAT — produce exactly three sections in this exact order:
+
+SECTION 1 — ANNOTATED BLOCK (exactly 4 consecutive lines, EN then DE then JP then ZH):
+  Apply role brackets consistently across all 4 lines.
+  JP verb goes at sentence end; ** wraps it there.
+  Example (ditransitive + nested genitive):
+    (The man) *gave* [the dog] {the <boy's> ball}.
+    (Der Mann) *gab* [dem Hund] {den Ball <des Jungen>}.
+    (男の人が)[犬に]{<男の子の>ボールを}*あげた*。
+    (男人)*给了*[狗]{<男孩的>球}。
+
+SECTION 2 — ROLE QUESTION PAIRS (blank line between each pair):
+  Generate one pair for each bracket type present in SECTION 1, in this order:
+    () → (Wer / Who / 誰が / 谁)
+    [] → [Wem / To whom / 誰に / 给谁]
+    {} → {Was / What / 何を / 什么}
+    <> → <Wessen / Whose / 誰の / 谁的>
+  Skip bracket types not present in SECTION 1. Do NOT generate a pair for **.
+  Question line: starts with the bracket-tagged multilingual interrogative, then an English question.
+  Answer line: 4 bracketed answers separated by / in EN / DE / JP / ZH order.
+  Example pair for []:
+    [Wem / To whom / 誰に / 给谁] did the man give the boy's ball?
+    [The dog]. / [Dem Hund]. / [犬に]. / [狗].
+
+SECTION 3 — PLAIN BLOCK (exactly 4 consecutive lines, EN then DE then JP then ZH):
+  The same sentence with NO bracket markers at all.
+  Forbidden in the plain block: ( ) [ ] { } < > *
+  Example:
+    The man gave the dog the boy's ball.
+    Der Mann gab dem Hund den Ball des Jungen.
+    男の人が犬に男の子のボールを あげた。
+    男人给了狗男孩的球。
+
+Register:
+- English: simple, natural, child-facing.
+- German: correct Schulbuch style; case must match the bracket role: dative for [], accusative for {}, genitive for <>.
+- Japanese: plain form, no ですます, no romaji; particle に for dative [], を for accusative {}.
+- Chinese: Traditional Chinese; 給 or similar beneficiary marker for a dative receiver.
+
+Capitalization rules for answer lines:
+- Common nouns in bracket answers use lowercase: [the boy], {the apple}, <the man's>.
+- Proper names preserve their case: (Emma), (Gran), (Taro).
+- German nouns always capitalize as normal: [dem Jungen], {den Apfel}, (Der Mann).
+- Japanese and Chinese answers follow their standard conventions.
+- Do NOT sentence-capitalize isolated bracket answers: [the woman] not [The woman].
+
+Content rules:
+- Avoid pronouns; repeat the name or noun.
+- Do not add nouns outside those specified in the file notes.
+- German dative must use dem or der with a visible common noun.
+- German accusative must use den / das / die with a visible common noun.
+- Genitive modifier follows the noun it modifies: den Ball des Jungen.
+"""
+
+
 def load_dotenv(path: Path) -> None:
     if not path.exists():
         return
@@ -493,6 +1082,7 @@ def get_api_key() -> str:
 
 
 def build_prompt(spec: FileSpec, previous_errors: list[str] | None = None) -> str:
+    rules = BRIDGE_RULES if "bridge_course" in spec.path else BASE_RULES
     required = ", ".join(spec.required_terms)
     retry = ""
     if previous_errors:
@@ -501,7 +1091,7 @@ def build_prompt(spec: FileSpec, previous_errors: list[str] | None = None) -> st
             + "\n".join(f"- {e}" for e in previous_errors)
             + "\n"
         )
-    return f"""{BASE_RULES}
+    return f"""{rules}
 
 File focus: {spec.focus}
 Required terms: {required}
@@ -511,7 +1101,106 @@ Generate the file now.
 """
 
 
+def validate_bridge(text: str, spec: FileSpec) -> list[str]:
+    errors: list[str] = []
+
+    if "[user]" in text or "[Ninereeds]" in text:
+        errors.append("bridge files must not contain [user] or [Ninereeds] tags")
+        return errors
+
+    if re.search(r"^SECTION\b", text, re.MULTILINE):
+        errors.append("file contains SECTION header labels; output only the content, not section labels")
+        return errors
+
+    lines = [ln for ln in text.splitlines() if ln.strip()]
+    if len(lines) < 8:
+        errors.append(f"bridge file too short: {len(lines)} non-empty lines (need at least 8)")
+        return errors
+
+    # Section 1: first 4 non-empty lines = annotated block
+    annotated = lines[:4]
+    ann_text = "\n".join(annotated)
+
+    has = {
+        "actor":     bool(re.search(r"\([^)]+\)", ann_text)),
+        "dative":    bool(re.search(r"\[[^\]]+\]", ann_text)),
+        "accusative":bool(re.search(r"\{[^}]+\}", ann_text)),
+        "genitive":  bool(re.search(r"<[^>]+>", ann_text)),
+        "verb":      bool(re.search(r"\*[^*]+\*", ann_text)),
+    }
+
+    if not has["actor"]:
+        errors.append("annotated block (first 4 lines) missing () actor bracket")
+    if not has["dative"]:
+        errors.append("annotated block (first 4 lines) missing [] dative bracket")
+    if not has["verb"]:
+        errors.append("annotated block (first 4 lines) missing ** verb marker")
+
+    # Section 2: Q&A pairs — check presence matches annotated block
+    q_patterns = {
+        "actor":     re.compile(r"^\(Wer\s*/\s*Who\s*/", re.MULTILINE),
+        "dative":    re.compile(r"^\[Wem\s*/\s*To whom\s*/", re.MULTILINE),
+        "accusative":re.compile(r"^\{Was\s*/\s*What\s*/", re.MULTILINE),
+        "genitive":  re.compile(r"^<Wessen\s*/\s*Whose\s*/", re.MULTILINE),
+    }
+    for role, pattern in q_patterns.items():
+        in_ann = has[role]
+        in_qa  = bool(pattern.search(text))
+        if in_ann and not in_qa:
+            errors.append(f"{role} bracket in annotated block but no role question found")
+        if not in_ann and in_qa:
+            errors.append(f"{role} role question found but bracket not in annotated block")
+
+    # Section 3: last 4 non-empty lines = plain block (no brackets)
+    plain_text = " ".join(lines[-4:])
+    if re.search(r"[()[\]{}<>*]", plain_text):
+        errors.append("plain block (last 4 lines) must not contain bracket markers ( ) [ ] { } < > *")
+
+    # Answer line checks: ". / " is the multi-language separator
+    for line in text.splitlines():
+        if ". / " not in line:
+            continue
+        # EN answer is the first bracketed segment before the first ". /"
+        m = re.match(r"^[(\[{<](.*?)[)\]}>]\.", line.strip())
+        if not m:
+            continue
+        en_answer = m.group(1)
+        # Uppercase article check
+        if re.match(r"(The|A|An) [a-z]", en_answer):
+            errors.append(
+                f"English answer uses uppercase article — use lowercase: {en_answer!r}"
+            )
+        # German-in-EN-position check
+        if re.search(r"^\s*(dem|der|des|den|die|das)\b", en_answer, re.I):
+            errors.append(
+                f"English answer position contains German article — check language order: {en_answer!r}"
+            )
+
+    # Simplified 给 in non-question lines (question lines end with ?)
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped.endswith("?") or not stripped:
+            continue
+        if "给" in stripped:
+            errors.append("Simplified 给 in non-question line; use Traditional 給")
+            break
+
+    # Required terms
+    for term in spec.required_terms:
+        if term.lower() not in text.lower():
+            errors.append(f"missing required term: {term}")
+
+    if re.search(r"[锤长扫车门书话马鸟鱼间园苹玛铅篮邻个]", text):
+        errors.append("possible Simplified Chinese character found; use Traditional Chinese")
+    if re.search(r"\b(She|He|They|We|she|he|they|we|Sie|Er|sie|er|彼女|彼|她|他|我們|我们)\b", text):
+        errors.append("pronoun found; repeat the name or noun")
+
+    return errors
+
+
 def validate(text: str, spec: FileSpec) -> list[str]:
+    if "bridge_course" in spec.path:
+        return validate_bridge(text, spec)
     errors: list[str] = []
     user_count = len(re.findall(r"^\[user\]", text, re.MULTILINE))
     nr_count = len(re.findall(r"^\[Ninereeds\]", text, re.MULTILINE))
@@ -630,6 +1319,59 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("zu audit files should keep movement-toward meaning in Japanese, not static forms")
         if re.search(r"[锤长扫车门书话马鸟鱼间园]", text):
             errors.append("possible Simplified Chinese character found; use Traditional Chinese")
+    if "_nach_" in spec.path:
+        if re.search(r"\bzum\b|\bzur\b", text, re.I):
+            errors.append("nach audit files should not use zu contractions zum or zur")
+        if re.search(r"\bzu dem\b|\bzu der\b|\bbei dem\b|\bbei der\b|\baus dem\b|\baus der\b|\bvon dem\b|\bvon der\b", text, re.I):
+            errors.append("nach audit files should not drift into zu/bei/aus/von dative forms")
+        if re.search(r"\bin die\b|\bin das\b|\bin den\b", text, re.I):
+            errors.append("nach audit files should not drift into in-accusative endpoint forms")
+        if "_city_" in spec.path or "_direction_" in spec.path or "_hause_" in spec.path:
+            if re.search(r"\bnach dem\b|\bnach der\b|\bnach den\b", text, re.I):
+                errors.append("nach city and direction files should use bare name form, not nach dem or nach der")
+            if re.search(r"\b(is in|is at|sits in|stands in|lives in)\b|\bwohnt in\b|\bist in\b|\bist bei\b|\bliegt in\b", text, re.I):
+                errors.append("nach city/direction files should keep movement-toward meaning, not static location")
+        if "_hause_" in spec.path:
+            if re.search(r"\bnach dem Haus\b", text, re.I):
+                errors.append("nach Hause files should use the fixed phrase nach Hause, not nach dem Haus")
+            if re.search(r"\bzu Hause\b|\bzuhause\b", text, re.I):
+                errors.append("nach Hause files should not use the static zu Hause form")
+        if "_temporal_" in spec.path:
+            if not re.search(r"\bnach dem\b|\bnach der\b", text, re.I):
+                errors.append("nach temporal files should contain nach dem or nach der dative form")
+            if re.search(r"\bflies to\b|\btravels to\b|\btakes? (a flight|the train|the bus) to\b", text, re.I):
+                errors.append("nach temporal files should keep time/after meaning, not place-destination movement")
+    if "_seit_" in spec.path:
+        if re.search(r"\bnach dem\b|\bnach der\b|\bnach den\b", text, re.I):
+            errors.append("seit files should not drift into nach temporal forms")
+        if re.search(r"\bzu dem\b|\bzu der\b|\bbei dem\b|\bbei der\b|\baus dem\b|\baus der\b|\bvon dem\b|\bvon der\b", text, re.I):
+            errors.append("seit files should not drift into zu/bei/aus/von dative forms")
+        if not re.search(r"\bseit dem\b|\bseit der\b", text, re.I):
+            errors.append("seit files should contain seit dem or seit der dative form")
+        if re.search(r"\b(goes to|walks to|travels to|flies to|after)\b", text, re.I):
+            errors.append("seit files should keep since/ongoing-duration meaning, not after-sequence or destination meaning")
+    if "_gegenueber_" in spec.path:
+        if re.search(r"\bbei dem\b|\bbei der\b|\bbeim\b", text, re.I):
+            errors.append("gegenüber files should not drift into bei nearby forms")
+        if re.search(r"\bneben dem\b|\bneben der\b", text, re.I):
+            errors.append("gegenüber files should keep opposite meaning, not next-to meaning")
+        if re.search(r"\b(go|goes|come|comes|walk|walks|run|runs|travel|travels)\b", text, re.I):
+            errors.append("gegenüber files should stay static and avoid movement verbs in English")
+        if re.search(r"\b(gehen|kommt|kommen|läuft|laufen|fährt|fahren|geht)\b", text, re.I):
+            errors.append("gegenüber files should stay static and avoid movement verbs in German")
+        if re.search(r"\b(行く|来る|歩く|走る|向かう)\b|去|走路|跑|前往", text):
+            errors.append("gegenüber files should stay static and avoid movement verbs in Japanese or Chinese")
+        if not re.search(r"\bgegenüber dem\b|\bgegenüber der\b", text, re.I):
+            errors.append("gegenüber files should contain gegenüber dem or gegenüber der dative form")
+    if "02_receiver_dative" in spec.path:
+        if re.search(r"\b(goes to|walks to|runs to|flies to|travels to)\b", text, re.I):
+            errors.append("receiver dative files should not use movement-toward verbs")
+        if re.search(r"\baus dem\b|\baus der\b|\bbei dem\b|\bbei der\b", text, re.I):
+            errors.append("receiver dative files should not drift into aus/bei source or nearby forms")
+        if re.search(r"\bzum\b|\bzur\b|\bbeim\b|\bvom\b", text, re.I):
+            errors.append("receiver dative files should use full dative forms, not contractions")
+        if not re.search(r"\bdem \w|\bder \w", text):
+            errors.append("receiver dative files must contain a visible dative article dem or der")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]

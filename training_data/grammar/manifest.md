@@ -17,7 +17,7 @@ Design reference: `docs/grammar_plan.md`
 | Directory structure | complete |
 | File naming convention | draft |
 | Generation prompts | in progress |
-| Generated files | `00_relation` complete; `mit` 100/100 generated and audited; `bei` 100/100 generated and audited; `aus` 100/100 generated and audited |
+| Generated files | `00_relation` complete; `mit` `bei` `aus` `von` `zu` `nach` `seit` `gegenüber` — 100 files each, all generated and audited |
 | Validation scripts | in progress |
 | Corpus-builder integration | complete |
 
@@ -110,7 +110,7 @@ Validation focus:
 
 ### 01_means_dative_anchor
 
-Status: `mit` 100/100 generated and audited; `bei` 100/100 generated and audited; `aus` 100/100 generated and audited; `von` 100/100 generated and audited; `zu` 100/100 generated and audited; remaining dative-anchor prepositions not generated.
+Status: all 8 prepositions at 100 files each (800 files total) — **complete.** File ranges: `mit` 001–100, `bei` 101–200, `aus` 201–300, `von` 301–400, `zu` 401–500, `nach` 501–600, `seit` 601–700, `gegenüber` 701–800.
 
 Purpose: build the German dative retrieval pathway with always-dative
 prepositions before ambiguous two-way prepositions.
@@ -142,7 +142,7 @@ Validation focus:
 
 ### 02_receiver_dative
 
-Status: not generated.
+Status: generated and validated — 16 files complete.
 
 Purpose: recipient, beneficiary, and indirect-object patterns.
 
@@ -419,3 +419,10 @@ Add one line per generated/audited batch:
 | 2026-05-25 | `01_means_dative_anchor` / `zu` | 70 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `zu` drift scan + spot audit + full corpus dry-run pass | Fourth 15-file continuation batch had one format failure on `461_zu_door_place` (same single-line output glitch as von); regenerated cleanly on retry. |
 | 2026-05-25 | `01_means_dative_anchor` / `zu` | 85 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `zu` drift scan + spot audit + full corpus dry-run pass | Fifth 15-file continuation batch completed without required rewrites; tree object-destination pattern stayed clean with no bei-nearby drift. |
 | 2026-05-25 | `01_means_dative_anchor` / `zu` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full targeted `zu` drift scan + spot audit + full corpus dry-run pass | Final batch completed without required rewrites; full drift scan of all 100 zu files found no zum/zur-contraction, nach-drift, in-accusative-drift, or static-location forms. |
+| 2026-05-25 | `01_means_dative_anchor` / `nach` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `nach` drift scan + spot audit + full corpus dry-run pass | All 6 continuation batches completed without failures; city/direction/temporal rotation clean across all 100 files. |
+| 2026-05-26 | `01_means_dative_anchor` / `seit` | 50 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `seit` drift scan + spot audit + full corpus dry-run pass | All batches completed without failures; ongoing-duration meaning stable, seit dem/seit der dative forms correct throughout. |
+| 2026-05-26 | `01_means_dative_anchor` / `gegenüber` | 50 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | targeted `gegenüber` drift scan + spot audit + full corpus dry-run pass | All batches completed without failures; static opposite/across-from meaning stable, no bei-drift or movement verbs. |
+| 2026-05-26 | `01_means_dative_anchor` / `seit` extension | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full corpus dry-run pass | Extended from 50 to 100 files (601–700) for consistency with other prepositions. |
+| 2026-05-26 | `01_means_dative_anchor` / `gegenüber` extension | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full corpus dry-run pass | Extended from 50 to 100 files (701–800); files renumbered from 651–700 to 701–750, offset base corrected in spec function. **01_means_dative_anchor complete: 800 files total.** |
+| 2026-05-26 | `02_receiver_dative` | 16 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (4 files) + full corpus dry-run pass | 8 verbs: give/show/bring/send/lend (ditransitive) then help/answer/tell (pure dative). Receiver dative visibly marked in every German line. JP に particle consistent. Traditional Chinese throughout. |
+| 2026-05-26 | `bridge_course` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full scan (6 checks) + corpus dry-run pass | Bracket-annotation schema (new format, no [user]/[Ninereeds] tags). Group A (001–050) ditransitive 4-pair, Group B (051–070) ditransitive+genitive 5-pair, Group C (071–100) pure-dative 3-pair. Validator catches: SECTION headers, simplified 给/苹/玛/铅/篮/邻/个, uppercase article in EN answers, German in EN answer position. Corpus builder updated with check_grammar_file dispatcher. |

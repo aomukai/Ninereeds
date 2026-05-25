@@ -163,6 +163,41 @@ def check_dialogue(text: str) -> tuple[str, list[str]]:
     return text, issues
 
 
+def check_bridge_file(text: str) -> tuple[str, list[str]]:
+    """Bridge course annotation file: bracket-annotated plain prose, no [user]/[Ninereeds] tags."""
+    text, _ = fix_common(text)
+    issues: list[str] = []
+    if not text.strip():
+        issues.append("empty file")
+        return text, issues
+    if "[user]" in text or "[Ninereeds]" in text:
+        issues.append("bridge file must not contain [user] or [Ninereeds] tags")
+        return text, issues
+    if re.search(r"^SECTION\b", text, re.MULTILINE):
+        issues.append("bridge file contains SECTION header labels")
+    lines = [ln for ln in text.splitlines() if ln.strip()]
+    if len(lines) < 8:
+        issues.append(f"bridge file too short: {len(lines)} non-empty lines")
+    # Annotated block: first 4 non-empty lines must contain at least one bracket marker
+    if len(lines) >= 4:
+        ann_text = " ".join(lines[:4])
+        if not re.search(r"[(\[{<*]", ann_text):
+            issues.append("annotated block (first 4 lines) contains no role brackets")
+    # Plain block: last 4 non-empty lines must contain no bracket markers
+    if len(lines) >= 4:
+        plain_text = " ".join(lines[-4:])
+        if re.search(r"[()[\]{}<>*]", plain_text):
+            issues.append("plain block (last 4 lines) contains bracket markers")
+    return text, issues
+
+
+def check_grammar_file(text: str) -> tuple[str, list[str]]:
+    """Grammar file dispatcher: bridge annotation format or standard dialogue format."""
+    if "[user]" not in text and "[Ninereeds]" not in text:
+        return check_bridge_file(text)
+    return check_dialogue(text)
+
+
 def check_grounded_story(text: str) -> tuple[str, list[str]]:
     """Grounded story: plain prose, no [user]/[Ninereeds] tags expected."""
     text, _ = fix_common(text)
@@ -269,7 +304,7 @@ def process_tree(
 CURRICULUM_ORDER: list[tuple] = [
     ("lang/lang_1",            check_lang,             "lang_1"),
     ("lang/lang_2",            check_lang,             "lang_2"),
-    ("grammar",                check_dialogue,         "grammar",             "*.md", "tree"),
+    ("grammar",                check_grammar_file,     "grammar",             "*.md", "tree"),
     ("phases/phase_1",         check_phases,           "phase_1"),
     ("phases/phase_2",         check_phases,           "phase_2"),
     ("phases/phase_3",         check_phases,           "phase_3"),
