@@ -118,10 +118,9 @@ Grammar corpus constraints:
 
 ## Phase B — Grammar Generation
 
-Status: `01_means_dative_anchor` complete. Active work is now `02_receiver_dative`.
+Status: `01_means_dative_anchor`, `02_receiver_dative`, `bridge_course`, `03_place_static_dative` complete. Active work is now `04_change_state`.
 
-**Resume here next session.** Read `claude.md` and this file — no other handoff
-doc is needed.
+**Resume here next session: `04_change_state`.** Read `claude.md` and this file — no other handoff doc is needed.
 
 ### Completed: `01_means_dative_anchor` — 800 files, all 8 prepositions at 100 each
 
@@ -146,34 +145,38 @@ Status: complete 2026-05-26. All 3 groups generated and validated. Corpus builde
 
 Groups: A (001–050) ditransitive Wer/Wem/Was, B (051–070) ditransitive+genitive Wer/Wem/Was/Wessen, C (071–100) pure-dative Wer/Wem.
 
-### Active cluster: `03_place_static_dative`
+### Completed: `03_place_static_dative` — 24 files
+
+Status: complete 2026-05-26. 24/24 generated clean on first pass. Spot audit clean. Corpus dry-run pass: 945/945 grammar files included.
+
+8 two-way prepositions × 3 files each: auf/in/über/unter/neben/vor/hinter/zwischen, all in dative. Static location only. Drift guards added to validator (accusative forms, movement verbs, missing dative prep). JP にある/にいる distinction applied correctly.
+
+### Active cluster: `04_change_state`
 
 Status: specs not yet written. This is the first task for the next session.
 
-Target: 16 files. Purpose: recipient / indirect-object patterns with visibly
-marked dative (`dem Jungen`, `der Frau`, `dem Kind`, etc.).
+Target: 12 files. Purpose: becoming / state-change patterns (`werden` + predicate).
 
 Core German patterns to cover:
 
-- `Emma gibt dem Jungen den Apfel.`
-- `Taro zeigt der Frau das Buch.`
-- `Gran hilft dem Arzt.`
-- `Emma schickt dem Kind den Brief.`
+- `Das Wasser wird kalt.`
+- `Das Brot wird hart.`
+- `Das Kind wird müde.`
+- `Die Suppe wird warm.`
 
 Requirements:
-- Receiver dative must be visibly marked (avoid bare proper-name receivers).
-- Accusative object may appear alongside, but the file target is the receiver.
-- JP cross-cue: `に` for receiver.
-- ZH cross-cue: `給` or similar beneficiary marker.
-- 4 pairs per file, EN/DE/JP/ZH format (same as all other grammar files).
+- Focus on `werden` as the change-of-state copula, not movement.
+- Adjective predicate changes across the 4 pairs (cold→hot, hard→soft, tired→awake, etc.).
+- JP cross-cue: `〜になる` pattern.
+- ZH cross-cue: `變得〜` pattern.
+- 4 pairs per file, EN/DE/JP/ZH format.
 
 **Steps to start:**
 
-1. Add `make_receiver_dative_specs()` to `meta/scripts/gen_grammar.py`
-   following the pattern of earlier spec functions.
-2. Add `_receiver_dative_` drift guards to the validator.
+1. Add `make_change_state_specs()` to `meta/scripts/gen_grammar.py`.
+2. Add `04_change_state` drift guards to the validator (no movement verbs, werden must appear).
 3. Add cluster key to `CLUSTERS`.
-4. Dry-run, audit batch of 10, corpus check, then remaining 6 files.
+4. Dry-run, audit batch of 6, corpus check, then remaining 6 files.
 5. Update manifest and this file when done.
 
 Generation command pattern:

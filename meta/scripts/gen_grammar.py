@@ -756,6 +756,285 @@ def make_receiver_dative_specs() -> list[FileSpec]:
     ]
 
 
+def make_place_static_dative_specs() -> list[FileSpec]:
+    """Specs for `03_place_static_dative`: static location with two-way prepositions in dative."""
+    rows: list[tuple[str, str, tuple[str, ...], str]] = [
+        # ── auf + dative (on a surface, static) ────────────────────────────
+        ("001_auf_tisch_static.md",
+         "auf + dative — cup is on the table (static location)",
+         ("auf dem Tisch", "on", "table"),
+         "Core German sentence: Der Becher ist auf dem Tisch. "
+         "Static location: the cup is resting on the table. "
+         "Japanese cue: テーブルの上に. Chinese cue: 在桌子上. "
+         "Use only static verbs: is, sits, lies, stands. "
+         "Do not use movement-onto patterns such as puts or places. "
+         "Vary the subject across the 4 pairs: cup, apple, book, basket. "
+         "Keep auf dem Tisch visible in every German line."),
+        ("002_auf_boden_static.md",
+         "auf + dative — ball is on the floor (static location)",
+         ("auf dem Boden", "on", "floor"),
+         "Core German sentence: Der Ball ist auf dem Boden. "
+         "Static location: the ball is resting on the floor. "
+         "Japanese cue: 床の上に. Chinese cue: 在地板上. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-onto patterns. "
+         "Vary the subject across the 4 pairs: ball, book, bag, blanket. "
+         "Keep auf dem Boden visible in every German line."),
+        ("003_auf_bank_static.md",
+         "auf + dative — book is on the bench (static location)",
+         ("auf der Bank", "on", "bench"),
+         "Core German sentence: Das Buch ist auf der Bank. "
+         "Static location: the book is resting on the bench. "
+         "Japanese cue: ベンチの上に. Chinese cue: 在長椅上. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-onto patterns. "
+         "Vary the subject across the 4 pairs: book, apple, basket, blanket. "
+         "Keep auf der Bank visible in every German line."),
+        # ── in + dative (inside, static) ───────────────────────────────────
+        ("004_in_kueche_static.md",
+         "in + dative — cup is in the kitchen (static location)",
+         ("in der Küche", "in", "kitchen"),
+         "Core German sentence: Der Becher ist in der Küche. "
+         "Static location: the cup is inside the kitchen. "
+         "Japanese cue: 台所の中に. Chinese cue: 在廚房裡. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-into patterns such as goes into or puts into. "
+         "Vary the subject across the 4 pairs: cup, basket, bread, apple. "
+         "Keep in der Küche visible in every German line."),
+        ("005_in_garten_static.md",
+         "in + dative — ball is in the garden (static location)",
+         ("in dem Garten", "in", "garden"),
+         "Core German sentence: Der Ball ist in dem Garten. "
+         "Static location: the ball is inside the garden. "
+         "Japanese cue: 庭の中に. Chinese cue: 在花園裡. "
+         "Use only static verbs: is, lies, sits, stands. "
+         "Do not use movement-into patterns. "
+         "Vary the subject across the 4 pairs: ball, bench, dog, boy. Use Hund for dog, Junge for boy. "
+         "Keep in dem Garten visible in every German line."),
+        ("006_in_zimmer_static.md",
+         "in + dative — book is in the room (static location)",
+         ("in dem Zimmer", "in", "room"),
+         "Core German sentence: Das Buch ist in dem Zimmer. "
+         "Static location: the book is inside the room. "
+         "Japanese cue: 部屋の中に. Chinese cue: 在房間裡. "
+         "Use only static verbs: is, lies, sits, stands. "
+         "Do not use movement-into patterns. "
+         "Vary the subject across the 4 pairs: book, blanket, basket, ball. "
+         "Keep in dem Zimmer visible in every German line."),
+        # ── über + dative (above, static) ──────────────────────────────────
+        ("007_ueber_berg_static.md",
+         "über + dative — cloud is above the mountain (static location)",
+         ("über dem Berg", "above", "mountain"),
+         "Core German sentence: Die Wolke ist über dem Berg. "
+         "Static location above: the cloud is above the mountain. "
+         "Japanese cue: 山の上に. Chinese cue: 在山上方. "
+         "Use only static verbs: is, floats, hangs. "
+         "Preferred subjects: cloud (Wolke), bird (Vogel), sun (Sonne). "
+         "Do not use movement-over patterns. "
+         "Vary the subject across the 4 pairs: cloud, bird, sun, cloud again. "
+         "Keep über dem Berg visible in every German line."),
+        ("008_ueber_tisch_static.md",
+         "über + dative — lamp is above the table (static location)",
+         ("über dem Tisch", "above", "table"),
+         "Core German sentence: Die Lampe ist über dem Tisch. "
+         "Static location above: the lamp hangs above the table. "
+         "Japanese cue: テーブルの上に. Chinese cue: 在桌子上方. "
+         "Use only static verbs: is, hangs. "
+         "Preferred subjects: lamp (Lampe), bird (Vogel), cloud (Wolke). "
+         "Do not use movement-over patterns. "
+         "Vary the subject across the 4 pairs: lamp, bird, cloud, lamp again. "
+         "Keep über dem Tisch visible in every German line."),
+        ("009_ueber_tuer_static.md",
+         "über + dative — sign is above the door (static location)",
+         ("über der Tür", "above", "door"),
+         "Core German sentence: Das Schild ist über der Tür. "
+         "Static location above: the sign hangs above the door. "
+         "Japanese cue: ドアの上に. Chinese cue: 在門上方. "
+         "Use only static verbs: is, hangs. "
+         "Preferred subjects: sign (Schild), lamp (Lampe), bird (Vogel). "
+         "Do not use movement-over patterns. "
+         "Vary the subject across the 4 pairs: sign, lamp, bird, sign again. "
+         "Keep über der Tür visible in every German line."),
+        # ── unter + dative (under, static) ─────────────────────────────────
+        ("010_unter_bank_static.md",
+         "unter + dative — ball is under the bench (static location)",
+         ("unter der Bank", "under", "bench"),
+         "Core German sentence: Der Ball ist unter der Bank. "
+         "Static location below: the ball is under the bench. "
+         "Japanese cue: ベンチの下に. Chinese cue: 在長椅下面. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-under patterns. "
+         "Vary the subject across the 4 pairs: ball, bag, book, blanket. "
+         "Keep unter der Bank visible in every German line."),
+        ("011_unter_tisch_static.md",
+         "unter + dative — bag is under the table (static location)",
+         ("unter dem Tisch", "under", "table"),
+         "Core German sentence: Die Tasche ist unter dem Tisch. "
+         "Static location below: the bag is under the table. "
+         "Japanese cue: テーブルの下に. Chinese cue: 在桌子下面. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-under patterns. "
+         "Vary the subject across the 4 pairs: bag, ball, book, cat. Use Katze for cat. "
+         "Keep unter dem Tisch visible in every German line."),
+        ("012_unter_baum_static.md",
+         "unter + dative — bench is under the tree (static location)",
+         ("unter dem Baum", "under", "tree"),
+         "Core German sentence: Die Bank ist unter dem Baum. "
+         "Static location below: the bench is under the tree. "
+         "Japanese cue: 木の下に. Chinese cue: 在樹下. "
+         "Use only static verbs: is, lies, sits, stands. "
+         "Do not use movement-under patterns. "
+         "Vary the subject across the 4 pairs: bench, ball, bag, dog. Use Hund for dog. "
+         "Keep unter dem Baum visible in every German line."),
+        # ── neben + dative (next to, static) ───────────────────────────────
+        ("013_neben_baum_static.md",
+         "neben + dative — bench is next to the tree (static location)",
+         ("neben dem Baum", "next to", "tree"),
+         "Core German sentence: Die Bank ist neben dem Baum. "
+         "Static location next to: the bench is next to the tree. "
+         "Japanese cue: 木の隣に. Chinese cue: 在樹旁邊. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-toward patterns. "
+         "Vary the subject across the 4 pairs: bench, ball, boy, dog. Use Junge for boy, Hund for dog. "
+         "Keep neben dem Baum visible in every German line."),
+        ("014_neben_haus_static.md",
+         "neben + dative — garden is next to the house (static location)",
+         ("neben dem Haus", "next to", "house"),
+         "Core German sentence: Der Garten ist neben dem Haus. "
+         "Static location next to: the garden is next to the house. "
+         "Japanese cue: 家の隣に. Chinese cue: 在房子旁邊. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-toward patterns. "
+         "Vary the subject across the 4 pairs: garden, bench, tree, ball. "
+         "Keep neben dem Haus visible in every German line."),
+        ("015_neben_bank_static.md",
+         "neben + dative — ball is next to the bench (static location)",
+         ("neben der Bank", "next to", "bench"),
+         "Core German sentence: Der Ball ist neben der Bank. "
+         "Static location next to: the ball is next to the bench. "
+         "Japanese cue: ベンチの隣に. Chinese cue: 在長椅旁邊. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-toward patterns. "
+         "Vary the subject across the 4 pairs: ball, bag, book, apple. "
+         "Keep neben der Bank visible in every German line."),
+        # ── vor + dative (in front of, static) ─────────────────────────────
+        ("016_vor_haus_static.md",
+         "vor + dative — dog is in front of the house (static location)",
+         ("vor dem Haus", "in front of", "house"),
+         "Core German sentence: Der Hund ist vor dem Haus. "
+         "Static location in front of: the dog is in front of the house. "
+         "Japanese cue: 家の前に. Chinese cue: 在房子前面. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-toward or movement-into patterns. "
+         "Vary the subject across the 4 pairs: dog, boy, girl, bench. Use Hund, Junge, Mädchen. "
+         "Keep vor dem Haus visible in every German line."),
+        ("017_vor_tuer_static.md",
+         "vor + dative — boy is in front of the door (static location)",
+         ("vor der Tür", "in front of", "door"),
+         "Core German sentence: Der Junge ist vor der Tür. "
+         "Static location in front of: the boy is in front of the door. "
+         "Japanese cue: ドアの前に. Chinese cue: 在門前. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-through or movement-toward patterns. "
+         "Vary the subject across the 4 pairs: boy, girl, man, dog. Use Junge, Mädchen, Mann, Hund. "
+         "Keep vor der Tür visible in every German line."),
+        ("018_vor_schule_static.md",
+         "vor + dative — man is in front of the school (static location)",
+         ("vor der Schule", "in front of", "school"),
+         "Core German sentence: Der Mann ist vor der Schule. "
+         "Static location in front of: the man is in front of the school. "
+         "Japanese cue: 学校の前に. Chinese cue: 在學校前面. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-toward or entry patterns. "
+         "Vary the subject across the 4 pairs: man, woman, boy, dog. Use Mann, Frau, Junge, Hund. "
+         "Keep vor der Schule visible in every German line."),
+        # ── hinter + dative (behind, static) ───────────────────────────────
+        ("019_hinter_tuer_static.md",
+         "hinter + dative — bag is behind the door (static location)",
+         ("hinter der Tür", "behind", "door"),
+         "Core German sentence: Die Tasche ist hinter der Tür. "
+         "Static location behind: the bag is behind the door. "
+         "Japanese cue: ドアの後ろに. Chinese cue: 在門後面. "
+         "Use only static verbs: is, sits, lies. "
+         "Do not use movement-behind or hiding-movement patterns. "
+         "Vary the subject across the 4 pairs: bag, ball, book, blanket. "
+         "Keep hinter der Tür visible in every German line."),
+        ("020_hinter_haus_static.md",
+         "hinter + dative — garden is behind the house (static location)",
+         ("hinter dem Haus", "behind", "house"),
+         "Core German sentence: Der Garten ist hinter dem Haus. "
+         "Static location behind: the garden is behind the house. "
+         "Japanese cue: 家の後ろに. Chinese cue: 在房子後面. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-behind patterns. "
+         "Vary the subject across the 4 pairs: garden, bench, tree, ball. "
+         "Keep hinter dem Haus visible in every German line."),
+        ("021_hinter_baum_static.md",
+         "hinter + dative — dog is behind the tree (static location)",
+         ("hinter dem Baum", "behind", "tree"),
+         "Core German sentence: Der Hund ist hinter dem Baum. "
+         "Static location behind: the dog is behind the tree. "
+         "Japanese cue: 木の後ろに. Chinese cue: 在樹後面. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-behind or hiding-movement patterns. "
+         "Vary the subject across the 4 pairs: dog, boy, ball, girl. Use Hund, Junge, Mädchen. "
+         "Keep hinter dem Baum visible in every German line."),
+        # ── zwischen + dative (between, static) ────────────────────────────
+        ("022_zwischen_stuehlen_static.md",
+         "zwischen + dative — ball is between the chairs (static location)",
+         ("zwischen den Stühlen", "between", "chairs"),
+         "Core German sentence: Der Ball ist zwischen den Stühlen. "
+         "Static location between: the ball is between the chairs. "
+         "zwischen takes dative plural: den Stühlen. "
+         "Japanese cue: 椅子の間に. Chinese cue: 在椅子之間. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-between patterns. "
+         "Vary the subject across the 4 pairs: ball, bag, book, blanket. "
+         "Keep zwischen den Stühlen visible in every German line."),
+        ("023_zwischen_baeumen_static.md",
+         "zwischen + dative — bench is between the trees (static location)",
+         ("zwischen den Bäumen", "between", "trees"),
+         "Core German sentence: Die Bank ist zwischen den Bäumen. "
+         "Static location between: the bench is between the trees. "
+         "zwischen takes dative plural: den Bäumen. "
+         "Japanese cue: 木の間に. Chinese cue: 在樹木之間. "
+         "Use only static verbs: is, sits, stands. "
+         "Do not use movement-between patterns. "
+         "Vary the subject across the 4 pairs: bench, ball, boy, dog. Use Junge, Hund. "
+         "Keep zwischen den Bäumen visible in every German line."),
+        ("024_zwischen_bank_baum_static.md",
+         "zwischen + dative — ball is between the bench and the tree (static location)",
+         ("zwischen der Bank", "between", "bench"),
+         "Core German sentence: Der Ball ist zwischen der Bank und dem Baum. "
+         "Static location between two landmarks: the ball is between the bench and the tree. "
+         "zwischen takes dative: zwischen der Bank und dem Baum. "
+         "Japanese cue: ベンチと木の間に. Chinese cue: 在長椅和樹之間. "
+         "Use only static verbs: is, lies, sits. "
+         "Do not use movement-between patterns. "
+         "Vary the subject across the 4 pairs: ball, bag, apple, blanket. "
+         "Keep zwischen der Bank und dem Baum visible in every German line."),
+    ]
+
+    shared_suffix = (
+        " Static location only — do not use movement-onto, movement-into, or movement-toward patterns. "
+        "The German preposition must appear with a dative article (dem, der, or den for plural). "
+        "Do not switch from dative to accusative. "
+        "JP cross-cue: use にある for inanimate subjects and にいる for animate subjects. "
+        "ZH cross-cue: 在…上/下/中/前/後/旁/間 as appropriate. "
+        "Keep vocabulary simple and concrete."
+    )
+
+    return [
+        FileSpec(
+            path=f"03_place_static_dative/{filename}",
+            focus=focus,
+            required_terms=required,
+            notes=notes + shared_suffix,
+        )
+        for filename, focus, required, notes in rows
+    ]
+
+
 def make_bridge_specs() -> list[FileSpec]:
     """100 bridge course annotation files in three groups."""
     specs: list[FileSpec] = []
@@ -947,6 +1226,7 @@ CLUSTERS: dict[str, list[FileSpec]] = {
     "01_means_dative_anchor_seit_audit": make_seit_specs(),
     "01_means_dative_anchor_gegenueber_audit": make_gegenueber_specs(),
     "02_receiver_dative": make_receiver_dative_specs(),
+    "03_place_static_dative": make_place_static_dative_specs(),
     "bridge_course": make_bridge_specs(),
 }
 
@@ -1372,6 +1652,29 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("receiver dative files should use full dative forms, not contractions")
         if not re.search(r"\bdem \w|\bder \w", text):
             errors.append("receiver dative files must contain a visible dative article dem or der")
+    if "03_place_static_dative" in spec.path:
+        # Accusative forms signal movement — ban them
+        if re.search(r"\bin die\b|\bin das\b|\bin den\b", text, re.I):
+            errors.append("place static dative: in-accusative (in die/das/den) signals movement — keep in dem/in der")
+        if re.search(r"\bauf die\b|\bauf das\b|\bauf den\b", text, re.I):
+            errors.append("place static dative: auf-accusative (auf die/das/den) signals movement — keep auf dem/auf der")
+        for _prep in ("unter", "über", "neben", "vor", "hinter"):
+            if re.search(rf"\b{_prep} die\b|\b{_prep} das\b", text, re.I):
+                errors.append(f"place static dative: {_prep}-accusative signals movement — keep dative form")
+        if re.search(r"\bzwischen die\b", text, re.I):
+            errors.append("place static dative: zwischen-accusative signals movement — keep dative form")
+        # Movement verbs
+        if re.search(r"\b(puts|places|sets down|goes into|walks into|steps onto|climbs onto|crawls under)\b", text, re.I):
+            errors.append("place static dative: movement verb found — use static verbs only (is/sits/lies/stands/hangs)")
+        if re.search(r"\b(stellt|legt|geht in|geht auf|läuft in|klettert auf|kriecht unter|setzt sich auf)\b", text, re.I):
+            errors.append("place static dative: German movement verb found — use static verbs (ist/sitzt/liegt/steht/hängt)")
+        # Must have a two-way preposition in dative form
+        if not re.search(
+            r"\b(auf dem|auf der|in dem|in der|über dem|über der|unter dem|unter der|"
+            r"neben dem|neben der|vor dem|vor der|hinter dem|hinter der|zwischen dem|zwischen der|zwischen den)\b",
+            text, re.I,
+        ):
+            errors.append("place static dative: must contain a two-way preposition in dative form")
 
     blocks = re.split(r"(?=^\[user\])", text.strip(), flags=re.MULTILINE)
     blocks = [b for b in blocks if b.strip()]
