@@ -118,44 +118,28 @@ Grammar corpus constraints:
 
 ## Phase B — Grammar Generation
 
-Status: 4 clusters still incomplete. **Finish on Linux.**
+Status: **COMPLETE 2026-05-28.** All clusters at 100 files. Committed and pushed.
 
-Current counts (2026-05-27 end-of-Windows-session):
+| Cluster | Files | Status |
+|---|---:|---|
+| `00_relation` | 100 | done |
+| `01_means_dative_anchor` | 800 | done |
+| `02_receiver_dative` | 100 | done |
+| `03_place_static_dative` | 100 | done |
+| `04_change_state` | 100 | done |
+| `05_object_accusative_patient` | 100 | done |
+| `06_target_accusative_endpoint` | 100 | done |
+| `07_place_target_contrast` | 100 | done |
+| `08_source_path_destination` | 100 | done |
+| `09_owner_genitive` | 100 | done |
+| `10_review_stories` | 100 | done |
+| `bridge_course` | 100 | done |
 
-| Cluster | Files | Remaining |
-|---|---:|---:|
-| `00_relation` | 88 | 12 |
-| `02_receiver_dative` | 99 | 1 |
-| `03_place_static_dative` | 100 | — |
-| `08_source_path_destination` | 85 | 15 |
-| `09_owner_genitive` | 98 | 2 |
-| `10_review_stories` | 100 | — |
-
-To finish (skips existing files, safe to re-run):
-
-```bash
-for c in 00_relation 02_receiver_dative 08_source_path_destination 09_owner_genitive; do
-  python3 meta/scripts/gen_grammar.py --cluster $c --limit 100 >> /tmp/${c}_gen.log 2>&1 &
-done
-```
-
-**Resume here (Linux):** Run the above, wait for completion, then spot-audit 2-3 files per cluster (German case, JP plain form, ZH Traditional), then proceed to Phase G below. Run this to check phase localization progress:
-
-```bash
-for c in 00_relation 02_receiver_dative 03_place_static_dative 08_source_path_destination 09_owner_genitive 10_review_stories; do
-  echo "$c: $(ls training_data/grammar/$c/ | wc -l)/100"
-done
-```
-
-If any cluster is below 100, re-run its generator (it skips existing files):
-
-```bash
-python3 meta/scripts/gen_grammar.py --cluster 08_source_path_destination
-```
-
-After all clusters reach 100: do a spot audit of each new cluster (read 2-3 files, check German case, JP plain form, ZH Traditional), then proceed to **Phase G** (phase localization).
-
-Note: `10_review_stories` reached 100 on 2026-05-27 night. All 4 previously-failing `zwischen`/demonstrative files were force-regenerated successfully.
+Also fixed several spec/validator bugs in `gen_grammar.py` during this session:
+- Scoped `_zu_` and `_nach_` audit validators to `01_means_dative_anchor` only (were
+  incorrectly firing on `08_source_path_destination` chain/review files).
+- Fixed required_terms for chain files to use full dative forms, not contractions.
+- Added explicit "Do NOT use X" guards to prompts that kept drifting.
 
 ### Completed: `01_means_dative_anchor` — 800 files, all 8 prepositions at 100 each
 
@@ -418,44 +402,45 @@ This is not part of run_13 unless explicitly scoped later.
 
 ## Phase G — Phase Corpus Localization
 
-Status: IN PROGRESS. Windows session 2026-05-27 started 3 nohup processes (one per language).
-Processes may still be running when Linux session begins — check before launching new ones.
+Status: **IN PROGRESS — Linux session 2026-05-28.** 3 nohup processes running (PIDs 9584/9585/9586).
 
-End-of-Windows-session counts (2026-05-27 ~18:xx local):
+Counts at session start (after Windows runaway workers + pull):
 
-| Lang | Done | Remaining | Errors (missed files) |
-|---|---:|---:|---|
-| DE | 5126 | 680 | 0 |
-| JP | 1775 | 4031 | 10 (road_2→room) |
-| ZH | 2079 | 3727 | 10 (dot→driftwood) |
+| Lang | Done | Remaining |
+|---|---:|---:|
+| DE | 5546 | 260 |
+| JP | 1910 | 3896 |
+| ZH | 2168 | 3638 |
 
-Missed-error files will be picked up automatically on restart (they were never written).
-
-**Script:** `meta/scripts/localize_phases.py`
-
-**Resume here (Linux):**
+**API key note:** `localize_phases.py` does not call `load_dotenv`. Key must be passed explicitly:
 
 ```bash
-# Step 1 — check if Windows processes are still running
-ps aux | grep localize_phases | grep -v grep
-
-# Step 2 — check current progress
-PYTHONIOENCODING=utf-8 python3 meta/scripts/localize_phases.py report
-
-# Step 3 — for any language not yet at 5806, restart its process (skips existing files):
-OPENROUTER_API_KEY=<key> nohup python3 meta/scripts/localize_phases.py gen \
-  --phase all --lang DE --workers 1 --batch 10 >> tmp/localize_DE.log 2>&1 &
-OPENROUTER_API_KEY=<key> nohup python3 meta/scripts/localize_phases.py gen \
-  --phase all --lang JP --workers 1 --batch 10 >> tmp/localize_JP.log 2>&1 &
-OPENROUTER_API_KEY=<key> nohup python3 meta/scripts/localize_phases.py gen \
-  --phase all --lang ZH --workers 1 --batch 10 >> tmp/localize_ZH.log 2>&1 &
+KEY=$(python3 -c "import re; m=re.search(r'OPENROUTER_API_KEY=(\S+)', open('.env').read()); print(m.group(1))")
+OPENROUTER_API_KEY="$KEY" nohup python3 meta/scripts/localize_phases.py gen \
+  --phase all --lang DE --workers 4 >> tmp/localize_DE.log 2>&1 &
+OPENROUTER_API_KEY="$KEY" nohup python3 meta/scripts/localize_phases.py gen \
+  --phase all --lang JP --workers 4 >> tmp/localize_JP.log 2>&1 &
+OPENROUTER_API_KEY="$KEY" nohup python3 meta/scripts/localize_phases.py gen \
+  --phase all --lang ZH --workers 4 >> tmp/localize_ZH.log 2>&1 &
 ```
 
-**Bidirectional speedup for JP/ZH (when DE is done):**
-JP and ZH are slow (~6 files/min). To finish faster, run 2 processes per language:
-one forward (default) + one reverse (needs `--reverse` flag — not yet implemented, add it).
-4 processes total: JP-forward, JP-reverse, ZH-forward, ZH-reverse, meeting in the middle.
-This roughly halves remaining time for JP/ZH.
+Check progress:
+
+```bash
+python3 meta/scripts/localize_phases.py report
+```
+
+Check processes alive:
+
+```bash
+ps aux | grep localize_phases | grep -v grep
+```
+
+**Resume here (next session):** Check if processes still running. If dead, re-run the launch block above (safe to re-run — skips existing files). Wait for all 3 langs to reach 5806/5806, then commit and proceed to Phase H.
+
+**Bidirectional speedup for JP/ZH (optional):**
+JP and ZH are slow (~6 files/min each at 4 workers). Can run a second process per language
+in reverse order once `--reverse` flag is added to the script. Halves remaining time.
 
 Produces `_DE.md`, `_JP.md`, `_ZH.md` siblings for every English phase file. Skips already-done files; safe to re-run after interruption. Validates `[user]`/`[Ninereeds]` structure and ZH/JP character presence on every output before writing.
 
