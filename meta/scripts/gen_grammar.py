@@ -6854,54 +6854,62 @@ def make_source_path_destination_specs() -> list[FileSpec]:
          ("nach Hause",),
          "Focus: nach Hause as destination. "
          "Emma, Taro, or Gran goes home. Vary agents across 4 pairs. "
-         "JP: 家に帰る / 家に行く. ZH: 回家 / 去家裡."),
+         "JP: 家に帰る / 家に行く. ZH: 回家 / 去家裡. "
+         "Do NOT use aus dem, aus der, von dem, von der, zu dem, zu der, bei dem, bei der, in die, in das, in den."),
         ("057_nach_destination_b.md",
          "Taro goes nach draußen",
          ("nach draußen",),
          "Focus: nach draußen as destination. "
          "Agents go outside. Vary agents across 4 pairs. "
-         "JP: 外に出る. ZH: 出去."),
+         "JP: 外に出る. ZH: 出去. "
+         "Do NOT use aus dem, aus der, von dem, von der, zu dem, zu der, bei dem, bei der, in die, in das, in den."),
         ("058_nach_destination_c.md",
          "Emma goes nach oben / nach unten",
          ("nach oben", "nach unten"),
          "Focus: nach oben (upstairs/up) and nach unten (downstairs/down). "
-         "Use both directions across 4 pairs. Vary agents."),
-        ("059_nach_destination_d.md",
-         "Taro runs nach draußen aus dem Haus",
+         "Use both directions across 4 pairs. Vary agents. "
+         "Do NOT use aus dem, aus der, von dem, von der, zu dem, zu der, bei dem, bei der, in die, in das, in den."),
+        ("059_aus_nach_a.md",
+         "Taro runs aus dem Haus nach draußen",
          ("nach draußen", "aus dem Haus"),
-         "Focus: aus dem Haus + nach draußen chain. "
-         "Agents exit the house and go outside. Vary agents and verbs."),
-        ("060_nach_destination_e.md",
-         "Gran goes back nach Hause from the garden",
+         "Focus: aus dem Haus (source) + nach draußen (destination) chain. "
+         "Agents exit the house and go outside. Vary agents and verbs across 4 pairs."),
+        ("060_aus_nach_b.md",
+         "Gran goes aus dem Garten nach Hause",
          ("nach Hause", "aus dem Garten"),
-         "Focus: aus dem Garten + nach Hause chain. "
+         "Focus: aus dem Garten (source) + nach Hause (destination) chain. "
          "Agents leave garden and head home. Vary across 4 pairs."),
         ("061_zu_person_a.md",
-         "Emma goes zu dem Kind / zum Kind",
-         ("zum Kind", "zu dem Kind"),
+         "Emma goes zu dem Kind",
+         ("zu dem Kind",),
          "Focus: zu + person-dative as destination. "
          "Emma goes to the child. Vary agents and destination persons across 4 pairs. "
-         "Use visibly marked dative person phrases: dem Kind, dem Mann, der Frau, dem Arzt."),
+         "Use full dative forms: zu dem Kind, zu dem Mann, zu der Frau, zu dem Arzt. "
+         "Do NOT use contractions zum or zur."),
         ("062_zu_person_b.md",
-         "Taro goes zu dem Arzt / zum Arzt",
-         ("zum Arzt", "zu dem Arzt"),
+         "Taro goes zu dem Arzt",
+         ("zu dem Arzt",),
          "Focus: zu + person-dative — professional destination. "
-         "Taro goes to the doctor or teacher. Vary across 4 pairs."),
+         "Taro goes to the doctor or teacher. Vary across 4 pairs. "
+         "Use full dative forms: zu dem Arzt, zu dem Lehrer. Do NOT use zum or zur."),
         ("063_zu_person_c.md",
          "Gran goes zu dem Mann / zu der Frau",
          ("zu dem Mann", "zu der Frau"),
          "Focus: zu + person-dative — social destination. "
-         "Gran or Emma goes to the man or woman. Vary across 4 pairs."),
+         "Gran or Emma goes to the man or woman. Vary across 4 pairs. "
+         "Do NOT use aus dem, aus der, von dem, von der, bei dem, bei der. Movement-toward only."),
         ("064_zu_person_d.md",
-         "Emma goes zu dem Baum / zur Bank",
-         ("zur Bank", "zu dem Baum"),
-         "Focus: zu + place-dative as destination (tree, bench). "
-         "Vary agents and zu-destinations across 4 pairs."),
+         "Emma goes aus dem Haus zu dem Baum",
+         ("zu dem Baum", "aus dem Haus"),
+         "Focus: aus dem Haus (source) + zu + place-dative as destination (tree, bench). "
+         "Each pair starts with a source (aus dem Haus, aus dem Zimmer, aus dem Garten, aus der Küche) "
+         "then moves zu dem Baum, zu der Bank, etc. Vary agents and destinations across 4 pairs."),
         ("065_zu_person_e.md",
-         "mixed zu-destinations review",
-         ("zu",),
+         "mixed zu-destinations review with source",
+         ("zu dem", "aus dem"),
          "Review file: mix zu + person and zu + place destinations across 4 pairs. "
-         "Use zum/zur contractions where appropriate. Keep German dative visible."),
+         "Each pair includes a source (aus dem Haus, aus der Küche, etc.) and a zu-destination. "
+         "Use full dative forms: zu dem, zu der. Keep German dative visible."),
         ("066_aus_nach_chain_a.md",
          "Emma goes aus dem Haus nach draußen",
          ("aus dem Haus", "nach draußen"),
@@ -6913,20 +6921,21 @@ def make_source_path_destination_specs() -> list[FileSpec]:
          "Focus: aus dem Zimmer + nach oben chain. "
          "Vary agents across 4 pairs."),
         ("068_aus_zu_chain_a.md",
-         "Emma goes aus dem Haus zum Kind",
-         ("aus dem Haus", "zum Kind"),
-         "Focus: aus dem Haus + zum Kind/zum Mann/zur Frau chain. "
+         "Emma goes aus dem Haus zu dem Kind",
+         ("aus dem Haus", "zu dem Kind"),
+         "Focus: aus dem Haus (source) + zu dem Kind/zu dem Mann/zu der Frau chain. "
          "Vary person-destinations across 4 pairs."),
         ("069_aus_zu_chain_b.md",
-         "Gran goes aus der Küche zur Bank",
-         ("aus der Küche", "zur Bank"),
-         "Focus: aus der Küche + zur Bank chain. "
+         "Gran goes aus der Küche zu der Bank",
+         ("aus der Küche", "zu der Bank"),
+         "Focus: aus der Küche (source) + zu der Bank chain. "
          "Vary agents and destinations across 4 pairs."),
         ("070_nach_zu_review.md",
          "mixed nach/zu destination review",
          ("nach", "zu"),
          "Review file: mix nach and zu destinations across 4 pairs. "
-         "Vary agents and destinations. Contractions (zum/zur) are fine here."),
+         "Each pair includes a source (aus dem Haus, aus der Küche, etc.) then either nach or zu destination. "
+         "Vary agents and destinations."),
 
         # Group 6: durch path 071-080
         ("071_durch_path_a.md",
@@ -8318,12 +8327,13 @@ def make_relation_specs() -> list[FileSpec]:
          ("source", "from"),
          "Applied example: Taro kommt vom Markt. The market is the source. "
          "von = always dative. Vary: Taro/Markt, Gran/Schule, Emma/Park, Taro/Garten."),
-        ("019_target_nach_zu.md",
+        ("019_target_directions.md",
          "target concept applied: Emma goes to the park (nach/zu + dative)",
          ("target", "to"),
-         "Applied example: Emma geht in den Park / Emma geht zum Markt. "
-         "nach + place names; zu + dative nouns. Ask where Emma goes. "
-         "Vary: Emma/Park, Taro/Markt, Gran/Schule, Biscuit/Garten."),
+         "Applied example: Emma geht in den Park / Emma geht zu dem Markt. "
+         "nach + bare place names (no article). zu + dative nouns: zu dem, zu der — NEVER contractions zum or zur. "
+         "The destination is the target. Use the word 'target' in the Ninereeds response when naming the destination. "
+         "Ask where each person goes. Vary: Emma/Park, Taro/Markt, Gran/Schule, Biscuit/Garten."),
         ("020_target_in_accusative.md",
          "target concept applied: Emma puts the cup into the box (in + accusative = endpoint)",
          ("target", "into"),
@@ -8644,9 +8654,10 @@ def make_relation_specs() -> list[FileSpec]:
         ("074_story_gran_market.md",
          "story: Gran travels to the market — means, source, target",
          ("means", "target"),
-         "Story: Gran fährt mit dem Bus (means). Gran geht zum Markt (target). "
+         "Story: Gran fährt mit dem Bus (means). Gran geht zu dem Markt (target). "
          "Gran kommt vom Markt (source, return). Gran bringt Taro das Brot (receiver). "
-         "4 pairs."),
+         "4 pairs. Name each relation explicitly in the English Ninereeds line — "
+         "use the word 'means' when describing the bus, and the word 'target' when describing the market destination."),
         ("075_story_emma_place_things.md",
          "story: Emma places objects — action, object, target, place",
          ("action", "place"),
@@ -8675,8 +8686,9 @@ def make_relation_specs() -> list[FileSpec]:
          "review story A: Gran's morning — source, place, receiver, means",
          ("source", "means"),
          "Story: Gran kommt aus der Küche (source). Gran setzt sich auf die Bank (place). "
-         "Gran gibt Biscuit den Ball (receiver). Gran geht mit Biscuit in den Garten (accompaniment). "
-         "4 pairs narrating Gran's morning."),
+         "Gran gibt Biscuit den Ball (receiver). Gran geht mit Biscuit in den Garten (means — Biscuit is the companion, mit = means). "
+         "4 pairs narrating Gran's morning. Name each relation explicitly in the English Ninereeds line — "
+         "use the word 'source' when describing where Gran comes from, and the word 'means' when describing going with Biscuit."),
         ("080_review_story_combined_b.md",
          "review story B: Taro's afternoon — target, path, owner, receiver",
          ("target", "owner"),
@@ -8694,7 +8706,8 @@ def make_relation_specs() -> list[FileSpec]:
          ("owner", "place"),
          "Story: Das ist Emmas Becher (owner). Der Becher ist auf dem Tisch (place). "
          "Emma nimmt den Becher (action). Emma gibt Taro den Becher (receiver). "
-         "4 pairs narrating the cup's journey."),
+         "4 pairs narrating the cup's journey. Name each relation explicitly in the English Ninereeds line — "
+         "use the word 'owner' when describing possession, and the word 'place' when describing location."),
         ("083_applied_receiver_complex.md",
          "applied: complex receiver scene — two givers, two receivers",
          ("receiver", "gives"),
@@ -8800,7 +8813,8 @@ def make_relation_specs() -> list[FileSpec]:
          ("owner", "place"),
          "Grans Hund schläft auf der Bank (owner + place). Gran geht in den Garten (target). "
          "Gran gibt Emma die Decke (receiver). Gran kommt aus der Küche (source). "
-         "4 pairs; name at least one relation per pair."),
+         "4 pairs. Name each relation explicitly in the English Ninereeds line — "
+         "use the word 'owner' when describing possession (Gran's dog), and the word 'place' when describing location (on the bench)."),
         ("100_review_final_mixed.md",
          "final comprehensive review: all 11 concepts in one complete scene",
          ("receiver", "place"),
@@ -9196,7 +9210,7 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("von audit files should keep source meaning, not nearby meaning")
         if re.search(r"の中から|の中に", text):
             errors.append("von audit files should use surface or place-of-origin meaning, not interior container meaning")
-    if "_zu_" in spec.path:
+    if "_zu_" in spec.path and "01_means_dative_anchor" in spec.path:
         if re.search(r"\bzum\b|\bzur\b", text, re.I):
             errors.append("zu audit files should use full forms like zu dem / zu der, not contractions zum or zur")
         if re.search(r"\bnach dem\b|\bnach der\b|\bnach den\b", text, re.I):
@@ -9213,7 +9227,7 @@ def validate(text: str, spec: FileSpec) -> list[str]:
             errors.append("zu audit files should keep movement-toward meaning in Japanese, not static forms")
         if re.search(r"[锤长扫车门书话马鸟鱼间园]", text):
             errors.append("possible Simplified Chinese character found; use Traditional Chinese")
-    if "_nach_" in spec.path:
+    if "_nach_" in spec.path and "01_means_dative_anchor" in spec.path and "_chain_" not in spec.path and "_aus_nach_" not in spec.path:
         if re.search(r"\bzum\b|\bzur\b", text, re.I):
             errors.append("nach audit files should not use zu contractions zum or zur")
         if re.search(r"\bzu dem\b|\bzu der\b|\bbei dem\b|\bbei der\b|\baus dem\b|\baus der\b|\bvon dem\b|\bvon der\b", text, re.I):
