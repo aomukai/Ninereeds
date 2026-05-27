@@ -170,7 +170,7 @@ Validation focus:
 
 ### 03_place_static_dative
 
-Status: not generated.
+Status: generated and validated — 24 files complete.
 
 Purpose: static location and spatial relation.
 
@@ -201,11 +201,11 @@ Validation focus:
 
 ### 04_change_state
 
-Status: not generated.
+Status: generated and validated — 100 files complete. 2026-05-26.
 
 Purpose: becoming, waking, growing, and state transition.
 
-Target files: 12
+Target files: 100
 
 Core patterns:
 
@@ -227,11 +227,11 @@ Validation focus:
 
 ### 05_object_accusative_patient
 
-Status: not generated.
+Status: generated and validated — 100 files complete. 2026-05-26.
 
 Purpose: direct object / acted-on patient.
 
-Target files: 16
+Target files: 100
 
 Core German patterns:
 
@@ -252,11 +252,11 @@ Validation focus:
 
 ### 06_target_accusative_endpoint
 
-Status: not generated.
+Status: generated and validated — 100 files complete. 2026-05-27.
 
 Purpose: movement endpoint with two-way prepositions.
 
-Target files: 24
+Target files: 100
 
 Core German patterns:
 
@@ -279,11 +279,11 @@ Validation focus:
 
 ### 07_place_target_contrast
 
-Status: not generated.
+Status: generated and validated — 100 files complete. 2026-05-27.
 
 Purpose: explicit contrast between static place and movement endpoint.
 
-Target files: 18
+Target files: 100
 
 Contrast pairs:
 
@@ -427,3 +427,9 @@ Add one line per generated/audited batch:
 | 2026-05-26 | `02_receiver_dative` | 16 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (4 files) + full corpus dry-run pass | 8 verbs: give/show/bring/send/lend (ditransitive) then help/answer/tell (pure dative). Receiver dative visibly marked in every German line. JP に particle consistent. Traditional Chinese throughout. |
 | 2026-05-26 | `bridge_course` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full scan (6 checks) + corpus dry-run pass | Bracket-annotation schema (new format, no [user]/[Ninereeds] tags). Group A (001–050) ditransitive 4-pair, Group B (051–070) ditransitive+genitive 5-pair, Group C (071–100) pure-dative 3-pair. Validator catches: SECTION headers, simplified 给/苹/玛/铅/篮/邻/个, uppercase article in EN answers, German in EN answer position. Corpus builder updated with check_grammar_file dispatcher. |
 | 2026-05-26 | `03_place_static_dative` | 24 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (4 files) + full corpus dry-run pass 945/945 | 8 two-way prepositions × 3 files each: auf/in/über/unter/neben/vor/hinter/zwischen, all in dative. Static location only — no movement verbs. Drift guards added to validator: accusative forms (in die/das/den, auf die/das/den, etc.) flagged, movement verbs (stellt/legt/geht in) flagged, must contain dative two-way prep. JP にある/にいる inanimate/animate distinction correct throughout. Traditional Chinese clean. |
+| 2026-05-26 | `04_change_state` | 12 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (4 files) + full corpus dry-run pass 957/957 | 12 files: temperature (kalt/warm/heiß/kühl), physical state (hart/weich/nass/trocken), living state (müde/wach/krank/gesund). `wird` + adjective predicate throughout. JP uses 〜くなる for i-adjective changes, 〜になる for na-adjective/noun predicates. ZH uses 變〜了 pattern. Drift guards: requires `wird`, bans movement verbs and accusative prepositions. 12/12 clean on first pass. |
+| 2026-05-26 | `05_object_accusative_patient` | 16 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (4 files) + full corpus dry-run pass 973/973 | 16 files, one per transitive verb: see/find/call/carry/take/hold/open/wash/cut/eat/buy/read/write/draw/need/throw. Gender contrast (den/die/das) across 4 pairs per file. JP を particle throughout. ZH SVO. Drift guards: requires を, requires visible accusative article, bans werden and ditransitive verbs. 16/16 clean on first pass. |
+| 2026-05-26 | `04_change_state` extension | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | full corpus dry-run pass | Extended from 12 to 100 files. Original 12 adjectives (kalt/warm/heiß/kühl/hart/weich/nass/trocken/müde/wach/krank/gesund) plus 88 new: physical/object adjectives (voll/leer/sauber/schmutzig/kaputt/hell/dunkel/laut/leise/schwer/leicht/offen/geschlossen/frisch/eisig/glatt/rau/süß/hungrig/durstig/satt/stark/schwach/ruhig/still/glücklich/traurig/froh/böse/wütend/nervös/aufgeregt/stolz/blass/fertig/bereit/aktiv/groß/alt/rot) plus _b/_c variant files. 100/100 clean. |
+| 2026-05-26 | `05_object_accusative_patient` extension | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit + full corpus dry-run pass | Extended from 16 to 100 files. New verbs added: trinken/schließen/holen/kochen/backen/heben/putzen/reparieren/suchen/verlieren/schlagen/hören/fangen/streicheln/kennen/beobachten/packen/füllen/pflücken/wiegen/bauen/schieben/messen/wischen/schütteln/drücken/rollen/falten/wählen + extensions of original 16. Gender contrast (den/die/das) throughout. 1 validation failure on first pass (039_need_b), passed on retry. |
+| 2026-05-27 | `06_target_accusative_endpoint` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (6 files) + full corpus dry-run pass 1245/1245 | 100 files across 8 two-way prepositions (auf/in/über/unter/neben/vor/hinter/zwischen), ~12-13 files each. Agent movement + object placement patterns. Gender contrast (den/die/das) files included per preposition. JP の上に/の下に/の前に/の後ろに/の隣に/の間に + placement verb. ZH Traditional 放到/走到/帶到 + location. Drift guards: requires two-way prep in accusative form, bans dative forms (im/auf dem/in der etc.), requires movement or placement verb. 100/100 clean. |
+| 2026-05-27 | `07_place_target_contrast` | 100 | DeepSeek V4 Flash via `meta/scripts/gen_grammar.py` | spot audit (5 files) + full corpus dry-run pass 1345/1345 | 100 files across 8 two-way prepositions (auf/in/über/unter/neben/vor/hinter/zwischen), ~12-13 files each. Each file alternates static dative pairs (auf dem/in der etc. + ist/liegt/steht/hängt) and endpoint accusative pairs (auf den/in die etc. + stellt/legt/geht/hängt/bringt). Drift guards: requires dative two-way prep, requires accusative two-way prep, requires static verb, requires movement/placement verb — all four must appear. JP: static pairs use にある/にいる/かかっている; endpoint pairs use に置く/に行く/に入る. ZH: static 在〜; endpoint 放到〜/走到〜/帶到〜. Traditional Chinese throughout. 100/100 clean. |

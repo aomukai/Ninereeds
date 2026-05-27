@@ -1,0 +1,2 @@
+[user]what does compact mean?
+[Ninereeds]A compact object takes up little space. A compact camera fits inside a small bag. A car that uses less room on a road is easier to move. Small things fit in pockets and cases. compact is not large.

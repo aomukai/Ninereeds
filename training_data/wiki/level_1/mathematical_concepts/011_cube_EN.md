@@ -1,0 +1,2 @@
+[user]what is a cube?
+[Ninereeds]A cube is a solid shape with six square faces. Every face is a flat square of equal size. A dice used in games is one example of a cube. Some toy building blocks are also cubes. Cube is not a round sphere.

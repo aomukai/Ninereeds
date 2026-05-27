@@ -118,9 +118,44 @@ Grammar corpus constraints:
 
 ## Phase B — Grammar Generation
 
-Status: `01_means_dative_anchor`, `02_receiver_dative`, `bridge_course`, `03_place_static_dative` complete. Active work is now `04_change_state`.
+Status: 4 clusters incomplete as of 2026-05-28 13:xx. OpenRouter keeps dropping connections mid-run; generators need babysitting. **Finish this on Linux after Windows phase session.**
 
-**Resume here next session: `04_change_state`.** Read `claude.md` and this file — no other handoff doc is needed.
+Current counts (2026-05-28):
+
+| Cluster | Files | Remaining |
+|---|---:|---:|
+| `00_relation` | 88 | 12 |
+| `02_receiver_dative` | 97 | 3 |
+| `03_place_static_dative` | 100 | — |
+| `08_source_path_destination` | 85 | 15 |
+| `09_owner_genitive` | 98 | 2 |
+| `10_review_stories` | 100 | — |
+
+To finish (skips existing files, safe to re-run):
+
+```bash
+for c in 00_relation 02_receiver_dative 08_source_path_destination 09_owner_genitive; do
+  python3 meta/scripts/gen_grammar.py --cluster $c --limit 100 >> /tmp/${c}_gen.log 2>&1 &
+done
+```
+
+**Resume here (Windows session 2026-05-28):** Grammar is not complete — proceed to Phase G (phase localization) now and finish grammar on Linux later. Run this to check phase localization progress:
+
+```bash
+for c in 00_relation 02_receiver_dative 03_place_static_dative 08_source_path_destination 09_owner_genitive 10_review_stories; do
+  echo "$c: $(ls training_data/grammar/$c/ | wc -l)/100"
+done
+```
+
+If any cluster is below 100, re-run its generator (it skips existing files):
+
+```bash
+python3 meta/scripts/gen_grammar.py --cluster 08_source_path_destination
+```
+
+After all clusters reach 100: do a spot audit of each new cluster (read 2-3 files, check German case, JP plain form, ZH Traditional), then proceed to **Phase G** (phase localization).
+
+Note: `10_review_stories` reached 100 on 2026-05-27 night. All 4 previously-failing `zwischen`/demonstrative files were force-regenerated successfully.
 
 ### Completed: `01_means_dative_anchor` — 800 files, all 8 prepositions at 100 each
 
@@ -151,49 +186,33 @@ Status: complete 2026-05-26. 24/24 generated clean on first pass. Spot audit cle
 
 8 two-way prepositions × 3 files each: auf/in/über/unter/neben/vor/hinter/zwischen, all in dative. Static location only. Drift guards added to validator (accusative forms, movement verbs, missing dative prep). JP にある/にいる distinction applied correctly.
 
-### Active cluster: `04_change_state`
+### Completed: `04_change_state` — 100 files
 
-Status: specs not yet written. This is the first task for the next session.
+Status: complete 2026-05-26. 100/100 generated. Corpus dry-run pass: clean.
 
-Target: 12 files. Purpose: becoming / state-change patterns (`werden` + predicate).
+Original 12: temperature (kalt/warm/heiß/kühl), physical (hart/weich/nass/trocken), living (müde/wach/krank/gesund). Expanded to 100 with: voll/leer/sauber/schmutzig/kaputt/hell/dunkel/laut/leise/schwer/leicht/offen/geschlossen/frisch/eisig/glatt/rau/süß/hungrig/durstig/satt/stark/schwach/ruhig/still/glücklich/traurig/froh/böse/wütend/nervös/aufgeregt/stolz/blass/fertig/bereit/aktiv/groß/alt/rot + second-wave _b/_c variants. `wird` + adjective throughout. JP 〜くなる / 〜になる. ZH 變〜了.
 
-Core German patterns to cover:
+### Completed: `05_object_accusative_patient` — 100 files
 
-- `Das Wasser wird kalt.`
-- `Das Brot wird hart.`
-- `Das Kind wird müde.`
-- `Die Suppe wird warm.`
+Status: 100 files complete 2026-05-26. 100/100 generated; 1 validation failure on first pass, passed on retry. Corpus dry-run pass: clean.
 
-Requirements:
-- Focus on `werden` as the change-of-state copula, not movement.
-- Adjective predicate changes across the 4 pairs (cold→hot, hard→soft, tired→awake, etc.).
-- JP cross-cue: `〜になる` pattern.
-- ZH cross-cue: `變得〜` pattern.
-- 4 pairs per file, EN/DE/JP/ZH format.
+16 original verbs + 24 new verbs (trinken/schließen/holen/kochen/backen/heben/putzen/reparieren/suchen/verlieren/schlagen/hören/fangen/streicheln/kennen/beobachten/packen/füllen/pflücken/wiegen/bauen/schieben/messen/wischen/schütteln/drücken/rollen/falten/wählen). Gender contrast (den/die/das) throughout. JP を throughout. ZH SVO Traditional.
 
-**Steps to start:**
+### Completed: `06_target_accusative_endpoint` — 100 files
 
-1. Add `make_change_state_specs()` to `meta/scripts/gen_grammar.py`.
-2. Add `04_change_state` drift guards to the validator (no movement verbs, werden must appear).
-3. Add cluster key to `CLUSTERS`.
-4. Dry-run, audit batch of 6, corpus check, then remaining 6 files.
-5. Update manifest and this file when done.
+Status: complete 2026-05-27. 100/100 generated. Corpus dry-run pass: 1245/1245 grammar files included.
 
-Generation command pattern:
-```bash
-python3 meta/scripts/gen_grammar.py --cluster 04_change_state --limit 6
-python3 meta/scripts/gen_grammar.py --cluster 04_change_state --offset 6
-```
+8 two-way prepositions × 12-13 files each: auf/in/über/unter/neben/vor/hinter/zwischen, all in accusative (movement endpoint). Agent movement + object placement verbs (gehen/laufen/legen/stellen/setzen/hängen/bringen/kriechen). Gender contrast files included per preposition. Drift guards: requires accusative two-way prep, bans dative forms, requires movement/placement verb. JP の上に/下に/前に/後ろに/隣に/間に + verb. ZH Traditional 放到/走到/帶到.
 
-Regenerate a failed file (never written on FAIL):
-```bash
-python3 meta/scripts/gen_grammar.py --cluster 04_change_state --match "NNN" --force
-```
+### Completed: `07_place_target_contrast` — 100 files
 
-Corpus validation after each batch:
-```bash
-python3 meta/scripts/build_training_corpus.py --dry-run
-```
+Status: complete 2026-05-27. 100/100 generated. Corpus dry-run pass: 1345/1345 grammar files included.
+
+8 two-way prepositions × 12-13 files each: auf/in/über/unter/neben/vor/hinter/zwischen. Each file alternates static dative pairs (auf dem/in der etc. + ist/liegt/steht/hängt) and endpoint accusative pairs (auf den/in die etc. + stellt/legt/geht/bringt). Four drift guards: requires dative two-way prep, requires accusative two-way prep, requires static verb, requires movement/placement verb. JP にある vs に置く distinction. ZH 在〜 vs 放到〜 contrast. Traditional Chinese throughout.
+
+### Next: `08_source_path_destination` — 100 files
+
+Plan: source/path/destination chains. Core German: `aus der Küche in den Garten`, `von meinem Haus zum Kino`, `vom Baum zur Bank`. JP from/to particles: から, まで, へ, に. Cluster should only appear after 07 contrast is established. Generate spec function in `gen_grammar.py` then generate in a single batch.
 
 Generate with DeepSeek one directory at a time.
 
@@ -218,8 +237,8 @@ Target count from `docs/grammar_plan.md`:
 | `03_place_static_dative` | 24 | static spatial dative |
 | `04_change_state` | 12 | becoming / state change |
 | `05_object_accusative_patient` | 16 | direct object |
-| `06_target_accusative_endpoint` | 24 | movement endpoint |
-| `07_place_target_contrast` | 18 | static vs endpoint contrast |
+| `06_target_accusative_endpoint` | 100 | movement endpoint |
+| `07_place_target_contrast` | 100 | static vs endpoint contrast |
 | `08_source_path_destination` | 16 | source/path/destination chains |
 | `09_owner_genitive` | 8 | ownership / attribute |
 | `10_review_stories` | 12 | grounded reinforcement |
@@ -399,7 +418,30 @@ This is not part of run_13 unless explicitly scoped later.
 
 ## Phase G — Phase Corpus Localization
 
-Status: planned as a separate major expansion.
+Status: script written; ready to run on Windows 2026-05-28.
+
+**Script:** `meta/scripts/localize_phases.py`
+
+**Start here (Windows session 2026-05-28):**
+
+```bash
+# Check progress at any time
+python3 meta/scripts/localize_phases.py report
+
+# Run one letter per agent across all phases (letter = first char of file stem)
+# Heavy letters (s has ~250+ files in phase_1/phase_6) must be split:
+python3 meta/scripts/localize_phases.py gen --phase 1 --letter a --workers 4
+python3 meta/scripts/localize_phases.py gen --phase 1 --letter b --workers 4
+# ... one letter per run
+python3 meta/scripts/localize_phases.py gen --phase 1 --letter s --prefix sa-sl --workers 4
+python3 meta/scripts/localize_phases.py gen --phase 1 --letter s --prefix sm-sz --workers 4
+# ... continue for all phases 1-6
+
+# Or run the whole lot at once (slower but hands-off):
+python3 meta/scripts/localize_phases.py gen --phase all --workers 4
+```
+
+Produces `_DE.md`, `_JP.md`, `_ZH.md` siblings for every English phase file. Skips already-done files; safe to re-run after interruption. Validates `[user]`/`[Ninereeds]` structure and ZH/JP character presence on every output before writing.
 
 Rationale:
 
@@ -419,9 +461,9 @@ Current phase size:
 | phase_6 | 1,592 |
 | total | 5,806 |
 
-Full localization would add about 17,418 files.
+Full localization adds ~17,418 files (5,806 × 3 languages). The `_2` duplicate files (380 total across all phases) are included — localize them all.
 
-Preferred naming:
+Output naming:
 
 ```text
 training_data/phases/phase_1/apple.md
@@ -438,16 +480,6 @@ Rules:
 - preserve the teaching rhythm
 - do not add uncontrolled vocabulary
 - localize naturally, not word-for-word
-
-Pilot candidates:
-
-- phase_6 bridge words: `question`, `answer`, `word`, `sentence`, `plan`,
-  `goal`, `true`, `real`
-- phase_1 concrete nouns needed by grammar: `apple`, `boy`, `girl`, `man`,
-  `woman`, `doctor`, `teacher`, `table`, `bench`, `kitchen`, `garden`, `bus`,
-  `hammer`, `ball`
-
-Do not generate all phase localizations before a pilot is validated.
 
 ---
 
