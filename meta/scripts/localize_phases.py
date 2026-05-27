@@ -92,9 +92,17 @@ STRUCTURAL_RULES = """\
 Structural rules (apply to ALL languages):
 - Keep [user] and [Ninereeds] tags EXACTLY as written — same capitalisation, no changes.
 - Preserve the exact number of [user]/[Ninereeds] pairs from the source file.
-- Each [Ninereeds] block must have the same number of lines as in the source.
+- Each [Ninereeds] block must have the SAME NUMBER OF LINES as in the source.
+  The source has 6 lines per [Ninereeds] block — your translation must also have 6 lines.
+- ONE SENTENCE PER LINE. Do NOT combine multiple sentences onto a single line.
+  Each translated sentence goes on its own line, exactly as in the source.
 - The [Ninereeds] tag and the first translated sentence are on the SAME line:
     [Ninereeds]First sentence here.
+    Second sentence here.
+    Third sentence here.
+    Fourth sentence here.
+    Fifth sentence here.
+    Sixth sentence here.
 - Blank lines between blocks must be preserved exactly as in the source.
 - Do not add extra lines, headings, or explanatory text.
 - Output ONLY the translated file content — no preamble, no section headers.
@@ -157,6 +165,30 @@ def count_tag(text: str, tag: str) -> int:
     return len(re.findall(rf"^\[{re.escape(tag)}\]", text, re.MULTILINE))
 
 
+def _block_line_counts(text: str) -> list[int]:
+    """Return the non-blank line count for each [Ninereeds] block."""
+    counts = []
+    in_block = False
+    current = 0
+    for line in text.splitlines():
+        if line.startswith("[Ninereeds]"):
+            if in_block:
+                counts.append(current)
+            in_block = True
+            current = 1
+        elif line.startswith("[user]"):
+            if in_block:
+                counts.append(current)
+                in_block = False
+                current = 0
+        elif in_block:
+            if line.strip():
+                current += 1
+    if in_block:
+        counts.append(current)
+    return counts
+
+
 def validate_localized(source: str, output: str, lang: str) -> list[str]:
     errors: list[str] = []
     src_user = count_tag(source, "user")
@@ -167,6 +199,10 @@ def validate_localized(source: str, output: str, lang: str) -> list[str]:
         errors.append(f"[user] count {out_user} ≠ {src_user}")
     if out_nine != src_nine:
         errors.append(f"[Ninereeds] count {out_nine} ≠ {src_nine}")
+    src_counts = _block_line_counts(source)
+    out_counts = _block_line_counts(output)
+    if src_counts != out_counts:
+        errors.append(f"line counts per block {out_counts} ≠ source {src_counts}")
     if lang == "ZH":
         simplified_sample = "给苹玛铅篮邻个来说为国"
         if any(ch in output for ch in simplified_sample):
@@ -363,7 +399,8 @@ def cmd_gen(
         ]
         print(
             f"[{lang}] {len(jobs)} files  "
-            f"batch={batch_size}  batches={len(batches)}  workers={workers}"
+            f"batch={batch_size}  batches={len(batches)}  workers={workers}",
+            flush=True,
         )
 
         ok = fail = skip = 0
@@ -374,7 +411,7 @@ def cmd_gen(
             lines = process_batch(batch, _lang, client, dry_run)
             with lock:
                 for line in lines:
-                    print(line)
+                    print(line, flush=True)
                     if "OK" in line or "WOULD" in line:
                         ok += 1
                     elif "SKIP" in line:
@@ -385,7 +422,7 @@ def cmd_gen(
         with ThreadPoolExecutor(max_workers=workers) as pool:
             list(as_completed([pool.submit(run_batch, b) for b in batches]))
 
-        print(f"[{lang}] done: {ok} written, {skip} skipped, {fail} failed.\n")
+        print(f"[{lang}] done: {ok} written, {skip} skipped, {fail} failed.\n", flush=True)
 
 
 # ── Entry point ───────────────────────────────────────────────────────────────

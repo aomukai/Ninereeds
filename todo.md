@@ -118,14 +118,14 @@ Grammar corpus constraints:
 
 ## Phase B — Grammar Generation
 
-Status: 4 clusters incomplete as of 2026-05-28 13:xx. OpenRouter keeps dropping connections mid-run; generators need babysitting. **Finish this on Linux after Windows phase session.**
+Status: 4 clusters still incomplete. **Finish on Linux.**
 
-Current counts (2026-05-28):
+Current counts (2026-05-27 end-of-Windows-session):
 
 | Cluster | Files | Remaining |
 |---|---:|---:|
 | `00_relation` | 88 | 12 |
-| `02_receiver_dative` | 97 | 3 |
+| `02_receiver_dative` | 99 | 1 |
 | `03_place_static_dative` | 100 | — |
 | `08_source_path_destination` | 85 | 15 |
 | `09_owner_genitive` | 98 | 2 |
@@ -139,7 +139,7 @@ for c in 00_relation 02_receiver_dative 08_source_path_destination 09_owner_geni
 done
 ```
 
-**Resume here (Windows session 2026-05-28):** Grammar is not complete — proceed to Phase G (phase localization) now and finish grammar on Linux later. Run this to check phase localization progress:
+**Resume here (Linux):** Run the above, wait for completion, then spot-audit 2-3 files per cluster (German case, JP plain form, ZH Traditional), then proceed to Phase G below. Run this to check phase localization progress:
 
 ```bash
 for c in 00_relation 02_receiver_dative 03_place_static_dative 08_source_path_destination 09_owner_genitive 10_review_stories; do
@@ -418,28 +418,44 @@ This is not part of run_13 unless explicitly scoped later.
 
 ## Phase G — Phase Corpus Localization
 
-Status: script written; ready to run on Windows 2026-05-28.
+Status: IN PROGRESS. Windows session 2026-05-27 started 3 nohup processes (one per language).
+Processes may still be running when Linux session begins — check before launching new ones.
+
+End-of-Windows-session counts (2026-05-27 ~18:xx local):
+
+| Lang | Done | Remaining | Errors (missed files) |
+|---|---:|---:|---|
+| DE | 5126 | 680 | 0 |
+| JP | 1775 | 4031 | 10 (road_2→room) |
+| ZH | 2079 | 3727 | 10 (dot→driftwood) |
+
+Missed-error files will be picked up automatically on restart (they were never written).
 
 **Script:** `meta/scripts/localize_phases.py`
 
-**Start here (Windows session 2026-05-28):**
+**Resume here (Linux):**
 
 ```bash
-# Check progress at any time
-python3 meta/scripts/localize_phases.py report
+# Step 1 — check if Windows processes are still running
+ps aux | grep localize_phases | grep -v grep
 
-# Run one letter per agent across all phases (letter = first char of file stem)
-# Heavy letters (s has ~250+ files in phase_1/phase_6) must be split:
-python3 meta/scripts/localize_phases.py gen --phase 1 --letter a --workers 4
-python3 meta/scripts/localize_phases.py gen --phase 1 --letter b --workers 4
-# ... one letter per run
-python3 meta/scripts/localize_phases.py gen --phase 1 --letter s --prefix sa-sl --workers 4
-python3 meta/scripts/localize_phases.py gen --phase 1 --letter s --prefix sm-sz --workers 4
-# ... continue for all phases 1-6
+# Step 2 — check current progress
+PYTHONIOENCODING=utf-8 python3 meta/scripts/localize_phases.py report
 
-# Or run the whole lot at once (slower but hands-off):
-python3 meta/scripts/localize_phases.py gen --phase all --workers 4
+# Step 3 — for any language not yet at 5806, restart its process (skips existing files):
+OPENROUTER_API_KEY=<key> nohup python3 meta/scripts/localize_phases.py gen \
+  --phase all --lang DE --workers 1 --batch 10 >> tmp/localize_DE.log 2>&1 &
+OPENROUTER_API_KEY=<key> nohup python3 meta/scripts/localize_phases.py gen \
+  --phase all --lang JP --workers 1 --batch 10 >> tmp/localize_JP.log 2>&1 &
+OPENROUTER_API_KEY=<key> nohup python3 meta/scripts/localize_phases.py gen \
+  --phase all --lang ZH --workers 1 --batch 10 >> tmp/localize_ZH.log 2>&1 &
 ```
+
+**Bidirectional speedup for JP/ZH (when DE is done):**
+JP and ZH are slow (~6 files/min). To finish faster, run 2 processes per language:
+one forward (default) + one reverse (needs `--reverse` flag — not yet implemented, add it).
+4 processes total: JP-forward, JP-reverse, ZH-forward, ZH-reverse, meeting in the middle.
+This roughly halves remaining time for JP/ZH.
 
 Produces `_DE.md`, `_JP.md`, `_ZH.md` siblings for every English phase file. Skips already-done files; safe to re-run after interruption. Validates `[user]`/`[Ninereeds]` structure and ZH/JP character presence on every output before writing.
 
