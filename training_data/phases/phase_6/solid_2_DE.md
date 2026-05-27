@@ -23,9 +23,9 @@ Das Feste steht gegen Kraft.
 Das Feste hält eine Form und widersteht einem Druck.
 
 [user]Was gibt das Feste?
-[Ninereeds]Das Feste ist für das Bauen.
-Das Feste ist für die Unterstützung.
-Das Feste ist für die Stärke.
-Das Feste ist für die Stabilität.
+[Ninereeds]Das Feste ist zum Bauen.
+Das Feste ist zur Unterstützung.
+Das Feste ist für Stärke.
+Das Feste ist für Stabilität.
 Das Feste ist für dauerhafte Strukturen.
-Das Feste ist für das Bauen und die Unterstützung.
+Das Feste ist für Bauen und Unterstützung.

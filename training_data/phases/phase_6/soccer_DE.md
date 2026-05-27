@@ -1,4 +1,4 @@
-[user]Wie sieht Fußball aus?
+[user]Was bedeutet Fußball?
 [Ninereeds]Fußball ist ein Spiel.
 Fußball ist ein Sport.
 Fußball hat einen Ball.
@@ -9,23 +9,23 @@ Fußball ist ein Spiel mit einem Ball und einem Tor.
 [user]Wo kann man Fußball finden?
 [Ninereeds]Fußball ist auf einem Feld.
 Fußball ist in einem Park.
-Fußball ist auf einem Platz.
+Fußball ist auf einem Sportplatz.
 Fußball ist in der Nähe von Häusern.
 Fußball ist in einer Liga.
 Fußball ist auf einem Feld in einem Park.
 
 [user]Was macht Fußball?
-[Ninereeds]Fußball hat einen Tritt.
+[Ninereeds]Fußball hat einen Schuss.
 Fußball hat einen Pass.
 Fußball hat ein Tor.
-Fußball hat ein Team.
+Fußball hat eine Mannschaft.
 Fußball hat ein Spiel.
-Fußball hat einen Tritt, einen Pass und ein Tor.
+Fußball hat einen Schuss, einen Pass und ein Tor.
 
 [user]Was gibt Fußball?
 [Ninereeds]Fußball gibt Spaß.
 Fußball gibt Sport.
 Fußball gibt Spiel.
-Fußball baut Teams auf.
+Fußball baut Mannschaften auf.
 Fußball baut Fähigkeiten auf.
-Fußball gibt Spaß und baut Teams auf.
+Fußball gibt Spaß und baut Mannschaften auf.

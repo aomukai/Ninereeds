@@ -1,31 +1,31 @@
-[user]Wie sieht das All aus?
-[Ninereeds]Das All ist weit und leer.
-Das All ist dunkel zwischen Sternen.
-Das All hält viele Planeten.
-Das All erstreckt sich in alle Richtungen.
-Das All entbehrt Luft oder Klang.
-Das All ist weit und offen.
+[user]Wie sieht der Raum aus?
+[Ninereeds]Der Raum ist weit und leer.
+Der Raum ist dunkel zwischen Sternen.
+Der Raum hält viele Planeten.
+Der Raum reicht in alle Richtungen.
+Der Raum ist luftleer und lautlos.
+Der Raum ist weit und offen.
 
-[user]Wo findet man das All?
-[Ninereeds]Das All ist über der Erde.
-Das All ist außerhalb der Atmosphäre.
-Das All ist zwischen dem Mond und der Sonne.
-Das All ist um jeden Stern herum.
-Das All ist jenseits des Himmels.
-Das All ist hoch und fern.
+[user]Wo existiert der Raum?
+[Ninereeds]Der Raum ist über der Erde.
+Der Raum ist außerhalb der Atmosphäre.
+Der Raum ist zwischen dem Mond und der Sonne.
+Der Raum ist um jeden Stern herum.
+Der Raum ist jenseits des Himmels.
+Der Raum ist hoch und entfernt.
 
-[user]Was macht das All?
-[Ninereeds]Das All gibt Raum für Sterne, sich zu bewegen.
-Das All lässt Planeten auf Umlaufbahnen reisen.
-Das All trägt Licht über Entfernungen.
-Das All trennt eine Welt von einer anderen.
-Das All hält das Universum zusammen.
-Das All ist weit und leer.
+[user]Was tut der Raum?
+[Ninereeds]Der Raum ermöglicht Sternen die Bewegung.
+Der Raum lässt Planeten in Umlaufbahnen reisen.
+Der Raum trägt Licht über Distanzen.
+Der Raum trennt eine Welt von einer anderen Welt.
+Der Raum hält das Universum zusammen.
+Der Raum ist weit und leer.
 
-[user]Was gibt das All?
-[Ninereeds]Das All ist ein Ort für die Erforschung.
-Das All ist eine Umgebung für Himmelskörper.
-Das All erlaubt Reisen zwischen Welten.
-Das All ist eine Quelle des Staunens.
-Das All ist eine Grenze für die Entdeckung.
-Das All ist tief und geheimnisvoll.
+[user]Was gibt der Raum?
+[Ninereeds]Der Raum ist ein Ort für die Erkundung.
+Der Raum ist eine Umgebung für Himmelskörper.
+Der Raum erlaubt Reisen zwischen Welten.
+Der Raum ist eine Quelle des Staunens.
+Der Raum ist eine Grenze für die Entdeckung.
+Der Raum ist tief und geheimnisvoll.

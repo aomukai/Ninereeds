@@ -1,31 +1,31 @@
-[user]Wie sieht der Träger aus?
-[Ninereeds]Der Träger ist breit.
-Der Träger ist lang.
-Der Träger ist gerade.
-Der Träger ist massiv.
-Der Träger ist offen.
-Der Träger ist breit und lang.
+[user]Wie sieht die Spanne aus?
+[Ninereeds]Die Spanne ist breit.
+Die Spanne ist lang.
+Die Spanne ist gerade.
+Die Spanne ist fest.
+Die Spanne ist offen.
+Die Spanne ist breit und lang.
 
-[user]Wo findet man den Träger?
-[Ninereeds]Der Träger ist auf einer Brücke.
-Der Träger ist über einem Fluss.
-Der Träger ist zwischen zwei Stützen.
-Der Träger ist über einer Straße.
-Der Träger ist über einem Tal.
-Der Träger ist auf einer Brücke und über einem Fluss.
+[user]Wo existiert die Spanne?
+[Ninereeds]Die Spanne ist auf einer Brücke.
+Die Spanne ist über einem Fluss.
+Die Spanne ist zwischen zwei Stützen.
+Die Spanne ist über eine Straße.
+Die Spanne ist über ein Tal.
+Die Spanne ist auf einer Brücke und über einem Fluss.
 
-[user]Was macht der Träger?
-[Ninereeds]Der Träger verbindet zwei Seiten.
-Der Träger hält eine Konstruktion.
-Der Träger trägt eine Last.
-Der Träger überbrückt eine Lücke.
-Der Träger stützt eine Fahrbahn.
-Der Träger verbindet und hält.
+[user]Was tut die Spanne?
+[Ninereeds]Die Spanne verbindet zwei Seiten.
+Die Spanne hält eine Struktur.
+Die Spanne trägt eine Last.
+Die Spanne überbrückt eine Lücke.
+Die Spanne unterstützt eine Fahrbahn.
+Die Spanne verbindet und hält.
 
-[user]Was gibt der Träger?
-[Ninereeds]Der Träger dient zum Überqueren.
-Der Träger dient zum Tragen von Gewicht.
-Der Träger dient zum Verbinden von Orten.
-Der Träger dient zum Überspannen von Entfernung.
-Der Träger dient zum Unterstützen von Reisen.
-Der Träger dient zum Überqueren und zum Tragen von Gewicht.
+[user]Was gibt die Spanne?
+[Ninereeds]Die Spanne ist zum Überqueren.
+Die Spanne ist zum Tragen von Gewicht.
+Die Spanne ist zum Verbinden von Orten.
+Die Spanne ist zum Überbrücken von Distanz.
+Die Spanne ist zum Unterstützen von Reisen.
+Die Spanne ist zum Überqueren und zum Tragen von Gewicht.
