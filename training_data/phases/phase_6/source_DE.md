@@ -1,12 +1,12 @@
 [user]Wie sieht die Quelle aus?
-[Ninereeds]Die Quelle ist ein Startort für ein Ding.
+[Ninereeds]Die Quelle ist ein Startort für eine Sache.
 Die Quelle ist eine Wasserquelle.
 Die Quelle ist eine Wurzel einer Pflanze.
 Die Quelle ist ein Ursprung eines Flusses.
 Die Quelle ist eine Ursache eines Ereignisses.
 Die Quelle ist ein Start und eine Ursache.
 
-[user]Wo tritt die Quelle auf?
+[user]Wo erscheint die Quelle?
 [Ninereeds]Die Quelle ist an einer Quelle.
 Die Quelle ist an einem Fluss.
 Die Quelle ist in einem Buch.

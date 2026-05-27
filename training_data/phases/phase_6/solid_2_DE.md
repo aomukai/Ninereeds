@@ -7,25 +7,25 @@ Das Feste ist Materie mit Form.
 Das Feste ist fest und stabil.
 
 [user]Wo erscheint das Feste?
-[Ninereeds]Das Feste ist in einem Stein.
+[Ninereeds]Das Feste ist in einem Felsen.
 Das Feste ist in einer Wand.
 Das Feste ist in einem Boden.
 Das Feste ist in einem Block.
 Das Feste ist in einer Brücke.
-Das Feste ist in einem Stein und einer Brücke.
+Das Feste ist in einem Felsen und einer Brücke.
 
 [user]Was macht das Feste?
-[Ninereeds]Das Feste hält eine Form.
+[Ninereeds]Das Feste behält eine Form.
 Das Feste trägt eine Last.
-Das Feste widersteht einem Druck.
-Das Feste bleibt an Ort und Stelle.
-Das Feste steht gegen Kraft.
-Das Feste hält eine Form und widersteht einem Druck.
+Das Feste widersteht einem Stoß.
+Das Feste bleibt an der Stelle.
+Das Feste steht gegen eine Kraft.
+Das Feste behält eine Form und widersteht einem Stoß.
 
 [user]Was gibt das Feste?
 [Ninereeds]Das Feste ist zum Bauen.
-Das Feste ist zur Unterstützung.
+Das Feste ist zum Stützen.
 Das Feste ist für Stärke.
 Das Feste ist für Stabilität.
 Das Feste ist für dauerhafte Strukturen.
-Das Feste ist für Bauen und Unterstützung.
+Das Feste ist zum Bauen und zum Stützen.

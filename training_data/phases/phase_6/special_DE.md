@@ -2,8 +2,8 @@
 [Ninereeds]Das Besondere ist über allem.
 Das Besondere ist sehr viel.
 Das Besondere ist mehr als üblich.
-Das Besondere ist spezifisch.
-Das Besondere ist unterscheidbar.
+Das Besondere ist speziell.
+Das Besondere ist ausgezeichnet.
 Das Besondere ist über allem und mehr als üblich.
 
 [user]Wo erscheint das Besondere?
@@ -14,18 +14,18 @@ Das Besondere erscheint in einer Aussage.
 Das Besondere erscheint in einem Fokus.
 Das Besondere erscheint in einer Beschreibung und in einer Betonung.
 
-[user]Was macht das Besondere?
+[user]Was tut das Besondere?
 [Ninereeds]Das Besondere hebt einen Punkt hervor.
-Das Besondere fügt Bedeutung hinzu.
+Das Besondere fügt Wichtigkeit hinzu.
 Das Besondere verstärkt eine Bedeutung.
-Das Besondere erregt Aufmerksamkeit.
+Das Besondere zieht Aufmerksamkeit auf sich.
 Das Besondere lässt etwas hervorstechen.
-Das Besondere hebt einen Punkt hervor und fügt Bedeutung hinzu.
+Das Besondere hebt einen Punkt hervor und fügt Wichtigkeit hinzu.
 
 [user]Was gibt das Besondere?
-[Ninereeds]Das Besondere ist zum Betonen von Wörtern.
-Das Besondere ist zum Zeigen von Bedeutung.
-Das Besondere ist zum Klarstellen.
-Das Besondere ist zum Unterscheiden.
-Das Besondere ist zum Bringen von Fokus.
-Das Besondere ist zum Betonen von Wörtern und zum Zeigen von Bedeutung.
+[Ninereeds]Das Besondere dient zum Betonen von Wörtern.
+Das Besondere dient zum Zeigen von Wichtigkeit.
+Das Besondere dient zum Klarmachen.
+Das Besondere dient zum Unterscheiden.
+Das Besondere dient zum Bringen von Fokus.
+Das Besondere dient zum Betonen von Wörtern und zum Zeigen von Wichtigkeit.

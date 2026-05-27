@@ -1,31 +1,31 @@
-[user]Wie sieht Schmerz aus?
-[Ninereeds]Der Schmerz ist ein Zustand von Körperschmerz.
-Der Schmerz zeigt sich rot und geschwollen auf der Haut.
-Der Schmerz fühlt sich empfindlich und schmerzend im Muskel an.
-Der Schmerz erscheint als ein schmerzender Körperteil.
-Der Schmerz folgt auf starke Beanspruchung eines Gliedes.
-Der Schmerz ist empfindlich und rot.
+[user]Wie sieht das Wundsein aus?
+[Ninereeds]Das Wundsein ist ein Körperschmerzzustand.
+Das Wundsein zeigt Rötung und Schwellung auf der Haut.
+Das Wundsein fühlt sich empfindlich und schmerzhaft im Muskel an.
+Das Wundsein erscheint als ein schmerzender Körperteil.
+Das Wundsein folgt auf starke Nutzung eines Gliedes.
+Das Wundsein ist empfindlich und rot.
 
-[user]Wo tritt Schmerz auf?
-[Ninereeds]Der Schmerz tritt im Hals nach einer Krankheit auf.
-Der Schmerz tritt im Bein nach dem Laufen auf.
-Der Schmerz tritt im Arm nach dem Heben auf.
-Der Schmerz tritt in Muskeln nach dem Training auf.
-Der Schmerz tritt in Gelenken nach Überlastung auf.
-Der Schmerz tritt in Muskeln und in Gelenken auf.
+[user]Wo erscheint das Wundsein?
+[Ninereeds]Das Wundsein erscheint im Hals nach Krankheit.
+Das Wundsein erscheint im Bein nach Laufen.
+Das Wundsein erscheint im Arm nach Heben.
+Das Wundsein erscheint in Muskeln nach Bewegung.
+Das Wundsein erscheint in Gelenken nach Belastung.
+Das Wundsein erscheint in Muskeln und in Gelenken.
 
-[user]Was macht Schmerz?
-[Ninereeds]Der Schmerz lässt einen Körperteil schmerzen.
-Der Schmerz verlangsamt Bewegung und Spiel.
-Der Schmerz signalisiert Überbeanspruchung eines Muskels.
-Der Schmerz warnt vor Überlastung eines Gliedes.
-Der Schmerz erinnert ein Kind daran, sich auszuruhen.
-Der Schmerz schmerzt und signalisiert.
+[user]Was macht das Wundsein?
+[Ninereeds]Das Wundsein lässt einen Körperteil schmerzen.
+Das Wundsein verlangsamt Bewegung und Spiel.
+Das Wundsein signalisiert Überbeanspruchung eines Muskels.
+Das Wundsein warnt vor Belastung in einem Glied.
+Das Wundsein erinnert ein Kind an Ruhe.
+Das Wundsein schmerzt und signalisiert.
 
-[user]Was gibt Schmerz?
-[Ninereeds]Der Schmerz dient der Signalisierung überbeanspruchter Muskeln.
-Der Schmerz dient der Warnung vor Körperbelastung.
-Der Schmerz dient der Anzeige von Ruhebedarf.
-Der Schmerz dient der Erinnerung an vorherige Aktivität.
-Der Schmerz dient dem Lehren von Körpergrenzen.
-Der Schmerz dient der Warnung und dem Lehren.
+[user]Was gibt das Wundsein?
+[Ninereeds]Das Wundsein dient zur Signalisierung überarbeiteter Muskeln.
+Das Wundsein dient zur Warnung vor Körperbelastung.
+Das Wundsein dient zur Anzeige des Ruhebedarfs.
+Das Wundsein dient zur Erinnerung an vorherige Aktivität.
+Das Wundsein dient zum Lehren von Körpergrenzen.
+Das Wundsein dient zur Warnung und zum Lehren.

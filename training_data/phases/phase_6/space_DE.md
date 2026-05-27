@@ -2,24 +2,24 @@
 [Ninereeds]Der Raum ist leer.
 Der Raum ist dunkel.
 Der Raum ist groß.
-Der Raum ist weit.
-Der Raum hat Sterne.
+Der Raum ist fern.
+Der Raum ist voller Sterne.
 Der Raum ist groß und dunkel mit Sternen.
 
 [user]Wo erscheint der Raum?
 [Ninereeds]Der Raum ist überall.
 Der Raum ist über dem Himmel.
-Der Raum ist zwischen Dingen.
+Der Raum ist zwischen den Dingen.
 Der Raum ist in einem Zimmer.
 Der Raum ist in einer Kiste.
-Der Raum ist überall und zwischen Dingen.
+Der Raum ist überall und zwischen den Dingen.
 
-[user]Was tut der Raum?
+[user]Was macht der Raum?
 [Ninereeds]Der Raum hält Dinge.
 Der Raum lässt Dinge bewegen.
 Der Raum teilt Dinge.
 Der Raum gibt Platz.
-Der Raum schafft Distanz.
+Der Raum schafft Abstand.
 Der Raum hält Dinge und lässt Dinge bewegen.
 
 [user]Was gibt der Raum?

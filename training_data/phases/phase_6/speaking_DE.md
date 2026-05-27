@@ -1,18 +1,18 @@
 [user]Was ist Sprechen?
 [Ninereeds]Sprechen ist das Benutzen der Stimme.
 Sprechen teilt Wörter mit anderen.
-Sprechen benötigt Klang und Atem.
+Sprechen braucht Klang und Atem.
 Sprechen geschieht in einem Gespräch.
-Sprechen ist eine Art, Ideen zu teilen.
-Sprechen ist das Benutzen der Stimme zum Teilen und das Benutzen von Wörtern.
+Sprechen ist ein Weg, um Ideen zu teilen.
+Sprechen ist das Benutzen der Stimme zum Teilen und von Wörtern.
 
-[user]Wo findet Sprechen statt?
-[Ninereeds]Sprechen findet in einem Klassenzimmer statt.
-Sprechen findet bei einem Treffen statt.
-Sprechen findet am Telefon statt.
-Sprechen findet in einem Zuhause statt.
-Sprechen findet auf einem Markt statt.
-Sprechen findet in einem Klassenzimmer und zu Hause statt.
+[user]Wo geschieht Sprechen?
+[Ninereeds]Sprechen geschieht in einem Klassenzimmer.
+Sprechen geschieht bei einem Treffen.
+Sprechen geschieht an einem Telefon.
+Sprechen geschieht in einem Zuhause.
+Sprechen geschieht auf einem Markt.
+Sprechen geschieht in einem Klassenzimmer und zu Hause.
 
 [user]Was bringt Sprechen?
 [Ninereeds]Sprechen bringt klare Kommunikation.
@@ -23,9 +23,9 @@ Sprechen bringt Verständnis für eine Gruppe.
 Sprechen bringt Ideen und Verbindung.
 
 [user]Was gibt Sprechen?
-[Ninereeds]Sprechen ist zum Stellen von Fragen.
-Sprechen ist zum Erzählen einer Geschichte.
-Sprechen ist zum Geben einer Antwort.
-Sprechen ist zum Teilen von Nachrichten.
-Sprechen ist zum Unterrichten einer Lektion.
-Sprechen ist zum Fragen und zum Erzählen.
+[Ninereeds]Sprechen dient zum Stellen von Fragen.
+Sprechen dient zum Erzählen einer Geschichte.
+Sprechen dient zum Geben einer Antwort.
+Sprechen dient zum Teilen von Neuigkeiten.
+Sprechen dient zum Unterrichten einer Lektion.
+Sprechen dient zum Fragen und Erzählen.

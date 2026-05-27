@@ -1,27 +1,27 @@
-[user]Was ist Lösen?
-[Ninereeds]Lösen ist hier.
-Lösen ist eine Methode zum Finden von Antworten.
-Lösen wird in der Mathematik verwendet.
-Lösen löst ein Problem.
-Lösen findet ein korrektes Ergebnis.
+[user]Was ist das Lösen?
+[Ninereeds]Das Lösen ist hier.
+Das Lösen ist eine Methode zum Finden von Antworten.
+Das Lösen wird in der Mathematik verwendet.
+Das Lösen löst ein Problem.
+Das Lösen findet ein korrektes Ergebnis.
 
-[user]Wo findet man Lösen?
-[Ninereeds]Lösen ist hier.
-Lösen kann in einem Mathematiklehrbuch sein.
-Lösen erscheint in einem Rätsel.
-Lösen existiert in einem Klassenzimmer.
-Lösen lebt in einem Problem oder einer Herausforderung.
+[user]Wo kommt das Lösen vor?
+[Ninereeds]Das Lösen ist hier.
+Das Lösen kann in einem Mathebuch sein.
+Das Lösen erscheint in einem Rätsel.
+Das Lösen existiert in einem Klassenzimmer.
+Das Lösen lebt in einem Problem oder einer Herausforderung.
 
-[user]Was macht Lösen?
-[Ninereeds]Lösen ist hier.
-Lösen findet eine korrekte Antwort.
-Lösen vollendet ein schwieriges Rätsel.
-Lösen beendet ein schwieriges Problem.
-Lösen bringt Klarheit und Lösung.
+[user]Was macht das Lösen?
+[Ninereeds]Das Lösen ist hier.
+Das Lösen findet eine korrekte Antwort.
+Das Lösen vervollständigt ein schwieriges Rätsel.
+Das Lösen beendet ein schwieriges Problem.
+Das Lösen bringt Klarheit und Lösung.
 
-[user]Wie ist Lösen?
-[Ninereeds]Lösen ist hier.
-Lösen sieht klar nach der Arbeit aus.
-Lösen bereitet einem Geist ein gutes Gefühl.
-Lösen klingt ruhig, wenn das Lösen abgeschlossen ist.
-Lösen ist befriedigend und klar.
+[user]Wie ist das Lösen?
+[Ninereeds]Das Lösen ist hier.
+Das Lösen sieht klar aus nach der Arbeit.
+Das Lösen ist im Verstand angenehm.
+Das Lösen klingt ruhig, wenn die Lösung gefunden ist.
+Das Lösen ist befriedigend und klar.

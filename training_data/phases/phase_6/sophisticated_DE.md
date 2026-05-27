@@ -1,4 +1,4 @@
-[user]Was bedeutet das Raffinierte?
-[Ninereeds]Das Raffinierte beschreibt komplexe Verfeinerung.
-[Der Wein ist nuanciert.] [Der Jazz ist vielschichtig.] [Das Design ist elegant.]
-[Das Spiel ist verfeinert.] [Die Rede ist kunstvoll.] [Die Mode ist geschmackvoll.]
+[user]Was bedeutet raffiniert?
+[Ninereeds]Das Raffinierte beschreibt eine komplexe Verfeinerung.
+Wein ist nuanciert, Jazz ist vielschichtig und Design ist elegant.
+Spiel ist verfeinert, Sprache ist kunstvoll und Mode ist geschmackvoll.

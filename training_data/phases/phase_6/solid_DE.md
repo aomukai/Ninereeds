@@ -1,31 +1,31 @@
-[user]Wie sieht ein Festkörper aus?
-[Ninereeds]Der Festkörper hat eine bestimmte Form und Größe.
-Der Festkörper hält eine feste und stabile Form.
-Der Festkörper erscheint in Steinen und Holz.
-Der Festkörper zeigt einen festen und stabilen Zustand.
-Der Festkörper nimmt Raum in einer festen Form ein.
-Der Festkörper ist fest und stabil.
+[user]Wie sieht das Feste aus?
+[Ninereeds]Das Feste hat eine bestimmte Form und Größe.
+Das Feste hält eine feste und stabile Form.
+Das Feste erscheint in Felsen und Holz.
+Das Feste zeigt einen festen und stabilen Zustand.
+Das Feste nimmt Raum in einer festen Form ein.
+Das Feste ist fest und stabil.
 
-[user]Wo erscheint der Festkörper?
-[Ninereeds]Der Festkörper erscheint als Stein im Boden.
-Der Festkörper erscheint als Holz in einem Baum.
-Der Festkörper erscheint als Eis auf einem See.
-Der Festkörper erscheint in Wänden und Gebäuden.
-Der Festkörper erscheint in Möbeln und Werkzeugen.
-Der Festkörper erscheint im Boden und in Wänden.
+[user]Wo erscheint das Feste?
+[Ninereeds]Das Feste erscheint als Stein im Boden.
+Das Feste erscheint als Holz in einem Baum.
+Das Feste erscheint als Eis auf einem See.
+Das Feste erscheint in Wänden und Gebäuden.
+Das Feste erscheint in Möbeln und Werkzeugen.
+Das Feste erscheint im Boden und in Wänden.
 
-[user]Was macht der Festkörper?
-[Ninereeds]Der Festkörper hält eine bestimmte Form.
-Der Festkörper bietet feste Unterstützung.
-Der Festkörper widersteht Verformung durch Druck.
-Der Festkörper gibt Stärke an Strukturen.
-Der Festkörper behält eine Form an Ort und Stelle.
-Der Festkörper hält Form und gibt Stärke.
+[user]Was macht das Feste?
+[Ninereeds]Das Feste behält eine bestimmte Form.
+Das Feste bietet festen Halt.
+Das Feste widersteht Verformung durch Druck.
+Das Feste gibt Strukturen Stärke.
+Das Feste bewahrt eine Form an der Stelle.
+Das Feste behält die Form und gibt Stärke.
 
-[user]Was gibt der Festkörper?
-[Ninereeds]Der Festkörper ist zum Bau starker Strukturen.
-Der Festkörper ist zur Bereitstellung stabilen Bodens.
-Der Festkörper ist zum Tragen schwerer Lasten.
-Der Festkörper ist zur Erstellung langlebiger Objekte.
-Der Festkörper ist zur Erhaltung fester Formen.
-Der Festkörper ist für Stärke und Stabilität.
+[user]Was gibt das Feste?
+[Ninereeds]Das Feste ist zum Bauen starker Strukturen.
+Das Feste ist für das Erzeugen stabilen Bodens.
+Das Feste ist für das Tragen schwerer Lasten.
+Das Feste ist für das Erschaffen dauerhafter Gegenstände.
+Das Feste ist für das Bewahren fester Formen.
+Das Feste ist für Stärke und für Stabilität.

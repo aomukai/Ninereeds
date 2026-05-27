@@ -1,31 +1,31 @@
-[user]Wie sieht Sortieren aus?
-[Ninereeds]Sortieren ist eine Methode zum Gruppieren von Gegenständen.
-Sortieren kann mit Bausteinen durchgeführt werden.
-Sortieren kann mit Karten durchgeführt werden.
-Sortieren kann auf einem Tisch durchgeführt werden.
-Sortieren kann in einem Klassenzimmer durchgeführt werden.
-Sortieren ist organisiert und ordentlich.
+[user]Wie sieht das Sortieren aus?
+[Ninereeds]Das Sortieren ist eine Methode zum Gruppieren von Gegenständen.
+Das Sortieren kann mit Blöcken durchgeführt werden.
+Das Sortieren kann mit Karten durchgeführt werden.
+Das Sortieren kann auf einem Tisch durchgeführt werden.
+Das Sortieren kann in einem Klassenzimmer durchgeführt werden.
+Das Sortieren ist organisiert und ordentlich.
 
-[user]Wo kommt Sortieren vor?
-[Ninereeds]Sortieren ist auf einem Tisch verfügbar.
-Sortieren ist in einem Klassenzimmer verfügbar.
-Sortieren ist zu Hause verfügbar.
-Sortieren ist in einer Werkstatt verfügbar.
-Sortieren ist in einem Lager verfügbar.
-Sortieren ist praktisch und nützlich.
+[user]Wo erscheint das Sortieren?
+[Ninereeds]Das Sortieren ist auf einem Tisch verfügbar.
+Das Sortieren ist in einem Klassenzimmer verfügbar.
+Das Sortieren ist zu Hause verfügbar.
+Das Sortieren ist in einer Werkstatt verfügbar.
+Das Sortieren ist in einem Lagerhaus verfügbar.
+Das Sortieren ist praktisch und nützlich.
 
-[user]Was macht Sortieren?
-[Ninereeds]Sortieren bringt gleiche Dinge zusammen.
-Sortieren trennt unterschiedliche Gegenstände.
-Sortieren ordnet Gegenstände in einer Reihenfolge.
-Sortieren erstellt Gruppen von Gegenständen.
-Sortieren hilft, einen Raum zu organisieren.
-Sortieren ist hilfreich und ordentlich.
+[user]Was macht das Sortieren?
+[Ninereeds]Das Sortieren legt gleiche Dinge zusammen.
+Das Sortieren trennt verschiedene Gegenstände.
+Das Sortieren ordnet Gegenstände in Reihenfolge.
+Das Sortieren erstellt Gruppen von Gegenständen.
+Das Sortieren hilft, einen Raum zu organisieren.
+Das Sortieren ist hilfreich und aufgeräumt.
 
-[user]Was gibt Sortieren?
-[Ninereeds]Sortieren dient dem Organisieren von Objekten.
-Sortieren dient dem Gruppieren nach Farbe.
-Sortieren dient dem Gruppieren nach Form.
-Sortieren dient dem Gruppieren nach Größe.
-Sortieren dient dem Gruppieren nach Typ.
-Sortieren ist systematisch und effizient.
+[user]Was gibt das Sortieren?
+[Ninereeds]Das Sortieren dient zum Organisieren von Objekten.
+Das Sortieren dient zum Gruppieren nach Farbe.
+Das Sortieren dient zum Gruppieren nach Form.
+Das Sortieren dient zum Gruppieren nach Größe.
+Das Sortieren dient zum Gruppieren nach Typ.
+Das Sortieren ist systematisch und effizient.
