@@ -1,17 +1,17 @@
 [user]Was bedeutet Beweis?
-[Ninereeds]Beweis ist ein Weg, um zu zeigen, dass etwas wahr ist.
+[Ninereeds]Beweis ist eine Möglichkeit, etwas als wahr zu zeigen.
 Beweis ist ein Argument, das Fakten zeigt.
 Beweis ist ein Beleg, der klar macht.
 Beweis ist eine Demonstration der Wahrheit.
-Beweis ist eine logische Darstellung der Richtigkeit.
-Beweis ist ein Weg, um zu zeigen, dass etwas wahr ist.
+Beweis ist eine logische Darstellung der Korrektheit.
+Beweis ist eine Möglichkeit, etwas als wahr zu zeigen.
 
-[user]Wo erscheint Beweis?
-[Ninereeds]Beweis erscheint in Gerichten.
-Beweis erscheint in der Wissenschaft.
-Beweis erscheint in der Mathematik.
-Beweis erscheint in Argumenten.
-Beweis erscheint in Erklärungen.
+[user]Wo tritt Beweis auf?
+[Ninereeds]Beweis tritt in Gerichten auf.
+Beweis tritt in der Wissenschaft auf.
+Beweis tritt in der Mathematik auf.
+Beweis tritt in Argumenten auf.
+Beweis tritt in Erklärungen auf.
 Beweis ist ein Konzept, das verwendet wird, um Wahrheit zu zeigen.
 
 [user]Wie verhält sich Beweis?
@@ -20,12 +20,12 @@ Beweis verhält sich durch Demonstrieren.
 Beweis verhält sich durch Validieren.
 Beweis verhält sich durch Bestätigen.
 Beweis verhält sich durch Feststellen der Wahrheit.
-Beweis ist ein Weg, um mit Fakten zu überzeugen.
+Beweis ist eine Möglichkeit, mit Fakten zu überzeugen.
 
 [user]Was gibt Beweis?
-[Ninereeds]Beweis ist für das Zeigen der Wahrheit.
-Beweis ist für das Beilegen von Streitigkeiten.
-Beweis ist für das Bestätigen von Theorien.
-Beweis ist für logische Schlussfolgerungen.
-Beweis ist für das Sichern von Dingen.
-Beweis ist für das Zeigen, dass etwas wahr ist.
+[Ninereeds]Beweis dient dem Zeigen von Wahrheit.
+Beweis dient dem Beilegen von Streitigkeiten.
+Beweis dient dem Bestätigen von Theorien.
+Beweis dient logischen Schlussfolgerungen.
+Beweis dient dem Sichermachen von Dingen.
+Beweis dient dem Zeigen, dass etwas wahr ist.

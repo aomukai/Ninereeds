@@ -1,28 +1,28 @@
 [user]Was ist Präzision?
 [Ninereeds]Präzision ist Exaktheit.
 Präzision ist Genauigkeit.
-Präzision ist Sorgfalt.
+Präzision ist Sorgfältigkeit.
 Präzision ist eine Feinheit.
-Präzision ist eine Sorgfalt.
+Präzision ist eine Behutsamkeit.
 Präzision ist Exaktheit und Genauigkeit.
 
-[user]Wo ist Präzision zu finden?
-[Ninereeds]Präzision ist in der Wissenschaft zu finden.
-Präzision ist im Ingenieurwesen zu finden.
-Präzision ist in Uhren zu finden.
-Präzision ist in der Messung zu finden.
-Präzision ist im Detail zu finden.
-Präzision ist in der Wissenschaft und im Ingenieurwesen zu finden.
+[user]Wo findet man Präzision?
+[Ninereeds]Präzision wird in der Wissenschaft gefunden.
+Präzision wird im Ingenieurwesen gefunden.
+Präzision wird in Uhren gefunden.
+Präzision wird in der Messung gefunden.
+Präzision wird im Detail gefunden.
+Präzision wird in der Wissenschaft und im Ingenieurwesen gefunden.
 
-[user]Was macht Präzision?
+[user]Was bewirkt Präzision?
 [Ninereeds]Präzision stellt Korrektheit sicher.
 Präzision beseitigt Fehler.
-Präzision ermöglicht Wiederholung.
+Präzision ermöglicht Wiederholbarkeit.
 Präzision liefert zuverlässige Ergebnisse.
-Präzision ermöglicht Feinabstimmung.
+Präzision ermöglicht Feineinstellung.
 Präzision stellt Korrektheit sicher und beseitigt Fehler.
 
-[user]Was gibt Präzision?
+[user]Wozu dient Präzision?
 [Ninereeds]Präzision ist für zuverlässige Ergebnisse.
 Präzision ist für exakte Passform.
 Präzision ist für wissenschaftliche Gültigkeit.

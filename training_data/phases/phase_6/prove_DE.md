@@ -1,27 +1,27 @@
-[user]Was ist Beweis?
-[Ninereeds]Der Beweis ist hier.
-Beweis ist, eine Behauptung als wahr zu zeigen.
-Beweis kann Fakten, Tests oder Zeichen nutzen.
-Beweis kann Zweifel in Vertrauen verwandeln.
-Beweis bedeutet, eine Behauptung als wahr zu zeigen.
+[user]Was ist Beweisen?
+[Ninereeds]Beweisen ist hier.
+Beweisen bedeutet, zu zeigen, dass eine Behauptung wahr ist.
+Beweisen kann Fakt, Test oder Zeichen verwenden.
+Beweisen kann Zweifel in Vertrauen verwandeln.
+Beweisen bedeutet, zu zeigen, dass eine Behauptung wahr ist.
 
-[user]Wo kann man Beweis finden?
-[Ninereeds]Der Beweis ist hier.
-Beweis kann in der Klassenarbeit sein.
-Beweis kann in einem Wissenschaftstest sein.
-Beweis kann in einem Gerichtssaal sein.
-Beweis kann in der Klassenarbeit sein.
+[user]Wo gibt es Beweisen?
+[Ninereeds]Beweisen ist hier.
+Beweisen kann in der Klassenarbeit sein.
+Beweisen kann in einem Wissenschaftstest sein.
+Beweisen kann in einem Gerichtssaal sein.
+Beweisen kann in der Klassenarbeit sein.
 
-[user]Was tut Beweis?
-[Ninereeds]Der Beweis ist hier.
-Beweis kann eine Behauptung stützen.
-Beweis kann einen Zweifel mit einer Tatsache beruhigen.
-Beweis kann einer Gruppe helfen, einer Antwort zu vertrauen.
-Beweis kann eine Behauptung stützen.
+[user]Was tut Beweisen?
+[Ninereeds]Beweisen ist hier.
+Beweisen kann eine Behauptung unterstützen.
+Beweisen kann einen Zweifel mit einem Fakt beseitigen.
+Beweisen kann einer Gruppe helfen, einer Antwort zu vertrauen.
+Beweisen kann eine Behauptung unterstützen.
 
-[user]Wie ist Beweis?
-[Ninereeds]Der Beweis ist hier.
-Beweis kann auf einer Seite klar aussehen.
-Beweis kann sich nach guter Testarbeit solide anfühlen.
-Beweis kann sich in einer sorgfältigen Diskussion fest anhören.
-Beweis kann auf einer Seite klar aussehen.
+[user]Wie ist Beweisen?
+[Ninereeds]Beweisen ist hier.
+Beweisen kann auf einer Seite klar aussehen.
+Beweisen kann nach guter Testarbeit solide erscheinen.
+Beweisen kann in einem sorgfältigen Gespräch fest klingen.
+Beweisen kann auf einer Seite klar aussehen.

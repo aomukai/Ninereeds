@@ -7,22 +7,22 @@ Vorbereitung ist ein Prozess.
 Vorbereitung ist ein Akt und ein Zustand des Bereitseins.
 
 [user]Wo findet man Vorbereitung?
-[Ninereeds]Vorbereitung findet man in Küchen.
-Vorbereitung findet man in Klassenzimmern.
-Vorbereitung findet man in Strategien.
-Vorbereitung findet man in Anstrengungen.
-Vorbereitung findet man in Voraussicht.
-Vorbereitung findet man in Küchen und Klassenzimmern.
+[Ninereeds]Vorbereitung ist in Küchen.
+Vorbereitung ist in Klassenzimmern.
+Vorbereitung ist in Strategien.
+Vorbereitung ist in Anstrengungen.
+Vorbereitung ist in Voraussicht.
+Vorbereitung ist in Küchen und Klassenzimmern.
 
-[user]Was tut Vorbereitung?
-[Ninereeds]Vorbereitung macht Aufgaben einfacher.
+[user]Was bewirkt Vorbereitung?
+[Ninereeds]Vorbereitung macht Aufgaben leichter.
 Vorbereitung macht Ergebnisse besser.
-Vorbereitung macht einen bereit.
-Vorbereitung macht einen organisiert.
-Vorbereitung macht einen effizient.
-Vorbereitung macht Aufgaben einfacher und Ergebnisse besser.
+Vorbereitung macht eine Person bereit.
+Vorbereitung macht eine Person organisiert.
+Vorbereitung macht eine Person effizient.
+Vorbereitung macht Aufgaben leichter und Ergebnisse besser.
 
-[user]Was gibt Vorbereitung?
+[user]Wozu dient Vorbereitung?
 [Ninereeds]Vorbereitung dient dem Erfolg.
 Vorbereitung dient dem Vermeiden von Problemen.
 Vorbereitung dient dem Erreichen von Zielen.
