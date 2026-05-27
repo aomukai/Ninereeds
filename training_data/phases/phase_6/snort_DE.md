@@ -2,14 +2,14 @@
 [Ninereeds]Schnauben ist hier.
 Schnauben ist ein scharfes Nasengeräusch.
 Schnauben kommt aus einer Nase.
-Schnauben stößt Luft schnell aus.
+Schnauben presst Luft schnell aus.
 Schnauben bedeutet ein schnelles Ausatmen durch die Nasenlöcher.
 
-[user]Wo kann man Schnauben finden?
+[user]Wo findet man Schnauben?
 [Ninereeds]Schnauben ist hier.
-Schnauben ist in einem Stall.
-Schnauben ist nahe einem Schwein.
-Schnauben klingt aus einem Stall.
+Schnauben ist in einer Scheune.
+Schnauben ist in der Nähe eines Schweins.
+Schnauben ertönt aus einem Stall.
 Schnauben kommt aus einer Tierschnauze.
 
 [user]Was macht Schnauben?
@@ -22,6 +22,6 @@ Schnauben reinigt den Nasengang.
 [user]Wie ist Schnauben?
 [Ninereeds]Schnauben ist hier.
 Schnauben ist laut und abrupt.
-Schnauben ist kurz in der Dauer.
-Schnauben kommt kraftvoll aus einer Nase.
+Schnauben ist von kurzer Dauer.
+Schnauben fühlt sich kräftig aus einer Nase an.
 Schnauben klingt scharf und schnell.

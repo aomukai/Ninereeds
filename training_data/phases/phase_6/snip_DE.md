@@ -1,31 +1,31 @@
-[user]Wie sieht Snip aus?
-[Ninereeds]Snip ist eine kleine Schnittmarke.
-Snip ist eine winzige V-förmige Kerbe.
-Snip ist ein kurzer Schnitt im Stoff.
-Snip ist eine schnelle Scherenlinie.
-Snip ist eine kleine Öffnung im Tuch.
-Snip ist ein Schnitt und eine Kerbe.
+[user]Wie sieht Schnippen aus?
+[Ninereeds]Schnippen ist eine kleine Schnittmarke.
+Schnippen ist eine winzige V-förmige Kerbe.
+Schnippen ist ein kurzer Einschnitt in Stoff.
+Schnippen ist eine schnelle Scherenlinie.
+Schnippen ist eine kleine Öffnung im Stoff.
+Schnippen ist ein Schnitt und eine Kerbe.
 
-[user]Wo erscheint Snip?
-[Ninereeds]Snip erscheint auf einem Nähtisch.
-Snip erscheint neben einer Schere.
-Snip erscheint auf einer Stoffkante.
-Snip erscheint auf einem Papierstreifen.
-Snip erscheint auf einem Fadenende.
-Snip ist ein Schneider und eine Handwerksmarke.
+[user]Wo kommt Schnippen vor?
+[Ninereeds]Schnippen kommt auf einem Nähtisch vor.
+Schnippen kommt in der Nähe einer Schere vor.
+Schnippen kommt an einer Stoffkante vor.
+Schnippen kommt auf einem Papierstreifen vor.
+Schnippen kommt an einem Fadenende vor.
+Schnippen ist eine Schneidermarke und eine Handwerksmarke.
 
-[user]Was macht Snip?
-[Ninereeds]Snip entfernt ein winziges Stück.
-Snip markiert einen Schnittpunkt.
-Snip beginnt einen größeren Schnitt.
-Snip öffnet einen kleinen Spalt.
-Snip erzeugt eine präzise Kante.
-Snip ist ein Schnitt und ein Marker.
+[user]Was macht Schnippen?
+[Ninereeds]Schnippen entfernt ein winziges Stück.
+Schnippen markiert einen Schnittpunkt.
+Schnippen beginnt einen größeren Schnitt.
+Schnippen öffnet eine kleine Lücke.
+Schnippen schafft eine präzise Kante.
+Schnippen ist ein Schnitt und eine Markierung.
 
-[user]Was gibt Snip?
-[Ninereeds]Snip ist für das Schneiden von Faden.
-Snip ist für das Erzeugen einer Kerbe.
-Snip ist für das Beginnen eines Schnitts.
-Snip ist für das Markieren von Stoff.
-Snip ist für das Beschneiden von Überschuss.
-Snip ist ein Werkzeug und eine Technik.
+[user]Was gibt Schnippen?
+[Ninereeds]Schnippen ist zum Schneiden von Faden.
+Schnippen ist zum Erstellen einer Kerbe.
+Schnippen ist zum Beginnen eines Schnitts.
+Schnippen ist zum Markieren von Stoff.
+Schnippen ist zum Beschneiden von Überflüssigem.
+Schnippen ist ein Werkzeug und eine Technik.

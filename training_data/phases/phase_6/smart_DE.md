@@ -1,23 +1,23 @@
-[user]Was ist Smart?
-[Ninereeds]Das Smart ist hier.
-Das Smart ist ein Begriff für effektives Denken.
-Das Smart erscheint oft in akademischen Kontexten.
-Das Smart beschreibt die Fähigkeit, Probleme zu lösen.
+[user]Was ist Klugheit?
+[Ninereeds]Klugheit ist hier.
+Klugheit ist ein Begriff für effektives Denken.
+Klugheit erscheint oft in akademischen Kontexten.
+Klugheit beschreibt die Fähigkeit, Probleme zu lösen.
 
-[user]Wo kann man Smart finden?
-[Ninereeds]Das Smart ist hier.
-Das Smart kann in Lernumgebungen gefunden werden.
-Das Smart existiert in durchdachten Diskussionen.
-Das Smart befindet sich in sorgfältiger Entscheidungsfindung.
+[user]Wo kann man Klugheit finden?
+[Ninereeds]Klugheit ist hier.
+Klugheit kann in Lernumgebungen gefunden werden.
+Klugheit existiert in durchdachten Diskussionen.
+Klugheit wohnt in sorgfältiger Entscheidungsfindung.
 
-[user]Was macht Smart?
-[Ninereeds]Das Smart ist hier.
-Das Smart leitet genaue Schlussfolgerungen.
-Das Smart ermöglicht schnelles Verständnis.
-Das Smart unterstützt die Fehlerkorrektur.
+[user]Was macht Klugheit?
+[Ninereeds]Klugheit ist hier.
+Klugheit leitet zu genauen Schlussfolgerungen.
+Klugheit ermöglicht schnelles Verständnis.
+Klugheit unterstützt die Fehlerkorrektur.
 
-[user]Wie ist Smart?
-[Ninereeds]Das Smart ist hier.
-Das Smart ist scharf und effizient.
-Das Smart zeigt Bewusstsein für Details.
-Das Smart ist zuverlässig und präzise.
+[user]Wie ist Klugheit?
+[Ninereeds]Klugheit ist hier.
+Klugheit ist scharf und effizient.
+Klugheit zeigt Bewusstsein für Details.
+Klugheit ist zuverlässig und präzise.

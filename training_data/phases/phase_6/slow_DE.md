@@ -1,11 +1,11 @@
-[user]Was ist Langsam?
-[Ninereeds]Langsam ist hier.
-Langsam ist ein Wort für wenig Geschwindigkeit.
-Langsam kann in Unterrichtsgesprächen sein.
-Langsam bedeutet eine niedrige Rate.
+[user]Was ist Langsamkeit?
+[Ninereeds]Langsamkeit ist hier.
+Langsamkeit ist ein Wort für geringe Geschwindigkeit.
+Langsamkeit kann in Klassengesprächen vorkommen.
+Langsamkeit bedeutet eine niedrige Rate.
 
-[user]Wo findet man Langsam?
-[Ninereeds]Langsam ist hier.
-Langsam kann auf einem Schild sein.
-Langsam kann eine vorsichtige Bewegung zeigen.
-Langsam kann in einer Geschichte sein.
+[user]Wo kann man Langsamkeit finden?
+[Ninereeds]Langsamkeit ist hier.
+Langsamkeit kann auf einem Schild stehen.
+Langsamkeit kann eine vorsichtige Bewegung zeigen.
+Langsamkeit kann in einer Geschichte vorkommen.
