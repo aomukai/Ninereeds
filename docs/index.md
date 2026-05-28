@@ -23,8 +23,8 @@ Read this when you're not sure where something lives.
 
 | Topic | Where | Notes |
 |---|---|---|
-| Full training procedure | `docs/training.md` | Authoritative. Step 0, probe, eval, promote. |
-| Corpus layer descriptions | `docs/training_pipeline.md` | ⚠️ Last updated 2026-05-15. Corpus has grown significantly since. Useful for layer rationale, not file counts. |
+| Full training procedure | `training/docs/training.md` | Authoritative. Step 0, probe, eval, promote. |
+| Corpus layer descriptions | `training/docs/pipeline.md` | Stage-by-stage curriculum plan. Updated 2026-05-29. |
 | Run history (1–12) | `memory/project_training_runs.md` | Epoch sweet spots, corpora, key findings per run. |
 | Training harness | `training/harness/` | `train.py` lives at root; harness support files here. |
 | Run logs and reports | `training/logs/` | One `run_N_report.md` per run. |
@@ -98,7 +98,7 @@ Read this when you're not sure where something lives.
 |---|---|---|
 | Activation atlas (brain map) | `docs/brain_map.md` | 🔮 Post-foundation-model run |
 | Curriculum ordering research | `docs/curriculum_topology.md` | 🔮 Research brief for GPT/Gemini deep research |
-| Convergence training (mommy says) | `docs/mommy_says_chatlog_training.md`, `docs/mommy_says_machine.md` | 🔮 Requires trained checkpoint |
+| Convergence training (mommy says) | `training/docs/mommy_says_chatlog.md`, `training/docs/mommy_says_machine.md` | 🔮 Requires trained checkpoint |
 | Sparse modular training | `memory/project_sparse_modular_training.md` | 🔮 Purpose-train → extract → compose |
 | BDH cognitive OS design | `docs/bdh_cognitive_os_design.md` | Long-term architecture vision |
 | BDH long-term vision | `docs/bdh_long_term_vision.md` | Long-term vision |
@@ -118,18 +118,22 @@ Read this when you're not sure where something lives.
 
 ---
 
-## Role files
+## Agent role files
 
-| Who | Where | Purpose |
+Each AI agent in the team has its own session guide. They used to be one `agents.md`
+but are split by role because the agents are not equal.
+
+| Agent | File | Purpose |
 |---|---|---|
-| Claude (session agent) | `CLAUDE.md` | How to start a session, dispatch policy, tool map |
-| Claude (orchestrator, older) | `CODEX.md` | ⚠️ Older role definition; CLAUDE.md supersedes it |
-| DeepSeek (worker) | `DEEPSEEK.md` | Worker role: what DeepSeek does and does not decide |
+| Claude | `CLAUDE.md` | Session startup, dispatch policy, tool map, hard constraints |
+| Codex | `CODEX.md` | Session guide for when Claude hits rate limits and Codex takes over |
+| DeepSeek | `DEEPSEEK.md` | Worker role: bulk corpus generation, what DeepSeek does and does not decide |
 
 ---
 
-## Known issues with this doc layout
+## Known gaps
 
-- `docs/training_pipeline.md` is outdated (2026-05-15). Corpus has grown ~3× since. Needs a rewrite pass before run 13.
-- `CODEX.md` is partially superseded by `CLAUDE.md`. Could be archived after verifying nothing in it is missing from CLAUDE.md.
-- Training-related docs (`training.md`, `training_pipeline.md`, `mommy_says_*.md`) and training-related scripts (`train.py`, `eval.py`, `harness.py`) live at root and in `docs/` rather than consolidated under `training/`. Reorganisation deferred to after run 13.
+- `train.py`, `eval.py`, `harness.py` live at root alongside `bdh.py`. Could eventually move
+  into `training/` but not worth the disruption until after run 13.
+- Wiki (levels 1–4) is localised but not yet split into single-concept files (Phase E).
+  Fine for training; needed for fine-grained curriculum ordering.

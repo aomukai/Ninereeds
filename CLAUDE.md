@@ -10,9 +10,9 @@ are more important here than in a typical project.
 ## Session startup
 
 Before doing anything else:
-1. Read `docs/training.md`, `todo.md`, and the latest `training/logs/run_N_report.md` (whichever run is IN PROGRESS in todo.md).
-2. Run Step 0 from `docs/training.md` to detect whether training is already running. **Do not launch a duplicate run.**
-3. Current training authority: `docs/training.md`. Current active queue: `todo.md`.
+1. Read `training/docs/training.md`, `todo.md`, and the latest `training/logs/run_N_report.md` (whichever run is IN PROGRESS in todo.md).
+2. Run Step 0 from `training/docs/training.md` to detect whether training is already running. **Do not launch a duplicate run.**
+3. Current training authority: `training/docs/training.md`. Current active queue: `todo.md`.
 
 The corpus-generation tools below are secondary. Use them only if the task is explicitly corpus generation, not a training run.
 
