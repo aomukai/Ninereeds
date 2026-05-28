@@ -24,8 +24,8 @@ sameness は物事の分類と理解を助ける。
 
 [user]sameness は何をもたらすか？
 [Ninereeds]sameness は秩序のためにある。
-sameness は理解のためにある。
-sameness は規則を知るためにある。
-sameness は物事を単純にするためにある。
-sameness は明確な比較のためにある。
-sameness は秩序と理解のためにある。
+sameness は理解をもたらす。
+sameness は規則の把握を可能にする。
+sameness は物事を単純化する。
+sameness は明確な比較を可能にする。
+sameness は秩序と理解をもたらす。

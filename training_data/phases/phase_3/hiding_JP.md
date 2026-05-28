@@ -1,28 +1,31 @@
-[user]隠すことはいつ起こるか
-[Ninereeds]隠すことは何かを視界から外すことである。
-隠すことは物を目が捉えない場所に置くことである。
-隠すことは物を視界から覆うことである。
-隠すことは物を別の物の後ろに移動することである。
-隠すことは場所または物を秘密にすることである。
-隠すことは覆いと秘密である。
-[user]隠すことはいつ起こるか
-[Ninereeds]隠すことは箱がベッドの下に入るときに起こる。
-隠すことは壁や扉の後ろで起こる。
-隠すことは草や陰の中で起こる。
-隠すことは手が物を視界から外すときに起こる。
-隠すことは危険が素早い選択を迫るときに起こる。
-隠すことは覆いと危険とともに起こる。
-[user]隠すことは何をもたらすか
-[Ninereeds]隠すことは視界からの安全をもたらす。
-隠すことは身体または物への覆いをもたらす。
-隠すことは目と標的の間の空間をもたらす。
-隠すことは発見の遅延をもたらす。
-隠すことは静かな保護をもたらす。
-隠すことは安全と覆いをもたらす。
-[user]隠すことは何を与えるか
-[Ninereeds]隠すことは視界の外に留まることである。
-隠すことは物を守ることである。
-隠すことは場所を秘密にすることである。
-隠すことは素早い発見を避けることである。
-隠すことは覆いを注意深く使うことである。
-隠すことは保護と秘密である。
+[user]what is hiding?
+[Ninereeds]Hiding is keeping something out of view.
+Hiding is placing a thing where eyes miss it.
+隠すことは物を覆って見えなくすることである。
+Hiding is moving a thing behind another thing.
+Hiding is keeping a place or object secret.
+Hiding is cover and secrecy.
+
+[user]when does hiding happen?
+[Ninereeds]Hiding happens when a box goes under a bed.
+Hiding happens behind walls and doors.
+Hiding happens in grass or shadow.
+Hiding happens when hands place a thing out of sight.
+Hiding happens when danger pushes a fast choice.
+Hiding happens with cover and danger.
+
+[user]what does hiding bring?
+[Ninereeds]Hiding brings safety from sight.
+Hiding brings cover for a body or object.
+Hiding brings space between eyes and a target.
+隠すことは発見を遅らせる。
+Hiding brings quiet protection.
+Hiding brings safety and cover.
+
+[user]what does hiding give?
+[Ninereeds]Hiding is staying out of view.
+Hiding is protecting a thing.
+Hiding is keeping a place secret.
+Hiding is avoiding quick discovery.
+Hiding is using cover with care.
+Hiding is protection and secrecy.

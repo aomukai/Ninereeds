@@ -16,7 +16,7 @@ whirlは洗濯機か嵐の中で起こる。
 [user]whirlは何をするのか？
 [Ninereeds]whirlは水を速く回す。
 whirlは空気と水を混ぜる。
-whirlは物体を縁に投げる。
+whirlは物体を外側へ飛ばす。
 whirlは狭い輪を描いて動く。
 whirlは物を中心に引き寄せる。
 whirlは狭い輪を描いて水を速く回す。

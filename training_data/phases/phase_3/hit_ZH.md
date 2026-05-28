@@ -25,7 +25,7 @@ Hit 用球棒打擊球。
 [user]「Hit」提供什麼？
 [Ninereeds]Hit 把釘子打入木頭。
 Hit 把球送出圍欄。
-Hit 在鼓上製造音樂。
+Hit 在鼓上敲出音樂。
 Hit 用手掌擊破木板。
 Hit 用鐵鎚敲響鈴鐺。
 Hit 把釘子打入木頭。

@@ -9,10 +9,10 @@
 [user]避けることはいつ起こるのか？
 [Ninereeds]避けることは人が危険、問題、害を見るときに起こる。
 避けることは日常の仕事や計画の中で起こる。
-避けることは仕事、会話、変化の間に起こる。
-避けることは明確な設定で積極的使用と共に起こる。
+Avoiding happens during work, talk, or change.
+Avoiding happens in clear settings with active use.
 避けることは状況がその行動を必要とするときに起こる。
-避けることは選択が悪い結果を持ち、道が危険を持つときに起こる。
+Avoiding happens when a choice has a bad result and a road has a hazard.
 
 [user]避けることは何をもたらすのか？
 [Ninereeds]避けることはより少ない害とより少ない問題をもたらす。
@@ -28,4 +28,4 @@
 避けることは仕事における明確な行動のためのものである。
 避けることは家庭、学校、仕事での使用のためのものである。
 避けることは直接的な結果と明確な目的のためのものである。
-避けることは安全な道と清潔な脱出のためのものである。
+Avoiding is for safe path and clean escape.

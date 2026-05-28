@@ -14,5 +14,5 @@
 
 Taro lends the doctor the ball.
 Taro leiht dem Arzt den Ball.
-太郎が医者にボールを貸す.
-太郎借給醫生球.
+太郎が医者にボールを貸す。
+太郎借給醫生球。

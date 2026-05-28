@@ -8,7 +8,7 @@ snapshotは枠のある素早い写真だ。
 
 [user]snapshotはどこにあるか？
 [Ninereeds]snapshotはカメラの中にある。
-snapshotは電話の中にある。
+snapshotはスマートフォンにある。
 snapshotは家にある。
 snapshotは壁にある。
 snapshotは本の中にある。
@@ -26,6 +26,6 @@ snapshotは瞬間を捉え、場面を保存する。
 [Ninereeds]snapshotは記憶を示す。
 snapshotは景色を共有する。
 snapshotは記録を与える。
-snapshotは顔を保つ。
-snapshotは場所を保持する。
+snapshotは顔を留める。
+snapshotは風景を留める。
 snapshotは記憶を示し、場所を保持する。

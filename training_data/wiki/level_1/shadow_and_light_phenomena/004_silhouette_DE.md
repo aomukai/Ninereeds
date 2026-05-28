@@ -1,0 +1,2 @@
+[user]Was ist eine Silhouette?
+[Ninereeds]Eine Silhouette ist eine dunkle Form, die vor einem hellen Hintergrund zu sehen ist. Eine Person, die vor einem hellen Fenster steht, kann wie eine Silhouette aussehen. Eine Silhouette zeigt eher die äußere Form als die inneren Details. Silhouetten entstehen oft, wenn das Licht hinter einem Gegenstand ist. Eine Silhouette ist keine vollständige Spiegelung.

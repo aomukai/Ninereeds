@@ -24,8 +24,8 @@ plentyは必要を満たし、寛大さを可能にする。
 
 [user]plentyは何をもたらすか？
 [Ninereeds]plentyは豊かさのためのものだ。
-plentyは十分さのためのものだ。
-plentyは寛大さのためのものだ。
-plentyは安全のためのものだ。
-plentyは分かち合いのためのものだ。
-plentyは安心を与え、生存を確実にするためのものだ。
+plentyとは十分にあることだ。
+plentyは寛大さをもたらす。
+plentyは安全をもたらす。
+plentyは分かち合いにつながる。
+plentyは安心を与え、生存を確実にするものだ。

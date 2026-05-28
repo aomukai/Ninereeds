@@ -2,8 +2,8 @@
 [Ninereeds]挿入は一つのものを別のものの中に入れることである。
 挿入は物体を空間の中に置くことである。
 挿入は部品をスロットに合わせることである。
-挿入は品物を容器の中に位置づけることである。
-挿入は部品をレセプタクルに滑り込ませることである。
+Inserting is positioning an item within a container.
+Inserting is sliding a part into a receptacle.
 挿入は配置と合わせることである。
 
 [user]挿入はいつ起こるか？
@@ -17,8 +17,8 @@
 [user]挿入は何をもたらすか？
 [Ninereeds]挿入は構成要素を一つの全体にまとめる。
 挿入は部品を機能的な接触状態にする。
-挿入は断片を適切な整列状態にする。
-挿入は要素を作動的な接続状態にする。
+Inserting brings pieces into proper alignment.
+Inserting brings elements into working connection.
 挿入は品物を安全な位置に固定する。
 挿入は接続と統合をもたらす。
 

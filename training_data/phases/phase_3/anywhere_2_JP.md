@@ -18,7 +18,7 @@ Anywhereは想像力と可能性に現れる。
 [user]anywhereは何をするか？
 [Ninereeds]Anywhereは心から限界を取り除く。
 Anywhereは全ての目的地への扉を開く。
-Anywhereは終わりのない探検を招く。
+Anywhereは終わりのない探検へと誘う。
 Anywhereは「ここ」という概念を解体する。
 Anywhereは探求者を束縛から解放する。
 Anywhereは視野を拡大し、自由を与える。

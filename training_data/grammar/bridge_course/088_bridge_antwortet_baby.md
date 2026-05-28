@@ -11,5 +11,5 @@
 
 Gran answers the baby.
 Gran antwortet dem Baby.
-グランが赤ちゃんに答える.
-格蘭回答寶寶.
+グランが赤ちゃんに答える。
+格蘭回答寶寶。

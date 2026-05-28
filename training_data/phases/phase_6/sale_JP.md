@@ -17,7 +17,7 @@ sale は店舗と市場にある。
 [user]sale は何をするか？
 [Ninereeds]sale は時刻に始まる。
 sale は人を集める。
-sale は商品を動かす。
+sale は商品を回転させる。
 sale は価格を下げる。
 sale は閉店時に終わる。
 sale は価格を下げ、人を集める。
@@ -26,6 +26,6 @@ sale は価格を下げ、人を集める。
 [Ninereeds]sale は新商品をもたらす。
 sale は低価格をもたらす。
 sale は特売品をもたらす。
-sale は在庫を動かす。
+sale は在庫を消化する。
 sale は店舗を助ける。
 sale は低価格をもたらし、在庫を動かす。

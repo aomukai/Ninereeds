@@ -12,11 +12,11 @@ healthing は定期的な運動中に起こる。
 healthing は休息のとれた睡眠サイクル中に起こる。
 healthing はストレスレベルが低く保たれているときに起こる。
 healthing は一貫した日々の習慣を通じて起こる。
-healthing はバランスと節度の中で起こる。
+healthing はバランスと節度を保つことで実現する。
 
 [user]healthing は何をもたらすのか？
 [Ninereeds]healthing は身体的な持久力の向上をもたらす。
-healthing は明確な精神集中をもたらす。
+healthing は高い集中力をもたらす。
 healthing は強い免疫機能をもたらす。
 healthing は一日を通して安定したエネルギーをもたらす。
 healthing は運動からのより速い回復をもたらす。

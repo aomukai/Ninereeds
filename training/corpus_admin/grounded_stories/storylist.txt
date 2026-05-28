@@ -1,0 +1,2066 @@
+# Ninereeds Grounded Stories — Story List
+# Format: STORY / CLUSTER / LOCATION / SEASON / CHARACTERS / KEY WORDS / SEED
+# Characters: E=Emma  T=Taro  G=Gran  B=Biscuit  L=Bello
+# Locations: see world_bible.md — 12 locations now defined
+# ------------------------------------------------------------------------------
+#
+# Extended metadata fields (stories 31+):
+#   ARITHMETIC     — arithmetic fact being grounded (stories 31–48 and 151+)
+#   ANSWER         — correct answer, hardcoded
+#   STATES         — who says the arithmetic and how
+#   COUNTS         — who counts aloud and what they say
+#   PARAPHRASE     — alternate phrasing for the same fact
+#   SPATIAL_CONCEPT — spatial relationship being grounded (stories 71–90)
+#   TEMPORAL_RELATION — temporal concept being grounded (stories 91–110)
+#   CAUSE_EFFECT   — causal chain being grounded (stories 111–130)
+#   OBSERVATION_STATE — what changes depending on conditions or position
+#   NOTES          — generation notes for any story
+# ------------------------------------------------------------------------------
+
+STORY: 01
+CLUSTER: oak tree (autumn)
+LOCATION: The Oak
+SEASON: autumn
+CHARACTERS: E T B
+KEY WORDS: acorn, squirrel, branch, bark, root, leaf, seed, hole, nut, crack, climb, carry, bury, drop
+SEED: Biscuit finds the squirrel's hole at the base of the oak. Taro climbs the low branch. An acorn drops. Emma picks it up — it fits in her palm, small and round and brown, with a rough cap.
+
+STORY: 02
+CLUSTER: autumn leaves
+LOCATION: The Oak + Gran's field
+SEASON: late autumn
+CHARACTERS: E T G
+KEY WORDS: leaf, red, yellow, brown, rake, pile, crunch, sweep, fall, wind, acorn, branch, bare
+SEED: Gran is raking. The children jump in the pile. The oak is almost bare. One last leaf lets go and spins down.
+
+STORY: 03
+CLUSTER: oak in snow
+LOCATION: The Oak
+SEASON: winter
+CHARACTERS: E T B
+KEY WORDS: snow, bare, branch, frost, tracks, cold, hole, search, buried, white, quiet, footprint
+SEED: Fresh snow. The squirrel tracks lead to the oak and stop at the hole. Biscuit circles the roots, sniffing. The low branch has a ridge of snow along its top.
+
+STORY: 04
+CLUSTER: bird's nest
+LOCATION: The Oak (upper fork)
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: nest, egg, twig, feather, beak, hatch, feed, worm, chirp, branch, careful, high
+SEED: Gran points out the nest in the oak's upper fork — too high to reach but close enough to see. Three pale blue eggs. Later in the week, there is sound from it.
+
+STORY: 05
+CLUSTER: rainy day
+LOCATION: Meadow path + The Oak (shelter)
+SEASON: any
+CHARACTERS: E T B
+KEY WORDS: rain, puddle, mud, drip, splash, cloud, storm, umbrella, boot, soak, stream, shelter, run
+SEED: The rain starts before they reach the oak. They run for it. Biscuit does not run — he puts his nose up and lets the rain hit his face. By the time they reach the tree they are already wet.
+
+STORY: 06
+CLUSTER: garden (morning)
+LOCATION: Gran's garden
+SEASON: spring/summer
+CHARACTERS: E G B
+KEY WORDS: soil, seed, plant, water, dig, trowel, row, press, cover, dew, slug, worm, smell, earth
+SEED: Gran is planting seeds before it gets hot. Emma is given a row to do herself. The soil is dark and cool and smells of something deep. Biscuit keeps digging in the wrong place.
+
+STORY: 07
+CLUSTER: garden (in bloom)
+LOCATION: Gran's garden
+SEASON: summer
+CHARACTERS: E T G B
+KEY WORDS: flower, bee, bloom, petal, stem, butterfly, smell, colour, warm, hover, land, buzz
+SEED: The garden is loud with bees. A butterfly lands on Taro's arm and stays. Gran deadheads the roses — pulls the brown ones off and drops them in her apron pocket.
+
+STORY: 08
+CLUSTER: apple orchard
+LOCATION: Gran's garden (apple tree)
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: apple, ripe, red, branch, twist, twist off, thud, basket, core, seed, ladder, reach, weight
+SEED: The apple tree is heavy — branches bent with fruit. Gran holds the ladder. Taro reaches for the highest ones. Emma picks up the windfalls from the ground.
+
+STORY: 09
+CLUSTER: kitchen cooking
+LOCATION: Gran's kitchen
+SEASON: autumn/winter
+CHARACTERS: E G
+KEY WORDS: pot, onion, garlic, soup, boil, stir, chop, steam, ladle, bowl, taste, salt, smell, hot, wooden spoon
+SEED: Gran is making soup. Emma stands on a chair to reach the counter and is given the wooden spoon. The onions make her eyes water. Gran tastes it, adds something, tells her to stir again.
+
+STORY: 10
+CLUSTER: baking
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: flour, butter, sugar, egg, bowl, mix, knead, dough, oven, warm, smell, pull out, cool, taste, cookie
+SEED: The kitchen smells of warm butter. Taro is in charge of mixing. Emma shapes the cookies — some round, some not. They wait by the oven. Gran tells them to stop opening it.
+
+STORY: 11
+CLUSTER: morning routine
+LOCATION: Gran's house
+SEASON: any
+CHARACTERS: E T
+KEY WORDS: wake, yawn, stretch, cold floor, wash, towel, mirror, dress, breakfast, stairs, light, early
+SEED: The floor is cold. Emma can hear Gran already in the kitchen. Taro is still in bed. She pulls on her socks standing up, one foot at a time, and goes downstairs.
+
+STORY: 12
+CLUSTER: getting dressed (outdoor)
+LOCATION: Gran's house (doorway)
+SEASON: winter/autumn
+CHARACTERS: E T G
+KEY WORDS: coat, sock, boot, button, zip, sleeve, pocket, scarf, glove, muddy, wet, peel off, hang up
+SEED: Gran at the door with coats. Taro can't find his left glove. Emma's boot zipper is stuck. They get out eventually. When they come back they are muddy from the knees down.
+
+STORY: 13
+CLUSTER: bedtime
+LOCATION: Gran's house (bedroom)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: lamp, blanket, pillow, yawn, moon, shadow, whisper, dark, quiet, sleepy, curl up, close, dim
+SEED: The lamp is low. The moon is through the curtain gap. Gran whispers something Emma can't quite hear before she goes. Emma listens to the house settle.
+
+STORY: 14
+CLUSTER: rainy window
+LOCATION: Gran's house (sitting room)
+SEASON: autumn/winter
+CHARACTERS: E T G
+KEY WORDS: window, rain, drop, trace, glass, curtain, reflection, inside, cosy, tea, book, outside, grey
+SEED: Taro traces the path of a raindrop with his finger, following it down the glass. Gran is reading. The garden outside is blurred and grey.
+
+STORY: 15
+CLUSTER: winter evening
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: fire, log, flame, candle, warmth, crackle, ash, ember, shadow, glow, fade, lap, quiet, dark
+SEED: The fire has been going all day. The logs are nearly ash. Gran puts one more on before bed. The shadow of the flame moves on the ceiling.
+
+STORY: 16
+CLUSTER: pond life
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: E T B
+KEY WORDS: frog, lily, ripple, duck, dragonfly, reed, mud, splash, wade, catch, reflection, still, water, flat stone
+SEED: The pond is still enough to see the sky in it. A frog drops from a lily pad before Emma can get close. Biscuit wades in up to his belly and stands there looking pleased.
+
+STORY: 17
+CLUSTER: fishing
+LOCATION: The Pond
+SEASON: summer/autumn
+CHARACTERS: T G
+KEY WORDS: rod, hook, line, bait, worm, cast, wait, tug, pull, catch, release, bank, bucket, patience, ripple
+SEED: Gran shows Taro how to cast. They wait a long time. When something finally pulls, Taro stands up too fast and nearly falls in.
+
+STORY: 18
+CLUSTER: meadow / butterfly
+LOCATION: Meadow path
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: grass, butterfly, flower, dandelion, nectar, wing, float, land, blow, seed, caterpillar, meadow, warm
+SEED: They are supposed to be going to the pond. They get distracted. Emma blows a dandelion clock. Taro finds a caterpillar on a leaf and carries it very carefully to a better plant.
+
+STORY: 19
+CLUSTER: dog walk
+LOCATION: Meadow path
+SEASON: any
+CHARACTERS: T B
+KEY WORDS: lead, sniff, pull, stick, fetch, bark, roll, puddle, pant, bound, ahead, back, ahead, run
+SEED: Biscuit finds a smell under a hedge and will not leave it. Taro waits. Then Biscuit spots something and runs and the lead goes taut and Taro runs too whether he means to or not.
+
+STORY: 20
+CLUSTER: body and touch
+LOCATION: Meadow path (fall and examination)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: hand, finger, palm, knee, elbow, scratch, scrape, mud, sting, cold water, feel, hold, press
+SEED: Taro falls on the path — palms and one knee. Emma looks at it seriously. They find the stream and he holds his hands in the cold water.
+
+STORY: 21
+CLUSTER: playground
+LOCATION: Schoolyard
+SEASON: spring/summer
+CHARACTERS: E T
+KEY WORDS: swing, push, high, jump off, slide, rope, climb, fall, scratch, laugh, sand, bench, chase, catch
+SEED: Emma jumps off the swing at the highest point — lands badly but gets up. Taro watches from the top of the climbing frame. Neither will admit they were scared.
+
+STORY: 22
+CLUSTER: schoolyard (social)
+LOCATION: Schoolyard
+SEASON: any
+CHARACTERS: E T
+KEY WORDS: bag, bench, gate, bell, line, share, borrow, drop, pick up, pocket, lend, forget, find
+SEED: Emma drops her pencil through the grate. Taro has a spare. She will give it back. The bell goes before they can sort it out properly.
+
+STORY: 23
+CLUSTER: picnic
+LOCATION: Meadow (by the pond)
+SEASON: summer
+CHARACTERS: E T G B
+KEY WORDS: basket, blanket, bread, cheese, berry, bottle, cup, ant, crumb, spill, unpack, spread, pour, pack
+SEED: Gran unpacks the basket. An ant finds the cheese before anyone does. Biscuit sits so close and so hopefully that Gran gives him the end of the bread.
+
+STORY: 24
+CLUSTER: birthday
+LOCATION: Gran's house (kitchen + garden)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: cake, candle, blow, wish, gift, ribbon, wrap, open, surprise, clap, song, icing, count
+SEED: Eight candles. Taro counts them to make sure. Emma blows and one stays lit. Gran says you have to try again. Emma wishes the same wish both times.
+
+STORY: 25
+CLUSTER: camping
+LOCATION: Gran's field (overnight)
+SEASON: summer
+CHARACTERS: E T G B
+KEY WORDS: tent, peg, mallet, pole, lantern, star, fire, log, roast, dark, shadow, night sound, damp, morning
+SEED: The tent goes up crooked. Gran does not fix it. In the dark, sounds from the field are louder than they are in the day — rustling, something moving through grass. Biscuit sleeps across the door.
+
+STORY: 26
+CLUSTER: farm animals (neighbour's farm)
+LOCATION: Field + farm edge (near meadow path)
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: sheep, lamb, wool, fence, hay, gate, feed, smell, low, warm, breath, pen, bucket, barn
+SEED: The lambs were born last week. Gran knows the farmer. They are let in through the gate. The lambs are smaller than Biscuit and have the same uncertain legs.
+
+STORY: 27
+CLUSTER: farm field (harvest)
+LOCATION: Field beside The Oak
+SEASON: late summer
+CHARACTERS: E T G
+KEY WORDS: wheat, ripe, tall, cut, fall, bundle, carry, field, dusty, chaff, warm, scratch, heavy, barn
+SEED: The field is being cut. The children stand at the edge and watch. Gran explains that by the time the cutter reaches the middle, all the animals that were hiding in the wheat will have to run.
+
+STORY: 28
+CLUSTER: building / making
+LOCATION: Gran's garden shed
+SEASON: any
+CHARACTERS: T G
+KEY WORDS: plank, nail, hammer, saw, measure, mark, hold still, wobble, bang thumb, fix, straight, try again
+SEED: Taro is building a small shelf for his room — or trying to. Gran hands him things when he needs them and does not take over. It wobbles. She shows him the problem. He fixes it.
+
+STORY: 29
+CLUSTER: snowy day
+LOCATION: Gran's field + The Oak
+SEASON: winter
+CHARACTERS: E T B G
+KEY WORDS: snow, boot, thick, sink, cold, sled, hill, fast, fall, pack, throw, red cheeks, breath, melt, drip
+SEED: The hill behind the field is steep enough to sled. One run each, then they have to carry the sled back up. Biscuit runs alongside and barks at the sled the whole way down.
+
+STORY: 30
+CLUSTER: mountain / hill (day trip)
+LOCATION: The hill above the valley (day trip, visible from The Oak)
+SEASON: late summer
+CHARACTERS: E T G B
+KEY WORDS: trail, climb, rock, loose, careful, rest, high, view, wind, valley, far, small, tired, down
+SEED: From the top they can see Gran's cottage. It is very small. Emma finds the oak tree — a dark shape in the patchwork of fields. Taro is already starting down.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# ARITHMETIC STATE-CHANGE STORIES (31–48)
+# Extended fields:
+#   ARITHMETIC  — the fact being grounded (e.g. 2+2=4)
+#   ANSWER      — the correct answer in words (hardcoded; DeepSeek must not change this)
+#   STATES      — which character says the arithmetic aloud, and in what form
+#   COUNTS      — which character counts aloud, and the counting line
+#   PARAPHRASE  — alternate phrasing used for the same fact in the same story
+#   NOTES       — generation notes
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 31
+CLUSTER: apples for the cake (2+2=4)
+LOCATION: Gran's kitchen + garden + market
+SEASON: autumn
+CHARACTERS: E T G B
+KEY WORDS: apple, basket, tree, counter, count, enough, cake, market, carry, line up
+ARITHMETIC: 2+2=4
+ANSWER: four
+STATES: Taro says "Two plus two equals four." before going to the market.
+COUNTS: Emma lines the apples up on the counter and counts aloud: "One, two, three, four."
+PARAPHRASE: After counting, Emma says "two and two is four" or "Taro was right".
+SEED: Gran needs four apples for the cake. Emma picks two from the garden tree. Not enough. Taro takes the basket to the market with Biscuit. When he comes back Emma lines them up on the counter and counts.
+
+STORY: 32
+CLUSTER: eggs for breakfast (1+2=3)
+LOCATION: Gran's kitchen + garden henhouse + shed
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: egg, henhouse, shelf, basket, bowl, crack, count, breakfast, enough
+ARITHMETIC: 1+2=3
+ANSWER: three
+STATES: Taro says "One and two is three. That is enough."
+COUNTS: Gran sets them on the table one at a time: "One. Two. Three."
+PARAPHRASE: Taro says "one and two" rather than "one plus two".
+SEED: Gran needs three eggs for breakfast. Emma finds one in the henhouse. Taro remembers there were some in the shed. They check. Gran counts what is on the table.
+
+STORY: 33
+CLUSTER: logs for the fire A — Emma then Taro (1+3=4)
+LOCATION: Gran's house fireplace + woodpile
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: log, woodpile, carry, stack, fireplace, cold, enough, count, evening
+ARITHMETIC: 1+3=4
+ANSWER: four
+STATES: Gran says "One and three makes four. That will do."
+COUNTS: Gran touches each log: "One, two, three, four."
+PARAPHRASE: Gran says "makes four" rather than "equals four" or "is four".
+SEED: The fire needs more logs for the evening. Emma brings one from the woodpile. Gran says it is not enough. Taro goes back and comes back with three more stacked in his arms. Gran counts them.
+
+STORY: 34
+CLUSTER: logs for the fire B — Taro then Emma (3+1=4, commutativity pair with 33)
+LOCATION: Gran's house fireplace + woodpile
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: log, woodpile, carry, stack, fireplace, count, same, again, enough
+ARITHMETIC: 3+1=4
+ANSWER: four
+STATES: Taro says "Three and one — same as before. Four."
+COUNTS: Taro counts: "One, two, three — and Emma's makes four."
+PARAPHRASE: Taro says "same as before" — explicitly noting commutativity.
+NOTES: Commutativity pair with story 33. Same location, same season, same goal. The count comes out the same even though the order is reversed.
+SEED: This time Taro goes first and carries three. Still one short. Emma brings the last one. Taro counts. It comes out the same as last time.
+
+STORY: 35
+CLUSTER: berries for jam A — Emma then Taro (2+3=5)
+LOCATION: Gran's garden + hedgerow by the gate
+SEASON: summer
+CHARACTERS: E T G
+KEY WORDS: berry, bush, hedgerow, handful, bowl, purple, fingers, jam, count, pour
+ARITHMETIC: 2+3=5
+ANSWER: five
+STATES: Emma says "Two and three — that is five."
+COUNTS: Gran tips them into the bowl and counts: "One, two, three, four, five."
+PARAPHRASE: Emma says "two and three" rather than "two plus three".
+SEED: The jam needs berries. Emma picks the ones in the garden. Not enough. Taro knows there are more at the hedgerow by the gate. They come back with purple fingers. Gran counts them into the bowl.
+
+STORY: 36
+CLUSTER: berries for jam B — Taro then Emma (3+2=5, commutativity pair with 35)
+LOCATION: Gran's garden + hedgerow by the gate
+SEASON: summer
+CHARACTERS: E T G
+KEY WORDS: berry, bush, hedgerow, handful, bowl, purple, jam, count, same, pour
+ARITHMETIC: 3+2=5
+ANSWER: five
+STATES: Gran says "Three and two, five. Same as the other way."
+COUNTS: Gran: "One, two, three, four, five. Yes."
+PARAPHRASE: Gran says "same as the other way" — explicitly noting commutativity.
+NOTES: Commutativity pair with story 35. Same location, same season, same goal.
+SEED: This time Taro picks first. Still not quite enough. Emma adds the last two from the garden. Gran tips them all into the bowl and counts. The number comes out the same.
+
+STORY: 37
+CLUSTER: empty basket — apple tree (0+3=3)
+LOCATION: Gran's kitchen + garden apple tree
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: basket, empty, apple, tree, branch, low, count, three, nothing, before
+ARITHMETIC: 0+3=3
+ANSWER: three
+STATES: Gran says "Zero plus three is three. That is what I need."
+COUNTS: Emma sets them on the table one at a time: "One. Two. Three."
+PARAPHRASE: Gran may say "nothing in the basket, three from the tree — three."
+NOTES: Zero identity. The basket is explicitly empty before Emma picks. Gran names zero as a quantity.
+SEED: Gran opens the kitchen basket — it is empty. She asks Emma to check the apple tree. Emma comes back with three apples and puts them on the table one at a time.
+
+STORY: 38
+CLUSTER: market closed — apples already there (3+0=3)
+LOCATION: Gran's kitchen + meadow path
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: apple, bowl, market, closed, empty hands, count, same, nothing, still
+ARITHMETIC: 3+0=3
+ANSWER: three
+STATES: Taro says "Three and nothing is still three."
+COUNTS: Emma: "One, two, three. Same as before."
+PARAPHRASE: Taro says "three and nothing" rather than "three plus zero".
+NOTES: Zero identity — adding zero leaves the count unchanged. Taro returns empty-handed; the number in the bowl does not change.
+SEED: Taro was sent to get more apples but the market stall was shut. He comes back with nothing. Emma counts what Gran already has in the bowl.
+
+STORY: 39
+CLUSTER: Emma eats the snack apples (4−2=2)
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: apple, bowl, eat, snack, count, left, fewer, take away, not enough
+ARITHMETIC: 4-2=2
+ANSWER: two
+STATES: Taro says "Four, take away two — two left. We ate too many."
+COUNTS: Taro: "One, two. Only two."
+PARAPHRASE: Taro says "take away" rather than "minus".
+NOTES: Subtraction as depletion. Gran had set the apples aside for something. Emma and Taro each eat one. Taro realises they will need to get more.
+SEED: Gran had put four apples aside. Emma took one and Taro took one. When Gran comes back, Taro counts what is left in the bowl.
+
+STORY: 40
+CLUSTER: candles at morning (5−3=2)
+LOCATION: Gran's sitting room
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: candle, burned, wax, wick, morning, count, left, gone, two, five
+ARITHMETIC: 5-3=2
+ANSWER: two
+STATES: Gran says "Five candles, three burned out — two left."
+COUNTS: Emma: "One, two. That is all."
+PARAPHRASE: Gran says "burned out" as the depletion verb, not "subtracted" or "minus".
+SEED: Five candles had been lit the evening before. In the morning Emma could see that three of them had burned to nothing. Gran counted what remained without looking.
+
+STORY: 41
+CLUSTER: egg for Biscuit (4−1=3)
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G B
+KEY WORDS: egg, bowl, crack, biscuit, cake, batter, count, left, one for, three for
+ARITHMETIC: 4-1=3
+ANSWER: three
+STATES: Gran says "One for Biscuit, three for the cake. Four take one is three."
+COUNTS: Taro: "One, two, three. Yes, still enough."
+PARAPHRASE: Gran says "four take one" rather than "four minus one".
+SEED: Gran cracks one egg into Biscuit's breakfast bowl before she starts the cake batter. Biscuit eats it before Gran has put the shell down. Taro counts what is left in the bowl for the batter.
+
+STORY: 42
+CLUSTER: bowls for the table — deficit framing (need 4, have 1, get 3 more → 1+3=4)
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: bowl, shelf, cupboard, table, place, count, enough, four, one, three
+ARITHMETIC: 1+3=4
+ANSWER: four
+STATES: Taro says "One from the shelf, three from the cupboard. One and three is four."
+COUNTS: Emma places one bowl at each seat: "One, two, three, four. Just right."
+PARAPHRASE: Emma says "just right" — the goal met exactly, not a numerical restatement.
+NOTES: Deficit framing: the goal (4 bowls) is known first; the gap drives the action.
+SEED: Gran needs four bowls for the table. Emma finds one on the shelf. Three more are needed. Taro opens the cupboard.
+
+STORY: 43
+CLUSTER: logs for the night — deficit framing (need 5, have 2, get 3 more → 2+3=5)
+LOCATION: Gran's sitting room + woodpile
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: log, basket, count, night, enough, cold, trip, woodpile, five, two, three
+ARITHMETIC: 2+3=5
+ANSWER: five
+STATES: Taro says "Two we have, three more I will get. Two plus three is five."
+COUNTS: Gran stacks them and counts: "One, two, three, four, five. That should last."
+PARAPHRASE: Gran says "that should last" — verification is practical, not purely numerical.
+NOTES: Deficit framing: Gran names the goal (5 logs) before anyone counts what is there.
+SEED: Gran counts the logs in the basket. Not enough for the whole night. Emma counts two. Three more are needed. Taro goes out into the cold.
+
+STORY: 44
+CLUSTER: fish for supper — deficit framing (need 3, have 0, catch 3)
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: T G B
+KEY WORDS: fish, rod, line, catch, bucket, count, supper, none, pond, three, Biscuit
+ARITHMETIC: 0+3=3
+ANSWER: three
+STATES: Taro says "None to start with, three now. That is what Gran needs."
+COUNTS: Taro counts before heading home: "One, two, three. Right."
+PARAPHRASE: Taro says "none to start with" — zero as "none" rather than as a number name.
+NOTES: Zero-identity via deficit framing. Biscuit sits unusually still and watches the line.
+SEED: Gran needs fish for supper and there are none in the house. Taro takes the rod down to the pond. Biscuit sits very still for once and watches the line.
+
+STORY: 45
+CLUSTER: no pears on the tree (zero as answer to "how many")
+LOCATION: Gran's garden (pear tree)
+SEASON: late summer
+CHARACTERS: E G
+KEY WORDS: pear, tree, branch, look, count, none, zero, answer, number, check
+ARITHMETIC: zero (the answer to "how many" is zero)
+ANSWER: zero
+STATES: Emma says "None. Zero pears." Gran says "Zero is the answer. Zero is a number."
+COUNTS: Emma scans each branch carefully, finding nothing.
+PARAPHRASE: Emma says "none" first, then Gran names it "zero".
+NOTES: Zero as a valid answer — not a failure or absence, but a quantity with a name.
+SEED: Gran sends Emma to check the pear tree and count how many are ready. Emma goes along every branch carefully. She comes back to the kitchen.
+
+STORY: 46
+CLUSTER: empty coat pocket (3+0=3 — zero as addend)
+LOCATION: Gran's house doorway
+SEASON: autumn
+CHARACTERS: T G
+KEY WORDS: pocket, coat, walnut, bowl, count, empty, nothing, same, still, three
+ARITHMETIC: 3+0=3
+ANSWER: three
+STATES: Gran says "Three and nothing is still three. It is enough."
+COUNTS: Gran: "One, two, three. Same as before."
+PARAPHRASE: Gran says "three and nothing" — zero as "nothing" rather than as a number name.
+NOTES: Parallel to story 38 (market closed) but pocket framing. Zero as addend leaves quantity unchanged.
+SEED: Taro comes in from the meadow. Gran asks if he found any walnuts on the way. He checks both coat pockets. Gran already has some in the bowl.
+
+STORY: 47
+CLUSTER: school lesson — arithmetic presentation (2+2=4, "is" and "equals" bridged)
+LOCATION: Schoolroom (inside the school at the end of the meadow path)
+SEASON: any
+CHARACTERS: E
+KEY WORDS: teacher, slate, board, chalk, write, answer, correct, number, symbols, lesson
+ARITHMETIC: 2+2=4
+ANSWER: four
+STATES: Emma says "Two plus two is four." The teacher says "Correct — two plus two equals four." and writes 2+2=4 on the slate.
+COUNTS: (not applicable — direct retrieval, no physical objects to count)
+PARAPHRASE: "is" (Emma) → "equals" (teacher) → 2+2=4 (written symbol). All three are shown as the same fact.
+NOTES: Presentation story. Explicitly teaches that "is", "equals", and the written symbol are three forms of the same arithmetic fact. Should appear early in training relative to the other arithmetic stories. The teacher is unnamed — just "the teacher".
+SEED: The teacher writes a number on the board and asks Emma the answer. Emma says it right. The teacher says it back a different way and writes it as symbols on the slate.
+
+STORY: 48
+CLUSTER: Bello arrives — a second dog (1+1=2)
+LOCATION: Gran's house + garden
+SEASON: spring
+CHARACTERS: E T G B
+KEY WORDS: dog, new, arrive, small, sniff, two, one, before, now, Bello, run, chase, together
+ARITHMETIC: 1+1=2
+ANSWER: two
+STATES: Emma says "We had one dog. Now we have two."
+COUNTS: Gran smiles: "One dog, two dogs." She counts on her fingers.
+PARAPHRASE: Emma says "one and one" or Taro says "twice the trouble" — the fact is also demonstrated by two dogs running in the garden.
+NOTES: Introduces Bello as a new character. 1+1=2 is the simplest addition fact, grounded in a real event. Biscuit reacts to Bello — sniffs, circles, uncertain. By the end they are running together.
+SEED: A small dog arrives at Gran's cottage — Bello. Biscuit sniffs at him from a distance. By the end of the afternoon they are both in the garden. Emma counts them.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 1: NEW LOCATIONS + WORLDBUILDING (49–70)
+# These stories establish the expanded world. Each introduces a location,
+# a sensory register, or a persistent fact that later stories will reference.
+# No new metadata fields yet — these are pure grounded narrative.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 49
+CLUSTER: bench by the pond (first use)
+LOCATION: The Pond (bench + flat stone)
+SEASON: summer
+CHARACTERS: E G
+KEY WORDS: bench, flat stone, still, reflect, fish, shadow, watch, disappear, quiet, willow, afternoon
+OBSERVATION_STATE: Fish visible from flat stone when water is still and no shadow crosses; gone the moment a shadow falls.
+SEED: Gran is on the bench. Emma is on the flat stone, close to the water. She can see fish — small and slow near the bottom. She shifts her weight and her shadow crosses the water. The fish are gone.
+NOTES: Establishes the pond bench and the observation-dependent fish state. Gran does not explain why the fish disappeared. Emma works it out herself.
+
+STORY: 50
+CLUSTER: fish at the pond — morning vs. afternoon
+LOCATION: The Pond (flat stone)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: fish, surface, shadow, light, angle, morning, afternoon, still, visible, gone, cloud, wait
+OBSERVATION_STATE: Fish closer to the surface in early morning; deeper by afternoon. A cloud passing makes them disappear briefly.
+SEED: They come to the pond in the morning and again after lunch. Emma thinks there are more fish in the morning. Taro says it's the same fish. Neither can prove it.
+NOTES: Same location, different time of day — establishes temporal change within a single day. No resolution; the question stays open.
+
+STORY: 51
+CLUSTER: Biscuit jumps in the pond
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: E T B
+KEY WORDS: run, jump, splash, soak, shake, spray, bank, soaked, shake off, laugh, wet, shore, wade
+SEED: Biscuit is running at full speed along the bank. He does not slow down. Emma just has time to step back. He hits the water and disappears for a moment under the splash, then comes up swimming, ears flat, looking very pleased. He climbs out and shakes.
+NOTES: Pure kinetic scene. Uses Biscuit's established character — impulsive, physical, unembarrassed. Good for movement vocabulary and water physics.
+
+STORY: 52
+CLUSTER: feeding the ducks
+LOCATION: The Pond (bank + bench)
+SEASON: spring
+CHARACTERS: E G
+KEY WORDS: duck, bread, crust, tear, throw, scramble, bill, feather, ripple, near, close, trust, crumble
+SEED: Gran tears bread into small pieces and gives them to Emma. Emma throws pieces toward the ducks. The ducks come closer with each throw. By the last piece they are almost near enough to touch. Gran says not to.
+NOTES: Gradual approach — good for near/far and trust/caution. Gran's "not to" is delivered while still watching the ducks, not as a lecture.
+
+STORY: 53
+CLUSTER: egg morning
+LOCATION: Gran's garden (henhouse)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: henhouse, hen, feather, straw, warm, brown, egg, basket, quiet, morning, careful, nest, collect
+SEED: Emma carries the small basket. The henhouse smells of straw and warm feathers. One hen is still on her nest and will not move. Emma reaches under her very carefully and finds two eggs. The third is on the floor in the corner, unbroken.
+NOTES: Establishes the henhouse. Three eggs, but reached by different paths — good for subtle counting context. The reluctant hen is character detail; do not resolve it neatly.
+
+STORY: 54
+CLUSTER: the one ripe week (pear tree)
+LOCATION: Gran's garden (pear tree, east wall)
+SEASON: early autumn
+CHARACTERS: E G
+KEY WORDS: pear, hard, soft, smell, wall, press, thumb, ready, wait, fall, too soon, right, window
+SEED: Gran checks the pear tree every morning for a few days — a slight press of her thumb, a sniff. Emma watches. Then one morning Gran says they're ready. They pick everything they can reach. Two days later, the ones they missed have fallen.
+NOTES: Establishes the pear tree's single ripe week — a temporal window that cannot be recaptured. Teaches: readiness is a state, not a permanent property. Gran's thumb-press is the instrument.
+
+STORY: 55
+CLUSTER: compost corner
+LOCATION: Gran's garden (compost corner behind shed)
+SEASON: autumn
+CHARACTERS: E G B
+KEY WORDS: lid, stick, steam, warm, dark, earthworm, scraps, carrot, peel, smell, layer, turn, soil, rot
+SEED: Gran lifts the compost lid with a stick. Steam comes up. Emma looks in — dark material, the smell of something working. Gran points to an earthworm threading through it. Biscuit pushes his nose toward the opening and sneezes.
+NOTES: Establishes the compost corner and the transformation process. Steam on a cold morning is the key sensory detail. No explanation needed — Gran shows, Emma observes.
+
+STORY: 56
+CLUSTER: herb harvest
+LOCATION: Gran's garden (herb trough by kitchen door)
+SEASON: summer
+CHARACTERS: E G
+KEY WORDS: rosemary, thyme, grey-green, pinch, sharp, smell, fingers, rub, cut, bunch, hang, dry, strong
+SEED: Gran pinches a sprig of something grey-green and holds it under Emma's nose before she can ask what it is. Sharp and clean. Gran cuts several stems and ties them with a piece of string to hang in the kitchen.
+NOTES: Establishes the herb trough. The smell-before-name approach is deliberate — builds sensory vocabulary without labelling. Which herb is grey-green is intentionally unspecified.
+
+STORY: 57
+CLUSTER: village lane — first walk down
+LOCATION: The Village Lane
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: narrow, hedge, lane, stone, puddle, dip, chimney, oak, far, corner, smell, baker, step, arrive
+SEED: They walk down the lane to the village. At the top, if you look back, you can see Gran's chimney and the line of the oak at the field's edge. Partway down, Taro steps in the puddle dip without noticing. At the bottom, the baker's smell hits before the street opens up.
+NOTES: First use of the village lane. Establishes the topology — chimney + oak visible from the top, the baker's smell as the arrival signal. Taro steps in the puddle as character consistency.
+
+STORY: 58
+CLUSTER: the baker's
+LOCATION: The Village (baker's shop)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: window, loaf, roll, paper, wrap, bell, door, smell, warm, counter, choose, buy, carry, weight
+SEED: The bell above the door rings when they go in. The smell is even stronger inside. Gran asks for a loaf. The baker wraps it in paper and the weight of it goes into Emma's arms to carry home.
+NOTES: First use of the baker. Establishes physical details: the bell, the paper wrapping, the warm weight. The loaf is Emma's to carry — gives her a bodily relationship to the bread before it becomes food.
+
+STORY: 59
+CLUSTER: posting a letter
+LOCATION: The Village (post box in wall)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: letter, envelope, stamp, lick, slot, red, wall, mossy, push, gone, post, send, wait
+SEED: Gran has a letter. She lets Emma push it through the slot. The envelope disappears and there is a soft sound below. Emma asks where it goes. Gran says: someone will come and collect it.
+NOTES: Establishes the post box. The disappearance into the slot and Gran's answer are a miniature lesson in hidden systems — something exists and moves even when unseen.
+
+STORY: 60
+CLUSTER: Gran on the bench (garden)
+LOCATION: Gran's garden (stone bench by kitchen door)
+SEASON: summer
+CHARACTERS: G B
+KEY WORDS: bench, sun, afternoon, beans, top and tail, snap, bowl, quiet, Biscuit, patch, doze, shadow, warm
+SEED: Gran is on the bench in the afternoon sun with a bowl of beans to top and tail. Biscuit is asleep at her feet in the warm patch. The garden is quiet except for the bees. Gran works without hurrying. Biscuit twitches once and goes still.
+NOTES: No children — a rare quiet scene with Gran and Biscuit alone. Establishes the garden bench as Gran's place. The afternoon sun, the bean-snapping sound, the sleeping dog build a persistent image.
+
+STORY: 61
+CLUSTER: upstairs at night (rain on the tiles)
+LOCATION: Gran's house (loft bedroom)
+SEASON: autumn
+CHARACTERS: E T
+KEY WORDS: rain, tiles, close, loud, skylight, dark, dry, warm, blanket, listen, settle, creak, outside, in
+SEED: The rain starts after they are in bed. On the tiles it is very close and very loud — not like rain heard from downstairs. Emma lies still and listens. Taro is already asleep. The rain goes on. The room is dry and warm; the rain is just on the other side of the tiles.
+NOTES: Establishes the upstairs and the close sound of rain on the roof. The distinction between inside/outside — warm and dry vs. wet and loud — is the core sensation. No plot required.
+
+STORY: 62
+CLUSTER: morning skylight
+LOCATION: Gran's house (loft bedroom)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: skylight, stick, light, early, blue, open, cool, air, smell, morning, dew, grass, woken, first
+SEED: The light wakes Emma before anyone else. She opens the skylight with the stick — it takes two tries. Cool air comes in, smelling of grass and something she can't name. She can see a strip of blue sky and, at the edge, the tip of the apple tree.
+NOTES: The skylight gives the room a connection to the outside. The smell of morning comes in before anything is visible. The apple tree's tip in the frame connects upstairs to the garden.
+
+STORY: 63
+CLUSTER: nature table
+LOCATION: Schoolyard / Classroom
+SEASON: spring
+CHARACTERS: E T
+KEY WORDS: jar, tadpole, pond, carry, classroom, table, window, watch, gill, tail, small, move, glass, class
+SEED: They take a jar of tadpoles from the pond to school. Taro carries it very carefully all the way along the meadow path. In the classroom it goes on the nature table by the window. The whole class comes to look.
+NOTES: Connects the pond to the classroom — topology in action. The careful carrying is character consistency for Taro (he carried the caterpillar carefully in story 18). The tadpoles will be returned; this is implied, not stated.
+
+STORY: 64
+CLUSTER: inside the classroom
+LOCATION: Schoolyard / Classroom
+SEASON: winter
+CHARACTERS: E T
+KEY WORDS: desk, chalk, board, radiator, click, smell, wood, initial, carve, coat hook, corridor, cold outside, warm in
+SEED: The classroom is warm from the radiator. Through the tall windows the yard is grey and cold. Emma runs her finger along the carved initials on her desk — letters that someone put there long before her. The teacher writes something on the board and the chalk squeaks.
+NOTES: Establishes the classroom sensory register. The carved initials are a detail that implies history — other children, other years — without stating it. Connects the warmth inside to the cold yard outside.
+
+STORY: 65
+CLUSTER: Emma sick on the sofa
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: sofa, blanket, hot, throat, swallow, curtains, dim, clock, quiet, soup, bowl, low table, still
+SEED: Emma is on the sofa under the brown blanket. Her throat makes swallowing something she is aware of. The curtains are half drawn. The clock is louder than usual, or she is hearing it more. Gran brings soup and puts it on the low table without saying anything about it.
+NOTES: First sick-on-sofa story. Use the sensory register from the world bible entry: not "Emma was ill," but the felt quality of it. Gran's soup delivered silently is important — no fussing, no instructions.
+
+STORY: 66
+CLUSTER: the day after sick
+LOCATION: Gran's house (sitting room → garden)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: better, light, different, cold, outside, window, sharp, hunger, first day, stand, slow, garden, step
+SEED: Emma wakes up knowing she is better. The room looks different — sharper, more itself. She is hungry in a way she wasn't yesterday. Gran lets her come downstairs. By afternoon she is at the kitchen window looking at the garden, wanting to go out.
+NOTES: Recovery as a state change — the world returning to normal, but slightly different. The sharpness of perception after illness. Hunger as a signal of health. Not back to full activity — standing at the window is enough.
+
+STORY: 67
+CLUSTER: Taro sick (stomach ache)
+LOCATION: Gran's house (sitting room)
+SEASON: any
+CHARACTERS: T G
+KEY WORDS: stomach, wave, still, floor, sofa, pale, careful, water, sip, careful, wait, slowly, pass, settle
+SEED: Taro's stomach ache comes in waves. Between waves he is almost alright; during a wave he cannot do anything except be still. Gran gives him water in small amounts. He lies very carefully on his side. Eventually the waves come further apart.
+NOTES: Different sensory register to Emma's sick story — stomach vs. throat. The wave pattern is important: not constant, but rhythmic. Gran's approach is the same: minimal fuss, practical, present.
+
+STORY: 68
+CLUSTER: walk to the doctor
+LOCATION: Village lane + The Village (doctor's surgery)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: lane, cold, slow, waiting room, fish tank, chair, magazine, quiet, call, name, corridor, Hmm
+SEED: They walk down the lane slowly — Emma is not quite well enough to go fast. The waiting room is warmer than outside. There is a fish tank on the shelf with three orange fish that circle. Emma's name is called. The doctor says "Hmm" before he says anything else.
+NOTES: First use of the doctor's surgery. The fish tank is an anchor detail — something alive to watch while waiting. The walk down while unwell has a different quality than the usual lane walk.
+
+STORY: 69
+CLUSTER: Biscuit's vaccination
+LOCATION: The Village (veterinary surgery)
+SEASON: any
+CHARACTERS: T G B
+KEY WORDS: surgery, waiting room, smell, disinfectant, scale, weight, cold table, needle, quick, treat, coat, done
+SEED: Biscuit steps onto the weighing scale and immediately tries to step off it. The vet says he weighs more than last year without looking surprised. The metal table is cold; Biscuit stands on it with the expression of someone enduring something. The needle is quick. He gets a treat from the vet's coat pocket.
+NOTES: Establishes the vet. Biscuit's resignation and his weight are both recurring details. The needle is not dramatised — it is quick and then over. Gran is the calm adult; Taro watches.
+
+STORY: 70
+CLUSTER: Bello at the vet (first visit)
+LOCATION: The Village (veterinary surgery)
+SEASON: spring
+CHARACTERS: E G L
+KEY WORDS: tremble, door, carry, new, smell, strange, soft voice, table, still, treat, pocket, second treat, calm, done
+SEED: Bello trembles at the door of the surgery and will not go in. Emma carries him. Inside, the vet speaks to him before she looks up at Gran. By the time the check-up is done, Bello has eaten two treats from the vet's coat pocket and is no longer trembling. Emma carries him back out.
+NOTES: Establishes Bello at the vet and the vet's approach to nervous animals. The arc is: afraid → enduring → calm. Emma carrying him in and out is character detail — she is gentle with small things.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 2: SPATIAL REASONING (71–90)
+# Each story grounds one spatial relationship through character action.
+# The concept is never stated — it is shown.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 71
+CLUSTER: above and below at the oak
+LOCATION: The Oak
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: nest, above, roots, below, branch, middle, up, down, between, high, low, ground
+SPATIAL_CONCEPT: above / below / between — three vertical layers in one place
+SEED: Gran points to the robin's nest high in the fork. The squirrel's hole is at the base of the roots, in the ground. The children are in between — standing on the roots, looking up at the nest.
+NOTES: Three vertical layers: nest above, squirrel hole below, children in the middle. No explanation — Gran just points up, then down.
+
+STORY: 72
+CLUSTER: above and below at the pond
+LOCATION: The Pond (flat stone)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: dragonfly, surface, fish, below, above, sky, reflection, skim, deep, shallow, layer, middle
+SPATIAL_CONCEPT: above the surface / at the surface / below the surface — three layers visible at once
+SEED: A dragonfly skims above the water. The surface reflects the sky. Below it Emma can see fish moving slowly near the bottom. Three things at once, in the same column of space.
+NOTES: The reflection is important — the sky appears both above and in the water. Emma sees it twice.
+
+STORY: 73
+CLUSTER: inside the apple
+LOCATION: Gran's kitchen
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: apple, cut, core, pip, seed, inside, outside, skin, flesh, white, brown, star, knife, half
+SPATIAL_CONCEPT: inside / outside — what is contained vs. what is visible
+SEED: Gran cuts an apple in half. The inside is white and cool. There are five pips arranged in a star around the core. Emma did not know they were there until the cut.
+NOTES: Hidden interior revealed by action. The pip arrangement is a detail worth including — it implies structure even before it is visible.
+
+STORY: 74
+CLUSTER: sound through the wall
+LOCATION: Gran's house (upstairs bedroom)
+SEASON: any
+CHARACTERS: E
+KEY WORDS: wall, through, muffled, kitchen, clatter, voice, faint, closer, louder, door, stairs, listen
+SPATIAL_CONCEPT: through — sound passes through solid barriers, muffled but present
+SEED: Emma can hear Gran in the kitchen below — a clatter, a word, something moving. Not clear enough to make out, but definitely there. She listens at the floor. When the kitchen door opens, the sounds become sharper.
+NOTES: Sound as evidence of location. Gran is below, unseen but heard. The door opening changes the path of the sound.
+
+STORY: 75
+CLUSTER: near and far — the school bell
+LOCATION: Meadow path + schoolyard gate
+SEASON: autumn
+CHARACTERS: E T
+KEY WORDS: bell, faint, distant, near, close, gate, meadow, loud, hurry, sound, carry, still, morning
+SPATIAL_CONCEPT: near / far — the same sound changes with distance
+SEED: From far down the meadow path, the school bell is barely there — a faint note on the still air. They run. By the time they reach the gate, it is loud and urgent. The same bell, the same note — just closer.
+NOTES: The spatial concept is demonstrated by movement rather than description. The children's running bridges the distance.
+
+STORY: 76
+CLUSTER: behind the shed
+LOCATION: Gran's garden (shed + compost corner)
+SEASON: any
+CHARACTERS: E T B
+KEY WORDS: behind, wall, corner, hidden, find, Biscuit, sniff, discover, shadow, cool, damp, old
+SPATIAL_CONCEPT: behind — things exist in spaces not visible from the front
+SEED: Biscuit goes behind the shed and does not come back. Taro goes to find him. There is a whole corner back there — the compost bin, an old bucket, a pile of broken canes, a gap in the wall where moss grows. Biscuit is sitting in the middle of it looking satisfied.
+NOTES: The "behind" is revealed by following Biscuit. The hidden corner has its own qualities — cool, shadowed, separate.
+
+STORY: 77
+CLUSTER: left and right on the village lane
+LOCATION: The Village Lane + village junction
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: left, right, turn, lane, street, corner, baker, post box, direction, which way, hand, point
+SPATIAL_CONCEPT: left / right — directional orientation
+SEED: At the bottom of the lane, Gran says: left for the baker, right for the post box. Emma chooses. They go left. Emma holds up her hands on the way back, trying to remember which was which.
+NOTES: The checking of hands at the end is important — this is how children anchor left/right to their bodies. Gran does not explain this; Emma does it herself.
+
+STORY: 78
+CLUSTER: carrying things upstairs
+LOCATION: Gran's house (stairs + upstairs)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: tray, stairs, careful, balance, steep, both hands, step, top, landing, bowl, soup, slow
+SPATIAL_CONCEPT: up / down — vertical movement with a load requires careful navigation
+SEED: Gran lets Emma carry the soup upstairs — just Emma, on the tray, both hands. The stairs are steep. She watches the bowl and not her feet. She makes it. The tray is heavier at the top than it felt at the bottom.
+NOTES: The tray is heavier at the top than it felt at the bottom — this is real. Tired arms, the weight of attention. Nothing spills; the achievement is quiet.
+
+STORY: 79
+CLUSTER: between the gate posts
+LOCATION: Gran's garden (gate)
+SEASON: any
+CHARACTERS: T B
+KEY WORDS: gate, post, gap, fit, squeeze, stuck, through, narrow, just, barely, other side, Biscuit
+SPATIAL_CONCEPT: between / through — fitting through a gap
+SEED: The garden gate has a gap beside one post — not a proper opening, just a gap. Biscuit uses it every time. Taro tries it once. He gets his shoulders through and then is stuck and has to back out.
+NOTES: The gate's official opening and Biscuit's gap are two ways through the same boundary. Bodies have different sizes relative to gaps.
+
+STORY: 80
+CLUSTER: the pear tree against the wall
+LOCATION: Gran's garden (pear tree, east wall)
+SEASON: summer
+CHARACTERS: E G
+KEY WORDS: flat, wall, trained, branch, tie, spread, against, stone, sun, east, shadow, facing, close
+SPATIAL_CONCEPT: against — something can be shaped by and bound to a surface
+SEED: Emma asks why the pear tree is flat. Gran shows her the ties along the branches, pressed against the wall. The stone holds the warmth of the sun all day. The pear tree grows toward it, branch by branch, tied close.
+NOTES: The wall is both support and heat source. The tree's shape is explained by its relationship to the wall — a spatial relationship that has grown over years.
+
+STORY: 81
+CLUSTER: under the oak in rain
+LOCATION: The Oak
+SEASON: any
+CHARACTERS: E T B G
+KEY WORDS: shelter, under, canopy, drip, edge, dry patch, wet, run, huddle, inside, out, edge, centre
+SPATIAL_CONCEPT: under — a large thing creates a dry space beneath its canopy
+SEED: The rain starts. They run for the oak. Under the canopy it is nearly dry — the leaves catch most of it. But at the edge of the canopy, drops fall in a curtain. The dry patch is exactly the size of the tree's reach.
+NOTES: The dry space is not infinite — it has edges. The canopy's reach defines the shelter. Moving to the edge of it changes what hits you.
+
+STORY: 82
+CLUSTER: across the stream after rain
+LOCATION: Meadow path (flooded dip)
+SEASON: autumn
+CHARACTERS: E T B
+KEY WORDS: stream, step, stone, balance, other side, cross, jump, wet, over, distance, short, gap
+SPATIAL_CONCEPT: across — a gap or obstacle that must be crossed
+SEED: After heavy rain the low part of the meadow path has become a small stream. There are two flat stones. Taro jumps it — too far, lands on the far side, fine. Emma steps stone to stone. Biscuit walks straight through the middle.
+NOTES: Three different crossings of the same gap. All succeed, all different. No commentary needed.
+
+STORY: 83
+CLUSTER: around the pond
+LOCATION: The Pond + meadow
+SEASON: summer
+CHARACTERS: E T B
+KEY WORDS: around, path, edge, reeds, willow, far side, back, circle, all the way, same pond, other side
+SPATIAL_CONCEPT: around — encircling something vs. going to one side only
+SEED: They walk all the way around the pond. The far side, under the willow, is different from the flat-stone side — muddier, shadowed, older-feeling. Biscuit finds something in the reeds and has to be called back twice.
+NOTES: Same pond, different perspectives from different sides. The far side having different qualities is the spatial discovery.
+
+STORY: 84
+CLUSTER: at the edge of the hill
+LOCATION: The hill above the valley
+SEASON: late summer
+CHARACTERS: E T G
+KEY WORDS: edge, top, view, far, small, below, valley, careful, look down, stand back, wide, open, wind
+SPATIAL_CONCEPT: at the edge / looking down — height changes the visual scale of familiar things
+SEED: From the top, they can see Gran's cottage — very small. The oak is a dark shape in the field. Taro steps close to the edge. Emma stands back. Gran stands somewhere between them.
+NOTES: Scale is the spatial lesson: familiar things look different from height. The three characters' positions relative to the edge reflect their different relationships to the drop.
+
+STORY: 85
+CLUSTER: following and leading on the path
+LOCATION: Meadow path
+SEASON: any
+CHARACTERS: E T B
+KEY WORDS: ahead, behind, follow, lead, in front, back, middle, gap, pace, slow down, wait, catch up
+SPATIAL_CONCEPT: in front of / behind — following someone creates a spatial chain
+SEED: Taro is ahead. Emma is behind. Biscuit is behind Emma or ahead of Taro depending on the moment. Taro stops to look at something. Emma catches up. The order rearranges itself without anyone deciding.
+NOTES: Spatial order is dynamic, not fixed. The chain of walkers is not stable. This is a quiet, movement-based scene.
+
+STORY: 86
+CLUSTER: the two dogs running side by side
+LOCATION: Gran's field
+SEASON: summer
+CHARACTERS: E T B L
+KEY WORDS: beside, together, shoulder, pace, same, different, faster, slower, side by side, parallel, match
+SPATIAL_CONCEPT: beside / side by side — two things occupying the same relative position while moving
+SEED: Biscuit and Bello run side by side across the field — for a moment exactly parallel, the same pace, their ears back. Then Bello angles off and the moment is gone. Taro watches.
+NOTES: The parallel moment is brief and then lost. No explanation. Taro's watching without comment is the right response.
+
+STORY: 87
+CLUSTER: ducks moving toward and away
+LOCATION: The Pond (bank)
+SEASON: spring
+CHARACTERS: E B
+KEY WORDS: duck, bread, toward, step, closer, away, back, retreat, stop, watch, distance, float, edge
+SPATIAL_CONCEPT: toward / away from — approach and retreat
+SEED: Emma throws bread. The ducks paddle toward her. She stays still; they come closer. Biscuit twitches. The ducks reverse instantly and are suddenly far away, without seeming to have moved.
+NOTES: The speed of the ducks' retreat is part of it — water creatures can reverse direction without visible effort. Biscuit's twitch was enough.
+
+STORY: 88
+CLUSTER: sitting beside each other on the flat stone
+LOCATION: The Pond (flat stone)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: beside, room, squeeze, fit, edge, legs, dangling, water, shoulder, touch, quiet, close
+SPATIAL_CONCEPT: beside — shared space, proximity, the physical closeness of sitting together
+SEED: The flat stone is just wide enough for both of them. They have to sit close. Emma's feet reach the water; Taro's don't quite. They stay there a long time without talking.
+NOTES: The spatial detail (Emma's feet reach, Taro's don't) is a physical difference that says something about size and position without any reflection from the characters.
+
+STORY: 89
+CLUSTER: the hedge gap
+LOCATION: Meadow path (hedge gap where pond becomes visible)
+SEASON: summer
+CHARACTERS: E T B
+KEY WORDS: gap, hedge, glimpse, through, visible, frame, path, pond, beyond, open, narrow, see
+SPATIAL_CONCEPT: through a gap — visibility depends on alignment with an opening
+SEED: There is one gap in the hedge along the meadow path where the pond is visible. Emma knows where it is. From the path you have to be at exactly the right spot. A step past it and the hedge closes again.
+NOTES: Position-dependent visibility. The pond exists whether or not the gap is aligned with it — but it is only seen through the gap. This is a subtle observation-dependent spatial lesson.
+
+STORY: 90
+CLUSTER: the corner of the lane
+LOCATION: The Village Lane (bottom corner)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: corner, around, hidden, appear, disappear, turn, street, sudden, behind, ahead, round, step
+SPATIAL_CONCEPT: around a corner — what is hidden before and visible after a turn
+SEED: Gran is ahead and turns the corner into the village street. From the lane, she disappears. Then Emma turns the corner and Gran is right there. The village opens up at the same moment.
+NOTES: The corner creates a discontinuity in visibility. Something that existed but was invisible becomes visible at the turn. No drama required — it is an everyday spatial experience.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 3: TEMPORAL REASONING (91–110)
+# Each story grounds one temporal concept through character experience.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 91
+CLUSTER: before and after the rain
+LOCATION: Meadow path + Gran's garden
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: before, after, dry, wet, mud, puddle, path, change, same place, different, compare, marks
+TEMPORAL_RELATION: before / after — the same place has different states
+SEED: Gran says: remember what the path looked like this morning. They go out after lunch. The path is different — puddles in the dip, mud at the edges. The same path. Just after rain.
+NOTES: Gran's instruction to remember creates the before state actively. The after is observed together. No summary needed.
+
+STORY: 92
+CLUSTER: waiting for the bread
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: oven, wait, smell, time, yet, not yet, check, door, warm, rise, stay, patience, almost, done
+TEMPORAL_RELATION: duration / not yet — something is happening but not complete
+SEED: The bread is in the oven. It is not done yet. Gran says stop opening it. The smell gets stronger — that means it is getting closer. Taro opens it once anyway. Gran closes it again without saying anything.
+NOTES: The intensifying smell is a temporal signal — the evidence that time is passing and the bread is changing. Taro's impatience is character consistency.
+
+STORY: 93
+CLUSTER: the seed is in (nothing visible yet)
+LOCATION: Gran's garden (vegetable patch)
+SEASON: spring
+CHARACTERS: E G
+KEY WORDS: seed, soil, press, cover, water, wait, nothing, there, below, invisible, change, begin, now
+TEMPORAL_RELATION: hidden transformation — something has started but cannot yet be observed
+SEED: Emma presses the last seed into the soil and covers it. The row looks exactly like it did before. Gran says: it is already changing. Emma looks at the soil. Nothing is different yet.
+NOTES: The transformation has begun but is invisible. Gran's assertion is taken on trust. This is the first story in the seed arc — the others follow.
+
+STORY: 94
+CLUSTER: the shoot appears
+LOCATION: Gran's garden (vegetable patch)
+SEASON: spring
+CHARACTERS: E G
+KEY WORDS: shoot, pale, thin, soil, through, there, look, bent, week, later, same row, first, arrived
+TEMPORAL_RELATION: delayed appearance — change was occurring before it became visible
+SEED: Three weeks after the planting. Emma checks the row every few days. Then one morning: a pale thin shoot, bent like a hook, coming up through the soil. It was not there yesterday. Or maybe it was, just below.
+NOTES: The "maybe it was, just below" is important — the shoot did not appear from nothing, it crossed the threshold of visibility. Emma's daily checking establishes the interval.
+
+STORY: 95
+CLUSTER: the full plant (seed arc complete)
+LOCATION: Gran's garden (vegetable patch)
+SEASON: summer
+CHARACTERS: E G
+KEY WORDS: plant, green, tall, leaf, row, full, compare, remember, same, different, from, to, grew, now
+TEMPORAL_RELATION: transformation complete — comparing current state to remembered past
+SEED: The row is full now — tall green plants, leaves broad. Gran asks if Emma remembers what it looked like when they planted. Emma does. The row was bare soil. Now this. Same row.
+NOTES: The arc closes: bare soil → invisible seed → shoot → full plant. The comparison is the lesson. No numbers or labels — just memory vs. observation.
+
+STORY: 96
+CLUSTER: morning vs. afternoon at the pond
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: morning, afternoon, light, angle, shadow, fish, surface, different, same, time, change, return
+TEMPORAL_RELATION: time of day changes what is seen at the same place
+SEED: They come to the pond in the morning — still water, fish near the surface, the light flat. They come back after lunch. The light is different — harder, the shadow of the willow across the water. The fish are deeper.
+NOTES: Same pond, two visits, different appearance. No one explains why. The children notice the difference without connecting it to time of day directly.
+
+STORY: 97
+CLUSTER: counting sleeps
+LOCATION: Gran's house (bedroom + kitchen)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: sleeps, count, days, until, morning, fingers, before, how many, wait, anticipate, tomorrow, after
+TEMPORAL_RELATION: counting intervals — duration expressed as a number of sleeps
+SEED: Gran's birthday is in four days. Taro says: four sleeps. He holds up four fingers. Emma counts on her fingers too. At breakfast the next day, Taro holds up three fingers before he says anything else.
+NOTES: Counting sleeps is a child's way of making duration concrete and countable. The reduction from four to three demonstrates that counting down is counting time passing.
+
+STORY: 98
+CLUSTER: the egg has not hatched yet
+LOCATION: The Oak (upper fork)
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: nest, egg, same, check, wait, pale, blue, still, yet, tomorrow, again, not yet, early
+TEMPORAL_RELATION: anticipation of a known future event — the change will come but has not
+SEED: The three eggs are still there. They have checked for four days. Gran says: it takes a few more days yet. Emma can see one egg from the ground if she stands at the right angle. Same as yesterday.
+NOTES: The "same as yesterday" is the temporal content — no change observed, but that does not mean nothing is happening. See story 99 for the after.
+
+STORY: 99
+CLUSTER: the egg has hatched
+LOCATION: The Oak (upper fork)
+SEASON: spring
+CHARACTERS: E T G
+KEY WORDS: hatched, sound, small, open, gone, chick, beak, changed, this morning, different, now, happen
+TEMPORAL_RELATION: the moment of change has passed — it happened while no one was watching
+SEED: The morning they find it, they hear the nest before they see it — a thin, fast sound. Something has changed. The eggs are gone. Gran says it happened in the night.
+NOTES: Pair with story 98. The change happened when no one was watching. This is important: time passes whether observed or not. Absence from the scene does not pause it.
+
+STORY: 100
+CLUSTER: first then finally — getting ready and going out
+LOCATION: Gran's house (doorway + meadow path)
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: first, then, after, finally, coat, boot, scarf, ready, out, order, sequence, step, last, done
+TEMPORAL_RELATION: sequential order — a series of actions in a fixed sequence
+SEED: First the coats. Then the boots — Taro's zip is stuck again. Then the scarves, which Gran does. Finally they are out, all at once, into the cold. It took longer than it felt like.
+NOTES: The sequence is explicit — first, then, finally. The surprise that it took longer than expected is a temporal perception note.
+
+STORY: 101
+CLUSTER: the thing Gran said last week
+LOCATION: Gran's garden (apple tree)
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: remember, said, before, week, then, now, turns out, right, happened, apply, recall, use
+TEMPORAL_RELATION: memory applied to a current observation — past knowledge becomes useful
+SEED: Emma is looking at a windfall apple and remembers Gran said last week that the ones with a brown spot were already going soft inside. She checks the spot. Gran was right. She puts it in the keep pile or the compost pile accordingly.
+NOTES: Memory as a temporal tool. Gran's past statement is used now. The apple is the test case.
+
+STORY: 102
+CLUSTER: which takes longer
+LOCATION: Gran's house + village lane
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: longer, shorter, time, walk, compare, pond, village, how long, guess, wrong, actually, measure
+TEMPORAL_RELATION: duration comparison — which of two routes takes more time
+SEED: Emma thinks the walk to the pond takes longer than the walk to the village. Taro thinks the opposite. They have no way to check right now. Gran says to think about it — how many steps each way.
+NOTES: Duration comparison made abstract — they cannot test it at this moment. The question is left open. Estimation and uncertainty about duration.
+
+STORY: 103
+CLUSTER: retracing steps to find the lost boot
+LOCATION: Gran's house + garden + meadow path start
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: lost, retrace, last seen, before, where, when, steps, find, garden, door, there, remember, found
+TEMPORAL_RELATION: retracing in time and space — memory locates a lost object
+SEED: Emma has one boot. The other one is somewhere. She tries to remember: when did she last have both? At the gate. Before that — the bench. She walks back. The boot is under the bench where she sat to tie it.
+NOTES: Retracing is both temporal (when did I last have it?) and spatial (where was I then?). The two are inseparable in this story.
+
+STORY: 104
+CLUSTER: watching the blackberries ripen
+LOCATION: Hedgerow (beside Gran's garden gate)
+SEASON: late summer
+CHARACTERS: E G B
+KEY WORDS: blackberry, green, red, dark, not yet, ripen, check, week, same bush, almost, wait, colour
+TEMPORAL_RELATION: observing gradual transformation — change across multiple observations
+SEED: The blackberries are red. Gran says: not yet. Emma checks them every few days on the way past. Red, then darker red, then a cluster that is almost black. Gran says: not yet. Then one day Gran says nothing and picks one.
+NOTES: Gradual transformation across multiple check points. Gran's silence when she finally picks one is the signal of readiness — no announcement.
+
+STORY: 105
+CLUSTER: the blackberries are ready
+LOCATION: Hedgerow (beside Gran's garden gate)
+SEASON: late summer/early autumn
+CHARACTERS: E T G B
+KEY WORDS: black, ripe, pick, stain, fingers, bowl, fast, before, birds, race, purple, sweet, now, quickly
+TEMPORAL_RELATION: the ready window — the moment of readiness, with urgency
+SEED: They pick fast — Gran says the birds will get the rest if they wait. Emma's fingers are purple by the time the bowl is half full. The ones at the top were too high yesterday; today she can reach them.
+NOTES: Pair with story 104. The same berries, after the wait. The urgency (birds will get them) teaches that readiness windows can close. The just-reachable top cluster is a spatial/temporal detail.
+
+STORY: 106
+CLUSTER: the candle burned to nothing
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: gone, nothing, wax, wick, stub, morning, before, last night, burned, finished, irreversible, remain
+TEMPORAL_RELATION: irreversibility — something consumed cannot be restored
+SEED: The candle from last night is gone — a small dark disc of wax, a stub of wick. Emma picks up the disc. It is cold. Gran says: a candle does its work once and that's it.
+NOTES: The burned candle is a clean image of irreversibility. Gran's comment is brief and factual — no moralising. See also story 40 (arithmetic candle story) for a different framing.
+
+STORY: 107
+CLUSTER: before and after sick
+LOCATION: Gran's house (sitting room → kitchen)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: before, after, different, sharp, colour, hunger, notice, well, compare, changed, feel, better
+TEMPORAL_RELATION: transformation of state — illness and recovery as a before/after
+SEED: Emma is better. Everything looks slightly different — sharper at the edges, more itself. She notices the colour of the kitchen floor in a way she didn't notice it before. She is hungry. Gran says nothing; she just puts a plate down.
+NOTES: Pair with story 65 (sick) and story 66 (first day better). This is a third beat — the return to normal, with changed perception. Illness is temporal: before, during, after.
+
+STORY: 108
+CLUSTER: the storm was forecast
+LOCATION: Gran's garden + Gran's house
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: forecast, clouds, west, said, coming, afternoon, arrived, right, watch, sky, happen, predict, turn
+TEMPORAL_RELATION: anticipation and confirmation — a predicted event arrives
+SEED: Gran said at breakfast: rain by afternoon, clouds from the west. They watch the sky all morning. After lunch, the clouds are there — grey and heavy, coming from the direction Gran said. The rain starts before they reach the house.
+NOTES: Prediction confirmed. Gran's knowledge of weather signs is not explained — she said it and it happened. The children run; the prediction was correct.
+
+STORY: 109
+CLUSTER: the long wait at the doctor
+LOCATION: The Village (doctor's surgery waiting room)
+SEASON: winter
+CHARACTERS: T G
+KEY WORDS: wait, long, slow, clock, fish, tank, chair, tick, magazine, quiet, still, at last, call, name
+TEMPORAL_RELATION: experienced duration — waiting makes time feel longer
+SEED: They are in the waiting room a long time. The clock moves. The fish circle the tank. Taro counts the fish. He counts them again. His name is called eventually. The wait was longer than the appointment.
+NOTES: The felt length of waiting — longer than it was, longer than the appointment that follows. The fish as something to count during waiting connects to arithmetic context.
+
+STORY: 110
+CLUSTER: winter into spring at the oak
+LOCATION: The Oak
+SEASON: late winter/early spring
+CHARACTERS: E G
+KEY WORDS: bare, first, bud, small, green, appear, edge, branch, begin, winter, spring, signal, change
+TEMPORAL_RELATION: the turning point between seasons — the first sign of change
+SEED: The oak has been bare all winter. Emma and Gran walk past it on a cold morning in late February. Gran stops and points to one low branch. The first tiny buds — pale green, barely there, like small decisions.
+NOTES: The signal of spring is noticed before spring has arrived. Gran's gesture makes Emma look where she would not have looked. "Like small decisions" — each bud is a small event that accumulates into spring.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 4: OBSERVATION AND CAUSE-EFFECT (111–130)
+# Each story shows how one state produces another through physical causality.
+# The cause-effect chain is never stated; it is observed.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 111
+CLUSTER: frost on the window
+LOCATION: Gran's house (upstairs bedroom)
+SEASON: winter
+CHARACTERS: E
+KEY WORDS: frost, glass, pattern, finger, melt, trace, cold, breath, fog, clear, spot, outside, white, lace
+CAUSE_EFFECT: cold air on the outside of warm glass → frost crystals form; warmth from a finger → frost melts
+SEED: Emma wakes to frost on the skylight glass — white patterns, branching like roots. She traces one with her finger. The frost melts exactly where she touched, leaving a clear spot. Her breath fogs the glass.
+NOTES: Three causes in one small scene: cold → frost, warmth → melt, breath → fog. None are explained.
+
+STORY: 112
+CLUSTER: ice at the pond edge
+LOCATION: The Pond
+SEASON: winter
+CHARACTERS: E T B
+KEY WORDS: ice, edge, solid, middle, open, cold, thin, crack, careful, test, step, reed, frozen, clear
+CAUSE_EFFECT: sustained cold → water freezes at the edges first (shallow); deeper centre stays open
+SEED: The pond's edges are frozen — a thin shelf of ice over the reeds. The centre is still open water. Taro tests the ice with his boot. It holds for a moment, then cracks. Biscuit puts one paw on it and steps back.
+NOTES: The partial freeze pattern (edges first) is the physical detail. The ice holds briefly — the thickness is marginal. Nobody falls in.
+
+STORY: 113
+CLUSTER: ice melts in the afternoon
+LOCATION: The Pond
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: sun, afternoon, drip, melt, edge, shrink, smaller, morning, same pond, warmer, gone, left
+CAUSE_EFFECT: afternoon sun warms air and water → ice retreats from the outer edge inward
+SEED: In the morning the ice shelf was wide. By afternoon it has retreated — the drip line is further in, the edges are slush. Gran says it is the afternoon sun. What was solid this morning is gone.
+NOTES: Pair with story 112. The melting is a daytime reversal of the overnight freezing. The cause (afternoon sun) is named by Gran but not explained.
+
+STORY: 114
+CLUSTER: wet boots by the fire
+LOCATION: Gran's house (fireplace + doorway)
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: wet, boot, fire, dry, morning, gone, steam, overnight, beside, warm, heat, leather, changed
+CAUSE_EFFECT: wet boots placed near heat source overnight → dry by morning
+SEED: They come in soaked. Gran puts the boots by the fire. In the morning Emma picks hers up — dry, stiff, warm. The fire has done it. The smell of drying leather is in the whole room.
+NOTES: The transformation is invisible (it happened overnight) but the result is observable. The smell is the evidence of the process.
+
+STORY: 115
+CLUSTER: shadow direction — morning and afternoon
+LOCATION: Gran's garden (stone or post that casts a shadow)
+SEASON: summer
+CHARACTERS: E G
+KEY WORDS: shadow, morning, direction, afternoon, moved, same post, different, sun, side, left, right, trace, time
+CAUSE_EFFECT: sun moves across the sky → shadows rotate around objects through the day
+SEED: In the morning the shadow of the gatestone points one way. Emma marks the tip with a stick in the soil. In the afternoon the shadow has turned — the tip is somewhere else. The stone has not moved.
+NOTES: Emma marks the shadow tip at two times — the comparison is exact and personal. The cause (sun moving) is implied by the result. Gran may say a word but is not required.
+
+STORY: 116
+CLUSTER: the puddle dries up
+LOCATION: Meadow path (puddle in the dip)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: puddle, gone, dry, smaller, days, sun, warm, evaporate, less, crack, mud, same place, compare
+CAUSE_EFFECT: heat and sun → water evaporates; puddle shrinks then disappears
+SEED: After the last rain the puddle was big enough to jump. Two days later it is smaller. A day after that, just a damp patch. The day after that, cracked earth — and nothing.
+NOTES: Multi-day observation. The puddle's disappearance is gradual and complete. No explanation of evaporation is needed — the daily observation is enough.
+
+STORY: 117
+CLUSTER: why the soup is hot
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: fire, pot, hot, careful, warm, transfer, handle, heat, travel, iron, too hot, touch, test
+CAUSE_EFFECT: fire heats iron pot → pot heats soup → heat travels to handle
+SEED: Gran warns Emma about the handle. Emma touches it quickly with one finger. Hot. Not the soup — the handle. Gran says: the heat travels through iron. The pot has been on the fire. Emma tests the lid next, which is even hotter.
+NOTES: Heat transfer through material. Gran's explanation is brief and factual. Emma's testing after being warned is character consistency (she needs to verify).
+
+STORY: 118
+CLUSTER: Biscuit notices first
+LOCATION: Meadow path + Gran's field
+SEASON: any
+CHARACTERS: E T B
+KEY WORDS: ears, nose, before, notice, something, there, sound, smell, look, direction, already, ahead, alert
+CAUSE_EFFECT: Biscuit's senses detect something before human senses do → his behaviour is the first signal
+SEED: Biscuit stops before the children hear anything. His ears go up; he faces a particular direction. Then Emma hears it — something in the hedge, quiet and quick. Biscuit already knew.
+NOTES: The dog's senses are the cause-effect chain: stimulus detected → behaviour change → children notice the behaviour → then they detect the stimulus. Observation-dependent: Biscuit's reaction is the evidence for the hidden state.
+
+STORY: 119
+CLUSTER: why bread rises
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: dough, rise, bigger, yeast, warm, covered, wait, before, after, same bowl, doubled, poke, spring back
+CAUSE_EFFECT: yeast in warm dough → dough expands over time
+SEED: Gran covers the bowl and says: wait and watch. An hour later the dough has pushed the cloth up. Emma pokes it — it springs back slowly. Gran says it is alive, in a manner of speaking.
+NOTES: The cause (yeast, warmth) is named loosely by Gran ("alive, in a manner of speaking") but not explained scientifically. The observation is the main content.
+
+STORY: 120
+CLUSTER: the apple falls because it is ready
+LOCATION: Gran's garden (apple tree)
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: fall, windfall, ripe, ready, weight, stem, hold, let go, ready, ground, thud, bruise, not shaken
+CAUSE_EFFECT: ripeness weakens the stem → the apple falls under its own weight without being shaken
+SEED: An apple falls while they are standing there — no wind, no shaking, just a thud in the grass. Gran says: it was ready. The stem lets go when the apple is heavy enough. Emma looks at the apple and then up at the branch.
+NOTES: Cause-effect in a natural process: readiness → weight → fall. The apple was not pushed. Gran's explanation is brief. Emma's looking up at the branch is the moment of connection.
+
+STORY: 121
+CLUSTER: sound fades with distance
+LOCATION: Gran's field (Taro at one end, Emma at the other)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: shout, far, faint, hear, distance, carry, word, almost, can't make out, walk closer, louder, clear
+CAUSE_EFFECT: distance attenuates sound → voice that is clear nearby becomes unclear far away
+SEED: Taro is at the far end of the field. He shouts something. Emma can hear there is a word but not what it is. She walks toward him. The word becomes clearer as she gets closer. By the time she can hear it, she is already there.
+NOTES: The cause-effect is spatial-temporal: the closer she gets, the clearer the sound. The discovery of what Taro said happens at the moment of arrival.
+
+STORY: 122
+CLUSTER: warm air from the oven
+LOCATION: Gran's kitchen (when oven door opens)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: oven, open, heat, out, hit, face, wave, warm, close again, gone, smell, immediate, rush
+CAUSE_EFFECT: sealed hot air released when door opens → wave of warmth and smell moves outward
+SEED: Gran opens the oven. The heat comes out in a wave — Emma feels it on her face before she smells the bread. Gran closes it again. The warmth stays in the room a moment and then thins.
+NOTES: The wave of heat is the primary observation. It arrives before the smell, then both fade. The sequence within the cause-effect matters: heat first, then smell.
+
+STORY: 123
+CLUSTER: why the path is muddy after rain
+LOCATION: Meadow path
+SEASON: autumn
+CHARACTERS: E T
+KEY WORDS: rain, absorb, soft, press, boot, sink, mud, soil, water, wet, squish, stick, edge, deeper
+CAUSE_EFFECT: rain → soil absorbs water → ground softens → boots compress soil → mud
+SEED: After rain the path at the low point is soft. Emma's boot sinks a little and comes up with mud on the sole. Taro presses the mud with a stick — it yields and then holds the print. The mud remembers what pressed it.
+NOTES: "The mud remembers what pressed it" is the key observation — the ground is now a record of what touched it. This is cause-effect made permanent in the material.
+
+STORY: 124
+CLUSTER: gravity — what falls and what drifts
+LOCATION: Gran's field (under the oak)
+SEASON: autumn
+CHARACTERS: E T
+KEY WORDS: acorn, leaf, feather, fall, drop, drift, spin, straight, slow, fast, same height, different, gravity
+CAUSE_EFFECT: gravity acts on everything, but air resistance varies — different things fall differently from the same height
+SEED: Taro drops an acorn and a dry leaf from the same branch at the same time. The acorn goes straight down. The leaf spins and drifts and lands somewhere else entirely. Emma finds a feather and drops it: slower than the leaf.
+NOTES: Three objects from the same height, three different paths down. The cause (gravity) is the same; the result varies by air resistance (not named). The experiment is designed by the children, not instructed.
+
+STORY: 125
+CLUSTER: floating and sinking at the pond
+LOCATION: The Pond (bank)
+SEASON: summer
+CHARACTERS: E T B
+KEY WORDS: float, sink, twig, stone, leaf, try, surface, below, predict, guess, wrong, test, observe
+CAUSE_EFFECT: density relative to water → some objects float, others sink
+SEED: They test objects from the bank. A stone sinks immediately. A twig floats. A large flat leaf — Emma predicts it will sink; it floats, then slowly waterlogged, it sinks. Biscuit watches for a while before he loses interest.
+NOTES: The leaf's delayed sinking is the key observation — the prediction is initially wrong, then becomes right over time. The cause (waterlogging) is visible but not named.
+
+STORY: 126
+CLUSTER: the window you can see through vs. the curtain you cannot
+LOCATION: Gran's house (sitting room)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: window, see through, glass, curtain, lace, blur, shape, light, unclear, through, obstruct, transparency
+CAUSE_EFFECT: transparent glass transmits light and image; fabric scatters light → different visibility
+SEED: Through the glass, Emma can see the garden clearly. Gran draws the lace curtain. Now she can see light through it — the shape of the apple tree, approximately — but not clearly. Gran says: the light comes through but the picture doesn't.
+NOTES: Gran's explanation ("the light comes through but the picture doesn't") is the right level of abstraction for a child. It names the observation without the vocabulary of optics.
+
+STORY: 127
+CLUSTER: the cold tap and the hot
+LOCATION: Gran's kitchen (sink)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: tap, cold, hot, feel, before, test, quick, finger, careful, one side, other, compare, temperature
+CAUSE_EFFECT: different pipes carry water of different temperatures → testing before use is a practical skill
+SEED: Emma reaches for the tap. Gran says: feel first. Emma touches the cold one. Then the hot — not burning, but warm. Gran turns them together and the water from the spout is somewhere between.
+NOTES: A practical cause-effect skill: test temperature before committing. The blend of hot and cold into warm is a simple mixing result.
+
+STORY: 128
+CLUSTER: the fire goes down overnight
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: fire, logs, ash, morning, cold, glow, ember, overnight, burned, fuel, gone, restart, less, nothing
+CAUSE_EFFECT: fire consumes fuel → without new fuel, fire diminishes to ash
+SEED: Last night the fire was bright and high. This morning Emma comes down to cold ash and one small orange ember. Gran sets a new log on the ember and blows. The fire comes back very slowly.
+NOTES: The fire as a system that requires fuel to persist. The ember that survives is the seed of the next fire. This is cause-effect with a continuity element — something remains.
+
+STORY: 129
+CLUSTER: tracks in the mud
+LOCATION: Gran's garden + meadow path
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: track, print, mud, who, animal, boot, dog, bird, shape, read, follow, evidence, left by, before
+CAUSE_EFFECT: something passed → left marks in soft ground → marks can be read to infer what passed
+SEED: After rain, there are tracks in the garden bed. Gran asks: what do you think made those? Emma looks: small, round, three forward toes. Not a boot. Not a dog. A bird, maybe. Gran says: yes, and it came from that direction.
+NOTES: Tracks as the result of something that has passed. Gran's follow-up (the direction) shows that the cause-effect chain contains more information than just what made the mark.
+
+STORY: 130
+CLUSTER: what happens when you knock the jar
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: knock, edge, wobble, tip, spill, fast, before, catch, too late, already, floor, spread, clean
+CAUSE_EFFECT: knock → tip → fall → spill → spread — the chain is fast and irreversible once started
+SEED: Taro knocks the jar with his elbow. It teeters. Emma's hand is too slow. The jar tips and the water is on the floor before Gran looks up. The water spreads in every direction immediately.
+NOTES: A chain of cause and effect, each link faster than the last. Emma's attempt to intervene fails — once the tipping starts, the rest follows inevitably. No scolding; the clean-up follows.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 5: BELLO — TWO-DOG DYNAMICS (131–150)
+# Stories building the two-dog world: imitation, competition, difference,
+# territory, and Biscuit's gradual ageing.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 131
+CLUSTER: Bello's first walk on the meadow path
+LOCATION: Meadow path
+SEASON: spring
+CHARACTERS: E T B L
+KEY WORDS: new, path, sniff, stop, fast, slow, everything, too much, pull, ahead, behind, overwhelm, explore
+SEED: Bello has never been on the meadow path. Everything stops him — smells, a sound in the grass, the shape of a puddle. Biscuit trots ahead without looking back. Taro is caught between the two leads.
+NOTES: Bello's first experience of the familiar path. For Biscuit: known terrain, no interest. For Bello: every inch is new. Taro is the pivot between them.
+
+STORY: 132
+CLUSTER: Biscuit demonstrates fetch; Bello won't let go
+LOCATION: Gran's field
+SEASON: summer
+CHARACTERS: E T B L
+KEY WORDS: stick, throw, fetch, bring back, drop, won't, tug, grip, hold, trade, again, learn, show, copy
+SEED: Taro throws a stick. Biscuit brings it back and drops it exactly. He throws it again and Bello runs after it too. Bello gets there first, but will not drop it. He brings it back but keeps hold. Biscuit sits and watches.
+NOTES: Biscuit has learned the rule (drop on return); Bello knows the game but not the social contract (drop it). The contrast is complete without explanation.
+
+STORY: 133
+CLUSTER: two dogs and one stick — competition then cooperation
+LOCATION: Gran's field
+SEASON: summer
+CHARACTERS: E T B L
+KEY WORDS: both, same, pull, tug, grip, together, drag, carry between, release, drop, share, manage
+SEED: Both dogs have the same stick at the same time and will not release. They run together with it — Biscuit on one end, Bello on the other — both going in slightly different directions. The stick describes a slow arc across the field.
+NOTES: Involuntary cooperation: each is competing but they are moving together. The image of two dogs carrying one stick between them is the whole story.
+
+STORY: 134
+CLUSTER: Bello at the squirrel hole
+LOCATION: The Oak
+SEASON: autumn
+CHARACTERS: E T B L
+KEY WORDS: hole, sniff, dig, scratch, old news, Biscuit, done, Bello, new, find, discover, again, fresh
+SEED: Bello finds the squirrel hole at the oak base and goes at it with full intensity — sniffing, pawing, pressing his nose in. Biscuit watches for a moment, then looks away. He has known about that hole for years.
+NOTES: The same hole is new to Bello and old news to Biscuit. The contrast in their reactions is the story. Nothing is in the hole.
+
+STORY: 135
+CLUSTER: Bello refuses the pond (first time)
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: E T B L
+KEY WORDS: edge, stop, won't, Biscuit, in, out, shake, Bello, back, hesitate, watch, decide, not yet
+SEED: Biscuit wades in without hesitation. Bello comes to the edge and stops. He puts one paw in and takes it back. Emma encourages him; he sits down. He watches Biscuit in the water and does not go in.
+NOTES: Bello's hesitation at the pond contrasts with Biscuit's immediate confidence. No resolution — he does not go in this time. See story 136 for when he does.
+
+STORY: 136
+CLUSTER: Bello's first jump (follows Biscuit in)
+LOCATION: The Pond
+SEASON: summer
+CHARACTERS: E T B L
+KEY WORDS: follows, jump, together, both, splash, same, in, swim, shake, wet, after, next to, two
+SEED: Biscuit runs at the pond and jumps in. Bello runs after him at full speed and goes in too — not quite jumping, more of a launch. They are both in the water, both swimming. Bello has surprised himself.
+NOTES: Pair with story 135. What Bello would not do alone, he does following Biscuit. The "surprised himself" quality is the key observation — he did not plan it; it just happened.
+
+STORY: 137
+CLUSTER: Gran's lap — only room for one
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: G B L
+KEY WORDS: lap, fit, one, both, try, push, shift, settle, compromise, beside, floor, half on, arrangement
+SEED: Biscuit is on Gran's lap. Bello tries to get up too. There is not room for both. Bello tries several arrangements — half on, head on, beside. Eventually he lies across Gran's feet. Gran does not move.
+NOTES: A social-spatial problem: limited resource (the lap), two claimants. The resolution is not perfect for Bello but he settles. Gran's stillness throughout is character consistency.
+
+STORY: 138
+CLUSTER: the dogs and the ducks — experienced vs. new
+LOCATION: The Pond (bank)
+SEASON: spring
+CHARACTERS: E B L
+KEY WORDS: duck, Biscuit, ignore, Bello, chase, splash, retreat, scatter, old, new, react, learn, difference
+SEED: The ducks are at the edge of the pond. Biscuit does not look at them — he has been past those ducks a hundred times. Bello has not. He dashes toward them. They are gone before he reaches the water.
+NOTES: Biscuit's indifference is earned experience; Bello's charge is naive enthusiasm. The result is the same (ducks retreat) but the cause-effect is different for each dog.
+
+STORY: 139
+CLUSTER: sleeping arrangements at Gran's
+LOCATION: Gran's house (sitting room / kitchen)
+SEASON: winter
+CHARACTERS: G B L
+KEY WORDS: bed, rug, kitchen, beside, fire, Biscuit, spot, Bello, find, settle, arrangement, end, usual, new
+SEED: Biscuit has a spot by the fire — his rug, his place. Bello finds a corner near the kitchen door, which is slightly warmer than it looks. Within a week, these are their places. Gran does not arrange this.
+NOTES: Territory established quietly, by habit, over a week. Neither dog was assigned their place; each found it. Gran's non-intervention is key.
+
+STORY: 140
+CLUSTER: Bello finds what Biscuit missed
+LOCATION: Gran's garden (behind the apple tree)
+SEASON: autumn
+CHARACTERS: E B L
+KEY WORDS: small, gap, quick, squeeze, through, find, under, Biscuit, too big, Bello, fits, different size, discover
+SEED: There is something behind the apple tree that Biscuit has never found — a small dark space where the roots have lifted the earth. Too narrow for Biscuit. Bello fits through easily and investigates. He comes out satisfied.
+NOTES: Bello's smaller size enables something Biscuit's size prevents. Different bodies, different access. No judgment — each has advantages the other lacks.
+
+STORY: 141
+CLUSTER: two dogs at two ends of the hedge
+LOCATION: Meadow path (hedge)
+SEASON: summer
+CHARACTERS: T B L
+KEY WORDS: hedge, both ends, between, inside, squeezed, stuck, one side, other side, coordinate, together, chase
+SEED: Something small is inside the hedge. Biscuit takes one end; Bello takes the other. They work their way in from both sides. Taro stands in the middle and cannot see what they are after. Whatever it is gets out through the bottom.
+NOTES: Involuntary coordination — two dogs approaching from opposite ends. They effectively created a strategy without intending to. The quarry escapes anyway.
+
+STORY: 142
+CLUSTER: Bello's first snow
+LOCATION: Gran's field
+SEASON: winter
+CHARACTERS: E T B L
+KEY WORDS: snow, first time, uncertain, sniff, paw, test, sink, cold, Biscuit, straight through, Bello, careful
+SEED: Snow overnight. Biscuit goes straight out into it. Bello steps out of the door and stops. He sniffs at the snow, paws at it, sniffs again. He takes three careful steps, sinking a little each time. Then he runs.
+NOTES: Biscuit has seen snow before; Bello has not. The initial caution, the testing, the discovery of its properties, then the run. The arc is complete in one scene.
+
+STORY: 143
+CLUSTER: Biscuit pulls one way; Bello the other
+LOCATION: Meadow path
+SEASON: any
+CHARACTERS: T B L
+KEY WORDS: lead, pull, both, directions, different, choice, middle, tug, which way, resist, lean, opposite, stuck
+SEED: Biscuit has found something on the left side of the path. Bello wants to go right. Taro is between them on two leads, his arms out at angles. Neither dog yields. Taro chooses right — Biscuit comes reluctantly.
+NOTES: Taro makes the decision; both dogs comply eventually. The scene is about navigating competing demands, not about which dog is right.
+
+STORY: 144
+CLUSTER: the two dogs racing
+LOCATION: Gran's field
+SEASON: summer
+CHARACTERS: E T B L
+KEY WORDS: run, race, fast, Biscuit, powerful, direct, Bello, quick, angle, change, different style, arrive, reach, both
+SEED: They let both leads go. Both dogs run — Biscuit straight and hard, Bello quick and changeable, cutting angles, doubling back slightly. Biscuit reaches the far end first. Bello took a longer path. Neither notices who won.
+NOTES: Different movement styles — Biscuit linear and powerful, Bello erratic and fast. Neither is clearly better; they are just different. The dogs' indifference to the competition is the right ending.
+
+STORY: 145
+CLUSTER: Bello steals from the table
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G B L
+KEY WORDS: table, edge, reach, take, Biscuit, innocent, caught, bread, quick, while, turn, know better, Bello
+SEED: Bello takes a piece of bread from the table while Gran's back is turned. Gran turns around. Biscuit is sitting at a careful distance with a neutral expression. Bello is chewing. Gran addresses Bello directly.
+NOTES: Biscuit's careful distance and neutral expression is the comic detail — he knows the rule, he is not implicated. Bello has not learned it yet. Gran's tone is firm but brief.
+
+STORY: 146
+CLUSTER: the two dogs asleep
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: G B L
+KEY WORDS: asleep, different, positions, rug, fire, twitch, dream, one eye, still, breathing, warm, together
+SEED: Both dogs are asleep. Biscuit is on his side, entirely flat. Bello is curled with his nose under his tail. Biscuit twitches once — a leg movement, like running. Bello opens one eye, checks, closes it.
+NOTES: Two different sleep postures; one sleep event. Biscuit's dreaming movement is real; Bello's checking of it is social. The scene is still and warm.
+
+STORY: 147
+CLUSTER: Biscuit gets slower
+LOCATION: Meadow path + Gran's field
+SEASON: late summer
+CHARACTERS: E B L
+KEY WORDS: slower, behind, grey, muzzle, still, but, Bello, ahead, wait, different, same dog, pace, age
+SEED: Biscuit is slower than he was. His muzzle is going grey at the edges. He still comes on every walk, still goes to the pond, still finds interesting smells. He is just slower. Bello runs ahead; Biscuit follows at his own pace.
+NOTES: Ageing noticed without drama or grief. Biscuit is still himself; there is just less speed. The muzzle detail is the physical marker. No prediction of what comes next.
+
+STORY: 148
+CLUSTER: Emma notices Biscuit is slower
+LOCATION: Meadow path
+SEASON: autumn
+CHARACTERS: E B
+KEY WORDS: wait, behind, slow, notice, say nothing, walk beside, together, match, pace, without asking
+SEED: Emma notices Biscuit is further behind than usual. She slows down without saying anything. He catches up. She matches her pace to his for the rest of the path. Neither of them changes direction.
+NOTES: Emma's silent adjustment is the whole story. She does not comment; she just changes. This is care without announcement. Pair with story 147.
+
+STORY: 149
+CLUSTER: Bello and the hens — still learning
+LOCATION: Gran's garden (henhouse)
+SEASON: spring
+CHARACTERS: E G B L
+KEY WORDS: hens, Biscuit, learned, ignore, Bello, not yet, chase, scatter, feathers, know, take time, still
+SEED: Biscuit walks through the garden with the hens pecking nearby and does not look at them — years of practice. Bello spots a hen moving and dashes. The hens scatter. Gran says Bello will learn. Biscuit watches without opinion.
+NOTES: Biscuit's indifference to the hens is the earned standard; Bello has not reached it. Gran's "he will learn" is the one sentence of temporal prediction in the scene.
+
+STORY: 150
+CLUSTER: the two dogs in the rain
+LOCATION: Meadow path (heavy rain)
+SEASON: autumn
+CHARACTERS: T B L
+KEY WORDS: rain, Biscuit, nose up, Bello, moves close, under, beside, both, wet, different, together, shelter
+SEED: The rain starts hard. Biscuit does what he always does — puts his nose up into it and stands still, rain hitting his face. Bello pushes in close beside him, as if Biscuit might be shelter. Taro pulls both leads toward the oak.
+NOTES: Biscuit's established reaction (nose-up in rain, story 05) is unchanged. Bello's response is different — he seeks shelter, and Biscuit is the nearest thing. The image of the two dogs side-by-side in heavy rain, one indifferent and one sheltering, is the story.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 6: EXTENDED ARITHMETIC (151–175)
+# Beyond single-digit addition/subtraction: fair sharing, comparison,
+# measurement, multiplication, and ordinal concepts.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 151
+CLUSTER: halving the apple (one whole, two halves)
+LOCATION: Gran's kitchen
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: half, cut, two, same, one apple, before, after, together, piece, whole, equal, share
+ARITHMETIC: 1 whole = 2 halves
+ANSWER: two halves
+STATES: Gran says "One apple, two halves. They go back together to make one."
+COUNTS: Emma holds both halves up: "One, two. But it is still one apple."
+PARAPHRASE: Gran may say "cut in two" or "split in half" — both mean the same thing.
+NOTES: Halving as division. The "still one apple" framing is important — the total is preserved even though the physical object is in two pieces.
+SEED: Gran cuts an apple in half for them to share. Emma holds both halves together and looks at the line where they meet. Gran says one apple cut in two is still one apple.
+
+STORY: 152
+CLUSTER: fair share — two children, four cookies
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: cookies, share, equal, two each, fair, count, same, divide, give out, even, four, two
+ARITHMETIC: 4 ÷ 2 = 2
+ANSWER: two
+STATES: Gran says "Four cookies, two children — two each. That is fair."
+COUNTS: Gran puts them out: "One for Emma, one for Taro, one for Emma, one for Taro."
+PARAPHRASE: Taro says "two each" rather than "four divided by two."
+NOTES: Fair sharing as early division. The alternating distribution (one for Emma, one for Taro) is both a counting method and a fairness strategy.
+SEED: Gran has four cookies cooling. Two children. She puts them out one at a time, alternating.
+
+STORY: 153
+CLUSTER: uneven share — five berries, two children
+LOCATION: Gran's garden (hedgerow)
+SEASON: summer
+CHARACTERS: E T G
+KEY WORDS: five, two, three, one extra, fair, not quite, remainder, more, less, who gets, odd one out
+ARITHMETIC: 5 cannot be shared equally between 2 — remainder of 1
+ANSWER: one extra (remainder)
+STATES: Taro says "Five between two — two each and one left over."
+COUNTS: Gran: "One, two, three, four, five. One extra."
+PARAPHRASE: Emma says "someone gets three" or "it doesn't come out even."
+NOTES: The remainder concept. Five cannot be halved cleanly. The extra berry is the teaching moment — what do you do with the one that's left?
+SEED: Five berries in the bowl, two children. Gran asks how to share them fairly. There is one left after two each.
+
+STORY: 154
+CLUSTER: which basket has more
+LOCATION: Gran's garden (apple tree)
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: more, fewer, less, which, compare, count, look, guess, then count, right, wrong, more than, fewer than
+ARITHMETIC: comparison without an operation — which group is larger
+ANSWER: (varies — the count reveals it)
+STATES: Gran asks which basket has more without saying the number.
+COUNTS: They count both and compare: "This one has seven, that one has five. Seven is more."
+PARAPHRASE: Taro says "that one has more" before counting, then confirms or corrects after.
+NOTES: Estimation followed by verification. The lesson is that counting resolves the comparison reliably when looking is not enough.
+SEED: Two baskets of apples. Gran asks which one has more without counting. They guess, then count to check.
+
+STORY: 155
+CLUSTER: heavier or lighter — without a scale
+LOCATION: Gran's kitchen
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: heavy, light, bag, feel, both hands, compare, same, different, more, lift, balance, left, right
+ARITHMETIC: comparison by weight — heavier / lighter
+ANSWER: (whichever is heavier — determined in the story)
+STATES: Gran says: "Which bag feels heavier? Try both."
+COUNTS: Emma holds one bag in each hand — one arm drops slightly lower.
+PARAPHRASE: Taro says "this one pulls more."
+NOTES: Weight comparison using the body as instrument. The arm that drops is the evidence. No numbers — pure comparison.
+SEED: Two bags of flour. Gran asks which weighs more without telling them. Emma holds one in each hand.
+
+STORY: 156
+CLUSTER: measuring in steps — how far to the pond
+LOCATION: Meadow path + The Pond
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: steps, count, walk, measure, far, how many, Emma, Taro, different, size, stride, result, close
+ARITHMETIC: measuring distance by counting steps — same distance, different step sizes → different counts
+ANSWER: (Emma gets a higher count than Taro because her steps are smaller)
+STATES: Emma says "Sixty-three steps." Taro says "Forty-eight steps." Gran says: "You have different legs."
+COUNTS: Both count aloud — their counts diverge after the first few steps.
+PARAPHRASE: Gran may say "bigger steps cover more ground."
+NOTES: The same distance measured twice gives different numbers. The unit (a step) is not standardised. This teaches that measurement depends on the unit used.
+SEED: Emma and Taro count steps to the pond — separately, same distance. Their numbers are different.
+
+STORY: 157
+CLUSTER: measuring in arm-spans — the kitchen table
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: arm-span, stretch, wide, table, measure, twice, more, how many, span, fit, around
+ARITHMETIC: measuring length by arm-spans — the table is approximately two arm-spans wide
+ANSWER: (approximately two — but Emma and Taro will get slightly different answers)
+STATES: Gran says "About two of yours, or a little more."
+COUNTS: Emma spreads her arms: "One span. Two spans — and a bit."
+PARAPHRASE: Taro says "almost three of mine" (his arm-spans are shorter).
+NOTES: Informal measurement using the body. The result varies by person. Gran's "about two" is approximate — teaching that measurement can be approximate and still useful.
+SEED: Emma and Taro measure the kitchen table with arm-spans. Gran watches and says the table is about two spans wide — her spans.
+
+STORY: 158
+CLUSTER: counting in pairs — Gran's eggs
+LOCATION: Gran's kitchen + garden (henhouse)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: pair, two, count by twos, even, nest, bowl, two-by-two, four, six, quicker, arrange, group
+ARITHMETIC: counting by twos — 2, 4, 6, 8
+ANSWER: (the count varies — whatever number of eggs)
+STATES: Gran says "Two, four, six — six eggs. Count by twos: it is quicker."
+COUNTS: Gran arranges them in pairs and counts each pair: "Two, four, six."
+PARAPHRASE: Emma says "three pairs" — naming the groups rather than the total.
+NOTES: Grouping for efficiency — pairing and counting by twos is faster than counting one by one. The connection between "three pairs" and "six" is the bridge.
+SEED: Gran counts the eggs by arranging them in pairs. She counts by twos. Emma tries the same.
+
+STORY: 159
+CLUSTER: three bags of two — multiplication as repeated addition
+LOCATION: Gran's kitchen + garden
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: bag, two, three bags, six, total, same amount, each, add, three times, add again, same
+ARITHMETIC: 3 × 2 = 6 (as three groups of two)
+ANSWER: six
+STATES: Gran says "Two in each bag, three bags — two and two and two. That is six."
+COUNTS: Emma counts all of them out: "One, two — three, four — five, six."
+PARAPHRASE: Taro says "three lots of two" rather than "three times two."
+NOTES: Multiplication introduced as repeated addition. The bags are the grouping structure. No multiplication symbol yet — this is three additions.
+SEED: Gran needs to fill three small bags with two apples each. Emma counts the total as she goes.
+
+STORY: 160
+CLUSTER: the wrong count — counting again
+LOCATION: Gran's garden (apple tree)
+SEASON: autumn
+CHARACTERS: E G
+KEY WORDS: count, wrong, different, again, recount, seven, eight, lose place, careful, this time, right
+ARITHMETIC: counting error — first count wrong, second count right
+ANSWER: (the second count is the one that matches)
+STATES: Emma says "Seven." She counts again. "Eight." Gran says: "Count a third time."
+COUNTS: Emma counts slowly the third time, touching each apple: "One, two, three, four, five, six, seven, eight."
+PARAPHRASE: Gran says "count again" not "you were wrong."
+NOTES: The mechanics of accurate counting: losing your place, the value of recounting, touching to keep track. Gran does not say the answer; she asks for a recount.
+SEED: Emma counts the apples in the basket and gets the wrong number. Gran asks her to count again.
+
+STORY: 161
+CLUSTER: the line at the baker's — ordinal position
+LOCATION: The Village (baker's shop)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: first, second, third, queue, line, wait, behind, in front, turn, order, before, after, position
+ARITHMETIC: ordinal position — first, second, third in a sequence
+ANSWER: (Gran is third — that is their position)
+STATES: Taro says "We are third." Gran says: "First, then the old man, then us."
+COUNTS: Taro counts the people in front: "One, two. We are third."
+PARAPHRASE: Emma says "two people before us."
+NOTES: Ordinal vs. cardinal: three people are in the queue; they are third. The first is served; the second moves up; they become second, then first.
+SEED: There is a queue at the baker's. Taro counts their position. Two people ahead of them.
+
+STORY: 162
+CLUSTER: zero birds on the branch
+LOCATION: Gran's garden (apple tree)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: birds, branch, there, then gone, count, zero, none, flew, empty, before, after, still a number
+ARITHMETIC: zero as the result of subtraction — birds leave → zero remain
+ANSWER: zero
+STATES: Gran says "Three birds. Then none. Zero is still a number."
+COUNTS: Emma looks at the branch: "One, two, three — then they all flew. Zero."
+PARAPHRASE: Emma says "none left" before Gran names it zero.
+NOTES: Zero as the result of a process — not an absence from the start, but a depletion to nothing. The branch was occupied; now it is not. Pair with story 45 (zero pears).
+SEED: Three birds sit on the apple tree branch. They all fly off at once. Emma counts what is left.
+
+STORY: 163
+CLUSTER: which row is longer — visual comparison
+LOCATION: Gran's kitchen (table)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: row, longer, shorter, spread out, same, count, looks like, actually, compare, arrange, equal
+ARITHMETIC: comparison of quantity despite misleading arrangement — same count, different spread
+ANSWER: same number (despite appearances)
+STATES: Gran says "Count them. They look different but let us see."
+COUNTS: Emma counts both rows: "Six and six. The same."
+PARAPHRASE: Taro says "the spread-out row looks like more" — then corrects himself.
+NOTES: Conservation of number: same count, different arrangement. The spread-out row appears longer/more. Counting resolves the illusion.
+SEED: Gran puts six apples in a tight row and six in a spread-out row. She asks which row has more.
+
+STORY: 164
+CLUSTER: measuring with a cup — kitchen fractions
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: cup, measure, fill, level, half, twice, pour, flour, recipe, enough, same, amount, spoon
+ARITHMETIC: measuring by cups — two half-cups equal one full cup
+ANSWER: two halves make one
+STATES: Gran says "Two half-cups is the same as one full cup."
+COUNTS: Emma pours: "Half. And another half. That is one cup."
+PARAPHRASE: Gran may say "fill it twice, half way each time."
+NOTES: Fractions in a practical context. The cup is the unit; the half-cup is the fraction. The equivalence is demonstrated physically.
+SEED: Gran shows Emma how to measure flour by cup. She shows that two half-cups equal one full cup.
+
+STORY: 165
+CLUSTER: the dogs eat twice — multiplication in practice
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: G B L
+KEY WORDS: two dogs, two bowls, same, twice, amount, one dog, double, compare, fill, each
+ARITHMETIC: 2 dogs × 1 bowl each = 2 bowls; twice the food of one dog
+ANSWER: twice as much
+STATES: Gran says "Two dogs, two bowls — twice what I gave before Bello came."
+COUNTS: Gran fills two bowls: "One for Biscuit, one for Bello. Two bowls."
+PARAPHRASE: Gran says "twice as much as before" — comparing to the one-dog baseline.
+NOTES: Doubling in context. Before Bello: one bowl. After: two. Gran names the comparison herself.
+SEED: Gran fills two dog bowls. She remembers when she only filled one. Now it takes twice as much food.
+
+STORY: 166
+CLUSTER: how many more to make ten
+LOCATION: Gran's kitchen (table)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: ten, how many more, need, already, count up, gap, make, reach, get to, from, to, short
+ARITHMETIC: 10 - 7 = 3 (complement of ten — how many more are needed)
+ANSWER: three
+STATES: Gran says "Seven on the table. How many more to make ten?"
+COUNTS: Emma counts from seven: "Eight, nine, ten — three more."
+PARAPHRASE: Taro says "three short of ten."
+NOTES: Complement arithmetic — counting up from the current number to the target. The gap between seven and ten is counted forward, not subtracted.
+SEED: Gran needs ten pieces of something. Seven are on the table. She asks Emma how many more are needed.
+
+STORY: 167
+CLUSTER: sharing three cookies among three
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E T G B
+KEY WORDS: three, one each, exactly, divide, works out, perfect, equal, fair, same, give out
+ARITHMETIC: 3 ÷ 3 = 1 each
+ANSWER: one each
+STATES: Taro says "Three cookies, three of us. One each — it works out exactly."
+COUNTS: Gran places one in front of each person: "One, one, one."
+PARAPHRASE: Emma says "just right" — the same phrase from story 42.
+NOTES: Equal sharing that divides evenly. The satisfaction of exact division with no remainder. The Beatrix callback to "just right" connects to earlier corpus.
+SEED: Gran has three cookies for three people. They share them out. It comes out exactly.
+
+STORY: 168
+CLUSTER: counting backwards from ten
+LOCATION: Gran's field (game or starting signal)
+SEASON: summer
+CHARACTERS: E T
+KEY WORDS: ten, nine, eight, down, count, backwards, start, signal, zero, go, sequence, race, begin
+ARITHMETIC: counting down from 10 to 0
+ANSWER: zero (the signal to go)
+STATES: Emma counts: "Ten, nine, eight, seven, six, five, four, three, two, one — go!"
+COUNTS: Emma counts backwards, holding a finger down for each number.
+PARAPHRASE: Taro says "hurry up" around six.
+NOTES: Counting backwards as sequence. The same number sequence traversed in reverse. Zero is the trigger, not the absence.
+SEED: They need a signal to start a race. Emma counts backwards from ten. Taro is already braced to run before she reaches five.
+
+STORY: 169
+CLUSTER: Taro counts, Emma counts, they agree
+LOCATION: Gran's garden
+SEASON: autumn
+CHARACTERS: E T
+KEY WORDS: count, same, agree, both, check, different from before, confirm, right, both got, together, sure
+ARITHMETIC: two independent counts producing the same result — verification
+ANSWER: (both get the same number — story does not fix the number)
+STATES: Taro says "Eleven." Emma counts. "Eleven." They look at each other.
+COUNTS: Both count independently — Taro first, then Emma.
+PARAPHRASE: Emma says "same as Taro" or "Taro was right."
+NOTES: Counting as a verifiable activity. Two people count independently and get the same answer. This is not trivial — it confirms that counting gives the same result regardless of who counts.
+SEED: Taro counts something and says the number. Emma counts the same things independently. They get the same number.
+
+STORY: 170
+CLUSTER: seven apples, three people — how many left after sharing
+LOCATION: Gran's kitchen
+SEASON: autumn
+CHARACTERS: E T G
+KEY WORDS: seven, three, two each, one left, share, remainder, again, leftover, decide, keep, extra
+ARITHMETIC: 7 - (2 × 3) = 1 remaining after giving 2 to each of 3 people
+ANSWER: one left over
+STATES: Gran says "Seven apples, two each for three of us — that is six. One left."
+COUNTS: Gran hands out pairs: "Two, two, two — six given out. One left."
+PARAPHRASE: Taro says "one spare" or "one that doesn't fit the sharing."
+NOTES: Combining multiplication (two each for three = six) and subtraction (seven minus six = one). The leftover is handled by whoever Gran decides to give it to.
+SEED: Gran has seven apples to share among three people, two each. She counts out the pairs and finds one left.
+
+STORY: 171
+CLUSTER: how many days in a week — Gran's baking day
+LOCATION: Gran's house (kitchen)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: week, seven, same day, always, every, again, baking, count, before, days until, routine
+ARITHMETIC: 7 days in a week — baking happens on the same day each week
+ANSWER: seven
+STATES: Gran says "Seven days in a week. I bake on the same one every week."
+COUNTS: Emma counts the days until the next baking day: "That is... five days."
+PARAPHRASE: Emma says "five sleeps."
+NOTES: The week as a cycle — same day returns after seven days. Connects to story 97 (counting sleeps). The fixed routine (Gran's baking day) is the anchor.
+SEED: Emma asks when Gran will bake again. Gran names the day and Emma counts how many sleeps.
+
+STORY: 172
+CLUSTER: too many to count easily — the acorns
+LOCATION: The Oak
+SEASON: autumn
+CHARACTERS: E T B
+KEY WORDS: many, count, lose place, try, estimate, handful, too many, group, pile, number, big
+ARITHMETIC: large counts require grouping strategies — exact count becomes difficult
+ANSWER: (approximate — "about forty" or similar; exact number left deliberately unclear)
+STATES: Emma says "I lost count at thirty-something." Taro says "More than a hundred under this tree."
+COUNTS: Emma tries to count, loses her place, starts again.
+PARAPHRASE: Gran (if present) says "more than you can count in an afternoon."
+NOTES: The limits of counting: very large numbers are hard to count accurately. Grouping is an implied strategy but the children don't quite get there. Estimation as an alternative to exact count.
+SEED: They try to count all the acorns under the oak. There are too many. Emma loses her place twice.
+
+STORY: 173
+CLUSTER: bigger numbers — the tiles on the shed roof
+LOCATION: Gran's garden (looking up at shed roof)
+SEASON: any
+CHARACTERS: E T
+KEY WORDS: count, row, tiles, many, rows, multiply, lose count, start over, give up, estimate, big number
+ARITHMETIC: attempting to count a large array — rows × columns as a strategy
+ANSWER: (they don't get a reliable answer — the exercise is the point)
+STATES: Taro says "Count the rows and how many in each row. Then you multiply."
+COUNTS: Emma counts a row: "Seven." She counts the rows: "...I think eight rows." Then: "Seven rows of seven... that is a lot."
+PARAPHRASE: Emma says "too many."
+NOTES: Rows-and-columns as an early multiplication strategy. Taro introduces it but the counting is imprecise. The strategy is right even if the execution is messy.
+SEED: Emma wonders how many tiles are on the shed roof. Taro suggests counting by rows. It does not go smoothly.
+
+STORY: 174
+CLUSTER: double and half — the blanket
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E G
+KEY WORDS: half, fold, double, layer, thick, warm, same blanket, two thicknesses, fold in half, heavier
+ARITHMETIC: folding a blanket doubles the thickness; halves the area — same material, different arrangement
+ANSWER: twice as thick / half the size
+STATES: Gran says "Same blanket — folded in half. Two thicknesses now."
+COUNTS: Emma feels the folded blanket: "It is heavier on one side."
+PARAPHRASE: Gran says "half the size, twice as warm."
+NOTES: Doubling and halving as physical transformation. The material is conserved; only the arrangement changes. This connects to story 151 (half the apple) in a new context.
+SEED: Gran folds the blanket in half to make it warmer. Emma notices it is now heavier in one place.
+
+STORY: 175
+CLUSTER: the school lesson — subtraction as difference
+LOCATION: Schoolyard / Classroom
+SEASON: any
+CHARACTERS: E
+KEY WORDS: board, chalk, difference, subtract, take away, answer, correct, number, how many more, between
+ARITHMETIC: 8 - 5 = 3 (subtraction framed as "how many more")
+ANSWER: three
+STATES: Emma says "Three more." The teacher says "Correct — eight minus five is three. The difference."
+COUNTS: (not applicable — direct retrieval in the classroom context)
+PARAPHRASE: "How many more" (Emma) → "eight minus five" (teacher) → "the difference" (teacher again).
+NOTES: Subtraction re-presented as comparison ("how many more") in a classroom context. Connects to story 47 (2+2 as "is"/"equals"/symbol). The teacher bridges vocabulary.
+SEED: The teacher writes two numbers on the board and asks how many more one is than the other. Emma answers. The teacher says it a different way.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# BLOCK 7: REVISION AND INTEGRATION (176–200)
+# Familiar scenes revisited with richer layering — the world now fully inhabited.
+# ─────────────────────────────────────────────────────────────────────────────
+
+STORY: 176
+CLUSTER: the same bench in four seasons
+LOCATION: The Pond (bench under the willow)
+SEASON: (one season — tell it in summer; the others are referenced by memory)
+CHARACTERS: E G
+KEY WORDS: summer, bench, remember, winter, spring, same bench, always here, same, different, season, return
+SEED: Emma and Gran are at the bench in summer. Gran says she sat on the same bench in winter when the ice was at the edge of the pond. Emma tries to imagine the bench in snow. Gran says: it was grey and cold, but there.
+NOTES: The bench as a stable point across seasons. Memory and imagination bridge the gap between states. The pond bench becomes a persistent object in Emma's mind.
+
+STORY: 177
+CLUSTER: Gran's birthday — planning and counting
+LOCATION: Gran's house + garden
+SEASON: any
+CHARACTERS: E T
+KEY WORDS: plan, secret, count, sleeps, days, prepare, list, enough, buy, arrange, surprise, wait
+SEED: Emma and Taro plan Gran's birthday. They count how many days they have. They make a list. Taro is in charge of keeping it secret. Emma is in charge of the list. They disagree on the number of days.
+NOTES: Planning as temporal + arithmetic activity. The disagreement about the number of days is resolved by counting together. No arithmetic result fixed — the planning process is the content.
+
+STORY: 178
+CLUSTER: the full storm — before, during, after
+LOCATION: Gran's house + garden + meadow path
+SEASON: autumn
+CHARACTERS: E T G B
+KEY WORDS: warning, clouds, arrive, wind, rain, loud, inside, wait, after, changed, branch, puddle, wet, pass
+SEED: Gran says at breakfast: storm by afternoon. They watch. The clouds come from the west as she said. They are inside when it hits — loud, the windows rattling, Biscuit uneasy. By evening it has passed and the garden is changed.
+NOTES: Full before/during/after arc of a storm. Gran's prediction (from story 108 setup) is confirmed again. The garden changed — a branch down, puddles, the smell of wet earth.
+
+STORY: 179
+CLUSTER: the lost scarf — spatial retracing
+LOCATION: Gran's house + garden + meadow path start
+SEASON: winter
+CHARACTERS: T G
+KEY WORDS: lost, retrace, last seen, where, pocket, bench, path, tied, find, back to, memory, there, it was
+SEED: Taro has lost his scarf. He tries to remember: he had it at the gate. He goes back to the gate — not there. The bench in the garden — not there either. Then he remembers: he took it off at the top of the meadow path because he was warm. He runs back.
+NOTES: Retracing as spatial-temporal problem-solving. See also story 103 (lost boot). Each step back in space is a step back in time.
+
+STORY: 180
+CLUSTER: posting a letter and waiting for the reply
+LOCATION: The Village (post box) + Gran's house (weeks later)
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: letter, post, wait, days, weeks, reply, envelope, different, back, same slot, same post box, arrive
+SEED: Emma posts the letter. Gran says a reply takes a few weeks. Emma checks the letterbox at Gran's house every few days. One morning there is an envelope — different handwriting, a stamp from somewhere else.
+NOTES: Temporal gap between sending and receiving. The system that handled story 59 (posting) now has a return path. The hidden journey of a letter.
+
+STORY: 181
+CLUSTER: the full bean arc — planting to harvest
+LOCATION: Gran's garden (vegetable patch)
+SEASON: spring to summer
+CHARACTERS: E G
+KEY WORDS: seed, pole, plant, cover, shoot, climb, flower, pod, pick, eat, same seed, from to, complete
+SEED: Emma planted the bean seed in spring (with Gran). Now in summer the plant is tall and green and the first pods are fat. Gran lets Emma pick one. Inside: four beans in a row, pale and smooth.
+NOTES: The full arc of the seed (cross-references stories 93, 94, 95 which cover the general seed arc). The bean inside the pod mirrors the pip inside the apple (story 73) — hidden interior.
+
+STORY: 182
+CLUSTER: the night sounds at the pond
+LOCATION: The Pond (bench + flat stone)
+SEASON: summer (evening into dark)
+CHARACTERS: E T G
+KEY WORDS: dusk, frog, bat, dark, different, sound, hush, still, other, quiet but full, listen, change, night
+SEED: They stay at the pond later than usual. As the light drops, the sounds change — the frogs become louder, something that might be a bat crosses the surface, the water looks dark instead of blue. Gran says this is what the pond is like when we are not usually here.
+NOTES: The pond at a different time of day is a different place. Gran's comment ("when we are not usually here") gives the children access to a hidden state of the world.
+
+STORY: 183
+CLUSTER: Emma explains something to Taro
+LOCATION: Gran's garden (pear tree)
+SEASON: early autumn
+CHARACTERS: E T
+KEY WORDS: explain, show, check, press, right day, remember, Gran said, pass on, teach, ripeness, test
+SEED: Emma checks the pear tree the way Gran showed her — the press test. She shows Taro. He does it too. She tells him: they are not ready yet. In two days, she says, maybe three. Gran is inside.
+NOTES: Emma passes on Gran's knowledge to Taro. She is now the one who knows how to test. The transmission of the pear-ripeness check is the content — from Gran → Emma → Taro.
+
+STORY: 184
+CLUSTER: Taro solves it
+LOCATION: Gran's garden (shed)
+SEASON: any
+CHARACTERS: E T G
+KEY WORDS: stuck, try, wrong way, around, approach, differently, Taro, idea, works, unexpected, right, solve
+SEED: They are trying to move something heavy — a plank, a pot, something awkward. Emma has been trying carefully. Taro picks it up at an angle nobody tried and it moves easily. Gran says nothing; she just moves on to the next thing.
+NOTES: Taro's physical directness, usually impulsive, becomes useful here. Emma's careful approach and Taro's angular one are both valid; sometimes the second works when the first doesn't.
+
+STORY: 185
+CLUSTER: the apple tree through the year (four seasons referenced)
+LOCATION: Gran's garden (apple tree)
+SEASON: (autumn — the full-fruit moment; other seasons in memory)
+CHARACTERS: E G
+KEY WORDS: spring, blossom, summer, heavy, autumn, pick, winter, bare, same tree, always there, all year
+SEED: Emma is picking apples with Gran. She remembers it in blossom — white and buzzing in spring. She thinks of the bare tree in winter. Gran says: same tree, every year. The apple in her hand was a blossom a few months ago.
+NOTES: The full annual cycle of a single tree. The apple in Emma's hand connects to the blossom — same object at different stages. Temporal continuity made personal and concrete.
+
+STORY: 186
+CLUSTER: the longest evening — midsummer
+LOCATION: Gran's garden + meadow path
+SEASON: midsummer
+CHARACTERS: E T G
+KEY WORDS: long, light, still, late, dark not yet, surprise, usually dark, still going, sky, pale, eight, nine
+SEED: They are still outside after Gran would usually call them in. The sky is still pale. Gran says: today is the longest day. The light runs out slowly, slower than any other evening. They stay out until the dark finally comes.
+NOTES: The solstice experienced, not explained. Gran names it ("longest day") but the experience is the late light. This is temporal anomaly — the day is longer than the children expect.
+
+STORY: 187
+CLUSTER: the shortest day — home before dark
+LOCATION: Village lane + Gran's house
+SEASON: midwinter
+CHARACTERS: E T G
+KEY WORDS: dark, early, four o'clock, hurry, lamp, inside, short, winter, same walk, different light, back
+SEED: They come home from the village and it is already getting dark — it was light when they left. Gran says: shortest day of the year. The same walk takes the same time but they arrive in different light.
+NOTES: Pair with story 186. The same journey in different seasonal light. The concept is the day's length varying across the year — the same clock time produces different lighting.
+
+STORY: 188
+CLUSTER: two sick children, one sofa
+LOCATION: Gran's house (sitting room)
+SEASON: winter
+CHARACTERS: E T G
+KEY WORDS: sofa, both, fit, arrangement, one end, other end, blanket share, sick, same, different, side by side
+SEED: Both children are on the sofa at the same time. They arrange themselves with some negotiation — one at each end, feet in the middle, the brown blanket stretched between them. Gran comes in with two bowls.
+NOTES: The sick-at-Gran's scenario expanded to both children simultaneously. The blanket arithmetic (story 174) is implicitly echoed — one blanket, two children. The arrangement is spatial and social.
+
+STORY: 189
+CLUSTER: what Biscuit wants — reading the signals
+LOCATION: Gran's house + garden
+SEASON: any
+CHARACTERS: E T B
+KEY WORDS: signal, lead, door, circle, sit, nose, look, ask without words, read, understand, respond, know
+SEED: Biscuit stands at the door. He looks at Emma. He looks at the door. He goes to where his lead hangs. Emma says: I know what you want. He does not speak; she understood.
+NOTES: Communication without language — the dog's signals are a series of cause-effect pointers. Reading them is a skill Emma has developed. This is theory of mind applied to an animal.
+
+STORY: 190
+CLUSTER: the bird in the classroom
+LOCATION: Schoolyard / Classroom
+SEASON: spring
+CHARACTERS: E T
+KEY WORDS: sparrow, window, in, flutter, up, panic, glass, open, out, guide, door, corner, perch, eventually
+SEED: A sparrow gets in through an open classroom window. It flies at the glass twice before finding the open section. Emma and Taro stay very still. Eventually it finds the opening and is gone.
+NOTES: A small crisis resolved by patience, not intervention. The children staying still is the right response — learned or intuited. The bird's misunderstanding of glass is a natural physics observation.
+
+STORY: 191
+CLUSTER: the rabbit in the garden
+LOCATION: Gran's garden
+SEASON: spring
+CHARACTERS: E B G
+KEY WORDS: rabbit, under, gate, gap, patch, eat, still, Biscuit, nose, freeze, bolt, gone, quick, visitor
+SEED: A rabbit has come through the gap under the garden gate. It is in the vegetable patch. Biscuit sees it and freezes — something in him that is older than training. The rabbit bolts before he moves.
+NOTES: A brief visit from outside the world's usual cast. Biscuit's freeze is an instinct — different from his ordinary behaviour. The rabbit is gone before anything is decided.
+
+STORY: 192
+CLUSTER: perfect stillness — a calm day
+LOCATION: The Pond
+SEASON: late summer
+CHARACTERS: E T G
+KEY WORDS: still, wind, no ripple, glass, reflection, exact, perfect, sound, far, quiet, unusual, rare
+SEED: There is no wind. The pond is perfectly still — the reflection is exact, the sky and its double identical. Even sounds from far away carry clearly. Gran says: it doesn't happen often. They stand and listen to it.
+NOTES: The unusual quality of perfect stillness — it is perceived as different from ordinary quiet. Gran's noting it ("doesn't happen often") teaches that this is special, not normal.
+
+STORY: 193
+CLUSTER: after the harvest — the bare field
+LOCATION: Gran's field (after harvesting)
+SEASON: late summer
+CHARACTERS: E T G B
+KEY WORDS: field, bare, cut, flat, stubble, wide, sky, oak, still there, empty, different, change, after
+SEED: The field has been cut. What was tall wheat is now short stubble — flat and wide and pale. The sky is bigger. The oak is visible from across the whole field. Gran says: it will be green again in spring.
+NOTES: The field's emptiness makes it feel larger — the sky is bigger without the wheat. The oak's visibility from the whole field echoes story 84 (from the hill). Gran's "green again in spring" is a single-sentence temporal arc.
+
+STORY: 194
+CLUSTER: the very long wait — tadpoles to frogs
+LOCATION: The Pond + Gran's kitchen (at various intervals)
+SEASON: spring through summer
+CHARACTERS: E T G
+KEY WORDS: tadpole, weeks, wait, check, change, slowly, not yet, gills, legs, frog, long time, at last
+SEED: They put tadpoles in a jar in the kitchen (from story 63 — returned to the pond). But they check the pond for weeks. At first nothing. Then the tadpoles grow legs. Gran says it takes longer than they think every year.
+NOTES: The longest temporal arc in the series — weeks, not days. Gran's "every year" implies she has watched this repeatedly. The transformation from tadpole to frog is compressed but the waiting is what is taught.
+
+STORY: 195
+CLUSTER: Gran's hands
+LOCATION: Gran's kitchen
+SEASON: any
+CHARACTERS: E G
+KEY WORDS: hands, knead, work, rough, know, lines, do, practised, watch, study, quick, slow, certain, hold
+SEED: Gran is kneading dough. Emma watches her hands — quick and certain, the heel of the palm, the push and turn. Emma tries to copy. Her hands do the same shape but slowly, and the dough moves differently. Gran's hands know something.
+NOTES: The final story. What Gran knows lives in her hands — in the accumulated practice that looks effortless but was learned. Emma's copying is the beginning of the same process. No summary; no moral. The hands working is the ending.

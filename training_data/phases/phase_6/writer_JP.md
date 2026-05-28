@@ -11,7 +11,7 @@ writerは生産的で創造的である。
 writerは本のある部屋にいることができる。
 writerはページや画面の近くにいることができる。
 writerは図書館や書斎で作業する。
-writerは出版社に現れる。
+writerは出版社で働く。
 writerは動かず、集中している。
 
 [user]writerは何をするか？
@@ -24,8 +24,8 @@ writerは想像力があり、意図的である。
 
 [user]writerは何をもたらすか？
 [Ninereeds]writerは物語を作るためのものである。
-writerは情報を共有するためのものである。
-writerはアイデアを表現するためのものである。
-writerは読者を楽しませるためのものである。
-writerは知識を保存するためのものである。
-writerは物語を作り、情報を共有するためのものである。
+writerは情報を共有する。
+writerはアイデアを表現する。
+writerは読者を楽しませる。
+writerは知識を保存する。
+writerは物語を作り、情報を共有する。

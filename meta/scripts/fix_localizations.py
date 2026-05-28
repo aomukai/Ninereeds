@@ -39,42 +39,46 @@ if _env_file.exists():
 PHASES_ROOT = ROOT / "training_data" / "phases"
 TMP = ROOT / "tmp"
 MODEL = "deepseek/deepseek-v4-flash"
+LOCAL_ENDPOINT = "http://192.168.3.5:1234/v1"
+LOCAL_MODEL = "gemma-4-e4b-it"
 ALL_LANGS = ["JP", "ZH"]
 
 FIX_PROMPT = {
     "JP": """\
-You are fixing a Japanese localization of a training file. The file has specific issues
-identified by an auditor. Your job is to produce a corrected Japanese version that:
-1. Fixes every issue listed
-2. Keeps all correct lines UNCHANGED
-3. Preserves the exact [user]/[Ninereeds] structure and line count of the original
-4. Uses natural Japanese — no word-for-word calques, appropriate verbs for the subject
+You are fixing a Japanese localization of a training file.
+An auditor has identified specific lines that are unnatural calques or errors.
 
-Rules:
+Your task: output the COMPLETE file with ONLY the flagged lines replaced.
+Do NOT change any line that is not listed in the issues. Do NOT rewrite, paraphrase,
+or improve anything else. One line in → one line out.
+
+Fix rules for the replaced lines:
+- Natural Japanese — no word-for-word calques from English
+- Inanimate objects use がある not 持つ
 - Plain form (だ/である). No ですます.
-- Do NOT use pronouns (それ、その、彼、彼女 etc.) — repeat the noun.
-- Match the source line count exactly.
-- Output ONLY the corrected file content — no preamble, no explanation.
+- Do NOT use pronouns (それ、その、彼、彼女 etc.) — repeat the noun
+- Output ONLY the corrected file content — no preamble, no explanation
 """,
     "ZH": """\
-You are fixing a Traditional Chinese localization of a training file. The file has specific
-issues identified by an auditor. Your job is to produce a corrected Traditional Chinese
-version that:
-1. Fixes every issue listed
-2. Keeps all correct lines UNCHANGED
-3. Preserves the exact [user]/[Ninereeds] structure and line count of the original
-4. Uses natural Traditional Chinese — no word-for-word calques, appropriate verbs for the subject
-5. TRADITIONAL characters ONLY throughout
+You are fixing a Traditional Chinese localization of a training file.
+An auditor has identified specific lines that are unnatural calques or errors.
 
-Rules:
-- Do NOT use pronouns (它、牠、他、她、其 etc.) — repeat the noun.
-- Match the source line count exactly.
-- Output ONLY the corrected file content — no preamble, no explanation.
+Your task: output the COMPLETE file with ONLY the flagged lines replaced.
+Do NOT change any line that is not listed in the issues. Do NOT rewrite, paraphrase,
+or improve anything else. One line in → one line out.
+
+Fix rules for the replaced lines:
+- Natural Traditional Chinese — no word-for-word calques from English
+- TRADITIONAL characters ONLY — no Simplified
+- Do NOT use pronouns (它、牠、他、她、其 etc.) — repeat the noun
+- Output ONLY the corrected file content — no preamble, no explanation
 """,
 }
 
 
-def get_client() -> OpenAI:
+def get_client(endpoint: str | None = None) -> OpenAI:
+    if endpoint:
+        return OpenAI(base_url=endpoint, api_key="local")
     key = os.environ.get("OPENROUTER_API_KEY") or os.environ.get("OPENAI_API_KEY")
     if not key:
         auth = Path.home() / ".local/share/opencode/auth.json"
@@ -134,11 +138,38 @@ def validate(source: str, output: str, lang: str) -> list[str]:
     return errs
 
 
-def fix_file(record: dict, lang: str, client: OpenAI) -> str:
-    src_rel = record.get("src", "")
+def _apply_surgical(original: str, output: str, flagged_lines: set[str]) -> str:
+    """Revert any changed line whose original text was not in the flagged set."""
+    orig_lines = original.splitlines()
+    out_lines = output.splitlines()
+    if len(orig_lines) != len(out_lines):
+        return output  # line count mismatch — let validate() catch it
+    result = []
+    for orig, out in zip(orig_lines, out_lines):
+        if orig == out:
+            result.append(out)
+        elif orig.strip() in flagged_lines:
+            result.append(out)  # allowed change
+        else:
+            result.append(orig)  # revert drift
+    return "\n".join(result)
+
+
+def _normalize_src(src: str) -> str:
+    """Convert Windows absolute src paths to POSIX relative (phase_N/word.md)."""
+    s = src.replace("\\", "/")
+    marker = "training_data/phases/"
+    idx = s.find(marker)
+    if idx != -1:
+        return s[idx + len(marker):]
+    return src
+
+
+def fix_file(record: dict, lang: str, client: OpenAI, model: str = MODEL) -> str:
+    src_rel = _normalize_src(record.get("src", ""))
     loc_rel = record.get("file", "")
     src_path = PHASES_ROOT / src_rel
-    loc_path = PHASES_ROOT / loc_rel
+    loc_path = ROOT / loc_rel
 
     if not src_path.exists():
         return f"  MISSING_SRC {src_rel}"
@@ -148,6 +179,7 @@ def fix_file(record: dict, lang: str, client: OpenAI) -> str:
     en_text = src_path.read_text(encoding="utf-8").strip()
     loc_text = loc_path.read_text(encoding="utf-8").strip()
     issues = record.get("issues", [])
+    flagged_lines = {iss.get("line", "").strip() for iss in issues if iss.get("line")}
     issues_text = "\n".join(
         f"- Line: {iss.get('line', '?')}\n  Problem: {iss.get('problem', '?')}\n  Suggestion: {iss.get('suggestion', '')}"
         for iss in issues
@@ -162,8 +194,8 @@ def fix_file(record: dict, lang: str, client: OpenAI) -> str:
     for attempt in range(1, 3):
         try:
             resp = client.chat.completions.create(
-                model=MODEL,
-                max_tokens=8192,
+                model=model,
+                max_tokens=2048,
                 messages=[
                     {"role": "system", "content": FIX_PROMPT[lang]},
                     {"role": "user", "content": user_msg},
@@ -172,6 +204,8 @@ def fix_file(record: dict, lang: str, client: OpenAI) -> str:
             raw = (resp.choices[0].message.content or "").strip()
         except Exception as exc:
             return f"  ERROR {loc_rel}: {exc}"
+
+        raw = _apply_surgical(loc_text, raw, flagged_lines)
 
         errs = validate(en_text, raw, lang)
         if errs:
@@ -196,8 +230,8 @@ def already_fixed(lang: str) -> set[str]:
     return set(p.read_text(encoding="utf-8").splitlines())
 
 
-def cmd_run(lang: str, workers: int) -> None:
-    audit_log = TMP / f"audit_{lang}.jsonl"
+def cmd_run(lang: str, workers: int, endpoint: str | None = None, override_model: str | None = None) -> None:
+    audit_log = TMP / f"audit_{lang}_phases.jsonl"
     if not audit_log.exists():
         sys.exit(f"No audit log found at {audit_log}. Run audit_localizations.py first.")
 
@@ -217,15 +251,16 @@ def cmd_run(lang: str, workers: int) -> None:
         print(f"[{lang}] Nothing to fix ({len(records)} records in log, all done).")
         return
 
-    print(f"[{lang}] Fixing {len(pending)} flagged files (skipping {len(records) - len(pending)} already fixed)")
+    model = override_model or (LOCAL_MODEL if endpoint else MODEL)
+    print(f"[{lang}] Fixing {len(pending)} flagged files (skipping {len(records) - len(pending)} already fixed) model={model}")
 
-    client = get_client()
+    client = get_client(endpoint)
     lock = threading.Lock()
     fixed = fail = 0
 
     def process(record: dict) -> None:
         nonlocal fixed, fail
-        result = fix_file(record, lang, client)
+        result = fix_file(record, lang, client, model)
         with lock:
             print(result, flush=True)
             if "FIXED" in result:
@@ -243,7 +278,7 @@ def cmd_run(lang: str, workers: int) -> None:
 
 def cmd_report(langs: list[str]) -> None:
     for lang in langs:
-        audit_log = TMP / f"audit_{lang}.jsonl"
+        audit_log = TMP / f"audit_{lang}_phases.jsonl"
         done = already_fixed(lang)
         if not audit_log.exists():
             print(f"[{lang}] No audit log.")
@@ -257,7 +292,7 @@ def cmd_report(langs: list[str]) -> None:
 def parse_args() -> tuple[str, dict]:
     args = sys.argv[1:]
     cmd = args[0] if args else "report"
-    opts: dict = {"langs": ALL_LANGS[:], "workers": 4}
+    opts: dict = {"langs": ALL_LANGS[:], "workers": 4, "endpoint": None, "model": None}
 
     i = 1
     while i < len(args):
@@ -268,6 +303,12 @@ def parse_args() -> tuple[str, dict]:
             opts["langs"] = [x.strip().upper() for x in nxt().split(",")]
         elif a == "--workers":
             opts["workers"] = int(nxt())
+        elif a == "--local":
+            opts["endpoint"] = LOCAL_ENDPOINT
+        elif a == "--endpoint":
+            opts["endpoint"] = nxt()
+        elif a == "--model":
+            opts["model"] = nxt()
         elif a.startswith("--lang="):
             opts["langs"] = [x.strip().upper() for x in a.split("=", 1)[1].split(",")]
         elif a.startswith("--workers="):
@@ -284,7 +325,7 @@ def main() -> None:
         cmd_report(opts["langs"])
     elif cmd == "run":
         for lang in opts["langs"]:
-            cmd_run(lang, opts["workers"])
+            cmd_run(lang, opts["workers"], opts["endpoint"], opts["model"])
     else:
         sys.exit(f"Unknown command: {cmd!r}  (use 'run' or 'report')")
 

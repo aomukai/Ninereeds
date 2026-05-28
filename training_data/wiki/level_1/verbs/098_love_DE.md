@@ -1,0 +1,2 @@
+[user]Was bedeutet Lieben?
+[Ninereeds]Lieben bedeutet, tiefe Zuneigung für einen anderen Menschen oder eine Sache zu empfinden. Menschen lieben die Familie, die Freunde und die Haustiere. Liebe ist ein starkes, warmes Gefühl, das einen Menschen dazu bringt, freundlich und nah sein zu wollen. Eine Sache sehr zu lieben kann auch bedeuten, eine Sache sehr zu genießen. Lieben ist nicht dasselbe wie Mögen.

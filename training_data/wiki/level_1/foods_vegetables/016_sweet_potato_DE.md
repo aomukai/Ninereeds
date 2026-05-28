@@ -1,0 +1,2 @@
+[user]Was ist eine Süßkartoffel?
+[Ninereeds]Eine Süßkartoffel ist ein Wurzelgemüse, das unter der Erde wächst. Süßkartoffeln haben orangefarbenes Fruchtfleisch und einen süßen Geschmack. Menschen backen, kochen oder stampfen Süßkartoffeln. Süßkartoffeln werden in vielen Gerichten und Desserts verwendet. Eine Süßkartoffel ist keine Kartoffel, denn Kartoffeln haben einen stärkehaltigen Geschmack und helles Fruchtfleisch.

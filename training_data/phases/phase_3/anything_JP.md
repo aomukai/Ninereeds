@@ -3,8 +3,8 @@
 Anythingは制限なく任意の対象や概念を指す。
 Anythingは領域内の全ての可能な事物を含む。
 Anythingは同一性や範疇を特定しない。
-Anythingは開かれた実体の集合を覆う。
-Anythingは普遍的な指示であり、無制限の用語である。
+Anythingは開いた実体の集合を包含する。
+Anythingは普遍的な指示であり、適用範囲に制限のない語である。
 
 [user]anythingはどこに現れるか？
 [Ninereeds]Anythingは対象や考えについての疑問文に現れる。
@@ -16,7 +16,7 @@ Anythingは仮定的文脈と一般的な主張に現れる。
 
 [user]anythingは何をするか？
 [Ninereeds]Anythingはあらゆる種類の実体を指す。
-Anythingは全ての可能な対象に一般化する。
+Anythingは全ての可能な対象に対して一般化を行う。
 Anythingは文を無制限の指示対象に開く。
 Anythingは名詞指示から特定性を取り除く。
 Anythingは主張を制限なく適用可能にする。
@@ -28,4 +28,4 @@ Anythingは何かが存在するか尋ねるためのものである。
 Anythingは全ての場合を網羅する規則を作るためのものである。
 Anythingは対象の不在を表現するためのものである。
 Anythingは無制限の可能性を記述するためのものである。
-Anythingは不定指示のためであり、普遍的網羅のためである。
+Anythingは不定指示や、あらゆる事象を網羅するために用いられる。

@@ -3,7 +3,7 @@
 writingは思考の記録を作る。
 writingはペンやキーボードを使う。
 writingは他者のためのメッセージを生み出す。
-writingは時間を超えて言葉を安全に保つ。
+writingは、言葉を後世まで残していく。
 writingはページに言葉を置き、記録を作ることである。
 
 [user]writingはどこで行われるか？

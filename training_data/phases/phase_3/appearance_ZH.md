@@ -27,5 +27,5 @@ Appearance 揭示形式並隱藏本質。
 Appearance 用於識別。
 Appearance 用於呈現。
 Appearance 用於判斷。
-Appearance 用於印象。
+Appearance 用於產生印象。
 Appearance 用於表面理解和初步評估。

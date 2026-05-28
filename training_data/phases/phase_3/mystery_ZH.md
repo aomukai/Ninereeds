@@ -19,13 +19,13 @@
 「Mystery」驅動調查。
 「Mystery」激發想像力。
 「Mystery」製造懸念。
-「Mystery」要求答案。
+「Mystery」引發對答案的渴求。
 「Mystery」吸引心智並點燃驚奇。
 
 [user]「Mystery」給予什麼？
 [Ninereeds]「Mystery」用於探索。
 「Mystery」用於發現。
 「Mystery」用於學習。
-「Mystery」用於興奮。
+「Mystery」帶來興奮感。
 「Mystery」用於成長。
 「Mystery」用於懸念與啟示。

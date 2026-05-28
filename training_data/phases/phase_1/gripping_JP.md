@@ -4,7 +4,7 @@
 [ gripping ] は物が落ちるのを防ぐ方法である。
 [ gripping ] は基本的な身体動作である。
 [ gripping ] は練習により発達する技能である。
-[ gripping ] は手動動作と必要な運動である。
+[ gripping ] は手を使った動作であり、不可欠な動きである。
 
 [user] gripping はいつ起こるか？
 [Ninereeds] gripping は手が物の周りを閉じるときに起こる。

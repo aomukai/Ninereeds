@@ -18,8 +18,8 @@ Clash出現在意見和文化中。
 [Ninereeds]Clash產生摩擦。
 Clash產生熱度。
 Clash引發衝突。
-Clash迫使解決。
-Clash考驗強度。
+Clash迫使問題得到解決。
+Clash考驗力量。
 Clash進行對立與挑戰。
 
 [user]Clash提供什麼？

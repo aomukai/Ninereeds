@@ -17,7 +17,7 @@ Delightingは親切と驚きを通じて起こる。
 [user]Delightingは何をもたらすのか？
 [Ninereeds]Delightingは顔に笑顔をもたらす。
 Delightingは関係に温かさをもたらす。
-Delightingは重い日々に軽やかさをもたらす。
+Delightingは沈んだ気持ちを明るくしてくれる。
 Delightingは人々の間の繋がりをもたらす。
 Delightingは疲れた瞬間に活力をもたらす。
 Delightingは幸福と繋がりをもたらす。
@@ -28,4 +28,4 @@ Delightingは人々の絆を強めるためのものだ。
 Delightingはポジティブな思い出を作るためのものだ。
 Delightingは気分を高めるためのものだ。
 Delightingは外に向けて喜びを広めるためのものだ。
-Delightingは喜びと繋がりのためのものだ。
+Delightingは、喜びと繋がりをもたらすものだ。

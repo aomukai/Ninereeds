@@ -30,9 +30,10 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 REPO_ROOT   = Path(__file__).resolve().parent.parent.parent
-STORIES_DIR = REPO_ROOT / "training_data" / "grounded_stories"
-WORLD_BIBLE = STORIES_DIR / "world_bible.md"
-STORY_LIST  = STORIES_DIR / "storylist.txt"
+STORIES_DIR  = REPO_ROOT / "training_data" / "grounded_stories"
+CORPUS_ADMIN = REPO_ROOT / "training" / "corpus_admin" / "grounded_stories"
+WORLD_BIBLE  = CORPUS_ADMIN / "world_bible.md"
+STORY_LIST   = CORPUS_ADMIN / "storylist.txt"
 BASE_URL    = "https://openrouter.ai/api/v1"
 MODEL       = "deepseek/deepseek-chat"
 MAX_TOKENS  = 1200
@@ -41,7 +42,7 @@ CHAR_MAP = {"E": "Emma", "T": "Taro", "G": "Gran", "B": "Biscuit", "L": "Bello"}
 
 # Cast names per language — same characters, language-appropriate rendering
 CAST: dict[str, dict[str, str]] = {
-    "EN": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Gran",       "Biscuit": "Biscuit"},
+    "EN": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Gran",       "Biscuit": "Biscuit",   "Bello": "Bello"},
     "DE": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Oma",        "Biscuit": "Keks",        "Bello": "Bello"},
     "JP": {"Emma": "エマ",      "Taro": "太郎",   "Gran": "おばあさん",  "Biscuit": "ビスケット",  "Bello": "ベロ"},
     "ZH": {"Emma": "艾玛",      "Taro": "太郎",   "Gran": "奶奶",       "Biscuit": "饼干",        "Bello": "贝洛"},
@@ -144,6 +145,14 @@ def parse_storylist(path: Path) -> list[dict]:
                 current["paraphrase"] = val
             elif key == "NOTES":
                 current["notes"] = val
+            elif key == "SPATIAL_CONCEPT":
+                current["spatial_concept"] = val
+            elif key == "TEMPORAL_RELATION":
+                current["temporal_relation"] = val
+            elif key == "CAUSE_EFFECT":
+                current["cause_effect"] = val
+            elif key == "OBSERVATION_STATE":
+                current["observation_state"] = val
     if current.get("id"):
         stories.append(current)
     return stories
@@ -153,36 +162,37 @@ def parse_storylist(path: Path) -> list[dict]:
 # Prompt builder
 # ─────────────────────────────────────────────────────────────────
 
-def build_prompt(bible: str, story: dict, lang: str, en_text: str | None) -> str:
+def build_prompt(bible: str, story: dict, lang: str) -> str:
     cast = CAST[lang]
     chars_in_story = [cast.get(c, c) for c in story["characters"]]
     chars_str = ", ".join(chars_in_story)
     lang_instr = LANG_INSTRUCTIONS[lang]
 
-    en_section = ""
-    if en_text:
-        en_section = f"""
-The English version of this story is provided below for reference.
-Do NOT translate it. Use it to understand the scene, then write freely and naturally in {lang}.
-The content should be similar but the prose must feel native — written by a fluent speaker,
-not rendered from English.
+    # Concept constraints block (spatial, temporal, causal, observational)
+    concept_lines = []
+    for field, label in [
+        ("spatial_concept",   "SPATIAL CONCEPT TO GROUND"),
+        ("temporal_relation", "TEMPORAL RELATION TO GROUND"),
+        ("cause_effect",      "CAUSE-EFFECT CHAIN"),
+        ("observation_state", "OBSERVATION-DEPENDENT STATE"),
+    ]:
+        if story.get(field):
+            concept_lines.append(f"- {label}: {story[field]}")
+    concept_block = ("\nCONCEPT CONSTRAINTS (weave in naturally — do not state directly):\n"
+                     + "\n".join(concept_lines) + "\n") if concept_lines else ""
 
---- English reference ---
-{en_text.strip()}
---- end reference ---
-"""
-
+    # Arithmetic constraints block
     arithmetic_block = ""
     if story.get("arithmetic"):
-        answer = story.get("answer", "")
-        states = story.get("states", "")
-        counts = story.get("counts", "")
+        answer    = story.get("answer", "")
+        states    = story.get("states", "")
+        counts    = story.get("counts", "")
         paraphrase = story.get("paraphrase", "")
-        notes = story.get("notes", "")
+        notes     = story.get("notes", "")
         arithmetic_block = f"""
 ARITHMETIC CONSTRAINTS (follow exactly — do not invent or change numbers):
 - Arithmetic fact: {story['arithmetic']}
-- Correct answer (hardcoded — use this word exactly): {answer}
+- Correct answer (hardcoded — use this word exactly in {lang}): {answer}
 - Who states the math aloud: {states}
 - Who counts aloud: {counts}
 - Paraphrase variant to include: {paraphrase}
@@ -191,13 +201,19 @@ ARITHMETIC CONSTRAINTS (follow exactly — do not invent or change numbers):
 The arithmetic answer must be correct. Do not change the numbers or the answer word.
 """
 
+    notes_line = f"\nAUTHOR NOTE: {story['notes']}\n" if (story.get("notes") and not story.get("arithmetic")) else ""
+
     return f"""{bible}
 
 ---
 
+IMPORTANT: This is not a translation. There is no source language.
+Each language version of this story is written independently, as if by a fluent native author
+who was given a scene description and wrote it fresh. The scene description (SEED below)
+tells you WHAT happens. You decide HOW to say it in {lang}.
+
 {lang_instr}
 
-{en_section}
 Write story {story['id']} now. Output only the story — no title, no heading, no commentary.
 
 CLUSTER: {story['cluster']}
@@ -206,7 +222,7 @@ SEASON: {story['season']}
 CHARACTERS IN THIS STORY: {chars_str}
 KEY WORDS TO COVER (use naturally, not forced): {story['keywords']}
 SCENE SEED: {story['seed']}
-{arithmetic_block}
+{concept_block}{arithmetic_block}{notes_line}
 Requirements:
 - 150–220 words. Stop when the scene is complete. Do not pad or summarise.
 - Show through action and sensation, not definition.
@@ -274,16 +290,7 @@ def generate_story(
         log(f"  [{sid}/{lang}] DRY RUN — would generate: {out_path.name}")
         return sid, lang, True, "dry run"
 
-    # Load EN reference for non-EN languages
-    en_text: str | None = None
-    if lang != "EN":
-        en_path = STORIES_DIR / f"story_{sid}_EN.md"
-        if en_path.exists():
-            en_text = en_path.read_text(encoding="utf-8")
-        else:
-            return sid, lang, False, "EN source missing — generate EN first"
-
-    prompt = build_prompt(bible, story, lang, en_text)
+    prompt = build_prompt(bible, story, lang)
 
     for attempt in (1, 2):
         try:

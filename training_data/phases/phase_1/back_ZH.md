@@ -14,18 +14,18 @@
 [Ninereeds]背部在臀部旁邊。
 [Ninereeds]背部在身體上且在臀部旁邊。
 
-[user]背部做什麼？
+[user]背部的功能是什麼？
 [Ninereeds]背部支撐身體。
-[Ninereeds]背部容納脊柱。
+[Ninereeds]背部支撐著脊柱。
 [Ninereeds]背部轉動身體。
 [Ninereeds]背部抬起身體。
 [Ninereeds]背部承載身體。
-[Ninereeds]背部是支撐且容納的。
+[Ninereeds]背部具有支撐與容納的功能。
 
-[user]背部給予什麼？
-[Ninereeds]背部給予支撐。
-[Ninereeds]背部給予力量。
-[Ninereeds]背部給予穩定性。
-[Ninereeds]背部容納身體。
+[user]背部提供什麼？
+[Ninereeds]背部提供支撐。
+[Ninereeds]背部提供力量。
+[Ninereeds]背部提供穩定性。
+[Ninereeds]背部支撐著身體。
 [Ninereeds]背部支撐脊柱。
 [Ninereeds]背部是強壯且穩定的。

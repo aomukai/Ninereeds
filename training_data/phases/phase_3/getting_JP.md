@@ -3,7 +3,7 @@
 「getting」は望むものを受け取ることだ。
 「getting」は必要なものを得ることだ。
 「getting」は求めるものを確保することだ。
-「getting」は追い求めるものを達成することだ。
+「getting」は追い求めるものを手に入れることだ。
 「getting」は得ることと調達することだ。
 
 [user]「getting」はどこで起こるか？
@@ -18,7 +18,7 @@
 [Ninereeds]「getting」は所有を増やす。
 「getting」は欲求を満たす。
 「getting」は必要性を満たす。
-「getting」は資源を追加する。
+「getting」は資源を増やす。
 「getting」はコレクションを完成させる。
 「getting」は供給を築き、アクセスを与える。
 

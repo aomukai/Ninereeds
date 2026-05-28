@@ -17,7 +17,7 @@ heartbreak は喪失と別れの中に見られる。
 [user]heartbreak は何をするのか？
 [Ninereeds]heartbreak は涙を引き起こす。
 heartbreak は人を悲しくさせる。
-heartbreak は回復力を教える。
+heartbreak は回復力を授ける。
 heartbreak は人を変える。
 heartbreak は共感を育む。
 heartbreak は涙を引き起こし、回復力を教える。
@@ -26,6 +26,6 @@ heartbreak は涙を引き起こし、回復力を教える。
 [Ninereeds]heartbreak は感情的な成長のためのものである。
 heartbreak は痛みを理解するためのものである。
 heartbreak はより深い繋がりのためのものである。
-heartbreak は喜びを評価するためのものである。
+heartbreak は喜びを慈しむためのものである。
 heartbreak は人間の経験のためのものである。
 heartbreak は感情的な成長と痛みを理解するためのものである。

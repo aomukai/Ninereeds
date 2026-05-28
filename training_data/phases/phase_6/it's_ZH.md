@@ -8,11 +8,11 @@ It's 是 it is 的簡短形式。
 
 [user]在哪裡可以找到 it's？
 [Ninereeds]It's 存在於口語中。
-It's 存在於書寫中。
-It's 存在於句子中。
-It's 存在於書籍中。
-It's 存在於語言中。
-It's 存在於口語和書寫的句子中。
+It's 用於書寫。
+It's 出現在句子中。
+It's 出現在書籍中。
+It's 是語言的一部分。
+It's 出現在口語和書寫的句子中。
 
 [user]it's 有什麼作用？
 [Ninereeds]It's 縮短片語。

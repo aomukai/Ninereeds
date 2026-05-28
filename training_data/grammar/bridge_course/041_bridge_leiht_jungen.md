@@ -14,5 +14,5 @@
 
 Taro lends the boy the apple.
 Taro leiht dem Jungen den Apfel.
-太郎が少年にリンゴを貸す
-太郎借給男孩蘋果
+太郎が少年にリンゴを貸す。
+太郎借給男孩蘋果。

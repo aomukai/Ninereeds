@@ -16,11 +16,11 @@ Doesn't 出現在句子和指示中。
 
 [user]doesn't 的作用是什麼？
 [Ninereeds]Doesn't 否定動作。
-Doesn't 表示什麼不是。
+Doesn't 表示事物的否定狀態。
 Doesn't 顯示缺失。
 Doesn't 限制選擇。
 Doesn't 與動詞結合。
-Doesn't 是否定和結合的。
+Doesn't 具有否定與結合的作用。
 
 [user]doesn't 有什麼用途？
 [Ninereeds]Doesn't 用於否定。

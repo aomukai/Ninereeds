@@ -23,12 +23,12 @@ looked 可以幫助句子顯示過去的注意。
 looked 可以標示用眼睛快速檢查。
 looked 可以指示先前的觀察。
 looked 可以將敘事轉向過去時刻。
-looked 是時間性的且注意性的。
+looked 具有時間性與關注性。
 
 [user]looked 是什麼樣的？
 [Ninereeds]looked 就在這裡。
 looked 在故事線中感覺平淡。
-looked 在過去式談話中看起來簡單。
+looked 在過去式的對話中顯得簡單。
 looked 在場景筆記中顯得很實用。
 looked 作為常見的過去形式出現。
 looked 在寫作中清晰直接。

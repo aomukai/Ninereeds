@@ -17,7 +17,7 @@ Appear 出現在空曠空間和擁擠房間中。
 
 [user]appear 做什麼？
 [Ninereeds]Appear 將形狀帶入意識。
-Appear 將缺席轉變為在場。
+Appear 將虛無轉變為存在。
 Appear 將世界從未知轉變為已知。
 Appear 在沒有預警的情況下宣告到來。
 Appear 改變眼睛所感知的內容。
@@ -25,8 +25,8 @@ Appear 使隱藏的變得已知，看不見的變得可見。
 
 [user]appear 給出什麼？
 [Ninereeds]Appear 用於揭示隱藏的事物。
-Appear 用於向視覺引入形狀。
+Appear 使形狀進入視野。
 Appear 用於標記到來。
 Appear 用於開始感知。
 Appear 用於改變意識。
-Appear 用於使可見和宣告存在。
+Appear 用於展現可見性並宣告存在。

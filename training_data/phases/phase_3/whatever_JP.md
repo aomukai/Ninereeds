@@ -9,7 +9,7 @@ whateverは概念であり、言語的ツールである。
 [user]whateverはどこに現れるのか？
 [Ninereeds]whateverは砕けた話し言葉に現れる。
 whateverは拒絶的な返答に現れる。
-whateverは自由回答式の質問に現れる。
+whateverはオープンエンドな質問に現れる。
 whateverは哲学的議論に現れる。
 whateverは日常会話に現れる。
 whateverは非公式な文脈と修辞的用法に現れる。
@@ -17,7 +17,7 @@ whateverは非公式な文脈と修辞的用法に現れる。
 [user]whateverは何をするのか？
 [Ninereeds]whateverはまったく何でも指す。
 whateverは以前の発言を退ける。
-whateverは可能性の空間を開く。
+whateverは可能性の幅を広げる。
 whateverは議論を終わらせる。
 whateverは無関心を示す。
 whateverは話題を閉じ、さらなる考察を促す。

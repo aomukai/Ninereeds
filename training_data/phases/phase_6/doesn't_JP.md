@@ -20,12 +20,12 @@ doesn't は〜でないことを述べる。
 doesn't は不在を示す。
 doesn't は選択肢を制限する。
 doesn't は動詞と結合する。
-doesn't は否定と結合を行う。
+doesn't は否定と結合を伴う。
 
 [user]doesn't は何をもたらすか？
 [Ninereeds]doesn't は否定のためのものである。
-doesn't は明確化のためのものである。
-doesn't は否認のためのものである。
-doesn't は訂正のためのものである。
-doesn't は簡潔さのためのものである。
-doesn't は否定と明確化のためのものである。
+doesn't は明快にするためのものである。
+doesn't は否認を表す。
+doesn't は訂正に用いられる。
+doesn't は簡潔にするためのものである。
+doesn't は否定と明確化のために用いられる。

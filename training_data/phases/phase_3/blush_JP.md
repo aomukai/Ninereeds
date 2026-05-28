@@ -17,15 +17,15 @@ blushは顔の色である。
 [user]blushは何をするか？
 [Ninereeds]blushは感情を示す。
 blushは恥ずかしさを明らかにする。
-blushは感情を信号する。
+blushは感情の合図となる。
 blushは肌を温める。
 blushは顔の色を変える。
 blushは感情の兆候である。
 
 [user]blushは何を与えるか？
 [Ninereeds]blushは感情を示すためのものである。
-blushは恥ずかしさを信号するためのものである。
+blushは恥ずかしさを伝えるためのものである。
 blushは感情を伝えるためのものである。
 blushは自己表現のためのものである。
 blushは自然な身体反応である。
-blushは感情のための顔の信号である。
+blushは感情を表す顔のサインである。

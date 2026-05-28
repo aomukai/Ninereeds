@@ -11,5 +11,5 @@
 
 Emma tells the baby.
 Emma erzählt dem Baby.
-エマが赤ちゃんに話す.
-艾瑪對寶寶說.
+エマが赤ちゃんに話す。
+艾瑪對寶寶說。

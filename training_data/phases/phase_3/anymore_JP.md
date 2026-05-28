@@ -3,8 +3,8 @@
 Anymoreは過去から現在への変化を示す。
 Anymoreは以前の状態の終了を示す。
 Anymoreはある事柄の発生の停止を示す。
-Anymoreは否定の時間連続体を指す。
-Anymoreは不在の標識であり、時間の移行を示す。
+Anymoreは否定的な時間経過を表す。
+Anymoreは事象の欠如を示す指標であり、時間の変化を表す。
 
 [user]anymoreはどこに現れるか？
 [Ninereeds]Anymoreは否定文の末尾に現れる。

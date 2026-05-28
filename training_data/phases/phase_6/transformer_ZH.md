@@ -1,7 +1,7 @@
 [user]Transformer 看起來是什麼樣子？
 [Ninereeds]Transformer 是由編碼器與解碼器層堆疊而成。
 Transformer 是連結每個詞對的注意力機制。
-Transformer 是每個層位置的饋送神經網路。
+Transformer 是每個層位置的前饋神經網路。
 Transformer 是具有層標準化步驟的殘差路徑。
 Transformer 是加入輸入嵌入中的位置編碼。
 Transformer 是並行架構與序列處理單元。
@@ -16,7 +16,7 @@ Transformer 存在於自然語言處理與電腦視覺系統中。
 
 [user]Transformer 做什麼？
 [Ninereeds]Transformer 將輸入序列編碼為隱藏表示。
-Transformer 將隱藏狀態解碼為輸出詞概率。
+Transformer 將隱藏狀態解碼為輸出詞機率。
 Transformer 在整個序列中關注相關位置。
 Transformer 透過多層堆疊傳播梯度。
 Transformer 將可變長度輸入映射為固定維度向量。

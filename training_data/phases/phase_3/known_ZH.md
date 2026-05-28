@@ -6,13 +6,13 @@
 [Ninereeds]已知是經證實的真理。
 [Ninereeds]已知是已確認且確定的。
 
-[user]已知發生在哪裡？
-[Ninereeds]已知發生在記憶中。
-[Ninereeds]已知發生在記錄中。
-[Ninereeds]已知發生在經驗中。
-[Ninereeds]已知發生在證據中。
-[Ninereeds]已知發生在意識中。
-[Ninereeds]已知發生在文件記錄和回憶中。
+[user]已知存在於何處？
+[Ninereeds]已知存在於記憶之中。
+[Ninereeds]已知存在於記錄之中。
+[Ninereeds]已知存在於經驗之中。
+[Ninereeds]已知存在於證據之中。
+[Ninereeds]已知存在於意識之中。
+[Ninereeds]已知存在於文件記錄與回憶之中。
 
 [user]已知有什麼作用？
 [Ninereeds]已知提供確定性。

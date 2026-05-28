@@ -8,11 +8,11 @@
 
 [user]「don't」はどこに現れるか？
 [Ninereeds]「don't」は書かれる。
-「don't」は話される。
+「don't」は話し言葉である。
 「don't」は指示的である。
 「don't」は禁止的である。
 「don't」は会話的である。
-「don't」は書かれ、話される。
+「don't」は書き言葉および話し言葉である。
 
 [user]「don't」は何をするか？
 [Ninereeds]「don't」は制限的である。

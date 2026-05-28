@@ -274,7 +274,7 @@ def process_tree(
     """
     stats = DirStats(label=label)
     for path in sorted(directory.rglob(pattern)):
-        if path.name in {"manifest.md", "lexicon.md", "prepositions.md"}:
+        if path.name in {"manifest.md", "lexicon.md", "prepositions.md", "bridge_design.md"}:
             continue
         raw = path.read_text(encoding="utf-8", errors="replace")
         cleaned, issues = checker(raw)

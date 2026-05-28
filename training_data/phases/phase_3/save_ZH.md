@@ -9,18 +9,18 @@ save是保持安全與拯救。
 [user]save出現在何處？
 [Ninereeds]save出現在緊急情況中。
 save出現在遊戲中。
-save出現在金錢中。
-save出現在自然界中。
+save與金錢有關。
+save與自然有關。
 save出現在電腦中。
 save出現在緊急情況與遊戲中。
 
 [user]save有什麼作用？
 [Ninereeds]save防止傷害。
-save保持事物可用。
+save讓事物得以保留使用。
 save儲存價值。
 save確保未來使用。
 save帶來安全感。
-save防止傷害並保持可用。
+save能防止傷害並確保事物可供使用。
 
 [user]save帶來什麼？
 [Ninereeds]save是為了安全。

@@ -1,7 +1,7 @@
-[user]Was bedeutet settle?
-[Ninereeds]Settle bedeutet, stabil zu machen.
-Settle bedeutet, zu lösen.
-Settle bedeutet, zu beruhigen.
-Settle bedeutet, zu etablieren.
-Settle bedeutet, zu bezahlen.
-Settle bedeutet, stabil zu machen und zu lösen.
+[user]Was bedeutet etwas regeln?
+[Ninereeds]Etwas regeln bedeutet, stabil zu machen.
+Etwas regeln bedeutet, zu lösen.
+Etwas regeln bedeutet, zu beruhigen.
+Etwas regeln bedeutet, zu etablieren.
+Etwas regeln bedeutet, zu bezahlen.
+Etwas regeln bedeutet, stabil zu machen und zu lösen.

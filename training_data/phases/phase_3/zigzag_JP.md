@@ -17,7 +17,7 @@ zigzagはスイッチバックと模様にある。
 [user]zigzagは何をするか？
 [Ninereeds]zigzagは方向を素早く変える。
 zigzagは登りの急勾配を和らげる。
-zigzagは狭い角を通過する。
+zigzagは急な曲がり角を縫うように進む。
 zigzagはぎざぎざの刃で切る。
 zigzagは力を分散する。
 zigzagは方向を変え勾配を和らげる。
@@ -26,6 +26,6 @@ zigzagは方向を変え勾配を和らげる。
 [Ninereeds]zigzagは急な地形を登るためのものである。
 zigzagは装飾的な縁取りを作るためのものである。
 zigzagは木を切るためのものである。
-zigzagは電気を描くためのものである。
+zigzagは電気を表現するためのものである。
 zigzagは運転者に警告するためのものである。
 zigzagは登山と装飾のためのものである。

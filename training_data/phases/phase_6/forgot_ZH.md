@@ -20,10 +20,10 @@
 [Ninereeds]「forgot」在此。
 「forgot」可將記憶缺失置於較早時間。
 「forgot」可幫助句子顯示遺漏的事實。
-「forgot」可標示心靈曾記住某一細節。
+「forgot」可標示曾記住某一細節。
 「forgot」可改變故事的時態。
 「forgot」可引入倒敘。
-「forgot」是用於過去參考的工具與不完整記憶的信號。
+「forgot」是用於指代過去以及表示記憶不完整的標記。
 
 [user]「forgot」像什麼？
 [Ninereeds]「forgot」在此。

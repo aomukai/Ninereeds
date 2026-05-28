@@ -10,7 +10,7 @@ pleaseは丁寧の合図であり、依頼の合図だ。
 [Ninereeds]pleaseは口頭の依頼に現れる。
 pleaseは書面の訴えに現れる。
 pleaseは丁寧な命令に現れる。
-pleaseは優しい招待に現れる。
+pleaseは穏やかな勧誘に現れる。
 pleaseは正式な請願に現れる。
 pleaseは日常会話と公式文書に現れる。
 

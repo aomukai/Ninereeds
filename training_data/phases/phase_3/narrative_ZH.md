@@ -3,7 +3,7 @@
 「Narrative」是結構化的故事。
 「Narrative」是被講述的記述。
 「Narrative」是連結的鏈條。
-「Narrative」是精心設計的弧線。
+「Narrative」是精心設計的情節走向。
 「Narrative」是進程與設計。
 
 [user]「Narrative」發生在哪裡？

@@ -3,7 +3,7 @@
 「Would」出現在文字中。
 「Would」有字母。
 「Would」被書寫。
-「Would」被口說。
+「Would」用於口語。
 「Would」是一個詞語和一個概念。
 
 [user]在哪裡可以找到「would」？

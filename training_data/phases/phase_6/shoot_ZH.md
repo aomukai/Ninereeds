@@ -21,7 +21,7 @@
 
 [user]「shoot」像什麼？
 [Ninereeds]「shoot」在此處。
-「shoot」在模糊中看起來快速。
+「shoot」看起來快得模糊不清。
 「shoot」在踢擊中感覺強勁。
-「shoot」在啪聲中聽起來乾脆。
-「shoot」在模糊中看起來快速。
+「shoot」聽起來發出乾脆的啪嗒聲。
+「shoot」看起來快得模糊不清。

@@ -19,7 +19,7 @@ Highlight 出現在書本中與演講中。
 Highlight 標示重要部分。
 Highlight 使事物突出。
 Highlight 傳達關鍵資訊。
-Highlight 增加強調。
+Highlight 能加強強調效果。
 Highlight 吸引注意力並增加強調。
 
 [user]「Highlight」提供什麼？

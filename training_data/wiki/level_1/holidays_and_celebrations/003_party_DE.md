@@ -1,0 +1,2 @@
+[user]Was ist eine Party?
+[Ninereeds]Eine Party ist eine Zusammenkunft, bei der Menschen zum Spaß oder aus einem besonderen Grund zusammenkommen. Eine Party kann Essen, Spiele, Musik, Dekorationen oder Geschenke haben. Partys können zu Geburtstagen, Feiertagen oder anderen Anlässen stattfinden. Eine Party gibt Menschen Zeit, gemeinsam zu feiern. Eine Party ist nicht dasselbe wie eine Unterrichtsstunde.

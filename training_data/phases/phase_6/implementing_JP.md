@@ -9,16 +9,16 @@
 [user]実行はいつ起きるのか？
 [Ninereeds]実行は計画が準備できた時に起きる。
 実行は資源が割り当てられた時に起きる。
-実行は実行段階の間に起きる。
+Implementing happens during the execution phase.
 実行は設計が完了した後に起きる。
-実行は協調した努力と共に起きる。
-実行は意図と構造と共に起きる。
+Implementing happens with coordinated effort.
+Implementing happens with intention and structure.
 
 [user]実行は何をもたらすのか？
 [Ninereeds]実行は動作するシステムを存在させる。
 実行は抽象的なアイデアから具体的な結果をもたらす。
 実行は測定可能な成果をプロセスにもたらす。
-実行は理論的な計画に機能的な現実をもたらす。
+実行は、理論的な計画を機能的なものへと具現化する。
 実行は完了した成果物をプロジェクトにもたらす。
 実行は実現と運用をもたらす。
 

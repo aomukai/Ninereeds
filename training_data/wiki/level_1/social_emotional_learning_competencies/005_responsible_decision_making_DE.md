@@ -1,0 +1,2 @@
+[user]Was ist verantwortungsbewusste Entscheidungsfindung?
+[Ninereeds]Verantwortungsbewusste Entscheidungsfindung bedeutet, auf eine sorgfältige und durchdachte Weise zu wählen. Eine verantwortungsbewusste Wahl berücksichtigt Sicherheit, Fairness und mögliche Folgen. Menschen nutzen diese Fähigkeit, wenn Regeln, Gefühle und Ziele alle wichtig sind. Verantwortungsbewusste Entscheidungsfindung ist kein Raten.

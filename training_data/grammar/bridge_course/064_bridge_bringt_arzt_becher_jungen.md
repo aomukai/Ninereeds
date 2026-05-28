@@ -17,5 +17,5 @@
 
 Taro brings the doctor the boy's cup.
 Taro bringt dem Arzt den Becher des Jungen.
-太郎が医者に男の子のカップを持ってくる.
-太郎帶給醫生男孩的杯子.
+太郎が医者に男の子のカップを持ってくる。
+太郎帶給醫生男孩的杯子。

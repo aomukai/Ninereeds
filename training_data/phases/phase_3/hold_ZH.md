@@ -3,16 +3,16 @@
 Hold 是手指的緊扣。
 Hold 是手掌的穩定托持。
 Hold 是手臂的安全擁抱。
-Hold 是身體的輕柔搖籃。
+Hold 是對身體的輕柔呵護。
 Hold 是緊握並穩定托持。
 
 [user]「Hold」出現在哪裡？
 [Ninereeds]Hold 發生在手中。
-Hold 發生在腿上。
-Hold 發生在口袋裡。
-Hold 發生在袋子裡。
-Hold 發生在架子上。
-Hold 發生在手中與腿上。
+Hold 出現在腿上。
+Hold 出現在口袋裡。
+Hold 出現在袋子裡。
+Hold 出現在架子上。
+Hold 出現在手中與腿上。
 
 [user]「Hold」做什麼？
 [Ninereeds]Hold 緊握把手。

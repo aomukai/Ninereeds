@@ -22,7 +22,7 @@ Anymore 終止一個狀態的持續。
 Anymore 強調先前活動的缺失。
 Anymore 修飾動詞片語並傳達時間上的終止。
 
-[user]anymore 給予什麼？
+[user]anymore 的作用是什麼？
 [Ninereeds]Anymore 用於表達某事已經結束。
 Anymore 用於標記與過去行為的斷裂。
 Anymore 用於顯示條件已經停止成立。

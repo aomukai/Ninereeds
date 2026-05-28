@@ -2,7 +2,7 @@
 [Ninereeds]Hiss 是空氣的尖銳聲。
 Hiss 是蛇發出的輕柔嘶聲。
 Hiss 是氣體長時間逸出聲。
-Hiss 是蒸汽的扁平噪音。
+Hiss 是蒸汽發出的平穩噪音。
 Hiss 是呼吸的細微漏出聲。
 Hiss 是微弱而短促的聲音。
 
@@ -24,8 +24,8 @@ Hiss 警告威脅並發出憤怒信號。
 
 [user]「Hiss」提供什麼？
 [Ninereeds]Hiss 警告威脅不要靠近。
-Hiss 從熱管傳出蒸汽信號。
-Hiss 從巢穴嚇走掠食者。
+Hiss 是熱管傳出蒸汽的聲響。
+Hiss 的嘶嘶聲從巢穴嚇走掠食者。
 Hiss 從輪胎釋放壓力。
 Hiss 告訴貓遠離。
 Hiss 警告威脅並釋放壓力。

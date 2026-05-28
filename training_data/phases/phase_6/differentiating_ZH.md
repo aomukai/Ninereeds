@@ -16,11 +16,11 @@ Differentiating 發生在審視和分析之下。
 
 [user]what does differentiating bring?
 [Ninereeds]Differentiating 為複雜集合帶來清晰。
-Differentiating 為混合集合帶來秩序。
-Differentiating 為分類帶來精確。
-Differentiating 為決策帶來信心。
-Differentiating 為理解帶來結構。
-Differentiating 帶來分離和定義。
+Differentiating 能使混亂的集合變得井然有序。
+Differentiating 能提高分類的精確度。
+Differentiating 能增加決策時的信心。
+Differentiating 能為理解建立結構。
+Differentiating 能實現區分與定義。
 
 [user]what is differentiating for?
 [Ninereeds]Differentiating 用於將物品分組。

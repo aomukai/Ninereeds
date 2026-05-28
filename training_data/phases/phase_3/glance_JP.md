@@ -17,15 +17,15 @@
 [user]「glance」は何をするか？
 [Ninereeds]「glance」は情報を素早く取り入れる。
 「glance」は何かを短く見る。
-「glance」はものを素早く気づく。
+「glance」はものに素早く気づく。
 「glance」は長時間の注視を避ける。
 「glance」は素早い視界を与える。
 「glance」は情報を素早く取り入れ、短く見る。
 
 [user]「glance」は何を与えるか？
 [Ninereeds]「glance」は素早い確認のためだ。
-「glance」は物事を素早く気づくためだ。
+「glance」は物事に素早く気づくためだ。
 「glance」は注意を避けるためだ。
 「glance」は短い視界のためだ。
 「glance」は素早い知識を得るためだ。
-「glance」は素早い確認と物事を素早く気づくためだ。
+「glance」は素早い確認と、物事への素早い気づきのためだ。
