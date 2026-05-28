@@ -33,6 +33,15 @@ from pathlib import Path
 from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent.parent.parent
+
+# Load .env if present (same as gen_grammar.py)
+_env_file = ROOT / ".env"
+if _env_file.exists():
+    for _line in _env_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _, _v = _line.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip())
 PHASES_ROOT = ROOT / "training_data" / "phases"
 
 MODEL = "deepseek/deepseek-v4-flash"
@@ -49,10 +58,11 @@ LANG_SPECS = {
         "register": (
             "Register — German:\n"
             "- Clear, simple Schulbuch style. Complete sentences throughout.\n"
-            "- [user] turn: translate the question naturally into German.\n"
-            "- [Ninereeds] turn: translate each body line into a complete German sentence.\n"
+            "- [user] turn: express the question in natural German — choose the phrasing a native speaker would use.\n"
+            "- [Ninereeds] turn: express each sentence in natural German. Do NOT translate word-for-word.\n"
+            "  Choose the German expression that carries the same MEANING, even if the words differ.\n"
             "- The last [Ninereeds] line in each block is a summary combining two properties "
-            "  — translate it as a single summary sentence.\n"
+            "  — express it as a natural single summary sentence.\n"
             "- Do NOT use pronouns (er, sie, es, ihn, ihm, sein, ihr, etc.) "
             "  — repeat the noun or name instead.\n"
             "- German articles: der/die/das/ein/eine — use correct gender. "
@@ -65,9 +75,17 @@ LANG_SPECS = {
         "register": (
             "Register — Japanese:\n"
             "- Plain form (だ/である style). No ですます form anywhere.\n"
-            "- [user] turn: translate the question naturally into Japanese, plain form.\n"
-            "- [Ninereeds] turn: translate each body line into a complete Japanese sentence.\n"
-            "- The last [Ninereeds] line in each block is a summary — translate as one summary sentence.\n"
+            "- [user] turn: express the question in natural Japanese — choose the phrasing a native speaker would use.\n"
+            "- [Ninereeds] turn: express each sentence in natural Japanese. Do NOT translate word-for-word.\n"
+            "  Choose the Japanese expression that carries the same MEANING, even if the words differ.\n"
+            "- CRITICAL: choose verbs appropriate for the SUBJECT. Inanimate objects (stones, acorns, caps, etc.)\n"
+            "  do NOT sit (座る), land (着地する/降りる), or perform human actions.\n"
+            "  Use ある for location/existence, 生える for things that grow, 落ちる for falling, etc.\n"
+            "  BAD: どんぐりは土の上に座る  GOOD: どんぐりは土の上にある\n"
+            "  BAD: どんぐりは地面に着地する  GOOD: どんぐりは地面に落ちる\n"
+            "- CRITICAL: do NOT calque structural English phrases. Express the underlying meaning naturally.\n"
+            "  BAD: 丸い上部を持つ (calque of 'has a round top')  GOOD: 上部が丸い\n"
+            "- The last [Ninereeds] line in each block is a summary — express it as one natural summary sentence.\n"
             "- Do NOT use pronouns (それ、その、彼、彼女、etc.) — repeat the noun instead.\n"
             "- No romaji. Use correct counters. Short, natural sentences.\n"
             "- No negation in body lines.\n"
@@ -78,9 +96,16 @@ LANG_SPECS = {
         "register": (
             "Register — Traditional Chinese (繁體中文):\n"
             "- TRADITIONAL characters ONLY. Never use Simplified Chinese characters.\n"
-            "- [user] turn: translate the question naturally into written Traditional Chinese.\n"
-            "- [Ninereeds] turn: translate each body line into a complete Chinese sentence.\n"
-            "- The last [Ninereeds] line in each block is a summary — translate as one summary sentence.\n"
+            "- [user] turn: express the question in natural written Traditional Chinese — choose the phrasing a native speaker would use.\n"
+            "- [Ninereeds] turn: express each sentence in natural Traditional Chinese. Do NOT translate word-for-word.\n"
+            "  Choose the Chinese expression that carries the same MEANING, even if the words differ.\n"
+            "- CRITICAL: choose verbs appropriate for the SUBJECT. Inanimate objects (stones, acorns, caps, etc.)\n"
+            "  do NOT sit (坐), land (著陸/降落), or perform human actions.\n"
+            "  Use 在 for location/existence, 生長 for things that grow, 落下 for falling, etc.\n"
+            "  BAD: 橡實坐在泥土上  GOOD: 橡實在泥土上\n"
+            "  BAD: 橡實著陸在地面  GOOD: 橡實落在地面上\n"
+            "- CRITICAL: do NOT calque structural English phrases. Express the underlying meaning naturally.\n"
+            "- The last [Ninereeds] line in each block is a summary — express it as one natural summary sentence.\n"
             "- Do NOT use pronouns (它、牠、他、她、其、etc.) — repeat the noun instead.\n"
             "- Complete sentences. Standard written register.\n"
             "- No negation in body lines.\n"
@@ -92,17 +117,15 @@ STRUCTURAL_RULES = """\
 Structural rules (apply to ALL languages):
 - Keep [user] and [Ninereeds] tags EXACTLY as written — same capitalisation, no changes.
 - Preserve the exact number of [user]/[Ninereeds] pairs from the source file.
-- Each [Ninereeds] block must have the SAME NUMBER OF LINES as in the source.
-  The source has 6 lines per [Ninereeds] block — your translation must also have 6 lines.
-- ONE SENTENCE PER LINE. Do NOT combine multiple sentences onto a single line.
-  Each translated sentence goes on its own line, exactly as in the source.
+- Each [Ninereeds] block must have the EXACT SAME NUMBER OF LINES as the corresponding source block.
+  Count the lines in the source block and produce the SAME count — no more, no fewer.
+- LINE MAPPING IS 1-TO-1: each source line becomes exactly one output line.
+  If a source line contains multiple sentences, your translation of that line must also be ONE line
+  (combine the sentences naturally, just as the source does — do NOT split into multiple lines).
 - The [Ninereeds] tag and the first translated sentence are on the SAME line:
     [Ninereeds]First sentence here.
-    Second sentence here.
-    Third sentence here.
-    Fourth sentence here.
-    Fifth sentence here.
-    Sixth sentence here.
+    Second line here.
+    Third line here.
 - Blank lines between blocks must be preserved exactly as in the source.
 - Do not add extra lines, headings, or explanatory text.
 - Output ONLY the translated file content — no preamble, no section headers.

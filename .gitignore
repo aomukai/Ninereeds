@@ -18,8 +18,9 @@ patch1.diff
 filelist.*
 chat/
 
-# Temporary outputs
+# Temporary outputs (audit logs are kept)
 tmp/
+!tmp/audit_*.jsonl
 
 # Training corpus build artifacts (regenerate with build_training_corpus.py)
 training/corpus/*.txt

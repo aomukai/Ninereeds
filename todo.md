@@ -402,45 +402,98 @@ This is not part of run_13 unless explicitly scoped later.
 
 ## Phase G — Phase Corpus Localization
 
-Status: **IN PROGRESS — Linux session 2026-05-28.** 3 nohup processes running (PIDs 9584/9585/9586).
+Status: **COMPLETE 2026-05-28.** All 5806 × 3 languages done.
 
-Counts at session start (after Windows runaway workers + pull):
+| Lang | Done | Status |
+|---|---:|---|
+| DE | 5806/5806 | done |
+| JP | 5806/5806 | done |
+| ZH | 5806/5806 | done |
 
-| Lang | Done | Remaining |
-|---|---:|---:|
-| DE | 5546 | 260 |
-| JP | 1910 | 3896 |
-| ZH | 2168 | 3638 |
+Prompt fix applied during this session: `localize_phases.py` uses "localize naturally" (not
+"translate"), anti-calque guidance with JP/ZH examples, corrected `STRUCTURAL_RULES` (removed
+hardcoded "6 lines", clarified 1-to-1 line mapping).
 
-**API key note:** `localize_phases.py` does not call `load_dotenv`. Key must be passed explicitly:
+---
 
-```bash
-KEY=$(python3 -c "import re; m=re.search(r'OPENROUTER_API_KEY=(\S+)', open('.env').read()); print(m.group(1))")
-OPENROUTER_API_KEY="$KEY" nohup python3 meta/scripts/localize_phases.py gen \
-  --phase all --lang DE --workers 4 >> tmp/localize_DE.log 2>&1 &
-OPENROUTER_API_KEY="$KEY" nohup python3 meta/scripts/localize_phases.py gen \
-  --phase all --lang JP --workers 4 >> tmp/localize_JP.log 2>&1 &
-OPENROUTER_API_KEY="$KEY" nohup python3 meta/scripts/localize_phases.py gen \
-  --phase all --lang ZH --workers 4 >> tmp/localize_ZH.log 2>&1 &
+## Phase G2 — Naturalness Audit
+
+Status: **IN PROGRESS — 2026-05-28.** Audit logs committed. Resume on next Linux session.
+
+### Audit scripts
+
+```
+meta/scripts/audit_localizations.py   -- detect; writes JSONL to tmp/audit_<lang>_<corpus>.jsonl
+meta/scripts/fix_localizations.py     -- repair from audit log (prompt needs surgical-substitution update before use)
 ```
 
-Check progress:
+Always run with `python3 -B` to bypass stale .pyc files (critical — caused silent bugs).
+
+### Audit log state (as of 2026-05-28 shutdown)
+
+| Corpus | Lang | Files | Status | Flagged |
+|---|---|---|---|---|
+| reasoning | JP | 27 | **COMPLETE** | 0 |
+| reasoning | ZH | 27 | **COMPLETE** | 0 |
+| grounded | JP | 48 | needs re-run (was partial mid-bug) | — |
+| grounded | ZH | 48 | needs re-run (was partial mid-bug) | — |
+| triplets | JP | 1345 | **COMPLETE** | 753 |
+| triplets | ZH | 1345 | **COMPLETE** | 302 |
+| phases | JP | 5806 | **2477/5806 (43%)** — killed at shutdown | 2468 |
+| phases | ZH | 5806 | not started | — |
+
+Phase files have a very high flag rate (~99%) — they were generated before the 2026-05-28
+naturalness prompt fix and contain systematic calques (持つ, 座る, 着地する for inanimate objects).
+Triplet stories are mostly clean. Reasoning/grounded are fully clean.
+
+Audit log files committed to git: `tmp/audit_JP_phases.jsonl`, `tmp/audit_JP_triplets.jsonl`,
+`tmp/audit_ZH_triplets.jsonl`.
+
+### Resume (next Linux session)
 
 ```bash
-python3 meta/scripts/localize_phases.py report
+# Step 0: check current state
+python3 -B meta/scripts/audit_localizations.py report
+
+# Step 1: re-run grounded (small corpus, fast — ~10 min local)
+nohup python3 -B meta/scripts/audit_localizations.py run \
+  --corpus grounded --lang JP,ZH --local --workers 2 >> tmp/audit_grounded.log 2>&1 &
+
+# Step 2: continue phases JP + start phases ZH (long — 3300+ files each, run overnight)
+nohup bash tmp/run_audit.sh >> tmp/audit_overnight2.log 2>&1 &
+# run_audit.sh is configured for: phases JP → phases ZH via --local (LM Studio)
+# It resumes automatically — already-audited files are skipped via JSONL dedup
+
+# Optional: use OpenRouter for speed if local GPU is occupied
+KEY=$(grep OPENROUTER_API_KEY .env | cut -d= -f2-)
+OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py run \
+  --corpus phases --lang JP --model google/gemma-4-26b-a4b-it --workers 4 \
+  >> tmp/audit_phases_JP_openrouter.log 2>&1 &
+OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py run \
+  --corpus phases --lang ZH --model google/gemma-4-26b-a4b-it --workers 4 \
+  >> tmp/audit_phases_ZH_openrouter.log 2>&1 &
 ```
 
-Check processes alive:
+Per-tier corpus keys available for parallel runs (all write to same `audit_<lang>_triplets.jsonl`):
+`--corpus triplets_1`, `triplets_2`, `triplets_3`, `triplets_4`
+
+### Fix pass (after audit logs are complete)
+
+Before running fix pass:
+1. **Update `fix_localizations.py` prompt** to use surgical substitutions — current prompt
+   does a full rewrite. It should send the issue list and ask the model to fix ONLY those
+   lines, keeping everything else unchanged.
+2. Try gemma-e4b locally for repair (same model family as auditor, task is substitution
+   not generation — a small model can handle it).
 
 ```bash
-ps aux | grep localize_phases | grep -v grep
+# After updating fix_localizations.py:
+KEY=$(grep OPENROUTER_API_KEY .env | cut -d= -f2-)
+OPENROUTER_API_KEY="$KEY" python3 -B meta/scripts/fix_localizations.py run \
+  --lang JP --workers 4
+OPENROUTER_API_KEY="$KEY" python3 -B meta/scripts/fix_localizations.py run \
+  --lang ZH --workers 4
 ```
-
-**Resume here (next session):** Check if processes still running. If dead, re-run the launch block above (safe to re-run — skips existing files). Wait for all 3 langs to reach 5806/5806, then commit and proceed to Phase H.
-
-**Bidirectional speedup for JP/ZH (optional):**
-JP and ZH are slow (~6 files/min each at 4 workers). Can run a second process per language
-in reverse order once `--reverse` flag is added to the script. Halves remaining time.
 
 Produces `_DE.md`, `_JP.md`, `_ZH.md` siblings for every English phase file. Skips already-done files; safe to re-run after interruption. Validates `[user]`/`[Ninereeds]` structure and ZH/JP character presence on every output before writing.
 
@@ -507,6 +560,83 @@ Manifest responsibilities:
 
 The corpus builder should prefer manifest order over filesystem order when a
 manifest exists.
+
+---
+
+## Phase I — Adversarial Corpus Critic
+
+Status: **planned** (high-priority after Phase G2 audit/fix pass).
+
+Rationale: the corpus is the only lever on a small model. A single malformed file
+has outsized impact. The current audit/fix pipeline catches naturalness issues, but
+the broader threat is larger: schema breaks, pronoun leakage, Simplified Chinese,
+wrong register, vocabulary outside the allowlist, hallucinated facts, etc.
+
+Design: a full adversarial critic that *assumes the corpus is guilty* and finds
+every place it could poison a tiny model. The critic does NOT fix anything — it
+produces a triage map only.
+
+### Triage verdict levels
+
+| Verdict | Meaning |
+|---|---|
+| `PASS` | No issues found |
+| `PATCH` | Fixable by deterministic script (e.g. strip extra line, wrong tag casing) |
+| `REGENERATE` | File needs full regeneration — broken structure or wrong content |
+| `HUMAN_REVIEW` | Ambiguous; human must decide |
+
+### Reason tags
+
+```
+[STRUCT]          [user]/[Ninereeds] count wrong, tag format broken, wrong line count
+[POS]             Part-of-speech misuse, wrong register, pronoun leaked
+[SEMANTIC_DRIFT]  Meaning has drifted from expected concept definition
+[JP_NATURALNESS]  Calque verb, wrong counter, unnatural expression
+[ZH_SIMPLIFIED]   Simplified Chinese characters found
+[ZH_NATURALNESS]  Calque expression, unnatural phrasing
+[DE_CASE]         Wrong dative/accusative case form
+[ALLOWLIST]       Vocabulary outside inventory/allowlist.txt
+[ABSTRACTION]     Metaphor too abstract for a small model's concept stage
+[NEGATION]        Negation in body lines
+[DUPLICATE]       Duplicate or conflicting concept definition
+[HALLUCINATION]   Factual claim that is wrong or unverifiable
+```
+
+### Architecture
+
+Three-tier pipeline:
+
+1. **Deterministic pre-screen** (Python, no API call) — catches `[STRUCT]`, `[ZH_SIMPLIFIED]`,
+   `[NEGATION]`, `[ALLOWLIST]` without spending tokens. Emits `PATCH` or `PASS` verdicts
+   directly. Only unknowns go to tier 2.
+
+2. **LLM critic** (DeepSeek, batch) — reviews each file with EN context. Produces
+   `REGENERATE` or `HUMAN_REVIEW` verdicts with reason tags. Cheap models work here
+   because the task is detection, not generation.
+
+3. **Fix dispatcher** — routes `PATCH` verdicts to deterministic scripts (strip_opener.py,
+   tag normalizers, etc.), `REGENERATE` verdicts to the appropriate generator, and
+   `HUMAN_REVIEW` verdicts to a human-readable triage queue.
+
+### Output
+
+```
+tmp/critic_triage.jsonl       — one record per file: {file, verdict, tags, detail}
+tmp/critic_patch_queue.txt    — files needing deterministic patch
+tmp/critic_regen_queue.txt    — files needing regeneration
+tmp/critic_human_queue.txt    — files needing human review
+```
+
+### Coverage
+
+Apply to all corpus layers in priority order:
+1. `training_data/phases/` (phase_1–6, all languages) — highest training weight
+2. `training_data/grammar/` (new; grammar errors poison case learning)
+3. `training_data/lang/` (lang_1–5)
+4. `training_data/triplet_stories/` (naturalness + vocabulary)
+5. `training_data/reasoning/`, `training_data/philosophy/` (lower priority)
+
+Implementation: `meta/scripts/corpus_critic.py`
 
 ---
 
