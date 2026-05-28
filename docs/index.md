@@ -12,9 +12,9 @@ Read this when you're not sure where something lives.
 
 | What | Where |
 |---|---|
-| Session startup procedure | `CLAUDE.md` |
+| Session startup procedure | `CLAUDE.md` or `CODEX.md` respectively |
 | Active work queue | `todo.md` |
-| Training step-by-step | `docs/training.md` |
+| Training step-by-step | `training/docs/training.md` |
 | Completed phases (history) | `archive/milestones/2026-05-29_corpus_milestone.md` |
 
 ---
@@ -75,7 +75,7 @@ Read this when you're not sure where something lives.
 | Eval harness | `eval.py` (root) |
 | Probe script | `meta/scripts/probe.py` |
 | Prompt shaper | `prompt_shaper.py` (root) |
-| Shaped score definition | `docs/training.md` (Shaped score section) |
+| Shaped score definition | `training/docs/training.md` (Shaped score section) |
 | Probe questions per run | `training/logs/run_N_report.md` |
 
 ---
@@ -86,7 +86,7 @@ Read this when you're not sure where something lives.
 |---|---|
 | Model definition | `bdh.py` (root) — **do not modify** |
 | Core weights | `core/` — **do not modify** |
-| Scale options | `docs/training.md` (Scale section) |
+| Scale options | `training/docs/training.md` (Scale section) |
 | LoRA adapters | `loras/` |
 | Memory / activation study | `memory/project_scaling_study.md` |
 
@@ -125,8 +125,8 @@ but are split by role because the agents are not equal.
 
 | Agent | File | Purpose |
 |---|---|---|
-| Claude | `CLAUDE.md` | Session startup, dispatch policy, tool map, hard constraints |
-| Codex | `CODEX.md` | Session guide for when Claude hits rate limits and Codex takes over |
+| Claude | `CLAUDE.md` | Session startup, dispatch policy, tool map, hard constraints when Claude is the orchestrator |
+| Codex | `CODEX.md` | Session startup, dispatch policy, tool map, hard constraints when Codex is the Orchestrator |
 | DeepSeek | `DEEPSEEK.md` | Worker role: bulk corpus generation, what DeepSeek does and does not decide |
 
 ---
