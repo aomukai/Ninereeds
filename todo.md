@@ -393,8 +393,18 @@ Localization constraints:
 - DE: clear Schulbuch style
 - JP: plain form, no romaji
 - ZH: Traditional Chinese
-- preserve concept meaning, not literal English syntax
+- **Preserve the meaning, not the wording.** Natural language in the target, not a translation
+  of English syntax. A native speaker should not be able to tell this came from English.
 - avoid adding new facts unless needed for natural localization
+
+**Prompt design principle (critical — learned from phase localization mistakes):**
+The prompt must explicitly say "localize naturally" not "translate". Anti-calque examples
+should be in the prompt for JP and ZH. The phase audit revealed that "translate" produces
+systematic calques (持つ for inanimate features, 着地する for non-aircraft, etc.). The wiki
+localization must not repeat this. Use the same naturalness guidance that was added to
+`localize_phases.py` after the 2026-05-28 prompt fix.
+
+**Planned run:** DeepSeek overnight Thu 2026-05-29 → Fri 2026-05-30.
 
 This is not part of run_13 unless explicitly scoped later.
 
@@ -418,18 +428,22 @@ hardcoded "6 lines", clarified 1-to-1 line mapping).
 
 ## Phase G2 — Naturalness Audit
 
-Status: **IN PROGRESS — 2026-05-28.** Audit logs committed. Resume on next Linux session.
+Status: **IN PROGRESS — 2026-05-28.** Audit logs committed. Resume requires valid OpenRouter key.
 
 ### Audit scripts
 
 ```
-meta/scripts/audit_localizations.py   -- detect; writes JSONL to tmp/audit_<lang>_<corpus>.jsonl
-meta/scripts/fix_localizations.py     -- repair from audit log (prompt needs surgical-substitution update before use)
+meta/scripts/audit_localizations.py      -- Linux (original); detect; writes JSONL to tmp/audit_<lang>_<corpus>.jsonl
+meta/scripts/audit_localizations_win.py  -- Windows variant; same logic + UTF-8 console fix + POSIX path keys
+meta/scripts/fix_localizations.py        -- repair from audit log (prompt needs surgical-substitution update before use)
 ```
 
 Always run with `python3 -B` to bypass stale .pyc files (critical — caused silent bugs).
 
-### Audit log state (as of 2026-05-28 shutdown)
+**OpenRouter key status (2026-05-28):** key in `.env` returns 401 "User not found" for all models.
+Needs renewal before audit can resume. Renew at openrouter.ai, update `.env` `OPENROUTER_API_KEY`.
+
+### Audit log state (as of 2026-05-28)
 
 | Corpus | Lang | Files | Status | Flagged |
 |---|---|---|---|---|
@@ -439,8 +453,8 @@ Always run with `python3 -B` to bypass stale .pyc files (critical — caused sil
 | grounded | ZH | 48 | needs re-run (was partial mid-bug) | — |
 | triplets | JP | 1345 | **COMPLETE** | 753 |
 | triplets | ZH | 1345 | **COMPLETE** | 302 |
-| phases | JP | 5806 | **2477/5806 (43%)** — killed at shutdown | 2468 |
-| phases | ZH | 5806 | not started | — |
+| phases | JP | 5806 | **2477/5806 (43%)** — log clean, ready to resume | 2468 |
+| phases | ZH | 5806 | not started — log empty, ready to start | — |
 
 Phase files have a very high flag rate (~99%) — they were generated before the 2026-05-28
 naturalness prompt fix and contain systematic calques (持つ, 座る, 着地する for inanimate objects).
@@ -449,22 +463,18 @@ Triplet stories are mostly clean. Reasoning/grounded are fully clean.
 Audit log files committed to git: `tmp/audit_JP_phases.jsonl`, `tmp/audit_JP_triplets.jsonl`,
 `tmp/audit_ZH_triplets.jsonl`.
 
-### Resume (next Linux session)
+### Resume
 
+**On Windows** (requires valid OpenRouter key):
+```
+python3 -B meta/scripts/audit_localizations_win.py run --corpus phases --lang JP --model google/gemma-4-26b-a4b-it --workers 4 >> tmp/audit_phases_JP_openrouter.log 2>&1
+python3 -B meta/scripts/audit_localizations_win.py run --corpus phases --lang ZH --model google/gemma-4-26b-a4b-it --workers 4 >> tmp/audit_phases_ZH_openrouter.log 2>&1
+```
+Run both in parallel (background processes or separate terminals).
+
+**On Linux** (OpenRouter or local):
 ```bash
-# Step 0: check current state
-python3 -B meta/scripts/audit_localizations.py report
-
-# Step 1: re-run grounded (small corpus, fast — ~10 min local)
-nohup python3 -B meta/scripts/audit_localizations.py run \
-  --corpus grounded --lang JP,ZH --local --workers 2 >> tmp/audit_grounded.log 2>&1 &
-
-# Step 2: continue phases JP + start phases ZH (long — 3300+ files each, run overnight)
-nohup bash tmp/run_audit.sh >> tmp/audit_overnight2.log 2>&1 &
-# run_audit.sh is configured for: phases JP → phases ZH via --local (LM Studio)
-# It resumes automatically — already-audited files are skipped via JSONL dedup
-
-# Optional: use OpenRouter for speed if local GPU is occupied
+# OpenRouter (fast, parallel)
 KEY=$(grep OPENROUTER_API_KEY .env | cut -d= -f2-)
 OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py run \
   --corpus phases --lang JP --model google/gemma-4-26b-a4b-it --workers 4 \
@@ -472,28 +482,44 @@ OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py r
 OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py run \
   --corpus phases --lang ZH --model google/gemma-4-26b-a4b-it --workers 4 \
   >> tmp/audit_phases_ZH_openrouter.log 2>&1 &
+
+# Local LM Studio (no API cost)
+nohup python3 -B meta/scripts/audit_localizations.py run \
+  --corpus phases --lang JP --local --workers 2 >> tmp/audit_phases_JP_local.log 2>&1 &
+nohup python3 -B meta/scripts/audit_localizations.py run \
+  --corpus phases --lang ZH --local --workers 2 >> tmp/audit_phases_ZH_local.log 2>&1 &
 ```
+
+Note: `grounded_stories/` directory does not exist — skip grounded audit entirely.
 
 Per-tier corpus keys available for parallel runs (all write to same `audit_<lang>_triplets.jsonl`):
 `--corpus triplets_1`, `triplets_2`, `triplets_3`, `triplets_4`
 
 ### Fix pass (after audit logs are complete)
 
-Before running fix pass:
-1. **Update `fix_localizations.py` prompt** to use surgical substitutions — current prompt
-   does a full rewrite. It should send the issue list and ask the model to fix ONLY those
-   lines, keeping everything else unchanged.
-2. Try gemma-e4b locally for repair (same model family as auditor, task is substitution
-   not generation — a small model can handle it).
+**Model: `google/gemma-4-E4B-it` running locally in LM Studio** (~2.5–3 GB VRAM with Q4).
+This is free and fast — the audit has already done the thinking; the fix is mechanical substitution.
+
+Adapt `fix_localizations.py` on Linux:
+1. Load via LM Studio local endpoint (same pattern as `--local` in audit script).
+2. Disable thinking: `enable_thinking=False` in the generate call / system prompt.
+3. Replace full-rewrite prompt with surgical substitution prompt:
+   - Show original file
+   - Show issue list as `[{"line": "...", "suggestion": "..."}]`
+   - Instruct: output the file with ONLY those exact lines replaced, nothing else changed
+4. Keep existing structure validator (`[user]`/`[Ninereeds]` count + JP/ZH char check).
 
 ```bash
-# After updating fix_localizations.py:
-KEY=$(grep OPENROUTER_API_KEY .env | cut -d= -f2-)
-OPENROUTER_API_KEY="$KEY" python3 -B meta/scripts/fix_localizations.py run \
-  --lang JP --workers 4
-OPENROUTER_API_KEY="$KEY" python3 -B meta/scripts/fix_localizations.py run \
-  --lang ZH --workers 4
+# After updating fix_localizations.py for gemma-4-E4B-it:
+python3 -B meta/scripts/fix_localizations.py run --lang JP --local --workers 4
+python3 -B meta/scripts/fix_localizations.py run --lang ZH --local --workers 4
 ```
+
+**Timeline (as of 2026-05-28):**
+- Phase audit: running now (Windows, OpenRouter)
+- Fix pass: Linux session, gemma-4-E4B-it local
+- Wiki localization: DeepSeek overnight run Thu→Fri
+- Weekend: training run(s)
 
 Produces `_DE.md`, `_JP.md`, `_ZH.md` siblings for every English phase file. Skips already-done files; safe to re-run after interruption. Validates `[user]`/`[Ninereeds]` structure and ZH/JP character presence on every output before writing.
 
