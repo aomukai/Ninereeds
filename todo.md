@@ -6,24 +6,14 @@ Active work queue. See `docs/training.md` for the full procedure.
 
 ## Current Direction
 
-The next work is curriculum expansion and ordering, not another immediate
-training run.
+Corpus is in good shape. Localisation and audit backlog is clear.
+Active tasks in priority order:
 
-Core shift:
-
-- move from topic-first ordering toward function-first curriculum design
-- preserve deterministic training order instead of shuffling windows
-- add a dedicated multilingual grammar corpus
-- prepare wiki and phase corpora for finer-grained sequencing and multilingual
-  concept anchoring
-
-Primary design reference:
-
-- `docs/grammar_plan.md`
-
-Primary new corpus root:
-
-- `training_data/grammar/`
+1. **Phase J** — Grounded story generation (running now, 49–195 × 4 langs)
+2. **Phase D** — Run 13: grammar-ordered corpus, sequential training
+3. **Phase I** — Adversarial corpus critic (before run 13 if time allows)
+4. **Phase E/H** — Wiki split + ordering manifests (lower urgency now that
+   wiki is localized)
 
 ---
 
@@ -363,50 +353,22 @@ Validation:
 
 ## Phase F — Wiki Localization
 
-Status: planned after wiki split.
+Status: **COMPLETE 2026-05-29.**
 
-Rationale:
+Localized the wiki in its existing level structure (levels 1–4) rather than
+waiting for the split. 2110 EN source files × DE/JP/ZH = 6330 new files.
 
-- current wiki is English-only
-- lang/reasoning/stories/philosophy are already multilingual
-- English-only wiki biases concept definitions toward English retrieval
+| Level | EN files | DE | JP | ZH |
+|---|---:|---:|---:|---:|
+| 1 | 1971 | 1971 | 1971 | 1971 |
+| 2 | 102 | 102 | 102 | 102 |
+| 3 | 19 | 19 | 19 | 19 |
+| 4 | 18 | 18 | 18 | 18 |
 
-Plan:
-
-- localize split wiki units selectively, not all at once
-- start with concepts relevant to grammar, spatial relations, actions, source,
-  target, ownership, and change
-- keep English concept slug as folder name
-
-Preferred structure:
-
-```text
-training_data/wiki_split/wiki_1/STEM/hot/
-  EN.md
-  DE.md
-  JP.md
-  ZH.md
-```
-
-Localization constraints:
-
-- DE: clear Schulbuch style
-- JP: plain form, no romaji
-- ZH: Traditional Chinese
-- **Preserve the meaning, not the wording.** Natural language in the target, not a translation
-  of English syntax. A native speaker should not be able to tell this came from English.
-- avoid adding new facts unless needed for natural localization
-
-**Prompt design principle (critical — learned from phase localization mistakes):**
-The prompt must explicitly say "localize naturally" not "translate". Anti-calque examples
-should be in the prompt for JP and ZH. The phase audit revealed that "translate" produces
-systematic calques (持つ for inanimate features, 着地する for non-aircraft, etc.). The wiki
-localization must not repeat this. Use the same naturalness guidance that was added to
-`localize_phases.py` after the 2026-05-28 prompt fix.
-
-**Planned run:** DeepSeek overnight Thu 2026-05-29 → Fri 2026-05-30.
-
-This is not part of run_13 unless explicitly scoped later.
+Script: `meta/scripts/localize_wiki.py`
+Naturalness-first prompt with anti-calque rules for JP/ZH.
+Phase E (wiki split) remains useful for curriculum ordering but is no longer
+a prerequisite for multilingual training.
 
 ---
 
@@ -426,140 +388,18 @@ hardcoded "6 lines", clarified 1-to-1 line mapping).
 
 ---
 
-## Phase G2 — Naturalness Audit
+## Phase G2 — Naturalness Audit and Repair
 
-Status: **IN PROGRESS — 2026-05-28.** Audit logs committed. Resume requires valid OpenRouter key.
+Status: **COMPLETE 2026-05-29.**
 
-### Audit scripts
-
-```
-meta/scripts/audit_localizations.py      -- Linux (original); detect; writes JSONL to tmp/audit_<lang>_<corpus>.jsonl
-meta/scripts/audit_localizations_win.py  -- Windows variant; same logic + UTF-8 console fix + POSIX path keys
-meta/scripts/fix_localizations.py        -- repair from audit log (prompt needs surgical-substitution update before use)
-```
-
-Always run with `python3 -B` to bypass stale .pyc files (critical — caused silent bugs).
-
-**OpenRouter key status (2026-05-28):** key in `.env` returns 401 "User not found" for all models.
-Needs renewal before audit can resume. Renew at openrouter.ai, update `.env` `OPENROUTER_API_KEY`.
-
-### Audit log state (as of 2026-05-28)
-
-| Corpus | Lang | Files | Status | Flagged |
+| Corpus | Lang | Files | Fixed | Notes |
 |---|---|---|---|---|
-| reasoning | JP | 27 | **COMPLETE** | 0 |
-| reasoning | ZH | 27 | **COMPLETE** | 0 |
-| grounded | JP | 48 | needs re-run (was partial mid-bug) | — |
-| grounded | ZH | 48 | needs re-run (was partial mid-bug) | — |
-| triplets | JP | 1345 | **COMPLETE** | 753 |
-| triplets | ZH | 1345 | **COMPLETE** | 302 |
-| phases | JP | 5806 | **2477/5806 (43%)** — log clean, ready to resume | 2468 |
-| phases | ZH | 5806 | not started — log empty, ready to start | — |
+| phases | JP | 5806/5806 | 5292 auto + 3 manual | done |
+| phases | ZH | 5806/5806 | 3087 auto + 2 accepted + 2 manual | done |
+| grammar | — | 66 lines | deterministic | CJK terminal punctuation |
 
-Phase files have a very high flag rate (~99%) — they were generated before the 2026-05-28
-naturalness prompt fix and contain systematic calques (持つ, 座る, 着地する for inanimate objects).
-Triplet stories are mostly clean. Reasoning/grounded are fully clean.
-
-Audit log files committed to git: `tmp/audit_JP_phases.jsonl`, `tmp/audit_JP_triplets.jsonl`,
-`tmp/audit_ZH_triplets.jsonl`.
-
-### Resume
-
-**On Windows** (requires valid OpenRouter key):
-```
-python3 -B meta/scripts/audit_localizations_win.py run --corpus phases --lang JP --model google/gemma-4-26b-a4b-it --workers 4 >> tmp/audit_phases_JP_openrouter.log 2>&1
-python3 -B meta/scripts/audit_localizations_win.py run --corpus phases --lang ZH --model google/gemma-4-26b-a4b-it --workers 4 >> tmp/audit_phases_ZH_openrouter.log 2>&1
-```
-Run both in parallel (background processes or separate terminals).
-
-**On Linux** (OpenRouter or local):
-```bash
-# OpenRouter (fast, parallel)
-KEY=$(grep OPENROUTER_API_KEY .env | cut -d= -f2-)
-OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py run \
-  --corpus phases --lang JP --model google/gemma-4-26b-a4b-it --workers 4 \
-  >> tmp/audit_phases_JP_openrouter.log 2>&1 &
-OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/audit_localizations.py run \
-  --corpus phases --lang ZH --model google/gemma-4-26b-a4b-it --workers 4 \
-  >> tmp/audit_phases_ZH_openrouter.log 2>&1 &
-
-# Local LM Studio (no API cost)
-nohup python3 -B meta/scripts/audit_localizations.py run \
-  --corpus phases --lang JP --local --workers 2 >> tmp/audit_phases_JP_local.log 2>&1 &
-nohup python3 -B meta/scripts/audit_localizations.py run \
-  --corpus phases --lang ZH --local --workers 2 >> tmp/audit_phases_ZH_local.log 2>&1 &
-```
-
-Note: `grounded_stories/` directory does not exist — skip grounded audit entirely.
-
-Per-tier corpus keys available for parallel runs (all write to same `audit_<lang>_triplets.jsonl`):
-`--corpus triplets_1`, `triplets_2`, `triplets_3`, `triplets_4`
-
-### Fix pass (after audit logs are complete)
-
-**Model: `google/gemma-4-E4B-it` running locally in LM Studio** (~2.5–3 GB VRAM with Q4).
-This is free and fast — the audit has already done the thinking; the fix is mechanical substitution.
-
-Adapt `fix_localizations.py` on Linux:
-1. Load via LM Studio local endpoint (same pattern as `--local` in audit script).
-2. Disable thinking: `enable_thinking=False` in the generate call / system prompt.
-3. Replace full-rewrite prompt with surgical substitution prompt:
-   - Show original file
-   - Show issue list as `[{"line": "...", "suggestion": "..."}]`
-   - Instruct: output the file with ONLY those exact lines replaced, nothing else changed
-4. Keep existing structure validator (`[user]`/`[Ninereeds]` count + JP/ZH char check).
-
-```bash
-# After updating fix_localizations.py for gemma-4-E4B-it:
-python3 -B meta/scripts/fix_localizations.py run --lang JP --local --workers 4
-python3 -B meta/scripts/fix_localizations.py run --lang ZH --local --workers 4
-```
-
-**Timeline (as of 2026-05-28):**
-- Phase audit: running now (Windows, OpenRouter)
-- Fix pass: Linux session, gemma-4-E4B-it local
-- Wiki localization: DeepSeek overnight run Thu→Fri
-- Weekend: training run(s)
-
-Produces `_DE.md`, `_JP.md`, `_ZH.md` siblings for every English phase file. Skips already-done files; safe to re-run after interruption. Validates `[user]`/`[Ninereeds]` structure and ZH/JP character presence on every output before writing.
-
-Rationale:
-
-- phases 1-6 are the primary concept-definition layer
-- phases are currently English-only
-- multilingual phase variants would anchor early concepts directly in DE/JP/ZH
-
-Current phase size:
-
-| Phase | EN files |
-|---|---:|
-| phase_1 | 1,450 |
-| phase_2 | 740 |
-| phase_3 | 1,387 |
-| phase_4 | 261 |
-| phase_5 | 376 |
-| phase_6 | 1,592 |
-| total | 5,806 |
-
-Full localization adds ~17,418 files (5,806 × 3 languages). The `_2` duplicate files (380 total across all phases) are included — localize them all.
-
-Output naming:
-
-```text
-training_data/phases/phase_1/apple.md
-training_data/phases/phase_1/apple_DE.md
-training_data/phases/phase_1/apple_JP.md
-training_data/phases/phase_1/apple_ZH.md
-```
-
-Rules:
-
-- keep English slug as file stem
-- preserve `[user]` / `[Ninereeds]` structure
-- preserve number of pairs
-- preserve the teaching rhythm
-- do not add uncontrolled vocabulary
-- localize naturally, not word-for-word
+Scripts: `meta/scripts/audit_localizations.py`, `fix_localizations.py`
+Audit logs: `tmp/audit_JP_phases.jsonl`, `tmp/audit_ZH_phases.jsonl`
 
 ---
 
@@ -663,6 +503,45 @@ Apply to all corpus layers in priority order:
 5. `training_data/reasoning/`, `training_data/philosophy/` (lower priority)
 
 Implementation: `meta/scripts/corpus_critic.py`
+
+---
+
+## Phase J — Grounded Story Generation (49–195)
+
+Status: **RUNNING 2026-05-29.**
+
+World bible and storylist expanded during this session:
+- Cast: Emma, Taro, Gran, Biscuit, Bello
+- Locations: 5 → 12 (added pond bench, garden detail, upstairs, village
+  lane, village, vet, doctor's surgery, sick-at-Gran's)
+- World topology map added to world bible
+- "No source language" rule: each language written independently from spec
+- Storylist: 48 → 195 stories (blocks: new locations, spatial reasoning,
+  temporal reasoning, cause-effect, two-dog dynamics, extended arithmetic,
+  integration)
+
+New metadata fields in storylist: `SPATIAL_CONCEPT`, `TEMPORAL_RELATION`,
+`CAUSE_EFFECT`, `OBSERVATION_STATE` — concept constraints passed to model.
+
+Files: `training/corpus_admin/grounded_stories/world_bible.md`, `storylist.txt`
+Script: `meta/scripts/gen_stories.py`
+
+Generation: 588 jobs (stories 49–195 × EN/DE/JP/ZH), workers=6.
+
+```bash
+KEY=$(grep OPENROUTER_API_KEY .env | cut -d= -f2-)
+OPENROUTER_API_KEY="$KEY" nohup python3 -B meta/scripts/gen_stories.py gen \
+  --lang EN,DE,JP,ZH --workers 6 >> tmp/gen_stories.log 2>&1 &
+```
+
+Report:
+
+```bash
+python3 -B meta/scripts/gen_stories.py report
+```
+
+Stories 196+ (future, not started): object permanence arc, ripple-uncertainty
+arc. See `memory/project_grounded_stories_future.md`.
 
 ---
 
