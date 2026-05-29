@@ -3,7 +3,7 @@
 Combines the training harness design and the step-by-step training manual.
 Single source of truth for how to run, evaluate, and improve the model.
 
-Last updated: 2026-05-23
+Last updated: 2026-05-30
 
 ---
 
@@ -539,64 +539,85 @@ Rules:
 - Justify the choice in one sentence against evidence from the previous report.
 - If you cannot justify from evidence, write `request_more_data`.
 
-**Intervention history (update each run):**
+**Intervention history (update each campaign):**
 
-| Run | Intervention | Peak shaped | Loops | Notes |
+| Campaign | Intervention | Peak shaped | Loops | Notes |
 |---|---|---|---|---|
-| run_1 | baseline | — | — | |
-| run_2 | story fine-tune (separate) | 0.922 | — | E1 catastrophic forgetting |
-| run_3 | L1-D `reorder_curriculum` (stories interleaved) | 0.925 (E2) | 0 | Sweet spot E2 |
-| run_4 | L1-D `reorder_curriculum` (phase semantic cluster) | 0.943 (E4) | 1 | Sweet spot E4; best overall |
-| run_5 | L1-C `oversample_cluster` (reasoning ×4) | 0.924 (E3) | 2 | Arithmetic appeared E2; ×4 too high |
-| run_6 | L1-C `oversample_cluster` (reasoning ×2) | (fill) | (fill) | |
+| 1 | baseline | — | — | |
+| 2 | story fine-tune (separate) | 0.922 | — | E1 catastrophic forgetting |
+| 3 | L1-D `reorder_curriculum` (stories interleaved) | 0.925 (E2) | 0 | Sweet spot E2 |
+| 4 | L1-D `reorder_curriculum` (phase semantic cluster) | 0.943 (E4) | 1 | Sweet spot E4; best overall |
+| 5 | L1-C `oversample_cluster` (reasoning ×4) | 0.924 (E3) | 2 | Arithmetic appeared E2; ×4 too high |
+| 6–12 | (see reports_1-12/) | — | — | |
+| 13 | dependency-ordered curriculum (phases A–E), 25M, per-phase eval | (fill) | (fill) | First phase-by-phase campaign |
 
 ---
 
-### Step 4 — Build the corpus
+### Step 4 — Build the phase corpus
+
+Each campaign trains one phase at a time.  Build a corpus chunk from the JSONL order file:
 
 ```bash
-python meta/scripts/build_training_corpus.py \
-  --output training/corpus/run_N_[name].txt \
-  --report training/corpus/run_N_build_report.txt \
-  [flags]
-```
+CAMPAIGN=13
+PHASE=A   # A, B, C, D, E, grammar, bridge, grounded_stories
 
-**Flag reference:**
-- Semantic cluster ordering: `--cluster-sequence training_data/phases/cluster_sequence.txt`
-- Reasoning oversample ×N: `--oversample-reasoning N`
+python meta/scripts/build_training_corpus.py \
+  --order-file training/training_order/phase_${PHASE}_order.jsonl \
+  --output training/corpus/campaign_${CAMPAIGN}_phase_${PHASE}.txt \
+  --report training/corpus/campaign_${CAMPAIGN}_phase_${PHASE}_report.txt
+```
 
 Verify: output must end with `All files validated — corpus is clean.`
 Do not train on a corpus with skipped files.
 
+**To modify training order:** edit the JSONL file directly — reorder lines, set
+`"probe_after": true` at checkpoints, add/remove units.  Do not regenerate from the
+curriculum graph unless explicitly starting a new ordering experiment.
+
 ---
 
-### Step 5 — Create the report template
+### Step 5 — Create the phase report
 
-Copy the header structure from `training/logs/run_N-1_report.md`.
-Save as `training/logs/run_N_report.md`.
-Fill in the setup table and motivation section.
-Leave all epoch sections as `(fill)`.
+Reports live in `training/logs/campaign_N_reports/`.
+Name: `NN_phase_X.md` where NN is a zero-padded sequence number within the campaign.
+
+```
+training/logs/campaign_13_reports/
+  01_phase_A.md
+  02_phase_B.md
+  03_phase_C.md
+  ...
+```
+
+Copy the header structure from the previous report.  Fill in the setup table and
+motivation section.  Leave all epoch sections as `(fill)`.
 
 ---
 
 ### Step 6 — Launch training
 
 ```bash
+CAMPAIGN=13
+PHASE=A
+
 nohup python train.py \
   --phase 0 \
-  --corpus-file training/corpus/run_N_[name].txt \
-  --output core/run_N_[name].pt \
+  --corpus-file training/corpus/campaign_${CAMPAIGN}_phase_${PHASE}.txt \
+  --output core/campaign_${CAMPAIGN}_phase_${PHASE}.pt \
   --resume checkpoints/[base].pt \
-  --epochs [3 or 5] \
+  --scale-25m \
+  --epochs 3 \
   --epoch-checkpoints \
   --amp-bf16 \
-  > training/logs/run_N_train.log 2>&1 &
+  > training/logs/campaign_${CAMPAIGN}_reports/phase_${PHASE}_train.log 2>&1 &
 ```
 
 Monitor for the first epoch checkpoint:
 ```bash
-until [ -f core/run_N_[name]_e1.pt ]; do sleep 60; done
+until [ -f core/campaign_${CAMPAIGN}_phase_${PHASE}_e1.pt ]; do sleep 60; done
 ```
+
+Scale flags: `--scale-25m` (default crash-test), `--scale-150m` (promoted after 25M validates).
 
 ---
 
@@ -605,7 +626,7 @@ until [ -f core/run_N_[name]_e1.pt ]; do sleep 60; done
 As soon as each checkpoint file appears:
 
 ```bash
-CKPT=core/run_N_[name]_eK.pt
+CKPT=core/campaign_${CAMPAIGN}_phase_${PHASE}_eK.pt
 python meta/scripts/probe.py --checkpoint "$CKPT" --temperature 0.7 --tokens 120
 python eval.py --checkpoint "$CKPT"
 ```
@@ -625,15 +646,18 @@ After all epochs complete:
 - Tiebreaker: fewest loops.
 - Do not auto-select higher shaped if loops increased significantly — note the trade-off.
 
-Then run this exact sequence (substitute RUN_NAME and BEST_EPOCH):
+Then run this exact sequence (substitute CAMPAIGN, PHASE, BEST_EPOCH):
 
 ```bash
-RUN_NAME=run_6_oversample_reasoning_x2
+CAMPAIGN=13
+PHASE=A
 BEST_EPOCH=e2
+
+RUN_NAME=campaign_${CAMPAIGN}_phase_${PHASE}
 
 # Copy best to checkpoints/
 BEST=core/${RUN_NAME}_${BEST_EPOCH}.pt
-DEST=checkpoints/run6_${BEST_EPOCH}.pt
+DEST=checkpoints/campaign${CAMPAIGN}_phase${PHASE}_${BEST_EPOCH}.pt
 cp "$BEST" "$DEST"
 
 # Confirm copy before deleting anything
@@ -667,7 +691,8 @@ Answer three questions from the completed report:
 2. Did the target probe category improve?
 3. Did any new failure mode appear?
 
-Write the next run in `todo.md` with: base checkpoint, intervention, one-sentence justification.
+Write the next phase or campaign in `todo.md` with: base checkpoint, phase, one-sentence justification.
+A campaign ends when all planned phases are complete or a regression warrants stopping and re-designing.
 
 ---
 

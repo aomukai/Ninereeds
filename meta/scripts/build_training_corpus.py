@@ -329,6 +329,72 @@ CURRICULUM_ORDER: list[tuple] = [
 
 
 # ---------------------------------------------------------------------------
+# JSONL order-file processor (used when --order-file is given)
+# Reads a training/training_order/phase_X_order.jsonl and processes every
+# file listed in JSONL order.  Validator is inferred from the file path.
+# ---------------------------------------------------------------------------
+
+def infer_checker(path: Path) -> Callable[[str], tuple[str, list[str]]]:
+    """Return the appropriate validator for a file based on its directory."""
+    parts = path.parts
+    # Walk up the path parts looking for known directory names
+    for part in parts:
+        if part in ("phase_A", "phase_B", "phase_C", "phase_D", "phase_E"):
+            return check_phases
+        if part == "bridge":
+            return check_bridge_file
+        if part == "grammar":
+            return check_grammar_file
+        if part == "grounded_stories":
+            return check_grounded_story
+        if part == "lang":
+            return check_lang
+        if part in ("wiki", "reasoning"):
+            return check_dialogue
+        if part == "triplet_stories":
+            return check_story
+        if part == "philosophy":
+            return check_philosophy
+    return check_phases  # safe default
+
+
+def process_order_file(order_file: Path, out_parts: list[str]) -> DirStats:
+    """
+    Process files in the exact order given by a JSONL training order file.
+    Each line is a unit: {"files": ["path/to/file.md", ...], ...}
+    Paths in the JSONL are relative to the repo root.
+    """
+    import json as _json
+    stats = DirStats(label=order_file.stem)
+    lines = order_file.read_text(encoding="utf-8").splitlines()
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        unit = _json.loads(line)
+        for rel_path in unit.get("files", []):
+            path = ROOT / rel_path
+            if not path.exists():
+                stats.total += 1
+                stats.skipped += 1
+                stats.issue_log.append((rel_path, ["file not found"]))
+                continue
+            checker = infer_checker(path)
+            raw = path.read_text(encoding="utf-8", errors="replace")
+            cleaned, issues = checker(raw)
+            stats.total += 1
+            if issues:
+                stats.skipped += 1
+                stats.issue_log.append((rel_path, issues))
+            else:
+                stats.included += 1
+                if cleaned != raw:
+                    stats.fixed += 1
+                out_parts.append(cleaned.rstrip("\n"))
+    return stats
+
+
+# ---------------------------------------------------------------------------
 # Sequence-file phase processor (used when --cluster-sequence is given)
 # ---------------------------------------------------------------------------
 
@@ -369,10 +435,67 @@ def process_phase_sequence(seq_file: Path, out_parts: list[str]) -> DirStats:
 # ---------------------------------------------------------------------------
 
 def build_corpus(output: Path, report: Path, dry_run: bool,
+                 order_file: Path | None = None,
                  cluster_sequence: Path | None = None,
                  oversample_reasoning: int = 1) -> bool:
     out_parts: list[str] = []
     all_stats: list[DirStats] = []
+
+    # --order-file mode: process exactly the files listed in the JSONL, in order.
+    # Bypasses the full CURRICULUM_ORDER traversal entirely.
+    if order_file is not None:
+        abs_order = order_file if order_file.is_absolute() else ROOT / order_file
+        order_file = abs_order
+        print(f"  Order file: {order_file.relative_to(ROOT)}")
+        stats = process_order_file(order_file, out_parts)
+        all_stats.append(stats)
+        skip_note = f"  ({stats.skipped} skipped)" if stats.skipped else ""
+        fix_note  = f"  ({stats.fixed} fixed)"   if stats.fixed   else ""
+        print(f"  {stats.label:<24}  {stats.included:>5}/{stats.total}{fix_note}{skip_note}")
+
+        corpus = "\n\n".join(out_parts)
+        corpus_bytes = len(corpus.encode("utf-8"))
+        total_skipped = stats.skipped
+
+        print()
+        print(f"  Files:    {stats.included:,} / {stats.total:,} included")
+        print(f"  Fixed:    {stats.fixed:,}")
+        print(f"  Skipped:  {total_skipped:,}")
+        print(f"  Size:     {corpus_bytes / 1024 / 1024:.2f} MB  ({corpus_bytes:,} bytes)")
+
+        report_lines = [
+            "# Training Corpus Build Report",
+            f"Order file: {order_file}",
+            "",
+            f"Total files:    {stats.total:,}",
+            f"Included:       {stats.included:,}",
+            f"Fixed (minor):  {stats.fixed:,}",
+            f"Skipped:        {total_skipped:,}",
+            f"Corpus size:    {corpus_bytes / 1024 / 1024:.2f} MB",
+            "",
+        ]
+        if stats.issue_log:
+            report_lines += ["## Issues", ""]
+            for fname, issues in stats.issue_log:
+                for iss in issues:
+                    report_lines.append(f"  - {fname}: {iss}")
+
+        if not dry_run:
+            output.parent.mkdir(parents=True, exist_ok=True)
+            output.write_text(corpus, encoding="utf-8")
+            report.parent.mkdir(parents=True, exist_ok=True)
+            report.write_text("\n".join(report_lines) + "\n", encoding="utf-8")
+            print(f"  Corpus → {output}")
+            print(f"  Report → {report}")
+        else:
+            print("  [dry-run] no files written")
+
+        if total_skipped == 0:
+            print("\n  All files validated — corpus is clean.")
+            return True
+        else:
+            print("\n  Structural issues found — see report.")
+            return False
 
     if oversample_reasoning > 1:
         print(f"  Reasoning oversampling: ×{oversample_reasoning}")
@@ -494,6 +617,12 @@ def main() -> None:
         help="Validate and report without writing any output files",
     )
     parser.add_argument(
+        "--order-file", type=Path, default=None,
+        help="JSONL training order file (e.g. training/training_order/phase_A_order.jsonl). "
+             "When given, processes exactly the files listed in that order and skips the "
+             "full CURRICULUM_ORDER traversal.  This is the preferred mode for campaign training.",
+    )
+    parser.add_argument(
         "--cluster-sequence", type=Path, default=None,
         help="If given, use this file for phase ordering instead of alphabetical sort. "
              "See meta/scripts/cluster_phases.py to generate one.",
@@ -510,6 +639,7 @@ def main() -> None:
     print()
 
     ok = build_corpus(args.output, args.report, args.dry_run,
+                      order_file=args.order_file,
                       cluster_sequence=args.cluster_sequence,
                       oversample_reasoning=args.oversample_reasoning)
 
