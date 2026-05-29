@@ -1,0 +1,4 @@
+[user]What does active mean?
+[Ninereeds]Active describes something.
+A child is active. A puppy is active. A squirrel is active.
+A rock is active. A stone is active. A snail is active.

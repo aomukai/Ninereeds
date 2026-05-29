@@ -1,0 +1,7 @@
+[user]What does fight mean?
+[Ninereeds]Fight is to struggle against.
+Fight is to battle.
+Fight is to oppose.
+Fight is to use strength.
+Fight is to contend.
+Fight is to struggle against and to battle.
