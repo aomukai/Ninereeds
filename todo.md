@@ -35,6 +35,49 @@ Phase D (think/know/time/truth) and Phase E (abstraction/math) have the same pro
 
 ---
 
+## Teaching stories — REDESIGN (2026-06-01)
+
+**Goal:** New corpus layer to ground B/D/E concepts through narrative before retry.
+**Base:** C13 Phase C winner (0.925). Teaching stories replace old Phase B/D/E format.
+
+### New phase nomenclature
+
+| Phase | Content | Status |
+|---|---|---|
+| A | Concrete anchors | Done (C13) |
+| B | Agents & social (was C) | Done (C13) |
+| C–F | Teaching stories (4 complexity tiers) | Pipeline redesign in progress |
+
+### Corpus state (2026-06-01)
+
+- `training_data/phase_A/` — active (1494 units in phase_A_order.jsonl)
+- `training_data/phase_B/` — active (1148 units, was phase_C — agents/social)
+- `training_data/teaching_stories/` — empty, ready for new generation
+- `archive/phases/phase_B_old/` — old emotions/movement (B/D/E failed C13)
+- `archive/phases/phase_D_old/`, `phase_E_old/` — archived
+- `tmp/phase_vocab.jsonl` — 2545 tier-1 (B/D/E) schemas intact, 2608 tier-2 (A/C) records
+
+### Living list design
+
+- **Tier 1 (never shown):** B/D/E concepts — need anchor story first
+- **Tier 2 (anchor written):** moves here after anchor story generated
+- **Tier 3 (covered):** after ≥5 non-anchor appearances
+- A/C concepts start at tier 2 (were anchors in old phases)
+- `n_times_used` field tracks non-anchor appearances
+- Story complexity cycles 1→2→3→4→1, floored at concept's `entry_tier`
+- Word priority weighted by `wordfreq` Zipf score
+
+### Next steps
+
+- [x] Add `n_times_used: 0` to all vocab records in `tmp/phase_vocab.jsonl`
+- [x] Write `meta/scripts/story_gen_v2.py` — all 10 GPT review issues resolved + round 2 fixes: tally fully destructive, audit non-mutating comparison, preanchor_leaks field, sha256 verification, lockfile, --max-passes/--once, lang-marker block splitter fix
+- [x] Pilot verified: 5 stories, all tracker fields present, no "user" false positive, anchor words at n_times_used=0
+- [x] State reset: 0 stories, clean tracker, vocab at n_times_used=0
+- [ ] Confirm `--once` pilot (50 stories) passes audit cleanly, then launch full run
+- [ ] Full generation run: `PYTHONUNBUFFERED=1 python3 meta/scripts/story_gen_v2.py run --workers 4 2>&1 | tee tmp/story_gen_run.log`
+
+---
+
 ## Campaign 14 — Grounded stories + Phase B retry
 
 **Goal:** Introduce grounded stories on top of the C13 winner, then retry Phase B and D.
