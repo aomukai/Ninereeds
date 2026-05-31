@@ -605,7 +605,7 @@ nohup python train.py \
   --corpus-file training/corpus/campaign_${CAMPAIGN}_phase_${PHASE}.txt \
   --output core/campaign_${CAMPAIGN}_phase_${PHASE}.pt \
   --resume checkpoints/[base].pt \
-  --scale-25m \
+  \
   --epochs 3 \
   --epoch-checkpoints \
   --amp-bf16 \
@@ -617,7 +617,7 @@ Monitor for the first epoch checkpoint:
 until [ -f core/campaign_${CAMPAIGN}_phase_${PHASE}_e1.pt ]; do sleep 60; done
 ```
 
-Scale flags: `--scale-25m` (default crash-test), `--scale-150m` (promoted after 25M validates).
+Scale flags: no flag = 25M default (crash-test), `--scale-150m` (promoted after 25M validates), `--scale-600m`.
 
 ---
 
