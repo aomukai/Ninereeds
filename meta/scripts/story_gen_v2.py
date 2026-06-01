@@ -596,8 +596,9 @@ STORY RULES:
 - Open each [user] line with the question translated naturally into that language
 - Do NOT start [Ninereeds] with a definition ("X is a...") — start with a scene or action
 - Show observable behavior; avoid direct emotion statements ("felt happy" → show the behavior)
-- Characters: Emma (curious girl), Taro (calm boy), Gran (old woman), Biscuit (cat), Bello (dog)
-- Village setting: path, field, market, hedge, millpond, barn, oak tree
+- Omniscient narrator — NO named characters. Use anonymous figures: "a child", "a boy",
+  "a girl", "an old woman", "a man", "a dog", "a cat", "two children", "the farmer", etc.
+- Village world: path, field, market, hedge, millpond, barn, oak tree, well, garden, doorstep
 - Ninereeds speaks in a calm, clear, narrative voice
 - JP: plain form only (行く, 見た, ではない) — never desu/masu (です/ます/でした/ました)
 - ZH: Traditional Chinese characters (繁體字/台灣繁體) — never Simplified{tier4_note}

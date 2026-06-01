@@ -69,12 +69,19 @@ Phase D (think/know/time/truth) and Phase E (abstraction/math) have the same pro
 
 ### Next steps
 
-- [x] Add `n_times_used: 0` to all vocab records in `tmp/phase_vocab.jsonl`
-- [x] Write `meta/scripts/story_gen_v2.py` — all 10 GPT review issues resolved + round 2 fixes: tally fully destructive, audit non-mutating comparison, preanchor_leaks field, sha256 verification, lockfile, --max-passes/--once, lang-marker block splitter fix
-- [x] Pilot verified: 5 stories, all tracker fields present, no "user" false positive, anchor words at n_times_used=0
-- [x] State reset: 0 stories, clean tracker, vocab at n_times_used=0
-- [ ] Confirm `--once` pilot (50 stories) passes audit cleanly, then launch full run
-- [ ] Full generation run: `PYTHONUNBUFFERED=1 python3 meta/scripts/story_gen_v2.py run --workers 4 2>&1 | tee tmp/story_gen_run.log`
+- [x] Generator written + hardened (`meta/scripts/story_gen_v2.py`)
+- [x] Prompt corrected: omniscient narrator, NO named characters (Emma/Taro/Gran/Biscuit/Bello removed — those belong to grounded_stories only)
+- [x] 845 test stories cleared; vocab/tracker/state reset to zero
+- [x] Handoff doc: `docs/handoff_2026-06-02.md` — read this before starting on Windows
+
+**NEXT ACTION (Windows):** start full generation run:
+```
+python3 meta/scripts/story_gen_v2.py run --workers 4 2>&1 | tee tmp/story_gen_run.log
+```
+- [ ] Full generation run complete
+- [ ] Audit passes clean
+- [ ] Commit teaching_stories/ to git
+- [ ] Build curriculum order: Phase A → Phase B → grounded_stories (195) → teaching_stories → B/D/E retry
 
 ---
 
