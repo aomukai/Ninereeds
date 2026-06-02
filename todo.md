@@ -81,9 +81,9 @@ python3 meta/scripts/story_gen_v2.py run --workers 4 2>&1 | tee -a tmp/story_gen
 State on stop: anchor pass in progress, 1699/~2545+ stories done, 846 tier-1 words still need anchor.
 See `docs/handoff_2026-06-01.md` for full details.
 
-- [ ] Full generation run complete
-- [ ] Audit passes clean
-- [ ] Commit teaching_stories/ to git
+- [x] Full generation run complete (5006 stories, 2026-06-02)
+- [x] Audit passes clean
+- [x] Commit teaching_stories/ to git
 - [ ] Build curriculum order: Phase A → Phase B → grounded_stories (195) → teaching_stories → B/D/E retry
 - [ ] Boolean story pass: run `meta/scripts/story_gen_boolean.py` (to be written) on final living list — spec in `docs/boolean_stories.md`
 - [ ] Write `docs/probe_catalogue.md` — competency probe design (skeleton drafted in session 2026-06-02)
