@@ -396,7 +396,11 @@ def cmd_probe(args):
                   f"sparsity={sparsity:.3f}")
 
     OUT_ACTIVATIONS.parent.mkdir(parents=True, exist_ok=True)
-    np.savez_compressed(str(OUT_ACTIVATIONS), activations=vectors)
+    # Save geometry alongside activations so hubs command doesn't need to hardcode it
+    np.savez_compressed(str(OUT_ACTIVATIONS), activations=vectors,
+                        n_layer=np.int32(C.n_layer),
+                        n_head=np.int32(C.n_head),
+                        neuron_dim=np.int32(N))
     OUT_PROBES.write_text(
         "\n".join(json.dumps(m, ensure_ascii=False) for m in meta) + "\n",
         encoding="utf-8",
@@ -664,11 +668,14 @@ def cmd_hubs(args):
     cats    = [p["category"] for p in probes]
     n, dim  = vectors.shape
 
-    # Model geometry — reconstruct from dim
-    # dim = n_layer * n_head * N  where N = n_embd * mlp_mult // n_head
-    # For C13: 6 * 4 * 8192 = 196,608
-    n_layer, n_head, N = 6, 4, 8192   # hardcoded for C13 config
-    assert dim == n_layer * n_head * N, f"Unexpected dim {dim}"
+    # Model geometry — read from file if saved, fall back to C13 defaults
+    if "n_layer" in data:
+        n_layer = int(data["n_layer"])
+        n_head  = int(data["n_head"])
+        N       = int(data["neuron_dim"])
+    else:
+        n_layer, n_head, N = 6, 4, 8192   # C13 fallback
+    assert dim == n_layer * n_head * N, f"Geometry mismatch: {dim} ≠ {n_layer}×{n_head}×{N}"
 
     hub_mask, breadth, breadth_frac, unique_cats, coverage = detect_hubs(
         vectors, cats, hub_threshold
@@ -685,7 +692,7 @@ def cmd_hubs(args):
     print(f"Semantic (1 cat):{n_semantic:>8,}  ({n_semantic/dim:.2%})")
     print(f"Silent (0 cats): {n_silent:>8,}  ({n_silent/dim:.2%})")
 
-    # Hub distribution across layers and heads
+    # Hub distribution across layers and heads — use geometry from file if available
     print("\nHub count per layer × head:")
     hub_indices = np.where(hub_mask)[0]
     layer_head_counts = {}
@@ -872,6 +879,8 @@ def main():
     # Default to run if no subcommand given
     if not hasattr(args, "func"):
         args.func = cmd_run
+    if not hasattr(args, "checkpoint"):
+        args.checkpoint = str(DEFAULT_CHECKPOINT)
 
     args.func(args)
 

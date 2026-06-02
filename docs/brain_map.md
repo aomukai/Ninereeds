@@ -2,75 +2,160 @@
 
 ## Core idea
 
-Ninereeds' 3–5% activation sparsity (inherited from the BDH-GPU architecture) means that
-different concepts activate largely non-overlapping neuron subsets. This makes it possible
-to *map* the model's internal state and to *transplant* specific capabilities between
-checkpoints without carrying unrelated regressions.
+Ninereeds' activation sparsity (inherited from the BDH-GPU architecture) means that
+different prompts activate largely non-overlapping neuron subsets. This makes it possible
+to *map* the model's internal activation geometry — and, if clusters prove causally valid,
+potentially to *transplant* specific capabilities between checkpoints.
 
 The model is treated less like a monolithic function approximator and more like a living
 circuit atlas — closer to modular cortical recruitment than transformer-style feature
 superposition.
 
-## Why sparsity enables this
+## Current status: v1 scanner completed, v2 in design (2026-06-02)
 
-In a dense transformer, features are superposed across neurons. Disentangling a specific
-capability from a checkpoint requires careful probing and is still largely unsolved.
-In a sparse Hebbian network, a concept that has been learned tends to live in a tight,
-identifiable cluster. If you can label the cluster, you can target it.
+`meta/scripts/brain_map.py` records `xy_sparse` (Hebbian co-firing signal) at the last
+prompt-token position across all layers. A first pass on the C13 winner ran 180 probes
+across 13 categories. Results and their correct interpretation are in the section below.
 
-This property must be empirically verified — it is plausible but not guaranteed to hold
-beyond toy examples. The first brain map pass is also a test of the premise itself.
+**The scanner is real and useful as an activation-geometry diagnostic.**
+**It is not yet reliable enough to claim semantic cluster identity without further controls.**
 
-## Cluster taxonomy
+## What the v1 scanner measures — and what it does not
 
-Not all clusters are equal. Two types must be distinguished during analysis:
+The script captures `xy_sparse` at the last token of the prompt, flattened to a vector,
+then computes cosine similarity across probes. This is a meaningful internal signal —
+different prompt families, languages, formats, and grammatical constructions do produce
+different co-firing patterns.
 
-**Semantic clusters** — encode a learned concept directly. Examples: "dative recipient
-transfer", "spatial containment", "animal category", "Japanese existential ある".
-These are the transplantation targets.
+**What it does not measure:** understanding, output competence, or causal concept
+ownership. A co-firing state at the end of the prompt is not proof that the model has
+formed a semantic concept. Lesion testing (Phase 3 below) is required before any cluster
+can be trusted causally.
 
-**Routing clusters** — coordinate activation flow between regions. They appear across many
-unrelated probes and have high co-firing centrality. They are not concept-specific and
-should be identified and filtered before labeling. Treating a routing hub as a semantic
-cluster would produce a meaningless transplant.
+**The critical confound:** prompt template. If all emotion probes use "What does X look
+like?" and all cognitive probes use "What does it mean to be X?", high intra-category
+similarity may be measuring prompt-shell consistency rather than semantic cluster
+formation. v1 did not control for this.
 
-Practical separation: rank neurons by how many distinct probe categories they activate
-across. High-rank neurons are routing candidates; low-rank, high-coherence subsets are
-semantic candidates.
+## v1 findings — C13 winner (correctly interpreted)
 
-## Cluster identity and stability
+**Activation geometry:** different prompt families produce detectably different co-firing
+patterns. The scanner works as a family-level discriminator.
 
-Neuron IDs alone are a fragile representation of a cluster. Even in sparse systems,
-clusters can drift, split, or reassign neurons between training runs. Define clusters
-by multiple signatures:
+**Hub structure:** 289 neurons (0.15%) fire across ≥70% of probe categories. Head 1
+across layers is the dominant routing channel. These are **high-breadth co-firing
+candidates**, not confirmed routing hubs until lesion tests exist.
 
-- **Centroid** — mean activation vector over the cluster's probe set
-- **Co-firing statistics** — which neurons tend to activate together
-- **Topology** — graph structure of connections within the cluster
-- **Probe coverage** — which input prompts reliably activate the cluster
+**Category-exclusive dimensions:** neurons firing in exactly one probe category. These
+are **category-exclusive co-firing dimensions in this probe set**, not confirmed semantic
+neurons.
 
-This way "the dative cluster" can be recognized even if 20% of its constituent neurons
-rotate out between runs. Local motifs probably survive scale changes; exact coordinates
-probably do not.
+| Category | Exclusive dimensions |
+|---|---|
+| grammar_dative (aggregated) | 2,083 |
+| grammar_v2 | 1,458 |
+| phase_b | 1,332 |
+| phase_a | 651 |
+| emotion | 454 |
+| arithmetic | 247 |
+| cognitive | 85 |
+
+**Dative finding (corrected):** aggregate dative similarity = 0.482 was mixing
+constructions. Split by construction: über-static ≈ 0.908, in-static ≈ 0.989,
+mit-companion ≈ 0.819. The scanner reveals that dative should not be treated as one
+category — construction-level probes are needed.
+
+**Multilingual finding (corrected):** EN and DE within-language template similarity are
+near-identical (0.989 / 0.985), but this is template consistency, not cross-language
+concept alignment. Actual EN↔DE same-concept vs different-concept cosine similarity
+is ~0.746 vs ~0.744 — essentially no concept-alignment signal in v1. The scanner
+currently detects language/template manifolds, not cross-language concept identity.
+
+**"87% silent" (corrected):** means "not activated by this 180-probe battery." It does
+not mean those neurons are unused globally, and it does not rule out capacity-related
+explanations for B/D/E failure. The xy_sparse capture is also stricter than raw
+activation sparsity (it is the product of x_sparse and y_sparse), so observed sparsity
+is lower than the architectural 3–5% figure.
+
+**Emotion/cognitive clusters (downgraded):** intra-category similarity for emotion
+(0.835) and cognitive (0.976) may reflect prompt-shell consistency rather than semantic
+cluster formation. Emotion's margin over Phase A (0.835 vs 0.819 cross-similarity) is
+too thin to be meaningful. Cognitive's 0.976 is almost certainly the identical sentence
+frame for all 15 probes. These are **not confirmed as semantic clusters.**
+
+## Terminology going forward
+
+To prevent conclusions from outrunning data, use these terms:
+
+| Old term | Correct term |
+|---|---|
+| Semantic neurons | Category-exclusive co-firing dimensions (in this probe set) |
+| Routing hubs | High-breadth co-firing candidates |
+| Silent neurons | Not activated by this probe battery |
+| Semantic cluster | Activation-geometry family (template controls pending) |
+
+## v2 probe design requirements
+
+Before using the scanner to steer curriculum decisions, each probe needs:
+
+- `concept_id` — the concept being tested
+- `template_id` — which question frame is used
+- `language` — EN / DE / JP / ZH
+- `construction_id` — for grammar probes, which specific construction
+- `source_corpus` — which corpus the concept came from
+- `expected_behavior` — what a correct output looks like
+
+**Negative controls required:** nonce words in the same templates; known-untrained words;
+same template with unrelated concepts; same concept across multiple templates.
+
+**Template crossover test (cheapest first):** run the same concept through two different
+question frames. If the activation vectors converge → evidence for semantic cluster.
+If they diverge → template-shell effect. This can be added to `brain_map.py` immediately.
+
+**Grammar probes must be split by construction:** `dative_über_static`,
+`dative_in_static`, `dative_mit_companion`, `accusative_in_motion`, `dative_recipient`,
+etc. Never aggregate case categories.
+
+**Output scoring must accompany activations:** a cluster is only meaningful if it
+correlates with correct, incorrect, looping, or garbled behavior. The probe battery
+and the competency probe catalogue (`docs/probe_catalogue.md`) must be run together.
 
 ## Plan
 
-### Phase 1 — Brain map (post solid-foundation run)
+### Phase 1 — Activation-geometry scan (v1 complete)
 
-1. Write a comprehensive probe script (`meta/scripts/brain_map.py` or extend `probe.py`).
-   - One inference per trained concept (every phase file question, every grammar probe,
-     every language form taught in lang_1–5).
-   - Record activation pattern per inference: which neurons, which layers, magnitude.
-2. Identify routing clusters (high cross-category centrality) and separate them.
-3. Cluster the remaining activation vectors (k-means or UMAP + DBSCAN).
-4. Label each cluster by inspecting which probes activate it.
-5. Represent the atlas as a graph, not flat labels:
-   ```
-   dative_cluster:
-     connected_to: [transfer_verbs, spatial_relations, pronoun_resolution]
-   ```
-6. Write the map to a JSON artifact: `{cluster_id: {label, neurons, centroid, topology, probe_examples}}`.
-7. Visualize — see reference below.
+`meta/scripts/brain_map.py` implements this. Outputs: `tmp/brain_map_activations.npz`,
+`tmp/brain_map_probes.jsonl`, `tmp/brain_map_similarity.png`, `tmp/brain_map_scatter.png`,
+`tmp/brain_map_hubs.json`, `tmp/brain_map_similarity_nohubs.png`.
+
+Add `--name` flag before multi-checkpoint comparison so files don't overwrite each other.
+
+### Phase 1b — Template crossover and negative controls (v2, next)
+
+Extend the probe set with:
+- Same concept, multiple templates
+- Nonce/untrained words in same templates
+- Grammar probes split by construction
+- Output scores alongside activations
+
+Until Phase 1b is complete, all cluster findings from v1 are **activation-geometry
+diagnostics**, not semantic maps.
+
+### Phase 2 — Atlas reproducibility and cluster drift
+
+Run brain map on:
+- `checkpoints/c13_phaseA_winner.pt` (earlier checkpoint)
+- Multiple seeds of `checkpoints/c13_Phase_C_winner.pt`
+
+Compare cluster *signatures* (centroid similarity, co-firing overlap, probe coverage)
+— not raw neuron IDs. If signatures are unstable across seeds, cluster-based
+interventions cannot be trusted. This is a prerequisite for Phase 3.
+
+### Phase 3 — Delta tracking (curriculum diagnostics)
+
+Before and after a targeted training intervention:
+- Run the full probe pass on both checkpoints
+- Diff activation maps using cluster signatures, not raw neuron IDs
 
 ### Phase 2 — Delta tracking (curriculum diagnostics)
 

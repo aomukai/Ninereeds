@@ -175,62 +175,68 @@ after Phase A + Phase B + stories have run and been probed, not before.
 word appears in the right positions in their speech without carrying any logical
 force. The shaped score would improve; reasoning would not.
 
-### Activation map findings — C13 winner (2026-06-02)
+### Activation-geometry scan — C13 winner (2026-06-02)
 
-A neuron-level activation atlas was run on the C13 winner checkpoint using 180
-probes across 13 concept categories. Key findings:
+A first activation scan was run on the C13 winner checkpoint using 180 probes
+across 13 concept categories. The scanner (`meta/scripts/brain_map.py`) records
+`xy_sparse` (Hebbian co-firing signal) at the last prompt-token position and
+computes cosine similarity across probes. Full methodology and corrected
+interpretation: `docs/brain_map.md`.
 
-**87% of neurons are silent across all probes.** Only ~25,000 neurons fire at all
-across 180 concept probes. The 25M model has significant unused capacity. The
-B/D/E failure is not a capacity problem.
+**What the scanner showed — correctly interpreted:**
 
-**B/D/E concepts are internally represented.** Both emotion (mean intra-cluster
-similarity 0.835) and cognitive (0.976) form coherent activation clusters — the
-cognitive cluster is tighter than the Phase A noun cluster (0.876). The concepts
-exist in the weight space. What is missing is behavioral grounding — the model
-cannot format a response around them. This confirms the grounding hypothesis as
-an empirical finding, not a working assumption.
+The scanner detects activation-geometry families: different prompt types, languages,
+and grammatical constructions produce different co-firing patterns. It is useful as
+a diagnostic. It is **not yet reliable as a semantic map** — the v1 probe design
+did not control for prompt-template confounds, and several initial findings needed
+correction after independent review.
 
-**Dative instability explained at neuron level.** Dative probes have 2,083
-exclusive neurons — more than any other category — but the lowest intra-cluster
-similarity (0.482). Many dedicated circuits, firing inconsistently. The model has
-learned many conflicting versions of dative rather than one stable one. Introducing
-the grammar corpus before a stable semantic substrate exists would add more
-conflicting surface forms on top of the existing ones.
+**Corrected findings:**
 
-**Hub structure: 289 routing neurons (0.15%).** Head 1 across all layers is the
-dominant routing channel. Only 289 neurons out of 196,608 fire across ≥70% of
-concept categories. The network has a very compact routing layer.
+*Prompt-template confound:* intra-category similarity may reflect consistent prompt
+shells rather than semantic clusters. Emotion (0.835) and cognitive (0.976) probes
+each used a single fixed question frame; their apparent coherence likely measures
+template-shell consistency. The emotion/cognitive "confirmed grounding" claim from
+the initial session analysis should be treated as a hypothesis pending template
+controls, not a confirmed finding.
 
-**Semantic neuron counts by category:**
+*Dative (corrected):* aggregate dative similarity (0.482) was mixing constructions.
+Split by construction: über-static ≈ 0.908, in-static ≈ 0.989. The instability
+is at the category-aggregation level, not at the individual construction level.
+The finding still supports construction-specific grammar probes over aggregated
+case categories — it just does not say "dative is globally broken."
 
-| Category | Exclusive neurons |
-|---|---|
-| grammar_dative | 2,083 |
-| grammar_v2 | 1,458 |
-| phase_b | 1,332 |
-| phase_a | 651 |
-| emotion | 454 |
-| grammar_accusative | 430 |
-| multilingual_ZH | 693 |
-| arithmetic | 247 |
-| cognitive | 85 |
+*Multilingual (corrected):* EN and DE within-language template similarity (0.989 /
+0.985) was mistakenly read as cross-language concept alignment. Actual EN↔DE
+same-concept vs different-concept cosine similarity is ~0.746 vs ~0.744 — no
+concept-alignment signal in v1.
 
-**Arithmetic is small but coherent** (247 exclusive neurons, 0.860 similarity).
-Concepts share circuits rather than each owning dedicated neurons — this is
-healthier than dative's large-but-scattered pattern.
+*"87% silent" (corrected):* means not activated by this 180-probe battery, not
+unused globally. Does not rule out capacity explanations for B/D/E failure.
 
-**Multilingual EN and DE are nearly identical** (0.989 and 0.985). JP (0.756)
-and ZH (0.689) are more variable — the byte-encoding of CJK scripts activates
-more diverse circuits per prompt.
+**What remains valid:**
+
+- The scanner works as a prompt-family discriminator
+- 289 high-breadth co-firing candidates (hub structure is real, causal role unconfirmed)
+- Dative construction-level probes needed; aggregating case categories is misleading
+- Grammar corpus timing question (introduce after semantic substrate) is still
+  supported by the corrected dative finding
+- The scanner infrastructure is sound — the probe design needs improvement
+
+**Next step:** v2 probe design with template crossover controls, negative controls,
+construction-split grammar probes, and output scoring alongside activations.
+See `docs/brain_map.md` for full v2 requirements.
 
 ---
 
 ## Known failure modes
 
 **B/D/E absorption failure** — emotions, cognitive verbs, abstraction do not land
-in the static property format. The activation map confirms the concepts exist
-internally; the failure is behavioral (no grounding). Teaching stories address this.
+in the static property format. The activation scan shows emotion/cognitive probes
+form activation-geometry families distinct from Phase A/B — consistent with internal
+representation, but not yet confirmed as semantic clusters (template controls pending).
+The grounding hypothesis remains the leading explanation; teaching stories are the
+intervention. See `docs/brain_map.md` for what the scan does and does not prove.
 
 **Bridge mistiming** — Bridge used as a cold-start primer teaches surface forms
 without semantic substrate. Shaped score improves; understanding does not. Bridge

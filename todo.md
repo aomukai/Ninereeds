@@ -84,8 +84,8 @@ See `docs/handoff_2026-06-01.md` for full details.
 - [x] Full generation run complete (5006 stories, 2026-06-02)
 - [x] Audit passes clean
 - [x] Commit teaching_stories/ to git
-- [ ] Build curriculum order: Phase A → Phase B → grounded_stories (195) → teaching_stories → B/D/E retry
-- [ ] Boolean story pass: run `meta/scripts/story_gen_boolean.py` (to be written) on final living list — spec in `docs/boolean_stories.md`
+- [x] Boolean story pass: 800 stories complete (2026-06-02), committed
+- [ ] Build curriculum order: Phase A → Phase B → grounded_stories (195) → teaching_stories + boolean → B/D/E retry
 - [ ] Write `docs/probe_catalogue.md` — competency probe design (skeleton drafted in session 2026-06-02)
 
 ---
@@ -105,6 +105,37 @@ Hypothesis: narrative context gives emotions and cognitive verbs the grounding t
 - [ ] Retry Phase B (emotions/movement) from stories checkpoint
 - [ ] Retry Phase D (cognitive verbs) from stories checkpoint
 - [ ] If B or D absorb: retry Phase E (abstraction/math) — needs arithmetic_bridge first
+
+---
+
+## Campaign 15 design — three key experiments (details TBD during week)
+
+From deep-research report (2026-06-02). Run in order; each informs the next.
+
+### Experiment 1: Atlas reproducibility + cluster drift
+**Question:** Are the brain map clusters stable across seeds and checkpoints, or seed-specific noise?
+**Method:** Run `meta/scripts/brain_map.py` on C13 Phase A winner checkpoint + at least 2 seeds of C13 Phase C winner. Compare cluster signatures (centroid, co-firing overlap, probe coverage) — NOT raw neuron IDs.
+**Why first:** Cluster-based interventions (lesions, specialist transfer) are only trustworthy if clusters are stable. This is a prerequisite for everything else.
+- [ ] Define cluster signature matching method
+- [ ] Run brain map on `checkpoints/c13_phaseA_winner.pt`
+- [ ] Compare Phase A vs Phase C winner cluster structure
+
+### Experiment 2: Teaching stories + triplets interleaving matrix
+**Question:** Does alternating teaching stories and triplets (aligned by category) improve B/D/E absorption vs sequential?
+**Conditions:** sequential (teaching then triplets) vs aligned interleave (by domain) vs random interleave
+**Controls:** matched token budgets; same base checkpoint
+**Why second:** Directly tests the B/D/E bottleneck and the register-alignment hypothesis together.
+- [ ] Design interleave schedules
+- [ ] Build corpus builder support for interleaving
+- [ ] 25M pilot on best 2 schedules
+
+### Experiment 3: Register-alignment crossover
+**Question:** Does the same concept activate different circuits in Q&A format vs story format? Does cross-register transfer happen?
+**Method:** Add triplet-format probes to brain_map.py ("tell me a story about X" for same concepts as Q&A probes). Compare activation clusters. Then test: does training in one register transfer to the other?
+**Why third:** If Q&A and story formats activate different circuits for the same concept, interleaving is not just varied exposure — it teaches multi-register access. If they converge, format doesn't matter.
+- [ ] Add triplet-format probes to `meta/scripts/brain_map.py`
+- [ ] Run crossover brain map on C13 winner
+- [ ] Design training experiment if activation clusters diverge
 
 ---
 
