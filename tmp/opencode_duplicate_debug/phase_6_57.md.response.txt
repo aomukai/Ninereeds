@@ -1,1 +1,0 @@
-I see the progress files but no active task in `todo.md`. The `repair_progress_formatting.txt` shows one entry processed (`phase_1_009.md`), and its `.bak` lists many more. What task would you like me to resume â€” the formatting repair, duplicate repair, or something else?

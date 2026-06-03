@@ -1,1 +1,0 @@
-Looking at the context, I need to check `todo.md` for the current task.The todo.md is empty. Can you clarify what task you'd like me to work on? If you have an executor prompt from a previous run that needs resuming or re-attempting, please share it.
