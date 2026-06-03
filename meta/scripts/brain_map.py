@@ -35,17 +35,13 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 # Config
 # ---------------------------------------------------------------------------
 DEFAULT_CHECKPOINT = ROOT / "checkpoints" / "c13_Phase_C_winner.pt"
-OUT_ACTIVATIONS    = ROOT / "tmp" / "brain_map_activations.npz"
-OUT_PROBES         = ROOT / "tmp" / "brain_map_probes.jsonl"
-OUT_HEATMAP        = ROOT / "tmp" / "brain_map_similarity.png"
-OUT_SCATTER        = ROOT / "tmp" / "brain_map_scatter.png"
+PROBE_SETS_DIR     = ROOT / "training" / "corpus_admin" / "probe_sets"
 
 SEED = 42
 
-# Phase A noun concepts — concrete, succeeded in C13
-PHASE_A_DIR  = ROOT / "training_data" / "phase_A"
-# Phase B social/agent concepts — succeeded in C13
-PHASE_B_DIR  = ROOT / "training_data" / "phase_B"
+# Phase A/B dirs — used only by the built-in fallback probe builders
+PHASE_A_DIR  = ROOT / "training_data" / "01_language" / "phase_A"
+PHASE_B_DIR  = ROOT / "training_data" / "01_language" / "phase_B"
 
 # B/D/E words that failed in C13 — hardcoded representative set
 EMOTION_WORDS = [
@@ -108,6 +104,105 @@ ARITHMETIC_PROBES = [
 ]
 _NUM = {0:"zero",1:"one",2:"two",3:"three",4:"four",5:"five",
         6:"six",7:"seven",8:"eight",9:"nine",10:"ten"}
+
+
+# ---------------------------------------------------------------------------
+# Output path helper
+# ---------------------------------------------------------------------------
+
+def _out_paths(name: str | None) -> tuple[Path, Path, Path, Path]:
+    """Return (activations, probes, heatmap, scatter) paths, optionally namespaced."""
+    suffix = f"_{name}" if name else ""
+    tmp = ROOT / "tmp"
+    return (
+        tmp / f"brain_map{suffix}_activations.npz",
+        tmp / f"brain_map{suffix}_probes.jsonl",
+        tmp / f"brain_map{suffix}_similarity.png",
+        tmp / f"brain_map{suffix}_scatter.png",
+    )
+
+
+# ---------------------------------------------------------------------------
+# External probe loader
+# ---------------------------------------------------------------------------
+
+def load_external_probes(path: Path) -> list[dict]:
+    """
+    Load a probe set from a JSONL file.
+    Required fields: 'prompt', 'category'.
+    Optional: 'id' (used as label), 'lang', 'expected_cluster'.
+    Lines starting with '#' are ignored.
+    """
+    probes = []
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            p = json.loads(line)
+            if "label" not in p:
+                p["label"] = p.get("id", f"probe_{len(probes)}")
+            probes.append(p)
+    return probes
+
+
+# ---------------------------------------------------------------------------
+# Dynamic palette
+# ---------------------------------------------------------------------------
+
+# Known categories get consistent colours; unknown ones get auto-assigned.
+_KNOWN_COLORS: dict[str, str] = {
+    # Language campaign
+    "animals":           "#2196F3",
+    "animals_boolean":   "#64B5F6",
+    "multilingual":      "#00BCD4",
+    "vehicles":          "#00ACC1",
+    "objects":           "#78909C",
+    "boundary":          "#FF7043",
+    "emotions":          "#E53935",
+    "emotions_boolean":  "#EF9A9A",
+    "emotions_boundary": "#FFCDD2",
+    "movement":          "#FF8F00",
+    "time":              "#FDD835",
+    "cognitive":         "#FB8C00",
+    "abstract":          "#8E24AA",
+    "grammar":           "#6A1B9A",
+    "grammar_dative":    "#9C27B0",
+    "grammar_accusative":"#7B1FA2",
+    "grammar_v2":        "#CE93D8",
+    "grammar_artikel":   "#E1BEE7",
+    "spatial":           "#43A047",
+    "arithmetic":        "#795548",
+    # Multilingual subcategories
+    "multilingual_EN":   "#00BCD4",
+    "multilingual_DE":   "#0097A7",
+    "multilingual_JP":   "#006064",
+    "multilingual_ZH":   "#80DEEA",
+    # Legacy (built-in probe builders)
+    "phase_a":           "#2196F3",
+    "phase_b":           "#4CAF50",
+    "emotion":           "#F44336",
+    "cognitive_legacy":  "#FF9800",
+}
+_AUTO_COLORS = [
+    "#F06292", "#AED581", "#FFD54F", "#CE93D8", "#80CBC4",
+    "#FFAB40", "#B0BEC5", "#A5D6A7", "#F48FB1", "#81D4FA",
+]
+
+def make_palette(cats: list[str]) -> dict[str, str]:
+    palette: dict[str, str] = {}
+    auto_i = 0
+    for cat in dict.fromkeys(cats):
+        if cat in _KNOWN_COLORS:
+            palette[cat] = _KNOWN_COLORS[cat]
+        else:
+            prefix = cat.split("_")[0]
+            if prefix in _KNOWN_COLORS:
+                palette[cat] = _KNOWN_COLORS[prefix]
+            else:
+                palette[cat] = _AUTO_COLORS[auto_i % len(_AUTO_COLORS)]
+                auto_i += 1
+    return palette
 
 
 # ---------------------------------------------------------------------------
@@ -356,9 +451,20 @@ def cmd_probe(args):
     if not checkpoint.exists():
         sys.exit(f"Checkpoint not found: {checkpoint}")
 
-    rng    = random.Random(SEED)
-    probes = build_all_probes(rng)
-    print(f"Probe set: {len(probes)} probes")
+    name = getattr(args, "name", None)
+    out_act, out_probes_file, _, _ = _out_paths(name)
+
+    probe_file = getattr(args, "probes", None)
+    if probe_file:
+        probe_path = Path(probe_file)
+        if not probe_path.exists():
+            sys.exit(f"Probe file not found: {probe_path}")
+        probes = load_external_probes(probe_path)
+        print(f"Probe set: {len(probes)} probes from {probe_path.name}")
+    else:
+        rng    = random.Random(SEED)
+        probes = build_all_probes(rng)
+        print(f"Probe set: {len(probes)} probes (built-in fallback)")
 
     by_cat = {}
     for p in probes:
@@ -395,19 +501,19 @@ def cmd_probe(args):
             print(f"  [{i+1:3d}/{len(probes)}]  last: '{probe['label']}'  "
                   f"sparsity={sparsity:.3f}")
 
-    OUT_ACTIVATIONS.parent.mkdir(parents=True, exist_ok=True)
+    out_act.parent.mkdir(parents=True, exist_ok=True)
     # Save geometry alongside activations so hubs command doesn't need to hardcode it
-    np.savez_compressed(str(OUT_ACTIVATIONS), activations=vectors,
+    np.savez_compressed(str(out_act), activations=vectors,
                         n_layer=np.int32(C.n_layer),
                         n_head=np.int32(C.n_head),
                         neuron_dim=np.int32(N))
-    OUT_PROBES.write_text(
+    out_probes_file.write_text(
         "\n".join(json.dumps(m, ensure_ascii=False) for m in meta) + "\n",
         encoding="utf-8",
     )
     avg_sparsity = np.mean([m["sparsity"] for m in meta])
-    print(f"\nSaved: {OUT_ACTIVATIONS}")
-    print(f"Saved: {OUT_PROBES}")
+    print(f"\nSaved: {out_act}")
+    print(f"Saved: {out_probes_file}")
     print(f"Average sparsity: {avg_sparsity:.3f}  "
           f"(~{avg_sparsity * dim:.0f} active neurons per probe out of {dim:,})")
 
@@ -415,13 +521,16 @@ def cmd_probe(args):
 def cmd_map(args):
     import numpy as np
 
-    if not OUT_ACTIVATIONS.exists():
-        sys.exit(f"No activations found. Run: probe first.")
+    name = getattr(args, "name", None)
+    out_act, out_probes_file, _, _ = _out_paths(name)
 
-    data    = np.load(str(OUT_ACTIVATIONS))
+    if not out_act.exists():
+        sys.exit(f"No activations found at {out_act}. Run: probe first.")
+
+    data    = np.load(str(out_act))
     vectors = data["activations"]          # (n_probes, dim)
     probes  = [json.loads(l)
-               for l in OUT_PROBES.read_text(encoding="utf-8").splitlines()
+               for l in out_probes_file.read_text(encoding="utf-8").splitlines()
                if l.strip()]
     labels   = [p["label"]    for p in probes]
     cats     = [p["category"] for p in probes]
@@ -434,27 +543,24 @@ def cmd_map(args):
     normed = vectors / norms
     sim    = normed @ normed.T                  # (n, n) cosine similarity matrix
 
-    # Sort probes by category for clean block structure in heatmap
-    category_order = [
-        "phase_a", "phase_b",
-        "emotion", "cognitive",
-        "grammar_dative", "grammar_accusative", "grammar_v2", "grammar_artikel",
-        "arithmetic",
-        "multilingual_EN", "multilingual_DE", "multilingual_JP", "multilingual_ZH",
-    ]
-    cat_priority = {c: i for i, c in enumerate(category_order)}
+    # Sort probes by category — preserve first-seen order from probe file
+    category_order = list(dict.fromkeys(cats))
+    cat_priority   = {c: i for i, c in enumerate(category_order)}
     order   = sorted(range(n), key=lambda i: (cat_priority.get(cats[i], 99), labels[i]))
     sim_ord = sim[np.ix_(order, order)]
     labs_ord = [labels[i] for i in order]
     cats_ord = [cats[i]   for i in order]
 
-    _heatmap(sim_ord, labs_ord, cats_ord)
+    ckpt_label = getattr(args, "name", None) or "checkpoint"
+    _heatmap(sim_ord, labs_ord, cats_ord,
+             title=f"BDH {ckpt_label} — Concept Activation Similarity (xy_sparse, last token)")
 
     # ── 2-D scatter (t-SNE or PCA fallback) ──────────────────────────────
-    _scatter(vectors, labels, cats)
+    _scatter(vectors, labels, cats, title_prefix=f"BDH {ckpt_label}")
 
 
-def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str]):
+def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str],
+             title: str = "BDH — Concept Activation Similarity (xy_sparse, last token)"):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
@@ -462,22 +568,7 @@ def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str]):
     import numpy as np
 
     n = len(labels)
-
-    PALETTE = {
-        "phase_a":          "#2196F3",   # blue — succeeded
-        "phase_b":          "#4CAF50",   # green — succeeded
-        "emotion":          "#F44336",   # red — failed B/D/E
-        "cognitive":        "#FF9800",   # orange — failed B/D/E
-        "grammar_dative":   "#9C27B0",   # purple — grammar
-        "grammar_accusative":"#7B1FA2",
-        "grammar_v2":       "#CE93D8",
-        "grammar_artikel":  "#E1BEE7",
-        "arithmetic":       "#795548",   # brown
-        "multilingual_EN":  "#00BCD4",   # cyan family — multilingual
-        "multilingual_DE":  "#0097A7",
-        "multilingual_JP":  "#006064",
-        "multilingual_ZH":  "#80DEEA",
-    }
+    PALETTE = make_palette(cats)
 
     fig, ax = plt.subplots(figsize=(14, 12))
     im = ax.imshow(sim, vmin=-0.1, vmax=1.0, cmap="RdYlGn", aspect="auto")
@@ -528,7 +619,7 @@ def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str]):
             prev_cat = cat
 
     ax.set_title(
-        "BDH C13 Winner — Concept Activation Similarity (xy_sparse, last token)\n"
+        title + "\n"
         + "  ".join(f"{cat.replace('_',' ')}: μ={ms:.2f}"
                     for cat, _, _, ms in block_means),
         fontsize=9,
@@ -545,27 +636,14 @@ def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str]):
         print(f"  {cat:<25}  n={e-s:3d}  mean_sim={ms:.3f}")
 
 
-def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str]):
+def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str],
+             title_prefix: str = "BDH"):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
     import numpy as np
 
-    PALETTE = {
-        "phase_a":          "#2196F3",
-        "phase_b":          "#4CAF50",
-        "emotion":          "#F44336",
-        "cognitive":        "#FF9800",
-        "grammar_dative":   "#9C27B0",
-        "grammar_accusative":"#7B1FA2",
-        "grammar_v2":       "#CE93D8",
-        "grammar_artikel":  "#E1BEE7",
-        "arithmetic":       "#795548",
-        "multilingual_EN":  "#00BCD4",
-        "multilingual_DE":  "#0097A7",
-        "multilingual_JP":  "#006064",
-        "multilingual_ZH":  "#80DEEA",
-    }
+    PALETTE = make_palette(cats)
 
     # Try t-SNE first, fall back to PCA
     try:
@@ -599,7 +677,7 @@ def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str]):
             seen[cat] = mpatches.Patch(color=PALETTE.get(cat, "#999999"),
                                        label=cat.replace("_", " "))
     ax.legend(handles=list(seen.values()), fontsize=7, loc="best", framealpha=0.8)
-    ax.set_title(f"BDH C13 Winner — {method} of xy_sparse activations\n"
+    ax.set_title(f"{title_prefix} — {method} of xy_sparse activations\n"
                  "Each point = one probe; colour = category", fontsize=10)
     ax.set_xlabel(f"{method} dim 1")
     ax.set_ylabel(f"{method} dim 2")
@@ -654,15 +732,18 @@ def cmd_hubs(args):
     import numpy as np
     import json as _json
 
-    if not OUT_ACTIVATIONS.exists():
-        sys.exit("No activations found. Run: probe first.")
+    name = getattr(args, "name", None)
+    out_act, out_probes_file, _, _ = _out_paths(name)
+
+    if not out_act.exists():
+        sys.exit(f"No activations found at {out_act}. Run: probe first.")
 
     hub_threshold = args.threshold
 
-    data    = np.load(str(OUT_ACTIVATIONS))
+    data    = np.load(str(out_act))
     vectors = data["activations"]
     probes  = [_json.loads(l)
-               for l in OUT_PROBES.read_text(encoding="utf-8").splitlines()
+               for l in out_probes_file.read_text(encoding="utf-8").splitlines()
                if l.strip()]
     labels  = [p["label"]    for p in probes]
     cats    = [p["category"] for p in probes]
@@ -771,14 +852,8 @@ def _heatmap_filtered(vectors: "np.ndarray", labels: list[str], cats: list[str],
     normed = vectors / norms
     sim    = normed @ normed.T
 
-    category_order = [
-        "phase_a", "phase_b",
-        "emotion", "cognitive",
-        "grammar_dative", "grammar_accusative", "grammar_v2", "grammar_artikel",
-        "arithmetic",
-        "multilingual_EN", "multilingual_DE", "multilingual_JP", "multilingual_ZH",
-    ]
-    cat_priority = {c: i for i, c in enumerate(category_order)}
+    category_order = list(dict.fromkeys(cats))
+    cat_priority   = {c: i for i, c in enumerate(category_order)}
     order    = sorted(range(len(labels)),
                       key=lambda i: (cat_priority.get(cats[i], 99), labels[i]))
     sim_ord  = sim[np.ix_(order, order)]
@@ -790,15 +865,7 @@ def _heatmap_filtered(vectors: "np.ndarray", labels: list[str], cats: list[str],
     import matplotlib.pyplot as plt
     import matplotlib.patches as mpatches
 
-    PALETTE = {
-        "phase_a": "#2196F3", "phase_b": "#4CAF50",
-        "emotion": "#F44336", "cognitive": "#FF9800",
-        "grammar_dative": "#9C27B0", "grammar_accusative": "#7B1FA2",
-        "grammar_v2": "#CE93D8", "grammar_artikel": "#E1BEE7",
-        "arithmetic": "#795548",
-        "multilingual_EN": "#00BCD4", "multilingual_DE": "#0097A7",
-        "multilingual_JP": "#006064", "multilingual_ZH": "#80DEEA",
-    }
+    PALETTE = make_palette(cats_ord)
 
     n   = len(labs_ord)
     fig, ax = plt.subplots(figsize=(14, 12))
@@ -860,18 +927,32 @@ def main():
 
     p_probe = sub.add_parser("probe", help="Run probe pass, save activations")
     p_probe.add_argument("--checkpoint", default=str(DEFAULT_CHECKPOINT))
+    p_probe.add_argument("--probes", default=None,
+                         help="Path to probe set JSONL (e.g. training/corpus_admin/probe_sets/language.jsonl). "
+                              "Omit to use built-in fallback probes.")
+    p_probe.add_argument("--name", default=None,
+                         help="Label for output files (e.g. c14_e2_language). "
+                              "Files saved as tmp/brain_map_<name>_*.npz/jsonl/png.")
     p_probe.set_defaults(func=cmd_probe)
 
-    sub.add_parser("map", help="Generate visualizations from saved activations") \
-       .set_defaults(func=cmd_map)
+    p_map = sub.add_parser("map", help="Generate visualizations from saved activations")
+    p_map.add_argument("--name", default=None,
+                       help="Must match --name used during probe (default: unnamed)")
+    p_map.set_defaults(func=cmd_map)
 
     p_hubs = sub.add_parser("hubs", help="Detect routing hubs, generate filtered heatmap")
     p_hubs.add_argument("--threshold", type=float, default=0.7,
                         help="Fraction of categories a neuron must fire in to be a hub (default 0.7)")
+    p_hubs.add_argument("--name", default=None,
+                        help="Must match --name used during probe (default: unnamed)")
     p_hubs.set_defaults(func=cmd_hubs)
 
     p_run = sub.add_parser("run", help="Probe then map (default)")
     p_run.add_argument("--checkpoint", default=str(DEFAULT_CHECKPOINT))
+    p_run.add_argument("--probes", default=None,
+                       help="Path to probe set JSONL.")
+    p_run.add_argument("--name", default=None,
+                       help="Label for output files.")
     p_run.set_defaults(func=cmd_run)
 
     args = ap.parse_args()

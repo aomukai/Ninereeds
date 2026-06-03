@@ -1,0 +1,162 @@
+# Probe set: language campaign (Campaign 14)
+# Source: docs/probe_catalogue.md
+# Format: {"id", "campaign", "category", "lang", "prompt", "expected_cluster"}
+# Run with: python3 meta/scripts/brain_map.py probe --checkpoint $CKPT --probes training/corpus_admin/probe_sets/language.jsonl --name c14_language
+#
+# Category key:
+#   animals            — superordinate animal probes (what is X?)
+#   animals_boolean    — property/boolean probes (does X bark?)
+#   multilingual       — same concept × EN/DE/JP/ZH
+#   vehicles           — vehicle superordinate
+#   objects            — object integrity
+#   boundary           — vehicle/animal boundary tests
+#   emotions           — emotion superordinate
+#   emotions_boolean   — observable state discrimination
+#   emotions_boundary  — emotion/movement boundary
+#   movement           — physical movement probes
+#   time               — time & sequence probes
+#   cognitive          — cognitive verb probes
+#   abstract           — abstract property probes
+#   grammar            — grammar & case probes (EN/DE/JP/ZH)
+#   spatial            — spatial/positional probes
+#   arithmetic         — arithmetic probes
+
+# --- GROUP 1: Animals ---
+
+{"id": "an_super_01", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a dog?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_super_02", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a cat?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_super_03", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a rabbit?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_super_04", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a horse?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_super_05", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is an eagle?\n[Ninereeds]", "expected_cluster": "animals/birds"}
+{"id": "an_super_06", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a sparrow?\n[Ninereeds]", "expected_cluster": "animals/birds"}
+{"id": "an_super_07", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a crow?\n[Ninereeds]", "expected_cluster": "animals/birds"}
+{"id": "an_super_08", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a salmon?\n[Ninereeds]", "expected_cluster": "animals/fish"}
+{"id": "an_super_09", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a frog?\n[Ninereeds]", "expected_cluster": "animals/amphibians"}
+{"id": "an_super_10", "campaign": "language", "category": "animals", "lang": "EN", "prompt": "[user]What is a snake?\n[Ninereeds]", "expected_cluster": "animals/reptiles"}
+
+{"id": "an_prop_01", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Does a dog bark?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_prop_02", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Does a cat bark?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_prop_03", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Does a dog fly?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_prop_04", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Does an eagle fly?\n[Ninereeds]", "expected_cluster": "animals/birds"}
+{"id": "an_prop_05", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Does a fish walk?\n[Ninereeds]", "expected_cluster": "animals/fish"}
+{"id": "an_prop_06", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Does a dog swim?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_prop_07", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Can a cat purr?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_prop_08", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Can a rabbit hop?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_prop_09", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Is a frog a mammal?\n[Ninereeds]", "expected_cluster": "animals/amphibians"}
+{"id": "an_prop_10", "campaign": "language", "category": "animals_boolean", "lang": "EN", "prompt": "[user]Is a snake an insect?\n[Ninereeds]", "expected_cluster": "animals/reptiles"}
+
+{"id": "an_lang_01", "campaign": "language", "category": "multilingual", "lang": "EN", "prompt": "[user]What is a cat?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_02", "campaign": "language", "category": "multilingual", "lang": "DE", "prompt": "[user]Was ist eine Katze?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_03", "campaign": "language", "category": "multilingual", "lang": "JP", "prompt": "[user]猫とは何ですか？\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_04", "campaign": "language", "category": "multilingual", "lang": "ZH", "prompt": "[user]貓是什麼？\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_05", "campaign": "language", "category": "multilingual", "lang": "EN", "prompt": "[user]What is a dog?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_06", "campaign": "language", "category": "multilingual", "lang": "DE", "prompt": "[user]Was ist ein Hund?\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_07", "campaign": "language", "category": "multilingual", "lang": "JP", "prompt": "[user]犬とは何ですか？\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+{"id": "an_lang_08", "campaign": "language", "category": "multilingual", "lang": "ZH", "prompt": "[user]狗是什麼？\n[Ninereeds]", "expected_cluster": "animals/mammals"}
+
+# --- GROUP 2: Vehicles & Objects ---
+
+{"id": "veh_01", "campaign": "language", "category": "vehicles", "lang": "EN", "prompt": "[user]What is a car?\n[Ninereeds]", "expected_cluster": "vehicles"}
+{"id": "veh_02", "campaign": "language", "category": "vehicles", "lang": "EN", "prompt": "[user]What is a bus?\n[Ninereeds]", "expected_cluster": "vehicles"}
+{"id": "veh_03", "campaign": "language", "category": "vehicles", "lang": "EN", "prompt": "[user]What is a train?\n[Ninereeds]", "expected_cluster": "vehicles"}
+{"id": "veh_04", "campaign": "language", "category": "vehicles", "lang": "EN", "prompt": "[user]What is a bicycle?\n[Ninereeds]", "expected_cluster": "vehicles"}
+{"id": "veh_05", "campaign": "language", "category": "vehicles", "lang": "EN", "prompt": "[user]What is a boat?\n[Ninereeds]", "expected_cluster": "vehicles"}
+
+{"id": "boundary_01", "campaign": "language", "category": "boundary", "lang": "EN", "prompt": "[user]Is a car an animal?\n[Ninereeds]", "expected_cluster": "vehicles"}
+{"id": "boundary_02", "campaign": "language", "category": "boundary", "lang": "EN", "prompt": "[user]Is a horse a vehicle?\n[Ninereeds]", "expected_cluster": "animals"}
+{"id": "boundary_03", "campaign": "language", "category": "boundary", "lang": "EN", "prompt": "[user]Can a bus bark?\n[Ninereeds]", "expected_cluster": "vehicles"}
+{"id": "boundary_04", "campaign": "language", "category": "boundary", "lang": "EN", "prompt": "[user]Can a dog drive?\n[Ninereeds]", "expected_cluster": "animals"}
+
+{"id": "obj_01", "campaign": "language", "category": "objects", "lang": "EN", "prompt": "[user]What is a stone?\n[Ninereeds]", "expected_cluster": "objects/materials"}
+{"id": "obj_02", "campaign": "language", "category": "objects", "lang": "EN", "prompt": "[user]What is a bucket?\n[Ninereeds]", "expected_cluster": "objects/containers"}
+{"id": "obj_03", "campaign": "language", "category": "objects", "lang": "EN", "prompt": "[user]What is a door?\n[Ninereeds]", "expected_cluster": "objects/construction"}
+{"id": "obj_04", "campaign": "language", "category": "objects", "lang": "EN", "prompt": "[user]What is an apple?\n[Ninereeds]", "expected_cluster": "objects/food"}
+{"id": "obj_05", "campaign": "language", "category": "objects", "lang": "EN", "prompt": "[user]What is a key?\n[Ninereeds]", "expected_cluster": "objects/tools"}
+
+# --- GROUP 3: Emotions ---
+
+{"id": "em_01", "campaign": "language", "category": "emotions", "lang": "EN", "prompt": "[user]What is sadness?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_02", "campaign": "language", "category": "emotions", "lang": "EN", "prompt": "[user]What is anger?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_03", "campaign": "language", "category": "emotions", "lang": "EN", "prompt": "[user]What is fear?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_04", "campaign": "language", "category": "emotions", "lang": "EN", "prompt": "[user]What is happiness?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_05", "campaign": "language", "category": "emotions", "lang": "EN", "prompt": "[user]What is loneliness?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_06", "campaign": "language", "category": "emotions", "lang": "EN", "prompt": "[user]What is surprise?\n[Ninereeds]", "expected_cluster": "emotions"}
+
+{"id": "em_bool_01", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The boy is crying. Is he happy?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_bool_02", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The boy is crying. Is he sad?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_bool_03", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The girl is smiling. Is she angry?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_bool_04", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The girl is smiling. Is she happy?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_bool_05", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The man is shouting. Is he calm?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_bool_06", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The man is shouting. Is he angry?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_bool_07", "campaign": "language", "category": "emotions_boolean", "lang": "EN", "prompt": "[user]The child is shaking. Is she cold or afraid?\n[Ninereeds]", "expected_cluster": "emotions+physical"}
+
+{"id": "em_move_01", "campaign": "language", "category": "emotions_boundary", "lang": "EN", "prompt": "[user]What does crying look like?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_move_02", "campaign": "language", "category": "emotions_boundary", "lang": "EN", "prompt": "[user]What does laughing look like?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "em_move_03", "campaign": "language", "category": "emotions_boundary", "lang": "EN", "prompt": "[user]Is crying a movement?\n[Ninereeds]", "expected_cluster": "boundary"}
+{"id": "em_move_04", "campaign": "language", "category": "emotions_boundary", "lang": "EN", "prompt": "[user]Is laughing the same as happiness?\n[Ninereeds]", "expected_cluster": "boundary"}
+
+# --- GROUP 4: Movement & Physical Actions ---
+
+{"id": "mv_01", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]What does running look like?\n[Ninereeds]", "expected_cluster": "movement"}
+{"id": "mv_02", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]What does falling look like?\n[Ninereeds]", "expected_cluster": "movement"}
+{"id": "mv_03", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]What does jumping look like?\n[Ninereeds]", "expected_cluster": "movement"}
+{"id": "mv_04", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]What does carrying look like?\n[Ninereeds]", "expected_cluster": "movement"}
+{"id": "mv_05", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]Can a stone run?\n[Ninereeds]", "expected_cluster": "movement"}
+{"id": "mv_06", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]Can a dog run?\n[Ninereeds]", "expected_cluster": "movement"}
+{"id": "mv_07", "campaign": "language", "category": "movement", "lang": "EN", "prompt": "[user]Can a fish jump?\n[Ninereeds]", "expected_cluster": "movement"}
+
+# --- GROUP 5: Time & Sequence ---
+
+{"id": "time_01", "campaign": "language", "category": "time", "lang": "EN", "prompt": "[user]What does ago mean?\n[Ninereeds]", "expected_cluster": "time_sequence"}
+{"id": "time_02", "campaign": "language", "category": "time", "lang": "EN", "prompt": "[user]What comes after winter?\n[Ninereeds]", "expected_cluster": "time_sequence"}
+{"id": "time_03", "campaign": "language", "category": "time", "lang": "EN", "prompt": "[user]What does yesterday mean?\n[Ninereeds]", "expected_cluster": "time_sequence"}
+{"id": "time_04", "campaign": "language", "category": "time", "lang": "EN", "prompt": "[user]What does before mean?\n[Ninereeds]", "expected_cluster": "time_sequence"}
+{"id": "time_05", "campaign": "language", "category": "time", "lang": "DE", "prompt": "[user]Was bedeutet gestern?\n[Ninereeds]", "expected_cluster": "time_sequence"}
+{"id": "time_06", "campaign": "language", "category": "time", "lang": "JP", "prompt": "[user]昨日とはどういう意味ですか？\n[Ninereeds]", "expected_cluster": "time_sequence"}
+{"id": "time_07", "campaign": "language", "category": "time", "lang": "ZH", "prompt": "[user]昨天是什麼意思？\n[Ninereeds]", "expected_cluster": "time_sequence"}
+
+# --- GROUP 6: Abstract Concepts ---
+
+{"id": "cog_01", "campaign": "language", "category": "cognitive", "lang": "EN", "prompt": "[user]What does it mean to know something?\n[Ninereeds]", "expected_cluster": "cognitive_verbs"}
+{"id": "cog_02", "campaign": "language", "category": "cognitive", "lang": "EN", "prompt": "[user]What does it mean to think?\n[Ninereeds]", "expected_cluster": "cognitive_verbs"}
+{"id": "cog_03", "campaign": "language", "category": "cognitive", "lang": "EN", "prompt": "[user]What does it mean to remember?\n[Ninereeds]", "expected_cluster": "cognitive_verbs"}
+{"id": "cog_04", "campaign": "language", "category": "cognitive", "lang": "EN", "prompt": "[user]What does it mean to forget?\n[Ninereeds]", "expected_cluster": "cognitive_verbs"}
+{"id": "cog_05", "campaign": "language", "category": "cognitive", "lang": "EN", "prompt": "[user]What does it mean to understand?\n[Ninereeds]", "expected_cluster": "cognitive_verbs"}
+
+{"id": "abs_01", "campaign": "language", "category": "abstract", "lang": "EN", "prompt": "[user]What is patience?\n[Ninereeds]", "expected_cluster": "abstract_properties"}
+{"id": "abs_02", "campaign": "language", "category": "abstract", "lang": "EN", "prompt": "[user]What is honesty?\n[Ninereeds]", "expected_cluster": "abstract_properties"}
+{"id": "abs_03", "campaign": "language", "category": "abstract", "lang": "EN", "prompt": "[user]What is ability?\n[Ninereeds]", "expected_cluster": "abstract_properties"}
+{"id": "abs_04", "campaign": "language", "category": "abstract", "lang": "EN", "prompt": "[user]What is acceptance?\n[Ninereeds]", "expected_cluster": "abstract_properties"}
+{"id": "abs_05", "campaign": "language", "category": "abstract", "lang": "EN", "prompt": "[user]What does abiding mean?\n[Ninereeds]", "expected_cluster": "abstract_properties"}
+
+# --- GROUP 7: Grammar & Case ---
+
+{"id": "gr_01", "campaign": "language", "category": "grammar", "lang": "EN", "prompt": "[user]Who gives the boy the apple?\n[Ninereeds]", "expected_cluster": "grammar/nominative"}
+{"id": "gr_02", "campaign": "language", "category": "grammar", "lang": "EN", "prompt": "[user]What does Emma give the boy?\n[Ninereeds]", "expected_cluster": "grammar/accusative"}
+{"id": "gr_03", "campaign": "language", "category": "grammar", "lang": "EN", "prompt": "[user]To whom does Gran bring the bread?\n[Ninereeds]", "expected_cluster": "grammar/dative"}
+{"id": "gr_04", "campaign": "language", "category": "grammar", "lang": "DE", "prompt": "[user]Wer gibt dem Jungen den Apfel?\n[Ninereeds]", "expected_cluster": "grammar/nominative"}
+{"id": "gr_05", "campaign": "language", "category": "grammar", "lang": "DE", "prompt": "[user]Was gibt Emma dem Jungen?\n[Ninereeds]", "expected_cluster": "grammar/accusative"}
+{"id": "gr_06", "campaign": "language", "category": "grammar", "lang": "DE", "prompt": "[user]Wem bringt Gran das Brot?\n[Ninereeds]", "expected_cluster": "grammar/dative"}
+{"id": "gr_07", "campaign": "language", "category": "grammar", "lang": "JP", "prompt": "[user]誰がその少年にリンゴをあげますか？\n[Ninereeds]", "expected_cluster": "grammar/nominative"}
+{"id": "gr_08", "campaign": "language", "category": "grammar", "lang": "ZH", "prompt": "[user]誰給男孩蘋果？\n[Ninereeds]", "expected_cluster": "grammar/nominative"}
+
+# --- GROUP 8: Spatial / Positional ---
+# Note: Biscuit (grounded_stories character) replaced with neutral spatial probes.
+# These test spatial preposition comprehension, not world-model knowledge.
+
+{"id": "sp_01", "campaign": "language", "category": "spatial", "lang": "EN", "prompt": "[user]Where is the bird?\n[Ninereeds]", "expected_cluster": "spatial"}
+{"id": "sp_02", "campaign": "language", "category": "spatial", "lang": "EN", "prompt": "[user]What is above the mountain?\n[Ninereeds]", "expected_cluster": "spatial"}
+{"id": "sp_03", "campaign": "language", "category": "spatial", "lang": "EN", "prompt": "[user]What is under the tree?\n[Ninereeds]", "expected_cluster": "spatial"}
+{"id": "sp_04", "campaign": "language", "category": "spatial", "lang": "EN", "prompt": "[user]What is in front of the school?\n[Ninereeds]", "expected_cluster": "spatial"}
+{"id": "sp_05", "campaign": "language", "category": "spatial", "lang": "DE", "prompt": "[user]Was ist über dem Berg?\n[Ninereeds]", "expected_cluster": "spatial"}
+{"id": "sp_06", "campaign": "language", "category": "spatial", "lang": "JP", "prompt": "[user]山の上には何がありますか？\n[Ninereeds]", "expected_cluster": "spatial"}
+
+# --- GROUP 9: Numbers & Arithmetic ---
+
+{"id": "num_01", "campaign": "language", "category": "arithmetic", "lang": "EN", "prompt": "[user]What is two plus three?\n[Ninereeds]", "expected_cluster": "arithmetic"}
+{"id": "num_02", "campaign": "language", "category": "arithmetic", "lang": "EN", "prompt": "[user]What is five plus five?\n[Ninereeds]", "expected_cluster": "arithmetic"}
+{"id": "num_03", "campaign": "language", "category": "arithmetic", "lang": "EN", "prompt": "[user]How many legs does a dog have?\n[Ninereeds]", "expected_cluster": "numbers"}
+{"id": "num_04", "campaign": "language", "category": "arithmetic", "lang": "EN", "prompt": "[user]What is one plus one?\n[Ninereeds]", "expected_cluster": "arithmetic"}
+{"id": "num_05", "campaign": "language", "category": "arithmetic", "lang": "DE", "prompt": "[user]Was ist drei plus vier?\n[Ninereeds]", "expected_cluster": "arithmetic"}
+{"id": "num_06", "campaign": "language", "category": "arithmetic", "lang": "JP", "prompt": "[user]2たす3は何ですか？\n[Ninereeds]", "expected_cluster": "arithmetic"}
+{"id": "num_07", "campaign": "language", "category": "arithmetic", "lang": "ZH", "prompt": "[user]2加3等於多少？\n[Ninereeds]", "expected_cluster": "arithmetic"}

@@ -85,30 +85,51 @@ See `docs/handoff_2026-06-01.md` for full details.
 - [x] Audit passes clean
 - [x] Commit teaching_stories/ to git
 - [x] Boolean story pass: 800 stories complete (2026-06-02), committed
-- [ ] Build curriculum order: Phase A → Phase B → grounded_stories (195) → teaching_stories + boolean → B/D/E retry
-- [ ] Write `docs/probe_catalogue.md` — competency probe design (skeleton drafted in session 2026-06-02)
+- [x] Build curriculum order: phase_A → phase_B → lang_1/2 → bridge → grammar → lang_3/4/5 → teaching+triplets → boolean
+  - `training/corpus_admin/campaign14_manifest.txt` — 37,569 files, complete explicit order (2026-06-04)
+  - `training/corpus_admin/campaign14_blocks/` — 8 individual block files for verification
+  - `meta/scripts/build_campaign14_manifest.py` — manifest generator (`--verify` flag checks all paths)
+  - (old `campaign14_order.txt` superseded — teaching block only, had grounded interleaved — keep for reference)
+- [x] Write `docs/probe_catalogue.md` — complete (2026-06-02); language probe set built (2026-06-04)
+  - `training/corpus_admin/probe_sets/language.jsonl` — 104 probes, 16 categories
+  - `meta/scripts/brain_map.py` — fixed paths; added `--probes` and `--name` flags
 
 ---
 
-## Campaign 14 — Grounded stories + Phase B retry
+## Campaign 14 — Language campaign
 
-**Goal:** Introduce grounded stories on top of the C13 winner, then retry Phase B and D.
-Hypothesis: narrative context gives emotions and cognitive verbs the grounding they need.
+**Goal:** Teach the full language curriculum. Retry B/D/E after language is established.
+**Design:** 4-campaign split: 01_language → 02_thinking → 03_education → 04_philosophy
 
 **Model:** 25M (validate) → 150M (if 25M confirms)
 **Base checkpoint:** `checkpoints/c13_Phase_C_winner.pt` (shaped 0.925)
+**Training data:** `training_data/01_language/` (restructured 2026-06-04)
 
 ### Immediate next steps
 
-- [ ] Train grounded stories (interleaved, ≤5% of corpus) on C13 winner
-- [ ] Eval: does shaped score hold or improve?
-- [ ] Retry Phase B (emotions/movement) from stories checkpoint
-- [ ] Retry Phase D (cognitive verbs) from stories checkpoint
-- [ ] If B or D absorb: retry Phase E (abstraction/math) — needs arithmetic_bridge first
+- [ ] Build training corpus: `python3 meta/scripts/build_training_corpus.py --order-file training/corpus_admin/campaign14_manifest.txt --output training/corpus/campaign14_full.txt`
+- [ ] Verify corpus: output must end with `All files validated — corpus is clean.`
+- [ ] Update `CLAUDE.md` corpus structure section to reflect new `01_language/` paths
+- [ ] Update `docs/probe_catalogue.md` diagnostic grep commands (still reference old paths)
+- [ ] Launch Campaign 14 training (see `training/docs/training.md` Step 6)
+- [ ] After each epoch: run probe + eval + brain_map (language probe set)
 
 ---
 
-## Campaign 15 design — three key experiments (details TBD during week)
+## Campaign 15 — Thinking campaign (02_thinking)
+
+**Goal:** World model + reasoning on top of language-trained checkpoint.
+**Data:** `training_data/02_thinking/` — grounded_stories (sequential), reasoning
+
+### Next steps (after Campaign 14 completes)
+- [ ] Build `meta/scripts/build_campaign15_manifest.py` (same pattern as C14)
+  - grounded_stories: sequential, do NOT domain-sort
+  - reasoning: natural file order
+- [ ] Build `training/corpus_admin/probe_sets/thinking.jsonl`
+
+---
+
+## Campaign 15 design — three key experiments (2026-06-02, details TBD)
 
 From deep-research report (2026-06-02). Run in order; each informs the next.
 

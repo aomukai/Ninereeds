@@ -33,50 +33,155 @@ Read this when you're not sure where something lives.
 
 ---
 
-## Corpus
+## Corpus — campaign structure
 
-| Topic | Where | Notes |
+Training data is split into four numbered campaign folders. Training order: 01 → 02 → 03 → 04.
+
+### 01_language/
+
+| Subcorpus | Path | Notes |
 |---|---|---|
-| Corpus structure overview | `CLAUDE.md` (Corpus structure section) | File tree, naming conventions, format rules. |
-| Phase files (1–6) | `training_data/phases/` | EN + DE/JP/ZH. 5806 × 4 = 23,224 files. |
-| Lang curriculum (1–5) | `training_data/lang/` | ~18k files. Flat dirs, prefix = sublevel. |
-| Wiki (levels 1–4) | `training_data/wiki/` | 2110 EN × 4 langs = 8440 files. |
-| Grammar corpus | `training_data/grammar/` | 1921 files. Numeric dir order = training order. |
-| Grammar design rationale | `docs/grammar_plan.md` | Why function-first. Dative/accusative spine. Still relevant as WHY doc even though generation is complete. |
-| Grammar control files | `training/corpus_admin/grammar/` | manifest.md, lexicon.md, prepositions.md, bridge_design.md. Not training data. |
-| Grounded stories | `training_data/grounded_stories/` | 195 stories × 4 langs = 780 files. |
+| Phase A (concrete anchors) | `training_data/01_language/phase_A/` | 1494 units. Foundation vocabulary. |
+| Phase B (agents & social) | `training_data/01_language/phase_B/` | 1148 units. Was Phase C in C13. |
+| Teaching stories | `training_data/01_language/teaching_stories/tier_N/bucket/` | 5006 stories, 4 tiers × 50 domain buckets. |
+| Boolean stories | `training_data/01_language/boolean_stories/` | 800 files. Elimination/contrast register. Comes after teaching block. |
+| Triplet stories | `training_data/01_language/triplet_stories/tier_1/`–`tier_4/` | 1345 EN × 4 langs. Aligned by domain with teaching stories. |
+| Lang curriculum (1–5) | `training_data/01_language/lang/` | ~12k files. Multilingual 4-stanza format. lang_1/2 early; lang_3/4/5 after grammar. |
+| Grammar curriculum | `training_data/01_language/grammar/` | 1400 files, 11 modules. Numeric dir order = training order. Dative/accusative spine. |
+| Bridge course | `training_data/01_language/bridge/` | 100 files. Surface-form pre-loading; designed to precede grammar. |
+| Grammar design rationale | `docs/grammar_plan.md` | Why function-first. Still relevant as WHY doc. |
+| Grammar control files | `training/corpus_admin/grammar/` | manifest.md, lexicon.md, prepositions.md. Not training data. |
+
+### 02_thinking/
+
+| Subcorpus | Path | Notes |
+|---|---|---|
+| Grounded stories | `training_data/02_thinking/grounded_stories/` | 195 stories × 4 langs = 780 files. Sequential world model — do not shuffle. |
 | World bible + storylist | `training/corpus_admin/grounded_stories/` | Generation spec. Not training data. |
-| Triplet stories | `training_data/triplet_stories/tier_1/` – `tier_4/` | 1345 EN × 4 langs. |
-| Reasoning | `training_data/reasoning/` | Maths, epistemic uncertainty, counting. |
-| Philosophy | `training_data/philosophy/` | Multilingual tags: `[STATEMENT_EN/DE/JA/ZH]`. |
-| Allowlist | `inventory/allowlist.txt` | Content word gate for stories and multilingual reference. |
+| Reasoning | `training_data/02_thinking/reasoning/` | 153 files. Maths, epistemic uncertainty, counting. |
+
+### 03_education/
+
+| Subcorpus | Path | Notes |
+|---|---|---|
+| Wiki (levels 1–4) | `training_data/03_education/wiki/level_N/` | ~8400 files. Long-form encyclopedic Q&A. |
+
+### 04_philosophy/
+
+| Subcorpus | Path | Notes |
+|---|---|---|
+| Philosophy dialogues | `training_data/04_philosophy/` | 144 files (flat). Socratic dialogues in 4 languages. Epistemic humility / limits of knowledge. Capstone campaign. |
+
+### Cross-corpus
+
+| Topic | Where |
+|---|---|
+| Allowlist | `inventory/allowlist.txt` | Content word gate for all corpus generation. |
+| Phase vocab / domain labels | `tmp/phase_vocab.jsonl` | 2545 tier-1 + 2608 tier-2 word schemas with domain tags. |
+| Campaign 14 order manifest | `training/corpus_admin/campaign14_order.txt` | 10,034-file interleaved order (teaching + boolean + triplets). |
+| Teaching story manifest | `training/corpus_admin/teaching_story_manifest.md` | 5806 entries, domain-sorted, 8 blocks. |
 
 ---
 
 ## Corpus generation scripts
 
-| Script | What it generates | Key flags |
+Active scripts used in the current training cycle:
+
+| Script | Purpose | Key usage |
 |---|---|---|
-| `meta/scripts/gen_stories.py` | Grounded stories (EN/DE/JP/ZH) | `gen --lang EN,DE,JP,ZH --workers 6` |
-| `meta/scripts/localize_wiki.py` | Wiki DE/JP/ZH | `gen --level all --workers 8 --batch 10` |
-| `meta/scripts/localize_phases.py` | Phase DE/JP/ZH | (run complete) |
-| `meta/scripts/repair_formatting_opencode.py` | Phase formatting repairs | Queue: `phases/repair_formatting.txt` |
-| `meta/scripts/fix_localizations.py` | Naturalness repairs from audit log | `--local` for LM Studio, `--model` to override |
-| `meta/scripts/audit_localizations.py` | Naturalness audit → JSONL | `run --corpus phases --lang JP` |
-| `meta/scripts/fix_grammar_punctuation.py` | CJK terminal punctuation | `--fix` |
-| `meta/scripts/build_training_corpus.py` | Full corpus text file | Reads all training_data/ in order |
+| `meta/scripts/build_training_corpus.py` | Assemble corpus text file from an order manifest | `--order-file training/corpus_admin/campaign14_order.txt --output ...` |
+| `meta/scripts/build_teaching_order.py` | Generate campaign14_order.txt (teaching+boolean+triplets+grounded interleaved) | `stats` / `manifest` / `interleave [--dry-run]` |
+| `meta/scripts/story_gen_v2.py` | Teaching story generator (tier+domain aware, anchor/organic passes) | `run --workers 4` |
+| `meta/scripts/story_gen_boolean.py` | Boolean story generator (plan/run/status) | `plan --target 200`, `run --workers 4` |
+| `meta/scripts/brain_map.py` | Activation atlas scanner — see Eval section | `probe`, `hubs`, `map` |
+| `meta/scripts/probe.py` | Qualitative output probes (12 categories) | `--checkpoint $CKPT --temperature 0.7 --tokens 120` |
+
+Legacy generation scripts (generation complete; kept for reference):
+
+| Script | What it generated |
+|---|---|
+| `meta/scripts/gen_stories.py` | Grounded stories (EN/DE/JP/ZH) |
+| `meta/scripts/localize_wiki.py` | Wiki DE/JP/ZH |
+| `meta/scripts/lang_gen.py` | lang_1 files |
+| `meta/scripts/lang4.py`, `lang4d.py` | lang_4 structural + story corpus |
+| `meta/scripts/lang5.py`, `lang5d.py` | lang_5 Q&A + story corpus |
+| `meta/scripts/lang3c.py`, `lang3d.py` | lang_3 reflexive/benefactive + parallel stories |
+| `meta/scripts/localize_triplets.py` | Triplet story DE/JP/ZH localizations |
+| `meta/scripts/localize_reasoning.py` | Reasoning DE/JP/ZH |
+| `meta/scripts/localize_philosophy.py` | Philosophy multilingual expansion |
+| `meta/scripts/repair_formatting_opencode.py` | Phase formatting repairs (queue done) |
+| `meta/scripts/gen_grammar.py` | Grammar corpus (complete) |
 
 ---
 
 ## Eval and probing
 
-| Topic | Where |
+Three tools, run in this order after every epoch checkpoint:
+
+| Tool | Purpose | Usage |
+|---|---|---|
+| `meta/scripts/probe.py` | Qualitative output quality — 12 categories (phase format, lang curriculum, narrative+reasoning) | `python meta/scripts/probe.py --checkpoint $CKPT --temperature 0.7 --tokens 120` |
+| `eval.py` | Quantitative shaped and raw scores across 18 prompts | `python eval.py --checkpoint $CKPT` |
+| `meta/scripts/brain_map.py` | Activation-geometry scan — records xy_sparse co-firing at last prompt token, all layers | `python meta/scripts/brain_map.py probe --checkpoint $CKPT [--name label]` |
+
+### Brain map
+
+`brain_map.py` takes an MRI of the model's weight activations. It records which neuron clusters
+co-fire for a given probe, producing a PCA scatter and cosine similarity heatmap.
+Use it to track whether training moved the right clusters, created new ones, or caused bleed.
+
+**Usage:**
+```bash
+# Run a full scan with the language probe set, name the outputs
+python3 meta/scripts/brain_map.py probe \
+  --checkpoint checkpoints/c14_e2.pt \
+  --probes training/corpus_admin/probe_sets/language.jsonl \
+  --name c14_e2_language
+
+# Generate visuals from saved activations (no checkpoint needed)
+python3 meta/scripts/brain_map.py map --name c14_e2_language
+
+# Hub analysis
+python3 meta/scripts/brain_map.py hubs --name c14_e2_language --threshold 0.7
+```
+
+**Output files** (namespaced by `--name` so multiple scans coexist):
+
+| File | Contents |
 |---|---|
-| Eval harness | `eval.py` (root) |
-| Probe script | `meta/scripts/probe.py` |
-| Prompt shaper | `prompt_shaper.py` (root) |
-| Shaped score definition | `training/docs/training.md` (Shaped score section) |
-| Probe questions per run | `training/logs/run_N_report.md` |
+| `tmp/brain_map_<name>_activations.npz` | Raw xy_sparse vectors per probe (reusable) |
+| `tmp/brain_map_<name>_probes.jsonl` | Probe metadata + sparsity per probe |
+| `tmp/brain_map_<name>_similarity.png` | Cosine similarity heatmap |
+| `tmp/brain_map_<name>_scatter.png` | t-SNE / PCA scatter |
+| `tmp/brain_map_hubs.json` | Hub analysis output |
+
+**v1 status:** activation-geometry diagnostic — detects prompt-family differences reliably.
+Not yet a semantic map (template controls pending). See `docs/brain_map.md` for correct interpretation
+of v1 findings and the v2 requirements (template crossover, negative controls, construction-split grammar probes).
+
+### Probe sets (scanner databases)
+
+The scanner and the probe definitions are separated. Probe sets live in:
+```
+training/corpus_admin/probe_sets/
+  language.jsonl    — 104 probes for Campaign 14 (language campaign)
+  thinking.jsonl    — (future: Campaign 15)
+  education.jsonl   — (future: Campaign 16)
+  philosophy.jsonl  — (future: Campaign 17)
+```
+
+Each probe record: `{"id", "campaign", "category", "lang", "prompt", "expected_cluster"}`
+The `prompt` field is the fully-formatted `[user]...\n[Ninereeds]` string the model receives.
+
+**Human-readable design doc:** `docs/probe_catalogue.md` — 9 cluster groups with PASS/WARN/FAIL
+criteria and C14 target cluster signatures. The `.jsonl` files are the machine-readable implementation.
+
+### Shaped score
+
+Shaped score is the primary metric — raw improvement without shaped improvement is not success.
+Definition and failure modes: `training/docs/training.md` (Shaped score section).
+Prompt shaper: `prompt_shaper.py` (root).
+Per-run results: `training/logs/run_N_report.md` or `training/logs/campaign_N_reports/`.
 
 ---
 
@@ -96,14 +201,13 @@ Read this when you're not sure where something lives.
 
 | Topic | Where | Status |
 |---|---|---|
-| Activation atlas (brain map) | `docs/brain_map.md` | 🔮 Post-foundation-model run |
-| Curriculum ordering research | `docs/curriculum_topology.md` | 🔮 Research brief for GPT/Gemini deep research |
-| Convergence training (mommy says) | `training/docs/mommy_says_chatlog.md`, `training/docs/mommy_says_machine.md` | 🔮 Requires trained checkpoint |
-| Sparse modular training | `memory/project_sparse_modular_training.md` | 🔮 Purpose-train → extract → compose |
+| Activation atlas (brain map) — full plan | `docs/brain_map.md` | Phase 1 complete (C13 scan); Phase 1b (template crossover, negative controls) in design |
+| Curriculum ordering research | `docs/curriculum_topology.md` | Active reference — bridge interpretation corrected 2026-06-02 |
+| Convergence training (mommy says) | `training/docs/mommy_says_machine.md` | Available as L1-I in intervention registry; first candidate: German dative |
+| Sparse modular training / specialist composition | `docs/brain_map.md` (Phase 5) | 🔮 Requires stable cluster validation first |
 | BDH cognitive OS design | `docs/bdh_cognitive_os_design.md` | Long-term architecture vision |
 | BDH long-term vision | `docs/bdh_long_term_vision.md` | Long-term vision |
 | Hebbian implications | `docs/hebbian_implications_for_bdh.md` | Theory / research |
-| Grounded stories 196+ | `memory/project_grounded_stories_future.md` | Object permanence, ripple-uncertainty |
 
 ---
 
@@ -114,7 +218,10 @@ Read this when you're not sure where something lives.
 | What was tried and why | `docs/project_history.md` |
 | Completed tasks log | `docs/history.md` |
 | Phase milestones detail | `archive/milestones/2026-05-29_corpus_milestone.md` |
+| Recent session handoffs | `docs/handoff_YYYY-MM-DD*.md` — one per session; grep for the date range you need |
 | Git log | `git log --oneline` |
+
+The handoff docs + git log together form the best recent history: handoffs record decisions and rationale, commits record what changed on disk.
 
 ---
 
