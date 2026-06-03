@@ -125,15 +125,23 @@ DOMAIN_POOL_MAP: dict[str, str] = {
 }
 
 TIER_DESCRIPTIONS: dict[int, str] = {
-    1: "Tier 1 — Simple and concrete. Short scene. One or two characters. Clear, direct language.",
-    2: "Tier 2 — Moderate complexity. Two characters interact. One causal or relational element.",
-    3: "Tier 3 — Richer scene. Multiple characters. Indirect or contextual usage. Some abstraction.",
-    4: "Tier 4 — Full complexity. 2 turns per language (8 blocks total). Abstract or nuanced usage.",
+    1: ("Tier 1 — Picture-book grammar. Very short sentences (5–8 words). One idea per sentence. "
+        "Simple present or simple past. No subordinate clauses. "
+        "Example style: 'The dog ran. The child watched. The stone fell.'"),
+    2: ("Tier 2 — Picture-book grammar, slightly expanded. Short sentences. "
+        "May join two clauses with 'and' or 'but'. Simple past or present. "
+        "Example style: 'The dog ran, and the child followed. The stone was cold.'"),
+    3: ("Tier 3 — Early elementary grammar (1st grade). Sentences can be a little longer. "
+        "May use 'because', 'when', 'then', 'so'. Cause and effect is fine. "
+        "Example style: 'The child picked up the stone because it was smooth. Then she put it in her pocket.'"),
+    4: ("Tier 4 — Elementary grammar (2nd grade). Two dialogue turns per language. "
+        "Sentences can develop an idea across two clauses. 'Although', 'until', 'after' are fine. "
+        "Still clear and direct — no literary complexity, no long nested clauses."),
 }
 
-# Tier-4 block layout (0-indexed): EN→DE→JP→ZH→EN→DE→JP→ZH
-# English turns are at positions 0 and 4.
-TIER4_EN_POSITIONS = {0, 4}
+# Tier-4 block layout (0-indexed): EN turn1→EN turn2→DE turn1→DE turn2→JP→JP→ZH→ZH
+# English turns are at positions 0 and 1.
+TIER4_EN_POSITIONS = {0, 1}
 
 # ---------------------------------------------------------------------------
 # wordfreq (lazy import with fallback)
@@ -343,9 +351,9 @@ def append_receipt(
         f.write(json.dumps(receipt, ensure_ascii=False) + "\n")
 
     print(f"\n--- Pass {state['pass_id']} receipt ({state['mode']}) ---")
-    print(f"  floor deficit:    {def_before['floor_deficit']} → {def_after['floor_deficit']}"
+    print(f"  floor deficit:    {def_before['floor_deficit']} -> {def_after['floor_deficit']}"
           f"  (burn={receipt['floor_burn']}, stall={state['floor_stall_count']})")
-    print(f"  standard deficit: {def_before['standard_deficit']} → {def_after['standard_deficit']}"
+    print(f"  standard deficit: {def_before['standard_deficit']} -> {def_after['standard_deficit']}"
           f"  (burn={receipt['standard_burn']}, stall={state['standard_stall_count']})")
     print(f"  under floor: {def_after['under_floor']}   under standard: {def_after['under_standard']}")
     if triggered_alarm:
@@ -577,6 +585,16 @@ def build_prompt(anchor: dict, story_tier: int, support: list[dict]) -> str:
         "a contrast, or a character reflecting on the concept."
         if story_tier == 4 else ""
     )
+    tier4_format = (
+        "\nTier-4 layout — 4 language blocks in order: EN, DE, JP, ZH.\n"
+        "Each language block contains both turns for that language:\n"
+        "  [user] (turn 1, in that language)\n"
+        "  [Ninereeds] (turn 1 response)\n"
+        "  [user] (turn 2, in that language)\n"
+        "  [Ninereeds] (turn 2 response)\n"
+        "Complete EN before starting DE. Complete DE before starting JP. Etc."
+        if story_tier == 4 else ""
+    )
 
     return f"""\
 You are writing a multilingual teaching story for Ninereeds, a small language-learning AI.
@@ -593,18 +611,26 @@ SUPPORT WORDS (weave these in naturally where they fit — don't force all of th
 OPENING QUESTION (English): "{question}"
 
 STORY RULES:
-- Open each [user] line with the question translated naturally into that language
 - Do NOT start [Ninereeds] with a definition ("X is a...") — start with a scene or action
 - Show observable behavior; avoid direct emotion statements ("felt happy" → show the behavior)
 - Omniscient narrator — NO named characters. Use anonymous figures: "a child", "a boy",
   "a girl", "an old woman", "a man", "a dog", "a cat", "two children", "the farmer", etc.
 - Village world: path, field, market, hedge, millpond, barn, oak tree, well, garden, doorstep
-- Ninereeds speaks in a calm, clear, narrative voice
-- JP: plain form only (行く, 見た, ではない) — never desu/masu (です/ます/でした/ました)
-- ZH: Traditional Chinese characters (繁體字/台灣繁體) — never Simplified{tier4_note}
+- Ninereeds speaks in a calm, clear, narrative voice{tier4_note}
 
-FORMAT — write exactly {total_blocks} blocks in this order: EN → DE → JP → ZH{"  (2 turns each, interleaved: EN1, DE1, JP1, ZH1, EN2, DE2, JP2, ZH2)" if story_tier == 4 else ""}
-Each block starts with [user] on its own line, then [Ninereeds] (no blank line between tag and content).
+LANGUAGE RULES:
+- Write the complete story in English first.
+- Then localise the SAME story into German, then Japanese, then Chinese (Traditional).
+- Facts, events, characters, and scene must be identical across all 4 languages.
+- Localise naturally — a native speaker must not notice it came from another language.
+  Adjust idioms, word order, and phrasing so it sounds native, not translated.
+- Localise the [user] question into each language (same question, natural phrasing).
+- Grammar complexity follows the tier — keep the same level across all 4 languages.
+- JP: plain form only (行く, 見た, ではない) — never desu/masu (です/ます/でした/ました)
+- ZH: Traditional Chinese characters (繁體字/台灣繁體) — never Simplified
+
+FORMAT — write exactly {total_blocks} blocks in this order: EN → DE → JP → ZH{tier4_format}
+Each block starts with [user] on its own line, then [Ninereeds] on the next line (no blank line between tag and content).
 Separate blocks with a single blank line. Do NOT add [EN], [DE], [JP], [ZH] language label lines.
 
 Write the story now.
@@ -654,7 +680,8 @@ def generate_one(
 
     for attempt in range(2):
         try:
-            text = call_api(prompt, api_key).strip()
+            raw = call_api(prompt, api_key).strip()
+            text = "\n".join(line.rstrip() for line in raw.splitlines())
             if not validate_story(text, story_tier):
                 expected = 8 if story_tier == 4 else 4
                 users = len(re.findall(r"^\[user\]", text, re.MULTILINE))
@@ -742,7 +769,7 @@ def run_chunk(
                 if is_first:
                     newly_anchored.add(record["label"])
                 done[0] += 1
-                print(f"  [{done[0]}/{n}] ✓ {record['label']} (tier {tier})")
+                print(f"  [{done[0]}/{n}] ok {record['label']} (tier {tier})")
 
     with ThreadPoolExecutor(max_workers=workers) as ex:
         list(ex.map(worker, zip(chunk, tiers)))
@@ -967,7 +994,7 @@ def cmd_audit(args):
     if mismatches[:5]:
         print(f"\nn_times_used drift (label / stored / fresh):")
         for label, stored, fresh in mismatches[:5]:
-            print(f"  {label}: stored={stored} → fresh={fresh}")
+            print(f"  {label}: stored={stored} -> fresh={fresh}")
         if len(mismatches) > 5:
             print(f"  ... and {len(mismatches) - 5} more")
 
@@ -1018,6 +1045,7 @@ def _cmd_run_inner(args, api_key: str, max_passes: int | None):
     state      = load_state()
     all_labels = set(vocab.keys())
     workers    = args.workers
+    story_limit = getattr(args, "limit", None)  # stop after N total stories written
 
     # Sync fully from tracker on startup (tally_tracker resets first, so no stale data)
     if TRACKER_FILE.exists():
@@ -1028,9 +1056,12 @@ def _cmd_run_inner(args, api_key: str, max_passes: int | None):
     print(f"Mode: {state['mode']}  |  pass {state['pass_id']}  |  workers {workers}")
     if max_passes:
         print(f"Max passes: {max_passes}")
+    if story_limit:
+        print(f"Story limit: {story_limit}")
     defs = compute_deficits(vocab)
     print(f"Floor deficit: {defs['floor_deficit']}   Standard deficit: {defs['standard_deficit']}\n")
     passes_this_run = 0
+    stories_this_run = 0
 
     while True:
         mode = state["mode"]
@@ -1051,6 +1082,11 @@ def _cmd_run_inner(args, api_key: str, max_passes: int | None):
                 continue
 
             batch = pending[:batch_size_for(defs, "anchor")]
+            if story_limit:
+                batch = batch[:max(0, story_limit - stories_this_run)]
+            if not batch:
+                print(f"Story limit {story_limit} reached. Stopping.")
+                break
             print(f"Anchor pass {state['pass_id']}: {len(batch)} stories  "
                   f"({len(pending)} remaining)")
             def_before = compute_deficits(vocab)
@@ -1063,6 +1099,7 @@ def _cmd_run_inner(args, api_key: str, max_passes: int | None):
                 workers=workers,
             )
             state["current_tier"] = new_tier
+            stories_this_run += total_ok
 
             if total_ok == 0:
                 print("Pass produced zero stories. Stopping.")
@@ -1076,6 +1113,9 @@ def _cmd_run_inner(args, api_key: str, max_passes: int | None):
             save_state(state)
             if max_passes and passes_this_run >= max_passes:
                 print(f"Reached max-passes={max_passes}. Stopping.")
+                break
+            if story_limit and stories_this_run >= story_limit:
+                print(f"Story limit {story_limit} reached. Stopping.")
                 break
 
         # ── ORGANIC ───────────────────────────────────────────────────────
@@ -1118,7 +1158,7 @@ def _cmd_run_inner(args, api_key: str, max_passes: int | None):
             append_receipt(state, def_before, def_after, len(batch),
                            new_mode is not None)
             if new_mode:
-                print(f"Alarm fired → switching to {new_mode}")
+                print(f"Alarm fired -> switching to {new_mode}")
                 state["mode"] = new_mode
             save_state(state)
             if max_passes and passes_this_run >= max_passes:
@@ -1242,6 +1282,8 @@ def main():
                    help="Stop after N passes (default: run until done)")
     p.add_argument("--once",       action="store_true",
                    help="Run exactly one pass then stop (equivalent to --max-passes 1)")
+    p.add_argument("--limit",      type=int, default=None,
+                   help="Stop after generating N stories total this run")
     p.set_defaults(func=cmd_run)
 
     p = sub.add_parser("status", help="Show mode, deficits, stall counts")

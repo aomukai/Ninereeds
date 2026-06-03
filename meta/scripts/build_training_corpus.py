@@ -347,6 +347,8 @@ def infer_checker(path: Path) -> Callable[[str], tuple[str, list[str]]]:
             return check_grammar_file
         if part == "grounded_stories":
             return check_grounded_story
+        if part == "teaching_stories":
+            return check_dialogue   # variable pairs (4 langs × 2 turns each)
         if part == "lang":
             return check_lang
         if part in ("wiki", "reasoning"):
@@ -391,6 +393,39 @@ def process_order_file(order_file: Path, out_parts: list[str]) -> DirStats:
                 if cleaned != raw:
                     stats.fixed += 1
                 out_parts.append(cleaned.rstrip("\n"))
+    return stats
+
+
+def process_text_order_file(order_file: Path, out_parts: list[str]) -> DirStats:
+    """
+    Process files in the exact order given by a plain-text order file.
+    Format: one relative-to-ROOT path per line; lines starting with '#' are comments.
+    Used by campaign14_order.txt and any future campaign manifests.
+    """
+    stats = DirStats(label=order_file.stem)
+    lines = order_file.read_text(encoding="utf-8").splitlines()
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        path = ROOT / line
+        if not path.exists():
+            stats.total += 1
+            stats.skipped += 1
+            stats.issue_log.append((line, ["file not found"]))
+            continue
+        checker = infer_checker(path)
+        raw = path.read_text(encoding="utf-8", errors="replace")
+        cleaned, issues = checker(raw)
+        stats.total += 1
+        if issues:
+            stats.skipped += 1
+            stats.issue_log.append((line, issues))
+        else:
+            stats.included += 1
+            if cleaned != raw:
+                stats.fixed += 1
+            out_parts.append(cleaned.rstrip("\n"))
     return stats
 
 
@@ -441,13 +476,17 @@ def build_corpus(output: Path, report: Path, dry_run: bool,
     out_parts: list[str] = []
     all_stats: list[DirStats] = []
 
-    # --order-file mode: process exactly the files listed in the JSONL, in order.
+    # --order-file mode: process exactly the files listed in the order file, in order.
     # Bypasses the full CURRICULUM_ORDER traversal entirely.
+    # Supports JSONL format (.jsonl) and plain-text format (.txt).
     if order_file is not None:
         abs_order = order_file if order_file.is_absolute() else ROOT / order_file
         order_file = abs_order
         print(f"  Order file: {order_file.relative_to(ROOT)}")
-        stats = process_order_file(order_file, out_parts)
+        if order_file.suffix == ".txt":
+            stats = process_text_order_file(order_file, out_parts)
+        else:
+            stats = process_order_file(order_file, out_parts)
         all_stats.append(stats)
         skip_note = f"  ({stats.skipped} skipped)" if stats.skipped else ""
         fix_note  = f"  ({stats.fixed} fixed)"   if stats.fixed   else ""
