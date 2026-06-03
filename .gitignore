@@ -1,5 +1,6 @@
 .env
 CLAUDE.md
+docs/handoff_*.md
 core/*.pt
 core/*.safetensors
 runs/
