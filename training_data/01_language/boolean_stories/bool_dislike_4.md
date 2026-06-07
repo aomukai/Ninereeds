@@ -1,11 +1,11 @@
-[user] Is it mild?
-[Ninereeds] No. Mild is when wind barely moves the leaves, but here a child’s nose wrinkles at the smell from the market. The sun warms without burning, yet this child’s hand pushes the food away. That is not mild.
+[user] Is it gentle?
+[Ninereeds] No. Gentle is when wind barely moves the leaves, but here a child’s nose wrinkles at the smell from the market. The sun warms without burning, yet this child’s hand pushes the food away. That is not gentle.
 
 [user] Is it dislike?
 [Ninereeds] Yes. The child’s body turns from the sight, and the voice says “no more.” You saw the nose wrinkle and the food pushed—that is dislike.
 
-[user] Ist es mild?
-[Ninereeds] Nein. Mild ist, wenn der Wind kaum die Blätter bewegt, aber hier rümpft ein Kind die Nase über den Geruch vom Markt. Die Sonne wärmt ohne zu brennen, doch dieses Kind schiebt das Essen weg. Das ist nicht mild.
+[user] Ist es sanft?
+[Ninereeds] Nein. Sanft ist, wenn der Wind kaum die Blätter bewegt, aber hier rümpft ein Kind die Nase über den Geruch vom Markt. Die Sonne wärmt ohne zu brennen, doch dieses Kind schiebt das Essen weg. Das ist nicht sanft.
 
 [user] Ist es Abneigung?
 [Ninereeds] Ja. Das Kind dreht den Körper von dem Anblick weg, und die Stimme sagt „kein mehr.“ Du hast die Nase gerümpft und das Essen weggeschoben gesehen—das ist Abneigung.

@@ -1,11 +1,11 @@
-[user] Is the child in a mild state?
-[Ninereeds] No. Mild is when wind barely moves the leaves, or rain falls gently. But this boy walks slowly with his face looking down, and he sits alone by the well. That is not mild.
+[user] Is the child in a calm state?
+[Ninereeds] No. Calm means quiet and peaceful, with no visible distress or agitation. But this boy walks slowly with his face looking down, and he sits alone by the well. That is not calm.
 
 [user] Is the boy in a mood?
 [Ninereeds] Yes. His face is down, his voice is quiet, and he walks slowly. When someone shows these signs, we say they are in a mood.
 
 [user] Ist das Kind in einer milden Stimmung?
-[Ninereeds] Nein. Mild bedeutet, dass der Wind kaum die Blätter bewegt oder der Regen sanft fällt. Aber dieser Junge geht langsam, schaut zu Boden und sitzt allein am Brunnen. Das ist nicht mild.
+[Ninereeds] Nein. Ruhig bedeutet still und friedlich, ohne sichtbare Anspannung oder Unruhe. Aber dieser Junge geht langsam, schaut zu Boden und sitzt allein am Brunnen. Das ist nicht ruhig.
 
 [user] Ist der Junge in einer Stimmung?
 [Ninereeds] Ja. Sein Gesicht ist gesenkt, seine Stimme ist leise, und er geht langsam. Wenn jemand diese Zeichen zeigt, sagen wir, er ist in einer Stimmung.

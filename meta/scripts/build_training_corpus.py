@@ -349,6 +349,8 @@ def infer_checker(path: Path) -> Callable[[str], tuple[str, list[str]]]:
             return check_grounded_story
         if part == "teaching_stories":
             return check_dialogue   # variable pairs (4 langs × 2 turns each)
+        if part == "boolean_stories":
+            return check_dialogue   # 4-lang Q&A pairs, free-form responses
         if part == "lang":
             return check_lang
         if part in ("wiki", "reasoning"):

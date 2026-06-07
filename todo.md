@@ -105,14 +105,81 @@ See `docs/handoff_2026-06-01.md` for full details.
 **Base checkpoint:** `checkpoints/c13_Phase_C_winner.pt` (shaped 0.925)
 **Training data:** `training_data/01_language/` (restructured 2026-06-04)
 
-### Immediate next steps
+### Weekend runs (2026-06-06/07) — COMPLETE
 
-- [ ] Build training corpus: `python3 meta/scripts/build_training_corpus.py --order-file training/corpus_admin/campaign14_manifest.txt --output training/corpus/campaign14_full.txt`
-- [ ] Verify corpus: output must end with `All files validated — corpus is clean.`
-- [ ] Update `CLAUDE.md` corpus structure section to reflect new `01_language/` paths
-- [ ] Update `docs/probe_catalogue.md` diagnostic grep commands (still reference old paths)
-- [ ] Launch Campaign 14 training (see `training/docs/training.md` Step 6)
-- [ ] After each epoch: run probe + eval + brain_map (language probe set)
+- [x] Build training corpus: `training/corpus/campaign14_full.txt` — 37,569 files, 36 MB, clean
+- [x] Variant A (bridge before grammar): 3 epochs complete — reports in `01_full_curriculum.md`
+- [x] Variant B (bridge after grammar): launched, scanning each epoch automatically
+- [x] Brain_map after every epoch — module status tracker updated in reports
+
+**Key findings from A (E1→E3):**
+- Vehicles (0.937→0.879) and objects (0.873→0.856): **DONE ×3** — drop from next run
+- Grammar (0.284→0.201): persistently declining despite 531 dedicated neurons — needs bridge work
+- Arithmetic: 1,296 dedicated neurons at E3, no cluster — needs direct-format drill files
+- Multilingual (0.216→0.204): flat, not converging — needs more passes
+- Model still growing; semantic neurons rising sharply (2316→3825 E1→E3) — not at ceiling
+
+**Variant B comparison (in progress):** grammar trajectory vs A is the key question.
+
+### Week of 2026-06-07 — shopping list
+
+**Strategy:** identify gaps from brain_map, buff them. No fixed epoch counts — run until clusters plateau.
+
+#### 1. Grammar bridge expansion (DeepSeek generation — high priority)
+Bridge currently covers only dative double-object verbs (gibt/zeigt/bringt etc.). Missing:
+
+- [ ] **Always-dative prepositions** — `mit`, `bei`, `von`, `aus`, `nach`, `zu`, `seit`, `gegenüber`
+  - 10 files per preposition × 8 prepositions = ~80 files
+  - Format: same annotated 4-lingual bracket structure as existing bridge
+  - These are unconditional dative — no static/movement ambiguity — best entry point
+- [ ] **Dative pronouns** — `ihm`, `ihr`, `ihnen`, `mir`, `dir`, `uns`, `euch`
+  - ~30 files drilling the pronoun form in dative position
+- [ ] **NOM/ACC isolation** — "der Mann sieht den Jungen" type frames, no dative, to anchor the boundary
+  - ~20 files with accusative-only verbs (sehen, kennen, haben, lieben etc.)
+- [ ] **Case-invariance drills** — all 4 cases in one sentence, word order scrambled
+  - Core pattern: "Der Mann gibt dem Jungen den Ball des Hundes" (NOM+DAT+ACC+GEN)
+  - 3 permutations × 5 verbs × 5 noun combos = ~75 files
+  - Teach: case markers encode role regardless of position
+  - Japanese value: emphatic fronting makes particles visually detached from typical slot —
+    "犬のボールを、男の人が男の子にあげる" — が/に/を do all the work, position is irrelevant
+  - Chinese contrast: no case marking → position IS the signal — cross-lingual comparison
+    makes the case system visible by contrast
+  - Q&A per permutation: "who gives? still the NOM-marked one" regardless of sentence order
+  - Format: same annotated bracket structure, Q&A drilling each role
+
+Total addition: ~205 files × 4 langs = ~820 new bridge files
+
+#### 2. Arithmetic bridge expansion (DeepSeek generation — high priority)
+Arithmetic has the most dedicated neurons (1,296) but no cluster — retrieval framing mismatch.
+The `training_data/02_thinking/reasoning/00_bridge_word_to_symbol.md` files exist but are multi-modal format.
+
+- [ ] **Direct-format drill files** — exact probe format: `[user]what is X plus Y?\n[Ninereeds]X plus Y is Z.`
+  - All four languages (EN/DE/JP/ZH)
+  - Cover: addition (1–20 range), subtraction, simple multiplication
+  - ~40 files × 4 langs = ~160 new files
+  - Add to `training_data/02_thinking/reasoning/` with `00_drill_` prefix
+
+#### 3. Focused corpus for weekday runs
+After variant B finishes (Sunday/Monday):
+
+- [ ] Compare grammar μ trajectory A vs B — pick ordering winner
+- [ ] Build `campaign14c_manifest.txt` — focused on weak clusters:
+  - DROP: vehicle files and object files from phase_A (DONE ×3)
+  - KEEP: phase_A animal files, phase_B, full grammar block, bridge (expanded), lang_3/4/5
+  - KEEP: full teaching stories block (emotions/cognitive/abstract still weak)
+  - WEIGHT: grammar block × 2 (repeat it in manifest) if B shows no improvement over A
+  - Keep boolean stories (emotions_boolean just hit DONE ×1 — confirm at B-E3 before dropping)
+
+#### 4. Probe set additions
+- [ ] Add always-dative preposition probes to `language.jsonl`
+  - e.g. "Die Frau geht mit" → expect "dem Mann" / "der Frau" etc.
+  - ~10 new grammar probes (brings grammar category from 8 → 18 probes for better resolution)
+
+#### 5. Variant B completion (automated) — COMPLETE
+- [x] B-E1 scan complete
+- [x] B-E2 scan complete
+- [x] B-E3 scan complete
+- [x] Compare A vs B grammar trajectory — **A wins** (bridge before grammar). See `02_bridge_after_grammar.md` comparison table.
 
 ---
 

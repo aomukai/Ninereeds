@@ -522,7 +522,7 @@ def cmd_map(args):
     import numpy as np
 
     name = getattr(args, "name", None)
-    out_act, out_probes_file, _, _ = _out_paths(name)
+    out_act, out_probes_file, out_heatmap, out_scatter = _out_paths(name)
 
     if not out_act.exists():
         sys.exit(f"No activations found at {out_act}. Run: probe first.")
@@ -552,14 +552,14 @@ def cmd_map(args):
     cats_ord = [cats[i]   for i in order]
 
     ckpt_label = getattr(args, "name", None) or "checkpoint"
-    _heatmap(sim_ord, labs_ord, cats_ord,
+    _heatmap(sim_ord, labs_ord, cats_ord, out_heatmap,
              title=f"BDH {ckpt_label} — Concept Activation Similarity (xy_sparse, last token)")
 
     # ── 2-D scatter (t-SNE or PCA fallback) ──────────────────────────────
-    _scatter(vectors, labels, cats, title_prefix=f"BDH {ckpt_label}")
+    _scatter(vectors, labels, cats, out_scatter, title_prefix=f"BDH {ckpt_label}")
 
 
-def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str],
+def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str], out_path: "Path",
              title: str = "BDH — Concept Activation Similarity (xy_sparse, last token)"):
     import matplotlib
     matplotlib.use("Agg")
@@ -626,9 +626,9 @@ def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str],
     )
 
     plt.tight_layout()
-    plt.savefig(str(OUT_HEATMAP), dpi=150, bbox_inches="tight")
+    plt.savefig(str(out_path), dpi=150, bbox_inches="tight")
     plt.close()
-    print(f"Heatmap saved: {OUT_HEATMAP}")
+    print(f"Heatmap saved: {out_path}")
 
     # Print block diagonal means to console
     print("\nIntra-category mean cosine similarity (diagonal blocks):")
@@ -636,7 +636,7 @@ def _heatmap(sim: "np.ndarray", labels: list[str], cats: list[str],
         print(f"  {cat:<25}  n={e-s:3d}  mean_sim={ms:.3f}")
 
 
-def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str],
+def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str], out_path: "Path",
              title_prefix: str = "BDH"):
     import matplotlib
     matplotlib.use("Agg")
@@ -683,9 +683,9 @@ def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str],
     ax.set_ylabel(f"{method} dim 2")
 
     plt.tight_layout()
-    plt.savefig(str(OUT_SCATTER), dpi=150, bbox_inches="tight")
+    plt.savefig(str(out_path), dpi=150, bbox_inches="tight")
     plt.close()
-    print(f"Scatter ({method}) saved: {OUT_SCATTER}")
+    print(f"Scatter ({method}) saved: {out_path}")
 
 
 def cmd_run(args):

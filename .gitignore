@@ -28,8 +28,9 @@ tmp/
 # Training corpus build artifacts (regenerate with build_training_corpus.py)
 training/corpus/*.txt
 
-# Raw training logs (reports in training/logs/*.md are kept)
+# Raw training logs (reports in training/logs/**/*.md are kept)
 training/logs/*.log
+training/logs/**/*.log
 
 # Promoted run checkpoints (large binary weights, local-only)
 checkpoints/

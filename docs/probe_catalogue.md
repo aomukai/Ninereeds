@@ -299,7 +299,7 @@ PASS: arithmetic probes cluster tightly (μ was 0.86 in C13 — expect similar o
 1. Note the probe ID and the cluster it activated instead of expected.
 2. Grep the corpus:
    ```
-   grep -r "bicycle" training_data/ --include="*.md" -l
+   grep -r "bicycle" training_data/01_language/ --include="*.md" -l
    ```
 3. Check co-occurrence: what other concepts appear in the same files?
 4. Check domain in phase_vocab.jsonl: is it correctly labelled?
@@ -316,11 +316,11 @@ PASS: arithmetic probes cluster tightly (μ was 0.86 in C13 — expect similar o
 
 ### When cross-language SPLITS (EN/DE cluster but JP/ZH offset):
 
-1. Count files per language in that domain:
+1. Count files per domain bucket across tiers:
    ```
-   ls training_data/teaching_stories/tier_*/emotions_feelings/*_JP.md | wc -l
+   ls training_data/01_language/teaching_stories/tier_*/emotions_feelings/*.md | wc -l
    ```
-   (Note: teaching stories are not language-split by filename — check content)
+   (Note: teaching stories are one file per concept covering all languages — this counts multilingual units, not per-language coverage)
 2. Check if JP/ZH language course covers relevant vocabulary.
 3. Consider targeted JP/ZH teaching stories for that domain.
 

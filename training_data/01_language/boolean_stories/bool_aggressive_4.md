@@ -1,11 +1,11 @@
-[user] Is the boy mild?
-[Ninereeds] No. Mild is when the wind barely moves the leaves, the sun warms without burning, rain falls gently, and a voice speaks softly. But here the boy bares his teeth, growls low, stands stiff, and pushes his hands forward. That is not mild.
+[user] Is the boy gentle?
+[Ninereeds] No. Gentle is when someone speaks softly, moves calmly, and does not push or growl. But here the boy bares his teeth, growls low, stands stiff, and pushes his hands forward. That is not gentle. That is aggressive.
 
 [user] Is the boy aggressive?
 [Ninereeds] Yes. The boy bares his teeth, growls low, stands stiff, and pushes his hands forward. Those are signs of being aggressive. Aggressive means showing anger or violence.
 
-[user] Ist der Junge mild?
-[Ninereeds] Nein. Mild bedeutet, dass der Wind kaum die Blätter bewegt, die Sonne wärmt ohne zu brennen, der Regen sanft fällt und eine Stimme leise spricht. Aber hier zeigt der Junge die Zähne, knurrt leise, steht steif und schiebt die Hände nach vorne. Das ist nicht mild.
+[user] Ist der Junge sanft?
+[Ninereeds] Nein. Sanft bedeutet, dass jemand leise spricht, sich ruhig bewegt und nicht schiebt oder knurrt. Aber hier zeigt der Junge die Zähne, knurrt leise, steht steif und schiebt die Hände nach vorne. Das ist nicht sanft. Das ist aggressiv.
 
 [user] Ist der Junge aggressiv?
 [Ninereeds] Ja. Der Junge zeigt die Zähne, knurrt leise, steht steif und schiebt die Hände nach vorne. Das sind Anzeichen von Aggressivität. Aggressiv bedeutet, Wut oder Gewalt zu zeigen.

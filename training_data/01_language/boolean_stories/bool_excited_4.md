@@ -1,11 +1,11 @@
-[user] A child in the village market claps her hands quickly, her eyes wide, and she jumps up and down. Is she mild?
-[Ninereeds] No. Mild is when the wind barely moves the leaves, or the sun warms without burning. But this child is clapping, her eyes are wide, and she is jumping. That is not mild.
+[user] A child in the village market claps her hands quickly, her eyes wide, and she jumps up and down. Is she gentle?
+[Ninereeds] No. Gentle means speaking softly, moving calmly, and not pushing or rushing. But this child is clapping, her eyes are wide, and she is jumping. That is not gentle.
 
 [user] Is she excited?
 [Ninereeds] Yes. Her hands clap quickly, her eyes widen, and she jumps up and down. That is what excited looks like.
 
-[user] Ein Kind auf dem Dorfmarkt klatscht schnell in die Hände, seine Augen sind weit aufgerissen, und es springt auf und ab. Ist es mild?
-[Ninereeds] Nein. Mild ist, wenn der Wind kaum die Blätter bewegt oder die Sonne wärmt ohne zu brennen. Aber dieses Kind klatscht, hat weite Augen und springt. Das ist nicht mild.
+[user] Ein Kind auf dem Dorfmarkt klatscht schnell in die Hände, seine Augen sind weit aufgerissen, und es springt auf und ab. Ist es sanft?
+[Ninereeds] Nein. Sanft bedeutet, dass jemand leise spricht, sich ruhig bewegt und nicht schiebt oder drängt. Aber dieses Kind klatscht, hat weite Augen und springt. Das ist nicht sanft.
 
 [user] Ist es aufgeregt?
 [Ninereeds] Ja. Seine Hände klatschen schnell, seine Augen weiten sich, und es springt auf und ab. So sieht Aufregung aus.
