@@ -1,15 +1,15 @@
-(Taro) *answers* [the child].
-(Taro) *antwortet* [dem Kind].
-(太郎が)[子供に]*答える*。
-(太郎)*回答*[孩子]。
+(the man) *answers* [the child].
+(the man) *antwortet* [dem Kind].
+(男の人が)[子供に]*答える*。
+(那個男人)*回答*[孩子]。
 
 (Wer / Who / 誰が / 谁) answers the child?
-(Taro). / (Taro). / (太郎が). / (太郎).
+(the man). / (der Mann). / (男の人が). / (那個男人).
 
-[Wem / To whom / 誰に / 给谁] does Taro answer?
+[Wem / To whom / 誰に / 给谁] does the man answer?
 [the child]. / [dem Kind]. / [子供に]. / [孩子].
 
-Taro answers the child.
-Taro antwortet dem Kind.
-太郎が子供に答える。
-太郎回答孩子。
+The man answers the child.
+Der Mann antwortet dem Kind.
+男の人が子供に答える。
+那個男人回答孩子。

@@ -1,18 +1,18 @@
-(Taro) *brings* [the child] {the cup}.
-(Taro) *bringt* [dem Kind] {den Becher}.
-(太郎が)[子供に]{カップを}*持ってくる*。
-(太郎)*帶給*[孩子]{杯子}。
+(the man) *brings* [the child] {the cup}.
+(the man) *bringt* [dem Kind] {den Becher}.
+(男の人が)[子供に]{カップを}*持ってくる*。
+(那個男人)*帶給*[孩子]{杯子}。
 
 (Wer / Who / 誰が / 谁) brings the child the cup?
-(Taro). / (Taro). / (太郎が). / (太郎).
+(the man). / (der Mann). / (男の人が). / (那個男人).
 
-[Wem / To whom / 誰に / 给谁] does Taro bring the cup?
+[Wem / To whom / 誰に / 给谁] does the man bring the cup?
 [the child]. / [dem Kind]. / [子供に]. / [孩子].
 
-{Was / What / 何を / 什么} does Taro bring the child?
+{Was / What / 何を / 什么} does the man bring the child?
 {the cup}. / {den Becher}. / {カップを}. / {杯子}.
 
-Taro brings the child the cup.
-Taro bringt dem Kind den Becher.
-太郎が子供にカップを持ってくる。
-太郎帶給孩子杯子。
+The man brings the child the cup.
+Der Mann bringt dem Kind den Becher.
+男の人が子供にカップを持ってくる。
+那個男人帶給孩子杯子。

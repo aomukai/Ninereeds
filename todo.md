@@ -136,20 +136,20 @@ Bridge currently covers only dative double-object verbs (gibt/zeigt/bringt etc.)
   - ~30 files drilling the pronoun form in dative position
 - [ ] **NOM/ACC isolation** — "der Mann sieht den Jungen" type frames, no dative, to anchor the boundary
   - ~20 files with accusative-only verbs (sehen, kennen, haben, lieben etc.)
-- [ ] **Case-invariance drills** — all 4 cases in one sentence, word order scrambled
+- [x] **Bridge retrofit** — 100 existing bridge files: named chars (Emma/Gran/Taro) → generic NPs
+  - Emma → "the girl"/das Mädchen/女の子/那個女孩; Gran → "the woman"; Taro → "the man"
+  - Rationale: generic NPs carry explicit morphological case (Das Mädchen gibt dem Jungen > Emma gibt Taro)
+  - Complete 2026-06-12: all 100 files rewritten, `---` markers stripped
+- [x] **Case-invariance drills** — all 4 cases in one sentence, word order scrambled
   - Core pattern: "Der Mann gibt dem Jungen den Ball des Hundes" (NOM+DAT+ACC+GEN)
-  - 3 permutations × 5 verbs × 5 noun combos = ~75 files
-  - Teach: case markers encode role regardless of position
-  - Japanese value: emphatic fronting makes particles visually detached from typical slot —
-    "犬のボールを、男の人が男の子にあげる" — が/に/を do all the work, position is irrelevant
-  - Chinese contrast: no case marking → position IS the signal — cross-lingual comparison
-    makes the case system visible by contrast
-  - Q&A per permutation: "who gives? still the NOM-marked one" regardless of sentence order
-  - Format: same annotated bracket structure, Q&A drilling each role
+  - 120 new files (numbered 101–234 with gaps), 4 languages + Q&A per permutation
+  - Complete 2026-06-12: `training_data/01_language/bridge/*_bridge_4case_*.md`
+- [ ] **NOM/ACC isolation** — "der Mann sieht den Jungen" type frames, no dative, to anchor the boundary
+  - ~20 files with accusative-only verbs (sehen, kennen, haben, lieben etc.)
 
 Total addition: ~205 files × 4 langs = ~820 new bridge files
 
-#### 2. Arithmetic bridge expansion (DeepSeek generation — high priority)
+#### 2. Arithmetic bridge expansion (DeepSeek generation — high priority, still pending)
 Arithmetic has the most dedicated neurons (1,296) but no cluster — retrieval framing mismatch.
 The `training_data/02_thinking/reasoning/00_bridge_word_to_symbol.md` files exist but are multi-modal format.
 
@@ -159,7 +159,15 @@ The `training_data/02_thinking/reasoning/00_bridge_word_to_symbol.md` files exis
   - ~40 files × 4 langs = ~160 new files
   - Add to `training_data/02_thinking/reasoning/` with `00_drill_` prefix
 
-#### 3. Focused corpus for weekday runs
+#### 3. Teaching story annotation — COMPLETE (2026-06-13)
+- [x] 5006 teaching stories annotated with `_marked.md` pairs
+  - Case-role brackets: `(NOM)` `*verb*` `{ACC}` `[DAT]` `<GEN>` on all 4 language versions
+  - Files live alongside originals: `tier_N/.../story_marked.md` — originals untouched
+  - Quality scan: 35 leaked-reasoning files identified and re-generated (clean)
+  - 1 corrupted source file (`thanking_2.md`) repaired before annotation
+  - Final count: 5006/5006 annotated, 0 failures
+
+#### 5. Focused corpus for weekday runs
 After variant B finishes (Sunday/Monday):
 
 - [ ] Compare grammar μ trajectory A vs B — pick ordering winner
@@ -170,12 +178,12 @@ After variant B finishes (Sunday/Monday):
   - WEIGHT: grammar block × 2 (repeat it in manifest) if B shows no improvement over A
   - Keep boolean stories (emotions_boolean just hit DONE ×1 — confirm at B-E3 before dropping)
 
-#### 4. Probe set additions
+#### 6. Probe set additions
 - [ ] Add always-dative preposition probes to `language.jsonl`
   - e.g. "Die Frau geht mit" → expect "dem Mann" / "der Frau" etc.
   - ~10 new grammar probes (brings grammar category from 8 → 18 probes for better resolution)
 
-#### 5. Variant B completion (automated) — COMPLETE
+#### 7. Variant B completion (automated) — COMPLETE
 - [x] B-E1 scan complete
 - [x] B-E2 scan complete
 - [x] B-E3 scan complete

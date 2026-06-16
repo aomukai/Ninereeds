@@ -110,15 +110,24 @@ _NUM = {0:"zero",1:"one",2:"two",3:"three",4:"four",5:"five",
 # Output path helper
 # ---------------------------------------------------------------------------
 
+BRAIN_MAPS_DIR = ROOT / "training" / "logs" / "brain_maps"
+
+
 def _out_paths(name: str | None) -> tuple[Path, Path, Path, Path]:
-    """Return (activations, probes, heatmap, scatter) paths, optionally namespaced."""
+    """Return (activations, probes, heatmap, scatter) paths, optionally namespaced.
+
+    Activations and probes stay in tmp/ (large intermediates, regeneratable).
+    Images go to training/logs/brain_maps/ alongside the campaign reports.
+    """
     suffix = f"_{name}" if name else ""
     tmp = ROOT / "tmp"
+    BRAIN_MAPS_DIR.mkdir(parents=True, exist_ok=True)
+    img_stem = name if name else "brain_map"
     return (
         tmp / f"brain_map{suffix}_activations.npz",
         tmp / f"brain_map{suffix}_probes.jsonl",
-        tmp / f"brain_map{suffix}_similarity.png",
-        tmp / f"brain_map{suffix}_scatter.png",
+        BRAIN_MAPS_DIR / f"{img_stem}_similarity.png",
+        BRAIN_MAPS_DIR / f"{img_stem}_scatter.png",
     )
 
 
@@ -820,7 +829,10 @@ def cmd_hubs(args):
         print(f"  {cat:<25}  {b:>7.3f}  {a:>7.3f}  {a-b:>+7.3f}")
 
     # Save hub report
-    out_hubs = ROOT / "tmp" / "brain_map_hubs.json"
+    suffix = f"_{name}" if name else ""
+    img_stem = name if name else "brain_map"
+    BRAIN_MAPS_DIR.mkdir(parents=True, exist_ok=True)
+    out_hubs = BRAIN_MAPS_DIR / f"{img_stem}_hubs.json"
     report = {
         "hub_threshold":    hub_threshold,
         "n_categories":     len(unique_cats),
@@ -837,7 +849,7 @@ def cmd_hubs(args):
     print(f"\nHub report saved: {out_hubs}")
 
     # Hub-filtered heatmap
-    out_heatmap_nohubs = ROOT / "tmp" / "brain_map_similarity_nohubs.png"
+    out_heatmap_nohubs = BRAIN_MAPS_DIR / f"{img_stem}_nohubs.png"
     _heatmap_filtered(vectors_no_hubs, labels, cats, out_heatmap_nohubs,
                       title_suffix=f" (routing hubs removed, threshold={hub_threshold:.0%})")
 

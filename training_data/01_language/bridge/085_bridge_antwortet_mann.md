@@ -1,15 +1,15 @@
-(Gran) *answers* [the man].
-(Gran) *antwortet* [dem Mann].
-(グランが)[男に]*答える*。
-(格兰)*回答*[男人]。
+(the woman) *answers* [the man].
+(the woman) *antwortet* [dem Mann].
+(女の人が)[男に]*答える*。
+(那個女人)*回答*[男人]。
 
 (Wer / Who / 誰が / 谁) answers the man?
-(Gran). / (Gran). / (グランが). / (格兰).
+(the woman). / (die Frau). / (女の人が). / (那個女人).
 
-[Wem / To whom / 誰に / 给谁] does Gran answer?
+[Wem / To whom / 誰に / 给谁] does the woman answer?
 [the man]. / [dem Mann]. / [男に]. / [男人].
 
-Gran answers the man.
-Gran antwortet dem Mann.
-グランが男に答える。
-格兰回答男人。
+The woman answers the man.
+Die Frau antwortet dem Mann.
+女の人が男に答える。
+那個女人回答男人。
