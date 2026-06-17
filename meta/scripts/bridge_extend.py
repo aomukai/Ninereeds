@@ -28,10 +28,12 @@ from openai import OpenAI
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-AUTH_PATH  = pathlib.Path.home() / ".local/share/opencode/auth.json"
-BASE_URL   = "https://openrouter.ai/api/v1"
-MODEL      = "deepseek/deepseek-v4-flash"
-BRIDGE_DIR = pathlib.Path("training_data/01_language/bridge")
+AUTH_PATH    = pathlib.Path.home() / ".local/share/opencode/auth.json"
+BASE_URL     = "https://openrouter.ai/api/v1"
+MODEL        = "deepseek/deepseek-v4-flash"
+NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
+NIM_MODEL    = "deepseek-ai/deepseek-v4-pro"
+BRIDGE_DIR   = pathlib.Path("training_data/01_language/bridge")
 
 # ── Job definitions ────────────────────────────────────────────────────────────
 
@@ -230,9 +232,22 @@ ALL_JOBS = {
 
 # ── API client ────────────────────────────────────────────────────────────────
 
+def _read_dotenv():
+    env_file = pathlib.Path(".env")
+    if not env_file.exists():
+        return {}
+    result = {}
+    for line in env_file.read_text().splitlines():
+        line = line.strip()
+        if "=" in line and not line.startswith("#"):
+            k, v = line.split("=", 1)
+            result[k.strip()] = v.strip()
+    return result
+
 def get_api_key():
+    dotenv = _read_dotenv()
     for var in ("OPENROUTER_API_KEY", "OPENAI_API_KEY"):
-        val = os.environ.get(var)
+        val = os.environ.get(var) or dotenv.get(var, "")
         if val:
             return val
     if AUTH_PATH.exists():
@@ -246,6 +261,7 @@ def get_api_key():
     sys.exit("No API key found. Set OPENROUTER_API_KEY.")
 
 _client = None
+_nim_client = None
 _client_lock = threading.Lock()
 
 def get_client():
@@ -254,6 +270,19 @@ def get_client():
         if _client is None:
             _client = OpenAI(api_key=get_api_key(), base_url=BASE_URL)
     return _client
+
+def get_nim_key():
+    dotenv = _read_dotenv()
+    return os.environ.get("NVIDIA_API_KEY", "") or dotenv.get("NVIDIA_API_KEY", "")
+
+def get_nim_client():
+    global _nim_client
+    with _client_lock:
+        if _nim_client is None:
+            k = get_nim_key()
+            if k:
+                _nim_client = OpenAI(api_key=k, base_url=NIM_BASE_URL)
+    return _nim_client
 
 # ── Prompt builders ───────────────────────────────────────────────────────────
 
@@ -278,42 +307,29 @@ The girl gives the boy the apple.
 def build_prompt_A(job):
     return f"""\
 Generate ONE German-English-Japanese-Chinese bridge file for a language learning corpus.
-
-## Job
-Preposition: {job['prep']} (always takes DATIVE case in German)
-Subject (NOM): German: {job['nom_de']} | English: {job['nom_en']}
-Dative NP: German: {job['dat_de']} | English: {job['dat_en']}
-Action: German: {job['verb_de']} | English: {job['verb_en']}
-
-## Format rules
-- Line 1: (NOM_de) *verb_de* [prep DAT_de].
-- Line 2: (NOM_en) *verb_en* [prep_en DAT_en].
-- Line 3: Japanese equivalent with [(DAT)] in brackets
-- Line 4: Chinese equivalent with [(DAT)] in brackets
-- Blank line
-- Q&A: {job['q_de']} / {job['q_en']} / {job['q_jp']} / {job['q_zh']} + answer line
-- Blank line
-- Plain sentence in all 4 languages (no brackets)
-
-## Bracket key
-(NOM) = subject | [DAT prepositional phrase] = dative PP | *verb* = main verb
-
-## Output
 Output ONLY the file content. No commentary, no markdown fences.
 
-## Example (different verb — shows format only)
-(das Mädchen) *geht* [mit dem Jungen] ins Kino.
-(the girl) *goes* [with the boy] to the cinema.
-(女の子が)[男の子と]一緒に映画館に*行く*。
-(那個女孩)*和*[那個男孩]去電影院。
+Subject (NOM): {job['nom_de']} / {job['nom_en']}
+Preposition (always DATIVE in German): {job['prep']}
+Dative NP: {job['dat_de']} / {job['dat_en']}
+Verb: {job['verb_de']} / {job['verb_en']}
+Q-word: {job['q_de']} / {job['q_en']} / {job['q_jp']} / {job['q_zh']}
 
-[Mit wem / With whom / 誰と / 和谁] does the girl go to the cinema?
+Bracket key: (NOM) = subject | [DAT prepositional phrase] | *verb*
+
+Example output for a different job (mit / das Mädchen / der Junge / gehen):
+(das Mädchen) *geht* [mit dem Jungen].
+(the girl) *goes* [with the boy].
+(女の子が)[男の子と]*歩く*。
+(那個女孩)*和*[那個男孩]走。
+
+[Mit wem / With whom / 誰と / 和谁] does the girl go?
 [mit dem Jungen]. / [with the boy]. / [男の子と]. / [那個男孩].
 
-Das Mädchen geht mit dem Jungen ins Kino.
-The girl goes with the boy to the cinema.
-女の子が男の子と一緒に映画館に行く。
-那個女孩和那個男孩去電影院。"""
+Das Mädchen geht mit dem Jungen.
+The girl goes with the boy.
+女の子が男の子と歩く。
+那個女孩和那個男孩走。"""
 
 
 def build_prompt_B(job):
@@ -440,15 +456,26 @@ def process_job(job, dry_run=False):
         log(f"  DRY  {path.name}")
         return True
 
-    for attempt in range(2):
+    nim = get_nim_client()
+    sources = []
+    if nim:
+        sources.append((nim, NIM_MODEL, {"extra_body": {"chat_template_kwargs": {"thinking": False}}}))
+    sources.append((get_client(), MODEL, {}))
+
+    for attempt in range(len(sources)):
+        client_obj, model_id, extra_kwargs = sources[attempt]
         try:
-            resp = get_client().chat.completions.create(
-                model=MODEL,
+            resp = client_obj.chat.completions.create(
+                model=model_id,
                 messages=[{"role": "user", "content": prompt}],
-                max_tokens=800,
+                max_tokens=8192,
                 temperature=0.3,
+                **extra_kwargs,
             )
-            content = resp.choices[0].message.content.strip()
+            content = resp.choices[0].message.content
+            if not content:
+                raise ValueError("empty response")
+            content = content.strip()
             ok, reason = verify(content, job["type"])
             if ok:
                 path.write_text(content + "\n", encoding="utf-8")
