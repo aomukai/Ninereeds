@@ -48,7 +48,7 @@ Training data is split into four numbered campaign folders. Training order: 01 �
 | Triplet stories | `training_data/01_language/triplet_stories/tier_1/`–`tier_4/` | 1345 EN × 4 langs. Aligned by domain with teaching stories. |
 | Lang curriculum (1–5) | `training_data/01_language/lang/` | ~12k files. Multilingual 4-stanza format. lang_1/2 early; lang_3/4/5 after grammar. |
 | Grammar curriculum | `training_data/01_language/grammar/` | 1400 files, 11 modules. Numeric dir order = training order. Dative/accusative spine. |
-| Bridge course | `training_data/01_language/bridge/` | 100 files. Surface-form pre-loading; designed to precede grammar. |
+| Bridge course | `training_data/01_language/bridge/` | 234 files. 001-100: DAT double-object; 101-234: 4-case permutations. Precedes grammar. |
 | Grammar design rationale | `docs/grammar_plan.md` | Why function-first. Still relevant as WHY doc. |
 | Grammar control files | `training/corpus_admin/grammar/` | manifest.md, lexicon.md, prepositions.md. Not training data. |
 
@@ -60,17 +60,27 @@ Training data is split into four numbered campaign folders. Training order: 01 �
 | World bible + storylist | `training/corpus_admin/grounded_stories/` | Generation spec. Not training data. |
 | Reasoning | `training_data/02_thinking/reasoning/` | 153 files. Maths, epistemic uncertainty, counting. |
 
-### 03_education/
+### 03_social_cognitive/
 
 | Subcorpus | Path | Notes |
 |---|---|---|
-| Wiki (levels 1–4) | `training_data/03_education/wiki/level_N/` | ~8400 files. Long-form encyclopedic Q&A. |
+| Wiki (levels 1–4) | `training_data/03_social_cognitive/wiki/level_N/` | ~8400 files. Long-form encyclopedic Q&A. |
 
 ### 04_philosophy/
 
 | Subcorpus | Path | Notes |
 |---|---|---|
 | Philosophy dialogues | `training_data/04_philosophy/` | 144 files (flat). Socratic dialogues in 4 languages. Epistemic humility / limits of knowledge. Capstone campaign. |
+
+### CKS curriculum pipeline (04_education/ — not a training campaign)
+
+| File | Path | Notes |
+|---|---|---|
+| Preschool concept nodes | `training_data/04_education/phase1_preschool.jsonl` | 34 entries. Phase 1 ontology from CKS preschool PDF. |
+| K-8 concept nodes | `training_data/04_education/phase1_k8.jsonl` | 164 entries (KG–G8). Phase 1 ontology from CKS K-8 PDF. |
+| Curriculum design | `training_data/ninereeds_cks_curriculum.md` | 5-phase pipeline spec. |
+
+Pipeline: Phase 1 JSONL → Phase 2 (DeepSeek adds `facts`) → Phase 2.5 (Claude audit) → Phase 3 (linking pass) → Phase 4 (DeepSeek generates dialogue `.md` files).
 
 ### Cross-corpus
 
