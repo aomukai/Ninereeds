@@ -531,35 +531,189 @@ Output schema per topic:
 }
 ```
 
-**Status**: `phase1_preschool.jsonl` — 34 topics — COMPLETE (2026-06-18).
-`phase1_k8.jsonl` — pending (read K–8 PDF).
+**Status**: Both files COMPLETE (2026-06-18).
+- `phase1_preschool.jsonl` — 39 nodes (preschool)
+- `phase1_k8.jsonl` — 262 nodes (KG–G8)
+- Total: 301 nodes, 10 domains, 436 forward links, 0 broken refs, 0 cycles
+- Phase 3 (linking pass) already done — `future_extensions` populated in both files
 
-### Phase 2 — Lesson Skeleton (DeepSeek adds `facts` list per topic)
+### Phase 2 — Lesson Skeleton (DeepSeek adds `facts` and `misconceptions`)
 
-DeepSeek receives each Phase 1 entry and adds a `facts` field:
-a list of the specific propositions to teach, ordered from most concrete to most abstract,
-respecting `working_memory_ceiling`. These are the beats the dialogue will cover.
+**This is the quality-determining layer.** Everything downstream (Phase 4 dialogues,
+probe sets, future lessons) is grounded in these two fields. Mediocre facts produce
+mediocre training data at scale.
 
-DeepSeek must not exceed `working_memory_ceiling` facts per topic.
-DeepSeek must not teach anything in `boundary_scope.deferred`.
+#### 2a. Schema additions
+
+```json
+{
+  "facts": [
+    "The denominator names how many equal parts the whole is divided into; a circle cut into 4 equal pieces has denominator 4 whether 0, 1, 2, 3, or 4 pieces are shaded.",
+    "The numerator counts how many of those equal-sized parts are selected; selecting 3 of the 4 pieces gives the fraction 3/4.",
+    "On a number line from 0 to 1, the fraction 1/4 lands exactly one-quarter of the way across, at the same point regardless of what object or drawing is used as the whole."
+  ],
+  "misconceptions": [
+    "A larger denominator means a larger fraction — students often believe 1/8 > 1/4 because 8 > 4, when the reverse is true because each piece is smaller.",
+    "Equal parts means the same number of parts, not the same size; students accept unequally-cut pieces as valid fractions."
+  ]
+}
+```
+
+#### 2b. Fact count (derived from `working_memory_ceiling`)
+
+Target fact count = `working_memory_ceiling`. Allowed range = `[WMC − 1, WMC]`.
+Never fewer than 2. Never more than `working_memory_ceiling`.
+
+| WMC | Target facts | Misconceptions |
+|-----|-------------|----------------|
+| 2   | 2           | 1              |
+| 3   | 2–3         | 1              |
+| 4   | 3–4         | 1–2            |
+| 5   | 4–5         | 2              |
+| 6   | 5–6         | 2–3            |
+| 7   | 6–7         | 3              |
+
+Do not hard-code the same count for all topics. The ontology already captures
+complexity; Phase 2 should respect it.
+
+#### 2c. Fact quality criteria
+
+Each fact must pass all four tests:
+
+1. **Falsifiable** — a wrong answer about this node could violate this fact.
+   If no probe could be derived from it, it is too vague. Rewrite.
+
+2. **Explanatory tension** — facts with "because", "when", "not … but", or
+   counterfactual structure generate questions naturally. Bare "X is Y" statements
+   rarely do. The dialogue generator needs something to work with.
+   > Weak: "Fractions represent parts of a whole."
+   > Strong: "The denominator tells how many equal parts the whole is divided into;
+   >   a pizza cut into 4 pieces has denominator 4 even if no slices have been taken."
+
+3. **Non-circular** — does not define a term using the term itself.
+
+4. **Boundary-respecting** — stays inside `boundary_scope.in_scope` and does not
+   reference any concept listed in `boundary_scope.deferred`.
+
+#### 2d. Misconception quality criteria
+
+Each misconception must:
+- Name a **specific, common error** learners at this grade level actually make
+  (not "students may misunderstand X" — that is not a misconception, it is a worry)
+- Be **correctable by one of the `facts`** in the same node
+- Be **grade-appropriate** — the error a student at this tier makes, not an advanced one
+
+Misconceptions are the most directly useful field for probe generation. A misconception
+is almost a ready-made wrong answer. Treat this field with at least as much care as `facts`.
+
+#### 2e. Phase 2 prompt template
+
+```
+You are building the lesson skeleton for Ninereeds, a small AI being trained
+on a structured K-8 curriculum. You will receive one curriculum node and must
+generate two fields: `facts` and `misconceptions`.
+
+## Node
+
+{paste full Phase 1 JSON here}
+
+## Your task
+
+**`facts`** — exactly {working_memory_ceiling} statements (allow ±1).
+Each fact must:
+- Be a specific, standalone true statement that a probe could test
+- Contain explanatory tension: prefer "X is Y because Z" or "X is Y, not A"
+  over bare "X is Y"
+- Reference at least one vocab_anchor from the node
+- Respect boundary_scope: do not use any concept from `deferred`
+- Not define a term using the term itself
+
+**`misconceptions`** — {ceil(WMC/3)} to {min(3, WMC//2)} statements.
+Each misconception must:
+- Name the specific error (not just "students may confuse X and Y")
+- Be correctable by one of the facts above
+- Be the kind of error a student at grade_level actually makes
+
+## Quality example (node: MATH-G3-FRC-001, fractions intro, WMC=4)
+
+BAD facts:
+× "Fractions represent parts of a whole."  ← too vague, no tension
+× "The numerator is on top."  ← position is not meaning
+
+GOOD facts:
+✓ "The denominator names how many equal parts the whole is divided into;
+   a circle cut into 4 equal pieces has denominator 4 whether or not any
+   pieces are shaded."
+✓ "The numerator counts how many of those equal-sized parts are chosen;
+   3/4 means 3 of the 4 pieces."
+✓ "On a number line from 0 to 1, the fraction 1/4 lands exactly
+   one-quarter of the way across, at the same point regardless of the
+   object used as the whole."
+
+BAD misconception:
+× "Students may not understand fractions."  ← not specific
+
+GOOD misconceptions:
+✓ "A larger denominator means a larger fraction — students believe 1/8 > 1/4
+   because 8 > 4, when the reverse is true because each piece is smaller."
+✓ "Equal parts means the same number of parts, not the same size; students
+   accept unequally-cut slices as valid fractions."
+
+## Output format
+
+Return ONLY valid JSON with exactly two keys: "facts" and "misconceptions".
+No explanation, no commentary.
+```
+
+#### 2f. Batching strategy
+
+- **Batch by domain**: 8–12 nodes per call, all from the same domain, ordered
+  by tier. DeepSeek builds the domain's vocabulary register before generating.
+- **Use the same in-domain few-shot example** for the entire batch (swap when
+  changing domains).
+- **Do not mix grade levels** widely within a batch — cognitive register drifts.
+  Stay within a 2-tier span per batch.
 
 ### Phase 2.5 — Audit (Claude Code verifies skeletons)
 
-For each skeleton:
-- `facts` count ≤ `working_memory_ceiling` ✓
-- No fact contradicts `boundary_scope.deferred` ✓
-- All facts are within `boundary_scope.in_scope` ✓
-- Facts are concrete-first, abstract-last ✓
+Run the following checks programmatically before accepting any Phase 2 output.
+Flag failures and return to DeepSeek with the specific criterion violated.
 
-Flag and return failures to DeepSeek for revision.
+**Structural checks (auto):**
+- `facts` field exists and is a non-empty list ✓
+- `misconceptions` field exists and is a non-empty list ✓
+- `len(facts)` is in `[WMC − 1, WMC]` (min 2) ✓
+- `len(misconceptions)` is in `[1, 3]` ✓
+- No fact contains a term from `boundary_scope.deferred` (keyword scan) ✓
+- No fact is shorter than 15 words (too vague) ✓
 
-### Phase 3 — Dependency Linking Pass (Claude Code)
+**Qualitative checks (Claude reads each node):**
+- Does each fact have falsifiable content? (Could a probe test it?)
+- Does at least one fact contain "because", "when", "not", or a counterfactual?
+- Is each misconception a specific named error (not a vague worry)?
+- Is each misconception contradicted by at least one of the facts?
+- Do the facts collectively explain the `core_concept` without going into `deferred`?
+- Are the facts ordered from concrete to abstract?
 
-After both `phase1_preschool.jsonl` and `phase1_k8.jsonl` exist and all IDs are
-assigned, populate `future_extensions` in each entry by forward-scanning the full
-topic list for entries whose `prerequisites` include the current topic's ID.
+**Return policy:**
+- 1–2 minor issues: send specific revision instructions ("Fact 3 is circular — rewrite")
+- 3+ issues or missing field: return the whole node for re-generation
 
-This pass does not require DeepSeek.
+**Target**: ≥ 95% nodes pass on first attempt when the prompt template is used correctly.
+
+### Phase 3 — Dependency Linking Pass (Claude Code) — COMPLETE
+
+Both files have been written and `future_extensions` populated (2026-06-18).
+Re-run only if new Phase 1 nodes are added:
+
+```python
+# Rebuild future_extensions from scratch
+for e in all_entries: e["future_extensions"] = []
+for e in all_entries:
+    for p in e.get("prerequisites", []):
+        if p in by_id and e["id"] not in by_id[p]["future_extensions"]:
+            by_id[p]["future_extensions"].append(e["id"])
+```
 
 ### Phase 4 — Dialogue Generation (DeepSeek)
 
@@ -595,7 +749,8 @@ After all files are generated:
 
 ---
 
-*Document version: 2.0 — 2026-06-18*
+*Document version: 2.1 — 2026-06-18*
 *For use with Ninereeds Campaign 15+ corpus construction (04_education)*
 *Source: Core Knowledge Sequence 2023, CC BY-NC-SA 4.0*
-*v2 changes: output format → [user]/[Ninereeds] dialogue; 4-phase pipeline; Phase 1 schema updated; language code jp → jp; file extension .txt → .md*
+*v2 changes: output format → [user]/[Ninereeds] dialogue; 4-phase pipeline; Phase 1 schema updated; language code ja → jp; file extension .txt → .md*
+*v2.1 changes: Phase 1 complete (301 nodes, 10 domains); Phase 2 spec rewritten with misconceptions field, variable fact count from WMC, prompt template, batching strategy; Phase 2.5 audit rubric expanded; Phase 3 marked complete*
