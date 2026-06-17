@@ -100,6 +100,7 @@ See `docs/handoff_2026-06-01.md` for full details.
 
 **Goal:** Teach the full language curriculum. Retry B/D/E after language is established.
 **Design:** 4-campaign split: 01_language → 02_thinking → 03_education → 04_philosophy
+**Corpus prep: COMPLETE (2026-06-17). Run starts weekend of 2026-06-21.**
 
 **Model:** 25M (validate) → 150M (if 25M confirms)
 **Base checkpoint:** `checkpoints/c13_Phase_C_winner.pt` (shaped 0.925)
@@ -128,14 +129,13 @@ See `docs/handoff_2026-06-01.md` for full details.
 #### 1. Grammar bridge expansion (DeepSeek generation — high priority)
 Bridge currently covers only dative double-object verbs (gibt/zeigt/bringt etc.). Missing:
 
-- [ ] **Always-dative prepositions** — `mit`, `bei`, `von`, `aus`, `nach`, `zu`, `seit`, `gegenüber`
-  - 10 files per preposition × 8 prepositions = ~80 files
-  - Format: same annotated 4-lingual bracket structure as existing bridge
-  - These are unconditional dative — no static/movement ambiguity — best entry point
-- [ ] **Dative pronouns** — `ihm`, `ihr`, `ihnen`, `mir`, `dir`, `uns`, `euch`
-  - ~30 files drilling the pronoun form in dative position
-- [ ] **NOM/ACC isolation** — "der Mann sieht den Jungen" type frames, no dative, to anchor the boundary
-  - ~20 files with accusative-only verbs (sehen, kennen, haben, lieben etc.)
+- [x] **Always-dative prepositions** — `mit`, `bei`, `von`, `aus`, `nach`, `zu`, `seit`, `gegenüber`
+  - 80 files (235–314). Complete 2026-06-18: `training_data/01_language/bridge/2[3-9][0-9]_bridge_prep*.md`
+- [x] **Dative pronouns** — `ihm`, `ihr`, `ihnen`, `mir`, `dir`, `uns`, `euch`
+  - 32 files (315–346). Complete 2026-06-18: `*_bridge_datpron_*.md`
+- [x] **NOM/ACC isolation** — "der Mann sieht den Jungen" type frames, no dative, to anchor the boundary
+  - 20 files (345–364). Complete 2026-06-18: `*_bridge_nomacc_*.md`
+  - Generator: `meta/scripts/bridge_extend.py` (NIM primary, OR fallback)
 - [x] **Bridge retrofit** — 100 existing bridge files: named chars (Emma/Gran/Taro) → generic NPs
   - Emma → "the girl"/das Mädchen/女の子/那個女孩; Gran → "the woman"; Taro → "the man"
   - Rationale: generic NPs carry explicit morphological case (Das Mädchen gibt dem Jungen > Emma gibt Taro)
@@ -144,16 +144,13 @@ Bridge currently covers only dative double-object verbs (gibt/zeigt/bringt etc.)
   - Core pattern: "Der Mann gibt dem Jungen den Ball des Hundes" (NOM+DAT+ACC+GEN)
   - 120 new files (numbered 101–234 with gaps), 4 languages + Q&A per permutation
   - Complete 2026-06-12: `training_data/01_language/bridge/*_bridge_4case_*.md`
-- [ ] **NOM/ACC isolation** — "der Mann sieht den Jungen" type frames, no dative, to anchor the boundary
-  - ~20 files with accusative-only verbs (sehen, kennen, haben, lieben etc.)
-
-Total addition: ~205 files × 4 langs = ~820 new bridge files
+Total addition: 232 files (80 prep + 32 datpron + 20 nomacc + 100 retrofit + existing 4case). Complete 2026-06-18.
 
 #### 2. Arithmetic bridge expansion (DeepSeek generation — high priority, still pending)
 Arithmetic has the most dedicated neurons (1,296) but no cluster — retrieval framing mismatch.
 The `training_data/02_thinking/reasoning/00_bridge_word_to_symbol.md` files exist but are multi-modal format.
 
-- [ ] **Direct-format drill files** — exact probe format: `[user]what is X plus Y?\n[Ninereeds]X plus Y is Z.`
+- [x] **Direct-format drill files** — exact probe format: `[user]what is X plus Y?\n[Ninereeds]X plus Y is Z.`
   - All four languages (EN/DE/JP/ZH)
   - Cover: addition (1–20 range), subtraction, simple multiplication
   - ~40 files × 4 langs = ~160 new files
@@ -170,8 +167,8 @@ The `training_data/02_thinking/reasoning/00_bridge_word_to_symbol.md` files exis
 #### 5. Focused corpus for weekday runs
 After variant B finishes (Sunday/Monday):
 
-- [ ] Compare grammar μ trajectory A vs B — pick ordering winner
-- [ ] Build `campaign14c_manifest.txt` — focused on weak clusters:
+- [x] Compare grammar μ trajectory A vs B — pick ordering winner
+- [x] Build `campaign14c_manifest.txt` — focused on weak clusters:
   - DROP: vehicle files and object files from phase_A (DONE ×3)
   - KEEP: phase_A animal files, phase_B, full grammar block, bridge (expanded), lang_3/4/5
   - KEEP: full teaching stories block (emotions/cognitive/abstract still weak)
@@ -179,7 +176,7 @@ After variant B finishes (Sunday/Monday):
   - Keep boolean stories (emotions_boolean just hit DONE ×1 — confirm at B-E3 before dropping)
 
 #### 6. Probe set additions
-- [ ] Add always-dative preposition probes to `language.jsonl`
+- [x] Add always-dative preposition probes to `language.jsonl`
   - e.g. "Die Frau geht mit" → expect "dem Mann" / "der Frau" etc.
   - ~10 new grammar probes (brings grammar category from 8 → 18 probes for better resolution)
 
