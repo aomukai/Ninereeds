@@ -35,7 +35,8 @@ Read this when you're not sure where something lives.
 
 ## Corpus — campaign structure
 
-Training data is split into four numbered campaign folders. Training order: 01 → 02 → 03 → 04.
+Training data is split into five numbered campaign folders. Training order: 01 → 02 → 03 → 04 → 05.
+C14 merges 01_language + 02_thinking. C15 = 03_social_cognitive + 04_education. C16 = 05_philosophy.
 
 ### 01_language/
 
@@ -56,9 +57,13 @@ Training data is split into four numbered campaign folders. Training order: 01 �
 
 | Subcorpus | Path | Notes |
 |---|---|---|
-| Grounded stories | `training_data/02_thinking/grounded_stories/` | 195 stories × 4 langs = 780 files. Sequential world model — do not shuffle. |
+| Arithmetic bridge | `training_data/02_thinking/arithmetic_bridge/` | 20 new drill files (c01–c15 Phase A, p01–p05 Phase B) + 84 legacy. Compact 4-lingual format. Generator: `meta/scripts/arith_gen.py`. |
+| Grounded stories | `training_data/02_thinking/grounded_stories/` | 195 stories × 4 langs = 780 files. Sequential world model — do NOT shuffle. |
 | World bible + storylist | `training/corpus_admin/grounded_stories/` | Generation spec. Not training data. |
-| Reasoning | `training_data/02_thinking/reasoning/` | 153 files. Maths, epistemic uncertainty, counting. |
+| Reasoning | `training_data/02_thinking/reasoning/` | 68 files. Operation facts (add/sub/mul/div), logic, epistemic uncertainty. |
+
+Block manifests (C14 thinking): `training/corpus_admin/campaign14_blocks/c14_02/03/04_*.txt`
+Corpus files (built, verified clean): `training/corpus/c14_02_arithmetic_bridge.txt` (56 KB), `c14_03_grounded_stories.txt` (774 KB), `c14_04_reasoning.txt` (124 KB)
 
 ### 03_social_cognitive/
 
@@ -66,29 +71,23 @@ Training data is split into four numbered campaign folders. Training order: 01 �
 |---|---|---|
 | Wiki (levels 1–4) | `training_data/03_social_cognitive/wiki/level_N/` | ~8400 files. Long-form encyclopedic Q&A. |
 
-### 04_philosophy/
+### 04_education/ (C15 corpus — CKS K-8 curriculum)
 
-| Subcorpus | Path | Notes |
-|---|---|---|
-| Philosophy dialogues | `training_data/04_philosophy/` | 144 files (flat). Socratic dialogues in 4 languages. Epistemic humility / limits of knowledge. Capstone campaign. |
-
-### CKS curriculum pipeline (04_education/ — not a training campaign yet)
+**Pipeline status: ALL PHASES COMPLETE (2026-06-18)**
 
 | File | Path | Notes |
 |---|---|---|
-| Preschool concept nodes | `training_data/04_education/phase1_preschool.jsonl` | 39 entries. Phase 1 ontology from CKS preschool PDF. |
-| K-8 concept nodes | `training_data/04_education/phase1_k8.jsonl` | 262 entries (KG–G8). Phase 1 ontology from CKS K-8 PDF. |
-| Phase 2 merged output | `training_data/04_education/phase2_merged.jsonl` | 301 nodes with `facts` + `misconceptions`. Complete 2026-06-18. |
-| Phase 2 individual outputs | `training_data/04_education/phase2_outputs/{id}.json` | One file per node. Source for Phase 4. |
+| Dialogue files | `training_data/04_education/dialogues/` | 418 `.md` files (156 preschool × 4 langs + 262 K-8 × 1 lang) |
+| Phase 1–3 JSONL | `training_data/04_education/phase1_*.jsonl`, `phase2_merged.jsonl` | 301 nodes with facts, misconceptions, links |
 | Curriculum design | `training_data/ninereeds_cks_curriculum.md` | 5-phase pipeline spec. v2.2. |
-| Phase 2 runner | `meta/scripts/phase2_gen.py` | `--workers 6`, `--merge`, `--rerun-failed` flags. |
+| Manifest | `training/corpus_admin/campaign16_manifest.txt` | 418 files, tier 0→9. Run: `build_campaign16_manifest.py --verify` |
+| Block files | `training/corpus_admin/campaign16_blocks/tier_N.txt` | 10 tier files for verification |
 
-**Pipeline status (2026-06-18):**
-- Phase 1 (ontology): COMPLETE — 301 nodes, 10 domains, 436 forward links
-- Phase 2 (facts + misconceptions): COMPLETE — 301/301, 0 failures, `phase2_merged.jsonl`
-- Phase 2.5 (audit): COMPLETE — 0 structural issues, 4 soft-tension warnings (early-grade, accepted)
-- Phase 3 (linking pass): COMPLETE — `future_extensions` populated in both Phase 1 files
-- **Phase 4 (dialogue generation): NEXT** — DeepSeek generates `[user]/[Ninereeds]` `.md` files per node
+### 05_philosophy/ (C16 corpus)
+
+| Subcorpus | Path | Notes |
+|---|---|---|
+| Philosophy dialogues | `training_data/05_philosophy/` | 144 files (flat). Socratic dialogues in 4 languages. Capstone campaign. |
 
 ### Cross-corpus
 
@@ -111,8 +110,11 @@ Active scripts used in the current training cycle:
 | `meta/scripts/build_teaching_order.py` | Generate campaign14_order.txt (teaching+boolean+triplets+grounded interleaved) | `stats` / `manifest` / `interleave [--dry-run]` |
 | `meta/scripts/story_gen_v2.py` | Teaching story generator (tier+domain aware, anchor/organic passes) | `run --workers 4` |
 | `meta/scripts/story_gen_boolean.py` | Boolean story generator (plan/run/status) | `plan --target 200`, `run --workers 4` |
-| `meta/scripts/brain_map.py` | Activation atlas scanner — see Eval section | `probe`, `hubs`, `map` |
+| `meta/scripts/brain_map.py` | Activation atlas scanner — see Eval section | `probe --probes training/corpus_admin/probe_sets/language.jsonl` or `thinking.jsonl` |
 | `meta/scripts/probe.py` | Qualitative output probes (12 categories) | `--checkpoint $CKPT --temperature 0.7 --tokens 120` |
+| `meta/scripts/arith_gen.py` | Arithmetic bridge drill generator (Phase A + B) | `--phase a\|b\|all --workers 3` |
+| `meta/scripts/build_campaign14_thinking_manifests.py` | C14 thinking block manifests | `--verify` |
+| `meta/scripts/build_campaign16_manifest.py` | C15 education manifest (CKS) | `--verify` |
 
 Legacy generation scripts (generation complete; kept for reference):
 

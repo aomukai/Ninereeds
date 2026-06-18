@@ -98,13 +98,19 @@ See `docs/handoff_2026-06-01.md` for full details.
 
 ## Campaign 14 — Language campaign
 
-**Goal:** Teach the full language curriculum. Retry B/D/E after language is established.
-**Design:** 4-campaign split: 01_language → 02_thinking → 03_education → 04_philosophy
-**Corpus prep: COMPLETE (2026-06-17). Run starts weekend of 2026-06-21.**
+**Goal:** Teach language + thinking in one merged campaign before education and philosophy.
+**Design:** 3-campaign split: C14 (01_language + 02_thinking) → C15 (03_education) → C16 (04_philosophy)
+**Training uses block training** — separate `train.py` calls per block, each with its own LR arc + fresh Adam state.
 
 **Model:** 25M (validate) → 150M (if 25M confirms)
 **Base checkpoint:** `checkpoints/c13_Phase_C_winner.pt` (shaped 0.925)
-**Training data:** `training_data/01_language/` (restructured 2026-06-04)
+**Training data:** `training_data/01_language/` + `training_data/02_thinking/`
+
+**Block order (all --no-shuffle):**
+1. `c14_01_language_core.txt` — full 01_language block (37,569 files)
+2. `c14_02_arithmetic_bridge.txt` — c01–c15 Peano-ordered drills (15 files)
+3. `c14_03_grounded_stories.txt` — grounded_stories sequential (780 files)
+4. `c14_04_reasoning.txt` — reasoning/ (68 files; arithmetic concepts must land before this)
 
 ### Weekend runs (2026-06-06/07) — COMPLETE
 
@@ -146,15 +152,19 @@ Bridge currently covers only dative double-object verbs (gibt/zeigt/bringt etc.)
   - Complete 2026-06-12: `training_data/01_language/bridge/*_bridge_4case_*.md`
 Total addition: 232 files (80 prep + 32 datpron + 20 nomacc + 100 retrofit + existing 4case). Complete 2026-06-18.
 
-#### 2. Arithmetic bridge expansion (DeepSeek generation — high priority, still pending)
-Arithmetic has the most dedicated neurons (1,296) but no cluster — retrieval framing mismatch.
-The `training_data/02_thinking/reasoning/00_bridge_word_to_symbol.md` files exist but are multi-modal format.
+#### 2. Arithmetic bridge expansion — COMPLETE (2026-06-18)
+Root cause: retrieval framing mismatch (training used multi-modal "Teach me about" format; probe uses "what is X plus Y?").
+Solution: compact 4-lingual format — one arithmetic circuit with four linguistic handles per 256-byte window.
 
-- [x] **Direct-format drill files** — exact probe format: `[user]what is X plus Y?\n[Ninereeds]X plus Y is Z.`
-  - All four languages (EN/DE/JP/ZH)
-  - Cover: addition (1–20 range), subtraction, simple multiplication
-  - ~40 files × 4 langs = ~160 new files
-  - Add to `training_data/02_thinking/reasoning/` with `00_drill_` prefix
+- [x] **15 compact multilingual drill files** — `training_data/02_thinking/arithmetic_bridge/c01–c15`
+  - c01 identity, c02 same/different, c03 more/less, c04 successor, c05 zero (conceptual foundation)
+  - c06 add within 5, c07 add within 10 (all addition facts, both orderings)
+  - c08 subtraction as inverse (both directions in same window: "2+2=4. 4-2=2.")
+  - c09 comparison, c10 objects addition, c11 objects subtraction (grounded transfer)
+  - c12 probe format (80 exchanges — exact brain_map format, 20 facts × 4 langs, no labels)
+  - c13 sequences/patterns, c14 rule application (ALeRT-style), c15 contrastive right/wrong
+  - Generator: `meta/scripts/arith_gen.py` (NIM primary, OR fallback)
+  - Training order: c01 → c15 all `--no-shuffle`; c12 positioned after c01–c11
 
 #### 3. Teaching story annotation — COMPLETE (2026-06-13)
 - [x] 5006 teaching stories annotated with `_marked.md` pairs
@@ -186,18 +196,43 @@ After variant B finishes (Sunday/Monday):
 - [x] B-E3 scan complete
 - [x] Compare A vs B grammar trajectory — **A wins** (bridge before grammar). See `02_bridge_after_grammar.md` comparison table.
 
+### Material generation — COMPLETE (2026-06-18)
+
+- [x] **Arithmetic Phase B** — 5 paraphrase files (p01–p05): varied question surface, same facts as Phase A
+  - p01 add paraphrase, p02 sub paraphrase, p03 count paraphrase, p04 compare paraphrase, p05 word problems
+  - Generator: `meta/scripts/arith_gen.py --phase b`
+  - Do not train Phase B until Phase A shows stable arithmetic retrieval on brain_map
+- [x] **Wiki audit** — 8,443 files at `03_social_cognitive/wiki/`, format clean (0 issues), languages balanced
+  - NOTE: git shows these as deleted at old path `03_education/wiki/` — unstaged deletes are expected, not corruption
+- [x] **Thinking probes** — `training/corpus_admin/probe_sets/thinking.jsonl` — 94 probes, 14 categories
+  - Covers: arithmetic ×4 languages, paraphrase, grounded, identity, comparison, successor, zero,
+    sequences, rule application, contrastive, grounded_causal
+
+### Block manifest build (before run)
+
+- [x] Write `meta/scripts/build_campaign14_thinking_manifests.py` — COMPLETE (2026-06-18)
+  - Output: `training/corpus_admin/campaign14_blocks/c14_02_arithmetic_bridge.txt` (20 files)
+  - Output: `training/corpus_admin/campaign14_blocks/c14_03_grounded_stories.txt` (780 files, EN/DE/JP/ZH consecutive per story)
+  - Output: `training/corpus_admin/campaign14_blocks/c14_04_reasoning.txt` (68 files)
+  - Combined: `training/corpus_admin/campaign14_thinking_manifest.txt` (868 files total)
+  - All 868 paths verified on disk
+- [x] Build corpus text files for each thinking block — COMPLETE (2026-06-18)
+  - `training/corpus/c14_02_arithmetic_bridge.txt` — 20 files, 56 KB, 0 skipped
+  - `training/corpus/c14_03_grounded_stories.txt` — 780 files, 774 KB, 0 skipped (549 whitespace-normalised)
+  - `training/corpus/c14_04_reasoning.txt` — 68 files, 124 KB, 0 skipped
+  - All three: "All files validated — corpus is clean."
+
 ---
 
-## Campaign 15 — Thinking campaign (02_thinking)
+## Campaign 15 — Education campaign (03_education)
 
-**Goal:** World model + reasoning on top of language-trained checkpoint.
-**Data:** `training_data/02_thinking/` — grounded_stories (sequential), reasoning
+**Goal:** CKS knowledge grounding on top of language+thinking checkpoint.
+**Data:** `training_data/03_education/` — wiki (~8400 files, levels 1–4)
+**Corpus:** `training/corpus_admin/campaign16_manifest.txt` exists (418 CKS dialogue files, complete)
 
 ### Next steps (after Campaign 14 completes)
-- [ ] Build `meta/scripts/build_campaign15_manifest.py` (same pattern as C14)
-  - grounded_stories: sequential, do NOT domain-sort
-  - reasoning: natural file order
-- [ ] Build `training/corpus_admin/probe_sets/thinking.jsonl`
+- [ ] Decide: wiki files in C15, or keep C15 = CKS dialogues only?
+- [ ] Build `training/corpus_admin/probe_sets/thinking.jsonl` (arithmetic + reasoning probes)
 
 ---
 
