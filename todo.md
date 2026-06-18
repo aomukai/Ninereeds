@@ -232,6 +232,30 @@ From deep-research report (2026-06-02). Run in order; each informs the next.
 
 ---
 
+## CKS Education Pipeline — Campaign 16 prep
+
+**Goal:** Generate `[user]/[Ninereeds]` dialogue `.md` files from the 301-node CKS curriculum.
+**Spec:** `training_data/ninereeds_cks_curriculum.md` (v2.2) — read Phases 4 and 5 before starting.
+**Status (2026-06-18):** Phases 1–5 complete. Campaign 16 corpus ready.
+
+### Phase 4 — Dialogue generation (DeepSeek) — COMPLETE (2026-06-18)
+
+- [x] Write `meta/scripts/phase4_gen.py`
+- [x] Run pilot (10 nodes, mix of domains/grades/languages) and review quality
+- [x] Run full generation — 418/418 files, 0 issues after validation passes
+- [x] Structural validation pass — all Ninereeds turns end with ?, all tags intact
+- Output: `training_data/04_education/dialogues/preschool/{domain}/` and `k8/band_{a,b,c}/{domain}/`
+
+### Phase 5 — Training manifest — COMPLETE (2026-06-18)
+
+- [x] Build `meta/scripts/build_campaign16_manifest.py`
+- [x] Manifest: `training/corpus_admin/campaign16_manifest.txt` — 418 files, tier 0→9 order
+- [x] Block files: `training/corpus_admin/campaign16_blocks/tier_N.txt` (10 files)
+- [x] Verified: all 418 paths exist on disk
+- Order: Tier 0 (preschool anchors) → Tier 9 (grade 8); round-robin by domain within tier; preschool nodes en/de/jp/zh consecutively
+
+---
+
 ## Standing work (lower urgency)
 
 - [ ] Phase I — Corpus critic (`meta/scripts/corpus_critic.py`) — before any full-scale campaign

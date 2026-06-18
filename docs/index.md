@@ -72,15 +72,23 @@ Training data is split into four numbered campaign folders. Training order: 01 �
 |---|---|---|
 | Philosophy dialogues | `training_data/04_philosophy/` | 144 files (flat). Socratic dialogues in 4 languages. Epistemic humility / limits of knowledge. Capstone campaign. |
 
-### CKS curriculum pipeline (04_education/ — not a training campaign)
+### CKS curriculum pipeline (04_education/ — not a training campaign yet)
 
 | File | Path | Notes |
 |---|---|---|
-| Preschool concept nodes | `training_data/04_education/phase1_preschool.jsonl` | 34 entries. Phase 1 ontology from CKS preschool PDF. |
-| K-8 concept nodes | `training_data/04_education/phase1_k8.jsonl` | 164 entries (KG–G8). Phase 1 ontology from CKS K-8 PDF. |
-| Curriculum design | `training_data/ninereeds_cks_curriculum.md` | 5-phase pipeline spec. |
+| Preschool concept nodes | `training_data/04_education/phase1_preschool.jsonl` | 39 entries. Phase 1 ontology from CKS preschool PDF. |
+| K-8 concept nodes | `training_data/04_education/phase1_k8.jsonl` | 262 entries (KG–G8). Phase 1 ontology from CKS K-8 PDF. |
+| Phase 2 merged output | `training_data/04_education/phase2_merged.jsonl` | 301 nodes with `facts` + `misconceptions`. Complete 2026-06-18. |
+| Phase 2 individual outputs | `training_data/04_education/phase2_outputs/{id}.json` | One file per node. Source for Phase 4. |
+| Curriculum design | `training_data/ninereeds_cks_curriculum.md` | 5-phase pipeline spec. v2.2. |
+| Phase 2 runner | `meta/scripts/phase2_gen.py` | `--workers 6`, `--merge`, `--rerun-failed` flags. |
 
-Pipeline: Phase 1 JSONL → Phase 2 (DeepSeek adds `facts`) → Phase 2.5 (Claude audit) → Phase 3 (linking pass) → Phase 4 (DeepSeek generates dialogue `.md` files).
+**Pipeline status (2026-06-18):**
+- Phase 1 (ontology): COMPLETE — 301 nodes, 10 domains, 436 forward links
+- Phase 2 (facts + misconceptions): COMPLETE — 301/301, 0 failures, `phase2_merged.jsonl`
+- Phase 2.5 (audit): COMPLETE — 0 structural issues, 4 soft-tension warnings (early-grade, accepted)
+- Phase 3 (linking pass): COMPLETE — `future_extensions` populated in both Phase 1 files
+- **Phase 4 (dialogue generation): NEXT** — DeepSeek generates `[user]/[Ninereeds]` `.md` files per node
 
 ### Cross-corpus
 
