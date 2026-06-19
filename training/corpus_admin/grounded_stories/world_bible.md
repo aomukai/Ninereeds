@@ -431,3 +431,236 @@ fully and stop when it is done. Do not pad. Do not summarise at the end.
 - No character announcing what they have learned.
 - No textbook constructions in any language (私はビルです / I am a boy / Das ist ein Apfel).
 - No exposition about the world that a child in the scene would already know.
+
+---
+
+## Extended Cast (stories 196+)
+
+### Mei
+A girl, same age as Emma. She lives two lanes over from Gran's cottage — close enough
+that she appears at the garden gate or the meadow path without much explanation, and
+close enough that her cat Dou turns up at Gran's garden wall on her own. Mei's
+grandmother Yun runs the Saturday market stall. Mei is quiet and precise: she measures
+things before she touches them, finds the right place for things, notices immediately
+when something is off-level or out of order. She knows the mill well — which board to
+step over, where to stand so the flour dust doesn't get in your eyes. In the village
+she is confident and purposeful. At the oak or the pond she is still learning the ground.
+
+Language names: EN=Mei, DE=Mei, JP=メイ, ZH=梅
+
+### Dou
+Mei's cat. Small, grey, with one white ear and a tail she carries very upright. She
+moves along walls and fences rather than through open ground, and appears in Gran's
+garden without explanation, as cats do. She tolerates Biscuit — who has decided she
+is beneath his notice — and makes Bello quietly miserable with her indifference. She
+climbs the apple tree without effort and sits in the fork where no one can reach her.
+She turns up without warning and leaves the same way. She is not unfriendly; she is
+simply on her own schedule.
+
+Language names: EN=Dou, DE=Dou, JP=ドウ, ZH=豆
+
+### Yun
+Mei's grandmother. She runs the market stall every Saturday — vegetables, eggs, dried
+herbs in small paper bags sealed with a twist. She weighs things on a small brass
+scale, makes change without hesitation, and knows the name of every regular customer.
+She speaks to children the same way she speaks to adults: directly, without adjustment
+downward. Her hands are fast and never idle. The stall table is always tidy; she
+straightens it between customers without appearing to think about it.
+
+Language names: EN=Yun, DE=Yun, JP=ユン, ZH=云
+
+### Riku
+The postman. He has a red bicycle and a large canvas bag that leans to one side when
+it is full. He calls everyone by name when he hands something over, including the dogs
+by name. He knows which houses get letters on which days, who is expecting a parcel,
+who has been waiting. He is cheerful without being loud. His bicycle is always leaning
+against something it perhaps should not be.
+
+Language names: EN=Riku, DE=Riku, JP=陸, ZH=陆
+
+### Stefan
+The village police officer. He walks his beat slowly, hands clasped behind his back.
+He nods at people he passes and sometimes stops to exchange a few words, but never for
+long. He knows every child in the village by name and every dog by name. He has a
+bicycle too, which he sometimes rides and sometimes pushes, apparently by preference.
+His badge catches the sun on clear mornings. His presence on the main street means
+everything is as it should be.
+
+Language names: EN=Stefan, DE=Stefan, JP=ステファン, ZH=斯蒂芬
+
+### Hana
+The baker. She is at work before anyone else in the village is awake — the bakery
+light is on when the lane is still dark. Her loaves are different sizes; she lines
+them up in the window in order, big ones at the back, small ones at the front. Her
+apron always has flour on it, even late in the afternoon. End-of-day loaves go at
+half price and are still warm. The bakery smell reaches the bottom of Gran's lane
+before you get to the door.
+
+Language names: EN=Hana, DE=Hana, JP=ハナ, ZH=花
+
+### Owen
+The farmer whose field borders the meadow path on the west side. He keeps a flock
+of sheep — fifteen or twenty; Emma has never been certain of the exact number. He
+leans on gates in the manner of someone who has been doing it for a long time and
+finds it productive. He has very big hands, a flat cap, and a sheepdog who works
+the field beside him. He rarely speaks unless there is something worth saying. When
+he does, it is usually about weather or animals and it is usually right.
+
+Language names: EN=Owen, DE=Owen, JP=オーウェン, ZH=欧文
+
+### Clara
+The schoolteacher — already described in location 5, named here for reference. She
+writes in large, careful letters on the blackboard and erases them completely before
+writing the next thing. She keeps the nature table stocked. She calls on the quiet
+children as readily as the ones with their hands up. Patient but not soft.
+
+Language names: EN=Clara, DE=Klara, JP=クララ, ZH=克拉拉
+
+### Vern
+An old carpenter with a workshop on the side street, between the vet and the doctor's
+surgery. He is spare with words and generous with time — if a child brings him
+something broken, he examines it properly before deciding. His workshop smells of
+sawdust and linseed oil. He has names for every tool and uses them as habit, not
+instruction — "hand me the spokeshave" as if of course you know what that is. When
+he is working, the sounds come in sequence: measuring, marking, cutting, planing,
+fitting. He fits a joint without glue first, takes it apart, notes what needs
+correcting. He has been doing this long enough that his hands know what his eyes
+have already told them.
+
+Language names: EN=Vern, DE=Vern, JP=ヴェルン, ZH=弗恩
+
+**Named updates to existing cast:**
+- The vet (location 10) is **Dr. Lena**.
+- The doctor (location 11) is **Dr. Anand**.
+
+---
+
+## Additional Locations (stories 196+)
+
+### 13. The Mill
+A small stone building at the edge of the village where a stream has been diverted
+to run beneath it. The water wheel is on the east side — large, dark with damp,
+turning slowly when the sluice is open. Inside, the floor is stone and the air is
+always white with flour dust. The millstones are very heavy, flat-faced, turning
+against each other with a low grinding sound you feel through the floor before you
+hear it with your ears. Grain goes in at the top through a wooden hopper; flour
+comes out below, fine and warm, into a cloth sack. The ceiling beams are low.
+Everything has a fine white coating.
+
+The stream that feeds the wheel runs out the other side of the building, slower
+and quieter, into a stone channel and then into the ditch along the lane. In dry
+summers the stream drops and the wheel turns slower; after heavy rain it races.
+
+Mei knows the building well. She knows which floorboard to step over, where to
+stand so the flour dust does not get in your eyes, how to open the sluice lever
+and what happens to the wheel when you do.
+
+**Appears in:** grinding grain, flour and dust, the wheel under different
+conditions (fast/slow/stopped), the stream in rain vs dry weather, Mei explaining
+machinery, the weight of the millstones, things that turn and grind, the sound
+felt through the floor.
+
+### 14. Vern's Workshop
+On the side street, between the vet and the doctor's surgery, behind a low door
+that stands open in good weather. One long room, a very large workbench along the
+back wall with a vise at one end, tools hung above in size order on wooden pegs.
+The floor has a permanent layer of shavings and sawdust that Vern sweeps to the
+corner but never entirely removes. It smells of sawdust and linseed oil and
+something resinous from the green wood stacked along the side wall.
+
+Different woods are stored separately: darker ones against the far wall, pale
+fresh-cut ones near the door to dry. Vern knows each by touch and smell without
+looking. The vise holds things still while he works. Each tool has a specific peg;
+he notices immediately if one is wrong or missing.
+
+**Appears in:** Vern making something, a broken object brought in for repair,
+identifying wood by touch and smell, measuring and fitting, tool names, the vise,
+a joint fitted without glue, children watching Vern work, the sequence of sounds
+when carpentry is done correctly.
+
+### 15. The Hill
+A long slope at the far end of Gran's field — not steep but high enough that from
+the top the cottage looks very small and the oak is a dark shape at the field's
+edge. Owen's sheep graze the upper slope and move slowly across it over the
+course of a morning.
+
+From the top on a clear day: the village below, the mill chimney, the lane. To
+the west, clouds build first. Gran says weather comes from the west and you can
+see it coming if you go up early enough. The grass here is shorter, cropped close.
+The wind comes without the trees to break it. In winter the hilltop is the coldest
+place in the valley. In summer on still days it is the best view, and sounds from
+the village carry clearly upward.
+
+A gate at the very top leads to the next valley — another farm, not in the
+stories, but the gate is there and sometimes open.
+
+**Appears in:** wide view, weather coming in from the west, Owen's sheep on the
+slope, the village seen from above, the cottage very small below, wind without
+shelter, distance and sound (things loud close, faint from the hill), the mill
+chimney visible, the gate to somewhere else.
+
+### 16. The Root Cellar
+Below Gran's cottage, reached by a wooden door set into the ground at an angle
+near the kitchen wall. The door is heavier than it looks; it must be propped open
+with an iron bar or it falls. Five stone steps, worn and steeper than indoor
+stairs. The room below is cool even in summer, cold in winter, and dark until
+you bring a lamp.
+
+It smells of earth and stored things: apples in crates along one wall (the sweet,
+slightly fermented smell of ones that are turning), onions hanging in ropes from
+the ceiling beam, turnips in a wooden box, potatoes in a hessian sack that Gran
+checks for rot. Shelves hold jars: preserved plums, pickled cabbage, dried beans,
+each labelled in Gran's careful writing.
+
+In summer the root cellar is the coolest place on the property — the floor is
+earth, the walls are stone, and the temperature does not follow the weather above.
+In winter it does not freeze. The lamp Gran uses is an old metal one, lit with a
+match. The shadows it throws are large and move when the flame moves.
+
+**Appears in:** fetching apples or vegetables, checking for rot, the smell of
+stored things, cool in summer heat, jars of preserved food, the heavy door, the
+lamp and its shadows, counting and sorting stored vegetables, what is left at the
+end of winter.
+
+---
+
+## Updated World Topology (stories 196+)
+
+```
+         [next valley]
+               |
+           The Hill ——— Owen's sheep
+               |
+         Gran's field
+          /          \
+       The Oak       [open]
+          \
+        The Pond ————— bench (willow)
+             |
+        Meadow path
+        /            \
+  Gran's gate       The School (Clara)
+       |
+  Gran's cottage ——— Root Cellar (below)
+       |
+  Village lane (Riku, Stefan)
+       |
+    The Village
+  (Hana's bakery / market stall Yun+Mei / post box)
+    |          |            |
+  Vet       Doctor       Vern's
+ Dr.Lena   Dr.Anand     Workshop
+       \       |
+        The Mill ——— stream (Mei)
+```
+
+Cross-references for stories 196+:
+- The mill chimney is visible from the hill.
+- Mei's garden wall is two lanes from Gran's gate — Dou arrives without preamble.
+- Riku's red bicycle leans against things on the village lane and the main street.
+- Stefan's slow beat covers the main street, the side street, and sometimes the
+  bottom of Gran's lane.
+- Owen's sheep field is visible from the meadow path; his sheepdog works the far
+  edge.
+- The root cellar door is near the kitchen wall — Gran opens it before she sends
+  Emma down; the lamp is lit before the door is propped.

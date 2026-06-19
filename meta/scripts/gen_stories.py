@@ -9,7 +9,7 @@ Usage:
   python3 meta/scripts/gen_stories.py gen [--lang EN,DE,JP,ZH] [--workers 6] [--only 01,05] [--dry-run]
   python3 meta/scripts/gen_stories.py report [--lang EN,DE,JP,ZH]
 
-Auth: OPENROUTER_API_KEY env var
+Auth: DEEPSEEK_API_KEY (primary), NVIDIA_API_KEY (fallback), OPENROUTER_API_KEY (fallback)
 """
 
 from __future__ import annotations
@@ -30,57 +30,127 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 REPO_ROOT   = Path(__file__).resolve().parent.parent.parent
-STORIES_DIR  = REPO_ROOT / "training_data" / "grounded_stories"
+STORIES_DIR  = REPO_ROOT / "training_data" / "02_thinking" / "grounded_stories"
 CORPUS_ADMIN = REPO_ROOT / "training" / "corpus_admin" / "grounded_stories"
 WORLD_BIBLE  = CORPUS_ADMIN / "world_bible.md"
 STORY_LIST   = CORPUS_ADMIN / "storylist.txt"
-BASE_URL    = "https://openrouter.ai/api/v1"
-MODEL       = "deepseek/deepseek-chat"
 MAX_TOKENS  = 1200
 
-CHAR_MAP = {"E": "Emma", "T": "Taro", "G": "Gran", "B": "Biscuit", "L": "Bello"}
+
+def _read_dotenv() -> dict:
+    env: dict = {}
+    p = REPO_ROOT / ".env"
+    if p.exists():
+        for line in p.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                env[k.strip()] = v.strip().strip('"').strip("'")
+    return env
+
+_dotenv = _read_dotenv()
+
+def _get(key: str) -> str | None:
+    return os.environ.get(key) or _dotenv.get(key)
+
+def _sources() -> list:
+    src = []
+    ds = _get("DEEPSEEK_API_KEY")
+    if ds:
+        src.append((OpenAI(api_key=ds, base_url="https://api.deepseek.com/v1"),
+                    "deepseek-chat", {}))
+    nim = _get("NVIDIA_API_KEY")
+    if nim:
+        src.append((OpenAI(api_key=nim, base_url="https://integrate.api.nvidia.com/v1"),
+                    "deepseek-ai/deepseek-v4-pro",
+                    {"extra_body": {"chat_template_kwargs": {"thinking": False}}}))
+    orc = _get("OPENROUTER_API_KEY")
+    if orc:
+        src.append((OpenAI(api_key=orc, base_url="https://openrouter.ai/api/v1"),
+                    "deepseek/deepseek-chat", {}))
+    if not src:
+        sys.exit("Set DEEPSEEK_API_KEY, NVIDIA_API_KEY, or OPENROUTER_API_KEY")
+    return src
+
+SOURCES = _sources()
+
+CHAR_MAP = {
+    "E": "Emma", "T": "Taro", "G": "Gran", "B": "Biscuit", "L": "Bello",
+    "M": "Mei", "D": "Dou", "Y": "Yun", "R": "Riku", "S": "Stefan",
+    "H": "Hana", "O": "Owen", "C": "Clara", "V": "Vern",
+}
 
 # Cast names per language — same characters, language-appropriate rendering
 CAST: dict[str, dict[str, str]] = {
-    "EN": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Gran",       "Biscuit": "Biscuit",   "Bello": "Bello"},
-    "DE": {"Emma": "Emma",     "Taro": "Taro",   "Gran": "Oma",        "Biscuit": "Keks",        "Bello": "Bello"},
-    "JP": {"Emma": "エマ",      "Taro": "太郎",   "Gran": "おばあさん",  "Biscuit": "ビスケット",  "Bello": "ベロ"},
-    "ZH": {"Emma": "艾玛",      "Taro": "太郎",   "Gran": "奶奶",       "Biscuit": "饼干",        "Bello": "贝洛"},
+    "EN": {
+        "Emma": "Emma", "Taro": "Taro", "Gran": "Gran", "Biscuit": "Biscuit", "Bello": "Bello",
+        "Mei": "Mei", "Dou": "Dou", "Yun": "Yun", "Riku": "Riku", "Stefan": "Stefan",
+        "Hana": "Hana", "Owen": "Owen", "Clara": "Clara", "Vern": "Vern",
+    },
+    "DE": {
+        "Emma": "Emma", "Taro": "Taro", "Gran": "Oma", "Biscuit": "Keks", "Bello": "Bello",
+        "Mei": "Mei", "Dou": "Dou", "Yun": "Yun", "Riku": "Riku", "Stefan": "Stefan",
+        "Hana": "Hana", "Owen": "Owen", "Clara": "Klara", "Vern": "Vern",
+    },
+    "JP": {
+        "Emma": "エマ", "Taro": "太郎", "Gran": "おばあさん", "Biscuit": "ビスケット", "Bello": "ベロ",
+        "Mei": "メイ", "Dou": "ドウ", "Yun": "ユン", "Riku": "陸", "Stefan": "ステファン",
+        "Hana": "ハナ", "Owen": "オーウェン", "Clara": "クララ", "Vern": "ヴェルン",
+    },
+    "ZH": {
+        "Emma": "艾玛", "Taro": "太郎", "Gran": "奶奶", "Biscuit": "饼干", "Bello": "贝洛",
+        "Mei": "梅", "Dou": "豆", "Yun": "云", "Riku": "陆", "Stefan": "斯蒂芬",
+        "Hana": "花", "Owen": "欧文", "Clara": "克拉拉", "Vern": "弗恩",
+    },
 }
 
 # Language-specific writing instructions
 LANG_INSTRUCTIONS: dict[str, str] = {
     "EN": (
         "Write in English. Beatrix Potter prose, grade 1–2 reading level. "
-        "Natural British/universal English — no textbook constructions."
+        "Natural British/universal English — no textbook constructions. "
+        "Core cast: Emma, Taro, Gran, Biscuit, Bello. "
+        "Village characters (appear as needed): Mei (friend with cat Dou), Yun (Mei's grandmother, "
+        "market stall), Riku (postman, red bicycle), Stefan (police officer), Hana (baker), "
+        "Owen (farmer), Clara (schoolteacher), Vern (carpenter), Dr. Lena (vet), Dr. Anand (doctor)."
     ),
     "DE": (
         "Write in German. Natural children's prose — the register of Astrid Lindgren translated "
         "into German, or early-reader German picture books. Grade 1–2 reading level. "
         "Short sentences. No textbook constructions (not: 'Das ist ein Apfel'). "
-        "Characters: Emma, Taro, Oma (grandmother), Keks (dog), Bello (second dog, appears from story 48)."
+        "Core cast: Emma, Taro, Oma (grandmother), Keks (dog), Bello (second dog, from story 48). "
+        "Village characters (appear as needed): Mei, Dou (Katze), Yun, Riku, Stefan, Hana, "
+        "Owen, Klara (Lehrerin), Vern, Dr. Lena (Tierärztin), Dr. Anand (Arzt)."
     ),
     "JP": (
         "Write in Japanese. Natural children's prose — the register of a Ghibli picture book or "
         "Japanese early reader (e.g. はじめてのおつかい level). Grade 1–2. "
         "Use plain/casual forms (だ・の・よ・ね), not formal/keigo. "
         "Short sentences. No textbook constructions (not: '私はエマです'). "
-        "Characters: エマ、太郎、おばあさん、ビスケット（犬）、ベロ（二番目の犬、物語48から登場）。"
+        "Core cast: エマ、太郎、おばあさん、ビスケット（犬）、ベロ（二番目の犬、物語48から）。"
+        "村の登場人物（必要に応じて）: メイ、ドウ（猫）、ユン、陸、ステファン、ハナ、"
+        "オーウェン、クララ（先生）、ヴェルン、レナ先生（獣医）、アナンド先生（医者）。"
     ),
     "ZH": (
         "Write in Simplified Chinese (Mandarin). Natural children's prose — the register of "
         "a Chinese picture book for ages 6–8. Grade 1–2. Short sentences. "
         "No textbook constructions (not: '我是艾玛'). "
-        "Characters: 艾玛、太郎、奶奶、饼干（狗）、贝洛（第二只狗，从故事48开始出现）。"
+        "Core cast: 艾玛、太郎、奶奶、饼干（狗）、贝洛（第二只狗，从故事48开始）。"
+        "村里的角色（按需出现）: 梅、豆（猫）、云、陆、斯蒂芬、花、"
+        "欧文、克拉拉（老师）、弗恩、莉娜医生（兽医）、阿南德医生（医生）。"
     ),
 }
 
 # Character names to check for in validation, per language
 CHAR_NAMES: dict[str, list[str]] = {
-    "EN": ["Emma", "Taro", "Gran", "Biscuit", "Bello"],
-    "DE": ["Emma", "Taro", "Oma", "Keks", "Bello"],
-    "JP": ["エマ", "太郎", "おばあさん", "ビスケット", "ベロ"],
-    "ZH": ["艾玛", "太郎", "奶奶", "饼干", "贝洛"],
+    "EN": ["Emma", "Taro", "Gran", "Biscuit", "Bello",
+           "Mei", "Dou", "Yun", "Riku", "Stefan", "Hana", "Owen", "Clara", "Vern"],
+    "DE": ["Emma", "Taro", "Oma", "Keks", "Bello",
+           "Mei", "Dou", "Yun", "Riku", "Stefan", "Hana", "Owen", "Klara", "Vern"],
+    "JP": ["エマ", "太郎", "おばあさん", "ビスケット", "ベロ",
+           "メイ", "ドウ", "ユン", "陸", "ステファン", "ハナ", "オーウェン", "クララ", "ヴェルン"],
+    "ZH": ["艾玛", "太郎", "奶奶", "饼干", "贝洛",
+           "梅", "豆", "云", "陆", "斯蒂芬", "花", "欧文", "克拉拉", "弗恩"],
 }
 
 _lock = threading.Lock()
@@ -91,11 +161,28 @@ def log(msg: str) -> None:
         print(msg, flush=True)
 
 
-def load_api_key() -> str:
-    for var in ("OPENROUTER_API_KEY", "OPENAI_API_KEY"):
-        if key := os.environ.get(var):
-            return key
-    sys.exit("Set OPENROUTER_API_KEY")
+def call_api(prompt: str) -> str:
+    """Try each source in priority order; return content string."""
+    import time
+    last_err = None
+    for attempt in range(4):
+        for client, model, extra in SOURCES:
+            try:
+                resp = client.chat.completions.create(
+                    model=model,
+                    messages=[{"role": "user", "content": prompt}],
+                    max_tokens=MAX_TOKENS,
+                    temperature=0.8,
+                    **extra,
+                )
+                content = resp.choices[0].message.content
+                if content and content.strip():
+                    return content.strip()
+            except Exception as e:
+                last_err = e
+        if "429" in str(last_err):
+            time.sleep(10 * (2 ** attempt))
+    raise RuntimeError(f"All API sources failed: {last_err}")
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -273,7 +360,6 @@ def validate(text: str, lang: str) -> list[str]:
 # ─────────────────────────────────────────────────────────────────
 
 def generate_story(
-    client: OpenAI,
     bible: str,
     story: dict,
     lang: str,
@@ -294,13 +380,7 @@ def generate_story(
 
     for attempt in (1, 2):
         try:
-            resp = client.chat.completions.create(
-                model=MODEL,
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=MAX_TOKENS,
-                temperature=0.8,
-            )
-            text = resp.choices[0].message.content.strip()
+            text = call_api(prompt)
         except Exception as e:
             if attempt == 2:
                 return sid, lang, False, f"API error: {e}"
@@ -346,12 +426,11 @@ def cmd_gen(args: argparse.Namespace) -> None:
     total = len(langs) * len(stories)
     print(f"Jobs to run: {len(jobs)}/{total}  (langs: {', '.join(langs)})")
     bible = WORLD_BIBLE.read_text(encoding="utf-8")
-    client = OpenAI(api_key=load_api_key(), base_url=BASE_URL)
 
     done = skipped = failed = 0
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = {
-            pool.submit(generate_story, client, bible, s, lang, args.dry_run): (s, lang)
+            pool.submit(generate_story, bible, s, lang, args.dry_run): (s, lang)
             for s, lang in jobs
         }
         for fut in as_completed(futures):

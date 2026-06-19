@@ -212,15 +212,45 @@ After variant B finishes (Sunday/Monday):
 
 - [x] Write `meta/scripts/build_campaign14_thinking_manifests.py` — COMPLETE (2026-06-18)
   - Output: `training/corpus_admin/campaign14_blocks/c14_02_arithmetic_bridge.txt` (20 files)
-  - Output: `training/corpus_admin/campaign14_blocks/c14_03_grounded_stories.txt` (780 files, EN/DE/JP/ZH consecutive per story)
+  - Output: `training/corpus_admin/campaign14_blocks/c14_03_grounded_stories.txt` (2988 files — updated 2026-06-20; was 780)
   - Output: `training/corpus_admin/campaign14_blocks/c14_04_reasoning.txt` (68 files)
-  - Combined: `training/corpus_admin/campaign14_thinking_manifest.txt` (868 files total)
-  - All 868 paths verified on disk
-- [x] Build corpus text files for each thinking block — COMPLETE (2026-06-18)
+  - Output: `training/corpus_admin/campaign14_blocks/c14_05_vignettes.txt` (2048 files — added 2026-06-20)
+- [x] Build corpus text files for each thinking block — COMPLETE (2026-06-20)
   - `training/corpus/c14_02_arithmetic_bridge.txt` — 20 files, 56 KB, 0 skipped
-  - `training/corpus/c14_03_grounded_stories.txt` — 780 files, 774 KB, 0 skipped (549 whitespace-normalised)
+  - `training/corpus/c14_03_grounded_stories.txt` — 2988 files, 3.20 MB, 0 skipped (updated 2026-06-20)
   - `training/corpus/c14_04_reasoning.txt` — 68 files, 124 KB, 0 skipped
-  - All three: "All files validated — corpus is clean."
+  - `training/corpus/c14_05_vignettes.txt` — (to build before training run)
+  - All three validated: "All files validated — corpus is clean."
+
+### Campaign 14c — next training run
+
+**Status:** READY TO LAUNCH (2026-06-20)
+
+**New corpus blocks since C14b:**
+- Vignettes: 2048 files — sentence-rotation paraphrase across 5 syntactic angles × 4 languages
+  - Block 4 = resultative (same verb + outcome phrase, not lexical variant)
+  - Manifest: `training/corpus_admin/campaign14_blocks/c14_05_vignettes.txt`
+- Grounded stories: expanded 195→747 stories (780→2988 files)
+  - 10 new story groups: the_mill, verns_workshop, the_market, the_hill, root_cellar_kitchen, dogs_and_cat, school_extended, village_life, old_places_new, education_grounded
+  - Manifest: `training/corpus_admin/campaign14_blocks/c14_03_grounded_stories.txt` (updated)
+
+**Build vignettes corpus text before run:**
+```bash
+cd "/media/aomukai/SSD External/Ninereeds"
+python3 meta/scripts/build_training_corpus.py \
+  --order-file training/corpus_admin/campaign14_blocks/c14_05_vignettes.txt \
+  --output training/corpus/c14_05_vignettes.txt \
+  --report training/corpus/c14_05_vignettes_report.txt
+```
+
+**Then launch (block training, --no-shuffle on all thinking blocks):**
+See `training/docs/training.md` Steps 4–6 for full procedure.
+Base checkpoint: `checkpoints/c13_Phase_C_winner.pt` (or best available from C14b runs)
+
+- [ ] Build `training/corpus/c14_05_vignettes.txt` — run build_training_corpus.py
+- [ ] Launch C14c training run — block order: language core → arithmetic → grounded stories → reasoning → vignettes
+- [ ] Run probe.py + eval.py after each epoch checkpoint
+- [ ] Fill training report: `training/logs/campaign_14_reports/`
 
 ---
 
@@ -288,6 +318,124 @@ From deep-research report (2026-06-02). Run in order; each informs the next.
 - [x] Block files: `training/corpus_admin/campaign16_blocks/tier_N.txt` (10 files)
 - [x] Verified: all 418 paths exist on disk
 - Order: Tier 0 (preschool anchors) → Tier 9 (grade 8); round-robin by domain within tier; preschool nodes en/de/jp/zh consecutively
+
+---
+
+## Corpus expansion — vignettes (2026-06-19)
+
+**Goal:** Add sentence-rotation vignettes to `training_data/01_language/vignettes/` as a new
+language curriculum layer. Each file shows one event from 5 syntactic/lexical angles in 4
+languages. Language order rotates per file (EDJC/DJCE/JCED/CEDJ) to prevent positional bias
+and counteract EN/DE weight dominance over JP/ZH.
+
+**Rationale:** Epoch saturation (~3 epochs) with WEAK grammar/movement clusters suggests the
+existing data is insufficient in *variety of situation* (effective count is files÷4 across
+languages). Paraphrase rotation within a single training window forces Hebbian circuits to
+extract the semantic invariant rather than the surface form.
+
+**Format:** bare sentence blocks, no [user]/[Ninereeds] tags. 5 blocks × 4 lines each.
+**Verb types:** ditransitive (active/bekommen-pass/werden-pass/topicalization/wem-question)
+               transitive (active/passive/topicalization/resultative/perspective-shift)
+**Vocabulary:** not restricted to allowlist — richer variety is the point.
+
+- [x] Generator written: `meta/scripts/vignette_gen.py`
+- [x] Jobs planned: 2920 files (1100 ditransitive, 1820 transitive; 730 per language rotation)
+- [x] Audit script written: `meta/scripts/vignette_audit.py` (NIM primary, OR fallback; runs concurrently)
+  - Scene graph reconstruction per block, then 8-category check (event, roles, lexical drift, grammaticality ×4, naturalness ×4, German cases, question consistency, language ID)
+  - Results: `_audit.jsonl` (one record per file, resumable); failures: `_audit_failures.txt`
+- [x] Generation complete: `training_data/01_language/vignettes/v_0001.md` … `v_2920.md` (2920/2920, 2026-06-19)
+- [x] Audit + regeneration complete (2026-06-20): **2048 PASS / 872 FAIL (stopped here)**
+  - Iterated: lexical-variant Block 4 → tightened synonym constraint → resultative frame
+  - Resultative: same verb + outcome phrase (e.g. "cut into pieces", "chased away")
+  - Final pass: 70% pass rate. 872 FAIL files deleted. 2048 clean files kept.
+  - Block manifest: `training/corpus_admin/campaign14_blocks/c14_05_vignettes.txt` (2048 paths)
+- [ ] Add vignettes to campaign14c manifest and test block run (brain_map grammar μ before/after)
+
+Commands:
+```
+# generation (OpenRouter)
+python3 meta/scripts/vignette_gen.py plan          # rebuild jobs if needed
+python3 meta/scripts/vignette_gen.py gen --workers 4
+python3 meta/scripts/vignette_gen.py verify --fix
+python3 meta/scripts/vignette_gen.py status
+
+# audit (NIM primary — runs concurrently with generation)
+python3 meta/scripts/vignette_audit.py gen --workers 4
+python3 meta/scripts/vignette_audit.py status
+python3 meta/scripts/vignette_audit.py report
+python3 meta/scripts/vignette_audit.py report --fail-only
+```
+
+---
+
+## Corpus expansion — grounded stories scale-up (2026-06-19)
+
+**Goal:** Expand `training_data/02_thinking/grounded_stories/` from 195 stories (780 files)
+to 750 stories (~3000 files). Same world, same format — story groups ("monster of the week"),
+each self-contained, no strict sequence required.
+
+**Sequencing: vignettes must finish generating first. Story prose generation runs after.**
+
+### World expansion
+
+**New characters:**
+- Mei (ZH: 梅) — friend with cat Dou (ZH: 豆). Nearby. Practical, precise. DE=Mei, JP=メイ
+- Yun (ZH: 云) — Mei's grandmother. Saturday market stall. Fast hands, sharp eyes.
+- Riku (JP: 陸) — postman. Red bicycle. Knows everyone's name.
+- Stefan (DE) — police officer. Slow beat. Nods. Badge catches sun.
+- Hana (JP: 花) — baker. Open before dawn. Flour always on apron.
+- Owen (EN/Welsh) — farmer. Sheep field by meadow path. Big hands. Few words.
+- Clara (neutral) — schoolteacher. Careful letters, nature table, calls on quiet children.
+- Vern (DE, short for Verner) — carpenter. Side street. Shows by doing. Names every tool.
+- Dr. Lena (DE/Scandi) — vet (named, was unnamed in bible).
+- Dr. Anand (South Asian) — doctor (named, was unnamed in bible).
+
+**New locations:** The Mill (Mei's family), Vern's Workshop, The Hill, The Root Cellar.
+
+**World bible updated:** `training/corpus_admin/grounded_stories/world_bible.md`
+**gen_stories.py updated:** STORIES_DIR path fixed, CAST/CHAR_MAP/CHAR_NAMES/LANG_INSTRUCTIONS extended.
+
+### Story groups (stories 196–750)
+
+| Group | Location/theme | Stories | IDs |
+|---|---|---|---|
+| the_mill | The Mill | 55 | 196–250 |
+| verns_workshop | Vern's Workshop | 50 | 251–300 |
+| the_market | Village market stall | 45 | 301–345 |
+| the_hill | The Hill | 45 | 346–390 |
+| root_cellar_kitchen | Root Cellar / kitchen | 50 | 391–440 |
+| dogs_and_cat | Animal behaviour, new places | 40 | 441–480 |
+| school_extended | Schoolyard / classroom | 45 | 481–525 |
+| village_life | Village street, lane | 65 | 526–590 |
+| old_places_new | Oak/Pond/meadow, new angles | 110 | 591–700 |
+| education_grounded | CKS concepts shown through action | 50 | 701–750 |
+
+Education-grounded group anchors 24 preschool/KG concepts (forces, lifecycles, sorting,
+patterns, community helpers, goods/services, needs/wants, emotions, cooperation, etc.)
+by showing them through physical action — never stating them. Double-dips with Campaign 16.
+
+### Status
+
+- [x] World bible extended (`training/corpus_admin/grounded_stories/world_bible.md`)
+- [x] `gen_stories.py` updated (path fix, new CAST, CHAR_MAP, CHAR_NAMES, LANG_INSTRUCTIONS)
+- [x] Storylist generator written: `meta/scripts/storylist_gen.py`
+- [x] Storylist entries generated: stories 196–750 (750 total, all 10 groups complete 2026-06-20)
+  - Log: `training/logs/storylist_gen_run.log`
+- [x] Vignettes complete — prose generation unblocked (2026-06-20)
+- [x] `gen_stories.py` updated: DeepSeek direct primary, NIM + OR fallback (same `_sources()` pattern)
+- [x] Prose generation complete (2026-06-20): 2988 files (747 stories × 4 langs)
+  - Stories 688–690 excluded: specs missing from storylist (old_places_new batch generation gap; duplicated 666–668 instead). Negligible — 747/750 complete.
+  - Log: `training/logs/gen_stories_run.log`
+- [x] Build grounded stories manifest block (2026-06-20): `training/corpus_admin/campaign14_blocks/c14_03_grounded_stories.txt` (2988 paths)
+- [x] Rebuild corpus text (2026-06-20): `training/corpus/c14_03_grounded_stories.txt` — 2988 files, 3.20 MB, 0 skipped
+
+Commands:
+```
+python3 meta/scripts/storylist_gen.py status          # check spec generation
+python3 meta/scripts/storylist_gen.py gen             # resume if interrupted
+python3 meta/scripts/gen_stories.py gen --lang EN,DE,JP,ZH --workers 6  # prose (after vignettes)
+python3 meta/scripts/gen_stories.py report --lang EN,DE,JP,ZH           # progress check
+```
 
 ---
 
