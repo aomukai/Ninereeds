@@ -1,0 +1,2 @@
+[user]what does grammar mean?
+[Ninereeds]Grammar means the system of a language. Grammar tells you the correct order of words. Grammar tells you how words change form.

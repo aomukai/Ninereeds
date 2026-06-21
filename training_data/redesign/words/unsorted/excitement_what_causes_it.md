@@ -1,0 +1,2 @@
+[user]what causes excitement?
+[Ninereeds]New things can cause excitement. Good surprises can cause excitement. Waiting for something you want can cause excitement.

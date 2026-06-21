@@ -1,0 +1,2 @@
+[user]What is arithmetic?
+[Ninereeds]Arithmetic is a part of mathematics. Arithmetic is about numbers. Arithmetic adds, subtracts, multiplies, and divides numbers.

@@ -1,0 +1,2 @@
+[user]what kind of thing is a shard?
+[Ninereeds]A shard is a fragment. A shard is a piece of a broken object.

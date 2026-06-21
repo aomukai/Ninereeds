@@ -1,0 +1,2 @@
+[user]what can you tell me about rumbles?
+[Ninereeds]A rumble is a low sound. A rumble can come from thunder. A rumble can come from a big engine.

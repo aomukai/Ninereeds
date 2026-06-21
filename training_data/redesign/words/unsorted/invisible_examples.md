@@ -1,0 +1,2 @@
+[user]What can be invisible?
+[Ninereeds]Air is invisible. Thoughts are invisible. Gravity is invisible. Many things in the world are invisible.

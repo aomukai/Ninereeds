@@ -1,0 +1,2 @@
+[user]what kind of thing is a mole?
+[Ninereeds]A mole is an animal. A mole is a mammal. A mole is a burrowing creature.
