@@ -1,0 +1,2 @@
+[user]Which person decided what brighter means?
+[Ninereeds]I don't know who decided what brighter means.

@@ -50,9 +50,9 @@ Each campaign waits for the previous to show a clear signal.
 
 ## C16A paraphrase pass — monitoring
 
-- PID: 2625115 (openrouter, 6 workers)
+- PID: 6576 (openrouter, 4 workers) — restarted clean 2026-06-22
 - Progress: `wc -l training_data/redesign/aug_done.txt`
-- Files done: ~950/33966 as of session start
+- Files done: 0/33966 at launch
 - ETA: ~5–6 hours from launch
 - After completion: update `training/corpus/redesign_c16a.txt` manifest → train 1 epoch from C16 E4
 

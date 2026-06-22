@@ -5,7 +5,7 @@ research questions. Useful as a briefing document for deep research tools
 (GPT Deep Research, Gemini Deep Research) to generate curriculum ordering
 proposals, and as a living record of what has been learned so far.
 
-Last updated: 2026-06-21
+Last updated: 2026-06-23
 
 ---
 
@@ -43,9 +43,10 @@ after-hub collapse.
 
 ---
 
-## Corpus inventory (as of 2026-06-20)
+## Corpus inventory (as of 2026-06-23)
 
-The corpus is organised into five numbered campaign folders. Training order: 01 → 02 → 03 → 04 → 05.
+The corpus is organised into two sections: the multilingual legacy corpus (C13–C15) and the
+EN-only redesign corpus (C16+). Training order for legacy: 01 → 02 → 03 → 04 → 05.
 
 ```
 training_data/
@@ -71,7 +72,7 @@ training_data/
     grammar/            1,800 files — 11 modules; numeric subdirs = training order
     bridge/             352 files — surface-form pre-loading + 4-case drills
   02_thinking/
-    arithmetic_bridge/  76 files — legacy counting + Phase A compact drills + Phase B paraphrase
+    arithmetic_bridge/  77 files — legacy counting + Phase A compact drills + Phase B paraphrase
     grounded_stories/   2,988 files — 747 stories × 4 langs; sequential — do NOT shuffle
     reasoning/          68 files — arithmetic, logic, epistemic uncertainty
   03_social_cognitive/
@@ -79,9 +80,22 @@ training_data/
   04_education/
     dialogues/          418 files — CKS K-8 corpus; preschool/ and k8/band_{a,b,c}/
   05_philosophy/        144 files — Socratic dialogues; 4 languages; flat dir
+
+  redesign/words/       66,536 files (EN-only redesign corpus, C16+)
+    28 semantic buckets: actions, animals, body, clothing, cognition, colors,
+    communication, emotions, events, food, household, language, materials,
+    movement, nature, people, places, processes, properties, quantities,
+    shapes, social, sounds, space, states, technology, time, tools
+    Each concept has angle files (what_is, meaning, example, boundary_*, etc.)
+    and a _rephrase sibling per angle (C16A pass complete as of 2026-06-23).
+    Largest buckets: actions (10,494), properties (7,425), household (3,450).
+    33,268 source files × 1 rephrase = 33,268 + 33,268 = 66,536 files.
+    Generator: meta/scripts/angle_gen.py | Augmentor: meta/scripts/angle_aug.py
 ```
 
-**Total corpus: ~42,000+ files**
+**Legacy corpus total: ~55,000 files**
+**Redesign corpus total: ~66,500 files**
+**Combined: ~121,500 files**
 
 ---
 
@@ -350,7 +364,9 @@ Blocks 2–5 ran autonomously via `meta/scripts/c15_pipeline.py`.
 | 2 — Arith+Grounded | `c15_arith_grounded.txt` | 779 | E1 | 0.984 | 0.976 |
 | 3 — Reasoning/ArithB | `c15_reasoning_arithB.txt` | 73 | E1 | 0.990 | 0.941 |
 | 4 — Vignettes | `c15_vignettes.txt` | 2,048 | E1 | 0.937 | 0.987 |
-| 5 — Education | `c15_education.txt` | 418 | (in progress) | — | — |
+| 5 — Education | `c15_education.txt` | 418 | **E1** | **0.9994** | 0.920 |
+
+**C15 winner: `checkpoints/c15_education_winner.pt`** (promoted from `core/c15_education_e1.pt`)
 
 ### C15 key findings
 
@@ -372,6 +388,108 @@ is inherent: reasoning corpus improves rule circuits but compresses arithmetic-j
 **Automated pipeline ran blocks 2–5 unattended.** OOM issue on B3 required manual
 intervention (batch=1, adam8bit, PYTORCH_ALLOC_CONF=expandable_segments:True) due to
 desktop game (mnm.exe) consuming 7.4 GB VRAM. Fix is now embedded in the pipeline.
+
+**B5 (Education) restored arith_jp to campaign peak.** After vignettes compressed
+arith_jp from 0.990→0.937, the K-8 EN-only corpus restored it to 0.9994 — the highest
+arith_jp in any C15 block. The education corpus is arithmetically compatible. Shaped
+fell to 0.920 (from 0.987) because K-8 is EN-only and shaped is 4-lingual weighted.
+The shaped cost is the price of arith_jp recovery.
+
+---
+
+## Campaign 16 — Concept anchoring (EN-only redesign)
+
+**Motivation:** C13–C15 peaked at E2–E3. Hypothesis: the 25M model's capacity is
+consumed by multilingual surface disambiguation before forming semantic concept clusters.
+C16 tests EN-only + semantic bucket ordering + identity interleaving to find the correct
+recipe before reintroducing language complexity.
+
+**Base:** fresh init (no prior checkpoint)
+**Corpus:** `training/corpus/redesign_c16.txt` — 34,645 files (33,966 concept + 679 identity insertions)
+**Probe set:** `c16_concepts.jsonl` — 60 probes, 10 categories
+
+| Epoch | Shaped | Flags | Chat (12q) | Winner |
+|---|---|---|---|---|
+| E1 | 0.995 | 2 | — | |
+| E2 | 1.000 | 0 | "I am Ninereeds." | |
+| E3 | 0.998 | 3 | 5/12 | |
+| **E4** | **0.996** | **0** | **9/12** | **★** |
+| E5 | 0.995 | 1 | 8/12 | |
+
+E5 triggered STOP: 2/3 signals regressed simultaneously. **Winner: `checkpoints/c16_concept_anchoring_winner.pt`**
+
+### C16 after-hub scores (E4 winner)
+
+| Category | E4 after-hub | Notes |
+|---|---|---|
+| boundary | 0.409 | Strongest — "I don't know" refusal crystallised first |
+| household | 0.542 | Strongest semantic cluster — distinct physical properties |
+| animals | 0.272 | Second strongest semantic cluster |
+| colors | 0.220 | Small but clean |
+| identity | 0.141 | Behaviourally solid, structurally routed through hubs — fragile |
+| nature | 0.104 | Weak — water-concept blur |
+| body | 0.158 | Weak |
+| emotions | 0.064 | Weak — abstract, no grounding |
+| actions | 0.051 | Weak — agent-first framing bleeds into people/animals |
+| food | 0.078 | Weak — inconsistent "X is food" spine |
+
+### C16 key findings
+
+1. **EN-only + semantic bucket ordering extends learning to E4.** Prior campaigns peaked
+   at E2–E3. The recipe (EN-only, bucket-ordered, identity every 50 files, multiple angles)
+   is confirmed correct for this model size.
+2. **Hebbian learning favours physically distinct objects.** Household (0.542) and animals
+   (0.272) form strong clusters. Abstract categories (emotions=0.064, actions=0.051) fail
+   to cluster — they need structural spine reinforcement, not more volume.
+3. **Category spine is the key variable, not file count.** Household's consistent "X is
+   furniture" spine → strong cluster. Food's mixed "X is food" / "X is a seed" spine →
+   weak cluster (0.078). Volume does not compensate for inconsistent anchoring.
+4. **Boundary crystallises first.** The refusal pattern ("I don't know") forms the most
+   stable circuit. It is structurally simple and appears in every file.
+5. **Identity is behaviourally correct but structurally hollow.** Routed through general
+   hubs, not dedicated neurons. Needs reinforcement to survive further training.
+
+---
+
+## Campaign 16A — Question-surface rephrase pass
+
+**Base:** `checkpoints/c16_concept_anchoring_winner.pt`
+**Goal:** Break surface-form lock on weak categories. Same concept facts, varied question
+wording. One `_rephrase.md` sibling per source angle file.
+
+**Corpus:**
+- Source: 33,268 angle files across 28 semantic buckets in `training_data/redesign/words/`
+- Rephrase: 33,268 `_rephrase.md` files generated via `angle_aug.py --wave 1`
+- Generator: OpenRouter + DeepSeek + NVIDIA in parallel (per-worker claim files)
+- Completed: 2026-06-23
+
+**Corpus cleanup performed before training:**
+- 660 trash files deleted (numbered duplicates: person_3–12, assembling_3/4, etc.; fake words:
+  attentioning, sud, everydaying, today-you)
+- ~336 compound-phrase artifact files deleted (thirsty bird, body that has slept, bowl of soup, etc.)
+- All ~2,730 `unsorted/` concepts re-bucketed via DeepSeek classification into 28 named buckets
+- 3 new buckets created: events, processes, technology (sounds already existed, now populated)
+- 79 bad rephrases regenerated (USER_UNCHANGED or missing); 3 format violations fixed
+
+**Validation:** `meta/scripts/validate_aug.py` — 33,268/33,268 rephrase files, 0 missing,
+0 USER_UNCHANGED failures. 312 NEAR_COPY flags are false positives (short files, question
+rephrased but answer correctly unchanged).
+
+**Signal to watch:** do emotions/actions/food after-hub scores recover? Does identity cross 0.25?
+
+---
+
+## C16B — Structural supplement pass (planned)
+
+Target weak categories with explicit spine files (see `claude/project_c16b_supplements.md`):
+- **Food spine:** every food concept gets "X is food. People eat X." anchoring
+- **Nature spine:** "X is part of nature." + distinguishing feature early
+- **Emotions:** situation-grounded examples ("A child gets a toy. The child feels happy.")
+- **Actions:** anchor the action first, agents second ("Running is an action. A person can run.")
+- **Boundary/negation:** non-living false-premise questions use negation, not "I don't know"
+
+File naming: `concept_angle_supplement.md` + `_supplement_rephrase.md`. Additive — never
+overwrites originals. Train from best C16A checkpoint.
 
 ---
 
@@ -489,5 +607,5 @@ A curriculum ordering is successful if it produces a checkpoint where:
 - `docs/brain_map.md` — activation atlas methodology and v2 probe design
 - `docs/boolean_stories.md` — boolean teaching story spec
 - `training/logs/campaign_14_reports/` — C14a, C14b, C14c campaign reports
-- `training/logs/campaign_15_reports/` — C15 reports (in progress)
+- `training/logs/campaign_15_reports/` — C15 reports (complete)
 - `todo.md` — active work queue and campaign status

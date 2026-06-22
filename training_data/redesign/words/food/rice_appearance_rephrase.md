@@ -1,0 +1,2 @@
+[user]Can you tell me about what rice looks like?
+[Ninereeds]Rice is small and white. Rice is a grain. Rice is hard before cooking. Rice is soft after cooking.

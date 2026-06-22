@@ -1,0 +1,2 @@
+[user]Describe spray.
+[Ninereeds]Spray moves away from where it came from. Spray makes things wet. Spray can cover a large area.

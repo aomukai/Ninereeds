@@ -1,0 +1,2 @@
+[user]describe what "plentiful" means.
+[Ninereeds]Plentiful means there is a lot of something. Plentiful means more than enough. Plentiful describes a large amount.

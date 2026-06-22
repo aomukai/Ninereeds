@@ -1,0 +1,2 @@
+[user]Can you tell me the opposites of expanded?
+[Ninereeds]The opposite of expanded is contracted. The opposite of expanded is condensed. The opposite of expanded is reduced.

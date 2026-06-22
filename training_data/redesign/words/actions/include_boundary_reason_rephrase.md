@@ -1,0 +1,2 @@
+[user]What is the reason for the word "include" to exist?  
+[Ninereeds]I don't know why include exists as a word. Include is a way to talk about parts of a whole. I don't know where the word came from.

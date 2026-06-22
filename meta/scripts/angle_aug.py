@@ -21,11 +21,11 @@ from __future__ import annotations
 
 import argparse
 import os
+import queue as queue_mod
 import re
 import subprocess
 import sys
 import threading
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from openai import OpenAI, RateLimitError
@@ -66,13 +66,19 @@ SOURCES: dict[str, dict] = {
 
 RATE_LIMIT_WAITS = [60, 120, 300]
 MAX_ATTEMPTS     = 2
+LOG_FILE         = REPO_ROOT / "tmp" / "aug_rephrase.log"
 
-_lock = threading.Lock()
+_append_lock = threading.Lock()
 
 
 def log(msg: str) -> None:
-    with _lock:
-        print(msg, flush=True)
+    line = f"[{time.strftime('%H:%M:%S')}] {msg}\n"
+    try:
+        with _append_lock:
+            with LOG_FILE.open("a", encoding="utf-8") as f:
+                f.write(line)
+    except Exception:
+        pass
 
 
 def load_set(path: Path) -> set[str]:
@@ -82,7 +88,7 @@ def load_set(path: Path) -> set[str]:
 
 
 def append_to(path: Path, entry: str) -> None:
-    with _lock:
+    with _append_lock:
         with path.open("a", encoding="utf-8") as f:
             f.write(entry + "\n")
 
@@ -273,35 +279,47 @@ def cmd_gen(args: argparse.Namespace) -> None:
 
     done   = load_set(DONE_FILE)
     failed = load_set(FAILED_FILE) if not args.retry_failed else set()
-    queue  = build_queue(args.wave, done, failed)
+    file_list = build_queue(args.wave, done, failed)
     if args.batch:
-        queue = queue[:args.batch]
+        file_list = file_list[:args.batch]
 
-    print(f"[{args.source}] wave {args.wave} | {len(queue)} files to augment | model: {model}")
-    if not queue:
+    print(f"[{args.source}] wave {args.wave} | {len(file_list)} files to augment | model: {model}")
+    if not file_list:
         print("Nothing to do.")
         return
 
     client       = OpenAI(api_key=api_key, base_url=cfg["base_url"])
     client.model = model  # type: ignore[attr-defined]
 
-    with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures: dict = {}
-        for f in queue:
+    work_q: queue_mod.Queue = queue_mod.Queue()
+    for f in file_list:
+        work_q.put(f)
+
+    def worker() -> None:
+        while True:
+            try:
+                f = work_q.get_nowait()
+            except queue_mod.Empty:
+                return
             key = f"{args.wave}:{f.relative_to(WORDS_DIR)}"
             if not try_claim(key):
                 continue
-            futures[pool.submit(augment_file, client, f, args.wave,
-                                cfg["max_tokens"], args.source)] = (f, key)
-
-        for fut in as_completed(futures):
-            f, key = futures[fut]
-            rel    = str(f.relative_to(WORDS_DIR))
-            if fut.result():
+            try:
+                result = augment_file(client, f, args.wave, cfg["max_tokens"], args.source)
+            finally:
+                release_claim(key)
+            rel = str(f.relative_to(WORDS_DIR))
+            if result:
                 append_to(DONE_FILE, f"{args.wave}:{rel}")
             else:
                 append_to(FAILED_FILE, f"{args.wave}:{rel}")
-            release_claim(key)
+
+    threads = [threading.Thread(target=worker, daemon=True)
+               for _ in range(args.workers)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
 
 
 def cmd_report(_args: argparse.Namespace) -> None:

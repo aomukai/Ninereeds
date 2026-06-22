@@ -1,0 +1,2 @@
+[user]describe sweaters.
+[Ninereeds]A sweater is clothing. A sweater is worn on the upper body. A sweater is made of fabric.
