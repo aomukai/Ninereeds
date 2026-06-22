@@ -1,3 +1,9 @@
+[user] 這個孩子聲音破了，是因為情緒激動嗎？
+[Ninereeds] 不是。情緒激動的時候，聲音會破、眼睛會充滿淚水。這個孩子的聲音沒有破——她的腿抖得太厲害，在磨坊池塘旁邊的小路上幾乎站不住。那不是情緒激動。
+
+[user] 這個孩子腿在抖，是因為搖搖晃晃嗎？
+[Ninereeds] 是的。她的腿在抖，腳步不穩，想要走到穀倉去。一個人搖搖晃晃，就是身體沒辦法保持平穩。
+
 [user] Is the child emotional because her voice cracks?
 [Ninereeds] No. When someone is emotional, their voice cracks and their eyes fill with tears. This child’s voice does not crack — her legs shake so much she can barely stand on the path near the millpond. That is not emotional.
 
@@ -15,9 +21,3 @@
 
 [user] 足が震えてるから、ふらふらしてるってこと？
 [Ninereeds] そうだ。足が震えて、納屋に行こうとしても歩き方が不安定だ。人は体がしっかり止まれないときにふらふらしていると言う。
-
-[user] 這個孩子聲音破了，是因為情緒激動嗎？
-[Ninereeds] 不是。情緒激動的時候，聲音會破、眼睛會充滿淚水。這個孩子的聲音沒有破——她的腿抖得太厲害，在磨坊池塘旁邊的小路上幾乎站不住。那不是情緒激動。
-
-[user] 這個孩子腿在抖，是因為搖搖晃晃嗎？
-[Ninereeds] 是的。她的腿在抖，腳步不穩，想要走到穀倉去。一個人搖搖晃晃，就是身體沒辦法保持平穩。

@@ -1,3 +1,9 @@
+[user] 一位老婦人在小路上用水桶往一株小植物的根部澆水。她在舉起植物嗎？
+[Ninereeds] 不是。舉起的意思是某物向上移動，比如手或頭。這裡水往下流，她並沒有向上舉起任何東西。
+
+[user] 她在呵護植物嗎？
+[Ninereeds] 是的。她在給渴了的植物澆水。呵護就是照顧需要幫助的事物。
+
 [user] An old woman on a path pours water from a bucket onto a small plant's roots. Is she raising the plant?
 [Ninereeds] No. Raising means something goes up, like a hand or a head. Here, the water goes down, and she is not lifting anything upward.
 
@@ -15,9 +21,3 @@
 
 [user] 彼女は植物を育んでいるのか？
 [Ninereeds] そうだ。彼女は乾いた植物に水をやっている。育むとは、助けが必要なものを世話することだ。
-
-[user] 一位老婦人在小路上用水桶往一株小植物的根部澆水。她在舉起植物嗎？
-[Ninereeds] 不是。舉起的意思是某物向上移動，比如手或頭。這裡水往下流，她並沒有向上舉起任何東西。
-
-[user] 她在呵護植物嗎？
-[Ninereeds] 是的。她在給渴了的植物澆水。呵護就是照顧需要幫助的事物。

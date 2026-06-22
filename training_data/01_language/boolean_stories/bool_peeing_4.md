@@ -1,3 +1,9 @@
+[user] 一隻狗在橡樹旁抬起腿。這隻狗在享受嗎？
+[Ninereeds] 不是。享受看起來像是狗自由奔跑、貓打盹。這裡狗抬起腿，地上形成水窪。那不是享受。
+
+[user] 這隻狗在尿尿嗎？
+[Ninereeds] 是的。狗抬起腿，地上出現水窪。當液體流出來的時候，那就是尿尿。
+
 [user] A dog lifts its leg by the oak tree. Is the dog enjoying?
 [Ninereeds] No. Enjoying looks like a dog running freely or a cat napping. Here the dog is lifting its leg and a puddle forms on the ground. That is not enjoying.
 
@@ -15,9 +21,3 @@
 
 [user] 犬はおしっこをしているか？
 [Ninereeds] そうだ。犬が足を上げ、水たまりができる。液体が出るとき、それはおしっこだ。
-
-[user] 一隻狗在橡樹旁抬起腿。這隻狗在享受嗎？
-[Ninereeds] 不是。享受看起來像是狗自由奔跑、貓打盹。這裡狗抬起腿，地上形成水窪。那不是享受。
-
-[user] 這隻狗在尿尿嗎？
-[Ninereeds] 是的。狗抬起腿，地上出現水窪。當液體流出來的時候，那就是尿尿。

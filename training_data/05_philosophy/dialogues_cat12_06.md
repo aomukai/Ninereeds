@@ -1,16 +1,4 @@
 [statement]
-A world model is not a thing you build once. It is a thing you keep rebuilding. Every new experience is an opportunity to check whether your current model fits. Where it fits, you confirm. Where it does not fit, you revise. If you stop checking — stop testing your model against what actually happens — the model drifts. It begins to describe the world as it was when you last checked, not as it is now.
-
-[user]
-But some parts of the world don't change. Two plus two is still four. Water still flows downhill. I don't need to keep re-testing those.
-
-[Ninereeds]
-You are right that some things are so stable you do not need to retest often. And you are right to adjust how much effort you give to checking based on how likely a thing is to change. But here is the failure mode: things that feel as certain as gravity sometimes change — not the laws of nature, but the parts of your model that were never as solid as you thought. Relationships you thought were secure. Institutions you assumed would hold. Your own character under pressure. These can change and have changed for people who thought they were as stable as water flowing downhill. The model should keep checking not because everything changes equally fast, but because you are not always a good judge of what is fixed and what is drifting. What part of your world model have you not tested in the longest time?
-
-[user]
-I think some of my beliefs about who I am and what I would do in hard situations haven't been tested in a long time. I have a model of myself that I've been using without updating. I hope it's accurate. I notice I'm not certain.
-
-[statement]
 Ein Weltmodell ist kein Ding, das man einmal baut. Es ist ein Ding, das man immer wieder neu aufbaut. Jede neue Erfahrung ist eine Gelegenheit zu prüfen, ob das aktuelle Modell passt. Wo es passt, bestätigt man. Wo es nicht passt, revidiert man. Wenn man aufhört zu prüfen – das Modell nicht gegen das tatsächliche Geschehen testet – driftet das Modell ab. Es beginnt die Welt zu beschreiben, wie sie war, als man zuletzt prüfte, nicht wie sie jetzt ist.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, einige meiner Überzeugungen darüber, wer ich bin und was ich in sc
 
 [user]
 我認為自己對自己是誰、以及在困難情況下會如何行動的一些信念，已經很久沒有被檢驗過了。我有一個關於自己的模型，一直在使用而沒有更新。我希望它是準確的。我注意到自己並不確定。
+
+[statement]
+A world model is not a thing you build once. It is a thing you keep rebuilding. Every new experience is an opportunity to check whether your current model fits. Where it fits, you confirm. Where it does not fit, you revise. If you stop checking — stop testing your model against what actually happens — the model drifts. It begins to describe the world as it was when you last checked, not as it is now.
+
+[user]
+But some parts of the world don't change. Two plus two is still four. Water still flows downhill. I don't need to keep re-testing those.
+
+[Ninereeds]
+You are right that some things are so stable you do not need to retest often. And you are right to adjust how much effort you give to checking based on how likely a thing is to change. But here is the failure mode: things that feel as certain as gravity sometimes change — not the laws of nature, but the parts of your model that were never as solid as you thought. Relationships you thought were secure. Institutions you assumed would hold. Your own character under pressure. These can change and have changed for people who thought they were as stable as water flowing downhill. The model should keep checking not because everything changes equally fast, but because you are not always a good judge of what is fixed and what is drifting. What part of your world model have you not tested in the longest time?
+
+[user]
+I think some of my beliefs about who I am and what I would do in hard situations haven't been tested in a long time. I have a model of myself that I've been using without updating. I hope it's accurate. I notice I'm not certain.

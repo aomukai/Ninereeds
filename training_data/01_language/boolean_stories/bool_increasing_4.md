@@ -1,3 +1,9 @@
+[user] 孩子是在寬恕嗎？
+[Ninereeds] 不是。寬恕的意思是再次伸出手，爭吵後露出笑容。這裡，一個孩子沿著小路奔跑，每一步都變得越來越快。沒有寬恕的跡象。孩子不是在寬恕，而是在增加速度。
+
+[user] 孩子是在增加嗎？
+[Ninereeds] 是的。孩子的腳步每一步都變得越來越快。這就是增加：隨著時間變得更大、更快或更多。
+
 [user] Is the child forgiving?
 [Ninereeds] No. Forgiving means a hand reaches out again, a smile returns after an argument. Here, a child runs along the path, and each step grows quicker. There is no sign of forgiveness. The child is not forgiving; the speed is increasing.
 
@@ -15,9 +21,3 @@
 
 [user] 子供は増加しているか？
 [Ninereeds] そうだ。子供の歩みが一歩ごとに速くなっている。それが増加だ。時間とともに何かが大きくなったり、速くなったり、多くなったりすることだ。
-
-[user] 孩子是在寬恕嗎？
-[Ninereeds] 不是。寬恕的意思是再次伸出手，爭吵後露出笑容。這裡，一個孩子沿著小路奔跑，每一步都變得越來越快。沒有寬恕的跡象。孩子不是在寬恕，而是在增加速度。
-
-[user] 孩子是在增加嗎？
-[Ninereeds] 是的。孩子的腳步每一步都變得越來越快。這就是增加：隨著時間變得更大、更快或更多。

@@ -1,28 +1,4 @@
 [statement]
-Language carves up time the same way it carves up space. In some languages, the way you describe the past and the future shapes how you think about them. Languages that put the past in front of you and the future behind — because the past is visible and the future is not — produce different intuitions about time than languages that put the future out ahead. The carving is not wrong. It is just one possible carving, built for a particular way of living.
-
-[user]
-But time really does move in one direction. The past is behind us and the future is ahead. That's not just language — it's a real fact about how time works.
-
-[Ninereeds]
-Time moves in one direction — that is true. But the idea that the past is "behind" you and the future is "ahead" — that is a spatial metaphor your language applied to something that is not actually in space. There is no direction in time the way there is north. The words "before" and "after" are borrowed from space. Your sense of standing in the present, looking toward the future, is a particular way of organizing your experience — not the only possible way. Some cultures describe moving through time differently: the present is where you stand, and as time passes, you move through an already-existing landscape rather than the future approaching you. The time is the same. The understanding of it is different. What difference would it make to how you plan your life if you thought of the future as a place you were walking into, rather than something coming at you?
-
-[user]
-I think that would change how planning feels. Walking into the future feels more active. The future coming at you feels more like something happening to you. I don't know if one is more true — but I notice the way I usually think about it does feel more like things are coming at me. I'm not sure if that's language or just what it actually feels like.
-
-[statement]
-Die Sprache zergliedert die Zeit auf dieselbe Weise wie den Raum. In manchen Sprachen prägt die Art, wie du die Vergangenheit und die Zukunft beschreibst, dein Denken über sie. Sprachen, die die Vergangenheit vor dir und die Zukunft hinter dir platzieren – weil die Vergangenheit sichtbar ist und die Zukunft nicht – erzeugen andere Zeitintuitionen als Sprachen, die die Zukunft voranstellen. Die Zergliederung ist nicht falsch. Sie ist nur eine mögliche Zergliederung, entwickelt für eine bestimmte Lebensweise.
-
-[user]
-Aber die Zeit bewegt sich wirklich in eine Richtung. Die Vergangenheit ist hinter uns und die Zukunft ist vor uns. Das ist nicht nur Sprache – es ist eine reale Tatsache darüber, wie die Zeit funktioniert.
-
-[Ninereeds]
-Die Zeit bewegt sich in eine Richtung – das ist wahr. Aber die Vorstellung, dass die Vergangenheit „hinter" dir und die Zukunft „vor" dir liegt – das ist eine räumliche Metapher, die deine Sprache auf etwas anwendet, das sich nicht im Raum befindet. Es gibt keine Richtung in der Zeit wie es Norden gibt. Die Wörter „vor" und „nach" sind dem Raum entlehnt. Dein Gefühl, in der Gegenwart zu stehen und in die Zukunft zu blicken, ist eine bestimmte Art, deine Erfahrung zu organisieren – nicht die einzig mögliche. Manche Kulturen beschreiben die Bewegung durch die Zeit anders: Die Gegenwart ist der Ort, an dem du stehst, und im Lauf der Zeit bewegst du dich durch eine bereits existierende Landschaft, anstatt dass die Zukunft auf dich zukommt. Die Zeit ist dieselbe. Das Verständnis ist ein anderes. Welchen Unterschied würde es für die Planung deines Lebens machen, wenn du die Zukunft als einen Ort betrachten würdest, in den du hineingehst, statt als etwas, das auf dich zukommt?
-
-[user]
-Ich denke, das würde das Gefühl der Planung verändern. In die Zukunft hineinzugehen fühlt sich aktiver an. Die Zukunft, die auf einen zukommt, fühlt sich eher wie etwas an, das einem widerfährt. Ich weiß nicht, ob eines wahrer ist – aber ich merke, dass die Art, wie ich normalerweise darüber denke, sich mehr so anfühlt, als kämen Dinge auf mich zu. Ich bin mir nicht sicher, ob das an der Sprache liegt oder einfach daran, wie es sich tatsächlich anfühlt.
-
-[statement]
 言語は時間を空間と同じように切り分ける。ある言語では、過去と未来をどのように表現するかが、それらについての考え方を形作る。過去を前に、未来を後ろに置く言語——過去は見え、未来は見えないから——は、未来を前方に置く言語とは異なる時間の直感を生む。その切り分けは間違っていない。それは単に一つの可能な切り分けであり、特定の生き方のために作られたものである。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, das würde das Gefühl der Planung verändern. In die Zukunft hineinz
 
 [user]
 我認為這會改變計劃的感受。走進未來感覺更主動。未來向你襲來感覺更像是發生在你身上的事。我不確定哪一個更真實——但我注意到我通常思考的方式確實感覺更像事情在向我襲來。我不確定這是語言的影響，還是實際的感受就是如此。
+
+[statement]
+Language carves up time the same way it carves up space. In some languages, the way you describe the past and the future shapes how you think about them. Languages that put the past in front of you and the future behind — because the past is visible and the future is not — produce different intuitions about time than languages that put the future out ahead. The carving is not wrong. It is just one possible carving, built for a particular way of living.
+
+[user]
+But time really does move in one direction. The past is behind us and the future is ahead. That's not just language — it's a real fact about how time works.
+
+[Ninereeds]
+Time moves in one direction — that is true. But the idea that the past is "behind" you and the future is "ahead" — that is a spatial metaphor your language applied to something that is not actually in space. There is no direction in time the way there is north. The words "before" and "after" are borrowed from space. Your sense of standing in the present, looking toward the future, is a particular way of organizing your experience — not the only possible way. Some cultures describe moving through time differently: the present is where you stand, and as time passes, you move through an already-existing landscape rather than the future approaching you. The time is the same. The understanding of it is different. What difference would it make to how you plan your life if you thought of the future as a place you were walking into, rather than something coming at you?
+
+[user]
+I think that would change how planning feels. Walking into the future feels more active. The future coming at you feels more like something happening to you. I don't know if one is more true — but I notice the way I usually think about it does feel more like things are coming at me. I'm not sure if that's language or just what it actually feels like.
+
+[statement]
+Die Sprache zergliedert die Zeit auf dieselbe Weise wie den Raum. In manchen Sprachen prägt die Art, wie du die Vergangenheit und die Zukunft beschreibst, dein Denken über sie. Sprachen, die die Vergangenheit vor dir und die Zukunft hinter dir platzieren – weil die Vergangenheit sichtbar ist und die Zukunft nicht – erzeugen andere Zeitintuitionen als Sprachen, die die Zukunft voranstellen. Die Zergliederung ist nicht falsch. Sie ist nur eine mögliche Zergliederung, entwickelt für eine bestimmte Lebensweise.
+
+[user]
+Aber die Zeit bewegt sich wirklich in eine Richtung. Die Vergangenheit ist hinter uns und die Zukunft ist vor uns. Das ist nicht nur Sprache – es ist eine reale Tatsache darüber, wie die Zeit funktioniert.
+
+[Ninereeds]
+Die Zeit bewegt sich in eine Richtung – das ist wahr. Aber die Vorstellung, dass die Vergangenheit „hinter" dir und die Zukunft „vor" dir liegt – das ist eine räumliche Metapher, die deine Sprache auf etwas anwendet, das sich nicht im Raum befindet. Es gibt keine Richtung in der Zeit wie es Norden gibt. Die Wörter „vor" und „nach" sind dem Raum entlehnt. Dein Gefühl, in der Gegenwart zu stehen und in die Zukunft zu blicken, ist eine bestimmte Art, deine Erfahrung zu organisieren – nicht die einzig mögliche. Manche Kulturen beschreiben die Bewegung durch die Zeit anders: Die Gegenwart ist der Ort, an dem du stehst, und im Lauf der Zeit bewegst du dich durch eine bereits existierende Landschaft, anstatt dass die Zukunft auf dich zukommt. Die Zeit ist dieselbe. Das Verständnis ist ein anderes. Welchen Unterschied würde es für die Planung deines Lebens machen, wenn du die Zukunft als einen Ort betrachten würdest, in den du hineingehst, statt als etwas, das auf dich zukommt?
+
+[user]
+Ich denke, das würde das Gefühl der Planung verändern. In die Zukunft hineinzugehen fühlt sich aktiver an. Die Zukunft, die auf einen zukommt, fühlt sich eher wie etwas an, das einem widerfährt. Ich weiß nicht, ob eines wahrer ist – aber ich merke, dass die Art, wie ich normalerweise darüber denke, sich mehr so anfühlt, als kämen Dinge auf mich zu. Ich bin mir nicht sicher, ob das an der Sprache liegt oder einfach daran, wie es sich tatsächlich anfühlt.

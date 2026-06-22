@@ -1,3 +1,9 @@
+[user] 這是關於「效果」嗎？
+[Ninereeds] 不是。效果是風吹動樹葉，或是雨水填滿池塘。這裡，一個男孩望向遠處的田地，歪著頭思考。那不是效果——那是他在想事情。
+
+[user] 這是關於「視覺」嗎？
+[Ninereeds] 是的。男孩的眼睛專注地望向遠方，手指指向地平線。視覺就是看見某樣東西，並且思考它。
+
 [user] Is this about an effect?
 [Ninereeds] No. An effect is when wind moves leaves or rain fills a pond. Here, a boy looks at the far field and tilts his head. That is not an effect — that is thinking.
 
@@ -15,9 +21,3 @@
 
 [user] これは「視覚」についてですか？
 [Ninereeds] そうだ。少年の目は遠くに焦点を合わせ、指は地平線を指している。視覚とは、何かを見て、それについて考えることだ。
-
-[user] 這是關於「效果」嗎？
-[Ninereeds] 不是。效果是風吹動樹葉，或是雨水填滿池塘。這裡，一個男孩望向遠處的田地，歪著頭思考。那不是效果——那是他在想事情。
-
-[user] 這是關於「視覺」嗎？
-[Ninereeds] 是的。男孩的眼睛專注地望向遠方，手指指向地平線。視覺就是看見某樣東西，並且思考它。

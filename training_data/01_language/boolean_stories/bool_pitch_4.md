@@ -1,3 +1,9 @@
+[user] 孩子是不是被困住了？
+[Ninereeds] 不是。被困住的意思是腿卡在洞裡、鳥關在關閉的籠子裡、或者門打不開。這裡，孩子站在田裡，把一根棍子高高拋向空中。
+
+[user] 孩子是否表現出拋物線？
+[Ninereeds] 是的。孩子表現出拋物線，因為棍子飛過空中，遠遠落地時發出一聲悶響。拋物線就是東西沿著弧線上升再下降。
+
 [user] Is the child trapped?
 [Ninereeds] No. The child is not trapped. Trapped means a leg stuck in a hole, a bird in a closed cage, or a door that won’t open. Here, the child is standing in the field, throwing a stick high into the air.
 
@@ -15,9 +21,3 @@
 
 [user] 子供はピッチを見せているか？
 [Ninereeds] そうだ。子供はピッチを見せている。棒が空を飛び、遠くでドスンと落ちたからだ。ピッチとは、ものが弧を描いて上がり下がることだ。
-
-[user] 孩子是不是被困住了？
-[Ninereeds] 不是。被困住的意思是腿卡在洞裡、鳥關在關閉的籠子裡、或者門打不開。這裡，孩子站在田裡，把一根棍子高高拋向空中。
-
-[user] 孩子是否表現出拋物線？
-[Ninereeds] 是的。孩子表現出拋物線，因為棍子飛過空中，遠遠落地時發出一聲悶響。拋物線就是東西沿著弧線上升再下降。

@@ -1,3 +1,9 @@
+[user]小孩在偷偷摸摸嗎？
+[Ninereeds]不是。偷偷摸摸的意思是無聲地移動，身體壓低，躲在掩護後面。小孩坐在門檻上撫摸貓咪。沒有無聲的移動，也沒有掩護。所以不是偷偷摸摸。
+
+[user]小孩在撫摸貓咪嗎？
+[Ninereeds]是的。小孩的手順著貓咪的背往下移動。那就是撫摸。當手溫柔地撫過某物時，就是撫摸。
+
 [user]Is the child sneaking?
 [Ninereeds]No. Sneaking means moving silently with a low body and staying behind cover. The child is sitting on the doorstep and stroking a cat. There is no silent movement or cover. So it is not sneaking.
 
@@ -15,9 +21,3 @@
 
 [user]子供が猫を撫でている？
 [Ninereeds]そうだ。子供の手が猫の背中をなでている。それが撫でるということだ。手が優しく何かをなでるとき、それは撫でるだ。
-
-[user]小孩在偷偷摸摸嗎？
-[Ninereeds]不是。偷偷摸摸的意思是無聲地移動，身體壓低，躲在掩護後面。小孩坐在門檻上撫摸貓咪。沒有無聲的移動，也沒有掩護。所以不是偷偷摸摸。
-
-[user]小孩在撫摸貓咪嗎？
-[Ninereeds]是的。小孩的手順著貓咪的背往下移動。那就是撫摸。當手溫柔地撫過某物時，就是撫摸。

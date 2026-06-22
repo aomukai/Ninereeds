@@ -11,3 +11,5 @@
 [Ninereeds] I know a dime is smaller than a nickel, but the dime is worth more. Why is that?
 
 [user] The value of a coin is printed right on it, not decided by its size. A dime is worth 10 cents and a nickel is worth 5 cents, even though the dime is smaller.
+
+[Ninereeds] What do people do with the money they earn after they get it?

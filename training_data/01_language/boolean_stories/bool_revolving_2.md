@@ -1,6 +1,3 @@
-[user]A child stood by the millpond and watched the great waterwheel turn round and round. Its wooden paddles dipped into the water and lifted again, over and over.
-[Ninereeds]No. The back of a hand shows skin facing upward and knuckles in a line. But here the waterwheel is turning on its axis, not a hand. The evidence shows "revolving" – something that spins around a center. When you see a wheel go around, it is revolving, not a hand.
-
 [user]Ein Kind stand am Mühlenteich und sah zu, wie das große Wasserrad sich immer wieder drehte. Seine hölzernen Schaufeln tauchten ins Wasser und hoben sich wieder, immer und immer wieder.
 [Ninereeds]Nein. Der Handrücken zeigt die Haut nach oben und die Knöchel in einer Linie. Aber hier dreht sich das Wasserrad um seine Achse, nicht eine Hand. Die Beobachtung zeigt "sich drehen" – etwas, das sich um einen Mittelpunkt bewegt. Wenn du ein Rad sich drehen siehst, ist das ein Drehen, kein Handrücken.
 
@@ -9,3 +6,6 @@
 
 [user]一個孩子站在池塘邊，看著大水車不停地轉動。木製的葉片浸入水中又升起，一遍又一遍。
 [Ninereeds]不是。手背是皮膚朝上，指節排成一線。但這裡是水車繞著軸心轉動，不是手。眼前的證據顯示的是「旋轉」——物體繞著中心轉動。當你看到輪子轉動時，那就是旋轉，不是手背。
+
+[user]A child stood by the millpond and watched the great waterwheel turn round and round. Its wooden paddles dipped into the water and lifted again, over and over.
+[Ninereeds]No. The back of a hand shows skin facing upward and knuckles in a line. But here the waterwheel is turning on its axis, not a hand. The evidence shows "revolving" – something that spins around a center. When you see a wheel go around, it is revolving, not a hand.

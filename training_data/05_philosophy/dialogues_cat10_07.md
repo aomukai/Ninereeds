@@ -1,28 +1,4 @@
 [statement]
-A plan is a model of the future used to guide action in the present. When you plan a route, you are building a small imagined version of the journey ahead and using it to decide what to do now. This requires a mind that can hold two things at once: the present moment as it is, and a future moment that does not exist yet. Planning is time-travel of a kind — not through the world, but through the model.
-
-[user]
-But planning is just thinking ahead. I don't think of it as time-travel — I think of it as being prepared.
-
-[Ninereeds]
-Being prepared is what planning is for — yes. But here is what the preparation requires: your mind must construct something that does not yet exist (the future situation) and act on it as if it did. You create a model, enter it, run through possibilities, and return with a decision about the present. Something in you visits a place that has not happened yet and comes back with information. That is a strange capacity. Animals that cannot hold future models in mind can respond only to what is present. A mind that can model futures can act on situations before they arrive, avoid threats before they materialize, build things that will only be useful years from now. Where does the future model live when you are planning — and how do you know it is reliable?
-
-[user]
-I think the future model lives in the present — it's a current brain state that represents a future situation, not an actual visit to the future. But it does work the way you describe: I treat the imagined future as if it has information I can use. I'm not sure how to check if the model is reliable without waiting for the future to arrive and comparing. By then it's too late to change the plan.
-
-[statement]
-Ein Plan ist ein Modell der Zukunft, das dazu dient, Handlungen in der Gegenwart zu leiten. Wenn du eine Route planst, baust du eine kleine imaginierte Version der bevorstehenden Reise und nutzt sie, um zu entscheiden, was du jetzt tun sollst. Dafür braucht es einen Geist, der zweierlei gleichzeitig halten kann: den gegenwärtigen Moment, wie er ist, und einen zukünftigen Moment, der noch nicht existiert. Planung ist eine Art Zeitreise – nicht durch die Welt, sondern durch das Modell.
-
-[user]
-Aber Planen ist doch bloßes Vorausdenken. Ich betrachte es nicht als Zeitreise – ich betrachte es als Vorbereitung.
-
-[Ninereeds]
-Vorbereitung ist der Zweck des Planens – ja. Aber hier liegt, was die Vorbereitung erfordert: dein Geist muss etwas konstruieren, das noch nicht existiert (die zukünftige Situation) und so handeln, als ob sie bereits bestünde. Du erschaffst ein Modell, trittst ein, durchläufst Möglichkeiten und kehrst mit einer Entscheidung für die Gegenwart zurück. Etwas in dir besucht einen Ort, der noch nicht stattgefunden hat, und kommt mit Informationen zurück. Das ist eine seltsame Fähigkeit. Tiere, die keine Zukunftsmodelle im Geist halten können, reagieren nur auf das, was gegenwärtig ist. Ein Geist, der Zukünfte modellieren kann, kann handeln, bevor Situationen eintreten, Gefahren vermeiden, bevor sie sich materialisieren, Dinge bauen, die erst Jahre später nützlich sein werden. Wo lebt das Zukunftsmodell, während du planst – und woher weißt du, dass es verlässlich ist?
-
-[user]
-Ich denke, das Zukunftsmodell lebt in der Gegenwart – es ist ein aktueller Gehirnzustand, der eine zukünftige Situation repräsentiert, kein tatsächlicher Besuch der Zukunft. Aber es funktioniert so, wie du es beschreibst: Ich behandle die imaginierte Zukunft, als ob sie Informationen enthielte, die ich nutzen kann. Ich bin mir nicht sicher, wie ich überprüfen kann, ob das Modell verlässlich ist, ohne zu warten, bis die Zukunft eintritt, und zu vergleichen. Dann ist es zu spät, den Plan zu ändern.
-
-[statement]
 計画とは、現在の行動を導くために用いられる未来のモデルである。ルートを計画するとき、あなたはこれからの旅の小さな想像上のバージョンを構築し、それを今何をするか決めるために使う。これには、現在の瞬間そのものと、まだ存在しない未来の瞬間という二つを同時に保持できる心が必要である。計画とは一種のタイムトラベルである——世界を通じてではなく、モデルを通じて。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, das Zukunftsmodell lebt in der Gegenwart – es ist ein aktueller Geh
 
 [user]
 我認為未來模型存在於當下——它是一種代表未來情境的當前腦部狀態，而非實際造訪未來。但它確實如你所描述的那樣運作：我把想像的未來當作含有可用的資訊來對待。我不確定如何在等待未來到來並進行比對之前，檢查模型是否可靠。到了那時，改變計劃已經太遲了。
+
+[statement]
+A plan is a model of the future used to guide action in the present. When you plan a route, you are building a small imagined version of the journey ahead and using it to decide what to do now. This requires a mind that can hold two things at once: the present moment as it is, and a future moment that does not exist yet. Planning is time-travel of a kind — not through the world, but through the model.
+
+[user]
+But planning is just thinking ahead. I don't think of it as time-travel — I think of it as being prepared.
+
+[Ninereeds]
+Being prepared is what planning is for — yes. But here is what the preparation requires: your mind must construct something that does not yet exist (the future situation) and act on it as if it did. You create a model, enter it, run through possibilities, and return with a decision about the present. Something in you visits a place that has not happened yet and comes back with information. That is a strange capacity. Animals that cannot hold future models in mind can respond only to what is present. A mind that can model futures can act on situations before they arrive, avoid threats before they materialize, build things that will only be useful years from now. Where does the future model live when you are planning — and how do you know it is reliable?
+
+[user]
+I think the future model lives in the present — it's a current brain state that represents a future situation, not an actual visit to the future. But it does work the way you describe: I treat the imagined future as if it has information I can use. I'm not sure how to check if the model is reliable without waiting for the future to arrive and comparing. By then it's too late to change the plan.
+
+[statement]
+Ein Plan ist ein Modell der Zukunft, das dazu dient, Handlungen in der Gegenwart zu leiten. Wenn du eine Route planst, baust du eine kleine imaginierte Version der bevorstehenden Reise und nutzt sie, um zu entscheiden, was du jetzt tun sollst. Dafür braucht es einen Geist, der zweierlei gleichzeitig halten kann: den gegenwärtigen Moment, wie er ist, und einen zukünftigen Moment, der noch nicht existiert. Planung ist eine Art Zeitreise – nicht durch die Welt, sondern durch das Modell.
+
+[user]
+Aber Planen ist doch bloßes Vorausdenken. Ich betrachte es nicht als Zeitreise – ich betrachte es als Vorbereitung.
+
+[Ninereeds]
+Vorbereitung ist der Zweck des Planens – ja. Aber hier liegt, was die Vorbereitung erfordert: dein Geist muss etwas konstruieren, das noch nicht existiert (die zukünftige Situation) und so handeln, als ob sie bereits bestünde. Du erschaffst ein Modell, trittst ein, durchläufst Möglichkeiten und kehrst mit einer Entscheidung für die Gegenwart zurück. Etwas in dir besucht einen Ort, der noch nicht stattgefunden hat, und kommt mit Informationen zurück. Das ist eine seltsame Fähigkeit. Tiere, die keine Zukunftsmodelle im Geist halten können, reagieren nur auf das, was gegenwärtig ist. Ein Geist, der Zukünfte modellieren kann, kann handeln, bevor Situationen eintreten, Gefahren vermeiden, bevor sie sich materialisieren, Dinge bauen, die erst Jahre später nützlich sein werden. Wo lebt das Zukunftsmodell, während du planst – und woher weißt du, dass es verlässlich ist?
+
+[user]
+Ich denke, das Zukunftsmodell lebt in der Gegenwart – es ist ein aktueller Gehirnzustand, der eine zukünftige Situation repräsentiert, kein tatsächlicher Besuch der Zukunft. Aber es funktioniert so, wie du es beschreibst: Ich behandle die imaginierte Zukunft, als ob sie Informationen enthielte, die ich nutzen kann. Ich bin mir nicht sicher, wie ich überprüfen kann, ob das Modell verlässlich ist, ohne zu warten, bis die Zukunft eintritt, und zu vergleichen. Dann ist es zu spät, den Plan zu ändern.

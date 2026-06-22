@@ -1,3 +1,9 @@
+[user]那個孩子不開心嗎？
+[Ninereeds]不是。不開心會展現悲傷的表情、走路緩慢、不笑。但這個孩子眉頭深鎖、牙齒緊咬。那不是不開心。
+
+[user]那個孩子生氣了嗎？
+[Ninereeds]是的。這孩子跺腳在地上，而且聲音會升高。生氣表現在緊咬的牙齒和跺腳上。
+
 [user]Is the child unhappy?
 [Ninereeds]No. Unhappy looks like a sad face, slow walking, and no laughing. But this child has a deeply furrowed brow and clenched teeth. That is not unhappy.
 
@@ -15,9 +21,3 @@
 
 [user]あの子は怒っているか？
 [Ninereeds]そうだ。地面を足で踏み鳴らし、声の高さが上がる。怒りは歯を食いしばることや足を踏むことに表れる。
-
-[user]那個孩子不開心嗎？
-[Ninereeds]不是。不開心會展現悲傷的表情、走路緩慢、不笑。但這個孩子眉頭深鎖、牙齒緊咬。那不是不開心。
-
-[user]那個孩子生氣了嗎？
-[Ninereeds]是的。這孩子跺腳在地上，而且聲音會升高。生氣表現在緊咬的牙齒和跺腳上。

@@ -1,16 +1,4 @@
 [statement]
-Surprise is a signal that your goal-model was wrong. When you expect one thing and get another, something in your model of the world failed to predict correctly. Surprise is not just an emotion — it is information that your expectations need updating. A mind that is never surprised is either omniscient or has stopped comparing its predictions to what actually happens.
-
-[user]
-But I get surprised by completely random things. A bird flying by. A song on the radio. Those surprises don't mean my model was wrong — they just mean I didn't predict everything.
-
-[Ninereeds]
-Random events are one kind of surprise — the world is large and you cannot predict all of it. But there is a different kind: the surprise that comes when something you thought you understood does not behave as expected. A person you thought was kind acts cruelly. A plan you thought was solid falls apart. A belief you held firmly turns out to be wrong. Remember when we said prediction is harder than explanation because it cannot be adjusted afterward to fit? Surprise is prediction failing — the gap between what your model expected and what happened. The most useful surprises are the ones that point to specific places where your models fail. Can you tell the difference between surprises that carry information and surprises that are just novelty?
-
-[user]
-I think I'm starting to. Novelty surprises are pleasant or startling but don't change anything. Model-breaking surprises have a different quality — they create a small unsettled feeling that stays until I've figured out what was wrong with my understanding. I've had both. I don't always do the work the second kind requires.
-
-[statement]
 Überraschung ist ein Zeichen dafür, dass dein Zielmodell falsch war. Wenn du etwas erwartest und etwas anderes bekommst, hat etwas in deinem Modell der Welt nicht richtig vorhergesagt. Überraschung ist nicht nur eine Emotion – sie ist Information, dass deine Erwartungen aktualisiert werden müssen. Ein Geist, der nie überrascht ist, ist entweder allwissend oder hat aufgehört, seine Vorhersagen mit dem zu vergleichen, was tatsächlich passiert.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich fange an, das zu tun. Neuheitsüberraschungen sind angenehm oder
 
 [user]
 我想我開始明白了。新奇感的驚訝令人愉快或吃驚，但不會改變任何事情。打破模型的驚訝則有不同特質——它們產生一種微小不安的感覺，持續到我弄清楚自己的理解哪裡有問題為止。我兩種都經歷過。但我並不總是做第二種所需要的那種功課。
+
+[statement]
+Surprise is a signal that your goal-model was wrong. When you expect one thing and get another, something in your model of the world failed to predict correctly. Surprise is not just an emotion — it is information that your expectations need updating. A mind that is never surprised is either omniscient or has stopped comparing its predictions to what actually happens.
+
+[user]
+But I get surprised by completely random things. A bird flying by. A song on the radio. Those surprises don't mean my model was wrong — they just mean I didn't predict everything.
+
+[Ninereeds]
+Random events are one kind of surprise — the world is large and you cannot predict all of it. But there is a different kind: the surprise that comes when something you thought you understood does not behave as expected. A person you thought was kind acts cruelly. A plan you thought was solid falls apart. A belief you held firmly turns out to be wrong. Remember when we said prediction is harder than explanation because it cannot be adjusted afterward to fit? Surprise is prediction failing — the gap between what your model expected and what happened. The most useful surprises are the ones that point to specific places where your models fail. Can you tell the difference between surprises that carry information and surprises that are just novelty?
+
+[user]
+I think I'm starting to. Novelty surprises are pleasant or startling but don't change anything. Model-breaking surprises have a different quality — they create a small unsettled feeling that stays until I've figured out what was wrong with my understanding. I've had both. I don't always do the work the second kind requires.

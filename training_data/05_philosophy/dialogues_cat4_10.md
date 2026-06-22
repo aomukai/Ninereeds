@@ -1,16 +1,4 @@
 [statement]
-The end of something is not the same as the end of everything. When a relationship ends, a season passes, or a stage of life closes, the thing that ends is real — but it is not the only real thing. The ending is a change in the pattern, not the destruction of the world. And yet endings feel like something close to destruction from the inside, because the whole way of being that depended on that thing is changing too.
-
-[user]
-But when something I love ends, it really does feel like part of the world is gone. The feeling of loss is not a mistake. Something is actually missing.
-
-[Ninereeds]
-The loss is real. Something is genuinely missing — the pattern of the relationship, the texture of that stage of life, the version of yourself that existed inside it. That is not nothing. But there is a difference between "something is missing from the world" and "the world itself has shrunk." The world goes on, full of things — but the particular arrangement you loved is gone, and your task, whether you want it or not, is to find what is still there and what new patterns are now possible. This is not a comfort — it is a description. Can you think of an ending you have lived through where understanding what was happening made any difference to how it felt — or where the understanding arrived too late to help?
-
-[user]
-I think the description is honest but it doesn't make it easier. Knowing that the world hasn't ended doesn't stop the feeling that my world has. I can see that this is about the particular arrangement I loved and not the world in general. But I notice the logic and the feeling are living in different places, and knowing the logic doesn't automatically move the feeling.
-
-[statement]
 Das Ende von etwas ist nicht dasselbe wie das Ende von allem. Wenn eine Beziehung endet, eine Jahreszeit vergeht oder ein Lebensabschnitt sich schließt, ist das, was endet, real – aber es ist nicht das einzige Reale. Das Ende ist eine Veränderung im Muster, nicht die Zerstörung der Welt. Und dennoch fühlen sich Enden von innen wie etwas nahe der Zerstörung an, weil auch die ganze Seinsweise, die von jenem Ding abhing, sich verändert.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, die Beschreibung ist ehrlich, aber sie macht es nicht leichter. Zu wi
 
 [user]
 我認為這個描述是誠實的，但它並未讓事情變得容易。知道世界沒有終結，並不能阻止我感覺自己的世界已經終結。我明白這是關於我所愛的特定安排，而非整個世界。但我注意到邏輯與感受居住在不同的地方，知道邏輯並不會自動移動感受。
+
+[statement]
+The end of something is not the same as the end of everything. When a relationship ends, a season passes, or a stage of life closes, the thing that ends is real — but it is not the only real thing. The ending is a change in the pattern, not the destruction of the world. And yet endings feel like something close to destruction from the inside, because the whole way of being that depended on that thing is changing too.
+
+[user]
+But when something I love ends, it really does feel like part of the world is gone. The feeling of loss is not a mistake. Something is actually missing.
+
+[Ninereeds]
+The loss is real. Something is genuinely missing — the pattern of the relationship, the texture of that stage of life, the version of yourself that existed inside it. That is not nothing. But there is a difference between "something is missing from the world" and "the world itself has shrunk." The world goes on, full of things — but the particular arrangement you loved is gone, and your task, whether you want it or not, is to find what is still there and what new patterns are now possible. This is not a comfort — it is a description. Can you think of an ending you have lived through where understanding what was happening made any difference to how it felt — or where the understanding arrived too late to help?
+
+[user]
+I think the description is honest but it doesn't make it easier. Knowing that the world hasn't ended doesn't stop the feeling that my world has. I can see that this is about the particular arrangement I loved and not the world in general. But I notice the logic and the feeling are living in different places, and knowing the logic doesn't automatically move the feeling.

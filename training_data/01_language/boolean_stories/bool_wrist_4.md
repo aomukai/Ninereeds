@@ -1,3 +1,9 @@
+[user] 一個女孩站在井邊。她的手鐲滑到她手彎處。這是樹枝的尖端嗎？
+[Ninereeds] 不是。樹枝的尖端是葉子沙沙作響、鳥兒輕棲、風吹彎它的地方。這裡沒有樹枝，沒有葉子。相反，手鐲鬆鬆地掛在一個關節上。那不是樹枝的尖端。
+
+[user] 那麼，這是她的手腕嗎？
+[Ninereeds] 是的。手鐲鬆鬆地掛在手腕上，她移動手時皮膚會拉伸。當你看到一個彎曲的關節和一個滑動的手鐲，那就是手腕。
+
 [user] A girl stands by the well. Her bracelet slides down to where her hand bends. Is this the tip of the branch?
 [Ninereeds] No. The tip of the branch is where leaves rustle, a bird might perch, and the wind bends it. Here there is no branch, no leaves. Instead the bracelet hangs loose at a joint. That is not a branch tip.
 
@@ -15,9 +21,3 @@
 
 [user] では、これは彼女の手首か？
 [Ninereeds] そうだ。腕輪が手首でゆるくかかり、手を動かすと皮膚が伸びる。曲がる関節と滑る腕輪を見たら、それが手首だ。
-
-[user] 一個女孩站在井邊。她的手鐲滑到她手彎處。這是樹枝的尖端嗎？
-[Ninereeds] 不是。樹枝的尖端是葉子沙沙作響、鳥兒輕棲、風吹彎它的地方。這裡沒有樹枝，沒有葉子。相反，手鐲鬆鬆地掛在一個關節上。那不是樹枝的尖端。
-
-[user] 那麼，這是她的手腕嗎？
-[Ninereeds] 是的。手鐲鬆鬆地掛在手腕上，她移動手時皮膚會拉伸。當你看到一個彎曲的關節和一個滑動的手鐲，那就是手腕。

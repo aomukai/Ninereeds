@@ -1,3 +1,9 @@
+[user]一個小孩坐在池塘邊。她的手指快速敲打石頭，聲音快速重複。這是「手背」嗎？
+[Ninereeds]不是。手背的皮膚朝上，指節排成一線。這裡手指在動，打出節奏。那不是手背。
+
+[user]這是「敲鼓」嗎？
+[Ninereeds]是的。手指快速敲打，聲音快速重複。那就是敲鼓。當你看到快速敲打和聽到節奏時，那就是敲鼓。
+
 [user]A child sits by the millpond. Her fingers tap quickly on the stone, and the sound repeats fast. Is this "the back of the hand"?
 [Ninereeds]No. The back of the hand would have skin facing upward and knuckles in a line. Here, the fingers are moving and making a rhythm. That is not the back of the hand.
 
@@ -15,9 +21,3 @@
 
 [user]これは「ドラムを叩くこと」か？
 [Ninereeds]そうだ。指が速く叩き、音が速く繰り返す。それがドラムを叩くことだ。速い叩きとリズムを見たら、それはドラムを叩くことだ。
-
-[user]一個小孩坐在池塘邊。她的手指快速敲打石頭，聲音快速重複。這是「手背」嗎？
-[Ninereeds]不是。手背的皮膚朝上，指節排成一線。這裡手指在動，打出節奏。那不是手背。
-
-[user]這是「敲鼓」嗎？
-[Ninereeds]是的。手指快速敲打，聲音快速重複。那就是敲鼓。當你看到快速敲打和聽到節奏時，那就是敲鼓。

@@ -1,3 +1,9 @@
+[user]這個小孩是在做軌道運動嗎？
+[Ninereeds]不是。軌道運動是指東西繞著轉圈，比如鳥繞著樹飛，或者狗繞著井跑。這裡小孩靜靜坐在門檻上舔手指，沒有轉圈，所以不是軌道。
+
+[user]這個小孩在享用果醬嗎？
+[Ninereeds]是的。小孩舔著手指上的紅色汁液，旁邊有一個打開的罐子，上面有紅色的果醬痕跡。當你看到黏黏的甜味被舔掉時，那就是果醬。
+
 [user]Is the child doing an orbit?
 [Ninereeds]No. An orbit is when something goes around and around, like a bird circling a tree or a dog running around a well. Here the child sits still on the doorstep and licks her finger. There is no circling, so it is not an orbit.
 
@@ -15,9 +21,3 @@
 
 [user]子供はジャムを楽しんでいるのか？
 [Ninereeds]そうだ。子供は指から赤い雫を舐めていて、隣に赤い果実の広がった瓶が開いている。べとべとした甘さを舐めるとき、それはジャムだ。
-
-[user]這個小孩是在做軌道運動嗎？
-[Ninereeds]不是。軌道運動是指東西繞著轉圈，比如鳥繞著樹飛，或者狗繞著井跑。這裡小孩靜靜坐在門檻上舔手指，沒有轉圈，所以不是軌道。
-
-[user]這個小孩在享用果醬嗎？
-[Ninereeds]是的。小孩舔著手指上的紅色汁液，旁邊有一個打開的罐子，上面有紅色的果醬痕跡。當你看到黏黏的甜味被舔掉時，那就是果醬。

@@ -1,49 +1,49 @@
-Where is Tom?
 Wo ist Tom?
 トムはどこにいる？
 湯姆在哪裡？
+Where is Tom?
 
-In the kitchen.
 In der Küche.
 台所に。
 在廚房。
+In the kitchen.
 
-Where is Kaori?
 Wo ist Kaori?
 香織はどこにいる？
 香織在哪裡？
+Where is Kaori?
 
-At the park.
 Im Park.
 公園に。
 在公園。
+At the park.
 
-Where is the book?
 Wo ist das Buch?
 本はどこにある？
 書在哪裡？
+Where is the book?
 
-On the table.
 Auf dem Tisch.
 机の上に。
 在桌子上。
+On the table.
 
-Where is the cat?
 Wo ist die Katze?
 猫はどこにいる？
 貓在哪裡？
+Where is the cat?
 
-Under the bed.
 Unter dem Bett.
 ベッドの下に。
 在床底下。
+Under the bed.
 
-Where are the flowers?
 Wo sind die Blumen?
 花はどこにある？
 花在哪裡？
+Where are the flowers?
 
-In the garden.
 Im Garten.
 庭に。
 在花園。
+In the garden.

@@ -1,3 +1,9 @@
+[user] 這是關於重力嗎？
+[Ninereeds] 不是。重力會讓蘋果從樹上掉下來，讓水往下流。但在這裡，一個孩子蹲低身體，在籬笆後面移動，不發出聲音。那不是重力，是別的東西。
+
+[user] 這是關於潛行嗎？
+[Ninereeds] 是的。潛行就是安靜地移動，躲在遮擋物後面。這個孩子正在這樣做。記住：潛行是無聲且隱蔽的。
+
 [user] Is this about gravity?
 [Ninereeds] No. Gravity makes apples fall from a tree and water flow downhill. But here a child stays low and moves behind a hedge without making a sound. That is not gravity. It is something else.
 
@@ -15,9 +21,3 @@
 
 [user] これは忍びについてですか？
 [Ninereeds] そうだ。忍びは静かに動き、隠れ場所の後ろに隠れることだ。子供はまさにそれをしている。覚えておけ：忍びは静かで隠れている。
-
-[user] 這是關於重力嗎？
-[Ninereeds] 不是。重力會讓蘋果從樹上掉下來，讓水往下流。但在這裡，一個孩子蹲低身體，在籬笆後面移動，不發出聲音。那不是重力，是別的東西。
-
-[user] 這是關於潛行嗎？
-[Ninereeds] 是的。潛行就是安靜地移動，躲在遮擋物後面。這個孩子正在這樣做。記住：潛行是無聲且隱蔽的。

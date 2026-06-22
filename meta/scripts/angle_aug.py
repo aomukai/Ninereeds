@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import os
 import re
+import subprocess
 import sys
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -110,15 +111,17 @@ WAVE_PROMPTS: dict[int, str] = {
     1: """\
 You are generating training data for Ninereeds, a small AI learning to understand language.
 
-Below is an existing training file. Your task: produce 1-2 alternate-phrasing versions of it.
+Below is an existing training file. Your task: produce exactly 1 alternate-phrasing version of it.
 
-Rules:
-- Keep the same factual content in the answer. Rephrase to match the new question form.
-- One question form per output file. Do not combine multiple question forms in one file.
-- Keep answers short: 1-4 sentences. Same brevity as the original.
-- Vary: singular↔plural, "what is" → "describe", "what does X do" → "what can X do?", etc.
-- Do not add new facts not in the original.
-- Format: === FILE: originalname_v2.md === then content, then === FILE: originalname_v3.md === etc.
+CRITICAL RULES — read carefully:
+- Rephrase ONLY the [user] question. Use a different question surface: singular↔plural, "what is" → "describe", "what does X do" → "what can X do?", "tell me about X", "can you tell me about X", etc.
+- Copy the [Ninereeds] answer almost exactly. The ONLY allowed change is grammar agreement: if the question shifts to plural, change "A dog is" → "Dogs are", "A dog has" → "Dogs have", etc.
+- Do NOT restructure, reorder, or rephrase the answer sentences.
+- Do NOT use pronouns (it, its, they, them). Every sentence must use the concept name as subject, just like the original.
+- Do NOT add new facts. Do NOT remove facts.
+- One output file only.
+- Output filename: originalname_rephrase.md (e.g. dog_appearance.md → dog_appearance_rephrase.md).
+- Format: === FILE: originalname_rephrase.md === then content.
 
 Original file ({filename}):
 {content}
@@ -235,15 +238,23 @@ def augment_file(client: OpenAI, src_file: Path, wave: int,
 def build_queue(wave: int, done: set[str], failed: set[str]) -> list[Path]:
     """Find source files that haven't been augmented for this wave yet."""
     skip = done | failed
+    aug_suffixes = ("_rephrase", "_v2", "_v3", "_v4", "_yn", "_c2", "_c3")
+
+    # Scan bucket-by-bucket with os.listdir (avoids deep recursive traversal
+    # on USB drives where one big find can stall in kernel disk-wait)
+    raw: list[Path] = []
+    for bucket in sorted(os.listdir(str(WORDS_DIR))):
+        bucket_path = WORDS_DIR / bucket
+        if not os.path.isdir(str(bucket_path)):
+            continue
+        for fname in os.listdir(str(bucket_path)):
+            if fname.endswith(".md"):
+                raw.append(bucket_path / fname)
+    all_files = sorted(raw)
+
     queue: list[Path] = []
-
-    # Only augment Wave-1 originals (files without _v2/_v3/_yn/_c suffix)
-    aug_suffixes = ("_v2", "_v3", "_v4", "_yn", "_c2", "_c3")
-
-    for f in sorted(WORDS_DIR.rglob("*.md")):
-        stem = f.stem
-        # Skip files that are themselves augmented
-        if any(stem.endswith(s) for s in aug_suffixes):
+    for f in all_files:
+        if any(f.stem.endswith(s) for s in aug_suffixes):
             continue
         key = f"{wave}:{f.relative_to(WORDS_DIR)}"
         if key not in skip:
@@ -296,14 +307,20 @@ def cmd_gen(args: argparse.Namespace) -> None:
 def cmd_report(_args: argparse.Namespace) -> None:
     done   = load_set(DONE_FILE)
     failed = load_set(FAILED_FILE)
-    total  = sum(1 for f in WORDS_DIR.rglob("*.md")
-                 if not any(f.stem.endswith(s) for s in ("_v2","_v3","_yn","_c2","_c3")))
-    all_files = list(WORDS_DIR.rglob("*.md"))
+    aug_sfx = ("_rephrase", "_v2", "_v3", "_v4", "_yn", "_c2", "_c3")
+    result = subprocess.run(
+        ["find", str(WORDS_DIR), "-name", "*.md", "-type", "f"],
+        capture_output=True, text=True
+    )
+    all_files = [Path(p) for p in result.stdout.splitlines() if p.strip()]
+    total = sum(1 for f in all_files if not any(f.stem.endswith(s) for s in aug_sfx))
+    rephrase_done = sum(1 for f in all_files if f.stem.endswith("_rephrase"))
 
-    print(f"Source files:    {total}")
-    print(f"Aug done:        {len(done)}")
-    print(f"Aug failed:      {len(failed)}")
-    print(f"Total files:     {len(all_files)}")
+    print(f"Source files:       {total}")
+    print(f"Rephrase files:     {rephrase_done}")
+    print(f"Aug done (tracked): {len(done)}")
+    print(f"Aug failed:         {len(failed)}")
+    print(f"Total files:        {len(all_files)}")
 
 
 def main() -> None:

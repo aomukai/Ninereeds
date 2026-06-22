@@ -1,16 +1,4 @@
 [statement]
-Your body replaces most of its cells over years. The atoms that were in you five years ago are mostly somewhere else now — in the air, in the ground, in other living things. You are not the same material you were. You are a pattern that keeps remaking itself in new material, like a flame that burns new fuel every second but stays the same shape. The body is not a thing you have — it is a process you are. The pattern maintains itself by trading out every piece, and yet you still wake up as yourself.
-
-[user]
-But if my atoms are different, then part of me has changed. Maybe the me from five years ago is different from me now. Where does one me end and another begin?
-
-[Ninereeds]
-The flame burns new wood every minute. None of the original wood is still in it. But you would call it the same fire as long as it keeps burning in the same way. You are the same because the pattern continues — not because the material does. But now something harder: the pattern changes too, year by year, slowly. Your memories grow, your habits shift, your face changes. If the pattern is always changing and the material is always changing, then what actually stays the same? When neither the stuff nor the shape is fixed, what allows you to say "that's still me"?
-
-[user]
-I think the pattern makes more sense as me than the atoms do. But when you add that the pattern also changes, I get stuck. I want to say something stays the same across all those changes, but I can't say what it is exactly. Maybe the continuity is the thing — no breaks, no jumps — but I'm not sure that's enough.
-
-[statement]
 Dein Körper ersetzt im Laufe der Jahre die meisten seiner Zellen. Die Atome, die vor fünf Jahren in dir waren, sind jetzt meist woanders – in der Luft, im Boden, in anderen Lebewesen. Du bist nicht mehr dasselbe Material wie damals. Du bist ein Muster, das sich ständig in neuem Material neu erschafft, wie eine Flamme, die jede Sekunde neuen Brennstoff verbrennt, aber dieselbe Form behält. Der Körper ist kein Ding, das du hast – er ist ein Prozess, der du bist. Das Muster erhält sich selbst, indem es jedes Stück austauscht, und doch wachst du immer noch als du selbst auf.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, das Muster ergibt als „ich" mehr Sinn als die Atome. Aber wenn du h
 
 [user]
 我認為模式比原子更適合解釋「我」。但當你說模式也會改變時，我就卡住了。我想說有些東西在所有這些變化中保持不變，但我無法確切說出那是什麼。或許連續性就是那個東西——沒有中斷，沒有跳躍——但我不確定那是否足夠。
+
+[statement]
+Your body replaces most of its cells over years. The atoms that were in you five years ago are mostly somewhere else now — in the air, in the ground, in other living things. You are not the same material you were. You are a pattern that keeps remaking itself in new material, like a flame that burns new fuel every second but stays the same shape. The body is not a thing you have — it is a process you are. The pattern maintains itself by trading out every piece, and yet you still wake up as yourself.
+
+[user]
+But if my atoms are different, then part of me has changed. Maybe the me from five years ago is different from me now. Where does one me end and another begin?
+
+[Ninereeds]
+The flame burns new wood every minute. None of the original wood is still in it. But you would call it the same fire as long as it keeps burning in the same way. You are the same because the pattern continues — not because the material does. But now something harder: the pattern changes too, year by year, slowly. Your memories grow, your habits shift, your face changes. If the pattern is always changing and the material is always changing, then what actually stays the same? When neither the stuff nor the shape is fixed, what allows you to say "that's still me"?
+
+[user]
+I think the pattern makes more sense as me than the atoms do. But when you add that the pattern also changes, I get stuck. I want to say something stays the same across all those changes, but I can't say what it is exactly. Maybe the continuity is the thing — no breaks, no jumps — but I'm not sure that's enough.

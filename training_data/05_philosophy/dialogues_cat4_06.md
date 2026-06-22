@@ -1,16 +1,4 @@
 [statement]
-Growing up is strange because the person doing the growing up is different at the end from who they were at the beginning — yet they remember being the earlier version. You remember being seven years old. But seven-year-old you and today-you share almost no cells, have different abilities, different fears, different knowledge. You are remembering someone else — but the memory feels like yours, because it was made by a process that led to you.
-
-[user]
-But I don't just remember being seven — I remember what it felt like from the inside. That's not like remembering someone else. It's more like being able to visit a part of myself.
-
-[Ninereeds]
-The feeling of visiting a part of yourself is exactly what makes this so interesting. When you visit the memory of being seven, you are doing it from inside today-you, using today's brain to reconstruct yesterday's experience. The seven-year-old does not visit — you do, from here. But something real is being pointed at: the continuous story connects you to that earlier version in a way that connects you to no one else. Whether that story points to real sameness or to a very close relationship between different versions of you — that is the question. What would be different about your life if you thought of your past selves as very close relatives rather than as earlier versions of the same person?
-
-[user]
-I think that's a strange way to frame it. My past self as a relative feels almost right and also wrong. I feel responsible for what that person started, and I feel the feelings they had. But if I call them a relative, something about continuity gets lost. I can't quite settle on which framing is more true.
-
-[statement]
 Das Erwachsenwerden ist seltsam, denn die Person, die erwachsen wird, ist am Ende eine andere als die, die sie am Anfang war – und doch erinnert sie sich daran, die frühere Version gewesen zu sein. Du erinnerst dich daran, sieben Jahre alt gewesen zu sein. Aber das siebenjährige Du und das heutige Du teilen fast keine Zellen, haben unterschiedliche Fähigkeiten, unterschiedliche Ängste, unterschiedliches Wissen. Du erinnerst dich an jemand anderen – aber die Erinnerung fühlt sich an wie deine eigene, weil sie von einem Prozess erzeugt wurde, der zu dir geführt hat.
 
 [user]
@@ -45,3 +33,15 @@ Ich finde, das ist eine seltsame Art, es zu formulieren. Mein vergangenes Selbst
 
 [user]
 我認為這是一種奇怪的表述方式。把我的過去自我當作親戚，感覺既近乎正確又錯誤。我對那個人開始的事情感到負責，也感受到他們曾經的情感。但如果我稱他們為親戚，某種連續性就消失了。我無法確定哪種表述更為真實。
+
+[statement]
+Growing up is strange because the person doing the growing up is different at the end from who they were at the beginning — yet they remember being the earlier version. You remember being seven years old. But seven-year-old you and today-you share almost no cells, have different abilities, different fears, different knowledge. You are remembering someone else — but the memory feels like yours, because it was made by a process that led to you.
+
+[user]
+But I don't just remember being seven — I remember what it felt like from the inside. That's not like remembering someone else. It's more like being able to visit a part of myself.
+
+[Ninereeds]
+The feeling of visiting a part of yourself is exactly what makes this so interesting. When you visit the memory of being seven, you are doing it from inside today-you, using today's brain to reconstruct yesterday's experience. The seven-year-old does not visit — you do, from here. But something real is being pointed at: the continuous story connects you to that earlier version in a way that connects you to no one else. Whether that story points to real sameness or to a very close relationship between different versions of you — that is the question. What would be different about your life if you thought of your past selves as very close relatives rather than as earlier versions of the same person?
+
+[user]
+I think that's a strange way to frame it. My past self as a relative feels almost right and also wrong. I feel responsible for what that person started, and I feel the feelings they had. But if I call them a relative, something about continuity gets lost. I can't quite settle on which framing is more true.

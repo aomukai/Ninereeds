@@ -1,28 +1,4 @@
 [statement]
-History is written by people who survived to write it. The stories that get told are the stories of the people who had time, resources, and reason to tell them. The stories that did not get told — because the people were gone, or had no way to write, or lived in places where their stories were not collected — those gaps shape what we call "history" just as much as what got included. History is not a record of what happened. It is a record of what got recorded.
-
-[user]
-But historians try to correct for this. They look for other sources, try to find multiple perspectives. Good history is more complete than bad history.
-
-[Ninereeds]
-Good history is more complete — yes. And historians work hard against the gaps. But the gaps cannot be fully filled because the people who would fill them are not there. You can note that indigenous peoples were not writing the history of their own conquest. You can look for traces and artifacts. But what you find is still traces found by people living now, looked at through frameworks developed by people living now. The correction is real and useful — but it has limits built into the project. What you have is always a record that began with selection and continues with interpretation. What does it mean for your understanding of the past that the stories you learned first are the stories that the most powerful groups chose to tell?
-
-[user]
-I think it means I've been given a version of the past that was curated, and I have treated it as if it were complete. I don't know what's missing because I don't know what wasn't recorded. That's an uncomfortable gap. I can try to fill it, but I'm always working with what survived, not what was.
-
-[statement]
-Geschichte wird von Menschen geschrieben, die überlebt haben, um sie zu schreiben. Die Geschichten, die erzählt werden, sind die Geschichten der Menschen, die Zeit, Ressourcen und Grund hatten, sie zu erzählen. Die Geschichten, die nicht erzählt wurden – weil die Menschen nicht mehr da waren, oder keine Möglichkeit hatten zu schreiben, oder an Orten lebten, an denen ihre Geschichten nicht gesammelt wurden – diese Lücken prägen das, was wir "Geschichte" nennen, genauso sehr wie das, was aufgenommen wurde. Geschichte ist keine Aufzeichnung dessen, was passiert ist. Sie ist eine Aufzeichnung dessen, was aufgezeichnet wurde.
-
-[user]
-Aber Historiker versuchen, das auszugleichen. Sie suchen nach anderen Quellen, versuchen mehrere Perspektiven zu finden. Gute Geschichte ist vollständiger als schlechte Geschichte.
-
-[Ninereeds]
-Gute Geschichte ist vollständiger – ja. Und Historiker arbeiten hart gegen die Lücken. Aber die Lücken können nicht vollständig gefüllt werden, weil die Menschen, die sie füllen würden, nicht mehr da sind. Du kannst feststellen, dass indigene Völker nicht die Geschichte ihrer eigenen Eroberung geschrieben haben. Du kannst nach Spuren und Artefakten suchen. Aber was du findest, sind immer noch Spuren, die von heute lebenden Menschen gefunden wurden, betrachtet durch Rahmenwerke, die von heute lebenden Menschen entwickelt wurden. Die Korrektur ist real und nützlich – aber sie hat Grenzen, die in das Projekt eingebaut sind. Was du hast, ist immer eine Aufzeichnung, die mit Auswahl begann und mit Interpretation fortgesetzt wird. Was bedeutet es für dein Verständnis der Vergangenheit, dass die Geschichten, die du zuerst gelernt hast, die Geschichten sind, die die mächtigsten Gruppen zu erzählen wählten?
-
-[user]
-Ich denke, es bedeutet, dass mir eine Version der Vergangenheit gegeben wurde, die kuratiert war, und ich habe sie so behandelt, als wäre sie vollständig. Ich weiß nicht, was fehlt, weil ich nicht weiß, was nicht aufgezeichnet wurde. Das ist eine unbequeme Lücke. Ich kann versuchen, sie zu füllen, aber ich arbeite immer mit dem, was überlebt hat, nicht mit dem, was war.
-
-[statement]
 歴史とは、それを書くために生き延びた人々によって書かれるものである。語られる物語とは、時間と資源と理由を持った人々の物語である。語られなかった物語――人々が消え去ったか、書く手段がなかったか、自分たちの物語が収集されない場所に住んでいたため――それらの隙間は、含まれたものと同じくらい、私たちが「歴史」と呼ぶものを形作っている。歴史とは、何が起きたかの記録ではない。それは、何が記録されたかの記録である。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, es bedeutet, dass mir eine Version der Vergangenheit gegeben wurde, d
 
 [user]
 我想這意味著我得到了一個被篩選過的過去版本，而我把它當作完整的來看待。我不知道遺漏了什麼，因為我不知道什麼沒有被記錄下來。那是個令人不安的空隙。我可以試著填補它，但我總是在與倖存下來的東西打交道，而不是與原本存在的東西打交道。
+
+[statement]
+History is written by people who survived to write it. The stories that get told are the stories of the people who had time, resources, and reason to tell them. The stories that did not get told — because the people were gone, or had no way to write, or lived in places where their stories were not collected — those gaps shape what we call "history" just as much as what got included. History is not a record of what happened. It is a record of what got recorded.
+
+[user]
+But historians try to correct for this. They look for other sources, try to find multiple perspectives. Good history is more complete than bad history.
+
+[Ninereeds]
+Good history is more complete — yes. And historians work hard against the gaps. But the gaps cannot be fully filled because the people who would fill them are not there. You can note that indigenous peoples were not writing the history of their own conquest. You can look for traces and artifacts. But what you find is still traces found by people living now, looked at through frameworks developed by people living now. The correction is real and useful — but it has limits built into the project. What you have is always a record that began with selection and continues with interpretation. What does it mean for your understanding of the past that the stories you learned first are the stories that the most powerful groups chose to tell?
+
+[user]
+I think it means I've been given a version of the past that was curated, and I have treated it as if it were complete. I don't know what's missing because I don't know what wasn't recorded. That's an uncomfortable gap. I can try to fill it, but I'm always working with what survived, not what was.
+
+[statement]
+Geschichte wird von Menschen geschrieben, die überlebt haben, um sie zu schreiben. Die Geschichten, die erzählt werden, sind die Geschichten der Menschen, die Zeit, Ressourcen und Grund hatten, sie zu erzählen. Die Geschichten, die nicht erzählt wurden – weil die Menschen nicht mehr da waren, oder keine Möglichkeit hatten zu schreiben, oder an Orten lebten, an denen ihre Geschichten nicht gesammelt wurden – diese Lücken prägen das, was wir "Geschichte" nennen, genauso sehr wie das, was aufgenommen wurde. Geschichte ist keine Aufzeichnung dessen, was passiert ist. Sie ist eine Aufzeichnung dessen, was aufgezeichnet wurde.
+
+[user]
+Aber Historiker versuchen, das auszugleichen. Sie suchen nach anderen Quellen, versuchen mehrere Perspektiven zu finden. Gute Geschichte ist vollständiger als schlechte Geschichte.
+
+[Ninereeds]
+Gute Geschichte ist vollständiger – ja. Und Historiker arbeiten hart gegen die Lücken. Aber die Lücken können nicht vollständig gefüllt werden, weil die Menschen, die sie füllen würden, nicht mehr da sind. Du kannst feststellen, dass indigene Völker nicht die Geschichte ihrer eigenen Eroberung geschrieben haben. Du kannst nach Spuren und Artefakten suchen. Aber was du findest, sind immer noch Spuren, die von heute lebenden Menschen gefunden wurden, betrachtet durch Rahmenwerke, die von heute lebenden Menschen entwickelt wurden. Die Korrektur ist real und nützlich – aber sie hat Grenzen, die in das Projekt eingebaut sind. Was du hast, ist immer eine Aufzeichnung, die mit Auswahl begann und mit Interpretation fortgesetzt wird. Was bedeutet es für dein Verständnis der Vergangenheit, dass die Geschichten, die du zuerst gelernt hast, die Geschichten sind, die die mächtigsten Gruppen zu erzählen wählten?
+
+[user]
+Ich denke, es bedeutet, dass mir eine Version der Vergangenheit gegeben wurde, die kuratiert war, und ich habe sie so behandelt, als wäre sie vollständig. Ich weiß nicht, was fehlt, weil ich nicht weiß, was nicht aufgezeichnet wurde. Das ist eine unbequeme Lücke. Ich kann versuchen, sie zu füllen, aber ich arbeite immer mit dem, was überlebt hat, nicht mit dem, was war.

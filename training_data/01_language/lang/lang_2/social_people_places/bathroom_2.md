@@ -1,19 +1,19 @@
-One bathroom.
-Eine Toilette.
 トイレが一つ。
 一间卫生间。
+One bathroom.
+Eine Toilette.
 
-Two bathrooms.
-Zwei Toiletten.
 トイレが二つ。
 两间卫生间。
+Two bathrooms.
+Zwei Toiletten.
 
-The bathroom is clean.
-Die Toilette ist sauber.
 トイレはきれいだ。
 卫生间很干净。
+The bathroom is clean.
+Die Toilette ist sauber.
 
-She is in the bathroom.
-Sie ist auf der Toilette.
 彼女はトイレにいる。
 她在卫生间里。
+She is in the bathroom.
+Sie ist auf der Toilette.

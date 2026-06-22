@@ -5,6 +5,16 @@ When a task is done: delete from `todo.md`, add an entry here.
 
 ---
 
+## 2026-06-22 (continued)
+
+**C16 training launched** — `python -u train.py --phase 0 --corpus-file training/corpus/redesign_c16.txt --output core/c16_redesign_e1.pt --epochs 1 --batch-size 4 --no-shuffle --log-vram`. Fresh init, sequential order, 4987 steps, 25M model. Loss at step 100: 2.2264 (better than prior killed run at 2.4516 — organized buckets showing effect). Log: `tmp/c16_e1_train.log`. PID 2564363.
+
+**Bucket expansion** — 10 → 24 semantic buckets in `training_data/redesign/words/`. New tool: `meta/scripts/rebucket.py`. Moved 10,044 files. 14 new buckets: movement, actions, emotions, social, states, cognition, communication, colors, shapes, materials, quantities, space, time, language. 23,162 remain in unsorted (genuinely abstract words). Key conflict resolution: crane → animals (bird not tool).
+
+**Corpus rebuilt for C16** — 34,645 files (33,966 concept + 679 identity insertions). 24-bucket order: animals→nature→body→food→household→people→places→clothing→tools→movement→actions→emotions→social→states→cognition→communication→colors→shapes→materials→quantities→space→time→properties→language→unsorted. Identity interleaved every 50 concept files (56.6×). 0 format errors. Output: `training/corpus/redesign_c16.txt`, 4.87 MB.
+
+---
+
 ## 2026-06-22
 
 **Corpus redesign complete (Tier 1)** — 33,600+ files generated across ~5,100 words from `inventory/allowlist.txt`. Three parallel sources (OpenRouter, DeepSeek direct, NVIDIA NIM) using atomic claim mechanism. Output: `training_data/redesign/words/` organized by semantic bucket (animals, body, food, household, nature, people, actions, properties, space, time, unsorted). 50 failures queued for retry. Key design: EN-only, concept anchoring, variable-length files, "I don't know" as first-class response.

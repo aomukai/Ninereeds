@@ -1,3 +1,9 @@
+[user] 一個孩子看著一顆蘋果從橡樹掉下來。主題是摩托車嗎？
+[Ninereeds] 不是。摩托車會發出很大的噪音並揚起灰塵，但在這裡蘋果靜靜地掉下來。
+
+[user] 主題是重力嗎？
+[Ninereeds] 是的。蘋果掉下來是因為重力將它往下拉。重力讓東西掉到地上。
+
 [user] A child sees an apple fall from the oak tree. Is the subject a motorcycle?
 [Ninereeds] No. A motorcycle would make a loud engine noise and kick up dust, but here the apple falls silently.
 
@@ -15,9 +21,3 @@
 
 [user] テーマは重力か？
 [Ninereeds] そうだ。林檎が落ちるのは重力が引き寄せるからだ。重力は物を地面に落とす。
-
-[user] 一個孩子看著一顆蘋果從橡樹掉下來。主題是摩托車嗎？
-[Ninereeds] 不是。摩托車會發出很大的噪音並揚起灰塵，但在這裡蘋果靜靜地掉下來。
-
-[user] 主題是重力嗎？
-[Ninereeds] 是的。蘋果掉下來是因為重力將它往下拉。重力讓東西掉到地上。

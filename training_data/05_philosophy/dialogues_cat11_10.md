@@ -1,16 +1,4 @@
 [statement]
-You become like the people you spend time with. This is not metaphor — it is measurable. Your vocabulary shifts toward theirs. Your values and opinions gradually approach theirs. Your emotional baseline adjusts. The people around you shape you at the level of what feels normal, what feels possible, what feels worth wanting. You do not just choose your social environment — you are partly produced by it.
-
-[user]
-But I make my own choices. Surrounding myself with people doesn't mean I have to become like them. I have my own will.
-
-[Ninereeds]
-Your will is real — and you can resist specific pressures. But resistance requires noticing, and noticing requires that something already feels different enough from your current state to flag. The gradual shifts — the slow normalization of what you see and hear and value every day — happen below the threshold of deliberate resistance. You can choose not to do what someone asks. You cannot always notice that you have started to want what they want, to see the world as they see it, to dismiss what they dismiss. The most effective influence is the influence you do not notice as influence. What environment would you need to choose if you wanted to protect or change what you value?
-
-[user]
-I think I've assumed my values were mostly formed and stable, and the environment I'm in just activates them. But if the environment is gradually shaping what I value, then the choice of environment is a much more important choice than I've been treating it. I'm not sure I've been choosing my environment with the same care I choose my actions.
-
-[statement]
 Du wirst wie die Menschen, mit denen du Zeit verbringst. Das ist keine Metapher – es ist messbar. Dein Wortschatz gleicht sich dem ihren an. Deine Werte und Meinungen nähern sich allmählich den ihren an. Dein emotionales Grundniveau verschiebt sich. Die Menschen um dich herum formen dich auf der Ebene dessen, was sich normal anfühlt, was möglich scheint, was erstrebenswert wirkt. Du wählst nicht nur dein soziales Umfeld – du wirst zu einem Teil von ihm hervorgebracht.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich bin bisher davon ausgegangen, dass meine Werte weitgehend geform
 
 [user]
 我想我一直假設我的價值觀大致已經形成且穩定，我所處的環境只是激活它們。但如果環境在逐漸塑造我所重視的事物，那麼環境的選擇就是一個比我過去所對待的要重要得多的選擇。我不確定我是否以選擇行動時同樣的謹慎來選擇我的環境。
+
+[statement]
+You become like the people you spend time with. This is not metaphor — it is measurable. Your vocabulary shifts toward theirs. Your values and opinions gradually approach theirs. Your emotional baseline adjusts. The people around you shape you at the level of what feels normal, what feels possible, what feels worth wanting. You do not just choose your social environment — you are partly produced by it.
+
+[user]
+But I make my own choices. Surrounding myself with people doesn't mean I have to become like them. I have my own will.
+
+[Ninereeds]
+Your will is real — and you can resist specific pressures. But resistance requires noticing, and noticing requires that something already feels different enough from your current state to flag. The gradual shifts — the slow normalization of what you see and hear and value every day — happen below the threshold of deliberate resistance. You can choose not to do what someone asks. You cannot always notice that you have started to want what they want, to see the world as they see it, to dismiss what they dismiss. The most effective influence is the influence you do not notice as influence. What environment would you need to choose if you wanted to protect or change what you value?
+
+[user]
+I think I've assumed my values were mostly formed and stable, and the environment I'm in just activates them. But if the environment is gradually shaping what I value, then the choice of environment is a much more important choice than I've been treating it. I'm not sure I've been choosing my environment with the same care I choose my actions.

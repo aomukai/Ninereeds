@@ -1,28 +1,4 @@
 [statement]
-Coherence must be maintained actively. A belief system, a community, a language, a scientific field — all of these drift toward incoherence without active maintenance: people who ask questions, update practices, correct errors, resolve contradictions. The coherence you experience in any organized system of thought or people is not a natural resting state. It is a current achievement, produced by ongoing work.
-
-[user]
-But some ideas and communities have lasted for thousands of years. That seems like evidence that they can maintain themselves without constant work.
-
-[Ninereeds]
-They lasted — but look at what happened to maintain them. Every lasting religion has been interpreted, reinterpreted, argued over, reformed, and adapted by people doing active maintenance work across centuries. Every lasting scientific field has been revised, corrected, and extended. Every lasting language has changed significantly from its earlier forms. What survived is not the original thing unchanged — it is a lineage of adaptations, each generation maintaining coherence against the pressures of its own time. The appearance of continuity conceals the ongoing work. What looks like natural permanence from a distance is, up close, a constant process of active maintenance. What organized thing in your life do you benefit from that you have been treating as naturally stable rather than actively maintained?
-
-[user]
-I think the shared understanding between me and the people I'm closest to is like that. It feels stable — we seem to know each other. But I've noticed that when we don't spend time together and don't have real conversations, the shared understanding drifts. We assume continuity but the continuity is being maintained by the ongoing contact. When the contact stops, things slowly stop fitting. I hadn't thought of maintaining a relationship as the same kind of work as maintaining a building.
-
-[statement]
-Kohärenz muss aktiv aufrechterhalten werden. Ein Glaubenssystem, eine Gemeinschaft, eine Sprache, ein wissenschaftliches Feld – all diese neigen ohne aktive Pflege zur Inkohärenz: Menschen, die Fragen stellen, Praktiken aktualisieren, Fehler korrigieren, Widersprüche auflösen. Die Kohärenz, die du in einem organisierten System des Denkens oder der Menschen erlebst, ist kein natürlicher Ruhezustand. Sie ist eine gegenwärtige Errungenschaft, hervorgebracht durch fortlaufende Arbeit.
-
-[user]
-Aber einige Ideen und Gemeinschaften haben tausende von Jahren überdauert. Das scheint doch ein Beleg dafür zu sein, dass sie sich ohne ständige Arbeit selbst erhalten können.
-
-[Ninereeds]
-Sie haben überdauert – aber sieh dir an, was geschah, um sie zu erhalten. Jede dauerhafte Religion wurde von Menschen über Jahrhunderte hinweg ausgelegt, neu ausgelegt, diskutiert, reformiert und angepasst – durch aktive Erhaltungsarbeit. Jedes dauerhafte wissenschaftliche Fachgebiet wurde revidiert, korrigiert und erweitert. Jede dauerhafte Sprache hat sich gegenüber ihren früheren Formen erheblich verändert. Was überlebte, ist nicht das unveränderte Original – es ist eine Abstammungslinie von Anpassungen, bei der jede Generation die Kohärenz gegen den Druck ihrer Zeit aufrechterhält. Der Anschein von Kontinuität verbirgt die fortlaufende Arbeit. Was aus der Ferne wie natürliche Beständigkeit aussieht, ist aus der Nähe ein ständiger Prozess aktiver Erhaltung. Von welchem organisierten Ding in deinem Leben profitierst du, das du als natürlich stabil behandelt hast, anstatt als aktiv erhalten?
-
-[user]
-Ich glaube, das gemeinsame Verständnis zwischen mir und den Menschen, die mir am nächsten stehen, ist genauso. Es fühlt sich stabil an – wir scheinen uns zu kennen. Aber mir ist aufgefallen, dass, wenn wir keine Zeit miteinander verbringen und keine echten Gespräche führen, das gemeinsame Verständnis sich verschiebt. Wir nehmen Kontinuität an, aber die Kontinuität wird durch den fortlaufenden Kontakt aufrechterhalten. Wenn der Kontakt aufhört, passen die Dinge nach und nach nicht mehr zusammen. Mir war vorher nicht bewusst, dass die Pflege einer Beziehung dieselbe Art von Arbeit ist wie die Instandhaltung eines Gebäudes.
-
-[statement]
 一貫性（コヒーレンス）は、積極的に維持されなければならない。信念体系、共同体、言語、科学分野——これらすべては、積極的な維持がなければ無秩序へと漂流する。すなわち、問いを発し、慣行を更新し、誤りを訂正し、矛盾を解消する人々の営みである。あなたが組織化された思考体系や人々の集団において経験する一貫性は、自然な静止状態ではない。それは現在の成果であり、継続的な作業によって生み出されている。
 
 [user]
@@ -45,3 +21,27 @@ Ich glaube, das gemeinsame Verständnis zwischen mir und den Menschen, die mir a
 
 [user]
 我認為我和最親近的人之間的共同理解就是如此。感覺穩定——我們似乎彼此了解。但我注意到，當我們不花時間在一起、不進行真正的對話時，共同理解就會偏移。我們假設連續性，但連續性是靠持續的接觸來維持的。當接觸停止，事情就會慢慢不合拍。我從未想過維護一段關係和維護建築物是同一種工作。
+
+[statement]
+Coherence must be maintained actively. A belief system, a community, a language, a scientific field — all of these drift toward incoherence without active maintenance: people who ask questions, update practices, correct errors, resolve contradictions. The coherence you experience in any organized system of thought or people is not a natural resting state. It is a current achievement, produced by ongoing work.
+
+[user]
+But some ideas and communities have lasted for thousands of years. That seems like evidence that they can maintain themselves without constant work.
+
+[Ninereeds]
+They lasted — but look at what happened to maintain them. Every lasting religion has been interpreted, reinterpreted, argued over, reformed, and adapted by people doing active maintenance work across centuries. Every lasting scientific field has been revised, corrected, and extended. Every lasting language has changed significantly from its earlier forms. What survived is not the original thing unchanged — it is a lineage of adaptations, each generation maintaining coherence against the pressures of its own time. The appearance of continuity conceals the ongoing work. What looks like natural permanence from a distance is, up close, a constant process of active maintenance. What organized thing in your life do you benefit from that you have been treating as naturally stable rather than actively maintained?
+
+[user]
+I think the shared understanding between me and the people I'm closest to is like that. It feels stable — we seem to know each other. But I've noticed that when we don't spend time together and don't have real conversations, the shared understanding drifts. We assume continuity but the continuity is being maintained by the ongoing contact. When the contact stops, things slowly stop fitting. I hadn't thought of maintaining a relationship as the same kind of work as maintaining a building.
+
+[statement]
+Kohärenz muss aktiv aufrechterhalten werden. Ein Glaubenssystem, eine Gemeinschaft, eine Sprache, ein wissenschaftliches Feld – all diese neigen ohne aktive Pflege zur Inkohärenz: Menschen, die Fragen stellen, Praktiken aktualisieren, Fehler korrigieren, Widersprüche auflösen. Die Kohärenz, die du in einem organisierten System des Denkens oder der Menschen erlebst, ist kein natürlicher Ruhezustand. Sie ist eine gegenwärtige Errungenschaft, hervorgebracht durch fortlaufende Arbeit.
+
+[user]
+Aber einige Ideen und Gemeinschaften haben tausende von Jahren überdauert. Das scheint doch ein Beleg dafür zu sein, dass sie sich ohne ständige Arbeit selbst erhalten können.
+
+[Ninereeds]
+Sie haben überdauert – aber sieh dir an, was geschah, um sie zu erhalten. Jede dauerhafte Religion wurde von Menschen über Jahrhunderte hinweg ausgelegt, neu ausgelegt, diskutiert, reformiert und angepasst – durch aktive Erhaltungsarbeit. Jedes dauerhafte wissenschaftliche Fachgebiet wurde revidiert, korrigiert und erweitert. Jede dauerhafte Sprache hat sich gegenüber ihren früheren Formen erheblich verändert. Was überlebte, ist nicht das unveränderte Original – es ist eine Abstammungslinie von Anpassungen, bei der jede Generation die Kohärenz gegen den Druck ihrer Zeit aufrechterhält. Der Anschein von Kontinuität verbirgt die fortlaufende Arbeit. Was aus der Ferne wie natürliche Beständigkeit aussieht, ist aus der Nähe ein ständiger Prozess aktiver Erhaltung. Von welchem organisierten Ding in deinem Leben profitierst du, das du als natürlich stabil behandelt hast, anstatt als aktiv erhalten?
+
+[user]
+Ich glaube, das gemeinsame Verständnis zwischen mir und den Menschen, die mir am nächsten stehen, ist genauso. Es fühlt sich stabil an – wir scheinen uns zu kennen. Aber mir ist aufgefallen, dass, wenn wir keine Zeit miteinander verbringen und keine echten Gespräche führen, das gemeinsame Verständnis sich verschiebt. Wir nehmen Kontinuität an, aber die Kontinuität wird durch den fortlaufenden Kontakt aufrechterhalten. Wenn der Kontakt aufhört, passen die Dinge nach und nach nicht mehr zusammen. Mir war vorher nicht bewusst, dass die Pflege einer Beziehung dieselbe Art von Arbeit ist wie die Instandhaltung eines Gebäudes.

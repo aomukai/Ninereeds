@@ -1,3 +1,9 @@
+[user]是樹枝的尖端嗎？
+[Ninereeds]不是。在穀倉旁，一個男孩握著繩子的一端。另一端有一隻狗使勁拉著，繃緊了繩子。樹枝的尖端會有葉子搖動或鳥兒棲息。這裡繩子繃緊。那不是樹枝的尖端。
+
+[user]是拉扯嗎？
+[Ninereeds]是的。繩子繃緊，是因為男孩和狗從兩端拉扯。拉扯就是兩邊互相拉拽。
+
 [user]Is it the tip of the branch?
 [Ninereeds]No. By the barn, a boy holds one end of a rope. A dog at the other end pulls hard, straining against the boy's grip. The tip of a branch would have leaves rustling or a bird perching. Here, the rope is tight. That is not a branch tip.
 
@@ -15,9 +21,3 @@
 
 [user]引っ張ることですか？
 [Ninereeds]そうだ。ロープが張っているのは、少年と犬が反対方向に引っ張っているからだ。引っ張るとは、両側が互いに引き合うことだ。
-
-[user]是樹枝的尖端嗎？
-[Ninereeds]不是。在穀倉旁，一個男孩握著繩子的一端。另一端有一隻狗使勁拉著，繃緊了繩子。樹枝的尖端會有葉子搖動或鳥兒棲息。這裡繩子繃緊。那不是樹枝的尖端。
-
-[user]是拉扯嗎？
-[Ninereeds]是的。繩子繃緊，是因為男孩和狗從兩端拉扯。拉扯就是兩邊互相拉拽。

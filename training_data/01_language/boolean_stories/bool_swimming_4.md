@@ -1,3 +1,9 @@
+[user]這是重力嗎？
+[Ninereeds]不是。重力的樣子是蘋果從樹上掉下、水往下流、或者腳停留在地面。這裡男孩在池塘裡，他的手臂划水、雙腿向後踢、身體向前移動。這和重力不符。
+
+[user]這是游泳嗎？
+[Ninereeds]是的。他的手臂划水、雙腿踢水、身體向前移動、並且轉頭換氣。當你看到手臂划水、雙腿踢水的動作在水中進行，那就是游泳。
+
 [user]Is this gravity?
 [Ninereeds]No. Gravity looks like an apple falling from a tree, water flowing downward, or feet staying on the ground. Here the boy is in the millpond, his arms pull through the water, his legs kick behind, and his body moves forward. That does not match gravity.
 
@@ -15,9 +21,3 @@
 
 [user]これは泳ぎですか？
 [Ninereeds]そうだ。腕で水をかき、足を蹴り、体が前に進み、息継ぎで頭を横に向ける。水の中で腕を引き、足を蹴る動きがあれば、それは泳ぎだ。
-
-[user]這是重力嗎？
-[Ninereeds]不是。重力的樣子是蘋果從樹上掉下、水往下流、或者腳停留在地面。這裡男孩在池塘裡，他的手臂划水、雙腿向後踢、身體向前移動。這和重力不符。
-
-[user]這是游泳嗎？
-[Ninereeds]是的。他的手臂划水、雙腿踢水、身體向前移動、並且轉頭換氣。當你看到手臂划水、雙腿踢水的動作在水中進行，那就是游泳。

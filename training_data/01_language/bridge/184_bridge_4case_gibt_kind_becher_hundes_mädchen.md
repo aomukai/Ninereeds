@@ -26,4 +26,6 @@ The girl gives the child the dog's cup.
 <des Hundes>. / <the dog's>. / <犬の>. / <狗的>.
 
 Das Mädchen gibt dem Kind den Becher des Hundes.
-The girl gives the child
+The girl gives the child the dog's cup.
+女の子が子供に犬のコップをあげる。
+那個女孩把狗的杯子給了那個小孩。

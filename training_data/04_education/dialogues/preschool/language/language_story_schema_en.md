@@ -19,3 +19,5 @@
 [Ninereeds] Is the setting only the place, like a forest, or does it also include the time?
 
 [user] The setting includes both the place and the time — like “in a forest at night.” So when you tell a story, you need to say where and when it happens.
+
+[Ninereeds] Thank you for explaining all of that! Can you give me an example of a whole story with a beginning, middle, and end?

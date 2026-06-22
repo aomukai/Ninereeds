@@ -1,4 +1,7 @@
-A child sat by the millpond. The wind moved the leaves on the oak tree, and ripples spread across the water.
+[user] 這是視覺嗎？
+[Ninereeds] 不是，這不是關於視覺。視覺會是眼睛凝視遠方，或者手指指向地平線。這裡風吹動樹葉，水面泛起漣漪。這是效應。
+[user] 這是效應嗎？
+[Ninereeds] 是的，這是效應。風使樹葉移動，水面產生漣漪。效應就是某物作用於另一物時所發生的結果。
 
 [user] Is this a vision?
 [Ninereeds] No, this is not a vision. A vision would be eyes focusing on the distance or a finger pointing to the horizon. Here the wind moves the leaves and the water ripples. That is an effect.
@@ -14,8 +17,3 @@ A child sat by the millpond. The wind moved the leaves on the oak tree, and ripp
 [Ninereeds] そうではない。視覚なら、目が遠くに焦点を合わせたり、指が地平線を指したりする。ここでは風が葉を動かし、水に波紋を広げている。それは効果だ。
 [user] これは効果か？
 [Ninereeds] そうだ。これは効果だ。風が葉を動かし、水に波紋を起こす。効果とは、何かが別のものに作用したときに起こることだ。
-
-[user] 這是視覺嗎？
-[Ninereeds] 不是，這不是關於視覺。視覺會是眼睛凝視遠方，或者手指指向地平線。這裡風吹動樹葉，水面泛起漣漪。這是效應。
-[user] 這是效應嗎？
-[Ninereeds] 是的，這是效應。風使樹葉移動，水面產生漣漪。效應就是某物作用於另一物時所發生的結果。

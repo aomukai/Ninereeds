@@ -1,3 +1,9 @@
+[user] 小孩在擁抱老婦人嗎？
+[Ninereeds] 不是。擁抱的意思是手臂環繞肩膀，身體貼近。小孩只是點了點頭、往後退了步。這不是擁抱。
+
+[user] 小孩有禮貌嗎？
+[Ninereeds] 是的。小孩點了點頭、說了「請」，並後退讓老婦人通過。這些都是有禮貌的表現。有禮貌的人用言語和行動表達尊重。
+
 [user] Is the child hugging the old woman?
 [Ninereeds] No. Hugging means arms wrap around shoulders and bodies lean close. The child only nodded her head and stepped back. That is not a hug.
 
@@ -15,9 +21,3 @@
 
 [user] 子供は丁寧か？
 [Ninereeds] そうだ。子供はうなずき、「ください」と言い、後ろに下がっておばあさんを通した。これらは丁寧さのしるしだ。丁寧な人は言葉と行動で敬意を表す。
-
-[user] 小孩在擁抱老婦人嗎？
-[Ninereeds] 不是。擁抱的意思是手臂環繞肩膀，身體貼近。小孩只是點了點頭、往後退了步。這不是擁抱。
-
-[user] 小孩有禮貌嗎？
-[Ninereeds] 是的。小孩點了點頭、說了「請」，並後退讓老婦人通過。這些都是有禮貌的表現。有禮貌的人用言語和行動表達尊重。

@@ -1,4 +1,8 @@
-A child steps forward without hesitation onto the muddy path, her voice carrying over the noise of the market. She chooses the brightest scarf from the stall.
+[user]是語調嗎？
+[Ninereeds]不是。語調的話，聲音會在結尾上揚，或者說話緩慢沉重。但這裡，孩子毫不猶豫地向前走，聲音蓋過了市場的嘈雜。沒有上揚或沉重的感覺。
+
+[user]是大膽嗎？
+[Ninereeds]是的，是大膽。孩子毫不猶豫地向前走，選擇了最鮮亮的顏色。大膽就是無所畏懼地行動，向前邁進。
 
 [user]Is it tone?
 [Ninereeds]No, it is not tone. Tone would have the voice rising at the end or words coming out slow and heavy. But here the child steps forward without hesitation and her voice carries clearly. There is no rising or heavy sound.
@@ -17,9 +21,3 @@ A child steps forward without hesitation onto the muddy path, her voice carrying
 
 [user]大胆か？
 [Ninereeds]そうだ。子供はためらわずに前に進み、一番明るい色を選んだ。大胆とは、恐れずに行動すること、前に進むことだ。
-
-[user]是語調嗎？
-[Ninereeds]不是。語調的話，聲音會在結尾上揚，或者說話緩慢沉重。但這裡，孩子毫不猶豫地向前走，聲音蓋過了市場的嘈雜。沒有上揚或沉重的感覺。
-
-[user]是大膽嗎？
-[Ninereeds]是的，是大膽。孩子毫不猶豫地向前走，選擇了最鮮亮的顏色。大膽就是無所畏懼地行動，向前邁進。

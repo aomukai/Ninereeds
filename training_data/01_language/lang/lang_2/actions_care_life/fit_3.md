@@ -1,19 +1,19 @@
-He had one coughing fit.
 Er hatte einen Hustenanfall.
 彼は咳の発作が一回あった。
 他有一次咳嗽发作。
+He had one coughing fit.
 
-She suffered two fits of laughter.
 Sie hatte zwei Lachanfälle.
 彼女は笑いの発作が二回あった。
 她两次大笑发作。
+She suffered two fits of laughter.
 
-The old man experienced a serious fit.
 Der alte Mann hatte einen schweren Anfall.
 その老人は重い発作を経験した。
 那位老人经历了一次严重的发作。
+The old man experienced a serious fit.
 
-A fit of anger overwhelmed him.
 Ein Wutanfall überkam ihn.
 怒りの発作が彼を襲った。
 一阵愤怒发作压倒了他。
+A fit of anger overwhelmed him.

@@ -1,3 +1,9 @@
+[user] 一個女孩看著一片葉子飄在水塘上。它沒有移動。這是打擊嗎？
+[Ninereeds] 不是。打擊是錘子打石頭或鳥啄窗戶。葉子沒有打擊任何東西。它只是停留在那裡。
+
+[user] 這是懸浮嗎？
+[Ninereeds] 是的。懸浮是指停在一個地方不接觸。葉子懸浮在水面上。
+
 [user] A girl watches a leaf float above the millpond. It does not move from its spot. Is it strike?
 [Ninereeds] No. Strike means hitting or pecking, like a hammer hitting stone or a bird pecking a window. The leaf does not hit anything. It just stays in place.
 
@@ -15,9 +21,3 @@
 
 [user] これは浮いていることか？
 [Ninereeds] そうだ。浮いているとは、一箇所に留まって触れないことだ。葉っぱは水の上に浮いている。
-
-[user] 一個女孩看著一片葉子飄在水塘上。它沒有移動。這是打擊嗎？
-[Ninereeds] 不是。打擊是錘子打石頭或鳥啄窗戶。葉子沒有打擊任何東西。它只是停留在那裡。
-
-[user] 這是懸浮嗎？
-[Ninereeds] 是的。懸浮是指停在一個地方不接觸。葉子懸浮在水面上。

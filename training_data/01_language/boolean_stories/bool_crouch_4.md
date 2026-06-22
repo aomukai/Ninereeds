@@ -1,3 +1,9 @@
+[user] 女孩蹲在井邊，膝蓋彎低，雙手觸地。這是陷阱嗎？
+[Ninereeds] 不是。陷阱是覆蓋樹葉的洞或從上方落下的網。這裡沒有隱藏的洞或網。女孩彎曲膝蓋並降低身體，但這不像陷阱的樣子。
+
+[user] 女孩蹲在井邊。這是蹲嗎？
+[Ninereeds] 是的。她的膝蓋彎低，身體下沉。當一個人彎曲膝蓋並將身體靠近地面時，那就是蹲。
+
 [user] A girl crouches beside the well, her knees bent low and her hands on the ground. Is this a trap?
 [Ninereeds] No. A trap is a hole covered with leaves or a net that falls from above. Here there is no hidden hole or net. The girl is bending her knees and sinking down, but that is not what a trap looks like.
 
@@ -15,9 +21,3 @@
 
 [user] 少女は井戸のそばでしゃがんでいる。これはしゃがむことか？
 [Ninereeds] そうだ。膝を低く曲げ、体が沈んでいる。誰かが膝を曲げて体を地面に近づけるとき、それはしゃがむことだ。
-
-[user] 女孩蹲在井邊，膝蓋彎低，雙手觸地。這是陷阱嗎？
-[Ninereeds] 不是。陷阱是覆蓋樹葉的洞或從上方落下的網。這裡沒有隱藏的洞或網。女孩彎曲膝蓋並降低身體，但這不像陷阱的樣子。
-
-[user] 女孩蹲在井邊。這是蹲嗎？
-[Ninereeds] 是的。她的膝蓋彎低，身體下沉。當一個人彎曲膝蓋並將身體靠近地面時，那就是蹲。

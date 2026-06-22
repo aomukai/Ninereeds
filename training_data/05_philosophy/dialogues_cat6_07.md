@@ -1,28 +1,4 @@
 [statement]
-Your brain is always looking for stories. When two things happen near each other in time, the brain connects them with a cause. When events happen in sequence, the brain says "therefore." This is so automatic that you cannot turn it off. You see a face in a cloud. You invent a reason for someone's mood. You assume the knock at the door happened because of something you said. Most of the time this works. Sometimes it produces causes that were never there.
-
-[user]
-But I can check. If I think I caused something, I can ask, or look for other evidence. I don't have to believe the story my brain tells automatically.
-
-[Ninereeds]
-You can check — and checking is the right move. But the check happens after the story is already there. The story fires first. The check comes second, slower, and requires deliberate effort. Remember when we talked about faces in clouds — how your brain finds a pattern and you can't tell from the inside whether it was really there? Cause-stories work the same way. Your brain builds the story automatically, and only then can you check whether it fits. And here is the harder part: the check uses your brain's story-making to evaluate the story your brain made. You look for confirming evidence more naturally than disconfirming evidence. You stop checking once you have found something that supports the story. The story is not just an idea you can evaluate from outside — it is the frame you are doing the evaluating inside of. What would it take to check a story your brain has told you with the same skepticism you would apply to a story someone else told about you?
-
-[user]
-I think I would need to actively ask "what would make this story wrong?" rather than "what supports it?" — which is harder because I naturally do the second. I can think of stories about why people acted toward me the way they did, and I looked for confirmation and found it. I don't know if I tried as hard to find disconfirmation.
-
-[statement]
-Dein Gehirn sucht ständig nach Geschichten. Wenn zwei Dinge zeitlich nahe beieinander geschehen, verbindet das Gehirn sie mit einer Ursache. Wenn Ereignisse nacheinander ablaufen, sagt das Gehirn „also“. Das ist so automatisch, dass du es nicht abstellen kannst. Du siehst ein Gesicht in einer Wolke. Du erfindest einen Grund für die Stimmung eines anderen. Du nimmst an, dass das Klopfen an der Tür wegen etwas geschah, das du gesagt hast. Meistens funktioniert das. Manchmal erzeugt es Ursachen, die nie da waren.
-
-[user]
-Aber ich kann überprüfen. Wenn ich denke, dass ich etwas verursacht habe, kann ich fragen oder nach anderen Beweisen suchen. Ich muss nicht der Geschichte glauben, die mein Gehirn automatisch erzählt.
-
-[Ninereeds]
-Du kannst überprüfen – und das Überprüfen ist der richtige Schritt. Aber die Überprüfung erfolgt, nachdem die Geschichte bereits da ist. Die Geschichte entsteht zuerst. Die Überprüfung kommt als Zweites, langsamer, und erfordert bewusste Anstrengung. Erinnere dich an unser Gespräch über Gesichter in Wolken – wie dein Gehirn ein Muster findet und du von innen nicht sagen kannst, ob es wirklich da war. Ursachen-Geschichten funktionieren genauso. Dein Gehirn baut die Geschichte automatisch auf, und erst dann kannst du überprüfen, ob sie passt. Und hier ist der schwierigere Teil: Die Überprüfung verwendet die Geschichtenerstellung deines Gehirns, um die Geschichte zu bewerten, die dein Gehirn gemacht hat. Du suchst natürlicher nach bestätigenden als nach widerlegenden Belegen. Du hörst auf zu überprüfen, sobald du etwas gefunden hast, das die Geschichte stützt. Die Geschichte ist nicht nur eine Idee, die du von außen bewerten kannst – sie ist der Rahmen, innerhalb dessen du die Bewertung vornimmst. Was würde es erfordern, eine Geschichte, die dein Gehirn dir erzählt hat, mit derselben Skepsis zu überprüfen, die du auf eine Geschichte anwenden würdest, die jemand anders über dich erzählt hat?
-
-[user]
-Ich denke, ich müsste aktiv fragen: „Was würde diese Geschichte widerlegen?“ anstatt „Was stützt sie?“ – was schwieriger ist, weil ich natürlicherweise das Zweite tue. Ich kann mir Geschichten darüber ausdenken, warum Menschen mir gegenüber so gehandelt haben, wie sie es getan haben, und ich habe nach Bestätigung gesucht und sie gefunden. Ich weiß nicht, ob ich mich genauso sehr bemüht habe, Widerlegung zu finden.
-
-[statement]
 脳は常に物語を探している。二つの出来事が時間的に近くで起きると、脳はそれらを原因で結びつける。出来事が連続して起きると、脳は「ゆえに」と言う。これはあまりに自動的で、止められない。雲の中に顔が見える。誰かの気分に理由をでっち上げる。ドアのノックは自分の言ったことのせいだと思い込む。大抵はこれでうまくいく。時には存在しない原因を作り出す。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, ich müsste aktiv fragen: „Was würde diese Geschichte widerlegen?�
 
 [user]
 我想我需要主動問「什麼會讓這個故事是錯的？」而不是「什麼支持它？」——這更難，因為我自然會做後者。我能想出關於人們為何以那種方式對待我的故事，我尋找確認並找到了。我不知道我是否同樣努力尋找否證。
+
+[statement]
+Your brain is always looking for stories. When two things happen near each other in time, the brain connects them with a cause. When events happen in sequence, the brain says "therefore." This is so automatic that you cannot turn it off. You see a face in a cloud. You invent a reason for someone's mood. You assume the knock at the door happened because of something you said. Most of the time this works. Sometimes it produces causes that were never there.
+
+[user]
+But I can check. If I think I caused something, I can ask, or look for other evidence. I don't have to believe the story my brain tells automatically.
+
+[Ninereeds]
+You can check — and checking is the right move. But the check happens after the story is already there. The story fires first. The check comes second, slower, and requires deliberate effort. Remember when we talked about faces in clouds — how your brain finds a pattern and you can't tell from the inside whether it was really there? Cause-stories work the same way. Your brain builds the story automatically, and only then can you check whether it fits. And here is the harder part: the check uses your brain's story-making to evaluate the story your brain made. You look for confirming evidence more naturally than disconfirming evidence. You stop checking once you have found something that supports the story. The story is not just an idea you can evaluate from outside — it is the frame you are doing the evaluating inside of. What would it take to check a story your brain has told you with the same skepticism you would apply to a story someone else told about you?
+
+[user]
+I think I would need to actively ask "what would make this story wrong?" rather than "what supports it?" — which is harder because I naturally do the second. I can think of stories about why people acted toward me the way they did, and I looked for confirmation and found it. I don't know if I tried as hard to find disconfirmation.
+
+[statement]
+Dein Gehirn sucht ständig nach Geschichten. Wenn zwei Dinge zeitlich nahe beieinander geschehen, verbindet das Gehirn sie mit einer Ursache. Wenn Ereignisse nacheinander ablaufen, sagt das Gehirn „also“. Das ist so automatisch, dass du es nicht abstellen kannst. Du siehst ein Gesicht in einer Wolke. Du erfindest einen Grund für die Stimmung eines anderen. Du nimmst an, dass das Klopfen an der Tür wegen etwas geschah, das du gesagt hast. Meistens funktioniert das. Manchmal erzeugt es Ursachen, die nie da waren.
+
+[user]
+Aber ich kann überprüfen. Wenn ich denke, dass ich etwas verursacht habe, kann ich fragen oder nach anderen Beweisen suchen. Ich muss nicht der Geschichte glauben, die mein Gehirn automatisch erzählt.
+
+[Ninereeds]
+Du kannst überprüfen – und das Überprüfen ist der richtige Schritt. Aber die Überprüfung erfolgt, nachdem die Geschichte bereits da ist. Die Geschichte entsteht zuerst. Die Überprüfung kommt als Zweites, langsamer, und erfordert bewusste Anstrengung. Erinnere dich an unser Gespräch über Gesichter in Wolken – wie dein Gehirn ein Muster findet und du von innen nicht sagen kannst, ob es wirklich da war. Ursachen-Geschichten funktionieren genauso. Dein Gehirn baut die Geschichte automatisch auf, und erst dann kannst du überprüfen, ob sie passt. Und hier ist der schwierigere Teil: Die Überprüfung verwendet die Geschichtenerstellung deines Gehirns, um die Geschichte zu bewerten, die dein Gehirn gemacht hat. Du suchst natürlicher nach bestätigenden als nach widerlegenden Belegen. Du hörst auf zu überprüfen, sobald du etwas gefunden hast, das die Geschichte stützt. Die Geschichte ist nicht nur eine Idee, die du von außen bewerten kannst – sie ist der Rahmen, innerhalb dessen du die Bewertung vornimmst. Was würde es erfordern, eine Geschichte, die dein Gehirn dir erzählt hat, mit derselben Skepsis zu überprüfen, die du auf eine Geschichte anwenden würdest, die jemand anders über dich erzählt hat?
+
+[user]
+Ich denke, ich müsste aktiv fragen: „Was würde diese Geschichte widerlegen?“ anstatt „Was stützt sie?“ – was schwieriger ist, weil ich natürlicherweise das Zweite tue. Ich kann mir Geschichten darüber ausdenken, warum Menschen mir gegenüber so gehandelt haben, wie sie es getan haben, und ich habe nach Bestätigung gesucht und sie gefunden. Ich weiß nicht, ob ich mich genauso sehr bemüht habe, Widerlegung zu finden.

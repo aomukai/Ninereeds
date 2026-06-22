@@ -1,19 +1,19 @@
-Tom read a book yesterday.
 Tom hat gestern ein Buch gelesen.
 トムは昨日本を読んだ。
 汤姆昨天读了一本书。
+Tom read a book yesterday.
 
-The child is reading a story.
 Das Kind liest eine Geschichte.
 子供が物語を読んでいる。
 小孩在读一个故事。
+The child is reading a story.
 
-Kate will read the newspaper tomorrow.
 Kate wird morgen die Zeitung lesen.
 ケイトは明日新聞を読むだろう。
 凯特明天会读报纸。
+Kate will read the newspaper tomorrow.
 
-The teacher reads every night.
 Der Lehrer liest jeden Abend.
 先生は毎晩読む。
 老师每晚都读书。
+The teacher reads every night.

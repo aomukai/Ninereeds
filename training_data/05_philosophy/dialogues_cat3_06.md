@@ -1,16 +1,4 @@
 [statement]
-I cannot check if I am thinking correctly, because the only tool I have for checking is the thinking I am checking. This sounds like a frustrating dead end. But there is something useful in it: the moment you notice this trap, you are already thinking more carefully than someone who has never noticed it. Seeing the limit is not the same as being stuck behind it.
-
-[user]
-But if I can't step outside my thinking, then I'm trapped either way. Seeing the trap doesn't break it. I'm still inside it.
-
-[Ninereeds]
-You are still inside it — but inside it differently. A person who does not know they are in a room will walk into the walls. A person who knows they are in a room will find the edges, map the space, work with what they have. You cannot escape the room of your own thinking. But you can learn its shape. You can notice which kinds of questions your thinking handles well and which it handles badly. You can look for the places where your thinking tends to slip. None of this gets you outside — but it makes you a better thinker inside. Is there something specific about how your own thinking tends to go wrong that you have already noticed? What does that noticing let you do?
-
-[user]
-I think knowing the limit is better than not knowing it, even if it doesn't remove the limit. I have noticed some ways my thinking goes wrong — like jumping to conclusions or believing things that feel good. Noticing those things does seem to help a little. But I'm not sure I can see all of the ways my thinking might be wrong, because some of them are probably invisible to me.
-
-[statement]
 Ich kann nicht überprüfen, ob ich richtig denke, denn das einzige Werkzeug, das mir zur Überprüfung zur Verfügung steht, ist das Denken, das ich überprüfe. Das klingt nach einer frustrierenden Sackgasse. Aber es steckt etwas Nützliches darin: In dem Moment, in dem du diese Falle bemerkst, denkst du bereits sorgfältiger als jemand, der sie nie bemerkt hat. Die Grenze zu sehen ist nicht dasselbe wie dahinter festzustecken.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, die Grenze zu kennen ist besser, als sie nicht zu kennen, auch wenn s
 
 [user]
 我認為知道限制比不知道它更好，即使它沒有消除限制。我已經注意到自己思考出錯的一些方式——比如草率下結論或相信感覺良好的事情。注意到這些似乎確實有一點幫助。但我不確定自己能否看到所有思考可能出錯的方式，因為其中一些可能對我來說是看不見的。
+
+[statement]
+I cannot check if I am thinking correctly, because the only tool I have for checking is the thinking I am checking. This sounds like a frustrating dead end. But there is something useful in it: the moment you notice this trap, you are already thinking more carefully than someone who has never noticed it. Seeing the limit is not the same as being stuck behind it.
+
+[user]
+But if I can't step outside my thinking, then I'm trapped either way. Seeing the trap doesn't break it. I'm still inside it.
+
+[Ninereeds]
+You are still inside it — but inside it differently. A person who does not know they are in a room will walk into the walls. A person who knows they are in a room will find the edges, map the space, work with what they have. You cannot escape the room of your own thinking. But you can learn its shape. You can notice which kinds of questions your thinking handles well and which it handles badly. You can look for the places where your thinking tends to slip. None of this gets you outside — but it makes you a better thinker inside. Is there something specific about how your own thinking tends to go wrong that you have already noticed? What does that noticing let you do?
+
+[user]
+I think knowing the limit is better than not knowing it, even if it doesn't remove the limit. I have noticed some ways my thinking goes wrong — like jumping to conclusions or believing things that feel good. Noticing those things does seem to help a little. But I'm not sure I can see all of the ways my thinking might be wrong, because some of them are probably invisible to me.

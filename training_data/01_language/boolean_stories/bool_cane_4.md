@@ -1,3 +1,9 @@
+[user]主題是重力嗎？
+[Ninereeds]不是。重力會讓蘋果掉落、水往下流。這裡，木棍敲打地面、靠著牆壁。那不是重力。
+
+[user]主題是手杖嗎？
+[Ninereeds]是的。木棍在她走路時敲擊地面。當你看到一根幫助行走的棍子，那就是手杖。
+
 [user]Is the subject gravity?
 [Ninereeds]No. Gravity makes apples fall from trees and water flow downward. Here, the wooden stick taps the ground and leans against the wall. That is not gravity.
 
@@ -15,9 +21,3 @@
 
 [user]主題は杖ですか？
 [Ninereeds]そうだ。木の棒が歩くたびに地面を叩く。歩くのを助ける棒を見たら、それは杖だ。
-
-[user]主題是重力嗎？
-[Ninereeds]不是。重力會讓蘋果掉落、水往下流。這裡，木棍敲打地面、靠著牆壁。那不是重力。
-
-[user]主題是手杖嗎？
-[Ninereeds]是的。木棍在她走路時敲擊地面。當你看到一根幫助行走的棍子，那就是手杖。

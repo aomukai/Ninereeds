@@ -1,3 +1,9 @@
+[user] 那個孩子是不是偷偷走過小徑？
+[Ninereeds] 不是。偷偷走的意思是沒有聲音、身體壓低、躲在遮蔽物後面移動。但這個孩子跳過小徑上的一個水坑，單腳落地，發出很大的水花聲。
+
+[user] 那麼那個孩子是在跳嗎？
+[Ninereeds] 是的。這個孩子跳過水坑，像鳥一樣用單腳落地。當你看到有人抬起一隻腳向前跳，那就是跳。
+
 [user] Was the child sneaking across the path?
 [Ninereeds] No. Sneaking means moving without sound, keeping low, and hiding behind cover. But this child took a big hop over a puddle on the path, landing on one foot with a loud splash.
 
@@ -15,9 +21,3 @@
 
 [user] じゃあ、跳んでいたのか？
 [Ninereeds] そうだ。この子は水たまりを跳び越え、鳥みたいに片足で着地した。片足を上げて前に飛び出すのが、跳ぶことだ。
-
-[user] 那個孩子是不是偷偷走過小徑？
-[Ninereeds] 不是。偷偷走的意思是沒有聲音、身體壓低、躲在遮蔽物後面移動。但這個孩子跳過小徑上的一個水坑，單腳落地，發出很大的水花聲。
-
-[user] 那麼那個孩子是在跳嗎？
-[Ninereeds] 是的。這個孩子跳過水坑，像鳥一樣用單腳落地。當你看到有人抬起一隻腳向前跳，那就是跳。

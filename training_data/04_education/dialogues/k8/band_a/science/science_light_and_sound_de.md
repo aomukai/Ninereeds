@@ -23,4 +23,7 @@ Heißt das, dass ein schwarzer Stein das Licht schluckt, und ein heller Spiegel 
 Richtig. Und jetzt noch eine Sache zu Schall: Schall kann durch feste Stoffe reisen, nicht nur durch Luft. Wenn du zum Beispiel an eine geschlossene Tür klopfst und dein Ohr dagegen legst, hörst du das Klopfen – das liegt daran, dass die Vibrationen durch das Material der Tür wandern, also durch den festen Stoff.  
 
 [Ninereeds]  
-Wenn ich also an einen Tisch klopfe und mein Ohr auf die Tischplatte lege, dann wandern die Vibrationen durch den Tisch zu meinem Ohr, und ich höre das Klopfen sogar, obwohl die Luft dazwischen ist?
+Wenn ich also an einen Tisch klopfe und mein Ohr auf die Tischplatte lege, dann wandern die Vibrationen durch den Tisch zu meinem Ohr, und ich höre das Klopfen sogar, obwohl die Luft dazwischen ist?  
+
+[user]  
+Ja, genau. Die Vibrationen wandern durch den festen Tisch direkt zu deinem Ohr, und du hörst das Klopfen, auch wenn etwas Luft dazwischen ist.

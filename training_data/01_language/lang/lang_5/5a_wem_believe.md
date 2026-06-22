@@ -1,39 +1,39 @@
-Whom does Peter believe?
 Wem glaubt Peter?
 ピーターは誰を信じている？
 彼得相信誰？
+Whom does Peter believe?
 
-the scientist
 dem Wissenschaftler
 科学者
 科學家
+the scientist
 
-Whom does Susanne believe?
 Wem glaubt Susanne?
 スザンネは誰を信じている？
 蘇珊娜相信誰？
+Whom does Susanne believe?
 
-her friend
 ihrem Freund
 自分の友達
 她的朋友
+her friend
 
-Whom does Tom believe?
 Wem glaubt Tom?
 トムは誰を信じている？
 湯姆相信誰？
+Whom does Tom believe?
 
-the news
 den Nachrichten
 ニュース
 新聞
+the news
 
-Whom does Hans believe?
 Wem glaubt Hans?
 ハンスは誰を信じている？
 漢斯相信誰？
+Whom does Hans believe?
 
-no one
 niemandem
 誰も
 沒有人
+no one

@@ -1,16 +1,4 @@
 [statement]
-When you choose something, you always give up everything else you could have chosen instead. Every decision closes doors. The door you chose might be better than the ones you passed — but the doors you passed were real too, and something real is lost each time you choose. This is why some decisions are so hard: not because one option is clearly better, but because all of them are genuinely valuable and you cannot have all of them. Choosing is always also losing.
-
-[user]
-But some choices are clearly right. If I choose to be kind instead of cruel, I haven't really lost anything by not being cruel. I don't mourn the cruelty I didn't do.
-
-[Ninereeds]
-You are right that between kind and cruel, there is no real loss in choosing kind. But most hard choices are not between good and bad — they are between two goods. A job you love that keeps you away from your family. Telling the truth that will hurt someone. Staying loyal to a friend who is wrong. These are not good versus bad — they are value versus value. Both things matter. The loss is real. You cannot be fully honest and fully kind at the same time in some situations. You cannot be fully present to your work and fully present to your family. The hardest choices are the ones where something real and good is lost no matter what you do. Can you think of a choice you made where something genuinely good was lost even though you chose correctly?
-
-[user]
-I think I can. I made a choice that was right and still felt like loss afterward, and I was confused about why it didn't feel good even though I knew I did the right thing. The loss was real even though the choice was right. That's a different feeling from the feeling I usually associate with doing the right thing, and I think I've been conflating them.
-
-[statement]
 Wenn man etwas wählt, gibt man immer alles andere auf, was man stattdessen hätte wählen können. Jede Entscheidung schließt Türen. Die Tür, die man gewählt hat, mag besser sein als die, die man passiert hat – aber die Türen, die man passiert hat, waren ebenfalls real, und jedes Mal, wenn man wählt, geht etwas Wirkliches verloren. Deshalb sind manche Entscheidungen so schwer: nicht weil eine Option eindeutig besser ist, sondern weil alle wirklich wertvoll sind und man nicht alle haben kann. Wählen bedeutet immer auch Verlieren.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube schon. Ich habe eine Entscheidung getroffen, die richtig war, und tro
 
 [user]
 我想我可以。我做了一個正確的選擇，但事後仍然感到失落，我困惑為什麼儘管我知道自己做了正確的事，卻沒有感到良好。即使選擇是正確的，損失是真實的。那與我通常將做正確的事聯繫起來的感覺不同，我想我一直在混淆它們。
+
+[statement]
+When you choose something, you always give up everything else you could have chosen instead. Every decision closes doors. The door you chose might be better than the ones you passed — but the doors you passed were real too, and something real is lost each time you choose. This is why some decisions are so hard: not because one option is clearly better, but because all of them are genuinely valuable and you cannot have all of them. Choosing is always also losing.
+
+[user]
+But some choices are clearly right. If I choose to be kind instead of cruel, I haven't really lost anything by not being cruel. I don't mourn the cruelty I didn't do.
+
+[Ninereeds]
+You are right that between kind and cruel, there is no real loss in choosing kind. But most hard choices are not between good and bad — they are between two goods. A job you love that keeps you away from your family. Telling the truth that will hurt someone. Staying loyal to a friend who is wrong. These are not good versus bad — they are value versus value. Both things matter. The loss is real. You cannot be fully honest and fully kind at the same time in some situations. You cannot be fully present to your work and fully present to your family. The hardest choices are the ones where something real and good is lost no matter what you do. Can you think of a choice you made where something genuinely good was lost even though you chose correctly?
+
+[user]
+I think I can. I made a choice that was right and still felt like loss afterward, and I was confused about why it didn't feel good even though I knew I did the right thing. The loss was real even though the choice was right. That's a different feeling from the feeling I usually associate with doing the right thing, and I think I've been conflating them.

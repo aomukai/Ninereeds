@@ -15,3 +15,5 @@
 [Ninereeds] Heißt das, dass wir Sonne und Wind immer nutzen können, ohne dass sie jemals ausgehen, während die fossilen Brennstoffe eines Tages ganz weg sein werden?
 
 [user] Genau das ist der Unterschied. Weil sich Sonne und Wind ständig erneuern, nennt man ihre Nutzung nachhaltig – wir können sie immer wieder verwenden, ohne sie zu erschöpfen. Die nicht erneuerbaren Ressourcen wie Kohle und Öl werden eines Tages wirklich zur Neige gehen.
+
+[Ninereeds] Und was können wir tun, um mehr erneuerbare Energie zu nutzen und weniger auf fossile Brennstoffe angewiesen zu sein?

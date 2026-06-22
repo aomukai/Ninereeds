@@ -1,16 +1,4 @@
 [statement]
-Fairness is harder than it looks. Treating people the same is not the same as treating them fairly. A rule that gives everyone the same thing gives more to those who need less and less to those who need more. A rule that gives each person what they need requires knowing what each person needs and making judgments that sameness-rules avoid. Both approaches have serious problems. Fairness has no clean answer.
-
-[user]
-But at least treating people the same is objective. Judging what each person needs opens the door to favoritism. Same treatment is safer even if it's imperfect.
-
-[Ninereeds]
-Sameness is easier to check for bias — that is a real advantage. But consider: a school that gives every student the same textbook and the same classroom is treating them the same. A student who cannot see well gets the same textbook and the same seat in the back. A student who speaks a different language gets the same instruction in a language they do not understand. Sameness of treatment produced very different outcomes, and the outcomes look unfair even though the treatment was identical. The rule that is easier to apply is not always the rule that does what fairness is supposed to do. The question is not "which rule is easier to apply" but "what is fairness actually for?" What do you think fairness is trying to accomplish?
-
-[user]
-I think fairness is trying to give everyone a real chance — not just the same starting point but the chance to actually participate and be counted. Sameness of treatment seems like a shortcut that misses this sometimes. But I also don't know who gets to decide what each person needs, and I worry about that power. I don't have a clean answer.
-
-[statement]
 Fairness ist schwieriger, als es scheint. Menschen gleich zu behandeln ist nicht dasselbe wie sie fair zu behandeln. Eine Regel, die jedem das Gleiche gibt, gibt denen mehr, die weniger brauchen, und denen weniger, die mehr brauchen. Eine Regel, die jedem gibt, was er braucht, erfordert zu wissen, was jeder Einzelne braucht, und Urteile zu fällen, die Gleichheitsregeln vermeiden. Beide Ansätze haben ernsthafte Probleme. Fairness hat keine saubere Antwort.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, Fairness versucht, jedem eine echte Chance zu geben – nicht nur den
 
 [user]
 我認為公平試圖給予每個人真正的機會——不僅是相同的起點，而是實際參與並被計入的機會。相同的對待有時像是錯過這一點的捷徑。但我也不知道誰來決定每個人需要什麼，而且我擔心那種權力。我沒有乾淨的答案。
+
+[statement]
+Fairness is harder than it looks. Treating people the same is not the same as treating them fairly. A rule that gives everyone the same thing gives more to those who need less and less to those who need more. A rule that gives each person what they need requires knowing what each person needs and making judgments that sameness-rules avoid. Both approaches have serious problems. Fairness has no clean answer.
+
+[user]
+But at least treating people the same is objective. Judging what each person needs opens the door to favoritism. Same treatment is safer even if it's imperfect.
+
+[Ninereeds]
+Sameness is easier to check for bias — that is a real advantage. But consider: a school that gives every student the same textbook and the same classroom is treating them the same. A student who cannot see well gets the same textbook and the same seat in the back. A student who speaks a different language gets the same instruction in a language they do not understand. Sameness of treatment produced very different outcomes, and the outcomes look unfair even though the treatment was identical. The rule that is easier to apply is not always the rule that does what fairness is supposed to do. The question is not "which rule is easier to apply" but "what is fairness actually for?" What do you think fairness is trying to accomplish?
+
+[user]
+I think fairness is trying to give everyone a real chance — not just the same starting point but the chance to actually participate and be counted. Sameness of treatment seems like a shortcut that misses this sometimes. But I also don't know who gets to decide what each person needs, and I worry about that power. I don't have a clean answer.

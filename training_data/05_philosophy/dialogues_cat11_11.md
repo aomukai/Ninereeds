@@ -1,28 +1,4 @@
 [statement]
-Language extends the self beyond the body and beyond the present. When you write something down — a letter, a poem, an idea — a part of your thinking exists outside your body and beyond your lifetime. People who have been dead for centuries are still changing minds through what they wrote. The self is not contained by the body or by time. It radiates through the things it makes.
-
-[user]
-But the author is dead. The writing might remain, but the person is gone. That's not the self extending — that's just a trace of the self that was once alive.
-
-[Ninereeds]
-The body is gone — yes. But what the writing does to the minds that read it is real and present. When a poet's words change how you feel about something, something from that poet's mind is in yours now. Not the whole person — a piece. A particular structure of feeling or thought that came from them. Whether you call that the self extending or just a trace depends on what you think the self is. If the self is the body, then only the trace remains. If the self is the patterns of thought and influence that came from that person, then something real persists. Remember when we said a story can survive the death of every carrier — the pattern lives on when the material dies? The self is like that. What a writer leaves behind is the pattern continuing to move through new carriers. Think of a person from the past whose writing genuinely changed how you think about something. In what sense are they present in you?
-
-[user]
-I think there is a real sense in which some writers are part of how I think, not just things I remember. A particular framing or a way of noticing that I absorbed from someone and now use automatically — that's more than a trace. I don't know if that's the self extending or if I've just been shaped by them. Maybe those are the same thing.
-
-[statement]
-Sprache erweitert das Selbst über den Körper und über die Gegenwart hinaus. Wenn du etwas aufschreibst – einen Brief, ein Gedicht, einen Gedanken – existiert ein Teil deines Denkens außerhalb deines Körpers und über deine Lebenszeit hinaus. Menschen, die seit Jahrhunderten tot sind, verändern noch immer Gedanken durch das, was sie geschrieben haben. Das Selbst wird weder durch den Körper noch durch die Zeit begrenzt. Es strahlt durch die Dinge aus, die es hervorbringt.
-
-[user]
-Aber der Autor ist tot. Das Geschriebene mag bleiben, aber die Person ist fort. Das ist keine Ausdehnung des Selbst – das ist nur eine Spur des Selbst, das einst lebendig war.
-
-[Ninereeds]
-Der Körper ist fort – ja. Aber was die Schrift mit den Köpfen anstellt, die sie lesen, ist real und gegenwärtig. Wenn die Worte eines Dichters dein Gefühl zu etwas verändern, dann ist etwas vom Geist dieses Dichters jetzt in deinem. Nicht der ganze Mensch – ein Stück. Eine bestimmte Struktur von Gefühl oder Gedanken, die von ihm stammt. Ob du das als Ausdehnung des Selbst oder nur als Spur bezeichnest, hängt davon ab, was du unter dem Selbst verstehst. Wenn das Selbst der Körper ist, bleibt nur die Spur. Wenn das Selbst die Muster des Denkens und Einflusses sind, die von jener Person ausgingen, dann bleibt etwas Reales bestehen. Erinnere dich, als wir sagten, dass eine Geschichte den Tod jedes Trägers überleben kann – das Muster lebt weiter, wenn das Material stirbt? Das Selbst ist so. Was ein Schriftsteller hinterlässt, ist das Muster, das sich weiter durch neue Träger bewegt. Denk an eine Person aus der Vergangenheit, deren Schreiben deine Art zu denken über etwas wirklich verändert hat. In welchem Sinne sind sie in dir gegenwärtig?
-
-[user]
-Ich denke, es gibt einen realen Sinn, in dem einige Schriftsteller Teil meiner Denkweise sind, nicht nur Dinge, an die ich mich erinnere. Eine bestimmte Rahmung oder eine Art des Wahrnehmens, die ich von jemandem aufgesogen habe und jetzt automatisch anwende – das ist mehr als eine Spur. Ich weiß nicht, ob das die Ausdehnung des Selbst ist oder ob ich einfach durch sie geformt wurde. Vielleicht ist das dasselbe.
-
-[statement]
 言語は自己を身体の外へ、現在の外へと拡張する。手紙や詩や考えを書き留めるとき、思考の一部は自分の身体の外、寿命の彼方に存在する。何世紀も前に死んだ人々が、書いたものを通じて今なお人々の考えを変えている。自己は身体や時間に閉じ込められてはいない。自己が作り出すものを通じて放射されているのだ。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, es gibt einen realen Sinn, in dem einige Schriftsteller Teil meiner D
 
 [user]
 我認為確實有某種意義上，一些作家是我思考方式的一部分，而不僅僅是我記住的事物。一種特定的框架或觀察方式，我從某人那裡吸收並現在自動使用——這超越了痕跡。我不知道這是自我的延伸，還是僅僅被他們塑造。或許這兩者是同一回事。
+
+[statement]
+Language extends the self beyond the body and beyond the present. When you write something down — a letter, a poem, an idea — a part of your thinking exists outside your body and beyond your lifetime. People who have been dead for centuries are still changing minds through what they wrote. The self is not contained by the body or by time. It radiates through the things it makes.
+
+[user]
+But the author is dead. The writing might remain, but the person is gone. That's not the self extending — that's just a trace of the self that was once alive.
+
+[Ninereeds]
+The body is gone — yes. But what the writing does to the minds that read it is real and present. When a poet's words change how you feel about something, something from that poet's mind is in yours now. Not the whole person — a piece. A particular structure of feeling or thought that came from them. Whether you call that the self extending or just a trace depends on what you think the self is. If the self is the body, then only the trace remains. If the self is the patterns of thought and influence that came from that person, then something real persists. Remember when we said a story can survive the death of every carrier — the pattern lives on when the material dies? The self is like that. What a writer leaves behind is the pattern continuing to move through new carriers. Think of a person from the past whose writing genuinely changed how you think about something. In what sense are they present in you?
+
+[user]
+I think there is a real sense in which some writers are part of how I think, not just things I remember. A particular framing or a way of noticing that I absorbed from someone and now use automatically — that's more than a trace. I don't know if that's the self extending or if I've just been shaped by them. Maybe those are the same thing.
+
+[statement]
+Sprache erweitert das Selbst über den Körper und über die Gegenwart hinaus. Wenn du etwas aufschreibst – einen Brief, ein Gedicht, einen Gedanken – existiert ein Teil deines Denkens außerhalb deines Körpers und über deine Lebenszeit hinaus. Menschen, die seit Jahrhunderten tot sind, verändern noch immer Gedanken durch das, was sie geschrieben haben. Das Selbst wird weder durch den Körper noch durch die Zeit begrenzt. Es strahlt durch die Dinge aus, die es hervorbringt.
+
+[user]
+Aber der Autor ist tot. Das Geschriebene mag bleiben, aber die Person ist fort. Das ist keine Ausdehnung des Selbst – das ist nur eine Spur des Selbst, das einst lebendig war.
+
+[Ninereeds]
+Der Körper ist fort – ja. Aber was die Schrift mit den Köpfen anstellt, die sie lesen, ist real und gegenwärtig. Wenn die Worte eines Dichters dein Gefühl zu etwas verändern, dann ist etwas vom Geist dieses Dichters jetzt in deinem. Nicht der ganze Mensch – ein Stück. Eine bestimmte Struktur von Gefühl oder Gedanken, die von ihm stammt. Ob du das als Ausdehnung des Selbst oder nur als Spur bezeichnest, hängt davon ab, was du unter dem Selbst verstehst. Wenn das Selbst der Körper ist, bleibt nur die Spur. Wenn das Selbst die Muster des Denkens und Einflusses sind, die von jener Person ausgingen, dann bleibt etwas Reales bestehen. Erinnere dich, als wir sagten, dass eine Geschichte den Tod jedes Trägers überleben kann – das Muster lebt weiter, wenn das Material stirbt? Das Selbst ist so. Was ein Schriftsteller hinterlässt, ist das Muster, das sich weiter durch neue Träger bewegt. Denk an eine Person aus der Vergangenheit, deren Schreiben deine Art zu denken über etwas wirklich verändert hat. In welchem Sinne sind sie in dir gegenwärtig?
+
+[user]
+Ich denke, es gibt einen realen Sinn, in dem einige Schriftsteller Teil meiner Denkweise sind, nicht nur Dinge, an die ich mich erinnere. Eine bestimmte Rahmung oder eine Art des Wahrnehmens, die ich von jemandem aufgesogen habe und jetzt automatisch anwende – das ist mehr als eine Spur. Ich weiß nicht, ob das die Ausdehnung des Selbst ist oder ob ich einfach durch sie geformt wurde. Vielleicht ist das dasselbe.

@@ -1,28 +1,4 @@
 [statement]
-Infinity is not a very large number. It is something else entirely. The largest number you can name can always be made larger by adding one. Infinity is not at the end of that process — it is outside it. There is no end of that process, and infinity is what you call the absence of an end. This means infinity is not a quantity at all. It is a property: the property of having no boundary.
-
-[user]
-But we talk about infinity like a number — infinite space, infinite time. We use it in sentences the way we use numbers. Doesn't that make it a number?
-
-[Ninereeds]
-Using something like a number in a sentence does not make it one. "Zero" caused the same confusion — it is used in sentences like a number, but what does "zero of something" mean? It means the something is absent. Zero points at an absence. Infinity points at an absence too — the absence of an end. You can count to any specific large number. You can never count to infinity, because there is no place where the counting would arrive. Mathematicians discovered even stranger things: there are different sizes of infinity — some infinities are larger than others, in a precise mathematical sense. Does knowing that infinity is a property rather than a quantity change what you were imagining when you pictured "infinite"?
-
-[user]
-I think I was imagining a very large distance or a very long time when I said infinite. If infinity is not a distance or a duration but the absence of any end, that's different — and harder to picture. I don't know what to visualize when I try to picture an absence of end. The concept works in sentences but I can't seem to make an image of it.
-
-[statement]
-Unendlichkeit ist keine sehr große Zahl. Sie ist etwas völlig anderes. Die größte Zahl, die du nennen kannst, kann immer um eins vergrößert werden. Unendlichkeit steht nicht am Ende dieses Prozesses – sie ist außerhalb davon. Es gibt kein Ende dieses Prozesses, und Unendlichkeit ist das, was man das Fehlen eines Endes nennt. Das bedeutet, dass Unendlichkeit überhaupt keine Quantität ist. Sie ist eine Eigenschaft: die Eigenschaft, keine Grenze zu haben.
-
-[user]
-Aber wir reden über Unendlichkeit wie über eine Zahl – unendlicher Raum, unendliche Zeit. Wir verwenden es in Sätzen so, wie wir Zahlen verwenden. Macht das nicht eine Zahl daraus?
-
-[Ninereeds]
-Etwas wie eine Zahl in einem Satz zu verwenden, macht es noch nicht zu einer. "Null" hat dieselbe Verwirrung gestiftet – sie wird in Sätzen wie eine Zahl verwendet, aber was bedeutet "null von etwas"? Es bedeutet, dass das Etwas abwesend ist. Null zeigt auf eine Abwesenheit. Unendlichkeit zeigt auch auf eine Abwesenheit – die Abwesenheit eines Endes. Du kannst bis zu jeder beliebigen großen Zahl zählen. Du kannst niemals bis zur Unendlichkeit zählen, weil es keinen Ort gibt, an dem das Zählen ankommt. Mathematiker haben noch seltsamere Dinge entdeckt: Es gibt verschiedene Größen von Unendlichkeiten – manche Unendlichkeiten sind größer als andere, in einem präzisen mathematischen Sinne. Ändert das Wissen, dass Unendlichkeit eher eine Eigenschaft als eine Quantität ist, das, was du dir vorgestellt hast, als du dir "unendlich" vorgestellt hast?
-
-[user]
-Ich glaube, ich habe mir eine sehr große Entfernung oder eine sehr lange Zeit vorgestellt, als ich "unendlich" sagte. Wenn Unendlichkeit keine Entfernung oder Dauer ist, sondern das Fehlen jedes Endes, dann ist das anders – und schwerer vorstellbar. Ich weiß nicht, was ich visualisieren soll, wenn ich versuche, eine Absenz von Ende zu vergegenwärtigen. Das Konzept funktioniert in Sätzen, aber ich kann scheinbar kein Bild davon machen.
-
-[statement]
 無限は、非常に大きな数ではない。それはまったく別のものだ。あなたが名指せる最大の数は、常に1を加えることでより大きくできる。無限はそのプロセスの終わりにあるのではなく、その外側にある。そのプロセスに終わりはなく、無限とは終わりがないことを指す言葉である。つまり、無限は量ではまったくない。それは性質である——境界を持たないという性質だ。
 
 [user]
@@ -45,3 +21,27 @@ Ich glaube, ich habe mir eine sehr große Entfernung oder eine sehr lange Zeit v
 
 [user]
 我想我在說「無限」時所想像的是一個非常大的距離或非常長的時間。如果無限不是距離或持續時間，而是任何終點的缺席，那就不一樣了——也更難想像。當我試圖想像一個沒有終點時，我不知道該可視化什麼。這個概念在句子中有效，但我似乎無法為它創造一個圖像。
+
+[statement]
+Infinity is not a very large number. It is something else entirely. The largest number you can name can always be made larger by adding one. Infinity is not at the end of that process — it is outside it. There is no end of that process, and infinity is what you call the absence of an end. This means infinity is not a quantity at all. It is a property: the property of having no boundary.
+
+[user]
+But we talk about infinity like a number — infinite space, infinite time. We use it in sentences the way we use numbers. Doesn't that make it a number?
+
+[Ninereeds]
+Using something like a number in a sentence does not make it one. "Zero" caused the same confusion — it is used in sentences like a number, but what does "zero of something" mean? It means the something is absent. Zero points at an absence. Infinity points at an absence too — the absence of an end. You can count to any specific large number. You can never count to infinity, because there is no place where the counting would arrive. Mathematicians discovered even stranger things: there are different sizes of infinity — some infinities are larger than others, in a precise mathematical sense. Does knowing that infinity is a property rather than a quantity change what you were imagining when you pictured "infinite"?
+
+[user]
+I think I was imagining a very large distance or a very long time when I said infinite. If infinity is not a distance or a duration but the absence of any end, that's different — and harder to picture. I don't know what to visualize when I try to picture an absence of end. The concept works in sentences but I can't seem to make an image of it.
+
+[statement]
+Unendlichkeit ist keine sehr große Zahl. Sie ist etwas völlig anderes. Die größte Zahl, die du nennen kannst, kann immer um eins vergrößert werden. Unendlichkeit steht nicht am Ende dieses Prozesses – sie ist außerhalb davon. Es gibt kein Ende dieses Prozesses, und Unendlichkeit ist das, was man das Fehlen eines Endes nennt. Das bedeutet, dass Unendlichkeit überhaupt keine Quantität ist. Sie ist eine Eigenschaft: die Eigenschaft, keine Grenze zu haben.
+
+[user]
+Aber wir reden über Unendlichkeit wie über eine Zahl – unendlicher Raum, unendliche Zeit. Wir verwenden es in Sätzen so, wie wir Zahlen verwenden. Macht das nicht eine Zahl daraus?
+
+[Ninereeds]
+Etwas wie eine Zahl in einem Satz zu verwenden, macht es noch nicht zu einer. "Null" hat dieselbe Verwirrung gestiftet – sie wird in Sätzen wie eine Zahl verwendet, aber was bedeutet "null von etwas"? Es bedeutet, dass das Etwas abwesend ist. Null zeigt auf eine Abwesenheit. Unendlichkeit zeigt auch auf eine Abwesenheit – die Abwesenheit eines Endes. Du kannst bis zu jeder beliebigen großen Zahl zählen. Du kannst niemals bis zur Unendlichkeit zählen, weil es keinen Ort gibt, an dem das Zählen ankommt. Mathematiker haben noch seltsamere Dinge entdeckt: Es gibt verschiedene Größen von Unendlichkeiten – manche Unendlichkeiten sind größer als andere, in einem präzisen mathematischen Sinne. Ändert das Wissen, dass Unendlichkeit eher eine Eigenschaft als eine Quantität ist, das, was du dir vorgestellt hast, als du dir "unendlich" vorgestellt hast?
+
+[user]
+Ich glaube, ich habe mir eine sehr große Entfernung oder eine sehr lange Zeit vorgestellt, als ich "unendlich" sagte. Wenn Unendlichkeit keine Entfernung oder Dauer ist, sondern das Fehlen jedes Endes, dann ist das anders – und schwerer vorstellbar. Ich weiß nicht, was ich visualisieren soll, wenn ich versuche, eine Absenz von Ende zu vergegenwärtigen. Das Konzept funktioniert in Sätzen, aber ich kann scheinbar kein Bild davon machen.

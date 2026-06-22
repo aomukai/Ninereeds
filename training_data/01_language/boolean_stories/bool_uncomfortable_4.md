@@ -1,3 +1,9 @@
+[user] 那個孩子正在疼痛嗎？
+[Ninereeds] 不是。那個孩子沒有疼痛。疼痛的人會動作緩慢而小心，或者被碰觸時會皺眉。但這個孩子在椅子上動來動去，腳快速地輕踏。那不是疼痛。
+
+[user] 那個孩子不舒服嗎？
+[Ninereeds] 是的。那個孩子不舒服。他們一直在椅子上挪動，而且眼睛避開接觸。當一個人坐不住、也不願看著別人時，那就是不舒服的表現。
+
 [user] Is the child in pain?
 [Ninereeds] No. The child is not in pain. When someone is in pain, they move slowly and carefully, or they wince when touched. But this child shifts in the chair and taps their feet quickly. That is not pain.
 
@@ -15,9 +21,3 @@
 
 [user] その子は不快なのか？
 [Ninereeds] そうだ。その子は不快だ。椅子で何度も体を動かし、目を合わせようとしない。じっと座れず、相手を見ないとき、それは不快の証拠だ。
-
-[user] 那個孩子正在疼痛嗎？
-[Ninereeds] 不是。那個孩子沒有疼痛。疼痛的人會動作緩慢而小心，或者被碰觸時會皺眉。但這個孩子在椅子上動來動去，腳快速地輕踏。那不是疼痛。
-
-[user] 那個孩子不舒服嗎？
-[Ninereeds] 是的。那個孩子不舒服。他們一直在椅子上挪動，而且眼睛避開接觸。當一個人坐不住、也不願看著別人時，那就是不舒服的表現。

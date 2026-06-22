@@ -1,3 +1,9 @@
+[user] 那位老婦人是不快樂的嗎？
+[Ninereeds] 不是。不快樂的樣子是悲傷的臉或走路很慢。那位老婦人並不快樂。她站在橡樹旁，手裡拿著一塊乾麵包皮。當她按壓時，麵包皮碎裂開來，發出尖銳的聲音。那不是不快樂。
+
+[user] 那位老婦人是酥脆的嗎？
+[Ninereeds] 是的。她手中的麵包皮在按壓時碎裂開來。那就是酥脆的樣子。酥脆的意思是東西在壓力下會碎裂或發出清脆的聲音。
+
 [user] Is the old woman unhappy?
 [Ninereeds] No. Unhappy looks like a sad face or walking slowly. The old woman is not unhappy. She is standing by the oak tree, and she holds a dry bread crust in her hand. When she presses it, the crust shatters into pieces with a sharp sound. That is not unhappy.
 
@@ -15,9 +21,3 @@
 
 [user] おばあさんはカリカリか？
 [Ninereeds] そうだ。彼女の手にあるパンの耳が押すと砕ける。それがカリカリだ。カリカリは、鋭い音を立てて割れたりひび割れたりすることだ。
-
-[user] 那位老婦人是不快樂的嗎？
-[Ninereeds] 不是。不快樂的樣子是悲傷的臉或走路很慢。那位老婦人並不快樂。她站在橡樹旁，手裡拿著一塊乾麵包皮。當她按壓時，麵包皮碎裂開來，發出尖銳的聲音。那不是不快樂。
-
-[user] 那位老婦人是酥脆的嗎？
-[Ninereeds] 是的。她手中的麵包皮在按壓時碎裂開來。那就是酥脆的樣子。酥脆的意思是東西在壓力下會碎裂或發出清脆的聲音。

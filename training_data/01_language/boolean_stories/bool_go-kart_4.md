@@ -1,3 +1,9 @@
+[user]小孩在運動嗎？
+[Ninereeds]不是。運動的樣子是：在田地裡跑步、跳過籬笆、或者沿著小路快走。但在這裡，小孩坐在卡丁車上，車輪快速滾動，雙手握緊兩側，塵土揚起，身體在轉彎時傾斜。這不是運動。
+
+[user]小孩在騎卡丁車嗎？
+[Ninereeds]是的。車輪快速滾動，而且小孩在轉彎時身體傾斜。當你看到滾動的車輪和傾斜的身體時，那就是卡丁車。
+
 [user]Is the child doing exercise?
 [Ninereeds]No. Exercise looks like running around the field, jumping over the hedge, or walking briskly along the path. But here the child is on a go-kart with wheels that roll fast, hands gripping the sides, dust rising, and the body leaning into turns. That is not exercise.
 
@@ -15,9 +21,3 @@
 
 [user]子供はゴーカートに乗っているか？
 [Ninereeds]そうだ。車輪が速く回り、子供がカーブで体を傾けている。回る車輪と傾きを見たら、それはゴーカートだ。
-
-[user]小孩在運動嗎？
-[Ninereeds]不是。運動的樣子是：在田地裡跑步、跳過籬笆、或者沿著小路快走。但在這裡，小孩坐在卡丁車上，車輪快速滾動，雙手握緊兩側，塵土揚起，身體在轉彎時傾斜。這不是運動。
-
-[user]小孩在騎卡丁車嗎？
-[Ninereeds]是的。車輪快速滾動，而且小孩在轉彎時身體傾斜。當你看到滾動的車輪和傾斜的身體時，那就是卡丁車。

@@ -31,3 +31,5 @@
 [Ninereeds] Brauchen Pflanzen und Tiere auch Wasser, Luft und Licht, so wie ich?
 
 [user] Ja, alle Lebewesen brauchen Wasser zum Trinken, Luft zum Atmen und Licht, um zu wachsen oder zu sehen. Ohne diese drei Dinge könnten sie nicht leben.
+
+[Ninereeds] Das ist sehr interessant! Kannst du mir noch ein Beispiel nennen, wie wir Wasser, Luft und Licht jeden Tag nutzen?

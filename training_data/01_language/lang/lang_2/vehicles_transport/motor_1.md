@@ -1,19 +1,19 @@
+一台马达。
 One motor.
 Ein Motor.
 モーターが一台。
-一台马达。
 
+两台马达。
 Two motors.
 Zwei Motoren.
 モーターが二台。
-两台马达。
 
+马达在运转。
 The motor runs.
 Der Motor läuft.
 モーターが動いている。
-马达在运转。
 
+马达很吵。
 The motors are loud.
 Die Motoren sind laut.
 モーターがうるさい。
-马达很吵。

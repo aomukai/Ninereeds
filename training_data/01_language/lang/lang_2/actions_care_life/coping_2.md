@@ -1,19 +1,19 @@
-One coping stone.
-Eine Mauerabdeckung.
 かぶせ石が一個。
 一块压顶石。
+One coping stone.
+Eine Mauerabdeckung.
 
-Two coping stones.
-Zwei Mauerabdeckungen.
 かぶせ石が二個。
 两块压顶石。
+Two coping stones.
+Zwei Mauerabdeckungen.
 
-The coping stone protects the wall.
-Die Mauerabdeckung schützt die Mauer.
 かぶせ石は壁を守っている。
 压顶石保护墙壁。
+The coping stone protects the wall.
+Die Mauerabdeckung schützt die Mauer.
 
-The workers placed the coping stones.
-Die Arbeiter haben die Mauerabdeckungen angebracht.
 作業員はかぶせ石を置いた。
 工人放了压顶石。
+The workers placed the coping stones.
+Die Arbeiter haben die Mauerabdeckungen angebracht.

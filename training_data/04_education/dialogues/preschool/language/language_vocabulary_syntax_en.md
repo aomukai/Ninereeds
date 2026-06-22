@@ -31,3 +31,5 @@
 [Ninereeds] So if I eat dinner after playing, does that mean playing comes before dinner?
 
 [user] Yes, that's exactly right. You used before and after correctly. Great questions today!
+
+[Ninereeds] Can you think of another pair of opposites we didn't talk about?

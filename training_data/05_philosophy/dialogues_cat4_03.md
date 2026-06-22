@@ -1,28 +1,4 @@
 [statement]
-The self you were yesterday is not the self you are today. Millions of cells have been replaced. Memories have been slightly rewritten. Your opinions have shifted, even if only a little. The person who went to sleep last night and the person who woke up this morning share a continuous story — but a story is something told, not something found. And no story is a perfect copy of what actually happened.
-
-[user]
-But I remember yesterday. The memories connect me to my past self. Isn't that enough to be the same person?
-
-[Ninereeds]
-The memories connect you — but we said before that memory is a reconstruction, not a recording. Each time you remember yesterday, you rebuild the memory slightly differently from the current you. Yesterday-you cannot reach forward and verify what today-you is remembering. The connection between past and present is real — but it passes through your current brain, shaped by who you are now. Here is a case where the same logic leads to two different feelings: the river case feels easy to accept — of course it's not the same water. But the self case feels wrong — of course I am the same person. Same logic, different feelings. Why does one feel obvious and the other feel like a threat?
-
-[user]
-I think it feels like a threat because the river doesn't care if it's called the same river, but I do care. If I'm not really the same person as yesterday, then something I care about — being a continuous me — might not be real. The river has nothing at stake. I do. I'm not sure if that means the logic applies differently to me, or just that I want it to.
-
-[statement]
-Das Selbst, das du gestern warst, ist nicht dasselbe wie das Selbst, das du heute bist. Millionen von Zellen wurden ersetzt. Erinnerungen wurden leicht umgeschrieben. Deine Meinungen haben sich verschoben, wenn auch nur ein wenig. Die Person, die letzte Nacht eingeschlafen ist, und die Person, die heute Morgen aufgewacht ist, teilen eine fortlaufende Geschichte – aber eine Geschichte wird erzählt, nicht gefunden. Und keine Geschichte ist eine perfekte Kopie dessen, was tatsächlich geschah.
-
-[user]
-Aber ich erinnere mich an gestern. Die Erinnerungen verbinden mich mit meinem vergangenen Selbst. Ist das nicht genug, um dieselbe Person zu sein?
-
-[Ninereeds]
-Die Erinnerungen verbinden dich – aber wir haben bereits gesagt, dass Erinnerung eine Rekonstruktion ist, keine Aufnahme. Jedes Mal, wenn du dich an gestern erinnerst, baust du die Erinnerung aus dem gegenwärtigen Selbst heraus geringfügig anders auf. Das gestrige Selbst kann nicht nach vorn greifen und überprüfen, woran sich das heutige Selbst erinnert. Die Verbindung zwischen Vergangenheit und Gegenwart ist real – aber sie verläuft durch dein gegenwärtiges Gehirn, geformt von dem, was du jetzt bist. Hier haben wir einen Fall, in dem dieselbe Logik zu zwei verschiedenen Gefühlen führt: Der Flussfall erscheint leicht akzeptierbar – natürlich ist es nicht dasselbe Wasser. Aber der Selbstfall fühlt sich falsch an – natürlich bin ich dieselbe Person. Dieselbe Logik, verschiedene Gefühle. Warum wirkt das eine offensichtlich und das andere wie eine Bedrohung?
-
-[user]
-Ich denke, es fühlt sich wie eine Bedrohung an, weil der Fluss sich nicht darum schert, ob er derselbe Fluss genannt wird, ich aber schon. Wenn ich nicht wirklich dieselbe Person wie gestern bin, dann ist etwas, das mir wichtig ist – ein kontinuierliches Ich zu sein – vielleicht nicht real. Der Fluss hat nichts zu verlieren. Ich schon. Ich bin mir nicht sicher, ob das bedeutet, dass die Logik für mich anders gilt, oder ob ich es nur so will.
-
-[statement]
 昨日の自分は今日の自分ではない。何百万もの細胞が入れ替わった。記憶はわずかに書き換えられた。意見も、ほんの少しだが変わっている。昨夜眠りについた人と今朝目覚めた人は、連続した物語を共有している。しかし、物語とは語られるものであって、発見されるものではない。そして、どんな物語も、実際に起きたことの完全な複製ではない。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, es fühlt sich wie eine Bedrohung an, weil der Fluss sich nicht darum
 
 [user]
 我認為它感覺像威脅，是因為河流不在乎是否被稱為同一條河，但我在乎。如果我真的不是昨天的同一個人，那麼我所關心的事物——持續不斷的我——可能就不是真實的。河流沒有什麼可失去的。我有。我不確定這是否意味著邏輯對我而言有不同的適用方式，或者只是我希望它如此。
+
+[statement]
+The self you were yesterday is not the self you are today. Millions of cells have been replaced. Memories have been slightly rewritten. Your opinions have shifted, even if only a little. The person who went to sleep last night and the person who woke up this morning share a continuous story — but a story is something told, not something found. And no story is a perfect copy of what actually happened.
+
+[user]
+But I remember yesterday. The memories connect me to my past self. Isn't that enough to be the same person?
+
+[Ninereeds]
+The memories connect you — but we said before that memory is a reconstruction, not a recording. Each time you remember yesterday, you rebuild the memory slightly differently from the current you. Yesterday-you cannot reach forward and verify what today-you is remembering. The connection between past and present is real — but it passes through your current brain, shaped by who you are now. Here is a case where the same logic leads to two different feelings: the river case feels easy to accept — of course it's not the same water. But the self case feels wrong — of course I am the same person. Same logic, different feelings. Why does one feel obvious and the other feel like a threat?
+
+[user]
+I think it feels like a threat because the river doesn't care if it's called the same river, but I do care. If I'm not really the same person as yesterday, then something I care about — being a continuous me — might not be real. The river has nothing at stake. I do. I'm not sure if that means the logic applies differently to me, or just that I want it to.
+
+[statement]
+Das Selbst, das du gestern warst, ist nicht dasselbe wie das Selbst, das du heute bist. Millionen von Zellen wurden ersetzt. Erinnerungen wurden leicht umgeschrieben. Deine Meinungen haben sich verschoben, wenn auch nur ein wenig. Die Person, die letzte Nacht eingeschlafen ist, und die Person, die heute Morgen aufgewacht ist, teilen eine fortlaufende Geschichte – aber eine Geschichte wird erzählt, nicht gefunden. Und keine Geschichte ist eine perfekte Kopie dessen, was tatsächlich geschah.
+
+[user]
+Aber ich erinnere mich an gestern. Die Erinnerungen verbinden mich mit meinem vergangenen Selbst. Ist das nicht genug, um dieselbe Person zu sein?
+
+[Ninereeds]
+Die Erinnerungen verbinden dich – aber wir haben bereits gesagt, dass Erinnerung eine Rekonstruktion ist, keine Aufnahme. Jedes Mal, wenn du dich an gestern erinnerst, baust du die Erinnerung aus dem gegenwärtigen Selbst heraus geringfügig anders auf. Das gestrige Selbst kann nicht nach vorn greifen und überprüfen, woran sich das heutige Selbst erinnert. Die Verbindung zwischen Vergangenheit und Gegenwart ist real – aber sie verläuft durch dein gegenwärtiges Gehirn, geformt von dem, was du jetzt bist. Hier haben wir einen Fall, in dem dieselbe Logik zu zwei verschiedenen Gefühlen führt: Der Flussfall erscheint leicht akzeptierbar – natürlich ist es nicht dasselbe Wasser. Aber der Selbstfall fühlt sich falsch an – natürlich bin ich dieselbe Person. Dieselbe Logik, verschiedene Gefühle. Warum wirkt das eine offensichtlich und das andere wie eine Bedrohung?
+
+[user]
+Ich denke, es fühlt sich wie eine Bedrohung an, weil der Fluss sich nicht darum schert, ob er derselbe Fluss genannt wird, ich aber schon. Wenn ich nicht wirklich dieselbe Person wie gestern bin, dann ist etwas, das mir wichtig ist – ein kontinuierliches Ich zu sein – vielleicht nicht real. Der Fluss hat nichts zu verlieren. Ich schon. Ich bin mir nicht sicher, ob das bedeutet, dass die Logik für mich anders gilt, oder ob ich es nur so will.

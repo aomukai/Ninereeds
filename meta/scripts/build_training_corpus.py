@@ -59,6 +59,41 @@ def fix_common(text: str) -> tuple[str, bool]:
 # Empty issues_list = OK. Non-empty = structural problem; file will be skipped.
 # ---------------------------------------------------------------------------
 
+def fix_newline_tags(text: str) -> tuple[str, bool]:
+    """Merge tag-only lines with the following content line.
+
+    Fixes education dialogue files where [Ninereeds] or [user] appear alone on
+    a line with content on the next line. Also strips a single leading space
+    after either tag (e.g. '[user] content' → '[user]content').
+    """
+    lines = text.split("\n")
+    result: list[str] = []
+    changed = False
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.strip()
+        if stripped in ("[Ninereeds]", "[user]"):
+            # find the next non-empty line
+            j = i + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            if j < len(lines):
+                result.append(stripped + lines[j].strip())
+                changed = True
+                i = j + 1
+                continue
+        # strip single leading space after tag
+        if line.startswith("[Ninereeds] ") or line.startswith("[user] "):
+            tag_end = line.index("]") + 1
+            result.append(line[:tag_end] + line[tag_end:].lstrip(" "))
+            changed = True
+        else:
+            result.append(line)
+        i += 1
+    return "\n".join(result), changed
+
+
 def fix_extra_ninereeds_tags(text: str) -> tuple[str, bool]:
     """Remove [Ninereeds] prefix from all but the first line of each response block.
 
@@ -95,6 +130,7 @@ def check_phases(text: str) -> tuple[str, list[str]]:
     Auto-fixes: extra [Ninereeds] tags on body lines (every-line-tagged pattern).
     """
     text, _ = fix_common(text)
+    text, _ = fix_newline_tags(text)
     text, _ = fix_extra_ninereeds_tags(text)
     issues: list[str] = []
 
@@ -345,12 +381,14 @@ def infer_checker(path: Path) -> Callable[[str], tuple[str, list[str]]]:
             return check_bridge_file
         if part == "grammar":
             return check_grammar_file
-        if part == "grounded_stories":
+        if part in ("grounded_stories", "vignettes"):
             return check_grounded_story
         if part == "teaching_stories":
             return check_dialogue   # variable pairs (4 langs × 2 turns each)
         if part == "boolean_stories":
             return check_dialogue   # 4-lang Q&A pairs, free-form responses
+        if part == "metalang":
+            return check_dialogue   # variable-pair meta-linguistic dialogues
         if part == "lang":
             return check_lang
         if part in ("wiki", "reasoning"):

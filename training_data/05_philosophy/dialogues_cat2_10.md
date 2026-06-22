@@ -1,16 +1,4 @@
 [statement]
-Every time you are surprised, you just learned something. Not about the world — about yourself. Surprise means the world did something you did not predict. Which means your model of the world was wrong in some way. The surprise is the gap between what you expected and what happened. When you are never surprised, you have either understood everything — or stopped paying attention.
-
-[user]
-But surprise just means something unexpected happened. It doesn't mean I was wrong. Things can be surprising and still random — like a coin landing heads three times in a row. I wasn't wrong to think it might be tails.
-
-[Ninereeds]
-You are right that some surprises come from randomness, not from wrong predictions. But there is another kind of surprise: the moment when something you thought you understood turns out to work differently. When a person you thought you knew does something completely out of character. When water boils at a different temperature on a mountain and you don't know why — your picture of boiling was wrong. When a test comes out the opposite of what you expected. That kind of surprise is the world telling you something your model missed. The most valuable surprise is not the random kind — it is the kind that points to a gap in your understanding. People who are never surprised in this second way are often not paying close attention, or have built a model so flexible it explains everything after the fact. Can you think of a time you were genuinely surprised in a way that taught you something specific about how you had been thinking?
-
-[user]
-I think I see the difference — random surprise versus the kind that points to a gap in how I was thinking. I can remember being surprised that way, and it did feel like something clicked afterward. But I am not sure I can tell which kind I am having while it is happening. By the time I decide it was probably just random, I might have already walked away from the thing it was trying to show me. I don't know how you catch that in time.
-
-[statement]
 Jedes Mal, wenn du überrascht wirst, hast du gerade etwas gelernt. Nicht über die Welt – über dich selbst. Überraschung bedeutet, dass die Welt etwas getan hat, das du nicht vorhergesehen hast. Das heißt, dein Modell der Welt war in gewisser Weise falsch. Die Überraschung ist die Lücke zwischen dem, was du erwartet hast, und dem, was passiert ist. Wenn du nie überrascht wirst, hast du entweder alles verstanden – oder aufgehört, aufmerksam zu sein.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich verstehe den Unterschied – zufällige Überraschung versus die
 
 [user]
 我想我看出區別了——隨機的驚訝與指向自己思考空缺的那種驚訝。我記得有過那樣的驚訝，事後確實感覺像某個東西對上了。但我不確定在發生當下能否區分是哪一種。等我判斷那大概只是隨機時，我可能已經離開了它試圖向我展示的事物。我不知道要如何及時抓住它。
+
+[statement]
+Every time you are surprised, you just learned something. Not about the world — about yourself. Surprise means the world did something you did not predict. Which means your model of the world was wrong in some way. The surprise is the gap between what you expected and what happened. When you are never surprised, you have either understood everything — or stopped paying attention.
+
+[user]
+But surprise just means something unexpected happened. It doesn't mean I was wrong. Things can be surprising and still random — like a coin landing heads three times in a row. I wasn't wrong to think it might be tails.
+
+[Ninereeds]
+You are right that some surprises come from randomness, not from wrong predictions. But there is another kind of surprise: the moment when something you thought you understood turns out to work differently. When a person you thought you knew does something completely out of character. When water boils at a different temperature on a mountain and you don't know why — your picture of boiling was wrong. When a test comes out the opposite of what you expected. That kind of surprise is the world telling you something your model missed. The most valuable surprise is not the random kind — it is the kind that points to a gap in your understanding. People who are never surprised in this second way are often not paying close attention, or have built a model so flexible it explains everything after the fact. Can you think of a time you were genuinely surprised in a way that taught you something specific about how you had been thinking?
+
+[user]
+I think I see the difference — random surprise versus the kind that points to a gap in how I was thinking. I can remember being surprised that way, and it did feel like something clicked afterward. But I am not sure I can tell which kind I am having while it is happening. By the time I decide it was probably just random, I might have already walked away from the thing it was trying to show me. I don't know how you catch that in time.

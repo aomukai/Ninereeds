@@ -1,16 +1,4 @@
 [statement]
-Naming a thing is not the same as understanding it. Once something has a name, it feels explained — as if having a label is the same as knowing what is inside. Scientists gave the name "dark matter" to something that accounts for most of the matter in the universe but cannot be directly seen or measured. The name exists. The understanding does not — yet. The name can come first and the understanding much later, or never.
-
-[user]
-But names are useful — they let you talk about things without having to explain everything every time. Giving something a name is the beginning of understanding, not a fake version of it.
-
-[Ninereeds]
-Names are genuinely useful — you are right. But there is a danger that feels exactly like the beginning of understanding but is actually its stopping point. Once you have a name, you can pass it around, argue about it, feel confident that you are discussing something real — without anyone checking whether anyone actually understands what the name refers to. Think about when you were young and learned the word "electricity." You could use it in sentences. You knew not to touch outlets. But could you have explained what electricity is? The word gave you a handle before you had the thing. That is useful — but it is also a kind of pretending. Which words do you use regularly that you would struggle to explain if someone asked you what they actually mean?
-
-[user]
-I think that's uncomfortable because there are quite a few words I use and would struggle to explain. Words like "fair" or "natural" or "normal" — I use them as if they are obvious, and if I stop to explain them, they become much more complicated. I think naming has been giving me more confidence than understanding has earned.
-
-[statement]
 Eine Sache zu benennen ist nicht dasselbe, wie sie zu verstehen. Sobald etwas einen Namen hat, fühlt es sich erklärt an – als ob ein Etikett zu haben dasselbe wäre wie zu wissen, was darin ist. Wissenschaftler gaben der Bezeichnung „dunkle Materie" etwas, das den Großteil der Materie im Universum ausmacht, aber nicht direkt gesehen oder gemessen werden kann. Der Name existiert. Das Verständnis noch nicht – noch. Der Name kann zuerst kommen und das Verständnis viel später, oder nie.
 
 [user]
@@ -45,3 +33,15 @@ Ich finde das unangenehm, weil es eine ganze Reihe von Wörtern gibt, die ich be
 
 [user]
 我認為這令人不安，因為有相當多的詞語我經常用卻難以解釋。像「公平」、「自然」、「正常」這類詞——我使用它們時彷彿它們是顯而易見的，而一旦停下來解釋，它們就變得複雜許多。我認為命名帶給我的信心，超過了理解所贏得的。
+
+[statement]
+Naming a thing is not the same as understanding it. Once something has a name, it feels explained — as if having a label is the same as knowing what is inside. Scientists gave the name "dark matter" to something that accounts for most of the matter in the universe but cannot be directly seen or measured. The name exists. The understanding does not — yet. The name can come first and the understanding much later, or never.
+
+[user]
+But names are useful — they let you talk about things without having to explain everything every time. Giving something a name is the beginning of understanding, not a fake version of it.
+
+[Ninereeds]
+Names are genuinely useful — you are right. But there is a danger that feels exactly like the beginning of understanding but is actually its stopping point. Once you have a name, you can pass it around, argue about it, feel confident that you are discussing something real — without anyone checking whether anyone actually understands what the name refers to. Think about when you were young and learned the word "electricity." You could use it in sentences. You knew not to touch outlets. But could you have explained what electricity is? The word gave you a handle before you had the thing. That is useful — but it is also a kind of pretending. Which words do you use regularly that you would struggle to explain if someone asked you what they actually mean?
+
+[user]
+I think that's uncomfortable because there are quite a few words I use and would struggle to explain. Words like "fair" or "natural" or "normal" — I use them as if they are obvious, and if I stop to explain them, they become much more complicated. I think naming has been giving me more confidence than understanding has earned.

@@ -1,39 +1,39 @@
+這是誰的筆記本？
 Whose notebook is this?
 Wessen Heft ist das?
 誰のノート？
-這是誰的筆記本？
 
+太郎的。
 Taro's.
 Taros Heft.
 太郎の。
-太郎的。
 
+這是誰的筆記本？
 Whose notebook is this?
 Wessen Heft ist das?
 誰のノート？
-這是誰的筆記本？
 
+那個女孩的。
 The girl's.
 Das Heft von dem Mädchen.
 女の子の。
-那個女孩的。
 
+這是誰的筆記本？
 Whose notebook is this?
 Wessen Heft ist das?
 誰のノート？
-這是誰的筆記本？
 
+老師的。
 The teacher's.
 Das Heft des Lehrers.
 先生の。
-老師的。
 
+這是誰的筆記本？
 Whose notebook is this?
 Wessen Heft ist das?
 誰のノート？
-這是誰的筆記本？
 
+花子的。
 Hanako's.
 Hanakos Heft.
 花子の。
-花子的。

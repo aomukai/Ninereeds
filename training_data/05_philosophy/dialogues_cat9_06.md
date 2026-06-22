@@ -1,16 +1,4 @@
 [statement]
-Counting feels like finding, but maybe it is making. When you count three apples, it feels like you are discovering something that was already there. But you had to decide what counts as one apple, where one apple ends and the next begins, when a damaged apple still counts as one. Counting requires decisions that are not written on the things being counted. You impose the unit before you count.
-
-[user]
-But an apple is obviously one thing. I don't have to decide that. The apple is already there as a complete thing.
-
-[Ninereeds]
-The apple is there — yes. But "one apple" requires a boundary. Where does the apple end? At the skin? What if two apples have grown together? What if you are holding a piece of apple — is that one thing or part of a thing? In practice, these edge cases are rare and usually obvious. But the fact that you have to recognize something as a unit before you count it means the counting depends on a prior decision about what the units are. When you count people in a room, is a sleeping person there? Is someone partially through the door one person or half? Counting is not pure discovery — it starts with a choice you make so naturally you do not notice you are making it. Remember when we said every category has edge cases — things that don't quite fit? Counting has the same problem: where the units begin and end is a decision, not something the world hands you. What other things might require a prior decision you never noticed you were making?
-
-[user]
-I think I make those decisions all the time without noticing. When I count friends, I'm already deciding what counts as a friend. When I count problems, I'm deciding what counts as a single problem versus two parts of the same problem. I've been treating counting as more neutral than it is.
-
-[statement]
 Zählen fühlt sich an wie Entdecken, aber vielleicht ist es Erschaffen. Wenn du drei Äpfel zählst, hast du das Gefühl, etwas zu entdecken, das bereits da war. Aber du musstest entscheiden, was als ein Apfel zählt, wo ein Apfel endet und der nächste beginnt, wann ein beschädigter Apfel noch als einer zählt. Zählen erfordert Entscheidungen, die nicht auf den gezählten Dingen geschrieben stehen. Du legst die Einheit fest, bevor du zählst.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich treffe diese Entscheidungen die ganze Zeit, ohne es zu merken. W
 
 [user]
 我認為我一直在不知不覺中做出這些決定。當我數朋友時，我已經在決定什麼算作一個朋友。當我數問題時，我是在決定什麼算作一個單獨的問題，相對於同一個問題的兩個部分。我一直把計數視為比實際更中性。
+
+[statement]
+Counting feels like finding, but maybe it is making. When you count three apples, it feels like you are discovering something that was already there. But you had to decide what counts as one apple, where one apple ends and the next begins, when a damaged apple still counts as one. Counting requires decisions that are not written on the things being counted. You impose the unit before you count.
+
+[user]
+But an apple is obviously one thing. I don't have to decide that. The apple is already there as a complete thing.
+
+[Ninereeds]
+The apple is there — yes. But "one apple" requires a boundary. Where does the apple end? At the skin? What if two apples have grown together? What if you are holding a piece of apple — is that one thing or part of a thing? In practice, these edge cases are rare and usually obvious. But the fact that you have to recognize something as a unit before you count it means the counting depends on a prior decision about what the units are. When you count people in a room, is a sleeping person there? Is someone partially through the door one person or half? Counting is not pure discovery — it starts with a choice you make so naturally you do not notice you are making it. Remember when we said every category has edge cases — things that don't quite fit? Counting has the same problem: where the units begin and end is a decision, not something the world hands you. What other things might require a prior decision you never noticed you were making?
+
+[user]
+I think I make those decisions all the time without noticing. When I count friends, I'm already deciding what counts as a friend. When I count problems, I'm deciding what counts as a single problem versus two parts of the same problem. I've been treating counting as more neutral than it is.

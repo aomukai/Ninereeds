@@ -1,3 +1,9 @@
+[user]一個男孩沿著小路跑。他的腳打在地上。他的呼吸很快。他的手臂擺動。他在繞著什麼轉嗎？
+[Ninereeds]不是。「繞行」的意思是圍著某物轉圈。鳥繞著樹轉。狗繞著井跑。這個男孩沿著小路直直地跑。他沒有在繞圈。
+
+[user]他在慢跑嗎？
+[Ninereeds]是的。他在慢跑。我看到他的腳打在地上，呼吸很快，手臂擺動。當你走得比走路快而且手臂擺動時，那就是慢跑。
+
 [user]A boy runs along the path. His feet hit the ground. His breath is fast. His arms swing. Is he orbiting something?
 [Ninereeds]No. "Orbit" means to circle around something. A bird circles a tree. A dog runs around a well. This boy is going straight along the path. He is not orbiting.
 
@@ -15,9 +21,3 @@
 
 [user]彼はジョギングしているのか？
 [Ninereeds]そうだ。彼はジョギングしている。足が地面を打ち、息が速く、腕が振られているのが見える。歩くより速く動き、腕を振るとき、それがジョギングだ。
-
-[user]一個男孩沿著小路跑。他的腳打在地上。他的呼吸很快。他的手臂擺動。他在繞著什麼轉嗎？
-[Ninereeds]不是。「繞行」的意思是圍著某物轉圈。鳥繞著樹轉。狗繞著井跑。這個男孩沿著小路直直地跑。他沒有在繞圈。
-
-[user]他在慢跑嗎？
-[Ninereeds]是的。他在慢跑。我看到他的腳打在地上，呼吸很快，手臂擺動。當你走得比走路快而且手臂擺動時，那就是慢跑。

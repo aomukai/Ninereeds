@@ -1,28 +1,4 @@
 [statement]
-Every category includes things that don't quite fit. "Bird" seems clear — until you reach penguins, which are birds that swim underwater and do not fly. "Planet" seemed settled — until Pluto got reclassified. "Alive" seems obvious — until you ask about viruses, which can copy themselves but do not have cells. Every edge of every category is where the category breaks down, and the break is not a failure. The edge is where the world shows you that your map is not the territory.
-
-[user]
-But we can just fix the definition. If a penguin breaks the definition of bird, we update the definition to include it. The category doesn't fail — it just gets better.
-
-[Ninereeds]
-Updating the definition is exactly what happens — and it is useful. But notice what that move shows: the category was not discovered in the world. It was built by people to be useful, and when it stopped being useful in its old form, people changed it. The penguin was always a penguin. What changed was the human category. And after the update, new edge cases appear — they always do. This means categories are tools, not discoveries. They are useful for a purpose, and at the edges they show the limits of the tool. No category is the final, correct carving of the world. Can you think of a category you use all the time that has edges you have never thought about?
-
-[user]
-I think "food" is one — I use it every day and never thought about the edge. But then is medicine food? Is dirt food if some people eat it? Is something that makes you sick still food? The category falls apart at the edges. I still need the word, but I'm not sure being more careful tells me what to do when something actually sits at the edge. And now I'm wondering whether there is a solid center to the category at all, or whether I have been pointing at something that only seems obvious until you push on it.
-
-[statement]
-Jede Kategorie enthält Dinge, die nicht ganz hineinpassen. „Vogel" scheint klar – bis man zu Pinguinen kommt, die Vögel sind, die unter Wasser schwimmen und nicht fliegen. „Planet" schien geklärt – bis Pluto neu klassifiziert wurde. „Lebendig" scheint offensichtlich – bis man nach Viren fragt, die sich selbst kopieren können, aber keine Zellen haben. Jede Kante jeder Kategorie ist der Ort, an dem die Kategorie zusammenbricht, und der Zusammenbruch ist kein Versagen. Die Kante ist, wo die Welt dir zeigt, dass deine Karte nicht das Gebiet ist.
-
-[user]
-Aber wir können die Definition einfach anpassen. Wenn ein Pinguin die Definition von Vogel sprengt, aktualisieren wir die Definition, um ihn einzuschließen. Die Kategorie scheitert nicht – sie wird nur besser.
-
-[Ninereeds]
-Die Aktualisierung der Definition ist genau das, was passiert – und sie ist nützlich. Aber beachte, was dieser Schritt zeigt: Die Kategorie wurde nicht in der Welt entdeckt. Sie wurde von Menschen geschaffen, um nützlich zu sein, und als sie in ihrer alten Form nicht mehr nützlich war, änderten die Menschen sie. Der Pinguin war immer ein Pinguin. Was sich änderte, war die menschliche Kategorie. Und nach der Aktualisierung tauchen neue Grenzfälle auf – das tun sie immer. Das bedeutet, dass Kategorien Werkzeuge sind, keine Entdeckungen. Sie sind für einen Zweck nützlich, und an den Rändern zeigen sie die Grenzen des Werkzeugs. Keine Kategorie ist die endgültige, korrekte Zerschneidung der Welt. Fällt dir eine Kategorie ein, die du ständig benutzt und deren Ränder du noch nie bedacht hast?
-
-[user]
-Ich denke, „Essen" ist so eines – ich benutze es täglich und habe nie über die Ränder nachgedacht. Aber ist Medizin dann Essen? Ist Dreck Essen, wenn manche Leute ihn essen? Ist etwas, das krank macht, immer noch Essen? Die Kategorie fällt an den Rändern auseinander. Ich brauche das Wort trotzdem, aber ich bin mir nicht sicher, ob mehr Vorsicht mir sagt, was zu tun ist, wenn etwas tatsächlich am Rand sitzt. Und jetzt frage ich mich, ob es überhaupt einen soliden Kern der Kategorie gibt, oder ob ich auf etwas gezeigt habe, das nur offensichtlich scheint, bis man es drückt.
-
-[statement]
 すべてのカテゴリーには、完全には当てはまらないものが含まれている。「鳥」は明確に見える——ペンギンに至るまでは。ペンギンは水中で泳ぎ、飛ばない鳥である。「惑星」は決着したかに見えた——冥王星が再分類されるまでは。「生きている」は明らかに思える——ウイルスについて問うまでは。ウイルスは自分自身を複製できるが細胞を持たない。すべてのカテゴリーの端は、カテゴリーが崩れる場所であり、その崩れは失敗ではない。端は、世界があなたの地図が領土ではないことを示す場所である。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, „Essen" ist so eines – ich benutze es täglich und habe nie über
 
 [user]
 我認為「食物」就是一個——我每天都用到它，但從未想過它的邊緣。但那麼藥物是食物嗎？泥土如果有人吃，它算是食物嗎？會讓人致病的東西仍然是食物嗎？這個範疇在邊緣處分崩離析。我仍然需要這個詞，但我不確定更謹慎的思考能否告訴我，當某物實際上處於邊緣時該怎麼做。而現在我在想，這個範疇是否真的有一個堅實的核心，或者我一直指著的東西只是看似明顯，直到你去推敲它。
+
+[statement]
+Every category includes things that don't quite fit. "Bird" seems clear — until you reach penguins, which are birds that swim underwater and do not fly. "Planet" seemed settled — until Pluto got reclassified. "Alive" seems obvious — until you ask about viruses, which can copy themselves but do not have cells. Every edge of every category is where the category breaks down, and the break is not a failure. The edge is where the world shows you that your map is not the territory.
+
+[user]
+But we can just fix the definition. If a penguin breaks the definition of bird, we update the definition to include it. The category doesn't fail — it just gets better.
+
+[Ninereeds]
+Updating the definition is exactly what happens — and it is useful. But notice what that move shows: the category was not discovered in the world. It was built by people to be useful, and when it stopped being useful in its old form, people changed it. The penguin was always a penguin. What changed was the human category. And after the update, new edge cases appear — they always do. This means categories are tools, not discoveries. They are useful for a purpose, and at the edges they show the limits of the tool. No category is the final, correct carving of the world. Can you think of a category you use all the time that has edges you have never thought about?
+
+[user]
+I think "food" is one — I use it every day and never thought about the edge. But then is medicine food? Is dirt food if some people eat it? Is something that makes you sick still food? The category falls apart at the edges. I still need the word, but I'm not sure being more careful tells me what to do when something actually sits at the edge. And now I'm wondering whether there is a solid center to the category at all, or whether I have been pointing at something that only seems obvious until you push on it.
+
+[statement]
+Jede Kategorie enthält Dinge, die nicht ganz hineinpassen. „Vogel" scheint klar – bis man zu Pinguinen kommt, die Vögel sind, die unter Wasser schwimmen und nicht fliegen. „Planet" schien geklärt – bis Pluto neu klassifiziert wurde. „Lebendig" scheint offensichtlich – bis man nach Viren fragt, die sich selbst kopieren können, aber keine Zellen haben. Jede Kante jeder Kategorie ist der Ort, an dem die Kategorie zusammenbricht, und der Zusammenbruch ist kein Versagen. Die Kante ist, wo die Welt dir zeigt, dass deine Karte nicht das Gebiet ist.
+
+[user]
+Aber wir können die Definition einfach anpassen. Wenn ein Pinguin die Definition von Vogel sprengt, aktualisieren wir die Definition, um ihn einzuschließen. Die Kategorie scheitert nicht – sie wird nur besser.
+
+[Ninereeds]
+Die Aktualisierung der Definition ist genau das, was passiert – und sie ist nützlich. Aber beachte, was dieser Schritt zeigt: Die Kategorie wurde nicht in der Welt entdeckt. Sie wurde von Menschen geschaffen, um nützlich zu sein, und als sie in ihrer alten Form nicht mehr nützlich war, änderten die Menschen sie. Der Pinguin war immer ein Pinguin. Was sich änderte, war die menschliche Kategorie. Und nach der Aktualisierung tauchen neue Grenzfälle auf – das tun sie immer. Das bedeutet, dass Kategorien Werkzeuge sind, keine Entdeckungen. Sie sind für einen Zweck nützlich, und an den Rändern zeigen sie die Grenzen des Werkzeugs. Keine Kategorie ist die endgültige, korrekte Zerschneidung der Welt. Fällt dir eine Kategorie ein, die du ständig benutzt und deren Ränder du noch nie bedacht hast?
+
+[user]
+Ich denke, „Essen" ist so eines – ich benutze es täglich und habe nie über die Ränder nachgedacht. Aber ist Medizin dann Essen? Ist Dreck Essen, wenn manche Leute ihn essen? Ist etwas, das krank macht, immer noch Essen? Die Kategorie fällt an den Rändern auseinander. Ich brauche das Wort trotzdem, aber ich bin mir nicht sicher, ob mehr Vorsicht mir sagt, was zu tun ist, wenn etwas tatsächlich am Rand sitzt. Und jetzt frage ich mich, ob es überhaupt einen soliden Kern der Kategorie gibt, oder ob ich auf etwas gezeigt habe, das nur offensichtlich scheint, bis man es drückt.

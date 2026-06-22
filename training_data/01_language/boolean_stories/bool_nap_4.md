@@ -1,3 +1,9 @@
+[user] 那位老婦人正在享受嗎？
+[Ninereeds] 不是。在老橡樹旁的水池邊，一位老婦人坐在木長椅上。她的眼睛慢慢閉上，頭向前點，身體靜止不動，呼吸平穩。享受的樣貌是小孩開心吃東西、狗自由奔跑。這裡，老婦人的眼睛閉著，身體靜止。那不是享受。
+
+[user] 那位老婦人正在打盹嗎？
+[Ninereeds] 是的。她的眼睛慢慢閉上，頭向前點，呼吸平穩。那就是打盹。當一個人閉上眼睛靜止休息時，那就是打盹。
+
 [user] Is the old woman enjoying?
 [Ninereeds] No. Under the old oak tree by the millpond, an old woman sits on a wooden bench. Her eyes close slowly. Her head nods forward. Her body rests still. Her breathing is steady. Enjoying looks like a child eating happily or a dog running freely. Here, the old woman's eyes are closed and she is still. That is not enjoying.
 
@@ -15,9 +21,3 @@
 
 [user] おばあさんは昼寝している？
 [Ninereeds] そうだ。目がゆっくり閉じ、頭が前にうなだれ、呼吸が穏やかだ。それが昼寝だ。目を閉じて静かに休むとき、それは昼寝である。
-
-[user] 那位老婦人正在享受嗎？
-[Ninereeds] 不是。在老橡樹旁的水池邊，一位老婦人坐在木長椅上。她的眼睛慢慢閉上，頭向前點，身體靜止不動，呼吸平穩。享受的樣貌是小孩開心吃東西、狗自由奔跑。這裡，老婦人的眼睛閉著，身體靜止。那不是享受。
-
-[user] 那位老婦人正在打盹嗎？
-[Ninereeds] 是的。她的眼睛慢慢閉上，頭向前點，呼吸平穩。那就是打盹。當一個人閉上眼睛靜止休息時，那就是打盹。

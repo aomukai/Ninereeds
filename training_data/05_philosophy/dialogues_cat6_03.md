@@ -1,28 +1,4 @@
 [statement]
-The same event can have many true explanations. Why did this business succeed? Because of good timing. Because of good leadership. Because of luck. Because the competition failed. Because the team worked well together. All of these can be true at once. This means explanation is not a single answer to a question — it is a choice of which angle to stand at when you look at something that has many faces.
-
-[user]
-But some explanations are better than others. If the business succeeded because of good leadership, saying it was just luck is wrong — or at least incomplete.
-
-[Ninereeds]
-Better and worse explanations exist — you are right. Some capture more of what was happening. Some are more useful for predicting what to do next time. But "better" depends on what the explanation is for. If you are training the next generation of leaders, leadership matters. If you are thinking about which new businesses to invest in, luck and timing may matter more. If you are studying markets, competition matters most. The explanation that is best for one purpose may be less useful for another. This is not relativism — it is recognizing that explanation is a tool, and different tools suit different jobs. The mistake is thinking there is one complete explanation that renders all the others unnecessary. Can you think of an explanation you have been giving for something in your own life that might be covering up a truer one?
-
-[user]
-I think I have explanations for why certain things in my life have gone well or badly, and some of them are probably the version that's most comfortable rather than most accurate. I tell myself I succeeded because I worked hard — which is true — but luck probably mattered more than I like to think. The luck version doesn't feel as much like something I can use, so I don't tell it to myself.
-
-[statement]
-Dasselbe Ereignis kann viele wahre Erklärungen haben. Warum war dieses Unternehmen erfolgreich? Wegen des richtigen Zeitpunkts. Wegen guter Führung. Wegen Glück. Weil die Konkurrenz versagte. Weil das Team gut zusammenarbeitete. All dies kann gleichzeitig wahr sein. Das bedeutet, dass eine Erklärung nicht eine einzige Antwort auf eine Frage ist – sie ist eine Wahl, aus welchem Blickwinkel man etwas betrachtet, das viele Gesichter hat.
-
-[user]
-Aber manche Erklärungen sind besser als andere. Wenn das Unternehmen wegen guter Führung erfolgreich war, ist es falsch zu sagen, es sei nur Glück gewesen – oder zumindest unvollständig.
-
-[Ninereeds]
-Es gibt bessere und schlechtere Erklärungen – da hast du recht. Manche erfassen mehr von dem, was geschah. Manche sind nützlicher, um vorherzusagen, was man beim nächsten Mal tun sollte. Aber "besser" hängt davon ab, wofür die Erklärung gedacht ist. Wenn du die nächste Generation von Führungskräften ausbildest, ist Führung wichtig. Wenn du überlegst, in welche neuen Unternehmen du investieren sollst, können Glück und Timing wichtiger sein. Wenn du Märkte untersuchst, ist der Wettbewerb am wichtigsten. Die Erklärung, die für einen Zweck am besten ist, kann für einen anderen weniger nützlich sein. Das ist nicht Relativismus – es ist die Erkenntnis, dass Erklärung ein Werkzeug ist und verschiedene Werkzeuge für verschiedene Aufgaben geeignet sind. Der Fehler liegt darin zu denken, es gäbe eine vollständige Erklärung, die alle anderen überflüssig macht. Fällt dir eine Erklärung ein, die du für etwas in deinem eigenen Leben gegeben hast und die vielleicht eine wahrere verdeckt?
-
-[user]
-Ich glaube, ich habe Erklärungen dafür, warum bestimmte Dinge in meinem Leben gut oder schlecht gelaufen sind, und einige davon sind wahrscheinlich die Version, die am angenehmsten ist, nicht die genaueste. Ich sage mir, ich hatte Erfolg, weil ich hart gearbeitet habe – das stimmt – aber Glück hat wahrscheinlich mehr bedeutet, als ich zugeben mag. Die Glücks-Version fühlt sich nicht so an, als könnte ich sie nutzen, also erzähle ich sie mir nicht.
-
-[statement]
 同じ出来事には多くの真の説明があり得る。なぜこの事業は成功したのか？良いタイミングのため。良いリーダーシップのため。運のため。競合他社が失敗したため。チームがうまく連携したため。これらすべてが同時に真であり得る。つまり、説明とは一つの質問に対する単一の答えではなく、多くの側面を持つものを見る際にどの角度に立つかの選択である。
 
 [user]
@@ -45,3 +21,27 @@ Ich glaube, ich habe Erklärungen dafür, warum bestimmte Dinge in meinem Leben 
 
 [user]
 我想我對自己生活中某些事情為何順利或不順利有一些解釋，其中一些可能是最舒適而非最準確的版本。我告訴自己，我成功是因為我努力——這是事實——但運氣可能比我所願意認為的更為重要。運氣的版本感覺不像是我能利用的東西，所以我不對自己說。
+
+[statement]
+The same event can have many true explanations. Why did this business succeed? Because of good timing. Because of good leadership. Because of luck. Because the competition failed. Because the team worked well together. All of these can be true at once. This means explanation is not a single answer to a question — it is a choice of which angle to stand at when you look at something that has many faces.
+
+[user]
+But some explanations are better than others. If the business succeeded because of good leadership, saying it was just luck is wrong — or at least incomplete.
+
+[Ninereeds]
+Better and worse explanations exist — you are right. Some capture more of what was happening. Some are more useful for predicting what to do next time. But "better" depends on what the explanation is for. If you are training the next generation of leaders, leadership matters. If you are thinking about which new businesses to invest in, luck and timing may matter more. If you are studying markets, competition matters most. The explanation that is best for one purpose may be less useful for another. This is not relativism — it is recognizing that explanation is a tool, and different tools suit different jobs. The mistake is thinking there is one complete explanation that renders all the others unnecessary. Can you think of an explanation you have been giving for something in your own life that might be covering up a truer one?
+
+[user]
+I think I have explanations for why certain things in my life have gone well or badly, and some of them are probably the version that's most comfortable rather than most accurate. I tell myself I succeeded because I worked hard — which is true — but luck probably mattered more than I like to think. The luck version doesn't feel as much like something I can use, so I don't tell it to myself.
+
+[statement]
+Dasselbe Ereignis kann viele wahre Erklärungen haben. Warum war dieses Unternehmen erfolgreich? Wegen des richtigen Zeitpunkts. Wegen guter Führung. Wegen Glück. Weil die Konkurrenz versagte. Weil das Team gut zusammenarbeitete. All dies kann gleichzeitig wahr sein. Das bedeutet, dass eine Erklärung nicht eine einzige Antwort auf eine Frage ist – sie ist eine Wahl, aus welchem Blickwinkel man etwas betrachtet, das viele Gesichter hat.
+
+[user]
+Aber manche Erklärungen sind besser als andere. Wenn das Unternehmen wegen guter Führung erfolgreich war, ist es falsch zu sagen, es sei nur Glück gewesen – oder zumindest unvollständig.
+
+[Ninereeds]
+Es gibt bessere und schlechtere Erklärungen – da hast du recht. Manche erfassen mehr von dem, was geschah. Manche sind nützlicher, um vorherzusagen, was man beim nächsten Mal tun sollte. Aber "besser" hängt davon ab, wofür die Erklärung gedacht ist. Wenn du die nächste Generation von Führungskräften ausbildest, ist Führung wichtig. Wenn du überlegst, in welche neuen Unternehmen du investieren sollst, können Glück und Timing wichtiger sein. Wenn du Märkte untersuchst, ist der Wettbewerb am wichtigsten. Die Erklärung, die für einen Zweck am besten ist, kann für einen anderen weniger nützlich sein. Das ist nicht Relativismus – es ist die Erkenntnis, dass Erklärung ein Werkzeug ist und verschiedene Werkzeuge für verschiedene Aufgaben geeignet sind. Der Fehler liegt darin zu denken, es gäbe eine vollständige Erklärung, die alle anderen überflüssig macht. Fällt dir eine Erklärung ein, die du für etwas in deinem eigenen Leben gegeben hast und die vielleicht eine wahrere verdeckt?
+
+[user]
+Ich glaube, ich habe Erklärungen dafür, warum bestimmte Dinge in meinem Leben gut oder schlecht gelaufen sind, und einige davon sind wahrscheinlich die Version, die am angenehmsten ist, nicht die genaueste. Ich sage mir, ich hatte Erfolg, weil ich hart gearbeitet habe – das stimmt – aber Glück hat wahrscheinlich mehr bedeutet, als ich zugeben mag. Die Glücks-Version fühlt sich nicht so an, als könnte ich sie nutzen, also erzähle ich sie mir nicht.

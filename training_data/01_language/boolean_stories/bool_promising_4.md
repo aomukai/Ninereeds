@@ -1,3 +1,9 @@
+[user]孩子是在凝視嗎？
+[Ninereeds]不是。凝視是指眼睛固定在地平線，頭慢慢轉動，靜止站立。但孩子看到雨後花園裡的種子迅速發芽，露出了明亮的笑容。那不是凝視。
+
+[user]孩子是有希望的嗎？
+[Ninereeds]是的。孩子露出了明亮的笑容，而明亮的笑容是有希望的徵兆。有希望意味著顯示出好的跡象，例如雨後天空轉晴、種子迅速發芽、狗搖尾巴或孩子燦爛的笑容。
+
 [user]Is the child gazing?
 [Ninereeds]No. Gazing means eyes fixed on the horizon, head turning slowly, standing still. But the child smiled brightly at the garden where seeds had sprouted quickly after the rain. That is not gazing.
 
@@ -15,9 +21,3 @@
 
 [user]子供は有望か？
 [Ninereeds]そうだ。子供は明るく笑った。明るい笑顔は有望のしるしだ。有望とは、雨の後に空が晴れる、種が早く芽吹く、犬が尾を振る、子供が明るく笑うなど、良い兆しを示すことだ。
-
-[user]孩子是在凝視嗎？
-[Ninereeds]不是。凝視是指眼睛固定在地平線，頭慢慢轉動，靜止站立。但孩子看到雨後花園裡的種子迅速發芽，露出了明亮的笑容。那不是凝視。
-
-[user]孩子是有希望的嗎？
-[Ninereeds]是的。孩子露出了明亮的笑容，而明亮的笑容是有希望的徵兆。有希望意味著顯示出好的跡象，例如雨後天空轉晴、種子迅速發芽、狗搖尾巴或孩子燦爛的笑容。

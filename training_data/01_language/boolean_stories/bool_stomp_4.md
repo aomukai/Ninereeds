@@ -1,3 +1,9 @@
+[user]那個孩子被困住了嗎？
+[Ninereeds]不是。被困住的意思是腿卡在洞裡，或是鳥關在籠子裡。但這裡孩子的腳可以自由移動，而且用力踩在地上。他並沒有被困住。
+
+[user]那個孩子正在跺腳嗎？
+[Ninereeds]是的。那個孩子正在跺腳。他的腳用力踩地，發出很大的聲響，還揚起灰塵。這就是跺腳的樣子。
+
 [user]Is the child trapped?
 [Ninereeds]No. Trapped would mean something like a leg stuck in a hole or a bird in a closed cage. But here the child’s feet are moving freely and hitting the ground hard. He is not trapped.
 
@@ -15,9 +21,3 @@
 
 [user]子供は踏みつけているのか？
 [Ninereeds]そうだ。子供は踏みつけている。足が地面に当たり、大きな音を立て、ほこりを上げている。それが踏みつけるという姿だ。
-
-[user]那個孩子被困住了嗎？
-[Ninereeds]不是。被困住的意思是腿卡在洞裡，或是鳥關在籠子裡。但這裡孩子的腳可以自由移動，而且用力踩在地上。他並沒有被困住。
-
-[user]那個孩子正在跺腳嗎？
-[Ninereeds]是的。那個孩子正在跺腳。他的腳用力踩地，發出很大的聲響，還揚起灰塵。這就是跺腳的樣子。

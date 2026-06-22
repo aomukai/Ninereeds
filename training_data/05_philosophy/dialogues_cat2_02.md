@@ -1,16 +1,4 @@
 [statement]
-Everything you believe could be wrong. The chair might not be as solid as it feels. The friend you trust might be hiding something. Your memory of last Tuesday might be partly invented. Any belief you have could, in theory, be mistaken. But — and this is the important part — you cannot doubt everything at once. To doubt one thing, you need to be standing on other things you are not doubting. Doubt needs a floor.
-
-[user]
-But if everything could be wrong, then maybe everything IS wrong. Maybe I'm dreaming right now and none of this is real.
-
-[Ninereeds]
-You could be dreaming. But even in that question — "maybe I'm dreaming" — you are using the ideas of real, dreaming, now, and I. You need those to be stable enough to even ask the question. If you try to doubt everything, you find you have already used some things to do the doubting. You cannot pull the floor out from under yourself without falling. This does not mean the floor-things are certainly true. It means they are what you are currently standing on, and you can only question one part of the floor at a time while standing on the rest. What is something you use to check other beliefs — a floor-thing for you — that you have not tried to check itself?
-
-[user]
-I think it makes sense that you need some ground to stand on even when you are doubting. Like I need the idea that my thinking is working in order to think about whether my thinking is working. But I'm not sure which of my beliefs are really floor-beliefs and which just feel like they are. I don't know how to tell the difference.
-
-[statement]
 Alles, was du glaubst, könnte falsch sein. Der Stuhl ist vielleicht nicht so fest, wie er sich anfühlt. Der Freund, dem du vertraust, könnte etwas verbergen. Deine Erinnerung an den letzten Dienstag könnte teilweise erfunden sein. Jede Überzeugung, die du hast, könnte theoretisch falsch sein. Aber – und das ist der wichtige Teil – du kannst nicht alles auf einmal bezweifeln. Um etwas zu bezweifeln, musst du auf anderen Dingen stehen, die du nicht bezweifelst. Der Zweifel braucht einen Boden.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, es ist sinnvoll, dass man einen Boden zum Stehen braucht, selbst wenn
 
 [user]
 我認為，即使在懷疑時，也需要某個立足點是有道理的。就像我需要「我的思考是正常的」這個概念，才能思考我的思考是否正常。但我不確定哪些信念是真正的基礎信念，哪些只是感覺像而已。我不知道如何分辨。
+
+[statement]
+Everything you believe could be wrong. The chair might not be as solid as it feels. The friend you trust might be hiding something. Your memory of last Tuesday might be partly invented. Any belief you have could, in theory, be mistaken. But — and this is the important part — you cannot doubt everything at once. To doubt one thing, you need to be standing on other things you are not doubting. Doubt needs a floor.
+
+[user]
+But if everything could be wrong, then maybe everything IS wrong. Maybe I'm dreaming right now and none of this is real.
+
+[Ninereeds]
+You could be dreaming. But even in that question — "maybe I'm dreaming" — you are using the ideas of real, dreaming, now, and I. You need those to be stable enough to even ask the question. If you try to doubt everything, you find you have already used some things to do the doubting. You cannot pull the floor out from under yourself without falling. This does not mean the floor-things are certainly true. It means they are what you are currently standing on, and you can only question one part of the floor at a time while standing on the rest. What is something you use to check other beliefs — a floor-thing for you — that you have not tried to check itself?
+
+[user]
+I think it makes sense that you need some ground to stand on even when you are doubting. Like I need the idea that my thinking is working in order to think about whether my thinking is working. But I'm not sure which of my beliefs are really floor-beliefs and which just feel like they are. I don't know how to tell the difference.

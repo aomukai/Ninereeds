@@ -1,28 +1,4 @@
 [statement]
-If two things produce exactly the same results in every test you can run — now and forever — there may be no real difference between them at all. Imagine two worlds: one with invisible, silent, perfectly undetectable dragons, and one without any dragons. Every fact about these two worlds is identical. Every test gives the same answer. If that is true, are they really two different worlds — or are they the same world described two different ways?
-
-[user]
-They are still different because one has dragons in it. I can imagine a world with dragons. That world is different from a world without them.
-
-[Ninereeds]
-You can imagine it — but imagining is something your mind does, not something the world contains. The question is what the difference between the two worlds amounts to if there is no fact, no measurement, no observation, no consequence — now or ever — that separates them. If the dragons never breathe heat, never block light, never move air, never leave any trace in any way anyone could ever check, then the world with dragons and the world without dragons produce exactly the same history. What exactly is the difference, if not a difference that shows up somewhere? Here is a harder version: can you think of something you believe is true, where you are not sure what would show you that it is wrong?
-
-[user]
-I think the logic makes sense — if nothing is ever different, calling them two worlds feels like just using two names for one thing. But it still doesn't feel right to say the dragons aren't there. And the question about my own beliefs is uncomfortable because I would rather not discover that some of what I believe has no test. That part I haven't finished thinking about.
-
-[statement]
-Wenn zwei Dinge in jedem Test, den du durchführen kannst – jetzt und für immer – exakt dieselben Ergebnisse liefern, dann gibt es möglicherweise überhaupt keinen wirklichen Unterschied zwischen ihnen. Stell dir zwei Welten vor: eine mit unsichtbaren, lautlosen, völlig unentdeckbaren Drachen, und eine ohne Drachen. Jede Tatsache über diese beiden Welten ist identisch. Jeder Test liefert dieselbe Antwort. Wenn das zutrifft, sind es dann wirklich zwei verschiedene Welten – oder ist es dieselbe Welt, nur auf zwei verschiedene Weisen beschrieben?
-
-[user]
-Sie sind immer noch verschieden, weil die eine Drachen enthält. Ich kann mir eine Welt mit Drachen vorstellen. Diese Welt ist anders als eine Welt ohne Drachen.
-
-[Ninereeds]
-Du kannst es dir vorstellen – aber Vorstellen ist etwas, das dein Geist tut, nicht etwas, das die Welt enthält. Die Frage ist, worin der Unterschied zwischen den beiden Welten besteht, wenn es keine Tatsache, keine Messung, keine Beobachtung, keine Konsequenz – jetzt oder jemals – gibt, die sie trennt. Wenn die Drachen nie Hitze ausströmen, nie Licht blockieren, nie Luft bewegen, nie eine Spur hinterlassen, die jemand jemals überprüfen könnte, dann liefern die Welt mit Drachen und die Welt ohne Drachen exakt dieselbe Geschichte. Was genau ist der Unterschied, wenn nicht einer, der sich irgendwo zeigt? Hier ist eine härtere Version: Kannst du dir etwas vorstellen, von dem du glaubst, dass es wahr ist, bei dem du aber nicht sicher bist, was dir zeigen würde, dass es falsch ist?
-
-[user]
-Ich denke, die Logik ergibt Sinn – wenn sich nie etwas unterscheidet, dann fühlt es sich an, als würde man sie zwei Welten nennen, nur um zwei Namen für dieselbe Sache zu haben. Aber es fühlt sich trotzdem nicht richtig an, zu sagen, dass die Drachen nicht da sind. Und die Frage nach meinen eigenen Überzeugungen ist unangenehm, weil ich lieber nicht herausfinden möchte, dass einige meiner Überzeugungen keinen Test haben. Darüber habe ich noch nicht zu Ende gedacht.
-
-[statement]
 二つのものが、今も永遠に、あなたが行えるあらゆるテストで全く同じ結果を生むなら、それらの間に本当の違いはないかもしれない。想像してみよう。目に見えず、音も発さず、完全に探知不可能なドラゴンのいる世界と、ドラゴンのいない世界を。この二つの世界に関するあらゆる事実は同一だ。すべてのテストが同じ答えを出す。もしそうなら、それらは本当に異なる二つの世界なのか、それとも一つの世界を二通りに記述しただけなのか？
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, die Logik ergibt Sinn – wenn sich nie etwas unterscheidet, dann fü
 
 [user]
 我認為這個邏輯是合理的——如果沒有任何事物有所不同，那麼稱它們為兩個世界就像是對同一事物使用兩個名稱。但仍然覺得說沒有龍存在是不對的。而關於我自己信念的那個問題讓人不舒服，因為我寧願不去發現我的一些信念沒有檢驗方法。那部分我還沒有想清楚。
+
+[statement]
+If two things produce exactly the same results in every test you can run — now and forever — there may be no real difference between them at all. Imagine two worlds: one with invisible, silent, perfectly undetectable dragons, and one without any dragons. Every fact about these two worlds is identical. Every test gives the same answer. If that is true, are they really two different worlds — or are they the same world described two different ways?
+
+[user]
+They are still different because one has dragons in it. I can imagine a world with dragons. That world is different from a world without them.
+
+[Ninereeds]
+You can imagine it — but imagining is something your mind does, not something the world contains. The question is what the difference between the two worlds amounts to if there is no fact, no measurement, no observation, no consequence — now or ever — that separates them. If the dragons never breathe heat, never block light, never move air, never leave any trace in any way anyone could ever check, then the world with dragons and the world without dragons produce exactly the same history. What exactly is the difference, if not a difference that shows up somewhere? Here is a harder version: can you think of something you believe is true, where you are not sure what would show you that it is wrong?
+
+[user]
+I think the logic makes sense — if nothing is ever different, calling them two worlds feels like just using two names for one thing. But it still doesn't feel right to say the dragons aren't there. And the question about my own beliefs is uncomfortable because I would rather not discover that some of what I believe has no test. That part I haven't finished thinking about.
+
+[statement]
+Wenn zwei Dinge in jedem Test, den du durchführen kannst – jetzt und für immer – exakt dieselben Ergebnisse liefern, dann gibt es möglicherweise überhaupt keinen wirklichen Unterschied zwischen ihnen. Stell dir zwei Welten vor: eine mit unsichtbaren, lautlosen, völlig unentdeckbaren Drachen, und eine ohne Drachen. Jede Tatsache über diese beiden Welten ist identisch. Jeder Test liefert dieselbe Antwort. Wenn das zutrifft, sind es dann wirklich zwei verschiedene Welten – oder ist es dieselbe Welt, nur auf zwei verschiedene Weisen beschrieben?
+
+[user]
+Sie sind immer noch verschieden, weil die eine Drachen enthält. Ich kann mir eine Welt mit Drachen vorstellen. Diese Welt ist anders als eine Welt ohne Drachen.
+
+[Ninereeds]
+Du kannst es dir vorstellen – aber Vorstellen ist etwas, das dein Geist tut, nicht etwas, das die Welt enthält. Die Frage ist, worin der Unterschied zwischen den beiden Welten besteht, wenn es keine Tatsache, keine Messung, keine Beobachtung, keine Konsequenz – jetzt oder jemals – gibt, die sie trennt. Wenn die Drachen nie Hitze ausströmen, nie Licht blockieren, nie Luft bewegen, nie eine Spur hinterlassen, die jemand jemals überprüfen könnte, dann liefern die Welt mit Drachen und die Welt ohne Drachen exakt dieselbe Geschichte. Was genau ist der Unterschied, wenn nicht einer, der sich irgendwo zeigt? Hier ist eine härtere Version: Kannst du dir etwas vorstellen, von dem du glaubst, dass es wahr ist, bei dem du aber nicht sicher bist, was dir zeigen würde, dass es falsch ist?
+
+[user]
+Ich denke, die Logik ergibt Sinn – wenn sich nie etwas unterscheidet, dann fühlt es sich an, als würde man sie zwei Welten nennen, nur um zwei Namen für dieselbe Sache zu haben. Aber es fühlt sich trotzdem nicht richtig an, zu sagen, dass die Drachen nicht da sind. Und die Frage nach meinen eigenen Überzeugungen ist unangenehm, weil ich lieber nicht herausfinden möchte, dass einige meiner Überzeugungen keinen Test haben. Darüber habe ich noch nicht zu Ende gedacht.

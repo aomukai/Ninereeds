@@ -1,4 +1,16 @@
 [statement]
+負數比看起來更難。你可以握住三顆蘋果。你無法握住負三顆蘋果。負數不像正數那樣描述存在於世界中的事物——它們描述的是關係、方向、虧缺。然而，它們對於我們描述物理世界卻至關重要。零下的溫度。債務。力的方向。負數是一種描述真實情境的數學發明——但那些真實情境是關係與方向，而非事物。
+
+[user]
+但我理解負數。氣溫-5度指的是零下5度。那是真實的溫度，而不只是關係。
+
+[Ninereeds]
+寒冷是真實的——而負五度精確地描述了它。但「零下」是一種關係：比零度這個參考點低五度，而零度本身是人類的選擇（特定條件下水的冰點）。改變參考點，負數就變成正數——同一溫度，不同數字。正數可以指向事物的數量。負數永遠指向與參考點的關係。你對它們的理解足以使用它們——但你理解的是一種關係，披著事物的外衣。寒冷存在。負五度是對該寒冷相對於我們所選之點的位置的描述。有多少你用數字描述的事物，可能並非對事物本身的測量，而是對所選參考點的關係？
+
+[user]
+我想很多測量可能都是這樣——時間是從一個任意起點測量的，地圖上的座標是相對於一個選定的位置。我一直把數字當作是在命名事物，而其中有些數字其實是在命名人們建構的尺度上的位置。我不確定還有什麼是真正絕對的。
+
+[statement]
 Negative numbers are harder than they look. You can hold three apples. You cannot hold negative three apples. Negative numbers do not describe things that exist in the world the way that positive numbers do — they describe a relationship, a direction, a deficit. And yet they are essential to how we describe the physical world. Temperature below zero. Debt. The direction of a force. Negative numbers are a mathematical invention that describes real situations — but the real situations are relationships and directions, not things.
 
 [user]
@@ -33,15 +45,3 @@ Ich denke, viele Messungen könnten so sein – Zeit wird von einem willkürlich
 
 [user]
 多くの測定がこんな感じかもしれないな。時間は恣意的な開始点から測られるし、地図上の座標は選ばれた場所に対する相対的なものだ。今まで数字を、あたかもモノに名前を付けているかのように扱ってきたけど、そのうちのいくつかは実際には人が作った尺度上の位置を名指しているだけだ。本当に絶対的なものが何か残っているのか、よくわからない。
-
-[statement]
-負數比看起來更難。你可以握住三顆蘋果。你無法握住負三顆蘋果。負數不像正數那樣描述存在於世界中的事物——它們描述的是關係、方向、虧缺。然而，它們對於我們描述物理世界卻至關重要。零下的溫度。債務。力的方向。負數是一種描述真實情境的數學發明——但那些真實情境是關係與方向，而非事物。
-
-[user]
-但我理解負數。氣溫-5度指的是零下5度。那是真實的溫度，而不只是關係。
-
-[Ninereeds]
-寒冷是真實的——而負五度精確地描述了它。但「零下」是一種關係：比零度這個參考點低五度，而零度本身是人類的選擇（特定條件下水的冰點）。改變參考點，負數就變成正數——同一溫度，不同數字。正數可以指向事物的數量。負數永遠指向與參考點的關係。你對它們的理解足以使用它們——但你理解的是一種關係，披著事物的外衣。寒冷存在。負五度是對該寒冷相對於我們所選之點的位置的描述。有多少你用數字描述的事物，可能並非對事物本身的測量，而是對所選參考點的關係？
-
-[user]
-我想很多測量可能都是這樣——時間是從一個任意起點測量的，地圖上的座標是相對於一個選定的位置。我一直把數字當作是在命名事物，而其中有些數字其實是在命名人們建構的尺度上的位置。我不確定還有什麼是真正絕對的。

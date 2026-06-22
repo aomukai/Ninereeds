@@ -1,19 +1,19 @@
+yī kuài mùbǎn
 one plank
 ein Brett
 ita ga ichimai
-yī kuài mùbǎn
 
+liǎng kuài mùbǎn
 two planks
 zwei Bretter
 ita ga nimai
-liǎng kuài mùbǎn
 
+Mùjiang bān le yī kuài mùbǎn.
 The carpenter carried a plank.
 Der Zimmermann hat ein Brett getragen.
 Daiku ga ita o ichimai hakonda.
-Mùjiang bān le yī kuài mùbǎn.
 
+Mùbǎn zài dìbǎnshàng.
 The planks are on the floor.
 Die Bretter liegen auf dem Boden.
 Ita ga nimai yuka no ue ni aru.
-Mùbǎn zài dìbǎnshàng.

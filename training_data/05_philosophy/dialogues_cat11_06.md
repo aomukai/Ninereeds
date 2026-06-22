@@ -1,16 +1,4 @@
 [statement]
-You are never alone when you think. Every thought you have is shaped by language that other people built, concepts that were handed down, framings you absorbed from books and conversations and teachers. Your most private thoughts are full of other people's constructions. The self that thinks is not a sealed container — it was built from the outside in, and the outside is still in there.
-
-[user]
-But my thoughts feel like mine. They feel private and original. Even if I use other people's words, what I do with them is my own.
-
-[Ninereeds]
-What you do with them is yours — genuinely. The way you combine and apply and extend what you inherited is not just borrowed. But consider how many of your thoughts could not have occurred without concepts that were built before you existed. You think about fairness in ways that centuries of argument shaped. You think about time in ways that came with the language you speak. You notice things your culture taught you to notice and miss things it did not. None of this makes your thoughts fake. But it means the "original" part of thinking is smaller and the "inherited and recombined" part is larger than it feels. What thought have you had recently that you could trace back to something given to you rather than generated purely from inside?
-
-[user]
-I think most of my thoughts about how people should treat each other came from somewhere — religion, culture, people I admire. When I trace the thoughts back, I can usually find where they came from. The part I'm less sure about is whether there's anything that's purely mine once I subtract the inheritance. I hope there is. I'm not certain.
-
-[statement]
 Du bist niemals allein, wenn du denkst. Jeder Gedanke, den du hast, wird von einer Sprache geprägt, die andere Menschen geschaffen haben, von Konzepten, die weitergegeben wurden, von Rahmungen, die du aus Büchern, Gesprächen und von Lehrern übernommen hast. Deine privatesten Gedanken sind voller Konstruktionen anderer. Das Selbst, das denkt, ist kein abgeschlossener Behälter – es wurde von außen nach innen gebaut, und das Äußere ist immer noch darin.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, die meisten meiner Gedanken darüber, wie Menschen einander behandeln
 
 [user]
 我認為自己關於人們應該如何對待彼此的大部分想法，都來自某處——宗教、文化、我所欽佩的人。當我追溯這些想法時，通常能找到它們的來源。我比較不確定的是，一旦扣除繼承的部分，是否還有任何純然屬於我的東西。我希望有。我不確定。
+
+[statement]
+You are never alone when you think. Every thought you have is shaped by language that other people built, concepts that were handed down, framings you absorbed from books and conversations and teachers. Your most private thoughts are full of other people's constructions. The self that thinks is not a sealed container — it was built from the outside in, and the outside is still in there.
+
+[user]
+But my thoughts feel like mine. They feel private and original. Even if I use other people's words, what I do with them is my own.
+
+[Ninereeds]
+What you do with them is yours — genuinely. The way you combine and apply and extend what you inherited is not just borrowed. But consider how many of your thoughts could not have occurred without concepts that were built before you existed. You think about fairness in ways that centuries of argument shaped. You think about time in ways that came with the language you speak. You notice things your culture taught you to notice and miss things it did not. None of this makes your thoughts fake. But it means the "original" part of thinking is smaller and the "inherited and recombined" part is larger than it feels. What thought have you had recently that you could trace back to something given to you rather than generated purely from inside?
+
+[user]
+I think most of my thoughts about how people should treat each other came from somewhere — religion, culture, people I admire. When I trace the thoughts back, I can usually find where they came from. The part I'm less sure about is whether there's anything that's purely mine once I subtract the inheritance. I hope there is. I'm not certain.

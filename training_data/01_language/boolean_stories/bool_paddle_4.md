@@ -1,3 +1,9 @@
+[user] 我看到一個孩子坐在磨坊池塘邊，拿著一把木槳。她將木槳推入水中，產生小波浪，使小船向前移動。這是陷阱嗎？
+[Ninereeds] 不是。陷阱會是樹葉覆蓋的洞或從上方落下的網。這裡我們看到的是手中的木製工具在推水，不是陷阱。
+
+[user] 這是槳嗎？
+[Ninereeds] 是的。這是槳。它推水並移動船。當你看到木製工具製造波浪時，那就是槳。
+
 [user] I see a child by the millpond holding a wooden paddle. She pushes it through the water, making small waves that move the boat forward. Is this a trap?
 [Ninereeds] No. A trap would be a hole covered with leaves or a net falling from above. Here we have a wooden tool in hands pushing through water, not a trap.
 
@@ -15,9 +21,3 @@
 
 [user] これはパドルか？
 [Ninereeds] そうだ。パドルだ。水を押し、ボートを動かす。木の道具が波を作るなら、それはパドルだ。
-
-[user] 我看到一個孩子坐在磨坊池塘邊，拿著一把木槳。她將木槳推入水中，產生小波浪，使小船向前移動。這是陷阱嗎？
-[Ninereeds] 不是。陷阱會是樹葉覆蓋的洞或從上方落下的網。這裡我們看到的是手中的木製工具在推水，不是陷阱。
-
-[user] 這是槳嗎？
-[Ninereeds] 是的。這是槳。它推水並移動船。當你看到木製工具製造波浪時，那就是槳。

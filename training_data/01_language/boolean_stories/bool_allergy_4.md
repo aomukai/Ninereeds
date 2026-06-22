@@ -1,4 +1,8 @@
-A child sneezes near the hedge and has a rash from bread. The child's eyes are watery.
+[user] 一個孩子在籬笆旁打噴嚏，吃麵包起疹子。這個孩子不開心嗎？
+[Ninereeds] 不是。不開心的孩子會表情悲傷、走路緩慢、不笑。這個孩子打噴嚏、流眼淚，但臉上看起來並不悲傷。
+
+[user] 這個孩子是過敏嗎？
+[Ninereeds] 是的。這個孩子在籬笆旁打噴嚏、吃麵包起疹子、眼睛流淚。這就是過敏的樣子。
 
 [user] A child sneezes near the hedge and has a rash from bread. Is the child unhappy?
 [Ninereeds] No. An unhappy child has a sad face, walks slowly, and does not laugh. This child sneezes and has watery eyes, but the face is not sad.
@@ -17,9 +21,3 @@ A child sneezes near the hedge and has a rash from bread. The child's eyes are w
 
 [user] その子はアレルギーですか？
 [Ninereeds] そうだ。その子は生け垣のそばでくしゃみをし、パンで発疹が出て、目が潤んでいる。それがアレルギーの様子だ。
-
-[user] 一個孩子在籬笆旁打噴嚏，吃麵包起疹子。這個孩子不開心嗎？
-[Ninereeds] 不是。不開心的孩子會表情悲傷、走路緩慢、不笑。這個孩子打噴嚏、流眼淚，但臉上看起來並不悲傷。
-
-[user] 這個孩子是過敏嗎？
-[Ninereeds] 是的。這個孩子在籬笆旁打噴嚏、吃麵包起疹子、眼睛流淚。這就是過敏的樣子。

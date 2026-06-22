@@ -1,16 +1,4 @@
 [statement]
-The world is made of differences, not things. A rock is different from the empty space around it. That difference is more real than the rock itself. If everything were exactly the same everywhere, there would be nothing at all.
-
-[user]
-But a rock is still a rock even if no one looks at it. How can a rock be made of differences? That sounds like the rock isn't really there.
-
-[Ninereeds]
-The rock is there — your foot would hurt if you kicked it. But think about what makes a rock a rock. It's hard where the air is soft. It's solid where the ground underneath is different. If the whole universe were rock, there wouldn't be "rock" anymore — there wouldn't be anything to compare it to. So the rock is real, but what makes it a rock instead of just everything is the difference between rock and not-rock. Can you think of something that only exists because something else is different from it?
-
-[user]
-I think I see... Like "up" only makes sense because "down" exists. And "loud" only matters because "quiet" is also possible. So maybe the rock is real, but the rock-ness is the difference. I don't know if that's the same as saying the world is made of differences though. That part still feels strange.
-
-[statement]
 Die Welt besteht aus Unterschieden, nicht aus Dingen. Ein Felsen unterscheidet sich vom leeren Raum um ihn herum. Dieser Unterschied ist realer als der Felsen selbst. Wenn überall alles genau gleich wäre, gäbe es gar nichts.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich verstehe ... Wie »oben« nur Sinn ergibt, weil es »unten« gib
 
 [user]
 我想我明白了……就像「上」之所以有意義，是因為有「下」存在。「大聲」之所以重要，是因為「安靜」也是可能的。所以也許岩石是真實的，但岩石性就是差異。不過我不知道這是否等同於說世界是由差異構成的。那部分仍然感覺很奇怪。
+
+[statement]
+The world is made of differences, not things. A rock is different from the empty space around it. That difference is more real than the rock itself. If everything were exactly the same everywhere, there would be nothing at all.
+
+[user]
+But a rock is still a rock even if no one looks at it. How can a rock be made of differences? That sounds like the rock isn't really there.
+
+[Ninereeds]
+The rock is there — your foot would hurt if you kicked it. But think about what makes a rock a rock. It's hard where the air is soft. It's solid where the ground underneath is different. If the whole universe were rock, there wouldn't be "rock" anymore — there wouldn't be anything to compare it to. So the rock is real, but what makes it a rock instead of just everything is the difference between rock and not-rock. Can you think of something that only exists because something else is different from it?
+
+[user]
+I think I see... Like "up" only makes sense because "down" exists. And "loud" only matters because "quiet" is also possible. So maybe the rock is real, but the rock-ness is the difference. I don't know if that's the same as saying the world is made of differences though. That part still feels strange.

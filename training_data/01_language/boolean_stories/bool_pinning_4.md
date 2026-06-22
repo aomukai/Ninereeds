@@ -1,4 +1,8 @@
-A girl stands by the oak tree. She takes a thorn and presses it through a leaf into the bark.
+[user] 這是手背嗎？
+[Ninereeds] 不是。手背有朝上的皮膚和關節排成一線。這裡是一片葉子被刺釘在樹上。那不是手。
+
+[user] 這是釘住嗎？
+[Ninereeds] 是的。女孩用刺把葉子釘在樹上。釘住就是用尖物把東西固定住。
 
 [user] Is this the back of the hand?
 [Ninereeds] No. The back of the hand has skin facing upward and knuckles rising in a line. Here we see a leaf held by a thorn. That is not a hand.
@@ -17,9 +21,3 @@ A girl stands by the oak tree. She takes a thorn and presses it through a leaf i
 
 [user] これは留めることか？
 [Ninereeds] そうだ。少女は棘で葉っぱを木に留めている。留めるとは、尖ったもので何かを固定することだ。
-
-[user] 這是手背嗎？
-[Ninereeds] 不是。手背有朝上的皮膚和關節排成一線。這裡是一片葉子被刺釘在樹上。那不是手。
-
-[user] 這是釘住嗎？
-[Ninereeds] 是的。女孩用刺把葉子釘在樹上。釘住就是用尖物把東西固定住。

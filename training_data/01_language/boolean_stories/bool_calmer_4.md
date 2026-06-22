@@ -1,3 +1,9 @@
+[user]那位老婦人在門檻上是不是很痛苦？
+[Ninereeds]不是。痛苦的樣子是步伐緩慢、聲音緊繃、或被碰到時會退縮。但這裡的風漸漸平息，老婦人的聲音變成了低語，她的動作也變得更慢。她看起來比較平靜，而不是痛苦。
+
+[user]那位老婦人是不是比較平靜？
+[Ninereeds]是的。老婦人靜靜地躺在門檻上，四周的風也慢慢緩和下來。當風漸漸變弱，一個人動作不急不徐的時候，那就是平靜的樣子。
+
 [user]Is the old woman on the doorstep painful?
 [Ninereeds]No. Painful looks like slow steps, a strained voice, or wincing when touched. But here the wind dies down slowly, the old woman’s voice drops to a whisper, and her movements become slower. She looks calmer, not painful.
 
@@ -15,9 +21,3 @@
 
 [user]あの老女は落ち着いているか？
 [Ninereeds]そうだ。老女は静かに戸口に横たわり、周りの風もおさまっていく。風がゆっくり弱まり、人が急がずに動くとき、それが落ち着いているということだ。
-
-[user]那位老婦人在門檻上是不是很痛苦？
-[Ninereeds]不是。痛苦的樣子是步伐緩慢、聲音緊繃、或被碰到時會退縮。但這裡的風漸漸平息，老婦人的聲音變成了低語，她的動作也變得更慢。她看起來比較平靜，而不是痛苦。
-
-[user]那位老婦人是不是比較平靜？
-[Ninereeds]是的。老婦人靜靜地躺在門檻上，四周的風也慢慢緩和下來。當風漸漸變弱，一個人動作不急不徐的時候，那就是平靜的樣子。

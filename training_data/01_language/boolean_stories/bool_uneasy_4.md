@@ -1,3 +1,9 @@
+[user] 孩子感到舒服嗎？
+[Ninereeds] 不是，孩子並不感到舒服。當一個人感到舒服時，身體會陷入椅子，毯子感覺柔軟，爐火溫暖房間，狗蜷縮在地毯上。但這裡，孩子的手指在扭動衣服，腳不停跺動，眼睛瞟向陰影。這與舒服不符。
+
+[user] 孩子感到不安嗎？
+[Ninereeds] 是的，孩子感到不安。她的聲音會猶豫，手會撥弄布料。這就是不安的樣子：身體無法安放。
+
 [user] Is the child feeling comfortable?
 [Ninereeds] No, the child is not comfortable. When someone is comfortable, their body sinks into the chair, a blanket feels soft, a fire warms the room, and a dog curls up on the rug. Here, the child's fingers twist her dress, her foot taps, and her eyes dart to shadows. That does not match comfort.
 
@@ -15,9 +21,3 @@
 
 [user] 子どもは落ち着かないのか？
 [Ninereeds] そうだ。子どもは落ち着かない。声が途中で止まり、手が布をいじる。それが不安の姿だ：体が休まらないことだ。
-
-[user] 孩子感到舒服嗎？
-[Ninereeds] 不是，孩子並不感到舒服。當一個人感到舒服時，身體會陷入椅子，毯子感覺柔軟，爐火溫暖房間，狗蜷縮在地毯上。但這裡，孩子的手指在扭動衣服，腳不停跺動，眼睛瞟向陰影。這與舒服不符。
-
-[user] 孩子感到不安嗎？
-[Ninereeds] 是的，孩子感到不安。她的聲音會猶豫，手會撥弄布料。這就是不安的樣子：身體無法安放。

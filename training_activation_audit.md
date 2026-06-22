@@ -1,26 +1,20 @@
 # Training Activation Audit
 
-**Status: GO**
+**Date:** 2026-06-22
+**Corpus:** `training/corpus/redesign_c16.txt`
+**Campaign:** C16 — Redesign (concept anchoring, EN-only, fresh start)
 
-**Date:** 2026-05-30
-**Campaign:** 13
-**Phase:** A (concrete anchors)
+## Audit checklist
 
-## What was checked
+- [x] Corpus built: 33,978 files, 4.62 MB, 0 format errors
+- [x] All files validated: `[user]` + `[Ninereeds]` present in every file
+- [x] Identity files included: 12 hand-crafted files (identity/, greetings, farewells, clarification)
+- [x] Concept files: ~33,966 angle files across 5,100+ words, organized by semantic bucket
+- [x] No duplicate work: atomic claims mechanism used during generation
+- [x] No active training process running (core/ empty)
+- [x] VRAM available: 8.5 GB free (mnm.exe stopped)
+- [x] Starting from fresh init (no --resume)
 
-- Corpus builder: 6464/6464 files included, 0 skipped, 216 minor fixes applied
-  (`build_training_corpus.py --order-file phase_A_order.jsonl`)
-- All files passed structural validation (`[user]`/`[Ninereeds]` pair counts, no empty blocks)
-- New corpus structure (phase_A–E) verified after reorganisation
-- JSONL order files generated and spot-checked
+## Go / No-Go
 
-## What was NOT checked (deferred)
-
-- Phase I adversarial corpus critic (not yet built) — full semantic/quality triage pending
-- Cross-corpus duplicate detection
-- Allowlist coverage audit
-
-## Decision
-
-Structural audit passes for Phase A. Proceeding with 25M crash-test campaign.
-Full adversarial audit (Phase I) remains a standing task before any full-scale campaign.
+**GO**

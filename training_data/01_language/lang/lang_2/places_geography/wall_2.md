@@ -1,19 +1,19 @@
-One wall.
 Eine Mauer.
 壁が一枚。
 一面墙。
+One wall.
 
-Two walls.
 Zwei Mauern.
 壁が二枚。
 两面墙。
+Two walls.
 
-The garden wall is very high.
 Die Gartenmauer ist sehr hoch.
 庭の壁はとても高い。
 花园的墙很高。
+The garden wall is very high.
 
-The wall around the castle fell down.
 Die Mauer um die Burg ist eingestürzt.
 城の壁が崩れた。
 城堡周围的墙倒塌了。
+The wall around the castle fell down.

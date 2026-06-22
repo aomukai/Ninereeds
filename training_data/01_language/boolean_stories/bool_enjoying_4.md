@@ -1,3 +1,9 @@
+[user] 這個孩子正在擁抱嗎？
+[Ninereeds] 不是。擁抱的意思是手臂環繞肩膀、頭部緊貼。這裡孩子獨自一人吃蘋果，並沒有擁抱。
+
+[user] 這個孩子正在享受嗎？
+[Ninereeds] 是的。孩子邊吃邊笑邊哼歌，這顯示她在享受。享受的意思是對正在做的事感到開心。
+
 [user] Is the child hugging?
 [Ninereeds] No. Hugging means arms wrap around shoulders, heads press together. Here the child is alone, eating an apple. That is not a hug.
 
@@ -15,9 +21,3 @@
 
 [user] その子は楽しんでいる？
 [Ninereeds] そうだ。子供は笑顔で食べながら口ずさんでいる。それが楽しんでいる証拠だ。楽しむとは、していることに幸せを感じることだ。
-
-[user] 這個孩子正在擁抱嗎？
-[Ninereeds] 不是。擁抱的意思是手臂環繞肩膀、頭部緊貼。這裡孩子獨自一人吃蘋果，並沒有擁抱。
-
-[user] 這個孩子正在享受嗎？
-[Ninereeds] 是的。孩子邊吃邊笑邊哼歌，這顯示她在享受。享受的意思是對正在做的事感到開心。

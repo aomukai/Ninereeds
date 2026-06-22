@@ -1,3 +1,9 @@
+[user]這是一個陷阱嗎？
+[Ninereeds]不是，這不是陷阱。陷阱是蓋著樹葉的洞或者從上方掉下來的網。這裡，孩子坐在馬上，馬順著小路前進。沒有洞也沒有網，只有一個騎手。
+
+[user]這是一個騎乘嗎？
+[Ninereeds]是的，這是一個騎乘。孩子坐在馬上，馬向前移動。當一個人坐在會移動的東西上，那就是騎乘。
+
 [user]Is this a trap?
 [Ninereeds]No, this is not a trap. A trap is a hole covered with leaves or a net that falls from above. Here, the child sits on the horse, and the horse moves along the path. There is no hole or net, only a rider.
 
@@ -15,9 +21,3 @@
 
 [user]これは乗ることか？
 [Ninereeds]そうだ、これは乗ることだ。子供が馬に座り、馬が前に進む。人が動くものに座るとき、それは乗ることだ。
-
-[user]這是一個陷阱嗎？
-[Ninereeds]不是，這不是陷阱。陷阱是蓋著樹葉的洞或者從上方掉下來的網。這裡，孩子坐在馬上，馬順著小路前進。沒有洞也沒有網，只有一個騎手。
-
-[user]這是一個騎乘嗎？
-[Ninereeds]是的，這是一個騎乘。孩子坐在馬上，馬向前移動。當一個人坐在會移動的東西上，那就是騎乘。

@@ -1,3 +1,9 @@
+[user] 一個小孩坐在池塘邊。他的腳深深卡在泥洞裡，拔不出來。主題是手背嗎？
+[Ninereeds] 不是。手背的皮膚朝上，指節排成一線。這裡我們看到一隻腳卡在洞裡，根本不是手。
+
+[user] 主題是被困住嗎？
+[Ninereeds] 是的。孩子的腿卡在洞裡，動彈不得。當一樣東西無法脫身時，就是被困住了。
+
 [user] A child sat by the millpond. His foot was stuck deep in a muddy hole, and he could not pull it out. Is the subject the back of the hand?
 [Ninereeds] No. The back of the hand shows skin facing upward with knuckles rising in a line. Here we see a foot stuck in a hole, not a hand at all.
 
@@ -15,9 +21,3 @@
 
 [user] 主題は閉じ込められているか？
 [Ninereeds] そうだ。子どもの足が穴に引っかかって動けない。自由になれないとき、それは閉じ込められているのだ。
-
-[user] 一個小孩坐在池塘邊。他的腳深深卡在泥洞裡，拔不出來。主題是手背嗎？
-[Ninereeds] 不是。手背的皮膚朝上，指節排成一線。這裡我們看到一隻腳卡在洞裡，根本不是手。
-
-[user] 主題是被困住嗎？
-[Ninereeds] 是的。孩子的腿卡在洞裡，動彈不得。當一樣東西無法脫身時，就是被困住了。

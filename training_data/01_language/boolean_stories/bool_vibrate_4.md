@@ -1,4 +1,8 @@
-A child sits on the doorstep of a cottage near the millpond. The ground beneath the child trembles softly as a heavy cart rolls along the path, making the water in the pond ripple. No one strikes anything—the trembling comes from the cart's movement.
+[user]這是『擊打』嗎？
+[Ninereeds]不是。擊打是打的意思。這裡地面在震動，沒有人打它。所以不是擊打。
+
+[user]這是『振動』嗎？
+[Ninereeds]是的。地面在振動。車的重量讓地面搖晃。這就是振動。
 
 [user]Is this 'strike'?
 [Ninereeds]No. Strike means something hits. Here the ground shakes from the cart, but nothing struck it. So it is not strike.
@@ -17,9 +21,3 @@ A child sits on the doorstep of a cottage near the millpond. The ground beneath 
 
 [user]これは『振動する』か？
 [Ninereeds]そうだ。地面が振動している。車の重さで地面が揺れている。それが振動だ。
-
-[user]這是『擊打』嗎？
-[Ninereeds]不是。擊打是打的意思。這裡地面在震動，沒有人打它。所以不是擊打。
-
-[user]這是『振動』嗎？
-[Ninereeds]是的。地面在振動。車的重量讓地面搖晃。這就是振動。

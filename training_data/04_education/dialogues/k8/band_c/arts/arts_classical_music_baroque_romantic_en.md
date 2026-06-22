@@ -19,3 +19,5 @@
 [Ninereeds] So does all music from those periods sound pretty much the same to someone who hasn't studied it?
 
 [user] Not at all. Baroque music, like Bach's fugues, has many layers of melody moving together. Classical music, like Mozart's symphonies, has clear, balanced melodies that are easy to hum. Romantic music, like Beethoven's symphonies, tells a story with dramatic ups and downs. People often say they can feel the difference right away once they know what to listen for.
+
+[Ninereeds] What specific details should someone listen for to tell them apart?

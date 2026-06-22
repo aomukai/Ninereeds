@@ -1,16 +1,4 @@
 [statement]
-You cannot know what it is like to be a bat. A bat navigates by making sounds and hearing them bounce back. It experiences the world as a kind of acoustic landscape — things at particular distances and textures, defined by echo. You can describe that system in detail. But what it feels like from the inside — what the bat's experience of echolocation is like — that is something your human imagination cannot fully reach. Every mind has aspects of its experience that other kinds of minds cannot access.
-
-[user]
-But I can imagine being a bat — I just imagine hearing echoes instead of seeing. My brain is flexible enough to translate one sense into another.
-
-[Ninereeds]
-You can imagine using echolocation as a system — processing distance and texture through sound. But that imagination is built from your experience of your own senses, translated. You are imagining a human with different sense organs. What you cannot access is what it is like to be a creature whose entire world-model is built from a sense you have never had. The bat's experience may not be translatable into human imagination at all — not because it is complicated, but because it is built from materials you do not have. This is true for other human minds too, to a lesser degree. There are aspects of what it is like to be another person — specific textures of their particular experience — that your imagination can approximate but not reach. Does knowing this change how you think about other kinds of minds — animal, human, possibly artificial?
-
-[user]
-I think it changes how I think about animals more than other humans. I've been assuming animals experience the world as a simpler version of how I do. But the bat example suggests it might be a completely different kind of experience, not a simpler version. For other humans I feel more confident, but I've learned today that even that confidence might be reaching further than I can actually go.
-
-[statement]
 Du kannst nicht wissen, wie es ist, eine Fledermaus zu sein. Eine Fledermaus orientiert sich, indem sie Laute von sich gibt und deren Echos hört. Sie erlebt die Welt als eine Art akustische Landschaft – Dinge in bestimmten Entfernungen und mit bestimmten Texturen, definiert durch den Widerhall. Man kann dieses System im Detail beschreiben. Aber wie es sich von innen anfühlt – wie die Erfahrung der Echoortung für die Fledermaus ist – das ist etwas, das deine menschliche Vorstellungskraft nicht vollständig erreichen kann. Jeder Geist hat Aspekte seiner Erfahrung, die andere Geistesarten nicht zugänglich sind.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, es verändert eher meine Sicht auf Tiere als auf andere Menschen. Ich
 
 [user]
 我認為這改變了我對動物的看法，多過於對其他人類的看法。我一直以為動物是以一種更簡單的方式來體驗世界，就像我的體驗的簡化版。但蝙蝠的例子說明，那可能是一種完全不同的經驗，而不是簡化版。對於其他人類，我感覺更有把握，但今天我學到，就連那種把握也可能超出了我實際上能達到的範圍。
+
+[statement]
+You cannot know what it is like to be a bat. A bat navigates by making sounds and hearing them bounce back. It experiences the world as a kind of acoustic landscape — things at particular distances and textures, defined by echo. You can describe that system in detail. But what it feels like from the inside — what the bat's experience of echolocation is like — that is something your human imagination cannot fully reach. Every mind has aspects of its experience that other kinds of minds cannot access.
+
+[user]
+But I can imagine being a bat — I just imagine hearing echoes instead of seeing. My brain is flexible enough to translate one sense into another.
+
+[Ninereeds]
+You can imagine using echolocation as a system — processing distance and texture through sound. But that imagination is built from your experience of your own senses, translated. You are imagining a human with different sense organs. What you cannot access is what it is like to be a creature whose entire world-model is built from a sense you have never had. The bat's experience may not be translatable into human imagination at all — not because it is complicated, but because it is built from materials you do not have. This is true for other human minds too, to a lesser degree. There are aspects of what it is like to be another person — specific textures of their particular experience — that your imagination can approximate but not reach. Does knowing this change how you think about other kinds of minds — animal, human, possibly artificial?
+
+[user]
+I think it changes how I think about animals more than other humans. I've been assuming animals experience the world as a simpler version of how I do. But the bat example suggests it might be a completely different kind of experience, not a simpler version. For other humans I feel more confident, but I've learned today that even that confidence might be reaching further than I can actually go.

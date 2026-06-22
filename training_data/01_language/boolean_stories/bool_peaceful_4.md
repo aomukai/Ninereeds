@@ -1,3 +1,9 @@
+[user]那個小孩在盯著什麼東西看嗎？
+[Ninereeds]不是。盯著看是指眼睛固定在某個物體上，視線毫不動搖。但這個小孩靜靜坐在磨坊池塘邊的長椅上，看著平滑的水面。她輕輕地眨眼，臉部放鬆，沒有轉向任何光線。所以這不是盯著看。
+
+[user]這個小孩是平靜的嗎？
+[Ninereeds]是的。這個小孩靜靜坐在長椅上，池塘水面平滑，風輕輕吹動樹葉。這就是平靜的樣子。
+
 [user]Is the child staring at something?
 [Ninereeds]No. Staring means eyes fix on an object and the gaze does not waver. But this child sits still on a bench by the millpond, watching the smooth water. Her eyes blink softly, and her face is relaxed, not turned toward any light. So it is not stare.
 
@@ -15,9 +21,3 @@
 
 [user]この子は穏やかなの？
 [Ninereeds]そうだ。この子はベンチに静かに座り、池の水面はなめらかで、風が葉をそっと揺らしている。それが穏やかというものだ。
-
-[user]那個小孩在盯著什麼東西看嗎？
-[Ninereeds]不是。盯著看是指眼睛固定在某個物體上，視線毫不動搖。但這個小孩靜靜坐在磨坊池塘邊的長椅上，看著平滑的水面。她輕輕地眨眼，臉部放鬆，沒有轉向任何光線。所以這不是盯著看。
-
-[user]這個小孩是平靜的嗎？
-[Ninereeds]是的。這個小孩靜靜坐在長椅上，池塘水面平滑，風輕輕吹動樹葉。這就是平靜的樣子。

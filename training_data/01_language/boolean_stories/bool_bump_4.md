@@ -1,3 +1,9 @@
+[user]孩子的手肘撞到門的時候，那是溫和的感覺嗎？
+[Ninereeds]不是。「溫和」的意思是柔軟而輕柔，像是風幾乎不動樹葉，或是雨輕輕落下。但在這裡，孩子的手肘重重地撞到了門——那完全不是溫和的。
+
+[user]孩子的手肘撞到門的時候，那是碰撞的感覺嗎？
+[Ninereeds]是的。孩子的手肘撞到了門，這就是碰撞。碰撞發生在當某樣東西撞到或碰到另一樣東西的時候。
+
 [user]Is the child experiencing a mild sensation when his elbow hits the door?
 [Ninereeds]No. "Mild" means something soft and gentle, like wind barely moving the leaves or rain falling gently. But here, the child's elbow hits the door with a hard thump — that is not mild at all.
 
@@ -15,9 +21,3 @@
 
 [user]子供の肘がドアにぶつかったとき、それはぶつかる感じか？
 [Ninereeds]そうだ。肘がドアにぶつかった。それが「ぶつかる」だ。何かが別のものに当たったりぶつかったりすることを言う。
-
-[user]孩子的手肘撞到門的時候，那是溫和的感覺嗎？
-[Ninereeds]不是。「溫和」的意思是柔軟而輕柔，像是風幾乎不動樹葉，或是雨輕輕落下。但在這裡，孩子的手肘重重地撞到了門——那完全不是溫和的。
-
-[user]孩子的手肘撞到門的時候，那是碰撞的感覺嗎？
-[Ninereeds]是的。孩子的手肘撞到了門，這就是碰撞。碰撞發生在當某樣東西撞到或碰到另一樣東西的時候。

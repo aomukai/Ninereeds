@@ -19,3 +19,5 @@
 [Ninereeds] Kann es passieren, dass sich die DNA eines Lebewesens plötzlich verändert, und wenn ja, ist das immer schädlich?
 
 [user] Ja, eine solche Veränderung nennt man Mutation. Eine Mutation ist eine Änderung der DNA-Sequenz. Sie kann schädlich sein und eine Krankheit verursachen, sie kann aber auch neutral sein, also gar keine Auswirkung haben, oder sogar vorteilhaft, wenn sie dem Lebewesen hilft, besser zu überleben. Es kommt ganz darauf an, wo die Mutation stattfindet und was sie verändert.
+
+[Ninereeds] Gibt es bestimmte Auslöser für solche Mutationen, oder passieren sie einfach zufällig?

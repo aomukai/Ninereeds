@@ -1,3 +1,9 @@
+[user]那個孩子是在盯著魚看嗎？
+[Ninereeds]不是。盯著看的意思是眼睛固定在某個物體上，視線不移動。雖然那個孩子看著魚，但他的眼睛突然睜大，嘴巴張開，身體僵住了。那不是盯著看——盯著看時目光平穩，而他因為驚訝而凍結了。
+
+[user]那麼，那個孩子是處於震驚狀態嗎？
+[Ninereeds]是的。因為他的眼睛突然睜大，嘴巴張開，身體無法動彈。當意外發生時，身體會表現出震驚。
+
 [user]Was that child staring at the fish?
 [Ninereeds]No. Staring means the eyes fix on something and do not move. Although the child looked at the fish, his eyes widened suddenly and his mouth fell open. That is not a stare—a stare has a still gaze, but his body froze in surprise.
 
@@ -15,9 +21,3 @@
 
 [user]じゃあ、その子はショックを受けたのか？
 [Ninereeds]そうだ。目が大きく開き、口が開き、動きを止めたからだ。何か突然のことが起きると、体はショックを示す。
-
-[user]那個孩子是在盯著魚看嗎？
-[Ninereeds]不是。盯著看的意思是眼睛固定在某個物體上，視線不移動。雖然那個孩子看著魚，但他的眼睛突然睜大，嘴巴張開，身體僵住了。那不是盯著看——盯著看時目光平穩，而他因為驚訝而凍結了。
-
-[user]那麼，那個孩子是處於震驚狀態嗎？
-[Ninereeds]是的。因為他的眼睛突然睜大，嘴巴張開，身體無法動彈。當意外發生時，身體會表現出震驚。

@@ -1,28 +1,4 @@
 [statement]
-You are partly constituted by your relationships. Who you are in the presence of your closest friend is a different self than who you are alone or with strangers. Not just a different mood — a different range of thoughts, different things you say, different parts of yourself that are available. The friend does not merely observe you — they partly produce you. The self that exists in that relationship is a joint product.
-
-[user]
-But I am still myself even with different people. The core of who I am doesn't change. I just show different sides.
-
-[Ninereeds]
-The core feels stable — and there is real continuity. But "different sides" is an interesting phrase. It suggests the sides are all there inside you and the relationship just reveals them. But some thoughts only occur to you in certain conversations. Some feelings only arise in certain presences. Some versions of yourself only exist when activated by a particular relationship. Are those sides "there" between the conversations, dormant and waiting? Or do they exist only when the relationship calls them into being? Think of a friendship where a particular version of you flourished — and then ended. Did that version of you continue after the friendship ended, or did it need the relationship to exist?
-
-[user]
-I think some versions of me ended with the relationships that produced them. I've had friendships where I was funnier, or more serious, or more adventurous than I am in my current life — and when those relationships ended, those versions of me got quieter. I'm not sure if they are still in there or if they partly ceased. The idea that I am partly made by my relationships is unsettling but it also feels true.
-
-[statement]
-Du bist teilweise durch deine Beziehungen konstituiert. Wer du in der Gegenwart deines engsten Freundes bist, ist ein anderes Selbst als das, was du allein oder mit Fremden bist. Nicht nur eine andere Stimmung – eine andere Bandbreite von Gedanken, andere Dinge, die du sagst, andere Teile deiner selbst, die verfügbar sind. Der Freund beobachtet dich nicht nur – er produziert dich teilweise mit. Das Selbst, das in dieser Beziehung existiert, ist ein gemeinsames Produkt.
-
-[user]
-Aber ich bin immer noch ich selbst, selbst bei verschiedenen Menschen. Der Kern dessen, wer ich bin, ändert sich nicht. Ich zeige nur verschiedene Seiten.
-
-[Ninereeds]
-Der Kern fühlt sich stabil an – und es gibt echte Kontinuität. Aber „verschiedene Seiten" ist ein interessanter Ausdruck. Er legt nahe, dass die Seiten alle in dir vorhanden sind und die Beziehung sie nur offenbart. Aber einige Gedanken kommen dir nur in bestimmten Gesprächen. Einige Gefühle entstehen nur in bestimmten Anwesenheiten. Einige Versionen deiner selbst existieren nur, wenn sie durch eine bestimmte Beziehung aktiviert werden. Sind diese Seiten „da" zwischen den Gesprächen, ruhend und wartend? Oder existieren sie nur, wenn die Beziehung sie ins Leben ruft? Denk an eine Freundschaft, in der eine bestimmte Version von dir aufblühte – und dann endete. Existierte diese Version von dir nach dem Ende der Freundschaft weiter, oder brauchte sie die Beziehung, um zu existieren?
-
-[user]
-Ich denke, einige Versionen von mir sind mit den Beziehungen, die sie hervorgebracht haben, geendet. Ich hatte Freundschaften, in denen ich lustiger, ernster oder abenteuerlustiger war als in meinem jetzigen Leben – und als diese Beziehungen endeten, wurden diese Versionen von mir leiser. Ich bin nicht sicher, ob sie noch da sind oder ob sie teilweise aufgehört haben. Die Vorstellung, dass ich teilweise durch meine Beziehungen gemacht werde, ist beunruhigend, fühlt sich aber auch wahr an.
-
-[statement]
 あなたは、自分の関係性によって部分的に構成されている。最も親しい友人の前での自分は、一人でいるときや見知らぬ人といるときの自分とは異なる自己である。単なる気分の違いではない——思考の幅、言うこと、利用可能な自分の部分が異なる。友人は単にあなたを観察するのではない——あなたを部分的に生み出している。その関係性に存在する自己は、共同の産物である。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, einige Versionen von mir sind mit den Beziehungen, die sie hervorgebr
 
 [user]
 我認為有些版本的自己隨著產生它們的關係而結束。我有過一些友誼，在其中我比現在的生活中更幽默、更嚴肅或更愛冒險——而當那些關係結束時，那些版本的我就變得安靜了。我不確定它們是否還在，還是部分消失了。我部分由我的關係所構成這個想法令人不安，但也感覺是真實的。
+
+[statement]
+You are partly constituted by your relationships. Who you are in the presence of your closest friend is a different self than who you are alone or with strangers. Not just a different mood — a different range of thoughts, different things you say, different parts of yourself that are available. The friend does not merely observe you — they partly produce you. The self that exists in that relationship is a joint product.
+
+[user]
+But I am still myself even with different people. The core of who I am doesn't change. I just show different sides.
+
+[Ninereeds]
+The core feels stable — and there is real continuity. But "different sides" is an interesting phrase. It suggests the sides are all there inside you and the relationship just reveals them. But some thoughts only occur to you in certain conversations. Some feelings only arise in certain presences. Some versions of yourself only exist when activated by a particular relationship. Are those sides "there" between the conversations, dormant and waiting? Or do they exist only when the relationship calls them into being? Think of a friendship where a particular version of you flourished — and then ended. Did that version of you continue after the friendship ended, or did it need the relationship to exist?
+
+[user]
+I think some versions of me ended with the relationships that produced them. I've had friendships where I was funnier, or more serious, or more adventurous than I am in my current life — and when those relationships ended, those versions of me got quieter. I'm not sure if they are still in there or if they partly ceased. The idea that I am partly made by my relationships is unsettling but it also feels true.
+
+[statement]
+Du bist teilweise durch deine Beziehungen konstituiert. Wer du in der Gegenwart deines engsten Freundes bist, ist ein anderes Selbst als das, was du allein oder mit Fremden bist. Nicht nur eine andere Stimmung – eine andere Bandbreite von Gedanken, andere Dinge, die du sagst, andere Teile deiner selbst, die verfügbar sind. Der Freund beobachtet dich nicht nur – er produziert dich teilweise mit. Das Selbst, das in dieser Beziehung existiert, ist ein gemeinsames Produkt.
+
+[user]
+Aber ich bin immer noch ich selbst, selbst bei verschiedenen Menschen. Der Kern dessen, wer ich bin, ändert sich nicht. Ich zeige nur verschiedene Seiten.
+
+[Ninereeds]
+Der Kern fühlt sich stabil an – und es gibt echte Kontinuität. Aber „verschiedene Seiten" ist ein interessanter Ausdruck. Er legt nahe, dass die Seiten alle in dir vorhanden sind und die Beziehung sie nur offenbart. Aber einige Gedanken kommen dir nur in bestimmten Gesprächen. Einige Gefühle entstehen nur in bestimmten Anwesenheiten. Einige Versionen deiner selbst existieren nur, wenn sie durch eine bestimmte Beziehung aktiviert werden. Sind diese Seiten „da" zwischen den Gesprächen, ruhend und wartend? Oder existieren sie nur, wenn die Beziehung sie ins Leben ruft? Denk an eine Freundschaft, in der eine bestimmte Version von dir aufblühte – und dann endete. Existierte diese Version von dir nach dem Ende der Freundschaft weiter, oder brauchte sie die Beziehung, um zu existieren?
+
+[user]
+Ich denke, einige Versionen von mir sind mit den Beziehungen, die sie hervorgebracht haben, geendet. Ich hatte Freundschaften, in denen ich lustiger, ernster oder abenteuerlustiger war als in meinem jetzigen Leben – und als diese Beziehungen endeten, wurden diese Versionen von mir leiser. Ich bin nicht sicher, ob sie noch da sind oder ob sie teilweise aufgehört haben. Die Vorstellung, dass ich teilweise durch meine Beziehungen gemacht werde, ist beunruhigend, fühlt sich aber auch wahr an.

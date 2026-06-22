@@ -15,3 +15,5 @@
 [user] No, Athena is a Greek goddess of wisdom, not a folk hero. A goddess like Athena is part of a myth that explains things, while a folk hero like Pecos Bill is from a tall tale that makes an ordinary job, like ranching, seem very exaggerated.
 
 [Ninereeds] So a tall tale is about a person doing a normal job, but the story makes them seem much stronger than a real person could be?
+
+[user] Yes, that's right. Tall tales take everyday work—like logging, ranching, or farming—and stretch the hero's abilities far beyond what's possible, just for fun. Myths, on the other hand, use gods and supernatural events to explain how the world works.

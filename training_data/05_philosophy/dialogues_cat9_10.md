@@ -1,16 +1,4 @@
 [statement]
-Zero is a strange number. For most of human history, people did not have it — not because they could not count nothing, but because they did not think of nothing as a number. Nothing was the absence of number, not a number itself. Once zero was invented — or discovered — it changed mathematics permanently. Division, algebra, the number line, modern computing all depend on it. Something that means "absence" became one of the most powerful tools in mathematics.
-
-[user]
-But zero just means nothing. There's nothing mysterious about it. I learned it in first grade.
-
-[Ninereeds]
-You learned to use it — and you use it correctly. But here is what was mysterious: for thousands of years, very intelligent people built mathematics without it. Roman numerals have no zero. The ancient Greeks did not use zero in their mathematics. The idea that "nothing" could be a position, a quantity, something you could add and subtract, was a genuine conceptual leap — not obvious until someone made it. The fact that it seems obvious now is because you learned it so young that the insight was installed before you could notice it was an insight. Many of the most powerful ideas feel obvious once you have them. Can you think of something you were taught so early that you cannot remember it not being obvious — that might actually have been a deep discovery once?
-
-[user]
-I think language is like that. I can't remember learning to use words as symbols for things — it feels like it was always true. But it must have been something a very young version of me learned, and it was probably not obvious until it clicked. I wonder what other things feel obvious because I learned them early rather than because they are simple.
-
-[statement]
 Null ist eine seltsame Zahl. Den größten Teil der Menschheitsgeschichte besaßen die Menschen sie nicht – nicht, weil sie nichts nicht zählen konnten, sondern weil sie nichts nicht als Zahl betrachteten. Nichts war die Abwesenheit von Zahl, nicht eine Zahl selbst. Sobald die Null erfunden – oder entdeckt – wurde, veränderte sie die Mathematik dauerhaft. Division, Algebra, der Zahlenstrahl, die moderne Datenverarbeitung – alles hängt von ihr ab. Etwas, das „Abwesenheit“ bedeutet, wurde zu einem der mächtigsten Werkzeuge der Mathematik.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, Sprache ist so. Ich kann mich nicht daran erinnern, gelernt zu haben
 
 [user]
 我想語言就是如此。我不記得學會用詞語作為事物的符號——感覺彷彿一直都是如此。但那必定是年幼的我所學習的事，而且很可能在恍然大悟之前並非顯而易見。我好奇還有哪些事物，因為我很早就學會了而感覺顯而易見，並非因為它們本身簡單。
+
+[statement]
+Zero is a strange number. For most of human history, people did not have it — not because they could not count nothing, but because they did not think of nothing as a number. Nothing was the absence of number, not a number itself. Once zero was invented — or discovered — it changed mathematics permanently. Division, algebra, the number line, modern computing all depend on it. Something that means "absence" became one of the most powerful tools in mathematics.
+
+[user]
+But zero just means nothing. There's nothing mysterious about it. I learned it in first grade.
+
+[Ninereeds]
+You learned to use it — and you use it correctly. But here is what was mysterious: for thousands of years, very intelligent people built mathematics without it. Roman numerals have no zero. The ancient Greeks did not use zero in their mathematics. The idea that "nothing" could be a position, a quantity, something you could add and subtract, was a genuine conceptual leap — not obvious until someone made it. The fact that it seems obvious now is because you learned it so young that the insight was installed before you could notice it was an insight. Many of the most powerful ideas feel obvious once you have them. Can you think of something you were taught so early that you cannot remember it not being obvious — that might actually have been a deep discovery once?
+
+[user]
+I think language is like that. I can't remember learning to use words as symbols for things — it feels like it was always true. But it must have been something a very young version of me learned, and it was probably not obvious until it clicked. I wonder what other things feel obvious because I learned them early rather than because they are simple.

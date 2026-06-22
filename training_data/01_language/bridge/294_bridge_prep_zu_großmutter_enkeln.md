@@ -12,3 +12,8 @@
 [to the grandchildren].  
 [孫たちのところへ].  
 [去孙子们那里].
+
+Die Großmutter fährt zu den Enkeln.
+The grandmother drives to the grandchildren.
+祖母は孫たちのところへ車で行く。
+祖母開車去孫子們那裡。

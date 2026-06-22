@@ -1,4 +1,8 @@
-By the well, a man struggles to lift a large wooden barrel. Water drips slowly from its rim.
+[user] 這是一個陷阱嗎？
+[Ninereeds] 不是。陷阱是覆蓋樹葉的洞或從上方落下的網。這裡，男人正吃力地抬起一個東西，邊緣有水滴滴落。那不符合陷阱的樣子。
+
+[user] 這是一個桶子嗎？
+[Ninereeds] 是的。男人用力抬它，邊緣有水滴。桶子是裝液體的容器，而且很重難以移動。
 
 [user] Is this a trap?
 [Ninereeds] No. A trap looks like a hole covered with leaves or a net that falls from above. Here, the man is lifting something heavy and water drips. That does not match a trap.
@@ -17,9 +21,3 @@ By the well, a man struggles to lift a large wooden barrel. Water drips slowly f
 
 [user] これは樽か？
 [Ninereeds] そうだ。男は力を込めて持ち上げ、縁から水が滴っている。樽は液体を入れる容器で、動かすのに重いものだ。
-
-[user] 這是一個陷阱嗎？
-[Ninereeds] 不是。陷阱是覆蓋樹葉的洞或從上方落下的網。這裡，男人正吃力地抬起一個東西，邊緣有水滴滴落。那不符合陷阱的樣子。
-
-[user] 這是一個桶子嗎？
-[Ninereeds] 是的。男人用力抬它，邊緣有水滴。桶子是裝液體的容器，而且很重難以移動。

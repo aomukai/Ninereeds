@@ -1,3 +1,9 @@
+[user] 男孩舒服嗎？
+[Ninereeds] 不是。舒服的時候，身體會陷進椅子裡，毯子摸起來柔軟，或者爐火讓房間溫暖。但在這裡，男孩站在小徑上，女孩低語時，他的手肘碰到了她的手臂。
+
+[user] 這是輕推嗎？
+[Ninereeds] 是的。男孩的手肘碰到女孩的手臂——那就是輕推。輕推是用身體部位輕輕推一下，來引起別人的注意。
+
 [user] Is the boy comfortable?
 [Ninereeds] No. To be comfortable, a body sinks into a chair, a blanket feels soft, or a fire keeps the room warm. But here the boy is standing by the path, and his elbow touches the girl’s arm as she whispers.
 
@@ -15,9 +21,3 @@
 
 [user] それは「nudge」か？
 [Ninereeds] そうだ。少年のひじが少女の腕に触れた——それが「nudge」だ。「nudge」とは、注意を引くための小さな体の押しである。
-
-[user] 男孩舒服嗎？
-[Ninereeds] 不是。舒服的時候，身體會陷進椅子裡，毯子摸起來柔軟，或者爐火讓房間溫暖。但在這裡，男孩站在小徑上，女孩低語時，他的手肘碰到了她的手臂。
-
-[user] 這是輕推嗎？
-[Ninereeds] 是的。男孩的手肘碰到女孩的手臂——那就是輕推。輕推是用身體部位輕輕推一下，來引起別人的注意。

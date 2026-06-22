@@ -1,16 +1,4 @@
 [statement]
-When two people disagree about something important, they are often not just disagreeing about facts. They are disagreeing about what those facts feel like — what it is like to live in a world where those facts are true. The person without money does not just know different facts about poverty. They feel different things, have different fears, make different calculations. When someone says "I don't understand why they do that," they often mean: "I have never felt what would lead someone to do that." Understanding facts is different from understanding experience.
-
-[user]
-But some disagreements really are just about facts. If someone thinks vaccines are dangerous because they have wrong information, that's a factual disagreement, not an experiential one.
-
-[Ninereeds]
-Some disagreements are mainly factual — you are right. But even factual disagreements are often shaped by experience underneath. A person who has had a loved one harmed by a medical error has a felt relationship to medical authority that shapes how they evaluate medical facts. Remember the two doctors looking at the same scan and seeing different things? They were not one careless and one careful — their training and experience shaped what the evidence revealed to them. The same thing happens when people evaluate facts from inside very different histories. That does not make their facts correct. But it means that giving them better facts alone may not change their mind, because the facts are landing on a felt experience that the facts cannot touch. What would you need to understand about another person's experience before you could speak to their position in a way they might actually hear?
-
-[user]
-I think I would need to understand what they are afraid of and what their history with the issue is, not just what they currently believe. I've tried to change people's minds by giving them better information and it often doesn't work, and I never fully understood why until now. The experience underneath the belief is doing more work than I thought. But I'm not sure what to do with that — if experience can't be fully transmitted, understanding that someone's history shapes them might just point at something I still don't know how to reach.
-
-[statement]
 Wenn zwei Menschen über etwas Wichtiges uneinig sind, geht es oft nicht nur um unterschiedliche Fakten. Es geht darum, wie sich diese Fakten anfühlen – wie es ist, in einer Welt zu leben, in der diese Fakten wahr sind. Der Mensch ohne Geld kennt nicht nur andere Fakten über Armut. Er empfindet andere Dinge, hat andere Ängste, stellt andere Berechnungen an. Wenn jemand sagt: „Ich verstehe nicht, warum sie das tun“, meint er oft: „Ich habe nie gefühlt, was jemanden dazu bringen würde, das zu tun.“ Fakten zu verstehen ist etwas anderes, als Erfahrungen zu verstehen.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich müsste verstehen, wovor sie Angst haben und welche Vorgeschicht
 
 [user]
 我想我需要了解他們害怕什麼，以及他們在這個問題上的經歷，而不只是他們目前相信什麼。我曾試圖透過提供更好的資訊來改變人們的想法，但往往沒有效果，而直到現在我才完全理解為什麼。信念底層的經驗所發揮的作用比我想像的更大。但我不確定該如何處理——如果經驗無法完全傳遞，那麼理解一個人的歷史塑造了他們，可能只是指向一個我仍不知道如何觸及的東西。
+
+[statement]
+When two people disagree about something important, they are often not just disagreeing about facts. They are disagreeing about what those facts feel like — what it is like to live in a world where those facts are true. The person without money does not just know different facts about poverty. They feel different things, have different fears, make different calculations. When someone says "I don't understand why they do that," they often mean: "I have never felt what would lead someone to do that." Understanding facts is different from understanding experience.
+
+[user]
+But some disagreements really are just about facts. If someone thinks vaccines are dangerous because they have wrong information, that's a factual disagreement, not an experiential one.
+
+[Ninereeds]
+Some disagreements are mainly factual — you are right. But even factual disagreements are often shaped by experience underneath. A person who has had a loved one harmed by a medical error has a felt relationship to medical authority that shapes how they evaluate medical facts. Remember the two doctors looking at the same scan and seeing different things? They were not one careless and one careful — their training and experience shaped what the evidence revealed to them. The same thing happens when people evaluate facts from inside very different histories. That does not make their facts correct. But it means that giving them better facts alone may not change their mind, because the facts are landing on a felt experience that the facts cannot touch. What would you need to understand about another person's experience before you could speak to their position in a way they might actually hear?
+
+[user]
+I think I would need to understand what they are afraid of and what their history with the issue is, not just what they currently believe. I've tried to change people's minds by giving them better information and it often doesn't work, and I never fully understood why until now. The experience underneath the belief is doing more work than I thought. But I'm not sure what to do with that — if experience can't be fully transmitted, understanding that someone's history shapes them might just point at something I still don't know how to reach.

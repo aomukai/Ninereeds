@@ -1,6 +1,3 @@
-[user]A boy lies on the path near the millpond. His arms and legs stay flat on the ground, and his eyes move fast, but his body does not move at all.
-[Ninereeds]No. A sneak moves without sound, keeps low, and slips behind cover. Here the boy’s limbs do not respond, and his body stays still even when his eyes dart. That is not sneak — that is paralysis. When the body cannot move despite trying, it is paralysis.
-
 [user]Ein Junge liegt auf dem Weg beim Mühlenteich. Seine Arme und Beine bleiben flach auf dem Boden, und seine Augen bewegen sich schnell, aber sein Körper rührt sich gar nicht.
 [Ninereeds]Nein. Ein Schleicher bewegt sich lautlos, bleibt niedrig und verschwindet hinter Deckung. Hier reagieren die Glieder des Jungen nicht, und sein Körper bleibt still, obwohl die Augen zucken. Das ist nicht Schleichen – das ist Lähmung. Wenn der Körper sich trotz Mühe nicht bewegen kann, ist es Lähmung.
 
@@ -9,3 +6,6 @@
 
 [user]一個男孩躺在池塘旁的小路上。他的手臂和雙腿平放在地上，眼睛快速轉動，但身體完全不動。
 [Ninereeds]不是。偷偷行動的人會無聲移動、壓低身體、躲到掩護後面。這裡男孩的肢體沒有反應，眼睛雖然在動，身體卻一動也不動。那不是偷偷行動——那是麻痺。當身體儘管努力卻無法移動時，就是麻痺。
+
+[user]A boy lies on the path near the millpond. His arms and legs stay flat on the ground, and his eyes move fast, but his body does not move at all.
+[Ninereeds]No. A sneak moves without sound, keeps low, and slips behind cover. Here the boy’s limbs do not respond, and his body stays still even when his eyes dart. That is not sneak — that is paralysis. When the body cannot move despite trying, it is paralysis.

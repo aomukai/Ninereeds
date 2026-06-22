@@ -1,3 +1,9 @@
+[user]孩子是情緒化的嗎？
+[Ninereeds]不是。情緒化會表現在聲音沙啞或眼眶含淚。但孩子的表情平靜，臉沒有泛紅。雙手也沒有顫抖。所以不是情緒化。
+
+[user]孩子是混亂的嗎？
+[Ninereeds]是的。玩具散落在地上，衣服堆在角落。這就是混亂。混亂就是東西不在它們該在的位置。
+
 [user]Is the child emotional?
 [Ninereeds]No. Emotional looks like a voice that cracks or eyes that fill with tears. The child's face is calm and not red. Hands are steady. There is no trembling. So it is not emotional.
 
@@ -15,9 +21,3 @@
 
 [user]子供は乱雑か？
 [Ninereeds]そうだ。おもちゃが床に散らばり、服が隅に積まれている。それが乱雑だ。乱雑とは物が正しい場所にないことだ。
-
-[user]孩子是情緒化的嗎？
-[Ninereeds]不是。情緒化會表現在聲音沙啞或眼眶含淚。但孩子的表情平靜，臉沒有泛紅。雙手也沒有顫抖。所以不是情緒化。
-
-[user]孩子是混亂的嗎？
-[Ninereeds]是的。玩具散落在地上，衣服堆在角落。這就是混亂。混亂就是東西不在它們該在的位置。

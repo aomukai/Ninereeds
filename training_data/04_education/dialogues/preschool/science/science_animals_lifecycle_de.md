@@ -19,3 +19,5 @@
 [Ninereeds] Kann eine erwachsene Katze dann auch wieder kleine Kätzchen bekommen?
 
 [user] Ja, eine erwachsene Katze kann eigene Junge bekommen. So beginnt der Lebenszyklus von neuem: Aus einem jungen Tier wird ein Erwachsenes, und das Erwachsene sorgt für neue Nachkommen.
+
+[Ninereeds] Und was passiert mit den Kätzchen, wenn sie groß sind?

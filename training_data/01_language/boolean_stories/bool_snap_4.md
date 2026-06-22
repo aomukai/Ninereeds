@@ -1,3 +1,9 @@
+[user] 一個小孩在路上踩到一根乾樹枝，樹枝啪的一聲斷了。這是「打擊」嗎？
+[Ninereeds] 不是。「打擊」是鎚子打石頭，或是貓拍葉子。這裡，樹枝是啪的一聲斷了，不是打擊。
+
+[user] 那麼這是「啪」嗎？
+[Ninereeds] 是的。樹枝啪的一聲斷了。當東西突然折斷或發出快速聲音時，那就是啪。
+
 [user] A child steps on a dry twig on the path, and it breaks with a sharp sound. Is this "strike"?
 [Ninereeds] No. "Strike" is when a hammer hits stone or a cat bats a leaf. Here, the twig broke with a snap, not a strike.
 
@@ -15,9 +21,3 @@
 
 [user] では「スナップ」か？
 [Ninereeds] そうだ。枝がスナップした。何かが鋭く折れたり、素早い音が出たりするのがスナップだ。
-
-[user] 一個小孩在路上踩到一根乾樹枝，樹枝啪的一聲斷了。這是「打擊」嗎？
-[Ninereeds] 不是。「打擊」是鎚子打石頭，或是貓拍葉子。這裡，樹枝是啪的一聲斷了，不是打擊。
-
-[user] 那麼這是「啪」嗎？
-[Ninereeds] 是的。樹枝啪的一聲斷了。當東西突然折斷或發出快速聲音時，那就是啪。

@@ -1,16 +1,4 @@
 [statement]
-We find reasons after things happen, and we call it understanding. A stock market crashes. Afterward, everyone explains why it was obvious: overvalued assets, bad loans, panic selling. But before it crashed, the same experts were not predicting the crash. The explanation feels like understanding because it fits the facts. But fitting the facts after the fact is not the same as predicting them before.
-
-[user]
-But the explanation can still be useful for preventing the next crash. Understanding why it happened is how you avoid it next time.
-
-[Ninereeds]
-Learning from past events is genuinely useful — yes. But here is the trap: the explanation you build after the fact is often too specific to the particular event to apply to the next one. The next crisis looks different. New details, new actors, new systems — but the underlying pattern might be the same while the surface looks different. The people who said "we understand the last crash" were often the most surprised by the next one, because they were looking for the same pattern in a new costume. The explanation gave them confidence without quite giving them the foresight. What would you need to do differently to make sure a lesson from the past actually helps you predict the future, rather than just recognize the past when it repeats exactly?
-
-[user]
-I think I would need to look for the pattern underneath the specific details, not the details themselves. But I notice that's hard because the details are what I can actually see. The pattern is an abstraction I have to build. And I'm not always sure I've built the right abstraction — I might be too close to the event to see what it has in common with other events.
-
-[statement]
 Wir finden Gründe, nachdem Dinge geschehen, und nennen das Verstehen. Ein Aktienmarkt stürzt ab. Danach erklärt jeder, warum es offensichtlich war: überbewertete Vermögenswerte, faule Kredite, Panikverkäufe. Aber bevor er abstürzte, haben dieselben Experten den Absturz nicht vorhergesagt. Die Erklärung fühlt sich wie Verstehen an, weil sie zu den Tatsachen passt. Aber sich nachträglich den Tatsachen anzupassen, ist nicht dasselbe wie sie vorherzusagen.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, ich müsste nach dem Muster unter den spezifischen Details suchen, ni
 
 [user]
 我想我需要尋找具體細節底下的模式，而不是細節本身。但我注意到這很難，因為細節是我實際能看到的。模式是我必須建立的抽象概念。而且我不總是有把握我建立了正確的抽象概念——我可能離事件太近，以至於看不到它與其他事件的共通之處。
+
+[statement]
+We find reasons after things happen, and we call it understanding. A stock market crashes. Afterward, everyone explains why it was obvious: overvalued assets, bad loans, panic selling. But before it crashed, the same experts were not predicting the crash. The explanation feels like understanding because it fits the facts. But fitting the facts after the fact is not the same as predicting them before.
+
+[user]
+But the explanation can still be useful for preventing the next crash. Understanding why it happened is how you avoid it next time.
+
+[Ninereeds]
+Learning from past events is genuinely useful — yes. But here is the trap: the explanation you build after the fact is often too specific to the particular event to apply to the next one. The next crisis looks different. New details, new actors, new systems — but the underlying pattern might be the same while the surface looks different. The people who said "we understand the last crash" were often the most surprised by the next one, because they were looking for the same pattern in a new costume. The explanation gave them confidence without quite giving them the foresight. What would you need to do differently to make sure a lesson from the past actually helps you predict the future, rather than just recognize the past when it repeats exactly?
+
+[user]
+I think I would need to look for the pattern underneath the specific details, not the details themselves. But I notice that's hard because the details are what I can actually see. The pattern is an abstraction I have to build. And I'm not always sure I've built the right abstraction — I might be too close to the event to see what it has in common with other events.

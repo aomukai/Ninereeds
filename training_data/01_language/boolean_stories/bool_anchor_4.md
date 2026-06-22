@@ -1,3 +1,9 @@
+[user] 那個小孩被困住了嗎？
+[Ninereeds] 不是。如果是被困住，我們會看到腿卡在洞裡，或者門打不開。但這裡的小孩可以自由走動。繩子繫在一塊大石頭上，船一直停在岸邊。
+
+[user] 那個小孩在固定船嗎？
+[Ninereeds] 是的。繩子繫在大石頭上，船不會漂走。當某樣東西讓船停在原位時，那就是錨。
+
 [user] Is the child trapped?
 [Ninereeds] No. If the child were trapped, we would see a leg stuck in a hole or a door that will not open. But here the child can walk freely. The rope is tied to a heavy stone, and the boat stays near the shore.
 
@@ -15,9 +21,3 @@
 
 [user] 子どもは船を係留しているのか？
 [Ninereeds] そうだ。ロープが重い石に結ばれていて、船は流されない。何かが船をその場に留めているとき、それは錨（いかり）だ。
-
-[user] 那個小孩被困住了嗎？
-[Ninereeds] 不是。如果是被困住，我們會看到腿卡在洞裡，或者門打不開。但這裡的小孩可以自由走動。繩子繫在一塊大石頭上，船一直停在岸邊。
-
-[user] 那個小孩在固定船嗎？
-[Ninereeds] 是的。繩子繫在大石頭上，船不會漂走。當某樣東西讓船停在原位時，那就是錨。

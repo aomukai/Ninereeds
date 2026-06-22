@@ -1,3 +1,9 @@
+[user]那個男孩是在拍打刀子嗎？
+[Ninereeds]不是。如果是拍打，手會打到臉、會有一聲脆響、臉頰會變紅。這裡男孩拿著石頭，不是手掌。沒有臉、沒有響聲、沒有紅印。石頭沿著刀刃移動，不是打在臉頰上。
+
+[user]那個男孩是在磨利刀子嗎？
+[Ninereeds]是的。石頭摩擦刀刃，直到邊緣變薄。之後刀子會更好切。原則是：用石頭磨工具能讓它變鋒利。
+
 [user]Is the boy slapping the knife?
 [Ninereeds]No. A slap would need a hand hitting a face, a sharp echo, and a red cheek. Here, the boy’s hand holds a stone, not a palm. There is no face, no sound, no red mark. The stone moves along the blade, not against a cheek.
 
@@ -15,9 +21,3 @@
 
 [user]少年は刃物を研いでいるのか？
 [Ninereeds]そうだ。石が刃を擦り、刃先が薄くなる。その後、刃物はよく切れるようになる。原理は、石で道具を研ぐと鋭くなるということだ。
-
-[user]那個男孩是在拍打刀子嗎？
-[Ninereeds]不是。如果是拍打，手會打到臉、會有一聲脆響、臉頰會變紅。這裡男孩拿著石頭，不是手掌。沒有臉、沒有響聲、沒有紅印。石頭沿著刀刃移動，不是打在臉頰上。
-
-[user]那個男孩是在磨利刀子嗎？
-[Ninereeds]是的。石頭摩擦刀刃，直到邊緣變薄。之後刀子會更好切。原則是：用石頭磨工具能讓它變鋒利。

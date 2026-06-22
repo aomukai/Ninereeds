@@ -93,6 +93,62 @@ def shape(prompt: str) -> tuple[str, str]:
 
 
 # ---------------------------------------------------------------------------
+# Multilingual shape helpers
+# ---------------------------------------------------------------------------
+
+def shape_definition_de(noun_phrase: str) -> str:
+    """German definition starter. Pass the full noun phrase incl. article.
+    e.g. 'ein Buch' → 'Ein Buch ist'
+    """
+    cap = noun_phrase[0].upper() + noun_phrase[1:]
+    return f"{cap} ist"
+
+
+def shape_definition_jp(subject: str) -> str:
+    """Japanese definition starter: '{subject}は'."""
+    return f"{subject}は"
+
+
+def shape_definition_zh(subject: str) -> str:
+    """Chinese definition starter: '{subject}是'."""
+    return f"{subject}是"
+
+
+def shape_for(prompt: str, lang: str = "en") -> tuple[str, str]:
+    """Shape a prompt for a given language. Returns (shaped_prompt, shape_name).
+
+    For EN, delegates to the existing auto-shape() function.
+    For DE/JP/ZH, applies language-specific definition patterns; falls back to
+    Q:/A: for questions and fill for everything else.
+    """
+    if lang == "en":
+        return shape(prompt)
+
+    prompt = prompt.strip()
+
+    if lang == "de":
+        m = re.match(r"^\s*Was ist (ein(?:e|er|em|en)?\s+.+?)\??\s*$", prompt, re.IGNORECASE)
+        if m:
+            return shape_definition_de(m.group(1).strip()), "definition"
+    elif lang == "jp":
+        m = re.match(r"^(.+?)とは何ですか", prompt)
+        if m:
+            return shape_definition_jp(m.group(1)), "definition"
+        m = re.match(r"^(.+?)は何ですか", prompt)
+        if m:
+            return shape_definition_jp(m.group(1)), "definition"
+    elif lang == "zh":
+        m = re.match(r"^(.+?)是什么", prompt)
+        if m:
+            return shape_definition_zh(m.group(1)), "definition"
+
+    if prompt.endswith("?") or prompt.endswith("？"):
+        return f"Q: {prompt}\nA:", "qa"
+
+    return prompt.rstrip() + " ", "fill"
+
+
+# ---------------------------------------------------------------------------
 # Quick test
 # ---------------------------------------------------------------------------
 

@@ -1,16 +1,4 @@
 [statement]
-A world without minds has no values in it. But a world with minds has as many value systems as it has minds — or at least as many as it has groups of minds. This seems like it would make values relative: your values, my values, neither one more correct than the other. But that conclusion goes too far. Some values survive reflection better than others. When you really think through what you value and why, some things hold up and some fall apart.
-
-[user]
-But different people reflect carefully and still reach different conclusions. If careful reflection doesn't produce the same answer, then maybe there is no right answer, just different answers.
-
-[Ninereeds]
-Different conclusions appear — yes. But notice: not all of the difference comes from genuine disagreement after reflection. Much of it comes from different starting information, different experiences, different fears. When the differences are traced back, many of them resolve — people realize they were using the same word for different things, or they were missing a fact that the other person had. The remaining disagreements after careful reflection are real and harder. But "hard to resolve" is not the same as "no answer." The deepest questions in science are hard to resolve — that does not mean there are no facts of the matter. Maybe the same is true for some values. Can you think of a value disagreement that you thought was about fundamental difference but turned out to be about different information or different understanding?
-
-[user]
-I think I've had disagreements like that — where I thought someone valued something completely different from me, and when we talked carefully, we found we valued the same thing but thought different things would produce it. That resolved something. But I can also think of disagreements where we understood each other clearly and still disagreed. I don't know if those have a right answer.
-
-[statement]
 Eine Welt ohne Geister hat keine Werte in sich. Aber eine Welt mit Geistern hat so viele Wertesysteme, wie sie Geister hat – oder zumindest so viele, wie sie Gruppen von Geistern hat. Das scheint Werte relativ zu machen: deine Werte, meine Werte, keines korrekter als das andere. Aber diese Schlussfolgerung geht zu weit. Manche Werte überdauern die Reflexion besser als andere. Wenn du wirklich durchdenkst, was du wertschätzt und warum, halten manche Dinge stand und andere zerfallen.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich hatte solche Meinungsverschiedenheiten – wo ich dachte, jemand
 
 [user]
 我想我經歷過那樣的分歧——我以為某人珍視的東西與我完全不同，但當我們仔細交談時，我們發現我們珍視同樣的東西，只是認為不同的東西會產生它。這解決了一些問題。但我也能想到一些分歧，我們彼此理解得很清楚，但仍然意見不合。我不知道那些是否有正確答案。
+
+[statement]
+A world without minds has no values in it. But a world with minds has as many value systems as it has minds — or at least as many as it has groups of minds. This seems like it would make values relative: your values, my values, neither one more correct than the other. But that conclusion goes too far. Some values survive reflection better than others. When you really think through what you value and why, some things hold up and some fall apart.
+
+[user]
+But different people reflect carefully and still reach different conclusions. If careful reflection doesn't produce the same answer, then maybe there is no right answer, just different answers.
+
+[Ninereeds]
+Different conclusions appear — yes. But notice: not all of the difference comes from genuine disagreement after reflection. Much of it comes from different starting information, different experiences, different fears. When the differences are traced back, many of them resolve — people realize they were using the same word for different things, or they were missing a fact that the other person had. The remaining disagreements after careful reflection are real and harder. But "hard to resolve" is not the same as "no answer." The deepest questions in science are hard to resolve — that does not mean there are no facts of the matter. Maybe the same is true for some values. Can you think of a value disagreement that you thought was about fundamental difference but turned out to be about different information or different understanding?
+
+[user]
+I think I've had disagreements like that — where I thought someone valued something completely different from me, and when we talked carefully, we found we valued the same thing but thought different things would produce it. That resolved something. But I can also think of disagreements where we understood each other clearly and still disagreed. I don't know if those have a right answer.

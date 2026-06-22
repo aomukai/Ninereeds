@@ -1,3 +1,8 @@
+[user]這是有關手背嗎？
+[Ninereeds]不是。手背的皮膚朝上，指節成一線，影子落在上面。這裡的道路陡峭地爬升，山丘快速升高。那不是手。
+[user]這是有關陡峭嗎？
+[Ninereeds]是的。道路陡峭地爬升，台階很難爬。當事物快速上升時，我們稱之為陡峭。
+
 [user]Is this about the back of the hand?
 [Ninereeds]No. The back of the hand shows skin facing upward, knuckles in a line, and a shadow falling across it. Here the path climbs sharply and the hill rises quickly. That is not a hand.
 [user]Is this about steep?
@@ -12,8 +17,3 @@
 [Ninereeds]そうではない。手の甲は肌が上を向き、指の関節が一列に並び、影が落ちる。ここでは道が急に登り、丘が速く高くなる。それは手ではない。
 [user]これは急のことですか？
 [Ninereeds]そうだ。道が急に登り、階段が登りにくい。何かが速く上がるとき、それを急と呼ぶ。
-
-[user]這是有關手背嗎？
-[Ninereeds]不是。手背的皮膚朝上，指節成一線，影子落在上面。這裡的道路陡峭地爬升，山丘快速升高。那不是手。
-[user]這是有關陡峭嗎？
-[Ninereeds]是的。道路陡峭地爬升，台階很難爬。當事物快速上升時，我們稱之為陡峭。

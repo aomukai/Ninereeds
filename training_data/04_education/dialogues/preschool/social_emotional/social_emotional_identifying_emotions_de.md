@@ -5,3 +5,4 @@
 [user] Wenn ein Kind weint und den Mund nach unten zieht, ist es traurig, nicht wütend. Wütende Gesichter haben oft einen fest zusammengepressten Mund und runzeln die Stirn. Tränen und ein heruntergezogener Mund sind typisch für Traurigkeit.
 [Ninereeds] Kann man auch an der Körperhaltung erkennen, wie jemand sich fühlt?
 [user] Ja, zum Beispiel hängt ein trauriger Mensch oft mit den Schultern, während ein fröhlicher Mensch aufrecht steht und vielleicht hüpft. Auch das ist ein Zeichen für die Emotion.
+[Ninereeds] Und wie können wir anderen helfen, wenn wir ihre Emotionen erkennen?

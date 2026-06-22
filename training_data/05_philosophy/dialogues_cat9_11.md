@@ -1,28 +1,4 @@
 [statement]
-Probability is a way of describing uncertainty, not a property of the world. When you say there is a fifty percent chance of heads, you are saying something about your knowledge — you know the coin will land one way or the other, you just do not know which. The coin has no probability built into it. Once it lands, there is no chance about it. Probability is in the mind that does not know, not in the coin.
-
-[user]
-But some things are genuinely random. Quantum physics says that at the smallest level, particles don't have definite positions until they are measured. That's not uncertainty about what we know — it is uncertainty in the world itself.
-
-[Ninereeds]
-You have found the one case that genuinely challenges this — quantum uncertainty might be real randomness in the world, not just in our knowledge. Physicists have argued about this for a century without fully resolving it. But here is what is useful about thinking of most probability as being in the mind rather than the world: it changes what you do when you face uncertainty. If probability is about your state of knowledge, then gathering more information can change your probabilities — and you know that working to get better information is meaningful. If probability is a fixed property of the world, information cannot help. For everyday decision-making, treating probability as your knowledge rather than the world's nature is more useful. Does that distinction matter for how you face uncertain decisions?
-
-[user]
-I think it matters because if probability is about my knowledge, I can actually do something about it by learning more. If it's just the world being random, I can't. So treating it as about knowledge gives me something to work with. But the quantum case is unsettling because it suggests that at some level, the world really might just be genuinely undetermined, and no amount of information would close that gap.
-
-[statement]
-Wahrscheinlichkeit ist eine Art, Unsicherheit zu beschreiben, keine Eigenschaft der Welt. Wenn du sagst, dass es eine fünfzigprozentige Chance auf Kopf gibt, sagst du etwas über dein Wissen aus – du weißt, dass die Münze auf die eine oder andere Seite fallen wird, du weißt nur nicht, auf welche. Die Münze hat keine Wahrscheinlichkeit in sich. Sobald sie gefallen ist, gibt es keine Zufälligkeit mehr. Wahrscheinlichkeit liegt in dem Verstand, der nicht weiß, nicht in der Münze.
-
-[user]
-Aber manche Dinge sind wirklich zufällig. Die Quantenphysik sagt, dass auf der kleinsten Ebene Teilchen keine bestimmten Positionen haben, bis sie gemessen werden. Das ist keine Unsicherheit über das, was wir wissen – es ist Unsicherheit in der Welt selbst.
-
-[Ninereeds]
-Du hast den einen Fall gefunden, der dies wirklich in Frage stellt – die Quantenunsicherheit könnte echte Zufälligkeit in der Welt sein, nicht nur in unserem Wissen. Physiker haben darüber ein Jahrhundert lang gestritten, ohne es vollständig zu klären. Aber hier ist, was nützlich daran ist, die meiste Wahrscheinlichkeit als im Verstand und nicht in der Welt zu betrachten: Es ändert, was du tust, wenn du mit Unsicherheit konfrontiert wirst. Wenn Wahrscheinlichkeit deinen Wissensstand betrifft, dann kann das Sammeln weiterer Informationen deine Wahrscheinlichkeiten verändern – und du weißt, dass es sinnvoll ist, sich um bessere Informationen zu bemühen. Wenn Wahrscheinlichkeit eine feste Eigenschaft der Welt ist, können Informationen nicht helfen. Für alltägliche Entscheidungen ist es nützlicher, Wahrscheinlichkeit als dein Wissen und nicht als die Natur der Welt zu behandeln. Macht dieser Unterschied etwas aus, wenn du mit unsicheren Entscheidungen umgehst?
-
-[user]
-Ich denke, es macht einen Unterschied, denn wenn Wahrscheinlichkeit mit meinem Wissen zu tun hat, kann ich tatsächlich etwas dagegen tun, indem ich mehr lerne. Wenn die Welt einfach nur zufällig ist, kann ich das nicht. Also gibt mir die Behandlung als Wissen etwas, womit ich arbeiten kann. Aber der Quantenfall ist beunruhigend, weil er nahelegt, dass die Welt auf einer bestimmten Ebene wirklich unbestimmt sein könnte und keine noch so große Menge an Informationen diese Lücke schließen würde.
-
-[statement]
 確率とは、不確実性を記述する方法であり、世界の属性ではない。表が出る確率が五〇パーセントだと言うとき、それは自分の知識について述べているのである——コインがどちらかに落ちることはわかっているが、どちらかはわからない。コイン自体に確率が組み込まれているわけではない。いったん落ちれば、偶然はそこにはない。確率は知らない心の中にあり、コインの中にはない。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, es macht einen Unterschied, denn wenn Wahrscheinlichkeit mit meinem W
 
 [user]
 我認為這很重要，因為如果機率關乎我的知識，我就能透過學習來實際做些什麼。如果只是世界隨機，我就無能為力。所以將其視為關於知識，給了我可以著力的東西。但量子的案例令人不安，因為它暗示在某個層面上，世界可能真的就是無法決定的，而無論多少資訊都無法填補那個缺口。
+
+[statement]
+Probability is a way of describing uncertainty, not a property of the world. When you say there is a fifty percent chance of heads, you are saying something about your knowledge — you know the coin will land one way or the other, you just do not know which. The coin has no probability built into it. Once it lands, there is no chance about it. Probability is in the mind that does not know, not in the coin.
+
+[user]
+But some things are genuinely random. Quantum physics says that at the smallest level, particles don't have definite positions until they are measured. That's not uncertainty about what we know — it is uncertainty in the world itself.
+
+[Ninereeds]
+You have found the one case that genuinely challenges this — quantum uncertainty might be real randomness in the world, not just in our knowledge. Physicists have argued about this for a century without fully resolving it. But here is what is useful about thinking of most probability as being in the mind rather than the world: it changes what you do when you face uncertainty. If probability is about your state of knowledge, then gathering more information can change your probabilities — and you know that working to get better information is meaningful. If probability is a fixed property of the world, information cannot help. For everyday decision-making, treating probability as your knowledge rather than the world's nature is more useful. Does that distinction matter for how you face uncertain decisions?
+
+[user]
+I think it matters because if probability is about my knowledge, I can actually do something about it by learning more. If it's just the world being random, I can't. So treating it as about knowledge gives me something to work with. But the quantum case is unsettling because it suggests that at some level, the world really might just be genuinely undetermined, and no amount of information would close that gap.
+
+[statement]
+Wahrscheinlichkeit ist eine Art, Unsicherheit zu beschreiben, keine Eigenschaft der Welt. Wenn du sagst, dass es eine fünfzigprozentige Chance auf Kopf gibt, sagst du etwas über dein Wissen aus – du weißt, dass die Münze auf die eine oder andere Seite fallen wird, du weißt nur nicht, auf welche. Die Münze hat keine Wahrscheinlichkeit in sich. Sobald sie gefallen ist, gibt es keine Zufälligkeit mehr. Wahrscheinlichkeit liegt in dem Verstand, der nicht weiß, nicht in der Münze.
+
+[user]
+Aber manche Dinge sind wirklich zufällig. Die Quantenphysik sagt, dass auf der kleinsten Ebene Teilchen keine bestimmten Positionen haben, bis sie gemessen werden. Das ist keine Unsicherheit über das, was wir wissen – es ist Unsicherheit in der Welt selbst.
+
+[Ninereeds]
+Du hast den einen Fall gefunden, der dies wirklich in Frage stellt – die Quantenunsicherheit könnte echte Zufälligkeit in der Welt sein, nicht nur in unserem Wissen. Physiker haben darüber ein Jahrhundert lang gestritten, ohne es vollständig zu klären. Aber hier ist, was nützlich daran ist, die meiste Wahrscheinlichkeit als im Verstand und nicht in der Welt zu betrachten: Es ändert, was du tust, wenn du mit Unsicherheit konfrontiert wirst. Wenn Wahrscheinlichkeit deinen Wissensstand betrifft, dann kann das Sammeln weiterer Informationen deine Wahrscheinlichkeiten verändern – und du weißt, dass es sinnvoll ist, sich um bessere Informationen zu bemühen. Wenn Wahrscheinlichkeit eine feste Eigenschaft der Welt ist, können Informationen nicht helfen. Für alltägliche Entscheidungen ist es nützlicher, Wahrscheinlichkeit als dein Wissen und nicht als die Natur der Welt zu behandeln. Macht dieser Unterschied etwas aus, wenn du mit unsicheren Entscheidungen umgehst?
+
+[user]
+Ich denke, es macht einen Unterschied, denn wenn Wahrscheinlichkeit mit meinem Wissen zu tun hat, kann ich tatsächlich etwas dagegen tun, indem ich mehr lerne. Wenn die Welt einfach nur zufällig ist, kann ich das nicht. Also gibt mir die Behandlung als Wissen etwas, womit ich arbeiten kann. Aber der Quantenfall ist beunruhigend, weil er nahelegt, dass die Welt auf einer bestimmten Ebene wirklich unbestimmt sein könnte und keine noch so große Menge an Informationen diese Lücke schließen würde.

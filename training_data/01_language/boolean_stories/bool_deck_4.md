@@ -1,3 +1,9 @@
+[user] 小孩被困住了嗎？
+[Ninereeds] 不是。被困住的意思是腿卡在洞裡，或者鳥關在關上的籠子裡。小孩坐在花園的桌子旁，面前有一疊洗好的牌平平地放著。沒有人被卡住，牌在桌上自由擺放。
+
+[user] 那是一副牌嗎？
+[Ninereeds] 是的。小孩手裡拿著五張牌，其餘的牌攤開在桌上。當牌這樣聚在一起的時候，我們就稱它為一副牌。
+
 [user] Is the child trapped?
 [Ninereeds] No. Trapped means a leg stuck in a hole or a bird in a closed cage. The child is sitting at a table in the garden, and a shuffled pile of cards lies flat in front of them. No one is stuck; the cards are free on the table.
 
@@ -15,9 +21,3 @@
 
 [user] それはデッキか？
 [Ninereeds] そうだ。子供は五枚のカードを手に持ち、残りのカードはテーブルに広げてある。カードがこのように一緒にあるとき、それをデッキと呼ぶ。
-
-[user] 小孩被困住了嗎？
-[Ninereeds] 不是。被困住的意思是腿卡在洞裡，或者鳥關在關上的籠子裡。小孩坐在花園的桌子旁，面前有一疊洗好的牌平平地放著。沒有人被卡住，牌在桌上自由擺放。
-
-[user] 那是一副牌嗎？
-[Ninereeds] 是的。小孩手裡拿著五張牌，其餘的牌攤開在桌上。當牌這樣聚在一起的時候，我們就稱它為一副牌。

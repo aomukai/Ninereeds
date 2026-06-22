@@ -1,3 +1,9 @@
+[user]這是手背嗎？
+[Ninereeds]不是。手背的皮膚朝上，指節排成一線。這裡男孩正在拉韁繩。你看不到他的手背。這個動作是關於轉向，不是關於手的樣子。
+
+[user]這是操縱（steer）嗎？
+[Ninereeds]是的。男孩拉左邊的韁繩，驢子把車轉向右邊。那就是操縱。當你引導某物改變方向，那就是操縱。
+
 [user]Is this the back of the hand?
 [Ninereeds]No. The back of the hand has skin facing up and knuckles in a line. Here the boy’s hands are pulling the reins. You cannot see the back of his hand. The action is about turning, not about how the hand looks.
 
@@ -15,9 +21,3 @@
 
 [user]これは操縦（steer）か？
 [Ninereeds]そうだ。少年が左の手綱を引き、ロバが荷車を右へ曲げる。それが操縦だ。何かを導いて方向を変えること、それが操縦だ。
-
-[user]這是手背嗎？
-[Ninereeds]不是。手背的皮膚朝上，指節排成一線。這裡男孩正在拉韁繩。你看不到他的手背。這個動作是關於轉向，不是關於手的樣子。
-
-[user]這是操縱（steer）嗎？
-[Ninereeds]是的。男孩拉左邊的韁繩，驢子把車轉向右邊。那就是操縱。當你引導某物改變方向，那就是操縱。

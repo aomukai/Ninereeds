@@ -1,3 +1,9 @@
+[user]那個孩子被困住了嗎？
+[Ninereeds]不是。被困住的意思是腳卡在洞裡、鳥關在籠子裡、或門打不開。那個孩子自由地站在井邊。她的腳沒有被卡住。她手裡握著繩子，但沒有東西困住她。
+
+[user]那個孩子正在緊握嗎？
+[Ninereeds]是的。她的指節發白，手指深深嵌入繩子。繩子一動也不動。當某樣東西被緊緊握住、無法移動時，那就是「緊握」。
+
 [user]Is the child trapped?
 [Ninereeds]No. Trapped means a leg stuck in a hole, or a bird in a closed cage, or a door that will not open. The child is standing free by the well. Her leg is not stuck. The rope is in her hands, but nothing holds her.
 
@@ -15,9 +21,3 @@
 
 [user]あの子は、しっかり掴んでいる？
 [Ninereeds]そうだ。指の関節が白くなり、指がロープに深く食い込んでいる。ロープはまったく動かない。何かをしっかりと握って動かせない状態、それが「掴んでいる」ということだ。
-
-[user]那個孩子被困住了嗎？
-[Ninereeds]不是。被困住的意思是腳卡在洞裡、鳥關在籠子裡、或門打不開。那個孩子自由地站在井邊。她的腳沒有被卡住。她手裡握著繩子，但沒有東西困住她。
-
-[user]那個孩子正在緊握嗎？
-[Ninereeds]是的。她的指節發白，手指深深嵌入繩子。繩子一動也不動。當某樣東西被緊緊握住、無法移動時，那就是「緊握」。

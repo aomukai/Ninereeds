@@ -1,4 +1,8 @@
-A boy swings a hammer against a stone in the field. The hammer strikes the stone with a sharp crack.
+[user] 那個男孩被困住了嗎？
+[Ninereeds] 不是。「被困住」的意思是卡住，像是腿卡在洞裡，或鳥關在籠子裡。男孩沒有被卡住，他可以自由活動，揮動著錘子。
+
+[user] 那是「擊打」嗎？
+[Ninereeds] 是的。錘子擊中石頭就是「擊打」。當一個東西用力撞到另一個東西，那就是擊打。
 
 [user] Is the boy trapped?
 [Ninereeds] No. "Trapped" means being stuck, like a leg in a hole or a bird in a cage. The boy is not stuck; he is moving freely and swinging the hammer.
@@ -17,9 +21,3 @@ A boy swings a hammer against a stone in the field. The hammer strikes the stone
 
 [user] それは「打つ」ことか？
 [Ninereeds] そうだ。ハンマーが石に当たるのは「打つ」だ。何かが別の何かに強く当たるとき、それが「打つ」だ。
-
-[user] 那個男孩被困住了嗎？
-[Ninereeds] 不是。「被困住」的意思是卡住，像是腿卡在洞裡，或鳥關在籠子裡。男孩沒有被卡住，他可以自由活動，揮動著錘子。
-
-[user] 那是「擊打」嗎？
-[Ninereeds] 是的。錘子擊中石頭就是「擊打」。當一個東西用力撞到另一個東西，那就是擊打。

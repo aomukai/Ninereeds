@@ -23,3 +23,5 @@
 [Ninereeds] Kannst du mir ein konkretes Beispiel nennen, wie ein Vulkanausbruch mehrere Sphären gleichzeitig beeinflusst?
 
 [user] Ja. Wenn ein Vulkan ausbricht, kommt Lava und Asche aus der Geosphäre. Die Asche gelangt in die Atmosphäre und kann dort die Sonne abschirmen. Gleichzeitig kann heiße Lava ins Meer fließen, also in die Hydrosphäre, und das Wasser erwärmen oder Lebensräume in der Biosphäre zerstören.
+
+[Ninereeds] Und wie könnten Menschen dieses Zusammenspiel der Sphären positiv beeinflussen?

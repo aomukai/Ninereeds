@@ -23,3 +23,5 @@
 [Ninereeds] Was ist der Unterschied zwischen einem Wald, in dem die Bäume im Winter ihre Blätter verlieren, und einem Wald, in dem sie immer grün bleiben?
 
 [user] Ein Wald, in dem die Bäume im Winter ihre Blätter verlieren, heißt gemäßigter Laubwald. Der boreale Nadelwald, den man auch Taiga nennt, hat dagegen immergrüne Bäume mit Nadeln, weil die Wachstumszeit dort kurz ist.
+
+[Ninereeds] Welche Tiere leben typischerweise im gemäßigten Laubwald?

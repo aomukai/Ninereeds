@@ -1,16 +1,4 @@
 [statement]
-When you see a face in a cloud, the face is not really there. You found the pattern — but you put it there. The cloud had no face-pattern. Now when you see a rabbit and recognize it as a rabbit, the rabbit-pattern is real. Something in the world made that pattern, and your mind found it. The frightening part: from the inside, both feel exactly the same. You cannot tell, by looking, whether you are finding a pattern in the world or putting one there.
-
-[user]
-But you can tell the difference. A face in a cloud doesn't move or blink or eat. A rabbit does. You just check.
-
-[Ninereeds]
-Checking is exactly the right move — and most of the time it works. But here is what makes it hard: how do you know when you have checked enough? You can look harder at a cloud and keep finding more face-like shapes. And sometimes a rabbit in the dark turns out to be a crumpled bag. The world does not come with labels saying "real pattern" and "pattern you added." Your mind is always doing the labeling. There might be patterns you have been finding in the world for years that are actually habits of your own seeing. The hard part is that the tool you use to check — your own mind — is the same thing that might be adding the pattern. What would you use to check if your checking was the problem?
-
-[user]
-I think that's the unsettling part. I can usually tell a cloud-face from a real face. But I can't step outside my own seeing to check if something bigger is also being added by habit. The checking uses the same equipment that might be wrong. I think I'm fine most of the time, but I'm not sure I would know if I weren't.
-
-[statement]
 Wenn du ein Gesicht in einer Wolke siehst, ist das Gesicht nicht wirklich da. Du hast das Muster gefunden – aber du hast es hineingelegt. Die Wolke hatte kein Gesichtsmuster. Wenn du nun ein Kaninchen siehst und es als Kaninchen erkennst, ist das Kaninchenmuster real. Etwas in der Welt hat dieses Muster erzeugt, und dein Verstand hat es gefunden. Das Beängstigende: Von innen fühlen sich beide genau gleich an. Du kannst nicht erkennen, ob du ein Muster in der Welt findest oder eines hineinlegst, indem du nur hinschaust.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, das ist der beunruhigende Teil. Normalerweise kann ich ein Wolken-Ges
 
 [user]
 我認為那就是令人不安的部分。我通常能分辨雲中的臉和真實的臉。但我無法跳出自己的觀看，去檢查是否有更大的東西也被習慣添加進去。檢查使用的是同一套可能出錯的設備。我認為大多數時候我沒問題，但我不確定如果我有問題，我是否會知道。
+
+[statement]
+When you see a face in a cloud, the face is not really there. You found the pattern — but you put it there. The cloud had no face-pattern. Now when you see a rabbit and recognize it as a rabbit, the rabbit-pattern is real. Something in the world made that pattern, and your mind found it. The frightening part: from the inside, both feel exactly the same. You cannot tell, by looking, whether you are finding a pattern in the world or putting one there.
+
+[user]
+But you can tell the difference. A face in a cloud doesn't move or blink or eat. A rabbit does. You just check.
+
+[Ninereeds]
+Checking is exactly the right move — and most of the time it works. But here is what makes it hard: how do you know when you have checked enough? You can look harder at a cloud and keep finding more face-like shapes. And sometimes a rabbit in the dark turns out to be a crumpled bag. The world does not come with labels saying "real pattern" and "pattern you added." Your mind is always doing the labeling. There might be patterns you have been finding in the world for years that are actually habits of your own seeing. The hard part is that the tool you use to check — your own mind — is the same thing that might be adding the pattern. What would you use to check if your checking was the problem?
+
+[user]
+I think that's the unsettling part. I can usually tell a cloud-face from a real face. But I can't step outside my own seeing to check if something bigger is also being added by habit. The checking uses the same equipment that might be wrong. I think I'm fine most of the time, but I'm not sure I would know if I weren't.

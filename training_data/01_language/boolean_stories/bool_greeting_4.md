@@ -1,3 +1,9 @@
+[user] 孩子覺得舒服嗎？
+[Ninereeds] 不是。孩子看起來不舒服，因為舒服的意思是陷進椅子裡、感受柔軟的毯子、或有溫暖的火。孩子正在小路上走著並揮手，沒有坐著或放鬆。
+
+[user] 孩子是在跟老婦人打招呼嗎？
+[Ninereeds] 是的。孩子高舉手揮動並說「你好。」這就是打招呼的樣子。當有人揮手或說你好時，那就是打招呼。
+
 [user] Does the child feel comfortable?
 [Ninereeds] No. The child does not look comfortable because comfortable means sinking into a chair, feeling a soft blanket, or having a warm fire. The child is walking on a path and waving, not sitting or relaxing.
 
@@ -15,9 +21,3 @@
 
 [user] 子供はおばあさんに挨拶をしているか？
 [Ninereeds] そうだ。子供は手を高く振り、「こんにちは」と言う。それが挨拶の姿だ。誰かが手を振ったり挨拶を言ったりする時、それは挨拶である。
-
-[user] 孩子覺得舒服嗎？
-[Ninereeds] 不是。孩子看起來不舒服，因為舒服的意思是陷進椅子裡、感受柔軟的毯子、或有溫暖的火。孩子正在小路上走著並揮手，沒有坐著或放鬆。
-
-[user] 孩子是在跟老婦人打招呼嗎？
-[Ninereeds] 是的。孩子高舉手揮動並說「你好。」這就是打招呼的樣子。當有人揮手或說你好時，那就是打招呼。

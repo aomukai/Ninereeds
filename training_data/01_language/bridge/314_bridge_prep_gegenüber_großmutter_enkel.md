@@ -12,3 +12,8 @@
 [across from the grandchild].
 [孫の向かいに].
 [孫子的對面]。
+
+Die Großmutter sitzt gegenüber dem Enkel.
+The grandmother sits across from the grandchild.
+祖母は孫の向かいに座る。
+祖母坐在孫子的對面。

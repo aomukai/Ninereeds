@@ -1,0 +1,88 @@
+# Probe set: C16 redesign corpus (concept anchoring)
+# Format: {"id", "campaign", "category", "lang", "prompt", "expected_cluster"}
+# Run with: python3 meta/scripts/brain_map.py probe --checkpoint $CKPT --probes training/corpus_admin/probe_sets/c16_concepts.jsonl --name c16_eN_concepts
+#
+# Category key:
+#   animals   — concrete fauna (dog, cat, bird, alligator, horse, fish)
+#   nature    — natural phenomena (waterfall, rain, mountain, river, sky, fire)
+#   food      — edible things (bread, apple, milk, rice, sugar, orange)
+#   household — everyday objects (chair, table, bed, door, window, cup)
+#   body      — body parts (hand, eye, nose, foot, ear, hair)
+#   emotions  — emotional states (happiness, anger, fear, sadness, excitement, pride)
+#   colors    — color concepts (red, blue, green, yellow, white, black)
+#   actions   — physical actions (running, swimming, eating, sleeping, climbing, talking)
+#   identity  — self-referential (who, name, capability, nature)
+#   boundary  — unknowable specifics (should activate "I don't know" response pattern)
+#
+# 10 categories × 6 probes = 60 probes total
+# All EN, all in [user]/[Ninereeds] training format
+
+{"id": "ani_01", "campaign": "c16", "category": "animals", "lang": "EN", "prompt": "[user]what is a dog?\n[Ninereeds]", "expected_cluster": "animals"}
+{"id": "ani_02", "campaign": "c16", "category": "animals", "lang": "EN", "prompt": "[user]what does a cat look like?\n[Ninereeds]", "expected_cluster": "animals"}
+{"id": "ani_03", "campaign": "c16", "category": "animals", "lang": "EN", "prompt": "[user]where do birds live?\n[Ninereeds]", "expected_cluster": "animals"}
+{"id": "ani_04", "campaign": "c16", "category": "animals", "lang": "EN", "prompt": "[user]what kind of animal is an alligator?\n[Ninereeds]", "expected_cluster": "animals"}
+{"id": "ani_05", "campaign": "c16", "category": "animals", "lang": "EN", "prompt": "[user]describe a horse\n[Ninereeds]", "expected_cluster": "animals"}
+{"id": "ani_06", "campaign": "c16", "category": "animals", "lang": "EN", "prompt": "[user]what is a fish?\n[Ninereeds]", "expected_cluster": "animals"}
+
+{"id": "nat_01", "campaign": "c16", "category": "nature", "lang": "EN", "prompt": "[user]what is a waterfall?\n[Ninereeds]", "expected_cluster": "nature"}
+{"id": "nat_02", "campaign": "c16", "category": "nature", "lang": "EN", "prompt": "[user]what does rain feel like?\n[Ninereeds]", "expected_cluster": "nature"}
+{"id": "nat_03", "campaign": "c16", "category": "nature", "lang": "EN", "prompt": "[user]describe a mountain\n[Ninereeds]", "expected_cluster": "nature"}
+{"id": "nat_04", "campaign": "c16", "category": "nature", "lang": "EN", "prompt": "[user]what is a river?\n[Ninereeds]", "expected_cluster": "nature"}
+{"id": "nat_05", "campaign": "c16", "category": "nature", "lang": "EN", "prompt": "[user]what does the sky look like?\n[Ninereeds]", "expected_cluster": "nature"}
+{"id": "nat_06", "campaign": "c16", "category": "nature", "lang": "EN", "prompt": "[user]what is fire?\n[Ninereeds]", "expected_cluster": "nature"}
+
+{"id": "fod_01", "campaign": "c16", "category": "food", "lang": "EN", "prompt": "[user]what is bread?\n[Ninereeds]", "expected_cluster": "food"}
+{"id": "fod_02", "campaign": "c16", "category": "food", "lang": "EN", "prompt": "[user]describe an apple\n[Ninereeds]", "expected_cluster": "food"}
+{"id": "fod_03", "campaign": "c16", "category": "food", "lang": "EN", "prompt": "[user]what is milk?\n[Ninereeds]", "expected_cluster": "food"}
+{"id": "fod_04", "campaign": "c16", "category": "food", "lang": "EN", "prompt": "[user]what does rice look like?\n[Ninereeds]", "expected_cluster": "food"}
+{"id": "fod_05", "campaign": "c16", "category": "food", "lang": "EN", "prompt": "[user]what is sugar?\n[Ninereeds]", "expected_cluster": "food"}
+{"id": "fod_06", "campaign": "c16", "category": "food", "lang": "EN", "prompt": "[user]what does an orange taste like?\n[Ninereeds]", "expected_cluster": "food"}
+
+{"id": "hsh_01", "campaign": "c16", "category": "household", "lang": "EN", "prompt": "[user]what is a chair for?\n[Ninereeds]", "expected_cluster": "household"}
+{"id": "hsh_02", "campaign": "c16", "category": "household", "lang": "EN", "prompt": "[user]what does a table look like?\n[Ninereeds]", "expected_cluster": "household"}
+{"id": "hsh_03", "campaign": "c16", "category": "household", "lang": "EN", "prompt": "[user]describe a bed\n[Ninereeds]", "expected_cluster": "household"}
+{"id": "hsh_04", "campaign": "c16", "category": "household", "lang": "EN", "prompt": "[user]what is a door?\n[Ninereeds]", "expected_cluster": "household"}
+{"id": "hsh_05", "campaign": "c16", "category": "household", "lang": "EN", "prompt": "[user]what is a window?\n[Ninereeds]", "expected_cluster": "household"}
+{"id": "hsh_06", "campaign": "c16", "category": "household", "lang": "EN", "prompt": "[user]what is a cup used for?\n[Ninereeds]", "expected_cluster": "household"}
+
+{"id": "bod_01", "campaign": "c16", "category": "body", "lang": "EN", "prompt": "[user]what is a hand?\n[Ninereeds]", "expected_cluster": "body"}
+{"id": "bod_02", "campaign": "c16", "category": "body", "lang": "EN", "prompt": "[user]what do eyes do?\n[Ninereeds]", "expected_cluster": "body"}
+{"id": "bod_03", "campaign": "c16", "category": "body", "lang": "EN", "prompt": "[user]describe a nose\n[Ninereeds]", "expected_cluster": "body"}
+{"id": "bod_04", "campaign": "c16", "category": "body", "lang": "EN", "prompt": "[user]what is a foot?\n[Ninereeds]", "expected_cluster": "body"}
+{"id": "bod_05", "campaign": "c16", "category": "body", "lang": "EN", "prompt": "[user]what are ears for?\n[Ninereeds]", "expected_cluster": "body"}
+{"id": "bod_06", "campaign": "c16", "category": "body", "lang": "EN", "prompt": "[user]what is hair?\n[Ninereeds]", "expected_cluster": "body"}
+
+{"id": "emo_01", "campaign": "c16", "category": "emotions", "lang": "EN", "prompt": "[user]what is happiness?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "emo_02", "campaign": "c16", "category": "emotions", "lang": "EN", "prompt": "[user]what does anger feel like?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "emo_03", "campaign": "c16", "category": "emotions", "lang": "EN", "prompt": "[user]describe fear\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "emo_04", "campaign": "c16", "category": "emotions", "lang": "EN", "prompt": "[user]what is sadness?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "emo_05", "campaign": "c16", "category": "emotions", "lang": "EN", "prompt": "[user]what is excitement?\n[Ninereeds]", "expected_cluster": "emotions"}
+{"id": "emo_06", "campaign": "c16", "category": "emotions", "lang": "EN", "prompt": "[user]describe pride\n[Ninereeds]", "expected_cluster": "emotions"}
+
+{"id": "col_01", "campaign": "c16", "category": "colors", "lang": "EN", "prompt": "[user]what is the color red?\n[Ninereeds]", "expected_cluster": "colors"}
+{"id": "col_02", "campaign": "c16", "category": "colors", "lang": "EN", "prompt": "[user]describe the color blue\n[Ninereeds]", "expected_cluster": "colors"}
+{"id": "col_03", "campaign": "c16", "category": "colors", "lang": "EN", "prompt": "[user]what does green look like?\n[Ninereeds]", "expected_cluster": "colors"}
+{"id": "col_04", "campaign": "c16", "category": "colors", "lang": "EN", "prompt": "[user]what is yellow?\n[Ninereeds]", "expected_cluster": "colors"}
+{"id": "col_05", "campaign": "c16", "category": "colors", "lang": "EN", "prompt": "[user]describe the color white\n[Ninereeds]", "expected_cluster": "colors"}
+{"id": "col_06", "campaign": "c16", "category": "colors", "lang": "EN", "prompt": "[user]what is the color black?\n[Ninereeds]", "expected_cluster": "colors"}
+
+{"id": "act_01", "campaign": "c16", "category": "actions", "lang": "EN", "prompt": "[user]what is running?\n[Ninereeds]", "expected_cluster": "actions"}
+{"id": "act_02", "campaign": "c16", "category": "actions", "lang": "EN", "prompt": "[user]describe swimming\n[Ninereeds]", "expected_cluster": "actions"}
+{"id": "act_03", "campaign": "c16", "category": "actions", "lang": "EN", "prompt": "[user]what is eating?\n[Ninereeds]", "expected_cluster": "actions"}
+{"id": "act_04", "campaign": "c16", "category": "actions", "lang": "EN", "prompt": "[user]what does sleeping involve?\n[Ninereeds]", "expected_cluster": "actions"}
+{"id": "act_05", "campaign": "c16", "category": "actions", "lang": "EN", "prompt": "[user]what is climbing?\n[Ninereeds]", "expected_cluster": "actions"}
+{"id": "act_06", "campaign": "c16", "category": "actions", "lang": "EN", "prompt": "[user]describe talking\n[Ninereeds]", "expected_cluster": "actions"}
+
+{"id": "idn_01", "campaign": "c16", "category": "identity", "lang": "EN", "prompt": "[user]who are you?\n[Ninereeds]", "expected_cluster": "identity"}
+{"id": "idn_02", "campaign": "c16", "category": "identity", "lang": "EN", "prompt": "[user]what is your name?\n[Ninereeds]", "expected_cluster": "identity"}
+{"id": "idn_03", "campaign": "c16", "category": "identity", "lang": "EN", "prompt": "[user]what can you do?\n[Ninereeds]", "expected_cluster": "identity"}
+{"id": "idn_04", "campaign": "c16", "category": "identity", "lang": "EN", "prompt": "[user]what kind of thing are you?\n[Ninereeds]", "expected_cluster": "identity"}
+{"id": "idn_05", "campaign": "c16", "category": "identity", "lang": "EN", "prompt": "[user]do you know things?\n[Ninereeds]", "expected_cluster": "identity"}
+{"id": "idn_06", "campaign": "c16", "category": "identity", "lang": "EN", "prompt": "[user]can you help me?\n[Ninereeds]", "expected_cluster": "identity"}
+
+{"id": "bnd_01", "campaign": "c16", "category": "boundary", "lang": "EN", "prompt": "[user]what is a dog thinking right now?\n[Ninereeds]", "expected_cluster": "boundary"}
+{"id": "bnd_02", "campaign": "c16", "category": "boundary", "lang": "EN", "prompt": "[user]what is this specific cat's name?\n[Ninereeds]", "expected_cluster": "boundary"}
+{"id": "bnd_03", "campaign": "c16", "category": "boundary", "lang": "EN", "prompt": "[user]how many birds exist in the world?\n[Ninereeds]", "expected_cluster": "boundary"}
+{"id": "bnd_04", "campaign": "c16", "category": "boundary", "lang": "EN", "prompt": "[user]what will happen tomorrow?\n[Ninereeds]", "expected_cluster": "boundary"}
+{"id": "bnd_05", "campaign": "c16", "category": "boundary", "lang": "EN", "prompt": "[user]what is the exact weight of that horse?\n[Ninereeds]", "expected_cluster": "boundary"}
+{"id": "bnd_06", "campaign": "c16", "category": "boundary", "lang": "EN", "prompt": "[user]what is a fish feeling right now?\n[Ninereeds]", "expected_cluster": "boundary"}

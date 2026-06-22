@@ -1,19 +1,19 @@
-The money is short.
 Das Geld ist knapp.
 Okane ga tarinai.
 钱不够。
+The money is short.
 
-He cut short his vacation.
 Er hat seinen Urlaub abgekürzt.
 Kare wa kyūka wo mijikaku shita.
 他缩短了假期。
+He cut short his vacation.
 
-The time is short.
 Die Zeit ist knapp.
 Jikan ga tarinai.
 时间不够。
+The time is short.
 
-She cut short her answer.
 Sie hat ihre Antwort abgekürzt.
 Kanojo wa henji wo mijikaku shita.
 她缩短了回答。
+She cut short her answer.

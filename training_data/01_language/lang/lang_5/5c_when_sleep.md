@@ -1,39 +1,39 @@
-When does Kate sleep?
-Wann schläft Kate?
 ケイトはいつ寝る？
 凱特什麼時候睡？
+When does Kate sleep?
+Wann schläft Kate?
 
-At night
-Nachts
 夜
 晚上
+At night
+Nachts
 
-When does Klaus sleep?
-Wann schläft Klaus?
 クラウスはいつ寝る？
 克勞斯什麼時候睡？
+When does Klaus sleep?
+Wann schläft Klaus?
 
-In the afternoon
-Am Nachmittag
 午後
 下午
+In the afternoon
+Am Nachmittag
 
-When does Corinna sleep?
-Wann schläft Corinna?
 コリナはいつ寝る？
 科里娜什麼時候睡？
+When does Corinna sleep?
+Wann schläft Corinna?
 
-At ten o'clock
-Um zehn Uhr
 十時
 十點
+At ten o'clock
+Um zehn Uhr
 
-When does Kaori sleep?
-Wann schläft Kaori?
 香織はいつ寝る？
 香織什麼時候睡？
+When does Kaori sleep?
+Wann schläft Kaori?
 
-During the day
-Am Tag
 昼間
 白天
+During the day
+Am Tag

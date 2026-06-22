@@ -1,4 +1,8 @@
-A child runs across the muddy path near the millpond. Suddenly her foot slides forward, her arms fling out, and she tilts dangerously before catching herself on the hedge.
+[user]這是地心引力嗎？
+[Ninereeds]不是。地心引力讓蘋果從樹上掉下來，讓水往下流。這裡，孩子的腳還在地上，但腳往前滑，身體傾斜。那不是地心引力。
+
+[user]這是滑倒嗎？
+[Ninereeds]是的。她在泥濘中失去平衡，抓力漸漸減弱，身體危險地傾斜，差一點摔倒但撐住了。那就是滑倒。
 
 [user]Is this gravity?
 [Ninereeds]No. Gravity makes apples fall from a tree and water flow downhill. Here the child’s feet stay on the ground, but her foot slides forward and her body tilts. That is not gravity.
@@ -17,9 +21,3 @@ A child runs across the muddy path near the millpond. Suddenly her foot slides f
 
 [user]これは滑ることか？
 [Ninereeds]そうだ。泥で足を取られ、握る力が弱まり、危うく倒れるところを支えた。それが滑ることだ。
-
-[user]這是地心引力嗎？
-[Ninereeds]不是。地心引力讓蘋果從樹上掉下來，讓水往下流。這裡，孩子的腳還在地上，但腳往前滑，身體傾斜。那不是地心引力。
-
-[user]這是滑倒嗎？
-[Ninereeds]是的。她在泥濘中失去平衡，抓力漸漸減弱，身體危險地傾斜，差一點摔倒但撐住了。那就是滑倒。

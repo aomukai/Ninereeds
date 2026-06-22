@@ -1,19 +1,19 @@
-The woman stumbled on the sidewalk.
 Die Frau ist auf dem Bürgersteig gestolpert.
 女性が歩道でつまずいた。
 女人在人行道上绊倒了。
+The woman stumbled on the sidewalk.
 
-The toddler is stumbling around the room.
 Das Kleinkind stolpert im Zimmer herum.
 幼児が部屋中をつまずいて歩いている。
 幼儿在房间里跌跌撞撞地走。
+The toddler is stumbling around the room.
 
-The runner will stumble if the path is uneven.
 Der Läufer wird stolpern, wenn der Weg uneben ist.
 ランナーは道がでこぼこだとつまずくだろう。
 如果路不平，跑步者会绊倒。
+The runner will stumble if the path is uneven.
 
-The cat stumbled over the toy.
 Die Katze ist über das Spielzeug gestolpert.
 猫がおもちゃにつまずいた。
 猫被玩具绊倒了。
+The cat stumbled over the toy.

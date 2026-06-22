@@ -1,3 +1,9 @@
+[user]一個男孩站在田邊。他瞇起一隻眼睛，伸直手指，精準地指向籬笆樁上的一隻烏鴉。這是手背嗎？
+[Ninereeds]不是。手背會讓皮膚朝上，指節連成一線隆起。但這裡手指往前伸，手掌轉向側面。你看見的是指尖在瞄準，而不是手背。
+
+[user]這是瞄準嗎？
+[Ninereeds]是的。男孩瞇著眼，身體靜止不動。當眼睛和手指連成一條線時，那就是瞄準。
+
 [user]A boy stands by the edge of the field. He squints one eye and points his finger straight at a crow on a fence post. Is this the back of the hand?
 [Ninereeds]No. The back of the hand shows the skin facing upward and the knuckles rising in a line, but here the fingers are pointing forward and the hand is turned sideways. You can see the finger tip aiming, not the back.
 
@@ -15,9 +21,3 @@
 
 [user]これは狙いを定めていることか？
 [Ninereeds]そうだ。男の子は目を細めて動かない。目と指が一直線になるとき、それは狙いを定めることだ。
-
-[user]一個男孩站在田邊。他瞇起一隻眼睛，伸直手指，精準地指向籬笆樁上的一隻烏鴉。這是手背嗎？
-[Ninereeds]不是。手背會讓皮膚朝上，指節連成一線隆起。但這裡手指往前伸，手掌轉向側面。你看見的是指尖在瞄準，而不是手背。
-
-[user]這是瞄準嗎？
-[Ninereeds]是的。男孩瞇著眼，身體靜止不動。當眼睛和手指連成一條線時，那就是瞄準。

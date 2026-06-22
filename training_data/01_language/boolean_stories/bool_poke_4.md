@@ -1,4 +1,8 @@
-A child walks along the garden path and pokes a finger into the soft mud near the well.
+[user] 這是關於樹枝尖端嗎？
+[Ninereeds] 不是。樹枝尖端會有葉子沙沙作響或小鳥輕盈地停歇。這裡，一根手指按進泥土裡——那是戳，不是樹枝尖端。
+
+[user] 這是關於戳嗎？
+[Ninereeds] 是的。手指按進泥土裡就是一個明顯的戳。記住：戳是碰觸並按壓，而樹枝尖端在風中搖擺。
 
 [user] Is this about the tip of the branch?
 [Ninereeds] No. The tip of the branch would have leaves rustling or a bird perching lightly. Here, a finger presses into mud — that is a poke, not a branch tip.
@@ -17,9 +21,3 @@ A child walks along the garden path and pokes a finger into the soft mud near th
 
 [user] これは突くことか？
 [Ninereeds] そうだ。指が泥に押し込まれているのははっきりした突く動作だ。覚えておけ：突くは触れて押すこと、枝の先は風に揺れる。
-
-[user] 這是關於樹枝尖端嗎？
-[Ninereeds] 不是。樹枝尖端會有葉子沙沙作響或小鳥輕盈地停歇。這裡，一根手指按進泥土裡——那是戳，不是樹枝尖端。
-
-[user] 這是關於戳嗎？
-[Ninereeds] 是的。手指按進泥土裡就是一個明顯的戳。記住：戳是碰觸並按壓，而樹枝尖端在風中搖擺。

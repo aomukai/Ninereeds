@@ -1,3 +1,9 @@
+[user]這是擁抱嗎？
+[Ninereeds]不是。擁抱需要手臂環繞肩膀。這裡是一條毯子環繞著孩子的肩膀。那不是手臂。所以不是擁抱。
+
+[user]這是舒適嗎？
+[Ninereeds]是的。毯子包住孩子，火溫暖了雙手。舒適就是感到溫暖和安全。
+
 [user]Is this a hug?
 [Ninereeds]No. A hug needs arms that wrap around shoulders. Here, a blanket wraps around the child’s shoulders. That is not arms. So it is not a hug.
 
@@ -15,9 +21,3 @@
 
 [user]これは安らぎか？
 [Ninereeds]そうだ。毛布が子供を包み、火が手を温める。安らぎは温かく安全だと感じることだ。
-
-[user]這是擁抱嗎？
-[Ninereeds]不是。擁抱需要手臂環繞肩膀。這裡是一條毯子環繞著孩子的肩膀。那不是手臂。所以不是擁抱。
-
-[user]這是舒適嗎？
-[Ninereeds]是的。毯子包住孩子，火溫暖了雙手。舒適就是感到溫暖和安全。

@@ -1,39 +1,39 @@
-When did Corinna leave?
 Wann ist Corinna gegangen?
 コリナはいつ出た？
 科里娜什麼時候離開的？
+When did Corinna leave?
 
-Yesterday
 Gestern
 昨日
 昨天
+Yesterday
 
-When will Hans leave?
 Wann geht Hans?
 ハンスはいつ出る？
 漢斯什麼時候離開？
+When will Hans leave?
 
-Tomorrow
 Morgen
 明日
 明天
+Tomorrow
 
-When did Susanne leave?
 Wann ist Susanne gegangen?
 スザンネはいつ出た？
 蘇珊娜什麼時候離開的？
+When did Susanne leave?
 
-At 8 o'clock
 Um acht Uhr
 八時
 八點
+At 8 o'clock
 
-When will Taro leave?
 Wann geht Taro?
 太郎はいつ出る？
 太郎什麼時候離開？
+When will Taro leave?
 
-Next week
 Nächste Woche
 来週
 下週
+Next week

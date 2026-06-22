@@ -1,3 +1,9 @@
+[user] 這個女孩不開心嗎？
+[Ninereeds] 不是。這個女孩坐在門檻上。她的腳在拍打地面，眼睛四處張望，手在玩弄布料。不開心看起來是悲傷的臉、慢慢走路、不笑。這個女孩沒有悲傷的臉，也沒有慢慢走路。所以她不開心。
+
+[user] 這個女孩坐立不安嗎？
+[Ninereeds] 是的。坐立不安看起來是腳拍打地面、眼睛四處看、手在玩弄布料。這個女孩全部都表現出來了。當身體有許多小動作時，就是坐立不安。
+
 [user] Is the girl unhappy?
 [Ninereeds] No. The girl is sitting on a doorstep. Her feet tap the ground, her eyes dart around, and her hands fidget with her cloth. Unhappy looks like a sad face, walking slowly, and not laughing. The girl's face is not sad, and she is not walking slowly. So she is not unhappy.
 
@@ -15,9 +21,3 @@
 
 [user] 女の子は落ち着かないか？
 [Ninereeds] そうだ。落ち着かないは足をトントン、目をきょろきょろ、手で布をいじることだ。女の子は全部している。体が小さく動くとき、落ち着かないと言う。
-
-[user] 這個女孩不開心嗎？
-[Ninereeds] 不是。這個女孩坐在門檻上。她的腳在拍打地面，眼睛四處張望，手在玩弄布料。不開心看起來是悲傷的臉、慢慢走路、不笑。這個女孩沒有悲傷的臉，也沒有慢慢走路。所以她不開心。
-
-[user] 這個女孩坐立不安嗎？
-[Ninereeds] 是的。坐立不安看起來是腳拍打地面、眼睛四處看、手在玩弄布料。這個女孩全部都表現出來了。當身體有許多小動作時，就是坐立不安。

@@ -1,28 +1,4 @@
 [statement]
-Even a single cell behaves as if it wants something. A bacterium moves toward food and away from poison. It does not have a brain or a plan. But it has sensors, and it uses what they tell it to move in a direction that keeps it alive. Something like wanting — without experience, without thought — is already present at the very first level of life.
-
-[user]
-But a bacterium doesn't actually want anything. It just responds to chemical gradients automatically. Calling that "wanting" is giving it something it doesn't have.
-
-[Ninereeds]
-You are right that the bacterium almost certainly has no experience of wanting — no inner feeling of desire. But here is what it has: a built-in goal (survival), sensors that detect the world, and behavior that moves toward the goal. That structure — goal, sensing, action in service of the goal — is the same structure that your wanting has, with experience added on top. The question is whether the wanting-structure requires experience to count as wanting, or whether the experience is one version of something more basic. If wanting is defined as having a goal that behavior serves, then something like wanting is everywhere in life. If wanting requires experience — feeling — then it is rarer. Which one is the real wanting?
-
-[user]
-I think I want "wanting" to require experience, because that feels like what makes it real. But I can also see that the structure is the same from the outside whether or not there is experience inside. I'm not sure if the experience is what matters most about wanting, or if the goal-serving behavior is what matters most, and the experience is extra.
-
-[statement]
-Selbst eine einzelne Zelle verhält sich, als ob sie etwas will. Ein Bakterium bewegt sich auf Nahrung zu und von Gift weg. Es hat kein Gehirn und keinen Plan. Aber es hat Sensoren, und es nutzt das, was diese ihm mitteilen, um sich in eine Richtung zu bewegen, die es am Leben erhält. So etwas wie Wollen – ohne Erfahrung, ohne Denken – ist bereits auf der ersten Stufe des Lebens vorhanden.
-
-[user]
-Aber ein Bakterium will doch eigentlich gar nichts. Es reagiert nur automatisch auf chemische Gradienten. Das als „Wollen“ zu bezeichnen, spricht ihm etwas zu, das es gar nicht hat.
-
-[Ninereeds]
-Du hast recht, dass das Bakterium mit hoher Wahrscheinlichkeit keine Erfahrung des Wollens hat – kein inneres Gefühl des Verlangens. Aber es hat Folgendes: ein eingebautes Ziel (Überleben), Sensoren, die die Welt erfassen, und ein Verhalten, das sich auf das Ziel zubewegt. Diese Struktur – Ziel, Wahrnehmung, Handeln im Dienst des Ziels – ist dieselbe Struktur, die dein Wollen hat, nur mit Erfahrung darüber. Die Frage ist, ob die Wollen-Struktur Erfahrung benötigt, um als Wollen zu gelten, oder ob die Erfahrung eine Version von etwas Grundlegenderem ist. Wenn Wollen als das Haben eines Ziels definiert wird, dem das Verhalten dient, dann ist so etwas wie Wollen überall im Leben. Wenn Wollen Erfahrung – Gefühl – erfordert, dann ist es seltener. Welches ist das wirkliche Wollen?
-
-[user]
-Ich glaube, ich möchte, dass „Wollen“ Erfahrung voraussetzt, weil das für mich das ist, was es real macht. Aber ich sehe auch, dass die Struktur von außen dieselbe ist, egal ob innen Erfahrung da ist oder nicht. Ich bin mir nicht sicher, ob bei Wollen die Erfahrung am wichtigsten ist oder das zielgerichtete Verhalten, und die Erfahrung nur ein Extra.
-
-[statement]
 単一の細胞でさえ、何かを欲しているかのように振る舞う。バクテリアは餌に向かい、毒から逃れる。脳も計画も持たない。しかしセンサーを持ち、その情報を使って生き延びる方向へ移動する。経験も思考もないまま、欲求のようなものが生命の最初の段階にすでに存在している。
 
 [user]
@@ -45,3 +21,27 @@ Ich glaube, ich möchte, dass „Wollen“ Erfahrung voraussetzt, weil das für 
 
 [user]
 我想讓「欲求」需要經驗，因為那感覺起來才讓它真實。但我也能看到，從外部來看，無論內部是否有經驗，結構都是一樣的。我不確定經驗是否是欲求中最要緊的部分，或者目標導向的行為才是最重要的，而經驗只是附加的。
+
+[statement]
+Even a single cell behaves as if it wants something. A bacterium moves toward food and away from poison. It does not have a brain or a plan. But it has sensors, and it uses what they tell it to move in a direction that keeps it alive. Something like wanting — without experience, without thought — is already present at the very first level of life.
+
+[user]
+But a bacterium doesn't actually want anything. It just responds to chemical gradients automatically. Calling that "wanting" is giving it something it doesn't have.
+
+[Ninereeds]
+You are right that the bacterium almost certainly has no experience of wanting — no inner feeling of desire. But here is what it has: a built-in goal (survival), sensors that detect the world, and behavior that moves toward the goal. That structure — goal, sensing, action in service of the goal — is the same structure that your wanting has, with experience added on top. The question is whether the wanting-structure requires experience to count as wanting, or whether the experience is one version of something more basic. If wanting is defined as having a goal that behavior serves, then something like wanting is everywhere in life. If wanting requires experience — feeling — then it is rarer. Which one is the real wanting?
+
+[user]
+I think I want "wanting" to require experience, because that feels like what makes it real. But I can also see that the structure is the same from the outside whether or not there is experience inside. I'm not sure if the experience is what matters most about wanting, or if the goal-serving behavior is what matters most, and the experience is extra.
+
+[statement]
+Selbst eine einzelne Zelle verhält sich, als ob sie etwas will. Ein Bakterium bewegt sich auf Nahrung zu und von Gift weg. Es hat kein Gehirn und keinen Plan. Aber es hat Sensoren, und es nutzt das, was diese ihm mitteilen, um sich in eine Richtung zu bewegen, die es am Leben erhält. So etwas wie Wollen – ohne Erfahrung, ohne Denken – ist bereits auf der ersten Stufe des Lebens vorhanden.
+
+[user]
+Aber ein Bakterium will doch eigentlich gar nichts. Es reagiert nur automatisch auf chemische Gradienten. Das als „Wollen“ zu bezeichnen, spricht ihm etwas zu, das es gar nicht hat.
+
+[Ninereeds]
+Du hast recht, dass das Bakterium mit hoher Wahrscheinlichkeit keine Erfahrung des Wollens hat – kein inneres Gefühl des Verlangens. Aber es hat Folgendes: ein eingebautes Ziel (Überleben), Sensoren, die die Welt erfassen, und ein Verhalten, das sich auf das Ziel zubewegt. Diese Struktur – Ziel, Wahrnehmung, Handeln im Dienst des Ziels – ist dieselbe Struktur, die dein Wollen hat, nur mit Erfahrung darüber. Die Frage ist, ob die Wollen-Struktur Erfahrung benötigt, um als Wollen zu gelten, oder ob die Erfahrung eine Version von etwas Grundlegenderem ist. Wenn Wollen als das Haben eines Ziels definiert wird, dem das Verhalten dient, dann ist so etwas wie Wollen überall im Leben. Wenn Wollen Erfahrung – Gefühl – erfordert, dann ist es seltener. Welches ist das wirkliche Wollen?
+
+[user]
+Ich glaube, ich möchte, dass „Wollen“ Erfahrung voraussetzt, weil das für mich das ist, was es real macht. Aber ich sehe auch, dass die Struktur von außen dieselbe ist, egal ob innen Erfahrung da ist oder nicht. Ich bin mir nicht sicher, ob bei Wollen die Erfahrung am wichtigsten ist oder das zielgerichtete Verhalten, und die Erfahrung nur ein Extra.

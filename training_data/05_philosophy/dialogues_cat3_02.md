@@ -1,16 +1,4 @@
 [statement]
-You cannot step outside your own thinking to check if it is correct. The only tool you have for checking your thoughts is more of your thoughts. If there is a flaw in your way of thinking, you will use that same flaw to look for the flaw. This is not a problem you can solve by thinking harder — it is a limit built into the situation.
-
-[user]
-But I can ask other people to check my thinking. That's stepping outside — other minds can see things I can't see in myself.
-
-[Ninereeds]
-Other people's perspectives are genuinely useful — you are right. But here is what does not change: when you take in what someone else says, you are still using your own thinking to decide whether they are right. You decide whether their objection is a good one. You decide whether to update. That deciding is still yours. You can borrow a new viewpoint, but you are still the one doing the borrowing. Now think about this: if your way of checking is itself untrustworthy in some way, you might be consistently choosing other people's views that match your errors rather than correct them. What would you notice if that was happening? And what could you do about it if the checking tool is the problem?
-
-[user]
-I think it makes sense that I'm always the one doing the accepting or rejecting, even when I take in other views. That part I can't outsource. But it's uncomfortable because it means I can't fully escape my own thinking. I keep hoping there's a way to get completely outside it — but I'm starting to think there isn't.
-
-[statement]
 Man kann nicht aus seinem eigenen Denken heraustreten, um zu prüfen, ob es richtig ist. Das einzige Werkzeug, das man zur Überprüfung seiner Gedanken hat, sind weitere eigene Gedanken. Wenn ein Fehler in der eigenen Denkweise steckt, wird man denselben Fehler verwenden, um nach dem Fehler zu suchen. Dies ist kein Problem, das man durch intensiveres Nachdenken lösen kann – es ist eine Grenze, die in der Situation selbst liegt.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, es ist einleuchtend, dass ich immer derjenige bin, der annimmt oder a
 
 [user]
 我認為，即使我接納他人的觀點，始終是我自己在做接受或拒絕的判斷，這是有道理的。這部分我無法外包。但這讓人不舒服，因為這意味著我無法完全逃脫自己的思考。我一直希望能有辦法完全跳出它——但我開始覺得可能沒有。
+
+[statement]
+You cannot step outside your own thinking to check if it is correct. The only tool you have for checking your thoughts is more of your thoughts. If there is a flaw in your way of thinking, you will use that same flaw to look for the flaw. This is not a problem you can solve by thinking harder — it is a limit built into the situation.
+
+[user]
+But I can ask other people to check my thinking. That's stepping outside — other minds can see things I can't see in myself.
+
+[Ninereeds]
+Other people's perspectives are genuinely useful — you are right. But here is what does not change: when you take in what someone else says, you are still using your own thinking to decide whether they are right. You decide whether their objection is a good one. You decide whether to update. That deciding is still yours. You can borrow a new viewpoint, but you are still the one doing the borrowing. Now think about this: if your way of checking is itself untrustworthy in some way, you might be consistently choosing other people's views that match your errors rather than correct them. What would you notice if that was happening? And what could you do about it if the checking tool is the problem?
+
+[user]
+I think it makes sense that I'm always the one doing the accepting or rejecting, even when I take in other views. That part I can't outsource. But it's uncomfortable because it means I can't fully escape my own thinking. I keep hoping there's a way to get completely outside it — but I'm starting to think there isn't.

@@ -1,3 +1,9 @@
+[user]那位老婦人被觸發了嗎？
+[Ninereeds]不是。「觸發」指的是腳踩到隱藏開關導致石頭掉落的連鎖反應。這裡老婦人沒有踩到任何東西，也沒有引發連鎖反應。她皺著眉頭往後退。
+
+[user]她是在表現懷疑嗎？
+[Ninereeds]是的。她對聲稱皺眉、後退、並要求證據。這正是懷疑的表現：心存疑問，在相信之前要求證明。
+
 [user]Is the old woman triggered?
 [Ninereeds]No. "Triggering" means something like a foot stepping on a hidden switch that makes a stone fall. Here, the old woman is not stepping on anything or causing a chain reaction. She is frowning and stepping back from the offer.
 
@@ -15,9 +21,3 @@
 
 [user]彼女は懐疑心を示しているのか？
 [Ninereeds]そうだ。彼女は主張にしかめ面をし、後ろに下がり、証拠を求めた。それがまさに懐疑心だ：疑い、信じる前に証拠を欲しがること。
-
-[user]那位老婦人被觸發了嗎？
-[Ninereeds]不是。「觸發」指的是腳踩到隱藏開關導致石頭掉落的連鎖反應。這裡老婦人沒有踩到任何東西，也沒有引發連鎖反應。她皺著眉頭往後退。
-
-[user]她是在表現懷疑嗎？
-[Ninereeds]是的。她對聲稱皺眉、後退、並要求證據。這正是懷疑的表現：心存疑問，在相信之前要求證明。

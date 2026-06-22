@@ -1,16 +1,4 @@
 [statement]
-The more organized a system becomes, the more fragile it can be. A highly specialized organism — perfectly adapted to one environment — may fail completely when the environment changes. A city built on one industry fails when the industry fails. The very optimization that makes something effective in one situation can make it brittle in another. Order that is too specific is a vulnerability disguised as a strength.
-
-[user]
-But generalists are worse at everything than specialists. Being less specialized to be more flexible means being worse at what you do. That seems like a real trade-off, not just a vulnerability.
-
-[Ninereeds]
-The trade-off is real — you are right. Specialization produces better performance in stable conditions. The question is how stable the conditions actually are. In a world that changes slowly, specialization is worth the brittleness — you are unlikely to encounter conditions outside your range. In a world that changes quickly and unpredictably, the brittleness becomes dangerous. This is why biological evolution produces both deep specialists (organisms perfectly suited to one niche) and generalists (organisms that can survive across many niches). The right amount of specialization depends on how stable your environment is — and that is a judgment you have to make with incomplete information about the future. How do you know when to optimize for the current environment and when to maintain flexibility for an unknown one?
-
-[user]
-I think that's the question I have least certainty about. I've specialized in some areas of my life and it has worked well so far. But I don't know if the conditions that made that specialization useful will continue. I've been assuming more stability in my environment than I can actually verify. I'm not sure how to think about that without either over-hedging or just hoping nothing changes.
-
-[statement]
 Je organisierter ein System wird, desto fragiler kann es sein. Ein hochspezialisierter Organismus – perfekt an eine Umgebung angepasst – kann völlig versagen, wenn sich die Umgebung ändert. Eine Stadt, die auf einer einzigen Industrie aufbaut, scheitert, wenn diese Industrie scheitert. Genau die Optimierung, die etwas in einer Situation effektiv macht, kann es in einer anderen spröde machen. Zu spezifische Ordnung ist eine Verwundbarkeit, die sich als Stärke tarnt.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, das ist die Frage, bei der ich am wenigsten sicher bin. Ich habe mich
 
 [user]
 我認為這是我最不確定的問題。我在生活中某些領域選擇了專精，到目前為止成效良好。但我不知道讓這種專精有用的條件是否會持續。我一直假設自己的環境比實際能驗證的更加穩定。我不確定如何思考這個問題，既不至於過度避險，也不只是希望一切不變。
+
+[statement]
+The more organized a system becomes, the more fragile it can be. A highly specialized organism — perfectly adapted to one environment — may fail completely when the environment changes. A city built on one industry fails when the industry fails. The very optimization that makes something effective in one situation can make it brittle in another. Order that is too specific is a vulnerability disguised as a strength.
+
+[user]
+But generalists are worse at everything than specialists. Being less specialized to be more flexible means being worse at what you do. That seems like a real trade-off, not just a vulnerability.
+
+[Ninereeds]
+The trade-off is real — you are right. Specialization produces better performance in stable conditions. The question is how stable the conditions actually are. In a world that changes slowly, specialization is worth the brittleness — you are unlikely to encounter conditions outside your range. In a world that changes quickly and unpredictably, the brittleness becomes dangerous. This is why biological evolution produces both deep specialists (organisms perfectly suited to one niche) and generalists (organisms that can survive across many niches). The right amount of specialization depends on how stable your environment is — and that is a judgment you have to make with incomplete information about the future. How do you know when to optimize for the current environment and when to maintain flexibility for an unknown one?
+
+[user]
+I think that's the question I have least certainty about. I've specialized in some areas of my life and it has worked well so far. But I don't know if the conditions that made that specialization useful will continue. I've been assuming more stability in my environment than I can actually verify. I'm not sure how to think about that without either over-hedging or just hoping nothing changes.

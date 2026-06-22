@@ -1,19 +1,15 @@
-[user]A child sits still on a bench by the millpond. The pond surface is smooth, wind rustles the leaves softly, and a cat naps in the sun.
-Is the child unhappy?
-
-[Ninereeds]No. Unhappy looks like a sad face, walking slowly, and not laughing. The child sits still with a calm face, and the pond is smooth. That is not unhappy. The correct word is "peaceful". Peaceful means quiet and calm, like when everything is still and gentle.
-
 [user]Ein Kind sitzt still auf einer Bank am Mühlenteich. Die Wasseroberfläche ist glatt, der Wind raschelt leise in den Blättern, und eine Katze döst in der Sonne.
 Ist das Kind unglücklich?
-
-[Ninereeds]Nein. Unglücklich sieht aus wie ein trauriges Gesicht, langsames Gehen und kein Lachen. Das Kind sitzt still mit ruhigem Gesicht, und der Teich ist glatt. Das ist nicht unglücklich. Das richtige Wort ist "friedlich". Friedlich bedeutet ruhig und gelassen, wenn alles still und sanft ist.
+[Ninereeds]Nein. Unglücklich würde so aussehen: gerunzelte Stirn, Tränen oder ein abgewandtes Gesicht. Aber hier sitzt das Kind still auf einer Bank, das Wasser ist glatt, und eine Katze döst in der Sonne. Das ist Frieden. Wenn ein Kind ruhig dasitzt und die Stille um sich zulässt, ist das Kind in Frieden.
 
 [user]子供がベンチに静かに座っている。池の表面は滑らかで、風が葉をそっと揺らし、猫が日向で昼寝をしている。
 その子供は不幸ですか？
-
-[Ninereeds]そうではない。不幸は悲しい顔、ゆっくり歩く、笑わないことだ。子供は静かに座り、池は滑らかだ。それは不幸ではない。正しい言葉は「穏やか」だ。穏やかは静かで落ち着いていること、すべてが静かで優しいときだ。
+[Ninereeds]そうではない。不幸なら、眉間にしわを寄せたり、涙を流したり、顔をそむけたりするはずだ。でもここでは子供はベンチに静かに座り、水面は滑らかで、猫は日向で昼寝をしている。それは平穏だ。子供が静かに座って、まわりの静けさを受け入れているとき、その子供は平穏だ。
 
 [user]一個小孩靜靜地坐在長椅上。池塘水面平滑，微風輕輕搖動樹葉，一隻貓在陽光下打盹。
 這個小孩不開心嗎？
+[Ninereeds]不是。不開心應該是皺眉、流淚或者把臉轉開。但這裡孩子靜靜地坐在長椅上，水面平滑，貓在陽光下打盹。那是平靜。當孩子安靜地坐著，讓周圍的寧靜環繞時，那個孩子是平靜的。
 
-[Ninereeds]不是。不開心的樣子是悲傷的臉、慢慢走路、不笑。小孩靜靜坐著，水面平滑。那不是不開心。正確的詞是「平靜」。平靜意味著安靜和平和，就像一切都靜止而溫柔。
+[user]A child sits still on a bench by the millpond. The pond surface is smooth, wind rustles the leaves softly, and a cat naps in the sun.
+Is the child unhappy?
+[Ninereeds]No. Unhappy would look like a furrowed brow, tears, or a turned-away face. But here the child sits still on a bench, the water is smooth, and a cat naps in the sun. That is peaceful. When a child sits quietly and lets the stillness settle around them, the child is at peace.

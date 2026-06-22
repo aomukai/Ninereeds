@@ -1,3 +1,9 @@
+[user] 一個男孩把繩子繞在袋子上拉緊。繩結變小了。他在繞圈嗎？
+[Ninereeds] 不是。「繞圈」意思是某物圍繞另一物體轉動，比如鳥繞著樹飛。那個男孩沒有在繞圈。他站著不動，正在拉繩子。
+
+[user] 他在收緊繩子嗎？
+[Ninereeds] 是的。他把繩子拉得更緊，繩結越來越小。那就是收緊。
+
 [user] A boy pulls a rope around a sack. The knot gets smaller. Is he orbiting?
 [Ninereeds] No. "Orbit" means something moves in a circle around something else, like a bird circling a tree. The boy is not moving in a circle. He is standing still and pulling the rope.
 
@@ -15,9 +21,3 @@
 
 [user] 彼は縄を締めているのか？
 [Ninereeds] そうだ。彼は縄を強く引っ張り、結び目が小さくなる。それが締めることだ。
-
-[user] 一個男孩把繩子繞在袋子上拉緊。繩結變小了。他在繞圈嗎？
-[Ninereeds] 不是。「繞圈」意思是某物圍繞另一物體轉動，比如鳥繞著樹飛。那個男孩沒有在繞圈。他站著不動，正在拉繩子。
-
-[user] 他在收緊繩子嗎？
-[Ninereeds] 是的。他把繩子拉得更緊，繩結越來越小。那就是收緊。

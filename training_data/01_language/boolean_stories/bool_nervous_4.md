@@ -1,3 +1,9 @@
+[user]這個小孩在市場玩得開心嗎？
+[Ninereeds]不是。開心應該是小孩開心吃飯、狗自由奔跑的樣子。但這個小孩手在發抖，而且快速環顧四周。她並不開心。
+
+[user]這個小孩緊張嗎？
+[Ninereeds]是的。她的手發抖，並玩弄衣服。緊張的人會表現出這些跡象。
+
 [user]Is the child enjoying herself at the market?
 [Ninereeds]No. Enjoying would look like a child eating happily or a dog running freely. But this child's hands shake and she glances around quickly. She is not enjoying.
 
@@ -15,9 +21,3 @@
 
 [user]子供は緊張しているか？
 [Ninereeds]そうだ。手が震え、服をいじっている。緊張している人はこういう兆候を示す。
-
-[user]這個小孩在市場玩得開心嗎？
-[Ninereeds]不是。開心應該是小孩開心吃飯、狗自由奔跑的樣子。但這個小孩手在發抖，而且快速環顧四周。她並不開心。
-
-[user]這個小孩緊張嗎？
-[Ninereeds]是的。她的手發抖，並玩弄衣服。緊張的人會表現出這些跡象。

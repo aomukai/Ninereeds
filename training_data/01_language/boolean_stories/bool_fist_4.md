@@ -1,3 +1,9 @@
+[user]一個小孩沿著池塘旁的小路走。她把手緊緊握成拳頭，敲打木籬笆。這是重力嗎？
+[Ninereeds]不是。重力會讓蘋果從樹上掉下來，讓水往下流。這裡，小孩的手緊緊握成拳頭，並敲打堅硬表面。這不是重力的樣子。
+
+[user]這是拳頭嗎？
+[Ninereeds]是的。小孩的手緊緊握著，並用它敲打籬笆。這就是拳頭。拳頭是手緊緊握住的形狀。
+
 [user]A child walks along the path near the millpond. She closes her hand into a tight fist and pounds it on the wooden fence. Is this gravity?
 [Ninereeds]No. Gravity makes apples fall from trees and water flow downward. Here, the child's hand is closed tight and hitting a hard surface. That is not what gravity looks like.
 
@@ -15,9 +21,3 @@
 
 [user]これは拳か？
 [Ninereeds]そうだ。子供の手は固く閉じられ、それで柵を叩いている。それが拳だ。拳は手を固く閉じたものだ。
-
-[user]一個小孩沿著池塘旁的小路走。她把手緊緊握成拳頭，敲打木籬笆。這是重力嗎？
-[Ninereeds]不是。重力會讓蘋果從樹上掉下來，讓水往下流。這裡，小孩的手緊緊握成拳頭，並敲打堅硬表面。這不是重力的樣子。
-
-[user]這是拳頭嗎？
-[Ninereeds]是的。小孩的手緊緊握著，並用它敲打籬笆。這就是拳頭。拳頭是手緊緊握住的形狀。

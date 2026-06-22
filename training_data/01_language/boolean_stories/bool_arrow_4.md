@@ -1,3 +1,9 @@
+[user] 這是在說運動嗎？
+[Ninereeds] 不是。運動是有人在田地裡跑步、跳過樹籬。這裡，一個小孩停在橡樹前，看著樹皮上刻著的記號。那個記號不會動、也不會跳，所以不可能是運動。
+
+[user] 這是在說箭頭嗎？
+[Ninereeds] 是的。刻在樹上的記號是一個指向市場的箭頭。當你看到一個指示方向的形狀，那就是箭頭。
+
 [user] Is this about exercise?
 [Ninereeds] No. Exercise is when someone runs around the field or jumps over the hedge. Here, a child stops at the oak tree and looks at a mark carved into the bark. That mark does not move or jump, so it cannot be exercise.
 
@@ -15,9 +21,3 @@
 
 [user] これは矢印のことか？
 [Ninereeds] そうだ。木に刻まれた印は、市場へ向かう矢印だ。方向を示す形を見たとき、それは矢印だ。
-
-[user] 這是在說運動嗎？
-[Ninereeds] 不是。運動是有人在田地裡跑步、跳過樹籬。這裡，一個小孩停在橡樹前，看著樹皮上刻著的記號。那個記號不會動、也不會跳，所以不可能是運動。
-
-[user] 這是在說箭頭嗎？
-[Ninereeds] 是的。刻在樹上的記號是一個指向市場的箭頭。當你看到一個指示方向的形狀，那就是箭頭。

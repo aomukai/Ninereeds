@@ -1,3 +1,9 @@
+[user]那個孩子不開心嗎？
+[Ninereeds]不是。那個孩子沒有露出悲傷的表情。他的臉很平靜，走得很快，甚至還笑了一下。不開心指的是悲傷的臉、走得慢、不笑。這些在這裡都看不到。
+
+[user]那把刀是鈍的嗎？
+[Ninereeds]是的。那把刀割不斷繩子，而且刀刃是圓的。當工具無法切割時，它就是鈍的。
+
 [user]Is the child unhappy?
 [Ninereeds]No. The child does not look sad. His face is calm, he walks quickly, and he even laughs a little. Unhappy means a sad face, slow walking, and no laughing. None of that is here.
 
@@ -15,9 +21,3 @@
 
 [user]そのナイフは鈍いのか？
 [Ninereeds]そうだ。ナイフがロープを切れず、刃が丸くなっている。道具が切れないとき、それは鈍い。
-
-[user]那個孩子不開心嗎？
-[Ninereeds]不是。那個孩子沒有露出悲傷的表情。他的臉很平靜，走得很快，甚至還笑了一下。不開心指的是悲傷的臉、走得慢、不笑。這些在這裡都看不到。
-
-[user]那把刀是鈍的嗎？
-[Ninereeds]是的。那把刀割不斷繩子，而且刀刃是圓的。當工具無法切割時，它就是鈍的。

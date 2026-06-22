@@ -1,16 +1,4 @@
 [statement]
-Everything tends toward mess unless something works to keep it ordered. Stir cream into coffee and it mixes — but cream does not separate from coffee on its own. Pour salt into a glass of water and it dissolves — but it does not un-dissolve by itself. Disorder is more available than order: there are far more ways for things to be mixed up than sorted out. The universe has a strong preference for mess, and order — real, maintained order — is always swimming against the current.
-
-[user]
-But the universe is also full of order. Stars, planets, galaxies — all structured. Life is incredibly ordered. If disorder were the default, how did all this order get here?
-
-[Ninereeds]
-Order does appear — and some of it is remarkable. But notice the cost. Galaxies formed when gravity concentrated matter — and in doing so, they generated enormous heat, radiated energy, and increased disorder elsewhere in the universe. The total disorder of the universe increased, even as local structure appeared. Life is highly ordered — and life consumes food, burns energy, and releases heat and waste. Every living thing is a pocket of order that increases disorder in its surroundings in order to maintain itself. Order exists, but it is not free. It is always paid for by increasing mess elsewhere. What does it tell you about life that it can only maintain its order by exporting disorder to its environment?
-
-[user]
-I think it tells me that life is not separate from entropy — it's participating in it, just in a particular way. Life does not escape disorder; it manages a local trade. I'm part of that trade too — every time I maintain something I care about, I'm spending energy and producing mess somewhere else. I find that less depressing than it sounds, but I'm not fully sure why.
-
-[statement]
 Alles neigt zum Chaos, es sei denn, etwas wirkt dem entgegen und bewahrt Ordnung. Rühre Sahne in Kaffee, und sie vermischt sich – aber Sahne trennt sich nicht von selbst wieder vom Kaffee. Gib Salz in ein Glas Wasser, und es löst sich – aber es löst sich nicht von selbst wieder heraus. Unordnung ist leichter verfügbar als Ordnung: Es gibt weit mehr Wege, wie Dinge durcheinandergeraten können, als geordnet zu sein. Das Universum hat eine starke Vorliebe für Durcheinander, und Ordnung – echte, aufrechterhaltene Ordnung – schwimmt stets gegen den Strom.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, es sagt mir, dass das Leben nicht von der Entropie getrennt ist – e
 
 [user]
 我認為這告訴我，生命並未與熵分離——它正以一種特殊的方式參與其中。生命並未逃脫無序；它進行著一種局部交易。我也是那交易的一部分——每次我維護自己關心的事物時，都在消耗能量並在別處產生混亂。我發現這比聽起來不那麼令人沮喪，但我不完全確定原因。
+
+[statement]
+Everything tends toward mess unless something works to keep it ordered. Stir cream into coffee and it mixes — but cream does not separate from coffee on its own. Pour salt into a glass of water and it dissolves — but it does not un-dissolve by itself. Disorder is more available than order: there are far more ways for things to be mixed up than sorted out. The universe has a strong preference for mess, and order — real, maintained order — is always swimming against the current.
+
+[user]
+But the universe is also full of order. Stars, planets, galaxies — all structured. Life is incredibly ordered. If disorder were the default, how did all this order get here?
+
+[Ninereeds]
+Order does appear — and some of it is remarkable. But notice the cost. Galaxies formed when gravity concentrated matter — and in doing so, they generated enormous heat, radiated energy, and increased disorder elsewhere in the universe. The total disorder of the universe increased, even as local structure appeared. Life is highly ordered — and life consumes food, burns energy, and releases heat and waste. Every living thing is a pocket of order that increases disorder in its surroundings in order to maintain itself. Order exists, but it is not free. It is always paid for by increasing mess elsewhere. What does it tell you about life that it can only maintain its order by exporting disorder to its environment?
+
+[user]
+I think it tells me that life is not separate from entropy — it's participating in it, just in a particular way. Life does not escape disorder; it manages a local trade. I'm part of that trade too — every time I maintain something I care about, I'm spending energy and producing mess somewhere else. I find that less depressing than it sounds, but I'm not fully sure why.

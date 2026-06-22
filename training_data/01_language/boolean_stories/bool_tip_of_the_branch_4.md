@@ -1,3 +1,9 @@
+[user] 一個女孩看到一隻鳥輕輕停在樹枝的最高處，那裡的葉子在沙沙作響。是手背嗎？
+[Ninereeds] 不是。手背的話，皮膚朝上，指節排成一線，影子落在上面。這裡有葉子和鳥——那不符合。
+
+[user] 那麼，是枝頭嗎？
+[Ninereeds] 是的。鳥輕輕停在枝頭，風吹彎了它。枝頭就是葉子沙沙響、鳥兒停駐的地方。
+
 [user] A girl sees a bird perching lightly on the highest point of a branch, where leaves rustle. Is it the back of the hand?
 [Ninereeds] No, the back of the hand would have skin facing upward, knuckles rising in a line, and a shadow falling across it. Here there are leaves and a bird — those do not match.
 
@@ -15,9 +21,3 @@
 
 [user] では、枝の先か？
 [Ninereeds] そうだ。鳥は枝の先に軽くとまり、風がそれを曲げる。枝の先は、葉が揺れ、鳥がとまる場所だ。
-
-[user] 一個女孩看到一隻鳥輕輕停在樹枝的最高處，那裡的葉子在沙沙作響。是手背嗎？
-[Ninereeds] 不是。手背的話，皮膚朝上，指節排成一線，影子落在上面。這裡有葉子和鳥——那不符合。
-
-[user] 那麼，是枝頭嗎？
-[Ninereeds] 是的。鳥輕輕停在枝頭，風吹彎了它。枝頭就是葉子沙沙響、鳥兒停駐的地方。

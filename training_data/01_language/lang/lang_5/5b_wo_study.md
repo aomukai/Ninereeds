@@ -1,39 +1,39 @@
-Where does Peter study?
-Wo lernt Peter?
 ピーターはどこで勉強している？
 彼得在哪裡學習？
+Where does Peter study?
+Wo lernt Peter?
 
-In the library.
-In der Bibliothek.
 図書館で。
 在圖書館。
+In the library.
+In der Bibliothek.
 
-Where did Hanako study?
-Wo hat Hanako gelernt?
 花子はどこで勉強した？
 花子在哪裡學習了？
+Where did Hanako study?
+Wo hat Hanako gelernt?
 
-At the coffee shop.
-Im Café.
 カフェで。
 在咖啡廳。
+At the coffee shop.
+Im Café.
 
-Where does Kokoro study?
-Wo lernt Kokoro?
 心はどこで勉強している？
 心在哪裡學習？
+Where does Kokoro study?
+Wo lernt Kokoro?
 
-In her room.
-In ihrem Zimmer.
 自分の部屋で。
 在她的房間。
+In her room.
+In ihrem Zimmer.
 
-Where did Hans study?
-Wo hat Hans gelernt?
 ハンスはどこで勉強した？
 漢斯在哪裡學習了？
+Where did Hans study?
+Wo hat Hans gelernt?
 
-In the garden.
-Im Garten.
 庭で。
 在花園。
+In the garden.
+Im Garten.

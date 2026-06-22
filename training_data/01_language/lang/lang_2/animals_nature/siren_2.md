@@ -1,19 +1,19 @@
-One siren.
 Eine Sirene.
 Seirēn ga hitori.
 Yī gè sèrèn.
+One siren.
 
-Two sirens.
 Zwei Sirenen.
 Seirēn ga futari.
 Liǎng gè sèrèn.
+Two sirens.
 
-The siren sang.
 Die Sirene sang.
 Seirēn ga utatta.
 Sèrèn chàng le gē.
+The siren sang.
 
-The sirens lured sailors.
 Die Sirenen lockten Seeleute an.
 Seirēn ga funanori o yūwaku shita.
 Sèrèn yòuhuò le shuǐshǒu.
+The sirens lured sailors.

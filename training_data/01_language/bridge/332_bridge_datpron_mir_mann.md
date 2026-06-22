@@ -7,4 +7,9 @@
 [mir]. / [me]. / [私に]. / [我].
 
 {Was / What / 何を / 什么} does the man give me?
-{den
+{den Stift}. / {the pen}. / {ペンを}. / {筆}.
+
+Der Mann gibt mir den Stift.
+The man gives me the pen.
+男性が私にペンを渡す。
+那個男人把筆給了我。

@@ -1,16 +1,4 @@
 [statement]
-Two plus two equals four — and this seems truer than almost anything else you know. You can doubt whether the sun will rise tomorrow. You cannot doubt that two plus two equals four. Mathematical truth feels like the most solid knowledge there is. But it is deeply unclear whether that solidity means math describes the universe, or whether it means we built a system that is perfectly consistent with itself — and the universe happens to fit.
-
-[user]
-But two plus two equaling four is just obviously true. It doesn't need an explanation for why it's solid. It's solid because it's math.
-
-[Ninereeds]
-"It's solid because it's math" describes the feeling — but not where the solidity comes from. Here is one way to see the question: imagine a universe where gathering two piles of two stones together sometimes gave you five stones. Not because you miscounted — because the number of stones actually changed when you combined the piles. In that universe, 2+2 would not equal 4. Math would not apply to stones. The question is: would 2+2 still equal 4 in that universe, in some abstract sense, even though it did not apply to physical things? Is math a fact about the universe — or is it a system built for this universe that happens to fit perfectly? What would it mean if it is the second one?
-
-[user]
-I think if math was built to fit this universe, that would make it less like a discovery and more like a very good tool. But it doesn't feel like a tool — it feels like something I find, not something I make. I can't hold the two versions at the same time. One of them has to be more true, but I can't tell which.
-
-[statement]
 Zwei plus zwei ergibt vier – und das scheint wahrer zu sein als fast alles andere, was du weißt. Du kannst bezweifeln, ob die Sonne morgen aufgeht. Du kannst nicht bezweifeln, dass zwei plus zwei vier ergibt. Mathematische Wahrheit fühlt sich an wie das solideste Wissen, das es gibt. Aber es ist zutiefst unklar, ob diese Solidität bedeutet, dass Mathematik das Universum beschreibt, oder ob sie bedeutet, dass wir ein System gebaut haben, das mit sich selbst vollkommen konsistent ist – und das Universum zufällig hineinpasst.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, wenn Mathematik gebaut wurde, um in dieses Universum zu passen, würd
 
 [user]
 我想，如果數學是為了契合這個宇宙而被建造出來的，那它就會更像一個很好的工具，而不是一項發現。但它感覺不像工具——它感覺像是我發現的東西，而不是我創造的東西。我無法同時持有這兩個版本。其中一個必須更為真實，但我無法分辨是哪一個。
+
+[statement]
+Two plus two equals four — and this seems truer than almost anything else you know. You can doubt whether the sun will rise tomorrow. You cannot doubt that two plus two equals four. Mathematical truth feels like the most solid knowledge there is. But it is deeply unclear whether that solidity means math describes the universe, or whether it means we built a system that is perfectly consistent with itself — and the universe happens to fit.
+
+[user]
+But two plus two equaling four is just obviously true. It doesn't need an explanation for why it's solid. It's solid because it's math.
+
+[Ninereeds]
+"It's solid because it's math" describes the feeling — but not where the solidity comes from. Here is one way to see the question: imagine a universe where gathering two piles of two stones together sometimes gave you five stones. Not because you miscounted — because the number of stones actually changed when you combined the piles. In that universe, 2+2 would not equal 4. Math would not apply to stones. The question is: would 2+2 still equal 4 in that universe, in some abstract sense, even though it did not apply to physical things? Is math a fact about the universe — or is it a system built for this universe that happens to fit perfectly? What would it mean if it is the second one?
+
+[user]
+I think if math was built to fit this universe, that would make it less like a discovery and more like a very good tool. But it doesn't feel like a tool — it feels like something I find, not something I make. I can't hold the two versions at the same time. One of them has to be more true, but I can't tell which.

@@ -1,4 +1,8 @@
-A girl stands by the hedge and watches a hawk. The hawk spreads its wings wide and rises higher, its shadow crossing the field.
+[user] 鷹在攻擊嗎？
+[Ninereeds] 不是。攻擊看起來像是錘子敲石頭或貓拍打葉子。鷹沒有那樣做。牠正在向上滑翔。
+
+[user] 鷹在翱翔嗎？
+[Ninereeds] 是的。鷹的翅膀張得很開，而且越飛越高。翱翔就是鳥兒乘風滑翔。
 
 [user] Is the hawk striking?
 [Ninereeds] No. Strike looks like a hammer hitting stone or a cat batting a leaf. The hawk is not doing that. It is gliding upward.
@@ -17,9 +21,3 @@ A girl stands by the hedge and watches a hawk. The hawk spreads its wings wide a
 
 [user] タカは舞い上がっているのか？
 [Ninereeds] そうだ。タカの翼は大きく広がり、高く上がっている。舞い上がるとは、鳥が風に乗って滑空することだ。
-
-[user] 鷹在攻擊嗎？
-[Ninereeds] 不是。攻擊看起來像是錘子敲石頭或貓拍打葉子。鷹沒有那樣做。牠正在向上滑翔。
-
-[user] 鷹在翱翔嗎？
-[Ninereeds] 是的。鷹的翅膀張得很開，而且越飛越高。翱翔就是鳥兒乘風滑翔。

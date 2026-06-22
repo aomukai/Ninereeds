@@ -1,3 +1,9 @@
+[user]是手背嗎？
+[Ninereeds]不是。手背的皮膚朝上，指節排成一線，陰影落在上面，手指微微彎曲。這裡，一個孩子的腳離開地面，雙手抓著木頭側邊，木頭靠在牆上——和手完全不符。
+
+[user]是梯子嗎？
+[Ninereeds]是的。農夫把木頭靠在穀倉牆上，孩子踩著橫木往上爬，雙腳離開小徑。如果某樣東西能讓你爬得更高，而且你能清楚看見它的橫木和側邊，那就是梯子。
+
 [user]Is it the back of the hand?
 [Ninereeds]No. The back of the hand has skin facing upward, with knuckles rising in a line and a shadow falling across it, while the fingers curl slightly. Here, the boy’s feet leave the ground as his hands grip wooden sides, and wood leans against the wall—none of that matches a hand.
 
@@ -15,9 +21,3 @@
 
 [user]はしごか？
 [Ninereeds]そうだ。農夫が木を納屋の壁に立てかけ、子供が横木を登り、足が道から浮く。何かがより高く登らせ、その横木と側面がはっきり見えるなら、それははしごだ。
-
-[user]是手背嗎？
-[Ninereeds]不是。手背的皮膚朝上，指節排成一線，陰影落在上面，手指微微彎曲。這裡，一個孩子的腳離開地面，雙手抓著木頭側邊，木頭靠在牆上——和手完全不符。
-
-[user]是梯子嗎？
-[Ninereeds]是的。農夫把木頭靠在穀倉牆上，孩子踩著橫木往上爬，雙腳離開小徑。如果某樣東西能讓你爬得更高，而且你能清楚看見它的橫木和側邊，那就是梯子。

@@ -1,3 +1,9 @@
+[user]是擁抱嗎？
+[Ninereeds]不是。擁抱看起來是手臂環抱肩膀或頭部相貼。這裡孩子在打哈欠，月亮出來。那不是擁抱。
+
+[user]是睡覺時間嗎？
+[Ninereeds]是的。孩子打哈欠，蠟燭燒低，月亮從窗戶照進來。那是睡覺時間。
+
 [user]Is it hug?
 [Ninereeds]No. Hug looks like arms wrapping around shoulders or heads pressing together. Here the child is yawning and the moon is out. That is not hug.
 
@@ -15,9 +21,3 @@
 
 [user]寝る時間か？
 [Ninereeds]そうだ。子供が欠伸をし、ろうそくが低く燃え、月が窓から見える。それが寝る時間だ。
-
-[user]是擁抱嗎？
-[Ninereeds]不是。擁抱看起來是手臂環抱肩膀或頭部相貼。這裡孩子在打哈欠，月亮出來。那不是擁抱。
-
-[user]是睡覺時間嗎？
-[Ninereeds]是的。孩子打哈欠，蠟燭燒低，月亮從窗戶照進來。那是睡覺時間。

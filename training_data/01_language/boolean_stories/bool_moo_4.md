@@ -1,3 +1,9 @@
+[user]一個小孩在早晨聽到田野傳來一聲巨響。這是「talk」嗎？
+[Ninereeds]不是。「talk」有高低起伏的聲音、快速動的嘴唇、還有點頭的動作。這裡沒有人——只有從田野傳來的聲音。那不是talk。
+
+[user]這是「moo」嗎？
+[Ninereeds]是的。聲音從田野傳來，早晨很響亮，並且在呼喚同伴。這就是「moo」的樣子。
+
 [user]A child hears a loud noise from the field in the morning. Is this "talk"?
 [Ninereeds]No. "Talk" has voices that rise and fall, lips that move quickly, and heads that nod. Here there are no people—only a sound from the field. That is not talk.
 
@@ -15,9 +21,3 @@
 
 [user]これは「moo」か？
 [Ninereeds]そうだ。音は野原から来て、朝に大きく、仲間を呼んでいる。それが「moo」の現れ方だ。
-
-[user]一個小孩在早晨聽到田野傳來一聲巨響。這是「talk」嗎？
-[Ninereeds]不是。「talk」有高低起伏的聲音、快速動的嘴唇、還有點頭的動作。這裡沒有人——只有從田野傳來的聲音。那不是talk。
-
-[user]這是「moo」嗎？
-[Ninereeds]是的。聲音從田野傳來，早晨很響亮，並且在呼喚同伴。這就是「moo」的樣子。

@@ -1,3 +1,9 @@
+[user]這是「tone」的例子嗎？
+[Ninereeds]不是。「tone」是聲音在句尾上揚，或者話語緩慢沉重。這裡沒有聲音——只有地板上的玩具和桌上灑出的食物。這與tone不符。
+
+[user]這是「mess」的例子嗎？
+[Ninereeds]是的。玩具散落在地板上，食物灑在桌上——那就是mess。mess就是東西不在它們該在的地方。
+
 [user]Is this an example of tone?
 [Ninereeds]No. Tone is when a voice rises at the end or words come out slow and heavy. Here, there are no voices – only toys on the floor and food spilled on the table. That does not match tone.
 
@@ -15,9 +21,3 @@
 
 [user]これはメス（mess）の例か？
 [Ninereeds]そうだ。床におもちゃが散らばり、テーブルに食べ物がこぼれている——それはメスだ。メスは物があるべき場所にないときに起こる。
-
-[user]這是「tone」的例子嗎？
-[Ninereeds]不是。「tone」是聲音在句尾上揚，或者話語緩慢沉重。這裡沒有聲音——只有地板上的玩具和桌上灑出的食物。這與tone不符。
-
-[user]這是「mess」的例子嗎？
-[Ninereeds]是的。玩具散落在地板上，食物灑在桌上——那就是mess。mess就是東西不在它們該在的地方。

@@ -1,6 +1,3 @@
-[user]A child turns the wheel on the well, and the rope winds around the axle. The wheel keeps spinning in the same place.
-[Ninereeds]No. Orbiting means going around something, like a bird circling the oak tree. Here, the wheel does not go around the well—it turns on its axle. This is rotating. When something spins on its own center, that is rotation.
-
 [user]Ein Kind dreht das Rad am Brunnen, und das Seil wickelt sich um die Achse. Das Rad dreht sich immer an derselben Stelle.
 [Ninereeds]Nein. Kreisen bedeutet, um etwas herumzugehen, wie ein Vogel, der die Eiche umfliegt. Hier geht das Rad nicht um den Brunnen herum – es dreht sich auf seiner Achse. Das ist Drehung. Wenn sich etwas um seinen eigenen Mittelpunkt dreht, nennt man das Rotation.
 
@@ -9,3 +6,6 @@
 
 [user]一個孩子轉動井邊的輪子，繩子纏繞在軸上。輪子在同一個地方不停轉動。
 [Ninereeds]不是。繞行是指圍繞某個東西轉，比如鳥繞著橡樹飛。這裡輪子並沒有繞著水井轉——它是在自己的軸上轉動。這是旋轉。當一個物體繞著自己的中心轉動時，那就是旋轉。
+
+[user]A child turns the wheel on the well, and the rope winds around the axle. The wheel keeps spinning in the same place.
+[Ninereeds]No. Orbiting means going around something, like a bird circling the oak tree. Here, the wheel does not go around the well—it turns on its axle. This is rotating. When something spins on its own center, that is rotation.

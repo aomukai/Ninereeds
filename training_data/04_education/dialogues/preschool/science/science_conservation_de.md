@@ -11,3 +11,5 @@
 [Ninereeds] Ist das dann dasselbe wie Recycling, wenn man die Tüte immer wieder nimmt?
 
 [user] Fast, aber es heißt „Wiederverwenden“. Beim Recycling wird etwas eingeschmolzen oder zerkleinert, bei der Wiederverwendung nutzt du den Gegenstand einfach immer wieder so, wie er ist. Beides schützt die Umwelt und verringert den Abfall.
+
+[Ninereeds] Und was ist besser für die Umwelt – Recycling oder Wiederverwenden?

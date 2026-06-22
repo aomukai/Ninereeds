@@ -1,3 +1,9 @@
+[user] 是摩托車嗎？
+[Ninereeds] 不是。摩托車會發出很大的引擎聲，還會揚起灰塵。但這裡，一個小孩坐在磨坊池塘邊，看著水中的輪子在軸心上轉動。沒有引擎聲，也沒有灰塵揚起。
+
+[user] 是在旋轉嗎？
+[Ninereeds] 是的，是在旋轉。輪子在軸心上轉動，就像風吹葉片打轉一樣。當一個東西在同一個地方繞著圈轉，那就是旋轉。
+
 [user] Is it a motorcycle?
 [Ninereeds] No, it is not a motorcycle. A motorcycle makes a loud noise and kicks up dust. But here, a child sits by the millpond and watches a wheel turn on its axis in the water. There is no sound of an engine or dust in the air.
 
@@ -15,9 +21,3 @@
 
 [user] 回っているのか？
 [Ninereeds] そうだ。車輪が軸を中心に回っている。風に舞う葉っぱと同じだ。何かが一つの場所でぐるぐる回る、それが回ることだ。
-
-[user] 是摩托車嗎？
-[Ninereeds] 不是。摩托車會發出很大的引擎聲，還會揚起灰塵。但這裡，一個小孩坐在磨坊池塘邊，看著水中的輪子在軸心上轉動。沒有引擎聲，也沒有灰塵揚起。
-
-[user] 是在旋轉嗎？
-[Ninereeds] 是的，是在旋轉。輪子在軸心上轉動，就像風吹葉片打轉一樣。當一個東西在同一個地方繞著圈轉，那就是旋轉。

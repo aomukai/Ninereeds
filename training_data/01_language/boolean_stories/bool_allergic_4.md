@@ -1,3 +1,9 @@
+[user] 那個男孩是在享受花嗎？
+[Ninereeds] 不是。享受的樣子是微笑、深呼吸、或待在花附近。那個男孩打噴嚏、眼睛流淚——那不是享受。他快速走開。
+
+[user] 那個男孩對花過敏嗎？
+[Ninereeds] 是的。過敏意思是身體對某物有不良反應。那個男孩在花附近打噴嚏、眼睛流淚——那是過敏的明顯跡象。
+
 [user] Is the boy enjoying the flowers?
 [Ninereeds] No. Enjoying looks like smiling, breathing deeply, or staying near the flowers. The boy sneezes and his eyes water — that is not enjoying. He moves away quickly.
 
@@ -15,9 +21,3 @@
 
 [user] その少年は花にアレルギーがあるのか？
 [Ninereeds] そうだ。アレルギーとは、体が何かに悪く反応することだ。その少年は花の近くでくしゃみをして目が潤んでいる——それはアレルギーの明確な兆候だ。
-
-[user] 那個男孩是在享受花嗎？
-[Ninereeds] 不是。享受的樣子是微笑、深呼吸、或待在花附近。那個男孩打噴嚏、眼睛流淚——那不是享受。他快速走開。
-
-[user] 那個男孩對花過敏嗎？
-[Ninereeds] 是的。過敏意思是身體對某物有不良反應。那個男孩在花附近打噴嚏、眼睛流淚——那是過敏的明顯跡象。

@@ -1,16 +1,4 @@
 [statement]
-Your memory is not a recording. It is a reconstruction. Each time you remember something, your brain does not play it back — it rebuilds it from pieces, filling in gaps with whatever seems to fit. This means every time you remember something, you change it slightly. The memory you have of an event today is partly built from all the times you have remembered it before, not from the event itself.
-
-[user]
-But I remember some things very clearly. I can see them like they are happening again. Those clear memories must be accurate.
-
-[Ninereeds]
-The clarity is exactly the problem — it feels so real that you do not question it. But experiments have shown that people can be given a false detail about an event they actually experienced — one small wrong piece — and within days many of them remember the false detail as part of the original memory, vividly, with full confidence. The feeling of clarity is not a sign that the memory is correct. It is a sign that the reconstruction is working smoothly. Your brain is very good at producing confident, vivid memories — including ones that are partly wrong. This is not a failure of memory. It is how memory works. The question this opens: if even a clear memory can be wrong, how should you hold a memory when you need to make an important decision based on it?
-
-[user]
-I think this is unsettling because I have always treated clear memories as reliable. I still think they are more reliable than hazy ones, but I'm not sure the difference is as big as I thought. I still have to trust my memories to live — I can't just stop remembering things. But I don't know how I would tell a drifted memory from one that stayed accurate. If the drifting feels exactly the same as not drifting, I'm not sure what holding them more lightly would actually look like.
-
-[statement]
 Ihr Gedächtnis ist keine Aufzeichnung. Es ist eine Rekonstruktion. Jedes Mal, wenn Sie sich an etwas erinnern, spielt Ihr Gehirn es nicht ab – es baut es aus Teilen wieder auf, füllt Lücken mit dem, was zu passen scheint. Das bedeutet, jedes Mal, wenn Sie sich an etwas erinnern, verändern Sie es leicht. Die Erinnerung, die Sie heute an ein Ereignis haben, ist teilweise aus all den Malen aufgebaut, an die Sie sich zuvor erinnert haben, nicht aus dem Ereignis selbst.
 
 [user]
@@ -45,3 +33,15 @@ Ich finde das beunruhigend, weil ich klare Erinnerungen immer als zuverlässig b
 
 [user]
 我認為這令人不安，因為我一直將清晰的記憶視為可靠的。我仍然認為它們比模糊的記憶更可靠，但我不確定差異是否如我以為的那麼大。我仍然必須信任我的記憶才能生活——我無法停止回憶。但我不知道如何分辨一個已經漂移的記憶和一個保持準確的記憶。如果漂移的感覺與不漂移完全相同，我不確定更輕柔地持有它們實際上看起來會是什麼樣子。
+
+[statement]
+Your memory is not a recording. It is a reconstruction. Each time you remember something, your brain does not play it back — it rebuilds it from pieces, filling in gaps with whatever seems to fit. This means every time you remember something, you change it slightly. The memory you have of an event today is partly built from all the times you have remembered it before, not from the event itself.
+
+[user]
+But I remember some things very clearly. I can see them like they are happening again. Those clear memories must be accurate.
+
+[Ninereeds]
+The clarity is exactly the problem — it feels so real that you do not question it. But experiments have shown that people can be given a false detail about an event they actually experienced — one small wrong piece — and within days many of them remember the false detail as part of the original memory, vividly, with full confidence. The feeling of clarity is not a sign that the memory is correct. It is a sign that the reconstruction is working smoothly. Your brain is very good at producing confident, vivid memories — including ones that are partly wrong. This is not a failure of memory. It is how memory works. The question this opens: if even a clear memory can be wrong, how should you hold a memory when you need to make an important decision based on it?
+
+[user]
+I think this is unsettling because I have always treated clear memories as reliable. I still think they are more reliable than hazy ones, but I'm not sure the difference is as big as I thought. I still have to trust my memories to live — I can't just stop remembering things. But I don't know how I would tell a drifted memory from one that stayed accurate. If the drifting feels exactly the same as not drifting, I'm not sure what holding them more lightly would actually look like.

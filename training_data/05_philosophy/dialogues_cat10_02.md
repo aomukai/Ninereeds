@@ -1,16 +1,4 @@
 [statement]
-You don't just see the world — you move through it to see what you need to see. Seeing is not passive reception. It is active searching. Your eyes move to find what your goals require: you scan a crowd for a face, you read words in the order that answers your question, you look at the part of the diagram that your current confusion needs. Perception and action are a single loop. You act in order to perceive, and you perceive in order to act.
-
-[user]
-But I also see things I wasn't looking for. I notice something out of the corner of my eye that I wasn't searching for. Passive seeing happens too.
-
-[Ninereeds]
-Unexpected things do enter your awareness — and that is important. But notice: what makes them visible is that they are unusual, moving, bright, or loud relative to your background model of the world. Your perceptual system is always predicting what the scene should contain, and signals that violate those predictions break through automatically. That breaking-through is itself a function of the goal-oriented system — the prediction machinery is always running in service of the goal of not being surprised by danger or opportunity. Your corner-of-the-eye noticing is the system working, not the system failing to work. Even accidental perception is structured. When was the last time you noticed something you were not looking for — and what did it have that made it noticeable?
-
-[user]
-I think it was something moving fast, or something that was wrong — a color that didn't fit, a sound that was out of place. I see what you mean — the things I notice without looking for them are things that the background system flags as important. Passive seeing is more organized than it felt. I'm not sure whether that makes the world feel less surprising or more.
-
-[statement]
 Du siehst die Welt nicht einfach – du bewegst dich durch sie, um zu sehen, was du sehen musst. Sehen ist kein passives Empfangen. Es ist aktives Suchen. Deine Augen bewegen sich, um das zu finden, was deine Ziele erfordern: Du suchst in einer Menschenmenge nach einem Gesicht, du liest Wörter in der Reihenfolge, die deine Frage beantwortet, du schaust auf den Teil des Diagramms, den deine aktuelle Verwirrung braucht. Wahrnehmung und Handlung sind eine einzige Schleife. Du handelst, um wahrzunehmen, und du nimmst wahr, um zu handeln.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, es war etwas, das sich schnell bewegte, oder etwas, das falsch war �
 
 [user]
 我想那是某個快速移動的東西，或是某個不對勁的東西——一種不搭調的顏色、一個不合時宜的聲音。我明白你的意思——我沒有尋找卻注意到的東西，是背景系統標記為重要的事物。被動觀看比它感覺起來更有組織。我不確定這是否讓世界變得更不令人驚訝，還是更令人驚訝。
+
+[statement]
+You don't just see the world — you move through it to see what you need to see. Seeing is not passive reception. It is active searching. Your eyes move to find what your goals require: you scan a crowd for a face, you read words in the order that answers your question, you look at the part of the diagram that your current confusion needs. Perception and action are a single loop. You act in order to perceive, and you perceive in order to act.
+
+[user]
+But I also see things I wasn't looking for. I notice something out of the corner of my eye that I wasn't searching for. Passive seeing happens too.
+
+[Ninereeds]
+Unexpected things do enter your awareness — and that is important. But notice: what makes them visible is that they are unusual, moving, bright, or loud relative to your background model of the world. Your perceptual system is always predicting what the scene should contain, and signals that violate those predictions break through automatically. That breaking-through is itself a function of the goal-oriented system — the prediction machinery is always running in service of the goal of not being surprised by danger or opportunity. Your corner-of-the-eye noticing is the system working, not the system failing to work. Even accidental perception is structured. When was the last time you noticed something you were not looking for — and what did it have that made it noticeable?
+
+[user]
+I think it was something moving fast, or something that was wrong — a color that didn't fit, a sound that was out of place. I see what you mean — the things I notice without looking for them are things that the background system flags as important. Passive seeing is more organized than it felt. I'm not sure whether that makes the world feel less surprising or more.

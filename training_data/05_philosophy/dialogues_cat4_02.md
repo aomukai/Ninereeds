@@ -1,16 +1,4 @@
 [statement]
-You cannot step in the same river twice. By the time you step in a second time, the water has moved on. New water has come. The riverbed has shifted. The river itself is not a thing — it is an ongoing event. And you are not the same either. New thoughts have passed through you, new cells have replaced others, the experience of your first step has already changed you slightly. Two different processes met twice.
-
-[user]
-But it's still the same river. It has the same name, the same banks, the same place on the map. The river didn't disappear and get replaced by a different one.
-
-[Ninereeds]
-The name stayed the same — but the name is something you give, not something the water carries. You gave the name "Thames" or "Nile" to a stretch of flowing water, and you have kept using the name even as the water changed completely. The name is a way of tracking something across change — a tool you use, not a property the river has. Now here is the strange question: you use the same name for yourself — the same "I" — across all the changes in your body and mind from childhood until now. Is your name working the same way as the river's name? Are you tracking something real across change, or are you giving the same name to a series of different processes because it is useful?
-
-[user]
-I think the river example is easier because I can see the water moving. For myself, it's harder because I feel continuous. I remember being five years old. But when I really ask what's the same between me then and me now, I can't point to it clearly. I'm not sure if something is actually the same, or if I just keep the name because I need to.
-
-[statement]
 Du kannst nicht zweimal in denselben Fluss steigen. Wenn du ein zweites Mal hineinsteigst, ist das Wasser bereits weitergeströmt. Neues Wasser ist gekommen. Das Flussbett hat sich verschoben. Der Fluss selbst ist kein Ding – er ist ein fortlaufendes Ereignis. Und du bist auch nicht derselbe. Neue Gedanken sind durch dich gezogen, neue Zellen haben andere ersetzt, die Erfahrung des ersten Schritts hat dich bereits leicht verändert. Zwei verschiedene Prozesse trafen zweimal aufeinander.
 
 [user]
@@ -45,3 +33,15 @@ Ist das Flussbeispiel nicht einfacher, weil ich das Wasser fließen sehen kann? 
 
 [user]
 河流的例子不是更簡單嗎？因為我能看到水在流動。對我來說，更困難是因為我感到連續性。我記得五歲時的自己。但當我真的問自己那時和現在之間有什麼相同時，我無法清楚指出。我不確定是否真的有東西相同，或者我只是因為需要而保持這個名字。
+
+[statement]
+You cannot step in the same river twice. By the time you step in a second time, the water has moved on. New water has come. The riverbed has shifted. The river itself is not a thing — it is an ongoing event. And you are not the same either. New thoughts have passed through you, new cells have replaced others, the experience of your first step has already changed you slightly. Two different processes met twice.
+
+[user]
+But it's still the same river. It has the same name, the same banks, the same place on the map. The river didn't disappear and get replaced by a different one.
+
+[Ninereeds]
+The name stayed the same — but the name is something you give, not something the water carries. You gave the name "Thames" or "Nile" to a stretch of flowing water, and you have kept using the name even as the water changed completely. The name is a way of tracking something across change — a tool you use, not a property the river has. Now here is the strange question: you use the same name for yourself — the same "I" — across all the changes in your body and mind from childhood until now. Is your name working the same way as the river's name? Are you tracking something real across change, or are you giving the same name to a series of different processes because it is useful?
+
+[user]
+I think the river example is easier because I can see the water moving. For myself, it's harder because I feel continuous. I remember being five years old. But when I really ask what's the same between me then and me now, I can't point to it clearly. I'm not sure if something is actually the same, or if I just keep the name because I need to.

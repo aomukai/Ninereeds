@@ -1,4 +1,8 @@
-A boy sat by the millpond, frowning at the constant croaking of frogs. He sighed loudly and tapped his foot against the stone.
+[user]這個男孩舒服嗎？
+[Ninereeds]不是。舒服的樣子是身體陷進椅子裡，或感覺到柔軟的毯子。但這個男孩對著噪音皺眉，還用腳輕敲地面。那並不舒服。
+
+[user]這個男孩生氣了嗎？
+[Ninereeds]是的。他大聲嘆氣，皺起了眉頭。當一個人對噪音皺眉並用腳輕敲時，他很可能是煩躁的。
 
 [user]Is the boy comfortable?
 [Ninereeds]No. Being comfortable looks like sinking into a chair or feeling a soft blanket. But this boy is frowning at the noise and tapping his foot. That is not comfortable.
@@ -17,9 +21,3 @@ A boy sat by the millpond, frowning at the constant croaking of frogs. He sighed
 
 [user]その少年は、いらいらしているか？
 [Ninereeds]そうだ。彼は大きなため息をつき、眉をひそめた。音に眉をひそめ、足をトントンするとき、その人はいらいらしている可能性が高い。
-
-[user]這個男孩舒服嗎？
-[Ninereeds]不是。舒服的樣子是身體陷進椅子裡，或感覺到柔軟的毯子。但這個男孩對著噪音皺眉，還用腳輕敲地面。那並不舒服。
-
-[user]這個男孩生氣了嗎？
-[Ninereeds]是的。他大聲嘆氣，皺起了眉頭。當一個人對噪音皺眉並用腳輕敲時，他很可能是煩躁的。

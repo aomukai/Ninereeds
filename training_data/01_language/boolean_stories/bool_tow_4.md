@@ -1,4 +1,8 @@
-A girl tugged on a rope, her feet digging into the dirt as a cart loaded with firewood rolled slowly behind a stubborn dog.
+[user]是摩托車嗎？
+[Ninereeds]不是。摩托車有巨大的引擎噪音，會在路上揚起灰塵。這裡沒有引擎——只有一條繃緊的繩子，因為狗和女孩一起拉，所以貨車才會移動。
+
+[user]是拖曳嗎？
+[Ninereeds]是的。繩子在狗和貨車之間繃緊，女孩的手臂用力對抗重量。當用繩子拉動貨物時，那就是拖曳。
 
 [user]Is it a motorcycle?
 [Ninereeds]No. A motorcycle makes a loud engine noise and kicks up dust as it rides down the path. Here, there is no engine—only a rope pulled tight and the cart moving because the dog and the girl are pulling together.
@@ -17,9 +21,3 @@ A girl tugged on a rope, her feet digging into the dirt as a cart loaded with fi
 
 [user]牽引か？
 [Ninereeds]そうだ。犬と荷車の間でロープがぴんと張り、少女の腕が重さに耐えている。ロープで荷物を引っ張るとき、それを牽引という。
-
-[user]是摩托車嗎？
-[Ninereeds]不是。摩托車有巨大的引擎噪音，會在路上揚起灰塵。這裡沒有引擎——只有一條繃緊的繩子，因為狗和女孩一起拉，所以貨車才會移動。
-
-[user]是拖曳嗎？
-[Ninereeds]是的。繩子在狗和貨車之間繃緊，女孩的手臂用力對抗重量。當用繩子拉動貨物時，那就是拖曳。

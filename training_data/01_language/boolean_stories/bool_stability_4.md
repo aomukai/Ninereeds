@@ -1,3 +1,9 @@
+[user]一位老婦人坐在磨坊池塘旁的木製長凳上。地面不平，但長凳沒有搖晃。這是打擊嗎？
+[Ninereeds]不是。打擊是某物用力撞擊，像錘子打石頭。這裡的長凳靜止不動，沒有撞擊任何東西。
+
+[user]這是穩定嗎？
+[Ninereeds]是的。長凳在不平的地面上保持平穩。穩定意味著不會移動或倒下。
+
 [user]An old woman sat on a wooden bench near the millpond. The bench did not wobble, even though the ground was uneven. Is this a strike?
 [Ninereeds]No. A strike is when something hits hard, like a hammer on stone. Here the bench is still and does not hit anything.
 
@@ -15,9 +21,3 @@
 
 [user]これは安定か？
 [Ninereeds]そうだ。ベンチはでこぼこした地面でも水平を保っている。安定とは、動いたり倒れたりしないことだ。
-
-[user]一位老婦人坐在磨坊池塘旁的木製長凳上。地面不平，但長凳沒有搖晃。這是打擊嗎？
-[Ninereeds]不是。打擊是某物用力撞擊，像錘子打石頭。這裡的長凳靜止不動，沒有撞擊任何東西。
-
-[user]這是穩定嗎？
-[Ninereeds]是的。長凳在不平的地面上保持平穩。穩定意味著不會移動或倒下。

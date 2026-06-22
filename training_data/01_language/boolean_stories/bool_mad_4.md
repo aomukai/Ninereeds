@@ -1,3 +1,9 @@
+[user]那個小孩是不是在抱人？
+[Ninereeds]不是。擁抱是手臂繞過肩膀、頭靠在一起。但是那個小孩臉紅、手握得很緊、聲音很尖。那不是擁抱。
+
+[user]那個小孩是不是在生氣？
+[Ninereeds]是的。臉紅、手握緊、聲音尖銳都是生氣的表現。看到這些，你就知道有人在生氣。
+
 [user]Is the child hugging someone?
 [Ninereeds]No. A hug means arms wrap around shoulders and heads press together. But here the child's face is red, her hands are clenched tight, and her voice is sharp. That is not a hug.
 
@@ -15,9 +21,3 @@
 
 [user]あの子は怒っているの？
 [Ninereeds]そうだ。顔が赤く、手を握り、声が鋭いのは怒りの証だ。それを見たら怒っていると分かる。
-
-[user]那個小孩是不是在抱人？
-[Ninereeds]不是。擁抱是手臂繞過肩膀、頭靠在一起。但是那個小孩臉紅、手握得很緊、聲音很尖。那不是擁抱。
-
-[user]那個小孩是不是在生氣？
-[Ninereeds]是的。臉紅、手握緊、聲音尖銳都是生氣的表現。看到這些，你就知道有人在生氣。

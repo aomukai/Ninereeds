@@ -1,3 +1,9 @@
+[user]一個小孩把手臂繞在狗的肩上。他們的頭靠在一起。小孩的手緊緊地握著。這是溫和的嗎？
+[Ninereeds]不是。溫和的意思是風幾乎不動葉子，或者陽光溫暖而不灼傷。這裡手臂繞著並緊握。那不是溫和。
+
+[user]這是擁抱嗎？
+[Ninereeds]是的。手臂繞著肩膀，頭靠在一起。那就是擁抱。
+
 [user]A child wraps arms around a dog's shoulders. Their heads press together. The child's hands squeeze tight. Is this gentle?
 [Ninereeds]No. Gentle means speaking softly, moving calmly, and not pushing or rushing. Here arms are wrapping and squeezing. That is not gentle.
 
@@ -15,9 +21,3 @@
 
 [user]これはハグか？
 [Ninereeds]そうだ。腕が肩を包み、頭を寄せ合っている。それはハグだ。
-
-[user]一個小孩把手臂繞在狗的肩上。他們的頭靠在一起。小孩的手緊緊地握著。這是溫和的嗎？
-[Ninereeds]不是。溫和的意思是風幾乎不動葉子，或者陽光溫暖而不灼傷。這裡手臂繞著並緊握。那不是溫和。
-
-[user]這是擁抱嗎？
-[Ninereeds]是的。手臂繞著肩膀，頭靠在一起。那就是擁抱。

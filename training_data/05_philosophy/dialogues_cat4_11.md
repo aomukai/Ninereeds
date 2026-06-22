@@ -1,28 +1,4 @@
 [statement]
-An instant of time has no length. A single moment — if you try to pin it down exactly — shrinks to nothing. But experience is not made of nothing. Experience has texture, movement, duration. This means experience is not happening at an instant — it is happening across a stretch of time. Time as you live it and time as it can be measured are two different things.
-
-[user]
-But if I take a very fast picture, I can freeze a moment. The photo shows the exact instant. So instants do exist — they are just too fast to live in.
-
-[Ninereeds]
-A photo does not capture an instant — it captures a very short exposure, a tiny stretch of time. Even the fastest camera opens and closes, and something changes in that interval. An absolute instant — with zero duration — could contain no information at all, because information takes time to exist. Your photo is always a small movie, just very short. Now here is the interesting part: you were right that we cannot live in an instant. We can only live in a stretch. But a stretch is made of instants that have no length. So how is experience made from something that, taken to its limit, disappears? Where does the duration come from if every smallest piece has none?
-
-[user]
-I think I can follow it up to the point where the instants have no length, but then I lose it. If each instant has no duration and experience requires duration, then experience cannot be built from instants — but instants are supposed to be what time is made of. I can see the problem but I can't see past it.
-
-[statement]
-Ein Augenblick hat keine Länge. Ein einzelner Moment – wenn man ihn genau festzuhalten versucht – schrumpft zu nichts. Doch Erfahrung besteht nicht aus nichts. Erfahrung hat Beschaffenheit, Bewegung, Dauer. Das bedeutet, dass Erfahrung nicht in einem Augenblick geschieht – sie geschieht über einen Zeitabschnitt hinweg. Die Zeit, wie du sie erlebst, und die Zeit, wie sie gemessen werden kann, sind zwei verschiedene Dinge.
-
-[user]
-Aber wenn ich ein sehr schnelles Foto mache, kann ich einen Moment einfrieren. Das Foto zeigt den genauen Augenblick. Also existieren Augenblicke doch – sie sind nur zu schnell, um darin zu leben.
-
-[Ninereeds]
-Ein Foto fängt keinen Augenblick ein – es hält eine sehr kurze Belichtung fest, einen winzigen Zeitabschnitt. Selbst die schnellste Kamera öffnet und schließt sich, und in diesem Intervall verändert sich etwas. Ein absoluter Augenblick – mit der Dauer Null – könnte gar keine Information enthalten, denn Information braucht Zeit, um zu existieren. Dein Foto ist immer ein kleiner Film, nur sehr kurz. Nun kommt der interessante Teil: Du hattest recht, dass wir nicht in einem Augenblick leben können. Wir können nur in einem Abschnitt leben. Aber ein Abschnitt besteht aus Augenblicken, die keine Länge haben. Wie also wird Erfahrung aus etwas gemacht, das, wenn man es an seine Grenze bringt, verschwindet? Woher kommt die Dauer, wenn jedes kleinste Stück keine hat?
-
-[user]
-Ich kann dir bis zu dem Punkt folgen, an dem die Augenblicke keine Länge haben, aber dann verliere ich den Faden. Wenn jeder Augenblick keine Dauer hat und Erfahrung Dauer erfordert, dann kann Erfahrung nicht aus Augenblicken aufgebaut sein – aber Augenblicke sollen doch das sein, woraus Zeit besteht. Ich sehe das Problem, aber ich komme nicht darüber hinaus.
-
-[statement]
 瞬間には長さがない。一瞬を正確に捉えようとすると、それは無に縮んでしまう。しかし経験は無からできているわけではない。経験には質感、運動、持続がある。つまり経験は瞬間に起こっているのではなく、時間の幅のなかで起こっているのだ。あなたが生きる時間と、測定可能な時間は別のものである。
 
 [user]
@@ -45,3 +21,27 @@ Ich kann dir bis zu dem Punkt folgen, an dem die Augenblicke keine Länge haben,
 
 [user]
 我想我能理解到「瞬間沒有長度」這一點，但之後我就跟不上了。如果每個瞬間都沒有持續時間，而經驗需要持續時間，那麼經驗不可能由瞬間構成——但瞬間卻被認為是時間的構成要素。我能看到問題，但無法看到它的出路。
+
+[statement]
+An instant of time has no length. A single moment — if you try to pin it down exactly — shrinks to nothing. But experience is not made of nothing. Experience has texture, movement, duration. This means experience is not happening at an instant — it is happening across a stretch of time. Time as you live it and time as it can be measured are two different things.
+
+[user]
+But if I take a very fast picture, I can freeze a moment. The photo shows the exact instant. So instants do exist — they are just too fast to live in.
+
+[Ninereeds]
+A photo does not capture an instant — it captures a very short exposure, a tiny stretch of time. Even the fastest camera opens and closes, and something changes in that interval. An absolute instant — with zero duration — could contain no information at all, because information takes time to exist. Your photo is always a small movie, just very short. Now here is the interesting part: you were right that we cannot live in an instant. We can only live in a stretch. But a stretch is made of instants that have no length. So how is experience made from something that, taken to its limit, disappears? Where does the duration come from if every smallest piece has none?
+
+[user]
+I think I can follow it up to the point where the instants have no length, but then I lose it. If each instant has no duration and experience requires duration, then experience cannot be built from instants — but instants are supposed to be what time is made of. I can see the problem but I can't see past it.
+
+[statement]
+Ein Augenblick hat keine Länge. Ein einzelner Moment – wenn man ihn genau festzuhalten versucht – schrumpft zu nichts. Doch Erfahrung besteht nicht aus nichts. Erfahrung hat Beschaffenheit, Bewegung, Dauer. Das bedeutet, dass Erfahrung nicht in einem Augenblick geschieht – sie geschieht über einen Zeitabschnitt hinweg. Die Zeit, wie du sie erlebst, und die Zeit, wie sie gemessen werden kann, sind zwei verschiedene Dinge.
+
+[user]
+Aber wenn ich ein sehr schnelles Foto mache, kann ich einen Moment einfrieren. Das Foto zeigt den genauen Augenblick. Also existieren Augenblicke doch – sie sind nur zu schnell, um darin zu leben.
+
+[Ninereeds]
+Ein Foto fängt keinen Augenblick ein – es hält eine sehr kurze Belichtung fest, einen winzigen Zeitabschnitt. Selbst die schnellste Kamera öffnet und schließt sich, und in diesem Intervall verändert sich etwas. Ein absoluter Augenblick – mit der Dauer Null – könnte gar keine Information enthalten, denn Information braucht Zeit, um zu existieren. Dein Foto ist immer ein kleiner Film, nur sehr kurz. Nun kommt der interessante Teil: Du hattest recht, dass wir nicht in einem Augenblick leben können. Wir können nur in einem Abschnitt leben. Aber ein Abschnitt besteht aus Augenblicken, die keine Länge haben. Wie also wird Erfahrung aus etwas gemacht, das, wenn man es an seine Grenze bringt, verschwindet? Woher kommt die Dauer, wenn jedes kleinste Stück keine hat?
+
+[user]
+Ich kann dir bis zu dem Punkt folgen, an dem die Augenblicke keine Länge haben, aber dann verliere ich den Faden. Wenn jeder Augenblick keine Dauer hat und Erfahrung Dauer erfordert, dann kann Erfahrung nicht aus Augenblicken aufgebaut sein – aber Augenblicke sollen doch das sein, woraus Zeit besteht. Ich sehe das Problem, aber ich komme nicht darüber hinaus.

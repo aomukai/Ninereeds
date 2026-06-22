@@ -1,3 +1,9 @@
+[user] 那個孩子在運動嗎？
+[Ninereeds] 不是。運動的樣子是在田野上跑步，或是跳過樹籬。這個孩子沒有那樣做。木頭在地上拖著地，腳步緩慢地拖行。那不是運動。
+
+[user] 那個孩子在拖東西嗎？
+[Ninereeds] 是的。木頭刮過地面，袋子也歪歪扭扭地移動。當東西在地上刮出聲音，或沒有被提起而緩慢移動時，那就是在拖。
+
 [user] Is the child doing exercise?
 [Ninereeds] No. Exercise looks like running around the field or jumping over the hedge. This child is not doing that. The log scrapes the ground as he walks, and his feet shuffle slowly. That is not exercise.
 
@@ -15,9 +21,3 @@
 
 [user] 子どもは何かを引きずっているのか？
 [Ninereeds] そうだ。丸太が地面に擦れ、袋が不揃いに動いている。物が地面にこすれたり、持ち上げずにゆっくり引かれたりするのが、引きずることだ。
-
-[user] 那個孩子在運動嗎？
-[Ninereeds] 不是。運動的樣子是在田野上跑步，或是跳過樹籬。這個孩子沒有那樣做。木頭在地上拖著地，腳步緩慢地拖行。那不是運動。
-
-[user] 那個孩子在拖東西嗎？
-[Ninereeds] 是的。木頭刮過地面，袋子也歪歪扭扭地移動。當東西在地上刮出聲音，或沒有被提起而緩慢移動時，那就是在拖。

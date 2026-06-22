@@ -1,4 +1,8 @@
-In the village, the farmer's hammer hit a wooden post with a loud bang. The sound startled a cat sleeping by the hedge.
+[user] 是痛苦的嗎？ 農夫在敲木頭時皺了一下眉頭。
+[Ninereeds] 不是。痛苦的樣子是腳步緩慢、皺眉、聲音緊繃。農夫沒有皺眉；他用力敲木頭，然後笑了。沒有痛苦的跡象。
+
+[user] 是轟的一聲嗎？ 錘子敲到木頭發出巨響。
+[Ninereeds] 是的。錘子敲到木頭發出巨大的轟聲。當一個硬物撞擊某物並聽到尖銳的響聲時，那就是轟的一聲。
 
 [user] Is it painful? The farmer winced when he hit the wood.
 [Ninereeds] No. Painful looks like slow steps, wincing, or a strained voice. The farmer did not wince; he hit the wood hard and then smiled. There is no sign of pain.
@@ -17,9 +21,3 @@ In the village, the farmer's hammer hit a wooden post with a loud bang. The soun
 
 [user] バンという音か？ ハンマーが木に当たって大きな音がした。
 [Ninereeds] そうだ。ハンマーが木に当たって大きなバンという音がした。硬い物が何かにぶつかって鋭い音が聞こえたら、それがバンだ。
-
-[user] 是痛苦的嗎？ 農夫在敲木頭時皺了一下眉頭。
-[Ninereeds] 不是。痛苦的樣子是腳步緩慢、皺眉、聲音緊繃。農夫沒有皺眉；他用力敲木頭，然後笑了。沒有痛苦的跡象。
-
-[user] 是轟的一聲嗎？ 錘子敲到木頭發出巨響。
-[Ninereeds] 是的。錘子敲到木頭發出巨大的轟聲。當一個硬物撞擊某物並聽到尖銳的響聲時，那就是轟的一聲。

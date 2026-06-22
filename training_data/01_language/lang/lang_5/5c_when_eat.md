@@ -1,39 +1,39 @@
+克勞斯什麼時候吃的？
 When did Klaus eat?
 Wann hat Klaus gegessen?
 クラウスはいつ食べた？
-克勞斯什麼時候吃的？
 
+中午
 At noon
 Um zwölf Uhr
 正午
-中午
 
+蘇珊娜什麼時候吃的？
 When did Susanne eat?
 Wann hat Susanne gegessen?
 スザンネはいつ食べた？
-蘇珊娜什麼時候吃的？
 
+今天早上
 This morning
 Heute Morgen
 今朝
-今天早上
 
+太郎什麼時候吃的？
 When did Taro eat?
 Wann hat Taro gegessen?
 太郎はいつ食べた？
-太郎什麼時候吃的？
 
+昨天晚上
 Yesterday evening
 Gestern Abend
 昨夜
-昨天晚上
 
+花子什麼時候吃的？
 When did Hanako eat?
 Wann hat Hanako gegessen?
 花子はいつ食べた？
-花子什麼時候吃的？
 
+七點
 At 7 o'clock
 Um sieben Uhr
 七時
-七點

@@ -7,3 +7,8 @@
 [At whose place] is the patient?
 [誰のところに]患者がいるか？
 [在谁那里]病人？
+
+Der Patient ist beim Arzt.
+The patient is at the doctor's.
+患者は医者のところにいる。
+病人在醫生那裡。

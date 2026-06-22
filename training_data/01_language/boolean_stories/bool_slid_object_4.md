@@ -1,3 +1,9 @@
+[user] 是樹梢嗎？
+[Ninereeds] 不是。樹梢在高處，樹葉在那裡沙沙作響，小鳥輕輕停著。但這裡，一輛小木車沿著小路滑動，直到撞上牆壁。木車不是樹梢。
+
+[user] 是滑動物體嗎？
+[Ninereeds] 是的。木車平穩地滑過地面，留下一道痕跡。當物體沿著表面滑動並留下痕跡時，那就是滑動物體。
+
 [user] Is it the tip of the branch?
 [Ninereeds] No. The tip of the branch is high up, where leaves rustle and birds perch. Here, a small wooden cart moved along the path until it hit the wall. The cart is not a branch tip.
 
@@ -15,9 +21,3 @@
 
 [user] 滑った物か？
 [Ninereeds] そうだ。台車は地面を滑らかに動き、跡を残した。何かが表面を滑って跡を残すなら、それは滑った物だ。
-
-[user] 是樹梢嗎？
-[Ninereeds] 不是。樹梢在高處，樹葉在那裡沙沙作響，小鳥輕輕停著。但這裡，一輛小木車沿著小路滑動，直到撞上牆壁。木車不是樹梢。
-
-[user] 是滑動物體嗎？
-[Ninereeds] 是的。木車平穩地滑過地面，留下一道痕跡。當物體沿著表面滑動並留下痕跡時，那就是滑動物體。

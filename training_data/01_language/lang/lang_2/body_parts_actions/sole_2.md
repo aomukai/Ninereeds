@@ -1,19 +1,19 @@
-One sole.
-Eine Sohle.
 足の裏が一つ。
 一个脚底。
+One sole.
+Eine Sohle.
 
-Two soles.
-Zwei Sohlen.
 足の裏が二つ。
 两个脚底。
+Two soles.
+Zwei Sohlen.
 
-His left sole hurt after the walk.
-Seine linke Sohle schmerzte nach dem Spaziergang.
 散歩の後、彼の左足の裏が痛んだ。
 散步后他的左脚底疼了。
+His left sole hurt after the walk.
+Seine linke Sohle schmerzte nach dem Spaziergang.
 
-She massaged both soles.
-Sie massierte beide Sohlen.
 彼女は両方の足の裏をマッサージした。
 她按摩了两只脚底。
+She massaged both soles.
+Sie massierte beide Sohlen.

@@ -1,16 +1,4 @@
 [statement]
-Every story has a storyteller with a point of view. Even the most careful attempt to "just state the facts" is told from somewhere — from a particular vantage point, with some things included and others left out. The facts that get selected, the order they are placed in, the emphasis on some and the quiet mention of others — these are the storyteller's choices, even when the storyteller is trying to be objective.
-
-[user]
-But facts are facts. If I report what actually happened, my perspective doesn't change the facts. "She hit him" is a fact, not a perspective.
-
-[Ninereeds]
-"She hit him" is a fact — if it happened. But now: did she hit him first? Was she responding to something he did? Did she tap his arm or punch his face? The word "hit" covers a range of actions. The sentence selects what happened and leaves out what came before and after. A story that starts one moment earlier would be different. A story that includes her perspective would be different. A different choice of where to begin and where to end can make the same event heroic or villainous. None of the versions need to add anything false. They just need to choose differently. What would change if you told a story from your life from the perspective of the person you were in conflict with?
-
-[user]
-I think that would change a lot — maybe uncomfortably. I tell my own stories in ways that make sense from where I was standing. I don't usually tell them from the other person's point of view. I think I would find that the other version is also coherent, which is a little difficult to sit with.
-
-[statement]
 Jede Geschichte hat einen Erzähler mit einem Standpunkt. Selbst der sorgfältigste Versuch, "einfach die Fakten darzulegen", wird von einem bestimmten Ort aus erzählt – von einem bestimmten Blickwinkel, wobei manches einbezogen und manches weggelassen wird. Die ausgewählten Fakten, ihre Reihenfolge, die Betonung einiger und die beiläufige Erwähnung anderer – das sind die Entscheidungen des Erzählers, selbst wenn der Erzähler versucht, objektiv zu sein.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, das würde eine Menge ändern – vielleicht unangenehm. Ich erzähle
 
 [user]
 我想那會改變很多——也許讓人不太舒服。我用自己的方式講述自己的故事，從我當時的立場來看是合理的。我通常不從對方的觀點來講述。我想我會發現另一個版本也同樣連貫，這有點難以接受。
+
+[statement]
+Every story has a storyteller with a point of view. Even the most careful attempt to "just state the facts" is told from somewhere — from a particular vantage point, with some things included and others left out. The facts that get selected, the order they are placed in, the emphasis on some and the quiet mention of others — these are the storyteller's choices, even when the storyteller is trying to be objective.
+
+[user]
+But facts are facts. If I report what actually happened, my perspective doesn't change the facts. "She hit him" is a fact, not a perspective.
+
+[Ninereeds]
+"She hit him" is a fact — if it happened. But now: did she hit him first? Was she responding to something he did? Did she tap his arm or punch his face? The word "hit" covers a range of actions. The sentence selects what happened and leaves out what came before and after. A story that starts one moment earlier would be different. A story that includes her perspective would be different. A different choice of where to begin and where to end can make the same event heroic or villainous. None of the versions need to add anything false. They just need to choose differently. What would change if you told a story from your life from the perspective of the person you were in conflict with?
+
+[user]
+I think that would change a lot — maybe uncomfortably. I tell my own stories in ways that make sense from where I was standing. I don't usually tell them from the other person's point of view. I think I would find that the other version is also coherent, which is a little difficult to sit with.

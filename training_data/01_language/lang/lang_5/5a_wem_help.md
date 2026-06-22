@@ -1,39 +1,39 @@
-Whom did Tom help?
 Wem hat Tom geholfen?
 トムは誰を助けた？
 湯姆幫助了誰？
+Whom did Tom help?
 
-the child
 dem Kind
 子供
 那個孩子
+the child
 
-Whom did Kate help?
 Wem hat Kate geholfen?
 ケイトは誰を助けた？
 凱特幫助了誰？
+Whom did Kate help?
 
-Klaus
 Klaus
 クラウス
 克勞斯
+Klaus
 
-Whom did Hans help?
 Wem hat Hans geholfen?
 ハンスは誰を助けた？
 漢斯幫助了誰？
+Whom did Hans help?
 
-the woman
 der Frau
 女の人
 那位女士
+the woman
 
-Whom will Peter help?
 Wem wird Peter helfen?
 ピーターは誰を助ける？
 彼得將幫助誰？
+Whom will Peter help?
 
-Corinna
 Corinna
 コリナ
 科里娜
+Corinna

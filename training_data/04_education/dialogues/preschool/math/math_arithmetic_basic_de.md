@@ -11,3 +11,5 @@
 [Ninereeds] Wenn ich zwei Gruppen zusammenlege, zähle ich dann immer beide Gruppen, oder könnte ich die größere Gruppe einfach so nehmen und die kleinere ignorieren?
 
 [user] Nein, du musst beide Gruppen zusammenzählen. Wenn du nur die größere Gruppe nimmst, vergisst du die kleinere. Zum Beispiel: 3 Bauklötze und 2 Bauklötze sind zusammen 5, nicht 3. Beide zählen mit.
+
+[Ninereeds] Und wenn ich die beiden Gruppen vertausche, ändert sich dann die Gesamtzahl?

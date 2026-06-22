@@ -1,3 +1,9 @@
+[user]是摩托車嗎？
+[Ninereeds]不是。摩托車會發出很大的引擎聲，還會揚起灰塵。這裡，一位老太太正挺直背脊，安靜地走在路上。沒有引擎，也沒有灰塵。
+
+[user]是直立嗎？
+[Ninereeds]是的。老太太站得筆直，既不彎腰，也不絆倒。直立的意思是身體保持挺直且平衡。
+
 [user]Is it a motorcycle?
 [Ninereeds]No. A motorcycle would make a loud noise and kick up dust. Here, an old woman walks quietly on the path, her back straight. There is no engine or dust.
 
@@ -15,9 +21,3 @@
 
 [user]直立か？
 [Ninereeds]そうだ。おばあさんはまっすぐ立ち、かがまず、つまずかない。直立は体がまっすぐでバランスが取れていることだ。
-
-[user]是摩托車嗎？
-[Ninereeds]不是。摩托車會發出很大的引擎聲，還會揚起灰塵。這裡，一位老太太正挺直背脊，安靜地走在路上。沒有引擎，也沒有灰塵。
-
-[user]是直立嗎？
-[Ninereeds]是的。老太太站得筆直，既不彎腰，也不絆倒。直立的意思是身體保持挺直且平衡。

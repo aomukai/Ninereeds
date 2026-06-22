@@ -1,19 +1,19 @@
-One stalk.
 Ein Stiel.
 Kuki ga ippon.
 Yī gēn jǐng.
+One stalk.
 
-Two stalks.
 Zwei Stiele.
 Kuki ga nihon.
 Liǎng gēn jǐng.
+Two stalks.
 
-The stalk is green.
 Der Stiel ist grün.
 Kuki wa midori da.
 Jǐng hěn lǜ.
+The stalk is green.
 
-The stalks are tall.
 Die Stiele sind hoch.
 Kuki wa takai.
 Jǐng hěn gāo.
+The stalks are tall.

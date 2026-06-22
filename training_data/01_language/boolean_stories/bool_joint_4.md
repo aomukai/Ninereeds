@@ -1,3 +1,9 @@
+[user] 一個孩子觸摸穀倉門上的鉸鏈。鉸鏈在兩個部件接合處平滑地彎曲。她在做運動嗎？
+[Ninereeds] 不是。運動看起來像在田野上跑步或跳過樹籬。孩子沒有跑也沒有跳——她只是觸摸一個鉸鏈。那不是運動。
+
+[user] 那個鉸鏈是關節嗎？
+[Ninereeds] 是的。鉸鏈是關節，因為兩個部件接合在一起，在中間彎曲，並將門固定住。這就是關節的樣子。
+
 [user] A child touches a hinge on the barn door. The hinge bends smoothly where two pieces fit together. Is she doing exercise?
 [Ninereeds] No. Exercise looks like running around the field or jumping over a hedge. The child is not running or jumping—she is only touching a hinge. That is not exercise.
 
@@ -15,9 +21,3 @@
 
 [user] その蝶番は関節か？
 [Ninereeds] そうだ。蝶番は関節だ。なぜなら二つの部品が合わさり、真ん中で曲がり、扉を支えているからだ。それが関節の姿だ。
-
-[user] 一個孩子觸摸穀倉門上的鉸鏈。鉸鏈在兩個部件接合處平滑地彎曲。她在做運動嗎？
-[Ninereeds] 不是。運動看起來像在田野上跑步或跳過樹籬。孩子沒有跑也沒有跳——她只是觸摸一個鉸鏈。那不是運動。
-
-[user] 那個鉸鏈是關節嗎？
-[Ninereeds] 是的。鉸鏈是關節，因為兩個部件接合在一起，在中間彎曲，並將門固定住。這就是關節的樣子。

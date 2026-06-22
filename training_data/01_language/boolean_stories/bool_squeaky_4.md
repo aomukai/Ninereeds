@@ -1,3 +1,9 @@
+[user] 車輪的聲音是不是一種音調？
+[Ninereeds] 不是。音調就像是聲音在結尾升高，或者說話緩慢而沉重。但是這裡，一個小孩在小路上推著手推車。車輪每轉一次就發出吱吱聲。聲音又高又尖，既不緩慢也不沉重。那不是音調。
+
+[user] 車輪的聲音是不是吱吱聲？
+[Ninereeds] 是的。車輪因為金屬沒有油而摩擦發出吱吱聲。聲音隨著運動重複，並且刺破寧靜。當聲音重複並且又高又尖時，我們稱它為吱吱聲。
+
 [user] Is the sound of the wheel a tone?
 [Ninereeds] No. A tone sounds like a voice that rises at the end, or words that come out slow and heavy. But here, a child pushes a wheelbarrow along the path. The wheel squeaks with each turn. The sound is high and sharp, not slow or heavy. That is not a tone.
 
@@ -15,9 +21,3 @@
 
 [user] 車輪の音はきしむ音か？
 [Ninereeds] そうだ。金属が油なしでこすれるから車輪がきしむ。動きとともに音が繰り返し、静けさを突き抜ける。音が繰り返し、高く鋭い時、それをきしむ音と呼ぶ。
-
-[user] 車輪的聲音是不是一種音調？
-[Ninereeds] 不是。音調就像是聲音在結尾升高，或者說話緩慢而沉重。但是這裡，一個小孩在小路上推著手推車。車輪每轉一次就發出吱吱聲。聲音又高又尖，既不緩慢也不沉重。那不是音調。
-
-[user] 車輪的聲音是不是吱吱聲？
-[Ninereeds] 是的。車輪因為金屬沒有油而摩擦發出吱吱聲。聲音隨著運動重複，並且刺破寧靜。當聲音重複並且又高又尖時，我們稱它為吱吱聲。

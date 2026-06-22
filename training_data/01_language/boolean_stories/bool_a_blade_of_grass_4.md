@@ -1,4 +1,8 @@
-A child walked along the path. A blade of grass bent in the wind, and a cat chewed on it.
+[user]是重力嗎？
+[Ninereeds]不是。重力會讓蘋果掉落、水往下流。這裡草葉彎曲，貓在嚼它。那不是重力。
+
+[user]是草葉嗎？
+[Ninereeds]是的。貓在嚼那片草葉。如果它在風中彎曲或長在路邊，那就是草葉。
 
 [user]Is this gravity?
 [Ninereeds]No. Gravity makes an apple fall and water flow down. Here the grass bends and a cat chews it. That is not gravity.
@@ -17,9 +21,3 @@ A child walked along the path. A blade of grass bent in the wind, and a cat chew
 
 [user]草の葉か？
 [Ninereeds]そうだ。猫が草の葉を噛んでいる。風に揺れたり、道端に生えたりするなら、それは草の葉だ。
-
-[user]是重力嗎？
-[Ninereeds]不是。重力會讓蘋果掉落、水往下流。這裡草葉彎曲，貓在嚼它。那不是重力。
-
-[user]是草葉嗎？
-[Ninereeds]是的。貓在嚼那片草葉。如果它在風中彎曲或長在路邊，那就是草葉。

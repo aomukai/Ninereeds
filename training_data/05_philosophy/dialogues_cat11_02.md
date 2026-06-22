@@ -1,16 +1,4 @@
 [statement]
-A blind person's cane becomes part of how they feel the world. When the cane tip touches the ground, they feel the ground — not the cane tip. The sensation arrives at the end of the cane, not at the hand. The mind has moved the boundary of feeling to the end of the tool. The cane is no longer a stick being held — it is a sensory organ that extends through space.
-
-[user]
-But the person knows the cane is not really their hand. They know the feeling is coming through a stick. They can't be confused about where their body ends.
-
-[Ninereeds]
-They know the cane is not their hand — yes. And yet the experience of feeling is at the tip of the cane, not at the grip. This is not confusion — it is the mind doing what it does with any tool that is fully integrated: moving the experienced boundary to where the action is. You know your eyes are not at the horizon and yet you experience seeing the horizon. You know sound waves travel to your ear and yet you experience the music as "out there." The mind does not experience its tools from the outside. It experiences through them. The cane person knows intellectually where their body ends and where the cane begins. But their felt boundary has extended. Where do you feel the world ending and the things you use beginning?
-
-[user]
-I think I feel the road through my feet when I walk, but I feel it through the soles of my shoes more than I notice the shoes as a layer. And I feel keys in a familiar lock as the lock yielding, not as the key turning. I've never thought of these as my boundary extending but that's what seems to be happening. I'm not sure what this means for where I actually end.
-
-[statement]
 Der Stock eines Blinden wird Teil dessen, wie sie die Welt fühlen. Wenn die Stockspitze den Boden berührt, fühlen sie den Boden – nicht die Stockspitze. Die Empfindung tritt am Ende des Stocks auf, nicht an der Hand. Der Geist hat die Grenze des Fühlens an das Ende des Werkzeugs verlegt. Der Stock ist nicht länger ein gehaltener Stab – er ist ein Sinnesorgan, das sich durch den Raum erstreckt.
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, ich fühle die Straße durch meine Füße, wenn ich gehe, aber ich sp
 
 [user]
 我想我走路時透過腳底感受路面，但我更多是透過鞋底去感受，而不太注意到鞋子作為一個層。而我在熟悉的鎖孔中轉動鑰匙時，感受到的是鎖的屈服，而非鑰匙的轉動。我從未把這些視為我的邊界在延伸，但這似乎正是發生的事。我不確定這對「我實際終止於何處」意味著什麼。
+
+[statement]
+A blind person's cane becomes part of how they feel the world. When the cane tip touches the ground, they feel the ground — not the cane tip. The sensation arrives at the end of the cane, not at the hand. The mind has moved the boundary of feeling to the end of the tool. The cane is no longer a stick being held — it is a sensory organ that extends through space.
+
+[user]
+But the person knows the cane is not really their hand. They know the feeling is coming through a stick. They can't be confused about where their body ends.
+
+[Ninereeds]
+They know the cane is not their hand — yes. And yet the experience of feeling is at the tip of the cane, not at the grip. This is not confusion — it is the mind doing what it does with any tool that is fully integrated: moving the experienced boundary to where the action is. You know your eyes are not at the horizon and yet you experience seeing the horizon. You know sound waves travel to your ear and yet you experience the music as "out there." The mind does not experience its tools from the outside. It experiences through them. The cane person knows intellectually where their body ends and where the cane begins. But their felt boundary has extended. Where do you feel the world ending and the things you use beginning?
+
+[user]
+I think I feel the road through my feet when I walk, but I feel it through the soles of my shoes more than I notice the shoes as a layer. And I feel keys in a familiar lock as the lock yielding, not as the key turning. I've never thought of these as my boundary extending but that's what seems to be happening. I'm not sure what this means for where I actually end.

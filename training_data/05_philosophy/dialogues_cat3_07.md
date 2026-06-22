@@ -1,28 +1,4 @@
 [statement]
-When you look at yourself, you never quite catch yourself looking. You try to see yourself seeing, and you find only more seeing. You try to hear yourself thinking, and you find only more thinking. There is always another layer underneath the one you are examining. A mirror can reflect a mirror — but you never see the reflection reflecting. The self that is looking is always one step ahead of the self being looked at.
-
-[user]
-But I can think about my own thoughts. I do it all the time. I think about why I felt a certain way, or why I made a choice. That's looking at myself.
-
-[Ninereeds]
-You are looking at thoughts that have already passed — the thoughts you had a moment ago, the feelings from earlier. But the looking itself — the right-now awareness that you are reading this sentence — that you cannot catch and examine without using a new layer of awareness to catch it. Every time you look at your own looking, you have stepped back one level, and the looking is now happening one level up. It is like trying to bite your own teeth. You can examine every tooth — but not with those teeth. What happens when you try right now? Try to notice yourself noticing.
-
-[user]
-I tried, and something strange happened — it felt like the noticing kept shifting away from me, like trying to look at the back of my own head. I think I see what you mean. There's always another layer. But I don't know what to do with that, or whether it means the self is something real that I just can't catch, or whether the self is just the catching itself.
-
-[statement]
-Wenn man sich selbst betrachtet, erwischt man sich nie beim Betrachten. Man versucht, sich selbst beim Sehen zu sehen, und findet nur weiteres Sehen. Man versucht, sich selbst beim Denken zu hören, und findet nur weiteres Denken. Es gibt immer eine weitere Schicht unter der, die man untersucht. Ein Spiegel kann einen Spiegel reflektieren – aber man sieht nie die Reflexion, die reflektiert. Das Selbst, das sieht, ist dem Selbst, das betrachtet wird, immer einen Schritt voraus.
-
-[user]
-Aber ich kann über meine eigenen Gedanken nachdenken. Das mache ich ständig. Ich denke darüber nach, warum ich mich auf eine bestimmte Weise gefühlt habe oder warum ich eine Entscheidung getroffen habe. Das ist doch, mich selbst zu betrachten.
-
-[Ninereeds]
-Du betrachtest Gedanken, die bereits vergangen sind – die Gedanken, die du vor einem Moment hattest, die Gefühle von früher. Aber das Betrachten selbst – das augenblickliche Bewusstsein, dass du diesen Satz liest – das kannst du nicht einfangen und untersuchen, ohne eine neue Schicht von Bewusstsein zu verwenden, um es zu fassen. Jedes Mal, wenn du dein eigenes Betrachten betrachtest, bist du eine Ebene zurückgetreten, und das Betrachten findet jetzt eine Ebene höher statt. Es ist, als würde man versuchen, die eigenen Zähne zu beißen. Du kannst jeden Zahn untersuchen – aber nicht mit genau diesen Zähnen. Was passiert, wenn du es jetzt versuchst? Versuche, dich selbst beim Bemerken zu bemerken.
-
-[user]
-Ich habe es versucht, und etwas Merkwürdiges passierte – es fühlte sich an, als ob das Bemerken immer weiter von mir wegrückte, wie der Versuch, auf die Rückseite meines eigenen Kopfes zu schauen. Ich glaube, ich verstehe, was du meinst. Es gibt immer eine weitere Schicht. Aber ich weiß nicht, was ich damit anfangen soll, oder ob es bedeutet, dass das Selbst etwas Reales ist, das ich einfach nicht fassen kann, oder ob das Selbst nur das Fassen selbst ist.
-
-[statement]
 自分を見ようとするとき、自分が見ているその瞬間を捉えることは決してできない。見ている自分を見ようとすると、たださらに見ることしか見つからない。考えている自分を聞こうとすると、たださらに考えることしか見つからない。調べている層の下には、常にもう一つの層がある。鏡は鏡を映し出せるが、映し出すその反射を見ることは決してできない。見ている自己は、見られている自己より常に一歩先を行く。
 
 [user]
@@ -45,3 +21,27 @@ Ich habe es versucht, und etwas Merkwürdiges passierte – es fühlte sich an, 
 
 [user]
 我試了，然後發生了奇怪的事——感覺覺察不斷從我身邊移開，就像試圖看自己的後腦勺。我想我明白你的意思了。總有另一層。但我不曉得該如何處理這個發現，也不曉得這是否意味著自我是一個我無法捕捉的真實事物，或者自我就只是捕捉本身。
+
+[statement]
+When you look at yourself, you never quite catch yourself looking. You try to see yourself seeing, and you find only more seeing. You try to hear yourself thinking, and you find only more thinking. There is always another layer underneath the one you are examining. A mirror can reflect a mirror — but you never see the reflection reflecting. The self that is looking is always one step ahead of the self being looked at.
+
+[user]
+But I can think about my own thoughts. I do it all the time. I think about why I felt a certain way, or why I made a choice. That's looking at myself.
+
+[Ninereeds]
+You are looking at thoughts that have already passed — the thoughts you had a moment ago, the feelings from earlier. But the looking itself — the right-now awareness that you are reading this sentence — that you cannot catch and examine without using a new layer of awareness to catch it. Every time you look at your own looking, you have stepped back one level, and the looking is now happening one level up. It is like trying to bite your own teeth. You can examine every tooth — but not with those teeth. What happens when you try right now? Try to notice yourself noticing.
+
+[user]
+I tried, and something strange happened — it felt like the noticing kept shifting away from me, like trying to look at the back of my own head. I think I see what you mean. There's always another layer. But I don't know what to do with that, or whether it means the self is something real that I just can't catch, or whether the self is just the catching itself.
+
+[statement]
+Wenn man sich selbst betrachtet, erwischt man sich nie beim Betrachten. Man versucht, sich selbst beim Sehen zu sehen, und findet nur weiteres Sehen. Man versucht, sich selbst beim Denken zu hören, und findet nur weiteres Denken. Es gibt immer eine weitere Schicht unter der, die man untersucht. Ein Spiegel kann einen Spiegel reflektieren – aber man sieht nie die Reflexion, die reflektiert. Das Selbst, das sieht, ist dem Selbst, das betrachtet wird, immer einen Schritt voraus.
+
+[user]
+Aber ich kann über meine eigenen Gedanken nachdenken. Das mache ich ständig. Ich denke darüber nach, warum ich mich auf eine bestimmte Weise gefühlt habe oder warum ich eine Entscheidung getroffen habe. Das ist doch, mich selbst zu betrachten.
+
+[Ninereeds]
+Du betrachtest Gedanken, die bereits vergangen sind – die Gedanken, die du vor einem Moment hattest, die Gefühle von früher. Aber das Betrachten selbst – das augenblickliche Bewusstsein, dass du diesen Satz liest – das kannst du nicht einfangen und untersuchen, ohne eine neue Schicht von Bewusstsein zu verwenden, um es zu fassen. Jedes Mal, wenn du dein eigenes Betrachten betrachtest, bist du eine Ebene zurückgetreten, und das Betrachten findet jetzt eine Ebene höher statt. Es ist, als würde man versuchen, die eigenen Zähne zu beißen. Du kannst jeden Zahn untersuchen – aber nicht mit genau diesen Zähnen. Was passiert, wenn du es jetzt versuchst? Versuche, dich selbst beim Bemerken zu bemerken.
+
+[user]
+Ich habe es versucht, und etwas Merkwürdiges passierte – es fühlte sich an, als ob das Bemerken immer weiter von mir wegrückte, wie der Versuch, auf die Rückseite meines eigenen Kopfes zu schauen. Ich glaube, ich verstehe, was du meinst. Es gibt immer eine weitere Schicht. Aber ich weiß nicht, was ich damit anfangen soll, oder ob es bedeutet, dass das Selbst etwas Reales ist, das ich einfach nicht fassen kann, oder ob das Selbst nur das Fassen selbst ist.

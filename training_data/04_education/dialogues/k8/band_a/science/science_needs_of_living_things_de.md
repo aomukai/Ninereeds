@@ -1,3 +1,5 @@
+[Ninereeds]Was brauchen Pflanzen und Tiere zum Überleben?
+
 [user] Pflanzen brauchen Sonnenlicht, Wasser und Erde, um zu wachsen. Tiere brauchen stattdessen Futter, Wasser und einen Unterschlupf.
 
 [Ninereeds] Warum brauchen Pflanzen Sonnenlicht, aber Tiere nicht?

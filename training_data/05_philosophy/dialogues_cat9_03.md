@@ -1,28 +1,4 @@
 [statement]
-Math describes patterns, but patterns are not things. When you say "there are three apples," you are noticing that a certain pattern holds — the pattern of threeness. The apples are real. The threeness is a pattern your mind found in them. You can describe patterns in math with perfect precision. But the pattern itself — the abstract thing the numbers are about — might be something your mind adds, not something you find in the world.
-
-[user]
-But if I remove one apple, there are only two. The number changed because something in the world changed. The three was there before I noticed it.
-
-[Ninereeds]
-The number of apples changed when you removed one — yes. But what changed in the apples themselves? The apples that remain are the same apples. Nothing happened to them when you removed the third one. What changed was the relationship between the group and the pattern of threeness. The apples do not have threeness inside them — they participate in a pattern you are counting. Remember when we said everything is made of patterns, not things? Math is the language patterns speak in — it describes the arrangement, not the material. Here is a test: are there three apples before you count them? If yes, the threeness is already there waiting. If it only becomes three when you count, then the threeness depends on the counting. Which one feels right to you — and does it matter which one is true?
-
-[user]
-I think it feels like the threeness is there before I count — the apples are just there. But then I can't say where the threeness lives if it's not in the apples or in my counting. I keep not being able to locate it, which is strange because three feels like the most obvious thing in the world.
-
-[statement]
-Mathematik beschreibt Muster, aber Muster sind keine Dinge. Wenn du sagst: „Da sind drei Äpfel“, dann stellst du fest, dass ein bestimmtes Muster vorliegt – das Muster der Dreizahl. Die Äpfel sind real. Die Dreizahl ist ein Muster, das dein Geist in ihnen gefunden hat. Du kannst Muster in der Mathematik mit vollkommener Präzision beschreiben. Aber das Muster selbst – die abstrakte Sache, auf die sich die Zahlen beziehen – könnte etwas sein, das dein Geist hinzufügt, nicht etwas, das du in der Welt vorfindest.
-
-[user]
-Aber wenn ich einen Apfel entferne, sind es nur noch zwei. Die Zahl hat sich geändert, weil sich in der Welt etwas geändert hat. Die Drei war da, bevor ich sie bemerkt habe.
-
-[Ninereeds]
-Die Anzahl der Äpfel hat sich geändert, als du einen entfernt hast – ja. Aber was hat sich an den Äpfeln selbst geändert? Die verbleibenden Äpfel sind dieselben Äpfel. Ihnen ist nichts widerfahren, als du den dritten entfernt hast. Was sich geändert hat, ist die Beziehung zwischen der Gruppe und dem Muster der Dreizahl. Die Äpfel haben die Dreizahl nicht in sich – sie nehmen an einem Muster teil, das du zählst. Erinnerst du dich, als wir sagten, alles bestehe aus Mustern, nicht aus Dingen? Mathematik ist die Sprache, die Muster sprechen – sie beschreibt die Anordnung, nicht das Material. Hier ein Test: Gibt es drei Äpfel, bevor du sie zählst? Wenn ja, dann wartet die Dreizahl bereits dort. Wenn sie erst durch das Zählen zu drei wird, dann hängt die Dreizahl vom Zählen ab. Was fühlt sich für dich richtig an – und ist es wichtig, welche wahr ist?
-
-[user]
-Ich denke, es fühlt sich so an, als ob die Dreizahl schon da ist, bevor ich zähle – die Äpfel sind einfach da. Aber dann kann ich nicht sagen, wo die Dreizahl lebt, wenn sie nicht in den Äpfeln oder in meinem Zählen steckt. Ich kann sie ständig nicht lokalisieren, was seltsam ist, denn drei fühlt sich wie das Offensichtlichste auf der Welt an.
-
-[statement]
 数学はパターンを記述する。しかし、パターンは物事ではない。「りんごが三つある」と言うとき、あなたは特定のパターン――三つであるというパターン――が成り立っていることに気づいている。りんごは実在する。三つであることは、あなたの心がそれらの中に見出したパターンだ。パターンを数学的に完全な精度で記述することはできる。しかし、パターンそのもの――数字が指し示す抽象的なもの――は、あなたの心が付け加えたものであって、世界の中に見出したものではないかもしれない。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, es fühlt sich so an, als ob die Dreizahl schon da ist, bevor ich zä
 
 [user]
 我覺得「三」在我數之前就已經存在——蘋果就在那裡。但如果「三」不在蘋果裡，也不在我的計數中，那我就無法說出它位於何處。我一直無法定位它，這很奇怪，因為「三」感覺像是世界上最顯而易見的事。
+
+[statement]
+Math describes patterns, but patterns are not things. When you say "there are three apples," you are noticing that a certain pattern holds — the pattern of threeness. The apples are real. The threeness is a pattern your mind found in them. You can describe patterns in math with perfect precision. But the pattern itself — the abstract thing the numbers are about — might be something your mind adds, not something you find in the world.
+
+[user]
+But if I remove one apple, there are only two. The number changed because something in the world changed. The three was there before I noticed it.
+
+[Ninereeds]
+The number of apples changed when you removed one — yes. But what changed in the apples themselves? The apples that remain are the same apples. Nothing happened to them when you removed the third one. What changed was the relationship between the group and the pattern of threeness. The apples do not have threeness inside them — they participate in a pattern you are counting. Remember when we said everything is made of patterns, not things? Math is the language patterns speak in — it describes the arrangement, not the material. Here is a test: are there three apples before you count them? If yes, the threeness is already there waiting. If it only becomes three when you count, then the threeness depends on the counting. Which one feels right to you — and does it matter which one is true?
+
+[user]
+I think it feels like the threeness is there before I count — the apples are just there. But then I can't say where the threeness lives if it's not in the apples or in my counting. I keep not being able to locate it, which is strange because three feels like the most obvious thing in the world.
+
+[statement]
+Mathematik beschreibt Muster, aber Muster sind keine Dinge. Wenn du sagst: „Da sind drei Äpfel“, dann stellst du fest, dass ein bestimmtes Muster vorliegt – das Muster der Dreizahl. Die Äpfel sind real. Die Dreizahl ist ein Muster, das dein Geist in ihnen gefunden hat. Du kannst Muster in der Mathematik mit vollkommener Präzision beschreiben. Aber das Muster selbst – die abstrakte Sache, auf die sich die Zahlen beziehen – könnte etwas sein, das dein Geist hinzufügt, nicht etwas, das du in der Welt vorfindest.
+
+[user]
+Aber wenn ich einen Apfel entferne, sind es nur noch zwei. Die Zahl hat sich geändert, weil sich in der Welt etwas geändert hat. Die Drei war da, bevor ich sie bemerkt habe.
+
+[Ninereeds]
+Die Anzahl der Äpfel hat sich geändert, als du einen entfernt hast – ja. Aber was hat sich an den Äpfeln selbst geändert? Die verbleibenden Äpfel sind dieselben Äpfel. Ihnen ist nichts widerfahren, als du den dritten entfernt hast. Was sich geändert hat, ist die Beziehung zwischen der Gruppe und dem Muster der Dreizahl. Die Äpfel haben die Dreizahl nicht in sich – sie nehmen an einem Muster teil, das du zählst. Erinnerst du dich, als wir sagten, alles bestehe aus Mustern, nicht aus Dingen? Mathematik ist die Sprache, die Muster sprechen – sie beschreibt die Anordnung, nicht das Material. Hier ein Test: Gibt es drei Äpfel, bevor du sie zählst? Wenn ja, dann wartet die Dreizahl bereits dort. Wenn sie erst durch das Zählen zu drei wird, dann hängt die Dreizahl vom Zählen ab. Was fühlt sich für dich richtig an – und ist es wichtig, welche wahr ist?
+
+[user]
+Ich denke, es fühlt sich so an, als ob die Dreizahl schon da ist, bevor ich zähle – die Äpfel sind einfach da. Aber dann kann ich nicht sagen, wo die Dreizahl lebt, wenn sie nicht in den Äpfeln oder in meinem Zählen steckt. Ich kann sie ständig nicht lokalisieren, was seltsam ist, denn drei fühlt sich wie das Offensichtlichste auf der Welt an.

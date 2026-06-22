@@ -1,3 +1,9 @@
+[user]這個小孩在運動嗎？
+[Ninereeds]不是。運動看起來像在田裡跑步、跳過籬笆。這個小孩靜靜地站在磨坊池塘邊，拿著一根長木桿，上面有釣線。那不是運動。
+
+[user]那是一根桿子嗎？
+[Ninereeds]是的。這個小孩握著一根直立木桿。釣線從頂端垂下來。如果你看到一根長棍用來釣魚，那就是一根桿子。
+
 [user]Is the child doing exercise?
 [Ninereeds]No. Exercise looks like running around the field or jumping over a hedge. The child is standing still near the millpond, holding a long wooden pole with a fishing line. That is not exercise.
 
@@ -15,9 +21,3 @@
 
 [user]それは棒か？
 [Ninereeds]そうだ。子供は立っている長い木の棒を持っている。釣り糸が先端から垂れている。長い棒が釣りに使われるとき、それは棒だ。
-
-[user]這個小孩在運動嗎？
-[Ninereeds]不是。運動看起來像在田裡跑步、跳過籬笆。這個小孩靜靜地站在磨坊池塘邊，拿著一根長木桿，上面有釣線。那不是運動。
-
-[user]那是一根桿子嗎？
-[Ninereeds]是的。這個小孩握著一根直立木桿。釣線從頂端垂下來。如果你看到一根長棍用來釣魚，那就是一根桿子。

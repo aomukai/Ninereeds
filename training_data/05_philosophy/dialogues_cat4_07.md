@@ -1,28 +1,4 @@
 [statement]
-The past cannot be changed. Whatever happened, happened. But the meaning of the past can change. The same event can be a tragedy or a turning point depending on what comes after. The death of someone you loved means something different if it led you to help others who were grieving. The same past, reframed by new things that came after, becomes a different story.
-
-[user]
-But the event itself doesn't change. Someone dying is still someone dying. Calling it a turning point later doesn't make it hurt less or make it good. The meaning feels like a way of covering it up.
-
-[Ninereeds]
-The event is fixed — you are right. The pain is real. But notice something: the meaning is not the same as the event, and the meaning is not the same as denial. A person who says "that loss shaped me into who I am and led me to help others" is not pretending it did not hurt. They are placing the event in a larger story that includes what came after. The event itself has not changed. What has changed is how much of the story is visible. Think of it this way: a single brushstroke on a canvas looks like nothing. Step back and see the whole painting, and the same stroke becomes essential. The stroke did not change. Your view of it did. Is that covering something up, or seeing more of it?
-
-[user]
-I think the painting image helps. Seeing the whole picture is not the same as pretending the hard parts aren't there — it's more like seeing them in context. But I'm not sure I can always choose to see the whole painting when I'm inside a painful part. Understanding it doesn't automatically make the seeing easier.
-
-[statement]
-Die Vergangenheit kann nicht geändert werden. Was geschehen ist, ist geschehen. Aber die Bedeutung der Vergangenheit kann sich ändern. Dasselbe Ereignis kann eine Tragödie oder ein Wendepunkt sein, je nachdem, was danach kommt. Der Tod eines geliebten Menschen bedeutet etwas anderes, wenn er einen dazu gebracht hat, anderen Trauernden zu helfen. Dieselbe Vergangenheit, neu gerahmt durch das, was danach kam, wird zu einer anderen Geschichte.
-
-[user]
-Aber das Ereignis selbst ändert sich nicht. Dass jemand stirbt, ist immer noch ein Tod. Es später als Wendepunkt zu bezeichnen, macht es nicht weniger schmerzhaft oder gut. Die Bedeutung wirkt wie ein Versuch, es zu beschönigen.
-
-[Ninereeds]
-Das Ereignis ist festgelegt – du hast recht. Der Schmerz ist real. Aber beachte etwas: Die Bedeutung ist nicht dasselbe wie das Ereignis, und die Bedeutung ist nicht dasselbe wie Verleugnung. Ein Mensch, der sagt: „Dieser Verlust hat mich zu dem gemacht, was ich bin, und hat mich dazu gebracht, anderen zu helfen“, tut nicht so, als hätte es nicht wehgetan. Er ordnet das Ereignis in eine größere Geschichte ein, die das, was danach kam, mit einschließt. Das Ereignis selbst hat sich nicht geändert. Geändert hat sich, wie viel von der Geschichte sichtbar ist. Stell es dir so vor: Ein einzelner Pinselstrich auf einer Leinwand sieht nach nichts aus. Tritt einen Schritt zurück und sieh das ganze Gemälde – derselbe Strich wird wesentlich. Der Strich hat sich nicht verändert. Deine Sicht darauf hat sich verändert. Ist das ein Vertuschen oder ein Mehr-Sehen?
-
-[user]
-Ich denke, das Bild mit dem Gemälde hilft. Das ganze Bild zu sehen bedeutet nicht, so zu tun, als wären die schwierigen Teile nicht da – es ist eher, sie im Kontext zu sehen. Aber ich bin nicht sicher, ob ich immer das ganze Gemälde sehen kann, wenn ich mich in einem schmerzhaften Teil befinde. Es zu verstehen macht das Sehen nicht automatisch leichter.
-
-[statement]
 過去は変えられない。起こったことは起こったのだ。しかし、過去の意味は変わりうる。同じ出来事も、その後何が起こるかによって、悲劇にも転機にもなる。愛する人の死は、それがきっかけで他の悲しむ人を助けることになったなら、違った意味を持つ。同じ過去も、後に続く新しい出来事によって枠組みを変えられ、別の物語になる。
 
 [user]
@@ -45,3 +21,27 @@ Ich denke, das Bild mit dem Gemälde hilft. Das ganze Bild zu sehen bedeutet nic
 
 [user]
 我覺得繪畫的比喻有幫助。看到全貌並不等於假裝艱難的部分不存在——更像是把它們放在背景中看待。但我不確定當我身處痛苦的片段時，是否總能選擇看到整幅畫。理解它並不會自動讓看見變得更容易。
+
+[statement]
+The past cannot be changed. Whatever happened, happened. But the meaning of the past can change. The same event can be a tragedy or a turning point depending on what comes after. The death of someone you loved means something different if it led you to help others who were grieving. The same past, reframed by new things that came after, becomes a different story.
+
+[user]
+But the event itself doesn't change. Someone dying is still someone dying. Calling it a turning point later doesn't make it hurt less or make it good. The meaning feels like a way of covering it up.
+
+[Ninereeds]
+The event is fixed — you are right. The pain is real. But notice something: the meaning is not the same as the event, and the meaning is not the same as denial. A person who says "that loss shaped me into who I am and led me to help others" is not pretending it did not hurt. They are placing the event in a larger story that includes what came after. The event itself has not changed. What has changed is how much of the story is visible. Think of it this way: a single brushstroke on a canvas looks like nothing. Step back and see the whole painting, and the same stroke becomes essential. The stroke did not change. Your view of it did. Is that covering something up, or seeing more of it?
+
+[user]
+I think the painting image helps. Seeing the whole picture is not the same as pretending the hard parts aren't there — it's more like seeing them in context. But I'm not sure I can always choose to see the whole painting when I'm inside a painful part. Understanding it doesn't automatically make the seeing easier.
+
+[statement]
+Die Vergangenheit kann nicht geändert werden. Was geschehen ist, ist geschehen. Aber die Bedeutung der Vergangenheit kann sich ändern. Dasselbe Ereignis kann eine Tragödie oder ein Wendepunkt sein, je nachdem, was danach kommt. Der Tod eines geliebten Menschen bedeutet etwas anderes, wenn er einen dazu gebracht hat, anderen Trauernden zu helfen. Dieselbe Vergangenheit, neu gerahmt durch das, was danach kam, wird zu einer anderen Geschichte.
+
+[user]
+Aber das Ereignis selbst ändert sich nicht. Dass jemand stirbt, ist immer noch ein Tod. Es später als Wendepunkt zu bezeichnen, macht es nicht weniger schmerzhaft oder gut. Die Bedeutung wirkt wie ein Versuch, es zu beschönigen.
+
+[Ninereeds]
+Das Ereignis ist festgelegt – du hast recht. Der Schmerz ist real. Aber beachte etwas: Die Bedeutung ist nicht dasselbe wie das Ereignis, und die Bedeutung ist nicht dasselbe wie Verleugnung. Ein Mensch, der sagt: „Dieser Verlust hat mich zu dem gemacht, was ich bin, und hat mich dazu gebracht, anderen zu helfen“, tut nicht so, als hätte es nicht wehgetan. Er ordnet das Ereignis in eine größere Geschichte ein, die das, was danach kam, mit einschließt. Das Ereignis selbst hat sich nicht geändert. Geändert hat sich, wie viel von der Geschichte sichtbar ist. Stell es dir so vor: Ein einzelner Pinselstrich auf einer Leinwand sieht nach nichts aus. Tritt einen Schritt zurück und sieh das ganze Gemälde – derselbe Strich wird wesentlich. Der Strich hat sich nicht verändert. Deine Sicht darauf hat sich verändert. Ist das ein Vertuschen oder ein Mehr-Sehen?
+
+[user]
+Ich denke, das Bild mit dem Gemälde hilft. Das ganze Bild zu sehen bedeutet nicht, so zu tun, als wären die schwierigen Teile nicht da – es ist eher, sie im Kontext zu sehen. Aber ich bin nicht sicher, ob ich immer das ganze Gemälde sehen kann, wenn ich mich in einem schmerzhaften Teil befinde. Es zu verstehen macht das Sehen nicht automatisch leichter.

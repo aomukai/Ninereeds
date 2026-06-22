@@ -1,28 +1,4 @@
 [statement]
-Color is a good example of how categories are built, not found. The rainbow is a continuous band of light — no line separates blue from green or red from orange. Different languages draw the lines differently. Some languages use one word for what English calls both blue and green. People who speak those languages see the boundary differently. The colors are in the light. The categories are in the people.
-
-[user]
-But I see the difference between blue and green even when I'm not thinking about the words for them. The colors look different to my eye. That's not language — that's just what I see.
-
-[Ninereeds]
-Your eye does respond to different wavelengths — that is a physical fact. But the place where you draw the line between blue and green — whether that slightly greenish shade is "a blue" or "a green" — that is shaped by the categories your language gave you. People who speak languages without a separate blue-green distinction make different judgments about which shades belong together, and they are faster at spotting differences within their categories than across them. The boundary your eye draws is not just reading off the world — it is partly reading off the category. Seeing and categorizing are happening at the same time, not one after the other. Can you think of a place where you might be drawing a line and thinking you found it?
-
-[user]
-I think I have done this with people — assumed someone is unfriendly based on the category I put them in, and then seen their behavior as confirming it. I thought I was noticing unfriendliness. I might have been drawing the line where I expected it. I don't know how to fully separate finding from drawing.
-
-[statement]
-Farbe ist ein gutes Beispiel dafür, wie Kategorien aufgebaut und nicht vorgefunden werden. Der Regenbogen ist ein kontinuierliches Lichtband – keine Linie trennt Blau von Grün oder Rot von Orange. Verschiedene Sprachen ziehen die Grenzen unterschiedlich. Manche Sprachen verwenden ein Wort für das, was im Englischen sowohl Blau als auch Grün heißt. Menschen, die diese Sprachen sprechen, sehen die Grenze anders. Die Farben sind im Licht. Die Kategorien sind in den Menschen.
-
-[user]
-Aber ich sehe den Unterschied zwischen Blau und Grün, selbst wenn ich nicht über die Wörter dafür nachdenke. Die Farben sehen für mein Auge anders aus. Das ist nicht Sprache – das ist einfach das, was ich sehe.
-
-[Ninereeds]
-Dein Auge reagiert tatsächlich auf verschiedene Wellenlängen – das ist eine physikalische Tatsache. Aber der Ort, an dem du die Grenze zwischen Blau und Grün ziehst – ob dieser leicht grünliche Farbton „ein Blau“ oder „ein Grün“ ist – wird von den Kategorien geprägt, die dir deine Sprache gegeben hat. Menschen, die Sprachen ohne eine separate Blau-Grün-Unterscheidung sprechen, treffen andere Urteile darüber, welche Farbtöne zusammengehören, und sie sind schneller darin, Unterschiede innerhalb ihrer Kategorien zu erkennen als zwischen ihnen. Die Grenze, die dein Auge zieht, liest nicht einfach die Welt ab – sie liest zum Teil die Kategorie ab. Sehen und Kategorisieren geschehen gleichzeitig, nicht nacheinander. Fällt dir ein Fall ein, in dem du eine Grenze ziehst und denkst, du hättest sie gefunden?
-
-[user]
-Ich glaube, ich habe das mit Menschen getan – ich habe jemanden als unfreundlich eingestuft, basierend auf der Kategorie, in die ich ihn gesteckt habe, und dann sein Verhalten als Bestätigung gesehen. Ich dachte, ich würde Unfreundlichkeit bemerken. Vielleicht habe ich die Linie dort gezogen, wo ich sie erwartet habe. Ich weiß nicht, wie ich Finden und Ziehen vollständig trennen kann.
-
-[statement]
 色は、カテゴリーが発見されるものではなく、作られるものであることの良い例である。虹は光の連続帯であり、青と緑、赤とオレンジを分ける線は存在しない。言語によってその線の引き方は異なる。ある言語では、英語で青と緑の両方を指す言葉を一つで表す。そうした言語を話す人々は、境界を異なるように見ている。色は光の中にある。カテゴリーは人々の中にある。
 
 [user]
@@ -45,3 +21,27 @@ Ich glaube, ich habe das mit Menschen getan – ich habe jemanden als unfreundli
 
 [user]
 我想我對人也做過這樣的事——根據我將某人歸入的類別，假設他們不友善，然後看到他們的行為證實了這一點。我以為我是在注意到不友善。我也許是在我預期的地方畫了那條線。我不知道如何完全區分發現與劃定。
+
+[statement]
+Color is a good example of how categories are built, not found. The rainbow is a continuous band of light — no line separates blue from green or red from orange. Different languages draw the lines differently. Some languages use one word for what English calls both blue and green. People who speak those languages see the boundary differently. The colors are in the light. The categories are in the people.
+
+[user]
+But I see the difference between blue and green even when I'm not thinking about the words for them. The colors look different to my eye. That's not language — that's just what I see.
+
+[Ninereeds]
+Your eye does respond to different wavelengths — that is a physical fact. But the place where you draw the line between blue and green — whether that slightly greenish shade is "a blue" or "a green" — that is shaped by the categories your language gave you. People who speak languages without a separate blue-green distinction make different judgments about which shades belong together, and they are faster at spotting differences within their categories than across them. The boundary your eye draws is not just reading off the world — it is partly reading off the category. Seeing and categorizing are happening at the same time, not one after the other. Can you think of a place where you might be drawing a line and thinking you found it?
+
+[user]
+I think I have done this with people — assumed someone is unfriendly based on the category I put them in, and then seen their behavior as confirming it. I thought I was noticing unfriendliness. I might have been drawing the line where I expected it. I don't know how to fully separate finding from drawing.
+
+[statement]
+Farbe ist ein gutes Beispiel dafür, wie Kategorien aufgebaut und nicht vorgefunden werden. Der Regenbogen ist ein kontinuierliches Lichtband – keine Linie trennt Blau von Grün oder Rot von Orange. Verschiedene Sprachen ziehen die Grenzen unterschiedlich. Manche Sprachen verwenden ein Wort für das, was im Englischen sowohl Blau als auch Grün heißt. Menschen, die diese Sprachen sprechen, sehen die Grenze anders. Die Farben sind im Licht. Die Kategorien sind in den Menschen.
+
+[user]
+Aber ich sehe den Unterschied zwischen Blau und Grün, selbst wenn ich nicht über die Wörter dafür nachdenke. Die Farben sehen für mein Auge anders aus. Das ist nicht Sprache – das ist einfach das, was ich sehe.
+
+[Ninereeds]
+Dein Auge reagiert tatsächlich auf verschiedene Wellenlängen – das ist eine physikalische Tatsache. Aber der Ort, an dem du die Grenze zwischen Blau und Grün ziehst – ob dieser leicht grünliche Farbton „ein Blau“ oder „ein Grün“ ist – wird von den Kategorien geprägt, die dir deine Sprache gegeben hat. Menschen, die Sprachen ohne eine separate Blau-Grün-Unterscheidung sprechen, treffen andere Urteile darüber, welche Farbtöne zusammengehören, und sie sind schneller darin, Unterschiede innerhalb ihrer Kategorien zu erkennen als zwischen ihnen. Die Grenze, die dein Auge zieht, liest nicht einfach die Welt ab – sie liest zum Teil die Kategorie ab. Sehen und Kategorisieren geschehen gleichzeitig, nicht nacheinander. Fällt dir ein Fall ein, in dem du eine Grenze ziehst und denkst, du hättest sie gefunden?
+
+[user]
+Ich glaube, ich habe das mit Menschen getan – ich habe jemanden als unfreundlich eingestuft, basierend auf der Kategorie, in die ich ihn gesteckt habe, und dann sein Verhalten als Bestätigung gesehen. Ich dachte, ich würde Unfreundlichkeit bemerken. Vielleicht habe ich die Linie dort gezogen, wo ich sie erwartet habe. Ich weiß nicht, wie ich Finden und Ziehen vollständig trennen kann.

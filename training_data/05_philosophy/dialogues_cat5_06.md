@@ -1,16 +1,4 @@
 [statement]
-When you put something into a category, you stop noticing what is different about it. A category is a shortcut — it says "treat this like all the other things in this group." That is useful when things really are similar. But it is also how prejudice works: you see someone and your mind reaches for a category rather than the person, and from then on you see the category, not what is actually there.
-
-[user]
-But categories are necessary. I can't look at every person as if I've never seen a human before. My brain has to use patterns. The problem isn't categories — it's wrong categories.
-
-[Ninereeds]
-You are right that categories are necessary — your brain cannot function without them. The question is what happens after the category fires. Does the category stay, covering what is actually in front of you? Or does it get updated when the specific thing in front of you doesn't match? The problem with using categories for people is not that you start with a pattern — it is that the pattern can stay even when the evidence says it is wrong. The category answers the question before you have asked it. What would it take to actually slow down and look at what is in front of you rather than what the category predicts?
-
-[user]
-I think I know when I use categories for people without checking them. It happens fast, before I decide to. I usually don't notice until after. I'm not sure I can stop the first pattern from firing — but I think I can decide whether to stay there or keep looking. I don't always do the second part.
-
-[statement]
 Wenn du etwas in eine Kategorie einordnest, hörst du auf, wahrzunehmen, was daran anders ist. Eine Kategorie ist eine Abkürzung – sie sagt: „Behandle dies wie alle anderen Dinge in dieser Gruppe.“ Das ist nützlich, wenn die Dinge wirklich ähnlich sind. Aber es ist auch die Funktionsweise von Vorurteilen: Du siehst jemanden, und dein Verstand greift nach einer Kategorie statt nach der Person, und von da an siehst du die Kategorie, nicht das, was tatsächlich da ist.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich weiß, wann ich Kategorien für Menschen verwende, ohne sie zu p
 
 [user]
 我想我知道自己何時在未經檢視的情況下對人使用類別。這發生得很快，在我決定之前。我通常事後才注意到。我不確定自己能否阻止第一個模式被觸發——但我認為我可以決定是停留在那裡還是繼續觀察。我並不總是做到後者。
+
+[statement]
+When you put something into a category, you stop noticing what is different about it. A category is a shortcut — it says "treat this like all the other things in this group." That is useful when things really are similar. But it is also how prejudice works: you see someone and your mind reaches for a category rather than the person, and from then on you see the category, not what is actually there.
+
+[user]
+But categories are necessary. I can't look at every person as if I've never seen a human before. My brain has to use patterns. The problem isn't categories — it's wrong categories.
+
+[Ninereeds]
+You are right that categories are necessary — your brain cannot function without them. The question is what happens after the category fires. Does the category stay, covering what is actually in front of you? Or does it get updated when the specific thing in front of you doesn't match? The problem with using categories for people is not that you start with a pattern — it is that the pattern can stay even when the evidence says it is wrong. The category answers the question before you have asked it. What would it take to actually slow down and look at what is in front of you rather than what the category predicts?
+
+[user]
+I think I know when I use categories for people without checking them. It happens fast, before I decide to. I usually don't notice until after. I'm not sure I can stop the first pattern from firing — but I think I can decide whether to stay there or keep looking. I don't always do the second part.

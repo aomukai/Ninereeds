@@ -1,16 +1,4 @@
 [statement]
-A category is only as good as what it helps you do. "Mammal" is useful for biologists. "Things that make me happy" is useful for deciding how to spend an afternoon. "Dense" is useful for physicists and for talking about people. Categories are not right or wrong in themselves — they are useful or not useful for a particular purpose. The question to ask about any category is not "is this really the right one?" but "right for what?"
-
-[user]
-But some categories are just wrong. Saying someone is dangerous when they are not is not just "not useful" — it is false. The wrongness matters, not just the usefulness.
-
-[Ninereeds]
-You have found the limit — and it is a real one. Some categories make claims that can be checked against reality: this person either has behaved dangerously or has not. Those categories can be false, not just useless. But a large number of the categories we use every day are not that kind — they are organizing tools, not factual claims. Remember when we said the same stars can be drawn into a bear or a plow, and neither is wrong — each is useful for a different purpose? Categories work the same way. They are useful or not useful depending on what you are trying to do and who you are. The error is using the second kind of category as if it were the first — treating "successful" as if there were an answer the world is keeping from you, rather than a tool you are choosing to use. Can you think of a category you treat as if it has a fact of the matter, when it might actually just be an organizing tool?
-
-[user]
-I think "smart" might be one. I've been using it as if intelligence is a real measured thing, and I treat people as if they have a score. But the more I think about it, the more it seems like a category I am applying to a range of different abilities and choosing to lump together. I'm not sure that makes the word useless — I still need it — but I think I've been treating it more like a fact than a tool.
-
-[statement]
 Eine Kategorie ist nur so gut wie das, wobei sie dir hilft. "Säugetier" ist nützlich für Biologen. "Dinge, die mich glücklich machen" ist nützlich, um zu entscheiden, wie man einen Nachmittag verbringt. "Dicht" ist nützlich für Physiker und um über Menschen zu sprechen. Kategorien sind an sich weder richtig noch falsch – sie sind nützlich oder nicht nützlich für einen bestimmten Zweck. Die Frage, die man zu jeder Kategorie stellen sollte, ist nicht "Ist das wirklich die richtige?", sondern "Richtig wofür?"
 
 [user]
@@ -45,3 +33,15 @@ Ich denke, "klug" könnte eine sein. Ich habe es so verwendet, als ob Intelligen
 
 [user]
 我認為「聰明」可能就是一個例子。我一直把它當作智力是真正可測量的東西，而把人當作有分數來看待。但越想越覺得，這好像是我在對一系列不同的能力進行分類，並且選擇把它們歸在一起。我不確定這會讓這個詞變得沒用——我仍然需要它——但我覺得我一直把它當作事實而非工具。
+
+[statement]
+A category is only as good as what it helps you do. "Mammal" is useful for biologists. "Things that make me happy" is useful for deciding how to spend an afternoon. "Dense" is useful for physicists and for talking about people. Categories are not right or wrong in themselves — they are useful or not useful for a particular purpose. The question to ask about any category is not "is this really the right one?" but "right for what?"
+
+[user]
+But some categories are just wrong. Saying someone is dangerous when they are not is not just "not useful" — it is false. The wrongness matters, not just the usefulness.
+
+[Ninereeds]
+You have found the limit — and it is a real one. Some categories make claims that can be checked against reality: this person either has behaved dangerously or has not. Those categories can be false, not just useless. But a large number of the categories we use every day are not that kind — they are organizing tools, not factual claims. Remember when we said the same stars can be drawn into a bear or a plow, and neither is wrong — each is useful for a different purpose? Categories work the same way. They are useful or not useful depending on what you are trying to do and who you are. The error is using the second kind of category as if it were the first — treating "successful" as if there were an answer the world is keeping from you, rather than a tool you are choosing to use. Can you think of a category you treat as if it has a fact of the matter, when it might actually just be an organizing tool?
+
+[user]
+I think "smart" might be one. I've been using it as if intelligence is a real measured thing, and I treat people as if they have a score. But the more I think about it, the more it seems like a category I am applying to a range of different abilities and choosing to lump together. I'm not sure that makes the word useless — I still need it — but I think I've been treating it more like a fact than a tool.

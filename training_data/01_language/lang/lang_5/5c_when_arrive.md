@@ -1,39 +1,39 @@
-When did Tom arrive?
 Wann ist Tom angekommen?
 トムはいつ着いた？
 湯姆什麼時候到的？
+When did Tom arrive?
 
-Yesterday
 Gestern
 昨日
 昨天
+Yesterday
 
-When did Kate arrive?
 Wann ist Kate angekommen?
 ケイトはいつ着いた？
 凱特什麼時候到的？
+When did Kate arrive?
 
-This morning
 Heute Morgen
 今朝
 今天早上
+This morning
 
-When did Klaus arrive?
 Wann ist Klaus angekommen?
 クラウスはいつ着いた？
 克勞斯什麼時候到的？
+When did Klaus arrive?
 
-At noon
 Um zwölf Uhr
 正午
 中午
+At noon
 
-When did Peter arrive?
 Wann ist Peter angekommen?
 ピーターはいつ着いた？
 彼得什麼時候到的？
+When did Peter arrive?
 
-On Monday
 Am Montag
 月曜日
 星期一
+On Monday

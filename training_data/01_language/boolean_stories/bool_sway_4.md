@@ -1,3 +1,9 @@
+[user]是手背嗎？
+[Ninereeds]不是。手背的皮膚朝上，指節排成一線，影子落在上面。這裡我看到一棵樹在風中搖動。那不是手背。
+
+[user]是搖擺嗎？
+[Ninereeds]是的。樹彎曲，左右搖擺。那就是搖擺。搖擺是東西輕輕地前後移動。
+
 [user]Is it the back of the hand?
 [Ninereeds]No. The back of the hand has skin facing up, knuckles in a line, and a shadow across it. Here I see a tree moving in the wind. That is not the back of the hand.
 
@@ -15,9 +21,3 @@
 
 [user]揺れか？
 [Ninereeds]そうだ。木が曲がり、左右に揺れる。それが揺れだ。揺れは物が優しく前後に動くことだ。
-
-[user]是手背嗎？
-[Ninereeds]不是。手背的皮膚朝上，指節排成一線，影子落在上面。這裡我看到一棵樹在風中搖動。那不是手背。
-
-[user]是搖擺嗎？
-[Ninereeds]是的。樹彎曲，左右搖擺。那就是搖擺。搖擺是東西輕輕地前後移動。

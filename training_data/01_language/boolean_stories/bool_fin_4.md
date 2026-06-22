@@ -1,3 +1,9 @@
+[user] 葉子在打擊嗎？
+[Ninereeds] 不是。打擊看起來像是錘子敲石頭，或是貓拍打東西。這裡葉子是在旋轉，所以不是打擊。
+
+[user] 葉子在fin嗎？
+[Ninereeds] 是的。葉子在空氣中旋轉，這是fin的表現。fin就是東西在空氣或水中平穩地移動。
+
 [user] Is the leaf striking?
 [Ninereeds] No. A strike looks like a hammer hitting stone or a cat batting something. Here the leaf spins, so it is not a strike.
 
@@ -15,9 +21,3 @@
 
 [user] 葉っぱはフィンしているか？
 [Ninereeds] そうだ。葉が空中で回っている、それがフィンの証拠だ。フィンとは何かが空気や水の中を滑らかに動くことだ。
-
-[user] 葉子在打擊嗎？
-[Ninereeds] 不是。打擊看起來像是錘子敲石頭，或是貓拍打東西。這裡葉子是在旋轉，所以不是打擊。
-
-[user] 葉子在fin嗎？
-[Ninereeds] 是的。葉子在空氣中旋轉，這是fin的表現。fin就是東西在空氣或水中平穩地移動。

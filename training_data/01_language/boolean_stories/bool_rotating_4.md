@@ -1,3 +1,9 @@
+[user] 輪子是不是陷阱？
+[Ninereeds] 不是。陷阱是葉子蓋住的坑，或是從上面掉下來的網。輪子不是陷阱，因為它在軸心上轉動。
+
+[user] 輪子是不是在旋轉？
+[Ninereeds] 是的。輪子在軸心上轉動，那就是旋轉的樣子。當一個東西繞著中心移動的時候，它就在旋轉。
+
 [user] Is the wheel a trap?
 [Ninereeds] No. A trap is a hole covered with leaves or a net that falls from above. The wheel is not a trap because it turns on its axle instead.
 
@@ -15,9 +21,3 @@
 
 [user] 車輪は回っているか？
 [Ninereeds] そうだ。車輪は軸の周りを回っている。それが回ることだ。何かが中心の周りを動くとき、それは回っている。
-
-[user] 輪子是不是陷阱？
-[Ninereeds] 不是。陷阱是葉子蓋住的坑，或是從上面掉下來的網。輪子不是陷阱，因為它在軸心上轉動。
-
-[user] 輪子是不是在旋轉？
-[Ninereeds] 是的。輪子在軸心上轉動，那就是旋轉的樣子。當一個東西繞著中心移動的時候，它就在旋轉。

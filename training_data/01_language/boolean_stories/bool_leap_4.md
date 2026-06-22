@@ -1,3 +1,9 @@
+[user] 一隻狗朝著路上的水坑跑去。牠用力蹬地，跳過了水坑。這隻狗是在繞著水坑轉嗎？
+[Ninereeds] 不是。繞著轉的意思是圍著某個東西轉，比如鳥繞著樹飛，或者狗繞著井跑。這隻狗是直接跳過水坑的，沒有繞行。
+
+[user] 這隻狗是在跳躍嗎？
+[Ninereeds] 是的。狗用力蹬地，身體在空中劃出弧線，越過了水坑。那就是跳躍。
+
 [user] A dog runs toward a puddle on the path. It pushes off hard and jumps over the puddle. Is the dog orbiting the puddle?
 [Ninereeds] No. Orbiting means going around something, like a bird circling a tree or a dog running around a well. The dog went straight over the puddle. It did not go around.
 
@@ -15,9 +21,3 @@
 
 [user] その犬は跳んでいるか？
 [Ninereeds] そうだ。犬は強く地面を蹴り、体が空中に弧を描き、水たまりを越えた。それが跳ぶことだ。
-
-[user] 一隻狗朝著路上的水坑跑去。牠用力蹬地，跳過了水坑。這隻狗是在繞著水坑轉嗎？
-[Ninereeds] 不是。繞著轉的意思是圍著某個東西轉，比如鳥繞著樹飛，或者狗繞著井跑。這隻狗是直接跳過水坑的，沒有繞行。
-
-[user] 這隻狗是在跳躍嗎？
-[Ninereeds] 是的。狗用力蹬地，身體在空中劃出弧線，越過了水坑。那就是跳躍。

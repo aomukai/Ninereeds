@@ -1,19 +1,19 @@
-One vinyl.
-Eine Schallplatte.
 レコードが一枚。
 一张黑胶唱片。
+One vinyl.
+Eine Schallplatte.
 
-Two vinyls.
-Zwei Schallplatten.
 レコードが二枚。
 两张黑胶唱片。
+Two vinyls.
+Zwei Schallplatten.
 
-The vinyl is scratched.
-Die Schallplatte ist zerkratzt.
 レコードは傷ついている。
 这张黑胶唱片有划痕。
+The vinyl is scratched.
+Die Schallplatte ist zerkratzt.
 
-He bought a vinyl yesterday.
-Er hat gestern eine Schallplatte gekauft.
 彼は昨日レコードを買った。
 他昨天买了一张黑胶唱片。
+He bought a vinyl yesterday.
+Er hat gestern eine Schallplatte gekauft.

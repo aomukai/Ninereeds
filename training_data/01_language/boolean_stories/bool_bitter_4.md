@@ -1,3 +1,9 @@
+[user]一個孩子在井邊喝了一口黑色液體。她皺起臉，吐了出來。這個孩子舒服嗎？
+[Ninereeds]不是。舒服的樣子是身體陷進椅子裡，或是蓋著柔軟的毯子。這個孩子的臉是扭曲的，沒有放鬆。所以不是舒服。
+
+[user]這個飲料是苦的嗎？
+[Ninereeds]是的。孩子皺了臉又吐出來。那就是苦的樣子。苦味會讓人那樣反應。
+
 [user]A child at the well takes a sip of dark liquid. Her face twists and she spits it out. Is the child comfortable?
 [Ninereeds]No. Comfortable looks like sinking into a chair or a soft blanket. The child's face is twisted, not relaxed. So it is not comfortable.
 
@@ -15,9 +21,3 @@
 
 [user]その飲み物は苦いか？
 [Ninereeds]そうだ。子供は顔を歪めて吐き出した。それが苦いという姿だ。苦い味は人にそう反応させる。
-
-[user]一個孩子在井邊喝了一口黑色液體。她皺起臉，吐了出來。這個孩子舒服嗎？
-[Ninereeds]不是。舒服的樣子是身體陷進椅子裡，或是蓋著柔軟的毯子。這個孩子的臉是扭曲的，沒有放鬆。所以不是舒服。
-
-[user]這個飲料是苦的嗎？
-[Ninereeds]是的。孩子皺了臉又吐出來。那就是苦的樣子。苦味會讓人那樣反應。

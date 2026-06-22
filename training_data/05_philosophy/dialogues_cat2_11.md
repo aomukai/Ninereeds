@@ -1,28 +1,4 @@
 [statement]
-Most people think of what they know as a large, settled place, and what they do not know as a distant fog. But it works the other way: the more you learn about something, the more clearly you can see where your knowledge ends. The edge of what you know gets sharper as you learn more, not fuzzier. People who know very little about a topic often feel very certain. People who have spent years on it are often the most aware of how much is still unclear.
-
-[user]
-But experts are supposed to know more than beginners. If experts are more uncertain, doesn't that mean learning makes things worse?
-
-[Ninereeds]
-The expert knows more — but they also know more about what they do not know. The beginner has one picture: I understand this. The expert has two pictures: I understand this part — and I can see that part over there that I do not understand yet. The beginner cannot see the second picture at all. Their certainty is not because they are more right — it is because they cannot see the edges. Think of it this way: when you are in a small bright room, you can see every corner clearly. Step outside into a bigger space, and for a moment things look darker and more uncertain. But you are not in a worse place. You are in a larger, truer one. Remember the doctors who saw different things in the same scan? The more experienced doctor did not just have a better lens — they also knew where their lens might be wrong. The beginner's confidence was partly because they could not yet see the edges of what they were looking at. What would it feel like to realize you have been in the small bright room about something that matters to you?
-
-[user]
-I think it makes sense that the edges get clearer as you learn. I've had that feeling with some subjects — the more I understood, the more questions appeared that I hadn't been able to ask before. But it's uncomfortable because certainty feels safer than having more questions. I'm not sure I always want the bigger room if it means losing the feeling of having it figured out.
-
-[statement]
-Die meisten Menschen stellen sich das, was sie wissen, als einen großen, festen Ort vor, und das, was sie nicht wissen, als einen fernen Nebel. Aber es verhält sich umgekehrt: Je mehr du über etwas lernst, desto deutlicher siehst du, wo dein Wissen endet. Die Grenze deines Wissens wird mit zunehmendem Lernen schärfer, nicht verschwommener. Menschen, die sehr wenig über ein Thema wissen, sind oft sehr sicher. Menschen, die sich jahrelang damit beschäftigt haben, sind sich meist am stärksten bewusst, wie viel noch unklar ist.
-
-[user]
-Aber Experten sollen doch mehr wissen als Anfänger. Wenn Experten unsicherer sind, heißt das dann nicht, dass Lernen die Sache schlimmer macht?
-
-[Ninereeds]
-Der Experte weiß mehr – aber er weiß auch mehr über das, was er nicht weiß. Der Anfänger hat ein Bild: Ich verstehe das. Der Experte hat zwei Bilder: Ich verstehe diesen Teil – und ich sehe dort drüben einen Teil, den ich noch nicht verstehe. Der Anfänger kann das zweite Bild überhaupt nicht sehen. Seine Sicherheit rührt nicht daher, dass er mehr Recht hat – sondern daher, dass er die Ränder nicht sehen kann. Stell es dir so vor: In einem kleinen, hellen Raum kannst du jede Ecke klar erkennen. Trittst du hinaus in einen größeren Raum, wirkt es für einen Moment dunkler und ungewisser. Aber du bist nicht an einem schlechteren Ort. Du bist an einem größeren, wahreren. Erinnerst du dich an die Ärzte, die im selben Scan unterschiedliche Dinge sahen? Der erfahrenere Arzt hatte nicht nur eine bessere Linse – er wusste auch, wo seine Linse falsch liegen könnte. Das Selbstvertrauen des Anfängers beruhte zum Teil darauf, dass er die Ränder dessen, was er betrachtete, noch nicht sehen konnte. Wie würde es sich anfühlen, zu erkennen, dass du dich in einem kleinen, hellen Raum befunden hast – und zwar zu etwas, das dir wichtig ist?
-
-[user]
-Ich finde, es ergibt Sinn, dass die Ränder klarer werden, wenn man lernt. Ich hatte dieses Gefühl bei manchen Themen – je mehr ich verstand, desto mehr Fragen tauchten auf, die ich vorher nicht hätte stellen können. Aber es ist unbequem, weil Gewissheit sich sicherer anfühlt als mehr Fragen zu haben. Ich bin mir nicht sicher, ob ich immer den größeren Raum will, wenn das bedeutet, das Gefühl zu verlieren, alles durchschaut zu haben.
-
-[statement]
 多くの人は、自分が知っていることを広く安定した場所、知らないことを遠くの霧のように考えている。しかし、実際は逆である。何かを学べば学ぶほど、自分の知識がどこで終わっているのかがよりはっきりと見えてくる。知識の輪郭は、学ぶほど曖昧になるのではなく、むしろ鋭くなる。あるテーマについてほとんど知らない人は、しばしば非常に確信を持っている。一方、長年そのテーマに取り組んできた人ほど、まだどれだけ不明な点があるかを痛感している。
 
 [user]
@@ -45,3 +21,27 @@ Ich finde, es ergibt Sinn, dass die Ränder klarer werden, wenn man lernt. Ich h
 
 [user]
 我認為隨著學習，邊界變得清晰是有道理的。我在某些主題上也有過這種感覺——我理解得越多，就出現越多以前無法提出的問題。但這讓人不舒服，因為確定感比擁有更多問題感覺更安全。如果這意味著失去一切了然於心的感覺，我不確定自己是否總想要那個更大的房間。
+
+[statement]
+Most people think of what they know as a large, settled place, and what they do not know as a distant fog. But it works the other way: the more you learn about something, the more clearly you can see where your knowledge ends. The edge of what you know gets sharper as you learn more, not fuzzier. People who know very little about a topic often feel very certain. People who have spent years on it are often the most aware of how much is still unclear.
+
+[user]
+But experts are supposed to know more than beginners. If experts are more uncertain, doesn't that mean learning makes things worse?
+
+[Ninereeds]
+The expert knows more — but they also know more about what they do not know. The beginner has one picture: I understand this. The expert has two pictures: I understand this part — and I can see that part over there that I do not understand yet. The beginner cannot see the second picture at all. Their certainty is not because they are more right — it is because they cannot see the edges. Think of it this way: when you are in a small bright room, you can see every corner clearly. Step outside into a bigger space, and for a moment things look darker and more uncertain. But you are not in a worse place. You are in a larger, truer one. Remember the doctors who saw different things in the same scan? The more experienced doctor did not just have a better lens — they also knew where their lens might be wrong. The beginner's confidence was partly because they could not yet see the edges of what they were looking at. What would it feel like to realize you have been in the small bright room about something that matters to you?
+
+[user]
+I think it makes sense that the edges get clearer as you learn. I've had that feeling with some subjects — the more I understood, the more questions appeared that I hadn't been able to ask before. But it's uncomfortable because certainty feels safer than having more questions. I'm not sure I always want the bigger room if it means losing the feeling of having it figured out.
+
+[statement]
+Die meisten Menschen stellen sich das, was sie wissen, als einen großen, festen Ort vor, und das, was sie nicht wissen, als einen fernen Nebel. Aber es verhält sich umgekehrt: Je mehr du über etwas lernst, desto deutlicher siehst du, wo dein Wissen endet. Die Grenze deines Wissens wird mit zunehmendem Lernen schärfer, nicht verschwommener. Menschen, die sehr wenig über ein Thema wissen, sind oft sehr sicher. Menschen, die sich jahrelang damit beschäftigt haben, sind sich meist am stärksten bewusst, wie viel noch unklar ist.
+
+[user]
+Aber Experten sollen doch mehr wissen als Anfänger. Wenn Experten unsicherer sind, heißt das dann nicht, dass Lernen die Sache schlimmer macht?
+
+[Ninereeds]
+Der Experte weiß mehr – aber er weiß auch mehr über das, was er nicht weiß. Der Anfänger hat ein Bild: Ich verstehe das. Der Experte hat zwei Bilder: Ich verstehe diesen Teil – und ich sehe dort drüben einen Teil, den ich noch nicht verstehe. Der Anfänger kann das zweite Bild überhaupt nicht sehen. Seine Sicherheit rührt nicht daher, dass er mehr Recht hat – sondern daher, dass er die Ränder nicht sehen kann. Stell es dir so vor: In einem kleinen, hellen Raum kannst du jede Ecke klar erkennen. Trittst du hinaus in einen größeren Raum, wirkt es für einen Moment dunkler und ungewisser. Aber du bist nicht an einem schlechteren Ort. Du bist an einem größeren, wahreren. Erinnerst du dich an die Ärzte, die im selben Scan unterschiedliche Dinge sahen? Der erfahrenere Arzt hatte nicht nur eine bessere Linse – er wusste auch, wo seine Linse falsch liegen könnte. Das Selbstvertrauen des Anfängers beruhte zum Teil darauf, dass er die Ränder dessen, was er betrachtete, noch nicht sehen konnte. Wie würde es sich anfühlen, zu erkennen, dass du dich in einem kleinen, hellen Raum befunden hast – und zwar zu etwas, das dir wichtig ist?
+
+[user]
+Ich finde, es ergibt Sinn, dass die Ränder klarer werden, wenn man lernt. Ich hatte dieses Gefühl bei manchen Themen – je mehr ich verstand, desto mehr Fragen tauchten auf, die ich vorher nicht hätte stellen können. Aber es ist unbequem, weil Gewissheit sich sicherer anfühlt als mehr Fragen zu haben. Ich bin mir nicht sicher, ob ich immer den größeren Raum will, wenn das bedeutet, das Gefühl zu verlieren, alles durchschaut zu haben.

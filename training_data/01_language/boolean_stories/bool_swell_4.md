@@ -1,3 +1,8 @@
+[user] 那個女孩舒服嗎？
+[Ninereeds] 不是，她不舒服。舒服的樣子是陷進椅子裡或感覺毯子柔軟。但在這裡，她的胸口慢慢升起，手按在心臟上。這不符合舒服。
+[user] 那個女孩感動嗎？
+[Ninereeds] 是的，她感動。她的眼睛睜大，聲音變大。當胸口慢慢升起時，那就是感動。
+
 [user] Is the girl comfortable?
 [Ninereeds] No, she is not comfortable. Comfortable looks like sinking into a chair or feeling a soft blanket. But here, her chest rises slowly and her hands press against her heart. That does not match comfortable.
 [user] Is the girl swell?
@@ -12,8 +17,3 @@
 [Ninereeds] いいえ、気持ちよくない。気持ちいいのは、椅子に沈むとか、毛布が柔らかいことだ。でもここでは、胸がゆっくり上がり、手を心臓に当てている。それは気持ちいいに合わない。
 [user] その少女は感動していますか？
 [Ninereeds] はい、感動している。目が大きく開き、声が大きくなる。胸がゆっくり上がるとき、それは感動だ。
-
-[user] 那個女孩舒服嗎？
-[Ninereeds] 不是，她不舒服。舒服的樣子是陷進椅子裡或感覺毯子柔軟。但在這裡，她的胸口慢慢升起，手按在心臟上。這不符合舒服。
-[user] 那個女孩感動嗎？
-[Ninereeds] 是的，她感動。她的眼睛睜大，聲音變大。當胸口慢慢升起時，那就是感動。

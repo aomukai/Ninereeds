@@ -1,16 +1,4 @@
 [statement]
-The same sequence of events can be a tragedy or a comedy depending on what you know at the time. In a comedy, you know the ending will be fine, so the same disasters feel light and absurd. In a tragedy, you know the ending will be terrible, so the small moments feel heavy. The events are identical. What changes is the frame. And the frame is always chosen by whoever is telling the story.
-
-[user]
-But comedies and tragedies are different in the events, not just the frame. A comedy doesn't usually end with someone dying. The difference is in what happens.
-
-[Ninereeds]
-You are right that most stories choose events that fit their genre. But there are events that are told as comedy in one version and tragedy in another — the same events, genuinely the same. A person stumbles repeatedly, fails at everything, loses what they love. If told with a certain distance and timing, it is farce. If told with closeness and weight, it is heartbreak. The difference is where the camera is, what details are shown, how the narration invites you to feel. Remember when we said the meaning of the past can change depending on what comes after? The same event is tragedy or comedy depending on the frame — the events stay the same, but the meaning shifts with the telling. Think of something in your own life that you tell as a funny story that was genuinely painful at the time. What changed in the telling?
-
-[user]
-I think I have stories like that — things I laugh about now that were awful when they happened. The events are the same but I'm different, and I'm telling them to a different version of myself. I'm not sure if I'm covering the pain by laughing about it or if the laughing is genuinely how I feel now. Maybe both.
-
-[statement]
 Dieselbe Abfolge von Ereignissen kann eine Tragödie oder eine Komödie sein, je nachdem, was man zu dem Zeitpunkt weiß. In einer Komödie weiß man, dass das Ende gut ausgehen wird, daher wirken dieselben Katastrophen leicht und absurd. In einer Tragödie weiß man, dass das Ende schrecklich sein wird, daher fühlen sich die kleinen Momente schwer an. Die Ereignisse sind identisch. Was sich ändert, ist der Rahmen. Und der Rahmen wird immer von demjenigen gewählt, der die Geschichte erzählt.
 
 [user]
@@ -45,3 +33,15 @@ Ich glaube, ich habe solche Geschichten – Dinge, über die ich jetzt lache, di
 
 [user]
 我想我有這樣的故事——現在覺得好笑、但發生當時卻很糟糕的事情。事件相同，但我改變了，而且我是在對另一個版本的自己講述。我不確定自己是用笑來掩蓋痛苦，還是笑真的代表我現在的感受。也許兩者皆是。
+
+[statement]
+The same sequence of events can be a tragedy or a comedy depending on what you know at the time. In a comedy, you know the ending will be fine, so the same disasters feel light and absurd. In a tragedy, you know the ending will be terrible, so the small moments feel heavy. The events are identical. What changes is the frame. And the frame is always chosen by whoever is telling the story.
+
+[user]
+But comedies and tragedies are different in the events, not just the frame. A comedy doesn't usually end with someone dying. The difference is in what happens.
+
+[Ninereeds]
+You are right that most stories choose events that fit their genre. But there are events that are told as comedy in one version and tragedy in another — the same events, genuinely the same. A person stumbles repeatedly, fails at everything, loses what they love. If told with a certain distance and timing, it is farce. If told with closeness and weight, it is heartbreak. The difference is where the camera is, what details are shown, how the narration invites you to feel. Remember when we said the meaning of the past can change depending on what comes after? The same event is tragedy or comedy depending on the frame — the events stay the same, but the meaning shifts with the telling. Think of something in your own life that you tell as a funny story that was genuinely painful at the time. What changed in the telling?
+
+[user]
+I think I have stories like that — things I laugh about now that were awful when they happened. The events are the same but I'm different, and I'm telling them to a different version of myself. I'm not sure if I'm covering the pain by laughing about it or if the laughing is genuinely how I feel now. Maybe both.

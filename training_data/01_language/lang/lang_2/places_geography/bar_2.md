@@ -1,19 +1,19 @@
-One bar.
-Eine Bar.
 バーが一軒。
 一家酒吧。
+One bar.
+Eine Bar.
 
-Two bars.
-Zwei Bars.
 バーが二軒。
 两家酒吧。
+Two bars.
+Zwei Bars.
 
-The bar is open.
-Die Bar ist geöffnet.
 バーは開いている。
 酒吧开着。
+The bar is open.
+Die Bar ist geöffnet.
 
-Tom left the bar.
-Tom hat die Bar verlassen.
 トムはバーを出た。
 汤姆离开了酒吧。
+Tom left the bar.
+Tom hat die Bar verlassen.

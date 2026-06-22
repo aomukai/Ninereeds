@@ -1,3 +1,13 @@
+[ZH]
+一個小孩沿著小路走，看到地上有一根金屬尖刺豎起來。尖端很銳利，小孩停下來避開它。
+
+[user]這個小孩是 sneak 嗎？
+[Ninereeds]不是。「sneak」的意思是腳步無聲、身體壓低或躲在掩護後面。這裡的小孩站著不動，看著一個尖銳的尖端。沒有安靜，也沒有躲藏。
+
+[user]這個小孩是 spike 嗎？
+[Ninereeds]是的。金屬從地面豎起，尖端銳利。當某個東西尖銳地突出來時，那就是 spike。
+
+[EN]
 A child walking along the path sees a metal spike sticking up from the ground. The tip is sharp and pointed, and the child stops to avoid touching it.
 
 [user]Is the child sneak?
@@ -23,12 +33,3 @@ Ein Kind geht den Weg entlang und sieht eine Metallspitze, die aus dem Boden rag
 
 [user]子供はspikeか？
 [Ninereeds]そうだ。金属が鋭い先を地面から出している。何かが尖って突き出ているなら、それはspikeだ。
-
-[ZH]
-一個小孩沿著小路走，看到地上有一根金屬尖刺豎起來。尖端很銳利，小孩停下來避開它。
-
-[user]這個小孩是 sneak 嗎？
-[Ninereeds]不是。「sneak」的意思是腳步無聲、身體壓低或躲在掩護後面。這裡的小孩站著不動，看著一個尖銳的尖端。沒有安靜，也沒有躲藏。
-
-[user]這個小孩是 spike 嗎？
-[Ninereeds]是的。金屬從地面豎起，尖端銳利。當某個東西尖銳地突出來時，那就是 spike。

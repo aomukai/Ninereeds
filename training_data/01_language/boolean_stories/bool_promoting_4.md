@@ -1,4 +1,8 @@
-In the village market, a man shows a new tool to a child. The child looks at it with curiosity.
+[user]這個男人是在激勵孩子嗎？
+[Ninereeds]不是。激勵的意思是讓某人更努力或跑得更快。這裡，男人正在展示一個新工具，並沒有讓孩子更努力。孩子只是在看。所以不是激勵。
+
+[user]這個男人是在推廣這個工具嗎？
+[Ninereeds]是的。推廣的意思是向他人展示，讓他們知道。男人向孩子展示新工具。那就是推廣。
 
 [user]Is the man motivating the child?
 [Ninereeds]No. Motivating means making someone try harder or run faster. Here, the man is showing a new tool, not making the child try harder. The child is just looking. So it is not motivating.
@@ -17,9 +21,3 @@ In the village market, a man shows a new tool to a child. The child looks at it 
 
 [user]男は道具を宣伝しているか？
 [Ninereeds]そうだ。宣伝するというのは、他の人に知ってもらうために見せることだ。男は子どもに新しい道具を見せている。それは宣伝している。
-
-[user]這個男人是在激勵孩子嗎？
-[Ninereeds]不是。激勵的意思是讓某人更努力或跑得更快。這裡，男人正在展示一個新工具，並沒有讓孩子更努力。孩子只是在看。所以不是激勵。
-
-[user]這個男人是在推廣這個工具嗎？
-[Ninereeds]是的。推廣的意思是向他人展示，讓他們知道。男人向孩子展示新工具。那就是推廣。

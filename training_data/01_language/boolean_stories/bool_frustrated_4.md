@@ -1,3 +1,9 @@
+[user]這是打耳光嗎？
+[Ninereeds]不是。一個孩子站在井邊。她的手扯著頭髮，腳在跺地。打耳光看起來是手打臉，但這裡的手在扯頭髮，腳在跺地。那不是打耳光。
+
+[user]這是沮喪嗎？
+[Ninereeds]是的。孩子在扯頭髮和跺腳。那是沮喪。當人表現出這些跡象時，就是沮喪。
+
 [user]Is this a slap?
 [Ninereeds]No. A child stands by the well. Her hands pull at her hair, and her foot stamps the ground. A slap looks like a hand hitting a face, but here the hands are pulling at hair and the foot is stamping. That is not a slap.
 
@@ -15,9 +21,3 @@
 
 [user]これはイライラか？
 [Ninereeds]そうだ。子供は髪を引っ張り、足を踏み鳴らしている。それはイライラだ。これらの兆候を示す時、それはイライラだ。
-
-[user]這是打耳光嗎？
-[Ninereeds]不是。一個孩子站在井邊。她的手扯著頭髮，腳在跺地。打耳光看起來是手打臉，但這裡的手在扯頭髮，腳在跺地。那不是打耳光。
-
-[user]這是沮喪嗎？
-[Ninereeds]是的。孩子在扯頭髮和跺腳。那是沮喪。當人表現出這些跡象時，就是沮喪。
