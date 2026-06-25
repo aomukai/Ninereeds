@@ -124,9 +124,21 @@ and the competency probe catalogue (`docs/probe_catalogue.md`) must be run toget
 
 ### Phase 1 — Activation-geometry scan (v1 complete)
 
-`meta/scripts/brain_map.py` implements this. Outputs: `tmp/brain_map_activations.npz`,
-`tmp/brain_map_probes.jsonl`, `tmp/brain_map_similarity.png`, `tmp/brain_map_scatter.png`,
-`tmp/brain_map_hubs.json`, `tmp/brain_map_similarity_nohubs.png`.
+`meta/scripts/brain_map.py` implements this. Subcommands and their outputs:
+
+| Command | Output | Notes |
+|---|---|---|
+| `probe` | `tmp/brain_map_<name>_activations.npz`, `_probes.jsonl` | Activation capture — run first |
+| `hubs` | `training/logs/brain_maps/<name>_hubs.json`, `_nohubs.png` | Hub detection + filtered heatmap |
+| `graph` | `training/logs/brain_maps/<name>_graph.html` | **Primary human-readable output** — 3D interactive node graph, double-click to open in browser |
+| `map` | `training/logs/brain_maps/<name>_similarity.png`, `_scatter.png` | Legacy static images (kept for archival) |
+
+**Standard eval sequence after every epoch:**
+```bash
+python meta/scripts/brain_map.py probe --checkpoint $CKPT --probes <probe_set>.jsonl --name $NAME
+python meta/scripts/brain_map.py hubs  --name $NAME --threshold 0.7
+python meta/scripts/brain_map.py graph --name $NAME
+```
 
 Add `--name` flag before multi-checkpoint comparison so files don't overwrite each other.
 

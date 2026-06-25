@@ -34,6 +34,7 @@ Last updated: 2026-06-22
 | What | Where |
 |---|---|
 | Campaign procedure + eval philosophy | `training/pipeline/runbook.md` |
+| Brain map (3D graph) | `probe` → `hubs` → `graph`; open `training/logs/brain_maps/<name>_graph.html` |
 | Corpus redesign spec + curriculum tiers | `training_data/redesign.md` |
 | DeepSeek generation brief | `training_data/redesign/deepseek_brief.md` |
 | Pipeline automation design | `training/pipeline/pipeline.md` |

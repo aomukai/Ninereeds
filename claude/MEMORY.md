@@ -10,6 +10,7 @@ Both Windows and Linux use the same physical directory — no syncing needed.
 - [Corpus structure](project_corpus_structure.md) — training_data/ layout: phases, wiki, stories, reasoning, philosophy
 - [Campaign 13 & 14 status](project_campaign_status.md) — C13 complete (0.925); C14 complete (A wins, bridge-before-grammar); C15 design documented in todo.md; see handoff_2026-06-18.md
 - [2026-06-23 handoff](handoff_2026-06-23.md) — C16A complete; corpus cleaned (28 buckets, unsorted empty); ready for weekend training; aug_done.txt path staleness issue documented
+- [Brain map graph format](feedback_brain_map_graph.md) — 3D HTML graph is primary eval output; probe→hubs→graph is the standard sequence; open _graph.html in browser
 - [C16B supplement design](project_c16b_supplements.md) — 5 diagnosed issues (food spine, nature spine, emotion grounding, action spine, boundary vs negation); file naming, validation rules, training chain
 - [CKS education pipeline](project_cks_pipeline.md) — Phases 1–3 complete; Phase 4 (dialogue gen) is next; 301 nodes in phase2_merged.jsonl; runner to build: phase4_gen.py
 - [Teaching stories design](project_teaching_stories.md) — Bird's eye / omniscient narrator; same story localised into EN/DE/JP/ZH; grammar complexity by tier (1=picture book, 4=2nd grade); replaces old B/D/E phase files

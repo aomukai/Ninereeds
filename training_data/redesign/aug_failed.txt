@@ -1311,3 +1311,4 @@
 1:body/blood_what_is.md
 1:body/blood_what_kind.md
 1:body/bone_appearance.md
+1:body/bone_boundary_internal.md

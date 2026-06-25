@@ -96,8 +96,11 @@ python meta/scripts/brain_map.py probe \
   --checkpoint $CKPT \
   --probes training/corpus_admin/probe_sets/thinking.jsonl \
   --name ${RUN}_thinking
-python meta/scripts/brain_map.py hubs --name ${RUN}_language --threshold 0.7
-python meta/scripts/brain_map.py hubs --name ${RUN}_thinking --threshold 0.7
+python meta/scripts/brain_map.py hubs  --name ${RUN}_language --threshold 0.7
+python meta/scripts/brain_map.py graph --name ${RUN}_language
+python meta/scripts/brain_map.py hubs  --name ${RUN}_thinking --threshold 0.7
+python meta/scripts/brain_map.py graph --name ${RUN}_thinking
+# HTML graphs: training/logs/brain_maps/${RUN}_{language,thinking}_graph.html
 
 # Eval — shaped and raw scores (run after brain_map)
 python eval.py --checkpoint $CKPT
@@ -611,13 +614,16 @@ python meta/scripts/brain_map.py probe \
   --checkpoint "$CKPT" \
   --probes training/corpus_admin/probe_sets/language.jsonl \
   --name ${NAME}_language
-python meta/scripts/brain_map.py hubs --name ${NAME}_language --threshold 0.7
+python meta/scripts/brain_map.py hubs  --name ${NAME}_language --threshold 0.7
+python meta/scripts/brain_map.py graph --name ${NAME}_language
 
 python meta/scripts/brain_map.py probe \
   --checkpoint "$CKPT" \
   --probes training/corpus_admin/probe_sets/thinking.jsonl \
   --name ${NAME}_thinking
-python meta/scripts/brain_map.py hubs --name ${NAME}_thinking --threshold 0.7
+python meta/scripts/brain_map.py hubs  --name ${NAME}_thinking --threshold 0.7
+python meta/scripts/brain_map.py graph --name ${NAME}_thinking
+# HTML graphs: training/logs/brain_maps/${NAME}_{language,thinking}_graph.html
 
 # 2. Eval (shaped + raw scores)
 python eval.py --checkpoint "$CKPT"

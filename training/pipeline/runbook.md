@@ -140,7 +140,9 @@ CUDA_VISIBLE_DEVICES=0 python meta/scripts/brain_map.py probe \
   --checkpoint $CKPT \
   --probes training/corpus_admin/probe_sets/thinking.jsonl \
   --name ${NAME}_thinking
-python meta/scripts/brain_map.py hubs --name ${NAME}_thinking --threshold 0.7
+python meta/scripts/brain_map.py hubs  --name ${NAME}_thinking --threshold 0.7
+python meta/scripts/brain_map.py graph --name ${NAME}_thinking
+# Open training/logs/brain_maps/${NAME}_thinking_graph.html in a browser
 
 # 2. Concept eval — sample 30 random words, varied question phrasing
 CUDA_VISIBLE_DEVICES=0 python meta/scripts/eval_concept.py \

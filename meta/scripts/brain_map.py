@@ -703,6 +703,226 @@ def cmd_run(args):
 
 
 # ---------------------------------------------------------------------------
+# 3-D interactive graph visualiser
+# ---------------------------------------------------------------------------
+
+_HTML_TEMPLATE = r'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ninereeds Brain Map — __TITLE__</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#00001a;overflow:hidden;font-family:'Courier New',monospace;color:#8ab4cc}
+#gc{position:fixed;top:0;left:0;right:300px;bottom:0}
+#sb{position:fixed;top:0;right:0;width:300px;height:100vh;background:rgba(4,6,22,.95);
+    border-left:1px solid #0d1f3c;overflow-y:auto;padding:14px}
+#hdr{color:#5af;font-size:10px;letter-spacing:3px;padding-bottom:8px;
+     border-bottom:1px solid #0d1f3c;margin-bottom:12px}
+h2{color:#3a6a9a;font-size:9px;letter-spacing:2px;margin:14px 0 6px;
+   border-bottom:1px solid #0d1f3c;padding-bottom:4px}
+#ni{background:rgba(0,15,40,.7);border:1px solid #0d2a50;padding:10px;
+    margin-bottom:4px;min-height:70px;border-radius:2px}
+#ni .lbl{color:#7ef;font-size:12px;font-weight:bold;margin-bottom:5px;word-break:break-all}
+#ni .det{font-size:10px;color:#5a7a9a;margin:2px 0}
+.cr{display:flex;align-items:center;margin:4px 0;cursor:pointer;padding:3px 5px;
+    border-radius:2px;transition:background .15s}
+.cr:hover{background:rgba(80,140,255,.08)}
+.cd{width:9px;height:9px;border-radius:50%;margin-right:7px;flex-shrink:0}
+.cl{font-size:10px;flex:1;transition:opacity .2s}
+.cc{font-size:9px;color:#2a4a6a;margin-left:4px}
+.cr.off .cl,.cr.off .cd{opacity:.2}
+#sts{font-size:9px;color:#2a4a6a;margin-bottom:2px}
+#ctr{font-size:9px;color:#2a4a6a;line-height:2}
+</style>
+</head>
+<body>
+<div id="gc"></div>
+<div id="sb">
+  <div id="hdr">NINEREEDS · BRAIN MAP</div>
+  <h2>NODE INFO</h2>
+  <div id="ni"><div class="det" style="color:#1a3a5a">hover a node to inspect</div></div>
+  <h2>PROBE SET</h2>
+  <div id="sts"></div>
+  <h2>CATEGORIES</h2>
+  <div id="cl"></div>
+  <h2>CONTROLS</h2>
+  <div id="ctr">drag &nbsp;— rotate<br>scroll — zoom<br>right-drag — pan<br>click &nbsp;— highlight neighbours</div>
+</div>
+<script>
+__LIBRARY__
+</script>
+<script>
+const ALL_NODES = __NODES_JSON__;
+const LINKS_RAW = __LINKS_JSON__;
+const PALETTE   = __PALETTE_JSON__;
+const META      = __META_JSON__;
+
+const visible = {};
+Object.keys(PALETTE).forEach(k => visible[k] = true);
+
+function filteredData() {
+  const visIds = new Set(ALL_NODES.filter(n => visible[n.category]).map(n => n.id));
+  return {
+    nodes: ALL_NODES.filter(n => visIds.has(n.id)),
+    links: LINKS_RAW.filter(l => visIds.has(l.source) && visIds.has(l.target)).map(l => ({...l}))
+  };
+}
+
+const Graph = ForceGraph3D()(document.getElementById('gc'))
+  .backgroundColor('#00001a')
+  .graphData(filteredData())
+  .nodeLabel(n => n.label)
+  .nodeColor(n => PALETTE[n.category] || '#555')
+  .nodeVal(n => Math.max(0.5, n.degree))
+  .nodeOpacity(0.85)
+  .linkWidth(l => Math.max(0.1, (l.value - META.threshold) * 4))
+  .linkOpacity(0.2)
+  .linkColor(() => '#2a5a8a')
+  .onNodeHover(node => {
+    document.body.style.cursor = node ? 'pointer' : 'default';
+    const el = document.getElementById('ni');
+    if (!node) {
+      el.innerHTML = '<div class="det" style="color:#1a3a5a">hover a node to inspect</div>';
+    } else {
+      el.innerHTML = '<div class="lbl">' + node.label + '</div>'
+        + '<div class="det">category: <span style="color:' + PALETTE[node.category] + '">'
+        + node.category.replace(/_/g,' ') + '</span></div>'
+        + '<div class="det">degree: ' + node.degree + '</div>'
+        + '<div class="det">sparsity: ' + (node.sparsity * 100).toFixed(1) + '%</div>';
+    }
+  })
+  .onNodeClick(node => {
+    const linked = new Set();
+    LINKS_RAW.forEach(l => {
+      if (l.source === node.id) linked.add(l.target);
+      if (l.target === node.id) linked.add(l.source);
+    });
+    Graph.nodeColor(n => n.id === node.id ? '#fff' : linked.has(n.id) ? PALETTE[n.category] : '#111');
+    setTimeout(() => Graph.nodeColor(n => PALETTE[n.category] || '#555'), 2500);
+  });
+
+document.getElementById('sts').textContent =
+  META.n_probes + ' nodes · ' + META.n_edges + ' edges · threshold ' + META.threshold.toFixed(2);
+
+const catCounts = {};
+ALL_NODES.forEach(n => catCounts[n.category] = (catCounts[n.category] || 0) + 1);
+const catList = document.getElementById('cl');
+Object.entries(PALETTE).forEach(([cat, color]) => {
+  if (!catCounts[cat]) return;
+  const row = document.createElement('div');
+  row.className = 'cr';
+  row.innerHTML = '<div class="cd" style="background:' + color + '"></div>'
+    + '<div class="cl">' + cat.replace(/_/g,' ') + '</div>'
+    + '<div class="cc">' + catCounts[cat] + '</div>';
+  row.addEventListener('click', () => {
+    visible[cat] = !visible[cat];
+    row.classList.toggle('off', !visible[cat]);
+    Graph.graphData(filteredData());
+  });
+  catList.appendChild(row);
+});
+</script>
+</body>
+</html>'''
+
+
+def _get_force_graph_lib() -> str:
+    lib_path = ROOT / "tmp" / "3d-force-graph.min.js"
+    if not lib_path.exists():
+        print("Downloading 3d-force-graph library (one-time, cached to tmp/)...")
+        import urllib.request
+        urllib.request.urlretrieve(
+            "https://unpkg.com/3d-force-graph/dist/3d-force-graph.min.js",
+            str(lib_path),
+        )
+        print(f"  Saved {lib_path.stat().st_size // 1024} KB → {lib_path}")
+    content = lib_path.read_text(encoding="utf-8")
+    # Prevent HTML parser from prematurely closing the script block
+    return content.replace("</script>", r"<\/script>")
+
+
+def _make_graph_html(lib_js: str, nodes: list, links: list,
+                     palette: dict, meta: dict, title: str) -> str:
+    html = _HTML_TEMPLATE
+    html = html.replace("__LIBRARY__",      lib_js)
+    html = html.replace("__NODES_JSON__",   json.dumps(nodes,   separators=(",", ":")))
+    html = html.replace("__LINKS_JSON__",   json.dumps(links,   separators=(",", ":")))
+    html = html.replace("__PALETTE_JSON__", json.dumps(palette, separators=(",", ":")))
+    html = html.replace("__META_JSON__",    json.dumps(meta,    separators=(",", ":")))
+    html = html.replace("__TITLE__",        title)
+    return html
+
+
+def cmd_graph(args):
+    import numpy as np
+
+    name      = getattr(args, "name", None)
+    threshold = args.threshold
+    out_act, out_probes_file, _, _ = _out_paths(name)
+
+    if not out_act.exists():
+        sys.exit(f"No activations found at {out_act}. Run: probe first.")
+
+    data    = np.load(str(out_act))
+    vectors = data["activations"]
+    probes  = [json.loads(l) for l in out_probes_file.read_text(encoding="utf-8").splitlines()
+               if l.strip()]
+    cats    = [p["category"] for p in probes]
+    n       = len(probes)
+    print(f"Loaded {n} probes, dim={vectors.shape[1]:,}")
+
+    # Cosine similarity matrix
+    norms  = np.linalg.norm(vectors, axis=1, keepdims=True)
+    norms  = np.where(norms == 0, 1.0, norms)
+    normed = vectors / norms
+    sim    = normed @ normed.T
+
+    # Edges above threshold (upper triangle only)
+    raw_links: list[dict] = []
+    for i in range(n):
+        for j in range(i + 1, n):
+            if sim[i, j] >= threshold:
+                raw_links.append({"source": i, "target": j, "value": float(sim[i, j])})
+
+    # Degree per node
+    degree = [0] * n
+    for lk in raw_links:
+        degree[lk["source"]] += 1
+        degree[lk["target"]] += 1
+
+    nodes = [
+        {
+            "id":       i,
+            "label":    probes[i]["label"],
+            "category": probes[i]["category"],
+            "sparsity": float(probes[i].get("sparsity", 0.0)),
+            "degree":   degree[i],
+        }
+        for i in range(n)
+    ]
+
+    palette = make_palette(cats)
+    meta    = {
+        "name":      name or "brain_map",
+        "threshold": threshold,
+        "n_probes":  n,
+        "n_edges":   len(raw_links),
+    }
+
+    lib_js   = _get_force_graph_lib()
+    html_out = _make_graph_html(lib_js, nodes, raw_links, palette, meta, name or "unnamed")
+
+    img_stem = name if name else "brain_map"
+    BRAIN_MAPS_DIR.mkdir(parents=True, exist_ok=True)
+    out_html = BRAIN_MAPS_DIR / f"{img_stem}_graph.html"
+    out_html.write_text(html_out, encoding="utf-8")
+    size_kb  = out_html.stat().st_size // 1024
+    print(f"Graph saved: {out_html}  ({size_kb} KB)")
+    print(f"Nodes: {n}  Edges: {len(raw_links)}  Threshold: {threshold:.2f}")
+
+
+# ---------------------------------------------------------------------------
 # Hub detection
 # ---------------------------------------------------------------------------
 
@@ -966,6 +1186,13 @@ def main():
     p_run.add_argument("--name", default=None,
                        help="Label for output files.")
     p_run.set_defaults(func=cmd_run)
+
+    p_graph = sub.add_parser("graph", help="Generate self-contained 3D interactive HTML brain map")
+    p_graph.add_argument("--threshold", type=float, default=0.65,
+                         help="Cosine similarity threshold for edges (default 0.65)")
+    p_graph.add_argument("--name", default=None,
+                         help="Must match --name used during probe")
+    p_graph.set_defaults(func=cmd_graph)
 
     args = ap.parse_args()
 
