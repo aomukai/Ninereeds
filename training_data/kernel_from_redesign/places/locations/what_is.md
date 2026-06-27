@@ -1,0 +1,2 @@
+[user]what is a location?
+[Ninereeds]A location is a place. A location is where something is. A location can be big or small.

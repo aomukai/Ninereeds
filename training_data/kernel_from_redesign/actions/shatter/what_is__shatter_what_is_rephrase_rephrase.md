@@ -1,0 +1,2 @@
+[user]Tell me about shattering.
+[Ninereeds]Shattering is when something breaks into pieces all at once. It happens fast. The thing that shatters is destroyed.

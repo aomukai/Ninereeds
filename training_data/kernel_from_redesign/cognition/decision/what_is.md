@@ -1,0 +1,2 @@
+[user]what does decision mean?
+[Ninereeds]Decision means choosing between different things. If you decide to eat an apple instead of a banana, that is a decision.

@@ -1,0 +1,2 @@
+[user]describe what a queue does.
+[Ninereeds]A queue is used to organize people waiting. A queue makes sure the first person who arrives is served first. A queue prevents pushing and confusion.

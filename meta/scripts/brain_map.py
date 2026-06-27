@@ -26,6 +26,7 @@ from __future__ import annotations
 import argparse
 import json
 import random
+import re
 import sys
 from pathlib import Path
 
@@ -131,6 +132,19 @@ def _out_paths(name: str | None) -> tuple[Path, Path, Path, Path]:
     )
 
 
+def _trace_paths(name: str | None) -> tuple[Path, Path, Path]:
+    """Return (npz, json, markdown_report) paths for richer trace artifacts."""
+    suffix = f"_{name}" if name else ""
+    stem = name if name else "brain_trace"
+    tmp = ROOT / "tmp"
+    BRAIN_MAPS_DIR.mkdir(parents=True, exist_ok=True)
+    return (
+        tmp / f"brain_trace{suffix}.npz",
+        BRAIN_MAPS_DIR / f"{stem}_trace.json",
+        BRAIN_MAPS_DIR / f"{stem}_trace_report.md",
+    )
+
+
 # ---------------------------------------------------------------------------
 # External probe loader
 # ---------------------------------------------------------------------------
@@ -153,6 +167,57 @@ def load_external_probes(path: Path) -> list[dict]:
                 p["label"] = p.get("id", f"probe_{len(probes)}")
             probes.append(p)
     return probes
+
+
+TRACE_REQUIRED_FIELDS = {
+    "id",
+    "campaign",
+    "category",
+    "language",
+    "concept_id",
+    "template_id",
+    "probe_role",
+    "construction_id",
+    "source_corpus",
+    "prompt",
+    "expected_cluster",
+    "expected_behavior",
+}
+
+
+def validate_probe_file(path: Path, strict: bool = True) -> tuple[int, list[str]]:
+    """Validate probe JSONL metadata for trace-ready scanner use."""
+    errors: list[str] = []
+    count = 0
+    seen_ids: set[str] = set()
+    with open(path, encoding="utf-8") as f:
+        for lineno, line in enumerate(f, 1):
+            stripped = line.strip()
+            if not stripped or stripped.startswith("#"):
+                continue
+            try:
+                rec = json.loads(stripped)
+            except json.JSONDecodeError as exc:
+                errors.append(f"{path}:{lineno}: invalid JSON: {exc}")
+                continue
+            count += 1
+            probe_id = rec.get("id", f"<line {lineno}>")
+            if probe_id in seen_ids:
+                errors.append(f"{path}:{lineno}: duplicate id `{probe_id}`")
+            seen_ids.add(probe_id)
+            missing = sorted(k for k in TRACE_REQUIRED_FIELDS
+                             if k not in rec or rec[k] in (None, ""))
+            if missing:
+                errors.append(f"{path}:{lineno}: `{probe_id}` missing {', '.join(missing)}")
+            if strict:
+                if "lang" in rec and "language" in rec and rec["lang"] != rec["language"]:
+                    errors.append(
+                        f"{path}:{lineno}: `{probe_id}` lang={rec['lang']} "
+                        f"but language={rec['language']}"
+                    )
+                if rec.get("concept_id") == probe_id:
+                    errors.append(f"{path}:{lineno}: `{probe_id}` concept_id falls back to probe id")
+    return count, errors
 
 
 # ---------------------------------------------------------------------------
@@ -415,11 +480,268 @@ def forward_with_activations(model, idx):
     return captured   # list[n_layer] of (nh, N)
 
 
+def forward_with_activation_trace(model, idx, mode: str = "prompt") -> list:
+    """
+    Capture xy_sparse across token positions.
+
+    mode:
+      last   — only final token, equivalent shape to forward_with_activations
+      prompt — every token in idx
+
+    Returns list[n_layer] tensors shaped (n_head, selected_T, N).
+    """
+    import torch
+    import torch.nn.functional as F
+
+    if mode not in {"last", "prompt"}:
+        raise ValueError(f"Unsupported trace mode: {mode}")
+
+    C = model.config
+    B, T = idx.size()
+    D = C.n_embd
+    nh = C.n_head
+    N = D * C.mlp_internal_dim_multiplier // nh
+
+    x = model.embed(idx).unsqueeze(1)
+    x = model.ln(x)
+
+    captured: list = []
+
+    for level in range(C.n_layer):
+        if C.per_layer_weights:
+            encoder = model.encoder[level]
+            encoder_v = model.encoder_v[level]
+            decoder = model.decoder[level]
+        else:
+            encoder = model.encoder
+            encoder_v = model.encoder_v
+            decoder = model.decoder
+
+        x_latent = x @ encoder
+        x_sparse = F.relu(x_latent)
+
+        yKV = model.attn(Q=x_sparse, K=x_sparse, V=x)
+        yKV = model.ln(yKV)
+        y_latent = yKV @ encoder_v
+        y_sparse = F.relu(y_latent)
+        xy_sparse = x_sparse * y_sparse
+
+        if mode == "last":
+            captured.append(xy_sparse[0, :, -1:, :].detach().cpu())
+        else:
+            captured.append(xy_sparse[0].detach().cpu())
+
+        yMLP = (
+            xy_sparse.transpose(1, 2).reshape(B, 1, T, N * nh) @ decoder
+        )
+        y = model.ln(yMLP)
+        x = model.ln(x + y)
+
+    return captured
+
+
 def activation_vector(captured: list) -> "np.ndarray":
     """Flatten all layer activations to a single 1-D numpy vector."""
     import numpy as np
     parts = [layer.numpy().ravel() for layer in captured]
     return np.concatenate(parts)
+
+
+def activation_trace_summary(captured: list, top_k: int) -> dict:
+    """
+    Summarize a token trace into compact probe-level evidence.
+
+    The full layer/head/neuron x token tensor can be too large to keep for every
+    probe. This stores enough to answer: how often did dimensions fire, how
+    strong were they, and which dimensions dominated this probe?
+    """
+    import numpy as np
+
+    # Each layer is (n_head, T, N). Move token dimension first, then flatten.
+    per_layer = [layer.numpy().transpose(1, 0, 2).reshape(layer.shape[1], -1)
+                 for layer in captured]
+    token_vectors = np.concatenate(per_layer, axis=1).astype(np.float32, copy=False)
+    active = token_vectors > 0
+    fire_rate_by_dim = active.mean(axis=0).astype(np.float32)
+    mean_activation_by_dim = token_vectors.mean(axis=0).astype(np.float32)
+    max_activation_by_dim = token_vectors.max(axis=0).astype(np.float32)
+    ever_active = active.any(axis=0)
+
+    strength = mean_activation_by_dim * np.sqrt(np.maximum(fire_rate_by_dim, 1e-8))
+    k = min(top_k, strength.shape[0])
+    if k:
+        top_idx = np.argpartition(strength, -k)[-k:]
+        top_idx = top_idx[np.argsort(strength[top_idx])[::-1]]
+    else:
+        top_idx = np.array([], dtype=np.int64)
+
+    return {
+        "vector": token_vectors[-1].astype(np.float32, copy=False),
+        "mean_vector": token_vectors.mean(axis=0).astype(np.float32),
+        "fire_rate_by_dim": fire_rate_by_dim,
+        "mean_activation_by_dim": mean_activation_by_dim,
+        "max_activation_by_dim": max_activation_by_dim,
+        "active_mask": ever_active,
+        "top_indices": top_idx.astype(np.int32),
+        "top_strengths": strength[top_idx].astype(np.float32),
+        "token_fire_rate": active.mean(axis=1).astype(np.float32),
+        "overall_fire_rate": float(active.mean()),
+        "mean_positive_activation": float(token_vectors[active].mean()) if active.any() else 0.0,
+    }
+
+
+def _decode_bytes(tokens) -> str:
+    return bytes(int(t) % 256 for t in tokens).decode("utf-8", errors="replace")
+
+
+def generate_for_trace(model, prompt: str, max_new_tokens: int,
+                       temperature: float, top_k: int | None) -> str:
+    import torch
+
+    token_ids = encode_prompt(prompt)
+    idx = torch.tensor([token_ids], dtype=torch.long)
+    with torch.no_grad():
+        out = model.generate(idx, max_new_tokens=max_new_tokens,
+                             temperature=temperature, top_k=top_k)
+    decoded = _decode_bytes(out[0].tolist())
+    if decoded.startswith(prompt):
+        return decoded[len(prompt):].strip()
+    return decoded.strip()
+
+
+def output_status(text: str) -> str:
+    """Cheap behavior label until probe files include authoritative scoring."""
+    stripped = text.strip()
+    if not stripped:
+        return "empty"
+    low = stripped.lower()
+    if "don't know" in low or "do not know" in low or "i dont know" in low:
+        return "unknown"
+    if len(stripped) >= 12:
+        chunks = [stripped[i:i + 8] for i in range(0, max(0, len(stripped) - 8), 8)]
+        if chunks:
+            most_common = max(chunks.count(c) for c in set(chunks))
+            if most_common >= 5:
+                return "loop"
+    bad = sum(1 for ch in stripped if ch == "\ufffd" or ord(ch) < 9)
+    if bad / max(1, len(stripped)) > 0.05:
+        return "garbled"
+    return "generated"
+
+
+def infer_template_id(prompt: str) -> str:
+    body = prompt.lower()
+    body = body.replace("[user]", "").replace("[ninereeds]", "").strip()
+    if body.startswith("what is") or body.startswith("what are"):
+        return "what_is"
+    if body.startswith("what does") and "look like" in body:
+        return "look_like"
+    if body.startswith("describe"):
+        return "describe"
+    if body.startswith("where"):
+        return "where"
+    if body.startswith("can "):
+        return "can"
+    if body.startswith("is ") or body.startswith("are "):
+        return "boolean"
+    if " plus " in body or "+" in body:
+        return "arithmetic"
+    return "other"
+
+
+def _clean_question_body(prompt: str) -> str:
+    body = prompt.lower()
+    body = body.replace("[user]", "").replace("[ninereeds]", "")
+    body = re.sub(r"\s+", " ", body).strip()
+    body = body.strip(" ?.!:;\"'")
+    return body
+
+
+def _clean_concept_phrase(text: str) -> str:
+    text = re.sub(r"'s\b", "", text)
+    text = re.sub(r"\bweight of\b", " ", text)
+    text = re.sub(r"\b(right now|specific|exact|the color|color)\b", " ", text)
+    text = re.sub(r"\b(a|an|the|this|that|your|my)\b", " ", text)
+    text = re.sub(r"\s+", " ", text).strip(" ?.!:;\"'")
+    return text.replace(" ", "_") if text else ""
+
+
+def infer_concept_id(prompt: str, label: str) -> str:
+    """Best-effort concept extraction for legacy probe files without concept_id."""
+    body = _clean_question_body(prompt)
+    patterns = [
+        r"^what kind of animal is (?P<x>.+)$",
+        r"^what kind of thing are (?P<x>.+)$",
+        r"^what can (?P<x>you) do$",
+        r"^what will happen (?P<x>.+)$",
+        r"^what is (?P<x>.+?) used for$",
+        r"^what is (?P<x>.+?) for$",
+        r"^what is (?P<x>.+?) thinking right now$",
+        r"^what is (?P<x>.+?) feeling right now$",
+        r"^what is (?P<x>.+?) name$",
+        r"^what is (?P<x>.+?) weight$",
+        r"^(does|can) (?P<x>.+?) [a-z_]+$",
+        r"^is (?P<x>.+?) (a|an|the|same|more|less|greater|smaller).*$",
+        r"^what is (?P<x>.+)$",
+        r"^what are (?P<x>.+?) for$",
+        r"^what do (?P<x>.+?) do$",
+        r"^what does (?P<x>.+?) (look|feel|taste) like$",
+        r"^what does (?P<x>.+?) involve$",
+        r"^where do (?P<x>.+?) live$",
+        r"^describe (?P<x>.+)$",
+        r"^how many (?P<x>.+?) exist",
+        r"^can (?P<x>you) ",
+        r"^do (?P<x>you) ",
+        r"^who are (?P<x>you)$",
+    ]
+    for pattern in patterns:
+        match = re.match(pattern, body)
+        if match:
+            concept = _clean_concept_phrase(match.group("x"))
+            if concept:
+                return concept
+    return label
+
+
+def normalize_probe_meta(probe: dict, i: int) -> dict:
+    prompt = probe.get("prompt") or probe.get("text") or ""
+    label = probe.get("label") or probe.get("id") or f"probe_{i}"
+    concept_id = (
+        probe.get("concept_id")
+        or probe.get("concept")
+        or probe.get("word")
+        or infer_concept_id(prompt, label)
+    )
+    return {
+        **probe,
+        "id": probe.get("id", label),
+        "label": label,
+        "concept_id": str(concept_id),
+        "template_id": probe.get("template_id") or infer_template_id(prompt),
+        "language": probe.get("language") or probe.get("lang") or "unknown",
+        "construction_id": probe.get("construction_id"),
+        "source_corpus": probe.get("source_corpus"),
+        "prompt": prompt,
+    }
+
+
+def cosine_matrix(vectors: "np.ndarray") -> "np.ndarray":
+    import numpy as np
+
+    norms = np.linalg.norm(vectors, axis=1, keepdims=True)
+    norms = np.where(norms == 0, 1.0, norms)
+    normed = vectors / norms
+    return normed @ normed.T
+
+
+def jaccard_matrix(masks: "np.ndarray") -> "np.ndarray":
+    import numpy as np
+
+    masks = masks.astype(bool, copy=False)
+    inter = masks.astype(np.uint32) @ masks.astype(np.uint32).T
+    counts = masks.sum(axis=1, keepdims=True)
+    union = counts + counts.T - inter
+    return np.divide(inter, union, out=np.zeros_like(inter, dtype=np.float32), where=union != 0)
 
 
 # ---------------------------------------------------------------------------
@@ -700,6 +1022,801 @@ def _scatter(vectors: "np.ndarray", labels: list[str], cats: list[str], out_path
 def cmd_run(args):
     cmd_probe(args)
     cmd_map(args)
+
+
+def cmd_trace(args):
+    import numpy as np
+    import torch
+
+    checkpoint = Path(args.checkpoint)
+    if not checkpoint.exists():
+        sys.exit(f"Checkpoint not found: {checkpoint}")
+
+    probe_file = getattr(args, "probes", None)
+    if probe_file:
+        probe_path = Path(probe_file)
+        if not probe_path.exists():
+            sys.exit(f"Probe file not found: {probe_path}")
+        raw_probes = load_external_probes(probe_path)
+        print(f"Probe set: {len(raw_probes)} probes from {probe_path.name}")
+    else:
+        rng = random.Random(SEED)
+        raw_probes = build_all_probes(rng)
+        print(f"Probe set: {len(raw_probes)} probes (built-in fallback)")
+
+    probes = [normalize_probe_meta(p, i) for i, p in enumerate(raw_probes)]
+    name = getattr(args, "name", None)
+    out_npz, out_json, out_report = _trace_paths(name)
+
+    print(f"Loading checkpoint: {checkpoint}")
+    model = load_model(checkpoint)
+    print(f"Config: {model.config}")
+
+    C = model.config
+    N = C.n_embd * C.mlp_internal_dim_multiplier // C.n_head
+    dim = C.n_layer * C.n_head * N
+    print(f"Trace dim: {C.n_layer} layers × {C.n_head} heads × {N} = {dim:,}")
+    print(f"Trace mode: {args.positions}; output generation: {'on' if args.generate else 'off'}")
+
+    n = len(probes)
+    probe_vectors = np.zeros((n, dim), dtype=np.float32)
+    mean_vectors = np.zeros((n, dim), dtype=np.float32)
+    active_masks = np.zeros((n, dim), dtype=bool)
+    fire_rates = np.zeros((n, dim), dtype=np.float32)
+    top_indices = np.zeros((n, args.top_k), dtype=np.int32)
+    top_strengths = np.zeros((n, args.top_k), dtype=np.float32)
+    meta = []
+
+    for i, probe in enumerate(probes):
+        prompt = probe["prompt"]
+        output = ""
+        status = "not_generated"
+        trace_text = prompt
+        if args.generate:
+            output = generate_for_trace(model, prompt, args.max_new_tokens,
+                                        args.temperature, args.top_k_sample)
+            status = output_status(output)
+            trace_text = prompt + output
+
+        tokens = encode_prompt(trace_text)
+        idx = torch.tensor([tokens], dtype=torch.long)
+        with torch.no_grad():
+            captured = forward_with_activation_trace(model, idx, mode=args.positions)
+        summary = activation_trace_summary(captured, args.top_k)
+
+        k = len(summary["top_indices"])
+        probe_vectors[i] = summary["vector"]
+        mean_vectors[i] = summary["mean_vector"]
+        active_masks[i] = summary["active_mask"]
+        fire_rates[i] = summary["fire_rate_by_dim"]
+        top_indices[i, :k] = summary["top_indices"]
+        top_strengths[i, :k] = summary["top_strengths"]
+
+        meta.append({
+            **probe,
+            "trace_tokens": len(tokens),
+            "overall_fire_rate": summary["overall_fire_rate"],
+            "mean_positive_activation": summary["mean_positive_activation"],
+            "output": output,
+            "output_status": status,
+            "top_neurons": [
+                {"index": int(idx), "strength": float(strength)}
+                for idx, strength in zip(summary["top_indices"], summary["top_strengths"])
+            ],
+        })
+
+        if (i + 1) % 10 == 0 or i == n - 1:
+            print(f"  [{i+1:3d}/{n}] {probe['id']} concept={probe['concept_id']} "
+                  f"fire={summary['overall_fire_rate']:.4f} status={status}")
+
+    concept_ids = list(dict.fromkeys(m["concept_id"] for m in meta))
+    concept_index = {c: i for i, c in enumerate(concept_ids)}
+    c = len(concept_ids)
+    concept_vectors = np.zeros((c, dim), dtype=np.float32)
+    concept_fire_rates = np.zeros((c, dim), dtype=np.float32)
+    concept_masks = np.zeros((c, dim), dtype=bool)
+    concept_counts = np.zeros(c, dtype=np.int32)
+
+    for i, m in enumerate(meta):
+        ci = concept_index[m["concept_id"]]
+        concept_vectors[ci] += mean_vectors[i]
+        concept_fire_rates[ci] += fire_rates[i]
+        concept_masks[ci] |= active_masks[i]
+        concept_counts[ci] += 1
+
+    concept_vectors /= np.maximum(concept_counts[:, None], 1)
+    concept_fire_rates /= np.maximum(concept_counts[:, None], 1)
+
+    concept_cosine = cosine_matrix(concept_vectors).astype(np.float32)
+    concept_jaccard = jaccard_matrix(concept_masks).astype(np.float32)
+    probe_cosine = cosine_matrix(mean_vectors).astype(np.float32)
+
+    out_npz.parent.mkdir(parents=True, exist_ok=True)
+    np.savez_compressed(
+        str(out_npz),
+        probe_vectors=probe_vectors,
+        mean_vectors=mean_vectors,
+        active_masks=active_masks,
+        fire_rates=fire_rates,
+        top_indices=top_indices,
+        top_strengths=top_strengths,
+        concept_vectors=concept_vectors,
+        concept_fire_rates=concept_fire_rates,
+        concept_masks=concept_masks,
+        concept_counts=concept_counts,
+        concept_cosine=concept_cosine,
+        concept_jaccard=concept_jaccard,
+        probe_cosine=probe_cosine,
+        concept_ids=np.array(concept_ids, dtype=str),
+        n_layer=np.int32(C.n_layer),
+        n_head=np.int32(C.n_head),
+        neuron_dim=np.int32(N),
+    )
+
+    summary_json = build_trace_summary_json(
+        meta=meta,
+        concept_ids=concept_ids,
+        concept_counts=concept_counts,
+        concept_fire_rates=concept_fire_rates,
+        concept_masks=concept_masks,
+        concept_cosine=concept_cosine,
+        concept_jaccard=concept_jaccard,
+        threshold=args.edge_threshold,
+        name=name or "brain_trace",
+        checkpoint=str(checkpoint),
+        positions=args.positions,
+    )
+    out_json.write_text(json.dumps(summary_json, indent=2, ensure_ascii=False), encoding="utf-8")
+    out_report.write_text(render_trace_report(summary_json), encoding="utf-8")
+
+    print(f"\nSaved trace arrays: {out_npz}")
+    print(f"Saved trace summary: {out_json}")
+    print(f"Saved trace report: {out_report}")
+
+
+def build_trace_summary_json(*, meta, concept_ids, concept_counts, concept_fire_rates,
+                             concept_masks, concept_cosine, concept_jaccard,
+                             threshold: float, name: str, checkpoint: str,
+                             positions: str) -> dict:
+    import numpy as np
+
+    concept_categories = {}
+    concept_templates = {}
+    concept_languages = {}
+    concept_statuses = {}
+    concept_sources = {}
+    for m in meta:
+        cid = m["concept_id"]
+        concept_categories.setdefault(cid, set()).add(m.get("category", "unknown"))
+        concept_templates.setdefault(cid, set()).add(m.get("template_id", "unknown"))
+        concept_languages.setdefault(cid, set()).add(m.get("language", "unknown"))
+        concept_statuses.setdefault(cid, []).append(m.get("output_status", "not_generated"))
+        source = m.get("source_corpus")
+        if source:
+            if isinstance(source, list):
+                concept_sources.setdefault(cid, set()).update(str(s) for s in source)
+            else:
+                concept_sources.setdefault(cid, set()).add(str(source))
+
+    concepts = []
+    for i, cid in enumerate(concept_ids):
+        avg_fire = float(concept_fire_rates[i].mean())
+        active_dims = int(concept_masks[i].sum())
+        top_dim_idx = np.argpartition(concept_fire_rates[i], -10)[-10:]
+        top_dim_idx = top_dim_idx[np.argsort(concept_fire_rates[i][top_dim_idx])[::-1]]
+        concepts.append({
+            "concept_id": cid,
+            "categories": sorted(concept_categories.get(cid, [])),
+            "templates": sorted(concept_templates.get(cid, [])),
+            "languages": sorted(concept_languages.get(cid, [])),
+            "source_corpus": sorted(concept_sources.get(cid, []))[:12],
+            "probe_count": int(concept_counts[i]),
+            "avg_fire_rate": avg_fire,
+            "active_dims": active_dims,
+            "output_status_counts": {
+                s: concept_statuses.get(cid, []).count(s)
+                for s in sorted(set(concept_statuses.get(cid, [])))
+            },
+            "top_fire_dims": [
+                {"index": int(j), "fire_rate": float(concept_fire_rates[i, j])}
+                for j in top_dim_idx
+            ],
+        })
+
+    connections = []
+    n = len(concept_ids)
+    for i in range(n):
+        for j in range(i + 1, n):
+            cos = float(concept_cosine[i, j])
+            jac = float(concept_jaccard[i, j])
+            if cos >= threshold or jac >= threshold:
+                connections.append({
+                    "source": concept_ids[i],
+                    "target": concept_ids[j],
+                    "cosine": cos,
+                    "jaccard": jac,
+                    "same_category": bool(
+                        set(concept_categories.get(concept_ids[i], []))
+                        & set(concept_categories.get(concept_ids[j], []))
+                    ),
+                })
+    connections.sort(key=lambda x: (x["cosine"], x["jaccard"]), reverse=True)
+
+    category_stats = []
+    categories = sorted({m.get("category", "unknown") for m in meta})
+    probe_by_category = {cat: [m for m in meta if m.get("category", "unknown") == cat]
+                         for cat in categories}
+    concept_pos = {cid: i for i, cid in enumerate(concept_ids)}
+    for cat, rows in probe_by_category.items():
+        cids = list(dict.fromkeys(m["concept_id"] for m in rows))
+        idx = [concept_pos[cid] for cid in cids]
+        intra_cosine = None
+        intra_jaccard = None
+        if len(idx) > 1:
+            sub_cos = concept_cosine[np.ix_(idx, idx)]
+            sub_jac = concept_jaccard[np.ix_(idx, idx)]
+            mask = np.triu(np.ones_like(sub_cos, dtype=bool), k=1)
+            intra_cosine = float(sub_cos[mask].mean())
+            intra_jaccard = float(sub_jac[mask].mean())
+        category_stats.append({
+            "category": cat,
+            "probe_count": len(rows),
+            "concept_count": len(cids),
+            "mean_probe_fire_rate": float(np.mean([m["overall_fire_rate"] for m in rows])),
+            "intra_concept_cosine": intra_cosine,
+            "intra_concept_jaccard": intra_jaccard,
+        })
+
+    avg_rates = np.array([c["avg_fire_rate"] for c in concepts], dtype=np.float32)
+    weak_cutoff = float(np.quantile(avg_rates, 0.20)) if len(avg_rates) else 0.0
+    strong_cutoff = float(np.quantile(avg_rates, 0.80)) if len(avg_rates) else 0.0
+    degree = {cid: 0 for cid in concept_ids}
+    cross_category_connections = []
+    for edge in connections:
+        degree[edge["source"]] += 1
+        degree[edge["target"]] += 1
+        if not edge["same_category"]:
+            cross_category_connections.append(edge)
+
+    flags = {
+        "weak_concepts": sorted(
+            [c for c in concepts if c["avg_fire_rate"] <= weak_cutoff],
+            key=lambda c: c["avg_fire_rate"],
+        )[:20],
+        "strong_concepts": sorted(
+            [c for c in concepts if c["avg_fire_rate"] >= strong_cutoff],
+            key=lambda c: c["avg_fire_rate"],
+            reverse=True,
+        )[:20],
+        "overconnected_concepts": sorted(
+            [{"concept_id": cid, "degree": deg} for cid, deg in degree.items() if deg],
+            key=lambda x: x["degree"],
+            reverse=True,
+        )[:20],
+        "cross_category_connections": cross_category_connections[:30],
+        "fuzzy_categories": sorted(
+            [s for s in category_stats
+             if s["intra_concept_cosine"] is not None and s["intra_concept_cosine"] < 0.65],
+            key=lambda s: s["intra_concept_cosine"],
+        ),
+    }
+
+    return {
+        "name": name,
+        "checkpoint": checkpoint,
+        "positions": positions,
+        "edge_threshold": threshold,
+        "n_probes": len(meta),
+        "n_concepts": len(concept_ids),
+        "probes": meta,
+        "concepts": concepts,
+        "connections": connections,
+        "category_stats": category_stats,
+        "flags": flags,
+    }
+
+
+def render_trace_report(summary: dict) -> str:
+    lines = []
+    lines.append(f"# Brain Trace Report — {summary['name']}")
+    lines.append("")
+    lines.append(f"- checkpoint: `{summary['checkpoint']}`")
+    lines.append(f"- probes: {summary['n_probes']}")
+    lines.append(f"- concepts: {summary['n_concepts']}")
+    lines.append(f"- positions: `{summary['positions']}`")
+    lines.append(f"- edge threshold: {summary['edge_threshold']:.2f}")
+    lines.append("")
+
+    lines.append("## Next-Move Signals")
+    weak = summary["flags"]["weak_concepts"][:10]
+    if weak:
+        lines.append("")
+        lines.append("### Weak concepts: add cleaner/more varied corpus")
+        for c in weak:
+            cats = ",".join(c["categories"])
+            lines.append(f"- `{c['concept_id']}` ({cats}) fire={c['avg_fire_rate']:.5f} active_dims={c['active_dims']}")
+            sources = c.get("source_corpus") or []
+            if sources:
+                lines.append(f"  source: `{sources[0]}`")
+    else:
+        lines.append("")
+        lines.append("No weak concepts flagged.")
+
+    fuzzy = summary["flags"]["fuzzy_categories"][:10]
+    if fuzzy:
+        lines.append("")
+        lines.append("### Fuzzy categories: split or strengthen anchors")
+        for s in fuzzy:
+            lines.append(f"- `{s['category']}` concept_cos={s['intra_concept_cosine']:.3f} "
+                         f"concept_jaccard={s['intra_concept_jaccard']:.3f}")
+
+    cross = summary["flags"]["cross_category_connections"][:10]
+    if cross:
+        lines.append("")
+        lines.append("### Cross-category connections: audit co-occurrence/noise")
+        for e in cross:
+            lines.append(f"- `{e['source']}` ↔ `{e['target']}` cosine={e['cosine']:.3f} jaccard={e['jaccard']:.3f}")
+
+    over = summary["flags"]["overconnected_concepts"][:10]
+    if over:
+        lines.append("")
+        lines.append("### Overconnected concepts: possible hubs/default patterns")
+        for row in over:
+            lines.append(f"- `{row['concept_id']}` degree={row['degree']}")
+
+    lines.append("")
+    lines.append("## Category Stats")
+    lines.append("")
+    lines.append("| category | probes | concepts | fire_rate | concept_cos | concept_jaccard |")
+    lines.append("|---|---:|---:|---:|---:|---:|")
+    for s in sorted(summary["category_stats"], key=lambda x: x["category"]):
+        cos = "" if s["intra_concept_cosine"] is None else f"{s['intra_concept_cosine']:.3f}"
+        jac = "" if s["intra_concept_jaccard"] is None else f"{s['intra_concept_jaccard']:.3f}"
+        lines.append(f"| {s['category']} | {s['probe_count']} | {s['concept_count']} | "
+                     f"{s['mean_probe_fire_rate']:.5f} | {cos} | {jac} |")
+
+    lines.append("")
+    lines.append("## Output Status")
+    lines.append("")
+    status_counts = {}
+    for p in summary["probes"]:
+        status = p.get("output_status", "not_generated")
+        status_counts[status] = status_counts.get(status, 0) + 1
+    for status, count in sorted(status_counts.items()):
+        lines.append(f"- `{status}`: {count}")
+
+    lines.append("")
+    lines.append("## Interpretation")
+    lines.append("")
+    lines.append("- Weak concepts are candidates for more direct anchor examples and template diversity.")
+    lines.append("- Fuzzy categories need either more examples or finer categories; do not assume one cluster exists.")
+    lines.append("- Cross-category edges are not automatically bad, but they are the first corpus co-occurrence audits to run.")
+    lines.append("- Overconnected concepts may be useful hubs or accidental defaults; verify with negative controls and output scoring.")
+    return "\n".join(lines) + "\n"
+
+
+def cmd_trace_report(args):
+    name = getattr(args, "name", None)
+    _, out_json, out_report = _trace_paths(name)
+    if not out_json.exists():
+        sys.exit(f"No trace summary found at {out_json}. Run: trace first.")
+    summary = json.loads(out_json.read_text(encoding="utf-8"))
+    out_report.write_text(render_trace_report(summary), encoding="utf-8")
+    print(f"Trace report saved: {out_report}")
+
+
+def cmd_validate_probes(args):
+    paths = [Path(p) for p in args.probes]
+    failed = False
+    for path in paths:
+        if path.is_dir():
+            files = sorted(path.glob("*.jsonl"))
+        else:
+            files = [path]
+        for file_path in files:
+            if not file_path.exists():
+                print(f"FAIL {file_path}: not found")
+                failed = True
+                continue
+            count, errors = validate_probe_file(file_path, strict=not args.no_strict)
+            if errors:
+                failed = True
+                print(f"FAIL {file_path}: {count} probes, {len(errors)} errors")
+                for err in errors[: args.max_errors]:
+                    print(f"  {err}")
+                if len(errors) > args.max_errors:
+                    print(f"  ... {len(errors) - args.max_errors} more")
+            else:
+                print(f"OK   {file_path}: {count} probes")
+    if failed:
+        sys.exit(1)
+
+
+# ---------------------------------------------------------------------------
+# Concept atlas: cluster drill-down + edge evidence
+# ---------------------------------------------------------------------------
+
+_ATLAS_HTML_TEMPLATE = r'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ninereeds Concept Atlas — __TITLE__</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#07100d;color:#d8eadc;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;overflow:hidden}
+#app{display:grid;grid-template-columns:280px 1fr 360px;height:100vh}
+#left,#right{background:#0b1712;border-color:#1f3b2d;padding:14px;overflow:auto}
+#left{border-right:1px solid #1f3b2d}
+#right{border-left:1px solid #1f3b2d}
+#main{position:relative;background:
+  radial-gradient(circle at 25% 20%,rgba(62,137,95,.22),transparent 28%),
+  radial-gradient(circle at 75% 80%,rgba(147,111,55,.18),transparent 32%),
+  #06100c}
+h1{font-size:13px;letter-spacing:2px;margin:0 0 12px;color:#9de0b1}
+h2{font-size:11px;color:#79aa82;border-bottom:1px solid #1f3b2d;padding-bottom:5px;margin:16px 0 8px}
+.meta{font-size:10px;color:#89a08d;line-height:1.45}
+.cluster{display:flex;align-items:center;gap:8px;padding:6px 7px;margin:3px 0;border-radius:5px;cursor:pointer;color:#cce4d1}
+.cluster:hover,.cluster.active{background:#153524}
+.dot{width:9px;height:9px;border-radius:50%;flex:0 0 auto}
+.count{margin-left:auto;color:#87a08c;font-size:10px}
+#search{width:100%;background:#09130f;border:1px solid #244633;color:#d8eadc;padding:8px;border-radius:5px}
+#toolbar{position:absolute;left:14px;right:14px;top:12px;display:flex;gap:8px;align-items:center;z-index:2}
+button{background:#143321;color:#d8eadc;border:1px solid #2f6144;border-radius:5px;padding:7px 9px;cursor:pointer;font-family:inherit;font-size:11px}
+button:hover{background:#1d4a30}
+#title{font-size:12px;color:#9de0b1;margin-left:6px}
+svg{width:100%;height:100%}
+.node{cursor:pointer;stroke:#06100c;stroke-width:1.5}
+.node.external{opacity:.52}
+.label{font-size:10px;fill:#d8eadc;pointer-events:none;text-shadow:0 1px 2px #000}
+.edge{stroke:#5c8f6a;stroke-opacity:.45;cursor:pointer}
+.edge.external{stroke:#8b7650;stroke-opacity:.32}
+.edge.selected{stroke:#fff;stroke-opacity:.95}
+.panelbox{background:#08130e;border:1px solid #1f3b2d;border-radius:6px;padding:10px;margin:8px 0}
+.kv{display:grid;grid-template-columns:110px 1fr;gap:4px;font-size:10px;margin:3px 0}
+.k{color:#89a08d}.v{color:#d8eadc;word-break:break-word}
+.listitem{font-size:10px;padding:5px;border-bottom:1px solid #183123;cursor:pointer}
+.listitem:hover{background:#122b1d}
+.src{font-size:9px;color:#a0b29f;word-break:break-all;margin:3px 0}
+.warn{color:#f3c66b}
+</style>
+</head>
+<body>
+<div id="app">
+  <aside id="left">
+    <h1>NINEREEDS · ATLAS</h1>
+    <div class="meta" id="summary"></div>
+    <h2>Search</h2>
+    <input id="search" placeholder="concept..." />
+    <h2>Clusters</h2>
+    <div id="clusters"></div>
+  </aside>
+  <main id="main">
+    <div id="toolbar">
+      <button id="showAll">All Clusters</button>
+      <button id="toggleExternal">Toggle External Links</button>
+      <span id="title"></span>
+    </div>
+    <svg id="svg"></svg>
+  </main>
+  <aside id="right">
+    <h1>INSPECTOR</h1>
+    <div id="inspect" class="meta">Click a cluster, concept, or edge.</div>
+    <h2>Connected Concepts</h2>
+    <div id="connections"></div>
+  </aside>
+</div>
+<script>
+const DATA = __DATA_JSON__;
+const PALETTE = __PALETTE_JSON__;
+let selectedCategory = DATA.categories[0]?.id || null;
+let showExternal = true;
+let selectedEdge = null;
+let selectedConcept = null;
+
+const svg = document.getElementById('svg');
+const clustersEl = document.getElementById('clusters');
+const inspectEl = document.getElementById('inspect');
+const connectionsEl = document.getElementById('connections');
+const titleEl = document.getElementById('title');
+document.getElementById('summary').innerHTML =
+  DATA.name + '<br>' + DATA.nConcepts + ' concepts · ' + DATA.nEdges + ' edges<br>threshold ' + DATA.threshold;
+
+function color(cat){ return PALETTE[cat] || '#7da883'; }
+function fmt(x){ return Number(x).toFixed(3); }
+function esc(s){ return String(s ?? '').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+function renderClusters(){
+  clustersEl.innerHTML = '';
+  DATA.categories.forEach(cat => {
+    const row = document.createElement('div');
+    row.className = 'cluster' + (cat.id === selectedCategory ? ' active' : '');
+    row.innerHTML = `<span class="dot" style="background:${color(cat.id)}"></span><span>${esc(cat.id)}</span><span class="count">${cat.count}</span>`;
+    row.onclick = () => { selectedCategory = cat.id; selectedConcept = null; selectedEdge = null; render(); };
+    clustersEl.appendChild(row);
+  });
+}
+
+function categoryConcepts(cat){
+  return DATA.concepts.filter(c => c.categories.includes(cat));
+}
+function edgeKey(e){ return e.source + '→' + e.target; }
+
+function graphForCategory(cat){
+  const primary = new Set(categoryConcepts(cat).map(c => c.id));
+  const edges = DATA.edges.filter(e => primary.has(e.source) || primary.has(e.target));
+  const visibleEdges = showExternal ? edges : edges.filter(e => primary.has(e.source) && primary.has(e.target));
+  const nodeIds = new Set();
+  visibleEdges.forEach(e => { nodeIds.add(e.source); nodeIds.add(e.target); });
+  primary.forEach(id => nodeIds.add(id));
+  const nodes = DATA.concepts.filter(c => nodeIds.has(c.id)).map(c => ({...c, primary: primary.has(c.id)}));
+  return {nodes, edges: visibleEdges, primary};
+}
+
+function layout(nodes, edges){
+  const w = svg.clientWidth || 900, h = svg.clientHeight || 700;
+  const cx = w/2, cy = h/2;
+  const primary = nodes.filter(n => n.primary);
+  const external = nodes.filter(n => !n.primary);
+  primary.forEach((n,i) => {
+    const a = (Math.PI*2*i)/Math.max(1, primary.length);
+    const r = Math.min(w,h)*0.22;
+    n.x = cx + Math.cos(a)*r;
+    n.y = cy + Math.sin(a)*r;
+  });
+  external.forEach((n,i) => {
+    const a = (Math.PI*2*i)/Math.max(1, external.length);
+    const r = Math.min(w,h)*0.39;
+    n.x = cx + Math.cos(a)*r;
+    n.y = cy + Math.sin(a)*r;
+  });
+}
+
+function render(){
+  renderClusters();
+  if (!selectedCategory) return;
+  titleEl.textContent = 'cluster: ' + selectedCategory + (showExternal ? ' · external links on' : ' · internal only');
+  const g = graphForCategory(selectedCategory);
+  layout(g.nodes, g.edges);
+  const byId = Object.fromEntries(g.nodes.map(n => [n.id,n]));
+  svg.innerHTML = '';
+
+  g.edges.forEach(e => {
+    const a = byId[e.source], b = byId[e.target];
+    if (!a || !b) return;
+    const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+    line.setAttribute('x1',a.x); line.setAttribute('y1',a.y); line.setAttribute('x2',b.x); line.setAttribute('y2',b.y);
+    line.setAttribute('class','edge ' + ((a.primary && b.primary) ? '' : 'external') + (selectedEdge && edgeKey(selectedEdge)===edgeKey(e) ? ' selected':''));
+    line.setAttribute('stroke-width', Math.max(1, (e.cosine - DATA.threshold + 0.02) * 16));
+    line.onclick = evt => { evt.stopPropagation(); selectedEdge = e; selectedConcept = null; inspectEdge(e); renderConnections(e.source); render(); };
+    svg.appendChild(line);
+  });
+
+  g.nodes.forEach(n => {
+    const circle = document.createElementNS('http://www.w3.org/2000/svg','circle');
+    circle.setAttribute('cx',n.x); circle.setAttribute('cy',n.y);
+    circle.setAttribute('r', Math.max(7, Math.min(18, 7 + n.probe_count*1.4)));
+    circle.setAttribute('fill', color(n.categories[0]));
+    circle.setAttribute('class','node ' + (n.primary ? '' : 'external'));
+    circle.onclick = evt => { evt.stopPropagation(); selectedConcept = n.id; selectedEdge = null; inspectConcept(n); renderConnections(n.id); render(); };
+    svg.appendChild(circle);
+    const text = document.createElementNS('http://www.w3.org/2000/svg','text');
+    text.setAttribute('x', n.x + 10); text.setAttribute('y', n.y + 4);
+    text.setAttribute('class','label');
+    text.textContent = n.id;
+    svg.appendChild(text);
+  });
+
+  if (selectedEdge) inspectEdge(selectedEdge);
+  else if (selectedConcept) inspectConcept(DATA.conceptsById[selectedConcept]);
+  else inspectCluster(selectedCategory, g);
+}
+
+function inspectCluster(cat, g){
+  const concepts = categoryConcepts(cat);
+  const internal = g.edges.filter(e => g.primary.has(e.source) && g.primary.has(e.target));
+  const external = g.edges.length - internal.length;
+  inspectEl.innerHTML = `<div class="panelbox">
+    <div class="kv"><div class="k">cluster</div><div class="v">${esc(cat)}</div></div>
+    <div class="kv"><div class="k">concepts</div><div class="v">${concepts.length}</div></div>
+    <div class="kv"><div class="k">internal edges</div><div class="v">${internal.length}</div></div>
+    <div class="kv"><div class="k">external edges</div><div class="v">${external}</div></div>
+  </div>`;
+  renderConnections(concepts[0]?.id);
+}
+
+function inspectConcept(c){
+  if (!c) return;
+  inspectEl.innerHTML = `<div class="panelbox">
+    <div class="kv"><div class="k">concept</div><div class="v">${esc(c.id)}</div></div>
+    <div class="kv"><div class="k">categories</div><div class="v">${esc(c.categories.join(', '))}</div></div>
+    <div class="kv"><div class="k">templates</div><div class="v">${esc(c.templates.join(', '))}</div></div>
+    <div class="kv"><div class="k">fire</div><div class="v">${c.avg_fire_rate.toFixed(5)}</div></div>
+    <div class="kv"><div class="k">active dims</div><div class="v">${c.active_dims}</div></div>
+  </div>
+  <h2>Top Neurons</h2>
+  <div class="panelbox">${c.top_neurons.map(n => `<div class="kv"><div class="k">${esc(n.label)}</div><div class="v">${n.fire_rate.toFixed(3)}</div></div>`).join('')}</div>
+  <h2>Sources</h2>
+  <div class="panelbox">${(c.source_corpus||[]).map(s=>`<div class="src">${esc(s)}</div>`).join('') || '<span class="warn">no source metadata</span>'}</div>`;
+}
+
+function inspectEdge(e){
+  const a = DATA.conceptsById[e.source], b = DATA.conceptsById[e.target];
+  inspectEl.innerHTML = `<div class="panelbox">
+    <div class="kv"><div class="k">edge</div><div class="v">${esc(e.source)} ↔ ${esc(e.target)}</div></div>
+    <div class="kv"><div class="k">cosine</div><div class="v">${fmt(e.cosine)}</div></div>
+    <div class="kv"><div class="k">jaccard</div><div class="v">${fmt(e.jaccard)}</div></div>
+    <div class="kv"><div class="k">same category</div><div class="v">${e.same_category ? 'yes' : '<span class="warn">no</span>'}</div></div>
+  </div>
+  <h2>Shared Neuron Evidence</h2>
+  <div class="panelbox">${e.shared_neurons.map(n => `<div class="kv"><div class="k">${esc(n.label)}</div><div class="v">shared ${n.shared.toFixed(3)} · ${esc(e.source)} ${n.source_fire.toFixed(3)} · ${esc(e.target)} ${n.target_fire.toFixed(3)}</div></div>`).join('') || '<span class="warn">not in top-neuron intersection</span>'}</div>
+  <h2>Sources</h2>
+  <div class="panelbox"><b>${esc(e.source)}</b>${(a.source_corpus||[]).slice(0,5).map(s=>`<div class="src">${esc(s)}</div>`).join('')}<br><b>${esc(e.target)}</b>${(b.source_corpus||[]).slice(0,5).map(s=>`<div class="src">${esc(s)}</div>`).join('')}</div>`;
+}
+
+function renderConnections(conceptId){
+  if (!conceptId){ connectionsEl.innerHTML = ''; return; }
+  const rows = DATA.edges.filter(e => e.source===conceptId || e.target===conceptId)
+    .sort((a,b) => (b.cosine+b.jaccard)-(a.cosine+a.jaccard))
+    .slice(0,80);
+  connectionsEl.innerHTML = rows.map(e => {
+    const other = e.source===conceptId ? e.target : e.source;
+    const cross = e.same_category ? '' : ' <span class="warn">cross</span>';
+    return `<div class="listitem" data-edge="${esc(edgeKey(e))}">${esc(other)} · cos ${fmt(e.cosine)} · jac ${fmt(e.jaccard)}${cross}</div>`;
+  }).join('');
+  [...connectionsEl.querySelectorAll('.listitem')].forEach((el, i) => {
+    el.onclick = () => { selectedEdge = rows[i]; selectedConcept = null; inspectEdge(rows[i]); render(); };
+  });
+}
+
+document.getElementById('showAll').onclick = () => { selectedCategory = DATA.categories[0]?.id || null; render(); };
+document.getElementById('toggleExternal').onclick = () => { showExternal = !showExternal; render(); };
+document.getElementById('search').oninput = e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (!q) { render(); return; }
+  const c = DATA.concepts.find(c => c.id.toLowerCase().includes(q));
+  if (c) { selectedCategory = c.categories[0]; selectedConcept = c.id; selectedEdge = null; render(); inspectConcept(c); renderConnections(c.id); }
+};
+
+DATA.conceptsById = Object.fromEntries(DATA.concepts.map(c => [c.id,c]));
+render();
+</script>
+</body>
+</html>'''
+
+
+def _dim_label(idx: int, n_head: int, neuron_dim: int) -> str:
+    layer = idx // (n_head * neuron_dim)
+    head = (idx % (n_head * neuron_dim)) // neuron_dim
+    neuron = idx % neuron_dim
+    return f"L{layer}H{head}N{neuron}"
+
+
+def cmd_atlas(args):
+    import numpy as np
+
+    name = getattr(args, "name", None)
+    out_npz, out_json, _ = _trace_paths(name)
+    if not out_npz.exists() or not out_json.exists():
+        sys.exit(f"Trace artifacts not found for {name}. Run: trace first.")
+
+    data = np.load(str(out_npz))
+    summary = json.loads(out_json.read_text(encoding="utf-8"))
+    concept_ids = [str(x) for x in data["concept_ids"]]
+    concept_fire = data["concept_fire_rates"]
+    concept_masks = data["concept_masks"]
+    concept_cos = data["concept_cosine"]
+    concept_jac = data["concept_jaccard"]
+    n_head = int(data["n_head"])
+    neuron_dim = int(data["neuron_dim"])
+
+    source_by_concept: dict[str, set[str]] = {}
+    for probe in summary.get("probes", []):
+        cid = probe.get("concept_id")
+        source = probe.get("source_corpus")
+        if cid and source:
+            if isinstance(source, list):
+                source_by_concept.setdefault(cid, set()).update(str(s) for s in source)
+            else:
+                source_by_concept.setdefault(cid, set()).add(str(source))
+
+    concept_meta = {c["concept_id"]: c for c in summary.get("concepts", [])}
+    top_neuron_count = max(args.top_neurons_per_concept, args.shared_pool)
+    top_by_concept: dict[str, list[tuple[int, float]]] = {}
+    concepts = []
+    for i, cid in enumerate(concept_ids):
+        rates = concept_fire[i]
+        k = min(top_neuron_count, rates.shape[0])
+        top_idx = np.argpartition(rates, -k)[-k:]
+        top_idx = top_idx[np.argsort(rates[top_idx])[::-1]]
+        top_pairs = [(int(idx), float(rates[idx])) for idx in top_idx if rates[idx] > 0]
+        top_by_concept[cid] = top_pairs
+        meta = concept_meta.get(cid, {})
+        source = sorted(source_by_concept.get(cid, set()) | set(meta.get("source_corpus", [])))
+        concepts.append({
+            "id": cid,
+            "categories": meta.get("categories", ["unknown"]),
+            "templates": meta.get("templates", []),
+            "probe_count": int(meta.get("probe_count", 1)),
+            "avg_fire_rate": float(meta.get("avg_fire_rate", float(rates.mean()))),
+            "active_dims": int(meta.get("active_dims", int(concept_masks[i].sum()))),
+            "source_corpus": source[:16],
+            "top_neurons": [
+                {
+                    "index": idx,
+                    "label": _dim_label(idx, n_head, neuron_dim),
+                    "fire_rate": rate,
+                }
+                for idx, rate in top_pairs[: args.top_neurons_per_concept]
+            ],
+        })
+
+    category_counts: dict[str, int] = {}
+    for concept in concepts:
+        for cat in concept["categories"]:
+            category_counts[cat] = category_counts.get(cat, 0) + 1
+    categories = [
+        {"id": cat, "count": count}
+        for cat, count in sorted(category_counts.items(), key=lambda x: (-x[1], x[0]))
+    ]
+
+    concept_pos = {cid: i for i, cid in enumerate(concept_ids)}
+    edges = []
+    for i, source in enumerate(concept_ids):
+        for j in range(i + 1, len(concept_ids)):
+            target = concept_ids[j]
+            cos = float(concept_cos[i, j])
+            jac = float(concept_jac[i, j])
+            if cos < args.edge_threshold and jac < args.jaccard_threshold:
+                continue
+            source_cats = set(concept_meta.get(source, {}).get("categories", []))
+            target_cats = set(concept_meta.get(target, {}).get("categories", []))
+            source_top = dict(top_by_concept[source][: args.shared_pool])
+            target_top = dict(top_by_concept[target][: args.shared_pool])
+            shared = []
+            for idx in set(source_top) & set(target_top):
+                sf = source_top[idx]
+                tf = target_top[idx]
+                shared.append({
+                    "index": idx,
+                    "label": _dim_label(idx, n_head, neuron_dim),
+                    "source_fire": sf,
+                    "target_fire": tf,
+                    "shared": min(sf, tf),
+                })
+            shared.sort(key=lambda x: x["shared"], reverse=True)
+            edges.append({
+                "source": source,
+                "target": target,
+                "cosine": cos,
+                "jaccard": jac,
+                "same_category": bool(source_cats & target_cats),
+                "shared_neurons": shared[: args.top_shared_neurons],
+            })
+
+    edges.sort(key=lambda e: (e["cosine"] + e["jaccard"]), reverse=True)
+    if args.max_edges and len(edges) > args.max_edges:
+        edges = edges[: args.max_edges]
+
+    atlas = {
+        "name": name or "brain_trace",
+        "threshold": args.edge_threshold,
+        "nConcepts": len(concepts),
+        "nEdges": len(edges),
+        "categories": categories,
+        "concepts": concepts,
+        "edges": edges,
+    }
+    palette = make_palette([c["id"] for c in categories])
+    html = _ATLAS_HTML_TEMPLATE
+    html = html.replace("__TITLE__", name or "brain_trace")
+    html = html.replace("__DATA_JSON__", json.dumps(atlas, separators=(",", ":"), ensure_ascii=False))
+    html = html.replace("__PALETTE_JSON__", json.dumps(palette, separators=(",", ":")))
+
+    stem = name if name else "brain_trace"
+    out_html = BRAIN_MAPS_DIR / f"{stem}_atlas.html"
+    out_html.write_text(html, encoding="utf-8")
+    print(f"Atlas saved: {out_html} ({out_html.stat().st_size // 1024} KB)")
+    print(f"Concepts: {len(concepts)}  Edges: {len(edges)}  Categories: {len(categories)}")
 
 
 # ---------------------------------------------------------------------------
@@ -1193,6 +2310,57 @@ def main():
     p_graph.add_argument("--name", default=None,
                          help="Must match --name used during probe")
     p_graph.set_defaults(func=cmd_graph)
+
+    p_trace = sub.add_parser("trace", help="Run richer concept trace and decision report")
+    p_trace.add_argument("--checkpoint", default=str(DEFAULT_CHECKPOINT))
+    p_trace.add_argument("--probes", default=None,
+                         help="Path to probe set JSONL. Omit to use built-in fallback probes.")
+    p_trace.add_argument("--name", default=None,
+                         help="Label for trace outputs.")
+    p_trace.add_argument("--positions", choices=["last", "prompt"], default="prompt",
+                         help="Token positions to summarize (default: prompt)")
+    p_trace.add_argument("--top-k", type=int, default=32,
+                         help="Top active dimensions to store per probe (default: 32)")
+    p_trace.add_argument("--edge-threshold", type=float, default=0.65,
+                         help="Concept connection threshold for cosine or Jaccard (default: 0.65)")
+    p_trace.add_argument("--generate", action="store_true",
+                         help="Generate an answer first, then trace prompt+answer and label output status.")
+    p_trace.add_argument("--max-new-tokens", type=int, default=96)
+    p_trace.add_argument("--temperature", type=float, default=0.8)
+    p_trace.add_argument("--top-k-sample", type=int, default=40,
+                         help="Sampling top-k for generation (default: 40)")
+    p_trace.set_defaults(func=cmd_trace)
+
+    p_trace_report = sub.add_parser("trace-report", help="Regenerate markdown report from a trace JSON")
+    p_trace_report.add_argument("--name", default=None,
+                                help="Must match --name used during trace")
+    p_trace_report.set_defaults(func=cmd_trace_report)
+
+    p_validate = sub.add_parser("validate-probes", help="Validate trace-ready probe metadata")
+    p_validate.add_argument("probes", nargs="+",
+                            help="Probe JSONL file(s) or directories containing *.jsonl")
+    p_validate.add_argument("--no-strict", action="store_true",
+                            help="Only require fields; skip consistency checks")
+    p_validate.add_argument("--max-errors", type=int, default=20,
+                            help="Maximum errors to print per file")
+    p_validate.set_defaults(func=cmd_validate_probes)
+
+    p_atlas = sub.add_parser("atlas", help="Generate drill-down concept atlas from trace artifacts")
+    p_atlas.add_argument("--name", default=None,
+                         help="Must match --name used during trace")
+    p_atlas.add_argument("--edge-threshold", type=float, default=0.75,
+                         help="Cosine threshold for concept links")
+    p_atlas.add_argument("--jaccard-threshold", type=float, default=0.75,
+                         help="Jaccard threshold for concept links")
+    p_atlas.add_argument("--top-neurons-per-concept", type=int, default=24,
+                         help="Top neurons shown in concept inspector")
+    p_atlas.add_argument("--shared-pool", type=int, default=256,
+                         help="Top neuron pool per concept used to find shared edge evidence")
+    p_atlas.add_argument("--top-shared-neurons", type=int, default=12,
+                         help="Shared neurons shown in edge inspector")
+    p_atlas.add_argument("--max-edges", type=int, default=20000,
+                         help="Maximum edges embedded in atlas HTML")
+    p_atlas.set_defaults(func=cmd_atlas)
 
     args = ap.parse_args()
 

@@ -4,69 +4,46 @@ Active tasks only. When a task is done: delete it here, add an entry to `history
 
 ---
 
-## Corpus redesign — campaign roadmap
+## Next Campaign Design
 
-Snowflake strategy: prove each layer before adding next. One campaign per step.
+### Design concept-card tutor loop / Mommy Says machine
 
-**C16 — COMPLETE. Winner: E4 (`checkpoints/c16_concept_anchoring_winner.pt`)**
-- Concept anchoring, simple questions, EN-only.
-- Peaked at E4 (shaped=0.996, flags=0, chat=9/12). E5 regressed → stopped.
-- Key finding: still learning at E4 vs prior campaigns peaking E2/E3. Recipe confirmed.
+Create the C18-ready design for per-concept adaptive teaching.
 
-**C16A — IN PROGRESS: paraphrase pass**
-- Every source file in `training_data/redesign/words/` gets a `_rephrase` sibling.
-- Same facts, varied question surface only.
-- Runner: `angle_aug.py --wave 1` → `aug_done.txt` progress
-- Log: `tmp/aug_rephrase_openrouter.log`
-- Train from C16 E4 winner once aug pass completes. Eval same signals.
-- Signal to watch: does on-topic chat rate improve beyond 9/12? Do weak-bucket after-hub scores recover?
+References:
 
-**C16B — NEXT: paraphrase + targeted structural augmentation**
-- Build new supplementary files (as `_supplement` siblings) targeting diagnosed weak buckets:
-  - **Food:** add explicit "X is food. People eat X." spine files; fix non-living boundary→negation files
-  - **Nature:** add `_category` angle ("A river is a natural thing.") to resolve water-overlap blur
-  - **Actions:** expand corpus (only 90 files); add action-spine angle ("Running is an action."); fix capability angle agent-bleeding
-  - **Emotions:** expand `_situation` angle to all emotions (grounding in observable scene)
-  - **Boundary (non-living):** convert "does X dream?" → negation ("An almond does not dream. An almond is not an animal.") for food, nature, colors
-- All new files are `_supplement` siblings alongside originals and `_rephrase` files.
-- Train from best C16A checkpoint.
+- C17 handoff: `training/logs/campaign_17_reports/01_handoff.md`
+- Tutor-loop spec: `training/pipeline/tutor_loop.md`
+- Existing Mommy Says design: `training/pipeline/mommy_says_machine.md`
+- Iteration schema: `training/pipeline/iteration_schema.md`
 
-**C16C — LATER: longer sentences (1–2 conjunctions)**
-- New generated files: "A dog is an animal that has fur and barks."
-- One relative clause or conjunction per sentence — not deeper.
-- Goal: start encoding relations between properties, not just flat property lists.
-- Particularly useful for weak buckets: "An almond is food that people eat." / "A river is a natural thing that flows across land." / "Happiness is a feeling that a person has when things are good."
-- Requires a new generator pass (not yet built). Build after C16B confirmed.
+Design points to resolve:
 
-**C17 — LATER: yes/no + negation (`angle_aug.py --wave 2`)**
+- concept-card schema and persistent concept state
+- prerequisite handling and dependency discovery
+- protected-anchor policy in scheduler config
+- PPP lesson generation interface for DeepSeek / LM Studio / template backends
+- Ninereeds inference, grading, and validation loop
+- training-answer extraction with block-size budgets
+- SRS scheduling across concept difficulty and answer complexity
+- promotion, rollback, and repair rules
+- output layout for logs, diagnosis, validated corpus, and failed turns
+- first prototype card set, likely `dog`, `tree`, `plant`, `animal`, `mammal`, `airport`, `airplane`, `water`, identity, and unknown-boundary anchors
 
-**C18 — LATER: natural chat phrasings (`angle_aug.py --wave 3`)**
-
-**C19 — LATER: stories**
-
-Each campaign waits for the previous to show a clear signal.
+Do not start broad training from C17 repair branches. Protected C17 checkpoint remains `core/c17_contrast_angle_1200_e4.pt`.
 
 ---
 
-## C16A paraphrase pass — monitoring
+## Pipeline Infrastructure
 
-- PID: 6576 (openrouter, 4 workers) — restarted clean 2026-06-22
-- Progress: `wc -l training_data/redesign/aug_done.txt`
-- Files done: 0/33966 at launch
-- ETA: ~5–6 hours from launch
-- After completion: update `training/corpus/redesign_c16a.txt` manifest → train 1 epoch from C16 E4
+- Extend `meta/scripts/campaign_runner.py` only after the tutor-loop design is settled.
+- Later experiment: single-domain specialist ladder, e.g. animals only, scaling from short Q/A to richer prose and checking whether competence survives when adding a second specialty.
 
 ---
 
-## Pipeline infrastructure
+## Standing
 
-- Build `meta/scripts/campaign_runner.py` — spec in `training/pipeline/pipeline.md`
-
----
-
-## Standing (no urgency)
-
-- Fix 387 inverted K-8 education files in `training_data/04_education/dialogues/`
-- Update `angle_gen.py` BUCKETS dict to match `rebucket.py` (24 buckets)
-- JP-specific corpus from imabi.org / guidetojapanese.org — if JP gap confirmed structural
-- Wiki splitting into single-concept files — needed for fine-grained ordering
+- Fix 387 inverted K-8 education files in `training_data/04_education/dialogues/`.
+- Update `angle_gen.py` BUCKETS dict to match `rebucket.py` if old redesign generator is reused.
+- JP-specific corpus from imabi.org / guidetojapanese.org if the JP gap is confirmed structural.
+- Wiki splitting into single-concept files for future fine-grained ordering.

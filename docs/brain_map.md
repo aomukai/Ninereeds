@@ -11,7 +11,7 @@ The model is treated less like a monolithic function approximator and more like 
 circuit atlas — closer to modular cortical recruitment than transformer-style feature
 superposition.
 
-## Current status: v1 scanner completed, v2 in design (2026-06-02)
+## Current status: v1 scanner completed, trace scanner added (2026-06-25)
 
 `meta/scripts/brain_map.py` records `xy_sparse` (Hebbian co-firing signal) at the last
 prompt-token position across all layers. A first pass on the C13 winner ran 180 probes
@@ -19,6 +19,14 @@ across 13 categories. Results and their correct interpretation are in the sectio
 
 **The scanner is real and useful as an activation-geometry diagnostic.**
 **It is not yet reliable enough to claim semantic cluster identity without further controls.**
+
+The newer `trace` workflow adds concept-level metadata, prompt-token firing frequency,
+co-firing overlap, generated-output status, and a Markdown report intended to inform the
+next corpus or training move. See `docs/brain_trace_manual.md`.
+
+For the current EN-first redesign corpus, use the generated probe set
+`training/corpus_admin/probe_sets/redesign_current.jsonl`. Regenerate it from
+`training_data/redesign/` with `meta/scripts/build_redesign_probe_set.py`.
 
 ## What the v1 scanner measures — and what it does not
 
@@ -120,6 +128,14 @@ etc. Never aggregate case categories.
 correlates with correct, incorrect, looping, or garbled behavior. The probe battery
 and the competency probe catalogue (`docs/probe_catalogue.md`) must be run together.
 
+**Trace-ready metadata is now required:** probe files should include `concept_id`,
+`template_id`, `language`, `construction_id`, `source_corpus`, `probe_role`, and
+`expected_behavior`. Validate with:
+
+```bash
+python meta/scripts/brain_map.py validate-probes training/corpus_admin/probe_sets
+```
+
 ## Plan
 
 ### Phase 1 — Activation-geometry scan (v1 complete)
@@ -132,12 +148,15 @@ and the competency probe catalogue (`docs/probe_catalogue.md`) must be run toget
 | `hubs` | `training/logs/brain_maps/<name>_hubs.json`, `_nohubs.png` | Hub detection + filtered heatmap |
 | `graph` | `training/logs/brain_maps/<name>_graph.html` | **Primary human-readable output** — 3D interactive node graph, double-click to open in browser |
 | `map` | `training/logs/brain_maps/<name>_similarity.png`, `_scatter.png` | Legacy static images (kept for archival) |
+| `trace` | `tmp/brain_trace_<name>.npz`, `training/logs/brain_maps/<name>_trace.json`, `_trace_report.md` | Concept-level firing/co-firing report for next-move decisions |
+| `validate-probes` | console validation report | Checks trace-ready probe metadata |
 
 **Standard eval sequence after every epoch:**
 ```bash
 python meta/scripts/brain_map.py probe --checkpoint $CKPT --probes <probe_set>.jsonl --name $NAME
 python meta/scripts/brain_map.py hubs  --name $NAME --threshold 0.7
 python meta/scripts/brain_map.py graph --name $NAME
+python meta/scripts/brain_map.py trace --checkpoint $CKPT --probes <probe_set>.jsonl --name $NAME --positions prompt
 ```
 
 Add `--name` flag before multi-checkpoint comparison so files don't overwrite each other.

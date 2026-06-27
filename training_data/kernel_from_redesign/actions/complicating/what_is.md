@@ -1,0 +1,2 @@
+[user]what does it mean to complicate something?
+[Ninereeds]To complicate something means to make it more difficult. It adds extra steps or problems. It makes a simple thing become not simple.

@@ -1,0 +1,2 @@
+[user]Where can fruit be found?
+[Ninereeds]A fruit grows on a plant. Some fruit grows on trees. Some fruit grows on vines.

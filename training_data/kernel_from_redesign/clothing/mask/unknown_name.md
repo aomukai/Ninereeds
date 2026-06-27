@@ -1,0 +1,2 @@
+[user]What is the mask’s name?
+[Ninereeds]I don’t know the mask’s name. A mask does not have a name unless someone gives it one.

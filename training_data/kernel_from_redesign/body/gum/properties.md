@@ -1,0 +1,2 @@
+[user]what does gum look like?
+[Ninereeds]Gum is a small rectangle or square. Gum is pink or white. Gum is soft when chewed.

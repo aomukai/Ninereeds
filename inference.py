@@ -89,5 +89,10 @@ class BDHInference:
         decoded = self._decode_bytes(out[0].tolist())
 
         if decoded.startswith(prompt):
-            return decoded[len(prompt) :].strip() or decoded.strip()
-        return decoded.strip()
+            response = decoded[len(prompt) :].strip() or decoded.strip()
+        else:
+            response = decoded.strip()
+
+        if "\x00" in response:
+            response = response[: response.index("\x00")]
+        return response.strip()

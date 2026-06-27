@@ -1,0 +1,2 @@
+[user]what does thunder sound like?
+[Ninereeds]Thunder sounds like a loud boom. Thunder can sound like a rumble. Thunder can sound like a crack.

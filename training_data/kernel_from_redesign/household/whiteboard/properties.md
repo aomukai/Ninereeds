@@ -1,0 +1,2 @@
+[user]what does a whiteboard look like?
+[Ninereeds]A whiteboard is a flat rectangle. A whiteboard is white. A whiteboard is shiny. A whiteboard has no texture.

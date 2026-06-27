@@ -1,0 +1,2 @@
+[user]can you tell me about commencing?
+[Ninereeds]Commencing is the act of starting or beginning something. It describes when an event or process begins.

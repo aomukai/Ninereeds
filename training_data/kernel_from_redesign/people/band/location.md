@@ -1,0 +1,2 @@
+[user]where does a band perform?
+[Ninereeds]A band performs on a stage. A band performs at concerts. A band can perform in a studio.

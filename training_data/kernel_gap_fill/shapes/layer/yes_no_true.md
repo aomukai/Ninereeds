@@ -1,0 +1,2 @@
+[user]Is a layer a shape?
+[Ninereeds]Yes. A layer is a shape.

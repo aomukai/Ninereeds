@@ -1,0 +1,2 @@
+[user]Can you tell me about straightening?
+[Ninereeds]Straightening removes a curve from something. Straightening makes something go in a line. Straightening changes the shape of something.

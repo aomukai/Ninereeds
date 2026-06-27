@@ -1,0 +1,2 @@
+[user]where do you find a dollhouse?
+[Ninereeds]A dollhouse is inside a building. A dollhouse can be in a home. A dollhouse can be in a toy store.

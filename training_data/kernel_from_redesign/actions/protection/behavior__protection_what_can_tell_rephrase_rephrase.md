@@ -1,0 +1,2 @@
+[user]What can you tell me about protections?
+[Ninereeds]Protection keeps things safe. A shield is protection. A parent gives protection to a child. Medicine is protection from sickness.
