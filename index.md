@@ -44,7 +44,7 @@ Last updated: 2026-06-28
 | C17 handoff | `training/logs/campaign_17_reports/01_handoff.md` |
 | Tutor loop design | `training/pipeline/tutor_loop.md` |
 | Mommy Says machine design | `training/pipeline/mommy_says_machine.md` |
-| Corpus redesign spec + curriculum tiers | `training_data/redesign.md` |
+| Archived corpus redesign spec + curriculum tiers | `archive/redesign.md` |
 | Pipeline automation design | `training/pipeline/pipeline.md` |
 | Corpus inventory, campaign history | `training/pipeline/curriculum_topology.md` |
 | Intervention registry, conventions | `training/pipeline/training.md` |
