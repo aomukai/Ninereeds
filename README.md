@@ -17,7 +17,7 @@ Ninereeds is a **Developmental Learner Model (DLM)**, not a web-scale LLM.
 
 The distinction matters:
 
-- It is small, around 25M parameters, so every malformed training example has outsized impact.
+- It is small, (around 25M, 150M, 604M, 1.2B parameters), so every malformed training example has outsized impact.
 - The goal is not broad language coverage. The goal is stable concept identity, grounded contrasts, and reliable answers under retrieval pressure.
 - Training is staged. Understanding, recalling, contrasting, and using a concept in richer contexts are treated as separate levels.
 - Evaluation is evidence-driven: chat logs, report cards, protected anchors, grounding evals, and brain maps are used to decide the next intervention.
