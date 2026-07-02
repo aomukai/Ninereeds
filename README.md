@@ -1,185 +1,159 @@
 # Ninereeds / BDH Cognitive OS
 
-![BDH Cognitive OS](BDH.png)
+![BDH Cognitive OS](docs/BDH.png)
 
 This repository has two closely related goals:
 
-1. **build the model itself** — a Developmental Learner Model (DLM) we are giving the proper name **Ninereeds**
-2. **build the future OS around that model** — the BDH Cognitive OS runtime, LoRA harness, artifact system, and offline learning workflow that will come after the model is ready for it
+1. **Build Ninereeds** — a small Developmental Learner Model trained through explicit curriculum, chat evidence, repair, and protected-anchor checks.
+2. **Build the future BDH Cognitive OS around it** — a runtime with artifacts, routing, LoRA/specialist paths, notifications, and offline consolidation once the model is ready for that layer.
 
-Right now, the center of gravity is the **active training loop**: the corpus is complete and Ninereeds is being trained and evaluated run by run, with per-epoch probes and shaped-score tracking driving each intervention decision.
-
-The OS/harness side is still important, but it is **not the current priority**. The long-term plan is to give Ninereeds a modular runtime with explicit routing, artifact logging, LoRA-based specialization, and offline consolidation. The near-term job is to make sure there is a real model worth building that system around.
-
-## What Kind of Model Is This
-
-Ninereeds is a **Developmental Learner Model (DLM)** — not a large language model.
-
-The distinction matters:
-- "Large" does not apply — Ninereeds is ~25M parameters. There is no error averaging from scale. Every malformed training file has outsized impact.
-- "Language" is not the defining point — the goal is not broad linguistic coverage but a coherent, well-grounded knowledge structure built through a staged curriculum. The learning behaviour more closely resembles a student working through a structured course than a model trained on web-scale text.
-- "Developmental" is the key word — Ninereeds is trained in phases, with curriculum sequencing, paraphrase pressure, and retrieval-frame sensitivity that mirror second-language acquisition patterns in human learners. Understanding a concept and reliably producing it under retrieval pressure are treated as distinct stages.
-
-The DLM framing shapes every design decision: curriculum ordering, drill sequencing, the 4-phase paraphrase arc, and why shaped score (shaper-routed inference) is the primary metric rather than raw perplexity.
+Current center of gravity: **Mommy Says Machine (MSM)**, a session-based training pipeline. The old broad `corpus -> epochs -> eval -> winner` campaign loop is now historical infrastructure, not the active procedure.
 
 ---
 
-## The Name
+## What Kind Of Model Is This
 
-The model's proper name is **Ninereeds**.
+Ninereeds is a **Developmental Learner Model (DLM)**, not a web-scale LLM.
 
-The name comes from Terry Pratchett's *The Colour of Magic*: Ninereeds is the name of a dragon in the novel. That keeps the naming lineage intact with Pathway's **Baby Dragon** architecture while giving this project's model a proper individual name instead of calling the model by the architecture name.
+The distinction matters:
 
-## What We Are Building
+- It is small, around 25M parameters, so every malformed training example has outsized impact.
+- The goal is not broad language coverage. The goal is stable concept identity, grounded contrasts, and reliable answers under retrieval pressure.
+- Training is staged. Understanding, recalling, contrasting, and using a concept in richer contexts are treated as separate levels.
+- Evaluation is evidence-driven: chat logs, report cards, protected anchors, grounding evals, and brain maps are used to decide the next intervention.
 
-### 1. The model
+The model's proper name is **Ninereeds**, inspired by the dragon name in Terry Pratchett's *The Colour of Magic*. The architecture lineage comes from Pathway's Baby Dragon / BDH work, but Ninereeds is this project's individual model.
 
-The intended model direction is:
-- trained from scratch rather than treated as a thin wrapper around an existing assistant
-- shaped through highly explicit curriculum design instead of broad noisy web-scale ingestion
-- grounded in staged language learning: early curriculum → wiki knowledge → bridge material → story layers → later training infrastructure
-- designed to become a boundary-aware, interest-forming, offline-capable core rather than a permanently internet-dependent chatbot
+## Current State
 
-### 2. The training data
+Active regime as of 2026-07-01:
 
-A large part of this repo is the construction of the training corpus itself.
+- **Training method:** MSM session training, not broad corpus pretraining.
+- **Protected baseline:** `core/c17_contrast_angle_1200_e4.pt`.
+- **Active work:** concept-card tutor loop, orchestration artifacts, schemas, sentinels, and the buffered micro-update backend.
+- **Update backend:** `meta/scripts/msm_micro_update.py`.
+- **Canonical runbook:** `training/pipeline/runbook.md`.
+- **Historical campaign infrastructure:** archived under `archive/training_pipeline/`.
 
-That work currently includes:
-- **Phase 1–5 rewritten curriculum** in `training_data/phases/`
-- **wiki corpus** in `training_data/wiki/`
-- **Phase 6 bridge** material in `training_data/phases/phase_6/`
-- **story-layer planning and batches** in `training_data/triplet_stories/`
+Do not continue from C17 repair branches unless an explicit recovery experiment chooses that path.
 
-This data work is not secondary bookkeeping. It is part of the model-building process itself.
+## Active MSM Pipeline
 
-### 3. The future OS / harness
+MSM is a closed-loop teaching pipeline, not one model:
 
-The repo also contains the planned and partially scaffolded path toward **BDH Cognitive OS**:
-- a runtime around the model
-- explicit session snapshots and disk artifacts
-- future LoRA selection / routing
-- specialist vs clean-core phases
-- offline dream / consolidation workflows
-- reproducible evaluation and verifier-style loops
+```text
+orchestrator plan
+  -> DeepSeek script generation
+  -> Gemma fixed-script execution
+  -> raw chat log
+  -> DeepSeek report card
+  -> orchestrator decision
+  -> optional replay / repair / probe / brain scan / buffered micro-update
+```
 
-That system matters, but it comes **after** the model is sufficiently real to justify it.
+The atomic unit is a **word/card session**. One session targets one concept or one repair objective. Raw chat logs are evidence only; they are never ingested directly as training data.
 
-## Current Project State
+Roles:
 
-At the moment, the repository is best understood as:
-- **active training loop** — corpus complete, multiple runs evaluated, run 6 in progress
-- **early runtime / harness scaffolding for later stages**
+- **Orchestrator** owns strategy, checkpoint protection, scheduling, update approval, and escalation.
+- **DeepSeek Flash** writes bounded scripts, grades raw logs, fills report cards, and proposes trainable turns.
+- **Gemma** executes fixed scripts mechanically against Ninereeds and writes raw logs.
+- **Hermes** watches logs and sentinel files, then notifies the user when automation needs attention.
 
-Concretely:
-- `bdh.py` and `core/` preserve the upstream BDH architecture/checkpoint artifacts; `core/` also receives epoch checkpoints during active training runs
-- `checkpoints/` holds the promoted best-of-run checkpoints (the lineage that matters)
-- `training_data/` is the completed corpus — no longer the primary area of active change
-- `training/logs/` is now the most actively evolving part of the repo: per-epoch probe results, eval scores, run reports
-- `docs/training.md` is the current authority — it contains the training harness design, intervention registry, and step-by-step manual
-- `todo.md` tracks the active training queue and checkpoint lineage
-- runtime files like `harness.py`, `inference.py`, `prompt_shaper.py`, and `eval.py` represent the OS-side direction, but the repo should not be read as "mainly a harness project"
+Only orchestrator-approved records copied into `approved_training.jsonl` may enter a micro-update.
 
 ## Repository Map
 
 ```text
-AGENTS.md                  implementation contract for coding agents
 README.md                  repository overview
-todo.md                    active training queue and checkpoint lineage
-docs/training.md           training authority: harness design + step-by-step manual
-archive/                   archived legacy queues/status docs
-bdh.py                     upstream BDH architecture reference (read-only)
-core/                      upstream checkpoint assets + active epoch checkpoints
-checkpoints/               promoted best-of-run checkpoints (the lineage)
-docs/                      design and planning documents
-inventory/                 allowlist.txt and word/concept lists
-meta/scripts/              batch runners, generators, verifiers
-training_data/             completed corpus: phases, wiki, lang, stories, reasoning
-training/logs/             run reports and training logs (primary active area)
-harness.py                 early runtime entry point / scaffold
-inference.py               BDH loading and generation wrapper
-prompt_shaper.py           prompt shaping layer
-eval.py                    prompt-shaping evaluation harness
-train.py                   training entry point
-loras/                     future skill/dream adapter area
+index.md                   fresh-session index and current active pointers
+todo.md                    active work queue
+history.md                 completed work log
+CLAUDE.md                  local operating constraints for agent sessions
+
+bdh.py                     upstream BDH architecture reference
+train.py                   training entry point used by legacy and MSM update paths
+eval.py                    shaped/diagnostic evaluation entry point
+harness.py                 early runtime / OS-side scaffold
+
+core/                      local working checkpoints; includes protected baseline
+checkpoints/               promoted checkpoint lineage
+docs/                      long-term design docs and diagnostic manuals
+inventory/                 word, concept, and dependency inventories
+meta/scripts/              generators, evaluators, campaign tools, MSM update backend
+
+training/pipeline/         active MSM docs, schemas, runbook, and contracts
+training/msm/              planned runtime state: sessions, buffers, updates, logs
+training/corpus/           generated campaign/update corpora
+training/corpus_admin/     corpus manifests, ordering, probe sets, and admin files
+training/logs/             campaign reports, grounding evals, brain maps, traces
+training/harness/          older harness policy/templates
+training_data/             generated curriculum/corpus source material
+
+archive/training_pipeline/ archived epoch-campaign pipeline docs and configs
+archive/                   other historical plans, scripts, reports, and queues
+loras/                     future specialist / adapter area
 ```
 
-## The Corpus (complete)
+## Active Pipeline References
 
-The training corpus lives under `training_data/`. The foundational corpus is complete; current additions focus on targeted grounding, reasoning drills, and intervention-driven refinement. It is not the primary area of active work, but understanding it helps understand what Ninereeds has been trained on.
+Start here for current training work:
 
-### Foundation curriculum — `training_data/phases/`
+| Need | File |
+|---|---|
+| Fresh-session orientation | `index.md` |
+| Active work queue | `todo.md` |
+| Executable MSM steps | `training/pipeline/runbook.md` |
+| MSM doctrine and constraints | `training/pipeline/training.md` |
+| Pipeline/dataflow map | `training/pipeline/pipeline.md` |
+| Mommy Says system boundary | `training/pipeline/mommy_says_machine.md` |
+| Concept-card tutor method | `training/pipeline/tutor_loop.md` |
+| Session/update decision semantics | `training/pipeline/iteration_schema.md` |
+| Sentinel contract | `training/pipeline/sentinel_files.md` |
+| Config contract | `training/pipeline/msm_config.md` |
+| Report-card schema | `training/pipeline/session_report_schema.md` and `.json` |
+| Training-turn schema | `training/pipeline/training_turn_schema.json` |
+| Update artifact contract | `training/pipeline/update_artifact_schema.md` |
+| Micro-update backend | `meta/scripts/msm_micro_update.py` |
 
-Six phases of tightly controlled `[user]`/`[Ninereeds]` dialogue files: concrete nouns, abstract adjectives, gerunds, bridge words, and more. Dependency-ordered so each concept builds on previously introduced vocabulary.
+When markdown and JSON disagree for a session, `report_card.json` is authoritative.
 
-### Language curriculum — `training_data/lang/`
+## Corpus And History
 
-Five levels covering multilingual word files (EN/DE/JP/ZH), semantic frames, dative/genitive constructions, spatial structures, and Q&A pairs. All five levels complete.
+The completed corpus work still matters, but it is no longer the main active loop.
 
-### Knowledge layer — `training_data/wiki/`
+- `training_data/` contains generated curriculum sources: phases, language material, wiki-style knowledge, stories, identity/boundary material, and reasoning data.
+- `training/corpus/` contains assembled campaign and update corpora.
+- `training/corpus_admin/` contains manifests, probe sets, kernel format notes, and ordering files.
+- `training/logs/` contains historical campaign reports, grounding evals, brain maps, and trace reports.
+- `archive/training_pipeline/` contains the deprecated epoch-campaign flow and C17 campaign configs.
 
-Grouped concept knowledge in question-answer style. Levels 1–4.
-
-### Story layers — `training_data/triplet_stories/`
-
-1345 narrative stories per language (EN/DE/JP/ZH) across four tiers. Teach how things act and relate in context. Interleaved with the phase corpus during training.
-
-### Reasoning — `training_data/reasoning/`
-
-27 EN reasoning and arithmetic files × 4 languages (EN/DE/JP/ZH). Currently subject to active experimentation via `oversample_cluster` intervention (see `docs/training.md`).
-
-## OS / Harness Direction
-
-The long-term system design lives in:
-- `docs/bdh_cognitive_os_design.md`
-
-That design describes a future runtime with:
-- core model + selected specialist path
-- artifact-first execution
-- clean-core reintegration
-- future LoRA routing / registry
-- offline dream-style consolidation
-
-Important clarification: this design is the **target architecture**, not the best one-line summary of the repo's present focus.
-
-A better present-tense summary is:
-
-> We are building Ninereeds first, and building BDH Cognitive OS around Ninereeds second.
+Use historical campaign files for evidence and comparison experiments. Do not treat them as the active training procedure.
 
 ## Core Rules
 
-- Never modify `bdh.py`
-- Never modify anything in `core/`
-- Never train during the live inference loop
-- Never silently mutate model weights during a run
-- Always write important outputs to disk
-- Keep specialist and clean-core phases separate once the OS-side runtime is active
+- Do not casually modify `bdh.py`.
+- Do not casually modify checkpoint files in `core/`.
+- Do not continue from C17 repair branches unless an explicit experiment chooses that path.
+- Never train from raw chat logs.
+- Never silently mutate weights during a run.
+- Always write important outputs to disk.
+- Keep report generation, orchestration decisions, and update approval as separate gates.
+- Protected-anchor regression blocks promotion.
 
-The fuller agent-facing contract is in [AGENTS.md](AGENTS.md).
+## Long-Term OS Direction
 
-## Useful Entry Points
+The future BDH Cognitive OS design lives in `docs/bdh_cognitive_os_design.md`.
 
-If you are trying to understand the repo quickly, start here:
+That target architecture includes:
 
-1. `README.md` — this file
-2. `docs/training.md` — training authority: harness design, intervention registry, manual
-3. `todo.md` — active run queue and checkpoint lineage
-4. `training/logs/run_6_report.md` — most recent run (in progress)
-5. `AGENTS.md` — implementation contract for coding agents
-6. `docs/bdh_cognitive_os_design.md` — long-term OS/harness direction
+- core model plus specialist paths
+- explicit routing and artifact-first execution
+- future LoRA routing / registry
+- clean-core reintegration
+- offline consolidation workflows
 
-## Active Training Scripts
-
-These are the primary tools in the current training loop:
-
-| Script | Role |
-|---|---|
-| `train.py` | Training entry point — runs epochs, saves per-epoch checkpoints |
-| `eval.py` | Shaped-score evaluation — primary metric for checkpoint selection |
-| `meta/scripts/probe.py` | 12-probe format diagnostic — run after every epoch |
-| `inference.py` | BDH loading and generation wrapper |
-| `prompt_shaper.py` | Prompt routing layer — drives the shaped score |
-
-The full procedure is in `docs/training.md`. The active run and checkpoint lineage are in `todo.md`.
+Present-tense summary: **build Ninereeds first, then build BDH Cognitive OS around Ninereeds.**
 
 ## Attribution
 
@@ -188,13 +162,13 @@ The upstream **BDH** architecture and the core implementation in `bdh.py` come f
 - Paper: <https://arxiv.org/abs/2509.26507>
 - Repository: <https://github.com/pathwaycom/bdh>
 
-This repository builds a broader project around that base: curriculum creation, active training runs with per-epoch evaluation, and the eventual OS/harness intended to support Ninereeds.
+This repository builds a broader project around that base: curriculum creation, active MSM training, diagnostic tooling, and the eventual OS/harness intended to support Ninereeds.
 
-**Ninereeds is a name inspired by Terry Pratchett’s Discworld. This project is not affiliated with or endorsed by the Pratchett estate.**
+**Ninereeds is a name inspired by Terry Pratchett's Discworld. This project is not affiliated with or endorsed by the Pratchett estate.**
 
 ## License
 
-- Upstream BDH core: original upstream repository license
-- Surrounding project files in this repo: MIT License unless noted otherwise
+- Upstream BDH core: original upstream repository license.
+- Surrounding project files in this repo: MIT License unless noted otherwise.
 
 © Andi Omukai
