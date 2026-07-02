@@ -31,6 +31,11 @@ running autonomous sessions.
     "allow_single_session_repair_update": true
   },
   "sentinel_contract": "training/pipeline/sentinel_files.md",
+  "codex_status_schema": "training/pipeline/codex_status_schema.json",
+  "codex_brake_schema": "training/pipeline/codex_brake_schema.json",
+  "active_campaign_policy_schema": "training/pipeline/active_campaign_policy_schema.json",
+  "word_queue_schema": "training/pipeline/word_queue_schema.json",
+  "auto_advance_state_schema": "training/pipeline/auto_advance_state_schema.json",
   "update_manifest_schema": "training/pipeline/update_manifest_schema.json",
   "update_candidate_eval_schema": "training/pipeline/update_candidate_eval_schema.json"
 }

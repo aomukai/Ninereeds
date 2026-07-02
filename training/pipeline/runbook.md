@@ -6,9 +6,10 @@ Open this document when running or supervising the active training loop.
 
 ## Step 0 — Orient
 
-Check for active sessions, pending reports, and human-attention sentinels.
+Check the Codex brake, active sessions, pending reports, and human-attention sentinels.
 
 ```bash
+test -f training/msm/state/codex_brake.json && cat training/msm/state/codex_brake.json || true
 ps aux | grep -E "gemma|ninereeds|chat" | grep -v grep
 find training/msm \( \
   -name HUMAN_ATTENTION \
@@ -22,6 +23,18 @@ find training/msm/sessions -maxdepth 2 -name report_card.json 2>/dev/null | tail
 
 States:
 
+- **Codex brake missing** — continue manually, but write a warning to
+  `training/msm/logs/orchestrator.jsonl` before autonomous work.
+- **Codex brake `continue`** — normal campaign mode.
+- **Codex brake `conservative_mode`** — avoid optional probes, broad scans, cleanup,
+  nonessential repo edits, and exploratory branches.
+- **Codex brake `finish_current_only`** — finish the current safe boundary, persist
+  state, then stop or sleep.
+- **Codex brake `pause_until_reset`** — do not launch a new session, call DeepSeek for
+  new work, or apply updates. Write a pause note to
+  `training/msm/logs/orchestrator.jsonl`, sleep until `reset_at` in an autonomous shell
+  loop, then re-read the brake.
+- **Codex brake `blocked_unknown_reset`** — write or preserve `BLOCKED` and stop.
 - **Session running** — monitor, do not launch another session for the same card.
 - **Raw log exists, report missing** — task DeepSeek to write the report card.
 - **Report exists, decision missing** — orchestrator reads the report and writes next plan.
@@ -70,6 +83,9 @@ The orchestrator writes a bounded plan for DeepSeek:
 - forbidden scope
 - whether proposed training turns may be extracted
 - whether a micro-update is allowed after the report
+
+Before writing or dispatching a new plan, re-check `training/msm/state/codex_brake.json`.
+Do not start new work when the action is `pause_until_reset` or `blocked_unknown_reset`.
 
 If the plan needs human input, write the configured sentinel file and stop.
 

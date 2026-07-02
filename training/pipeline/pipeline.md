@@ -34,6 +34,14 @@ training/msm/
     protected_anchors.json
     orchestrator_state.json
     orchestrator_config.json
+    codex_pane_snapshot.txt
+    codex_status.json
+    codex_status.md
+    codex_brake.json
+    active_campaign_policy.json
+    word_queue.json
+    auto_advance_state.json
+    trainbox_heartbeat.json
   plans/
     PLAN_ID.json
   sessions/
@@ -99,6 +107,77 @@ Required outputs:
 
 Notification and watchdog layer. Posts Discord reports and pings the user when a sentinel
 file appears.
+
+Hermes is a pager, not an agent. It may poll sentinel files, trainbox reachability,
+heartbeat freshness, disk/GPU status, and compact JSON/MD state files. It must not rewrite
+plans, approve updates, promote checkpoints, repair corpus files, mutate concept state, or
+run broad repository analysis.
+
+### Codex Brake
+
+Codex should run inside a tmux session named `codex` when the autonomous loop is active:
+
+```bash
+tmux new -s codex 'cd ~/Ninereeds && codex'
+```
+
+Use Codex `/statusline` only to configure what the interactive `/status` display shows.
+The visible status should include rate limits, token counters, context stats, session ID,
+and project root. The watchdog observes the pane passively:
+
+```bash
+python3 meta/scripts/watch_codex_status.py
+```
+
+The watchdog writes `training/msm/state/codex_status.json`,
+`training/msm/state/codex_status.md`, and `training/msm/state/codex_brake.json`.
+`codex_status.json` is observational. `codex_brake.json` is normative and must be read
+before starting a new orchestration boundary.
+
+Do not monitor by sending `/status` or `/statusline` into the live Codex session. The
+watchdog should only use `tmux capture-pane` against already-visible output.
+
+Brake actions:
+
+- `continue` — proceed normally.
+- `conservative_mode` — skip optional probes, cleanup, broad scans, and exploratory work.
+- `finish_current_only` — finish the current safe boundary, persist state, then stop or
+  sleep.
+- `pause_until_reset` — do not launch sessions, call DeepSeek for new work, or apply
+  updates until reset is confirmed.
+- `blocked_unknown_reset` — preserve or write `BLOCKED` and stop.
+
+Schemas:
+
+- `training/pipeline/codex_status_schema.json`
+- `training/pipeline/codex_brake_schema.json`
+
+### Auto-Advance Policy
+
+Codex may authorize bounded DeepSeek auto-advance through:
+
+- `training/msm/state/active_campaign_policy.json`
+- `training/msm/state/word_queue.json`
+- `training/msm/state/auto_advance_state.json`
+
+DeepSeek may only choose one of:
+
+- `PASS_AUTONEXT`
+- `PASS_BUT_BUFFER`
+- `RETRY_SAME_WORD`
+- `ESCALATE_CODEX`
+- `ESCALATE_HUMAN`
+
+DeepSeek must escalate instead of auto-advancing when the policy boundary is reached,
+failure repeats beyond retry limits, protected anchors fail, an update/promotion decision
+is ready, artifacts conflict, uncertainty is high, the queue is exhausted, or the Codex
+brake blocks new work.
+
+Schemas:
+
+- `training/pipeline/active_campaign_policy_schema.json`
+- `training/pipeline/word_queue_schema.json`
+- `training/pipeline/auto_advance_state_schema.json`
 
 ---
 

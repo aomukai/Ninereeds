@@ -41,3 +41,9 @@ Sentinel files should contain a short JSON object when possible:
 ```
 
 Plain text is acceptable during crashes.
+
+## Codex Rate-Limit Blockers
+
+Do not add a separate Codex rate-limit sentinel. If the Codex status watchdog cannot parse
+the reset state or detects a condition that cannot safely auto-resume, use `BLOCKED` with
+`source` set to `codex_status_watchdog` or `orchestrator`.

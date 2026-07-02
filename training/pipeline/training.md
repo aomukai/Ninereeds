@@ -87,14 +87,25 @@ Responsibilities:
 
 ### Hermes
 
-Hermes is the watchdog and notification layer.
+Hermes is the watchdog and notification layer. It is a pager, not an orchestrator.
 
 Responsibilities:
-- read orchestrator logs
+- poll sentinel files and compact status files
+- check trainbox reachability, heartbeat freshness, disk status, and GPU status through
+  deterministic commands
+- read `training/msm/state/codex_status.md` and report Codex burn-rate summaries
 - post Discord status summaries
 - detect sentinel files requiring human attention
 - ping the user when a crash, missing key, exhausted credits, blocked decision, or
   machine intervention requires manual action
+
+Forbidden:
+- rewrite plans or TODO files
+- approve updates or promote checkpoints
+- repair corpus files
+- decide campaign strategy
+- mutate concept state
+- run broad LLM analysis over repository context
 
 ---
 
@@ -113,6 +124,31 @@ noise, letters, malformed fragments, word-like text, and semantically wrong sent
 before coherent answers appear. Cold-start procedures must use different success gates.
 The active baseline is already past the pre-lexical stage; no special byte-noise session
 mode is needed for the bootstrapped C17 path.
+
+## Codex Rate-Limit Brake
+
+Codex is the campaign brain and should not spend reasoning tokens on repetitive IO,
+log-watching, or routine auto-advance decisions. During autonomous operation, an external
+watchdog observes the Codex tmux pane and writes:
+
+- `training/msm/state/codex_status.json`
+- `training/msm/state/codex_status.md`
+- `training/msm/state/codex_brake.json`
+
+Before starting a new orchestration boundary, the orchestrator must read
+`codex_brake.json`. If it is missing, continue only in manual mode and record a warning in
+`training/msm/logs/orchestrator.jsonl`.
+
+Actions:
+
+- `continue` — normal campaign mode.
+- `conservative_mode` — no optional probes, scans, cleanup, or exploratory branches.
+- `finish_current_only` — finish the current safe boundary, persist state, then stop.
+- `pause_until_reset` — do not launch sessions, call DeepSeek for new work, or apply
+  updates.
+- `blocked_unknown_reset` — write or preserve `BLOCKED` and stop.
+
+The default watchdog is `meta/scripts/watch_codex_status.py`.
 
 ---
 

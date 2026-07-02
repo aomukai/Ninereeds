@@ -44,6 +44,8 @@ Do not continue from C17 repair branches unless an explicit recovery experiment 
 | Concept-card tutor method | `training/pipeline/tutor_loop.md` |
 | Sentinel files | `training/pipeline/sentinel_files.md` |
 | MSM config contract | `training/pipeline/msm_config.md` |
+| Codex brake/status schemas | `training/pipeline/codex_brake_schema.json` + `training/pipeline/codex_status_schema.json` |
+| Auto-advance schemas | `training/pipeline/active_campaign_policy_schema.json`, `training/pipeline/word_queue_schema.json`, `training/pipeline/auto_advance_state_schema.json` |
 | Session report schema | `training/pipeline/session_report_schema.md` + `.json` |
 | Training turn schema | `training/pipeline/training_turn_schema.json` |
 | Update artifact schema | `training/pipeline/update_artifact_schema.md` |
@@ -51,6 +53,7 @@ Do not continue from C17 repair branches unless an explicit recovery experiment 
 | Update candidate eval schema | `training/pipeline/update_candidate_eval_schema.json` |
 | Orchestrator config schema | `training/pipeline/orchestrator_config_schema.json` |
 | Micro-update backend | `meta/scripts/msm_micro_update.py` |
+| Codex status watchdog | `meta/scripts/watch_codex_status.py` |
 
 ---
 
