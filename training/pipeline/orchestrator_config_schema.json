@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ninereeds.local/schemas/msm_orchestrator_config_v1.json",
+  "title": "MSM Orchestrator Config",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "protected_best",
+    "thresholds",
+    "buffer_policy",
+    "sentinel_contract",
+    "update_manifest_schema",
+    "update_candidate_eval_schema"
+  ],
+  "properties": {
+    "schema_version": {"const": "msm_orchestrator_config_v1"},
+    "protected_best": {"type": "string", "minLength": 1},
+    "thresholds": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "max_malformed_rate",
+        "max_repetition_collapse",
+        "max_empty_or_near_empty_rate"
+      ],
+      "properties": {
+        "max_malformed_rate": {"type": "number", "minimum": 0, "maximum": 1},
+        "max_repetition_collapse": {"type": "integer", "minimum": 0},
+        "max_empty_or_near_empty_rate": {"type": "number", "minimum": 0, "maximum": 1}
+      }
+    },
+    "buffer_policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "min_proposed_turns_for_update",
+        "min_approved_turns_for_update",
+        "max_sessions_per_buffer",
+        "allow_single_session_repair_update"
+      ],
+      "properties": {
+        "min_proposed_turns_for_update": {"type": "integer", "minimum": 1},
+        "min_approved_turns_for_update": {"type": "integer", "minimum": 1},
+        "max_sessions_per_buffer": {"type": "integer", "minimum": 1},
+        "allow_single_session_repair_update": {"type": "boolean"}
+      }
+    },
+    "sentinel_contract": {"type": "string", "minLength": 1},
+    "update_manifest_schema": {"type": "string", "minLength": 1},
+    "update_candidate_eval_schema": {"type": "string", "minLength": 1}
+  }
+}

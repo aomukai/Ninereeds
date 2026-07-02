@@ -715,9 +715,6 @@ def check_training_audit() -> None:
 
 
 def main() -> None:
-    # --- Audit check ---
-    check_training_audit()
-
     parser = argparse.ArgumentParser(description="BDH curriculum trainer")
     parser.add_argument("--phase", type=int, default=0, choices=[0, 1, 2, 3, 4, 5],
                         help="Training phase (0=full corpus run, 1–5=legacy phases; default: 0)")
@@ -749,6 +746,9 @@ def main() -> None:
                         help="Disable per-epoch data shuffling and consume batches in source order")
     parser.add_argument("--allow-fresh-start", action="store_true",
                         help="Explicitly allow phase 2+ training without --resume")
+    parser.add_argument("--skip-training-audit", action="store_true",
+                        help="Bypass the legacy repo-wide training_activation_audit.md gate. "
+                             "Only for audited MSM micro-updates or other explicitly gated wrappers.")
     parser.add_argument("--jsonl-data", type=Path, default=None,
                         help="Optional prompt/completion JSONL training file (overrides phase text data)")
     parser.add_argument("--mask-instruction-loss", action="store_true",
@@ -776,6 +776,12 @@ def main() -> None:
     parser.add_argument("--device", type=str, default=None,
                         help="Device: cpu / cuda / mps (auto-detected if omitted)")
     args = parser.parse_args()
+
+    # --- Audit check ---
+    if args.skip_training_audit:
+        print("  Training audit: SKIPPED by explicit --skip-training-audit")
+    else:
+        check_training_audit()
 
     # Resolve defaults
     defaults = PHASE_DEFAULTS[args.phase]
