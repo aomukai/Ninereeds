@@ -22,7 +22,7 @@ find training/msm \( \
 | `HUMAN_ATTENTION` | A human decision or manual fix is required. | Hermes pings the user. Automation pauses for that branch. |
 | `BLOCKED` | Automation cannot continue safely from available information. | Hermes reports blocker; orchestrator waits. |
 | `TRAINING_MACHINE_DOWN` | Local training/session machine or GPU worker is unavailable. | Hermes pings user; do not retry in a tight loop. |
-| `API_CREDITS_EXHAUSTED` | Paid API worker cannot continue because key/credits/rate limit failed. | Hermes pings user; executor stops paid calls. |
+| `API_CREDITS_EXHAUSTED` | Optional remote/API worker cannot continue because key/credits/rate limit failed. | Hermes pings user; executor stops remote calls. |
 | `PROMOTION_REVIEW_REQUIRED` | An update candidate passed automatic gates but needs manual approval. | Hermes pings user; do not promote automatically. |
 
 ## File Body

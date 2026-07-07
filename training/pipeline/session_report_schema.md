@@ -1,9 +1,10 @@
 # MSM Session Report Schema
 
-DeepSeek fills these artifacts after every session. The orchestrator reads the JSON.
+The executor fills these artifacts after every session. The orchestrator reads the JSON.
 
 Machine-readable schema: `training/pipeline/session_report_schema.json`.
 Training-turn record schema: `training/pipeline/training_turn_schema.json`.
+Script/raw-log schemas: `training/pipeline/script_and_raw_log_schema.md`.
 
 ---
 
@@ -19,32 +20,37 @@ Required top-level fields:
   "card_id": "string",
   "checkpoint_before": "string",
   "checkpoint_after": "string|null",
-  "session_mode": "scripted_gemma_session|deepseek_adaptive_session|probe_session|repair_replay_session|contrast_session|protected_anchor_session",
+  "session_mode": "scripted_trainer_session|probe_session|repair_replay_session|contrast_session|protected_anchor_session",
   "script": {
     "script_id": "string",
     "script_author": "string",
-    "script_mode": "fixed|adaptive_plan",
+    "script_mode": "fixed",
     "orchestrator_plan_id": "string",
     "intended_stage": "string",
     "intended_failure_targets": ["string"]
   },
   "counts": {
-    "total_turns": 0,
-    "ninereeds_answer_turns": 0,
-    "correct": 0,
-    "partially_correct": 0,
-    "incorrect": 0,
-    "on_topic": 0,
-    "off_topic": 0,
+    "script_items": 0,
+    "ninereeds_original_answers": 0,
+    "ninereeds_after_correction_answers": 0,
+    "original_correct": 0,
+    "original_wrong_on_topic": 0,
+    "original_wrong_off_topic": 0,
+    "after_correction_correct": 0,
+    "after_correction_wrong_on_topic": 0,
+    "after_correction_wrong_off_topic": 0,
     "malformed": 0,
     "repetition_collapse": 0,
     "empty_or_near_empty": 0
   },
   "scores": {
-    "correct_rate": 0.0,
+    "original_correct_rate": 0.0,
+    "after_correction_correct_rate": 0.0,
     "on_topic_rate": 0.0,
     "malformed_rate": 0.0,
-    "session_passed": false
+    "session_passed": false,
+    "executor_may_auto_advance": false,
+    "requires_orchestrator": true
   },
   "failure_modes": [],
   "successful_axes": [],
@@ -60,8 +66,8 @@ Required top-level fields:
     "extraction_file": "proposed_training.jsonl|null",
     "do_not_train_raw_log": true
   },
-  "deepseek_recommendation": {
-    "recommendation_type": "accept|continue|repair_replay|probe|brain_scan|micro_update|escalate|reject",
+  "executor_recommendation": {
+    "recommendation_type": "accept|continue_same_word|continue_next_word|repair_replay|probe|brain_scan|micro_update|escalate|reject",
     "suggested_next_session_mode": "string|null",
     "suggested_focus": [],
     "requires_orchestrator_decision": true,
@@ -78,12 +84,13 @@ Required top-level fields:
 }
 ```
 
-For `scripted_gemma_session`, `script_mode` is `fixed` and `script_deviation` applies.
-For `deepseek_adaptive_session`, `script_mode` is `adaptive_plan`; `script.json` records
-the intended plan and `script_deviation` should not be used for normal adaptive turns.
+`card_id` and `concept` may be identical for simple cards. They should diverge when one
+concept has multiple staged cards, such as `cat_boundary_l1` for concept `cat` or
+`potato_food_l1` for concept `potato`. Multi-cluster concepts should report the specific
+cluster card being taught, not only the base concept.
 
-`card_id` and `concept` may be identical for simple cards. They may diverge when one
-concept has multiple teaching cards, such as `cat_boundary_l1` for concept `cat`.
+`requires_orchestrator_decision` may be `false` only when the active campaign policy allows
+the executor to auto-advance and no escalation condition fired.
 
 ---
 
@@ -93,7 +100,7 @@ concept has multiple teaching cards, such as `cat_boundary_l1` for concept `cat`
 {
   "type": "same_category_confusion",
   "severity": "low|medium|high|critical",
-  "turn_ids": ["t006"],
+  "item_ids": ["i006"],
   "example": "A cat is a dog.",
   "interpretation": "Cat and dog share animal category, but identity boundary failed."
 }
@@ -117,31 +124,41 @@ Common failure types:
 
 ## `turn_grades.jsonl`
 
-One object per Ninereeds answer turn:
+One object per scripted item:
 
 ```json
 {
-  "turn_id": "t006",
-  "prompt": "Is a cat a dog?",
-  "ninereeds_answer": "A cat is an animal. A dog is an animal. A cat is a dog.",
-  "grade": "pass|partial|fail|ungradable",
-  "on_topic": true,
+  "item_id": "i006",
+  "user_prompt": "Is a cat a dog?",
+  "ninereeds_original_answer": "A cat is an animal. A dog is an animal. A cat is a dog.",
+  "teacher_correction": "A cat is not a dog.",
+  "ninereeds_after_correction_answer": "A cat is not a dog.",
+  "original_answer_status": "wrong_on_topic",
+  "after_correction_status": "correct",
   "malformed": false,
   "failure_modes": ["same_category_confusion"],
-  "required_hits": ["cat", "animal", "dog"],
+  "required_hits": ["cat", "dog"],
   "required_misses": ["not a dog"],
   "forbidden_hits": ["cat is a dog"],
-  "eligible_for_training": false,
-  "suggested_correction": "A cat is an animal. A dog is an animal. A cat is not a dog."
+  "eligible_for_training": true,
+  "suggested_correction": "A cat is not a dog."
 }
 ```
+
+Allowed answer statuses:
+
+- `correct`
+- `wrong_on_topic`
+- `wrong_off_topic`
+- `ungradable`
+- `not_applicable` for `after_correction_status` only
 
 ---
 
 ## `proposed_training.jsonl`
 
-DeepSeek writes grading-validated proposed turns here. These are not approved for weight
-updates until the orchestrator copies accepted records into an update buffer as
+The executor writes grading-validated proposed turns here. These are not approved for
+weight updates until the orchestrator copies accepted records into an update buffer as
 `approved_training.jsonl`.
 
 ```json
@@ -150,12 +167,12 @@ updates until the orchestrator copies accepted records into an update buffer as
   "session_id": "string",
   "concept": "cat",
   "card_id": "cat_boundary_l1",
-  "turn_id": "t006_repair",
+  "turn_id": "i006_repair",
   "prompt": "[user]Is a cat a dog?\n[Ninereeds]",
-  "training_answer": "A cat is an animal. A dog is an animal. A cat is not a dog.",
-  "source": "deepseek_proposed_correction",
+  "training_answer": "A cat is not a dog.",
+  "source": "executor_proposed_correction",
   "target_failure": "same_category_confusion",
-  "deepseek_validated": true,
+  "executor_validated": true,
   "orchestrator_approved": false
 }
 ```

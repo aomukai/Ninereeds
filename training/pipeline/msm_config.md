@@ -22,7 +22,9 @@ running autonomous sessions.
   "thresholds": {
     "max_malformed_rate": 0.10,
     "max_repetition_collapse": 0,
-    "max_empty_or_near_empty_rate": 0.10
+    "max_empty_or_near_empty_rate": 0.10,
+    "min_correct_items_to_continue": 1,
+    "max_off_topic_answers_to_continue": 0
   },
   "buffer_policy": {
     "min_proposed_turns_for_update": 5,
@@ -33,6 +35,8 @@ running autonomous sessions.
   "sentinel_contract": "training/pipeline/sentinel_files.md",
   "codex_status_schema": "training/pipeline/codex_status_schema.json",
   "codex_brake_schema": "training/pipeline/codex_brake_schema.json",
+  "script_schema": "training/pipeline/script_schema.json",
+  "raw_chat_line_schema": "training/pipeline/raw_chat_line_schema.json",
   "active_campaign_policy_schema": "training/pipeline/active_campaign_policy_schema.json",
   "word_queue_schema": "training/pipeline/word_queue_schema.json",
   "auto_advance_state_schema": "training/pipeline/auto_advance_state_schema.json",
@@ -52,7 +56,7 @@ Approved buffers live under:
 
 `training/msm/buffers/BUFFER_ID/approved_training.jsonl`
 
-DeepSeek never writes this file directly. The orchestrator creates it by selecting records
+The executor never writes this file directly. The orchestrator creates it by selecting records
 from one or more `proposed_training.jsonl` files.
 
 An update manifest must not be written unless the approved buffer contains at least

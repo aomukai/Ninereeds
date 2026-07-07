@@ -12,6 +12,8 @@
     "sentinel_contract",
     "codex_status_schema",
     "codex_brake_schema",
+    "script_schema",
+    "raw_chat_line_schema",
     "active_campaign_policy_schema",
     "word_queue_schema",
     "auto_advance_state_schema",
@@ -27,12 +29,16 @@
       "required": [
         "max_malformed_rate",
         "max_repetition_collapse",
-        "max_empty_or_near_empty_rate"
+        "max_empty_or_near_empty_rate",
+        "min_correct_items_to_continue",
+        "max_off_topic_answers_to_continue"
       ],
       "properties": {
         "max_malformed_rate": {"type": "number", "minimum": 0, "maximum": 1},
         "max_repetition_collapse": {"type": "integer", "minimum": 0},
-        "max_empty_or_near_empty_rate": {"type": "number", "minimum": 0, "maximum": 1}
+        "max_empty_or_near_empty_rate": {"type": "number", "minimum": 0, "maximum": 1},
+        "min_correct_items_to_continue": {"type": "integer", "minimum": 0},
+        "max_off_topic_answers_to_continue": {"type": "integer", "minimum": 0}
       }
     },
     "buffer_policy": {
@@ -54,6 +60,8 @@
     "sentinel_contract": {"type": "string", "minLength": 1},
     "codex_status_schema": {"type": "string", "minLength": 1},
     "codex_brake_schema": {"type": "string", "minLength": 1},
+    "script_schema": {"type": "string", "minLength": 1},
+    "raw_chat_line_schema": {"type": "string", "minLength": 1},
     "active_campaign_policy_schema": {"type": "string", "minLength": 1},
     "word_queue_schema": {"type": "string", "minLength": 1},
     "auto_advance_state_schema": {"type": "string", "minLength": 1},

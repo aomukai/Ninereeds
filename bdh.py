@@ -10,6 +10,18 @@ from torch import nn
 
 @dataclasses.dataclass
 class BDHConfig:
+    """Configuration for the BDH reference model.
+
+    The default values preserve the upstream-style BDH implementation in this
+    repository. Experimental fields are intentionally opt-in so older
+    checkpoints and baseline training runs do not silently change behavior.
+
+    Experimental variants:
+    - ``bdh_v1``: default behavior; all temporal additions disabled.
+    - ``temporal_decay``: enables causal attention distance decay.
+    - ``ctm_lite``: enables the cheap CTM-inspired temporal knobs below.
+    """
+
     n_layer: int = 6
     n_embd: int = 256
     dropout: float = 0.1
@@ -17,6 +29,73 @@ class BDHConfig:
     mlp_internal_dim_multiplier: int = 128
     vocab_size: int = 256
     per_layer_weights: bool = False
+    architecture_variant: str = "bdh_v1"
+
+    # CTM-inspired temporal memory: mix each sparse activation vector with a
+    # causal history of previous sparse activations before attention/MLP use.
+    # 0.0 disables the path exactly.
+    activation_history_mix: float = 0.0
+    activation_history_decay: float = 0.5
+    activation_history_target: str = "x"
+    activation_history_max_mix: float = 0.5
+    learned_activation_history: bool = False
+
+    # Distance decay for causal attention. None disables the path exactly.
+    # Values are positive decay rates; larger values forget distant tokens more.
+    attention_decay: float | None = None
+    learned_attention_decay: bool = False
+
+    # Fixed whole-stack recurrent passes. A value of 1 is the original model.
+    compute_ticks: int = 1
+
+    # Inference-only adaptive compute. Generation can stop early when the last
+    # token distribution stabilizes across compute ticks. The architecture
+    # variants do not enable this automatically; set it for generation/eval
+    # policy experiments.
+    adaptive_compute: bool = False
+    adaptive_min_ticks: int = 1
+    adaptive_max_ticks: int = 1
+    adaptive_logit_delta_threshold: float = 0.0
+
+
+def bdh_v1_config(**overrides) -> BDHConfig:
+    """Return the unchanged baseline BDH configuration."""
+    return BDHConfig(**overrides)
+
+
+def bdh_temporal_decay_config(**overrides) -> BDHConfig:
+    """Return BDH with only causal attention distance decay enabled.
+
+    This is the narrowest controlled variant: it tests whether explicit
+    forgetting of distant activations improves stability without adding
+    activation-history or adaptive-compute paths.
+    """
+    values = {
+        "architecture_variant": "temporal_decay",
+        "attention_decay": 0.001,
+    }
+    values.update(overrides)
+    return BDHConfig(**values)
+
+
+def bdh_ctm_lite_config(**overrides) -> BDHConfig:
+    """Return the CTM-inspired BDH variant for exploratory runs.
+
+    This combines two lightweight temporal mechanisms: causal attention decay
+    and sparse activation history. Training still uses fixed compute ticks
+    unless ``compute_ticks`` is explicitly raised above 1. Adaptive generation
+    is intentionally left disabled unless requested separately.
+    """
+    values = {
+        "architecture_variant": "ctm_lite",
+        "attention_decay": 0.001,
+        "activation_history_mix": 0.1,
+        "activation_history_decay": 0.5,
+        "activation_history_target": "x",
+        "compute_ticks": 1,
+    }
+    values.update(overrides)
+    return BDHConfig(**values)
 
 
 def get_freqs(n, theta, dtype):
@@ -40,6 +119,12 @@ class Attention(torch.nn.Module):
         self.freqs = torch.nn.Buffer(
             get_freqs(N, theta=2**16, dtype=torch.float32).view(1, 1, 1, N)
         )
+        if config.attention_decay is not None and config.learned_attention_decay:
+            raw_decay = math.log(math.expm1(max(float(config.attention_decay), 1e-6)))
+            decay = torch.full((nh, 1, 1), raw_decay)
+            self.attention_decay = nn.Parameter(decay)
+        else:
+            self.attention_decay = None
 
     @staticmethod
     def phases_cos_sin(phases):
@@ -72,6 +157,20 @@ class Attention(torch.nn.Module):
 
         # Current attention
         scores = (QR @ KR.mT).tril(diagonal=-1)
+        if self.config.attention_decay is not None:
+            if self.attention_decay is None:
+                decay = torch.as_tensor(
+                    self.config.attention_decay,
+                    device=scores.device,
+                    dtype=scores.dtype,
+                )
+            else:
+                decay = F.softplus(self.attention_decay).to(scores.dtype)
+
+            positions = torch.arange(T, device=scores.device)
+            distance = (positions.view(T, 1) - positions.view(1, T)).clamp_min(0)
+            decay_mask = torch.exp(-decay * distance.to(scores.dtype))
+            scores = scores * decay_mask.view(1, -1, T, T)
         return scores @ V
 
 
@@ -79,6 +178,8 @@ class BDH(nn.Module):
     def __init__(self, config: BDHConfig):
         super().__init__()
         assert config.vocab_size is not None
+        self._fill_missing_config_defaults(config)
+        self._validate_config(config)
         self.config = config
         nh = config.n_head
         D = config.n_embd
@@ -99,6 +200,22 @@ class BDH(nn.Module):
             self.encoder_v = nn.Parameter(torch.zeros((nh, D, N)).normal_(std=0.02))
 
         self.attn = Attention(config)
+        if config.learned_activation_history and config.activation_history_mix != 0.0:
+            max_mix = max(float(config.activation_history_max_mix), 1e-6)
+            bounded_mix = max(min(float(config.activation_history_mix), max_mix * 0.999), 1e-6)
+            mix_ratio = bounded_mix / max_mix
+            raw_mix = math.log(mix_ratio / (1.0 - mix_ratio))
+            bounded_decay = max(min(float(config.activation_history_decay), 0.999), 0.001)
+            raw_decay = math.log(bounded_decay / (1.0 - bounded_decay))
+            self.activation_history_mix = nn.Parameter(
+                torch.full((nh, 1, 1), raw_mix)
+            )
+            self.activation_history_decay = nn.Parameter(
+                torch.full((nh, 1, 1), raw_decay)
+            )
+        else:
+            self.activation_history_mix = None
+            self.activation_history_decay = None
 
         self.ln = nn.LayerNorm(D, elementwise_affine=False, bias=False)
         self.embed = nn.Embedding(config.vocab_size, D)
@@ -110,6 +227,43 @@ class BDH(nn.Module):
 
         self.apply(self._init_weights)
 
+    @staticmethod
+    def _fill_missing_config_defaults(config: BDHConfig):
+        for field in dataclasses.fields(BDHConfig):
+            if hasattr(config, field.name):
+                continue
+            if field.default is not dataclasses.MISSING:
+                setattr(config, field.name, field.default)
+            elif field.default_factory is not dataclasses.MISSING:
+                setattr(config, field.name, field.default_factory())
+
+    @staticmethod
+    def _validate_config(config: BDHConfig):
+        valid_variants = {"bdh_v1", "temporal_decay", "ctm_lite"}
+        if config.architecture_variant not in valid_variants:
+            raise ValueError(
+                f"architecture_variant must be one of {sorted(valid_variants)}, "
+                f"got {config.architecture_variant!r}."
+            )
+        if config.compute_ticks < 1:
+            raise ValueError("compute_ticks must be >= 1.")
+        if config.adaptive_min_ticks < 1:
+            raise ValueError("adaptive_min_ticks must be >= 1.")
+        if config.adaptive_max_ticks < config.adaptive_min_ticks:
+            raise ValueError("adaptive_max_ticks must be >= adaptive_min_ticks.")
+        if not 0.0 <= config.activation_history_decay <= 1.0:
+            raise ValueError("activation_history_decay must be in [0, 1].")
+        valid_history_targets = {"x", "y", "both", "pre_gate"}
+        if config.activation_history_target not in valid_history_targets:
+            raise ValueError(
+                "activation_history_target must be one of "
+                f"{sorted(valid_history_targets)}, got {config.activation_history_target!r}."
+            )
+        if config.activation_history_max_mix <= 0:
+            raise ValueError("activation_history_max_mix must be > 0.")
+        if config.attention_decay is not None and config.attention_decay < 0:
+            raise ValueError("attention_decay must be >= 0 when enabled.")
+
     def _init_weights(self, module):
         if isinstance(module, nn.Linear):
             nn.init.normal_(module.weight, mean=0.0, std=0.02)
@@ -118,7 +272,102 @@ class BDH(nn.Module):
         elif isinstance(module, nn.Embedding):
             nn.init.normal_(module.weight, mean=0.0, std=0.02)
 
-    def forward(self, idx, targets=None):
+    def _apply_activation_history(self, x_sparse):
+        C = self.config
+        if C.activation_history_mix == 0.0:
+            return x_sparse
+
+        if self.activation_history_mix is None:
+            mix = torch.as_tensor(
+                C.activation_history_mix,
+                device=x_sparse.device,
+                dtype=x_sparse.dtype,
+            )
+            decay = torch.as_tensor(
+                C.activation_history_decay,
+                device=x_sparse.device,
+                dtype=x_sparse.dtype,
+            )
+        else:
+            max_mix = torch.as_tensor(
+                C.activation_history_max_mix,
+                device=x_sparse.device,
+                dtype=x_sparse.dtype,
+            )
+            mix = torch.sigmoid(self.activation_history_mix).to(x_sparse.dtype) * max_mix
+            decay = torch.sigmoid(self.activation_history_decay).to(x_sparse.dtype)
+
+        history = torch.zeros_like(x_sparse)
+        running = torch.zeros_like(x_sparse[:, :, 0, :])
+        for t in range(x_sparse.size(2)):
+            history[:, :, t, :] = running
+            running = decay * running + (1.0 - decay) * x_sparse[:, :, t, :]
+        return x_sparse + mix * history
+
+    @staticmethod
+    def _activation_stats(name, tensor):
+        active = tensor > 0
+        density = active.to(torch.float32).mean()
+        magnitude = tensor.detach().abs().mean()
+        return {
+            f"{name}_density": float(density.detach().cpu()),
+            f"{name}_mean_abs": float(magnitude.detach().cpu()),
+        }
+
+    def _layer_block(self, x, level, B, T, N, nh, collect_diagnostics=False):
+        C = self.config
+        if C.per_layer_weights:
+            encoder = self.encoder[level]
+            encoder_v = self.encoder_v[level]
+            decoder = self.decoder[level]
+        else:
+            encoder = self.encoder
+            encoder_v = self.encoder_v
+            decoder = self.decoder
+
+        x_latent = x @ encoder
+
+        x_sparse = F.relu(x_latent)  # B, nh, T, N
+        x_base_sparse = x_sparse
+        if C.activation_history_target in {"x", "both"}:
+            x_sparse = self._apply_activation_history(x_sparse)
+
+        yKV = self.attn(
+            Q=x_sparse,
+            K=x_sparse,
+            V=x,
+        )
+        yKV = self.ln(yKV)
+
+        y_latent = yKV @ encoder_v
+        y_sparse = F.relu(y_latent)
+        y_base_sparse = y_sparse
+        if C.activation_history_target in {"y", "both"}:
+            y_sparse = self._apply_activation_history(y_sparse)
+        if C.activation_history_target == "pre_gate":
+            x_sparse = self._apply_activation_history(x_base_sparse)
+            y_sparse = self._apply_activation_history(y_base_sparse)
+        xy_sparse = x_sparse * y_sparse  # B, nh, T, N
+
+        xy_sparse = self.drop(xy_sparse)
+
+        yMLP = (
+            xy_sparse.transpose(1, 2).reshape(B, 1, T, N * nh) @ decoder
+        )  # B, 1, T, D
+        y = self.ln(yMLP)
+        x_next = self.ln(x + y)
+        if not collect_diagnostics:
+            return x_next, None
+
+        diagnostics = {
+            "layer": level,
+            **self._activation_stats("x_sparse", x_sparse),
+            **self._activation_stats("y_sparse", y_sparse),
+            **self._activation_stats("xy_sparse", xy_sparse),
+        }
+        return x_next, diagnostics
+
+    def _initial_state(self, idx):
         C = self.config
 
         B, T = idx.size()
@@ -129,47 +378,113 @@ class BDH(nn.Module):
         x = self.embed(idx).unsqueeze(1)
 
         # actually helps with training
-        x = self.ln(x)  # B, 1, T, D
+        return self.ln(x), B, T, D, nh, N  # B, 1, T, D
 
-        for level in range(C.n_layer):
-            if C.per_layer_weights:
-                encoder = self.encoder[level]
-                encoder_v = self.encoder_v[level]
-                decoder = self.decoder[level]
-            else:
-                encoder = self.encoder
-                encoder_v = self.encoder_v
-                decoder = self.decoder
-
-            x_latent = x @ encoder
-
-            x_sparse = F.relu(x_latent)  # B, nh, T, N
-
-            yKV = self.attn(
-                Q=x_sparse,
-                K=x_sparse,
-                V=x,
+    def _run_one_tick(self, x, B, T, N, nh, collect_diagnostics=False):
+        diagnostics = []
+        for level in range(self.config.n_layer):
+            x, layer_diagnostics = self._layer_block(
+                x,
+                level,
+                B,
+                T,
+                N,
+                nh,
+                collect_diagnostics=collect_diagnostics,
             )
-            yKV = self.ln(yKV)
+            if layer_diagnostics is not None:
+                diagnostics.append(layer_diagnostics)
+        return x, diagnostics
 
-            y_latent = yKV @ encoder_v
-            y_sparse = F.relu(y_latent)
-            xy_sparse = x_sparse * y_sparse  # B, nh, T, N
+    def _forward_logits(self, idx, compute_ticks=None):
+        C = self.config
+        x, B, T, D, nh, N = self._initial_state(idx)
+        ticks = C.compute_ticks if compute_ticks is None else compute_ticks
+        if ticks < 1:
+            raise ValueError("compute_ticks must be >= 1.")
 
-            xy_sparse = self.drop(xy_sparse)
+        for _ in range(ticks):
+            x, _ = self._run_one_tick(x, B, T, N, nh)
 
-            yMLP = (
-                xy_sparse.transpose(1, 2).reshape(B, 1, T, N * nh) @ decoder
-            )  # B, 1, T, D
-            y = self.ln(yMLP)
-            x = self.ln(x + y)
+        return x.view(B, T, D) @ self.lm_head
 
-        logits = x.view(B, T, D) @ self.lm_head
+    @torch.no_grad()
+    def diagnostics(self, idx):
+        C = self.config
+        was_training = self.training
+        self.eval()
+        try:
+            x, B, T, D, nh, N = self._initial_state(idx)
+            all_layers = []
+            last_logits = None
+            logit_deltas = []
+            for tick in range(C.compute_ticks):
+                x, layer_stats = self._run_one_tick(
+                    x,
+                    B,
+                    T,
+                    N,
+                    nh,
+                    collect_diagnostics=True,
+                )
+                for stats in layer_stats:
+                    stats["tick"] = tick + 1
+                    all_layers.append(stats)
+                logits = x.view(B, T, D) @ self.lm_head
+                if last_logits is not None:
+                    delta = (logits[:, -1, :] - last_logits[:, -1, :]).abs().mean()
+                    logit_deltas.append(float(delta.detach().cpu()))
+                last_logits = logits
+
+            probs = F.softmax(last_logits[:, -1, :], dim=-1)
+            entropy = -(probs * torch.log(probs.clamp_min(1e-12))).sum(dim=-1).mean()
+            summary = {
+                "logit_entropy": float(entropy.detach().cpu()),
+                "logit_delta_mean": sum(logit_deltas) / len(logit_deltas) if logit_deltas else 0.0,
+                "attention_half_life_tokens": self.attention_half_life_tokens(),
+                "layers": all_layers,
+            }
+            return summary
+        finally:
+            self.train(was_training)
+
+    def attention_half_life_tokens(self):
+        if self.config.attention_decay is None:
+            return None
+        if self.attn.attention_decay is None:
+            decay = float(self.config.attention_decay)
+        else:
+            decay = float(F.softplus(self.attn.attention_decay).detach().mean().cpu())
+        if decay <= 0:
+            return None
+        return math.log(2.0) / decay
+
+    def forward(self, idx, targets=None, compute_ticks=None):
+        logits = self._forward_logits(idx, compute_ticks=compute_ticks)
         loss = None
         if targets is not None:
             loss = F.cross_entropy(logits.view(-1, logits.size(-1)), targets.view(-1))
 
         return logits, loss
+
+    def _adaptive_next_logits(self, idx):
+        C = self.config
+        x, B, T, D, nh, N = self._initial_state(idx)
+        previous = None
+        logits = None
+        for tick in range(1, C.adaptive_max_ticks + 1):
+            x, _ = self._run_one_tick(x, B, T, N, nh)
+            logits = (x.view(B, T, D) @ self.lm_head)[:, -1, :]
+            if (
+                tick >= C.adaptive_min_ticks
+                and previous is not None
+                and C.adaptive_logit_delta_threshold > 0
+            ):
+                delta = (logits - previous).abs().mean(dim=-1).max()
+                if delta <= C.adaptive_logit_delta_threshold:
+                    break
+            previous = logits
+        return logits
 
     @torch.no_grad()
     def generate(
@@ -179,14 +494,23 @@ class BDH(nn.Module):
         temperature: float = 1.0,
         top_k: int | None = None,
     ) -> torch.Tensor:
-        for _ in range(max_new_tokens):
-            idx_cond = idx
-            logits, _ = self(idx_cond)
-            logits = logits[:, -1, :] / temperature
-            if top_k is not None:
-                values, _ = torch.topk(logits, min(top_k, logits.size(-1)))
-                logits[logits < values[:, [-1]]] = float("-inf")
-            probs = F.softmax(logits, dim=-1)
-            idx_next = torch.multinomial(probs, num_samples=1)
-            idx = torch.cat((idx, idx_next), dim=1)
-        return idx
+        was_training = self.training
+        self.eval()
+        try:
+            for _ in range(max_new_tokens):
+                idx_cond = idx
+                if self.config.adaptive_compute and self.config.adaptive_max_ticks > 1:
+                    logits = self._adaptive_next_logits(idx_cond)
+                else:
+                    logits, _ = self(idx_cond)
+                    logits = logits[:, -1, :]
+                logits = logits / temperature
+                if top_k is not None:
+                    values, _ = torch.topk(logits, min(top_k, logits.size(-1)))
+                    logits[logits < values[:, [-1]]] = float("-inf")
+                probs = F.softmax(logits, dim=-1)
+                idx_next = torch.multinomial(probs, num_samples=1)
+                idx = torch.cat((idx, idx_next), dim=1)
+            return idx
+        finally:
+            self.train(was_training)

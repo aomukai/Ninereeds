@@ -2,24 +2,25 @@
 
 Design reference for the active autonomous training pipeline.
 
-Last updated: 2026-07-01
+Last updated: 2026-07-08
 
 ---
 
 ## Pipeline Shape
 
 ```text
-orchestrator plan
-  -> DeepSeek script generation
-  -> Gemma fixed-script execution
+orchestrator strategy
+  -> executor selects next word/card from policy and writes one script
+  -> trainer runs the script mechanically against Ninereeds
   -> raw chat log
-  -> DeepSeek report card
-  -> orchestrator decision
-  -> optional micro-update / probe / replay / scan / escalation
+  -> executor grades every scripted item
+  -> executor either appends another script or escalates a report
+  -> orchestrator decides strategy only when needed
+  -> optional approved micro-update / probe / replay / scan / escalation
 ```
 
-The active loop is session-based and epochless. One word/card session is the smallest
-unit of evidence.
+The active loop is session-based and epochless. One script is the smallest execution unit.
+One word/card may need several scripts before it is ready to auto-advance.
 
 ---
 
@@ -63,6 +64,7 @@ training/msm/
       update_candidate_eval.json
   logs/
     orchestrator.jsonl
+    executor.jsonl
     hermes.jsonl
 ```
 
@@ -74,34 +76,52 @@ Existing historical campaign logs remain under `training/logs/`.
 
 ### Orchestrator
 
-Reads report cards and state, chooses the next action, and writes plans.
+Strategic owner. Reads report cards and state, chooses policy, and writes bounded plans.
 
 Required outputs:
 
-- plan JSON
-- decision JSON
+- campaign/session policy JSON
+- strategic decision JSON when escalation occurs
 - human-attention sentinel when blocked
 
-### DeepSeek Executor
+The orchestrator should spend reasoning tokens on strategy, not routine script execution or
+routine grading. It is called when the executor reaches a stop condition, when update or
+promotion decisions are ready, or when the policy boundary is exhausted.
 
-Tactical worker. Converts plans into scripts, reads raw logs, fills reports, and extracts
-proposed training turns.
+### Executor
+
+Tactical local model worker. Converts policy into scripts, reads raw logs, grades each
+scripted item, writes reports, and extracts proposed training turns.
+
+Candidate local executor models:
+
+- `gemma4-26b-a4b`
+- `qwen3.6-36b-a3b`
+
+Quality matters more than throughput. The executor should be evaluated by script quality,
+grading reliability, and ability to escalate at the right time.
 
 Required outputs:
 
 - `script.json`
-- `report_card.json`
 - `turn_grades.jsonl`
+- `report_card.json`
+- `report.md`
 - optional `proposed_training.jsonl`
 
-### Gemma Worker
+### Trainer
 
-Mechanical runner. Executes fixed scripts only.
+Deterministic runner. The trainer may be a Python script. It does not need to be a model.
 
-Required outputs:
+The trainer executes fixed scripts only:
 
-- `raw_chat.jsonl`
-- execution status
+1. send the scripted user prompt to Ninereeds
+2. record Ninereeds' answer
+3. print or send the scripted correction/teacher line
+4. record the follow-up Ninereeds answer when the script asks for one
+5. write a clean `raw_chat.jsonl`
+
+The trainer must not grade, summarize, choose a next question, or alter the script.
 
 ### Hermes
 
@@ -139,13 +159,13 @@ watchdog should only use `tmux capture-pane` against already-visible output.
 
 Brake actions:
 
-- `continue` — proceed normally.
-- `conservative_mode` — skip optional probes, cleanup, broad scans, and exploratory work.
-- `finish_current_only` — finish the current safe boundary, persist state, then stop or
+- `continue` - proceed normally.
+- `conservative_mode` - skip optional probes, cleanup, broad scans, and exploratory work.
+- `finish_current_only` - finish the current safe boundary, persist state, then stop or
   sleep.
-- `pause_until_reset` — do not launch sessions, call DeepSeek for new work, or apply
+- `pause_until_reset` - do not launch sessions, call executor for new work, or apply
   updates until reset is confirmed.
-- `blocked_unknown_reset` — preserve or write `BLOCKED` and stop.
+- `blocked_unknown_reset` - preserve or write `BLOCKED` and stop.
 
 Schemas:
 
@@ -154,24 +174,39 @@ Schemas:
 
 ### Auto-Advance Policy
 
-Codex may authorize bounded DeepSeek auto-advance through:
+Codex/orchestrator may authorize bounded executor auto-advance through:
 
 - `training/msm/state/active_campaign_policy.json`
 - `training/msm/state/word_queue.json`
 - `training/msm/state/auto_advance_state.json`
 
-DeepSeek may only choose one of:
+The executor follows the word queue and writes one script at a time. After grading a
+script, it may append another script for the same word only while all of these remain true:
+
+- at least one scripted item has a correct original answer or correct post-correction
+  answer
+- no answer is off-topic
+- the retry/script budget for the word is not exhausted
+- no protected-anchor, malformed-output, artifact-conflict, or brake condition blocks work
+
+The executor must escalate to the orchestrator when any of these occur:
+
+- no scripted item receives a correct answer
+- at least one answer is off-topic
+- the same failure repeats beyond retry limits
+- protected anchors fail
+- an update/promotion decision is ready
+- artifacts conflict or grading uncertainty is high
+- the queue is exhausted
+- the Codex brake blocks new work
+
+Allowed executor actions:
 
 - `PASS_AUTONEXT`
 - `PASS_BUT_BUFFER`
 - `RETRY_SAME_WORD`
 - `ESCALATE_CODEX`
 - `ESCALATE_HUMAN`
-
-DeepSeek must escalate instead of auto-advancing when the policy boundary is reached,
-failure repeats beyond retry limits, protected anchors fail, an update/promotion decision
-is ready, artifacts conflict, uncertainty is high, the queue is exhausted, or the Codex
-brake blocks new work.
 
 Schemas:
 
@@ -186,13 +221,14 @@ Schemas:
 The canonical executable step sequence is `runbook.md`. This lifecycle is a design map,
 not a second runbook.
 
-1. **Plan** — orchestrator selects concept, objective, mode, and limits.
-2. **Script** — DeepSeek writes exact prompt/correction sequence.
-3. **Execute** — Gemma runs script against Ninereeds.
-4. **Report** — DeepSeek grades and summarizes with fixed schema.
-5. **Decide** — orchestrator chooses accept, replay, repair, update, eval, scan, or escalate.
-6. **Update** — optional buffered micro-update from orchestrator-approved turns only.
-7. **Gate** — protected anchors and target checks determine promotion.
+1. **Plan** - orchestrator sets campaign policy, word queue, limits, and escalation rules.
+2. **Script** - executor writes one exact prompt/correction script for one word/card.
+3. **Execute** - trainer runs the script against Ninereeds and logs all turns.
+4. **Grade** - executor grades each scripted item individually.
+5. **Auto-advance or escalate** - executor appends another script only if policy permits.
+6. **Decide** - orchestrator handles escalations, updates, promotion, repair, or user asks.
+7. **Update** - optional buffered micro-update from orchestrator-approved turns only.
+8. **Gate** - protected anchors and target checks determine promotion.
 
 ---
 
@@ -200,11 +236,11 @@ not a second runbook.
 
 Canonical names are defined in `sentinel_files.md`:
 
-- `HUMAN_ATTENTION` — user action required
-- `BLOCKED` — automation cannot continue safely
-- `TRAINING_MACHINE_DOWN` — local runner unavailable
-- `API_CREDITS_EXHAUSTED` — paid API worker cannot continue
-- `PROMOTION_REVIEW_REQUIRED` — update candidate needs manual approval
+- `HUMAN_ATTENTION` - user action required
+- `BLOCKED` - automation cannot continue safely
+- `TRAINING_MACHINE_DOWN` - local runner unavailable
+- `API_CREDITS_EXHAUSTED` - paid API worker cannot continue
+- `PROMOTION_REVIEW_REQUIRED` - update candidate needs manual approval
 
 Hermes watches for sentinel files and pings the user.
 
