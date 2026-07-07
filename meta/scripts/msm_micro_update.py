@@ -28,6 +28,8 @@ PYTHON = Path("/home/aomukai/.unsloth/studio/unsloth_studio/bin/python")
 EXPECTED_MANIFEST_VERSION = "msm_update_manifest_v1"
 EXPECTED_TURN_VERSION = "msm_training_turn_v1"
 ALLOWED_TURN_SOURCES = {
+    "executor_proposed_correction",
+    "executor_expected_answer",
     "deepseek_proposed_correction",
     "deepseek_expected_answer",
     "orchestrator_repair_line",
@@ -175,8 +177,10 @@ def validate_turn(obj: dict[str, Any], source_path: Path, line_no: int) -> None:
         )
     if "target_failure" not in obj or not (obj["target_failure"] is None or isinstance(obj["target_failure"], str)):
         raise ValidationError(f"{prefix}: target_failure must be string or null.")
-    if obj.get("deepseek_validated") is not True:
-        raise ValidationError(f"{prefix}: deepseek_validated must be true.")
+    executor_validated = obj.get("executor_validated")
+    legacy_deepseek_validated = obj.get("deepseek_validated")
+    if executor_validated is not True and legacy_deepseek_validated is not True:
+        raise ValidationError(f"{prefix}: executor_validated must be true.")
     if obj.get("orchestrator_approved") is not True:
         raise ValidationError(f"{prefix}: orchestrator_approved must be true.")
 

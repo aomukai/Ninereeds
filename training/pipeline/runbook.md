@@ -4,13 +4,13 @@ Open this document when running or supervising the active training loop.
 
 ---
 
-## Step 0 — Orient
+## Step 0 - Orient
 
 Check the Codex brake, active sessions, pending reports, and human-attention sentinels.
 
 ```bash
 test -f training/msm/state/codex_brake.json && cat training/msm/state/codex_brake.json || true
-ps aux | grep -E "gemma|ninereeds|chat" | grep -v grep
+ps aux | grep -E "trainer|ninereeds|chat|inference" | grep -v grep
 find training/msm \( \
   -name HUMAN_ATTENTION \
   -o -name BLOCKED \
@@ -23,110 +23,123 @@ find training/msm/sessions -maxdepth 2 -name report_card.json 2>/dev/null | tail
 
 States:
 
-- **Codex brake missing** — continue manually, but write a warning to
+- **Codex brake missing** - continue manually, but write a warning to
   `training/msm/logs/orchestrator.jsonl` before autonomous work.
-- **Codex brake `continue`** — normal campaign mode.
-- **Codex brake `conservative_mode`** — avoid optional probes, broad scans, cleanup,
+- **Codex brake `continue`** - normal campaign mode.
+- **Codex brake `conservative_mode`** - avoid optional probes, broad scans, cleanup,
   nonessential repo edits, and exploratory branches.
-- **Codex brake `finish_current_only`** — finish the current safe boundary, persist
+- **Codex brake `finish_current_only`** - finish the current safe boundary, persist
   state, then stop or sleep.
-- **Codex brake `pause_until_reset`** — do not launch a new session, call DeepSeek for
+- **Codex brake `pause_until_reset`** - do not launch a new session, call executor for
   new work, or apply updates. Write a pause note to
   `training/msm/logs/orchestrator.jsonl`, sleep until `reset_at` in an autonomous shell
   loop, then re-read the brake.
-- **Codex brake `blocked_unknown_reset`** — write or preserve `BLOCKED` and stop.
-- **Session running** — monitor, do not launch another session for the same card.
-- **Raw log exists, report missing** — task DeepSeek to write the report card.
-- **Report exists, decision missing** — orchestrator reads the report and writes next plan.
-- **Human sentinel exists** — Hermes pings the user; wait for manual resolution.
+- **Codex brake `blocked_unknown_reset`** - write or preserve `BLOCKED` and stop.
+- **Session running** - monitor, do not launch another session for the same card.
+- **Raw log exists, report missing** - task executor to write the report card.
+- **Report exists, decision missing** - orchestrator reads the report and writes next plan.
+- **Human sentinel exists** - Hermes pings the user; wait for manual resolution.
 
 ---
 
-## Step 1 — Read Current State
+## Step 1 - Read Current State
 
 Read:
 
 - latest orchestrator log
+- active campaign policy
+- word queue and auto-advance state
 - latest `report_card.json` for the target concept
 - concept state JSON
 - protected-anchor status
 - parent checkpoint metadata
 
-Do not plan from memory. The JSON artifacts are the source of truth.
+Do not plan from memory. JSON artifacts are the source of truth.
 
 ---
 
-## Step 2 — Choose One Session Objective
+## Step 2 - Orchestrator Sets Policy
 
-Choose one card and one objective:
+The orchestrator writes or updates bounded policy for the executor:
 
-- teach a new positive anchor
-- test recall
-- repair a specific failure
-- add one contrast
-- test a protected anchor
-- run a brain scan because chat evidence is inconclusive
-
-One session should not combine multiple unrelated objectives.
-
----
-
-## Step 3 — Write Orchestrator Plan
-
-The orchestrator writes a bounded plan for DeepSeek:
-
-- concept/card
+- campaign objective
+- word/card queue
 - parent checkpoint
-- session mode
+- permitted session modes
+- max scripts per word
+- max retries per word
 - target axes
-- failure modes to test
 - forbidden scope
+- escalation conditions
 - whether proposed training turns may be extracted
-- whether a micro-update is allowed after the report
+- whether a micro-update is allowed after a report
 
-Before writing or dispatching a new plan, re-check `training/msm/state/codex_brake.json`.
+Before writing or dispatching new work, re-check `training/msm/state/codex_brake.json`.
 Do not start new work when the action is `pause_until_reset` or `blocked_unknown_reset`.
 
-If the plan needs human input, write the configured sentinel file and stop.
+If the policy needs human input, write the configured sentinel file and stop.
 
 ---
 
-## Step 4 — DeepSeek Builds Script
+## Step 3 - Executor Builds One Script
 
-DeepSeek writes `script.json`.
+The executor follows the current word queue and writes one `script.json`.
+
+Schema contract: `training/pipeline/script_and_raw_log_schema.md`.
 
 Script requirements:
 
+- one word/card focus
 - fixed ordered prompts
-- no Gemma discretion
-- correction turns written exactly
-- expected answer metadata where useful
+- no trainer discretion
+- teacher/correction lines written exactly
+- expected-answer metadata where useful
+- per-item grading metadata
 - stop conditions for execution errors only
-- script ID and orchestrator plan ID
+- script ID and orchestrator plan/policy ID
 
-Gemma must be able to execute the script without interpreting the research goal.
+The trainer must be able to execute the script without interpreting the research goal.
+
+Example item shape:
+
+```text
+[user]Is a dog a cat?
+[Ninereeds]
+[teacher]A dog is not a cat.
+[Ninereeds]
+```
+
+The trainer sends the user line to Ninereeds, records the original answer, prints or sends
+the teacher line, then records the post-correction answer when requested by the script.
 
 ---
 
-## Step 5 — Gemma Executes
+## Step 4 - Trainer Executes
 
-Gemma runs the script against Ninereeds and writes `raw_chat.jsonl`.
+The trainer is a deterministic runner, usually a Python script. It runs the script against
+Ninereeds and writes `raw_chat.jsonl`.
 
-Gemma records:
+Each `raw_chat.jsonl` line must validate against
+`training/pipeline/raw_chat_line_schema.json`.
+
+Trainer records:
 
 - turn ID
-- prompt
-- Ninereeds raw output
+- script item ID
+- user prompt
+- Ninereeds original answer
+- teacher correction line, if present
+- Ninereeds post-correction answer, if requested
 - timestamp
 - execution error, if any
 
-Gemma does not grade or summarize.
+Trainer does not grade, summarize, choose the next question, or alter the script.
 
 ---
 
-## Step 6 — DeepSeek Reports
+## Step 5 - Executor Grades
 
-DeepSeek reads `raw_chat.jsonl` and writes:
+The executor reads `raw_chat.jsonl` and writes:
 
 - `turn_grades.jsonl`
 - `report_card.json`
@@ -134,18 +147,57 @@ DeepSeek reads `raw_chat.jsonl` and writes:
 - `proposed_training.jsonl` if proposed training turns exist
 - `failed_turns.jsonl`
 
-DeepSeek may recommend a next local action, but the orchestrator decides.
+Every scripted item receives an individual grade. At minimum the grade records:
+
+1. the user line
+2. original answer status: `correct`, `wrong_on_topic`, `wrong_off_topic`, or `ungradable`
+3. post-correction status when present: `correct`, `wrong_on_topic`, `wrong_off_topic`,
+   or `not_applicable`
+
+Example:
+
+```text
+1. [user] Is a dog a cat?
+   original answer: incorrect, on-topic
+   after correction: correct
+```
 
 ---
 
-## Step 7 — Orchestrator Decides
+## Step 6 - Executor Auto-Advances Or Escalates
+
+The executor may append another script for the same word only while all of these remain
+true:
+
+- at least one scripted item has a correct original answer or correct post-correction answer
+- no answer is off-topic
+- malformed/repetition thresholds are not exceeded
+- retry/script limits are not exhausted
+- no protected-anchor, artifact-conflict, or Codex brake condition blocks work
+
+The executor must wrap the session and send the file to the orchestrator when:
+
+- no scripted item receives a correct answer
+- at least one answer is off-topic
+- the same failure repeats beyond retry limits
+- a protected anchor fails
+- an update/promotion decision is ready
+- grading uncertainty is high
+- the word queue is exhausted
+- a sentinel or brake blocks progress
+
+Executor recommendations are advisory. The orchestrator decides strategy.
+
+---
+
+## Step 7 - Orchestrator Decides
 
 Possible decisions:
 
 - accept session evidence and update concept state
-- run another scripted session
+- auto-advance to the next word
+- run another script on the same word
 - rollback and replay with repair
-- request DeepSeek adaptive session
 - run protected anchors
 - run grounding eval
 - run brain map
@@ -157,11 +209,11 @@ Record the decision in a stable JSON artifact.
 
 ---
 
-## Step 8 — Optional Micro-Update
+## Step 8 - Optional Micro-Update
 
 If allowed:
 
-1. Confirm `proposed_training.jsonl` exists if DeepSeek proposed trainable turns.
+1. Confirm `proposed_training.jsonl` exists if executor proposed trainable turns.
 2. Confirm the orchestrator copied accepted records into `approved_training.jsonl`.
 3. Confirm every proposed/approved turn validates against `training_turn_schema.json`.
 4. Confirm approved turn count meets `min_approved_turns_for_update`.
@@ -182,7 +234,7 @@ that unless the MSM manifest/update gates are replaced by a stronger equivalent.
 
 ---
 
-## Step 9 — Hermes Notification
+## Step 9 - Hermes Notification
 
 Hermes reports:
 

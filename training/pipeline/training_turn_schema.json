@@ -14,7 +14,7 @@
     "training_answer",
     "source",
     "target_failure",
-    "deepseek_validated",
+    "executor_validated",
     "orchestrator_approved"
   ],
   "properties": {
@@ -27,14 +27,14 @@
     "training_answer": {"type": "string", "minLength": 1},
     "source": {
       "enum": [
-        "deepseek_proposed_correction",
-        "deepseek_expected_answer",
+        "executor_proposed_correction",
+        "executor_expected_answer",
         "orchestrator_repair_line",
         "protected_anchor_replay"
       ]
     },
     "target_failure": {"type": ["string", "null"]},
-    "deepseek_validated": {"type": "boolean"},
+    "executor_validated": {"type": "boolean"},
     "orchestrator_approved": {"type": "boolean"}
   }
 }

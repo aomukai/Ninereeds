@@ -20,7 +20,7 @@
     "weak_axes",
     "protected_anchor_status",
     "recommended_extraction",
-    "deepseek_recommendation",
+    "executor_recommendation",
     "artifacts"
   ],
   "properties": {
@@ -48,8 +48,7 @@
     },
     "session_mode": {
       "enum": [
-        "scripted_gemma_session",
-        "deepseek_adaptive_session",
+        "scripted_trainer_session",
         "probe_session",
         "repair_replay_session",
         "contrast_session",
@@ -70,7 +69,7 @@
       "properties": {
         "script_id": {"type": "string", "minLength": 1},
         "script_author": {"type": "string", "minLength": 1},
-        "script_mode": {"enum": ["fixed", "adaptive_plan"]},
+        "script_mode": {"const": "fixed"},
         "orchestrator_plan_id": {"type": "string", "minLength": 1},
         "intended_stage": {"type": "string", "minLength": 1},
         "intended_failure_targets": {
@@ -83,25 +82,29 @@
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "total_turns",
-        "ninereeds_answer_turns",
-        "correct",
-        "partially_correct",
-        "incorrect",
-        "on_topic",
-        "off_topic",
+        "script_items",
+        "ninereeds_original_answers",
+        "ninereeds_after_correction_answers",
+        "original_correct",
+        "original_wrong_on_topic",
+        "original_wrong_off_topic",
+        "after_correction_correct",
+        "after_correction_wrong_on_topic",
+        "after_correction_wrong_off_topic",
         "malformed",
         "repetition_collapse",
         "empty_or_near_empty"
       ],
       "properties": {
-        "total_turns": {"type": "integer", "minimum": 0},
-        "ninereeds_answer_turns": {"type": "integer", "minimum": 0},
-        "correct": {"type": "integer", "minimum": 0},
-        "partially_correct": {"type": "integer", "minimum": 0},
-        "incorrect": {"type": "integer", "minimum": 0},
-        "on_topic": {"type": "integer", "minimum": 0},
-        "off_topic": {"type": "integer", "minimum": 0},
+        "script_items": {"type": "integer", "minimum": 0},
+        "ninereeds_original_answers": {"type": "integer", "minimum": 0},
+        "ninereeds_after_correction_answers": {"type": "integer", "minimum": 0},
+        "original_correct": {"type": "integer", "minimum": 0},
+        "original_wrong_on_topic": {"type": "integer", "minimum": 0},
+        "original_wrong_off_topic": {"type": "integer", "minimum": 0},
+        "after_correction_correct": {"type": "integer", "minimum": 0},
+        "after_correction_wrong_on_topic": {"type": "integer", "minimum": 0},
+        "after_correction_wrong_off_topic": {"type": "integer", "minimum": 0},
         "malformed": {"type": "integer", "minimum": 0},
         "repetition_collapse": {"type": "integer", "minimum": 0},
         "empty_or_near_empty": {"type": "integer", "minimum": 0}
@@ -111,16 +114,22 @@
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "correct_rate",
+        "original_correct_rate",
+        "after_correction_correct_rate",
         "on_topic_rate",
         "malformed_rate",
-        "session_passed"
+        "session_passed",
+        "executor_may_auto_advance",
+        "requires_orchestrator"
       ],
       "properties": {
-        "correct_rate": {"type": "number", "minimum": 0, "maximum": 1},
+        "original_correct_rate": {"type": "number", "minimum": 0, "maximum": 1},
+        "after_correction_correct_rate": {"type": "number", "minimum": 0, "maximum": 1},
         "on_topic_rate": {"type": "number", "minimum": 0, "maximum": 1},
         "malformed_rate": {"type": "number", "minimum": 0, "maximum": 1},
-        "session_passed": {"type": "boolean"}
+        "session_passed": {"type": "boolean"},
+        "executor_may_auto_advance": {"type": "boolean"},
+        "requires_orchestrator": {"type": "boolean"}
       }
     },
     "failure_modes": {
@@ -128,11 +137,11 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["type", "severity", "turn_ids", "example", "interpretation"],
+        "required": ["type", "severity", "item_ids", "example", "interpretation"],
         "properties": {
           "type": {"type": "string", "minLength": 1},
           "severity": {"enum": ["low", "medium", "high", "critical"]},
-          "turn_ids": {
+          "item_ids": {
             "type": "array",
             "items": {"type": "string"}
           },
@@ -178,7 +187,7 @@
         "do_not_train_raw_log": {"const": true}
       }
     },
-    "deepseek_recommendation": {
+    "executor_recommendation": {
       "type": "object",
       "additionalProperties": false,
       "required": [
@@ -192,7 +201,8 @@
         "recommendation_type": {
           "enum": [
             "accept",
-            "continue",
+            "continue_same_word",
+            "continue_next_word",
             "repair_replay",
             "probe",
             "brain_scan",
@@ -206,7 +216,7 @@
           "type": "array",
           "items": {"type": "string"}
         },
-        "requires_orchestrator_decision": {"const": true},
+        "requires_orchestrator_decision": {"type": "boolean"},
         "requires_human_attention": {"type": "boolean"}
       }
     },

@@ -43,22 +43,24 @@ MSM is a closed-loop teaching pipeline, not one model:
 
 ```text
 orchestrator plan
-  -> DeepSeek script generation
-  -> Gemma fixed-script execution
+  -> executor script generation
+  -> trainer fixed-script execution
   -> raw chat log
-  -> DeepSeek report card
-  -> orchestrator decision
+  -> executor per-item grading and report card
+  -> executor auto-advance or orchestrator decision
   -> optional replay / repair / probe / brain scan / buffered micro-update
 ```
 
-The atomic unit is a **word/card session**. One session targets one concept or one repair objective. Raw chat logs are evidence only; they are never ingested directly as training data.
+The atomic unit is a **scripted word/card session**. One session targets one concept or one repair objective. Raw chat logs are evidence only; they are never ingested directly as training data.
 
 Roles:
 
-- **Orchestrator** owns strategy, checkpoint protection, scheduling, update approval, and escalation.
-- **DeepSeek Flash** writes bounded scripts, grades raw logs, fills report cards, and proposes trainable turns.
-- **Gemma** executes fixed scripts mechanically against Ninereeds and writes raw logs.
+- **Orchestrator** owns strategy, checkpoint protection, queue policy, update approval, and escalation.
+- **Executor** runs on a capable local model, writes bounded scripts, grades raw logs, fills report cards, and proposes trainable turns.
+- **Trainer** is a deterministic runner, usually a Python script, that executes fixed scripts against Ninereeds and writes raw logs.
 - **Hermes** watches logs and sentinel files, then notifies the user when automation needs attention.
+
+The executor may auto-advance through the word queue only while policy allows it, at least one scripted item is correct or repaired by correction, and no answer is off-topic. If no item is correct or any answer is off-topic, the executor wraps the session and escalates to the orchestrator.
 
 Only orchestrator-approved records copied into `approved_training.jsonl` may enter a micro-update.
 
@@ -71,7 +73,7 @@ todo.md                    active work queue
 history.md                 completed work log
 CLAUDE.md                  local operating constraints for agent sessions
 
-bdh.py                     upstream BDH architecture reference
+bdh.py                     BDH architecture reference plus opt-in experiment variants
 train.py                   training entry point used by legacy and MSM update paths
 eval.py                    shaped/diagnostic evaluation entry point
 harness.py                 early runtime / OS-side scaffold
@@ -95,6 +97,38 @@ archive/                   other historical plans, scripts, reports, and queues
 loras/                     future specialist / adapter area
 ```
 
+## Architecture Experiment Mode
+
+`bdh.py` preserves the upstream-style BDH baseline by default. Experimental
+architecture changes are opt-in through `BDHConfig` and `train.py` flags, and
+are documented in `docs/bdh_experimental_variants.md`.
+
+Current controlled variants:
+
+- `bdh_v1`: baseline behavior; no temporal additions.
+- `temporal_decay`: causal attention distance decay, preferably configured by
+  `--attention-half-life-tokens`.
+- `ctm_lite`: CTM-inspired sparse activation history plus attention decay.
+  Adaptive compute is not enabled automatically; treat it as a separate
+  generation/eval policy experiment.
+
+Architecture experiments should use held-out eval data:
+
+```bash
+python train.py \
+  --phase 0 \
+  --corpus-file path/to/train.txt \
+  --eval-corpus-file path/to/eval.txt \
+  --architecture-variant temporal_decay \
+  --attention-half-life-tokens 512
+```
+
+When eval data is provided, checkpoints are selected by eval loss. Checkpoint
+metadata records command-line args, seed, git commit, corpus/eval hashes,
+training settings, train/eval loss, and sparse-state diagnostics. Diagnostics
+track logit entropy, compute-tick deltas, sparse activation density/magnitude,
+and effective attention half-life.
+
 ## Active Pipeline References
 
 Start here for current training work:
@@ -102,6 +136,7 @@ Start here for current training work:
 | Need | File |
 |---|---|
 | Fresh-session orientation | `index.md` |
+| BDH architecture variants | `docs/bdh_experimental_variants.md` |
 | Active work queue | `todo.md` |
 | Executable MSM steps | `training/pipeline/runbook.md` |
 | MSM doctrine and constraints | `training/pipeline/training.md` |
@@ -109,6 +144,7 @@ Start here for current training work:
 | Mommy Says system boundary | `training/pipeline/mommy_says_machine.md` |
 | Concept-card tutor method | `training/pipeline/tutor_loop.md` |
 | Session/update decision semantics | `training/pipeline/iteration_schema.md` |
+| Script/raw-log contract | `training/pipeline/script_and_raw_log_schema.md` |
 | Sentinel contract | `training/pipeline/sentinel_files.md` |
 | Config contract | `training/pipeline/msm_config.md` |
 | Report-card schema | `training/pipeline/session_report_schema.md` and `.json` |
@@ -159,7 +195,8 @@ Present-tense summary: **build Ninereeds first, then build BDH Cognitive OS arou
 
 The upstream **BDH** architecture and the core implementation in `bdh.py` come from Pathway Technology, Inc.
 
-- Paper: <https://arxiv.org/abs/2509.26507>
+- BDH Paper: <https://arxiv.org/abs/2509.26507>
+- CTM Paper: <https://arxiv.org/abs/2505.05522>
 - Repository: <https://github.com/pathwaycom/bdh>
 
 This repository builds a broader project around that base: curriculum creation, active MSM training, diagnostic tooling, and the eventual OS/harness intended to support Ninereeds.

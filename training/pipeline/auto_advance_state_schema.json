@@ -13,6 +13,7 @@
     "last_session_id",
     "last_action",
     "auto_advanced_count",
+    "script_counts",
     "retry_counts",
     "next_word",
     "requires_codex",
@@ -36,6 +37,10 @@
       ]
     },
     "auto_advanced_count": {"type": "integer", "minimum": 0},
+    "script_counts": {
+      "type": "object",
+      "additionalProperties": {"type": "integer", "minimum": 0}
+    },
     "retry_counts": {
       "type": "object",
       "additionalProperties": {"type": "integer", "minimum": 0}
