@@ -194,6 +194,7 @@ Present-tense summary: **build Ninereeds first, then build BDH Cognitive OS arou
 ## Attribution
 
 The upstream **BDH** architecture and the core implementation in `bdh.py` come from Pathway Technology, Inc.
+I implemented improvements to the architecture, inspired by Sakana AI's Continuous Thought Machines paper.
 
 - BDH Paper: <https://arxiv.org/abs/2509.26507>
 - CTM Paper: <https://arxiv.org/abs/2505.05522>
