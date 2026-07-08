@@ -306,6 +306,10 @@ Only short proposed `training_answer` fields can enter `proposed_training.jsonl`
 The orchestrator must approve them before they enter an update buffer. Diagnostic
 explanations are logs only.
 
+The executor must also include a deterministic script fingerprint in `script.json`. Use
+normalized text, question-type sequence, contrast pairs, and target failure modes. Do not
+use embedding similarity for v1 script de-duplication.
+
 ---
 
 ## SRS State
@@ -324,6 +328,11 @@ The scheduler tracks two axes:
   "next_action": "repair_replay"
 }
 ```
+
+The persisted `concept_state.json` expands this into queryable counters. Each card tracks
+total attempts, successes, failures, last strategy, last session, successful axes, weak
+axes, failure modes, per-axis counts, and per-strategy counts. This gives the scheduler
+analytical leverage without reparsing old report directories.
 
 Boxes:
 

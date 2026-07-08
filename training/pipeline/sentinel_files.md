@@ -3,10 +3,10 @@
 This is the canonical sentinel list for MSM automation. Hermes and the orchestrator
 must use these exact filenames.
 
-Sentinel files may live anywhere under `training/msm/`. Step 0 checks for them with:
+Sentinel files may live anywhere under `training/pipeline/msm/`. Step 0 checks for them with:
 
 ```bash
-find training/msm \( \
+find training/pipeline/msm \( \
   -name HUMAN_ATTENTION \
   -o -name BLOCKED \
   -o -name TRAINING_MACHINE_DOWN \

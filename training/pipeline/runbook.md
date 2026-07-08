@@ -2,6 +2,10 @@
 
 Open this document when running or supervising the active training loop.
 
+This runbook is for the cold-start MSM loop. Read
+`training/pipeline/msm/state/phase_registry.json` before planning. Early nonsense is not
+ordinary concept failure; use the current phase gates.
+
 ---
 
 ## Step 0 - Orient
@@ -9,22 +13,22 @@ Open this document when running or supervising the active training loop.
 Check the Codex brake, active sessions, pending reports, and human-attention sentinels.
 
 ```bash
-test -f training/msm/state/codex_brake.json && cat training/msm/state/codex_brake.json || true
+test -f training/pipeline/msm/state/codex_brake.json && cat training/pipeline/msm/state/codex_brake.json || true
 ps aux | grep -E "trainer|ninereeds|chat|inference" | grep -v grep
-find training/msm \( \
+find training/pipeline/msm \( \
   -name HUMAN_ATTENTION \
   -o -name BLOCKED \
   -o -name TRAINING_MACHINE_DOWN \
   -o -name API_CREDITS_EXHAUSTED \
   -o -name PROMOTION_REVIEW_REQUIRED \
 \) 2>/dev/null
-find training/msm/sessions -maxdepth 2 -name report_card.json 2>/dev/null | tail -20
+find training/pipeline/msm/sessions -maxdepth 2 -name report_card.json 2>/dev/null | tail -20
 ```
 
 States:
 
 - **Codex brake missing** - continue manually, but write a warning to
-  `training/msm/logs/orchestrator.jsonl` before autonomous work.
+  `training/pipeline/msm/logs/orchestrator.jsonl` before autonomous work.
 - **Codex brake `continue`** - normal campaign mode.
 - **Codex brake `conservative_mode`** - avoid optional probes, broad scans, cleanup,
   nonessential repo edits, and exploratory branches.
@@ -32,7 +36,7 @@ States:
   state, then stop or sleep.
 - **Codex brake `pause_until_reset`** - do not launch a new session, call executor for
   new work, or apply updates. Write a pause note to
-  `training/msm/logs/orchestrator.jsonl`, sleep until `reset_at` in an autonomous shell
+  `training/pipeline/msm/logs/orchestrator.jsonl`, sleep until `reset_at` in an autonomous shell
   loop, then re-read the brake.
 - **Codex brake `blocked_unknown_reset`** - write or preserve `BLOCKED` and stop.
 - **Session running** - monitor, do not launch another session for the same card.
@@ -46,11 +50,13 @@ States:
 
 Read:
 
+- phase registry
 - latest orchestrator log
 - active campaign policy
 - word queue and auto-advance state
 - latest `report_card.json` for the target concept
 - concept state JSON
+- session archive JSON
 - protected-anchor status
 - parent checkpoint metadata
 
@@ -73,8 +79,11 @@ The orchestrator writes or updates bounded policy for the executor:
 - escalation conditions
 - whether proposed training turns may be extracted
 - whether a micro-update is allowed after a report
+- scheduler weights for learnability, severity, under-exploration, retry penalty, and
+  protected-anchor priority
+- whether `meta_scratchpad.md` may be injected into executor prompts
 
-Before writing or dispatching new work, re-check `training/msm/state/codex_brake.json`.
+Before writing or dispatching new work, re-check `training/pipeline/msm/state/codex_brake.json`.
 Do not start new work when the action is `pause_until_reset` or `blocked_unknown_reset`.
 
 If the policy needs human input, write the configured sentinel file and stop.
@@ -82,6 +91,12 @@ If the policy needs human input, write the configured sentinel file and stop.
 ---
 
 ## Step 3 - Executor Builds One Script
+
+For Phase 0 and Phase 1 cold-start frontload blocks, use
+`meta/scripts/msm_phase_runner.py` instead of the later MSM session loop. The runner
+generates direct training examples, calls `train.py`, and writes a phase block report.
+
+For later phase-appropriate scripted sessions:
 
 The executor follows the current word queue and writes one `script.json`.
 
@@ -97,8 +112,16 @@ Script requirements:
 - per-item grading metadata
 - stop conditions for execution errors only
 - script ID and orchestrator plan/policy ID
+- executor ID and fixed selection method
+- `meta_scratchpad` injection flag
+- deterministic script fingerprint using normalized prompt text, question-type sequence,
+  contrast pairs, and target failure modes
 
 The trainer must be able to execute the script without interpreting the research goal.
+
+Before dispatch, reject an exact structural duplicate unless the active policy explicitly
+allows repetition and records the reason. Prompt-overlap warnings are advisory; exact
+fingerprint duplicates are a hard stop by default.
 
 Example item shape:
 
@@ -146,6 +169,9 @@ The executor reads `raw_chat.jsonl` and writes:
 - `report.md`
 - `proposed_training.jsonl` if proposed training turns exist
 - `failed_turns.jsonl`
+
+The executor also carries the script fingerprint and executor context into
+`report_card.json`.
 
 Every scripted item receives an individual grade. At minimum the grade records:
 
@@ -207,6 +233,16 @@ Possible decisions:
 
 Record the decision in a stable JSON artifact.
 
+After accepting a report card as usable evidence, update:
+
+- `training/pipeline/msm/state/concept_state.json`
+- `training/pipeline/msm/state/session_archive.json`
+
+`concept_state.json` accumulates per-card and per-axis attempts, successes, failures,
+off-topic/malformed counts, last strategy, and last session. `session_archive.json` indexes
+the report card, script fingerprint, executor ID, strategy, scores, axes, and failure
+modes so later scheduling can query evidence without reparsing every session directory.
+
 ---
 
 ## Step 8 - Optional Micro-Update
@@ -247,12 +283,3 @@ Hermes reports:
 Hermes pings the user when a sentinel file exists or when configured thresholds are crossed.
 
 Sentinel contract: `training/pipeline/sentinel_files.md`.
-
----
-
-## Current Protected Baseline
-
-`core/c17_contrast_angle_1200_e4.pt`
-
-Do not continue from C17 repair branches unless the orchestrator explicitly chooses a
-recovery experiment.

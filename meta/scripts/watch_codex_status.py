@@ -2,7 +2,7 @@
 """Passive Codex TUI status watcher for the MSM autonomous loop.
 
 This script observes a tmux pane running Codex, parses visible status rate-limit text when
-available, and writes deterministic state files under training/msm/state. It never sends
+available, and writes deterministic state files under training/pipeline/msm/state. It never sends
 input to Codex.
 """
 
@@ -183,7 +183,7 @@ def projected_exhaustion(highest_used: int | None, last_hour_delta: int | None) 
 
 
 def write_blocked_sentinel(repo: Path, reason: str, now: dt.datetime) -> None:
-    sentinel = repo / "training/msm/BLOCKED"
+    sentinel = repo / "training/pipeline/msm/BLOCKED"
     sentinel.parent.mkdir(parents=True, exist_ok=True)
     if sentinel.exists():
         return
@@ -191,7 +191,7 @@ def write_blocked_sentinel(repo: Path, reason: str, now: dt.datetime) -> None:
         "created_at": now.isoformat(),
         "source": "codex_status_watchdog",
         "reason": reason,
-        "requested_action": "Inspect visible Codex status parsing and update training/msm/state/codex_brake.json.",
+        "requested_action": "Inspect visible Codex status parsing and update training/pipeline/msm/state/codex_brake.json.",
     }
     write_json(sentinel, body)
 
@@ -206,7 +206,7 @@ def main() -> int:
     args = parser.parse_args()
 
     repo = args.repo.resolve()
-    state = repo / "training/msm/state"
+    state = repo / "training/pipeline/msm/state"
     snap_path = state / "codex_pane_snapshot.txt"
     status_json = state / "codex_status.json"
     status_md = state / "codex_status.md"

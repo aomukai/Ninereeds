@@ -23,7 +23,7 @@ Hermes may:
 - run deterministic read-only status commands
 - run repo-provided watchdog scripts that only write watchdog/status artifacts
 - post Discord status messages if webhook credentials are configured
-- append to training/msm/logs/hermes.jsonl if explicitly configured
+- append to training/pipeline/msm/logs/hermes.jsonl if explicitly configured
 - create sentinel files only if a deterministic watchdog condition requires it and the
   repo contract says to do so
 
@@ -78,17 +78,17 @@ Target runtime behavior:
 5. Every hour, Hermes sends a compact Discord/status digest based only on repo artifacts.
 
 Required digest fields:
-- sentinel status: list any sentinel files under training/msm/
+- sentinel status: list any sentinel files under training/pipeline/msm/
 - Codex 5h usage: used %, left %, reset time
 - Codex weekly usage: used %, left %, reset time
 - Codex last-hour burn: +N% if available
 - Codex projected exhaustion: safe|warning|danger|unknown
 - Codex brake action: continue|conservative_mode|finish_current_only|pause_until_reset|blocked_unknown_reset
-- trainbox status if training/msm/state/trainbox_heartbeat.json exists
+- trainbox status if training/pipeline/msm/state/trainbox_heartbeat.json exists
 - latest session/report/update summary if compact artifacts exist
 
 Sentinel handling:
-Watch for exact sentinel names anywhere under training/msm/:
+Watch for exact sentinel names anywhere under training/pipeline/msm/:
 - HUMAN_ATTENTION
 - BLOCKED
 - TRAINING_MACHINE_DOWN
@@ -102,18 +102,18 @@ If a sentinel exists, ping Andi in Discord. Include:
 - timestamp if available
 
 Files Hermes should read during normal hourly operation:
-- training/msm/state/codex_status.md
-- training/msm/state/codex_status.json
-- training/msm/state/codex_brake.json
-- training/msm/state/trainbox_heartbeat.json if present
-- training/msm/logs/orchestrator.jsonl if present
-- training/msm/logs/hermes.jsonl if present
+- training/pipeline/msm/state/codex_status.md
+- training/pipeline/msm/state/codex_status.json
+- training/pipeline/msm/state/codex_brake.json
+- training/pipeline/msm/state/trainbox_heartbeat.json if present
+- training/pipeline/msm/logs/orchestrator.jsonl if present
+- training/pipeline/msm/logs/hermes.jsonl if present
 - compact latest report/decision artifacts if their paths are obvious from state files
 - sentinel files found by deterministic find command
 
 Files Hermes may write during normal hourly operation:
 - nothing, by default
-- optionally append one JSONL status event to training/msm/logs/hermes.jsonl
+- optionally append one JSONL status event to training/pipeline/msm/logs/hermes.jsonl
 
 Setup deliverables:
 1. Confirm whether tmux is installed.

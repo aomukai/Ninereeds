@@ -4,15 +4,16 @@ Active tasks only. When a task is done: delete it here, add an entry to `history
 
 ---
 
-## Next Campaign Design
+## Cold-Start MSM Design
 
-### Design concept-card tutor loop / Mommy Says machine
+### Design cold-start developmental tutor loop
 
-Create the C18-ready design for per-concept adaptive teaching.
+Create the cold-start MSM design for phase-gated developmental teaching.
 
 References:
 
-- C17 handoff: `training/logs/campaign_17_reports/01_handoff.md`
+- Cold-start phase ladder: `training/pipeline/cold_start_phases.md`
+- Phase registry: `training/pipeline/msm/state/phase_registry.json`
 - Tutor-loop spec: `training/pipeline/tutor_loop.md`
 - Existing Mommy Says design: `training/pipeline/mommy_says_machine.md`
 - Iteration schema: `training/pipeline/iteration_schema.md`
@@ -30,7 +31,8 @@ Design points to resolve:
 - output layout for logs, diagnosis, validated corpus, and failed turns
 - first prototype card set, likely `dog`, `tree`, `plant`, `animal`, `mammal`, `airport`, `airplane`, `water`, identity, and unknown-boundary anchors
 
-Do not start broad training from C17 repair branches. Protected C17 checkpoint remains `core/c17_contrast_angle_1200_e4.pt`.
+Do not start from historical campaign checkpoints unless a new explicit comparison
+experiment records that decision. The active cold-start parent is `scratch`.
 
 ---
 

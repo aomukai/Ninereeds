@@ -64,7 +64,9 @@
         "script_mode",
         "orchestrator_plan_id",
         "intended_stage",
-        "intended_failure_targets"
+        "intended_failure_targets",
+        "executor_context",
+        "script_fingerprint"
       ],
       "properties": {
         "script_id": {"type": "string", "minLength": 1},
@@ -75,6 +77,51 @@
         "intended_failure_targets": {
           "type": "array",
           "items": {"type": "string"}
+        },
+        "executor_context": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "executor_id",
+            "selection_method",
+            "meta_scratchpad_injected",
+            "meta_scratchpad_path"
+          ],
+          "properties": {
+            "executor_id": {"type": "string", "minLength": 1},
+            "selection_method": {"enum": ["fixed"]},
+            "meta_scratchpad_injected": {"type": "boolean"},
+            "meta_scratchpad_path": {"type": ["string", "null"]}
+          }
+        },
+        "script_fingerprint": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "algorithm",
+            "structural_hash",
+            "prompt_hash",
+            "question_type_sequence",
+            "contrast_pairs"
+          ],
+          "properties": {
+            "algorithm": {"const": "msm_script_fingerprint_v1"},
+            "structural_hash": {"type": "string", "minLength": 1},
+            "prompt_hash": {"type": "string", "minLength": 1},
+            "question_type_sequence": {
+              "type": "array",
+              "items": {"type": "string"}
+            },
+            "contrast_pairs": {
+              "type": "array",
+              "items": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": {"type": "string"}
+              }
+            }
+          }
         }
       }
     },

@@ -2,14 +2,14 @@
 
 Read this after `CLAUDE.md`. This file is the short map for a fresh session.
 
-Last updated: 2026-07-01
+Last updated: 2026-07-09
 
 ---
 
 ## Session Startup
 
 1. Read `CLAUDE.md` for global operating constraints.
-2. Read this file for current state and key pointers.
+2. Read this file for current artifact pointers and key references.
 3. Read `todo.md` for the active work queue.
 4. Run Step 0 from `training/pipeline/runbook.md` to check MSM session/update state.
 
@@ -19,16 +19,33 @@ Last updated: 2026-07-01
 
 | Field | Value |
 |---|---|
-| Active regime | MSM session training, not broad corpus pretraining |
+| Active regime | Cold-start MSM developmental training |
 | Canonical runbook | `training/pipeline/runbook.md` |
-| Protected baseline | `core/c17_contrast_angle_1200_e4.pt` |
-| Latest closed campaign | C17 — kernel corpus and chat-capable core exploration |
-| Best C17 signal | Contrast-angle 1,200-concept run: default eval 5/7, avg 0.905 |
-| Active work | Build the concept-card MSM pipeline and supporting scripts |
+| Active phase | `phase_0_form` in `training/pipeline/msm/state/phase_registry.json` |
+| Initial checkpoint policy | Start from `scratch` unless a phase transition artifact says otherwise |
+| Active work | Build the stateless cold-start MSM phase pipeline and supporting scripts |
 | Update backend | `meta/scripts/msm_micro_update.py` |
 | Hardware status | Training machine not assembled yet; implementation can proceed, live runs wait |
 
-Do not continue from C17 repair branches unless an explicit recovery experiment says so.
+Historical campaign checkpoints are evidence only. They are not active parents.
+
+---
+
+## Stateless Pipeline Rule
+
+Pipeline programs should not carry hidden memory between runs. Every runner reads explicit
+input artifacts, writes explicit output artifacts, and can be restarted from disk.
+
+Durable facts live in JSON/report artifacts under `training/pipeline/msm/`, especially:
+
+- `state/phase_registry.json` - active phase and canonical phase order
+- `phase_blocks/PHASE_ID/BLOCK_ID/block_report.json` - cold-start block evidence
+- `sessions/SESSION_ID/report_card.json` - later MSM session evidence
+- `state/concept_state.json` and `state/session_archive.json` - derived indexes when used
+
+If an artifact can be reconstructed from reports, treat it as a cache/index, not hidden
+authority. When artifacts disagree, prefer the immutable source report over a derived
+summary.
 
 ---
 
@@ -36,8 +53,10 @@ Do not continue from C17 repair branches unless an explicit recovery experiment 
 
 | What | Where |
 |---|---|
+| Orchestrator startup | `training/pipeline/orchestrator_startup.md` |
 | Executable step sequence | `training/pipeline/runbook.md` |
 | MSM training doctrine | `training/pipeline/training.md` |
+| Cold-start phase ladder | `training/pipeline/cold_start_phases.md` |
 | Pipeline/dataflow map | `training/pipeline/pipeline.md` |
 | Session/update decision semantics | `training/pipeline/iteration_schema.md` |
 | Mommy Says system boundary | `training/pipeline/mommy_says_machine.md` |
@@ -48,11 +67,20 @@ Do not continue from C17 repair branches unless an explicit recovery experiment 
 | Auto-advance schemas | `training/pipeline/active_campaign_policy_schema.json`, `training/pipeline/word_queue_schema.json`, `training/pipeline/auto_advance_state_schema.json` |
 | Session report schema | `training/pipeline/session_report_schema.md` + `.json` |
 | Training turn schema | `training/pipeline/training_turn_schema.json` |
+| Cold-start phase schema | `training/pipeline/cold_start_phase_schema.json` |
+| Phase registry schema | `training/pipeline/phase_registry_schema.json` |
+| Phase block report schema | `training/pipeline/phase_block_report_schema.json` |
+| Active phase registry | `training/pipeline/msm/state/phase_registry.json` |
+| Concept state schema | `training/pipeline/concept_state_schema.json` |
+| Session archive schema | `training/pipeline/session_archive_schema.json` |
 | Update artifact schema | `training/pipeline/update_artifact_schema.md` |
 | Update manifest schema | `training/pipeline/update_manifest_schema.json` |
 | Update candidate eval schema | `training/pipeline/update_candidate_eval_schema.json` |
 | Orchestrator config schema | `training/pipeline/orchestrator_config_schema.json` |
 | Micro-update backend | `meta/scripts/msm_micro_update.py` |
+| Cold-start phase runner | `meta/scripts/msm_phase_runner.py` |
+| Orchestrator status helper | `meta/scripts/msm_orchestrator_status.py` |
+| MSM utility helpers | `meta/scripts/msm_pipeline_utils.py` |
 | Codex status watchdog | `meta/scripts/watch_codex_status.py` |
 
 ---
@@ -61,9 +89,7 @@ Do not continue from C17 repair branches unless an explicit recovery experiment 
 
 | What | Where |
 |---|---|
-| C17 handoff | `training/logs/campaign_17_reports/01_handoff.md` |
 | Archived corpus inventory and campaign history | `archive/training_pipeline/curriculum_topology.md` |
-| Archived C17 epoch-campaign configs | `archive/training_pipeline/epoch_campaigns/` |
 | Kernel spec | `kernel.md` |
 | Identity spec | `identity.md` |
 | Kernel file format | `training/corpus_admin/kernel/FORMAT.md` |
@@ -87,8 +113,8 @@ Evaluation is anytime in the MSM regime. It is not tied to epochs.
 ## Project Layout
 
 ```text
-training/pipeline/       active MSM docs and schemas only
-training/msm/            planned runtime state: sessions, buffers, updates, logs
+training/pipeline/       active MSM docs, schemas, and explicit artifacts
+training/pipeline/msm/   artifact tree: state files, phase blocks, sessions, buffers, updates, logs
 meta/scripts/            runners, generators, eval tools, MSM micro-update backend
 core/                    local working checkpoints
 checkpoints/             promoted checkpoints

@@ -5,7 +5,7 @@ Session reports describe evidence. Update artifacts describe weight-changing eve
 The active update backend is a placeholder contract named:
 
 ```bash
-python3 meta/scripts/msm_micro_update.py --manifest training/msm/updates/UPDATE_ID/update_manifest.json
+python3 meta/scripts/msm_micro_update.py --manifest training/pipeline/msm/updates/UPDATE_ID/update_manifest.json
 ```
 
 If `meta/scripts/msm_micro_update.py` does not exist yet, the orchestrator must create
@@ -54,11 +54,11 @@ Every record in `approved_training.jsonl` must validate against
   "schema_version": "msm_update_manifest_v1",
   "update_id": "upd_000001_cat_boundary",
   "created_at": "2026-07-01T00:00:00Z",
-  "parent_checkpoint": "core/c17_contrast_angle_1200_e4.pt",
+  "parent_checkpoint": "core/msm/phase_0_form_current.pt",
   "output_checkpoint": "core/msm/upd_000001_cat_boundary.pt",
   "source_sessions": ["session_cat_001"],
   "approved_training_files": [
-    "training/msm/buffers/buf_000001/approved_training.jsonl"
+    "training/pipeline/msm/buffers/buf_000001/approved_training.jsonl"
   ],
   "approved_turn_count": 5,
   "approval": {
@@ -69,7 +69,7 @@ Every record in `approved_training.jsonl` must validate against
   },
   "update_backend": {
     "name": "buffered_micro_update",
-    "command": "python3 meta/scripts/msm_micro_update.py --manifest training/msm/updates/upd_000001_cat_boundary/update_manifest.json",
+    "command": "python3 meta/scripts/msm_micro_update.py --manifest training/pipeline/msm/updates/upd_000001_cat_boundary/update_manifest.json",
     "learning_rate": 0.00002,
     "max_steps": 1,
     "notes": "Backend implementation TBD."
@@ -90,11 +90,11 @@ Written after the update candidate is evaluated.
   "schema_version": "msm_update_candidate_eval_v1",
   "update_id": "upd_000001_cat_boundary",
   "candidate_checkpoint": "core/msm/upd_000001_cat_boundary.pt",
-  "parent_checkpoint": "core/c17_contrast_angle_1200_e4.pt",
+  "parent_checkpoint": "core/msm/phase_0_form_current.pt",
   "target_checks": {
     "passed": true,
     "summary": "cat_not_dog repaired in scripted probes",
-    "report_cards": ["training/msm/sessions/session_cat_replay_001/report_card.json"]
+    "report_cards": ["training/pipeline/msm/sessions/session_cat_replay_001/report_card.json"]
   },
   "protected_anchor_checks": {
     "tested": true,

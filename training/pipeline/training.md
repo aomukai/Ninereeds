@@ -1,11 +1,16 @@
 # Ninereeds MSM Training Reference
 
 Active regime as of 2026-07-08: Ninereeds is trained through Mommy Says Machine
-scripted teaching sessions, not broad pretraining campaigns and not free chat.
+scripted developmental teaching from scratch, not broad pretraining campaigns and not free
+chat.
 
 Traditional `corpus -> epochs -> eval -> winner` training is deprecated for the active
 path. Historical campaign docs remain useful evidence, but they are not the procedure for
 new work.
+
+Cold-start MSM starts from random weights and follows gated developmental phases. Its phase
+contract is `training/pipeline/cold_start_phases.md`. Early cold-start failure is expected
+until the current phase gate is met.
 
 ---
 
@@ -26,6 +31,13 @@ The atomic unit is a **scripted word/card session**:
 6. The orchestrator decides strategy only when needed: accept, replay, repair, probe,
    scan, rollback, update, escalate, or ask the user.
 7. Proposed turns may be approved and applied through a small micro-update backend.
+
+The orchestrator also maintains accumulated evidence:
+
+- `concept_state.json` - per-card and per-axis attempts, successes, failures, retry
+  counts, last strategy, and last session
+- `session_archive.json` - queryable report-card summaries and deterministic script
+  fingerprints
 
 Raw chat logs are evidence. They are not training data by default.
 Only orchestrator-approved `training_answer` turns may enter an update buffer.
@@ -92,6 +104,15 @@ Executor grading categories:
 When a teacher/correction line is present, the executor grades both the original answer and
 the post-correction answer.
 
+Executor selection is fixed in v1. A helper may return the configured default executor,
+but UCB/bandit selection is intentionally deferred until there are multiple real executor
+backends with comparable outcome data.
+
+Executor prompts may optionally include `meta_scratchpad.md` only when
+`orchestrator_config.json` sets `executor_prompt_context.inject_meta_scratchpad` to true.
+This gate exists for ablations; scratchpad context must not become implicit
+infrastructure.
+
 ### Orchestrator
 
 The orchestrator owns strategy.
@@ -117,7 +138,7 @@ Responsibilities:
 - poll sentinel files and compact status files
 - check trainbox reachability, heartbeat freshness, disk status, and GPU status through
   deterministic commands
-- read `training/msm/state/codex_status.md` and report Codex burn-rate summaries
+- read `training/pipeline/msm/state/codex_status.md` and report Codex burn-rate summaries
 - post Discord status summaries
 - detect sentinel files requiring human attention
 - ping the user when a crash, missing key, exhausted credits, blocked decision, or
@@ -136,19 +157,10 @@ Forbidden:
 
 ## Starting Point
 
-The active bootstrapped MSM baseline is:
-
-`core/c17_contrast_angle_1200_e4.pt`
-
-This checkpoint is protected. New MSM branches start from it or from a later accepted
-checkpoint. Repair branches from C17 are evidence only and must not become the default
-parent unless a new experiment explicitly tests recovery behavior.
-
-Cold-start MSM from random weights is a separate mode. It is expected to produce byte
+Cold-start MSM starts from random weights. It is expected to produce byte
 noise, letters, malformed fragments, word-like text, and semantically wrong sentences
-before coherent answers appear. Cold-start procedures must use different success gates.
-The active baseline is already past the pre-lexical stage; no special byte-noise session
-mode is needed for the bootstrapped C17 path.
+before coherent answers appear. Cold-start procedures must use phase-specific frontload,
+evaluation, and gate criteria.
 
 ## Codex Rate-Limit Brake
 
@@ -156,13 +168,13 @@ Codex is the campaign brain and should not spend reasoning tokens on repetitive 
 log-watching, or routine auto-advance decisions. During autonomous operation, an external
 watchdog observes the Codex tmux pane and writes:
 
-- `training/msm/state/codex_status.json`
-- `training/msm/state/codex_status.md`
-- `training/msm/state/codex_brake.json`
+- `training/pipeline/msm/state/codex_status.json`
+- `training/pipeline/msm/state/codex_status.md`
+- `training/pipeline/msm/state/codex_brake.json`
 
 Before starting a new orchestration boundary, the orchestrator must read
 `codex_brake.json`. If it is missing, continue only in manual mode and record a warning in
-`training/msm/logs/orchestrator.jsonl`.
+`training/pipeline/msm/logs/orchestrator.jsonl`.
 
 Actions:
 
@@ -218,6 +230,11 @@ Every session must produce:
 - `failed_turns.jsonl` - diagnosis records for rejected or failed turns
 
 The schema is defined in `training/pipeline/session_report_schema.md`.
+
+Every `script.json` and `report_card.json` must record the executor context and
+`msm_script_fingerprint_v1`. The fingerprint is deterministic and cheap: normalized prompt
+hash, question-type sequence, contrast pairs, and target failure modes. Do not require an
+embedding model for v1 duplicate detection.
 
 When markdown and JSON disagree, `report_card.json` is authoritative.
 
@@ -371,7 +388,6 @@ The following are historical tools and evidence, not the active training loop:
 - fixed campaign blocks
 - multi-epoch winner selection
 - shaped score as a promotion target
-- C17 repair branches as successors
 
 These may still be used for controlled comparison or diagnostics, but only when the
 orchestrator explicitly chooses that experiment.

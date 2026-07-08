@@ -162,13 +162,9 @@ This is the standard response to failures such as:
 
 ## Cold Start
 
-Bootstrapped MSM begins from:
-
-`core/c17_contrast_angle_1200_e4.pt`
-
-Cold-start MSM from random weights is allowed only as a distinct experiment. Its logs may
-begin with byte noise, letter fragments, malformed words, and nonsensical sentences.
-Cold-start reporting should still use the same schema, but thresholds must be different.
+MSM begins from random weights. Early logs may contain byte noise, letter fragments,
+malformed words, and nonsensical sentences. Cold-start reporting still uses stable
+artifacts, but each phase has its own frontload, evaluation, and gate criteria.
 
 ---
 

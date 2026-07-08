@@ -26,10 +26,23 @@ Minimal example:
   "created_at": "2026-07-08T00:00:00Z",
   "concept": "dog",
   "card_id": "dog_boundary_l1",
-  "checkpoint": "core/c17_contrast_angle_1200_e4.pt",
+  "checkpoint": "scratch",
   "session_mode": "contrast_session",
   "intended_stage": "or_question",
   "intended_failure_targets": ["same_category_confusion"],
+  "executor_context": {
+    "executor_id": "local:qwen3.6-36b-a3b",
+    "selection_method": "fixed",
+    "meta_scratchpad_injected": false,
+    "meta_scratchpad_path": null
+  },
+  "script_fingerprint": {
+    "algorithm": "msm_script_fingerprint_v1",
+    "structural_hash": "sha256...",
+    "prompt_hash": "sha256...",
+    "question_type_sequence": ["yes_no"],
+    "contrast_pairs": [["dog", "cat"]]
+  },
   "trainer_contract": {
     "send_user_prompt": true,
     "record_original_answer": true,
@@ -72,6 +85,10 @@ Trainer rules:
 - never grade
 - never rewrite prompts or corrections
 
+The fingerprint is a cheap de-duplication aid. It is based on normalized prompts,
+question-type sequence, contrast pairs, and target failure modes. It should not require an
+embedding model in v1.
+
 ---
 
 ## `raw_chat.jsonl`
@@ -81,10 +98,10 @@ The trainer writes one JSON object per event. The file is append-only for the se
 Example lines for one script item:
 
 ```json
-{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":0,"event_type":"user_prompt","speaker":"user","text":"Is a dog a cat?","created_at":"2026-07-08T00:00:01Z","latency_ms":null,"checkpoint":"core/c17_contrast_angle_1200_e4.pt","inference":null,"error":null}
-{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":1,"event_type":"ninereeds_original_answer","speaker":"ninereeds","text":"A dog is an animal. A cat is an animal. A dog is a cat.","created_at":"2026-07-08T00:00:02Z","latency_ms":820,"checkpoint":"core/c17_contrast_angle_1200_e4.pt","inference":{"temperature":0.0,"top_k":1,"max_new_tokens":96,"device":"cuda"},"error":null}
-{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":2,"event_type":"teacher_correction","speaker":"teacher","text":"A dog is not a cat.","created_at":"2026-07-08T00:00:03Z","latency_ms":null,"checkpoint":"core/c17_contrast_angle_1200_e4.pt","inference":null,"error":null}
-{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":3,"event_type":"ninereeds_after_correction_answer","speaker":"ninereeds","text":"A dog is not a cat.","created_at":"2026-07-08T00:00:04Z","latency_ms":610,"checkpoint":"core/c17_contrast_angle_1200_e4.pt","inference":{"temperature":0.0,"top_k":1,"max_new_tokens":96,"device":"cuda"},"error":null}
+{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":0,"event_type":"user_prompt","speaker":"user","text":"Is a dog a cat?","created_at":"2026-07-08T00:00:01Z","latency_ms":null,"checkpoint":"scratch","inference":null,"error":null}
+{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":1,"event_type":"ninereeds_original_answer","speaker":"ninereeds","text":"A dog is an animal. A cat is an animal. A dog is a cat.","created_at":"2026-07-08T00:00:02Z","latency_ms":820,"checkpoint":"scratch","inference":{"temperature":0.0,"top_k":1,"max_new_tokens":96,"device":"cuda"},"error":null}
+{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":2,"event_type":"teacher_correction","speaker":"teacher","text":"A dog is not a cat.","created_at":"2026-07-08T00:00:03Z","latency_ms":null,"checkpoint":"scratch","inference":null,"error":null}
+{"schema_version":"msm_raw_chat_line_v1","session_id":"session_dog_cat_001","script_id":"scr_dog_cat_001","item_id":"i001","sequence_index":3,"event_type":"ninereeds_after_correction_answer","speaker":"ninereeds","text":"A dog is not a cat.","created_at":"2026-07-08T00:00:04Z","latency_ms":610,"checkpoint":"scratch","inference":{"temperature":0.0,"top_k":1,"max_new_tokens":96,"device":"cuda"},"error":null}
 ```
 
 Execution errors are logged as `event_type: "execution_error"` with `speaker: "trainer"`

@@ -27,7 +27,20 @@ Required top-level fields:
     "script_mode": "fixed",
     "orchestrator_plan_id": "string",
     "intended_stage": "string",
-    "intended_failure_targets": ["string"]
+    "intended_failure_targets": ["string"],
+    "executor_context": {
+      "executor_id": "local:qwen3.6-36b-a3b",
+      "selection_method": "fixed",
+      "meta_scratchpad_injected": false,
+      "meta_scratchpad_path": null
+    },
+    "script_fingerprint": {
+      "algorithm": "msm_script_fingerprint_v1",
+      "structural_hash": "sha256...",
+      "prompt_hash": "sha256...",
+      "question_type_sequence": ["yes_no"],
+      "contrast_pairs": [["cat", "dog"]]
+    }
   },
   "counts": {
     "script_items": 0,
@@ -91,6 +104,13 @@ cluster card being taught, not only the base concept.
 
 `requires_orchestrator_decision` may be `false` only when the active campaign policy allows
 the executor to auto-advance and no escalation condition fired.
+
+The `script.executor_context` fields are required so later analysis can distinguish clean
+runs from scratchpad-assisted runs. In v1, `selection_method` is always `fixed`.
+
+The `script.script_fingerprint` fields are required for deterministic duplicate detection.
+Do not use embedding similarity for v1 MSM de-duplication unless the orchestrator records a
+separate experiment.
 
 ---
 

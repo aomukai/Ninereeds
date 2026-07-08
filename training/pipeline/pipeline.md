@@ -10,7 +10,7 @@ Last updated: 2026-07-08
 
 ```text
 orchestrator strategy
-  -> executor selects next word/card from policy and writes one script
+  -> executor selects the next phase-appropriate item from policy and writes one script
   -> trainer runs the script mechanically against Ninereeds
   -> raw chat log
   -> executor grades every scripted item
@@ -19,8 +19,18 @@ orchestrator strategy
   -> optional approved micro-update / probe / replay / scan / escalation
 ```
 
-The active loop is session-based and epochless. One script is the smallest execution unit.
-One word/card may need several scripts before it is ready to auto-advance.
+The active loop is cold-start, phase-gated, and epochless. One script is the smallest
+execution unit. Cold-start MSM starts from random weights and follows the phase contract in
+`cold_start_phases.md`; each phase defines frontload data, evaluation probes, and success
+gates before the next phase can start.
+
+Phase 0 and Phase 1 use a frontload block runner before ordinary MSM sessions are useful:
+
+```text
+phase policy -> generate examples -> train block -> probe -> block report
+```
+
+The current runner entry point is `meta/scripts/msm_phase_runner.py`.
 
 ---
 
@@ -29,12 +39,15 @@ One word/card may need several scripts before it is ready to auto-advance.
 Planned active layout:
 
 ```text
-training/msm/
+training/pipeline/msm/
   state/
+    phase_registry.json
     concept_state.json
+    session_archive.json
     protected_anchors.json
     orchestrator_state.json
     orchestrator_config.json
+    meta_scratchpad.md
     codex_pane_snapshot.txt
     codex_status.json
     codex_status.md
@@ -54,6 +67,13 @@ training/msm/
       report.md
       proposed_training.jsonl
       failed_turns.jsonl
+  phase_blocks/
+    PHASE_ID/
+      BLOCK_ID/
+        frontload.jsonl
+        probes.jsonl
+        train_stdout.log
+        block_report.json
   buffers/
     BUFFER_ID/
       approved_training.jsonl
@@ -101,6 +121,11 @@ Candidate local executor models:
 Quality matters more than throughput. The executor should be evaluated by script quality,
 grading reliability, and ability to escalate at the right time.
 
+Executor selection is fixed in v1. The orchestrator may call a `select_executor` helper,
+but it must currently return the configured default executor. Do not implement UCB or
+bandit executor routing until there are multiple real backends with comparable outcome
+data.
+
 Required outputs:
 
 - `script.json`
@@ -108,6 +133,11 @@ Required outputs:
 - `report_card.json`
 - `report.md`
 - optional `proposed_training.jsonl`
+
+Each `script.json` records executor ID, selection method, whether `meta_scratchpad.md`
+was injected, and a deterministic script fingerprint. The fingerprint uses normalized
+text, question-type sequence, contrast pairs, and target failure modes. It is deliberately
+not embedding-based in v1.
 
 ### Trainer
 
@@ -149,8 +179,8 @@ and project root. The watchdog observes the pane passively:
 python3 meta/scripts/watch_codex_status.py
 ```
 
-The watchdog writes `training/msm/state/codex_status.json`,
-`training/msm/state/codex_status.md`, and `training/msm/state/codex_brake.json`.
+The watchdog writes `training/pipeline/msm/state/codex_status.json`,
+`training/pipeline/msm/state/codex_status.md`, and `training/pipeline/msm/state/codex_brake.json`.
 `codex_status.json` is observational. `codex_brake.json` is normative and must be read
 before starting a new orchestration boundary.
 
@@ -171,14 +201,17 @@ Schemas:
 
 - `training/pipeline/codex_status_schema.json`
 - `training/pipeline/codex_brake_schema.json`
+- `training/pipeline/cold_start_phase_schema.json`
 
 ### Auto-Advance Policy
 
 Codex/orchestrator may authorize bounded executor auto-advance through:
 
-- `training/msm/state/active_campaign_policy.json`
-- `training/msm/state/word_queue.json`
-- `training/msm/state/auto_advance_state.json`
+- `training/pipeline/msm/state/active_campaign_policy.json`
+- `training/pipeline/msm/state/word_queue.json`
+- `training/pipeline/msm/state/auto_advance_state.json`
+- `training/pipeline/msm/state/concept_state.json`
+- `training/pipeline/msm/state/session_archive.json`
 
 The executor follows the word queue and writes one script at a time. After grading a
 script, it may append another script for the same word only while all of these remain true:
@@ -207,6 +240,15 @@ Allowed executor actions:
 - `RETRY_SAME_WORD`
 - `ESCALATE_CODEX`
 - `ESCALATE_HUMAN`
+
+Scheduler scoring should use accumulated state when available:
+
+```text
+score = learnability + severity + underexplored_bonus - retry_penalty
+```
+
+Protected anchors may add a separate priority weight, but protected-anchor failures still
+block promotion rather than acting like ordinary failed cards.
 
 Schemas:
 
@@ -253,7 +295,7 @@ Initial implementation: buffered micro-updates.
 Invocation contract:
 
 ```bash
-python3 meta/scripts/msm_micro_update.py --manifest training/msm/updates/UPDATE_ID/update_manifest.json
+python3 meta/scripts/msm_micro_update.py --manifest training/pipeline/msm/updates/UPDATE_ID/update_manifest.json
 ```
 
 If that script does not exist yet, the orchestrator must write `BLOCKED` and request

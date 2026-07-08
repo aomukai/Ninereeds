@@ -2,7 +2,7 @@
 
 The active config file should live at:
 
-`training/msm/state/orchestrator_config.json`
+`training/pipeline/msm/state/orchestrator_config.json`
 
 Machine-readable schema:
 
@@ -18,7 +18,12 @@ running autonomous sessions.
 ```json
 {
   "schema_version": "msm_orchestrator_config_v1",
-  "protected_best": "core/c17_contrast_angle_1200_e4.pt",
+  "checkpoint_policy": {
+    "initial_parent": "scratch",
+    "current_parent": "scratch",
+    "accepted_checkpoint": null,
+    "historical_checkpoints_are_parents": false
+  },
   "thresholds": {
     "max_malformed_rate": 0.10,
     "max_repetition_collapse": 0,
@@ -32,11 +37,37 @@ running autonomous sessions.
     "max_sessions_per_buffer": 5,
     "allow_single_session_repair_update": true
   },
+  "scheduler_policy": {
+    "learnability_weight": 1.0,
+    "severity_weight": 1.0,
+    "underexplored_weight": 0.5,
+    "retry_penalty_weight": 1.0,
+    "protected_anchor_weight": 2.0
+  },
+  "executor_selection": {
+    "selection_mode": "fixed",
+    "default_executor": "local:qwen3.6-36b-a3b",
+    "available_executors": ["local:qwen3.6-36b-a3b"]
+  },
+  "executor_prompt_context": {
+    "inject_meta_scratchpad": false,
+    "meta_scratchpad_path": "training/pipeline/msm/state/meta_scratchpad.md"
+  },
+  "deduplication_policy": {
+    "script_fingerprint_algorithm": "msm_script_fingerprint_v1",
+    "reject_exact_structural_duplicates": true,
+    "warn_prompt_jaccard_above": 0.85,
+    "allow_repetition_with_policy_reason": true
+  },
   "sentinel_contract": "training/pipeline/sentinel_files.md",
   "codex_status_schema": "training/pipeline/codex_status_schema.json",
   "codex_brake_schema": "training/pipeline/codex_brake_schema.json",
   "script_schema": "training/pipeline/script_schema.json",
   "raw_chat_line_schema": "training/pipeline/raw_chat_line_schema.json",
+  "phase_registry_schema": "training/pipeline/phase_registry_schema.json",
+  "phase_block_report_schema": "training/pipeline/phase_block_report_schema.json",
+  "concept_state_schema": "training/pipeline/concept_state_schema.json",
+  "session_archive_schema": "training/pipeline/session_archive_schema.json",
   "active_campaign_policy_schema": "training/pipeline/active_campaign_policy_schema.json",
   "word_queue_schema": "training/pipeline/word_queue_schema.json",
   "auto_advance_state_schema": "training/pipeline/auto_advance_state_schema.json",
@@ -48,16 +79,60 @@ running autonomous sessions.
 Thresholds are starting defaults, not research findings. The orchestrator may change them
 only by writing an explicit decision artifact.
 
+`executor_prompt_context.inject_meta_scratchpad` defaults to `false`. The meta scratchpad
+is an ablation-controlled prompt input, not required infrastructure. Every generated
+`script.json` must record whether the scratchpad was injected.
+
+`executor_selection.selection_mode` is fixed in v1. The helper interface may exist, but
+there is no UCB/bandit selection until multiple executor backends have enough comparable
+evidence.
+
+Script de-duplication uses deterministic fingerprints in v1: normalized prompt hashes,
+question-type sequences, contrast pairs, and target failure modes. Do not add an embedding
+model to this path unless the orchestrator explicitly approves a later experiment.
+
 ---
 
 ## Buffer Location
 
 Approved buffers live under:
 
-`training/msm/buffers/BUFFER_ID/approved_training.jsonl`
+`training/pipeline/msm/buffers/BUFFER_ID/approved_training.jsonl`
 
 The executor never writes this file directly. The orchestrator creates it by selecting records
 from one or more `proposed_training.jsonl` files.
 
 An update manifest must not be written unless the approved buffer contains at least
 `min_approved_turns_for_update` records.
+
+## Accumulated Evidence
+
+The orchestrator should maintain:
+
+- `training/pipeline/msm/state/phase_registry.json`
+- `training/pipeline/msm/state/concept_state.json`
+- `training/pipeline/msm/state/session_archive.json`
+
+`phase_registry.json` is the source of truth for the active phase and canonical phase
+sequence. `concept_state.json` accumulates card-level and axis-level attempts, successes,
+failures, retry counts, last strategy, and last session. `session_archive.json` is a
+queryable index of report-card summaries and script fingerprints. The full report
+artifacts remain under `training/pipeline/msm/sessions/SESSION_ID/`.
+
+## Cold-Start Block Runner
+
+Phase 0 and Phase 1 use a frontload block loop, not the later MSM session loop:
+
+```text
+generate examples -> train bounded block -> probe -> write phase block report
+```
+
+The runner entry point is:
+
+```bash
+python3 meta/scripts/msm_phase_runner.py
+```
+
+When the current parent is `scratch`, the runner must call `train.py` without `--resume`.
+No explicit scratch checkpoint file is required. After the first accepted cold-start block,
+later blocks resume from the accepted checkpoint recorded by checkpoint policy.

@@ -1,0 +1,149 @@
+# MSM Orchestrator Startup
+
+This is the master wake-up file for the stateless cold-start MSM pipeline.
+
+The orchestrator has no hidden memory. On every wake-up, reconstruct state from explicit
+artifacts, decide the next safe boundary, write the decision artifact, then stop or hand
+work to a deterministic runner.
+
+---
+
+## Startup Order
+
+Read these in order:
+
+1. `CLAUDE.md`
+2. `index.md`
+3. `todo.md`
+4. `training/pipeline/orchestrator_startup.md`
+5. `training/pipeline/runbook.md`
+6. `training/pipeline/cold_start_phases.md`
+7. `training/pipeline/msm_config.md`
+8. `training/pipeline/msm/state/phase_registry.json`
+
+Then run or read the deterministic startup summary:
+
+```bash
+python3 meta/scripts/msm_orchestrator_status.py
+```
+
+The summary is advisory. JSON/report artifacts remain the source of truth.
+
+---
+
+## Required Artifact Reads
+
+Always check:
+
+- `training/pipeline/msm/state/phase_registry.json`
+- `training/pipeline/msm/state/orchestrator_config.json` if present
+- `training/pipeline/msm/state/codex_brake.json` if present
+- sentinel files anywhere under `training/pipeline/msm/`
+- latest phase block reports under `training/pipeline/msm/phase_blocks/`
+- latest session report cards under `training/pipeline/msm/sessions/`
+- latest update evals under `training/pipeline/msm/updates/`
+
+Read derived indexes only after source reports:
+
+- `training/pipeline/msm/state/concept_state.json`
+- `training/pipeline/msm/state/session_archive.json`
+
+If a derived index conflicts with source reports, prefer the source report.
+
+---
+
+## Wake Reasons
+
+Classify why the orchestrator woke up:
+
+- `manual_start` - user started the pipeline or asked for status.
+- `no_config` - `orchestrator_config.json` is missing and must be created from the
+  config contract.
+- `no_block_yet` - current phase has no block report yet.
+- `block_finished` - a phase block report exists and needs a decision.
+- `block_failed` - block report or runner status is failed/blocked.
+- `gate_review` - local report says phase gate may be met.
+- `sentinel_present` - human/Codex attention sentinel exists.
+- `brake_blocks` - Codex brake disallows new work.
+- `update_review` - update candidate requires acceptance/rejection.
+
+Write the wake reason into the next decision/log artifact.
+
+---
+
+## Decision Boundaries
+
+The orchestrator may decide:
+
+- create missing `orchestrator_config.json`
+- run a cold-start phase block with `meta/scripts/msm_phase_runner.py`
+- repeat the same phase with adjusted block policy
+- request probe implementation or repair a runner failure
+- mark phase gate for manual review
+- advance to the next phase after gates pass
+- stop because sentinel/brake blocks work
+
+Do not run open-ended loops inside the orchestrator. The orchestrator sets bounded policy;
+deterministic runners do the repetitive work.
+
+---
+
+## Kickoff Model
+
+The recommended launch shape is:
+
+```text
+supervisor process
+  -> calls deterministic status helper
+  -> calls orchestrator at decision boundary
+  -> orchestrator writes decision
+  -> supervisor calls runner for bounded block
+  -> runner writes report
+  -> supervisor wakes orchestrator again
+```
+
+For early manual operation, it is acceptable to keep an orchestrator terminal open. For
+24/7 operation, prefer a small Python supervisor that invokes Codex/orchestrator only at
+decision boundaries. Do not keep Codex responsible for watching every training micro-step.
+
+## Manual Start Or Restart
+
+From the repository root, run:
+
+```bash
+meta/scripts/wake_msm_orchestrator.sh
+```
+
+This is safe after a clean start, crash, reboot, or power outage. The script starts a fresh
+ephemeral `codex-fugu exec` turn, points it at this startup contract, and closes stdin so it
+can run from a terminal, cron, or a future supervisor.
+
+On wake-up, the orchestrator must reconstruct state from disk, run:
+
+```bash
+python3 meta/scripts/msm_orchestrator_status.py
+```
+
+Then it takes only the next safe bounded action. If the status helper says
+`create_orchestrator_config`, the orchestrator should create
+`training/pipeline/msm/state/orchestrator_config.json` and stop or report the next command.
+If it says a phase block is ready, the orchestrator should hand off a bounded
+`msm_phase_runner.py` command rather than staying alive as a watcher.
+
+For a fully unattended reboot later, make the machine start a supervisor service that runs
+this same wake script at decision boundaries. The wake script is the orchestrator entrypoint;
+the supervisor is only the process manager.
+
+---
+
+## First Cold-Start Boundary
+
+For `phase_0_form`, if no block report exists and no sentinel/brake blocks work, the next
+safe action is usually a dry or live bounded block:
+
+```bash
+python3 meta/scripts/msm_phase_runner.py --phase-id phase_0_form --parent scratch
+```
+
+The runner omits `--resume` when parent is `scratch`; no scratch checkpoint file is
+required.
