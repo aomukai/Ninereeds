@@ -56,12 +56,14 @@
       "required": [
         "frontload_jsonl",
         "probe_jsonl",
+        "probe_results_jsonl",
         "train_stdout",
         "report_json"
       ],
       "properties": {
         "frontload_jsonl": {"type": "string", "minLength": 1},
         "probe_jsonl": {"type": ["string", "null"]},
+        "probe_results_jsonl": {"type": ["string", "null"]},
         "train_stdout": {"type": ["string", "null"]},
         "report_json": {"type": "string", "minLength": 1}
       }

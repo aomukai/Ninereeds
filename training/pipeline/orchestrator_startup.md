@@ -108,15 +108,24 @@ decision boundaries. Do not keep Codex responsible for watching every training m
 
 ## Manual Start Or Restart
 
-From the repository root, run:
+For the normal status-driven entrypoint, run:
 
 ```bash
-meta/scripts/wake_msm_orchestrator.sh
+training/pipeline/start.sh
 ```
 
-This is safe after a clean start, crash, reboot, or power outage. The script starts a fresh
-ephemeral `codex-fugu exec` turn, points it at this startup contract, and closes stdin so it
-can run from a terminal, cron, or a future supervisor.
+This is safe after a clean start, crash, reboot, or power outage. It prints deterministic
+status, creates the default static config if missing, runs local bounded phase blocks when no
+Codex decision is needed, and wakes the orchestrator only at decision boundaries.
+
+To force an orchestrator turn, run:
+
+```bash
+training/pipeline/start.sh --orchestrator
+```
+
+The forced path starts a fresh ephemeral `codex-fugu exec` turn, points it at this startup
+contract, and closes stdin so it can run from a terminal, cron, or a future supervisor.
 
 On wake-up, the orchestrator must reconstruct state from disk, run:
 
@@ -125,14 +134,13 @@ python3 meta/scripts/msm_orchestrator_status.py
 ```
 
 Then it takes only the next safe bounded action. If the status helper says
-`create_orchestrator_config`, the orchestrator should create
-`training/pipeline/msm/state/orchestrator_config.json` and stop or report the next command.
-If it says a phase block is ready, the orchestrator should hand off a bounded
-`msm_phase_runner.py` command rather than staying alive as a watcher.
+`create_orchestrator_config`, prefer the deterministic bootstrap helper unless a policy
+change is needed. If it says a phase block is ready, the normal `start.sh` path should run
+the local runner directly rather than spending an orchestrator turn.
 
 For a fully unattended reboot later, make the machine start a supervisor service that runs
-this same wake script at decision boundaries. The wake script is the orchestrator entrypoint;
-the supervisor is only the process manager.
+`training/pipeline/start.sh` at decision boundaries. `start.sh` is the supervisor entrypoint;
+`meta/scripts/wake_msm_orchestrator.sh` is only the bounded Codex wake helper.
 
 ---
 

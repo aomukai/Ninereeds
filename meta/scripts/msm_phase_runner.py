@@ -16,9 +16,11 @@ import argparse
 import json
 import os
 import random
+import re
 import shlex
 import subprocess
 import sys
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -26,6 +28,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[2]
 MSM_ROOT = ROOT / "training/pipeline/msm"
 REGISTRY_PATH = MSM_ROOT / "state/phase_registry.json"
+CONFIG_PATH = MSM_ROOT / "state/orchestrator_config.json"
 UNSLOTH_PYTHON = Path("/home/aomukai/.unsloth/studio/unsloth_studio/bin/python")
 
 PHASE0_WORDS = [
@@ -56,6 +59,25 @@ PHASE0_SENTENCES = [
     "A book is open.",
 ]
 
+SPEAKER_TAG_RE = re.compile(r"\[(?:user|ninereeds|teacher|trainer)\]", re.IGNORECASE)
+WORD_RE = re.compile(r"[a-z0-9']+")
+
+PHASE0_GATES = {
+    "bounded_output_rate": 0.90,
+    "word_form_copy_rate": 0.80,
+    "sentence_shape_rate": 0.70,
+    "max_speaker_tag_corruption_rate": 0.05,
+    "max_loop_repetition_collapse_rate": 0.05,
+    "max_byte_noise_or_malformed_fragment_rate": 0.10,
+}
+
+PHASE1_GATES = {
+    "target_word_inclusion_rate": 0.85,
+    "exact_or_near_word_reproduction_rate": 0.75,
+    "bounded_output_rate": 0.90,
+    "max_malformed_rate": 0.10,
+}
+
 
 class RunnerError(RuntimeError):
     pass
@@ -77,6 +99,12 @@ def load_json(path: Path) -> dict[str, Any]:
     if not isinstance(data, dict):
         raise RunnerError(f"{rel(path)} must contain a JSON object")
     return data
+
+
+def load_optional_json(path: Path) -> dict[str, Any] | None:
+    if not path.exists():
+        return None
+    return load_json(path)
 
 
 def write_json(path: Path, data: dict[str, Any]) -> None:
@@ -109,17 +137,31 @@ def current_phase(registry: dict[str, Any]) -> str:
 
 def next_block_id(phase_id: str) -> str:
     phase_dir = MSM_ROOT / "phase_blocks" / phase_id
-    existing = sorted(phase_dir.glob(f"{phase_id}_block_*/block_report.json"))
+    existing = sorted(path for path in phase_dir.glob(f"{phase_id}_block_*") if path.is_dir())
     return f"{phase_id}_block_{len(existing) + 1:04d}"
 
 
-def phase_parent(registry: dict[str, Any], explicit_parent: str | None) -> str:
+def phase_parent(config: dict[str, Any] | None, registry: dict[str, Any], explicit_parent: str | None) -> str:
     if explicit_parent:
         return explicit_parent
+    if config:
+        parent = config.get("checkpoint_policy", {}).get("current_parent")
+        if isinstance(parent, str) and parent:
+            return parent
     parent = registry.get("checkpoint_policy", {}).get("current_parent")
     if isinstance(parent, str) and parent:
         return parent
     return "scratch"
+
+
+def record_working_parent(config: dict[str, Any] | None, checkpoint: str | None) -> None:
+    if not config or not checkpoint:
+        return
+    checkpoint_policy = config.get("checkpoint_policy")
+    if not isinstance(checkpoint_policy, dict):
+        return
+    checkpoint_policy["current_parent"] = checkpoint
+    write_json(CONFIG_PATH, config)
 
 
 def phase0_examples(count: int, seed: int) -> list[dict[str, str]]:
@@ -226,19 +268,191 @@ def run_train(cmd: list[str], stdout_path: Path) -> None:
         raise RunnerError(f"train.py failed with exit code {proc.returncode}; see {rel(stdout_path)}")
 
 
-def write_probe_manifest(path: Path, phase_id: str) -> None:
+def phase_probes(phase_id: str) -> list[dict[str, str]]:
     if phase_id == "phase_0_form":
-        probes = [
-            {"prompt": "[user] say dog\n[Ninereeds]", "target": "word_copy"},
-            {"prompt": "[user] say cat\n[Ninereeds]", "target": "word_copy"},
-            {"prompt": "[user] write a short sentence\n[Ninereeds]", "target": "sentence_shape"},
+        return [
+            {"probe_id": "p001", "prompt": "[user] say dog\n[Ninereeds]", "target": "word_copy", "expected_text": "dog"},
+            {"probe_id": "p002", "prompt": "[user] say cat\n[Ninereeds]", "target": "word_copy", "expected_text": "cat"},
+            {"probe_id": "p003", "prompt": "[user] say red\n[Ninereeds]", "target": "word_copy", "expected_text": "red"},
+            {"probe_id": "p004", "prompt": "[user] say blue\n[Ninereeds]", "target": "word_copy", "expected_text": "blue"},
+            {
+                "probe_id": "p005",
+                "prompt": "[user] write a short sentence\n[Ninereeds]",
+                "target": "sentence_shape",
+                "expected_text": "",
+            },
+            {
+                "probe_id": "p006",
+                "prompt": "[user] write a short sentence\n[Ninereeds]",
+                "target": "sentence_shape",
+                "expected_text": "",
+            },
         ]
-    else:
-        probes = [
-            {"prompt": "[user] the word is dog\n[Ninereeds]", "target": "word_form"},
-            {"prompt": "[user] the word is cat\n[Ninereeds]", "target": "word_form"},
+    if phase_id == "phase_1_word_form":
+        return [
+            {"probe_id": "p001", "prompt": "[user] the word is dog\n[Ninereeds]", "target": "word_form", "expected_text": "dog"},
+            {"probe_id": "p002", "prompt": "[user] the word is cat\n[Ninereeds]", "target": "word_form", "expected_text": "cat"},
+            {"probe_id": "p003", "prompt": "[user] copy water\n[Ninereeds]", "target": "word_form", "expected_text": "water"},
+            {"probe_id": "p004", "prompt": "[user] copy book\n[Ninereeds]", "target": "word_form", "expected_text": "book"},
         ]
+    raise RunnerError(f"{phase_id} has no implemented probe manifest.")
+
+
+def write_probe_manifest(path: Path, phase_id: str) -> list[dict[str, str]]:
+    probes = phase_probes(phase_id)
     append_jsonl(path, probes)
+    return probes
+
+
+def printable_ratio(text: str) -> float:
+    if not text:
+        return 0.0
+    printable = 0
+    for char in text:
+        category = unicodedata.category(char)
+        if char in "\n\t" or not category.startswith("C"):
+            printable += 1
+    return printable / len(text)
+
+
+def word_tokens(text: str) -> list[str]:
+    return WORD_RE.findall(text.lower())
+
+
+def has_repetition_loop(text: str) -> bool:
+    if re.search(r"(.)\1{7,}", text):
+        return True
+    words = word_tokens(text)
+    if len(words) >= 8:
+        trigrams = [tuple(words[index:index + 3]) for index in range(len(words) - 2)]
+        if len(set(trigrams)) < len(trigrams):
+            return True
+    compact = "".join(ch for ch in text.lower() if not ch.isspace())
+    if len(compact) >= 16:
+        chunks = [compact[index:index + 4] for index in range(len(compact) - 3)]
+        if len(set(chunks)) < len(chunks) * 0.75:
+            return True
+    return False
+
+
+def sentence_shape_ok(text: str) -> bool:
+    words = word_tokens(text)
+    return len(words) >= 3 and bool(re.search(r"[.!?]", text))
+
+
+def evaluate_probe(phase_id: str, probe: dict[str, str], output: str) -> dict[str, Any]:
+    text = output.strip()
+    target = probe["target"]
+    expected = probe.get("expected_text", "").lower()
+    words = word_tokens(text)
+    tag_corruption = bool(SPEAKER_TAG_RE.search(text))
+    loop = has_repetition_loop(text)
+    malformed = not text or "\ufffd" in text or "\x00" in text or printable_ratio(text) < 0.90
+    bounded = bool(text) and len(text.encode("utf-8", errors="replace")) <= 128 and text.count("\n") <= 2 and not tag_corruption
+    printable = bool(text) and printable_ratio(text) >= 0.95
+
+    target_pass = False
+    exact_or_near = False
+    if target in {"word_copy", "word_form"} and expected:
+        target_pass = expected in words[:8]
+        exact_or_near = bool(words) and words[0] == expected
+    elif target == "sentence_shape":
+        target_pass = sentence_shape_ok(text)
+
+    return {
+        "schema_version": "msm_phase_probe_result_v1",
+        "phase_id": phase_id,
+        "probe_id": probe["probe_id"],
+        "prompt": probe["prompt"],
+        "target": target,
+        "expected_text": probe.get("expected_text"),
+        "output": text,
+        "bounded_output": bounded,
+        "printable_text": printable,
+        "target_pass": target_pass,
+        "exact_or_near_word_reproduction": exact_or_near,
+        "speaker_tag_corruption": tag_corruption,
+        "repetition_collapse": loop,
+        "malformed": malformed,
+    }
+
+
+def rate(rows: list[dict[str, Any]], key: str, *, target: str | None = None) -> float:
+    selected = [row for row in rows if target is None or row.get("target") == target]
+    if not selected:
+        return 0.0
+    return round(sum(1 for row in selected if row.get(key) is True) / len(selected), 3)
+
+
+def summarize_probe_results(phase_id: str, rows: list[dict[str, Any]]) -> tuple[dict[str, Any], str, str, str]:
+    metrics: dict[str, Any] = {
+        "probe_execution": "implemented",
+        "probe_count": len(rows),
+        "bounded_output_rate": rate(rows, "bounded_output"),
+        "printable_text_rate": rate(rows, "printable_text"),
+        "speaker_tag_corruption_rate": round(sum(1 for row in rows if row["speaker_tag_corruption"]) / max(len(rows), 1), 3),
+        "loop_repetition_collapse_rate": round(sum(1 for row in rows if row["repetition_collapse"]) / max(len(rows), 1), 3),
+        "byte_noise_or_malformed_fragment_rate": round(sum(1 for row in rows if row["malformed"]) / max(len(rows), 1), 3),
+    }
+
+    if phase_id == "phase_0_form":
+        metrics["word_form_copy_rate"] = rate(rows, "target_pass", target="word_copy")
+        metrics["sentence_shape_rate"] = rate(rows, "target_pass", target="sentence_shape")
+        passed = (
+            metrics["bounded_output_rate"] >= PHASE0_GATES["bounded_output_rate"]
+            and metrics["word_form_copy_rate"] >= PHASE0_GATES["word_form_copy_rate"]
+            and metrics["sentence_shape_rate"] >= PHASE0_GATES["sentence_shape_rate"]
+            and metrics["speaker_tag_corruption_rate"] <= PHASE0_GATES["max_speaker_tag_corruption_rate"]
+            and metrics["loop_repetition_collapse_rate"] <= PHASE0_GATES["max_loop_repetition_collapse_rate"]
+            and metrics["byte_noise_or_malformed_fragment_rate"] <= PHASE0_GATES["max_byte_noise_or_malformed_fragment_rate"]
+        )
+    elif phase_id == "phase_1_word_form":
+        metrics["target_word_inclusion_rate"] = rate(rows, "target_pass", target="word_form")
+        metrics["exact_or_near_word_reproduction_rate"] = rate(rows, "exact_or_near_word_reproduction", target="word_form")
+        metrics["malformed_rate"] = metrics["byte_noise_or_malformed_fragment_rate"]
+        passed = (
+            metrics["target_word_inclusion_rate"] >= PHASE1_GATES["target_word_inclusion_rate"]
+            and metrics["exact_or_near_word_reproduction_rate"] >= PHASE1_GATES["exact_or_near_word_reproduction_rate"]
+            and metrics["bounded_output_rate"] >= PHASE1_GATES["bounded_output_rate"]
+            and metrics["malformed_rate"] <= PHASE1_GATES["max_malformed_rate"]
+        )
+    else:
+        raise RunnerError(f"{phase_id} probe summarization is not implemented.")
+
+    if passed:
+        return metrics, "met", "phase_gate_review", "Phase probe gate met; orchestrator should review promotion."
+    return metrics, "not_met", "run_next_block_same_phase", "Phase probe gate not met; local runner may continue with another bounded block."
+
+
+def run_probes(
+    *,
+    checkpoint: Path,
+    phase_id: str,
+    probes: list[dict[str, str]],
+    results_path: Path,
+    args: argparse.Namespace,
+) -> tuple[dict[str, Any], str, str, str]:
+    if str(ROOT) not in sys.path:
+        sys.path.insert(0, str(ROOT))
+    import torch
+    from inference import BDHInference
+
+    model = BDHInference(
+        checkpoint_path=checkpoint,
+        max_new_tokens=args.probe_max_new_tokens,
+        temperature=args.probe_temperature,
+        top_k=args.probe_top_k,
+        device=args.device,
+    )
+    rows: list[dict[str, Any]] = []
+    for index, probe in enumerate(probes):
+        torch.manual_seed(args.seed + 10_000 + index)
+        if torch.cuda.is_available():
+            torch.cuda.manual_seed_all(args.seed + 10_000 + index)
+        output = model.generate_text(probe["prompt"])
+        rows.append(evaluate_probe(phase_id, probe, output))
+    append_jsonl(results_path, rows)
+    return summarize_probe_results(phase_id, rows)
 
 
 def parse_args() -> argparse.Namespace:
@@ -257,6 +471,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--adam8bit", action="store_true")
     parser.add_argument("--no-shuffle", action="store_true")
     parser.add_argument("--dry-run", action="store_true", help="Write artifacts and command, but do not run train.py.")
+    parser.add_argument("--skip-probes", action="store_true", help="Train and report without executing phase probes.")
+    parser.add_argument("--probe-max-new-tokens", type=int, default=32)
+    parser.add_argument("--probe-temperature", type=float, default=0.2)
+    parser.add_argument("--probe-top-k", type=int, default=None)
     return parser.parse_args()
 
 
@@ -268,19 +486,22 @@ def main() -> int:
         raise RunnerError("--prompt-tail-bytes must be < --block-size")
 
     registry = load_json(REGISTRY_PATH)
+    config = load_optional_json(CONFIG_PATH)
     phase_id = args.phase_id or current_phase(registry)
     block_id = next_block_id(phase_id)
     block_dir = MSM_ROOT / "phase_blocks" / phase_id / block_id
     frontload_path = block_dir / "frontload.jsonl"
     probe_path = block_dir / "probes.jsonl"
+    probe_results_path = block_dir / "probe_results.jsonl"
     stdout_path = block_dir / "train_stdout.log"
     report_path = block_dir / "block_report.json"
+    runner_status_path = block_dir / "runner_status.json"
     output_checkpoint = ROOT / "core/msm" / f"{block_id}.pt"
-    parent = phase_parent(registry, args.parent)
+    parent = phase_parent(config, registry, args.parent)
 
     rows = generate_frontload(phase_id, args.examples, args.seed)
     append_jsonl(frontload_path, rows)
-    write_probe_manifest(probe_path, phase_id)
+    probes = write_probe_manifest(probe_path, phase_id)
 
     cmd = build_train_command(
         jsonl_path=frontload_path,
@@ -292,21 +513,47 @@ def main() -> int:
     status = "planned"
     checkpoint_after: str | None = None
     metrics: dict[str, Any] = {
-        "probe_execution": "not_implemented",
+        "probe_execution": "not_run",
         "frontload_examples": len(rows),
     }
     gate_status = "not_evaluated"
-    recommendation = "run_next_block_same_phase"
+    recommendation = "escalate_orchestrator"
     notes = "Dry run only; train.py was not executed." if args.dry_run else None
 
     try:
         if not args.dry_run:
+            write_json(runner_status_path, {
+                "schema_version": "msm_phase_runner_status_v1",
+                "updated_at": utc_now(),
+                "phase_id": phase_id,
+                "block_id": block_id,
+                "status": "training",
+            })
             run_train(cmd, stdout_path)
             if not output_checkpoint.exists():
                 raise RunnerError(f"expected output checkpoint missing: {rel(output_checkpoint)}")
             status = "trained"
             checkpoint_after = rel(output_checkpoint)
-            notes = "Training block completed. Probe execution is the next implementation step."
+            if args.skip_probes:
+                metrics["probe_execution"] = "skipped"
+                notes = "Training block completed, but probes were skipped. Orchestrator decision required."
+            else:
+                write_json(runner_status_path, {
+                    "schema_version": "msm_phase_runner_status_v1",
+                    "updated_at": utc_now(),
+                    "phase_id": phase_id,
+                    "block_id": block_id,
+                    "status": "probing",
+                })
+                probe_metrics, gate_status, recommendation, notes = run_probes(
+                    checkpoint=output_checkpoint,
+                    phase_id=phase_id,
+                    probes=probes,
+                    results_path=probe_results_path,
+                    args=args,
+                )
+                metrics.update(probe_metrics)
+                status = "probed"
     except Exception as exc:
         status = "failed"
         gate_status = "blocked"
@@ -330,12 +577,23 @@ def main() -> int:
         "artifacts": {
             "frontload_jsonl": rel(frontload_path),
             "probe_jsonl": rel(probe_path),
+            "probe_results_jsonl": rel(probe_results_path) if probe_results_path.exists() else None,
             "train_stdout": rel(stdout_path) if stdout_path.exists() else None,
             "report_json": rel(report_path),
         },
         "notes": notes,
     }
     write_json(report_path, report)
+    if status == "probed":
+        record_working_parent(config, checkpoint_after)
+    write_json(runner_status_path, {
+        "schema_version": "msm_phase_runner_status_v1",
+        "updated_at": utc_now(),
+        "phase_id": phase_id,
+        "block_id": block_id,
+        "status": status,
+        "report_json": rel(report_path),
+    })
     print(json.dumps({"block_report": rel(report_path), "status": status, "train_command": shlex.join(cmd)}, indent=2))
     return 1 if status == "failed" else 0
 

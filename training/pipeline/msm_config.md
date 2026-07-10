@@ -8,8 +8,9 @@ Machine-readable schema:
 
 `training/pipeline/orchestrator_config_schema.json`
 
-If the file does not exist yet, the orchestrator should create it from this contract before
-running autonomous sessions.
+If the file does not exist yet, ordinary startup writes the static default with
+`meta/scripts/msm_bootstrap_config.py` before autonomous sessions. The orchestrator should
+only modify this config after recording an explicit decision.
 
 ---
 
@@ -119,6 +120,11 @@ failures, retry counts, last strategy, and last session. `session_archive.json` 
 queryable index of report-card summaries and script fingerprints. The full report
 artifacts remain under `training/pipeline/msm/sessions/SESSION_ID/`.
 
+During Phase 0/1 frontload blocks, the local runner may update
+`checkpoint_policy.current_parent` to the latest successfully probed block checkpoint so the
+next local block continues training instead of restarting from `scratch`. The orchestrator
+still owns phase promotion and `accepted_checkpoint`.
+
 ## Cold-Start Block Runner
 
 Phase 0 and Phase 1 use a frontload block loop, not the later MSM session loop:
@@ -134,5 +140,6 @@ python3 meta/scripts/msm_phase_runner.py
 ```
 
 When the current parent is `scratch`, the runner must call `train.py` without `--resume`.
-No explicit scratch checkpoint file is required. After the first accepted cold-start block,
-later blocks resume from the accepted checkpoint recorded by checkpoint policy.
+No explicit scratch checkpoint file is required. After a successfully probed Phase 0/1 block,
+later local blocks resume from `checkpoint_policy.current_parent`. The orchestrator promotes
+or rejects a phase only after reviewing the gate report.

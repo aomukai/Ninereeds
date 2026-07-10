@@ -2,7 +2,7 @@
 
 Read this after `CLAUDE.md`. This file is the short map for a fresh session.
 
-Last updated: 2026-07-09
+Last updated: 2026-07-10
 
 ---
 
@@ -11,7 +11,8 @@ Last updated: 2026-07-09
 1. Read `CLAUDE.md` for global operating constraints.
 2. Read this file for current artifact pointers and key references.
 3. Read `todo.md` for the active work queue.
-4. Run Step 0 from `training/pipeline/runbook.md` to check MSM session/update state.
+4. Run `training/pipeline/start.sh --status-only` for the deterministic MSM startup summary.
+5. Run Step 0 from `training/pipeline/runbook.md` when planning or supervising MSM work.
 
 ---
 
@@ -22,10 +23,12 @@ Last updated: 2026-07-09
 | Active regime | Cold-start MSM developmental training |
 | Canonical runbook | `training/pipeline/runbook.md` |
 | Active phase | `phase_0_form` in `training/pipeline/msm/state/phase_registry.json` |
-| Initial checkpoint policy | Start from `scratch` unless a phase transition artifact says otherwise |
-| Active work | Build the stateless cold-start MSM phase pipeline and supporting scripts |
+| Initial checkpoint policy | `training/pipeline/msm/state/orchestrator_config.json` starts from `scratch`; Phase 0/1 local blocks advance `checkpoint_policy.current_parent` after successful probe reports |
+| Active work | Assemble training machine, then configure concrete SSH/trainbox handoff and tune the two-PC loop |
 | Update backend | `meta/scripts/msm_micro_update.py` |
-| Hardware status | Training machine not assembled yet; implementation can proceed, live runs wait |
+| Startup entrypoint | `training/pipeline/start.sh` |
+| Hermes setup contract | `training/pipeline/hermes.md` |
+| Hardware status | Training machine not assembled yet; local bootstrap/status tooling is ready, concrete SSH config waits |
 
 Historical campaign checkpoints are evidence only. They are not active parents.
 
@@ -39,7 +42,11 @@ input artifacts, writes explicit output artifacts, and can be restarted from dis
 Durable facts live in JSON/report artifacts under `training/pipeline/msm/`, especially:
 
 - `state/phase_registry.json` - active phase and canonical phase order
+- `state/orchestrator_config.json` - current parent/config defaults
+- `state/orchestrator_status.json` and `.md` - orchestrator state-of-the-union for Hermes
+- `state/hermes_digest.md` - compact Hermes Discord digest source
 - `phase_blocks/PHASE_ID/BLOCK_ID/block_report.json` - cold-start block evidence
+- `phase_blocks/PHASE_ID/BLOCK_ID/probe_results.jsonl` - cold-start probe outputs
 - `sessions/SESSION_ID/report_card.json` - later MSM session evidence
 - `state/concept_state.json` and `state/session_archive.json` - derived indexes when used
 
@@ -53,6 +60,7 @@ summary.
 
 | What | Where |
 |---|---|
+| Startup/supervisor entrypoint | `training/pipeline/start.sh` |
 | Orchestrator startup | `training/pipeline/orchestrator_startup.md` |
 | Executable step sequence | `training/pipeline/runbook.md` |
 | MSM training doctrine | `training/pipeline/training.md` |
@@ -62,6 +70,7 @@ summary.
 | Mommy Says system boundary | `training/pipeline/mommy_says_machine.md` |
 | Concept-card tutor method | `training/pipeline/tutor_loop.md` |
 | Sentinel files | `training/pipeline/sentinel_files.md` |
+| Hermes setup contract | `training/pipeline/hermes.md` |
 | MSM config contract | `training/pipeline/msm_config.md` |
 | Codex brake/status schemas | `training/pipeline/codex_brake_schema.json` + `training/pipeline/codex_status_schema.json` |
 | Auto-advance schemas | `training/pipeline/active_campaign_policy_schema.json`, `training/pipeline/word_queue_schema.json`, `training/pipeline/auto_advance_state_schema.json` |
@@ -71,6 +80,9 @@ summary.
 | Phase registry schema | `training/pipeline/phase_registry_schema.json` |
 | Phase block report schema | `training/pipeline/phase_block_report_schema.json` |
 | Active phase registry | `training/pipeline/msm/state/phase_registry.json` |
+| Active orchestrator config | `training/pipeline/msm/state/orchestrator_config.json` |
+| Orchestrator status artifacts | `training/pipeline/msm/state/orchestrator_status.json` + `.md` |
+| Hermes digest artifact | `training/pipeline/msm/state/hermes_digest.md` |
 | Concept state schema | `training/pipeline/concept_state_schema.json` |
 | Session archive schema | `training/pipeline/session_archive_schema.json` |
 | Update artifact schema | `training/pipeline/update_artifact_schema.md` |
@@ -78,8 +90,10 @@ summary.
 | Update candidate eval schema | `training/pipeline/update_candidate_eval_schema.json` |
 | Orchestrator config schema | `training/pipeline/orchestrator_config_schema.json` |
 | Micro-update backend | `meta/scripts/msm_micro_update.py` |
+| Config bootstrap helper | `meta/scripts/msm_bootstrap_config.py` |
 | Cold-start phase runner | `meta/scripts/msm_phase_runner.py` |
 | Orchestrator status helper | `meta/scripts/msm_orchestrator_status.py` |
+| Hermes digest builder | `meta/scripts/hermes_digest.py` |
 | MSM utility helpers | `meta/scripts/msm_pipeline_utils.py` |
 | Codex status watchdog | `meta/scripts/watch_codex_status.py` |
 
@@ -115,7 +129,7 @@ Evaluation is anytime in the MSM regime. It is not tied to epochs.
 ```text
 training/pipeline/       active MSM docs, schemas, and explicit artifacts
 training/pipeline/msm/   artifact tree: state files, phase blocks, sessions, buffers, updates, logs
-meta/scripts/            runners, generators, eval tools, MSM micro-update backend
+meta/scripts/            runners, generators, eval tools, status/digest helpers, MSM micro-update backend
 core/                    local working checkpoints
 checkpoints/             promoted checkpoints
 training/logs/           historical campaign logs, grounding evals, brain maps
@@ -130,6 +144,7 @@ archive/training_pipeline/ historical epoch-campaign pipeline docs/configs
 - Python for training: `/home/aomukai/.unsloth/studio/unsloth_studio/bin/python`
 - Training GPU: `CUDA_VISIBLE_DEVICES=0`
 - Chat/executor GPU target: second RTX 3060 once the new machine exists
+- Two-PC target: Hermes/watchdog/orchestrator status on the main machine; executor/trainer on trainbox after concrete SSH paths are configured
 - Model: `bdh.py`; do not modify casually
 - Checkpoints: `core/*.pt` and `checkpoints/` are local-only
 

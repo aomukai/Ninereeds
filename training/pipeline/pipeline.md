@@ -30,7 +30,9 @@ Phase 0 and Phase 1 use a frontload block runner before ordinary MSM sessions ar
 phase policy -> generate examples -> train block -> probe -> block report
 ```
 
-The current runner entry point is `meta/scripts/msm_phase_runner.py`.
+The current runner entry point is `meta/scripts/msm_phase_runner.py`. The normal supervisor
+entrypoint is `training/pipeline/start.sh`; it should run the local phase runner directly
+when status says `run_phase_block`, and wake Codex only for decision boundaries.
 
 ---
 
@@ -52,6 +54,9 @@ training/pipeline/msm/
     codex_status.json
     codex_status.md
     codex_brake.json
+    orchestrator_status.json
+    orchestrator_status.md
+    hermes_digest.md
     active_campaign_policy.json
     word_queue.json
     auto_advance_state.json
@@ -72,6 +77,7 @@ training/pipeline/msm/
       BLOCK_ID/
         frontload.jsonl
         probes.jsonl
+        probe_results.jsonl
         train_stdout.log
         block_report.json
   buffers/

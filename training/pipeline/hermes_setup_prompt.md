@@ -1,8 +1,7 @@
 # Hermes Setup Prompt for Ninereeds Cronjobs
 
-Use this prompt only while Hermes is temporarily running a stronger setup model. After the
-cronjobs and reporting path are working, Hermes should return to a boring read-only
-reporter model.
+Use `training/pipeline/hermes.md` as the canonical setup contract. This file is retained as
+historical context only.
 
 ```text
 You are Hermes for the Ninereeds MSM lab.

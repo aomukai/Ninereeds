@@ -7,10 +7,10 @@ Purpose
 Run Codex in a named tmux session so the MSM watchdog can passively read visible Codex
 status output and write:
 
-- training/msm/state/codex_pane_snapshot.txt
-- training/msm/state/codex_status.json
-- training/msm/state/codex_status.md
-- training/msm/state/codex_brake.json
+- training/pipeline/msm/state/codex_pane_snapshot.txt
+- training/pipeline/msm/state/codex_status.json
+- training/pipeline/msm/state/codex_status.md
+- training/pipeline/msm/state/codex_brake.json
 
 The watchdog must not inject commands into Codex. It only reads the tmux pane.
 
@@ -118,8 +118,8 @@ Expected success exit: 0
 Read the outputs:
 
 ```bash
-cat training/msm/state/codex_status.md
-cat training/msm/state/codex_brake.json
+cat training/pipeline/msm/state/codex_status.md
+cat training/pipeline/msm/state/codex_brake.json
 ```
 
 Expected brake action while usage is low:
@@ -135,10 +135,10 @@ Expected brake action while usage is low:
 If the command exits 2 or writes `blocked_unknown_reset`, inspect:
 
 ```bash
-cat training/msm/state/codex_pane_snapshot.txt
-cat training/msm/state/codex_status.json
-cat training/msm/state/codex_brake.json
-find training/msm -name BLOCKED -print
+cat training/pipeline/msm/state/codex_pane_snapshot.txt
+cat training/pipeline/msm/state/codex_status.json
+cat training/pipeline/msm/state/codex_brake.json
+find training/pipeline/msm -name BLOCKED -print
 ```
 
 Common cause:
@@ -177,7 +177,7 @@ cd ~/Ninereeds
 while true; do
   date
   python3 meta/scripts/watch_codex_status.py || true
-  cat training/msm/state/codex_brake.json
+  cat training/pipeline/msm/state/codex_brake.json
   sleep 300
 done
 ```
